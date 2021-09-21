@@ -1252,3 +1252,53 @@
 > September 21, 2021 10:00 AM Eastern Daylight Time SAN DIEGO--(BUSINESS WIRE)--The need for accurate, easier to access medical data and top-tier customer service — while maintaining privacy and security — is at a critical high. Well iQ is a real-time feedback platform designed to improve patient-provider relationships and patient satisfaction. Well iQ, a PointClickCare Marketplace partner, is pleased to announce that it has completed an integration with the PointClickCare Platform. Well iQ is poised to give the families of people residing in senior care facilities a revolutionary tool to provide feedback on the care their loved ones receive, with the happy consequence of care providers meeting their needs more effectively and efficiently.
 
 
+***
+![Best cheap iPhone deals and sales for September 2021](https://icdn.digitaltrends.com/image/digitaltrends/iphone-2019-2.jpg "Best cheap iPhone deals and sales for September 2021")
+
+
+[Best cheap iPhone deals and sales for September 2021](https://www.digitaltrends.com/dtdeals/best-iphone-deals/)
+
+
+> Even with continued competition from Samsung, Google, LG, and many others, Apple's iconic iPhone remains the most popular smartphone brand in the U.S. Android brands combined command a moderately larger global market share, but none of them outpace Apple. It's also no secret iPhones aren't cheap,' but if you need a new one and are on the hunt for smartphone deals, we can help. We've scooped up a heaping helping of all the best cheap iPhone deals available this week, offering tidy discounts on everything from the iPhone X series to the latest iPhone 12.
+
+
+***
+![Pandas in Action ebook](https://external-preview.redd.it/eJVtTBZrE8XfSGQR8Oe4Z_FX4KDCBQnOXm5k708o-6k.jpg?auto=webp&s=1c7482a86df970967d15deaada15c56013bd65f9 "Pandas in Action ebook")
+
+
+[Pandas in Action ebook](https://www.reddit.com/r/Python/comments/pslsuh/pandas_in_action_ebook/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Facebook says it's spent $13 billion on ‘safety and security' since 2016](https://cdn.vox-cdn.com/thumbor/C36gGj0Q7Hz1TNUFdq_trlG8bzw=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10598819/vpavic_160712_1138_0048.jpg "Facebook says it's spent $13 billion on ‘safety and security' since 2016")
+
+
+[Facebook says it's spent $13 billion on ‘safety and security' since 2016](https://www.theverge.com/2021/9/21/22685863/facebook-safety-security-staff-spending-misinformation-abuse-wall-street-journal-reports)
+
+
+> Photo by Vjeran Pavic / The Verge Facebook says it's spent over $13 billion on 'safety and security' since 2016 and has 40,000 people dedicated to the area, offering a glimpse at its operations after a week of leaks published by The Wall Street Journal. The company used the numbers as an example of how it's addressed problems on Facebook and Instagram, saying the Journal's stories lacked 'important context' about complex issues. 'In the past, we didn't address safety and security challenges early enough in the product development process,' Facebook said in a blog post today.
+
+
+***
+![Best Samsung tablet deal: The S7+ is now under $650, S Pen included](https://helios-i.mashable.com/imagery/articles/07t92tccglPldGsRUKXcXvu/hero-image.fill.size_1200x675.v1632240309.png "Best Samsung tablet deal: The S7+ is now under $650, S Pen included")
+
+
+[Best Samsung tablet deal: The S7+ is now under $650, S Pen included](https://mashable.com/deals/sept-21-samsung-galaxy-tab-s7-plus)
+
+
+> Deal pricing and availability subject to change after time of publication. Save $200.99: Get the Samsung Galaxy Tab S7+ (128GB) for $649 at Amazon as of Sept. 21 â€' a 24% savings.The Galaxy Tab S7+ still reigns as Samsung's best tablet, and possibly the best Android tablet currently on the market. Save over $200 and grab the 128GB model at Amazon for its lowest price ever: $649.The Qualcomm Snapdragon 865 Plus is no Apple M1 chip, but it harnesses more than enough power for the S7+ to act as a casual laptop replacement.
+
+
+***
+![Best cheap GoPro alternative action cameras for September 2021](https://icdn.digitaltrends.com/image/digitaltrends/campark-2.jpg "Best cheap GoPro alternative action cameras for September 2021")
+
+
+[Best cheap GoPro alternative action cameras for September 2021](https://www.digitaltrends.com/dtdeals/gopro-alternative/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Are you itching to shoot action videos but don't have the cameras that can do the job? You may be astounded at the price differences between GoPro cameras and the GoPro alternatives. You don't have to spend hundreds of dollars to buy creditable action video cameras. If you want to record videos of your adventures, GoPro makes some of the best action cameras available. The GoPro Hero5 Black is considered the current standard for these rugged handheld devices.
+
+
