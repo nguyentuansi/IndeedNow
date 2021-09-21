@@ -1155,3 +1155,53 @@
 > China has twice as many gamers as the U.S. has people—some 700 million of them. That ubiquity, especially among young people, has worried China's central government. So at the start of this month, it banned people under 18 from playing video games for more than three hours a week. They could only play from 8 to 9 p.m. on Friday, Saturday, and Sunday nights. But it's not just video games. The government has gone after tutoring companies and big tech players in this 'season of crackdowns,' in an attempt to bring these sectors more in line with what they perceive as socialist values and to strengthen control over Chinese society and the Chinese economy.
 
 
+***
+![Slack releases Clips video tool, announces 16 Salesforce integrations – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1229913046.jpg?w=600 "Slack releases Clips video tool, announces 16 Salesforce integrations – TechCrunch")
+
+
+[Slack releases Clips video tool, announces 16 Salesforce integrations – TechCrunch](https://techcrunch.com/2021/09/21/slack-releases-clips-video-tool-announces-16-salesforce-integrations/)
+
+
+> Slack has been talking about expanding beyond text-based messaging for some time. Today at Dreamforce, the Salesforce customer conference taking place this week, it announced Clips, a way to leave short video messages that people can watch at their leisure. Slack CEO Stewart Butterfield sees Clips as a way to communicate with colleagues when a full 30 minutes meeting isn't really required. Instead, you can let people know what's going on through a brief video. 'Clips are a way to record yourself on your screen.
+
+
+***
+![Broadband shock in the United Kingdom! The unflattering truth about your downloads is revealed.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Broadband shock in the United Kingdom! The unflattering truth about your downloads is revealed.")
+
+
+[Broadband shock in the United Kingdom! The unflattering truth about your downloads is revealed.](https://en.brinkwire.com/technology/broadband-shock-in-the-united-kingdom-the-unflattering-truth-about-your-downloads-is-revealed/)
+
+
+> Broadband shock in the United Kingdom! The unflattering truth about your downloads is revealed. BROADBAND consumers continue to experience slow downloads, as the latest speed statistics expose the unflattering truth about the UK's internet speeds. Despite record expenditure and assertions from all of the major Internet Service Providers (ISPs) that things are improving, the UK's broadband looks to be still shamefully slow. According to the latest speed statistics from Cable.co.uk, Britain continues to lag far behind many parts of Europe, with UK web users frequently experiencing slow download rates.
+
+
+***
+![Bitmovin (YC S15) Is Hiring a Developer Advocate (Remote)](https://images.ctfassets.net/92drx18nt1vw/6jMlF4IxafuLZdJvUTuD7l/89168f9918447eaec265458505f9ac72/careers-header.jpg "Bitmovin (YC S15) Is Hiring a Developer Advocate (Remote)")
+
+
+[Bitmovin (YC S15) Is Hiring a Developer Advocate (Remote)](https://bitmovin.com/careers/5520683002)
+
+
+> Bitmovin provides API based software that powers the world's largest OTT online video providers with video developer tools, built by industry experts. Come join the team building innovative online video software for developers and content owners worldwide! As a Developer Advocate, you will Participate in relevant technical communities as a practitioner to gain a deep understanding of that community's needs, including input on design discussions, customer zero testing, launch, and post-launch updates Advocate for the community internally and help influence Bitmovin's product strategy by working with Product Management, Engineering, Marketing, Sales, Solutions, and other cross-functional teams Understand and synthesize feedback in order to drive continuous improvement to Bitmovin products and the overall developer experience Work with Product and Engineering teams to define product strategies and craft narratives around new products and features Build and cultivate an external developer community that amplifies messages and extends reach Moderate customer-facing forums including the developer community site, video-dev Slack, other relevant Slack channels, Stack Overflow (internal and external) Assist developers to get started with trials of Bitmovin products and measure CSAT for those trials, as the KPI that will measure the Developer Advocate's success 5 years of experience as a technical practitioner developing, delivering, or securing applications/systems Experience in the Computer Science field Experience in consulting and advising customers with cloud technologies Experience as a Software Developer, Architect, Technical Advocate, Developer Evangelist, Consultant, Community/Product Manager or Consultant working with various platforms Experience with frontline technical customer support Experience with blogging and writing technical articles for an existing follower base, and speaking at technology conferences Experience contributing to an open source project Ability to collaborate effectively across a global, matrixed organization, and manage multiple cross-functional stakeholders at all levels Ability to handle multiple priorities in an ever-changing environment Excellent written and spoken communication skills Working with an innovative, fast-growing and international team with low hierarchy Opportunity to make an impact on the multimedia industry in the Americas The ability to influence the product growth Competitive salary Flexible work hours The best and most modern tools to work with Investment in growth and education No routines, but new challenging projects with global impact Regular and fun team activities (hackathons, skiing days, …) The opportunity to work for a rapidly growing company building innovative video solutions Bitmovin, a YCombinator company,  is a fast growing privately owned technology leader, located in San Francisco, CA and Klagenfurt, Austria.
+
+
+***
+![HP's new 11-inch Windows 11 tablet has a clever reversible camera](https://icdn.digitaltrends.com/image/digitaltrends/hp-11-inch-tablet-01.jpg "HP's new 11-inch Windows 11 tablet has a clever reversible camera")
+
+
+[HP's new 11-inch Windows 11 tablet has a clever reversible camera](https://www.digitaltrends.com/computing/hp-11-inch-windows-11-tablet-has-a-reversible-camera/)
+
+
+> Windows tablets are trying to make a comeback. HP has announced a new 11-inch tablet that runs Windows 11, has a detachable keyboard, and features a unique camera gimmick. The HP 11-inch Tablet (yes, that's the official name) has a reversible, 13-megapixel camera that functions both as the device's rear-facing camera and as a pop-up, front-facing one. When you're ready to start a video call or take a selfie, the rear camera will flip around to point at your face, rotating up to 235 degrees. It can even tilt down and point at your desk.
+
+
+***
+![The new HP Envy 34 all-in-one has a magnetic webcam that's perfect for streamers](https://icdn.digitaltrends.com/image/digitaltrends/hp-envy-34-aio-7.jpg "The new HP Envy 34 all-in-one has a magnetic webcam that's perfect for streamers")
+
+
+[The new HP Envy 34 all-in-one has a magnetic webcam that's perfect for streamers](https://www.digitaltrends.com/computing/new-hp-envy-34-all-in-one-has-magnetic-webcam-for-streamers/)
+
+
+> HP just launched a major overhaul to its Envy all-in-one desktop that will ship with Windows 11 preloaded. Its magnetic webcam, though, is its most interesting feature. While you'll want the camera front and center for video calls, the benefit of this new magnetic system is you can aim the camera downward to capture digital scans of hand-drawn art or text on your desk. You can also mount the webcam to any side of the monitor using the magnets built into the display. The HP True Vision webcam connects via USB-A on the back and comes included in the price of the new Envy 34.
+
+
