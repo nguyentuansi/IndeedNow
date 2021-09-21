@@ -927,3 +927,40 @@
 > You will most likely start having to remember your password to get money, then came the email password, the work user password, the social networks password, ... Technology Goodbye to passwords: this is how Microsoft's new passwordless system works Technology Facebook ignored internal reports that Instagram is harmful to young people Most likely you will start having to remember your password to get money, then came the email password, the one for the work user, the social networks, the streaming services and so on until the limit of human memory does not allow to remember so many combinations.
 
 
+***
+![Final Nissan GT-R full details revealed](https://content.api.news/v3/images/bin/628a640f8a26823947ccbbd8518eac46 "Final Nissan GT-R full details revealed")
+
+
+[Final Nissan GT-R full details revealed](https://www.news.com.au/technology/motoring/motoring-news/full-details-nissans-final-gtr-supercar/news-story/bf5a1fb221fc53587fad8b8517450047)
+
+
+> Gran Turismo legend bows out in Australia with the most capable – and expensive – variants of Japan's supercar rival.The final run of R35-generation GT-Rs sold in Australia will arrive in a choice of five models culminating in the most expensive Nissan offered in Australia.Priced from $393,800 plus on-road costs, the fully loaded Nissan GT-R Nismo SV costs more than a Lamborghini Huracan, and almost as much as an opulent Bentley Continental or the latest Ferrari Roma.A handmade engine, ceramic brakes, extensive carbon fibre bodywork and super-light wheels contribute to the GT-R Nismo's huge asking price.
+
+
+***
+![A function decorator that rewrites the bytecode to enable goto](https://external-preview.redd.it/MBsHwPpAKb6_66uv2szamE3ln-XJpyllqCmLipq4M0U.jpg?auto=webp&s=7c70baa6ab47276f1c7f0f831c46bf7b0255d7ce "A function decorator that rewrites the bytecode to enable goto")
+
+
+[A function decorator that rewrites the bytecode to enable goto](https://www.reddit.com/r/Python/comments/ps8uud/a_function_decorator_that_rewrites_the_bytecode/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[ClickHouse, which provides an online analytical processing database management system, raises $50M Series A led by Index Ventures and Benchmark (FinSMEs)](http://www.techmeme.com/210920/p33#a210920p33)
+
+
+> FinSMEs: ClickHouse, which provides an online analytical processing database management system, raises $50M Series A led by Index Ventures and Benchmark — ClickHouse, a New York-based provider of an online analytical processing (OLAP) database management system, raised $50M in Series A funding.
+
+
+***
+![The importance of log(x)](https://external-preview.redd.it/n-UDPQpbN_Uj6hVUpcUx5GaZLpk4w4x6zDlyiIEtbHY.jpg?auto=webp&s=99c4601a0b61092690b370aa4396576c1ccfe996 "The importance of log(x)")
+
+
+[The importance of log(x)](https://www.reddit.com/r/programming/comments/ps8prb/the_importance_of_logx/)
+
+
+> no comments yetBe the first to share what you think!
+
+
