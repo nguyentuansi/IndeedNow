@@ -1390,3 +1390,50 @@
 > Marvel's Shang-Chi star Simu Liu is under fire for old Reddit posts linked to the actor that should have stayed in the drafts to begin with. Fortunately, no incident occurred, but it's still scary to watch from the security footage. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. What Royal the 2-year-old Belgian Malinois lacks in experience, he makes up for with sheer enthusiasm.
 
 
+***
+[Functions](https://www.reddit.com/r/Python/comments/pstbse/functions/)
+
+
+> def sum_of(x, y): result = x + y print(result)  How would I call the function to get the sum of 5 +10
+
+
+***
+![Apple's new SharePlay: How screenshare on FaceTime works in iOS 15](https://www.cnet.com/a/img/DbmcHKOuC6YX8CQVRdlCTSYSDU4=/1200x630/2021/06/07/40afe9eb-a10c-4448-a2ee-6557e55228f2/wwdc-2021-apple-038-ios-15-facetime.png "Apple's new SharePlay: How screenshare on FaceTime works in iOS 15")
+
+
+[Apple's new SharePlay: How screenshare on FaceTime works in iOS 15](https://www.cnet.com/tech/mobile/apples-new-shareplay-how-screenshare-on-facetime-works-in-ios-15/)
+
+
+> The new FaceTime feature allows you to experience streaming TV, movies and music within a video chat. Apple/Screenshot by Sarah Tew/CNET This story is part of Apple Event, our full coverage of the latest news from Apple. Apple's new iOS 15 is here and it almost makes us feel like we've bought a brand new phone (speaking of which, the iPhone 13 is available for preorder now). Apple's latest software update comes with a lot of new features, including Focus mode, real-time weather alerts so you know when it starts raining and facial recognition to safely store your driver's license and other IDs in your Apple Wallet.
+
+
+***
+![Apple Watch Series 7: The best new features and how you'll use them](https://www.cnet.com/a/img/9NV2vSBTiPIKak-1g4XFONX70cg=/1200x630/2021/09/17/ee557229-d76b-4623-b9a2-d4b8aa84ec00/037apple-watch-series-7-apple-announcements-september-2021-cnet-155.png "Apple Watch Series 7: The best new features and how you'll use them")
+
+
+[Apple Watch Series 7: The best new features and how you'll use them](https://www.cnet.com/tech/mobile/apple-watch-series-7-the-best-new-features-and-how-youll-use-them/)
+
+
+> The Apple Watch Series 7 goes on sale later this fall.  Apple/Screenshot by Sarah Tew/CNET This story is part of Apple Event, our full coverage of the latest news from Apple. The Apple Watch Series 7's larger screen and faster charging might not sound as exciting as the blood oxygen sensor that debuted in last year's Series 6. But the Series 7's new features have the potential to add more convenience to a lot of everyday tasks, from checking the time to responding to texts and tracking your sleep.
+
+
+***
+![Report: FBI Had Ransomware Decryption Key for Weeks Before Giving It to Victims](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/710bb4c68c9614dd3e5b9f5f5dec7871.jpg "Report: FBI Had Ransomware Decryption Key for Weeks Before Giving It to Victims")
+
+
+[Report: FBI Had Ransomware Decryption Key for Weeks Before Giving It to Victims](https://gizmodo.com/report-fbi-had-ransomware-decryption-key-for-weeks-bef-1847715916)
+
+
+> The Kaseya ransomware attack, which occurred in July and affected as many as 1,500 companies worldwide, was a big, destructive mess—one of the largest and most unwieldy of its kind in recent memory. But new information shows the FBI could have lightened the blow victims suffered but chose not to.A new report from the Washington Post shows that, shortly after the attack, the FBI came into possession of a decryption key that could unlock victims' data—thus allowing them to get their businesses back up and running.
+
+
+***
+![How To Change Your Default Search Engine In Chrome](https://www.androidheadlines.com/wp-content/uploads/2021/09/00-How-to-Change-Default-Search-Engine-Chrome-title-DG-AH-2021.jpg "How To Change Your Default Search Engine In Chrome")
+
+
+[How To Change Your Default Search Engine In Chrome](https://www.androidheadlines.com/how-to-change-chrome-desktop-phone-default-search-engine.html)
+
+
+> Chrome is a great browser but Google's data collection practices and other general concerns — well-founded or not — may make some want to change the browser's default search engine. Fortunately, just because you're using the company's browser doesn't mean you have to use its search. And that holds true not only for using Google.com, in general. But also in terms of which browser is used when you type a search into the URL Omnibox.None of that is to say that the process is intuitive. Even if it is easy enough to accomplish.
+
+
