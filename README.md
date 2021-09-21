@@ -1302,3 +1302,47 @@
 > Digital Trends may earn a commission when you buy through links on our site. Are you itching to shoot action videos but don't have the cameras that can do the job? You may be astounded at the price differences between GoPro cameras and the GoPro alternatives. You don't have to spend hundreds of dollars to buy creditable action video cameras. If you want to record videos of your adventures, GoPro makes some of the best action cameras available. The GoPro Hero5 Black is considered the current standard for these rugged handheld devices.
 
 
+***
+![Apple iOS 15 features that aren't available at launch](https://icdn.digitaltrends.com/image/digitaltrends/iphone-13-ios-15-2.jpg "Apple iOS 15 features that aren't available at launch")
+
+
+[Apple iOS 15 features that aren't available at launch](https://www.digitaltrends.com/mobile/ios-15-missing-features/)
+
+
+> Apple's launch of iOS 15 introduced some big changes to apps like Safari, but you might have noticed some things missing. A few features will be added in later software updates, but there are several that you may never see, depending on the age of your iPhone. What features aren't available yet? Some of these will come in later updates, but others have only been announced. Here's what isn't going to be available the day you upgrade to iOS 15: SharePlay SharePlay was a leading feature in announcements about iOS 15, but it's not going to be available until later in the fall.
+
+
+***
+[One River Digital Asset Management, a crypto-fund management startup, raises $41M Series A at a $186M valuation, with Coinbase and Goldman Sachs participating (Erik Schatzker/Bloomberg)](http://www.techmeme.com/210921/p29#a210921p29)
+
+
+> Erik Schatzker / Bloomberg: One River Digital Asset Management, a crypto-fund management startup, raises $41M Series A at a $186M valuation, with Coinbase and Goldman Sachs participating — - Startup raises $41 million in Series A funding round — CEO Peters is planning new crypto products and a digital index
+
+
+***
+![How to change your button shortcuts on the Samsung Galaxy Watch 4](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop_wm_brw/public/article_images/2021/09/galaxy-watch-4-buttons-closeup.jpg "How to change your button shortcuts on the Samsung Galaxy Watch 4")
+
+
+[How to change your button shortcuts on the Samsung Galaxy Watch 4](https://www.androidcentral.com/how-change-your-button-shortcuts-samsung-galaxy-watch-4)
+
+
+> Source: Ara Wagoner / Android Central The Samsung Galaxy Watch 4 has two buttons, just like previous Galaxy Watches. Samsung still has shortcuts you can map to the back and home buttons, just like previous Galaxy Watches. There's no way to swap the home and back buttons — those coming from earlier Galaxy Watches will have to get used to Home on top rather than on bottom — but if you want to change the button shortcuts on your Galaxy Watch 4, it's a quick and easy process. How to change button shortcuts on Galaxy Watch 4 Swipe down to open Quick Settings.
+
+
+***
+![Elevate your Mac mini experience with one of the best monitors around](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/08/lg-uw-hero.jpeg "Elevate your Mac mini experience with one of the best monitors around")
+
+
+[Elevate your Mac mini experience with one of the best monitors around](https://www.imore.com/absolute-best-monitor-mac-mini)
+
+
+> Source: iMore Best monitor for Mac mini iMore 2021 If you're looking for the best monitor to go with your shiny new Mac mini (2020) with the incredible M1 chip or an older Intel Mac mini, you've come to the right place. Your best bet is the LG 27UN850-W 27 Inch Ultrafine, thanks to ultra-high-definition imagery, MacBook charging capabilities, and affordable price. LG's monitor is perfect for most people, but there are other monitors you can also consider, depending on your situation or budget. Here is our guide to the best monitors for Mac mini.
+
+
+***
+[PaSh: project for automatically parallelizing POSIX shell scripts](https://www.reddit.com/r/programming/comments/pso40m/pash_project_for_automatically_parallelizing/)
+
+
+> no comments yetBe the first to share what you think!
+
+
