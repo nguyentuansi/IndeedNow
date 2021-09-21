@@ -877,3 +877,53 @@
 > Think the the graphics card shortage is finally looking up? Unfortunately, the latest reports from 3DCenter show not just another large spike in pricing, but also a decrease in GPU availability. The shortage has left many aspiring PC builders wondering if they will ever be able to get a new GPU at a normal price. The last few months have brought with them some good news that implied the situation was improving, but that seems to already be reversing. The GPU situation over the past few months has resembled a ride on a roller coaster.
 
 
+***
+![What's New In DevTools (Chrome 95)](https://external-preview.redd.it/DdP2KM_SHXF1desm_b5vw98JZDQAwT1LKnZafRZkeYg.jpg?auto=webp&s=ab3ffbee7c43f019622211b397c717e0414b4c8d "What's New In DevTools (Chrome 95)")
+
+
+[What's New In DevTools (Chrome 95)](https://www.reddit.com/r/programming/comments/ps79mw/whats_new_in_devtools_chrome_95_chrome_developers/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Netflix unveils free-to-stream tier for Android users in Kenya](https://photos5.appleinsider.com/gallery/44552-86495-210920-NetflixKenya-xl.jpg "Netflix unveils free-to-stream tier for Android users in Kenya")
+
+
+[Netflix unveils free-to-stream tier for Android users in Kenya](https://appleinsider.com/articles/21/09/21/netflix-unveils-free-to-stream-tier-for-android-to-debut-in-kenya)
+
+
+> Lock screen bypass enables access to Notes in iOS 15 3 hours ago Apple updates Mail on iCloud.com with new design, Hide My Email 3 hours ago
+
+
+***
+![The best hotel in Europe with less than 50 rooms is Spanish](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/09/20/16321348861348.jpg "The best hotel in Europe with less than 50 rooms is Spanish")
+
+
+[The best hotel in Europe with less than 50 rooms is Spanish](https://www.tellerreport.com/tech/2021-09-21-the-best-hotel-in-europe-with-less-than-50-rooms-is-spanish.H1OW7sUQK.html)
+
+
+> It was one of the most anticipated openings of the end of last year. After three years closed, the Convent of San Marcos de León (today National Parador), one of the great jo It was one of the most anticipated openings of the end of last year. After three years closed, the San Marcos de León Convent (today National Parador), one of the great jewels of the city's architecture and one of the most important monuments of the Spanish Renaissance, opened its doors completely renovated in its interior and with a 5-star Grand Luxury category.
+
+
+***
+![Apple's iMovie and Clips updated with support for Cinematic mode, ProRes](https://photos5.appleinsider.com/gallery/44551-86494-210920-iMovie-xl.jpg "Apple's iMovie and Clips updated with support for Cinematic mode, ProRes")
+
+
+[Apple's iMovie and Clips updated with support for Cinematic mode, ProRes](https://appleinsider.com/articles/21/09/20/apples-imovie-and-clips-updated-with-support-for-cinematic-mode-prores)
+
+
+> Lock screen bypass enables access to Notes in iOS 15 3 hours ago Apple updates Mail on iCloud.com with new design, Hide My Email 3 hours ago
+
+
+***
+![Why do you need a password manager and which are the best](https://phantom-elmundo.unidadeditorial.es/dbdaa8e154c02c4f8dd00159d9d66574/resize/1200/f/jpg/assets/multimedia/imagenes/2021/09/17/16318956743501.jpg "Why do you need a password manager and which are the best")
+
+
+[Why do you need a password manager and which are the best](https://www.tellerreport.com/tech/2021-09-21-why-do-you-need-a-password-manager-and-which-are-the-best.By2vfoImF.html)
+
+
+> You will most likely start having to remember your password to get money, then came the email password, the work user password, the social networks password, ... Technology Goodbye to passwords: this is how Microsoft's new passwordless system works Technology Facebook ignored internal reports that Instagram is harmful to young people Most likely you will start having to remember your password to get money, then came the email password, the one for the work user, the social networks, the streaming services and so on until the limit of human memory does not allow to remember so many combinations.
+
+
