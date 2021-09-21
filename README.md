@@ -1061,3 +1061,47 @@
 > Apple iOS 15 update download: The wait is finally over! Cupertino-based tech giant Apple has officially rolled out its latest OS- iOS 15. Now, iPhone users will be able to update to iOS 15. The company first unveiled iOS 15 earlier this year at its Worldwide Developers Conference.
 
 
+***
+[Golang Vs C++ – Which One To Choose?](https://www.reddit.com/r/programming/comments/pseaas/golang_vs_c_which_one_to_choose/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[蘋果推 iOS 15 等三大軟體，通話延伸和數位汽車鑰匙成亮點](https://technews.tw/2021/09/21/apple-ios-15-ipados-15-watchos-8/)
+
+
+> 蘋果（Apple）今天一口氣上線 iOS 15、iPadOS 15 以及 watchOS 8 等三大作業軟體， […]
+
+
+***
+![Hospital Management system (Android App)](https://external-preview.redd.it/VjRQ3Pb-T9h_OlmSU146VR2qQzBdKyKKCX1zcfnLAW0.jpg?auto=webp&s=9e937228455918df63b6f5d1f7f23df63cd51e1d "Hospital Management system (Android App)")
+
+
+[Hospital Management system (Android App)](https://www.reddit.com/r/programming/comments/pse8qr/hospital_management_system_android_app/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![ADTRAN Helps Alncom Bring Gigabit to Rural England](https://mms.businesswire.com/media/20210921005028/en/907405/23/2932685_adtran_logo_%282%29.jpg "ADTRAN Helps Alncom Bring Gigabit to Rural England")
+
+
+[ADTRAN Helps Alncom Bring Gigabit to Rural England](https://www.businesswire.com/news/home/20210921005028/en/ADTRAN-Helps-Alncom-Bring-Gigabit-to-Rural-England)
+
+
+> September 21, 2021 03:55 AM Eastern Daylight Time HUNTSVILLE, Ala.--(BUSINESS WIRE)--ADTRAN®, Inc., (NASDAQ:ADTN), the leading provider of next-generation multigigabit fibre and fibre extension broadband access solutions, today announced Alncom is leveraging the ADTRAN Total Access 5000 (TA5000) fibre access platform to deliver Gigabit-ready broadband services to rural regions in the UK and bridge the digital divide. The service provider is building a FTTH network that reaches more subscribers than ever before and delivers speeds that will connect its communities to new opportunities and better quality of life.
+
+
+***
+![ADTRAN Helps Wildanet Connect Rugged UK Coast to Ultra-Fast Fibre Broadband](https://mms.businesswire.com/media/20210921005095/en/907814/23/2932685_adtran_logo_%282%29.jpg "ADTRAN Helps Wildanet Connect Rugged UK Coast to Ultra-Fast Fibre Broadband")
+
+
+[ADTRAN Helps Wildanet Connect Rugged UK Coast to Ultra-Fast Fibre Broadband](https://www.businesswire.com/news/home/20210921005095/en/ADTRAN-Helps-Wildanet-Connect-Rugged-UK-Coast-to-Ultra-Fast-Fibre-Broadband)
+
+
+> September 21, 2021 03:55 AM Eastern Daylight Time HUNTSVILLE, Ala.--(BUSINESS WIRE)--ADTRAN®, Inc., (NASDAQ:ADTN), the leading provider of next-generation multigigabit fibre and fibre extension broadband access solutions, today announced Wildanet is leveraging the ADTRAN Total Access 5000 10G fibre access platform with XGS-PON technology to deliver ultra-fast broadband to underserved communities in Cornwall, UK. Cornwall is a top UK holiday destination and has a growing tech industry, both of which rely on fast broadband connectivity.
+
+
