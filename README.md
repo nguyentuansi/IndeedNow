@@ -1205,3 +1205,50 @@
 > HP just launched a major overhaul to its Envy all-in-one desktop that will ship with Windows 11 preloaded. Its magnetic webcam, though, is its most interesting feature. While you'll want the camera front and center for video calls, the benefit of this new magnetic system is you can aim the camera downward to capture digital scans of hand-drawn art or text on your desk. You can also mount the webcam to any side of the monitor using the magnets built into the display. The HP True Vision webcam connects via USB-A on the back and comes included in the price of the new Envy 34.
 
 
+***
+[AUDUSD retraces earlier gains, but find some support buying.](https://www.forexlive.com/technical-analysis/!/audusd-falls-as-traders-give-up-on-the-run-higher-20210921)
+
+
+> Trend line and 100 hour moving average keep a lid on the upside The price is well off the high price from the London morning session at 0.72823.
+
+
+***
+![Which Philips Hue bulb is bright enough for my home?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/07/philips-hue-a19-white-lifestyle.jpg "Which Philips Hue bulb is bright enough for my home?")
+
+
+[Which Philips Hue bulb is bright enough for my home?](https://www.androidcentral.com/philips-hue-60w-vs-75w-vs-100w)
+
+
+> Source: Amazon Philips Hue is one of the most sought-after brands for smart lighting. Though its lights come with a higher price tag than some cheap smart LED light bulbs, they're some of the easiest to install and integrate into smart home ecosystems as well as operate through the newly improved Hue app or voice commands. These bulbs connect directly via Bluetooth or a Hue Bridge, often included in starter kits and worth considering if you want to take advantage of all the smart features Hue bulbs have to offer.
+
+
+***
+![Grab the best clear case to show off and protect your iPhone 13 Pro](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/clear-cases-iphone-13-pro-hero.jpeg "Grab the best clear case to show off and protect your iPhone 13 Pro")
+
+
+[Grab the best clear case to show off and protect your iPhone 13 Pro](https://www.imore.com/best-clear-cases-iphone-13-pro)
+
+
+> Best clear cases for iPhone 13 Pro iMore 2021 The iPhone 13 Pro is undoubtedly a gorgeous phone. You definitely want one of the best iPhone 13 Pro cases to protect your purchase. But what if you don't want to cover up that perfect color you picked? Here are some of the best clear cases for your iPhone 13 Pro (and yes, some of them have some fun details that pop.) If you're not concerned about MagSafe, this totally clear case will do the job in style. The squared-off corners add extra protection where your phone needs it most.
+
+
+***
+![Comcast Expands Internet Essentials to Federal Pell Grant Recipients and Pledges $15 Million – in Free Internet Service and 25,000 Laptops – to Help Get Even More Americans Connected](https://mms.businesswire.com/media/20210921005360/en/908130/23/corporate_WebPublishing_InternetEssentials_TommyCollinsJr2_16x9_Thumbnail.jpg "Comcast Expands Internet Essentials to Federal Pell Grant Recipients and Pledges $15 Million – in Free Internet Service and 25,000 Laptops – to Help Get Even More Americans Connected")
+
+
+[Comcast Expands Internet Essentials to Federal Pell Grant Recipients and Pledges $15 Million – in Free Internet Service and 25,000 Laptops – to Help Get Even More Americans Connected](https://www.businesswire.com/news/home/20210921005360/en/Comcast-Expands-Internet-Essentials-to-Federal-Pell-Grant-Recipients-and-Pledges-15-Million-%E2%80%93-in-Free-Internet-Service-and-25000-Laptops-%E2%80%93-to-Help-Get-Even-More-Americans-Connected)
+
+
+> PHILADELPHIA--(BUSINESS WIRE)--Comcast today announced new steps to help advance digital equity for even more students and families. Internet Essentials – the nation's largest, most successful, and most comprehensive broadband adoption program for low-income households – will now expand eligibility to Federal Pell Grant recipients. In addition, Comcast pledged to donate $15 million worth of Internet service and equipment, including more than 25,000 laptops, to low-income students, seniors, veterans, and adults.
+
+
+***
+![Well iQ Joins the PointClickCare Marketplace to Provide Real-time Patient Feedback for the Senior Care Market](https://mms.businesswire.com/media/20210921005509/en/908206/23/Well_iQ_-_Point_Click_Care.jpg "Well iQ Joins the PointClickCare Marketplace to Provide Real-time Patient Feedback for the Senior Care Market")
+
+
+[Well iQ Joins the PointClickCare Marketplace to Provide Real-time Patient Feedback for the Senior Care Market](https://www.businesswire.com/news/home/20210921005509/en/Well-iQ-Joins-the-PointClickCare-Marketplace-to-Provide-Real-time-Patient-Feedback-for-the-Senior-Care-Market)
+
+
+> September 21, 2021 10:00 AM Eastern Daylight Time SAN DIEGO--(BUSINESS WIRE)--The need for accurate, easier to access medical data and top-tier customer service — while maintaining privacy and security — is at a critical high. Well iQ is a real-time feedback platform designed to improve patient-provider relationships and patient satisfaction. Well iQ, a PointClickCare Marketplace partner, is pleased to announce that it has completed an integration with the PointClickCare Platform. Well iQ is poised to give the families of people residing in senior care facilities a revolutionary tool to provide feedback on the care their loved ones receive, with the happy consequence of care providers meeting their needs more effectively and efficiently.
+
+
