@@ -1346,3 +1346,47 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![We show you how to access the new Android 12 Privacy Dashboard right here](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/android-12-privacy-dashboard_0.jpg "We show you how to access the new Android 12 Privacy Dashboard right here")
+
+
+[We show you how to access the new Android 12 Privacy Dashboard right here](https://www.androidcentral.com/how-access-and-use-android-12-privacy-dashboard)
+
+
+> Source: Daniel Bader / Android Central Android 12's new Privacy Dashboard is the one place where you can see exactly what apps are using which permissions and when they are doing it. It's not perfect — Android's permissions can be a little confusing, and Google isn't giving up much information about what each of them means, but it's a great addition nonetheless. Getting there isn't difficult once you know where to look. And remember, the best Android phone doesn't have Android 12 just yet, so you'll need to be using a Google Pixel with the Android 12 beta installed.
+
+
+***
+![Paramount Plus, Showtime launch discounted bundles packaging both services](https://www.cnet.com/a/img/Wh-WJNsowAMjYVXwvCQVP7SWKlk=/1200x630/2021/02/24/764ac942-7eee-42ea-82a7-eaecd2b966e7/018-paramount-plus-streaming-service-logo.jpg "Paramount Plus, Showtime launch discounted bundles packaging both services")
+
+
+[Paramount Plus, Showtime launch discounted bundles packaging both services](https://www.cnet.com/tech/home-entertainment/paramount-plus-showtime-launch-discounted-bundles-packaging-both-services/)
+
+
+> Paramount Plus revamped the previous CBS All Access service.  Sarah Tew/CNET Paramount Plus and Showtime's parent company has launched a discounted streaming bundle that packages both together, ViacomCBS said Tuesday, and they're available at promotional prices for about a month. A bundle with ad-free Paramount Plus and Showtime packaged together is $13 a month, $8 cheaper than what you'd pay for the equivalent services separately. A packaging bundling ad-supported Paramount Plus and Showtime (which never has ads) is $10 a month, $6 cheaper than what you'd pay for both separately.
+
+
+***
+[Ultimate Guide on Unified CRM](https://filmdaily.co/tech/unified-crm/)
+
+
+> If you're looking for a way to improve efficiency in your business and boost your revenue, you need a unified CRM. Take a look behind the scenes today. The post Ultimate Guide on Unified CRM appeared first on Film Daily.
+
+
+***
+[The Revolutionary Printing Technology – DTG Printing](https://filmdaily.co/tech/dtg-printing/)
+
+
+> Are you looking for a new printing solution? Check out DTG or Direct-to-Garment! Dive into the details of this revolutionary new printing technology here! The post The Revolutionary Printing Technology – DTG Printing appeared first on Film Daily.
+
+
+***
+![Should You Upgrade To The iPhone 13 Pro? Here's What The Reviews Say](https://cdn.digg.com/wp-content/uploads/2021/09/21185531/Screen-Shot-2021-09-21-at-2.55.21-PM.jpg "Should You Upgrade To The iPhone 13 Pro? Here's What The Reviews Say")
+
+
+[Should You Upgrade To The iPhone 13 Pro? Here's What The Reviews Say](https://digg.com/2021/iphone-13-pro-review-roundup)
+
+
+> Marvel's Shang-Chi star Simu Liu is under fire for old Reddit posts linked to the actor that should have stayed in the drafts to begin with. Fortunately, no incident occurred, but it's still scary to watch from the security footage. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. What Royal the 2-year-old Belgian Malinois lacks in experience, he makes up for with sheer enthusiasm.
+
+
