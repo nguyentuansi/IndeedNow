@@ -1105,3 +1105,53 @@
 > September 21, 2021 03:55 AM Eastern Daylight Time HUNTSVILLE, Ala.--(BUSINESS WIRE)--ADTRAN®, Inc., (NASDAQ:ADTN), the leading provider of next-generation multigigabit fibre and fibre extension broadband access solutions, today announced Wildanet is leveraging the ADTRAN Total Access 5000 10G fibre access platform with XGS-PON technology to deliver ultra-fast broadband to underserved communities in Cornwall, UK. Cornwall is a top UK holiday destination and has a growing tech industry, both of which rely on fast broadband connectivity.
 
 
+***
+![Snap has new Lenses that show users how to fingerspell in American Sign Language](https://cdn.vox-cdn.com/thumbor/uRaeQYBAHOK3R6s3sBw7dQJd7L0=/0x196:501x478/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/69887115/signlang.0.png "Snap has new Lenses that show users how to fingerspell in American Sign Language")
+
+
+[Snap has new Lenses that show users how to fingerspell in American Sign Language](https://www.theverge.com/2021/9/21/22684485/snap-lenses-fingerspell-american-sign-language-deaf)
+
+
+> Snap has introduced new Lenses to encourage fingerspelling in American Sign Language Snap To mark the International Week of the Deaf, Snapchat has created custom stickers and three AR Lenses to encourage users to fingerspell, the company said Tuesday. The new features were designed by incorporating feedback and guidance from deaf and hard-of-hearing employees at the company, and using AI and computer vision technology developed by Hungarian startup SignAll, which focuses on technology for deaf people.
+
+
+***
+![Inmarsat Launches OneFi, a Game-changing New Customer Experience Platform for Airlines to Monetise Inflight Connectivity](https://mms.businesswire.com/media/20210921005550/en/908232/23/OneFi_image.jpg "Inmarsat Launches OneFi, a Game-changing New Customer Experience Platform for Airlines to Monetise Inflight Connectivity")
+
+
+[Inmarsat Launches OneFi, a Game-changing New Customer Experience Platform for Airlines to Monetise Inflight Connectivity](https://www.businesswire.com/news/home/20210921005550/en/Inmarsat-Launches-OneFi-a-Game-changing-New-Customer-Experience-Platform-for-Airlines-to-Monetise-Inflight-Connectivity)
+
+
+> September 21, 2021 05:56 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Inmarsat, the world leader in global mobile satellite communications, today announced the launch of its innovative new OneFi customer experience platform (CXP) for airlines. The first-of-its-kind solution will serve as a catalyst to monetise inflight connectivity by bringing a host of onboard services together within a single portal interface, which passengers can easily access using their own personal devices. OneFi delivers a rich airline-branded digital platform to enhance the passenger experience onboard flights.
+
+
+***
+![Netflix will soon be free for some Android users — but only if you live in Kenya](https://external-preview.redd.it/uSy9ptCKQg3hwFxHQqIBQQqPdZhG-x6wmUiJqHIK_cQ.jpg?auto=webp&s=b2d05cece8ae724c01f33a9922137ac85c063a8f "Netflix will soon be free for some Android users — but only if you live in Kenya")
+
+
+[Netflix will soon be free for some Android users — but only if you live in Kenya](https://www.reddit.com/r/technology/comments/psfkxv/netflix_will_soon_be_free_for_some_android_users/)
+
+
+> No body in the article.
+
+
+***
+![Bitcoin news – live: BTC price prediction model ‘still on track' after flash crash triggers market-wide chaos](https://static.independent.co.uk/2021/09/20/13/bitcoin%20price%20flash%20crash.jpg?width=1200&auto=webp&quality=75 "Bitcoin news – live: BTC price prediction model ‘still on track' after flash crash triggers market-wide chaos")
+
+
+[Bitcoin news – live: BTC price prediction model ‘still on track' after flash crash triggers market-wide chaos](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-news-live-price-btc-crypto-b1923315.html)
+
+
+> Following the bitcoin flash crash on Monday which wiped out over $200 billion from the crypto market, almost all cryptocurrencies continue to be on a downward trend with no signs of recovery yet.Bitcoin is down by about 7 per cent on Tuesday compared to Monday, and is currently trading at close to $42,000.Ethereum (ether) has also fallen by more than 7 per cent, while Cardano (ada), Solana (SOL) and dogecoin have also lowered in values by over 5 per cent compared to their prices a day earlier.While it is hard to pinpoint exactly what caused the prices to drop, some experts tie the latest flash crash to China's property market.
+
+
+***
+![China's New Video Game Restrictions Are About Far More Than Kids' Habits](https://compote.slate.com/images/623cb2e0-518d-49b4-bb44-5c239327431d.jpeg?width=780&height=520&rect=4482x2988&offset=7x0 "China's New Video Game Restrictions Are About Far More Than Kids' Habits")
+
+
+[China's New Video Game Restrictions Are About Far More Than Kids' Habits](https://slate.com/technology/2021/09/china-video-game-ban-regulation-internet.html)
+
+
+> China has twice as many gamers as the U.S. has people—some 700 million of them. That ubiquity, especially among young people, has worried China's central government. So at the start of this month, it banned people under 18 from playing video games for more than three hours a week. They could only play from 8 to 9 p.m. on Friday, Saturday, and Sunday nights. But it's not just video games. The government has gone after tutoring companies and big tech players in this 'season of crackdowns,' in an attempt to bring these sectors more in line with what they perceive as socialist values and to strengthen control over Chinese society and the Chinese economy.
+
+
