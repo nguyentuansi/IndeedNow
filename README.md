@@ -1014,3 +1014,50 @@
 > Ankita Chakravarti New Delhi, Sep 21, 2021, Updated Sep 21, 2021, 9:21 AM IST Story highlights Amazon has officially announced the date of its next hardware event. Amazon has revealed that the hardware event will be held on September 28 at 9:30 pm IST. Amazon had launched new Echo Speakers, Fire TV stick, new Ring cameras and Eero routers and more in previous years launch event. It is that of the time year again when you can expect Amazon to launch a new set of Echo devices, Alexa features and other services.
 
 
+***
+![Spotify Uses ReadSpeaker to Power Custom Voices for Car Thing Smart Player](https://mms.businesswire.com/media/20210920005675/en/766913/23/readspeaker_color.jpg "Spotify Uses ReadSpeaker to Power Custom Voices for Car Thing Smart Player")
+
+
+[Spotify Uses ReadSpeaker to Power Custom Voices for Car Thing Smart Player](https://www.businesswire.com/news/home/20210920005675/en/Spotify-Uses-ReadSpeaker-to-Power-Custom-Voices-for-Car-Thing-Smart-Player)
+
+
+> September 21, 2021 02:00 AM Eastern Daylight Time UPPSALA, Sweden--(BUSINESS WIRE)--ReadSpeaker, the most trusted, independent digital voice partner for global businesses, today announced that Spotify uses ReadSpeaker's text-to-speech (TTS) technology to deliver custom voices for Spotify's newest exploration in the US - a limited release of Car Thing, a smart player for your car. ReadSpeaker's technology currently powers the custom voice available in Car Thing. Similar to the way the business world evolved from relying on websites to mobile apps as smartphones became popular, as the world moves beyond touchscreens and into a touchless future, consumers will become increasingly reliant on voice commands.
+
+
+***
+![Top 10 CSS and JavaScript Animation libraries](https://external-preview.redd.it/eyvK5Z1ZlW7nN15iLlzGTemR0UvqNZZ3Gu4QWQITfhQ.jpg?auto=webp&s=75a88bb4ee1fcd11e309bb494742e685d91634ab "Top 10 CSS and JavaScript Animation libraries")
+
+
+[Top 10 CSS and JavaScript Animation libraries](https://www.reddit.com/r/programming/comments/pscq2c/top_10_css_and_javascript_animation_libraries/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Driven: Mitsubishi's Eclipse Cross PHEV](https://content.api.news/v3/images/bin/fd1eb864c481298407d5a50b9f30288b "Driven: Mitsubishi's Eclipse Cross PHEV")
+
+
+[Driven: Mitsubishi's Eclipse Cross PHEV](https://www.news.com.au/technology/driven-mitsubishis-eclipse-cross-phev/video/ae783570bf895a3cfbdcaed53fafc88f)
+
+
+> NationalPoliticsCrimeCourts & LawPoliticsCrimeCourts & LawPoliticsCrimeCourts & LawWorldAustraliaGlobalEconomyHealthClosuresLifestyleTravelEntertainmentTechnologyFinanceSport
+
+
+***
+![Joan 6 Pro makes booking a meeting room a breeze](https://cdn.mos.cms.futurecdn.net/DqpoZCqSWp3e3tTxXQP4sc-1200-80.jpg "Joan 6 Pro makes booking a meeting room a breeze")
+
+
+[Joan 6 Pro makes booking a meeting room a breeze](https://www.techradar.com/news/joan-6-pro-makes-booking-a-meeting-room-a-breeze)
+
+
+> (Image credit: Joan) As people return to the office and start to wrestle once again with booking meeting rooms and boardrooms, an updated solution to an existing market-leading device is on the horizon. Visionect, a company well-versed in ePaper room management devices, announced shipping for its latest device, the Joan 6 Pro.We've previously looked at the company's offerings in the form of the Joan 6 and Joan 13, but the Joan 6 Pro combines the best of both devices into one streamlined meeting-room booking experience.
+
+
+***
+[Apple iOS 15 update: Check how to download, compatible iPhones, new features and more](https://www.zeebiz.com/technology/mobiles/news-apple-ios-15-update-check-how-to-download-compatible-iphones-new-features-and-more-165691)
+
+
+> Apple iOS 15 update download: The wait is finally over! Cupertino-based tech giant Apple has officially rolled out its latest OS- iOS 15. Now, iPhone users will be able to update to iOS 15. The company first unveiled iOS 15 earlier this year at its Worldwide Developers Conference.
+
+
