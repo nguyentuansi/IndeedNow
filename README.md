@@ -1916,3 +1916,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Should you buy the Wyze Cam v3 or the Blink Mini camera? We can help.](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/blink-mini-motion-zones.jpg "Should you buy the Wyze Cam v3 or the Blink Mini camera? We can help.")
+
+
+[Should you buy the Wyze Cam v3 or the Blink Mini camera? We can help.](https://www.androidcentral.com/wyze-cam-v3-vs-blink-mini)
+
+
+> As a basic but solid outdoor security camera, the Wyze Cam v3 is about as affordable as you can get. And it has premium features, including excellent performance to illuminate outside in low light and the option for 24/7 continuous recording with an optional memory card. $36 at Amazon Can set up outdoors or indoors Works well in extremely low light Free limited cloud storage Affordable Need to buy outdoor adapter separately Need to buy memory card separately Doesn't connect with other devices For a decent indoor camera that can work with other smart home devices, including multiple cameras in various rooms and is also Alexa-enabled, Amazon's Blink Mini camera is a solid choice you can often find on sale for a fantastic price.
+
+
+***
+![Elastic Announces the General Availability of Elastic App Search Web Crawler and New Customization Features for Workplace Search in Elastic Enterprise Search](https://mms.businesswire.com/media/20210922005964/en/712541/23/elastic-logo-V-full_color.jpg "Elastic Announces the General Availability of Elastic App Search Web Crawler and New Customization Features for Workplace Search in Elastic Enterprise Search")
+
+
+[Elastic Announces the General Availability of Elastic App Search Web Crawler and New Customization Features for Workplace Search in Elastic Enterprise Search](https://www.businesswire.com/news/home/20210922005964/en/Elastic-Announces-the-General-Availability-of-Elastic-App-Search-Web-Crawler-and-New-Customization-Features-for-Workplace-Search-in-Elastic-Enterprise-Search)
+
+
+> September 22, 2021 03:51 PM Eastern Daylight Time MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Elastic (NYSE: ESTC) ('Elastic'), the company behind Elasticsearch and the Elastic Stack, announces new updates and enhancements across the Elastic Enterprise Search Solution in its 7.15 release, including the general availability of the native Elastic App Search web crawler and new personalization capabilities in Elastic Workplace Search. The web crawler, now generally available, offers a fast and efficient way for users to ingest content directly from publicly accessible web sites and create powerful, new search experiences for any use case without having to write code or access the underlying datastore.
+
+
+***
+![Elastic Announces Capabilities to Optimize Search Experiences for Users and Simplify Data Ingestion and Analysis](https://mms.businesswire.com/media/20210922005963/en/712541/23/elastic-logo-V-full_color.jpg "Elastic Announces Capabilities to Optimize Search Experiences for Users and Simplify Data Ingestion and Analysis")
+
+
+[Elastic Announces Capabilities to Optimize Search Experiences for Users and Simplify Data Ingestion and Analysis](https://www.businesswire.com/news/home/20210922005963/en/Elastic-Announces-Capabilities-to-Optimize-Search-Experiences-for-Users-and-Simplify-Data-Ingestion-and-Analysis)
+
+
+> September 22, 2021 03:51 PM Eastern Daylight Time MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Elastic (NYSE: ESTC) ('Elastic'), the company behind Elasticsearch and the Elastic Stack, today announced enhancements across the Elastic Search Platform and its solutions. The general availability of the Elastic App Search web crawler in Elastic Enterprise Search enables users to quickly, efficiently, and securely ingest content directly from publicly accessible web sites and create enhanced web search experiences for any use case.
+
+
+***
+![How To Respond To A Random Text From A Toxic Ex](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/628b77c9cb296ab08eca160500e67aa6.jpg "How To Respond To A Random Text From A Toxic Ex")
+
+
+[How To Respond To A Random Text From A Toxic Ex](https://lifehacker.com/how-to-respond-to-a-random-text-from-a-toxic-ex-1847714932)
+
+
+> As you know if you've ever broken up with one, a toxic person's impact on you can long outlast the time they were actually in your life. A particularly bad relationship can lead to trauma, a lack of trust in future relationships, and serious emotional scars. Toxic people can somehow still find a way to get to you, even when they're not around—and sometimes, they do it on purpose. If a no-good ex shoots you a text seemingly out of nowhere, it can feel scary or overwhelming. Here are a few tips to get you through it.
+
+
+***
+![Hacker Reveals Why He Broke Away From Anonymous And What Brought Him Back Into The Hacking World](https://cdn.digg.com/wp-content/uploads/2021/09/22194637/Screen-Shot-2021-09-22-at-3.46.25-PM.jpg "Hacker Reveals Why He Broke Away From Anonymous And What Brought Him Back Into The Hacking World")
+
+
+[Hacker Reveals Why He Broke Away From Anonymous And What Brought Him Back Into The Hacking World](https://digg.com/video/aubrey-cottle-i-left-anonymous-now-im-back-vice)
+
+
+> "This one, I think, we know the results already," said former acting Solicitor General Neal Katyal. IT'S A SMELL WORLD, AFTER ALL Yusuf Muhammed Ali, a talented perfume maker who is originally from Kerala, can create any perfume in the world after smelling it. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. 'I LEFT ANONYMOUS. NOW I'M BACK' Kirtaner AKA Aubrey Cottle shares his early hacking experiences and details how the Anonymous group came together, and what eventually broke him down.
+
+
