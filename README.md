@@ -1725,3 +1725,53 @@
 > The dramatic tremors which rocked homes and buildings in Melbourne was likely caused by Australia's continent edging north and crunching into Asia Pacific nations.Curtin University's structural geologist, Professor Chris Elders, said Australia is moving away from Antarctica at 7cm a year — rapid speed in geology terms — unsettling plates surrounding the nation and forcing the earth under our feet to move at regular intervals.'The Indian Ocean is getting bigger and we're colliding with Indonesia, Timor and New Guinea to the north,' he told NCA NewsWire.
 
 
+***
+![Google Nest vs. Ring: Who has the better video doorbells?](https://icdn.digitaltrends.com/image/digitaltrends/nest-doorbell-battery-ash-lifestyle.jpg "Google Nest vs. Ring: Who has the better video doorbells?")
+
+
+[Google Nest vs. Ring: Who has the better video doorbells?](https://www.digitaltrends.com/home/google-nest-vs-ring/)
+
+
+> Ring and Google both have some of the best video doorbells on the market — but which is the right choice for you? We're going over all the details between these two video doorbell options, what their models look like, and which we think is the best pick for consumers. Design and variety Google's Nest Doorbells come in two options, a battery-powered version that can be placed anywhere and a larger, wired version that needs to be connected to a home's electricity to work. Outside of this, both have very similar designs, a simple vertical shape that makes the actual doorbell obvious.
+
+
+***
+![Insight Partners leads $34M round in Singapore-based fintech Spenmo – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-97970462.jpg?w=533 "Insight Partners leads $34M round in Singapore-based fintech Spenmo – TechCrunch")
+
+
+[Insight Partners leads $34M round in Singapore-based fintech Spenmo – TechCrunch](https://techcrunch.com/2021/09/22/insight-partners-leads-34m-round-in-singapore-based-fintech-spenmo/)
+
+
+> Spenmo originated as an expense management platform before realizing that expenses 'are just a tiny sliver' of a company's payables, founder and CEO Mohandass Kalaichelvan told TechCrunch. Financial teams also need to manage vendor payments, supplier payments, payroll and reconcile bank accounts, often in different countries, resulting in an overwhelming amount of work. Spenmo was created to centralize SMBs' accounts payable workflows. The Singapore-based company announced today it has raised a $34 million Series A led by Insight Partners, the New York-based investment firm known for its ScaleUp program.
+
+
+***
+![SoftBank and Demi Lovato back June Homes, a proptech startup emerging from stealth with $50M in funding – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/Before_After_A4-04.jpg "SoftBank and Demi Lovato back June Homes, a proptech startup emerging from stealth with $50M in funding – TechCrunch")
+
+
+[SoftBank and Demi Lovato back June Homes, a proptech startup emerging from stealth with $50M in funding – TechCrunch](https://techcrunch.com/2021/09/22/softbank-and-demi-lovato-back-june-homes-a-proptech-startup-emerging-from-stealth-with-50m-in-funding/)
+
+
+> June Homes, a proptech startup that aims to make renting less painful and more flexible for both tenants and landlords, is emerging from stealth today with $50 million in total funding. SoftBank Ventures Asia led the startup's latest round — a $27 million Series B. Other backers in the company include FJ Labs, Kairos, TQ Ventures II LP (Scooter Braun, Schuster Tanger, Andrew Marks), Reshape, Quiet Capital and angel investors including musician Demi Lovato and Behance founder Scott Belsky.  The New York-based company also previously raised (but did not announce) a $13 million Series A — also led by SoftBank Ventures Asia —  and $10 million in seed funding.
+
+
+***
+![As inflation fears spike, 1build raises $14M to help construction firms optimize their cost estimates – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-157310650.jpg?w=470 "As inflation fears spike, 1build raises $14M to help construction firms optimize their cost estimates – TechCrunch")
+
+
+[As inflation fears spike, 1build raises $14M to help construction firms optimize their cost estimates – TechCrunch](https://techcrunch.com/2021/09/22/1build-series-a/)
+
+
+> It's an extraordinarily exhausting time to estimate costs in the construction industry. Lumber prices skyrocketed during the post-pandemic construction spree, only to come hurtling back down to Earth in recent weeks. Copper, concrete, and steel have also seen wild price swings as supply chain breakages, workers shortages, border restrictions and more plague price stability. Construction is among the world's largest industries, with firms planning and building projects valued at trillions of dollars at pretty much any time.
+
+
+***
+![Environmental Law Is Getting in the Way of Climate Action](https://media.wired.com/photos/614a7109a61c3e890f31fc45/191:100/w_1280,c_limit/ideas-climate-law.jpg "Environmental Law Is Getting in the Way of Climate Action")
+
+
+[Environmental Law Is Getting in the Way of Climate Action](https://www.wired.com/story/environmental-law-climate-action-regulation-policy/)
+
+
+> The decades-long failure to act shows that many existing environmental laws 'are made for very old problems,' Wood says. In Nixon's day, Americans were concerned with issues like smog, acid rain, and dwindling landfill space. Some of those issues remain, but they 'have been utterly eclipsed by the oil and gas industry's attack on the planetary system,' Wood adds. While 20th-century legislation could, in theory, be amended once again to account for soaring levels of atmospheric carbon, such laws often end up hindering emissions reduction efforts instead.
+
+
