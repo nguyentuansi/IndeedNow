@@ -1966,3 +1966,53 @@
 > "This one, I think, we know the results already," said former acting Solicitor General Neal Katyal. IT'S A SMELL WORLD, AFTER ALL Yusuf Muhammed Ali, a talented perfume maker who is originally from Kerala, can create any perfume in the world after smelling it. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. 'I LEFT ANONYMOUS. NOW I'M BACK' Kirtaner AKA Aubrey Cottle shares his early hacking experiences and details how the Anonymous group came together, and what eventually broke him down.
 
 
+***
+![With the Surface pro 8 Announced, the Surface Pro 7 is Cheap](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-surface-pro-7-2-3.jpg "With the Surface pro 8 Announced, the Surface Pro 7 is Cheap")
+
+
+[With the Surface pro 8 Announced, the Surface Pro 7 is Cheap](https://www.digitaltrends.com/dtdeals/microsoft-surface-pro-7-touchscreen-deal-best-buy-september-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Microsoft just announced details about the new Surface Pro 8 today, and retailers are responding with deep discounts on the Surface Pro 7. Among some already fabulous Surface Pro deals, Surface laptop deals, and student laptop deals, we're seeing a discount of $200 off the 12.3-inch Surface Pro 7 Touch Screen at Best Buy. It's down to a paltry $700, a huge drop from its regular price of $900. This is a perfect time to grab this deal — don't let it get away.
+
+
+***
+![CORRECTING and REPLACING Second Annual Pulumi Cloud Engineering Summit on October 20 to Accelerate Best Practice Adoption for Building the Modern Cloud](https://mms.businesswire.com/media/20210922005332/en/794377/23/PulumiLogo.jpg "CORRECTING and REPLACING Second Annual Pulumi Cloud Engineering Summit on October 20 to Accelerate Best Practice Adoption for Building the Modern Cloud")
+
+
+[CORRECTING and REPLACING Second Annual Pulumi Cloud Engineering Summit on October 20 to Accelerate Best Practice Adoption for Building the Modern Cloud](https://www.businesswire.com/news/home/20210922005332/en/CORRECTING-and-REPLACING-Second-Annual-Pulumi-Cloud-Engineering-Summit-on-October-20-to-Accelerate-Best-Practice-Adoption-for-Building-the-Modern-Cloud)
+
+
+> September 22, 2021 05:48 PM Eastern Daylight Time SEATTLE--(BUSINESS WIRE)--Headline of release should read: Second Annual Pulumi Cloud Engineering Summit on October 20 to Accelerate Best Practice Adoption for Building the Modern Cloud (instead of Second Annual Pulumi Cloud Engineering Summit on October 21 to Accelerate Best Practice Adoption for Building the Modern Cloud). The updated release reads: SECOND ANNUAL PULUMI CLOUD ENGINEERING SUMMIT ON OCTOBER 20 TO ACCELERATE BEST PRACTICE ADOPTION FOR BUILDING THE MODERN CLOUD Cloud engineering leader Pulumi today announced the second annual Cloud Engineering Summit, to be held on October 20, 2021.
+
+
+***
+![Facebook chief technology officer Schroepfer to step down](https://ca-times.brightspotcdn.com/dims4/default/184f85d/2147483647/strip/true/crop/4902x2757+0+250/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F32%2Fed%2F1092f33b390ecc9e55c4efc61030%2Fe400d0965dfb4b9fb1ae6b94e2022a91 "Facebook chief technology officer Schroepfer to step down")
+
+
+[Facebook chief technology officer Schroepfer to step down](https://www.latimes.com/business/technology/story/2021-09-22/facebook-chief-technology-officer-schroepfer-to-step-down)
+
+
+> Facebook Inc. Chief Technology Officer Mike Schroepfer — a 13-year veteran who oversees the social network's work in artificial intelligence, virtual reality and the blockchain — will step down next year.Another longtime Facebook executive, Andrew Bosworth, will take over as CTO, according to an internal message on Wednesday from Chief Executive Mark Zuckerberg. Schroepfer's move marks the most significant departure from the Menlo Park, Calif., company in years and follows the recent exits of several other top executives.
+
+
+***
+![Lithuanian agency warns against use of Chinese-made phones](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/a2/b3/92d9c79f063e79cde7031df2953621fdb3f5/download.jpg "Lithuanian agency warns against use of Chinese-made phones")
+
+
+[Lithuanian agency warns against use of Chinese-made phones](https://japantoday.com/category/tech/lithuanian-agency-warns-against-use-of-chinese-made-phones)
+
+
+> Lithuanian cybersecurity experts are urging the country's government agencies to abandon the use of Chinese smartphone brands after an investigation identified security vulnerabilities and censorship concerns with certain devices. Lithuania's National Cyber Security Center said it found four major cybersecurity risks for devices made by Huawei and Xiaomi, including two relating to pre-installed apps and one involving personal data leakage, and warned against using these two brands. Xiaomi phones, which contain a content-filtering feature for 449 keywords or groups of keywords in Chinese characters, also carry the risk of possible restrictions on freedom of expression, according to the Lithuanian investigation.
+
+
+***
+![Former defense secretary Jim Mattis testifies about his time on Theranos board during Elizabeth Holmes trial](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PDN5NRQ34EI6ZPVIGCHKCNCZJ4.jpg&w=1440 "Former defense secretary Jim Mattis testifies about his time on Theranos board during Elizabeth Holmes trial")
+
+
+[Former defense secretary Jim Mattis testifies about his time on Theranos board during Elizabeth Holmes trial](https://www.washingtonpost.com/technology/2021/09/22/jim-mattis-elizabeth-holmes-trial/)
+
+
+> Mattis said he would have had a different view of the company if he had known some limitations of the Theranos blood testing device, including that it could only run about a dozen tests on its own system, could only process a certain type of blood test and was relying heavily on third party machines, as prosecutors have alleged.
+
+
