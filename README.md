@@ -1675,3 +1675,53 @@
 > Story highlights Mi TV 5X price in India starts at Rs 31,999. Mi TV 5X is available in three screen sizes. Mi TV 5X has Dolby Vision support. Xiaomi has updated its smart TV line-up last month with the introduction of Mi TV 5X series, an upgrade on the existing Mi TVs. The Mi TV 5X comes in three different screen sizes - 43-inches (Rs 31,999), 50-inches (Rs 41,999), and the flagship 55-inch variant (Rs 47,999) which I have recently reviewed. All the models have 4K panels and support both Dolby Vision and Dolby Atmos.
 
 
+***
+![Webb: Big Tech won't change; the tech sector can](https://thehill.com/sites/default/files/article_images/getty_smartphoneapps.jpg "Webb: Big Tech won't change; the tech sector can")
+
+
+[Webb: Big Tech won't change; the tech sector can](https://thehill.com/opinion/technology/573316-webb-big-tech-wont-change-the-tech-sector-can)
+
+
+> I have always been a fan of capitalism and 'fair' competition combined. It is one thing to shout at the Big Tech wind but more effective to have a long-term competitive strategy. In recent years, many new social media platforms have emerged. Some are instant hits but all too often geared for a particular audience. My belief is not cancel culture or simply counter-platform. I believe in more voices, not less. To be successful, the technology and the organization policy must align and be open to all.
+
+
+***
+![These 4 features make a robot vacuum much smarter](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/roborock-s7-cleaning-top.jpg "These 4 features make a robot vacuum much smarter")
+
+
+[These 4 features make a robot vacuum much smarter](https://www.androidcentral.com/your-smart-vacuum-actually-dumb-unless-it-has-these-4-features-0)
+
+
+> Source: Nick Sutrich / Android Central You can get a surprisingly affordable robot vacuum that'll poke around your home cleaning up some loose debris, but you'll quickly find that these robots aren't always as smart as they're made out to be. Many models simply bump around, chaotically criss-crossing your floors until their battery runs low. This can result in clean floors, but you may find random spots that the vacuum completely missed, and these more basic robot vacuums may not always find their way back to their charging base to be ready for the next job (which could be needed right away if it missed a lot of spots).
+
+
+***
+![Lynk Signs Contracts with First Two Mobile Operators](https://mms.businesswire.com/media/20210922005096/en/780390/23/Lynk_Logo_dark_print_cmyk.jpg "Lynk Signs Contracts with First Two Mobile Operators")
+
+
+[Lynk Signs Contracts with First Two Mobile Operators](https://www.businesswire.com/news/home/20210922005096/en/Lynk-Signs-Contracts-with-First-Two-Mobile-Operators)
+
+
+> September 22, 2021 06:00 AM Eastern Daylight Time FALLS CHURCH, Va.--(BUSINESS WIRE)--Lynk Global, Inc. (Lynk) the world's only independently verified cell-tower-in-space connectivity provider, today announced that it has signed its first commercial agreements with Aliv in the Bahamas, and Telecel Centrafrique in the Central African Republic. Lynk's satellites will enable Aliv and Telecel subscribers to stay connected everywhere on the planet using a standard unmodified mobile phone. As Flagship partners, Aliv and Telecel have acquired first-to-market rights to implement Lynk's service in their respective countries.
+
+
+***
+![Fewer Americans report a sense of belonging at work when compared to pre-pandemic](https://mms.businesswire.com/media/20210922005115/en/908476/23/LifeWorks-Logo-EN.jpg "Fewer Americans report a sense of belonging at work when compared to pre-pandemic")
+
+
+[Fewer Americans report a sense of belonging at work when compared to pre-pandemic](https://www.businesswire.com/news/home/20210922005115/en/Fewer-Americans-report-a-sense-of-belonging-at-work-when-compared-to-pre-pandemic)
+
+
+> September 22, 2021 06:00 AM Eastern Daylight Time CHICAGO--(BUSINESS WIRE)--LifeWorks, a leading provider of digital total wellbeing solutions, today released its monthly Mental Health Index™, revealing a negative mental-health score among Americans for the 17th consecutive month. Key findings: Overall mental-health score of -3.0 compared to the pre-pandemic benchmark, reaching its highest point since the launch of the index in April 2020. In the latest survey, 80 percent of respondents indicated that prior to the pandemic, they felt a sense of belonging and acceptance at work, but only 74 percent felt the same during the past month.
+
+
+***
+![Geologist explains the cause of earthquake that rocked Melbourne](https://images.perthnow.com.au/publication/C-4040259/289e4653def83fb91d02f1d855e86cb777c9a725-16x9-x0y0w2048h1152.jpg?imwidth=1200 "Geologist explains the cause of earthquake that rocked Melbourne")
+
+
+[Geologist explains the cause of earthquake that rocked Melbourne](https://www.news.com.au/technology/environment/natural-wonders/geologist-explains-the-cause-of-earthquake-that-rocked-melbourne/news-story/5a55c6170f9ecd1a642f60a30924058f)
+
+
+> The dramatic tremors which rocked homes and buildings in Melbourne was likely caused by Australia's continent edging north and crunching into Asia Pacific nations.Curtin University's structural geologist, Professor Chris Elders, said Australia is moving away from Antarctica at 7cm a year — rapid speed in geology terms — unsettling plates surrounding the nation and forcing the earth under our feet to move at regular intervals.'The Indian Ocean is getting bigger and we're colliding with Indonesia, Timor and New Guinea to the north,' he told NCA NewsWire.
+
+
