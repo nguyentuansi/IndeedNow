@@ -1534,3 +1534,53 @@
 > Chinese smartphone giant Oppo has established a 5G research and development lab in Shenzhen, where the company is building its new headquarters. Comprising four interconnected towers that resemble fluid glass missiles, the complex is expected to be completed in 2025. Photo: Handout
 
 
+***
+![Millions of electric vehicle drivers may be left behind as a result of a ‘forgotten' rapid charger expenditure.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Millions of electric vehicle drivers may be left behind as a result of a ‘forgotten' rapid charger expenditure.")
+
+
+[Millions of electric vehicle drivers may be left behind as a result of a ‘forgotten' rapid charger expenditure.](https://en.brinkwire.com/technology/millions-of-electric-vehicle-drivers-may-be-left-behind-as-a-result-of-a-forgotten-rapid-charger-expenditure/)
+
+
+> Millions of electric vehicle drivers may be left behind as a result of a ‘forgotten' rapid charger expenditure. As the government moves forward with its net zero aspirations, electric car owners may be left behind in terms of charging infrastructure. Electric vehicle charging connections will be installed in all new-build residences in England, the government announced earlier this month. As they struggle to keep up with the demand for electric vehicle infrastructure, the new regulation will apply to both households and offices.
+
+
+***
+![UK apologizes for email error revealing Afghan interpreter details](https://assets2.rappler.com/2021/09/UK-data-breach-September-22-2021-1632283492633.jpg "UK apologizes for email error revealing Afghan interpreter details")
+
+
+[UK apologizes for email error revealing Afghan interpreter details](https://www.rappler.com/technology/united-kingdom-email-error-revealing-afghan-interpreter-details)
+
+
+> Britain on Tuesday, September 21, apologized for a data breach revealing details of people in Afghanistan seeking relocation to Britain after the Taliban retook control of the country when foreign troops withdrew earlier this year. Britain, the United States, and other NATO members scrambled to evacuate their own nationals and others who had worked for them after the Taliban wrongfooted the West and seized control of Kabul much sooner than expected. Defense minister Ben Wallace said an email from Britain's Afghan Relocations Assistance Policy – the scheme used to help interpreters and others who had worked for Britain – had compromised more than 250 recipients by copying, rather than blind-copying, their email addresses.
+
+
+***
+![‘Absolutely oblivious': Police advise drivers not to use their cellphones while driving.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "‘Absolutely oblivious': Police advise drivers not to use their cellphones while driving.")
+
+
+[‘Absolutely oblivious': Police advise drivers not to use their cellphones while driving.](https://en.brinkwire.com/technology/absolutely-oblivious-police-advise-drivers-not-to-use-their-cellphones-while-driving/)
+
+
+> ‘Absolutely oblivious': Police advise drivers not to use their cellphones while driving. To avoid a fee and penalty points, drivers are being advised not to use their cellphones while driving. If you are discovered using a hand-held device while driving, you will receive a £200 fixed penalty notice. It can also result in six points on a driver's license. Over 80% of UK drivers admit to being distracted behind the wheel. PC Rowan Burt pulled a vehicle over after noticing him on his phone in the series premiere of Motorway Cops: Catching Britain's Speeders.
+
+
+***
+![Marc Priestley, host of Wheeler Dealers, has issued a new warning to historic car restorers.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Marc Priestley, host of Wheeler Dealers, has issued a new warning to historic car restorers.")
+
+
+[Marc Priestley, host of Wheeler Dealers, has issued a new warning to historic car restorers.](https://en.brinkwire.com/technology/marc-priestley-host-of-wheeler-dealers-has-issued-a-new-warning-to-historic-car-restorers/)
+
+
+> Marc Priestley, host of Wheeler Dealers, has issued a new warning to historic car restorers. Marc Priestley, host of WHEELER DEALERS, has advised antique automobile owners to exercise caution before embarking on a restoration project. He advised drivers not to 'bowl into a project with obstacles' that they couldn't handle. Instead, he advises historic automobile owners to pick a vehicle that 'fits your skillset' in order to get the most out of it. 'I would always tell folks to pick something that suits your strengths,' he told This website.
+
+
+***
+![The first thing drunk drivers do after being caught, according to traffic cops, is say, 'No surprise!'](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "The first thing drunk drivers do after being caught, according to traffic cops, is say, 'No surprise!'")
+
+
+[The first thing drunk drivers do after being caught, according to traffic cops, is say, 'No surprise!'](https://en.brinkwire.com/technology/the-first-thing-drunk-drivers-do-after-being-caught-according-to-traffic-cops-is-say-no-surprise/)
+
+
+> The first thing drunk drivers do after being caught, according to traffic cops, is say, 'No surprise!' NORTH WALES Traffic Cops takes viewers inside the North Wales Roads Policing Unit. Beyond the Line: North Wales Traffic Cops is an ITV series that follows policemen from the North Wales Roads Policing Unit, which patrols nearly 700 miles of road from Wales' rural west to its densely populated east. Officers from North Wales Traffic Cops cover 700 miles of road, facing high-speed pursuits, anti-social behavior, and even physical attacks.
+
+
