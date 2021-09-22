@@ -1487,3 +1487,50 @@
 > Buying a new TV is often an exciting experience for the entire household (unless it's because your remote went flying through the screen of your old set). Best of all, thanks to major strides in resolution, upscaling, and backlighting, we can sit closer to our TVs than ever before — without that dreaded pixelation. Do keep in mind though that regardless of the brand you choose, it's still important to buy an appropriately-sized TV for the room you'll be watching it in. Yes, you'll notice fewer defects in bigger-sized screens these days, but a large screen in a small room can still become overbearing, especially for your eyes.
 
 
+***
+![Freshworks valued at $10.13 bln after raising $1.03 bln in U.S. IPO](https://www.reuters.com/resizer/x0pEHiVhG89A1uDx6SWoZVFnJXk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BP6MXP6HINIIJPVUP3K27OTAQA.jpg "Freshworks valued at $10.13 bln after raising $1.03 bln in U.S. IPO")
+
+
+[Freshworks valued at $10.13 bln after raising $1.03 bln in U.S. IPO](https://www.reuters.com/technology/freshworks-valued-1013-bln-after-raising-103-bln-us-ipo-source-2021-09-22/)
+
+
+> The Nasdaq logo is displayed at the Nasdaq Market site in New York September 2, 2015. REUTERS/Brendan McDermid/File PhotoNEW YORK, Sept 21 (Reuters) - Business software firm Freshworks, which counts Accel and Sequoia Capital among its major backers, on Tuesday priced its U.S. initial public offering (IPO) well above the target range to raise $1.03 billion, a source familiar with the matter said.Freshworks priced 28.5 million shares at $36 per share, the source said, requesting anonymity as the talks are confidential.
+
+
+***
+![You can now download the seventh public beta for macOS Monterey](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/apple_macos-monterey_facetime-portrait-mode_06072021.jpg "You can now download the seventh public beta for macOS Monterey")
+
+
+[You can now download the seventh public beta for macOS Monterey](https://www.imore.com/how-download-macos-monterey-public-beta)
+
+
+> We may earn a commission for purchases using our links. Learn more. Update time macOS Monterey, the next generation of Mac software, is now available as a public beta. 31 Aug 2021 Source: Apple The time has come. You can now download the macOS Monterey public beta 6 on your Mac. It's not an overly complicated process, but we're here to walk you through it and if you need it, a place to get extra help. All the best Macs are compatible with macOS Monterey. Apple occasionally offers updates to iOS, iPadOS, watchOS, tvOS, and macOS as closed developer previews or public betas.
+
+
+***
+![TCL's new 20 R 5G phone starts at just $299 with surprisingly good mid-range specs](https://itwire.com/media/k2/items/cache/461e06189c9fc17b6c5c69cd4681f7cc_XS.jpg "TCL's new 20 R 5G phone starts at just $299 with surprisingly good mid-range specs")
+
+
+[TCL's new 20 R 5G phone starts at just $299 with surprisingly good mid-range specs](https://itwire.com/home-it/tcl-s-new-20-r-5g-phone-starts-at-just-$299-with-surprisingly-good-mid-range-specs.html)
+
+
+> Retailing for $349 at retail stores while Vodafone offers it to post-paid users for just $299, the TCL 20 R 5G wants to prove you don't need to spend $1000+ on a phone, nor need fancy folding screens, to have a great smartphone experience. The third 5G smartphone and sixth device from TCL Mobile has arrived, and it is challenging its global competition in a big way. As a vertically integrated company that makes its own leading screen tech, TCL has various competitive advantages that allow it to put advanced technology in to a phone that Vodafone is selling for $299 on contract over 12, 24 or 36 months, while Officeworks, Harvey Norman, MobileCiti, Kogan, Dick Smith and other online stores sell it for a still ultra-affordable $349.
+
+
+***
+[TCL 20 R 5G](https://itwire.com/freelancer-sp-720/tag/TCL%2020%20R%205G.html)
+
+
+> Retailing for $349 at retail stores while Vodafone offers it to post-paid users for just $299, the TCL 20 R 5G wants to prove you don't need to spend $1000+ on a phone, nor need fancy folding screens, to have a great smartphone experience.
+
+
+***
+![China's Oppo doubles down on 5G with partner Ericsson as US sanctions-hit Huawei leaves void in smartphone industry](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/21/20bc182e-1aca-11ec-897a-4119d31a6faa_image_hires_190349.jpg?itok=ekTsP8s_&v=1632222241 "China's Oppo doubles down on 5G with partner Ericsson as US sanctions-hit Huawei leaves void in smartphone industry")
+
+
+[China's Oppo doubles down on 5G with partner Ericsson as US sanctions-hit Huawei leaves void in smartphone industry](https://www.scmp.com/tech/tech-trends/article/3149471/chinas-oppo-doubles-down-5g-partner-ericsson-us-sanctions-hit)
+
+
+> Chinese smartphone giant Oppo has established a 5G research and development lab in Shenzhen, where the company is building its new headquarters. Comprising four interconnected towers that resemble fluid glass missiles, the complex is expected to be completed in 2025. Photo: Handout
+
+
