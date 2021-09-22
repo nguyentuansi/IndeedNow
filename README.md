@@ -1584,3 +1584,50 @@
 > The first thing drunk drivers do after being caught, according to traffic cops, is say, 'No surprise!' NORTH WALES Traffic Cops takes viewers inside the North Wales Roads Policing Unit. Beyond the Line: North Wales Traffic Cops is an ITV series that follows policemen from the North Wales Roads Policing Unit, which patrols nearly 700 miles of road from Wales' rural west to its densely populated east. Officers from North Wales Traffic Cops cover 700 miles of road, facing high-speed pursuits, anti-social behavior, and even physical attacks.
 
 
+***
+![Korean Air could face delays in absorbing Asiana](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202109/a2b66298eef744118a790f2666ae04bd.jpg "Korean Air could face delays in absorbing Asiana")
+
+
+[Korean Air could face delays in absorbing Asiana](https://www.koreatimes.co.kr/www/tech/2021/09/774_315840.html)
+
+
+> Hanjin KAL Chairman Cho Won-tae / Courtesy of Korean Air By Kim Hyun-binFlag carrier Korean Air's plan to absorb rival Asiana Airlines could be delayed as key approvals are taking longer than expected.Korean Air initially planned to complete the merger by next year after injecting 1.5 trillion won into Asiana Airlines in late June to acquire a 63.7 percent stake."The KFTC's review of the Korean Air-Asiana Airlines merger is being delayed. It is unfortunate," KDB Chairman Lee Dong-gull said at a press conference last week.
+
+
+***
+![Pokemon Unite launches on mobile today, but you might have to wait to play](https://cdn.mos.cms.futurecdn.net/AeYDnpMdwZAzxtJ24PzbVa-1200-80.png "Pokemon Unite launches on mobile today, but you might have to wait to play")
+
+
+[Pokemon Unite launches on mobile today, but you might have to wait to play](https://www.techradar.com/news/pokemon-unite-launches-on-mobile-today-but-you-might-have-to-wait-to-play)
+
+
+> (Image credit: Pokémon) It's safe to say that Pokemon Unite is one of the most anticipated mobile games this year – the phone-friendly port of the popular Switch game wracked up at least 5 million pre-registrations, according to the company itself, and it's now available to download on Android or iOS.You can find the Play Store link here for Android devices and App Store link here for iPhones, and they'll bring you to the store listing pages (if you're on your phone) where you can download the game – that is, if you weren't one of the millions of people to pre-register, in which case it'll download automatically.
+
+
+***
+![Mexico's Kavak drives away with $700M in new funding, doubling its valuation to $8.7B – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/07092020-CARLOS_FEDE_PRESS_2191-2-1-e1632268513956.jpg?w=599 "Mexico's Kavak drives away with $700M in new funding, doubling its valuation to $8.7B – TechCrunch")
+
+
+[Mexico's Kavak drives away with $700M in new funding, doubling its valuation to $8.7B – TechCrunch](https://techcrunch.com/2021/09/21/mexicos-kavak-raises-700m-for-its-used-car-marketplace-doubling-its-valuation-to-8-7b/)
+
+
+> Kavak, a Mexico City-based startup that operates a pre-owned car marketplace in Latin America, announced today that it has raised a massive $700 million in a Series E round that more than doubles the company's valuation to $8.7 billion.This news is notable for a few reasons. For one, it's a staggering sum for any startup, much less one based in Latin America. Also, news of this raise comes just five months after Kavak raised $485 million in a Series D at a $4 billion valuation. The investment also marks the second time this year that Kavak has doubled its valuation.
+
+
+***
+[Overview of the market for NFTs where most assets sold on OpenSea in the past 90 days have not seen another deal (Bloomberg)](http://www.techmeme.com/210922/p3#a210922p3)
+
+
+> Bloomberg: Overview of the market for NFTs where most assets sold on OpenSea in the past 90 days have not seen another deal — - Beware the hype cycle in diverse world of non-fungible tokens — Industry returns vary greatly while investing risks pile up — As co-founder of a website tracking …
+
+
+***
+![Indian buy now, pay later startup ZestMoney raises $50 million from Australia's Zip – TechCrunch](https://techcrunch.com/wp-content/uploads/2018/08/ZestMoney-Founders.jpg?w=600 "Indian buy now, pay later startup ZestMoney raises $50 million from Australia's Zip – TechCrunch")
+
+
+[Indian buy now, pay later startup ZestMoney raises $50 million from Australia's Zip – TechCrunch](https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/)
+
+
+> ZestMoney, a Bangalore-based buy now, pay later platform, said on Wednesday it has raised $50 million in a new financing round from Australia's Zip as the Indian firm looks to double down on a trend that has show early signs of traction in several global markets. The eight-year-old Australian firm, which has a presence in 12 markets across five continents, is acquiring a minority stake in ZestMoney as part of the new Series C financing round, the two said. ZestMoney said in a statement the new financing round hasn't closed as existing investors will be participating in it as well.
+
+
