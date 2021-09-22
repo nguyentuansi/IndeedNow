@@ -1775,3 +1775,53 @@
 > The decades-long failure to act shows that many existing environmental laws 'are made for very old problems,' Wood says. In Nixon's day, Americans were concerned with issues like smog, acid rain, and dwindling landfill space. Some of those issues remain, but they 'have been utterly eclipsed by the oil and gas industry's attack on the planetary system,' Wood adds. While 20th-century legislation could, in theory, be amended once again to account for soaring levels of atmospheric carbon, such laws often end up hindering emissions reduction efforts instead.
 
 
+***
+![苹果中国官方羊毛：有苹果耳机的用户可免费订阅6个月Apple Music](https://static.cnbetacdn.com/thumb/article/2021/0922/47738dfc46afeca.png "苹果中国官方羊毛：有苹果耳机的用户可免费订阅6个月Apple Music")
+
+
+[苹果中国官方羊毛：有苹果耳机的用户可免费订阅6个月Apple Music](http://www.cnbeta.com/articles/tech/1182147.htm)
+
+
+> 苹果近日推出了一项新的优惠，向第二代AirPods、AirPods Pro、AirPods Max和部分Beats产品的用户提供为期6个月的Apple Music免费订阅。该优惠仅对新的Apple Music订阅者有效，无需新购买，因此对当前拥有符合条件的产品的所有用户开放。 哪些设备符合领取 Apple Music 6 个月免费试用的资格？任何 AirPods Pro、配充电盒的 AirPods、配无线充电盒的 AirPods、AirPods Max、Beats Studio Buds、Powerbeats、Powerbeats Pro 或 Beats Solo Pro 均为符合兑换资格的设备。拥有符合兑换资格设备的使用者无需再进行购买。AirPods（第 1 代）、Beats Solo3 Wireless、Beats Studio3 Wireless、Beats EP 和 Beats Flex 不具备兑换资格。我拥有兑换 6 个月 Apple Music 免费试用的音频设备，如何启用订阅服务？Apple Music 新订阅用户凭符合资格的音频设备可获取 6 个月免费试用。请确保你的 iPhone 或 iPad 已更新至最新版本的 iOS 或 iPadOS。将你的音频设备与 iPhone 或 iPad 配对后，即可开始试用 Apple Music 订阅服务。我的优惠何时到期？在你首次配对设备后，你将有 90 天时间来启用你的 Apple Music 6 个月免费试用。已拥有符合兑换资格设备的使用者，在将设备升级至最新版的 iOS 或 iPadOS 后，你将有 90 天时间来启用你的 Apple Music 6 个月免费试用。如何兑换你的优惠1.
+
+
+***
+![Tello vs. Google Fi: Which flexible prepaid carrier is the best?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/11/google-fi-sim-phone-lg-v60.jpg "Tello vs. Google Fi: Which flexible prepaid carrier is the best?")
+
+
+[Tello vs. Google Fi: Which flexible prepaid carrier is the best?](https://www.androidcentral.com/tello-vs-google-fi)
+
+
+> Tello makes phone service simple by ditching traditional plans and sticking with a completely custom plan so users don't need to waste money on data they won't use. Hotspot comes with any plan with data and also international calls to more than 60 countries. It also uses the T-Mobile network for great LTE and 5G coverage. From $5/mo. at Tello Great coverage with the T-Mobile network Flexible plans can save you money Great phone support Very cheap for light users Unlimited plan limited to 25GB Google Fi has earned an excellent reputation among tech enthusiasts thanks to its flexibility and international roaming capabilities.
+
+
+***
+![National Airport Parking Service Uses UKG Pro to Support Culture of Compassion](https://mms.businesswire.com/media/20210922005081/en/828490/23/UKG_cmyk.jpg "National Airport Parking Service Uses UKG Pro to Support Culture of Compassion")
+
+
+[National Airport Parking Service Uses UKG Pro to Support Culture of Compassion](https://www.businesswire.com/news/home/20210922005081/en/National-Airport-Parking-Service-Uses-UKG-Pro-to-Support-Culture-of-Compassion)
+
+
+> September 22, 2021 10:00 AM Eastern Daylight Time LOWELL, Mass. & WESTON, Fla.--(BUSINESS WIRE)--UKG (Ultimate Kronos Group), a leading global provider of human capital management (HCM), payroll, HR service delivery, and workforce management solutions, announced today that The Parking Spot, the leading near-airport parking company in the United States, is using UKG Pro to advance the company's philanthropic values. The Parking Spot has been a trusted short- and long-term parking solution for U.
+
+
+***
+![WallStreetBets Launches NFT Collection](http://www.businesswire.com/images/bwlogo_square.png "WallStreetBets Launches NFT Collection")
+
+
+[WallStreetBets Launches NFT Collection](https://www.businesswire.com/news/home/20210922005352/en/WallStreetBets-Launches-NFT-Collection)
+
+
+> September 22, 2021 10:00 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--Ever wanted to own a piece of WallStreetBets history? Something you can show your kids someday when they start asking why the other kids at school don't get charged gas fees on their allowances? You're in luck because WallStreetBets is launching its first-ever NFT collection today. 'The WallStreetBets community has been giving out memes for free for too long; Apple should be paying everyone royalties for rocket and diamond emojis at this point.
+
+
+***
+![Mark Zuckerberg personally approved a project that pushed pro-Facebook stories into the news feeds of the platform's users, report says](https://external-preview.redd.it/bwj6Ek4iDe_lZce9aH9JejStRTzqZJd5bOf1Tq-cyJ4.jpg?auto=webp&s=72dc64e8bd10037b64675192ce9844e6de4464b7 "Mark Zuckerberg personally approved a project that pushed pro-Facebook stories into the news feeds of the platform's users, report says")
+
+
+[Mark Zuckerberg personally approved a project that pushed pro-Facebook stories into the news feeds of the platform's users, report says](https://www.reddit.com/r/technology/comments/pt81ru/mark_zuckerberg_personally_approved_a_project/)
+
+
+> No body in the article.
+
+
