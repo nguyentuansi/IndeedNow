@@ -1437,3 +1437,53 @@
 > Chrome is a great browser but Google's data collection practices and other general concerns — well-founded or not — may make some want to change the browser's default search engine. Fortunately, just because you're using the company's browser doesn't mean you have to use its search. And that holds true not only for using Google.com, in general. But also in terms of which browser is used when you type a search into the URL Omnibox.None of that is to say that the process is intuitive. Even if it is easy enough to accomplish.
 
 
+***
+![China, US unveil separate big steps to fight climate change](https://s.abcnews.com/images/Technology/WireAP_eb598a1e97f24bcd8ba41ac558a5d8ee_16x9_992.jpg "China, US unveil separate big steps to fight climate change")
+
+
+[China, US unveil separate big steps to fight climate change](https://abcnews.go.com/Technology/wireStory/us-china-unveil-separate-big-steps-fight-climate-80155802)
+
+
+> The two biggest economies and largest carbon polluters in the world announced separate financial attacks on climate change Tuesday.Chinese President Xi Jinping said his country will no longer fund coal-fired power plants abroad, surprising the world on climate for the second straight year at the U.N. General Assembly. That came hours after U.S. President Joe Biden announced a plan to double financial aid to poorer nations to $11.4 billion by 2024 so those countries could switch to cleaner energy and cope with global warming's worsening impacts.
+
+
+***
+![The first patient testimony about a Theranos test result: a miscarriage that wasn't](https://cdn.vox-cdn.com/thumbor/tmg_PVWQPKVgqNpMUl4nrnJhTcg=/0x0:4502x2357/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22868663/1340934529.jpg "The first patient testimony about a Theranos test result: a miscarriage that wasn't")
+
+
+[The first patient testimony about a Theranos test result: a miscarriage that wasn't](https://www.theverge.com/2021/9/21/22687026/theranos-patient-bad-test-miscarriage-pregnancy)
+
+
+> Brittany Gould, wearing a black mask with a clear window through which you could see her mouth, got choked up as she told the court about her experience with Theranos in 2014. She'd used the company's tests because they were cheap — her language was 'cost-effective' — and the results told her, wrongly, that she was miscarrying. It would have been her fourth miscarriage in a row. The defense in US v. Elizabeth Holmes blocked testimony from Gould about the emotional impact of the bad test, so jurors didn't hear how it affected her.
+
+
+***
+![The best deals on true wireless earbuds right now](https://cdn.vox-cdn.com/thumbor/lio5WdlU7vp2NibrG1UaQiBK5Gc=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22141600/bfarsace_201130_4322_0001.0.jpg "The best deals on true wireless earbuds right now")
+
+
+[The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
+
+
+> Photo by Becca Farsace / The Verge When it comes to true wireless earbuds, there are a ton of brands and products to choose from. Whether you enjoy the unconventional design of Samsung's Galaxy Buds Live or prefer Jabra's compact Elite 75t, there's a pair of wireless earbuds for just about everyone. Fortunately, many of the best wireless earbuds go on sale on a regular occurrence. Regardless of which brand you prefer, we have compiled some of the best deals on wireless earbuds available right now.
+
+
+***
+![The new iPhone 13 could be released today, and it will be Apple's most significant improvement to date.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "The new iPhone 13 could be released today, and it will be Apple's most significant improvement to date.")
+
+
+[The new iPhone 13 could be released today, and it will be Apple's most significant improvement to date.](https://en.brinkwire.com/technology/the-new-iphone-13-could-be-released-today-and-it-will-be-apples-most-significant-improvement-to-date/)
+
+
+> The new iPhone 13 could be released today, and it will be Apple's most significant improvement to date. There are only a few hours till Apple unveils its all-new iPhone, which is believed to be one of the company's most significant enhancements to yet. At 6 p.m. tonight, Apple will unveil its latest set of products, and it's almost inevitable that a new iPhone 13 will be the main attraction at the Cupertino event streamed live online. This year's flagship is expected to have a better display, faster charging (through Apple's MagSafe connector), and a more powerful A15 Bionic processor.
+
+
+***
+![How to figure out what size TV you should buy](https://icdn.digitaltrends.com/image/digitaltrends/samsung-70-inch-4k-tv-in-living-room-1.jpg "How to figure out what size TV you should buy")
+
+
+[How to figure out what size TV you should buy](https://www.digitaltrends.com/home-theater/what-size-tv-to-buy/)
+
+
+> Buying a new TV is often an exciting experience for the entire household (unless it's because your remote went flying through the screen of your old set). Best of all, thanks to major strides in resolution, upscaling, and backlighting, we can sit closer to our TVs than ever before — without that dreaded pixelation. Do keep in mind though that regardless of the brand you choose, it's still important to buy an appropriately-sized TV for the room you'll be watching it in. Yes, you'll notice fewer defects in bigger-sized screens these days, but a large screen in a small room can still become overbearing, especially for your eyes.
+
+
