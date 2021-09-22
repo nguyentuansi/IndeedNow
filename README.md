@@ -1872,3 +1872,47 @@
 > YOU can bag yourself six months of ad-free music streaming with this cracking offering from Apple. The California iPhone-maker is giving away six months of Apple Music for free to anyone who owns a pair of AirPods or select Beats products. You get six months of Apple Music for free when you buy a new pair of AirPods or BeatsCredit: Alamy It's a great way to avoid paying out every month – especially if you've got a subscription to a rival like Spotify or Deezer. Apple Music, which has a library of more than 75million songs, usually costs $10/£10 per month.
 
 
+***
+[Today i made a password generator :)](https://www.reddit.com/r/Python/comments/ptd8oj/today_i_made_a_password_generator/)
+
+
+> This is the code :) i am really proud of this, since my password generator 1.0 was just a 200 line long mess of if-statments and list appends, and so this version is a huge improvement.If you got any tips on how to make it any better, please share below!#The libraies i used import string import random #The password will be in this list password = [] #Asking the user how many of each symbol class the password should have amount_ABC = int(input('How many letters should the password contain? :')) amount_123 = int(input('How many numbers should the password contain? :')) amount_symbol = int(input('How many symbols should the password contain? :')) #Adds random letters for i in range(amount_ABC): the_letters = random.
+
+
+***
+![5 Powerful Functions in Python](https://external-preview.redd.it/Do24H3T10A3JUP-pqv8GBVeZOjJYj2cHk9shCRi-lBo.jpg?auto=webp&s=a7988246de1c67966baf62fdedbb8783468790c1 "5 Powerful Functions in Python")
+
+
+[5 Powerful Functions in Python](https://www.reddit.com/r/Python/comments/ptd5di/5_powerful_functions_in_python/)
+
+
+> Hello, Check out this link [Functions in Python(http:// https://link.medium.com/DJDCUbg0Kjb)
+
+
+***
+[A quick look at the markets ahead of the FOMC](https://www.forexlive.com/technical-analysis/!/a-quick-look-at-the-markets-ahead-of-the-fomc-20210922)
+
+
+> Key market levels ahead of the FOMC decision Forex: The CAD is the strongest of the majors, while the JPY is the weakest. The USD is trading mixed with modest gains verse the JPY and more modest gains verse the CHF, GBP and near unchanged vs the EUR. The greenback is a lower verse the commodity currencies led by the CAD. The
+
+
+***
+![CORRECTING and REPLACING IonQ and Fidelity Center for Applied Technology Demonstrate Quantum Machine Learning for Finance on IonQ Quantum Computers](https://mms.businesswire.com/media/20210922005347/en/908730/23/ionq_logo.jpg "CORRECTING and REPLACING IonQ and Fidelity Center for Applied Technology Demonstrate Quantum Machine Learning for Finance on IonQ Quantum Computers")
+
+
+[CORRECTING and REPLACING IonQ and Fidelity Center for Applied Technology Demonstrate Quantum Machine Learning for Finance on IonQ Quantum Computers](https://www.businesswire.com/news/home/20210922005347/en/CORRECTING-and-REPLACING-IonQ-and-Fidelity-Center-for-Applied-Technology-Demonstrate-Quantum-Machine-Learning-for-Finance-on-IonQ-Quantum-Computers)
+
+
+> September 22, 2021 01:52 PM Eastern Daylight Time COLLEGE PARK, Md.--(BUSINESS WIRE)--Please replace the release with the following corrected version due to multiple revisions. The updated release reads: IONQ AND FIDELITY CENTER FOR APPLIED TECHNOLOGY DEMONSTRATE QUANTUM MACHINE LEARNING FOR FINANCE ON IONQ QUANTUM COMPUTERS New paper describes how quantum machine learning algorithms have exponential advantage over classical counterparts in financial analysis Algorithm leverages copulas--a common data analysis technique--to better describe the complex relationships between several variables, such as stock prices Algorithm has been demonstrated on IonQ's latest quantum computer and outperforms equivalent algorithm based on classical machine learning Quantum algorithm can be applied to statistical problems in several industries, expanding the near-term opportunity for quantum computing IonQ, Inc.
+
+
+***
+![Isolated execution in NodeJS using V8 based isolates](https://external-preview.redd.it/HdxeGSD4VBQs-XAp9oGbp2xnOL_oeimkDhPikdX6bP0.jpg?auto=webp&s=6e62160372e02d5fe2d016218b86cc6d25f23def "Isolated execution in NodeJS using V8 based isolates")
+
+
+[Isolated execution in NodeJS using V8 based isolates](https://www.reddit.com/r/programming/comments/ptczck/isolated_execution_in_nodejs_using_v8_based/)
+
+
+> no comments yetBe the first to share what you think!
+
+
