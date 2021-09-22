@@ -1631,3 +1631,47 @@
 > ZestMoney, a Bangalore-based buy now, pay later platform, said on Wednesday it has raised $50 million in a new financing round from Australia's Zip as the Indian firm looks to double down on a trend that has show early signs of traction in several global markets. The eight-year-old Australian firm, which has a presence in 12 markets across five continents, is acquiring a minority stake in ZestMoney as part of the new Series C financing round, the two said. ZestMoney said in a statement the new financing round hasn't closed as existing investors will be participating in it as well.
 
 
+***
+[Radeon Software Adrenalin 21.9.2 brings support and optimizations for selected game titles](http://www.pinkvilla.com/tech/news/radeon-software-adrenalin-21-9-2-brings-support-and-optimizations-for-selected-game-titles-900947)
+
+
+> Attach Main technology Image: Image Caption: Radeon Software Adrenalin 21.9.2 brings support and optimizations for selected game titles Social Media Image : Enter the Technology details: Today AMD released Radeon Software Adrenalin 21.9.2, providing support and optimizations for several exciting games. The new release provides several fixes and stability improvements, along with Day-0 support for World War Z: Aftermath, New World and Diablo II: Resurrected. Optimizations include 13 percent faster performance in Diablo II: Resurrected at 4K, Very High settings compared to previous drivers with the Radeon RX 6700 XT graphics card.
+
+
+***
+[Webinar: 'A Look At — and Inside — Textual' with Will McGugan](https://www.reddit.com/r/Python/comments/pt2nk5/webinar_a_look_at_and_inside_textual_with_will/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Cancellation in Kotlin Coroutines](https://external-preview.redd.it/vSh7VenEnuAGdOYv1fVmut1yq6Jy9Ij4KposVrEGMBs.jpg?auto=webp&s=49509f4790c26d8eda846162dc610d2427935c07 "Cancellation in Kotlin Coroutines")
+
+
+[Cancellation in Kotlin Coroutines](https://www.reddit.com/r/programming/comments/pt2n25/cancellation_in_kotlin_coroutines/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Implement nodeJs routing](https://external-preview.redd.it/WmMnpS0n3Bkb8QtyFSYH6DQtYjjr1_US7JzZM4XPZZQ.jpg?auto=webp&s=02c54bb81190abe34e35a337611fd29e5ce8a4f1 "Implement nodeJs routing")
+
+
+[Implement nodeJs routing](https://www.reddit.com/r/programming/comments/pt2lkj/implement_nodejs_routing/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Mi TV 5X review in five points: Should you buy?](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/mt6-original.jpg "Mi TV 5X review in five points: Should you buy?")
+
+
+[Mi TV 5X review in five points: Should you buy?](https://www.indiatoday.in/technology/features/story/mi-tv-5x-review-in-five-points-should-you-buy-1855675-2021-09-22)
+
+
+> Story highlights Mi TV 5X price in India starts at Rs 31,999. Mi TV 5X is available in three screen sizes. Mi TV 5X has Dolby Vision support. Xiaomi has updated its smart TV line-up last month with the introduction of Mi TV 5X series, an upgrade on the existing Mi TVs. The Mi TV 5X comes in three different screen sizes - 43-inches (Rs 31,999), 50-inches (Rs 41,999), and the flagship 55-inch variant (Rs 47,999) which I have recently reviewed. All the models have 4K panels and support both Dolby Vision and Dolby Atmos.
+
+
