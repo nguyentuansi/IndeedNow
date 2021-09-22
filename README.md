@@ -1825,3 +1825,50 @@
 > No body in the article.
 
 
+***
+[UK, South Korea to swap over 1M coronavirus vaccines](https://www.yenisafak.com/en/news/uk-south-korea-to-swap-over-1m-coronavirus-vaccines-3580776)
+
+
+> The UK and South Korea will share more than 1 million doses of COVID-19 vaccine with each other 'to enhance rollout of ...
+
+
+***
+![Microsoft's new Surface Duo 2: Improves on nearly everything](https://www.cnet.com/a/img/npYNE9QBo3Db4m6JWjdaZ2x6mqU=/1200x630/2021/09/21/0b68db40-fbae-4042-b3a4-eb7c8484c599/surface-duo-2-photography-2-under-embargo-until-september-22.jpg "Microsoft's new Surface Duo 2: Improves on nearly everything")
+
+
+[Microsoft's new Surface Duo 2: Improves on nearly everything](https://www.cnet.com/tech/mobile/microsofts-new-surface-duo-2-improves-on-nearly-everything/)
+
+
+> The Surface Duo 2 has new rear cameras, 5G and a new processor, arriving this fall. Microsoft Microsoft's first attempt at a folding phone, the Surface Duo, nailed the hinge and folding feel, but lagged on everything else. The Duo 2, announced today at Microsoft's virtual Surface event, looks like it's addressed a lot of the previous Duo's shortcomings: sometimes sluggish performance, only one camera and a lack of 5G. Whether it can compete with the Samsung Galaxy Fold 3 remains to be seen, but the Duo finally has 5G, more cameras, a faster processor and even a side display.
+
+
+***
+![Everything Microsoft Didn't Announce at Its Surface Event](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-surface-studio-2-6010.jpg "Everything Microsoft Didn't Announce at Its Surface Event")
+
+
+[Everything Microsoft Didn't Announce at Its Surface Event](https://www.digitaltrends.com/computing/everything-microsoft-didnt-announce-surface-event-2021/)
+
+
+> Microsoft's annual Surface event has come to a close, and the company unveiled its fair share of surprises. From updates to existing lines like the Surface Pro 8 and the Surface Duo 2 to brand new products like the Surface Laptop Studio, there was no shortage of exciting announcements. But as always, there are a few product lines that haven't gotten as much attention lately, leaving us to wonder when we'll see an update. Here's everything Microsoft didn't announce at its Surface event. Surface Studio 3 Dan Baker/Digital Trends Of all the Surface products, the Surface Studio has grown the longest in the tooth.
+
+
+***
+![You can get six months of Apple music for FREE if you buy these gadgets](https://www.the-sun.com/wp-content/uploads/sites/6/2021/09/NINTCHDBPICT000568029390.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "You can get six months of Apple music for FREE if you buy these gadgets")
+
+
+[You can get six months of Apple music for FREE if you buy these gadgets](https://www.the-sun.com/tech/3711713/get-six-months-apple-music-free-gadgets/)
+
+
+> YOU can bag yourself six months of ad-free music streaming with this cracking offering from Apple. The California iPhone-maker is giving away six months of Apple Music for free to anyone who owns a pair of AirPods or select Beats products. You get six months of Apple Music for free when you buy a new pair of AirPods or BeatsCredit: Alamy It's a great way to avoid paying out every month – especially if you've got a subscription to a rival like Spotify or Deezer. Apple Music, which has a library of more than 75million songs, usually costs $10/£10 per month.
+
+
+***
+![You can get six months of Apple music for FREE if you buy these gadgets](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/09/NINTCHDBPICT000568029390.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "You can get six months of Apple music for FREE if you buy these gadgets")
+
+
+[You can get six months of Apple music for FREE if you buy these gadgets](https://www.thescottishsun.co.uk/tech/7739926/get-six-months-apple-music-free-gadgets/)
+
+
+> YOU can bag yourself six months of ad-free music streaming with this cracking offering from Apple. The California iPhone-maker is giving away six months of Apple Music for free to anyone who owns a pair of AirPods or select Beats products. You get six months of Apple Music for free when you buy a new pair of AirPods or BeatsCredit: Alamy It's a great way to avoid paying out every month – especially if you've got a subscription to a rival like Spotify or Deezer. Apple Music, which has a library of more than 75million songs, usually costs $10/£10 per month.
+
+
