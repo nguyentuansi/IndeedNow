@@ -2394,3 +2394,50 @@
 > (Image credit: Shutterstock) Business adaptability has never been more important than right now. The pandemic has been a watershed moment with 79% of British SMEs - which make up over 99% of the business population - having to adapt since the start of the pandemic, according to a recent survey by Sky Connect.The root of much of this change has of course been the rapid digitalization experienced during the pandemic. Many small businesses branched into ecommerce for the very first time, while others had to accelerate their digital initiatives to keep pace with changing buyer behavior.
 
 
+***
+![Google powers up assistive tech in Android with facial gesture-powered shortcuts and switches – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/project-activate.png?w=691 "Google powers up assistive tech in Android with facial gesture-powered shortcuts and switches – TechCrunch")
+
+
+[Google powers up assistive tech in Android with facial gesture-powered shortcuts and switches – TechCrunch](https://techcrunch.com/2021/09/23/google-powers-up-assistive-tech-in-android-with-facial-gesture-powered-shortcuts-and-switches/)
+
+
+> Making smartphones more accessible is always a good idea, and Google's latest features bring quick actions and navigation to people whose expressions are their primary means of interacting with the world. Project Activate and Camera Switches let users perform tasks like speaking a custom phrase, or navigating using a switch interface, through facial gestures alone. The new features rely on the smartphone's front-facing camera, which can watch the user's face in real time for one of six expressions: a smile, raised eyebrows, opened mouth, and looking left, right, or up.
+
+
+***
+![Looking for the best iPhone 13? Here are 5 things I learned using Apple's latest models.](https://www.gannett-cdn.com/-mm-/5218cb15968522c3c681de83867e9cd0e88b58cc/c=0-233-1960-1335/local/-/media/2021/09/15/USATODAY/usatsports/MotleyFool-TMOT-8287eb9d-iphone-13-pro-max.jpg?width=1960&height=1102&fit=crop&format=pjpg&auto=webp "Looking for the best iPhone 13? Here are 5 things I learned using Apple's latest models.")
+
+
+[Looking for the best iPhone 13? Here are 5 things I learned using Apple's latest models.](https://www.usatoday.com/story/tech/2021/09/23/iphone-13-testing-features-apple-smartphone/5825365001/)
+
+
+> The new crop of iPhone 13 make their debut Friday.Apple is introducing four versions of its next smartphone on Sept. 24. Along with the standard iPhone 13, there's the iPhone 13 Mini, the iPhone 13 Pro and the Pro Max.Prices start at $699 for the Mini and creep up by $100 for each model, topping off at $1,099 for the Pro Max.►History of the iPhone: How Apple's signature smartphone has changed over the years►iPhone 13 deals: Here are best trade-in offers from AT&T, Verizon, T-MobileAmong the features Apple is touting for iPhone 13 are a brighter display, improvements to the cameras, better battery life and faster performance thanks to the new A15 chip.
+
+
+***
+![Best Dell laptop 2021: the top picks for work, school, and gaming](https://cdn.mos.cms.futurecdn.net/cKGahs3u9J6WsnmH3ubAfn-1200-80.jpg "Best Dell laptop 2021: the top picks for work, school, and gaming")
+
+
+[Best Dell laptop 2021: the top picks for work, school, and gaming](https://www.techradar.com/news/the-best-dell-laptops)
+
+
+> The best Dell laptops are some of the best laptops being made right now. That's because the company's particular attention to detail, which not only pulled it out of a dark era when all its products, even the best ones, had issues with breaking, has paved the way for such amazing and thoughtfully designed portables like the impressive Dell XPS family and Alienware gaming laptops.And, it's not just the flagship Dell laptops that give the brand such a great reputation. Even its affordable options make for great notebooks.
+
+
+***
+![Far Cry 6's narrative director talks representation, revolution and a return of gay frogs](https://cdn.mos.cms.futurecdn.net/qz6ZUsc8XzfSWHH7wbsyNT-1200-80.jpg "Far Cry 6's narrative director talks representation, revolution and a return of gay frogs")
+
+
+[Far Cry 6's narrative director talks representation, revolution and a return of gay frogs](https://www.techradar.com/news/far-cry-6s-narrative-director-talks-representation-revolution-and-a-return-of-gay-frogs)
+
+
+> The Far Cry series has been no stranger to controversy. From criticism over Far Cry 4's cover art to the petition over Far Cry 5's portrayal of religious fanatics as villains, Ubisoft's long-running series is often contentious, to say the least, and Far Cry 6 is no different.Set on the fictional island of Yara, Far Cry 6 sees players taking on the role of Dani Rojas, who joins a guerrilla revolution against Yara's tyrannical dictator, Anton Castillo (played by Breaking Bad's Giancarlo Esposito). It's a dark premise, but one that Ubisoft plans to balance with the chaotic, playground mechanics that the Far Cry series is known for – a balancing act that has already garnered criticism from some.
+
+
+***
+[News story: Tech jobs increase in Edinburgh and Glasgow as sector thrives](https://www.gov.uk/government/news/tech-jobs-increase-in-edinburgh-and-glasgow-as-sector-thrives)
+
+
+> Figures show Scotland's digital sector is booming, with tech roles increasing by over 25% in Edinburgh and Glasgow.
+
+
