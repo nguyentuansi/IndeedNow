@@ -2250,3 +2250,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Microsoft's Surface Duo 2 needs more than faster performance, better cameras to win the foldables race](https://www.cnet.com/a/img/IFBwbhxuaK-hZaNmkoepNc_XSa4=/1200x630/2021/09/21/77f998a2-c63a-459a-b91f-5b64ed060768/surface-duo-2-editing-under-embargo-until-september-22.jpg "Microsoft's Surface Duo 2 needs more than faster performance, better cameras to win the foldables race")
+
+
+[Microsoft's Surface Duo 2 needs more than faster performance, better cameras to win the foldables race](https://www.cnet.com/tech/mobile/microsofts-surface-duo-2-needs-more-than-faster-performance-better-cameras-win-foldables-race/)
+
+
+> Microsoft's new Pen magnetically charges and has vibrating haptics. Microsoft Microsoft's original Surface Duo showed the potential for dual-screened phones, but ultimately didn't deliver on expectations. The company is hoping to address those limitations with the new $1,499 Surface Duo 2, announced on Wednesday, which comes with a much-needed boost in processing power and camera quality. The biggest question, however, is whether Microsoft can truly make the case for a dual-screened phone.First, let's start with what's new about the Surface Duo 2, which is available for preorder starting Wednesday.
+
+
+***
+![Privacy Reset: A guide to every setting you should change nowPrivacy Reset: A guide to every setting you should change now](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HAK5MTBQW5DJ3ABAMOIVKD4IBU.jpg&w=1200 "Privacy Reset: A guide to every setting you should change nowPrivacy Reset: A guide to every setting you should change now")
+
+
+[Privacy Reset: A guide to every setting you should change nowPrivacy Reset: A guide to every setting you should change now](https://www.washingtonpost.com/technology/interactive/2021/privacy-settings-guide/)
+
+
+> We all know it's important to protect our privacy online to prevent things as simple as our birth date or as detailed as our search history from being used by companies, data brokers or strangers.Unfortunately, we often don't know where to start.It can seem easier to throw our hands up, decide that nothing is private, and let the targeted-advertising gods collect details on our relationship status, political leanings and how many pairs of wide-leg pants we own. But if we give up, Big Tech wins.We've largely handed control of our personal information to large companies and an entire ecosystem exists to sell us things.
+
+
+***
+![Tech firms' nightmare: Vanishing green cards](https://images.axios.com/e4HOxO1UYYgTEnBXp_Sf2PTChCE=/0x0:1920x1080/1366x768/2021/09/23/1632358117563.jpg "Tech firms' nightmare: Vanishing green cards")
+
+
+[Tech firms' nightmare: Vanishing green cards](https://www.axios.com/tech-firms-nightmare-vanishing-green-cards-587ef9a5-8152-465f-ac9a-3f1c913ead48.html)
+
+
+> Thousands of green cards are about to go to waste, leaving Google, Microsoft and other tech companies fuming — and pushing the Biden administration to ensure it doesn't happen again.Why it matters: Tech workers have waited years for green cards that will grant them permanent legal status in the U.S. — but because of pandemic-related processing delays, they will have to wait even longer.How it works: The U.S. makes a certain number of family-based and employment-based green cards available each fiscal year.
+
+
+***
+![Call of Duty: Vanguard release date, campaign, zombies and more](https://cdn.mos.cms.futurecdn.net/n7Bm7dKcEUngiviH5T9pqU-1200-80.jpg "Call of Duty: Vanguard release date, campaign, zombies and more")
+
+
+[Call of Duty: Vanguard release date, campaign, zombies and more](https://www.laptopmag.com/news/call-of-duty-vanguard-release-date-campaign-zombies-and-more)
+
+
+> Call of Duty: Vanguard is official, with the next entry to the annual CoD series set to arrive this November with a brand-new campaign along with multiplayer and zombies modes. And now we can confirm that the game is set in the World War II era. What's more, it's bringing back the next-gen engine first seen in 2019's Modern Warfare. Call of Duty: Vanguard will launch on November 5, going head-to-head with the DICE's hugely anticipated Battlefield 2042. While Battlefield is going all-in on online multiplayer by ditching its single-player campaign, Vanguard has the edge with a story that follows Task Force One across 'four major theatres of war.
+
+
+***
+[Apple releases StoreKit 2 alongside iOS 15, letting developers quickly access a user's purchase history, letting users request a refund in-app, and more (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210923/p9#a210923p9)
+
+
+> Ian Carlos Campbell / The Verge: Apple releases StoreKit 2 alongside iOS 15, letting developers quickly access a user's purchase history, letting users request a refund in-app, and more — Refunds and subscription management — As part of this week's launch of iOS 15, iPadOS 15, and watchOS 8, Apple also introduced StoreKit 2 …
+
+
