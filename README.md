@@ -2541,3 +2541,53 @@
 > OnePlus and Hasselblad's partnership centers around software at the moment, with the famous camera manufacturer tweaking the OnePlus 9 and OnePlus 9 Pro's camera app, rather than working on the hardware. An update on its way to these two phones at the moment adds a new Hasselblad camera mode called XPan, based on a famous camera made by the company, and we've tried it out. While I appreciate what the pair are doing, there is a big difference between panoramic photos taken with a specialist camera, and the same thing replicated using software on a mainstream smartphone.
 
 
+***
+![Everything announced at the September 2021 Nintendo Direct](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/nintendo-direct-9-23-2021.jpg "Everything announced at the September 2021 Nintendo Direct")
+
+
+[Everything announced at the September 2021 Nintendo Direct](https://www.imore.com/everything-announced-september-2021-nintendo-direct)
+
+
+> Source: Nintendo Nintendo shared updates on several games during the September 2021 Nintendo Direct. Many of these games shown during this 40 minute presentation could end up being some of the best Nintendo Switch games. Monster Hunter Rise Sunbreak expansion announced Monster Hunter Rise is getting a "massive expansion" called Sunbreak. This expansion is due out sometime in Summer 2022 and brings new locales, monsters and more. Gaming on-the-go or at home Grab a Nintendo Switch eShop gift card and you'll be good to go.
+
+
+***
+![Hillicon Valley — Presented by Xerox — Officials want action on cyberattacks](https://thehill.com/sites/default/files/easterlyjen_061021gn_lead.jpg "Hillicon Valley — Presented by Xerox — Officials want action on cyberattacks")
+
+
+[Hillicon Valley — Presented by Xerox — Officials want action on cyberattacks](https://thehill.com/policy/technology/overnights/573725-hillicon-valley)
+
+
+> Today is Thursday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.Top federal cybersecurity leaders on Thursday threw their weight behind the idea of Congress using financial penalties to incentivize companies to report cyber incidents, taking a harder stance after a year of escalating cyberattacks. Meanwhile, the Senate Judiciary Committee advanced a bill to let state attorneys general choose the court to hear antitrust cases.
+
+
+***
+![Panthers vs Texans live stream: how to watch NFL Thursday Night Football online from anywhere](https://cdn.mos.cms.futurecdn.net/USMwEd8kJL4ogJPVuzjzqi-1200-80.jpg "Panthers vs Texans live stream: how to watch NFL Thursday Night Football online from anywhere")
+
+
+[Panthers vs Texans live stream: how to watch NFL Thursday Night Football online from anywhere](https://www.techradar.com/news/panthers-vs-texans-live-stream-how-to-watch-nfl-2021-thursday-night-football-online-from-anywhere)
+
+
+> The Texans with Tyrod Taylor were looking like the real deal, but with rookie Davis Mills at center against a Panthers team that mauled the Saints... it's hard not to fear for David Culley's men. Then again, this season has already thrown up several big surprises under the lights, so read on as we explain how to get a Panthers vs Texans live stream and watch NFL Thursday Night Football online from anywhere.First the Cowboys pushed the Bucs all the way, then the Raiders shocked the Ravens, before the Ravens upset the Chiefs.
+
+
+***
+![Minnesota grain handler targeted in ransomware attack](https://www.reuters.com/resizer/Qud023WPnm1edDLX6To1nukOPOw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AKXGIDEJEROLLMVXDKN6AWST7U.jpg "Minnesota grain handler targeted in ransomware attack")
+
+
+[Minnesota grain handler targeted in ransomware attack](https://www.reuters.com/technology/minnesota-grain-handler-targeted-ransomware-attack-2021-09-23/)
+
+
+> An elevator worker at Crystal Valley Cooperative in Minnesota exits a machinery shed that was cleared out to store an overflow of soybeans from this year's large harvest in Lake Crystal, Minnesota October 13, 2015. REUTERS/Karl Plume/File PhotoCHICAGO, Sept 23 (Reuters) - Minnesota agricultural firm Crystal Valley Cooperative said it had been targeted in a ransomware attack in recent days, making it the second Midwestern farm-services provider in a week to be forced to take systems offline due to cybersecurity incidents.
+
+
+***
+![Facebook to testify in Senate after report finds Instagram harms mental health](https://thehill.com/sites/default/files/ca_facebookinter_091120istock_2.jpg "Facebook to testify in Senate after report finds Instagram harms mental health")
+
+
+[Facebook to testify in Senate after report finds Instagram harms mental health](https://thehill.com/policy/technology/573696-facebook-to-testify-in-senate-after-report-finds-instagram-harms-mental)
+
+
+> A Facebook executive will testify in front of the Senate after reports from The Wall Street Journal showed the social media giant downplayed the toxic impact its Instagram platform has on teenage girls.Facebook's Global Head of Safety Antigone Davis is scheduled to testify before the Senate Commerce subcommittee on consumer protection on Sept. 30, The Washington Post reported.The Wall Street Journal reported that research conducted by Facebook "repeatedly" showed that Instagram negatively impacted teenage girls' mental health while executives continued to downplay this impacts, including in remarks before Congress.
+
+
