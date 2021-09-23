@@ -2153,3 +2153,53 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![Telstra and Cisco ink five-year agreement to monetise IoT](https://itwire.com/media/k2/items/cache/5985b7406f02535b8f1eef8946537409_XS.jpg "Telstra and Cisco ink five-year agreement to monetise IoT")
+
+
+[Telstra and Cisco ink five-year agreement to monetise IoT](https://itwire.com/internet-of-things/telstra-and-cisco-ink-five-year-agreement-to-monetise-iot.html)
+
+
+> Telecommunications company Telstra and networking hardware firm Cisco has entered into a five-year agreement to provide advanced connectivity management for IoT services. Telstra has leveraged Cisco's IoT Control Centre SaaS solution for more than ten years, growing new revenue streams. Cisco continues to work with Telstra to explore 5G use cases that will drive value, including private 5G, as the platform supports both 5G standalone (SA) and non-standalone (NSA) networks. 'Working with Cisco, our management platform helps customers automate and manage large-scale IoT deployments easily and cost-effectively.
+
+
+***
+![Carillon Awarded DARPA Contract for Next Generation Satellite-to-Satellite Free Space Optical Communication (FSOC)](https://mms.businesswire.com/media/20210922005965/en/908998/23/Business_Card_Logo.jpg "Carillon Awarded DARPA Contract for Next Generation Satellite-to-Satellite Free Space Optical Communication (FSOC)")
+
+
+[Carillon Awarded DARPA Contract for Next Generation Satellite-to-Satellite Free Space Optical Communication (FSOC)](https://www.businesswire.com/news/home/20210922005965/en/Carillon-Awarded-DARPA-Contract-for-Next-Generation-Satellite-to-Satellite-Free-Space-Optical-Communication-FSOC)
+
+
+> September 23, 2021 02:00 AM Eastern Daylight Time WEST HARTFORD, Conn.--(BUSINESS WIRE)--The Defense Advanced Research Projects Agency (DARPA) has awarded Carillon Technologies a $6.4M contract to prototype next generation satellite-to-satellite communication systems derived from cutting edge commercial Holographic Optical Beam Steering (HOBS) technology. 'Lightweight and affordable satellite-to-satellite optical communication is a breakthrough technology, not only for commercial and defense communication constellations currently being deployed, but also for new high-performance, highly-survivable space architectures,' said Dr.
+
+
+***
+![#TECH: Intel Malaysia boosts its Covid-19 relief effort with additional allocations and immunisation programme](https://assets.nst.com.my/images/articles/BOTSinteldonate2_NSTfield_image_socialmedia.var_1632376226.jpg "#TECH: Intel Malaysia boosts its Covid-19 relief effort with additional allocations and immunisation programme")
+
+
+[#TECH: Intel Malaysia boosts its Covid-19 relief effort with additional allocations and immunisation programme](https://www.nst.com.my/lifestyle/bots/2021/09/729978/tech-intel-malaysia-boosts-its-covid-19-relief-effort-additional)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Reducing burden of correcting user expectations](https://external-preview.redd.it/rAYtrZ_Gbxx7nlFXJyD59w4uiIIRcJzZhtRhhMXTvlw.jpg?auto=webp&s=0103161ed5a69ef337fcedfe08144112b5b2cdc5 "Reducing burden of correcting user expectations")
+
+
+[Reducing burden of correcting user expectations](https://www.reddit.com/r/programming/comments/ptonef/reducing_burden_of_correcting_user_expectations/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![B&O Beoplay EQ Review](https://cdn.mos.cms.futurecdn.net/WsFpn2fBkN4KiLNZ3HLe4V-1200-80.jpg "B&O Beoplay EQ Review")
+
+
+[B&O Beoplay EQ Review](https://global.techradar.com/en-ae/reviews/bando-beoplay-eq-review)
+
+
+> The Beoplay EQ are Bang & Olufsen's first true wireless earbuds with adaptive active noise cancellation (ANC) and despite their eye-popping price tag, they deliver on most critical fronts.Everything about them screams premium. From their sleek looks to gorgeously detailed audio and compact carrying case. The buds themselves are a bit on the chunky side, but once settled in they sit comfy and snug without cramping your ears. Touch controls on the outside of the buds let you toggle through ANC modes, playback, volume and call answer/reject.
+
+
