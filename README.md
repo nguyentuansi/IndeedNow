@@ -2063,3 +2063,43 @@
 > Facebook's Chief Technology Officer Mike Schroepfer is stepping down from the social media company, taking on a part-time role while longtime executive Andrew Bosworth will replace him next year. Schroepfer, known as 'Schrep," has been at Facebook for 13 years and is a close friend of CEO Mark Zuckerberg. He called his decision difficult 'because of how much I love Facebook and how excited I am about the future we are building together" but added that his new role will let him focus on personal and philanthropic efforts while staying connected to Facebook.
 
 
+***
+![Samsung and Thom Browne give you a reason to spend more on a Galaxy Watch 4](https://icdn.digitaltrends.com/image/digitaltrends/samsung-thom-browne-galaxy-watch-face.jpg "Samsung and Thom Browne give you a reason to spend more on a Galaxy Watch 4")
+
+
+[Samsung and Thom Browne give you a reason to spend more on a Galaxy Watch 4](https://www.digitaltrends.com/mobile/samsung-galaxy-watch-4-classic-thom-browne-edition-news/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Samsung has announced that its Galaxy Watch 4 Classic Thom Browne Edition smartwatch will be available starting September 29 for $800. The limited-edition smartwatch comes in a pack with three different straps, and has five special Thom Browne watch faces already installed. It arrives several weeks after the release of the standard edition, which costs $350. The Thom Browne Edition is based on the Galaxy Watch 4 Classic and will only be available in the 42mm size.
+
+
+***
+![Samsung unveils the Galaxy Watch 4 Classic Thom Browne Edition for $800](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/samsung-galaxy-watch-4-thom-browne-3rd-edition-02.jpg "Samsung unveils the Galaxy Watch 4 Classic Thom Browne Edition for $800")
+
+
+[Samsung unveils the Galaxy Watch 4 Classic Thom Browne Edition for $800](https://www.androidcentral.com/samsung-galaxy-watch-4-classic-thom-browne-edition)
+
+
+> Source: Samsung Samsung has unveiled the Thom Browne edition of the Galaxy Watch 4 Classic. The limited-edition smartwatch will ship with three interchangeable straps and five preloaded Thom Browne watch faces. It will be available beginning on September 29 for $800. Samsung's collaboration with American fashion designer Thom Browne is seeing another offshoot. The tech giant announced on Wednesday the Samsung Galaxy Watch4 Classic Thom Browne Edition, a limited-release smartwatch that will go on sale on September 29.
+
+
+***
+![Power Integrations 推出適用於「新型雙」模組的 SCALE-iFlex 單通道隨插即用閘極驅動器](https://mms.businesswire.com/media/20210922005022/zh-HK/904349/23/PR-SCALE-iFlex-Single-090821_viewimage.jpg "Power Integrations 推出適用於「新型雙」模組的 SCALE-iFlex 單通道隨插即用閘極驅動器")
+
+
+[Power Integrations 推出適用於「新型雙」模組的 SCALE-iFlex 單通道隨插即用閘極驅動器](https://www.businesswire.com/news/home/20210922005022/zh-HK/)
+
+
+> September 22, 2021 10:00 PM Eastern Daylight Time 美國加州聖荷西--(BUSINESS WIRE)--(美國商業資訊)-- Power Integrations (Nasdaq：POWI)，這家為中高壓變頻器應用提供閘極驅動器技術的領導廠商，今日宣佈推出用於主流 100 mm x 140 mm IGBT「新型雙」模組的 SCALE-iFlex™ 單通道閘極驅動器。全新小巧型驅動器支援高達 3.3 kV 的模組，現在可用於設計。SCALE-iFlex 單通道閘極驅動器是輕軌、可再生能源發電和其他需要輕薄小巧、堅固耐用驅動器解決方案的高可靠性應用的理想選擇。 Power Integrations 產品行銷經理 Thorsten Schmidt 表示：「SCALE-iFlex 單通道閘極驅動器符合最新標準 IGBT 功率模組的外形，包括 Mitsubishi LV100/HV100、Infineon xHP2 和 xHP3、ABB LinPak、Hitachi nHPD² 和其他類似產品」。 SCALE-iFlex 單通道閘極驅動器使用 Power Integrations SCALE-2™ ASIC 技術，與傳統產品相比，該技術大幅減少了元件數量。此外，ASIC 還在正常運作期間提供進階主動箝位 (AAC) 過壓保護，能夠在開啟期間出現短路的情況下增加額外保護，這與簡單的緩關機相比有了顯著改進。裝置塗有保形塗層並具有增強型絕緣。當模組並排安裝時，絕緣外殼可確保模組之間的絕緣性。將根據鐵路標準 IEC 61373 – 1B 級 (撞擊和震動) 以及 IEC 61000-4-x (EMC 測試) 和 IEC 60068-2-x (系列環境測試) 對裝置進行資格預審。老化測試是可選的。 在 85 °C 環境溫度且沒有風量的情況下，新型閘極驅動器的額定峰值輸出電流為每通道 20 A，每通道高達 功率，每通道高達 1.
+
+
+***
+![Microsoft Exchange leaking user credentials due to protocol defect](https://itwire.com/media/k2/items/cache/05bd62fcf1a98387800a23575b7a8eaf_XS.jpg "Microsoft Exchange leaking user credentials due to protocol defect")
+
+
+[Microsoft Exchange leaking user credentials due to protocol defect](https://itwire.com/security/microsoft-exchange-leaking-user-credentials-due-to-protocol-defect.html)
+
+
+> A protocol used by Microsoft Exchange, the popular email server software used by both individuals and businesses, has been found to be leaking credentials of users who attempt to authenticate from clients like Microsoft Outlook due to a defect in its design. Research released by security outfit Guardicore on Wednesday US time, said the flaw, in an implementation of the Autodiscover protocol based on the POX XML protocol, would leak Web requests to Autodiscover domains outside a user's domain, but within the same top-level domain.
+
+
