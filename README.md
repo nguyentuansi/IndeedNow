@@ -2491,3 +2491,53 @@
 > MALVERN, Pa.--(BUSINESS WIRE)--Cantaloupe Inc., (Nasdaq: CTLP) ('Cantaloupe' or the 'Company'), a digital payments and software services company that provides end-to-end technology solutions for the unattended retail market, today announced that Elyssa Steiner, Michael Johnson and Maxwell Elliott have all been named to Automatic Merchandiser's 40 Under 40 award list. The Class of 2021 is the Award program's inaugural year. The list recognizes individuals who are redefining the industry. 'The 40 Under 40 Class of 2021 are key industry influencers to watch,' said Automatic Merchandiser editor, Nick Montano.
 
 
+***
+![How to view your Android notification history](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/09/how-to-view-notification-history.jpg "How to view your Android notification history")
+
+
+[How to view your Android notification history](https://www.androidcentral.com/how-view-your-android-notification-history)
+
+
+> Source: Jeramy Johnson / Android Central Seeing your notifications at a glance on your smartphone is super helpful, but sometimes those notifications can get out of hand. If you're like me, you've probably been a bit too aggressive on dismissing or even accidentally deleting messages before you actually looked at them. Well, fear not, because there's a quick and easy way to see what you may have missed. In the steps below, we'll show you how to view your Android notification history, even after you've silenced, dismissed, or deleted them.
+
+
+***
+![Pokémon Unite: Grab these free Pokémon before they expire](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/pokemon-unite.jpg "Pokémon Unite: Grab these free Pokémon before they expire")
+
+
+[Pokémon Unite: Grab these free Pokémon before they expire](https://www.imore.com/pokemon-unite-all-free-gifts-you-can-get-right-now)
+
+
+> Source: The Pokémon Company Yes, Pokémon Unite offers several free gifts just like other Pokémon games on Nintendo Switch. The catch is that you'll need to claim them before they expire, or they'll be gone for good. This especially applies to any free Pokémon Licenses or event rewards. To help keep a handle on things, we've listed all of the current gifts you can redeem along with the ones that have expired already. Source: The Pokémon Company There are all of the gifts you can currently claim in Pokémon Unite.
+
+
+***
+![Microsoft could bring Android 11 to the Surface Duo by the end of 2021](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/08/microsoft-surface-duo-7632.jpeg "Microsoft could bring Android 11 to the Surface Duo by the end of 2021")
+
+
+[Microsoft could bring Android 11 to the Surface Duo by the end of 2021](https://www.androidcentral.com/microsoft-could-bring-android-11-surface-duo-end-2021)
+
+
+> Source: Andrew Myrick / Android Central Microsoft aims to bring Android 11 to the original Surface Duo by the end of 2021. The Surface Duo shipped with Android 10, and has yet to be updated to Android 11. There is no indication as to when or if the Duo will receive the Android 12 update. When the Microsoft Surface Duo 2 was announced, we listened with bated breath waiting to see what version of Android would be arriving. Consisdering that the original Microsoft Surface Duo is still running Android 10, there were concerns that Android 11 wouldn't be arriving.
+
+
+***
+![Get rid of your Sky Q box because your 4K TV may soon have all of its capabilities.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Get rid of your Sky Q box because your 4K TV may soon have all of its capabilities.")
+
+
+[Get rid of your Sky Q box because your 4K TV may soon have all of its capabilities.](https://en.brinkwire.com/technology/get-rid-of-your-sky-q-box-because-your-4k-tv-may-soon-have-all-of-its-capabilities/)
+
+
+> Get rid of your Sky Q box because your 4K TV may soon have all of its capabilities. According to reports, SKY is developing its own Smart TV with access to all pay channels, on-demand boxsets and blockbusters, Sky Sports, and streaming apps. Everything you need to know is right here. You may soon be able to remove the Sky Q unit from beneath your television. That is, if a recent allegation that Sky is developing its own Smart TV with the same features, channels, and streaming apps as the Sky Q box proves to be true.
+
+
+***
+![XPan Mode on the OnePlus 9 Pro isn't the best use of Hasselblad's expertise](https://icdn.digitaltrends.com/image/digitaltrends/hasselblad-camera-oneplus-9-pro.jpg "XPan Mode on the OnePlus 9 Pro isn't the best use of Hasselblad's expertise")
+
+
+[XPan Mode on the OnePlus 9 Pro isn't the best use of Hasselblad's expertise](https://www.digitaltrends.com/mobile/oneplus-hasselblad-xpan-mode-gimmick/)
+
+
+> OnePlus and Hasselblad's partnership centers around software at the moment, with the famous camera manufacturer tweaking the OnePlus 9 and OnePlus 9 Pro's camera app, rather than working on the hardware. An update on its way to these two phones at the moment adds a new Hasselblad camera mode called XPan, based on a famous camera made by the company, and we've tried it out. While I appreciate what the pair are doing, there is a big difference between panoramic photos taken with a specialist camera, and the same thing replicated using software on a mainstream smartphone.
+
+
