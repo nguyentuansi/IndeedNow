@@ -2297,3 +2297,53 @@
 > Ian Carlos Campbell / The Verge: Apple releases StoreKit 2 alongside iOS 15, letting developers quickly access a user's purchase history, letting users request a refund in-app, and more — Refunds and subscription management — As part of this week's launch of iOS 15, iPadOS 15, and watchOS 8, Apple also introduced StoreKit 2 …
 
 
+***
+![EXCLUSIVE U.S. and EU look to work more closely in regulating Big Tech at summit](https://www.reuters.com/resizer/n-pBnyxufNGkcRSi7K692qLbU_o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P7IJJS7BZBORTOABBIOFOFQRAA.jpg "EXCLUSIVE U.S. and EU look to work more closely in regulating Big Tech at summit")
+
+
+[EXCLUSIVE U.S. and EU look to work more closely in regulating Big Tech at summit](https://www.reuters.com/technology/exclusive-us-eu-look-work-more-closely-regulating-big-tech-summit-2021-09-23/)
+
+
+> WASHINGTON, Sept 23 (Reuters) - The United States and European Union plan to take a more unified approach to limit the growing market power of Big Tech companies, according to a draft memo seen by Reuters.The move will be among announcements on tech, climate, trade and supply chains likely to be made at a U.S.-EU Trade & Technology Council meeting on Sept. 29 in Pittsburgh.With the U.S. and Europe trying to restrain the growing power of American tech giants such as Alphabet's Google (GOOGL.O), Facebook (FB.
+
+
+***
+![Buy now, pay later plans not shrinking credit card loans, says TransUnion](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "Buy now, pay later plans not shrinking credit card loans, says TransUnion")
+
+
+[Buy now, pay later plans not shrinking credit card loans, says TransUnion](https://www.reuters.com/article/fintech-embedded-finance-borrowers-idUSL1N2QJ32Z)
+
+
+> Sept 23 (Reuters) - Borrowers who apply for 'buy now, pay later' or other point-of-sale financing tend not to pay down their credit card debts as much as the general population, credit reporting company TransUnion said on Thursday.The conclusion, from a new study, indicates that credit card lenders might not have lost as much business as suspected during the pandemic to the rise of 'buy now, pay later' plans.'These new forms of financing are growing the credit pie, opening up more opportunities for both consumers and lenders,' said Liz Pagel, senior vice president of consumer lending at TransUnion.
+
+
+***
+![EU wants every phone to have same charger – including iPhone](https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/01/15/20/istock-860585066.jpg?width=1200&auto=webp&quality=75 "EU wants every phone to have same charger – including iPhone")
+
+
+[EU wants every phone to have same charger – including iPhone](https://www.independent.co.uk/life-style/gadgets-and-tech/eu-phone-charger-rule-iphone-b1925551.html)
+
+
+> The EU has proposed bringing the same charger to every phone – including Apple's iPhone.In a proposal that could substantially change the smartphone industry, the European Commission has said that USB-C would become the standard across devices.That includes not only phones but also tablets, cameras, headphones, portable speakers and handheld videogame consoles.It also suggests that the sale of phones and their charger should be separated, so that people do not end up with a host of chargers that they do not need and which become waste.
+
+
+***
+![Cybersecurity startup Sternum raises $27M to ‘immunize' IoT devices – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/ransomware-iot.jpg?w=594 "Cybersecurity startup Sternum raises $27M to ‘immunize' IoT devices – TechCrunch")
+
+
+[Cybersecurity startup Sternum raises $27M to ‘immunize' IoT devices – TechCrunch](https://techcrunch.com/2021/09/23/cybersecurity-startup-sternum-raises-27m-to-immunize-iot-devices/)
+
+
+> Sternum, a three-year-old IoT cybersecurity startup based in Tel Aviv, has secured $27 million in Series B funding, led by Spark Capital. Internet of Things devices are more popular than ever, yet cybersecurity remains a looming concern. The number of attacks on IoT devices more than doubled during the first six months of 2021, according to Kaspersky, and the security credentials of these devices — which often ship with easy-to-crack default passwords and insecure third-party components — is starting to attract the attention of governments.
+
+
+***
+![ABAN partners TechCabal on investment pitch session at the Future of Commerce](http://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2021/09/web-7-3.png "ABAN partners TechCabal on investment pitch session at the Future of Commerce")
+
+
+[ABAN partners TechCabal on investment pitch session at the Future of Commerce](http://techcabal.com/2021/09/23/aban-partners-techcabal-on-investment-pitch-session-at-the-future-of-commerce/)
+
+
+> TechCabal's Future of Commerce is a hybrid conference that will bring together startups, investors, banks, telecoms companies, FMCGs, policymakers, small businesses, tech enthusiasts, and everyday consumers to discuss their thoughts and predictions around all the changes coming to how we buy and sell on the continent.  The event, tagged the #FutureOfCommerce2021 will happen this Friday, the 24th of September, is a high-production event that will enable registered stakeholders to learn the shifts in the industry and customer behaviour, and how they can better prepare to take advantage of the rising tide whether as organizations or individuals.
+
+
