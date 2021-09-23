@@ -2016,3 +2016,50 @@
 > Mattis said he would have had a different view of the company if he had known some limitations of the Theranos blood testing device, including that it could only run about a dozen tests on its own system, could only process a certain type of blood test and was relying heavily on third party machines, as prosecutors have alleged.
 
 
+***
+![How Google is improving search in Gmail for Android](https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-04/cvtrac1504-seo.jpg "How Google is improving search in Gmail for Android")
+
+
+[How Google is improving search in Gmail for Android](https://www.malaymail.com/news/tech-gadgets/2021/09/23/how-google-is-improving-search-in-gmail-for-android/2007706)
+
+
+> Google is making it quicker and easier to filter email and search results in Gmail on Android mobile devices. — LDProd/ IStock.com pic via AFP SAN FRANCISCO, Sept 23 ― The Gmail application for Android is getting a new search filtering function, promising to make it quicker and easier to find old messages. iPhone users will have to wait a little longer to benefit from the improvement. Google is making it quicker and easier for Gmail users to filter email and search results to help them find what they're looking for.
+
+
+***
+[Epic CEO: Apple won't let Fortnite back until case ends](https://www.mymotherlode.com/news/technology/1984361/epic-ceo-apple-wont-let-fortnite-back-until-case-ends.html)
+
+
+> Tim Sweeney, CEO of Fortnite maker Epic, said Wednesday it's been told by Apple that the game will be 'blacklisted from the Apple ecosystem" until the companies' legal case is resolved and all appeals are exhausted, which could take as long as five years
+
+
+***
+![‘iPhone Storage Almost Full' bug plaguing users who update to iOS 15](https://bgr.com/wp-content/uploads/2021/09/Apple_iOS15-avail_hero_09202021.jpg?quality=70&strip=all "‘iPhone Storage Almost Full' bug plaguing users who update to iOS 15")
+
+
+[‘iPhone Storage Almost Full' bug plaguing users who update to iOS 15](https://bgr.com/tech/iphone-storage-almost-full-bug-plaguing-users-who-update-to-ios-15/)
+
+
+> Apple rolled out iOS 15 and iPadOS 15 on Monday, bringing a number of new features and changes to iPhone and iPad. Most people seem to be pleased with the additions, but the update also introduced a strange new bug. A number of iPhone and iPad owners claim that their devices are warning them that their storage is almost full, even if it isn't. If the bug is affecting your device, you'll see the notification at the top of the Settings app. This appears to be the first notable iOS 15 bug. Today's Top Deal Amazon just kicked off a massive new sale — see all the best deals right here! Price:See Today's Deals! Buy Now Available from Amazon, BGR may receive a commission Available from Amazon BGR may receive a commission ‘iPhone Storage Almost Full' bug found in iOS 15 It is unclear how widespread the iOS 15 bug is, but iPhone and iPad users have been taking to Twitter to complain.
+
+
+***
+![Rashida Jones and David Oyelowo join the Apple TV+ drama 'Wool'](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/rashida-jones-david-oyelowo-wool.jpg "Rashida Jones and David Oyelowo join the Apple TV+ drama 'Wool'")
+
+
+[Rashida Jones and David Oyelowo join the Apple TV+ drama 'Wool'](https://www.imore.com/rashida-jones-david-oyelowo-join-apple-tv-drama-wool)
+
+
+> We may earn a commission for purchases using our links. Learn more. Two new Two more big names have signed on to the dystopian drama series. 22 Sep 2021 Source: Sam Jones / Austin Hargrave Rashida Jones and David Oyelowo have signed on to star in "Wool." They will join Tim Robbins and Rebecca Ferguson. Rashida Jones and David Oyelowo have signed on to the Apple TV+ dystopian drama "Wool." As reported by Deadline, Oyelowo will play a sheriff and Jones his wife. Rashida Jones and David Oyelowo are the latest big names to join Wool, the series adaptation of Hugh Howey's dystopian novels for Apple TV+.
+
+
+***
+![Facebook tech chief, Zuckerberg's close friend Mike Schroepfer to step down in 2022](https://images.livemint.com/img/2021/09/23/600x338/FACEBOOK-ADVERTISING-0_1632355439632_1632355464111.JPG "Facebook tech chief, Zuckerberg's close friend Mike Schroepfer to step down in 2022")
+
+
+[Facebook tech chief, Zuckerberg's close friend Mike Schroepfer to step down in 2022](https://www.livemint.com/technology/tech-news/facebook-tech-chief-zuckerberg-s-close-friend-mike-schroepfer-to-step-down-in-2022-11632354516580.html)
+
+
+> Facebook's Chief Technology Officer Mike Schroepfer is stepping down from the social media company, taking on a part-time role while longtime executive Andrew Bosworth will replace him next year. Schroepfer, known as 'Schrep," has been at Facebook for 13 years and is a close friend of CEO Mark Zuckerberg. He called his decision difficult 'because of how much I love Facebook and how excited I am about the future we are building together" but added that his new role will let him focus on personal and philanthropic efforts while staying connected to Facebook.
+
+
