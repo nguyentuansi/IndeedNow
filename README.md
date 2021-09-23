@@ -2203,3 +2203,50 @@
 > The Beoplay EQ are Bang & Olufsen's first true wireless earbuds with adaptive active noise cancellation (ANC) and despite their eye-popping price tag, they deliver on most critical fronts.Everything about them screams premium. From their sleek looks to gorgeously detailed audio and compact carrying case. The buds themselves are a bit on the chunky side, but once settled in they sit comfy and snug without cramping your ears. Touch controls on the outside of the buds let you toggle through ANC modes, playback, volume and call answer/reject.
 
 
+***
+[Microsoft brings in new Surface laptop Studio; Design, specifications and more](http://www.pinkvilla.com/tech/news/microsoft-brings-in-new-surface-laptop-studio-design-specifications-and-more-901860)
+
+
+> Attach Main technology Image: Image Caption: Microsoft brings in new Surface laptop Studio; Design, specifications and more Social Media Image : Enter the Technology details: Microsoft announced the launch of a set of new Surface devices that comes with a 2 in 1 design. The company is going to release a new Surface Laptop Studio and alongside it has released noteable updates for the previous variants of the surface series as well. The new Surface Laptops can be used as a laptop but if required it can transform into a tablet like device.
+
+
+***
+![Supercharge VS Code with 32 JavaScript Refactorings](https://external-preview.redd.it/u9H7bgspPrZ-50um_IXf5YztLJTlTZ79D2Y5yttiYT8.jpg?auto=webp&s=181e1e015ddb45384e1cdb9c77f2e9b308fbcb01 "Supercharge VS Code with 32 JavaScript Refactorings")
+
+
+[Supercharge VS Code with 32 JavaScript Refactorings](https://www.reddit.com/r/programming/comments/ptqd0s/supercharge_vs_code_with_32_javascript/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Throw away Chinese phones, Lithuania tells citizens after finding evidence of in-built censorship tools](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/xiaomi_censorship_23092021-original.jpeg "Throw away Chinese phones, Lithuania tells citizens after finding evidence of in-built censorship tools")
+
+
+[Throw away Chinese phones, Lithuania tells citizens after finding evidence of in-built censorship tools](https://www.indiatoday.in/technology/news/story/throw-away-chinese-phones-lithuania-tells-citizens-after-finding-evidence-of-in-built-censorship-tools-1856172-2021-09-23)
+
+
+> Story highlights Lithuania recommends people against buying Chinese phones. It urged existing users to "get rid" of the phones as soon as possible. Data security and censorship issues were found with Xiaomi and Huawei phones. As a warning to all countries with phones made by Chinese companies, Lithuania's Defence Ministry has urged people to avoid buying "made in China" smartphones. In particular, the country highlights two companies: Xiaomi and Huawei and recommends that people throw away Xiaomi and other Chinese smartphones they are currently using.
+
+
+***
+![Czech online grocer Rohlik to invest 400 mln euros in automation](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53 "Czech online grocer Rohlik to invest 400 mln euros in automation")
+
+
+[Czech online grocer Rohlik to invest 400 mln euros in automation](https://www.reuters.com/technology/czech-online-grocer-rohlik-invest-400-mln-euros-automation-2021-09-23/)
+
+
+> PRAGUE, Sept 23 (Reuters) - Czech online grocery delivery startup Rohlik Group said on Thursday it will invest 400 million euros ($469.32 million) in warehouse automation by the end of 2025 to boost efficiency and capacity.The company, seeking to become Europe's biggest online grocery delivery service, said in a statement it would invest 45 million euros in an initial phase, with further investments coming 2022-2025.Rohlik is installing a storage-bin system with integrated robot retrieval and order-picking work stations.
+
+
+***
+![For those of you who would like to create Malware using python, check this link out... Have a Great day.](https://external-preview.redd.it/DU9EMZuvEbQqUpmiQ-KWhGRSxH9ms-tLGKYD9x_Y9Us.jpg?auto=webp&s=cc1d021bba2e225a009aaf82e8065cb3cd1cfdb0 "For those of you who would like to create Malware using python, check this link out... Have a Great day.")
+
+
+[For those of you who would like to create Malware using python, check this link out... Have a Great day.](https://www.reddit.com/r/Python/comments/ptq9bx/for_those_of_you_who_would_like_to_create_malware/)
+
+
+> no comments yetBe the first to share what you think!
+
+
