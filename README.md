@@ -2441,3 +2441,53 @@
 > Figures show Scotland's digital sector is booming, with tech roles increasing by over 25% in Edinburgh and Glasgow.
 
 
+***
+![iPhone 13 Pro Max launch LIVE – Apple's most expensive EVER mobile finally released for customers all around the world](https://www.the-sun.com/wp-content/uploads/sites/6/2021/09/Copy-of-Energy-crisis-teaser.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "iPhone 13 Pro Max launch LIVE – Apple's most expensive EVER mobile finally released for customers all around the world")
+
+
+[iPhone 13 Pro Max launch LIVE – Apple's most expensive EVER mobile finally released for customers all around the world](https://www.the-sun.com/tech/3719682/iphone-13-pro-max-launch-live-uk-apple-release/)
+
+
+> PHONE IT IN THE iPhone 13 Pro Max will be going on sale around the world over the coming hours. Apple's most expensive ever mobile - described by The Sun as mind-blowing - will hit shops around the world over the coming 24 hours. The first customers will be picking up their iPhone 13 Pro Max in Sydney around 7am local time (10pm tonight UK time), before it goes on sale in Asia and the Middle East. UK fans will no doubt be queuing overnight for the chance to be among the first through the doors to bag the gadget when it goes on sale here at 7am.
+
+
+***
+![Google's newest Android updates bring accessibility changes and emoji updates](https://icdn.digitaltrends.com/image/digitaltrends/google-photos-1-4.jpg "Google's newest Android updates bring accessibility changes and emoji updates")
+
+
+[Google's newest Android updates bring accessibility changes and emoji updates](https://www.digitaltrends.com/mobile/google-new-android-features-update/)
+
+
+> Google today announced a slew of updates coming to Android this fall. Rolling out starting today, the changes update various facets of Android devices, ranging from accessibility to using your phone when mobile to just plain entertainment. The major features here for accessibility are Camera Switches and Project Activate. Camera Switches is an Android feature that lets you control your phone with facial expressions by using your front-facing camera as an input method. It first debuted as part of the Android 12 beta, but Google is rolling it out to older Android phones as well this week.
+
+
+***
+![Strike Launches Its API Platform for Businesses and Partners With Twitter to Power Instant Global Payments Using Bitcoin](https://mms.businesswire.com/media/20210923005851/en/909410/23/strike_logo_black.jpg "Strike Launches Its API Platform for Businesses and Partners With Twitter to Power Instant Global Payments Using Bitcoin")
+
+
+[Strike Launches Its API Platform for Businesses and Partners With Twitter to Power Instant Global Payments Using Bitcoin](https://www.businesswire.com/news/home/20210923005851/en/Strike-Launches-Its-API-Platform-for-Businesses-and-Partners-With-Twitter-to-Power-Instant-Global-Payments-Using-Bitcoin)
+
+
+> September 23, 2021 01:57 PM Eastern Daylight Time CHICAGO--(BUSINESS WIRE)--Strike, the world's leading digital wallet built on Bitcoin's Lightning Network, announced today the launch of its Strike API platform to serve marketplace and merchant businesses. Twitter will leverage Strike's API to allow Twitter users to seamlessly tip with Bitcoin from anywhere in the world with any Bitcoin Lightning wallet and give U.S. and El Salvador users the ability to receive tips into their Strike account. Twitter Staff Product Manager Esther Crawford announced the global launch of Tips and the ability to tip with Bitcoin using Strike in a Twitter blog post today.
+
+
+***
+![ERI's John Shegerian Describes the Dangers of Hardware Hacking and the 'Insecurity of Everything' on Security Ledger Podcast](http://www.businesswire.com/images/bwlogo_square.png "ERI's John Shegerian Describes the Dangers of Hardware Hacking and the 'Insecurity of Everything' on Security Ledger Podcast")
+
+
+[ERI's John Shegerian Describes the Dangers of Hardware Hacking and the 'Insecurity of Everything' on Security Ledger Podcast](https://www.businesswire.com/news/home/20210923005852/en/ERI%E2%80%99s-John-Shegerian-Describes-the-Dangers-of-Hardware-Hacking-and-the-%E2%80%9CInsecurity-of-Everything%E2%80%9D-on-Security-Ledger-Podcast)
+
+
+> FRESNO, Calif.--(BUSINESS WIRE)--John Shegerian, Chairman/CEO of ERI, the nation's leading fully integrated IT and electronics asset disposition provider and cybersecurity-focused hardware destruction company, is a featured guest on the current episode of the 'Security Ledger' podcast. The show, hosted by Paul F. Roberts, the founder and Editor in Chief of The Security Ledger, an independent security news and analysis publication that explores the intersection of cyber security with the Internet of Things, features interviews with leading minds in the area of cyber security, threats and attacks.
+
+
+***
+![Automatic Merchandiser Names Cantaloupe Inc.'s Elyssa Steiner, Michael Johnson and Maxwell Elliott to Its Debut '40 Under 40' List](https://mms.businesswire.com/media/20210923005850/en/1092778/23/cantaloupe_vertical_2c_%281%29.jpg "Automatic Merchandiser Names Cantaloupe Inc.'s Elyssa Steiner, Michael Johnson and Maxwell Elliott to Its Debut '40 Under 40' List")
+
+
+[Automatic Merchandiser Names Cantaloupe Inc.'s Elyssa Steiner, Michael Johnson and Maxwell Elliott to Its Debut '40 Under 40' List](https://www.businesswire.com/news/home/20210923005850/en/Automatic-Merchandiser-Names-Cantaloupe-Inc.%E2%80%99s-Elyssa-Steiner-Michael-Johnson-and-Maxwell-Elliott-to-Its-Debut-%E2%80%9C40-Under-40%E2%80%9D-List)
+
+
+> MALVERN, Pa.--(BUSINESS WIRE)--Cantaloupe Inc., (Nasdaq: CTLP) ('Cantaloupe' or the 'Company'), a digital payments and software services company that provides end-to-end technology solutions for the unattended retail market, today announced that Elyssa Steiner, Michael Johnson and Maxwell Elliott have all been named to Automatic Merchandiser's 40 Under 40 award list. The Class of 2021 is the Award program's inaugural year. The list recognizes individuals who are redefining the industry. 'The 40 Under 40 Class of 2021 are key industry influencers to watch,' said Automatic Merchandiser editor, Nick Montano.
+
+
