@@ -2103,3 +2103,53 @@
 > A protocol used by Microsoft Exchange, the popular email server software used by both individuals and businesses, has been found to be leaking credentials of users who attempt to authenticate from clients like Microsoft Outlook due to a defect in its design. Research released by security outfit Guardicore on Wednesday US time, said the flaw, in an implementation of the Autodiscover protocol based on the POX XML protocol, would leak Web requests to Autodiscover domains outside a user's domain, but within the same top-level domain.
 
 
+***
+![Apple bans Fortnite until appeals are exhausted in lawsuit](https://images.indianexpress.com/2021/09/Fornite_Apple_1.jpeg "Apple bans Fortnite until appeals are exhausted in lawsuit")
+
+
+[Apple bans Fortnite until appeals are exhausted in lawsuit](https://indianexpress.com/article/technology/tech-news-technology/apple-bans-fortnite-until-appeals-are-exhausted-in-lawsuit-7528678/)
+
+
+> Apple Inc plans to keep Fortnite off of its App Store until appeals are exhausted in its legal fight with Epic Games Inc, the maker of the popular battle-royale game. Apple sent a letter to Epic Tuesday saying that it 'will not consider any further requests for reinstatement until the district court's judgment becomes final and nonappealable.' The letter, sent to Epic's lawyers from a firm representing Apple, was published on Twitter by Epic Chief Executive Officer Tim Sweeney. That process could take five years, he said.
+
+
+***
+![Facebook's technology head Mike Schroepfer to step down](https://images.indianexpress.com/2021/09/mike.jpg "Facebook's technology head Mike Schroepfer to step down")
+
+
+[Facebook's technology head Mike Schroepfer to step down](https://indianexpress.com/article/technology/tech-news-technology/facebooks-technology-head-mike-schroepfer-to-step-down-7528695/)
+
+
+> Longtime Facebook executive Mike Schroepfer said on Wednesday that he was stepping down as the company's chief technology officer. Schroepfer said in a Facebook post that veteran leader Andrew Bosworth, who heads up the social media company's augmented reality and virtual reality efforts, including products like its Oculus Quest VR headset, will take over the role in 2022. Schroepfer, who is known as 'Schrep' and spent 13 years at Facebook, said he would transition to a part-time role as the company's first Senior Fellow sometime next year.
+
+
+***
+![WhatsApp working on feature to reward users in India with cashback for using WhatsApp Payments](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/screenshot_2020-03-16_at_12.11_0_1200x768-original.png "WhatsApp working on feature to reward users in India with cashback for using WhatsApp Payments")
+
+
+[WhatsApp working on feature to reward users in India with cashback for using WhatsApp Payments](https://www.indiatoday.in/technology/news/story/whatsapp-working-on-feature-to-reward-users-in-india-with-cashback-for-using-whatsapp-payments-1856038-2021-09-23)
+
+
+> Ankita Chakravarti New Delhi, Sep 23, 2021, Updated Sep 23, 2021, 9:19 AM IST Story highlights WhatsApp to soon start rewarding users with cashback for using the Payments feature. WhatsApp is reportedly testing the feature for users in India. The feature is currently under development now so the beta users may not be able to test it right away. WhatsApp to soon start rewarding users with cashback for using the Payments feature. The messaging app had rolled out the Payments feature in India and Brazil first, and it is now testing the feature to reward the users in India.
+
+
+***
+![Nokia G50 with Snapdragon 480 SoC and 48-megapixel cameras launched, check price and specifications](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/nokia_g50_launch_23092021-original.png "Nokia G50 with Snapdragon 480 SoC and 48-megapixel cameras launched, check price and specifications")
+
+
+[Nokia G50 with Snapdragon 480 SoC and 48-megapixel cameras launched, check price and specifications](https://www.indiatoday.in/technology/news/story/nokia-g50-with-snapdragon-480-soc-and-48-megapixel-cameras-launched-check-price-and-specifications-1856036-2021-09-23)
+
+
+> Shubham Verma New Delhi, Sep 23, 2021, Updated Sep 23, 2021, 9:15 AM IST Story highlights Nokia G50 has arrived in the UK with a Snapdragon 480 chipset. HMD's new Nokia phone comes with a 48-megapixel triple camera setup. HMD has an event scheduled for October 6 and it launched the Nokia G50 already. HMD has launched its new smartphone earlier than expected. The Nokia Mobile caretaker has announced the launch of the Nokia G50 smartphone days ahead of the event scheduled for October 6. This is the first 5G phone in the G-series that HMD introduced earlier this year with two phones - G20 and G10.
+
+
+***
+![#TECH: Vivo unveils new X70 phone and wireless earphones](https://assets.nst.com.my/images/articles/botsvivosm_NSTfield_image_socialmedia.var_1632367859.jpg "#TECH: Vivo unveils new X70 phone and wireless earphones")
+
+
+[#TECH: Vivo unveils new X70 phone and wireless earphones](https://www.nst.com.my/lifestyle/bots/2021/09/729923/tech-vivo-unveils-new-x70-phone-and-wireless-earphones)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
