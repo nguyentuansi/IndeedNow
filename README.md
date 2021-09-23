@@ -2347,3 +2347,50 @@
 > TechCabal's Future of Commerce is a hybrid conference that will bring together startups, investors, banks, telecoms companies, FMCGs, policymakers, small businesses, tech enthusiasts, and everyday consumers to discuss their thoughts and predictions around all the changes coming to how we buy and sell on the continent.  The event, tagged the #FutureOfCommerce2021 will happen this Friday, the 24th of September, is a high-production event that will enable registered stakeholders to learn the shifts in the industry and customer behaviour, and how they can better prepare to take advantage of the rising tide whether as organizations or individuals.
 
 
+***
+![Jabra Elite 3 vs. Creative Outlier Air V3: Who's the real outlier here?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/jabra-elite-3-creative-outlier-air-v3-1.jpg "Jabra Elite 3 vs. Creative Outlier Air V3: Who's the real outlier here?")
+
+
+[Jabra Elite 3 vs. Creative Outlier Air V3: Who's the real outlier here?](https://www.androidcentral.com/jabra-elite-3-vs-creative-outlier-air-v3)
+
+
+> Jabra made a name for itself by making quality earbuds for years, and the Elite 3 are an affordable pair influenced by the premium ones the company continues to produce. You have to accept not getting all the bells and whistles, but at least you can trust the quality you get out of them every time. $80 at Amazon Good sound quality Solid bass with crisp highs Lightweight build and comfy fit Decent durability OK battery life Nice colors No noise cancelation No access to Sound+ EQ Creative often delivers more for every buck spent, and the Outlier V3 are among the best earbuds in their price range.
+
+
+***
+![ClearCare Is Now WellSky® Personal Care](https://mms.businesswire.com/media/20210923005053/en/908884/23/WellSky_Aligned_Color_CMYK_webready.jpg "ClearCare Is Now WellSky® Personal Care")
+
+
+[ClearCare Is Now WellSky® Personal Care](https://www.businesswire.com/news/home/20210923005053/en/ClearCare-Is-Now-WellSky%C2%AE-Personal-Care)
+
+
+> September 23, 2021 10:00 AM Eastern Daylight Time OVERLAND PARK, Kan.--(BUSINESS WIRE)--WellSky, a leading health and community care technology company, today announced that ClearCare, a technology platform for non-medical home-based care, has rebranded to WellSky Personal Care. WellSky acquired ClearCare in 2019 as part of its commitment to enabling coordinated care across the acute, post-acute, and community care continuum. Under WellSky, the company has accelerated the pace of innovation to provide new core platform features and extended the solution to payers, hospitals, and other providers.
+
+
+***
+[I created an app that can replace social media addiction with a healthy habit of learning content ( programming and otherwise) in the form of effortless micro-content of a 30-second read. Now need your help and contribution to creating content.](https://www.reddit.com/r/programming/comments/ptvuxw/i_created_an_app_that_can_replace_social_media/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Xiaomi Civi Design Revealed, Will Come With Triple Rear Cameras](https://i.gadgets360cdn.com/large/xiaomi_civi_xiaomi_weibo_1632404723333.jpg "Xiaomi Civi Design Revealed, Will Come With Triple Rear Cameras")
+
+
+[Xiaomi Civi Design Revealed, Will Come With Triple Rear Cameras](https://gadgets.ndtv.com/mobiles/news/xiaomi-civi-series-design-specifications-teaser-triple-rear-cameras-curved-displpay-glass-back-no-charger-2551262)
+
+
+> Xiaomi Civi, the new smartphone series from the Chinese smartphone maker will debut on September 27 in China. The Xiaomi CC series that was launched in the company's home market in 2019 is expected to be rebranded with some upgrades as Xiaomi Civi. Ahead of the launch, Xiaomi has shared a video and posters on Weibo, revealing the design of the phone. The video and posters give a glimpse of the curved display, anti-glare glass back, and slim form factor of the Xiaomi Civi series. Xiaomi has not yet provided any details on the Civi's specifications but an image of the retail box of the smartphone has now appeared online, hinting that the new phone may not come bundled with a charger.
+
+
+***
+![Adaptability should prompt a digital healthcheck for SMBs](https://cdn.mos.cms.futurecdn.net/UXN6EF9KaYgWQTQVmo9br3-1200-80.jpg "Adaptability should prompt a digital healthcheck for SMBs")
+
+
+[Adaptability should prompt a digital healthcheck for SMBs](https://www.techradar.com/news/adaptability-should-prompt-a-digital-healthcheck-for-smbs)
+
+
+> (Image credit: Shutterstock) Business adaptability has never been more important than right now. The pandemic has been a watershed moment with 79% of British SMEs - which make up over 99% of the business population - having to adapt since the start of the pandemic, according to a recent survey by Sky Connect.The root of much of this change has of course been the rapid digitalization experienced during the pandemic. Many small businesses branched into ecommerce for the very first time, while others had to accelerate their digital initiatives to keep pace with changing buyer behavior.
+
+
