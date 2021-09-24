@@ -2738,3 +2738,44 @@
 > Bitcoin and several other cryptocurrencies are showing strong signs of recovery following the Monday flash crash, which wiped out nearly $200 million from the crypto market. While bitcoin's value has not recovered to its pre-Monday levels of $47,000 yet, its price rose above $44,000 on Thursday, and has since stabilised.Its price is up by about 2 per cent in the last 24 hours compared to its surge by about 4 per cent in the day earlier.Ethereum (ether), Solana (SOL), and dogecoin are also showing signs of stabilising after a phase of recovery.
 
 
+***
+[Tech Recruiting Platform Market to See Massive Growth by 2026](https://www.openpr.com/news/2405256/tech-recruiting-platform-market-to-see-massive-growth-by-2026)
+
+
+> Latest Report Available at Advance Market Analytics,' Tech Recruiting Platform Market' provides pin-point analysis for changing competitive dynamics and a forward looking perspective on different factors driving or restraining industry growth. The global Tech Recruiting Platform market focuses on encompassing major
+
+
+***
+![Realme Narzo 50 Series Launching In India Today Alongside Realme Band 2, Realme Smart TV Neo 32-inch: How To Watch The Livestream](https://images.moneycontrol.com/static-mcnews/2021/09/narzo-50A-770x433.jpg "Realme Narzo 50 Series Launching In India Today Alongside Realme Band 2, Realme Smart TV Neo 32-inch: How To Watch The Livestream")
+
+
+[Realme Narzo 50 Series Launching In India Today Alongside Realme Band 2, Realme Smart TV Neo 32-inch: How To Watch The Livestream](https://www.moneycontrol.com/news/technology/realme-narzo-50-series-launching-in-india-today-alongside-realme-band-2-realme-smart-tv-neo-32-inch-how-to-watch-the-livestream-7502501.html)
+
+
+> Realme is gearing up to launch the Narzo 50 series later today alongside a new smart TV and smart band. The devices in question arriving today include the Realme Narzo 50A, Narzo 50i, Realme Band 2, and Realme Smart TV Neo 32-inch.The launch event will take place virtually at 12:30 pm (IST) and will be streamed through the company's social media platforms – YouTube and Facebook.The much-awaited moment is here!Get ready, the #realmeNarzo50series is launching today at 12:30 PM to show the world what #MightyPerformanceInside actually feels like.
+
+
+***
+![Cell-Based Pro-Drug Strategy for Pancreatic Cancer](https://external-preview.redd.it/THk9EWEzEdnW1NxjQL5dBnmR7tkwKUxnsR4802Kbj3g.jpg?auto=webp&s=dd7d40473d4c12e7b7f8e3a985130b8df181b0c5 "Cell-Based Pro-Drug Strategy for Pancreatic Cancer")
+
+
+[Cell-Based Pro-Drug Strategy for Pancreatic Cancer](https://www.reddit.com/r/technology/comments/pudlso/cellbased_prodrug_strategy_for_pancreatic_cancer/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[Twitter Rolls Out Bitcoin Tipping, Super Follows and More](https://www.thequint.com/tech-and-auto/twitter-rolls-out-bitcoin-tipping-super-follows-and-more)
+
+
+> Here's everything Twitter announced at a press briefing with our global product leads.
+
+
+***
+[From Zero to Hero in Game Design: Beginner's Guide](https://www.reddit.com/r/programming/comments/pudg73/from_zero_to_hero_in_game_design_beginners_guide/)
+
+
+> no comments yetBe the first to share what you think!
+
+
