@@ -2638,3 +2638,53 @@
 > New York City lawmakers passed a set of bills aimed at improving working conditions and pay for app-based workers, becoming one of the first cities in the U.S. to significantly regulate the food delivery industry dominated by DoorDash Inc., Grubhub and Uber Technologies Inc.The sweeping measures would require restaurants to grant couriers access to bathrooms, establish a minimum per-trip payment and a guarantee that couriers receive full tips, and allow the workers to set limits on their routes. The apps will also be required to pay couriers at least once a week and offer payment options that don't require a bank account; they will be prohibited from charging fees to workers to receive earnings.
 
 
+***
+![macOS Monterey beta may have revealed M1X MacBook Pro displays](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/16-inch-m1x-macbook-pro-concept.jpg "macOS Monterey beta may have revealed M1X MacBook Pro displays")
+
+
+[macOS Monterey beta may have revealed M1X MacBook Pro displays](https://www.imore.com/macos-monterey-beta-may-have-revealed-m1x-macbook-pro-displays)
+
+
+> Source: Antonio De Rosa The latest macOS Monterey beta may have leaked the displays for Apple's upcoming M1X MacBook Pros. Spotted by Steve Moser and reported by MacRumors, the latest macOS Monterey beta features two new display resolutions that are currently not featured on any in-production Mac. The two new resolutions could point to the 14-inch and 16-inch MacBook Pro models that are anticipated this fall. As discovered by MacRumors contributor Steve Moser, the two new display resolutions are listed as "3456 x 2234 Retina" and "3024 x 1964 Retina" and do not correspond to resolutions of the built-in displays on any current or previous Apple products.
+
+
+***
+![The best QWERTY phones for 2021](https://icdn.digitaltrends.com/image/digitaltrends/blackberry-key2-typing.jpg "The best QWERTY phones for 2021")
+
+
+[The best QWERTY phones for 2021](https://www.digitaltrends.com/mobile/best-qwerty-phones/)
+
+
+> The latest smartphones are sleek, beautiful masterpieces with nary a bezel between your hand and the phone. They're slim, minimalist, and stylish, but there's no denying the fact that a lot of us miss a time when typing on a phone didn't mean mashing your fingers against glass. Yes, we're talking about phones with a QWERTY keyboard. In the age of the iPhone 12 Pro Max and Samsung Galaxy Z Fold 3, it's a lot harder to find a QWERTY phone, as the market for them has slowly but steadily dried up. Thankfully, there are still a few to be found if you know where to look.
+
+
+***
+![California university taps Mr. Rogers to remind students of COVID protocols](https://www.cnet.com/a/img/J8e_Z2EFoO2ji6WPwoVnwczgv-8=/1200x630/2021/09/24/25d82e56-70d5-40f1-8896-b0080d8da857/uc-riverside-rogers-message.jpg "California university taps Mr. Rogers to remind students of COVID protocols")
+
+
+[California university taps Mr. Rogers to remind students of COVID protocols](https://www.cnet.com/tech/services-and-software/california-university-taps-mr-rogers-to-remind-students-of-covid-protocols/)
+
+
+> For the most up-to-date news and information about the coronavirus pandemic, visit the WHO and CDC websites. Students at a California university were welcomed back to school this week by Mr. Rogers explaining some new school rules. Well, not really Mr. Rogers, but rather the university's chancellor, mimicking the beloved preschool TV show host to remind students of the COVID protocols in place on campus.In a video posted this week to YouTube, University of California Riverside Chancellor Kim Wilcox is seen entering a room while singing Rogers' familiar welcome song Won't You Be My Neighbor.
+
+
+***
+![iPhone 13 Series to Go on Sale in India and Around the World Today](https://i.gadgets360cdn.com/large/iphone_13_pro_max_mini_image_youtube_apple_1632404567154.jpg "iPhone 13 Series to Go on Sale in India and Around the World Today")
+
+
+[iPhone 13 Series to Go on Sale in India and Around the World Today](https://gadgets.ndtv.com/mobiles/news/iphone-13-pro-max-mini-sale-in-india-offers-discounts-cashback-exchange-price-specifications-apple-2551254)
+
+
+> iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, and the iPhone 13 mini are set to go on sale in India today. Sales of the new iPhone models will begin as early as 8am IST at various retail stores in the country. The Apple Store Online and major e-commerce sites in India will also start selling the iPhone 13 series. In addition to India, the iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, and the iPhone 13 mini will be available for purchase in countries including Australia, Canada, China, Germany, Japan, the UK, the US, and more than 30 other countries and regions across the globe.
+
+
+***
+![Walmart PS5, Halo Xbox Series X console restock tonight right now – get it fast](https://cdn.mos.cms.futurecdn.net/ESBmELznTawWk8PnBuKNfQ-1200-80.jpg "Walmart PS5, Halo Xbox Series X console restock tonight right now – get it fast")
+
+
+[Walmart PS5, Halo Xbox Series X console restock tonight right now – get it fast](https://www.techradar.com/news/walmart-ps5-halo-finite-xbox-series-x-restock-today)
+
+
+> (Image credit: Future) Walmart PS5 and Halo Xbox restock time update: If you're wondering about the Walmart restock time, follow our PS5 and Xbox restock tracker Matt Swider, as he'll send you an alert as soon as the consoles are in stock in the US – if you follow his Twitter account and turn on notifications. The Walmart PS5, Xbox Series X and Halo Infinite-themed Xbox Series X will restock today, but it got delayed from this afternoon to tonight at 9pm EDT / 6pm PDT, according to Walmart official who have contacted TechRadar.
+
+
