@@ -3063,3 +3063,53 @@
 > This year has been one of the busiest yet in terms of new commercial launch companies coming online, with companies like Astra and Firefly Aerospace actually getting rockets up and running (if not flying ad designed quite yet), and with landmark human spaceflight missions from Blue Origin, Virgin Galactic and SpaceX. And with more constellations in operation, built out of satellites equipped with sensors capable of providing new and more detailed data for commercial use back on Earth, the timing is right for startups everywhere to leverage a new data gold rush to build businesses based on in-space resources that just weren't available before.
 
 
+***
+![A bunch of sports fans are about to put their personal data at risk this weekend](https://cdn.mos.cms.futurecdn.net/ioLGTc3JLTqsXY3SazWz3g-1200-80.jpg "A bunch of sports fans are about to put their personal data at risk this weekend")
+
+
+[A bunch of sports fans are about to put their personal data at risk this weekend](https://www.techradar.com/news/a-bunch-of-sports-fans-are-about-to-put-their-personal-data-at-risk-this-weekend)
+
+
+> (Image credit: Shutterstock / gonin) Being an avid sports fan can be expensive especially if you're following multiple leagues which is why many users have turned to illegal streaming to help cut costs. However, a new campaign from the anti-piracy organization FACT has shed light on just how dangerous illegal streaming can be.To put together its new campaign, FACT worked together with former Premier League footballer Jimmy Bullard and cybersecurity expert Jamie Woodruff to highlight the dangers of illegal streaming.
+
+
+***
+![Consolidated Communications Announces Definitive Agreement to Sell its Ohio Assets](https://mms.businesswire.com/media/20210924005515/en/1012713/23/CCI%2520logo_rgb_hr.jpg "Consolidated Communications Announces Definitive Agreement to Sell its Ohio Assets")
+
+
+[Consolidated Communications Announces Definitive Agreement to Sell its Ohio Assets](https://www.businesswire.com/news/home/20210924005515/en/Consolidated-Communications-Announces-Definitive-Agreement-to-Sell-its-Ohio-Assets)
+
+
+> September 24, 2021 04:00 PM Eastern Daylight Time MATTOON, Ill.--(BUSINESS WIRE)--Consolidated Communications Holdings, Inc. (NASDAQ: CNSL) ('Company') has entered into an agreement to sell its Ohio assets to Middle Point Home Telephone Company (MPH), an affiliate of Hanson Communications, Inc. The asset sale aligns with the Company's strategic asset review and focus on its core broadband regions. Consolidated's Ohio operations contributed approximately $9 million of revenue in fiscal 2020 and includes approximately 4,000 access lines and 3,900 Internet connections.
+
+
+***
+![How bad are the microtransactions in Pokémon Unite?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/07/pokemon-unite-license-shop.jpg "How bad are the microtransactions in Pokémon Unite?")
+
+
+[How bad are the microtransactions in Pokémon Unite?](https://www.imore.com/pokemon-unite-microtransaction-guide)
+
+
+> Source: iMore The latest Pokémon game to hit the Nintendo Switch is Pokémon Unite, a free-to-play multiplayer game that reimagines Pokémon as a multiplayer online battle arena, or MOBA, for short. Like many free-to-play games, Pokémon Unite has in-app purchases and uses various currencies, some of which can be unlocked just by playing the game, while others must be purchased with real money. But how bad are the microtransactions, and is Pokémon Unite pay to win? Let's take a closer look at what Pokémon Unite has to offer with our Pokémon Unite microtransaction guide.
+
+
+***
+![Van Life 2.0: Dutch students' road trip in solar mobile home](https://www.clickondetroit.com/resizer/BGM-GTNCe50EpuGRZjLsH2v1D6c=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/TNJBYBHHOVELZMWWUZAUCJKVIY.jpg "Van Life 2.0: Dutch students' road trip in solar mobile home")
+
+
+[Van Life 2.0: Dutch students' road trip in solar mobile home](https://www.clickondetroit.com/tech/2021/09/24/van-life-20-dutch-students-road-trip-in-solar-mobile-home/)
+
+
+> THE HAGUE – A group of Dutch students has reimagined van life and is hitting the road to Portugal. Just don't call their groundbreaking new solar-powered vehicle a campervan.'We call it a self-sustaining house on wheels," said Lotte van Dasler, part of a team from the Technical University in the southern Dutch city of Eindhoven. "We are independent in terms of our energy. A camper isn't, and we are. So I think that we make something new. New concept, new idea and new future — sustainable future.'The sleek, odd-looking mobile home took a test drive Friday at a Renault facility outside Paris.
+
+
+***
+![Van Life 2.0: Dutch students' road trip in solar mobile home](https://www.clickorlando.com/resizer/BGM-GTNCe50EpuGRZjLsH2v1D6c=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/TNJBYBHHOVELZMWWUZAUCJKVIY.jpg "Van Life 2.0: Dutch students' road trip in solar mobile home")
+
+
+[Van Life 2.0: Dutch students' road trip in solar mobile home](https://www.clickorlando.com/tech/2021/09/24/van-life-20-dutch-students-road-trip-in-solar-mobile-home/)
+
+
+> THE HAGUE – A group of Dutch students has reimagined van life and is hitting the road to Portugal. Just don't call their groundbreaking new solar-powered vehicle a campervan.'We call it a self-sustaining house on wheels," said Lotte van Dasler, part of a team from the Technical University in the southern Dutch city of Eindhoven. "We are independent in terms of our energy. A camper isn't, and we are. So I think that we make something new. New concept, new idea and new future — sustainable future.'The sleek, odd-looking mobile home took a test drive Friday at a Renault facility outside Paris.
+
+
