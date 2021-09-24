@@ -3016,3 +3016,50 @@
 > So you've finally done it, you've struck out on your own to start your very own gas station in Gas Station Simulator. Now that you've bought the complete crap shack of your dreams in the middle of nowhere, how do you go about turning this terrible financial decision into a money-making venture? That's where we come in, with our Gas Station Simulator beginner guide (mild early-game spoilers ahead.) Starting Out With Gas Station Simulator  Yo might be surprised to hear that your uncle is a bit of a dodgy git.
 
 
+***
+![Can anyone recommend resources to prepare for Pandas and Numpy interview questions?](https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png "Can anyone recommend resources to prepare for Pandas and Numpy interview questions?")
+
+
+[Can anyone recommend resources to prepare for Pandas and Numpy interview questions?](https://www.reddit.com/r/Python/comments/pup94x/can_anyone_recommend_resources_to_prepare_for/)
+
+
+> 0 comments100% Upvotedno comments yetBe the first to share what you think!
+
+
+***
+![Discounts don't come easy at the Apple Store, but they do exist](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/08/seoul-apple-garosugil-apple-store-hero.jpg "Discounts don't come easy at the Apple Store, but they do exist")
+
+
+[Discounts don't come easy at the Apple Store, but they do exist](https://www.imore.com/how-get-discounts-apple-store)
+
+
+> Source: Apple Many of us feel most comfortable making larger Apple purchases directly from the Apple Store, either in person or online. Of course, Apple doesn't have a constant stream of sales and discounts like some other retailers. However, we know how to get discounts at the Apple Store or on Apple's website. After reading this article, you will too. Tip #1: Use your Apple Card or the other credit cards mentioned below on top of any of these other methods to stack your savings. Source: Apple Though Black Friday isn't nearly as big a deal at Apple as it is at other retailers, Apple often has some kind of offer going on the biggest retail day of the year.
+
+
+***
+[mingus library for music theory](https://www.reddit.com/r/Python/comments/pup02z/mingus_library_for_music_theory/)
+
+
+> Does anyone have experience using Mingus? Are there other music libraries that are recommended? I'm curious to know more about the music library landscape in python. Thanks y'all.
+
+
+***
+![Sonos Black Friday deals 2021: what to expect in the sales this year](https://cdn.mos.cms.futurecdn.net/wtsSiKE7ytcCXrGb74Yh8M-1200-80.png "Sonos Black Friday deals 2021: what to expect in the sales this year")
+
+
+[Sonos Black Friday deals 2021: what to expect in the sales this year](https://www.techradar.com/deals/sonos-black-friday-deals-are-here-with-huge-savings-on-soundbars-and-speakers)
+
+
+> (Image credit: Future) Sonos manufactures many of the best wireless speakers and soundbars in the world. But that quality comes at a cost. That's why we're paying very close attention to year's Black Friday Sonos deals later this year. Stick with us right here as we bring you huge discounts to the Sonos Move, Sonos Beam and Sonos Sub devices across the US and UK as soon as we spot them.Of course, we've still got a couple of months to wait until the bargains arrive on November 26. Looking back on last year, though, we can see the top offers cut $100 / £100 off the best speakers around.
+
+
+***
+![Tess Hatch joins us at TC Sessions Space this December – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/TC21_Space_Speaker_Tess_Hatch.png?w=711 "Tess Hatch joins us at TC Sessions Space this December – TechCrunch")
+
+
+[Tess Hatch joins us at TC Sessions Space this December – TechCrunch](https://techcrunch.com/2021/09/24/tess-hatch-joins-us-at-tc-sessions-space-this-december/)
+
+
+> This year has been one of the busiest yet in terms of new commercial launch companies coming online, with companies like Astra and Firefly Aerospace actually getting rockets up and running (if not flying ad designed quite yet), and with landmark human spaceflight missions from Blue Origin, Virgin Galactic and SpaceX. And with more constellations in operation, built out of satellites equipped with sensors capable of providing new and more detailed data for commercial use back on Earth, the timing is right for startups everywhere to leverage a new data gold rush to build businesses based on in-space resources that just weren't available before.
+
+
