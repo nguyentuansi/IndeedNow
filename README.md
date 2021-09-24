@@ -2829,3 +2829,50 @@
 > PHONE IT IN 8:47, 24 Sep 2021Updated: 8:47, 24 Sep 2021THE long-awaited iPhone 13 Pro Max is on sale in the UK NOW. Apple's most expensive ever mobile - described by The Sun as mind-blowing - hit shops here around 7am UK as lucky customers who'd queued all night were finally allowed into stores. The phone has got some pretty amazing reviews so Apple fans have been waiting for today for quite some time. Read our iPhone 13 launch live blog for the latest updates... SAFETY FIRST Apple Stores around the world are still trying to deal with the threat of Covid-19.
 
 
+***
+![China says all cryptocurrency transactions are illegal and launches huge bitcoin crackdown](https://static.independent.co.uk/2020/08/19/11/breaking-news.png?width=1200&auto=webp&quality=75 "China says all cryptocurrency transactions are illegal and launches huge bitcoin crackdown")
+
+
+[China says all cryptocurrency transactions are illegal and launches huge bitcoin crackdown](https://www.independent.co.uk/life-style/gadgets-and-tech/crypto-china-ban-bitcoin-latest-b1926228.html)
+
+
+> All crypto-related transactions are illegal, China's central bank has said.The statement is the latest and most extreme intervention from the People's Bank of China, amid an ongoing crackdown on bitcoin and other digital currencies in the country.The latest statement from official says that any business activities using digital currencies are illegal. That includes operating exchanges, financial institutions that buy and sell cryptocurrencies, or other kinds of transactions.It also covers overseas exchanges that offer similar services to people who live in China, over the internet.
+
+
+***
+![New features spread Twitter's wings](https://images.axios.com/wFvs_ZwFvXdYOUpksIodk55wejQ=/0x0:1920x1080/1366x768/2021/09/24/1632447799016.jpg "New features spread Twitter's wings")
+
+
+[New features spread Twitter's wings](https://www.axios.com/twitter-new-features-tips-creators-7eb10779-b4cb-41d3-84bc-b157c04a6563.html)
+
+
+> Twitter on Thursday announced a slew of new product updates, spanning everything from a creator fund to live audio improvements and even Bitcoin tips. Why it matters: For years, Twitter made few changes to its product, instead relying mostly on ad innovations to grow its business. Now, it's adding new features faster than it ever has before. Driving the news: The company, which earlier this year announced it would be doubling down on subscription products, debuted new ways for fans to interact with and pay their favorite tweeters directly.
+
+
+***
+[Technical analysis: GBP/USD support base holds firm but advances curbed by 50-MA](https://forextv.com/gbp-british-pound/technical-analysis-gbp-usd-support-base-holds-firm-but-advances-curbed-by-50-ma/)
+
+
+> To the downside, swift support could evolve in the area between the 1.3692 and 1.3668 barriers, where the converged Ichimoku lines also currently reside. Successfully steering beneath this boundary, … The post Technical analysis: GBP/USD support base holds firm but advances curbed by 50-MA appeared first on ForexTV.
+
+
+***
+![You can do better than the Apple Watch Series 3 in 2021, even if you want to save money](https://www.cnet.com/a/img/BAWGuiGZ6B7In2iZ6eBsFfKnwdo=/1200x630/2020/04/07/65fe71e1-dd75-4a2e-ab00-7aa1533d3e93/apple-watch-series-3-25.jpg "You can do better than the Apple Watch Series 3 in 2021, even if you want to save money")
+
+
+[You can do better than the Apple Watch Series 3 in 2021, even if you want to save money](https://www.cnet.com/tech/mobile/you-can-do-better-than-the-apple-watch-series-3-in-2021-even-if-you-want-to-save-money/)
+
+
+> The Apple Watch Series 3. The Apple Watch Series 3 was a turning point for the Apple Watch line back when it debuted in 2017. The third version of the Apple Watch was the first to include a cellular option that did not require an iPhone to be nearby to work. This let it work for Dick Tracy style phone calls and CNET's Scott Stein touted in his review that when combined with Apple Music the watch began to feel like an iPod Shuffle on his wrist. Now in 2021, you can still buy the Apple Watch Series 3 for $199 (£199, AU$299) and it's still actively getting updates from Apple to support WatchOS 8.
+
+
+***
+![In iOS 15, you can finally FaceTime between Android and iPhone. Here's how to do it](https://www.cnet.com/a/img/-mFB_A2jrDB8n6twtXRLkr6Hs2U=/1200x630/2021/04/24/2815de37-2ade-4497-9f80-248eb64b3940/124-iphone-12-purple-2021.jpg "In iOS 15, you can finally FaceTime between Android and iPhone. Here's how to do it")
+
+
+[In iOS 15, you can finally FaceTime between Android and iPhone. Here's how to do it](https://www.cnet.com/tech/services-and-software/in-ios-15-you-can-finally-facetime-between-android-and-iphone-heres-how-to-do-it/)
+
+
+> In iOS 15, you can join a FaceTime call from your iPhone, Android or Windows device. Apple/Screenshot by Jessica Dolcourt/CNET This story is part of Apple Event, our full coverage of the latest news from Apple. Non-Apple people have a reason to celebrate: The days when you needed an iPhone, iPad or Mac to join a FaceTime video call are all but over. In a move widely seen as Apple's answer to Zoom video calls, the software giant has made it possible for people who have Android phones and Windows laptops to hop on FaceTime calls -- no iPhone required.
+
+
