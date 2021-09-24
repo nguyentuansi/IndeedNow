@@ -2591,3 +2591,50 @@
 > A Facebook executive will testify in front of the Senate after reports from The Wall Street Journal showed the social media giant downplayed the toxic impact its Instagram platform has on teenage girls.Facebook's Global Head of Safety Antigone Davis is scheduled to testify before the Senate Commerce subcommittee on consumer protection on Sept. 30, The Washington Post reported.The Wall Street Journal reported that research conducted by Facebook "repeatedly" showed that Instagram negatively impacted teenage girls' mental health while executives continued to downplay this impacts, including in remarks before Congress.
 
 
+***
+![Oldest human footprints in North America found in New Mexico](https://s.abcnews.com/images/Technology/WireAP_de4d44cfc5364a80ab50c9754ddd3f08_16x9_992.jpg "Oldest human footprints in North America found in New Mexico")
+
+
+[Oldest human footprints in North America found in New Mexico](https://abcnews.go.com/Technology/wireStory/oldest-human-footprints-north-america-found-mexico-80199002)
+
+
+> WASHINGTON -- Fossilized footprints discovered in New Mexico indicate that early humans were walking across North America around 23,000 years ago, researchers reported Thursday.The first footprints were found in a dry lake bed in White Sands National Park in 2009. Scientists at the U.S. Geological Survey recently analyzed seeds stuck in the footprints to determine their approximate age, ranging from around 22,800 and 21,130 years ago.The findings may shed light on a mystery that has long intrigued scientists: When did people first arrive in the Americas, after dispersing from Africa and Asia?Most scientists believe ancient migration came by way of a now-submerged land bridge that connected Asia to Alaska.
+
+
+***
+![Good video on a problem I have been noticing more and more and stackoverflow](https://external-preview.redd.it/BF4pXBuLYbt4R7_NdX0yQrWY52Gdl3MINHBxInDubmw.jpg?auto=webp&s=7f8f1449d966e111e209b231f094e35e14b58aaf "Good video on a problem I have been noticing more and more and stackoverflow")
+
+
+[Good video on a problem I have been noticing more and more and stackoverflow](https://www.reddit.com/r/programming/comments/pu85xo/good_video_on_a_problem_i_have_been_noticing_more/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Apple patches yet another zero-day in its operating systems](https://itwire.com/media/k2/items/cache/284cca96386c953d513371466df88312_XS.jpg "Apple patches yet another zero-day in its operating systems")
+
+
+[Apple patches yet another zero-day in its operating systems](https://itwire.com/security/apple-patches-yet-another-zero-day-in-its-operating-systems.html)
+
+
+> Image by Clker-Free-Vector-Images from Pixabay Apple has issued a patch for a vulnerability in the kernel of its iOS and macOS operating systems, originally a zero-day, warning that it affected devices running iOS 13, and also the macOS Catalina platform. As usual, the company provided sparse details about the flaw, though it said it was aware of the issue being exploited in the wild. The issue was described as a type confusion issue in XNU. iOS 13 ow now officially not supported by Apple. The lack of detail was explained in this sentence: "For our customers' protection, Apple doesn't disclose, discuss, or confirm security issues until an investigation has occurred and patches or releases are available.
+
+
+***
+[Erye Hernandez](https://itwire.com/freelancer-sp-720/tag/Erye%20Hernandez.html)
+
+
+> Apple has issued a patch for a vulnerability in the kernel of its iOS and macOS operating systems, originally a zero-day, warning that it affected devices running iOS 13, and also the macOS Catalina platform.
+
+
+***
+![New York City passes protections for food delivery drivers](https://ca-times.brightspotcdn.com/dims4/default/e0e3031/2147483647/strip/true/crop/6030x3166+0+427/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2Fc9%2F8b7132e64363b3d27c5f8d611499%2Fla-photos-freelance-contract-479714-la-fi-virtual-kitchens08-ptf.JPG "New York City passes protections for food delivery drivers")
+
+
+[New York City passes protections for food delivery drivers](https://www.latimes.com/business/technology/story/2021-09-23/new-york-city-council-passes-sweeping-food-delivery-protections)
+
+
+> New York City lawmakers passed a set of bills aimed at improving working conditions and pay for app-based workers, becoming one of the first cities in the U.S. to significantly regulate the food delivery industry dominated by DoorDash Inc., Grubhub and Uber Technologies Inc.The sweeping measures would require restaurants to grant couriers access to bathrooms, establish a minimum per-trip payment and a guarantee that couriers receive full tips, and allow the workers to set limits on their routes. The apps will also be required to pay couriers at least once a week and offer payment options that don't require a bank account; they will be prohibited from charging fees to workers to receive earnings.
+
+
