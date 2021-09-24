@@ -2876,3 +2876,53 @@
 > In iOS 15, you can join a FaceTime call from your iPhone, Android or Windows device. Apple/Screenshot by Jessica Dolcourt/CNET This story is part of Apple Event, our full coverage of the latest news from Apple. Non-Apple people have a reason to celebrate: The days when you needed an iPhone, iPad or Mac to join a FaceTime video call are all but over. In a move widely seen as Apple's answer to Zoom video calls, the software giant has made it possible for people who have Android phones and Windows laptops to hop on FaceTime calls -- no iPhone required.
 
 
+***
+![iPhone 13 Pro latest – Apple fixes Music bug as fans flock to stores for £799 smartphone & Amazon SELLS out](https://www.thesun.co.uk/wp-content/uploads/2021/09/ML-Apple-13-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "iPhone 13 Pro latest – Apple fixes Music bug as fans flock to stores for £799 smartphone & Amazon SELLS out")
+
+
+[iPhone 13 Pro latest – Apple fixes Music bug as fans flock to stores for £799 smartphone & Amazon SELLS out](https://www.thesun.co.uk/tech/16224612/iphone-13-pro-apple-max-charging-music-bug-fix/)
+
+
+> THE long-awaited iPhone 13 Pro Max is on sale in the UK NOW. Apple's most expensive ever mobile - described by The Sun as mind-blowing - hit shops here around 7am UK as lucky customers who'd queued all night were finally allowed into stores. The phone has got some pretty amazing reviews so Apple fans have been waiting for today for quite some time. Read our iPhone 13 launch live blog for the latest updates... BUGGED OUT Apple users are currently experiencing a bizarre Instagram bug today. After downloading the recent update, several people have reported that sound won't play on their Instagram Stories if their ringer switch is set to silent mode.
+
+
+***
+![China declares all cryptocurrency transactions illegal](https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3REOQKBFY6LPAWZXGLQLY7ZYMU.jpg "China declares all cryptocurrency transactions illegal")
+
+
+[China declares all cryptocurrency transactions illegal](https://www.kiro7.com/news/technology/china-declares-all/4JUEOPVH6G5QTCKVQC4EUBMDL4/)
+
+
+> BEIJING — (AP) — China's central bank on Friday declared all transactions involving Bitcoin and other virtual currencies illegal, stepping up a campaign to block use of unofficial digital money.Chinese banks were banned from handling cryptocurrencies in 2013, but the government issued a reminder this year. That reflected official concern cryptocurrency mining and trading might still be going on or the state-run financial system might be indirectly exposed to risks.Friday's notice complained Bitcoin, Ethereum and other digital currencies disrupt the financial system and are used in money-laundering and other crimes.
+
+
+***
+![Get the best sound for your new PS5 with these great wireless headsets](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/razer-blackshark-v2-pro-headset-around-neck-2.jpg "Get the best sound for your new PS5 with these great wireless headsets")
+
+
+[Get the best sound for your new PS5 with these great wireless headsets](https://www.androidcentral.com/best-wireless-ps5-headsets)
+
+
+> Now that's it's officially out, the PS5 is pretty hard to find due to low stock and high demand. As PlayStation fans continue to check the PS5 restocks, one of the most crucial accessories many players need alongside this extremely in-demand system is a headset. Not only does a headset enhance your gaming experience with its immersive qualities, but thanks to the variety of incredible multiplayer games available, you'll need something to interact with your friends and other players. Thankfully, there are tons of wireless options available, so we put together a list that features some of the best wireless PS5 headsets on the market.
+
+
+***
+![Apps that have updated to iOS 15 and your new iPhone 13](https://cdn.mos.cms.futurecdn.net/bxZFnQR6KUM7j3GqRxYCgX-1200-80.png "Apps that have updated to iOS 15 and your new iPhone 13")
+
+
+[Apps that have updated to iOS 15 and your new iPhone 13](https://www.techradar.com/news/apps-that-have-updated-to-ios-15-and-your-new-iphone-13)
+
+
+> With every major iOS release also comes with a plethora of updated apps that take advantage of the new features. This is no different with iOS 15, available to download and also comes loaded with the released iPhone 13 series.As widgets are now on iPadOS 15, developers have been trying to make sure that their widgets from iOS 14 also work on iPads, as well as the exclusive XL size of widgets for the tablet.But we've already seen a bunch of apps be updated to take advantage of iOS 15, and with that, here's some to highlight that could benefit your new iPhone or existing one.
+
+
+***
+![After IBM failed to sail an autonomous boat across the Atlantic, it's trying again](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JB2ADE4ZMRAEXL35QZ7MWPMEYQ.jpg&w=1440 "After IBM failed to sail an autonomous boat across the Atlantic, it's trying again")
+
+
+[After IBM failed to sail an autonomous boat across the Atlantic, it's trying again](https://www.washingtonpost.com/technology/2021/09/24/autonomous-ai-ship/)
+
+
+> After failing its first attempt to re-create the Mayflower's voyage across the Atlantic Ocean, a crewless ocean vessel, powered by artificial intelligence, has returned to sea.Propelled by IBM's AI software, the autonomous ship set out in June for a month-long excursion through rough waters with no humans aboard. However, three days into what was supposed to be a monumental journey from Plymouth, England, to Plymouth, Mass., where pilgrim travelers settled in 1620, the robot ship suffered 'a minor mechanical issue' according to ProMare, a nonprofit promoting marine research that is behind the project.
+
+
