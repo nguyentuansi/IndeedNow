@@ -2688,3 +2688,53 @@
 > (Image credit: Future) Walmart PS5 and Halo Xbox restock time update: If you're wondering about the Walmart restock time, follow our PS5 and Xbox restock tracker Matt Swider, as he'll send you an alert as soon as the consoles are in stock in the US – if you follow his Twitter account and turn on notifications. The Walmart PS5, Xbox Series X and Halo Infinite-themed Xbox Series X will restock today, but it got delayed from this afternoon to tonight at 9pm EDT / 6pm PDT, according to Walmart official who have contacted TechRadar.
 
 
+***
+![Google Photos Locked Folder option coming to all Android phones soon](https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/23/full/1624391319-4869.jpg "Google Photos Locked Folder option coming to all Android phones soon")
+
+
+[Google Photos Locked Folder option coming to all Android phones soon](https://www.business-standard.com/article/technology/google-photos-locked-folder-option-coming-to-all-android-phones-soon-121092400201_1.html)
+
+
+> Search engine giant Google has confirmed that the Locked Folder in Photos is set to arrive on all Android devices soon. The feature was released exclusively on newer Pixel phones in June. Google hasn't provided an exact date for when the feature is releasing more widely, reports The Verge. The Photos Locked Folder will roll out soon to devices running Android 6.0 and newer. Once it is live, users will be able to set up this folder after they receive a notification from Google Photos. Google Photos Locked Folder hides selected pictures/videos from the application's main grid, search, and "apps that access your device photos.
+
+
+***
+![Twitter will now let you tip your favourite creator using cryptocurrency](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/screenshot_2021-09-24_at_9.09._1200x768-original.png "Twitter will now let you tip your favourite creator using cryptocurrency")
+
+
+[Twitter will now let you tip your favourite creator using cryptocurrency](https://www.indiatoday.in/technology/news/story/twitter-will-now-let-you-tip-your-favourite-creator-using-cryptocurrency-1856511-2021-09-24)
+
+
+> Ankita Chakravarti New Delhi, Sep 24, 2021, Updated Sep 24, 2021, 9:11 AM IST Twitter announced a slew of features during its product event held on Thursday. The micro-blogging site revealed that it is rolling out Tips, which is a tipping feature, to everyone with more payment options to choose from including cryptocurrency. Using Tips, Twitter users can tip their favourite account on the micro-blogging platform, help a small business owner through a difficult time, give to an important cause. Tipping on Twitter got simpler and now comes with more payment options.
+
+
+***
+![iPhone 13 and new iPads hit by Apple Music bug, company warns](https://icdn.digitaltrends.com/image/digitaltrends/iphone-13-white.jpg "iPhone 13 and new iPads hit by Apple Music bug, company warns")
+
+
+[iPhone 13 and new iPads hit by Apple Music bug, company warns](https://www.digitaltrends.com/mobile/iphone-13-and-new-ipads-hit-by-apple-music-bug-apple-warns/)
+
+
+> Getting one of the new iPhones or iPads? Then watch out — if you restore the device from a backup, Apple says you might have trouble using Apple Music. The issue affects all of the new iPhone 13 models, as well as the new iPad (9th generation) and iPad Mini (6th generation). Older devices are not affected. Apple's warning comes on the day that the company started shipping its new iPhone 13 and new iPads to customers around the world. 'If you restore your new iPhone or iPad from a backup, you might not be able to access the Apple Music catalog, Apple Music settings, or use Sync Library on your new device,' the tech giant said on a new support page, adding, 'To resolve this, update your new iPhone or iPad.
+
+
+***
+![iPhone 13 series quick review: There is something in it for everyone](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/iph4-original.jpg "iPhone 13 series quick review: There is something in it for everyone")
+
+
+[iPhone 13 series quick review: There is something in it for everyone](https://www.indiatoday.in/technology/features/story/iphone-13-series-quick-review-there-is-something-in-it-for-everyone-1856510-2021-09-24)
+
+
+> It's time to take the first look at the recently introduced iPhone 13 series. The phones go on sale in India from today although we hear and see that the iPhone 13 Pro and the iPhone 13 Pro Max may hit the market only in limited quantity. Now, before we talk about the phones just a line about their prices: Just like last year, this year also we saw four new iPhones iPhone 13 mini, iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max. The price starts from Rs 69,990 and goes up to Rs 1,79,990. I briefly tried all four new iPhone models and while the design language remains more or less same, there are some incremental changes both to the overall aesthetics and on the hardware front.
+
+
+***
+![Bitcoin news – live: BTC price stabilises after surge following Twitter crypto tipping announcement](https://static.independent.co.uk/2021/07/12/09/bitcoin%20price%20latest%202021%20today.jpg?width=1200&auto=webp&quality=75 "Bitcoin news – live: BTC price stabilises after surge following Twitter crypto tipping announcement")
+
+
+[Bitcoin news – live: BTC price stabilises after surge following Twitter crypto tipping announcement](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-news-live-price-btc-crypto-b1923315.html)
+
+
+> Bitcoin and several other cryptocurrencies are showing strong signs of recovery following the Monday flash crash, which wiped out nearly $200 million from the crypto market. While bitcoin's value has not recovered to its pre-Monday levels of $47,000 yet, its price rose above $44,000 on Thursday, and has since stabilised.Its price is up by about 2 per cent in the last 24 hours compared to its surge by about 4 per cent in the day earlier.Ethereum (ether), Solana (SOL), and dogecoin are also showing signs of stabilising after a phase of recovery.
+
+
