@@ -2926,3 +2926,43 @@
 > After failing its first attempt to re-create the Mayflower's voyage across the Atlantic Ocean, a crewless ocean vessel, powered by artificial intelligence, has returned to sea.Propelled by IBM's AI software, the autonomous ship set out in June for a month-long excursion through rough waters with no humans aboard. However, three days into what was supposed to be a monumental journey from Plymouth, England, to Plymouth, Mass., where pilgrim travelers settled in 1620, the robot ship suffered 'a minor mechanical issue' according to ProMare, a nonprofit promoting marine research that is behind the project.
 
 
+***
+![These 6 cheap Samsung Galaxy Z Fold 3 cases are worth buying](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/spigen-air-skin-layout-z-fold-3.jpg "These 6 cheap Samsung Galaxy Z Fold 3 cases are worth buying")
+
+
+[These 6 cheap Samsung Galaxy Z Fold 3 cases are worth buying](https://www.androidcentral.com/best-cheap-samsung-galaxy-z-fold-3-cases)
+
+
+> After spending almost $2,000 on a Galaxy Z Fold 3, it's completely understandable that you wouldn't want to drop another $60-$100 on the best Galaxy Z Fold 3 cases from high-end brands like OtterBox, Urban Armor Gear, or Incipio. There are plenty of inexpensive cases for the Galaxy Z Fold 3 out there, but once you drop below $30, you start running into quality control issues, poor fits, and awkward designs. After sifting through a mountain of contenders, these are the six best cheap Galaxy Z Fold 3 cases that are more than worthy of covering your shiny, new foldable.
+
+
+***
+![Twitter Appointed Officers in Compliance With New IT Rules, Centre Tells Delhi HC](https://images.news18.com/ibnlive/uploads/2021/07/1627472217_twitter-logo-162934934416x9.jpg "Twitter Appointed Officers in Compliance With New IT Rules, Centre Tells Delhi HC")
+
+
+[Twitter Appointed Officers in Compliance With New IT Rules, Centre Tells Delhi HC](https://www.news18.com/news/tech/twitter-appointed-officers-in-compliance-with-new-it-rules-centre-tells-delhi-hc-4242188.html)
+
+
+> The Centre has informed the Delhi High Court that Twitter has appointed Chief Compliance Officer (CCO), Resident Grievance Officer (RGO), and Nodal Contact Person in compliance with the new IT Rules. The Ministry of Electronics and Information Technology (MEITY), in a short affidavit, said Twitter has acknowledged that the personnel (CCO, Nodal Contact Person, and RGO) are appointed as the company's employees and not as ‘contingent workers'.Twitter has provided the names of the said appointed personnel and their respective positions also.
+
+
+***
+![When Should You Use Concurrency in Go?](https://external-preview.redd.it/elaoxsSbOwlmBB_R8zWzpCw580Ro4POhqsaquZLYba4.jpg?auto=webp&s=0b95db6a4f6f5b4f6286bc4af12b4b7ffacd4de3 "When Should You Use Concurrency in Go?")
+
+
+[When Should You Use Concurrency in Go?](https://www.reddit.com/r/programming/comments/pukc1o/when_should_you_use_concurrency_in_go/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![iPhone 13 series decoded: Hands-on, first impressions and everything to know about Apple's latest iPhones](https://images.financialexpress.com/2021/09/DSC_13651.jpg "iPhone 13 series decoded: Hands-on, first impressions and everything to know about Apple's latest iPhones")
+
+
+[iPhone 13 series decoded: Hands-on, first impressions and everything to know about Apple's latest iPhones](https://www.financialexpress.com/industry/technology/iphone-13-series-decoded-hands-on-first-impressions-and-everything-to-know-about-apples-latest-iphones/2337171/)
+
+
+> The 2021 iPhones, especially the iPhone 13 Pro and iPhone 13 Pro Max, come with a bevy of hardware upgrades. (Photo credit: Saurabh Singh/Financial Express)Apple's latest and greatest iPhones—iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, and iPhone 13 Mini—are now shipping. Cupertino is making its entire iPhone 13 series available in India at the same time as markets like the US, UK and Canada which is to say, India's getting them in the ‘first wave.' Something like this has never happened before, which underscores the country's role in Apple's roadmap—as also its commitment to the world's fastest growing smartphone market.
+
+
