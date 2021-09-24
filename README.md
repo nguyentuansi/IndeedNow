@@ -2966,3 +2966,53 @@
 > The 2021 iPhones, especially the iPhone 13 Pro and iPhone 13 Pro Max, come with a bevy of hardware upgrades. (Photo credit: Saurabh Singh/Financial Express)Apple's latest and greatest iPhones—iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, and iPhone 13 Mini—are now shipping. Cupertino is making its entire iPhone 13 series available in India at the same time as markets like the US, UK and Canada which is to say, India's getting them in the ‘first wave.' Something like this has never happened before, which underscores the country's role in Apple's roadmap—as also its commitment to the world's fastest growing smartphone market.
 
 
+***
+![Beat the early bird deadline and save $100 on passes to TC Sessions](https://techcrunch.com/wp-content/uploads/2021/09/TC21_Session_SaaS_WP_Header_Countdown_1_Week_Left_1280x720.jpg?w=711 "Beat the early bird deadline and save $100 on passes to TC Sessions")
+
+
+[Beat the early bird deadline and save $100 on passes to TC Sessions](https://techcrunch.com/2021/09/24/beat-the-early-bird-deadline-and-save-100-on-passes-to-tc-sessions-saas-2021/)
+
+
+> Is it just us or has everyone's calendar hit warp factor 9? We can't believe there are only 34 days left before TC Sessions: SaaS 2021 kicks into high gear on October 27. If you don't have your pass yet, the clock on early-bird savings is winding down fast. Time to bump that quick task to the top of your to-do list, folks. Buy your early-bird pass to TC Sessions SaaS 2021 — and save yourself $100 — before the price expires on October 1 at 11:59 pm (PT). Prepare for a full day focused on SaaS and its rapidly expanding ecosystem.
+
+
+***
+![Intel breaks ground on $20 bln Arizona plants as U.S. chip factory race heats up](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53 "Intel breaks ground on $20 bln Arizona plants as U.S. chip factory race heats up")
+
+
+[Intel breaks ground on $20 bln Arizona plants as U.S. chip factory race heats up](https://www.reuters.com/technology/intel-breaks-ground-20-bln-arizona-plants-us-chip-factory-race-heats-up-2021-09-24/)
+
+
+> Sept 24 (Reuters) - Intel Corp (INTC.O) on Friday broke ground on two new factories in Arizona as part of its turnaround plan to become a major manufacturer of chips for outside customers.The $20 billion plants - dubbed Fab 52 and Fab 62 - will bring the total number of Intel factories at its campus in Chandler, Arizona, to six. They will house Intel's most advanced chipmaking technology and play a central role in the Santa Clara, California-based company's effort to regain its lead in making the smallest, fastest chips by 2025, after having fallen behind rival Taiwan Semiconductor Manufacturing Co Ltd (2330.
+
+
+***
+![Cloud Security Alliance Announces Recipients of 2021 Ron Knode Service Awards](https://mms.businesswire.com/media/20210924005018/en/783951/23/CSA_Logo_CMYK.jpg "Cloud Security Alliance Announces Recipients of 2021 Ron Knode Service Awards")
+
+
+[Cloud Security Alliance Announces Recipients of 2021 Ron Knode Service Awards](https://www.businesswire.com/news/home/20210924005018/en/Cloud-Security-Alliance-Announces-Recipients-of-2021-Ron-Knode-Service-Awards)
+
+
+> September 24, 2021 12:00 PM Eastern Daylight Time SEATTLE--(BUSINESS WIRE)--The Cloud Security Alliance (CSA), the world's leading organization dedicated to defining and raising awareness of best practices to help ensure a secure cloud computing environment, today announced the recipients of its Ron Knode Service Award, recognizing CSA members from the Americas, Asia-Pacific, and EMEA regions for their excellence in volunteerism. The honorees were selected by the CSA executive team and chosen based on their valuable contributions towards fulfilling CSA's mission of promoting best practices to help ensure a secure cloud computing environment.
+
+
+***
+![Instagram Stories are being muted on iPhones – but it is going to be fixed](https://static.independent.co.uk/2021/03/16/10/newFile-4.jpg?width=1200&auto=webp&quality=75 "Instagram Stories are being muted on iPhones – but it is going to be fixed")
+
+
+[Instagram Stories are being muted on iPhones – but it is going to be fixed](https://www.independent.co.uk/life-style/gadgets-and-tech/instagram-stories-iphone-bug-fix-b1926531.html)
+
+
+> Apple's latest iPhone software, iOS 15, is causing Instagram Stories to play without audio.Users are finding that playing a Story with the ringer switch set to silent mode completely mutes the video, despite that mode only intended to silence message notifications and calls - rather than the audio heard within apps.On Reddit, many users said that they were facing problems, having to unmute their phones to listen to audio on Instagram and YouTube - something that does not happen on iOS 14.Facebook, which owns the photo app, told The Verge that it was aware of the problem.
+
+
+***
+![Gas Station Simulator Beginner Guide](https://techraptor.net/sites/default/files/styles/image_header/public/2021-09/gas%20station%20simulator%20-%20feature%20image.jpg?itok=mgpgPODM "Gas Station Simulator Beginner Guide")
+
+
+[Gas Station Simulator Beginner Guide](https://techraptor.net/gaming/guides/gas-station-simulator-beginner-guide)
+
+
+> So you've finally done it, you've struck out on your own to start your very own gas station in Gas Station Simulator. Now that you've bought the complete crap shack of your dreams in the middle of nowhere, how do you go about turning this terrible financial decision into a money-making venture? That's where we come in, with our Gas Station Simulator beginner guide (mild early-game spoilers ahead.) Starting Out With Gas Station Simulator  Yo might be surprised to hear that your uncle is a bit of a dodgy git.
+
+
