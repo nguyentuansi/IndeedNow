@@ -2779,3 +2779,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![First weekend of Halo Infinite's latest multiplayer testing rounds is now live](https://cdn.neow.in/news/images/uploaded/2021/09/1632469648_haloinfinite_mp05_1120x630-a29a3e1101a64fd5aed2f895481ed9b9_story.jpg "First weekend of Halo Infinite's latest multiplayer testing rounds is now live")
+
+
+[First weekend of Halo Infinite's latest multiplayer testing rounds is now live](https://www.neowin.net/news/first-weekend-of-halo-infinites-latest-multiplayer-testing-rounds-is-now-live/)
+
+
+> Just as 343 Industries announced earlier this week, Halo Infinite has been opened up to Halo Insiders again. The first weekend of this double Technical Preview drop comes with access to player versus player Arena from the get-go, alongside the content, including Bot Arena, seen during the previous flight. Invites to eligible Insiders, which is essentially everyone who signed up prior to September 13, have begun rolling out across PC and Xbox consoles. Those with invites can head to the Halo Waypoint Insider Support hub to get orientated before jumping straight in.
+
+
+***
+![Power 50 2021: Our 20-11 revealed](https://cdn.mos.cms.futurecdn.net/rsfSKxV6QdWDPqgywofvEb-1200-80.jpg "Power 50 2021: Our 20-11 revealed")
+
+
+[Power 50 2021: Our 20-11 revealed](https://www.techradar.com/news/power-50-2021-our-20-11-revealed)
+
+
+> After months of research and nominations we are delighted to confirm the next ten members of the 2021 Power 50. Part of the Mobile Industry Awards 2021 powered by Sky Zero, the Power 50 highlights the most important and influential figures in the UK mobile industry during the past year. TechRadar Pro will be revealing ten nominees each week as we count down to the reveal of our 2021 Person of the Year at the Mobile Industry Awards 2021 on Wednesday September 29.View all the 2021 Power 50 here!11.
+
+
+***
+![Protect your iPhone 13 in style with these new cases from Spigen](https://cdn.mos.cms.futurecdn.net/xJJjPv5VUGQhbT4k7ELTyZ-1200-80.jpg "Protect your iPhone 13 in style with these new cases from Spigen")
+
+
+[Protect your iPhone 13 in style with these new cases from Spigen](https://www.techradar.com/news/protect-your-iphone-13-in-style-with-these-new-cases-from-spigen)
+
+
+> [Spigen]Getting a new phone might be the tech highlight of your year, particularly if it's an iPhone 13. Our top tip for phone buyers is to get that thing protected, asap. However, you want to avoid chunky, unattractive cases that smudge all the gloss off your new pocket companion. Spigen's new range of iPhone 13-series cases maintain the sleek lines and look of your phone while providing top-tier protection and letting you live the wireless life with baked-in support for MagSafe wireless charging.
+
+
+***
+![iPhone 13 Pro Max launch LIVE – Apple's most expensive ever mobile SOLD OUT on Amazon but UK fans can buy it stores now](https://www.the-sun.com/wp-content/uploads/sites/6/2021/09/ML-Apple-13-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "iPhone 13 Pro Max launch LIVE – Apple's most expensive ever mobile SOLD OUT on Amazon but UK fans can buy it stores now")
+
+
+[iPhone 13 Pro Max launch LIVE – Apple's most expensive ever mobile SOLD OUT on Amazon but UK fans can buy it stores now](https://www.the-sun.com/tech/3719682/iphone-13-pro-max-launch-live-uk-apple-release/)
+
+
+> PHONE IT IN 3:47 ET, Sep 24 2021Updated: 3:47 ET, Sep 24 2021THE long-awaited iPhone 13 Pro Max is on sale in the UK NOW. Apple's most expensive ever mobile - described by The Sun as mind-blowing - hit shops here around 7am UK as lucky customers who'd queued all night were finally allowed into stores. The phone has got some pretty amazing reviews so Apple fans have been waiting for today for quite some time. Read our iPhone 13 launch live blog for the latest updates... SAFETY FIRST Apple Stores around the world are still trying to deal with the threat of Covid-19.
+
+
+***
+![iPhone 13 Pro Max launch LIVE – Apple's most expensive ever mobile SOLD OUT on Amazon but UK fans can buy it stores now](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/09/ML-Apple-13-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "iPhone 13 Pro Max launch LIVE – Apple's most expensive ever mobile SOLD OUT on Amazon but UK fans can buy it stores now")
+
+
+[iPhone 13 Pro Max launch LIVE – Apple's most expensive ever mobile SOLD OUT on Amazon but UK fans can buy it stores now](https://www.thescottishsun.co.uk/tech/7745994/iphone-13-pro-max-launch-live-uk-apple-release/)
+
+
+> PHONE IT IN 8:47, 24 Sep 2021Updated: 8:47, 24 Sep 2021THE long-awaited iPhone 13 Pro Max is on sale in the UK NOW. Apple's most expensive ever mobile - described by The Sun as mind-blowing - hit shops here around 7am UK as lucky customers who'd queued all night were finally allowed into stores. The phone has got some pretty amazing reviews so Apple fans have been waiting for today for quite some time. Read our iPhone 13 launch live blog for the latest updates... SAFETY FIRST Apple Stores around the world are still trying to deal with the threat of Covid-19.
+
+
