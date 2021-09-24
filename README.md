@@ -3113,3 +3113,53 @@
 > THE HAGUE – A group of Dutch students has reimagined van life and is hitting the road to Portugal. Just don't call their groundbreaking new solar-powered vehicle a campervan.'We call it a self-sustaining house on wheels," said Lotte van Dasler, part of a team from the Technical University in the southern Dutch city of Eindhoven. "We are independent in terms of our energy. A camper isn't, and we are. So I think that we make something new. New concept, new idea and new future — sustainable future.'The sleek, odd-looking mobile home took a test drive Friday at a Renault facility outside Paris.
 
 
+***
+![Google CEO sought to keep Incognito mode issues out of spotlight, lawsuit alleges](https://www.reuters.com/resizer/nMKhjRJ5j7fZ4-RIO1SSn5jAPAc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RPZZ6SEPH5LDNHIUKEMEBIN73Y.jpg "Google CEO sought to keep Incognito mode issues out of spotlight, lawsuit alleges")
+
+
+[Google CEO sought to keep Incognito mode issues out of spotlight, lawsuit alleges](https://www.reuters.com/technology/google-ceo-sought-keep-incognito-mode-issues-out-spotlight-lawsuit-alleges-2021-09-24/)
+
+
+> Google CEO Sundar Pichai testifies during a remote video hearing held by subcommittees of the U.S. House of Representatives Energy and Commerce Committee on "Social Media's Role in Promoting Extremism and Misinformation" in Washington, U.S., March 25, 2021. U.S. House of Representatives Energy and Commerce Committee/Handout via ReutersSept 24 (Reuters) - Google Chief Executive Sundar Pichai in 2019 was warned that describing the company's Incognito browsing mode as "private" was problematic, yet it stayed the course because he did not want the feature "under the spotlight," according to a new court filing.
+
+
+***
+![Google has a few tricks up its sleeve for the newsletter platform department](https://cdn.mos.cms.futurecdn.net/tsiYarDRVfLrjpgkMxbxu4-1200-80.jpg "Google has a few tricks up its sleeve for the newsletter platform department")
+
+
+[Google has a few tricks up its sleeve for the newsletter platform department](https://www.techradar.com/news/google-has-a-few-tricks-up-its-sleeve-for-the-newsletter-platform-department)
+
+
+> (Image credit: Shutterstock) As more journalists and writers are turning to newsletters to distribute their content online, Google is working on its own newsletter platform that will leverage its existing collaboration tools.As reported by TechCrunch, the search giant's internal R&D division Area 120 has developed a new project called Museletter. This makes a great deal of sense as other tech giants including Facebook and Twitter have launched their own newsletter platforms recently.While a launch date has not yet been announced for Google's new newsletter offering, Museletter already has lot going for it as users of the upcoming service will be able to publish Google Drive files as blogs or newsletters to either their public Museletter profile or to an email list.
+
+
+***
+![Marvel's Shang-Chi won't be available to stream until Nov. 12](https://www.cnet.com/a/img/OB1b2KmqFR1-koniZdccRAtTXRE=/604x0:3658x1716/1200x630/center/top/2021/09/02/200c5729-7186-4210-b33e-77adbbe9d491/bus3520-cmp-lum-v0045-1069-r.jpg "Marvel's Shang-Chi won't be available to stream until Nov. 12")
+
+
+[Marvel's Shang-Chi won't be available to stream until Nov. 12](https://www.cnet.com/tech/services-and-software/marvels-shang-chi-wont-be-available-to-stream-until-nov-12/)
+
+
+> Shang-Chi and the Legend of the Ten Rings is getting Marvel back to the pre-pandemic norm of releasing films only in theaters at first.  Marvel Marvel's Shang-Chi and the Legend of the Ten Rings has been one of the biggest box-office hits of the pandemic. Riding a wave of critical praise and buzz about its martial arts fight scenes, Shang-Chi has hauled in more than $327 million in ticket grosses worldwide three weeks after its release. A major factor in its theatrical performance was the film's streaming strategy, which was to not stream it at all.
+
+
+***
+![How does Ring Live View work?](https://icdn.digitaltrends.com/image/digitaltrends/ring-video-doorbell-4_001.jpg "How does Ring Live View work?")
+
+
+[How does Ring Live View work?](https://www.digitaltrends.com/home/ring-doorbell-live-view/)
+
+
+> Ring Video Doorbells, like the Ring Video Doorbell 3, are popular choices when it comes to do-it-yourself home security. While you likely already know these cameras can record what's happening around your home 24/7, what you may not realize is that they also afford you a live, up-to-the-minute view of what's going on at your property any time — day or night. What is Ring Live View? The Ring Live View feature allows you to open a live video and audio portal at any time to peek at your property. Whether it's to check on the kids, see if a windstorm damaged your house while you're on vacation, or monitor work happening in the yard, Live View can be a convenient way to keep tabs.
+
+
+***
+![Hack-a-Sat: Kepler 2 GEO, Solving for Propulsion w/Python](https://external-preview.redd.it/hRL7n2f_H_gNrdmBbvHfrgMqtPDtvxRnIQm_D8XelZc.jpg?auto=webp&s=79d1368e8ae41d8043f67f1a8d14f7b0fe52a9a5 "Hack-a-Sat: Kepler 2 GEO, Solving for Propulsion w/Python")
+
+
+[Hack-a-Sat: Kepler 2 GEO, Solving for Propulsion w/Python](https://www.reddit.com/r/programming/comments/put75l/hackasat_kepler_2_geo_solving_for_propulsion/)
+
+
+> Hi everyone! I am a cybersecurity vulnerability researcher and penetration tester professionally and in my personal time, I do a lot of educational outreach. Specifically with high school and middle school students. I recently started a YouTube channel to support some of my lectures in an async manner. I do additional videos like this as well to support interest in various domains. Please check it out and provide some feedback on the material and teaching style--I'm trying to improve these.In this video, we take a look at another Hack a Sat challenge, container name Kepler 2, challenge name Cotton Eye GEO.
+
+
