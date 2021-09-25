@@ -3436,3 +3436,53 @@
 > On Sept. 9, President Joe Biden announced a new set of pandemic response policies. In the process, he said that 1 in 5,000 vaccinated people become infected by SARS-CoV-2 each day. He was citing David Leonhardt's New York Times newsletter. Biden and Leonhardt frame the statistic as encouraging: only 1 in 5,000. But it isn't good news or bad news. It's essentially meaningless. What's more important is knowing that when community spread of the coronavirus is high, the risk of breakthrough infection needs to be taken seriously, which means combining vaccination with other public health measures.
 
 
+***
+![Staples slashes the Microsoft Surface Pro 7 price, now that the Surface 8 is out](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-surface-pro-7-a-3.jpg "Staples slashes the Microsoft Surface Pro 7 price, now that the Surface 8 is out")
+
+
+[Staples slashes the Microsoft Surface Pro 7 price, now that the Surface 8 is out](https://www.digitaltrends.com/dtdeals/microsoft-surface-pro-7-tablet-deal-staples-september-2021-2/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. There was big news for tablet lovers this week as the long-awaited Microsoft Surface Pro 8 was finally announced. The redesigned and updated version of Microsoft's popular tablet will come pre-loaded with Windows 11 and tons of new features. This means that the older versions of this tablet are getting huge markdowns in preparation. Right now, you can get the Microsoft Surface Pro 7 tablet from Staples for just $1,000, marked down $200 from its regular price of $1,200.
+
+
+***
+![Twitter is making changes to offer improved video quality on platform](https://images.indianexpress.com/2021/05/Twitter-Logo-file.jpg "Twitter is making changes to offer improved video quality on platform")
+
+
+[Twitter is making changes to offer improved video quality on platform](https://indianexpress.com/article/technology/social/twitter-is-making-changes-to-offer-improved-video-quality-on-platform-7534034/)
+
+
+> Twitter will now allow users to watch videos in better quality. Twitter's less than ideal video quality has been an issue, which has been reported by many users. The micro-blogging site has now confirmed via a tweet from its support account that videos uploaded to the platform will now appear less pixelated for a better watching experience. 'Some good news: we've made updates to improve video quality. Starting today, videos you upload to Twitter will appear less pixelated for a better watching experience,' Twitter said.
+
+
+***
+![You don't really own your phone](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/xiaomi-mi-11-ultra-7.jpg "You don't really own your phone")
+
+
+[You don't really own your phone](https://www.androidcentral.com/you-dont-really-own-your-phone)
+
+
+> Source: Jerry Hildenbrand / Android Central The Lithuanian Defense Ministry wants you to "throw away" your Chinese smartphone. Seriously — it advises you not to buy any smartphones made by Chinese companies and to throw away the ones you might already own because of the software that powers them. This stems from research that shows how flagship phones from Xiaomi, which are also some of the best Android phones, built for the European market, can detect and remotely censor things like any expression of freedom for Tibet or Taiwanese independence.
+
+
+***
+![Experts Say the Disruptive Electric Vehicle Revolution is Here](https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgzMTkyNTYyNTQ1NDY4ODM1/tesla-battery-factory_2.jpg "Experts Say the Disruptive Electric Vehicle Revolution is Here")
+
+
+[Experts Say the Disruptive Electric Vehicle Revolution is Here](https://www.thestreet.com/technology/ev-checkpoint-tesla-ford)
+
+
+> The electric vehicle revolution is essentially here. It will be expensive and disruptive. It will create enormous opportunities for investors of every stripe.Real Money contributor Jim Collins believes that it will come in large part from the mainstream market that EVs have so far largely ignored. 'Elon Musk can bring on stage a guy in a robot suit at Tesla's  (TSLA) - Get Tesla Inc Report AI Day and grab all the media attention, but the move toward electrification won't be that simple. Also, crucially, it won't just involve entry-luxury and luxury cars, which comprise the entirety of Tesla's current offer,' Collins wrote recently in Real Money.
+
+
+***
+![Tucker Carlson Makes a Play for the Barbz](https://cdn.theatlantic.com/thumbor/nsIfIMbAp5Tv8Wpy1_MyyKstavs=/0x43:2000x1085/960x500/media/img/mt/2021/09/Atl_tuck_barbz_v1/original.png "Tucker Carlson Makes a Play for the Barbz")
+
+
+[Tucker Carlson Makes a Play for the Barbz](https://www.theatlantic.com/technology/archive/2021/09/nicki-minaj-barbz-tucker-carlson/620206/)
+
+
+> Nicki Minaj appears to be taking a break from Twitter. The rapper, who has more than 22 million followers on the platform and is known for spending nearly every day joking and bickering with them, has been uncharacteristically silent for the past week. The last entry in her feed is from September 15—a retweet of a fan's post reading, in part, 'When will people learn NICKI MINAJ is NOT going to be backed into any damn corner?'It all started two days earlier, the evening of the Met Gala, when she tweeted that she wasn't vaccinated against COVID-19 and wouldn't attend the event.
+
+
