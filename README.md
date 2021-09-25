@@ -3533,3 +3533,53 @@
 > I want to start using cheat sheets but I don't have much knowledge about them so can you list some resources.
 
 
+***
+![Hubble telescope peers deep into Milky Way galaxy, captures starfield](https://helios-i.mashable.com/imagery/articles/01wzHyE68JtXfCwF64D6gqs/hero-image.fill.size_1200x675.v1632585906.jpg "Hubble telescope peers deep into Milky Way galaxy, captures starfield")
+
+
+[Hubble telescope peers deep into Milky Way galaxy, captures starfield](https://mashable.com/article/nasa-hubble-stars-image)
+
+
+> Us Earthlings inhabit a solar system on one of the great spiral arms of the Milky Way galaxy.The legendary Hubble Space Telescope, orbiting Earth, peered inward and captured a vivid image of stars near the center of the Milky Way, a galaxy that's some 100,000 light-years across (or about 1,000,000,000,000,000,000 kilometers). NASA posted the image online on Friday.What can we see? A "sparkling starfield," writes NASA.That dense group of stars is called a "globular cluster," and that's specifically "globular cluster ESO 520-21," found near the center of the galaxy.
+
+
+***
+![Researchers create lunar life support system by baking moon dust](https://icdn.digitaltrends.com/image/digitaltrends/artist_impression_of_a_moon_base_concept-scaled1.jpg "Researchers create lunar life support system by baking moon dust")
+
+
+[Researchers create lunar life support system by baking moon dust](https://www.digitaltrends.com/news/moon-regolith-oxygen-water/)
+
+
+> For future missions to the moon — especially if we want to send a crew there for a significant period of time — we'll need to find a way to provide for essential needs. Bringing a whole lot of water and oxygen along on a rocket isn't practical because it's so heavy, so a different approach aims to make use of the resources available on the moon to create what's needed. Now, future lunar explorers may be able to create water and oxygen from moon dust, using research from the European Space Agency (ESA) and others.
+
+
+***
+![During the energy crisis, an MP blames the government for the ‘burden' of electric vehicles.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "During the energy crisis, an MP blames the government for the ‘burden' of electric vehicles.")
+
+
+[During the energy crisis, an MP blames the government for the ‘burden' of electric vehicles.](https://en.brinkwire.com/technology/during-the-energy-crisis-an-mp-blames-the-government-for-the-burden-of-electric-vehicles/)
+
+
+> During the energy crisis, an MP blames the government for the ‘burden' of electric vehicles. In the midst of the present energy crisis, a member of Parliament has blasted the government's attitude to the fossil-fuelled automobile ban. Just today, two energy suppliers, Green and Avro, discontinued operations due to a sharp increase in wholesale gas and power rates that is wreaking havoc on the business. The Government has been chastised by the All-Party Parliamentary Group, Fair Fuel for UK Motorists, and UK Hauliers over the energy situation.
+
+
+***
+![Amazon is having a SECRET SALE on Apple products today](https://icdn.digitaltrends.com/image/digitaltrends/ipad-air-4-space-grey-2.jpg "Amazon is having a SECRET SALE on Apple products today")
+
+
+[Amazon is having a SECRET SALE on Apple products today](https://www.digitaltrends.com/dtdeals/apple-products-deal-amazon-september-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. There's no doubt that Apple makes some of the best devices around, and if you're already embedded into its ecosystem, you're probably constantly on the hunt for great Apple deals. Today is your lucky day because Amazon is slashing the prices on tons of amazing Apple products. Whether you're looking for AirPods deals to improve your listening experience or iPad deals to take your productivity to the next level, this is the perfect sale for you.
+
+
+***
+![Basic Equipment for Student Filmmakers: Cameras, Lighting Kits, and More](https://www.indiewire.com/wp-content/uploads/2021/09/AdobeStock_457176137.jpeg?w=780 "Basic Equipment for Student Filmmakers: Cameras, Lighting Kits, and More")
+
+
+[Basic Equipment for Student Filmmakers: Cameras, Lighting Kits, and More](https://www.indiewire.com/shop/best-gear-for-student-filmmakers-1234667022/)
+
+
+> All products and services featured by IndieWire are independently selected by IndieWire editors. However, IndieWire may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes. So you've decided to pursue filmmaking. Perhaps you're inspired by how director Ava DuVernay brings stories to light about underrepresented communities, or George Lucas' ability to take audiences on cosmic adventures. Either way, being a filmmaker means that you have stories to share with the world.
+
+
