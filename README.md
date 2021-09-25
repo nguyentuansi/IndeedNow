@@ -3683,3 +3683,53 @@
 > Digital Trends may earn a commission when you buy through links on our site. If you do a lot of high-volume printing, whether it's for a small business or a large office with lots of people, a good laser printer can be a big time- and money-saver. In contrast to traditional inkjets, laser printers excel at putting out a lot of sharp prints and doing it very quickly (and for less cost per page than inkjet printers). Today's laser printers also boast features like wireless connectivity, color output, and even refillable toner tanks on a few models to save you even more, so there's never been a better time to upgrade.
 
 
+***
+![5 ways to make HTTP requests in JavaScript](https://external-preview.redd.it/4ybVox-7xItb9dw4fzgOxrKDLbjGG0dQAv8jbLhogJ8.jpg?auto=webp&s=fa2a79df9aeb2f3e3e24d4873ea67e1470c95a1f "5 ways to make HTTP requests in JavaScript")
+
+
+[5 ways to make HTTP requests in JavaScript](https://www.reddit.com/r/programming/comments/pvg3b5/5_ways_to_make_http_requests_in_javascript/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Fallout begins for far-right trolls who trusted Epik to keep their identities secret](https://external-preview.redd.it/mBaD8MNGAAefeVU7tBzRVcVVKu2PvfntuOvGjcDlcxc.jpg?auto=webp&s=3272a870264f1b7bc9f571f556e8b1d4c82b7eeb "Fallout begins for far-right trolls who trusted Epik to keep their identities secret")
+
+
+[Fallout begins for far-right trolls who trusted Epik to keep their identities secret](https://www.reddit.com/r/technology/comments/pvg0tz/fallout_begins_for_farright_trolls_who_trusted/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Resolving CORS policy error](https://external-preview.redd.it/ncaz4uQh_KR-9pXbrZIfazN1nRbR6re7TcFgr46YA20.jpg?auto=webp&s=70f0ea56ae2dc8e5e9c7f1e0d4e8a5d0f62f0c6a "Resolving CORS policy error")
+
+
+[Resolving CORS policy error](https://www.reddit.com/r/programming/comments/pvfwn1/resolving_cors_policy_error/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Molten ring in space allows Hubble to peer 9 billion years into the past](https://icdn.digitaltrends.com/image/digitaltrends/rings-of-relativity.jpg "Molten ring in space allows Hubble to peer 9 billion years into the past")
+
+
+[Molten ring in space allows Hubble to peer 9 billion years into the past](https://www.digitaltrends.com/news/hubble-einstein-ring/)
+
+
+> Gravity warps space in strange and counter-intuitive ways, and the bigger the source of gravity, the bigger the warping. One example of gravity's optical illusions is beautiful rings in space named Einstein rings, one of which was recently captured by the Hubble Space Telescope. Named for the physicist who predicted gravity's strange stretching influence on space, studying rings like the one shown below can help astronomers peer out far into the distance, seeing a galaxy as it looked over 9 billion years ago.
+
+
+***
+![Trading in your mobile to get a new phone to the wrong firm could lose you £146](https://www.thesun.co.uk/wp-content/uploads/2021/09/ML-Phones-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Trading in your mobile to get a new phone to the wrong firm could lose you £146")
+
+
+[Trading in your mobile to get a new phone to the wrong firm could lose you £146](https://www.thesun.co.uk/tech/16241433/worst-mobile-phone-trade-ins/)
+
+
+> TRADING in your mobile to get the new iPhone? Choose the wrong firm and you could end up getting just A QUARTER of its value. There are more options than ever, with even Apple taking in old iPhones or rival devices as part-exchange. Trading in your mobile for the new iPhone? Make sure you shop aroundCredit: Getty But while Carphone Warehouse offers £105 for a trade-in on a OnePlus 6 phone, MusicMagpie offers only £26. Second-hand gadgets are a huge market these days, with many people keen to save on an iPhone or Xbox by buying a used one.
+
+
