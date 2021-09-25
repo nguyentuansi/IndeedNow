@@ -3583,3 +3583,53 @@
 > All products and services featured by IndieWire are independently selected by IndieWire editors. However, IndieWire may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes. So you've decided to pursue filmmaking. Perhaps you're inspired by how director Ava DuVernay brings stories to light about underrepresented communities, or George Lucas' ability to take audiences on cosmic adventures. Either way, being a filmmaker means that you have stories to share with the world.
 
 
+***
+![How to watch the James Bond movies in order](https://cdn.mos.cms.futurecdn.net/ezkyC2EqZGMPTammM3VZRg-1200-80.jpg "How to watch the James Bond movies in order")
+
+
+[How to watch the James Bond movies in order](https://www.techradar.com/how-to/how-to-watch-the-james-bond-movies-in-order)
+
+
+> 'The name's Bond. James Bond.'It's nearly six decades since Sean Connery first uttered those immortal words in Dr No, and 24 (official) movies and six actors later, the Bond series remains one of the most popular franchises in movie history.But with all those missions to choose from, working out how to watch the James Bond movies in order isn't quite as simple as it might seem. Sure, you could view them in release date order, but what if you prefer the quippy charm of Roger Moore to Sean Connery's more rugged portrayal of a government assassin? What if Daniel Craig, the current incumbent of the famous role, is your definitive 007? And what if you'd rather skip the more disappointing entries in the franchise entirely – A View to a Kill and Die Another Day, we have you in our sights…With the long-delayed 26th entry in the 007 series, No Time To Die, arriving in theaters on September 30 (UK)/October 8 (US), we've taken a tour through nearly 60 years of glamorous locales, femmes fatales and vodka martinis (shaken, not stirred, naturally) to explain how to watch the James Bond movies in order.
+
+
+***
+![Meet the Creels: Netflix deepens the 'Stranger Things 4' mystery in a new teaser](https://helios-i.mashable.com/imagery/videos/026w6dV2GCpQ6s0bb0pBISU/hero-image.fill.size_1200x675.v1632591908.png "Meet the Creels: Netflix deepens the 'Stranger Things 4' mystery in a new teaser")
+
+
+[Meet the Creels: Netflix deepens the 'Stranger Things 4' mystery in a new teaser](https://mashable.com/video/netflix-stranger-things-4-creels-trailer)
+
+
+> You know, just your typical mid-20th century happy family home in Indiana. Except for the mutilated bunny carcass. And the dead(?) kids.Whatever happened to the Creels, it's a topic of interest for the kids of Netflix's Stranger Things. In the show's fourth season, which is set to premiere in 2022, the Creel house we see in this new teaser is important enough to bring out the whole gang. Don't expect much more than some vibes, though. There's no premiere date yet — is the "003/004" video description on YouTube a date tease, an episode number tease, or something else entirely? — and we haven't even gotten a full trailer.
+
+
+***
+![New Cobra Kai season 4 trailer reveals final release date](https://cdn.mos.cms.futurecdn.net/Uj3BVUGWCtTUsWvXrfqJoj-1200-80.jpg "New Cobra Kai season 4 trailer reveals final release date")
+
+
+[New Cobra Kai season 4 trailer reveals final release date](https://www.techradar.com/news/new-cobra-kai-season-4-trailer-reveals-final-release-date)
+
+
+> (Image credit: Courtesy of Netflix) Netflix has released a new trailer for Cobra Kai season 4, confirming that the show will release on the streamer on December 31.After a lengthy preamble, the release date was unveiled during Netflix's Tudum event by the cast. This technically means you've had two seasons of the Karate Kid spin-off in a single year – season 3 arrived back on January 1. Cobra Kai season 5 has already been confirmed.The trailer shows us more of the alliance of Johnny Lawrence (William Zabka) and Daniel LaRusso (Ralph Macchio) as they prepare to take on Cobra Kai, still in the hands of Kreese (Martin Kove).
+
+
+***
+![This Week in Apps: PayPal launches ‘super app,' Twitter adds crypto tips, Apple won't take Fortnite back – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753 "This Week in Apps: PayPal launches ‘super app,' Twitter adds crypto tips, Apple won't take Fortnite back – TechCrunch")
+
+
+[This Week in Apps: PayPal launches ‘super app,' Twitter adds crypto tips, Apple won't take Fortnite back – TechCrunch](https://techcrunch.com/2021/09/25/this-week-in-apps-paypal-launches-super-app-twitter-adds-crypto-tips-apple-wont-take-fortnite-back/)
+
+
+> Sarah Perez @sarahintampa / 7 hours Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consumer spend in 2020. Consumers last year also spent 3.5 trillion minutes using apps on Android devices alone. And in the U.S., app usage surged ahead of the time spent watching live TV. Currently, the average American watches 3.
+
+
+***
+![Dwayne Johnson, Ryan Reynolds, and Gal Gadot fight in a scene from Netflix's 'Red Notice'](https://helios-i.mashable.com/imagery/videos/06fjTZLEsNRLGT4A5cLekqS/hero-image.fill.size_1200x675.v1632591010.jpg "Dwayne Johnson, Ryan Reynolds, and Gal Gadot fight in a scene from Netflix's 'Red Notice'")
+
+
+[Dwayne Johnson, Ryan Reynolds, and Gal Gadot fight in a scene from Netflix's 'Red Notice'](https://mashable.com/video/netflix-red-notice-clip-ryan-reynolds-gal-gadot-dwayne-johnson)
+
+
+> Netflix just dropped a clip for its upcoming comedy Red Notice, and it results in a "confusing erection."Red Notice stars Dwayne Johnson as an FBI profiler responding to an Interpol-issued "red notice," or a global alert to hunt down the world's most wanted. It just so happens that the most-wanted art thief (Ryan Reynolds) becomes Johnson's partner as they attempt to catch an even more shifty criminal (Gal Gadot). The clip Netflix shared features Johnson and Reynolds running into Gadot in what appears to be a museum.
+
+
