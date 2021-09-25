@@ -3307,3 +3307,44 @@
 > Sophia Kunthara / Crunchbase News: Analysis: with 26 exits so far, 2021 could be Kleiner Perkins' best year for number of exits in at least a decade — Kleiner Perkins is one of the most storied venture capital firms in Silicon Valley, making early investments in companies like Genentech, Amazon and Google …
 
 
+***
+[Samsung Galaxy S22 Ultra with S Pen marks the end of the Note series; Read more](http://www.pinkvilla.com/tech/news/samsung-galaxy-s22-ultra-with-s-pen-marks-the-end-of-the-note-series-read-more-903525)
+
+
+> Attach Main technology Image: Image Caption: Samsung Galaxy S22 Ultra with S Pen marks the end of the Note series; Read more Social Media Image : Enter the Technology details: Samsung is all set to launch its new flagship, Galaxy S22 Ultra. As rumours say, this device will be getting the S Pen support and that confirms that the Galaxy Note series will be discontinued now. Earlier the Samsung Galaxy Note series used to come with attachable S Pen support and was quite a success in the global market.
+
+
+***
+[A viral TikTok video from July caused many young women to use Prolific, a survey website for scientists, skewing the demographic data for thousands of studies (Rafi Letzter/The Verge)](http://www.techmeme.com/210925/p2#a210925p2)
+
+
+> Rafi Letzter / The Verge: A viral TikTok video from July caused many young women to use Prolific, a survey website for scientists, skewing the demographic data for thousands of studies — Thousands of scientific studies had to toss out weeks of data because of a 56-second TikTok video by a teenager.
+
+
+***
+![WhatsApp is soon expected to get 5 new features: Check details](https://images.indianexpress.com/2021/07/WhatsApp-3.jpg "WhatsApp is soon expected to get 5 new features: Check details")
+
+
+[WhatsApp is soon expected to get 5 new features: Check details](https://indianexpress.com/article/technology/social/whatsapp-is-soon-expected-to-get-5-new-features-check-details-7533453/)
+
+
+> WhatsApp is working on a bunch of features and it is expected to release them in the near future. The company is reportedly planning to add a new option for last seen, a new disappearing chats feature and a redesigned group info page. WhatsApp could also soon allow you to send high-resolution videos or images. Read on to know more. New option for Last Seen: In the near future, WhatsApp will add the ability to hide last seen for a specific contact. This feature has been spotted by WaBetaInfo and it is soon expected to hit the stable version.
+
+
+***
+![Edge或很快用Followable Web取代现有的Collections功能](https://static.cnbetacdn.com/article/2021/0925/ef21e28bcee30f1.jpg "Edge或很快用Followable Web取代现有的Collections功能")
+
+
+[Edge或很快用Followable Web取代现有的Collections功能](http://www.cnbeta.com/articles/tech/1183323.htm)
+
+
+> MSPU 援引 Reddit 网友 Leo Varela 的爆料称：微软似乎正在为 Edge 96 Canary 开发一项新功能，据说它类似于 Pinboard，可用于整理归纳 Web 内容，未来或有望取代目前的 Collections 收藏。感兴趣的朋友，可在 Edge Canary 中找到'#edge-folloable-view'标记，并看到如下描述： Edge 91（图 via Windows Latest）● 尝试 followable web 测试功能：-- 您现有的收藏内容不会被自动迁移，但 followable web 功能将很快到来，且你将能够随时切换回来。-- 其次，这项功能适用于 Mac、Windows、以及 Linux 平台上的 Edge Canary 。MSPU 指出，虽然官方描述有些模棱两可，但它很可能与 Chrome 浏览器正在开发的新'关注'（Follow）有关。猜测 Follow 功能将允许 Web 浏览器用户轻松关注特定的网站，并可在 Chrome‘发现'版块的‘关注'选项卡中获取最近更新的内容。至于这种新颖的 RSS 阅读器体验是否会比 Pinb
+
+
+***
+[Stairwell, which scans companies' data to detect if they are compromised or were in the past, raises $20M Series A led by Sequoia and Accel (Carly Page/TechCrunch)](http://www.techmeme.com/210925/p1#a210925p1)
+
+
+> Carly Page / TechCrunch: Stairwell, which scans companies' data to detect if they are compromised or were in the past, raises $20M Series A led by Sequoia and Accel — Back when Stairwell emerged from stealth in 2020, the startup was shrouded in secrecy. Now with $20 million in Series A funding …
+
+
