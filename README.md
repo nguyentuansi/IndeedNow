@@ -3633,3 +3633,53 @@
 > Netflix just dropped a clip for its upcoming comedy Red Notice, and it results in a "confusing erection."Red Notice stars Dwayne Johnson as an FBI profiler responding to an Interpol-issued "red notice," or a global alert to hunt down the world's most wanted. It just so happens that the most-wanted art thief (Ryan Reynolds) becomes Johnson's partner as they attempt to catch an even more shifty criminal (Gal Gadot). The clip Netflix shared features Johnson and Reynolds running into Gadot in what appears to be a museum.
 
 
+***
+![Hyundai's bold new SUV tested](https://content.api.news/v3/images/bin/45234594bd99d43068753ee9f70b863f "Hyundai's bold new SUV tested")
+
+
+[Hyundai's bold new SUV tested](https://www.news.com.au/technology/motoring/new-cars/2021-hyundai-tucson-review-bold-looks-and-a-capable-turbo-engine-shine-through/news-story/0dba0a7dd5bead477a9552f97d244a62)
+
+
+> Every car maker is searching for an answer to Toyota's hyper successful RAV4 SUV. Hyundai's head-turning SUV might be just that.Don't miss out on the headlines from New Cars. Followed categories will be added to My News.Medium SUVs are the most popular type of new vehicle in Australia and Hyundai is trying to carve out a big slice of the market with its new Tucson.Here are five things you need to know about the new Hyundai Tucson.IT'S NO SHRINKING VIOLETThe previous generation Tucson was a relatively clean and conservative design but the new one is much edgier, with sharply chiselled creases in its flanks and a huge honeycomb grille that dominates the front end.
+
+
+***
+![The Witcher season 2: release date, trailer, cast, episode titles and more](https://cdn.mos.cms.futurecdn.net/fSdNCFhvpmgdeDhG59aN7o-1200-80.jpg "The Witcher season 2: release date, trailer, cast, episode titles and more")
+
+
+[The Witcher season 2: release date, trailer, cast, episode titles and more](https://www.techradar.com/news/the-witcher-season-2-release-date-netflix)
+
+
+> Toss a coin to your Witcher, because The Witcher season 2 will be here before the end of the year.After the fate of the Iron Throne was decided in the Game of Thrones finale, we had mere months to wait for our next epic fantasy fix to arrive, in the form of Netflix's hit adaptation of Andrzej Sapkowski's bestselling novels. Although The Witcher season 2 has taken its time coming, the streaming giant has now confirmed that the new run of eight episodes will debut on December 17, a whole two years after its predecessor.
+
+
+***
+![How to watch Berlin Marathon 2021 and live stream online from anywhere](https://cdn.mos.cms.futurecdn.net/qvNMN2RxWUdvNXGZemC49S-1200-80.jpg "How to watch Berlin Marathon 2021 and live stream online from anywhere")
+
+
+[How to watch Berlin Marathon 2021 and live stream online from anywhere](https://www.techradar.com/news/how-to-watch-berlin-marathon-2021-and-live-stream-online-from-anywhere)
+
+
+> (Image credit: JOHN MACDOUGALL/AFP via Getty Images) Dust off those trainers and dig out your running vest, we're finally back in Berlin for the marathon after two years of waiting. You won't want to miss a second from the 42km circuit so keep reading to find out how to watch the Berlin Marathon online and live stream from anywhere.There were no feet pounding the pavements of Berlin in 2020 due to the pandemic, but one of the flattest and therefore fastest marathons on the circuit is back. The top three men's marathon times ever have been set on the picturesque streets of the German capital - so could we see a new world record this year?Three-time Olympic gold medallist and five-time world champion Kenenisa Bekele will hope to do just that after missing the world record by a mere two seconds the last time the race was held.
+
+
+***
+![UWM Launches 'BOLT', Giving Mortgage Brokers Tools to Achieve 15 Minute Initial Approval](https://mms.businesswire.com/media/20210925005030/en/829927/23/UWM%C2%AE_Color.jpg "UWM Launches 'BOLT', Giving Mortgage Brokers Tools to Achieve 15 Minute Initial Approval")
+
+
+[UWM Launches 'BOLT', Giving Mortgage Brokers Tools to Achieve 15 Minute Initial Approval](https://www.businesswire.com/news/home/20210925005030/en/UWM-Launches-%E2%80%9CBOLT%E2%80%9D-Giving-Mortgage-Brokers-Tools-to-Achieve-15-Minute-Initial-Approval)
+
+
+> PONTIAC, Mich.--(BUSINESS WIRE)--United Wholesale Mortgage, (UWM), the #1 wholesale and purchase lender in America, announced today the launch of BOLT, a self-service platform that provides the ability to get an initial approval for qualified borrowers in just 15 minutes. Mat Ishbia, president and CEO of UWM made this announcement today at the Association of Independent Mortgage Experts (AIME) live Fuse event. This revolutionary tool utilizes data extraction, auto doc recognition and smart technology to input information from items such as driver's licenses, income statements, county records and more.
+
+
+***
+![Best cheap laser printer deals for September 2021](https://icdn.digitaltrends.com/image/digitaltrends/brother-monochrome-laser-printer.jpg "Best cheap laser printer deals for September 2021")
+
+
+[Best cheap laser printer deals for September 2021](https://www.digitaltrends.com/dtdeals/best-laser-printer-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you do a lot of high-volume printing, whether it's for a small business or a large office with lots of people, a good laser printer can be a big time- and money-saver. In contrast to traditional inkjets, laser printers excel at putting out a lot of sharp prints and doing it very quickly (and for less cost per page than inkjet printers). Today's laser printers also boast features like wireless connectivity, color output, and even refillable toner tanks on a few models to save you even more, so there's never been a better time to upgrade.
+
+
