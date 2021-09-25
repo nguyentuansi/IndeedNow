@@ -3213,3 +3213,50 @@
 > © Instagram / Bradley Cooper By: Michael Miller2021-09-25 03:01:05 Know what's going>>> Subscribe NOW to our YouTube <<< Last News: Michael Keaton's Email Blunder Results in Hysterical Bradley Cooper Story and See Bradley Cooper and Cate Blanchett in Dark Trailer for Guillermo de Toro's Nightmare Alley UCSD's International Institute aims to help Afghan scholars — and their research — get to safety. Colorado Mission of Mercy: ‘A kind dental clinic and you will be taken care of'. Lakeside Health and Wellness celebrates grand opening.
 
 
+***
+![Rainbow Six Siege brings back Showdown event](https://cdn.mos.cms.futurecdn.net/dxY3ip8CEd3ofGT2cm6QTV-1200-80.jpg "Rainbow Six Siege brings back Showdown event")
+
+
+[Rainbow Six Siege brings back Showdown event](https://www.techradar.com/news/rainbow-six-siege-brings-back-showdown-event)
+
+
+> (Image credit: Ubisoft) The developers of Rainbow Six Siege at Ubisoft have made quite a few special events over time. And one of the most popular was the Showdown event which is back for 2021. The Wild West-themed shootout mode features operators from the game in two teams. While Rainbow Six Siege is one of the most popular first person shooter competitive games out there. It does get a bit tedious at times with albeit a while roster of larger-than-life characters chasing each other through hallways.
+
+
+***
+![RTC (Real-Time Communication) at scale](https://external-preview.redd.it/-FGzdAbEMk2sHrk7mgiBen2e8aFOZ2n2RMMu2GeNypw.jpg?auto=webp&s=24031745474025e9ac74ecd962e6ecbe82eb07bf "RTC (Real-Time Communication) at scale")
+
+
+[RTC (Real-Time Communication) at scale](https://www.reddit.com/r/programming/comments/puxfr4/rtc_realtime_communication_at_scale/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![iPhone 13 esim currently not supported on mint mobile](https://images.macrumors.com/social/?t=2313304&v=6 "iPhone 13 esim currently not supported on mint mobile")
+
+
+[iPhone 13 esim currently not supported on mint mobile](https://forums.macrumors.com/threads/iphone-13-esim-currently-not-supported-on-mint-mobile.2313304/)
+
+
+> Hi all, Title says it all. I saw posts about Verizon and wanted to also warn people from using esim with mint mobile and iPhone 13. It currently does not work. According to their support services they have an internal document. No clue what their issue is or how long it will last but they were not very helpful. They need to send me a new physical sim. I don't know enough about SIMs. I was surprised they couldn't reactivate my old SIM, since I had all the serial numbers. Ah well… luckily I thought of reactivating my old iPhone with the esim and at least now can use the old phone while waiting for the new sim.
+
+
+***
+![New shopping app KaiKai woos Hong Kong consumers with two ‘pushed' deals a day](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/24/b6bbd3f4-1d3c-11ec-897a-4119d31a6faa_image_hires_214138.jpg?itok=lqpc-cn8&v=1632490906 "New shopping app KaiKai woos Hong Kong consumers with two ‘pushed' deals a day")
+
+
+[New shopping app KaiKai woos Hong Kong consumers with two ‘pushed' deals a day](https://www.scmp.com/tech/tech-trends/article/3150046/new-shopping-app-kaikai-woos-hong-kong-consumers-two-pushed-deals)
+
+
+> On its launch in Hong Kong on September 18 the app was the third most downloaded app on the city's iOS app store as it wooed young consumers with two flash sale deals every day at 12pm and 8pm. Photo: SCMP/Sam Tsang
+
+
+***
+[Git Hacks](https://www.reddit.com/r/programming/comments/puxd7z/git_hacks/)
+
+
+> no comments yetBe the first to share what you think!
+
+
