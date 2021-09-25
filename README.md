@@ -3348,3 +3348,44 @@
 > Carly Page / TechCrunch: Stairwell, which scans companies' data to detect if they are compromised or were in the past, raises $20M Series A led by Sequoia and Accel — Back when Stairwell emerged from stealth in 2020, the startup was shrouded in secrecy. Now with $20 million in Series A funding …
 
 
+***
+[Project Ideas](https://www.reddit.com/r/Python/comments/pv2f0q/project_ideas/)
+
+
+> Wassup everyone. I want to code something in python and I need some ideas. Does anyone have any python project ideas that I can code?Skill level: Intermediate
+
+
+***
+![Techlands Dying Light Platinum Edition is coming to the Nintendo Switch on October 19th, 2021](https://s2.n4g.com/news/2444058_0.jpg "Techlands Dying Light Platinum Edition is coming to the Nintendo Switch on October 19th, 2021")
+
+
+[Techlands Dying Light Platinum Edition is coming to the Nintendo Switch on October 19th, 2021](https://n4g.com/news/2444058/techlands-dying-light-platinum-edition-is-coming-to-the-nintendo-switch-on-october-19th-2021)
+
+
+> 20°"The Poland-based indie games developer Techland today announced with great delight and excitement that they are going to release 'Dying Light Platinum Edition' to the Nintendo Switch on October 19th, 2021 (as revealed via the 2021 Nintendo Direct show)." - Jonas Ek, TGG. Read Full Story >>thegg.net
+
+
+***
+[GBP/JPY Weekly Outlook](https://www.actionforex.com/technical-outlook/gbpjpy-outlook/405581-gbp-jpy-weekly-outlook-234/)
+
+
+> GBP/JPY defended 149.03 key support and rebounded strongly last week. The development suggests that fall from 152.28 has completed. Initial bias stays mildly on the upside for 152.82 resistance first. Sustained break there will suggest that correction from 156.05 has completed, and turn near term outlook bullish for retesting this high. On the downside, break […] The post GBP/JPY Weekly Outlook appeared first on Action Forex.
+
+
+***
+![Apple iPhone 13 Pro's display limit third-party app animations to 60Hz: Report](https://images.indianexpress.com/2021/09/Apple-iPhone-13-Pro-Max1.jpg "Apple iPhone 13 Pro's display limit third-party app animations to 60Hz: Report")
+
+
+[Apple iPhone 13 Pro's display limit third-party app animations to 60Hz: Report](https://indianexpress.com/article/technology/mobile-tabs/apple-iphone-13-pro-pro-max-not-rendering-all-apps-in-120hz-here-are-the-details-7533576/)
+
+
+> The new iPhone 13 Pro and 13 Pro Max smartphones come with support for Apple's ProMotion display technology, which allows a screen refresh rate of up to 120Hz. While the feature has been on the iPad Pro since 2017, this is the first time Apple is offering it on the iPhones. The new 2021 Apple iPhone 13 Pro models are capable of adapting refresh rates ranging from 10Hz all the way to 120Hz for a smoother viewing experience. As per a report by 9to5Mac, the ProMotion technology allows the full 120Hz for scrolling and full-screen transitions, but animations remain limited to 60Hz.
+
+
+***
+[EUR/JPY Weekly Outlook](https://www.actionforex.com/technical-outlook/eurjpy-outlook/405575-eur-jpy-weekly-outlook-235/)
+
+
+> EUR/JPY defended 127.91 support and then rebounded last week. The development suggests that fall from 130.73 has completed. Initial bias stays on the upside this week for 130.73 resistance first. Firm break there will argue that correction from 134.11 has completed and turn near term outlook bullish for retesting this high. On the downside, break […] The post EUR/JPY Weekly Outlook appeared first on Action Forex.
+
+
