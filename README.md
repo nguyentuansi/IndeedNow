@@ -3486,3 +3486,50 @@
 > Nicki Minaj appears to be taking a break from Twitter. The rapper, who has more than 22 million followers on the platform and is known for spending nearly every day joking and bickering with them, has been uncharacteristically silent for the past week. The last entry in her feed is from September 15—a retweet of a fan's post reading, in part, 'When will people learn NICKI MINAJ is NOT going to be backed into any damn corner?'It all started two days earlier, the evening of the Met Gala, when she tweeted that she wasn't vaccinated against COVID-19 and wouldn't attend the event.
 
 
+***
+![Measuring The Efficiency Of Algorithms](https://external-preview.redd.it/VPtkk7AVzgoiYYQag3EX1gmWrbySG2k98beJCH5V3Tc.jpg?auto=webp&s=d2f977b564886d2b56e18ace0ae31859e79e0a1b "Measuring The Efficiency Of Algorithms")
+
+
+[Measuring The Efficiency Of Algorithms](https://www.reddit.com/r/Python/comments/pv7djy/measuring_the_efficiency_of_algorithms_with/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Realme Narzo 50A, Realme Narzo 50i launched in India: Check features, price](https://images.financialexpress.com/2021/09/z3-10.jpg "Realme Narzo 50A, Realme Narzo 50i launched in India: Check features, price")
+
+
+[Realme Narzo 50A, Realme Narzo 50i launched in India: Check features, price](https://www.financialexpress.com/industry/technology/realme-narzo-50a-realme-narzo-50i-launched-in-india-check-features-price/2337654/)
+
+
+> By: FE Online | September 25, 2021 7:08 PMThe price of Realme Narzo 50i has been set in the economical range at Rs. 7,499 for the 2GB RAM + 32GB variant and at Rs. 8,499 for the 4GB RAM + 64GB variant.Realme Narzo 50A and Realme Narzo 50i smartphones have been launched in India along with the simultaneous launch of the Smart TV Neo 32-inch and Realme Band 2 fitness band on Friday. Out of the two smartphone models launched by the company, the Realme Narzo 50A is the more powerful model. The phone has a 6,000mAh battery and gets its power from the MediaTek Helio G85 SoC.
+
+
+***
+![Watchos 8 and ‘Now Playing'](https://images.macrumors.com/social/?t=2313408&v=6 "Watchos 8 and ‘Now Playing'")
+
+
+[Watchos 8 and ‘Now Playing'](https://forums.macrumors.com/threads/watchos-8-and-now-playing.2313408/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hi everyone. I am running into a wall with my Google-Fu skills. I am trying to turn off the now playing screen on my watch when my phone is connect to CarPlay and using Apple Music. When I'm in the car and look at my watch, I want it to show my watch face and not music controls. Any help would be appreciated. You must log in or register to reply here.
+
+
+***
+![3D graph animation in Jupyter Notebook using ipywidgets](https://external-preview.redd.it/2HNA0MLD0YtzS_z7QBfK8BqbNXSs05H1l4jAnDRcNK0.jpg?auto=webp&s=b80c4214f792541c9fe75a3db6b1b8e287386c73 "3D graph animation in Jupyter Notebook using ipywidgets")
+
+
+[3D graph animation in Jupyter Notebook using ipywidgets](https://www.reddit.com/r/Python/comments/pv6q08/3d_graph_animation_in_jupyter_notebook_using/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[What is the best resource to get cheat sheets?](https://www.reddit.com/r/Python/comments/pv6pjb/what_is_the_best_resource_to_get_cheat_sheets/)
+
+
+> I want to start using cheat sheets but I don't have much knowledge about them so can you list some resources.
+
+
