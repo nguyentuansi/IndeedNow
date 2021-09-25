@@ -3260,3 +3260,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Google CEO sought to keep Incognito mode issues out of spotlight, lawsuit alleges](https://images.indianexpress.com/2020/12/Pichai_1.jpg "Google CEO sought to keep Incognito mode issues out of spotlight, lawsuit alleges")
+
+
+[Google CEO sought to keep Incognito mode issues out of spotlight, lawsuit alleges](https://indianexpress.com/article/technology/tech-news-technology/google-ceo-sought-to-keep-incognito-mode-issues-out-of-spotlight-lawsuit-alleges-7533369/)
+
+
+> Google Chief Executive Sundar Pichai in 2019 was warned that describing the company's Incognito browsing mode as 'private' was problematic, yet it stayed the course because he did not want the feature 'under the spotlight,' according to a new court filing. Google spokesman José Castañeda told Reuters that the filing 'mischaracterizes emails referencing unrelated second and third-hand accounts.' The Alphabet Inc unit's privacy disclosures have generated regulatory and legal scrutiny in recent years amid growing public concerns about online surveillance.
+
+
+***
+![Apple users soon can add COVID vaccine card to Wallet](https://fox5sandiego.com/wp-content/uploads/sites/15/2021/09/apple-1-1.jpg?w=1280 "Apple users soon can add COVID vaccine card to Wallet")
+
+
+[Apple users soon can add COVID vaccine card to Wallet](https://www.kron4.com/features/tech-trends/apple-users-can-soon-add-covid-vaccine-card-to-wallet/)
+
+
+> by: Erica Pieschke Posted: Sep 24, 2021 / 08:41 PM PDT / Updated: Sep 24, 2021 / 08:41 PM PDT FILE – In this Wednesday, Dec. 16, 2020 file photo, the logo of Apple is illuminated at a store in the city center in Munich, Germany. (AP Photo/Matthias Schrader, file) SAN FRANCISCO, Calif. (KRON) – Attention Apple users! You will soon be able to add your vaccination records to the Apple Wallet app. As of Monday, users can also store COVID-19 vaccination and test results in the Health app. This is one of the features of iOS 15 that was launched this week.
+
+
+***
+![Ring programming language version 1.15 is released!](https://external-preview.redd.it/8rkRQG1UBPOsFzo3aeDNBnCGXl2F3YTAz0aH-eSj2rc.jpg?auto=webp&s=dde26e5dfff60bf1b14d1076fa22f3b4500659c7 "Ring programming language version 1.15 is released!")
+
+
+[Ring programming language version 1.15 is released!](https://www.reddit.com/r/programming/comments/puywzr/ring_programming_language_version_115_is_released/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Karnataka inks MoAs worth Rs 100.52 crore to promote technologies](https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/21/full/1626886930-5701.jpg "Karnataka inks MoAs worth Rs 100.52 crore to promote technologies")
+
+
+[Karnataka inks MoAs worth Rs 100.52 crore to promote technologies](https://www.business-standard.com/article/technology/karnataka-inks-moas-worth-rs-100-52-crore-to-promote-technologies-121092500189_1.html)
+
+
+> To facilitate the growth of emerging technologies in the state, the Karnataka government has inked 3 MoAs (Memorandum of Associations) worth Rs 100.52 crores. In an event 'Azadi ka Amrit Mahotsav - Innovation and Indigenization in Karnataka - a Gateway for inclusive and equitable growth' jointly organised by Karnataka and DPIIT aligning with Central government's initiative "Azadi ka Amrit Mahotsav", MoAs were signed on Friday in the presence of C.N. Ashwath Narayan, the Karnataka Minister for Electronics, IT/BT and Science &Technology.
+
+
+***
+[Analysis: with 26 exits so far, 2021 could be Kleiner Perkins' best year for number of exits in at least a decade (Sophia Kunthara/Crunchbase News)](http://www.techmeme.com/210924/p27#a210924p27)
+
+
+> Sophia Kunthara / Crunchbase News: Analysis: with 26 exits so far, 2021 could be Kleiner Perkins' best year for number of exits in at least a decade — Kleiner Perkins is one of the most storied venture capital firms in Silicon Valley, making early investments in companies like Genentech, Amazon and Google …
+
+
