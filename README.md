@@ -3820,3 +3820,53 @@
 > (Image credit: Future) It's a fantastic time to score deals on Apple devices thanks to a host of new devices that were released this week. We're rounding up the top Apple deals for you below, including the iPhone, AirPods, iPad, the Apple Watch, and more.Some of today's best Apple deals include the best-selling AirPods Pro on sale for $197 (was $249), the Apple Watch 6 down to $349 (was $399), and the powerful iPad Air 4 on sale for a record-low price of $499.99 (was $599). If you're looking for iPhone deals, Apple has a $100 discount on the iPhone 11 and get the powerful iPhone 12 on sale for $599 (was $799).
 
 
+***
+![Tech Q&A: When a Chromebook no longer receives security updates](https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg "Tech Q&A: When a Chromebook no longer receives security updates")
+
+
+[Tech Q&A: When a Chromebook no longer receives security updates](https://www.unionleader.com/nh/lifestyles/tech-q-a-when-a-chromebook-no-longer-receives-security-updates/article_3f900fb0-a755-5e10-a392-1cb70b151df5.html)
+
+
+> Contact Steve Alexander at steve.j.alexander@gmail.com. Please include a full name, city and phone number.
+
+
+***
+![To case or not to case. Make your case](https://images.macrumors.com/social/?t=2313602&v=6 "To case or not to case. Make your case")
+
+
+[To case or not to case. Make your case](https://forums.macrumors.com/threads/to-case-or-not-to-case-make-your-case.2313602/)
+
+
+> This phone feels so damn good without a case. The screen also looks better without all the extra borders. Will probably continue to case up, but curious what others will do? May just keep it naked when at home to appreciate the craftsmanship. I jeer when I hear that flagships from other manufacturers use plastic, but then I end up keeping my iPhone in…plastic. 🤷 Reactions: nordique I tend to keep my phones naked and get apple care it's expensive but when you factor in a good quality case and screen protector, it ends up being about twice the price for me it's just peace of mind.
+
+
+***
+![My Rust-based Python library to detect file type](https://external-preview.redd.it/1bGLXupggBTgEqtxtXEbmKuuA0B2jqH-l-6a6F7oRnw.jpg?auto=webp&s=51fd7e34f38e3ff672d817a3d006d5294353652d "My Rust-based Python library to detect file type")
+
+
+[My Rust-based Python library to detect file type](https://www.reddit.com/r/Python/comments/pvlz2h/my_rustbased_python_library_to_detect_file_type/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![FIFA 22 Releasing on October 1: All You Need to Know](https://i.gadgets360cdn.com/large/FIFA_22_announcement_1626074539139.jpg "FIFA 22 Releasing on October 1: All You Need to Know")
+
+
+[FIFA 22 Releasing on October 1: All You Need to Know](https://gadgets.ndtv.com/games/features/fifa-22-release-date-price-web-app-review-player-ratings-demo-early-access-trial-ea-play-ps5-ps4-xbox-series-s-x-pc-2553517)
+
+
+> FIFA 22 is set to release on October 1. EA Sports' annual football simulator is back again with the latest squads, player ratings, and a first-in-the-franchise HyperMotion Technology that will exclusively be available on next-gen consoles and Stadia. If you've played the recent FIFA titles, you pretty much know what to expect in terms of gameplay and match formats. Over 17,000 players, over 700 clubs, and over 30 officially licensed leagues will be available to you on FIFA 22 to test your skills against AI, online players, and your friends in couch multiplayer like all previous titles.
+
+
+***
+![Google could host its fall event on October 5: Here's everything we expect to see](https://images.indianexpress.com/2021/09/Google-Pixel-6-Series.jpg "Google could host its fall event on October 5: Here's everything we expect to see")
+
+
+[Google could host its fall event on October 5: Here's everything we expect to see](https://indianexpress.com/article/technology/mobile-tabs/google-may-host-new-event-on-october-5-could-it-be-the-pixel-6-series-7534859/)
+
+
+> Now that Apple has taken the wraps of its fresh iPhone 13 series, the tech community has another major launch to look forward to, this time on the Android side. Since Google revealed the new Pixel 6 series smartphones back in early August, users have been waiting for the devices to launch commercially. Now, it seems we have a date. Google apparently has an event planned on October 5, suggests a screenshot by XDA Developer's Mishaal Rahman. The screenshot shows a now deleted article by CNET that talked about the upcoming event.
+
+
