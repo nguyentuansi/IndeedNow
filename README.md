@@ -4008,3 +4008,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Python List Comprehension Explained in 49seconds!!](https://external-preview.redd.it/tf9DEghDNtYrUXgWuj6G-cqsqmW6Vv00WxX3hGPkk0E.jpg?auto=webp&s=2b2d1f794a81fa7cbd6a0118d5570d4357e3acfe "Python List Comprehension Explained in 49seconds!!")
+
+
+[Python List Comprehension Explained in 49seconds!!](https://www.reddit.com/r/Python/comments/pvsk1g/python_list_comprehension_explained_in_49seconds/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Why are so few people actually using 5G in the U.S.? Here's what the experts say](https://icdn.digitaltrends.com/image/digitaltrends/ipad-mini-5g.jpg "Why are so few people actually using 5G in the U.S.? Here's what the experts say")
+
+
+[Why are so few people actually using 5G in the U.S.? Here's what the experts say](https://www.digitaltrends.com/mobile/5g-rollout-lagging-united-states/)
+
+
+> Despite many devices boasting 5G capabilities these days, a recent study showed people in the U.S. spend less than 25% of their online time connected to a 5G network. This may be because 5G-enabled devices are outpacing 5G access. Last year, 14 million users subscribed to mobile 5G services, and the number was forecasted to grow to 554 million by the end of this year. Today, more than halfway into 2021, T-Mobile has already connected 305 million people with 5G networks. Along with T-Mobile, other major mobile operators like Verizon and AT&T were quick to roll out 5G in the last few months, collectively covering 75% of the U.
+
+
+***
+![Silulo Ulutho and the 17-year struggle to close digital divide in townships](https://image-prod.iol.co.za/resize/650x366/Luvuyo-Rani-CEO-of-Silulo-Ulutho-Photo-Jason-Boud?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/363d4c06-fefd-5329-82c9-42f370f0aa03&operation=CROP&offset=0x120&resize=2007x1129 "Silulo Ulutho and the 17-year struggle to close digital divide in townships")
+
+
+[Silulo Ulutho and the 17-year struggle to close digital divide in townships](https://www.iol.co.za/technology/silulo-ulutho-and-the-17-year-struggle-to-close-digital-divide-in-townships-058a578f-4700-498b-8a4a-2779c2512ad6)
+
+
+> Luvuyo Rani CEO of Silulo Ulutho. Photo: Jason BoudShare this article:THE Information Technology skills challenge has been with South Africa for a long time now. Seventeen years ago, it inspired a teacher, Luvuyo Rani, to form Silulo Ulutho Technologies with his brother, Lonwabo Rani.When Silulo was started, townships and rural areas had poor access to technology training centres. Teachers in townships were also in need of computer resources. All of these factors inspired the Silulo Ulutho founders to establish on September 26, 2004, what has now become a company with a presence beyond Cape Town.
+
+
+***
+![Tesla Shanghai to make 300,000 cars Jan-Sept despite chip shortage -sources](https://external-preview.redd.it/Phbo6wNEP8ZRCR1CdxB44I02b3MJlYUy6zbst7INnfA.jpg?auto=webp&s=8cde6ab30b32f5e2b86a3a2d77ee595397121962 "Tesla Shanghai to make 300,000 cars Jan-Sept despite chip shortage -sources")
+
+
+[Tesla Shanghai to make 300,000 cars Jan-Sept despite chip shortage -sources](https://www.reddit.com/r/technology/comments/pvs8i8/tesla_shanghai_to_make_300000_cars_jansept/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[How Apple Is Helping Resolve The Social Dilemma By Taking On Its Big Tech Rivals](https://swarajyamag.com/technology/how-apple-is-helping-resolve-the-social-dilemma-by-taking-on-its-big-tech-rivals)
+
+
+> No body in the article.
+
+
