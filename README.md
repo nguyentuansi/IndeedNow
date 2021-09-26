@@ -4055,3 +4055,53 @@
 > No body in the article.
 
 
+***
+![US military eyes prototype mobile nuclear reactor in Idaho](https://external-preview.redd.it/MkrU5bUaytoesG49NNtg6A7oEbFv8D19hCB_jHqjP4w.jpg?auto=webp&s=082cb65ab7e3ff59ce176227a3b3bfe868fe5221 "US military eyes prototype mobile nuclear reactor in Idaho")
+
+
+[US military eyes prototype mobile nuclear reactor in Idaho](https://www.reddit.com/r/technology/comments/pvufje/us_military_eyes_prototype_mobile_nuclear_reactor/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Tesla opens ‘Full Self-Driving' beta software to more customers](https://external-preview.redd.it/oC3A0lsIgSl04Ytlx3LYrWtfL6HIvTKXqurDtwug-gE.jpg?auto=webp&s=fcb7fc98e284546c35546e7ddba7252e46d74cbd "Tesla opens ‘Full Self-Driving' beta software to more customers")
+
+
+[Tesla opens ‘Full Self-Driving' beta software to more customers](https://www.reddit.com/r/technology/comments/pvucch/tesla_opens_full_selfdriving_beta_software_to/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![The Al Capone Approach to Anti-vaxxers](https://external-preview.redd.it/NTT2SDzBbR_ME1mg3MN7KSc49B6Rr8p9rcS0bubhKNo.jpg?auto=webp&s=931accb6bf96ef86e872a0e84c2c188f7a429c8d "The Al Capone Approach to Anti-vaxxers")
+
+
+[The Al Capone Approach to Anti-vaxxers](https://www.reddit.com/r/technology/comments/pvuc5l/the_al_capone_approach_to_antivaxxers/)
+
+
+> No body in the article.
+
+
+***
+![This Week in Apps: PayPal launches ‘super app,' Twitter adds crypto tips, Apple won't take Fortnite back](https://external-preview.redd.it/gR6KN8VOqW63saa46LcIBa2a_pn6ysgqFvJC9yKnSC0.jpg?auto=webp&s=2d20b9aed1c2f6032323655eda9511c851b35415 "This Week in Apps: PayPal launches ‘super app,' Twitter adds crypto tips, Apple won't take Fortnite back")
+
+
+[This Week in Apps: PayPal launches ‘super app,' Twitter adds crypto tips, Apple won't take Fortnite back](https://www.reddit.com/r/technology/comments/pvu9fd/this_week_in_apps_paypal_launches_super_app/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Smartphone Sensor Data Has Potential to Detect Cannabis Intoxication](https://external-preview.redd.it/bswuUm6Tl2G7Fmmoz4uDLvYLe1F3Cqws6I0ftu-ni4c.jpg?auto=webp&s=cb654680dc6aca3da851fe43bbb0117309ff89cb "Smartphone Sensor Data Has Potential to Detect Cannabis Intoxication")
+
+
+[Smartphone Sensor Data Has Potential to Detect Cannabis Intoxication](https://www.reddit.com/r/technology/comments/pvu908/smartphone_sensor_data_has_potential_to_detect/)
+
+
+> no comments yetBe the first to share what you think!
+
+
