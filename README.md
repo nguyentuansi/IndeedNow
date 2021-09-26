@@ -4105,3 +4105,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![No more FaceTime FOMO: iOS 15 lets you use the iPhone app on Android too](https://www.cnet.com/a/img/-mFB_A2jrDB8n6twtXRLkr6Hs2U=/1200x630/2021/04/24/2815de37-2ade-4497-9f80-248eb64b3940/124-iphone-12-purple-2021.jpg "No more FaceTime FOMO: iOS 15 lets you use the iPhone app on Android too")
+
+
+[No more FaceTime FOMO: iOS 15 lets you use the iPhone app on Android too](https://www.cnet.com/tech/services-and-software/no-more-facetime-fomo-ios-15-lets-you-use-the-iphone-app-on-android-too/)
+
+
+> In iOS 15, you can join a FaceTime call from your iPhone, Android or Windows device. Apple/Screenshot by Jessica Dolcourt/CNET This story is part of WWDC 2021. All the latest coverage from Apple's annual developers conference. Non-Apple people have a reason to celebrate: The days when you needed an iPhone, iPad or Mac to join a FaceTime video call are all but over. In a move widely seen as Apple's answer to Zoom video calls, the software giant has made it possible for people who have Android phones and Windows laptops to hop on FaceTime calls -- no iPhone required.
+
+
+***
+![Pixel 6 rumors: Google's upcoming smartphone could get a few handy new camera features](https://www.cnet.com/a/img/h5JYkw-wthHiO9DRZ-aFgA_lX5E=/1200x630/2021/08/02/ee0177a5-69c6-44f1-8c19-eeaca45f41ce/pixel-6-group-image-purple-lime.jpg "Pixel 6 rumors: Google's upcoming smartphone could get a few handy new camera features")
+
+
+[Pixel 6 rumors: Google's upcoming smartphone could get a few handy new camera features](https://www.cnet.com/tech/mobile/pixel-6-rumors-googles-upcoming-smartphone-could-get-a-few-handy-new-camera-features/)
+
+
+> Google The Pixel 6 and Pixel 6 Pro made a brief appearance in August right before Google launched the Pixel 5A, and although we've since had a couple of glimpses at Google's new Pixel, not every rumor has yet been debunked or proved true. The buzz about the Pixel 6 is only getting stronger as we inch toward the phone's possible release. The latest gossip from XDA Developers, citing an internal unreleased version of Google's Camera app, says the smartphone will get a collection of new camera features including manual white balance adjustment, a magic erase feature to remove objects from a picture you've taken and more.
+
+
+***
+![Objexplore: A terminal UI to inspect and explore Python objects](https://external-preview.redd.it/iZY68x9jUW-P-8ehoMdf95ydSk2S6w_Ktk8sfEAexJQ.png?auto=webp&s=9d36ec5f4597d0bc0bf5e156f8762323eee2aa71 "Objexplore: A terminal UI to inspect and explore Python objects")
+
+
+[Objexplore: A terminal UI to inspect and explore Python objects](https://www.reddit.com/r/Python/comments/pvwddj/objexplore_a_terminal_ui_to_inspect_and_explore/)
+
+
+> Hello r/Python !https://github.com/kylepollina/objexploreI created a terminal app called Objexplore to interactively inspect and explore Python objects. It was a fun project and uses the rich and blessed packages. Take a look at the github readme for a quick demo.https://raw.githubusercontent.com/kylepollina/objexplore/main/images/screenshot.pngLet me know what you think!
+
+
+***
+[Privacy and Security Should not be Sacrificed for Digital Transformation: Ant Group CEO](http://www.tmtpost.com/5721229.html)
+
+
+> Ant Group CEO stressed that only individuals and small and medium-sized companies are able to go digital can we truly achieve digitalization.
+
+
+***
+![China roundup: Meng Wanzhou's release and Huawei's future – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1234459743.jpg?w=580 "China roundup: Meng Wanzhou's release and Huawei's future – TechCrunch")
+
+
+[China roundup: Meng Wanzhou's release and Huawei's future – TechCrunch](https://techcrunch.com/2021/09/26/china-roundup-meng-wanzhous-release-and-huaweis-future/)
+
+
+> Hello and welcome back to TechCrunch's China roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. On Friday, Huawei's chief financial executive Meng Wanzhou was released from house arrest in Vancouver after reaching a breakthrough deal with the U.S. Justice Department. Chinese startups that announced major funding rounds this week include Momenta, a Daimler-backed autonomous driving startup, Nreal, an augmented reality company, and Hai Robotics, a warehouse robotics maker.
+
+
