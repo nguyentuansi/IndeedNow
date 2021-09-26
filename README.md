@@ -4196,3 +4196,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![What age should u start yo learn coding/programming??](https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png "What age should u start yo learn coding/programming??")
+
+
+[What age should u start yo learn coding/programming??](https://www.reddit.com/r/Python/comments/pw0yy7/what_age_should_u_start_yo_learn_codingprogramming/)
+
+
+> 0 comments100% Upvotedno comments yetBe the first to share what you think!
+
+
+***
+![C++ Linux Kernel Module with C++20 concepts fast_io library](https://external-preview.redd.it/Fu0ZViLB0GYcr8jog2Ms7-bI5fAjKCytqCktUDVHVHc.jpg?auto=webp&s=4d127de133beebf0ccff3797e3ea1db247f1f157 "C++ Linux Kernel Module with C++20 concepts fast_io library")
+
+
+[C++ Linux Kernel Module with C++20 concepts fast_io library](https://www.reddit.com/r/programming/comments/pw0vt8/c_linux_kernel_module_with_c20_concepts_fast_io/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Industry 4.0: Building intelligent factories with cloud & AI](https://images.financialexpress.com/2021/09/1-646.jpg "Industry 4.0: Building intelligent factories with cloud & AI")
+
+
+[Industry 4.0: Building intelligent factories with cloud & AI](https://www.financialexpress.com/industry/technology/industry-4-0-building-intelligent-factories-with-cloud-ai/2337259/)
+
+
+> By: Sudhir Chowdhary | September 27, 2021 1:15 AMAs the manufacturing sector drives towards digital technologies and Industry 4.0, a good IT infrastructure is necessary to get up-to-date information on equipment status, improve performance and quality of production.Technologies such as artificial intelligence (AI), cloud and Internet of Things (IoT) have seen high adoption in telecommunications, retail, FMCG, BFSI and healthcare in the last decade. One crucial learning for manufacturers in the Covid-19 era is that cost-effective digital manufacturing solutions can keep factories and supply chains running effectively to cut costs.
+
+
+***
+![Tinychef: Culinary AI platform turning recipes into conversations](https://images.financialexpress.com/2021/09/1-637.jpg "Tinychef: Culinary AI platform turning recipes into conversations")
+
+
+[Tinychef: Culinary AI platform turning recipes into conversations](https://www.financialexpress.com/industry/technology/tinychef-culinary-ai-platform-turning-recipes-into-conversations/2337199/)
+
+
+> By: Sudhir Chowdhary | September 27, 2021 1:00 AM Tinychef co-founders Bahubali Shete (L) & Asha SheteA first-of-its-kind, US-based Tinychef started as a voice-first culinary AI platform that helps users in the kitchen with everything from meal planning to grocery shopping and actually cooking their meals— all through an interactive and guided smart cooking experience. Founded in 2017 by Bahubali Shete and Asha Shete, it all began with the duo asking potential customers about the piece of tech their family loves, but they wished they had for their kitchen.
+
+
+***
+[Tools You Should Know About: jq](https://www.reddit.com/r/programming/comments/pw0jma/tools_you_should_know_about_jq/)
+
+
+> no comments yetBe the first to share what you think!
+
+
