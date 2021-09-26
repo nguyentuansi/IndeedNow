@@ -3961,3 +3961,50 @@
 > Attach Main technology Image: Image Caption: Instagram rolled out a fix for Stories caused by the iOS 15 bug; all you need to know Social Media Image : Enter the Technology details: Apple has recently rolled out its latest iOS 15 updates for all iPhone users with an array of features. However, it seems that the software update also comes with some bugs which have affected the functioning of Instagram. According to several reports, the users who have upgraded to iOS 15 are facing some annoying things with their Instagram, the audio of Instagram Stories are disable for many users and we have witnessed them complaining about the same on social media platforms like Reddit, Twitter, and more.
 
 
+***
+![Trading in your old iPhone? Make sure to wipe and factory reset it first](https://www.cnet.com/a/img/pVNNK9x0RQFZKTbgSQmTPzrRpzM=/1200x630/2021/03/10/054753ba-6de7-4dfc-9326-5b73f5794e95/iphone-12-pro-2020.png "Trading in your old iPhone? Make sure to wipe and factory reset it first")
+
+
+[Trading in your old iPhone? Make sure to wipe and factory reset it first](https://www.cnet.com/tech/mobile/trading-in-your-old-iphone-make-sure-to-wipe-and-factory-reset-it-first/)
+
+
+> Getting rid of your old iPhone? Make sure you reset it properly.  Sarah Tew/CNET Whether you're getting an iPhone 13, iPhone 12 or one of the amazing Android phones available right now, a new phone is exciting. But after the thrill wears off, you're left to decide what to do with your old phone. If it's still in working order, you have several options that range from trading it in to save some cash, selling it to a random stranger, or repurposing it. However, before you hand it over to someone else or drop it off at FedEx, there's still some work you'll need to do.
+
+
+***
+![Apple Watch Series 7: All the questions we still have about the watch's price, launch, features](https://www.cnet.com/a/img/NRiMEvDUNTg7dUl0K3HHUp_h438=/1200x630/2021/09/17/3e2bc02a-589d-48df-a394-19f4e71fdeb6/054apple-watch-series-7-apple-announcements-september-2021-cnet-051.png "Apple Watch Series 7: All the questions we still have about the watch's price, launch, features")
+
+
+[Apple Watch Series 7: All the questions we still have about the watch's price, launch, features](https://www.cnet.com/tech/mobile/apple-watch-series-7-all-the-questions-we-still-have-about-the-watchs-price-launch-features/)
+
+
+> We know the Apple Watch Series 7 has a bigger screen, but its exact size is unclear.  screenshot/Apple Apple gave us a preview of the Apple Watch Series 7's more durable design, larger screen and new colors during its iPhone 13 launch event on Sept. 14. While we know a lot of the high-level upgrades, we still don't know exactly when it will be released or what processor it will run on. The Apple Watch Series 7 starts at $399, just like last year's Series 6. International pricing wasn't clarified, but if it matches the current Series 6 pricing it would be £379 and AU$599.
+
+
+***
+![How to use your iPhone or Android as a webcam: It's actually simple](https://www.cnet.com/a/img/o1fxvb8tPP9dPSeOdMxJRRyyPzg=/1200x630/2020/03/31/9c1a3ef3-55ba-4217-ac98-7f8b19779914/gettyimages-1165718592.jpg "How to use your iPhone or Android as a webcam: It's actually simple")
+
+
+[How to use your iPhone or Android as a webcam: It's actually simple](https://www.cnet.com/tech/mobile/how-to-use-your-iphone-or-android-as-a-webcam-its-actually-incredibly-simple/)
+
+
+> Your phone can easily become a webcam for video meetings.  Erlon Silva/TRI Digital/Getty Images Though coronavirus vaccines are still rolling out, the spread of the delta variant means it may still be a while before we all return to our offices and social gatherings in the same way we used to. That means you're probably still spending a lot of time talking with colleagues, family and friends through video-chat and conferencing apps such as Zoom, Microsoft Teams and FaceTime. (If you're using Zoom, here are 20 top Zoom tips, including how to change your Zoom background.
+
+
+***
+![How to watch Bengals vs Steelers: Live stream NFL football online](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/images/cover/cover-ac.jpg "How to watch Bengals vs Steelers: Live stream NFL football online")
+
+
+[How to watch Bengals vs Steelers: Live stream NFL football online](https://www.androidcentral.com/bengals-vs-steelers-live-stream-how-watch-nfl-action-online-anywhere)
+
+
+> Arguably the most competitive division in the NFL right now, two of the AFC North's biggest guns go head-to head in Pittsburgh on Sunday. Read on for full details on how to watch Bengals vs Steelers, no matter where you are in the world. Pittsburgh come into the game looking to improve following an timid week 2 showing against the Raiders which saw them crash to a 17-26 defeat. That loss undid much of the positivity surrounding their impressive season-opening victory over the Bills, but the Steelers nevertheless will have approached today's game knowing that they've had the Bengals' number in recent years.
+
+
+***
+[Speech Synthesis on Linux](https://www.reddit.com/r/Python/comments/pvqnac/speech_synthesis_on_linux/)
+
+
+> no comments yetBe the first to share what you think!
+
+
