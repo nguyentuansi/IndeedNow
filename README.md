@@ -3733,3 +3733,43 @@
 > TRADING in your mobile to get the new iPhone? Choose the wrong firm and you could end up getting just A QUARTER of its value. There are more options than ever, with even Apple taking in old iPhones or rival devices as part-exchange. Trading in your mobile for the new iPhone? Make sure you shop aroundCredit: Getty But while Carphone Warehouse offers £105 for a trade-in on a OnePlus 6 phone, MusicMagpie offers only £26. Second-hand gadgets are a huge market these days, with many people keen to save on an iPhone or Xbox by buying a used one.
 
 
+***
+![Safari 15 tabs are such an ugly dumpster fire, WTH?](https://images.macrumors.com/social/?t=2313555&v=6 "Safari 15 tabs are such an ugly dumpster fire, WTH?")
+
+
+[Safari 15 tabs are such an ugly dumpster fire, WTH?](https://forums.macrumors.com/threads/safari-15-tabs-are-such-an-ugly-dumpster-fire-wth.2313555/)
+
+
+> Oct 1, 2007 13,647 12,533 what drugs was the UX designer on? Stay away from them, so glad I tried the technology preview as a separate app rather overwrite Safari 14 Jan 26, 2014 6,632 4,500 Horsens, Denmark Do you like neither of the two was you can have the tabs? I think the separated view is nice on iPadOS, but prefer the Compact view on macOS May 30, 2018 3,137 3,541 sunny florida there is a tongle-dongle thingee to make safari as you like. i forgot where tho…..
+
+
+***
+![12 million metric tons annual CO2 transportation and storage capacity World's largest carbon capture project underway in the USA](https://external-preview.redd.it/mCExDqHZUDrDW3mjisD3tFvMB73KUQK5i0fKV_rkGnM.jpg?auto=webp&s=fb53dd0a9a4b4ca46a9f404f09badf3551210cbd "12 million metric tons annual CO2 transportation and storage capacity World's largest carbon capture project underway in the USA")
+
+
+[12 million metric tons annual CO2 transportation and storage capacity World's largest carbon capture project underway in the USA](https://www.reddit.com/r/technology/comments/pvi4jn/12_million_metric_tons_annual_co2_transportation/)
+
+
+> From an article I found "renewable fuels plants can use carbon sequestration to qualify themselves to sell ethanol and other biofuels in states like California, which require low-carbon fuels." Im guessing the additional they get for the fuel will pay for it.
+
+
+***
+![How To Use The New Quick Note Feature In iPadOS 15](https://static0.srcdn.com/wordpress/wp-content/uploads/2021/09/Apple-iPad-mini-6-Quick-Note-iPadOS-15.jpg "How To Use The New Quick Note Feature In iPadOS 15")
+
+
+[How To Use The New Quick Note Feature In iPadOS 15](https://screenrant.com/quick-note-ipados-15-ipad-note-taking-how/)
+
+
+> Apple continues to expand what's possible with an iPad and in the latest iPadOS 15 update the Notes app has gained a new Quick Note feature. The iPad has become a do-everything machine in recent years, matching the power of a computer while keeping its slim lines and lightweight deign. With iPadOS 15, Apple's tablet gains new capabilities while staying well integrated with the Mac and iPhone. Apple released iPadOS 15 shortly after the launch of its new iPad mini 6, a dramatic improvement for the tiny tablet that brings big performance gains, matching the speed of the latest iPhone 13 and even surpassing the iPad Air 4.
+
+
+***
+![Realme 8s 5G in for review](https://fdn.gsmarena.com/imgroot/news/21/09/realme-8s-5g-in-for-review/-476x249w4/gsmarena_000.jpg "Realme 8s 5G in for review")
+
+
+[Realme 8s 5G in for review](https://www.gsmarena.com/realme_8s_5g_in_for_review-news-51002.php)
+
+
+> The Realme 8s 5G is the latest phone to come to us, just days after we got its sibling Realme 8i. It comes in Universe Blue color and is the first commercially available phone with Mediatek's Dimensity 810 chipset. As we begin work on its review we decided to share some early impressions with you. The Realme 8s 5G comes with a 6.5' LCD of 1080p resolution and 90Hz refresh rate. It might look like the phone has a quad-cam setup on the back, but in reality, there are only three shooters - the fourth circle is there for aesthetics and comes with a sticker saying AI.
+
+
