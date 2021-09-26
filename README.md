@@ -3870,3 +3870,47 @@
 > Now that Apple has taken the wraps of its fresh iPhone 13 series, the tech community has another major launch to look forward to, this time on the Android side. Since Google revealed the new Pixel 6 series smartphones back in early August, users have been waiting for the devices to launch commercially. Now, it seems we have a date. Google apparently has an event planned on October 5, suggests a screenshot by XDA Developer's Mishaal Rahman. The screenshot shows a now deleted article by CNET that talked about the upcoming event.
 
 
+***
+[What are the best things to code for work, when not a programmer?](https://www.reddit.com/r/Python/comments/pvo2fb/what_are_the_best_things_to_code_for_work_when/)
+
+
+> I have been working on some days analysis for about a month now and have learned a lot (I am a manufacturing engineer). But have just been moved to another area that data analysis will not be such a big part of my job.I don't want stop learning or lose what I have learned What are some things I could do with python for a non-programming job that would be useful? Or better said what have you done with python to make things easier for yourself at work?
+
+
+***
+![Amazon Great Indian Festival: Top upcoming smartphone launches as part of the sale](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202109/D28984254_INWLD_Xiaomi_5G_B9D_-647x363.jpeg?yisxLwUMhRB3TuDJCflihFLVtozHAZjU "Amazon Great Indian Festival: Top upcoming smartphone launches as part of the sale")
+
+
+[Amazon Great Indian Festival: Top upcoming smartphone launches as part of the sale](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-top-upcoming-smartphone-launches-as-part-of-the-sale-1857362-2021-09-26)
+
+
+> Smartphones have increasingly become an inseparable part of our daily lives. The functionality of traditional phones has been expanded many folds with the arrival of smartphones. We can now listen to music, watch movies, reply to emails, take stunning photos using just our smartphones. With so many expectations from your smartphone, the smartphone must have strong specifications to perform well without lagging. Smartphones are thus able to offer better performance at an affordable price. If you are looking to upgrade your smartphone to a new one, check out these new smartphones that will be launched soon as a part of the Amazon Great Indian Festival.
+
+
+***
+![Python function contd](https://external-preview.redd.it/iylyW98fuRIx_wHb7wRu5Jw72nu-fe0MViZk205g2qI.jpg?auto=webp&s=6cecd16c5686cf3263cf1ddbcf766c7515f4bea2 "Python function contd")
+
+
+[Python function contd](https://www.reddit.com/r/Python/comments/pvnv9p/python_function_contd/)
+
+
+> No body in the article.
+
+
+***
+[Google Threatens to Sue Competition Commission of India Over 'Leak' Charge](https://www.thequint.com/tech-and-auto/google-threatens-to-sue-competition-commission-of-india-over-leak-charge)
+
+
+> The CCI, launched a probe two years ago into Google's alleged abuse of the Android Operating System (OS).
+
+
+***
+![JupyterLab Desktop App Now Available: A Data Science Tool That Bundles A Python Environment With Python Libraries](https://external-preview.redd.it/skVz0g6EK9MS2iBL7FSUZsQnxgLrykOxA6hwLey_O6E.jpg?auto=webp&s=9fc3342ef5af32520832c2b51089c6aed6af3e0b "JupyterLab Desktop App Now Available: A Data Science Tool That Bundles A Python Environment With Python Libraries")
+
+
+[JupyterLab Desktop App Now Available: A Data Science Tool That Bundles A Python Environment With Python Libraries](https://www.reddit.com/r/Python/comments/pvnlj2/jupyterlab_desktop_app_now_available_a_data/)
+
+
+> The JupyterLab application is an independent cross-platform program that developers can use in data science workflows, like those found within scientific computing. The latest addition to the scientific computing and data science revolution, this desktop application bundles a Python environment with several popular libraries ready for use in your work. You can now download the JupyterLab installer for Linux, macOS and Windows from the GitHub page.Quick Read: https://www.marktechpost.com/2021/09/25/jupyterlab-desktop-app-now-available-a-data-science-tool-that-bundles-a-python-environment-with-python-libraries/Github: https://github.
+
+
