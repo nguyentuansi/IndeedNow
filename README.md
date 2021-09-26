@@ -4152,3 +4152,47 @@
 > Hello and welcome back to TechCrunch's China roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. On Friday, Huawei's chief financial executive Meng Wanzhou was released from house arrest in Vancouver after reaching a breakthrough deal with the U.S. Justice Department. Chinese startups that announced major funding rounds this week include Momenta, a Daimler-backed autonomous driving startup, Nreal, an augmented reality company, and Hai Robotics, a warehouse robotics maker.
 
 
+***
+![Samsung Galaxy S22 Ultra: Leaked design renders with S Pen and quad rear cameras](https://techstory.in/wp-content/uploads/2021/09/Samsung-Galaxy-S22-Ultra.jpg "Samsung Galaxy S22 Ultra: Leaked design renders with S Pen and quad rear cameras")
+
+
+[Samsung Galaxy S22 Ultra: Leaked design renders with S Pen and quad rear cameras](https://techstory.in/samsung-galaxy-s22-ultra-leaked-renders/)
+
+
+> The introduction of the Samsung Galaxy S22 lineup is still a few months away. The new Samsung flagship smartphone series is likely to be launched sometime next year. Samsung normally debuts its Galaxy S flagship series in January or February, and many predict the same for the S22 lineup. The S22 series has yet to be announced by the company. It's evident, given that we're only about four months away from the launch.Render Images: Samsung Galaxy S22 Ultra (Front and Rear) | Courtesy: OnLeaks × DigitDespite this, some important insights about Samsung's upcoming flagship have surfaced.
+
+
+***
+[Cryptocurrency exchanges Huobi and Binance have stopped letting traders use mainland China mobile numbers to register new accounts (Zheping Huang/Bloomberg)](http://www.techmeme.com/210926/p7#a210926p7)
+
+
+> Zheping Huang / Bloomberg: Cryptocurrency exchanges Huobi and Binance have stopped letting traders use mainland China mobile numbers to register new accounts — - Binance, Huobi won't allow new sign-ups via China phones — Steps come after missive from PBOC about crypto transactions
+
+
+***
+![Google is slashing (from 20% to 3%) the amount it keeps from sales on its cloud marketplace as pressure mounts on app stores](https://external-preview.redd.it/D32cSKvLCIwTjEMUwGo_DnNB1gws6VgwzDGPOd5wbPE.jpg?auto=webp&s=67b73ae5e0dcb2883f33000382ab19ef7bb19d06 "Google is slashing (from 20% to 3%) the amount it keeps from sales on its cloud marketplace as pressure mounts on app stores")
+
+
+[Google is slashing (from 20% to 3%) the amount it keeps from sales on its cloud marketplace as pressure mounts on app stores](https://www.reddit.com/r/technology/comments/pvyjge/google_is_slashing_from_20_to_3_the_amount_it/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Tesla drivers can now request Full Self Driving beta tests](https://external-preview.redd.it/tsy5RKFvelL7AnvtoJEIAVewXYY8a3hRb_4zQ5GYINo.jpg?auto=webp&s=809b5980ad6132b7964ddbeb4b6013bee4d53e2c "Tesla drivers can now request Full Self Driving beta tests")
+
+
+[Tesla drivers can now request Full Self Driving beta tests](https://www.reddit.com/r/technology/comments/pvyerv/tesla_drivers_can_now_request_full_self_driving/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[How popular is GUI programming in Python? What are some popular applications made from Python (any framework)?](https://www.reddit.com/r/Python/comments/pvycu4/how_popular_is_gui_programming_in_python_what_are/)
+
+
+> no comments yetBe the first to share what you think!
+
+
