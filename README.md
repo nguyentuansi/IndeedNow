@@ -3914,3 +3914,50 @@
 > The JupyterLab application is an independent cross-platform program that developers can use in data science workflows, like those found within scientific computing. The latest addition to the scientific computing and data science revolution, this desktop application bundles a Python environment with several popular libraries ready for use in your work. You can now download the JupyterLab installer for Linux, macOS and Windows from the GitHub page.Quick Read: https://www.marktechpost.com/2021/09/25/jupyterlab-desktop-app-now-available-a-data-science-tool-that-bundles-a-python-environment-with-python-libraries/Github: https://github.
 
 
+***
+![Amazon Great Indian Festival Sale: Best combo offers on Alexa to turn your home into a smart home](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/webp.net-resizeimage_9_1200x768-original.jpeg "Amazon Great Indian Festival Sale: Best combo offers on Alexa to turn your home into a smart home")
+
+
+[Amazon Great Indian Festival Sale: Best combo offers on Alexa to turn your home into a smart home](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-sale-best-combo-offers-on-alexa-to-turn-your-home-into-a-smart-home-1857391-2021-09-26)
+
+
+> Story highlights As a part of the Great Indian Festival, Sale Amazon is offering combo offers for Echo smart speakers. Echo speakers are available at a special price and bundled with smart devices such as smart bulbs and smart plugs. The offers include the Amazon Firestick which is available with Amazon Echo Dot. With Amazon's Great Indian Festival Sale just around the corner, it is pretty exciting to check out the latest deals and offers being unveiled by Amazon gradually. One product is the Amazon Alexa smart home speakers.
+
+
+***
+![LG Uplus boosts paid content service with Disney partnership](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202109/47fe45acf03b42d0a99400ea182e0cdf.jpg "LG Uplus boosts paid content service with Disney partnership")
+
+
+[LG Uplus boosts paid content service with Disney partnership](https://www.koreatimes.co.kr/www/tech/2021/09/133_316029.html)
+
+
+> LG Uplus said Sunday it had signed an exclusive partnership with Disney to serve as the network operator for the latter's over-the-top (OTT) media service set to launch Nov. 12. Courtesy of LG UplusBy Kim Bo-eunLG Uplus signed an exclusive partnership with Disney to serve as the network operator for the U.S. entertainment conglomerate's over-the-top (OTT) media service in Korea set to launch Nov. 12, the LG affiliate said Sunday. The tie-up will strengthen LG Uplus' lineup of paid content offered via TV and mobile phones.
+
+
+***
+![Windows 11 will give you another reason to choose Android over iOS](https://external-preview.redd.it/Qr4WZZtzw4iSHEKEUvBSwe-79nXa55WGYo9vYzuJQys.jpg?auto=webp&s=fad241f2c9316656dc125f39dd9a2b7713d9f288 "Windows 11 will give you another reason to choose Android over iOS")
+
+
+[Windows 11 will give you another reason to choose Android over iOS](https://www.reddit.com/r/technology/comments/pvp5pm/windows_11_will_give_you_another_reason_to_choose/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Our first Hackathon submission!](https://external-preview.redd.it/wDNQN0XGXuKDEgv9yDF8pbv5fQF9la6seBFDzO16noc.jpg?auto=webp&s=737ba4ec4fbc5af803cd20c1d02acf0753457819 "Our first Hackathon submission!")
+
+
+[Our first Hackathon submission!](https://www.reddit.com/r/programming/comments/pvp2p1/our_first_hackathon_submission/)
+
+
+> Hey guys! Me and two friends of mine attended the HackZurich event in Zurich!We started "serious" programming ~1.5 years ago and I am proud of how far we came!We would really appreciate if you would go see our submission and if you like it maybe vote for it :DThank you guys for your time and have a nice day!
+
+
+***
+[Instagram rolled out a fix for Stories caused by the iOS 15 bug; all you need to know](http://www.pinkvilla.com/tech/news/instagram-rolled-out-a-fix-for-stories-caused-by-the-ios-15-bug-all-you-need-to-know-904177)
+
+
+> Attach Main technology Image: Image Caption: Instagram rolled out a fix for Stories caused by the iOS 15 bug; all you need to know Social Media Image : Enter the Technology details: Apple has recently rolled out its latest iOS 15 updates for all iPhone users with an array of features. However, it seems that the software update also comes with some bugs which have affected the functioning of Instagram. According to several reports, the users who have upgraded to iOS 15 are facing some annoying things with their Instagram, the audio of Instagram Stories are disable for many users and we have witnessed them complaining about the same on social media platforms like Reddit, Twitter, and more.
+
+
