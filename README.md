@@ -4243,3 +4243,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+[Using Composite Actions with GitHub Actions](https://www.reddit.com/r/Python/comments/pw3e3m/using_composite_actions_with_github_actions/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![The US government requests — and is granted — the most user data from tech companies compared to countries like the UK, France, and Japan: report](https://external-preview.redd.it/fbBex3P5kxh19GNIZQIcjFmbrnVd3RYHGKeriVLhyPs.jpg?auto=webp&s=f8070d6a1ec550698c03da1397dc3203f7fa3db0 "The US government requests — and is granted — the most user data from tech companies compared to countries like the UK, France, and Japan: report")
+
+
+[The US government requests — and is granted — the most user data from tech companies compared to countries like the UK, France, and Japan: report](https://www.reddit.com/r/technology/comments/pw3dwk/the_us_government_requests_and_is_granted_the/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![fpga_craft: Minecraft clone for the iCE40 UP5K FPGA](https://external-preview.redd.it/__UkaUX1KsjE3SB34KdO_8GObtE914pSL3Y3aUyI99I.jpg?auto=webp&s=01c346a4af035e37678c6c56115addd666067777 "fpga_craft: Minecraft clone for the iCE40 UP5K FPGA")
+
+
+[fpga_craft: Minecraft clone for the iCE40 UP5K FPGA](https://www.reddit.com/r/programming/comments/pw3cy9/fpga_craft_minecraft_clone_for_the_ice40_up5k_fpga/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Break your iPhone 13 screen? Face ID won't work it's not replaced by Apple.](https://helios-i.mashable.com/imagery/videos/05N964qYgk8vyzMFwoK50Nl/hero-image.fill.size_1200x675.v1632691210.jpg "Break your iPhone 13 screen? Face ID won't work it's not replaced by Apple.")
+
+
+[Break your iPhone 13 screen? Face ID won't work it's not replaced by Apple.](https://mashable.com/video/iphone-13-face-id-broken-screen-replacement)
+
+
+> Buying the new iPhone 13? Then you better handle it extra carefully because Apple looks to be making it a pain to repair.The problem? The iPhone-maker may force you to go to Apple directly if you need to replace your screen.YouTube channel Phone Repair Guru recently uploaded a new video taking apart the new iPhone 13. After doing a deep dive into the inside of Apple's latest smartphone, Phone Repair Guru came upon a discovery which they called "catastrophic to third party repair."When a third-party, such as a repair store or even the owner of the phone themself, replaces the iPhone 13 screen, Face ID ceases to work.
+
+
+***
+![Tech fixes for the mind and body – including a £8 gadget that STOPS snoring](https://www.the-sun.com/wp-content/uploads/sites/6/2021/09/NINTCHDBPICT000682627571.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Tech fixes for the mind and body – including a £8 gadget that STOPS snoring")
+
+
+[Tech fixes for the mind and body – including a £8 gadget that STOPS snoring](https://www.the-sun.com/lifestyle/3738717/tech-fixes-mind-body-gadget-stops-snoring/)
+
+
+> YOU speak to Alexa more than your partner and can't prise the kids away from their console. And you won't leave the kitchen, let alone the house, without your smartphone. We round up the best kit to keep you healthy, happy and rested, including some gadgets that stop you from snoringCredit: Alamy Every aspect of our lives is enabled by technology, with clever gadgets designed to make even the simplest of tasks even easier. That includes our health. There are gadgets for every ailment and 'fem tech' alone is worth £16billion globally.
+
+
