@@ -3773,3 +3773,50 @@
 > The Realme 8s 5G is the latest phone to come to us, just days after we got its sibling Realme 8i. It comes in Universe Blue color and is the first commercially available phone with Mediatek's Dimensity 810 chipset. As we begin work on its review we decided to share some early impressions with you. The Realme 8s 5G comes with a 6.5' LCD of 1080p resolution and 90Hz refresh rate. It might look like the phone has a quad-cam setup on the back, but in reality, there are only three shooters - the fourth circle is there for aesthetics and comes with a sticker saying AI.
 
 
+***
+[Nomad Health, an online health care jobs marketplace, raised $63M in equity and debt led by Adams Street Partners, source says at a $260M valuation (Anushree Dave/Bloomberg)](http://www.techmeme.com/210925/p8#a210925p8)
+
+
+> Anushree Dave / Bloomberg: Nomad Health, an online health care jobs marketplace, raised $63M in equity and debt led by Adams Street Partners, source says at a $260M valuation — - Digital marketplace aims to help job market disrputed by Covid — Adams Street Partners leads equity and debt financing
+
+
+***
+![UFC 266 live stream: how to watch Volkanovski vs Ortega online today](https://cdn.mos.cms.futurecdn.net/sNXRT6weGoJcsefZQYgMTm-1200-80.jpg "UFC 266 live stream: how to watch Volkanovski vs Ortega online today")
+
+
+[UFC 266 live stream: how to watch Volkanovski vs Ortega online today](https://www.techradar.com/news/ufc-266-live-stream-how-to-watch-volkanovski-vs-ortega-online-today)
+
+
+> It's all eyes to Las Vegas and the Octagon, for a jam-packed UFC card and a mouth watering featherweight title clash at the top of the bill. Read on to discover how to find a UFC 266 live stream and watch Alexander Volkanovski vs Brian Ortega online with ESPN+ having exclusive coverage in the US.Watch UFC 266: live stream Volkanovski vs OrtegaDate: Saturday, September 25Main card time: 10pm ET / 7pm PT / 3am BST / 12pm AESTVenue: T-Mobile Arena, Paradise, Nevada, USALive stream: ESPN Plus PPV (US) / BT Sport (UK) / DAZN (DE/IT/ES)The card sees Australia's Alexander Volkanovski place his featherweight title on the line against Brian Ortega, while women's flyweight champ Valentina Shevchenko will face off against Lauren Murphy.
+
+
+***
+![EU is pushing for all phones to use USB-C](https://external-preview.redd.it/z5-saaDdQbPZpK_Fs5Mw8yVTcZkrXIyL-MjYWE2YBKQ.jpg?auto=webp&s=9f92de88a11e4df117d00fee25f7e41cbdd191b3 "EU is pushing for all phones to use USB-C")
+
+
+[EU is pushing for all phones to use USB-C](https://www.reddit.com/r/technology/comments/pvk27u/eu_is_pushing_for_all_phones_to_use_usbc/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![New iPhones not getting UWB on Verizon?](https://images.macrumors.com/social/?t=2313576&v=6 "New iPhones not getting UWB on Verizon?")
+
+
+[New iPhones not getting UWB on Verizon?](https://forums.macrumors.com/threads/new-iphones-not-getting-uwb-on-verizon.2313576/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![This weekend's best Apple deals: iPhone, AirPods, Apple Watch, iPads and more](https://cdn.mos.cms.futurecdn.net/BYHevKkSsK8vbPZoFkQUg8-1200-80.jpg "This weekend's best Apple deals: iPhone, AirPods, Apple Watch, iPads and more")
+
+
+[This weekend's best Apple deals: iPhone, AirPods, Apple Watch, iPads and more](https://www.techradar.com/news/this-weekends-best-apple-deals-iphone-airpods-apple-watch-ipads)
+
+
+> (Image credit: Future) It's a fantastic time to score deals on Apple devices thanks to a host of new devices that were released this week. We're rounding up the top Apple deals for you below, including the iPhone, AirPods, iPad, the Apple Watch, and more.Some of today's best Apple deals include the best-selling AirPods Pro on sale for $197 (was $249), the Apple Watch 6 down to $349 (was $399), and the powerful iPad Air 4 on sale for a record-low price of $499.99 (was $599). If you're looking for iPhone deals, Apple has a $100 discount on the iPhone 11 and get the powerful iPhone 12 on sale for $599 (was $799).
+
+
