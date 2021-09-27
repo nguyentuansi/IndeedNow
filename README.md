@@ -4746,3 +4746,53 @@
 > September 27, 2021 01:57 PM Eastern Daylight Time CLEVELAND--(BUSINESS WIRE)--GE Current, a Daintree company, today introduced the next generation of the Arize Element L1000, a top light for commercial greenhouses and indoor farms. The next generation features three models with expanded spectral options, a high photon flux of up to 2,350 μmol/s, high efficacy levels of up to 3.6 µmol/J and is proudly assembled in the heart of Appalachia. 'We set out to engineer the world's most rugged and durable light fixture for commercial agriculture, thanks to our 20-plus years of LED fixture design experience combined with over 65 years of manufacturing excellence and scale in Hendersonville, North Carolina,' said Mike Doss, Current's VP of Specialty.
 
 
+***
+![BlueJeans is making a serious play for Zoom's videoconferencing crown](https://cdn.mos.cms.futurecdn.net/PiRWwfJMXq2VJZ2SnCLk2o-1200-80.jpg "BlueJeans is making a serious play for Zoom's videoconferencing crown")
+
+
+[BlueJeans is making a serious play for Zoom's videoconferencing crown](https://www.techradar.com/news/bluejeans-is-making-a-serious-play-for-zooms-videoconferencing-crown)
+
+
+> (Image credit: BlueJeans) As more businesses adopt hybrid work models, Verizon Business has announced a number of updates to BlueJeans designed to maximize engagement when using its video conferencing software and virtual events platform.In an effort to make hybrid work more natural and engaging, BlueJeans has announced the next generation of its platform that provides an integrated collaboration experience that builds on BlueJeans Meetings to deliver new modes of virtual collaboration that include BlueJeans Spaces, Messaging and Collaboration Board.
+
+
+***
+![Cryptocurrencies see 6th straight week of inflows, led by bitcoin -CoinShares data](https://www.reuters.com/resizer/UGiDTHsWQIKu6EKJMhU8Ww_3Knw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7WF3C4UOFZJJ3KFKEU7DQER6HA.jpg "Cryptocurrencies see 6th straight week of inflows, led by bitcoin -CoinShares data")
+
+
+[Cryptocurrencies see 6th straight week of inflows, led by bitcoin -CoinShares data](https://www.reuters.com/technology/cryptocurrencies-see-6th-straight-week-inflows-led-by-bitcoin-coinshares-data-2021-09-27/)
+
+
+> Representations of Bitcoin and other cryptocurrencies are seen amid China's flags in this illustration picture taken September 27, 2021. REUTERS/Florence Lo/IllustrationNEW YORK, Sept 27 (Reuters) - Cryptocurrency investment products and funds posted inflows for a sixth consecutive week, as investors viewed recent regulatory challenges in the sector as buying opportunities, data from digital asset manager CoinShares showed on Monday.Inflows to the sector hit $95 million last week, led by investments in bitcoin of $50.
+
+
+***
+![Due to a license rule, older drivers have more campervan and motorhome flexibility.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Due to a license rule, older drivers have more campervan and motorhome flexibility.")
+
+
+[Due to a license rule, older drivers have more campervan and motorhome flexibility.](https://en.brinkwire.com/technology/due-to-a-license-rule-older-drivers-have-more-campervan-and-motorhome-flexibility/)
+
+
+> Due to a license rule, older drivers have more campervan and motorhome flexibility. Due to a simple license rule, older drivers have more freedom to drive motorhomes and campervans. Those who passed their test before 1997 can drive vehicles weighing up to 4,000kg heavier, according to PaulCamper specialists. Many younger families may be affected by the law, as they may not be permitted to travel in a large campervan due to a technicality with their driver's license. Dirk Fehse, CEO of PaulCamper, told This website that drivers should 'be aware' of the laws before driving.
+
+
+***
+![Motlow State Partners With T-mobile to Provide 2,100 Free 5g Smartphones With Service to Students](https://mms.businesswire.com/media/20210927005780/en/910382/23/T-Mobile_Giveaway-1704.jpg "Motlow State Partners With T-mobile to Provide 2,100 Free 5g Smartphones With Service to Students")
+
+
+[Motlow State Partners With T-mobile to Provide 2,100 Free 5g Smartphones With Service to Students](https://www.businesswire.com/news/home/20210927005780/en/Motlow-State-Partners-With-T-mobile-to-Provide-2100-Free-5g-Smartphones-With-Service-to-Students)
+
+
+> September 27, 2021 03:50 PM Eastern Daylight Time LYNCHBURG, Tenn.--(BUSINESS WIRE)--Motlow State students are the benefactors of an innovative partnership between Motlow State and T-Mobile that has resulted in 2,100 students across all campuses receiving free 5G smartphones, according to College officials. Through a ground-breaking program, Motlow State is giving 2,100 students Samsung Galaxy A32 5G smartphones with T-Mobile service on the nation's largest, fastest and most reliable 5G network to enhance student success and learning.
+
+
+***
+![Terran Orbital to open a $300M satellite manufacturing and component facility on Florida's Space Coast – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/PR-TerranOrbital-ProductionBldg.jpg?w=600 "Terran Orbital to open a $300M satellite manufacturing and component facility on Florida's Space Coast – TechCrunch")
+
+
+[Terran Orbital to open a $300M satellite manufacturing and component facility on Florida's Space Coast – TechCrunch](https://techcrunch.com/2021/09/27/terran-orbital-to-open-a-300m-satellite-manufacturing-and-component-facility-on-floridas-space-coast/)
+
+
+> Satellite manufacturing company Terran Orbital said Monday it would open the world's largest space vehicle manufacturing facility on Florida's Space Coast at a cost of $300 million. The 660,000 square-foot factory will be capable of producing 'thousands of different types of space vehicles per year,' including one thousand complete satellites and over one million satellite components per year, the company said in a statement. Terran Orbital was founded in 2013, the same year that it acquired nanosatellite developer Tyvak, but has maintained a low profile since.
+
+
