@@ -4421,3 +4421,47 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+[Australia recognizes electronic payments system eftpos as its first private ID exchange operator, to enable online transactions requiring a digital ID (Aimee Chanthadavong/ZDNet)](http://www.techmeme.com/210927/p3#a210927p3)
+
+
+> Aimee Chanthadavong / ZDNet: Australia recognizes electronic payments system eftpos as its first private ID exchange operator, to enable online transactions requiring a digital ID — Eftpos connectID can now facilitate online transactions requiring a digital identity from Australians.
+
+
+***
+[Thailand-based Ascend Money, which operates the TrueMoney e-wallet, raises $150M Series C at a valuation of $1.5B (Kate Park/TechCrunch)](http://www.techmeme.com/210927/p2#a210927p2)
+
+
+> Kate Park / TechCrunch: Thailand-based Ascend Money, which operates the TrueMoney e-wallet, raises $150M Series C at a valuation of $1.5B — Ascend Money, a Thailand-based fintech startup behind TrueMoney, an e-wallet service, announced today it has raised a $150 million Series C round at a valuation of $1.5 billion.
+
+
+***
+![Oppo Watch Free With More Than 100 Sports Modes Debuts: All Details](https://i.gadgets360cdn.com/large/oppo_watch_free_gold_black_1632722071673.jpg "Oppo Watch Free With More Than 100 Sports Modes Debuts: All Details")
+
+
+[Oppo Watch Free With More Than 100 Sports Modes Debuts: All Details](https://gadgets.ndtv.com/wearables/news/oppo-watch-free-price-cny-549-599-launch-release-date-september-30-specifications-features-esports-mdoe-2555007)
+
+
+> Oppo Watch Free debuted in China on Sunday. It features more than 100 sports modes that include cricket, badminton, skiing, and more but can automatically track only four sports. The Oppo Watch Free sports a 1.64-inch AMOLED display. Being a fitness band, it comes with an optical heart rate sensor and an optical blood oxygen (SpO2) sensor. The smart wearable from Oppo also gets an e-sports mode that diverts all notifications from the smartphone to the Oppo Watch Free while the user is playing a game.
+
+
+***
+![Facebook's wearable glasses can succeed where Google Glass flopped](https://external-preview.redd.it/AZjEcDyqco809Oi9n_b_2mHutgLsnoYsxeOWKYBZFlg.jpg?auto=webp&s=a2fc9695c471098c09893d1bbaa4a5fade0dcd68 "Facebook's wearable glasses can succeed where Google Glass flopped")
+
+
+[Facebook's wearable glasses can succeed where Google Glass flopped](https://www.reddit.com/r/technology/comments/pwaz6m/facebooks_wearable_glasses_can_succeed_where/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Details of 106M Travellers to Thailand Exposed Following Data Breach](https://external-preview.redd.it/RRhybRlrGwP2iOT_VXOea-J2qymIsHZVN11mE4rsp08.jpg?auto=webp&s=71ad8283e036b6af32e59f24f1889da00c828986 "Details of 106M Travellers to Thailand Exposed Following Data Breach")
+
+
+[Details of 106M Travellers to Thailand Exposed Following Data Breach](https://www.reddit.com/r/technology/comments/pwayf4/details_of_106m_travellers_to_thailand_exposed/)
+
+
+> no comments yetBe the first to share what you think!
+
+
