@@ -4796,3 +4796,50 @@
 > Satellite manufacturing company Terran Orbital said Monday it would open the world's largest space vehicle manufacturing facility on Florida's Space Coast at a cost of $300 million. The 660,000 square-foot factory will be capable of producing 'thousands of different types of space vehicles per year,' including one thousand complete satellites and over one million satellite components per year, the company said in a statement. Terran Orbital was founded in 2013, the same year that it acquired nanosatellite developer Tyvak, but has maintained a low profile since.
 
 
+***
+![Hillicon Valley — Presented by Ericsson — Instagram 'pausing' kid-targeted plan](https://thehill.com/sites/default/files/instagramlogo_050118getty.jpg "Hillicon Valley — Presented by Ericsson — Instagram 'pausing' kid-targeted plan")
+
+
+[Hillicon Valley — Presented by Ericsson — Instagram 'pausing' kid-targeted plan](https://thehill.com/policy/technology/overnights/574168-hillicon-valley)
+
+
+> Today is Monday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.Facebook said it is pausing plans to launch its Instagram for kids under 13 after fierce pushback on the plan, but critics say the platform isn't going far enough and should forgo the plan altogether. The company will face more questions on the impact of the platform on kids later this week at a Senate Commerce Consumer Protection subcommittee hearing.
+
+
+***
+[My experience contributing YAPF formatter support to Pants 2.7](https://www.reddit.com/r/Python/comments/pwrk9z/my_experience_contributing_yapf_formatter_support/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![PreMarket Prep Talks Interest Rates And The TLT ETF](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/save-3402476_1920_22.jpg?width=720 "PreMarket Prep Talks Interest Rates And The TLT ETF")
+
+
+[PreMarket Prep Talks Interest Rates And The TLT ETF](https://www.benzinga.com/trading-ideas/technicals/21/09/23124287/premarket-prep-talks-interest-rates-and-the-tlt-etf)
+
+
+> Benzinga's PreMarket Prep airs every morning from 8-9 a.m. ET. During that fast-paced, highly informative hour, traders and investors tune in to get the major news of the day, the catalysts behind those moves and the corresponding price action for the upcoming session. On any given day, the show will cover at least 20 stocks determined by co-hosts Joel Elconin and Dennis Dick along with producer Spencer Israel. The Federal Reserve Bank stayed the course with its dovish stance last week and the Street is having none of it.
+
+
+***
+![Not To Be Outdone, HyperX Launches A New Xbox Headset](https://www.androidheadlines.com/wp-content/uploads/2021/09/HyperX-CloudX-Stinger-Core-for-Xbox.jpg "Not To Be Outdone, HyperX Launches A New Xbox Headset")
+
+
+[Not To Be Outdone, HyperX Launches A New Xbox Headset](https://www.androidheadlines.com/2021/09/hyperx-cloudx-stinger-core-xbox-headset-wireless-launch.html)
+
+
+> HyperX this morning announced its brand-new headset designed for Xbox Series X|S, the CloudX Stinger Core, following Razer's announcement last week for its Kaira X headsets. While it's designed for Xbox Series X|S, the headset will also work with Xbox One. Unfortunately it won't work for PC as it uses Microsoft's Direct Xbox Wireless Connection.The headset is completely wireless, but it doesn't connect to the console using a USB dongle. Like most other wireless headset for consoles. Though you can't use it with PC, you can easily connect it to either generation of the Xbox with a single button press.
+
+
+***
+![Why Tesla's New 'Yoke' Steering Wheel Could Be a Safety Problem](https://compote.slate.com/images/0c5c6b68-9dbd-402a-ab4f-5d1e405ee80f.jpeg?width=780&height=520&rect=840x560&offset=0x0 "Why Tesla's New 'Yoke' Steering Wheel Could Be a Safety Problem")
+
+
+[Why Tesla's New 'Yoke' Steering Wheel Could Be a Safety Problem](https://slate.com/technology/2021/09/tesla-yoke-steering-wheel-safety.html)
+
+
+> For once we can say that Tesla really has reinvented a wheel. For its newest Model S sedans and Model X SUVs, the carmaker dropped the traditional circular steering wheel in favor of what it's calling a 'yoke.' This yoke is rectangular and reminiscent of what you might see in a jet or a racecar. Tesla CEO Elon Musk indicated that the company made the change because, 'Yet another round wheel is boring & blocks the screen,' adding that Tesla's 'Full Self-Driving' function—controversial due to safety concerns—'in panoramic mode looks way better with a yoke.
+
+
