@@ -4371,3 +4371,53 @@
 > Pixabay Payment provider Mastercard is seeking to become a trusted digital identity provider and, to this end, has applied for accreditation under the Australian Government's Trusted Digital Identity Framework. The TDIF defines the standards, rules and guidelines for firms that can operate as digital identity providers. In a statement, Mastercard said it would work with the government's Digital Transformation Agency to check whether its technology could be to verify identity and age digitally. The company will work with the DTA to learn from private sector trials, to gauge effects on retailers' and consumers' experiences and also online expectations when implementing the TDIF.
 
 
+***
+![Facebook says Instagram is not ‘toxic for teens,' despite WSJ report](https://external-preview.redd.it/PAsEr9ZsWDnvpKf-UwrCfEk-0QKOZ5IbCGZjVrtERy8.jpg?auto=webp&s=e3a2a7aa014a4f045e527d862568de33588b4d7a "Facebook says Instagram is not ‘toxic for teens,' despite WSJ report")
+
+
+[Facebook says Instagram is not ‘toxic for teens,' despite WSJ report](https://www.reddit.com/r/technology/comments/pw9bvb/facebook_says_instagram_is_not_toxic_for_teens/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![London's Dice raises $122M at a $400M valuation for its intelligent event discovery and booking platform – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/dice-venue.jpg "London's Dice raises $122M at a $400M valuation for its intelligent event discovery and booking platform – TechCrunch")
+
+
+[London's Dice raises $122M at a $400M valuation for its intelligent event discovery and booking platform – TechCrunch](https://techcrunch.com/2021/09/26/londons-dice-raises-122m-at-a-400m-valuation-for-its-intelligent-event-discovery-and-booking-platform/)
+
+
+> Covid-19 really put the kibosh on live events in the last 18 months, but in the world of tech, it also meant that live event startups that found a way to survive and grow throughout the period got a lot of attention. In the latest development, Dice — a London company that has built a platform to help people discover and attend live events that might be of interest to them — has raised $122 million, a funding round that sources tell us values the company at $400 million. SoftBank Vision Fund 2 is leading the round, a Series C, with iPod 'father' and Nest co-founder Tony Fadell (by way of Future Shape), Blisce, French entrepreneur Xavier Niel, Mirabaud, Cassius and Evolution — all previous backers — also participating.
+
+
+***
+![Power up your productivity with these 8 great free Chrome extensions](https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/poster-google-chrome-extensions.jpg "Power up your productivity with these 8 great free Chrome extensions")
+
+
+[Power up your productivity with these 8 great free Chrome extensions](https://www.fastcompany.com/90679941/best-chrome-extensions-for-productivity)
+
+
+> Extensions are built for all kinds of purposes, from managing tasks and accessing data more quickly to automating repetitive work and much more. Some are more useful than others, but a good productivity extension can be hugely beneficial when it comes to helping you work more efficiently each day.Here are some contenders to check out.If you find yourself typing out the same phrases day after day, make sure to check out the Magical – Text Expansion extension. It lets you set up custom shortcuts that, when typed, automagically expand into full phrases: 'brb' could expand to 'be right back' or 'zm' could expand to your Zoom meeting URL.
+
+
+***
+![I'm currently working on 2D portal game](https://external-preview.redd.it/8zkuw2HS7mobPKWRse9FBAecw9rZZLWnKl_rzCWRVMw.jpg?auto=webp&s=f47bb5cbe1d89d20a04725b7e2f78a84b571093d "I'm currently working on 2D portal game")
+
+
+[I'm currently working on 2D portal game](https://www.reddit.com/r/Python/comments/pw991n/im_currently_working_on_2d_portal_game/)
+
+
+> For teaching myself OOP and git, I'm working on a 2D portal game using pygame, I'm looking for collabration with you guys, so if anyone is interested here's Repo link and DM me for discord server link .
+
+
+***
+![Japan breaks world record for fastest internet speed](https://external-preview.redd.it/OrvObvkag090e-LblI8vAe-WDEzv0wyUMv6Cd3-Bsvk.jpg?auto=webp&s=88f9b17325b8b19c6a2fed0b94915257abf4e82a "Japan breaks world record for fastest internet speed")
+
+
+[Japan breaks world record for fastest internet speed](https://www.reddit.com/r/technology/comments/pw8zy0/japan_breaks_world_record_for_fastest_internet/)
+
+
+> no comments yetBe the first to share what you think!
+
+
