@@ -4515,3 +4515,53 @@
 > September 27, 2021 04:00 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Launchpool Labs, the community-centric, chain-agnostic incubator operating under the #beyourownVC ethos, has announced its first-ever slate of partners and advisors. The additions will enable Launchpool Labs to offer a truly holistic suite of support services for its four annual incubee cohorts. 'It is with great pleasure that we announce our first partners and advisors for Launchpool Labs. This incubator meant a lot of work in the background, and we couldn't have done it without the support of the entire Launchpool team, and the agencies we work with,' said Roxana Nasoi, Launchpool Labs' Managing Director.
 
 
+***
+![China's crypto throwdown](https://images.axios.com/BULSFf8Ps3kWzvWZbAwxRgv_GyI=/0x0:1920x1080/1366x768/2021/09/27/1632703453926.jpg "China's crypto throwdown")
+
+
+[China's crypto throwdown](https://www.axios.com/china-cryptocurrency-bitcoin-web3-a7d9cf80-0955-40e9-94b1-ae43f5dce9f0.html)
+
+
+> China's latest move to ban cryptocurrency shows how tough it will be for the technology to deliver on its backers' vision of disruptive, decentralized change.The big picture: Control of the currency is a foundation of sovereignty, and governments don't plan on losing that control even as money inevitably turns digital. Driving the news: Friday's announcement banning cryptocurrency transactions is only the latest effort by the Chinese government to rein in the technology as it barrels forward with plans for its own official digital currency.
+
+
+***
+![Forget the iPhone 13 -- here's why the iPhone 11 is still a great value in 2021](https://www.cnet.com/a/img/dxupqyqdV1okkp8Gc-NUSS2NPs0=/1200x630/2020/09/22/43273529-6e92-4b01-9e9f-643bf3856824/iphone-11-home-screen-7793.jpg "Forget the iPhone 13 -- here's why the iPhone 11 is still a great value in 2021")
+
+
+[Forget the iPhone 13 -- here's why the iPhone 11 is still a great value in 2021](https://www.cnet.com/tech/mobile/forget-the-iphone-13-heres-why-the-iphone-11-is-still-a-great-value-in-2021/)
+
+
+> The iPhone 11 is a tempting choice at its new $500 price.  Angela Lang/CNET Apple's new iPhone 13, which launched Sept. 24, may be getting all the attention -- but it's only a part of the company's sprawling 2021 smartphone lineup. For those looking to pay less, Apple's 2-year-old iPhone 11 should not be ignoredWith its new starting price of $500, the 64GB iPhone 11 is about $300 less expensive than the 128GB $800 iPhone 13 (with a carrier activation discount). Yes, it's $100 more expensive than the $400 iPhone SE, but there are plenty of upgrades that justify the extra cash.
+
+
+***
+![Get Microsoft Office for free: Use Word, Excel and PowerPoint without spending a dime](https://www.cnet.com/a/img/Do5tjgd2pLwO8y0rrVodErPXfEU=/1200x630/2021/09/22/3dc8b9be-471b-4a21-811c-e0a826dfa0ce/microsoft-surface-pro-8-event-screenshots-039.png "Get Microsoft Office for free: Use Word, Excel and PowerPoint without spending a dime")
+
+
+[Get Microsoft Office for free: Use Word, Excel and PowerPoint without spending a dime](https://www.cnet.com/tech/services-and-software/get-microsoft-office-for-free-how-to-get-word-excel-and-powerpoint-without-spending-a-dime/)
+
+
+> You can use Microsoft Office apps for free.  Josh Miller/CNET Whether it's for work or personal use, chances are at some point, you're going to need to access a Microsoft Word document, a PowerPoint presentation or other basic tools found in Microsoft 365. The service, formerly known as Office 365, offers more features than the average office software, but it can be costly. If you don't want to spend your money on Microsoft 365, don't stress. There are a few ways to get the service for free.  Microsoft's suite of productivity software -- which includes Word, Excel, PowerPoint, Outlook, Microsoft Teams, OneDrive and SharePoint -- typically costs $150 for a one-time installation (as Office 365), or between $70 and $100 every year for subscription service access across devices and family members (as Microsoft 365).
+
+
+***
+![Ingram Micro Commerce & Lifecycle Services Executive Receives Supply Chain Award](https://mms.businesswire.com/media/20210927005008/en/785039/23/LogoIMCLS_blk_Final_%288%29.jpg "Ingram Micro Commerce & Lifecycle Services Executive Receives Supply Chain Award")
+
+
+[Ingram Micro Commerce & Lifecycle Services Executive Receives Supply Chain Award](https://www.businesswire.com/news/home/20210927005008/en/Ingram-Micro-Commerce-Lifecycle-Services-Executive-Receives-Supply-Chain-Award)
+
+
+> September 27, 2021 06:00 AM Eastern Daylight Time AUCKLAND, New Zealand--(BUSINESS WIRE)--Ingram Micro Commerce & Lifecycle Services today announced that Lisa Flynn, director, New Zealand, has been recognized in Supply & Demand Chain Executive's annual Women in Supply Chain Award. The award honors female supply chain leaders whose accomplishments, mentorship and examples set a foundation for women in all levels of a company's supply chain network. Lisa joined Ingram Micro Commerce & Lifecycle Services in 2016, bringing more than a decade of senior management, continuous improvement and innovation experience to the organization.
+
+
+***
+![Takeda, dentsu and Finastra Awarded Designation as Best in Enterprise ResilienceTM Leaders as Part of Everbridge's Global Critical Event Management (CEM) Certification Program](https://mms.businesswire.com/media/20210927005256/en/910058/23/EVBG-Congrats-BER-Finastra-Takeda-dentsu-1920x1080.jpg "Takeda, dentsu and Finastra Awarded Designation as Best in Enterprise ResilienceTM Leaders as Part of Everbridge's Global Critical Event Management (CEM) Certification Program")
+
+
+[Takeda, dentsu and Finastra Awarded Designation as Best in Enterprise ResilienceTM Leaders as Part of Everbridge's Global Critical Event Management (CEM) Certification Program](https://www.businesswire.com/news/home/20210927005256/en/Takeda-dentsu-and-Finastra-Awarded-Designation-as-Best-in-Enterprise-ResilienceTM-Leaders-as-Part-of-Everbridge%E2%80%99s-Global-Critical-Event-Management-CEM-Certification-Program)
+
+
+> BURLINGTON, Mass.--(BUSINESS WIRE)--Everbridge, Inc. (NASDAQ: EVBG) today announced that global industry leaders Takeda Pharmaceutical Company Limited ('Takeda'), dentsu international and Finastra are among the elite multi-national businesses to achieve the prestigious Best in Enterprise Resilience™ designation based on their performance among peer companies in meeting the rigorous formalized standards to becoming Critical Event Management (CEM) Certified™. The Everbridge Critical Event Management (CEM) Certification™ Program provides a unique standards framework for assessing an organization's overall enterprise resilience, leveraging 20 years of professional services engagements across tens of thousands of projects in over 150 countries and facilitating tens of billions of critical interactions.
+
+
