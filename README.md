@@ -4334,3 +4334,40 @@
 > Over the past week, we revealed the nominees for The Economic Times Startup Awards 2021 in nine categories, including Bootstrap Champ, Woman Ahead, and, of course, Startup of the Year. On Friday, our high-powered jury, comprising top Indian and global business leaders, investors and entrepreneurs, met virtually to decide which of these deserved to be called the best of the best.Today, it's our pleasure to announce the winners of India's most prestigious recognition for Indian entrepreneurs.This big-bang year belongs to Zomato Zomato cofounder Deepinder GoyalZomato, which had a trailblazing IPO earlier this year, won top honours at the seventh edition of The Economic Times Startup Awards.
 
 
+***
+![An alarm sounded during SpaceX's Inspiration4 mission. Here's why](https://icdn.digitaltrends.com/image/digitaltrends/inspiration4-netflix-documentary.jpg "An alarm sounded during SpaceX's Inspiration4 mission. Here's why")
+
+
+[An alarm sounded during SpaceX's Inspiration4 mission. Here's why](https://www.digitaltrends.com/news/heres-why-an-alarm-sounded-on-spacexs-inspiration4-flight/)
+
+
+> It's emerged that SpaceX's first all-civilian crew experienced an emergency situation during the groundbreaking Inspiration4 mission earlier this month. At some point during the three-day spaceflight, an alarm alerted the four Crew Dragon passengers to an issue with — of all things — the toilet. A faulty space toilet may sound rather trivial when you consider other things that you really wouldn't want to go wrong while orbiting 357 miles (575 kilometers) above Earth. But the issue could've resulted in waste products floating around the spacecraft in the microgravity conditions, causing serious problems for those on board.
+
+
+***
+[Phone Repair Guru report finds that it will be difficult for third-party repair centers to replace iPhone 13's screen without losing access to Face ID (José Adorno/9to5Mac)](http://www.techmeme.com/210926/p12#a210926p12)
+
+
+> José Adorno / 9to5Mac: Phone Repair Guru report finds that it will be difficult for third-party repair centers to replace iPhone 13's screen without losing access to Face ID — Yesterday, we took a closer look at how the new iPhone 13 Pro Max handles drop tests. Now, another YouTuber claims that you'll probably …
+
+
+***
+![Zimyo: Making HR smarter](https://images.financialexpress.com/2021/09/1-718.jpg "Zimyo: Making HR smarter")
+
+
+[Zimyo: Making HR smarter](https://www.financialexpress.com/industry/technology/zimyo-making-hr-smarter/2338351/)
+
+
+> By: Vikram Chaudhary | September 27, 2021 7:10 AMAjay Kadyan, co-founder, ZimyoFrom hiring to onboarding to managing core HR activities to even setting goals and tracking employee performance to facilitating a collaborative team environment, Ajay Kadyan, the co-founder of Zimyo, tells FE's Vikram Chaudhary that it is enabling organisations to become 2X more productive, more efficient and more streamlined. Excerpts:How is Zimyo helping organisations redefine their work culture?Organisations of all sizes can optimise their HR activities with Zimyo HRMS.
+
+
+***
+![Mastercard looks for role as trusted digital identity provider](https://itwire.com/media/k2/items/cache/87ce213f7627c87deb46eabbfd5408ed_XS.jpg "Mastercard looks for role as trusted digital identity provider")
+
+
+[Mastercard looks for role as trusted digital identity provider](https://itwire.com/enterprise-solutions/mastercard-looks-for-role-as-trusted-digital-identity-provider.html)
+
+
+> Pixabay Payment provider Mastercard is seeking to become a trusted digital identity provider and, to this end, has applied for accreditation under the Australian Government's Trusted Digital Identity Framework. The TDIF defines the standards, rules and guidelines for firms that can operate as digital identity providers. In a statement, Mastercard said it would work with the government's Digital Transformation Agency to check whether its technology could be to verify identity and age digitally. The company will work with the DTA to learn from private sector trials, to gauge effects on retailers' and consumers' experiences and also online expectations when implementing the TDIF.
+
+
