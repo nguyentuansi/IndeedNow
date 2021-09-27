@@ -4699,3 +4699,50 @@
 > (Image credit: Amazon) The Fire TV Cube is one of the most innovative pieces of hardware yet to be put out by Amazon. And yet, with its high price tag and curious melding of Echo and Fire TV functionality, it certainly hasn't set the market alight.That could change as we near the Amazon launch event on September 28. Amazon tends to drop a medley of new product announcements at events like these, with iterative updates on its various streaming device, smart speaker, fitness tracker, and true wireless earbud ranges.
 
 
+***
+![Intel's Arc Alchemist GPUs could be in better shape than we expected](https://icdn.digitaltrends.com/image/digitaltrends/intel-arc-led-gpu.jpg "Intel's Arc Alchemist GPUs could be in better shape than we expected")
+
+
+[Intel's Arc Alchemist GPUs could be in better shape than we expected](https://www.digitaltrends.com/computing/intel-arc-alchemist-leak-performance-three-models/)
+
+
+> Intel is gearing up to launch its first generation of high-performance graphics cards, and the leaks just keep coming. According to the latest rumors, Intel is set to launch three graphics cards in the Arc Alchemist lineup, noted by 'Arc axxx' branding. Rumors also suggest that the flagship card will reach higher than we previously thought, maybe even outperforming the RTX 3070. Most of the new information comes from Moore's Law is Dead, a YouTube channel dedicated to leaks and analysis of PC hardware.
+
+
+***
+[AUDUSD trades near highs](https://www.forexlive.com/technical-analysis/!/audusd-trades-near-highs-20210927)
+
+
+> AUD is the strongest of the major currencies The forex markets are quiet but the AUDUSD has continued to drift higher. The pair did move to a new day high above the 0.72896 level. The high in the last hourly bar reached 0.72903, but has backed off. The buyers remain more control above its 200 hour moving average at
+
+
+***
+![UKG Named Top Company for Women Technologists](https://mms.businesswire.com/media/20210927005582/en/828490/23/UKG_cmyk.jpg "UKG Named Top Company for Women Technologists")
+
+
+[UKG Named Top Company for Women Technologists](https://www.businesswire.com/news/home/20210927005582/en/UKG-Named-Top-Company-for-Women-Technologists)
+
+
+> September 27, 2021 02:00 PM Eastern Daylight Time LOWELL, Mass. & WESTON, Fla.--(BUSINESS WIRE)--UKG (Ultimate Kronos Group), a leading global provider of human capital management (HCM), payroll, HR service delivery, and workforce management solutions, announced today it has been named a 2021 AnitaB.org Top Companies for Women Technologists Leader. The national program recognizes companies building workplaces where women can thrive in technology, and UKG scored in the top-25th percentile of companies with 1,000–10,000 technical employees.
+
+
+***
+![How to get the Apple Watch classic buckle look for less](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2016/04/apple-watch-2016-classic-buckles.jpg "How to get the Apple Watch classic buckle look for less")
+
+
+[How to get the Apple Watch classic buckle look for less](https://www.imore.com/how-get-apple-watch-classic-buckle-look-less)
+
+
+> The Apple Watch Classic Buckle band is beautiful to look at and is truly a timeless accessory that matches almost any outfit and occasion. However, it's not a cheap Apple Watch band, and Apple no longer sells this model anyway. You're in luck, though. There are plenty of reasonably-priced classic-style leather watch bands in a wide array of colors available all of the time. Most of these are available for every size and generation Apple Watch. Here are some of our favorite bands to get the Apple Watch Classic Buckle look for less.
+
+
+***
+![Next-Generation Arize Element® L1000 Enables Efficient Growth at an Industrial Scale](http://www.businesswire.com/images/bwlogo_square.png "Next-Generation Arize Element® L1000 Enables Efficient Growth at an Industrial Scale")
+
+
+[Next-Generation Arize Element® L1000 Enables Efficient Growth at an Industrial Scale](https://www.businesswire.com/news/home/20210927005730/en/Next-Generation-Arize-Element%C2%AE-L1000-Enables-Efficient-Growth-at-an-Industrial-Scale)
+
+
+> September 27, 2021 01:57 PM Eastern Daylight Time CLEVELAND--(BUSINESS WIRE)--GE Current, a Daintree company, today introduced the next generation of the Arize Element L1000, a top light for commercial greenhouses and indoor farms. The next generation features three models with expanded spectral options, a high photon flux of up to 2,350 μmol/s, high efficacy levels of up to 3.6 µmol/J and is proudly assembled in the heart of Appalachia. 'We set out to engineer the world's most rugged and durable light fixture for commercial agriculture, thanks to our 20-plus years of LED fixture design experience combined with over 65 years of manufacturing excellence and scale in Hendersonville, North Carolina,' said Mike Doss, Current's VP of Specialty.
+
+
