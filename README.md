@@ -4565,3 +4565,50 @@
 > BURLINGTON, Mass.--(BUSINESS WIRE)--Everbridge, Inc. (NASDAQ: EVBG) today announced that global industry leaders Takeda Pharmaceutical Company Limited ('Takeda'), dentsu international and Finastra are among the elite multi-national businesses to achieve the prestigious Best in Enterprise Resilience™ designation based on their performance among peer companies in meeting the rigorous formalized standards to becoming Critical Event Management (CEM) Certified™. The Everbridge Critical Event Management (CEM) Certification™ Program provides a unique standards framework for assessing an organization's overall enterprise resilience, leveraging 20 years of professional services engagements across tens of thousands of projects in over 150 countries and facilitating tens of billions of critical interactions.
 
 
+***
+![iPhone 13 Pro, iPhone 13 Pro Max drop test shows these are tough phones but they do have a fall limit](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202109/iPhone13Pro_droptest_27092021-647x363.png?KUwN3qVtDqHZj5Z9K9R5xDt_oYHqIku2 "iPhone 13 Pro, iPhone 13 Pro Max drop test shows these are tough phones but they do have a fall limit")
+
+
+[iPhone 13 Pro, iPhone 13 Pro Max drop test shows these are tough phones but they do have a fall limit](https://www.indiatoday.in/technology/news/story/iphone-13-pro-iphone-13-pro-max-drop-test-shows-these-are-tough-phones-but-they-do-have-a-fall-limit-1857831-2021-09-27)
+
+
+> Apple's new iPhone lineup has been under the spotlight since long before its launch and now that they are out, they are being subjected to all sorts of tests by the experts. One such determines the increased durability on the new iPhones as claimed by Apple, by dropping them from various heights and seeing if they survive. The recent drop test has been performed on the Pro models of the new iPhones, that is the iPhone 13 Pro and the iPhone 13 Pro Max. Under the test, the devices were dropped from various heights, with some emulating real-world scenarios where a user might drop their iPhone from the hands or a tabletop.
+
+
+***
+[Oppo Reno 6 Pro 5G Diwali edition, Oppo F19s, Enco Buds Blue launched: Check price, offers, availability and more](https://www.zeebiz.com/technology/mobiles/news-oppo-reno-6-pro-5g-diwali-edition-oppo-f19s-enco-buds-blue-launched-check-price-offers-availability-and-more-166164)
+
+
+> This festive season customers can enjoy benefits up to 10,000, which will have a cashback up to Rs 4000 confirmed through ICICI bank, Axis bank, Kotak Bank, Standard Chartered and many others.
+
+
+***
+![Facebook STOPS plot to make ‘Instagram for Kids' after shock report – but says it's only ‘paused'](https://www.the-sun.com/wp-content/uploads/sites/6/2021/09/instagram-kids.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Facebook STOPS plot to make ‘Instagram for Kids' after shock report – but says it's only ‘paused'")
+
+
+[Facebook STOPS plot to make ‘Instagram for Kids' after shock report – but says it's only ‘paused'](https://www.the-sun.com/tech/3741482/facebook-instagram-kids-app/)
+
+
+> FACEBOOK is "pausing" its work on a controversial Instagram Kids app. The app was originally designed to target youngsters aged 13 or under – but has been met with significant backlash. It follows a damning report by Facebook that revealed that Instagram was causing harm to the body image of young girls. According to an investigation by The Wall Street Journal, internal documents from Facebook show the company was aware that it was having a detrimental affect on the mental health of teen girls. One section of the documents reportedly states: 'We make body image issues worse for one in three teen girls'.
+
+
+***
+![Facebook STOPS plot to make ‘Instagram for Kids' after shock report – but says it's only ‘paused'](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/09/instagram-kids.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Facebook STOPS plot to make ‘Instagram for Kids' after shock report – but says it's only ‘paused'")
+
+
+[Facebook STOPS plot to make ‘Instagram for Kids' after shock report – but says it's only ‘paused'](https://www.thescottishsun.co.uk/tech/7763078/facebook-instagram-kids-app/)
+
+
+> FACEBOOK is "pausing" its work on a controversial Instagram Kids app. The app was originally designed to target youngsters aged 13 or under – but has been met with significant backlash. It follows a damning report by Facebook that revealed that Instagram was causing harm to the body image of young girls. According to an investigation by The Wall Street Journal, internal documents from Facebook show the company was aware that it was having a detrimental affect on the mental health of teen girls. One section of the documents reportedly states: 'We make body image issues worse for one in three teen girls'.
+
+
+***
+![Facebook STOPS plot to make ‘Instagram for Kids' after shock report – but says it's only ‘paused'](https://www.thesun.co.uk/wp-content/uploads/2021/09/instagram-kids.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Facebook STOPS plot to make ‘Instagram for Kids' after shock report – but says it's only ‘paused'")
+
+
+[Facebook STOPS plot to make ‘Instagram for Kids' after shock report – but says it's only ‘paused'](https://www.thesun.co.uk/tech/16255485/facebook-instagram-kids-app/)
+
+
+> FACEBOOK is "pausing" its work on a controversial Instagram Kids app. The app was originally designed to target youngsters aged 13 or under – but has been met with significant backlash. It follows a damning report by Facebook that revealed that Instagram was causing harm to the body image of young girls. According to an investigation by The Wall Street Journal, internal documents from Facebook show the company was aware that it was having a detrimental affect on the mental health of teen girls. One section of the documents reportedly states: 'We make body image issues worse for one in three teen girls'.
+
+
