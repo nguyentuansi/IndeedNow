@@ -4659,3 +4659,43 @@
 > To turn off Unlock with Apple Watch, go to Settings > Face ID & Passcode.
 
 
+***
+![The Best Windows 11 Keyboard Shortcuts You Should Know](https://icdn.digitaltrends.com/image/digitaltrends/windows-11-on-laptop-screen-copy.jpg "The Best Windows 11 Keyboard Shortcuts You Should Know")
+
+
+[The Best Windows 11 Keyboard Shortcuts You Should Know](https://www.digitaltrends.com/computing/the-best-windows-11-keyboard-shortcuts/)
+
+
+> Keyboard shortcuts are a great way to save time whether you're working or relaxing. While we've already covered some of our favorite Windows 10 shortcuts, there's also a fresh set in Windows 11. Here's a look at some of those shortcuts and how you can use them to your advantage. New Windows 11 keyboard shortcuts Mark Coppock/Digital Trends Windows 11 brings a new set of keyboard shortcuts that aren't available in Windows 10. These shortcuts are catered to some of the new features in the operating system, like the Widgets Pane, Quick Settings, Notification Center, Snap Layouts, and the new Chat app.
+
+
+***
+![Google CEO admits calling Chrome Incognito mode 'private' was his call](https://cdn.mos.cms.futurecdn.net/x6LMvCvfaP44cXGUjWmq3V-1200-80.jpg "Google CEO admits calling Chrome Incognito mode 'private' was his call")
+
+
+[Google CEO admits calling Chrome Incognito mode 'private' was his call](https://www.techradar.com/news/google-ceo-admits-calling-chrome-incognito-mode-private-was-his-call)
+
+
+> (Image credit: Shutterstock - slyellow) Despite being flagged, Google's decision to stick with the description of Google Chrome's Incognito browsing mode as "private" came right from the top, new reports have claimed.Court filings have revealed that Google CEO Sundar Pichai was made aware of the fallacy in calling Incognito mode as 'private' in 2019.Yet Pichai decided to maintain the status quo because he 'didn't want to put incognito under the spotlight,' the documents allege.In June 2020, Google was hit with a $5 billion class action lawsuit regarding its collection of user data even when operating the popular web browser in the incognito mode.
+
+
+***
+![We can't believe how cheap this 70-inch 4K TV is at Best Buy today](https://icdn.digitaltrends.com/image/digitaltrends/hisense-70a6g-class-4k-uhd-android-smart-tv.jpg "We can't believe how cheap this 70-inch 4K TV is at Best Buy today")
+
+
+[We can't believe how cheap this 70-inch 4K TV is at Best Buy today](https://www.digitaltrends.com/dtdeals/hisense-70a6g-tv-deal-best-buy-september-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. You shouldn't hold yourself back from taking advantage of 4K TV deals, as there's nothing like watching your favorite shows on your home theater setup to unwind after a long day. It's recommended to get the largest screen that your budget allows, but with Best Buy TV deals, which includes 70-inch TV deals, you might be surprised that you can afford a massive display. For example, Best Buy is selling the Hisense 70A6G at $270 off, bringing the price of the 70-inch 4K TV down to just $580 from its original price of $850.
+
+
+***
+![Will the Fire TV Cube get a new lease of life?](https://cdn.mos.cms.futurecdn.net/vhFQkptEM3RZXHzG422Gaj-1200-80.jpg "Will the Fire TV Cube get a new lease of life?")
+
+
+[Will the Fire TV Cube get a new lease of life?](https://www.techradar.com/news/will-the-fire-tv-cube-get-a-new-lease-of-life)
+
+
+> (Image credit: Amazon) The Fire TV Cube is one of the most innovative pieces of hardware yet to be put out by Amazon. And yet, with its high price tag and curious melding of Echo and Fire TV functionality, it certainly hasn't set the market alight.That could change as we near the Amazon launch event on September 28. Amazon tends to drop a medley of new product announcements at events like these, with iterative updates on its various streaming device, smart speaker, fitness tracker, and true wireless earbud ranges.
+
+
