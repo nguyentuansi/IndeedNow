@@ -4290,3 +4290,47 @@
 > YOU speak to Alexa more than your partner and can't prise the kids away from their console. And you won't leave the kitchen, let alone the house, without your smartphone. We round up the best kit to keep you healthy, happy and rested, including some gadgets that stop you from snoringCredit: Alamy Every aspect of our lives is enabled by technology, with clever gadgets designed to make even the simplest of tasks even easier. That includes our health. There are gadgets for every ailment and 'fem tech' alone is worth £16billion globally.
 
 
+***
+[API Logic Server, now with Docker](https://www.reddit.com/r/Python/comments/pw5ntg/api_logic_server_now_with_docker/)
+
+
+> At the urging of Max Tardiveau and Michael Holleran, I have put API Logic Server into #docker. Took a bit of fiddling (and much appreciated support from Max), but it is a hit with me:* It avoids the often fiddly Python install* It enables #vscode (without Python install), providing code completion to build rules, rule debugging, etc* I went ahead and prepared several DB images (#mysql , #postgresql , and, a surprise to me, #sqlserver ) - super for testingWith 1 command, create a database API, to unblock UI development.
+
+
+***
+![Cinematic Video](https://images.macrumors.com/social/?t=2313801&v=6 "Cinematic Video")
+
+
+[Cinematic Video](https://forums.macrumors.com/threads/cinematic-video-my-thoughts-as-a-full-time-video-content-creator.2313801/)
+
+
+> So I am currently sharing my first video shot with cinematic video and thought I would share some thoughts and maybe spur some conversation. This was the absolute one feature I was looking forward to, and that with the "97%" more light back wide camera were enough to upgrade from my 12PM that I only got last December 26th. Just a few thoughts though. 1. Getting video off the phone is going to be a chore. In order to actually keep the depth effect, apple says you need to Airdrop or use the photos app, you cannot use iMazing or third party apps, the video just comes out as 1080p video with no depth effects.
+
+
+***
+!["Unfair gain from over-dividend"... Seongnam citizen filed an invalidation lawsuit](https://img.sbs.co.kr/newimg/news/20210925/201594877_1280.jpg ""Unfair gain from over-dividend"... Seongnam citizen filed an invalidation lawsuit")
+
+
+["Unfair gain from over-dividend"... Seongnam citizen filed an invalidation lawsuit](https://www.tellerreport.com/tech/2021-09-27-"unfair-gain-from-over-dividend"----seongnam-citizen-filed-an-invalidation-lawsuit.rJGtmsKCXY.html)
+
+
+> Some Seongnam citizens have filed a lawsuit regarding the suspicion of preferential treatment for the development of Daejang-dong. Seongnam Ui Garden, a company created for the Daejang-dong business, filed a lawsuit saying it was invalid to allocate hundreds of billions of won to private operators. Some Seongnam citizens have filed a lawsuit regarding the suspicion of preferential treatment for Daejang-dong development. Seongnam Ui Garden, a company created for the Daejang-dong business, filed a lawsuit saying it was invalid to allocate hundreds of billions of won to private operators.
+
+
+***
+[Stamping Out Overflow Checks in Ruby](https://www.reddit.com/r/programming/comments/pw5h4z/stamping_out_overflow_checks_in_ruby/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![ESTA 2021: And the winners are...](https://img.etimg.com/thumb/msid-86543984,width-1070,height-580,imgsize-47288,overlay-ettech/photo.jpg "ESTA 2021: And the winners are...")
+
+
+[ESTA 2021: And the winners are...](https://m.economictimes.com/tech/newsletters/morning-dispatch/esta-2021-and-the-winners-are-/articleshow/86540716.cms)
+
+
+> Over the past week, we revealed the nominees for The Economic Times Startup Awards 2021 in nine categories, including Bootstrap Champ, Woman Ahead, and, of course, Startup of the Year. On Friday, our high-powered jury, comprising top Indian and global business leaders, investors and entrepreneurs, met virtually to decide which of these deserved to be called the best of the best.Today, it's our pleasure to announce the winners of India's most prestigious recognition for Indian entrepreneurs.This big-bang year belongs to Zomato Zomato cofounder Deepinder GoyalZomato, which had a trailblazing IPO earlier this year, won top honours at the seventh edition of The Economic Times Startup Awards.
+
+
