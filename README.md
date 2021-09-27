@@ -4465,3 +4465,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![How to maintain productivity when working remotely](https://cdn.mos.cms.futurecdn.net/Z5KELFRaPvFLNC6NWZoxdh-1200-80.jpg "How to maintain productivity when working remotely")
+
+
+[How to maintain productivity when working remotely](https://www.techradar.com/news/how-to-maintain-productivity-when-working-remotely)
+
+
+> The last 18 months have seen an incredible change for many workers across the globe, with the pandemic shutting down workplaces and forcing millions to work fully remotely for the first time.After the initial discomfort, most of us will now be pretty comfortable working remotely - but it's fair to say everyone suffers that little dip in productivity every now and again.So if you're still getting used to working from home, or maybe just need some encouragement, here are some tips from us to make sure you stay productive, even when out of the office.
+
+
+***
+![Toshiba's 2021 TV lineup shows good TVs don't have to break the bank](https://cdn.mos.cms.futurecdn.net/6ivGMqTJBtGxUQ5YQeLhvC-1200-80.jpg "Toshiba's 2021 TV lineup shows good TVs don't have to break the bank")
+
+
+[Toshiba's 2021 TV lineup shows good TVs don't have to break the bank](https://www.techradar.com/news/toshibas-2021-tv-lineup-shows-good-tvs-dont-have-to-break-the-bank)
+
+
+> (Image credit: Toshiba) Toshiba has unveiled its full line-up of TVs in the UK for 2021, and they look perfect for creating a great home cinema setup without needing to drop thousands of pounds.Headlining its collection is the newly announced Toshiba UK31 – which is available from £379 – and comes with the Amazon Alexa voice assistant built-in. This 4K TV has premium audio and visual features built-in like HLG, Dolby Vision, and Dolby Atmos that should allow it to deliver a premium home cinema experience, especially at its largest 65-inch size.
+
+
+***
+![Wondershare Named as Leader and High Performer in G2 Crowd Summer 2021 Awards](https://mms.businesswire.com/media/20210927005041/en/909540/23/wondershare.jpg "Wondershare Named as Leader and High Performer in G2 Crowd Summer 2021 Awards")
+
+
+[Wondershare Named as Leader and High Performer in G2 Crowd Summer 2021 Awards](https://www.businesswire.com/news/home/20210927005041/en/Wondershare-Named-as-Leader-and-High-Performer-in-G2-Crowd-Summer-2021-Awards)
+
+
+> September 27, 2021 04:00 AM Eastern Daylight Time VANCOUVER, British Columbia--(BUSINESS WIRE)--As a leading company in digital creativity software, Wondershare today announced that several of its creativity and productivity products have been recognized by G2 Crowd in its latest Summer 2021 Reports. Wondershare Filmora, PDFelement and Recoverit were ranked as industry "Leader," while FilmoraPro shone as a "High Performer," reasserting their statuses from the Spring 2021 Reports. "We are delighted and proud to be awarded again in the new session of G2 Crowd award," said Tobee Wu, CEO of Wondershare.
+
+
+***
+![Vecow and Blaize Team to Deliver Leading Workstation-grade Edge AI Computing Solution](https://mms.businesswire.com/media/20210927005259/en/910086/23/800x800_ECX-2400_AI_B%2BXplorer.jpg "Vecow and Blaize Team to Deliver Leading Workstation-grade Edge AI Computing Solution")
+
+
+[Vecow and Blaize Team to Deliver Leading Workstation-grade Edge AI Computing Solution](https://www.businesswire.com/news/home/20210927005259/en/Vecow-and-Blaize-Team-to-Deliver-Leading-Workstation-grade-Edge-AI-Computing-Solution)
+
+
+> September 27, 2021 04:00 AM Eastern Daylight Time EL DORADO HILLS, Calif & NEW TAIPEI CITY, Taiwan--(BUSINESS WIRE)--Vecow Co., Ltd., a team of global embedded experts, and Blaize®, the AI edge computing innovator, today announced the launch of the Vecow ECX-2400 workstation-grade AI Computing System. Vecow ECX-2400 AI Computing System harnesses the Blaize Graph Streaming Processor® (GSP®) based Xplorer AI accelerator to deliver outstanding AI performance with higher system reliability, lower power consumption and faster time-to-market.
+
+
+***
+![Launchpool Labs Announces First Partners and Advisors for Their Chain-Agnostic Incubator](https://mms.businesswire.com/media/20210927005292/en/910072/23/launchpool-labs.jpg "Launchpool Labs Announces First Partners and Advisors for Their Chain-Agnostic Incubator")
+
+
+[Launchpool Labs Announces First Partners and Advisors for Their Chain-Agnostic Incubator](https://www.businesswire.com/news/home/20210927005292/en/Launchpool-Labs-Announces-First-Partners-and-Advisors-for-Their-Chain-Agnostic-Incubator)
+
+
+> September 27, 2021 04:00 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Launchpool Labs, the community-centric, chain-agnostic incubator operating under the #beyourownVC ethos, has announced its first-ever slate of partners and advisors. The additions will enable Launchpool Labs to offer a truly holistic suite of support services for its four annual incubee cohorts. 'It is with great pleasure that we announce our first partners and advisors for Launchpool Labs. This incubator meant a lot of work in the background, and we couldn't have done it without the support of the entire Launchpool team, and the agencies we work with,' said Roxana Nasoi, Launchpool Labs' Managing Director.
+
+
