@@ -4612,3 +4612,50 @@
 > FACEBOOK is "pausing" its work on a controversial Instagram Kids app. The app was originally designed to target youngsters aged 13 or under – but has been met with significant backlash. It follows a damning report by Facebook that revealed that Instagram was causing harm to the body image of young girls. According to an investigation by The Wall Street Journal, internal documents from Facebook show the company was aware that it was having a detrimental affect on the mental health of teen girls. One section of the documents reportedly states: 'We make body image issues worse for one in three teen girls'.
 
 
+***
+![Get more protection with a rugged case for your iPhone 13 Pro](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/iphone-13-pro-rugged-cases-hero.jpeg "Get more protection with a rugged case for your iPhone 13 Pro")
+
+
+[Get more protection with a rugged case for your iPhone 13 Pro](https://www.imore.com/best-rugged-cases-iphone-13-pro)
+
+
+> Best rugged cases for iPhone 13 Pro iMore 2021 For some people, the only good iPhone 13 Pro case is a heavy-duty case. Whether you want to take your iPhone 13 Pro on all of your outdoor adventures, or your worksite is hazardous (to your iPhone), or you tend to drop your iPhone more than you'd like, a rugged case is just what you need. Here are some of the best rugged cases for the iPhone 13 Pro you can buy. Staff Pick This reasonably-priced rugged case has textured edges so you can keep a good grip on your iPhone.
+
+
+***
+![Facebook reads and shares WhatsApp private messages: report](https://external-preview.redd.it/MVMqpE7oyGZ9soR53gTPJ7Abh0iOYm16oqsNehkSerg.jpg?auto=webp&s=1bfd5527aefb29abcf892b967a0294876824c8c5 "Facebook reads and shares WhatsApp private messages: report")
+
+
+[Facebook reads and shares WhatsApp private messages: report](https://www.reddit.com/r/technology/comments/pwhmv4/facebook_reads_and_shares_whatsapp_private/)
+
+
+> Session is pretty damn good too. Same concept, except it's not tied to your phone number.
+
+
+***
+![Facebook pauses Instagram Kids development following widespread concerns](https://www.imore.com/sites/imore.com/files/styles/large/public/article_images/2019/04/instagram-logo-hero-galaxy-s10-1-4mx0-4mx0-4mx0.jpg "Facebook pauses Instagram Kids development following widespread concerns")
+
+
+[Facebook pauses Instagram Kids development following widespread concerns](https://www.imore.com/facebook-pauses-instagram-kids-following-widespread-concerns)
+
+
+> Source: Joe Maring / iMore Instagram owner Facebook has today announced plans to pause its planned Instagram Kids launch, allowing it time to build new parental supervision tools. In a press release penned by Instagram chief Adam Mosseri, Facebook says that it believes it's best to give kids access to a special version of Instagram, rather than them use the normal version. We firmly believe that it's better for parents to have the option to give their children access to a version of Instagram that is designed for them — where parents can supervise and control their experience — than relying on an app's ability to verify the age of kids who are too young to have an ID.
+
+
+***
+![Google Doodle celebrates the search engine's 23rd birthday](https://www.cnet.com/a/img/mkKi8IcjfWd4zQSxCXdszRrNLoE=/1200x630/2021/09/27/a87996ff-c7bc-4c5e-ac4c-43eaeacb2525/screen-shot-2021-09-27-at-9-33-46-am.png "Google Doodle celebrates the search engine's 23rd birthday")
+
+
+[Google Doodle celebrates the search engine's 23rd birthday](https://www.cnet.com/tech/services-and-software/google-doodle-celebrates-the-search-engines-23rd-birthday/)
+
+
+> Google celebrates it 23rd birthday. Google Doodle Google is celebrating its 23rd birthday on Monday with a new Doodle. The animated Doodle features a layered birthday cake with rainbow sprinkles and the number 23 written on the top. The search giant's name, which is also covered in frosting and sprinkles, is floating above and the flickering green birthday candle substitutes the "L" in "Google." Google, which was officially established on Sept. 4, 1998,  was co-founded by Sergey Brin and Larry Page.
+
+
+***
+[Apple to fix issue with 'unlock with Apple Watch' feature on iPhone 13 soon](https://www.zeebiz.com/technology/news-apple-to-fix-issue-with-unlock-with-apple-watch-feature-on-iphone-13-soon-166173)
+
+
+> To turn off Unlock with Apple Watch, go to Settings > Face ID & Passcode.
+
+
