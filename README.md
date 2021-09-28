@@ -5322,3 +5322,50 @@
 > Amazon At Amazon's Echo and Ring devices event Tuesday, the company announced the Amazon Glow, an interactive video-chat device focused on helping kids and loved ones play together via the internet.  Now playing: Watch this: Amazon Glow: An interactive projector for kids The Amazon Glow works in two parts. On the child's end, an 8-inch display projects an interactive gaming surface onto a 19-inch, white silicone mat. The Amazon Glow is also equipped with a video screen that shows the remote adult on the other end of the video call.
 
 
+***
+![Genshin Impact Is Getting Review Bombed Over its Anniversary Event](https://techraptor.net/sites/default/files/styles/image_header/public/2021-09/GenshinImpactRaidenShogunAngry.jpg?itok=ylTUYl_u "Genshin Impact Is Getting Review Bombed Over its Anniversary Event")
+
+
+[Genshin Impact Is Getting Review Bombed Over its Anniversary Event](https://techraptor.net/gaming/news/genshin-impacts-review-bomb-anniversary-event)
+
+
+> After a years' worth of dedicating time and money to the world of Teyvat, fans of Genshin Impact are organizing across the internet in a clamorous outcry for the game's lackluster anniversary event rewards, leading to the game being review bombed. Genshin Impact has dropped over two stars on the Google Play Store. miHoYo, the developers of Genshin Impact, has remained silent despite the evident unrest amongst its community. With Genshin Impact's mobile version surpassing $1 billion in March of this year, miHoYo's frugal recompense to its dedicated player base has blown up in its face.
+
+
+***
+![Cybersecurity: Small businesses reel under new high-tech attacks](https://images.financialexpress.com/2021/09/z7-9.jpg "Cybersecurity: Small businesses reel under new high-tech attacks")
+
+
+[Cybersecurity: Small businesses reel under new high-tech attacks](https://www.financialexpress.com/industry/technology/cybersecurity-small-businesses-reel-under-new-high-tech-attacks/2339807/)
+
+
+> By: Sudhir Chowdhary | September 29, 2021 1:30 AMComputing and malware concept. Hacker using computer with digital business interface. Double exposureSMALL AND MEDIUM-SIZE businesses (SMB) in India are exposed to, under attack, and more worried about cybersecurity threats than before. According to a new study by Cisco titled Cybersecurity for SMBs: Asia Pacific Businesses Prepare for Digital Defens, three in four (74%) SMBs in India suffered a cyber incident in the past year, resulting in 85% losing customer information to malicious actors, in addition to a tangible impact on business.
+
+
+***
+![All the Nintendo Switch games coming in October 2021!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/metroid_dread_hero.jpg "All the Nintendo Switch games coming in October 2021!")
+
+
+[All the Nintendo Switch games coming in October 2021!](https://www.imore.com/every-nintendo-switch-game-coming-out-month)
+
+
+> It's new game time! Nintendo Switch has quite a few new games coming out this month, and we've gathered them in one list for you! Whether they're new games or new takes on some old favorites, here are all of the games released for the Nintendo Switch this month! Staff Pick The X parasite is back. Although E.M.M.I. robots were sent in to destroy the parasite, the E.M.M.I. haven't been heard from. Samus Aran is the sole immune person, so she must go find out what is going on alone and make it out alive.
+
+
+***
+![Amazon announces Astro, a home robot that it swears is more than Alexa on wheels.](https://static01.nyt.com/images/2021/09/28/technology/28economy-briefing-robot/oakImage-1632856356694-facebookJumbo.jpg "Amazon announces Astro, a home robot that it swears is more than Alexa on wheels.")
+
+
+[Amazon announces Astro, a home robot that it swears is more than Alexa on wheels.](https://www.nytimes.com/2021/09/28/technology/amazon-astro-robot.html)
+
+
+> Continue reading the main storyAmazon's new Astro robot, which features a screen and cameras, has a starting price of $1,000.Credit...AmazonSept. 28, 2021Updated 3:49 p.m. ET'Customers don't just want Alexa on wheels,' Dave Limp, the head of Amazon's devices, said at a company event on Tuesday. Then he proceeded to introduce a technology-packed home robot that looked a lot like … Alexa on wheels.At least four years in the making, the small robot, called Astro, has a large screen and cameras attached to a wheeled base that can navigate a home.
+
+
+***
+[Amazon unveils ‘Jetsons'-like roaming robot for the home](https://www.mymotherlode.com/news/technology/1998621/amazon-unveils-jetsons-like-roaming-robot-for-the-home.html)
+
+
+> NEW YORK (AP) — Amazon's new robot can hear, see and follow you around the the home, but its no Rosey the Robot. Amazon's version, called Astro, doesn't cook or clean like the animated character from 'The Jetsons,' but it can check if you left the stove on while you're out or send an alert if someone enters the house it doesn't recognize. It uses cameras, sensors and artificial technology to avoid walls or dogs, and Amazon said Astro will only get smarter as time goes on. It does do some housework: Snacks or a can of soda can be placed on its back to be carted to someone across the house.
+
+
