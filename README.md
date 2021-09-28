@@ -5272,3 +5272,53 @@
 > Tick-tock, folks! Our TC Sessions: SaaS 2021 countdown clock says only four days remain before the early bird flies away with $100 clutched in its tight little beak. If you want to take part in our global SaaS conference on October 27 — and save $100 while you're at it — purchase your early-bird pass before the deal expires on October 1 at 11:59 pm (PT). Helpful reminder: We also offer $35 passes for students and group discounts when you buy four or more passes. You'll hear from and engage with the top leaders in SaaS including iconic founders who have scaled to unicorn status, investors eager to share what they look for when choosing startups to add to their portfolios and security savants charged with keeping platforms and data safe in an increasingly threat-prone world.
 
 
+***
+![Create a Web App With 100% Python in 5 Minutes](https://external-preview.redd.it/2haSgTI1Wr7Txt6ciUI5a0v-AeHOysbh2vsrsDKftvw.jpg?auto=webp&s=3ba7add90addaa73161d96e92d1c3a97fc6e11b8 "Create a Web App With 100% Python in 5 Minutes")
+
+
+[Create a Web App With 100% Python in 5 Minutes](https://www.reddit.com/r/Python/comments/pxc2pi/create_a_web_app_with_100_python_in_5_minutes/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Want to try Amazon's new drone camera? You need to sign up right now](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/ring-always-home-cam-tight.jpg "Want to try Amazon's new drone camera? You need to sign up right now")
+
+
+[Want to try Amazon's new drone camera? You need to sign up right now](https://www.androidcentral.com/want-try-amazons-new-drone-camera-you-need-sign-right-now)
+
+
+> Source: Ring Announced today, the Ring Always Home Cam is a drone security camera that can fly around your house to check on multiple areas. It joins the newest group of Amazon Day 1 Editions — and that means you'll need an invite to order one. Past Day 1 Editions fill up their invite lists quickly, so if you have any desire to buy one, ask for an invitation right now at Amazon. Camera drones have been a thing for years, and home security cameras have existed for decades. It was only a matter of time before this chocolate and peanut butter came together in a sweet, easy-to-use package, and today we got that delicious taste with the Ring Always Home Cam, which was teased a year ago and is finally ready to take flight.
+
+
+***
+![Get in on the Bose name with these great headphones](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/05/bose-noise-canceling-700-gesture-control.jpg "Get in on the Bose name with these great headphones")
+
+
+[Get in on the Bose name with these great headphones](https://www.androidcentral.com/best-bose-headphones)
+
+
+> Source: Bose Best Bose headphones Android Central 2021 Bose is known not only for comfortable headphones, but for excellent sound quality, so getting a pair of the best Bose headphones might be worth the investment. Bose's Noise Canceling Headphones 700 are the company's most innovative option to date. They feature 11 different steps of active noise cancelation, great battery life with up to 20 hours on a single charge, USB-C charging, and solid sound quality.Source: Bose The Bose Noise Canceling Headphones 700 aren't the newest headphones the company has to offer, but they're still, by far, the most innovative.
+
+
+***
+![Best Apple Watch: the ultimate guide to pick your iPhone compatible smartwatch](https://cdn.mos.cms.futurecdn.net/9ATAtbBzt2cvjQiLH3epGn-1200-80.jpg "Best Apple Watch: the ultimate guide to pick your iPhone compatible smartwatch")
+
+
+[Best Apple Watch: the ultimate guide to pick your iPhone compatible smartwatch](https://www.techradar.com/news/best-apple-watch)
+
+
+> If you're looking to buy the best Apple Watch, it's very easy to assume that the newest automatically gets that trophy - however, you'd be wrong to make that assumption.While the newest top-end Apple smartwatch is great - we gave the Apple Watch 6 a top review - its high price and wide feature set might be too much for some potential buyers. Lots of people might find the Apple Watch SE or older Apple Watch 3 better choices - and we'd concur, as the list below shows.The Apple Watch 7 is very likely to join the list soon thanks to offering more screen area and thinner bezels, along with a brighter Always On display, but it's not out yet.
+
+
+***
+![Amazon Glow: This Alexa-free gadget helps kids and family play together](https://www.cnet.com/a/img/Yh3UZrdfo3dGvCcPbM02pDoXiLo=/1200x630/2021/09/28/e2539a49-2f7b-413e-a6db-cea74c901305/amazon-glow-projected-home-display.png "Amazon Glow: This Alexa-free gadget helps kids and family play together")
+
+
+[Amazon Glow: This Alexa-free gadget helps kids and family play together](https://www.cnet.com/home/amazon-glow-this-alexa-free-gadget-helps-kids-and-family-play-together/)
+
+
+> Amazon At Amazon's Echo and Ring devices event Tuesday, the company announced the Amazon Glow, an interactive video-chat device focused on helping kids and loved ones play together via the internet.  Now playing: Watch this: Amazon Glow: An interactive projector for kids The Amazon Glow works in two parts. On the child's end, an 8-inch display projects an interactive gaming surface onto a 19-inch, white silicone mat. The Amazon Glow is also equipped with a video screen that shows the remote adult on the other end of the video call.
+
+
