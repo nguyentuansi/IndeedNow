@@ -5031,3 +5031,50 @@
 > The Google sign is shown on one of the company's office buildings in Irvine, California, U.S., October 20, 2020. REUTERS/Mike Blake/File PhotoSYDNEY, Sept 28 (Reuters) - Australia's antitrust regulator said on Tuesday it needed more powers to combat significant competition concerns in advertising technology, a market dominated by Alphabet Inc (GOOGL.O) unit Google. read more The stance could set up another clash between policymakers and the U.S. search engine leader after the same regulator helped design reforms implemented this year to force tech giants to pay for media content displayed on their platforms.
 
 
+***
+[Best Udemy Course For Beginners](https://www.reddit.com/r/Python/comments/px1k78/best_udemy_course_for_beginners/)
+
+
+> I have no knowledge of code. I work as a manual tester and I am currently learning automation testing. When using the Appium tool I need an basic code knowledge. Which course would you recommend?r/LearnPython
+
+
+***
+![Nokia QLED TVs, Android TVs, PureBook S14 laptop, and earphones launched, check details](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/nokia_tv_laptop_28092021-original.jpg "Nokia QLED TVs, Android TVs, PureBook S14 laptop, and earphones launched, check details")
+
+
+[Nokia QLED TVs, Android TVs, PureBook S14 laptop, and earphones launched, check details](https://www.indiatoday.in/technology/news/story/nokia-qled-tvs-android-tvs-purebook-s14-laptop-and-earphones-launched-check-details-1858160-2021-09-28)
+
+
+> Story highlights Flipkart has launched a new range of QLED and Smart TVs in India. It has also launched the Nokia PureBook S14 laptop that starts at Rs 56,999. There are a bunch of new Nokia headsets and earphones, too. Flipkart has launched a new range of Nokia-branded products in India ahead of the Big Billion Days sale. There is a brand-new Nokia QLED TV that is a first in the line and comes in 50-inch and 55-inch sizes. Then, there are four other TVs with smart features and they come in four sizes.
+
+
+***
+![Transform Mobile DevOps into Mobile DevSecOps](https://external-preview.redd.it/1pXA60WUbNSx13_3ajMiRf0kFbLgy4bXJCVgnP8ZQC0.jpg?auto=webp&s=2edba7d7df9485f4a215dc9e98615d441cf26df2 "Transform Mobile DevOps into Mobile DevSecOps")
+
+
+[Transform Mobile DevOps into Mobile DevSecOps](https://www.reddit.com/r/programming/comments/px1e1b/transform_mobile_devops_into_mobile_devsecops/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![I have built KV Store: Config or Settings key-value store in Redis with UI and code generation](https://external-preview.redd.it/Bmbsbz_k8vgnPkVefZA6NnbsUlG4PB8MN7rZ0QCfSrQ.jpg?auto=webp&s=71cf9d65e8ef25b905b32912f7a5b04150dec830 "I have built KV Store: Config or Settings key-value store in Redis with UI and code generation")
+
+
+[I have built KV Store: Config or Settings key-value store in Redis with UI and code generation](https://www.reddit.com/r/Python/comments/px1ddc/i_have_built_kv_store_config_or_settings_keyvalue/)
+
+
+> The purpose of KV Store is to provide a simple way to store the settings or configs of your microservice applications. So you don't need deployments for simple env var or config changes.It also generates Python & Java client code!GitHub: https://github.com/Ananto30/kv-storeLet me know your thoughts.
+
+
+***
+![Nokia set to unveil an Android tablet at its Oct 6 event](https://cdn.mos.cms.futurecdn.net/oW8BDrWnJ9C8CE53nMb56D-1200-80.jpg "Nokia set to unveil an Android tablet at its Oct 6 event")
+
+
+[Nokia set to unveil an Android tablet at its Oct 6 event](https://www.techradar.com/news/nokia-set-to-unveil-an-android-tablet-at-its-oct-6-event)
+
+
+> (Image credit: Nokia's Twitter handle) The once redoubtable but now struggling Nokia is set to unveil a new Android tablet at its event set for October 6. Nokia, which is owned by Finland-base HMD Global and while its manufacture is contracted to Foxconn International, has teased the new tablet on its Twitter handle."Everything you'd expect from a Nokia phone in a tablet. Coming 6.10.21," the Tweet read, and in the accompanying picture the new tablet is seen slanted near the legendary Nokia 3310 that the company had (re)released in 2017.
+
+
