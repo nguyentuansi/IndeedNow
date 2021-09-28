@@ -4931,3 +4931,53 @@
 > Dr Mark Gregory: "High throughput is key to good network performance, but this information is not shared by carriers." Supplied Well-known network expert Dr Mark Gregory of RMIT is making a bid to raise funds for a performance study of mobile regional telecommunications. He said any donations would help researchers at RMIT to investigate and help drive better service and regulation. In a statement, Dr Gregory said coverage and throughput (download and upload speeds) were the two factors essential to determining the performance of mobile telecommunications.
 
 
+***
+![TikTok now has more than 1 billion active users worldwide](https://assets2.rappler.com/2021/04/tiktok-january-6-2020-reuters-1632801539748.jpg "TikTok now has more than 1 billion active users worldwide")
+
+
+[TikTok now has more than 1 billion active users worldwide](https://www.rappler.com/technology/social-media/tiktok-billion-monthly-active-users-announcement)
+
+
+> TikTok has passed 1 billion monthly active users worldwide, the social media firm said in a blog post on Tuesday, September 28 (Philippine time). 'More than 1 billion people around the world now come to TikTok every month to be entertained as they learn, laugh, or discover something new,' read the announcement. 'We're honored to be a home for our immensely diverse community of families, small businesses, and creators who transform into our favorite stars.' The popular short-form video app reportedly gained more than 300 million monthly active users since July of last year.
+
+
+***
+![Geely says founder moves into smartphone manufacturing](https://www.reuters.com/resizer/WH9dEhjQUFu-k1YPaNoYcKXsL_I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3TCH52WOLJOO3FVTLEO4V24V4A.jpg "Geely says founder moves into smartphone manufacturing")
+
+
+[Geely says founder moves into smartphone manufacturing](https://www.reuters.com/technology/geely-says-founder-moves-into-smartphone-manufacturing-2021-09-28/)
+
+
+> A building of the Geely Auto Research Institute is seen in Ningbo, Zhejiang province, China August 4, 2017. REUTERS/Aly Song/FilesSHANGHAI, Sept 28 (Reuters) - Chinese automaker Zhejiang Geely Holding (GEELY.UL) said on Tuesday its founder Eric Li has launched a new company dedicated to making smartphones.The company, called Hubei Xingji Technology Co Ltd, has signed a strategic cooperation agreement with the Wuhan Economic and Technological Development Zone to establish its headquarters in the central Chinese city where it will develop smart devices including smartphones.
+
+
+***
+![Nokia wins 5G World award for most innovative machine learning software product](https://itwire.com/media/k2/items/cache/56617f2b209834f1b01c7f7db764d8c9_XS.jpg "Nokia wins 5G World award for most innovative machine learning software product")
+
+
+[Nokia wins 5G World award for most innovative machine learning software product](https://itwire.com/5g/nokia-wins-5g-world-award-for-most-innovative-machine-learning-software-product.html)
+
+
+> Nokia announced that 5G World has honoured it with the 'Most Innovative Artificial Intelligence or Machine Learning Technology for the Network' Award for Anomaly Detection Service, a software product jointly developed with Vodafone, that detects and remediates network anomalies before they impact customers. Anomaly Detection Service, launched and reported in July, is based on Nokia Bell Labs technology and is being rolled out across Vodafone's pan-European network. The product quickly detects and troubleshoots irregularities, such as mobile site congestion and interference, and unexpected latency, that can impact customer service quality, Nokia says.
+
+
+***
+![Programmer pleads guilty to advising North Korea on evading sanctions via cryptocurrency](https://helios-i.mashable.com/imagery/articles/05eJY17PV5jIH0Jm6m3jljb/hero-image.fill.size_1200x675.v1632801309.jpg "Programmer pleads guilty to advising North Korea on evading sanctions via cryptocurrency")
+
+
+[Programmer pleads guilty to advising North Korea on evading sanctions via cryptocurrency](https://mashable.com/article/cryptocurrency-north-korea-virgil-griffith)
+
+
+> Programmer Virgil Griffith has pleaded guilty in New York's federal court to conspiring to help North Korea evade sanctions through advising it on the use of cryptocurrency.Griffith was initially arrested in Nov. 2019, several months after speaking at the Pyongyang Blockchain and Cryptocurrency Conference in North Korea. Though the U.S. Department of State had denied his request for permission to travel to North Korea, and in fact warned him not to attend the event, Griffith made his way there and gave a presentation about blockchain technology regardless.
+
+
+***
+![Apple will fix 120Hz ProMotion display issues on iPhone 13 Pro, 13 Pro Max soon](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/iphone_13pro_28092021-original.png "Apple will fix 120Hz ProMotion display issues on iPhone 13 Pro, 13 Pro Max soon")
+
+
+[Apple will fix 120Hz ProMotion display issues on iPhone 13 Pro, 13 Pro Max soon](https://www.indiatoday.in/technology/news/story/apple-will-fix-120hz-promotion-display-issues-on-iphone-13-pro-13-pro-max-soon-1858043-2021-09-28)
+
+
+> Story highlights Apple has released a document for developers to learn more about ProMotion displays on the iPhone 13 Pro duo. The iPhone 13 Pro and iPhone 13 Pro Max are not rendering some animations in high refresh rate. Several users complained that apps are not working properly on the iPhone 13 Pro pair. iPhone 13 series finally brings the much-awaited high refresh-rate displays, but that is only available on the Pro models. The iPhone 13 Pro and iPhone 13 Pro Max have 120Hz ProMotion displays that make everything look super smooth.
+
+
