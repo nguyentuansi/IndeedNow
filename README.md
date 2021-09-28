@@ -5178,3 +5178,53 @@
 > Toyota subsidiary Woven Planet Holdings has made its third acquisition in less than a year in its bid to invest in, develop and eventually bring future-of-transportation technologies like automated driving to market. This time, it's Renovo Motors, the automotive operating system developer based in Silicon Valley that made its first big splash in 2015, when it debuted a video of a self-driving DeLorean developed with Stanford doing autonomous doughnuts. Terms of the deal, which has closed, were not disclosed.
 
 
+***
+![A Services Oriented Architecture for Internal Tools](https://external-preview.redd.it/tv2PM-b-DgybqxGDTcAkz_4EQwVpQaHCnYHynnQbzm8.jpg?auto=webp&s=71829df97c14bb07a7881921441f3a65c9a2033c "A Services Oriented Architecture for Internal Tools")
+
+
+[A Services Oriented Architecture for Internal Tools](https://www.reddit.com/r/programming/comments/px70zy/a_services_oriented_architecture_for_internal/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Let's take a look at the PS5 DualSense and Xbox Series X controllers](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/11/dualsense-vs-xbox-2.jpg "Let's take a look at the PS5 DualSense and Xbox Series X controllers")
+
+
+[Let's take a look at the PS5 DualSense and Xbox Series X controllers](https://www.androidcentral.com/dualsense-ps5-vs-xbox-series-x-controller)
+
+
+> The DualSense doesn't completely diverge from the DualShock lineup, but it is Sony's biggest departure in design in well over a decade. The handgrips are more ergonomic than the DualShock 4's, and it adds haptic feedback and adaptive triggers to make it more tactile and add a level of immersion that wasn't present on its predecessor. $69 at Amazon Light bars moved Adaptive triggers Haptic feedback USB-C charging Built-in microphone Create button Symmetrical thumbstick layout Triggers are not as ergonomic Microsoft's philosophy appears to be, "If it ain't broke, don't fix it.
+
+
+***
+![Here are the Apple Watch bands you need for your new Apple Watch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2016/04/all-the-spring-2016-watch-bands.jpg "Here are the Apple Watch bands you need for your new Apple Watch")
+
+
+[Here are the Apple Watch bands you need for your new Apple Watch](https://www.imore.com/best-apple-watch-bands)
+
+
+> Best Apple Watch Bands iMore 2021 There's no better time for checking out the best Apple Watch bands than when you get a new Apple Watch, which you might have done after reading about the Apple Watch Series 7! This is especially true if it's more than just a fantastic fitness and communication device to you, but also a fashion statement. If this sounds like you, you're in good company. I'll confess to owning several dozen Apple Watch bands and counting. I do change my band to match my outfit. From one true Apple Watch band aficionado to another, here are some of the best Apple Watch bands to enhance its looks and functionality.
+
+
+***
+![Donald Trump pushing Microsoft to buy TikTok was the ‘strangest thing I've ever worked on', CEO Satya Nadella says](https://static.independent.co.uk/2020/10/09/23/GettyImages-1132529735.jpg?width=1200&auto=webp&quality=75 "Donald Trump pushing Microsoft to buy TikTok was the ‘strangest thing I've ever worked on', CEO Satya Nadella says")
+
+
+[Donald Trump pushing Microsoft to buy TikTok was the ‘strangest thing I've ever worked on', CEO Satya Nadella says](https://www.independent.co.uk/life-style/gadgets-and-tech/trump-tiktok-microsoft-satya-nadella-strangest-thing-b1928346.html)
+
+
+> Former president Donald Trump's push for Microsoft to purchase TikTok was one of the 'strangest thing[s]' that chief executive Satya Nadella has ever worked on, the executive has said.The Trump administration made numerous attempts to ban the short-form video app under vague claims of national security with regards to the Chinese government, but failed for legal reasons each time. TikTok denied the allegations, but through a series of bizarre events was primed to be purchased by Microsoft, then a combination of Microsoft and Walmart, and then eventually database software giant Oracle.
+
+
+***
+![Learn how to create spinning 3D ASCII Earth using Python with Pygame](https://external-preview.redd.it/vqknWuiKcFdKDNwmEZV3VhZqKe4AIsKOqg36X6FsbhQ.jpg?auto=webp&s=0942c1265e254c0634cb9f8cec9af5ea2ece2390 "Learn how to create spinning 3D ASCII Earth using Python with Pygame")
+
+
+[Learn how to create spinning 3D ASCII Earth using Python with Pygame](https://www.reddit.com/r/Python/comments/px6uff/learn_how_to_create_spinning_3d_ascii_earth_using/)
+
+
+> no comments yetBe the first to share what you think!
+
+
