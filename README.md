@@ -5128,3 +5128,53 @@
 > BEIJING--(BUSINESS WIRE)--Artificial Intelligence Defense Platform, a technology start-up creating AI technology for a safer, more comfortable future, and its Founder Andy Khawaja have been recognized on the cover of Inner Review magazine for Dr. Andy Khawaja's extraordinary leadership qualities. This issue of Inner Review focuses on Dr. Andy Khawaja's goal to 'transform the world into a better place.' Dr. Khawaja's primary goal throughout his ventures has been to make 'this world a better place not only for the current but for the next generation as well.
 
 
+***
+![Toyota buys software firm Renovo to accelerate self-driving tech development](https://www.reuters.com/resizer/WZ4EWPoieg24khTkHqf15Pdr24M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I634UCAC2ZLN7BYII272BCAQN4.jpg "Toyota buys software firm Renovo to accelerate self-driving tech development")
+
+
+[Toyota buys software firm Renovo to accelerate self-driving tech development](https://www.reuters.com/technology/toyota-buys-software-firm-renovo-accelerate-self-driving-tech-development-2021-09-28/)
+
+
+> The Toyota logo is seen on the bonnet of a newly launched Camry Hybrid electric vehicle at a hotel in New Delhi, India, January 18, 2019. REUTERS/Anushree FadnavisTOKYO, Sept 28 (Reuters) - Toyota Motor Corp's (7203.T) Silicon Valley research arm on Thursday said it had acquired automotive operating system software company Renovo to help accelerate the development of fully-autonomous connected vehicles."I am hoping to shave off years and months to our minimum viable product launches," James Kuffner, the head of Toyota's Woven Planet subsidiary said during a press briefing.
+
+
+***
+![Facebook set to snatch world record for longest undersea web cable](https://cdn.mos.cms.futurecdn.net/c7g48N7TTiaHkubwBVcKTS-1200-80.jpg "Facebook set to snatch world record for longest undersea web cable")
+
+
+[Facebook set to snatch world record for longest undersea web cable](https://www.techradar.com/news/facebook-to-snatch-world-record-for-longest-undersea-web-cable)
+
+
+> (Image credit: Facebook) Facebook has announced an additional segment for its undersea web cable 2Africa, which will make it the longest ever deployed.Announced in May 2020, the 2Africa cable was set to run 37,000km across the ocean floor, connecting 23 countries in Africa, the Middle East and Europe.With the addition of the 2Africa Pearls segment, which will extend the cable as far as India and Pakistan, the cable is now expected to run a total of 45,000km once complete.(Image credit: Facebook)Developed in partnership with a range of global telecoms firms, the 2Africa project is part of Facebook's wider ambition to build an 'open and inclusive internet ecosystem' and 'bring people online to a faster internet', the company wrote last year.
+
+
+***
+![Bar for tech entrepreneurs raised at Innovation Summit 2021](https://image-prod.iol.co.za/resize/650x366/Buntu-Majaja-Director-of-Digital-Innovation-and-Ecosystems-at-the-SA-Innovation-Summit-and-Audrey-Verhaeghe-SA-Innovation-Summit-Chairperson-Picture-Supplied?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/308db2cb-03e6-5811-9132-32d65fc4cf3d&operation=CROP&offset=23x0&resize=736x414 "Bar for tech entrepreneurs raised at Innovation Summit 2021")
+
+
+[Bar for tech entrepreneurs raised at Innovation Summit 2021](https://www.iol.co.za/technology/techsperts/bar-for-tech-entrepreneurs-raised-at-innovation-summit-2021-1310a4f6-fb4a-4fd5-9152-25be29804980)
+
+
+> Buntu Majaja, Director of Digital Innovation and Ecosystems at the SA Innovation Summit, and Audrey Verhaeghe, SA Innovation Summit Chairperson. Picture: SuppliedShare this article:Cape Town – The main trends that emerged at the three-day Innovation Summit in the Mother City were women in tech, future technologies and green innovation technology, with more entrepreneurs looking to make an impact in these sectors. From empowering women through virtual reality training to using drones in the fight against rhino poaching; blockchain-enabled farm-to-fork supply chain platforms; 3D printing technology for biodegradable drinking cups; and a first-of-its-kind structure to support and incentivise funding to small green businesses – the Green Outcome Fund.
+
+
+***
+![Break your iPhone 13 screen? Only Apple can replace it](https://thenewdaily.com.au/wp-content/uploads/2021/09/1631651598-Apple_iPhone-13-Pro_Colors_09142021_big.jpg.large_.jpg "Break your iPhone 13 screen? Only Apple can replace it")
+
+
+[Break your iPhone 13 screen? Only Apple can replace it](https://thenewdaily.com.au/life/tech/2021/09/28/iphone-13-screen-apple-replace/)
+
+
+> If you just bought or plan to buy the new iPhone 13, you had better handle it with extra care, because Apple is the only company who can properly fix … Continued The post Break your iPhone 13 screen? Only Apple can replace it appeared first on The New Daily.
+
+
+***
+![Toyota's Woven Planet acquires vehicle operating system developer Renovo Motors – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/Renovo-AV-Fleet.jpg?w=608 "Toyota's Woven Planet acquires vehicle operating system developer Renovo Motors – TechCrunch")
+
+
+[Toyota's Woven Planet acquires vehicle operating system developer Renovo Motors – TechCrunch](https://techcrunch.com/2021/09/28/toyotas-woven-planet-acquires-av-operating-system-developer-renovo-motors/)
+
+
+> Toyota subsidiary Woven Planet Holdings has made its third acquisition in less than a year in its bid to invest in, develop and eventually bring future-of-transportation technologies like automated driving to market. This time, it's Renovo Motors, the automotive operating system developer based in Silicon Valley that made its first big splash in 2015, when it debuted a video of a self-driving DeLorean developed with Stanford doing autonomous doughnuts. Terms of the deal, which has closed, were not disclosed.
+
+
