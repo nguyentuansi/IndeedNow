@@ -5228,3 +5228,47 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+[EU holds 1st ever human rights meeting with Saudi Arabia](https://www.yenisafak.com/en/news/eu-holds-1st-ever-human-rights-meeting-with-saudi-arabia-3581169)
+
+
+> The EU welcomed Saudi Arabia's social and economic reforms, but expressed concern over certain human rights issues, sa...
+
+
+***
+![Twitter has stopped working properly](https://static.independent.co.uk/2021/03/20/13/Turkey_Twitter_70619.jpg?width=1200&auto=webp&quality=75 "Twitter has stopped working properly")
+
+
+[Twitter has stopped working properly](https://www.independent.co.uk/life-style/gadgets-and-tech/twitter-down-website-not-working-b1928609.html)
+
+
+> Andrew GriffinTuesday 28 September 2021 17:05 commentsTwitter has stopped working properly, with users instead seeing an error message.Visitors to the web version of the service saw a message reading: 'Error'.'Something went wrong, but don't fret — it's not your fault. Let's try again.'It then tried to get users to refresh, but that did not seem to work for the most part.Copyright 2017 The Associated Press. All rights reserved.
+
+
+***
+![Notion now offers free credits to any startup globally, partners with AWS and Stripe – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/notion-startups.jpg?w=584 "Notion now offers free credits to any startup globally, partners with AWS and Stripe – TechCrunch")
+
+
+[Notion now offers free credits to any startup globally, partners with AWS and Stripe – TechCrunch](https://techcrunch.com/2021/09/28/notion-now-offers-free-credits-to-any-startup-globally-partners-with-aws-and-stripe/)
+
+
+> Two years ago, Notion partnered with dozens of accelerators and incubators to provide free credits for its work collaboration platform to their portfolio startups. The firm is now aggressively making the program open to all startups. Notion is launching a new startup program Tuesday to offer a credit of at least $500 to any startup globally to try its product for free — regardless of its size and funding status. Based on the size of the team, the credit could give startups access to Notion's premium offerings at no cost for as long as a year — if not longer.
+
+
+***
+[OnePlus Nord 2 Wrap Charger exploded in Kerala; here is why](http://www.pinkvilla.com/tech/news/oneplus-nord-2-wrap-charger-exploded-in-kerala-here-is-why--906427)
+
+
+> Attach Main technology Image: Image Caption: OnePlus Nord 2 Wrap Charger exploded in Kerala; here is why Social Media Image : Enter the Technology details: OnePlus Nord 2 has recently launched in the global and Indian market and the smartphone has seen huge popularity across the globe. The handset was launched with impressive camera sensors, a massive battery, powerful processor, neat design, and a lot more among others. However, it seems that the brand has lagged on something either during the production or during the development of the phone.
+
+
+***
+![Four days left to save $100 on passes to TC Sessions](https://techcrunch.com/wp-content/uploads/2021/09/TC21_Session_SaaS_WP_Header_Countdown_4_Days_Left_1280x720.jpg?w=711 "Four days left to save $100 on passes to TC Sessions")
+
+
+[Four days left to save $100 on passes to TC Sessions](https://techcrunch.com/2021/09/28/four-days-left-to-save-100-on-passes-to-tc-sessions-saas-2021/)
+
+
+> Tick-tock, folks! Our TC Sessions: SaaS 2021 countdown clock says only four days remain before the early bird flies away with $100 clutched in its tight little beak. If you want to take part in our global SaaS conference on October 27 — and save $100 while you're at it — purchase your early-bird pass before the deal expires on October 1 at 11:59 pm (PT). Helpful reminder: We also offer $35 passes for students and group discounts when you buy four or more passes. You'll hear from and engage with the top leaders in SaaS including iconic founders who have scaled to unicorn status, investors eager to share what they look for when choosing startups to add to their portfolios and security savants charged with keeping platforms and data safe in an increasingly threat-prone world.
+
+
