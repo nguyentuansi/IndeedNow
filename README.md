@@ -4890,3 +4890,44 @@
 > No body in the article.
 
 
+***
+[福特、SK 創新攜手投資 114 億美元建電動車電池廠、組裝廠](https://technews.tw/2021/09/28/ford-to-lead-americas-shift-to-electric-vehicles-with-new-mega-campus-in-tennessee-and-twin-battery-plants-in-kentucky/)
+
+
+> 福特汽車公司（Ford Motor Company）9 月 27 日宣布將與南韓電池生產商 SK 創新（SK […]
+
+
+***
+![Best NBN provider: which is Australia's top internet provider?](https://cdn.mos.cms.futurecdn.net/McUeZNcUzrcyg6UZTkEXDf-1200-80.jpg "Best NBN provider: which is Australia's top internet provider?")
+
+
+[Best NBN provider: which is Australia's top internet provider?](https://www.techradar.com/news/best-NBN-provider)
+
+
+> (Image credit: NBN Co / Shutterstock) Whether you're connecting to the NBN for the first time or looking for a new plan, you'll want to make sure you go with a reputable internet provider.There's plenty to consider when comparing NBN plans, including the type of connection your home is capable of and the speed tier that best suits your needs, but thankfully we've done the heavy lifting in weighing up all of Australia's internet major providers and coming up with the current best options.We've taken a look at the big names like Telstra, Optus and TPG, and compared them with smaller providers like Tangerine, Spintel and Aussie Broadband to see which of them offers the best value service.
+
+
+***
+[Singapore-based neobank Aspire, which offers Southeast Asian SMBs working capital and other financial services, raises $158M Series B in equity and debt (Catherine Shu/TechCrunch)](http://www.techmeme.com/210927/p38#a210927p38)
+
+
+> Catherine Shu / TechCrunch: Singapore-based neobank Aspire, which offers Southeast Asian SMBs working capital and other financial services, raises $158M Series B in equity and debt — Aspire, the Singapore-based neobank that wants to become an “end-to-end financial operating system” for Southeast Asian businesses …
+
+
+***
+[...allow me to toss in your direction a friendly vernacular phrase from my hometown of Boston](https://www.reddit.com/r/programming/comments/pwvs1v/allow_me_to_toss_in_your_direction_a_friendly/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![RMIT expert seeks funds to study mobile regional telecom issues](https://itwire.com/media/k2/items/cache/b1c963e3fd9ca3c3e4ba2196a7545cc1_XS.jpg "RMIT expert seeks funds to study mobile regional telecom issues")
+
+
+[RMIT expert seeks funds to study mobile regional telecom issues](https://itwire.com/mobility/rmit-expert-seeks-funds-to-study-mobile-regional-telecom-issues.html)
+
+
+> Dr Mark Gregory: "High throughput is key to good network performance, but this information is not shared by carriers." Supplied Well-known network expert Dr Mark Gregory of RMIT is making a bid to raise funds for a performance study of mobile regional telecommunications. He said any donations would help researchers at RMIT to investigate and help drive better service and regulation. In a statement, Dr Gregory said coverage and throughput (download and upload speeds) were the two factors essential to determining the performance of mobile telecommunications.
+
+
