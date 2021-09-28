@@ -4981,3 +4981,53 @@
 > Story highlights Apple has released a document for developers to learn more about ProMotion displays on the iPhone 13 Pro duo. The iPhone 13 Pro and iPhone 13 Pro Max are not rendering some animations in high refresh rate. Several users complained that apps are not working properly on the iPhone 13 Pro pair. iPhone 13 series finally brings the much-awaited high refresh-rate displays, but that is only available on the Pro models. The iPhone 13 Pro and iPhone 13 Pro Max have 120Hz ProMotion displays that make everything look super smooth.
 
 
+***
+![Nexon to hold final round of annual coding competition on Oct. 30](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202109/ac51381ab65549fea487be47998fc68f.jpg "Nexon to hold final round of annual coding competition on Oct. 30")
+
+
+[Nexon to hold final round of annual coding competition on Oct. 30](https://www.koreatimes.co.kr/www/tech/2021/09/134_316125.html)
+
+
+> Contestants use computers to solve problems during the Nexon Youth Programming Challenge (NYPC) annual coding competition hosted by the game developer in 2020. Courtesy of NexonBy Yi Whan-wooKorea's leading game developer Nexon will hold the final round of its annual Nexon Youth Programming Challenge (NYPC) coding competition on Oct. 30, with the goal of helping young people get more familiar with computer programming.Nexon has been hosting the competition since 2016, after learning that teenage students faced a shortage of opportunities to learn coding, which is considered a major pillar in the IT field for the Fourth Industrial Revolution.
+
+
+***
+![Juniper Research: Future Digital Award Winners Announced for Fintech & Payments 2021](https://mms.businesswire.com/media/20210927005832/en/609744/23/JR_Logo_Final_RGB_300px.jpg "Juniper Research: Future Digital Award Winners Announced for Fintech & Payments 2021")
+
+
+[Juniper Research: Future Digital Award Winners Announced for Fintech & Payments 2021](https://www.businesswire.com/news/home/20210927005832/en/Juniper-Research-Future-Digital-Award-Winners-Announced-for-Fintech-Payments-2021)
+
+
+> September 28, 2021 02:00 AM Eastern Daylight Time BASINGSTOKE, England--(BUSINESS WIRE)--It is with great pleasure that Juniper Research announces the 2021 winners of the Future Digital Awards for Fintech & Payments. This year's awards had a record number of applications; making choosing the winners more difficult than ever! This category recognises the most impactful financial products and services operating across numerous areas, including: Banking, Fraud & Security, and Retail & Payments. Juniper Research has identified the following organisations and platforms that are driving innovation and growth.
+
+
+***
+![Elliptic Labs Signs a Significant Enterprise License Agreement With Xiaomi](https://mms.businesswire.com/media/20210927005904/en/910680/23/xiaomi_pr_9_28_2021_v1_500w.jpg "Elliptic Labs Signs a Significant Enterprise License Agreement With Xiaomi")
+
+
+[Elliptic Labs Signs a Significant Enterprise License Agreement With Xiaomi](https://www.businesswire.com/news/home/20210927005904/en/Elliptic-Labs-Signs-a-Significant-Enterprise-License-Agreement-With-Xiaomi)
+
+
+> September 28, 2021 02:00 AM Eastern Daylight Time OSLO, Norway--(BUSINESS WIRE)--Elliptic Labs (EuroNext Growth: ELABS.OL), a global AI software company and the world leader in AI Virtual Smart Sensors™, has just announced the expansion of its relationship with Xiaomi (HKSE: 1810.HK), the second largest smartphone manufacturer in the world. Though Xiaomi has used Elliptic Labs' technology to power its smartphone design since 2016, it recently signed a significant enterprise license agreement that greatly increases its use of Elliptic Labs' AI Virtual Proximity Sensor™.
+
+
+***
+![Covid-19 triggers demand for costlier cars: Hyundai Motor India](https://images.moneycontrol.com/static-mcnews/2020/11/Interior_53-734x435.jpg "Covid-19 triggers demand for costlier cars: Hyundai Motor India")
+
+
+[Covid-19 triggers demand for costlier cars: Hyundai Motor India](https://www.moneycontrol.com/news/technology/auto/covid-19-triggers-demand-for-costlier-cars-hyundai-motor-india-7516071.html)
+
+
+> Since the start of Covid-19, automobile experts had predicted that there would be heavy downtrading – a shift to cheaper alternatives – but the market has only swung the other way with most new buyers choosing more expensive models and premium variants.The pandemic was expected to force consumers to spend less and conserve more. However, according to Hyundai Motor India, the country's second-largest carmaker, buyers are restless following the lockdowns and restrictions and the threat of a third wave of infections, and this is leading to impulsive purchases.
+
+
+***
+![Factbox: Australian regulator aims to rein in Google's advertising power](https://www.reuters.com/resizer/grkutS4o5PVa0JXQu-6Y4h8TKkY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VZ264DONQBI3RNVFZBEXD77BGY.jpg "Factbox: Australian regulator aims to rein in Google's advertising power")
+
+
+[Factbox: Australian regulator aims to rein in Google's advertising power](https://www.reuters.com/technology/australian-regulator-aims-rein-googles-advertising-power-2021-09-28/)
+
+
+> The Google sign is shown on one of the company's office buildings in Irvine, California, U.S., October 20, 2020. REUTERS/Mike Blake/File PhotoSYDNEY, Sept 28 (Reuters) - Australia's antitrust regulator said on Tuesday it needed more powers to combat significant competition concerns in advertising technology, a market dominated by Alphabet Inc (GOOGL.O) unit Google. read more The stance could set up another clash between policymakers and the U.S. search engine leader after the same regulator helped design reforms implemented this year to force tech giants to pay for media content displayed on their platforms.
+
+
