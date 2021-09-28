@@ -5369,3 +5369,53 @@
 > NEW YORK (AP) — Amazon's new robot can hear, see and follow you around the the home, but its no Rosey the Robot. Amazon's version, called Astro, doesn't cook or clean like the animated character from 'The Jetsons,' but it can check if you left the stove on while you're out or send an alert if someone enters the house it doesn't recognize. It uses cameras, sensors and artificial technology to avoid walls or dogs, and Amazon said Astro will only get smarter as time goes on. It does do some housework: Snacks or a can of soda can be placed on its back to be carted to someone across the house.
 
 
+***
+![3D-printed rocket engines: The technology driving the private sector space race](https://cdn.mos.cms.futurecdn.net/cdti8PtHC7q793bRN3Y5Fk-1200-80.jpeg "3D-printed rocket engines: The technology driving the private sector space race")
+
+
+[3D-printed rocket engines: The technology driving the private sector space race](https://theconversation.com/3d-printed-rocket-engines-the-technology-driving-the-private-sector-space-race-168146)
+
+
+> This article was originally published at The Conversation. The publication contributed the article to Space.com's Expert Voices: Op-Ed & Insights.Oliver Hitchens, Ph.D. Candidate, Department of Electrical and Electronic Engineering, University of SurreyThe volatile nature of space rocket engines means that many early prototypes end up embedded in dirt banks or decorating the tops of any trees that are unfortunate enough to neighbor testing sites. Unintended explosions are in fact so common that rocket scientists have come up with a euphemism for when it happens: rapid unscheduled disassembly, or RUD for short.
+
+
+***
+![Tech Moves: B.C. startup Thinkific adds CMO from Hootsuite; Amplero founder departs Zulily](https://cdn.geekwire.com/wp-content/uploads/2021/09/Henk-Campher.jpeg "Tech Moves: B.C. startup Thinkific adds CMO from Hootsuite; Amplero founder departs Zulily")
+
+
+[Tech Moves: B.C. startup Thinkific adds CMO from Hootsuite; Amplero founder departs Zulily](https://www.geekwire.com/2021/tech-moves-b-c-startup-thinkific-adds-cmo-hootsuite-amplero-founder-departs-zulily/)
+
+
+> Henk Campher. (Thinkific Photo) — Vancouver, B.C.-based online education startup Thinkific announced former Hootsuite executive Henk Campher as chief marketing officer. Based in Seattle, Campher was most recently VP of corporate marketing at social media management platform Hootsuite. He was previously VP of brand communications at Salesforce and held executive roles at agencies Edelman and Allison+Partners. The company also promoted Chris McGuire to chief technology officer, taking over from Thinkific co-founder Matt Payne who will now be SVP of innovation.
+
+
+***
+![Netflix buys indie game developer Night School Studio for gaming effort](https://www.cnet.com/a/img/cQk1AkbTXZC01I79LZ6TbVBmbqQ=/1200x630/2020/08/29/09c8a4a0-e4cf-4f26-bb0b-80568df239e9/netflix-logo-phone-6470.jpg "Netflix buys indie game developer Night School Studio for gaming effort")
+
+
+[Netflix buys indie game developer Night School Studio for gaming effort](https://www.cnet.com/tech/services-and-software/netflix-buys-indie-game-developer-night-school-studio-for-gaming-effort/)
+
+
+> Netflix is ramping up an effort to include video games as a part of its standard streaming subscription.  Angela Lang/CNET Netflix has acquired independent game developer and publisher Night School Studio, the indie gaming company said in a blog post Tuesday, as part of Netflix's effort to add video games as part of its standard subscriptions. Night School has a résumé of melding gaming with TV -- it developed a mobile game based on the television series Mr. Robot in 2016, a widely praised viral marketing campaign.
+
+
+***
+![A Brief History of Adorable, Vaguely Creepy Robot Dogs](https://compote.slate.com/images/f75ae2cd-50cc-4aee-97d5-6087366ddc89.jpeg?width=780&height=520&rect=5804x3869&offset=0x0 "A Brief History of Adorable, Vaguely Creepy Robot Dogs")
+
+
+[A Brief History of Adorable, Vaguely Creepy Robot Dogs](https://slate.com/technology/2021/09/amazon-astro-robot-dogs-history.html)
+
+
+> Amazon unveiled a long-awaited home robot on Tuesday, and he may or may not be a good boy. Like an extremely advanced puppy, 'Astro' is designed to move around the home and assist its owner with small tasks like checking whether the stove is on, playing music, and delivering drinks. The robot can also recognize the faces of certain people and is equipped with a periscope camera that it can raise to get a better view of its surroundings. Amazon says that it will be available sometime later this year on an invite-only basis for $999.
+
+
+***
+![Toyota banks on mobility technology for future growth](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/ac/fa/e1516a672dc760a26534a441b874be48bfb4/download.jpg "Toyota banks on mobility technology for future growth")
+
+
+[Toyota banks on mobility technology for future growth](https://japantoday.com/category/tech/toyota-banks-on-mobility-technology-for-future-growth)
+
+
+> Japanese automaker Toyota is revving up acquisitions in mobility technology, adding Renovo Motors Inc, a Silicon Valley software developer, to its Woven Planet team, which is working on automated driving. The addition, announced Tuesday, follows the purchase earlier this year of CARMERA Inc, a U.S. venture that specializes in sophisticated road mapping updates made cheaper and faster by using crowdsourced information obtained from millions of net-connected Toyota vehicles. The company has not disclosed the value of either deal.
+
+
