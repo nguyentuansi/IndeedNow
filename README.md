@@ -5078,3 +5078,53 @@
 > (Image credit: Nokia's Twitter handle) The once redoubtable but now struggling Nokia is set to unveil a new Android tablet at its event set for October 6. Nokia, which is owned by Finland-base HMD Global and while its manufacture is contracted to Foxconn International, has teased the new tablet on its Twitter handle."Everything you'd expect from a Nokia phone in a tablet. Coming 6.10.21," the Tweet read, and in the accompanying picture the new tablet is seen slanted near the legendary Nokia 3310 that the company had (re)released in 2017.
 
 
+***
+![A new iPhone SE may be coming soon. Here are 6 upgrades we want to see](https://www.cnet.com/a/img/4xmHlfx74TislWrcLNd1BfR0nQQ=/1200x630/2020/04/22/9c0515dc-bb9f-4386-9052-79885ef81ca8/iphone-se-2020-21.jpg "A new iPhone SE may be coming soon. Here are 6 upgrades we want to see")
+
+
+[A new iPhone SE may be coming soon. Here are 6 upgrades we want to see](https://www.cnet.com/tech/mobile/a-new-iphone-se-may-be-coming-soon-here-are-6-upgrades-we-want-to-see/)
+
+
+> The new iPhone SE looks striking in red. At $399 it's the most affordable iPh.one you can currently buy John Kim/CNET At $400, the budget-minded iPhone SE is the cheapest Apple smartphone you can buy. We praised the 2020 model for its affordable price and fast performance driven by the same chip in the iPhone 11, which launched just a few months before the iPhone SE.But there are still many things we want from Apple's next cheap smartphone, especially as competitors like Samsung and Google have improved their own cost-conscious devices.
+
+
+***
+![Prime members bristle at Whole Foods' $9.95 delivery surcharge: ‘It's just rude'](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PQXA6NCTFMI6PN2OBUTYLUYIHU.jpg&w=1440 "Prime members bristle at Whole Foods' $9.95 delivery surcharge: ‘It's just rude'")
+
+
+[Prime members bristle at Whole Foods' $9.95 delivery surcharge: ‘It's just rude'](https://www.washingtonpost.com/technology/2021/09/28/whole-foods-delivery-surcharge/)
+
+
+> SEATTLE — Brandy O'Neill orders about $100 worth of groceries weekly from Whole Foods Market — specialty items such as gourmet cheeses and hanger steaks — to be delivered to her home just outside Raleigh, N.C. Support our journalism. Subscribe today O'Neill, a food blogger who calls herself the Nutmeg Nanny online, signed up for Amazon Prime, which costs $119 annually, this year largely for the perk of Whole Foods delivery being included. But Amazon on Friday sent her and other U.S. customers an email saying it was going to charge $9.
+
+
+***
+![iQmetrix Announces Ryan Volberg as New President and Chief Executive Officer](https://mms.businesswire.com/media/20210928005187/en/910330/23/Ryan_Volberg_%281%29.jpg "iQmetrix Announces Ryan Volberg as New President and Chief Executive Officer")
+
+
+[iQmetrix Announces Ryan Volberg as New President and Chief Executive Officer](https://www.businesswire.com/news/home/20210928005187/en/iQmetrix-Announces-Ryan-Volberg-as-New-President-and-Chief-Executive-Officer)
+
+
+> September 28, 2021 06:00 AM Eastern Daylight Time VANCOUVER, British Columbia--(BUSINESS WIRE)--The former Senior Vice President and General Manager of PAR Restaurant Solutions Group brings extensive experience in delivering a full suite of software, payments, services, and hardware offerings to a global customer base. iQmetrix, provider of North America's leading telecom retail management software, today announces the appointment of Ryan Volberg as its new President and Chief Executive Officer.
+
+
+***
+![1Kosmos Selected as Winner of 2021 Alestra NAVE Open Innovation Program](https://mms.businesswire.com/media/20210928005262/en/910390/23/1kosmos_new_logo.jpg "1Kosmos Selected as Winner of 2021 Alestra NAVE Open Innovation Program")
+
+
+[1Kosmos Selected as Winner of 2021 Alestra NAVE Open Innovation Program](https://www.businesswire.com/news/home/20210928005262/en/1Kosmos-Selected-as-Winner-of-2021-Alestra-NAVE-Open-Innovation-Program)
+
+
+> September 28, 2021 06:00 AM Eastern Daylight Time SOMERSET, N.J.--(BUSINESS WIRE)--1Kosmos, the only cybersecurity solution to provide identity proofing and passwordless authentication, has been selected as the winner of the 2021 Alestra NAVE Program. NAVE is the open innovation program of Alestra, a Mexican company with the most robust offering of information and communication technology services in the country. The NAVE program promotes B2B startups and scaleups aligned to technological megatrends, and enables organizations to be more productive through digitization in areas like big data, AI, mobility, IoT, VR/AR, cybersecurity, and blockchain.
+
+
+***
+![Dr. Andy Khawaja Is Awarded as ‘Most Visionary Business Leader In 2021'](https://mms.businesswire.com/media/20210928005333/en/910533/23/Andy-Khawaja-Inner-Review-visionary-leader.jpg "Dr. Andy Khawaja Is Awarded as ‘Most Visionary Business Leader In 2021'")
+
+
+[Dr. Andy Khawaja Is Awarded as ‘Most Visionary Business Leader In 2021'](https://www.businesswire.com/news/home/20210928005333/en/Dr.-Andy-Khawaja-Is-Awarded-as-%E2%80%98Most-Visionary-Business-Leader-In-2021%E2%80%99)
+
+
+> BEIJING--(BUSINESS WIRE)--Artificial Intelligence Defense Platform, a technology start-up creating AI technology for a safer, more comfortable future, and its Founder Andy Khawaja have been recognized on the cover of Inner Review magazine for Dr. Andy Khawaja's extraordinary leadership qualities. This issue of Inner Review focuses on Dr. Andy Khawaja's goal to 'transform the world into a better place.' Dr. Khawaja's primary goal throughout his ventures has been to make 'this world a better place not only for the current but for the next generation as well.
+
+
