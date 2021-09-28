@@ -4843,3 +4843,50 @@
 > For once we can say that Tesla really has reinvented a wheel. For its newest Model S sedans and Model X SUVs, the carmaker dropped the traditional circular steering wheel in favor of what it's calling a 'yoke.' This yoke is rectangular and reminiscent of what you might see in a jet or a racecar. Tesla CEO Elon Musk indicated that the company made the change because, 'Yet another round wheel is boring & blocks the screen,' adding that Tesla's 'Full Self-Driving' function—controversial due to safety concerns—'in panoramic mode looks way better with a yoke.
 
 
+***
+![How Ford's electrification footprint will change with planned investments – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-28-at-12.37.27-pm.png?w=621 "How Ford's electrification footprint will change with planned investments – TechCrunch")
+
+
+[How Ford's electrification footprint will change with planned investments – TechCrunch](https://techcrunch.com/2021/09/27/how-fords-electrification-footprint-will-change-with-planned-investments/)
+
+
+> 'Blue Oval City will become a vertically integrated ecosystem for Ford to assemble an expanded lineup of electric F-Series vehicles and will include a BlueOvalSK battery plant, key suppliers and recycling,' said the company in a statement. 'Blue Oval City will be among the largest auto manufacturing campuses in U.S. history. Like the iconic Rouge complex in Michigan did a century earlier, Blue Oval City will usher in a new era for American manufacturing.' BlueOvalSK battery manufacturing campus in Glendale, Kentucky Ford and SK Innovation announced on Monday an additional $5.
+
+
+***
+[Rare Mew Oreo boxes are selling for thousands on eBay](https://mobilesyrup.com/2021/09/27/rare-mew-oreos-ebay/?utm_source=rss&utm_medium=rss&utm_campaign=rare-mew-oreos-ebay)
+
+
+> A $15,000 box of Oreos is currently available on eBay. Yes, that number is correct — $15,000 USD (roughly $19,000 CAD) for a package of Oreos. This Oreo frenzy is tied to the limited-edition Pokémon-themed Oreos that released earlier this month. The Pokémon X Oreo collaboration allows you to collect all 16 different Pokémon Oreos, […]
+
+
+***
+![How to find your MAC Address in Windows 10](https://cdn.mos.cms.futurecdn.net/8M6DHHXe7eEFtNgKNSQ2MS-1200-80.jpg "How to find your MAC Address in Windows 10")
+
+
+[How to find your MAC Address in Windows 10](https://www.laptopmag.com/articles/find-mac-address-windows-10)
+
+
+> (Image credit: Future) There are a few reasons why you might want to find your MAC address: Perhaps you're setting up a router and would like to filter certain devices out of your network for extra security. Maybe your router lists connected devices by their MAC address and you want to figure out which device is which. Or there's a chance you'll need to know your PC's MAC address to diagnose or resolve some computer network errors.Regardless, we can help you find your PC's MAC address on Windows 10 by using a few different methods.
+
+
+***
+![How to watch The Good Doctor season 5 online: stream the drama series from anywhere](https://cdn.mos.cms.futurecdn.net/z5SDpAeSvD4hwVQSd4pvpP-1200-80.jpg "How to watch The Good Doctor season 5 online: stream the drama series from anywhere")
+
+
+[How to watch The Good Doctor season 5 online: stream the drama series from anywhere](https://www.techradar.com/news/how-to-watch-the-good-doctor-season-5-online-stream-the-drama-series-from-anywhere)
+
+
+> (Image credit: ABC) It's time to book your weekly appointment at the St Bonaventure Hospital because The Good Doctor is returning for another series. The much-loved Dr. Murphy will be back on our screens and there's going to be more tests than ever when a new nemesis arrives at the hospital, and we finally find out whether Shaun and Lea officially tie the knot. Follow our guide below as we explain how to watch The Good Doctor season 5 online wherever you are in the world right now.Watch Good Doctor season 5 onlinePremiers on: Monday, September 27 at 10pm ET / PTNew episodes: released at the same time each weekStream now: get ABC live via the ABC website or with a FREE FuboTV 7-day trialInternational streaming options: CTV (CA) | Sky (UK) | 7Plus (AUS)Watch anywhere: with the aid of a quality VPN.
+
+
+***
+![Barclays and Anthemis bring female-focused  fintech innolab to UK and Europe](https://www.finextra.com/finextra-images/top_pics/xl/press-woman-desk-169xsmallmediumquality.jpg "Barclays and Anthemis bring female-focused  fintech innolab to UK and Europe")
+
+
+[Barclays and Anthemis bring female-focused  fintech innolab to UK and Europe](https://www.finextra.com/newsarticle/38910/barclays-and-anthemis-bring-female-focused--fintech-innolab-to-uk-and-europe)
+
+
+> No body in the article.
+
+
