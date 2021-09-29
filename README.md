@@ -5931,3 +5931,50 @@
 > By: Sudhir Chowdhary | September 30, 2021 1:30 AMThere are numerous types of headphones available such as around-ear, over-ear, in-ear, from numerous brands who know that headphones are an important part of the everyday lives of millions of people around the worldBack in the 80s and 90s, most people preferred to listen to music on speakers; a Sony deck music system or a two-in-one portable music system from Sony or Philips that would play audio cassettes was a prized possession at that time. Cut to present.
 
 
+***
+![Hillicon Valley — Presented by Ericsson — Senators gear up for Facebook hearing](https://thehill.com/sites/default/files/facebook-logo_040721getty_webb.jpg "Hillicon Valley — Presented by Ericsson — Senators gear up for Facebook hearing")
+
+
+[Hillicon Valley — Presented by Ericsson — Senators gear up for Facebook hearing](https://thehill.com/policy/technology/overnights/574577-hillicon-valley)
+
+
+> Today is Wednesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.Facebook's head of global safety will face off with members of the Senate Commerce consumer protection subcommittee on Thursday as part of the panel's first in a series of hearings focused on kids' safety. As criticism of the tech giant heats up following recent bombshell reports, the panel will convene again next week to hear testimony from a Facebook whistleblower.
+
+
+***
+![Apple releases tvOS 15.1 public beta 2](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/apple-tv-4k-review-1.jpg "Apple releases tvOS 15.1 public beta 2")
+
+
+[Apple releases tvOS 15.1 public beta 2](https://www.imore.com/how-download-tvos-15-public-beta)
+
+
+> We may earn a commission for purchases using our links. Learn more. Get on the beta Want to see what's coming to Apple TV with tvOS 15? The public beta is now available — here's how to download it! 29 Sep 2021 Source: Stephen Warwick / iMore We know that tvOS 15 is set to the official launch in the fall, but Apple has released the first public beta for tvOS 15, which means you can test it out and see the new features and software in action. There are some risks to using beta software, but if that's acceptable for you, here's how you can download the tvOS 15 public beta to your Apple TV.
+
+
+***
+![Amazon settles unfair labor claims with two fired tech workers](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYKHXOT42YI6TMPTWIZ74WAR54.jpg&w=1440 "Amazon settles unfair labor claims with two fired tech workers")
+
+
+[Amazon settles unfair labor claims with two fired tech workers](https://www.washingtonpost.com/technology/2021/09/29/amazon-settlement-fired-workers/)
+
+
+> SEATTLE — Amazon settled a long-running dispute with two former tech workers it fired after they criticized the company for its climate policies and warehouse safety record.The e-commerce giant was set to face Emily Cunningham and Maren Costa in a hearing before the National Labor Relations Board this week over claims that Amazon violated labor law by retaliating against the workers for their criticism even though it was a protected activity. Support our journalism. Subscribe today Lawyers representing Amazon and the two fired workers said in a hearing Wednesday before the case was to begin that they had reached an agreement.
+
+
+***
+![Recent Siri Changes Remove Call, Email, and Voicemail Features Used by Low Vision and Blind Users](https://images.macrumors.com/t/TIfThj2D3i1TDXK52nkgt5auUvk=/1600x/https://images.macrumors.com/article-new/2021/07/siri-glow.png "Recent Siri Changes Remove Call, Email, and Voicemail Features Used by Low Vision and Blind Users")
+
+
+[Recent Siri Changes Remove Call, Email, and Voicemail Features Used by Low Vision and Blind Users](https://www.macrumors.com/2021/09/29/siri-changes-features-removed/)
+
+
+> With the recent release of iOS 15, Apple appears to have made some changes to Siri functionality that have removed features relied on by low vision and blind iPhone users. Several ‌Siri‌ commands that provide details on phone calls, voicemails, and sending emails no longer appear to be working. The following commands used to be functional, but have recently been removed. Do I have any voicemails? Play my voicemail messages Check my call history Check my recent calls Who called me? Send an email Send an email to [person] Over the last two weeks, we've received several emails from ‌iPhone‌ users who are missing this key ‌Siri‌ functionality, or their relatives who are attempting to help them navigate the changes.
+
+
+***
+[Panda grammar 🤔](https://www.reddit.com/r/Python/comments/py5gfj/panda_grammar/)
+
+
+> Pandas is great, for me. In French we use Pandas in the singular.
+
+
