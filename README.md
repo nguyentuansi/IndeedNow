@@ -5647,3 +5647,53 @@
 > Silhouettes of laptop and mobile device users are seen next to a screen projection of the YouTube logo in this picture illustration taken March 28, 2018. REUTERS/Dado Ruvic/Illustration/File PhotoMOSCOW, Sept 29 (Reuters) - Russia on Wednesday threatened to block Alphabet Inc.'s (GOOGL.O) YouTube after Russian state-backed broadcaster RT's German-language channels were deleted a day earlier and said it was weighing possible retaliation against the German media.YouTube said on Tuesday that RT's channels had breached its COVID misinformation policy, a move Russia's Foreign Ministry described as "unprecedented information aggression" in a statement late on Wednesday.
 
 
+***
+![Play with some Unique and Fun APIs](https://external-preview.redd.it/JTlgHjzdbwaDnK1Grr-BSEN7ooGpn7SBdALtsIwatZ8.jpg?auto=webp&s=09f6d3612b54e1f58fe2bf518b9f2afa6f02f64f "Play with some Unique and Fun APIs")
+
+
+[Play with some Unique and Fun APIs](https://www.reddit.com/r/programming/comments/pxs6iv/play_with_some_unique_and_fun_apis_iread/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Huawei founder Ren Zhengfei wants to hire more foreign talent to boost firm's research initiatives](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/29/daa4ebce-20e4-11ec-83d0-b8338c7f9150_image_hires_173243.jpg?itok=H2jxjZB7&v=1632907978 "Huawei founder Ren Zhengfei wants to hire more foreign talent to boost firm's research initiatives")
+
+
+[Huawei founder Ren Zhengfei wants to hire more foreign talent to boost firm's research initiatives](https://www.scmp.com/tech/big-tech/article/3150578/huawei-founder-ren-zhengfei-wants-hire-more-foreign-talent-boost)
+
+
+> A security guard stands near Huawei Technologies Co's booth at the PT Expo China trade show in Beijing on September 28, 2021. The telecommunications giant plans to recruit more foreign talent, as it seeks to overcome US trade sanctions. Photo: AP
+
+
+***
+![Amazon Halo View vs. Fitbit Inspire 2: How the new fitness band stacks up against Fitbit's affordable tracker](https://www.cnet.com/a/img/dJZPxIDaTeTw47SwFhs1y2dOYqw=/1200x630/2021/09/28/09b8bcd8-28bd-47ef-8d6e-83cc6354395d/amazon-halo-2021.jpg "Amazon Halo View vs. Fitbit Inspire 2: How the new fitness band stacks up against Fitbit's affordable tracker")
+
+
+[Amazon Halo View vs. Fitbit Inspire 2: How the new fitness band stacks up against Fitbit's affordable tracker](https://www.cnet.com/tech/mobile/amazon-halo-view-vs-fitbit-inspire-2-how-the-new-fitness-band-stacks-up-against-fitbits-affordable-tracker/)
+
+
+> The latest Amazon Halo fitness tracker gets an upgraded subscription fitness service, and a more normal-looking smartwatch look. Amazon Amazon is redoubling its health efforts by introducing the $80 Halo View, a new version of its Halo fitness band that adds an AMOLED screen for viewing activity metrics and notifications. With its new screen, Amazon's fitness tracker seems like a much more worthy competitor to the $100 Fitbit Inspire 2, which is the company's cheapest general purpose fitness tracker.
+
+
+***
+![Tachus To Light Its First Home in Harris County](https://mms.businesswire.com/media/20210929005063/en/910814/23/Tachus_Logo_LG.jpg "Tachus To Light Its First Home in Harris County")
+
+
+[Tachus To Light Its First Home in Harris County](https://www.businesswire.com/news/home/20210929005063/en/Tachus-To-Light-Its-First-Home-in-Harris-County)
+
+
+> September 29, 2021 06:00 AM Eastern Daylight Time THE WOODLANDS, Texas--(BUSINESS WIRE)--Since November 2018, Tachus has worked to bring high-speed fiber Internet to communities throughout north Houston and Montgomery County. Today, The Woodlands-based provider announced that it has crossed county lines, connecting its first Harris County home in the Kingwood area, to blazing-fast fiber Internet. 'We are thrilled to expand our network to more homes in the Kingwood area as well as Harris County,' said Co-Founder, President, and CGO Carter Old.
+
+
+***
+![NEC Corporation Announces Dr. Kathleen Kiernan as Permanent President of NEC National Security Systems](https://mms.businesswire.com/media/20210929005070/en/774283/23/NEC_logo_icon_square.jpg "NEC Corporation Announces Dr. Kathleen Kiernan as Permanent President of NEC National Security Systems")
+
+
+[NEC Corporation Announces Dr. Kathleen Kiernan as Permanent President of NEC National Security Systems](https://www.businesswire.com/news/home/20210929005070/en/NEC-Corporation-Announces-Dr.-Kathleen-Kiernan-as-Permanent-President-of-NEC-National-Security-Systems)
+
+
+> September 29, 2021 06:00 AM Eastern Daylight Time ARLINGTON, Va.--(BUSINESS WIRE)--NEC Corporation of America (NEC) is pleased to announce that Dr. Kathleen Kiernan will assume the office of President at NEC National Security Systems (NEC NSS). Over the course of her two months as Interim President, Dr. Kiernan's combination of leadership experience and industry expertise has been invaluable to the company. 'Kathleen is absolutely the right fit for us,' said Raffie Beroukhim, Senior Vice President and Chief Experience Officer at NEC Corporation of America.
+
+
