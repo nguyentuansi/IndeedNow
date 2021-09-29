@@ -5419,3 +5419,53 @@
 > Japanese automaker Toyota is revving up acquisitions in mobility technology, adding Renovo Motors Inc, a Silicon Valley software developer, to its Woven Planet team, which is working on automated driving. The addition, announced Tuesday, follows the purchase earlier this year of CARMERA Inc, a U.S. venture that specializes in sophisticated road mapping updates made cheaper and faster by using crowdsourced information obtained from millions of net-connected Toyota vehicles. The company has not disclosed the value of either deal.
 
 
+***
+![Staples has the color printer deal you've been looking for — but hurry!](https://icdn.digitaltrends.com/image/digitaltrends/hp-officejet-pro-8210-printer.jpg "Staples has the color printer deal you've been looking for — but hurry!")
+
+
+[Staples has the color printer deal you've been looking for — but hurry!](https://www.digitaltrends.com/dtdeals/hp-officejet-8210-color-printer-deal-staples-september-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Ready to take the plunge and bring home your own color printer? Stop running to the public library or the FedEx Print Center every time you need to print out a document. Right now, you can get the HP OfficeJet Pro 8210 Color Printer for just $120, marked down from its regular price of $160 so you can save $40. Order it today and get free delivery or in-store pickup where available. Buy Now This HP OfficeJet Pro 8210 Color Printer is ideal for home offices and dorms.
+
+
+***
+![Microsoft warns of latest malware attack, explains how to avoid secret backdoor](https://icdn.digitaltrends.com/image/digitaltrends/pewdiepie-hacker-article-photo.jpg "Microsoft warns of latest malware attack, explains how to avoid secret backdoor")
+
+
+[Microsoft warns of latest malware attack, explains how to avoid secret backdoor](https://www.digitaltrends.com/computing/microsoft-warns-of-new-malware-that-creates-secret-backdoor/)
+
+
+> Microsoft has recently discovered another type of malware, named FoggyWeb by Microsoft, that hackers are currently using to remotely steal network admin credentials. The credentials allow the attacker group, which the company has called Nobelium, to hack into admin accounts of the Active Directory Federation Services' (AD FS) servers and control users' access to various resources. Microsoft claims that this is the same group behind the SolarWinds software supply chain attack that was revealed in December.
+
+
+***
+![Amazon announced a new Echo Show, so the old models are super cheap](https://icdn.digitaltrends.com/image/digitaltrends/amazon-echo-show-new.jpg "Amazon announced a new Echo Show, so the old models are super cheap")
+
+
+[Amazon announced a new Echo Show, so the old models are super cheap](https://www.digitaltrends.com/dtdeals/amazon-echo-show-deal-amazon-september-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Now that the latest version of the Echo Show has been announced, the older models are getting huge markdowns. The wall-mounted Amazon Echo Show 15 was announced during Amazon's annual Fall Showcase and offers the system's largest and best display yet. Right now, you can get the Amazon Echo Show 5 on sale for just $45, marked down from its regular price of $80 for a savings of $35. Prime members get free delivery and returns when they order online.
+
+
+***
+![This sale is why you should buy a Keurig, and all your refill pods, at Staples](https://icdn.digitaltrends.com/image/digitaltrends/keurig-k1500-commercial-coffee-maker-2.jpg "This sale is why you should buy a Keurig, and all your refill pods, at Staples")
+
+
+[This sale is why you should buy a Keurig, and all your refill pods, at Staples](https://www.digitaltrends.com/dtdeals/keurig-k1500-commercial-coffee-maker-deal-staples-september-2021-2/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you're heading back into the office this fall (or need to seriously upgrade your home coffee maker for a busy work-from-home season), then you need to check out the Keurig deals going on now at Staples. Right now, you can get the Keurig K1500 Commercial Coffee Maker for just $145, marked down $50 from its regular price of $195. Staples is also having major sales on Keurig pods, so you can get everything you need for serious caffeinating all in one place.
+
+
+***
+![Outer Wilds: Echoes of the Eye](https://gameranx.com/wp-content/uploads/2021/09/Outer-Wilds_20210928181834-scaled.jpg "Outer Wilds: Echoes of the Eye")
+
+
+[Outer Wilds: Echoes of the Eye](https://gameranx.com/features/id/265410/article/outer-wilds-echoes-of-the-eye-how-to-begin-the-dlc/)
+
+
+> Outer Wilds doesn't explain anything before dumping you into a vast universe to explore, with a mystery at its heart. The Echoes of the Eye DLC does the same thing — there's no explanation, just a tiny hint to point you in the right direction. The only easy-to-find addition is located in the Observatory Museum, where a new exhibit has been added. This only gives you the barest of clues, so if you're stuck and want to really get into the meat of this incredible expansion, this is what you need to know.
+
+
