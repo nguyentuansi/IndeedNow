@@ -5503,3 +5503,53 @@
 > Source: Apple Apple has updated its entire iWork productivity suite. The update includes new features for Pages, Number, and Keynote across iPhone, iPad, and Mac. All of the updates are available now for free on the App Store. Today, Apple has announced some notable updates to Pages, Numbers, and Keynote. In a press release, the company announced updates to its entire suite of productivity apps. You are now able to show a live camera view of a presenter in Keynote as well as bring in more than one presenter.
 
 
+***
+![US says ivory-billed woodpecker, 22 other species extinct](https://www.clickorlando.com/resizer/Ys5cLInQxGZQkdkgJYSY3-AHqRs=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/H4EMT6EDG5FKPHQA6YSBQ7EF5Q.jpg "US says ivory-billed woodpecker, 22 other species extinct")
+
+
+[US says ivory-billed woodpecker, 22 other species extinct](https://www.clickorlando.com/tech/2021/09/29/us-says-ivory-billed-woodpecker-22-other-species-extinct/)
+
+
+> BILLINGS, Mont. – Death's come knocking a last time for the splendid ivory-billed woodpecker and 22 more birds, fish and other species: The U.S. government is declaring them extinct.It's a rare move for wildlife officials to give up hope on a plant or animal, but government scientists say they've exhausted efforts to find these 23. And they warn climate change, on top of other pressures, could make such disappearances more common as a warming planet adds to the dangers facing imperiled plants and wildlife.
+
+
+***
+![US says ivory-billed woodpecker, 22 other species extinct](https://www.local10.com/resizer/Ys5cLInQxGZQkdkgJYSY3-AHqRs=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/H4EMT6EDG5FKPHQA6YSBQ7EF5Q.jpg "US says ivory-billed woodpecker, 22 other species extinct")
+
+
+[US says ivory-billed woodpecker, 22 other species extinct](https://www.local10.com/tech/2021/09/29/us-says-ivory-billed-woodpecker-22-other-species-extinct/)
+
+
+> BILLINGS, Mont. – Death's come knocking a last time for the splendid ivory-billed woodpecker and 22 more birds, fish and other species: The U.S. government is declaring them extinct.It's a rare move for wildlife officials to give up hope on a plant or animal, but government scientists say they've exhausted efforts to find these 23. And they warn climate change, on top of other pressures, could make such disappearances more common as a warming planet adds to the dangers facing imperiled plants and wildlife.
+
+
+***
+![OnePlus Buds Z2 might offer ANC and improved battery life](https://cdn.mos.cms.futurecdn.net/onLwnK9HP3LYXnsr3amg9o-1200-80.jpg "OnePlus Buds Z2 might offer ANC and improved battery life")
+
+
+[OnePlus Buds Z2 might offer ANC and improved battery life](https://www.techradar.com/news/oneplus-buds-z2-might-offer-anc-and-improved-battery-life)
+
+
+> (Image credit: Srivatsa Ramesh) The OnePlus Buds Z2 are expected to be the next set of affordable true wireless earbuds from OnePlus. Needless to say, they will be the successor to the original OnePlus Buds Z which was launched in India last year. The design of the Buds Z2 was leaked a few days back and now we have more details of the upcoming TWS from OnePlus. According to tipster Max Jambor, who has a good track record with the OnePlus lineup, the OnePlus Buds Z2 will bring some serious improvements over the Buds Z.
+
+
+***
+![Netflix buys first video game studio, rolls out mobile games](https://images.indianexpress.com/2021/09/netflix-logo.jpeg "Netflix buys first video game studio, rolls out mobile games")
+
+
+[Netflix buys first video game studio, rolls out mobile games](https://indianexpress.com/article/technology/netflix-buys-first-video-game-studio-rolls-out-mobile-games-7540977/)
+
+
+> Netflix has bought video game creator Night School Studio and rolled out five mobile gaming titles in select European markets, the company said on Tuesday, as it looks to diversify revenue sources amid intensifying competition in the streaming space. Night School Studio, the company's first gaming studio purchase, is best known for its debut game, 'Oxenfree', a supernatural teen thriller with an eerie soundtrack. The studio's games, which are available on Sony's PlayStation, Microsoft's Xbox, Nintendo Switch and PCs, will be the first non-mobile titles in the streaming giant's newly created video game portfolio.
+
+
+***
+![5 Properties of a Healthy Software Project](https://external-preview.redd.it/fIiXD6JF-FFT_c9_VX5zZdKi-4K-J3R9YDutmtQ1qh4.jpg?auto=webp&s=571ca86abce91c4ac567ec62c187af88a517a166 "5 Properties of a Healthy Software Project")
+
+
+[5 Properties of a Healthy Software Project](https://www.reddit.com/r/programming/comments/pxna0d/5_properties_of_a_healthy_software_project/)
+
+
+> no comments yetBe the first to share what you think!
+
+
