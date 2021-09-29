@@ -5597,3 +5597,53 @@
 > The Samsung Galaxy M52 has been launched in India as the latest mid-range phone from the brand. The Galaxy M52 will be the successor to the popular Samsung Galaxy M51 device from 2020 will be unveiled in India on September 28 一 near to the Amazon Great India Festival sale. The Samsung Galaxy M series has been Samsung's top-performing device over the past couple of years be it in the budget segment with the M11, M21 series or in the mid-range with the Galaxy M31 and M51 series.The device was launched first in Europe (Germany) ahead of India's launch on September 28.
 
 
+***
+![Kode Redeem Free Fire, 29 September 2021, Berikut Cara Klaimnya di reward.ff.garena.com](https://cdn-2.tstatic.net/tribunnews/foto/bank/images/free-fire.jpg "Kode Redeem Free Fire, 29 September 2021, Berikut Cara Klaimnya di reward.ff.garena.com")
+
+
+[Kode Redeem Free Fire, 29 September 2021, Berikut Cara Klaimnya di reward.ff.garena.com](https://www.tribunnews.com/techno/2021/09/29/kode-redeem-free-fire-29-september-2021-berikut-cara-klaimnya-di-rewardffgarenacom)
+
+
+> TRIBUNNEWS.COM - Kode redeem Garena Free Fire atau FF telah rilis hari ini, Rabu (29/9/2021). Kombinasi dari angka dan huruf yang berjumlah 12 karakter merupakan ciri khas kode redeem FF. Dengan mengklaim kode yang sudah dipilih maka kamu mendapatkan keuntungan seperti voucher, diamond, atau item lainnya. Namun, kode ini memiliki masa berlaku atau kadaluarsa sehingga segera klaim dan dapatkan item-item yang kamu perlukan. Baca juga: Free Fire MAX Rilis Hari Ini, Ada Peningkatan dalam Segi Game Play dan Grafis Baca juga: Free Fire Max Resmi Rilis pada 28 September 2021, Berikut Link Download dan Cara Pasangnya Berikut adalah daftar kode reedem FF untuk 29 September 2021 dihimpun dari berbagai sumber.
+
+
+***
+![Connected Motor Insurtech Ticker and Abacai Group Partner to Extend Capacity and Enhance Pricing Sophistication, Using Machine Learning and Artificial Intelligence](https://mms.businesswire.com/media/20210929005370/en/911174/23/ticker.jpg "Connected Motor Insurtech Ticker and Abacai Group Partner to Extend Capacity and Enhance Pricing Sophistication, Using Machine Learning and Artificial Intelligence")
+
+
+[Connected Motor Insurtech Ticker and Abacai Group Partner to Extend Capacity and Enhance Pricing Sophistication, Using Machine Learning and Artificial Intelligence](https://www.businesswire.com/news/home/20210929005370/en/Connected-Motor-Insurtech-Ticker-and-Abacai-Group-Partner-to-Extend-Capacity-and-Enhance-Pricing-Sophistication-Using-Machine-Learning-and-Artificial-Intelligence)
+
+
+> September 29, 2021 04:00 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Connected motor insurtech Ticker and Abacai Group have partnered to increase Ticker's capacity and introduce new levels of pricing sophistication, bringing connected insurance to a much wider market. Founded in 2018 and launched in 2019 with the backing of Munich Re Ventures, Ticker has been rolling out its cover for drivers who face high insurance costs, such as novice drivers and van drivers. Having completed its Series A fundraise earlier this year, led by Eos Venture Partners, Ticker is increasing its capacity to support the launch of new offerings, with products for low mileage drivers, convicted drivers and electric vehicles.
+
+
+***
+![Amazon Echo Show 15: Smart Home & Riesen-Display](https://i.computer-bild.de/imgs/1/3/9/9/2/4/3/1/Slide_Amazon_Echo_Show_15_Smart_Home___Riesen-Display-4d0c19725e44af12.jpg "Amazon Echo Show 15: Smart Home & Riesen-Display")
+
+
+[Amazon Echo Show 15: Smart Home & Riesen-Display](https://www.computerbild.de/videos/cb-News-Smart-Home-Amazon-Echo-Show-15-Smart-Home-Riesen-Display-30840763.html)
+
+
+> No body in the article.
+
+
+***
+![Apple says iPad mini's jelly scrolling is not a problem, calls it normal behaviour](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/ipad_mini_29092021_0-original.png "Apple says iPad mini's jelly scrolling is not a problem, calls it normal behaviour")
+
+
+[Apple says iPad mini's jelly scrolling is not a problem, calls it normal behaviour](https://www.indiatoday.in/technology/news/story/apple-says-ipad-mini-s-jelly-scrolling-is-not-a-problem-calls-it-normal-behaviour-1858628-2021-09-29)
+
+
+> Story highlights iPad mini has a jelly scrolling problem that refreshes one half of the display before the other. Due to this issue, text looks wobbly on the screen and is noticeable. Apple has downplayed the issue and said it is not an issue. Apple's new iPad mini, which packs better specifications and the latest software, went for sale last week. People who bought the iPad mini enthusiastically started using Apple's new tablet, only to spot an issue that probably ruined their experience. In portrait mode, the tablet has a jelly scrolling problem, making the right half of the display appear slightly behind the left one when you are scrolling through a webpage or a document.
+
+
+***
+![Russia threatens YouTube block after RT TV's German channels are deleted](https://www.reuters.com/resizer/GSMYev0W12Nk9Q2hPwLRj4oeNuw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KRM36H3EARNUPPEU5DL2D5Z7NU.jpg "Russia threatens YouTube block after RT TV's German channels are deleted")
+
+
+[Russia threatens YouTube block after RT TV's German channels are deleted](https://www.reuters.com/technology/russia-threatens-youtube-block-after-rt-tvs-german-channels-are-deleted-2021-09-29/)
+
+
+> Silhouettes of laptop and mobile device users are seen next to a screen projection of the YouTube logo in this picture illustration taken March 28, 2018. REUTERS/Dado Ruvic/Illustration/File PhotoMOSCOW, Sept 29 (Reuters) - Russia on Wednesday threatened to block Alphabet Inc.'s (GOOGL.O) YouTube after Russian state-backed broadcaster RT's German-language channels were deleted a day earlier and said it was weighing possible retaliation against the German media.YouTube said on Tuesday that RT's channels had breached its COVID misinformation policy, a move Russia's Foreign Ministry described as "unprecedented information aggression" in a statement late on Wednesday.
+
+
