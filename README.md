@@ -5469,3 +5469,37 @@
 > Outer Wilds doesn't explain anything before dumping you into a vast universe to explore, with a mystery at its heart. The Echoes of the Eye DLC does the same thing — there's no explanation, just a tiny hint to point you in the right direction. The only easy-to-find addition is located in the Observatory Museum, where a new exhibit has been added. This only gives you the barest of clues, so if you're stuck and want to really get into the meat of this incredible expansion, this is what you need to know.
 
 
+***
+[Acceldata, which makes AI-based data observability software for data quality, pipelines, and system infrastructure, raises $35M Series B led by Insight Partners (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210928/p51#a210928p51)
+
+
+> Kyle Wiggers / VentureBeat: Acceldata, which makes AI-based data observability software for data quality, pipelines, and system infrastructure, raises $35M Series B led by Insight Partners — The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now!
+
+
+***
+![PS5 restock Twitter tracker for GameStop, Target, Best Buy and Walmart live alerts](https://cdn.mos.cms.futurecdn.net/NhhhAN8nK8y3AUuACnXPgB-1200-80.jpg "PS5 restock Twitter tracker for GameStop, Target, Best Buy and Walmart live alerts")
+
+
+[PS5 restock Twitter tracker for GameStop, Target, Best Buy and Walmart live alerts](https://www.techradar.com/news/ps5-restock-in-us-september-2021)
+
+
+> The next PS5 restock dates are already in place, and if you follow our PS5 restock Twitter tracker Matt Swider – follow and turn on notifications for alerts – you'll get real-time alerts when PS5 is in stock in the US. Why? Because consoles sell out in just a few minutes, so live alerts are really the one way to buy it from GameStop, Target, Best Buy, Walmart and other retailers in the United States. Our PS5 restock Twitter tracker sent out alerts for the GameStop and Sony Direct restock today, and it won't be the last notifications we send, with a rare in-store restock happening on Thursday, September 30.
+
+
+***
+[Supply chain, ransomware threats drive increase in cyber intelligence sharing by financial services firms](https://itwire.com/security/supply-chain,-ransomware-threats-drive-increase-in-cyber-intelligence-sharing-by-financial-services-firms.html)
+
+
+> FS-ISAC, the global cyber intelligence sharing community solely focused on financial services, says that large scale threats resulted in record-breaking peaks of intelligence sharing by financial firms across all regions from August 2020 to August 2021, including the Asia Pacific region, North America; Latin America; Europe, UK, Middle East and Africa. FS-ISAC says that global cyber intelligence sharing among its member financial firms increased by 60% in the period driven by supply chain and ransomware threats.
+
+
+***
+![Apple updates iWork with live camera views in Keynote and more](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/apple-iwork-update-september-2021.jpg "Apple updates iWork with live camera views in Keynote and more")
+
+
+[Apple updates iWork with live camera views in Keynote and more](https://www.imore.com/apple-updates-iwork-live-camera-views-keynote-and-more)
+
+
+> Source: Apple Apple has updated its entire iWork productivity suite. The update includes new features for Pages, Number, and Keynote across iPhone, iPad, and Mac. All of the updates are available now for free on the App Store. Today, Apple has announced some notable updates to Pages, Numbers, and Keynote. In a press release, the company announced updates to its entire suite of productivity apps. You are now able to show a live camera view of a presenter in Keynote as well as bring in more than one presenter.
+
+
