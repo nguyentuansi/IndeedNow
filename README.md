@@ -5553,3 +5553,47 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+[Apple iPhone 13 has the best OLED display; Read more](http://www.pinkvilla.com/tech/news/apple-iphone-13-has-the-best-oled-display-read-more-906710)
+
+
+> Attach Main technology Image: Image Caption: Apple iPhone 13 has the best OLED display; Read more Social Media Image : Enter the Technology details: Apple iPhone 13 series was launched a few weeks back. With some crazy and exciting features the iPhone 13 series is at the top of the table leaving every smartphone behind. It has become the most expensive flagship for Apple with the high end variant priced at Rs 1,79,900. In terms of display the Apple iPhone 13 Pro MAX is the best and the brightest.
+
+
+***
+![Apple iPhone 13 review: Best of both worlds](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202109/ip6-647x363.png?7UkpKLPbPAbNrWgAeRrbv1AS5ivjZ2CP "Apple iPhone 13 review: Best of both worlds")
+
+
+[Apple iPhone 13 review: Best of both worlds](https://www.indiatoday.in/technology/reviews/story/apple-iphone-13-review-best-of-both-worlds-1858549-2021-09-29)
+
+
+> Apple has gone from one smartphone a year to two to four new devices every 12 months. That's when I am not counting the 'Special Edition or SE' which makes an appearance every few years. The idea is simple: there should be an iPhone at every price point and for almost every type of smartphone user. This year we have the iPhone 13 series which aims to achieve that. I have spent some time with all four models -- iPhone 13 Mini, iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max -- but this review focuses on the standard iPhone 13 model.
+
+
+***
+![Xiaomi 11 Lite 5G NE Launching Today in India, Watch LIVE Streaming Here](https://st1.latestly.com/wp-content/uploads/2021/09/25-8-784x441.jpg "Xiaomi 11 Lite 5G NE Launching Today in India, Watch LIVE Streaming Here")
+
+
+[Xiaomi 11 Lite 5G NE Launching Today in India, Watch LIVE Streaming Here](https://www.latestly.com/technology/xiaomi-11-lite-5g-ne-launching-today-in-india-watch-live-streaming-here-2898637.html)
+
+
+> Xiaomi is all set to launch its 11 Lite 5G NE smartphone today in India. The company has been teasing the handset on its Twitter and other social media channels. The launch event will commence at 12 noon and will be live-streamed via Xiaomi India's official YouTube and other social media accounts. Users can also watch the live telecast of the event here by clicking on the below-embedded video. Xiaomi 11 Lite 5G NE To Be Launched in India Tomorrow; Expected Prices, Features & Specifications.Xiaomi 11 Lite 5G NE has already been launched in the global market and is likely to carry similar specifications as that of the global model.
+
+
+***
+[Garena Free Fire OB30 update download: Check new features, file size, how to download, and more](https://www.zeebiz.com/technology/apps/news-garena-free-fire-ob30-update-download-check-new-features-file-size-how-to-download-and-more-166339)
+
+
+> Garena has incorporated the Free Fire OB30 update in the servers and players can now start playing both Free Fire and Free Fire Max without any issues.
+
+
+***
+![Samsung Galaxy M52 specs, price in India, and sale date](https://cdn.mos.cms.futurecdn.net/ze4kwmCAqc5Mhor29X4Mpg-1200-80.jpg "Samsung Galaxy M52 specs, price in India, and sale date")
+
+
+[Samsung Galaxy M52 specs, price in India, and sale date](https://www.techradar.com/news/samsung-galaxy-m52-price-specs-review)
+
+
+> The Samsung Galaxy M52 has been launched in India as the latest mid-range phone from the brand. The Galaxy M52 will be the successor to the popular Samsung Galaxy M51 device from 2020 will be unveiled in India on September 28 一 near to the Amazon Great India Festival sale. The Samsung Galaxy M series has been Samsung's top-performing device over the past couple of years be it in the budget segment with the M11, M21 series or in the mid-range with the Galaxy M31 and M51 series.The device was launched first in Europe (Germany) ahead of India's launch on September 28.
+
+
