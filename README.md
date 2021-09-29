@@ -5784,3 +5784,53 @@
 > New dollar highs verse EUR, GBP, CHF, CAD, AUD and NZD The GBPUSD has broken below the 2021 low at 1.34498. The low price just reached 1.34406. The EURUSD broke the 2021 low earlier today at 1.6634 and has extended lower to 1.16313 in the last hour of trading. The old low is now close risk for that pair.
 
 
+***
+![Curry's 4K TV deals could save you up to £300 on a premium Samsung, LG, or Sony](https://cdn.mos.cms.futurecdn.net/HMMvrpJCs7ALaJqy7WG95k-1200-80.jpg "Curry's 4K TV deals could save you up to £300 on a premium Samsung, LG, or Sony")
+
+
+[Curry's 4K TV deals could save you up to £300 on a premium Samsung, LG, or Sony](https://www.techradar.com/news/currys-4k-tv-deals-could-save-you-up-to-pound300-on-a-premium-samsung-lg-or-sony)
+
+
+> (Image credit: Future) Curry's has just launched an 'Amazing deals' event, which, while having quite an unimaginative name, has yielded some great premium 4K TV deals on sets from Samsung, Sony, LG, and other leading brands. We've picked out a couple of juicy highlights just below, starting with this excellent 2021 43-inch Samsung AU9007 for £479 (was £549). This one's a fantastic price for a smaller set considering it's usually the big screens that go on sale, plus, it's packed full of the latest Smart TV features.
+
+
+***
+![Amazon's New Sci-Fi Home Gadgets Include A Cute Robot And Touchscreen Projection](https://im.indiatimes.in/content/2021/Sep/Facebook-Image-56_61542af083cea.jpg "Amazon's New Sci-Fi Home Gadgets Include A Cute Robot And Touchscreen Projection")
+
+
+[Amazon's New Sci-Fi Home Gadgets Include A Cute Robot And Touchscreen Projection](https://www.indiatimes.com/technology/news/amazon-astro-glow-sci-fi-home-550514.html)
+
+
+> Amazon unveiled a bunch of new IoT gadgets to make homes more smarter and tech-savvy. However, there were two announcements that truly blew my mind in the way how close they could bring the sci-fi future to our lives.  AmazonAlso Read: Amazon Made $26.9 Billion Profit In 2020, More Than Last 3 Year's Total Astro Home RobotEver since the Jetsons, we've all wanted robots in our homes. And while that might sound a little far fetched, Astro tries to somewhat fill this gap. The tiny robot is like a Frankenstein monster made with all of Amazon's popular products.
+
+
+***
+![Surface Pro 7 and Surface Laptop get huge discounts ahead of new model releases](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-surface-pro-7-overhead.jpg "Surface Pro 7 and Surface Laptop get huge discounts ahead of new model releases")
+
+
+[Surface Pro 7 and Surface Laptop get huge discounts ahead of new model releases](https://www.digitaltrends.com/dtdeals/microsoft-surface-pro-7-surface-laptop-go-deal-best-buy-september-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. With Microsoft on the verge of releasing updated models across the range of their Surface lineup, current models of the popular touchscreen-based personal computers and tablets can be had for super low prices. Best Buy is currently slashing the price of the Microsoft Surface Laptop Go by $100. If a tablet is more the form factor you prefer, Best Buy is also discounting the Microsoft Surface Pro 7 an astonishing $360. Whether you like to connect, interact, create, or consume on a laptop or a tablet, these discounts from Best Buy will keep the price of your digital window at a minimum.
+
+
+***
+![Galaxy S21 FE rumors: Samsung's budget phone may never hit shelves](https://www.cnet.com/a/img/Frfq2Gm8fgCZP0PIQ3GfllWDZUc=/1200x630/2021/08/20/51003453-2d7e-421c-b95f-a318356e6b65/galaxy-s21-fe-render.png "Galaxy S21 FE rumors: Samsung's budget phone may never hit shelves")
+
+
+[Galaxy S21 FE rumors: Samsung's budget phone may never hit shelves](https://www.cnet.com/tech/mobile/galaxy-s21-fe-rumors-samsungs-budget-phone-may-never-hit-shelves/)
+
+
+> The Galaxy S21 FE, shown in the render, could be Samsung's next cheaper high-end phone. Evan Blass The Galaxy S20 FE made its debut last year, offering a balanced combination of handy features for a reasonable $699 starting price. But its successor, the Galaxy S21 FE, may never launch. Samsung reportedly removed the support pages for the Galaxy S21 FE just a few days after South Korean publication DDaily reported the company was canceling its rumored October Galaxy Unpacked event and considering canceling the device as well.
+
+
+***
+![Super Monkey Ball Banana Mania review: It won't quite make you go ape](https://icdn.digitaltrends.com/image/digitaltrends/smb-banana-mania-gongon.jpg "Super Monkey Ball Banana Mania review: It won't quite make you go ape")
+
+
+[Super Monkey Ball Banana Mania review: It won't quite make you go ape](https://www.digitaltrends.com/game-reviews/super-monkey-ball-banana-mania-review/)
+
+
+> 'Super Monkey Ball: Banana Mania is a welcome, but imprecise remake that's lacking detail.' Pros High-resolution graphics Lots of customization New modes and ways to play Classic soundtrack available as DLC Cons Stages lacking detail Wonky controls Forgettable story and soundtrack Some weak party games Even though it's been 20 years since the release of the original Super Monkey Ball, the game continues to hold true to its arcade roots. This coin-op influence can still be felt in Super Monkey Ball Banana Mania, the franchise's latest installation.
+
+
