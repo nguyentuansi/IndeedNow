@@ -5881,3 +5881,53 @@
 > There's no bigger "Tom Brady fan" in the world than Tom Brady's dad."My feeling is that Tommy is extraordinarily appreciative of everything that happened during his New England career," Brady Sr. said. "And he's more than happy that he's moved on, because it was pretty obvious that the Patriot regime felt that it was time for him to move on."When asked if he felt a measure of vindication for his son, Brady Sr. didn't hold back."Damn right. Belichick wanted him out the door and last year he threw 56 touchdowns--I think that's a pretty good year.
 
 
+***
+![Is Your iPhone 13 Order Delayed? Here's Why It's Taking So Long](https://static3.srcdn.com/wordpress/wp-content/uploads/2021/09/iPhone-13-Series-Delays-Faced-by-Apple.jpg "Is Your iPhone 13 Order Delayed? Here's Why It's Taking So Long")
+
+
+[Is Your iPhone 13 Order Delayed? Here's Why It's Taking So Long](https://screenrant.com/iphone-13-orders-delayed-delivery-supply-issues-cameras-covid/)
+
+
+> Apple suppliers under pressure after ramping up production for iPhone 13 camera modules, and COVID-19 disruptions are worsening the situation. The shipment dates for scores of iPhone 13 buyers have been pushed by weeks, thanks in no part to supply issues for the new camera hardware that Apple has fitted inside its latest smartphones. Months prior to the iPhone 13 quartet's debut, analysts had been predicting a delay in the market release of iPhone 13 series due to the ongoing global semiconductor shortage affecting the supply chain and production.
+
+
+***
+![Total War: Rome Board Game Expansions Teased](https://techraptor.net/sites/default/files/styles/image_header/public/2021-09/Rome%20Total%20War.jpg?itok=xpn-zpAr "Total War: Rome Board Game Expansions Teased")
+
+
+[Total War: Rome Board Game Expansions Teased](https://techraptor.net/tabletop/news/total-war-rome-board-game-expansions-teased)
+
+
+> More news has come out regarding the development of the Total War: Rome board game. It's not a release date, but an announcement of even more content to follow. In an interview with Wargamer, designer Simon Hall spoke about how additional expansions and army packs were in development for the game. While the base version of the Total War: Rome board game will still focus on Western Europe, Hall confirmed that these expansions will expand this map and introduce additional army factions, all of which can help expand a campaign beyond the ancient Roman Empire.
+
+
+***
+![Charge your Galaxy S20 on the go with these power banks](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/02/power-bank-array-aukey-ravpower-moshi-otterbox-elecjet.jpg "Charge your Galaxy S20 on the go with these power banks")
+
+
+[Charge your Galaxy S20 on the go with these power banks](https://www.androidcentral.com/best-power-banks-galaxy-s20)
+
+
+> Best portable chargers for Samsung Galaxy S20 Android Central 2021 The Galaxy S20 has quite the big battery, but with a 120Hz screen and 5G radios inside, you never know when your day will go into overtime, and you'll need to reach for a great portable charger to keep your Galaxy S20 alive. Or, y'know, you need a power bank on the way to work because you forgot to throw it on the charger last night the way I did. Never fear, power banks are here, and they can charge our S20s in many different ways.
+
+
+***
+![Six great Switch titles on sale this week](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/03/nintendo-switch-eshop-hero.jpg "Six great Switch titles on sale this week")
+
+
+[Six great Switch titles on sale this week](https://www.imore.com/best-nintendo-switch-game-sale-now)
+
+
+> Source: iMore Are you looking to have a bit more fun on your Nintendo Switch but don't know where to find the best Switch game deals? I know the best Nintendo Switch games can be pricey, especially if you're on a budget and can't spend $60 on a game. However, here at iMore, we have found some great games currently on sale. If any of these games spark your interest, check them out by clicking the links below. Here's every game you can pre-order on Amazon right now. Just click the title to check it out! Best Switch game deals: Physical game sales on Amazon right now — get them quick! Source: iMore Sometimes you can find a couple of gems on Amazon for sale, but make sure you catch them quickly.
+
+
+***
+![PlayGo BH47 & BH22 Headphones: They deliver exactly what they promise](https://images.financialexpress.com/2021/09/1-749.jpg "PlayGo BH47 & BH22 Headphones: They deliver exactly what they promise")
+
+
+[PlayGo BH47 & BH22 Headphones: They deliver exactly what they promise](https://www.financialexpress.com/industry/technology/playgo-bh47-bh22-headphones-they-deliver-exactly-what-they-promise/2340481/)
+
+
+> By: Sudhir Chowdhary | September 30, 2021 1:30 AMThere are numerous types of headphones available such as around-ear, over-ear, in-ear, from numerous brands who know that headphones are an important part of the everyday lives of millions of people around the worldBack in the 80s and 90s, most people preferred to listen to music on speakers; a Sony deck music system or a two-in-one portable music system from Sony or Philips that would play audio cassettes was a prized possession at that time. Cut to present.
+
+
