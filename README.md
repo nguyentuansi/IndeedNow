@@ -5697,3 +5697,53 @@
 > September 29, 2021 06:00 AM Eastern Daylight Time ARLINGTON, Va.--(BUSINESS WIRE)--NEC Corporation of America (NEC) is pleased to announce that Dr. Kathleen Kiernan will assume the office of President at NEC National Security Systems (NEC NSS). Over the course of her two months as Interim President, Dr. Kiernan's combination of leadership experience and industry expertise has been invaluable to the company. 'Kathleen is absolutely the right fit for us,' said Raffie Beroukhim, Senior Vice President and Chief Experience Officer at NEC Corporation of America.
 
 
+***
+![Facebook's Profit Model Perceives Kids As 'Untapped Wealth', Says Report](https://im.indiatimes.in/content/2021/Sep/Facebook_61542412d66df.jpg "Facebook's Profit Model Perceives Kids As 'Untapped Wealth', Says Report")
+
+
+[Facebook's Profit Model Perceives Kids As 'Untapped Wealth', Says Report](https://www.indiatimes.com/technology/news/facebook-perceives-kids-as-untapped-wealth-550487.html)
+
+
+> Poor Facebook can't seem to catch a break. In the latest piece of Wall Street Journal's "The Facebook Files", it was revealed that Facebook and its baby companies perceive kids and teens as "untapped wealth".Two weeks ago, WSJ got its hands on internal documents from Facebook where the company directly acknowledged how much harm it was causing to teenagers, especially girls. In the leak, Facebook's Instagram was in the spotlight with body image issues and self-harm at the centre. UnsplashDamning evidence of kids' commodification Now, more internal documents highlight how Facebook's heavy words about protecting children on its group of platforms may truly be hollow.
+
+
+***
+![EquityBee snaps up $55M for a marketplace that connects employees with capital to help them exercise their stock options – TechCrunch](https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-155283357.jpg?w=594 "EquityBee snaps up $55M for a marketplace that connects employees with capital to help them exercise their stock options – TechCrunch")
+
+
+[EquityBee snaps up $55M for a marketplace that connects employees with capital to help them exercise their stock options – TechCrunch](https://techcrunch.com/2021/09/29/equitybee-snaps-up-55m-for-a-marketplace-that-connects-employees-with-capital-to-help-them-exercise-their-stock-options/)
+
+
+> Stock options can hold a lot of potential reward for employees when their company is doing well, but not every person will have the funds to fully exercise — that is, buy up — the options they have available to them. Enter EquityBee, a marketplace for employees to connect with capital from a network of some 12,000 investors to finance the process. The startup has been on a growth tear this year, and to continue building out features on its platform, and expanding its reach, the company today is announcing $55 million in equity funding of its own.
+
+
+***
+![Gamitee becomes Joyned as it secures $4M for social shopping platform – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1182205168.jpg?w=600 "Gamitee becomes Joyned as it secures $4M for social shopping platform – TechCrunch")
+
+
+[Gamitee becomes Joyned as it secures $4M for social shopping platform – TechCrunch](https://techcrunch.com/2021/09/29/gamitee-becomes-joyned-as-it-secures-4m-for-social-shopping-platform/)
+
+
+> Joyned, formerly known as Gamitee, announced Wednesday that it raised $4 million in seed funding to continue developing its e-commerce platform that puts merchants in the driver's seat of social engagement. CEO Jonathan Abraham explained that Gamitee means 'joined' in Hebrew, but the Jerusalem-based SaaS company decided to spell it 'joy' because it aims to 'spark joy in its customers' experiences.' Leading the round is Arthur Stark, former president of Bed Bath & Beyond, Yair Goldfinger, founder of Dotomi and ICQ, and Rafael Ashkenazi, managing director and executive chairman at Hard Rock Digital.
+
+
+***
+![The government's vaccine passport scanner appeared on the App Store. Here's what we know](https://thenewdaily.com.au/wp-content/uploads/2021/09/1632895785-vds-nc-australia-vaccine-passport-scanner-app.png "The government's vaccine passport scanner appeared on the App Store. Here's what we know")
+
+
+[The government's vaccine passport scanner appeared on the App Store. Here's what we know](https://thenewdaily.com.au/life/tech/2021/09/29/vaccine-passport-app-australia/)
+
+
+> A QR code scanner for international vaccine passports has appeared on Apple's App Store – offering new insights into how overseas travel will work from October onwards. Designed by the … Continued The post The government's vaccine passport scanner appeared on the App Store. Here's what we know appeared first on The New Daily.
+
+
+***
+![Leave the wallet at home and use a folio case on your iPhone 13 instead](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/nomad-modern-leather-folio-case-iphone-hero.jpg "Leave the wallet at home and use a folio case on your iPhone 13 instead")
+
+
+[Leave the wallet at home and use a folio case on your iPhone 13 instead](https://www.imore.com/best-folio-cases-iphone-13)
+
+
+> Best folio cases for iPhone 13 iMore 2021 The iPhone 13 is a fantastic handset, but carrying both a phone and a wallet in your pockets or bag can be a hassle. You're going to use a good iPhone 13 case to protect your investment anyway so why not pick up one of the best folio cases for your iPhone 13 and leave your wallet at home? Staff Pick A protective TPU insert houses your iPhone, while PU leather wraps around the outside of the case. There are three card slots plus a larger slot for cash.
+
+
