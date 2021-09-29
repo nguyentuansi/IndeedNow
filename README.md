@@ -5834,3 +5834,50 @@
 > 'Super Monkey Ball: Banana Mania is a welcome, but imprecise remake that's lacking detail.' Pros High-resolution graphics Lots of customization New modes and ways to play Classic soundtrack available as DLC Cons Stages lacking detail Wonky controls Forgettable story and soundtrack Some weak party games Even though it's been 20 years since the release of the original Super Monkey Ball, the game continues to hold true to its arcade roots. This coin-op influence can still be felt in Super Monkey Ball Banana Mania, the franchise's latest installation.
 
 
+***
+![Vietnam in Covid-19 pandemic grip: Apple iPhone 13 wait gets longer](https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/29/full/1632938327-3574.jpg "Vietnam in Covid-19 pandemic grip: Apple iPhone 13 wait gets longer")
+
+
+[Vietnam in Covid-19 pandemic grip: Apple iPhone 13 wait gets longer](https://www.business-standard.com/article/technology/vietnam-in-covid-19-pandemic-grip-apple-iphone-13-wait-gets-longer-121092901498_1.html)
+
+
+> Buyers of Apple's new iPhone 13 face longer-than-expected delivery times because of a wave of Covid-19 infections in Vietnam, where components for the device's new camera module are assembled, Nikkei Asia said. The disruption, which could ease as soon as mid-October, is linked to a constriction in supplies of modules for the phone's four models, as a significant number of components are assembled in Vietnam, it said, citing people familiar with the matter. Several users and Apple's partners, such as Verizon Communications Inc and Best Buy, have highlighted delays after pre-ordering began in September due to a shortage of supply and high demand, with analysts warning of one of the longest waiting times for the phone in recent years.
+
+
+***
+![Google announces redesign of Search engine with more pictures and extra context about results](https://static.independent.co.uk/2021/09/13/09/breaking-news.png?width=1200&auto=webp&quality=75 "Google announces redesign of Search engine with more pictures and extra context about results")
+
+
+[Google announces redesign of Search engine with more pictures and extra context about results](https://www.independent.co.uk/life-style/gadgets-and-tech/google-update-search-latest-version-b1929175.html)
+
+
+> Google has announced a new redesign of its search tools, making it more visual and adding in extra contextual information about its results.At its Search On event, the web giant also announced new features for Google Chrome and its Google Lens artificially-intelligent photo software.The main aesthetic change are visually browsable results, 'for searches where you need inspiration' such as 'pour painting ideas', Google says, which will surface a series of pictures at the top of search results without having to navigate to the Images tab.
+
+
+***
+![Complete 401(k) Solution Offers Simplicity and Helps Mitigate Risk for Retirement Plan Sponsors and Advisors](https://mms.businesswire.com/media/20210929005766/en/911183/23/AdobeStock_241539075.jpg "Complete 401(k) Solution Offers Simplicity and Helps Mitigate Risk for Retirement Plan Sponsors and Advisors")
+
+
+[Complete 401(k) Solution Offers Simplicity and Helps Mitigate Risk for Retirement Plan Sponsors and Advisors](https://www.businesswire.com/news/home/20210929005766/en/Complete-401-k-Solution-Offers-Simplicity-and-Helps-Mitigate-Risk-for-Retirement-Plan-Sponsors-and-Advisors)
+
+
+> September 29, 2021 02:00 PM Eastern Daylight Time PHOENIX--(BUSINESS WIRE)--Dynamic Advisor Solutions dba Dynamic Wealth Advisors, a professional services provider for wealth advisors, announced Complete 401(k), an end-to-end retirement solution for retirement plan advisors burdened with the day-to-day responsibilities of managing plan business. Dynamic's Complete 401(k) professionals manage plan administration, compliance and fiduciary responsibilities, mitigating liability risk and presenting an opportunity for advisors to engage with their plan sponsor clients in a scalable, efficient and cost-effective way.
+
+
+***
+[Technical Insulation Market worth $9.2 billion by 2024 : Major Players are Zotefoams Plc (UK), Owens Corning (US), Kingspan Group Plc (Ireland), ETEX Group SA (Belgium), Rockwool International A/S (Denmark), Recticel NV/SA (Belgium), Morgan Advanced Mater](https://www.openpr.com/news/2412105/technical-insulation-market-worth-9-2-billion-by-2024-major)
+
+
+> The report "Technical Insulation Market by Product Type (Flexible, Rigid, MMF), Application (Heating & Plumbing, HVAC, Refrigeration, Industrial Process, Acoustic), End-use (Industrial & OEM, Energy, Transportation, Commercial), and Region - Global Forecast to 2024", The technical insulation market size is
+
+
+***
+![Tom Brady's Dad Took A Jab At The Patriots. Brady's Response Is A Lesson In Emotional Intelligence](https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1300924332_200013332000928024_tlx39p.jpg "Tom Brady's Dad Took A Jab At The Patriots. Brady's Response Is A Lesson In Emotional Intelligence")
+
+
+[Tom Brady's Dad Took A Jab At The Patriots. Brady's Response Is A Lesson In Emotional Intelligence](https://www.inc.com/justin-bariso/tom-brady-how-to-handle-a-breakup-how-to-move-on-new-england-patriots-bill-belichick-emotional-intelligence.html)
+
+
+> There's no bigger "Tom Brady fan" in the world than Tom Brady's dad."My feeling is that Tommy is extraordinarily appreciative of everything that happened during his New England career," Brady Sr. said. "And he's more than happy that he's moved on, because it was pretty obvious that the Patriot regime felt that it was time for him to move on."When asked if he felt a measure of vindication for his son, Brady Sr. didn't hold back."Damn right. Belichick wanted him out the door and last year he threw 56 touchdowns--I think that's a pretty good year.
+
+
