@@ -5747,3 +5747,40 @@
 > Best folio cases for iPhone 13 iMore 2021 The iPhone 13 is a fantastic handset, but carrying both a phone and a wallet in your pockets or bag can be a hassle. You're going to use a good iPhone 13 case to protect your investment anyway so why not pick up one of the best folio cases for your iPhone 13 and leave your wallet at home? Staff Pick A protective TPU insert houses your iPhone, while PU leather wraps around the outside of the case. There are three card slots plus a larger slot for cash.
 
 
+***
+![iPhone 13 Pro vs Samsung Galaxy S21+: Which middle child is right for you?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/apple-iphone-13-pro-galaxy-s21-plus-price.jpg "iPhone 13 Pro vs Samsung Galaxy S21+: Which middle child is right for you?")
+
+
+[iPhone 13 Pro vs Samsung Galaxy S21+: Which middle child is right for you?](https://www.imore.com/iphone-13-pro-vs-samsung-galaxy-s21-plus)
+
+
+> The iPhone 13 Pro is an intelligent beast of a smartphone. This iPhone has the fastest processor of any handset alongside a brilliant camera setup. When paired with extra features like MagSafe and FaceID, you've got an impressive combo of smarts and convenience. From $999 at Apple Smarter camera Faster processor MagSafe and FaceID Stronger, brighter screen than previous gens Shorter battery life Inferior camera zoom features No reverse charging When it comes to the 'middle child' of flagship Android smartphones, the Samsung Galaxy S21+ is one of the biggest.
+
+
+***
+![Black Friday electric scooter deals 2021: will you ride off with a bargain this year?](https://cdn.mos.cms.futurecdn.net/bk6xS27mhDDKwBo5GoKz4i-1200-80.jpg "Black Friday electric scooter deals 2021: will you ride off with a bargain this year?")
+
+
+[Black Friday electric scooter deals 2021: will you ride off with a bargain this year?](https://www.techradar.com/news/the-best-black-friday-e-scooter-deals-segway-razor-hiboy-and-more)
+
+
+> Black Friday is a great time to grab a deal on an electric scooter, if last year's offers are anything to go by. As quite a new tech in most countries, and not even fully legal in some, it's hard to analyze historic electric vehicle Black Friday trends - we don't have a lot data. But we do have some, and we'll do our best to predict what and where we'll see the best Black Friday electric scooter deals this year.When Black Friday deals start rolling around on November 26 (or very likely before, as some retailers start their sales way in advance), we'll likely see a number of electric scooter sales rolled out too, at least from some of the bigger brands and retailers.
+
+
+***
+![PS5 restock Twitter tracker for Target, GameStop, Best Buy and Sony live alerts](https://cdn.mos.cms.futurecdn.net/NhhhAN8nK8y3AUuACnXPgB-1200-80.jpg "PS5 restock Twitter tracker for Target, GameStop, Best Buy and Sony live alerts")
+
+
+[PS5 restock Twitter tracker for Target, GameStop, Best Buy and Sony live alerts](https://www.techradar.com/news/ps5-restock-in-us-september-2021)
+
+
+> PS5 restock alerts will be sent to you if you follow our PS5 restock Twitter tracker Matt Swider – follow and turn on notifications for alerts – who is tracking a dozen retailers in the US including Target, GameStop, Best Buy and Walmart. Why do you need alerts? Because there's a silicon shortage and consoles sell out in just a few minutes; live alerts are really the one way to buy it from retailers in the United States. Our PS5 restock Twitter tracker sent out alerts for the GameStop and Sony Direct restock today, and it won't be the last notifications we send, with a rare in-store restock happening on Thursday, September 30, while a Target PS5 restock may happen on Friday.
+
+
+***
+[GBPUSD makes new 2021 lows.  EURUSD selling continues.](https://www.forexlive.com/technical-analysis/!/gbpusd-makes-new-2021-lows-eurusd-selling-continues-20210929)
+
+
+> New dollar highs verse EUR, GBP, CHF, CAD, AUD and NZD The GBPUSD has broken below the 2021 low at 1.34498. The low price just reached 1.34406. The EURUSD broke the 2021 low earlier today at 1.6634 and has extended lower to 1.16313 in the last hour of trading. The old low is now close risk for that pair.
+
+
