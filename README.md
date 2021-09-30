@@ -6304,3 +6304,53 @@
 > NEW YORK & VIENNA, Va.--(BUSINESS WIRE)--Kaleyra, Inc. (NYSE: KLR) (NYSE American: KLR WS) ('Kaleyra' or the 'Company'), a rapidly growing cloud communications software provider delivering a secure system of application programming interfaces (APIs) and connectivity solutions in the API/Communications Platform as a Service (CPaaS) market, was included as a top five global CPaaS ‘Established Leader' in the latest Competitor Leaderboard produced by Juniper Research, one of the leading independent analyst firms in the mobile and digital tech sector.
 
 
+***
+![Writing elegant code with map, filter, and reduce in Python](https://external-preview.redd.it/ldFQpW1gzuToNDZsDo5N9vBGShN_50PI4dQviuDhbDA.jpg?auto=webp&s=596c8d26c17ec9a2f530ebc8e0cbbee2fae654be "Writing elegant code with map, filter, and reduce in Python")
+
+
+[Writing elegant code with map, filter, and reduce in Python](https://www.reddit.com/r/Python/comments/pykhcw/writing_elegant_code_with_map_filter_and_reduce/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Google Pixel 'Fold': News, Leaks, Release Date, Specs, and Rumors!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/pixel-fold-mockup-displays-01.jpg "Google Pixel 'Fold': News, Leaks, Release Date, Specs, and Rumors!")
+
+
+[Google Pixel 'Fold': News, Leaks, Release Date, Specs, and Rumors!](https://www.androidcentral.com/google-pixel-fold)
+
+
+> A mock-up of how the Google Pixel Fold could look.Source: Nick Sutrich / Android Central Samsung, Huawei, and Motorola all pioneered the category of foldable phones, pushing out expensive prototypes bordering on unfinished tech demos to eager consumers. But with the arrival of the superb Galaxy Z Fold 3 and Z Flip 3, Samsung changed the conversation around foldable phones, proving they can offer a premium experience that slab-shaped phones can't. Now, we're hoping Google gives Samsung a run for its money with its own foldable phones.
+
+
+***
+![The PS5 DualSense is much better than the DualShock 4](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/dualsense-ps5-horizon-zero-dawn-comic.jpg "The PS5 DualSense is much better than the DualShock 4")
+
+
+[The PS5 DualSense is much better than the DualShock 4](https://www.androidcentral.com/ps5-dualsense-controller-vs-ps4-dualshock-4-controller)
+
+
+> There's good reason Sony didn't simply call this the DualShock 5. DualSense attempts to revolutionize the line with a more ergonomic form factor and features like adaptive triggers and haptic feedback to enhance your immersion. It truly is the next big step that Sony is taking, and it speaks wonders for what the company plans with the PS5 in the coming years. $70 at Amazon Adaptive triggers Improved haptic feedback Light bar surrounding touchpad New textured grips, triggers, and thumbsticks USB-C charging Built-in microphone and create button Symmetrical thumbstick layout The DualShock 4 added a light bar and touchpad over its predecessor, the DualShock 3, but it's only a very adequate controller at its core.
+
+
+***
+![Will my iPhone 12 case fit the new iPhone 13?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/iphone-13-pink-lifestyle.jpg "Will my iPhone 12 case fit the new iPhone 13?")
+
+
+[Will my iPhone 12 case fit the new iPhone 13?](https://www.imore.com/will-iphone-13-fit-your-old-case)
+
+
+> Source: AppleBest answer: No. The iPhone 13 is just slightly thicker than the iPhone 12, the button placement is different, and the camera module on the iPhone 13 is just slightly larger than the iPhone 12. Apple has announced the new iPhone 13, and it's a beauty. It appears to be about the same size and shape as the iPhone 12 and iPhone 12 Pro. So, will your new iPhone 13 fit in your old case if you're upgrading from the iPhone 12? Unfortunately, no. Though the handset's overall dimensions are similar, they are not the same.
+
+
+***
+![The best free YouTube downloader apps to use in 2021](https://cdn.mos.cms.futurecdn.net/mbzkbfKG8pP9rQFWCRppGQ-1200-80.jpg "The best free YouTube downloader apps to use in 2021")
+
+
+[The best free YouTube downloader apps to use in 2021](https://www.techradar.com/best/free-youtube-downloader)
+
+
+> Using a YouTube downloader on Windows or Mac can help you store your videos from the site with ease, without using an internet connection.Regardless of whether you have a Windows PC, a Mac or a smartphone, these tools are incredibly useful for those who rely on YouTube to catch up on their favorite content, so you can watch these whenever you wanted to.There are many reasons why you would want to use a free YouTube downloader, from saving personal projects from an account you may have lost access to, to downloading the videos to use in presentations.
+
+
