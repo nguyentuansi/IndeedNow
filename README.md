@@ -6025,3 +6025,47 @@
 > The latest high-rider from Hyundai's luxury brand is packed with hi-tech features that make it feel like a smartphone on wheels.Don't miss out on the headlines from HiTech. Followed categories will be added to My News.The latest electric car headed Down Under is like a smartphone on wheels.Hyundai's luxury offshoot, Genesis, has revealed its new GV60 electric SUV, which is due to arrive in Australia in the first half of next year.Prices will be announced closer to the launch date.The GV60 will have smartphone-like features such as facial recognition that can lock and unlock doors by reading the driver's face when they touch the door handle.
 
 
+***
+![Facebook Downplays Internal Research Released on Eve of Hearing](https://static01.nyt.com/images/2021/08/19/business/29-facebook/29-facebook-facebookJumbo-v2.jpg "Facebook Downplays Internal Research Released on Eve of Hearing")
+
+
+[Facebook Downplays Internal Research Released on Eve of Hearing](https://www.nytimes.com/2021/09/29/technology/facebook-instagram-research-hearing.html)
+
+
+> Continue reading the main storyThe social network published its findings about Instagram's effect on young users, as senators prepared to question an executive on Thursday.Facebook released two internal reports from 2019: 'Teen Mental Health Deep Dive' and 'Hard Life Moments.'Credit...Laura Morton for The New York TimesBy Ryan Mac and Sheera FrenkelSept. 29, 2021Updated 10:10 p.m. ETFacebook on Wednesday published two internal research reports about its photo-sharing app, Instagram, and downplayed their conclusions, as the company prepared for two congressional hearings in the next week that are focused on its products' effects on children's mental health.
+
+
+***
+[Buckle, which provides credit and insurance to ridesharing and delivery drivers, raises $60M Series B led by Volery Capital Partners (PYMNTS.com)](http://www.techmeme.com/210929/p39#a210929p39)
+
+
+> PYMNTS.com: Buckle, which provides credit and insurance to ridesharing and delivery drivers, raises $60M Series B led by Volery Capital Partners — Buckle Corp, an insurance and credit provider for rideshare and delivery drivers and those who earn less than the average American wage, announced on Wednesday …
+
+
+***
+![Apple Pay users vulnerable to security hack due to ‘dangerous flaw,' experts warn](https://static.standard.co.uk/2021/09/30/00/64b7ea8ce6d9b940a072a22030590e26Y29udGVudHNlYXJjaGFwaSwxNjMzMDAyMzAw-2.62630616.jpg?width=1200&width=1200&auto=webp&quality=75 "Apple Pay users vulnerable to security hack due to ‘dangerous flaw,' experts warn")
+
+
+[Apple Pay users vulnerable to security hack due to ‘dangerous flaw,' experts warn](https://www.standard.co.uk/tech/apple-pay-users-vulnerable-to-security-hack-experts-warn-b958014.html)
+
+
+> Researchers have urged iPhone users to remove Visa as a transport card via ApplePay after uncovering a flaw which they say fraudsters could use to bypass security and make unlimited contactless payments.Experts from the University of Birmingham and the University of Surrey warned the issue could be exploited to make transactions from an iPhone inside someone's bag, without their knowledge.They claim the vulnerability only happens on Apple Pay when a Visa card is set up as an Express Travel Card, also known as Express Transit mode – a feature intended for owners to tap in and out of public transport without needing to unlock their phone.
+
+
+***
+![Best cheap video game deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/fifa-football-best-ios-games.jpg "Best cheap video game deals for October 2021")
+
+
+[Best cheap video game deals for October 2021](https://www.digitaltrends.com/dtdeals/best-video-game-deals/)
+
+
+> While gamers are scrambling to acquire the next-generation consoles of Sony and Microsoft, developers have been changing their focus to PlayStation 5 and Xbox Series X games. However, new games are still on the way for the PlayStation 4 and Xbox One , in addition to exciting games for the Nintendo Switch. This means that there will be no shortage of video game deals, as retailers will continue to release offers that will help gamers fill their libraries on both generations of consoles. Gamers who have already upgraded to the PlayStation 5 and Xbox Series X should always be on the lookout for offers that will help jumpstart their collections.
+
+
+***
+[Technical Analysis – Critical Resistance Could Pause USD/JPY Rally](https://forextv.com/jpy-japanese-yen/technical-analysis-critical-resistance-could-pause-usd-jpy-rally/)
+
+
+> USDJPY is confronting the March 2020 rally high of 111.71 for a second time in nearly three months after its recent bullish propulsion from around the 109.00 handle. The 200-day simple moving average … Read Full Story at source (may require registration) The post Technical Analysis – Critical Resistance Could Pause USD/JPY Rally appeared first on ForexTV.
+
+
