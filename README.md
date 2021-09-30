@@ -6254,3 +6254,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Found comes out of stealth with $32M in funding, former Bumble exec as its new CEO – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/1.-Sarah-Swathy-1.jpg?w=666 "Found comes out of stealth with $32M in funding, former Bumble exec as its new CEO – TechCrunch")
+
+
+[Found comes out of stealth with $32M in funding, former Bumble exec as its new CEO – TechCrunch](https://techcrunch.com/2021/09/30/weight-health-startup-found-comes-out-of-stealth-with-32m-in-funding-former-bumble-exec-as-new-ceo/)
+
+
+> Found, a startup focused on weight care management, is emerging from stealth today with $32 million in total funding and the news that it has appointed former Bumble COO Sarah Jones Simmer as its new chief executive. Austin-based Found was incubated at Atomic, a San Francisco-based venture studio in the spring of 2020. Earlier this year, it raised $24 million in a Series A round led by GV (formerly Google Ventures) and Atomic, with participation from Define Ventures. And over the course of the last year, it raised $8 million in previously unannounced seed funding, largely from Atomic in addition to Define Ventures.
+
+
+***
+![DNA-based data storage platform Catalog raises $35M – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/CATALOG-Kambara-Mimh.jpg?w=600 "DNA-based data storage platform Catalog raises $35M – TechCrunch")
+
+
+[DNA-based data storage platform Catalog raises $35M – TechCrunch](https://techcrunch.com/2021/09/30/dna-based-data-storage-platform-catalog-raises-35m-series-b-to-scale-its-dna-computation/)
+
+
+> Conventional electronic media like flash drives and hard drives require energy consumption to process a vast amount of high-density data and information overload and are vulnerable to security issues due to the limited space for storage. There is also an expensive cost issue when it comes to transmitting the stored data. To solve the problems of traditional electronic media, a startup in Boston, Catalog, was founded in 2016 by MIT scientists including co-founder and CEO Hyunjun Park, developing an energy efficient, cost competitive, and more secure data storage and computation platform by using synthetic DNA.
+
+
+***
+![The Galaxy S21 Ultra's great camera doesn't make life easy for the iPhone 13 Pro](https://icdn.digitaltrends.com/image/digitaltrends/iphone-13-pro-and-galaxy-s21-ultra-cameras.jpg "The Galaxy S21 Ultra's great camera doesn't make life easy for the iPhone 13 Pro")
+
+
+[The Galaxy S21 Ultra's great camera doesn't make life easy for the iPhone 13 Pro](https://www.digitaltrends.com/mobile/iphone-13-pro-vs-galaxy-s21-ultra-camera-comparison/)
+
+
+> The Galaxy S21 Ultra has the best camera Samsung has made yet, and it remains one of our favorite camera phones. Its biggest rival for the crown of 'best camera on a smartphone,' the Apple iPhone 12 Pro, has now been replaced in the range by the iPhone 13 Pro, making it essential to put the two cameras up against each other. Samsung's hard work paid off on the Galaxy S21 Ultra, but will it now have to play catch-up to Apple's newer iPhone? The 13 Pro's camera has generated plenty of hype, but as you'll see, the Galaxy S21 Ultra is not only still a winner, it has the new iPhone beaten in several important areas.
+
+
+***
+![Spudsy bags $3.3M to turn ‘ugly' sweet potatoes into snacks – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/08162020_spudsy_augustseptember_bagsspilled_wholefoods.jpg "Spudsy bags $3.3M to turn ‘ugly' sweet potatoes into snacks – TechCrunch")
+
+
+[Spudsy bags $3.3M to turn ‘ugly' sweet potatoes into snacks – TechCrunch](https://techcrunch.com/2021/09/30/spudsy-bags-3-3m-to-turn-ugly-sweet-potatoes-into-snacks/)
+
+
+> Spudsy, a brand that upcycles imperfect sweet potatoes and turns them into plant-based snacks, announced Thursday that it raised $3.3 million in Series A funding in a round led by KarpReilly and Stage 1 Fund. With the new funding, the company has raised a total of $6.5 million since the company was founded three years ago, Ashley Rogers, Spudsy founder and CEO told TechCrunch. 'Being a young brand, we don't know everything, and these investors have a portfolio of food and beverage companies and have been doing this forever,' she said.
+
+
+***
+![Kaleyra Recognized as ‘Established Leader' in the Global CPaaS Market by Juniper Research](https://mms.businesswire.com/media/20210930005087/en/911439/23/Kaleyra_logo_2020_Red_logo.jpg "Kaleyra Recognized as ‘Established Leader' in the Global CPaaS Market by Juniper Research")
+
+
+[Kaleyra Recognized as ‘Established Leader' in the Global CPaaS Market by Juniper Research](https://www.businesswire.com/news/home/20210930005087/en/Kaleyra-Recognized-as-%E2%80%98Established-Leader%E2%80%99-in-the-Global-CPaaS-Market-by-Juniper-Research)
+
+
+> NEW YORK & VIENNA, Va.--(BUSINESS WIRE)--Kaleyra, Inc. (NYSE: KLR) (NYSE American: KLR WS) ('Kaleyra' or the 'Company'), a rapidly growing cloud communications software provider delivering a secure system of application programming interfaces (APIs) and connectivity solutions in the API/Communications Platform as a Service (CPaaS) market, was included as a top five global CPaaS ‘Established Leader' in the latest Competitor Leaderboard produced by Juniper Research, one of the leading independent analyst firms in the mobile and digital tech sector.
+
+
