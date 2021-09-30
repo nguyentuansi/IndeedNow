@@ -6401,3 +6401,53 @@
 > If you're pondering the question of what makes for the best all-round gaming monitor, the new Corsair Xeneon 32QHD165 might just be the answer. On paper, at least.With a 32-inch 1440p panel running at up to 165Hz refresh, it arguably nails exactly the right balance between performance and graphical detail. Sure, there are gaming monitors with more pixels than the Corsair Xeneon 32QHD165. Others hum along at even higher refresh rates or offer more overall inches. But you quickly run into one obvious issue with ever-higher spec screens.
 
 
+***
+![Best 15-inch laptop 2021: top picks with 15-inch displays](https://cdn.mos.cms.futurecdn.net/PvQNBDwmUDrE8H2qpXCDpa-1200-80.jpg "Best 15-inch laptop 2021: top picks with 15-inch displays")
+
+
+[Best 15-inch laptop 2021: top picks with 15-inch displays](https://www.techradar.com/news/best-15-inch-laptop)
+
+
+> The best 15-inch laptops hit the sweet spot for most people between portability and practicality, making them ideal for business, school, or creative work on the go. They are often just as powerful as the best 17-inch laptop, while being able to fit into just about any backpack or tote bag when you're in a hurry as any of the best 13-inch laptops on the market right now.What's more, the best 15-inch laptops for gaming are also the smallest you can realistically get if you want to seriously game on the go, while productive users will find that anything less than 15 inches doesn't have the screen real estate to handle a moderately sized spreadsheet (and you can forget about that tenkey numpad on a 13-inch!).
+
+
+***
+![TikTok's new ad products invite users to interact with taps, swipes, likes and more – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1228007234.jpeg?w=670 "TikTok's new ad products invite users to interact with taps, swipes, likes and more – TechCrunch")
+
+
+[TikTok's new ad products invite users to interact with taps, swipes, likes and more – TechCrunch](https://techcrunch.com/2021/09/30/tiktok-new-ad-products-invite-users-to-interact-with-taps-swipes-likes-and-more/)
+
+
+> TikTok this week presented its new plan to ramp up advertiser investment in its video platform with the expansion of e-commerce, a new promise of 'brand safety,' and the launch of several new and interactive ad formats, ranging from clickable stickers to choose-your-own-adventure ads to 'super likes' and more. The additions, the company says, will make TikTok's advertising more interactive and creative, much like the TikTok experience itself.The company demonstrated its new additions at an online conference aimed at the advertising and marketing community on Tuesday.
+
+
+***
+![Best Buy TV Deals and Sales for October 2021: 4K TVs, QLED TVs, and OLED TVs](https://icdn.digitaltrends.com/image/digitaltrends/vizio-v-series-4k-tv-5.jpg "Best Buy TV Deals and Sales for October 2021: 4K TVs, QLED TVs, and OLED TVs")
+
+
+[Best Buy TV Deals and Sales for October 2021: 4K TVs, QLED TVs, and OLED TVs](https://www.digitaltrends.com/dtdeals/best-buy-tv-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you're thinking about upgrading your TV, then one of the first places you should look is Best Buy. This store has a huge range of TVs to choose from, and often has great offers to save you some cash when it's time to buy. If you're after a 4K TV, whether it's a small dorm TV or a massive statement piece, then Best Buy is a store you must check out. To help you navigate through the Best Buy TV deals, we've chosen our favorite options and shared them with you below.
+
+
+***
+![Amazon's Astro robot is an adorable privacy nightmare](https://www.cnet.com/a/img/b4JlMlLd2alKQlDG2KTBtbqJzFQ=/1200x630/2021/09/28/5a912c6e-d5bf-4450-a279-c4a05bf693e2/amazon-event-092821-astro-robot-16.jpg "Amazon's Astro robot is an adorable privacy nightmare")
+
+
+[Amazon's Astro robot is an adorable privacy nightmare](https://www.cnet.com/home/amazon-astro-robot-is-an-adorable-privacy-nightmare/)
+
+
+> Screenshot/CNET I just wanted to turn the lights off with my voice.It was 2014. After spending my first two years at CNET getting my feet wet writing about color-changing smart bulbs and other newfangled wonders of the connected home, I watched the reveal video for the Amazon Echo, the flagship smart speaker that moved the smart home into the mainstream. My eyebrows shot up as I imagined what this device could mean for connected gadgets, most of which were still clumsily dependent on underdeveloped control apps.
+
+
+***
+![Haxson's bladeless AirFan blasts cool air and music from your headboard](https://icdn.digitaltrends.com/image/digitaltrends/haxson-airfan-hero.jpg "Haxson's bladeless AirFan blasts cool air and music from your headboard")
+
+
+[Haxson's bladeless AirFan blasts cool air and music from your headboard](https://www.digitaltrends.com/home/haxson-airfan-smart-fan-now-on-kickstarter/)
+
+
+> A Kickstarter campaign has just launched for a smart fan that bundles in a clock, a Bluetooth speaker, a light, and a charging port. The bladeless Haxson AirFan includes a heating mode, a formaldehyde sensor, and a purifier while maintaining a rather svelte profile. The HEPA filter should be able to stop contaminants like dust, smoke, pollen, and odor. On the audio side, the AirFan uses Bluetooth 5.0, and plays nice with both Alexa and Google Assistant. This allows you to ask the AirFan to dim its light, set an alarm, or answer inane trivia that's keeping you up in the middle of the night.
+
+
