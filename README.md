@@ -6451,3 +6451,53 @@
 > A Kickstarter campaign has just launched for a smart fan that bundles in a clock, a Bluetooth speaker, a light, and a charging port. The bladeless Haxson AirFan includes a heating mode, a formaldehyde sensor, and a purifier while maintaining a rather svelte profile. The HEPA filter should be able to stop contaminants like dust, smoke, pollen, and odor. On the audio side, the AirFan uses Bluetooth 5.0, and plays nice with both Alexa and Google Assistant. This allows you to ask the AirFan to dim its light, set an alarm, or answer inane trivia that's keeping you up in the middle of the night.
 
 
+***
+![Stepping away for a minute or heading out of town? Let you contacts know.](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/04/google-hangouts-chat-3a.jpg "Stepping away for a minute or heading out of town? Let you contacts know.")
+
+
+[Stepping away for a minute or heading out of town? Let you contacts know.](https://www.androidcentral.com/how-set-and-change-your-status-gmail-and-google-chat)
+
+
+> Google recently combined Gmail and Google chat into the Gmail app. Google chat gives you a status so that you can broadcast whether or not you're available to chat or return emails. Combining the two services is currently an opt-in procedure, so not everyone has it yet, but it works on both iOS and the best Android phones. We'll show you how to opt in, set a predefined status, and set your custom status. How to turn on Chat in Gmail Right off the bat, if you don't have a chat tab at the bottom of Gmail, you do not have chat turned on yet, and you will not be able to set your status.
+
+
+***
+![This Startup Put A Cell Phone 'Tower' In Space, And It Works](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/09/satellite-cell-phone-tower.jpg "This Startup Put A Cell Phone 'Tower' In Space, And It Works")
+
+
+[This Startup Put A Cell Phone 'Tower' In Space, And It Works](https://screenrant.com/lynk-cell-phone-space-tower-satellite/)
+
+
+> Three months ago, Virginia-based space startup Lynk sent the world's first satellite cell tower into orbit. Since then, it has reported successful connections from hundreds of mobile phones across the United States, United Kingdom, and the Bahamas, proving definitively that a direct connection from everyday mobile phones to satellite is indeed possible. Several companies, including SpaceX and Amazon, have been working on similar tech, but have so far only been able to create connections by routing the satellite's signals through a physical terminal on Earth first.
+
+
+***
+![Apex Legends Compensating Players for Removed Items](https://techraptor.net/sites/default/files/styles/image_header/public/2021-09/Apex%20Legends%20Removed%20Items%20Apex%20Chronicles%20cover.jpg?itok=cHF2hqIA "Apex Legends Compensating Players for Removed Items")
+
+
+[Apex Legends Compensating Players for Removed Items](https://techraptor.net/gaming/news/apex-legends-compensating-players-for-removed-items)
+
+
+> A recent Apex Legends bug erroneously gave players platform-exclusive items which were subsequently removed. Now, Respawn Entertainment will be compensating affected players for the problem. A cryptic tweet from Respawn last week ignited speculation about a new Titanfall game. Around the same time, a bug had accidentally given platform-exclusive items to players in Apex Packs. This was a mistake and the items were removed by Respawn Entertainment, but these players are not being left high and dry.
+
+
+***
+![EXPLAINER: Fountaining Hawaii lava creates molten rock lake](https://www.clickondetroit.com/resizer/W3Y0juYr3CxGAxc1TvhwOLq5sFM=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/JMB6RXMLRNFRTONSOY5NNKA22M.jpg "EXPLAINER: Fountaining Hawaii lava creates molten rock lake")
+
+
+[EXPLAINER: Fountaining Hawaii lava creates molten rock lake](https://www.clickondetroit.com/tech/2021/09/30/explainer-fountaining-hawaii-lava-creates-molten-rock-lake/)
+
+
+> HONOLULU – Kilauea, one of the most active volcanos on Earth, began erupting on Hawaii's Big Island Wednesday. The eruption is not in an area with homes and is entirely contained within Hawaii Volcanoes National Park. Officials said increased earthquake activity and ground swelling before the eruption put them on high alert. Fissures then opened in the summit area and sent lava fountaining into the sky. Now the area has filled with molten rock, creating a lake of lava in the volcano's crater. The new lava is an expected evolution of a volcano that is recharging after a huge eruption in 2018 drained much of its magma.
+
+
+***
+![EXPLAINER: Fountaining Hawaii lava creates molten rock lake](https://www.clickorlando.com/resizer/W3Y0juYr3CxGAxc1TvhwOLq5sFM=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/JMB6RXMLRNFRTONSOY5NNKA22M.jpg "EXPLAINER: Fountaining Hawaii lava creates molten rock lake")
+
+
+[EXPLAINER: Fountaining Hawaii lava creates molten rock lake](https://www.clickorlando.com/tech/2021/09/30/explainer-fountaining-hawaii-lava-creates-molten-rock-lake/)
+
+
+> HONOLULU – Kilauea, one of the most active volcanos on Earth, began erupting on Hawaii's Big Island Wednesday. The eruption is not in an area with homes and is entirely contained within Hawaii Volcanoes National Park. Officials said increased earthquake activity and ground swelling before the eruption put them on high alert. Fissures then opened in the summit area and sent lava fountaining into the sky. Now the area has filled with molten rock, creating a lake of lava in the volcano's crater. The new lava is an expected evolution of a volcano that is recharging after a huge eruption in 2018 drained much of its magma.
+
+
