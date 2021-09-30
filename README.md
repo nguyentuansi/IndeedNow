@@ -5978,3 +5978,50 @@
 > Pandas is great, for me. In French we use Pandas in the singular.
 
 
+***
+![Connext NXTP protocol enables communication between EVM-compatible chains and L2 systems](https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg "Connext NXTP protocol enables communication between EVM-compatible chains and L2 systems")
+
+
+[Connext NXTP protocol enables communication between EVM-compatible chains and L2 systems](https://www.helpnetsecurity.com/2021/09/30/connext-nxtp-protocol/)
+
+
+> Connext released its NXTP protocol, a trustless, low cost, and easily extensible base protocol to enable communication between EVM-compatible chains and L2 systems. The scalability limitations of Ethereum have spurred the migration of DeFi, NFTs, and other popular use cases to 'off-chain' scalability options. Users are interacting with an increasingly heterogeneous mix of Ethereum L2s, side chains and EVM-compatible Layer Ones (L1s) and have a growing need to reliably and trustlessly communicate between all the different systems.
+
+
+***
+[Commentaires sur Comment La 5G Va Affecter La Gestion Des Données par cheap generic viagra online](https://www.forbes.fr/technologie/comment-la-5g-va-affecter-votre-strategie-de-gestion-des-donnees/#comment-30469)
+
+
+> <strong>cheap generic viagra online</strong> WALCOME
+
+
+***
+![Most Windows Users Are Unaware of the Release of Windows 11](https://icdn.digitaltrends.com/image/digitaltrends/windows-11-sunrise-theme.jpg "Most Windows Users Are Unaware of the Release of Windows 11")
+
+
+[Most Windows Users Are Unaware of the Release of Windows 11](https://www.digitaltrends.com/computing/most-current-windows-users-are-unaware-of-the-release-of-windows-11/)
+
+
+> Microsoft has a big change coming soon in the form of Windows 11, but that doesn't mean word has spread to the masses just yet. According to a survey by Savings.com, 62% of Windows users are unaware of the existence of Windows 11. Savings.com recently carried out a survey to 'gauge awareness and excitement for Windows 11.' A total of 1,042 current Windows users were asked about their awarenessof  and eagerness to upgrade to Windows 11. via: Reddit/u/archimedeancrystal Results revealed that only under 40% of these people had knowledge regarding the release of the new operating system.
+
+
+***
+!['Fortnite' is programming a series of global concerts](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-09/fortnite_300921-seo.jpg "'Fortnite' is programming a series of global concerts")
+
+
+['Fortnite' is programming a series of global concerts](https://www.malaymail.com/news/tech-gadgets/2021/09/30/fortnite-is-programming-a-series-of-global-concerts/2009541)
+
+
+> Fortnite will launch the ‘Soundwave Series' on October 1, 2021. ― AFP pic SAN FRANCISCO, Sept 30 ― Get ready to do some (more) dancing on Fortnite! The hit video game is inviting us to a series of virtual concerts featuring global artists, kicking off at the beginning of October. On the programme are Mohamed Hamaki, Gen Hoshino and Tones And I.  Fortnite made headlines during the pandemic lockdowns by offering concerts with global stars such as Ariana Grande and Travis Scott on its platform. Now with its Soundwave Series, the popular video game has indicated that it still believes in the concept of virtual concerts.
+
+
+***
+![New SUV wows with wild tech features](https://content.api.news/v3/images/bin/cd9778087a6d2bb6c0bb4ea32239524c "New SUV wows with wild tech features")
+
+
+[New SUV wows with wild tech features](https://www.news.com.au/technology/motoring/hitech/2022-genesis-gv60-revealed-hitech-suv-wows/news-story/fb7ca0c516142d7401322d00002d64b2)
+
+
+> The latest high-rider from Hyundai's luxury brand is packed with hi-tech features that make it feel like a smartphone on wheels.Don't miss out on the headlines from HiTech. Followed categories will be added to My News.The latest electric car headed Down Under is like a smartphone on wheels.Hyundai's luxury offshoot, Genesis, has revealed its new GV60 electric SUV, which is due to arrive in Australia in the first half of next year.Prices will be announced closer to the launch date.The GV60 will have smartphone-like features such as facial recognition that can lock and unlock doors by reading the driver's face when they touch the door handle.
+
+
