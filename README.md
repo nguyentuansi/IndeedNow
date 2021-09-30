@@ -6160,3 +6160,53 @@
 > Facebook, under criticism over internal data showing its Instagram app damaged the mental health of teenagers, plans to highlight during a US Senate hearing on Thursday what it argues were more positive impacts, according to the company's prepared testimony seen by Reuters.Antigone Davis, global head of safety at Facebook, will detail the company's previously announced efforts to better protect children and teens online, including defaulting users under the age of 16 to private accounts when they join Instagram, according to the testimony.
 
 
+***
+![Urgent iPhone warning as LOCKED handset can make ‘£1,000 contactless payments' – fix it NOW](https://www.the-sun.com/wp-content/uploads/sites/6/2021/09/NINTCHDBPICT000455526971.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Urgent iPhone warning as LOCKED handset can make ‘£1,000 contactless payments' – fix it NOW")
+
+
+[Urgent iPhone warning as LOCKED handset can make ‘£1,000 contactless payments' – fix it NOW](https://www.the-sun.com/tech/3765514/iphone-apple-pay-bug-hackers-steal-money/)
+
+
+> AN iPhone bug means hackers could force your locked device to make large unauthorised contactless payments. This is according to researchers at Birmingham and Surrey universities who discovered the critical issue during an Apple Pay experiment. Hackers could exploit an iPhone to steal money from your accountCredit: Reuters The experts published a video demonstrating how they could force a locked iPhone to make a contactless Visa payment of £1,000 to their account. They did this by exploiting an issue that lets commuters pass ticket barriers quickly.
+
+
+***
+![Urgent iPhone warning as LOCKED handset can make ‘£1,000 contactless payments' – fix it NOW](https://www.thesun.co.uk/wp-content/uploads/2021/09/NINTCHDBPICT000455526971.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Urgent iPhone warning as LOCKED handset can make ‘£1,000 contactless payments' – fix it NOW")
+
+
+[Urgent iPhone warning as LOCKED handset can make ‘£1,000 contactless payments' – fix it NOW](https://www.thesun.co.uk/tech/16287465/iphone-apple-pay-bug-hackers-steal-money/)
+
+
+> AN iPhone bug means hackers could force your locked device to make large unauthorised contactless payments. This is according to researchers at Birmingham and Surrey universities who discovered the critical issue during an Apple Pay experiment. Hackers could exploit an iPhone to steal money from your accountCredit: Reuters The experts published a video demonstrating how they could force a locked iPhone to make a contactless Visa payment of £1,000 to their account. They did this by exploiting an issue that lets commuters pass ticket barriers quickly.
+
+
+***
+![Taiwan, on chip information request, says respects US laws](https://www.reuters.com/resizer/HyQT1yN7BpgdXJPSwWaxlaBwu3Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z3RXB4Z7UZKP5IKKWLFHUM3CT4.jpg "Taiwan, on chip information request, says respects US laws")
+
+
+[Taiwan, on chip information request, says respects US laws](https://www.reuters.com/technology/taiwan-chip-information-request-says-respects-us-laws-2021-09-30/)
+
+
+> The logo of Taiwan Semiconductor Manufacturing Co (TSMC) is pictured at its headquarters, in Hsinchu, Taiwan, Jan. 19, 2021. REUTERS/Ann Wang//File PhotoTAIPEI, Sept 30 (Reuters) - Taiwan respects U.S. commercial law and rules but will help Taiwanese companies if they receive any "unreasonable requests", the government said on Thursday after the United States pressed firms to provide information on the semiconductor crisis.The White House asked automakers, chip companies and others last week to provide information on the chip shortage that has forced cuts to U.
+
+
+***
+![Mobile Industry Awards 2021: EE's Elise Howard wins Shop Idol 2021 crown](https://cdn.mos.cms.futurecdn.net/yfpa2chTgsJnLwWKJQxQLd-1200-80.png "Mobile Industry Awards 2021: EE's Elise Howard wins Shop Idol 2021 crown")
+
+
+[Mobile Industry Awards 2021: EE's Elise Howard wins Shop Idol 2021 crown](https://www.techradar.com/news/mobile-industry-awards-2021-ees-elise-howard-wins-shop-idol-2021-crown)
+
+
+> (Image credit: Future) Elise Howard from EE has been crowned the winner of Shop Idol 2021, supported by Samsung Backstage, at the Mobile Industry Awards 2021.Elise beat competition from hundreds of entrants from all of the major retailers in the UK to be names the country's best mobile phone salesperson.She received her award at the MIA 2021 ceremony in London from Charlie Nordfeldt, Head of Channel Engagement at Samsung, along with her EE colleague and 2020 Shop Idol winner Cassie Kirkham, who missed out on her moment on stage last year due to the pandemic.
+
+
+***
+![Mobile Industry Awards 2021: BT Consumer CEO Marc Allera is our Power 50 Person of the Year](https://cdn.mos.cms.futurecdn.net/HZwaSW9fyT6XdFeMVrWxsB-1200-80.png "Mobile Industry Awards 2021: BT Consumer CEO Marc Allera is our Power 50 Person of the Year")
+
+
+[Mobile Industry Awards 2021: BT Consumer CEO Marc Allera is our Power 50 Person of the Year](https://www.techradar.com/news/mobile-industry-awards-2021-bt-consumer-ceo-marc-allera-is-person-of-the-year)
+
+
+> BT Consumer CEO Marc Allera has been named the Power 50 Person of the Year at the Mobile Industry Awards 2021.The Person of the Year award is given to the most influential individual in the UK mobile sector over the past 12 months. The Power 50 is the product of months of research and profiling, with the Person of the Year being the individual who our judges feel has been the most inspirational and innovative leader in the UK mobile industry over the last 12 months.This year's list has seen many changes from 2020, with familiar names departing the scene and mergers and acquisitions changing the landscape of the industry.
+
+
