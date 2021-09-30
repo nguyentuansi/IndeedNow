@@ -6210,3 +6210,47 @@
 > BT Consumer CEO Marc Allera has been named the Power 50 Person of the Year at the Mobile Industry Awards 2021.The Person of the Year award is given to the most influential individual in the UK mobile sector over the past 12 months. The Power 50 is the product of months of research and profiling, with the Person of the Year being the individual who our judges feel has been the most inspirational and innovative leader in the UK mobile industry over the last 12 months.This year's list has seen many changes from 2020, with familiar names departing the scene and mergers and acquisitions changing the landscape of the industry.
 
 
+***
+![Democrat Sinema in spotlight as obstacle to Biden economic agenda](https://static.reuters.com/resources/r/?m=02&d=20210930&t=2&i=1576412194&r=LYNXMPEH8T0F7&w=800 "Democrat Sinema in spotlight as obstacle to Biden economic agenda")
+
+
+[Democrat Sinema in spotlight as obstacle to Biden economic agenda](https://www.reuters.com/article/us-usa-biden-congress-sinema-idUSKBN2GQ0Y0)
+
+
+> By Jarrett Renshaw, Trevor HunnicuttWASHINGTON (Reuters) - Kyrsten Sinema is the recent recipient of an honor that U.S. Senate colleagues more loyal to President Joe Biden's agenda have never received - three invitations to the White House in just one day.FILE PHOTO: Senator Kyrsten Sinema (D-AZ) enters an elevator before walking onto the Senate Floor on Capitol Hill in Washington, U.S., September 29, 2021. REUTERS/Tom BrennerThe Arizona Democrat's private huddling this week with Biden and his aides comes as her opposition to the size of a $3.
+
+
+***
+[Poco C31 with 5,000mAh battery launched at Rs 8,499 in India: Check bank offers, availability and more](https://www.zeebiz.com/technology/mobiles/news-poco-c31-with-5000mah-battery-launched-at-rs-8499-in-india-check-bank-offers-availability-and-more-166497)
+
+
+> Poco C31 price in India: In good news for budget smartphone users in India, the Chinese smartphone company has launched its new budget mobile phone Poco C31 with decent features, inlcuding MediaTek Helio G35 SoC, triple camera setup, and a 5,000mAh battery.
+
+
+***
+![Crypto tax: ‘MiamiCoin' has made the city $7 million so far, a potential game-changer for revenue collection](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OMNHJPA7LQI6ZKGZBAT2FJFZCU.jpg&w=1440 "Crypto tax: ‘MiamiCoin' has made the city $7 million so far, a potential game-changer for revenue collection")
+
+
+[Crypto tax: ‘MiamiCoin' has made the city $7 million so far, a potential game-changer for revenue collection](https://www.washingtonpost.com/technology/2021/09/30/crypto-miamicoin/)
+
+
+> The city is not spending the money for six months to insulate itself from fraud and misuse and to give city officials time to respond if issues arise, according to Suarez. 'There are scenarios under which we would pull back,' the mayor said. 'What if there's some fraud involved, or if people sue? We have no reason to believe that is happening. But anything can happen. And we want to be careful.'
+
+
+***
+![Technicorum Announces Rickard Amidani, Social Media & E-commerce Specialist to Join INFLUENCIOs Advisory Board](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Technicorum Announces Rickard Amidani, Social Media & E-commerce Specialist to Join INFLUENCIOs Advisory Board")
+
+
+[Technicorum Announces Rickard Amidani, Social Media & E-commerce Specialist to Join INFLUENCIOs Advisory Board](https://www.benzinga.com/pressreleases/21/09/g23169980/technicorum-announces-rickard-amidani-social-media-e-commerce-specialist-to-join-influencios-advis)
+
+
+> STOCKHOLM, Sept. 30, 2021 (GLOBE NEWSWIRE) -- (via Blockchain Wire) –– Technicorum Holdings, one of the world's leading crypto advisors based in Singapore and Stockholm, and an IT and service group specializing in Digital Assets, today announced Rickard Amidani, Social Media & E-Commerce expert, is joining the board of advisors of the popular INFLUENCIO project for influencers.  Rickard Amidani is the former Commercial Director for Stenungsbaden Yacht Club and currently an advisor for Stockholm School of Business B2B Sales & Boarding For Success.
+
+
+***
+[The seven programming ur-languages](https://www.reddit.com/r/programming/comments/pygey3/the_seven_programming_urlanguages/)
+
+
+> no comments yetBe the first to share what you think!
+
+
