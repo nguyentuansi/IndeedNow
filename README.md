@@ -6069,3 +6069,50 @@
 > USDJPY is confronting the March 2020 rally high of 111.71 for a second time in nearly three months after its recent bullish propulsion from around the 109.00 handle. The 200-day simple moving average … Read Full Story at source (may require registration) The post Technical Analysis – Critical Resistance Could Pause USD/JPY Rally appeared first on ForexTV.
 
 
+***
+![Switching to Smart? You can without changing your number](https://assets2.rappler.com/2021/09/smart-mobile-number-portability-september-30-2021-1632969904428.jpg "Switching to Smart? You can without changing your number")
+
+
+[Switching to Smart? You can without changing your number](https://www.rappler.com/brandrap/tech-and-innovation/switch-mobile-number-smart-mobile-number-portability)
+
+
+> To switch to the Smart network, a mobile user must first secure a Unique Subscriber Code from his or her originating provider to serve as clearance, and bring it to the nearest Smart store along with a valid ID and any proof of mobile ownership. From there, Smart shall begin processing the MNP application without any charges. To know more about making the Smart move, mobile users may also visit x.smart/switch or head to the nearest Smart store.
+
+
+***
+![YouTube blocks all anti-vaccine content](https://assets2.rappler.com/2021/09/youtube-march-28-2018-reuters-1632974434553.jpg "YouTube blocks all anti-vaccine content")
+
+
+[YouTube blocks all anti-vaccine content](https://www.rappler.com/technology/social-media/youtube-blocks-all-anti-vaccine-content)
+
+
+> YouTube will block all anti-vaccine content, moving beyond its ban on false information about the COVID vaccines to include content that contains misinformation about other approved vaccines, it said in a blog post on Wednesday, September 29. Examples of content that won't be allowed on YouTube include claims that the flu vaccine causes infertility and that the MMR shot, which protects against measles, mumps, and rubella, can cause autism, according to YouTube's policies. The online video company owned by Alphabet is also banning channels associated with several prominent anti-vaccine activists, including Robert F.
+
+
+***
+![UC Berkeley finds gig workers could earn $4.82 per hour if MA ballot proposal passes – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/MA-uber-lyft-graphic-gray-logos.png?w=692 "UC Berkeley finds gig workers could earn $4.82 per hour if MA ballot proposal passes – TechCrunch")
+
+
+[UC Berkeley finds gig workers could earn $4.82 per hour if MA ballot proposal passes – TechCrunch](https://techcrunch.com/2021/09/29/uc-berkeley-finds-gig-workers-could-earn-4-82-per-hour-if-ma-ballot-proposal-passes/)
+
+
+> A coalition of app-based delivery and ride-hail companies like Uber, Lyft and DoorDash recently filed a ballot proposition in Massachusetts to continue classifying gig economy workers as independent contractors, rather than employees. If the measure makes it to the November 2022 ballot and passes, drivers could end up earning as little as a quarter of the minimum wage, according to a University of California-Berkeley study published on Wednesday. The UC Berkeley Labor Center researchers, Ken Jacobs and Michael Reich, identified multiple loopholes that would change the guaranteed pay from $18 per hour to $4.
+
+
+***
+[A bit of math around Cloudflare's R2 pricing model](https://twitter.com/quinnypig/status/1443028078196711426)
+
+
+> We've detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center. Help Center
+
+
+***
+![COVID-19: YouTube bans all anti-vaccine misinformation](https://imagevars.gulfnews.com/2019/12/27/It-s-now-easier-for-YouTube-creators-to-address-copyright-issues_16f482b406c_medium.jpg "COVID-19: YouTube bans all anti-vaccine misinformation")
+
+
+[COVID-19: YouTube bans all anti-vaccine misinformation](https://gulfnews.com/technology/media/covid-19-youtube-bans-all-anti-vaccine-misinformation-1.1632974168879)
+
+
+> In a blog post, YouTube said it would remove videos claiming that vaccines do not reduce rates of transmission or contraction of disease, and content that includes misinformation on the makeup of the vaccines. Image Credit: IANS Washington: YouTube said Wednesday that it was banning the accounts of several prominent anti-vaccine activists from its platform, including those of Dr. Joseph Mercola and Robert F. Kennedy Jr., as part of an effort to remove all content that falsely claims that approved vaccines are dangerous.
+
+
