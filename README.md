@@ -6116,3 +6116,47 @@
 > In a blog post, YouTube said it would remove videos claiming that vaccines do not reduce rates of transmission or contraction of disease, and content that includes misinformation on the makeup of the vaccines. Image Credit: IANS Washington: YouTube said Wednesday that it was banning the accounts of several prominent anti-vaccine activists from its platform, including those of Dr. Joseph Mercola and Robert F. Kennedy Jr., as part of an effort to remove all content that falsely claims that approved vaccines are dangerous.
 
 
+***
+[Profile of Chinese AI company SenseTime, which has raised $3B+, as it prepares for a Hong Kong IPO and tries to retain support from China, its biggest customer (Financial Times)](http://www.techmeme.com/210930/p3#a210930p3)
+
+
+> Financial Times: Profile of Chinese AI company SenseTime, which has raised $3B+, as it prepares for a Hong Kong IPO and tries to retain support from China, its biggest customer — Start-up is close to an IPO but remains heavily dependent on Beijing's support — Three years ago, Tang Xiao'ou joked …
+
+
+***
+[Realme Q3s spotted on 3C Certification ahead of the official launch](http://www.pinkvilla.com/tech/news/realme-q3s-spotted-on-3c-certification-ahead-of-the-official-launch-907534)
+
+
+> Attach Main technology Image: Image Caption: Realme Q3s spotted on 3C Certification ahead of the official launch Social Media Image : Enter the Technology details: Realme is tipped to launch a new smartphone in the Q-series in its home country China. According to the previous reports the company is expected to launch sometime in October as there is no specific date revealed by the brand. It seems that this is going to be the last Q-series phone from the brand for this year.
+
+
+***
+![Luxury carmaker Rolls-Royce to switch to all electric range by 2030](https://www.thehindu.com/news/national/y3mqxn/article28761243.ece/ALTERNATES/LANDSCAPE_615/Rolls-Royce "Luxury carmaker Rolls-Royce to switch to all electric range by 2030")
+
+
+[Luxury carmaker Rolls-Royce to switch to all electric range by 2030](https://www.thehindu.com/sci-tech/technology/luxury-carmaker-rolls-royce-to-switch-to-all-electric-range-by-2030/article36747663.ece)
+
+
+> Rolls-Royce will produce only electric cars by 2030, the luxury carmaker said on Wednesday, joining other premium brands making the switch such as Volkswagen's Bentley and Jaguar's Land Rover.(Sign up to our Technology newsletter, Today's Cache, for insights on emerging themes at the intersection of technology, business and policy. Click here to subscribe for free.)The BMW-owned brand said in a statement that its first fully electric powered car, named 'Spectre', will be on the market in the fourth quarter of 2023, with testing to begin soon.
+
+
+***
+![FS Tunes up Source Photonics' 800G Transceivers for Scaling Data Center Connectivity](https://mms.businesswire.com/media/20210929006028/en/799650/23/lllogo.jpg "FS Tunes up Source Photonics' 800G Transceivers for Scaling Data Center Connectivity")
+
+
+[FS Tunes up Source Photonics' 800G Transceivers for Scaling Data Center Connectivity](https://www.businesswire.com/news/home/20210929006028/en/FS-Tunes-up-Source-Photonics%E2%80%99-800G-Transceivers-for-Scaling-Data-Center-Connectivity)
+
+
+> NEW CASTLE, Del.--(BUSINESS WIRE)--FS.COM, a high-speed communication solution provider for data centers, enterprises, and telecom networks, announced today its strategic cooperation with Source Photonics, a global leader of innovative and reliable optical communications technology. Two companies have jointly led market introduction of 800G pluggable transceivers—2x400G-FR4 QSFP-DD, 2x400G-FR4 OSFP, 800G DR8 QSFP-DD and 800G DR8 OSFP—to serve hyperscale data centers for next-generation high-speed connectivity.
+
+
+***
+![Facebook Plans to Highlight Its Positive Research on Instagram and Teens](https://i.gadgets360cdn.com/large/facebook_on_a_phone_bloomberg_1628138124892.jpg "Facebook Plans to Highlight Its Positive Research on Instagram and Teens")
+
+
+[Facebook Plans to Highlight Its Positive Research on Instagram and Teens](https://gadgets.ndtv.com/social-networking/news/instagram-teen-mental-health-internal-documents-report-facebook-research-us-senate-hearing-2558653)
+
+
+> Facebook, under criticism over internal data showing its Instagram app damaged the mental health of teenagers, plans to highlight during a US Senate hearing on Thursday what it argues were more positive impacts, according to the company's prepared testimony seen by Reuters.Antigone Davis, global head of safety at Facebook, will detail the company's previously announced efforts to better protect children and teens online, including defaulting users under the age of 16 to private accounts when they join Instagram, according to the testimony.
+
+
