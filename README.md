@@ -6354,3 +6354,50 @@
 > Using a YouTube downloader on Windows or Mac can help you store your videos from the site with ease, without using an internet connection.Regardless of whether you have a Windows PC, a Mac or a smartphone, these tools are incredibly useful for those who rely on YouTube to catch up on their favorite content, so you can watch these whenever you wanted to.There are many reasons why you would want to use a free YouTube downloader, from saving personal projects from an account you may have lost access to, to downloading the videos to use in presentations.
 
 
+***
+![Mobile gaming company Voodoo acquires Beach Bum – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/james-yarema-G3q7mxXkP-M-unsplash.jpg?w=600 "Mobile gaming company Voodoo acquires Beach Bum – TechCrunch")
+
+
+[Mobile gaming company Voodoo acquires Beach Bum – TechCrunch](https://techcrunch.com/2021/09/30/mobile-gaming-company-voodoo-acquires-beach-bum/)
+
+
+> French startup Voodoo has made a significant acquisition in the casual mobile gaming market. The company is acquiring Beach Bum, a game studio based in Israel and specialized in tabletop and card games. It's hard to get a clear number for this acquisition as Voodoo is offering both cash and shares and there are some retention bonuses. According to a source, Voodoo could be paying a few hundred millions of dollars in total. Beach Bum has generated $70 million in revenue over the past 12 months, so that gives you an idea of the size of the deal.
+
+
+***
+![Sony buys remake and remaster studio Bluepoint Games – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/Demons-Souls-featured-image.jpg "Sony buys remake and remaster studio Bluepoint Games – TechCrunch")
+
+
+[Sony buys remake and remaster studio Bluepoint Games – TechCrunch](https://www.engadget.com/sony-buys-bluepoint-games-155507719.html)
+
+
+> Sony has acquired Bluepoint Games, the Austin-based studio best known for remaking Demon's Souls and Shadow of the Colossus. Financial terms of the deal haven't been disclosed. Rumors that Sony was buying Bluepoint started to spread online right around the time the company acquired Returnal developer Housemarque in late June. Sony didn't say whether Bluepoint will continue to focus its efforts on remastering past titles or if it will work on an entirely new IP now that it's part of the PlayStation Studios family.
+
+
+***
+[Mexico City-based Higo, which offers a B2B payments service for SMBs in Latin America, raises $23M Series A led by Accel (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210930/p32#a210930p32)
+
+
+> Mary Ann Azevedo / TechCrunch: Mexico City-based Higo, which offers a B2B payments service for SMBs in Latin America, raises $23M Series A led by Accel — Just six months after raising $3.3 million in seed funding, Mexico City-based Higo announced today it has raised $23 million in a Series A round led by Accel.
+
+
+***
+![Google Pixel 6 rumors: The upcoming smartphone could cost $749](https://www.cnet.com/a/img/h5JYkw-wthHiO9DRZ-aFgA_lX5E=/1200x630/2021/08/02/ee0177a5-69c6-44f1-8c19-eeaca45f41ce/pixel-6-group-image-purple-lime.jpg "Google Pixel 6 rumors: The upcoming smartphone could cost $749")
+
+
+[Google Pixel 6 rumors: The upcoming smartphone could cost $749](https://www.cnet.com/tech/mobile/google-pixel-6-rumors-the-upcoming-smartphone-could-cost-749/)
+
+
+> Google The Pixel 6 and Pixel 6 Pro made a brief appearance in August right before Google launched the Pixel 5A, and although we've since had a couple of glimpses at Google's new Pixel, not every rumor has yet been debunked or proved true. The buzz about the Pixel 6 is only getting stronger as we inch toward the phone's possible release. The latest gossip from leaker Yogesh Brar gives us some insight into the possible price for the Pixel 6 and Pixel 6 Pro. Google CEO Sundar Pichai previously said during an Alphabet earnings call that the fall lineup of devices will show Google's "deep technology investments.
+
+
+***
+![Corsair Xeneon 32QHD165 review](https://cdn.mos.cms.futurecdn.net/yEKWFKAZjShCEp7SrDTN95-1200-80.jpg "Corsair Xeneon 32QHD165 review")
+
+
+[Corsair Xeneon 32QHD165 review](https://www.techradar.com/reviews/corsair-xeneon-32qhd165)
+
+
+> If you're pondering the question of what makes for the best all-round gaming monitor, the new Corsair Xeneon 32QHD165 might just be the answer. On paper, at least.With a 32-inch 1440p panel running at up to 165Hz refresh, it arguably nails exactly the right balance between performance and graphical detail. Sure, there are gaming monitors with more pixels than the Corsair Xeneon 32QHD165. Others hum along at even higher refresh rates or offer more overall inches. But you quickly run into one obvious issue with ever-higher spec screens.
+
+
