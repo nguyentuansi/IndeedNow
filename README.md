@@ -6501,3 +6501,50 @@
 > HONOLULU – Kilauea, one of the most active volcanos on Earth, began erupting on Hawaii's Big Island Wednesday. The eruption is not in an area with homes and is entirely contained within Hawaii Volcanoes National Park. Officials said increased earthquake activity and ground swelling before the eruption put them on high alert. Fissures then opened in the summit area and sent lava fountaining into the sky. Now the area has filled with molten rock, creating a lake of lava in the volcano's crater. The new lava is an expected evolution of a volcano that is recharging after a huge eruption in 2018 drained much of its magma.
 
 
+***
+![Save 40% on a full year of Discovery Plus](https://www.cnet.com/a/img/RtYzpRGgXP0lnLmN3N18yO8ZYPM=/1200x630/2021/07/02/b6aae841-1c6a-491e-9bfc-62ab8169648c/discovery-plus-cnet-2021-002.jpg "Save 40% on a full year of Discovery Plus")
+
+
+[Save 40% on a full year of Discovery Plus](https://www.cnet.com/tech/home-entertainment/save-40-on-a-full-year-of-discovery-plus/)
+
+
+> Sarah Tew/CNET Yes, the streaming landscape is getting crowded: In addition to Disney Plus, Paramount Plus and Netflix, Discovery Plus is looking to hook viewers with a new deal. For a limited time, you can get 40% off a 12-month subscription. That's $36 (billed at signing), which averages out to just $3 per month.Now, with a deal this good, there are caveats: This offer doesn't include a free trial and your billing starts immediately. Also, this is the ad-supported plan (no ads will cost you a whopping $84 annually), and it auto-renews after the first year at the normal rate (currently $5 per month).
+
+
+***
+[LinkedIn has blocked the profiles of several US journalists on its Chinese platform, citing "prohibited content" without specifying what it was (Bethany Allen-Ebrahimian/Axios)](http://www.techmeme.com/210930/p41#a210930p41)
+
+
+> Bethany Allen-Ebrahimian / Axios: LinkedIn has blocked the profiles of several US journalists on its Chinese platform, citing “prohibited content” without specifying what it was — LinkedIn blocked the profiles of several U.S. journalists from the company's China-based platform this week, citing “prohibited content.”
+
+
+***
+![New cut-price electric car coming to Oz](https://content.api.news/v3/images/bin/e37675ff38dab48f3ccfeed7ffa2419e "New cut-price electric car coming to Oz")
+
+
+[New cut-price electric car coming to Oz](https://www.news.com.au/technology/motoring/motoring-news/safety-second-for-volvos-polestar-electric-spinoff/news-story/3dcccf9fec1e195098aa70da28ff39c2)
+
+
+> Tesla-rivalling Polestar looks sharp and comes at a low price, but cuts corners with some usually standard vital equipment missing.Volvo built its reputation on world-class safety credentials. But its electric car spin-off takes a different approach.Cut-throat prices for the new Polestar 2 electric car result in surprising omissions from its standard features list.The Swedish brand's Polestar electric cars are on the way to Australia this year, taking on the likes of Tesla's Model 3 with a combination of Scandinavian style and impressive electric performance.
+
+
+***
+![EXPLAINER: What Kilauea's history tells us about its future](https://www.local10.com/resizer/W3Y0juYr3CxGAxc1TvhwOLq5sFM=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/JMB6RXMLRNFRTONSOY5NNKA22M.jpg "EXPLAINER: What Kilauea's history tells us about its future")
+
+
+[EXPLAINER: What Kilauea's history tells us about its future](https://www.local10.com/tech/2021/09/30/explainer-fountaining-hawaii-lava-creates-molten-rock-lake/)
+
+
+> HONOLULU – Kilauea, one of the most active volcanos on Earth, began erupting on Hawaii's Big Island Wednesday. The eruption is not in an area with homes and is entirely contained within Hawaii Volcanoes National Park. Officials said increased earthquake activity and ground swelling before the eruption put them on high alert. Fissures then opened in the summit area and sent lava fountaining into the sky. Now the area has filled with molten rock, creating a lake of lava in the volcano's crater. The new lava is an expected evolution of a volcano that is recharging after a huge eruption in 2018 drained much of its magma.
+
+
+***
+![EXPLAINER: What Kilauea's history tells us about its future](https://www.clickorlando.com/resizer/W3Y0juYr3CxGAxc1TvhwOLq5sFM=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/JMB6RXMLRNFRTONSOY5NNKA22M.jpg "EXPLAINER: What Kilauea's history tells us about its future")
+
+
+[EXPLAINER: What Kilauea's history tells us about its future](https://www.clickorlando.com/tech/2021/09/30/explainer-fountaining-hawaii-lava-creates-molten-rock-lake/)
+
+
+> HONOLULU – Kilauea, one of the most active volcanos on Earth, began erupting on Hawaii's Big Island Wednesday. The eruption is not in an area with homes and is entirely contained within Hawaii Volcanoes National Park. Officials said increased earthquake activity and ground swelling before the eruption put them on high alert. Fissures then opened in the summit area and sent lava fountaining into the sky. Now the area has filled with molten rock, creating a lake of lava in the volcano's crater. The new lava is an expected evolution of a volcano that is recharging after a huge eruption in 2018 drained much of its magma.
+
+
