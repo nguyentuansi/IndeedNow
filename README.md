@@ -6924,3 +6924,53 @@
 > I have very recently started to take a class on Python and I have just completed the 'Pandas' chapter in my book. Before immediately shooting me down, please consider the following question:Is it fair to say that Python takes longer to do simple manipulation and analysis on than Excel UNLESS you are working with a ton of data?Examples: Creating calculated column with proper formatting, filtering, sorting, merging two datasets, creating a scatter plot, etc. I know there are functions/methods that make these things relatively easy in Python - but wouldn't you still say that takes longer than in excel?It seems to me that unless you are using enough data that slows down Excel, Excel is much quicker to do analysis on.
 
 
+***
+![Samsung joins hands with Google for Galaxy Watch 4; makes it a wearable triumph](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot-2021-10-01-at-8-sixteen_nine.jpg "Samsung joins hands with Google for Galaxy Watch 4; makes it a wearable triumph")
+
+
+[Samsung joins hands with Google for Galaxy Watch 4; makes it a wearable triumph](https://www.businesstoday.in/technology/reviews/story/samsung-joins-hands-with-google-for-galaxy-watch-4-makes-it-a-wearable-triumph-308255-2021-10-01)
+
+
+> Product: Samsung Galaxy Watch 4Price: Rs 26,999Specs: 1.40-inch Super AMOLED 450x450p resolution, Dual-core 1.18 GHz processor, 16GB storage with 1.5GB RAM, WiFi, Bluetooth, GPS, Android Wear OS, One UI Watch 3, 361mAh battery, 30.3 gramsColour: Black, Silver, Pink   One company that has managed to create a mark of its own in the smartwatch segment after Apple is Samsung. Even though running on its proprietary Tizen OS, the rotating bezel complimenting the UI had a charm of its own. But with the Galaxy Watch 4, Samsung has joined hands with Google for better - the Wear OS 3.
+
+
+***
+![Al Gore puts $600M into UK Green energy-tech startup Octopus Energy Group – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/Octopus-Energy-Founders.jpg?w=600 "Al Gore puts $600M into UK Green energy-tech startup Octopus Energy Group – TechCrunch")
+
+
+[Al Gore puts $600M into UK Green energy-tech startup Octopus Energy Group – TechCrunch](https://techcrunch.com/2021/10/01/al-gore-puts-600m-into-uk-green-energy-tech-startup-octopus-energy-group/)
+
+
+> Former Vice President Al Gore has invested $600 million of equity into UK energy startup Octopus Energy Group via his Generation Investment Management vehicle, taking a stake of approximately 13% in the business. The investment means Octopus has attained a valuation of around $4.6 billion. Octopus has made a name for itself in energy circles largely because of its ‘Kraken' technology platform, which it claims is able to re-route energy from renewable sources around a network far more efficiently than competitors.
+
+
+***
+![It's All Starting To Make Sense: Peacock Reportedly Planning Relaunch In 2022](https://www.androidheadlines.com/wp-content/uploads/2021/10/peacock-1-1420x799.jpeg%201420w,%20https://www.androidheadlines.com/wp-content/uploads/2021/10/peacock-1-355x200.jpeg%20355w,%20https://www.androidheadlines.com/wp-content/uploads/2021/10/peacock-1-555x312.jpeg%20555w,%20https://www.androidheadlines.com/wp-content/uploads/2021/10/peacock-1.jpeg%202048w "It's All Starting To Make Sense: Peacock Reportedly Planning Relaunch In 2022")
+
+
+[It's All Starting To Make Sense: Peacock Reportedly Planning Relaunch In 2022](https://www.androidheadlines.com/?p=964679)
+
+
+> This week, we've been enthralled with the NBCUniversal and YouTube TV dispute over roughly 15 channels (and five regional sports channels) that could have been leaving the service today. When YouTube TV's contract with NBCUniversal ran out. We've heard through leaks from YouTube TV that NBCUniversal was pushing them to include Peacock in its bundle. That seemed odd, since most Peacock content is already available on YouTube TV.But now, it's all starting to make sense.According to a leaked strategy deck that the Business Insider was able to obtain, Peacock is getting a relaunch next year.
+
+
+***
+![AutoLeap drives technology for car repair shops with new $18M capital infusion – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/12/Rameez-Steve-15.12.20.png "AutoLeap drives technology for car repair shops with new $18M capital infusion – TechCrunch")
+
+
+[AutoLeap drives technology for car repair shops with new $18M capital infusion – TechCrunch](https://techcrunch.com/2021/10/01/autoleap-drives-technology-for-car-repair-shops-with-new-18m-capital-infusion/)
+
+
+> Nine months after announcing a $5 million seed round, Toronto auto repair software company AutoLeap is back with $18 million in Series A funding, this time led by Bain Capital Ventures. Joining Bain in the round is existing investor Threshold Ventures, which led the seed round, to give the company $23 million in total funding. Co-CEO Steve Lau told TechCrunch that AutoLeap is bringing the auto repair shop into the 21st century by reducing the double- or triple-entry shop owners typically have to do through the digitization of their workflow — customer quoting, invoices and job estimates — and the processing of all of that in the backend accounting.
+
+
+***
+![Where and when to spend your recently raised dollars – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1284113915.jpg?w=630 "Where and when to spend your recently raised dollars – TechCrunch")
+
+
+[Where and when to spend your recently raised dollars – TechCrunch](https://techcrunch.com/2021/10/01/where-and-when-to-spend-your-recently-raised-dollars/)
+
+
+> The market today has a lot of activation energy, even as the pandemic continues to play out. We're seeing ample capital, a focus on distributed investing, more first-check investors than ever before, and, fittingly, a parade of new startups. That said, momentum has a way of overwhelming even the most ambitious. For founders at the earliest stages of building a company, it's imperative to spend in a balanced yet growth-focused manner. At TechCrunch Disrupt 2021 last week, Harlem Capital's Henri Pierre-Jacques and BBG Ventures' Nisha Dua explained how founders should allocate their recently raised dollars in today's environment.
+
+
