@@ -6783,3 +6783,50 @@
 > Are you ready to up your game working out at home, but knocked back by hefty Peloton prices? There are excellent alternatives that cost less. If you're on the hunt for interactive exercise equipment for your home gym, Peloton is the hottest name in fitness tech today. But Peloton prices can be a stopper. There are plenty of smart exercise bikes and other Peloton alternative fitness options priced right for home use, however, from interactive treadmills to rowers. Some of the alternates we found include one-year subscriptions to iFit virtual home fitness workouts.
 
 
+***
+![analysing a 2 span beam for engineers](https://external-preview.redd.it/OBh-IEqpQewMVNEeYbBxCsldnROyn-mQXD3M9lcXNBM.jpg?auto=webp&s=870b7f49c0951a80ac29d2bae8bc6cff27afc84e "analysing a 2 span beam for engineers")
+
+
+[analysing a 2 span beam for engineers](https://www.reddit.com/r/Python/comments/pz4uxm/analysing_a_2_span_beam_for_engineers/)
+
+
+> good day pythonistas, I tried using python to analyse a continuous beam and I would like you guys to rate it belowhttps://youtu.be/lubL19F62cM
+
+
+***
+![Facebook's secrecy boomerang](https://images.axios.com/-wkfKgxLp-uHcYYiG1ObHopxLhQ=/0x0:1920x1080/1366x768/2021/10/01/1633046679188.jpg "Facebook's secrecy boomerang")
+
+
+[Facebook's secrecy boomerang](https://www.axios.com/facebook-secrecy-instagram-teens-abd2d911-7167-48f6-928a-c459637302aa.html)
+
+
+> Tech giants, Facebook foremost, are learning a lesson politicians internalized decades ago: Bad news will always come out eventually, and it only gets worse the longer you sit on it.Driving the news: Facebook spent Thursday fielding attacks from senators over its internal research into Instagram's negative impact on teen girls. The research has been emerging in bits and pieces since the Wall Street Journal first reported on it earlier this month. "60 Minutes" says it will air an interview Sunday with the anonymous whistleblower who leaked the research and other documents.
+
+
+***
+![How to watch The Many Saints of Newark online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/the-many-saints-of-newark-warner-bros.jpg "How to watch The Many Saints of Newark online from anywhere")
+
+
+[How to watch The Many Saints of Newark online from anywhere](https://www.androidcentral.com/how-watch-many-saints-newark-online-anywhere)
+
+
+> While The Sopranos came to end back in 2007, fans of the American crime drama series will get to see how young Anthony Soprano got his start in organized crime in the new prequel film The Many Saints of Newark and we have all the details on how you can watch it online. Source: Warner Bros. Set in the 1960s in Newark, New Jersey, The Many Saints of Newark tells the origin story of Tony Soprano who grew up during one of the most tumultuous eras in the city's history. Just as he was becoming a man, the city descended into chaos during the 1967 Newark riots which were just one in a series of 159 race riots that swept cities across the U.
+
+
+***
+![Accenture Completes Acquisition of umlaut](https://mms.businesswire.com/media/20211001005084/en/911932/23/umlaut_close_webready.jpg "Accenture Completes Acquisition of umlaut")
+
+
+[Accenture Completes Acquisition of umlaut](https://www.businesswire.com/news/home/20211001005084/en/Accenture-Completes-Acquisition-of-umlaut)
+
+
+> October 01, 2021 05:59 AM Eastern Daylight Time NEW YORK & AACHEN, Germany--(BUSINESS WIRE)--Accenture (NYSE: ACN) has completed the acquisition of umlaut, an engineering consulting and services firm headquartered in Aachen, Germany. Terms of the transaction, which Accenture announced on June 14, were not disclosed. The move significantly scales Accenture's deep engineering capabilities to help companies use digital technologies like cloud, artificial intelligence and 5G to transform how they design, engineer and manufacture their products as well as embed sustainability.
+
+
+***
+[https://github.blog/changelog/2021-09-30-enabling-ipv6-support-for-github-pages/](https://www.reddit.com/r/programming/comments/pz4s3w/httpsgithubblogchangelog20210930enablingipv6suppor/)
+
+
+> no comments yetBe the first to share what you think!
+
+
