@@ -6974,3 +6974,50 @@
 > The market today has a lot of activation energy, even as the pandemic continues to play out. We're seeing ample capital, a focus on distributed investing, more first-check investors than ever before, and, fittingly, a parade of new startups. That said, momentum has a way of overwhelming even the most ambitious. For founders at the earliest stages of building a company, it's imperative to spend in a balanced yet growth-focused manner. At TechCrunch Disrupt 2021 last week, Harlem Capital's Henri Pierre-Jacques and BBG Ventures' Nisha Dua explained how founders should allocate their recently raised dollars in today's environment.
 
 
+***
+![Track your productivity with Time Insights in Google Calendar](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/09/google-calendar-6-hero-2.jpg "Track your productivity with Time Insights in Google Calendar")
+
+
+[Track your productivity with Time Insights in Google Calendar](https://www.androidcentral.com/how-use-google-calendar-time-insights-track-your-productivity)
+
+
+> Source: Android Central Google added a useful new feature called Time Insights to Google Calendar in August. You can now see the amount of time you've spent on specific events in your Calendar but only on desktop. This includes a complete breakdown of your time, how much time you spend in meetings, and the people you meet with. Here's how you can use Google Calendar Time Insights to track your productivity. Time Insights is only available to Google Workspace accounts. This includes anyone with a company or student account.
+
+
+***
+![Automate your home with the best HomeKit smart plugs out there](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/wemo-mini-lifestyle.jpeg "Automate your home with the best HomeKit smart plugs out there")
+
+
+[Automate your home with the best HomeKit smart plugs out there](https://www.imore.com/these-smart-plugs-work-siri-and-apples-homekit)
+
+
+> Best Smart Plugs for HomeKit iMore 2021 The best smart plugs for HomeKit can help bring your older devices into the modern era. These simple HomeKit accessories can turn on your coffee maker at sunrise automatically through scenes and automations created in the Home app. They can also turn your lights on and off whether you're home or away. If you are ready to make your elevate your home's intelligence, here are some of the best smart plugs for HomeKit that you can buy. Staff Favorite Belkin's Wemo mini features a slim profile that won't block the other plug on the wall, allowing two of them to be used in a single outlet.
+
+
+***
+![The best Android games available (October 2021)](https://icdn.digitaltrends.com/image/digitaltrends/best-android-games-new-update.jpg "The best Android games available (October 2021)")
+
+
+[The best Android games available (October 2021)](https://www.digitaltrends.com/mobile/best-android-games/)
+
+
+> With such a bountiful choice of great games for Android phones in the Google Play Store, how do you decide which Android apps to download? If you're anything like us, you know only too well that feeling of download regret. But don't worry — we're here to make it a thing of the past with our handpicked list of the best Android games available. Most are free, some cost a few bucks, and many are great to play online with friends when you can't get together in person — but all of them will keep you entertained at home or when you're out and about.
+
+
+***
+[Github adds Colorblind themes (beta)](https://www.reddit.com/r/programming/comments/pzdd89/github_adds_colorblind_themes_beta/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Flask 2 and Vue.js simple TODO project](https://external-preview.redd.it/K-_XdaVlo1wdnEAzml5OY7d2-QJ5D-HlU5s7pYnrZCg.jpg?auto=webp&s=914e39db34bf174bd6c7b7d9dbb50906ba9ad7ba "Flask 2 and Vue.js simple TODO project")
+
+
+[Flask 2 and Vue.js simple TODO project](https://www.reddit.com/r/Python/comments/pzdcrr/flask_2_and_vuejs_simple_todo_project/)
+
+
+> Hi, everyone!I made a video about using Flask 2 and Vue.js. As an example I took a TODO app.Interesting detail: to serialize a model I used the `@dataclass` decorator.And the Youtube video:https://youtu.be/_YeN69XoqqUThanks for watching!
+
+
