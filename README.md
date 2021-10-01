@@ -6830,3 +6830,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Galaxy S21 FE Visits The FCC Again, But The Launch Is Still In Doubt](https://www.androidheadlines.com/wp-content/uploads/2021/04/Samsung-Galaxy-S21-FE-render-leak-1.jpg "Galaxy S21 FE Visits The FCC Again, But The Launch Is Still In Doubt")
+
+
+[Galaxy S21 FE Visits The FCC Again, But The Launch Is Still In Doubt](https://www.androidheadlines.com/2021/10/galaxy-s21-fe-fcc-exynos.html)
+
+
+> The Samsung Galaxy S21 FE launch saga has been ongoing for months now. The device was first supposed to launch in August, but it was postponed due to chip shortage. It was suggested to arrive in October, but the latest report suggested that won't happen. That report also suggested that the device may not launch at all, though the Galaxy S21 FE did appear on FCC once again. That listing does not really guarantee anything, though.FCC hints that the Galaxy S21 FE may launch after all, but it's far from a guaranteeA new Galaxy S21 FE listing popped up on the FCC, the SM-G990E model appeared.
+
+
+***
+![Insights on the Performance Management Systems Global Market to 2027](https://mms.businesswire.com/media/20211001005366/en/912144/23/logo.jpg "Insights on the Performance Management Systems Global Market to 2027")
+
+
+[Insights on the Performance Management Systems Global Market to 2027](https://www.businesswire.com/news/home/20211001005366/en/Insights-on-the-Performance-Management-Systems-Global-Market-to-2027---Featuring-ADP-Kronos-and-SAS-Institute-Among-Others---ResearchAndMarkets.com)
+
+
+> October 01, 2021 07:54 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Performance Management Systems - Global Market Trajectory & Analytics" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for Performance Management Systems estimated at US$4.3 Billion in the year 2020, is projected to reach a revised size of US$7.1 Billion by 2027, growing at a CAGR of 7.3% over the period 2020-2027. The U.S. Market is Estimated at $1.2 Billion, While China is Forecast to Grow at 11.
+
+
+***
+![Amazon Great Indian Festival: Top deals on smartphones under Rs 20,000](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/redmi_note_10_pro_max_-original.jpg "Amazon Great Indian Festival: Top deals on smartphones under Rs 20,000")
+
+
+[Amazon Great Indian Festival: Top deals on smartphones under Rs 20,000](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-top-deals-on-smartphones-under-rs-20-000-1859667-2021-10-01)
+
+
+> Ayush Chourasia New Delhi, Oct 01, 2021, Updated Oct 01, 2021, 5:22 PM IST Story highlights The Amazon Great Indian Sale begins on October 3, i.e. Sunday, for non-Prime members For Prime members, it begins tomorrow Here are the top smartphone deals under Rs 20,000 The Amazon Great Indian Festival begins on October 2 for Prime members and a day later for non-prime consumers. Ahead of the sale, Amazon has revealed a plethora of deals across multiple categories. It includes smartphones that will be selling at up to 40 per cent discount during the sale.
+
+
+***
+![Amazon Great Indian Festival: Top offers on truly wireless earphones under Rs 3000](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2021-10-01_at_5.16._1200x768-original.png "Amazon Great Indian Festival: Top offers on truly wireless earphones under Rs 3000")
+
+
+[Amazon Great Indian Festival: Top offers on truly wireless earphones under Rs 3000](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-top-offers-on-truly-wireless-earphones-under-rs-3000-1859666-2021-10-01)
+
+
+> Story highlights Amazon Great Indian Festival is all set to kickstart on October 3. Apart from the new launches, Amazon will offer scores of deals and discounts across categories including smartphones, smartwatches and more. Amazon will also offer discounts on TWS earbuds. Amazon Great Indian Festival is all set to kickstart on October 3. Amazon had said that the sale would include 1,000 new product launches from top brands such as Samsung, OnePlus, Xiaomi, Sony, Apple, Boat, Lenovo, HP, Asus, Fossil and many others.
+
+
+***
+![sphinx-codeautolink: automatic links from code examples to reference documentation](https://preview.redd.it/rdrbpxpxrtq71.png?width=275&format=png&auto=webp&s=d9b7e51de232097bbb8d4eda8265dd5a4daed76d "sphinx-codeautolink: automatic links from code examples to reference documentation")
+
+
+[sphinx-codeautolink: automatic links from code examples to reference documentation](https://www.reddit.com/r/Python/comments/pz6bah/sphinxcodeautolink_automatic_links_from_code/)
+
+
+> Hi r/Python! I want to share an update to a documentation tool I've been working on for the last month or so. It's a Sphinx extension that analyses code examples and inserts links to reference documentation for the functions and classes that the example uses. Better to just show the output:example linksClicking the link would take you to numpy.linspace's documentation on their site. That's basically it! I think being able to jump from examples to reference is a huge boost in user experience, and using this extension is essentially flicking a switch.
+
+
