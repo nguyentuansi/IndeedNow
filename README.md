@@ -6733,3 +6733,53 @@
 > Vivo X70 Pro, Vivo X70 Pro+ price in India: Chinese smartphone manufacturer Vivo has launched its most awaited flagship smartphones in India - X70 series: Vivo X70 Pro and Vivo X70 Pro+. The Vivo X70 series has powerful specifications, including Qualcomm Snapdragon 888+5G, a quad rear camera setup, and a 4500 mAh battery.The Vivo X70 Pro+ flaunts a ceramic body on glass, Fluorite AG finish, along with an immersive 3D curved screen. The X70 Pro+ also comes with a cutting-edge design in Enigma Black.
 
 
+***
+![Best cheap tablet deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/apple-ipad-pro-10-5-review-screen-angle-1-3-2.jpg "Best cheap tablet deals for October 2021")
+
+
+[Best cheap tablet deals for October 2021](https://www.digitaltrends.com/dtdeals/best-tablet-deals/)
+
+
+> Does anyone in your family work remotely or take classes at home? If the answer is yes to either or both, you don't need to work on a desktop or laptop computer to be productive. You can use a tablet to work from home or for remote learning. Tablets are powerful as productivity devices and also excel when you're reading, streaming music or video, or just browsing. Smartphones get most of the news coverage, but tablet users demonstrate year after year that they stick with their mobile workhorses. The iPad lineup, the class-leading example, is as good as ever and relatively affordable for Apple products.
+
+
+***
+![Best cheap iPhone deals and sales for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/iphone-2019-2.jpg "Best cheap iPhone deals and sales for October 2021")
+
+
+[Best cheap iPhone deals and sales for October 2021](https://www.digitaltrends.com/dtdeals/best-iphone-deals/)
+
+
+> Apple's iconic iPhone remains the most popular smartphone brand in the U.S., even with continued competition from Samsung, Google, LG, and many others. Android brands combined command a moderately larger global market share, but none of them outpace Apple. It's also no secret iPhones aren't cheap,' but if you need a new one and are on the hunt for smartphone deals, we can help. We've scooped up a heaping helping of all the best cheap iPhone deals available this week, offering tidy discounts on everything from the iPhone X series to the latest iPhone 12.
+
+
+***
+![Best cheap camera deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/nikon-d850-review-15.jpg "Best cheap camera deals for October 2021")
+
+
+[Best cheap camera deals for October 2021](https://www.digitaltrends.com/dtdeals/best-camera-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Smartphone cameras are shockingly good, but they still don't measure up to proper digital cameras. Professionals and hobbyists alike still use full-size mirrorless and DSLR cameras, and they've only gotten better in recent years thanks to new technologies like Full HD and 4K video recording capabilities and Wi-Fi and Bluetooth connectivity now standard even on entry-level models. To save you the hassle of hunting around for them, we've smoked out the best cheap camera deals and bundles right here.
+
+
+***
+![Best Google Pixel deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/google-pixel-3-5.jpg "Best Google Pixel deals for October 2021")
+
+
+[Best Google Pixel deals for October 2021](https://www.digitaltrends.com/dtdeals/best-google-pixel-smartphone-deals/)
+
+
+> Google is the major force behind the Android OS, the most popular current mobile operating system on the planet. While It took some time for this software giant to make actual, physical phone hardware, the wait was more than worth it, and the Google Pixel line of smartphones now sits on more than a few 'best of' lists (including our own). If you're looking for smartphone deals and are specifically looking for one of the slickest Android experiences money can buy, you need to take a nice long look at the Pixel devices — and we've already compiled all the best cheap Google Pixel deals right here: Today's best Google Pixel deals Google just released a 5G-capable version of its Pixel 4a phone, which might be the best value to be had right now if you're after a brand-name 5G handset.
+
+
+***
+![Best cheap Peloton alternatives for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/l-now-indoor-exercise-bike.jpg "Best cheap Peloton alternatives for October 2021")
+
+
+[Best cheap Peloton alternatives for October 2021](https://www.digitaltrends.com/dtdeals/best-peloton-alternatives/)
+
+
+> Are you ready to up your game working out at home, but knocked back by hefty Peloton prices? There are excellent alternatives that cost less. If you're on the hunt for interactive exercise equipment for your home gym, Peloton is the hottest name in fitness tech today. But Peloton prices can be a stopper. There are plenty of smart exercise bikes and other Peloton alternative fitness options priced right for home use, however, from interactive treadmills to rowers. Some of the alternates we found include one-year subscriptions to iFit virtual home fitness workouts.
+
+
