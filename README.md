@@ -6548,3 +6548,41 @@
 > HONOLULU – Kilauea, one of the most active volcanos on Earth, began erupting on Hawaii's Big Island Wednesday. The eruption is not in an area with homes and is entirely contained within Hawaii Volcanoes National Park. Officials said increased earthquake activity and ground swelling before the eruption put them on high alert. Fissures then opened in the summit area and sent lava fountaining into the sky. Now the area has filled with molten rock, creating a lake of lava in the volcano's crater. The new lava is an expected evolution of a volcano that is recharging after a huge eruption in 2018 drained much of its magma.
 
 
+***
+[Commentaires sur Comment Waze Veut Devenir Le Netflix De L'Audio Dans Votre Auto ? par Kenya and Tanzania safari itinerary](https://www.forbes.fr/technologie/comment-waze-veut-devenir-le-netflix-de-laudio%e2%80%89dans-votre-auto/#comment-30575)
+
+
+> <strong>Kenya and Tanzania safari itinerary</strong> [...]check beneath, are some totally unrelated internet sites to ours, having said that, they're most trustworthy sources that we use[...]
+
+
+***
+![Techie murder case: No proof of electrocution causing accused Ramkumar's death](https://images.newindianexpress.com/uploads/user/imagelibrary/2021/10/1/w600X390/No_proof_of.jpg "Techie murder case: No proof of electrocution causing accused Ramkumar's death")
+
+
+[Techie murder case: No proof of electrocution causing accused Ramkumar's death](https://www.newindianexpress.com/states/tamil-nadu/2021/oct/01/techie-murder-case-no-proof-of-electrocution-causing-accused-ramkumars-death-2366071.html)
+
+
+> CHENNAI: From examination of tissues no evidence was found to support the claim of death by ‘electric shock' in the case of P Ramkumar, the lone accused in the 2016 murder of 24-year-old techie Swathi. Histopathology experts had deposed before the State Human Rights Commission (SHRC) on August 18, according to documents shared by P Ramaraj, the advocate appearing on Ramkumar's behalf. SHRC officials, however, neither confirmed nor denied the developments. According to the police, Ramkumar had killed himself by biting into a live wire when he was lodged at the Puzhal Central Prison in September 2016.
+
+
+***
+[Bird Three e-scooter is now being piloted at Lansdowne Park in Ottawa](https://mobilesyrup.com/2021/09/30/bird-three-e-scooter-lansdowne-park-ottawa/?utm_source=rss&utm_medium=rss&utm_campaign=bird-three-e-scooter-lansdowne-park-ottawa)
+
+
+> Bird Canada announced the launch of an e-scooter pilot at Lansdowne Park in Ottawa to show off the Bird Three e-scooter model. Ottawa is the first city in Canada that will get the chance to preview the new features, which will promote proper parking, curb sidewalk riding, and more. This technology will be available at […]
+
+
+***
+[Help with Scikit learn installation (Macbook Air M1) [D]](https://www.reddit.com/r/MachineLearning/comments/pyw3fx/help_with_scikit_learn_installation_macbook_air/)
+
+
+> If anyone here uses Macbook M1, can you please help me install Scikit-learn? Pip doesn't install it, I Installed Scikit-learn 1.0 using Conda(miniforge) and Jupyter notebook still shows module not found.
+
+
+***
+[Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pyw36y/friday_daily_thread_free_chat_friday_daily_thread/)
+
+
+> Use this thread to talk about anything Python related! Questions, news, projects and any relevant discussion around Python is permitted!
+
+
