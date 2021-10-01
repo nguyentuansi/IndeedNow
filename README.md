@@ -6686,3 +6686,50 @@
 > Ankita Chakravarti New Delhi, Oct 01, 2021, Updated Oct 01, 2021, 9:06 AM IST Story highlights Motorola is all set to unveil the Edge 20 Pro in India. The Lenovo-owned company had previously launched the Edge 20 and the Edge 20 Fusion in the Indian market. Motorola will be launching the Edge 20 Pro in India at 12 PM on Flipkart. Motorola is all set to unveil the Edge 20 Pro in India. The Lenovo-owned company had previously launched the Edge 20 and the Edge 20 Fusion in the Indian market. Motorola Edge 20 Pro is the flagship device that is powered by a Snapdragon 870 processor, has a 144Hz display and features a 108-megapixel camera with 50X zoom.
 
 
+***
+![3 ways to test your API with Python](https://external-preview.redd.it/YqFNbHD9KZX5SE3dtWp2JlwQ32a5v_nXw2g-2dFaPJw.jpg?auto=webp&s=716dafbdb6cc38032228b583a9d7ab409735de20 "3 ways to test your API with Python")
+
+
+[3 ways to test your API with Python](https://www.reddit.com/r/Python/comments/pz1wpj/3_ways_to_test_your_api_with_python/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![iPad mini 2021 review: Apple's smallest tablet gets a pricey semi-Pro makeover](https://i.inews.co.uk/content/uploads/2021/09/PRI_202638730.jpg "iPad mini 2021 review: Apple's smallest tablet gets a pricey semi-Pro makeover")
+
+
+[iPad mini 2021 review: Apple's smallest tablet gets a pricey semi-Pro makeover](https://inews.co.uk/news/technology/ipad-mini-2021-review-apple-tablet-features-price-sale-buy-1212193)
+
+
+> While many of Apple's products inspire a fanatical following, the iPad mini has a particularly ardent fanbase. After resurrecting the tiny tablet line in 2019 following a four-year lapse, the tech giant has released a new model that brings the company's smallest tablet in line with its most powerful Pro range.Consequently, the mini has been entirely redesigned.The gently curved edges and circular home button have been dropped in favour of a new larger display, slimmer fingerprint scanner, faster processor, overhauled front and rear-facing cameras, USB-C charging, 5G support – and a refined angular design taken straight from the Pro blueprints.
+
+
+***
+![Motorola Edge 20 Pro Price In India Accidentally Leaked By Company Ahead Of Official Launch](https://images.moneycontrol.com/static-mcnews/2021/09/Motorola-Edge-20-Pro-770x433.jpg "Motorola Edge 20 Pro Price In India Accidentally Leaked By Company Ahead Of Official Launch")
+
+
+[Motorola Edge 20 Pro Price In India Accidentally Leaked By Company Ahead Of Official Launch](https://www.moneycontrol.com/news/technology/motorola-edge-20-pro-price-in-india-accidentally-leaked-by-company-ahead-of-official-launch-7529951.html)
+
+
+> Motorola Edge 20 Pro launch in India is set to take place at 12 noon on October 1. The company will unveil its flagship smartphone that features a Snapdragon 870 SoC under the hood. The same processor is found on the likes of the iQOO 7, OnePlus 9R, etc. Motorola Edge 20 Pro will be available for purchase via Flipkart. Ahead of the launch, the company accidentally leaked the price of the device via Twitter.Motorola Edge 20 Pro price in IndiaAccording to the now-deleted post spotted by tipster Abhishek Yadav, the Motorola Edge 20 Pro price in India will start at Rs 36,999.
+
+
+***
+[In Interviews, Solving Coding Challenges May Not Matter as Much as You Think](https://www.reddit.com/r/programming/comments/pz1rko/in_interviews_solving_coding_challenges_may_not/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Vivo X70 Pro, Vivo X70 Pro+ launched: Snapdragon 888+5G chipset, quad rear camera setup, 4500 mAh battery and more](https://cdn.zeebiz.com/sites/default/files/2021/10/01/160996-untitled-design-2021-09-30t133652983.jpg "Vivo X70 Pro, Vivo X70 Pro+ launched: Snapdragon 888+5G chipset, quad rear camera setup, 4500 mAh battery and more")
+
+
+[Vivo X70 Pro, Vivo X70 Pro+ launched: Snapdragon 888+5G chipset, quad rear camera setup, 4500 mAh battery and more](https://www.zeebiz.com/technology/mobiles/news-vivo-x70-pro-vivo-x70-pro-launched-snapdragon-8885g-chipset-quad-rear-camera-setup-4500-mah-battery-and-more-check-all-details-here-166588)
+
+
+> Vivo X70 Pro, Vivo X70 Pro+ price in India: Chinese smartphone manufacturer Vivo has launched its most awaited flagship smartphones in India - X70 series: Vivo X70 Pro and Vivo X70 Pro+. The Vivo X70 series has powerful specifications, including Qualcomm Snapdragon 888+5G, a quad rear camera setup, and a 4500 mAh battery.The Vivo X70 Pro+ flaunts a ceramic body on glass, Fluorite AG finish, along with an immersive 3D curved screen. The X70 Pro+ also comes with a cutting-edge design in Enigma Black.
+
+
