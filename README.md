@@ -6586,3 +6586,53 @@
 > Use this thread to talk about anything Python related! Questions, news, projects and any relevant discussion around Python is permitted!
 
 
+***
+![Touchscreen issues reported with latest Apple update on iPhone 13](https://images.perthnow.com.au/publication/C-4118942/895ff5cd875b571fdcc6cc6dc81b99499d004624-16x9-x0y96w1024h576.jpg?imwidth=1200 "Touchscreen issues reported with latest Apple update on iPhone 13")
+
+
+[Touchscreen issues reported with latest Apple update on iPhone 13](https://www.news.com.au/technology/gadgets/mobile-phones/touchscreen-issues-reported-with-latest-apple-update-on-iphone-13/news-story/9d0cc0ed7c38465e73d76f2ad0493ded)
+
+
+> iPhone users have reported touchscreen sensitivity issues connected to the latest software update from Apple.Users worldwide have reported intermittent touchscreen problems from the latest iOS 15 update that was rolled out last week.It is said that parts of the display screen don't respond to touch.It mostly appears to affect those with Apple's new iPhone 13 series. But some with older versions of the phone could also be affected by the bug.The only way to solve the issue is to reboot the iPhone.
+
+
+***
+![i3D.net moves its gaming platform to Equinix](https://itwire.com/media/k2/items/cache/1380366d6cdb14277589d5defbe2c7c0_XS.jpg "i3D.net moves its gaming platform to Equinix")
+
+
+[i3D.net moves its gaming platform to Equinix](https://itwire.com/your-it/i3d-net-moves-its-gaming-platform-to-equinix.html)
+
+
+> Application hosting and infrastructure service provider i3D.net has selected digital infrastructure company Equinix to support its global gaming platform. According to Equinix, citing data from Statista, the gaming market is experiencing solid growth and is projected to rise from US$42.2 billion in 2020 to US$46.7 billion in 2025. Against this global backdrop, i3D.net has seen its gaming business grow, and its capacity needs doubling. With an uptick in usage and global demand for a highly immersive and consistent end-user experience, as well as new game launches, e-sports events, and popularity spikes of a particular game, the need for high-speed connectivity to sync games and perform deployment tests increased.
+
+
+***
+![Realme launches TechLife Air Purifier, Handheld Vacuum Cleaner, Robot Vacuum in India](https://cdn.mos.cms.futurecdn.net/Vzp2fnXmwwEy5zJzhcgjx8-1200-80.jpg "Realme launches TechLife Air Purifier, Handheld Vacuum Cleaner, Robot Vacuum in India")
+
+
+[Realme launches TechLife Air Purifier, Handheld Vacuum Cleaner, Robot Vacuum in India](https://www.techradar.com/news/realme-launches-techlife-air-purifier-handheld-vacuum-cleaner-robot-vacuum-in-india)
+
+
+> (Image credit: Realme) Realme has launched three new TechLife products in India which include the TechLife Air Purifier, TechLife Handheld Vacuum Cleaner, and the TechLife Robot Vacuum.These three new products join the existing Realme TechLife AIoT products that are already available in India. Apart from this Realme has also partnered with Dizo as part of the "1+5+T" strategy from Realme. New Realme TechLife product detailsThe Realme TechLife Air Purifier features a high CADR of 330m³/h, 5 wind mode settings, high precision Japanese SHARP air quality sensor, 3-layers filtration structure, and a smart filter change indicator.
+
+
+***
+![Most malware delivered via encrypted connections: report](https://itwire.com/media/k2/items/cache/a882e6169c186aa808f092dbb72bd991_XS.jpg "Most malware delivered via encrypted connections: report")
+
+
+[Most malware delivered via encrypted connections: report](https://itwire.com/security/most-malware-delivered-via-encrypted-connections-report.html)
+
+
+> WatchGuard CSO Corey Nachreiner Security vendor WatchGuard Technologies has published research showing that more than 90% of malware arrives through HTTPS-encrypted connections. WatchGuard's Q2 2021 Internet Security Report reveals that 91.5% of malware was delivered over HTTPS-encrypted connections. Another growing problem is fileless threats. In the first six months of 2021, fileless detections reached 80% of last year's total, and total 2021 detections are expected to double last year's count.
+
+
+***
+![TDCX Announces Pricing of Initial Public Offering](https://mms.businesswire.com/media/20210930006054/en/912027/23/TDCX_Logo.jpg "TDCX Announces Pricing of Initial Public Offering")
+
+
+[TDCX Announces Pricing of Initial Public Offering](https://www.businesswire.com/news/home/20210930006054/en/TDCX-Announces-Pricing-of-Initial-Public-Offering)
+
+
+> September 30, 2021 09:54 PM Eastern Daylight Time SINGAPORE & NEW YORK--(BUSINESS WIRE)--TDCX Inc. ("TDCX" or the 'Company'), a high-growth digital customer experience solutions provider for technology and blue-chip companies, today announced the pricing of its initial public offering of 19,358,957 American Depositary Shares ('ADS'). Each ADS represents one Class A ordinary share, at a price to the public of US$18 per ADS. TDCX granted the underwriters a 30-day option to purchase up to an additional 2,903,843 ADS at the initial public offering price, less underwriting discounts and commissions.
+
+
