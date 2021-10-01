@@ -6636,3 +6636,53 @@
 > September 30, 2021 09:54 PM Eastern Daylight Time SINGAPORE & NEW YORK--(BUSINESS WIRE)--TDCX Inc. ("TDCX" or the 'Company'), a high-growth digital customer experience solutions provider for technology and blue-chip companies, today announced the pricing of its initial public offering of 19,358,957 American Depositary Shares ('ADS'). Each ADS represents one Class A ordinary share, at a price to the public of US$18 per ADS. TDCX granted the underwriters a 30-day option to purchase up to an additional 2,903,843 ADS at the initial public offering price, less underwriting discounts and commissions.
 
 
+***
+![Malaysia's help needed to ease global chip shortage, Taiwan says](https://www.reuters.com/resizer/IEz1aMoVENzMlwMplbEha2XQH9s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5QD4ZNK6CZJEZPV6R2Y3FGUAGA.jpg "Malaysia's help needed to ease global chip shortage, Taiwan says")
+
+
+[Malaysia's help needed to ease global chip shortage, Taiwan says](https://www.reuters.com/technology/taiwan-says-resolving-chip-shortages-needs-malaysias-help-2021-10-01/)
+
+
+> A 12-inch wafer is seen at Taiwan Semiconductor Manufacturing Co. (TSMC) in Hsinchu June 15, 2010. REUTERS/Pichi ChuangTAIPEI, Oct 1 (Reuters) - Malaysia's help is needed to resolve the global shortage of auto semiconductors, especially when it comes to packaging, a sector affected by the country's COVID-19 curbs, Taiwan Economy Minister Wang Mei-hua said.Taiwan, as a major chip producer, has been front and centre of efforts to resolve the shortage, which has idled auto plants around the world.Speaking in an interview late on Thursday at her ministry, Wang told Reuters that Taiwan alone could not sort out the problem because the supply chain is so complex.
+
+
+***
+![Qld on alert as ‘giant hail' and ‘destructive winds' approach](https://images.perthnow.com.au/publication/C-4120093/072377b11984e4fddebaa9f494ba0dd1f6ea3398-16x9-x0y0w2048h1152.jpg?imwidth=1200 "Qld on alert as ‘giant hail' and ‘destructive winds' approach")
+
+
+[Qld on alert as ‘giant hail' and ‘destructive winds' approach](https://www.news.com.au/technology/environment/qld-on-alert-as-giant-hail-and-destructive-winds-approach/news-story/e86790a6154a85b21e00e78aaea979ee)
+
+
+> The first storm of the season left Queenslanders with a bit of cleaning up, but if you're in the state's southeast, you might want to reinforce your defences.Weather forecasters were on Friday tipping another huge cell to sweep across the region, delivering another barrage of torrential rain, hail and damaging winds.Severe thunderstorms are likely to redevelop about parts of southeastern and central Queensland on Friday afternoon. Josh Woning Credit: News Corp AustraliaThe state's central and southeast regions copped a drenching in the first big storm of the season on Thursday afternoon, with trees damaged and thousands left without power for hours.
+
+
+***
+![Hefty fine for lesser-known road rule](https://content.api.news/v3/images/bin/2fc8a869580334785a92f915d5d2f1a2 "Hefty fine for lesser-known road rule")
+
+
+[Hefty fine for lesser-known road rule](https://www.news.com.au/technology/motoring/on-the-road/opening-car-door-in-traffic-could-see-drivers-slapped-with-demerit-points-and-349-fine/news-story/9eddc29e1bfdc0ca69dd225c6534c2e0)
+
+
+> A driving habit most motorists wouldn't give a second thought could see them forking out hundreds of dollars in fines if they're caught out.Don't miss out on the headlines from On the Road. Followed categories will be added to My News.One seemingly minor driving oversight could see motorists forced to fork out hundreds in fines and handed over annoying demerit points.Tough penalties apply for flouters of the lesser-known road rule, which states that drivers should not 'cause a hazard' by opening their door or leaving it open in traffic.
+
+
+***
+![Iphone pro to mini -](https://images.macrumors.com/social/?t=2314751&v=6 "Iphone pro to mini -")
+
+
+[Iphone pro to mini -](https://forums.macrumors.com/threads/iphone-pro-to-mini.2314751/)
+
+
+> Mar 16, 2012 477 91 Brisbane Australia I got the pro and I finally got it set up and it seems to work perfectly. Have a screen protector and case on it as well (so I'm pretty committed) Price isn't an issue. I'm just torn as it feels too big, yes it's heavy but it's a comfortable Weigh and feels amazing coming from the 8 (I've since realized my case on the 8 was giving me the absolute *****). Anyway, I can't stop thinking of the mini. Everyone keeps saying how bad the battery life if and how the camera isn't all that best.
+
+
+***
+![Motorola Edge 20 Pro India launch today: Expected price, specifications and more](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2021-09-21_at_4.37._0_1200x768-original.png "Motorola Edge 20 Pro India launch today: Expected price, specifications and more")
+
+
+[Motorola Edge 20 Pro India launch today: Expected price, specifications and more](https://www.indiatoday.in/technology/news/story/motorola-edge-20-pro-india-launch-today-expected-price-specifications-and-more-1859423-2021-10-01)
+
+
+> Ankita Chakravarti New Delhi, Oct 01, 2021, Updated Oct 01, 2021, 9:06 AM IST Story highlights Motorola is all set to unveil the Edge 20 Pro in India. The Lenovo-owned company had previously launched the Edge 20 and the Edge 20 Fusion in the Indian market. Motorola will be launching the Edge 20 Pro in India at 12 PM on Flipkart. Motorola is all set to unveil the Edge 20 Pro in India. The Lenovo-owned company had previously launched the Edge 20 and the Edge 20 Fusion in the Indian market. Motorola Edge 20 Pro is the flagship device that is powered by a Snapdragon 870 processor, has a 144Hz display and features a 108-megapixel camera with 50X zoom.
+
+
