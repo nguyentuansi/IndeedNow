@@ -7021,3 +7021,50 @@
 > Hi, everyone!I made a video about using Flask 2 and Vue.js. As an example I took a TODO app.Interesting detail: to serialize a model I used the `@dataclass` decorator.And the Youtube video:https://youtu.be/_YeN69XoqqUThanks for watching!
 
 
+***
+![These are the best phones to try out Visible's unlimited data](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/10/pixel-3a-sims-att-visible.jpg "These are the best phones to try out Visible's unlimited data")
+
+
+[These are the best phones to try out Visible's unlimited data](https://www.androidcentral.com/best-phones-visible)
+
+
+> Source: Ara Wagoner / Android Central Best phones for Visible Android Central 2021 When it first launched in May 2018, Visible made a significant mark on the carrier space since $40 a month for unlimited everything on Verizon sounds too good to be true. One of the few drawbacks to the service is that Visible only works with a small selection of Android phones, but that doesn't mean it's impossible to be an Android user and get the most out of what the carrier has to offer. Thanks to full LTE support, great software, and a stellar price, the Google Pixel 4a is a great way to try out this carrier.
+
+
+***
+![Cirrus Logic to Announce Q2 Results November 1](http://www.businesswire.com/images/bwlogo_square.png "Cirrus Logic to Announce Q2 Results November 1")
+
+
+[Cirrus Logic to Announce Q2 Results November 1](https://www.businesswire.com/news/home/20211001005099/en/Cirrus-Logic-to-Announce-Q2-Results-November-1)
+
+
+> October 01, 2021 04:00 PM Eastern Daylight Time AUSTIN, Texas--(BUSINESS WIRE)--Cirrus Logic, Inc. (Nasdaq: CRUS) today announced that the company will post its second quarter fiscal year 2022 financial results and business outlook on the investor relations area of its website on Monday, Nov. 1, at approximately 4 p.m. EDT. Cirrus Logic will host a live Q&A webcast session at 5 p.m. EDT that same day to answer questions related to its financial results and business outlook. Shareholders who would like to submit a question to be addressed during the call are requested to email investor@cirrus.
+
+
+***
+![New 3D Platformer Coming from Former Sonic Mania Developers](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Former%20Sonic%20Mania%20developer%20Evening%20Star%20new%20IP%20cover.jpg?itok=TzZjgLZU "New 3D Platformer Coming from Former Sonic Mania Developers")
+
+
+[New 3D Platformer Coming from Former Sonic Mania Developers](https://techraptor.net/gaming/news/new-3d-platformer-coming-from-former-sonic-mania-developers)
+
+
+> A few years ago, some former Sonic Mania developers came together to form a company called Evening Star. Now, this new company -- including Christian Whitehead -- are making an original 3D platformer. Sonic Mania is a 2017 game that aimed to recapture the magic of the original 2D Sega Genesis games, and it seemed like it was succeeding based on our hands-on experience at E3. The finished product ultimately turned out to be a pretty damn good love letter to old school Sonic the Hedgehog fans. One of the instrumental people behind this project was Christian Whitehead, a former developer of Sonic the Hedgehog fan games.
+
+
+***
+[Node.js 14 is over 20x faster than Python3.8 for fib(n)](https://www.reddit.com/r/Python/comments/pzfo1n/nodejs_14_is_over_20x_faster_than_python38_for/)
+
+
+> So I getted bored and find that reddit post / blog post. (Link)I bored so why not to try disprove a bashing title with 460 upvotes of professionals.The claim was that "Node is over 20X faster than Python3.8".Lets start:The Python Implementation:def fib(n: int): if n == 1 or n == 0: return 1 return fib(n - 1) + fib(n - 2) fib_wrapper(35) Execute on my old laptop in 9324.5862 MilliSeconds. (Woof, really old laptop)Node have JIT. Python doesnt.Lets attach Numba JIT to make the board clean:@jit(nopython=True) def fib_numba(n: int): if n == 1 or n == 0: return 1 return fib_numba(n - 1) + fib_numba(n - 2) fib_numba_wrapper(35) Execute on my old laptop in 541.
+
+
+***
+![Intel Core i9-12900K scores high marks with overclocked DDR5 memory](https://cdn.mos.cms.futurecdn.net/sz9QqgFJQepF8fLVXJBACo-1200-80.jpg "Intel Core i9-12900K scores high marks with overclocked DDR5 memory")
+
+
+[Intel Core i9-12900K scores high marks with overclocked DDR5 memory](https://www.techradar.com/news/intel-core-i9-12900k-scores-high-marks-with-overclocked-ddr5-memory)
+
+
+> (Image credit: harukaze5719) A recently leaked Intel Core i9-12900K benchmark appears to show it crossing the 30,000 mark in Cinebench R23 test, but that same leaker is now showing the CPU's performance with new DDR5 RAM – and the results are impressive, if true. Newly published screenshots from REHWK on Twitter, first reported by VideoCardz, show the CPU running alongside the DDR5 memory overclocked to 8000 MT/s.DDR5 8000!!!!!!!!w/Z690 AORUS Tachyon & i9-12900K(?)@tomshardware @TechSpot @VideoCardz @wccftech @TechPowerUp pic.
+
+
