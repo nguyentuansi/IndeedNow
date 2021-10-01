@@ -7068,3 +7068,53 @@
 > (Image credit: harukaze5719) A recently leaked Intel Core i9-12900K benchmark appears to show it crossing the 30,000 mark in Cinebench R23 test, but that same leaker is now showing the CPU's performance with new DDR5 RAM – and the results are impressive, if true. Newly published screenshots from REHWK on Twitter, first reported by VideoCardz, show the CPU running alongside the DDR5 memory overclocked to 8000 MT/s.DDR5 8000!!!!!!!!w/Z690 AORUS Tachyon & i9-12900K(?)@tomshardware @TechSpot @VideoCardz @wccftech @TechPowerUp pic.
 
 
+***
+![Hillicon Valley — Presented by Ericsson — Welcome to Cybersecurity Awareness Month](https://thehill.com/sites/default/files/hacker_090817getty.jpg "Hillicon Valley — Presented by Ericsson — Welcome to Cybersecurity Awareness Month")
+
+
+[Hillicon Valley — Presented by Ericsson — Welcome to Cybersecurity Awareness Month](https://thehill.com/policy/technology/overnights/574972-hillicon-valley)
+
+
+> Today is Friday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.Hope everyone remembered to wake Billie Joe Armstrong up this morning, it's Cyber Month! President BidenJoe BidenFrance (and Britain) should join the Quad Election denialists smacked down by Idaho secretary of state Under Biden, the US could fall further behind in the Arctic MORE kicked off the festivities Friday in a statement touting his administration's work to secure the nation against cybersecurity threats.
+
+
+***
+![Vivint Smart Home to Participate in InsureTech Connect (ITC), the World's Largest Gathering of Insurance Leaders and Innovators](https://mms.businesswire.com/media/20211001005723/en/1018848/23/Vivint_Smart_Home_Logo_New.1920x1080.11-3-20.jpg "Vivint Smart Home to Participate in InsureTech Connect (ITC), the World's Largest Gathering of Insurance Leaders and Innovators")
+
+
+[Vivint Smart Home to Participate in InsureTech Connect (ITC), the World's Largest Gathering of Insurance Leaders and Innovators](https://www.businesswire.com/news/home/20211001005723/en/Vivint-Smart-Home-to-Participate-in-InsureTech-Connect-ITC-the-World%E2%80%99s-Largest-Gathering-of-Insurance-Leaders-and-Innovators)
+
+
+> PROVO, Utah--(BUSINESS WIRE)--Vivint Smart Home (NYSE: VVNT), a leading smart home company, today announced Todd Santiago, Chief Revenue Officer, will be a presenter during a track session at ITC Vegas 2021. Details are as follows: ITC Vegas 2021 Date: Tuesday, October 5, 2021 Time: 2:00 p.m. PDT Following the session, the presentation will be available on-demand on the Investor Relations section of the Company's website at https://investors.vivint.com. About the Company Vivint is a leading smart home company in North America.
+
+
+***
+![Ted Lasso, See, Foundation: What actually is Apple TV Plus?](https://www.cnet.com/a/img/M1NV8gwyFIA2R4f6S6zCm1iIN4A=/1200x630/2021/06/16/f1dbac50-4272-4474-9272-d9afb3a9b38e/apple-newsroom-videos-apple-tv-plus.jpg "Ted Lasso, See, Foundation: What actually is Apple TV Plus?")
+
+
+[Ted Lasso, See, Foundation: What actually is Apple TV Plus?](https://www.cnet.com/tech/services-and-software/ted-lasso-see-foundation-what-actually-is-apple-tv-plus/)
+
+
+> Apple TV Plus launched in late 2019 with just nine titles to watch. It's widened its catalog to more than five dozen.  Sarah Tew/CNET Apple TV Plus, Apple's subscription video service has Ted Lasso, the comedy that won a stack of Emmys last weekend; See, a big-budget fantasy starring Jason Momoa; and Foundation, the sci-fi show based on Isaac Asimov's classic book series, plus other originals. But Apple TV Plus is a little different than Netflix, HBO Max, and Disney Plus and other subscription streaming services.
+
+
+***
+![Honestly, I don't love this new iMessage feature in iOS 15](https://helios-i.mashable.com/imagery/articles/021EhhJBruFHbH424bl0Hj2/hero-image.fill.size_1200x675.v1633125311.jpg "Honestly, I don't love this new iMessage feature in iOS 15")
+
+
+[Honestly, I don't love this new iMessage feature in iOS 15](https://mashable.com/article/apple-ios-15-imessage-download-button)
+
+
+> A new version of iOS always takes some getting used to. But must I get used to this?Those of you who have downloaded iOS 15 might have noticed a new functionality in iMessage. When someone sends a photo, video, or group of photos, a download icon appears in the chat stream right beside the media. The icon is a little square with a downward arrow going through it. Click the button, and you'll save the image to your photo stream, which Apple displays by transforming the icon into a checkmark. My sister shared a picture of her dog, but I'm distracted by the ugly icon right next to it.
+
+
+***
+![Chrome's latest features make it easy to navigate search, browser history](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2019/05/chromebook-theme-hero-c434.jpg "Chrome's latest features make it easy to navigate search, browser history")
+
+
+[Chrome's latest features make it easy to navigate search, browser history](https://www.androidcentral.com/google-chrome-side-panel-journeys-experiments)
+
+
+> Source: Ara Wagoner / Android Central Google is rolling out two new experiments for the Chrome Dev Channel. Journeys will collect similar websites from your browser history based on similar topics. The search side panel will let you view results and web pages side-by-side. Google has announced two new experiments for the Chrome browser aimed at making it easier to navigate both new and old searches. The first new feature is the side panel, which was recently spotted in development and will allow users to view a page and the related search results simultaneously.
+
+
