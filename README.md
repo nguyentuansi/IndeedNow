@@ -6880,3 +6880,47 @@
 > Hi r/Python! I want to share an update to a documentation tool I've been working on for the last month or so. It's a Sphinx extension that analyses code examples and inserts links to reference documentation for the functions and classes that the example uses. Better to just show the output:example linksClicking the link would take you to numpy.linspace's documentation on their site. That's basically it! I think being able to jump from examples to reference is a huge boost in user experience, and using this extension is essentially flicking a switch.
 
 
+***
+[What are your CI tests for your Python Project](https://www.reddit.com/r/Python/comments/pz8pzy/what_are_your_ci_tests_for_your_python_project/)
+
+
+> I use CI to run some tests on my personal Python project and also the Python project at my works.I looking to discover some others gems that this community use and could recommend me to explore.My tests are generally separate in 3 parts:Pytest with mainly these plugins:pytest-xdist (for tests parallelization)pytest-randomly (execute tests in random order)pytest-cov (for coverage report)mypy version>=.910 without other pluginflake8 with these plugins:flake8-bandit (check generics security issues)flake8-bugbear (check generics bug and design problem)flake8-cognitive-complexity (check complexe and unreadable code)flake8-expression-complexity (check complexe and unreadable code)flake8-pytest-style (check style for pytest)flake8-simplify (check code simplification possibility as `for key in dict.
+
+
+***
+![Share Your Memories With Our Favorite Digital Picture Frames](https://media.wired.com/photos/5f19f237c538c1828ad8c9cf/191:100/w_2580,c_limit/Gear-Aura-Carver-SOURCE-Aura.jpg "Share Your Memories With Our Favorite Digital Picture Frames")
+
+
+[Share Your Memories With Our Favorite Digital Picture Frames](https://www.wired.com/gallery/best-digital-picture-frames/)
+
+
+> Most of us have hundreds, if not thousands, of photos just sitting on our phones and computers that we rarely get to revisit in a polished way. There are too many to print and frame, and more keep piling up. That's why I love digital frames. Do not fear them! They no longer look pixelated and tacky, and the best ones blend in with their surroundings. I first fell in love with digital frames after trying some from a company called Aura. They're nice to have around the house, and they also make great gifts.
+
+
+***
+![This Diwali, get free AirPods with iPhone 12, iPhone 12 Mini on the Apple Store; Details inside](https://images.financialexpress.com/2021/10/AirPods-Apple.jpg "This Diwali, get free AirPods with iPhone 12, iPhone 12 Mini on the Apple Store; Details inside")
+
+
+[This Diwali, get free AirPods with iPhone 12, iPhone 12 Mini on the Apple Store; Details inside](https://www.financialexpress.com/industry/technology/this-diwali-get-free-airpods-with-iphone-12-iphone-12-mini-on-the-apple-store-details-inside/2342033/)
+
+
+> By: FE Online | October 01, 2021 7:29 PMApple said there would be limited stock per model, adding that the promotion would be available only while stocks last.Apple has announced a pre-Diwali offer for buyers of the iPhone 12 or iPhone 12 Mini – a pair of free AirPods. The promotional offer begins on October 7 and the announcement comes just before Amazon and Flipkart are set to launch their own festival sales.The offer will only be available on the Apple Store.The iPhone 12 series phones will be available at their list prices — the prices were recently updated after Apple launched the iPhone 13 series.
+
+
+***
+![Tech varsity to verify qualification of engg. college teachers in Kerala](https://www.thehindu.com/static/theme/default/base/img/og-image.jpg "Tech varsity to verify qualification of engg. college teachers in Kerala")
+
+
+[Tech varsity to verify qualification of engg. college teachers in Kerala](https://www.thehindu.com/news/national/kerala/tech-varsity-to-verify-qualification-of-engg-college-teachers-in-kerala/article36778364.ece)
+
+
+> The APJ Abdul Kalam Technological University (KTU) has initiated scrutiny to ascertain qualification of engineering college teachers in the State. The move comes against the backdrop of an audit by the Comptroller and Auditor General of India (CAG) that found 961 teachers, including nearly 150 in government and aided colleges, lacking requisite qualifications.The inspection report on the CAG audit of KTU's accounts for the period 2019-20 had exposed the inadequacy which underscored the need for a regulatory mechanism for appointments and promotions in the technical education sector.
+
+
+***
+[Data Manipulation/Analysis](https://www.reddit.com/r/Python/comments/pz8jak/data_manipulationanalysis_python_vs_excel_question/)
+
+
+> I have very recently started to take a class on Python and I have just completed the 'Pandas' chapter in my book. Before immediately shooting me down, please consider the following question:Is it fair to say that Python takes longer to do simple manipulation and analysis on than Excel UNLESS you are working with a ton of data?Examples: Creating calculated column with proper formatting, filtering, sorting, merging two datasets, creating a scatter plot, etc. I know there are functions/methods that make these things relatively easy in Python - but wouldn't you still say that takes longer than in excel?It seems to me that unless you are using enough data that slows down Excel, Excel is much quicker to do analysis on.
+
+
