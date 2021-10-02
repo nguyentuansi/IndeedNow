@@ -7593,3 +7593,47 @@
 > Just now·7 min readFirst of all, anyone reading this post, I wish health to you and your loved ones in this tough time of the pandemic.After seeing the above image it might come to your mind why would I attach such an irrelevant image. To clarify, This is a huge dustbin of google and that piece of paper includes some of the wrong fully terminated developer accounts, terminated startups, Terminated Dreams, and lives!Today I decided to talk publicly about How google destroyed our startup. We're a gaming-based startup.
 
 
+***
+![Building And Deploying Rock Paper Scissors With Python FastAPI And Deta](https://external-preview.redd.it/GgL3xFfqAxIYL2_aHGPLY-TVNzgecUNsarYh9LVjglk.jpg?auto=webp&s=85430b5ac3190feaeaecdc90e2dfa51ae821dd36 "Building And Deploying Rock Paper Scissors With Python FastAPI And Deta")
+
+
+[Building And Deploying Rock Paper Scissors With Python FastAPI And Deta](https://www.reddit.com/r/Python/comments/q023hn/building_and_deploying_rock_paper_scissors_with/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![5 Awesome Resources to Enrich your Front-end skills](https://external-preview.redd.it/VqE_-VVLWpIchUejbFeVpoIm0HRkfZfaeO9z19zA5Xc.jpg?auto=webp&s=eefa191c7f20204ef9ed55ee213038da1d74409d "5 Awesome Resources to Enrich your Front-end skills")
+
+
+[5 Awesome Resources to Enrich your Front-end skills](https://www.reddit.com/r/programming/comments/q020hn/5_awesome_resources_to_enrich_your_frontend_skills/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[A look at Apple's TV+ progress and strategy as it navigates a crowded streaming video market (Brandon Katz/Observer)](http://www.techmeme.com/211002/p9#a211002p9)
+
+
+> Brandon Katz / Observer: A look at Apple's TV+ progress and strategy as it navigates a crowded streaming video market — Why Apple TV+ isn't necessarily competing with Netflix. — Nearly two years after launching Apple TV+ in November of 2019, Apple has remained notoriously secretive about its fledgling streaming service.
+
+
+***
+[Zero Trust Supply Chain Security](https://www.reddit.com/r/programming/comments/q01lk2/zero_trust_supply_chain_security/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![The best way to start learning python?](https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png "The best way to start learning python?")
+
+
+[The best way to start learning python?](https://www.reddit.com/r/Python/comments/q01kar/the_best_way_to_start_learning_python/)
+
+
+> 0 comments100% Upvotedno comments yetBe the first to share what you think!
+
+
