@@ -7543,3 +7543,53 @@
 > Monday February 8, 2021 10:18 am PST by Hartley CharltonNew MacBook Pro models are expected to arrive later this year with some of the biggest improvements to the product line to date, including some surprising changes, so now is not the best time to buy a new MacBook Pro.With major upgrades expected to key features such as the chipset, display, Touch Bar, charging, ports, and design, customers eyeing a new MacBook Pro may be better off...
 
 
+***
+![Jeep's cheapest new SUV has arrived](https://content.api.news/v3/images/bin/0afa6ce62132a7e817123dd4eb83e714 "Jeep's cheapest new SUV has arrived")
+
+
+[Jeep's cheapest new SUV has arrived](https://www.news.com.au/technology/motoring/new-cars/2021-jeep-compass-review-well-equipped-suv-is-easy-to-live-with/news-story/11c55054795aba3cd72c33d6b8762688)
+
+
+> The American brand's new compact SUV brings plenty of desirable features, but one area is a big let down.Don't miss out on the headlines from New Cars. Followed categories will be added to My News.After a tough few years Jeep is having a mini sales resurgence and its new Compass SUV should help that continue.Here is everything you need to know about the new Jeep Compass.VALUEThis is the cheap Jeep.The compact Jeep Renegade is no longer offered here, so the upgraded Compass is the brand's most affordable option.
+
+
+***
+![This Week in Apps: TikTok shops for advertisers, Microsoft makes app store changes, Apple's apps get reviews – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753 "This Week in Apps: TikTok shops for advertisers, Microsoft makes app store changes, Apple's apps get reviews – TechCrunch")
+
+
+[This Week in Apps: TikTok shops for advertisers, Microsoft makes app store changes, Apple's apps get reviews – TechCrunch](https://techcrunch.com/2021/10/02/this-week-in-apps-tiktok-shops-for-advertisers-microsoft-makes-app-store-changes-apples-apps-get-reviews/)
+
+
+> Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consumer spend in 2020. Consumers last year also spent 3.5 trillion minutes using apps on Android devices alone. And in the U.S., app usage surged ahead of the time spent watching live TV. Currently, the average American watches 3.7 hours of live TV per day, but now spends four hours per day on their mobile devices.
+
+
+***
+![Weekend Project -> Created 2048 Game with Pygame](https://external-preview.redd.it/iqASkqWp1JaTBYMQ3VtscLLfcfp538i20hMkxOZBk-w.jpg?auto=webp&s=d03f16d87d7b2a0d3b680755bc55a8ebf249a5bf "Weekend Project -> Created 2048 Game with Pygame")
+
+
+[Weekend Project -> Created 2048 Game with Pygame](https://www.reddit.com/r/Python/comments/pzzht5/weekend_project_created_2048_game_with_pygame/)
+
+
+> Was thinking of playing around with pygame, so started building 2048 game from scratch with only python.it has 3 menu screens & saves the score & real-time score tracking.Github Repo: 2048-Game Github
+
+
+***
+![Is the iPad Pro 12.9 2021 display significantly and noticeably better than the 2018 iPad Pro in everyday use?](https://images.macrumors.com/social/?t=2315023&v=6 "Is the iPad Pro 12.9 2021 display significantly and noticeably better than the 2018 iPad Pro in everyday use?")
+
+
+[Is the iPad Pro 12.9 2021 display significantly and noticeably better than the 2018 iPad Pro in everyday use?](https://forums.macrumors.com/threads/is-the-ipad-pro-12-9-2021-display-significantly-and-noticeably-better-than-the-2018-ipad-pro-in-everyday-use.2315023/)
+
+
+> My iPad Pro 12.9 2018 is used for gaming, watching movies/Netflix, and reading novels. I was thinking of getting the 2021 model for the higher brightness and HDR experience. Is it much better than the 2018 model in daily use? All I would be upgrading for would be the display as I have no problems with the speed and RAM of the 2018 variant.
+
+
+***
+![Google destroyed our startup by terminating our Play Developer Account](https://miro.medium.com/max/626/0*6CdE5oRON2MMjcuW.jpeg "Google destroyed our startup by terminating our Play Developer Account")
+
+
+[Google destroyed our startup by terminating our Play Developer Account](https://medium.com/@sixacegames/how-google-destroyed-our-startup-by-terminating-our-google-play-developer-account-6a8cca09ea88)
+
+
+> Just now·7 min readFirst of all, anyone reading this post, I wish health to you and your loved ones in this tough time of the pandemic.After seeing the above image it might come to your mind why would I attach such an irrelevant image. To clarify, This is a huge dustbin of google and that piece of paper includes some of the wrong fully terminated developer accounts, terminated startups, Terminated Dreams, and lives!Today I decided to talk publicly about How google destroyed our startup. We're a gaming-based startup.
+
+
