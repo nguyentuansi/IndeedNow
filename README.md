@@ -7393,3 +7393,53 @@
 > In its first monthly grievance redressal report, WhatsApp had banned 20 lakh accounts in India.
 
 
+***
+![New Story (YC S15) Is Hiring a CFO](https://newstorycharity.org/wp-content/uploads/2021/01/Hiring_NewStory_LinkedIn_Article_2021-1400x700.png "New Story (YC S15) Is Hiring a CFO")
+
+
+[New Story (YC S15) Is Hiring a CFO](https://newstorycharity.org/careers/)
+
+
+> Our Benefits Our benefits are aimed at supporting a full and healthy lifestyle in every area of life. We offer generous health, dental, and vision insurance plans, along with a monthly fitness stipend.For the first year, you'll have 12 days PTO and paid holidays. After that, you'll enjoy unlimited vacation.We've always had a flexible work from home policy. Before COVID-19, team members WFH 1-2 days per week. For now, we're 100% remote.New Story offers a 401k investment plan so you're saving money for the long-term.
+
+
+***
+![AI is the controversial future of tech whether we like it or not](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/google-assistant-routines.jpg "AI is the controversial future of tech whether we like it or not")
+
+
+[AI is the controversial future of tech whether we like it or not](https://www.androidcentral.com/ai-controversial-future-tech-whether-we-it-or-not)
+
+
+> Source: Jerry Hildenbrand / Android Central I'm what a lot of people used to call a futurist. Not the science fiction writer kind of futurist, but the guy who recognized early on that when technology really started booming in the late 20th century everything was going to change. I naively hoped that everything would change for the better, but we all have dreams when we're young that get crushed as time goes by. But tech has changed the world in almost every way, and it affects every one of us every day.
+
+
+***
+![Amazon Great Indian Festival sale: Apple Watch SE, Apple Watch 6 get massive discounts](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2021-10-02_at_5.25._1200x768-original.png "Amazon Great Indian Festival sale: Apple Watch SE, Apple Watch 6 get massive discounts")
+
+
+[Amazon Great Indian Festival sale: Apple Watch SE, Apple Watch 6 get massive discounts](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-sale-apple-watch-se-apple-watch-6-get-massive-discounts-1859999-2021-10-02)
+
+
+> Ankita Chakravarti New Delhi, Oct 02, 2021, Updated Oct 02, 2021, 5:28 PM IST Story highlights Amazon Great Indian Festival sale has gone live for the Prime members. From October 2, the non-Prime members will be able to access the deals and discounts. The deals are offered across categories including smartphones, smartwatches, laptops, soundbars, home appliances and more. Amazon Great Indian Festival sale has gone live for the Prime members. From October 2, the non-Prime members will be able to access the deals and discounts.
+
+
+***
+![What is Recursion in C?](https://external-preview.redd.it/N3jtNSUijAlAaAySqEoFhU8O3jUjRzHRcepnHEYSpKY.jpg?auto=webp&s=3a4b4197b16025b5a675cd36bdf8603b6d115957 "What is Recursion in C?")
+
+
+[What is Recursion in C?](https://www.reddit.com/r/programming/comments/pztsn4/what_is_recursion_in_c/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Bitcoin Mining using the MS-DOS laptop (C-sources included:)](https://external-preview.redd.it/kvbK7z5I36KUDegBjttxmUZEd4QSD2r4Wa9W4Zisad4.jpg?auto=webp&s=1cf576063c818728f7cf937f3694e2681325bbfe "Bitcoin Mining using the MS-DOS laptop (C-sources included:)")
+
+
+[Bitcoin Mining using the MS-DOS laptop (C-sources included:)](https://www.reddit.com/r/programming/comments/pztmbs/bitcoin_mining_using_the_msdos_laptop_csources/)
+
+
+> no comments yetBe the first to share what you think!
+
+
