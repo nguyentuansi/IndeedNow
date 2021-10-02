@@ -7493,3 +7493,53 @@
 > Digital Trends may earn a commission when you buy through links on our site. Attention gamers! There is a huge sale going on at Newegg right now. The 'Gametober' event is bringing massive markdowns on some of the industry's best gaming monitors and PCs. We've rounded up some of the best sales with the biggest discounts on top brands. Whether you're looking to upgrade your existing PC or monitor, add a second machine to your line-up, or planning an exciting gift for your child or significant other, then you need to check out these killer deals.
 
 
+***
+![It's Time for a New Old Language".](https://external-preview.redd.it/A2CUvQmHZXBG3Q8KhA-uh8TzO5lKfEHliQUTR6FUw_Q.jpg?auto=webp&s=51a0e306d490761835ecb804d14ebe50ef936965 "It's Time for a New Old Language".")
+
+
+[It's Time for a New Old Language".](https://www.reddit.com/r/programming/comments/pzxwam/its_time_for_a_new_old_language/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Our favorite new Windows 11 features: Here's how they work](https://www.cnet.com/a/img/7YqUyO2vK3lMOx0gNizAXVctNXk=/1200x630/2021/06/28/e58520bb-62ee-4d40-bb37-a43363a93b41/windows-11-update-on-laptop-cnet-july-2021.jpg "Our favorite new Windows 11 features: Here's how they work")
+
+
+[Our favorite new Windows 11 features: Here's how they work](https://www.cnet.com/tech/computing/favorite-new-windows-11-features-how-they-work/)
+
+
+> Windows 11 will bring a bunch of new features. Here's how to use them. Microsoft Windows 11 is about to start rolling out to eligible devices, complete with a fresh new design and a bunch of new features aimed at streamlining your PC and helping you be more productive. Whether you're using your device at home or in the office, these new features will make your life easier. Here are the best new Windows 11 features we've seen announced so far, and how you'll use them, based on what Microsoft has demonstrated.
+
+
+***
+![PL Notation is a Barrier to Entry.](https://external-preview.redd.it/82cgkUXiWjsRY8J7ijLgJGYbbgL7FwvFb1mDVRYjKM8.jpg?auto=webp&s=89ad0a408528ae3b64109145583785b3481e1c82 "PL Notation is a Barrier to Entry.")
+
+
+[PL Notation is a Barrier to Entry.](https://www.reddit.com/r/programming/comments/pzxs1x/pl_notation_is_a_barrier_to_entry/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Disassembling Hello World in Java](https://external-preview.redd.it/7OjljZwroJI5cXMi0UOwpEjrd89DbyDfAMdnBlN7w3w.jpg?auto=webp&s=ea80aa0e0ae9086b8d65a3ae0f7c00c12c38eb79 "Disassembling Hello World in Java")
+
+
+[Disassembling Hello World in Java](https://www.reddit.com/r/programming/comments/pzxr0j/disassembling_hello_world_in_java/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Kuo: Apple Cancels Plans to Release iPad Air With OLED Display in 2022, Plans to Stick With LCD Technology](https://images.macrumors.com/t/k8QdBn36mJKz87I9dDyF1yWiH4I=/2363x/https://images.macrumors.com/article-new/2021/06/OLED-iPad-Air.jpg "Kuo: Apple Cancels Plans to Release iPad Air With OLED Display in 2022, Plans to Stick With LCD Technology")
+
+
+[Kuo: Apple Cancels Plans to Release iPad Air With OLED Display in 2022, Plans to Stick With LCD Technology](https://www.macrumors.com/2021/10/02/kuo-apple-cancels-ipad-air-plans-2022/)
+
+
+> Monday February 8, 2021 10:18 am PST by Hartley CharltonNew MacBook Pro models are expected to arrive later this year with some of the biggest improvements to the product line to date, including some surprising changes, so now is not the best time to buy a new MacBook Pro.With major upgrades expected to key features such as the chipset, display, Touch Bar, charging, ports, and design, customers eyeing a new MacBook Pro may be better off...
+
+
