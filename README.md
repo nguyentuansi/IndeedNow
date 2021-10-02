@@ -7155,3 +7155,53 @@
 > Apple has just brought out the latest generation of its iPad mini boasting the attractive flat edge design that we've seen on the iPhone 12 and 13. The mini now comes in pink, purple, 'starlight' (silver) and 'space' grey.
 
 
+***
+![How to be a growth marketing anti-agency – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1206798989.jpg?w=764 "How to be a growth marketing anti-agency – TechCrunch")
+
+
+[How to be a growth marketing anti-agency – TechCrunch](https://techcrunch.com/2021/10/01/how-to-be-a-growth-marketing-anti-agency/)
+
+
+> 'As a nerdy kid I loved tech and was fascinated by how business works,' says Cam Sinclair, founder of Australian growth marketing firm Ammo. 'I always knew I wanted to find some way to help founders and innovators get their great ideas out into the world. After working in political campaigns, I realized that many of the skill sets overlapped with what startups need: moving fast, being lean, communicating well, being adaptable and staying flexible.' In the latest installment of our ongoing interview series with top growth experts, Sinclair tells Anna Heim that his experience in politics 'inspired me to grow an ‘anti-agency' where startup founders could genuinely feel like they had someone on their team who understood their challenges and the risks they were taking.
+
+
+***
+![Office 2021起售价149.99美元 将随Windows 11于10月5日发布](https://static.cnbetacdn.com/thumb/article/2021/1002/cb3c433042a23af.jpg "Office 2021起售价149.99美元 将随Windows 11于10月5日发布")
+
+
+[Office 2021起售价149.99美元 将随Windows 11于10月5日发布](http://www.cnbeta.com/articles/tech/1185879.preview)
+
+
+> 微软今天宣布将于 10 月 5 日推出 Office 2021，并详细介绍了其新功能和定价。Office 2021 将是微软 Office 套件的下一个独立版本，专为那些希望避免订阅版 Office 的企业和消费者设计。 根据官网博文显示，Office Home and Student 2021 的定价为 149.99 美元，包括 Word、Excel、PowerPoint、OneNote 和用于 PC 和 Mac 的 Microsoft Teams。Office Home and Business 2021 定价 249.99 美元，将包括家庭版中的所有内容以及适用于 PC 和 Mac 的 Outlook，以及为商业目的使用所有 Office 应用程序的权利。Office 2021 将包括 Microsoft 365 版本 Office 中的协作功能，包括实时共同创作，支持 OneDrive，甚至整合 Microsoft Teams。Office 2021 还将包括新的 Office 设计，该设计具有重新设计的功能区界面、圆角和中性色调，这些都与 Windows 11 的 UI 变化相匹配。微软还将在 Office 2021 中加入一些 Microsoft 365 的功能，包括现代 Excel 功能、PowerPoint 的改进、Office 应用中更好的手写输入，以及 Outlook 翻译支持。以下是Office 2021的所有新功能。Excel:● XLOOKUP函数--有助于在Excel工作表中按行查找表格或范围中的东西。● 动态数组支持--Excel中使用动态数组的新功能。● LET函数--Excel的一项功能，让你为计算结果指定名称。● XMATCH函数--这是在一个数组或单元格区域中搜索一个指定的项目，并返回该项目的相对位置。● 支持OpenDocument格式（ODF）1.
+
+
+***
+![Windows 11 compatibility: Use the PC Health Check app and check out Microsoft's device requirements](https://www.cnet.com/a/img/COrT_N0vpb6duQo7Qwy9KTYSdz4=/1200x630/2021/04/14/472126e8-b6d3-42b6-a440-faba350f0d0f/microsoft-surface-laptop-4-2021-004.jpg "Windows 11 compatibility: Use the PC Health Check app and check out Microsoft's device requirements")
+
+
+[Windows 11 compatibility: Use the PC Health Check app and check out Microsoft's device requirements](https://www.cnet.com/tech/computing/windows-11-compatibility-use-the-pc-health-check-app-and-check-out-microsoft-device-requirements/)
+
+
+> Microsoft will phase out Windows 10 support over the next few years, so it's important to make sure your device supports Windows 11. Sarah Tew/CNET Windows 11 is almost here, and the big question on a lot of PC-users' minds since Microsoft unveiled its first major operating system upgrade in six years is: Will my computer be compatible? There's been some confusion about device compatibility since Microsoft's big announcement of the updated OS earlier this summer. But the short answer is that Windows 11 should work with most PCs, according to a company blog post.
+
+
+***
+![Office 2021 release date and features revealed](https://cdn.mos.cms.futurecdn.net/BEN6AM8P3EoonLh64h8MdN-1200-80.jpg "Office 2021 release date and features revealed")
+
+
+[Office 2021 release date and features revealed](https://www.techradar.com/news/office-2021-release-date-and-features-revealed-heres-all-you-need-to-know)
+
+
+> (Image credit: Microsoft) If you prefer paying for your office software the old fashion way where you pay once for a lifetime license, you're in luck as Microsoft has revealed new details about Office 2021.Unlike Microsoft 365 which uses a software-as-as-service (SaaS) business model where users pay annually for the right to use Word, Excel, PowerPoint, OneNote and Outlook, Office 2021 is the next standalone version of the software giant's office suite.It's been three years since Microsoft released Office 2019 and for a bit, it looked as if the company wouldn't be releasing another standalone version of Office.
+
+
+***
+![Apple releases Safari 15.1 beta for macOS Big Sur and macOS Catalina](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/08/macos-big-sur-preview-safari-hero.jpg "Apple releases Safari 15.1 beta for macOS Big Sur and macOS Catalina")
+
+
+[Apple releases Safari 15.1 beta for macOS Big Sur and macOS Catalina](https://www.imore.com/apple-releases-safari-151-beta-macos-big-sur-and-macos-catalina)
+
+
+> Source: Rene Ritchie When Apple originally released Safari 15 to macOS Big Sur and macOS Catalina users earlier this month, everyone was both cautious and optimistic about its new tab redesign. Over the course of the developer and public beta periods, the company listened to a lot of customer feedback and implemented some notable changes to make the experience better. What people weren't expecting when they tried Safari 15 was for the browser to constantly crash when trying to complete seemingly mundane tasks.
+
+
