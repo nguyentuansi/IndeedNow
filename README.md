@@ -7118,3 +7118,40 @@
 > Source: Ara Wagoner / Android Central Google is rolling out two new experiments for the Chrome Dev Channel. Journeys will collect similar websites from your browser history based on similar topics. The search side panel will let you view results and web pages side-by-side. Google has announced two new experiments for the Chrome browser aimed at making it easier to navigate both new and old searches. The first new feature is the side panel, which was recently spotted in development and will allow users to view a page and the related search results simultaneously.
 
 
+***
+![Rivian's IPO filing is now public – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/IMG_2290.jpeg?w=711 "Rivian's IPO filing is now public – TechCrunch")
+
+
+[Rivian's IPO filing is now public – TechCrunch](https://techcrunch.com/2021/10/01/rivians-ipo-filing-is-now-public/)
+
+
+> Electric vehicle startup Rivian, which started deliveries of its R1T pickup truck in September, released its filing to become a publicly traded company in the United States. The S-1 document, which was filed Friday with the U.S. Securities and Exchange Commission, does not include terms for its offering. The company filed confidentially for its IPO in late August, just two months after it had closed a $2.5 billion private funding round led by Amazon's Climate Pledge Fund, D1 Capital Partners, Ford Motor and funds and accounts advised by T.
+
+
+***
+![Google pulls plug on plan for mobile banking in Pay app](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-07/google_logo_paris_1307-seo.JPG "Google pulls plug on plan for mobile banking in Pay app")
+
+
+[Google pulls plug on plan for mobile banking in Pay app](https://www.malaymail.com/news/tech-gadgets/2021/10/02/google-pulls-plug-on-plan-for-mobile-banking-in-pay-app/2010121)
+
+
+> Google said late last year that it was working with nearly a dozen credit unions and banks, including Citigroup, for inclusion in its Plex project for its Pay mobile app available on Android smartphones. — Reuters pic SAN FRANCISCO, Oct 2 ― Google has hit the brakes on a project to add mobile banking to its Pay app, even as the online financial services market for everyday investors heats up. The company has ended work on its Plex project, but continues to eye ways to integrate financial services, a spokesperson said yesterday confirming a Wall Street Journal report.
+
+
+***
+![Apple's ‘hilariously awesome' new gadget](https://content.api.news/v3/images/bin/c30bc7c715d7571ecc6e5ad2dcb37e03 "Apple's ‘hilariously awesome' new gadget")
+
+
+[Apple's ‘hilariously awesome' new gadget](https://www.news.com.au/technology/gadgets/tablets/ipad-mini-review-apples-hilariously-awesome-new-gadget/news-story/93ca2049a87ace8f8efe09d922090ca5)
+
+
+> It's a miniature version of an Apple favourite but its small size hides some big features and serious battery life.Don't miss out on the headlines from Tablets. Followed categories will be added to My News.Apple has just brought out the latest generation of its iPad mini boasting the attractive flat edge design that we've seen on the iPhone 12 and 13. The mini now comes in pink, purple, 'starlight' (silver) and 'space' grey. Unboxing Inside the box you're presented with the iPad mini in a protective wrap, documentation including the iconic Apple stickers, a USB-C to USB-C charging cable and a wall plug power brick.
+
+
+***
+[Apple's ‘hilariously awesome' new gadget](https://www.themercury.com.au/technology/gadgets/ipad-mini-review-apples-hilariously-awesome-new-gadget/news-story/93ca2049a87ace8f8efe09d922090ca5)
+
+
+> Apple has just brought out the latest generation of its iPad mini boasting the attractive flat edge design that we've seen on the iPhone 12 and 13. The mini now comes in pink, purple, 'starlight' (silver) and 'space' grey.
+
+
