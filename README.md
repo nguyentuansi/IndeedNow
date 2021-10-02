@@ -7443,3 +7443,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Chelsea vs Southampton live stream: How to watch Premier League online from anywhere now](https://cdn.mos.cms.futurecdn.net/KinCn24wtfqZdqCqWDY3KD-1200-80.jpg "Chelsea vs Southampton live stream: How to watch Premier League online from anywhere now")
+
+
+[Chelsea vs Southampton live stream: How to watch Premier League online from anywhere now](https://www.techradar.com/news/chelsea-vs-southampton-live-stream-how-to-watch-2021-premier-league-online-from-anywhere)
+
+
+> (Image credit: Hanafi Latif / Shutterstock.com) Having looked seemingly invincible in the opening weeks of the new season, Thomas Tuchel will be determined to see his Chelsea side get back to winning ways this afternoon after two stinging defeats. Read on to find out how to watch Chelsea vs Southampton online and get a Premier League live stream, no matter where you are in the world right now.The Blues went down 1-0 at home to Man City last weekend in what could prove to be a crucial match in the Premier League title race, and followed that up with an equally disappointing loss to Juventus in midweek in the Champions League.
+
+
+***
+![Convex Hull](https://external-preview.redd.it/_0WTgJSuImHJ3TnzZjMNXtPzU4E5OMEGhBWA8L_K22c.jpg?auto=webp&s=873cd7855e722a5e841f537775c504753d8d7839 "Convex Hull")
+
+
+[Convex Hull](https://www.reddit.com/r/programming/comments/pzvl2k/convex_hull_python_football_data_analysis_and/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Audio-technica AT2040 review: Go professional with your podcasts](https://images.indianexpress.com/2021/10/Audio-technica-AT2040.jpg "Audio-technica AT2040 review: Go professional with your podcasts")
+
+
+[Audio-technica AT2040 review: Go professional with your podcasts](https://indianexpress.com/article/technology/tech-reviews/audio-technica-at2040-review-7548210/)
+
+
+> I am a recent convert to podcasts. But the medium has really gripped me and most of my listening times, while on drives and walks, has shifted to podcasts. I also host a weekly podcast on technology which has seen me progress, at least when it comes to the technology I use. What started as voice memo recordings during the lockdowns when we had no access to the studio has now moved to the very convenient JBL CSUM10 USB microphone. This is why I wanted to check out what it meant to move one step further up to a professional microphone like the audio-technica AT2040.
+
+
+***
+![PS5 restock Twitter tracker with Target, Best Buy and GameStop dates and times](https://cdn.mos.cms.futurecdn.net/oLLTSgUQg2RpkqSu9z8aek-1200-80.jpg "PS5 restock Twitter tracker with Target, Best Buy and GameStop dates and times")
+
+
+[PS5 restock Twitter tracker with Target, Best Buy and GameStop dates and times](https://www.techradar.com/news/ps5-restock-in-us-september-2021)
+
+
+> Update: We're tracking PS5 restock dates live in the US and to get alerts, follow our PS5 restock Twitter tracker Matt Swider – follow and turn on notifications. You'll get push notifications when we find PS5 in stock, like this one below, from stores in the US like Target, Best Buy, GameStop and Walmart.(Image credit: Twitter / Matt Swider)The big four have had the most inventory (but they're always sold out in a few minutes), while Sony Direct, the official store of the PlayStation brand, has become the most consistent at MSRP.
+
+
+***
+![Newegg is having a MASSIVE SALE — gaming monitors, gaming PC deals](https://icdn.digitaltrends.com/image/digitaltrends/ibuypower-gaming-desktop.jpg "Newegg is having a MASSIVE SALE — gaming monitors, gaming PC deals")
+
+
+[Newegg is having a MASSIVE SALE — gaming monitors, gaming PC deals](https://www.digitaltrends.com/dtdeals/newegg-gaming-monitor-gaming-pc-deal-newegg-october-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Attention gamers! There is a huge sale going on at Newegg right now. The 'Gametober' event is bringing massive markdowns on some of the industry's best gaming monitors and PCs. We've rounded up some of the best sales with the biggest discounts on top brands. Whether you're looking to upgrade your existing PC or monitor, add a second machine to your line-up, or planning an exciting gift for your child or significant other, then you need to check out these killer deals.
+
+
