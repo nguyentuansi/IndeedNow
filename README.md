@@ -7302,3 +7302,50 @@
 > Bitcoin rose on Friday to its highest level since around mid-September, bolstered in part by seasonal factors as well as supportive comments overall from US Federal Reserve Chairman Jerome Powell on Thursday.In testimony to Congress, Powell said the Fed had no intention of banning cryptocurrencies, in response to a question from House Representative Ted Budd.Some analysts also said October is typically a bullish month for digital assets, with September historically a bearish period for the sector.
 
 
+***
+![Sentiment analysis backend developed with django](https://external-preview.redd.it/lYInGAw5D11EK3IdKeYtZb9XwRyAfY_Acj3fXBEZylc.jpg?auto=webp&s=5172d06ba162bd4278c03d7017ff8699fd2fae6c "Sentiment analysis backend developed with django")
+
+
+[Sentiment analysis backend developed with django](https://www.reddit.com/r/Python/comments/pzqzfg/sentiment_analysis_backend_developed_with_django/)
+
+
+> I have developed a sentiment analysis backend application with django rest and NLTK library. Please do check out! https://github.com/Aaq007/Twitter-Sentiment-Analysis-API
+
+
+***
+![Amazon Great Indian Festival: Top smartphone deals under Rs 30,000; check out details](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/amazon_2-sixteen_nine.jpg "Amazon Great Indian Festival: Top smartphone deals under Rs 30,000; check out details")
+
+
+[Amazon Great Indian Festival: Top smartphone deals under Rs 30,000; check out details](https://www.businesstoday.in/technology/news/story/amazon-great-indian-festival-top-smartphone-deals-under-rs-30000-check-out-details-308280-2021-10-02)
+
+
+> The Amazon Great Indian Festival is set to begin on October 3 for non-Prime users. The month-long event will have a slew of mid-range smartphones being sold at discounted prices. Currently, the sub Rs 30,000 smartphone category has some exciting products under it. These mid-range smartphones offer an overall better experience at a reasonable price than devices in the affordable category. Smartphone makers don't have to compromise much on including features when it comes to manufacturing mid-range devices compared to those in the affordable segment.
+
+
+***
+[The Basics of Apache Kafka](https://www.reddit.com/r/programming/comments/pzqrvu/the_basics_of_apache_kafka/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![The best cheap Google Pixel 5 deals for September 2021](https://icdn.digitaltrends.com/image/digitaltrends/google-pixel-5-front-625x417-c-n.jpg "The best cheap Google Pixel 5 deals for September 2021")
+
+
+[The best cheap Google Pixel 5 deals for September 2021](https://www.digitaltrends.com/dtdeals/best-google-pixel-5-deals/)
+
+
+> Finding Google Pixel 5 deals or even one at list price is difficult. If you are already a Google Pixel fan familiar with Google Pixel smartphone deals, you may have been waiting for someone to start tracking the best cheap Google Pixel 5 sales. The Google Pixel 5 is extremely hard to find, especially if you are looking for a CDMA version to use with Verizon, U.S. Cellular, or other wireless carriers that do not use GSM SIM cards. If your goal is to find the best Google Pixel 5 deals, your best bet at this time may be to wait for the next Google Pixel model rumored to launch this fall.
+
+
+***
+![The best cheap Google Pixel 5 deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/google-pixel-5-front-625x417-c-n.jpg "The best cheap Google Pixel 5 deals for October 2021")
+
+
+[The best cheap Google Pixel 5 deals for October 2021](https://www.digitaltrends.com/dtdeals/best-google-pixel-5-deals/)
+
+
+> Finding Google Pixel 5 deals or even one at list price is difficult. If you are already a Google Pixel fan familiar with Google Pixel smartphone deals, you may have been waiting for someone to start tracking the best cheap Google Pixel 5 sales. The Google Pixel 5 is extremely hard to find, especially if you are looking for a CDMA version to use with Verizon, U.S. Cellular, or other wireless carriers that do not use GSM SIM cards. If your goal is to find the best Google Pixel 5 deals, your best bet at this time may be to wait for the next Google Pixel model rumored to launch this fall.
+
+
