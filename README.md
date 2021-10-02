@@ -7255,3 +7255,50 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+[The new tab design in Safari 15 for macOS makes usability worse and shows a complete disregard for the familiarity users had with Safari's previous tab design (John Gruber/Daring Fireball)](http://www.techmeme.com/211002/p4#a211002p4)
+
+
+> John Gruber / Daring Fireball: The new tab design in Safari 15 for macOS makes usability worse and shows a complete disregard for the familiarity users had with Safari's previous tab design — Safari 15 on iPad suffers similarly, but it's the Mac version I'll concentrate on here. — The most controversial Mac Safari changes shown …
+
+
+***
+![Bloom Filters Data Structure For System Design](https://external-preview.redd.it/B5JipX3tiModWY7tBkQgxYQiPuOQRWBf9IKTDVofeSc.jpg?auto=webp&s=99a81e88b6ec78ed8ef21ea68444522c1a792748 "Bloom Filters Data Structure For System Design")
+
+
+[Bloom Filters Data Structure For System Design](https://www.reddit.com/r/programming/comments/pzper5/bloom_filters_data_structure_for_system_design/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Cryptocurrency From 6,000 Customers Stolen by Hackers, Says Coinbase](https://i.gadgets360cdn.com/large/coinbase_reuters_1633152995969.jpg "Cryptocurrency From 6,000 Customers Stolen by Hackers, Says Coinbase")
+
+
+[Cryptocurrency From 6,000 Customers Stolen by Hackers, Says Coinbase](https://gadgets.ndtv.com/cryptocurrency/news/coinbase-hack-cryptocurrency-stolen-6000-customers-hackers-sms-account-recovery-flaw-2561180)
+
+
+> Hackers stole from the accounts of at least 6,000 customers of Coinbase Global Inc, according to a breach notification letter sent by the cryptocurrency exchange to affected customers.The hack took place between March and May 20 of this year, according to a copy of the letter posted on the website of California's Attorney General.Unauthorized third parties exploited a flaw in the company's SMS account recovery process to gain access to the accounts, and transfer funds to crypto wallets not associated with Coinbase, the company said.
+
+
+***
+![Xiaomi's Diwali with Mi sale to start from October 3: Here are the details](https://images.indianexpress.com/2021/10/Redmi-Note-10S-FI-1.jpg "Xiaomi's Diwali with Mi sale to start from October 3: Here are the details")
+
+
+[Xiaomi's Diwali with Mi sale to start from October 3: Here are the details](https://indianexpress.com/article/technology/techook/xiaomis-diwali-with-mi-sale-date-october-3-discounts-on-redmi-note-10-mi-11x-mi-tv-mi-band-5-and-more-7546146/)
+
+
+> Xiaomi's 'Diwali With Mi' will start from October 3 till October 7, and the sale will be live on the company's official website, which is Mi.com, and retail partners. Xiaomi says that Mi VIP Club members will get early access on October 1 starting at 12:00 midnight. Here's a look at the Xiaomi offers as part of the ‘Diwali with Mi' sale. Keep in mind that many of the prices listed below include the discount one will get if one uses an SBI credit card. Users can avail instant discounts coupon of up to Rs 5000, coupled with an additional exchange bump-up offer of Rs 3500 on Mi.
+
+
+***
+![Bitcoin Price Highest in Nearly Two Weeks](https://i.gadgets360cdn.com/large/bitcoin_colours_reuters_1611921415626.jpg "Bitcoin Price Highest in Nearly Two Weeks")
+
+
+[Bitcoin Price Highest in Nearly Two Weeks](https://gadgets.ndtv.com/cryptocurrency/news/bitcoin-price-increase-highest-two-weeks-cryptocurrency-market-us-federal-reserve-chairman-jerome-powell-2561165)
+
+
+> Bitcoin rose on Friday to its highest level since around mid-September, bolstered in part by seasonal factors as well as supportive comments overall from US Federal Reserve Chairman Jerome Powell on Thursday.In testimony to Congress, Powell said the Fed had no intention of banning cryptocurrencies, in response to a question from House Representative Ted Budd.Some analysts also said October is typically a bullish month for digital assets, with September historically a bearish period for the sector.
+
+
