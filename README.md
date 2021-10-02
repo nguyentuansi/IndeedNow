@@ -7637,3 +7637,53 @@
 > 0 comments100% Upvotedno comments yetBe the first to share what you think!
 
 
+***
+![Australia slides in digital rankings](https://images.perthnow.com.au/publication/C-4134458/a712d2c9c69105db47b81378f54ce4ceba0bacd7-16x9-x0y0w1280h720.jpg?imwidth=1200 "Australia slides in digital rankings")
+
+
+[Australia slides in digital rankings](https://www.perthnow.com.au/technology/telecommunications/australia-slides-in-digital-rankings-c-4134458)
+
+
+> Australia's digital competitiveness is on the slide.The nation has slipped five places to 20th among 64 countries ranked by the Swiss-based World Competitiveness Center.Only Poland and Bulgaria recorded bigger falls over the past 12 months.The list takes into account the capacity and readiness of economies to adopt and explore digital technologies as a key driver for economic transformation in business, government and wider society.Australia's tumble is its third in a row. The United States topped the rankings for a fourth year running, while China, which has surged 15 places in that time, jumped one spot to 15th.
+
+
+***
+![Learn how to remove the background using AI, like that super trending app, but powered by Python](https://external-preview.redd.it/NHhztgNobOKbNVhdZOdpyd-C537nIPYvdf_Xy5K1W9Q.jpg?auto=webp&s=d7e6e80af5d49238f4417e48a546c63ab122c1fb "Learn how to remove the background using AI, like that super trending app, but powered by Python")
+
+
+[Learn how to remove the background using AI, like that super trending app, but powered by Python](https://www.reddit.com/r/programming/comments/q04f5q/learn_how_to_remove_the_background_using_ai_like/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Having an issue with your Apple Card? You're not alone [Update]](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/08/apple-card-hero_0.jpeg "Having an issue with your Apple Card? You're not alone [Update]")
+
+
+[Having an issue with your Apple Card? You're not alone [Update]](https://www.imore.com/having-issue-your-apple-card-youre-not-alone)
+
+
+> Source: iMore Apple Card is currently experiencing an ongoing issue. Apple has confirmed the issue on its System Status page. The issue is affecting all sorts of actions you would take with your card. Update, October 2 (5:22 pm ET): Apple says that it has resolved the issues affecting Apple Card users. Apple Card is having all kinds of issues today. In an update to the company's System Status page Apple has confirmed that Apple Card, its credit card, is currently experiencing a range of issues that are impacting its users.
+
+
+***
+![Team uses AI to complete Beethoven's unfinished masterpiece](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400 "Team uses AI to complete Beethoven's unfinished masterpiece")
+
+
+[Team uses AI to complete Beethoven's unfinished masterpiece](https://www.npr.org/2021/10/02/1042742330/team-uses-ai-to-complete-beethovens-unfinished-masterpiece)
+
+
+> A group of musicians and scientists have used artificial intelligence to complete one of the great what-ifs in classical music: Ludwig van Beethoven's unfinished 10th symphony.
+
+
+***
+![How to view old live photos on newer OSes](https://images.macrumors.com/social/?t=2315056&v=6 "How to view old live photos on newer OSes")
+
+
+[How to view old live photos on newer OSes](https://forums.macrumors.com/threads/how-to-view-old-live-photos-on-newer-oses.2315056/)
+
+
+> I have a number of live photos taken on an iPhone 6s, stored in the Photos app of a Mac running 10.11.6. They work fine there. I have migrated that photo library to a newer Mac running 10.13.6, and on that Mac the photos have lost their live-ness. They just display as an image. If I find the actual file of one of those images in the library and move it to a 10.14.x machine, it's not live there either. But if I then move it back to the 10.11.6 Mac, it's live. Newer live photos taken on an iPhone X display live correctly on the newer Macs.
+
+
