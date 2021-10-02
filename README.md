@@ -7349,3 +7349,47 @@
 > Finding Google Pixel 5 deals or even one at list price is difficult. If you are already a Google Pixel fan familiar with Google Pixel smartphone deals, you may have been waiting for someone to start tracking the best cheap Google Pixel 5 sales. The Google Pixel 5 is extremely hard to find, especially if you are looking for a CDMA version to use with Verizon, U.S. Cellular, or other wireless carriers that do not use GSM SIM cards. If your goal is to find the best Google Pixel 5 deals, your best bet at this time may be to wait for the next Google Pixel model rumored to launch this fall.
 
 
+***
+![What kind of ExpressVPN free trial is available and how to get it](https://cdn.mos.cms.futurecdn.net/2ZK6EX5QVVcrnwHemy2kyN-1200-80.jpg "What kind of ExpressVPN free trial is available and how to get it")
+
+
+[What kind of ExpressVPN free trial is available and how to get it](https://www.techradar.com/vpn/expressvpn-free-trial)
+
+
+> (Image credit: ExpressVPN) For those after the very best VPN, time and time again ExpressVPN tops the list as the most reliable, feature-packed, secure VPN service on the market. But it still has few drawbacks - the main one being that it's not the cheapest provider around.That said, it's certainly not the most expensive either, but it would be fair to assume you'd want to check it out before you well and truly make the investment.That's why we're here to fully explain any kind of ExpressVPN free trial available to you, giving you the chance to take it out for a spin and see if meets all your requirements.
+
+
+***
+[What's your strategy on refactoring?](https://www.reddit.com/r/Python/comments/pzscwb/whats_your_strategy_on_refactoring/)
+
+
+> So I joined a new company and it's my first senior dev - like position. I will have ownership of our code (~20k LOC python, mssql, kafka) and that means I will also have the chance to improve the one or other thing.The current state is not good but could be worse. You feel that various externals and other people had been involved through varying coding styles here and there and I would like to see how to unify this at least a bit. The by far largest part was done from a big fan of ‘simple data types, functions only, lots of seven layer deep ‘cache = func(cache, x, y, …)' like structures that make it really hard to reason about the current state during execution and not so many tests but there are some of course.
+
+
+***
+![Moto Tab G20 release date, price, features, specs and news](https://cdn.mos.cms.futurecdn.net/HPgJPBfM5NKPDMnLNUqhbc-1200-80.jpg "Moto Tab G20 release date, price, features, specs and news")
+
+
+[Moto Tab G20 release date, price, features, specs and news](https://www.techradar.com/news/moto-tab-g20)
+
+
+> (Image credit: Motorola) If you're in the market for a cheap Android tablet then Motorola has a new option you might want to consider, dubbed the Moto Tab G20.This slate has so far only been launched in India, but a wider rollout is certainly possible, so don't be surprised if it comes to the US, UK or elsewhere soon.While the specs don't excite, it looks to have the basics covered, being essentially a slightly modified version of the Lenovo Tab M8, and thanks to its 8-inch screen it could also be a strong option for anyone after a relatively compact, portable slate.
+
+
+***
+![iPhone 14 could get 2TB storage option, claims report](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/iphone-14.jpg "iPhone 14 could get 2TB storage option, claims report")
+
+
+[iPhone 14 could get 2TB storage option, claims report](https://www.imore.com/iphone-14-could-get-2tb-storage-option-claims-report)
+
+
+> Source: Jon Prosser x RendersByIan A new report claims the iPhone 14, expected to replace the iPhone 13 as Apple's best iPhone next year, will get a 2TB storage option. According to MyDrivers: The iPhone 13 series is on the market, and this time it's time to talk about the next generation of iPhones - next year's iPhone 14 will be upgraded with up to 2TB of capacity, but QLC flash memory - Translated The report says Apple will continue to increase the capacity of iPhone storage, after adding a 1TB option to the iPhone 13 Pro and Pro Max this year.
+
+
+***
+[Following New IT Rules, WhatsApp Banned Another 2 Million Indian Accounts in Aug](https://www.thequint.com/tech-and-auto/tech-news/whatsapp-ban-2-million-accounts-august-new-it-rules)
+
+
+> In its first monthly grievance redressal report, WhatsApp had banned 20 lakh accounts in India.
+
+
