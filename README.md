@@ -7205,3 +7205,53 @@
 > Source: Rene Ritchie When Apple originally released Safari 15 to macOS Big Sur and macOS Catalina users earlier this month, everyone was both cautious and optimistic about its new tab redesign. Over the course of the developer and public beta periods, the company listened to a lot of customer feedback and implemented some notable changes to make the experience better. What people weren't expecting when they tried Safari 15 was for the browser to constantly crash when trying to complete seemingly mundane tasks.
 
 
+***
+![Trump asks Florida judge to force Twitter to restart his account – Bloomberg News](https://assets2.rappler.com/2021/07/donald-trump-sarasota-florida-rally-july-3-2021-reuters-1633146172926.jpeg "Trump asks Florida judge to force Twitter to restart his account – Bloomberg News")
+
+
+[Trump asks Florida judge to force Twitter to restart his account – Bloomberg News](https://www.rappler.com/technology/social-media/trump-asks-florida-judge-to-force-twitter-to-restart-his-account)
+
+
+> Former US president Donald Trump asked a federal judge in Florida to force Twitter to reinstate his account, Bloomberg News reported late on Friday, October 1. Twitter declined to comment. Trump's representatives did not immediately respond to Reuters request for comment outside business hours. Trump lost his social media megaphone this year after the companies said he violated their policies against glorifying violence. Hundreds of his supporters launched a deadly assault on the U.S. Capitol on Jan.
+
+
+***
+![Apple's iPhone privacy changes signal desire to enter advertising: RBC](https://images.indianexpress.com/2021/09/iphone-13-series.jpg "Apple's iPhone privacy changes signal desire to enter advertising: RBC")
+
+
+[Apple's iPhone privacy changes signal desire to enter advertising: RBC](https://indianexpress.com/article/technology/tech-news-technology/apples-iphone-privacy-changes-signal-desire-to-enter-advertising-rbc-7547328/)
+
+
+> Apple's recent privacy changes for iPhones are signs it may look to tap into an internet advertising market dominated by Facebook and Google, an analyst at RBC Capital Markets said. Since an April software update, most iPhones have allowed users to decide which apps can track user activity – crucial information that helps companies like Facebook deliver tailored ads to users and measure their impact. The feature, which Apple calls App Tracking Transparency (ATT), has worried many digital advertising and mobile gaming companies including Facebook, which says it has made it more expensive and difficult for brands to advertise on its platforms.
+
+
+***
+![Watch out](https://cdn.mos.cms.futurecdn.net/cfzUE7JYrypEZYk4qyDd2e-1200-80.jpg "Watch out")
+
+
+[Watch out](https://www.techradar.com/news/watch-out-that-android-security-update-may-be-malware)
+
+
+> (Image credit: Shutterstock) The creators of FluBot have launched a new campaign that uses fake Android security update warnings to trick potential victims into installing the malware on their devices.In a new blog post, New Zealand's computer emergency response team Cert NZ has warned users that the message on the malware's new installation page is actually a lure designed to instill a sense of urgency that tricks users into installing FluBot on their own devices.The new FluBot installation page, that users are led to after receiving fake messages about pending or missed package deliveries or even stolen photos uploaded online, informs them that their devices are infected with FluBot which is a form of Android spyware used to steal financial login and password data from their devices.
+
+
+***
+![Amazon Great Indian Festival: Top smartphone deals under Rs 30,000](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/oneplus_nord_ce_1-original.jpg "Amazon Great Indian Festival: Top smartphone deals under Rs 30,000")
+
+
+[Amazon Great Indian Festival: Top smartphone deals under Rs 30,000](https://www.indiatoday.in/technology/news/story/-amazon-great-indian-festival-top-smartphone-deals-under-rs-30-000-1859836-2021-10-02)
+
+
+> Story highlights Amazon Great Indian Festival starts tomorrow, i.e. October 2, for Prime members For non-Prime members, it will begin a day later, on October 3 Here are the top smartphone deals under Rs 30,000 The sub 30,000 smartphone category has some exciting offerings. These smartphones tend to offer a better overall experience than affordable devices. And that's mostly because lesser compromises have to be made while making a mid-range device. So, if you are planning to get a mid-range device, this might be just the right time.
+
+
+***
+![Where are the Iwatch series 6 stainless steel?](https://images.macrumors.com/social/?t=2314930&v=6 "Where are the Iwatch series 6 stainless steel?")
+
+
+[Where are the Iwatch series 6 stainless steel?](https://forums.macrumors.com/threads/where-are-the-iwatch-series-6-stainless-steel.2314930/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
