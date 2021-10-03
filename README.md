@@ -7878,3 +7878,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Why UCT Online High School matters for SA education system](https://image-prod.iol.co.za/resize/650x366/UCT-says-interest-in-its-R2-000-a-month-online-high-school-has-exceeded-expectations-File-photo?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/a78ad828-8789-53f8-ba8f-f5826eefa5a3&operation=CROP&offset=12x0&resize=309x174 "Why UCT Online High School matters for SA education system")
+
+
+[Why UCT Online High School matters for SA education system](https://www.iol.co.za/technology/why-uct-online-high-school-matters-for-sa-education-system-0b4545b2-f683-4e0f-8798-7929067ede22)
+
+
+> UCT says interest in its R2,000 a month online high school has exceeded expectations. File photo.Share this article:YOU don't have to be a rocket scientist to know that there's something deeply wrong with the South African education system.As a result of this, there are numerous initiatives that are designed to fix it. One of them is the UCT Online High School, modelled after Stanford University Online High school.At a surface level, it might be difficult to understand how a technology-driven institution can form part of solving an education challenge in a country with a digital divide challenge.
+
+
+***
+![The current fuel constraint has sparked a 'surge in interest' in electric vehicles.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "The current fuel constraint has sparked a 'surge in interest' in electric vehicles.")
+
+
+[The current fuel constraint has sparked a 'surge in interest' in electric vehicles.](https://en.brinkwire.com/technology/the-current-fuel-constraint-has-sparked-a-surge-in-interest-in-electric-vehicles/)
+
+
+> The current fuel constraint has sparked a 'surge in interest' in electric vehicles. According to experts, the fuel scarcity problem that has rocked petrol stations across the UK is encouraging drivers to switch to electric vehicles. Since the petrol and diesel fuel crisis began last week, experts at Electifying.com have noted a 'spike in interest.' Electric vehicle sales consultants reported a 75 percent rise in online demand, with the new Kia EV6 being the most popular model. The rising demand for electric automobiles, according to Gina Buckley, creator of Electrifying.
+
+
+***
+![Petrol crisis: Here are five easy ways to extend the life of your fuel and save money.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Petrol crisis: Here are five easy ways to extend the life of your fuel and save money.")
+
+
+[Petrol crisis: Here are five easy ways to extend the life of your fuel and save money.](https://en.brinkwire.com/technology/petrol-crisis-here-are-five-easy-ways-to-extend-the-life-of-your-fuel-and-save-money/)
+
+
+> Petrol crisis: Here are five easy ways to extend the life of your fuel and save money. PETROL sales have increased in recent days as a result of 'panic buying' due to a scarcity of HGV drivers. How can you extend the life of your fuel? Britons who are 'panic buying' petrol have been encouraged to resist the temptation. Last week, a rush to the pumps began as a result of a scarcity of HGV drivers, which made regular gasoline deliveries problematic. As a result, estimates claim that up to 90% of garages were unable to keep up with demand over the weekend, leaving customers without fuel for extended periods of time.
+
+
+***
+![Looking for a New Air Purifier? Then Don't Miss These Deals](https://i.gadgets360cdn.com/large/dyson_tp07_screenshot_dyson_1633246282841.jpg "Looking for a New Air Purifier? Then Don't Miss These Deals")
+
+
+[Looking for a New Air Purifier? Then Don't Miss These Deals](https://gadgets.ndtv.com/smart-home/features/best-air-purifiers-amazon-great-indian-festival-2021-sale-deals-offers-2562128)
+
+
+> With the Amazon Great Indian Festival you can get great offers and discounts on air purifiers right now, and we've picked out the best ones that you should be looking at. Air Purifiers are now a necessity and not a luxury specially if you live in cities where winter brings in a fresh wave of air quality issues, which intensify over the next few months. Of course, with a huge number of air purifiers on the market, finding the right ones to buy is tricky and with the deals on offer it can be even harder to pick.
+
+
+***
+![2021 redesigned MBPs](https://images.macrumors.com/social/?t=2315107&v=6 "2021 redesigned MBPs")
+
+
+[2021 redesigned MBPs](https://forums.macrumors.com/threads/2021-redesigned-mbps-possibility-of-it-not-launching-in-2021.2315107/)
+
+
+> Sep 1, 2010 1,959 1,906 California, USA Hi everyone, It being the weekend and having some spare time to think about things, got me in the following mindset: The September event came and went and right before the event, there was just so much speculation and rumors that the AirPods Gen 3 would be shown off and a release date would be announced. Apple, as we know, didn't announce the existence of this product and we still don't know when this item will launch. It could still be in 2021 or it could be in 2022.
+
+
