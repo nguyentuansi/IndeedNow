@@ -8219,3 +8219,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Windows 10 support will end in 2025. Here's what it means for your PC today](https://www.cnet.com/a/img/2bqc41RDj1IyOhO4EVuVo4vs61A=/1200x630/2020/07/10/93496c91-5a9c-46cc-bb0c-77a3a9fe8be7/microsoft-logo-laptop-3802.jpg "Windows 10 support will end in 2025. Here's what it means for your PC today")
+
+
+[Windows 10 support will end in 2025. Here's what it means for your PC today](https://www.cnet.com/tech/computing/microsoft-will-stop-windows-10-support-in-2025-heres-what-to-know-before-windows-11-rolls-out/)
+
+
+> Windows 10 support will still be available for four years. Angela Lang/CNET Windows 10 will join Windows 7 in the graveyard of Microsoft operating systems past. With Microsoft making Windows 11 a free upgrade, the tech juggernaut will pull the plug on Windows 10 support on Oct. 14, 2025. That gives you years to prepare as Microsoft slowly moves its billion-plus Windows users to Windows 11. The company's new OS will gradually roll out to compatible Windows devices between Oct. 5 and mid-2022. Windows 11 will have a brand-new design that borrows a Mac-like look, and will include updated features.
+
+
+***
+![MacBook Pro inventory scarce amid rumors of imminent refresh](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/16-inch-m1x-macbook-pro-concept.jpg "MacBook Pro inventory scarce amid rumors of imminent refresh")
+
+
+[MacBook Pro inventory scarce amid rumors of imminent refresh](https://www.imore.com/macbook-pro-inventory-scarce-amid-rumors-imminent-refresh)
+
+
+> Source: Antonio De Rosa (MacBook concept) In-store inventory of the 16-inch MacBook Pro is lacking right now. As spotted by YouTuber Luke Miani, inventory of the current generation of the 16-inch MacBook Pro is scarce in Apple Stores. Upon checking the Apple Store website, he realized that all of the retail stores around him had no stock of the laptop. There are 12 Apple Stores within a 30 mile radius of me and not one of them has a single 16 inch MacBook Pro in stock... coincidence? I think not pic.
+
+
+***
+![A decade after Jobs' death, has Apple traded magic for profit?](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/71/2f/d227ff7baaa5a9c01f021bfd0001b514ac9b/712fd227ff7baaa5a9c0.jpg "A decade after Jobs' death, has Apple traded magic for profit?")
+
+
+[A decade after Jobs' death, has Apple traded magic for profit?](https://japantoday.com/category/tech/decade-after-jobs'-death-has-apple-traded-magic-for-profit)
+
+
+> Ten years after Apple founder Steve Jobs' death, the company is a profit machine but some say it has lost its creative magic By Julie JAMMOT Ten years after Apple founder Steve Jobs' death, the firm has grown into a colossus of devices and services that is the world's most valuable company, but the tech legend's diehard fans lament its lost aura of revolution. "Apple doesn't innovate anymore" or "Steve Jobs is turning in his grave" are the type of disillusioned tweets that pop up especially during product launches led by Tim Cook, who took Apple's reins in August 2011.
+
+
+***
+![Aiwa ESBT-460 Neckless Earphone: It's time to make music, again](https://images.financialexpress.com/2021/10/1-27.jpg "Aiwa ESBT-460 Neckless Earphone: It's time to make music, again")
+
+
+[Aiwa ESBT-460 Neckless Earphone: It's time to make music, again](https://www.financialexpress.com/industry/technology/aiwa-esbt-460-neckless-earphone-its-time-to-make-music-again/2342133/)
+
+
+> By: Vikram Chaudhary | October 04, 2021 3:15 AMComing to the sound it reproduces, the bass is deep, the treble is soft on the eardrums, and there is absolutely no noise, just music.About 20 years ago, in the world of music systems in particular, Sony was aspirational but not really affordable for the Indian middle class. Aiwa, on the other hand, was both aspirational and affordable. But in the years that followed, Aiwa, its then-parent Sony, and other Japanese brands such as Panasonic lost out to Apple, Samsung and others.
+
+
+***
+![Google Pay's disastrous year continues, promised bank account feature is dead](https://external-preview.redd.it/zcHvszvUP8TW_UQVSBeE2Tkk5w01kzxcypV6MSb9XvY.jpg?auto=webp&s=dfb7caaa2b8fd8d7be4eac40741958c25bc608e8 "Google Pay's disastrous year continues, promised bank account feature is dead")
+
+
+[Google Pay's disastrous year continues, promised bank account feature is dead](https://www.reddit.com/r/technology/comments/q0rbu2/google_pays_disastrous_year_continues_promised/)
+
+
+> no comments yetBe the first to share what you think!
+
+
