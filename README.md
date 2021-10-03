@@ -7834,3 +7834,47 @@
 > Contact Steve Alexander at steve.j.alexander@gmail.com. Please include a full name, city and phone number.
 
 
+***
+![Rivian expanding capabilities with in-house battery cells manufacturing segment](https://techstory.in/wp-content/uploads/2021/10/rivian-ipo-electric-vehicles-trucks.jpg "Rivian expanding capabilities with in-house battery cells manufacturing segment")
+
+
+[Rivian expanding capabilities with in-house battery cells manufacturing segment](https://techstory.in/rivian-in-house-battery-cells-manufacturing/)
+
+
+> EV makers Rivian started their first electric pickup truck deliveries last month. As they plan for the upcoming fleet, they announced the battery cells in-house manufacturing. Rivian included the details in its public offering filling in the US on Friday. Currently, the company receives batteries from South Korea's Samsung SDI.Image credits- Fox BusinessBacked by Amazon and Ford, the company is progressing both its production and technology. In the filing which included battery cells in-house, it stated that it would 'complement third-party cell procurement which will provide supply continuity and support our anticipated growth.
+
+
+***
+![What is that gimbal or 'handle' in the commercial?](https://forums.macrumors.com/attachments/screen-shot-2021-10-02-at-10-27-08-pm-png.1855547/ "What is that gimbal or 'handle' in the commercial?")
+
+
+[What is that gimbal or 'handle' in the commercial?](https://forums.macrumors.com/threads/what-is-that-gimbal-or-handle-in-the-commercial.2315101/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+[Can we post memes?](https://www.reddit.com/r/Python/comments/q0bq4j/can_we_post_memes/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[FinTech Market 2021-2028](https://soccernurds.com/uncategorized/5981580/fintech-market-2021-2028-growth-analysis-with-top-key-players-lufax-ant-financial-zhongan-qudian-sofi-xero-and-adyen/)
+
+
+> The research report delivers an extensive analysis of the global FinTech market, including market share, scale, growth prospects, and dynamics. The study requires a business evaluation based on the report's actual projections. A FinTech in market analysis is a large collection of relevant discoveries pertaining to the industry's distinct competitors. The research also looks at a variety of industries where the global FinTech business has emerged.A global FinTech business study includes a detailed contextual overview, verified projections, and historical evidence of FinTech market share.
+
+
+***
+![Rustyvibes is a CLI tool made in rust to play mechanical keyboard sound effects on every key press](https://external-preview.redd.it/eld1ZtKHPzXT0oh2oX0g3kCS2iz17dkZPgJyCfgglaw.jpg?auto=webp&s=08e40225fa5dbf3f768fd4ad1d94fae1973a2713 "Rustyvibes is a CLI tool made in rust to play mechanical keyboard sound effects on every key press")
+
+
+[Rustyvibes is a CLI tool made in rust to play mechanical keyboard sound effects on every key press](https://www.reddit.com/r/programming/comments/q0bk31/rustyvibes_is_a_cli_tool_made_in_rust_to_play/)
+
+
+> no comments yetBe the first to share what you think!
+
+
