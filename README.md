@@ -8175,3 +8175,47 @@
 > Best screens I have EVER own to be honest! Selling 2 pcs Dell 27 "Alienware AW2721D NANO IPS QHD G-Sync 240 Hz 1ms HDR600 1440p like NEW (plastic still on them) as I haven't had time at all to properly enjoy them. Receipt and warranty included. Cheapest price on https://www.prisjakt.nu/produkt.php?p=5659844 -> SEK 7976 My price SEK 6500 Preferably, pick up in MALMO. If shipping is required, buyer is fully responsible and covers the shipping cost. Accept only Swish. * no exchanges please
 
 
+***
+[Technical Insight: The benefit of Ferrari's new hybrid component](http://www.f1reader.com/news/technical-insight-the-benefit-of-ferrari-s-new-hybrid-component-290753)
+
+
+> [MotorSportWeek.com] The Russian Grand Prix was ‘bitter sweet' for Ferrari, as Carlos Sainz and Charles Leclerc endured very different races. In terms of performance, the SF21 performed well on the Sochi circuit, which has previously proven difficult for the Scuderia. The race was an important one for Ferrari, which debuted its long-awaited power unit upgrade, dubbed […]
+
+
+***
+![Burnout in software development and developer survey results](https://external-preview.redd.it/75ZGyEP0GTY8TSWE4P1Ptk2Mwq75sToTU5Brg9GyuhA.jpg?auto=webp&s=8a2d468b461dee17689d3c1369a65dea8f724ca4 "Burnout in software development and developer survey results")
+
+
+[Burnout in software development and developer survey results](https://www.reddit.com/r/programming/comments/q0p795/burnout_in_software_development_and_developer/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Meet Professor Luxcraft in new 'Wolfboy and the Everything Factory' clip](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/wolfboy-intro-to-labs.jpg "Meet Professor Luxcraft in new 'Wolfboy and the Everything Factory' clip")
+
+
+[Meet Professor Luxcraft in new 'Wolfboy and the Everything Factory' clip](https://www.imore.com/meet-professor-luxcraft-new-wolfboy-and-everything-factory-clip)
+
+
+> We may earn a commission for purchases using our links. Learn more. Intro to labs Get an intro to labs and Professor Luxcraft. 3 Oct 2021 Source: Apple Apple has shared a new clip from "Wolfboy and the Everything Factory." The new clip introduces Professor Luxcraft with his labs class. The new animated series premiered on Friday, September 24. Apple TV+ has shared a new clip from "Wolfboy and the Everything Factory," its new animated series from the mind of Joseph Gordon-Levitt. The clip introduces Professor Luxcraft and the intro to labs class.
+
+
+***
+![Clothing & accessories to home appliances, a digital festive season's here](https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/04/full/1633289862-2341.jpg "Clothing & accessories to home appliances, a digital festive season's here")
+
+
+[Clothing & accessories to home appliances, a digital festive season's here](https://www.business-standard.com/article/technology/clothing-accessories-to-home-appliances-a-digital-festive-season-s-here-121100400037_1.html)
+
+
+> Indians are readying to embrace the festive season ahead, with 72 per cent intending to shop across the various auspicious occasions. An on-device survey of 2,500 Indian mobile users over Inmobi Pulse, conducted by Inmobi between August 12 and August 26, 2021, revealed that they plan to purchase a wide range of products. Business Standard has always strived hard to provide up-to-date information and commentary on developments that are of interest to you and have wider political and economic implications for the country and the world.
+
+
+***
+[Removing my site from Google search](https://www.reddit.com/r/technology/comments/q0p1ls/removing_my_site_from_google_search/)
+
+
+> no comments yetBe the first to share what you think!
+
+
