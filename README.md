@@ -8078,3 +8078,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![The new sticker plate prohibition in the United Kingdom has been criticized as 'dumb bureaucracy' and a 'petty' reform.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "The new sticker plate prohibition in the United Kingdom has been criticized as 'dumb bureaucracy' and a 'petty' reform.")
+
+
+[The new sticker plate prohibition in the United Kingdom has been criticized as 'dumb bureaucracy' and a 'petty' reform.](https://en.brinkwire.com/technology/the-new-sticker-plate-prohibition-in-the-united-kingdom-has-been-criticized-as-dumb-bureaucracy-and-a-petty-reform/)
+
+
+> The new sticker plate prohibition in the United Kingdom has been criticized as 'dumb bureaucracy' and a 'petty' reform. NEW NUMBER PLATE REGULATIONS that would require drivers to slap a 'UK' label on their vehicles before traveling abroad have been criticized by Express readers. Just a day after the new rule went into effect, some people called it 'dumb bureaucracy' and 'petty.' Drivers will 'need to show a UK sticker' on their vehicles instead of the old-style GB badge, according to GOV.UK. This is required for vehicles with a GB identification, a Euro sign, or a national flag of England, Scotland, or Wales on their number plate, according to the authorities.
+
+
+***
+![Drivers criticize a revision to the Highway Code aimed to safeguard cyclists as 'common sense.'](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Drivers criticize a revision to the Highway Code aimed to safeguard cyclists as 'common sense.'")
+
+
+[Drivers criticize a revision to the Highway Code aimed to safeguard cyclists as 'common sense.'](https://en.brinkwire.com/technology/drivers-criticize-a-revision-to-the-highway-code-aimed-to-safeguard-cyclists-as-common-sense/)
+
+
+> Drivers criticize a revision to the Highway Code aimed to safeguard cyclists as 'common sense.' Some drivers have criticized new highway code modifications intended to make bikers safer when passing by cars. The readers of this website have focused on a new Highway Code rule that requires drivers and passengers to exit their automobiles with the hand furthest from the door. The ‘Dutch Reach,' as it is known, is a new driving legislation that requires drivers and passengers to face the window. This will make it easier for motorists driving to see any cyclists passing by.
+
+
+***
+![E10 fuel additives can ‘protect' automobiles from the ‘corrosion' concerns associated with modern gasoline.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "E10 fuel additives can ‘protect' automobiles from the ‘corrosion' concerns associated with modern gasoline.")
+
+
+[E10 fuel additives can ‘protect' automobiles from the ‘corrosion' concerns associated with modern gasoline.](https://en.brinkwire.com/technology/e10-fuel-additives-can-protect-automobiles-from-the-corrosion-concerns-associated-with-modern-gasoline/)
+
+
+> E10 fuel additives can ‘protect' automobiles from the ‘corrosion' concerns associated with modern gasoline. According to scientists at gasoline provider Liquid Moly, E10 FUEL additives can 'protect' cars against corrosion. If drivers top-up with the new petrol, according to Liqui Moly's David Kaiser, an additive will provide 'very, very good' protection against metal parts and aluminum. To safeguard vital sections, he claimed, additives use 'special molecules' that 'attach to the surface of the metal.
+
+
+***
+![Why the Pacific has become a testing ground for blockchain and cryptocurrency projects](https://external-preview.redd.it/piGwCO4cPnwQcTiz4ZUKr4C-Hkd5vRvjTn6hBg2FFSk.jpg?auto=webp&s=6ead0b5f98111a5716941cc57178eec8265337cf "Why the Pacific has become a testing ground for blockchain and cryptocurrency projects")
+
+
+[Why the Pacific has become a testing ground for blockchain and cryptocurrency projects](https://www.reddit.com/r/technology/comments/q0kow8/why_the_pacific_has_become_a_testing_ground_for/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Apple's new iPad is only £169! How to get a great deal on the newest tablet.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Apple's new iPad is only £169! How to get a great deal on the newest tablet.")
+
+
+[Apple's new iPad is only £169! How to get a great deal on the newest tablet.](https://en.brinkwire.com/technology/apples-new-ipad-is-only-169-how-to-get-a-great-deal-on-the-newest-tablet/)
+
+
+> Apple's new iPad is only £169! How to get a great deal on the newest tablet. APPLE'S 2021 lineup was only unveiled a few weeks ago, but one shop is already offering significant discounts. If you have an old iPad, you might get one of the new iOS tablets for as little as £169 if you trade it in. The 2021 iPad and iPad mini, which were only formally announced a few weeks ago, are currently on sale at John Lewis for a terrific price. When you trade in an old Apple tablet, the British high street retailer will give you up to £150 in credit, which you can put towards the purchase of practically any iPad the company sells.
+
+
