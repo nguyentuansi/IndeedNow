@@ -8028,3 +8028,53 @@
 > Want something super easy to use. Record video with iPhone 12 and A7 Rii mostly, so something that works with all these and can also be organised on Mac too would be great. Lots of space, fast and preferably no annoying software or formatting etc. Oh and multiple users. Two of us here would love to store all the weekly video footage from iPhone 12's to an external drive to manage space. And.. SSD. Does it have to be SSD or are regular drives any faster than they used to be making a budget optio
 
 
+***
+![The PyJamas Online Conference on Dec. 4th has extended the deadline to submit a talk until Oct. 18th. If you ever wanted to hold a Python related talk, here your chance: This volunteer-run conference is free and beginner friendly.](https://external-preview.redd.it/_pWxUZ7b-WQ8MaINA3chNLXz3NcR997WB7EtgYMEcFk.jpg?auto=webp&s=7d0d2fb103d2a5913857187d88de5552d8157b2f "The PyJamas Online Conference on Dec. 4th has extended the deadline to submit a talk until Oct. 18th. If you ever wanted to hold a Python related talk, here your chance: This volunteer-run conference is free and beginner friendly.")
+
+
+[The PyJamas Online Conference on Dec. 4th has extended the deadline to submit a talk until Oct. 18th. If you ever wanted to hold a Python related talk, here your chance: This volunteer-run conference is free and beginner friendly.](https://www.reddit.com/r/Python/comments/q0ibe5/the_pyjamas_online_conference_on_dec_4th_has/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Joe Rogan loses top spot on Spotify podcast charts](https://external-preview.redd.it/Jx6Fk2WYetsOWStnDALEp5JAUpJ40S_CQvZVH16h_kk.jpg?auto=webp&s=2465612c5ad3fdc336ff21b83444ef27b8d42dc0 "Joe Rogan loses top spot on Spotify podcast charts")
+
+
+[Joe Rogan loses top spot on Spotify podcast charts](https://www.reddit.com/r/technology/comments/q0ib98/joe_rogan_loses_top_spot_on_spotify_podcast_charts/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Burners, Pollution, Control & Privacy By A Thousand Cuts](https://external-preview.redd.it/sX-QzBrG1kWTUYb3RO6ut2pC_jhBM5HczVc7cxPukxM.jpg?auto=webp&s=72caec8f56838837222d66b0cdac0084987746ba "Burners, Pollution, Control & Privacy By A Thousand Cuts")
+
+
+[Burners, Pollution, Control & Privacy By A Thousand Cuts](https://www.reddit.com/r/technology/comments/q0i7e0/burners_pollution_control_privacy_by_a_thousand/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Quick](https://cdn.mos.cms.futurecdn.net/Hfdk9GUL42nkRMrSyotBMN-1200-80.jpg "Quick")
+
+
+[Quick](https://www.techradar.com/news/quick-apples-airpods-pro-drop-to-dollar179-in-epic-deal-at-amazon)
+
+
+> (Image credit: Future) Amazon is giving us a Sunday treat by including the best-selling AirPods Pro in its daily deals section. Today only, Amazon has dropped Apple's brilliant AirPods Pro to just $179 (was $249). That's the best deal we've seen all year and just $10 more than the record-low Black Friday price. Amazon also has the AirPods with wired charging case on sale for $109 (was $159), and the Airpods with wireless charging case are marked down to an all-time low of $129 (was $199). You'll typically find these types of discounts during events like the upcoming Black Friday 2021 sale, so if you don't want to wait till then, you should snap up these incredible deals while you can.
+
+
+***
+!['Back 4 Blood' quietly adds controversial Denuvo software before launch](https://external-preview.redd.it/A-VFaFjpF-Uu9JSFxUu_tbnhVc982viOeYzENZQV9vc.jpg?auto=webp&s=9845504512377591ca52475ee7c3c7e9a999af52 "'Back 4 Blood' quietly adds controversial Denuvo software before launch")
+
+
+['Back 4 Blood' quietly adds controversial Denuvo software before launch](https://www.reddit.com/r/technology/comments/q0hz7l/back_4_blood_quietly_adds_controversial_denuvo/)
+
+
+> no comments yetBe the first to share what you think!
+
+
