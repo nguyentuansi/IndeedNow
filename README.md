@@ -7928,3 +7928,53 @@
 > Sep 1, 2010 1,959 1,906 California, USA Hi everyone, It being the weekend and having some spare time to think about things, got me in the following mindset: The September event came and went and right before the event, there was just so much speculation and rumors that the AirPods Gen 3 would be shown off and a release date would be announced. Apple, as we know, didn't announce the existence of this product and we still don't know when this item will launch. It could still be in 2021 or it could be in 2022.
 
 
+***
+![Looking to buy the iPhone 13? You need to do this to your old iPhone first](https://www.cnet.com/a/img/pVNNK9x0RQFZKTbgSQmTPzrRpzM=/1200x630/2021/03/10/054753ba-6de7-4dfc-9326-5b73f5794e95/iphone-12-pro-2020.png "Looking to buy the iPhone 13? You need to do this to your old iPhone first")
+
+
+[Looking to buy the iPhone 13? You need to do this to your old iPhone first](https://www.cnet.com/tech/mobile/you-need-to-wipe-and-reset-your-iphone-to-factory-settings-before-trading-it-in/)
+
+
+> Getting rid of your old iPhone? Make sure you reset it properly.  Sarah Tew/CNET Whether you're getting an iPhone 13, iPhone 12 or one of the amazing Android phones available right now, a new phone is exciting. But after the thrill wears off, you're left to decide what to do with your old phone. If it's still in working order, you have several options that range from trading it in to save some cash, selling it to a random stranger, or repurposing it. However, before you hand it over to someone else or drop it off at FedEx, there's still some work you'll need to do.
+
+
+***
+![Suicide Squad: Kill the Justice League release date, trailers, news and rumors](https://cdn.mos.cms.futurecdn.net/nPbZLN4CCxpsgqjmtCS56E-1200-80.jpg "Suicide Squad: Kill the Justice League release date, trailers, news and rumors")
+
+
+[Suicide Squad: Kill the Justice League release date, trailers, news and rumors](https://www.techradar.com/news/suicide-squad-game)
+
+
+> Hungry for details on Suicide Squad: Kill the Justice League, Rocksteady's next triple-A outing? Then you've come to the right place. Since its announcement at the DC FanDome presentation in 2020, we've learned that the game is set in the Arkham-verse Metropolis and will give players the choice between playing solo or with up to four players via online co-op. There'll be four playable characters to choose from, each with their own 'unique moveset' and 'enhanced traversal abilities': Harley Quinn (Dr.
+
+
+***
+![The first Honor foldable phone could be launching soon](https://cdn.mos.cms.futurecdn.net/FC4V7bjgc79d5T8t9SK6TY-1200-80.jpg "The first Honor foldable phone could be launching soon")
+
+
+[The first Honor foldable phone could be launching soon](https://www.techradar.com/news/the-first-honor-foldable-phone-could-be-launching-soon)
+
+
+> The Huawei Mate X2. (Image credit: TechRadar) It's been a while since we last heard rumors about a foldable phone from Honor, but a fresh leak suggests a foldable called the Honor Magic X could be launching imminently – and may even see the light of day before the end of the year.This latest tip comes from Huawei Fans on Chinese social media network Weibo (via Notebookcheck), and offers up the tidbit that the incoming handset is going to be built along similar lines to the Huawei Mate X2.Honor originally started out as a spin-off brand for Huawei of course, so it makes sense that the two companies are still sharing some technical information – and as the Mate X2 is a very decent foldable phone, most people are unlikely to be disappointed with the news.
+
+
+***
+![Stop mounting your TV above the fireplace. It's one of the worst places for it](https://www.cnet.com/a/img/Qdx6Way7KjBmm8Q-5yhHNEkqtmA=/1200x630/2021/09/09/9ad39427-4090-4e6a-a3c0-c7fec2d9eb31/gettyimages-1142884208.jpg "Stop mounting your TV above the fireplace. It's one of the worst places for it")
+
+
+[Stop mounting your TV above the fireplace. It's one of the worst places for it](https://www.cnet.com/tech/home-entertainment/stop-mounting-your-tv-above-the-fireplace-its-one-of-the-worst-places-for-it/)
+
+
+> Putting your TV over a fireplace is a big no-no. John Fedele/Getty Images Brett Pearce/CNET Mounting a TV above a fireplace seems like the most logical spot. It's out of the way, looks nice and is often the most convenient place to put it in a room. However, there are serious issues with such placement.If you're only planning to watch this TV occasionally, then it's probably fine. But if it's your main TV you're going to watch for hours every day, make sure you read about all the potential issues mentioned below.
+
+
+***
+![Is Crypto Banking the Unbanked?](https://blog.prologe.press/static/images/twitter-card.png "Is Crypto Banking the Unbanked?")
+
+
+[Is Crypto Banking the Unbanked?](https://blog.prologe.press/blog/crypto-and-the-unbanked)
+
+
+> Bitcoin Beach [1] is the name under which the village of 3,000 inhabitants in El Salvador became famous when it introduced Bitcoin as a means of payment. The small town, actually called El Zonte, is a surfer's paradise with hostels on beaches darkened by the ash of the nearby volcano. The village is popular with surf tourists, and yet it is characterized by poverty. There has never been a bank there. But since 2019, you suddenly see the famous orange B all over town because merchants accept payments in Bitcoin.
+
+
