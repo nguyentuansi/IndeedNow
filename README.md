@@ -8128,3 +8128,50 @@
 > Apple's new iPad is only £169! How to get a great deal on the newest tablet. APPLE'S 2021 lineup was only unveiled a few weeks ago, but one shop is already offering significant discounts. If you have an old iPad, you might get one of the new iOS tablets for as little as £169 if you trade it in. The 2021 iPad and iPad mini, which were only formally announced a few weeks ago, are currently on sale at John Lewis for a terrific price. When you trade in an old Apple tablet, the British high street retailer will give you up to £150 in credit, which you can put towards the purchase of practically any iPad the company sells.
 
 
+***
+![The Apple Pencil isn't the only iPad stylus — try these great alternatives!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/zagg-pro-stylus-write.jpg "The Apple Pencil isn't the only iPad stylus — try these great alternatives!")
+
+
+[The Apple Pencil isn't the only iPad stylus — try these great alternatives!](https://www.imore.com/apple-pencil-alternatives-best-non-apple-stylus-ipad)
+
+
+> As far as tablets are concerned, it's hard to beat the best iPad. However, for the optimal iPad experience, you will want to grab an iPad stylus, because it really completes the tablet. While Apple does have two variations of the Apple Pencil for different models of iPad, many consider the pricing to be a little steep. Thankfully, there are cheaper alternatives that still work great. Here are some of the other fantastic Apple Pencil alternatives that you can find on the market right now. Staff Favorite The ZAGG Pro Stylus comes in a sleek gunmetal color and has quite a hefty feel to it.
+
+
+***
+![Homebrew Version Control Tool](https://external-preview.redd.it/o81byf6CLHjk9-Xh0kz_yLozzrMuRuhlJsJOtRcAsic.jpg?auto=webp&s=bf2aad31e7a11aa219a5281f6d734d2220fe75ec "Homebrew Version Control Tool")
+
+
+[Homebrew Version Control Tool](https://www.reddit.com/r/programming/comments/q0mycy/homebrew_version_control_tool_sfizio/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![New iPad Air 5 release date, price, news and leaks](https://cdn.mos.cms.futurecdn.net/SS2WNANfjRzU5rdMd5CSBo-1200-80.jpg "New iPad Air 5 release date, price, news and leaks")
+
+
+[New iPad Air 5 release date, price, news and leaks](https://www.techradar.com/news/ipad-air-5)
+
+
+> While the Spring Apple Event brought the new iPad Pro 2021, we hope you weren't waiting on the iPad Air 5 - the chances of that mid-range tablet coming were close to zero.Why do we say that? Well, it's not been long since the iPad Air 4 came out - it's still fairly new as tablets go, so we wouldn't expect a new one for at least six, or maybe up to 18, months.The first three generations of iPad Air had all sported a fairly similar look, but the iPad Air 4 brought a design overhaul to the series, moving it from merely being a larger entry-level iPad into effectively an 'iPad Pro Lite' device.
+
+
+***
+![iPhone 14 early leaks, news and what we know so far](https://cdn.mos.cms.futurecdn.net/iR9nKM85T5susTtCTvwd9A-1200-80.jpg "iPhone 14 early leaks, news and what we know so far")
+
+
+[iPhone 14 early leaks, news and what we know so far](https://www.techradar.com/news/iphone-14)
+
+
+> The iPhone 13 has only recently been unveiled but already we've heard quite a lot about the iPhone 14, Apple's flagship phone expected in late 2022, with leakers revealing possible specs and even unofficial renders of the phone.As such, we have a surprisingly clear picture of the form the iPhone 14 range might take – though this far from launch we'd be extra skeptical, as there's plenty of time for things to change.Below then you'll find everything we've heard so far, including details about the potential release date and price.
+
+
+***
+[Dell 27 "Alienware AW2721D NANO IPS QHD G-Sync 240 Hz 1ms HDR600 1440p](https://www.sweclockers.com/forum/trad/1645990-dell-27-alienware-aw2721d-nano-ips-qhd-g-sync-240-hz-1ms-hdr600-1440p)
+
+
+> Best screens I have EVER own to be honest! Selling 2 pcs Dell 27 "Alienware AW2721D NANO IPS QHD G-Sync 240 Hz 1ms HDR600 1440p like NEW (plastic still on them) as I haven't had time at all to properly enjoy them. Receipt and warranty included. Cheapest price on https://www.prisjakt.nu/produkt.php?p=5659844 -> SEK 7976 My price SEK 6500 Preferably, pick up in MALMO. If shipping is required, buyer is fully responsible and covers the shipping cost. Accept only Swish. * no exchanges please
+
+
