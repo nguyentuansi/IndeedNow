@@ -7978,3 +7978,53 @@
 > Bitcoin Beach [1] is the name under which the village of 3,000 inhabitants in El Salvador became famous when it introduced Bitcoin as a means of payment. The small town, actually called El Zonte, is a surfer's paradise with hostels on beaches darkened by the ash of the nearby volcano. The village is popular with surf tourists, and yet it is characterized by poverty. There has never been a bank there. But since 2019, you suddenly see the famous orange B all over town because merchants accept payments in Bitcoin.
 
 
+***
+![MAJOR rain downpours are expected to unleash a UK-wide deluge this weekend, according to the weather forecast.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "MAJOR rain downpours are expected to unleash a UK-wide deluge this weekend, according to the weather forecast.")
+
+
+[MAJOR rain downpours are expected to unleash a UK-wide deluge this weekend, according to the weather forecast.](https://en.brinkwire.com/news/major-rain-downpours-are-expected-to-unleash-a-uk-wide-deluge-this-weekend-according-to-the-weather-forecast/)
+
+
+> MAJOR rain downpours are expected to unleash a UK-wide deluge this weekend, according to the weather forecast. WET WEATHER is anticipated to hit the UK this weekend, making it a washout. Where will it rain this weekend in the UK? While this week is expected to be dry and pleasant for this time of year, the weekend is expected to be cooler and rainy, according to the latest maps. Low pressure is expected to arrive from the southwest on Saturday morning, pass through Ireland, and impact Britain by mid-morning.
+
+
+***
+![Modern Treasury (YC S18) is hiring engineers (SF, NYC, remote)](https://cdn.sanity.io/images/8nmbzj0x/production/16e4aad4bf8a984af4069a53a70cc422c5ebc9d9-2400x1260.png?w=1200 "Modern Treasury (YC S18) is hiring engineers (SF, NYC, remote)")
+
+
+[Modern Treasury (YC S18) is hiring engineers (SF, NYC, remote)](https://www.moderntreasury.com/careers)
+
+
+> Modern Treasury has a role for you, whether you want to become an expert in your field, learn the skills to found your own startup one day, or immerse yourself in fintech and enterprise software. We're a team of customer-obsessed, principled operators who are driven to solve some of the hardest problems for our customers like Gusto, BlockFi, Pipe, ClassPass, and Marqeta.Our team hails from companies like Stripe, Flexport, Affirm, Brex, Square, WhatsApp, ClassPass, Segment, Microsoft, and Twilio (with a few YC founders as well).
+
+
+***
+![Facebook group admins in small towns say misinformation is fracturing country communities](https://external-preview.redd.it/S-rssHqLQRZS82B2VKkxVLGpaWXhB7zcA6GVNMZ1mAA.jpg?auto=webp&s=1afffea0509441f4d93903729ee595eae8e57b0b "Facebook group admins in small towns say misinformation is fracturing country communities")
+
+
+[Facebook group admins in small towns say misinformation is fracturing country communities](https://www.reddit.com/r/technology/comments/q0gd4r/facebook_group_admins_in_small_towns_say/)
+
+
+> No body in the article.
+
+
+***
+![Apple Doesn't Make Videogames. But It's the Hottest Player in Gaming](https://external-preview.redd.it/ekWrNxX6N3C-hRjjCoc93oNvnKbtTqif_F2inqgAUF8.jpg?auto=webp&s=86e50713d29a66b4b7ed6c9e952997e133939d55 "Apple Doesn't Make Videogames. But It's the Hottest Player in Gaming")
+
+
+[Apple Doesn't Make Videogames. But It's the Hottest Player in Gaming](https://www.reddit.com/r/technology/comments/q0gbjy/apple_doesnt_make_videogames_but_its_the_hottest/)
+
+
+> Apple Inc. doesn't make hot videogames such as 'Fortnite,' or consoles such as the Xbox. But with little fanfare, Chief Executive Tim Cook has turned the maker of the iPhone into one of the world's largest videogame companies. The key is the App Store, its digital marketplace, where the company sells and distributes thousands of games by other companies and developers, from Epic Games Inc.'s 'Fortnite' to Tencent Holdings Ltd. 's 'Honor of Kings'—and takes a 30% cut of sales. That explains a lot about the tech giant's current battles with rivals.
+
+
+***
+![Best external storage for video editing with Luma Fusion on iPad?](https://images.macrumors.com/social/?t=2315130&v=6 "Best external storage for video editing with Luma Fusion on iPad?")
+
+
+[Best external storage for video editing with Luma Fusion on iPad?](https://forums.macrumors.com/threads/best-external-storage-for-video-editing-with-luma-fusion-on-ipad.2315130/)
+
+
+> Want something super easy to use. Record video with iPhone 12 and A7 Rii mostly, so something that works with all these and can also be organised on Mac too would be great. Lots of space, fast and preferably no annoying software or formatting etc. Oh and multiple users. Two of us here would love to store all the weekly video footage from iPhone 12's to an external drive to manage space. And.. SSD. Does it have to be SSD or are regular drives any faster than they used to be making a budget optio
+
+
