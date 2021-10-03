@@ -7737,3 +7737,50 @@
 > Apple's new smartphone, the iPhone 13, is available at the best pricing and in the simplest form. THE NEW APPLE iPhone 13 is now available for purchase, and here are the best and cheapest ways to get one. The new iPhone 13 series, which comprises the 13 small, 13 Pro, and 13 Pro Max, is now available for purchase. These smartphones are said to have more power, a longer battery life, brighter screens, and better rear cameras. Apple has also increased the storage capacity of the iPhone 13 and iPhone 13 mini, which now have 128GB of built-in memory, and the iPhone 13 Pro, which now has up to 1TB of storage — enough to hold over 600,000 photos.
 
 
+***
+![Crazy Deals Calling](https://cdn.mos.cms.futurecdn.net/EpZpUspqUY7XRTFuBTD3qc-1200-80.jpg "Crazy Deals Calling")
+
+
+[Crazy Deals Calling](https://www.techradar.com/news/crazy-deals-calling-top-phones-shopfront-this-big-billion-days-3rd-oct-10th-oct-2021)
+
+
+> Flipkart's Big Billion Days Sale is here, which means now is an excellent opportunity to get the best deals on all types of smartphones! As one of the e-commerce behemoths, Flipkart promises its biggest sale of the year!  Flipkart's annual Big Billion Days sale is expected to begin on 3rd October and will last till 10th October 2021. Now is the best time to go and get one for yourself! We bet you'll be thrilled with this enormous and wide range of smartphones you need, from budget-friendly smartphones to top-notch technology and outstanding features.
+
+
+***
+!['You are absolutely not promoting freedom, but promoting hate': Holocaust survivor criticizes Joe Rogan in viral TikTok](https://external-preview.redd.it/SVW1-Bxi_OLPS7MVAqCsDWG2242Lb7yJkcK97swYao8.jpg?auto=webp&s=d3346e5393cead7240d541d29210415efc6748b5 "'You are absolutely not promoting freedom, but promoting hate': Holocaust survivor criticizes Joe Rogan in viral TikTok")
+
+
+['You are absolutely not promoting freedom, but promoting hate': Holocaust survivor criticizes Joe Rogan in viral TikTok](https://www.reddit.com/r/technology/comments/q0883x/you_are_absolutely_not_promoting_freedom_but/)
+
+
+> There was no Jewish Holocaust only Russian and Germans paid the price. There were more Jews in Europe after the war than before the war. 11 million Germans were killed after the war. There's a real Holocaust
+
+
+***
+![How to watch SNL and stream Saturday Night Live online where you are](https://cdn.mos.cms.futurecdn.net/kDJjFWhDszVyxtezWhmgSc-1200-80.jpg "How to watch SNL and stream Saturday Night Live online where you are")
+
+
+[How to watch SNL and stream Saturday Night Live online where you are](https://www.techradar.com/news/how-to-watch-snl-and-stream-saturday-night-live-online-where-you-are)
+
+
+> (Image credit: NBC) An amalgamation of comedy sketches covering topical cultural and political events, throw in special celebrity guests and musical performances, this season's line up includes Kim Kardashian and Rami Malek. Saturday Night Live has ran for over four decades with its 47th season broadcasting from October 2. Here's how to watch SNL online where you are.After last season's highlights including the likes of Elon Musk hosting the show with musical guest Miley Cyrus, some might question whether the SNL gang can ever top its previous episodes.
+
+
+***
+[Just started learning Python through a course on Udemy!](https://www.reddit.com/r/Python/comments/q07rn8/just_started_learning_python_through_a_course_on/)
+
+
+> Just started my Python journey recently. I am still very much a newb but I made my first project on my own. It is a top calculator that allows input for the bill, calculates the tip, then adds the 2 for the total cost! I know it's not much but feels good!
+
+
+***
+![iMac 24' vs iMac 27' PLEASE HELP CHOOSING](https://images.macrumors.com/social/?t=2315083&v=6 "iMac 24' vs iMac 27' PLEASE HELP CHOOSING")
+
+
+[iMac 24' vs iMac 27' PLEASE HELP CHOOSING](https://forums.macrumors.com/threads/imac-24-vs-imac-27-please-help-choosing.2315083/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hey everyone! Looking for buy my first IMac and it's obviously come down to the new 24' or the older 27'. I have zero knowledge on iMacs. -So first off it will be used mainly for real estate work, not gaming/editing etc -I like the idea of a bigger screen because I normally have 3 separate browsers/software screens open at once. A 24' is doable but the 27' allows for bigger screens.
+
+
