@@ -7687,3 +7687,53 @@
 > I have a number of live photos taken on an iPhone 6s, stored in the Photos app of a Mac running 10.11.6. They work fine there. I have migrated that photo library to a newer Mac running 10.13.6, and on that Mac the photos have lost their live-ness. They just display as an image. If I find the actual file of one of those images in the library and move it to a 10.14.x machine, it's not live there either. But if I then move it back to the 10.11.6 Mac, it's live. Newer live photos taken on an iPhone X display live correctly on the newer Macs.
 
 
+***
+![Weekly poll results: a high refresh rate screen is a must for nearly half of users](https://fdn.gsmarena.com/imgroot/news/21/09/weekly-poll-results-hrr-screens/-476x249w4/gsmarena_000.jpg "Weekly poll results: a high refresh rate screen is a must for nearly half of users")
+
+
+[Weekly poll results: a high refresh rate screen is a must for nearly half of users](https://www.gsmarena.com/weekly_poll_results_a_high_refresh_rate_screen_is_a_must_for_nearly_half_of_users-news-51212.php)
+
+
+> Smartphone makers must be ready for the high refresh rate future because last week's poll shows that 4 out of 5 people consider it a desirable feature for their next phone. In fact, most of those think of it as a must-have. Nothing too crazy, 120Hz seems to be the sweet spot with 90Hz being acceptable on the more affordable models. As for higher refresh rates, 144Hz and above, there seems to be very little demand for those (144/165Hz is typical of gaming hardware, both PC and smartphone). It's not just about the maximum refresh rate, however, the poll shows a very clear preference for LTPO panels.
+
+
+***
+![Is your iPhone's battery life abysmal? This well-known software could be to blame.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Is your iPhone's battery life abysmal? This well-known software could be to blame.")
+
+
+[Is your iPhone's battery life abysmal? This well-known software could be to blame.](https://en.brinkwire.com/technology/is-your-iphones-battery-life-abysmal-this-well-known-software-could-be-to-blame/)
+
+
+> Is your iPhone's battery life abysmal? This well-known software could be to blame. If your iPhone is running out of battery significantly faster than usual, it could be due to a popular app. Last month, Apple released its significant iOS 15 update, which included a slew of new features for alerts, FaceTime, Maps, and more. However, as is common with high-profile iOS releases, iPhone users have been experiencing a highly annoying battery depletion problem following the introduction of iOS 15. According to a Tom's Guide article, the famous music streaming service Spotify could be to blame.
+
+
+***
+![The latest WhatsApp update may be just what iPhone and Android users have been waiting for.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "The latest WhatsApp update may be just what iPhone and Android users have been waiting for.")
+
+
+[The latest WhatsApp update may be just what iPhone and Android users have been waiting for.](https://en.brinkwire.com/technology/the-latest-whatsapp-update-may-be-just-what-iphone-and-android-users-have-been-waiting-for/)
+
+
+> The latest WhatsApp update may be just what iPhone and Android users have been waiting for. WHATSAPP may be poised to release a long-awaited feature: the ability to use the same account across various devices, which is fantastic news for folks who use Android for work and iPhone for leisure. WhatsApp, the world's most popular messaging software, added multi-device capability earlier this year. However, the function wasn't exactly what people had hoped for at first. Because WhatsApp's multi-device capability was first confined to WhatsApp Web, WhatsApp Desktop, and Facebook's Portal smart display, this is the case.
+
+
+***
+![Space race heats up in Korea's private sector](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/23bcb6b8a5cf459baf90077711810d62.jpg "Space race heats up in Korea's private sector")
+
+
+[Space race heats up in Korea's private sector](https://www.koreatimes.co.kr/www/tech/2021/10/693_316355.html)
+
+
+> Gov't takes steps to support entry of more firms This article is the second in a series of stories highlighting the emergence of the private space industry, in which companies are helping the sector take a major leap. ― EDBy Yi Whan-wooKorean companies are capitalizing on their exclusive areas of expertise to join the private-sector space race, with Hanwha Group and Korea Aerospace Industries (KAI) specialized in satellites and rockets, LIG NEx1 in navigation systems and Korean Air in aircraft design and manufacturing.
+
+
+***
+![Apple's new smartphone, the iPhone 13, is available at the best pricing and in the simplest form.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Apple's new smartphone, the iPhone 13, is available at the best pricing and in the simplest form.")
+
+
+[Apple's new smartphone, the iPhone 13, is available at the best pricing and in the simplest form.](https://en.brinkwire.com/technology/apples-new-smartphone-the-iphone-13-is-available-at-the-best-pricing-and-in-the-simplest-form/)
+
+
+> Apple's new smartphone, the iPhone 13, is available at the best pricing and in the simplest form. THE NEW APPLE iPhone 13 is now available for purchase, and here are the best and cheapest ways to get one. The new iPhone 13 series, which comprises the 13 small, 13 Pro, and 13 Pro Max, is now available for purchase. These smartphones are said to have more power, a longer battery life, brighter screens, and better rear cameras. Apple has also increased the storage capacity of the iPhone 13 and iPhone 13 mini, which now have 128GB of built-in memory, and the iPhone 13 Pro, which now has up to 1TB of storage — enough to hold over 600,000 photos.
+
+
