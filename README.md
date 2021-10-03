@@ -7784,3 +7784,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Hey everyone! Looking for buy my first IMac and it's obviously come down to the new 24' or the older 27'. I have zero knowledge on iMacs. -So first off it will be used mainly for real estate work, not gaming/editing etc -I like the idea of a bigger screen because I normally have 3 separate browsers/software screens open at once. A 24' is doable but the 27' allows for bigger screens.
 
 
+***
+![E10 fuel economy: Drivers are being warned to save money by regulating their revs.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "E10 fuel economy: Drivers are being warned to save money by regulating their revs.")
+
+
+[E10 fuel economy: Drivers are being warned to save money by regulating their revs.](https://en.brinkwire.com/technology/e10-fuel-economy-drivers-are-being-warned-to-save-money-by-regulating-their-revs/)
+
+
+> E10 fuel economy: Drivers are being warned to save money by regulating their revs. Some drivers have expressed dissatisfaction with the new E10 gasoline's efficiency and fuel economy when compared to E5 gasoline. E10 gasoline has divided drivers since its launch in early September, with some hailing the environmental benefits and others noting that their car isn't as efficient. Using E10 gasoline reduces fuel economy by about 1%, however this is unlikely to be evident in ordinary driving. Other factors, such as driving style or driving with under-inflated tyres, have a far greater impact on fuel economy than the use of E10 gasoline.
+
+
+***
+![UAE trade minister says Korea Pavilion is testament to economic cooperation](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/9daa858e54c942fc9432fcdfad74f1e3.jpg "UAE trade minister says Korea Pavilion is testament to economic cooperation")
+
+
+[UAE trade minister says Korea Pavilion is testament to economic cooperation](https://www.koreatimes.co.kr/www/tech/2021/10/693_316385.html)
+
+
+> Thani Ahmed Al-Zeyoudi, center, Minister of State for Foreign Trade of the United Arab Emirates (UAE), joins Korea Trade-Investment Promotion Agency (KOTRA) President and CEO Yu Jeoung-yeol, right, and Mubarak Al Nakhi, the UAE's Undersecretary of Culture and Knowledge Development, during the opening ceremony of the Korea Pavilion at Expo 2020 Dubai, Oct. 1. Courtesy of KOTRABy Yi Whan-wooDUBAI _ The top trade official of the United Arab Emirates (UAE) has said that the opening of the Korea Pavilion at Expo 2020 Dubai, Oct.
+
+
+***
+![Korea uses AR tech at Dubai expo to promote its image](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/c9897b19c1054923b1b6c808b633f8dd.jpg "Korea uses AR tech at Dubai expo to promote its image")
+
+
+[Korea uses AR tech at Dubai expo to promote its image](https://www.koreatimes.co.kr/www/tech/2021/10/693_316384.html)
+
+
+> Volunteer workers at the Korea Pavilion demonstrate augmented reality (AR)-based experience using mobile devices to UAE officials on an external ramp overlooking the surrounding view of the Expo 2020 Dubai, Oct. 1. The pavilion is managed by state-run Korea Trade-Investment Promotion Agency (KOTRA). Courtesy of KOTRAKorea Pavilion adds to support for Busan's 2030 expo bidBy Yi Whan-wooDUBAI _ At first glance, visitors to the Korea Pavilion appear to be taking photos with their smartphones while standing on an external ramp crossing the facade of the structure and overlooking the surrounding view of the Expo 2020 Dubai.
+
+
+***
+![Following the installation of a ‘keep clear' sign, drivers are facing parking fines outside their homes.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Following the installation of a ‘keep clear' sign, drivers are facing parking fines outside their homes.")
+
+
+[Following the installation of a ‘keep clear' sign, drivers are facing parking fines outside their homes.](https://en.brinkwire.com/technology/following-the-installation-of-a-keep-clear-sign-drivers-are-facing-parking-fines-outside-their-homes/)
+
+
+> Following the installation of a ‘keep clear' sign, drivers are facing parking fines outside their homes. A DRIVER in Yorkshire is enraged when zig-zag lines and a ‘keep clear' sign were painted on the road outside his home, forcing him to park his car elsewhere. Greg Smith's home, which was previously a primary school, was closed 18 years ago and afterwards transformed by a local builder into a residential residence. For the past eight years, he has resided in the building in Grewelthorpe, North Yorkshire, near Ripon.
+
+
+***
+![Tech Q&A: Safeguarding against password hackers](https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg "Tech Q&A: Safeguarding against password hackers")
+
+
+[Tech Q&A: Safeguarding against password hackers](https://www.unionleader.com/nh/lifestyles/tech-q-a-safeguarding-against-password-hackers/article_16d3629e-b5ba-550b-b2ac-6070403f61a4.html)
+
+
+> Contact Steve Alexander at steve.j.alexander@gmail.com. Please include a full name, city and phone number.
+
+
