@@ -8410,3 +8410,53 @@
 > Manish Singh / TechCrunch: Ula, a food-focused B2B e-commerce marketplace in Indonesia, raises $87M Series B with investors including Jeff Bezos, following its $20M Series A in January — Updated at 8.15pm PT, October 3: In a statement, Ula confirmed TechCrunch's reporting. The startup said it has raised $87 million in its Series B financing round.
 
 
+***
+![Improve your handheld video with these phone gimbals!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/08/hohem-phone-gimbal-lifestyle.jpg "Improve your handheld video with these phone gimbals!")
+
+
+[Improve your handheld video with these phone gimbals!](https://www.imore.com/best-iphone-gimbals)
+
+
+> Source: DJI Best phone gimbals iMore 2021 Moving even a little while shooting video with your phone leads to shaky, unusable footage that no amount of optical image stabilization will correct. Whether you're filming with a new iPhone 13 or an older model phone, you need a gimbal. As a photographer, I don't get paid unless my images and videos are bright and crisp on every take. I don't skimp on the gear that goes in my bag, and that's why I carry the Hohem 3-axis gimbal stabilizer. I love the Hohem for its rock-solid three-axis stabilization that stands up to high winds, walking and running, and even shooting from a moving vehicle.
+
+
+***
+![Apple iPhone 13 review: cheaper, longer lasting and better camera](https://i.guim.co.uk/img/media/57daf7ac13cd25f41f3eda61abb8dfdd0c446962/216_402_5108_3066/master/5108.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=c21a886f349e4e82ea6cfa8ffefc7ef6 "Apple iPhone 13 review: cheaper, longer lasting and better camera")
+
+
+[Apple iPhone 13 review: cheaper, longer lasting and better camera](https://www.theguardian.com/technology/2021/oct/04/apple-iphone-13-review-cheaper-longer-lasting-and-better-camera)
+
+
+> The iPhone 13 is a minor upgrade to last year's brilliant iPhone 12, with an improved camera, larger storage longer battery life and a small price cut.Apple's latest regular-sized smartphone costs £779 ($799 or A$1,349), which is £20 cheaper than its predecessor, and sits between the smaller £679 iPhone 13 mini and the £949 iPhone 13 Pro.The phone has the same general design as its predecessor. Its flat aluminium sides and hardened glass front and back feel just as robust as last year. It is 12g heavier and ever so slightly thicker, but unless you compare them side by side that is not noticeable.
+
+
+***
+![Early trends indicate Amazon, Flipkart set for record festive sale](https://cdn.mos.cms.futurecdn.net/Bxm8ufPEDstkAndgKM72Mn-1200-80.png "Early trends indicate Amazon, Flipkart set for record festive sale")
+
+
+[Early trends indicate Amazon, Flipkart set for record festive sale](https://www.techradar.com/news/early-trends-indicate-amazon-flipkart-set-for-record-festive-sale)
+
+
+> (Image credit: Trak.in) The much-touted festival sale extravaganza on the two major Indian e-commerce sites --- Amazon.in and Flipkart --- seems set for record numbers.This year both Flipkart's Big Billion Days sale and Amazon's Great Indian Festival got underway on the same day - October 3. But both Amazon and Flipkart gave early access to the sale event to their Amazon Prime and Flipkart Plus members. And that started Friday midnight (October 2).  And according to early reports, the two e-commerce giants are predicted to record sales worth $4.
+
+
+***
+![Discord to End Its Stage Discovery Tool Today](https://i.gadgets360cdn.com/large/discord_stages_discord_1633326490506.jpg "Discord to End Its Stage Discovery Tool Today")
+
+
+[Discord to End Its Stage Discovery Tool Today](https://gadgets.ndtv.com/apps/news/discord-stage-discovery-tool-end-support-remove-october-4-channels-server-onboarding-moderation-2562965)
+
+
+> Discord, the Slack-like chat app, recently said that it's going to sunset its Stage Discovery tool on October 4, less than six months after it launched. Rolled out in June, Stage Discovery was designed to help users find its social audio rooms called Stage Channels. It used machine learning to curate a list of channels a user might be interested in joining.Stage Channels have been a hit, Discord said, but it's been keeping an eye on Stage Discovery to evaluate whether it's meeting its goal of helping people find community.
+
+
+***
+![Asus VivoBook K15 OLED laptop range launched in India starting at Rs 46,990](https://cdn.mos.cms.futurecdn.net/VfXQDBzwfsGH5QrPyMKyEj-1200-80.jpg "Asus VivoBook K15 OLED laptop range launched in India starting at Rs 46,990")
+
+
+[Asus VivoBook K15 OLED laptop range launched in India starting at Rs 46,990](https://www.techradar.com/news/asus-vivobook-k15-oled-price-in-india-specs)
+
+
+> (Image credit: Asus) Asus has launched a new range of laptops in India with an OLED display. These newly launched laptops feature 11th Gen Intel Core processors and also AMD Ryzen 5000 series processor. Recently, Realme and Xiaomi introduced high-resolution displays on laptops priced between Rs 40,000 to Rs 60,000. Now, Asus is offering OLED panels for under Rs 50,000. A total of five laptops are available in the new series 一 VivoBook K15 OLED K513 (i3), VivoBook K15 OLED K513 (i5, 16GB), VivoBook K15 OLED K513 (i5, 8GB), VivoBook K15 OLED K513 (i7), and VivoBook K15 OLED KM513 (Ryzen 5500U).
+
+
