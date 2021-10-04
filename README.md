@@ -8781,3 +8781,53 @@
 > Source: Android Central Finding a complete list of Stadia devices can be tricky. Most of the best Android phones support it by default, or you can hook up one of several streaming devices to your TV for a more traditional gaming experience. However, it is not always clear which Stadia-enabled hardware is officially supported or not. Below are all the Stadia-compatible phones, tablets, computers, and TVs today, as well as the devices that have planned Stadia support in the future. So long as your Android phone is running Android 6.
 
 
+***
+![Facebook to take center stage at whistleblower hearing](https://thehill.com/sites/default/files/facebook-logo_040721getty_webb.jpg "Facebook to take center stage at whistleblower hearing")
+
+
+[Facebook to take center stage at whistleblower hearing](https://thehill.com/policy/technology/575251-facebook-to-take-center-stage-at-whistleblower-hearing)
+
+
+> Facebook whistleblower Frances Haugen is set to give highly anticipated testimony to a Senate panel on Tuesday that the Silicon Valley giant ignored internal warnings about misinformation and dangerous content.Haugen, a former Facebook product manager, came public for the first time in a '60 Minutes' interview that aired Sunday night, which expanded on the bombshell series of internal documents she leaked to The Wall Street Journal.'The choices being made by Facebook's leadership are a huge problem — for children, for public safety, for democracy — that is why I came forward.
+
+
+***
+![Facebook's back, but WhatsApp and Instagram still down in widespread outage](https://www.cnet.com/a/img/77A9l58kXg8lsiwtUzLiWE7Hbs8=/1200x630/2021/03/25/2773c9fc-063b-4775-a685-f3b9ed1b3612/003-facebook-app-logo-on-phone-2021.jpg "Facebook's back, but WhatsApp and Instagram still down in widespread outage")
+
+
+[Facebook's back, but WhatsApp and Instagram still down in widespread outage](https://www.cnet.com/tech/mobile/facebooks-back-but-whatsapp-and-instagram-still-down-in-widespread-outage/)
+
+
+> James Martin/CNET Facebook is back up for some people, but WhatsApp and Instagram continue to be down in a widespread outage that has lasted more than six hours on Monday, disrupting communications for the company's roughly 3 billion users. The three social networks -- all owned by Facebook -- started having issues around 11:40 a.m. ET, according to Down Detector, a crowdsourced website that tracks online outages.  The company acknowledged that it was having issues shortly after noon ET, saying in a tweet from its WhatsApp account that it's "working to get things back to normal and will send an update here as soon as possible.
+
+
+***
+![Final Fantasy VII The First Soldier: Everything You Need To Know, Updated October, 2021](https://www.androidheadlines.com/wp-content/uploads/2021/06/Final-Fantasy-VII-First-Soldier-Closed-Beta.jpg "Final Fantasy VII The First Soldier: Everything You Need To Know, Updated October, 2021")
+
+
+[Final Fantasy VII The First Soldier: Everything You Need To Know, Updated October, 2021](https://www.androidheadlines.com/everything-you-need-to-know-about-final-fantasy-vii-first-soldier.html)
+
+
+> The closed beta for Final Fantasy VII The First Soldier is over, but there's more to come as the game will be released later this year. During our time with the beta there was a lot to learn about what Square Enix is looking to create with this new title. You can read about our hands-on time with the game here.If you're simply eager to learn all there is to know so far about the game though, that's what this guide will essentially break down. Keep in mind that Square Enix may even reveal more about the game at its E3 showcase happening on June 13.
+
+
+***
+![Developers Have Seen Low-Code Development Before and It Failed, Why It Will Be Different This Time](https://external-preview.redd.it/XKlb9bKXBXchJPgn_yMe0XpTJBu9NIJbUgwTfcT3J2M.jpg?auto=webp&s=160e6a088be046e1e85c889dbbc4207674ce879e "Developers Have Seen Low-Code Development Before and It Failed, Why It Will Be Different This Time")
+
+
+[Developers Have Seen Low-Code Development Before and It Failed, Why It Will Be Different This Time](https://www.reddit.com/r/programming/comments/q1ge71/developers_have_seen_lowcode_development_before/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![What Instagram Looks Like When It's Stuck in Limbo](https://compote.slate.com/images/3da6a95b-6a18-479b-8a51-0f54310b40b3.jpeg?width=780&height=520&rect=4925x3283&offset=76x0 "What Instagram Looks Like When It's Stuck in Limbo")
+
+
+[What Instagram Looks Like When It's Stuck in Limbo](https://slate.com/technology/2021/10/instagram-outage-facebook-inanity.html)
+
+
+> Around 11:30 a.m. on Monday, Instagram went down as part of a larger, as-yet-unexplained outage of Facebook and its subsidiaries. Several hours later, with no resolution, I've found myself in a strange time-freeze. I feel conflicting emotions, glad that rampant misinformation is taking the day off, but perplexed at the content that has lived at the top of my feed the entire afternoon. Every time I've opened Instagram today, I've seen the same thing: a normal layout with a few seconds of a spinning refresh wheel and then the same picture repeatedly displaying.
+
+
