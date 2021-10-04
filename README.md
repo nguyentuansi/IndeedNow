@@ -8547,3 +8547,53 @@
 > It's starting to sound like the Google Pixel 6 and Pixel 6 Pro could be the most intriguing Pixel phones in a long time, with the company seemingly rebounding from its 2020 slump year that saw the less-than-interesting Pixel 4a, 4a 5G and 5.Even the recent Pixel 5a was a familiar-feeling phone, but by what rumors suggest - and what Google itself has said - the Pixel 6 range represents a big step up for the company.Google has officially revealed these handsets, and they look just like the leaks predicted: sleek devices with a visor-like camera block that splits the back cover in two.
 
 
+***
+![As the EU is engulfed in an unprecedented energy crisis, Brussels infighting explodes in a blame game.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "As the EU is engulfed in an unprecedented energy crisis, Brussels infighting explodes in a blame game.")
+
+
+[As the EU is engulfed in an unprecedented energy crisis, Brussels infighting explodes in a blame game.](https://en.brinkwire.com/news/as-the-eu-is-engulfed-in-an-unprecedented-energy-crisis-brussels-infighting-explodes-in-a-blame-game/)
+
+
+> As the EU is engulfed in an unprecedented energy crisis, Brussels infighting explodes in a blame game. FIGHTING has erupted in Brussels as a result of the extraordinary energy crisis, which has sparked tensions among European Union member states. The energy crisis that has engulfed most of Europe has generated tensions among EU member states. The enormous rise in EU energy prices has sparked a blame game, with member states pleading with the EU to address the situation. Some member states have blamed Russia for limiting gas supplies on purpose, while others have blamed Brussels' ambitions for a green economic reform for the issue.
+
+
+***
+![Ukrainian police arrest hacker who caused $150 million in damage to global firms](https://assets2.rappler.com/2021/10/shutterstock-ukraine-police-1633348959364.jpg "Ukrainian police arrest hacker who caused $150 million in damage to global firms")
+
+
+[Ukrainian police arrest hacker who caused $150 million in damage to global firms](https://www.rappler.com/technology/ukrainian-police-arrest-hacker-global-firms-damage)
+
+
+> Ukrainian police said on Monday, October 4, they had arrested a 25-year-old man who hacked more than 100 foreign companies and caused damage worth more than $150 million. The hacker, who was not identified, used phishing attacks and hijacked software that allows computers to be accessed remotely, a police statement said. The victims included "world-famous energy and tourism companies." it added. The hacker was caught with the help of law enforcement officials from the United States, France, Europol and Interpol.
+
+
+***
+![iPhone 12 with free AirPods or iPhone 12 from Flipkart at Rs 51,999: Which is a better deal?](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/iphone12-red-it-647x363.jpeg?lGd5BCfxFgWbk4wV_we37qFC7acBwvoE "iPhone 12 with free AirPods or iPhone 12 from Flipkart at Rs 51,999: Which is a better deal?")
+
+
+[iPhone 12 with free AirPods or iPhone 12 from Flipkart at Rs 51,999: Which is a better deal?](https://www.indiatoday.in/technology/features/story/iphone-12-with-free-airpods-or-iphone-12-from-flipkart-at-rs-51-999-which-is-a-better-deal-1860617-2021-10-04)
+
+
+> iPhone 12, the one-year-old iPhone from Apple, is one of the biggest lightning deals during the festive offers, be it Flipkart or the upcoming Apple's twice the joy offer. Apple last month cut the price of the iPhone 12 to Rs 65,900, soon after the launch of the iPhone 13 series. The iPhone 12 was available at under Rs 50,000, thanks to some excellent online deals during Flipkart's Big Billion Days sale that kicked off on Sunday. But, if you've been planning to upgrade or buy a new iPhone 12, then it might be slightly tricky to understand deals available on e-commerce websites.
+
+
+***
+![How the search for the next Steve Jobs is ruining Silicon Valley](https://www.cnet.com/a/img/W9R3cgCy3vi_nUt8bsEsCJmXoXE=/1200x630/2016/03/30/79e40bd5-bdff-4e53-b647-6d1ebb6630f7/40154554-3-iphone4stevejobspic2610.jpg "How the search for the next Steve Jobs is ruining Silicon Valley")
+
+
+[How the search for the next Steve Jobs is ruining Silicon Valley](https://www.cnet.com/tech/mobile/how-the-search-for-the-next-steve-jobs-is-ruining-silicon-valley/)
+
+
+> Robert Rodriguez/CNET Few people figure in the story of Silicon Valley as prominently as Steve Jobs. After co-founding Apple in 1976, Jobs was famously fired from the company in 1985. His Shakespearean return, saving Apple from near-bankruptcy and setting it on the path to become one of the world's most highly valued companies, has become one of the great American success stories.Now, a decade after Jobs died on Oct. 5, 2011, at the age of 56 from pancreatic cancer, his shadow still looms large over the tech world.
+
+
+***
+![OneSpan Wins CyberSecurity Breakthrough Award for Mobile Security Innovation for Second Consecutive Year](https://mms.businesswire.com/media/20211004005024/en/911858/23/one_span-logo.jpg "OneSpan Wins CyberSecurity Breakthrough Award for Mobile Security Innovation for Second Consecutive Year")
+
+
+[OneSpan Wins CyberSecurity Breakthrough Award for Mobile Security Innovation for Second Consecutive Year](https://www.businesswire.com/news/home/20211004005024/en/OneSpan-Wins-CyberSecurity-Breakthrough-Award-for-Mobile-Security-Innovation-for-Second-Consecutive-Year)
+
+
+> October 04, 2021 08:00 AM Eastern Daylight Time CHICAGO--(BUSINESS WIRE)--OneSpan™ (NASDAQ: OSPN), the global leader in digital banking security and e-signatures, today announced that its OneSpan Mobile Security Suite (MSS) has been named 'Overall Mobile Security Solution of the Year' for the second consecutive year from CyberSecurity Breakthrough, a leading independent market intelligence organization that recognizes the top companies, technologies and products in the global information security market today.
+
+
