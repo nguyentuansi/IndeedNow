@@ -8697,3 +8697,37 @@
 > This is an interesting one: Predict Edumedia has released The Spirit of Europe - Origins, which is a 15-hour long educational (edutainment) free JRPG title with a self-described "philosophical flavor". The game will be available to download on PC via Steam and on itch.io.  This isn't the first edutainment title coming from a governmental body. The US Department of Education gave the Historymaker VR developers a $1 million USD grant. Edutainment games are nothing new - we've covered some in the past such as our list of six great education games for adults if you're interested, as well as even some educational coronavirus titles developed back in February 2020.
 
 
+***
+![The best wireless mice for 2021](https://icdn.digitaltrends.com/image/digitaltrends/logitech-mx-master-header.jpg "The best wireless mice for 2021")
+
+
+[The best wireless mice for 2021](https://www.digitaltrends.com/computing/best-wireless-mice/)
+
+
+> It's been over 40 years since the first computer mouse shipped, and since then, we've learned to cut the cables. Wireless mice are a dime a dozen and are much more common now, but only a select few make our list of the best. It doesn't matter if you're shopping on a budget, focused on gaming, or have ergonomic needs, there's a wireless mouse for you. We've rounded up the top wireless mice available in 2021, from a large trackball mouse like the Kensington Expert to an inexpensive portable powerhouse like the Microsoft Mobile Mouse.
+
+
+***
+![Using an Apple Watch shows how Google and Samsung have been left in the dust](https://icdn.digitaltrends.com/image/digitaltrends/apple-watch-se-apps-screen-2.jpg "Using an Apple Watch shows how Google and Samsung have been left in the dust")
+
+
+[Using an Apple Watch shows how Google and Samsung have been left in the dust](https://www.digitaltrends.com/mobile/apple-watch-app-ecosystem/)
+
+
+> I have something of a confession to make. Over the course of my career in mobile, which spans over a decade at more than a dozen outlets, I've maintained a few consistent opinions. First, WebOS is the best operating system ever, and it died before its time. Second, it doesn't matter who does it first, or best, but who brings something new to their platform that wasn't there before. Third, to roughly quote the movie Moneyball (adapted to the world of smartwatches), there's the Apple Watch, then there are 50 yards of crap, then there's everything else.
+
+
+***
+[Android 12 review: big design improvements led by Material You, but the new widgets will need dev support to shine; Pixel phones get the update in a few weeks (Cameron Faulkner/The Verge)](http://www.techmeme.com/211004/p22#a211004p22)
+
+
+> Cameron Faulkner / The Verge: Android 12 review: big design improvements led by Material You, but the new widgets will need dev support to shine; Pixel phones get the update in a few weeks — There are a just a few noteworthy features in this design-focused update — The most exciting thing about a big Android update …
+
+
+***
+[IDE](https://www.reddit.com/r/Python/comments/q1auot/ide/)
+
+
+> Recently picked up python for data Science and Analysis, #learning.But i cant seem to get my way to a decent IDE. So far I've been getting frustrated with the likes of jupyter notebook, visual studio code and pycharm.None or them seem to run well or rather i haven't figured out how to run them or install libraries on pycharm and visual studio code.I am native R user. I'd like the simplicity afforded by R studios if available.
+
+
