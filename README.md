@@ -8647,3 +8647,53 @@
 > Peak Design A great gear bag can radically change the way you get things done. If you can fit everything you need to get through a day in a single bag and not feel like it is destroying your shoulders while keeping everything safe. If you carry a lot of smaller, fragile things like photographers do the Everyday Backpack from Peak Design offers a ton of padded pockets and sleeves for keeping everything safe. You can also keep your laptop easy to reach with a nice big protected area in the back.
 
 
+***
+![Latest updates as Facebook, Instagram and WhatsApp all go down](https://static.independent.co.uk/2021/03/19/17/instagram%20down%20facebook%20whatsapp.jpg?width=1200&auto=webp&quality=75 "Latest updates as Facebook, Instagram and WhatsApp all go down")
+
+
+[Latest updates as Facebook, Instagram and WhatsApp all go down](https://www.independent.co.uk/life-style/gadgets-and-tech/facebook-instagram-down-whatsapp-latest-b1932071.html)
+
+
+> Facebook, Instagram and WhatsApp were all down on Friday, 19 March, 2021Adam SmithMonday 04 October 2021 17:06 commentsWhatsApp, Instagram and Facebook have all gone down in a major outage.The three apps – which are all owned by Facebook, and run on shared infrastructure – stopped working shortly before 5pm. Other related products, such as Facebook Messenger and Workplace, have also stopped working.At time of writing, it is unclear what has caused the issue although the company has suffered outages before.
+
+
+***
+![Facebook, Instagram down for thousands of users](https://www.reuters.com/resizer/bkpMrSE3Eq5SUn4dsaRQ7kVBUNs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VSFBT34UZFJRDKIUPXOPSIQAGE.jpg "Facebook, Instagram down for thousands of users")
+
+
+[Facebook, Instagram down for thousands of users](https://www.reuters.com/technology/facebook-instagram-down-thousands-users-downdetectorcom-2021-10-04/)
+
+
+> The Facebook logo is displayed on a mobile phone in this picture illustration taken December 2, 2019. REUTERS/Johanna Geron/Illustration/File PhotoOct 4 (Reuters) - Facebook Inc's (FB.O) app and its photo-sharing platform Instagram were down for thousands of users, according to outage tracking website Downdetector.com.The portal showed there were more than 20,000 incidents of people reporting issues with Facebook and Instagram.Meanwhile, the social-media giant's instant messaging platform WhatsApp was also down for over 14,000 users, while Messenger was down for nearly 3,000 users.
+
+
+***
+![Facebook, Instagram and WhatsApp all stop working](https://static.independent.co.uk/2020/08/19/11/breaking-news.png?width=1200&auto=webp&quality=75 "Facebook, Instagram and WhatsApp all stop working")
+
+
+[Facebook, Instagram and WhatsApp all stop working](https://www.independent.co.uk/life-style/gadgets-and-tech/facebook-down-instagram-whatsapp-today-b1932059.html)
+
+
+> WhatsApp, Instagram and Facebook have all gone down in a major outage.The three apps – which are all owned by Facebook, and run on shared infrastructure – all completely stopped working shortly before 5pm. Other products that are part of the same family of apps, such as Facebook Workplace, also stopped working.Visitors to the Facebook website simply saw an error page or a message that their browser could not connect. The WhatsApp and Instagram apps continued to work, but did not show new content, including any messages sent or received during the problems.
+
+
+***
+![Tech sell-off drags European stocks lower](https://www.reuters.com/resizer/6FFywx04FBqP-X-JqdsFgO7sQ3Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/522RKJTSPRMGPLPRAFQ6SPPISA.jpg "Tech sell-off drags European stocks lower")
+
+
+[Tech sell-off drags European stocks lower](https://www.reuters.com/world/europe/european-stocks-add-losses-growth-worries-2021-10-04/)
+
+
+> The German share price index DAX graph is pictured at the stock exchange in Frankfurt, Germany, September 29, 2021. REUTERS/StaffOct 4 (Reuters) - European stocks struggled on Monday after their worst weekly showing since February, hit by a growing number of risks including signs of inflation, elevated bond yields and developer China Evergrande's financial troubles.The pan-European STOXX 600 index (.STOXX) fell for a third straight session, down 0.5%, holding near 11-week lows hit in last week's selloff.
+
+
+***
+![The Spirit of Europe](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Spirit%20of%20Europe.jpg?itok=2S4fAf5S "The Spirit of Europe")
+
+
+[The Spirit of Europe](https://techraptor.net/gaming/news/spirit-of-europe-origins-is-free-jrpg-funded-by-european-commission)
+
+
+> This is an interesting one: Predict Edumedia has released The Spirit of Europe - Origins, which is a 15-hour long educational (edutainment) free JRPG title with a self-described "philosophical flavor". The game will be available to download on PC via Steam and on itch.io.  This isn't the first edutainment title coming from a governmental body. The US Department of Education gave the Historymaker VR developers a $1 million USD grant. Edutainment games are nothing new - we've covered some in the past such as our list of six great education games for adults if you're interested, as well as even some educational coronavirus titles developed back in February 2020.
+
+
