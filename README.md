@@ -8363,3 +8363,50 @@
 > DETROIT – Some of Metro Detroit already is receiving a portion of their power from existing DTE Energy solar parks and now the company is looking to expand its solar panel reach. Related: Tech Time: DTE Energy's MiGreenPower program provides clean energyIn addition to expanding its solar panel parks, DTE is also investing in solar panels that pivot with the sun in order to generate electricity all day long.You can watch Andrew Humphrey's full story in the video above.Read and watch more: Tech Time stories Copyright 2021 by WDIV ClickOnDetroit - All rights reserved.
 
 
+***
+![How to enable Bitmoji AOD (Always-On display) on your OnePlus phone](https://images.indianexpress.com/2021/10/Bitmoji-AOD-1.jpg "How to enable Bitmoji AOD (Always-On display) on your OnePlus phone")
+
+
+[How to enable Bitmoji AOD (Always-On display) on your OnePlus phone](https://indianexpress.com/article/technology/techook/how-to-enable-bitmoji-aod-always-on-display-on-your-oneplus-phone-7550299/)
+
+
+> Bitmoji AOD, or Always On Display is one of the many new features that OnePlus devices with OxygenOS 11 are getting. While originally available only for the OnePlus 9 series devices, recent updates have also brought the feature to older phones like the OnePlus Nord. Bitmoji AOD brings a personalised Ambient Display screen where your Bitmoji character can be seen on top of the screen, usually mirroring what you're up to. For instance, if you have music playing, you will find your Bitmoji avatar grooving with a pair of headphones, or if it is getting late at night, your avatar will be sleeping in bed.
+
+
+***
+![Thousands of drivers are unaware of an upcoming ‘significant' amendment to the Highway Code.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Thousands of drivers are unaware of an upcoming ‘significant' amendment to the Highway Code.")
+
+
+[Thousands of drivers are unaware of an upcoming ‘significant' amendment to the Highway Code.](https://en.brinkwire.com/technology/thousands-of-drivers-are-unaware-of-an-upcoming-significant-amendment-to-the-highway-code/)
+
+
+> Thousands of drivers are unaware of an upcoming ‘significant' amendment to the Highway Code. THOUSANDS of motorists are unaware of a new driving law that will take effect as part of the new Highway Code revisions. IAM RoadSmart polled 10,000 people and found that 85% were ignorant of the new Dutch Reach. Drivers and passengers must exit their automobiles with the hand furthest from the door, according to the new regulation. It's Kwik Fits' Midsommer Madness promotion, which means you can save 10% on your MOT Test with the UK's #1 MOT tester if you book online.
+
+
+***
+![Check out NASA's top skywatching tips for this month](https://icdn.digitaltrends.com/image/digitaltrends/nasa-skywatching-october-2021.jpg "Check out NASA's top skywatching tips for this month")
+
+
+[Check out NASA's top skywatching tips for this month](https://www.digitaltrends.com/news/check-out-nasas-top-skywatching-tips-for-this-month/)
+
+
+> NASA has just shared its regular update on what to look out for in the night sky this month. October looks to be a busy time, with our moon, several planets, and a few stars all featuring in the space agency's list of highlights. It's worth noting that the recommendations below can be enjoyed with the naked eye, so no fancy equipment is needed. Having said that, if you have binoculars or a telescope at hand, by all means use them to enhance your skywatching experience. Spotting stuff in the night sky can also be made easier using one of the many available astronomy apps.
+
+
+***
+![Customers of BT could be owed £500! Find out if you're eligible for this massive reward.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Customers of BT could be owed £500! Find out if you're eligible for this massive reward.")
+
+
+[Customers of BT could be owed £500! Find out if you're eligible for this massive reward.](https://en.brinkwire.com/technology/customers-of-bt-could-be-owed-500-find-out-if-youre-eligible-for-this-massive-reward/)
+
+
+> Customers of BT could be owed £500! Find out if you're eligible for this massive reward. After the telecoms firm was accused of overcharging over 2 million landline users over a number of years, millions of BT consumers could be owed a £500 payment. After being accused of overcharging millions of loyal customers, BT could be required to pay £600 million in compensation. Those impacted could soon have an extra £500 in their pockets if a successful class action lawsuit against the telecoms company is filed.
+
+
+***
+[Ula, a food-focused B2B e-commerce marketplace in Indonesia, raises $87M Series B with investors including Jeff Bezos, following its $20M Series A in January (Manish Singh/TechCrunch)](http://www.techmeme.com/211003/p10#a211003p10)
+
+
+> Manish Singh / TechCrunch: Ula, a food-focused B2B e-commerce marketplace in Indonesia, raises $87M Series B with investors including Jeff Bezos, following its $20M Series A in January — Updated at 8.15pm PT, October 3: In a statement, Ula confirmed TechCrunch's reporting. The startup said it has raised $87 million in its Series B financing round.
+
+
