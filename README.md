@@ -8597,3 +8597,53 @@
 > October 04, 2021 08:00 AM Eastern Daylight Time CHICAGO--(BUSINESS WIRE)--OneSpan™ (NASDAQ: OSPN), the global leader in digital banking security and e-signatures, today announced that its OneSpan Mobile Security Suite (MSS) has been named 'Overall Mobile Security Solution of the Year' for the second consecutive year from CyberSecurity Breakthrough, a leading independent market intelligence organization that recognizes the top companies, technologies and products in the global information security market today.
 
 
+***
+![Reebok drops another Ghostbusters sneaker collection, pink slime included](https://www.cnet.com/a/img/resize/65e739049033d05fdfc665ab808a8a93f14ce3b9/hub/2021/10/01/ee76768a-e481-4b35-9b19-30e7ccef5230/reebok-x-ghostbusters-horizontal-answer-iv-promo.jpg?auto=webp&fit=crop&height=675&width=1200 "Reebok drops another Ghostbusters sneaker collection, pink slime included")
+
+
+[Reebok drops another Ghostbusters sneaker collection, pink slime included](https://www.cnet.com/pictures/reebok-drops-new-ghostbusters-sneaker-collection/)
+
+
+> Bustin' makes me feel good! Reebok has unveiled a second collection of sneakers inspired by the Ghostbusters movies. A first drop of Ghostbusters Ghost Smashers in October 2020 drew on the classic comedies for design cues, while these new shoes also reference forthcoming sequel Ghostbusters: Afterlife.Reebok's Instapump Fury, Answer IV and Zig Kinetica silhouettes are treated to a Ghostbusters-themed redesign. They're joined by a new $160 model dubbed the Ecto Boot, based on Reebok's 1980s sneaker the OG Pump.
+
+
+***
+![How can you keep your customers safe when you're hit by a cyberattack? An Israeli startup has an answer](https://www.haaretz.com/polopoly_fs/1.10259639.1633164537!/image/498215498.jpeg_gen/derivatives/headline_1200x630/498215498.jpeg "How can you keep your customers safe when you're hit by a cyberattack? An Israeli startup has an answer")
+
+
+[How can you keep your customers safe when you're hit by a cyberattack? An Israeli startup has an answer](https://www.haaretz.com/israel-news/tech-news/.premium-an-israeli-startup-wants-to-keep-you-and-your-customers-safe-from-cyberattacks-1.10259631)
+
+
+> If a company is hit with a major cyberattack, it may not be the only one that suffers. An organization's customers may also be vulnerable, and these attacks are hard to defend against. They are called supply chain attacks, in which, by attacking one major supplier, the hackers can reach its customers through striking less secure elements in a supply chain. One example is the cyberattack against the Israeli company Voicenter last month, which was hit by a group of foreign hackers. The cloud-based call center service provider counts companies like MobileEye, eToro, Check Point and Similar Web among its clients.
+
+
+***
+![Internet of Things is Key to Digitalization in the Global Construction Industry](https://mms.businesswire.com/media/20211004005595/en/912660/23/logo.jpg "Internet of Things is Key to Digitalization in the Global Construction Industry")
+
+
+[Internet of Things is Key to Digitalization in the Global Construction Industry](https://www.businesswire.com/news/home/20211004005595/en/Internet-of-Things-is-Key-to-Digitalization-in-the-Global-Construction-Industry---ResearchAndMarkets.com)
+
+
+> October 04, 2021 09:52 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Internet of Things (IoT) in Construction - Thematic Research" report has been added to ResearchAndMarkets.com's offering. The Internet of Things describes the use of connected sensors and actuators to control and monitor the environment, the things that move within it, and the people that act within it. IoT is hugely beneficial to the construction industry. It allows different assets and people to be monitored and accounted for across a traditionally fragmented industry.
+
+
+***
+![Developers are gaining more tools for the edge](https://external-preview.redd.it/VRFHId0GuzTRJAhEMtpCIJ2Vi-rwA2wvOPqmV2NDw0k.jpg?auto=webp&s=1147387efc22d141c24837d8a7114ef5e09fa9df "Developers are gaining more tools for the edge")
+
+
+[Developers are gaining more tools for the edge](https://www.reddit.com/r/programming/comments/q15u6i/developers_are_gaining_more_tools_for_the_edge_sd/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![One of the best backpacks for photographers is 48% off today](https://www.cnet.com/a/img/O1rjxcOnWB-Szzy9ru8vbHCzxgk=/1200x630/2021/10/04/4e8ca467-d88c-49a6-83b4-c3f3b6bc809b/1476095020-1277405.jpg "One of the best backpacks for photographers is 48% off today")
+
+
+[One of the best backpacks for photographers is 48% off today](https://www.cnet.com/tech/mobile/one-of-the-best-backpacks-for-photographers-is-48-off-today/)
+
+
+> Peak Design A great gear bag can radically change the way you get things done. If you can fit everything you need to get through a day in a single bag and not feel like it is destroying your shoulders while keeping everything safe. If you carry a lot of smaller, fragile things like photographers do the Everyday Backpack from Peak Design offers a ton of padded pockets and sleeves for keeping everything safe. You can also keep your laptop easy to reach with a nice big protected area in the back.
+
+
