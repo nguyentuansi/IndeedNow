@@ -8731,3 +8731,53 @@
 > Recently picked up python for data Science and Analysis, #learning.But i cant seem to get my way to a decent IDE. So far I've been getting frustrated with the likes of jupyter notebook, visual studio code and pycharm.None or them seem to run well or rather i haven't figured out how to run them or install libraries on pycharm and visual studio code.I am native R user. I'd like the simplicity afforded by R studios if available.
 
 
+***
+![Facebook fights back again on FTC's attempt to dismantle 'monopoly'](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2016/03/zuckerberg-2-mwc2016-hero.jpg "Facebook fights back again on FTC's attempt to dismantle 'monopoly'")
+
+
+[Facebook fights back again on FTC's attempt to dismantle 'monopoly'](https://www.androidcentral.com/ftc-files-amended-complaint-against-facebook)
+
+
+> Source: Android Central Update, Oct 4 (15:33ET): Facebook fights back with a second motion to dismiss the FTC lawsuit claiming it has "monopoly power" over social media. The FTC has filed an amended complaint against Facebook. The complaint asserts that Facebook has held a monopoly since 2011 by acquiring platforms that threaten its position. Facebook maintains that its acquisitions have been reviewed and cleared and that the company does not hold a monopoly. The FTC has filed an amended lawsuit against Facebook on Thursday.
+
+
+***
+![Python 3.10 Released](https://external-preview.redd.it/XACIlvLRgD0CrsIsxO7yWQMICHPINiGesu3WjxQxeXs.jpg?auto=webp&s=c7f0d77306cb94adced1c514958fdf68f575791c "Python 3.10 Released")
+
+
+[Python 3.10 Released](https://www.reddit.com/r/Python/comments/q1dqg0/python_310_released/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Python 3.10 Released!](https://external-preview.redd.it/XACIlvLRgD0CrsIsxO7yWQMICHPINiGesu3WjxQxeXs.jpg?auto=webp&s=c7f0d77306cb94adced1c514958fdf68f575791c "Python 3.10 Released!")
+
+
+[Python 3.10 Released!](https://www.reddit.com/r/Python/comments/q1dqcv/python_310_released/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Leaked roadmap for Intel Alder Lake CPUs  for laptops reveals impressive specs](https://cdn.mos.cms.futurecdn.net/iTNozpeXEQpitQpZAJHmvH-1200-80.jpg "Leaked roadmap for Intel Alder Lake CPUs  for laptops reveals impressive specs")
+
+
+[Leaked roadmap for Intel Alder Lake CPUs  for laptops reveals impressive specs](https://www.techradar.com/news/leaked-roadmap-for-intels-alder-lake-cpus-series-reveal-impressive-specs)
+
+
+> (Image credit: Alexander_Safonov / Shutterstock) While it looks like Alder Lake desktop processors are around the corner, we still don't know much about Intel's next chips for the best laptops, but a leaked roadmap may have given us a glimpse. According to this leaked roadmap, spotted by Wccftech, Alder Lake-P and Alder Lake-M will supposedly start production in November 2021 with an early 2022 launch. This leaked roadmap seems to back up an earlier rumor leak by Twitter user @9550pro about the Alder Lake-P and -M microarchitectures being behind the next-gen U- and H-series chips.
+
+
+***
+![Will Stadia work on my Android phone? Here are the Stadia compatible phones](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/12/stadia-pro-games-are-lacking.jpg "Will Stadia work on my Android phone? Here are the Stadia compatible phones")
+
+
+[Will Stadia work on my Android phone? Here are the Stadia compatible phones](https://www.androidcentral.com/can-i-play-stadia-my-android-phone)
+
+
+> Source: Android Central Finding a complete list of Stadia devices can be tricky. Most of the best Android phones support it by default, or you can hook up one of several streaming devices to your TV for a more traditional gaming experience. However, it is not always clear which Stadia-enabled hardware is officially supported or not. Below are all the Stadia-compatible phones, tablets, computers, and TVs today, as well as the devices that have planned Stadia support in the future. So long as your Android phone is running Android 6.
+
+
