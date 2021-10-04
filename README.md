@@ -8316,3 +8316,50 @@
 > Considering the harm it's capable of (and often doing), Why fix it?
 
 
+***
+[Beginner trying to learn](https://www.reddit.com/r/Python/comments/q0w5yh/beginner_trying_to_learn/)
+
+
+> I am a beginner trying to learn. I have used discord.py in the past and am kinda bored and would like to learn python. What are some good projects to try that would help me learn python?
+
+
+***
+!['Six' on Broadway explores the wives of Henry VIII — with a powerful twist](https://helios-i.mashable.com/imagery/articles/03eIvgrPt7KpWEc0kFqzIja/hero-image.fill.size_1200x675.v1633312807.jpg "'Six' on Broadway explores the wives of Henry VIII — with a powerful twist")
+
+
+['Six' on Broadway explores the wives of Henry VIII — with a powerful twist](https://mashable.com/article/six-broadway-review)
+
+
+> Picture it: Catharine of Aragon with a microphone. Anne of Cleves in a sparkly leotard. Anne Boleyn dancing under a spotlight.Welcome to Six, the ferocious, feminist, and fun new Broadway musical about the six wives of Henry VIII. But this isn't exactly your mother's Philippa Gregory novel. Yes, these women have been gossiped about about incessantly in both fiction and academic circles over the past 500 years, but this version of the tale, by newcomers Toby Marlow and Lucy Moss, gives these ladies a very refreshing 2021 update.
+
+
+***
+![Audio Output no longer in show menu](https://images.macrumors.com/social/?t=2315247&v=6 "Audio Output no longer in show menu")
+
+
+[Audio Output no longer in show menu](https://forums.macrumors.com/threads/audio-output-no-longer-in-show-menu.2315247/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. So I used to be able to change the audio output d3voce from within a show (Down, Audio, Choose device). i like to use my Sonos Move speakers in the bedroom and I used to be able to change it from TV speakers to the Move. But since the update, that option has disappeared from wIrgun a show. You have to go all the way out to Device Settings to pick another speaker.
+
+
+***
+![Frydenberg leads speaker lineup for virtual investment conference](https://itwire.com/media/k2/items/cache/98103a7802fb86580407cb374c08300d_XS.jpg "Frydenberg leads speaker lineup for virtual investment conference")
+
+
+[Frydenberg leads speaker lineup for virtual investment conference](https://itwire.com/strategy/frydenberg-leads-speaker-lineup-for-virtual-investment-conference.html)
+
+
+> The Treasurer Josh Frydenberg will lead a lineup of corporate leaders, politicians, bankers and economists at global investment bank Citi's virtual annual Australia and New Zealand Investment Conference later this month. Billed by Citi as Australia's largest Investment Conference, the online conference willl take place on 13 and 14 October and feature other speakers including former US Treasury Secretary, Larry Summers and former Foreign Minister of Australia Julie Bishop. The two-day event will be opened by Citi's CEO, Jane Fraser, and will host over 1500 institutional investors, fund managers, CEOs, and CFOs from Australia, New Zealand and around the globe.
+
+
+***
+![Tech Time: DTE Energy invests in solar panel technology](https://www.clickondetroit.com/resizer/1MYM4t4HdExKqOqP2WhsDCVnOHY=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/10-04-2021/t_0bb022338c8a426d83dc07c9da9383ac_name_image.jpg "Tech Time: DTE Energy invests in solar panel technology")
+
+
+[Tech Time: DTE Energy invests in solar panel technology](https://www.clickondetroit.com/tech/2021/10/04/tech-time-dte-energy-invests-in-solar-panel-technology/)
+
+
+> DETROIT – Some of Metro Detroit already is receiving a portion of their power from existing DTE Energy solar parks and now the company is looking to expand its solar panel reach. Related: Tech Time: DTE Energy's MiGreenPower program provides clean energyIn addition to expanding its solar panel parks, DTE is also investing in solar panels that pivot with the sun in order to generate electricity all day long.You can watch Andrew Humphrey's full story in the video above.Read and watch more: Tech Time stories Copyright 2021 by WDIV ClickOnDetroit - All rights reserved.
+
+
