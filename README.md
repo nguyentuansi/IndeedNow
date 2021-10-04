@@ -8500,3 +8500,50 @@
 > NEW YORK--(BUSINESS WIRE)--Consulting Magazine has honored Marci Marra, Partner at Sia Partners US, in its 2021 Women Leaders in Consulting Awards. These awards recognize the achievements and outstanding efforts of standout-women in the industry. Marci is recognized in the 'Excellence in Leadership' category. Marci is an expert in Organizational Health & Effectiveness and a committed leader with a passion for inspiring people to innovate and make impactful changes. She is a member of the exclusive Forbes Coaches Council and generously shares her time mentoring and coaching consultants and clients to lead and manage strategic projects for Fortune 100 companies.
 
 
+***
+![I make my first contribution to HacktoberFest 2021](https://external-preview.redd.it/p2KunGIG3lVukgrwb6QYjFlax7aSdNG-heVZozcD1K4.jpg?auto=webp&s=9cd16162007f3c701b55eb2894b57a96fe0f191f "I make my first contribution to HacktoberFest 2021")
+
+
+[I make my first contribution to HacktoberFest 2021](https://www.reddit.com/r/programming/comments/q12dwc/i_make_my_first_contribution_to_hacktoberfest_2021/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![H.I.G. Capital Completes Sale of Quicken to Aquiline Capital Partners](https://mms.businesswire.com/media/20211004005064/en/1116880/23/New_HIGCapital.jpg "H.I.G. Capital Completes Sale of Quicken to Aquiline Capital Partners")
+
+
+[H.I.G. Capital Completes Sale of Quicken to Aquiline Capital Partners](https://www.businesswire.com/news/home/20211004005064/en/H.I.G.-Capital-Completes-Sale-of-Quicken-to-Aquiline-Capital-Partners)
+
+
+> October 04, 2021 06:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--H.I.G. Capital ('H.I.G.'), a leading global alternative investment firm with over $45 billion of equity capital under management, announced today that an affiliate has sold Quicken Inc. ('Quicken' or the 'Company') to Aquiline Capital Partners ('Aquiline'). Quicken is a leading provider of personal financial management ('PFM') software and services. Its personal finance software and apps allow users to track and categorize bank and card transactions, pay bills, track and manage investments, budget, and plan for retirement, among other things.
+
+
+***
+![Ivanti Names Software Industry Veteran Jeff Abbott as New CEO and Strengthens Board with New Appointments](http://www.businesswire.com/images/bwlogo_square.png "Ivanti Names Software Industry Veteran Jeff Abbott as New CEO and Strengthens Board with New Appointments")
+
+
+[Ivanti Names Software Industry Veteran Jeff Abbott as New CEO and Strengthens Board with New Appointments](https://www.businesswire.com/news/home/20211004005095/en/Ivanti-Names-Software-Industry-Veteran-Jeff-Abbott-as-New-CEO-and-Strengthens-Board-with-New-Appointments)
+
+
+> October 04, 2021 06:00 AM Eastern Daylight Time SALT LAKE CITY--(BUSINESS WIRE)--Ivanti, the automation platform that discovers, manages, secures, and services IT assets from cloud to edge, announced today that it has named Jeff Abbott as the new CEO effective October 1, 2021, succeeding Jim Schaper in the role. Ivanti is backed by Clearlake Capital Group, L.P., TA Associates, and Charlesbank Capital Partners, LLC (together with their affiliates, 'Clearlake', 'TA,' and 'Charlesbank'). Mr. Abbott has served as President of the company since January 2020.
+
+
+***
+[Replacing estimations and guesses with a Monte Carlo simulation (with examples in Rust)](https://www.reddit.com/r/programming/comments/q12ace/replacing_estimations_and_guesses_with_a_monte/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Google Pixel 6 news, price, leaks, specs and everything we know so far](https://cdn.mos.cms.futurecdn.net/hUCNWcwVqqbNB4WXCo8JmQ-1200-80.jpg "Google Pixel 6 news, price, leaks, specs and everything we know so far")
+
+
+[Google Pixel 6 news, price, leaks, specs and everything we know so far](https://www.techradar.com/news/google-pixel-6-news)
+
+
+> It's starting to sound like the Google Pixel 6 and Pixel 6 Pro could be the most intriguing Pixel phones in a long time, with the company seemingly rebounding from its 2020 slump year that saw the less-than-interesting Pixel 4a, 4a 5G and 5.Even the recent Pixel 5a was a familiar-feeling phone, but by what rumors suggest - and what Google itself has said - the Pixel 6 range represents a big step up for the company.Google has officially revealed these handsets, and they look just like the leaks predicted: sleek devices with a visor-like camera block that splits the back cover in two.
+
+
