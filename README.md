@@ -8269,3 +8269,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+[[P] Bilingual text alignment tools for NMT](https://www.reddit.com/r/MachineLearning/comments/q0ugtp/p_bilingual_text_alignment_tools_for_nmt_help/)
+
+
+> As per the title, we are beginning a large-scale NMT project and need to reduce reliance on manual alignment work of bilingual texts. Anyone with experience on this? Are any tools available? Help would be greatly appreciated!
+
+
+***
+![Facebook whistleblower revealed on '60 Minutes,' says the company prioritized profit over public good](https://cdn.cnn.com/cnnnext/dam/assets/200730155553-facebook-app-tablet---stock-super-tease.jpg "Facebook whistleblower revealed on '60 Minutes,' says the company prioritized profit over public good")
+
+
+[Facebook whistleblower revealed on '60 Minutes,' says the company prioritized profit over public good](https://www.cnn.com/2021/10/03/tech/facebook-whistleblower-60-minutes/index.html)
+
+
+> The 37-year-old former Facebook product manager who worked on civic integrity issues at the company says the documents show that Facebook knows its platforms are used to spread hate, violence and misinformation, and that the company has tried to hide that evidence. "The thing I saw at Facebook over and over again was there were conflicts of interest between what was good for the public and what was good for Facebook, and Facebook over and over again chose to optimize for its own interests, like making more money," Haugen told "60 Minutes.
+
+
+***
+![[D] What are context independent signatures?](https://external-preview.redd.it/Zv4dyOSD2vCGVLZv4JOGu74SBproH0lf0MeQPNFRIpQ.jpg?auto=webp&s=238a1da58f6ae660b00a78f99e29e0ad99d0c86a "[D] What are context independent signatures?")
+
+
+[[D] What are context independent signatures?](https://www.reddit.com/r/MachineLearning/comments/q0udub/d_what_are_context_independent_signatures/)
+
+
+> I was going through this article about unsupervised NER using BERT. In the section where they describe steps, in step 2 they are generating context independent signatures, I am confused about what these signatures are. My confusion is whether a signature is just a word from the vocabulary or something else? And what is cosine similarity measuring here?If anyone knows any resource about it or can explain it that would be really helpful.
+
+
+***
+![Why this Facebook scandal is different](https://cdn.vox-cdn.com/thumbor/uF-Dc4TX6um24_LD71Re-b2JQxg=/0x0:5353x2803/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22898705/1327685522.jpg "Why this Facebook scandal is different")
+
+
+[Why this Facebook scandal is different](https://www.vox.com/recode/2021/10/3/22707940/frances-haugen-facebook-whistleblower-60-minutes-teen-girls-instagram)
+
+
+> Facebook CEO Mark Zuckerberg Kevin Dietsch/Getty Images On Sunday evening, a former Facebook employee who has previously revealed damning internal documents about the company came forward on 60 Minutes to reveal her identity. Frances Haugen, a former product manager on Facebook's civic integrity team, shared documents that were the basis of an explosive series of articles in the Wall Street Journal. The reports revealed that the company knew its products can cause meaningful harm — including negatively impacting the mental health of teens — but it still has not made major changes to fix such problems.
+
+
+***
+![The Facebook Whistleblower, Frances Haugen, Says She Wants to Fix the Company, Not Harm It](https://external-preview.redd.it/rTg1GVKcnnnU57QEWUwN8M9Zp769Z_K7DyqnBrge4sE.jpg?auto=webp&s=016951effd160cb0bb7b03ad71ed06362b09d6e8 "The Facebook Whistleblower, Frances Haugen, Says She Wants to Fix the Company, Not Harm It")
+
+
+[The Facebook Whistleblower, Frances Haugen, Says She Wants to Fix the Company, Not Harm It](https://www.reddit.com/r/technology/comments/q0ty6h/the_facebook_whistleblower_frances_haugen_says/)
+
+
+> Considering the harm it's capable of (and often doing), Why fix it?
+
+
