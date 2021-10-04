@@ -8460,3 +8460,43 @@
 > (Image credit: Asus) Asus has launched a new range of laptops in India with an OLED display. These newly launched laptops feature 11th Gen Intel Core processors and also AMD Ryzen 5000 series processor. Recently, Realme and Xiaomi introduced high-resolution displays on laptops priced between Rs 40,000 to Rs 60,000. Now, Asus is offering OLED panels for under Rs 50,000. A total of five laptops are available in the new series 一 VivoBook K15 OLED K513 (i3), VivoBook K15 OLED K513 (i5, 16GB), VivoBook K15 OLED K513 (i5, 8GB), VivoBook K15 OLED K513 (i7), and VivoBook K15 OLED KM513 (Ryzen 5500U).
 
 
+***
+![Analysis: Zoom's abandoned Five9 deal shows hurdles to expansion](https://www.reuters.com/resizer/o7L7eD8omP8YPXz26HxLRcST67c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QHDJGTWRAZMT5DDMO7GCKFQV3U.jpg "Analysis: Zoom's abandoned Five9 deal shows hurdles to expansion")
+
+
+[Analysis: Zoom's abandoned Five9 deal shows hurdles to expansion](https://www.reuters.com/technology/zooms-abandoned-five9-deal-shows-hurdles-expansion-2021-10-04/)
+
+
+> The Zoom Video Communications logo is pictured at the NASDAQ MarketSite in New York, New York, U.S., April 18, 2019. REUTERS/Carlo AllegriOct 4 (Reuters) - Zoom Video Communications Inc's (ZM.O) aborted $14.7 billion acquisition of call center software firm Five9 Inc (FIVN.O) has spotlighted issues that will weigh on the virtual meeting giant's next attempt to expand through dealmaking, analysts and investment bankers said.Zoom's unwillingness to add cash to its bid and rely solely on its stock as currency to pay for the Five9 deal backfired after its shares slipped by as much as 29% in the weeks after the deal was announced in July, on concerns that the return to physical meetings as the COVID-19 pandemic wanes will erode its business.
+
+
+***
+![HUAWEI Watch 3 Series – Pioneering Smartwatch technology](https://www.thesouthafrican.com/wp-content/uploads/2021/10/HUAWEI-Watch-3-1.jpg.optimal.jpg "HUAWEI Watch 3 Series – Pioneering Smartwatch technology")
+
+
+[HUAWEI Watch 3 Series – Pioneering Smartwatch technology](https://www.thesouthafrican.com/technology/huawei-watch-3-series-pioneering-smartwatch-technology/)
+
+
+> TheSouthAfrican.com is all about South Africa and the stories that affect South Africans, wherever they are in the world.We're independent.No agenda.No Bias.Follow usOur offices are for administrative purposes only, no visitors will be accepted without an appointment.South Africa – Blue Sky Publications (Pty) Ltd T/A TheSouthAfrican Number: 2005/028472/07. Address: Regus Business Centre 1st Floor, Block B, North Park, Black River Park, 2 Fir Street, Observatory, Cape Town, 7925, South Africa Postal: Blue Sky Publications (Pty) Ltd T/A TheSouthAfrican, PO Box 44354, Claremont, 7735, South AfricaUnited Kingdom – Blue Sky Publications Ltd – Company Registration Number: 04683692.
+
+
+***
+![Amazon Great Indian Festival: Redmi 4K Ultra Smart TV at under Rs 30,000 is a deal you can grab](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/redmi_smart_tv_x50-original.jpg "Amazon Great Indian Festival: Redmi 4K Ultra Smart TV at under Rs 30,000 is a deal you can grab")
+
+
+[Amazon Great Indian Festival: Redmi 4K Ultra Smart TV at under Rs 30,000 is a deal you can grab](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-redmi-4k-ultra-smart-tv-at-under-rs-30-000-is-a-deal-you-can-grab-1860501-2021-10-04)
+
+
+> Sarthak Dogra Noida, Oct 04, 2021, Updated Oct 04, 2021, 1:29 PM IST Story highlights Redmi 4K Ultra Smart TV x50 is available for Rs 32,999 during the Great Indian Festival sale. The smart TV comes with Android 10 out-of-the-box and features many connectivity options. There are more bank offers and finance options available on its purchase. Amazon is offering attractive deals on a wide range of products during its Great Indian Festival sale. The savings to be made are huge and hence, it is possibly the best time for many to get their hands on their desired product.
+
+
+***
+![Consulting Magazine Honors Sia Partners' Marci Marra with Women Leaders in Consulting Award](https://mms.businesswire.com/media/20211004005366/en/912320/23/FINAL_LOGO_2020-13_%284%29.jpg "Consulting Magazine Honors Sia Partners' Marci Marra with Women Leaders in Consulting Award")
+
+
+[Consulting Magazine Honors Sia Partners' Marci Marra with Women Leaders in Consulting Award](https://www.businesswire.com/news/home/20211004005366/en/Consulting-Magazine-Honors-Sia-Partners%E2%80%99-Marci-Marra-with-Women-Leaders-in-Consulting-Award)
+
+
+> NEW YORK--(BUSINESS WIRE)--Consulting Magazine has honored Marci Marra, Partner at Sia Partners US, in its 2021 Women Leaders in Consulting Awards. These awards recognize the achievements and outstanding efforts of standout-women in the industry. Marci is recognized in the 'Excellence in Leadership' category. Marci is an expert in Organizational Health & Effectiveness and a committed leader with a passion for inspiring people to innovate and make impactful changes. She is a member of the exclusive Forbes Coaches Council and generously shares her time mentoring and coaching consultants and clients to lead and manage strategic projects for Fortune 100 companies.
+
+
