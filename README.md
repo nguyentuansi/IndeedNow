@@ -9337,3 +9337,53 @@
 > Skip to contentSkip to site indexnew video loaded: A Safer Social Media ‘Is Possible,' Facebook Whistle-Blower SaysRecent episodes in Latest VideoWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, Times Video journalists provide a revealing and unforgettable view of the world.Whether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, Times Video journalists provide a revealing and unforgettable view of the world.
 
 
+***
+![NFX Launches A $450M Seed Fund With 'Greater Focus' On Biotech And Crypto](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/bitcoin.etherum.thought-catalog-bj8u389a9n8-unsplash.jpg "NFX Launches A $450M Seed Fund With 'Greater Focus' On Biotech And Crypto")
+
+
+[NFX Launches A $450M Seed Fund With 'Greater Focus' On Biotech And Crypto](https://www.benzinga.com/general/biotech/21/10/23242029/nfx-launches-a-450m-seed-fund-with-greater-focus-on-biotech-and-crypto)
+
+
+> Early-stage venture firm NFX has launched its largest fund to date, aiming to allocate a significant amount to verticals such as biotech and cryptocurrency. What Happened: In a press release on Tuesday, NFX announced the launch of Fund III, dedicated solely to pre-seed and seed-stage startups. The new fund is projected to add 70 companies to its portfolio, onboarding founders who specialize in fintech, marketplaces, gaming and property technology sectors. The venture firm also specifically mentioned plans to increase investment in tech-bio and crypto.
+
+
+***
+![Netflix's Stock Sees A Textbook Breakout](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/netflix-4011345_1920_25.jpg "Netflix's Stock Sees A Textbook Breakout")
+
+
+[Netflix's Stock Sees A Textbook Breakout](https://www.benzinga.com/news/21/10/23248550/netflixs-stock-sees-a-textbook-breakout)
+
+
+> Netflix Inc. (NASDAQ: NFLX) shares traded higher Tuesday on above-average volume. The stock looks to be recovering from the down day it had Monday and then some, forming into a textbook breakout from a pattern. Netflix closed up 5.2% at $634.81 per share. See Also: Can't Find Anything To Stream On Your Phone? Netflix Will Help You Chill Shares were able to break out of resistance and then come back down and test the resistance level before starting on another leg up with a perfect bounce at support.
+
+
+***
+![Regret installing Windows 11? You can roll back to Windows 10, but you better be quick](https://www.cnet.com/a/img/GyW84qWX6k0PyOvdGdU14vHWqTI=/1200x630/2021/06/22/4a974ff4-4986-4348-8f7f-71cdab759614/windows-11-1.jpg "Regret installing Windows 11? You can roll back to Windows 10, but you better be quick")
+
+
+[Regret installing Windows 11? You can roll back to Windows 10, but you better be quick](https://www.cnet.com/tech/computing/regret-installing-windows-11-you-can-roll-back-to-windows-10-but-you-better-be-quick/)
+
+
+> Microsoft/Screenshot by CNET The latest version of Windows, Windows 11, is on its way, rolling out right now. Note that it won't be available to everyone at once, so you may need to wait a few days or months before it shows up for you -- or, you can download the new OS now with this workaround. You don't have to install Windows 11 right away if you're unsure. In fact, you have until 2025 before Microsoft says it'll stop supporting Windows 10. Read our Windows 11 review, the biggest differences between Windows 10 and Windows 11 and all of Windows 11's best features before making your decision.
+
+
+***
+![Regret installing Windows 11? You can roll back to Windows 10, but you'd better be quick](https://www.cnet.com/a/img/GyW84qWX6k0PyOvdGdU14vHWqTI=/1200x630/2021/06/22/4a974ff4-4986-4348-8f7f-71cdab759614/windows-11-1.jpg "Regret installing Windows 11? You can roll back to Windows 10, but you'd better be quick")
+
+
+[Regret installing Windows 11? You can roll back to Windows 10, but you'd better be quick](https://www.cnet.com/tech/computing/regret-installing-windows-11-you-can-roll-back-to-windows-10-but-you-better-be-quick/)
+
+
+> Microsoft/Screenshot by CNET The latest version of Windows, Windows 11, is on its way, rolling out right now. Note that it won't be available to everyone at once, so even if your computer is compatible you may need to wait a few days or months before it shows up for you -- or you can download the new OS now with this workaround. You don't have to install Windows 11 right away if you're unsure. In fact, you have until 2025 before Microsoft says it'll stop supporting Windows 10. Read our Windows 11 review and about the biggest differences between Windows 10 and Windows 11 and all of Windows 11's best features before making your decision.
+
+
+***
+![Outage highlights how vital Facebook has become worldwide](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/95/5f/892609190d779f378041dda51f1eebac1b0e/download.jpg "Outage highlights how vital Facebook has become worldwide")
+
+
+[Outage highlights how vital Facebook has become worldwide](https://japantoday.com/category/tech/outage-highlights-how-vital-facebook-has-become-worldwide)
+
+
+> The six-hour outage at Facebook, Instagram and Whatsapp was a headache for many casual users but far more serious for the millions of people worldwide who rely on the social media sites to run their businesses or communicate with relatives, fellow parents, teachers or neighbors. When all three services went dark Monday, it was a stark reminder of the power and reach of Facebook, which owns the photo-sharing and messaging apps. Around the world, the breakdown at WhatsApp left many at a loss. In Brazil, the messaging service is by far the most widely used app in the country, installed on 99% of smartphones, according to tech pollster Mobile Time.
+
+
