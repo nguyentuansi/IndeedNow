@@ -8959,3 +8959,50 @@
 > Attach Main technology Image: Image Caption: Microsoft's Windows 11, Office 2021 in line; features and more Social Media Image : Enter the Technology details: Microsoft has started rolling out the latest upgrade to the popular operating system, Windows 11. The iteration of the operating system came out early, as the company is going to officially launch hardwares powered by Windows 11 along with the latest Microsoft Office 2021 and Microsoft 365. Selected users can upgrade to the new Windows 11 right now whereas it will be released globally after some time.
 
 
+***
+[Experts say automakers use chips with older process nodes because they need long lead times for testing, which is at odds with how chipmakers prefer to operate (Adam Ismail/Jalopnik)](http://www.techmeme.com/211005/p3#a211005p3)
+
+
+> Adam Ismail / Jalopnik: Experts say automakers use chips with older process nodes because they need long lead times for testing, which is at odds with how chipmakers prefer to operate — It's a classic case of two industries that have conflicting needs but still have to work together. — Alerts
+
+
+***
+![Strategy Analytics: Xiaomi Tops Central and Eastern Europe 5G Smartphones in Q3 2021](https://mms.businesswire.com/media/20211004005923/en/912880/23/Figure_1._Central_Eastern_Europe_5G_Smartphone_Vendor_Share_Q3_2021_vs_Q3_2020.jpg "Strategy Analytics: Xiaomi Tops Central and Eastern Europe 5G Smartphones in Q3 2021")
+
+
+[Strategy Analytics: Xiaomi Tops Central and Eastern Europe 5G Smartphones in Q3 2021](https://www.businesswire.com/news/home/20211004005923/en/Strategy-Analytics-Xiaomi-Tops-Central-and-Eastern-Europe-5G-Smartphones-in-Q3-2021)
+
+
+> October 05, 2021 02:00 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--According to the latest research from Strategy Analytics, in the third quarter of 2021, Xiaomi captured an estimated forty-two percent of total 5G smartphone shipments in Central and Eastern Europe, on annualized shipment growth of 5,700 percent. 'Xiaomi is the leading Android 5G smartphone vendor globally in Q3 2021 and is the leading 5G smartphone vendor overall in Central and Eastern Europe,' says Ville-Petteri Ukonaho, Associate Director at Strategy Analytics.
+
+
+***
+![#TECH: Facebook chooses 'profit over safety'](https://assets.nst.com.my/images/articles/botsfbsafe_NSTfield_image_socialmedia.var_1633413340.jpg "#TECH: Facebook chooses 'profit over safety'")
+
+
+[#TECH: Facebook chooses 'profit over safety'](https://www.nst.com.my/lifestyle/bots/2021/10/733782/tech-facebook-chooses-profit-over-safety-whistleblower)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Tesla ordered to pay $137 million in discrimination lawsuit](https://www.cnet.com/a/img/bRVH1UKI5A8Cw42s6WahBrEOFmM=/1200x630/2011/02/16/d85fd473-f0f6-11e2-8c7c-d4ae52e62bcc/tesla-factory-6_540x360.jpg "Tesla ordered to pay $137 million in discrimination lawsuit")
+
+
+[Tesla ordered to pay $137 million in discrimination lawsuit](https://www.cnet.com/roadshow/news/tesla-ordered-to-pay-137-million-in-discrimination-lawsuit/)
+
+
+> Tesla's factory in Fremont, California. James Martin/CNET Tesla has been ordered to pay nearly $137 million in damages in a lawsuit that alleged a Black former employee was subjected to racist abuse, discrimination and harassment at the company's production facility in Fremont, California.The jury in the San Francisco federal court on Monday awarded the judgment to Owen Diaz, an elevator operator who worked for the company between June 2015 and May 2016, according to Bloomberg, which earlier reported on the verdict.
+
+
+***
+![African NFT Collection Masks of Ether Is a Revolution](https://mms.businesswire.com/media/20211004006056/en/912948/23/Mask_%2312-%28002%29.jpg "African NFT Collection Masks of Ether Is a Revolution")
+
+
+[African NFT Collection Masks of Ether Is a Revolution](https://www.businesswire.com/news/home/20211004006056/en/African-NFT-Collection-Masks-of-Ether-Is-a-Revolution)
+
+
+> October 05, 2021 01:49 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Masks of Ether, an NFT collection inspired by African tribal art, is launching its portfolio of 10,000 images on October 5th to bring more African voices to the blockchain space. The collection of NFTs will release 10,000 generative images featuring pixel art masks, inspired by West-African tribal masks. Harrison Foko, artist and creator of Masks of Ether, aims to bring traditional African art to a new digital medium and attract new audiences to it.
+
+
