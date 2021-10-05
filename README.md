@@ -9143,3 +9143,50 @@
 > Orca Security, an Israeli security company offering an agent-less platform for protecting cloud-based assets, secured a $550 million extension to the Series C funding round it raised seven months ago. The initial $210 million round brought the company's valuation to over $1 billion, and the latest round boosts the valuation by 50% to $1.8 billion, Avi Shua, co-founder and CEO told TechCrunch. Temasek led the round and was joined by strategic investors SAIC and Splunk Ventures. The initial C round was led by CapitalG and included Redpoint Ventures, GGV, ICONIQ Capital, Lone Pine Capital, Stripes, Adams Street Partners, Willoughby Capital and Harmony Partners.
 
 
+***
+![Python ransomware strikes virtual machines in 'ultra-high-speed' attacks](https://cdn.mos.cms.futurecdn.net/9jwoYqPpkcPNa9JuritsPT-1200-80.jpg "Python ransomware strikes virtual machines in 'ultra-high-speed' attacks")
+
+
+[Python ransomware strikes virtual machines in 'ultra-high-speed' attacks](https://www.techradar.com/news/python-ransomware-strikes-virtual-machines-in-ultra-high-speed-attacks)
+
+
+> (Image credit: Future) Cybersecurity experts have shared details about a speedy new ransomware campaign attacking virtual machines (VM) hosted on a VMware ESXi hypervisor.Describing it as a sniper-like operation, Sophos researchers claim that it took the attackers less than three hours from breaching the target to encrypting it.'This is one of the fastest ransomware attacks Sophos has ever investigated and it appeared to precision-target the ESXi platform,' said Andrew Brandt, principal researcher at Sophos.
+
+
+***
+![The best cheap Amazon Kindle sale prices and deals in October 2021](https://cdn.mos.cms.futurecdn.net/HhauFY5F3WAH6P23YF4ibB-1200-80.jpg "The best cheap Amazon Kindle sale prices and deals in October 2021")
+
+
+[The best cheap Amazon Kindle sale prices and deals in October 2021](https://www.techradar.com/news/portable-devices/portable-media/kindle-deals-1296345)
+
+
+> A cheap Kindle sale is never hard to find, as Amazon is keen to keep its dominance of the ereader market. Kindle prices for most of the devices are already great value given the high quality you get in your hands. We've rounded up all the cheapest Kindle deals as various retailers compete to try to offer you the best bargains. We've covered every readily available model including the basic Kindles, the excellent all-rounder Paperwhites and the super fancy Kindle Oasis luxury ereaders. Naturally, we'll explain the differences between the various Kindle devices too so you can make the most informed decision about which one suits you best.
+
+
+***
+[Leaked court doc shows US investigators secretly used a "keyword warrant" to order Google to provide data on anyone searching a victim's name and personal info (Thomas Brewster/Forbes)](http://www.techmeme.com/211005/p25#a211005p25)
+
+
+> Thomas Brewster / Forbes: Leaked court doc shows US investigators secretly used a “keyword warrant” to order Google to provide data on anyone searching a victim's name and personal info — The U.S. government is secretly ordering Google to provide data on anyone typing in certain search terms, an accidentally unsealed court document shows.
+
+
+***
+![5 early Black Friday deals you can (and should) shop today](https://icdn.digitaltrends.com/image/digitaltrends/apple-watch-series-6-lifestyle-photo.jpg "5 early Black Friday deals you can (and should) shop today")
+
+
+[5 early Black Friday deals you can (and should) shop today](https://www.digitaltrends.com/dtdeals/5-early-black-friday-deals-you-can-and-should-shop-today/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. This year's Black Friday deals are just several weeks away, but it's highly recommended that you take advantage of early Amazon Black Friday deals to avoid the supply chain issues that arise during the holiday season. If you wait until Black Friday, the items that you purchase may not arrive on time, and they may even go on backorder if the product that you bought is a popular one. Products such as Apple devices, tablets, and laptops are always in demand, so the discounts that are currently available on Amazon likely won't change much on Black Friday.
+
+
+***
+![Swipe to Closing apps Unreliable in Landscape](https://images.macrumors.com/social/?t=2315498&v=6 "Swipe to Closing apps Unreliable in Landscape")
+
+
+[Swipe to Closing apps Unreliable in Landscape](https://forums.macrumors.com/threads/swipe-to-closing-apps-unreliable-in-landscape.2315498/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I purchased an iPad Air4 two weeks ago. I really like this replacement for my iPad6 but one gripe I have is swiping up to close apps is inconsistent. Sometime it works with a light swipe or I have to press hard or on an angle. It's much worse when I use it to read in bed while in portrait position but locked in landscape with my head to the side. Portrait mode seems to work OK.
+
+
