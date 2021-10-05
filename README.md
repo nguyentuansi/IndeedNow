@@ -8831,3 +8831,43 @@
 > Around 11:30 a.m. on Monday, Instagram went down as part of a larger, as-yet-unexplained outage of Facebook and its subsidiaries. Several hours later, with no resolution, I've found myself in a strange time-freeze. I feel conflicting emotions, glad that rampant misinformation is taking the day off, but perplexed at the content that has lived at the top of my feed the entire afternoon. Every time I've opened Instagram today, I've seen the same thing: a normal layout with a few seconds of a spinning refresh wheel and then the same picture repeatedly displaying.
 
 
+***
+![Windows 11: What you need to know about Microsoft's release of its new operating system](https://www.gannett-cdn.com/presto/2021/06/24/USAT/1b7d4d49-9891-4f09-8a7a-43adff3203e9-windows11.jpeg?crop=995,560,x2,y0&width=995&height=560&format=pjpg&auto=webp "Windows 11: What you need to know about Microsoft's release of its new operating system")
+
+
+[Windows 11: What you need to know about Microsoft's release of its new operating system](https://www.usatoday.com/story/tech/2021/10/04/windows-11-microsoft-releases-new-operating-software/5989974001/)
+
+
+> Six things to know about Microsoft's latest software Windows 11Microsoft reveals Windows 11, its first new operating system since 2015.Microsoft has begun the Windows 11 rollout, a process that will continue into 2022 for owners of PCs, tablets and devices.The free upgrade of its operating system will first become available to newer computers and devices, followed by those currently running Windows 10, the company has said. Microsoft expects all eligible devices will have access to the free Windows 11 upgrade by mid-2022.
+
+
+***
+![Facebook, Instagram, WhatsApp reconnecting after nearly six-hour outage](https://smartcdn.prod.postmedia.digital/torontosun/wp-content/uploads/2021/09/GIPHY-M_A_FACEBOOK-CMA-scaled-e1631122174654.jpg?quality=100&strip=all "Facebook, Instagram, WhatsApp reconnecting after nearly six-hour outage")
+
+
+[Facebook, Instagram, WhatsApp reconnecting after nearly six-hour outage](https://torontosun.com/technology/facebook-instagram-down-for-thousands-of-users-downdetector-com)
+
+
+> This advertisement has not loaded yet, but your article continues below. Oct 04, 2021  •  7 minutes ago  •  2 minute read  •  17 Comments The Facebook app is seen on a phone screen August 3, 2017. Photo by Thomas White /REUTERS Facebook, Instagram and WhatsApp at least partially reconnected to the global internet late on Monday afternoon Eastern time, nearly six hours into an outage that paralyzed the social media platform. This advertisement has not loaded yet, but your article continues below. Facebook and its WhatsApp and Instagram apps went dark at around noon Eastern time (1600 GMT), in what website monitoring group Downdetector said was the largest such failure it had ever seen.
+
+
+***
+![How iOS 15's Health Data Sharing Works, And Is It Safe?](https://static3.srcdn.com/wordpress/wp-content/uploads/2021/10/Apple-health-data-sharing.jpg "How iOS 15's Health Data Sharing Works, And Is It Safe?")
+
+
+[How iOS 15's Health Data Sharing Works, And Is It Safe?](https://screenrant.com/apple-ios-15-health-data-sharing-works-safety-privacy-explained/)
+
+
+> iOS users can now share health data through the Health app. For those concerned with safety, there are options to manage the data shared with others. The latest iOS 15 update includes an option to share health data with friends and family, and even healthcare professionals. The option to share Health data is part of a wide range of new features that were launched along with the latest version of iOS. While this can be a useful tool, it's also important for users to be aware of the safety protections that are in place, especially considering the personal nature of the information being shared.
+
+
+***
+![Technik Induction Cooker: The best choice for condo living](https://lifestyle.inquirer.net/files/2021/10/Screen-Shot-2021-10-04-at-6.14.08-PM.png?w=640 "Technik Induction Cooker: The best choice for condo living")
+
+
+[Technik Induction Cooker: The best choice for condo living](https://lifestyle.inquirer.net/?p=389286)
+
+
+> Have you been thinking of moving in the metro but isn't sure if you can pull off living somewhere with a limited space?  Not only does having a limited home space can be a real challenge but so does juggling between chores especially for urban professionals. Most people who work with a busy schedule still want to spare time for the things they love, like cooking.  We know how time-consuming it is to look for the perfect cooking partner that not only meets your requirements but also fits your kitchen space.
+
+
