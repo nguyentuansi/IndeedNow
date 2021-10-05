@@ -9106,3 +9106,40 @@
 > (Image credit: Future) Mario Kart Live: Home Circuit deals are starting to offer more and more cash off this AR racing experience now that the karts have been parked on the shelves for a few months. That means we've been seeing the Mario Kart Live price dropping by as much as $15 / £10 so far in 2021. With all those pesky stock issues out the way, things are looking optimistic for those looking to save on a brand new Mario Kart experience – especially if you want to buy over Black Friday 2021.The official Mario Kart Live: Home Circuit price is $99.
 
 
+***
+![Bitcoin price surge drives Ethereum, Cardano and dogecoin revival – follow live](https://static.independent.co.uk/2021/10/05/11/bitcoin%20price%20live%20btc%20news.jpg?width=1200&auto=webp&quality=75 "Bitcoin price surge drives Ethereum, Cardano and dogecoin revival – follow live")
+
+
+[Bitcoin price surge drives Ethereum, Cardano and dogecoin revival – follow live](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-news-live-price-btc-ethereum-b1932519.html)
+
+
+> Bitcoin is experiencing a strong price recovery at the start of October 2021 amid positive news in the crypto spaceAnthony CuthbertsonTuesday 05 October 2021 13:06 commentsBitcoin returned above $50,000 on Tuesday morning, marking the latest price gains in a remarkable recovery for the crypto market.After briefly falling below $30,000 at the end of July, the cryptocurrency is now just $14,000 away from the all-time price high it experienced in mid April.Other leading cryptocurrencies have mirrored bitcoin's fortunes in recent weeks, with Ethereum (ether), Binance Coin and dogecoin all rising by between 15-30 per cent since this time last week.
+
+
+***
+![Amazon Great Indian Festival sale: Best ultra-affordable deals on wireless earphones you should check out](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/Screenshot_2021-10-05_at_5.33.-647x363.png?v30dRNPoeg.VdKg62mvkQa1Mdk4qH812 "Amazon Great Indian Festival sale: Best ultra-affordable deals on wireless earphones you should check out")
+
+
+[Amazon Great Indian Festival sale: Best ultra-affordable deals on wireless earphones you should check out](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-sale-best-ultra-affordable-deals-on-wireless-earphones-you-should-check-out-1861070-2021-10-05)
+
+
+> (Picture: boAt rockerz 450)Amazon Great Indian Festival Sale is now live.Audio wear like earphones and headphones from brands like Boat, Boult and Zebronics are available during the sale.The comfortable audio wear priced under Rs 1000 can be used during remote work or workouts.Amazon Great Indian Festival Sale went live recently and has significant deals and discounts on gadgets among other things. Wireless headphones or earphones are an indispensable part of users who are working from home and need these devices for their regular workouts.
+
+
+***
+[Garena Free Fire latest update: Get Crimson Hier Parafal skin and latest Free Fire redeem codes process](https://www.zeebiz.com/technology/apps/news-garena-free-fire-latest-update-get-crimson-hier-parafal-skin-and-latest-free-fire-redeem-codes-process-166963)
+
+
+> Gamers can know that Garena Free Fire also offers a vast range of cosmetics like outfits, skins and more for players to choose from.
+
+
+***
+![Temasek leads $550M Series C extension into Orca Security, which aims for further international foothold – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/orca-security-avi-gil.png?w=764 "Temasek leads $550M Series C extension into Orca Security, which aims for further international foothold – TechCrunch")
+
+
+[Temasek leads $550M Series C extension into Orca Security, which aims for further international foothold – TechCrunch](https://techcrunch.com/2021/10/05/temasek-leads-550m-series-c-extension-into-orca-security-which-aims-for-further-international-foothold/)
+
+
+> Orca Security, an Israeli security company offering an agent-less platform for protecting cloud-based assets, secured a $550 million extension to the Series C funding round it raised seven months ago. The initial $210 million round brought the company's valuation to over $1 billion, and the latest round boosts the valuation by 50% to $1.8 billion, Avi Shua, co-founder and CEO told TechCrunch. Temasek led the round and was joined by strategic investors SAIC and Splunk Ventures. The initial C round was led by CapitalG and included Redpoint Ventures, GGV, ICONIQ Capital, Lone Pine Capital, Stripes, Adams Street Partners, Willoughby Capital and Harmony Partners.
+
+
