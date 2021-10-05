@@ -8871,3 +8871,47 @@
 > Have you been thinking of moving in the metro but isn't sure if you can pull off living somewhere with a limited space?  Not only does having a limited home space can be a real challenge but so does juggling between chores especially for urban professionals. Most people who work with a busy schedule still want to spare time for the things they love, like cooking.  We know how time-consuming it is to look for the perfect cooking partner that not only meets your requirements but also fits your kitchen space.
 
 
+***
+![WhatsApp, Facebook, Instagram outage: CEO Mark Zuckerberg breaks SILENCE](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/10/05/999396-mark-zuckerberg-reuters.jpg "WhatsApp, Facebook, Instagram outage: CEO Mark Zuckerberg breaks SILENCE")
+
+
+[WhatsApp, Facebook, Instagram outage: CEO Mark Zuckerberg breaks SILENCE](https://www.dnaindia.com/technology/report-whatsapp-facebook-instagram-outage-ceo-mark-zuckerberg-say-this-2914119)
+
+
+> Updated: Oct 5, 2021, 07:37 AM IST Apologising for the disruption in the services of Facebook, Whatsapp and Instagram, tech giant's CEO Mark Zuckerberg has stated that services are returning online on Tuesday. "Facebook, Instagram, WhatsApp and Messenger are coming back online now," Zuckerberg said in a Facebook post. "Sorry for the disruption today -- I know how much you rely on our services to stay connected with the people you care about," he said. Taking to Twitter early on Tuesday, WhatsApp said: "Apologies to everyone who hasn't been able to use WhatsApp today.
+
+
+***
+![Where is the price by model & photo for 7? And compare table 7 vs. 6?](https://images.macrumors.com/social/?t=2315416&v=6 "Where is the price by model & photo for 7? And compare table 7 vs. 6?")
+
+
+[Where is the price by model & photo for 7? And compare table 7 vs. 6?](https://forums.macrumors.com/threads/where-is-the-price-by-model-photo-for-7-and-compare-table-7-vs-6.2315416/)
+
+
+> I couldn't find the detailed price by model, color, photo of iwatch 7? and no head-to-head benchmark table 7 vs. 6 vs. 4? Thanks!
+
+
+***
+![NetApp inks deal to acquire CloudCheckr](https://itwire.com/media/k2/items/cache/37af26be02f238cf1e1fbb5df8558784_XS.jpg "NetApp inks deal to acquire CloudCheckr")
+
+
+[NetApp inks deal to acquire CloudCheckr](https://itwire.com/deals/netapp-inks-deal-to-acquire-cloudcheckr.html)
+
+
+> Global cloud-led data-centric software company NetApp has signed a definitive agreement to acquire cloud optimisation platform provider CloudCheckr. NetApp says the acquisition extends its Spot by NetApp's FinOps offerings by combining critical cost visibility and reporting from the CloudCheckr platform 'with continuous cost optimization and managed services from Spot by NetApp'. 'Bringing these capabilities together will enable organisations to better understand and continuously improve their cloud resources and realize the benefits of cloud faster and at scale,' NetApp said.
+
+
+***
+[Drones Raining from the Sky in Zhengzhou](https://twitter.com/pitdesi/status/1445118812659933187)
+
+
+> We've detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center. Help Center
+
+
+***
+[Any idea for a project? Or I should call her?](https://www.reddit.com/r/Python/comments/q1kqhw/any_idea_for_a_project_or_i_should_call_her/)
+
+
+> no comments yetBe the first to share what you think!
+
+
