@@ -8915,3 +8915,47 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Kobo refreshes e-reader line with Sage and Libra 2, adding Bluetooth and stylus support – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/KOBO_Sage_0962-EN.jpg "Kobo refreshes e-reader line with Sage and Libra 2, adding Bluetooth and stylus support – TechCrunch")
+
+
+[Kobo refreshes e-reader line with Sage and Libra 2, adding Bluetooth and stylus support – TechCrunch](https://techcrunch.com/2021/10/04/kobo-refreshes-e-reader-line-with-sage-and-libra-2-adding-bluetooth-and-stylus-support/)
+
+
+> A pair of new e-readers from Kobo iterate on the company's high-end options, adding Bluetooth audiobook and stylus support to the now familiar asymmetrical design of its larger devices. The Sage and Libra 2 also gain a new charging cover so you only have to plug the device in every few months rather than every few weeks. The Sage is the higher-end of the two models, being an evolution of the Forma, which I reviewed here. The excellent 8″, 300 PPI screen and color-adjustable screen light are the same, so rest assured the reading experience will continue to be great.
+
+
+***
+![Kobo's new ereaders show asymmetry is here to stay, and we're all for it](https://cdn.mos.cms.futurecdn.net/TPHY2rWCGZEdajwecC6Dw6-1200-80.jpeg "Kobo's new ereaders show asymmetry is here to stay, and we're all for it")
+
+
+[Kobo's new ereaders show asymmetry is here to stay, and we're all for it](https://www.techradar.com/news/kobos-new-ereaders-show-asymmetry-is-here-to-stay-and-were-all-for-it)
+
+
+> Kobo – the brand behind some of the best ereaders available – isn't sitting still. Barely six months after unveiling the productivity-oriented Kobo Elipsa, there are now two more ereaders joining the ranks. The company has just announced that the Kobo Sage and the Kobo Libra 2 are now available to pre-order directly from the maker, and will be on shelves starting October 19.The Sage and Libra 2 follow in the footsteps of the Kobo Forma and Kobo Libra H2O, respectively, and would seem to indicate that the asymmetrical design that was introduced in their forebears has been a winner for Kobo.
+
+
+***
+![Try these 4 cool tricks with the Amazon Echo in your living room](https://www.cnet.com/a/img/52b10w7BI72Zl5Z-SsY2oqETAKg=/1200x630/2020/10/21/34a79d41-e947-4363-82f9-0a807e256352/amazon-echo-2020-3.jpg "Try these 4 cool tricks with the Amazon Echo in your living room")
+
+
+[Try these 4 cool tricks with the Amazon Echo in your living room](https://www.cnet.com/home/smart-home/4-best-uses-for-amazon-echo-in-your-living-room/)
+
+
+> Place your Echo somewhere in the living room. Chris Monroe/CNET If you've got a living room, you probably spend a lot of time there, which makes it the perfect home for your Amazon Echo. And while you may use Alexa to drop in on other speakers in the house or play music, or even as a home security camera, there are several other benefits to keeping an Echo device in the living room.  For example, Alexa can turn your living room into a home theater, and can even let you control all your smart home devices from your couch.
+
+
+***
+[London-based freight forwarding and supply chain finance startup Beacon raises $50M Series B led by Northstar.vc, claims revenue has grown 12x in the last year (VentureBeat)](http://www.techmeme.com/211004/p32#a211004p32)
+
+
+> VentureBeat: London-based freight forwarding and supply chain finance startup Beacon raises $50M Series B led by Northstar.vc, claims revenue has grown 12x in the last year — Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next.
+
+
+***
+[Microsoft's Windows 11, Office 2021 in line; features and more](http://www.pinkvilla.com/tech/news/microsoft-s-windows-11-office-2021-in-line-features-and-more-910929)
+
+
+> Attach Main technology Image: Image Caption: Microsoft's Windows 11, Office 2021 in line; features and more Social Media Image : Enter the Technology details: Microsoft has started rolling out the latest upgrade to the popular operating system, Windows 11. The iteration of the operating system came out early, as the company is going to officially launch hardwares powered by Windows 11 along with the latest Microsoft Office 2021 and Microsoft 365. Selected users can upgrade to the new Windows 11 right now whereas it will be released globally after some time.
+
+
