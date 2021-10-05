@@ -9006,3 +9006,53 @@
 > October 05, 2021 01:49 AM Eastern Daylight Time LONDON--(BUSINESS WIRE)--Masks of Ether, an NFT collection inspired by African tribal art, is launching its portfolio of 10,000 images on October 5th to bring more African voices to the blockchain space. The collection of NFTs will release 10,000 generative images featuring pixel art masks, inspired by West-African tribal masks. Harrison Foko, artist and creator of Masks of Ether, aims to bring traditional African art to a new digital medium and attract new audiences to it.
 
 
+***
+![‘Our future King!' exclaims the narrator. Young fans are just as enthralled by William and Kate as they are by Harry and Meghan.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "‘Our future King!' exclaims the narrator. Young fans are just as enthralled by William and Kate as they are by Harry and Meghan.")
+
+
+[‘Our future King!' exclaims the narrator. Young fans are just as enthralled by William and Kate as they are by Harry and Meghan.](https://en.brinkwire.com/news/our-future-king-exclaims-the-narrator-young-fans-are-just-as-enthralled-by-william-and-kate-as-they-are-by-harry-and-meghan/)
+
+
+> ‘Our future King!' exclaims the narrator. Young fans are just as enthralled by William and Kate as they are by Harry and Meghan. PRINCE WILLIAM and Kate Middleton were captured in a candid new video winning over teenage rugby players as they wrapped up their hurried trip to Derry, Northern Ireland, in style. The Duke and Duchess of Cambridge praised a 'truly inspirational' cross-community sporting activity at the end of their trip. The Cambridges won over youthful fans during their successful day visit to Derry/Londonderry, just as Prince Harry and Meghan Markle did during their recent trip to New York.
+
+
+***
+![Starbucks employees protest heavy workload, working conditions](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/b534d9bbe01a41abb19b36cd644822f0.jpg "Starbucks employees protest heavy workload, working conditions")
+
+
+[Starbucks employees protest heavy workload, working conditions](https://www.koreatimes.co.kr/www/tech/2021/10/694_316510.html)
+
+
+> A Starbucks employee serves beverages in its limited-edition tumblers marking the company's 50th anniversary, at a Starbucks cafe in Seoul on Sept. 28, during a "reusable cup day" event. YonhapBy Lee Hae-rinEmployees of Starbucks Korea are up in arms about their working conditions, particularly the frequent promotional events that have been increasing their workload significantly. They said they will hold rallies calling on the company to refrain from holding such events so frequently and improve their working conditions.
+
+
+***
+![Facebook deletes some content banned in Russia, but still faces fine – report](https://assets2.rappler.com/2021/09/facebook-september-8-2021-1633421049235.jpg "Facebook deletes some content banned in Russia, but still faces fine – report")
+
+
+[Facebook deletes some content banned in Russia, but still faces fine – report](https://www.rappler.com/technology/social-media/facebook-deletes-some-content-banned-russia-still-faces-fine)
+
+
+> Facebook has complied with Russian demands to delete some banned content, but it could still face a hefty fine as it was slow to do so, the Vedomosti newspaper cited state communications regulator Roskomnadzor as saying on Monday, October 4. Russia has increased pressure on foreign tech firms in recent months as part of a long-running push to assert greater sovereignty over its segment of the internet. Experts cited by Vedomosti estimate Facebook's Russian turnover at between 12 and 39 billion rubles ($165-$538 million).
+
+
+***
+![Windows 365 Enterprise now supports Windows 11 Cloud PCs](https://cdn.neow.in/news/images/uploaded/2021/10/1633419373_01_w365-w11_story.jpg "Windows 365 Enterprise now supports Windows 11 Cloud PCs")
+
+
+[Windows 365 Enterprise now supports Windows 11 Cloud PCs](https://www.neowin.net/news/windows-365-enterprise-now-supports-windows-11-cloud-pcs/)
+
+
+> Microsoft announced Windows 365 back in July, and it hit general availability in August. The company's virtualized cloud OS offering enables organizations to stream from Windows hosted on the Microsoft Cloud. This is a full Windows experience for each employee with personalized settings, apps, and data. You do not need any special hardware to run it, and just have to choose from the multiple pricing tiers ranging from $20 all the way up to $162 - which nets you a Cloud PC with 8 vCPUs, 32GB of RAM, and 512GB of storage.
+
+
+***
+![Facebook asks US court to dismiss case to force sale of Instagram and WhatsApp](https://static.independent.co.uk/2021/10/05/06/GettyImages-1232163307.jpg?width=1200&auto=webp&quality=75 "Facebook asks US court to dismiss case to force sale of Instagram and WhatsApp")
+
+
+[Facebook asks US court to dismiss case to force sale of Instagram and WhatsApp](https://www.independent.co.uk/life-style/gadgets-and-tech/facebook-asks-us-court-to-dismiss-b1932406.html)
+
+
+> Facebook Inc filed a motion on Monday asking a US court to dismiss the Federal Trade Commission's antitrust case against the company, which seeks to force it to sell Instagram and WhatsApp. The motion was filed on the same day the company's platforms experienced a six-hour-long global outage that may cost the world economy nearly $1bn according to some estimates.In its argument, the social media giant said there was 'no valid factual basis' for branding the company an 'unlawful monopolist', and added that the Federal Trade Commission's August complaint relied on 'guesswork rather than facts.
+
+
