@@ -9287,3 +9287,53 @@
 > The world-first software, created by drone rescue company the Ripper Group and Advanced Navigation, will give real-time alerts to surf life savers about sharks sightings and struggling swimmers, even deploying small rafts to swimmers in danger faster.
 
 
+***
+![These are the best Roborock vacuums you can get](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/12/roborock-s6-hero2.jpg "These are the best Roborock vacuums you can get")
+
+
+[These are the best Roborock vacuums you can get](https://www.androidcentral.com/best-roborock-vacuum)
+
+
+> Source: Android Central Best Roborock vacuums Android Central 2021 Keeping your house clean isn't the easiest thing in the world. You have to find the time between running to work, taking care of family, and scheduling in that much-needed downtime. Something that can help keep your home clean is a reliable robot vacuum. I personally go with Roborock since the company creates quality products, like the Roborock S7, which comes with several convenience features while still incredibly good at cleaning my home.
+
+
+***
+![Google Calendar gains handy shortcut to easily create meeting notes in Docs](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brb/public/article_images/2018/09/google-calendar-6-hero-2.jpg "Google Calendar gains handy shortcut to easily create meeting notes in Docs")
+
+
+[Google Calendar gains handy shortcut to easily create meeting notes in Docs](https://www.androidcentral.com/google-calendar-create-meeting-notes)
+
+
+> Source: Android Central Google Calendar adds the option to create notes directly from an event. The document will automatically populate with the meeting/event information. Meeting notes will be automatically viewable to other meeting attendees depending on how you start them. Google is updating the Calendar app that will make it easy to create and share meeting notes straight from an event entry. A new option to "Take meeting notes" will appear on a Calendar event. Selecting the option will automatically populate the Google Doc with the relevant meeting information for easy organization.
+
+
+***
+![Wejo Launches Wejo Studio, Enabling Access to Connected Vehicle Data Anytime, Anywhere](https://mms.businesswire.com/media/20211005006152/en/913399/23/wejo-2019_highres.jpg "Wejo Launches Wejo Studio, Enabling Access to Connected Vehicle Data Anytime, Anywhere")
+
+
+[Wejo Launches Wejo Studio, Enabling Access to Connected Vehicle Data Anytime, Anywhere](https://www.businesswire.com/news/home/20211005006152/en/Wejo-Launches-Wejo-Studio-Enabling-Access-to-Connected-Vehicle-Data-Anytime-Anywhere)
+
+
+> October 05, 2021 03:48 PM Eastern Daylight Time MANCHESTER, England--(BUSINESS WIRE)--Wejo Limited ('Wejo'), a global leader in connected vehicle data (CVD), has unveiled Wejo Studio, a web-based SaaS platform that analyzes data from millions of connected vehicles and translates billions of data points in near real-time into game-changing traffic and journey insights for all business users to leverage. Organizations—from public sector transportation departments to real estate companies to fleet and logistics companies and beyond—can unlock a deeper understanding of mobility trends, enabling them to make smarter decisions faster, innovate and solve problems more effectively.
+
+
+***
+![This new platform is teaching emerging fund managers how to survive and thrive – TechCrunch](https://techcrunch.com/wp-content/uploads/2018/03/lo-toney-e1520706654996.jpg?w=489 "This new platform is teaching emerging fund managers how to survive and thrive – TechCrunch")
+
+
+[This new platform is teaching emerging fund managers how to survive and thrive – TechCrunch](https://techcrunch.com/2021/10/05/this-new-platform-is-teaching-emerging-fund-managers-how-to-survive-and-thrive/)
+
+
+> More people have begun turning to venture investing as a full-time pursuit, only to discover that it's not as easy as it looks. That realization explains the rise of Oper8r, a for-profit, venture-backed accelerator that launched last year as a kind of Y Combinator for emerging fund managers. It explains the broad appeal of AngelList, which handles a lot of the hassle of fund administration in exchange for a fee. Now, Plexo Capital, which is both a venture firm and an outfit that backs other venture funds, is taking the wraps off its own program to help educate investors on the many facets involved in everything from forming a fund, to raising capital, to properly managing those assets.
+
+
+***
+![Video: A Safer Social Media ‘Is Possible,' Facebook Whistle-Blower Says](https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-francesquote2/merlin_195853962_b834ba80-5eef-4868-b092-75a9f9d633af-videoSixteenByNine3000.jpg?video-overlay?video-overlay?video-overlay "Video: A Safer Social Media ‘Is Possible,' Facebook Whistle-Blower Says")
+
+
+[Video: A Safer Social Media ‘Is Possible,' Facebook Whistle-Blower Says](https://www.nytimes.com/video/technology/100000008009597/frances-haugen-whistle-blower-facebook-social-media-problems.html)
+
+
+> Skip to contentSkip to site indexnew video loaded: A Safer Social Media ‘Is Possible,' Facebook Whistle-Blower SaysRecent episodes in Latest VideoWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, Times Video journalists provide a revealing and unforgettable view of the world.Whether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, Times Video journalists provide a revealing and unforgettable view of the world.
+
+
