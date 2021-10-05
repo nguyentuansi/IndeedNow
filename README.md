@@ -9056,3 +9056,53 @@
 > Facebook Inc filed a motion on Monday asking a US court to dismiss the Federal Trade Commission's antitrust case against the company, which seeks to force it to sell Instagram and WhatsApp. The motion was filed on the same day the company's platforms experienced a six-hour-long global outage that may cost the world economy nearly $1bn according to some estimates.In its argument, the social media giant said there was 'no valid factual basis' for branding the company an 'unlawful monopolist', and added that the Federal Trade Commission's August complaint relied on 'guesswork rather than facts.
 
 
+***
+![Whistleblower to Congress: Facebook products harm children and weaken democracy](https://media.npr.org/assets/img/2021/10/04/gettyimages-1344800246_wide-7d132e406b95435db131843bd9fe1ac8ce5d5196.jpg?s=1400 "Whistleblower to Congress: Facebook products harm children and weaken democracy")
+
+
+[Whistleblower to Congress: Facebook products harm children and weaken democracy](https://www.npr.org/2021/10/05/1043207218/whistleblower-to-congress-facebook-products-harm-children-and-weaken-democracy)
+
+
+> In this photo illustration, the Facebook and Instagram apps are seen on the screen of an iPhone. A whistleblower is accusing the social media giant of putting profits over people. Justin Sullivan/Getty Images Facebook's products "harm children, stoke division, weaken our democracy and much more," Frances Haugen, the former Facebook employee who leaked tens of thousands of pages of internal documents, will tell lawmakers on Tuesday. "When we realized tobacco companies were hiding the harms [they] caused, the government took action.
+
+
+***
+![Windows 11 compatibility: Find out now if your computer will get the upgrade](https://www.cnet.com/a/img/COrT_N0vpb6duQo7Qwy9KTYSdz4=/1200x630/2021/04/14/472126e8-b6d3-42b6-a440-faba350f0d0f/microsoft-surface-laptop-4-2021-004.jpg "Windows 11 compatibility: Find out now if your computer will get the upgrade")
+
+
+[Windows 11 compatibility: Find out now if your computer will get the upgrade](https://www.cnet.com/tech/computing/windows-11-compatibility-find-out-now-if-your-computer-will-get-the-upgrade/)
+
+
+> Microsoft will phase out Windows 10 support over the next few years, so it's important to make sure your device supports Windows 11. Sarah Tew/CNET Windows 11 arrives today (here's out full Windows 11 review) and the big question on a lot of PC-users' minds since Microsoft unveiled its first major operating system upgrade in six years is: Will my computer be compatible? There's been some confusion about device compatibility since Microsoft's big announcement of the updated OS earlier this summer.
+
+
+***
+![DirecTV Stream review: Expensive, but the best option for streaming NBA and NHL](https://www.cnet.com/a/img/G5zuflxrFnv8LAMQhMRwaBMsre4=/1200x630/2021/10/04/078a00b3-3a4a-4d87-a822-dd1db5d203d0/direct-tv-stream-logo-with-ipad.jpg "DirecTV Stream review: Expensive, but the best option for streaming NBA and NHL")
+
+
+[DirecTV Stream review: Expensive, but the best option for streaming NBA and NHL](https://www.cnet.com/tech/services-and-software/directv-stream-review-expensive-but-the-best-option-for-streaming-nba-and-nhl/)
+
+
+> Sarah Tew/CNET In its five year history DirecTV Stream has been the most tumultuous of all of the live TV streaming services. After starting life as DirecTV Now in 2016, it has endured three different name changes, flip-flops on compulsory hardware and a series of price hikes. The current version of DirecTV Stream is separate from the DirecTV satellite service, which remains available, and instead competes against cord-cutter services YouTube TV and Hulu Plus Live TV.DirecTV Stream is not cheap. A monthly subscription starts at $70, and to get access to your local regional sports network you'll need to pay for the $85 Choice package.
+
+
+***
+![Millions of people rely on Facebook to get online. The outage left them stranded.](https://wp.technologyreview.com/wp-content/uploads/2021/10/AP_21277783263302.jpg?resize=1200,600 "Millions of people rely on Facebook to get online. The outage left them stranded.")
+
+
+[Millions of people rely on Facebook to get online. The outage left them stranded.](https://www.technologyreview.com/2021/10/05/1036479/facebook-global-outage/)
+
+
+> But in 2016, the program (by now renamed Free Basics), was banned by India's Telecom Regulatory Authority, which claimed that it violated net neutrality. Despite that setback, it has continued to roll out, with less fanfare, to other countries in the developing world. In 2018, Facebook said Internet.org had got 100 million people online. In 2019, FreeBasics was available in 65 countries, with around 30 in Africa. Last year, the firm began rolling out Facebook Discover, which allows internet users to access low-bandwidth traffic to all websites (not just Facebook properties,) even if they've run out of data.
+
+
+***
+![The best Mario Kart Live: Home Circuit prices and deals in October 2021](https://cdn.mos.cms.futurecdn.net/WjmHs96tvvboeHKwoD3Ljb-1200-80.jpg "The best Mario Kart Live: Home Circuit prices and deals in October 2021")
+
+
+[The best Mario Kart Live: Home Circuit prices and deals in October 2021](https://www.techradar.com/deals/best-mario-kart-live-home-circuit-price-deals-sales)
+
+
+> (Image credit: Future) Mario Kart Live: Home Circuit deals are starting to offer more and more cash off this AR racing experience now that the karts have been parked on the shelves for a few months. That means we've been seeing the Mario Kart Live price dropping by as much as $15 / £10 so far in 2021. With all those pesky stock issues out the way, things are looking optimistic for those looking to save on a brand new Mario Kart experience – especially if you want to buy over Black Friday 2021.The official Mario Kart Live: Home Circuit price is $99.
+
+
