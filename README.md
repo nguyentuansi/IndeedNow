@@ -9240,3 +9240,50 @@
 > (Image credit: Marvel Studios/Disney) Blade's MCU debut may be here sooner than we think, if an unconfirmed (but potentially official) release date from Marvel Studios is to be believed.According to a post on the official Marvel India Twitter account, Marvel Studios' Blade movie is slated to land in theaters on October 7, 2022. If true, that would place the vampiric anti-hero's next big screen outing between Black Panther: Wakanda Forever and The Marvels, which will arrive in July and November 2022.
 
 
+***
+[Haugen's testimony: Facebook puts growth above public safety and must be more transparent, Section 230 reform is not enough, the buck stops at Zuckerberg, more (Lauren Feiner/CNBC)](http://www.techmeme.com/211005/p33#a211005p33)
+
+
+> Lauren Feiner / CNBC: Haugen's testimony: Facebook puts growth above public safety and must be more transparent, Section 230 reform is not enough, the buck stops at Zuckerberg, more — - Facebook whistleblower Frances Haugen testified before a Senate panel Tuesday, telling lawmakers they must intervene to solve the …
+
+
+***
+![Snapchat wants to help you run for office](https://www.cnet.com/a/img/Zi7huxBP66q2a8zSqsT7KNMtSXc=/1200x630/2021/10/05/f9c0707f-c115-403b-aa80-36707f681757/rfo-asset-2.png "Snapchat wants to help you run for office")
+
+
+[Snapchat wants to help you run for office](https://www.cnet.com/tech/services-and-software/snapchat-wants-to-help-you-run-for-office/)
+
+
+> Snap If you've ever had the thought that you could do better than the politicians you see on TV, Snapchat wants to help you get started. A new "game" from the photo- and video-sharing app will help US users find local races, connect to recruitment and training organizations, start a campaign hub in the app itself or pass the buck to their friends by nominating someone else.Starting Tuesday in the Snap app, you can scroll down from the main camera screen to find the "Run for Office Mini." Mini is another word Snap uses for an in app game or program.
+
+
+***
+![Pixel 6 vs. Pixel 5: Every rumored differences between Google phones](https://www.cnet.com/a/img/dD1fRCQJf-Q-NNdpGA6nkk6k9ms=/1200x630/2021/08/02/4ed1c034-3f95-4536-b8aa-386430ca9809/pixel-6-group-image-teal-orange.jpg "Pixel 6 vs. Pixel 5: Every rumored differences between Google phones")
+
+
+[Pixel 6 vs. Pixel 5: Every rumored differences between Google phones](https://www.cnet.com/tech/mobile/pixel-6-vs-pixel-5-every-rumored-differences-between-google-phones/)
+
+
+> The Pixel 6 phones are coming. How will they measure up to the Pixel 5? Google With the Pixel 6 and Pixel 6 Pro just about to arrive, getting a new Pixel 5 right now is bound to result in instant buyer's remorse. Judging from all the rumors, the Pixel 6 platform will be a gigantic leap forward in terms of power, performance, features and design. That said, Google's new flagship class phones will also likely have sky-high sticker prices to match.The question is though, just how far ahead of its predecessor will the Pixel 6 be? That fact is important because it'll determine whether you should drop your older Pixel immediately for Google's latest and greatest.
+
+
+***
+![Acer Aspire Vero laptop review: Recycled plastic never looked so good](https://www.cnet.com/a/img/s2Ike5z2ZbkAHxx2VKIZJ7rjCic=/1200x630/2021/10/04/9d8bf944-8f8d-4bd2-b5b6-96dd94ccb5f5/acer-aspire-vero-09.jpg "Acer Aspire Vero laptop review: Recycled plastic never looked so good")
+
+
+[Acer Aspire Vero laptop review: Recycled plastic never looked so good](https://www.cnet.com/tech/computing/acer-aspire-vero-windows-11-laptop-review-recycled-plastic-never-looked-so-good/)
+
+
+> The 15.6-inch Aspire Vero is one of Acer's first laptops to ship with Windows 11 alongside updated versions of its ultraportable Swift 5 and entry-level Nitro 5 gaming laptops. The Vero is entirely new, though. Well, not entirely new, as it's Acer's first laptop made from post-consumer recycled plastics (PCR), and it ships in packaging made from recycled materials that are also 100% recyclable. HP and Dell have increased their use of recycled materials as well as making it easier to recycle old laptops.
+
+
+***
+![Drones that give real-time alerts to surf life savers about sharks sightings and struggling swimmers](https://content.api.news/v3/images/bin/b5fefbf7dfebf5fc6bcd38553878e899 "Drones that give real-time alerts to surf life savers about sharks sightings and struggling swimmers")
+
+
+[Drones that give real-time alerts to surf life savers about sharks sightings and struggling swimmers](https://www.news.com.au/technology/drones-that-give-realtime-alerts-to-surf-life-savers-about-sharks-sightings-and-struggling-swimmers/video/9644efa3e741aaa95f67d55dd6c2bacd)
+
+
+> The world-first software, created by drone rescue company the Ripper Group and Advanced Navigation, will give real-time alerts to surf life savers about sharks sightings and struggling swimmers, even deploying small rafts to swimmers in danger faster.
+
+
