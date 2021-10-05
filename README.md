@@ -9190,3 +9190,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I purchased an iPad Air4 two weeks ago. I really like this replacement for my iPad6 but one gripe I have is swiping up to close apps is inconsistent. Sometime it works with a light swipe or I have to press hard or on an angle. It's much worse when I use it to read in bed while in portrait position but locked in landscape with my head to the side. Portrait mode seems to work OK.
 
 
+***
+![What we know about why Facebook, Instagram and WhatsApp broke – and what we don't](https://static.independent.co.uk/2021/10/04/19/facebook-1.jpg?width=1200&auto=webp&quality=75 "What we know about why Facebook, Instagram and WhatsApp broke – and what we don't")
+
+
+[What we know about why Facebook, Instagram and WhatsApp broke – and what we don't](https://www.independent.co.uk/life-style/gadgets-and-tech/facebook-whatsapp-instagram-outage-what-caused-why-b1932561.html)
+
+
+> Facebook has finally explained something of how its main app, Instagram, WhatsApp and many more besides were able to go offline in one of its biggest shutdowns in history.The company says it was an internal problem, rather than a cyber attack from outside. And it says that there is no indication any data was compromised.But some things still remain unclear, including how it was able to happen and what Facebook did to fix it.Facebook's explanation was cryptic, as it usually is after its failures. Its blog post was a mere four paragraphs long, only two of which were devoted to explaining what happened and how.
+
+
+***
+![WhatsApp outage hits trading in assets from crypto to Russian oil](https://www.reuters.com/resizer/Zu5Yp1H9OnrOoL6nFk-djoNFqFQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LFE6K6OYNZPATG65QGLESLXHAY.jpg "WhatsApp outage hits trading in assets from crypto to Russian oil")
+
+
+[WhatsApp outage hits trading in assets from crypto to Russian oil](https://www.reuters.com/technology/whatsapp-outage-hits-trading-assets-crypto-russian-oil-2021-10-05/)
+
+
+> WhatsApp app is seen on a smartphone in this illustration taken, July 13, 2021. REUTERS/Dado Ruvic/Illustration/File PhotoLONDON/MOSCOW, Oct 5 (Reuters) - WhatsApp's nearly six-hour long outage on Monday hit trading of assets from cryptocurrencies to Russian oil, market players said, although a quick shift to alternative platforms such as Telegram limited severe disruption.Despite many financial institutions discouraging employees from using messaging services such as WhatsApp and other Facebook platforms that went down on Monday, their convenience has made them popular among traders communicating with clients in over-the-counter (OTC) markets.
+
+
+***
+![Slumber review](https://cdn.mos.cms.futurecdn.net/8izFD4pEZrp53Duj9WVzzN-1200-80.jpg "Slumber review")
+
+
+[Slumber review](https://www.techradar.com/reviews/slumber)
+
+
+> Who doesn't like the idea of being helped to drift off to sleep with a calming bedtime story. Whether you're a kid or an adult, this is what Slumber offers, but also so much more. You'll also find guided meditations, soundscapes, content for children, ASMR sounds and customizable background noise to help create the perfect environment for not only getting to sleep, but staying asleep.You can drill down through content by type, narrator, length and more, so you'll always be able to find exactly what it is you need to help you nod off.
+
+
+***
+![Dread Hunger Release Date Revealed](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Dread%20Hunger.jpg?itok=Dl8OG1kr "Dread Hunger Release Date Revealed")
+
+
+[Dread Hunger Release Date Revealed](https://techraptor.net/gaming/news/dread-hunger-release-date-revealed)
+
+
+> Dread Hunger Release Date Revealed October 5, 2021 By: Patrick Perrault Dread Hunger is a survival, crafting, social deception title developed by Dread Hunger Team and published by Digital Confectioners. Both publisher and developer have just announced that the Dread Hunger release date will be on November 10 for Steam. The social deception survival title changes things up from the more sci-fi leaning titles such as Among Us and Enemy on Board by taking place during an 1850s Arctic exploration voyage.
+
+
+***
+![Blade MCU movie has a supposed release date â€' but we're not convinced](https://cdn.mos.cms.futurecdn.net/hgSLNiRGiDNfbjyG5DkPb5-1200-80.jpg "Blade MCU movie has a supposed release date â€' but we're not convinced")
+
+
+[Blade MCU movie has a supposed release date â€' but we're not convinced](https://www.techradar.com/news/blade-mcu-movie-has-a-supposed-release-date-but-were-not-convinced)
+
+
+> (Image credit: Marvel Studios/Disney) Blade's MCU debut may be here sooner than we think, if an unconfirmed (but potentially official) release date from Marvel Studios is to be believed.According to a post on the official Marvel India Twitter account, Marvel Studios' Blade movie is slated to land in theaters on October 7, 2022. If true, that would place the vampiric anti-hero's next big screen outing between Black Panther: Wakanda Forever and The Marvels, which will arrive in July and November 2022.
+
+
