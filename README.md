@@ -9387,3 +9387,50 @@
 > The six-hour outage at Facebook, Instagram and Whatsapp was a headache for many casual users but far more serious for the millions of people worldwide who rely on the social media sites to run their businesses or communicate with relatives, fellow parents, teachers or neighbors. When all three services went dark Monday, it was a stark reminder of the power and reach of Facebook, which owns the photo-sharing and messaging apps. Around the world, the breakdown at WhatsApp left many at a loss. In Brazil, the messaging service is by far the most widely used app in the country, installed on 99% of smartphones, according to tech pollster Mobile Time.
 
 
+***
+![FedEx lost / stole my trade in iPhone 12 Pro Max](https://images.macrumors.com/social/?t=2315576&v=6 "FedEx lost / stole my trade in iPhone 12 Pro Max")
+
+
+[FedEx lost / stole my trade in iPhone 12 Pro Max](https://forums.macrumors.com/threads/fedex-lost-stole-my-trade-in-iphone-12-pro-max-how-screwed-am-i.2315576/)
+
+
+> Bought a new 13 Pro Max and Apple offered me 790 for my old 12 Pro Max. I got the box, packed the phone into it, and being an idiot… just dropped it in a FedEx Dropbox next to where I work. This was last Tuesday, a week ago. Since then, it has never been scanned in. Package tracking only shows the label was printed. I've spoken to FedEx customer service who claims to have sent a driver to the box, which was empty when they checked it. Driver picked up packages on Tuesday at 6pm last week, but my package was never scanned in.
+
+
+***
+![Scientists accidentally develop powerful rheumatoid arthritis vaccine](https://cdn.slashgear.com/wp-content/uploads/2021/10/rheumatoid-arthritis-vaccine-prevent-study.jpg "Scientists accidentally develop powerful rheumatoid arthritis vaccine")
+
+
+[Scientists accidentally develop powerful rheumatoid arthritis vaccine](https://www.slashgear.com/scientists-accidentally-develop-powerful-rheumatoid-arthritis-vaccine-05694085/)
+
+
+> In an attempt to discover whether a particular protein is a trigger for rheumatoid arthritis, scientists with the University of Toledo accidentally discovered a vaccine against the painful autoimmune disease. The protein-based vaccine was found to generate a fast, strong, and long-lasting immune system response that offers protection from the disease. Rheumatoid arthritis, like most autoimmune diseases, is triggered via mechanisms that aren't quite understood, making it difficult to develop a way to prevent the condition.
+
+
+***
+![Viral TikTok shows students adding to growing pile of trash in public school hallway, sparking outrage](https://uploads.dailydot.com/2021/10/DD_SchoolCafe.jpg?auto=compress%2Cformat&ixlib=php-3.3.0 "Viral TikTok shows students adding to growing pile of trash in public school hallway, sparking outrage")
+
+
+[Viral TikTok shows students adding to growing pile of trash in public school hallway, sparking outrage](https://www.dailydot.com/unclick/viral-tiktok-shows-students-adding-to-growing-pile-of-trash-in-public-school-hallway-sparking-outrage/)
+
+
+> A TikToker has exposed bleak conditions at their school with heaps of lunch trays being thrown in the hallways, making a mess.  TikToker @heyythatsme.08 shared a video on Friday, showing students throwing their lunches on the floor next to a clogged up trash compounder.  The food waste included sachets of sauce, fried items, and packaged drinks.  The video shows the person behind the camera walking up to the pile of food waste, and other students dropping their used lunch trayson it.  'You bitches is crazy,' someone is heard saying.
+
+
+***
+![Live updates as Insta stories & videos 'not working' with users being logged out](https://www.the-sun.com/wp-content/uploads/sites/6/2021/10/Facebook-teaser-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Live updates as Insta stories & videos 'not working' with users being logged out")
+
+
+[Live updates as Insta stories & videos 'not working' with users being logged out](https://www.the-sun.com/tech/3790914/facebook-down-instagram-whatsapp-not-working-news-latest/)
+
+
+> LOG OFF 20:01 ET, Oct 5 2021Updated: 20:01 ET, Oct 5 2021 INSTAGRAM users are reporting MORE issues with the app this afternoon after yesterday's huge outage.Insta stories and videos aren't loading, users say, while others claim they are repeatedly being logged out.Facebook, Whatsapp and Instagram all went down for hours for millions of users in a massive global outage yesterday.Read our Facebook down live blog for the latest updates...Russian social networks reported a spike in activity during Monday's global Facebook outage which Moscow officials said showed that Russia was right to develop its own sovereign internet platforms and social networks.
+
+
+***
+[The Banana Ball Rolls Again in Super Monkey Ball Banana Mania!](https://honeysanime.com/the-banana-ball-rolls-again-in-super-monkey-ball-banana-mania/)
+
+
+> [ad_top1 class="mb40"] Making a game fun yet challenging, all while simple but requiring finesse, is extremely difficult. That's why we have always gone bananas—we won't keep making monkey-related jokes, we promise—for Sega's Super Monkey Ball franchise. Despite the super cute monkeys and the almost laughable stages, the Monkey Ball series has given players of all ages a means to either play for fun or competition. Are you just trying to get through the stages alive, or maybe you're aiming for high scores to brag to your fellow Super Monkey Ball friends? Regardless of your gameplay style, Super Monkey Ball Banana Mania will test your rolling prowess and power of will to avoid going AWWW for ten seconds after seeing the adorable little chimps.
+
+
