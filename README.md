@@ -9725,3 +9725,53 @@
 > Rigetti Computing, one of the most visible quantum hardware startups, today announced that it is going public through a merger with the Supernova Partners Acquisition Company II SPAC. Once the transaction closes, Rigetti's ticker symbol on the New York Stock Exchange will be ‘RGTI.' The transaction values Rigetti at about $1.5 billion and the company expects to receive about $458 million in cash, including a $100 million PIPE (private investment in public equity) deal subscribed to by a group of investors including T.
 
 
+***
+![Secret Double Octopus Enables Enterprise Passwordless Journey With Passwordless-Ready MFA Offerings](https://mms.businesswire.com/media/20211006005043/en/911972/23/SDO_logo.jpg "Secret Double Octopus Enables Enterprise Passwordless Journey With Passwordless-Ready MFA Offerings")
+
+
+[Secret Double Octopus Enables Enterprise Passwordless Journey With Passwordless-Ready MFA Offerings](https://www.businesswire.com/news/home/20211006005043/en/Secret-Double-Octopus-Enables-Enterprise-Passwordless-Journey-With-Passwordless-Ready-MFA-Offerings)
+
+
+> October 06, 2021 10:00 AM Eastern Daylight Time PALO ALTO, Calif.--(BUSINESS WIRE)--Secret Double Octopus, the global leader in next generation workforce authentication, today announced the availability of new multifactor authentication offerings as part of its Octopus Authentication Platform. Because the new offerings share the same components as the company's workforce passwordless MFA solution, enterprises can deploy traditional MFA solutions today that can be converted to passwordless authentication easily.
+
+
+***
+![Black & Veatch to Design, Build Canada's First Electric ‘Smart Grid'](https://mms.businesswire.com/media/20211006005121/en/695430/23/BVLogo_HORIZONTAL_CMYK.jpg "Black & Veatch to Design, Build Canada's First Electric ‘Smart Grid'")
+
+
+[Black & Veatch to Design, Build Canada's First Electric ‘Smart Grid'](https://www.businesswire.com/news/home/20211006005121/en/Black-Veatch-to-Design-Build-Canada%E2%80%99s-First-Electric-%E2%80%98Smart-Grid%E2%80%99)
+
+
+> OVERLAND PARK, Kan.--(BUSINESS WIRE)--As the electric industry addresses growing demands for lower carbon footprints and heightened reliability and resilience, a Canadian community is entrusting Black & Veatch to transform its power system into a technology-driven, enhanced 'smart grid' meant to lower consumer costs and slash greenhouse gas emissions. Billed as the first such community-wide utility effort in Canada, the Sault Smart Grid project for PUC Distribution Inc. – the local electricity distribution utility in Sault Ste.
+
+
+***
+![Tier 1 Carrier Licenses OWIT Global's Bordereaux Management Solution to Support A&H and P&C MGA Business](https://mms.businesswire.com/media/20211006005177/en/804806/23/OWIT_vertical_logo.jpg "Tier 1 Carrier Licenses OWIT Global's Bordereaux Management Solution to Support A&H and P&C MGA Business")
+
+
+[Tier 1 Carrier Licenses OWIT Global's Bordereaux Management Solution to Support A&H and P&C MGA Business](https://www.businesswire.com/news/home/20211006005177/en/Tier-1-Carrier-Licenses-OWIT-Global%E2%80%99s-Bordereaux-Management-Solution-to-Support-AH-and-PC-MGA-Business)
+
+
+> WEST HARTFORD, Conn.--(BUSINESS WIRE)--OWIT Global (OWIT), a provider of insurance-specific microservice solutions for the global insurance industry, is pleased to announce that a Tier 1 carrier has licensed OWIT's new Bordereaux Management Solution to streamline the handling and transformation of their incoming A&H and P&C MGA data and exportation to their back-end databases. 'The Tier 1 carrier performed a thorough evaluation of OWIT's capabilities and underlying architecture before adopting OWIT's Bordereaux Management Solution.
+
+
+***
+![Twin Health Raises $140M Series C to Scale Its Groundbreaking Whole Body Digital Twin™ Service Enabling Reversal and Prevention of Chronic Metabolic Disease](https://mms.businesswire.com/media/20211006005297/en/913541/23/twin-logo-full.jpg "Twin Health Raises $140M Series C to Scale Its Groundbreaking Whole Body Digital Twin™ Service Enabling Reversal and Prevention of Chronic Metabolic Disease")
+
+
+[Twin Health Raises $140M Series C to Scale Its Groundbreaking Whole Body Digital Twin™ Service Enabling Reversal and Prevention of Chronic Metabolic Disease](https://www.businesswire.com/news/home/20211006005297/en/Twin-Health-Raises-140M-Series-C-to-Scale-Its-Groundbreaking-Whole-Body-Digital-Twin%E2%84%A2-Service-Enabling-Reversal-and-Prevention-of-Chronic-Metabolic-Disease)
+
+
+> MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Twin Health, makers of the Whole Body Digital Twin™ precision health service, today announced $140 million in Series C funding as it scales its service in the U.S. and globally. Founded in 2018, Twin Health invented the Whole Body Digital Twin™ to help reverse and prevent chronic metabolic diseases, while improving energy and physical health. Powered by artificial intelligence, the Whole Body Digital Twin™ is a dynamic representation of each individual's unique metabolism, built from thousands of data points collected daily via non-invasive wearable sensors and self-reported preferences.
+
+
+***
+![Edge Microsegmentation Startup Byos Appoints New Chief Operating Officer and Director of Enterprise Sales](https://mms.businesswire.com/media/20211006005690/en/913376/23/BYOS-Logo-Colour2.jpg "Edge Microsegmentation Startup Byos Appoints New Chief Operating Officer and Director of Enterprise Sales")
+
+
+[Edge Microsegmentation Startup Byos Appoints New Chief Operating Officer and Director of Enterprise Sales](https://www.businesswire.com/news/home/20211006005690/en/Edge-Microsegmentation-Startup-Byos-Appoints-New-Chief-Operating-Officer-and-Director-of-Enterprise-Sales)
+
+
+> October 06, 2021 10:00 AM Eastern Daylight Time HALIFAX, Nova Scotia--(BUSINESS WIRE)--Byos (www.byos.io), the startup bringing edge microsegmentation solutions to the market, announced today that Rob Valiton will become its new Chief Operating Officer and John Bryant its new Director of Enterprise Sales. Adding more than five decades of industry experience to the Byos leadership team, the hires demonstrate the company's commitment to accelerating growth. The announcement comes less than three months after Byos launched its Industrial μGateway™ ('micro-gateway'): a plug-and-play, legacy-compatible secure gateway edge for critical infrastructure.
+
+
