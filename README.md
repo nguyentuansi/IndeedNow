@@ -9531,3 +9531,50 @@
 > Ankita Chakravarti New Delhi, Oct 06, 2021, Updated Oct 06, 2021, 9:09 AM IST Story highlights Telegram added 70 million users when WhatsApp and Facebook went down. WhatsApp recently suffered a massive outage globally which latest for more than six hours. Facebook blamed a faulty configuration change for the outage. WhatsApp's loss is Telegram's gain. WhatsApp recently suffered a massive outage globally which latest for more than six hours but the entire duration that WhatsApp was down, Telegram added 70 million users.
 
 
+***
+![Reliance Jio's network is down for many users: Here's what we know](https://images.indianexpress.com/2021/09/Jio_Reuters_1.jpg "Reliance Jio's network is down for many users: Here's what we know")
+
+
+[Reliance Jio's network is down for many users: Here's what we know](https://indianexpress.com/article/technology/tech-news-technology/jio-network-is-down-for-many-users-heres-what-we-know-7555015/)
+
+
+> Lucknow | Updated: October 6, 2021 11:31:41 am Reliance Jio's network is down for many users and users have taken to Twitter to complain about the issue. While it is working fine for us, a number of people have written on Twitter that Jio is showing 'no service' for the past two hours. Some of the users have also reported that they are experiencing Jio network issues since morning. A few Jio users have also reported that Jio's broadband connection is also down. As per Downdetector, thousands of Jio users are currently experiencing some network issue.
+
+
+***
+![Apple Watch Series 7 finally goes official in India](https://cdn.mos.cms.futurecdn.net/BAmGiRhyiktvCEGaiogwyE-1200-80.jpg "Apple Watch Series 7 finally goes official in India")
+
+
+[Apple Watch Series 7 finally goes official in India](https://www.techradar.com/news/apple-watch-series-7-finally-goes-official-in-india)
+
+
+> (Image credit: Apple) Apple had earlier announced the launch and availability of its latest iPhones and shiny new iPads in India. It had however had not revealed the pricing and availability of the latest Apple Watch Series 7- even though the new Apple Watch was announced globally at the same launch event.That said, Apple has now not only revealed the retail price of the Apple Watch Series 7 in India but has also stated that the latest smartwatches will start retailing from October 15. Apple Watch Series 7 price in India and availability The retail price of the Apple Watch Series 7 in India will start at Rs.
+
+
+***
+![Thanks to Qualcomm, Wi-Fi gaming performance enhanced in Windows 11](https://cdn.mos.cms.futurecdn.net/QfuJWkzqBsMiHVjb8dpEMC-1200-80.png "Thanks to Qualcomm, Wi-Fi gaming performance enhanced in Windows 11")
+
+
+[Thanks to Qualcomm, Wi-Fi gaming performance enhanced in Windows 11](https://www.techradar.com/news/thanks-to-qualcomm-wi-fi-gaming-performance-enhanced-in-windows-11)
+
+
+> (Image credit: Qualcomm) Microsoft had recently announced that it was teaming up with Qualcomm to bring native support for Wi-Fi Dual Station to Windows 11. And now, Qualcomm has said that the the Wi-Fi Dual Station coupled with its Qualcomm FastConnect 4-stream Dual Band Simultaneous (DBS) can set new benchmarks for low-latency gaming.Qualcomm said in the testing conducted by it, with off-the-shelf retail Wi-Fi 6 Access Points, Wi-Fi Dual Station with Qualcomm 4-stream Dual Band Simultaneous consistently delivered sustained jitter free wireless gameplay similar to ethernet latency under the same conditions.
+
+
+***
+![There is growing demand for electric vehicles in South Africa](https://techcentral.co.za/wp-content/uploads/2021/09/electric-car-2156-1120-1.jpg "There is growing demand for electric vehicles in South Africa")
+
+
+[There is growing demand for electric vehicles in South Africa](https://techcentral.co.za/there-is-growing-demand-for-electric-vehicles-in-south-africa/203107/)
+
+
+> Image: Antonio Bronic/ReutersDemand is increasing in South Africa for electric vehicles but price remains a major barriers to adoption.AutoTrader South Africa CEO George Mienie said it saw a 211% increase in demand in searches for EVs in the first six months of this year compared to the same period last year.'South African shoppers are actively looking for opportunities to buy electric vehicles, though the major challenge is still the initial purchase price,' he told the Smarter Mobility Africa conference on Tuesday.
+
+
+***
+[Excel Ray Tracing with Help from C](https://www.reddit.com/r/programming/comments/q2e4qu/excel_ray_tracing_with_help_from_c/)
+
+
+> no comments yetBe the first to share what you think!
+
+
