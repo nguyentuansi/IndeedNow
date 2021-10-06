@@ -9825,3 +9825,40 @@
 > After a "normal," six-month, 162-game regular season, Major League Baseball's postseason lineup is rounding out. In the American League, the Red Sox took care of the Yankees to advance to the Division Series against the AL East-winning Rays. In the National League, the Giants won on Sunday to take the NL West crown, dumping the 106-win Dodgers into the NL Wild Card game on Wednesday against the Cardinals. The NL Wild Card game between the Dodgers and Cardinals will be played Wednesday in Los Angeles at Dodger Stadium, with the winner going on to face the Giants in the NL divisional series.
 
 
+***
+[DOJ plans to crack down on crypto exchanges that allow money laundering and pursue companies with poor cybersecurity practices that receive federal funds (Chris Bing/Reuters)](http://www.techmeme.com/211006/p28#a211006p28)
+
+
+> Chris Bing / Reuters: DOJ plans to crack down on crypto exchanges that allow money laundering and pursue companies with poor cybersecurity practices that receive federal funds — U.S. Deputy Attorney General Lisa Monaco on Wednesday unveiled two new Justice Department enforcement initiatives aimed targeting cryptocurrencies …
+
+
+***
+![Top 9 Best Amazon Alexa Smart Speakers – Updated October 2021](https://www.androidheadlines.com/wp-content/uploads/2020/09/All-New-Amazon-Echo.jpg "Top 9 Best Amazon Alexa Smart Speakers – Updated October 2021")
+
+
+[Top 9 Best Amazon Alexa Smart Speakers – Updated October 2021](https://www.androidheadlines.com/best-amazon-alexa-smart-speakers)
+
+
+> When it comes to Amazon Alexa smart speakers, there are a ton on the market, making it tough to find the best one.Amazon has one for just about every use-case, and its partners also have a number of great Alexa-enabled smart speakers. This list highlights the best Amazon Alexa smart speakers that are currently available. Whether you're looking for a smart speaker with an incredible audio experience, one that can be used in your bedroom, or one that has a display. There's something here for everyone.
+
+
+***
+![It's crazy and impossible -- Steve Jobs interview (2021)](https://external-preview.redd.it/BU9IiCu9m0GzTqynBNuSRRAfncXs124JXXFMQ7I9n4k.jpg?auto=webp&s=4b1cea6a18dafa52789ca4819ac6b345ebc69a11 "It's crazy and impossible -- Steve Jobs interview (2021)")
+
+
+[It's crazy and impossible -- Steve Jobs interview (2021)](https://www.reddit.com/r/programming/comments/q2pip0/its_crazy_and_impossible_steve_jobs_interview_2021/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Surface Pro 8 vs. the new Surface Pro X: Which 2-in-1 is right for you?](https://icdn.digitaltrends.com/image/digitaltrends/surface-pro-8_under-embargo-until-september-22.jpg "Surface Pro 8 vs. the new Surface Pro X: Which 2-in-1 is right for you?")
+
+
+[Surface Pro 8 vs. the new Surface Pro X: Which 2-in-1 is right for you?](https://www.digitaltrends.com/computing/surfface-pro-8-vs-surface-pro-x/)
+
+
+> With the launch of Windows 11, there are a lot of new 2-in-1 tablets from Microsoft this fall. The list includes the Surface Pro 8, Surface Laptop Studio, Surface Go 3, and Surface Pro X. So, if you're heading online to buy one, you might be wondering what are the differences among the devices. Well, between the Surface Pro 8 and the Surface Pro X, there are quite a few. The two might look similar on the outside with slim bezels and the same Type Covers, but on the inside, things are very different.
+
+
