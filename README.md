@@ -9862,3 +9862,53 @@
 > With the launch of Windows 11, there are a lot of new 2-in-1 tablets from Microsoft this fall. The list includes the Surface Pro 8, Surface Laptop Studio, Surface Go 3, and Surface Pro X. So, if you're heading online to buy one, you might be wondering what are the differences among the devices. Well, between the Surface Pro 8 and the Surface Pro X, there are quite a few. The two might look similar on the outside with slim bezels and the same Type Covers, but on the inside, things are very different.
 
 
+***
+![Give your phone a heavy-duty clean with these UV sanitizers](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/04/best-uv-sanitizers-phonesoap-s20-greenblue.jpg "Give your phone a heavy-duty clean with these UV sanitizers")
+
+
+[Give your phone a heavy-duty clean with these UV sanitizers](https://www.androidcentral.com/best-ultraviolet-phone-cleaner)
+
+
+> Best phone sanitizer 2021: Keep your gadgets clean Android Central 2021 Your phone may or may not be dirtier than a toilet seat right now, but luckily you can fix that with the best phone sanitizer. After all, our phones pick up a whole heap of bacteria, germs, and other nastiness when we set them down throughout our days. Cleaning our phones is paramount. While ultraviolet phone sanitizers can cost a pretty penny, they're 100% worth the investment if they can keep you from getting sick, now more than ever.
+
+
+***
+![Snapchat Run for Office Portal Encourages Gen Z to Get Involved in Politics](https://static3.srcdn.com/wordpress/wp-content/uploads/2021/10/Snapchat-Run-for-Office-Tool.jpg "Snapchat Run for Office Portal Encourages Gen Z to Get Involved in Politics")
+
+
+[Snapchat Run for Office Portal Encourages Gen Z to Get Involved in Politics](https://screenrant.com/snapchat-run-office-portal-gen-z-politics/)
+
+
+> Snapchat launches the Run for Office portal for Gen Zers who are interested in running for political office. In recent years, many social media apps have become involved in politics, encouraging their users to participate in the process. For example, Facebook has long included options for people to help their friends register to vote, and Instagram and Twitter are both common places for users to show off their "I Voted" stickers. This also isn't the first time Snapchat has shown up in the political sphere.
+
+
+***
+![Tech company signs office lease for expansion in Santa Clara](https://www.mercurynews.com/wp-content/uploads/2021/10/SJM-L-FUNGIBLE-x.jpg?w=640 "Tech company signs office lease for expansion in Santa Clara")
+
+
+[Tech company signs office lease for expansion in Santa Clara](https://www.mercurynews.com/2021/10/06/tech-fungible-office-lease-santa-clara-expand-real-estate-develop)
+
+
+> SANTA CLARA — Fungible has struck a deal to greatly expand its headquarters in Santa Clara through a new office lease, the property's owner said Wednesday. The data and storage technologies company has leased 66,100 square feet at 3201 Scott Blvd. in Santa Clara, Drawbridge Realty, the building landlord, said. Fungible was able to greatly expand its footprint in the building, growing from roughly 46,000 square feet to its new occupancy of the entire 66,100-square-foot site. Juniper Networks co-founder and former chief scientist Pradeep Sindhu and former Apple software engineering executive Bertrand Serlet co-founded Fungible.
+
+
+***
+![RenderingNG: an architecture that makes and keeps Chrome fast for the long term](https://external-preview.redd.it/9T58fDNN4ECgENNMyPi-5Pipfa1X4-vRkz0N-8jIRy8.jpg?auto=webp&s=65d4b120b7dc43594706c65728a216e9931daa86 "RenderingNG: an architecture that makes and keeps Chrome fast for the long term")
+
+
+[RenderingNG: an architecture that makes and keeps Chrome fast for the long term](https://www.reddit.com/r/programming/comments/q2ry1l/renderingng_an_architecture_that_makes_and_keeps/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Navy Facebook Account Hacked to Stream ‘Age of Empires'](https://external-preview.redd.it/p30ariJ28oguwX3lCbjGrwTSOdq1L12shJ2w0F53FyY.jpg?auto=webp&s=9037d5040d1834a746817d9b206a73f6dbf4bf3b "Navy Facebook Account Hacked to Stream ‘Age of Empires'")
+
+
+[Navy Facebook Account Hacked to Stream ‘Age of Empires'](https://www.reddit.com/r/technology/comments/q2rx2b/navy_facebook_account_hacked_to_stream_age_of/)
+
+
+> no comments yetBe the first to share what you think!
+
+
