@@ -9912,3 +9912,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Far Cry 6 Performance Guide: Best Settings for High FPS](https://icdn.digitaltrends.com/image/digitaltrends/far-cry-6-political.jpg "Far Cry 6 Performance Guide: Best Settings for High FPS")
+
+
+[Far Cry 6 Performance Guide: Best Settings for High FPS](https://www.digitaltrends.com/computing/far-cry-6-performance-guide-best-settings-high-frame-rates/)
+
+
+> If you want to experience all of the glory — and political unrest — of Yara in Far Cry 6, you'll need a hefty rig. The first game in the series to feature ray tracing, as well as a major showcase for AMD's FidelityFX Super Resolution (FSR), Far Cry 6 combines the best and brightest features in the world of PC gaming. You'll need a powerful graphics card to take advantage of them, though. That's why we put together this Far Cry 6 PC performance guide, where we'll you show how to find the best settings and what you can expect when you dive in.
+
+
+***
+![Mark Zuckerberg tries to hit hard at the whistleblower, but nothing lands](https://cdn.cnn.com/cnnnext/dam/assets/211006095328-file-02-mark-zuckerberg-0919-super-tease.jpg "Mark Zuckerberg tries to hit hard at the whistleblower, but nothing lands")
+
+
+[Mark Zuckerberg tries to hit hard at the whistleblower, but nothing lands](https://www.cnn.com/2021/10/06/tech/zuckerberg-whistleblower-response/index.html)
+
+
+> His main argument was that Haugen was taking Facebook's research on its impact on children -- among the tens of thousands of pages of internal documents and research she took before she left the company -- out of context. In essence, he argued she cannot be trusted to properly portray the company's findings, claiming she painted a "false picture of the company." But although Facebook employs many talented and diligent researchers, its top executive who cannot be trusted when it comes to sharing the work of those researchers with the public.
+
+
+***
+![What Mark Zuckerberg Knew and When He Knew It](https://compote.slate.com/images/551c9e49-6867-48e8-8506-217069293419.jpeg?width=780&height=520&rect=7371x4914&offset=0x0 "What Mark Zuckerberg Knew and When He Knew It")
+
+
+[What Mark Zuckerberg Knew and When He Knew It](https://slate.com/technology/2021/10/facebook-scandal-zuckerberg-what-he-knew.html)
+
+
+> In recent weeks, Mark Zuckerberg's presence on Facebook has mostly involved him talking about the metaverse and engaging in watersports. But on Tuesday night, the founder and CEO finally addressed the scandal that has engulfed his company over the last month after one of his former employees turned over tens of thousands of unsettling internal documents to the press, federal regulators, and Congress. That whistleblower, Frances Haugen, appeared before the Senate Commerce Committee on Tuesday to speak about revelations that Facebook had conducted research showing that its Instagram subsidiary makes mental health and body image issues worse for some young users, particularly teen girls, and more broadly that its algorithms promote divisive and sensationalist content.
+
+
+***
+![Best VPS hosting providers of 2021: Virtual Private Servers for all budgets](https://cdn.mos.cms.futurecdn.net/b2mC5W3RrnteRWpJXcGMx5-1200-80.jpg "Best VPS hosting providers of 2021: Virtual Private Servers for all budgets")
+
+
+[Best VPS hosting providers of 2021: Virtual Private Servers for all budgets](https://www.techradar.com/news/best-vps-hosting)
+
+
+> Standard shared web hosting packages are cheap and user-friendly, but they're also slow, inflexible, and don't have the power or functionality that professional and business users often need.If you need more than a basic host but can't afford a dedicated server or don't want to deal with the complexity of these beasts, VPS (Virtual Private Server) hosting could be a smart choice.Buying a VPS plan means that you get your very own virtual server environment. You have full control over the operating system, the extensions and apps you install, and all their settings.
+
+
+***
+![Valve tears down a Steam Deck, but says you probably shouldn't](https://www.cnet.com/a/img/_tGBij5eAiYChyzd1oBWEDmtgLE=/1200x630/2021/10/06/56188827-d496-45ec-8071-d677915ad79a/screen-shot-2021-10-06-at-4-26-29-pm.png "Valve tears down a Steam Deck, but says you probably shouldn't")
+
+
+[Valve tears down a Steam Deck, but says you probably shouldn't](https://www.cnet.com/tech/valve-tears-down-a-steam-deck-but-says-you-probably-shouldnt/)
+
+
+> Take a look inside the Steam Deck. Valve Valve revealed its Nintendo Switch-like gaming device called the Steam Deck in July. The portable game console comes out in December, but the company wants to give people the first look inside and explains why owners shouldn't open their own Steam Decks. Inside the Steam Deck deck isn't much different than other portable devices. It only takes eight screws to open it up and have access to the battery, SSD storage and everything else. However, Valve says once the Steam Deck has been opened it becomes weakened and less drop resistant.
+
+
