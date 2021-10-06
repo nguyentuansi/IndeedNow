@@ -9625,3 +9625,53 @@
 > Manas Tiwari New Delhi, Oct 06, 2021, Updated Oct 06, 2021, 1:16 PM IST Story highlights Canon has announced a new EOS VR System. It includes a dual fisheye lens and two applications. All three products will be available December end. Canon on Wednesday unveiled its new dual fisheye lens which can help you capture 3D VR images and videos. The lens will be part of what Canon is calling an EOS VR System a new virtual reality (VR) video production system. Apart from the lens, the system also includes two computer software applications.
 
 
+***
+![Your iPhone has a secret signal for when you're being spied on](https://www.the-sun.com/wp-content/uploads/sites/6/2021/10/COMP-SKC-WATCHING.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Your iPhone has a secret signal for when you're being spied on")
+
+
+[Your iPhone has a secret signal for when you're being spied on](https://www.the-sun.com/tech/3801829/tell-if-app-is-spying-iphone-green-orange-dot/)
+
+
+> IF you've ever worried about being spied on through your iPhone camera, you need to take note of Apple's "warning dot". A useful green and orange dot system on iPhone can alert you whenever your microphone or camera is activated. A green dot indicates that your camera is active So, if any app happens to be recording you, you'll know about it. This feature was added to iPhone in the iOS 14 update but you may not have noticed it before. A small green dot appears in the upper right corner of the screen when the camera is activated.
+
+
+***
+![Gaggia Classic review](https://cdn.mos.cms.futurecdn.net/pXunwjNZecQD6eh6p6QuEa-1200-80.jpg "Gaggia Classic review")
+
+
+[Gaggia Classic review](https://www.techradar.com/reviews/gaggia-classic)
+
+
+> TODAY'S BEST DEALSHaving started life in Italy in the 1930s, Gaggia is a brand that knows what it takes to produce smooth, rich espresso. And it has provided consumers with the ability to enjoy good coffee at home since the 1970s, when the company launched its first espresso machine. The Gaggia Classic is the brand's iconic espresso machine. First launched in 1991, it has remained largely unchanged. It was given an incremental update in 2019, where it retained the premium metal design, but built on this with rocker switches that provided greater control for making coffee, allowing you to brew with your desired level of water.
+
+
+***
+![Google forcing Gmail, YouTube and Android users to adopt new ‘super login' within weeks](https://www.the-sun.com/wp-content/uploads/sites/6/2021/10/RF-OFF-PLAT-GOOGLE.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Google forcing Gmail, YouTube and Android users to adopt new ‘super login' within weeks")
+
+
+[Google forcing Gmail, YouTube and Android users to adopt new ‘super login' within weeks](https://www.the-sun.com/tech/3801781/google-gmail-youtube-android-users-super-login/)
+
+
+> GOOGLE has announced that it will soon require fans to use a new, more secure way of logging in to their accounts. The enforced enabling of two-factor authentication (2FA), which adds a second step to the login process, will roll out by the end of 2021. Google will enable two-factor authentication on 150million Google accounts by 2022Credit: Google The move will impact more than 150million Google accounts around the world, which are required to access services such as YouTube and Gmail. Users of popular platforms Google Drive, Google Docs and the Android smartphone operating system will also be affected by the changes.
+
+
+***
+![Snapchat was the biggest winner the day Facebook, WhatsApp went down](https://static.theprint.in/wp-content/uploads/2021/10/New-picture-22.png "Snapchat was the biggest winner the day Facebook, WhatsApp went down")
+
+
+[Snapchat was the biggest winner the day Facebook, WhatsApp went down](https://theprint.in/tech/snapchat-was-the-biggest-winner-the-day-facebook-whatsapp-went-down/746121/)
+
+
+> The logo of mobile app Snapchat displayed on a tablet | Representational image | Photo: AFP/Getty Images via Bloomberg Text Size: Snapchat use surged more than 20% after Facebook Inc.'s services went down for six hours Monday, the biggest winner among rival apps during the U.S. social media giant's worst outage in years. Facebook blamed network configuration glitches for immobilizing a suite of apps from Messenger to Instagram and driving some of its 2.7 billion daily users to the competition. Snap Inc.
+
+
+***
+![Generating Semi-Natural Landmasses using a Random Walk](https://external-preview.redd.it/9zEoz39EX9ck4j957A68_-pH5jXh28-deeNsbRqt5PE.jpg?auto=webp&s=e25bd34662641b3b5c4006077aa380f8ca305c59 "Generating Semi-Natural Landmasses using a Random Walk")
+
+
+[Generating Semi-Natural Landmasses using a Random Walk](https://www.reddit.com/r/Python/comments/q2h5og/generating_seminatural_landmasses_using_a_random/)
+
+
+> The project can be found here: https://github.com/ithompsondev/dm-tools/tree/main/landmass-genI reignited my passion for Dungeons and Dragons by developing a (WIP) tool that generates semi-natural landmasses through the process of a random walk. A more in-depth explanation of the program can be found here: https://ithompsondev.blogspot.com/2021/10/day-6-dungeons-and-dragons-part-2.htmlAn M-by-N grid is generated and a random walk then occurs (each direction: Left, Right, Up and Down are equally likely to occur) where each cell is allowed to be visited more than once.
+
+
