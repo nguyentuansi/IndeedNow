@@ -9675,3 +9675,53 @@
 > The project can be found here: https://github.com/ithompsondev/dm-tools/tree/main/landmass-genI reignited my passion for Dungeons and Dragons by developing a (WIP) tool that generates semi-natural landmasses through the process of a random walk. A more in-depth explanation of the program can be found here: https://ithompsondev.blogspot.com/2021/10/day-6-dungeons-and-dragons-part-2.htmlAn M-by-N grid is generated and a random walk then occurs (each direction: Left, Right, Up and Down are equally likely to occur) where each cell is allowed to be visited more than once.
 
 
+***
+![Lord Frost is set to trigger Article 16 of the Lisbon Treaty in the next few days in order to ‘distract' from Labour's fears of chaos.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Lord Frost is set to trigger Article 16 of the Lisbon Treaty in the next few days in order to ‘distract' from Labour's fears of chaos.")
+
+
+[Lord Frost is set to trigger Article 16 of the Lisbon Treaty in the next few days in order to ‘distract' from Labour's fears of chaos.](https://en.brinkwire.com/news/lord-frost-is-set-to-trigger-article-16-of-the-lisbon-treaty-in-the-next-few-days-in-order-to-distract-from-labours-fears-of-chaos/)
+
+
+> Lord Frost is set to trigger Article 16 of the Lisbon Treaty in the next few days in order to ‘distract' from Labour's fears of chaos. The Labour Party fears that Lord Frost will invoke Article 16 of the Northern Ireland Protocol in the coming days to divert attention away from the country's fuel problem. The opposition party is ready itself in case the Brexit minister follows through on his threats to use the legal procedure to suspend parts of the Protocol. It comes as the government tries to deal with panic buying at gas stations all around the country.
+
+
+***
+![Amazon Great Indian Festival: HP Victus gaming laptop available with massive Rs 7,000 discount](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/21C1_Victus_Calhoun_16_80W_LCD_0-647x363.jpeg?ZZboQaAkfmW8eIpsPMDnWkYGc4RrDLYA "Amazon Great Indian Festival: HP Victus gaming laptop available with massive Rs 7,000 discount")
+
+
+[Amazon Great Indian Festival: HP Victus gaming laptop available with massive Rs 7,000 discount](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-hp-victus-gaming-laptop-available-with-massive-rs-7-000-discount-1861574-2021-10-06)
+
+
+> HP Victus Ryzen 5 variant has been priced at Rs 61,990.There are bank offers and exchange offers to be availed on the laptop too.Buyers can even get bundled offers on the purchase of the gaming laptop.Another gem from among the series of laptop deals on Amazon's Great Indian Festival sale is an ongoing offer on the HP Victus. HP Victus variant with Ryzen 5 processor is available for a price of Rs 61,990 during the festive sale on the e-commerce website. This marks a discount of around Rs 7,000 on the HP laptop.
+
+
+***
+![Transformers: Tactical Arena is coming to Apple Arcade soon](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/transfomers-tactical-arena.jpg "Transformers: Tactical Arena is coming to Apple Arcade soon")
+
+
+[Transformers: Tactical Arena is coming to Apple Arcade soon](https://www.imore.com/transformers-tactical-arena-real-time-pvp-game-coming-apple-arcade-soon)
+
+
+> Source: Apple Arcade A new Transformers game is coming to Apple Arcade soon. The new real-time PvP game will be playable on iPhone, iPad, Mac, and Apple TV. Transformers fans, it's time to get excited! A brand new Transformers game is coming to Apple Arcade soon with Transformers: Tactical Arena now available for pre-registration in the App Store. The game, which will be playable on iPhone, iPad, Mac, and Apple TV, will see players battle it out in real-time player-versus-player clashes and it already looks pretty awesome.
+
+
+***
+![Quantum computer maker Rigetti to go public via $1.5 bln SPAC deal](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53 "Quantum computer maker Rigetti to go public via $1.5 bln SPAC deal")
+
+
+[Quantum computer maker Rigetti to go public via $1.5 bln SPAC deal](https://www.reuters.com/technology/quantum-computer-maker-rigetti-go-public-via-15-bln-spac-deal-2021-10-06/)
+
+
+> OAKLAND, Calif., Oct 6 (Reuters) - Quantum computer maker Rigetti & Co Inc said on Wednesday it will go public through a merger with a blank-check firm in a deal that potentially values the combined company at $1.5 billion.This is the second quantum computer hardware maker to announce going public this year using a blank-check, or special purpose acquisition company (SPAC). Maryland-based IonQ (IONQ.N) listed on the New York Stock Exchange on Friday. SPACs are shell companies that raise funds through an initial public offering to acquire a private company, which then becomes public as a result.
+
+
+***
+![Rigetti Computing goes public via SPAC merger – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1028573864.jpg?w=601 "Rigetti Computing goes public via SPAC merger – TechCrunch")
+
+
+[Rigetti Computing goes public via SPAC merger – TechCrunch](https://techcrunch.com/2021/10/06/rigetti-computing-goes-public-via-spac-merger/)
+
+
+> Rigetti Computing, one of the most visible quantum hardware startups, today announced that it is going public through a merger with the Supernova Partners Acquisition Company II SPAC. Once the transaction closes, Rigetti's ticker symbol on the New York Stock Exchange will be ‘RGTI.' The transaction values Rigetti at about $1.5 billion and the company expects to receive about $458 million in cash, including a $100 million PIPE (private investment in public equity) deal subscribed to by a group of investors including T.
+
+
