@@ -9578,3 +9578,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+[Best smartphones with 48 megapixel camera smartphones under Rs 20,000; Read more](http://www.pinkvilla.com/tech/news/best-smartphones-with-48-megapixel-camera-smartphones-under-rs-20-000-read-more-911965)
+
+
+> Attach Main technology Image: Image Caption: Best smartphones with 48 megapixel camera smartphones under Rs 20,000; Read more Social Media Image : Enter the Technology details: Earlier we used to get smartphones which were used for internet surfing or using social media and the cameras included in these phones were of average quality. Nowadays we can see that the tech companies are putting their prime focus on the camera quality of the smartphones, because the people nowadays spend most of their time collecting memories and then posting them on the internet.
+
+
+***
+![Safari 15 Extension for Mac Helps You Tell Which Tab Is Active](https://images.macrumors.com/t/V_I_hFahU3_Q1IgZRQucqn-xtmE=/1600x/https://images.macrumors.com/article-new/2021/10/safari-15-tabs.jpg "Safari 15 Extension for Mac Helps You Tell Which Tab Is Active")
+
+
+[Safari 15 Extension for Mac Helps You Tell Which Tab Is Active](https://www.macrumors.com/2021/10/06/safari-15-extension-mac-helps-tell-tab-active/)
+
+
+> Safari 15 has faced a barrage of complaints about its controversial new design, and while Apple has listened to user feedback and reversed some changes or made them optional, many users still struggle to discern an active tab from a background tab on the Mac browser because of the inverted shading. Unfortunately for users who do not like the new design, Apple has not made any changes to the shading of tabs in either the Safari 15.1 beta or the latest version of the experimental Safari Technology Preview browser.
+
+
+***
+![EU lawmaker says US tech giants should be regulated where they are based](https://images.indianexpress.com/2021/10/Apple-facebok-google.jpg "EU lawmaker says US tech giants should be regulated where they are based")
+
+
+[EU lawmaker says US tech giants should be regulated where they are based](https://indianexpress.com/article/technology/tech-news-technology/eu-lawmaker-says-us-tech-giants-should-be-regulated-where-they-are-based-7555289/)
+
+
+> US tech giants such as Apple, Google, Facebook and Amazon should be regulated by the EU country where they are based under proposed EU rules, a top lawmaker said on Tuesday, knocking back efforts by some countries to broaden the planned act's scope. The country of origin principle is set out in EU antitrust chief Margrethe Vestager's draft rules known as the Digital Services Act which requires US tech giants to do more to police the internet for illegal and harmful content. The principle means Ireland is responsible for regulating Apple, Alphabet unit Google and Facebook because they have their European headquarters there while Amazon is subject to Luxembourg's supervision.
+
+
+***
+![India's cryptocurrency platform CoinSwitch Kuber raises over $260 mln](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53 "India's cryptocurrency platform CoinSwitch Kuber raises over $260 mln")
+
+
+[India's cryptocurrency platform CoinSwitch Kuber raises over $260 mln](https://www.reuters.com/technology/indias-cryptocurrency-platform-coinswitch-kuber-raises-over-260-mln-2021-10-06/)
+
+
+> BENGALURU, Oct 6 (Reuters) - Indian crypto asset platform CoinSwitch Kuber said on Wednesday it has raised more than $260 million in a funding round from investors including Coinbase Ventures and Andreessen Horowitz, valuing it at $1.9 billion. Reporting by Rama Venkat in Bengaluru; Editing by Subhranshu Sahu Our Standards: The Thomson Reuters Trust Principles.
+
+
+***
+![Canon unveils new dual fisheye lens which can capture 3D VR images and videos](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/canon-original.jpg "Canon unveils new dual fisheye lens which can capture 3D VR images and videos")
+
+
+[Canon unveils new dual fisheye lens which can capture 3D VR images and videos](https://www.indiatoday.in/technology/news/story/canon-unveils-new-dual-fisheye-lens-which-can-capture-3d-vr-images-and-videos-1861410-2021-10-06)
+
+
+> Manas Tiwari New Delhi, Oct 06, 2021, Updated Oct 06, 2021, 1:16 PM IST Story highlights Canon has announced a new EOS VR System. It includes a dual fisheye lens and two applications. All three products will be available December end. Canon on Wednesday unveiled its new dual fisheye lens which can help you capture 3D VR images and videos. The lens will be part of what Canon is calling an EOS VR System a new virtual reality (VR) video production system. Apart from the lens, the system also includes two computer software applications.
+
+
