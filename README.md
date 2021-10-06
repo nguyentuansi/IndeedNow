@@ -9434,3 +9434,53 @@
 > [ad_top1 class="mb40"] Making a game fun yet challenging, all while simple but requiring finesse, is extremely difficult. That's why we have always gone bananas—we won't keep making monkey-related jokes, we promise—for Sega's Super Monkey Ball franchise. Despite the super cute monkeys and the almost laughable stages, the Monkey Ball series has given players of all ages a means to either play for fun or competition. Are you just trying to get through the stages alive, or maybe you're aiming for high scores to brag to your fellow Super Monkey Ball friends? Regardless of your gameplay style, Super Monkey Ball Banana Mania will test your rolling prowess and power of will to avoid going AWWW for ten seconds after seeing the adorable little chimps.
 
 
+***
+![Domestic sales of Samsung's new foldable smartphones top 1 million units](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/7d06ae37a8724a0ab03328b0f8a363fe.jpg "Domestic sales of Samsung's new foldable smartphones top 1 million units")
+
+
+[Domestic sales of Samsung's new foldable smartphones top 1 million units](https://www.koreatimes.co.kr/www/tech/2021/10/133_316544.html)
+
+
+> Samsung Electronics' Galaxy Z Fold3 and Galaxy Z Flip3 smartphones are displayed at a store in Seoul, Oct. 1. YonhapDomestic sales of Samsung Electronics' new foldable smartphones ― the Galaxy Z Fold3 and the Galaxy Z Flip3 ― have surpassed 1 million units, the company said Wednesday, as the tech giant strives to popularize the foldable category. The third generation of the Galaxy Z series topped the 1 million sales milestone Monday, which is just 39 days after its launch, according to Samsung. It was the third fastest sales pace to exceed the 1 million sales mark in South Korea after the Galaxy Note 10 and the Galaxy S8.
+
+
+***
+![[ANALYSIS] Builders eyeing Aramco-led infra projects in Saudi Arabia](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/0176e4aadcf244b69e3634d228bef0b3.jpg "[ANALYSIS] Builders eyeing Aramco-led infra projects in Saudi Arabia")
+
+
+[[ANALYSIS] Builders eyeing Aramco-led infra projects in Saudi Arabia](https://www.koreatimes.co.kr/www/tech/2021/10/768_316529.html)
+
+
+> Increasing PPP procurementNevertheless, local builders have been finding success in overseas public private partnership (PPP) deals, adding to their profitability.According to the industry, major local construction companies, including Samsung C&T, GS E&C and SK Eco Plant, have been forming diverse overseas PPP consortia, through which they have been selected as the preferred bidders. If everything goes according to plan, local builders are expected to secure $8 billion worth of PPP construction projects, the largest total value of orders ever in one year, and a 1,000-percent increase from the previous year.
+
+
+***
+![Show HN: MaryJane Mjpeg Server In less than 30 lines of async Python](https://external-preview.redd.it/hOHSHyAySISQbWMVxyqE5jB_psGSjfKWhDQo2QS4Pl0.jpg?auto=webp&s=9859ce85da0336f85584748f1d56dd8d2f24d222 "Show HN: MaryJane Mjpeg Server In less than 30 lines of async Python")
+
+
+[Show HN: MaryJane Mjpeg Server In less than 30 lines of async Python](https://www.reddit.com/r/programming/comments/q2alfp/show_hn_maryjane_mjpeg_server_in_less_than_30/)
+
+
+> Hi folks OP here.MaryJane MJPEG server in < 30 lines of Python.Here is a demo: http://18.116.60.15:8080/maryjane/Here's the 30 lines of Python: https://raw.githubusercontent.com/bootrino/maryjane/master/m...Here is the github: https://github.com/bootrino/maryjaneBrowsers are able to display images such as PNG, JPG and GIF.A less known capability of browsers is to display a stream of JPG images. This is called MJPEG (motion JPEG).All you need to do is specify the MPJEG server address in an image tag and it just works.
+
+
+***
+![I made a Recursive Descent Parser with a clever "pythonic" API](https://external-preview.redd.it/m0S6M0HF9_IIKn50lu5Ac45ALLkczwtWpAbheZYgCTg.jpg?auto=webp&s=61db5edad414b6121831fa7e44a87b0e1796ae10 "I made a Recursive Descent Parser with a clever "pythonic" API")
+
+
+[I made a Recursive Descent Parser with a clever "pythonic" API](https://www.reddit.com/r/Python/comments/q2al2v/i_made_a_recursive_descent_parser_with_a_clever/)
+
+
+> I wrote it back in 2017, and I was going through old repositories on my GitHub, and enjoyed re-reading the ReadMe file I had written. After reading it again, I feel like I did a good job documenting it, and I'm still proud of the API I came up with for it (I think it's quite enjoyable and easy to write parsers, but I am the author 😅). Feel free to take a look, critique the code, or even write a little parser program with it!https://github.com/dougabugg/python-recursive-descent-parser
+
+
+***
+![Company that routes SMS for all major US carriers was hacked for five years](https://external-preview.redd.it/GY35QP-sOEKpRpWXJPiwepx-cxKGi83I21Koi8vSBDE.jpg?auto=webp&s=e9b2ddd256ff2c58267590369c32ab705ad9140d "Company that routes SMS for all major US carriers was hacked for five years")
+
+
+[Company that routes SMS for all major US carriers was hacked for five years](https://www.reddit.com/r/technology/comments/q2aemp/company_that_routes_sms_for_all_major_us_carriers/)
+
+
+> 5 years and they aren't giving more details. I'm with TMobile and I told people several times my phone was hacked. Switched phones multiple times, hacked each time. I have some good security in place. Finally surmised it was the carrier that was the problem, and this article conforms that.
+
+
