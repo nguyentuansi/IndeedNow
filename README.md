@@ -9484,3 +9484,50 @@
 > 5 years and they aren't giving more details. I'm with TMobile and I told people several times my phone was hacked. Switched phones multiple times, hacked each time. I have some good security in place. Finally surmised it was the carrier that was the problem, and this article conforms that.
 
 
+***
+!['American Hero': Dem Senators Praise Far-Left Facebook 'Whistleblower'](https://media.breitbart.com/media/2021/10/oct-5-2021-Facebook-whistleblower-Frances-Haugen-hearing-getty-640x335.jpg "'American Hero': Dem Senators Praise Far-Left Facebook 'Whistleblower'")
+
+
+['American Hero': Dem Senators Praise Far-Left Facebook 'Whistleblower'](https://www.breitbart.com/tech/2021/10/05/american-hero-dem-senators-praise-far-left-facebook-whistleblower-frances-haugen/)
+
+
+> During her testimony before the Senate Commerce Subcommittee on Tuesday, Democratic senators from Amy Klobuchar to Ed Markey heaped scores of praise upon far-left Facebook 'whistleblower' Frances Haugen, extolling her for her courage and willingness to come forward. While multiple topics regarding Facebook were discussed before the Senate on Tuesday — from the company's unethical use of private data to the social media platform's harmful effects on children — the primary topic Haugen pushed in her opening testimony was the U.
+
+
+***
+![Facebook operating in the shadows, is unaccountable, says whistleblower](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/2_7-sixteen_nine_1-sixteen_nine.jpg "Facebook operating in the shadows, is unaccountable, says whistleblower")
+
+
+[Facebook operating in the shadows, is unaccountable, says whistleblower](https://www.businesstoday.in/technology/news/story/facebook-operating-in-the-shadows-is-unaccountable-says-whistleblower-308573-2021-10-06)
+
+
+> US lawmakers pounded Facebook on Tuesday, accusing CEO Mark Zuckerberg of pushing for higher profits while being cavalier about user safety and they demanded regulators investigate whistleblower accusations that the social media company harms children and stokes divisions. During a Senate Commerce subcommittee hearing, whistleblower Frances Haugen called for transparency about how Facebook entices users to extend their stay on the site, giving them ample opportunity to advertise to them. "As long as Facebook is operating in the shadows, hiding its research from public scrutiny, it is unaccountable," said Haugen, a former employee of the nearly $1 trillion company who turned whistleblower.
+
+
+***
+[Show /r/Python: MaryJane MJPEG server in less than 30 lines of Python.](https://www.reddit.com/r/Python/comments/q2chqn/show_rpython_maryjane_mjpeg_server_in_less_than/)
+
+
+> Hi folks OP here.MaryJane MJPEG server in less than 30 lines of Python.Here is a demo: http://18.116.60.15:8080/maryjane/Here's the 30 lines of Python: https://raw.githubusercontent.com/bootrino/maryjane/master/m...Here is the github: https://github.com/bootrino/maryjaneBrowsers are able to display images such as PNG, JPG and GIF.A less known capability of browsers is to display a stream of JPG images. This is called MJPEG (motion JPEG).All you need to do is specify the MPJEG server address in an image tag and it just works.
+
+
+***
+![This startup is using IoT to help silk India's farmers get superior yields](https://bsmedia.business-standard.com/_media/bs/img/article/default/1211006/full-121100600167.jpg "This startup is using IoT to help silk India's farmers get superior yields")
+
+
+[This startup is using IoT to help silk India's farmers get superior yields](https://www.business-standard.com/article/technology/this-startup-is-using-iot-to-help-silk-india-s-farmers-get-superior-yields-121100600167_1.html)
+
+
+> Jagadeesh Reddy from Sarjapura, a small village in Karnataka has been a silk farmer for about 15 years. Till recently, he would get flaccid cocoons infected by diseases as he used to farm with no proper data. For instance, he did not have information about humidity, temperature, light and air quality. But all that changed, when recently ReshaMandi, a silk agri-tech start-up, installed a rearing shed for the cocoons. It is equipped with the Internet of Things—a technology where devices communicate with each other intelligently.
+
+
+***
+![Telegram gained 70 million users when WhatsApp and Facebook went down](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/rtx8nzj2_1200x768-original.png "Telegram gained 70 million users when WhatsApp and Facebook went down")
+
+
+[Telegram gained 70 million users when WhatsApp and Facebook went down](https://www.indiatoday.in/technology/news/story/telegram-gained-70-million-users-when-whatsapp-and-facebook-went-down-1861275-2021-10-06)
+
+
+> Ankita Chakravarti New Delhi, Oct 06, 2021, Updated Oct 06, 2021, 9:09 AM IST Story highlights Telegram added 70 million users when WhatsApp and Facebook went down. WhatsApp recently suffered a massive outage globally which latest for more than six hours. Facebook blamed a faulty configuration change for the outage. WhatsApp's loss is Telegram's gain. WhatsApp recently suffered a massive outage globally which latest for more than six hours but the entire duration that WhatsApp was down, Telegram added 70 million users.
+
+
