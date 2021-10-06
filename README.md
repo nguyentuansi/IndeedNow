@@ -9775,3 +9775,53 @@
 > October 06, 2021 10:00 AM Eastern Daylight Time HALIFAX, Nova Scotia--(BUSINESS WIRE)--Byos (www.byos.io), the startup bringing edge microsegmentation solutions to the market, announced today that Rob Valiton will become its new Chief Operating Officer and John Bryant its new Director of Enterprise Sales. Adding more than five decades of industry experience to the Byos leadership team, the hires demonstrate the company's commitment to accelerating growth. The announcement comes less than three months after Byos launched its Industrial μGateway™ ('micro-gateway'): a plug-and-play, legacy-compatible secure gateway edge for critical infrastructure.
 
 
+***
+![Google Pixel 6 release date and specs leaked for NEW iPhone 13 rival](https://www.the-sun.com/wp-content/uploads/sites/6/2021/09/aj-pixel-comp-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Google Pixel 6 release date and specs leaked for NEW iPhone 13 rival")
+
+
+[Google Pixel 6 release date and specs leaked for NEW iPhone 13 rival](https://www.the-sun.com/tech/3804393/google-pixel-6-release-date-price-rumours-features-news/)
+
+
+> GOOGLE'S latest flagship mobile is right around the corner. The search giant has confirmed that we'll get our first proper look at the Pixel 6 later this month – here's what you need to know ahead of the event. Google has already released a handful of images of the hotly-anticipated Pixel 6Credit: Google The search giant put the Pixel 6 and Pixel 6 smartphones on display in New York last month What is the Google Pixel 6? Pixel phones are the flagship phones for Google's Android software. They get the best features first, and run the pure unadulterated version of Android that the search giant has created.
+
+
+***
+![Google Pixel 6 release date and specs leaked for NEW iPhone 13 rival](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/09/aj-pixel-comp-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Google Pixel 6 release date and specs leaked for NEW iPhone 13 rival")
+
+
+[Google Pixel 6 release date and specs leaked for NEW iPhone 13 rival](https://www.thescottishsun.co.uk/tech/7810263/google-pixel-6-release-date-price-rumours-features-news/)
+
+
+> GOOGLE'S latest flagship mobile is right around the corner. The search giant has confirmed that we'll get our first proper look at the Pixel 6 later this month – here's what you need to know ahead of the event. Google has already released a handful of images of the hotly-anticipated Pixel 6Credit: Google The search giant put the Pixel 6 and Pixel 6 smartphones on display in New York last month What is the Google Pixel 6? Pixel phones are the flagship phones for Google's Android software. They get the best features first, and run the pure unadulterated version of Android that the search giant has created.
+
+
+***
+![Facebook blames outage on error during routine maintenance](https://fox5sandiego.com/wp-content/uploads/sites/15/2021/10/AP21277638768155.jpg?w=1280 "Facebook blames outage on error during routine maintenance")
+
+
+[Facebook blames outage on error during routine maintenance](https://fox5sandiego.com/news/tech/facebook-blames-outage-on-error-during-routine-maintenance/)
+
+
+> LONDON (AP) — The global outage that knocked Facebook and its other platforms offline for hours was caused by an error during routine maintenance, the company said. Santosh Janardhan, Facebook's vice president of infrastructure, said in a blog post that Facebook, Instagram and WhatsApp going dark was 'caused not by malicious activity, but an error of our own making.' The problem occurred as engineers were carrying out day to day work on Facebook's global backbone network; the computers, routers and software in its data centers around the world along with the fiber-optic cables connecting them.
+
+
+***
+![Halide 2.5 now available, boasting an all-new macro photography mode](https://photos5.appleinsider.com/gallery/44884-87267-macro-xl.jpg "Halide 2.5 now available, boasting an all-new macro photography mode")
+
+
+[Halide 2.5 now available, boasting an all-new macro photography mode](https://appleinsider.com/articles/21/10/06/halide-25-now-available-boasting-an-all-new-macro-photography-mode)
+
+
+> Supply chain issues could affect iPhone 13 revenue, analyst says 1 hour ago App Store sees strongest growth in months in September 1 hour ago OLED 12.9-inch iPad coming in late 2023 or early 2024 2 hours ago
+
+
+***
+![MLB Playoffs 2021: How to watch Dodgers vs. Cardinals Wild Card game on TBS](https://www.cnet.com/a/img/JtmfuxFmGQoD9Cbl2p75vxbU9C4=/1200x630/2021/10/06/8fb6328d-149b-444e-b6cd-b123e8f10fa9/gettyimages-1235681266.jpg "MLB Playoffs 2021: How to watch Dodgers vs. Cardinals Wild Card game on TBS")
+
+
+[MLB Playoffs 2021: How to watch Dodgers vs. Cardinals Wild Card game on TBS](https://www.cnet.com/tech/home-entertainment/mlb-playoffs-2021-how-to-watch-dodgers-vs-cardinals-wild-card-game-on-tbs/)
+
+
+> After a "normal," six-month, 162-game regular season, Major League Baseball's postseason lineup is rounding out. In the American League, the Red Sox took care of the Yankees to advance to the Division Series against the AL East-winning Rays. In the National League, the Giants won on Sunday to take the NL West crown, dumping the 106-win Dodgers into the NL Wild Card game on Wednesday against the Cardinals. The NL Wild Card game between the Dodgers and Cardinals will be played Wednesday in Los Angeles at Dodger Stadium, with the winner going on to face the Giants in the NL divisional series.
+
+
