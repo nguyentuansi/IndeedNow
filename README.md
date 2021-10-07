@@ -10447,3 +10447,53 @@
 > Source: Rebecca Spear / iMore If you have multiple Nintendo Switch consoles in your home, you might be wondering if it's possible to share one game between the two systems. Physical games can be passed back and forth, but digital games technically stay connected to the Nintendo account and Switch console they were purchased on. If you buy a digital game on one Switch, it makes sense that you might want to share it on, say, your child's Switch for them to play. But is Gameshare possible? Technically, there is no official game-sharing service on Nintendo's systems.
 
 
+***
+![The Google Pixel 4a remains the best sub-$400 phone (if you can find one)](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/07/google-pixel-4a-black-camera-close.jpg "The Google Pixel 4a remains the best sub-$400 phone (if you can find one)")
+
+
+[The Google Pixel 4a remains the best sub-$400 phone (if you can find one)](https://www.androidcentral.com/best-android-phones-under-400)
+
+
+> Source: Andrew Martonik / Android Central Best Android phones under $400 Android Central 2021 If you are looking for an affordable, mid-range smartphone, we think the Google Pixel 4a remains the best Android phone under $400 — assuming you can still find it. You get the same software, features, camera experience, and software updates as the higher-end Pixel 4, much less than the new Pixel 5a. The only shortcomings come in the hardware and a couple of the specs — a fine trade-off to save hundreds of dollars.
+
+
+***
+![NVIDIA GeForce NOW: Everything You Need To Know – Updated October, 2021](https://www.androidheadlines.com/wp-content/uploads/2019/10/NVIDIA-GeForce-NOW-Android.jpg "NVIDIA GeForce NOW: Everything You Need To Know – Updated October, 2021")
+
+
+[NVIDIA GeForce NOW: Everything You Need To Know – Updated October, 2021](https://www.androidheadlines.com/what-is-nvidia-geforce-now-everything-you-need-to-know.html)
+
+
+> What is GeForce NOW? To put it simply, it's NVIDIA's cloud gaming platform. You use it to stream games to other devices using NVIDIA's hardware. Letting you play games with high graphics settings without needing a high-end PC.If you're looking to learn more about NVIDIA GeForce NOW, this guide breaks it all down and attempts to answer any questions you may have. This is an ongoing piece of content and will be updated accordingly when there are changes to the service.What is NVIDIA GeForce NOW and when is it available?As noted above GeForce NOW is NVIDIA's answer to a cloud gaming platform.
+
+
+***
+![TechTarget's SearchServerVirtualization.com Announces 'Best of VMworld' 2021 Award Winners](https://mms.businesswire.com/media/20211007005988/en/569936/21/tt_logo.jpg "TechTarget's SearchServerVirtualization.com Announces 'Best of VMworld' 2021 Award Winners")
+
+
+[TechTarget's SearchServerVirtualization.com Announces 'Best of VMworld' 2021 Award Winners](https://www.businesswire.com/news/home/20211007005988/en/TechTarget%E2%80%99s-SearchServerVirtualization.com-Announces-%E2%80%9CBest-of-VMworld%E2%80%9D-2021-Award-Winners)
+
+
+> NEWTON, Mass.--(BUSINESS WIRE)--Global technology media and purchase intent data and services company TechTarget, Inc. (Nasdaq: TTGT) announced the winners of the 'Best of VMworld' 2021 Awards during the VMworld® 2021 virtual conference this week and sponsored by VMware, Inc. As the official media partner for the VMworld Awards for the fifteenth year in a row, TechTarget's SearchServerVirtualization.com™ staff appointed a team of experts and editors that selected winning products. The team judged the products according to their innovation, value, performance, reliability and ease of use.
+
+
+***
+![Sony's Bravia XR TVs To Get 'Perfect for PlayStation 5' Features](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/10/Sony-Auto-Genre-Picture-Mode.jpg "Sony's Bravia XR TVs To Get 'Perfect for PlayStation 5' Features")
+
+
+[Sony's Bravia XR TVs To Get 'Perfect for PlayStation 5' Features](https://screenrant.com/sony-bravia-xr-tvs-playstation-5-hdr-tone-mapping-genre-picture-mode/)
+
+
+> Sony's Bravia XR TVs are set to gain ‘Auto HDR Tone Mapping' and ‘Auto Genre Picture Mode' early next year to offer a better PS5 gaming experience. Sony's latest line of Bravia XR TVs are due to get a couple of new features soon which the company argues makes them perfect for the PlayStation 5. With Sony the maker of both the TVs and game consoles in question, it stands to reason that the two product lines might play nicer with each other than when paired with products from different brands. However, the new features being touted are somewhat similar to existing technologies that can be found elsewhere.
+
+
+***
+![Difference between Primitive and Reference type data in JavaScript](https://external-preview.redd.it/LMLgLdD6qJ1p8XKwHXKC9nK4rBep_5TXkWK74cKczjQ.jpg?auto=webp&s=6192f17a5a322c894fd7b5e232ad4668815aad85 "Difference between Primitive and Reference type data in JavaScript")
+
+
+[Difference between Primitive and Reference type data in JavaScript](https://www.reddit.com/r/programming/comments/q3gz87/difference_between_primitive_and_reference_type/)
+
+
+> no comments yetBe the first to share what you think!
+
+
