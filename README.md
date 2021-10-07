@@ -10497,3 +10497,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![The Convenient Reason Right-Wing Pundits Are Defending Facebook Now](https://compote.slate.com/images/f08ef04a-b6b6-4f74-a195-0f5068bb4627.jpeg?width=780&height=520&rect=4200x2800&offset=0x0 "The Convenient Reason Right-Wing Pundits Are Defending Facebook Now")
+
+
+[The Convenient Reason Right-Wing Pundits Are Defending Facebook Now](https://slate.com/technology/2021/10/facebook-whistleblower-bongino-shapiro-crowder.html)
+
+
+> Thanks to a whistleblower who has shared tens of thousands of embarrassing internal documents with the press and government, Facebook has spent the last few weeks squirming. But one of the company's loudest groups of detractors—right-wingers who criticize Big Tech as being censorious toward conservatives—doesn't seem especially pleased. According to politicians on Capitol Hill, including those on the right, former Facebook product manager Frances Haugen is a brave crusader exposing the harms and excesses of the world's most powerful social network.
+
+
+***
+![Windows 11 download: How to install the upgrade right now, no waiting](https://www.cnet.com/a/img/Zlhst7zdVp5OSd9MLZQ15ST8uQs=/1200x630/2021/06/24/e58fceb6-e7c1-40fb-bf6d-b29e81f9a713/screen-shot-2021-06-24-at-11-45-41-am-2.png "Windows 11 download: How to install the upgrade right now, no waiting")
+
+
+[Windows 11 download: How to install the upgrade right now, no waiting](https://www.cnet.com/tech/services-and-software/windows-11-download-how-to-install-the-upgrade-now-no-waiting/)
+
+
+> Windows 11 is here, and it's free to download. Microsoft Windows 11 began its wide rollout this week. Microsoft launched its new operating system to eligible devices on Tuesday Oct. 5, and the upgrade is free if you're already using Windows 10. However, Microsoft is rolling out the OS in phases, which means you might not have the prompt to upgrade just yet. An August blog post from Microsoft said the company expects "all eligible devices to be offered the free upgrade to Windows 11 by mid-2022." But you don't have to wait: The Windows 11 Installation Assistant is your shortcut to Windows 11.
+
+
+***
+![Apple opens Developer Academy in Detroit focused on iOS apps](https://www.cnet.com/a/img/L21Wweq3dq_QhCSk6cPGmj91ekw=/1200x630/2021/09/21/19e3c3cf-8c06-4263-bdc0-f11115a76b34/iphone-13-mini-cnet-review-2021-114.jpg "Apple opens Developer Academy in Detroit focused on iOS apps")
+
+
+[Apple opens Developer Academy in Detroit focused on iOS apps](https://www.cnet.com/tech/mobile/apple-opens-developer-academy-in-detroit-focused-on-ios-apps/)
+
+
+> Sarah Tew/CNET Apple opened its first US Developer Academy in Detroit this week, which teaches students coding, design, marketing and project management, "with an emphasis on inclusivity and making a positive impact in their communities." The effort was launched with Michigan State University, and is part of Apple's Racial Equity and Justice Initiative, which is geared toward addressing systemic racism while making opportunities available for people of color around the country. "We believe apps for everyone should be designed by everyone, and that all aspiring developers and entrepreneurs should have the opportunity to be a part of the thriving app economy," Lisa Jackson, Apple's vice president of environment, policy, and social initiatives, said in a statement.
+
+
+***
+![YouTube demonetizes climate denialism content](https://helios-i.mashable.com/imagery/articles/01ntod4sT5nl4M23CG3F0ZI/hero-image.fill.size_1200x675.v1633643709.jpg "YouTube demonetizes climate denialism content")
+
+
+[YouTube demonetizes climate denialism content](https://mashable.com/article/youtube-bans-climate-denial-ads-monetization)
+
+
+> Climate change is real.And while one can still deny that reality in their YouTube content, they won't be able to monetize or run advertisements for it.On Thursday, YouTube updated its ads and monetization policies to prohibit the monetization of climate denialism content. The policy covers content that claims climate change is a hoax or a scam. Creators will also be unable to monetize content that denies that the global climate is warming or that humans contribute to climate change.Advertisements for this type of content are now also prohibited on YouTube.
+
+
+***
+![Turns Out Teens Hate Facebook And Twitter, Too](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d30d3770ca72c07a68818c4fdc403d09.jpg "Turns Out Teens Hate Facebook And Twitter, Too")
+
+
+[Turns Out Teens Hate Facebook And Twitter, Too](https://gizmodo.com/turns-out-teens-hate-facebook-and-twitter-too-1847821654)
+
+
+> It's safe to say that The Teens hate Facebook and Twitter as much as the rest of us. At least, that's according to a 91-page survey put out this week by analysts at the financial firm Piper Sandler. The lengthy report, titled 'Taking Stock With Teens,' quizzed 10,000 US teenagers on everything from the social causes they support to the brands that they buy on a regular basis. The report also asked these teens what their favorite platforms were—and for the most part, they're names that you'd expect: 35% of teens named Snapchat at the top, with TikTok as a close second (30%).
+
+
