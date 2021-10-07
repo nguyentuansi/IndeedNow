@@ -10206,3 +10206,53 @@
 > Dyson season is upon us. If you are looking for the best cheap Dyson vacuum and fan/air purifier deals, we found a good selection of the deals you can buy today. Dyson's high-performance vacuum cleaners, air purifiers, and fans achieve consistently high ratings. Many customers wait for the corded or cordless vacuum cleaner, bladeless fan, or haircare device they have their hearts set on to go on sale. Fortunately, Dyson frequently discounts its products, often changing prices weekly. The best place to start? Right here, with our search results of the best Dyson deals and the best Dyson sales.
 
 
+***
+![Snap launches in-app tool on drug dangers following fentanyl deaths](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53 "Snap launches in-app tool on drug dangers following fentanyl deaths")
+
+
+[Snap launches in-app tool on drug dangers following fentanyl deaths](https://www.reuters.com/technology/snap-launches-in-app-tool-drug-dangers-following-fentanyl-deaths-2021-10-07/)
+
+
+> Oct 7 (Reuters) - Snap (SNAP.N) is launching an in-app tool to educate users searching for drug-related key words on Snapchat about the dangers of drugs and is working on tools for parents to help keep teenagers safe on the service, the company said on Thursday.The announcement comes after a public safety alert from the U.S. Drug Enforcement Administration (DEA) last week, which warned about an increase in fake prescription pills containing fentanyl and methamphetamine often sold on social media and e-commerce sites.
+
+
+***
+![Tech feels labor market crunch](https://images.axios.com/uU7x34IDwDpTFSNeqQK0rSxx_rY=/0x0:1920x1080/1366x768/2021/10/03/1633270741204.jpg "Tech feels labor market crunch")
+
+
+[Tech feels labor market crunch](https://www.axios.com/tech-labor-market-software-engineering-jobs-2f5d8100-fe09-40ce-9cc4-33157fe0ae34.html)
+
+
+> Openings for tech jobs like engineer or software developer have spiked as an already tight U.S. job market weathers the economy-wide effects of the pandemic.The big picture: Tech workers were in high demand pre-pandemic, and the COVID era's rapid moves to digital further intensified that need.By the numbers: There were more than 1.2 million unique active job vacancy postings as of early September in computer occupations such as software developer or programmer in the U.S., according to an analysis by the National Foundation for American Policy based on data from Emsi Job Posting Analytics.
+
+
+***
+![Soundcore Liberty 3 Pro goes after Sony's wireless hi-res crown](https://icdn.digitaltrends.com/image/digitaltrends/anker-soundcore-liberty-3-pro-featured.jpg "Soundcore Liberty 3 Pro goes after Sony's wireless hi-res crown")
+
+
+[Soundcore Liberty 3 Pro goes after Sony's wireless hi-res crown](https://www.digitaltrends.com/home-theater/anker-soundcore-liberty-3-pro/)
+
+
+> Anker's Soundcore brand of personal audio devices just released the latest in its Liberty line of true wireless earbuds, and the company seems to be throwing everything it has at them. The $170 Liberty 3 Pro feature a 30% smaller shape than their predecessor, the Liberty 2 Pro, plus they come equipped with active noise cancellation (ANC) and hi-res Bluetooth codecs, things the original version of the older model lacked. The Liberty 3 Pro come in four colors — black, white, gray, and purple — and you can buy them starting today on Amazon and at other retailers.
+
+
+***
+![Windows 11: How to download Microsoft's new OS early](https://www.cnet.com/a/img/Zlhst7zdVp5OSd9MLZQ15ST8uQs=/1200x630/2021/06/24/e58fceb6-e7c1-40fb-bf6d-b29e81f9a713/screen-shot-2021-06-24-at-11-45-41-am-2.png "Windows 11: How to download Microsoft's new OS early")
+
+
+[Windows 11: How to download Microsoft's new OS early](https://www.cnet.com/tech/services-and-software/windows-11-how-to-download-microsofts-new-os-early/)
+
+
+> Windows 11 will be free to download for Windows 10 users.  Microsoft Windows 11 began its wide rollout this week. Microsoft launched its new operating system to eligible devices on Tuesday Oct. 5, and the upgrade is free if you're already using Windows 10. However, Microsoft is rolling out the OS in phases, which means you might not have the prompt to upgrade just yet. An August blog post from Microsoft said the company expects "all eligible devices to be offered the free upgrade to Windows 11 by mid-2022.
+
+
+***
+![Windows 11 is killing game performance for PCs with AMD processors](https://cdn.mos.cms.futurecdn.net/E9GbfrydgGUurZA2LZFTKA-1200-80.jpg "Windows 11 is killing game performance for PCs with AMD processors")
+
+
+[Windows 11 is killing game performance for PCs with AMD processors](https://www.techradar.com/news/windows-11-is-killing-game-performance-for-pcs-with-amd-processors)
+
+
+> (Image credit: Future) Windows 11 has an issue with AMD processors, Team Red has confirmed, and it could have a substantial performance impact with some games.AMD made the warning via a support post on ‘Windows 11 performance variation in certain applications', underlining that the issue is due to L3 cache latency potentially being around three times slower (cache is the small amount of very fast memory on-board the CPU).As you might imagine, that's bad news for apps and games which are particularly sensitive to this cache access time, and AMD estimates that broadly, all supported Ryzen CPUs under Windows 11 (and some newer Athlon models, plus Epyc chips) could slow down by around 3% to 5% in affected apps.
+
+
