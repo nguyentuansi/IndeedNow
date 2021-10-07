@@ -10303,3 +10303,53 @@
 > Oct 7 (Reuters) - Starry Inc said on Thursday it has agreed to go public through a merger with blank-check firm FirstMark Horizon Acquisition Corp (FMAC.N) in a deal that would value the broadband services provider at $1.66 billion.As part of the agreement, Starry will get $452 million in cash, including $130 million via private investment in public equity, and a concurrent equity financing round from investors such as Fidelity Management & Research Company, Tiger Global Management and affiliates of FirstMark Capital, among others.
 
 
+***
+![Facebook announces subsea cables, mm-wave mesh to take the Internet to dark spots](https://images.indianexpress.com/2021/10/Facebook_FloatingStations1_NEW.jpg "Facebook announces subsea cables, mm-wave mesh to take the Internet to dark spots")
+
+
+[Facebook announces subsea cables, mm-wave mesh to take the Internet to dark spots](https://indianexpress.com/article/technology/tech-news-technology/facebook-announces-subsea-cables-mm-wave-mesh-to-take-the-internet-to-dark-spots-7558167/)
+
+
+> Facebook is working on the first-ever transatlantic, 24-fiber-pair subsea cable system that will connect Europe and the United States with a capacity of half a petabit per second — roughly half a million gigabits. The company also announced its Terragraph technology, which creates an mm-wave mesh to solve the problem of last-mile connectivity. The company has not revealed any more details on when the undersea cable will be operational. However, Facebook's connectivity team did share more details on its 2Africa Pearls undersea cable, which was announced earlier this year.
+
+
+***
+![China's tighter video game restrictions spring a few leaks during country's long holiday as kids seek online fun](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/10/07/e7e260c0-276d-11ec-8f06-8f17bcf6e46a_image_hires_212547.jpg?itok=wnuXbSiL&v=1633613154 "China's tighter video game restrictions spring a few leaks during country's long holiday as kids seek online fun")
+
+
+[China's tighter video game restrictions spring a few leaks during country's long holiday as kids seek online fun](https://www.scmp.com/tech/policy/article/3151560/chinas-tighter-video-game-restrictions-spring-few-leaks-during-countrys)
+
+
+> People play computer games at an internet cafe in Beijing on September 10, 2021, days after Chinese officials summoned gaming enterprises including Tencent and NetEase to discuss further curbs on the industry. Photo: AFP
+
+
+***
+![Pokémon Unite doesn't not offer controller support on iPhone and iPad](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/pokemon-unite-lucario-attack.jpg "Pokémon Unite doesn't not offer controller support on iPhone and iPad")
+
+
+[Pokémon Unite doesn't not offer controller support on iPhone and iPad](https://www.imore.com/pokemon-unite-how-use-controller-iphone-and-ipad)
+
+
+> Source: iMore It took a few months after the initial Nintendo Switch release, but Pokémon Unite has finally come to iPhones, iPads, and Android phones. This is a highly competitive game, so it makes sense that you'd want to give yourself an edge. Generally speaking, the best iPhone game controller usually gives you better, well, control and can make playing for long stretches easier on mobile. That's why it's so upsetting that the game currently does not offer controller support. Can you use a controller in Pokémon Unite on iPhone and iPad? As ridiculous as it sounds, Pokémon Unite on mobile did not launch with controller support for either the iOS or Android versions.
+
+
+***
+![Procurement Organizations Can Achieve Breakthrough Improvements by Embracing Digital Technology](https://mms.businesswire.com/media/20211007005106/en/1223942/23/THG_Logo_White_2021.jpg "Procurement Organizations Can Achieve Breakthrough Improvements by Embracing Digital Technology")
+
+
+[Procurement Organizations Can Achieve Breakthrough Improvements by Embracing Digital Technology](https://www.businesswire.com/news/home/20211007005106/en/Procurement-Organizations-Can-Achieve-Breakthrough-Improvements-by-Embracing-Digital-Technology)
+
+
+> October 07, 2021 10:00 AM Eastern Daylight Time MIAMI & LONDON--(BUSINESS WIRE)--By fully embracing digital transformation, procurement organizations can achieve superior levels of efficiency, effectiveness, and customer experience, including 25% lower cost, 2.5x greater procurement ROI, and more, according to new Digital World Class™ procurement research from The Hackett Group, Inc. (NASDAQ: HCKT). 'For decades The Hackett Group's benchmarks have been the gold standard by which most global companies measure world-class performance in procurement and other business services.
+
+
+***
+![MEDIA ALERT — Top reasons that could prompt the IRS to select your tax return for an audit](https://mms.businesswire.com/media/20211007005107/en/716975/23/WK_H_01_Pos_RGB_2400_Color.jpg "MEDIA ALERT — Top reasons that could prompt the IRS to select your tax return for an audit")
+
+
+[MEDIA ALERT — Top reasons that could prompt the IRS to select your tax return for an audit](https://www.businesswire.com/news/home/20211007005107/en/MEDIA-ALERT-%E2%80%94-Top-reasons-that-could-prompt-the-IRS-to-select-your-tax-return-for-an-audit)
+
+
+> --(BUSINESS WIRE)--Wolters Kluwer Tax & Accounting: What: Today, the Internal Revenue Service (IRS) audits about one half of one percent of individual tax returns. The IRS does not reveal all of the details that go into having a tax return selected for audit, but for some categories of individual taxpayers, the odds of being audited can be much higher. The US Congress is also considering additional funding for the IRS to help it increase its audit activity. Why: Depending on the scope of the audit, it can be a costly and time-consuming process.
+
+
