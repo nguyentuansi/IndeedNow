@@ -10256,3 +10256,50 @@
 > (Image credit: Future) Windows 11 has an issue with AMD processors, Team Red has confirmed, and it could have a substantial performance impact with some games.AMD made the warning via a support post on ‘Windows 11 performance variation in certain applications', underlining that the issue is due to L3 cache latency potentially being around three times slower (cache is the small amount of very fast memory on-board the CPU).As you might imagine, that's bad news for apps and games which are particularly sensitive to this cache access time, and AMD estimates that broadly, all supported Ryzen CPUs under Windows 11 (and some newer Athlon models, plus Epyc chips) could slow down by around 3% to 5% in affected apps.
 
 
+***
+![One month on, El Salvador's bitcoin use grows but headaches persist](https://www.reuters.com/resizer/stzvqJCtHrIrW937lrAdP5-bveI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AKOU7ISO3NIT7DJH6V7DOQ2MJU.jpg "One month on, El Salvador's bitcoin use grows but headaches persist")
+
+
+[One month on, El Salvador's bitcoin use grows but headaches persist](https://www.reuters.com/technology/one-month-el-salvadors-bitcoin-use-grows-headaches-persist-2021-10-07/)
+
+
+> EL ZONTE, El Salvador, Oct 7 (Reuters) - A growing number of El Salvadorans have experimented with bitcoin since the country became the first to adopt it as legal tender last month, with a couple of million dollars sent daily by migrants using the cryptocurrency.But only a fraction of the Central American nation's businesses have taken a bitcoin payment and technical problems have plagued the government's cryptocurrency app, frustrating even committed users of the technology.Construction worker Adalberto Galvez, 32, said he had lost $220 when trying to withdraw cash from the Chivo digital wallet.
+
+
+***
+[Investigation into Tether, which issued 48B coins this year, as regulators struggle to understand its cash reserves, organizational structure, and other details (Zeke Faux/Bloomberg)](http://www.techmeme.com/211007/p13#a211007p13)
+
+
+> Zeke Faux / Bloomberg: Investigation into Tether, which issued 48B coins this year, as regulators struggle to understand its cash reserves, organizational structure, and other details — A wild search for the U.S. dollars supposedly backing the stablecoin at the center of the global cryptocurrency trade …
+
+
+***
+![Squid Game sees booming piracy in China, where Netflix is unavailable, amid Beijing‘s crackdown on unlicensed content](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/10/07/382837e0-2754-11ec-8f06-8f17bcf6e46a_image_hires_181743.jpg?itok=_iSLRMRP&v=1633601869 "Squid Game sees booming piracy in China, where Netflix is unavailable, amid Beijing‘s crackdown on unlicensed content")
+
+
+[Squid Game sees booming piracy in China, where Netflix is unavailable, amid Beijing‘s crackdown on unlicensed content](https://www.scmp.com/tech/big-tech/article/3151533/squid-game-sees-booming-piracy-china-where-netflix-unavailable-amid)
+
+
+> In Squid Game, hundreds of debtors are forced to compete against each other in a series of games until all participants are dead except one. The Netflix show has become a global sensation, even in China, where the South Korean drama is not officially available. Photo: Netflix
+
+
+***
+![Facebook data of 1.5 billion users was found for sale on hacker forum, now taken down](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2021-10-07_at_5.22._1200x768-original.png "Facebook data of 1.5 billion users was found for sale on hacker forum, now taken down")
+
+
+[Facebook data of 1.5 billion users was found for sale on hacker forum, now taken down](https://www.indiatoday.in/technology/news/story/facebook-data-of-1-5-billion-users-was-found-for-sale-on-hacker-forum-now-taken-down-1862030-2021-10-07)
+
+
+> Yasmin Ahmed New Delhi, Oct 07, 2021, Updated Oct 07, 2021, 5:25 PM IST Story highlights Publicly available data of 1.5 billion Facebook users were found on a hacker forum for sale. The stolen data includes names, email addresses, locations, gender, phone numbers and Facebook User ID information. The development comes days after Facebook and its sister companies Instagram and WhatsApp went into almost a 7-hour long outage. Publicly available data of 1.5 billion Facebook users was found on a hacker forum for sale, as per an online report.
+
+
+***
+![Broadband firm Starry to go public in near-$1.7 bln SPAC deal](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53 "Broadband firm Starry to go public in near-$1.7 bln SPAC deal")
+
+
+[Broadband firm Starry to go public in near-$1.7 bln SPAC deal](https://www.reuters.com/technology/broadband-firm-starry-go-public-near-17-bln-spac-deal-2021-10-07/)
+
+
+> Oct 7 (Reuters) - Starry Inc said on Thursday it has agreed to go public through a merger with blank-check firm FirstMark Horizon Acquisition Corp (FMAC.N) in a deal that would value the broadband services provider at $1.66 billion.As part of the agreement, Starry will get $452 million in cash, including $130 million via private investment in public equity, and a concurrent equity financing round from investors such as Fidelity Management & Research Company, Tiger Global Management and affiliates of FirstMark Capital, among others.
+
+
