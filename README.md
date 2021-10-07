@@ -10353,3 +10353,50 @@
 > --(BUSINESS WIRE)--Wolters Kluwer Tax & Accounting: What: Today, the Internal Revenue Service (IRS) audits about one half of one percent of individual tax returns. The IRS does not reveal all of the details that go into having a tax return selected for audit, but for some categories of individual taxpayers, the odds of being audited can be much higher. The US Congress is also considering additional funding for the IRS to help it increase its audit activity. Why: Depending on the scope of the audit, it can be a costly and time-consuming process.
 
 
+***
+![New MacBook Pro 2021: Release date, specs and features for HUGE redesign](https://www.the-sun.com/wp-content/uploads/sites/6/2021/10/macbook-pro-2021-new.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "New MacBook Pro 2021: Release date, specs and features for HUGE redesign")
+
+
+[New MacBook Pro 2021: Release date, specs and features for HUGE redesign](https://www.the-sun.com/tech/3812104/new-macbook-pro-2021-release-date-specs-price-features/)
+
+
+> APPLE may be working on a top-secret new laptop – and it could be just days away. A hi-tech new MacBook Pro 2021 edition is heavily rumoured to launch very soon. Apple's new MacBook Pro could soon join the MacBook Air on store shelvesCredit: Apple What is the MacBook Pro 2021? Apple MacBooks are some of the world's best laptops, comfortably rivalling Windows for power and ease of use. And the MacBook Pro is the top-end of Apple's laptop line-up. Apple hasn't confirmed any plans to launch a new version of the MacBook Pro.
+
+
+***
+[New MacBook Pro 2021: Release date, specs and features for HUGE redesign](https://www.thesun.ie/tech/7718692/new-macbook-pro-2021-release-date-specs-price-features/)
+
+
+> APPLE may be working on a top-secret new laptop – and it could be just days away. A hi-tech new MacBook Pro 2021 edition is heavily rumoured to launch very soon. What is the MacBook Pro 2021? Apple MacBooks are some of the world’s best laptops, comfortably rivalling Windows for power and ease of use. […]
+
+
+***
+![New MacBook Pro 2021: Release date, specs and features for HUGE redesign](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/10/macbook-pro-2021-new.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "New MacBook Pro 2021: Release date, specs and features for HUGE redesign")
+
+
+[New MacBook Pro 2021: Release date, specs and features for HUGE redesign](https://www.thescottishsun.co.uk/tech/7815093/new-macbook-pro-2021-release-date-specs-price-features/)
+
+
+> APPLE may be working on a top-secret new laptop – and it could be just days away. A hi-tech new MacBook Pro 2021 edition is heavily rumoured to launch very soon. Apple's new MacBook Pro could soon join the MacBook Air on store shelvesCredit: Apple What is the MacBook Pro 2021? Apple MacBooks are some of the world's best laptops, comfortably rivalling Windows for power and ease of use. And the MacBook Pro is the top-end of Apple's laptop line-up. Apple hasn't confirmed any plans to launch a new version of the MacBook Pro.
+
+
+***
+![Options Trading: Advanced Micro Devices's Smart Money Trades For October 07](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2021/movers_image_2636.jpeg "Options Trading: Advanced Micro Devices's Smart Money Trades For October 07")
+
+
+[Options Trading: Advanced Micro Devices's Smart Money Trades For October 07](https://www.benzinga.com/markets/options/21/10/23283966/options-trading-advanced-micro-devicess-smart-money-trades-for-october-07)
+
+
+> Today, Benzinga's options scanner spotted 69 uncommon options trades for Advanced Micro Devices. The overall sentiment shows 56.52% of the big-money traders are bullish on the stock and 43.48%, bearish. Out of all of the special options found by our algorithm, 13 are puts, for a total amount of $2,803,343 and 56, calls, for a total amount of $5,537,236. What's The Price Target? Taking into account the Volume and Open Interest on these contracts, it appears that the smart money is targeting a price range from $90.
+
+
+***
+![New MacBook Pro 2021: Release date, specs and features for HUGE redesign](https://www.thesun.co.uk/wp-content/uploads/2021/10/macbook-pro-2021-new.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "New MacBook Pro 2021: Release date, specs and features for HUGE redesign")
+
+
+[New MacBook Pro 2021: Release date, specs and features for HUGE redesign](https://www.thesun.co.uk/tech/16355327/new-macbook-pro-2021-release-date-specs-price-features/)
+
+
+> APPLE may be working on a top-secret new laptop – and it could be just days away. A hi-tech new MacBook Pro 2021 edition is heavily rumoured to launch very soon. Apple's new MacBook Pro could soon join the MacBook Air on store shelvesCredit: Apple What is the MacBook Pro 2021? Apple MacBooks are some of the world's best laptops, comfortably rivalling Windows for power and ease of use. And the MacBook Pro is the top-end of Apple's laptop line-up. Apple hasn't confirmed any plans to launch a new version of the MacBook Pro.
+
+
