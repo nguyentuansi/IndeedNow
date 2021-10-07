@@ -10106,3 +10106,53 @@
 > Press Statement Antony J. Blinken, Secretary of State October 6, 2021 The United States warmly welcomes the appointment of Staffan de Mistura as the new UN Personal Envoy of the Secretary General for Western Sahara. Personal Envoy de Mistura brings considerable expertise – addressing challenges in Iraq, Lebanon, and Syria – to this important position and we will actively support his efforts to promote a peaceful and prosperous future for the people of Western Sahara and the region. We strongly support Personal Envoy de Mistura's leadership in resuming the UN-led political process to advance a durable and dignified resolution to the conflict in Western Sahara.
 
 
+***
+![I built a Selenium bot to remove the background from images.](https://external-preview.redd.it/VTuPom0d0pDGkzWGi73dghnD98OhpOoE9MqP7Ei6PLs.jpg?auto=webp&s=feb45012ea6daa2b658c31f6e7c26a1b85cfed9f "I built a Selenium bot to remove the background from images.")
+
+
+[I built a Selenium bot to remove the background from images.](https://www.reddit.com/r/Python/comments/q32j21/i_built_a_selenium_bot_to_remove_the_background/)
+
+
+> Hello, I've been learning Selenium for few weeks now. Recently, I built a bot to remove the background from the images. It opens the website, upload the picture and download the picture with background removed. The code is available on Github here. Feel free to check it out :)
+
+
+***
+![Mypolonga, SA: Elderly man killed in horrific fiery crash after smashing into tree](https://images.perthnow.com.au/publication/C-4173834/1f611671f86ae2bca5532860fa200c130c45cf0a-16x9-x228y0w1463h823.jpg?imwidth=1200 "Mypolonga, SA: Elderly man killed in horrific fiery crash after smashing into tree")
+
+
+[Mypolonga, SA: Elderly man killed in horrific fiery crash after smashing into tree](https://www.news.com.au/technology/motoring/on-the-road/mypolonga-sa-elderly-man-killed-in-horrific-fiery-crash-after-smashing-into-tree/news-story/c245d2d96b2446f7d4e0208ae6e6aa3d)
+
+
+> An elderly man has died after his car crashed into a tree and burst into flames in South Australia's southeast.The man, believed to be a 78-year-old local resident, was driving along South Bokara Rd in Mypolonga, near Murray Bridge, when the incident happened at about 9.15pm on Wednesday.The driver, who was the only occupant of the car, died at the scene.A man believed to be a 78-year-old local resident has died after his car crashed into a tree at Mypolonga and burst into flames. Supplied/9 News Credit: NCA NewsWireA retired firefighter who lives nearby tried to pull the man from the burning vehicle after he heard a loud noise and ran to help, 7 News reported.
+
+
+***
+![Reliance Retail brings 7-Eleven stores to India](https://cdn.mos.cms.futurecdn.net/YXDv8Eym5ozJbVSUTWXT96-1200-80.jpg "Reliance Retail brings 7-Eleven stores to India")
+
+
+[Reliance Retail brings 7-Eleven stores to India](https://www.techradar.com/news/reliance-retail-brings-7-eleven-stores-to-india)
+
+
+> (Image credit: Reliance Retail) Just a couple of days back, Future Retail that runs the Big Bazaar group in India announced that its has ended its franchise agreement with with the popular 7-Eleven chain of convenience stories. And on cue, Reliance Retail Ventures has announced that it has entered into a master franchise agreement with 7-Eleven Inc.The agreement routed through Reliance owned subsidiary 7-India Convenience Retail is for launching 7-Eleven convenience stores in India. The first 7-Eleven store is set to open on October 9 in Andheri  East, Mumbai.
+
+
+***
+![BRIEF-Twitch Update On The Twitch Security Incident](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/06_09_2020_18_03_41_0648878.jpg?width=920&format=jpeg "BRIEF-Twitch Update On The Twitch Security Incident")
+
+
+[BRIEF-Twitch Update On The Twitch Security Incident](https://www.devdiscourse.com/article/technology/1759023-brief-twitch-update-on-the-twitch-security-incident)
+
+
+> Amazon.com Inc: * TWITCH SAYS UPDATES ON THE TWITCH SECURITY INCIDENT * TWITCH SAYS LEARNED THAT SOME DATA WAS EXPOSED TO THE INTERNET DUE TO AN ERROR IN A TWITCH SERVER CONFIGURATION CHANGE - BLOG * TWITCH SAYS AT THIS TIME, HAVE NO INDICATION THAT LOGIN CREDENTIALS HAVE BEEN EXPOSED, ARE CONTINUING TO INVESTIGATE * TWITCH SAYS SERVER CONFIGURATION CHANGE WAS SUBSEQUENTLY ACCESSED BY A MALICIOUS THIRD-PARTY- BLOG * TWITCH SAYS ADDITIONALLY, FULL CREDIT CARD NUMBERS ARE NOT STORED BY TWITCH, SO FULL CREDIT CARD NUMBERS WERE NOT EXPOSED Source text : [ID:https://bit.
+
+
+***
+![BBC: "Intel not considering UK chip factory after Brexit"](https://external-preview.redd.it/3sp6HddSlE04DyEAwQfhm_wYYgj7e7x45irAuXoWxQI.jpg?auto=webp&s=c81ed98d23059d45b789c1b1bd884c3a8bc7eda2 "BBC: "Intel not considering UK chip factory after Brexit"")
+
+
+[BBC: "Intel not considering UK chip factory after Brexit"](https://www.reddit.com/r/technology/comments/q32c23/bbc_intel_not_considering_uk_chip_factory_after/)
+
+
+> no comments yetBe the first to share what you think!
+
+
