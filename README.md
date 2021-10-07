@@ -10059,3 +10059,50 @@
 > Drilling camp on James Ross Island, northern Antarctic Peninsula. Jack Triest It's often assumed that humans began having a significant impact on the global environment and the climate with the dawn of the industrial age in the 18th century, but new research shows that the more ancient world wasn't quite as untouched as we may think.  Scientists analyzing ice cores from Antarctica found an unexpected increase in black carbon from soot beginning around the late 1200s that can be traced to New Zealand, where Maori people at the time practiced burning as a land-clearing practice.
 
 
+***
+![Various Tools Used For API Testing for 2022](https://external-preview.redd.it/d2qsV4yVwpCnrwpJmskd7UxRb9h-kYtUoOb8TSqbt9A.jpg?auto=webp&s=fabcb2239f36d451351eb1a78d6ccbb039e70151 "Various Tools Used For API Testing for 2022")
+
+
+[Various Tools Used For API Testing for 2022](https://www.reddit.com/r/programming/comments/q30mqa/various_tools_used_for_api_testing_for_2022/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Rode's new mini USB microphone is here to take on the Yeti Nano](https://cdn.mos.cms.futurecdn.net/bNHuu7MPw6Pk7T6nDgzRvb-1200-80.jpg "Rode's new mini USB microphone is here to take on the Yeti Nano")
+
+
+[Rode's new mini USB microphone is here to take on the Yeti Nano](https://www.techradar.com/news/rodes-new-mini-usb-microphone-is-here-to-take-on-the-yeti-nano)
+
+
+> (Image credit: Rode) While the Blue Yeti USB microphone and its more compact Nano successor have been the go-to for many podcasters, Rode is hoping its latest NT-USB Mini will steal their thunder.Priced at $99 (£99, AU$149), the NT-USB Mini costs the same as the Yeti Nano and offers much the same proposition – take a successful USB microphone and shrink it down, condensing controls and maintaining audio quality in the process.Image 1 of 2(Image credit: Rode)Image 2 of 2(Image credit: Rode)The interface on this little Rode mic is incredibly minimal, with a single dial that adjusts headphone level found on the front, and a USB-C and 3.
+
+
+***
+[Yes, Bitcoin Is a Ponzi](https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html)
+
+
+> People invest into it because they expect good profits, and that expectation is sustained by such profits being paid to those who choose to cash out. However, there is no external source of revenue for those payoffs. Instead, the payoffs come entirely from new investment money, while the operators take away a large portion of this money. Investing in bitcoin (or any crypto with similar protocol) checks all these items. The investors are all those who have bought or will buy bitcoins; they invest by buying bitcoins, and cash out by selling them.
+
+
+***
+![WhatsApp users will soon be able to hide profile pictures from selected contacts](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2020-03-16_at_12.11_0_1200x768-original.png "WhatsApp users will soon be able to hide profile pictures from selected contacts")
+
+
+[WhatsApp users will soon be able to hide profile pictures from selected contacts](https://www.indiatoday.in/technology/news/story/whatsapp-users-will-soon-be-able-to-hide-profile-pictures-from-selected-contacts-1861761-2021-10-07)
+
+
+> WhatsApp has been testing a lot of new features to enhance the user experience. The latest feature that messaging app was spotted testing could let users hide their profile pictures from some unwanted people added to their contact list. Currently, we have the option of hiding our profile pictures from everyone, all contacts and nobody. But WhatsApp may soon include the "My contacts except.." Option to the list. As per WhatsApp features tracker Wabetainfo, WhatsApp was found testing the option to hide their profile pictures from selected contact on the Android beta version of the app.
+
+
+***
+![The United States Welcomes the Appointment of Staffan de Mistura as the UN Secretary General's Personal Envoy for Western Sahara](http://www.globalsecurity.org/military/library/news/2021/10/state.png "The United States Welcomes the Appointment of Staffan de Mistura as the UN Secretary General's Personal Envoy for Western Sahara")
+
+
+[The United States Welcomes the Appointment of Staffan de Mistura as the UN Secretary General's Personal Envoy for Western Sahara](http://www.globalsecurity.org/military/library/news/2021/10/mil-211006-state07.htm)
+
+
+> Press Statement Antony J. Blinken, Secretary of State October 6, 2021 The United States warmly welcomes the appointment of Staffan de Mistura as the new UN Personal Envoy of the Secretary General for Western Sahara. Personal Envoy de Mistura brings considerable expertise – addressing challenges in Iraq, Lebanon, and Syria – to this important position and we will actively support his efforts to promote a peaceful and prosperous future for the people of Western Sahara and the region. We strongly support Personal Envoy de Mistura's leadership in resuming the UN-led political process to advance a durable and dignified resolution to the conflict in Western Sahara.
+
+
