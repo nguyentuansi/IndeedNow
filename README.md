@@ -10400,3 +10400,50 @@
 > APPLE may be working on a top-secret new laptop – and it could be just days away. A hi-tech new MacBook Pro 2021 edition is heavily rumoured to launch very soon. Apple's new MacBook Pro could soon join the MacBook Air on store shelvesCredit: Apple What is the MacBook Pro 2021? Apple MacBooks are some of the world's best laptops, comfortably rivalling Windows for power and ease of use. And the MacBook Pro is the top-end of Apple's laptop line-up. Apple hasn't confirmed any plans to launch a new version of the MacBook Pro.
 
 
+***
+![Samsung Galaxy Tab S8: Everything we know so far](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/samsung-galaxy-tab-s7-plus-review-3.jpg "Samsung Galaxy Tab S8: Everything we know so far")
+
+
+[Samsung Galaxy Tab S8: Everything we know so far](https://www.androidcentral.com/samsung-galaxy-tab-s8)
+
+
+> Source: Hayato Huseman / Android Central Among the best Android tablets available today, the only real toss-up is between the Samsung Galaxy Tab S7 and its upgrade, the Galaxy Tab S7+. But considering both tablets are about a year old with aging chipsets, we're eagerly anticipating when the new Galaxy Tab S8 will arrive. The last few Galaxy Tab S tablets were announced and launched in late summer, but Samsung is taking its time with the S8 series. This could be due to recent chip shortages, or because Samsung allegedly plans to release three new tablets this round, including a Tab S8 "Ultra" version that could go toe-to-toe with the iPad Pro in size and performance.
+
+
+***
+![Swipe and tap your phone to control your Chromecast](https://www.androidcentral.com/sites/androidcentral.com/files/styles/w1600h900crop_wm_brw/public/article_images/2018/02/google-home-chromecast-weather.jpg "Swipe and tap your phone to control your Chromecast")
+
+
+[Swipe and tap your phone to control your Chromecast](https://www.androidcentral.com/how-use-android-phone-google-tv-remote)
+
+
+> Source: Joe Maring / Android Central Google's latest Chromecast with Google TV is one of the best streaming devices you can buy. Consolidating your services into one Google-Assistant-driven interface is pretty sweet. Chromecast with Google TV comes with a remote, but what if you can't find the remote or if you want to simply use your phone? There's an app for that, and it's available in 14 new countries. Just download it, and you can navigate the interface with your Android phone. Note: This procedure only works if the Google TV device and your phone are both on the same Wi-Fi- network.
+
+
+***
+[Developer says Facebook banned him for life and threatened to sue after he made Unfollow Everything, a browser extension to help people use Facebook less (Louis Barclay/Slate)](http://www.techmeme.com/211007/p31#a211007p31)
+
+
+> Louis Barclay / Slate: Developer says Facebook banned him for life and threatened to sue after he made Unfollow Everything, a browser extension to help people use Facebook less — If someone built a tool that made Facebook less addictive—a tool that allowed users to benefit from Facebook's positive features …
+
+
+***
+![Python Pattern Examples for beginners](https://external-preview.redd.it/LAdl7Uwujct7LHD-JreMqfk4qZzyG2Y2QZlQAfLEeXk.jpg?auto=webp&s=559e0f4e4a9b94b7b33813fbf47da22568297c16 "Python Pattern Examples for beginners")
+
+
+[Python Pattern Examples for beginners](https://www.reddit.com/r/Python/comments/q3emx2/python_pattern_examples_for_beginners/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Here's how to share Switch games between two consoles](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/two-nintendo-switch-consoles-new-pokemon-snap.jpg "Here's how to share Switch games between two consoles")
+
+
+[Here's how to share Switch games between two consoles](https://www.imore.com/how-gameshare-nintendo-switch)
+
+
+> Source: Rebecca Spear / iMore If you have multiple Nintendo Switch consoles in your home, you might be wondering if it's possible to share one game between the two systems. Physical games can be passed back and forth, but digital games technically stay connected to the Nintendo account and Switch console they were purchased on. If you buy a digital game on one Switch, it makes sense that you might want to share it on, say, your child's Switch for them to play. But is Gameshare possible? Technically, there is no official game-sharing service on Nintendo's systems.
+
+
