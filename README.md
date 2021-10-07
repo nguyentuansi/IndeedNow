@@ -9962,3 +9962,50 @@
 > Take a look inside the Steam Deck. Valve Valve revealed its Nintendo Switch-like gaming device called the Steam Deck in July. The portable game console comes out in December, but the company wants to give people the first look inside and explains why owners shouldn't open their own Steam Decks. Inside the Steam Deck deck isn't much different than other portable devices. It only takes eight screws to open it up and have access to the battery, SSD storage and everything else. However, Valve says once the Steam Deck has been opened it becomes weakened and less drop resistant.
 
 
+***
+[Facebook exec: We do not prioritize engagement over safety](https://www.mymotherlode.com/news/technology/2019161/facebook-exec-we-do-not-prioritize-engagement-over-safety.html)
+
+
+> A Facebook executive is pushing back on a whistleblower's claims — supported by the company's own internal research — that the social network's products harm children and fuel polarization in the U.S. Monika Bickert, Facebook's head of global policy management, told The Associated Press Wednesday that Facebook does not prioritized engagement over safety
+
+
+***
+![Growth Platform: Nurturing startups with tech support & mentoring](https://images.financialexpress.com/2021/10/1-118.jpg "Growth Platform: Nurturing startups with tech support & mentoring")
+
+
+[Growth Platform: Nurturing startups with tech support & mentoring](https://www.financialexpress.com/industry/technology/growth-platform-nurturing-startups-with-tech-support-mentoring/2345235/)
+
+
+> By: Sudhir Chowdhary | October 07, 2021 5:45 AMJitendra Vijayvargiya, CEO, MeitY Startup Hub and Sudiip Goswami, Director & General Manager - South India & Start-Ups, Dell TechnologiesThe COVID-19 pandemic has demanded startups and companies to adopt digital transformation across industries. It is not only about being mobile or hybrid, but also about being efficient in automation, data management, processing, security and much more. The digital native startups understand this situation and with the right support, can reach the level of digital maturity that is required to be successful.
+
+
+***
+![Top 10 Best Strategy Games For Android](https://www.androidheadlines.com/wp-content/uploads/2021/10/AH-Best-Strategy-Games.jpg "Top 10 Best Strategy Games For Android")
+
+
+[Top 10 Best Strategy Games For Android](https://www.androidheadlines.com/best-strategy-games-android.html)
+
+
+> Strategy games aren't always the easiest games to play, and the best ones are sometimes the most challenging. But, they can also be the most rewarding a lot of times. They're wonderful games to play if you thrive on using tactical and strategic thinking to get through obstacles.And the best part is that there are a lot of them out there that are reallllllly fun to play. There's also just a lot of them out there in general. So we've narrowed things down by selecting 10 of the best strategy games on Android.
+
+
+***
+![Amazon's Twitch hack shows top gamers rake in six-figure payouts](https://ca-times.brightspotcdn.com/dims4/default/9c57e0e/2147483647/strip/true/crop/3561x1870+0+185/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F02%2Fab87685b4d70a2811c1fbf93376e%2Fafp-getty-us-esport-fortnite-ninja-twitch-mixer2.JPG "Amazon's Twitch hack shows top gamers rake in six-figure payouts")
+
+
+[Amazon's Twitch hack shows top gamers rake in six-figure payouts](https://www.latimes.com/business/technology/story/2021-10-06/amazons-twitch-hack-gamers-payouts)
+
+
+> An anonymous hacker attacked Amazon.com's video game streaming platform Twitch and leaked a trove of critical data including Twitch's source code and a spreadsheet detailing earnings for the platform's top gamers.Leaks on the social media platform 4chan, popular among conspiracy theorists and gamers, claim to include the entirety of the platform's Twitch.tv streaming history and an Amazon Games product, still under development, designed to challenge Valve Corp.'s dominant Steam storefront. The leak also offers a glimpse into the wealth generated in the gaming sub-industry.
+
+
+***
+![William Shatner cracks Anderson up sharing his plans for space](https://cdn.cnn.com/cnnnext/dam/assets/211006192956-giggle-split-acfc-desk-super-tease.jpg "William Shatner cracks Anderson up sharing his plans for space")
+
+
+[William Shatner cracks Anderson up sharing his plans for space](https://www.cnn.com/videos/tech/2021/10/06/william-shatner-space-plans-joke-sot-acfc-vpx.cnn)
+
+
+> No body in the article.
+
+
