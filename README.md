@@ -10156,3 +10156,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Ad campaign launched to target shocking items flushed down Sydney toilets](https://images.perthnow.com.au/publication/C-4174967/eac9835a2a2a12afbf52bd09b2b29fe975744775-16x9-x0y4w627h353.jpg?imwidth=1200 "Ad campaign launched to target shocking items flushed down Sydney toilets")
+
+
+[Ad campaign launched to target shocking items flushed down Sydney toilets](https://www.news.com.au/technology/environment/ad-campaign-launched-to-target-shocking-items-flushed-down-sydney-toilets/news-story/f2ffb0b188c3fdfa14d658c516fa2ca3)
+
+
+> All sorts of weird and wonderful objects including jewellery, watches and household items have been flushed down household toilets, causing a headache for those tasked with unblocking drains.Sydney Water crews have had to fix more than 7000 faults in the wastewater network over the past three months, uncovering money, children's' toys, and once even a brick.About 75 per cent of all wastewater blockages involve flushable wet wipes, with about 500 tonnes removed from Sydney's pipes every year at a cost of at least $8 million.
+
+
+***
+![Amazon Great Indian Festival sale: Sony WF-1000XM3 earbuds selling at a flat discount of Rs 10,000](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2021-10-07_at_1.07._1200x768-original.png "Amazon Great Indian Festival sale: Sony WF-1000XM3 earbuds selling at a flat discount of Rs 10,000")
+
+
+[Amazon Great Indian Festival sale: Sony WF-1000XM3 earbuds selling at a flat discount of Rs 10,000](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-sale-sony-wf-1000xm3-earbuds-selling-at-a-flat-discount-of-rs-10-000-1861895-2021-10-07)
+
+
+> Ankita Chakravarti New Delhi, Oct 07, 2021, Updated Oct 07, 2021, 1:21 PM IST Story highlights Amazon Great Indian Festival sale went live on October 3. Amazon is offering crazy discounts on some premium wireless earphones including Sony WF-1000XM3. Apart from flat discounts, Amazon is also offering bank discounts, exchange offers and more to further reduce the price of the device. The Amazon Great Indian festival sale is on and there are some unmissable deals on earbuds, smartphones and laptops across price points.
+
+
+***
+![Best cheap office chair deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/office-chair.jpg "Best cheap office chair deals for October 2021")
+
+
+[Best cheap office chair deals for October 2021](https://www.digitaltrends.com/dtdeals/best-office-chair-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Office chairs continue to be one of the most-in-demand products for remote workers. If you work from home, you know you would be more productive and comfortable with a supportive office chair. In addition to comfort, a good office chair also benefits your health. We found an excellent selection of good-quality, cheap office chairs. We've done the research for you and put here a great selection of cheap office chair deals in a range of prices along with buying tips to help you make the right decision.
+
+
+***
+![Australia wants Facebook held liable for anonymous comments](https://www.mymotherlode.com/wp-content/uploads/2021/10/files_40fde1bcf5.jpeg "Australia wants Facebook held liable for anonymous comments")
+
+
+[Australia wants Facebook held liable for anonymous comments](https://www.mymotherlode.com/news/technology/2019809/australia-wants-facebook-held-liable-for-anonymous-comments.html)
+
+
+> CANBERRA, Australia (AP) — Australia's prime minister on Thursday described social media as a 'coward's palace' and warned that digital platforms including Facebook should be held liable for defamatory comments posted anonymously. Anonymous commentators who use social media to vilify and bully have become the latest battleground between Prime Minister Scott Morrison's government and U.S. tech giants. The government wants social media users to be required to identify themselves. Australia passed laws this year that oblige Google and Facebook to pay for journalism.
+
+
+***
+![Best cheap Dyson vaccum and fan deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/dyson-v11-torque-drive-2-resized.jpg "Best cheap Dyson vaccum and fan deals for October 2021")
+
+
+[Best cheap Dyson vaccum and fan deals for October 2021](https://www.digitaltrends.com/home/best-dyson-deals/)
+
+
+> Dyson season is upon us. If you are looking for the best cheap Dyson vacuum and fan/air purifier deals, we found a good selection of the deals you can buy today. Dyson's high-performance vacuum cleaners, air purifiers, and fans achieve consistently high ratings. Many customers wait for the corded or cordless vacuum cleaner, bladeless fan, or haircare device they have their hearts set on to go on sale. Fortunately, Dyson frequently discounts its products, often changing prices weekly. The best place to start? Right here, with our search results of the best Dyson deals and the best Dyson sales.
+
+
