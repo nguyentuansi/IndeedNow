@@ -10009,3 +10009,53 @@
 > No body in the article.
 
 
+***
+![Apple Makes 'Celebrating Steve' Tribute Video Available on YouTube](https://images.macrumors.com/t/N-zWjeAdDOXzP4s5u-VJoUmnNxU=/1600x/https://images.macrumors.com/article-new/2021/10/celebrating-steve-apple.jpeg "Apple Makes 'Celebrating Steve' Tribute Video Available on YouTube")
+
+
+[Apple Makes 'Celebrating Steve' Tribute Video Available on YouTube](https://www.macrumors.com/2021/10/06/apple-celebrating-steve-video-youtube/)
+
+
+> I'm glad they posted this elsewhere, as I was curious if it would live on after it was on their homepage. It's always nice to see Apple embracing its history. Seeing some of those product introductions with Steve brought back a lot of memories!Score: 1 Votes (Like | Disagree)
+
+
+***
+![Samsung Galaxy S22 news, price, leaks and what to know so far](https://cdn.mos.cms.futurecdn.net/d33B5HrPMUWLSSZPmGuafN-1200-80.jpg "Samsung Galaxy S22 news, price, leaks and what to know so far")
+
+
+[Samsung Galaxy S22 news, price, leaks and what to know so far](https://www.techradar.com/news/samsung-galaxy-s22)
+
+
+> While the Samsung Galaxy S22 series is still some way out, with a January 2022 launch date highly likely, the leaks and rumors have been coming in thick and fast for all three devices in the line.These are to be the successors to 2021's Samsung Galaxy S21, Galaxy S21 Plus and Galaxy S21 Ultra, but have also got the big boots of the Samsung Galaxy Note 21 to fill, with 2021's late-year flagship actually canceled, much to the chagrin of Samsung fans.Little is offically known about what Samsung will be concocting for its next flagship S range smartphone, despite the quantity of unofficial leaks, and we're almost certain to hear of the Galaxy S21 FE before we hear about the S22.
+
+
+***
+![Contacts application acting flaky](https://images.macrumors.com/social/?t=2315760&v=6 "Contacts application acting flaky")
+
+
+[Contacts application acting flaky](https://forums.macrumors.com/threads/contacts-application-acting-flaky.2315760/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. I am seeing Contacts hang a lot lately (spinning rainbow wheel) and have also had problems with the app not letting me tab between fields when adding a new contact — it hangs for a few seconds and then just closes the unsaved contact. I've had to resort to adding them on my iphone and then waiting for the sync process to bring them to my Macbook Air Catalina (10.
+
+
+***
+![Best Squid Game memes: The show is serious, but these jokes are funny](https://www.cnet.com/a/img/tzlp9_ZP12KrJYzw4Qo8bJ7t4bE=/1200x630/2021/09/28/36a192be-5c62-44b2-9da2-b932e2df1e16/squid-game-rlgl-social-crop.jpg "Best Squid Game memes: The show is serious, but these jokes are funny")
+
+
+[Best Squid Game memes: The show is serious, but these jokes are funny](https://www.cnet.com/news/best-squid-game-memes-the-show-is-serious-but-these-jokes-are-funny/)
+
+
+> No doubt about it, the plot of the new Netflix drama, Squid Game, is nothing to laugh at. In the show, which might end up as the streaming service's biggest hit ever, financially strapped people compete in a tournament of kids' games where losers get killed. Not very funny. But the show has captured the public's imagination and as always, the memes and jokes have followed.  It's easy to see why -- Squid Game has many complex characters, as well as plenty of visually striking scenes and objects (the Dalgona cookies, the game organization's business card, the outfits).
+
+
+***
+![700-year-old Antarctic ice cores reveal unexpected impact on Earth's atmosphere](https://www.cnet.com/a/img/sdbX8HD5gBcgd0b6xCiZoJiBpLo=/1200x630/2021/10/06/f4d07314-96b3-43ec-b38f-f095884c803c/british-drill-camp-on-james-ross-island-credit-jack-triest.jpg "700-year-old Antarctic ice cores reveal unexpected impact on Earth's atmosphere")
+
+
+[700-year-old Antarctic ice cores reveal unexpected impact on Earth's atmosphere](https://www.cnet.com/news/700-year-old-antarctic-ice-cores-reveal-unexpected-impact-on-earths-atmosphere/)
+
+
+> Drilling camp on James Ross Island, northern Antarctic Peninsula. Jack Triest It's often assumed that humans began having a significant impact on the global environment and the climate with the dawn of the industrial age in the 18th century, but new research shows that the more ancient world wasn't quite as untouched as we may think.  Scientists analyzing ice cores from Antarctica found an unexpected increase in black carbon from soot beginning around the late 1200s that can be traced to New Zealand, where Maori people at the time practiced burning as a land-clearing practice.
+
+
