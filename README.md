@@ -11012,3 +11012,50 @@
 > Users can now tune their guitar using nothing but Google Search. Google Assistant has already offered this ability in some form with the 'tune my instrument' command. But this new addition helps users tune their guitars using just a mobile web browser and the built-in microphone.To get started, users simply have to search for 'Google tuner' which will pull up a chromatic tuner. This will work on both conventional desktop web browsers and mobile devices. Android Police reports that the feature works accurately on the Pixel 5a.
 
 
+***
+[Some technical stories to mull over the weekend and trade in the new week](https://www.forexlive.com/technical-analysis/!/some-technical-stories-to-mull-over-the-weekend-20211008)
+
+
+> What to know from a technical perspective. : The EURUSD is looking to close the week right around the 200 week moving average at 1.1570  after trading above and below that MA, and the 100 week MA at 1.1603. The current price is at 1.1570.  
+
+
+***
+![Top 10 Best Wireless Chargers For Samsung Galaxy S21 – Updated October 2021](https://www.androidheadlines.com/wp-content/uploads/2021/01/Samsung-Galaxy-S21-Ultra-AH-6-scaled.jpg "Top 10 Best Wireless Chargers For Samsung Galaxy S21 – Updated October 2021")
+
+
+[Top 10 Best Wireless Chargers For Samsung Galaxy S21 – Updated October 2021](https://www.androidheadlines.com/best-wireless-chargers-galaxy-s21)
+
+
+> While the Galaxy S21 might have a lot of other great features, wireless charging is still one of them. And many might have forgotten that it was possible. So we have rounded up the very best wireless chargers for the Galaxy S21. Allowing you to charge your Galaxy S21 wirelessly, without needing to actually plug in your smartphone, which is pretty neat.Keep in mind that the Galaxy S21 will wirelessly charge at up to 15W. And this depends on the charger that you are using. That's not super fast, but a decent speed for the Galaxy S21.
+
+
+***
+![Is Facebook down again? Some having trouble accessing Instagram, Messenger, WhatsApp days after 6-hour outage](https://www.gannett-cdn.com/presto/2021/10/05/USAT/cb084adf-8d73-4b32-aa5d-34ca294ea4d2-AFP_AFP_98C4Z4.JPG?auto=webp&crop=4694,2640,x0,y182&format=pjpg&width=1200 "Is Facebook down again? Some having trouble accessing Instagram, Messenger, WhatsApp days after 6-hour outage")
+
+
+[Is Facebook down again? Some having trouble accessing Instagram, Messenger, WhatsApp days after 6-hour outage](https://www.usatoday.com/story/tech/2021/10/08/facebook-messenger-outage-instagram-whatsapp-down/5995676001/)
+
+
+> Facebook CEO Mark Zuckerberg responds to whistleblower's testimonyZuckerberg called Haugen's testimony "not true," in a statement he released on Facebook.Days after one of the longest outages in Facebook's history, the company is experiencing another one."We're aware that some people and businesses are having trouble accessing Facebook products," the company said in a statement. "We're working to get things back to normal as quickly as possible and we apologize for any inconvenience.' Facebook and its apps started experiencing issues around 3 p.
+
+
+***
+![Facebook apologises as services including Instagram hit again](https://ichef.bbci.co.uk/news/1024/branded_news/C923/production/_120819415_mediaitem120819414.jpg "Facebook apologises as services including Instagram hit again")
+
+
+[Facebook apologises as services including Instagram hit again](https://www.bbc.com/news/technology-58850041)
+
+
+> Image source, Getty ImagesFacebook says there are problems with its services again, days after a major outage hit WhatsApp, Instagram and Facebook for some six hours."We're aware that some people are having trouble accessing our apps and products," the firm said."We're working to get things back to normal as quickly as possible and we apologise for any inconvenience."The current problems seem to be affecting the photo and video-sharing platform Instagram in particular. The firm said in a tweet: "We know some of you may be having some issues using Instagram right now.
+
+
+***
+![Delimobil Files Registration Statement for Proposed Initial Public Offering](https://mms.businesswire.com/media/20211008005555/en/1229749/23/Delimobil_logo.jpg "Delimobil Files Registration Statement for Proposed Initial Public Offering")
+
+
+[Delimobil Files Registration Statement for Proposed Initial Public Offering](https://www.businesswire.com/news/home/20211008005555/en/Delimobil-Files-Registration-Statement-for-Proposed-Initial-Public-Offering)
+
+
+> October 08, 2021 03:51 PM Eastern Daylight Time MOSCOW & LUXEMBOURG--(BUSINESS WIRE)--Delimobil Holding S.A. ('Delimobil'), a pioneer and a leading shared mobility provider in Russia, one of the world's largest car sharing markets, announced today that it has publicly filed a Form F-1 Registration Statement under the Securities Act of 1933 with the U.S. Securities and Exchange Commission ('SEC') relating to a proposed initial public offering (the 'IPO') of its American Depositary Shares representing ordinary shares of Delimobil (the 'ADSs').
+
+
