@@ -10834,3 +10834,50 @@
 > After its most-watched season in three years, Kevin O'Leary, Barbara Corcoran and the rest of the Sharks are back with brand new episodes and we have all the details on how you can watch season 13 of Shark Tank on TV or online. Source: ABC Shark Tank first premiered in the US back in 2009 but the business reality TV series is based on the format of the UK series Dragons' Den which debuted in 2005. However, Dragon's Den is actually a spin-off of the Japanese show The Tigers of Money. In each episode of Shark Tank, four different entrepreneurs pitch their business ideas to a panel of venture capitalists (known as the Sharks) with the hope of securing financing from them.
 
 
+***
+![Hackers in SolarWinds breach stole data on US sanctions policy, intelligence probes -sources](https://images.indianexpress.com/2021/08/Hacking_BLOOMBERG_1.jpg "Hackers in SolarWinds breach stole data on US sanctions policy, intelligence probes -sources")
+
+
+[Hackers in SolarWinds breach stole data on US sanctions policy, intelligence probes -sources](https://indianexpress.com/article/technology/tech-news-technology/hackers-in-solarwinds-breach-stole-data-on-us-sanctions-policy-intelligence-probes-sources-7560647/)
+
+
+> The suspected Russian hackers who used SolarWinds and Microsoft software to burrow into US federal agencies emerged with information about counter-intelligence investigations, policy on sanctioning Russian individuals and the country's response to COVID-19, people involved in the investigation told Reuters. The hacks were widely publicised after their discovery late last year, and American officials have blamed Russia's SVR foreign intelligence service, which denies the activity. But little has been disclosed about the spies' aims and successes.
+
+
+***
+[Urgent warning to change THREE Instagram settings after dangerous hack attacks](https://www.thesun.ie/tech/7722585/instagram-security-settings-to-change/)
+
+
+> INSTAGRAM is a lot of fun but you need to be careful that it’s not opening you up to security or privacy risks. We’ve rounded up three settings that you could use to make Instagram a safer space for you to share content. Put your Instagram account on private It made seem obvious but a […]
+
+
+***
+![Urgent warning to change THREE Instagram settings after dangerous hack attacks](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/10/689d7d5e-30bf-46e6-bbd1-fe11c20465c3-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Urgent warning to change THREE Instagram settings after dangerous hack attacks")
+
+
+[Urgent warning to change THREE Instagram settings after dangerous hack attacks](https://www.thescottishsun.co.uk/tech/7818614/instagram-security-settings-to-change/)
+
+
+> INSTAGRAM is a lot of fun but you need to be careful that it's not opening you up to security or privacy risks. We've rounded up three settings that you could use to make Instagram a safer space for you to share content. You change your Instagram Account Privacy for a more secure experienceCredit: Getty Put your Instagram account on private It made seem obvious but a lot of people have open Instagram accounts when they don't necessarily need to. The best way to keep your Instagram content private is to control who is viewing it by changing your Account Privacy.
+
+
+***
+![Urgent warning to change THREE Instagram settings after dangerous hack attacks](https://www.thesun.co.uk/wp-content/uploads/2021/10/689d7d5e-30bf-46e6-bbd1-fe11c20465c3-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Urgent warning to change THREE Instagram settings after dangerous hack attacks")
+
+
+[Urgent warning to change THREE Instagram settings after dangerous hack attacks](https://www.thesun.co.uk/tech/16362584/instagram-security-settings-to-change/)
+
+
+> INSTAGRAM is a lot of fun but you need to be careful that it's not opening you up to security or privacy risks. We've rounded up three settings that you could use to make Instagram a safer space for you to share content. You change your Instagram Account Privacy for a more secure experienceCredit: Getty Put your Instagram account on private It made seem obvious but a lot of people have open Instagram accounts when they don't necessarily need to. The best way to keep your Instagram content private is to control who is viewing it by changing your Account Privacy.
+
+
+***
+![Keep your iPad mini 6 screen pristine with a great screen protector](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/ipad-mini-6-screen-hero.jpeg "Keep your iPad mini 6 screen pristine with a great screen protector")
+
+
+[Keep your iPad mini 6 screen pristine with a great screen protector](https://www.imore.com/best-screen-protectors-ipad-mini-6)
+
+
+> Best screen protectors for iPad mini 6 iMore 2021 One of the first things you do when you buy an iPad mini 6 (2021) is install a screen protector. It will most definitely protect against scratches, and might even protect the screen from shattering in a fall. Here are some of the best screen protectors for your iPad mini 6. Staff Pick Get three tempered glass screen protectors for one low price. Each fingerprint-resistant ultra-thin (0.33-millimeter) screen protector has a camera notch and smooth edges for a nicer feel.
+
+
