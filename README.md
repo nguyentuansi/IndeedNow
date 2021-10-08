@@ -10881,3 +10881,53 @@
 > Best screen protectors for iPad mini 6 iMore 2021 One of the first things you do when you buy an iPad mini 6 (2021) is install a screen protector. It will most definitely protect against scratches, and might even protect the screen from shattering in a fall. Here are some of the best screen protectors for your iPad mini 6. Staff Pick Get three tempered glass screen protectors for one low price. Each fingerprint-resistant ultra-thin (0.33-millimeter) screen protector has a camera notch and smooth edges for a nicer feel.
 
 
+***
+![A python telegram bot to check who's currently home](https://external-preview.redd.it/ifmIGirGIpnI6idl40ilmb6Ut6V9W7q7V1R8dXW7XkM.jpg?auto=webp&s=253e3ad4d5a6862a02c1e84b3f771cf18049923a "A python telegram bot to check who's currently home")
+
+
+[A python telegram bot to check who's currently home](https://www.reddit.com/r/Python/comments/q3ydyj/a_python_telegram_bot_to_check_whos_currently_home/)
+
+
+> Hi this one of my first python programs and I thought it was cool and wanted to share it.This is a telegram bot to run on your local home network that will allow you to check anytime from you phone (or other telegram clients) who is currently at home (and connected to the network of course) .You can find the repo here.Any feedback is of course welcome.
+
+
+***
+![Defeat every boss in Metroid Dread from Corpious to Raven Beak](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/metroid-dread-all-bosses.jpg "Defeat every boss in Metroid Dread from Corpious to Raven Beak")
+
+
+[Defeat every boss in Metroid Dread from Corpious to Raven Beak](https://www.imore.com/how-defeat-all-metroid-dread-bosses)
+
+
+> Source: iMore Samus faces some of her toughest opponents yet in Metroid Dread. Among the lot are crazy aliens, EMMI robots, and much more. If you're here then you know how hard it is to beat some of these baddies. The challenge is part of what makes this one of the best Nintendo Switch games out there right now. Don't worry. We're here to help you out. Here's how to take each one of these bosses down a notch. Source: iMore This monster will attempt to hit you with its tail, so keep a good distance away while targeting its face.
+
+
+***
+![Play your favorite YouTube Music directly from your Wear OS watch](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/10/wear-os-youtube-music-lifestyle-01.jpg "Play your favorite YouTube Music directly from your Wear OS watch")
+
+
+[Play your favorite YouTube Music directly from your Wear OS watch](https://www.androidcentral.com/how-use-youtube-music-your-wear-os-smartwatch)
+
+
+> Source: Chris Wedel/Android Central While I have dabbled in smartwatches on other platforms, I always go back to using Wear OS in the end. The same can be said for music when picking my favorite from the list of excellent music streaming services. However, my primary was always Google Play Music, and when it rolled into YouTube Music — I gravitated that way as well. One thing that didn't transition over to Wear OS devices when Google Play Music shutdown was a wearable app for the new music service.
+
+
+***
+![Verizon offering up to $200 off the Apple Watch 7 with a trade in](https://www.cnet.com/a/img/8rtRUt2P9Ujs7JaDVxzbAYfyFT8=/1200x630/2021/10/04/8d8d169b-9244-4380-bf66-5d6a0fe854c6/apple-watch-series7-availability-hero-10052021.jpg "Verizon offering up to $200 off the Apple Watch 7 with a trade in")
+
+
+[Verizon offering up to $200 off the Apple Watch 7 with a trade in](https://www.cnet.com/tech/mobile/verizon-offering-up-to-200-off-the-apple-watch-7-with-a-trade-in/)
+
+
+> Verizon is offering up to $200 off the new Apple Watch with a trade in. Apple Looking to upgrade your Apple Watch? Verizon will give you up to $200 off the Apple Watch 7 if you trade in your older version and buy a new one from them.Preorders for the Apple Watch Series 7 kicked off Friday morning and they'll reach stores on Oct. 15. And with its starting price of $399, $200 off may seem like a great deal. But, as with any deal, you need to read the fine print before you buy. The main catch with this offer is that you'll have to spring for an LTE-enabled model, which costs $100 more than the GPS-only version.
+
+
+***
+![My first NLP pipeline using SpaCy: detect news headlines with company acquisitions](https://external-preview.redd.it/fni0ZZnsHJe3DV1WK7rTn57wypyynQX181aSk7fnvr8.jpg?auto=webp&s=6b771764350d5c953fa6bb44642855bf7a1925cd "My first NLP pipeline using SpaCy: detect news headlines with company acquisitions")
+
+
+[My first NLP pipeline using SpaCy: detect news headlines with company acquisitions](https://www.reddit.com/r/Python/comments/q3y30d/my_first_nlp_pipeline_using_spacy_detect_news/)
+
+
+> Hi r/PythonI'm into NLP real-world use cases for the next couple of months. And, I've decided to start with Spacy.I wrote a Named Entity Recognition pipeline using SpaCy: it detects company acquisitions from news headlines.SpaCy NER pipelineYou can find the full code in a gist, or you might check the full article here.Some Issues I foundSpacy NER models don't work so well out-of-a-box. More to that, they're almost useless if your text isn't "truecased": most news article headlines aren't. For example, news headlines are usually written as "Company A To Acquire Company B", and not "Company A to acquire Company B".
+
+
