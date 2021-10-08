@@ -10784,3 +10784,53 @@
 > Google will prohibit ads and monetisation on content that denies the existence and causes of climate change.(Sign up to our Technology newsletter, Today's Cache, for insights on emerging themes at the intersection of technology, business and policy. Click here to subscribe for free.)The policy change will apply to advertisers, publishers and YouTube creators from next month.Content creators will not be able to earn from content that "contradicts well-established scientific consensus around the existence and causes of climate change".
 
 
+***
+![Intel Core i7-12700K leak suggests a seriously fast CPU that could worry AMD](https://cdn.mos.cms.futurecdn.net/Y2hD2oYgBKnBWLE4Kr2RjP-1200-80.jpg "Intel Core i7-12700K leak suggests a seriously fast CPU that could worry AMD")
+
+
+[Intel Core i7-12700K leak suggests a seriously fast CPU that could worry AMD](https://www.techradar.com/news/intel-core-i7-12700k-leak-suggests-a-seriously-fast-cpu-that-could-worry-amd)
+
+
+> (Image credit: Intel) Intelâ€™s Core i7-12700K, the next-gen Alder Lake processor which could be out in less than a month, has appeared in a leaked benchmark which points to a promising level of performance.As spotted by VideoCardz, the CPU-Z benchmark result was posted on Twitter by well-known leaker Tum_Apisak, with the 12700K hitting a single-thread score of 800 and multi-threaded result of 9,423. Remember, the 12700K offers 8-cores (normal performance ones) combined with 4 power-efficient cores, giving it 20-threads in total (the efficient cores donâ€™t have hyper-threading).
+
+
+***
+![Windows 11 issues mean it's not worth upgrading yet, say experts](https://cdn.mos.cms.futurecdn.net/g3tVr8VUDKjEvfmzYFcp6j-1200-80.png "Windows 11 issues mean it's not worth upgrading yet, say experts")
+
+
+[Windows 11 issues mean it's not worth upgrading yet, say experts](https://www.techradar.com/news/windows-11-issues-mean-its-not-worth-upgrading-yet-say-experts)
+
+
+> Windows 11 is out now – and while it may be tempting to install it straight away, industry experts, such as analysts Gartner, are advising a more cautious approach.As The Register reports, Gartner research vice president Stephen Kleynhans refers to Windows 11 as an 'overdue facelift,' which doesn't offer enough new features or changes. 'All of these capabilities could have been released as just another feature update for Windows 10.'In a rather pointed comment, Kleynhans suggests that by calling this new release Windows 11, Microsoft 'has created a marketing opportunity,' rather than releasing a substantial new operating system.
+
+
+***
+![Knee down and the art of motorcycling cornering](https://static.standard.co.uk/2021/10/08/10/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75 "Knee down and the art of motorcycling cornering")
+
+
+[Knee down and the art of motorcycling cornering](https://www.standard.co.uk/tech/knee-down-and-the-art-of-motorcycling-cornering-b959485.html)
+
+
+> Watch any serious motorcycle circuit racing and there's one - startling - feature that sorts the pros from the other riders: the way they scraaaape that inside knee along the track on fast bends.Why do they do it when road riders mange perfectly well with their knee firmly on the petrol tank? Is it for show? Is it safer - or more dangerous? And how do you do it?It's become almost a rite of passage with sports bike road riders, despite extremely limited (safe) opportunities to indulge this technique best reserved for the racetrack.
+
+
+***
+![Windows 11: How to download the upgrade right now](https://www.cnet.com/a/img/Zlhst7zdVp5OSd9MLZQ15ST8uQs=/1200x630/2021/06/24/e58fceb6-e7c1-40fb-bf6d-b29e81f9a713/screen-shot-2021-06-24-at-11-45-41-am-2.png "Windows 11: How to download the upgrade right now")
+
+
+[Windows 11: How to download the upgrade right now](https://www.cnet.com/tech/services-and-software/windows-11-how-to-download-the-upgrade-right-now/)
+
+
+> Windows 11 is here, and it's free to download for Windows 10 users. Microsoft Windows 11 kicked off its wide rollout on Tuesday. Microsoft launched its new operating system and began rolling it out to eligible devices on Oct. 5, and the upgrade is free to everyone already using Windows 10. However, because Microsoft is rolling out the OS in phases, your system might not show the option to upgrade just yet. An August blog post from Microsoft said the company expects "all eligible devices to be offered the free upgrade to Windows 11 by mid-2022.
+
+
+***
+![How to watch season 13 of Shark Tank online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/shark-tank-abc.jpg "How to watch season 13 of Shark Tank online from anywhere")
+
+
+[How to watch season 13 of Shark Tank online from anywhere](https://www.androidcentral.com/how-watch-season-13-shark-tank-online-anywhere)
+
+
+> After its most-watched season in three years, Kevin O'Leary, Barbara Corcoran and the rest of the Sharks are back with brand new episodes and we have all the details on how you can watch season 13 of Shark Tank on TV or online. Source: ABC Shark Tank first premiered in the US back in 2009 but the business reality TV series is based on the format of the UK series Dragons' Den which debuted in 2005. However, Dragon's Den is actually a spin-off of the Japanese show The Tigers of Money. In each episode of Shark Tank, four different entrepreneurs pitch their business ideas to a panel of venture capitalists (known as the Sharks) with the hope of securing financing from them.
+
+
