@@ -10975,3 +10975,40 @@
 > Stephen Edelstein/Digital Trends A Mercedes-Benz electric sedan was inevitable. The meteoric success of the Tesla Model S, plus stricter European emissions standards gave Mercedes no choice but to meet Tesla on the EV battlefield. But a company that's been building cars for over 100 years doesn't rush into anything. The 2022 Mercedes-Benz EQS sedan is our first glimpse at the automaker's electric future. It heralds a range of electric cars for North America (including an EQS SUV) and showcases new technology, including the largest infotainment touchscreen ever fitted to a production car.
 
 
+***
+[Forex trading for beginners](https://filmdaily.co/tech/forex-trading/)
+
+
+> Do you want to transform your life by massively growing your wealth? Use this guide to Forex trading for beginners to get started making money today. The post Forex trading for beginners appeared first on Film Daily.
+
+
+***
+![Should you buy the Lenovo Tab M7 (3rd Gen) or the Samsung Galaxy A7 Lite?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/lenovo-tab-m7-3rd-gen-mom-child.jpg "Should you buy the Lenovo Tab M7 (3rd Gen) or the Samsung Galaxy A7 Lite?")
+
+
+[Should you buy the Lenovo Tab M7 (3rd Gen) or the Samsung Galaxy A7 Lite?](https://www.androidcentral.com/lenovo-tab-m7-3rd-gen-vs-samsung-galaxy-a7-lite)
+
+
+> You'll save huge with the Lenovo Tab M7 (3rd Gen), particularly if you can find it on sale. It runs Android Go, which means it doesn't offer as much processing power as the Tab A7 Lite. But it has some compelling features that make it a good choice as a tablet you can take anywhere for basic tasks, and you can confidently hand off to your kids. $105 at Best Buy Very affordable Access to Google Play Google Kids Space included Comes with free Amazon Music Unlimited trial Lower-res screen Cameras leave something to be desired Low power device using Android Go The Samsung Galaxy Tab A7 Lite is perfect for those looking for something compact, travel-friendly, and affordable.
+
+
+***
+![The best USB-C headphone adapters for 2021](https://icdn.digitaltrends.com/image/digitaltrends/usb-c-headphone-adapters-feat-image.jpg "The best USB-C headphone adapters for 2021")
+
+
+[The best USB-C headphone adapters for 2021](https://www.digitaltrends.com/mobile/best-usb-c-headphone-adapters/)
+
+
+> Mobile devices are ditching headphone jacks at a brisk clip, so if your new Android smartphone or Apple iPad Pro ships without that precious port, you may have to purchase a wireless headset to listen in on podcasts, music, or video. Or maybe not. You can still use your device's USB Type C port with your favorite headphones — if you get your hands on a USB Type C headphone adapter. Just plug it into the charging port, and then plug your headphones into the 3.5mm audio jack on the other side of the adapter.
+
+
+***
+![Google Search Now Lets You Tune Your Guitar](https://www.androidheadlines.com/wp-content/uploads/2018/11/Google-Search-Autocomplete-April-2018-AH-New.jpg "Google Search Now Lets You Tune Your Guitar")
+
+
+[Google Search Now Lets You Tune Your Guitar](https://www.androidheadlines.com/2021/10/google-search-now-lets-you-tune-your-guitar.html)
+
+
+> Users can now tune their guitar using nothing but Google Search. Google Assistant has already offered this ability in some form with the 'tune my instrument' command. But this new addition helps users tune their guitars using just a mobile web browser and the built-in microphone.To get started, users simply have to search for 'Google tuner' which will pull up a chromatic tuner. This will work on both conventional desktop web browsers and mobile devices. Android Police reports that the feature works accurately on the Pixel 5a.
+
+
