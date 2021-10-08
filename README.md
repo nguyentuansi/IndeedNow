@@ -11059,3 +11059,53 @@
 > October 08, 2021 03:51 PM Eastern Daylight Time MOSCOW & LUXEMBOURG--(BUSINESS WIRE)--Delimobil Holding S.A. ('Delimobil'), a pioneer and a leading shared mobility provider in Russia, one of the world's largest car sharing markets, announced today that it has publicly filed a Form F-1 Registration Statement under the Securities Act of 1933 with the U.S. Securities and Exchange Commission ('SEC') relating to a proposed initial public offering (the 'IPO') of its American Depositary Shares representing ordinary shares of Delimobil (the 'ADSs').
 
 
+***
+![Instagram is back up so you can go back to scrolling through Reels](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/01/facebook-logo-hero-joe.jpg "Instagram is back up so you can go back to scrolling through Reels")
+
+
+[Instagram is back up so you can go back to scrolling through Reels](https://www.androidcentral.com/facebook-whatsapp-instagram-are-down-again)
+
+
+> Source: Joe Maring / Android Central Facebook can't seem to get it together. After dealing with a massive outage earlier this week that left its services unusable for nearly six hours, the company is dealing with yet another outage affecting its apps, including Instagram. It's unclear how widespread the problems are for each particular app, but Downdetector has shown an increase in reports across Facebook's services. The company is aware that users are facing issues with its apps and says that it's working quickly to get service restored.
+
+
+***
+![California helped create Tesla, Newsom says after Musk reveals HQ move](https://ca-times.brightspotcdn.com/dims4/default/6afa174/2147483647/strip/true/crop/840x472+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fed%2F1f%2F8050f7354710a4c93de6e7dddffd%2Fnewsom2.jpg "California helped create Tesla, Newsom says after Musk reveals HQ move")
+
+
+[California helped create Tesla, Newsom says after Musk reveals HQ move](https://www.latimes.com/business/technology/story/2021-10-08/california-helped-create-tesla-newsom-says-after-musk-reveals-hq-move)
+
+
+> Gov. Gavin Newsom struck a defiant tone Friday after losing the headquarters of one of California's marquee companies, Tesla Inc., to Texas, saying his state's policies helped create the electric-carmaker.Newsom, speaking at a bill-signing ceremony in Oakland, thanked Tesla Chief Executive Elon Musk for his investments in California, where the company was born and opened its first factory.The governor called Musk 'one of the world's great innovators and entrepreneurs — I mean what an extraordinary, extraordinary talent.
+
+
+***
+![Instagram back up after second major outage of the week](https://icdn.digitaltrends.com/image/digitaltrends/instagram-login-2.jpg "Instagram back up after second major outage of the week")
+
+
+[Instagram back up after second major outage of the week](https://www.digitaltrends.com/mobile/facebook-instagram-downn-again/)
+
+
+> Facebook started off the week with one heck of a blunder, watching all of its services go down worldwide for over six hours. Now, to close out the week, Facebook-owned Instagram had another large-scale outage that lasted multiple hours. People started to notice issues with Instagram not loading or refreshing around 2 p.m. ET, and the problems seemed to be sporadic — but a wave of reports made it clear there was a mojor problem. Over on Twitter, both #instagramdownagain and #instadown were trending for the duration.
+
+
+***
+![Best cheap grill deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/grills-featured-image-resized.jpg "Best cheap grill deals for October 2021")
+
+
+[Best cheap grill deals for October 2021](https://www.digitaltrends.com/dtdeals/best-grill-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. This is one of the best times in the year to find the best cheap grill deals. During the fall retailers often have new model grills from most brands in inventory and it's time to move them out. Getting outside and grilling is a great way to enjoy the weather (no matter the season) while making a delicious meal. If you're looking for a new outdoor grill, search no more. We have rounded up some fantastic grill sales for you below.
+
+
+***
+![Best cheap Instant Pot deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/instant-pot-duo-60-7-in-1.jpg "Best cheap Instant Pot deals for October 2021")
+
+
+[Best cheap Instant Pot deals for October 2021](https://www.digitaltrends.com/dtdeals/best-instant-pot-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Are you looking for the best cheap Instant Pot deals? We found a good selection of deals and the best prices for most current Instant pot models. Cooking with  Instant Pots  redefined pressure cooking and revolutionized home meal preparation. There are eight Instant Pot models, most available in two or more sizes. Now there's also an Instant Pot Air Fryer Lid that adds air frying to many 6-quart Instant Pot pressure cookers.
+
+
