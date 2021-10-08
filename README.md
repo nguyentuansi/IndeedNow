@@ -10684,3 +10684,53 @@
 > TESLA CEO Elon Musk will be moving the electric car giant's headquarters from California to Texas after his relationship with state officials have soured over the course of the pandemic. The billionaire, who has a home and currently lives in Texas, vowed Tesla will still keep building in California and increase its production line in Nevada during the move. Elon Musk announced Tesla would be moving its headquarters to Texas from CaliforniaCredit: AFP "To be clear though, we will be continuing to expand our activities in California," Musk said.
 
 
+***
+![Visa blocks $354 million fraud on Australian businesses](https://itwire.com/media/k2/items/cache/dbe221170dbba8ab992188564ea9711d_XS.jpg "Visa blocks $354 million fraud on Australian businesses")
+
+
+[Visa blocks $354 million fraud on Australian businesses](https://itwire.com/security/visa-blocks-$354-million-fraud-on-australian-businesses.html)
+
+
+> Payments operator Visa says its AI-driven security has helped financial institutions prevent Australian businesses being defrauded to the tune of $354 million in the past year. Visa's neural network assesses more than 500 risk attributes in about a millisecond to predict every transaction's fraud probability. Data released by AusPayNet suggests it is working, as overall card fraud only rose 0.6% in 2020, even though online retail spending grew 44%. Enumeration attacks – an automated, brute force approach that guesses and tests payment credentials such as account numbers, CVV2, and/or expiry dates during online checkout – came to the fore locally and internationally during the past year.
+
+
+***
+![WhatsApp to soon add a global voice message player: Here's everything you need to know](https://images.indianexpress.com/2021/10/WhatsApp-IE.jpg "WhatsApp to soon add a global voice message player: Here's everything you need to know")
+
+
+[WhatsApp to soon add a global voice message player: Here's everything you need to know](https://indianexpress.com/article/technology/social/whatsapp-to-soon-add-a-global-voice-message-player-how-it-works-details-7559561/)
+
+
+> WhatsApp recently release a feature, which allowed users to change the playback speed of voice messages. The company is now planning to release one more feature to offer a better experience to those who use voice messages. It is working on a 'global voice message player,' which will allow you to listen to voice messages even after leaving the chats. WabetaInfo says when you play voice message and leave that chat, it will then be pinned to the top of the main app. The cited source says the app will display the voice message on the top of every section or chat you visit.
+
+
+***
+![Russia Working on Crypto Law to Safeguard 'Non-Professional' Investors](https://i.gadgets360cdn.com/large/cryptocurrency_mix_stock_pexels_1627728358830.jpg "Russia Working on Crypto Law to Safeguard 'Non-Professional' Investors")
+
+
+[Russia Working on Crypto Law to Safeguard 'Non-Professional' Investors](https://gadgets.ndtv.com/cryptocurrency/news/russia-crypto-investors-regulate-non-professional-cryptocurrency-risk-2568097)
+
+
+> Policymakers in Russia are working on a new law to 'protect' non-professional investors from rash investments in cryptocurrencies, according to reports. Russia needs new laws to adopt in order to protect retail investors from crypto-risks, believes Anatoly Aksakov, the chairman of the Russian State Duma Committee on Financial Markets. The crypto-future in Russia looks presently blurry. While its government has spoken about creating Russia's own regulated digital currency, holding undeclared cryptocurrency between $1,300 (roughly Rs.
+
+
+***
+![Best True Wireless Earphones Deals in Amazon Great Indian Festival Sale 2021](https://i.gadgets360cdn.com/large/airpods_pro_best_anc_pixabay_1628143649323.jpg "Best True Wireless Earphones Deals in Amazon Great Indian Festival Sale 2021")
+
+
+[Best True Wireless Earphones Deals in Amazon Great Indian Festival Sale 2021](https://gadgets.ndtv.com/audio/features/best-true-wireless-earphones-tws-deals-amazon-great-indian-festival-sale-2021-2568096)
+
+
+> True wireless earphones are the present and future of personal audio and listening, and there are some impressive options available to buy right now. The Amazon Great Indian Festival sale 2021 has now kicked off, and there are some interesting deals available for popular true wireless earphones across price ranges.We've compiled a list of the best true wireless earphones deals on Amazon right now, covering brands such as Apple, Samsung, Jabra, Sony, and Realme, and here are our top picks in the segment.
+
+
+***
+![Microsoft: Russia behind 58% of detected state-backed hacks](https://www.thehindu.com/sci-tech/technology/xqd06y/article36891290.ece/ALTERNATES/LANDSCAPE_615/Cybersecurity-Microsoft-State-Hackers "Microsoft: Russia behind 58% of detected state-backed hacks")
+
+
+[Microsoft: Russia behind 58% of detected state-backed hacks](https://www.thehindu.com/sci-tech/technology/microsoft-russia-behind-58-of-detected-state-backed-hacks/article36891291.ece)
+
+
+> Russia accounted for most state-sponsored hacking detected by Microsoft over the past year, with a 58% share, mostly targeting government agencies and think tanks in the United States, followed by Ukraine, Britain and European NATO members, the company said.The devastating effectiveness of the long-undetected SolarWinds hack — it mainly breached information technology businesses including Microsoft — also boosted Russian state-backed hackers' success rate to 32% in the year ending June 30, compared with 21% in the preceding 12 months.
+
+
