@@ -10547,3 +10547,43 @@
 > It's safe to say that The Teens hate Facebook and Twitter as much as the rest of us. At least, that's according to a 91-page survey put out this week by analysts at the financial firm Piper Sandler. The lengthy report, titled 'Taking Stock With Teens,' quizzed 10,000 US teenagers on everything from the social causes they support to the brands that they buy on a regular basis. The report also asked these teens what their favorite platforms were—and for the most part, they're names that you'd expect: 35% of teens named Snapchat at the top, with TikTok as a close second (30%).
 
 
+***
+![Elon Musk says Tesla will move HQ from California to Texas](https://s.abcnews.com/images/Technology/WireAP_edc300d7f2df4f8797f608b875c9762f_16x9_992.jpg "Elon Musk says Tesla will move HQ from California to Texas")
+
+
+[Elon Musk says Tesla will move HQ from California to Texas](https://abcnews.go.com/Technology/wireStory/elon-musk-tesla-move-hq-california-texas-80468420)
+
+
+> Tesla says it will relocate its headquarters from Palo Alto, California, to Austin, Texas, though the electric car maker will keep expanding its manufacturing capacity in the Golden State.CEO Elon Musk gave no timeline for the move late Thursday when he addressed the company's shareholders at Tesla's annual meeting.Musk noted that cost of housing in the Bay Area has made it tough for many people to become homeowners and that translates into long commutes. Last year, tech giant Oracle Corp. decided to move its headquarters from Silicon Valley to Austin, saying the move would give its employees more flexibility about where and how they work.
+
+
+***
+![Instagram drops IGTV to streamline video](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-10/instagram_combine_081021-seo.jpg "Instagram drops IGTV to streamline video")
+
+
+[Instagram drops IGTV to streamline video](https://www.malaymail.com/news/tech-gadgets/2021/10/08/instagram-drops-igtv-to-streamline-video/2011690)
+
+
+> Instagram announced that it is combining IGTV and feed videos into one format called Instagram Video, which promises to be easier and more practical to use. ― Picture courtesy of Instagram SAN FRANCISCO, Oct 8 ― It's the end of the line for IGTV, the app dedicated to Instagram videos. But far from bidding farewell to video, the social network announced that it's combining IGTV and feed videos into one format called Instagram Video, which promises to be easier and more practical to use. Instagram had already announced plans to move towards more video back in June.
+
+
+***
+![Tesla headquarters will move from California to Texas, Elon Musk announces](https://i.guim.co.uk/img/media/b57fc5e91b80bb2d187dc885033c566f1e9d57e4/0_55_4645_2788/master/4645.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=66273b64310232d7f7896e8353c02dda "Tesla headquarters will move from California to Texas, Elon Musk announces")
+
+
+[Tesla headquarters will move from California to Texas, Elon Musk announces](https://www.theguardian.com/technology/2021/oct/07/tesla-moving-texas-elon-musk-california)
+
+
+> Elon Musk has reportedly announced that Tesla will move its headquarters from California to Texas, following through on a threat he had hinted at for several months.The company has been building a new plant in Austin and the CEO confirmed the move in a shareholder meeting on Thursday, the New York Times reported.Musk publicly clashed with California officials several times throughout the pandemic over local restrictions that halted production at the company's factory in the Silicon Valley area. Musk said earlier in the year that he was spending less time in California and had already relocated to Texas himself.
+
+
+***
+!['Exhausted Man' PC game takes tiredness to the next level (VIDEO)](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-10/exhausted_man_game_081021-seo.jpg "'Exhausted Man' PC game takes tiredness to the next level (VIDEO)")
+
+
+['Exhausted Man' PC game takes tiredness to the next level (VIDEO)](https://www.malaymail.com/news/tech-gadgets/2021/10/08/exhausted-man-pc-game-takes-tiredness-to-the-next-level-video/2011688)
+
+
+> The PC game ‘Exhausted Man' does not yet have an official release date. ― Picture courtesy of Candleman Games SHANGHAI, Oct 8 ― Chinese developer Candleman Games is working on a PC video game in which players step into the shoes of a very tired character who nevertheless goes about achieving all his daily tasks. The demo is available now for free download. Could this be the world's most exhausting game? Exhausted Man, developed by publisher Candleman Games, has just been showcased at the Steam Next Festival, which ends Thursday, October 7.
+
+
