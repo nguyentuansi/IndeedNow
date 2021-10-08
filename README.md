@@ -10587,3 +10587,50 @@
 > The PC game ‘Exhausted Man' does not yet have an official release date. ― Picture courtesy of Candleman Games SHANGHAI, Oct 8 ― Chinese developer Candleman Games is working on a PC video game in which players step into the shoes of a very tired character who nevertheless goes about achieving all his daily tasks. The demo is available now for free download. Could this be the world's most exhausting game? Exhausted Man, developed by publisher Candleman Games, has just been showcased at the Steam Next Festival, which ends Thursday, October 7.
 
 
+***
+[Working Computer Model in your Browser](https://www.reddit.com/r/programming/comments/q3o4dh/working_computer_model_in_your_browser/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![I wanted to share with you a lib I just published on PyPI for handling AWS services](https://external-preview.redd.it/LTb70GAA_bQ5gHPjQsP6P6Xr_qpf6YN4IFGuZCJQuyw.jpg?auto=webp&s=25638275f94c09e0f151220c4099fe727da47700 "I wanted to share with you a lib I just published on PyPI for handling AWS services")
+
+
+[I wanted to share with you a lib I just published on PyPI for handling AWS services](https://www.reddit.com/r/Python/comments/q3o3dx/i_wanted_to_share_with_you_a_lib_i_just_published/)
+
+
+> This early releases contains handy methods to deal with ParameterStore, I plan to add Secrets Manager and S3 integration soon... I really hope you may find this tool useful. You are invited to create issues or PR.https://github.com/jiss2891/awstandinghttps://pypi.org/project/awstanding/
+
+
+***
+![Mail](https://images.macrumors.com/social/?t=2315926&v=6 "Mail")
+
+
+[Mail](https://forums.macrumors.com/threads/mail-any-keyboard-shortcut-that-allows-you-to-move-message.2315926/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![[图]Apple Watch Series 7今晚8点开订 各型号售价提前曝光](https://static.cnbetacdn.com/thumb/article/2021/1008/0eac3ace507dc74.jpg "[图]Apple Watch Series 7今晚8点开订 各型号售价提前曝光")
+
+
+[[图]Apple Watch Series 7今晚8点开订 各型号售价提前曝光](http://www.cnbeta.com/articles/tech/1187617.htm)
+
+
+> Apple Watch Series 7 于今天（10 月 8 日）晚上 8 点开始接收预订，并于 10 月 15 日发售。在正式发售之前，知名爆料人士乔恩·普罗瑟(Jon Prosser)透露了 Series 7 的售价基本上和 Series 6 相同。 根据曝光的售价，苹果公司似乎延续了 Apple Watch Series 6 的定价策略，铝制型号的 45 毫米版本最高售价为529 美元，具有手机功能。不锈钢版本的 41 毫米型号起价为 699 美元，更大的 45 毫米表壳尺寸则为 749 美元。Apple Watch Edition 再次采用了钛合金底盘，售价为799美元和849美元，视尺寸而定。Apple Watch爱马仕不在名单之列。● 41mm Aluminum (GPS) $ 399● 45mm Aluminum (GPS) $ 429● 41mm Aluminum (GPS + Cellular) $ 499● 45mm Aluminum (GPS + Cellular) $ 529● 41mm Nike (GPS) $ 399● 45mm Nike (GPS) $
+
+
+***
+![Best TVs to give for the holidays 2021](https://www.cnet.com/a/img/nQNedtAgeoo5HYmAAN6tulEXPVU=/1200x630/2021/08/25/db9cbab3-d18c-42f1-84b1-4625336ab277/lg-c1-oled-tv-cnet-review-2021-28.jpg "Best TVs to give for the holidays 2021")
+
+
+[Best TVs to give for the holidays 2021](https://www.cnet.com/tech/home-entertainment/best-tvs-to-give-for-the-holidays-2021/)
+
+
+> If you have a TV on your holiday shopping list, then rejoice -- some of the best prices of the year are on their way. The tough part is figuring out which TV to give that lucky recipient (let's face it, or yourself). Thankfully, we're here to help: We've rounded up the best TVs of 2021 so you can find the perfect one to give or get this holiday season. We look at contrast ratio, local dimming, brightness, color, uniformity, gaming input lag and refresh rate, as well as the number of HDMI ports, streaming service support and more, all to help give you the information you need to make the best choice for you and your family.
+
+
