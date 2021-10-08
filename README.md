@@ -10634,3 +10634,53 @@
 > If you have a TV on your holiday shopping list, then rejoice -- some of the best prices of the year are on their way. The tough part is figuring out which TV to give that lucky recipient (let's face it, or yourself). Thankfully, we're here to help: We've rounded up the best TVs of 2021 so you can find the perfect one to give or get this holiday season. We look at contrast ratio, local dimming, brightness, color, uniformity, gaming input lag and refresh rate, as well as the number of HDMI ports, streaming service support and more, all to help give you the information you need to make the best choice for you and your family.
 
 
+***
+![Sonnet升级DuoModo和eGPU Breakaway Box系列：最高Radeon RX 6900XT](https://static.cnbetacdn.com/thumb/article/2021/1008/5da4c5208daf850.jpg "Sonnet升级DuoModo和eGPU Breakaway Box系列：最高Radeon RX 6900XT")
+
+
+[Sonnet升级DuoModo和eGPU Breakaway Box系列：最高Radeon RX 6900XT](http://www.cnbeta.com/articles/tech/1187719.htm)
+
+
+> Sonnet Technologies 今天升级了 DuoModo（适用于桌面）和 eGPU Breakaway Box（适用于机架）产品线，最高装备了 AMD 旗舰显卡 Radeon RX 6900 XT。在提供灵活的配置和易用的安装步骤、紧凑的外观设计基础上，Sonnet 的 DuoModo 产品线提供专业、可扩展的系统，能通过 ThunderBolt 轻松将外接显卡连接 Mac、PC等。 ● AMD Radeon RX 6900 XT GPU该显卡由 AMD RDNA 2 架构提供支持，具有 80 个计算单元、128MB AMD Infinity Cache 和 16GB 专用 GDDR6 内存，其设计旨在提供无与伦比的性能，为顶级视频编辑、视觉效果和建模应用提供显著的图形处理提升，缩短渲染时间，增强VFX和色彩校正工作流程。● 最高配 AMD Radeon RX 6900 XT 的 eGPU Breakaway Box 750ex这些捆绑产品包括一个 AMD Radeon RX 6900 XT GPU 显卡和一个 Sonnet 流行的 Thunderbolt to GPU P
+
+
+***
+![Andrei Neagoie's Complete Python Developer](https://external-preview.redd.it/5tMurV4P_3jwm4MxOI8gbZ4omdruDkSFUdRbaM_Rvy4.jpg?auto=webp&s=9a21a3c9c98a349a3a8151ab9596d208a41ec5de "Andrei Neagoie's Complete Python Developer")
+
+
+[Andrei Neagoie's Complete Python Developer](https://www.reddit.com/r/Python/comments/q3pqx0/andrei_neagoies_complete_python_developer/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Is there something like io-ts in Python?](https://external-preview.redd.it/i9SVmM7tlSU1NIv2U65-q2xlRPN4lLafRFlQBGehWck.jpg?auto=webp&s=ccc0dc9d2256c649a42e362d775d5f4810e965df "Is there something like io-ts in Python?")
+
+
+[Is there something like io-ts in Python?](https://www.reddit.com/r/Python/comments/q3ppdl/is_there_something_like_iots_in_python/)
+
+
+> Hello, I was reading this article on the Typescript's library io-ts. It's described as a "Runtime type system for IO decoding/encoding"It's used with fp-ts which is according to its description a library for typed functional programming in TypeScript.What are some Python similar libraries?
+
+
+***
+![iPhone may soon let you control AC, adjust seats in your car using CarPlay](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/applecarplay_8102021-original.jpg "iPhone may soon let you control AC, adjust seats in your car using CarPlay")
+
+
+[iPhone may soon let you control AC, adjust seats in your car using CarPlay](https://www.indiatoday.in/technology/news/story/iphone-may-soon-let-you-control-ac-adjust-seats-in-your-car-using-carplay-1862232-2021-10-08)
+
+
+> Shubham Verma New Delhi, Oct 08, 2021, Updated Oct 08, 2021, 9:10 AM IST Story highlights Apple may be working on a better CarPlay with more controls. Using CarPlay, iPhone users could control the AC of the car and adjust seats. There is no information on when this new CarPlay will arrive. Apple's own self-driving car may still be years away, but it is not completely away from the existing cars. Apple's CarPlay allows you to use your iPhone as a tether for map navigation, calls and other sorts of communications, and even entertainment on your car's infotainment screen.
+
+
+***
+![Elon Musk announces he's moving Tesla headquarters to Texas in snub to lockdown-loving California](https://www.the-sun.com/wp-content/uploads/sites/6/2021/10/ES_TESLA_TEXAS_COMPOSITE.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Elon Musk announces he's moving Tesla headquarters to Texas in snub to lockdown-loving California")
+
+
+[Elon Musk announces he's moving Tesla headquarters to Texas in snub to lockdown-loving California](https://www.the-sun.com/tech/3815543/elon-musk-moves-tesla-headquarters-texas-from-california/)
+
+
+> TESLA CEO Elon Musk will be moving the electric car giant's headquarters from California to Texas after his relationship with state officials have soured over the course of the pandemic. The billionaire, who has a home and currently lives in Texas, vowed Tesla will still keep building in California and increase its production line in Nevada during the move. Elon Musk announced Tesla would be moving its headquarters to Texas from CaliforniaCredit: AFP "To be clear though, we will be continuing to expand our activities in California," Musk said.
+
+
