@@ -10931,3 +10931,47 @@
 > Hi r/PythonI'm into NLP real-world use cases for the next couple of months. And, I've decided to start with Spacy.I wrote a Named Entity Recognition pipeline using SpaCy: it detects company acquisitions from news headlines.SpaCy NER pipelineYou can find the full code in a gist, or you might check the full article here.Some Issues I foundSpacy NER models don't work so well out-of-a-box. More to that, they're almost useless if your text isn't "truecased": most news article headlines aren't. For example, news headlines are usually written as "Company A To Acquire Company B", and not "Company A to acquire Company B".
 
 
+***
+![Forget GTA 6 – a Grand Theft Auto remastered trilogy is coming ‘later this year'](https://www.the-sun.com/wp-content/uploads/sites/6/2021/10/gta-trilogy.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Forget GTA 6 – a Grand Theft Auto remastered trilogy is coming ‘later this year'")
+
+
+[Forget GTA 6 – a Grand Theft Auto remastered trilogy is coming ‘later this year'](https://www.the-sun.com/tech/3819817/grand-theft-auto-remastered-trilogy-announced/)
+
+
+> ROCKSTAR just can't get enough of releasing anything but GTA 6, and this time it's releasing three games at once, To mark the 20th anniversary of the release of GTA 3, the studio has announced that the Grand Theft Auto: The Trilogy – The Definitive Edition. Grand Theft Auto: The Trilogy – The Definitive Edition launching later this year Launching "later this year", the collection will include remastered versions of GTA 3, GTA: Vice City, and GTA: San Andreas. Fans can look forward to upgraded graphics, and 'modern gameplay enhancements'.
+
+
+***
+[Forget GTA 6 – a Grand Theft Auto remastered trilogy is coming ‘later this year'](https://www.thesun.ie/tech/7724319/grand-theft-auto-remastered-trilogy-announced/)
+
+
+> ROCKSTAR just can’t get enough of releasing anything but GTA 6, and this time it’s releasing three games at once, To mark the 20th anniversary of the release of GTA 3, the studio has announced that the Grand Theft Auto: The Trilogy – The Definitive Edition. Launching “later this year”, the collection will include remastered […]
+
+
+***
+![Forget GTA 6 – a Grand Theft Auto remastered trilogy is coming ‘later this year'](https://www.thesun.co.uk/wp-content/uploads/2021/10/gta-trilogy.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Forget GTA 6 – a Grand Theft Auto remastered trilogy is coming ‘later this year'")
+
+
+[Forget GTA 6 – a Grand Theft Auto remastered trilogy is coming ‘later this year'](https://www.thesun.co.uk/tech/16367158/grand-theft-auto-remastered-trilogy-announced/)
+
+
+> ROCKSTAR just can't get enough of releasing anything but GTA 6, and this time it's releasing three games at once, To mark the 20th anniversary of the release of GTA 3, the studio has announced that the Grand Theft Auto: The Trilogy – The Definitive Edition. Grand Theft Auto: The Trilogy – The Definitive Edition launching later this year Launching "later this year", the collection will include remastered versions of GTA 3, GTA: Vice City, and GTA: San Andreas. Fans can look forward to upgraded graphics, and 'modern gameplay enhancements'.
+
+
+***
+[How to Change Address Bar Location in Safari on iPhone](https://www.iphonehacks.com/2021/10/how-change-address-bar-location-safari-iphone.html)
+
+
+> With iOS 15, Safari on iPhone got a huge and somewhat controversial redesign. The address bar has been moved to the bottom, and the tab switcher also got a nice makeover. Apple, however, has been criticized for moving the address bar at the bottom as it ends up blocking some elements on the web page.  Thankfully, there is an easy way to move the address bar back on top in Safari on your iPhone. Follow our guide below to know the steps. Continue reading →
+
+
+***
+![Mercedes-Benz EQS first drive review: Plush enough to make Tesla owners jealous](https://icdn.digitaltrends.com/image/digitaltrends/2022-mercedes-benz-eqs-front-three-quarter-view.jpg "Mercedes-Benz EQS first drive review: Plush enough to make Tesla owners jealous")
+
+
+[Mercedes-Benz EQS first drive review: Plush enough to make Tesla owners jealous](https://www.digitaltrends.com/cars/2022-mercedes-benz-eqs-review/)
+
+
+> Stephen Edelstein/Digital Trends A Mercedes-Benz electric sedan was inevitable. The meteoric success of the Tesla Model S, plus stricter European emissions standards gave Mercedes no choice but to meet Tesla on the EV battlefield. But a company that's been building cars for over 100 years doesn't rush into anything. The 2022 Mercedes-Benz EQS sedan is our first glimpse at the automaker's electric future. It heralds a range of electric cars for North America (including an EQS SUV) and showcases new technology, including the largest infotainment touchscreen ever fitted to a production car.
+
+
