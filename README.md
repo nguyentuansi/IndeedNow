@@ -10734,3 +10734,53 @@
 > Russia accounted for most state-sponsored hacking detected by Microsoft over the past year, with a 58% share, mostly targeting government agencies and think tanks in the United States, followed by Ukraine, Britain and European NATO members, the company said.The devastating effectiveness of the long-undetected SolarWinds hack — it mainly breached information technology businesses including Microsoft — also boosted Russian state-backed hackers' success rate to 32% in the year ending June 30, compared with 21% in the preceding 12 months.
 
 
+***
+![Create a Stunning PDF Flyer in Python with borb](https://external-preview.redd.it/PxiyKGD8ZftIVITpV589NoBopgL3eAMTwrVPaDONa-A.jpg?auto=webp&s=643b2e6482b2c5896e84e6679ec91fdeeccb1a5f "Create a Stunning PDF Flyer in Python with borb")
+
+
+[Create a Stunning PDF Flyer in Python with borb](https://www.reddit.com/r/Python/comments/q3t9iv/create_a_stunning_pdf_flyer_in_python_with_borb/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Bilingual comedy series 'Acapulco' premieres on Apple TV+](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/acapulco-keyart.jpg "Bilingual comedy series 'Acapulco' premieres on Apple TV+")
+
+
+[Bilingual comedy series 'Acapulco' premieres on Apple TV+](https://www.imore.com/bilingual-comedy-series-acapulco-premieres-apple-tv)
+
+
+> Source: Apple TV+ "Acapulco" has premiered on Apple TV+. The new bilingual comedy series stars Eugenio Derbe. "Acapulco" is now streaming on Apple TV+. The new comedy series tells the story of "20-something Máximo Gallardo (Enrique Arrizon), whose dream comes true when he gets the job of a lifetime as a cabana boy at the hottest resort in Acapulco." "Acapulco" tells the story of 20-something Máximo Gallardo (Enrique Arrizon), whose dream comes true when he gets the job of a lifetime as a cabana boy at the hottest resort in Acapulco.
+
+
+***
+![New children's series 'Get Rolling With Otis' premieres on Apple TV+](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/get-rolling-with-otis-official-trailer.jpg "New children's series 'Get Rolling With Otis' premieres on Apple TV+")
+
+
+[New children's series 'Get Rolling With Otis' premieres on Apple TV+](https://www.imore.com/new-childrens-series-get-rolling-otis-premieres-apple-tv)
+
+
+> Source: Apple TV+ "Get Rolling With Otis" has premiered on Apple TV+. The series follows Otis the Tractor and his life on the Long Hill Dairy Farm. "Get Rolling With Otis" is now streaming on Apple TV+. The new series, which is based on the Penguin Random House book series by Loren Long, follows the story of Otis the Tractor and all of his friends on the Long Hill Dairy Farm. Based on the Penguin Random House book series by Loren Long, "Get Rolling With Otis" will premiere globally on Apple TV+ on Friday, October 8.
+
+
+***
+![Amazon Great Indian Festival: Vivo X60 at Rs 31,990 is a fantastic offer, here is how the offer works](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/vivo_x60_1-original.jpg "Amazon Great Indian Festival: Vivo X60 at Rs 31,990 is a fantastic offer, here is how the offer works")
+
+
+[Amazon Great Indian Festival: Vivo X60 at Rs 31,990 is a fantastic offer, here is how the offer works](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-vivo-x60-at-rs-31-990-is-a-fantastic-offer-here-is-how-the-offer-works-1862398-2021-10-08)
+
+
+> Ayush Chourasia New Delhi, Oct 08, 2021, Updated Oct 08, 2021, 1:18 PM IST Story highlights Vivo X60, with a price cut, is now selling for Rs 34,990 The device can be purchased for as low as Rs 31,990 as part of the Amazon sale We break down the offer on Vivo X60 for you The ongoing Amazon Great Indian Festival brought some crazy smartphone deals. These deals are spread across all segments, so you are likely to find a deal irrespective of your budget. Amazon is offering up to a 40 per cent discount on smartphones as part of this sale.
+
+
+***
+![Google to prohibit ads on content that deny climate change](https://www.thehindu.com/news/national/2fn9pd/article36802601.ece/ALTERNATES/LANDSCAPE_615/FILE-PHOTO-The-Google-sign-is-shown-on-one-of-the-companys-office-buildings-i "Google to prohibit ads on content that deny climate change")
+
+
+[Google to prohibit ads on content that deny climate change](https://www.thehindu.com/sci-tech/technology/google-to-prohibit-ads-on-content-that-deny-climate-change/article36892397.ece)
+
+
+> Google will prohibit ads and monetisation on content that denies the existence and causes of climate change.(Sign up to our Technology newsletter, Today's Cache, for insights on emerging themes at the intersection of technology, business and policy. Click here to subscribe for free.)The policy change will apply to advertisers, publishers and YouTube creators from next month.Content creators will not be able to earn from content that "contradicts well-established scientific consensus around the existence and causes of climate change".
+
+
