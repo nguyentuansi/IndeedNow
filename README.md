@@ -11585,3 +11585,47 @@
 > Hey! u/everyone.I have build a simple and lightweight OCR service using Flask/Gunicorn/Nginx stack.I would really appreciate you review.And feel free to contribute to the projectI know it's not an UNIQUE project but my main goal is to make a fast and less resource intensive OCR web service.Github Repo. | Live Demo
 
 
+***
+![Meaningful improvements in camera and battery life make iPhone 13 models shine](https://www.kron4.com/wp-content/uploads/sites/11/2021/10/20210930_102144.jpg?w=1280 "Meaningful improvements in camera and battery life make iPhone 13 models shine")
+
+
+[Meaningful improvements in camera and battery life make iPhone 13 models shine](https://ktla.com/morning-news/technology/iphone-13-2021-worth-upgrade-camera-battery-life-cinematic-mode-review-richontech/)
+
+
+> (KTLA) – The iPhone 13 and 13 Pro are now on sale and this year's phones have improved cameras, better battery life and a fun new Cinematic Mode. But are they worth an upgrade? Here's why you might consider swapping out your handset. Let's start with the models. There are four to choose from this year: iPhone 13 Mini, iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max. These models come in assorted colors. Even though that sounds confusing, this year Apple simplified things by making just two main variants.
+
+
+***
+[Can i ask questions about PIP here?](https://www.reddit.com/r/Python/comments/q4s6jk/can_i_ask_questions_about_pip_here/)
+
+
+> If not, is there any subreddit for the PIP?
+
+
+***
+[Watch Tyson Fury vs Wilder 3 Free Live Reddit Twitter, BuffStreams](https://filmdaily.co/tech/tyson-fury-vs-wilder-3-live-reddit-watch-free-on-twitter-buffstreams/)
+
+
+> The trilogy fight between Tyson Fury vs Deontay Wilder 3 Live Stream Free will now take place on Saturday October 9, 2021 watch on reddit buffstreams twitter. The post Watch Tyson Fury vs Wilder 3 Free Live Reddit Twitter, BuffStreams appeared first on Film Daily.
+
+
+***
+![ScummVM 2.5.0 'Twenty years ago today ' brings tons of new games to play](https://www.scummvm.org/images/og-image.jpg "ScummVM 2.5.0 'Twenty years ago today ' brings tons of new games to play")
+
+
+[ScummVM 2.5.0 'Twenty years ago today ' brings tons of new games to play](https://www.scummvm.org)
+
+
+> Twenty years ago today, on Tue Oct 9 16:30:12 2001, Ludvig Strigeus pushed the initial revision of the ScummVM code, which was version 0.0.1 of the project. Time flew quickly and, fast-forward to the present day, we are proudly releasing ScummVM 2.5.0 'Twenty years ago today…' The list of changes is tremendous. First of all, this is the first release that supports 2.5D games (almost 3D), thanks to the merger with ResidualVM. With this release we announce support for Grim Fandango, The Longest Journey and Myst 3: Exile.
+
+
+***
+![Here's three more reasons to delay your Windows 11 upgrade](https://cdn.mos.cms.futurecdn.net/exum5PzuvbZy5ZdncXGnsF-1200-80.jpg "Here's three more reasons to delay your Windows 11 upgrade")
+
+
+[Here's three more reasons to delay your Windows 11 upgrade](https://www.techradar.com/news/three-more-reasons-to-delay-your-windows-11-upgrade)
+
+
+> (Image credit: Microsoft) Early adopters of Windows 11 are set to face a number of challenges that both individuals and businesses should consider before making the switch, analyst firm Gartner has warned.Speaking to TechRadar Pro over email, analyst Stephen Klenynhans explained that the level of risk associated with an early Windows 11 upgrade is 'relatively moderate', but sufficient enough to warrant consideration.According to Klenyhans, the potential issues can be broken down into three broad categories: user experience, software compatibility and hardware support.
+
+
