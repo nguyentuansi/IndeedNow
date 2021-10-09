@@ -11291,3 +11291,53 @@
 > With millions of people accessing the application daily, YouTube is one of the largest content sharing platforms in the world and keeps adding features to improve the user experience continuously. Most recently, YouTube has announced that creators can enable live auto-captions for any livestream in English. It would make the livestream more inclusive and accessible, according to the YouTube Support post.  Previously, the YouTube Livestream audio captions feature was available for channels with more than 1,000 subscribers.
 
 
+***
+![What caused the unprecedented Facebook outage? The few clues point to a problem from within](https://static.theprint.in/wp-content/uploads/2021/08/FB.jpg "What caused the unprecedented Facebook outage? The few clues point to a problem from within")
+
+
+[What caused the unprecedented Facebook outage? The few clues point to a problem from within](https://theprint.in/tech/what-caused-the-unprecedented-facebook-outage-the-few-clues-point-to-a-problem-from-within/747481/)
+
+
+> Facebook Inc. logo | Representational image | Bloomberg Text Size: Suddenly and inexplicably, Facebook, Instagram, WhatsApp, Messenger and Oculus services were gone. And it was no local disturbance. In a blog post, Downdetector.com, a major monitoring service for online outages, called it the largest global outage it had ever recorded — with 10.6 million reports from around the world. The outage had an especially massive knock-on effect on individuals and businesses around the world that rely on Whatsapp to communicate with friends, family, colleagues and customers.
+
+
+***
+![When will Facebook be back up? Facebook isn't connecting – when will it be back up? The most recent status update.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "When will Facebook be back up? Facebook isn't connecting – when will it be back up? The most recent status update.")
+
+
+[When will Facebook be back up? Facebook isn't connecting – when will it be back up? The most recent status update.](https://en.brinkwire.com/technology/when-will-facebook-be-back-up-facebook-isnt-connecting-when-will-it-be-back-up-the-most-recent-status-update/)
+
+
+> When will Facebook be back up? Facebook isn't connecting – when will it be back up? The most recent status update. FACEBOOK has announced that it, along with the company's other social media sites, is having technical difficulties today. Today's social media networks have announced that they are having problems. Today, tens of thousands of customers have used Down Detector to express their dissatisfaction. Each of the companies affected has now said that it is working to resolve the problem. Mark Zuckerberg's social media companies, Facebook, Instagram, and WhatsApp, are all temporarily unavailable.
+
+
+***
+![Is WhatsApp down because it's been hacked? What is the cause of the social networking site's downtime?](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Is WhatsApp down because it's been hacked? What is the cause of the social networking site's downtime?")
+
+
+[Is WhatsApp down because it's been hacked? What is the cause of the social networking site's downtime?](https://en.brinkwire.com/technology/is-whatsapp-down-because-its-been-hacked-what-is-the-cause-of-the-social-networking-sites-downtime/)
+
+
+> Is WhatsApp down because it's been hacked? What is the cause of the social networking site's downtime? WHATSAPP, as well as the social media giants Instagram and Facebook, has been shut down. What is the cause of the social networking site's outage, and does this indicate that the service has been hacked? WhatsApp, the popular instant messaging application, has gone offline. The service, as well as social media giants Instagram and Facebook, have experienced disruptions, according to users. The Facebook firm owns all three of the apps.
+
+
+***
+![Whatsapp isn't working – when will it work again? The most recent status update.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Whatsapp isn't working – when will it work again? The most recent status update.")
+
+
+[Whatsapp isn't working – when will it work again? The most recent status update.](https://en.brinkwire.com/technology/whatsapp-isnt-working-when-will-it-work-again-the-most-recent-status-update/)
+
+
+> Whatsapp isn't working – when will it work again? The most recent status update. WHATSAPP, Instagram, and Facebook have all crashed, leaving users unable to communicate. So, what do we know about the WhatsApp outage so far? When will it be available again? WhatsApp users have been unable to send or receive messages as the popular messaging app, along with Facebook and Instagram, has experienced major disruptions. The source of the outage across these four major social networking apps has yet to be determined, although reports of disruptions began approximately 4:44 p.
+
+
+***
+![Facebook, WhatsApp, Instagram Suffer Second Outage This Week: Twitter Reacts](https://im.indiatimes.in/content/2021/Oct/Social-image_61611ee29ff00.jpg "Facebook, WhatsApp, Instagram Suffer Second Outage This Week: Twitter Reacts")
+
+
+[Facebook, WhatsApp, Instagram Suffer Second Outage This Week: Twitter Reacts](https://www.indiatimes.com/technology/news/facebook-whatsapp-instagram-suffer-second-outage-this-week-twitter-reacts-551262.html)
+
+
+> Facebook and its sister companies WhatsApp, Instagram and Messenger suffered a second outage this week on Saturday after experiencing a six-hour-long lapse in services earlier on Monday.The outage on Monday marked a historic service blackout for the company. The last time the company went completely offline was in 2008, when Facebook was starting to gain popularity. ReutersWhat caused the new Facebook outage?Saturday's outage lasted for roughly two hours and affected all Facebook services including WhatsApp, Instagram, Messenger and even Workplace around the globe.
+
+
