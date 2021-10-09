@@ -11244,3 +11244,50 @@
 > 8 October 2021 - At least 100 worshippers have been killed or injured after a suicide bomber targeted a Shia mosque, in the northern Afghan city of Kunduz, according to news reports, during Friday prayers. The UN chief condemned the "horrific" attack "in the strongest terms", noting that it represents the third assault on a religious institution, in less than a week. "Attacks that deliberately target civilians exercising the right to freely practice their religion are violations of fundamental human rights and international humanitarian law", said Secretary-General António Guterres, in a statement released by his Spokesperson.
 
 
+***
+![iPhone SE 3 to reportedly offer Apple's A15 chip and support for 5G](https://images.indianexpress.com/2021/04/iPhone-SE-2020-1.jpg "iPhone SE 3 to reportedly offer Apple's A15 chip and support for 5G")
+
+
+[iPhone SE 3 to reportedly offer Apple's A15 chip and support for 5G](https://indianexpress.com/article/technology/mobile-tabs/iphone-se-3-to-reportedly-offer-apples-a15-chip-and-support-for-5g-design-details-7561753/)
+
+
+> Apple is expected to launch the successor to the iPhone SE (2020) in 2022, as per various reports. Japan's Macotakara blog is claiming that the third generation of iPhone SE won't feature a new design and will look similar to the iPhone SE (2020). But, the device is expected to offer the latest specs. It is said to arrive with Apple's Bionic A15 processor and Qualcomm Snapdragon X60 5G modem, similar to the iPhone 13 series. So, it will have support for 5G connectivity. If Apple is planning to launch the iPhone SE 3 with the old design, then it means that the new version will have a 4.
+
+
+***
+[Realme 4K Smart Google TV Stick all set to launch on 13th October; Read more](http://www.pinkvilla.com/tech/news/realme-4k-smart-google-tv-stick-all-set-to-launch-on-13th-october-read-more-914094)
+
+
+> Attach Main technology Image: Image Caption: Realme 4K Smart Google TV Stick all set to launch on 13th October; Read more Social Media Image : Enter the Technology details: Realme is going to launch the 4K Smart TV Stick powered by Google alongside the GT Neo 2 on 13th October. The Chinese tech company has said that it will be introducing a bunch of products along with the Snapdragon 870 powered GT Neo 2 on Wednesday.  The bunch of products that Realme is going to unveil on 13 th October are Brick Bluetooth Speaker, 4K Smart TV Google Stick, Cooling Back Clip Neo, Mobile Game Trigger, Type-C SuperDart Game Cable and Buds Air 2.
+
+
+***
+![Where do you sell your old phone?](https://images.macrumors.com/social/?t=2316134&v=6 "Where do you sell your old phone?")
+
+
+[Where do you sell your old phone?](https://forums.macrumors.com/threads/where-do-you-sell-your-old-phone-u-k.2316134/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![Apple TV+ app now available on 2016, 2017 LG smart TVs: Report](https://bsmedia.business-standard.com/_media/bs/img/article/2020-08/12/full/1597209846-4352.jpg "Apple TV+ app now available on 2016, 2017 LG smart TVs: Report")
+
+
+[Apple TV+ app now available on 2016, 2017 LG smart TVs: Report](https://www.business-standard.com/article/technology/apple-tv-app-now-available-on-2016-2017-lg-smart-tvs-report-121100900275_1.html)
+
+
+> Apple has been rolling out the Apple TV app to many different platforms, including smart TVs as well as third-party streaming devices, and now the tech giant has started rolling out a scaled down "Apple TV+" app for select 2016 and 2017 LG smart TVs. At present, the app has appeared on LG's content store in several regions, including Germany, Poland, and the Nordic countries, and its existence is confirmed in an LG support document, reports MacRumors. The update comes with different logo and name but the actual app experience appears identical to the TV app -- except that one can only watch TV+ content.
+
+
+***
+![YouTube rolls out automatic livestream captions for all users; Check how to enable it](https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/tc3pteawsth2wyzh_1633753967.jpeg "YouTube rolls out automatic livestream captions for all users; Check how to enable it")
+
+
+[YouTube rolls out automatic livestream captions for all users; Check how to enable it](https://www.republicworld.com/technology-news/other-tech-news/youtube-rolls-out-automatic-livestream-captions-for-all-users-check-how-to-enable-it.html)
+
+
+> With millions of people accessing the application daily, YouTube is one of the largest content sharing platforms in the world and keeps adding features to improve the user experience continuously. Most recently, YouTube has announced that creators can enable live auto-captions for any livestream in English. It would make the livestream more inclusive and accessible, according to the YouTube Support post.  Previously, the YouTube Livestream audio captions feature was available for channels with more than 1,000 subscribers.
+
+
