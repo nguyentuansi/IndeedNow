@@ -11109,3 +11109,53 @@
 > Digital Trends may earn a commission when you buy through links on our site. Are you looking for the best cheap Instant Pot deals? We found a good selection of deals and the best prices for most current Instant pot models. Cooking with  Instant Pots  redefined pressure cooking and revolutionized home meal preparation. There are eight Instant Pot models, most available in two or more sizes. Now there's also an Instant Pot Air Fryer Lid that adds air frying to many 6-quart Instant Pot pressure cookers.
 
 
+***
+![Dos-like: Engine for making things with a MS-DOS feel, but for modern platforms](https://external-preview.redd.it/zSpRGo5G9oe9q2gqIh2DJzOozZEYGqpWBWm2o8bK0X0.jpg?auto=webp&s=bed0a3a74ac6a41279537eb01f6f7030d2232423 "Dos-like: Engine for making things with a MS-DOS feel, but for modern platforms")
+
+
+[Dos-like: Engine for making things with a MS-DOS feel, but for modern platforms](https://www.reddit.com/r/programming/comments/q4aaxl/doslike_engine_for_making_things_with_a_msdos/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![‘We are going to break European rules!' France's gas problem has enraged the country, with prices set to ‘explode' by 12%.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "‘We are going to break European rules!' France's gas problem has enraged the country, with prices set to ‘explode' by 12%.")
+
+
+[‘We are going to break European rules!' France's gas problem has enraged the country, with prices set to ‘explode' by 12%.](https://en.brinkwire.com/news/we-are-going-to-break-european-rules-frances-gas-problem-has-enraged-the-country-with-prices-set-to-explode-by-12/)
+
+
+> ‘We are going to break European rules!' France's gas problem has enraged the country, with prices set to ‘explode' by 12%. ANGER has erupted in France following the announcement that gas prices will rise by more than 12% next month. The French energy authority confirmed on Monday that Engie, the country's largest utility, will raise gas rates by 12.6% starting October 1. Around three million consumers would be affected, as well as some customers with other suppliers whose energy bills are set by the regulator.
+
+
+***
+![Apple asks court to delay changes to the App Store until appeals conclude in Fortnite trial](https://cdn.cnn.com/cnnnext/dam/assets/211008182142-apple-app-store-phone-restricted-super-tease.jpg "Apple asks court to delay changes to the App Store until appeals conclude in Fortnite trial")
+
+
+[Apple asks court to delay changes to the App Store until appeals conclude in Fortnite trial](https://www.cnn.com/2021/10/08/tech/apple-epic-app-store-injunction/index.html)
+
+
+> The company on Friday filed a motion with the US District Court for the Northern District of California asking it to stay a September 10 injuction under a lawsuit against Apple by video game company Epic Games. The injunction, currently scheduled to take effect December 9, states that Apple (AAPL) can no longer prohibit developers from adding links within their apps to outside payment options; for example, alerting users to the option to pay for a subscription on a web browser, rather than through the app.
+
+
+***
+![Apple suppliers struggling to keep production on track due to widespread power outages in China](https://technosports.co.in/wp-content/uploads/2021/10/Apple-iPhone-13-All-Colors-Featured-scaled.jpg "Apple suppliers struggling to keep production on track due to widespread power outages in China")
+
+
+[Apple suppliers struggling to keep production on track due to widespread power outages in China](https://technosports.co.in/2021/10/09/apple-suppliers-struggling-to-keep-production-on-track-due-to-widespread-power-outages-in-china/)
+
+
+> - Advertisement -Apple suppliers in China are scrambling to keep production on track ahead of the busy holiday season in the face of widespread power outages in the country, according to a new report from Nikkei Asia. Widespread power outages in China are reigniting a push by tech manufacturers to shift production away from Asia's biggest economy, with suppliers to Apple, Amazon and others scrambling to keep production on track ahead of the busy holiday season. At a midsize electronics accessories maker in Zhongshan, Guangdong Province, power outages have become the new normal reported Nikkei Asia.
+
+
+***
+![Top 10 Best Gaming Controllers For PC, Console, & Mobile – Updated October, 2021](https://www.androidheadlines.com/wp-content/uploads/2021/09/AH-Best-Gaming-Controllers.jpg "Top 10 Best Gaming Controllers For PC, Console, & Mobile – Updated October, 2021")
+
+
+[Top 10 Best Gaming Controllers For PC, Console, & Mobile – Updated October, 2021](https://www.androidheadlines.com/best-gaming-controllers-pc-console-mobile.html)
+
+
+> Even if you play games on PC, sometimes you just want to use gaming controllers instead of the trusty old keyboard and mouse combo, as they can provide the best experience. Sure, it might depend on the type of game you're playing, or the game specifically.But, chances are many players out there will have at least one game on PC that is simply better suited for gaming controllers. And if you're playing on console, well then that's almost always your best option. For mobile, it's either a controller or touch controls.
+
+
