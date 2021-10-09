@@ -11491,3 +11491,50 @@
 > Windows is the most widely used PC operating system in the world. Microsoft recently released its latest Windows 11 operating system which brings certain improved security features. If you have a feeling that your Windows PC has been infected with malware, or you just wish to perform a routine scan, then you can do it by just following a few simple steps. Microsoft's latest Windows 11 software comes with a built-in security feature; Windows Security. One can use this to quickly scan Windows 11 PC, which can help detect malware and eliminate it.
 
 
+***
+![iPhone 13 surpasses the iPhone 12 Pro in camera and video test](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/iphone-13-review-hero.jpeg "iPhone 13 surpasses the iPhone 12 Pro in camera and video test")
+
+
+[iPhone 13 surpasses the iPhone 12 Pro in camera and video test](https://www.imore.com/iphone-13-surpasses-iphone-12-pro-camera-and-video-test)
+
+
+> Source: Joseph Keller / iMore DXOMARK has released its camera reviews of the iPhone 13 and iPhone 13 mini. The outlet found very similar performance across photos and videos for each model. Both models achieved higher overall scores when compared to the iPhone 12 Pro. For everyone who upgraded from an iPhone 12 Pro to an iPhone 13 mini, you've just been vindicated. DXOMARK has posted its camera review of the iPhone 13 and iPhone 13 mini, and it appears that even Apple's tiny iPhone has surpassed the iPhone 12 Pro in terms of photography and videography.
+
+
+***
+![How do malware removal tools work?](https://cdn.mos.cms.futurecdn.net/gxnuN9b5v8rWYyuQbLtEAB-1200-80.jpg "How do malware removal tools work?")
+
+
+[How do malware removal tools work?](https://www.techradar.com/news/how-do-malware-removal-tools-work)
+
+
+> Malware removal software is an important part of the armory of tools that can be used to defend your PC from being compromised by a malicious payload of one kind or another.If you're wondering how anti-malware tools differ from antivirus, we cover that in-depth elsewhere, but suffice it to say that malware removal apps offer a much more focused kind of protection against malware, and the facilities to rid your system of an infection.But how do these applications work exactly? Read on for our full examination of how malware removal tools protect your device and what to expect if you install one of these utilities on your system.
+
+
+***
+![The best gaming TV accessories for your setup](https://cdn.mos.cms.futurecdn.net/HLJPJL38iBVFpzFXLCq2Lf-1200-80.jpg "The best gaming TV accessories for your setup")
+
+
+[The best gaming TV accessories for your setup](https://www.techradar.com/news/best-gaming-tv-accessories)
+
+
+> If you've just bought the best gaming TV, now is the perfect time to buy the best gaming TV accessories. You've got the basics figured out – you have a great new TV and an awesome console to hook up to it – you can make things even better by picking up a few key accessories to make your gaming time even better. We're thinking of things like better sound courtesy of a fancy soundbar or set of headphones, but also the little things like an HDMI 2.1 cable that matches up nicely to your PlayStation 5 or Xbox Series X.
+
+
+***
+[[Thread] Google's staff engineering lead for Apple's platforms says Google stopped using Material Design for iOS apps after almost a decade, in favor of UIKit (Jeff Verkoeyen/@featherless)](http://www.techmeme.com/211009/p5#a211009p5)
+
+
+> Jeff Verkoeyen / @featherless: [Thread] Google's staff engineering lead for Apple's platforms says Google stopped using Material Design for iOS apps after almost a decade, in favor of UIKit — This year my team shifted the open source Material components libraries for iOS into maintenance mode. Why? A 🧵...
+
+
+***
+![NFL 2021: How to watch Jets vs. Falcons, Bills vs. Chiefs, RedZone and Week 5 without cable](https://www.cnet.com/a/img/N-DNADWa-eYOj0mTPIibTB9pLiw=/1200x630/2021/10/08/530a3e15-b0af-45c7-ab46-7af75b9ec49a/gettyimages-1343397149.jpg "NFL 2021: How to watch Jets vs. Falcons, Bills vs. Chiefs, RedZone and Week 5 without cable")
+
+
+[NFL 2021: How to watch Jets vs. Falcons, Bills vs. Chiefs, RedZone and Week 5 without cable](https://www.cnet.com/tech/home-entertainment/nfl-2021-how-to-watch-jets-vs-falcons-bills-vs-chiefs-redzone-and-week-5-without-cable/)
+
+
+> After four weeks of the NFL season, only one team remains undefeated. Led by MVP candidate Kyler Murray, the Arizona Cardinals are 4-0 and sit in first place in the loaded NFC West division. After the Rams took care of the Seahawks on Thursday night, the Cardinals will play a division game of their own on Sunday when they take on the 49ers at 1:25 p.m. PT (4:25 p.m. ET) on Fox. That is just one game in a full slate of Sunday football as we hit the last week before "byes" begin. Opening the day will be the Jets and Falcons at 6:30 a.
+
+
