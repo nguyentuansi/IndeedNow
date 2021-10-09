@@ -11341,3 +11341,53 @@
 > Facebook and its sister companies WhatsApp, Instagram and Messenger suffered a second outage this week on Saturday after experiencing a six-hour-long lapse in services earlier on Monday.The outage on Monday marked a historic service blackout for the company. The last time the company went completely offline was in 2008, when Facebook was starting to gain popularity. ReutersWhat caused the new Facebook outage?Saturday's outage lasted for roughly two hours and affected all Facebook services including WhatsApp, Instagram, Messenger and even Workplace around the globe.
 
 
+***
+![Evolution is key to Resident Evil's continuing success](https://cdn.mos.cms.futurecdn.net/yZRU5JaYcxGtbhyadScJEK-1200-80.jpg "Evolution is key to Resident Evil's continuing success")
+
+
+[Evolution is key to Resident Evil's continuing success](https://www.techradar.com/news/evolution-is-key-to-resident-evils-continuing-success)
+
+
+> No horror game franchise has had the longevity or success of Resident Evil. Many have tried and failed to come for the king of survival horror but have fallen short, the bloody bodies left by the ruthless killer that is an ever-changing horror game landscape akin to a horror movie of its own.Five Nights at Freddy's never got out of the starting gate, it welcomed the killer in with open arms and warm cocoa, only to be slain first. Fatal Frame gave the executioner a run for his money, before tripping up in the final act.
+
+
+***
+![How to sync iMessages across multiple Apple devices](https://www.cnet.com/a/img/WZpFJA4y3W5bLMhTSyYQDNT_bCo=/1200x630/2016/11/20/dc49d054-4a02-4551-8fd9-928e156dc1b0/iphone-7-gray-background.jpg "How to sync iMessages across multiple Apple devices")
+
+
+[How to sync iMessages across multiple Apple devices](https://www.cnet.com/tech/services-and-software/how-to-sync-imessages-on-your-iphone-and-ipad/)
+
+
+> Apple's iMessage lets you integrate stickers and apps with your messages or send those messages with flair. You can also sync iMessage between different Apple devices -- but only once you've set it up properly. If messages are showing up on your iPhone, but not your iPad or Mac, you're not alone, and we can help.If you're struggling with sending and receiving iMessages on all the things, then follow along.TL;DR Using the same Apple ID and use just your phone number to send and receive messages is the best way to ensure all of your iMessage conversations are sent to all of your Apple devices.
+
+
+***
+![The best and worst James Bond cars, from Dr No. to No Time To Die](https://cdn.mos.cms.futurecdn.net/3DsKyUee5R3Q2PoGPxUjeW-1200-80.jpg "The best and worst James Bond cars, from Dr No. to No Time To Die")
+
+
+[The best and worst James Bond cars, from Dr No. to No Time To Die](https://www.techradar.com/news/the-best-and-worst-james-bond-cars-from-dr-no-to-no-time-to-die)
+
+
+> After an 18-month hiatus, No Time to Die has finally landed in cinemas, bringing to a close Daniel Craig's tenure as 007 by serving up an emotional and typically action-heavy espionage adventure.But although Cary Fukunaga's take on James Bond – the 25th movie in the age-old franchise – shows off a decidedly different side to the iconic character (no spoilers, but M is called 'darling' at one point), No Time to Die is nonetheless jam-packed full of gadgets, gags and, perhaps most important of all, eye-wateringly beautiful cars.
+
+
+***
+![ESLint vs Prettier](https://external-preview.redd.it/Ip25-8N5Dd-ScEOVtzODdFy9qH9E2TVWzKB9n6Q_PiE.jpg?auto=webp&s=40042b866dde0435eebcbbc7d3c33366eb29fef6 "ESLint vs Prettier")
+
+
+[ESLint vs Prettier](https://www.reddit.com/r/programming/comments/q4i797/eslint_vs_prettier/)
+
+
+> These are apples and oranges imo. I completely agree with your blog post with each have their specific purpose. I see in many forums where people ask which is better.
+
+
+***
+![Apple stops signing iOS 15.0, meaning you can no longer downgrade](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/iphone-12-pro-ios-15-notifications.jpg "Apple stops signing iOS 15.0, meaning you can no longer downgrade")
+
+
+[Apple stops signing iOS 15.0, meaning you can no longer downgrade](https://www.imore.com/apple-stops-signing-ios-150-meaning-you-can-no-longer-downgrade)
+
+
+> Source: Christine Romero-Chan / iMore As is expected, Apple has stopped signing iOS 15 with the release of iOS 15.0.1, meaning users can no longer downgrade. Apple released iOS 15.0.1 on October 1, finally fixing that terrible Unlock with Apple Watch bug. Earlier this week it also stopped signing iOS 14.8 for users on Apple's older software. Apple usually stops signing older versions of its operating systems when new ones are released to try and keep as many people on its most current software. New iOS software usually brings important security updates or bug fixes, as well as new features.
+
+
