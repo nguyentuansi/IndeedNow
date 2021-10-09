@@ -11441,3 +11441,53 @@
 > America's longest running late-night sketch comedy show returned to TV for the start of its 47th season last week but this week Kim Kardashian West will be hosting the show for the first time and we have all the details on how you can watch Saturday Night Live on TV or online. Source: NBC After filing for divorce from her husband and rapper Kanye West back in February, Kim Kardashian West is ready to move on with her career and what better way to do so than by hosting SNL. In a first-look video released ahead of Saturday's episode, the reality TV star joked to SNL cast member Cecily Strong and this week's musical guest Halsey that hosting the show will be easy.
 
 
+***
+![Denoising Diffusion Probabilistic Models implementation with notes](https://external-preview.redd.it/tWUejWAHOaL3eYM8U3vI_e3Dy92-XHTOo27UUlHPpcY.jpg?auto=webp&s=acbff5a52d7b3a313f07b759e2c30b0549322dfe "Denoising Diffusion Probabilistic Models implementation with notes")
+
+
+[Denoising Diffusion Probabilistic Models implementation with notes](https://www.reddit.com/r/Python/comments/q4lyqw/denoising_diffusion_probabilistic_models/)
+
+
+> Annotated implementation of Denoising Diffusion Probabilistic Models. It removes noise (denoise) step-by-step to generate images.Code with annotations: https://nn.labml.ai/diffusion/ddpm/index.htmlGithubTwitter thread with a summary & video results
+
+
+***
+![I made Wii Sports/Wii Sports Resort but in VR!](https://external-preview.redd.it/XWKFYorYqbGcDedlvujd20tSfWF18-FuGmSm60LCuVs.jpg?auto=webp&s=098a204f4a5ae83769d3a5e0473854cb203f5575 "I made Wii Sports/Wii Sports Resort but in VR!")
+
+
+[I made Wii Sports/Wii Sports Resort but in VR!](https://www.reddit.com/r/programming/comments/q4lxb5/i_made_wii_sportswii_sports_resort_but_in_vr/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![If you're new to DSLR, you need these essential accessories](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/04/hero-dslr.jpg "If you're new to DSLR, you need these essential accessories")
+
+
+[If you're new to DSLR, you need these essential accessories](https://www.imore.com/9-must-have-accessories-new-dslr-camera-owners)
+
+
+> What's the best digital camera? It's that shiny new toy you just brought home, of course. Now, you just need a few extras to up your photography game. Your DSLR will do more, last longer, and take better photos with a few accessories. These are the best DSLR accessories this year, and all are gear I trust and use regularly. Staff Pick When you're working with an interchangeable lens camera, dust can be an issue. It clings to camera sensors and lenses, leading to pictures filled with spots.
+
+
+***
+![ACNH: Decorate your island with these spooky QR codes](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/acnh-halloween-qr-code-designs.jpg "ACNH: Decorate your island with these spooky QR codes")
+
+
+[ACNH: Decorate your island with these spooky QR codes](https://www.imore.com/best-animal-crossing-qr-codes-halloween)
+
+
+> Source: iMore Halloween is almost here now that the Animal Crossing Fall Update is back. There's plenty to do, whether it's growing your own pumpkin patch or collecting Spooky Pumpkin DIY recipes and decor. But if you're looking for some costumes, festive attire, or decorations to put around your home, then you'll definitely want to check out creations from fellow Animal Crossing fans. Here are the best Animal Crossing Halloween designs. Just plug in these design IDs and get to decorating in one of our favorite Nintendo Switch games.
+
+
+***
+![How to quickly scan Windows 11 PC for malware](https://images.indianexpress.com/2021/08/Windows-11.jpg "How to quickly scan Windows 11 PC for malware")
+
+
+[How to quickly scan Windows 11 PC for malware](https://indianexpress.com/article/technology/techook/a-quick-guide-on-how-to-scan-windows-11-pc-for-malware-7562453/)
+
+
+> Windows is the most widely used PC operating system in the world. Microsoft recently released its latest Windows 11 operating system which brings certain improved security features. If you have a feeling that your Windows PC has been infected with malware, or you just wish to perform a routine scan, then you can do it by just following a few simple steps. Microsoft's latest Windows 11 software comes with a built-in security feature; Windows Security. One can use this to quickly scan Windows 11 PC, which can help detect malware and eliminate it.
+
+
