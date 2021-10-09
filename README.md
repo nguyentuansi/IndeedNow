@@ -11629,3 +11629,50 @@
 > (Image credit: Microsoft) Early adopters of Windows 11 are set to face a number of challenges that both individuals and businesses should consider before making the switch, analyst firm Gartner has warned.Speaking to TechRadar Pro over email, analyst Stephen Klenynhans explained that the level of risk associated with an early Windows 11 upgrade is 'relatively moderate', but sufficient enough to warrant consideration.According to Klenyhans, the potential issues can be broken down into three broad categories: user experience, software compatibility and hardware support.
 
 
+***
+![What is API-Gateway and when is it needed?](https://external-preview.redd.it/_EnBrwtdErnJZi4tslrTcPEv8TgxmhsxJeXLj5P4CUQ.jpg?auto=webp&s=07ebdbcfdd427a8c08908c2e18b5594de0d6cdc6 "What is API-Gateway and when is it needed?")
+
+
+[What is API-Gateway and when is it needed?](https://www.reddit.com/r/programming/comments/q4uwsz/what_is_apigateway_and_when_is_it_needed/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![The best monitors for Mac Mini](https://icdn.digitaltrends.com/image/digitaltrends/mac-mini-image.jpg "The best monitors for Mac Mini")
+
+
+[The best monitors for Mac Mini](https://www.digitaltrends.com/computing/best-monitors-for-mac-mini/)
+
+
+> Apple shook up the computer world forever in November 2020 when it introduced the first Mac lineup with its own Apple Silicon processors. Dubbed the M1, this processor blew professionals and critics away with its seamless performance and impressive benchmarks. The top dog of those new devices was the M1 Mac Mini. With Apple's in-house processors, the Mac Mini is now one of the best desktop computers you can get, period. But a great computer will need great peripherals, which the Mac Mini lacks out of the box — key among them being a great monitor.
+
+
+***
+![How to watch a Fury vs Wilder 3 live stream, free options, UK time and more](https://cdn.mos.cms.futurecdn.net/XhYCickPJsRvYXYBEsk5FL-1200-80.jpg "How to watch a Fury vs Wilder 3 live stream, free options, UK time and more")
+
+
+[How to watch a Fury vs Wilder 3 live stream, free options, UK time and more](https://www.techradar.com/news/fury-vs-wilder-3-date-time-card-how-to-watch-live-stream)
+
+
+> The three-year epic war between Tyson Fury and Deontay Wilder comes to its much-anticipated finale tonight in Las Vegas. It's an unmissable fight for casual and dedicated boxing fans alike, and we have all the details you need to watch a Fury vs Wilder 3 live stream - including fight times, undercard matches, when to tune in if you're in the UK, and which lucky countries get the benefit of a FREE Fury vs Wilder live stream.Fury vs Wilder 3 live stream and time detailsDate: Saturday, October 9 (Sunday, October 10 in UK)Undercard start time: 4pm local, 7pm ET, 12am BST, 10am AEDTFury vs Wilder time (approx): 8.
+
+
+***
+![The best USB-C monitors for 2021](https://icdn.digitaltrends.com/image/digitaltrends/dell-27-usb-c-ultrathin-monitor-s2719dc-review16-2.jpg "The best USB-C monitors for 2021")
+
+
+[The best USB-C monitors for 2021](https://www.digitaltrends.com/computing/best-usb-c-monitors/)
+
+
+> The amazingly versatile USB-C port is more necessary than it's ever been. From battery charging to ultra-fast data transfers, we've gotten used to USB-C, and it has become important to find accessories that include USB-C connectivity. Even some of the best monitors have been a little slow to jump on the USB-C bandwagon, but there are now a number of strong options on the market. After hundreds of monitor reviews, our top USB-C pick is the affordable Dell 27 Ultrathin — although we also have options from multiple brands to consider as alternatives.
+
+
+***
+[Social media slanders: A missing apostrophe could cost a fortune in damages](https://thenewdaily.com.au/life/tech/2021/10/10/social-media-defamation-payouts/)
+
+
+> A real estate agent's failure to use an apostrophe in a Facebook post could cost him dearly after a court declined to dismiss the case against him on the basis … Continued The post Social media slanders: A missing apostrophe could cost a fortune in damages appeared first on The New Daily.
+
+
