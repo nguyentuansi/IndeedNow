@@ -11391,3 +11391,53 @@
 > Source: Christine Romero-Chan / iMore As is expected, Apple has stopped signing iOS 15 with the release of iOS 15.0.1, meaning users can no longer downgrade. Apple released iOS 15.0.1 on October 1, finally fixing that terrible Unlock with Apple Watch bug. Earlier this week it also stopped signing iOS 14.8 for users on Apple's older software. Apple usually stops signing older versions of its operating systems when new ones are released to try and keep as many people on its most current software. New iOS software usually brings important security updates or bug fixes, as well as new features.
 
 
+***
+![Hurricane Sam warning for the United Kingdom: How the Atlantic Category 4 hurricane could affect weather in the United Kingdom.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Hurricane Sam warning for the United Kingdom: How the Atlantic Category 4 hurricane could affect weather in the United Kingdom.")
+
+
+[Hurricane Sam warning for the United Kingdom: How the Atlantic Category 4 hurricane could affect weather in the United Kingdom.](https://en.brinkwire.com/news/hurricane-sam-warning-for-the-united-kingdom-how-the-atlantic-category-4-hurricane-could-affect-weather-in-the-united-kingdom/)
+
+
+> Hurricane Sam warning for the United Kingdom: How the Atlantic Category 4 hurricane could affect weather in the United Kingdom. HURRICANE SAM is intensifying over the Atlantic, and experts are hopeful that it will not make landfall in the United States, but they have warned that the storm might have an impact on the United Kingdom. Hurricane Sam is barreling over the Atlantic, heading for the United States. The rampaging twister has now reached Category 4 strength. New warnings have been issued by forecasters, warning Britons that the storm could have an influence on the weather in England.
+
+
+***
+![SIM only deals just keep getting cheaper](https://cdn.mos.cms.futurecdn.net/coM4XLdcH82eaUqKcwpnPT-1200-80.jpg "SIM only deals just keep getting cheaper")
+
+
+[SIM only deals just keep getting cheaper](https://www.techradar.com/news/sim-only-deals-just-keep-getting-cheaper-but-have-we-hit-the-bottom-yet)
+
+
+> In recent years there has been a surge in the popularity of SIM plans and, with it, a rapid reduction in their price as networks compete to beat each other as the best value option.And while those drops in price were relatively small at first, year after year we're seeing the average cost of SIM only deals come down rapidly - especially when compared to the cost of a traditional phone contract.In Ofcom's 2021 pricing trends report, it found that the average cost of a SIM plan fell by 10% in 2020 despite an increase in use of data.
+
+
+***
+![Far Cry 6 at 8K almost crushes the Nvidia RTX 3090 – but AMD comes to the rescue](https://cdn.mos.cms.futurecdn.net/yJdvdENfvXYYfA7ZzGT4WV-1200-80.jpg "Far Cry 6 at 8K almost crushes the Nvidia RTX 3090 – but AMD comes to the rescue")
+
+
+[Far Cry 6 at 8K almost crushes the Nvidia RTX 3090 – but AMD comes to the rescue](https://www.techradar.com/news/far-cry-6-at-8k-almost-crushes-the-nvidia-rtx-3090-but-amd-comes-to-the-rescue)
+
+
+> Our 8K test systemPC built by ChillblastMotherboard: Asus ROG STRIX Z390-E GAMING CPU Cooler: Noctua NH-U14S Case fans: Noctua NF-A14 PWM Chromax 140mm Processor: Intel Core i9-9900K, 8 Cores / 16 Threads GPU: Nvidia GeForce RTX 3090 Storage: 500GB Samsung 970 EVO Plus M.2 PCIe Secondary Storage: 2TB Samsung 860 QVO Power: Corsair RM850x 80 PLUS Gold 850W PSU Case: Fractal Design Vector RS Tempered Glass RAM: G.Skill Trident Z RGB 32GB DDR4 3200MHz Monitor: Dell UltraSharp UP3218KFar Cry 6 is the latest entry in Ubisoft's open world first person shooter franchise, and like past games in the series, it's a stunning-looking game, especially on PC.
+
+
+***
+![So many smart cameras, so many different subscriptions](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/05/ring-doorbell-2-hayato-1.jpg "So many smart cameras, so many different subscriptions")
+
+
+[So many smart cameras, so many different subscriptions](https://www.androidcentral.com/so-many-smart-cameras-so-many-different-subscriptions)
+
+
+> Source: Jerry Hildenbrand / Android Central Are you in the market for a new smart camera setup for your home or small business? The good news is, you have plenty to choose from. The bad news is, you'll probably end paying for cloud storage. You might even end up paying for things you never needed or wanted. I'm not picking on any single manufacturer here. Whether you go with the big dogs like Amazon's Ring or Google's Nest systems, a well-regarded name brand like Arlo, or even the cheapest models from China, each comes with several different tiers of cloud storage above and beyond the free level.
+
+
+***
+![How to watch Kim Kardashian West host SNL online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/snl-kim-kardashian-nbc.jpg "How to watch Kim Kardashian West host SNL online from anywhere")
+
+
+[How to watch Kim Kardashian West host SNL online from anywhere](https://www.androidcentral.com/how-watch-kim-kardashian-west-host-saturday-night-live-anywhere)
+
+
+> America's longest running late-night sketch comedy show returned to TV for the start of its 47th season last week but this week Kim Kardashian West will be hosting the show for the first time and we have all the details on how you can watch Saturday Night Live on TV or online. Source: NBC After filing for divorce from her husband and rapper Kanye West back in February, Kim Kardashian West is ready to move on with her career and what better way to do so than by hosting SNL. In a first-look video released ahead of Saturday's episode, the reality TV star joked to SNL cast member Cecily Strong and this week's musical guest Halsey that hosting the show will be easy.
+
+
