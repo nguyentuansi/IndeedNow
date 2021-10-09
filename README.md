@@ -11200,3 +11200,47 @@
 > A day before TSMC announced sales in the third quarter, Samsung, whose foundry business is just behind TSMC in the world, posted highest ever quarterly sales as well.
 
 
+***
+![The performance concerns with E10 gasoline may worsen as the weather gets cooler.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "The performance concerns with E10 gasoline may worsen as the weather gets cooler.")
+
+
+[The performance concerns with E10 gasoline may worsen as the weather gets cooler.](https://en.brinkwire.com/technology/the-performance-concerns-with-e10-gasoline-may-worsen-as-the-weather-gets-cooler/)
+
+
+> The performance concerns with E10 gasoline may worsen as the weather gets cooler. According to experts, E10 FUEL has created some performance concerns for some drivers, which may be worsening in the cold weather. E10 fuel was first introduced at forecourts in early September, and was marketed as a cleaner, 'greener' fuel. It contains up to 10% bioethanol and has the potential to reduce CO2 emissions from transportation by 750,000 tonnes per year. In the United Kingdom, E10 was introduced as the new standard grade of gasoline, replacing E5.
+
+
+***
+![Why are laptop webcams still so awful and when will it change?](https://cdn.mos.cms.futurecdn.net/cRvPWQsK3pjPCcmJvnD4cA-1200-80.jpg "Why are laptop webcams still so awful and when will it change?")
+
+
+[Why are laptop webcams still so awful and when will it change?](https://www.techradar.com/news/why-are-laptop-webcams-still-so-awful-and-when-will-it-change)
+
+
+> (Image credit: Future) A new laptop from Chinese tech company Honor has shipped with an industry first that went, well, almost unnoticed. The MagicBook V14 is the first laptop to come with a 5-megapixel camera with a 90-degree ultra-wide angle camera. A handful of other devices like the HP Elite Dragonfly Max business laptop also have 5-megapixel cameras but (a) they're likely to be 2-in-1 convertible laptops and (b) they still account for a tiny fraction of the market.So why is it that, in this day and age where hybrid working is all the rage, where Microsoft Teams, Zoom and Google Meet are household names and even mainstream smartphones (like the Infinix Zero 8) boast a selfie camera with 48-megapixel resolution, do laptop owners have to put up with VGA webcams (yes VGA)?VGA, for those below a certain age, refers to an antiquated, obsolete, bygone resolution of 640 by 480 pixels (or 307,000 pixels in all).
+
+
+***
+![The Made-in-India Mercedes-Benz S-Class is here; Check pics](https://images.moneycontrol.com/static-mcnews/2021/10/mercedes_benz_s_class__1_-770x433.jpg "The Made-in-India Mercedes-Benz S-Class is here; Check pics")
+
+
+[The Made-in-India Mercedes-Benz S-Class is here; Check pics](https://www.moneycontrol.com/news/photos/technology/auto/the-made-in-india-mercedes-benz-s-class-is-here-check-pics-7562341.html)
+
+
+> IPORESEARCHPre-MarketAdviceBroker ResearchTechnicalsWEBINARINTERVIEW SERIESOTHERSBondsCryptocurrencyToolsTOOLSReturns CalculatorLumpsum SIP BalancerDelay Cost CalculatorSIP ReturnMF FORUMTRACKYour MF InvestmentMF PricesMC 30
+
+
+***
+[US nuclear sub hits object in South China Sea, multiple injured](http://www.globalsecurity.org/military/library/news/2021/10/mil-211008-presstv07.htm)
+
+
+> Iran Press TV Friday, 08 October 2021 1:20 AM Multiple sailors were injured after a US nuclear attack submarine hit an unknown underwater object in the South China Sea, a report says. "The Seawolf-class fast-attack submarine USS Connecticut (SSN-22) struck an object while submerged on the afternoon of Oct. 2, while operating in international waters in the Indo-Pacific region," a US Pacific Fleet spokesman confirmed to USNI News on Thursday. "The safety of the crew remains the Navy's top priority.
+
+
+***
+[Afghanistan: UN chief condemns 'horrific' attack at Kunduz mosque](http://www.globalsecurity.org/military/library/news/2021/10/mil-211008-unnews01.htm)
+
+
+> 8 October 2021 - At least 100 worshippers have been killed or injured after a suicide bomber targeted a Shia mosque, in the northern Afghan city of Kunduz, according to news reports, during Friday prayers. The UN chief condemned the "horrific" attack "in the strongest terms", noting that it represents the third assault on a religious institution, in less than a week. "Attacks that deliberately target civilians exercising the right to freely practice their religion are violations of fundamental human rights and international humanitarian law", said Secretary-General António Guterres, in a statement released by his Spokesperson.
+
+
