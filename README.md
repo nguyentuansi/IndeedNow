@@ -11159,3 +11159,44 @@
 > Even if you play games on PC, sometimes you just want to use gaming controllers instead of the trusty old keyboard and mouse combo, as they can provide the best experience. Sure, it might depend on the type of game you're playing, or the game specifically.But, chances are many players out there will have at least one game on PC that is simply better suited for gaming controllers. And if you're playing on console, well then that's almost always your best option. For mobile, it's either a controller or touch controls.
 
 
+***
+![FinTech Innovation at California's Newest Financial Regulator Webinar Recap](https://jdsupra-static.s3.amazonaws.com/profile-images/og.7498_4057.jpg "FinTech Innovation at California's Newest Financial Regulator Webinar Recap")
+
+
+[FinTech Innovation at California's Newest Financial Regulator Webinar Recap](https://www.jdsupra.com/legalnews/fintech-innovation-at-california-s-3888963/)
+
+
+> Your first step to building a free, personalized, morning email brief covering pertinent authors and topics on JD Supra: *By using the service, you signify your acceptance of JD Supra's Privacy Policy. - hide - hide
+
+
+***
+[Filmmakers are using AI from companies like Deepdub to create foreign-language versions of their movies using samples of the original actors' voices (Ellen Gamerman/Wall Street Journal)](http://www.techmeme.com/211008/p23#a211008p23)
+
+
+> Ellen Gamerman / Wall Street Journal: Filmmakers are using AI from companies like Deepdub to create foreign-language versions of their movies using samples of the original actors' voices — New technology lets filmmakers create foreign-language versions of their movies using samples of the original actors' voices. No more awkward voiceovers.
+
+
+***
+[Can python be as fast as some other languages?](https://www.reddit.com/r/Python/comments/q4bq4y/can_python_be_as_fast_as_some_other_languages/)
+
+
+> Are there any modules or something that can speed up the language? Feel free to let me know if this is impossible lol. Just wondering
+
+
+***
+![Samsung family to sell 2 trillion won worth of stocks to pay inheritance tax](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/8da32cbb571a4f0ea97f6df0aec57f10.jpg "Samsung family to sell 2 trillion won worth of stocks to pay inheritance tax")
+
+
+[Samsung family to sell 2 trillion won worth of stocks to pay inheritance tax](https://www.koreatimes.co.kr/www/tech/2021/10/133_316733.html)
+
+
+> Samsung Electronics building in Seocho-dong, southern Seoul / YonhapThe family of late Samsung Group Chairman Lee Kun-hee plans to sell stakes in group affiliates worth 2 trillion won (US$1.6 billion) to pay inheritance taxes, regulatory filings showed Saturday.Hong Ra-hee, the widow of the late business tycoon who died in October last year, plans to sell 19.9 million shares in Samsung Electronics Co., which were estimated at 1.4 trillion won as of Friday's closing price, according to the regulatory filing.
+
+
+***
+[TSMC Enjoys Record Quarterly Sales on Extended Global Chip Shortage](http://www.tmtpost.com/5752248.html)
+
+
+> A day before TSMC announced sales in the third quarter, Samsung, whose foundry business is just behind TSMC in the world, posted highest ever quarterly sales as well.
+
+
