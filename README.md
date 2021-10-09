@@ -11538,3 +11538,50 @@
 > After four weeks of the NFL season, only one team remains undefeated. Led by MVP candidate Kyler Murray, the Arizona Cardinals are 4-0 and sit in first place in the loaded NFC West division. After the Rams took care of the Seahawks on Thursday night, the Cardinals will play a division game of their own on Sunday when they take on the 49ers at 1:25 p.m. PT (4:25 p.m. ET) on Fox. That is just one game in a full slate of Sunday football as we hit the last week before "byes" begin. Opening the day will be the Jets and Falcons at 6:30 a.
 
 
+***
+![This Week in Apps: Facebook outage boosts rivals, Apple's best and worst apps, ‘Report a Problem' returns to App Store – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753 "This Week in Apps: Facebook outage boosts rivals, Apple's best and worst apps, ‘Report a Problem' returns to App Store – TechCrunch")
+
+
+[This Week in Apps: Facebook outage boosts rivals, Apple's best and worst apps, ‘Report a Problem' returns to App Store – TechCrunch](https://techcrunch.com/2021/10/09/this-week-in-apps-facebook-outage-boosts-rivals-apples-best-and-worst-apps-report-a-problem-returns-to-app-store/)
+
+
+> Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consumer spend in 2020. Consumers last year also spent 3.5 trillion minutes using apps on Android devices alone. And in the U.S., app usage surged ahead of the time spent watching live TV. Currently, the average American watches 3.7 hours of live TV per day, but now spends four hours per day on their mobile devices.
+
+
+***
+[Deontay Wilder vs Tyson Fury 3: Live Reddit HD Free Stream](https://filmdaily.co/tech/deontay-wilder-vs-tyson-fury-3-live-reddit-hd-free-stream/)
+
+
+> You need to know about Tyson Fury vs. Deontay Wilder 3 full fight, Watch Wilder vs Fury Live free Streams Online Fight Card. ppv boxing. The post Deontay Wilder vs Tyson Fury 3: Live Reddit HD Free Stream appeared first on Film Daily.
+
+
+***
+![How to set up Filebeat and Logstash with Elasticsearch and Elastic Cloud?](https://external-preview.redd.it/IWf3zeQAp0dv4JRXj9vYvD64k2DriLxNS196EBF5XcI.jpg?auto=webp&s=5fdbedef594dad160103b96e7514457dc2bd4337 "How to set up Filebeat and Logstash with Elasticsearch and Elastic Cloud?")
+
+
+[How to set up Filebeat and Logstash with Elasticsearch and Elastic Cloud?](https://www.reddit.com/r/programming/comments/q4pw1r/how_to_set_up_filebeat_and_logstash_with/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![How to enter Low Power Mode automatically on iPhone](https://helios-i.mashable.com/imagery/articles/06tNQLJpiGC8C3F5aQ9af2b/hero-image.fill.size_1200x675.v1633800607.jpg "How to enter Low Power Mode automatically on iPhone")
+
+
+[How to enter Low Power Mode automatically on iPhone](https://mashable.com/article/how-to-enter-low-power-mode-automatically-on-iphone)
+
+
+> Typically, when your iPhone dips below a 20 percent charge, it goes into Low Power Mode. This reduces or at least impacts some features (such as automatic downloads and 5G) in an attempt to save whatever battery life is left.You can enter Low Power Mode at any time though, and can even turn it on automatically. Here's how to do it.First, go to the Shortcuts app and tap Automation in the bottom center. If you've never created an automation before, you'll see this screen: Automation screen in the Shortcuts app.
+
+
+***
+![Simple and Fast OCR service!](https://external-preview.redd.it/JoM8spGyrSQQDEOSmRLPNyjN5MGA7VZneAj8SwDwqZU.jpg?auto=webp&s=98c4228609a2cfc08de941d55c94894f14948c02 "Simple and Fast OCR service!")
+
+
+[Simple and Fast OCR service!](https://www.reddit.com/r/Python/comments/q4ps43/simple_and_fast_ocr_service/)
+
+
+> Hey! u/everyone.I have build a simple and lightweight OCR service using Flask/Gunicorn/Nginx stack.I would really appreciate you review.And feel free to contribute to the projectI know it's not an UNIQUE project but my main goal is to make a fast and less resource intensive OCR web service.Github Repo. | Live Demo
+
+
