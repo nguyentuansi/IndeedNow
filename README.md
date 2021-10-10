@@ -12151,3 +12151,50 @@
 > When telescopes like Hubble peer out into the cosmos, they can sometimes sneak a view of very distant objects using a phenomenon called gravitational lensing. This is where a massive object like a galaxy passes between a distant object and Earth, and the gravity of this intermediate object warps spacetime and acts as a magnifying glass. This allows astronomers to glimpse objects which would otherwise be too faint and far away to be visible. But sometimes these phenomena result in strange outcomes, like an oddity spotted by Hubble in 2013 which appeared to be two objects that were perfect mirror images of each other.
 
 
+***
+![Birmingham's auto tax zone has been criticized by a driver who was penalised despite paying.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Birmingham's auto tax zone has been criticized by a driver who was penalised despite paying.")
+
+
+[Birmingham's auto tax zone has been criticized by a driver who was penalised despite paying.](https://en.brinkwire.com/technology/birminghams-auto-tax-zone-has-been-criticized-by-a-driver-who-was-penalised-despite-paying/)
+
+
+> Birmingham's auto tax zone has been criticized by a driver who was penalised despite paying. A DRIVER has expressed her dissatisfaction after receiving a fine for driving within Birmingham's Clean Air Zone despite paying on time. Corinna Silver thought she had followed all the rules, only to be hit with a £120 penalty charge notice (PCN). She has a receipt indicating that she paid the amount, and she believes that many more people could be affected by the same payment system 'flaw.' In June 2021, Birmingham's Clean Air Zone (CAZ) was established in an effort to minimize hazardous nitrogen dioxide levels.
+
+
+***
+[HTTPie and Print HTTP Request](https://www.reddit.com/r/Python/comments/q5f1w6/httpie_and_print_http_request/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Toyota Mirai (2021) review: comfortable and competent, but a hydrogen headache](https://cdn.mos.cms.futurecdn.net/hP4jgDKoTeeusetXmj6oBA-1200-80.jpg "Toyota Mirai (2021) review: comfortable and competent, but a hydrogen headache")
+
+
+[Toyota Mirai (2021) review: comfortable and competent, but a hydrogen headache](https://www.techradar.com/news/toyota-mirai-2021-review)
+
+
+> Back in 2018, we drove Toyota's first generation Mirai hydrogen fuel-cell electric vehicle (FCEV) alongside MrMobile, and while the technology was interesting, the car was uninspiring to drive, and refueling was a major challenge - even in hydrogen friendly California.Basically, while the original Mirai got the job done, it was nothing more than an overpriced and compromised hydrogen-powered Toyota Corolla. Fast forward to 2021, and Toyota's second generation Mirai hydrogen FCEV is upon us, with sharp new looks, a lower price, a better platform, more range, and updated technology.
+
+
+***
+![Skip the wait to download Windows 11: How to get Microsoft's new OS now](https://www.cnet.com/a/img/Zlhst7zdVp5OSd9MLZQ15ST8uQs=/1200x630/2021/06/24/e58fceb6-e7c1-40fb-bf6d-b29e81f9a713/screen-shot-2021-06-24-at-11-45-41-am-2.png "Skip the wait to download Windows 11: How to get Microsoft's new OS now")
+
+
+[Skip the wait to download Windows 11: How to get Microsoft's new OS now](https://www.cnet.com/tech/services-and-software/skip-the-wait-to-download-windows-11-how-to-get-microsofts-new-os-now/)
+
+
+> Windows 11 is here, and it's free to download for Windows 10 users. Microsoft Windows 11 kicked off its wide rollout last week, with Microsoft launching its new operating system and starting the rollout to eligible devices on Oct. 5. The upgrade is free to everyone already using Windows 10. Note that Microsoft is rolling out the OS in phases, so your system might not show the option to upgrade just yet. An August blog post from Microsoft said the company expects "all eligible devices to be offered the free upgrade to Windows 11 by mid-2022.
+
+
+***
+![I made a library to interact with gmail](https://external-preview.redd.it/LhGqMP44Wko37Wo44ps5_Sj7uq0bD7hPGq9qQhD6OVk.jpg?auto=webp&s=a4e30ed6b120476187637933aec633746355ce3f "I made a library to interact with gmail")
+
+
+[I made a library to interact with gmail](https://www.reddit.com/r/Python/comments/q5etll/i_made_a_library_to_interact_with_gmail/)
+
+
+> I made that library https://github.com/dylandoamaral/ggmail for my personal projects. The purpose is to manage a gmail account without any overhead. Since I didn't find any libraries that fulfill my needs, I made that one.I tried as much as possible to have a clean repo, with documentations, tests and docstrings. Feel free to raise issues or to contribute if you find it cool.
+
+
