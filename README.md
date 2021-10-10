@@ -11810,3 +11810,47 @@
 > (Last edited: January 9, 2018) Recently disclosed documents show that the NSA's fourth-largest cable tapping program, codenamed INCENSER, pulls its data from just one single source: a submarine fiber optic cable linking Asia with Europe. Until now, it was only known that INCENSER was a sub-program of WINDSTOP and that it collected some 14 billion pieces of internet data a month. The latest revelations now say that these data were collected with the help of the British company Cable & Wireless (codenamed GERONTIC, now part of Vodafone) at a location in Cornwall in the UK, codenamed NIGELLA.
 
 
+***
+![China is cutting its tech giants down to size. Should the west learn from this?](https://external-preview.redd.it/72Enwk1c-kFiEcTQoosAauDniLP3g0IwxEhyW-T3ads.jpg?auto=webp&s=3b42115447f97a0a9ae5c4a96c9cc827acae9458 "China is cutting its tech giants down to size. Should the west learn from this?")
+
+
+[China is cutting its tech giants down to size. Should the west learn from this?](https://www.reddit.com/r/technology/comments/q51k1t/china_is_cutting_its_tech_giants_down_to_size/)
+
+
+> No body in the article.
+
+
+***
+![YouTube doubles down on accessibility with these caption and audio features](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/youtube-lifestyle-01.jpg "YouTube doubles down on accessibility with these caption and audio features")
+
+
+[YouTube doubles down on accessibility with these caption and audio features](https://www.androidcentral.com/youtube-accessibility-features-live-auto-caption-and-audio)
+
+
+> Source: Chris Wedel / Android Central YouTube has announced a bunch of new caption and audio capabilities meant to improve its accessibility. The platform's live auto captions feature is now live for all creators. A slate of upcoming audio and caption features are also set for launch later this year. YouTube has lifted previous limitations to its accessibility features for live streams with new improvements for its caption and audio capabilities, along with more features meant to make content more accessible to all types of viewers.
+
+
+***
+![OnePlus 9RT vs OnePlus 9R: All the big rumoured differences between two phones](https://images.indianexpress.com/2021/10/OnePlus-9RT-2.jpg "OnePlus 9RT vs OnePlus 9R: All the big rumoured differences between two phones")
+
+
+[OnePlus 9RT vs OnePlus 9R: All the big rumoured differences between two phones](https://indianexpress.com/article/technology/mobile-tabs/oneplus-9rt-vs-oneplus-9r-whats-expected-to-change-7563169/)
+
+
+> The OnePlus 9RT is expected to launch next week in China and could sooner or later, also make a debut in India. The new phone is the only T-series device we're getting this year as OnePlus shut down all rumours of a 9T and 9T Pro last month. However, with the 9RT coming merely months after the OnePlus 9R, what new specs is the brand exactly putting on the table? Moreover, what can users expect on the software front with the brand's ongoing partnership with Oppo? We'll try to answer these questions today.
+
+
+***
+[Technical Patterns Show AUDUSD Risks New 2014 High](https://forextv.com/aud-australian-dollar/technical-patterns-show-audusd-risks-new-2014-high/)
+
+
+> The Current Technical Juncture for AUDUSD From April 2013 to January 2014, AUD was having a hard time finding any long-term buyers. There was a strong bear-market rally from August to October … Read Full Story at source (may require registration) The post Technical Patterns Show AUDUSD Risks New 2014 High appeared first on ForexTV.
+
+
+***
+[Brazil-based Favo, a social commerce startup focused on groceries, raises $26.5M Series A led by Tiger Global, bringing its total raised to $37M (Christine Hall/TechCrunch)](http://www.techmeme.com/211010/p1#a211010p1)
+
+
+> Christine Hall / TechCrunch: Brazil-based Favo, a social commerce startup focused on groceries, raises $26.5M Series A led by Tiger Global, bringing its total raised to $37M — Favo, a Brazilian social commerce platform, closed on $26.5 million in Series A funding to continue developing its app that takes grocery orders through local social networks.
+
+
