@@ -11716,3 +11716,47 @@
 > Hey all! Unsure if this is beginner or intermediate showcase on account of CI/OOP/PyTest but regardless...For my Uni module I'm required to manually validate all HTML using w3c's html validator gui... which is great and dandy but I've been doing DevOps for a while and know there's a better way.So I knocked together some simple Python classes using urllib, pathlib, and json that will:recursively search a directory for all html filesfeed them into an array of file handlers that then...... reads html into bytes and fire at w3 validator API .
 
 
+***
+![Best cheap gaming laptop deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/11th-gen-intel-gaming-laptops.jpg "Best cheap gaming laptop deals for October 2021")
+
+
+[Best cheap gaming laptop deals for October 2021](https://www.digitaltrends.com/dtdeals/best-cheap-gaming-laptop-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. This laptop is a great option for a gaming upgrade. With its spacious 15-inch display, GRX 1650 graphics, and Ryzen 5 processor, it will be able to handle all but the most demanding of tasks. more The best device for work and play is one with swift hardware and a screen that's comfortable to sit in front of for hours. With these specs, the all-new Inspiron 16 laptop is perfect for the job. more The HP Pavilion is a great entry-level gaming laptop.
+
+
+***
+[[Tool][Windows] Clean Your Desktop (No imports needed)](https://www.reddit.com/r/Python/comments/q4yx3p/toolwindows_clean_your_desktop_no_imports_needed/)
+
+
+> import os from datetime import date import shutil desktop = 'C:\\Users\\Admin\\Desktop' newFolder = date.today() path = os.path.join(desktop, str(newFolder)) os.mkdir(path) desktop_files = [] for eachFile in os.listdir(desktop): desktop_files.append(eachFile) for file in desktop_files: shutil.move(desktop+'\\'+file, path)
+
+
+***
+[任天堂改不了 Joy-Con 痼疾，OLED 版 Switch 仍可能出現控制器飄移](https://ccc.technews.tw/2021/10/10/joy-con-oled-switch/)
+
+
+> 如果你是任天堂（Nintendo）Switch 的玩家就會知道，該遊戲機所搭配使用的控制器 Joy-Con 一 […]
+
+
+***
+![Read that link carefully: Scammers scoop up misspelled cryptocurrency URLs to rob your wallet](https://external-preview.redd.it/0KaFri9nbjfSUO7JwqgNCh3bQ_OsPNFgG4Cfi8B7bho.jpg?auto=webp&s=5455ba19fb8bacdbb23abd42ef81b4eeddfd46d3 "Read that link carefully: Scammers scoop up misspelled cryptocurrency URLs to rob your wallet")
+
+
+[Read that link carefully: Scammers scoop up misspelled cryptocurrency URLs to rob your wallet](https://www.reddit.com/r/technology/comments/q4ytdc/read_that_link_carefully_scammers_scoop_up/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Woman's disturbing find in $3 top](https://content.api.news/v3/images/bin/da78a3611e4b212deb7448ebef341bcf "Woman's disturbing find in $3 top")
+
+
+[Woman's disturbing find in $3 top](https://www.heraldsun.com.au/technology/online/womans-disturbing-find-in-3-top/video/dff53a12b2aa04f18c987f327f588fc7)
+
+
+> My NewsLocalVictoriaNationalCrime in FocusBehind the ScenesCold CasesPolice TapeOur Criminal HistoryWorldOpinionBusinessEntertainmentLifestyleSport
+
+
