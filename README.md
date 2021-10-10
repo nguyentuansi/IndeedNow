@@ -12004,3 +12004,50 @@
 > Having dispatched the Rams in clinical fashion last weekend, Kyler Murray and co will be looking to once again underline their growing reputation as the league's team to beat. Read on for full details on how to watch 49ers vs Cardinals, no matter where you are in the world. The 49ers will be hoping for more of the same from Murray, who completed 24 of his 32 passes for 268 yards, with two touchdowns, adding a further 39 yards on the ground, ensuring Arizona hold the mantle as the lone unbeaten team in the NFL.
 
 
+***
+![Protect Your GitHub Actions with Semgrep](https://external-preview.redd.it/J-dGM67ptJT7BJDHLnVAw_Kq0Dw6kFmdQyBt44GaZGw.jpg?auto=webp&s=57f5292c54d7edb391c6fd71d7ebdc8167273a08 "Protect Your GitHub Actions with Semgrep")
+
+
+[Protect Your GitHub Actions with Semgrep](https://www.reddit.com/r/programming/comments/q58aaw/protect_your_github_actions_with_semgrep/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![The best monitors for 2021](https://icdn.digitaltrends.com/image/digitaltrends/dsc01068-2.jpg "The best monitors for 2021")
+
+
+[The best monitors for 2021](https://www.digitaltrends.com/computing/best-computer-monitors/)
+
+
+> If you're shopping for an all-around display, we highly recommend the Dell P2720DC monitor. It looks fantastic, comes at an affordable price like many of the budget monitors out there, and has a handy USB-C connection. Our reviewers, who've tested and reviewed more than 100 monitors over the years, find little fault in it. However, if you have something more specific in mind, like a great 4K display, or something more suited for gaming, we've got you covered below. We've also found the best desktop monitor deals and plenty of cheap gaming monitors if you're working with a tight budget.
+
+
+***
+[Tools You Should Know About: Terraform](https://www.reddit.com/r/programming/comments/q584j0/tools_you_should_know_about_terraform/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![More OnePlus 9RT and OnePlus Buds Z2 details appear before launch day](https://cdn.mos.cms.futurecdn.net/WBt2NZa3spuvGNFWGjSPZ5-1200-80.jpg "More OnePlus 9RT and OnePlus Buds Z2 details appear before launch day")
+
+
+[More OnePlus 9RT and OnePlus Buds Z2 details appear before launch day](https://www.techradar.com/news/more-oneplus-9rt-and-oneplus-buds-z2-details-appear-before-launch-day)
+
+
+> The OnePlus 9R. (Image credit: Aakash Jhaveri) We know that the OnePlus 9RT and the OnePlus Buds Z2 are getting their official unveiling on October 13, and as that date draws closer, we've got a mix of confirmed details and unconfirmed leaks to share before the big day.OnePlus has confirmed (via GSMArena) that the OnePlus 9RT will indeed run on the Qualcomm Snapdragon 888 processor, as expected. We also now know it'll have top-end LPDDR5 RAM and UFS 3.1 internal flash storage, as well as a 120Hz display.
+
+
+***
+![Don't wait for the Windows 11 download: How to get Microsoft's update right now](https://www.cnet.com/a/img/Zlhst7zdVp5OSd9MLZQ15ST8uQs=/1200x630/2021/06/24/e58fceb6-e7c1-40fb-bf6d-b29e81f9a713/screen-shot-2021-06-24-at-11-45-41-am-2.png "Don't wait for the Windows 11 download: How to get Microsoft's update right now")
+
+
+[Don't wait for the Windows 11 download: How to get Microsoft's update right now](https://www.cnet.com/tech/services-and-software/dont-wait-for-the-windows-11-download-how-to-get-microsofts-update-right-now/)
+
+
+> Windows 11 is here, and it's free to download for Windows 10 users. Microsoft Windows 11 kicked off its wide rollout on last week, with Microsoft launching its new operating system and starting the rollout to eligible devices on Oct. 5. The upgrade is free to everyone already using Windows 10. Note that Microsoft is rolling out the OS in phases, so your system might not show the option to upgrade just yet. An August blog post from Microsoft said the company expects "all eligible devices to be offered the free upgrade to Windows 11 by mid-2022.
+
+
