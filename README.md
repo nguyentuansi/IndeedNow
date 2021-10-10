@@ -12198,3 +12198,50 @@
 > I made that library https://github.com/dylandoamaral/ggmail for my personal projects. The purpose is to manage a gmail account without any overhead. Since I didn't find any libraries that fulfill my needs, I made that one.I tried as much as possible to have a clean repo, with documentations, tests and docstrings. Feel free to raise issues or to contribute if you find it cool.
 
 
+***
+![iPhone 13 vs. iPhone 13 Mini: Apple's smaller smartphone doesn't have me convinced](https://www.cnet.com/a/img/FiamE7glqyENuOKjRCXdL6TGAHA=/1200x630/2021/09/21/a41e96a6-ee50-4ab2-8c5b-d72b226e125c/iphone-13-mini-cnet-review-2021-108.jpg "iPhone 13 vs. iPhone 13 Mini: Apple's smaller smartphone doesn't have me convinced")
+
+
+[iPhone 13 vs. iPhone 13 Mini: Apple's smaller smartphone doesn't have me convinced](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-13-mini-apples-smaller-smartphone-doesnt-have-me-convinced/)
+
+
+> Sarah Tew/CNET After years of phones getting larger, Apple has once again taken the opposite direction by launching another small iPhone. The $699 iPhone 13 Mini is the cheapest device in Apple's new iPhone 13 lineup, and it comes with a 5.4-inch screen just like last year's iPhone 12 Mini.It's still best to think of this device as a shrunken-down version of Apple's flagship iPhone. Both the iPhone 13 and iPhone 13 Mini have the same A15 Bionic processor, 5G support, MagSafe compatibility and a dual-lens camera system with new features like Cinematic mode and Photographic Styles.
+
+
+***
+[Facebook unveils new controls for children](https://thenewdaily.com.au/life/tech/2021/10/11/facebook-controls-children/)
+
+
+> In the aftermath of damning testimony that its platforms harm children, Facebook plans to introduce several features to protect young people. These would include prompting teens to take a break … Continued The post Facebook unveils new controls for children appeared first on The New Daily.
+
+
+***
+![Wet week predicted for Brisbane, Sydney, ACT and Melbourne](https://images.perthnow.com.au/publication/C-4202197/e73c64656e699dbfbb9877b12bc2907cd35a7ef6-16x9-x0y107w1138h640.jpg?imwidth=1200 "Wet week predicted for Brisbane, Sydney, ACT and Melbourne")
+
+
+[Wet week predicted for Brisbane, Sydney, ACT and Melbourne](https://www.news.com.au/technology/environment/wet-week-predicted-for-brisbane-sydney-act-and-melbourne/news-story/54d28b3a3ef33e79f7e79492b0b9995d)
+
+
+> Australia's east coast will be soaked with rain that is forecast to last until Friday, with Brisbane, Sydney and Melbourne among the cities that are in for a wet week.Northeastern NSW will be one of the hardest-hit areas, with the Northern Rivers region set to be drenched with up to 100mm or 'more than a month's worth of rain in the space of a few days' according to the Bureau of Meteorology.Regions including Byron, Ballina, Tweed and Lismore will cop the brunt of the rain.'In that area we typically see an average monthly rainfall of about 50mm, but this week we will see a total of 100mm which is a massive downpour,' duty meteorologist Hugh McDowell told NCA NewsWire.
+
+
+***
+![‘IT'S GOING TO HAVE AN IMPACT': Map reveals our troubling future](https://content.api.news/v3/images/bin/e7b131085b475d2917842f8df767db70 "‘IT'S GOING TO HAVE AN IMPACT': Map reveals our troubling future")
+
+
+[‘IT'S GOING TO HAVE AN IMPACT': Map reveals our troubling future](https://www.news.com.au/technology/environment/climate-change/australias-average-summertime-temperatures-set-to-soar/news-story/b08ebccecb179dfda29d2405610e8ed6)
+
+
+> A frightening picture of Australia's future has emerged with new analysis showing average summer temperatures soaring by as much as 2C.New analysis has painted a frightening future for Australians if the world does not get emissions down before 2050 with average summer temperatures soaring by as much as 2C in about 30 years. The research provided to news.com.au exclusively by the Monash Climate Change Communication Research Hub has allowed Australians to see how conditions could change in almost every local government area (LGA) across the country by 2041-2060, compared to average simulated temperatures in 1986-2005.
+
+
+***
+![Install VS Code on Arch Linux](https://external-preview.redd.it/6n-BCPFOiiMpvI5XYkVzIW4FvLMXpajIcxLvbvNmKC8.jpg?auto=webp&s=0eb41a4103a2fa0c391495dcc33a4f01de256e8d "Install VS Code on Arch Linux")
+
+
+[Install VS Code on Arch Linux](https://www.reddit.com/r/programming/comments/q5hg7i/install_vs_code_on_arch_linux/)
+
+
+> no comments yetBe the first to share what you think!
+
+
