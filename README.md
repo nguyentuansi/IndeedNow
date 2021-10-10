@@ -11760,3 +11760,53 @@
 > My NewsLocalVictoriaNationalCrime in FocusBehind the ScenesCold CasesPolice TapeOur Criminal HistoryWorldOpinionBusinessEntertainmentLifestyleSport
 
 
+***
+![Australia mulls measures making social media giants responsible for defamatory postings](https://assets2.rappler.com/2021/10/australia-twitter-facebook-ls-1633838429177.jpg "Australia mulls measures making social media giants responsible for defamatory postings")
+
+
+[Australia mulls measures making social media giants responsible for defamatory postings](https://www.rappler.com/technology/social-media/australia-measures-making-social-media-giants-responsible-defamatory-postings)
+
+
+> The Australian government is considering a range of measures that would make social media companies more responsible for defamatory material published on their platforms, Communications Minister Paul Fletcher said on Sunday, October 10. "We expect a stronger position from the platforms," Fletcher said in an interview on the Australian Broadcasting Corp. "For a long time, they've been getting away with not taking any responsibility in relation to content published on their sites." Intensifying a debate over the country's libel and defamation laws, Prime Minister Scott Morrison on Thursday called social media "a coward's palace," saying platforms should be treated as publishers when defamatory comments by unidentified people are posted.
+
+
+***
+![Tech Q&A: Ways to avoid the trackers that follow you online](https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg "Tech Q&A: Ways to avoid the trackers that follow you online")
+
+
+[Tech Q&A: Ways to avoid the trackers that follow you online](https://www.unionleader.com/nh/lifestyles/tech-q-a-ways-to-avoid-the-trackers-that-follow-you-online/article_77624148-f33d-5ec4-9a93-1a6f9c1e1d8b.html)
+
+
+> Contact Steve Alexander at steve.j.alexander@gmail.com. Please include a full name, city and phone number.
+
+
+***
+![What happened to Continuous Feedback](https://external-preview.redd.it/elojH3A0Hn7kgdTmO27qrJvrovE8ZSa0mbCaTgL9224.jpg?auto=webp&s=5a2a5829125fe7d0a74aae9c19d0a9a4fcea7de4 "What happened to Continuous Feedback")
+
+
+[What happened to Continuous Feedback](https://www.reddit.com/r/programming/comments/q50ge2/what_happened_to_continuous_feedback/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Fury vs Wilder 3 live stream: how to watch for free and anywhere right now](https://cdn.mos.cms.futurecdn.net/pYzwTTEbbjZPLKJ5oiBjs5-1200-80.jpg "Fury vs Wilder 3 live stream: how to watch for free and anywhere right now")
+
+
+[Fury vs Wilder 3 live stream: how to watch for free and anywhere right now](https://www.techradar.com/news/fury-vs-wilder-3-live-stream-how-to-watch-for-free-and-from-anywhere)
+
+
+> It's Tyson Fury and Deontay Wilder going at it one more time, as the boxing world's eyes turn to Las Vegas for the third and final part of the epic trilogy between the Gypsy King and the Bronze Bomber. It's a spectacle even casual fans won't want to miss, so read on as we explain how to watch a Fury vs Wilder 3 live stream wherever you are right now - including where you can watch absolutely free!Fury vs Wilder 3 live streamDate: Saturday, October 9 (Sunday, October 10 in UK)Fury vs Wilder time (approx): 8.
+
+
+***
+![Incenser, or how NSA and GCHQ are tapping internet cables (2014)](https://4.bp.blogspot.com/-LX20GsDSDDU/VIJJ5CSdUDI/AAAAAAAACFI/KzPbD1AzECA/s1600/incenser-cables.jpg "Incenser, or how NSA and GCHQ are tapping internet cables (2014)")
+
+
+[Incenser, or how NSA and GCHQ are tapping internet cables (2014)](https://www.electrospaces.net/2014/11/incenser-or-how-nsa-and-gchq-are.html)
+
+
+> (Last edited: January 9, 2018) Recently disclosed documents show that the NSA's fourth-largest cable tapping program, codenamed INCENSER, pulls its data from just one single source: a submarine fiber optic cable linking Asia with Europe. Until now, it was only known that INCENSER was a sub-program of WINDSTOP and that it collected some 14 billion pieces of internet data a month. The latest revelations now say that these data were collected with the help of the British company Cable & Wireless (codenamed GERONTIC, now part of Vodafone) at a location in Cornwall in the UK, codenamed NIGELLA.
+
+
