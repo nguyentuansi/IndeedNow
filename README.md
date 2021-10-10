@@ -11954,3 +11954,53 @@
 > Putting your TV over a fireplace is a big no-no. John Fedele/Getty Images Brett Pearce/CNET Mounting a TV above a fireplace seems like the most logical spot. It's out of the way, looks nice and is often the most convenient place to put it in a room. However, there are serious issues with such placement.If you're only planning to watch this TV occasionally, then it's probably fine. But if it's your main TV you're going to watch for hours every day, make sure you read about all the potential issues mentioned below.
 
 
+***
+![Paying for a Sky Glass TV is already way too confusing](https://cdn.mos.cms.futurecdn.net/RzzbgtRtJL5b4pFkryUDdh-1200-80.jpg "Paying for a Sky Glass TV is already way too confusing")
+
+
+[Paying for a Sky Glass TV is already way too confusing](https://www.techradar.com/news/paying-for-a-sky-glass-tv-is-already-way-too-confusing)
+
+
+> (Image credit: Sky) The brand new Sky Glass is being billed as a powerful 4K TV, with Sky's excellent programming and hardware expertise to bear – without a satellite dish or additional set-top box needed to access the broadcaster's vast array of content. With a simplicity to its hardware, it appears to offer a 'no fuss' solution for customers that just want to kick back and relax to their favorite shows and films.However, Sky Glass' overabundance of pricing options makes working out the best deal a confusing mess.
+
+
+***
+![The best indoor home security cameras of 2021](https://www.cnet.com/a/img/vI1aDyJSJSO-9QeNjcyWcCmoJr0=/1200x630/2021/10/06/5083f7e3-e1fd-49f8-a75b-8e026597c9b8/20211006-130938.jpg "The best indoor home security cameras of 2021")
+
+
+[The best indoor home security cameras of 2021](https://www.cnet.com/home/security/the-best-indoor-home-security-cameras/)
+
+
+> An indoor security camera can range in price from $20 up to hundreds -- but it may be worth the price if you're worried about keeping an eye one what's going on around your house when you're out.Security cameras come with wildly varying features and capabilities. Like other home security options, such as video doorbells and outdoor cameras, you can opt for specialty features like facial recognition, motion detection, free cloud storage, two-way audio and person alerts. Whether you're trying to deter burglars or just want to review footage of your cat to watch what happens while you're out, there's almost certainly an indoor home security camera that meets your needs.
+
+
+***
+![Supabase (YC S20) Is Hiring SREs to Manage a Fleet of Postgres Databases](https://supabase.io/img/supabase-og-image.png "Supabase (YC S20) Is Hiring SREs to Manage a Fleet of Postgres Databases")
+
+
+[Supabase (YC S20) Is Hiring SREs to Manage a Fleet of Postgres Databases](https://supabase.io/careers/sre)
+
+
+> Supabase is hiring Cloud Platform Engineers and Site Reliability Engineers.Responsibilities#Help build the Supabase Cloud offering.Improve our system architecture to reduce costs while balancing security and performance.Work on designing and tracking metrics for platform uptime.Increase observability into our system by capturing relevant metrics and logs.Implement and maintain intrusion detection, automated remediation and patch management systems.Design CI/CD systems to speed up deploys with proper change and release management processes.
+
+
+***
+![Being James Bond: How 007 movies got me into intelligence work](https://www.cnet.com/a/img/YvVKBL6fww-BT_wJzf2IobpHB_g=/1200x630/center/top/2021/05/04/46c30e77-0099-4ad6-8c5a-6949a9483269/gettyimages-607391676.jpg "Being James Bond: How 007 movies got me into intelligence work")
+
+
+[Being James Bond: How 007 movies got me into intelligence work](https://www.cnet.com/news/being-james-bond-how-007-films-led-me-to-intelligence-work/)
+
+
+> Tiffany Case and James Bond get to know each other in very grown-up ways in Diamonds Are Forever. Getty Images The James Bond movie Diamonds Are Forever begins with a serene view of a Japanese tea room. Then a man crashes through the paper screen and slides across the floor. Bond roughs him up, demanding to know: "Where is Blofeld?" Next scene: A man in a casino tells the dealer, "Hit me." Bond spins him around, punches him in the face and taunts: "Where is he? I shan't ask you politely next time.
+
+
+***
+![How to watch 49ers vs Cardinals: Live stream NFL Sunday Night Football onli](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/images/cover/cover-ac.jpg "How to watch 49ers vs Cardinals: Live stream NFL Sunday Night Football onli")
+
+
+[How to watch 49ers vs Cardinals: Live stream NFL Sunday Night Football onli](https://www.androidcentral.com/49ers-vs-cardinals-live-stream-how-watch-nfl-action-online-anywhere)
+
+
+> Having dispatched the Rams in clinical fashion last weekend, Kyler Murray and co will be looking to once again underline their growing reputation as the league's team to beat. Read on for full details on how to watch 49ers vs Cardinals, no matter where you are in the world. The 49ers will be hoping for more of the same from Murray, who completed 24 of his 32 passes for 268 yards, with two touchdowns, adding a further 39 yards on the ground, ensuring Arizona hold the mantle as the lone unbeaten team in the NFL.
+
+
