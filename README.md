@@ -12051,3 +12051,53 @@
 > Windows 11 is here, and it's free to download for Windows 10 users. Microsoft Windows 11 kicked off its wide rollout on last week, with Microsoft launching its new operating system and starting the rollout to eligible devices on Oct. 5. The upgrade is free to everyone already using Windows 10. Note that Microsoft is rolling out the OS in phases, so your system might not show the option to upgrade just yet. An August blog post from Microsoft said the company expects "all eligible devices to be offered the free upgrade to Windows 11 by mid-2022.
 
 
+***
+![Demon Slayer: Kimetsu no Yaiba](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Demon%20Slayer%20Key%20Art.jpg?itok=GWFFHnKN "Demon Slayer: Kimetsu no Yaiba")
+
+
+[Demon Slayer: Kimetsu no Yaiba](https://techraptor.net/game/demon-slayer-kimetsu-no-yaiba-hinokami-chronicles)
+
+
+> Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles is a fighting video game based on the popular Manga series by Koyoharu Gotouge, as well as the anime series by Ufotable.  Play as series protagonist, the teenaged Tanjiro Kamado, as you go through an adventure mode based on the first season of the anime. Tanjiro must fight to bring transform sister, Nezuko, back to being a human after she is turned into a demon. Then, participate in an old-school style versus mode, feature multiple characters from the anime fighting it out in 1 vs 1 matchups.
+
+
+***
+![Best cheap TV deals and sales for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/vizio-oled-tv.jpg "Best cheap TV deals and sales for October 2021")
+
+
+[Best cheap TV deals and sales for October 2021](https://www.digitaltrends.com/dtdeals/best-4k-tv-deals/)
+
+
+> To take your home theater setup to the next level, there's no better upgrade you can make than to get a new 4K TV. Compared to standard definition TVs, 4K TVs look incredibly sharp and detailed thanks to their much higher resolution. And the good news is that although 4K TVs used to be a pricey option only affordable to a few, today 4K TVs are cheaper than ever and you can save even more by looking out for cheap 4K TV deals like the ones we've collected for you below. Whether you want to watch movies, catch up with your favorite TV shows via streaming services, or play games from your console or PC, one of the best 4K TVs from top brands like Sony and LG will elevate your experience to something special.
+
+
+***
+![Transcript: Chris Krebs on "Face the Nation" on October 10, 2021](https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/18/87c19d8b-390b-41d3-848f-5adec0f07e5b/thumbnail/1200x630/c247b27cd03456a06afb9438fa24680a/0718-ftn-chriskrebs.jpg "Transcript: Chris Krebs on "Face the Nation" on October 10, 2021")
+
+
+[Transcript: Chris Krebs on "Face the Nation" on October 10, 2021](https://www.cbsnews.com/news/transcript-chris-krebs-on-face-the-nation-on-october-10-2021/)
+
+
+> October 10, 2021 / 11:47 AM / CBS News The following is a transcript of an interview with former CISA director Chris Krebs that aired on Sunday, October 10, 2021, on "Face the Nation." MARGARET BRENNNAN: Welcome back to FACE THE NATION. Last week, a former Facebook employee told lawmakers that the company knew its products were harmful to children and teens, stoked political division and spread disinformation. To help explain it all, we now go to CBS News cybersecurity analyst Chris Krebs. Good morning to you.
+
+
+***
+![These are the absolute best games you can play on the PS5](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/spider-man-ps5.jpg "These are the absolute best games you can play on the PS5")
+
+
+[These are the absolute best games you can play on the PS5](https://www.androidcentral.com/best-ps5-games)
+
+
+> Source: Sony While there are thousands of games that can be played on PS5 through PS5 backward compatibility, a lot less are specifically designed for Sony's newest powerhouse. We've rounded up the very best games you can play on PS5 today and split them up by genre so that you can easily browse what interests you most. From RPGs to multiplayer games and free-to-play, we've got you covered. For the purposes of this list, we've tried to stick with newly released games with PS5 versions or games that have been updated to take advantage of its extra power.
+
+
+***
+![Transcript: Dr. Scott Gottlieb on "Face the Nation", October 10, 2021](https://cbsnews2.cbsistatic.com/hub/i/r/2021/09/26/4afac035-5922-4d4b-b91e-754ad6ece1bb/thumbnail/1200x630/e2b2404735422dd840ecdf351bbe718d/screen-shot-2021-09-26-at-12-43-29-pm.png "Transcript: Dr. Scott Gottlieb on "Face the Nation", October 10, 2021")
+
+
+[Transcript: Dr. Scott Gottlieb on "Face the Nation", October 10, 2021](https://www.cbsnews.com/news/transcript-dr-scott-gottlieb-on-face-the-nation-october-10-2021/)
+
+
+> October 10, 2021 / 11:29 AM / CBS News The following is a transcript of an interview with former FDA Commissioner Dr. Scott Gottlieb that aired Sunday, October 10, 2021, on "Face the Nation." MARGARET BRENNAN: Welcome back to FACE THE NATION. We go now to former FDA commissioner Dr. Scott Gottlieb, who also sits on the board of Pfizer and is the author of Uncontrolled Spread: Why COVID 19 Crushed US and How We Can Defeat the Next Pandemic. Doctor, Pfizer applied for emergency approval for children ages five to 11 to be able to get a vaccine.
+
+
