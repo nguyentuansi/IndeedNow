@@ -11904,3 +11904,53 @@
 > TODAY'S BEST DEALSRemember when Sony cameras didn't even offer vloggers so much as an articulating screen? That wasn't long ago, but the Sony ZV-E10 is the latest in a growing line of video-centric Sony cameras that fixes this limitation, while neatly filling a gap between its entry-level (Sony ZV-1) and mid-range (Sony A6100) offerings.Like an A6100 spin-off with a video-tastic bod, the ZV-E10 is effectively two parts old internals and one-part new body, with a dash of souped-up software. What's even better is that this new entry wants to scratch your video itch without going over $1,000/ £1,000/ AUS $1,500 mark.
 
 
+***
+![The burgeoning tech scene in Raleigh, North Carolina, is fueling a sizzling housing market where house hunters offer tens of thousands over asking price to win brutal bidding wars](https://i.insider.com/5f80898aea74820019ca6399?width=1200&format=jpeg "The burgeoning tech scene in Raleigh, North Carolina, is fueling a sizzling housing market where house hunters offer tens of thousands over asking price to win brutal bidding wars")
+
+
+[The burgeoning tech scene in Raleigh, North Carolina, is fueling a sizzling housing market where house hunters offer tens of thousands over asking price to win brutal bidding wars](https://www.businessinsider.com/tech-raleigh-north-carolina-local-real-estate-hot-2021-10)
+
+
+> Aubrey McCarn, a millennial teacher, put an offer over asking price on the very first home she toured in Raleigh, North Carolina, in June.As a hopeful first-time homebuyer navigating a bonkers pandemic-impacted real estate market, she knew she had to be intentional and aggressive. And she wasn't surprised to lose that bidding war."They only ended up showing the home for one day," she told The News and Observer. The property had 20 potential buyers visit the open house, and 15 of the visitors — including McCarn — put in an offer.
+
+
+***
+![Tesla tempted drivers with ‘insane' mode and now is tracking them to judge safety. Experts say it's ludicrous.](https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png "Tesla tempted drivers with ‘insane' mode and now is tracking them to judge safety. Experts say it's ludicrous.")
+
+
+[Tesla tempted drivers with ‘insane' mode and now is tracking them to judge safety. Experts say it's ludicrous.](https://www.washingtonpost.com/technology/2021/10/10/tesla-full-self-driving/)
+
+
+> SAN FRANCISCO — Tesla pioneered driving modes called 'Insane' and 'Ludicrous' that maxed out the cars' acceleration, practically encouraging drag racing. The cars' automated systems have introduced new behaviors, too — some of them impolite, such as not reacting to signaled lane changes, or taking sharp curves at speed. Support our journalism. Subscribe today Now, Tesla wants its drivers to be nice. And it started testing them on it late last month.Tesla is expanding its Full Self-Driving software beta this month, the most advanced suite of Tesla's driver-assistance features.
+
+
+***
+!['This PC can't run Windows 11': How to fix the pesky installation error](https://www.cnet.com/a/img/JWb-2Dv0cpU6T_yq1Dwe-U8NryY=/1200x630/2021/10/04/ed59e244-502e-4250-81eb-30ea2fd212e6/acer-aspire-vero-15.jpg "'This PC can't run Windows 11': How to fix the pesky installation error")
+
+
+['This PC can't run Windows 11': How to fix the pesky installation error](https://www.cnet.com/tech/computing/this-pc-cant-run-windows-11-how-to-fix-the-pesky-installation-error/)
+
+
+> If you saw that your PC is not compatible with Windows 11, it may be because your system doesn't have two security settings turned on, Secure Boot and TPM 2.0. Here's how to do it. Sarah Tew/CNET Microsoft started a phased rollout of Windows 11 Tuesday. But you probably won't get Windows 11 just yet. If you're planning on downloading the new OS on your existing PC, you might run into some speed bumps due to the system requirements for the new operating system. (Here's how to download Windows 11 and how to create a Windows 11 install drive.
+
+
+***
+![Samsung Galaxy S22 Ultra dummy unit shows off the phone's new design](https://cdn.mos.cms.futurecdn.net/ujSAspccrZAtvrSWh6CZFS-1200-80.jpg "Samsung Galaxy S22 Ultra dummy unit shows off the phone's new design")
+
+
+[Samsung Galaxy S22 Ultra dummy unit shows off the phone's new design](https://www.techradar.com/news/samsung-galaxy-s22-ultra-dummy-unit-shows-off-the-phones-new-design)
+
+
+> The Samsung Galaxy S21 Ultra. (Image credit: Aakash Jhaveri) With the Apple iPhone 13 now out and the Google Pixel 6 about to launch, it'll soon be all eyes on Samsung for the arrival of the Galaxy S22 series of phones – and a new leak gives us more evidence of the redesign that appears to be on the way for the Ultra model.A dummy unit of the Galaxy S22 Ultra revealed by Italian outlet CoverPigtou and tipster @xleaks7 shows the P-shaped rear camera module that we've seen in previous leaks, as well as the flat design for the top and bottom of the phone.
+
+
+***
+![Don't mount your TV above the fireplace: It's one of the worst places for it](https://www.cnet.com/a/img/Qdx6Way7KjBmm8Q-5yhHNEkqtmA=/1200x630/2021/09/09/9ad39427-4090-4e6a-a3c0-c7fec2d9eb31/gettyimages-1142884208.jpg "Don't mount your TV above the fireplace: It's one of the worst places for it")
+
+
+[Don't mount your TV above the fireplace: It's one of the worst places for it](https://www.cnet.com/tech/home-entertainment/dont-mount-your-tv-above-the-fireplace-its-one-of-the-worst-places-for-it/)
+
+
+> Putting your TV over a fireplace is a big no-no. John Fedele/Getty Images Brett Pearce/CNET Mounting a TV above a fireplace seems like the most logical spot. It's out of the way, looks nice and is often the most convenient place to put it in a room. However, there are serious issues with such placement.If you're only planning to watch this TV occasionally, then it's probably fine. But if it's your main TV you're going to watch for hours every day, make sure you read about all the potential issues mentioned below.
+
+
