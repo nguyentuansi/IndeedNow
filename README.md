@@ -11676,3 +11676,43 @@
 > A real estate agent's failure to use an apostrophe in a Facebook post could cost him dearly after a court declined to dismiss the case against him on the basis … Continued The post Social media slanders: A missing apostrophe could cost a fortune in damages appeared first on The New Daily.
 
 
+***
+![Mike Majlak Net Worth 2021: his YouTube Earnings Revealed!](https://techiegamers.com/wp-content/uploads/2021/10/mike-majlak-wealth.jpg "Mike Majlak Net Worth 2021: his YouTube Earnings Revealed!")
+
+
+[Mike Majlak Net Worth 2021: his YouTube Earnings Revealed!](https://techiegamers.com/mike-majlak-net-worth/)
+
+
+> Mike Majlak is a YouTuber and entrepreneur with a net worth of $1.5 million as of 2021. Born in Milford Connecticut, he now lives in Los Angeles, California.YouTube has quickly become one of the largest social media platforms for podcasting and those who want to share their personal life's. Many of these YouTube influencers can earn six or seven figures each year. Mike Majlak is a man who knows how to play the YouTube game. He is now a deep-pocketed internet celebrity and became famous after featuring on Logan Paul's podcast show 'Impaulsive'.
+
+
+***
+![How To Skip 'Hey Google' With Quick Phrases For Calls & Alarms](https://static1.srcdn.com/wordpress/wp-content/uploads/2021/10/Android-Phone-Being-Held-In-One-Hand-Google-Assitant-On-Screen.jpg "How To Skip 'Hey Google' With Quick Phrases For Calls & Alarms")
+
+
+[How To Skip 'Hey Google' With Quick Phrases For Calls & Alarms](https://screenrant.com/skip-hey-google-android-quick-phrases-enable-how/)
+
+
+> Once set up, Google Assistant's Quick Phrases allows an Android user to answer a call or stop an alarm while speaking only a single word. Google Assistant now allows Android phone users to skip the usual 'Hey Google' in some cases. Known as Quick Phrases, this capability is designed to work with phone calls and alarms, two things that are time-sensitive and can benefit from a faster way to let the phone know what to do. Here's how it works and how to enable the feature. Google Assistant is, of course, built into most Android phones, along with some smart speakers, and smartwatches.
+
+
+***
+![Scam alert: Don't fall for this Facebook Marketplace trick](https://www.komando.com/wp-content/uploads/2021/10/facebook-marketplace-scam-970x546.jpg "Scam alert: Don't fall for this Facebook Marketplace trick")
+
+
+[Scam alert: Don't fall for this Facebook Marketplace trick](https://www.komando.com/social-media/facebook-marketplace-scam/811187/)
+
+
+> Dangerous scam making its way through Facebook Marketplace. Here are some signs that you're about to be ripped off.
+
+
+***
+![W3C HTML Validation with Python](https://external-preview.redd.it/viPGo49WtJVJR4MgFs0ylhlTRR13wIQNMG4nI3Nc__E.jpg?auto=webp&s=8ddc8e4d21c3b0ca90a9edf1b0dce8a2588135f6 "W3C HTML Validation with Python")
+
+
+[W3C HTML Validation with Python](https://www.reddit.com/r/Python/comments/q4wvsg/w3c_html_validation_with_python/)
+
+
+> Hey all! Unsure if this is beginner or intermediate showcase on account of CI/OOP/PyTest but regardless...For my Uni module I'm required to manually validate all HTML using w3c's html validator gui... which is great and dandy but I've been doing DevOps for a while and know there's a better way.So I knocked together some simple Python classes using urllib, pathlib, and json that will:recursively search a directory for all html filesfeed them into an array of file handlers that then...... reads html into bytes and fire at w3 validator API .
+
+
