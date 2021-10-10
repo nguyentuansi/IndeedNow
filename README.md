@@ -12101,3 +12101,53 @@
 > October 10, 2021 / 11:29 AM / CBS News The following is a transcript of an interview with former FDA Commissioner Dr. Scott Gottlieb that aired Sunday, October 10, 2021, on "Face the Nation." MARGARET BRENNAN: Welcome back to FACE THE NATION. We go now to former FDA commissioner Dr. Scott Gottlieb, who also sits on the board of Pfizer and is the author of Uncontrolled Spread: Why COVID 19 Crushed US and How We Can Defeat the Next Pandemic. Doctor, Pfizer applied for emergency approval for children ages five to 11 to be able to get a vaccine.
 
 
+***
+![How to watch Blue Origin launch William Shatner and others to space this week](https://icdn.digitaltrends.com/image/digitaltrends/blue-origin-first-human-flight-l0-new-shepard-launch1.jpg "How to watch Blue Origin launch William Shatner and others to space this week")
+
+
+[How to watch Blue Origin launch William Shatner and others to space this week](https://www.digitaltrends.com/news/blue-origin-shatner-livestream/)
+
+
+> This week, space tourism company Blue Origin will be launching a short flight to space and back featuring a very special crew member: Actor William Shatner, aka Star Trek's Captain Kirk. The launch will be streamed on Wednesday, October 13, and you can watch along live at home. What to expect from the launch New Shepard lifts off from Launch Site One in West Texas for the NS-16 mission on July 20, 2021. Blue Origin Blue Origin's New Shepard spacecraft will be launched from Launch Site One in West Texas in a mission dubbed NS-18.
+
+
+***
+![Standard for online courses](https://external-preview.redd.it/K86N0e-bl30t7ZOR1VR7w70m4RyCu_AaN8iQM3CFuWk.jpg?auto=webp&s=a0390482824c1de824a7148baa5672a39e239cce "Standard for online courses")
+
+
+[Standard for online courses](https://www.reddit.com/r/programming/comments/q5cyy7/standard_for_online_courses/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![49ers vs Cardinals live stream: how to watch NFL online from anywhere](https://cdn.mos.cms.futurecdn.net/9TFnk3DH7EKRW4h2SPy6Gk-1200-80.jpg "49ers vs Cardinals live stream: how to watch NFL online from anywhere")
+
+
+[49ers vs Cardinals live stream: how to watch NFL online from anywhere](https://www.techradar.com/news/49ers-vs-cardinals-live-stream-how-to-watch-nfl-online-from-anywhere)
+
+
+> (Image credit: Christian Petersen/Getty Images) Arizona passed its toughest assignment of the season so far with flying colors last weekend, Kyler Murray leading the Redbirds to a dominant 27-20 win over the mighty Rams, and you fear that this could be a long afternoon for their NFC West rivals. Read on as we explain how to get a 49ers vs Cardinals live stream and watch the NFL week 5 game online from anywhere.The Cards have established themselves as not only Super Bowl contenders but as the strongest team in the league right now.
+
+
+***
+![‘Welcome to the party': five past tech whistleblowers on the pitfalls of speaking out](https://external-preview.redd.it/9No2BaRcLeujlAD76OSkdsWGCyEdgudsmgJB1EQtNk4.jpg?auto=webp&s=31ff80d3d87c2b86175e6aa74a523a9680fb1108 "‘Welcome to the party': five past tech whistleblowers on the pitfalls of speaking out")
+
+
+[‘Welcome to the party': five past tech whistleblowers on the pitfalls of speaking out](https://www.reddit.com/r/technology/comments/q5cszg/welcome_to_the_party_five_past_tech/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Mystery of a strange mirrored double galaxy solved using Hubble data](https://icdn.digitaltrends.com/image/digitaltrends/stsci-01ffjer4zps9v9yfpbhrb7p5wj1.jpg "Mystery of a strange mirrored double galaxy solved using Hubble data")
+
+
+[Mystery of a strange mirrored double galaxy solved using Hubble data](https://www.digitaltrends.com/news/hubble-mirrored-galaxy/)
+
+
+> When telescopes like Hubble peer out into the cosmos, they can sometimes sneak a view of very distant objects using a phenomenon called gravitational lensing. This is where a massive object like a galaxy passes between a distant object and Earth, and the gravity of this intermediate object warps spacetime and acts as a magnifying glass. This allows astronomers to glimpse objects which would otherwise be too faint and far away to be visible. But sometimes these phenomena result in strange outcomes, like an oddity spotted by Hubble in 2013 which appeared to be two objects that were perfect mirror images of each other.
+
+
