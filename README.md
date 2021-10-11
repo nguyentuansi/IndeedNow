@@ -12342,3 +12342,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![WhatsApp to soon let iOS users pause and record voice messages](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2020-03-16_at_12.10_1200x768-original.png "WhatsApp to soon let iOS users pause and record voice messages")
+
+
+[WhatsApp to soon let iOS users pause and record voice messages](https://www.indiatoday.in/technology/news/story/whatsapp-to-soon-let-ios-users-pause-and-record-voice-messages-1863351-2021-10-11)
+
+
+> Ankita Chakravarti New Delhi, Oct 11, 2021, Updated Oct 11, 2021, 9:20 AM IST Story highlights A couple of days ago it was reported that WhatsApp is making changes to its voice messages feature he messaging app was recently spotted testing a feature to pause voice messages while recording. Currently, we only have the option of recording the voice message in one go. A couple of days ago it was reported that WhatsApp is making changes to its voice messages feature. The messaging app was recently spotted testing a feature to pause voice messages while recording.
+
+
+***
+![#TECH: An all-rounder health app](https://assets.nst.com.my/images/articles/BOTS111021telehealth_NSTfield_image_socialmedia.var_1633923945.jpg "#TECH: An all-rounder health app")
+
+
+[#TECH: An all-rounder health app](https://www.nst.com.my/lifestyle/bots/2021/10/735412/tech-all-rounder-health-app)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Facebook is willing to open algorithms to regulators, Clegg says](https://images.indianexpress.com/2021/10/Facebook_Reuters_NEW1.jpg "Facebook is willing to open algorithms to regulators, Clegg says")
+
+
+[Facebook is willing to open algorithms to regulators, Clegg says](https://indianexpress.com/article/technology/tech-news-technology/facebook-is-willing-to-open-algorithms-to-regulators-clegg-says-7564830/)
+
+
+> Facebook's chief spokesman said the company is willing to subject itself to greater oversight to ensure its algorithms are performing as intended and aren't harming users. Nick Clegg, Facebook's vice president for global affairs, defended the company's business practices against accusations from a whistle-blower that it had put profits ahead of users' well-being. The algorithms 'should be held to account, if necessary by regulation so that people can match what our systems say they're supposed to do from what actually happens,' Clegg said on CNN's 'State of the Union,' one of three US news-show appearances on Sunday.
+
+
+***
+![Realme GT Neo 2T launch set for October 19, but you should not wait for it](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/gtneo2tlaunch_11102021-original.jpg "Realme GT Neo 2T launch set for October 19, but you should not wait for it")
+
+
+[Realme GT Neo 2T launch set for October 19, but you should not wait for it](https://www.indiatoday.in/technology/news/story/realme-gt-neo-2t-launch-set-for-october-19-but-you-should-not-wait-for-it-1863353-2021-10-11)
+
+
+> Story highlights Realme may soon launch a new phone called the GT Neo 2T. This is going to be a slightly different version of the GT Neo. The Realme GT Neo 2T may come with a customised version of Dimensity 1200 SoC. Realme is gearing up to launch the GT Neo 2 smartphone in India, as well as Europe, later this week. But, for China, where GT Neo 2 arrived weeks ago, Realme has different plans. China is also getting a new GT-series phone and it is reportedly called the GT Neo 2T. Realme has announced the GT Neo 2T will arrive on October 19 in China.
+
+
+***
+![All we know about OnePlus 9RT](https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2021_10/story_3260/assets/12.jpeg?time=1633922883 "All we know about OnePlus 9RT")
+
+
+[All we know about OnePlus 9RT](https://www.indiatoday.in/visualstories/technology/all-we-know-about-oneplus-9rt-3260-11-10-2021)
+
+
+> The smartphone looks very similar to the OnePlus 9R. The smartphone may feature a 6.55-inch FHD+ display with a 120Hz refresh rate and a punch-hole cutout for the selfie shooter on the top left.
+
+
