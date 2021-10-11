@@ -12736,3 +12736,50 @@
 > The project seeks to bridge the information gap in a Rwandan society with a proliferation of formal and informal financial services and where smartphone usage has drastically increased. Picture: Michael Dwyer, AP.Share this article:CAPE TOWN - A mobile app has been launched to help Rwandans improve their financial and digital literacy.Called LENGA, the app was created after 18 months of research by the UN Capital Development Fund's (UNCDF) project titled 'Expanding Financial Access and Digital and Financial Literacy for Refugees and Host Community in Rwanda (REFAD).
 
 
+***
+![Automate the Structure of Your Data Science Projects with Cookiecutter](https://external-preview.redd.it/zxsjB2IHrU12tkB1FixRLKdu1fAxus0JoEClihNpM8M.jpg?auto=webp&s=45d2fbc509301796a4daf890748224cab5969272 "Automate the Structure of Your Data Science Projects with Cookiecutter")
+
+
+[Automate the Structure of Your Data Science Projects with Cookiecutter](https://www.reddit.com/r/Python/comments/q64hkr/automate_the_structure_of_your_data_science/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![VSCODe not highlighting colors for classes and variable with python](https://preview.redd.it/1okt25ownvs71.png?width=1920&format=png&auto=webp&s=19a5ea203325fb184e182f9e659b99d3f8d963f1 "VSCODe not highlighting colors for classes and variable with python")
+
+
+[VSCODe not highlighting colors for classes and variable with python](https://www.reddit.com/r/Python/comments/q64hhb/vscode_not_highlighting_colors_for_classes_and/)
+
+
+> So my vscode been acting weird where all the classes and variables are not highlighted with a different color. That was not a bit issue when I had been trying to run a couple of programs into my DJI Tello and it sends the signal but nothing happened.So what could cause the letters not to be highlighted in a different color? I have checked color themes and everything, and nothing. It seems like vs code is not recognizing my python interpreter. also when I check my python on the bottom right. and open the JSON file for settings, it shows stuff related to flutter and not python, even tho it's on the python language mode.
+
+
+***
+![Is Instagram down because I can't connect to it? The most recent status update. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/instagram-not-connecting-problem-instagram-down-issue-status-update-1503209.jpg "Is Instagram down because I can't connect to it? The most recent status update. » Brinkwire")
+
+
+[Is Instagram down because I can't connect to it? The most recent status update. » Brinkwire](https://en.brinkwire.com/technology/is-instagram-down-because-i-cant-connect-to-it-the-most-recent-status-update/)
+
+
+> Is Instagram down because I can't connect to it? The most recent status update. This evening, INSTAGRAM is experiencing problems, with hundreds of users reporting troubles. Is Instagram down right now? For the second time this week, some Instagram users will have opened their app to problems tonight. People using the platform tonight evening will face problems in service, according to the website Down Detector. The problems arise just days after Instagram's parent company, Facebook, acknowledged flaws on a number of social media platforms under its control.
+
+
+***
+[Anyone work with Samsung MagicInfo Express 2?](https://www.reddit.com/r/Python/comments/q64bb8/anyone_work_with_samsung_magicinfo_express_2/)
+
+
+> Greetings,Looking to do some simple automation for a display board that uses Samsung MagicInfo Express 2. Anyone have any experience with that program?
+
+
+***
+![Don't miss out this holiday season: Get these 6 gifts to avoid scrambling when they sell out](https://www.gannett-cdn.com/presto/2021/09/27/USAT/b7bd7453-11f0-4a79-975e-1655e5cdeb19-holidayproducts.png?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200 "Don't miss out this holiday season: Get these 6 gifts to avoid scrambling when they sell out")
+
+
+[Don't miss out this holiday season: Get these 6 gifts to avoid scrambling when they sell out](https://www.usatoday.com/story/tech/reviewed/2021/09/27/holiday-gifts-tvs-consoles-toys-buy-before-theyre-out-stock/8364400002/)
+
+
+> — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.With summer behind us and the fall season underway, you may be getting into the autumnal spirit by leaf-peeping, baking some cozy treats or perhaps shopping for Halloween. However, we'd advise you to think beyond pumpkin patches and spice-scented candles for a moment and consider thinking ahead to the holiday shopping season. That's right—just like last year, many top products and gifts for the holiday season will be hard to get ahold of.
+
+
