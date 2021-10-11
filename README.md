@@ -12442,3 +12442,53 @@
 > Jio Platforms' conversational AI maker Haptik is tripling business on year-on-year basis and is bullish about e-commerce facility getting developed on instant messaging app Whatsapp, a top official of the company said. Jio Haptik Technologies co-founder and CEO Aakrit Vaish told PTI that the business of the company is growing overseas with the US being its primary market. "We have grown every year consistently by about 300 per cent. We just closed the month of August also at triple digits as compared to last year.
 
 
+***
+![HomeByMe](https://cdn.mos.cms.futurecdn.net/dw5BsD6AnYh2F7N36qz8g3-1200-80.jpg "HomeByMe")
+
+
+[HomeByMe](https://www.techradar.com/reviews/homebyme)
+
+
+> HomeByMe is another web-based 3D home design tool. The photos on its front page sure make for an enticing service, so let's take a look at it and see how good it really is.Also check out our roundup of the best architecture softwareHomeByMe offers a free plan, a plan for just a few projects and an unlimited plan (Image credit: HomeByMe)One good thing is the inclusion of a free option called the Starter Plan. With it, you can create up to three projects and can have HomeByMe render 3 HD photorealistic images (you can have as many lower quality ones as you like, although there's a caveat - more on that later).
+
+
+***
+![SqlAlchemy 1.4 async ORM with FastAPI](https://external-preview.redd.it/HTGu-rsy6SFN9-g_SAY3nByKUb9TMrgswY6XmCjqneA.jpg?auto=webp&s=0c41bb495d4a9f6e36d578a28013535e94644557 "SqlAlchemy 1.4 async ORM with FastAPI")
+
+
+[SqlAlchemy 1.4 async ORM with FastAPI](https://www.reddit.com/r/Python/comments/q5r043/sqlalchemy_14_async_orm_with_fastapi_rogulskiit/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![#TECH: Lenovo's new slim and stylish notebooks](https://assets.nst.com.my/images/articles/botslenovos_NSTfield_image_socialmedia.var_1633938860.jpg "#TECH: Lenovo's new slim and stylish notebooks")
+
+
+[#TECH: Lenovo's new slim and stylish notebooks](https://www.nst.com.my/lifestyle/bots/2021/10/735527/tech-lenovos-new-slim-and-stylish-notebooks)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Facebook Pages removes Likes for users in India, redesign reduces focus on followers](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2021-10-11_at_1.17._1200x768-original.png "Facebook Pages removes Likes for users in India, redesign reduces focus on followers")
+
+
+[Facebook Pages removes Likes for users in India, redesign reduces focus on followers](https://www.indiatoday.in/technology/news/story/facebook-pages-removes-likes-for-users-in-india-redesign-reduces-focus-on-followers-1863452-2021-10-11)
+
+
+> India Today Tech New Delhi, Oct 11, 2021, Updated Oct 11, 2021, 1:22 PM IST Story highlights Facebook Pages redesign has removed Likes for users in India and also reduced focus on Followers. The redesign will also help users to discover and navigate between their profile and pages. Facebook will further enhance safety and integrity features to detect spammy content and impersonator accounts. Facebook Pages redesign is rolling out for users in India. It has removed Likes for users in India and also reduced focus on Followers.
+
+
+***
+![Today's Cache](https://www.thehindu.com/static/theme/default/base/img/og-image.jpg "Today's Cache")
+
+
+[Today's Cache](https://www.thehindu.com/sci-tech/technology/todays-cache-newsletter/article36938754.ece)
+
+
+> At one point California attracted top tech talent and businesses. Now, the state is experiencing a reverse exodus A skilled talent pool, particularly from Stanford University, lots of venture capital and a steady U.S. government spending played a crucial role in making California a high-tech hub of the 21 century.Silicon Valley, the region in Northern California is headquarters to a few dozen companies in the Fortune 100 list. It is also a high-tech innovation hotspot that employs a quarter of a million IT workers.
+
+
