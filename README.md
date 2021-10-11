@@ -12589,3 +12589,53 @@
 > ATLANTA, Oct 11 (Reuters) - Global Payments Inc (GPN.N) CEO Jeff Sloan said in an interview he would be open to a large acquisition again, two years after acquiring peer TSYS in a $21.5 billion all-stock deal, while continuing to chase small bolt-on purchases to bolster growth."I certainly see deals as big as TSYS in our future," Sloan, who has led the Atlanta-based payments processor since 2013, told Reuters last week.Global Payments, one of the world's biggest providers of transaction services for businesses, complemented its offerings with the acquisition of TSYS, which processes credit card transactions for banks.
 
 
+***
+![Crypto analytics firm Elliptic raises $60 mln from SoftBank, others](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "Crypto analytics firm Elliptic raises $60 mln from SoftBank, others")
+
+
+[Crypto analytics firm Elliptic raises $60 mln from SoftBank, others](https://www.reuters.com/article/fintech-blockchain-elliptic-funding-idUSL1N2R710M)
+
+
+> LONDON, Oct 11 (Reuters) - Cryptocurrency analytics firm Elliptic said on Monday it had raised $60 million from investors including SoftBank and Wells Fargo Strategic Capital, the latest blockchain analytics firm to attract mainstream investment.With larger investors warming to cryptocurrencies, blockchain analysis and data firms such as Elliptic are in greater demand, in part due to growing regulatory scrutiny on a sector fraught with compliance headaches such as illegal use of digital tokens here.
+
+
+***
+![Here are some features that I would love to see come to Google Messages](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/03/imessage-alternatives-google-messages-better.jpg "Here are some features that I would love to see come to Google Messages")
+
+
+[Here are some features that I would love to see come to Google Messages](https://www.androidcentral.com/features-i-want-see-google-messages)
+
+
+> Source: Joe Maring / Android Central When it comes to the best text messaging apps, I actually really love Google Messages. Thanks to Google pushing RCS on Android, the app has started coming into its own as a viable iMessage alternative for Android users. You've got typing indicators, high-quality media files, reactions, and more recently, end-to-end encryption. When you enable RCS Chat features in Google Messages, it does feel like a huge step up from regular SMS. That said, I can't help but feel like some things are missing.
+
+
+***
+![Here's how to review, save, and share your HomeKit Secure Video footage](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/08/how-to-create-activity-zones-home-app-ios14-hero.jpg "Here's how to review, save, and share your HomeKit Secure Video footage")
+
+
+[Here's how to review, save, and share your HomeKit Secure Video footage](https://www.imore.com/how-manage-homekit-secure-video-cameras-home-app)
+
+
+> Source: Christopher Close / iMore HomeKit Secure Video — Apple's privacy-centric security camera solution — makes it easy to view, save, and share recordings from smart cameras through the Home app. The best HomeKit cameras also provide advanced features like Face Recognition, Activity Zones, and iCloud+ storage, which keeps all of your home's activity safe and secure in the cloud. To get the most out of your cameras, though, you need to know where to look. Here's how to manage HomeKit Secure Video cameras in the Home app.
+
+
+***
+![DigitalOcean Spaces: Is it any good?](https://external-preview.redd.it/ipen5AcdwR7cfI4oMpLorCwPJl8fH4Ywe5i-bfUI2sE.jpg?auto=webp&s=5c94147eaea7277947667af93eae8f36667f94ea "DigitalOcean Spaces: Is it any good?")
+
+
+[DigitalOcean Spaces: Is it any good?](https://www.reddit.com/r/programming/comments/q5wdve/digitalocean_spaces_is_it_any_good/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Instagram Vows To Encourage Teen Users To Take A Break From Excessive Usage](https://im.indiatimes.in/content/2021/Oct/Facebook-Image---2021-10-11T152405315_616409ea84c6a.jpg "Instagram Vows To Encourage Teen Users To Take A Break From Excessive Usage")
+
+
+[Instagram Vows To Encourage Teen Users To Take A Break From Excessive Usage](https://www.indiatimes.com/technology/news/instagram-teens-take-a-break-feature-551403.html)
+
+
+> Facebook said that it'll soon introduce new measures on its apps that would nudge teens to keep away from the kind of content that can do them harm. ReutersAlso Read: Facebook Crisis: Whistleblower Shares How FB Chose Profit Over User's Mental HealthAs per a report by Reuters, this was revealed by Nick Clegg, Facebook's vice president of global affairs who expressed that he was open to the idea of allowing regulators to gain access to algorithms used by Facebook that are helpful in amplifying content.
+
+
