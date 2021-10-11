@@ -12392,3 +12392,53 @@
 > The smartphone looks very similar to the OnePlus 9R. The smartphone may feature a 6.55-inch FHD+ display with a 120Hz refresh rate and a punch-hole cutout for the selfie shooter on the top left.
 
 
+***
+![Realme GT Neo 2T specs leaked ahead of launch](https://cdn.mos.cms.futurecdn.net/Xfv84P54MWVdf9R5KmsbM-1200-80.jpg "Realme GT Neo 2T specs leaked ahead of launch")
+
+
+[Realme GT Neo 2T specs leaked ahead of launch](https://www.techradar.com/news/realme-gt-neo-2t-specs-leaked-ahead-of-launch)
+
+
+> (Image credit: Realme) Realme GT Neo 2T will be the next mid-range smartphone from the house of Realme. A few days back, Realme's China executive had teased the launch of this new phone and now, we have almost all the details of the upcoming smartphone which is set to launch on October 19. Realme's Vice President in China and President of Realme Global Marketing, Xu Qi Chase posted a Weibo post a few days ago wherein he said 'There is a new product in the GT Neo2 series, a dual-platform and dual flagship' (machine translation).
+
+
+***
+![Samsung partners with top directors to make movies with Galaxy devices](https://cdn.mos.cms.futurecdn.net/54ze7KohdgPapbHDumFiSR-1200-80.jpg "Samsung partners with top directors to make movies with Galaxy devices")
+
+
+[Samsung partners with top directors to make movies with Galaxy devices](https://www.techradar.com/news/samsung-partners-with-top-directors-to-make-movies-with-galaxy-devices)
+
+
+> Still from the film Princess & Peppernose that has been filmed using Galaxy S21 Ultra 5G. (Image credit: Samsung) Even as Apple is putting out advertisements on making movies with its new iPhone13, Korean smartphone major Samsung has announced that it would be partnering with some of the world's most renowned filmmakers to produce movies with its Galaxy smartphones. Samsung has unveiled a campaign that it has called "Filmed #withGalaxy", and to kick it off, well-known director Joe Wright --- he had helmed movies like Pride and Prejudice and Atonement --- will come out with the film Princess & Peppernose, which is a tale of a princess in search of love.
+
+
+***
+![iPad mini review: The best small iPad you can buy this year](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/ipad-mini-2021-review1-647x363.jpeg?vTAy66_7VUNBpGYMVRwdD_QfvEAmrnkZ "iPad mini review: The best small iPad you can buy this year")
+
+
+[iPad mini review: The best small iPad you can buy this year](https://www.indiatoday.in/technology/reviews/story/ipad-mini-review-the-best-small-ipad-you-can-buy-this-year-1863396-2021-10-11)
+
+
+> "There's simply no other device like iPad mini" when CEO Tim Cook introduced the all-new iPad mini. These were the exact words to describe the new product that has evolved in every way. I will talk in detail about what I mean when I say the evolution of the iPad mini. But, before I start, first, I have to admit that the all-new iPad mini isn't exactly the mini tablet it used to be a few years back. This year, the new iPad mini feels like a version of the iPad Air in a smaller body. Or, to say, the power of the iPad in its most portable form.
+
+
+***
+![NVIDIA Data Scientists Take Top Spots in MICCAI 2021 Brain Tumor Segmentation Challenge](https://external-preview.redd.it/Y3jXNajmy5mDeJ5Kx1Tz_W0g8nE7fETN2PCQDk_RyWA.jpg?auto=webp&s=18402625bb5c4a38594dde2c5d9635bb07dbe177 "NVIDIA Data Scientists Take Top Spots in MICCAI 2021 Brain Tumor Segmentation Challenge")
+
+
+[NVIDIA Data Scientists Take Top Spots in MICCAI 2021 Brain Tumor Segmentation Challenge](https://www.reddit.com/r/technology/comments/q5pbgi/nvidia_data_scientists_take_top_spots_in_miccai/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Jio Platforms' Haptik claims 300% yoy growth, bullish on Whatsapp e-commerce](https://static.toiimg.com/thumb/resizemode-4,msid-86930554,imgsize-25424,width-800/86930554.jpg "Jio Platforms' Haptik claims 300% yoy growth, bullish on Whatsapp e-commerce")
+
+
+[Jio Platforms' Haptik claims 300% yoy growth, bullish on Whatsapp e-commerce](https://www.gadgetsnow.com/tech-news/jio-platforms-haptik-claims-300-yoy-growth-bullish-on-whatsapp-e-commerce/articleshow/86930554.cms)
+
+
+> Jio Platforms' conversational AI maker Haptik is tripling business on year-on-year basis and is bullish about e-commerce facility getting developed on instant messaging app Whatsapp, a top official of the company said. Jio Haptik Technologies co-founder and CEO Aakrit Vaish told PTI that the business of the company is growing overseas with the US being its primary market. "We have grown every year consistently by about 300 per cent. We just closed the month of August also at triple digits as compared to last year.
+
+
