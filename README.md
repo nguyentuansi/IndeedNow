@@ -12492,3 +12492,50 @@
 > At one point California attracted top tech talent and businesses. Now, the state is experiencing a reverse exodus A skilled talent pool, particularly from Stanford University, lots of venture capital and a steady U.S. government spending played a crucial role in making California a high-tech hub of the 21 century.Silicon Valley, the region in Northern California is headquarters to a few dozen companies in the Fortune 100 list. It is also a high-tech innovation hotspot that employs a quarter of a million IT workers.
 
 
+***
+![Bipartisan bill will change checkerboard of broadband connectivity in rural America](https://thehill.com/sites/default/files/internet.jpg "Bipartisan bill will change checkerboard of broadband connectivity in rural America")
+
+
+[Bipartisan bill will change checkerboard of broadband connectivity in rural America](https://thehill.com/opinion/technology/576147-bipartisan-bill-will-change-checkerboard-of-broadband-connectivity-in)
+
+
+> Millions of Americans lack access to reliable, high-speed internet service, and the inequality is particularly striking in rural America. The rural broadband gap results in lost opportunities to expand businesses, learn new skills, educate our children or even participate in daily activities.I represent a sprawling rural district that encompasses nearly 25 percent of the landmass of Pennsylvania. While I am fortunate to live in an area with high-quality internet service to my home, just a few miles away, my neighbors are on the wrong side of the digital divide.
+
+
+***
+![Hasbro CEO Takes Medical Leave Of Absence To Focus On Health](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/aaconsumerv3_1134.png "Hasbro CEO Takes Medical Leave Of Absence To Focus On Health")
+
+
+[Hasbro CEO Takes Medical Leave Of Absence To Focus On Health](https://www.benzinga.com/news/21/10/23314338/hasbro-ceo-takes-medical-leave-of-absence-to-focus-on-health)
+
+
+> PlayMonster Partners With Hasbro's Playskool Brands On Preschool Category
+
+
+***
+![Nissan To Upgrade Two US Plans Amid Electric Vehicle Push: What You Need To Know](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/nis_ariya_006a-source.jpg "Nissan To Upgrade Two US Plans Amid Electric Vehicle Push: What You Need To Know")
+
+
+[Nissan To Upgrade Two US Plans Amid Electric Vehicle Push: What You Need To Know](https://www.benzinga.com/news/21/10/23313900/nissan-to-upgrade-two-us-plans-amid-electric-vehicle-push-what-you-need-to-know)
+
+
+> Japan's Nissan Motor Co (OTC: NSANY) will spend about $700 million at two U.S. manufacturing plants to implement new technologies to make electric vehicles, Bloomberg News reported, citing a company executive. What Happened: The new investment is part of a $1.2 billion global investment that aims to make the legacy automaker's global factories more efficient, less polluting and ready to produce next-generation cars such as electric vehicles. The Nissan plants in Canton, Mississippi and Smyrna, Tennessee are said to be part of the ramp-up.
+
+
+***
+[MG Astor Launched in India: Check Price in India, Specifications](https://www.thequint.com/tech-and-auto/mg-astor-launched-in-india-check-price-in-india-specifications-features-variants)
+
+
+> Bookings for MG Astor will begin from 21 October 2021.
+
+
+***
+![Sony announces up to Rs 20,000 cashback on TVs and up to 50 per cent discount on headphones, check all offers](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/diwali_fy_21_key_visual_1200x768-original.jpeg "Sony announces up to Rs 20,000 cashback on TVs and up to 50 per cent discount on headphones, check all offers")
+
+
+[Sony announces up to Rs 20,000 cashback on TVs and up to 50 per cent discount on headphones, check all offers](https://www.businesstoday.in/technology/story/sony-announces-up-to-rs-20000-cashback-on-tvs-and-up-to-50-per-cent-discount-on-headphones-check-all-offers-309042-2021-10-11)
+
+
+> Sony India on Monday announced its plans for the Diwali festive season. With a wide array of new products across categories, exciting discounts and attractive finance schemes, the company has announced various offers. Sony is also offering 1 EMI free with EMIs starting on TVs starting from Rs 1,024 on select Bravia televisions. There is one EMI free along with EMI scheme of 9/0, 12/4 and 18/4 on select Bravia and Digital Imaging products as well. Sony notes that easy finance schemes are available with no processing fees with select partners.
+
+
