@@ -12539,3 +12539,53 @@
 > Sony India on Monday announced its plans for the Diwali festive season. With a wide array of new products across categories, exciting discounts and attractive finance schemes, the company has announced various offers. Sony is also offering 1 EMI free with EMIs starting on TVs starting from Rs 1,024 on select Bravia televisions. There is one EMI free along with EMI scheme of 9/0, 12/4 and 18/4 on select Bravia and Digital Imaging products as well. Sony notes that easy finance schemes are available with no processing fees with select partners.
 
 
+***
+![Lloyds and Halifax DOWN: The app is back online after a problem caused customers to receive an error message stating that they had no funds.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Lloyds and Halifax DOWN: The app is back online after a problem caused customers to receive an error message stating that they had no funds.")
+
+
+[Lloyds and Halifax DOWN: The app is back online after a problem caused customers to receive an error message stating that they had no funds.](https://en.brinkwire.com/technology/lloyds-and-halifax-down-the-app-is-back-online-after-a-problem-caused-customers-to-receive-an-error-message-stating-that-they-had-no-funds/)
+
+
+> After a difficult morning for some Halifax and Lloyds users it seems the banking app glitch that left many without access to funds has been fixed. If you're trying and failing to check your Lloyds or Halifax accounts this morning then you are not alone. Thousands of customers appear to be facing a frustrating morning with the banking apps currently down and not working. The gremlins appear to have begun at around 6:30am with customers of these popular banks seeing a message that says there's no access to funds.
+
+
+***
+![Amazon Great Indian Festival: Jabra Elite 65t true wireless earphones at under Rs 5,000 is a steal deal](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/Screenshot_2021-10-11_at_5.33.-647x363.png?Qu2To1jdoV9V3Ccb3iMjVc8XDQPA2cjA "Amazon Great Indian Festival: Jabra Elite 65t true wireless earphones at under Rs 5,000 is a steal deal")
+
+
+[Amazon Great Indian Festival: Jabra Elite 65t true wireless earphones at under Rs 5,000 is a steal deal](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-jabra-elite-65t-true-wireless-earphones-at-under-rs-5-000-is-a-steal-deal-1863569-2021-10-11)
+
+
+> Amazon Great Indian Festival sale went live on October 3.Amazon is offering scores of deals and discounts on products across categories including smartphones, smartwatches, laptops, tablets, audio products.Amazon is also offering bank offers and cashback on various products. Additionally, buyers can also exchange their old products for new ones.Amazon Great Indan Festival sale is on and if you haven't bought anything so far, you still have a couple of days left. Amazon is offering scores of deals and discounts on products across categories including smartphones, smartwatches, laptops, tablets, audio products.
+
+
+***
+![BBC Weather: As ‘unseasonably warm' temperatures strike, Kirkwood warns of torrential downpours.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "BBC Weather: As ‘unseasonably warm' temperatures strike, Kirkwood warns of torrential downpours.")
+
+
+[BBC Weather: As ‘unseasonably warm' temperatures strike, Kirkwood warns of torrential downpours.](https://en.brinkwire.com/news/bbc-weather-as-unseasonably-warm-temperatures-strike-kirkwood-warns-of-torrential-downpours/)
+
+
+> BBC Weather: As ‘unseasonably warm' temperatures strike, Kirkwood warns of torrential downpours. Carol Kirkwood, a BBC WEATHER presenter, has predicted heavy rain for parts of the UK due to 'unseasonably warm' temperatures. Carol Kirkwood, a BBC weather presenter, has predicted higher-than-normal temperatures for the time of year, with Britons to experience 'unseasonably warm' weather. She did say, however, that two weather fronts are currently squeezing the UK from the east and west, bringing heavy rain and thick fog to places like western Scotland and the northeast.
+
+
+***
+![Swile raises $200 million for its employee benefits card and app – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/Image-from-iOS.jpg?w=533 "Swile raises $200 million for its employee benefits card and app – TechCrunch")
+
+
+[Swile raises $200 million for its employee benefits card and app – TechCrunch](https://techcrunch.com/2021/10/11/swile-raises-200-million-for-its-employee-benefits-card-and-app/)
+
+
+> French startup Swile has raised a $200 million Series D funding round led by SoftBank International Group. With this funding round, the startup has now reached unicorn status, meaning that Swile has a valuation of $1 billion or more. Swile provides a payment card for employee benefits, such as meal vouchers, gift cards and sustainable mobility vouchers. Michel Combes, SoftBank International Group's President (pictured left), is joining Swile's board. Some of the startup's existing investors are participating once again, such as Eurazeo, Index Ventures and Bpifrance.
+
+
+***
+![Global Payments CEO says open to big deals again](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53 "Global Payments CEO says open to big deals again")
+
+
+[Global Payments CEO says open to big deals again](https://www.reuters.com/technology/global-payments-ceo-says-open-big-deals-again-2021-10-11/)
+
+
+> ATLANTA, Oct 11 (Reuters) - Global Payments Inc (GPN.N) CEO Jeff Sloan said in an interview he would be open to a large acquisition again, two years after acquiring peer TSYS in a $21.5 billion all-stock deal, while continuing to chase small bolt-on purchases to bolster growth."I certainly see deals as big as TSYS in our future," Sloan, who has led the Atlanta-based payments processor since 2013, told Reuters last week.Global Payments, one of the world's biggest providers of transaction services for businesses, complemented its offerings with the acquisition of TSYS, which processes credit card transactions for banks.
+
+
