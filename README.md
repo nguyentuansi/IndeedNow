@@ -12295,3 +12295,50 @@
 > QurHealth's multilingual AI health assistant helps people manage over 30+ disease conditions using their smartphones and Alexa
 
 
+***
+![Google Pixel Pass subscription is its answer to Apple One, new leak suggests](https://cdn.mos.cms.futurecdn.net/gDWnM9JGiwjhAeB5npVstN-1200-80.jpg "Google Pixel Pass subscription is its answer to Apple One, new leak suggests")
+
+
+[Google Pixel Pass subscription is its answer to Apple One, new leak suggests](https://www.techradar.com/news/google-pixel-pass-subscription-is-its-answer-to-apple-one-new-leak-suggests)
+
+
+> (Image credit: Google) Google Pixel 6 leaks are coming on thick and fast, with one UK retailer in particular unable to keep the cat in the bag over the weekend. Hot on the heels of that massive leak comes the disclosure of the Pixel Pass.Shared on Twitter by tech news aficionado M. Brandon Lee of This Is Tech Today fame, Pixel Pass seems to be Google's answer to the Apple One subscription service.Pixel Pass: This appears to be a blend of the iPhone upgrade plan where you can get a new phone every year and the Apple One Subscription.
+
+
+***
+![Techland Using Dying Light 2 Delay to "Double Check" Everything, Might Add More Easter Eggs](https://s2.n4g.com/news/2447479_0.jpg "Techland Using Dying Light 2 Delay to "Double Check" Everything, Might Add More Easter Eggs")
+
+
+[Techland Using Dying Light 2 Delay to "Double Check" Everything, Might Add More Easter Eggs](https://n4g.com/news/2447479/techland-using-dying-light-2-delay-to-double-check-everything-might-add-more-easter-eggs)
+
+
+> No body in the article.
+
+
+***
+[A look at Pix, a mobile payments system launched 11 months ago by Brazil's Central Bank and used at least once by half of Brazil's population (Bloomberg)](http://www.techmeme.com/211010/p7#a211010p7)
+
+
+> Bloomberg: A look at Pix, a mobile payments system launched 11 months ago by Brazil's Central Bank and used at least once by half of Brazil's population — One year ago the Pix platform didn't exist. Now half the population uses it, showing just how quickly adoption of digital payments can spread.
+
+
+***
+![Black Friday 2021: when it is, and the best deals we expect to see](https://cdn.mos.cms.futurecdn.net/SxsJsr9wn2ZwHTXFvFXQJA-1200-80.jpg "Black Friday 2021: when it is, and the best deals we expect to see")
+
+
+[Black Friday 2021: when it is, and the best deals we expect to see](https://www.techradar.com/black-friday/black-friday-deals-sales)
+
+
+> Black Friday deals are slowly but surely coming your way, with the official sale date less than two months away. That means early Black Friday deals will be dropping soon, and we'll be bringing all the top offers and telling you everything else you need to know about the 2021 Black Friday sale. While we know the official date of Black Friday 2021 (November 26), like years past, we should start to see offers pop up in late October. Amazon, in fact, has just launched its Epic Deals sale, which includes "Black Friday-worthy" discounts throughout the month of October on a range of items from brands like Apple, Sony, Instant Pot, and Samsung.
+
+
+***
+![AI Background Removal: a quick comparison between RVM & BGMv2](https://external-preview.redd.it/fJ09tqyTRbgwziktfOC3wG9FcYOB7APjlVxjMagt7Vo.jpg?auto=webp&s=9ec08d1024e9981d15c2f4defd8af1da7d7d6694 "AI Background Removal: a quick comparison between RVM & BGMv2")
+
+
+[AI Background Removal: a quick comparison between RVM & BGMv2](https://www.reddit.com/r/programming/comments/q5lmqw/ai_background_removal_a_quick_comparison_between/)
+
+
+> no comments yetBe the first to share what you think!
+
+
