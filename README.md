@@ -12245,3 +12245,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Facebook unveils new controls for kids using its platforms](https://www.gannett-cdn.com/presto/2021/10/05/PDTN/64dc216f-cefc-4b63-8313-96582626c055-AP21278628332923.jpg?auto=webp&crop=5749,3234,x1,y224&format=pjpg&width=1200 "Facebook unveils new controls for kids using its platforms")
+
+
+[Facebook unveils new controls for kids using its platforms](https://www.detroitnews.com/story/tech/2021/10/10/facebook-unveils-new-controls-kids-using-its-platforms-instagram/6084950001/)
+
+
+> New York — Facebook, in the aftermath of damning testimony that its platforms harm children, will be introducing several features including prompting teens to take a break using its photo sharing app Instagram, and 'nudging" teens if they are repeatedly looking at the same content that's not conducive to their well-being.The Menlo Park, California-based Facebook is also planning to introduce new controls for adults of teens on an optional basis so that parents or guardians can supervise what their teens are doing online.
+
+
+***
+![Items bought through direct purchase are 'smuggling' if they are resold... How to trade legally?](https://img.sbs.co.kr/newimg/news/20211011/201599156_1280.jpg "Items bought through direct purchase are 'smuggling' if they are resold... How to trade legally?")
+
+
+[Items bought through direct purchase are 'smuggling' if they are resold... How to trade legally?](https://www.tellerreport.com/tech/2021-10-11-items-bought-through-direct-purchase-are--smuggling--if-they-are-resold----how-to-trade-legally-.S1ONg-bHK.html)
+
+
+> The number of so-called 'direct buyers' who buy directly from overseas shopping malls is increasing. It is said that if you resell an item you bought directly from a second-hand trading site, you may be subject to criminal punishment. There is an increasing number of so-called 'direct shoppers' who buy directly from overseas shopping malls.It is said that if you resell an item you bought directly from a second-hand trading site, you may be subject to criminal penalties.In principle, customs duties are paid when importing goods from abroad.
+
+
+***
+![NASA's Lucy mission launches this week: What to know about journey to Jupiter's orbit](https://www.cnet.com/a/img/iAmSPt9_6db7j6x8FuNnQyqRkB0=/1200x630/2020/12/26/aabe072c-d784-47a0-9ed6-64c4ae514f10/1017-final-lucy-1280.jpg "NASA's Lucy mission launches this week: What to know about journey to Jupiter's orbit")
+
+
+[NASA's Lucy mission launches this week: What to know about journey to Jupiter's orbit](https://www.cnet.com/how-to/nasas-lucy-mission-launches-this-week-what-to-know-about-journey-to-jupiters-orbit/)
+
+
+> Lucy flies over a Trojan asteroid in this NASA animation. NASA's Goddard Space Flight Center NASA is about to embark on a space archeology mission for the ages. Out in Jupiter's orbit lies a collection of rocks known as the Trojan asteroids -- fossils from the earliest era of our solar system. These time capsules are locked in a dance around the sun and could hold the key to unlocking the origins of the giant planets. Next week, NASA is sending the Lucy spacecraft toward these ancient raw materials in an ambitious and daring decade-long mission to access our solar system's well-preserved history.
+
+
+***
+![Google Search now has a handy feature to fix your out-of-tune guitar](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/google-tuner_0.jpg "Google Search now has a handy feature to fix your out-of-tune guitar")
+
+
+[Google Search now has a handy feature to fix your out-of-tune guitar](https://www.androidcentral.com/google-search-now-has-native-guitar-tuner-desktop-and-mobile)
+
+
+> Source: Jay Bonggolto / Android Central Google Search has gained a new capability that helps you tune your guitar. The built-in chromatic tuner is accessible from any device with an updated browser and a capable microphone. After listening to your guitar, it will tell you whether you need to tune up or down as needed. Google has a new music-oriented feature in addition to helping you guess the song you're humming. It recently released a native capability in Search that makes it easier to tune your guitar on the fly without the use of tuning hardware.
+
+
+***
+![QurHealth: Healthcare gets big dose of tech](https://images.financialexpress.com/2021/10/1-269.jpg "QurHealth: Healthcare gets big dose of tech")
+
+
+[QurHealth: Healthcare gets big dose of tech](https://www.financialexpress.com/industry/technology/qurhealth-healthcare-gets-big-dose-of-tech/2347600/)
+
+
+> QurHealth's multilingual AI health assistant helps people manage over 30+ disease conditions using their smartphones and Alexa
+
+
