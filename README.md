@@ -12689,3 +12689,50 @@
 > In light of the disruptive innovation in finance, customers are finding it difficult to bank with only one provider. Fintech offers increased access — democratization – while banks have the human capital to personalize.  The key to maximizing value for customers is merging human and digital experiences. That's according to U.S. Bancorp's (NYSE: USB) U.S. Bank vice chair of consumer and business banking Timothy Welsh, one of the many financial executives, influencers and fintech leaders in attendance at the Money Experience Summit at Snowbird Resort, Utah.
 
 
+***
+[USDCAD retests the 100 day MA](https://www.forexlive.com/technical-analysis/!/usdcad-retests-the-100-day-ma-20211011)
+
+
+> 100 day MA at 1.2484 The USDCAD is trading back near highs for the day reached in the early Asian trading. Recall from Friday, the USDCAD moved sharply to the downside after the stronger than expected Canada jobs report  and the weaker/mixed  US jobs report. The fall took the price below both its 200 day moving average
+
+
+***
+![Visible or Google Fi? We'll help you decide which carrier to choose!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/12/google-fi-sim-unlocked-phones.jpg "Visible or Google Fi? We'll help you decide which carrier to choose!")
+
+
+[Visible or Google Fi? We'll help you decide which carrier to choose!](https://www.androidcentral.com/visible-vs-google-fi)
+
+
+> Visible makes the most of Verizon's network with unlimited LTE and 5G data. Visible also bundles in unlimited hotspot data at 5Mbps. You can even bring the cost of service as low as $25 per month when you join Visible's Party Pay right from its website. From $40/mo. at Visible Simple plans and pricing Huge Verizon Wireless LTE network Unlimited hotspot (5Mbps) Save with Party Pay 5G access is included No international options Videos stream at 480p Google Fi offers three plans on a combined T-Mobile and US Cellular network in the United States.
+
+
+***
+![Can you use a Chromebook without Google Chrome? Best Chrome browser alternatives](https://cdn.mos.cms.futurecdn.net/5E7TfC8yATAMNVNQWTDqrn-1200-80.jpg "Can you use a Chromebook without Google Chrome? Best Chrome browser alternatives")
+
+
+[Can you use a Chromebook without Google Chrome? Best Chrome browser alternatives](https://www.laptopmag.com/features/can-you-use-a-chromebook-without-google-chrome-best-chrome-browser-alternatives)
+
+
+> When Chrome OS first arrived, it was nothing more than a browser in a box. More specifically, Google Chrome in a box. The OS was designed for people who lived in Google's browser. In many ways, that's still true, but over the last few years, with features such as Linux and Android support, Google has expanded that box's dimensions to offer users more flexibility and choices into how they operate their Chromebooks. Best chromebooks in 2021What is a Chromebook? Chromebook vs. LaptopsBut does this shift in direction apply to Google Chrome itself?  Can you work on a Chromebook without relying on its namesake browser? Opera taking on Google on its own turfBrowser maker Opera surely thinks Chromebook users are ready to move beyond Google Chrome.
+
+
+***
+![Date for UK Kia EV6 deliveries confirmed, but still a long wait for the fast GT model](https://cdn.mos.cms.futurecdn.net/r4om2WpqN8Ze7jUDXPz4Q6-1200-80.jpg "Date for UK Kia EV6 deliveries confirmed, but still a long wait for the fast GT model")
+
+
+[Date for UK Kia EV6 deliveries confirmed, but still a long wait for the fast GT model](https://www.techradar.com/news/date-for-uk-kia-ev6-deliveries-confirmed-but-still-a-long-wait-for-the-fast-gt-model)
+
+
+> (Image credit: Kia) The first Kia EV6 electric cars will arrive with UK customers week commencing October 25, 2021, making good on the firm's commitment to deliver the first of its new EV this month.Kia has already received 1,500 orders for the EV6, and it expects to be able to deliver 1,000 of those before the end of 2021. Despite the the global chipset shortage and ongoing supply chain issues, Kia is on track to hit its annual shipment target of 90,000 vehicles.That's a considerable uptick from 2020, where Kia had 70,000 vehicle registrations in the UK, which was hampered by the pandemic.
+
+
+***
+![Mobile app launched in Rwanda to improve digital, financial literacy](https://image-prod.iol.co.za/resize/650x366/The-project-seeks-to-bridge-the-information-gap-in-a-Rwandan-society-with-a-proliferation-of-formal-and-informal-financial-services-and-where-smartphone-usage-has-drastically-increased-Picture-Michael-Dwyer-AP?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/43e926f6-466d-51ab-bb37-69a6a0fbfa45&operation=CROP&offset=0x135&resize=2000x1125 "Mobile app launched in Rwanda to improve digital, financial literacy")
+
+
+[Mobile app launched in Rwanda to improve digital, financial literacy](https://www.iol.co.za/technology/mobile-app-launched-in-rwanda-to-improve-digital-financial-literacy-74391e76-4d5f-461c-9f07-9426bc202df2)
+
+
+> The project seeks to bridge the information gap in a Rwandan society with a proliferation of formal and informal financial services and where smartphone usage has drastically increased. Picture: Michael Dwyer, AP.Share this article:CAPE TOWN - A mobile app has been launched to help Rwandans improve their financial and digital literacy.Called LENGA, the app was created after 18 months of research by the UN Capital Development Fund's (UNCDF) project titled 'Expanding Financial Access and Digital and Financial Literacy for Refugees and Host Community in Rwanda (REFAD).
+
+
