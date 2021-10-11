@@ -12783,3 +12783,53 @@
 > — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.With summer behind us and the fall season underway, you may be getting into the autumnal spirit by leaf-peeping, baking some cozy treats or perhaps shopping for Halloween. However, we'd advise you to think beyond pumpkin patches and spice-scented candles for a moment and consider thinking ahead to the holiday shopping season. That's right—just like last year, many top products and gifts for the holiday season will be hard to get ahold of.
 
 
+***
+![Spam texts aren't going away anytime soon. 6 ways to avoid the latest schemes](https://www.cnet.com/a/img/LvXXGYNI92sV991o5rEmjvFstfc=/1200x630/2020/03/26/825e1a21-7533-40c9-be16-257bed19a4d6/apple-iphone-9745.jpg "Spam texts aren't going away anytime soon. 6 ways to avoid the latest schemes")
+
+
+[Spam texts aren't going away anytime soon. 6 ways to avoid the latest schemes](https://www.cnet.com/tech/mobile/spam-texts-arent-going-away-anytime-soon-6-ways-to-avoid-the-latest-schemes/)
+
+
+> You may have noticed more text messages from "AT&T" referring to a bill payment, or reimbursement or a free perk. "Chase" texts warn of accounts being locked out. "FedEx" alerts for an incomplete delivery. The messages may seem real, especially if you have service with the provider that seems to be messaging you. But before you click the link to get a "reward" for paying your bill, there are a few red flags to watch out for. In the latest scheme, scammers are using trusted company names, links and urgency to steal your information after you click the link in a text message -- which can lead to identity theft and fraud if you do.
+
+
+***
+![Microsoft: We're on track to stop polluting this decade. Then we'll undo all the climate harm we've ever done](https://external-preview.redd.it/o9t7SzAaY64MhbKiXE70bfdg2JciklcBJBMBgzmaYbc.jpg?auto=webp&s=85fddbf28d4d3565f156be13817b8a60ce24ac29 "Microsoft: We're on track to stop polluting this decade. Then we'll undo all the climate harm we've ever done")
+
+
+[Microsoft: We're on track to stop polluting this decade. Then we'll undo all the climate harm we've ever done](https://www.reddit.com/r/technology/comments/q66rjs/microsoft_were_on_track_to_stop_polluting_this/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Android TV Remote Coming To Google App For iOS and Android](https://www.androidheadlines.com/wp-content/uploads/2019/01/Google-Home-AH-NS-02-1.jpg "Android TV Remote Coming To Google App For iOS and Android")
+
+
+[Android TV Remote Coming To Google App For iOS and Android](https://www.androidheadlines.com/2021/10/android-tv-remote-coming-to-google-app-for-ios-and-android.html)
+
+
+> Last month, Google released the Android TV remote for its respective app. Since then, we've been seeing hints that it might be making it to other apps and mobile platforms. According to 9To5Google, Google will be officially bringing the Android TV remote function to the Google Home app.The Android TV Remote function will also be available on iOSGoogle announced the Android TV remote back during Google I/O this year. Since last month, it's been making its way onto devices via the Android TV app. Recently, there have been traces of the remote function spotted in the Google Home apps for iOS and Android.
+
+
+***
+![Instagram testing feature to notify users of outage or issue inside app](https://www.reuters.com/resizer/Lbxijv4GqYSTbaxuw1oE1kSmJak=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/346Y7E5CWZIAVPJBP7JZGXHLNY.jpg "Instagram testing feature to notify users of outage or issue inside app")
+
+
+[Instagram testing feature to notify users of outage or issue inside app](https://www.reuters.com/technology/instagram-testing-feature-notify-users-outage-or-issue-inside-app-2021-10-11/)
+
+
+> Silhouettes of mobile users are seen next to a screen projection of Instagram logo in this picture illustration taken March 28, 2018. REUTERS/Dado Ruvic/Illustration/File Photo Oct 11 (Reuters) - Facebook Inc's (FB.O) Instagram said on Monday it is testing a feature to notify users of outages or technical issues directly on the photo-sharing app. The test will run in the United States and will go on for a few months, Instagram said in a blog post. (https://bit.ly/3oRjLwM) Reporting by Chavi Mehta in Bengaluru; Editing by Shailesh Kuber Our Standards: The Thomson Reuters Trust Principles.
+
+
+***
+![Pokemon Go Halloween 2021 event: Pumpkaboo, Misunderstood Mischief and more](https://www.cnet.com/a/img/x5sl7vir4od_WIzK1ZM7NaDUeAU=/1200x630/2021/10/11/31268322-a1b2-4bba-ad34-a2486499086d/pokemon-go-halloween-2021.jpg "Pokemon Go Halloween 2021 event: Pumpkaboo, Misunderstood Mischief and more")
+
+
+[Pokemon Go Halloween 2021 event: Pumpkaboo, Misunderstood Mischief and more](https://www.cnet.com/tech/gaming/pokemon-go-halloween-2021-event-pumpkaboo-misunderstood-mischief-and-more/)
+
+
+> Niantic Pokemon Go's Halloween 2021 event kicks off on Friday, Oct. 15. This year's event will be divided up into two parts, and it'll feature various Halloween-themed Pokemon and activities, including a few brand-new ghost Pokemon from the Kalos region and the next chapter of the Misunderstood Mischief Special Research story. Here's everything you need to know about Pokemon Go's Halloween 2021 event.Event-long featuresAlthough the Halloween 2021 event is divided up into two parts, some features will be available across both.
+
+
