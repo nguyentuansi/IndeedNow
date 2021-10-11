@@ -12639,3 +12639,53 @@
 > Facebook said that it'll soon introduce new measures on its apps that would nudge teens to keep away from the kind of content that can do them harm. ReutersAlso Read: Facebook Crisis: Whistleblower Shares How FB Chose Profit Over User's Mental HealthAs per a report by Reuters, this was revealed by Nick Clegg, Facebook's vice president of global affairs who expressed that he was open to the idea of allowing regulators to gain access to algorithms used by Facebook that are helpful in amplifying content.
 
 
+***
+![According to an analyst, the EU is 'cowering' its fears that Putin will switch off the gas](https://en.brinkwire.com/nerede/uploads/2021/10/vladimir-putin-1502747.jpg "According to an analyst, the EU is 'cowering' its fears that Putin will switch off the gas")
+
+
+[According to an analyst, the EU is 'cowering' its fears that Putin will switch off the gas](https://en.brinkwire.com/news/according-to-an-analyst-the-eu-is-cowering-its-fears-that-putin-will-switch-off-the-gas-hostage-to-russia/)
+
+
+> The EU's dependency on Russian gas could also impact the UK as all European markets are connected. This week, natural gas contracts hit new highs in Europe and the UK, as increased demand and a squeeze in supply continued to put pressure on the energy sector. Regional benchmark prices are up almost 500 percent so far this year, with the UK seeing prices for November rise by 14 percent to £2.79 per therm on Tuesday. In an apparent attempt to bring some stability to energy markets, Vladimir Putin said on Wednesday that Moscow would export record volumes of natural gas to Europe this year.
+
+
+***
+![That's it! That's why we left! Brexit Britain is eyeing another big trade win as a £2.6 billion deal approaches. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/boris-johnson-dubai-1502699.jpg "That's it! That's why we left! Brexit Britain is eyeing another big trade win as a £2.6 billion deal approaches. » Brinkwire")
+
+
+[That's it! That's why we left! Brexit Britain is eyeing another big trade win as a £2.6 billion deal approaches. » Brinkwire](https://en.brinkwire.com/news/thats-it-thats-why-we-left-brexit-britain-is-eyeing-another-big-trade-win-as-a-2-6-billion-deal-approaches/)
+
+
+> That's it! That's why we left! Brexit Britain is eyeing another big trade win as a £2.6 billion deal approaches. THE UNITED KINGDOM is closing in on another Brexit victory, with the International Trade Secretary confirming that the UK is in talks with the Gulf Cooperation Council (GCC), an economic union of Arab states worth more than £2.6 trillion. Julian Jessop, the former Chief Economist at the Institute of Economic Affairs, lauded the announcement as proof that Britain is setting up new trade agreements considerably faster than Brexit skeptics imagined.
+
+
+***
+![Is now the right time to buy an automatic pet feeder?](https://icdn.digitaltrends.com/image/digitaltrends/petsafe-smart-feed-automatic-dog-and-cat-feeder-review-6.jpg "Is now the right time to buy an automatic pet feeder?")
+
+
+[Is now the right time to buy an automatic pet feeder?](https://www.digitaltrends.com/home/best-time-to-buy-automatic-pet-feeder/)
+
+
+> Did you get a pandemic puppy? Maybe you rescued a COVID cat for company? If you're working out the best way to manage your pet's day-to-day needs as your work situation changes, it might be time to consider an automatic pet feeder. You can also find plenty of other cool pet tech out there to help keep you in tune with your pet. What is an automatic pet feeder? An automatic pet feeder allows you to automatically dispense dry kibble or even wet food to your dog or cat according to a set schedule. Many automatic feeders allow you to customize the amount and dial in the precise times of the day so your pet can maintain a schedule.
+
+
+***
+![Google Pixel 6 showed off in leaked listing ahead of launch, report says](https://www.cnet.com/a/img/h5JYkw-wthHiO9DRZ-aFgA_lX5E=/1200x630/2021/08/02/ee0177a5-69c6-44f1-8c19-eeaca45f41ce/pixel-6-group-image-purple-lime.jpg "Google Pixel 6 showed off in leaked listing ahead of launch, report says")
+
+
+[Google Pixel 6 showed off in leaked listing ahead of launch, report says](https://www.cnet.com/tech/mobile/google-pixel-6-showed-off-in-leaked-listing-ahead-of-launch-report-says/)
+
+
+> Google Google's Pixel 6 and Pixel 6 Pro are scheduled to launch at the company's next event on Oct. 19, and with a little over a week to go until the phone's expected debut, the upcoming Pixel's specs and features have been leaked by UK online retailer Carphone Warehouse, according to a Monday Gizmodo report. The listing from Carphone Warehouse has since been removed, but screenshots from the company's website were posted to Twitter by leaker Evan Blass.  The features shown in the listing reportedly include a 6.
+
+
+***
+![EXCLUSIVE: US Bank's Timothy Welsh On Powering Human Potential At Utah Fintech Conference](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/cover_photo_54.png "EXCLUSIVE: US Bank's Timothy Welsh On Powering Human Potential At Utah Fintech Conference")
+
+
+[EXCLUSIVE: US Bank's Timothy Welsh On Powering Human Potential At Utah Fintech Conference](https://www.benzinga.com/fintech/21/10/23292225/exclusive-us-banks-timothy-welsh-on-powering-human-potential-at-utah-fintech-conference)
+
+
+> In light of the disruptive innovation in finance, customers are finding it difficult to bank with only one provider. Fintech offers increased access — democratization – while banks have the human capital to personalize.  The key to maximizing value for customers is merging human and digital experiences. That's according to U.S. Bancorp's (NYSE: USB) U.S. Bank vice chair of consumer and business banking Timothy Welsh, one of the many financial executives, influencers and fintech leaders in attendance at the Money Experience Summit at Snowbird Resort, Utah.
+
+
