@@ -12833,3 +12833,53 @@
 > Niantic Pokemon Go's Halloween 2021 event kicks off on Friday, Oct. 15. This year's event will be divided up into two parts, and it'll feature various Halloween-themed Pokemon and activities, including a few brand-new ghost Pokemon from the Kalos region and the next chapter of the Misunderstood Mischief Special Research story. Here's everything you need to know about Pokemon Go's Halloween 2021 event.Event-long featuresAlthough the Halloween 2021 event is divided up into two parts, some features will be available across both.
 
 
+***
+![The best laptops to buy in 2021](https://icdn.digitaltrends.com/image/digitaltrends/dell-xps-13-2020-01-3-2-3-2-2-2.jpg "The best laptops to buy in 2021")
+
+
+[The best laptops to buy in 2021](https://www.digitaltrends.com/computing/best-laptops/)
+
+
+> We've tested and reviewed well over 400 laptops over the years, searching for the best of the best. But to earn the crown for 'best laptop' in 2021, it needs to have it all: Gorgeous design, killer performance, a productive keyboard, long-lasting battery life, and much more. Each of the laptops below has been vetted thoroughly, whether it's an affordable Chromebook or a decked-out gaming laptop. Our pick for the best overall laptop, the Dell XPS 13, is the option we recommend to most people, but something from the list below should suit your needs.
+
+
+***
+![[News only] Trespassing is 'not even a dog'... White Goo who keeps the signal](https://img.sbs.co.kr/newimg/news/20211012/201599362_1280.jpg "[News only] Trespassing is 'not even a dog'... White Goo who keeps the signal")
+
+
+[[News only] Trespassing is 'not even a dog'... White Goo who keeps the signal](https://www.tellerreport.com/tech/2021-10-12-[news-only]-trespassing-is--not-even-a-dog-----white-goo-who-keeps-the-signal.r18IfUfBY.html)
+
+
+> There are a lot of traffic accidents due to pedestrians crossing the street, but a scene where a dog without a leash crosses the road by observing a pedestrian signal is being caught. There are a lot of traffic accidents due to pedestrians crossing the street, but a scene where a dog without a leash crosses the road by observing a pedestrian signal is being caught. Last May, a dog on a road in Jeju Island stood in front of a crosswalk and waited and crossed the road when the light turned green.
+
+
+***
+![Three series to watch in one day](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339478391606.jpg "Three series to watch in one day")
+
+
+[Three series to watch in one day](https://www.tellerreport.com/tech/2021-10-12-three-series-to-watch-in-one-day.SJEBMIzrF.html)
+
+
+> Lovers of serial bingeing are in luck. Platforms such as Amazon Prime Video, Movistar + or Disney + have perfect proposals to see in one day ... Success The Squid Game, the Netflix series you must see (before they make you spóiler)Interview Karra Elejalde: "The protagonists of the series La Fortuna are ignored heroes"Lovers ofserial bingeingare in luck.Platforms such asAmazon Prime Video, Movistar + or Disney +have perfect proposals to see in one day.Here are three examples:Condemnation,what if .
+
+
+***
+![Lay down like it's my house... Students who use unmanned stores as 'hideouts'](https://static.sbsdlab.co.kr/image/thumb_default.png "Lay down like it's my house... Students who use unmanned stores as 'hideouts'")
+
+
+[Lay down like it's my house... Students who use unmanned stores as 'hideouts'](https://www.tellerreport.com/tech/2021-10-12-lay-down-like-it-s-my-house----students-who-use-unmanned-stores-as--hideouts-.S1fTa-LGSt.html)
+
+
+> A picture of teenagers using an unmanned store without people as if they were their own home was released online, causing controversy. Four young-looking girls are sitting on the ice cream freezer and self-checkout counter. A picture of teenagers using an unmanned store without people as if they were their own home was released online, causing controversy.Four young-looking girls are sitting on the ice cream freezer and self-checkout counter.I even lie on the floor with my legs crossed as if it were my house.
+
+
+***
+![Princess Anne is planting trees in response to a demand for royals to "speak and do more" to save the environment. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/anne-1503609.jpg "Princess Anne is planting trees in response to a demand for royals to "speak and do more" to save the environment. » Brinkwire")
+
+
+[Princess Anne is planting trees in response to a demand for royals to "speak and do more" to save the environment. » Brinkwire](https://en.brinkwire.com/news/princess-anne-is-planting-trees-in-response-to-a-demand-for-royals-to-speak-and-do-more-to-save-the-environment/)
+
+
+> The Queen's Green Canopy will be a lasting legacy of Her Majesty's reign with a clear focus on the environment. People across the UK are being encouraged to plant a sustainable tree to commemorate the Queen's Platinum Jubilee. The Queen's daughter Princess Anne took part in the Queen's Green Canopy for the second time, as she dug a tree in at St Barnabas Church of England Primary School in Worcester. Princess Anne is also believed to have spoken to the children and teachers at the school about the environment.
+
+
