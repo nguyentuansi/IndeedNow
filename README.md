@@ -13268,3 +13268,43 @@
 > A 3D-printed logo for Twitter is seen in this picture illustration made in Zenica, Bosnia and Herzegovina on January 26, 2016. REUTERS/Dado Ruvic/IllustrationOct 12 (Reuters) - Twitter Inc (TWTR.N) on Tuesday rolled out new ad features and revamped the algorithm that decides which ads users see, as part of an effort to lay the groundwork to launch future ecommerce features, the social networking company told Reuters.The new features come as Twitter is pushing to grow its performance advertising business, a strategy that aims to quickly generate sales, and constituted just 15% of Twitter's business last year.
 
 
+***
+![SteelSeries' new water-resistant Apex 3 keyboard was made for clumsy gamers](https://icdn.digitaltrends.com/image/digitaltrends/apex3tkl_insitu_main_wide.jpg "SteelSeries' new water-resistant Apex 3 keyboard was made for clumsy gamers")
+
+
+[SteelSeries' new water-resistant Apex 3 keyboard was made for clumsy gamers](https://www.digitaltrends.com/computing/steelseries-apex-3-tkl-keyboard-ip32/)
+
+
+> If you're a gamer who has butterfingers, then you may want to check out the new SteelSeries Apex 3 TenKeyLess keyboard, which has earned IP32 certification for dust and water resistance. Even though water-resistant keyboards aren't a novel concept — they've been available as part of many enterprise-grade laptops and notebooks for years — the Apex 3 TKL is billed as the first water-resistant TKL gaming keyboard. This makes it convenient — and safe — for gamers to have a drink next to them so they can stay hydrated during longer gaming sessions.
+
+
+***
+![All you need to know about Hulu and Hulu with Live TV](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/hulu-banner.jpg "All you need to know about Hulu and Hulu with Live TV")
+
+
+[All you need to know about Hulu and Hulu with Live TV](https://www.androidcentral.com/hulu-and-hulu-live-tv-everything-you-need-know)
+
+
+> Source: Hulu Since launching back in 2007, Hulu has established itself as one of the most versatile and affordable streaming services. Now owned by Disney, the platform has expanded with a variety of subscription plans and offers plenty of live channels as part of its Hulu + Live TV cable replacement plan. Whether you're looking to subscribe to Hulu for the first time, are considering upgrading your current plan, we've got all the details. Here's everything you need to know about Hulu and Hulu with Live TV.
+
+
+***
+![AirPods 3 could finally debut at Apple's Unleashed event on October 18](https://icdn.digitaltrends.com/image/digitaltrends/airpods-pro-red-iphone.jpg "AirPods 3 could finally debut at Apple's Unleashed event on October 18")
+
+
+[AirPods 3 could finally debut at Apple's Unleashed event on October 18](https://www.digitaltrends.com/home-theater/apple-airpods-3-release-date-price-specs-news/)
+
+
+> In what was a surprise to many Apple watchers, the new and widely anticipated AirPods 3 did not make their debut at Apple's September 14 California Streaming event. But now that Apple has confirmed it will hold another event on October 18, which it has dubbed 'Unleashed,' our expectation is that the company will use this event to finally launch the next version of the iconic white earbuds. Bloomberg's Mark Gurman previously claimed the AirPods 3 would arrive in 2021, along with a new MacBook Pro, and the Unleashed event would certainly be a match for that prediction.
+
+
+***
+![AMD just revealed some key details about its upcoming Zen 4 processors](https://icdn.digitaltrends.com/image/digitaltrends/ryzen-zen-4-processors.jpg "AMD just revealed some key details about its upcoming Zen 4 processors")
+
+
+[AMD just revealed some key details about its upcoming Zen 4 processors](https://www.digitaltrends.com/computing/amd-revealed-key-details-about-upcoming-zen-4-chips/)
+
+
+> AMD has released a video to celebrate five years of the Ryzen brand, and it revealed some juicy tidbits about future products. In this video, John Taylor and Robert Hallock of AMD teased what the manufacturer has in store for 2022, including processors from both the Zen 3 and Zen 4 lines. In the video Hallock, director of technical marketing at AMD, confirms the rumors of a new platform coming next year. The new processors, complete with a new socket and DDR5 memory support, are going to be released in 2022.
+
+
