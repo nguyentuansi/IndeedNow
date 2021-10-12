@@ -13358,3 +13358,53 @@
 > October 12, 2021 03:45 PM Eastern Daylight Time TOKYO & BURLINGAME, Calif.--(BUSINESS WIRE)--NSITEXE, a Japanese subsidiary of DENSO with strong expertise in automotive and high-performance semiconductor IP for multiple industries and Quadric, an innovator in high-performance edge processing, today announced they are partnering to leverage quadric's processor IP together with NSITEXE's processor IPs to develop safety solutions for automotive and other applications, such as autonomous driving, mobility-as-a-service (MaaS) and smart sensors.
 
 
+***
+![Windows 11: Download and install it now, even if your computer didn't get the update yet](https://www.cnet.com/a/img/Zlhst7zdVp5OSd9MLZQ15ST8uQs=/1200x630/2021/06/24/e58fceb6-e7c1-40fb-bf6d-b29e81f9a713/screen-shot-2021-06-24-at-11-45-41-am-2.png "Windows 11: Download and install it now, even if your computer didn't get the update yet")
+
+
+[Windows 11: Download and install it now, even if your computer didn't get the update yet](https://www.cnet.com/tech/services-and-software/windows-11-download-and-install-it-now-even-if-your-computer-didnt-get-the-update-yet/)
+
+
+> Windows 11 is here, and it's free to download for Windows 10 users. Microsoft Windows 11 began its rollout last week, as Microsoft launched its new operating system to eligible devices on Oct. 5. Everyone already using Windows 10 can upgrade for free if they have a compatible computer. Note that Microsoft is rolling out the OS in phases, so your system might not prompt you to upgrade just yet -- in fact, you might not find it even if you tell your computer to check for updates. An August blog post from Microsoft said the company expects "all eligible devices to be offered the free upgrade to Windows 11 by mid-2022.
+
+
+***
+![All the best pre-Black Friday deals on robot vacuums](https://helios-i.mashable.com/imagery/articles/01P0ITGboMeKRD7Np4tUAOq/hero-image.fill.size_1200x675.v1634069562.jpg "All the best pre-Black Friday deals on robot vacuums")
+
+
+[All the best pre-Black Friday deals on robot vacuums](https://mashable.com/deals/black-friday-robot-vacuum-deals)
+
+
+> Deal pricing and availability subject to change after time of publication. The best pre-Black Friday deals on robot vacuums live as of Oct. 12:Move over, laptops and 4K TVs: Robot vacuums are a hot Black Friday item, too.Features like specific room targeting and automatic emptying aren't reserved for the Roomba budget anymore. In 2021, we saw a particularly high number of new launches from brands like Ecovacs and Roborock (as well as iRobot, of course). Whether these new models go on sale themselves or prompt serious discounts for previous releases, we expect Black Friday 2021 to be great time to buy a robot vacuum.
+
+
+***
+![Apple released four iPhone 13 versions. What's the difference?](https://www.cnet.com/a/img/UGqJ3gr5XnLULLW3KjV4VBtUd8c=/1200x630/2021/09/14/610e0eaf-9960-4daa-a34b-470826204e15/apple-event-091421-iphone-13-34.jpg "Apple released four iPhone 13 versions. What's the difference?")
+
+
+[Apple released four iPhone 13 versions. What's the difference?](https://www.cnet.com/tech/mobile/iphone-13-vs-13-mini-vs-13-pro-vs-13-pro-max-whats-the-difference/)
+
+
+> Apple announced its new iPhone lineup at its September event alongside the Apple Watch 7, iPad Mini 6 and updated entry-level iPad. The new flagship, named the iPhone 13, mirrors last year's iPhone 12 collection with standard, Mini, Pro and Pro Max versions. The updated iPhone runs on iOS 15, which is now publicly available to install, and features a few camera upgrades, upped storage, a new A15 Bionic processor and more. (Here's how you can get the iPhone 13 and how the iPhone 13 compares to the iPhone 13 Mini.
+
+
+***
+![Best Buy is practically handing out massive TVs during this SURPRISE SALE](https://icdn.digitaltrends.com/image/digitaltrends/lg-65-inch-class-nanocell-90-series-led-4k-uhd-smart-webos-tv.jpg "Best Buy is practically handing out massive TVs during this SURPRISE SALE")
+
+
+[Best Buy is practically handing out massive TVs during this SURPRISE SALE](https://www.digitaltrends.com/dtdeals/insignia-f50-lg-nanocell-65-inch-4k-tv-deal-best-buy-october-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Who doesn't love a surprise? Today, Best Buy is making us all happy with a surprise sale, featuring some of the best 4K TV deals one could ask for, with discounts of more than $200 off. It's a great time to update your home theater with these Best Buy TV deals and soundbar deals. Don't miss out on these fantastic deals at Best Buy: 65-inch Insignia F50 Series QLED 4K UHD Smart Fire TV – $580, was $800 Amazon If you're browsing 65-inch 4K TV deals, you may already know that a 65-inch screen can be the perfect size for an apartment, living room, or even a bedroom.
+
+
+***
+![Black Friday wireless earbuds deals 2021: early sales and what to expect](https://cdn.mos.cms.futurecdn.net/vU23s5Pf4XL32nXs5ibG65-1200-80.jpg "Black Friday wireless earbuds deals 2021: early sales and what to expect")
+
+
+[Black Friday wireless earbuds deals 2021: early sales and what to expect](https://www.techradar.com/black-friday/best-wireless-earbuds-deals)
+
+
+> If you're on the hunt for this year's best Black Friday wireless earbuds deals, you've come to the right place. In just a few weeks, we're going to see a slew of deals on some of this year's top models from Apple, Bose, Sony, Sennheiser and many more. This year, Black Friday 2021 falls on Friday, November 26 and we expect to see deals coming in fast and furious as soon as the clock strikes midnight. While all the best deals will drop in the 72-hour period between Black Friday and Cyber Monday, we wouldn't be surprised to see at least a few great deals drop in the leadup.
+
+
