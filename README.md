@@ -12883,3 +12883,47 @@
 > The Queen's Green Canopy will be a lasting legacy of Her Majesty's reign with a clear focus on the environment. People across the UK are being encouraged to plant a sustainable tree to commemorate the Queen's Platinum Jubilee. The Queen's daughter Princess Anne took part in the Queen's Green Canopy for the second time, as she dug a tree in at St Barnabas Church of England Primary School in Worcester. Princess Anne is also believed to have spoken to the children and teachers at the school about the environment.
 
 
+***
+[Microsoft makes a preview version of Windows Subsystem for Linux for Windows 11 available in the Microsoft Store, decoupling the app from the Windows image (Mary Jo Foley/ZDNet)](http://www.techmeme.com/211011/p23#a211011p23)
+
+
+> Mary Jo Foley / ZDNet: Microsoft makes a preview version of Windows Subsystem for Linux for Windows 11 available in the Microsoft Store, decoupling the app from the Windows image — Microsoft is taking the first step toward making WSL available as a decoupled app available via the Microsoft Store via a first preview release.
+
+
+***
+![Samsung Galaxy S22 series could miss a big charging speed upgrade after all](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/samsung-galaxy-s22-ultra-leaked-render-2.jpg "Samsung Galaxy S22 series could miss a big charging speed upgrade after all")
+
+
+[Samsung Galaxy S22 series could miss a big charging speed upgrade after all](https://www.androidcentral.com/samsung-galaxy-s22-charging-speed-could-be-its-biggest-disappointment)
+
+
+> Source: Digit / Onleaks A new regulatory certification has revealed the charging speed for Samsung's upcoming Galaxy S22 series. The next-generation flagship smartphones could have a maximum charging speed of 25W. Previous reports suggested that the Galaxy S22 phones would finally have an upgraded charging speed of 65W. Samsung's upcoming flagship phone may not have a significant charging speed upgrade as previously rumored. A new certification filed with regulators in China claims that the Samsung Galaxy S22 series' battery will peak only at 25W.
+
+
+***
+![All 10 Spider-Man movies ranked, from worst to best](https://www.cnet.com/a/img/YVBXlw8wlu8Zpi3vVUNmE2ravMU=/1200x630/2021/09/03/afa4abf1-ea46-45bf-b4d0-84259920a236/qlwgiefucodivdzjgil7.jpg "All 10 Spider-Man movies ranked, from worst to best")
+
+
+[All 10 Spider-Man movies ranked, from worst to best](https://www.cnet.com/news/all-10-spider-man-movies-ranked-from-worst-to-best/)
+
+
+> Venom 2 has entered the building. Sony Sometimes, sequels are better than the original. In Venom 2: Let There Be Carnage's case, it just pips its 2018 predecessor -- in this Spider-Man ranking list at least.Especially after the record-breaking Spider-Man: No Way Home trailer, you might be enticed to go back and rewatch some of the older Spider-Man movies. Movies that feature Tobey Maguire and Andrew Garfield's iterations of the friendly neighbourhood web-slinger. Also, who knows, we may see those guys swinging into the MCU thanks to its current obsession with the multiverse.
+
+
+***
+[Instagram testing feature to notify users of outage or issue inside app](https://www.zeebiz.com/technology/news-instagram-testing-feature-to-notify-users-of-outage-or-issue-inside-app-167577)
+
+
+> Facebook Inc's Instagram said on Monday it is testing a feature to notify users of outages or technical issues directly on the photo-sharing app, days after two outages disrupted the social media giant's services.
+
+
+***
+![Instagram wants to let you know when it's down...on Instagram](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/instagram-activity-feed-outage-notification.jpg "Instagram wants to let you know when it's down...on Instagram")
+
+
+[Instagram wants to let you know when it's down...on Instagram](https://www.imore.com/instagram-wants-let-you-know-when-its-downon-instagram)
+
+
+> Source: Instagram Instagram is testing a new feature to bring clarity to temporary issues affecting the app. The new feature will live at the top of the Activity Feed. It will notify users of outages or technical issues as well as when they are resolved. Last week, Facebook and its owned businesses went offline for almost six hours. The outage affected not only Facebook but Instagram, WhatsApp, Oculus, and more. Today, Instagram has announced that it is beginning to test a new feature that hopes to bring clarity to some of these situations when they occur.
+
+
