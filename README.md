@@ -12977,3 +12977,50 @@
 > Apple has released iOS 15.0.2, the second update to the iOS 15 operating system that was released in September. According to Apple's release notes, the updates address several issues, including bugs in the Find My app that prevented the iPhone Leather Wallet with MagSafe as well as AirTag from connecting or appearing in the app. The update also adds fix for a CarPlay bug that could cause CarPlay to fail to open audio apps, and an issue that could cause device restore or updates to fail on iPhone 13 models.
 
 
+***
+[Amazfit GTR 3 Pro, GTR 3, and GTS 3 are now official](http://www.pinkvilla.com/tech/news/amazfit-gtr-3-pro-gtr-3-and-gts-3-are-now-official-915718)
+
+
+> Attach Main technology Image: Image Caption: Amazfit GTR 3 Pro, GTR 3, and GTS 3 are now official Social Media Image : Enter the Technology details: Amazfit has finally launched its third iteration of its GTR and GTS series of smartwatches. Unlike last year it has released 3 new models with a special Pro model for the GTR lineup. So the newly announced models are GTR 3 Pro, GTR 3 and GTS 3.   All three watches have similar basic features but they each have unique strengths.
+
+
+***
+![Watch Nissan's awesome new ‘Intelligent Factory' in action](https://icdn.digitaltrends.com/image/digitaltrends/nissan-intelligent-factory.jpg "Watch Nissan's awesome new ‘Intelligent Factory' in action")
+
+
+[Watch Nissan's awesome new ‘Intelligent Factory' in action](https://www.digitaltrends.com/cars/watch-nissans-awesome-new-intelligent-factory-build-a-car/)
+
+
+> Nissan has launched its most advanced production line to date as it works toward creating an emissions-free manufacturing process for its next-generation vehicles. Using the very latest robotic technology, the Nissan Intelligent Factory started operating this week in Tochigi, Japan, about 50 miles north of Tokyo. The automaker shared a video (below) showing off the new facility, which will manufacture vehicles such as the all-new Ariya electric crossover destined for the U.S. in 2022. As the video shows, the Nissan Intelligent Factory not only builds the vehicle, but also performs incredibly detailed quality checks using robots programmed to search for foreign objects as small as 0.
+
+
+***
+![ThoughtFull gets $1.1M seed to make mental health support more accessible in Southeast Asia – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/Person-using-TFC.jpg?w=711 "ThoughtFull gets $1.1M seed to make mental health support more accessible in Southeast Asia – TechCrunch")
+
+
+[ThoughtFull gets $1.1M seed to make mental health support more accessible in Southeast Asia – TechCrunch](https://techcrunch.com/2021/10/11/thoughtfull-gets-1-1m-seed-to-make-mental-health-support-more-accessible-in-southeast-asia/)
+
+
+> Depression and anxiety were taking a serious toll on peoples' well-being even before COVID-19, and the pandemic prompted more interest (and venture capital) in mental health startups. While many of the highest profile mental health startups, like Calm or Headspace Health, are based in the United States, more attention is also being paid to emotional wellness around the world. In Southeast Asia, for example, a growing list of startups is increasing access to mental healthcare and support. One of them, ThoughtFull, announced today it has raised $1.
+
+
+***
+![Eternals Will Have Two Post-Credits Scenes, Director Chloé Zhao Says](https://i.gadgets360cdn.com/large/eternals_post_credits_scenes_2_1634017373302.jpg "Eternals Will Have Two Post-Credits Scenes, Director Chloé Zhao Says")
+
+
+[Eternals Will Have Two Post-Credits Scenes, Director Chloé Zhao Says](https://gadgets.ndtv.com/entertainment/news/eternals-post-credits-scenes-2-mid-chloe-zhao-big-surprises-equally-important-marvel-mcu-2572524)
+
+
+> Eternals — the next Marvel movie from Oscar-winning filmmaker Chloé Zhao — will have two scenes during the film's credits. Both of them are 'equally important' and contain 'big surprises,' Zhao has teased. That means Eternals will have both a mid-credits scene and a post-credits scene. This is nothing new for a Marvel Cinematic Universe chapter, but it's still great to have prior confirmation from the writer-director herself. Now you know to stay in your seats right through the end of Eternals.'Yes! Don't just stay for the first one — also stay for the second one, too,' Zhao told Fandango when asked about Eternals post-credits scenes.
+
+
+***
+![Someone Is Selling Squid Game's Invitation Card, Unofficial Merchandise Online](https://im.indiatimes.in/content/2021/Oct/Facebook-Image---2021-10-11T194015410_61644666f3ce2.jpg "Someone Is Selling Squid Game's Invitation Card, Unofficial Merchandise Online")
+
+
+[Someone Is Selling Squid Game's Invitation Card, Unofficial Merchandise Online](https://www.indiatimes.com/technology/news/squid-game-unofficial-merchandise-online-551431.html)
+
+
+> Over the past few weeks, binge-watchers can't stop talking about Squid Game on Netflix, the South Korean battle royale survivor series which has taken over the world since its release a few weeks ago. ALSO READ: Desis Have Given Their Own Twist To These Squid Game Scenes And The Results Are Hilarious Memes NetflixAlso Read: Watching Netflix Or YouTube Videos Is Bad For Earth, But You'll Hate The FixNamed after a common Korean schoolyard game, the story surrounds a series of games that kids in schools played when they were little.
+
+
