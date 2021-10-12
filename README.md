@@ -13024,3 +13024,53 @@
 > Over the past few weeks, binge-watchers can't stop talking about Squid Game on Netflix, the South Korean battle royale survivor series which has taken over the world since its release a few weeks ago. ALSO READ: Desis Have Given Their Own Twist To These Squid Game Scenes And The Results Are Hilarious Memes NetflixAlso Read: Watching Netflix Or YouTube Videos Is Bad For Earth, But You'll Hate The FixNamed after a common Korean schoolyard game, the story surrounds a series of games that kids in schools played when they were little.
 
 
+***
+![Sony and TSMC's New Plant in Japan to Solve Global Chip Shortage? Would This Affect Apple's Relationship? » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/microchips-art.jpg "Sony and TSMC's New Plant in Japan to Solve Global Chip Shortage? Would This Affect Apple's Relationship? » Brinkwire")
+
+
+[Sony and TSMC's New Plant in Japan to Solve Global Chip Shortage? Would This Affect Apple's Relationship? » Brinkwire](https://en.brinkwire.com/technology/sony-and-tsmcs-new-plant-in-japan-to-solve-global-chip-shortage-would-this-affect-apples-relationship/)
+
+
+> Sony and TSMC's New Plant in Japan to Solve Global Chip Shortage? Would This Affect Apple's Relationship? The Global Chip Shortage may be addressed in the near future by two major corporations: Sony and TSMC, which is rumored to be establishing a facility in Japan. The question now concerns TSMC, which is an Apple partner in the development of unified silicon chips for a number of Apple devices, including the A-series and M-series SoCs. Although Sony and TSMC are building a semiconductor plant, this does not guarantee that these businesses will produce chips for the entire world.
+
+
+***
+![Sky denies it suffered a significant network breach](https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg "Sky denies it suffered a significant network breach")
+
+
+[Sky denies it suffered a significant network breach](https://www.techradar.com/news/sky-may-have-suffered-a-major-data-breach)
+
+
+> (Image credit: Shutterstock) Cybersecurity researchers have found what appears to be a configuration file hosted on a domain hosted by the Sky media group apparently listing access credentials of production-level databases in plain text.Discovered by CyberNews researchers during a threat intelligence gathering operation, the file appears to be the main configuration file of the application hosted on the ‘upliftmedia' subdomain of Sky.comIn addition to plain text access credentials to databases, the file also contains addresses to development endpoints.
+
+
+***
+![Amazon Great Indian Festival: OnePlus Bullets Wireless Z available at its lowest price](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/oneplus_wireless_z-original.jpg "Amazon Great Indian Festival: OnePlus Bullets Wireless Z available at its lowest price")
+
+
+[Amazon Great Indian Festival: OnePlus Bullets Wireless Z available at its lowest price](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-oneplus-bullets-wireless-z-available-at-its-lowest-price-1863874-2021-10-12)
+
+
+> Ayush Chourasia New Delhi, Oct 12, 2021, Updated Oct 12, 2021, 1:28 PM IST Story highlights Amazon Great India Festival is currently underway Headphones and speakers are selling with up to 80 per cent discount The OnePlus Bullets Wireless Z is selling at its lowest price for Rs 1799 .The Amazon Great India Festival has lowered down the pricing of a plethora of devices. This also includes headphones and speakers, which are selling at up to 80 per cent discount. Plus, there are bank discounts to make the deal even more lucrative.
+
+
+***
+![Amazon Great Indian Festival: Panasonic Lumix G7 Mirrorless Camera available with massive discount](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/41hkpcq0axl_1200x768-original.jpeg "Amazon Great Indian Festival: Panasonic Lumix G7 Mirrorless Camera available with massive discount")
+
+
+[Amazon Great Indian Festival: Panasonic Lumix G7 Mirrorless Camera available with massive discount](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-panasonic-lumix-g7-mirrorless-camera-available-with-massive-discount-1863870-2021-10-12)
+
+
+> Akarsh Verma New Delhi, Oct 12, 2021, Updated Oct 12, 2021, 1:25 PM IST Story highlights The Panasonic LUMIX G7 16.00 MP 4K Mirrorless Interchangeable Lens Camera Kit is selling for Rs. 35,990. The superior noise reduction system enables crisp images even in low light conditions up to ISO 25600. The DMC-G7 comes with a high-resolution OLED Live View Finder which allows high visibility due to a 10,0000:1 contrast ratio. Amazon's Great Indian Festival sale that started on October 3 is offering great deals and steep discounts across categories including cameras and DSLRs.
+
+
+***
+![#TECH: Teras appoints new CEO](https://assets.nst.com.my/images/articles/botsteras_NSTfield_image_socialmedia.var_1634025148.jpg "#TECH: Teras appoints new CEO")
+
+
+[#TECH: Teras appoints new CEO](https://www.nst.com.my/lifestyle/bots/2021/10/735862/tech-teras-appoints-new-ceo)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
