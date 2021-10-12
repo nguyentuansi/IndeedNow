@@ -13174,3 +13174,50 @@
 > A VIRAL hoax message is scaring WhatsApp users by claiming the app has been banned. The voice message also claims that users will be charged for using the app. A viral voice message is trying to scare WhatsApp usersCredit: Getty Images - Getty The viral message seems to have been around since 2019 but sometimes begins to circulate again in different variations. It's a big problem in India and even The Indian Express has had to debunk it in the past. Hoaxers have designed the message so that people feel pressurised to forward it on to other WhatsApp users.
 
 
+***
+[Life is a Life](https://www.reddit.com/r/Python/comments/q6mx9l/life_is_a_life/)
+
+
+> So my family used to be "kinda rich family" now it gets me to point thet think "why homeless people are homeless". Sory for bad english. And recently I started lerning python. Also gave up. Now writing to reddit knowing that we will not able afford internet bills for the next month. I know noone is going to read it but instead of writion on notepad it seems better. I have a heart of stone I know my mom and dad going throhg very bad times and i don't have a tier on my eyes. Now I have 2 or 3 to learn programming and save my family.
+
+
+***
+![Samsung is making a PS5-friendly version of its 980 Pro SSD](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/samsung-980-pro-heatsink.jpg "Samsung is making a PS5-friendly version of its 980 Pro SSD")
+
+
+[Samsung is making a PS5-friendly version of its 980 Pro SSD](https://www.androidcentral.com/samsung-reveals-ps5-compatible-980-pro-ssd-heatsink)
+
+
+> Source: Samsung Samsung's 980 Pro SSD is compatible with the PS5, but lacks a heatsink. Samsung announced the 980 Pro SSD with Heatsink on Tuesday, with 1 TB and 2 TB models available. The 980 Pro SSD with Heatsink is scheduled to be available at retailers on Oct 29, 2021. PS5 owners looking to expand their internal storage now have more options to choose from, as Samsung announced on Tuesday a version of the 980 Pro SSD with a heatsink attached. This new model is set to be available on Oct. 29, 2021, joining the ranks of the best PS5 SSDs currently available.
+
+
+***
+![Diablo Immortal: Closed Alpha, release date, everything you need to know](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/diablo-immortal-android-15.jpg "Diablo Immortal: Closed Alpha, release date, everything you need to know")
+
+
+[Diablo Immortal: Closed Alpha, release date, everything you need to know](https://www.androidcentral.com/diablo-immortal)
+
+
+> Source: Daniel Bader / Android Central Diablo Immortal was announced in late 2018 by Blizzard, and will be the first Diablo entry designed for play on mobile devices. While there are many mobile RPGs to play, Immortal will be the first full Diablo game designed from the ground up to be played on a mobile device, and thus carries a ton of excitement with it. Ever since its announcement, we've gotten a slow trickle of Diablo Immortal footage, including some gameplay. With two Technical Alpha's for Diablo Immortal having been released in 2020, Blizzard has also released a ton of new information on the game, including news on how monetization works, gameplay, and much more.
+
+
+***
+![A second Facebook whistleblower says she's willing to testify before Congress and that she's shared documents with a US law agency](https://external-preview.redd.it/M5YYwKaf4T8YgKhDxjqgmbXYllrfEAuIbhi-1pdOuFA.jpg?auto=webp&s=b93d9b593e08be1d1605b9722c77067f1421969b "A second Facebook whistleblower says she's willing to testify before Congress and that she's shared documents with a US law agency")
+
+
+[A second Facebook whistleblower says she's willing to testify before Congress and that she's shared documents with a US law agency](https://www.reddit.com/r/technology/comments/q6mp1t/a_second_facebook_whistleblower_says_shes_willing/)
+
+
+> Lemme guess, She's going to demand the government implement for censorship because Facebook won't, as well?
+
+
+***
+![What is the Smallest Linux ELF Executable? (2021 Edition)](https://external-preview.redd.it/lnxvIeTqn_GYmvfyY5b0Ahcn4DJqoSNxBCxvDWbJnPY.jpg?auto=webp&s=c5fc7bb9ccf15df29eefd6421deea6c78d2e6576 "What is the Smallest Linux ELF Executable? (2021 Edition)")
+
+
+[What is the Smallest Linux ELF Executable? (2021 Edition)](https://www.reddit.com/r/programming/comments/q6mnz1/what_is_the_smallest_linux_elf_executable_2021/)
+
+
+> no comments yetBe the first to share what you think!
+
+
