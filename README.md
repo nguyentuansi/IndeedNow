@@ -13308,3 +13308,53 @@
 > AMD has released a video to celebrate five years of the Ryzen brand, and it revealed some juicy tidbits about future products. In this video, John Taylor and Robert Hallock of AMD teased what the manufacturer has in store for 2022, including processors from both the Zen 3 and Zen 4 lines. In the video Hallock, director of technical marketing at AMD, confirms the rumors of a new platform coming next year. The new processors, complete with a new socket and DDR5 memory support, are going to be released in 2022.
 
 
+***
+![Southwest Airlines pilots and employees are defying corporate and government vaccine restrictions, and it's about time. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/6165d7df20302703c344e465.jpg "Southwest Airlines pilots and employees are defying corporate and government vaccine restrictions, and it's about time. » Brinkwire")
+
+
+[Southwest Airlines pilots and employees are defying corporate and government vaccine restrictions, and it's about time. » Brinkwire](https://en.brinkwire.com/technology/southwest-airlines-pilots-and-employees-are-defying-corporate-and-government-vaccine-restrictions-and-its-about-time/)
+
+
+> Southwest Airlines pilots and employees are defying corporate and government vaccine restrictions, and it's about time. R. M. Huffman is a physician, author, and cultural observer. Southwest is in the midst of a storm. Over 1,800 flights were canceled by the Texas-based airline over the weekend. Monday wasn't any better, with nearly 400 additional flights canceled. Alan Kasher, a spokesman for the company, blamed the business disruption on inclement weather in Florida and 'problems' with air traffic control.
+
+
+***
+![YouTube Music is available on even more Wear OS 2 smartwatches](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/youtube-music-logo-wear-os.jpg "YouTube Music is available on even more Wear OS 2 smartwatches")
+
+
+[YouTube Music is available on even more Wear OS 2 smartwatches](https://www.androidcentral.com/youtube-music-wear-os-2-launch)
+
+
+> Source: Nick Sutrich / Android Central Update, Oct 12 (16:00 ET): Expands to even more watches Google begins rolling out the YouTube Music app on its older Wear OS 2 platform. The app will arrive first on select smartwatches from Fossil and Mobvoi, with more coming later. YouTube Music was released as a Wear OS 3 exclusive on the Galaxy Watch 4. Users will be able to stream music offline, and the app will update playlists when connected to Wi-Fi. Google is bringing its new YouTube Music smartwatch app to devices running Wear OS 2, the company announced Monday in a blog post.
+
+
+***
+![A German retailer's leak of the Google Pixel 6 reveals specs, pricing, and more. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/google-pixel-6.jpg "A German retailer's leak of the Google Pixel 6 reveals specs, pricing, and more. » Brinkwire")
+
+
+[A German retailer's leak of the Google Pixel 6 reveals specs, pricing, and more. » Brinkwire](https://en.brinkwire.com/technology/a-german-retailers-leak-of-the-google-pixel-6-reveals-specs-pricing-and-more/)
+
+
+> Google Pixel 6 rumors and leaks are not anything new to tech enthusiasts and Google fans who have been monitoring the latest updates regarding the smartphone. The latest set of leaks, however, just might spark interest because of how comprehensive it is. The latest Google Pixel smartphone leak is thanks to a German retailer's advertisement, which reveals many details of the upcoming release. The details revealed by the leak include specs, pricing, and even a release date for Germany. Google Pixel 6 Leak by German Retailer A new Google Pixel 6 leak has made its way to the internet, giving tech enthusiasts and Google fans alike a better idea of what to expect from the new smartphone and even when to expect it to arrive.
+
+
+***
+![Best cheap iMac deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/apple-imac-5k-keybrd2.jpg "Best cheap iMac deals for October 2021")
+
+
+[Best cheap iMac deals for October 2021](https://www.digitaltrends.com/dtdeals/best-cheap-imac-deals/)
+
+
+> Want the power and comfort of a desktop computer without the bulk and weight of a big PC tower? What you need is an all-in-one, and if you're a Mac user, there's only one game in town: the venerable iMac. Apple's sleek AIO has been around for decades now (many of us fondly remember the famous bubble-shaped, multi-colored iMac G3), offering a great alternative to old-school desktops with its gorgeous display, slick hardware, and sturdy build quality. It just got a nice update, too, with the inclusion of Apple's awesome new M1 CPU, but whether you're after one of these newer models or you're looking for something cheaper, our hand-picked list of the best cheap iMac deals has what you need.
+
+
+***
+![NSITEXE and Quadric Start Joint Development High Performance Processor IP for Automotive Applications](https://mms.businesswire.com/media/20211012006125/en/915610/23/logo.jpg "NSITEXE and Quadric Start Joint Development High Performance Processor IP for Automotive Applications")
+
+
+[NSITEXE and Quadric Start Joint Development High Performance Processor IP for Automotive Applications](https://www.businesswire.com/news/home/20211012006125/en/NSITEXE-and-Quadric-Start-Joint-Development-High-Performance-Processor-IP-for-Automotive-Applications)
+
+
+> October 12, 2021 03:45 PM Eastern Daylight Time TOKYO & BURLINGAME, Calif.--(BUSINESS WIRE)--NSITEXE, a Japanese subsidiary of DENSO with strong expertise in automotive and high-performance semiconductor IP for multiple industries and Quadric, an innovator in high-performance edge processing, today announced they are partnering to leverage quadric's processor IP together with NSITEXE's processor IPs to develop safety solutions for automotive and other applications, such as autonomous driving, mobility-as-a-service (MaaS) and smart sensors.
+
+
