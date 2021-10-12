@@ -13074,3 +13074,53 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![EU to open probe into Nvidia's $54 billion bid for Arm](https://www.reuters.com/resizer/C3gJAlFgV9HC7n1xfw9LTXIRRCQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JSYJOX6QRZP4LKWE4FD3AM7KXE.jpg "EU to open probe into Nvidia's $54 billion bid for Arm")
+
+
+[EU to open probe into Nvidia's $54 billion bid for Arm](https://www.reuters.com/technology/eu-open-probe-into-nvidias-54-billion-bid-arm-sources-2021-10-12/)
+
+
+> The logo of technology company Nvidia is seen at its headquarters in Santa Clara, California February 11, 2015. REUTERS/Robert Galbraith/File PhotoBRUSSELS, Oct 12 (Reuters) - EU antitrust regulators are set to open a full-scale investigation into Nvidia's (NVDA.O) $54 bln bid for British chip designer Arm because concessions it offered are not sufficient to address competition concerns, people familiar with the matter said.The world's biggest maker of graphics and AI chips offered behavioural remedies, the people said.
+
+
+***
+![Local communities are a key piece in the broadband puzzle](https://thehill.com/sites/default/files/article_images/infrastructure_101121cf-istock_illustration_oped_web.jpg "Local communities are a key piece in the broadband puzzle")
+
+
+[Local communities are a key piece in the broadband puzzle](https://thehill.com/opinion/technology/576217-local-communities-are-a-key-piece-in-the-broadband-puzzle)
+
+
+> Broadband infrastructure is essential infrastructure. The COVID-19 pandemic has demonstrated the importance as well as the need for high-speed internet to connect workers to jobs, students to schools and people to one another in every community across the country. This need is not new. Internet use has been rapidly increasing over the past two decades. In 2000, 52 percent of adults in the U.S. used the internet; in 2021, that number is 93 percent.For years, federal, state and local governments have collaborated with telecommunications companies to build broadband infrastructure to accommodate increased use.
+
+
+***
+![Molnupiravir? Not So Fast. What About Tollovir? — Here's Why You Should Know What That Means](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2012/photo-1584483766114-2cea6facdf57.jpeg "Molnupiravir? Not So Fast. What About Tollovir? — Here's Why You Should Know What That Means")
+
+
+[Molnupiravir? Not So Fast. What About Tollovir? — Here's Why You Should Know What That Means](https://www.benzinga.com/general/biotech/21/10/23328847/molnupiravir-not-so-fast-what-about-tollovir-heres-why-you-should-know-what-that-means)
+
+
+> Photo by Martin Sanchez on Unsplash Merck (NYSE: MRK) announced last Friday impressive results from its COVID-19 antiviral, molnupiravir. As vaccines are requiring a third booster shot and anti-vaccine individuals remain at risk for COVID-19 hospitalization, death, and severe symptoms, the scientific community and Wall Street's attention has turned to COVID-19 therapeutics as the best way to handle breakthrough infections and potential future surges. Antivirals are the top contenders when it comes to therapeutics.
+
+
+***
+![Tile takes on Apple's AirTag with its new item tracker lineup](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/tile-black-pro-sticker-combo.jpg "Tile takes on Apple's AirTag with its new item tracker lineup")
+
+
+[Tile takes on Apple's AirTag with its new item tracker lineup](https://www.imore.com/tile-takes-apples-airtag-its-new-item-tracker-lineup)
+
+
+> Source: Tile Tile has announced its latest lineup of item trackers. The company is introducing the Tile Ultra, its first item tracker with support for Ultra-Wideband. It is also launching a Point and Locate feature along with the new product. Tile, the most popular item tracker company in the world, has announced its latest lineup of products. The announcement includes the introduction of the Tile Ultra, the company's first item tracker with support for Ultra-Wideband and its "Point and Locate" feature.
+
+
+***
+![Swapped Blood, Faked Data, and a Lab Gone Bad](https://media.wired.com/photos/6164883f79ac4f82ee6915b0/191:100/w_1280,c_limit/WI110121_FF_Drug_Trials_01.jpg "Swapped Blood, Faked Data, and a Lab Gone Bad")
+
+
+[Swapped Blood, Faked Data, and a Lab Gone Bad](https://www.wired.com/story/swapped-blood-faked-data-lab-gone-bad/)
+
+
+> The email that Joe Hagood received in August 2017 was vague and brief, but too unsettling to ignore.Hagood worked at Medpace, a Cincinnati company that tests new drugs for pharmaceutical manufacturers. His job was to supervise the independent research centers that Medpace pays to handle the nitty-gritty of human trials: finding volunteers, dispensing medications, tracking side effects. The author of the unsettling email, Justina Bruinekool, was a staffer at one of those centers. She claimed to have an urgent reason for writing: Her employer was fraudulently conducting a major trial that Hagood was overseeing.
+
+
