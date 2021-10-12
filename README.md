@@ -12927,3 +12927,53 @@
 > Source: Instagram Instagram is testing a new feature to bring clarity to temporary issues affecting the app. The new feature will live at the top of the Activity Feed. It will notify users of outages or technical issues as well as when they are resolved. Last week, Facebook and its owned businesses went offline for almost six hours. The outage affected not only Facebook but Instagram, WhatsApp, Oculus, and more. Today, Instagram has announced that it is beginning to test a new feature that hopes to bring clarity to some of these situations when they occur.
 
 
+***
+![What Is The Best Way To Use Google Guitar Tuner? Here's How to Get the New Feature and Other Information. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/how-to-use-google-guitar-tuner-heres-how-you-can-access-the-new-feature-and-other-details.jpg "What Is The Best Way To Use Google Guitar Tuner? Here's How to Get the New Feature and Other Information. » Brinkwire")
+
+
+[What Is The Best Way To Use Google Guitar Tuner? Here's How to Get the New Feature and Other Information. » Brinkwire](https://en.brinkwire.com/technology/what-is-the-best-way-to-use-google-guitar-tuner-heres-how-to-get-the-new-feature-and-other-information/)
+
+
+> Google Tuner could help you achieve the right guitar pitch. As of the moment, Google is making huge efforts to enhance its search engine service and other products. Brinkwire News:  Google Play Store New Interface for Android 12 | Material You Dynamic Color Change These include the new Google guitar tuner, which currently works in smartphones, laptops, and computers. Unlike other fancy digital tuners, which offer animated whistles or bells, this new Google feature has a simple gray and white design.
+
+
+***
+![IBM unveils environmental intelligence suite for AI-driven sustainability](https://itwire.com/media/k2/items/cache/4a96fa56d8e3dd40e95d39d245352adc_XS.jpg "IBM unveils environmental intelligence suite for AI-driven sustainability")
+
+
+[IBM unveils environmental intelligence suite for AI-driven sustainability](https://itwire.com/climate/ibm-unveils-environmental-intelligence-suite-for-ai-driven-sustainability.html)
+
+
+> IBM today announced the launch of its new Environmental Intelligence Suite to help companies anticipate and respond to climate risks such as flooding and wildfires while providing insights to improve resiliency and meet sustainability goals. The IBM Environmental Intelligence Suite is a SaaS product that combines weather, climate, and operational data and environmental performance management into a single solution. It also addresses the World Economic Forum's top three most likely risks for businesses over the next decade.
+
+
+***
+![Users of Google Chrome are being urged to update again! Tech Giant warns that there are four high-level vulnerabilities. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/google-chrome-users-urged-to-update-again-four-high-level-vulnerabilities-exist-tech-giant-warns.jpg "Users of Google Chrome are being urged to update again! Tech Giant warns that there are four high-level vulnerabilities. » Brinkwire")
+
+
+[Users of Google Chrome are being urged to update again! Tech Giant warns that there are four high-level vulnerabilities. » Brinkwire](https://en.brinkwire.com/technology/users-of-google-chrome-are-being-urged-to-update-again-tech-giant-warns-that-there-are-four-high-level-vulnerabilities/)
+
+
+> Users of Google Chrome are being urged to update again! Tech Giant warns that there are four high-level vulnerabilities. Google Chrome users are being asked to update yet another important fix, the second in less than a week, after the company uncovered four high-level vulnerabilities that may be exploited by hackers. As a result, Google has issued a warning to its 2.6 billion Chrome users to download the crucial update that aims to cure the app's multiple vulnerabilities. Users of Google Chrome are being urged to update their browsers as soon as possible.
+
+
+***
+![Learn PHP string manipulations by answering the most common string questions.](https://external-preview.redd.it/6npBq468zdi-LgE9FipA9Y_uMCnVk2FOxXqgAhTcPXQ.jpg?auto=webp&s=abf546ef4cc81a42baf1ed65c813f5c57e65889d "Learn PHP string manipulations by answering the most common string questions.")
+
+
+[Learn PHP string manipulations by answering the most common string questions.](https://www.reddit.com/r/programming/comments/q6dlyy/learn_php_string_manipulations_by_answering_the/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Apple releases iOS 15.0.2 update with bug and security fixes](https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/02/full/1630572262-2164.jpg "Apple releases iOS 15.0.2 update with bug and security fixes")
+
+
+[Apple releases iOS 15.0.2 update with bug and security fixes](https://www.business-standard.com/article/technology/apple-releases-ios-15-0-2-update-with-bug-and-security-fixes-121101200180_1.html)
+
+
+> Apple has released iOS 15.0.2, the second update to the iOS 15 operating system that was released in September. According to Apple's release notes, the updates address several issues, including bugs in the Find My app that prevented the iPhone Leather Wallet with MagSafe as well as AirTag from connecting or appearing in the app. The update also adds fix for a CarPlay bug that could cause CarPlay to fail to open audio apps, and an issue that could cause device restore or updates to fail on iPhone 13 models.
+
+
