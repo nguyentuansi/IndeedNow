@@ -13221,3 +13221,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![The best Instagram filters, as well as where to find the amusing Squid Game filter. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/mt-insta-filters.jpg "The best Instagram filters, as well as where to find the amusing Squid Game filter. » Brinkwire")
+
+
+[The best Instagram filters, as well as where to find the amusing Squid Game filter. » Brinkwire](https://en.brinkwire.com/technology/the-best-instagram-filters-as-well-as-where-to-find-the-amusing-squid-game-filter/)
+
+
+> The best Instagram filters, as well as where to find the amusing Squid Game filter. INSTAGRAM provides a variety of fun filters that can help you and your followers have a good time with your Instagram Stories. We've picked up some of the best Instagram filters, including some Kylie Jenner favorites and Squid Game filters. You've probably heard about Squid Game if you have a Netflix account. The extremely popular lethal drama is trending on social media, and you can join the conversation with a Squid Game filter.
+
+
+***
+![Joke or woke? While a ‘Karen' Halloween outfit has split opinion, it's shown that white women are now the easiest of targets. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Joke or woke? While a ‘Karen' Halloween outfit has split opinion, it's shown that white women are now the easiest of targets. » Brinkwire")
+
+
+[Joke or woke? While a ‘Karen' Halloween outfit has split opinion, it's shown that white women are now the easiest of targets. » Brinkwire](https://en.brinkwire.com/technology/joke-or-woke-while-a-karen-halloween-outfit-has-split-opinion-its-shown-that-white-women-are-now-the-easiest-of-targets/)
+
+
+> Charlie Stone is an author and journalist who has worked for the BBC, several national newspapers in the UK and international media. Charlie Stone is an author and journalist who has worked for the BBC, several national newspapers in the UK and international media. 'I demand to speak to the manager!' This is the phrase a Karen is sure to scream, when she doesn't quite get the service she expects in a shop or a restaurant or her daughter's ballet class. Whatever. Karen, as you may well be aware, has become the very definition of a certain kind of privileged, racist white woman whose middle-class status gives her the ability – the right, even – to be condescending to others.
+
+
+***
+[Nuclear Power in France](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/france.aspx)
+
+
+> No body in the article.
+
+
+***
+![How to book a free 10-point auto health check up at Halfords. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/halfords-1504098.jpg "How to book a free 10-point auto health check up at Halfords. » Brinkwire")
+
+
+[How to book a free 10-point auto health check up at Halfords. » Brinkwire](https://en.brinkwire.com/technology/how-to-book-a-free-10-point-auto-health-check-up-at-halfords/)
+
+
+> Halfords has just launched Car Safety Month as part of its mission to make UK roads safer for all. The brand is now offering free car health check ups for the month to help ensure car safety – find out more here. Halfords is the UK's leading motoring, cycling and leisure retailer and has made a recent announcement that it will help commit to making UK roads safer. As part of the announcement, Halfords is running a deal and offer free 10-point car health checks. Available for the month, this offer can be redeemed from now until 1 November 2021.
+
+
+***
+![Twitter debuts new ad features, revamped algorithm ahead of ecommerce push](https://www.reuters.com/resizer/0b6igxHe6_LD5zGNIfGGAfcOBbY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5EMHVM32OJNMTH2N34TWXT4O3A.jpg "Twitter debuts new ad features, revamped algorithm ahead of ecommerce push")
+
+
+[Twitter debuts new ad features, revamped algorithm ahead of ecommerce push](https://www.reuters.com/technology/twitter-debuts-new-ad-features-revamped-algorithm-ahead-ecommerce-push-2021-10-12/)
+
+
+> A 3D-printed logo for Twitter is seen in this picture illustration made in Zenica, Bosnia and Herzegovina on January 26, 2016. REUTERS/Dado Ruvic/IllustrationOct 12 (Reuters) - Twitter Inc (TWTR.N) on Tuesday rolled out new ad features and revamped the algorithm that decides which ads users see, as part of an effort to lay the groundwork to launch future ecommerce features, the social networking company told Reuters.The new features come as Twitter is pushing to grow its performance advertising business, a strategy that aims to quickly generate sales, and constituted just 15% of Twitter's business last year.
+
+
