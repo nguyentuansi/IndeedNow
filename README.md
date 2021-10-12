@@ -13124,3 +13124,53 @@
 > The email that Joe Hagood received in August 2017 was vague and brief, but too unsettling to ignore.Hagood worked at Medpace, a Cincinnati company that tests new drugs for pharmaceutical manufacturers. His job was to supervise the independent research centers that Medpace pays to handle the nitty-gritty of human trials: finding volunteers, dispensing medications, tracking side effects. The author of the unsettling email, Justina Bruinekool, was a staffer at one of those centers. She claimed to have an urgent reason for writing: Her employer was fraudulently conducting a major trial that Hagood was overseeing.
 
 
+***
+![Three Raw Fury Games To Get Film And TV Adaptations](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Raw%20Fury%20Movies%20Sable%20Main.jpg?itok=Uc5O6yDA "Three Raw Fury Games To Get Film And TV Adaptations")
+
+
+[Three Raw Fury Games To Get Film And TV Adaptations](https://techraptor.net/gaming/news/three-raw-fury-games-to-get-film-and-tv-adaptations)
+
+
+> Publisher Raw Fury has entered into an agreement with movie and TV production outfit Dj2 Entertainment to adapt three of its games into film or television. Sable, Night Call, and Mosaic are currently being worked on, with more Raw Fury titles under consideration for future adaptations. What do we know about these new Raw Fury movie and TV projects? Right now, we don't know an awful lot about these projects. The deal was just announced (thanks, GamesIndustry.biz), so it's unlikely we'll be getting in-depth information about what form we can expect these adaptations to take for some time yet.
+
+
+***
+![Best Apple Black Friday Deals 2021: What to Expect](https://icdn.digitaltrends.com/image/digitaltrends/bfcm2020_apple_201028.jpg "Best Apple Black Friday Deals 2021: What to Expect")
+
+
+[Best Apple Black Friday Deals 2021: What to Expect](https://www.digitaltrends.com/dtdeals/apple-black-friday-deals/)
+
+
+> The Apple Black Friday deals are very nearly upon us and this is the perfect time to learn more about what the Black Friday Apple deals were like last year and what to expect from them this year. Whether you're looking for a new MacBook, Apple Watch, iPad, iPhone, or even AirPods, or an Apple TV, there's a lot to consider here before you dive right in. If you're worried about whether now is the time to buy a new Apple device, don't be. We've got your back and we're going to tell you all about what to do next when it comes to Black Friday deals focusing on the best Apple Black Friday deals out there.
+
+
+***
+![One-time TikTok rival Byte relaunches as Clash, an app for video creators and their top fans – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/IMAGE_Clash_Launch-Announcement_Combined-on-White-Background_.png?w=748 "One-time TikTok rival Byte relaunches as Clash, an app for video creators and their top fans – TechCrunch")
+
+
+[One-time TikTok rival Byte relaunches as Clash, an app for video creators and their top fans – TechCrunch](https://techcrunch.com/2021/10/12/one-time-tiktok-rival-byte-relaunches-as-clash-an-app-for-video-creators-and-their-top-fans/)
+
+
+> When the Trump administration announced it would ban TikTok in the U.S., a number of alternative short-form video apps began to flourish, as users hedged their bets on a potential TikTok exit. Among these was Byte, an app co-created by Vine co-founder Dom Hofmann, which topped 1.3 million downloads in its first week alone. But when Trump's ban on TikTok failed, Byte sold to rival Clash — an admission of sorts that TikTok's momentum couldn't be beaten. Now, new owner Clash is kicking off round two.
+
+
+***
+![Plume raises $300M as it passes 1.2B devices in 35M homes using its smart WiFi service – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/plume-homepass.jpg?w=397 "Plume raises $300M as it passes 1.2B devices in 35M homes using its smart WiFi service – TechCrunch")
+
+
+[Plume raises $300M as it passes 1.2B devices in 35M homes using its smart WiFi service – TechCrunch](https://techcrunch.com/2021/10/12/plume-raises-300m-as-it-passes-1-2b-devices-in-35m-homes-using-its-smart-wifi-service/)
+
+
+> Plume — a communications startup that partners with carriers to provide smart mesh WiFi to improve broadband connectivity in homes, and then offers other smart home services on top of that network — has been in the middle of a massive boom in its business fueled by the rapid uptake, use, and complete reliance on broadband in the home working as best as it can. Now it has closed a huge funding round to ride the wave. The startup has raised another $300 million led by SoftBank Vision Fund 2 at a valuation of $2.
+
+
+***
+![Is WhatsApp being BANNED? Viral message warns of ‘monthly fee' coming soon](https://www.the-sun.com/wp-content/uploads/sites/6/2021/10/NINTCHDBPICT000280709043.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Is WhatsApp being BANNED? Viral message warns of ‘monthly fee' coming soon")
+
+
+[Is WhatsApp being BANNED? Viral message warns of ‘monthly fee' coming soon](https://www.the-sun.com/tech/3840226/whatsapp-banned-hoax-viral-message/)
+
+
+> A VIRAL hoax message is scaring WhatsApp users by claiming the app has been banned. The voice message also claims that users will be charged for using the app. A viral voice message is trying to scare WhatsApp usersCredit: Getty Images - Getty The viral message seems to have been around since 2019 but sometimes begins to circulate again in different variations. It's a big problem in India and even The Indian Express has had to debunk it in the past. Hoaxers have designed the message so that people feel pressurised to forward it on to other WhatsApp users.
+
+
