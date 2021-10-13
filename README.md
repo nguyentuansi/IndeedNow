@@ -13599,3 +13599,41 @@
 > - Advertisement -Esport has grown in popularity worldwide, and these disciplines continue to feature prominently on gaming and sports betting platforms such as SBOBET. As a relatively new area of sport, it has made it effortless for sports fans to access an extensive range of e-games, including popular games like Fortnite, FIFA, and League of Legends broadcast straight into fans' living rooms. Esports present an incredibly immersive 'real-life' game experience and ample opportunities for lucrative sports betting.
 
 
+***
+[Treasury yields steadier after yesterday's dip](https://www.forexlive.com/technical-analysis/!/treasury-yields-steadier-after-yesterdays-dip-20211013)
+
+
+> 10-year yields little changed around 1.577% currently The dip in long-end yields yesterday was a bit of a headscratcher and I want to say that it was more about the flows rather than anything else.
+
+
+***
+[傳 Pixel Pass 方案隨 Pixel 6 發布，延長保固同享一系列 Google 服務](https://technews.tw/2021/10/13/google-new-subscription-bundle-called-pixel-pass/)
+
+
+> YouTube 頻道「This is Tech Today」的主持人 M. Brandon Lee 日前在個人 […]
+
+
+***
+![With the addition of parental controls, Instagram will affect the way millions of teenagers use the platform. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/0_files-us-health-virus-it-facebook-instagram.jpg "With the addition of parental controls, Instagram will affect the way millions of teenagers use the platform. » Brinkwire")
+
+
+[With the addition of parental controls, Instagram will affect the way millions of teenagers use the platform. » Brinkwire](https://en.brinkwire.com/technology/with-the-addition-of-parental-controls-instagram-will-affect-the-way-millions-of-teenagers-use-the-platform/)
+
+
+> After weeks of outages and criticism, Facebook is finally taking steps to protect young adults and teens on Instagram with three new safety features, but will it be enough? Parents will be able to supervise what their teens get up to on social media under new plans to make Facebook and Instagram safer for young people. Facebook will roll out three new measures to improve safety for kids and teens on its platforms, after weeks of criticism around the company's approach to mental health and social media addiction.
+
+
+***
+[CAD/JPY continues to poke and prod at the year's highs](https://www.forexlive.com/technical-analysis/!/cadjpy-pokes-and-prods-at-the-years-highs-once-again-20211013)
+
+
+> CAD/JPY is up slightly on the day, contesting key daily resistance from the previous year's highs around 91.17-19 The pair has been on a stellar run higher over the past few weeks, building on the momentum from the and is now trading up to 91.20.
+
+
+***
+[Garena Free Fire latest update: Win over Rs 2 Lakh in Dussehra Dhamaka event, check important dates and other details](https://www.zeebiz.com/technology/apps/news-garena-free-fire-latest-update-win-over-rs-2-lakh-in-dussehra-dhamaka-event-check-important-dates-and-other-details-167722)
+
+
+> The Dussehra Dhamaka tournament will feature top streamers such as Jonty Gaming, X-Mania, Instagamer, TripleR, and Gaming Girl, among others.
+
+
