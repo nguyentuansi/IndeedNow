@@ -13734,3 +13734,50 @@
 > Prior to the COVID-19 pandemic, TripActions was primarily known for merging many aspects of corporate trip booking — flights, hotels and rental cars — with expense tracking. But Palo Alto-based TripActions was among the startups that was hit very hard by the COVID-19 pandemic. In fact, the global crisis resulted in its revenue dropping to $0, according to CEO and co-founder Ariel Cohen. In March 2020, the company made headlines for laying off nearly 300 employees in the face of a slowdown in business related to the pandemic.
 
 
+***
+![Check out some of the best Samsung Galaxy 10 cases you can buy](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/02/galaxy-s10-cases-colors-variety-2.jpg "Check out some of the best Samsung Galaxy 10 cases you can buy")
+
+
+[Check out some of the best Samsung Galaxy 10 cases you can buy](https://www.androidcentral.com/best-galaxy-s10-cases)
+
+
+> Best Galaxy S10 Cases Android Central 2021 Like most of Samsung's top-tier smartphones, the Galaxy S10 has aged quite well. So even if you buy one (new or refurbished) today, the 2019 flagship will most likely serve you well for the next year or two, provided you get one of the best Galaxy S10 cases to protect its gorgeous glass and aluminum body from getting damaged. In fact, we also suggest taking a look at the best Galaxy S10 screen protectors, as they'll help in keeping that 6.1-inch Dynamic AMOLED screen safe.
+
+
+***
+[New-Gen KTM RC 125, RC 200 Launched in India: Check Price and Specifications](https://www.thequint.com/tech-and-auto/new-gen-ktm-rc-125-rc-200-launched-in-india-check-price-specifications-features)
+
+
+> The all new 2022 KTM RC 125 is available at a price of Rs 1.82 lakh, while KTM RC 200 is priced at Rs 2.08 lakh.
+
+
+***
+![Snapchat suffers outage, users can't post or send messages](https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/06/full/1633506050-6185.jpg "Snapchat suffers outage, users can't post or send messages")
+
+
+[Snapchat suffers outage, users can't post or send messages](https://www.business-standard.com/article/technology/snapchat-suffers-outage-users-can-t-post-or-send-messages-121101301095_1.html)
+
+
+> Popular social media app Snapchat went down globally on Wednesday evening and several users were unable to post story updates or send messages. Snap, which is the parent company of Snapchat, tweeted: "We're aware that some Snapchatters are having issues using the app right now - hang tight, we're looking into it!" Down Detector, which is an app outage tracking website, reported the problems with Snapchat. While 41 per cent has trouble with the app, 27 per cent of those affected were facing trouble with sharing photos and videos.
+
+
+***
+![White House is hosting a global ransomware summit, without Russia](https://www.cnet.com/a/img/DgW_fWIGuhX7NtTma665OMQnU5k=/1200x630/2021/03/05/c7df6081-bc37-4055-b24a-c27c7ab44de4/gettyimages-1231395745.jpg "White House is hosting a global ransomware summit, without Russia")
+
+
+[White House is hosting a global ransomware summit, without Russia](https://www.cnet.com/tech/services-and-software/white-house-is-hosting-a-global-ransomware-summit-without-russia/)
+
+
+> Erin Scott/Bloomberg via Getty Images The White House is bringing together more than 30 countries to discuss ways to counter ransomware attacks and eliminate safe harbors for criminals. However, Russia is notable absent from the international discussion. The virtual meeting -- taking place on Wednesday and Thursday -- will focus topics including national resilience, misuse of cryptocurrency to launder ransom payments, diplomacy and efforts to disrupt and prosecute ransomware criminals, according to senior Biden administration officials.
+
+
+***
+![iPhone Shortage: Here's why you may struggle​​ to get a new iPhone this year](https://image-prod.iol.co.za/resize/650x366/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/334372e4-7968-566e-8147-f19fd8afcf2c&operation=CROP&offset=0x232&resize=1960x1103 "iPhone Shortage: Here's why you may struggle​​ to get a new iPhone this year")
+
+
+[iPhone Shortage: Here's why you may struggle​​ to get a new iPhone this year](https://www.iol.co.za/technology/iphone-shortage-heres-why-you-may-struggle-to-get-a-new-iphone-this-year-5af90ea2-3766-4528-8758-0186a6761fe1)
+
+
+> Share this article:APPLE, the world's most valuable company, has finally joined a growing list of household names from Toyota to Samsung forced to cut back on business because of a global shortage of semiconductors.Apple is now likely to slash its projected iPhone 13 production targets for 2021 by as many as 10 million units, Bloomberg News reported on Tuesday.For months, while supply chain shocks rocked the electronic, automaking and even commodities industries, Apple remained the one company that could secure the chips needed to keep selling its latest range of products, due to its well-managed supply chain and the prestige of meeting its exacting standards.
+
+
