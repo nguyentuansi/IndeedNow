@@ -13505,3 +13505,50 @@
 > October 12, 2021 09:37 PM Eastern Daylight Time PALO ALTO, Calif.--(BUSINESS WIRE)--In the first paragraph and first bullet point, Prateek Ranjan's title has changed. The updated release reads: BYJU'S STRENGTHENS ITS EXECUTIVE TEAM AMID NORTH AMERICAN EXPANSION Global leader in personalized learning announces three new strategic hires and one promotion within its senior leadership team to solidify the company's international expansion BYJU'S, the world's leading education technology company, today announces major developments to its senior leadership team including the appointment of Prateek Ranjan as BYJU'S FutureSchool Country Head & General Manager (GM) of North America, the promotion of Sajid Shariff to Senior Vice President (SVP) of Global Growth, and the addition of two executives to its global team, Aaron Kornblum as BYJU'S FutureSchool General Counsel and JP Schuerman as BYJU'S Head of Public Relations and Communications for International Expansion.
 
 
+***
+![Google search spotlights endangered species in AR](https://www.cnet.com/a/img/oLYY0F34L9RzVdICj9XbsSdqHm8=/1200x630/center/bottom/2021/10/12/f5f31a8e-3428-47a0-b16c-15a824af27bf/fjallrav-003-tryck.jpg "Google search spotlights endangered species in AR")
+
+
+[Google search spotlights endangered species in AR](https://www.cnet.com/tech/services-and-software/google-search-spotlights-endangered-species-in-ar/)
+
+
+> Google search delivers an AR representation of five endangered species, inlcuding the arctic fox. Google The white-backed woodpecker is one the rarest and the most vulnerable of the woodpeckers in Europe. Though races of the bird can be found as far east as Korea and Japan, its numbers are in decline in Nordic countries, leading the Swedish to enact protections to try to preserve the species.There are currently more than 38,000 species of animals that are threatened with extinction, according to the Red List of Threatened Species put out by the International Union for Conservation of Nature, which evaluates the extinction risk of thousands of species.
+
+
+***
+![The best movie vehicle scene of all time is the Mini pursuit in The Italian Job. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/0_grease-354238.jpeg "The best movie vehicle scene of all time is the Mini pursuit in The Italian Job. » Brinkwire")
+
+
+[The best movie vehicle scene of all time is the Mini pursuit in The Italian Job. » Brinkwire](https://en.brinkwire.com/technology/the-best-movie-vehicle-scene-of-all-time-is-the-mini-pursuit-in-the-italian-job/)
+
+
+> The best movie vehicle scene of all time is the Mini pursuit in The Italian Job. The legendary six-minute-long pursuit – with the three classic Mini models being chased by cops, rolling down staircases, and even mounting buildings – came out on top in a survey of 2,000 movie fans. The best movie vehicle scene of all time is the Mini pursuit in The Italian Job. The legendary six-minute-long pursuit – with the three classic Mini models being chased by cops, rolling down staircases, and even mounting buildings – came out on top in a survey of 2,000 movie fans.
+
+
+***
+![Apple MacBook Pro with M1X may feature 1080p FaceTime camera, 16GB of base RAM](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/macbookprom1_13102021_1200x768-original.jpeg "Apple MacBook Pro with M1X may feature 1080p FaceTime camera, 16GB of base RAM")
+
+
+[Apple MacBook Pro with M1X may feature 1080p FaceTime camera, 16GB of base RAM](https://www.indiatoday.in/technology/news/story/apple-macbook-pro-with-m1x-may-feature-1080p-facetime-camera-16gb-of-base-ram-1864161-2021-10-13)
+
+
+> Shubham Verma New Delhi, Oct 13, 2021, Updated Oct 13, 2021, 9:19 AM IST Story highlights A new report says MacBook Pro may come with a 1080p webcam. The 2021 MacBook Pro may also have at least 16GB of RAM. Apple is likely to launch the new MacBook Pro at the October 18 event. Apple just announced it is holding its next event on October 18 and it is highly likely that it is going to be about the new MacBook Pro. With the announcement, the rumours around the MacBook Pro gained momentum, and we are now learning more about the upcoming Apple high-end laptop.
+
+
+***
+![Moto G51 5G spotted on Geekbench with Qualcomm Snapdragon 750G processor](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/moto_3_1200x768-original.jpeg "Moto G51 5G spotted on Geekbench with Qualcomm Snapdragon 750G processor")
+
+
+[Moto G51 5G spotted on Geekbench with Qualcomm Snapdragon 750G processor](https://www.indiatoday.in/technology/news/story/moto-g51-5g-spotted-on-geekbench-with-qualcomm-snapdragon-750g-processor-1864164-2021-10-13)
+
+
+> India Today Tech New Delhi, Oct 13, 2021, Updated Oct 13, 2021, 9:17 AM IST Story highlights Motorola is reportedly working on the Moto G51 5G. The upcoming device was spotted on benchmarking website Geekbench. The Lenovo-owned had recently launched the Moto G40 and the Moto G20. After launching a series of smartphones, Motorola is reportedly working on the Moto G51 5G. The upcoming device was spotted on benchmarking website Geekbench. The phone will reportedly be a sequel to the Moto G50 5G, which was launched globally in late August.
+
+
+***
+[FourFront, a startup creating fictional storylines with actors on TikTok, says it aims to build an interconnected TikTok "universe" and has raised a $1.5M seed (Lucas Matney/TechCrunch)](http://www.techmeme.com/211012/p39#a211012p39)
+
+
+> Lucas Matney / TechCrunch: FourFront, a startup creating fictional storylines with actors on TikTok, says it aims to build an interconnected TikTok “universe” and has raised a $1.5M seed — Every popular social media platform has opened up a new type of storytelling to a new generation of users …
+
+
