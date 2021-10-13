@@ -13455,3 +13455,53 @@
 > Coinbase has announced plans to make NFTs more approachable for the general public. Though the new NFT platform isn't available right now, Coinbase has launched a waitlist for those who are interested in trying it out for themselves. Among other things, Coinbase says its NFT platform will include social features, centralized showcases, and discovery features. Non-Fungible Tokens (NFTs) are the latest blockchain fad; put simply, creators can sell content as NFTs in exchange for the crypto of their choice, providing a unique marketplace for creators and collectors.
 
 
+***
+![Sydney Trains picks Ipsotek to improve its security](https://itwire.com/media/k2/items/cache/99e8810658f46562ded10462066bf698_XS.jpg "Sydney Trains picks Ipsotek to improve its security")
+
+
+[Sydney Trains picks Ipsotek to improve its security](https://itwire.com/security/sydney-trains-picks-ipsotek-to-improve-its-security.html)
+
+
+> Security system supplier Ipsotek, a subsidiary of Atos, has inked a contract with Sydney Trains, an operator of rail services across the metropolitan Sydney area to increase security capabilities at 13 stations. Following a competitive bidding, Ipsotek was selected by Sydney Trains to deliver an AI-based video analytics solution. The collaboration will see the train operator integrate Ipsotek's security cameras to identify tunnel and track intrusion at 13 stations in the metropolitan Sydney area.
+
+
+***
+![Mopar going big at SEMA next month](https://www.cnet.com/a/img/wny3p3UPzFLUna0rDReyij-SMmk=/1200x630/2021/10/13/633b49e7-9395-47ae-8056-c916855b6798/mopar-2021-sema-promo-image.jpg "Mopar going big at SEMA next month")
+
+
+[Mopar going big at SEMA next month](https://www.cnet.com/roadshow/news/mopar-teases-2021-sema-vehicles/)
+
+
+> Mopar has prepared a range of modified vehicles to show off in Las Vegas next month.  Mopar The annual Specialty Equipment Market Association show is set to kick off in Las Vegas, Nevada early next month. Generating a bit of hype for this event dedicated to the automotive aftermarket, Mopar on Monday teased a few vehicles it plans to display at SEMA this year.Stellantis' in-house parts division didn't share any details about these undoubtedly heavily modified machines, but Mopar did release a host of sketches hinting at what it will have on display.
+
+
+***
+![Ross Young: Apple Watch Series 8 could come in three sizes](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/apple-watch-series-7-close-up-three-materials.jpg "Ross Young: Apple Watch Series 8 could come in three sizes")
+
+
+[Ross Young: Apple Watch Series 8 could come in three sizes](https://www.imore.com/ross-young-apple-watch-series-8-could-come-three-sizes)
+
+
+> Source: Apple The Apple Watch Series 8 could be the first to come in three different sizes. At least, that's what display analyst Ross Young thinks. Young shot out a couple of tweets earlier today saying that customers shouldn't be surprised if Apple releases the next Apple Watch in three different sizes, a first for the company's smartwatch. Would you like to see a bigger display on Series 8 of the Apple Watch in 2022? Don't be surprised if there are 3 sizes next year... Don't be surprised if there are 3 sizes next year.
+
+
+***
+![NASA video reveals complexity of Mars Sample Return mission](https://icdn.digitaltrends.com/image/digitaltrends/mars-sample-return-mission-nasa.jpg "NASA video reveals complexity of Mars Sample Return mission")
+
+
+[NASA video reveals complexity of Mars Sample Return mission](https://www.digitaltrends.com/news/nasa-video-reveals-complexity-of-mars-sample-return-mission/)
+
+
+> NASA has shared a video showing the complex series of steps required to bring the first samples of Mars rock to Earth. The space agency's Perseverance rover is currently drilling and caching samples from inside Mars' Jezero Crater as part of a research effort to find out if microbial life ever existed on the red planet. At the end of its mission, Perseverance will set aside those samples in sealed containers for another mission to collect later this decade. As the video shows, the Mars Sample Return mission, which will be carried out by NASA and ESA (European Space Agency), will involve multiple stages and multiple vehicles.
+
+
+***
+![CORRECTING and REPLACING BYJU'S Strengthens Its Executive Team Amid North American Expansion](https://mms.businesswire.com/media/20211012005067/en/914321/23/BYJU%27S_Logo.jpg "CORRECTING and REPLACING BYJU'S Strengthens Its Executive Team Amid North American Expansion")
+
+
+[CORRECTING and REPLACING BYJU'S Strengthens Its Executive Team Amid North American Expansion](https://www.businesswire.com/news/home/20211012005067/en/CORRECTING-and-REPLACING-BYJUS-Strengthens-Its-Executive-Team-Amid-North-American-Expansion)
+
+
+> October 12, 2021 09:37 PM Eastern Daylight Time PALO ALTO, Calif.--(BUSINESS WIRE)--In the first paragraph and first bullet point, Prateek Ranjan's title has changed. The updated release reads: BYJU'S STRENGTHENS ITS EXECUTIVE TEAM AMID NORTH AMERICAN EXPANSION Global leader in personalized learning announces three new strategic hires and one promotion within its senior leadership team to solidify the company's international expansion BYJU'S, the world's leading education technology company, today announces major developments to its senior leadership team including the appointment of Prateek Ranjan as BYJU'S FutureSchool Country Head & General Manager (GM) of North America, the promotion of Sajid Shariff to Senior Vice President (SVP) of Global Growth, and the addition of two executives to its global team, Aaron Kornblum as BYJU'S FutureSchool General Counsel and JP Schuerman as BYJU'S Head of Public Relations and Communications for International Expansion.
+
+
