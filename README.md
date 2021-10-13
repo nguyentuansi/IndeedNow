@@ -13875,3 +13875,43 @@
 > Hazard Zone Reveal in ‘Battlefield 2042': When and How to Watch the LivestreamBattlefield 2042's enigmatic 'Hazard Zone' feature will be revealed this week, according to a clip set to be released this week.Battlefield 2042 is a huge departure for DICE's military shooter series, as it is set in the near future and features high-tech vehicles, cutting-edge weaponry, and what look to be a pack of robot dogs. It's not nearly Halo in terms of how outlandish things may go (there are no spaceships or energy swords, for example), but it does signal an intentional step towards science fiction territory.
 
 
+***
+![On hot days, a sustainable electricity-free air conditioner can use solar energy to lower temperatures. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/strong-sunlight-powers-passive-cooling-device-777x416-1.jpg "On hot days, a sustainable electricity-free air conditioner can use solar energy to lower temperatures. » Brinkwire")
+
+
+[On hot days, a sustainable electricity-free air conditioner can use solar energy to lower temperatures. » Brinkwire](https://en.brinkwire.com/technology/on-hot-days-a-sustainable-electricity-free-air-conditioner-can-use-solar-energy-to-lower-temperatures/)
+
+
+> A simple cooling system driven by the capture of passive solar energy could provide low-cost food refrigeration and living space cooling for impoverished communities with no access to the electricity grid. The system, which has no electrical components, exploits the powerful cooling effect that occurs when certain salts are dissolved in water. After each cooling cycle, the system uses solar energy to evaporate the water and regenerate the salt, ready for reuse. 'Hot regions have high levels of solar energy, so it would be very attractive to use that solar energy for cooling,' says Wenbin Wang, a postdoc in Peng Wang's lab.
+
+
+***
+![An Introduction to Natural Language Processing](https://external-preview.redd.it/SB89W0laKCFqkbaKDU3Dffz82R2OQlXr4yZPKo1W9y4.jpg?auto=webp&s=667c19a0345e2851ba2e754b076b0350f190c9ce "An Introduction to Natural Language Processing")
+
+
+[An Introduction to Natural Language Processing](https://www.reddit.com/r/programming/comments/q7jcnj/an_introduction_to_natural_language_processing/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![We're patiently waiting for these retro games to come to Nintendo Switch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/07/gamecube-and-nintendo-64-games.jpg "We're patiently waiting for these retro games to come to Nintendo Switch")
+
+
+[We're patiently waiting for these retro games to come to Nintendo Switch](https://www.imore.com/we-need-get-these-retro-games-nintendo-switch)
+
+
+> Super Mario 3D All-Stars reminded us all of just how much we'd like to see N64, GameCube, and Wii games on the system. This game is technically available on the Nintendo Switch but is no longer in production. We'd love to see this game brought back — even if in digital form — or sold separately. Staff Pick One of the best titles on the Nintendo Wii, the Metroid Prime Trilogy takes us on a journey with the famous space bounty hunter, Samus Aran. While we're waiting on Metroid Prime 4, we'd love to brush up on our Samus lore with a port of this critically acclaimed collection.
+
+
+***
+![Bose's New Bluetooth Speaker Can Really Take A Beating](https://www.androidheadlines.com/wp-content/uploads/2021/10/Large-JPG-SLFBS_StoneBlue_0004_RGB2222.jpeg "Bose's New Bluetooth Speaker Can Really Take A Beating")
+
+
+[Bose's New Bluetooth Speaker Can Really Take A Beating](https://www.androidheadlines.com/2021/10/boses-new-bluetooth-speaker-can-really-take-a-beating.html)
+
+
+> Bose is a company known for giving us great audio via headphones and large speakers. Today, the company just launched its first compact Bluetooth speaker in a little while, and it's quite a little powerhouse. The Bose SoundLink Flex Bluetooth speaker is a small, yet tough speaker that's not afraid to get wet.The Bose SoundLink Flex Speaker is ruggedized and water-resistantThis speaker was made with outdoor activities and the natural elements in mind. First and foremost, it has an IP67 water and dust resistance rating.
+
+
