@@ -13781,3 +13781,50 @@
 > Share this article:APPLE, the world's most valuable company, has finally joined a growing list of household names from Toyota to Samsung forced to cut back on business because of a global shortage of semiconductors.Apple is now likely to slash its projected iPhone 13 production targets for 2021 by as many as 10 million units, Bloomberg News reported on Tuesday.For months, while supply chain shocks rocked the electronic, automaking and even commodities industries, Apple remained the one company that could secure the chips needed to keep selling its latest range of products, due to its well-managed supply chain and the prestige of meeting its exacting standards.
 
 
+***
+![In Amazon's pre-Black Friday sale, the Echo Show 8 and 4K Fire TV Stick are available at the LOWEST PRICES. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/echo_show_8-1-1.jpg "In Amazon's pre-Black Friday sale, the Echo Show 8 and 4K Fire TV Stick are available at the LOWEST PRICES. » Brinkwire")
+
+
+[In Amazon's pre-Black Friday sale, the Echo Show 8 and 4K Fire TV Stick are available at the LOWEST PRICES. » Brinkwire](https://en.brinkwire.com/technology/in-amazons-pre-black-friday-sale-the-echo-show-8-and-4k-fire-tv-stick-are-available-at-the-lowest-prices/)
+
+
+> In Amazon's pre-Black Friday sale, the Echo Show 8 and 4K Fire TV Stick are available at the LOWEST PRICES. BLACK Friday is less than a month away, and Amazon has just launched a surprise device deal with up to 45 percent off. In the midst of anxious discussion of supply concerns and stock shortages, the retail behemoth has just slashed prices on many of its own smart devices, with some of them being the lowest pricing of the year. The first-generation Echo Show 8 has dropped in price from £99.99 to £59.
+
+
+***
+![Google Maps fans spot hilarious mountain ‘named after female genitals' – as they vow to ‘explore hidden gem'](https://www.the-sun.com/wp-content/uploads/sites/6/2021/10/MT-MOUNTAIN-OFF-PLATT.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Google Maps fans spot hilarious mountain ‘named after female genitals' – as they vow to ‘explore hidden gem'")
+
+
+[Google Maps fans spot hilarious mountain ‘named after female genitals' – as they vow to ‘explore hidden gem'](https://www.the-sun.com/tech/3850105/google-maps-mountain-female-genitals-explore/)
+
+
+> GOOGLE Maps fans are in stitches after spotting a mountain with a VERY rude name. Fans recently shared their delight on Twitter at discovering Mount Clitoris in the Philippines. Mount Clitoris in the Philippines as seen on Google MapsCredit: Google The mountain is a popular hiking spotCredit: Google The mountain, which sits about 167 miles (270km) north of the capital Manila, is a popular hiking spot. Netizens were quick to point out that it shares its name with the part of a woman's genitals that is responsible for the female orgasm.
+
+
+***
+[Google Maps fans spot hilarious mountain ‘named after female genitals' – as they vow to ‘explore hidden gem'](https://www.thesun.ie/tech/7748743/google-maps-mountain-female-genitals-explore/)
+
+
+> GOOGLE Maps fans are in stitches after spotting a mountain with a VERY rude name. Fans recently shared their delight on Twitter at discovering Mount Clitoris in the Philippines. The mountain, which sits about 167 miles (270km) north of the capital Manila, is a popular hiking spot. Netizens were quick to point out that it […]
+
+
+***
+![Google Maps fans spot hilarious mountain ‘named after female genitals' – as they vow to ‘explore hidden gem'](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/02/MT-MOUNTAIN-OFF-PLATT.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Google Maps fans spot hilarious mountain ‘named after female genitals' – as they vow to ‘explore hidden gem'")
+
+
+[Google Maps fans spot hilarious mountain ‘named after female genitals' – as they vow to ‘explore hidden gem'](https://www.thescottishsun.co.uk/tech/7842116/google-maps-mountain-female-genitals-explore/)
+
+
+> GOOGLE Maps fans are in stitches after spotting a mountain with a VERY rude name. Fans recently shared their delight on Twitter at discovering Mount Clitoris in the Philippines. Mount Clitoris in the Philippines as seen on Google MapsCredit: Google The mountain is a popular hiking spotCredit: Google The mountain, which sits about 167 miles (270km) north of the capital Manila, is a popular hiking spot. Netizens were quick to point out that it shares its name with the part of a woman's genitals that is responsible for the female orgasm.
+
+
+***
+![Google Maps fans spot hilarious mountain ‘named after female genitals' – as they vow to ‘explore hidden gem'](https://www.thesun.co.uk/wp-content/uploads/2021/10/MT-MOUNTAIN-OFF-PLATT.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Google Maps fans spot hilarious mountain ‘named after female genitals' – as they vow to ‘explore hidden gem'")
+
+
+[Google Maps fans spot hilarious mountain ‘named after female genitals' – as they vow to ‘explore hidden gem'](https://www.thesun.co.uk/tech/16410229/google-maps-mountain-female-genitals-explore/)
+
+
+> GOOGLE Maps fans are in stitches after spotting a mountain with a VERY rude name. Fans recently shared their delight on Twitter at discovering Mount Clitoris in the Philippines. Mount Clitoris in the Philippines as seen on Google MapsCredit: Google The mountain is a popular hiking spotCredit: Google The mountain, which sits about 167 miles (270km) north of the capital Manila, is a popular hiking spot. Netizens were quick to point out that it shares its name with the part of a woman's genitals that is responsible for the female orgasm.
+
+
