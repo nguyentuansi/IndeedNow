@@ -13828,3 +13828,50 @@
 > GOOGLE Maps fans are in stitches after spotting a mountain with a VERY rude name. Fans recently shared their delight on Twitter at discovering Mount Clitoris in the Philippines. Mount Clitoris in the Philippines as seen on Google MapsCredit: Google The mountain is a popular hiking spotCredit: Google The mountain, which sits about 167 miles (270km) north of the capital Manila, is a popular hiking spot. Netizens were quick to point out that it shares its name with the part of a woman's genitals that is responsible for the female orgasm.
 
 
+***
+![Streamline your Docker builds with Pants: How to use one command to deploy precisely the images affected by a change](https://external-preview.redd.it/QJfgfVOgxYmYUsDikC3SxmcQtyRty6IaKBM6A15rkVc.jpg?auto=webp&s=be6be193100637fe6871cf14be29ffdf38dc7a04 "Streamline your Docker builds with Pants: How to use one command to deploy precisely the images affected by a change")
+
+
+[Streamline your Docker builds with Pants: How to use one command to deploy precisely the images affected by a change](https://www.reddit.com/r/Python/comments/q7gwaf/streamline_your_docker_builds_with_pants_how_to/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Iconic gamer dies age 24 as family pay tribute after 'unexpected' passing](https://www.thesun.co.uk/wp-content/uploads/2021/10/KiXSTAr-GAMER-BREAKER-JF.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Iconic gamer dies age 24 as family pay tribute after 'unexpected' passing")
+
+
+[Iconic gamer dies age 24 as family pay tribute after 'unexpected' passing](https://www.thesun.co.uk/tech/gaming/16413471/michael-kixstar-stockley-dead-rainbow-six-esports/)
+
+
+> ICONIC gamer Michael "KiXSTAr" Stockley passed away at 24, as Rainbow Six Esports confirms his passing as his family calls it "unexpected."Stockley was widely recognized for his gaming skills in the Rainbow Six Siege community.Gamer Michael 'KiXSTAr' Stockley passed away on Monday at the age of 24Stockley's family released a statement on his death, saying: "On Monday, October 11 Michael 'KiXSTAr' Stockley passed away unexpectedly. He had so much planned for the future, and he was looking forward to working with so many of you.
+
+
+***
+![$6m worth: Aussies hungry for local solar](https://content.api.news/v3/images/bin/89e975b40236679bab065250cded2964 "$6m worth: Aussies hungry for local solar")
+
+
+[$6m worth: Aussies hungry for local solar](https://www.adelaidenow.com.au/technology/environment/tindo-solar-australias-only-solar-panel-maker-wants-to-spark-local-manufacturing-revolution/news-story/92408c447e2cbbe52c280242ff6e2e37)
+
+
+> Australia's only solar panel maker has splashed millions on a new factory and production line as it hopes to spark a revolution in local manufacturing.Don't miss out on the headlines from Environment. Followed categories will be added to My News.Australia's only solar panel maker wants to spark a revolution in local manufacturing and believes Covid-19 has added fuel to their fire. Tindo Solar, at Mawson Lakes in Adelaide's northern suburbs, is expanding into a new factory and $6 million production line.
+
+
+***
+![Mega renewables guide: Could they run Australia's power grid?](https://content.api.news/v3/images/bin/3e12097f803b0daa5e08e7f2b583ae15 "Mega renewables guide: Could they run Australia's power grid?")
+
+
+[Mega renewables guide: Could they run Australia's power grid?](https://www.dailytelegraph.com.au/technology/environment/australias-renewable-energy-future-how-do-solar-wind-and-hydro-work/news-story/6b4a99bf58e5a3f8c63682afbcdc0f0d)
+
+
+> Australia's energy is increasingly coming from the sun, the wind and other natural sources. But opinions are divided over just how much we should rely on renewables.Renewables now generate a quarter of Australia's electricity, and that proportion will only increase as more and more businesses and individuals look to cut down their emissions. The Australian Energy Market Operator says rooftop solar alone could be supplying more than 75 per cent of our electricity demand (at certain times) by 2026.
+
+
+***
+[Hazard Zone Reveal in ‘Battlefield 2042': When and How to Watch the Livestream](https://washingtonnewsday.com/technology/hazard-zone-reveal-in-battlefield-2042-when-and-how-to-watch-the-livestream/)
+
+
+> Hazard Zone Reveal in ‘Battlefield 2042': When and How to Watch the LivestreamBattlefield 2042's enigmatic 'Hazard Zone' feature will be revealed this week, according to a clip set to be released this week.Battlefield 2042 is a huge departure for DICE's military shooter series, as it is set in the near future and features high-tech vehicles, cutting-edge weaponry, and what look to be a pack of robot dogs. It's not nearly Halo in terms of how outlandish things may go (there are no spaceships or energy swords, for example), but it does signal an intentional step towards science fiction territory.
+
+
