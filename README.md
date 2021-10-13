@@ -13552,3 +13552,50 @@
 > Lucas Matney / TechCrunch: FourFront, a startup creating fictional storylines with actors on TikTok, says it aims to build an interconnected TikTok “universe” and has raised a $1.5M seed — Every popular social media platform has opened up a new type of storytelling to a new generation of users …
 
 
+***
+![Win a Sony Alpha ZV-E10 Camera and take your vlogging to the next level](https://cdn.mos.cms.futurecdn.net/MsZBUvfN69HwVGccMY4RkF-1200-80.jpg "Win a Sony Alpha ZV-E10 Camera and take your vlogging to the next level")
+
+
+[Win a Sony Alpha ZV-E10 Camera and take your vlogging to the next level](https://global.techradar.com/en-ae/news/win-a-sony-alpha-zv-e10-camera-and-take-your-vlogging-to-the-next-level)
+
+
+> (Image credit: Sony) If you're an avid vlogger and you really want to shoot professional-looking vlogs, you'll want to invest in some great gear. Sure, you can shoot some decent videos with your smartphone, but if you want to keep making great content, you'll need a better camera than what's bundled with your phone.The Sony ZV-E10 is the first vlog camera with interchangeable lenses, which allows you to choose the best lens that suits the content you're trying to create. With over 60 lenses to choose from, there's a perfect lens for every situation.
+
+
+***
+![苹果CEO库克发声：将向山西捐款 尽一份力量支持救灾、帮助重建](https://static.cnbetacdn.com/thumb/article/2021/1013/56dc874d51c5fca.jpg "苹果CEO库克发声：将向山西捐款 尽一份力量支持救灾、帮助重建")
+
+
+[苹果CEO库克发声：将向山西捐款 尽一份力量支持救灾、帮助重建](http://www.cnbeta.com/articles/tech/1189797.htm)
+
+
+> 今日，苹果 CEO 库克用个人账号在社交平台表示，'随着山西地区逐步复苏，我们想要尽自己的一份力量来支持救灾，帮助重建。 Apple 将捐款帮助受影响的社区。' 原文如下：随着山西地区逐步复苏，我们想要尽自己的一份力量来支持救灾，帮助重建。 Apple 将捐款帮助受影响的社区 。As the Shanxi region turns toward recovery, we want to do our part supporting relief efforts and helping with the rebuilding. Apple is making a donation to help the affected communities. 责任编辑：study875
+
+
+***
+![BSNL giving free streaming benefits to new and existing broadband users for a month, check all details](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/bsnl_1_1200x768-original.png "BSNL giving free streaming benefits to new and existing broadband users for a month, check all details")
+
+
+[BSNL giving free streaming benefits to new and existing broadband users for a month, check all details](https://www.businesstoday.in/technology/story/bsnl-giving-free-streaming-benefits-to-new-and-existing-broadband-users-for-a-month-check-all-details-309204-2021-10-13)
+
+
+> Government-owned service provider BSNL is catching up with private telcos in giving users additional benefits at no additional cost. BSNL will give new and existing broadband customers one month of free service to BSNL's cinema plus OTT service which the company is providing in association with YuppTV if users subscribe to the BSNL Cinemaplus service. YuppTV is a content aggregator which gives access to OTT benefits like Sony Liv Premium, ZEE5 Premium, VooT Select and Yupp TV Live -- NCF Channels, FDFS, Yupp TV Movies and Yupp TV scope.
+
+
+***
+[In 2020, the Seattle region was the top US market for large office space leased by tech firms, due in part to a deep talent pool and plenty of undeveloped land (Julie Weed/New York Times)](http://www.techmeme.com/211013/p1#a211013p1)
+
+
+> Julie Weed / New York Times: In 2020, the Seattle region was the top US market for large office space leased by tech firms, due in part to a deep talent pool and plenty of undeveloped land — Despite an overall decline in office leasing in the United States, technology companies gobbled up more space in the Seattle area than they had the previous year.
+
+
+***
+![What Is the Fun of Betting on Esports?](https://technosports.co.in/wp-content/uploads/2021/10/sbobet.png "What Is the Fun of Betting on Esports?")
+
+
+[What Is the Fun of Betting on Esports?](https://technosports.co.in/2021/10/13/what-is-the-fun-of-betting-on-esports/)
+
+
+> - Advertisement -Esport has grown in popularity worldwide, and these disciplines continue to feature prominently on gaming and sports betting platforms such as SBOBET. As a relatively new area of sport, it has made it effortless for sports fans to access an extensive range of e-games, including popular games like Fortnite, FIFA, and League of Legends broadcast straight into fans' living rooms. Esports present an incredibly immersive 'real-life' game experience and ample opportunities for lucrative sports betting.
+
+
