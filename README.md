@@ -13637,3 +13637,53 @@
 > The Dussehra Dhamaka tournament will feature top streamers such as Jonty Gaming, X-Mania, Instagamer, TripleR, and Gaming Girl, among others.
 
 
+***
+![William Shatner, of 'Star Trek' fame, will travel to space aboard Blue Origin flight](https://media.npr.org/assets/img/2021/10/12/gettyimages-1169969469_wide-deb9c8e6e7a777dfb94df6615ceb9bcc621f403d.jpg?s=1400 "William Shatner, of 'Star Trek' fame, will travel to space aboard Blue Origin flight")
+
+
+[William Shatner, of 'Star Trek' fame, will travel to space aboard Blue Origin flight](https://www.npr.org/2021/10/13/1045377132/william-shatner-star-trek-captain-kirk-blue-origin-space-flight)
+
+
+> Canadian actor William Shatner, who became a cultural icon for his portrayal of Captain James T. Kirk in the Star Trek franchise, speaks from the stage at the second edition of the multi-genre entertainment comic and fan convention 'Comic Con Africa' in Johannesburg on September 21, 2019. MICHELE SPATARI/AFP via Getty Images The man who first played the space-traveling Captain Kirk in the Star Trek franchise is preparing to actually visit the edge of space for the first time on Wednesday.
+
+
+***
+![How to choose a cell phone plan in 2021: What to know before you switch carriers](https://www.cnet.com/a/img/LaLgbITNJnO4sssL6l8LeKa7xFU=/1200x630/2021/03/31/828d4247-00be-430e-bf9b-bb02abc31739/034verizon-att-t-mobile-big-three-carrier-logos-2021.jpg "How to choose a cell phone plan in 2021: What to know before you switch carriers")
+
+
+[How to choose a cell phone plan in 2021: What to know before you switch carriers](https://www.cnet.com/tech/mobile/how-to-choose-a-cell-phone-plan-in-2021-what-to-know-before-you-switch-carriers/)
+
+
+> Sarah Tew/CNET Switching wireless providers isn't easy. Although there are three major networks in the US, the actual amount of wireless carriers and plans is significantly higher. Sifting through it all is a confusing mess that can overwhelm the best of us. We want to help make this process a bit easier. Here's a guide on how to choose a cell phone plan in 2021.Read more: Best unlimited phone plans in 2021Which network works best for you?  Sarah Tew/CNET In the US there are three major networks: AT&T, T-Mobile and Verizon.
+
+
+***
+![Cozy Hibernating and Indoor TLC: Thumbtack Predicts Fall and Winter Home Trends](https://mms.businesswire.com/media/20211013005375/en/915685/23/Thumbtack_logo_black_RGB-1-1_%281%29.jpg "Cozy Hibernating and Indoor TLC: Thumbtack Predicts Fall and Winter Home Trends")
+
+
+[Cozy Hibernating and Indoor TLC: Thumbtack Predicts Fall and Winter Home Trends](https://www.businesswire.com/news/home/20211013005375/en/Cozy-Hibernating-and-Indoor-TLC-Thumbtack-Predicts-Fall-and-Winter-Home-Trends)
+
+
+> October 13, 2021 06:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Thumbtack, the modern home management platform, today announced the top fall and winter home projects in its bi-annual trends report. Using insights from millions of home projects, Thumbtack is predicting homeowners will maximize the coziness of their spaces ahead of colder weather and holiday gatherings. 'After a year of all-time highs in home buying and widespread supply shortages, investing in where we live, work, and play has taken on a whole new meaning,' said David Steckel, Home Expert at Thumbtack.
+
+
+***
+![Truth be told! Great read about lessons learned from working 20 years in the industry.](https://external-preview.redd.it/ZBr5TQ3EY6wsG6kHHNAydErjamstK1XKYYvX8Rx09xk.jpg?auto=webp&s=4eba617dce88e88bd86fa176b7b720220bd6de8c "Truth be told! Great read about lessons learned from working 20 years in the industry.")
+
+
+[Truth be told! Great read about lessons learned from working 20 years in the industry.](https://www.reddit.com/r/programming/comments/q77uls/truth_be_told_great_read_about_lessons_learned/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Blue Origin launch live stream: Launch time today and how to watch William Shatner go to space from the UK](https://i.inews.co.uk/content/uploads/2021/10/PRI_204605493.jpg "Blue Origin launch live stream: Launch time today and how to watch William Shatner go to space from the UK")
+
+
+[Blue Origin launch live stream: Launch time today and how to watch William Shatner go to space from the UK](https://inews.co.uk/news/technology/blue-origin-launch-live-stream-time-today-uk-william-shatner-space-watch-1246180)
+
+
+> Star Trek fans around the world will be excited to watch the original sci-fi hero Captain James T. Kirk blast into space in real life.William Shatner is set to become the oldest man to ever go into space – here's everything you need to know about how to watch.When is the launch?The Amazon founder's space company Blue Origin said on Sunday it had pushed this week's launch target of its New Shepard vehicle to Wednesday.'Due to forecasted winds on Tuesday, October 12, Blue Origin's mission operations team has made the decision to delay the launch of NS-18 and is now targeting Wednesday, October 13,' the company said in a statement.
+
+
