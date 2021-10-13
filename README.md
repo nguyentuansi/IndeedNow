@@ -13915,3 +13915,53 @@
 > Bose is a company known for giving us great audio via headphones and large speakers. Today, the company just launched its first compact Bluetooth speaker in a little while, and it's quite a little powerhouse. The Bose SoundLink Flex Bluetooth speaker is a small, yet tough speaker that's not afraid to get wet.The Bose SoundLink Flex Speaker is ruggedized and water-resistantThis speaker was made with outdoor activities and the natural elements in mind. First and foremost, it has an IP67 water and dust resistance rating.
 
 
+***
+![Netgear has a new business VPN to help secure your workplace](https://cdn.mos.cms.futurecdn.net/xkrpfU4SZKP8ivMa9tGRJo-1200-80.jpg "Netgear has a new business VPN to help secure your workplace")
+
+
+[Netgear has a new business VPN to help secure your workplace](https://www.techradar.com/news/netgear-has-a-new-business-vpn-to-help-secure-your-workplace)
+
+
+> (Image credit: NETGEAR) In an effort to further secure the networks of remote employees working from home, Netgear has announced a new business VPN service that's compatible with its existing mesh router systems.The networking company's new Insight Business VPN is an add-on service available for its Orbi Pro Series of Wi-Fi 5 and Wi-Fi 6 business mesh routers. With this new service SMBs will be able to extend their corporate networks to branch offices and even the home offices of employees while ensuring that each node on the network is secured and centrally managed.
+
+
+***
+![Windows 11 download: How to upgrade to the new OS (yes, even you)](https://www.cnet.com/a/img/Zlhst7zdVp5OSd9MLZQ15ST8uQs=/1200x630/2021/06/24/e58fceb6-e7c1-40fb-bf6d-b29e81f9a713/screen-shot-2021-06-24-at-11-45-41-am-2.png "Windows 11 download: How to upgrade to the new OS (yes, even you)")
+
+
+[Windows 11 download: How to upgrade to the new OS (yes, even you)](https://www.cnet.com/tech/services-and-software/windows-11-download-how-to-upgrade-to-the-new-os-yes-even-you/)
+
+
+> Windows 11 is here, and it's free to download for Windows 10 users. Microsoft Windows 11 began its rollout last week, as Microsoft launched its new operating system to eligible devices on Oct. 5. Everyone already using Windows 10 can upgrade for free if they have a compatible computer. Note that Microsoft is rolling out the OS in phases, so your system might not prompt you to upgrade just yet -- in fact, you might not find it even if you tell your computer to check for updates. An August blog post from Microsoft said the company expects "all eligible devices to be offered the free upgrade to Windows 11 by mid-2022.
+
+
+***
+![Pearl to Introduce Groundbreaking AI to Australian and New Zealand Dentistry](https://mms.businesswire.com/media/20211013006161/en/916195/23/Pearl_Image_1.jpg "Pearl to Introduce Groundbreaking AI to Australian and New Zealand Dentistry")
+
+
+[Pearl to Introduce Groundbreaking AI to Australian and New Zealand Dentistry](https://www.businesswire.com/news/home/20211013006161/en/Pearl-to-Introduce-Groundbreaking-AI-to-Australian-and-New-Zealand-Dentistry)
+
+
+> October 13, 2021 06:00 PM Eastern Daylight Time LOS ANGELES--(BUSINESS WIRE)--Pearl, the leader in AI solutions for efficiency, accuracy, and consistency in dental care, today announced that it has received authorization to introduce its Second Opinion® AI solution to the Australian and New Zealand dental markets. The clearances from Australia's Therapeutic Goods Administration (TGA) and New Zealand's Medical Devices Safety Authority (MEDSAFE) follow the European CE marking Second Opinion® received earlier this year for use as an assistive tool in dental radiology.
+
+
+***
+![E-Quality and Tula Form Strategic Cooperation Agreement](https://mms.businesswire.com/media/20211013005144/en/914700/23/tula-equality-truck-wrap-v002-01.jpg "E-Quality and Tula Form Strategic Cooperation Agreement")
+
+
+[E-Quality and Tula Form Strategic Cooperation Agreement](https://www.businesswire.com/news/home/20211013005144/en/E-Quality-and-Tula-Form-Strategic-Cooperation-Agreement)
+
+
+> October 13, 2021 06:00 PM Eastern Daylight Time WUXI, JIANGSU, China & SAN JOSE, Calif.--(BUSINESS WIRE)--Chinese vehicle equipment manufacturer E-Quality Tec, Inc. and American propulsion efficiency software company Tula Technology, Inc. have signed a strategic agreement to collaborate initially on three main objectives: Rapidly deploy fully integrated technology, enabling medium and heavy-duty diesel vehicle manufacturers in China to aggressively target simultaneous reductions in both CO2 and NOX for CN Stage VI, China's emission standard for heavy-duty vehicles Embed Tula's diesel Dynamic Skip Fire® (DSF) controls software and diagnostics within E-Quality's production series EQ16 controller Provide customers with a new emissions reduction technology option that also will improve the competitive positions of both companies in the Chinese diesel vehicle market 'E-Quality and Tula are focused on the goals of 2030 CO2 peak emissions and 2060 CO2 neutral emissions for China vehicles,' said Tom Li, CEO of E-Quality.
+
+
+***
+![Mark Cuban Picks These 2 Cryptocurrencies For The Most Upside](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/screenshot_2021-10-13_5.53.02_pm.png?width=720 "Mark Cuban Picks These 2 Cryptocurrencies For The Most Upside")
+
+
+[Mark Cuban Picks These 2 Cryptocurrencies For The Most Upside](https://www.benzinga.com/markets/cryptocurrency/21/10/23365651/mark-cuban-picks-these-2-cryptocurrencies-for-the-most-upside)
+
+
+> One of the most vocal bulls of Dogecoin (CRYPTO: DOGE) in 2021 has been Mark Cuban. The Dallas Mavericks began accepting Dogecoin as a form of payment for tickets and merch earlier this year, but DOGE might not be Cuban's favorite cryptocurrency anymore. What Happened: Cuban chose two cryptocurrencies as his favorite investments in the space. 'As an investment, I think Ethereum has the most upside,' Cuban told CNBC. He has been bullish on Ethereum (CRYPTO: ETH) in many conversations throughout 2021.
+
+
