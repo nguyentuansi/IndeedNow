@@ -13408,3 +13408,50 @@
 > If you're on the hunt for this year's best Black Friday wireless earbuds deals, you've come to the right place. In just a few weeks, we're going to see a slew of deals on some of this year's top models from Apple, Bose, Sony, Sennheiser and many more. This year, Black Friday 2021 falls on Friday, November 26 and we expect to see deals coming in fast and furious as soon as the clock strikes midnight. While all the best deals will drop in the 72-hour period between Black Friday and Cyber Monday, we wouldn't be surprised to see at least a few great deals drop in the leadup.
 
 
+***
+[What sea-level rise will look like in Sydney](https://www.goldcoastbulletin.com.au/technology/environment/what-sealevel-rise-will-look-like-in-sydney/video/e8583d162fda8c3388768a632202d6b6)
+
+
+> Climate Central has released visualisations showing sea-level rise across the world, including in Sydney.
+
+
+***
+![This is the spotted, the most select and almost extinct Iberian pig](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/11/16339371933209.jpg "This is the spotted, the most select and almost extinct Iberian pig")
+
+
+[This is the spotted, the most select and almost extinct Iberian pig](https://www.tellerreport.com/tech/2021-10-13-this-is-the-spotted--the-most-select-and-almost-extinct-iberian-pig.ryKq4i7BF.html)
+
+
+> We have rejuvenated those of us who remembered times when a Torta del Casar or a red Iberian pork meat were unknown in Madrid and we suddenly discovered them in a ... We have rejuvenated those of us who remembered times when a Torta del Casar or a red Iberian pork meatwere unknown in Madrid and wesuddenly discovered them on a trip to Cáceres or Huelva.Well, we have returned to Huelva without going past the restaurantTabernacle Tradition of Chamartín, to discover ... that there was another Iberian pig! It is thespotted Iberian pig, and there were reasons not to know it:almost extinct, it isbeing recoveredby a few enthusiastic farmers from Jabugo.
+
+
+***
+![As the UK grapples with post-Brexit and Covid labor shortages, employment openings have risen to a 20-year high. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/616574352030277f4e748e37.png "As the UK grapples with post-Brexit and Covid labor shortages, employment openings have risen to a 20-year high. » Brinkwire")
+
+
+[As the UK grapples with post-Brexit and Covid labor shortages, employment openings have risen to a 20-year high. » Brinkwire](https://en.brinkwire.com/news/as-the-uk-grapples-with-post-brexit-and-covid-labor-shortages-employment-openings-have-risen-to-a-20-year-high/)
+
+
+> As the UK grapples with post-Brexit and Covid labor shortages, employment openings have risen to a 20-year high. The figures, which covered the months of July to September, revealed the strain on British industry, with the UK unemployment rate at 4.5 percent, up from 4 percent before the Covid epidemic. 'Vacancies also reached a new one-month high of roughly 1.2 million in September, with our latest estimates suggesting that all industries have at least as many jobs on offer currently as before the commencement of Covid-19,' said Darren Morgan, the ONS' director of economic statistics.
+
+
+***
+![10 places to enjoy the terraces also in autumn](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/09/02/16305990573469.jpg "10 places to enjoy the terraces also in autumn")
+
+
+[10 places to enjoy the terraces also in autumn](https://www.tellerreport.com/tech/2021-10-13-10-places-to-enjoy-the-terraces-also-in-autumn.r1-gEjmBY.html)
+
+
+> It is clear that neither the bicycles nor the terraces are only for the summer. This autumn of benevolent climate -for the moment- encourages more than ever the terrace and to enjoy a good ... It is clear that neither the bicycles nor the terraces are only for the summer.This autumn ofbenevolentclimate-forthemoment-encourages more than ever theterraceand to enjoy a good gastronomic proposal in gardens, rooftops, patios ... In Madrid there are optionsfor all tastes, and if not, take a look at the following proposals.
+
+
+***
+![Coinbase NFT platform teases social features, showcases, and simplicity](https://cdn.slashgear.com/wp-content/uploads/2021/10/coinbase-nft-crypto-waitlist-details.jpg "Coinbase NFT platform teases social features, showcases, and simplicity")
+
+
+[Coinbase NFT platform teases social features, showcases, and simplicity](https://www.slashgear.com/coinbase-nft-platform-teases-social-features-showcases-and-simplicity-12694950/)
+
+
+> Coinbase has announced plans to make NFTs more approachable for the general public. Though the new NFT platform isn't available right now, Coinbase has launched a waitlist for those who are interested in trying it out for themselves. Among other things, Coinbase says its NFT platform will include social features, centralized showcases, and discovery features. Non-Fungible Tokens (NFTs) are the latest blockchain fad; put simply, creators can sell content as NFTs in exchange for the crypto of their choice, providing a unique marketplace for creators and collectors.
+
+
