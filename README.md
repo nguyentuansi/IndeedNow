@@ -13687,3 +13687,50 @@
 > Star Trek fans around the world will be excited to watch the original sci-fi hero Captain James T. Kirk blast into space in real life.William Shatner is set to become the oldest man to ever go into space – here's everything you need to know about how to watch.When is the launch?The Amazon founder's space company Blue Origin said on Sunday it had pushed this week's launch target of its New Shepard vehicle to Wednesday.'Due to forecasted winds on Tuesday, October 12, Blue Origin's mission operations team has made the decision to delay the launch of NS-18 and is now targeting Wednesday, October 13,' the company said in a statement.
 
 
+***
+[Ohio-based Aware, which analyzes internal company chat tools for legal compliance, sentiment, and more, raises a $60M Series C led by Goldman Sachs (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211013/p11#a211013p11)
+
+
+> Ingrid Lunden / TechCrunch: Ohio-based Aware, which analyzes internal company chat tools for legal compliance, sentiment, and more, raises a $60M Series C led by Goldman Sachs — Organizations have been using social media monitoring for years to get a better idea of how they are being perceived in the world at large …
+
+
+***
+![Amazon copied products and rigged search results, documents show](https://external-preview.redd.it/nw6SiL6I8OT8HwSx-inVqf_C9K0ST76tC0A0IW5Plt0.jpg?auto=webp&s=e0246ac52fd958ea7a0868e6ccae616a6214af51 "Amazon copied products and rigged search results, documents show")
+
+
+[Amazon copied products and rigged search results, documents show](https://www.reddit.com/r/technology/comments/q79nms/amazon_copied_products_and_rigged_search_results/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Apple warns of cybercrime risks if EU forces it to allow others' software](https://www.reuters.com/resizer/hOyLByHKIG1GbDuzsVu8YmQBmYc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4YHW6BSRCJLPDL3BF5YRUYMSDY.jpg "Apple warns of cybercrime risks if EU forces it to allow others' software")
+
+
+[Apple warns of cybercrime risks if EU forces it to allow others' software](https://www.reuters.com/technology/apple-warns-cybercrime-risks-if-eu-forces-it-allow-others-software-2021-10-13/)
+
+
+> Apple logo is seen on the Apple store at The Marche Saint Germain in Paris, France July 15, 2020. REUTERS/Gonzalo FuentesBRUSSELS, Oct 13 (Reuters) - Apple (AAPL.O) on Wednesday ramped up its criticism of EU draft rules that would force it to allow users to install software from outside its App Store, citing the risks posed by cybercriminals and malware.The iPhone maker has been a fierce critic of EU antitrust chief Margrethe Vestager's proposed rules, which were announced last year in a bid to rein in Apple, Amazon (AMZN.
+
+
+***
+![E-mobility startup Swft raises $10M seed round to expand light-duty vehicle lineup – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/SWFT-E-Bikes-Group-Lifestyle-.jpg "E-mobility startup Swft raises $10M seed round to expand light-duty vehicle lineup – TechCrunch")
+
+
+[E-mobility startup Swft raises $10M seed round to expand light-duty vehicle lineup – TechCrunch](https://techcrunch.com/2021/10/13/e-mobility-startup-swft-raises-10m-seed-round-to-expand-light-duty-vehicle-lineup/)
+
+
+> Electric mobility startup Swft has raised $10 million in seed funding that it will use to expand its light-duty vehicle offerings, grow its team and scale its inventory management and supply chain systems. The company, which already has a deal to offer its three new e-bikes and new e-moped with Best Buy, is also on the lookout for more retail partnerships. Swft officially launched in February 2020 as a direct-to-consumer business and developed over the past year within NYC-based venture advisory firm On Spec.
+
+
+***
+![From $0 in revenue to a $7.25B valuation: Why TripActions' $275M raise has fintech to thank – TechCrunch](https://techcrunch.com/wp-content/uploads/2017/10/fly-plane.jpg?w=533 "From $0 in revenue to a $7.25B valuation: Why TripActions' $275M raise has fintech to thank – TechCrunch")
+
+
+[From $0 in revenue to a $7.25B valuation: Why TripActions' $275M raise has fintech to thank – TechCrunch](https://techcrunch.com/2021/10/13/from-0-in-revenue-to-a-7-25b-valuation-why-tripactions-275m-raise-has-fintech-to-thank/)
+
+
+> Prior to the COVID-19 pandemic, TripActions was primarily known for merging many aspects of corporate trip booking — flights, hotels and rental cars — with expense tracking. But Palo Alto-based TripActions was among the startups that was hit very hard by the COVID-19 pandemic. In fact, the global crisis resulted in its revenue dropping to $0, according to CEO and co-founder Ariel Cohen. In March 2020, the company made headlines for laying off nearly 300 employees in the face of a slowdown in business related to the pandemic.
+
+
