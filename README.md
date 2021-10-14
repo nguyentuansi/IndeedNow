@@ -14350,3 +14350,50 @@
 > October 14, 2021 09:57 AM Eastern Daylight Time AVON, Ohio--(BUSINESS WIRE)--Jenne, Inc. has named Shawn Berry to its newly created position of senior vice president of global cloud channel sales. In this new role, Berry will oversee field sales, business development, product management and marketing for Jenne's cloud and master agent business. Berry joins Jenne, Inc. from NetFortris, where he served as vice president of sales. While with NetFortris, he was instrumental in creating, building and deploying the company's nationwide channel agent program.
 
 
+***
+![Musk tweets he is in talks with airlines to install Starlink broadband](https://www.reuters.com/resizer/5KCo1aR7Uf7nJlL7ZteHVFwvG8E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LBE5NMGFPZJTLNFAJYFOUZ6XHA.jpg "Musk tweets he is in talks with airlines to install Starlink broadband")
+
+
+[Musk tweets he is in talks with airlines to install Starlink broadband](https://www.reuters.com/technology/elon-musk-says-talks-with-airlines-install-starlink-2021-10-14/)
+
+
+> Tesla CEO Elon Musk speaks during the E3 gaming convention in Los Angeles, California, U.S., June 13, 2019. REUTERS/Mike BlakeOct 14 (Reuters) - Billionaire entrepreneur Elon Musk said in a tweet on Thursday he was in talks with airlines about installing Starlink, a satellite-based broadband serviceowned by his rocket company SpaceX.Musk, who is known for his Twitter banter, announcements and lively interactions with followers, did not provide any details about the talks in his tweet. It was not immediately clear which airlines were approached or when installation would occur.
+
+
+***
+[Google bets on the cloud breaking up](https://www.ft.com/content/ab36b9e2-00e0-469c-9388-fa034f9bfd63)
+
+
+> Let our global subject matter experts broaden your perspective with timely insights and opinions you can't find anywhere else. Choose your subscription Learn more and compare subscriptions Full Terms and Conditions apply to all Subscriptions.
+
+
+***
+![At One Ventures' new fund is going after startups out to ‘destroy the industries that are destroying the environment' – TechCrunch](https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-135619013.jpg?w=600 "At One Ventures' new fund is going after startups out to ‘destroy the industries that are destroying the environment' – TechCrunch")
+
+
+[At One Ventures' new fund is going after startups out to ‘destroy the industries that are destroying the environment' – TechCrunch](https://techcrunch.com/2021/10/14/at-one-ventures-new-fund-is-going-after-startups-out-to-destroy-the-industries-that-are-destroying-the-environment/)
+
+
+> Planet-positive venture capital firm At One Ventures closed on its Fund I, aimed at injecting $150 million into startups that are innovating in the technical hardware space and specializing in environmentally positive technology. The Bay Area firm was started in 2019 by GoogleX co-founder Tom Chi, Laurie Menoud, who co-led venture capital for North American BASF, and Helen Lin, who spent time in Africa providing banking services to low-income populations. That combination of scientific, financial and deep-tech backgrounds gives them an advantage to be able to evaluate hardware and environmental economics to find companies that are truly making humanity a net positive to nature, Chi told TechCrunch.
+
+
+***
+![Google modernizes US mobile search results with continuous scrolling – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?w=745 "Google modernizes US mobile search results with continuous scrolling – TechCrunch")
+
+
+[Google modernizes US mobile search results with continuous scrolling – TechCrunch](https://techcrunch.com/2021/10/14/google-modernizes-u-s-mobile-search-results-with-continuous-scrolling/)
+
+
+> Google announced today it's changing the way search works on mobile devices, initially in the U.S. Now, when you reach the bottom of a set of search results on your phone, you won't have to tap to go to the next page. Instead, the next set of results will automatically load so you can continuously scroll down to see more information. The change will roll out on the mobile web and will be supported on the Google mobile app for both iOS and Android in the U.S. for most English-language searches for the time being.
+
+
+***
+![Resident Evil Board Game Brings The Scares](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Resident%20Evil%20Board%20Game%20Featured%20Image.jpg?itok=1IdQ3vUB "Resident Evil Board Game Brings The Scares")
+
+
+[Resident Evil Board Game Brings The Scares](https://techraptor.net/tabletop/previews/resident-evil-board-game-brings-scares)
+
+
+> A while ago, we here at TechRaptor reported that Steamforged Games would be returning to tabletop adaptations of the Resident Evil series. Specifically, they would be adapting the terrors of the Spencer Mansion from Resident Evil 1. This raised several questions for me. Zombie games are plentiful. Horror board games investigating a mansion are abundant as well. So what exactly can Steamforged Games bring to a project that, adaptation of source material aside, do to help spice up such well-trodden formula and tropes? The answer was they set us up with a sneak peek of the game and answered my questions directly.
+
+
