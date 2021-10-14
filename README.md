@@ -14062,3 +14062,50 @@
 > Greetings, i was wondering if anyone of you uses arcserve udp and scripted something to build reporting of the backup jobs result (backup/merge/rep). The reporting that comes with arcserve udp is not good and i would line to script a report in python for something that makes sense (being able to only report missed/warning or failed jobs, rps datastore free size etc etc. Îm currently looking at the available tables so i could create a view with the table/ column i need but in case someone already
 
 
+***
+![Physicists develop a new method for controlling qubits, the fundamental units of quantum computing. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/quantum-computer-777x408-1.jpg "Physicists develop a new method for controlling qubits, the fundamental units of quantum computing. » Brinkwire")
+
+
+[Physicists develop a new method for controlling qubits, the fundamental units of quantum computing. » Brinkwire](https://en.brinkwire.com/technology/physicists-develop-a-new-method-for-controlling-qubits-the-fundamental-units-of-quantum-computing/)
+
+
+> A research team that includes two University of Oregon physicists has outlined new techniques for controlling the building blocks of , a potentially significant step toward making such computers more accurate and useful. Physicists David Allcock and David Wineland are founders of the new Oregon Ions Laboratory, which was recently set up in the basement of Willamette Hall. They are among 12 authors of a new paper, which is based on an experiment at the National Institute for Standards and Technology in Boulder, Colorado.
+
+
+***
+![Flood-damaged autos driving into used-car market, consumer group warns](https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/13/3b716119-8d8d-4974-857b-cad9309b594a/thumbnail/1200x630/df5b62b2ed19d276cc23757f8afdd1e9/gettyimages-1235016525.jpg "Flood-damaged autos driving into used-car market, consumer group warns")
+
+
+[Flood-damaged autos driving into used-car market, consumer group warns](https://www.cbsnews.com/news/flood-damage-used-cars-hurricane-ida-pirg-nicb-vehicles/)
+
+
+> By Khristopher J. Brooks October 14, 2021 / 12:01 AM / MoneyWatch Thousands of cars and trucks have been damaged by major floods this year and that makes it even more important for today's used-car buyers to scrutinize potential purchases, consumer advocacy groups warn.  Anyone kicking the tires on a used car for sale should scan the vehicle inside and out for flood damage, the U.S. Public Interest Research Group said Thursday. If there's a car you're seriously considering, sniff around the interior for the smell of mold, look for moisture build up in the headlights and even have the vehicle inspected by a professional before making a deal, the group said.
+
+
+***
+![White House Endorses Regulating Tech Platforms for 'Harms that They Cause'](https://media.breitbart.com/media/2021/10/biden-two-people-getty.jpg "White House Endorses Regulating Tech Platforms for 'Harms that They Cause'")
+
+
+[White House Endorses Regulating Tech Platforms for 'Harms that They Cause'](https://www.breitbart.com/tech/2021/10/07/white-house-endorses-regulating-tech-platforms-for-harms-that-they-cause/)
+
+
+> The White House on Wednesday endorsed further regulations on social media tech platforms, in response to testimony from far-left Facebook 'whistleblower' Frances Haugen on Capitol Hill. 'The President has long said, as you referenced, that tech platforms must be held accountable for the harms that they cause,' White House press secretary Jen Psaki said during the daily press briefing in response to a question about the hearings on Capitol Hill. White House press secretary Jen Psaki speaks during a press briefing at the White House, Tuesday, Feb.
+
+
+***
+![Apple warns of cybercrime risks if EU forces it to allow others' software](https://images.indianexpress.com/2021/10/Apple_Logo_Reuters1.jpg "Apple warns of cybercrime risks if EU forces it to allow others' software")
+
+
+[Apple warns of cybercrime risks if EU forces it to allow others' software](https://indianexpress.com/article/technology/tech-news-technology/apple-warns-of-cybercrime-risks-if-eu-forces-it-to-allow-others-software-7571010/)
+
+
+> Apple Inc on Wednesday ramped up its criticism of EU draft rules that would force it to allow users to install software from outside its App Store, saying that would boost the risk of cybercriminals and malware. But the Coalition for App Fairness, which includes Spotify, Match Group and Epic Games, dismissed Apple's arguments, saying that built-in security measures such as encrypted data and antivirus programmes provide security to devices, not its App Store. The group wants regulators to loosen Apple's grip on its App Store so they can bypass it to reach Apple's hundreds of millions of users and also to avoid paying commissions of up to 30 percent for purchases made in the Store.
+
+
+***
+[GitLab raises $801M after pricing its IPO at $77 per share, above its marketed range of $66 to $69, giving it a market valuation of $11B (Bloomberg)](http://www.techmeme.com/211013/p35#a211013p35)
+
+
+> Bloomberg: GitLab raises $801M after pricing its IPO at $77 per share, above its marketed range of $66 to $69, giving it a market valuation of $11B — - Shares priced above the marketed range at $77 apiece — Co-founder, CEO Sijbrandij sells stake worth $152 million
+
+
