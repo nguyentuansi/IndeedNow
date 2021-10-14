@@ -14206,3 +14206,50 @@
 > The Three mobile phone network appears to be down, with customers complaining that they are unable to make or receive calls.People in some areas, such as Colchester and London, are reporting issues on social media.According to the website DownDetector, people began to notice the problems at approximately 5:48am GMT - with more people reporting them at around 8:00am GMT, when the work day would begin.In a statement, Three said: 'We're currently experiencing technical issues with some calls. Please accept our apologies if you've been affected by this, our engineers are working hard to fix it.
 
 
+***
+![WhatsApp Web Multi-Device Support Is Rolling Out: Here's How To Activate](https://im.indiatimes.in/content/2021/Oct/Facebook-Image---2021-10-14T114019471_6167caa0f0506.jpg "WhatsApp Web Multi-Device Support Is Rolling Out: Here's How To Activate")
+
+
+[WhatsApp Web Multi-Device Support Is Rolling Out: Here's How To Activate](https://www.indiatimes.com/technology/news/whatsapp-web-multi-device-support-how-to-activate-551637.html)
+
+
+> In the last few weeks, we've been hearing about how WhatsApp is working on bringing Multi-Device support to its app, allowing users to switch seamlessly between devices without worrying about losing their chat history, and now it looks like we're almost there.  Twitter: @babumoshayeAlso Read: WhatsApp Multi-Device Support Is Live For Beta Users: How It WorksYesterday, several beta users of WhatsApp Web reported that their devices were eligible for the multi-device WhatsApp Web, where the phone once authenticated won't be required to be connected to the internet at all times.
+
+
+***
+[Technical analysis: EUR/USD prods past 50-MA and makes headways into cloud](https://forextv.com/euro-eur/technical-analysis-eur-usd-prods-past-50-ma-and-makes-headways-into-cloud/)
+
+
+> Alternatively, preliminary tough support could transpire from the region of the 50-period SMA at 1.1569, which contains the cloud floor and where the Ichimoku lines are converging. If sellers drive … Read Full Story at source (may require registration) The post Technical analysis: EUR/USD prods past 50-MA and makes headways into cloud appeared first on ForexTV.
+
+
+***
+![5G expansion hits bump with search for materials, labor](https://thehill.com/sites/default/files/techconnect_istock.jpg "5G expansion hits bump with search for materials, labor")
+
+
+[5G expansion hits bump with search for materials, labor](https://thehill.com/policy/technology/576383-5g-expansion-hits-bumps-with-search-for-materials-labor)
+
+
+> The rollout and expansion of next generation wireless technology is running up against some pandemic-related hurdles.The move toward 5G is forcing some industries to make upgrades at a time when hiring is proving challenging and supply chain issues have led to shortages of semiconductor chips and other crucial materials.The fiber optic cable industry, which helps build out the infrastructure needed to link small cell sites together for 5G deployment, says it's unable to staff and supply much of that work.
+
+
+***
+![Facebook told staff it would seal off some internal message boards to prevent leaking. The change was immediately leaked.](https://external-preview.redd.it/uva4RSzUfj95Xz0xz6j0k9-e7JAbYuFbQxXHQpA8mVU.jpg?auto=webp&s=34c578e84f0b73dbc279be2cfebc04f9e1e2ef58 "Facebook told staff it would seal off some internal message boards to prevent leaking. The change was immediately leaked.")
+
+
+[Facebook told staff it would seal off some internal message boards to prevent leaking. The change was immediately leaked.](https://www.reddit.com/r/technology/comments/q7wisc/facebook_told_staff_it_would_seal_off_some/)
+
+
+> From the article: Facebook told employees on Tuesday it would restrict access to some internal message boards to prevent leaks, The New York Times first reported on Wednesday.The company told staff it would restrict access to some employee message boards that relate to platform safety and protecting elections, both of which come under the umbrella of "Integrity," per The Times.Some groups would be made private instead of public in the coming months, Facebook said, according to the report. Facebook also said it would go through some Integrity-related discussion groups and start removing people that don't work directly on safety and security, The Times reported.
+
+
+***
+![United States: Fintech Legal Report—Week Of September 24, 2021](https://www.mondaq.com/images/Mondaq_Share.jpg "United States: Fintech Legal Report—Week Of September 24, 2021")
+
+
+[United States: Fintech Legal Report—Week Of September 24, 2021](https://www.mondaq.com/unitedstates/fin-tech/1121038/fintech-legal-reportweek-of-september-24-2021)
+
+
+> CONTRIBUTOR ARTICLE To print this article, all you need is to be registered or login on Mondaq.com. House Financial Services Committee discusses consumers' rights to access their personal financial data. The CFPB takes action against an online lender for deceptive marketing. On September 21, 2021, the House Committee of Financial Services Task Force on Financial Technology held a hybrid hearing entitled "Preserving the Right of Consumers to Access Personal Financial Data." The memorandum for the hearing highlighted the ongoing debates over how financial institutions should be allowed to use or share consumer data and how the increased use of consumer financial data by fintech companies and other financial institutions has raised concerns around consumer protection and privacy, and how the laws and regulations currently operate in this space.
+
+
