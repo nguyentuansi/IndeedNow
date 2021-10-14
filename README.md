@@ -14015,3 +14015,50 @@
 > On today's Pocketnow Daily, we talk about the official date of Apple's new Unleashed event, Pixel 6 leaks, and more. The post Pocketnow Daily: Apple’s UNLEASHED Event LEAKED? Google Pixel 6 Extra Leaks & more! (video) appeared first on Pocketnow.
 
 
+***
+![Mitsubishi Electric to Launch ‘CV Series' of 3D CO2 Laser Processing Systems for Cutting CFRP](https://mms.businesswire.com/media/20211013005428/en/1053498/23/MELCO_logo.jpg "Mitsubishi Electric to Launch ‘CV Series' of 3D CO2 Laser Processing Systems for Cutting CFRP")
+
+
+[Mitsubishi Electric to Launch ‘CV Series' of 3D CO2 Laser Processing Systems for Cutting CFRP](https://www.businesswire.com/news/home/20211013005428/en/Mitsubishi-Electric-to-Launch-%E2%80%98CV-Series%E2%80%99-of-3D-CO2-Laser-Processing-Systems-for-Cutting-CFRP)
+
+
+> TOKYO--(BUSINESS WIRE)--Mitsubishi Electric Corporation (TOKYO: 6503) announced today that it will launch on October 18 two new CV Series models of 3D CO 2 laser processing systems for cutting carbon fiber reinforced plastics (CFRP), which are lightweight, high strength materials used in automobiles. The new models are equipped with CO 2 laser oscillators that integrate the oscillator and amplifier into the same enclosure – a world-first based on the company's research as of October 14, 2021 – and together with the unique processing head of the CV Series, it helps achieve high-speed and precision processing.
+
+
+***
+![How to watch Another Life season 2 online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/another-life-netflix.jpg "How to watch Another Life season 2 online from anywhere")
+
+
+[How to watch Another Life season 2 online from anywhere](https://www.androidcentral.com/how-watch-another-life-season-2-online-anywhere)
+
+
+> It's been more than two years since Netflix first released its sci-fi drama starring Battlestar Galactica's Katee Sackhoff but the wait is finally over and we have all the details on how you can watch new episodes from season 2 of Another Life online. Source: Netflix In the relatively near future at a time when humanity has finally developed spaceships that can travel faster than light, an unidentified flying object in the shape of a Möbius strip lands on Earth. When a crystalline tower begins to grow from the alien spaceship, United States Interstellar Command scientist Erik Wallace (Justin Chatwin) attempts to communicate with it and ends up identifying a signal from the structure sent to the star Pi Canis Majoris.
+
+
+***
+![Amazon Abandons Warehouse Plan Because San Diego Is Considering Worker Protection Law](https://external-preview.redd.it/8ptLBij9hbxsf7Jzw1bYwuLqXHqRkX3-TCDmyqiAs7E.jpg?auto=webp&s=94c97cd3ce2fe92ca4cc4335a473dc6b75797acf "Amazon Abandons Warehouse Plan Because San Diego Is Considering Worker Protection Law")
+
+
+[Amazon Abandons Warehouse Plan Because San Diego Is Considering Worker Protection Law](https://www.reddit.com/r/technology/comments/q7pv9t/amazon_abandons_warehouse_plan_because_san_diego/)
+
+
+> mandate 56 hours of annual sick leave for workers.That's still not very much.
+
+
+***
+![Archivists Create a Searchable Index of 107 Million Science Articles: More than 107 million scientific journals have been catalogued and turned into a general index. The size of the archive is 38 terabytes.](https://external-preview.redd.it/8pQfoWd-Ymp9XTd7fO2yXiI2-kAMZQwYjbxzRTm8PK4.jpg?auto=webp&s=8e237d22a13ebbc152b58585f9d164e3405255f7 "Archivists Create a Searchable Index of 107 Million Science Articles: More than 107 million scientific journals have been catalogued and turned into a general index. The size of the archive is 38 terabytes.")
+
+
+[Archivists Create a Searchable Index of 107 Million Science Articles: More than 107 million scientific journals have been catalogued and turned into a general index. The size of the archive is 38 terabytes.](https://www.reddit.com/r/technology/comments/q7puse/archivists_create_a_searchable_index_of_107/)
+
+
+> No body in the article.
+
+
+***
+[Arcserve udp python script last backup](https://www.reddit.com/r/Python/comments/q7pu8y/arcserve_udp_python_script_last_backup/)
+
+
+> Greetings, i was wondering if anyone of you uses arcserve udp and scripted something to build reporting of the backup jobs result (backup/merge/rep). The reporting that comes with arcserve udp is not good and i would line to script a report in python for something that makes sense (being able to only report missed/warning or failed jobs, rps datastore free size etc etc. Îm currently looking at the available tables so i could create a view with the table/ column i need but in case someone already
+
+
