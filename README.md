@@ -14156,3 +14156,53 @@
 > Share this article:MICROSOFT, which has faced pressure from employees and shareholders over contracts with governments and law enforcement agencies, agreed to commission an independent human rights review of some of those deals.The move came in response to a June filing of a shareholder proposal asking the company to evaluate how well it sticks to its human rights statement and related policies. Microsoft committed to a review of any human rights impacts that its products have on those including communities of black, indigenous and people of colour in contracts for police, immigration enforcement and unspecified other government agencies, according to correspondence from the company viewed by Bloomberg.
 
 
+***
+![A 39-year-old fraudster stole more than £325,000 to support his gambling habit. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/clare-roughley-1505001.jpg "A 39-year-old fraudster stole more than £325,000 to support his gambling habit. » Brinkwire")
+
+
+[A 39-year-old fraudster stole more than £325,000 to support his gambling habit. » Brinkwire](https://en.brinkwire.com/news/a-39-year-old-fraudster-stole-more-than-325000-to-support-his-gambling-habit/)
+
+
+> Clare Roughley 'systematically, ruthlessly and remorselessly' stole hundreds of thousands of pounds from both her own relatives and those she had close contact with in her capacity as a carer, Liverpool Crown Court heard. Ms Roughley, 39, of St Helen's, Merseyside, took over £58,000 from her grandmother, Theresa Leyland, who suffered from dementia before she passed away in 2019. Ms Leyland had left Ms Roughley £6,000 in her will, but Liverpool Crown Court heard that Ms Roughley made off with money from Ms Leyland's estate even after her death.
+
+
+***
+![Three network is down for mobile users across the UK](https://static.independent.co.uk/2020/08/19/11/breaking-news.png?width=1200&auto=webp&quality=75 "Three network is down for mobile users across the UK")
+
+
+[Three network is down for mobile users across the UK](https://www.independent.co.uk/life-style/gadgets-and-tech/three-network-down-today-3-mobile-b1938197.html)
+
+
+> The Three mobile phone network appears to be down, with customers complaining that they are unable to make or receive calls.People in some areas, such as Colchester and London, are reporting issues on social media.According to the website DownDetector, people began to notice the problems at approximately 5:48am GMT - with more people reporting them at around 8:00am GMT, when the work day would begin.In a statement, Three said: 'We're currently experiencing technical issues with some calls. Please accept our apologies if you've been affected by this, our engineers are working hard to fix it.
+
+
+***
+![SWIFT Go Builds Momentum as 100+ Banks Sign Up for Service That Powers SME and Consumer Payments](https://mms.businesswire.com/media/20211014005200/en/916133/23/SWIFT_Logo_RGB.jpg "SWIFT Go Builds Momentum as 100+ Banks Sign Up for Service That Powers SME and Consumer Payments")
+
+
+[SWIFT Go Builds Momentum as 100+ Banks Sign Up for Service That Powers SME and Consumer Payments](https://www.businesswire.com/news/home/20211014005200/en/SWIFT-Go-Builds-Momentum-as-100-Banks-Sign-Up-for-Service-That-Powers-SME-and-Consumer-Payments)
+
+
+> October 14, 2021 04:00 AM Eastern Daylight Time BRUSSELS--(BUSINESS WIRE)--SWIFT today announces that 100 banks around the world have signed up for SWIFT Go since it went live in July, underscoring strong demand for the service that enables small businesses and consumers to send fast, predictable, highly secure and competitively priced low-value cross-border payments from their bank accounts. Ten banks are already live with SWIFT Go, most recently Deutsche Bank, JPMorgan Chase, and China Minsheng Bank, representing 41 million low-value cross-border payments a year.
+
+
+***
+![Apple 'Unleashed' event 2021: What could be announced alongside MacBook Pro](https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/14/full/1634198096-4191.jpg "Apple 'Unleashed' event 2021: What could be announced alongside MacBook Pro")
+
+
+[Apple 'Unleashed' event 2021: What could be announced alongside MacBook Pro](https://www.business-standard.com/article/technology/apple-unleashed-event-2021-what-could-be-announced-alongside-macbook-pro-121101400641_1.html)
+
+
+> Apple is hosting an event on October 18. Officially called ‘Unleashed', the event is expected to be about the successor of its ARM architecture-based Apple M1 chip. The new chip is expected to debut with the new line of MacBook Pro and Mac Mini, which are expected to be unveiled at the Apple event on October 18. Alongside the new MacBook Pro and Mac Mini, Apple is expected to announce the release date for the macOS Monterey. It would not be a surprise if Apple also announces the new AirPods, which are due for upgrade.
+
+
+***
+![Three network down: UK users unable to make and receive calls during major outage](https://static.independent.co.uk/2020/08/19/11/breaking-news.png?width=1200&auto=webp&quality=75 "Three network down: UK users unable to make and receive calls during major outage")
+
+
+[Three network down: UK users unable to make and receive calls during major outage](https://www.independent.co.uk/life-style/gadgets-and-tech/three-network-down-today-3-mobile-b1938197.html)
+
+
+> The Three mobile phone network appears to be down, with customers complaining that they are unable to make or receive calls.People in some areas, such as Colchester and London, are reporting issues on social media.According to the website DownDetector, people began to notice the problems at approximately 5:48am GMT - with more people reporting them at around 8:00am GMT, when the work day would begin.In a statement, Three said: 'We're currently experiencing technical issues with some calls. Please accept our apologies if you've been affected by this, our engineers are working hard to fix it.
+
+
