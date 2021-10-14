@@ -14397,3 +14397,44 @@
 > A while ago, we here at TechRaptor reported that Steamforged Games would be returning to tabletop adaptations of the Resident Evil series. Specifically, they would be adapting the terrors of the Spencer Mansion from Resident Evil 1. This raised several questions for me. Zombie games are plentiful. Horror board games investigating a mansion are abundant as well. So what exactly can Steamforged Games bring to a project that, adaptation of source material aside, do to help spice up such well-trodden formula and tropes? The answer was they set us up with a sneak peek of the game and answered my questions directly.
 
 
+***
+![Australia's net zero future with gas](https://content.api.news/v3/images/bin/ee0810528eb958e931f11926a393e001 "Australia's net zero future with gas")
+
+
+[Australia's net zero future with gas](https://www.dailytelegraph.com.au/technology/environment/how-gas-could-play-a-role-in-australias-net-zero-future/news-story/30b7c8cda7022dbff22659751ebc6bc9)
+
+
+> Some say natural gas is ultimately incompatible with net zero – and others say it will be absolutely essential. This is how it will play a role.Natural gas is a huge and growing industry for Australia, with export earnings expected to be $56 billion in 2021-22. Critics point out the emissions from gas are ultimately incompatible with a net zero target, but supporters say the emissions from gas are half those from coal-fired power plants.Natural gas supplies just over a quarter of Australia's total energy, and just over a fifth (21 per cent) of our electricity supply.
+
+
+***
+![Third-Ever Tardigrade Fossil Discovered Hiding in a Hunk of Amber](https://external-preview.redd.it/5Usb2IVfn2A9IR4yqtUVuc1aYuJYwSV-0XmWC0lRKSk.jpg?auto=webp&s=c4664fabfe61bf3e905d27b910e3f9fb56beb8c6 "Third-Ever Tardigrade Fossil Discovered Hiding in a Hunk of Amber")
+
+
+[Third-Ever Tardigrade Fossil Discovered Hiding in a Hunk of Amber](https://www.reddit.com/r/technology/comments/q850x2/thirdever_tardigrade_fossil_discovered_hiding_in/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[An idea for someone who needs a project](https://www.reddit.com/r/Python/comments/q84y7d/an_idea_for_someone_who_needs_a_project_self/)
+
+
+> I don't have the cycles to do this but it has been in my backlog of ideas for a long time.The problem statement: There are a lot of python modules and packages that rely on Requests. Requests is great however, because the OpenSSL implementation used by Python or a venv is not the same as the system OpenSSL implementation you often run into an issue with projects - especially in corporate environments where they've rolled their own internal CA. Even if the machine trusts the CA, Python/Requests throws an error because Python has its own openSSL implementation.
+
+
+***
+[WhatsApp starts rolling out e2e encryption for chat history backups in iCloud and Google Drive (Manish Singh/TechCrunch)](http://www.techmeme.com/211014/p35#a211014p35)
+
+
+> Manish Singh / TechCrunch: WhatsApp starts rolling out e2e encryption for chat history backups in iCloud and Google Drive — WhatsApp is beginning to roll out a new feature that will provide its two billion users the option to encrypt their chat history backup in iCloud or Google Drive, patching a major loophole …
+
+
+***
+[Roblox outlines plans to add more realism to player avatars, introduce new in-game monetization streams, add NFT-like limited edition items, and more (Taylor Hatmaker/TechCrunch)](http://www.techmeme.com/211014/p34#a211014p34)
+
+
+> Taylor Hatmaker / TechCrunch: Roblox outlines plans to add more realism to player avatars, introduce new in-game monetization streams, add NFT-like limited edition items, and more — At its annual developer conference Thursday, Roblox painted a picture of what's next for the fast-growing online multiplayer portal that's like catnip for kids and teens.
+
+
