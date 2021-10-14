@@ -14300,3 +14300,53 @@
 > Evolution Equity Partners is targeting cybersecurity and enterprise software companies for its new Evolution Technology Fund II LP for which it announced Thursday a final closing totaling $400 million. The fund was oversubscribed and included new and returning institutional investors, corporates and family offices from the United States, Europe, Middle East and Asia. Richard Seewald, managing partner at Evolution, said via email that the firm, based in New York City, Palo Alto, London and Zurich has made 12 investments from the new fund so far.
 
 
+***
+![FLPInspect](https://external-preview.redd.it/7bi8tvpeuKp7IjSYWBZSQLW-uoWBiW9yFNcI6RxGE4Q.jpg?auto=webp&s=f9efc32e6256da438c9547138031fa4026cef104 "FLPInspect")
+
+
+[FLPInspect](https://www.reddit.com/r/Python/comments/q80fmt/flpinspect/)
+
+
+> As promised earlier, FLPInspect has been released.FLPInspectA GUI tool to inspect and modify FLP files.GitHubInstall via pippip install flpinspect DocsYou can find screenshots there.
+
+
+***
+![The Worldwide Liquid Crystal Tunable Filter Industry is Expected to Grow at a CAGR of 9.8% Between 2021 to 2029](https://mms.businesswire.com/media/20211014005744/en/916479/23/logo.jpg "The Worldwide Liquid Crystal Tunable Filter Industry is Expected to Grow at a CAGR of 9.8% Between 2021 to 2029")
+
+
+[The Worldwide Liquid Crystal Tunable Filter Industry is Expected to Grow at a CAGR of 9.8% Between 2021 to 2029](https://www.businesswire.com/news/home/20211014005744/en/The-Worldwide-Liquid-Crystal-Tunable-Filter-Industry-is-Expected-to-Grow-at-a-CAGR-of-9.8-Between-2021-to-2029---ResearchAndMarkets.com)
+
+
+> October 14, 2021 09:59 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Liquid Crystal Tunable Filter Market Size, Market Share, Application Analysis, Regional Outlook, Growth Trends, Key Players, Competitive Strategies and Forecasts, 2021 To 2029" report has been added to ResearchAndMarkets.com's offering. The liquid crystal tunable filter market worldwide is expected to grow with a CAGR of 9.8% during the forecast period from 2021 to 2029. Companies Mentioned Channel Systems Inc. Perkinelmer Inc.
+
+
+***
+!['Fake it until you make it': 5G marketing outpaces service reality](https://www.reuters.com/resizer/bhBAGCm1H_45o4Z9V9bGdP4L4zA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AGRKYQLMCBLDJEHG2BBANPGAOE.jpg "'Fake it until you make it': 5G marketing outpaces service reality")
+
+
+['Fake it until you make it': 5G marketing outpaces service reality](https://www.reuters.com/technology/fake-it-until-you-make-it-5g-marketing-outpaces-service-reality-2021-10-14/)
+
+
+> A man walks past an advertisement promoting the 5G data network at a mobile phone store in London, Britain, January 28, 2020. REUTERS/Toby Melville/File PhotoWASHINGTON, Oct 14 (Reuters) - Mobile phone companies advertise high-speed 5G service with U.S. maps splashed with pink or blue to suggest widespread coverage, but the latest generation wireless technology is actually only available less than a third of the time in the best served states, new data shows.5G technology was designed to be faster than the 4G wireless, with so little latency to help make things like driverless cars possible.
+
+
+***
+![MacBook Pro 16-inch (2021) release date, price, news and leaks](https://cdn.mos.cms.futurecdn.net/9tB3Dt8vyoK2okrwBE8MW7-1200-80.jpg "MacBook Pro 16-inch (2021) release date, price, news and leaks")
+
+
+[MacBook Pro 16-inch (2021) release date, price, news and leaks](https://www.techradar.com/news/macbook-pro-16-inch-2021)
+
+
+> Though the MacBook Pro 16-inch (2021) didn't make its long-anticipated debut at WWDC 2021, it is very likely to arrive just around the corner. In fact, leaks and rumors of the next-generation laptop have supported an upcoming launch, with the most recent suggesting a mid-October release date.The release of the MacBook Pro 16-inch 2019 was an exciting addition to Apple's laptop lineup with its larger screen and additional screen real estate, all while keeping the same physical size of the MacBook Pro 15-inch.
+
+
+***
+![Jenne, Inc., Names Shawn Berry as Senior Vice President, Global Cloud Channel Sales](https://mms.businesswire.com/media/20211014005743/en/374849/21/Jenne_LogoReg_rgb.jpg "Jenne, Inc., Names Shawn Berry as Senior Vice President, Global Cloud Channel Sales")
+
+
+[Jenne, Inc., Names Shawn Berry as Senior Vice President, Global Cloud Channel Sales](https://www.businesswire.com/news/home/20211014005743/en/Jenne-Inc.-Names-Shawn-Berry-as-Senior-Vice-President-Global-Cloud-Channel-Sales)
+
+
+> October 14, 2021 09:57 AM Eastern Daylight Time AVON, Ohio--(BUSINESS WIRE)--Jenne, Inc. has named Shawn Berry to its newly created position of senior vice president of global cloud channel sales. In this new role, Berry will oversee field sales, business development, product management and marketing for Jenne's cloud and master agent business. Berry joins Jenne, Inc. from NetFortris, where he served as vice president of sales. While with NetFortris, he was instrumental in creating, building and deploying the company's nationwide channel agent program.
+
+
