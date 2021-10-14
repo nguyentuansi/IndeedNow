@@ -14253,3 +14253,50 @@
 > CONTRIBUTOR ARTICLE To print this article, all you need is to be registered or login on Mondaq.com. House Financial Services Committee discusses consumers' rights to access their personal financial data. The CFPB takes action against an online lender for deceptive marketing. On September 21, 2021, the House Committee of Financial Services Task Force on Financial Technology held a hybrid hearing entitled "Preserving the Right of Consumers to Access Personal Financial Data." The memorandum for the hearing highlighted the ongoing debates over how financial institutions should be allowed to use or share consumer data and how the increased use of consumer financial data by fintech companies and other financial institutions has raised concerns around consumer protection and privacy, and how the laws and regulations currently operate in this space.
 
 
+***
+![Thousands hit by outages across BT, Three network, EE and Virgin](https://static.independent.co.uk/2021/09/09/09/a312604b50c4b70b1e5577cd8ea92832Y29udGVudHNlYXJjaGFwaSwxNjMxMTk5NTU2-2.40098353.jpg?width=1200&auto=webp&quality=75 "Thousands hit by outages across BT, Three network, EE and Virgin")
+
+
+[Thousands hit by outages across BT, Three network, EE and Virgin](https://www.independent.co.uk/life-style/gadgets-and-tech/bt-three-network-ee-virgin-down-latest-b1938342.html)
+
+
+> Three Network users report major outage Joe SommerladThursday 14 October 2021 13:02 commentsA number of UK internet service providers appeared to drop out on Thursday morning, with BT, Three, EE and Virgin among those thought to be affected.Website health monitor DownDetector registered thousands of reports from users complaining of being unable to connect to broadband internet.Three users began to report problems at approximately 5.48am GMT, with more people reporting issues at around 8.00am as the work day began.
+
+
+***
+![[Gadget Battle] Best Gaming Keyboards (2021): Corsair K100 RGB Optical vs Mountain Everest Max vs Razer Cynosa Chroma (Corsair K100 RGB Optical vs Mountain Everest Max vs Razer Cynosa Chroma).](https://en.brinkwire.com/nerede/uploads/2021/10/gadget-battle-best-gaming-keyboards-2021-corsair-k100-rgb-optical-vs-mountain-everest-max-vs-razer-cynosa-chroma.png "[Gadget Battle] Best Gaming Keyboards (2021): Corsair K100 RGB Optical vs Mountain Everest Max vs Razer Cynosa Chroma (Corsair K100 RGB Optical vs Mountain Everest Max vs Razer Cynosa Chroma).")
+
+
+[[Gadget Battle] Best Gaming Keyboards (2021): Corsair K100 RGB Optical vs Mountain Everest Max vs Razer Cynosa Chroma (Corsair K100 RGB Optical vs Mountain Everest Max vs Razer Cynosa Chroma).](https://en.brinkwire.com/technology/gadget-battle-best-gaming-keyboards-2021-corsair-k100-rgb-optical-vs-mountain-everest-max-vs-razer-cynosa-chroma-corsair-k100-rgb-optical-vs-mountain-everest-max-vs-razer-cynosa-chroma/)
+
+
+> [Gadget Battle] Best Gaming Keyboards (2021): Corsair K100 RGB Optical vs Mountain Everest Max vs Razer Cynosa Chroma (Corsair K100 RGB Optical vs Mountain Everest Max vs Razer Cynosa Chroma). Even in 2021, the greatest gaming keyboard must clearly meet the essentials, such as dependability, responsiveness, and a quality build. However, some extra features, such as RGB lighting and other functionality, continue to play a role. Keyboards for gaming in 2021 According to PC Gamer, keyboards have evolved from their early forms as a clumsy PC device as makers learned that gamers and even office workers engage with them more than the mouse.
+
+
+***
+[DOOM Rendered via Checkboxes](https://www.reddit.com/r/programming/comments/q7y8kn/doom_rendered_via_checkboxes/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Newsela breaks into interactive educational video with first acquisition – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-674417631.jpg?w=533 "Newsela breaks into interactive educational video with first acquisition – TechCrunch")
+
+
+[Newsela breaks into interactive educational video with first acquisition – TechCrunch](https://techcrunch.com/2021/10/14/newsela-breaks-into-interactive-video-with-first-acquisition/)
+
+
+> YouTube is the third-most-used website within schools, according to Matthew Gross, CEO and co-founder of Newsela. 'That is incredible, considering how difficult it is to find videos, how unfiltered it is and how inaccessible it is for many students who have different learning abilities and learning levels,' said Gross. 'Video has to evolve.' To that end, Newsela announced today that it has acquired HapYak, an interactive video software business for the enterprise, for an undisclosed amount. This marks Newsela's first acquisition, as the content company has been working more on content partnerships and licensing up until this point.
+
+
+***
+![Evolution Equity Partners closes on $400M for new cybersecurity fund – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1306793460.jpg "Evolution Equity Partners closes on $400M for new cybersecurity fund – TechCrunch")
+
+
+[Evolution Equity Partners closes on $400M for new cybersecurity fund – TechCrunch](https://techcrunch.com/2021/10/14/evolution-equity-partners-closes-on-400m-for-new-cybersecurity-fund/)
+
+
+> Evolution Equity Partners is targeting cybersecurity and enterprise software companies for its new Evolution Technology Fund II LP for which it announced Thursday a final closing totaling $400 million. The fund was oversubscribed and included new and returning institutional investors, corporates and family offices from the United States, Europe, Middle East and Asia. Richard Seewald, managing partner at Evolution, said via email that the firm, based in New York City, Palo Alto, London and Zurich has made 12 investments from the new fund so far.
+
+
