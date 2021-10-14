@@ -14438,3 +14438,53 @@
 > Taylor Hatmaker / TechCrunch: Roblox outlines plans to add more realism to player avatars, introduce new in-game monetization streams, add NFT-like limited edition items, and more — At its annual developer conference Thursday, Roblox painted a picture of what's next for the fast-growing online multiplayer portal that's like catnip for kids and teens.
 
 
+***
+![These are the best cheap Wi-Fi 6 routers you can buy](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/05/tp-link-archer-ax10-desk.jpg "These are the best cheap Wi-Fi 6 routers you can buy")
+
+
+[These are the best cheap Wi-Fi 6 routers you can buy](https://www.androidcentral.com/best-cheap-wi-fi-6-router)
+
+
+> Source: TP-Link Best cheap Wi-Fi 6 routers Android Central 2021 Wi-Fi 6 has become the current standard for WI-Fi devices and routers thanks to most new devices supporting the protocol. Wi-Fi 6 has made its way to the cheaper routers that most people are interested in buying without giving up the best features that come with it. One of the best cheap Wi-Fi 6 routers is the TP-Link Archer AX21, thanks to its solid dual-band speeds and good software offering with app-based setup and OneMesh support.
+
+
+***
+![Do you have these 3D platformers for your Switch?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/switch_yoshiscraftedworld_01.jpg "Do you have these 3D platformers for your Switch?")
+
+
+[Do you have these 3D platformers for your Switch?](https://www.imore.com/best-nintendo-switch-3d-platformers)
+
+
+> Giving 3D some added texture is the adorable game, Yoshi's Crafted World. Play as Yoshi and his friends in a world made of yarn and felt. Use materials found in the world to literally create new friends as you save the world from Kamek and Baby Bowser. Staff Pick This little girl wears many hats. She's an outer space hero taking on many enemies, an explorer searching for timepieces to get her ship off this planet, and she actually has a lot of hats. Each new hat she makes gives her new powers to help her on her adventure! Take on a variety of humorous physics challenges in cool environments.
+
+
+***
+![28 best self-care gifts that everyone could use this year](https://www.gannett-cdn.com/presto/2021/10/14/USAT/536ad5c6-08dd-4078-be2b-56d8524eec34-selfcaregifts.jpg?auto=webp&crop=1899,1069,x0,y3&format=pjpg&width=1200 "28 best self-care gifts that everyone could use this year")
+
+
+[28 best self-care gifts that everyone could use this year](https://www.usatoday.com/story/tech/reviewedcom/2020/11/25/25-relaxing-self-care-gifts-everyone-could-use-year/6424181002/)
+
+
+> — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.The experts at Reviewed curate the best gift guides for everyone in your life, including those of us who are stressed out or who just need a little "me" time (which is, well, everyone in your life). The fact is, most of us don't make enough time for self-care, but we all need some pampering now and then.Tackle your holiday shopping early with deals and expert advice delivered straight to your phone.
+
+
+***
+![Preferential Attachment and the Barabási-Albert model](https://external-preview.redd.it/HCM--0VK9vYfdoc6KOECyhL4rDD4WmOmq0pLyeGBhSk.jpg?auto=webp&s=b3e9640451bda6d801564d7506b339d0515ec3ff "Preferential Attachment and the Barabási-Albert model")
+
+
+[Preferential Attachment and the Barabási-Albert model](https://www.reddit.com/r/Python/comments/q87dru/preferential_attachment_and_the_barabásialbert/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Critical Role Confirms a Video Game Is Coming](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Critical%20Role%20Crew%20Group%20Image_0.jpg?itok=JR3UZb87 "Critical Role Confirms a Video Game Is Coming")
+
+
+[Critical Role Confirms a Video Game Is Coming](https://techraptor.net/tabletop/news/critical-role-confirms-video-game-is-coming)
+
+
+> Chances are if you're familiar at all with tabletop gaming, you have heard of Critical Role. For many, it was their introduction to Dungeons and Dragons and to tabletop RPGs. But now, it seems that the team at Critical Role will be expanding their fantasy series beyond to other mediums, including video games. This foray into video games was mentioned in an extensive article on Variety. One of Critical Role's agents, Matthew Cohen, has been in talks with publishers and studios about producing a video game based on the series' setting of Exandria.
+
+
