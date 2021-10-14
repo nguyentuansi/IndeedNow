@@ -13965,3 +13965,53 @@
 > One of the most vocal bulls of Dogecoin (CRYPTO: DOGE) in 2021 has been Mark Cuban. The Dallas Mavericks began accepting Dogecoin as a form of payment for tickets and merch earlier this year, but DOGE might not be Cuban's favorite cryptocurrency anymore. What Happened: Cuban chose two cryptocurrencies as his favorite investments in the space. 'As an investment, I think Ethereum has the most upside,' Cuban told CNBC. He has been bullish on Ethereum (CRYPTO: ETH) in many conversations throughout 2021.
 
 
+***
+![‘You ignored her and now he's dead': TikToker says cop didn't let her help a motorcycle crash victim](https://uploads.dailydot.com/2021/10/Cop-Stops-Civilian-From-Saving-Life-copy.jpg?auto=compress%2Cformat&ixlib=php-3.3.0 "‘You ignored her and now he's dead': TikToker says cop didn't let her help a motorcycle crash victim")
+
+
+[‘You ignored her and now he's dead': TikToker says cop didn't let her help a motorcycle crash victim](https://www.dailydot.com/irl/tiktok-cop-motorcycle-crash-victim/)
+
+
+> A TikTok of a couple confronting a Chicago police officer has gone viral with over 418,000 views and 50,000 likes since being posted one week ago. In the video, the woman and her boyfriend allege that the officer prevented them from saving a crash victim's life.  The video, posted by @siabanana, shows a woman off-screen handing a male officer her ID while he writes in a small notebook. There is text on-screen for the duration of the 37-second video that describes the incident. According to the text, the TikToker witnessed a collision between a Jeep and a motorcycle on May 17 and was the first person on the scene.
+
+
+***
+![Govt's ransomware action plan gets a lukewarm welcome](https://itwire.com/media/k2/items/cache/99512db22f0b0b77ffb3710398f17fa6_XS.jpg "Govt's ransomware action plan gets a lukewarm welcome")
+
+
+[Govt's ransomware action plan gets a lukewarm welcome](https://itwire.com/security/govt-s-ransomware-action-plan-gets-a-lukewarm-welcome.html)
+
+
+> Pixabay The Federal Government's Ransomware Action Plan has received a lukewarm welcome from security professionals, with one calling for an increased focus on prevention and adoption of advanced cyber security measures. H. Daniel Elbaum, chairman and joint chief executive of VeroGuard, said: "Whilst the recognition of the cyber security problem in the plan is welcome, an immediate increased focus on preventing the crimes is needed and adoption of enhanced cyber security referred to by the World Economic Forum embraced.
+
+
+***
+![Block parking and parking in school zones... 'Non-tolerance response' three times the fine on general roads](https://img.sbs.co.kr/newimg/news/20211014/201600135_1280.jpg "Block parking and parking in school zones... 'Non-tolerance response' three times the fine on general roads")
+
+
+[Block parking and parking in school zones... 'Non-tolerance response' three times the fine on general roads](https://www.tellerreport.com/tech/2021-10-14-block-parking-and-parking-in-school-zones-----non-tolerance-response--three-times-the-fine-on-general-roads.rk-VDHlSBF.html)
+
+
+> Starting from the 21st, parking and stopping of vehicles on all roads within the child protection zone in downtown Seoul will be completely prohibited. This is in accordance with the Road Traffic Act amended in May, and the Seoul Metropolitan Government said that even if there is no solid yellow line along the road, parking in a children's protection area is illegal and subject to enforcement. Starting from the 21st, parking and stopping of vehicles on all roads within the child protection zone in downtown Seoul will be completely prohibited.
+
+
+***
+![Viewers of Freesat have accessed a new FREE channel that is recognizable to those who have watched Freeview or Sky. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/freesat-new-channel-update-thats-tv-gold-vs-freeview-1504918.jpg "Viewers of Freesat have accessed a new FREE channel that is recognizable to those who have watched Freeview or Sky. » Brinkwire")
+
+
+[Viewers of Freesat have accessed a new FREE channel that is recognizable to those who have watched Freeview or Sky. » Brinkwire](https://en.brinkwire.com/technology/viewers-of-freesat-have-accessed-a-new-free-channel-that-is-recognizable-to-those-who-have-watched-freeview-or-sky/)
+
+
+> When Freesat and Freeview completed their merger earlier this year, the free-to-watch telly platforms said that becoming a single company would allow them to share technologies and knowledge. However, the first item shared between the two platforms is actually a channel. That's TV Gold, which is already available to Freeview users on Channel 91, is now coming to Freesat. As the name suggests, this channel is dedicated to bringing entertainment, music and films that you thought had been lost in dusty archives.
+
+
+***
+![Pocketnow Daily: Apple's UNLEASHED Event LEAKED? Google Pixel 6 Extra Leaks & more! (video)](https://pocketnow.com/wp/../files/2021/10/Apple-Unleashed-2021-October-18-event-featured-641x427.jpg "Pocketnow Daily: Apple's UNLEASHED Event LEAKED? Google Pixel 6 Extra Leaks & more! (video)")
+
+
+[Pocketnow Daily: Apple's UNLEASHED Event LEAKED? Google Pixel 6 Extra Leaks & more! (video)](https://pocketnow.com/pocketnow-daily-apples-unleashed-event-leaked-google-pixel-6-extra-leaks-more-video)
+
+
+> On today's Pocketnow Daily, we talk about the official date of Apple's new Unleashed event, Pixel 6 leaks, and more. The post Pocketnow Daily: Apple’s UNLEASHED Event LEAKED? Google Pixel 6 Extra Leaks & more! (video) appeared first on Pocketnow.
+
+
