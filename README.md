@@ -14488,3 +14488,53 @@
 > Chances are if you're familiar at all with tabletop gaming, you have heard of Critical Role. For many, it was their introduction to Dungeons and Dragons and to tabletop RPGs. But now, it seems that the team at Critical Role will be expanding their fantasy series beyond to other mediums, including video games. This foray into video games was mentioned in an extensive article on Variety. One of Critical Role's agents, Matthew Cohen, has been in talks with publishers and studios about producing a video game based on the series' setting of Exandria.
 
 
+***
+![Tornado rips through Armidale as supercell storms linger over Qld and Northern NSW](https://images.perthnow.com.au/publication/C-4242063/67a2f3fed25eb7a97eab5a59b82f0522c3c96409-16x9-x0y64w680h383.jpg?imwidth=1200 "Tornado rips through Armidale as supercell storms linger over Qld and Northern NSW")
+
+
+[Tornado rips through Armidale as supercell storms linger over Qld and Northern NSW](https://www.news.com.au/technology/environment/tornado-rips-through-armidale-as-supercell-storms-linger-over-qld-and-northern-nsw/news-story/3229141e5c8cd4827bc6d5d515b8f12f)
+
+
+> Shaken Armidale residents are in clean-up mode after a tornado ripped through town late on Thursday night, flipping a car, knocking down power poles, and tearing roofs of homes.People were trapped in their homes as the tornado hit the northern NSW community around 11pm, with extensive damage believed to have occurred throughout the region, causing widespread power outages.Police and State Emergency Service had responded to more than 120 calls for assistance in the town, with more expected as residents wake up to the damage on Friday.
+
+
+***
+!["Aeon Must Die!" stirs up controversy amid release](https://images.axios.com/UxXbGBvUhz7GMpypLm25V5ywcCk=/0x0:1920x1080/1366x768/2021/10/14/1634244237817.jpg ""Aeon Must Die!" stirs up controversy amid release")
+
+
+["Aeon Must Die!" stirs up controversy amid release](https://www.axios.com/aeon-must-die-games-controversy-developers-97ca95c3-f180-4e0a-83fb-ce25ced5b9c9.html)
+
+
+> Beat 'em up "Aeon Must Die!"'s release on Thursday stirred up controversy around accusations from former employees that the game was created under toxic work conditions and ultimately stolen from its creators.Driving the news: Former Limestone Games developers, now working under a new studio called Mishura Games, published a lengthy statement calling on Limestone and publisher Focus Entertainment to "complete their legal responsibilities."Mishura has also requested that Focus release its alleged investigation results, as well as proof of pay for some developers' work.
+
+
+***
+![Pre-Black Friday deals at Office Depot right now: Asus VivoBook for $500](https://www.cnet.com/a/img/vLo7ntC0kbO0a0GMvjH24b9tKu4=/1200x630/2021/10/14/b2460e73-9238-4c15-9d53-a8990f907807/asusvivobook15-office-depot.jpg "Pre-Black Friday deals at Office Depot right now: Asus VivoBook for $500")
+
+
+[Pre-Black Friday deals at Office Depot right now: Asus VivoBook for $500](https://www.cnet.com/tech/computing/pre-black-friday-deals-at-office-depot-right-now-asus-vivobook-for-500/)
+
+
+> Black Friday is still weeks away, but that doesn't mean that retailers like Office Depot aren't trying to get a head start. With the current shortages caused by supply chain issues, it may not be a bad idea to do your holiday shopping a bit earlier. We've scoped out some of the best deals this week at Office Depot, like this Windows 11-ready 15-inch Asus VivoBook with an Intel Core i5, 16GB Memory and a 256GB SSD for only $500. This offer is only good until Friday, Oct. 16, or while supplies last.
+
+
+***
+![Apple extends its AirPods Pro service program for sound issues to 3 years](https://www.cnet.com/a/img/fHxEXQMH8gjjTboQhfyJFpv4y50=/1200x630/2020/10/31/b592b61f-dcc0-4813-8c88-6506bcbcc913/airpods-pro.jpg "Apple extends its AirPods Pro service program for sound issues to 3 years")
+
+
+[Apple extends its AirPods Pro service program for sound issues to 3 years](https://www.cnet.com/tech/mobile/apple-extends-its-airpods-pro-service-program-for-sound-issues-to-3-years/)
+
+
+> Óscar Gutiérrez/CNET Apple appears to have quietly extended its service program for addressing AirPods Pro sound issues from two years to three years after initial purchase. MacRumors reported the extension Thursday after users on Reddit noticed the change. Apple rolled out the service program last October after some customers experienced crackling or static sounds on their devices, as well as issues with active noise cancellation. Apple's support page says "Apple or an Apple Authorized Service Provider will service the affected AirPods Pro (left, right or both), free of charge.
+
+
+***
+![Virgin Galactic pushes back next test flight as it makes ‘enhancements' to its spaceplane](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N4IAP2RBOUI6ZKGZBAT2FJFZCU.jpg&w=1440 "Virgin Galactic pushes back next test flight as it makes ‘enhancements' to its spaceplane")
+
+
+[Virgin Galactic pushes back next test flight as it makes ‘enhancements' to its spaceplane](https://www.washingtonpost.com/technology/2021/10/14/richard-branson-virgin-galactic-safety/)
+
+
+> Three months after Richard Branson reached the edge of space, Virgin Galactic, his space tourism company, is postponing its next test flight to make what it calls enhancements to its spaceplane that would make it safer over the long-term, the company announced Thursday.Get the full experience.Choose your planThe decision means that a test flight scheduled for this month, which was to have flown members of the Italian Air Force and National Research Council, will be delayed until the second half of next year, and commercial service wouldn't begin until the fourth quarter of thatyear, the company said.
+
+
