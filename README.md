@@ -14109,3 +14109,50 @@
 > Bloomberg: GitLab raises $801M after pricing its IPO at $77 per share, above its marketed range of $66 to $69, giving it a market valuation of $11B — - Shares priced above the marketed range at $77 apiece — Co-founder, CEO Sijbrandij sells stake worth $152 million
 
 
+***
+[I want to make an artificial intelligence that recognizes a clown fish](https://www.reddit.com/r/Python/comments/q7tixa/i_want_to_make_an_artificial_intelligence_that/)
+
+
+> I saw in my computer science class on artificial intelligence that the sklearn module allows access to the fetch_openml database.from sklearn . datasets import fetch_openml 2 X , y = fetch_openml ('Fashion - MNIST ', version =1 , return_X_y = True )I am wondering if he doesnt have a database to work on fish images. I want my AI to learn to tell the difference between a clownfish and any fish.
+
+
+***
+![Taiwan's TSMC posts 13.8% rise in Q3 profit on global chip demand surge](https://www.reuters.com/resizer/Qioi4JIuYJApO8dSdKNOE8n8mlY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3KSVYJJLDJNALIPXO7U7MZNKFQ.jpg "Taiwan's TSMC posts 13.8% rise in Q3 profit on global chip demand surge")
+
+
+[Taiwan's TSMC posts 13.8% rise in Q3 profit on global chip demand surge](https://www.reuters.com/technology/taiwans-tsmc-posts-138-rise-q3-profit-global-chip-demand-surge-2021-10-14/)
+
+
+> The logo of Taiwan Semiconductor Manufacturing Co (TSMC) is pictured at its headquarters in Hsinchu, Taiwan, January 19, 2021. REUTERS/Ann Wang/File Photo GLOBAL BUSINESS WEEK AHEADTAIPEI, Oct 14 (Reuters) - Taiwan chip giant TSMC (2330.TW) posted a 13.8% jump in third quarter profit on Thursday on the back of booming demand for semiconductors to power smartphones and other gadgets during the COVID-19 pandemic amid a supply crunch.July-September net profit for TSMC, the world's largest contract chipmaker and a key supplier to Apple Inc (AAPL.
+
+
+***
+![Prince William: Saving Earth should come before space tourism](https://external-preview.redd.it/PaiU8pmLEsSH1gLtxQ1SHYNj25PQmlwNvdx4aGwsGMA.jpg?auto=webp&s=211a3c27f90c9b84831eab460eab933489e0a7ab "Prince William: Saving Earth should come before space tourism")
+
+
+[Prince William: Saving Earth should come before space tourism](https://www.reddit.com/r/technology/comments/q7tg4s/prince_william_saving_earth_should_come_before/)
+
+
+> What if some discovery on Mars is the key? History is full of seemingly unconnected things leading to important breakthroughs.
+
+
+***
+![The Best Smartphones You Can Buy Under Rs. 10,000](https://i.gadgets360cdn.com/large/best_phones_under_10000_2021_India_COVER_1632474577482.jpg "The Best Smartphones You Can Buy Under Rs. 10,000")
+
+
+[The Best Smartphones You Can Buy Under Rs. 10,000](https://gadgets.ndtv.com/mobiles/guide/best-phone-under-10000-2399692)
+
+
+> There hasn't been much of a change in our sub-Rs. 10,000 list since last month. Motorola's new Moto E40 falls in this segment but we have yet to test it to see if it's good enough to make our list. It's always challenging to recommend a good smartphone in the sub-Rs. 10,000 segment since manufacturers often have to sacrifice a great deal in order to price their phones this low. However, the Micromax In 2b is one of the very few recent launches that manages to strike a good balance between performance, design, and price.
+
+
+***
+![Microsoft tech contracts with the US police force to be reviewed for human rights violations](https://image-prod.iol.co.za/resize/650x366/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/f7ea2983-d554-5196-a861-c72f939280ab&operation=CROP&offset=0x221&resize=3000x1688 "Microsoft tech contracts with the US police force to be reviewed for human rights violations")
+
+
+[Microsoft tech contracts with the US police force to be reviewed for human rights violations](https://www.iol.co.za/technology/microsoft-tech-contracts-with-the-us-police-force-to-be-reviewed-for-human-rights-violations-cda496fa-06ef-4b1f-b1b1-9b9ba87bad28)
+
+
+> Share this article:MICROSOFT, which has faced pressure from employees and shareholders over contracts with governments and law enforcement agencies, agreed to commission an independent human rights review of some of those deals.The move came in response to a June filing of a shareholder proposal asking the company to evaluate how well it sticks to its human rights statement and related policies. Microsoft committed to a review of any human rights impacts that its products have on those including communities of black, indigenous and people of colour in contracts for police, immigration enforcement and unspecified other government agencies, according to correspondence from the company viewed by Bloomberg.
+
+
