@@ -14829,3 +14829,53 @@
 > Launched just 18 months ago, HBO Max already has over 60 million subscribers. And it might very soon be giving Netflix a run for its money given the introduction of its cheaper $9.99 HBO Max price plan. The Warner Media platform offers subscribers 13,000 hours of content, which includes acclaimed HBO shows, Max Originals, classic Warner Brothers movies, films from the DC Comics universe and heaps more.  HBO Max price: head straight to HBO Max to sign up to one of its plans For one dollar more than Netflix's entry-level plan, the competitive HBO Max price offers hundreds of thrilling titles from studios like New Line Cinema, Turner Classic Movies, Crunchy Roll and Studio Ghibli – all in HD quality and enabling 3 simultaneous streams per account.
 
 
+***
+![What happened to Tom from MySpace? After retiring at the age of 38, the social media pioneer has a new lease on life. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/0_screen-shot-2021-01-14-at-1444main.jpg "What happened to Tom from MySpace? After retiring at the age of 38, the social media pioneer has a new lease on life. » Brinkwire")
+
+
+[What happened to Tom from MySpace? After retiring at the age of 38, the social media pioneer has a new lease on life. » Brinkwire](https://en.brinkwire.com/technology/what-happened-to-tom-from-myspace-after-retiring-at-the-age-of-38-the-social-media-pioneer-has-a-new-lease-on-life/)
+
+
+> Before Facebook took over the planet, there was Myspace, where everyone had one friend in common. After retiring at 38, where is our ‘first friend' Myspace Tom today? Before social media began to dominate our lives with ads and algorithms, the Internet was a simpler place. When Facebook, Instagram, and WhatsApp went down earlier this week, thousands of people took to Twitter calling for the return of sites like Myspace. Once the most popular social media platform in the world, Myspace allowed users to customise their own profile pages, add and interact with their friends, and RSVP to events and concerts.
+
+
+***
+![Continuum unveils its on-demand access marketplace for top-tier executive talent – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/IMG_0676.jpeg?w=711 "Continuum unveils its on-demand access marketplace for top-tier executive talent – TechCrunch")
+
+
+[Continuum unveils its on-demand access marketplace for top-tier executive talent – TechCrunch](https://techcrunch.com/2021/10/15/continuum-unveils-its-on-demand-access-marketplace-for-top-tier-executive-talent/)
+
+
+> It's difficult for startups on a small budget to attract executives with the knowledge base to propel them forward, but Continuum, a talent marketplace for fractional employees, doesn't think it should be. The remote-first company, which launched today, has been quietly developing a tool that matches venture-backed companies with executives who have been-there-done-that, but don't want to be tied down again by a full-time position. Continuum was founded in 2020 by Nolan Church, former Carta chief people officer and DoorDash head of talent; Greg White, former Carta head of DevOps and security engineering; and Mary Nelson, former Voxer head of product and design.
+
+
+***
+![India 6th most affected country by ransomware, says Google](https://bsmedia.business-standard.com/_media/bs/img/article/2017-11/02/full/1509646857-1926.jpg "India 6th most affected country by ransomware, says Google")
+
+
+[India 6th most affected country by ransomware, says Google](https://www.business-standard.com/article/technology/india-6th-most-affected-country-by-ransomware-says-google-121101500738_1.html)
+
+
+> A Google report that analysed more than 80 million ransomware samples submitted over the last year and a half has revealed that India is at the sixth place in the list of 140 countries most affected by ransomware. Israel was far and away an outlier, with the highest number of submissions and nearly a 600 per cent increase in the number of submissions compared to its baseline. It was followed by South Korea, Vietnam, China, Singapore, India, Kazakhstan, Philippines, Iran, and the UK as the most affected top 10 territories, based on the number of submissions to VirusTotal.
+
+
+***
+![Global Industrial Augmented Reality (AR) Market to Witness a Massive 45% CAGR During 2021-2026](https://mms.businesswire.com/media/20211015005322/en/916828/23/logo.jpg "Global Industrial Augmented Reality (AR) Market to Witness a Massive 45% CAGR During 2021-2026")
+
+
+[Global Industrial Augmented Reality (AR) Market to Witness a Massive 45% CAGR During 2021-2026](https://www.businesswire.com/news/home/20211015005322/en/Global-Industrial-Augmented-Reality-AR-Market-to-Witness-a-Massive-45-CAGR-During-2021-2026---Surging-Demand-for-Reducing-Workflow-Complexity-Enhancing-Work-Optimization---ResearchAndMarkets.com)
+
+
+> October 15, 2021 07:58 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Global Industrial Augmented Reality Market Research Report: Forecast (2021-2026)" report has been added to ResearchAndMarkets.com's offering. According to the report, the market is likely to grow at a CAGR of around 45% during 2021-2026, due to factors like the surging demand for reducing workflow complexity & enhancing work optimization entwined with the growing need for a technology to track, identify, and resolve technical issues.
+
+
+***
+![United States AI in Diagnostics Market Research Report 2021](https://mms.businesswire.com/media/20211015005321/en/916816/23/logo.jpg "United States AI in Diagnostics Market Research Report 2021")
+
+
+[United States AI in Diagnostics Market Research Report 2021](https://www.businesswire.com/news/home/20211015005321/en/United-States-AI-in-Diagnostics-Market-Research-Report-2021---ResearchAndMarkets.com)
+
+
+> October 15, 2021 07:54 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "United States AI in Diagnostics Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States AI in diagnostics market is a customer intelligence and competitive study of the United States market. Moreover, the report provides deep insights into demand forecasts, market trends, and, micro and macro indicators in the United States market.
+
+
