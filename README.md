@@ -14729,3 +14729,53 @@
 > SEOUL, South Korea — (AP) — South Korean police have arrested four people for allegedly installing hidden cameras in the rooms of an entire motel and attempting to extort money from the hundreds of guests who were filmed.The suspects filmed for months and tried to blackmail some guests with threats to release their videos but their extortion attempts failed to obtain any money, said Seo Sang-hyeok, an official from the cyber-crime unit of Seoul Metropolitan Police.Seo didn't provide details on how the suspects installed the cameras at the motel in Yangpyeong, near the capital Seoul.
 
 
+***
+![Sadiq Khan says he's 'happy' about the new £27.50 per day auto tax. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/sadiq-khan-london-ulez-changes-1506107.jpg "Sadiq Khan says he's 'happy' about the new £27.50 per day auto tax. » Brinkwire")
+
+
+[Sadiq Khan says he's 'happy' about the new £27.50 per day auto tax. » Brinkwire](https://en.brinkwire.com/technology/sadiq-khan-says-hes-happy-about-the-new-27-50-per-day-auto-tax/)
+
+
+> Sadiq Khan said the new expanded Ultra Low Emissions Zone which launches from October 25 will bring 'health benefits' to millions living in London. He said at least six in 10 households in the expanded zone do not own a car but still 'suffer' as a result of pollution. The changes will see private petrol and diesel cars charged £12.50 per day to use the roads on top of the Congestion Charge. This is priced at £15 per day meaning the total fee will rise to £27.50 within weeks. Speaking at Mayor's Question Time, he said the impact on the city's air quality would be 'rapid'.
+
+
+***
+![Crysis Remastered Trilogy Review](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Crysis%20gameplay%201.jpg?itok=SoCJ0Cl8 "Crysis Remastered Trilogy Review")
+
+
+[Crysis Remastered Trilogy Review](https://techraptor.net/gaming/reviews/crysis-remastered-trilogy-review)
+
+
+> No longer the bastion of PC gaming; the heavyweight that brought consumer hardware to its knees with its kitchen-sink approach to rendering, spawning the veritable "but can it run Crysis?" meme: Crysis isn't in the public consciousness like it used to be. Eleven years after Crytek transitioned to multiplatform development, audiences are treated to the Crysis Remastered Trilogy. Your association with the quality of this remastered package depends on whether you come from a console or PC gaming background; even more so than most other AAA titles.
+
+
+***
+![Nvidia Drivers No Longer Support Windows 7, 8, 8.1, and Kepler GPUs: Affected Models, Security Update Availability, and More. Nvidia Drivers No Longer Support Windows 7, 8, 8.1, and Kepler GPUs: Affected Models, Security Update Availability, and More.](https://en.brinkwire.com/nerede/uploads/2021/10/nvidia-drivers-no-longer-support-windows-7-8-8-1-and-kepler-gpus-affected-models-security-update-availability-and-more.jpg "Nvidia Drivers No Longer Support Windows 7, 8, 8.1, and Kepler GPUs: Affected Models, Security Update Availability, and More. Nvidia Drivers No Longer Support Windows 7, 8, 8.1, and Kepler GPUs: Affected Models, Security Update Availability, and More.")
+
+
+[Nvidia Drivers No Longer Support Windows 7, 8, 8.1, and Kepler GPUs: Affected Models, Security Update Availability, and More. Nvidia Drivers No Longer Support Windows 7, 8, 8.1, and Kepler GPUs: Affected Models, Security Update Availability, and More.](https://en.brinkwire.com/technology/nvidia-drivers-no-longer-support-windows-7-8-8-1-and-kepler-gpus-affected-models-security-update-availability-and-more-nvidia-drivers-no-longer-support-windows-7-8-8-1-and-kepler-gpus-affec/)
+
+
+> Nvidia recently warned consumers that its drivers could be pulled out from GeForce GTX 600 and 700 models. Now, the giant American multinational tech firm confirmed that its latest driver no longer supports Windows 8.1, Windows 8, and Windows 7. Brinkwire News:  D-Wave Plans to Venture Into Quantum Computing Realm Gate-Based Systems | Problems with QUBO?  Aside from this, the giant computer component creator also announced that the newest Game Ready driver is not available in Kepler GPUs. This would certainly disappoint many consumers since the latest Nvidia driver brings optimized support for many popular games.
+
+
+***
+![Shares in French tech champion OVHcloud gain 6% in Paris debut](https://www.reuters.com/resizer/V47JSZKCpqj7I6bQajH0BZwHrT0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WRVIZPV46BJPFGQ2MKL25MGIIU.jpg "Shares in French tech champion OVHcloud gain 6% in Paris debut")
+
+
+[Shares in French tech champion OVHcloud gain 6% in Paris debut](https://www.reuters.com/technology/shares-french-computing-firm-ovhcloud-gain-nearly-3-paris-debut-2021-10-15/)
+
+
+> The logo of French cloud computing company OVHcloud is seen on a data-center building in Strasbourg, France, October 13, 2021. REUTERS/Christian HartmannPARIS, Oct 15 (Reuters) - Shares in French cloud computing company OVHcloud (OVH.PA) climbed around 6% on their first day of trading on Friday, after a brief wobble, in one of Paris' biggest new listings this year.The shares were up at around 19.70 euros at 0739 GMT, after dipping just below the offer price in early trading.OVHcloud had on Thursday set its IPO price at 18.
+
+
+***
+![Aloha point of sale (POS) system review](https://cdn.mos.cms.futurecdn.net/A9s4VXqBDfXHY7hU7JunLn-1200-80.png "Aloha point of sale (POS) system review")
+
+
+[Aloha point of sale (POS) system review](https://www.techradar.com/reviews/aloha-point-of-sale-pos-system-review)
+
+
+> One happy Cliffside Malibu Business Manager titled his Aloha POS system user review, "Say Hello to Aloha POS, the Point of Sale System You'll Never Say Goodbye To." With logos on its rolodex from the likes of Wendy's and Benihana to BrewDog, Nando's and Gaucho, it's clear to see why. Aloha POS has aligned itself with household restaurant industry names  from the outset. Aloha POS aims to be the number one restaurant POS platform, empowering its customers to take orders, process payments, compile reports and manage a whole lot of information about their business operations at speed.
+
+
