@@ -14929,3 +14929,53 @@
 > October 15, 2021 09:45 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Global Revenue Cycle Management Market Size, Share & Trends Analysis Report by Product (Software, Service), by Type (Integrated, Standalone), by Delivery Mode, by End-use, by Region, and Segment Forecasts, 2021-2028" report has been added to ResearchAndMarkets.com's offering. The global revenue cycle management market size is projected to reach USD 633.6 billion by 2028. This market is expected to expand at a CAGR of 11.
 
 
+***
+![Apple Watch 7's bigger screen: just how does it compare to older Apple Watches?](https://cdn.mos.cms.futurecdn.net/oPipf7sosqkS5nsQMyxpZZ-1200-80.jpg "Apple Watch 7's bigger screen: just how does it compare to older Apple Watches?")
+
+
+[Apple Watch 7's bigger screen: just how does it compare to older Apple Watches?](https://www.techradar.com/news/apple-watch-7s-bigger-screen-just-how-does-it-compare-to-older-apple-watches)
+
+
+> (Image credit: TechRadar) One of the headline upgrades on the Apple Watch 7 is its larger screen, which is roughly 20% bigger than on the Apple Watch 6. That's achieved through a slightly larger body (41mm or 45mm compared to 40mm or 44mm) coupled with much smaller bezels of just 1.7mm.So although the Apple Watch 7 is larger on your wrist than the equivalent Apple Watch 6, we found in our Apple Watch 7 review that the difference is negligible, while the screen itself is quite a lot bigger here.
+
+
+***
+![WhatsApp to bring in encryption for backup chats after privacy concerns](https://i.guim.co.uk/img/media/65b67935831ff4dcfc35b132c1df514ea0b6fb64/0_180_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ebe8d650c9a870685e598666e593ab1 "WhatsApp to bring in encryption for backup chats after privacy concerns")
+
+
+[WhatsApp to bring in encryption for backup chats after privacy concerns](https://www.theguardian.com/technology/2021/oct/15/whatsapp-to-bring-in-encryption-for-backup-chats-after-privacy-concerns)
+
+
+> WhatsApp is allowing users to encrypt their backed-up chats, making them unreadable without access to a password or 64-digit encryption key.Facebook, the messaging app's owner, said from Thursday some users would be able to fully encrypt messages stored on Google Drive or Apple's iCloud. The company said it would be introducing the feature slowly to people with the latest version of WhatsApp.It comes against a backdrop of concern about the safety of backed-up messages. In May, WhatsApp sued the Indian government over new IT laws that include putting messages into a traceable database.
+
+
+***
+![WhatsApp to bring in encryption for backup chats after privacy fears](https://i.guim.co.uk/img/media/65b67935831ff4dcfc35b132c1df514ea0b6fb64/0_180_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=4caea8286b6fb3677c337ccf1dd40003 "WhatsApp to bring in encryption for backup chats after privacy fears")
+
+
+[WhatsApp to bring in encryption for backup chats after privacy fears](https://www.theguardian.com/technology/2021/oct/15/whatsapp-to-bring-in-encryption-for-backup-chats-after-privacy-concerns)
+
+
+> WhatsApp is allowing users to encrypt their backed-up chats, making them unreadable without access to a password or 64-digit encryption key.Facebook, the messaging app's owner, said from Thursday some users would be able to fully encrypt messages stored on Google Drive or Apple's iCloud. The company said it would be introducing the feature slowly to people with the latest version of WhatsApp.The move comes against a backdrop of concern about the safety of backed-up messages. In May, WhatsApp sued the Indian government over new IT laws that include putting messages into a traceable database.
+
+
+***
+![Shotwood Is A New Target-Based FPS For Oculus Quest And Rift](https://uploadvr.com/wp-content/uploads/2021/10/Shotwood-325x183.jpg "Shotwood Is A New Target-Based FPS For Oculus Quest And Rift")
+
+
+[Shotwood Is A New Target-Based FPS For Oculus Quest And Rift](https://uploadvr.com/shotwood-oculus-quest/)
+
+
+> Shotwood is a new target-based shooter heading to Quest and Rift very soon.
+
+
+***
+![Should you buy the Samsung Galaxy Watch 4 Classic or Apple Watch Series 7?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/08/samsung-galaxy-watch-4-review-26.jpg "Should you buy the Samsung Galaxy Watch 4 Classic or Apple Watch Series 7?")
+
+
+[Should you buy the Samsung Galaxy Watch 4 Classic or Apple Watch Series 7?](https://www.androidcentral.com/samsung-galaxy-watch-4-classic-vs-apple-watch-series-7)
+
+
+> The Samsung Galaxy Watch 4 Classic is one of the best Android smartwatches you can buy right now for many reasons. Not only is it classy, but it's packed with useful features. It's the first Wear OS 3 watch, too. You'll enjoy smooth performance, advanced health sensors, and more. From $295 at Samsung Built-in GPS Optional LTE Advanced health sensors New Wear OS 3 platform Improved performance Lacks fast charging No iOS compatibility While the Apple Watch Series 7 isn't a huge departure from its predecessor, users might appreciate some subtle improvements.
+
+
