@@ -14632,3 +14632,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+[Apple Watch S7 開箱，小升級但大螢幕好處多多](https://technews.tw/2021/10/15/apple-watch-s7-unbox/)
+
+
+> 蘋果的新智慧錶款 Apple Watch S7 終於在今日開賣。雖然這次 Apple Watch S7 亮相後 […]
+
+
+***
+![Alienware's redesigned Aurora gaming PC celebrates 25 years of play](https://www.cnet.com/a/img/E3dXRpErYIMj5G2hkvcTJVxwyV0=/0x0:5262x2960/1200x630/2021/10/14/e409effc-6189-4ac4-a3f4-23f6bb3214c0/new-alienware-aurora-with-legend-2-0-clear-side-panel-4.png "Alienware's redesigned Aurora gaming PC celebrates 25 years of play")
+
+
+[Alienware's redesigned Aurora gaming PC celebrates 25 years of play](https://www.cnet.com/tech/gaming/alienwares-redesigned-aurora-gaming-pc-celebrates-25-years-of-play/)
+
+
+> It seems like only yesterday that Alienware hit the 20-year mark in the PC gaming business, but now it's moved on to a full quarter of a century. To celebrate the profitable passage of time, the Dell-owned gaming brand has launched an updated version of its sole remaining Alienware desktop PC, the Alienware Aurora (if you're counting, it's probably considered the R13). The new model retains the same blobby design aesthetic -- usually referred to as "organic" -- while still managing an almost complete overhaul inside and out.
+
+
+***
+![NFT Marketplace on Ethereum with Polygon and Next.js](https://external-preview.redd.it/UOz1TZaTE0cPZQOVkm3PcUUo1tfUu2z2xqQaJ5VoxeU.jpg?auto=webp&s=95d8fb3d58f91b176c35bd82ae9c0f368fa38cb9 "NFT Marketplace on Ethereum with Polygon and Next.js")
+
+
+[NFT Marketplace on Ethereum with Polygon and Next.js](https://www.reddit.com/r/programming/comments/q8fwzf/nft_marketplace_on_ethereum_with_polygon_and/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Nokia XR20 pre-booking starts October 20 with free earbuds offer ahead of Diwali launch](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/nokia_xr20_15102021-original.jpeg "Nokia XR20 pre-booking starts October 20 with free earbuds offer ahead of Diwali launch")
+
+
+[Nokia XR20 pre-booking starts October 20 with free earbuds offer ahead of Diwali launch](https://www.indiatoday.in/technology/news/story/nokia-xr20-pre-booking-starts-october-20-with-free-earbuds-offer-ahead-of-diwali-launch-1865008-2021-10-15)
+
+
+> Story highlights Nokia XR20 pre-booking is likely to start from October 20 in India. The Nokia XR20 was announced in India a few months back. There is an offer of free earbuds from Nokia on pre-booking. Nokia XR20 will be available for pre-booking in India starting October 20. This is HMD Global's first 5G phone that is coming to India years after the company's counterparts, including Apple, launched their first 5G phone. The Nokia XR20 is a rugged phone that is suitable for people who work in extreme conditions, but its looks are what will make regular customers go for it.
+
+
+***
+![Arizona laying conduit along highways to connect rural areas](https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png "Arizona laying conduit along highways to connect rural areas")
+
+
+[Arizona laying conduit along highways to connect rural areas](https://apnews.com/article/technology-arizona-internet-access-doug-ducey-flagstaff-d934c21c4678851cd568604563bf3a69)
+
+
+> FLAGSTAFF, Ariz. (AP) — Arizona is launching a project to use interstate highways in the state to help provide broadband internet access to rural areas.The state Department of Transportation this week began laying fiber-optic conduit along southbound Interstate 17 in northern Arizona as part of a project with the Arizona Commerce Authority to provide more rural communities with affordable access to high-speed internet service.ADOT said there will be right-lane restrictions as crews lay the conduit in 3-mile (4,8-kilometer) sections between milepost 340 in Flagstaff and milepost 296 just south of the junction with State Route 179 to Sedona.
+
+
