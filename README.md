@@ -14979,3 +14979,53 @@
 > The Samsung Galaxy Watch 4 Classic is one of the best Android smartwatches you can buy right now for many reasons. Not only is it classy, but it's packed with useful features. It's the first Wear OS 3 watch, too. You'll enjoy smooth performance, advanced health sensors, and more. From $295 at Samsung Built-in GPS Optional LTE Advanced health sensors New Wear OS 3 platform Improved performance Lacks fast charging No iOS compatibility While the Apple Watch Series 7 isn't a huge departure from its predecessor, users might appreciate some subtle improvements.
 
 
+***
+![WhatsApp's online backups are getting end-to-end encryption](https://icdn.digitaltrends.com/image/digitaltrends/whatsapp-7.jpg "WhatsApp's online backups are getting end-to-end encryption")
+
+
+[WhatsApp's online backups are getting end-to-end encryption](https://www.digitaltrends.com/mobile/whatsapp-online-cloud-backup-encryption/)
+
+
+> Facebook is tightening WhatsApp's security by extending end-to-end encryption (E2EE) to cloud backups via an update to the app on iOS and Android. This was already allowed this on local WhatsApp backups, but the company will extend these security tools to online backups made to iCloud and Google Drive. 'Starting today, we are making available an extra, optional layer of security to protect backups stored on Google Drive or iCloud with end-to-end encryption. No other global messaging service at this scale provides this level of security for their users' messages, media, voice messages, video calls, and chat backup,' the WhatsApp team shared this week.
+
+
+***
+![The best thin and light gaming laptops 2021](https://icdn.digitaltrends.com/image/digitaltrends/razer-blade-14-07.jpg "The best thin and light gaming laptops 2021")
+
+
+[The best thin and light gaming laptops 2021](https://www.digitaltrends.com/computing/best-thin-gaming-laptop/)
+
+
+> Most gaming laptops are large, ostentatiously styled with massive vents and a fighter jet-like aesthetic, and they're heavy. They're not meant to be carried around everywhere like regular laptops, but rather from place to place for gaming sessions. Not everyone wants a massive laptop for their gaming needs, though, and that's where a new breed of thin and light gaming laptops comes into play. The Razer Blade 14 tops this list. It's not only a great gaming laptop, but it's one of the best laptops, period.
+
+
+***
+![Google Chat is getting an important security upgrade](https://cdn.mos.cms.futurecdn.net/A8DBPm8cMrXuo25kXETDDV-1200-80.jpg "Google Chat is getting an important security upgrade")
+
+
+[Google Chat is getting an important security upgrade](https://www.techradar.com/news/google-chat-is-getting-an-important-security-upgrade)
+
+
+> (Image credit: Google) Preventing data leaks is of the utmost importance to businesses which is why Google is launching a new beta to add data loss prevention (DLP) to Google Chat.The search giant announced the beta at its Google Cloud Next '21 virtual event this week in an effort to help prevent sensitive and confidential information from leaking outside of organizations.By adding DLP to Google Chat, admins will be able to create custom policies to prevent sensitive data leaks when using Google's online collaboration software.
+
+
+***
+![iPhone 13 vs iPhone 13 Pro: Is this the year to go Pro?](https://cdn.mos.cms.futurecdn.net/VvHDyN2Dg5M3agxdiwLwyQ-1200-80.jpg "iPhone 13 vs iPhone 13 Pro: Is this the year to go Pro?")
+
+
+[iPhone 13 vs iPhone 13 Pro: Is this the year to go Pro?](https://www.techradar.com/news/iphone-13-vs-iphone-13-pro)
+
+
+> The iPhone 13 and the iPhone 13 Pro are out now, which means that Apple's smartphone vision has been established for the next year. So what are we dealing with here?Two brilliant flagship smartphones, is the easy answer. But how do the two compare, and which is the better buy? Has Apple learned from its mistakes of last year and properly differentiated its Pro model this time around?We scored the iPhone 13 a little higher than the iPhone 13 Pro, but that doesn't mean it's the better phone. This one's going to take some unpacking.
+
+
+***
+![Does Australia have a future with coal?](https://content.api.news/v3/images/bin/fc2a75c0e8800491564872160401709a "Does Australia have a future with coal?")
+
+
+[Does Australia have a future with coal?](https://www.dailytelegraph.com.au/technology/environment/does-australia-have-a-future-with-coal/news-story/72e766f22bcb3b2ea4b8db7d5f47c7b9)
+
+
+> Coal is a massive export earner and a huge employer but bad for the atmosphere. Here's why the coal question is trickier than you might think.Coal is Australia's second biggest export earner, and a huge employer in regional areas. Burning it is also about the very worst thing we can do for our atmosphere. There is fairly broad consensus we'll have to wean ourselves off the black stuff at some point, but when? That's the question. SO … COAL FIRED POWER IS ON THE WAY OUT, YEAH?Yes. But not immediately.
+
+
