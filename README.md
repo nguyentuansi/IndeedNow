@@ -14538,3 +14538,50 @@
 > Three months after Richard Branson reached the edge of space, Virgin Galactic, his space tourism company, is postponing its next test flight to make what it calls enhancements to its spaceplane that would make it safer over the long-term, the company announced Thursday.Get the full experience.Choose your planThe decision means that a test flight scheduled for this month, which was to have flown members of the Italian Air Force and National Research Council, will be delayed until the second half of next year, and commercial service wouldn't begin until the fourth quarter of thatyear, the company said.
 
 
+***
+[Missouri goes after man who looked at source code on state site](https://itwire.com/security/missouri-goes-after-man-who-looked-at-source-code-on-state-site.html)
+
+
+> A newspaper in St Louis, Missouri, which discovered that the social security numbers of school teachers, administrators and counsellors across the state were publicly exposed and informed the authorities, has been threatened with unspecified action by the state's governor. The St Louis Post-Dispatch said in a report that it had found the vulnerability in a Web application that allowed world+dog to search teacher certifications and credentials. It notified the state's Department of Education and waited until the affected pages were removed before running its report.
+
+
+***
+![Queen ‘irritated' by Morrison faux pas](https://content.api.news/v3/images/bin/001129bcd47d4ccfefdbd8e8aba78d62 "Queen ‘irritated' by Morrison faux pas")
+
+
+[Queen ‘irritated' by Morrison faux pas](https://www.news.com.au/technology/environment/climate-change/irritated-queen-weighs-into-climate-change-crisis/news-story/fe98d1caf780574995d3056bbc84cd74)
+
+
+> The Queen has been left unamused at a gesture from Scott Morrison and a host of world leaders. But PM's office is promising an answer 'soon'.The Queen is not amused by 'irritating' world leaders including Scott Morrison for dithering over whether they will be no-shows at next month's COP26 climate change conference in Glasgow.Her Majesty, who will attend the talks with Princes Charles and William, has joined her son overnight in criticising world leaders including the Australian Prime Minister when they 'talk, but don't do'.
+
+
+***
+![New HomePod software chief tasked with making Apple smart speaker more competitive](https://cdn.cultofmac.com/wp-content/uploads/2020/11/HomePod_mini_1.jpg "New HomePod software chief tasked with making Apple smart speaker more competitive")
+
+
+[New HomePod software chief tasked with making Apple smart speaker more competitive](https://www.cultofmac.com/?p=755694)
+
+
+> Photo: Leander Kahney/Cult of MacApple reportedly hired Afrooz Family as its new head of software development for the HomePod. He's supposedly been tasked with making the smart speaker a stronger rival for Amazon's and Google's products.That would be something of a turnaround for the product.Someone to (hopefully) turn HomePod aroundFamily won‘t head up the entire project. He was hired by Apple to 'lead software efforts for its HomePod smart speaker,' according to Bloomberg.Apple's offering had 24.
+
+
+***
+![Sledgehammer Games invades the UK with new Call of Duty studio](https://venturebeat.com/wp-content/uploads/2020/05/sledge-_JA_0918.jpg?w=1200&strip=all "Sledgehammer Games invades the UK with new Call of Duty studio")
+
+
+[Sledgehammer Games invades the UK with new Call of Duty studio](https://venturebeat.com/2021/10/14/sledgehammer-games-invades-the-uk-with-new-call-of-duty-studio/)
+
+
+> Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next.  Sledgehammer Games has been dramatically expanding during its second decade as one of Activision Blizzard's major Call of Duty development studios. And now it's expanding into the United Kingdom with a new studio in Guildford, U.K. The San Mateo, California-based company is leading the launch of Call of Duty: Vanguard, and it is now in its second decade of operation as one of the major studios on the Call of Duty franchise, which has sold more than 400 million copies to date.
+
+
+***
+!["You fell because of the dog"... Driver who demanded 34 million won](https://static.sbsdlab.co.kr/image/thumb_default.png ""You fell because of the dog"... Driver who demanded 34 million won")
+
+
+["You fell because of the dog"... Driver who demanded 34 million won](https://www.tellerreport.com/tech/2021-10-15-"you-fell-because-of-the-dog"----driver-who-demanded-34-million-won.Sys5bvB8Bt.html)
+
+
+> Tech/Game 2021-10-14T10:40:20.588Z The good boss: Javier Bardem, the fucking master Tech/Game 2021-10-14T07:11:43.138Z [Pick] Seoul National University professors listed as 'thesis co-authors' for their underage children... Principal "I'm embarrassed" Tech/Game 2021-10-14T07:22:53.676Z Seoul National University professors listed as 'thesis co-authors' for their underage children... Principal "I'm embarrassed" Tech/Game 2021-10-14T01:22:23.190Z [Breaking News] Hwacheon Daeyu Kim Man-bae Warrant Examination Attendance Tech/Game 2021-10-14T02:28:11.
+
+
