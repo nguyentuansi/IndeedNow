@@ -14585,3 +14585,50 @@
 > Tech/Game 2021-10-14T10:40:20.588Z The good boss: Javier Bardem, the fucking master Tech/Game 2021-10-14T07:11:43.138Z [Pick] Seoul National University professors listed as 'thesis co-authors' for their underage children... Principal "I'm embarrassed" Tech/Game 2021-10-14T07:22:53.676Z Seoul National University professors listed as 'thesis co-authors' for their underage children... Principal "I'm embarrassed" Tech/Game 2021-10-14T01:22:23.190Z [Breaking News] Hwacheon Daeyu Kim Man-bae Warrant Examination Attendance Tech/Game 2021-10-14T02:28:11.
 
 
+***
+![rhipe acquired by Crayon](https://itwire.com/media/k2/items/cache/b209e13996795da672606a0cab4324dd_XS.jpg "rhipe acquired by Crayon")
+
+
+[rhipe acquired by Crayon](https://itwire.com/deals/rhipe-acquired-by-crayon.html)
+
+
+> Another Australian tech company has fallen into overseas hands with the acquisition of cloud and licensing specialist rhipe by Norway-based services company Crayon. "We are incredibly excited to welcome rhipe to the Crayon family as part of our global expansion strategy," said Crayon CEO Melissa Mulholland. "rhipe is a leading distributor of cloud solutions and services in the Asia Pacific region and through our combined business models, we will help more customers and partners solve their business needs with a greater portfolio of solutions.
+
+
+***
+[最新の「Veeam Backup & Replication V11a」はどこが最高か](https://ascii.jp/elem/000/004/071/4071867/?rss)
+
+
+> Veeam Backup & Replication v11V11には、200種類を超える新機能や機能拡張が導入されました。Veeam製品を使用したBackup as a Service（BaaS）とDisaster Recovery as a Service（DRaaS）において、これまでになく多数のオプションがあります。
+
+
+***
+![How to use only one AirPod](https://helios-i.mashable.com/imagery/articles/076MiqVwkaI01c8xgxiDlFo/hero-image.fill.size_1200x675.v1634263510.jpg "How to use only one AirPod")
+
+
+[How to use only one AirPod](https://mashable.com/article/how-to-use-only-one-airpod)
+
+
+> Miss the simple pleasure of being a one-earbud-in, one-earbud-out kind of person? Listening to just a little bit of music but still interacting with the world via your free ear...well lucky for you, that experience didn't die with the advent of the AirPod. Yes, you can use only one AirPod! Using one AirPod is super easy and it can come in handy when you're multitasking. Using only one AirPod also allows you to charge the other AirPod so you can optimize charging your AirPods while still listening to your favorite music or podcast.
+
+
+***
+![Daily Coding Challenge #28](https://external-preview.redd.it/t7-RtQRDDbmjKFcoA4LiwV-4NbGgnWyBd2VSavTg03c.jpg?auto=webp&s=4a20652ce9369007f5fd9238b423cf6bddf67289 "Daily Coding Challenge #28")
+
+
+[Daily Coding Challenge #28](https://www.reddit.com/r/programming/comments/q8dldq/daily_coding_challenge_28_convert_1d_array_into/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![An incredible video with comments that are just as good.](https://external-preview.redd.it/KcjS0DGcKaSjKMg2Ac811lWwv3rat600aKAB0nPEuoU.jpg?auto=webp&s=20d8f2a69c23d18e0143781dfbc208eb51f10cfa "An incredible video with comments that are just as good.")
+
+
+[An incredible video with comments that are just as good.](https://www.reddit.com/r/programming/comments/q8de55/an_incredible_video_with_comments_that_are_just/)
+
+
+> no comments yetBe the first to share what you think!
+
+
