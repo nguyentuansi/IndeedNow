@@ -14879,3 +14879,53 @@
 > October 15, 2021 07:54 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "United States AI in Diagnostics Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States AI in diagnostics market is a customer intelligence and competitive study of the United States market. Moreover, the report provides deep insights into demand forecasts, market trends, and, micro and macro indicators in the United States market.
 
 
+***
+![Friday PC deals at Amazon: Huge sale on monitors and laptops from Acer, Dell and more](https://www.cnet.com/a/img/dHuAAw3rFwuNiMACy7Wl58Zyimo=/1200x630/2021/10/15/74100f8e-5b53-4fae-84ce-935fa4adc900/screen-shot-2021-10-15-at-9-31-15-am.png "Friday PC deals at Amazon: Huge sale on monitors and laptops from Acer, Dell and more")
+
+
+[Friday PC deals at Amazon: Huge sale on monitors and laptops from Acer, Dell and more](https://www.cnet.com/tech/computing/friday-pc-deals-at-amazon-huge-sale-on-monitors-and-laptops-from-acer-dell-and-more/)
+
+
+> Amazon/Screenshot by CNET Looking to upgrade your monitor or laptop? Amazon has good news for you. The megaretailer is highlighting a wide assortment of both on its pre-Black Friday "Epic Deals" page from a nice array of brands, including Acer, Dell, ViewSonic, LG, Asus, Philips and more.  Some highlights that are catching our eye: While we'll likely see better deals in the weeks ahead, we're also expecting shortages and bare store shelves on many items, so you might want to lock in on anything here that fulfills a need in your home office or gaming den.
+
+
+***
+![Lone Echo 2 review](https://cdn.mos.cms.futurecdn.net/fJbtGiU2JBodzLn2jR4ibU-1200-80.png "Lone Echo 2 review")
+
+
+[Lone Echo 2 review](https://www.techradar.com/reviews/lone-echo-2-review)
+
+
+> Lone Echo 2 will be the last major VR game released for the now discontinued Rift platform. With the Oculus Rift S having now been sunset, and the Facebook-owned company moving away from PC-only experiences entirely, we don't imagine another worthwhile title will wind up as an exclusive to the Oculus Rift store.It is perhaps ironic then that we chose to review this game using the Rift's successor, the Oculus Quest 2, connecting our headset to our PC through the wireless Air Link feature.No matter what Oculus device you choose though, this is a truly great VR game from developer Ready at Dawn - a team that definitely understands what the platform is capable of.
+
+
+***
+![Best Buy Cyber Monday deals 2021: what to expect](https://cdn.mos.cms.futurecdn.net/EzurT5tw9moA8n2VhgDHeJ-1200-80.jpg "Best Buy Cyber Monday deals 2021: what to expect")
+
+
+[Best Buy Cyber Monday deals 2021: what to expect](https://www.techradar.com/cyber-monday/best-buy-cyber-monday-2020-deals)
+
+
+> This year's Best Buy Cyber Monday deals will kick off on Monday, November 29, following on from a good month or so stacked with savings. With such a massive range of tech and home products up for grabs during Best Buy's Cyber Monday sale, however, it can be difficult to prepare.We've been tracking Cyber Monday deals for years now, keeping a close eye on Best Buy's prices and trends. We've pooled all that analysis into one place so you can find out exactly what you can expect from this year's sale.
+
+
+***
+![Why Can't AI Detect Sepsis?](http://explainthispaper.com/static/img/card_img.074d730f7386.jpg "Why Can't AI Detect Sepsis?")
+
+
+[Why Can't AI Detect Sepsis?](https://explainthispaper.com/external-validation-of-a-widely-implemented-proprietary-sepsis-prediction-model-in-hospitalized-patients/)
+
+
+> Summarised paper information Jun 21, 2021 JAMA Internal Medicine Andrew Wong, Erkin Otles, John P. Donnelly, Andrew Krumm, Jeffrey McCullough, Olivia DeTroyer-Cooley, Justin Pestrue, Marie Phillips, Judy Konye, Carleen Penoza, Muhammad Ghous, Karandeep Singh
+
+
+***
+![Global Revenue Cycle Management Markets Report 2021-2028: Government Reforms, Technical Advancements, & Increase in Outsourcing of Revenue Cycle Management](https://mms.businesswire.com/media/20211015005399/en/916836/23/logo.jpg "Global Revenue Cycle Management Markets Report 2021-2028: Government Reforms, Technical Advancements, & Increase in Outsourcing of Revenue Cycle Management")
+
+
+[Global Revenue Cycle Management Markets Report 2021-2028: Government Reforms, Technical Advancements, & Increase in Outsourcing of Revenue Cycle Management](https://www.businesswire.com/news/home/20211015005399/en/Global-Revenue-Cycle-Management-Markets-Report-2021-2028-Government-Reforms-Technical-Advancements-Increase-in-Outsourcing-of-Revenue-Cycle-Management---ResearchAndMarkets.com)
+
+
+> October 15, 2021 09:45 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Global Revenue Cycle Management Market Size, Share & Trends Analysis Report by Product (Software, Service), by Type (Integrated, Standalone), by Delivery Mode, by End-use, by Region, and Segment Forecasts, 2021-2028" report has been added to ResearchAndMarkets.com's offering. The global revenue cycle management market size is projected to reach USD 633.6 billion by 2028. This market is expected to expand at a CAGR of 11.
+
+
