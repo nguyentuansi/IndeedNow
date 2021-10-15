@@ -14679,3 +14679,53 @@
 > FLAGSTAFF, Ariz. (AP) — Arizona is launching a project to use interstate highways in the state to help provide broadband internet access to rural areas.The state Department of Transportation this week began laying fiber-optic conduit along southbound Interstate 17 in northern Arizona as part of a project with the Arizona Commerce Authority to provide more rural communities with affordable access to high-speed internet service.ADOT said there will be right-lane restrictions as crews lay the conduit in 3-mile (4,8-kilometer) sections between milepost 340 in Flagstaff and milepost 296 just south of the junction with State Route 179 to Sedona.
 
 
+***
+![Weekend deal: Snag up to 40% off Bose and Sony noise-cancelling headphones on eBay](https://cdn.mos.cms.futurecdn.net/mowaynHuh5v9PzFvcnPmbF-1200-80.jpg "Weekend deal: Snag up to 40% off Bose and Sony noise-cancelling headphones on eBay")
+
+
+[Weekend deal: Snag up to 40% off Bose and Sony noise-cancelling headphones on eBay](https://www.techradar.com/news/weekend-deal-snag-up-to-40-off-bose-and-sony-noise-cancelling-headphones-on-ebay)
+
+
+> (Image credit: Sony) eBay might not be the first place that comes to mind when you're looking to score a discounted set of headphones, but the massive online retailer is always worth checking out for audio hardware. That's because you'll find big retailers such as The Good Guys and Bing Lee on eBay, and even official stores for brands like Sony and Sennheiser.Now's a good time to find a bargain price on headphones too, because this year's latest models have made previous iterations much more affordable.
+
+
+***
+![Fairphone 4 review: ethical repairable phone gets big upgrade](https://i.guim.co.uk/img/media/3cf9e3b59b278fe610595544a160986d29c4ebf4/231_458_4999_2999/master/4999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=3f987866395aa451dfd9410302fb6aa2 "Fairphone 4 review: ethical repairable phone gets big upgrade")
+
+
+[Fairphone 4 review: ethical repairable phone gets big upgrade](https://www.theguardian.com/technology/2021/oct/15/fairphone-4-review-ethical-repairable-phone-gets-big-upgrade)
+
+
+> The most ethical, repairable smartphone you can buy is back with a new model, this time with 5G and a fresh look but a weak camera.The new Fairphone 4 costs £499 from the Dutch cooperative of the same name and continues the mission to make phones from materials sourced as ethically as possible that you can take apart and fix without an electrical engineering degree.The new model has a much more modern design than its predecessors with an aluminium body, Gorilla Glass 5 screen and a removable 100% recycled plastic back.
+
+
+***
+![Flipkart Big Diwali Sale to begin on October 17: Deals, offers revealed so far](https://images.indianexpress.com/2021/07/Realme_GT_master_Edition_reveal_1626346510165.jpg "Flipkart Big Diwali Sale to begin on October 17: Deals, offers revealed so far")
+
+
+[Flipkart Big Diwali Sale to begin on October 17: Deals, offers revealed so far](https://indianexpress.com/article/technology/techook/flipkart-big-diwali-sale-to-begin-on-october-17-deals-offers-revealed-so-far-7572780/)
+
+
+> Flipkart just recently wrapped up its Big Billion Days Sale and it is now all set to host yet another festive sale. Flipkart's Big Diwali Sale will begin on October 17 and customers will get another chance to buy devices at discounted prices. The 7-day sale will continue until October 23. It will be offering a 10 percent discount on SBI bank card. Flipkart is also promising to offer up to 75 percent off on TVs, and up to 80 percent discount on laptops, mobiles and tablets. As per the listing, Samsung's 50-inch Neo QLED Smart TV will be available for Rs 30,999.
+
+
+***
+![Best flash drives of 2021: USB memory sticks for all your data storage needs](https://cdn.mos.cms.futurecdn.net/6gEnz7HiWoMemA5KeZBtFC-1200-80.jpg "Best flash drives of 2021: USB memory sticks for all your data storage needs")
+
+
+[Best flash drives of 2021: USB memory sticks for all your data storage needs](https://www.techradar.com/news/best-usb-flash-drives)
+
+
+> If you think that flash drives are obsolete, think again. These days, the best flash drives still very much serve their purpose of making your files portable without forcing you to spend $100 / £100 or more. They'll let you bring any file you need with you without forcing you to lug your laptop around.Storing your important files and documents in a tiny pocket-sized device that's robust and dependable have been these flash drives' main purpose. But, to keep up with the times, they've increased their data transfer speeds and storage capacity to up to 256GB as well, in case you need something for storing videos, music or long term storage.
+
+
+***
+![Seoul police arrest 4 over cameras hidden in entire motel](https://www.fox23.com/pf/resources/images/sites/cmg-tv-10100/station-fallback.png?d=286 "Seoul police arrest 4 over cameras hidden in entire motel")
+
+
+[Seoul police arrest 4 over cameras hidden in entire motel](https://www.fox23.com/news/technology/seoul-police-arrest/B6W7HBJG3S47H3KQ3M4CZIK4JQ/)
+
+
+> SEOUL, South Korea — (AP) — South Korean police have arrested four people for allegedly installing hidden cameras in the rooms of an entire motel and attempting to extort money from the hundreds of guests who were filmed.The suspects filmed for months and tried to blackmail some guests with threats to release their videos but their extortion attempts failed to obtain any money, said Seo Sang-hyeok, an official from the cyber-crime unit of Seoul Metropolitan Police.Seo didn't provide details on how the suspects installed the cameras at the motel in Yangpyeong, near the capital Seoul.
+
+
