@@ -14779,3 +14779,53 @@
 > One happy Cliffside Malibu Business Manager titled his Aloha POS system user review, "Say Hello to Aloha POS, the Point of Sale System You'll Never Say Goodbye To." With logos on its rolodex from the likes of Wendy's and Benihana to BrewDog, Nando's and Gaucho, it's clear to see why. Aloha POS has aligned itself with household restaurant industry names  from the outset. Aloha POS aims to be the number one restaurant POS platform, empowering its customers to take orders, process payments, compile reports and manage a whole lot of information about their business operations at speed.
 
 
+***
+![Acer India servers hacked, over 50GB of user data including financial details allegedly stolen](https://images.financialexpress.com/2021/10/Acer-Reuters.jpg "Acer India servers hacked, over 50GB of user data including financial details allegedly stolen")
+
+
+[Acer India servers hacked, over 50GB of user data including financial details allegedly stolen](https://www.financialexpress.com/industry/technology/acer-india-servers-hacked-over-50gb-of-user-data-including-financial-details-allegedly-stolen/2350294/)
+
+
+> By: FE Online | October 15, 2021 3:29 PMThis is the second such cyberattack that the Taiwanese company has faced in 2021. (Reuters)Laptop maker Acer has confirmed a cyberattack on its India servers earlier this week, ZDNet has reported.The hackers, the Desorden Group, claimed to have stolen 60GB of data after breaching the company's servers.The group even emailed ZDNet to inform them about the hack and claimed to have customer and corporate business data, apart from financial information. The hackers, however, told the outlet that it was not a ransomware attack and said it gained access to the servers over time.
+
+
+***
+![Apple's Proposed Phone-Scanning Child Safety Features 'Invasive, Ineffective, and Dangerous,' Say Cybersecurity Researchers in New Study](https://external-preview.redd.it/ky_Phf-B8F3lcW0AJezKr22Tl8L3db4jnoVpb7gQ_4s.jpg?auto=webp&s=8936b0d127ecaee71c59a08d3bbdb4cc0fb55672 "Apple's Proposed Phone-Scanning Child Safety Features 'Invasive, Ineffective, and Dangerous,' Say Cybersecurity Researchers in New Study")
+
+
+[Apple's Proposed Phone-Scanning Child Safety Features 'Invasive, Ineffective, and Dangerous,' Say Cybersecurity Researchers in New Study](https://www.reddit.com/r/technology/comments/q8l59v/apples_proposed_phonescanning_child_safety/)
+
+
+> From the article: The damning criticism came in a new 46-page study by researchers that looked at plans by Apple and the European Union to monitor people's phones for illicit material, and called the efforts ineffective and dangerous strategies that would embolden government surveillance.Announced in August, the planned features include client-side (i.e. on-device) scanning of users' iCloud Photos libraries for Child Sexual Abuse Material (CSAM), Communication Safety to warn children and their parents when receiving or sending sexually explicit photos, and expanded CSAM guidance in Siri and Search.
+
+
+***
+![Lava flow from Spanish island volcano likened to a tsunami](https://www.clickorlando.com/resizer/6gKtxlZfWwmmHp43ZRUKdn9J9lA=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/NNT73F6U25HI5P2PNYW6OUR4RI.jpg "Lava flow from Spanish island volcano likened to a tsunami")
+
+
+[Lava flow from Spanish island volcano likened to a tsunami](https://www.clickorlando.com/tech/2021/10/15/lava-flow-from-spanish-island-volcano-likened-to-a-tsunami/)
+
+
+> MADRID – The second 4.5 magnitude earthquake in two days rattled the Spanish island of La Palma on Friday, officials said, as scientists described a gushing river of molten rock from an erupting volcano as 'a true lava tsunami.'The two quakes were the strongest to hit La Palma, part of the Canary Islands off northwest Africa, since the volcano erupted on Sept. 19, Spain's National Geographical Institute said.Lava rolling toward the Atlantic Ocean forced the evacuation of more than 300 people late Thursday, bringing the number of people forced from their homes since Tuesday to 1,200, according to the La Palma government.
+
+
+***
+![Lava flow from Spanish island volcano likened to a tsunami](https://www.clickondetroit.com/resizer/6gKtxlZfWwmmHp43ZRUKdn9J9lA=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/NNT73F6U25HI5P2PNYW6OUR4RI.jpg "Lava flow from Spanish island volcano likened to a tsunami")
+
+
+[Lava flow from Spanish island volcano likened to a tsunami](https://www.clickondetroit.com/tech/2021/10/15/lava-flow-from-spanish-island-volcano-likened-to-a-tsunami/)
+
+
+> MADRID – The second 4.5 magnitude earthquake in two days rattled the Spanish island of La Palma on Friday, officials said, as scientists described a gushing river of molten rock from an erupting volcano as 'a true lava tsunami.'The two quakes were the strongest to hit La Palma, part of the Canary Islands off northwest Africa, since the volcano erupted on Sept. 19, Spain's National Geographical Institute said.Lava rolling toward the Atlantic Ocean forced the evacuation of more than 300 people late Thursday, bringing the number of people forced from their homes since Tuesday to 1,200, according to the La Palma government.
+
+
+***
+![HBO Max price: how much does it cost and today's best deals](https://cdn.mos.cms.futurecdn.net/M3kwPyqeXhAE6szWiqiM6a-1200-80.jpg "HBO Max price: how much does it cost and today's best deals")
+
+
+[HBO Max price: how much does it cost and today's best deals](https://www.techradar.com/deals/hbo-max-price-cost-deals)
+
+
+> Launched just 18 months ago, HBO Max already has over 60 million subscribers. And it might very soon be giving Netflix a run for its money given the introduction of its cheaper $9.99 HBO Max price plan. The Warner Media platform offers subscribers 13,000 hours of content, which includes acclaimed HBO shows, Max Originals, classic Warner Brothers movies, films from the DC Comics universe and heaps more.  HBO Max price: head straight to HBO Max to sign up to one of its plans For one dollar more than Netflix's entry-level plan, the competitive HBO Max price offers hundreds of thrilling titles from studios like New Line Cinema, Turner Classic Movies, Crunchy Roll and Studio Ghibli – all in HD quality and enabling 3 simultaneous streams per account.
+
+
