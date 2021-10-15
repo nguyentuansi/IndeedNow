@@ -15073,3 +15073,37 @@
 > A lasting effect of this pandemic will be a revolution in worker expectations. Why do electric cords have holes in their two flat prongs? Here's the answer that will leave you forever satisfied. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. Just because you can't cook doesn't mean you can't make soothing food videos like the best of 'em. Ready to host again? Same.
 
 
+***
+[Jack Dorsey says Square is considering building an open source Bitcoin mining system based on custom silicon for individuals and businesses worldwide (Chavi Mehta/Reuters)](http://www.techmeme.com/211015/p22#a211015p22)
+
+
+> Chavi Mehta / Reuters: Jack Dorsey says Square is considering building an open source Bitcoin mining system based on custom silicon for individuals and businesses worldwide — Square Inc (SQ.N) Chief Executive Officer Jack Dorsey said on Friday the fintech firm is looking to build a bitcoin mining system based …
+
+
+***
+[Speldator i5-7600k asus 1070 OC 8gb](https://www.sweclockers.com/forum/trad/1647010-speldator-i5-7600k-asus-1070-oc-8gb)
+
+
+> Säljer min burk! Chassi: Fractal Design Meshify C(sitter enbart Noctua fläktar i chassit) Mb: Asus Rog Strix z270h Gaming Gpu: Asus 1070 Dual OC 8GB Cpu:Intel i5-7600k Kylare: Noctua NH-D15 RAM: 16GB Corsair Vengeance LPX 3200 mhz Lagring: 500GB m.2 Samsung 970 Evo PSU: Seasonic Gold Läs hela annonsen här
+
+
+***
+![Researchers show Facebook's ad tools can target a single user](https://external-preview.redd.it/ZcFUj3g0ilICglb7xhsNRaOoKCVsbA_9odpgnRxp3Lc.jpg?auto=webp&s=99814efdf61a457bca9b84a745cafdf9e8cb4e42 "Researchers show Facebook's ad tools can target a single user")
+
+
+[Researchers show Facebook's ad tools can target a single user](https://www.reddit.com/r/technology/comments/q8y5qu/researchers_show_facebooks_ad_tools_can_target_a/)
+
+
+> No body in the article.
+
+
+***
+![Top 10 Best Mechanical Gaming Keyboards – Updated October, 2021](https://www.androidheadlines.com/wp-content/uploads/2021/06/Best-Mechanical-Keyboards.jpg "Top 10 Best Mechanical Gaming Keyboards – Updated October, 2021")
+
+
+[Top 10 Best Mechanical Gaming Keyboards – Updated October, 2021](https://www.androidheadlines.com/best-gaming-keyboards-pc-video-games-mechanical-membrane-rgb.html)
+
+
+> There are loads of different gaming keyboards out there and the best ones come from a wide range of different brands. Though it's highly likely that you may already be familiar with which brands those are.If you're not sure gaming keyboards are the best to choose from or you just aren't sure what to really go for, then this list can help.We've put together ten of the best gaming keyboards on the market that you can get your hands on. All of them have something valuable to offer and will cater to a range of different tastes.
+
+
