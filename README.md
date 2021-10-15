@@ -15029,3 +15029,47 @@
 > Coal is a massive export earner and a huge employer but bad for the atmosphere. Here's why the coal question is trickier than you might think.Coal is Australia's second biggest export earner, and a huge employer in regional areas. Burning it is also about the very worst thing we can do for our atmosphere. There is fairly broad consensus we'll have to wean ourselves off the black stuff at some point, but when? That's the question. SO … COAL FIRED POWER IS ON THE WAY OUT, YEAH?Yes. But not immediately.
 
 
+***
+![Mystical Programming](https://external-preview.redd.it/zWtnCrS1VyAXq8djNC8aC6odnLFF2y1fyQyjLQMFMaE.jpg?auto=webp&s=868e605cd24d65d4fdd48369458963be9fef1601 "Mystical Programming")
+
+
+[Mystical Programming](https://www.reddit.com/r/programming/comments/q8w5rj/mystical_programming/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![The 44 best health and fitness gifts of 2021](https://www.gannett-cdn.com/presto/2021/09/30/USAT/cd4bb185-3335-4d35-808a-47e74b496544-herofitness.jpg?auto=webp&crop=1593,896,x0,y0&format=pjpg&width=1200 "The 44 best health and fitness gifts of 2021")
+
+
+[The 44 best health and fitness gifts of 2021](https://www.usatoday.com/story/tech/reviewedcom/2018/11/02/the-25-best-health-and-fitness-gifts-of-2018/38343521/)
+
+
+> — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.If you've got someone in your life who loves staying healthy and working out you're in luck: We've compiled a list of the best health and fitness products for you to bestow upon your favorite health nut or fitness fanatic.Tackle your holiday shopping early with deals and expert advice delivered straight to your phone. Sign up for text message alerts from the deal-hunting team at Reviewed.
+
+
+***
+[I Believe Social Media Help Students](https://filmdaily.co/tech/social-media-students-help/)
+
+
+> Social media gets a bad rap, but it has its benefits. Find out how it can help students with their everyday life. The post I Believe Social Media Help Students appeared first on Film Daily.
+
+
+***
+[How to block adult content on your child's device](https://filmdaily.co/tech/block-content/)
+
+
+> There are a million reasons why a parent might want to block some content on their child's phone. Learn about blocking adult content right here. The post How to block adult content on your child’s device appeared first on Film Daily.
+
+
+***
+![This Woman Beautifully Parodies ASMR Cooking TikToks  — With A Twist](https://cdn.digg.com/wp-content/uploads/2021/10/15193153/food-asmr.png "This Woman Beautifully Parodies ASMR Cooking TikToks  — With A Twist")
+
+
+[This Woman Beautifully Parodies ASMR Cooking TikToks  — With A Twist](https://digg.com/2021/this-woman-beautifully-parodies-asmr-cooking-tiktoks-with-a-twist)
+
+
+> A lasting effect of this pandemic will be a revolution in worker expectations. Why do electric cords have holes in their two flat prongs? Here's the answer that will leave you forever satisfied. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. Just because you can't cook doesn't mean you can't make soothing food videos like the best of 'em. Ready to host again? Same.
+
+
