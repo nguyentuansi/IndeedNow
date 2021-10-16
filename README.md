@@ -15144,3 +15144,50 @@
 > Does anyone know how I can get mentorship? Recommend people or platforms? I've been a data scientist for 5 years now and every time I'm tasked with something more technical it's a big challenge. I would like someone that could help me give the first steps into contributing to open source projects. Let me watch how he thinks, solves problems, decision making over several options and tooling, testing, debugging... and give me tasks for me to contribute to open source (something that would be at my level) and discuss my solution with.
 
 
+***
+!["Simple Code" Follow-up Part 1: A (Very) Simplified CPU Diagram (Lecture by Casey Muratori)](https://external-preview.redd.it/wYXaEGIhju8z3f985VlzhQ9T5nya9exAdc-SZ2-fxYM.jpg?auto=webp&s=be93354fa8ffe1d421ccc0e87d8b41e54626835c ""Simple Code" Follow-up Part 1: A (Very) Simplified CPU Diagram (Lecture by Casey Muratori)")
+
+
+["Simple Code" Follow-up Part 1: A (Very) Simplified CPU Diagram (Lecture by Casey Muratori)](https://www.reddit.com/r/programming/comments/q92m0t/simple_code_followup_part_1_a_very_simplified_cpu/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Daily Coding Challenge #29](https://external-preview.redd.it/t7-RtQRDDbmjKFcoA4LiwV-4NbGgnWyBd2VSavTg03c.jpg?auto=webp&s=4a20652ce9369007f5fd9238b423cf6bddf67289 "Daily Coding Challenge #29")
+
+
+[Daily Coding Challenge #29](https://www.reddit.com/r/programming/comments/q92jkb/daily_coding_challenge_29_product_of_array_except/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Backlash over ‘horrendous' church sign](https://content.api.news/v3/images/bin/f45dcde69be96a607a3bcdf185ba47e8 "Backlash over ‘horrendous' church sign")
+
+
+[Backlash over ‘horrendous' church sign](https://www.news.com.au/technology/online/social/backlash-over-kill-us-all-sign-at-gosford-anglican-church/news-story/274bda9372474d78159c5d20a077f2c6)
+
+
+> A church in regional NSW has come out guns-blazing against Premier Dominic Perrottet, copping immediate backlash online.Don't miss out on the headlines from Social. Followed categories will be added to My News.A church in regional NSW has come out guns-blazing against the state's new Premier, copping immediate backlash online.Rector of Gosford Rod Bower tweeted out and image of the local Anglican Church's billboard reading '#LetItRipDom Will Kill Us All', in response to the new Premier Dominic Perrottet's roadmap for opening up NSW.
+
+
+***
+[Expensify files for an IPO, and reports net income of $15M on revenue of $65M in H1 2021, up from $3.5M on revenue of $41M in H1 2020 (Crystal Tse/Bloomberg)](http://www.techmeme.com/211015/p26#a211015p26)
+
+
+> Crystal Tse / Bloomberg: Expensify files for an IPO, and reports net income of $15M on revenue of $65M in H1 2021, up from $3.5M on revenue of $41M in H1 2020 — Expensify Inc. filed for an initial public offering, disclosing growing revenue and income. — The maker of expense management software in its filing Friday …
+
+
+***
+![ESXI 7.0.3 on MacPro5,1](https://images.macrumors.com/social/?t=2317167&v=6 "ESXI 7.0.3 on MacPro5,1")
+
+
+[ESXI 7.0.3 on MacPro5,1](https://forums.macrumors.com/threads/esxi-7-0-3-on-macpro5-1.2317167/)
+
+
+> Sep 8, 2010 309 79 Dol Amroth I've managed to install ESXi 7.0.3 on my MacPro5,1. Before I invest a lot of time configuring a virtual network of VMs, is this thing going to be stable? I've read scattered reports of "pink screens of death" with recent versions of ESXi and the cMP5,1. Pro tip - if you have a native Mac EFI video ROM, use a 60 Hz monitor to access the boot disk selector.
+
+
