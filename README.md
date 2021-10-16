@@ -15470,3 +15470,53 @@
 > This post was originally published in The Conversation. There is no question that Squid Game has become a global sensation. Since its release, the nine-episode survival drama has topped Netflix's charts in 90 countries and is poised to become the most-watched show in Netflix history.As the global popularity of the Korean thriller continues to grow, there have been debates over the quality of the English subtitle translation, particularly on social media. Many people who claim to be English-Korean bilinguals argue the translation does not do justice to the brilliantly written stories, clever dialogue and script.
 
 
+***
+![Windows users beware: according to a Google report, 95 percent of ransomware attacks target Microsoft's operating system. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/windows-users-beware-95-of-ransomware-attacks-target-microsoft-s-os-google-report.jpg "Windows users beware: according to a Google report, 95 percent of ransomware attacks target Microsoft's operating system. » Brinkwire")
+
+
+[Windows users beware: according to a Google report, 95 percent of ransomware attacks target Microsoft's operating system. » Brinkwire](https://en.brinkwire.com/technology/windows-users-beware-according-to-a-google-report-95-percent-of-ransomware-attacks-target-microsofts-operating-system/)
+
+
+> Windows users beware: according to a Google report, 95 percent of ransomware attacks target Microsoft's operating system. In the first half of 2021, Windows users were the primary target of ransomware assaults, accounting for 95 percent of the attacking plan, according to Google's malware detection service, VirusTotal. According to Teiss.co.uk, Google purchased VirusTotal in 2012, and the company now receives an alarming amount of suspicious file reports, with an average of two million every day.
+
+
+***
+![Want to live again? Well hurry up, you've only got 7Days!](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/seven-days-hero.jpg "Want to live again? Well hurry up, you've only got 7Days!")
+
+
+[Want to live again? Well hurry up, you've only got 7Days!](https://www.androidcentral.com/7days-android-game-week)
+
+
+> Source: Google Play We're smack dab in the middle of October, but not every game has to be overtly spooky or scary to fit the vibes of the season. Sometimes the best way to get your fill of thrills and horror is to be faced with a mountain of existential dread, and that's exactly what 7Days! is delivering. 7Days! is a text-based adventure game dripping with moral dilemas and impossible decisions. You play as protagonist Kirell, awakening in an interrogation room with no memories after your spirit has crossed the River of Oblivion.
+
+
+***
+![WhatsApp Encrypted Backups for Google Drive or iCloud Data](https://1734811051.rsc.cdn77.org/data/images/full/394365/whatsapp-encrypted-backups-for-data-stored-on-google-drive-or-icloud-random-64-digit-keys-used.jpg "WhatsApp Encrypted Backups for Google Drive or iCloud Data")
+
+
+[WhatsApp Encrypted Backups for Google Drive or iCloud Data](https://en.brinkwire.com/technology/whatsapp-encrypted-backups-for-google-drive-or-icloud-data-uses-random-64-digit-keys/)
+
+
+> (Photo : Image from Unsplash Website) WhatsApp Encrypted Backups for Data Stored on Google Drive or iCloud | Random 64-Digit Keys UsedWhatsApp is rolling out new end-to-end encryption backups for data being stored on Google Drive or iCloud. Users can get their random 64-digit keys that are used for them to handle their data personally. Google Drive or iCloud Backup Data WhatsApp has just recently stated that it is starting to slowly roll out new encrypted backups feature it detailed in September 2021.
+
+
+***
+![Galaxy Fold3 review: Xbox x Samsung's perfect match](https://imageresizer.static9.net.au/Io7_QI11aMGUNciOsrh2aU6MC0c=/0x0:6000x3375/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe57e8101-6971-4cda-8dcf-2ca921409179 "Galaxy Fold3 review: Xbox x Samsung's perfect match")
+
+
+[Galaxy Fold3 review: Xbox x Samsung's perfect match](https://www.9news.com.au/technology/review-xbox-samsung-galaxy-fold3-perfect-match/6c7a78fc-34b5-4aef-8dc5-f0aa4a19c12d)
+
+
+> Your web browser is no longer supported. To improve your experience update it hereA big screen that fits in your pocket is the reason Samsung's Galaxy Fold exists.Watching a movie or reading an article is undeniably better on a bigger screen and with the arrival of 2021's waterproof FOLD3, more people are paying a premium for that luxury.Sure, the cameras aren't as good as those on Samsung's Galaxy S21, the keyboard is frustratingly narrow when folded, annoyingly wide when open and Instagram still hasn't worked out how to scale it's app to fit the main display, but almost overnight, the FOLD3 has become a gamer's best option for one reason: Xbox Game Pass Ultimate.
+
+
+***
+![Does AppleCare+ with Thief anad Loss cover you if you ship a phone via FedEx or UPS and it gets lost during shipping?](https://images.macrumors.com/social/?t=2317256&v=6 "Does AppleCare+ with Thief anad Loss cover you if you ship a phone via FedEx or UPS and it gets lost during shipping?")
+
+
+[Does AppleCare+ with Thief anad Loss cover you if you ship a phone via FedEx or UPS and it gets lost during shipping?](https://forums.macrumors.com/threads/does-applecare-with-thief-anad-loss-cover-you-if-you-ship-a-phone-via-fedex-or-ups-and-it-gets-lost-during-shipping.2317256/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
