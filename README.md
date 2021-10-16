@@ -15191,3 +15191,47 @@
 > Sep 8, 2010 309 79 Dol Amroth I've managed to install ESXi 7.0.3 on my MacPro5,1. Before I invest a lot of time configuring a virtual network of VMs, is this thing going to be stable? I've read scattered reports of "pink screens of death" with recent versions of ESXi and the cMP5,1. Pro tip - if you have a native Mac EFI video ROM, use a 60 Hz monitor to access the boot disk selector.
 
 
+***
+![Apple worker says she was fired after leading movement against harassment](https://images.indianexpress.com/2021/10/Apple-AP-1.jpg "Apple worker says she was fired after leading movement against harassment")
+
+
+[Apple worker says she was fired after leading movement against harassment](https://indianexpress.com/article/technology/tech-news-technology/apple-worker-says-she-was-fired-after-leading-movement-against-harassment-7574399/)
+
+
+> An Apple employee who led fellow workers in publicly sharing instances of what they called harassment and discrimination at the company said on Thursday that she had been fired. Janneke Parrish, an Apple program manager, said the iPhone maker informed her on Thursday that she had been terminated for deleting material on company equipment while she was under investigation over the leaking of a company town hall to media. She told Reuters she denies leaking. Parrish said she deleted apps that contained details of her finances and other personal information before handing her devices in to Apple as part of the probe.
+
+
+***
+[Netflix employee fired in wake of Chappelle special furor](https://www.mymotherlode.com/news/technology/2040745/netflix-employee-fired-in-wake-of-chappelle-special-furor.html)
+
+
+> Netflix says it has fired an employee for disclosing confidential financial information about the Dave Chappelle comedy special 'The Closer,' which some have condemned as being transphobic
+
+
+***
+![Techland Drops New Free Content Pack With Dying Light: Hellraid](https://bleedingcool.com/wp-content/uploads/2021/10/Dying-Light-Hellraid-Artwork-1200x628.jpg "Techland Drops New Free Content Pack With Dying Light: Hellraid")
+
+
+[Techland Drops New Free Content Pack With Dying Light: Hellraid](https://bleedingcool.com/games/techland-drops-new-free-content-pack-with-dying-light-hellraid/)
+
+
+> Posted on October 15, 2021 by Gavin Sheehan | Techland released new info today about the latest free content drop being added to the original Dying Light as players will experience Hellraid. If you're not familiar with the content, this is essentially a fantasy version of the game with the same kind of content as you'd find in the zombie horror title, only with the twists of magic and whatnot. This new update adds in a new map section and a new challenging quest, which after you complete will lead you toward unlocking a brand-new magic skill.
+
+
+***
+[Apple Watch Series 8 to arrive with three screen sizes; Read more](http://www.pinkvilla.com/tech/news/apple-watch-series-8-to-arrive-with-three-screen-sizes-read-more-918628)
+
+
+> Attach Main technology Image: Image Caption: Apple Watch Series 8 to arrive with three screen sizes; Read more Social Media Image : Enter the Technology details: The Cupertino tech giant is looking forward to launching the Apple Watch Series 8 with a bigger display in 2022. The watch is under development and might come with a third screen size option which is expected to be bigger than the existing ones. The all new Apple Watch Series 8 will be launched next year. However, Apple Watch Series 7 is out on sale from 15th October in the global market, exactly one month after it was launched in the event that commenced on 14th September.
+
+
+***
+![What happens to your Google data after you die? Here is the answer](https://images.indianexpress.com/2021/10/Google-data.jpg "What happens to your Google data after you die? Here is the answer")
+
+
+[What happens to your Google data after you die? Here is the answer](https://indianexpress.com/article/technology/techook/what-happens-to-your-google-data-after-you-die-here-is-the-answer-7573230/)
+
+
+> Worried about what might happen to your Google account data when you pass away? Well, the software giant has a feature which lets you decide the same. If you are using all the services of Google such as Gmail, Maps, Search and Photos, then it means that the Google account has plenty of data about you and your habits. Some might have saved bank cards details or might be using Google Photos to preserve memories with your friends and family. Some of you might also be using Google Pay and might have stored a few important documents on Google Drive.
+
+
