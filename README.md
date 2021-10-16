@@ -15279,3 +15279,50 @@
 > Attach Main technology Image: Social Media Image : Enter the Technology details: The OPPO Reno6 series has been around for a time, and the company now appears to be working on the Reno7, its successor. In China, an OPPO phone with the model number PFDM00 recently got CMIIT certification. It's possible that it'll be the standard OPPO Reno7. According to rumours, the Reno7 series will be announced in November. A Chinese tipster has speculated about the specs of Reno7 before the planned launch.
 
 
+***
+['Retaliation': Apple Employee Who Led #AppleToo Movement Says She Has Been Fired](https://www.thequint.com/tech-and-auto/tech-news/apple-employee-who-led-appletoo-movement-says-she-has-been-fired)
+
+
+> Janneke Parrish co-led a movement of her colleagues wherein they shared instances of discrimination on social media.
+
+
+***
+![Audible, Apps for Reading Holy Books Removed from Apple's China App Store](https://i.gadgets360cdn.com/large/amazon_audible_1566630759229.jpg "Audible, Apps for Reading Holy Books Removed from Apple's China App Store")
+
+
+[Audible, Apps for Reading Holy Books Removed from Apple's China App Store](https://gadgets.ndtv.com/apps/news/apple-app-store-audible-amazon-holy-books-bible-quran-apps-removed-china-2577350)
+
+
+> Amazon's audiobook service Audible and phone apps for reading the holy books of Islam and Christianity have disappeared from the Apple store in mainland China, the latest examples of the impact of the country's tightened rules for internet firms.Audible said Friday that it removed its app from the Apple store in mainland China last month 'due to permit requirements."The makers of apps for reading and listening to the Quran and Bible say their apps have also been removed from Apple's China-based store at the government's request.
+
+
+***
+![Hexagonal Architecture in Java Simplified](https://external-preview.redd.it/RrpNTpCS2DfdhoU7s5audacOwVu27Z2sneAOVDfI0sM.jpg?auto=webp&s=826fdfd2147014fcd3e76f6fe890a577f80ad754 "Hexagonal Architecture in Java Simplified")
+
+
+[Hexagonal Architecture in Java Simplified](https://www.reddit.com/r/programming/comments/q979sx/hexagonal_architecture_in_java_simplified/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Google Search for mobile gets continuous scrolling feature](https://images.indianexpress.com/2021/10/Google_AP_1.jpeg "Google Search for mobile gets continuous scrolling feature")
+
+
+[Google Search for mobile gets continuous scrolling feature](https://indianexpress.com/article/technology/tech-news-technology/google-search-gets-continuous-scrolling-feature-on-android-and-ios-7574582/)
+
+
+> Google Search is refreshing its UI with a new feature, that will make scrolling easier than before on mobiles. The new feature enables users to continuously scroll results while using Google Search. The software giant has already started rolling out the continuous scrolling feature for both iOS and Android phone users in the US. The company announced the launch of the feature via a blog post. The update is meant for Google Search on mobile and will automatically display more results when users scroll to the bottom of a results page.
+
+
+***
+![NASA's Lucy mission ready to launch: How to watch live](https://www.cnet.com/a/img/iAmSPt9_6db7j6x8FuNnQyqRkB0=/1200x630/2020/12/26/aabe072c-d784-47a0-9ed6-64c4ae514f10/1017-final-lucy-1280.jpg "NASA's Lucy mission ready to launch: How to watch live")
+
+
+[NASA's Lucy mission ready to launch: How to watch live](https://www.cnet.com/how-to/nasas-lucy-mission-ready-to-launch-how-to-watch-live/)
+
+
+> Lucy flies over a Trojan asteroid in this NASA animation. NASA's Goddard Space Flight Center NASA is no stranger to the solar system's most mammoth planet, the gas giant Jupiter. Robotic explorers, like Juno, have gazed upon its Great Red Spot and analyzed its atmosphere. But in its planetary neighbourhood lies a collection of ancient rocks known as the Trojan asteroids. These rocks are fossils from the earliest era of our solar system, time capsules locked in a dance around the sun, but we've never studied them up close.
+
+
