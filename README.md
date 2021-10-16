@@ -15373,3 +15373,50 @@
 > You can't perform that action at this time. You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session.
 
 
+***
+![HP Chromebook X2 11 review: Plays hard, but can't work hard](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/hp-chromebook-x2-11-laptop-mode-twitter-green.jpg "HP Chromebook X2 11 review: Plays hard, but can't work hard")
+
+
+[HP Chromebook X2 11 review: Plays hard, but can't work hard](https://www.androidcentral.com/hp-chromebook-x2-11-review)
+
+
+> Source: Ara Wagoner / Android Central HP turned a number of heads when it first announced the HP Chromebook X2 11. This was our first premium Chrome tablet since the Google Pixel Slate back in 2018, and it looked much more polished. Unlike the Pixel Slate, it came with the kickstand and keyboard in the box, and unlike the Lenovo Chromebook Duet, the keyboard would actually magnetize to the tablet when it was closed for easier carrying and better protection of the screen. However, the other reason for that head-turning was the starting price attached to the X2 11: $600.
+
+
+***
+![Amazon Great Indian Festival: Best deals on truly wireless earphones with ANC under Rs 10,000](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2021-10-11_at_5.33._0_1200x768-original.png "Amazon Great Indian Festival: Best deals on truly wireless earphones with ANC under Rs 10,000")
+
+
+[Amazon Great Indian Festival: Best deals on truly wireless earphones with ANC under Rs 10,000](https://www.indiatoday.in/technology/news/story/amazon-great-indian-festival-best-deals-on-truly-wireless-earphones-with-anc-under-rs-10-000-1865538-2021-10-16)
+
+
+> India Today Tech New Delhi, Oct 16, 2021, Updated Oct 16, 2021, 5:29 PM IST Story highlights Amazon Great Indian Festival sale went live on October 3. Buyers can also get bank discounts, coupons, cash backs on selected products. Amazon is also offering deals and discounts on audio products including the TWS earbuds, speakers and more. Amazon Great Indian Festival sale went live on October 3. The month-long sale would continue till November 3. If you haven't bought anything from the sale, you still have a chance because Amazon is offering tons of discounts and deals on smartphones, smartwatches, tablets, laptops and other electronics appliances.
+
+
+***
+![Google Maps viewers have discovered a mysterious 'hollow island,' which has been censored. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/comp-ap-6469-google-maps.jpg "Google Maps viewers have discovered a mysterious 'hollow island,' which has been censored. » Brinkwire")
+
+
+[Google Maps viewers have discovered a mysterious 'hollow island,' which has been censored. » Brinkwire](https://en.brinkwire.com/technology/google-maps-viewers-have-discovered-a-mysterious-hollow-island-which-has-been-censored/)
+
+
+> Google Maps viewers have discovered a mysterious ‘hollow island,' which has been censored. On social media, people are wondering what a MYSTERIOUS island on Google Maps is. 'What the F*** this looks nothing like an island,' one Reddit member cried after seeing a photo of the island on a popular Google Maps thread. The small, almost triangular-shaped land mass has not been given precise coordinates. The Google Maps image provided by the worried user, on the other hand, is clear and depicts water smashing against the small location's shoreline.
+
+
+***
+[Mao Quotes on the Professional Managerial Class](https://twitter.com/logo_daedalus/status/1449204409850683394)
+
+
+> We've detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center. Help Center
+
+
+***
+![Tether to Pay $41 Million for 'Misleading' Claims That Its Fully Backed by USD](https://i.gadgets360cdn.com/large/cftc_logo_reuters_1634384863239.jpg "Tether to Pay $41 Million for 'Misleading' Claims That Its Fully Backed by USD")
+
+
+[Tether to Pay $41 Million for 'Misleading' Claims That Its Fully Backed by USD](https://gadgets.ndtv.com/cryptocurrency/news/tether-crypto-usd-backed-misleading-claims-us-cftc-charges-settlement-bitfinex-exchange-2577611)
+
+
+> Cryptocurrency Tether and crypto exchange Bitfinex will pay $42.5 million (roughly Rs. 318.4 crores) to settle civil charges from the US Commodity Futures Trading Commission (CFTC) over allegedly making misleading statements and making illegal transactions.Firms doing business as Tether agreed to pay $41 million (roughly Rs. 307.2 crores) to resolve CFTC charges they made misleading claims about Tether's cryptocurrency stablecoin, the CFTC said in a statement on Friday. According to the regulator, at various times from June 2016 to late February 2019, Tether made misleading or untrue statements about whether it held sufficient US dollar reserves to fully back up its US dollar tether token.
+
+
