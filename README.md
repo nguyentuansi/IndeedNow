@@ -15326,3 +15326,50 @@
 > Lucy flies over a Trojan asteroid in this NASA animation. NASA's Goddard Space Flight Center NASA is no stranger to the solar system's most mammoth planet, the gas giant Jupiter. Robotic explorers, like Juno, have gazed upon its Great Red Spot and analyzed its atmosphere. But in its planetary neighbourhood lies a collection of ancient rocks known as the Trojan asteroids. These rocks are fossils from the earliest era of our solar system, time capsules locked in a dance around the sun, but we've never studied them up close.
 
 
+***
+![How to watch Rami Malek host Saturday Night Live online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/rami-malek-snl-nbc.jpg "How to watch Rami Malek host Saturday Night Live online from anywhere")
+
+
+[How to watch Rami Malek host Saturday Night Live online from anywhere](https://www.androidcentral.com/how-watch-rami-malek-host-saturday-night-live-online-anywhere)
+
+
+> America's longest running late-night sketch comedy show saw a big ratings boost last week with Kim Kardashian West and now American actor Rami Malek is set to host the show for the first time and we have all the details on how you can watch Saturday Night Live on TV or online. Source: NBC After auditioning over 100 actors to play the lead character in his show Mr. Robot, Sam Esmail ended up choosing Rami Malek to fill the role of Elliott Alderson. While this was the first time that many viewers saw Malek's acting, in 2018 he went on to portray Freddie Mercury in the Queen biopic Bohemian Rhapsody.
+
+
+***
+![Designing an API Client in Rust: New Rspotify Version a Year Later](https://external-preview.redd.it/M95jL45rVy-uEwqttMaVV3haGapBvj_ftIb6kvehBDs.jpg?auto=webp&s=3b6e310898689d99a5059ab27d5b543c09dc233a "Designing an API Client in Rust: New Rspotify Version a Year Later")
+
+
+[Designing an API Client in Rust: New Rspotify Version a Year Later](https://www.reddit.com/r/programming/comments/q98w6k/designing_an_api_client_in_rust_new_rspotify/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Apple Watch Series 7 does not support fast charging in India at launch](https://images.financialexpress.com/2021/10/apple-watch-7.jpg "Apple Watch Series 7 does not support fast charging in India at launch")
+
+
+[Apple Watch Series 7 does not support fast charging in India at launch](https://www.financialexpress.com/industry/technology/apple-watch-series-7-does-not-support-fast-charging-at-launch-in-india/2350698/)
+
+
+> By: Saurabh Singh | Updated: October 16, 2021 3:07 PMApple is shipping a Magnetic Charger to USB-C Cable without fast charging with the Series 7 in India. (Photo credit: Saurabh Singh/Financial Express)One of Apple Watch Series 7's marquee feature—fast charging support—will not work right out of the box in India, Apple confirmed on Friday, same day the new Apple Watch went on sale worldwide. In a support page published on 15th October 2021, Apple notes, 'fast charging (on Apple Watch Series 7) is not available in Argentina, India, or Vietnam.
+
+
+***
+[Nokia evoked nostalgia with the re-release of classis Nokia 6310 on 20th anniversary](http://www.pinkvilla.com/tech/news/nokia-evoked-nostalgia-with-the-re-release-of-classis-nokia-6310-on-20th-anniversary-918847)
+
+
+> Attach Main technology Image: Social Media Image : Enter the Technology details: Nokia Evoked Nostalgia With the Re-Release of Classis Nokia 6310 on 20th Anniversary Nokia evoked nostalgia with the new Nokia 6310 in a new avatar. Nokia has chosen to bring back the 'nearly indestructible' 6310 mobile phone as it celebrates its 20th anniversary. The feature phone was first released in March 2001 and is recognised for its strong structure and long-lasting battery. That implies the phone has been on the market for 20 years.
+
+
+***
+![Kanidm: A simple, secure and fast identity management platform](https://repository-images.githubusercontent.com/168782501/7aea5700-66f9-11eb-83df-fbe430838fc7 "Kanidm: A simple, secure and fast identity management platform")
+
+
+[Kanidm: A simple, secure and fast identity management platform](https://github.com/kanidm/kanidm)
+
+
+> You can't perform that action at this time. You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session.
+
+
