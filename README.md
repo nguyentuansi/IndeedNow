@@ -15235,3 +15235,47 @@
 > Worried about what might happen to your Google account data when you pass away? Well, the software giant has a feature which lets you decide the same. If you are using all the services of Google such as Gmail, Maps, Search and Photos, then it means that the Google account has plenty of data about you and your habits. Some might have saved bank cards details or might be using Google Photos to preserve memories with your friends and family. Some of you might also be using Google Pay and might have stored a few important documents on Google Drive.
 
 
+***
+[Redmi Note 11 and 11 Pro 5G leaked specs and price; All you need to know about](http://www.pinkvilla.com/tech/news/redmi-note-11-and-11-pro-5g-leaked-specs-and-price-all-you-need-to-know-about-918669)
+
+
+> Attach Main technology Image: Image Caption: Redmi Note 11 and 11 Pro 5G leaked specs and price; All you need to know about Social Media Image : Enter the Technology details: Redmi is going to release the new Note 11 series smartphones in 2022. However, we have got to know several things about the device including the specs and price, thanks to leaks. If the rumours are true, then the Note 11 lineup will have two models, one is the Note 11 5G and the other one is the Note 11 Pro 5G.
+
+
+***
+![Twitch Says Source Code Exposed in Last Week's Data Breach](https://i.gadgets360cdn.com/large/twitch_reuters_1633580445972.jpg "Twitch Says Source Code Exposed in Last Week's Data Breach")
+
+
+[Twitch Says Source Code Exposed in Last Week's Data Breach](https://gadgets.ndtv.com/internet/news/twitch-hack-source-code-user-data-breach-credit-cards-streaming-keys-amazon-2577256)
+
+
+> Amazon-owned Twitch said on Friday that last week's data breach at the live streaming e-sports platform contained documents from its source code.Passwords, login credentials, full credit card numbers, and bank details of users were not accessed or exposed in the breach, Twitch said in a statement.The platform, which is used by video gamers for interacting with users while live streaming content, had blamed the breach on an error in the server configuration change.Server configuration changes are performed during server maintenance.
+
+
+***
+![GTA 6 is set for some wild new features based on this Rockstar job ad](https://www.thesun.co.uk/wp-content/uploads/2021/10/gta-trevor.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "GTA 6 is set for some wild new features based on this Rockstar job ad")
+
+
+[GTA 6 is set for some wild new features based on this Rockstar job ad](https://www.thesun.co.uk/tech/16433425/gta-6-set-for-wild-new-features/)
+
+
+> GTA 6 is still a long way off, but that hasn't stopped fans from scouring the internet for morsels of info about the game. One such crumb that could be teasing the future of the franchise has been spotted in a Rockstar job listing. Rockstar VFX Artist listing hints at possible GTA 6 features The role is for a VFX artist at the studio, and given that GTA 6 is the next title we're all anticipating, it's likely the candidate will be working on the game. Obviously this is by no means confirmed so take it with a pinch of salt, but we could be in for a treat.
+
+
+***
+![Wearable Microphone Jamming](http://sandlab.cs.uchicago.edu/jammer/imgs/NYT.jpg "Wearable Microphone Jamming")
+
+
+[Wearable Microphone Jamming](http://sandlab.cs.uchicago.edu/jammer/)
+
+
+> We engineered a wearable microphone jammer that is capable of disabling microphones in its user's surroundings, including hidden microphones. Our device is based on a recent exploit that leverages the fact that when exposed to ultrasonic noise, commodity microphones will leak the noise into the audible range. Moreover, our device exploits a synergy between ultrasonic jamming and the naturally occurring movements that users induce on their wearable devices (e.g., bracelets) as they gesture or walk.
+
+
+***
+[OPPO Reno7 May Come with 65W Charging Support and 50MP Sony IMX766 Camera; Key Specifications Leaked](http://www.pinkvilla.com/tech/news/oppo-reno7-may-come-with-65w-charging-support-and-50mp-sony-imx766-camera-key-specifications-leaked--918661)
+
+
+> Attach Main technology Image: Social Media Image : Enter the Technology details: The OPPO Reno6 series has been around for a time, and the company now appears to be working on the Reno7, its successor. In China, an OPPO phone with the model number PFDM00 recently got CMIIT certification. It's possible that it'll be the standard OPPO Reno7. According to rumours, the Reno7 series will be announced in November. A Chinese tipster has speculated about the specs of Reno7 before the planned launch.
+
+
