@@ -15617,3 +15617,50 @@
 > Kyle Chayka / New Yorker: A look at Raya, a secretive subscription-based social network with a rigorous user selection process and a rigid code of silence for accepted members — The app has created a space free of the problems that plague the rest of the Web, but only by leaving almost everybody out.
 
 
+***
+![I made and ISS data research with Python!](https://external-preview.redd.it/8O29BIqbWFoYxWcij6kDlRVG9xtU9vOAEKpIvTb2QhE.jpg?auto=webp&s=d4946ac857f264bab3839ec1b8c8d2ffe7d9e7aa "I made and ISS data research with Python!")
+
+
+[I made and ISS data research with Python!](https://www.reddit.com/r/Python/comments/q9lbmo/i_made_and_iss_data_research_with_python/)
+
+
+> Create a repository using data from an international space station API. I did a little research and put it in a readme. From that I did a bit of data analysis. For example I printed its trajectory with a plotly plot. Also estimate the station's velocity from two latitude-longitude points. This project is open source. It would be great if more people contribute!https://github.com/fpedaccio/ISS_data
+
+
+***
+![Different screens when people call?](https://images.macrumors.com/social/?t=2317297&v=6 "Different screens when people call?")
+
+
+[Different screens when people call?](https://forums.macrumors.com/threads/different-screens-when-people-call.2317297/)
+
+
+> So I noticed that I get 2 different screens when someone calls. One is a slider and the other has an answer and decline button. I looked it up and found out that its for when the phone is locked or unlocked. However, mine doesn't appear to follow this and appears to be random. I have my phone set to lock after the screen times out after a minute or if I hit the screen button to turn it off. However, whenever my phone is locked and hasn't been touched in a couple hours, I still get the accept decline buttons, the screen that it should be when unlocked, but I know it was locked.
+
+
+***
+![Social media and AI can measure the aesthetic quality of landscapes](https://external-preview.redd.it/TJU0JQfmWIEfsHu_tZv8aLsrBDO3NuPgM8lwtxNfUYU.jpg?auto=webp&s=0bb9010116b02155b2c41be37bc146f134f4b4d1 "Social media and AI can measure the aesthetic quality of landscapes")
+
+
+[Social media and AI can measure the aesthetic quality of landscapes](https://www.reddit.com/r/technology/comments/q9kzfl/social_media_and_ai_can_measure_the_aesthetic/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[Some doctors in the US and other countries say TikTok videos about Tourette syndrome may be contributing to a rise in cases of teen girls with physical tics (Julie Jargon/Wall Street Journal)](http://www.techmeme.com/211016/p9#a211016p9)
+
+
+> Julie Jargon / Wall Street Journal: Some doctors in the US and other countries say TikTok videos about Tourette syndrome may be contributing to a rise in cases of teen girls with physical tics — When teens started turning up in doctors' offices with sudden, severe physical tics, specialists suspected social media …
+
+
+***
+![A Few Things To Know: Google Looks To Apply Core Competencies In Financial Services](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/pexels-photo-6963740.jpeg "A Few Things To Know: Google Looks To Apply Core Competencies In Financial Services")
+
+
+[A Few Things To Know: Google Looks To Apply Core Competencies In Financial Services](https://www.benzinga.com/fintech/21/10/23347371/a-few-things-to-know-google-looks-to-apply-core-competencies-in-financial-services)
+
+
+> Fintech is one of the 'enormous competitive threats' facing banks. That's what JPMorgan Chase & Co's (NYSE: JPM) Jamie Dimon said months ago in response to an accelerated digital disruption in finance, a result of the pandemic. Amongst the fintechs building easy-to-use, fast, and smart digital banking solutions is Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: GOOG), an atypical player in the market given that the firm is more of a technology company with core competencies rather than a financial services company.
+
+
