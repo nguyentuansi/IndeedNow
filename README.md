@@ -15420,3 +15420,53 @@
 > Cryptocurrency Tether and crypto exchange Bitfinex will pay $42.5 million (roughly Rs. 318.4 crores) to settle civil charges from the US Commodity Futures Trading Commission (CFTC) over allegedly making misleading statements and making illegal transactions.Firms doing business as Tether agreed to pay $41 million (roughly Rs. 307.2 crores) to resolve CFTC charges they made misleading claims about Tether's cryptocurrency stablecoin, the CFTC said in a statement on Friday. According to the regulator, at various times from June 2016 to late February 2019, Tether made misleading or untrue statements about whether it held sufficient US dollar reserves to fully back up its US dollar tether token.
 
 
+***
+![Solar Desalination Device Will Turn Sea Water Into Fresh Water For 400,000 People](https://im.indiatimes.in/content/2021/Oct/Social-image-11_616aab1a86362.jpg "Solar Desalination Device Will Turn Sea Water Into Fresh Water For 400,000 People")
+
+
+[Solar Desalination Device Will Turn Sea Water Into Fresh Water For 400,000 People](https://www.indiatimes.com/technology/news/solar-desalination-device-will-turn-sea-water-into-fresh-water-for-400000-people-551800.html)
+
+
+> With freshwater in crunch and global warming's dangers to water bodies, the need of the hour is to develop robust desalination methods to avert a water crisis.While a complete and perfect desalination technique may not exist yet, a Finnish company has come very close to desalinating ocean water, which amounts for 96.5 per cent of all water on Earth. Solar Water SolutionsEffective desalination The new method by Solar Water Solutions (SWS) developed a unique method to desalinate water. It has zero operational costs, no emissions and desalinates water without polluting the environment.
+
+
+***
+![We might see the Apple AirPods 3 finally launch on October 18](https://cdn.mos.cms.futurecdn.net/iPatzGwZCdgTcAcN3yDd9R-1200-80.jpg "We might see the Apple AirPods 3 finally launch on October 18")
+
+
+[We might see the Apple AirPods 3 finally launch on October 18](https://www.techradar.com/news/we-might-see-the-apple-airpods-3-finally-launch-on-october-18)
+
+
+> The 2019 Apple AirPods. (Image credit: Shutterstock) We've been waiting for the Apple AirPods 3 for quite a while now, but it seems as though we might at last get to see them on Monday, October 18 – that's when Apple has scheduled a launch event that is widely tipped to be for new MacBook Pros.According to industry analyst Dan Ives (via MacRumors), it won't just be new laptops that we see at the event, which is being held virtually: we'll also get a new version of Apple's wireless earbuds, which were last updated back in 2019.
+
+
+***
+![The best wireless car charger and mount for 2021](https://www.cnet.com/a/img/7KFHwI5vceyRux5srr8OsRv6Thc=/1200x630/2021/05/06/1f85b8a3-1092-4b22-9e36-e9f9e5f6f26e/aukey-wireless-car-charger-10w-qi-fast-charging-air-vent-car-phone-mount.png "The best wireless car charger and mount for 2021")
+
+
+[The best wireless car charger and mount for 2021](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/)
+
+
+> A wireless charging pad for your iPhone or Android phone might be a staple in your office or home, but it can also be a useful tool to mount inside your car. Even the best wireless car charger isn't a totally wireless experience -- the charging dock requires power and a cable that plugs into your car's cigarette lighter or USB port -- but a wireless charging car mount is convenient when you don't want to have to plug cable into your phone every time you get in the car. Further, wireless charging technology is improving all the time, and wireless charging speed is faster than ever.
+
+
+***
+![What happens to your life stories if you delete your Facebook account?](https://www.krqe.com/wp-content/uploads/sites/12/2021/10/06406e7db77c41b9a7fcba3772d1787b.jpg?w=1280 "What happens to your life stories if you delete your Facebook account?")
+
+
+[What happens to your life stories if you delete your Facebook account?](https://www.krqe.com/news/technology/what-happens-to-your-life-stories-if-you-delete-your-facebook-account/)
+
+
+> (THE CONVERSATION) – If the latest deluge of Facebook controversies has you ready to kick the app to the digital curb, you are not alone. There are plenty of good guides out there on how to do it right. Even Facebook makes it pretty easy to understand the nuances of saying 'see ya later' (deactivating) or 'never speak to me again' (deleting). But before you go, you might want to consider this: What happens to your life stories? For many people, a decade or more of updates, comments, photos, messages, tags, pokes, groups, and reactions reside inside that particular digital sphere.
+
+
+***
+!['Squid Game' and the ‘untranslatable': The debate around subtitles explained](https://helios-i.mashable.com/imagery/articles/00yvZuUPIgn8YSnrCEIXQmN/hero-image.fill.size_1200x675.v1634391307.png "'Squid Game' and the ‘untranslatable': The debate around subtitles explained")
+
+
+['Squid Game' and the ‘untranslatable': The debate around subtitles explained](https://theconversation.com/squid-game-and-the-untranslatable-the-debate-around-subtitles-explained-169931)
+
+
+> This post was originally published in The Conversation. There is no question that Squid Game has become a global sensation. Since its release, the nine-episode survival drama has topped Netflix's charts in 90 countries and is poised to become the most-watched show in Netflix history.As the global popularity of the Korean thriller continues to grow, there have been debates over the quality of the English subtitle translation, particularly on social media. Many people who claim to be English-Korean bilinguals argue the translation does not do justice to the brilliantly written stories, clever dialogue and script.
+
+
