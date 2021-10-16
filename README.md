@@ -15570,3 +15570,50 @@
 > (Image credit: DC Comics/Dwayne Johnson/Boss Logic) DC has revealed a first look at the long-awaited Black Adam, starring Dwayne Johnson, at its FanDome 2021 event. It's rather Tomb Raider-y in feel, and shows Johnson's character – who's closely connected with Shazam in the DC comics – being unleashed for the first time.Check out a first look at the scene below, as well as some behind-the-scenes insight from Pierce Brosnan (who plays Doctor Fate in the film) among other members of the cast:Ladies & gents…Enjoy your WORLD EXCLUSIVE first look⚡️He is ruthless.
 
 
+***
+![Review: The Outer World's latest murder mystery is a brilliant send-off](https://imageresizer.static9.net.au/mUgA2oohQYXcW8m6wPjte2_70No=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F806efe88-6b27-40f4-baad-ce00d65571e0 "Review: The Outer World's latest murder mystery is a brilliant send-off")
+
+
+[Review: The Outer World's latest murder mystery is a brilliant send-off](https://www.9news.com.au/technology/video-game-review-the-outer-worlds-murder-on-eridanos/d6b68165-dcd9-45ca-a606-b8a043f3092a)
+
+
+> Your web browser is no longer supported. To improve your experience update it hereThe Outer Worlds has been buzzing with success since its initial release in 2019, and with the announcement of The Outer Worlds 2, it's final expansion had a lot to live up to.It wreaks of the Fallout franchise, but there's a good reason for that - it was created by the team that bought you fan favourite, Fallout New: Vegas (2010).And although the initial DLC was released in March, it only came to Nintendo Switch a few weeks back - which always seems to be the case with these things.
+
+
+***
+![Aquaman and the Lost Kingdom First Look Unveiled at DC FanDome](https://i.gadgets360cdn.com/large/jason_momoa_james_wan_aquaman_2_yt_screengrab_1634414278979.jpg "Aquaman and the Lost Kingdom First Look Unveiled at DC FanDome")
+
+
+[Aquaman and the Lost Kingdom First Look Unveiled at DC FanDome](https://gadgets.ndtv.com/entertainment/news/aquaman-2-movie-teaser-jason-momoa-dc-fandome-lost-kingdom-behind-the-scenes-amber-heard-2577895)
+
+
+> Aquaman is back. Jason Momoa unveiled a behind-the-scenes look at Aquaman and the Lost Kingdom, the first major DC Extended Universe superhero sequel since last year's Wonder Woman 1984. The teaser primarily features director James Wan's take on the film's shooting and the overall vision of the Aquaman franchise. Fans also got a glimpse of titular star Jason Momoa in action, alongside Amber Heard, Yahya Abdul-Mateen II, and Patrick Wilson. Aquaman and the Lost Kingdom is slated to release on December 16, 2022.
+
+
+***
+![This Is How Tech People Talk About How Much They Get Paid](https://cdn.digg.com/wp-content/uploads/2021/10/16193905/tech-guy.png "This Is How Tech People Talk About How Much They Get Paid")
+
+
+[This Is How Tech People Talk About How Much They Get Paid](https://digg.com/2021/this-is-how-tech-people-talk-about-how-much-they-get-paid)
+
+
+> Matt Damon and Ben Affleck's new collaboration with Ridley Scott misses what's important about the famous 14th-century rape case. In a unearthed CNN interview with Larry King from 1990, George Carlin gives his opinion on Andrew Dice Clay and comedy that targets vulnerable groups and people. Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. 'HOW DO PEOPLE LIVE ON THIS?' This guy and "Broke Bobby" have a lot in common.
+
+
+***
+![Google Just Gave Millions Of Users A Reason To Quit Chrome](https://external-preview.redd.it/R3k6U4jLVvMh3nnhwKZhOMBuRbGZovqXAQ5IAP0ydo8.jpg?auto=webp&s=0afc08338831a277166e71bd7e17e16f6695d351 "Google Just Gave Millions Of Users A Reason To Quit Chrome")
+
+
+[Google Just Gave Millions Of Users A Reason To Quit Chrome](https://www.reddit.com/r/technology/comments/q9iss1/google_just_gave_millions_of_users_a_reason_to/)
+
+
+> WARNING! The link in question may require you to disable ad-blockers to see content. Though not required, please consider submitting an alternative source for this story.WARNING! Disabling your ad blocker may open you up to malware infections, malicious cookies and can expose you to unwanted tracker networks. PROCEED WITH CAUTION.Do not open any files which are automatically downloaded, and do not enter personal information on any page you do not trust. If you are concerned about tracking, consider opening the page in an incognito window, and verify that your browser is sending "do not track" requests.
+
+
+***
+[A look at Raya, a secretive subscription-based social network with a rigorous user selection process and a rigid code of silence for accepted members (Kyle Chayka/New Yorker)](http://www.techmeme.com/211016/p8#a211016p8)
+
+
+> Kyle Chayka / New Yorker: A look at Raya, a secretive subscription-based social network with a rigorous user selection process and a rigid code of silence for accepted members — The app has created a space free of the problems that plague the rest of the Web, but only by leaving almost everybody out.
+
+
