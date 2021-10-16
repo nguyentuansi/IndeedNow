@@ -15520,3 +15520,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+![This Week in Apps: Apple appeals Epic Games suit, Google files a counterclaim and Twitter adds more ads – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753 "This Week in Apps: Apple appeals Epic Games suit, Google files a counterclaim and Twitter adds more ads – TechCrunch")
+
+
+[This Week in Apps: Apple appeals Epic Games suit, Google files a counterclaim and Twitter adds more ads – TechCrunch](https://techcrunch.com/2021/10/16/this-week-in-apps-apple-appeals-epic-games-suit-google-files-a-counterclaim-and-twitter-adds-more-ads/)
+
+
+> Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consumer spend in 2020. Consumers last year also spent 3.5 trillion minutes using apps on Android devices alone. And in the U.S., app usage surged ahead of the time spent watching live TV. Currently, the average American watches 3.7 hours of live TV per day, but now spends four hours per day on their mobile devices.
+
+
+***
+![Until 6th of November enroll in Google Cloud Courses, Professional certs and specializations for FREE on Coursera](https://external-preview.redd.it/FWr62Wp99S1NKalMHZ8CJrvFiIbsV8sLRaXvLt2FvhA.jpg?auto=webp&s=c70a79617cac33a0d5afafddae24698863677c58 "Until 6th of November enroll in Google Cloud Courses, Professional certs and specializations for FREE on Coursera")
+
+
+[Until 6th of November enroll in Google Cloud Courses, Professional certs and specializations for FREE on Coursera](https://www.reddit.com/r/programming/comments/q9h00b/until_6th_of_november_enroll_in_google_cloud/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![An Intro to Reinforcement Learning for Beginners in Python 🐍 (Open AI Gym)](https://external-preview.redd.it/uiv0iw73Szf4MWC8y9SY5cLk2dX4lWSblBRqTORjHWw.jpg?auto=webp&s=5d6491837a999d944b703823eccc2241fcc64cf8 "An Intro to Reinforcement Learning for Beginners in Python 🐍 (Open AI Gym)")
+
+
+[An Intro to Reinforcement Learning for Beginners in Python 🐍 (Open AI Gym)](https://www.reddit.com/r/programming/comments/q9gp2w/an_intro_to_reinforcement_learning_for_beginners/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Twitch Assures Users That No Passwords or Login Credentials Were Leaked Following Massive Hack, Saying They Are "Confident." » Brinkwire](https://1734811051.rsc.cdn77.org/data/images/full/394437/twitch-assures-users-that-no-passwords-or-login-credentials-leaked-after-massive-hack-expressing-that-they-are-confident.jpg "Twitch Assures Users That No Passwords or Login Credentials Were Leaked Following Massive Hack, Saying They Are "Confident." » Brinkwire")
+
+
+[Twitch Assures Users That No Passwords or Login Credentials Were Leaked Following Massive Hack, Saying They Are "Confident." » Brinkwire](https://en.brinkwire.com/technology/twitch-assures-users-that-no-passwords-or-login-credentials-were-leaked-following-massive-hack-saying-they-are-confident/)
+
+
+> (Photo : Image from Unsplash Website) Twitch Assures Users that No Passwords or Login Credentials Leaked After Massive Hack Expressing That They are ‘Confident'After a recent massive hack on Twitch, the company now expresses that it is 'confident' that no user passwords or login credentials were leaked. The massive hack drew headlines while Twitch is investigating what happened.Twitch Releases Statement on BreachTwitch has just recently revealed a brand new statement that denies the severity of a breach that took place some time earlier this October 2021.
+
+
+***
+![Black Adam first teaser brings The Rock into the DC Universe](https://cdn.mos.cms.futurecdn.net/fD6JjEVyDyxsamBzaFPFcA-1200-80.jpg "Black Adam first teaser brings The Rock into the DC Universe")
+
+
+[Black Adam first teaser brings The Rock into the DC Universe](https://www.techradar.com/news/black-adam-first-teaser-brings-the-rock-into-the-dc-universe)
+
+
+> (Image credit: DC Comics/Dwayne Johnson/Boss Logic) DC has revealed a first look at the long-awaited Black Adam, starring Dwayne Johnson, at its FanDome 2021 event. It's rather Tomb Raider-y in feel, and shows Johnson's character – who's closely connected with Shazam in the DC comics – being unleashed for the first time.Check out a first look at the scene below, as well as some behind-the-scenes insight from Pierce Brosnan (who plays Doctor Fate in the film) among other members of the cast:Ladies & gents…Enjoy your WORLD EXCLUSIVE first look⚡️He is ruthless.
+
+
