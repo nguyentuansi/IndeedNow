@@ -15107,3 +15107,40 @@
 > There are loads of different gaming keyboards out there and the best ones come from a wide range of different brands. Though it's highly likely that you may already be familiar with which brands those are.If you're not sure gaming keyboards are the best to choose from or you just aren't sure what to really go for, then this list can help.We've put together ten of the best gaming keyboards on the market that you can get your hands on. All of them have something valuable to offer and will cater to a range of different tastes.
 
 
+***
+![Phone Comparisons: Apple iPhone 13 Mini vs Google Pixel 5](https://www.androidheadlines.com/wp-content/uploads/2021/10/AH-Apple-iPhone-13-Mini-vs-Google-Pixel-5-comparison.jpg "Phone Comparisons: Apple iPhone 13 Mini vs Google Pixel 5")
+
+
+[Phone Comparisons: Apple iPhone 13 Mini vs Google Pixel 5](https://www.androidheadlines.com/phone-comparisons-apple-iphone-13-mini-vs-google-pixel-5)
+
+
+> The Apple iPhone 13 Mini vs Google Pixel 5 comparison is upon us. Some of you may wonder why are we even comparing these two phones, as they're considerably different. Well, the Pixel 5 is, at the time of writing this article, Google's latest and greatest. At the same time, it's also considered to be rather compact compared to other flagships. The iPhone 13 Mini, on the other hand, is a really petite smartphone, that is extremely powerful. So, it makes sense to compare them.It is worth noting that the iPhone 13 Mini is considerably smaller than the Pixel 5, so that actually says a lot about how petite it is.
+
+
+***
+![Medicare sign-up is open – And phone scams are out of control](https://www.komando.com/wp-content/uploads/2021/10/Medicare-scams-970x546.jpg "Medicare sign-up is open – And phone scams are out of control")
+
+
+[Medicare sign-up is open – And phone scams are out of control](https://www.komando.com/security-privacy/medicare-phone-scams/812422/)
+
+
+> If you or a loved one is eligible for Medicare, beware. Enrollment is now open, and scammers are out in full force.
+
+
+***
+![Elon Musk's Starlink to provide half-gigabit internet connectivity to airlines](https://external-preview.redd.it/Z649GOzUyDJyC6L4FPIPsdz2ayF11s4w3isyqpSMHYs.jpg?auto=webp&s=ed5dd5bec948d2adc4e56924f3eaadf48d4b668e "Elon Musk's Starlink to provide half-gigabit internet connectivity to airlines")
+
+
+[Elon Musk's Starlink to provide half-gigabit internet connectivity to airlines](https://www.reddit.com/r/technology/comments/q90kvz/elon_musks_starlink_to_provide_halfgigabit/)
+
+
+> I never use internet while flying, but it's a cool feature none-the-less! Used it once with a free hour from T-Mobile and, while it did work, it kinda sucked.
+
+
+***
+[1on1 mentoring](https://www.reddit.com/r/Python/comments/q90g91/1on1_mentoring/)
+
+
+> Does anyone know how I can get mentorship? Recommend people or platforms? I've been a data scientist for 5 years now and every time I'm tasked with something more technical it's a big challenge. I would like someone that could help me give the first steps into contributing to open source projects. Let me watch how he thinks, solves problems, decision making over several options and tooling, testing, debugging... and give me tasks for me to contribute to open source (something that would be at my level) and discuss my solution with.
+
+
