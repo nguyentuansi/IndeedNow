@@ -16079,3 +16079,53 @@
 > Why it matters: Google recently introduced continuous scrolling, providing mobile users with enhanced access to information and search results. The new feature will let mobile users scroll through results rather than having to tap for the next set. The addition follows Google's mobile search redesign, which rolled out earlier this year, to provide users with a cleaner, more focused search experience. On Thursday, Google Search Product Manager Niru Anand announced the company's rollout of continuous scrolling functionality for U.
 
 
+***
+![Watching Blu-ray movies on Mac is pretty sweet with one of these drives](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/08/sea-tech.jpg "Watching Blu-ray movies on Mac is pretty sweet with one of these drives")
+
+
+[Watching Blu-ray movies on Mac is pretty sweet with one of these drives](https://www.imore.com/best-blu-ray-drives-mac)
+
+
+> Best Blu-ray drives for Mac iMore 2021 Blu-ray discs are the gold standard in physical video formats right now. You probably have a decent Blu-ray collection of your favorite movies, but without one of the best mac Blu-ray drives, you can't play them on macOS Big Sur. But Blu-rays aren't just great for movies; they're also great as storage devices for backups or other relevant data. If you want to play, read, or write Blu-ray discs with your Mac, you're going to need to start with an excellent Blu-ray drive and one of the best USB-C hubs so you can plug the drive into your Mac.
+
+
+***
+![Common has signed on to star alongside Rebecca Ferguson in 'Wool'](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/03/apple-introduces-apple-tv-plus-03252019.jpg "Common has signed on to star alongside Rebecca Ferguson in 'Wool'")
+
+
+[Common has signed on to star alongside Rebecca Ferguson in 'Wool'](https://www.imore.com/common-has-signed-star-alongside-rebecca-ferguson-wool)
+
+
+> We may earn a commission for purchases using our links. Learn more. New cast member Apple continues to ready its dystopian trilogy. 17 Oct 2021 Source: Apple Common has signed on to star in "Wool." The upcoming dystopian drama will star Rebecca Ferguson. Apple has made a straight-to-series order for the new show. Common is set to make his Apple TV+ debut in a new series. As reported by The Hollywood Reporter, rapper and actor Common has signed on to star alongside Rebecca Ferguson in the upcoming drama series "Wool.
+
+
+***
+![Opinion](https://external-preview.redd.it/asJpZCunzY_BxVvODBj742a09TCoHtFzwjbiH4XFxLM.jpg?auto=webp&s=c38a8a970d2c55d508ba6ffd59be98678f219102 "Opinion")
+
+
+[Opinion](https://www.reddit.com/r/technology/comments/qa3pd3/opinion_for_uber_and_lyft_the_rideshare_bubble/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Tactical Programming vs Strategic Programming](https://external-preview.redd.it/2Go6hAtCjMY6ra0gja5jD9Ydrw4jWQc9YOtNyU7oYnY.jpg?auto=webp&s=57bf52188f3cd37f2b4c1226dfa7be3cacb4783a "Tactical Programming vs Strategic Programming")
+
+
+[Tactical Programming vs Strategic Programming](https://www.reddit.com/r/programming/comments/qa3hmx/tactical_programming_vs_strategic_programming/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Enpal closes out Series C with $174M from SoftBank for tech to make it easier for homeowners to make the switch to solar energy – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/enpal-solar.jpg?w=604 "Enpal closes out Series C with $174M from SoftBank for tech to make it easier for homeowners to make the switch to solar energy – TechCrunch")
+
+
+[Enpal closes out Series C with $174M from SoftBank for tech to make it easier for homeowners to make the switch to solar energy – TechCrunch](https://techcrunch.com/2021/10/17/enpal-closes-out-series-c-with-174m-from-softbank-for-tech-to-make-it-easier-for-homeowners-to-make-the-switch-to-solar-energy/)
+
+
+> One of the gating factors for getting more homeowners to make the switch to solar energy has been that solar, as a business, is hard one to get right, with many a company failing when they've been unable to strike the right balance between the technology working as it should, provisioning services in a cost-effective way, providing good customer service, and handling their own overhead. Today, a startup that believes it has squared some of these problems away is announcing a big funding round as it gears up for growth.
+
+
