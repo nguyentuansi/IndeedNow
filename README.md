@@ -16129,3 +16129,47 @@
 > One of the gating factors for getting more homeowners to make the switch to solar energy has been that solar, as a business, is hard one to get right, with many a company failing when they've been unable to strike the right balance between the technology working as it should, provisioning services in a cost-effective way, providing good customer service, and handling their own overhead. Today, a startup that believes it has squared some of these problems away is announcing a big funding round as it gears up for growth.
 
 
+***
+![Apple's privacy changes create windfall for its own advertising business](https://external-preview.redd.it/ip62d2gjdf36lqg2fOg1LwG8nMx7AUpI9onNhDImFZo.jpg?auto=webp&s=fd1dab6bb78bef150c21df28a6bd36bc501d0fb4 "Apple's privacy changes create windfall for its own advertising business")
+
+
+[Apple's privacy changes create windfall for its own advertising business](https://www.reddit.com/r/technology/comments/qa69ob/apples_privacy_changes_create_windfall_for_its/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[What to expect from Apple's Unleashed event on Monday: 14-inch and 16-inch MacBook Pros with mini-LED, AirPods 3, redesigned Mac mini, and macOS Monterey launch (Juli Clover/MacRumors)](http://www.techmeme.com/211017/p10#a211017p10)
+
+
+> Juli Clover / MacRumors: What to expect from Apple's Unleashed event on Monday: 14-inch and 16-inch MacBook Pros with mini-LED, AirPods 3, redesigned Mac mini, and macOS Monterey launch — Apple's first fall event of 2021 focused on the iPhone and the Apple Watch, but the second, set to be held on Monday, October 18, is expected to be Mac-centric.
+
+
+***
+[The potential for personal knowledge management to be used with XR technology such as MR smart glasses](https://www.reddit.com/r/technology/comments/qa65h5/the_potential_for_personal_knowledge_management/)
+
+
+> Smart glasses are going to be gaining in popularity within the next few years. I'm not talking about chunky headsets that make you look like a cyborg; we'll soon have actual glasses that are sleek enough that you would be comfortable with wearing in public. Vuzix's Next-Gen Smart Glasses are a good example of what's soon to come. Everything that you regularly do on your smartphone can be done hands-free1, and can be translucently displayed around the world and life surrounding you, instead of a static opaque screen.
+
+
+***
+![Teamviewer says CFO to quit next year](https://www.reuters.com/resizer/slPBoaY_12MVHpRO546bAv80eBs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XXGGL77VZFK4ZGQTYNFHGKWLXQ.jpg "Teamviewer says CFO to quit next year")
+
+
+[Teamviewer says CFO to quit next year](https://www.reuters.com/technology/teamviewer-says-cfo-quit-next-year-2021-10-17/)
+
+
+> Oliver Steil, Chief Executive Officer of software company TeamViewer AG and Stefan Gaiser, Chief Financial Officer of TeamViewer attend TeamViewer's initial public offering (IPO) at the Frankfurt Stock Exchange in Frankfurt, Germany, September 25, 2019. REUTERS/Ralph OrlowskiFRANKFURT, Oct 17 (Reuters) - TeamViewer (TMV.DE), a German software development firm that cut its full-year earnings guidance this month, said finance chief Stefan Gaiser's contract would not be renewed when it expires next year.
+
+
+***
+![Images not loading for me](https://forums.macrumors.com/attachments/80ac1454-b3a0-4e36-9be6-a84b02798796-jpeg.1868729/ "Images not loading for me")
+
+
+[Images not loading for me](https://forums.macrumors.com/threads/images-not-loading-for-me.2317403/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
