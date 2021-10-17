@@ -15982,3 +15982,50 @@
 > Oct 15, 2014 7,855 2,740 East of Eden Before I say anything else, I want to say that (1) this is not a big deal for me and (2) I am highly confident that Apple will get this sorted out ASAP, probably this week, maybe even in the first half of the week. With that said... There's an oddity in WatchOS 8 on the Series 7 45mm watch. Some app icons are not showing up in the grid or list app view. I've posted two examples below (Carrot weather and Fantastical; Things3 does the same). In list view it's really not an issue at all, at least for the short term, because the app name is still visible.
 
 
+***
+![The 10 Best TVs We've Tested (and Helpful Buying Tips)](https://media.wired.com/photos/5f99f62eed97b6b30c26618a/191:100/w_2580,c_limit/Gear-TCL-6-Series-2020-SOURCE-TCL-2.jpg "The 10 Best TVs We've Tested (and Helpful Buying Tips)")
+
+
+[The 10 Best TVs We've Tested (and Helpful Buying Tips)](https://www.wired.com/gallery/best-tvs/)
+
+
+> From LCDs to fancy OLED models, these are our favorite televisions at every price point.Save this story for later.Saving up for a new screen? To help you navigate the dozens of seemingly identical TV models from Samsung, LG, Vizio, TCL, Sony, and other manufacturers, we've watched hundreds of hours of content on them and picked a few of our favorites. We've listed everything from the best budget TV to the absolute best set you can buy—and a few excellent choices in between.Unless labeled otherwise, every TV we link to is 55 inches.
+
+
+***
+![Our favorite casual Android games can be enjoyed by anyone](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2017/06/casual-games-super-mario-run-hero-.jpg "Our favorite casual Android games can be enjoyed by anyone")
+
+
+[Our favorite casual Android games can be enjoyed by anyone](https://www.androidcentral.com/best-casual-games-android)
+
+
+> Source: Marc Lagace / Android Central Not everyone wants to commit hours of their day to playing games on their phones. That's why casual games exist! These games have proven wildly successful, championed by iconic mobile games such as Angry Birds and Candy Crush Saga. They're designed to be played on the go and at your own pace — as laid back or competitive as you want. Most casual games are free, offering in-app purchases and some ads. Some may cost you a dollar or two, but they're worth it. We've collected some of our favorites from the past, along with some newer games that are great to keep on your phone for a little gaming break during your day.
+
+
+***
+[Create a python program that will show the entry word as well as the word's color](https://www.reddit.com/r/Python/comments/q9z7jp/create_a_python_program_that_will_show_the_entry/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![SAP opens its doors to host the Effect innovation experience](https://itwire.com/media/k2/items/cache/97353446ec755413c147d41f78fe7d72_XS.jpg "SAP opens its doors to host the Effect innovation experience")
+
+
+[SAP opens its doors to host the Effect innovation experience](https://itwire.com/guest-articles/guest-events/sap-opens-its-doors-to-host-the-effect-innovation-experience.html)
+
+
+> EVENT INVITATION: SAP is opening the doors of its offices to invite you to share, create, listen, connect, and grow during its Effect innovation experience. Effect is SAP's innovation experience to drive the intersection of creativity, culture, collaboration, and people. The experience brings together homegrown and global innovators, taking you on a journey where you'll meet the creators and makers, and learn how insights can be turned into effective actions. You can register online here. The ev
+
+
+***
+![NASA is studying how to build a Wi-Fi network on the moon in the hopes it could also solve Earth's digital divide](https://external-preview.redd.it/TBkVpNOVeKo3C31VfxX32S2niZn2iqRBUsHe5ezVEl0.jpg?auto=webp&s=ab567fa079cb0d27a25fece406ffeac7ffd5761c "NASA is studying how to build a Wi-Fi network on the moon in the hopes it could also solve Earth's digital divide")
+
+
+[NASA is studying how to build a Wi-Fi network on the moon in the hopes it could also solve Earth's digital divide](https://www.reddit.com/r/technology/comments/q9yvzg/nasa_is_studying_how_to_build_a_wifi_network_on/)
+
+
+> No body in the article.
+
+
