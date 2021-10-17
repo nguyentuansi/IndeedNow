@@ -15882,3 +15882,53 @@
 > Korea Development Bank Chairman Lee Dong-gull speaks at a government audit held at the National Assembly, Friday. Korea Times photo by Bae Woo-hanBy Kim Hyun-binState-run Korea Development Bank (KDB) and Hyundai Heavy Industries (HHI) have encountered major hurdles in the shipbuilder's acquisition of rival Daewoo Shipbuilding & Marine Engineering (DSME) because of pending approval from foreign antitrust regulators and mounting opposition from DSME's labor union. Unfazed by such challenges, the state-run bank, also the largest shareholder of DSME, said it plans to push ahead with the deal as scheduled, while aiming to receive all necessary approvals by the end of this year.
 
 
+***
+![MacOS Monterey: How to tell if your computer is compatible with Apple's new OS](https://www.cnet.com/a/img/3sYidV10D2Hws393SjoU-x-R9Bc=/1200x630/2021/06/04/6ddde02c-dd34-44c1-b8e4-353514604765/m1-13-inch-macbook-air-shankland.jpg "MacOS Monterey: How to tell if your computer is compatible with Apple's new OS")
+
+
+[MacOS Monterey: How to tell if your computer is compatible with Apple's new OS](https://www.cnet.com/tech/computing/macos-monterey-how-to-tell-if-your-computer-is-compatible-with-apples-new-os/)
+
+
+> Apple's 2020 13-inch MacBook Air will work with MacOS Monterey. Stephen Shankland/CNET Apple's newest Mac operating system, MacOS Monterey (also known as MacOS 12) is available to download as a public beta (here's how to download the MacOS Monterey public beta). First unveiled at Apple's Worldwide Developers Conference in early June, MacOS Monterey includes new features like Universal Control, AirPlay and a bunch of the same updates coming to iOS 15, like spatial audio in FaceTime. And we should learn the official release date at Apple's Monday event.
+
+
+***
+!['This PC can't run Windows 11' error: How to fix the problem with TPM and Secure Boot](https://www.cnet.com/a/img/JWb-2Dv0cpU6T_yq1Dwe-U8NryY=/1200x630/2021/10/04/ed59e244-502e-4250-81eb-30ea2fd212e6/acer-aspire-vero-15.jpg "'This PC can't run Windows 11' error: How to fix the problem with TPM and Secure Boot")
+
+
+['This PC can't run Windows 11' error: How to fix the problem with TPM and Secure Boot](https://www.cnet.com/tech/computing/this-pc-cant-run-windows-11-error-how-to-fix-the-problem-with-tpm-and-secure-boot/)
+
+
+> If you saw that your PC is not compatible with Windows 11, it may be because your system doesn't have two security settings turned on, Secure Boot and TPM 2.0. Here's how to do it. Sarah Tew/CNET Microsoft started a phased rollout of Windows 11 this month. But you probably won't get Windows 11 just yet. If you're planning on downloading the new OS on your existing PC, you might run into some speed bumps due to the system requirements for the new operating system. (Here's how to download Windows 11 and how to create a Windows 11 install drive.
+
+
+***
+![The unexpected benefits of playing video games at work](https://external-preview.redd.it/JBAmNzHe_xPmUmVrwk7TWXX1f_hKpKJJQQo9-VmNdfg.jpg?auto=webp&s=d4f966431a0bf1c0f60af088fa69050c27302895 "The unexpected benefits of playing video games at work")
+
+
+[The unexpected benefits of playing video games at work](https://www.reddit.com/r/technology/comments/q9vk60/the_unexpected_benefits_of_playing_video_games_at/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Tencent increasing investments in Korea amid China regulation](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/203a2064ff964295a3352c368666f03b.jpg "Tencent increasing investments in Korea amid China regulation")
+
+
+[Tencent increasing investments in Korea amid China regulation](https://www.koreatimes.co.kr/www/tech/2021/10/134_317152.html)
+
+
+> People pass by Tencent's headquarters in Guangdong, China, on July 12. AFP-YonhapBy Kim Jae-heunChina's IT giant Tencent is investing more into the Korean game sector amid the Chinese government's continued regulation on its game industry.According to local investment banking industry sources, Tencent participated in the latest share-issuing round organized by NXN. The amount NXN invested was unknown. However, Tencent was said to have assessed NXN's equity value at over 100 billion won.NXN was founded by Yoo Seok-ho, a former Nexon executive who managed the development of "Reven," the mega-hit action role-playing game (RPG).
+
+
+***
+![We could get a Nothing phone from ex-OnePlus co-founder in 2022](https://cdn.mos.cms.futurecdn.net/9KUUahH5uVYu3YfMtNezdf-1200-80.jpg "We could get a Nothing phone from ex-OnePlus co-founder in 2022")
+
+
+[We could get a Nothing phone from ex-OnePlus co-founder in 2022](https://www.techradar.com/news/we-could-get-a-nothing-phone-from-ex-oneplus-co-founder-in-2022)
+
+
+> The Nothing Ear (1) wireless earbuds. (Image credit: Aakash Jhaveri) When Carl Pei left the OnePlus company he co-founded, the talk was that a phone would eventually emerge out of his new project – and that now seems likelier than ever, with a Nothing smartphone rumored for 2022, following on from the Nothing Ear (1) wireless earbuds we've already seen.That's as per a report from 91mobiles, passing on a tip from well-known leaker Mukul Sharma about the existence of the Nothing phone. It's scheduled to launch early in 2022 apparently, so we don't have long to wait to see it.
+
+
