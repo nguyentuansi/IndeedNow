@@ -15788,3 +15788,47 @@
 > Eliot Brown / Wall Street Journal: Analysis: median CEO pay of US tech startups that went public in 2020 was $21.9M; seven of the 10 best-paid CEOs of US public companies were from such startups — Startup creators once tended to take little or no remuneration as CEOs. Now, some are getting giant stock awards …
 
 
+***
+[Internal document: Netflix estimates Squid Game will create almost $900M in value for the company; 87M viewers have finished the series in the first 23 days (Lucas Shaw/Bloomberg)](http://www.techmeme.com/211017/p2#a211017p2)
+
+
+> Lucas Shaw / Bloomberg: Internal document: Netflix estimates Squid Game will create almost $900M in value for the company; 87M viewers have finished the series in the first 23 days — More than 130 million people have watched the Korean show — Netflix estimates that its latest megahit, “Squid Game,” …
+
+
+***
+!['Public opinion has altered,' according to drivers, who prefer 'fairer' road pricing to auto taxes. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/motorway-uk-road-pricing-fuel-duty-car-tax-road-tax-1506394.jpg "'Public opinion has altered,' according to drivers, who prefer 'fairer' road pricing to auto taxes. » Brinkwire")
+
+
+['Public opinion has altered,' according to drivers, who prefer 'fairer' road pricing to auto taxes. » Brinkwire](https://en.brinkwire.com/technology/public-opinion-has-altered-according-to-drivers-who-prefer-fairer-road-pricing-to-auto-taxes/)
+
+
+> ‘Public opinion has altered,' according to drivers, who prefer ‘fairer' road pricing to auto taxes.According to new data, drivers would choose a new system of road pricing over the 'unfair' fuel and car levies.According to recent research from the Social Market Foundation, drivers are more likely to support road pricing than to oppose it. Road pricing is a method of charging drivers for their use of the roads, with those who drive more frequently paying a higher fee than those who do not.As ministers draft new plans to support roads in the era of electric vehicles, the SMF and Opinium conducted polls and focus groups to learn more about popular opinions toward driving and taxes.
+
+
+***
+![Here are the best deals on Amazon UAE this week](https://cdn.mos.cms.futurecdn.net/APySSaAjjoG9skuknefYJi-1200-80.jpg "Here are the best deals on Amazon UAE this week")
+
+
+[Here are the best deals on Amazon UAE this week](https://www.techradar.com/deals/best-amazon-sales-deals-discounts)
+
+
+> The Amazon Epic Deals sale is live, which means you score incredible discounts on a wide range of products, including TVs, kitchen appliances, clothing, laptops, smart home devices, and so much more. To help you find all the top offers, we've created this handy guide with today's best bargains from the Amazon Epic Deals sale. Amazon's Epic Deals sale is the perfect opportunity to score Black Friday-worthy discounts and get a head start on your holiday shopping. New deals will be launching throughout the month of October from hundreds of categories, like tech, appliances, fitness equipment, and beauty products from brands like Apple, Instant Pot, Sony, Roomba, and Amazon's own devices.
+
+
+***
+[StackPath](https://dailynewsegypt.com/2021/10/17/technological-structure-in-egypt-meets-needs-of-digital-banks-stakeholders/)
+
+
+> dailynewsegypt-mokannggxlave7h.stackpathdns.com is using a security service for protection against online attacks. The service requires full cookie support in order to view this website. Please enable cookies on your browser and try again. dailynewsegypt-mokannggxlave7h.stackpathdns.com is using a security service for protection against online attacks. This process is automatic. You will be redirected once the validation is complete.
+
+
+***
+![AI quickly identifies genetic causes of disease in newborns](https://external-preview.redd.it/NKDpbUXJJFo3I0i5k7isqXFYY7jr0m0ohqO-DJg9nNc.jpg?auto=webp&s=6fe142e87e6c030cddb623ca2c4521b9634b500c "AI quickly identifies genetic causes of disease in newborns")
+
+
+[AI quickly identifies genetic causes of disease in newborns](https://www.reddit.com/r/technology/comments/q9smp9/ai_quickly_identifies_genetic_causes_of_disease/)
+
+
+> no comments yetBe the first to share what you think!
+
+
