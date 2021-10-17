@@ -15704,3 +15704,40 @@
 > You've probably already had that experience where you're using your Windows PC, and you're in the middle of a very important report, or you're in a crucial round in your game, and then it happens. You get the so-called 'blue screen of death.' We won't blame you if you end up gripping fistfuls of hair in frustration or if your first instinct is to freak out at the sight of the all-blue screen. No one likes getting the blue screen of death, especially when you are in the middle of something important.
 
 
+***
+![Game of Life simulation in python! (browser run)](https://external-preview.redd.it/cIUvT87AFX2cRri-pVGUSlw0Lsr8U96CbB0FZiL0OoE.jpg?auto=webp&s=c4b1fd3949f71c6a9f68584a21dc2bf76e53f8e9 "Game of Life simulation in python! (browser run)")
+
+
+[Game of Life simulation in python! (browser run)](https://www.reddit.com/r/Python/comments/q9pn3r/game_of_life_simulation_in_python_browser_run/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![What is my VPN IP address — and how can I hide it?](https://helios-i.mashable.com/imagery/articles/00HLDZ1KReKrQOPvMewAh1P/hero-image.fill.size_1200x675.v1634237410.png "What is my VPN IP address — and how can I hide it?")
+
+
+[What is my VPN IP address — and how can I hide it?](https://mashable.com/article/vpn-ip-address)
+
+
+> To the average web surfer, all the technical jargon around VPNs can get pretty overwhelming. Thankfully, understanding how you connect to the internet and how VPNs work is easier than you might think. Read on to learn what your IP address is and how you can hide it using a VPN. IP addresses explainedYou could go your entire internet life without ever thinking or even knowing about your Internet Protocol (IP) address. That's because it hangs out in the background with layers of technology on top of it to make the whole web browsing experience more user-friendly.
+
+
+***
+[Convex, which provides software for the commercial services industry, raises a $39M Series B, bringing its total raised to $60M (FinSMEs)](http://www.techmeme.com/211016/p10#a211016p10)
+
+
+> FinSMEs: Convex, which provides software for the commercial services industry, raises a $39M Series B, bringing its total raised to $60M — Convex, a San Francisco, CA-based software platform focused on digitizing the commercial services industry, raised $39m in Series B financing.
+
+
+***
+![Four Anti-Disaster Fixes That Saved Astronaut Lives On International Space Station](https://im.indiatimes.in/content/2021/Oct/Social-image_6166ba88b6277.jpg "Four Anti-Disaster Fixes That Saved Astronaut Lives On International Space Station")
+
+
+[Four Anti-Disaster Fixes That Saved Astronaut Lives On International Space Station](https://www.indiatimes.com/technology/news/anti-disaster-fixes-international-space-station-551587.html)
+
+
+> The International Space Station (ISS) has had a hard few years owing to its age. From leakage-causing cracks to space junk, the space station has had quite the journey in its 23-year-long run. Astronauts and scientists aboard the station as well as on the ground have been compelled to find quick fixes with resources available at hand to mitigate life-threatening disasters for the space explorers.Here's a list of the times space junkies were forced to employ quick fixes to prevent catastrophe in space1.
+
+
