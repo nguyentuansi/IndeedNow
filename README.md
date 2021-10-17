@@ -15741,3 +15741,50 @@
 > The International Space Station (ISS) has had a hard few years owing to its age. From leakage-causing cracks to space junk, the space station has had quite the journey in its 23-year-long run. Astronauts and scientists aboard the station as well as on the ground have been compelled to find quick fixes with resources available at hand to mitigate life-threatening disasters for the space explorers.Here's a list of the times space junkies were forced to employ quick fixes to prevent catastrophe in space1.
 
 
+***
+![Tech Q&A: How to prevent Windows from rearranging your screen](https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg "Tech Q&A: How to prevent Windows from rearranging your screen")
+
+
+[Tech Q&A: How to prevent Windows from rearranging your screen](https://www.unionleader.com/nh/lifestyles/tech-q-a-how-to-prevent-windows-from-rearranging-your-screen/article_0fb48c6d-3aa4-544a-aa9b-a34ba9c62515.html)
+
+
+> Contact Steve Alexander at steve.j.alexander@gmail.com. Please include a full name, city and phone number.
+
+
+***
+![Foodics Earns the Best Place to Work Certification For 2021](http://www.businesswire.com/images/bwlogo_square.png "Foodics Earns the Best Place to Work Certification For 2021")
+
+
+[Foodics Earns the Best Place to Work Certification For 2021](https://www.businesswire.com/news/home/20211016005005/en/Foodics-Earns-the-Best-Place-to-Work-Certification-For-2021)
+
+
+> October 17, 2021 12:00 AM Eastern Daylight Time RIYADH, Saudi Arabia--(BUSINESS WIRE)--Foodics, a tech company offering POS Solutions to run and grow restaurant business based on data and insights, has recently been recognized as one of the best places to work in Saudi, Egypt, UAE, Jordan and Kuwait for 2021. Following an unprecedented year of challenges and workplace disruption with the onset of the COVID-19 crisis, the employees of Foodics continued to enjoy working at the organisation and considered the company a great employer.
+
+
+***
+![Open source file sharing service for tor built with starlette & backblaze](https://external-preview.redd.it/Kd-HGak8LjnRUgsCfGTL65f3jN0IfhFlOqEmAGMx3UU.jpg?auto=webp&s=263c68a47d5ba04912dc1165b6c91e5693aae86c "Open source file sharing service for tor built with starlette & backblaze")
+
+
+[Open source file sharing service for tor built with starlette & backblaze](https://www.reddit.com/r/Python/comments/q9r65f/open_source_file_sharing_service_for_tor_built/)
+
+
+> Privfiles is a open source file storage / sharing site what built using fernet encryption. It unitizes asyncio & file chunk encryption to make a memory efficient site.This service is unique because it provides a storage api, what allows other onion services integrate privfiles into there own service.Privfiles is built with a zero client side javascript, this makes privfiles more "trust based" then other services, so we decided to open source the project. We also provide a "zero trust tool" what provides local file encryption.
+
+
+***
+![Netflix is available on Nintendo Switch, but there is a catch. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/0_img_20190618_202932-1024x768-2.jpg "Netflix is available on Nintendo Switch, but there is a catch. » Brinkwire")
+
+
+[Netflix is available on Nintendo Switch, but there is a catch. » Brinkwire](https://en.brinkwire.com/technology/netflix-is-available-on-nintendo-switch-but-there-is-a-catch/)
+
+
+> Netflix is available on Nintendo Switch, but there is a catch. Netflix is now available for Nintendo Switch, but there isn't an official app for the hybrid console yet. Since its launch in March 2017, Nintendo fans have been hoping for more media entertainment to be added to the Switch – and they are still waiting. YouTube, Hulu, and Funimation are the only official apps available right now. But there's some good news: Netflix is now available for Nintendo Switch, but there's a caveat. XDA Developers modders have successfully built a system that allows users to access specific apps on the Nintendo Switch.
+
+
+***
+[Analysis: median CEO pay of US tech startups that went public in 2020 was $21.9M; seven of the 10 best-paid CEOs of US public companies were from such startups (Eliot Brown/Wall Street Journal)](http://www.techmeme.com/211016/p11#a211016p11)
+
+
+> Eliot Brown / Wall Street Journal: Analysis: median CEO pay of US tech startups that went public in 2020 was $21.9M; seven of the 10 best-paid CEOs of US public companies were from such startups — Startup creators once tended to take little or no remuneration as CEOs. Now, some are getting giant stock awards …
+
+
