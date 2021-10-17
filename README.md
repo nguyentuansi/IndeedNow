@@ -15932,3 +15932,53 @@
 > The Nothing Ear (1) wireless earbuds. (Image credit: Aakash Jhaveri) When Carl Pei left the OnePlus company he co-founded, the talk was that a phone would eventually emerge out of his new project – and that now seems likelier than ever, with a Nothing smartphone rumored for 2022, following on from the Nothing Ear (1) wireless earbuds we've already seen.That's as per a report from 91mobiles, passing on a tip from well-known leaker Mukul Sharma about the existence of the Nothing phone. It's scheduled to launch early in 2022 apparently, so we don't have long to wait to see it.
 
 
+***
+![Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://www.notion.so/images/meta/default.png "Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer")
+
+
+[Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://www.notion.so)
+
+
+> No body in the article.
+
+
+***
+![Do you buy GPS only, or GPS + Cellular?](https://images.macrumors.com/social/?t=2317357&v=6 "Do you buy GPS only, or GPS + Cellular?")
+
+
+[Do you buy GPS only, or GPS + Cellular?](https://forums.macrumors.com/threads/do-you-buy-gps-only-or-gps-cellular.2317357/)
+
+
+> Aug 24, 2020 722 390 England, UK. Do you tend to buy GPS only AWs, or do you go for cellular? Have you tried cellular, then with your next watch, gone back to GPS only? Would you mind sharing why you make the choice you do? If you buy a higher end model, which comes with cellular as standard, do you connect the cellular option or not bother? If you do have a cellular capable AW and have it activated, do you find that you make much use of it? Thanks in advance for your responses. GPS+cellular. I don't like to take my phone with me when I run.
+
+
+***
+![This Black Friday, learn how to save £5 on ANYTHING at Currys PC World. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/ezgif-com-gif-maker-7-3.jpg "This Black Friday, learn how to save £5 on ANYTHING at Currys PC World. » Brinkwire")
+
+
+[This Black Friday, learn how to save £5 on ANYTHING at Currys PC World. » Brinkwire](https://en.brinkwire.com/technology/this-black-friday-learn-how-to-save-5-on-anything-at-currys-pc-world/)
+
+
+> This Black Friday, learn how to save £5 on ANYTHING at Currys PC World. EVERY PENNY SAVED MAKES A DIFFERENCE, so keep reading if you're intending on shopping at Currys anytime soon. You can save £5 on ANYTHING you put in your cart at the tech and electronics store with our Sun promo code. Currys sells everything from smart speakers to coffee machines to home broadband, and no matter what you buy, you can take advantage of this £5 discount. Simply go to our Sun Vouchers Currys page and click on the highlighted link to discover the discount code, which you can then input at the checkout when you pay.
+
+
+***
+![Is there going to be an iPhone shortage this holiday season? » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/iphone-shortage.jpg "Is there going to be an iPhone shortage this holiday season? » Brinkwire")
+
+
+[Is there going to be an iPhone shortage this holiday season? » Brinkwire](https://en.brinkwire.com/technology/is-there-going-to-be-an-iphone-shortage-this-holiday-season/)
+
+
+> Is there going to be an iPhone shortage this holiday season? APPLE'S iPhones are generally popular gifts for the holidays, but is there a scarcity this year? This Christmas, we disclose all you need to know about iPhone stock. The iPhone 13 and iPhone 13 Pro are Apple's most recent smartphones. Due to their high-quality designs and remarkable performance, we rated both 5/5 stars in our evaluation. The phones are available in four different sizes: 13 Mini, 13, 13 Pro, and 13 Pro Max. They cost between £679/$699 and £1,449/$1,499, with prices ranging from £679/$699 to £1,449/$1,499.
+
+
+***
+![Missing App Icons](https://forums.macrumors.com/attachments/incoming-23bf8a5d-d7a4-4921-b49a-8dc171de28cb-png.1868351/ "Missing App Icons")
+
+
+[Missing App Icons](https://forums.macrumors.com/threads/missing-app-icons-s7-45mm.2317356/)
+
+
+> Oct 15, 2014 7,855 2,740 East of Eden Before I say anything else, I want to say that (1) this is not a big deal for me and (2) I am highly confident that Apple will get this sorted out ASAP, probably this week, maybe even in the first half of the week. With that said... There's an oddity in WatchOS 8 on the Series 7 45mm watch. Some app icons are not showing up in the grid or list app view. I've posted two examples below (Carrot weather and Fantastical; Things3 does the same). In list view it's really not an issue at all, at least for the short term, because the app name is still visible.
+
+
