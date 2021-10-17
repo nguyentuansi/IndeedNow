@@ -16029,3 +16029,53 @@
 > No body in the article.
 
 
+***
+![Intel Alder Lake CPUs could fail to work with some DRM-toting games](https://cdn.mos.cms.futurecdn.net/Y2hD2oYgBKnBWLE4Kr2RjP-1200-80.jpg "Intel Alder Lake CPUs could fail to work with some DRM-toting games")
+
+
+[Intel Alder Lake CPUs could fail to work with some DRM-toting games](https://www.techradar.com/news/intel-alder-lake-cpus-could-fail-to-work-with-some-drm-toting-games)
+
+
+> (Image credit: Intel) Intel's Alder Lake processors could have compatibility issues with older games that use DRM protection, according to a fresh report.The story here is that Intel has just released a developer guide for the 12th-gen CPUs – which are expected very soon, inside a few weeks perhaps – and as Gamer's Gospel spotted when digging into these details, the likes of Denuvo and other DRM anti-piracy solutions may need an update to work with Alder Lake chips.This is wrapped up in the DRM using CPU detection as part of its routines, and potentially not recognizing Alder Lake processors, because as you're doubtless aware, Intel has moved to an entirely new way of working – namely hybrid tech – with these 12th-gen models.
+
+
+***
+![Prisma Client Python](https://external-preview.redd.it/ZdDgz6_nOHpx9rPZt9uJ1OuWcrKOVJJRSqcBgV2vLqk.jpg?auto=webp&s=f593912ee87db92d378ef3cc310f2ba788428722 "Prisma Client Python")
+
+
+[Prisma Client Python](https://www.reddit.com/r/Python/comments/qa1i3j/prisma_client_python_type_safe_database_access/)
+
+
+> Prisma Client Python is an easy to use, fully typed ORM that supports SQLite, PostgreSQL, MongoDB, MySQL and SQL Server!This project is built on top of Prisma which is a next-generation ORM for TypeScript, this means it comes bundled with tools like Prisma Migrate which make it easy to work with databases.The client is auto-generated and can be used with or without async! See the documentation for more details.from prisma import Client client = Client() client.connect() user = client.user.create( data={ 'name': 'Robert', 'posts': { 'create': { 'title': 'My first post!', }, }, }, include={ 'posts': True, }, ) print(user.
+
+
+***
+![Is there a Python->Webassembly browser frontend framework?](https://external-preview.redd.it/pz-nEu10_YzLN-KT_YWiAfdCpuyP_BapEItPMBjlYg8.jpg?auto=webp&s=beabe9f598143d6bc384146c197741b04cbee3ed "Is there a Python->Webassembly browser frontend framework?")
+
+
+[Is there a Python->Webassembly browser frontend framework?](https://www.reddit.com/r/Python/comments/qa1aao/is_there_a_pythonwebassembly_browser_frontend/)
+
+
+> So, Python is one of those languages that pretty much doesn't exist in the browser. But there are projects like pyodide that support transpiling Python code to webassembly.But it seems like Pyodide is mainly focusing on running scientific libraries.Is there anyone out there that is developing a frontend framework that enables you to write SPA:s? Like Blazor. Or are there even any library for DOM management available (I guess since webassembly can't modify the DOM directly but uses javascript, you'd need to create bindings for python->webassembly->javascript.
+
+
+***
+![The Largely Untold Story Of How One Guy In California Keeps The World's Computers Running On The Right Time Zone. (Well, Sort Of)](https://external-preview.redd.it/jSGEnBQY1RHz2xfv5VaKBDNj02wN8R76XZ-D6HTaLKE.jpg?auto=webp&s=f4ac54967ce447ba6d1dd7b3a3c8d405f73ccd91 "The Largely Untold Story Of How One Guy In California Keeps The World's Computers Running On The Right Time Zone. (Well, Sort Of)")
+
+
+[The Largely Untold Story Of How One Guy In California Keeps The World's Computers Running On The Right Time Zone. (Well, Sort Of)](https://www.reddit.com/r/programming/comments/qa19ek/the_largely_untold_story_of_how_one_guy_in/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Google rolls out continuous scrolling feature to mobile search for added convenience](https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-17-image-3.jpg "Google rolls out continuous scrolling feature to mobile search for added convenience")
+
+
+[Google rolls out continuous scrolling feature to mobile search for added convenience](https://www.techspot.com/news/91789-google-rolls-out-continuous-scrolling-feature-mobile-search.html)
+
+
+> Why it matters: Google recently introduced continuous scrolling, providing mobile users with enhanced access to information and search results. The new feature will let mobile users scroll through results rather than having to tap for the next set. The addition follows Google's mobile search redesign, which rolled out earlier this year, to provide users with a cleaner, more focused search experience. On Thursday, Google Search Product Manager Niru Anand announced the company's rollout of continuous scrolling functionality for U.
+
+
