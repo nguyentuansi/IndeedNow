@@ -15664,3 +15664,43 @@
 > Fintech is one of the 'enormous competitive threats' facing banks. That's what JPMorgan Chase & Co's (NYSE: JPM) Jamie Dimon said months ago in response to an accelerated digital disruption in finance, a result of the pandemic. Amongst the fintechs building easy-to-use, fast, and smart digital banking solutions is Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: GOOG), an atypical player in the market given that the firm is more of a technology company with core competencies rather than a financial services company.
 
 
+***
+![Didn't change your Twitch password after the data leak? You should. Here's how](https://www.cnet.com/a/img/bRkfEvTA_SIW3DW49fZIQWXnztE=/1200x630/2021/10/07/94ae4b32-9cda-4e89-b194-980248b37e63/gettyimages-1235738378.jpg "Didn't change your Twitch password after the data leak? You should. Here's how")
+
+
+[Didn't change your Twitch password after the data leak? You should. Here's how](https://www.cnet.com/tech/gaming/didnt-change-your-twitch-password-after-the-data-leak-you-should-heres-how/)
+
+
+> Wildly popular streaming platform Twitch suffered a data leak. Make sure to lock down your account. Getty Images Popular streaming platform Twitch confirmed that it was the victim of a data leak last week, which included source code and earnings. Twitch said it doesn't believe credit card numbers or login credentials were exposed, and cited a server configuration error. The leak was estimated to effect nearly 2.
+
+
+***
+![Shopping scams are ramping up – Here's how to protect your wallet](https://www.komando.com/wp-content/uploads/2021/10/bbb-online-shopping-warning-970x546.jpg "Shopping scams are ramping up – Here's how to protect your wallet")
+
+
+[Shopping scams are ramping up – Here's how to protect your wallet](https://www.komando.com/security-privacy/online-shopping-scams-ramping-up/812178/)
+
+
+> The BBB warns that online purchase scams are on the rise. Here's how to protect your finances this holiday shopping season.
+
+
+***
+![The Fugate Family of Kentucky Has Had Blue Skin for Centuries – Here's Why](https://allthatsinteresting.com/wordpress/wp-content/uploads/2017/09/blue-fugates-family-pic.jpg "The Fugate Family of Kentucky Has Had Blue Skin for Centuries – Here's Why")
+
+
+[The Fugate Family of Kentucky Has Had Blue Skin for Centuries – Here's Why](https://allthatsinteresting.com/fugate-family-blue-people-of-kentucky)
+
+
+> Original source unknown, via ABC NewsThe Blue Fugates are shown in this colorized black and white photo. Date unspecified. When Benjamin 'Benjy' Stacy was born in 1975, nurses and doctors were shocked and confused. Rather than coming out a bright shade of crimson like most babies, Benjy was born with dark blue skin. Doctors were so worried by this alien skin color that they called an ambulance to take Benjy the 116 miles from his hometown outside Hazard, Kentucky to the University of Kentucky Medical Center.
+
+
+***
+![Why Do You Get a Windows 'Blue Screen of Death' and How Do You Fix It? » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/windows-blue-screen-of-death.png "Why Do You Get a Windows 'Blue Screen of Death' and How Do You Fix It? » Brinkwire")
+
+
+[Why Do You Get a Windows 'Blue Screen of Death' and How Do You Fix It? » Brinkwire](https://en.brinkwire.com/technology/why-do-you-get-a-windows-blue-screen-of-death-and-how-do-you-fix-it/)
+
+
+> You've probably already had that experience where you're using your Windows PC, and you're in the middle of a very important report, or you're in a crucial round in your game, and then it happens. You get the so-called 'blue screen of death.' We won't blame you if you end up gripping fistfuls of hair in frustration or if your first instinct is to freak out at the sight of the all-blue screen. No one likes getting the blue screen of death, especially when you are in the middle of something important.
+
+
