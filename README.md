@@ -15832,3 +15832,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Social media health myths are destroying the lives of teenage girls](https://assets2.rappler.com/2021/10/health-misinformation-teens-coda-story-teona-tsintsadze-1634457520046.jpeg "Social media health myths are destroying the lives of teenage girls")
+
+
+[Social media health myths are destroying the lives of teenage girls](https://www.rappler.com/technology/features/girls-health-misinformation-coda-story)
+
+
+> Ronja Holopainen didn't mean to fall down the rabbit hole. But, like so many things online, it just happened. One day last spring, the 21-year-old medical student was scrolling through Instagram when she stumbled into the strange world of period misinformation. Her journey started simply enough. Searching Instagram using the hashtags 'period' and 'menstruation,' she quickly came across a deluge of posts promoting unsubstantiated ideas, such as girls being able to regulate or predict periods based on their astrological signs.
+
+
+***
+![New Apple MacBook Pro may come with iPhone 13 like notch, extremely thin bezels](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/macbook_pro_m1x_16_inch-original.jpg "New Apple MacBook Pro may come with iPhone 13 like notch, extremely thin bezels")
+
+
+[New Apple MacBook Pro may come with iPhone 13 like notch, extremely thin bezels](https://www.indiatoday.in/technology/news/story/new-apple-macbook-pro-may-come-with-iphone-13-like-notch-extremely-thin-bezels-1865747-2021-10-17)
+
+
+> Akarsh Verma New Delhi, Oct 17, 2021, Updated Oct 17, 2021, 1:20 PM IST Story highlights Apple is expected to launch the new MacBook Pro tomorrow. The new MacBooks will be powered by Appleâ€™s Silicon M1X chip. The new MacBooks will have a peak brightness of 1000 nits. Apple will soon release a redesigned MacBook Pro line, consisting of a new 14-inch and a new 16-inch model powered by the Apple Silicon M1X on October 18. According to various rumours and leaks, Apple is set to introduce a notch, iPhone-style, to the notebooks.
+
+
+***
+![How to create a collaborative playlist on Spotify](https://images.indianexpress.com/2021/10/Spotify.jpg "How to create a collaborative playlist on Spotify")
+
+
+[How to create a collaborative playlist on Spotify](https://indianexpress.com/article/technology/techook/how-to-create-a-collaborative-playlist-on-spotify-7575888/)
+
+
+> Spotify allows you to not just listen to your music by streaming it, but also make music listening an interactive experience with your buddies with features like Group Sessions. Spotify also lets you and your friends make a playlist together with its Collaborative Playlists feature. The new feature lets you 'team up' with your friends to create a playlist together that each one of you can edit, shuffle and add songs to or remove songs from. Users can also see who is contributing to the playlist and each song features the avatar of the user who added it to the playlist next to it.
+
+
+***
+![[ANALYSIS] Korea under pressure to mediate chip issue](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/f2ee81c44e03418eb8ebc959e143a67b.jpg "[ANALYSIS] Korea under pressure to mediate chip issue")
+
+
+[[ANALYSIS] Korea under pressure to mediate chip issue](https://www.koreatimes.co.kr/www/tech/2021/10/133_317143.html)
+
+
+> U.S. President Joe Biden speaks as he participates in the virtual CEO Summit on Semiconductor and Supply Chain Resilience from the Roosevelt Room at the White House in Washington, U.S., April 12, Reuters-YonhapSharing chip info to US may force Samsung to share it to China By Kim Yoo-chulThe current semiconductor shortages have illustrated the strategic significance of semiconductor manufacturing. The central point of today's chip shortages is a classic supply-demand mismatch.This means that demand for semiconductors is spiking while supply is fairly flat.
+
+
+***
+![Despite opposition, KDB plans to push ahead with HHI-Daewoo deal](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/7365e74315a0402fa2049ea6cd594b1f.jpg "Despite opposition, KDB plans to push ahead with HHI-Daewoo deal")
+
+
+[Despite opposition, KDB plans to push ahead with HHI-Daewoo deal](https://www.koreatimes.co.kr/www/tech/2021/10/768_317142.html)
+
+
+> Korea Development Bank Chairman Lee Dong-gull speaks at a government audit held at the National Assembly, Friday. Korea Times photo by Bae Woo-hanBy Kim Hyun-binState-run Korea Development Bank (KDB) and Hyundai Heavy Industries (HHI) have encountered major hurdles in the shipbuilder's acquisition of rival Daewoo Shipbuilding & Marine Engineering (DSME) because of pending approval from foreign antitrust regulators and mounting opposition from DSME's labor union. Unfazed by such challenges, the state-run bank, also the largest shareholder of DSME, said it plans to push ahead with the deal as scheduled, while aiming to receive all necessary approvals by the end of this year.
+
+
