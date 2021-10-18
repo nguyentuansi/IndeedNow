@@ -16351,3 +16351,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Elliptic Labs Signs PoC Agreement with a Leading Global Smart TV Manufacturer](https://mms.businesswire.com/media/20211017005083/en/1157002/23/ellipticlabs-logo-blue_-_640x360.jpg "Elliptic Labs Signs PoC Agreement with a Leading Global Smart TV Manufacturer")
+
+
+[Elliptic Labs Signs PoC Agreement with a Leading Global Smart TV Manufacturer](https://www.businesswire.com/news/home/20211017005083/en/Elliptic-Labs-Signs-PoC-Agreement-with-a-Leading-Global-Smart-TV-Manufacturer)
+
+
+> October 18, 2021 02:00 AM Eastern Daylight Time OSLO, Norway--(BUSINESS WIRE)--Elliptic Labs (EuroNext Growth: ELABS.OL), a global AI software company and the world leader in AI Virtual Smart Sensors™, has signed its second proof of concept (PoC) agreement with another top global Smart TV manufacturer. This project will bring Elliptic Labs' AI Virtual Smart Sensor Platform™ to the Smart TV OEM's product portfolio, offering added intelligence to these devices through the AI Virtual Presence Sensor™ and AI Virtual Gesture Sensor™.
+
+
+***
+![Apple ‘Unleashed' Event Today: What to Expect and How to Watch](https://i.gadgets360cdn.com/large/apple_unleashed_event_image_1634536364418.jpg "Apple ‘Unleashed' Event Today: What to Expect and How to Watch")
+
+
+[Apple ‘Unleashed' Event Today: What to Expect and How to Watch](https://gadgets.ndtv.com/laptops/news/apple-unleashed-event-october-18-livestream-timings-expect-new-macbook-pro-launch-mac-mini-airpods-3-2578987)
+
+
+> Apple is hosting its ‘Unleashed' event later today (October 18), streaming online. The virtual event is expected to bring a range of new Apple devices, including new MacBook Pro and Mac mini based on the company's upgraded M1X chip. There are also rumours that Apple will finally launch the new AirPods (aka AirPods 3) alongside the new Mac devices. Alongside hardware, today's Apple event is likely to be the place where we could hear the release of macOS Monterey — the operating system that was announced at WWDC in June but has not yet been released.
+
+
+***
+![Southeast Asia's richest families chase next unicorn after Grab, Carousell](https://static.theprint.in/wp-content/uploads/2021/10/New-picture-2-1.png "Southeast Asia's richest families chase next unicorn after Grab, Carousell")
+
+
+[Southeast Asia's richest families chase next unicorn after Grab, Carousell](https://theprint.in/tech/southeast-asias-richest-families-chase-next-unicorn-after-grab-carousell/752282/)
+
+
+> Although Covid has decimated tourism & retail in Southeast Asia, the region is home to some of the fastest-growing internet markets | AFP/Getty Images via Bloomberg Text Size: Hong Kong: Some of Southeast Asia's old-money tycoons are boosting investment in technology startups, looking to ride a wave of surging valuations as they seek to counter the fallout of the pandemic on businesses ranging from retail to hospitality and manufacturing. Holding companies, family investing arms and other vehicles of moguls from Thailand's Dhanin Chearavanont to the Philippines' Lance Gokongwei are either plowing millions of dollars directly into promising companies or setting up venture capital funds.
+
+
+***
+[Fintech Technologies Market 2021-2027 Size, Share and Top Companies Overview- Morningstar, SoFi, YapStone, Avant, Adyen, Circle – Murphy's Hockey Law](https://murphyshockeylaw.net/uncategorized/4469817/fintech-technologies-market-2021-2027-size-share-and-top-companies-overview-morningstar-sofi-yapstone-avant-adyen-circle/)
+
+
+> The Global Fintech Technologies Market report covers the study of all the vital aspects associated with the market. The report includes all the vital data related to past statistics and the forecast for the future. The market research report also provides all the necessary information about product knowledge, industry growth, end users, profitability, revenue, etc. The report covers all the information related to the market growth. It also offers a deep study of all the growth factors responsible for the surge in the market.
+
+
+***
+![Philips lowers outlook as recall, parts shortages bite](https://www.reuters.com/resizer/LFcLb5KQvK-SpR5YiXU33_j6tAY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PB3PROA3IRJ2RNOORC3QCQ7DKE.jpg "Philips lowers outlook as recall, parts shortages bite")
+
+
+[Philips lowers outlook as recall, parts shortages bite](https://www.reuters.com/technology/philips-lowers-outlook-recall-parts-shortages-bite-2021-10-18/)
+
+
+> Dutch technology company Philips' logo is seen at the company headquarters in Amsterdam, Netherlands, January 29, 2019. REUTERS/Eva PlevierAMSTERDAM, Oct 18 (Reuters) - Dutch health technology company Philips (PHG.AS) lowered its outlook on Monday for sales and profit growth in 2021, as a massive recall of respiratory devices and a global shortage of electronic components hit its third-quarter earnings.Comparable sales in the July-September period fell 7.6% from last year as Philips started the recall of up to four million of its respiratory devices and ventilators, as parts might degrade and become toxic.
+
+
