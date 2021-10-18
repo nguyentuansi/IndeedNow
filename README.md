@@ -16398,3 +16398,17 @@
 > Dutch technology company Philips' logo is seen at the company headquarters in Amsterdam, Netherlands, January 29, 2019. REUTERS/Eva PlevierAMSTERDAM, Oct 18 (Reuters) - Dutch health technology company Philips (PHG.AS) lowered its outlook on Monday for sales and profit growth in 2021, as a massive recall of respiratory devices and a global shortage of electronic components hit its third-quarter earnings.Comparable sales in the July-September period fell 7.6% from last year as Philips started the recall of up to four million of its respiratory devices and ventilators, as parts might degrade and become toxic.
 
 
+***
+[Now save over Rs 22,000 on Apple iPhone 12 Pro during Amazon Great India Festival Sale: Check details here](https://www.zeebiz.com/technology/mobiles/news-now-save-over-rs-22000-on-apple-iphone-12-pro-during-amazon-great-india-festival-sale-check-details-here-168042)
+
+
+> On Amazon, Apple is selling the iPhone 12 Pro (128GB) - Pacific Blue variant is available at Rs 97,900.00.
+
+
+***
+[Passport Seva on UMANG: Access these services using the App- Check details](https://www.zeebiz.com/technology/apps/news-passport-seva-on-umang-access-these-services-using-the-app-check-details-168041)
+
+
+> Using the UMANG Application users can now access Passport Seva on their mobile.
+
+
