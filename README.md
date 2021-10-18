@@ -16217,3 +16217,43 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Everything you can expect from Apple's ‘Unleashed' event](https://cdn.cultofmac.com/wp-content/uploads/2021/09/B4B1F2B2-E534-4578-9DA3-5A9CA6B37DC3.jpeg "Everything you can expect from Apple's ‘Unleashed' event")
+
+
+[Everything you can expect from Apple's ‘Unleashed' event](https://www.cultofmac.com/753120/apple-october-event-expectations/)
+
+
+> Plenty of new Macs are supposedly on the agenda for the Apple October event.Concepts: Ed Hardy/Cult of Mac/Antonio De RosaApple's 'Unleashed' event on Monday is likely to bring what Mac fans have been eagerly anticipating for over a year: redesigned MacBook Pro models with upgraded displays and the return of traditional ports. But that's just the start. We could see the debut of two more models, all powered by a new Apple M-series processor.Here are the computers that leaks and rumors say are coming.
+
+
+***
+![Starbucks Korea to improve working conditions for staff](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/2ce6a08f30ec4f289427a3680387353d.jpg "Starbucks Korea to improve working conditions for staff")
+
+
+[Starbucks Korea to improve working conditions for staff](https://www.koreatimes.co.kr/www/tech/2021/10/694_317165.html)
+
+
+> Starbucks Korea employees pose for a picture at the Korean headquarters of the global coffeehouse chain in Seoul, on Oct. 15. Courtesy of Starbucks KoreaKorean unit promises to hire 1,600 more workersBy Kim Jae-heunStarbucks Korea has decided to hire 1,600 more employees to allay mounting complaints voiced by existing workers over heavy workloads. It also promised to adopt a new wage system and improve working conditions.The decision came 10 days after workers staged a street protest complaining about heavy workloads every time headquarters introduced new marketing promotions.
+
+
+***
+![Facebook plans to hire 10,000 in EU to build 'metaverse'](null "Facebook plans to hire 10,000 in EU to build 'metaverse'")
+
+
+[Facebook plans to hire 10,000 in EU to build 'metaverse'](https://abcnews.go.com/Technology/wireStory/facebook-plans-hire-10000-eu-build-metaverse-80635338)
+
+
+> Facebook says it plans to hire 10,000 workers in the European Union over the next five years to work on a new computing platform MENLO PARK, Calif. -- Facebook says it plans to hire 10,000 workers in the European Union over the next five years to work on a new computing platform. The company said in a blog post Sunday that those high-skilled workers will help build 'the metaverse,' a futuristic notion for connecting people online that encompasses augmented and virtual reality. Facebook executives have been touting the metaverse as the next big thing after the mobile internet as they also contend with other matters such as antitrust crackdowns, the testimony of a whistleblowing former employee and concerns about how the company handles vaccine-related and political misinformation on its platform.
+
+
+***
+![From luxury watches to jewelry... Who is the seller of 13 billion second-hand goods?](https://img.sbs.co.kr/newimg/news/20211018/201601164_1280.jpg "From luxury watches to jewelry... Who is the seller of 13 billion second-hand goods?")
+
+
+[From luxury watches to jewelry... Who is the seller of 13 billion second-hand goods?](https://www.tellerreport.com/tech/2021-10-18-from-luxury-watches-to-jewelry----who-is-the-seller-of-13-billion-second-hand-goods-.Syzm6F45rY.html)
+
+
+> There is a story that there is a seller who sold used goods worth 13 billion won on a used trading platform, and attention is focused on the identity of the seller. On a second-hand trading platform that usually trades small amounts of second-hand goods between residents of the same area, a seller based in Gangnam, Seoul recently sold several hundred to tens of millions of won worth of items one after another. There is a story that there is a seller who sold used goods worth 13 billion won on a used trading platform, and attention is focused on the identity of the seller.
+
+
