@@ -16553,3 +16553,50 @@
 > Harry Brumpton / Bloomberg: Australian slot machine maker Aristocrat will acquire British gambling software company Playtech for $3.7B — - Offer pitched at 58% premium to Playtech's latest price — Aristocrat to raise A$1.3 billion in share sale to fund deal — Australian slot-machine maker Aristocrat Leisure Ltd …
 
 
+***
+![The best gaming tablets for 2021](https://icdn.digitaltrends.com/image/digitaltrends/new-apple-ipad-mini-gaming.jpg "The best gaming tablets for 2021")
+
+
+[The best gaming tablets for 2021](https://www.digitaltrends.com/mobile/best-gaming-tablets/)
+
+
+> The idea that gaming is something you can only do on a souped-up, multicolored PC — or on the box under your TV — is dead. Mobile gaming has arrived, luring millions of people with a wide range of challenges from matching three fruits in a row to colonizing planets. The best Android and iPhone games vary widely, but sometimes the lack of smartphone screen real estate can cramp your style. If portability is still a prime factor, then split the difference with the best gaming tablets. While the emerging category of dedicated gaming phones may be starting to heat up, the idea of specialized gaming tablets seems to have died with the Nvidia Shield.
+
+
+***
+![AirPods 3 could debut today, and there are a few upgrades I'm hoping for](https://www.cnet.com/a/img/C-WKBHJB9pSoOl7yF1c900W7BRE=/1200x630/2019/10/29/e0678e63-a64b-4a29-9ace-0ad8cf69ecfb/20-apple-airpods-pro.jpg "AirPods 3 could debut today, and there are a few upgrades I'm hoping for")
+
+
+[AirPods 3 could debut today, and there are a few upgrades I'm hoping for](https://www.cnet.com/tech/mobile/airpods-3-could-debut-today-and-there-are-a-few-upgrades-im-hoping-for/)
+
+
+> The AirPods (left) and AirPods Pro (right). The original AirPods could adopt the Pro look this year. Sarah Tew/CNET Apple's rumored AirPods 3 didn't make an appearance at the company's "California streaming" event, but Apple's next-gen earbuds could still debut this year, possibly at Apple's October event. (Here's how to watch Apple's "Unleashed" event live today and everything we could see.) Over the years, for some of us, AirPods have become a practically essential tool for work, school and other parts of life.
+
+
+***
+![New Macbook Pro set to be unveiled at Apple event – live](https://static.independent.co.uk/2021/10/18/09/apple.jpg?width=1200&auto=webp&quality=75 "New Macbook Pro set to be unveiled at Apple event – live")
+
+
+[New Macbook Pro set to be unveiled at Apple event – live](https://www.independent.co.uk/life-style/gadgets-and-tech/apple-event-live-macbook-pro-2021-b1940144.html)
+
+
+> Apple is preparing to hold an 'Unleashed' event, during which it is expected to reveal a host of new products.The star of the show is expected to be at least one updated MacBook Pro, which will include a new 'M1X' chip. But new AirPods and perhaps some surprises are expected too.The new MacBooks will come alongside the updated MacBook Air, Pro, Mac Mini and iMac that were released with Apple's M1 chip. That was the first 'Apple Silicon' processor, designed by Apple itself rather than Intel, and bringing vast performance and efficiency gains.
+
+
+***
+![Official‌ ‌Heroes‌ ‌Arena‌ ‌IGO‌ ‌on‌ ‌Seedify‌ ‌on‌ ‌October‌ ‌20‌ ‌and‌ ‌IEO‌ ‌on‌ ‌Gate.io‌ ‌on‌ ‌October‌ ‌21‌](https://cdn2.benzinga.com/files/imagecache/600x400xUP/images/story/2012/hero.png?width=720 "Official‌ ‌Heroes‌ ‌Arena‌ ‌IGO‌ ‌on‌ ‌Seedify‌ ‌on‌ ‌October‌ ‌20‌ ‌and‌ ‌IEO‌ ‌on‌ ‌Gate.io‌ ‌on‌ ‌October‌ ‌21‌")
+
+
+[Official‌ ‌Heroes‌ ‌Arena‌ ‌IGO‌ ‌on‌ ‌Seedify‌ ‌on‌ ‌October‌ ‌20‌ ‌and‌ ‌IEO‌ ‌on‌ ‌Gate.io‌ ‌on‌ ‌October‌ ‌21‌](https://www.benzinga.com/markets/cryptocurrency/21/10/23423637/official-heroes-arena-igo-on-seedify-on-october-20-and-ieo-on-gate-io-on-october-21)
+
+
+> In Hero Arena, players will experience an RPG game with thousands of Heroes divided into 5 races such as Warlord, Elf, Orc, Beast & Undead. Hero Arena is inspired by the Dota2 game that is known by many players around the world. Hero Arena is a Metaverse RPG Game built on blockchain technology. It is a futuristic world with 20,000 in-game heroes of 5 different factions, each with its own strengths and weaknesses. To bring an enjoyable experience to players, we supply various features like Marketplace, Play-2-earn, Free-2-earn, Rent-2-play, Dungeon, Quest, PvE, PvP real-time, Item Casting, Staking from which players can recruit heroes, perform missions, fight against the enemies, buy/rent heroes to expand the collection and sell Heroes to increase earnings.
+
+
+***
+[True multi user applications with Lona 1.7.4 in full Python](https://www.reddit.com/r/Python/comments/qapoef/true_multi_user_applications_with_lona_174_in/)
+
+
+> no comments yetBe the first to share what you think!
+
+
