@@ -16506,3 +16506,50 @@
 > Samsung is focusing all its efforts on its upcoming flagship lineup, the Galaxy S22. Last week, we came across a dummy unit of the Galaxy S22 Plus. Today, we're getting a better glimpse of the Galaxy S22 and the S22 Plus in the form of tempered glass screen protectors.The leak comes from the well-known source, Ice Universe, on Twitter (via). Screen protectors are usually available ahead of time and generally leak out prior to a phone's release. Going by this revelation, the Galaxy S22 lineup could be slightly wider compared to its predecessor.
 
 
+***
+![rope 0.21.0 released](https://external-preview.redd.it/8xdPx_ujaBTCsaso2daiTCJFGh6WBVMhCRPlVkn7JKA.jpg?auto=webp&s=be6424f2822263a113f2dd5c4be3e9578ec156f6 "rope 0.21.0 released")
+
+
+[rope 0.21.0 released](https://www.reddit.com/r/Python/comments/qan7y8/rope_0210_released_pure_python_refactoring/)
+
+
+> Hello r/Python,python-rope is the most advanced open-source Python refactoring library, and we have just released version 0.21.0.Version 0.21.0 includes a lot of improvements on the library to improve support of context managers and some bug fixes to comprehension. See the changelog for this release.In addition to basic refactoring like variable renaming and moving objects, extracting variables/method, method inlining, and organizing imports; Rope also supports a number of advanced refactoring operations that doesn't exist anywhere else in other open source Python refactoring tools.
+
+
+***
+![13 best gifts for gamers: Take Christmas to the next level with these top consoles and gaming accessories](https://static.independent.co.uk/2021/10/15/16/gaming%20gift%20guide%20copy.jpg?width=1200&auto=webp&quality=75 "13 best gifts for gamers: Take Christmas to the next level with these top consoles and gaming accessories")
+
+
+[13 best gifts for gamers: Take Christmas to the next level with these top consoles and gaming accessories](https://www.independent.co.uk/extras/indybest/gadgets-tech/video-games-consoles/best-gaming-gifts-christmas-2021-b1939028.html)
+
+
+> Friends and family who play videogames can be tricky to buy Christmas gifts for. A new game might be the most obvious gift idea for a gamer, but do you know what genres they're into? And are you prepared to trawl through Metacritic reviews to make sure Shrek: Hassle at the Castle isn't a dud?There are also those gaming gifts you'll want to avoid slipping into their stocking. You know the stuff: the vaguely videogames-themed plastic tat, the bobble hat with a potentially trademark-violating embroidery of Mario's face on it, the unofficial controller that closely resembles a 19th century torture device.
+
+
+***
+![Apple Unleashed event live: new M1X MacBook Pro, AirPods 3 and Pro 2 expected](https://cdn.mos.cms.futurecdn.net/DzVWpw4RB63JHrFdr6jtWM-1200-80.jpg "Apple Unleashed event live: new M1X MacBook Pro, AirPods 3 and Pro 2 expected")
+
+
+[Apple Unleashed event live: new M1X MacBook Pro, AirPods 3 and Pro 2 expected](https://www.techradar.com/news/live/apple-event-october-2021-live-blog)
+
+
+> Refresh 2021-10-18T13:57:46.757Z So, what does Jess Weatherbed, our Computing staff writer want from any new MacBooks today?"1080p webcam please, for the love of god," is her refreshingly frank response. From some of the rumors we've heard, she might be in luck! 2021-10-18T13:36:39.978Z Wondering why you can't buy an iPhone today? As we mentioned earlier, the Apple Store has been taken down in preparation for the event later, and that means for anyone who wants to buy an Apple device direct from Apple, you'll have to hold tight.
+
+
+***
+![Digital Check Introduces New TellerScan TSX40 Check Scanner for International Markets](https://mms.businesswire.com/media/20211018005643/en/382872/21/Digital_Check_Logo_Sm.jpg "Digital Check Introduces New TellerScan TSX40 Check Scanner for International Markets")
+
+
+[Digital Check Introduces New TellerScan TSX40 Check Scanner for International Markets](https://www.businesswire.com/news/home/20211018005643/en/Digital-Check-Introduces-New-TellerScan-TSX40-Check-Scanner-for-International-Markets)
+
+
+> October 18, 2021 09:51 AM Eastern Daylight Time DUBAI, United Arab Emirates--(BUSINESS WIRE)--The TellerScan TSX40 is Digital Check's latest multi-feed check scanner, manufactured exclusively for the international market. An entirely new platform that combines the best design elements of the TellerScan and SmartSource Elite series scanners, the TSX40 is intended for light and medium-duty check image capture in retail banking and business use. The new device includes several new features from the 'enhanced' SmartSource Elite series models, such as an automatic cleaning mode and ID card capture.
+
+
+***
+[Australian slot machine maker Aristocrat will acquire British gambling software company Playtech for $3.7B (Harry Brumpton/Bloomberg)](http://www.techmeme.com/211018/p15#a211018p15)
+
+
+> Harry Brumpton / Bloomberg: Australian slot machine maker Aristocrat will acquire British gambling software company Playtech for $3.7B — - Offer pitched at 58% premium to Playtech's latest price — Aristocrat to raise A$1.3 billion in share sale to fund deal — Australian slot-machine maker Aristocrat Leisure Ltd …
+
+
