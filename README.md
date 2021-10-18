@@ -16600,3 +16600,43 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Judge orders continued detention for Jan 6 riot defendant who sprayed police](https://www.reuters.com/resizer/6v58LhVP-7RV5oeWUyeEfbP93As=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RZERN45COBIBLKMJWV3WILFS3Q.jpg "Judge orders continued detention for Jan 6 riot defendant who sprayed police")
+
+
+[Judge orders continued detention for Jan 6 riot defendant who sprayed police](https://www.reuters.com/world/us/judge-orders-continued-detention-jan-6-riot-defendant-who-sprayed-police-2021-10-18/)
+
+
+> A mob of supporters of U.S. President Donald Trump fight with members of law enforcement at a door they broke open as they storm the U.S. Capitol Building in Washington, U.S., January 6, 2021. REUTERS/Leah Millis/File PhotoWASHINGTON, Oct 18 (Reuters) - A federal judge on Monday ordered continued pre-trial detention for a Pennsylvania man charged with spraying a chemical irritant on police officers during the Jan. 6 assault on the Capitol by Donald Trump supporters.U.S. District Judge Amy Berman Jackson said she found there was "clear and convincing evidence" to justify continuing detention of felony riot defendant Samuel Lazar, 37, of Ephrata, Pennsylvania.
+
+
+***
+![Apple updates Final Cut Pro and Logic Pro for new MacBook](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/apple_final-cut-pro-logic-pro_hero_10182021.jpg "Apple updates Final Cut Pro and Logic Pro for new MacBook")
+
+
+[Apple updates Final Cut Pro and Logic Pro for new MacBook](https://www.imore.com/apple-updates-final-cut-pro-and-logic-pro-new-macbook-m1-pro-and-m1-max)
+
+
+> Source: Apple Apple has just announced new MacBook Pro models with new Apple silicon. It has also updated Final Cut Pro and Logic Pro to take advantage. Apple today announced new updates to Final Cut Pro and Logic Pro to help take advantage of the new M1 Pro and M1 Max chips in its all-new mini-LED MacBook Pro. The company stated: Apple today updated Final Cut Pro and Logic Pro with powerful new features for creative professionals, and optimizations that take full advantage of the power and performance of the M1 Pro and M1 Max chips in the all-new MacBook Pro.
+
+
+***
+![MacOS Monterey is coming next week. Here's how you can get it when ready](https://icdn.digitaltrends.com/image/digitaltrends/olympus-digital-camera-952.jpg "MacOS Monterey is coming next week. Here's how you can get it when ready")
+
+
+[MacOS Monterey is coming next week. Here's how you can get it when ready](https://www.digitaltrends.com/computing/apple-announces-macos-montery-launch-date/)
+
+
+> In a press release for the new AirPods following the end of the Apple Unleashed event, Apple announced a release date for MacOS Monterey. The new operating system is set to come next week, as the follow-up to 2020's MacOS Big Sur release, and brings several big enhancements centered around productivity. Although Apple didn't provide a solid launch date, the timing means Mac OS Monterey should be expected at the latest by October 30. Apple's release specifically mentioned that Airpods 3 only work with Apple devices running iOS 15.
+
+
+***
+![Apple's macOS Monterey will be released on October 25](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/06/apple_macos-monterey_facetime-messages-safari_06072021.jpg "Apple's macOS Monterey will be released on October 25")
+
+
+[Apple's macOS Monterey will be released on October 25](https://www.imore.com/apples-macos-monterey-will-be-released-october-25)
+
+
+> Source: Apple Apple will release macOS Monterey on October 25. That means it'll debut alongside the stunning new MacBook Pro. Apple has confirmed that macOS Monterey will debut alongside the stunning new mini-LED MacBook Pro featuring new Apple silicon on October 25. The software news comes as Apple unveiled its staggering new MacBook Pro with 120Hz mini-LED display, new design, and phenomenal Apple silicon. The company stated: Apple today unveiled the completely reimagined MacBook Pro powered by the all-new M1 Pro and M1 Max — the first pro chips designed for the Mac.
+
+
