@@ -16640,3 +16640,50 @@
 > Source: Apple Apple will release macOS Monterey on October 25. That means it'll debut alongside the stunning new MacBook Pro. Apple has confirmed that macOS Monterey will debut alongside the stunning new mini-LED MacBook Pro featuring new Apple silicon on October 25. The software news comes as Apple unveiled its staggering new MacBook Pro with 120Hz mini-LED display, new design, and phenomenal Apple silicon. The company stated: Apple today unveiled the completely reimagined MacBook Pro powered by the all-new M1 Pro and M1 Max — the first pro chips designed for the Mac.
 
 
+***
+![Comtech Telecommunications Corp. Announces New Cybersecurity Solution](https://mms.businesswire.com/media/20211018005942/en/803360/23/CMTL_LOGO_NEW.jpg "Comtech Telecommunications Corp. Announces New Cybersecurity Solution")
+
+
+[Comtech Telecommunications Corp. Announces New Cybersecurity Solution](https://www.businesswire.com/news/home/20211018005942/en/Comtech-Telecommunications-Corp.-Announces-New-Cybersecurity-Solution)
+
+
+> October 18, 2021 04:00 PM Eastern Daylight Time MELVILLE, N.Y.--(BUSINESS WIRE)--October 18, 2021-- Comtech Telecommunications Corp. (NASDAQ: CMTL), a leading global provider of next-generation 911 emergency systems and secure wireless communications technologies, announced today, that during its first quarter of fiscal year 2022, it launched a new cybersecurity brand, CyberStronger™. CyberStronger provides cybersecurity solutions and services tailored to threat monitoring and assessment, training, and workforce development.
+
+
+***
+![PreMarket Prep Stock Of The Day: Zillow Group](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/zillow_hero_transparent_download_8.png?width=720 "PreMarket Prep Stock Of The Day: Zillow Group")
+
+
+[PreMarket Prep Stock Of The Day: Zillow Group](https://www.benzinga.com/trading-ideas/technicals/21/10/23427913/premarket-prep-stock-of-the-day-zillow-group)
+
+
+> When a stock is in a downtrend and the company comes out with bad news, on most occasions the issue declines in price in the short term. Whether or not longer-term investors use the weakness in price to accumulate shares of the issue, regardless of the recent news, is the question. The above scenario applies to Zillow Group Inc. (NYSE:Z), which is Monday's PreMarket Prep Stock Of The Day. Upsizing To Downsizing: After ending 2020 at $129.80, the issue ballooned to $208.22 in February and sharply reversed course.
+
+
+***
+![A new MacBook Pro completely maxed out will cost you more than $6,000](https://helios-i.mashable.com/imagery/articles/03GnEQsSipFhmvvIiVylh1o/hero-image.fill.size_1200x675.v1634586907.png "A new MacBook Pro completely maxed out will cost you more than $6,000")
+
+
+[A new MacBook Pro completely maxed out will cost you more than $6,000](https://mashable.com/article/macbook-pro-m1-max-price)
+
+
+> $6,099.That's the price of Apple's latest 16" MacBook Pro with the new M1 Max chip — if you max out all of the hardware specifications, too. That's quite a different price than the already hefty $2,499 starting price Apple advertised at its Apple Event on Monday.What do you get with this more than six thousand dollar computer?First let's talk about the basics. At Monday's Apple Event, Tim Cook and company unveiled its latest in the line of its in-house processing chip, the M1. The new chips, the M1 Pro and M1 Max, are faster, more powerful and energy efficient than ever before.
+
+
+***
+[macOS Monterey release candidate reintroduces Safari's old tab design as the default and Monterey's original Safari design as a "Compact" option (Juli Clover/MacRumors)](http://www.techmeme.com/211018/p28#a211018p28)
+
+
+> Juli Clover / MacRumors: macOS Monterey release candidate reintroduces Safari's old tab design as the default and Monterey's original Safari design as a “Compact” option — Apple has admitted defeat on the Safari design changes that have been present for the entire macOS Monterey beta …
+
+
+***
+![Sinclair hit by ransomware attack, TV stations disrupted](https://www.clickondetroit.com/resizer/_Bj-i66114dR6oB3cCdelLRHulM=/800x512/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/JIX4JLMPSVE4LE27HXAIQ2XZQ4.jpg "Sinclair hit by ransomware attack, TV stations disrupted")
+
+
+[Sinclair hit by ransomware attack, TV stations disrupted](https://www.clickondetroit.com/tech/2021/10/18/sinclair-probes-weekend-data-breach-ransomware-found/)
+
+
+> Sinclair Broadcast Group, which operates dozens of TV stations across the U.S., said Monday that some of its servers and work stations were encrypted with ransomware and that data was stolen from its network. The company said it started investigating Saturday and on Sunday it found that some of its office and operational networks were disrupted. The broadcast group did not immediately say how many TV stations were directly affected. The Hunt Valley, Maryland-based company either owns or operates 21 regional sports network and owns, operates or provides services to 185 television stations in 86 markets.
+
+
