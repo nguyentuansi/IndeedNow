@@ -16257,3 +16257,50 @@
 > There is a story that there is a seller who sold used goods worth 13 billion won on a used trading platform, and attention is focused on the identity of the seller. On a second-hand trading platform that usually trades small amounts of second-hand goods between residents of the same area, a seller based in Gangnam, Seoul recently sold several hundred to tens of millions of won worth of items one after another. There is a story that there is a seller who sold used goods worth 13 billion won on a used trading platform, and attention is focused on the identity of the seller.
 
 
+***
+[FUNCTOOLS CHANGED MY LIFE](https://www.reddit.com/r/Python/comments/qacvb4/functools_changed_my_life/)
+
+
+> functools docsI work as an ETL engineer intern at a bio tech firm and recently I discovered this medium article. I talked to my supervisor and went on like a 2 hour refactor of some of our endpoint code for which we use fastapi and managed to reduce a 200 line middleware file to something like 4 lines in a for loop. I just thought it was cool to share it here. Any other functools that have changed ur life maybe?
+
+
+***
+![Four security firms merge to form Sekuro](https://itwire.com/media/k2/items/cache/6ab8a7ea48031ecfe75f616e460cb083_XS.jpg "Four security firms merge to form Sekuro")
+
+
+[Four security firms merge to form Sekuro](https://itwire.com/deals/four-security-firms-merge-to-form-sekuro.html)
+
+
+> Sekuro CEO Robert McAdam Australian cybersecurity consultancies Privasec, Solista, CXO Security and Naviro have merged to form Sekuro. The merger gives Sekuro an annual revenue of $68 million from services including consultation, technology and platform implementation, team augmentation, managed services and assurance and compliance. The new company inherits more than 30 years of operational experience, and the former CEOs of the predecessor businesses are all taking active roles, with Robert McAdam (ex CXO Security) becoming CEO of Sekuro.
+
+
+***
+![All About Python Built-In Functions](https://external-preview.redd.it/UKQFKVitD9rT5s3CqARHg51By6kAn2EfSq8588nQzyE.jpg?auto=webp&s=433ee0bffc81e78e184135dca62e0a020a48e092 "All About Python Built-In Functions")
+
+
+[All About Python Built-In Functions](https://www.reddit.com/r/programming/comments/qacnhh/all_about_python_builtin_functions/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![$590 mil in ransomware payments reported to U.S. in 2021 as attacks surge](https://external-preview.redd.it/2hzhuY5byZuAspM3MWFn67pXZdvld0xHfgrHzyFwNqI.jpg?auto=webp&s=97f8d643f00e4f2ad6214a8a0ab1c47b9f7006ee "$590 mil in ransomware payments reported to U.S. in 2021 as attacks surge")
+
+
+[$590 mil in ransomware payments reported to U.S. in 2021 as attacks surge](https://www.reddit.com/r/technology/comments/qackwi/590_mil_in_ransomware_payments_reported_to_us_in/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Facebook to hire 10,000 people in EU to build 'metaverse'](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/85c57d4f35ab4eb19f7f102c3e2eff37.jpg "Facebook to hire 10,000 people in EU to build 'metaverse'")
+
+
+[Facebook to hire 10,000 people in EU to build 'metaverse'](https://www.koreatimes.co.kr/www/tech/2021/10/133_317172.html)
+
+
+> Attendees walk past a Facebook logo during Facebook's F8 developer conference in San Jose, Calif., April 30, 2019. Facebook on Monday announced plans to hire 10,000 people in the European Union to build the "metaverse." Reuters-YonhapFacebook on Monday announced plans to hire 10,000 people in the European Union to build the "metaverse", a virtual reality version of the internet that the tech giant sees as the future.Facebook CEO Mark Zuckerberg has been a leading voice in Silicon Valley hype around the idea of the metaverse, which would blur the lines between the physical world and the digital one.
+
+
