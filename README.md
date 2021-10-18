@@ -16687,3 +16687,53 @@
 > Sinclair Broadcast Group, which operates dozens of TV stations across the U.S., said Monday that some of its servers and work stations were encrypted with ransomware and that data was stolen from its network. The company said it started investigating Saturday and on Sunday it found that some of its office and operational networks were disrupted. The broadcast group did not immediately say how many TV stations were directly affected. The Hunt Valley, Maryland-based company either owns or operates 21 regional sports network and owns, operates or provides services to 185 television stations in 86 markets.
 
 
+***
+![AirPods 3 vs. AirPods Pro: All the specs and features compared](https://www.cnet.com/a/img/DSmxfP1f-YRvxjqwFZp-WoBe6s0=/1200x630/2019/11/26/a3d26b76-a470-472d-be64-e2fa7c90f40e/apple-airpods-pro-2.jpg "AirPods 3 vs. AirPods Pro: All the specs and features compared")
+
+
+[AirPods 3 vs. AirPods Pro: All the specs and features compared](https://www.cnet.com/tech/mobile/airpods-3-vs-airpods-pro-specs-features-compared/)
+
+
+> Apple's third-generation AirPods inherit several features from the AirPods Pro.  Apple After much speculation, Apple finally debuted its new third-generation AirPods on Monday. The announcement came during the company's "Unleashed" event, where it also revealed a redesigned MacBook Pro that comes in 14-inch and 16-inch sizes and more powerful new Mac chips. True to the rumors, Apple's new $179 AirPods have a lot in common with the high-end AirPods Pro. The stems are shorter and the earpiece is shaped more like the AirPods Pro's, except it retains the older model's open design rather than changeable tips.
+
+
+***
+![PS5 dethrones Nintendo Switch for the first time in almost 3 years](https://www.cnet.com/a/img/PLA1NiX1veYdcsTghyShzv6jKPk=/1200x630/2021/03/08/13fe47c0-4f8e-4f7f-9ec1-6623d3d13bd1/ps5-playstation-5-sony-hoyle-promo-12.jpg "PS5 dethrones Nintendo Switch for the first time in almost 3 years")
+
+
+[PS5 dethrones Nintendo Switch for the first time in almost 3 years](https://www.cnet.com/tech/gaming/ps5-dethrones-nintendo-switch-for-the-first-time-in-almost-3-years/)
+
+
+> Andrew Hoyle/CNET The PlayStation 5 surpassed the Nintendo Switch in September US sales, stopping a 33-month streak for the Switch, according to Mat Piscatella, executive director of the NPD group. Sony's PS5 console, which is still notoriously difficult to find due to a global chip shortage, becomes the first console to top the Switch in monthly sales since November 2018. Piscatella's mentions that the PlayStation 5 leads the Switch in sales dollars so far this year, but Nintendo's console (which costs less than the PS5) still leads in units sold this year.
+
+
+***
+![Apple quietly added a MagSafe charging case to its AirPods Pro, too](https://cdn.vox-cdn.com/thumbor/3PI5cQyr25gx-NwpcckDrCP3klU=/0x194:2124x1306/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22936802/Screen_Shot_2021_10_18_at_2.19.16_PM.png "Apple quietly added a MagSafe charging case to its AirPods Pro, too")
+
+
+[Apple quietly added a MagSafe charging case to its AirPods Pro, too](https://www.theverge.com/2021/10/18/22733183/apple-magsafe-charging-case-airpods-pro-qi)
+
+
+> Apple just announced its third-generation AirPods with a new charging case that works with its MagSafe magnetic charging system, but the company also quietly announced that, starting today, it'll also be including the new case with its pricier $250 AirPods Pro model, too. Related Apple announces third-generation AirPods for $179 The new case doesn't claim to charge Apple's AirPod products any faster; it just has the magnets needed to attach to Apple's MagSafe charging puck for easier alignment when charging.
+
+
+***
+![Esperion Chops 40% Workforce As Launch Of Cholesterol Medication Falters](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/man-g4ab649fac_1920.jpg "Esperion Chops 40% Workforce As Launch Of Cholesterol Medication Falters")
+
+
+[Esperion Chops 40% Workforce As Launch Of Cholesterol Medication Falters](https://www.benzinga.com/general/biotech/21/10/23424407/esperion-chops-40-workforce-as-launch-of-cholesterol-medication-falters)
+
+
+> Esperion Therapeutics Inc's (NASDAQ: ESPR) cholesterol drug marketing strategy has soured badly, as it has been struggling to sell its heart disease pill for more than a year. What Happened: The Company says it will cut about 40% of its staff over the next few weeks, or approximately 170 staffers are on the chopping block. The reductions are expected to save up to $80 million going into 2022. Esperion thought that with a cheaper pricing strategy, it could beat out the expensive PCSK9s Amgen Inc's (NASDAQ: AMGN) Repatha and Regeneron Pharmaceuticals Inc (NASDAQ: REGN) Praluent.
+
+
+***
+![Best cheap Adobe Photoshop deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/adobe-photoshop-data-desk-693892.jpg "Best cheap Adobe Photoshop deals for October 2021")
+
+
+[Best cheap Adobe Photoshop deals for October 2021](https://www.digitaltrends.com/dtdeals/best-photoshop-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. When it comes to digital graphic design, no software really holds a candle to Photoshop. Adobe's app suite has been the go-to toolbox for professionals and hobbyists around the globe for decades, but seeing as it's paid software, you naturally want to know what you're buying and make sure that you're getting your money's worth. We can help: Below, we've rounded up all the best Adobe Photoshop deals and lowest prices available this month, followed by a quick run-down of the different packages to choose from.
+
+
