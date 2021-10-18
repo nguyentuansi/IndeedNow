@@ -16304,3 +16304,50 @@
 > Attendees walk past a Facebook logo during Facebook's F8 developer conference in San Jose, Calif., April 30, 2019. Facebook on Monday announced plans to hire 10,000 people in the European Union to build the "metaverse." Reuters-YonhapFacebook on Monday announced plans to hire 10,000 people in the European Union to build the "metaverse", a virtual reality version of the internet that the tech giant sees as the future.Facebook CEO Mark Zuckerberg has been a leading voice in Silicon Valley hype around the idea of the metaverse, which would blur the lines between the physical world and the digital one.
 
 
+***
+![Cut price luxury SUV arrives in Oz](https://content.api.news/v3/images/bin/0366696f9b7187104a750e87b6a75cd5 "Cut price luxury SUV arrives in Oz")
+
+
+[Cut price luxury SUV arrives in Oz](https://www.news.com.au/technology/motoring/luxury/2021-genesis-gv70-review-lots-of-luxury-at-a-lower-price/news-story/e20b3986b95fc0daad3387c3c7d47860)
+
+
+> This new premium challenger has landed on Australian roads and is bringing lots of luxury at a serious discount to its German rivals.Don't miss out on the headlines from Luxury. Followed categories will be added to My News.Genesis is new to the local market but looks poised to make a dent in the sales of the established luxury brands.Here is everything you need to know about the Genesis GV70.VALUEThe GV70 range starts at about $73,000 drive-away for the rear-drive version with a 2.5-litre four-cylinder turbo.
+
+
+***
+![‘Odd': TV journalist and ufologist's secretive report about Ben Roberts-Smith](https://images.perthnow.com.au/publication/C-4268249/695faf850d34c80a1a27e8bbcc5a7f14bbdbfde7-16x9-x0y0w1476h830.jpg?imwidth=1200 "‘Odd': TV journalist and ufologist's secretive report about Ben Roberts-Smith")
+
+
+[‘Odd': TV journalist and ufologist's secretive report about Ben Roberts-Smith](https://www.news.com.au/technology/innovation/military/odd-tv-journalist-and-ufologists-secretive-report-about-ben-robertssmith/news-story/2232be0ea52995dcfc37798db6f9a4c9)
+
+
+> Ben Roberts-Smith's billionaire backers enlisted a star TV journalist and UFO researcher to run a secretive counter investigation into war crime allegations, a court has been told.But the report, which is so closely guarded even the elite soldier has not seen it, may not see the light of day, as his lawyers try to keep it from getting out.Australia's most decorated living soldier is suing Nine and its journalists, claiming they falsely accused him of killing six unarmed prisoners in Afghanistan.Nine says its reports are correct and Mr Roberts-Smith is a war criminal.
+
+
+***
+[OnePlus Watch Harry Potter Edition to Go Official in India Soon; Price Leaked Ahead of Launch](http://www.pinkvilla.com/tech/news/oneplus-watch-harry-potter-edition-to-go-official-in-india-soon-price-leaked-ahead-of-launch-919652)
+
+
+> Attach Main technology Image: Social Media Image : Enter the Technology details: OnePlus posted a teaser last week revealing that the company is working on a new version of the OnePlus Watch.  OnePlus Watch Harry Potter Edition in India, according to a recent teaser, is a new variation of their wearable that would be released shortly in India. A Hogwarts insignia was revealed on the strap in the teaser. The pricing of this limited-edition smartwatch has been leaked ahead of its release.
+
+
+***
+![M1X MacBook Pro, AirPods 3, and everything else to expect from Apple Unleashed event](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/appleevent_18102021-original.png "M1X MacBook Pro, AirPods 3, and everything else to expect from Apple Unleashed event")
+
+
+[M1X MacBook Pro, AirPods 3, and everything else to expect from Apple Unleashed event](https://www.indiatoday.in/technology/news/story/m1x-macbook-pro-airpods-3-and-everything-else-to-expect-from-apple-unleashed-event-1865948-2021-10-18)
+
+
+> Story highlights Apple has its Unleashed event scheduled for 10.30 pm IST today. Apple may launch the new M1X MacBook Pro today at the event. There is also the possibility AirPods 3 will arrive today. Apple took a big leap last year when it introduced its M1 silicon chipsets that the company claimed are much faster and more efficient than the Intel chipsets, which Apple has been relying on so far. Last year, the MacBook Pro and the MacBook Air were the first models to get the M1. And now, there is a successor coming.
+
+
+***
+![Python Virtual Environment](https://external-preview.redd.it/JuII6MslSbjaAl9TyPi2difAK_BvnckEnh9iY-p8kn4.jpg?auto=webp&s=9f0b7fe5382dc1c140e2b26cb0c1bc9e69642a37 "Python Virtual Environment")
+
+
+[Python Virtual Environment](https://www.reddit.com/r/programming/comments/qaeieg/python_virtual_environment/)
+
+
+> no comments yetBe the first to share what you think!
+
+
