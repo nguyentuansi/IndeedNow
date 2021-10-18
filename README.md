@@ -16459,3 +16459,50 @@
 > (Image credit: id Software) Browsing Twitter might leave you feeling like youâ€™ve wandered through the depths of hell, but now you can actually do that on the platform by playing Doom. Yep, that's right, the classic FPS game is now playable on Twitter (provided youâ€™re good at coding and love trial and error).This isnâ€™t the first weird place weâ€™ve seen the game series crop up. Users have managed to play Doom games on a wide range of console alternatives from pregnancy tests to smart fridges proving that you don't need a PS5 after all.
 
 
+***
+[Rejected after successfully solving a given task](https://www.reddit.com/r/Python/comments/qal9ve/rejected_after_successfully_solving_a_given_task/)
+
+
+> Hey, so this happened few days ago.I am learning python and javascript for the past year and a half and I though it might me a good time for me to apply for a dev job.I found this one in pretty good looking company doing eshop and web projects, they were hiring back-end junior python developer for django. On their site they stated that before an interview, they will send you a task to solve. So I applied, got a mail, recruiter said that the task could be submitted multiple times.The task was quite easy for me, since I've been practicing some algorithms before.
+
+
+***
+![Google is running out of time. The Pixel Watch needs to happen now.](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/android-smartwatches-lifestyle-01.jpg "Google is running out of time. The Pixel Watch needs to happen now.")
+
+
+[Google is running out of time. The Pixel Watch needs to happen now.](https://www.androidcentral.com/google-needs-stop-messing-around-and-finally-release-pixel-watch)
+
+
+> Source: Chris Wedel/Android Central Google has been in the smartwatch game since 2014 with the LG G Watch and Samsung Gear Live running Android Wear. Still, you might be surprised to find out that it has never had its own branded wearable. We hear rumblings each year that Google is releasing a Pixel Watch, but it still hasn't. Revamps of its phone OS with Android 12 and the wearable platform with Wear OS 3, however, now means 2021 is the perfect time for Google to release a Pixel Watch. Samsung currently has a monopoly on the latest iteration of Wear OS with its recently launched Galaxy Watch 4 series and as great as Samsung is at many things, this smartwatch isn't shaping up to be the Wear OS savior many fans hoped for.
+
+
+***
+![Against the Storm Beginner Guide](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Against%20the%20Storm%20Key%20Art%20Beginner%20Guide.jpg?itok=eW-xHbRZ "Against the Storm Beginner Guide")
+
+
+[Against the Storm Beginner Guide](https://techraptor.net/gaming/guides/against-storm-beginner-guide)
+
+
+> If you're a newcomer to the world of Against the Storm then you're probably feeling a bit overwhelmed right about now. What's all this talk about ‘Rainpunk' mean? How are you supposed to keep everyone, including your Queen, as happy as possible while still surviving in the hostile environment of the dark forest? Perhaps most importantly: What's a Viceroy? All, or at least some, of these questions, will be answers in this, our Against the Storm beginner guide. Getting Started with the Against the Storm Beginner Guide Don't get too attached to your village because you won't get to keep it.
+
+
+***
+![The Tech Wrangler: One Of The Cheapest Streaming Players Is Also The Best](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615f71b65739894c50d0d297%2F0x0.jpg "The Tech Wrangler: One Of The Cheapest Streaming Players Is Also The Best")
+
+
+[The Tech Wrangler: One Of The Cheapest Streaming Players Is Also The Best](https://www.forbes.com/sites/forbes-personal-shopper/2021/10/07/tech-wrangler-cheapest-streaming-player-best/)
+
+
+> The Tech Wrangler is a bi-weekly column in which Forbes Vetted Senior Editor Dave Johnson explores the best values in consumer tech. These are not necessarily the least expensive products in their class, but represent the crossroad of price and performance—in other words, money well spent. It only took a few years for sweeping changes to revolutionize the way we watch TV. For most of us, cable TV, live television and online channel guides are a thing of the past, as ancient as newspapers and pencil sharpeners.
+
+
+***
+![Galaxy S22 Series Could Feature Wider Displays](https://www.androidheadlines.com/wp-content/uploads/2021/01/Samsung-Galaxy-S21-Ultra-AH-07.jpg "Galaxy S22 Series Could Feature Wider Displays")
+
+
+[Galaxy S22 Series Could Feature Wider Displays](https://www.androidheadlines.com/2021/10/galaxy-s22-series-wider-displays.html)
+
+
+> Samsung is focusing all its efforts on its upcoming flagship lineup, the Galaxy S22. Last week, we came across a dummy unit of the Galaxy S22 Plus. Today, we're getting a better glimpse of the Galaxy S22 and the S22 Plus in the form of tempered glass screen protectors.The leak comes from the well-known source, Ice Universe, on Twitter (via). Screen protectors are usually available ahead of time and generally leak out prior to a phone's release. Going by this revelation, the Galaxy S22 lineup could be slightly wider compared to its predecessor.
+
+
