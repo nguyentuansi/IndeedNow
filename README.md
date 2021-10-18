@@ -16412,3 +16412,50 @@
 > Using the UMANG Application users can now access Passport Seva on their mobile.
 
 
+***
+!['Keep calm': A Georgia town calls for unity as it prepares for Black jogger murder trial](https://static.reuters.com/resources/r/?m=02&d=20211018&t=2&i=1578175546&r=LYNXMPEH9H0HE&w=800 "'Keep calm': A Georgia town calls for unity as it prepares for Black jogger murder trial")
+
+
+['Keep calm': A Georgia town calls for unity as it prepares for Black jogger murder trial](https://www.reuters.com/article/us-usa-race-georgia-arbery-brunswick-idUSKBN2H80YM)
+
+
+> BRUNSWICK, Georgia (Reuters) - Community leaders in Brunswick, Georgia, are preaching unity ahead of the trial of three white men accused of racially motivated murder in the shotgun death of a Black jogger, anxious it does not stir racial tensions or violent protests in their small coastal city.FILE PHOTO: The Boykin Ridge neighborhood, where Ahmaud Arbery was staying with his mother the day he went for a jog and was slain about 2 miles away in the Satilla Shores neighborhood, in Brunswick, Georgia, U.
+
+
+***
+[Ncase M1 Custom Loop](https://www.sweclockers.com/forum/trad/1647168-ncase-m1-custom-loop)
+
+
+> In English as Swedish is still terrible (sorry!) Picked up at 5900x and 3080ti recently after a long long wait to get them for 'acceptable' price so decided to go full custom loop for this upgrade. Pretty standard setup for the ncase using dual 240 & the external Iceman Pump/Res that I've had sitting on my shelf for over a year. It's my first full custom loop since building them back in the days of buying custom made waterblocks off forums and using a fish tank pump, oh how things have changed ;) PC CPU: 5900X (was 3600x) GPU: 3080ti Mobo: Gigabyte X570 I AORUS PRO, RAM: 32GB G.
+
+
+***
+![A Peek Into The Markets: US Stock Futures Down Ahead Of Earnings](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/peek_into_the_marketnew_283.png "A Peek Into The Markets: US Stock Futures Down Ahead Of Earnings")
+
+
+[A Peek Into The Markets: US Stock Futures Down Ahead Of Earnings](https://www.benzinga.com/news/earnings/21/10/23414703/a-peek-into-the-markets-us-stock-futures-down-ahead-of-earnings)
+
+
+> Pre-open movers U.S. stock futures traded lower in early pre-market trade after the Dow Jones surged more than 1% in the previous session. Investors are awaiting earnings results from Albertsons Companies Inc (NYSE: ACI), Steel Dynamics, Inc. (NASDAQ: STLD), State Street Corp (NYSE: STT) and Zions Bancorporation, National Association (NASDAQ: ZION). Data on industrial production for September will be released at 9:15 a.m. ET, while the housing market index for October is scheduled for release at 10:00 a.
+
+
+***
+![How to run a web server using Java in 2022](https://external-preview.redd.it/sEQ9hYhMABDElATM6NXwjI40NkdluU79M05JI9AkvgI.jpg?auto=webp&s=26cce3ee61ed11431a64db89fab845f575053627 "How to run a web server using Java in 2022")
+
+
+[How to run a web server using Java in 2022](https://www.reddit.com/r/programming/comments/qajkaa/how_to_run_a_web_server_using_java_in_2022/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Doom on Twitter is possibly the worst way to play so far](https://cdn.mos.cms.futurecdn.net/x34KiAetPy6q5v9piPVXL-1200-80.jpg "Doom on Twitter is possibly the worst way to play so far")
+
+
+[Doom on Twitter is possibly the worst way to play so far](https://www.techradar.com/news/doom-on-twitter-is-possibly-the-worst-way-to-play-so-far)
+
+
+> (Image credit: id Software) Browsing Twitter might leave you feeling like youâ€™ve wandered through the depths of hell, but now you can actually do that on the platform by playing Doom. Yep, that's right, the classic FPS game is now playable on Twitter (provided youâ€™re good at coding and love trial and error).This isnâ€™t the first weird place weâ€™ve seen the game series crop up. Users have managed to play Doom games on a wide range of console alternatives from pregnancy tests to smart fridges proving that you don't need a PS5 after all.
+
+
