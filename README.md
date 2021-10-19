@@ -16881,3 +16881,44 @@
 > Customers with BT broadband may play hundreds of Xbox games for free. BT HAS JUST RELEASED A MAJOR NEW INCENTIVE FOR ITS BROADBAND CUSTOMERS, with those who sign up for superfast Fibre contracts receiving complimentary Xbox Game Pass Ultimate. Thanks to a BT deal, Xbox gamers might get a year's worth of free games. The broadband provider recently announced the debut of a new deal that includes the popular Xbox Game Pass Ultimate for free. Customers using BT Broadband can get a free 12-month subscription to Xbox Game Pass Ultimate.
 
 
+***
+![Delivery Hero buys minority stake in grocery delivery startup Gorillas](https://www.reuters.com/resizer/QPRaeE41OE-topVJN8cq-Ur4S3U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4JBIQCGJ5VKGFLB2QZ63T6N7PY.jpg "Delivery Hero buys minority stake in grocery delivery startup Gorillas")
+
+
+[Delivery Hero buys minority stake in grocery delivery startup Gorillas](https://www.reuters.com/technology/delivery-hero-buys-minority-stake-grocery-delivery-startup-gorillas-2021-10-19/)
+
+
+> The Delivery Hero's logo is pictured at its headquarters in Berlin, Germany, August 18, 2020. REUTERS/Fabrizio BenschBERLIN Oct 19 (Reuters) - Delivery Hero (DHER.DE) said on Tuesday it had invested $235 billion in the Berlin-based grocery delivery company Gorillas, amid a boom in rapid delivery services.The purchase means Delivery Hero will own 8% of the fast-growing startup which operates in nine countries and has coveted 'unicorn' status little more than a year after its foundation.The investment is part of a series C funding round which has raised close to $1 billion and saw participation by China's Tencent and Coatue, among other top-tier investors.
+
+
+***
+[Apple Event 2021 highlights: New M1 Pro, M1 Max chipsets launched](https://www.zeebiz.com/technology/news-apple-event-2021-highlights-new-m1-pro-m1-max-chipsets-launched-check-complete-details-here-168158)
+
+
+> The M1 Pro and M1 Max introduce a system-on-a-chip (SoC) architecture to pro systems for the first time.
+
+
+***
+[India's CRED, which rewards customers for paying their credit card bills on time, raises a $251M Series E at a $4.01B valuation (Manish Singh/TechCrunch)](http://www.techmeme.com/211019/p2#a211019p2)
+
+
+> Manish Singh / TechCrunch: India's CRED, which rewards customers for paying their credit card bills on time, raises a $251M Series E at a $4.01B valuation — Indian fintech CRED said on Tuesday it has raised $251 million in a new financing round, its third funding this year, at a valuation of $4.01 billion.
+
+
+***
+[Google Pixel 6 series launch event is scheduled for today; Expected price, details and more](http://www.pinkvilla.com/tech/news/google-pixel-6-series-launch-event-is-scheduled-for-today-expected-price-details-and-more-920635)
+
+
+> Attach Main technology Image: Image Caption: Google Pixel 6 series launch event is scheduled for today; Expected price, details and more Social Media Image : Enter the Technology details: Google has scheduled the launch event today at 10:30 PM IST. The company is going to launch the new Google Pixel 6 and Pixel 6 Pro smartphones along with the Pixel Stand 2 wireless charger that could be priced at $79 which is roughly Rs 6,000 in Indian Currency. The launch event will be live streamed on YouTube at 10:30 PM IST.
+
+
+***
+![New FCC rules could force wireless carriers to block spam texts](https://external-preview.redd.it/9rboDnR4bhn7jX0V2MWdMV1LdTdB-fROQE6iKrjsBKs.jpg?auto=webp&s=00a502fa6ab9ef32b92703d71c132c1426801de4 "New FCC rules could force wireless carriers to block spam texts")
+
+
+[New FCC rules could force wireless carriers to block spam texts](https://www.reddit.com/r/technology/comments/qb51zr/new_fcc_rules_could_force_wireless_carriers_to/)
+
+
+> no comments yetBe the first to share what you think!
+
+
