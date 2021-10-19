@@ -16737,3 +16737,47 @@
 > Digital Trends may earn a commission when you buy through links on our site. When it comes to digital graphic design, no software really holds a candle to Photoshop. Adobe's app suite has been the go-to toolbox for professionals and hobbyists around the globe for decades, but seeing as it's paid software, you naturally want to know what you're buying and make sure that you're getting your money's worth. We can help: Below, we've rounded up all the best Adobe Photoshop deals and lowest prices available this month, followed by a quick run-down of the different packages to choose from.
 
 
+***
+![Apple Music Voice Plan: everything we know (and what we don't)](https://cdn.mos.cms.futurecdn.net/nfXZjwJE69L4APoK9qkDRg-1200-80.jpg "Apple Music Voice Plan: everything we know (and what we don't)")
+
+
+[Apple Music Voice Plan: everything we know (and what we don't)](https://www.techradar.com/news/apple-music-voice-plan-everything-we-know-and-what-we-dont)
+
+
+> Apple kicked off its Apple Unleashed Event coverage by letting the world know that a new Apple Music plan was coming – the Voice Plan.Half the price of the standard Apple Music plan, it's designed for those that like to use Siri to command their Apple devices (although how many people that really is remains to be seen).However, contained within that description is something rather mysterious – what does Voice Plan really mean? What music can you listen to? What are you losing by skipping half the price?Want some new AirPods? Well, read all about the new AirPods 3Apple Music Voice Plan – how will it work?So what will you get? Basically, Siri is your own personal DJ, allowing you to ask it to play you things wherever you can talk to the personal assistant.
+
+
+***
+![Opinion: I wasn't planning to buy a MacBook Pro, but today's event exceeded my wildest expectations](https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Screen-Shot-2021-10-18-at-1.47.11-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "Opinion: I wasn't planning to buy a MacBook Pro, but today's event exceeded my wildest expectations")
+
+
+[Opinion: I wasn't planning to buy a MacBook Pro, but today's event exceeded my wildest expectations](https://9to5mac.com/2021/10/18/opinion-i-wasnt-planning-to-buy-a-macbook-pro-but-todays-event-exceeded-my-wildest-expectations/)
+
+
+> We had known that Apple was working on an all-new MacBook Pro based on Apple Silicon for quite a long time. I hadn't been particularly interested in the rumored machine because of the tremendously good M1 Macs that the company has been spinning out for about a year now. The new iMac is an incredible machine that's matched by a gorgeous design. Even the first M1 machines introduced last November are still very good and very fast computers. So I had no intention of buying a MacBook Pro today. Now if you know me, you're probably thinking 'this was inevitable' or 'of course he was going to buy one.
+
+
+***
+[Facebook posts an odd thread attacking 30+ unnamed journalists "finishing up a coordinated series of articles based on thousands of pages of leaked documents" (Edward Ongweso Jr/VICE)](http://www.techmeme.com/211018/p38#a211018p38)
+
+
+> Edward Ongweso Jr / VICE: Facebook posts an odd thread attacking 30+ unnamed journalists “finishing up a coordinated series of articles based on thousands of pages of leaked documents” — The company decried the use of embargoes to coordinate a coming series of reporting on thousands of pages of leaks, despite regularly using embargoes itself.
+
+
+***
+[為了證明 Windows 11 有多安全，微軟親自「駭」掉了自家電腦](https://technews.tw/2021/10/19/how-microsoft-proves-how-secure-windows-11-is/)
+
+
+> 2015 年微軟發布 Windows 10 時，微軟開發人員 Jerry Nixon 曾稱 Windows 1 […]
+
+
+***
+![Trend Micro duo find Linux malware targeting Huawei Cloud](https://itwire.com/media/k2/items/cache/a2bf353f8670c402e685d262272b6237_XS.jpg "Trend Micro duo find Linux malware targeting Huawei Cloud")
+
+
+[Trend Micro duo find Linux malware targeting Huawei Cloud](https://itwire.com/security/trend-micro-duo-find-linux-malware-targeting-huawei-cloud.html)
+
+
+> Image by OpenClipart-Vectors from Pixabay A vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware is one route through which Linux malware, observed by researchers at Trend Micro to be attacking Huawei Cloud, a relatively new cloud service provider, gain access to systems. A blog post by researchers Alfredo Oliveira and David Fiser said the other methods whereby the malware gained access were through the abuse of weak passwords for SSH, Redis, PostgreSQL, SQLServer, MongoDB and FTP clients.
+
+
