@@ -17022,3 +17022,53 @@
 > No body in the article.
 
 
+***
+![Despite increased immunization efforts, New Zealand has the highest daily number of Covid-19 infections. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/616e64c685f54050b132f0e2.jpg "Despite increased immunization efforts, New Zealand has the highest daily number of Covid-19 infections. » Brinkwire")
+
+
+[Despite increased immunization efforts, New Zealand has the highest daily number of Covid-19 infections. » Brinkwire](https://en.brinkwire.com/news/despite-increased-immunization-efforts-new-zealand-has-the-highest-daily-number-of-covid-19-infections/)
+
+
+> The nation's remaining hopes of achieving ‘zero Covid' have shown no signs of coming any closer to reality, as Tuesday saw 94 new coronavirus infections. The latest figure announced by New Zealand health officials is an all-time record after a previous high of 89 cases in a single day, which occurred twice earlier in the pandemic. The bulk of the new cases were detected in Auckland, the island's largest city by population, though seven were located in the Waikato district, some 110km (68 miles) south of the metropolis.
+
+
+***
+![Are the extra iPhone cameras FAKE? TikTok star thinks she has proof](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/10/comp-ke-phone.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Are the extra iPhone cameras FAKE? TikTok star thinks she has proof")
+
+
+[Are the extra iPhone cameras FAKE? TikTok star thinks she has proof](https://www.thesun.co.uk/tech/16465245/iphone-cameras-fake-conspiracy-video/)
+
+
+> A TIKTOK conspiracy video has got people thinking that two out of the three cameras on new iPhones are fake. The iPhone 11 Pro, 12 Pro and 13 Pro all have three camera lenses at the back but a viral video is now questioning their relevance. The footage shows how the video doesn't change when this woman covers two out of the three cameras Some iPhones have three camera lenses, which all do different things The video was posted by TikToker @kaylathayla. It shows her filming herself in a mirror on what appears to be an iPhone with three camera lenses.
+
+
+***
+![Here's how it works: WhatsApp has added a brilliant new button to your chats. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/whatsapp-button.jpg "Here's how it works: WhatsApp has added a brilliant new button to your chats. » Brinkwire")
+
+
+[Here's how it works: WhatsApp has added a brilliant new button to your chats. » Brinkwire](https://en.brinkwire.com/technology/heres-how-it-works-whatsapp-has-added-a-brilliant-new-button-to-your-chats/)
+
+
+> WHATSAPP has added a brand new button that makes your Group Chats much more powerful. It's linked to group video and audio calls – improving them significantly. Earlier this year, WhatsApp added joinable calls. That meant you could join a WhatsApp Group Call even when it's in progress – rather than missing out if you didn't accept the original invite. That made WhatsApp more akin to popular video chat apps like Zoom and Google Meet. Now you can join these group video calls directly from the chat tab.
+
+
+***
+![The new Switch OLED is a sight to behold but may be a tuff upgrade for some](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/10/oled-xxx.png?strip=all&quality=100&w=750&h=500&crop=1 "The new Switch OLED is a sight to behold but may be a tuff upgrade for some")
+
+
+[The new Switch OLED is a sight to behold but may be a tuff upgrade for some](https://www.thescottishsun.co.uk/tech/7868748/switch-oled-review/)
+
+
+> THE Switch has been a massive hit since it launched in 2017. Its signature blend of handheld thrills and home-comfort gaming has been backed up by a killer game library. Since then we have had the new power-house consoles with the Xbox Series X and the PS5 while the Switch also has a little brother, the Lite. New Nintendo Switch with BETTER screen than your telly unveiled But things rarely stand still for long in gaming and the Switch now has the OLED. It is fair to say this is not what many had hoped for.
+
+
+***
+![Apple launches $19 ‘polishing cloth' for its computers](https://static.independent.co.uk/2021/10/19/13/Screenshot%202021-10-19%20at%2013.01.42.png?width=1200&auto=webp&quality=75 "Apple launches $19 ‘polishing cloth' for its computers")
+
+
+[Apple launches $19 ‘polishing cloth' for its computers](https://www.independent.co.uk/life-style/gadgets-and-tech/apple-cloth-polishing-mac-display-iphone-clean-b1941055.html)
+
+
+> Apple has released its latest product: a new cleaning cloth for its displays.At $19 or the same in pounds, it is much more expensive than many competitors. On Amazon, for instance, one seller is offering 20 microfibre cleaning clothes for just £6.69.But it claims to offer special features above and beyond any normal cleaning cloth – and Apple warns that using any other kind of cloth on its £5,499 displays could damage them.As with any other Apple product, it can be bought directly from the Apple Store, where it has its own listing.
+
+
