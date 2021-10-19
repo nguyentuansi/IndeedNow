@@ -16781,3 +16781,53 @@
 > Image by OpenClipart-Vectors from Pixabay A vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware is one route through which Linux malware, observed by researchers at Trend Micro to be attacking Huawei Cloud, a relatively new cloud service provider, gain access to systems. A blog post by researchers Alfredo Oliveira and David Fiser said the other methods whereby the malware gained access were through the abuse of weak passwords for SSH, Redis, PostgreSQL, SQLServer, MongoDB and FTP clients.
 
 
+***
+![Meet 'Flippy': The robot that's cooking burgers at this Shoreline restaurant](https://media.king5.com/assets/KING/images/fd56c649-a773-4d9b-8cd7-d6797aa4dd9d/fd56c649-a773-4d9b-8cd7-d6797aa4dd9d_1140x641.jpg "Meet 'Flippy': The robot that's cooking burgers at this Shoreline restaurant")
+
+
+[Meet 'Flippy': The robot that's cooking burgers at this Shoreline restaurant](https://www.king5.com/article/tech/flippy-miso-robotics-robot-cooking-caliburger-shoreline-washington/281-099d85c4-efb0-43cb-a7d0-f7cd33e157bc)
+
+
+> SEATTLE — Would you trust a robot to cook your burger? A restaurant chain in Seattle hopes you will.  CaliBurger has locations in Westlake and the University District and is now opening a new location in Shoreline with a twist to staffing.  After years of development, the autonomous robot "Flippy" will be grilling burgers and more at CaliBurger's Shoreline location. The robot will also be able to cook French fries and chicken breasts using image recognition technology to ensure real-time quality control.
+
+
+***
+![#TECH: Alibaba and Fidelity in move to help local businesses](https://assets.nst.com.my/images/articles/botsalibaba_NSTfield_image_socialmedia.var_1634609638.jpg "#TECH: Alibaba and Fidelity in move to help local businesses")
+
+
+[#TECH: Alibaba and Fidelity in move to help local businesses](https://www.nst.com.my/lifestyle/bots/2021/10/737766/tech-alibaba-and-fidelity-move-help-local-businesses)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Amazon Prime Video: The 31 best TV shows to binge-watch this week](https://www.cnet.com/a/img/Zh0FI6PKUerl_i4p54Cmtwc_2aw=/1200x630/2021/10/01/7be090eb-374b-4eca-8b0d-9f6029e547f7/idls-s1-ut-101-210204-desmic-00477r.jpg "Amazon Prime Video: The 31 best TV shows to binge-watch this week")
+
+
+[Amazon Prime Video: The 31 best TV shows to binge-watch this week](https://www.cnet.com/news/amazon-prime-video-the-31-best-tv-shows-to-binge-watch-this-week/)
+
+
+> I Know What You Did Last Summer (2021) Amazon Prime Video Aside from dropping several TV shows at the beginning of each month, Amazon Prime Video doesn't have a ton of new weekly releases.But occasionally an Original comes knocking that deserves to be put on our radar. Below you'll find a selection of highlights for this week, as well as CNET's full list of best Amazon Prime Video Original TV shows.What to watch this week (Oct. 18 to 24)Well, there's only one new release to keep an eye out for this week.
+
+
+***
+![Fintech Funding Rounds Have Doubled Last Year's Total in Just Three Quarters](https://g.foolcdn.com/editorial/images/647218/featured-daily-upside-image.jpg "Fintech Funding Rounds Have Doubled Last Year's Total in Just Three Quarters")
+
+
+[Fintech Funding Rounds Have Doubled Last Year's Total in Just Three Quarters](https://www.fool.com/investing/2021/10/18/fintech-funding-rounds-have-doubled-last-years-tot/)
+
+
+> For more crisp and insightful business and economic news, subscribe to The Daily Upside newsletter. It's completely free and we guarantee you'll learn something new every day.
+
+
+***
+![Primer raises $50M at a $425M valuation for a framework designed to help merchants build more powerful payment flows – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/workflow1.png?w=764 "Primer raises $50M at a $425M valuation for a framework designed to help merchants build more powerful payment flows – TechCrunch")
+
+
+[Primer raises $50M at a $425M valuation for a framework designed to help merchants build more powerful payment flows – TechCrunch](https://techcrunch.com/2021/10/18/primer-raises-50m-at-a-425m-valuation-for-a-framework-designed-to-help-merchants-build-more-powerful-payment-flows/)
+
+
+> Primer — a UK startup that has built a drag-and-drop framework to help merchants easily build payment stacks to sell online — has seen rapid take-up of its services in the 20 months since it launched. Now the company is announcing a Series B of $50 million at a $425 million valuation to double down on the opportunity to do more. ICONIQ Growth — the growth-stage arm of the San Francisco wealth management and investment firm connected to Mark Zuckerberg, Sheryl Sandberg, Jack Dorsey and other high net-worth tech executives — led the round with existing investors Accel, Balderton Capital, Seedcamp, Speedinvest, and RTP Global among those also participating.
+
+
