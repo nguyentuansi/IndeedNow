@@ -17163,3 +17163,40 @@
 > TechCrunch Live (formerly Extra Crunch Live) has been incredibly educational over the past few months. We've learned how Rec Room's pitch landed investment from Sequoia, how Wheel crafted a pitch deck that hooked Tusk Venture's Jordan Nof, how Retail Zipline ticked every box for Emergence Capital and how Coda made their pitch doc sing for Madrona Capital. But there's plenty more where that came from. TechCrunch Live is specifically designed to help founders build better venture-backed businesses.
 
 
+***
+![Find the best MacBook for the classroom with these great picks](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/11/macbook-air-m1-15.jpg "Find the best MacBook for the classroom with these great picks")
+
+
+[Find the best MacBook for the classroom with these great picks](https://www.imore.com/best-macbook-students)
+
+
+> Source: Daniel Bader / Android Central Best MacBook for students iMore 2021 Whether you're still in high school or in the middle of college, a laptop is an essential piece of equipment for every student. Apple makes some of the best laptops in the world with its MacBook lineup. Whether it's the powerful MacBook Pro or hyper-portable MacBook Air, Apple's laptops will power you through any task you'll meet. The MacBook Air (M1,2020) is the best MacBook for students. It has enough power to face almost any academic challenge you come up against.
+
+
+***
+![My first Python Package (GNews) reached 100 stars milestone on Github](https://external-preview.redd.it/YfZdfCc7GfzHLb4SsHkL7-EwaVJO52gEaodQC1yZpzs.jpg?auto=webp&s=b483893900abf636d929e3a25f65cf2a1487ecfb "My first Python Package (GNews) reached 100 stars milestone on Github")
+
+
+[My first Python Package (GNews) reached 100 stars milestone on Github](https://www.reddit.com/r/Python/comments/qbh0np/my_first_python_package_gnews_reached_100_stars/)
+
+
+> GNews is a Happy and lightweight Python Package that searches Google News and returns a usable JSON response. you can fetch/scrape complete articles just by using any keyword. GNews reached 100 stars milestone on GitHubGitHub Url: https://github.com/ranahaani/GNews
+
+
+***
+[A look at Pixel 6 and 6 Pro's cameras: main sensor takes in 150% more light, Real Tone can more accurately capture skin tones, Face Unblur, Magic Eraser, more (Antonio G. Di Benedetto/The Verge)](http://www.techmeme.com/211019/p43#a211019p43)
+
+
+> Antonio G. Di Benedetto / The Verge: A look at Pixel 6 and 6 Pro's cameras: main sensor takes in 150% more light, Real Tone can more accurately capture skin tones, Face Unblur, Magic Eraser, more — New cameras and sensors aim to put the Pixels back on top of mobile photography — Today at its Pixel Fall Launch event …
+
+
+***
+![Android 12: Everything you need to know](https://icdn.digitaltrends.com/image/digitaltrends/android-12-dev-preview-home-screen.jpg "Android 12: Everything you need to know")
+
+
+[Android 12: Everything you need to know](https://www.digitaltrends.com/mobile/android-12-news/)
+
+
+> The newest version of Google's flagship operating system, Android 12, is officially live for all supported Pixel phones from the Google Pixel 3 and above, and it ships out of the box for the Pixel 6 and Pixel 6 Pro. Here's everything you need to know about Android 12. What is the Android 12 release date? Rumors about an October 4 release date were true, but not in the way we expected. Typically, Pixel users get the newest update when it's released to the Android Open-Source Project (AOSP). AOSP users can download the update, but Google held back the Android 12 release for Pixel devices till October 19 so it would come out alongside the Pixel 6 and Pixel 6 Pro.
+
+
