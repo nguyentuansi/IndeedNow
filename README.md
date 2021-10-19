@@ -17200,3 +17200,53 @@
 > The newest version of Google's flagship operating system, Android 12, is officially live for all supported Pixel phones from the Google Pixel 3 and above, and it ships out of the box for the Pixel 6 and Pixel 6 Pro. Here's everything you need to know about Android 12. What is the Android 12 release date? Rumors about an October 4 release date were true, but not in the way we expected. Typically, Pixel users get the newest update when it's released to the Android Open-Source Project (AOSP). AOSP users can download the update, but Google held back the Android 12 release for Pixel devices till October 19 so it would come out alongside the Pixel 6 and Pixel 6 Pro.
 
 
+***
+![Celebs who believe they are demonstrating their environmental credentials by wearing OLD CLOTHES have no idea what net zero implies. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/616eee7d2030275d8a4c5881.jpg "Celebs who believe they are demonstrating their environmental credentials by wearing OLD CLOTHES have no idea what net zero implies. » Brinkwire")
+
+
+[Celebs who believe they are demonstrating their environmental credentials by wearing OLD CLOTHES have no idea what net zero implies. » Brinkwire](https://en.brinkwire.com/technology/celebs-who-believe-they-are-demonstrating-their-environmental-credentials-by-wearing-old-clothes-have-no-idea-what-net-zero-implies/)
+
+
+> Rob Lyons is a UK journalist specialising in science, environmental and health issues. He is the author of ‘Panic on a Plate: How Society Developed an Eating Disorder'. Rob Lyons is a UK journalist specialising in science, environmental and health issues. He is the author of ‘Panic on a Plate: How Society Developed an Eating Disorder'. This week, the first Earthshot Prizes were awarded at a glamorous event at London's Alexandra Palace. The initiative comes from Prince William's charity, the Royal Foundation, and along with its royal patrons, the individual awards were presented by actors Emma Thompson, Emma Watson and David Oyelowo, and footballer Mohamed Salah.
+
+
+***
+![A massive ‘stalkerware' leak puts the phone data of thousands at risk – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/stalkerware-leaked-location-2.jpg?w=711 "A massive ‘stalkerware' leak puts the phone data of thousands at risk – TechCrunch")
+
+
+[A massive ‘stalkerware' leak puts the phone data of thousands at risk – TechCrunch](https://techcrunch.com/2021/10/19/stalkerware-security-phone-data-thousands/)
+
+
+> The private phone data of hundreds of thousands of people are at risk. Call records, text messages, photos, browsing history, precise geolocations and call recordings can all be pulled from a person's phone because of a security issue in widely used consumer-grade spyware. But that's about as much as we can tell you. TechCrunch repeatedly emailed the developer, whose identity is well hidden, through all known and non-public email addresses, but lines of inquiry to disclose the issue went cold. We sent emails with open trackers to tell if they had been read, but no luck there either.
+
+
+***
+![Pixel 6 Pro Photography: What To Expect With Google's Best Cameras Ever](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/10/Google-Pixel-6-Pro-Camera-Bar-Closeup.jpg "Pixel 6 Pro Photography: What To Expect With Google's Best Cameras Ever")
+
+
+[Pixel 6 Pro Photography: What To Expect With Google's Best Cameras Ever](https://screenrant.com/pixel-6-pro-photography-google-cameras-ai-features-explained/)
+
+
+> The Pixel 6 Pro features the very best cameras ever used in a Google smartphone, with a megapixel count four times that of earlier models. Google has been working minor miracles with basically the same camera since 2017, yet still competing with the latest and greatest from Apple, Samsung, and others. Imagine what could be possible with updated camera technology and that will help to get a sense of what Google has achieved with its new Pixel 6 Pro. Google uses computational photography to extract greater detail, more color, and wider dynamic range from its camera technology than would be possible under normal conditions.
+
+
+***
+![Blizzard Co-Head Mike Ybarra Sells WoW Raid Boosts, Sparking Debate on RMT](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Blizzard%20Entertainment%20Co-Leader%20Mike%20Ybarra%20Selling%20WoW%20Raid%20Boosts%20cover.jpg?itok=g9m0QtQB "Blizzard Co-Head Mike Ybarra Sells WoW Raid Boosts, Sparking Debate on RMT")
+
+
+[Blizzard Co-Head Mike Ybarra Sells WoW Raid Boosts, Sparking Debate on RMT](https://techraptor.net/gaming/news/blizzard-co-head-mike-ybarra-sells-wow-raid-boosts-sparking-debate-on-rmt)
+
+
+> Blizzard Entertainment Co-Leader Mike Ybarra has recently sparked a debate across social media after it was discovered that his guild is selling WoW Raid Boosts in the MMORPG World of Warcraft. World of Warcraft has had a fair amount of success with the launch of its recent expansion; despite several delays, World of Warcraft: Shadowlands rapidly became the fastest-selling PC game to date. Now, another dust-up has kicked off when it was discovered that Blizzard Entertainment Co-Leader Mike Ybarra participates in a guild that sells WoW raid boosts for in-game gold.
+
+
+***
+![Google And Snapchat Introduce 'Quick Tap To Snap" For Pixel 6](https://www.androidheadlines.com/wp-content/uploads/2021/10/Snap-x-Google-Quick-Tap-to-Snap.png "Google And Snapchat Introduce 'Quick Tap To Snap" For Pixel 6")
+
+
+[Google And Snapchat Introduce 'Quick Tap To Snap" For Pixel 6](https://www.androidheadlines.com/2021/10/google-and-snapchat-introduce-quick-tap-to-snap-for-pixel-6.html)
+
+
+> The Pixel 6 duo of phones just launched today, and Google showcased them at a live event. During the event, Google also introduced a new partnership it made with Snapchat. There's a new feature called 'Quick Tap To Snap,' (via Business Wire) which allows Pixel 6 users to quickly pull up a Snapchat camera from the lockscreen.Quick Tap To Snap is exclusive to Pixel 6 usersThe point of Quick Tap To Snap is to access Snapchat right away without having to unlock the phone; you don't even have to turn the phone on! All you have to do is tap on the back of the actual phone, and the Snapchat camera will open up right away.
+
+
