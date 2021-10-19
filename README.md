@@ -17250,3 +17250,53 @@
 > The Pixel 6 duo of phones just launched today, and Google showcased them at a live event. During the event, Google also introduced a new partnership it made with Snapchat. There's a new feature called 'Quick Tap To Snap,' (via Business Wire) which allows Pixel 6 users to quickly pull up a Snapchat camera from the lockscreen.Quick Tap To Snap is exclusive to Pixel 6 usersThe point of Quick Tap To Snap is to access Snapchat right away without having to unlock the phone; you don't even have to turn the phone on! All you have to do is tap on the back of the actual phone, and the Snapchat camera will open up right away.
 
 
+***
+![Fielo Announces Its Acquisition of Gage Marketing Group, A Leading Provider of Channel Management Software Solutions](https://mms.businesswire.com/media/20211019006218/en/918160/23/fielo_F_icon_-_4_color.jpg "Fielo Announces Its Acquisition of Gage Marketing Group, A Leading Provider of Channel Management Software Solutions")
+
+
+[Fielo Announces Its Acquisition of Gage Marketing Group, A Leading Provider of Channel Management Software Solutions](https://www.businesswire.com/news/home/20211019006218/en/Fielo-Announces-Its-Acquisition-of-Gage-Marketing-Group-A-Leading-Provider-of-Channel-Management-Software-Solutions)
+
+
+> October 19, 2021 05:50 PM Eastern Daylight Time RIO DE JANEIRO & MINNEAPOLIS--(BUSINESS WIRE)--Fielo, the Salesforce-native pioneer in incentive automation for channel incentive, employee incentive, and customer loyalty programs, today announced the acquisition of Gage Marketing Group, a leading channel management software provider. While Fielo has long been the leader in the Salesforce-native market, Gage's incentive, distributed marketing, and eLearning solutions will enable Fielo to expand its market to serve customers with heterogeneous and non-Salesforce data architectures.
+
+
+***
+![Learn the basics of NumPy in < 2 hours. (Free)](https://external-preview.redd.it/qVd-FOI-e-Rwx6MCenRfZuLMaG2T5j07UHmc4y1sYV0.jpg?auto=webp&s=fa40d9f20bce69c0fe6008b35ead0a9f31b65271 "Learn the basics of NumPy in < 2 hours. (Free)")
+
+
+[Learn the basics of NumPy in < 2 hours. (Free)](https://www.reddit.com/r/Python/comments/qbluax/learn_the_basics_of_numpy_in_2_hours_free/)
+
+
+> We've created a ~2-hour free course teaching the basics of NumPy. It's perfect for beginners but advanced python practitioners can also get useful information from it.https://www.evlabs.io/p/complete-numpy-course-with-applicationsHope you enjoy it.
+
+
+***
+![Major Japanese electronics fair CEATEC opens with spotlight on low-carbon techs](https://japantoday.com/images/japan-today-social.jpg "Major Japanese electronics fair CEATEC opens with spotlight on low-carbon techs")
+
+
+[Major Japanese electronics fair CEATEC opens with spotlight on low-carbon techs](https://japantoday.com/category/tech/japan's-key-electronics-fair-opens-with-spotlight-on-low-carbon-techs)
+
+
+> Japan's major annual electronics show involving more than 300 companies opened Tuesday, with the spotlight on cutting-edge technologies designed to achieve carbon neutrality. As was the case last year, organizers decided to hold the Combined Exhibition of Advanced Technologies online as a precaution against the coronavirus. The event, which runs until Friday under the theme of "Toward Society 5.0 with the New Normal," is accessible by the public with pre-registration. Rechargeable batteries to store renewable energy and carbon recycling technologies are among exhibited products that may help Japan and other countries reach the goal of net zero carbon emissions in the next several decades.
+
+
+***
+![Android 12 out now: Everything to know about downloading, new features, and more](https://www.cnet.com/a/img/eVXFH59r278nkCeGpW8oQbMo0YM=/1200x630/2021/08/04/471b2022-e2b7-4345-ad7e-1fe42e0045df/android-12-cnet-2021-005.jpg "Android 12 out now: Everything to know about downloading, new features, and more")
+
+
+[Android 12 out now: Everything to know about downloading, new features, and more](https://www.cnet.com/tech/services-and-software/android-12-out-now-everything-to-know-about-downloading-new-features-and-more/)
+
+
+> Google gave Android 12 a sleek redesign. Google Android users can now download Android 12 on Pixel 3 and up. The new OS arrived after Google's Pixel event on Tuesday. Android 12 is the OS's biggest design change in years. With Android 12, you can expect to see customizable color palettes, updated notifications and faster, battery-saving performance. The new OS was released alongside Google's Pixel 6 and Pixel 6 Pro phones, which are powered by Google's own Tensor chips.Here's everything we know about Android 12.
+
+
+***
+![Apple TV+ debuts trailer for the second season of 'Snoopy in Space'](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/snoopy-in-space-season-two-trailer.jpg "Apple TV+ debuts trailer for the second season of 'Snoopy in Space'")
+
+
+[Apple TV+ debuts trailer for the second season of 'Snoopy in Space'](https://www.imore.com/apple-tv-debuts-trailer-second-season-snoopy-space)
+
+
+> Source: Apple Apple TV+ has released the official trailer for the second season of "Snoopy in Space." The second season has Snoopy exploring the greatest questions of humankind. Season two of "Snoppy in Space" will premiere on Friday, November 12. Today, Apple TV+ released the trailer for the second season of its animated children's series "Snoopy in Space." You can check out the official trailer for "Snoopy in Space: The Search for Life" below: Snoopy, Woodstock, and the Peanuts gang are back at NASA, and they're taking on a new frontier.
+
+
