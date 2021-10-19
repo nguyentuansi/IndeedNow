@@ -16831,3 +16831,53 @@
 > Primer — a UK startup that has built a drag-and-drop framework to help merchants easily build payment stacks to sell online — has seen rapid take-up of its services in the 20 months since it launched. Now the company is announcing a Series B of $50 million at a $425 million valuation to double down on the opportunity to do more. ICONIQ Growth — the growth-stage arm of the San Francisco wealth management and investment firm connected to Mark Zuckerberg, Sheryl Sandberg, Jack Dorsey and other high net-worth tech executives — led the round with existing investors Accel, Balderton Capital, Seedcamp, Speedinvest, and RTP Global among those also participating.
 
 
+***
+![Google Pixel 6 series to launch today: Live stream details, expected specs and price](https://images.indianexpress.com/2021/10/Pixel-6.jpg "Google Pixel 6 series to launch today: Live stream details, expected specs and price")
+
+
+[Google Pixel 6 series to launch today: Live stream details, expected specs and price](https://indianexpress.com/article/technology/mobile-tabs/google-pixel-6-series-launch-today-live-stream-details-expected-specifications-and-price-india-launch-7579133/)
+
+
+> Google will finally launch its latest Pixel 6 and Pixel 6 Pro smartphones today. Apart from these two devices, Google is also expected to launch the Pixel Stand 2 wireless charger, which could be priced at $79 (approximately Rs 6,000). The Pixel 6 series launch event will start today at 10:30PM IST. The event will be live-streamed via Google's official YouTube account and you can also head to the company's dedicated event page. We have also embedded the Pixel 6 series' live stream link below, so you can watch the event here too.
+
+
+***
+![As Japan's PM asserts, the release of Fukushima wastewater into the ocean must wait, Beijing says Tokyo must pause and listen to the rest of the world.](https://en.brinkwire.com/nerede/uploads/2021/10/616d56f72030275b7e6d4ae4.jpg "As Japan's PM asserts, the release of Fukushima wastewater into the ocean must wait, Beijing says Tokyo must pause and listen to the rest of the world.")
+
+
+[As Japan's PM asserts, the release of Fukushima wastewater into the ocean must wait, Beijing says Tokyo must pause and listen to the rest of the world.](https://en.brinkwire.com/technology/as-japans-pm-asserts-the-release-of-fukushima-wastewater-into-the-ocean-must-wait-beijing-says-tokyo-must-pause-and-listen-to-the-rest-of-the-world/)
+
+
+> As Japan's PM asserts, the release of Fukushima wastewater into the ocean must wait, Beijing says Tokyo must pause and listen to the rest of the world. Zhao Lijian, a spokeswoman for the Chinese Foreign Ministry, took aim at Japan's new prime minister, Fumio Kishida, who paid a visit to the devastated Fukushima nuclear power plant on Sunday. 'The Japanese side must listen to the international community's voice, revoke the wrong decision, and stop advancing preparations for the discharge of nuclear wastewater into the ocean,' the spokesman told the assembled press, arguing that Tokyo needed the approval of other countries and international institutions.
+
+
+***
+![Analysts Predict a Pullback in Crypto ETF Launch](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Analysts Predict a Pullback in Crypto ETF Launch")
+
+
+[Analysts Predict a Pullback in Crypto ETF Launch](https://en.brinkwire.com/technology/analysts-predict-a-pullback-in-crypto-etf-launch-no-fomo-they-say/)
+
+
+> Analysts are warning the public of a pullback that could happen with the upcoming BTC ETF. The upcoming launch of the Bitcoin ETF has bulls stating that a $100,000 Bitcoin price could happen. A number of analysts warn that a 'sharp' short-term pullback could also happen. Future-Based BTC ETF According to CoinTelegraph, the day that crypto traders have been waiting for for quite a while is almost here. On October 19, 2021, a ProShares future-based BTC ETF is said to launch and analysts are predicting the supposed additional ETFs which are going to roll out over the coming week.
+
+
+***
+![Wall Street Journal: Google CEO calls for government action on cybersecurity, innovation](https://www.kyivpost.com/wp-content/uploads/2018/01/000_KM7A2.jpg "Wall Street Journal: Google CEO calls for government action on cybersecurity, innovation")
+
+
+[Wall Street Journal: Google CEO calls for government action on cybersecurity, innovation](https://www.kyivpost.com/technology/wall-street-journal-google-ceo-calls-for-government-action-on-cybersecurity-innovation.html)
+
+
+> Sundar Pichai, chief executive of Google and parent company Alphabet Inc., said the U.S. government should take a more active role in policing cyberattacks and encouraging innovation with policies and investments. In the wake of recent cybersecurity breaches attributed to Chinese and Russian hackers, Mr. Pichai said the time had come to draft the equivalent of a Geneva Convention for technology to outline international legal standards for an increasingly connected world.Read more here.
+
+
+***
+![Customers with BT broadband may play hundreds of Xbox games for free. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/bt-broadband-deal-1506655.jpg "Customers with BT broadband may play hundreds of Xbox games for free. » Brinkwire")
+
+
+[Customers with BT broadband may play hundreds of Xbox games for free. » Brinkwire](https://en.brinkwire.com/technology/customers-with-bt-broadband-may-play-hundreds-of-xbox-games-for-free/)
+
+
+> Customers with BT broadband may play hundreds of Xbox games for free. BT HAS JUST RELEASED A MAJOR NEW INCENTIVE FOR ITS BROADBAND CUSTOMERS, with those who sign up for superfast Fibre contracts receiving complimentary Xbox Game Pass Ultimate. Thanks to a BT deal, Xbox gamers might get a year's worth of free games. The broadband provider recently announced the debut of a new deal that includes the popular Xbox Game Pass Ultimate for free. Customers using BT Broadband can get a free 12-month subscription to Xbox Game Pass Ultimate.
+
+
