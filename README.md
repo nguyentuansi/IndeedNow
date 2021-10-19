@@ -17116,3 +17116,50 @@
 > Looking at economic freedom, it remains a composite measure of different factors. Can cryptocurrency enable financial liberty? The post How Cryptocurrency Enables Financial Liberty appeared first on Film Daily.
 
 
+***
+[Mexican director Carlos Reygadas to attend Bosphorus Film Festival in Istanbul](https://www.yenisafak.com/en/news/mexican-director-carlos-reygadas-to-attend-bosphorus-film-festival-in-istanbul-3582564)
+
+
+> The ninth Bosphorus Film Festival organized by the Bosphorus Cultural and Art Foundation will see the attendance of Mex...
+
+
+***
+![16-inch MacBook Pro: Apple updated everything for 2021, including M1 Pro, M1 Max chips](https://www.cnet.com/a/img/4pPXVztM4nDyLu0GwTNdD52bK44=/1200x630/2021/10/18/85037be0-8780-4f08-b17c-55732ba9414b/screen-shot-2021-10-18-at-1-31-37-pm-2.png "16-inch MacBook Pro: Apple updated everything for 2021, including M1 Pro, M1 Max chips")
+
+
+[16-inch MacBook Pro: Apple updated everything for 2021, including M1 Pro, M1 Max chips](https://www.cnet.com/tech/computing/16-inch-macbook-pro-apple-updated-everything-for-2021-including-m1-pro-m1-max-chips/)
+
+
+> Apple's refreshed 16-inch MacBook Pro. Apple/Screenshot by Katie Collins/CNET Apple's October Mac event has delivered the powerful new MacBook many have been waiting for. The 2021 version of the MacBook Pro 16-inch was announced Monday during the company's livestreamed Unleashed event (alongside a 14-inch model), hot on the heels of September's iPhone launch. The new MacBook Pro starts at $2,499 (£2,399, AU$3,749).Key among the new additions to the company's bigger laptop are updated versions of Apple's homegrown M1 processor.
+
+
+***
+![The 'Mark as Unread' feature in Google Chat is now available in Spaces and Direct Messages](https://en.brinkwire.com/nerede/uploads/2021/10/google-chat-mark-as-unread-feature-rolls-out-to-spaces-direct-messages-mobile-desktop-compatibility-and-more.jpg "The 'Mark as Unread' feature in Google Chat is now available in Spaces and Direct Messages")
+
+
+[The 'Mark as Unread' feature in Google Chat is now available in Spaces and Direct Messages](https://en.brinkwire.com/technology/the-mark-as-unread-feature-in-google-chat-is-now-available-in-spaces-and-direct-messages-mobile-desktop-and-more/)
+
+
+> Google Chat fans would be excited with this new simple but useful feature for Google Chat Direct Messages, as well as Googe Spaces. 'You can now mark a Google Chat direct message (DM) or Space as read or unread on mobile and on the web,' said the giant tech manufacturer. Google confirmed the new feature on Oct. 18. However, the developer hasn't confirmed if all Chat users can now access it. But, you can still easily check it by reading through this guide. The 'Mark as Unread' and 'Mark as Read' features are not really new functionalities since other competitor messaging applications already offer them.
+
+
+***
+![Poland's prime minister has said that the government will comply with EU requests and disband the Supreme Court disciplinary chamber. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/616ec4a32030275c204a6959.jpg "Poland's prime minister has said that the government will comply with EU requests and disband the Supreme Court disciplinary chamber. » Brinkwire")
+
+
+[Poland's prime minister has said that the government will comply with EU requests and disband the Supreme Court disciplinary chamber. » Brinkwire](https://en.brinkwire.com/technology/polands-prime-minister-has-said-that-the-government-will-comply-with-eu-requests-and-disband-the-supreme-court-disciplinary-chamber/)
+
+
+> Speaking to EU officials at the European Parliament, Polish leader Mateusz Morawiecki accepted that the chamber 'did not meet our expectations,' agreeing to dissolve the 'mechanisms that were introduced.'  There was a question about the disciplinary chamber of the Supreme Court. Yes. We intend to dissolve it. The announcement by Poland's prime minister marks the conclusion of a row between Warsaw and Brussels over concerns that its disciplinary chamber made EU law subordinate to national law, sparking a reprimand from European officials.
+
+
+***
+![Check out the outstanding speakers joining us on TechCrunch Live in November – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/TCL-november-slate.jpg?w=711 "Check out the outstanding speakers joining us on TechCrunch Live in November – TechCrunch")
+
+
+[Check out the outstanding speakers joining us on TechCrunch Live in November – TechCrunch](https://techcrunch.com/2021/10/19/check-out-the-outstanding-speakers-joining-us-on-techcrunch-live-in-november/)
+
+
+> TechCrunch Live (formerly Extra Crunch Live) has been incredibly educational over the past few months. We've learned how Rec Room's pitch landed investment from Sequoia, how Wheel crafted a pitch deck that hooked Tusk Venture's Jordan Nof, how Retail Zipline ticked every box for Emergence Capital and how Coda made their pitch doc sing for Madrona Capital. But there's plenty more where that came from. TechCrunch Live is specifically designed to help founders build better venture-backed businesses.
+
+
