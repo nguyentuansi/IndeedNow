@@ -16972,3 +16972,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+![Filecoin Frontier Accelerator is here!](https://external-preview.redd.it/npR7Y54iWaQTsLCplXPB-l3C4xVCFGhClYmeLFkLs70.jpg?auto=webp&s=1a5f173146d8f4b6c62be13e7287c76badec48c5 "Filecoin Frontier Accelerator is here!")
+
+
+[Filecoin Frontier Accelerator is here!](https://www.reddit.com/r/programming/comments/qb8a74/filecoin_frontier_accelerator_is_here/)
+
+
+> OP is very likely a repost botThese bots steal content and repost it to build karma. For example, this post is stolen from this original post.The accounts are often used to post spam, scams, misinformation and for other nefarious purposes.If you check OP's profile, you will likely see many posts and comments based on past popular contributions from authentic Redditors, but the OP is not invested in these communities and they will only regurgitate content as long as it takes to build up enough karma to make money by selling the account.
+
+
+***
+![New AirPods 3: How to customize the case for free when you buy online](https://www.cnet.com/a/img/jbU6ZD3s2Uml5EUe1odneJNsuyw=/1200x630/2019/10/29/2ce55c7f-40f6-47ed-ae1b-df10f3ef68ca/02-apple-airpods-pro.jpg "New AirPods 3: How to customize the case for free when you buy online")
+
+
+[New AirPods 3: How to customize the case for free when you buy online](https://www.cnet.com/tech/mobile/new-airpods-3-how-to-customize-the-case-for-free-when-you-buy-online/)
+
+
+> It won't cost you anything to customize your AirPods case -- except a tiny slice of time. Apple/Screenshot by Jessica Dolcourt/CNET If you're buying Apple's new $179 AirPods 3 (the third-generation AirPods for 2021) directly from Apple's website -- or even the second generation AirPods -- I can't see many reasons you wouldn't want to take Apple up on the offer to customize the wireless earbuds case for "free" (that is, it won't cost more than the retail price). You can express yourself with an array of emojis, making it easier to track down your case at a glance.
+
+
+***
+![Netflix down: latest updates as service slowly comes back online](https://cdn.mos.cms.futurecdn.net/toR3yWWofiJPqwRNTfTdZG-1200-80.jpg "Netflix down: latest updates as service slowly comes back online")
+
+
+[Netflix down: latest updates as service slowly comes back online](https://www.techradar.com/news/live/netflix-down-latest-updates-as-service-appears-to-go-down-worldwide)
+
+
+> Refresh 2021-10-18T19:31:19.972Z (Image credit: Down detector)OK – so we think we have a problem here. DownDetector, the site that monitors for service performance, is showing a huge spike in issues. 2021-10-18T19:33:42.506Z Twitter is alight with users all wondering what's happened - we could have chosen many Tweets to show you here, but it's at a terribly inopportune time to be dropping.Aw man! Netflix is down! I had just started at episode before dinner that I was getting into as well...#netflixdown pic.
+
+
+***
+![Want to print your Windows 11 documents? You'll have to be an admin](https://cdn.mos.cms.futurecdn.net/3f3pkBfvgAwnmppVcGbmjC-1200-80.jpg "Want to print your Windows 11 documents? You'll have to be an admin")
+
+
+[Want to print your Windows 11 documents? You'll have to be an admin](https://www.techradar.com/news/want-to-print-your-windows-11-documents-youll-have-to-be-an-admin)
+
+
+> (Image credit: Shutterstock) Microsoft is reportedly working on a fix for yet another printing issue in Windows 11 that asks users for admin credentials before undertaking certain printing jobs.The issue affects a wide range of both client and server Windows releases, including Windows 11, and Windows 10 as well as Windows Server 2022, Windows Server 20H2, and earlier.However, according to Microsoft, the issue manifests itself only in those environments where the print client and print server are in different time zones, which thankfully spares virtually all home users of Windows.
+
+
+***
+![MacBook Pro 2021: Frisches Design & neue Chips](https://i.computer-bild.de/imgs/1/4/0/1/3/9/2/9/Slide_MacBook_Pro_2021_Frisches_Design___neue_Chips-94cf93f1d19de421.jpg "MacBook Pro 2021: Frisches Design & neue Chips")
+
+
+[MacBook Pro 2021: Frisches Design & neue Chips](https://www.computerbild.de/videos/cb-News-Notebooks-Netbooks-MacBook-Pro-2021-Frisches-Design-neue-Chips-30939781.html)
+
+
+> No body in the article.
+
+
