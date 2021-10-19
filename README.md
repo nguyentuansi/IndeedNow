@@ -17072,3 +17072,47 @@
 > Apple has released its latest product: a new cleaning cloth for its displays.At $19 or the same in pounds, it is much more expensive than many competitors. On Amazon, for instance, one seller is offering 20 microfibre cleaning clothes for just £6.69.But it claims to offer special features above and beyond any normal cleaning cloth – and Apple warns that using any other kind of cloth on its £5,499 displays could damage them.As with any other Apple product, it can be bought directly from the Apple Store, where it has its own listing.
 
 
+***
+[What should you know About Bitcoin, Before Investing Resources in It](https://filmdaily.co/tech/bitcoin-investing-resources/)
+
+
+> Cryptocurrencies are extremely popular right now, but if you want to invest there are somethings you have to know. Dive into the details here! The post What should you know About Bitcoin, Before Investing Resources in It appeared first on Film Daily.
+
+
+***
+![Apple is bringing it's famous lock-in strategy to the MacBook](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/macbook-air-m1-6.jpg "Apple is bringing it's famous lock-in strategy to the MacBook")
+
+
+[Apple is bringing it's famous lock-in strategy to the MacBook](https://www.androidcentral.com/apple-m1-chip-helping-apple-expand-its-brand-lock)
+
+
+> Source: Daniel Bader / Android Central The new MacBook Pro isn't an Android device, so it isn't particularly interesting for a website like Android Central to cover. However, it is a good upgrade for the right person, thanks to the removal of the touch bar and new specs inside. As long as you can learn to enjoy the notch, that is. More importantly, for Apple, tech writers, and tech consumers, is how it is the beginning of a new push to create more Apple ecosystem lock-in through hardware. Yes, you read that right: the new M1 chip is also a new way to get a subset of users onboard and keep them locked up there.
+
+
+***
+![Should you join Apple Fitness+ or Fitbit Premium?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/01/fitbit-premium-hero-2021-6.jpg "Should you join Apple Fitness+ or Fitbit Premium?")
+
+
+[Should you join Apple Fitness+ or Fitbit Premium?](https://www.androidcentral.com/apple-fitness-vs-fitbit-premium)
+
+
+> Fitbit Premium has been around a while now, and it offers a more hands-on approach than Apple Fitness+ does. The most important difference is that you can pay more for 1-on-1 coaching, which will help you improve your fitness game if you're looking for extra motivation. $10/mo. or $80/year at Fitbit Guided programs Several workout options Health and fitness stats Three-month free trial with purchase Optional upgrade to 1-on-1 coaching On more devices No option to share with family members Apple Fitness+ is a relatively new service, especially in comparison to Fitbit Premium.
+
+
+***
+![You can now download Google Play Protect as a standalone app](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/google-play-protect.jpg "You can now download Google Play Protect as a standalone app")
+
+
+[You can now download Google Play Protect as a standalone app](https://www.androidcentral.com/you-can-now-download-google-play-protect-standalone-app)
+
+
+> All the protection you need The app is compatible with only a handful of Android devices currently. Source: Alex Dobie / Android Central Google Play Protect is now available to download as a separate app. Google Play Protect automatically scans all apps installed on your phone and prevents the installation of harmful apps. Google claims Play Protect is the most widely deployed mobile threat protection service in the world. At I/O 2017, Google announced Play Protect, a suite of services aimed at securing all Android devices with access to the Play Store.
+
+
+***
+[How Cryptocurrency Enables Financial Liberty](https://filmdaily.co/tech/cryptocurrency-2/)
+
+
+> Looking at economic freedom, it remains a composite measure of different factors. Can cryptocurrency enable financial liberty? The post How Cryptocurrency Enables Financial Liberty appeared first on Film Daily.
+
+
