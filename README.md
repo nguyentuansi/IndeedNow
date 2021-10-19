@@ -16922,3 +16922,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Could Proof of Stake be Pulling Down GPU Prices?](https://1734811051.rsc.cdn77.org/data/images/full/394530/powercolor-hellhound-amd-radeon-rx-6700-restock-sold-for-829-99-could-proof-of-stake-be-pulling-down-gpu-prices.png "Could Proof of Stake be Pulling Down GPU Prices?")
+
+
+[Could Proof of Stake be Pulling Down GPU Prices?](https://en.brinkwire.com/technology/could-proof-of-stake-be-pulling-down-gpu-prices-powercolor-hellhound-amd-radeon-rx-6700-restock-sold-for-829-99/)
+
+
+> (Photo : Image from Amazon Website) PowerColor Hellhound AMD Radeon RX 6700 Restock Sold for $829.99 | Could Proof of Stake be Pulling Down GPU Prices?The PowerColor Hellhound AMD Radeon RX 6700 restock was found selling for a whopping $829.99. Could scalper prices be going down or are they still in the overpriced bubble making it hard for gamers to purchase the GPU at SRP or at least fair price. Global Chip Shortage As of the moment, the world is experiencing a lack of chips through the 'global chip shortage' which has affected the manufacturing of different electronics especially due to GPU shortages.
+
+
+***
+![Supply chain-focused insurtech startup BondAval lands $7M from Octopus Ventures – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1273537121.jpg "Supply chain-focused insurtech startup BondAval lands $7M from Octopus Ventures – TechCrunch")
+
+
+[Supply chain-focused insurtech startup BondAval lands $7M from Octopus Ventures – TechCrunch](https://techcrunch.com/2021/10/19/supply-chain-focused-insurtech-startup-bondaval-lands-7m-from-octopus-ventures/)
+
+
+> For independent retailers, inventory financing is often a complicated and lengthy process that ties up their working capital. BondAval, an insurtech startup with offices in London and Austin, Texas, is focused on helping them access better credit terms while providing assurance to suppliers that they will be paid on time. The company announced today it has raised $7 million led by Octopus Ventures, with participation from Expa and returning investors Insurtech Gateway, TrueSight Ventures and founders like Monzo and GoCardless's Tom Blomfield, ComplyAdvantage's Charlie Delingpole and Entrepreneur First's Matt Clifford.
+
+
+***
+![Apple ‘Unleashed' Event 2021: AirPods (3rd gen), new Apple Music plan and more; What's new in Apple's music offerings?](https://images.financialexpress.com/2021/10/AirPods-3.jpg "Apple ‘Unleashed' Event 2021: AirPods (3rd gen), new Apple Music plan and more; What's new in Apple's music offerings?")
+
+
+[Apple ‘Unleashed' Event 2021: AirPods (3rd gen), new Apple Music plan and more; What's new in Apple's music offerings?](https://www.financialexpress.com/industry/technology/apple-unleashed-event-2021-airpods-3rd-gen-new-apple-music-plan-and-more-whats-new-in-apples-music-offerings/2352262/)
+
+
+> These AirPods also have MagSafe and wireless charging support and are compatible with iOS 15 and iPadOS 15.Apple ‘Unleashed' Event 2021: Apple held its second fall event in 2021 on Monday and as anticipated, the event included announcements regarding the new additions to the MacBook Pro lineup and the new AirPods. During his keynote address, Apple CEO Tim Cook stated that the theme of the event was 'Music and the Mac', both of which inspire creativity, as per him. But in case you missed the event, don't worry because Financial Express Online has rounded up all the exciting announcements.
+
+
+***
+![The new MacBook Pro does away with the Touch Bar, improves the display, and reintroduces MagSafe charging. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/apple-macbook-pro-new-design-price-release-date-update-m1-1507843.jpg "The new MacBook Pro does away with the Touch Bar, improves the display, and reintroduces MagSafe charging. » Brinkwire")
+
+
+[The new MacBook Pro does away with the Touch Bar, improves the display, and reintroduces MagSafe charging. » Brinkwire](https://en.brinkwire.com/technology/the-new-macbook-pro-does-away-with-the-touch-bar-improves-the-display-and-reintroduces-magsafe-charging/)
+
+
+> The new MacBook Pro does away with the Touch Bar, improves the display, and reintroduces MagSafe charging. APPLE has unveiled a newly revamped MacBook Pro with a significantly larger mini-LED display that supports refresh rates up to 120Hz, a built-in SD card reader and HDMI connections, stronger speakers, and the return of the beloved MagSafe charging. Last year, the MacBook Pro lineup underwent a dramatic shift… yet you'd be forgiven for not noticing. Apple opted to shift its whole Mac line-up to its own silicon after years of building processors for its best-selling iPhone series.
+
+
+***
+![Wired Networking on new Macbook Pro's](https://images.macrumors.com/social/?t=2317859&v=6 "Wired Networking on new Macbook Pro's")
+
+
+[Wired Networking on new Macbook Pro's](https://forums.macrumors.com/threads/wired-networking-on-new-macbook-pros.2317859/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
