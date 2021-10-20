@@ -17738,3 +17738,47 @@
 > If youâ€™ve been on Twitter lately, youâ€™ve probably seen the red flag meme thatâ€™s going around â€' you quote a phrase that would be a â€œred flagâ€� for someone to say to you, then add a bunch of red flag emojis. Twitter itself joined in on the fun, as well as brands like Dr. Pepper, MTV and even the NFLâ€™s Houston Texans. But for Blind and visually-impaired people that use screen readers and voiceover technology, the red flag meme doesnâ€™t make sense. â€œEvery time I saw that meme come up, I would have voiceover saying â€˜triangular flag on a post,'â€� said Steve Saylor, a Blind Twitch gamer and accessibility advocate.
 
 
+***
+[What are the differences between a bitcoin wallet and a bitcoin exchange?](https://filmdaily.co/tech/wallet-exchange/)
+
+
+> What is the difference between a bitcoin wallet and a bitcoin exchange? Dive into the details and get to the bottom of this crypto quandary! The post What are the differences between a bitcoin wallet and a bitcoin exchange? appeared first on Film Daily.
+
+
+***
+![Best cheap Bose 700 deals and sales for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/bose-700-noise-cancelling-headphones.jpg "Best cheap Bose 700 deals and sales for October 2021")
+
+
+[Best cheap Bose 700 deals and sales for October 2021](https://www.digitaltrends.com/dtdeals/best-bose-700-headphone-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Bose 700 Noise-Cancelling Headphones have excellent sound quality, exceptional noise cancelling, and a high quality microphone — these are the perfect headphones for both listening to music and taking and making phone calls. You pay a price for Bose quality and the $400 list price may give you pause. We scanned online retail outlets to find the best Bose 700 deals so you can save. Thankfully Black Friday deals have already started.
+
+
+***
+![The Post-Pandemic E-Commerce World—Here's What to Expect](https://img.sdcexec.com/files/base/acbm/sdce/image/2021/10/Vividz_Foto___Adobe_Stock___Online_shopping.615a6d2e8a0fd.png?auto=format%2Ccompress&fit=max&q=70&w=1200 "The Post-Pandemic E-Commerce World—Here's What to Expect")
+
+
+[The Post-Pandemic E-Commerce World—Here's What to Expect](https://www.sdcexec.com/software-technology/automation/article/21747691/ordoro-the-postpandemic-ecommerce-worldheres-what-to-expect)
+
+
+> Vividz Foto - Adobe StockWhile there is expanding economic reopening in the second half of 2021 (hampered by the Delta variant), many shoppers will not return to in-person shopping. They've instead shifted toward online shopping across multiple sectors, underscoring the broader digital transformation of daily life. A report from McKinsey highlights the shift toward digital. 'Digital adoption across sectors has increased dramatically in the past few months. Over the course of just 15 days, virtual appointments multiplied by 10,' the report says.
+
+
+***
+![SHI Signs 4-year Contract with Indiana Dept. of Administration to Provide IT Hardware](https://mms.businesswire.com/media/20211020005952/en/835199/23/shi_logo.jpg "SHI Signs 4-year Contract with Indiana Dept. of Administration to Provide IT Hardware")
+
+
+[SHI Signs 4-year Contract with Indiana Dept. of Administration to Provide IT Hardware](https://www.businesswire.com/news/home/20211020005952/en/SHI-Signs-4-year-Contract-with-Indiana-Dept.-of-Administration-to-Provide-IT-Hardware)
+
+
+> October 20, 2021 01:55 PM Eastern Daylight Time SOMERSET, N.J.--(BUSINESS WIRE)--SHI International, one of the world's largest IT solutions providers, announced that it has signed a four-year contract with the Indiana Department of Administration to provide desktops, laptops, tablets, monitors, printers, peripherals, and lifecycle management for those devices. The state has two options to extend the contract by one year. SHI will provide the IT hardware, in part through a large partnership with Dell for client devices and monitors, as well as Apple computers and iPads.
+
+
+***
+[Breaking the fourth wall in coding](https://www.reddit.com/r/programming/comments/qc6qey/breaking_the_fourth_wall_in_coding_how_to_write/)
+
+
+> no comments yetBe the first to share what you think!
+
+
