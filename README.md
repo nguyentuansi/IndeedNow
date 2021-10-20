@@ -17782,3 +17782,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Sale titles for the Switch for Halloween and every day](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/03/nintendo-switch-eshop-hero.jpg "Sale titles for the Switch for Halloween and every day")
+
+
+[Sale titles for the Switch for Halloween and every day](https://www.imore.com/best-nintendo-switch-game-sale-now)
+
+
+> Source: iMore Are you looking to have a bit more fun on your Nintendo Switch but don't know where to find the best Switch game deals? I know the best Nintendo Switch games can be pricey, especially if you're on a budget and can't spend $60 on a game. However, here at iMore, we have found some great games currently on sale. If any of these games spark your interest, check them out by clicking the links below. Here's every game you can pre-order on Amazon right now. Just click the title to check it out! Best Switch game deals: Physical game sales on Amazon right now — get them quick! Source: iMore Sometimes you can find a couple of gems on Amazon for sale, but make sure you catch them quickly.
+
+
+***
+![Best cheap Sony WH-1000XM4 deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/sony-wh1000-xm4-wireless-over-the-ear-noise-cancelling-headphones.jpg "Best cheap Sony WH-1000XM4 deals for October 2021")
+
+
+[Best cheap Sony WH-1000XM4 deals for October 2021](https://www.digitaltrends.com/dtdeals/sony-wh-1000xm4-headphone-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Some of the most popular headphones available today are the Sony WH-1000XM4 Wireless Noise Cancelling Headphones, which are beloved by tech enthusiasts, commuters, and even our reviewers here at Digital Trends. As we said in our Sony WH-1000XM4 review, 'Though not exactly affordable, the WH-1000XM4 sit at the top of the wireless headphone market, and they're worth every penny.' We think these headphones are well worth their price tag, but if you're hoping to save some cash by findings the best Sony WH-1000XM4 deals, then we've gone hunting through various online stores to find you the very best prices available.
+
+
+***
+![30 thoughtful gifts teachers actually want in 2021](https://www.gannett-cdn.com/presto/2021/10/20/USAT/576ef60e-70f9-492e-81fe-8a7d92b14bcf-TeacherHero.jpg?auto=webp&crop=4779,2689,x0,y0&format=pjpg&width=1200 "30 thoughtful gifts teachers actually want in 2021")
+
+
+[30 thoughtful gifts teachers actually want in 2021](https://www.usatoday.com/story/tech/reviewedcom/2019/10/22/best-teacher-gifts-25-gift-ideas-teachers-your-life-gg-19/3975943002/)
+
+
+> — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.Buying gifts for teachers can be tricky. If you're trying to find gifts for the special ones in your life, you'll be warmed to know that without exception, all the teachers I spoke with named handwritten notes and artwork from their students as their favorite gifts. (As a teacher myself, I concur!) While other presents are, of course, appreciated, teachers did note one other thing: Our cabinets of mugs and drawers of apple-themed stuff proclaiming us to be the best teacher in the world are, well, full.
+
+
+***
+![Best cheap Sony TV deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/sony-z8h-tv-ry-11.jpg "Best cheap Sony TV deals for October 2021")
+
+
+[Best cheap Sony TV deals for October 2021](https://www.digitaltrends.com/dtdeals/best-sony-tv-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. With its reputation for high quality products and innovative new features, you can't go wrong with a TV from Sony. However, as a high-end brand, Sony TVs are often expensive. Sometimes you can find cheaper, smaller models, but often the newer and shinier models will come at a premium. But you can save some cash by hunting down some of the best Sony TV deals, like the ones we've found for you here. Black Friday deals have already started, which has its pros and cons.
+
+
+***
+![Google is out of stock of the Pixel 6, but you can still pre-order it](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/google-pixel-6-lock-screen-material-you.jpg "Google is out of stock of the Pixel 6, but you can still pre-order it")
+
+
+[Google is out of stock of the Pixel 6, but you can still pre-order it](https://www.androidcentral.com/google-out-stock-pixel-6-you-can-still-pre-order-it)
+
+
+> Source: Ara Wagoner / Android Central Google continues to struggle with inventory for Pixel 6 pre-orders. Interested parties can now sign up for a waitlist. Once the model selected is in stock, an email will be sent to notify you. To say that the Pixel 6 pre-ordering process was a frustration, would be an instant contender for "understatement of the year." Interested parties were met with an array of errors ranging from the standard "501. It's not you, it's us" to random "R" errors when you finally were able to reach checkout.
+
+
