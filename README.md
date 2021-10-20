@@ -17491,3 +17491,53 @@
 > (Image credit: Internet) Facebook will soon change its name, a new report suggests, as it seeks to demonstrate that it has expanded beyond its social media roots, and has its sights firmly set on creating future products such as the metaverse.According to The Verge, it's as yet unclear whether the name change will come to the Facebook platform itself, or whether the rebranding will take the form of a new parent company for Facebook to sit under, alongside other Facebook-owned brands including Instagram, WhatsApp and Oculus.
 
 
+***
+![Proptech neo-lender Proportunity raises $150M mixed debt and equity round – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/proportunity-.jpg "Proptech neo-lender Proportunity raises $150M mixed debt and equity round – TechCrunch")
+
+
+[Proptech neo-lender Proportunity raises $150M mixed debt and equity round – TechCrunch](https://techcrunch.com/2021/10/20/proptech-neo-lender-proportunity-raises-150m-mixed-debt-and-equity-round/)
+
+
+> You've heard of Neo-banks. Meet the Neo-lender. One of the newest is London-based Proportunity. It's now raised a $150m mixed debt and equity funding round ($7 million equity financing and $143 million in debt), on top of its $10m debt round in 2020. The round was led by VentureFriends, Kibo Ventures, and existing investors Anthemis, Entrepreneur First as well as new UK proptech investors Amro Partners. The startup plans to use this funding to grow its team, as well as increase its maximum loan size from £90,000 up to £150,000 per home.
+
+
+***
+![Apple is selling Rs 1900 Polishing Cloth so well its shipping date is now 8 weeks away](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/apple_polishing_cloth_image-original.png "Apple is selling Rs 1900 Polishing Cloth so well its shipping date is now 8 weeks away")
+
+
+[Apple is selling Rs 1900 Polishing Cloth so well its shipping date is now 8 weeks away](https://www.indiatoday.in/technology/news/story/apple-is-selling-rs-1900-polishing-cloth-so-well-its-shipping-date-is-now-8-weeks-away-1866959-2021-10-20)
+
+
+> Sarthak Dogra Noida, Oct 20, 2021, Updated Oct 20, 2021, 1:21 PM IST Story highlights Apple Polishing Cloth has already gone out of stock in the US. The next batch is expected to ship six to eight weeks from now. The polishing cloth retails for Rs 1900 in India or $19 in the US. A new product by Apple recently made headlines and the centre of attention, as is always the case with Apple, was the price of this product. Only this new offering by the Cupertino tech major is not a gadget but an accessory to take care of its other products.
+
+
+***
+![Brave Browser Says Goodbye to Google As Default Search Engine, Replaces With 'Privacy-Preserving' Brave Search](https://images.macrumors.com/article-new/2021/06/brave-search-beta.png "Brave Browser Says Goodbye to Google As Default Search Engine, Replaces With 'Privacy-Preserving' Brave Search")
+
+
+[Brave Browser Says Goodbye to Google As Default Search Engine, Replaces With 'Privacy-Preserving' Brave Search](https://www.macrumors.com/2021/10/20/brave-search-replacing-google-default-engine/)
+
+
+> Apr 12, 2001 54,557 16,650 The increasingly popular privacy-focused browser Brave is officially saying goodbye to Google as its default search engine, replacing the world's most popular search engine in favor of "Brave Search," the company announced in a blog post. Brave Search is Brave's answer to customers wanting a "privacy-preserving" search engine, and it's built using Brave's own "independent index, and doesn't track users, their searches, or their clicks." Brave users in the United States, United Kingdom, and Canada will automatically have Brave Search set as their default search engine in the address bar instead of Google.
+
+
+***
+![Amazfit Launches Three New Smartwatches in India: All You Need to Know](https://i.gadgets360cdn.com/large/amazfit_gtr_gts_3_pro_1634018685133.jpg "Amazfit Launches Three New Smartwatches in India: All You Need to Know")
+
+
+[Amazfit Launches Three New Smartwatches in India: All You Need to Know](https://gadgets.ndtv.com/wearables/news/amazfit-gts-gtr-3-pro-price-in-india-rs-13999-18999-specifications-features-smartwatch-alexa-huami-zepp-os-2581627)
+
+
+> Amazfit GTR 3 Pro, Amazfit GTR 3, and Amazfit GTS 3 were launched in India on Wednesday. The new smartwatches from Zepp Health (previously Huami) now run its proprietary Zepp OS and have third-party app support. Additionally, the Amazfit GTR 3 Pro, Amazfit GTR 3, and Amazfit GTS 3 feature more than 150 sports modes and can automatically recognise 8 sports. All three smartwatches come with a gamut of health monitoring sensors such as 24x7 heart rate monitoring, blood oxygen saturation (SpO2) monitoring, and more.
+
+
+***
+![Instagram announces new feature to let users co-author posts](https://imagevars.gulfnews.com/2021/02/03/Instagram-_177691f7309_medium.jpg "Instagram announces new feature to let users co-author posts")
+
+
+[Instagram announces new feature to let users co-author posts](https://gulfnews.com/technology/media/instagram-announces-new-feature-to-let-users-co-author-posts-1.1634716523807)
+
+
+> Image Credit: Shutterstock San Francisco: Facebook-owned Instagram on Wednesday announced a new 'Collab' feature that will allow users of the social media platform to collaborate with others on Feed Posts and Reels. The new Collabs feature will allow two accounts to co-author a post or reel. The post or Reel will appear jointly to each user's followers and will share the same comment thread, as well as view and like counts. "We are launching Collabs, a new way to co-author Feed posts and Reels.
+
+
