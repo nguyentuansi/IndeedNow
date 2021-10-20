@@ -17397,3 +17397,50 @@
 > Today's best BenQ Mobiuz EX3415R dealsWhile pro gamers are going to use flat, small 16:9 screens because they're the fastest, most colour accurate and consistent screens around – for anyone that actually wants to get the most out of their games, ultrawide curved displays are where it's at. BenQ's Mobiuz EX3415R is a 34-inch 21:9 ultrawide gaming display that's big enough to make you forget any ambitions you had for multi-screen setups. With a curvature of 1900R, this screen is flat enough to keep everything nicely proportioned while still feeling like it wraps into your peripherals to give you a giant and consistent viewing experience.
 
 
+***
+![Bitcoin sits below all-time high after U.S. ETF debut](https://www.reuters.com/resizer/6SrJPhlyYOAq39obh31ZrIvLXUY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DFOD6OBDWJNB3ELM3Y5C2UPAN4.jpg "Bitcoin sits below all-time high after U.S. ETF debut")
+
+
+[Bitcoin sits below all-time high after U.S. ETF debut](https://www.reuters.com/technology/bitcoin-sits-below-all-time-high-after-us-etf-debut-2021-10-20/)
+
+
+> A representation of the virtual cryptocurrency Bitcoin is seen in this picture illustration taken October 19, 2021. REUTERS/Edgar SuHONG KONG, Oct 20 (Reuters) - Bitcoin hovered below record levels on Wednesday, the day after the first U.S. bitcoin futures-based exchange-traded fund (ETF) began trading, a development that market participants say is likely to drive investment into the digital asset.The world's leading cryptocurrency was last at $63,998, off 0.4%, but still within a short jump of its record of $64,895.
+
+
+***
+![#TECH: Telegram reaches a billion Android downloads](https://assets.nst.com.my/images/articles/botstelegr_NSTfield_image_socialmedia.var_1634702535.jpg "#TECH: Telegram reaches a billion Android downloads")
+
+
+[#TECH: Telegram reaches a billion Android downloads](https://www.nst.com.my/lifestyle/bots/2021/10/738103/tech-telegram-reaches-billion-android-downloads)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Oppo reportedly developing own chips for flagship phones](https://cdn.vox-cdn.com/thumbor/CHhFM4U6wb1-5EplHu9Ympu7HGM=/0x170:2040x1190/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/22480716/DSCF7705.jpg "Oppo reportedly developing own chips for flagship phones")
+
+
+[Oppo reportedly developing own chips for flagship phones](https://www.theverge.com/2021/10/20/22735935/oppo-own-chip-development-google-tensor-qualcomm)
+
+
+> Oppo's current Find X3 Pro flagship phone. Photo by Sam Byford / The Verge Oppo is developing its own high-end chips for flagship mobile phones, according to a report in Nikkei. Two people who spoke to the newspaper said that the plan was to release custom SoCs in 2023 or 2024 'depending on the speed of development.' Oppo reportedly wants to use TSMC's advanced 3nm process technology for the chips. If plans come to pass, Oppo would be the latest major smartphone manufacturer to take control of its own SoC design.
+
+
+***
+![Google Store crashes mar rollout of its new Pixel 6 phone](https://images.indianexpress.com/2021/09/Google-Pixel-61.jpg "Google Store crashes mar rollout of its new Pixel 6 phone")
+
+
+[Google Store crashes mar rollout of its new Pixel 6 phone](https://indianexpress.com/article/technology/tech-news-technology/google-store-crashes-mar-rollout-of-its-new-pixel-6-phone-7580895/)
+
+
+> Google's Pixel 6 debut, seen as the company's latest and best attempt to compete with Apple Inc.'s iPhone, was hampered by online outages that kept would-be shoppers from purchasing the device. Customers attempting to buy the phones Tuesday immediately had difficulties. The company's website crashed, was sluggish or provided error messages to many consumers. The problems lasted for about five hours before being fixed. 'The Google Store was temporarily down but is now back up. We apologize for the inconvenience,' a Google spokesperson said in a statement.
+
+
+***
+[Israel-based SeaLights, whose tech lets customers spot potential quality risks associated with their software changes in real time, raises a $30M Series B (Meir Orbach/CTech)](http://www.techmeme.com/211020/p1#a211020p1)
+
+
+> Meir Orbach / CTech: Israel-based SeaLights, whose tech lets customers spot potential quality risks associated with their software changes in real time, raises a $30M Series B — The Israeli startup's cloud-based solution provides its customers with full visibility into every potential quality risk associated with their software changes in real-time
+
+
