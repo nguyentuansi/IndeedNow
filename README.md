@@ -17688,3 +17688,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![PayPal in talks to buy Pinterest](https://www.reuters.com/resizer/WpeQ9B6Ew9LkUXwQHkuxXRj1wo8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/54GMXDZIZBJK3LI2WDJFRASMNM.jpg "PayPal in talks to buy Pinterest")
+
+
+[PayPal in talks to buy Pinterest](https://www.reuters.com/technology/paypal-looking-buy-digital-pinboard-site-pinterest-bloomberg-news-2021-10-20/)
+
+
+> The PayPal logo is seen on a smartphone in front of the same logo displayed in this illustration taken September 8, 2021. REUTERS/Dado Ruvic/IllustrationOct 20 (Reuters) - Payments giant PayPal Holdings Inc (PYPL.O)is in talks to buy digital pinboard site Pinterest Inc (PINS.N), according to a person directly familiar with the matter.The companies have discussed a potential price of $70 per share, which would value Pinterest at around $39 billion, according to Bloomberg News. The price would represent a 26% premium to Pinterest's closing price of $55.
+
+
+***
+![MSI gaming laptop blows away the early Black Friday competition with $300 discount](https://cdn.mos.cms.futurecdn.net/VK4PkgqJ47F7etTREJngFH-1200-80.jpg "MSI gaming laptop blows away the early Black Friday competition with $300 discount")
+
+
+[MSI gaming laptop blows away the early Black Friday competition with $300 discount](https://www.techradar.com/news/msi-gaming-laptop-blows-away-the-early-black-friday-competition-with-dollar300-discount)
+
+
+> (Image credit: Future) One of the best pre-Black Friday gaming laptop deals we've found so far is this 15.6-inch MSI Delta 15 at Best Buy for $1,299.99 (was $1,599.99) - a fantastic price to pay for such a powerful machine.Inside, you'll find an RX Radeon RX6700M, Ryzen 7-5800H, 16GB of RAM, and 1TB SSD under the hood - specs that can't simply be ignored when it comes to sheer power (and bang for the buck).The MSI Delta is a relatively new addition to the MSI stable and one of the first gaming laptops on the market to rock the exclusively AMD-based combo of an RX Radeon RX6700M graphics card andÂ Ryzen 7-5800H processor.
+
+
+***
+![HostGator's birthday bash means getting 70% off web hosting plans](https://cdn.mos.cms.futurecdn.net/DAF9v2jamez5rWu4VYTg3H-1200-80.jpg "HostGator's birthday bash means getting 70% off web hosting plans")
+
+
+[HostGator's birthday bash means getting 70% off web hosting plans](https://www.techradar.com/deals/hostgators-birthday-bash-means-getting-70-off-web-hosting-plans)
+
+
+> (Image credit: Hostgator) Having been around for a year shy of two decades, HostGator is definitely among the pioneers of the web hosting world. It's simple, packed with excellent features, and has its own software for site-building.To celebrate another successful year, HostGator lets users save 70% across select hosting plans that remains feature-packed. The sale ends on October 22, at 11:59 PM CT.This sale makes the Hatchling, Baby, and Business Plans, all offering unlimited bandwidth and storage, and lightning-fast speed, more affordable than ever.
+
+
+***
+![Collabs, a feature that allows two users to share a post, is now available on Instagram. » Brinkwire](https://1734811051.rsc.cdn77.org/data/images/full/394604/instagram.png "Collabs, a feature that allows two users to share a post, is now available on Instagram. » Brinkwire")
+
+
+[Collabs, a feature that allows two users to share a post, is now available on Instagram. » Brinkwire](https://en.brinkwire.com/technology/collabs-a-feature-that-allows-two-users-to-share-a-post-is-now-available-on-instagram/)
+
+
+> (Photo : Pixabay/PhotoMIX-Company) Instagram appInstagram announced one of its latest features called Collabs. It is a new feature that allows two users to share ownership of a single Reel or feed post. On Oct. 20, Instagram is following this up by testing a new way to add a nonprofit fundraiser to a post on a platform. On Oct. 21, the social media platform will roll out the ability to create photo and video posts on its desktop version, and it will launch new effects for Reels that are focused on music.
+
+
+***
+![The red flag meme is a red flag for accessibility â€' TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/meme-accessibility2.jpg "The red flag meme is a red flag for accessibility â€' TechCrunch")
+
+
+[The red flag meme is a red flag for accessibility â€' TechCrunch](https://techcrunch.com/2021/10/20/the-red-flag-meme-is-a-red-flag-for-accessibility/)
+
+
+> If youâ€™ve been on Twitter lately, youâ€™ve probably seen the red flag meme thatâ€™s going around â€' you quote a phrase that would be a â€œred flagâ€� for someone to say to you, then add a bunch of red flag emojis. Twitter itself joined in on the fun, as well as brands like Dr. Pepper, MTV and even the NFLâ€™s Houston Texans. But for Blind and visually-impaired people that use screen readers and voiceover technology, the red flag meme doesnâ€™t make sense. â€œEvery time I saw that meme come up, I would have voiceover saying â€˜triangular flag on a post,'â€� said Steve Saylor, a Blind Twitch gamer and accessibility advocate.
+
+
