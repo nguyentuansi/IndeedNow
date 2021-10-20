@@ -17638,3 +17638,53 @@
 > Many companies collect data from all of their users, but they don't know what is good or bad data until it is collected and analyzed. Now in this increasingly mobile-first world, we use our phones for everything from apps to ordering to food to connecting with our cars. Though these same companies have accelerated their digitalization to meet employees and customers where they are — up to 92% of all digital traffic worldwide is done through mobile devices — they lack visibility of this data and how it can be converted into retention and revenue.
 
 
+***
+![Analysis: Eat or be eaten? Food delivery apps have knives out as pandemic boom fades](https://www.reuters.com/resizer/hg1kf8YL7gWb5ep8W2S6Uqr6Yss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QRTG4V6ISVMSLFNERGUC2CVX74.jpg "Analysis: Eat or be eaten? Food delivery apps have knives out as pandemic boom fades")
+
+
+[Analysis: Eat or be eaten? Food delivery apps have knives out as pandemic boom fades](https://www.reuters.com/technology/eat-or-be-eaten-food-delivery-apps-have-knives-out-pandemic-boom-fades-2021-10-20/)
+
+
+> AMSTERDAM, Oct 20 (Reuters) - The meal delivery market is expected turn to a phase of consolidation in the coming months as players look to adjust operations after the explosive boom in demand served up to them during the COVID-19 pandemic.The industry, which includes the likes of Uber Eats (UBER.N), Just Eat Takeaway (TKWY.AS) and Deliveroo (ROO.L), generally saw share prices spike during 2020 as lockdowns and other restrictions kept people eating at home.Investor sentiment has turned in 2021 in anticipation of a return to normal, but experts say consumers' ordering habits have likely changed permanently.
+
+
+***
+![Tencent said to sharpen focus on metaverse-like developments with advanced new gaming studio](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/10/20/5f868f74-3183-11ec-8bc1-f82f86ab0ffa_image_hires_180855.jpg?itok=4vMFYSb8&v=1634724542 "Tencent said to sharpen focus on metaverse-like developments with advanced new gaming studio")
+
+
+[Tencent said to sharpen focus on metaverse-like developments with advanced new gaming studio](https://www.scmp.com/tech/big-tech/article/3153035/tencent-said-sharpen-focus-metaverse-developments-advanced-new-gaming)
+
+
+> Tencent Holdings subsidiary TiMi Studio Group will take the lead in the internet giant's pursuit of metaverse-like developments in the video gaming industry. Photo: Imaginechina via Agence France-Presse
+
+
+***
+![Samsung Introduces The Moto Maker-Inspired "Bespoke Edition" Galaxy Z Flip 3](https://www.androidheadlines.com/wp-content/uploads/2021/10/006_Bespoke-Edition_Z-Flip3_Open-Back.jpg "Samsung Introduces The Moto Maker-Inspired "Bespoke Edition" Galaxy Z Flip 3")
+
+
+[Samsung Introduces The Moto Maker-Inspired "Bespoke Edition" Galaxy Z Flip 3](https://www.androidheadlines.com/2021/10/samsung-bespoke-edition-galaxy-z-flip-3-unpacked)
+
+
+> At Unpacked Part 2 today, Samsung announced the Galaxy Z Flip 3 Bespoke Edition. This provides customers with more ways to customize your new smartphone. Bringing unique personality and style to Samsung's Bespoke concept. Which was first introduced to its home appliances, and now it's coming to Galaxy.Samsung says that customers will be able to choose from a black or silver phone frame. And then the back and front colors of pink, white, black and new colors that include blue and yellow. These can be mixed and matched as well.
+
+
+***
+![Here are the inner workings of YouTube recommendation engine's accuracy](https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/02/full/1630571559-6781.jpg "Here are the inner workings of YouTube recommendation engine's accuracy")
+
+
+[Here are the inner workings of YouTube recommendation engine's accuracy](https://www.business-standard.com/article/technology/here-are-the-inner-workings-of-youtube-recommendation-engine-s-accuracy-121102001318_1.html)
+
+
+> How many times have you found new or engaging content while clicking on recommended videos on YouTube? Recommendations may or may not have the majority user vote, but a lot of thought has gone into developing the algorithm that makes these suggestions to users, a top executive said on Wednesday. Reiterating how recommendations play an important role in maintaining a responsible platform, YouTube today shared insights into how its recommendation engine works. 'Today, Recommendations drive a significant amount of the overall viewership on YouTube, even more than channel subscriptions or search.
+
+
+***
+![Blackberry Cell Phones and E-Mail Accounts Soon to Be Useless](https://external-preview.redd.it/hiQPTDITmI0KrXegROoemyEfsafqeuQMkNaXqhcZSD0.jpg?auto=webp&s=6efe03ccf1a504c5f1b57ac46fa51f168ae1609b "Blackberry Cell Phones and E-Mail Accounts Soon to Be Useless")
+
+
+[Blackberry Cell Phones and E-Mail Accounts Soon to Be Useless](https://www.reddit.com/r/technology/comments/qc1a5f/blackberry_cell_phones_and_email_accounts_soon_to/)
+
+
+> no comments yetBe the first to share what you think!
+
+
