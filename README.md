@@ -17832,3 +17832,53 @@
 > Source: Ara Wagoner / Android Central Google continues to struggle with inventory for Pixel 6 pre-orders. Interested parties can now sign up for a waitlist. Once the model selected is in stock, an email will be sent to notify you. To say that the Pixel 6 pre-ordering process was a frustration, would be an instant contender for "understatement of the year." Interested parties were met with an array of errors ranging from the standard "501. It's not you, it's us" to random "R" errors when you finally were able to reach checkout.
 
 
+***
+![Free Chinese VPN exposed data from over a million users](https://cdn.mos.cms.futurecdn.net/TuZqxZMSLppjgShkLGFsBF-1200-80.jpg "Free Chinese VPN exposed data from over a million users")
+
+
+[Free Chinese VPN exposed data from over a million users](https://www.techradar.com/news/free-chinese-vpn-exposed-data-from-a-million-users)
+
+
+> (Image credit: Shutterstock/dalebor) Cybersecurity researchers have discovered unencrypted data of about a million users of Quickfox, a free virtual private network (VPN) service primarily used to access Chinese sites from outside of mainland China.Commenting on the find, WizCase says that the data exposed a variety of personally identifiable information (PII) of the users of the service, including their names, phone numbers, and more.'There was no need for a password or login credentials to see this information, and the data was not encrypted.
+
+
+***
+![Police: Cross-Dressing Amazon Driver Took Photos of Young Girls in Women's Bathrooms](https://media.breitbart.com/media/2021/10/Amazon-Driver-busted-for-filming-girls-in-bathroom-640x335.jpg "Police: Cross-Dressing Amazon Driver Took Photos of Young Girls in Women's Bathrooms")
+
+
+[Police: Cross-Dressing Amazon Driver Took Photos of Young Girls in Women's Bathrooms](https://www.breitbart.com/tech/2021/10/20/police-cross-dressing-amazon-driver-took-photos-of-young-girls-in-womens-bathrooms/)
+
+
+> A cross-dressing male Amazon driver has been charged with child porn after allegedly donning women's clothing and a wig before going into a women's bathroom to take photos of women and girls as young as eight years old. Jacob Guerrero of Woonsocket, Rhode Island, was arrested on Monday after a lengthy investigation, which started in August when police received a call from a customer at a shopping center in Massachusetts claiming a man dressed in drag was acting suspiciously in the women's bathroom, according to a report by Boston 25 News.
+
+
+***
+![D.C. Attorney General Targets Mark Zuckerberg in Facebook Consumer Protection Lawsuit](https://media.breitbart.com/media/2020/09/GettyImages-1227832366-1.jpg "D.C. Attorney General Targets Mark Zuckerberg in Facebook Consumer Protection Lawsuit")
+
+
+[D.C. Attorney General Targets Mark Zuckerberg in Facebook Consumer Protection Lawsuit](https://www.breitbart.com/tech/2021/10/20/d-c-attorney-general-to-add-mark-zuckerberg-as-defendant-in-facebook-consumer-protection-lawsuit/)
+
+
+> According to recent reports, the attorney general for the District of Columbia will soon add Facebook CEO Mark Zuckerberg to a consumer protection lawsuit, saying that sharing private data with third-party developers was Zuckerberg's 'brainchild.' The New York Times reports that Karl Racine, the attorney general for the District of Columbia, will soon add Facebook Chief Executive Mark Zuckerberg to a consumer protection lawsuit as part of efforts to expose the company CEO himself to potential financial and other penalties for privacy violations.
+
+
+***
+![Best laptop for music production 2021: the ultimate workstations for musicians](https://cdn.mos.cms.futurecdn.net/arhjhVeSht3VwJnQkteEYo-1200-80.jpg "Best laptop for music production 2021: the ultimate workstations for musicians")
+
+
+[Best laptop for music production 2021: the ultimate workstations for musicians](https://www.techradar.com/news/best-laptop-for-dj-and-music-production)
+
+
+> The best laptop for music production is going to have all the tools you need and the power to run them whether you're in the studio, on the road, or playing live in a venue. You'll need specific hardware to get the most out of your investment however, and your specific musical needs can mean you need to look for some rather different things when buying a new laptop. The best specs in the best laptops aren't going to mean much if they aren't the right specs or form factor for your need.Apart from the best processors, which is going to be universally useful, system memory for managing all your audio tracks in professional sound engineering apps like ProTools and Adobe Audition is also essential, as is storage capacity if you're on the go since raw audio files can be massive and you'll be working with several of them at a time most likely.
+
+
+***
+![Google Tweaks Image Search to 'Promote Greater Skin-Tone Diversity'](https://media.breitbart.com/media/2019/07/Google-train-640x335.jpg "Google Tweaks Image Search to 'Promote Greater Skin-Tone Diversity'")
+
+
+[Google Tweaks Image Search to 'Promote Greater Skin-Tone Diversity'](https://www.breitbart.com/tech/2021/10/20/google-tweaks-image-search-to-promote-greater-skin-tone-diversity/)
+
+
+> Tech giant Google has quietly updated its algorithms recently 'to promote greater skin-tone diversity' in image searches. Bloomberg reports that Google recently updated its search algorithms in an effort to display more racially diverse image search results. The change was implemented without any formal announcement and aims to result in image searches that display a variety of skin tones when users search for certain terms related to beauty. Sundar Pichai, senior vice president of Chrome, speaks at Google's annual developer conference, Google I/O, in San Francisco on 28 June 2012 ( KIMIHIRO HOSHINO/AFP/GettyImages ) Under the new algorithm, when users search for queries such as 'beautiful skin,' and 'professional hairstyles,' as well as other simpler queries like 'woman,' or 'happy family,' the search giant will return more racially diverse results.
+
+
