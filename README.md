@@ -17347,3 +17347,53 @@
 > The new MacBook Pros will begin arriving next week, but thankfully, we don't have to wait that long to get an answer. Linda Dong, an Apple designer, has confirmed on Twitter that the macOS pointer travels behind the notch, allowing users to essentially hide the mouse pointer from view. That's an interesting way to do it. It was either that or the mouse would go around the notch. I'm sure there will be complaints either way.∞ Read this on The Loop
 
 
+***
+![Apple AirPods Black Friday deals 2021: early sales and what to expect](https://cdn.mos.cms.futurecdn.net/zenMsvVg5npMxgNsf6kx3P-1200-80.jpg "Apple AirPods Black Friday deals 2021: early sales and what to expect")
+
+
+[Apple AirPods Black Friday deals 2021: early sales and what to expect](https://www.techradar.com/black-friday/apple-airpods-black-friday-deals-2021-what-to-expect-this-year)
+
+
+> If you're on the hunt for Black Friday AirPods deals, then you've come to the right place. The upcoming 2021 Black Friday deals event is the perfect opportunity to score AirPods at a discounted price, and we're to help you find the very best bargains available in the US and UK. While Black Friday falls on November 26 this year, several retailers have launched early sales in a bid to help consumers get a head start on their holiday shopping and avoid potential shipping delays. We'll be covering all the best early offers below, plus what Black Friday AirPods deals you can expect when the official sales begin.
+
+
+***
+![FinTech Revolut Introduces Fee-Free Crypto Trading](https://securecdn.pymnts.com/wp-content/uploads/2021/10/revolut-crypto-trade-1000x600.jpg "FinTech Revolut Introduces Fee-Free Crypto Trading")
+
+
+[FinTech Revolut Introduces Fee-Free Crypto Trading](https://www.pymnts.com/blockchain/bitcoin/2021/fintech-revolut-introduces-fee-free-crypto-trading/)
+
+
+> In a push to increase its user base in the U.S., digital bank Revolut is introducing fee-free cryptocurrency trading for up to $200,000 worth of trades per month, the FinTech announced Tuesday (Oct. 19). Revolut is also offering its 300,000 U.S. customers no-fee ATM use out-of-network, as well as the perk of sending 10 free remittances each month. See also: Inside Revolut: 5 Banking and Payments Products 'The free crypto part is part of a larger pitch to investors that we're a provider of services,' Revolut's U.
+
+
+***
+![eBay knocks AU$134 off the super-slick Breville the Barista Pro coffee machine](https://cdn.mos.cms.futurecdn.net/3za787XptadnBY7NvaFiYF-1200-80.jpeg "eBay knocks AU$134 off the super-slick Breville the Barista Pro coffee machine")
+
+
+[eBay knocks AU$134 off the super-slick Breville the Barista Pro coffee machine](https://www.techradar.com/news/ebay-knocks-audollar134-off-the-super-slick-breville-the-barista-pro-coffee-machine)
+
+
+> (Image credit: Breville) Can't stomach another cup of instant coffee? We've got good news for you. This week, eBay is offering a huge range of deals on small appliances, and some of the best coffee machines you can buy are part of the sale.That includes the Breville the Barista Pro and Breville the Barista Express, both of which will have you making cafe-quality coffee at home (and now both machines come with a discount, making the prospect all the more tempting).There's plenty more savings on other small appliances, including a fantastic Dyson vacuum, a SodaStream and a Philips air fryer.
+
+
+***
+![GOT A NEW VEHICLE](https://images.macrumors.com/social/?t=2318100&v=6 "GOT A NEW VEHICLE")
+
+
+[GOT A NEW VEHICLE](https://forums.macrumors.com/threads/got-a-new-vehicle.2318100/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Rootkits credit specialist truly FIX BAD CREDIT FAST?? There's nothing better than getting a new vehicle with low APR! See results in little as 3-5 days! Rootkits made it happen for me just last month I contacted him, I'm pleased with the job rootkits did to my credit report. Before I got a low credit score of 521 with lots of debts and negative tradelines on my report which couldn't get me approve on any loan or job.
+
+
+***
+![BenQ Mobiuz EX3415R](https://cdn.mos.cms.futurecdn.net/jUP63WKpY4WYTZMSD6pCt5-1200-80.jpg "BenQ Mobiuz EX3415R")
+
+
+[BenQ Mobiuz EX3415R](https://www.techradar.com/reviews/benq-mobiuz-ex3415r)
+
+
+> Today's best BenQ Mobiuz EX3415R dealsWhile pro gamers are going to use flat, small 16:9 screens because they're the fastest, most colour accurate and consistent screens around – for anyone that actually wants to get the most out of their games, ultrawide curved displays are where it's at. BenQ's Mobiuz EX3415R is a 34-inch 21:9 ultrawide gaming display that's big enough to make you forget any ambitions you had for multi-screen setups. With a curvature of 1900R, this screen is flat enough to keep everything nicely proportioned while still feeling like it wraps into your peripherals to give you a giant and consistent viewing experience.
+
+
