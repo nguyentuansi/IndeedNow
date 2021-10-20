@@ -17588,3 +17588,53 @@
 > Pinterest allows users to save images and videos to virtual boards. Getty Images Pinterest said Wednesday it's revamping its home feed, adding a new tab called Watch where people can scroll through short videos or a series of photos. The new tab looks similar to TikTok's feed, where you can quickly swipe up or down to watch videos. Pinterest users can save the content to their profile and "pin" it to a virtual board. Pinterest's Watch feed highlights content shared through "Idea Pins," which allow users to add multiple images, videos, lists and text to one Pin.
 
 
+***
+![Amazon Great Indian Sale: HiFiMAN HE400SE at Rs 10,999 is the best audiophile headphones you can buy right now](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/Screenshot_2021-10-20_at_5.36.-647x363.png?wex3ilXtLlMaeyr1MrLqlJU.GY1bnMxo "Amazon Great Indian Sale: HiFiMAN HE400SE at Rs 10,999 is the best audiophile headphones you can buy right now")
+
+
+[Amazon Great Indian Sale: HiFiMAN HE400SE at Rs 10,999 is the best audiophile headphones you can buy right now](https://www.indiatoday.in/technology/news/story/amazon-great-indian-sale-hifiman-he400se-at-rs-10-999-is-the-best-audiophile-headphones-you-can-buy-right-now-1867090-2021-10-20)
+
+
+> The HiFiMAN HE400SE is currently available for Rs. 10,999, down from its original price of Rs. 16,999.This headset is equipped with both 3.5mm and 6.35mm adapters for maximum compatibility with a wide range of devices.The HE400SE's high sensitivity makes it the perfect match for low-voltage sources.Amazon's Great Indian Festival sale that kicked off on October 3 is more than a month long event this time around. The sale is offering steep discounts and deals on various products across categories including headphones.
+
+
+***
+![Vodafone Idea offers Google Workspace with its Business Plus Plans at no extra cost, check details](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/Business_Plus-647x363.jpeg?.raBy99DExzMU8J3dW5EUrb2S2p0DaJl "Vodafone Idea offers Google Workspace with its Business Plus Plans at no extra cost, check details")
+
+
+[Vodafone Idea offers Google Workspace with its Business Plus Plans at no extra cost, check details](https://www.indiatoday.in/technology/news/story/vodafone-idea-offers-google-workspace-with-its-business-plus-plans-at-no-extra-cost-check-details-1867088-2021-10-20)
+
+
+> Vi Business, the enterprise arm of Vodafone Idea has partnered with Google Cloud India to offer collaboration solutions for SMEs and start-ups.The partnership is aimed at facilitating flexibility and connectivity to small businesses and their workforce.The Office Suite allows users to access email, calendar, apps, docs and slides.Vi Business, the enterprise arm of Vodafone Idea has partnered with Google Cloud India to offer collaboration solutions for SMEs and start-ups. The company notes, Google Workspace will equip Vi Business Plus customers with a set of productivity applications like Google Meet, Gmail, Drive, Sheets, Slides, Docs, and Calendar at no extra cost.
+
+
+***
+![Superplastic raises $20M to expand its cartoon influencer universe – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/SeriesA3_FundraisingAnnouncement-e1634671970384.png?w=625 "Superplastic raises $20M to expand its cartoon influencer universe – TechCrunch")
+
+
+[Superplastic raises $20M to expand its cartoon influencer universe – TechCrunch](https://techcrunch.com/2021/10/20/superplastic-guggimon-janky-virtual-celebrities-series-a/)
+
+
+> A company from the creator of Ello and Kidrobot is announcing a new $20 million funding round to build out an imagined virtual world populated with deranged-yet-cute cartoon influencers. Superplastic‘s investors include Google Ventures, Index Ventures, Founders Fund, Craft Ventures, Galaxy Digital, Mantis VC/The Chainsmokers, Kakao, LINE Friends and individual investors like Cyan Bannister, Jared Leto, Justin Timberlake and Scooter Braun, among others. The $20 million Series A round brings the company's total capital raised to $38 million.
+
+
+***
+![How to watch Samsung Galaxy Unpacked Part 2 livestream: New colors, new phones?](https://icdn.digitaltrends.com/image/digitaltrends/galaxy-unpacked-part-2.jpg "How to watch Samsung Galaxy Unpacked Part 2 livestream: New colors, new phones?")
+
+
+[How to watch Samsung Galaxy Unpacked Part 2 livestream: New colors, new phones?](https://www.digitaltrends.com/mobile/how-to-watch-samsung-galaxy-unpacked-part-2-livestream/)
+
+
+> We are fresh off the Pixel 6 launch, and now we're already looking ahead to Samsung Galaxy Unpacked Part 2. The company has already announced its Galaxy S series and the foldables, and that the Galaxy Note series isn't coming this year, so it's still unclear what Samsung could launch at today's event. The best guess is that Samsung is gearing up to introduce new variants and color options of its Galaxy Z lineup. How to watch the Samsung Galaxy Unpacked Part 2 event The Galaxy Unpacked Part 2 event will be taking place at 7 a.
+
+
+***
+![Embrace grabs a new funding round amid unveiling of new mobile data intelligence software – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/Eric-Futoran-CEO-2.jpg?w=708 "Embrace grabs a new funding round amid unveiling of new mobile data intelligence software – TechCrunch")
+
+
+[Embrace grabs a new funding round amid unveiling of new mobile data intelligence software – TechCrunch](https://techcrunch.com/2021/10/20/embrace-grabs-a-new-funding-round-amid-unveiling-of-new-mobile-data-intelligence-software/)
+
+
+> Many companies collect data from all of their users, but they don't know what is good or bad data until it is collected and analyzed. Now in this increasingly mobile-first world, we use our phones for everything from apps to ordering to food to connecting with our cars. Though these same companies have accelerated their digitalization to meet employees and customers where they are — up to 92% of all digital traffic worldwide is done through mobile devices — they lack visibility of this data and how it can be converted into retention and revenue.
+
+
