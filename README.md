@@ -17300,3 +17300,50 @@
 > Source: Apple Apple TV+ has released the official trailer for the second season of "Snoopy in Space." The second season has Snoopy exploring the greatest questions of humankind. Season two of "Snoppy in Space" will premiere on Friday, November 12. Today, Apple TV+ released the trailer for the second season of its animated children's series "Snoopy in Space." You can check out the official trailer for "Snoopy in Space: The Search for Life" below: Snoopy, Woodstock, and the Peanuts gang are back at NASA, and they're taking on a new frontier.
 
 
+***
+![[News only] The true guest of 'violation of quarantine rules'... riot over dissolution request](https://img.sbs.co.kr/newimg/news/20211020/201601895_1280.jpg "[News only] The true guest of 'violation of quarantine rules'... riot over dissolution request")
+
+
+[[News only] The true guest of 'violation of quarantine rules'... riot over dissolution request](https://www.tellerreport.com/tech/2021-10-20-[news-only]-the-true-guest-of--violation-of-quarantine-rules-----riot-over-dissolution-request.H1laHCC3HY.html)
+
+
+> At a pension in Jeju Island, guests broke the limit on the number of people, drank alcohol, and rioted, such as swearing at the pension owner asking for restraint. The pension owner has warned of legal action against these guests. At a pension in Jeju Island, guests broke the limit on the number of people, drank alcohol, and rioted, such as swearing at the pension owner asking for restraint. The pension owner has warned of legal action against these guests. Police officers stop men from swearing in excitement.
+
+
+***
+![A dog dumped in a food waste bin... "Bricks that can't come out"](https://img.sbs.co.kr/newimg/news/20211020/201601892_1280.jpg "A dog dumped in a food waste bin... "Bricks that can't come out"")
+
+
+[A dog dumped in a food waste bin... "Bricks that can't come out"](https://www.tellerreport.com/tech/2021-10-20-a-dog-dumped-in-a-food-waste-bin----"bricks-that-can-t-come-out".Bk_hXAAhSK.html)
+
+
+> Eyewitness reports that someone left a puppy in a food waste bin and put a brick on the lid to prevent it from coming out is outraged. Inside the trash can, a small puppy is standing on two legs and looking pathetic. Eyewitness reports that someone left a puppy in a food waste bin and put a brick on the lid to prevent it from coming out is outraged.Inside the trash can, a small puppy is standing on two legs and looking pathetic.It is said to be a food waste bin in an apartment building in Naju, Jeollanam-do, and the netizen who released the photo explained the situation at the time, saying, 'When I went to the garbage collection point at dawn, the dog was abandoned like this.
+
+
+***
+![7 amazing Pixel 6 features you have to try out](https://icdn.digitaltrends.com/image/digitaltrends/google-pixel-6-in-pocket.jpg "7 amazing Pixel 6 features you have to try out")
+
+
+[7 amazing Pixel 6 features you have to try out](https://www.digitaltrends.com/mobile/7-cool-pixel-6-features/)
+
+
+> After a series of leaks and rumors, Google has finally announced the Pixel 6 and Pixel 6 Pro. Both smartphones come with new hardware, new cameras, Google Tensor chip, and Android 12, but aside from that, there are also some fairly unique features you won't find on another phone. Here are seven super-cool Pixel 6 features you need to know about and try out yourself once you get your hands on the devices. Magic Eraser Gone are the days when you needed to fire up Photoshop to remove unwanted objects and people from your beloved photos.
+
+
+***
+![ADTRAN, Inc. to Release Third Quarter 2021 Earnings on November 1, 2021](http://www.businesswire.com/images/bwlogo_square.png "ADTRAN, Inc. to Release Third Quarter 2021 Earnings on November 1, 2021")
+
+
+[ADTRAN, Inc. to Release Third Quarter 2021 Earnings on November 1, 2021](https://www.businesswire.com/news/home/20211019006140/en/ADTRAN-Inc.-to-Release-Third-Quarter-2021-Earnings-on-November-1-2021)
+
+
+> October 19, 2021 08:05 PM Eastern Daylight Time HUNTSVILLE, Ala.--(BUSINESS WIRE)--ADTRAN, Inc. (NASDAQ: ADTN) announced today that the Company will release its financial results for the third quarter 2021 after market close on Monday, November 1, 2021. The Company will conduct a conference call on Tuesday, November 2, 2021 to discuss the results for the quarter. What: ADTRAN Earnings Call When: 9:30 a.m. Central Time on Tuesday, November 2, 2021 Where: www.adtran.com/investor ADTRAN will webcast this conference.
+
+
+***
+[How the mouse handles the notch on MacBook Pro](https://www.macrumors.com/2021/10/19/macbook-pro-mouse-pointer-and-notch/)
+
+
+> The new MacBook Pros will begin arriving next week, but thankfully, we don't have to wait that long to get an answer. Linda Dong, an Apple designer, has confirmed on Twitter that the macOS pointer travels behind the notch, allowing users to essentially hide the mouse pointer from view. That's an interesting way to do it. It was either that or the mouse would go around the notch. I'm sure there will be complaints either way.∞ Read this on The Loop
+
+
