@@ -17541,3 +17541,50 @@
 > Image Credit: Shutterstock San Francisco: Facebook-owned Instagram on Wednesday announced a new 'Collab' feature that will allow users of the social media platform to collaborate with others on Feed Posts and Reels. The new Collabs feature will allow two accounts to co-author a post or reel. The post or Reel will appear jointly to each user's followers and will share the same comment thread, as well as view and like counts. "We are launching Collabs, a new way to co-author Feed posts and Reels.
 
 
+***
+[Draft EU document: finalization of the Digital Markets Act and Digital Services Act has been pushed back further into next year from an initial spring 2022 goal (Bloomberg)](http://www.techmeme.com/211020/p15#a211020p15)
+
+
+> Bloomberg: Draft EU document: finalization of the Digital Markets Act and Digital Services Act has been pushed back further into next year from an initial spring 2022 goal — European Union countries will delay a key target of finalizing new rules hitting tech platforms by the spring of next year …
+
+
+***
+![Swiss court rejects Google appeal over cloud contract](https://www.reuters.com/resizer/9NRY5JafpCEokUEHeYrfJazZwZc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QQ267VW4FBKLBHLGJEZTSCDOBE.jpg "Swiss court rejects Google appeal over cloud contract")
+
+
+[Swiss court rejects Google appeal over cloud contract](https://www.reuters.com/technology/swiss-court-rejects-google-appeal-over-cloud-contract-2021-10-20/)
+
+
+> The logo of Google is seen on a building at La Defense business and financial district in Courbevoie near Paris, France, September 1, 2020. REUTERS/Charles PlatiauZURICH, Oct 20 (Reuters) - A Swiss court has dismissed Google's (GOOGL.O) bid to block the award of a government cloud computing contract worth up to 110 million Swiss francs ($119 million) to rival bidders."In an interim decision, the Federal Administrative Court rejects Google's request to grant suspensive effect to its appeal. The Federal Office for Buildings and Logistics may therefore conclude the public cloud contracts with the selected tenderers," the court said in a statement on Wednesday.
+
+
+***
+![Google Play Protect Is Now Available As A Dedicated App](https://www.androidheadlines.com/wp-content/uploads/2017/08/Google-Play-Protect-Logo.jpg "Google Play Protect Is Now Available As A Dedicated App")
+
+
+[Google Play Protect Is Now Available As A Dedicated App](https://www.androidheadlines.com/2021/10/google-play-protect-dedicated-app.html)
+
+
+> Google Play Store is the official app/game store for Android devices. It is protected by a security layer called ‘Play Protect', which runs in the background to protect your device from nefarious apps.Google introduced Play Protect back in 2017 at the Google I/O event. Now, after being around 4 years as a part of the Play Store, Google has made the Play Protect service available as a dedicated app.Play Protect is a very essential component of the Google Play Store. Because it protects your device from any harm if you are installing an app from a third-party source or which the device finds harmful.
+
+
+***
+![Tech's leaky world](https://images.axios.com/Kw3lZWO4EXbIUQ11zJmfjRw_OAY=/0x0:1920x1080/1366x768/2021/10/20/1634692444552.jpg "Tech's leaky world")
+
+
+[Tech's leaky world](https://www.axios.com/techs-leaky-world-facebook-apple-519f404d-55fe-43aa-9180-908cd3526975.html)
+
+
+> Tech companies are learning what everyone in Washington already knows: Leaks of confidential info are inevitable, and "plumbing" operations to close them rarely work.Why it matters: Most tech firms talk up the power of transparency but prefer to keep details of their operations secret from competitors and the public. Researchers, regulators and the media are increasingly relying on information provided by dissident employees and whistleblowers to see inside companies' workings.Driving the news: Facebook is beset by a steady stream of negative press based on a massive trove of internal research that former employee Frances Haugen took with her when she left the company earlier this year.
+
+
+***
+![Pinterest takes on TikTok with new tab to watch short videos](https://www.cnet.com/a/img/epbsjP1HCZedbxP1euzj8hl1_Sk=/1200x630/right/middle/2021/10/19/6190ff41-d08d-4e53-95d0-f22bb4a9c38f/screen-shot-2021-10-19-at-1-04-47-pm.png "Pinterest takes on TikTok with new tab to watch short videos")
+
+
+[Pinterest takes on TikTok with new tab to watch short videos](https://www.cnet.com/tech/mobile/pinterest-takes-on-tiktok-with-new-tab-to-watch-short-videos/)
+
+
+> Pinterest allows users to save images and videos to virtual boards. Getty Images Pinterest said Wednesday it's revamping its home feed, adding a new tab called Watch where people can scroll through short videos or a series of photos. The new tab looks similar to TikTok's feed, where you can quickly swipe up or down to watch videos. Pinterest users can save the content to their profile and "pin" it to a virtual board. Pinterest's Watch feed highlights content shared through "Idea Pins," which allow users to add multiple images, videos, lists and text to one Pin.
+
+
