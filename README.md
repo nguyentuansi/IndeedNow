@@ -17444,3 +17444,50 @@
 > Meir Orbach / CTech: Israel-based SeaLights, whose tech lets customers spot potential quality risks associated with their software changes in real time, raises a $30M Series B — The Israeli startup's cloud-based solution provides its customers with full visibility into every potential quality risk associated with their software changes in real-time
 
 
+***
+![Hytera PoC Reaches 10,000 Subscribers in Turkey](https://mms.businesswire.com/media/20211019005801/en/917816/23/hytera_photo.jpg "Hytera PoC Reaches 10,000 Subscribers in Turkey")
+
+
+[Hytera PoC Reaches 10,000 Subscribers in Turkey](https://www.businesswire.com/news/home/20211019005801/en/Hytera-PoC-Reaches-10000-Subscribers-in-Turkey)
+
+
+> October 20, 2021 02:00 AM Eastern Daylight Time SHENZHEN, China--(BUSINESS WIRE)--Hytera, a global leading provider of Professional Mobile Radio (PMR) solutions, is pleased to announce that the number of subscribers of its Push-to-Talk over Cellular (PoC) solutions in Turkey has reached 10,000 since its launch in Q2 2019. In recent years, inspired by the rapid evolution of broadband technologies, traditional push-to-talk users have shown an ever-increasing demand for data-rich multimedia services such as images and videos which are not supported by the legacy narrowband radio systems.
+
+
+***
+![Google Pixel 6 and 6 Pro smartphones revealed](https://imageresizer.static9.net.au/NMzbjhG1z92msOAR_DVvjkDSGg4=/0x199:7645x4500/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd11690d-8408-47cb-acaa-1b423311a336 "Google Pixel 6 and 6 Pro smartphones revealed")
+
+
+[Google Pixel 6 and 6 Pro smartphones revealed](https://www.9news.com.au/technology/what-to-expect-when-googles-pixel-6-smartphone-hits-australia/fe45d092-429e-49d9-af44-10f80a1282e7)
+
+
+> Your web browser is no longer supported. To improve your experience update it hereGoogle's Pixel 6 smartphone arrives in Australia next week and it is bringing a friend - the Pixel 6 Pro.Starting at $999, the Pixel 6 is powered solely by a Google-made chip for the very first time and is promising a major leap forward in photo and video quality.The selfie cam on Pixel 6 shoots video in 4K.Starting at $999, the Pixel 6 is powered solely by a Google-made chip. (Supplied)Its main 50MP wide lens is a massive upgrade from the 12MP option Google's older phones have stuck with since the Pixel 2.
+
+
+***
+[Prague-based Rossum, which uses AI to automate document processing, raises a $100M Series A led by General Catalyst, sources say at a $500M-$1B valuation (Paul Sawers/VentureBeat)](http://www.techmeme.com/211020/p5#a211020p5)
+
+
+> Paul Sawers / VentureBeat: Prague-based Rossum, which uses AI to automate document processing, raises a $100M Series A led by General Catalyst, sources say at a $500M-$1B valuation — Rossum Ltd., a platform used by enterprises to automatically process and “understand” all their inbound documents, has raised $100 million in a series A round of funding.
+
+
+***
+![WhatsApp Trick: Now, you can hear your voice message before sending](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/10/20/1001663-whatsapp.jpg "WhatsApp Trick: Now, you can hear your voice message before sending")
+
+
+[WhatsApp Trick: Now, you can hear your voice message before sending](https://www.dnaindia.com/technology/report-whatsapp-trick-now-you-can-hear-your-voice-message-before-sending-here-s-how-2916270)
+
+
+> Updated: Oct 20, 2021, 11:23 AM IST WhatsApp is one of the most popular apps used by people. However, WhatsApp has many features that very few users know about. Most people use voice messages, but there are many things you should know about it. Do you know that a voice message can also be heard before sending it? Yes, this feature has been introduced this year. Let's know about it. You can hear voice messages before sending them Many demanded that the voice message be previewed before sending it.
+
+
+***
+![Facebook will rebrand with new name as it looks to future products, report suggests](https://cdn.mos.cms.futurecdn.net/ZRUw5qyRZJzpxZwQBHEv9K-1200-80.png "Facebook will rebrand with new name as it looks to future products, report suggests")
+
+
+[Facebook will rebrand with new name as it looks to future products, report suggests](https://www.techradar.com/news/facebook-will-rebrand-with-new-name-as-it-looks-to-future-products-report-suggests)
+
+
+> (Image credit: Internet) Facebook will soon change its name, a new report suggests, as it seeks to demonstrate that it has expanded beyond its social media roots, and has its sights firmly set on creating future products such as the metaverse.According to The Verge, it's as yet unclear whether the name change will come to the Facebook platform itself, or whether the rebranding will take the form of a new parent company for Facebook to sit under, alongside other Facebook-owned brands including Instagram, WhatsApp and Oculus.
+
+
