@@ -18342,3 +18342,53 @@
 > Razer prides itself on high-quality products, and the Razer Kishi is no different. It's by far one of the best mobile gaming controllers you can buy, turning your phone into a Nintendo Switch. It works perfectly with Xbox Game Pass for Android and provides hours of comfort for long gaming sessions. Its USB-C connection also means you'll never need to charge it. $80 at Amazon USB-C connection Build quality is excellent Works perfectly with Android phones Smaller for easier travel Pricey No Bluetooth means it fits less phones Gamesir may not be as well-known as Razer, but its X2 Bluetooth mobile controller can stand toe-to-toe with the competition.
 
 
+***
+![These are the best Stadia games available to play right now in 2021](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2020/12/cyberpunk-2077-combat-9zju.jpg "These are the best Stadia games available to play right now in 2021")
+
+
+[These are the best Stadia games available to play right now in 2021](https://www.androidcentral.com/best-games-google-stadia)
+
+
+> Best Stadia games Android Central 2021 Google has some of the biggest AAA games out there on its platform, and the catalog keeps getting bigger and better. With more than a year on the market, dozens of games on Stadia are available to play instantly with no downloads, patches, or updates required. So whether you love shooters, RPGs, online multiplayer, platformers, indies, or something in between, there are undoubtedly games for you on Stadia. Here's our list of the best Google Stadia games available to you right now.
+
+
+***
+![Batman: Arkham Knight Cloud Version is Powered by Stadia, Apparently](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Batman%20Arkham%20Knight%20Cloud%20version%20Stadia%20AT%26T%20cover.jpg?itok=iJOQLe3i "Batman: Arkham Knight Cloud Version is Powered by Stadia, Apparently")
+
+
+[Batman: Arkham Knight Cloud Version is Powered by Stadia, Apparently](https://techraptor.net/gaming/news/batman-arkham-knight-cloud-version-is-powered-by-stadia-apparently)
+
+
+> AT&T Wireless has launched a rather odd perk for customers: a free-to-play Batman: Arkham Knight cloud version. What's even more surprising, however, is that it appears to be powered by Google Stadia. Batman: Arkham Knight first launched quite a few years ago and things didn't exactly go all that smoothly -- it had tons of technical problems at launch. These issues ultimately led to Warner Brothers addressing player concerns and ultimately offering refunds to PC players a few days later. The issues with the game have since been smoothed out.
+
+
+***
+![Autonomous Mobile Robots & Logistics Conference Shatters Record, Marks Exciting Success for Return to Live Events](https://mms.businesswire.com/media/20211021006035/en/919062/23/Picture1.jpg "Autonomous Mobile Robots & Logistics Conference Shatters Record, Marks Exciting Success for Return to Live Events")
+
+
+[Autonomous Mobile Robots & Logistics Conference Shatters Record, Marks Exciting Success for Return to Live Events](https://www.businesswire.com/news/home/20211021006035/en/Autonomous-Mobile-Robots-Logistics-Conference-Shatters-Record-Marks-Exciting-Success-for-Return-to-Live-Events)
+
+
+> October 21, 2021 03:55 PM Eastern Daylight Time ANN ARBOR, Mich.--(BUSINESS WIRE)--The Association for Advancing Automation (A3) returned to live events in October, hosting the Autonomous Mobile Robots & Logistics Conference, in Memphis, TN. More than 650 people attended, 50% higher than the number that attended the 2019 pre-pandemic AMR event, demonstrating the surging interest in mobile robotics, distribution, material handling, and e-commerce automation technologies. A3 also announced it will launch an AMR & Logistics Digital Hub on November 15, 2021 and host an in-person Autonomous Mobile Robots & Logistics Conference in Boston October 11-13, 2022.
+
+
+***
+![Internet providers collect "staggering" amounts of data -- U.S. FTC chair](https://www.reuters.com/resizer/kEFHPU_e-Gbg9d3Aw7fDBedHDFA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6Y52UBEMKBOERGUBAUOKCMIZZM.jpg "Internet providers collect "staggering" amounts of data -- U.S. FTC chair")
+
+
+[Internet providers collect "staggering" amounts of data -- U.S. FTC chair](https://www.reuters.com/technology/internet-providers-collect-staggering-amounts-data-us-ftc-chair-2021-10-21/)
+
+
+> People look at their smartphones at the Rockefeller center in New York City, U.S., May 8, 2019. REUTERS/Eduardo Munoz/FilesWASHINGTON, Oct 21 (Reuters) - Internet service providers collect a "staggering" amount of detailed data on consumers, Federal Trade Commission Chair Lina Khan said on Thursday in discussing an agency staff report on information collected by major providers like AT&T (T.N) and Verizon Wireless."We intend this report to be the continuation of an ongoing discussion about commercial data practices, and user privacy," said Khan, who noted that the data collected could also crop up as an issue in merger reviews.
+
+
+***
+![NVIDIA GeForce NOW: Everything You Need To Know – Updated October 21, 2021](https://www.androidheadlines.com/wp-content/uploads/2019/10/NVIDIA-GeForce-NOW-Android.jpg "NVIDIA GeForce NOW: Everything You Need To Know – Updated October 21, 2021")
+
+
+[NVIDIA GeForce NOW: Everything You Need To Know – Updated October 21, 2021](https://www.androidheadlines.com/what-is-nvidia-geforce-now-everything-you-need-to-know.html)
+
+
+> What is GeForce NOW? To put it simply, it's NVIDIA's cloud gaming platform. You use it to stream games to other devices using NVIDIA's hardware. Letting you play games with high graphics settings without needing a high-end PC.If you're looking to learn more about NVIDIA GeForce NOW, this guide breaks it all down and attempts to answer any questions you may have. This is an ongoing piece of content and will be updated accordingly when there are changes to the service.What is NVIDIA GeForce NOW and when is it available?As noted above GeForce NOW is NVIDIA's answer to a cloud gaming platform.
+
+
