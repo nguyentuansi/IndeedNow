@@ -17929,3 +17929,47 @@
 > Tech/Game 2021-10-20T08:57:49.307Z Parent company Facebook may get a new name next week Tech/Game 2021-10-20T05:09:35.831Z Facebook is experimenting with its own digital wallet Novi Tech/Game 2021-10-20T22:16:44.677Z The first Korean launch vehicle 'Nuriho' was launched today... Ready? Tech/Game 2021-10-20T10:40:07.853Z Vaccinated people without a citizen service number can now get a corona pass Tech/Game 2021-10-20T05:15:19.740Z [Breaking News] KCTU gathers in surprise near Seodaemun Station... clash with some police Tech/Game 2021-10-20T08:45:21.
 
 
+***
+[IBM Consulting](https://itwire.com/freelancer-sp-720/tag/IBM%20Consulting.html)
+
+
+> IBM is to acquire the Adobe Workfront consulting unit and assets from Rego Consulting Corp. in a move the tech giant says will further its hybrid cloud and AI strategy.
+
+
+***
+[Watch now: What net zero means for Australia](https://www.goldcoastbulletin.com.au/technology/environment/net-zero-what-does-it-really-mean-for-australians/news-story/9bc78d075d3a6755663e6785a0d65096)
+
+
+> ‘Net Zero' may go down as the most overused phrase of 2021, but what does it actually mean for Australia, and how on earth do we reach such an ambitious goal?
+
+
+***
+![What net zero means for Australia](https://content.api.news/v3/images/bin/59a75ab132a435f25ba1320e99cd24d3 "What net zero means for Australia")
+
+
+[What net zero means for Australia](https://www.dailytelegraph.com.au/technology/environment/net-zero-what-does-it-really-mean-for-australians/news-story/9bc78d075d3a6755663e6785a0d65096)
+
+
+> WATCH NOW: In our Mission Zero 360 Roundtable, a ‘dream team' of experts debate how going net zero will change Australia.Don't miss out on the headlines from Environment. Followed categories will be added to My News.‘Net Zero' may go down as the most overused phrase of 2021, but what does it actually mean for Australia, and how on earth do we reach such an ambitious goal?News Corp journalist Joe Hildebrand will today lead a panel discussion on the net zero question, bringing together a dream team of scientists, entrepreneurs and policy makers who will share their candid thoughts and ideas on how Australia can transition to a clean energy future.
+
+
+***
+![Impressive 55% off wireless earbuds](https://content.api.news/v3/images/bin/d3fa46ff8c8cd2fbac7d00dbf323319e "Impressive 55% off wireless earbuds")
+
+
+[Impressive 55% off wireless earbuds](https://www.news.com.au/best-of/electronics/gadgets/best-wireless-earphones/news-story/354ac36764c3e3283cd9b4bba92ced06)
+
+
+> Wireless earbuds are the investment that will make your life so much easier – and one top-rated option offers premium quality at an unbeatable price.Our recommendations are dedicated to helping you find the right product at the right price. We may receive revenue from affiliate and advertising partnerships for sharing this content and when you make a purchase. Learn moreMore often than not, it's the little buys that end up making your life so much easier. Case in point, wireless earphones. The tech-upgrade means you no longer need to be conjoined to your phone in order to listen to your favourite music, audio books and podcasts, freeing up your hands and pockets.
+
+
+***
+![The Boring Company gets approval for Las Vegas public transportation system](https://external-preview.redd.it/0AOmbIMDxyQX1zCXdDYLKCS0h5vROded-O6adxagfYQ.jpg?auto=webp&s=8a58724a4af135363d37e74e8eb4603fa5260113 "The Boring Company gets approval for Las Vegas public transportation system")
+
+
+[The Boring Company gets approval for Las Vegas public transportation system](https://www.reddit.com/r/technology/comments/qcgkbk/the_boring_company_gets_approval_for_las_vegas/)
+
+
+> Safe, efficient public transportation would probably be more cost effective and achieve the same goal, but tunnels are cool too I guess.
+
+
