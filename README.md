@@ -18208,3 +18208,53 @@
 > Republicans are following the Pied Piper of Mar-a-Lago down a twisted trail of sedition and anti-democratic extremism. That's weakening the party's historically strong bond with U.S. business leaders, who are appalled by former President TrumpDonald TrumpTrump announces new social media network called 'TRUTH Social' Virginia State Police investigating death threat against McAuliffe Meadows hires former deputy AG to represent him in Jan. 6 probe: report MORE's delusional bid to void the 2020 election, as well as a concerted push by red state officials to make it harder to vote, get a legal abortion or protect school children from unvaccinated adults.
 
 
+***
+![Keep your PS5's connection strong with these Ethernet cables](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/11/ps5-logo-and-dualsense.jpg "Keep your PS5's connection strong with these Ethernet cables")
+
+
+[Keep your PS5's connection strong with these Ethernet cables](https://www.androidcentral.com/best-ethernet-cables-ps5)
+
+
+> Best Ethernet cables for PS5 Android Central 2021 If you want to have the best experience playing online multiplayer on PS5, you may want to consider forgoing the Wi-Fi setup. Instead, staying wired with one of the best Ethernet cables will ensure that your PS5 has the strongest, fastest internet connection possible. We've rounded up the best Ethernet cables for PS5 that'll keep your online gaming uninterrupted. Staff Pick For the absolute best connection, you'll want the absolute best cable.
+
+
+***
+![The Sony A7 IV is a late contender for mirrorless camera of the year](https://cdn.mos.cms.futurecdn.net/X8LUsjBdBuRbQat6U9eU8P-1200-80.jpg "The Sony A7 IV is a late contender for mirrorless camera of the year")
+
+
+[The Sony A7 IV is a late contender for mirrorless camera of the year](https://www.techradar.com/news/the-sony-a7-iv-is-a-late-contender-for-mirrorless-camera-of-the-year)
+
+
+> The Sony A7 IV is one of the most hotly-anticipated cameras of the past few years – and now the full-frame camera has landed, it's pretty clear to see why. On paper, it's shaping up to be one of the best mirrorless cameras you can buy. (Want to jump straight to our first impressions? Head to our hands-on Sony A7 IV review).The A7 IV is the successor to the Sony A7 III, a camera that arrived in March 2018 and immediately changed our expectations for entry-level full-frame cameras. The bad news is that the A7 IV will be pricier than its predecessor, costing $2,599 / £2,400 / AU$$4,299 (body only) when it becomes available from December (or late November in Australia).
+
+
+***
+![Here's your first official look at Xiaomi's upcoming Redmi Note 11](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/redmi-note-11-teaser.jpg "Here's your first official look at Xiaomi's upcoming Redmi Note 11")
+
+
+[Here's your first official look at Xiaomi's upcoming Redmi Note 11](https://www.androidcentral.com/heres-your-first-official-look-xiaomis-upcoming-redmi-note-11)
+
+
+> Source: Xiaomi Xiaomi has released new teasers for its upcoming Redmi Note 11 series. The teasers give us our first look at the Redmi Note 11 in "Misty Forest." Xiaomi will unveil the Redmi Note 11 series in China on October 28. Earlier this week, Xiaomi announced that the Redmi Note 11 series will debut at an event in China on October 28. The company has now posted a new teaser for the Note 11 on its Weibo page, giving us our first proper look at its design (via GSMArena). As can be seen in the image above, the Redmi Note 11 will have a large camera bump housing a total of three sensors.
+
+
+***
+![YouTube Music to go audio-only for non-premium users](https://images.indianexpress.com/2021/10/YouTube-Music.jpg "YouTube Music to go audio-only for non-premium users")
+
+
+[YouTube Music to go audio-only for non-premium users](https://indianexpress.com/article/technology/tech-news-technology/youtube-music-to-go-audio-only-for-non-premium-users-7583700/)
+
+
+> YouTube Music is soon going audio-only for free users and will no longer play music videos alongside the audio. The platform recently announced via a detailed post that videos on YouTube Music will soon become exclusive to YouTube Premium or YouTube Music Premium subscribers. Free users who aren't subscribed to either of these plans will also miss out on features like on-demand music selection and unlimited skips. YouTube Music will, however, continue to allow free users to access dedicated mood mixes on the platform.
+
+
+***
+![Donald Trump is launching a new social network called Truth Social](https://www.cnet.com/a/img/38GzldPBnpjbrm7Kl4J2xoj_bog=/1200x630/2021/01/07/279f9404-7503-47d8-b8c2-5063c123e04d/trump-5.jpg "Donald Trump is launching a new social network called Truth Social")
+
+
+[Donald Trump is launching a new social network called Truth Social](https://www.cnet.com/tech/services-and-software/donald-trump-is-launching-a-new-social-network-called-truth-social/)
+
+
+> Donald Trump is reportedly returning to social media. Getty Images Former President Donald Trump on Wednesday announced the pending launch of a new social network called Truth Social whose stated goal is to "stand up to the tyranny of Big Tech," according to a press release purported to come from one of his companies. The Trump Media and Technology Group, which made the announcement, said the social network will begin a limited beta launch in November, with a wider rollout expected in the first quarter of 2022.
+
+
