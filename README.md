@@ -17973,3 +17973,50 @@
 > Safe, efficient public transportation would probably be more cost effective and achieve the same goal, but tunnels are cool too I guess.
 
 
+***
+[部份 Windows 11 測試人員已能體驗 Android App，首波 50 款含遊戲、電子書](https://technews.tw/2021/10/21/microsoft-lets-windows-insiders-test-android-apps-on-windows-11/)
+
+
+> Windows 11 用戶可由亞馬遜 Appstore 下載 Android App 在 PC 使用，成為新系 […]
+
+
+***
+![How to customize the exterior of your home in Animal Crossing: New Horizons](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/04/acnh-house-customization-002.jpg "How to customize the exterior of your home in Animal Crossing: New Horizons")
+
+
+[How to customize the exterior of your home in Animal Crossing: New Horizons](https://www.imore.com/animal-crossing-new-horizons-how-customize-exterior-your-house)
+
+
+> Source: iMore Decorating the inside of your house with various furniture items has always been a core part of the Animal Crossing experience, and that hasn't changed in Animal Crossing: New Horizons. However, New Horizons offers plenty of ways to change the way the outside of your house looks, too. Unfortunately, you won't be able to do this instantly because the option won't be available to you. On top of that, the game never explains how to unlock it in the first place. Don't worry, though, because this guide will fully explain everything you need to do in order to customize your home's exterior.
+
+
+***
+![Elon Musk says Google and Facebook are places where talent goes to die](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/rtx8d92v_1200x768-original.png "Elon Musk says Google and Facebook are places where talent goes to die")
+
+
+[Elon Musk says Google and Facebook are places where talent goes to die](https://www.indiatoday.in/technology/news/story/elon-musk-says-google-and-facebook-are-places-where-talent-goes-to-die-1867299-2021-10-21)
+
+
+> Ankita Chakravarti New Delhi, Oct 21, 2021, Updated Oct 21, 2021, 9:29 AM IST Story highlights Elon Musk has yet again taken a dig at big tech companies including Google and Facebook. Musk sparked controversy yet again by calling big tech companies a place where talent dies in his reply to a tweet. Musk had strongly voiced his opinion against Facebook CEO Mark Zuckerberg post the violence that ensued at the US Capitol. Elon Musk has yet again taken a dig at big tech companies including Google and Facebook.
+
+
+***
+!['TRUTH Social': Donald Trump Launching New Social Media App](https://media.breitbart.com/media/2021/07/donald-trump-speech-az-july24-2021-getty-640x335.jpg "'TRUTH Social': Donald Trump Launching New Social Media App")
+
+
+['TRUTH Social': Donald Trump Launching New Social Media App](https://www.breitbart.com/tech/2021/10/20/truth-social-donald-trump-launching-new-social-media-app/)
+
+
+> In response to Facebook, Twitter, and YouTube deplatforming him, former President Donald Trump announced on Wednesday that he will be launching a new social media app. The announcement of the app comes after Trump Media and Technology Group and Digital World Acquisition Group entered into a merger 'to form a new company, chaired by the former president,' reported ABC News, which noted: The company was formed using a special purpose acquisition company, or SPAC, which the Securities and Exchange Commission's website says is a ‘popular vehicle for various transactions, including transitioning a company from a private company to a publicly traded company'.
+
+
+***
+![Bank of England Official Calls for Urgent Crypto Regulation](https://i.gadgets360cdn.com/large/cryptocurrency_mix_stock_pexels_1627728358830.jpg "Bank of England Official Calls for Urgent Crypto Regulation")
+
+
+[Bank of England Official Calls for Urgent Crypto Regulation](https://gadgets.ndtv.com/cryptocurrency/news/cryptocurrency-regulation-financial-crisis-2008-bitcoin-bank-of-england-2582280)
+
+
+> Bitcoin has reached its all-time-high but a Bank of England (BoE) senior official has warned that cryptocurrencies could give rise to a global financial crisis unless tough regulations are introduced. Bank of England Deputy Governor for financial stability Jon Cunliffe speaking at an annual banking and financial conference highlighted the fact that crypto-assets are currently worth $2.3 trillion (roughly Rs. 173.052 lakh crores), which is roughly 200 percent more than what it was at the start of the year.
+
+
