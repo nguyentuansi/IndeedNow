@@ -18258,3 +18258,40 @@
 > Donald Trump is reportedly returning to social media. Getty Images Former President Donald Trump on Wednesday announced the pending launch of a new social network called Truth Social whose stated goal is to "stand up to the tyranny of Big Tech," according to a press release purported to come from one of his companies. The Trump Media and Technology Group, which made the announcement, said the social network will begin a limited beta launch in November, with a wider rollout expected in the first quarter of 2022.
 
 
+***
+![Best cheap Newegg deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/newegg-cyber-monday.jpg "Best cheap Newegg deals for October 2021")
+
+
+[Best cheap Newegg deals for October 2021](https://www.digitaltrends.com/dtdeals/best-newegg-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you need a reliable source of laptop deals, desktop computer deals, and deals for PC components and accessories like GPU deals and desktop monitor deals, you should consider shopping the best Newegg deals. Newegg is a fantastic retailer for getting hard-to-find computer components. With the GPU shortage this year, Black Friday deals are going to come and go really quick, so make sure you're checking Newegg often. Today's best Newegg deals This 3D printer features a 2.
+
+
+***
+![Today in Apple history: PowerBook 100 series is a smash hit](https://cdn.cultofmac.com/wp-content/uploads/2016/10/Powerbook_100.jpg "Today in Apple history: PowerBook 100 series is a smash hit")
+
+
+[Today in Apple history: PowerBook 100 series is a smash hit](https://www.cultofmac.com/450320/today-apple-history-powerbook-100-series-smash-hit/)
+
+
+> The entry-level PowerBook 100 fueled a laptop revolution.Photo: Danamania/Wikipedia CC October 21, 1991: Apple launches its PowerBook 100 series. The lightweight laptops quickly become one of the most important tech gadgets of all time.These devices will almost single-handedly turn notebook computers into a mainstream technology. Apple's subsequent success in this category — whether it's the current MacBooks or even the rise of mobile devices like the iPhone — owes a huge debt to the PowerBook 100 series.
+
+
+***
+[Amazon rolls out Local Selling, an in-store pickup option for items from local businesses in the US (Annie Palmer/CNBC)](http://www.techmeme.com/211021/p28#a211021p28)
+
+
+> Annie Palmer / CNBC: Amazon rolls out Local Selling, an in-store pickup option for items from local businesses in the US — - Amazon said Thursday it will let third-party sellers offer in-store pickup to shoppers who live near the merchant's brick-and-mortar stores. — In-store pickup, or click-and-collect ordering …
+
+
+***
+![Best cheap Microsoft Office deals for October 2021](https://icdn.digitaltrends.com/image/digitaltrends/office-365-free-eduction-0001.jpg "Best cheap Microsoft Office deals for October 2021")
+
+
+[Best cheap Microsoft Office deals for October 2021](https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/)
+
+
+> Word, PowerPoint, Excel — chances are that you've used at least one of these at some point, and that's not for no reason. The Microsoft Office suite is an indispensable toolkit for students and professionals around the globe, being as dominant in the productivity software market as the Windows OS is in the operating system space. Black Friday deals have already started, making October a fantastic month to upgrade your office software. To help you find the right suite of programs at the right price, we've gathered up all the best Microsoft Office deals and lowest prices available this month, followed by a short buying guide.
+
+
