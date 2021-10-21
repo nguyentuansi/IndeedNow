@@ -17882,3 +17882,50 @@
 > Tech giant Google has quietly updated its algorithms recently 'to promote greater skin-tone diversity' in image searches. Bloomberg reports that Google recently updated its search algorithms in an effort to display more racially diverse image search results. The change was implemented without any formal announcement and aims to result in image searches that display a variety of skin tones when users search for certain terms related to beauty. Sundar Pichai, senior vice president of Chrome, speaks at Google's annual developer conference, Google I/O, in San Francisco on 28 June 2012 ( KIMIHIRO HOSHINO/AFP/GettyImages ) Under the new algorithm, when users search for queries such as 'beautiful skin,' and 'professional hairstyles,' as well as other simpler queries like 'woman,' or 'happy family,' the search giant will return more racially diverse results.
 
 
+***
+![One UI 4 beta 3 starts rolling out with new weather app, removed ads, improved animations](https://fdn.gsmarena.com/imgroot/news/21/10/one-ui-4-beta-3/-952x498w6/gsmarena_001.jpg "One UI 4 beta 3 starts rolling out with new weather app, removed ads, improved animations")
+
+
+[One UI 4 beta 3 starts rolling out with new weather app, removed ads, improved animations](https://www.gsmarena.com/one_ui_4_beta_3_starts_rolling_out_with_new_weather_app_removed_ads_improved_animations-news-51522.php)
+
+
+> Today Samsung started rolling out the third beta build of its upcoming One UI 4 Android skin in South Korea, its home market. This new build comes with a complete removal of ads from the UI, including in built-in apps, as well as further improved animations and a brand new Weather app. This is the completely redesigned, new Weather app in One UI 4 Beta 3rd version.The advertisements are completely gone, and the new animations are amazing. pic.twitter.com/L9Pc6d8TOo— Tron ❂ (@FrontTron) October 20, 2021 Additionally, there are a bunch of bug fixes thrown in for good measure, including one for the UI being force closed.
+
+
+***
+[Microsoft is beta testing Android apps on Windows 11](https://mobilesyrup.com/2021/10/20/microsoft-is-beta-testing-android-apps-on-windows-11/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-is-beta-testing-android-apps-on-windows-11)
+
+
+> A new preview build of Windows 11 currently making its way to beta testers finally allows users to try out Android apps in Windows 11. If you’re running the latest Windows 11 beta software, you can download apps from the new Microsoft Store app. However, these apps are actually sourced from Amazon’s App Store. Android […]
+
+
+***
+![[Video] Man trespassing into someone's house and threatening Jindo dog with a shovel](https://img.sbs.co.kr/newimg/news/20211021/201602231_1280.jpg "[Video] Man trespassing into someone's house and threatening Jindo dog with a shovel")
+
+
+[[Video] Man trespassing into someone's house and threatening Jindo dog with a shovel](https://www.tellerreport.com/tech/2021-10-21-[video]-man-trespassing-into-someone-s-house-and-threatening-jindo-dog-with-a-shovel.H1rZC1EArY.html)
+
+
+> A man who broke into someone else's yard was caught chasing his dog with a shovel. A white Jindo runs away as if being chased by something. Behind him is a man holding a shovel and chasing him at high speed. A man who broke into someone else's yard was caught chasing his dog with a shovel.A white Jindo runs away as if being chased by something.Behind him is a man holding a shovel and chasing him at high speed.On the 19th, a middle-aged man trespassed into the yard of a house in Changnyeong, Gyeongnam, and threatened another Jindo dog.
+
+
+***
+![Expired curry · gray egg… Military base again 'bad food'](https://img.sbs.co.kr/newimg/news/20211021/201602232_1280.jpg "Expired curry · gray egg… Military base again 'bad food'")
+
+
+[Expired curry · gray egg… Military base again 'bad food'](https://www.tellerreport.com/tech/2021-10-21-expired-curry-·-gray-egg…-military-base-again--bad-food-.rkFp3JVRHF.html)
+
+
+> The problem of poor food service in the military, we have been told several times, but another revelation came out that one army unit used expired food materials. The expiration date is stamped on the curry sauce product until July 10, 2021. The problem of poor food service in the military, we have been told several times, but another revelation came out that one army unit used expired food materials. The expiration date is stamped on the curry sauce product until July 10, 2021. Boiled eggs have a cracked shell and have some grayish tint.
+
+
+***
+![The spacecraft "Progress MS-17" undocked from the ISS](https://russian.rt.com/static/blocks/og-img/pl-17.jpg "The spacecraft "Progress MS-17" undocked from the ISS")
+
+
+[The spacecraft "Progress MS-17" undocked from the ISS](https://www.tellerreport.com/tech/2021-10-21-the-spacecraft-"progress-ms-17"-undocked-from-the-iss.HkP2kV0St.html)
+
+
+> Tech/Game 2021-10-20T08:57:49.307Z Parent company Facebook may get a new name next week Tech/Game 2021-10-20T05:09:35.831Z Facebook is experimenting with its own digital wallet Novi Tech/Game 2021-10-20T22:16:44.677Z The first Korean launch vehicle 'Nuriho' was launched today... Ready? Tech/Game 2021-10-20T10:40:07.853Z Vaccinated people without a citizen service number can now get a corona pass Tech/Game 2021-10-20T05:15:19.740Z [Breaking News] KCTU gathers in surprise near Seodaemun Station... clash with some police Tech/Game 2021-10-20T08:45:21.
+
+
