@@ -18295,3 +18295,50 @@
 > Word, PowerPoint, Excel — chances are that you've used at least one of these at some point, and that's not for no reason. The Microsoft Office suite is an indispensable toolkit for students and professionals around the globe, being as dominant in the productivity software market as the Windows OS is in the operating system space. Black Friday deals have already started, making October a fantastic month to upgrade your office software. To help you find the right suite of programs at the right price, we've gathered up all the best Microsoft Office deals and lowest prices available this month, followed by a short buying guide.
 
 
+***
+![Razer's high-tech face mask is now on sale, plus you can win a Halo Infinite-themed AMD 6900 XT GPU](https://cdn.mos.cms.futurecdn.net/qyEDbQdVvg3nn2EgpMHKra-1200-80.jpg "Razer's high-tech face mask is now on sale, plus you can win a Halo Infinite-themed AMD 6900 XT GPU")
+
+
+[Razer's high-tech face mask is now on sale, plus you can win a Halo Infinite-themed AMD 6900 XT GPU](https://www.techradar.com/news/razers-high-tech-face-mask-is-now-on-sale-plus-you-can-win-a-halo-infinite-themed-amd-6900-xt-gpu)
+
+
+> RazerCon 2021 has just happened, and with it Razer unleashed a slew of new products, including the launch of the Razer Zephyr face mask, and a Halo Infinite-themed AMD Radeon RX 6900 XT graphics card.To kick off with, Razer announced that its Zephyr, a wearable air purifier – to be precise, a fancy face mask with N95 grade filters and much more besides – is now available to order (you may have seen this previously, as Razer first unveiled it back at CES at the start of the year, and the wearable was beta-tested in August).
+
+
+***
+![China is finally loosening some rules on VPN services](https://cdn.mos.cms.futurecdn.net/NtQgopRbkgZAyZ973AhjoP-1200-80.jpg "China is finally loosening some rules on VPN services")
+
+
+[China is finally loosening some rules on VPN services](https://www.techradar.com/news/china-is-finally-loosening-some-rules-on-vpn-services)
+
+
+> (Image credit: Shutterstock) Following numerous attempts to crackdown on VPN services over the years, the Chinese government has reversed course and will now allow foreign entities to invest in domestic VPN companies.Due to the Great Firewall which restricts Chinese internet users from accessing a number of sites and services online, there has always been high demand for VPNs that work in China among both consumers and businesses. While consumers often turn to VPNs to bypass the country's internet restrictions, businesses rely on them to promote their products to the global market using Twitter and other social media networks that have been banned in China.
+
+
+***
+![Microsoft locks .NET hot reload capabilities behind Visual Studio 2022](https://external-preview.redd.it/D2zZvrzjICSqXgaAUMTb6B5ayknzUqtBSN6VTJC_tLw.jpg?auto=webp&s=2874d06d7022ddad24f58115b2c7081c9567fc5a "Microsoft locks .NET hot reload capabilities behind Visual Studio 2022")
+
+
+[Microsoft locks .NET hot reload capabilities behind Visual Studio 2022](https://www.reddit.com/r/programming/comments/qcxkhw/microsoft_locks_net_hot_reload_capabilities/)
+
+
+> Here's the PR that removes dotnet watch command, by the by. The only PR on the repo that has its comments locked to collaborators.
+
+
+***
+[The mistake every new game developer makes](https://www.reddit.com/r/programming/comments/qcxkdt/the_mistake_every_new_game_developer_makes/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Razer and Gamesir offer excellent mobile controllers with the Kishi and X2](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/razer-kishi-hero-3.jpg "Razer and Gamesir offer excellent mobile controllers with the Kishi and X2")
+
+
+[Razer and Gamesir offer excellent mobile controllers with the Kishi and X2](https://www.androidcentral.com/razer-kishi-vs-gamesir-x2-bluetooth-mobile-controller)
+
+
+> Razer prides itself on high-quality products, and the Razer Kishi is no different. It's by far one of the best mobile gaming controllers you can buy, turning your phone into a Nintendo Switch. It works perfectly with Xbox Game Pass for Android and provides hours of comfort for long gaming sessions. Its USB-C connection also means you'll never need to charge it. $80 at Amazon USB-C connection Build quality is excellent Works perfectly with Android phones Smaller for easier travel Pricey No Bluetooth means it fits less phones Gamesir may not be as well-known as Razer, but its X2 Bluetooth mobile controller can stand toe-to-toe with the competition.
+
+
