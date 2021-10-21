@@ -18117,3 +18117,47 @@
 > We've created a series of posts about software design patterns where we explain what each of them is and how they should be used. This is the first one about the factory method pattern:https://www.linkedin.com/pulse/software-design-patterns-series-1-factory-method-evlabs/?trackingId=tX90I4ER3Dhn1bGb%2FWdLFA%3D%3DOr, in our blog:https://blog.evlabs.io/2021/09/22/software-design-pattern-1-factory-method-2/
 
 
+***
+![Amazon is now a bigger shipper in the U.S. than FedEx](https://images.axios.com/adPMQKS8z6wXhDbLtbh7EdO1K2k=/0x0:1280x720/1366x768/2021/10/20/1634762095961.png "Amazon is now a bigger shipper in the U.S. than FedEx")
+
+
+[Amazon is now a bigger shipper in the U.S. than FedEx](https://www.axios.com/amazon-shipping-bigger-than-fedex-3dc5d80d-e16a-4531-9f45-1898a6261a78.html)
+
+
+> Amazon is not primarily known as a logistics company, but in 2020 the company shipped more parcels than FedEx.Why it matters: Logistics is a $1.5 trillion business — and it has long been controlled by a handful of key players, like FedEx, UPS and the U.S. Postal Service. Now Amazon is poised to conquer it.What's happening: Amazon has 21% of the U.S. shipping market — right behind UPS (24%) and ahead of FedEx (16%). The USPS remains dominant with 38%, and all other shippers account for just 1% of the market, according to Pitney Bowes, which tracks the global shipping and e-commerce industry.
+
+
+***
+[Over 2,000 hourly Amazon workers at its Staten Island facilities sign union cards and plan to file with the NLRB by October 25; Amazon opposes the move (Wall Street Journal)](http://www.techmeme.com/211021/p7#a211021p7)
+
+
+> Wall Street Journal: Over 2,000 hourly Amazon workers at its Staten Island facilities sign union cards and plan to file with the NLRB by October 25; Amazon opposes the move — An effort said to involve more than 2,000 workers across four Amazon facilities in Staten Island faces obstacles
+
+
+***
+![QuickTake on iPhone: What the iOS 15 feature can do and how to use it](https://www.cnet.com/a/img/s_e0781qe5iq7_VfyMwDYjQ73Yo=/1200x630/2021/09/22/1dbeac3e-3b02-412f-93a7-e97112ba364d/iphone-13-pro-max-cnet-2021-review-31.jpg "QuickTake on iPhone: What the iOS 15 feature can do and how to use it")
+
+
+[QuickTake on iPhone: What the iOS 15 feature can do and how to use it](https://www.cnet.com/tech/mobile/quicktake-on-iphone-what-the-ios-15-feature-can-do-and-how-to-use-it/)
+
+
+> QuickTake on the iPhone now has a cool zoom feature in iOS 15. Patrick Holland/CNET When Apple released iOS 15 in September, Apple polished the QuickTake feature along with its panorama capture features and UPI QR code scanning. With iOS 15, you can now swipe up or down to change the zoom on your video while using QuickTake. The new QuickTake zoom feature is only available on the iPhone XS, iPhone XR and newer models, according to Apple.  Apple introduced QuickTake Video for iPhones after launching iOS 13.
+
+
+***
+![Sage Bambino](https://cdn.mos.cms.futurecdn.net/xPV4fUmDJZAtvCPkzspC8h-1200-80.jpg "Sage Bambino")
+
+
+[Sage Bambino](https://www.techradar.com/reviews/sage-bambino)
+
+
+> Compared to some kitchen appliance brands, Sage is a relative newcomer, launching in the UK in 2010. However, in just over a decade, Sage has made a name for itself when it comes to the manufacture of stylish, well-built appliances that make food preparation and creating delicious meals a breeze. The latest release from Sage, which is known as Breville in the US and Australia, is the Bambino. This compact, stylish espresso machine with steam wand is simple to use, allowing you to brew a single or double cup of espresso as well as texturize milk.
+
+
+***
+[Redmi Note 11, Note 11 Pro to Launch on 28 October: Check Expected Price, Specs](https://www.thequint.com/tech-and-auto/redmi-note-11-note-11-pro-series-to-launch-on-28-october-expected-price-specifications)
+
+
+> Redmi Note 11 series launch event is scheduled to begin at at 7 pm China Standard Time Asia (4:30 pm IST).
+
+
