@@ -18067,3 +18067,53 @@
 > BASINGSTOKE, England--(BUSINESS WIRE)--Juniper Research is pleased to announce that the 2022 Telco Innovation Future Digital Awards are open! Since 2008, the Future Digital Awards have been awarded to tech companies at the forefront of their respective fields: companies that deliver imaginative and innovative products or services that have the potential to disrupt their ecosystems and provide significant benefits to their target audience. These awards aim to reward the most innovative vendors and solutions in the fast-paced mobile communications market; following a year of unparalleled innovation.
 
 
+***
+![#TECH: Google's role in boosting Malaysia's digital economy](https://assets.nst.com.my/images/articles/BOTSgrowgoogle_NSTfield_image_socialmedia.var_1634802417.jpg "#TECH: Google's role in boosting Malaysia's digital economy")
+
+
+[#TECH: Google's role in boosting Malaysia's digital economy](https://www.nst.com.my/lifestyle/bots/2021/10/738538/tech-googles-role-boosting-malaysias-digital-economy)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Twitter acquires group chat app Sphere, could beef up in-app chat features](https://images.indianexpress.com/2021/10/Twitter.jpg "Twitter acquires group chat app Sphere, could beef up in-app chat features")
+
+
+[Twitter acquires group chat app Sphere, could beef up in-app chat features](https://indianexpress.com/article/technology/social/twitter-acquires-group-chat-app-sphere-could-beef-up-in-app-chat-features-7583130/)
+
+
+> Twitter has acquired London-based group chat application Sphere. The acquisition is the latest move by Twitter to broaden its product offerings to users. As per a report by TechCrunch, the app could use the acquisition to improve its personal and group messaging capabilities. 'Much like others, we've been watching and admiring Twitter's growing investment in community-building with the release of Communities, Spaces, and features that promote safety,' Sphere said in a blog post. 'When we met the team, we were even more impressed by how seriously they are pursuing interest-based community and how much they believe in its potential impact.
+
+
+***
+![Xiaomi 11 Lite NE 5G is selling at Rs 21,999, is it worth buying?](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/xne7_0-original.jpeg "Xiaomi 11 Lite NE 5G is selling at Rs 21,999, is it worth buying?")
+
+
+[Xiaomi 11 Lite NE 5G is selling at Rs 21,999, is it worth buying?](https://www.indiatoday.in/technology/news/story/xiaomi-11-lite-ne-5g-is-selling-at-rs-21-999-is-it-worth-buying-1867414-2021-10-21)
+
+
+> Story highlights Xiaomi 11 Lite NE 5G can be bought for Rs 21,999 from Xiaomi's official website. The smartphone has one of the best displays in this price category. Those who want performance and big battery can skip it though. Xiaomi 11 Lite NE 5G was launched in India late last month. The smartphone comes as a successor to the Mi 11 Lite and, as the name suggests, brings 5G support. The Xiaomi 11 Lite 5G NE price starts at Rs 26,999 for the base 6GB RAM and 128GB storage variant while the 8GB RAM and 128GB storage model costs Rs 28,999.
+
+
+***
+![What is Mini LED? The TV display tech explained](https://cdn.mos.cms.futurecdn.net/8wsBY3Dwe23B8YVXBnuVbk-1200-80.jpg "What is Mini LED? The TV display tech explained")
+
+
+[What is Mini LED? The TV display tech explained](https://www.techradar.com/news/mini-led-tv)
+
+
+> Mini LED is a term that describes the screen tech inside many of the best TVs of 2021. But it's also increasingly cropping up in other devices, too, like Apple's new MacBook Pro 14-inch (2021). So what is Mini LED? And, importantly, is it something you need to make sure you have in your next TV and laptop purchase? You'll mostly find Mini LED tech in TV displays. These days, more major TV makers, including TCL, Philips, LG and Samsung all either have Mini LED TVs already available to buy or they're building new models with this new backlight tech inside right now.
+
+
+***
+![Design patterns articles (3 min read each).](https://external-preview.redd.it/HkXP0yP-sXTCUeqOko_DzCRJrWvIQwZ2xAS69pfIEqg.jpg?auto=webp&s=b7ad6784a3e67651a1985d561a828ac4e22e6625 "Design patterns articles (3 min read each).")
+
+
+[Design patterns articles (3 min read each).](https://www.reddit.com/r/Python/comments/qcmd7f/design_patterns_articles_3_min_read_each/)
+
+
+> We've created a series of posts about software design patterns where we explain what each of them is and how they should be used. This is the first one about the factory method pattern:https://www.linkedin.com/pulse/software-design-patterns-series-1-factory-method-evlabs/?trackingId=tX90I4ER3Dhn1bGb%2FWdLFA%3D%3DOr, in our blog:https://blog.evlabs.io/2021/09/22/software-design-pattern-1-factory-method-2/
+
+
