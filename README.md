@@ -18392,3 +18392,50 @@
 > What is GeForce NOW? To put it simply, it's NVIDIA's cloud gaming platform. You use it to stream games to other devices using NVIDIA's hardware. Letting you play games with high graphics settings without needing a high-end PC.If you're looking to learn more about NVIDIA GeForce NOW, this guide breaks it all down and attempts to answer any questions you may have. This is an ongoing piece of content and will be updated accordingly when there are changes to the service.What is NVIDIA GeForce NOW and when is it available?As noted above GeForce NOW is NVIDIA's answer to a cloud gaming platform.
 
 
+***
+[Node 17 currently breaks most webpack configurations due to OpenSSL 3.0, workarounds in comments](https://www.reddit.com/r/programming/comments/qd2h3v/node_17_currently_breaks_most_webpack/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Google Play cuts subscription fee from 30% to 15% starting Jan 1, 2022](https://bsmedia.business-standard.com/_media/bs/img/article/2017-08/02/full/1501613619-6026.jpg "Google Play cuts subscription fee from 30% to 15% starting Jan 1, 2022")
+
+
+[Google Play cuts subscription fee from 30% to 15% starting Jan 1, 2022](https://www.business-standard.com/article/technology/google-play-cuts-subscription-fee-from-30-to-15-starting-jan-1-2022-121102101690_1.html)
+
+
+> Google said today that starting on January 1, 2022, it will be decreasing the service fee for all subscriptions on Google Play to 15 per cent from 30 per cent, and for developers offering subscriptions, this means that first-year subscription fees will be cut in half. "Digital subscriptions have become one of the fastest growing models for developers but we know that subscription businesses face specific challenges in customer acquisition and retention. We've worked with our partners in dating, fitness, education and other sectors to understand the nuances of their businesses.
+
+
+***
+![I deleted TikTok and requested a file with all my data. Here's how to do it and what I found](https://www.gannett-cdn.com/presto/2021/09/26/USAT/ba230335-3c20-48dc-9098-ec9474107045-AP_TikTok_Consumers_Rights.jpg?crop=2782,1565,x0,y98&width=2782&height=1565&format=pjpg&auto=webp "I deleted TikTok and requested a file with all my data. Here's how to do it and what I found")
+
+
+[I deleted TikTok and requested a file with all my data. Here's how to do it and what I found](https://www.usatoday.com/story/tech/2021/10/21/how-delete-tiktok-off-your-phone/8504240002/)
+
+
+> There are viral dances. There are life hacks. There are adorable animals. But also, maybe you don't need to watch FYP videos until 2 a.m.Maybe it's time to delete the TikTok app.TikTok recently reached the one billion user mark, putting it on track to become the next Instagram. The app, owned by Chinese company ByteDance, has also seen its share of controversy. It recently came under criticism for its effect on teenage girl body image. It's also been the subject of concerning school challenges, including one encouraging students to "smack a staff member.
+
+
+***
+![Maingear Launches R1 Razer Edition Gaming Desktops](https://icdn.digitaltrends.com/image/digitaltrends/razer-r1-maingear-1.jpg "Maingear Launches R1 Razer Edition Gaming Desktops")
+
+
+[Maingear Launches R1 Razer Edition Gaming Desktops](https://www.digitaltrends.com/computing/razer-maingear-r1-edition-desktop-pc-for-gaming/)
+
+
+> Razer just announced the release of the new Maingear R1 Razer Edition desktop computer. Designed for gaming, the PC is going to be available in four prebuilt configurations, as well as a customizable model that lets the user choose their own specs. Fully decked out with the latest components, these PCs contain many sought-after pieces of hardware such as the latest Nvidia RTX 30-Series graphics cards. This line of computers is a collaboration between Razer and Maingear, a popular PC-building brand.
+
+
+***
+![Tech titan Nathan Myhrvold and lifestyle guru Martha Stewart dish about pizza](https://cdn.geekwire.com/wp-content/uploads/2021/10/211021-stewart-myhrvold.jpg "Tech titan Nathan Myhrvold and lifestyle guru Martha Stewart dish about pizza")
+
+
+[Tech titan Nathan Myhrvold and lifestyle guru Martha Stewart dish about pizza](https://www.geekwire.com/2021/tech-titan-nathan-myhrvold-lifestyle-guru-martha-stewart-dish-pizza/)
+
+
+> Trending: Average tech salaries in Seattle rise 4.6% to $158K, second-highest in U.S. by Alan Boyle on October 21, 2021 at 2:41 pm Martha Stewart and Nathan Myhrvold share a split screen during a chat to discuss 'Modernist Pizza.' (Modernist Cuisine via Crowdcast) When it comes to pizza, is there really anything new under the sun-dried tomatoes? Well, how about an all-black pizza, made with squid ink and black mozzarella? Or saffron pizza? Or a cheddar-apple-bacon pizza made with 'Frankencheese'? Nathan Myhrvold, the techie/foodie who served as Microsoft's first chief technology officer and founded Intellectual Ventures, laid out that menu today during an online chat with lifestyle guru Martha Stewart that focused on Myhrvold's latest magnum opus, 'Modernist Pizza.
+
+
