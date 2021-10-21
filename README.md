@@ -18161,3 +18161,50 @@
 > Redmi Note 11 series launch event is scheduled to begin at at 7 pm China Standard Time Asia (4:30 pm IST).
 
 
+***
+![Locally-developed rocket fails to place dummy satellite into orbit](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/6c44ec173ca54d22a539b973a90098b0.jpg "Locally-developed rocket fails to place dummy satellite into orbit")
+
+
+[Locally-developed rocket fails to place dummy satellite into orbit](https://www.koreatimes.co.kr/www/tech/2021/10/133_317428.html)
+
+
+> President says country hopes to succeed in 2nd trial in MayBy Baek Byung-yeul, Joint Press CorpsThe Naro space rocket is lifted at the Naro Space Center in Goheung, South Jeolla Province, Thursday. Joint Press CorpsSouth Korea achieved a "half success" with its Nuri space launch vehicle, Thursday, as the country's first locally-developed rocket successfully lifted off but failed to place a dummy satellite into orbit. While the intended outcome was not realized, the government and experts said the test launch has helped the country secure core engine technologies that will pave the way for the country to take a step closer to joining the league of global space powerhouses.
+
+
+***
+![Chronology of major events leading to S. Korea's Nuri space rocket launch](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/364970d4ed7e40478168ba0ea2a50dfb.jpg "Chronology of major events leading to S. Korea's Nuri space rocket launch")
+
+
+[Chronology of major events leading to S. Korea's Nuri space rocket launch](https://www.koreatimes.co.kr/www/tech/2021/10/133_317427.html)
+
+
+> South Korea's first homegrown space launch vehicle, known as Nuri, is loaded with fuel and oxidizer at the launch pad of the Naro Space Center in Goheung, South Jeolla Province, 473 kilometers south of Seoul, Thursday, before its liftoff at 5:00 p.m. YonhapThe following is a chronology of major events leading to the development of South Korea's homegrown space rocket Nuri, or Korea Space Launch Vehicle-II (KSLV-II), which was launched from the Naro Space Center in the country's southern coastal village of Goheung.
+
+
+***
+![The Roku-YouTube-YouTube TV impasse isn't over yet](https://icdn.digitaltrends.com/image/digitaltrends/roku-youtube-tv.jpg "The Roku-YouTube-YouTube TV impasse isn't over yet")
+
+
+[The Roku-YouTube-YouTube TV impasse isn't over yet](https://www.digitaltrends.com/home-theater/roku-updates-youtube-tv-dispute/)
+
+
+> It's been several months since Roku and YouTube TV reached a cease fire in their dispute over … well, over a few things. But it now looks like the war is heating back up. To recap, Roku in April 2021 first announced that negotiations that would extend YouTube TV's availability on the Roku platform had broken down. In doing so, it said that 'Roku cannot accept Google's unfair terms as we believe they could harm our users.' Exactly what those disputed terms are has been a little ambiguous. Roku has said it has to do with search results.
+
+
+***
+[TeamOut (YC W22) Is Hiring](https://news.ycombinator.com/item?id=28943172)
+
+
+> Hacker News new | past | comments | ask | show | jobs | submit login TeamOut (YC W22) Is Hiring 6 minutes ago | hide Hey HN, We're TeamOut, the Airbnb for team offsite. We raised a 1M round from top investors, including YC, and we generated half a million in GMV within five months of starting up. Sales are becoming predictable, so we're looking for someone who can come in and build the sales engine to send that rocket to Mars. In all honesty, we're really excited about this job. This is a critical role for the company, and we will do everything we can to make this person successful.
+
+
+***
+![Remember, Democrats: Business isn't the enemy](https://thehill.com/sites/default/files/article_images/big_tech_low_res.jpg "Remember, Democrats: Business isn't the enemy")
+
+
+[Remember, Democrats: Business isn't the enemy](https://thehill.com/opinion/technology/577707-remember-democrats-business-isnt-the-enemy)
+
+
+> Republicans are following the Pied Piper of Mar-a-Lago down a twisted trail of sedition and anti-democratic extremism. That's weakening the party's historically strong bond with U.S. business leaders, who are appalled by former President TrumpDonald TrumpTrump announces new social media network called 'TRUTH Social' Virginia State Police investigating death threat against McAuliffe Meadows hires former deputy AG to represent him in Jan. 6 probe: report MORE's delusional bid to void the 2020 election, as well as a concerted push by red state officials to make it harder to vote, get a legal abortion or protect school children from unvaccinated adults.
+
+
