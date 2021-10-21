@@ -18020,3 +18020,50 @@
 > Bitcoin has reached its all-time-high but a Bank of England (BoE) senior official has warned that cryptocurrencies could give rise to a global financial crisis unless tough regulations are introduced. Bank of England Deputy Governor for financial stability Jon Cunliffe speaking at an annual banking and financial conference highlighted the fact that crypto-assets are currently worth $2.3 trillion (roughly Rs. 173.052 lakh crores), which is roughly 200 percent more than what it was at the start of the year.
 
 
+***
+[Samsung Galaxy October event highlights: Special Edition of Galaxy Z Flip 3, Watch 4 and Buds 2 launched](https://www.zeebiz.com/technology/mobiles/news-samsung-galaxy-october-event-highlights-special-edition-of-galaxy-z-flip-3-watch-4-and-buds-2-launched-168374)
+
+
+> The Galaxy Watch 4 Maison Kitsune Edition and Galaxy Buds 2 Maison Kitsune Edition can be ordered starting October 20.
+
+
+***
+![Technical colleges needed to bridge gap in Nigeria's education system — Omokungbe](https://cdn.vanguardngr.com/wp-content/uploads/2021/10/PICS-1A.jpg "Technical colleges needed to bridge gap in Nigeria's education system — Omokungbe")
+
+
+[Technical colleges needed to bridge gap in Nigeria's education system — Omokungbe](https://www.vanguardngr.com/2021/10/technical-colleges-needed-to-bridge-gap-in-nigerias-education-system-omokungbe/)
+
+
+> Yabatech Rector, Engr. Obafemi Omokungbe,Rector, Yaba College of Technology, YABATECH, Engineer Obafemi Omokungbe, in this interview, speaks on technical and vocational education and how to make it attractive to young Nigerians, the advantages therein, and his achievements in office among others.By Adesina WahabYou have been in office since March 2018, what new things have been added? What has changed?I know you are not new to the College and you also knew what was happening before we came in. Is it the decay in infrastructure or the general low morale of staff and students? When we came into office, we came with a vision and mission and devised how to tackle the rot.
+
+
+***
+![#TECH: Google debuts new Pixel, latest try in smartphone fight](https://assets.nst.com.my/images/articles/BOTSpixel6_NSTfield_image_socialmedia.var_1634796023.jpg "#TECH: Google debuts new Pixel, latest try in smartphone fight")
+
+
+[#TECH: Google debuts new Pixel, latest try in smartphone fight](https://www.nst.com.my/lifestyle/bots/2021/10/738488/tech-google-debuts-new-pixel-latest-try-smartphone-fight)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Why this car could be the answer](https://content.api.news/v3/images/bin/9d0ea981516b783dbe66daf7a53d0955 "Why this car could be the answer")
+
+
+[Why this car could be the answer](https://www.news.com.au/technology/motoring/motoring-news/driven-mitsubishis-eclipse-cross-hybrid/news-story/2e02f5405d7fc2c3c76460c0ad62ba4f)
+
+
+> Frustrated by limited charging infrastructure and less-than-ideal range for electric cars? This technology blends the best of both worlds.Don't miss out on the headlines from Motoring News. Followed categories will be added to My News.There's no range anxietyMitsubishi's plug-in hybrid combines a 2.4-litre petrol engine making 94kW and 199Nm with a pair of electric motors making 60kW and 70kW, powered by a small 13.8kWh battery. It can be driven on pure electric power for up to 55km and when the battery is drained, the car switches to petrol power.
+
+
+***
+![Juniper Research: Future Digital Awards for Telco Innovation 2022 – Now Open](https://mms.businesswire.com/media/20211020005940/en/609744/23/JR_Logo_Final_RGB_300px.jpg "Juniper Research: Future Digital Awards for Telco Innovation 2022 – Now Open")
+
+
+[Juniper Research: Future Digital Awards for Telco Innovation 2022 – Now Open](https://www.businesswire.com/news/home/20211020005940/en/Juniper-Research-Future-Digital-Awards-for-Telco-Innovation-2022-%E2%80%93-Now-Open)
+
+
+> BASINGSTOKE, England--(BUSINESS WIRE)--Juniper Research is pleased to announce that the 2022 Telco Innovation Future Digital Awards are open! Since 2008, the Future Digital Awards have been awarded to tech companies at the forefront of their respective fields: companies that deliver imaginative and innovative products or services that have the potential to disrupt their ecosystems and provide significant benefits to their target audience. These awards aim to reward the most innovative vendors and solutions in the fast-paced mobile communications market; following a year of unparalleled innovation.
+
+
