@@ -18849,3 +18849,50 @@
 > OPINION: Go to apple.com, and the first thing you'll see on the website isn't the game-changing and ridiculously powerful new MacBook Pros that launched earlier in the week. Instead, you'll see an iPhone 13 staring back at you. This tells you a lot about how important Apple – a company that's really good at selling things – thinks its new 14-inch and 16-inch MacBook Pros are to the average user. The completely re-imagined 14- and 16-inch MacBook Pro is powered by the all-new M1 Pro and M1 Max chips.
 
 
+***
+![Intel now says the chip shortage may not ease up until at least 2023](https://icdn.digitaltrends.com/image/digitaltrends/11th-gen-intel-core-desktop-processors-code-named-rocket-lake.jpg "Intel now says the chip shortage may not ease up until at least 2023")
+
+
+[Intel now says the chip shortage may not ease up until at least 2023](https://www.digitaltrends.com/computing/intel-now-says-chip-shortage-last-until-at-least-2023/)
+
+
+> The PC and laptop market is still in the midst of the ongoing chip shortage. While getting a reasonably priced graphics card, processor, desktop, or laptop has never been harder than it is now, many are hoping that the tides will change and the situation will improve. Unfortunately, according to Intel CEO Pat Gelsinger, the shortage may last until 2023 at the very least. Gelsinger spoke to CNBC ahead of announcing Intel's third-quarter earnings for this year. The company revealed that its revenue for the Client Computing Group is down by 2% year-over-year, dropping to $9.
+
+
+***
+![YouTube is about to pull its apps from Roku](https://image.cnbcfm.com/api/v1/image/106964514-1634909903724-gettyimages-1232708511-ROKU_EARNS.jpeg?v=1634909945 "YouTube is about to pull its apps from Roku")
+
+
+[YouTube is about to pull its apps from Roku](https://www.cnbc.com/2021/10/22/google-to-remove-youtube-apps-from-roku.html)
+
+
+> A Roku Inc. remote in an arranged photograph in Hastings-on-Hudson, New York, U.S., on Sunday, May 2, 2021.Tiffany Hagler-Grear | Bloomberg | Getty ImagesYouTube is leaving Roku. And now the fight between the two companies has caught the attention of members of Congress attempting to push their Big Tech antitrust legislation.After a months-long fight between Roku and YouTube's parent company Google, Google announced Thursday that it would no longer allow Roku customers to download the YouTube or YouTube TV apps to their devices starting Dec.
+
+
+***
+[Study says tech firms underreport their carbon footprint](https://www.mymotherlode.com/news/technology/2056609/study-says-tech-firms-underreport-their-carbon-footprint.html)
+
+
+> BERLIN (AP) — Large technology companies such as SAP, IBM and Google are underreporting their greenhouse gas emissions at a time of heightened scrutiny over the role of corporations in driving climate change, a study released Friday claimed. Research published in the journal Nature Communications found inconsistencies in the way companies declare their carbon footprint, a measure that is increasingly considered important for investors. The study, conducted by researchers at the Technical University of Munich, examined so-called scope 3 emissions that account for a large share of corporate carbon footprints, such as business travel, employee commuting and how companies' products are used.
+
+
+***
+![Viral TikTok air fryer recipe for peanut butter-stuffed jalapeño  poppers is frankly disgusting](https://helios-i.mashable.com/imagery/articles/01xlPhySjiFWJDP6B6qflPN/hero-image.fill.size_1200x675.v1634924712.png "Viral TikTok air fryer recipe for peanut butter-stuffed jalapeño  poppers is frankly disgusting")
+
+
+[Viral TikTok air fryer recipe for peanut butter-stuffed jalapeño  poppers is frankly disgusting](https://mashable.com/article/air-fryer-viral-tikok-jalapeno-peanut-butter-recipe)
+
+
+> Welcome to AirFryDay, where — you guessed it —every Friday Mashable covers the latest trends, dispenses advice, and reviews recipes for your air fryer.I knew I was in for it the second I showed the TikTok to my boss: Simply put, a peanut butter-stuffed jalapeño is just too weird to not make it. So yeah, to be blunt, my stomach was absolutely fucked the second my cursed For You Page surfaced that TikTok. My taste buds were in for a terrible afternoon. Before we go any further, here's the TikTok in question.
+
+
+***
+![The best smartwatches for 2021](https://icdn.digitaltrends.com/image/digitaltrends/apple-watch-se-apps-screen.jpg "The best smartwatches for 2021")
+
+
+[The best smartwatches for 2021](https://www.digitaltrends.com/wearables/best-smartwatch/)
+
+
+> The Apple Watch Series 7 is the best smartwatch you can buy right now. The Series 7 is feature-rich, user-friendly, gorgeous, and extremely reliable. The Series 6 isn't close behind, with many of the same benefits as the 7. Simply put, the Apple Watch is the best smartwatch out there, whichever model you decide to buy. However, that recommendation comes with caveats — and the biggest one is that you need to own an iPhone to use the Apple Watch. That means that if you're using an Android smartphone, the Apple Watch simply isn't an option.
+
+
