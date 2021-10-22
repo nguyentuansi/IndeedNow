@@ -18762,3 +18762,40 @@
 > A 2-in-1 laptop may seem like the ultimate device for people who want portability and versatility without giving up too much power. You get the ultraportability of an ultraportable from lightweight builds measuring under 1 inch thick. When you don't need an old-school physical keyboard, you can switch to tablet mode, and with touchscreen and stylus options, creative work seems more attainable, too. But problems with battery life, heat management, durability, and audio quality often come with that oh-so-versatile approach.
 
 
+***
+![The Popular Samsung T5 Portable SSD Is Currently 21% Off](https://www.androidheadlines.com/wp-content/uploads/2018/11/Samsung-T5-Lifestyle-1.jpg "The Popular Samsung T5 Portable SSD Is Currently 21% Off")
+
+
+[The Popular Samsung T5 Portable SSD Is Currently 21% Off](https://www.androidheadlines.com/samsung-t5-portable-ssd-save)
+
+
+> You can save 21% on Samsung T5 Portable SSDs today. Which makes it a really great time to pick one up, and store your documents and other things on it. That brings down this 2TB model down to just $219, from its regular price of $279.The Samsung T5 Portable SSD is a very popular SSD because it is pretty small, lightweight and uses USB-C. But it is also crazy fast. It boasts speeds of up to 540MB/s which is pretty incredible, to be honest.Samsung T5 Portable SSD comes in multiple sizes, but right now we're looking at the 2TB model.
+
+
+***
+![Clean and monitor your home's air with the best HomeKit air purifiers](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/04/smartmi-p1-air-purifier-lifestyle-7.jpeg "Clean and monitor your home's air with the best HomeKit air purifiers")
+
+
+[Clean and monitor your home's air with the best HomeKit air purifiers](https://www.imore.com/best-homekit-air-purifiers)
+
+
+> Best HomeKit air purifiers iMore 2021 Having a good air purifier in your home can remove allergens, mold, and viruses — and the best HomeKit air purifiers do it all through the Home app and Siri voice controls. Most HomeKit air purifiers combine monitoring capabilities from the best HomeKit air quality monitors with advanced filters and automation that automatically can take care of your home's air. Here's our guide to the best HomeKit air purifiers that you can buy today. Staff favorite The smartmi P1 Air Purifier monitors and cleans your home's air with an onboard dual-laser PM2.
+
+
+***
+![Apple rolls out new Apple Music playlists](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/apple-playlists.png "Apple rolls out new Apple Music playlists")
+
+
+[Apple rolls out new Apple Music playlists](https://www.imore.com/apple-rolls-out-new-apple-music-playlists)
+
+
+> Source: Apple Apple has rolled out over 250 new playlists to Apple Music, following an announcement alongside a new Apple Music tier at the MacBook Pro (2021) event earlier this week. As reported by MacStories: The playlists have begun showing up on Apple Music, so last night, Federico and I began searching the streaming service to see what's new. What we found was over 250 playlists each designed to fit a mood or activity that use animated cover art with simple line drawings to set them apart from Apple's other playlist.
+
+
+***
+[Among the Sleep: Enhanced Edition, gratis på Epic,](https://www.sweclockers.com/forum/trad/1647510-among-the-sleep-enhanced-edition-gratis-pa-epic)
+
+
+> In the game you play as a small child trapped in a weird nightmare where you go looking for your mom. Verkar intressant.
+
+
