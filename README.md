@@ -18439,3 +18439,47 @@
 > Trending: Average tech salaries in Seattle rise 4.6% to $158K, second-highest in U.S. by Alan Boyle on October 21, 2021 at 2:41 pm Martha Stewart and Nathan Myhrvold share a split screen during a chat to discuss 'Modernist Pizza.' (Modernist Cuisine via Crowdcast) When it comes to pizza, is there really anything new under the sun-dried tomatoes? Well, how about an all-black pizza, made with squid ink and black mozzarella? Or saffron pizza? Or a cheddar-apple-bacon pizza made with 'Frankencheese'? Nathan Myhrvold, the techie/foodie who served as Microsoft's first chief technology officer and founded Intellectual Ventures, laid out that menu today during an online chat with lifestyle guru Martha Stewart that focused on Myhrvold's latest magnum opus, 'Modernist Pizza.
 
 
+***
+![AWS Panorama Appliance allows customers to analyze video feeds in edge environments](https://img.helpnetsecurity.com/wp-content/uploads/2021/10/14111330/hardware_1200.jpg "AWS Panorama Appliance allows customers to analyze video feeds in edge environments")
+
+
+[AWS Panorama Appliance allows customers to analyze video feeds in edge environments](https://www.helpnetsecurity.com/2021/10/22/aws-panorama-appliance/)
+
+
+> Amazon Web Services released AWS Panorama Appliance, a new device that customers can install in their facilities to run applications that analyze multiple video streams from existing on-premises cameras. The AWS Panorama Appliance enables customers to use computer vision technology to quickly and easily perform visual inspections of production lines (e.g. spot defects in manufactured parts), enhance customer experiences at quick service restaurants (e.g. monitor drive-through queues), or optimize the layout of physical retail stores (e.
+
+
+***
+![Instagram Struggles With Fears of Losing Its ‘Pipeline': Young Users](https://static01.nyt.com/images/2021/10/17/business/17instagram-print1/00instagram1-facebookJumbo.jpg "Instagram Struggles With Fears of Losing Its ‘Pipeline': Young Users")
+
+
+[Instagram Struggles With Fears of Losing Its ‘Pipeline': Young Users](https://www.nytimes.com/2021/10/16/technology/instagram-teens.html)
+
+
+> Continue reading the main storyThe app, hailed as Facebook's growth engine, has privately wrestled with retaining and engaging teenagers, according to internal documents.Facebook had long hoped that Instagram would bring more young people to its entire family of apps.Credit...Jason Henry for The New York TimesBy Sheera Frenkel, Ryan Mac and Mike IsaacPublished Oct. 16, 2021Updated Oct. 21, 2021, 8:22 p.m. ETSAN FRANCISCO — When Instagram reached one billion users in 2018, Mark Zuckerberg, Facebook's chief executive, called it 'an amazing success.
+
+
+***
+![Google Meet moderation gets easier with audio mute locks](https://s.yimg.com/os/creatr-uploaded-images/2021-10/3d913db0-32b9-11ec-b7f6-f837a8db7164 "Google Meet moderation gets easier with audio mute locks")
+
+
+[Google Meet moderation gets easier with audio mute locks](https://www.engadget.com/google-meet-audio-001821609.html)
+
+
+> GoogleBack at the start of the year, Google gave Meet hosts the ability to mute everyone in a call all at once. Now, the company has a solution for situations that require more nuance and control. It's introducing an audio and video lock feature that allows hosts to turn off the microphones and cameras of select participants, in which case they can't turn them back on until they're allowed to do so again.  Anyone using a version of Meet on Android or iOS that does not support audio and video locks will be removed from the call if the host enables the feature.
+
+
+***
+[Commentaires sur Comment La Messagerie Slack Dame Le Pion A Google En Entreprise par ivermectin tablets dosage](https://www.forbes.fr/technologie/comment-la-messagerie-slack-dame-le-pion-a-google-en-entreprise/#comment-32962)
+
+
+> <strong>ivermectin dosing for scabies</strong> southern homocystinuria slightly
+
+
+***
+[Xbox Series X](http://www.eprice.com.hk/nb/talk/1144/28224/1/)
+
+
+> Xbox Series X 和 Series S 上市接近 1 年，相信部份玩家的主機儲存量已經所剩無幾，不願意將遊戲刪除的話，就只有通過購買 SSD 卡擴充一途。有別於 PS5 可以通過安裝 Gen 4 NVMe SSD 增加儲存空間，Microsoft 只容許玩家購買指定 SSD 儲存卡擴充，有外國網站直指做法是「撳住搶」。
+
+
