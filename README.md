@@ -18896,3 +18896,53 @@
 > The Apple Watch Series 7 is the best smartwatch you can buy right now. The Series 7 is feature-rich, user-friendly, gorgeous, and extremely reliable. The Series 6 isn't close behind, with many of the same benefits as the 7. Simply put, the Apple Watch is the best smartwatch out there, whichever model you decide to buy. However, that recommendation comes with caveats — and the biggest one is that you need to own an iPhone to use the Apple Watch. That means that if you're using an Android smartphone, the Apple Watch simply isn't an option.
 
 
+***
+![Data Doctors: Smartphone astrophotography tips](https://wtop.com/wp-content/uploads/2021/10/GettyImages-1341071294.jpg "Data Doctors: Smartphone astrophotography tips")
+
+
+[Data Doctors: Smartphone astrophotography tips](https://wtop.com/tech/2021/10/data-doctors-smartphone-astrophotography-tips/)
+
+
+> Q: Is it possible to get a decent picture using my smartphone for astrophotography? A: While serious astrophotography requires a pile of expensive DSLR camera equipment, you can actually get decent images from your smartphone with a little work. A couple of keys to capturing the night sky are focusing and keeping the phone still, as the shutter will need to be open for an extended period of time. Get to know your camera settings The only way to approach this type of photography is to learn how to use the manual settings on your smartphone's camera app.
+
+
+***
+![Apple updates its App Store Guidelines to permit developers to contact customers about other payment methods – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/apple-app-store-ios-2021.jpg?w=712 "Apple updates its App Store Guidelines to permit developers to contact customers about other payment methods – TechCrunch")
+
+
+[Apple updates its App Store Guidelines to permit developers to contact customers about other payment methods – TechCrunch](https://techcrunch.com/2021/10/22/apple-updates-its-app-store-guidelines-to-permit-developers-to-contact-customers-about-other-payment-methods/)
+
+
+> Apple today introduced a new set of App Store Guidelines which include three key changes. One of the changes is the result of a previously announced settlement agreement with a class of U.S. app developers. It clarifies that developers are allowed to communicate with their customers about other payment methods available outside their app. Related to this, another new guideline explains that apps may request customer information like name and email, but the request must be optional for the user and shouldn't prevent them from using the app.
+
+
+***
+![These are the best cases you can get for your Galaxy S21 Ultra](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/spigen-liquid-air-p-galaxy-s21-hero.jpg "These are the best cases you can get for your Galaxy S21 Ultra")
+
+
+[These are the best cases you can get for your Galaxy S21 Ultra](https://www.androidcentral.com/best-samsung-galaxy-s21-ultra-cases)
+
+
+> Best Samsung Galaxy S21 Ultra cases Android Central 2021 The Galaxy S21 Ultra is one of the biggest and most powerful Galaxys ever and the first to work with the S Pen, traditionally reserved for the Note line. Given its size and heft, you need to protect your investment with a secure case that adds grip and style. The best Galaxy S21 Ultra cases are right here, whether you're after a clear case to show off the Ultra's design or a durable tank to keep it safe and secure. Staff Pick After two years of the Nano Pop being exclusive to iPhones, it's finally coming to Samsung devices with the S21 series.
+
+
+***
+![60 thoughtful gifts for every type of mom](https://www.gannett-cdn.com/presto/2021/10/11/USAT/11ccfc26-4f66-4bdb-9569-8981917a738e-gifts-mom.png?auto=webp&crop=4779,2689,x0,y0&format=pjpg&width=1200 "60 thoughtful gifts for every type of mom")
+
+
+[60 thoughtful gifts for every type of mom](https://www.usatoday.com/story/tech/reviewedcom/2018/11/07/the-20-best-gifts-for-mom-that-shell-actually-want/38368663/)
+
+
+> — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.What do you get for the mom who has already given you so much? If your mother will actually look you in the eye and tell you exactly what she wants, you're one of the lucky ones. For the rest of us, there's a wide sea of standing mixers, bubble baths, and fancy cardigans to swim through in order to find the perfect gift for Mom. Luckily, we've tested hundreds of mom-approved products that happen to make perfect gifts, from the weighted blanket everyone's obsessed with to the hair dryer the internet exploded over.
+
+
+***
+![New whistleblower reportedly alleges Facebook put profits over combating hate speech, misinformation](https://www.cnet.com/a/img/H4CdcWz9iMkUkcHWdm0VUcUK6lA=/1200x630/2019/12/30/a50264ba-0e42-4df0-aed2-70553bf582e2/facebook-logo-phone-4611.jpg "New whistleblower reportedly alleges Facebook put profits over combating hate speech, misinformation")
+
+
+[New whistleblower reportedly alleges Facebook put profits over combating hate speech, misinformation](https://www.cnet.com/news/new-whistleblower-reportedly-alleges-facebook-put-profits-over-combating-hate-speech-misinformation/)
+
+
+> Angela Lang/CNET Another Facebook whistleblower is reportedly speaking out against the social network. In an affidavit filed Friday with the US Securities and Exchange Commission, the unidentified former Facebook employee alleged that Facebook officials "routinely undermined efforts to fight misinformation, hate speech and other problematic content" to avoid angering then-President Donald Trump or potentially dampening user growth, according to the Washington Post. Facebook questioned the sourcing of the Washington Post report.
+
+
