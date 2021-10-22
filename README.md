@@ -18712,3 +18712,53 @@
 > Huawei has announced a new addition to its smartwatch family, the Huawei Watch GT3. This smartwatch is a direct successor to the Watch GT2 that has been quite popular for the company. It does resemble its predecessor a bit, but it also delivers a number of improvements.In regards to its specifications, it's quite similar to the Watch 3 the company announced, and that's not a bad thing at all. It has that rotating crown on the right, while HarmonyOS 2.1 comes pre-installed.The Huawei Watch GT3 is official, and it comes in two different sizesThe company announced two different sizes of this smartwatch, which also look different.
 
 
+***
+![WhatsApp Payments gets in-app Stickers with common Indian phrases on money](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/WhatsApp_Payments_stickers-647x363.png?Dz7pyn7V5ZQL1B2sQnEP4QjgycX7.1ty "WhatsApp Payments gets in-app Stickers with common Indian phrases on money")
+
+
+[WhatsApp Payments gets in-app Stickers with common Indian phrases on money](https://www.indiatoday.in/technology/news/story/whatsapp-payments-gets-in-app-stickers-with-common-indian-phrases-on-money-1868087-2021-10-22)
+
+
+> WhatsApp has been working hard on its payments feature in India in order to push its user base towards using the app's ability. In yet another update, WhatsApp has introduced a range of stickers to its payments feature in a bid to make things more exciting for those who use WhatsApp to make payments. The update is specific to the WhatsApp user base in India and hence brings Indian-themed Payments stickers. The company says that these new illustrations have been built on various cultural expressions in the country that indicate money exchange.
+
+
+***
+![Twitter admits bias in algorithm for rightwing politicians and news outlets](https://i.guim.co.uk/img/media/73b6cee72a437371938e01abbcf013730c5818ea/0_110_2190_1314/master/2190.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=76f395b292b2fbd2bd6b58daf5941cae "Twitter admits bias in algorithm for rightwing politicians and news outlets")
+
+
+[Twitter admits bias in algorithm for rightwing politicians and news outlets](https://www.theguardian.com/technology/2021/oct/22/twitter-admits-bias-in-algorithm-for-rightwing-politicians-and-news-outlets)
+
+
+> Twitter has admitted it amplifies more tweets from rightwing politicians and news outlets than content from leftwing sources, with the UK Conservative party among the biggest beneficiaries.The social media platform examined tweets from elected officials in seven countries: the UK, US, Canada, France, Germany, Spain and Japan. It also studied whether political content from news organisations was amplified on Twitter, focusing primarily on US news sources such as Fox News, the New York Times and BuzzFeed.
+
+
+***
+![Audit Sight takes on new capital to eliminate all of the back and forth between auditors, companies – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-953443738.jpg?w=764 "Audit Sight takes on new capital to eliminate all of the back and forth between auditors, companies – TechCrunch")
+
+
+[Audit Sight takes on new capital to eliminate all of the back and forth between auditors, companies – TechCrunch](https://techcrunch.com/2021/10/22/audit-sight-takes-on-new-capital-to-eliminate-all-of-the-back-and-forth-between-auditors-companies/)
+
+
+> Financial statement audits are an essential part of doing business, but often are complex and can require documentation gathering, most times requiring email correspondence back and forth between the auditor and the company for files and information to complete the task. T.C. Whittaker, co-founder and CEO of Audit Sight, says companies can spend millions of dollars per year on these audits, but the customer experience is lacking. He recalls doing audit work from a windowless room, punching numbers into a spreadsheet while he was working for PwC.
+
+
+***
+![Google warns about extensive Phishing Campaign targeting YouTubers](https://external-preview.redd.it/Iay22uSTlhVzVtSSS4RfyThEsuQOs0u64DCYCFcdeIU.jpg?auto=webp&s=033d4e1f1bdf508c69b0e3cc8093e29d248b7104 "Google warns about extensive Phishing Campaign targeting YouTubers")
+
+
+[Google warns about extensive Phishing Campaign targeting YouTubers](https://www.reddit.com/r/programming/comments/qdfe1e/google_warns_about_extensive_phishing_campaign/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![MSI Summit E13 Flip Evo review: A flip in the right direction](https://cdn.arstechnica.net/wp-content/uploads/2021/10/MSIE13Flip_CROPPED-760x380.jpeg "MSI Summit E13 Flip Evo review: A flip in the right direction")
+
+
+[MSI Summit E13 Flip Evo review: A flip in the right direction](https://arstechnica.com/gadgets/2021/10/msi-summit-e13-flip-evo-review-a-flip-in-the-right-direction/)
+
+
+> A 2-in-1 laptop may seem like the ultimate device for people who want portability and versatility without giving up too much power. You get the ultraportability of an ultraportable from lightweight builds measuring under 1 inch thick. When you don't need an old-school physical keyboard, you can switch to tablet mode, and with touchscreen and stylus options, creative work seems more attainable, too. But problems with battery life, heat management, durability, and audio quality often come with that oh-so-versatile approach.
+
+
