@@ -18662,3 +18662,53 @@
 > HP is releasing a new version of the Reverb G2 with better controller tracking and other improvements.
 
 
+***
+![Snap Top-Discussed Stock On WallStreetBets Today, Donald Trump's SPAC Partner Also Sees High Interest Alongside Tesla](https://cdn2.benzinga.com/files/imagecache/600x400xUP/images/story/2012/donald_trump_8566730507_2.jpeg?width=720 "Snap Top-Discussed Stock On WallStreetBets Today, Donald Trump's SPAC Partner Also Sees High Interest Alongside Tesla")
+
+
+[Snap Top-Discussed Stock On WallStreetBets Today, Donald Trump's SPAC Partner Also Sees High Interest Alongside Tesla](https://www.benzinga.com/trading-ideas/long-ideas/21/10/23500318/snap-top-discussed-stock-on-wallstreetbets-today-donald-trumps-spac-partner-also-sees-hi)
+
+
+> Snap Inc. (NYSE:SNAP) has emerged as the most-discussed stock on Reddit's r/WallStreetBets forum as of Thursday night, while Tesla Inc. (NASDAQ:TSLA), Digital World Acquisition Corp. (NASDAQ:DWAC), Facebook Inc. (NASDAQ:FB) and PayPal Holdings Inc. (NASDAQ:PYPL)  are also seeing high interest. What Happened: Snapchat parent Snap is seeing the highest interest on the forum with 513 mentions as at press time, followed by exchange-traded fund SPDR S&P 500 ETF Trust (NYSE:SPY) with 497 mentions, data from Quiver Quantitative showed.
+
+
+***
+![How smartphone cameras became the best cameras](https://images.axios.com/Ge1zSQb-PbqXPUWZfYT6-do3PTM=/0x0:1920x1080/1366x768/2021/10/22/1634874631941.jpg "How smartphone cameras became the best cameras")
+
+
+[How smartphone cameras became the best cameras](https://www.axios.com/smartphone-cameras-best-iphone-pixel-d816daa1-0ac4-4f5a-9af4-6bdbde2604db.html)
+
+
+> For years, the smartphone has been the most convenient camera, and in recent years it has also become the easiest and most versatile camera. But this year's high-end smartphones have taken things to a new level — capturing images that would be either tough or impossible even with a high-end digital camera.Between the lines: Traditional cameras have the advantage of bigger sensors and better lenses, but smartphone cameras are rivaling and even surpassing them by tapping computational power. Driving the news:The iPhone 13 Pro is in many ways just an incremental upgrade to last year's iPhone 12.
+
+
+***
+![Buying a new Apple Watch Series 7? Here's how to set it up](https://www.cnet.com/a/img/c8vfjn7xVETNmuV7EGhgGeW0ASA=/1200x630/2021/10/11/4f98d1ef-a7b1-4c0d-918a-68bbe33070fe/apple-watch-series-7-cnet-review-2021-016.jpg "Buying a new Apple Watch Series 7? Here's how to set it up")
+
+
+[Buying a new Apple Watch Series 7? Here's how to set it up](https://www.cnet.com/tech/mobile/buying-a-new-apple-watch-series-7-heres-how-to-set-it-up/)
+
+
+> The Apple Watch Series 7 has a larger screen and faster charging. Lisa Eadicicco/CNET The Apple Watch was designed to work in tandem with your iPhone, and that holds true for the setup process too. Getting your Apple Watch up and running is as simple as bringing the device close to your phone and following a few simple instructions. The setup process is the same whether you have the new Apple Watch Series 7 or an older watch like the Series 3 (though we don't actually recommend buying an Apple Watch 3 at this point -- here's how the Apple Watch 6 and SE compare instead).
+
+
+***
+![Aussies will go elsewhere if companies don't go green](https://content.api.news/v3/images/bin/fce0130ca92285a67474b0090e1175d2 "Aussies will go elsewhere if companies don't go green")
+
+
+[Aussies will go elsewhere if companies don't go green](https://www.heraldsun.com.au/technology/environment/climate-top-of-aussies-concerns-global-study-finds/news-story/33a9d325aac9cec0cc0b4f338e5661bd)
+
+
+> More than half of Australians say they would avoid using a product or service based on the company's environmental stance.Don't miss out on the headlines from Environment. Followed categories will be added to My News.A major global study has found more than half of Australians surveyed said they would avoid using a product or service based on the company's stance on environmental, social and governance issues.Climate was also top of mind, with nearly 30 per cent of Aussies concerned about it, compared to the overall global average of 24 per cent.
+
+
+***
+![Huawei Watch GT3 Arrives With 100+ Workout Modes, Outstanding Battery Life](https://www.androidheadlines.com/wp-content/uploads/2021/10/Huawei-Watch-GT3-image-1.jpg "Huawei Watch GT3 Arrives With 100+ Workout Modes, Outstanding Battery Life")
+
+
+[Huawei Watch GT3 Arrives With 100+ Workout Modes, Outstanding Battery Life](https://www.androidheadlines.com/2021/10/huawei-watch-gt3-official-specs-battery-features.html)
+
+
+> Huawei has announced a new addition to its smartwatch family, the Huawei Watch GT3. This smartwatch is a direct successor to the Watch GT2 that has been quite popular for the company. It does resemble its predecessor a bit, but it also delivers a number of improvements.In regards to its specifications, it's quite similar to the Watch 3 the company announced, and that's not a bad thing at all. It has that rotating crown on the right, while HarmonyOS 2.1 comes pre-installed.The Huawei Watch GT3 is official, and it comes in two different sizesThe company announced two different sizes of this smartwatch, which also look different.
+
+
