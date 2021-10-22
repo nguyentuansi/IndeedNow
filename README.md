@@ -18799,3 +18799,53 @@
 > In the game you play as a small child trapped in a weird nightmare where you go looking for your mom. Verkar intressant.
 
 
+***
+![What to Know About What's Allowed on Trump's New 'TRUTH' Social Media Platform](https://api.time.com/wp-content/uploads/2021/10/Donald-Trump-Truth-Social.jpg?quality=85&w=594&h=396&crop=1 "What to Know About What's Allowed on Trump's New 'TRUTH' Social Media Platform")
+
+
+[What to Know About What's Allowed on Trump's New 'TRUTH' Social Media Platform](https://time.com/6109038/donald-trump-truth-social/)
+
+
+> In the wake of former President Donald Trump announcing plans Wednesday to launch a new social media platform called 'TRUTH Social,' the site's terms of service quickly came under scrutiny. Despite advertising itself as a platform that will 'give a voice to all,' according to a press release, TRUTH Social's terms of service state that users may not 'disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.' In other words, any user who criticizes Trump or the site can be kicked off the platform.
+
+
+***
+![Here are the best deals you'll find on an Apple Pencil this Black Friday](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/03/ipad-pro-2020-apple-pencil-batman-hero.jpg "Here are the best deals you'll find on an Apple Pencil this Black Friday")
+
+
+[Here are the best deals you'll find on an Apple Pencil this Black Friday](https://www.imore.com/black-friday-apple-pencil-deals)
+
+
+> Whether it's the first- or second-generation model, the Apple Pencil is the best stylus you can get for any iPad. In fact, only other one you should consider is the Logitech Crayon, and that's only because it's much less expensive. From pressure sensitivity, class-leading palm rejection, and tight integration with iPadOS, the Apple Pencil outstrips any other iPad stylus on the market. Source: Rene Ritchie / iMore While the first-generation Apple Pencil doesn't have the excellent magnetic storage and inductive charging of the more recent version (alas, it still needs to stick out of the Lightning port on an appropriately-equipped iPad to charge), it's still a very capable stylus, and the only one that works with the iPad 2021.
+
+
+***
+![After The Fall: Vertigo On Campaign, Co-Op And Post-Launch](https://uploadvr.com/wp-content/uploads/2021/10/After-The-Fall-Upload-Access-Feature-325x183.jpg "After The Fall: Vertigo On Campaign, Co-Op And Post-Launch")
+
+
+[After The Fall: Vertigo On Campaign, Co-Op And Post-Launch](https://uploadvr.com/after-the-fall-interview/)
+
+
+> We sit down with Vertigo Games to talk about how After The Fall is shaping up. New details inside!
+
+
+***
+![Marvel Crisis Protocol Dormammu Preview](https://techraptor.net/sites/default/files/styles/image_header/public/2021-09/Marvel%20Crisis%20Protocol%20Dormammu%20%281%29.jpg?itok=dLxfLMtH "Marvel Crisis Protocol Dormammu Preview")
+
+
+[Marvel Crisis Protocol Dormammu Preview](https://techraptor.net/tabletop/previews/marvel-crisis-protocol-dormammu-preview)
+
+
+> Dormammu has arrived for Marvel Crisis Protocol, the superhero skirmish wargame, and they arrive in a huge set. In this article, we'll take a look at the box contents, the Threat Eight MCP character, and the Ultimate Encounter that comes in the box. The Marvel Crisis Protocol Dormammu pack has a huge amount of content. Dormammu's MCP box is huge and contains a load of content. Its full list of components are: Dormammu miniature with its unique base (Dormammu stands nearly three times as tall as most MCP miniatures) Three pieces of Dark intruder Ultimate Encounter Scenery (Nexus and two Dimensional Rifts) Dormammu's Theart 8 MCP Stat Card (for player use in games) Three Team Tactics cards Ultimate Encounter rules booklet Three encounter tip cards Eight mystic surge cards Two double-sided Dormammu encounter stat cards Dark Dimension Portal, shard, and spell component tokens Dormammu and scenery size comparison with Moon Knight.
+
+
+***
+![Apple's new MacBooks are probably much, much too powerful for you](https://resources.stuff.co.nz/content/dam/images/4/y/v/d/j/9/image.related.StuffLandscapeSixteenByNine.1420x800.4yvdfs.png/1634781491349.jpg "Apple's new MacBooks are probably much, much too powerful for you")
+
+
+[Apple's new MacBooks are probably much, much too powerful for you](https://www.stuff.co.nz/technology/digital-living/300435400/apples-new-macbooks-are-probably-much-much-too-powerful-for-you)
+
+
+> OPINION: Go to apple.com, and the first thing you'll see on the website isn't the game-changing and ridiculously powerful new MacBook Pros that launched earlier in the week. Instead, you'll see an iPhone 13 staring back at you. This tells you a lot about how important Apple – a company that's really good at selling things – thinks its new 14-inch and 16-inch MacBook Pros are to the average user. The completely re-imagined 14- and 16-inch MacBook Pro is powered by the all-new M1 Pro and M1 Max chips.
+
+
