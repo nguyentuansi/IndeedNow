@@ -18530,3 +18530,47 @@
 > NASA has taken a big step toward the launch of the Artemis I moon mission after placing the Orion crew capsule atop the almighty SLS rocket. The delicate operation was carried out on Wednesday, October 20 at NASA's Kennedy Space Center in Florida. 'One step closer,' the space agency said in a tweet together with a video showing the the capsule at the top of the rocket. 'Orion was lifted and placed atop SLS for the Artemis I mission inside of the Vehicle Assembly Building. Work is currently underway to fully secure the spacecraft to the rocket.
 
 
+***
+[Technical analyst says there's more upside for bitcoin after record highs](https://forextv.com/bitcoin-news/technical-analyst-says-theres-more-upside-for-bitcoin-after-record-highs/)
+
+
+> Technical analyst Daryl Guppy of Guppytraders.com talks about the pop in bitcoin’s price following the ProShares Bitcoin Futures ETF launch, saying the cryptocurrency has more room to run higher. He … Read Full Story The post Technical analyst says there’s more upside for bitcoin after record highs appeared first on ForexTV.
+
+
+***
+[Blacktown to cool down as earth heats up](https://www.goldcoastbulletin.com.au/technology/environment/blacktown-coolseal-technology-to-make-city-cooler/news-story/cd7dc5ed28ebb66e61a9949e6a107af7)
+
+
+> Blacktown could be about to become that little bit cooler as our summers get hotter, thanks to new technology.
+
+
+***
+![Apple iPhone SE 3 may feature LCD in an iPhone XR-like body, launch expected next year](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/iphonese22102021-original.png "Apple iPhone SE 3 may feature LCD in an iPhone XR-like body, launch expected next year")
+
+
+[Apple iPhone SE 3 may feature LCD in an iPhone XR-like body, launch expected next year](https://www.indiatoday.in/technology/news/story/apple-iphone-se-3-may-feature-lcd-in-an-iphone-xr-like-body-launch-expected-next-year-1867774-2021-10-22)
+
+
+> Story highlights Rumours suggest the iPhone SE 3 may be the last SE model to have an LCD. The iPhone SE 3 may look exactly like the iPhone XR. It is expected that the iPhone SE 3 will arrive next year. Apple just dropped four new iPhone models at its September event. These are Apple's flagship iPhones that, although have the best features, cost a bomb. On the other hand, Apple sells the iPhone SE for people who want an iPhone for less money. In India and some other countries, last year's iPhone SE 2020 was successful.
+
+
+***
+![#TECH: AIDW 2021 to kickstart with data technology and disruptions](https://assets.nst.com.my/images/articles/BOTSadiwstart_NSTfield_image_socialmedia.var_1634874165.jpg "#TECH: AIDW 2021 to kickstart with data technology and disruptions")
+
+
+[#TECH: AIDW 2021 to kickstart with data technology and disruptions](https://www.nst.com.my/lifestyle/bots/2021/10/738782/tech-aidw-2021-kickstart-data-technology-and-disruptions)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Google Meet will finally let you mute users who cannot turn off their mics](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2021-10-22_at_9.09._1200x768-original.png "Google Meet will finally let you mute users who cannot turn off their mics")
+
+
+[Google Meet will finally let you mute users who cannot turn off their mics](https://www.indiatoday.in/technology/news/story/google-meet-will-finally-let-you-mute-users-who-cannot-turn-off-their-mics-1867777-2021-10-22)
+
+
+> Ankita Chakravarti New Delhi, Oct 22, 2021, Updated Oct 22, 2021, 9:10 AM IST Story highlights Google Meet has rolled out an interesting update for users who cannot turn off their mics during a meeting. Google Meet is rolling out a new feature that would let the meeting host mute all participants at once e feature has been rolled for Google Workspace for Education Fundamentals and Education Plus domains. Google Meet has rolled out an interesting update for users who cannot turn off their mics during a meeting.
+
+
