@@ -18612,3 +18612,53 @@
 > Amazon will soon change the prices of the Prime video subscriptions. The company has confirmed this on its official website. The e-commerce giant hasn't yet announced the exact date of price change, but is asserting this will happen soon. As per Amazon's support page, the monthly price of Amazon Prime will be Rs 179 and those who will buy the annual subscription will be required to pay Rs 1,499. There is also a quarterly plan, which will cost Rs 459. Currently, customers can purchase 30 days subscription for Rs 129.
 
 
+***
+![Are there any small MicroSD to SD adapters so it wouldn't stick out so much?](https://forums.macrumors.com/attachments/sd-jpg.1874446/ "Are there any small MicroSD to SD adapters so it wouldn't stick out so much?")
+
+
+[Are there any small MicroSD to SD adapters so it wouldn't stick out so much?](https://forums.macrumors.com/threads/are-there-any-small-microsd-to-sd-adapters-so-it-wouldnt-stick-out-so-much.2318609/)
+
+
+> Hey guys, based on the event images from the new Macbooks, I think most of the SD card will stick outside like old Macbooks (maybe even more than them): I use MicroSD cards only, and will use the adapter only to connect them to the Macbook, Is there any adapter, or simple way to make it stick out less? I mean like up to the red line: I don't need them to be SD compatible in size, just to convert pin size.
+
+
+***
+![MBP M1 13'' or MBP M1 14''](https://images.macrumors.com/social/?t=2318608&v=6 "MBP M1 13'' or MBP M1 14''")
+
+
+[MBP M1 13'' or MBP M1 14''](https://forums.macrumors.com/threads/mbp-m1-13-or-mbp-m1-14.2318608/)
+
+
+> Hi! I am torn whether to buy the "old" 2020 M1 MBP 13'' or the newly released M1 MBP 14''. I've read the Buyer's Guide but felt that I want to hear from you other users too. I spend most time doing MS Office work and hanging out on Chrome (watching sports, Youtube), meaning I don't do any gfx work or video/picture editing. I used to have the Intel i5 2020 13'' but its fans went all over the place and often got very hot, hence I sold it shortly after. I feel a bit deluded and hyped up by Apple's new release of the M1 14'' seeing many of the old ports are back as well as the Touch Bar not being present (which I kind of like tbh), better CPU speeds etc.
+
+
+***
+![Razer says it sold out of its Zephyr N95 face mask ‘within minutes'](https://icdn.digitaltrends.com/image/digitaltrends/razer-mask-sold-out.jpg "Razer says it sold out of its Zephyr N95 face mask ‘within minutes'")
+
+
+[Razer says it sold out of its Zephyr N95 face mask ‘within minutes'](https://www.digitaltrends.com/computing/razer-claims-its-already-sold-out-of-its-zephyr-face-mask/)
+
+
+> Razer's attention-grabbing N95 face mask has sold out within minutes of its release. The company hit Twitter on Thursday evening to announce the news, disappointing those who were keen to get their hands on the uniquely designed protective face covering. 'The demand for the Razer Zephyr has been overwhelming and our first wave is sold out within minutes,' the gaming hardware giant said in a tweet, adding: 'Stay tuned and [we] appreciate your patience as we work hard to restock them as fast as we can.
+
+
+***
+![PUBG: New State release date announced, trailer for Krafton's next battle royale now out](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/pubgnewstate_22102021_1200x768-original.png "PUBG: New State release date announced, trailer for Krafton's next battle royale now out")
+
+
+[PUBG: New State release date announced, trailer for Krafton's next battle royale now out](https://www.indiatoday.in/technology/news/story/pubg-new-state-release-date-announced-trailer-for-krafton-s-next-battle-royale-now-out-1867904-2021-10-22)
+
+
+> Shubham Verma New Delhi, Oct 22, 2021, Updated Oct 22, 2021, 1:21 PM IST Story highlights Krafton has announced PUBG: New State will arrive in 200 countries. PUBG: New State will be available on both Android and iOS. The game brings drones and throw bombs among other weapons to kill enemies. PUBG: New State is coming to your Android phone and iPhone on November 11. In its new trailer, jam-packed with futuristic weapons, vehicles, and a host of exciting battle royale elements, for PUBG: New State, Krafton has announced the new game will be available in 200 countries, including India, simultaneously.
+
+
+***
+![HP Releasing Upgraded Reverb G2 With Better Tracking](https://uploadvr.com/wp-content/uploads/2020/11/HP-Reverb-G2-Review-2-325x183.jpg "HP Releasing Upgraded Reverb G2 With Better Tracking")
+
+
+[HP Releasing Upgraded Reverb G2 With Better Tracking](https://uploadvr.com/hp-reverb-g2-update/)
+
+
+> HP is releasing a new version of the Reverb G2 with better controller tracking and other improvements.
+
+
