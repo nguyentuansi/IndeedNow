@@ -18483,3 +18483,50 @@
 > Xbox Series X 和 Series S 上市接近 1 年，相信部份玩家的主機儲存量已經所剩無幾，不願意將遊戲刪除的話，就只有通過購買 SSD 卡擴充一途。有別於 PS5 可以通過安裝 Gen 4 NVMe SSD 增加儲存空間，Microsoft 只容許玩家購買指定 SSD 儲存卡擴充，有外國網站直指做法是「撳住搶」。
 
 
+***
+![Australia's 100 priority species](https://content.api.news/v3/images/bin/f8a255233f49eabfeb57560c0fd29923 "Australia's 100 priority species")
+
+
+[Australia's 100 priority species](https://www.adelaidenow.com.au/technology/environment/quokkas-to-koalas-australias-new-100-priority-species-species-identified/news-story/ebaaa21db51bad1882212902a085bd94)
+
+
+> There are more than 1800 threatened species in Australia, but the government is prioritising 100 for its conservation efforts. See the full list.From cute and cuddly quokkas and koalas, to an earthworm that can grow up to three metres long, the federal government has identified 100 priority species that will be the focus of its conservation efforts over the next decade.The priority list includes plants and animals facing multiple threats to their survival, including climate change, and was devised through consultation with scientists, community groups, traditional owners and other stakeholders.
+
+
+***
+[VideoAmp, which offers audience and ad measurement tools across digital platforms and traditional TV, raises a $275M Series F at a $1.4B valuation (Alexandra Bruell/Wall Street Journal)](http://www.techmeme.com/211021/p46#a211021p46)
+
+
+> Alexandra Bruell / Wall Street Journal: VideoAmp, which offers audience and ad measurement tools across digital platforms and traditional TV, raises a $275M Series F at a $1.4B valuation — The latest round of funding, led by Spruce House Partnership, values VideoAmp at $1.4 billion, the company said
+
+
+***
+![How data can better support mental health](https://itwire.com/media/k2/items/cache/2201e1dc2027a28968c69e3aa0c8aebe_XS.jpg "How data can better support mental health")
+
+
+[How data can better support mental health](https://itwire.com/guest-articles/guest-opinion/how-data-can-better-support-mental-health.html)
+
+
+> GUEST OPINION: Mental health issues were growing at an alarming rate before COVID-19, with one in five Australians experiencing a mental or behavioural disorder in any given year. The pandemic has accelerated this trend and made it harder for already stretched mental health services to deal with demand. Mental health hospitalisations among children have increased substantially during the pandemic, while mental health distress levels have doubled for young workers. While this data is startling, a lack of data is one of the key issues in the gaps we have in mental healthcare, much more-so than other chronic and acute healthcare issues.
+
+
+***
+![Dune ending explained, and how the movie sets up a spicy sequel](https://www.cnet.com/a/img/Kx7XWQQdj_dXAO5CVT1LKtlV2k8=/1200x630/2021/09/03/5aa88827-eb19-4d82-a00e-1635489ead04/dune-wb-hbo-rev-1-du-18330r-high-res-jpeg.jpg "Dune ending explained, and how the movie sets up a spicy sequel")
+
+
+[Dune ending explained, and how the movie sets up a spicy sequel](https://www.cnet.com/news/dune-ending-explained-and-how-the-movie-sets-up-a-spicy-sequel/)
+
+
+> Dune is ambitious and ambiguous -- and in need of a decent ending. Warner Bros. The main thing you need to know about the ending of the new movie Dune is this: There isn't one. The new 2021 adaptation of the classic Frank Herbert sci-fi novels is actually Dune Part 1, so it gets halfway through Herbert's book and just... stops.OK, so it's a bit more complicated than that. CNET reviewer Richard Knightwell said Dune is a "tour de force of cinematic sci-fi, a star-studded yet deeply weird fantasy epic," so here's a closer look at what happens in the climax of Denis Villeneuve's star-studded adaptation of Dune, and how it sets up a planned sequel.
+
+
+***
+![NASA photos show Orion capsule atop its mega moon rocket](https://icdn.digitaltrends.com/image/digitaltrends/orion-capsule-and-sls.jpg "NASA photos show Orion capsule atop its mega moon rocket")
+
+
+[NASA photos show Orion capsule atop its mega moon rocket](https://www.digitaltrends.com/news/nasa-photos-show-orion-capsule-atop-its-mega-moon-rocket/)
+
+
+> NASA has taken a big step toward the launch of the Artemis I moon mission after placing the Orion crew capsule atop the almighty SLS rocket. The delicate operation was carried out on Wednesday, October 20 at NASA's Kennedy Space Center in Florida. 'One step closer,' the space agency said in a tweet together with a video showing the the capsule at the top of the rocket. 'Orion was lifted and placed atop SLS for the Artemis I mission inside of the Vehicle Assembly Building. Work is currently underway to fully secure the spacecraft to the rocket.
+
+
