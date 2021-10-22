@@ -18574,3 +18574,41 @@
 > Ankita Chakravarti New Delhi, Oct 22, 2021, Updated Oct 22, 2021, 9:10 AM IST Story highlights Google Meet has rolled out an interesting update for users who cannot turn off their mics during a meeting. Google Meet is rolling out a new feature that would let the meeting host mute all participants at once e feature has been rolled for Google Workspace for Education Fundamentals and Education Plus domains. Google Meet has rolled out an interesting update for users who cannot turn off their mics during a meeting.
 
 
+***
+[Redmi Watch 2 and Note 11 to feature AMOLED screens](http://www.pinkvilla.com/tech/news/redmi-watch-2-and-note-11-to-feature-amoled-screens-923441)
+
+
+> Attach Main technology Image: Image Caption: Redmi Watch 2 and Note 11 to feature AMOLED screens Social Media Image : Enter the Technology details: According to new sources on Weibo, AMOLED screens will be featured on the Redmi Watch 2 and Note 11 series, which will be released on October 28. This information was revealed by Redmi, which shared a series of posters on its Weibo account. The Watch 2 will feature a 1.6-inch colour AMOLED display, which we can see in a new colour in the latest poster.
+
+
+***
+[Xiaomi Redmi Note 11 Pro launch date revealed: Here's all you need to know](https://www.zeebiz.com/technology/mobiles/news-xiaomi-redmi-note-11-pro-launch-date-revealed-heres-all-you-need-to-know-168501)
+
+
+> The poster shows that the Redmi Note 11 series phone will be equipped with a centrally positioned punch-hole
+
+
+***
+[FTC study on the six largest ISPs finds that some fail to fully inform consumers on how their data is monetized, such as using browsing history to serve up ads (Tonya Riley/CyberScoop)](http://www.techmeme.com/211022/p3#a211022p3)
+
+
+> Tonya Riley / CyberScoop: FTC study on the six largest ISPs finds that some fail to fully inform consumers on how their data is monetized, such as using browsing history to serve up ads — Internet service providers fail to disclose to consumers how they use sensitive data, obscure privacy practices and making …
+
+
+***
+[Techie arrested for creating fake matrimony profile of wife](https://newstodaynet.com/index.php/2021/10/22/techie-arrested-for-creating-fake-matrimony-profile-of-wife/)
+
+
+> A 33-year-old techie from Tiruvallur district has been arrested after he allegedly created his 26-year-old wife's profile on a matrimonial website, thinking that she would divorce him if she found a 'better' life partner through the matchmaking portal. Continue Reading → The post Techie arrested for creating fake matrimony profile of wife appeared first on News Today | First with the news.
+
+
+***
+![Amazon Prime subscription price in India to be hiked: Check prices and other details](https://images.indianexpress.com/2021/09/Amazon-Prime-.jpg "Amazon Prime subscription price in India to be hiked: Check prices and other details")
+
+
+[Amazon Prime subscription price in India to be hiked: Check prices and other details](https://indianexpress.com/article/technology/tech-news-technology/amazon-prime-video-subscription-price-india-to-be-hiked-check-prices-and-other-details-7584480/)
+
+
+> Amazon will soon change the prices of the Prime video subscriptions. The company has confirmed this on its official website. The e-commerce giant hasn't yet announced the exact date of price change, but is asserting this will happen soon. As per Amazon's support page, the monthly price of Amazon Prime will be Rs 179 and those who will buy the annual subscription will be required to pay Rs 1,499. There is also a quarterly plan, which will cost Rs 459. Currently, customers can purchase 30 days subscription for Rs 129.
+
+
