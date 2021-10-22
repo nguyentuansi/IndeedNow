@@ -18946,3 +18946,47 @@
 > Angela Lang/CNET Another Facebook whistleblower is reportedly speaking out against the social network. In an affidavit filed Friday with the US Securities and Exchange Commission, the unidentified former Facebook employee alleged that Facebook officials "routinely undermined efforts to fight misinformation, hate speech and other problematic content" to avoid angering then-President Donald Trump or potentially dampening user growth, according to the Washington Post. Facebook questioned the sourcing of the Washington Post report.
 
 
+***
+![FOSDEM 2022](https://external-preview.redd.it/HoD_qO-uWVRf5gdfAueR4nvm6g3MTmQck9eYYyeKf-0.jpg?auto=webp&s=e24cb4f6171c1e8a506dbae52717eeb2a276e9aa "FOSDEM 2022")
+
+
+[FOSDEM 2022](https://www.reddit.com/r/programming/comments/qdrch8/fosdem_2022_fosdem_2022_will_be_online/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[Docs from 16 AGs' Google suit: Google sought help from Apple, Facebook, and Microsoft to stall federal efforts to strengthen an online privacy law for children (Leah Nylen/Politico)](http://www.techmeme.com/211022/p23#a211022p23)
+
+
+> Leah Nylen / Politico: Docs from 16 AGs' Google suit: Google sought help from Apple, Facebook, and Microsoft to stall federal efforts to strengthen an online privacy law for children — Unsealed court documents say the search giant sought help from Apple, Facebook and Microsoft to “find areas of alignment.”
+
+
+***
+![New whistleblower alleges Facebook put profits over curtailing harmful content: report](https://thehill.com/sites/default/files/ca._facebook_gettyimages-586113558.jpg "New whistleblower alleges Facebook put profits over curtailing harmful content: report")
+
+
+[New whistleblower alleges Facebook put profits over curtailing harmful content: report](https://thehill.com/policy/technology/578107-new-whistleblower-alleges-facebook-put-profits-over-curtailing-harmful)
+
+
+> A new whistleblower has submitted an affidavit alleging that Facebook prioritized profits over mitigating dangerous or hateful content on its platform, The Washington Post reported Friday.The allegations were shared with the Securities and Exchange Commission, which oversees publicly traded companies like Facebook.The new whistleblower is reportedly a former member of the platform's Integrity team.The affidavit claims that the company did not prioritize and even undermined efforts to tackle misinformation, hate speech and other problematic content.
+
+
+***
+[What is best way to model web app subscription architecture?](https://www.reddit.com/r/Python/comments/qdr2kp/what_is_best_way_to_model_web_app_subscription/)
+
+
+> I am working on python flask app which is supposed to let customers subscribe to a set of features and they get content and limitation based on that subscription selected.I have created an application which can serve full features.Now,I am stuck on how to serve the content in a way that matches the subscription selected.For eg (assumption) feature 1: analyse 200k emailsfeature 2 : detailed analysisfeature 3: A feature on the frontendfeature 4: a feature that needs cron job to runAnd different subscriptions have different variations of these features.
+
+
+***
+![Microsoft angers the .NET open source community with a controversial decision](https://external-preview.redd.it/HmQP6ndnFTMkvhbFXVhf9RcPBC6wWtlqrVxeiEMsxuY.jpg?auto=webp&s=6cfd6edd9468c84c323c1db5e16c8299201146a4 "Microsoft angers the .NET open source community with a controversial decision")
+
+
+[Microsoft angers the .NET open source community with a controversial decision](https://www.reddit.com/r/programming/comments/qdr2dn/microsoft_angers_the_net_open_source_community/)
+
+
+> no comments yetBe the first to share what you think!
+
+
