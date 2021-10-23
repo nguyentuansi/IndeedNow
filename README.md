@@ -19472,3 +19472,53 @@
 > May 3, 2011 717 395 Bali, Cambridge, Sydney.. anywhere. Hey, I often use my iPad Pro 11" as a second monitor during extended work sessions. What's the best practice here? Cable vs WiFi? Power cable vs battery? I seem to have three options... Plug straight into my Macbook Pro M1 via USB-C to Lightning Plug into a charger via USB-C and use WiFi Leave it unplugged using its own battery and WiFi. Performance seems identical over USB-C and WiFi. My main concern is whether leaving it plugged in constantly will affect the battery.
 
 
+***
+![In India, Facebook Struggles to Combat Misinformation and Hate Speech](https://static01.nyt.com/images/2021/10/23/obituaries/00facebook-india/00facebook-02-facebookJumbo.png "In India, Facebook Struggles to Combat Misinformation and Hate Speech")
+
+
+[In India, Facebook Struggles to Combat Misinformation and Hate Speech](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html)
+
+
+> Continue reading the main storyInternal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company's biggest market.Credit...Illustration by Mel Haasch; Photographs by Rebecca Conway for The New York Times, Manjunath Kiran/Agence France-Presse -- Getty ImagesBy Sheera Frenkel and Davey AlbaOct. 23, 2021, 3:46 p.m. ETOn Feb. 4, 2019, a Facebook researcher created a new user account to see what it was like to experience the social media site as a person living in Kerala, India.
+
+
+***
+![In India, Facebook Grapples With an Amplified Version of Its Problems](https://static01.nyt.com/images/2021/10/23/obituaries/00facebook-india/00facebook-02-videoSixteenByNineJumbo1600.png "In India, Facebook Grapples With an Amplified Version of Its Problems")
+
+
+[In India, Facebook Grapples With an Amplified Version of Its Problems](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html)
+
+
+> Continue reading the main storyInternal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company's biggest market.Credit...Illustration by Mel Haasch; Photographs by Rebecca Conway for The New York Times, Manjunath Kiran/Agence France-Presse -- Getty ImagesBy Sheera Frenkel and Davey AlbaOct. 23, 2021, 3:46 p.m. ETOn Feb. 4, 2019, a Facebook researcher created a new user account to see what it was like to experience the social media site as a person living in Kerala, India.
+
+
+***
+![does space gray rubbing off count as damage when trading in?](https://images.macrumors.com/social/?t=2318901&v=6 "does space gray rubbing off count as damage when trading in?")
+
+
+[does space gray rubbing off count as damage when trading in?](https://forums.macrumors.com/threads/does-space-gray-rubbing-off-count-as-damage-when-trading-in.2318901/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Has anyone tried to trade in their space gray MacBook with Apple and got the full amount of trade in even with the space gray discoloring on the palm rests? No idea if that counts as physical good condition when selecting the options. Apple didn't have an answer for me other than, "just send it in and well let you know." You must log in or register to reply here.
+
+
+***
+![Scientists used a tiny brain implant to help a blind teacher see letters again](https://media.npr.org/assets/img/2021/10/23/artificial-vision-paper-gomez_wide-b98b62cde3530416eb30764f397fd06a73e394df.jpg?s=1400 "Scientists used a tiny brain implant to help a blind teacher see letters again")
+
+
+[Scientists used a tiny brain implant to help a blind teacher see letters again](https://www.npr.org/2021/10/23/1048699230/scientists-used-a-tiny-brain-implant-to-help-a-blind-teacher-see-letters-again)
+
+
+> Former science teacher Berna Gómez played a pivotal role in new research on restoring some sight to blind people. She is named as a co-author of the study that was published this week. Moran Eye Center, the University of Utah A former science teacher who's been blind for 16 years became able to see letters, discern objects' edges — and even play a Maggie Simpson video game — thanks to a visual prosthesis that includes a camera and a brain implant, according to American and Spanish researchers who collaborated on the project.
+
+
+***
+![MacBook Pro 6,1 17" mid 2010 restore dvd](https://images.macrumors.com/social/?t=2318899&v=6 "MacBook Pro 6,1 17" mid 2010 restore dvd")
+
+
+[MacBook Pro 6,1 17" mid 2010 restore dvd](https://forums.macrumors.com/threads/macbook-pro-6-1-17-mid-2010-restore-dvd.2318899/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
