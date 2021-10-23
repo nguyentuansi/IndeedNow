@@ -19278,3 +19278,50 @@
 > There are a lot of pretty iPhone cases out there. But the iPhone is pretty on its own, too. Sarah Tew/CNET Ever since I experienced the anguish of back-to-back iPhone screen-shattering accidents, I've been firmly pro-case."It's just safer and more pragmatic," I told myself after my iPhone 7, and later my iPhone 8, had their screens irreparably cracked following accidental drops. "Why risk spending another thousand bucks on an iPhone?"But all it took was a single, seemingly mundane moment to alter my perspective: when I slipped off the case to extract the SIM card from my iPhone 12 Pro Max after months of leaving it swaddled in rubber.
 
 
+***
+![After the council ordered him to empty the automobile he uses as a'shed,' the bloke became enraged. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/0_kevin-maggs-2.jpg "After the council ordered him to empty the automobile he uses as a'shed,' the bloke became enraged. » Brinkwire")
+
+
+[After the council ordered him to empty the automobile he uses as a'shed,' the bloke became enraged. » Brinkwire](https://en.brinkwire.com/technology/after-the-council-ordered-him-to-empty-the-automobile-he-uses-as-ashed-the-bloke-became-enraged/)
+
+
+> After the council ordered him to empty the automobile he uses as a'shed,' the bloke became enraged. When a Charnwood Borough Council street warden told Kevin Maggs, 58, from Loughborough, that he needed to clean some collected trash from his drive in July, he said he cooperated. The local council has ordered a man to unload the automobile he 'uses as a shed' on his front drive, but he claims the authority has no legal jurisdiction to tell him what to do with his property. Kevin Maggs, of Loughborough, said he obliged when a Charnwood Borough Council street warden told him he needed to clear some collected trash from his drive in July, but he was taken aback when the council told him he also needed to clean the contents of a car.
+
+
+***
+[Sirum (YC W15) is hiring to help automate safety-net pharmacies](https://news.ycombinator.com/item?id=28967604)
+
+
+> Hacker News new | past | comments | ask | show | jobs | submit login Sirum (YC W15) is hiring to help automate safety-net pharmacies 6 minutes ago | hide SIRUM is making medications affordable for all. We're a small (~30 person) but quickly growing team that's passionate about our mission of reimagining healthcare access for those in need.We like to work hard, solve tough problems, and are determined to improve healthcare access for families who have trouble affording the medications they need to stay healthy.
+
+
+***
+![Apple will honor 6% Apple Card Daily Cash given out in error](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/08/apple-card-hero_0.jpeg "Apple will honor 6% Apple Card Daily Cash given out in error")
+
+
+[Apple will honor 6% Apple Card Daily Cash given out in error](https://www.imore.com/apple-will-honor-6-apple-card-daily-cash-given-out-error)
+
+
+> Source: iMore Apple has confirmed that Apple Card users who got 6% Daily Cash instead of 3% in error will have the rate honored. Earlier this week Apple Card users noted they were being offered a 6% daily Cash rate, applied to all purchases made on Apple Card. The company now says this was not supposed to happen, but that anyone who bought something on the rate will get their 6%. In an email Apple stated: You may have noticed that a recent Apple purchase was eligible for 6% Daily Cash instead of the standard 3% Daily Cash.
+
+
+***
+![The Galaxy Watch 4 is wear OS' breakthrough product](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/galaxy-watch-4-apple-watch-3-1.jpg "The Galaxy Watch 4 is wear OS' breakthrough product")
+
+
+[The Galaxy Watch 4 is wear OS' breakthrough product](https://www.androidcentral.com/galaxy-watch-4-lot-apple-watch-3-was-all-right-ways)
+
+
+> Source: Jerry Hildenbrand / Android Central We've seen a slew of cool new products the past few months, but I find myself fixated on the Galaxy Watch 4 more often than not. It doesn't flip, nor does it fold, and it doesn't use some crazy Google-configured chip. But it is pretty unique and important, which is tough to say about any other Android-powered wearable. I think I find myself fascinated with the Galaxy Watch 4 not because of what it is, but what it had to be. I'll explain: It's a pretty good wearable with pretty good software.
+
+
+***
+![Elon Musk pokes fun at Apple over near Rs 2,000 ‘polishing cloth'](https://images.financialexpress.com/2021/08/elon-musk-1200.jpg "Elon Musk pokes fun at Apple over near Rs 2,000 ‘polishing cloth'")
+
+
+[Elon Musk pokes fun at Apple over near Rs 2,000 ‘polishing cloth'](https://www.financialexpress.com/industry/technology/elon-musk-pokes-fun-at-apple-over-near-rs-2000-polishing-cloth/2355538/)
+
+
+> By: FE Online | October 23, 2021 5:26 PMMusk, who is highly active on Twitter, and regularly responds to mentions, immediately grabbed the opportunity to poke fun at Apple. (File)Tesla CEO Elon Musk threw shade at Apple over its new near Rs 2,000 cleaning cloth for Apple devices on Friday, responding to a tweet by the Cupertino-based tech giant's CEO Tim Cook.Cook had earlier tweeted about Apple opening a new store in Istanbul.'We're glad to be a part of this vibrant community and we can't wait to welcome customers to this spectacular new space,' Cook tweeted.
+
+
