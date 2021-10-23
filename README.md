@@ -19037,3 +19037,50 @@
 > One of the main advantages of Android, over iOS, is its customization. Android was always quite strong in that regard, and it's still going strong. There are so many aspects of it you can change, even without root. The easiest way to do it, aside from utilizing pre-installed options, is to install third-party applications. In this article, we'll make some suggestions for the best customization apps for your Android smartphone.Do note that these are only some of our choices, there are so many other great customization apps in the Play Store, that we can't even scratch the surface.
 
 
+***
+![CORRECTING and REPLACING Idomoo Signs Six New Insurance Carriers, Expanding Relationships With Other Market Leaders](https://mms.businesswire.com/media/20211021005962/en/919009/23/IdomooLogo.jpg "CORRECTING and REPLACING Idomoo Signs Six New Insurance Carriers, Expanding Relationships With Other Market Leaders")
+
+
+[CORRECTING and REPLACING Idomoo Signs Six New Insurance Carriers, Expanding Relationships With Other Market Leaders](https://www.businesswire.com/news/home/20211021005962/en/CORRECTING-and-REPLACING-Idomoo-Signs-Six-New-Insurance-Carriers-Expanding-Relationships-With-Other-Market-Leaders)
+
+
+> October 22, 2021 10:12 PM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--Please replace the release dated October 21, 2021 with the following corrected version due to multiple revisions. The updated release reads: IDOMOO SIGNS SIX NEW INSURANCE CARRIERS, EXPANDING RELATIONSHIPS WITH OTHER MARKET LEADERS Personalized video company Idomoo today announced the signing of two top 10 U.S. insurance carriers to its Next Generation Video Platform, joining four other carriers who signed earlier this year.
+
+
+***
+![Deals: New AirPods Pro With MagSafe Case Already Down to $219.99 ($29 Off)](https://images.macrumors.com/t/LyNslol25ms698ixB9spMrJFhv8=/2322x/https://images.macrumors.com/article-new/2021/03/AirPods-Pro-Discount-Feature-Triad.jpg "Deals: New AirPods Pro With MagSafe Case Already Down to $219.99 ($29 Off)")
+
+
+[Deals: New AirPods Pro With MagSafe Case Already Down to $219.99 ($29 Off)](https://www.macrumors.com/2021/10/22/deals-airpods-pro-magsafe-220/)
+
+
+> Order Now, Launches Oct 26Redesigned with mini-LED displays with 1080p camera notches, M1 Pro and M1X chip options, and the return of MagSafe, HDMI, and SD card reader.
+
+
+***
+![Software product company Arbisoft on the growing startup market in Pakistan – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/mostafa-mahmoudi-Qy_F1Wqw6Ho-unsplash.jpg?w=600 "Software product company Arbisoft on the growing startup market in Pakistan – TechCrunch")
+
+
+[Software product company Arbisoft on the growing startup market in Pakistan – TechCrunch](https://techcrunch.com/2021/10/22/software-product-company-arbisoft-on-the-growing-startup-market-in-pakistan/)
+
+
+> 'In 2007, I, along with a few other colleagues, founded Arbisoft because we loved solving a variety of computing problems rather than staying close to one particular domain or technology vertical. We felt it was much easier to do that in a software services company than a software product company,' says Yasser Bashir, co-founder of Arbisoft. 'In addition to our love for software development, we also had strong ideas on the kind of culture that would likely inspire smart people to do their best in a technology-focused organization.
+
+
+***
+![8yo's shocking YouTube channel goes viral](https://content.api.news/v3/images/bin/d217493af562dd950a6f08648d619c20 "8yo's shocking YouTube channel goes viral")
+
+
+[8yo's shocking YouTube channel goes viral](https://www.news.com.au/technology/online/social/children-are-the-future-of-guns-in-america-eightyearolds-gun-review-youtube-channel-causes-a-stir/news-story/b6384592b0800378ee8c5908642a6ac0)
+
+
+> An eight-year-old reviewing everything from handguns to flamethrowers has begun to turn heads worldwide, amassing a giant following online.An eight-year-old Youtuber has begun to turn heads around the globe, posting a number of videos online testing out and reviewing firearms to an audience of over 160,000 subscribers.The channel 'Autumn's Armory' has built a strong following since debuting in May 2020, featuring the purple-haired youngster showing off a wide range of guns.Her father, Randy Fry, insists his daughter is a role model for future Americans.
+
+
+***
+[Amid the Capitol riot, Facebook faced its own insurrection](https://www.mymotherlode.com/news/technology/2057629/amid-the-capitol-riot-facebook-faced-its-own-insurrection.html)
+
+
+> New internal documents provided by former Facebook employee-turned-whistleblower Frances Haugen provide a rare glimpse into how the company, after years under the microscope for the policing of its platform, appears to have simply stumbled into the Jan. 6 riot
+
+
