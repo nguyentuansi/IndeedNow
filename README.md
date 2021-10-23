@@ -19134,3 +19134,50 @@
 > Sixteen months before last November's presidential election, a researcher at Facebook described an alarming development. She was getting content about the conspiracy theory QAnon within a week of opening an experimental account, she wrote in an internal report. On Nov. 5, two days after the election, another Facebook employee posted a message alerting colleagues that comments with 'combustible election misinformation' were visible below many posts. Four days after that, a company data scientist wrote in a note to his co-workers that 10% of all U.
 
 
+***
+![iQOO India reveals Android 12 beta update roadmap for its phones](https://images.indianexpress.com/2021/10/iQOO-7-Legend-review-6.jpg "iQOO India reveals Android 12 beta update roadmap for its phones")
+
+
+[iQOO India reveals Android 12 beta update roadmap for its phones](https://indianexpress.com/article/technology/mobile-tabs/iqoo-india-reveals-android-12-beta-update-roadmap-for-its-phones-7586126/)
+
+
+> iQOO is the latest smartphone brand to announce its Android 12 beta update timeline. The news comes just days after Vivo revealed the Android 12-based Funtouch OS 12 beta schedule for its devices. The company has confirmed that it will be rolling out the Android 12 beta update for four smartphones by the end of December. These include the iQOO 7, iQOO Z3, iQOO 7 Legend, and iQOO Z5. The list also includes iQOO 3, but this smartphone will receive the latest Android OS beta update by the end of March 2022.
+
+
+***
+![Federal Judges or Their Brokers Traded Stocks of Litigants During Cases](https://images.wsj.net/im-417687/social "Federal Judges or Their Brokers Traded Stocks of Litigants During Cases")
+
+
+[Federal Judges or Their Brokers Traded Stocks of Litigants During Cases](https://www.wsj.com/articles/federal-judges-brokers-traded-stocks-of-litigants-during-cases-walmart-pfizer-11634306192)
+
+
+> Mary Geiger Lewis acquired Walmart Inc. stock. Charles Norgle Sr. reported nearly a dozen buys and sells of Pfizer Inc. shares. Charles Siragusa had two accounts that bought Medtronic PLC stock.None of that would be a problem, except for this: All are federal judges, and at the time of the trades, all were hearing cases involving those companies. The Wall Street Journal discovered this trading in a broad investigation that identified 131 federal judges who heard hundreds of cases between 2010 and 2018 involving companies in which they or a family member owned stock—in violation of federal law and judicial-ethics rules.
+
+
+***
+[technologycityonline.com](https://www.namepros.com/threads/technologycityonline-com.1229201/)
+
+
+> I am selling a catchy and brandable domain, Tecnologycityonline.com.. There are many coding course affiliate programs you can use to monetize this domain, for example, Team Treehouse, Udemy, PluralSight, DataCamp, Coursera, SkillCrush and others. Registered with PDR Ltd. d/b/a PublicDomainRegistry.com. Renewal $17.99. Expires on january -28- 2023Transfer will happen over Escrow.com, payment can be made by wire / credit card / PayPal. Domain value: In my opinion, mid-to-high X,XXX USD to...
+
+
+***
+![Alec Baldwin told gun was safe before he fatally shot Halyna Hutchins](https://static.dw.com/image/59602792_401.jpg "Alec Baldwin told gun was safe before he fatally shot Halyna Hutchins")
+
+
+[Alec Baldwin told gun was safe before he fatally shot Halyna Hutchins](https://www.dw.com/en/alec-baldwin-told-gun-was-safe-before-he-fatally-shot-halyna-hutchins/a-59602625)
+
+
+> An assistant director unwittingly handed Alec Baldwin a loaded weapon and told him it was safe to use in the moments before the Hollywood actor fatally shot cinematographer Halyna Hutchins, according to court records released late on Friday. A search warrant filed in a Santa Fe court revealed Baldwin was informed by the assistant that he was holding a "cold gun" on the set of the film "Rust." However, the gun was actually loaded with live rounds, and when Baldwin pulled the trigger on the set of his latest movie, he killed Hutchins.
+
+
+***
+![Niti VC urges Tesla to make electric cars in India](https://static.toiimg.com/thumb/resizemode-4,msid-87219270,imgsize-33856,width-800/87219270.jpg "Niti VC urges Tesla to make electric cars in India")
+
+
+[Niti VC urges Tesla to make electric cars in India](https://www.gadgetsnow.com/tech-news/niti-vc-urges-tesla-to-make-electric-cars-in-india/articleshow/87219270.cms)
+
+
+> Niti Aayog Vice Chairman Rajiv Kumar on Thursday urged US-based Tesla to manufacture its iconic electric vehicles in India, while assuring the company that it will get the tax benefits it wants from the government. Speaking at a virtual conference of the Public Affairs Forum of India (PAFI), Kumar further said Tesla should not just ship its products into India as this will not create jobs in the country. "Come and manufacture in India, you (Tesla) will get all the tax benefits you want," he said while replying to a question about the company's demand related to tax concessions.
+
+
