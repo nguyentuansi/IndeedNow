@@ -19325,3 +19325,53 @@
 > By: FE Online | October 23, 2021 5:26 PMMusk, who is highly active on Twitter, and regularly responds to mentions, immediately grabbed the opportunity to poke fun at Apple. (File)Tesla CEO Elon Musk threw shade at Apple over its new near Rs 2,000 cleaning cloth for Apple devices on Friday, responding to a tweet by the Cupertino-based tech giant's CEO Tim Cook.Cook had earlier tweeted about Apple opening a new store in Istanbul.'We're glad to be a part of this vibrant community and we can't wait to welcome customers to this spectacular new space,' Cook tweeted.
 
 
+***
+![Will Sensex, Nifty bounce back this week?](https://www.thehindubusinessline.com/portfolio/technical-analysis/n6hx87/article37140362.ece/ALTERNATES/LANDSCAPE_615/po24cgniftysmall "Will Sensex, Nifty bounce back this week?")
+
+
+[Will Sensex, Nifty bounce back this week?](https://www.thehindubusinessline.com/portfolio/technical-analysis/will-sensex-nifty-bounce-back-this-week/article37140365.ece)
+
+
+> The Indian equity market began the week on a strong note with a wide gap-up open on Monday. Sensex and Nifty opened the week over 500 and 150 points, respectively. But the indices failed to sustain the momentum and did not get a strong follow-through buying. As such, the Sensex and Nifty fell back from their respective new all-time highs of 62,245 and 18,604.Although the fall last week has not disrupted the charts, caution is required as the indices are now poised near their crucial support levels.
+
+
+***
+![Eating disorders and social media prove difficult to untangle](https://images.indianexpress.com/2021/10/SOCIAL-MEDIA-EATING-DISORDERS_1200_nyt.jpg "Eating disorders and social media prove difficult to untangle")
+
+
+[Eating disorders and social media prove difficult to untangle](https://www.nytimes.com/2021/10/22/technology/social-media-eating-disorders.html)
+
+
+> Written by Kate Conger, Kellen Browning and Erin Woo A 27-year-old YouTube star, prodded by her millions of followers with concerns about her health. A 19-year-old TikTok creator who features posts about being skinny. Teen communities throughout the internet, cleverly naming and culling their discussions to avoid detection. They present a nearly intractable problem for social media companies under pressure to do something about material on their services that many people believe is causing harm, particularly to teenagers.
+
+
+***
+![Oppo's first foldable phone could be out next month](https://cdn.mos.cms.futurecdn.net/neovfcbtejyvcZ6Ngt7FuT-1200-80.jpg "Oppo's first foldable phone could be out next month")
+
+
+[Oppo's first foldable phone could be out next month](https://www.techradar.com/news/oppos-first-foldable-phone-could-be-out-next-month)
+
+
+> The rollable Oppo X 2021. (Image credit: Future) While we've recently seen some weird and wonderful prototype devices from Oppo that play around with what's possible from a smartphone screen, we're still waiting for a true foldable from the company – a wait that could soon be over.According to a tip from a Chinese source (via GSMArena), the foldable handset is going to break cover next month, November 2021. It's been rather quiet on the foldable phone front recently, so a brand new device would certainly be welcome.
+
+
+***
+![What we learned this week in the trial of Elizabeth Holmes](https://cdn.cnn.com/cnnnext/dam/assets/210922171514-restricted-elizabeth-holmes-09-22-2021-super-tease.jpg "What we learned this week in the trial of Elizabeth Holmes")
+
+
+[What we learned this week in the trial of Elizabeth Holmes](https://www.cnn.com/2021/10/23/tech/elizabeth-holmes-trial-recap/index.html)
+
+
+> Things sped up by the end of the three-day court week, with jurors hearing from two witnesses for the government: a former Pfizer scientist, Dr. Shane Weber, who recommended the company not partner with Theranos, and a Theranos investor, Bryan Tolbert.For the first time, jurors heard Holmes' infamous voice, as the government played audio clips of a December 2013 investor call. Tolbert testified that he recorded the call before his firm decided to invest another $5 million in the company after first investing $2 million in 2006.
+
+
+***
+![What do I need to read to be a great at CSS?](https://www.baldurbjarnason.com//icon.png "What do I need to read to be a great at CSS?")
+
+
+[What do I need to read to be a great at CSS?](https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/)
+
+
+> For the first time in my life, I felt the urge to comment on Reddit. Over on r/webdev, this here question popped up: Do you think reading css articles like css-tricks & smashing magazine is waste of time? This question isn't really about the two sites mentioned but about the frustration we all feel with the endless treadmill of keeping up with what's happening in web dev. Especially, since a lot of it feels so unproductive: Articles on features that haven't shipped yet and may never ship everywhere.
+
+
