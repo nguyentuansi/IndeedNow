@@ -19425,3 +19425,50 @@
 > Wild West Exodus (WWX) is a skirmish wargame from Warcradle Studios, set in their Dystopian Age setting, which also includes the nautical wargame, Dystopian Wars, and the upcoming Lost World Exodus (LWE). WWX is set in the Weird West and features different factions of gunslingers, outlaws, the law, Native Americans, monstrous creations, and a race of aliens known as the Watchers. In this preview, we'll have a look at the third edition of Wild West Exodus, the box contents for the Showdown At Retribution Starter Set, and a detailed look at the units it contains.
 
 
+***
+![This Week in Apps: Google Play lowers commissions, Apple drops anti-steering rule, Pinterest clones TikTok, Android 12 arrives – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753 "This Week in Apps: Google Play lowers commissions, Apple drops anti-steering rule, Pinterest clones TikTok, Android 12 arrives – TechCrunch")
+
+
+[This Week in Apps: Google Play lowers commissions, Apple drops anti-steering rule, Pinterest clones TikTok, Android 12 arrives – TechCrunch](https://techcrunch.com/2021/10/23/this-week-in-apps-google-play-lowers-commissions-apple-drops-anti-steering-rule-pinterest-clones-tiktok-android-12-arrives/)
+
+
+> Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consumer spend in 2020. Consumers last year also spent 3.5 trillion minutes using apps on Android devices alone. And in the U.S., app usage surged ahead of the time spent watching live TV. Currently, the average American watches 3.7 hours of live TV per day, but now spends four hours per day on their mobile devices.
+
+
+***
+![MagSafe has simplified the way we use iPhone in the car](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/best-magsafe-car-mounts.jpeg "MagSafe has simplified the way we use iPhone in the car")
+
+
+[MagSafe has simplified the way we use iPhone in the car](https://www.imore.com/best-magsafe-car-mounts)
+
+
+> Best MagSafe car mounts iMore 2021 IPhone's car mounts are nothing new, but past solutions have always been a bit cumbersome, from spring-loaded designs to ugly adhesive magnets. MagSafe has transformed the idea into something much more streamlined and simplified. Now, the best MagSafe car mounts make driving with your iPhone 12 effortless. Remember that these mounts will only work well with a naked 12-series iPhone or a MagSafe-compatible case. Staff Pick The only MagSafe car mount you'll find on the Apple website, the Belkin Car Vent Mount PRO seems to be the choice of iPhone manufacturers, and we can't argue.
+
+
+***
+![Please someone create a programming language called CuneiMorph. I think it'd be the coolest name. It's like a futuristic version of humanity's oldest written language: Cuneiform.](https://external-preview.redd.it/kXl5dAfc5Fp9KKJuPCPMD_33a4EaqWWtLfZ1E-7QSjg.jpg?auto=webp&s=812b97784bb5d0e7925c86103b46299bce3bfb1d "Please someone create a programming language called CuneiMorph. I think it'd be the coolest name. It's like a futuristic version of humanity's oldest written language: Cuneiform.")
+
+
+[Please someone create a programming language called CuneiMorph. I think it'd be the coolest name. It's like a futuristic version of humanity's oldest written language: Cuneiform.](https://www.reddit.com/r/programming/comments/qe9s78/please_someone_create_a_programming_language/)
+
+
+> Ok, I'll get started right away. Will report back in about 5 years.
+
+
+***
+[Making an interface for non-programmers](https://www.reddit.com/r/Python/comments/qe9qmv/making_an_interface_for_nonprogrammers/)
+
+
+> Dear coders!I have been interested in helping my father's business (in the printing industry). The aim was to generate invoices in PDF with very little input from the user, hopefully they can do invoices within a few dozens seconds (using the FPDF python library). However the employies aren't programmers and I was looking for a minimalist interface that would help them generate them with details such as : Name of the company, address, date, description, price, taxes...So I initially thought I would convert the python script into an .
+
+
+***
+![iPad Pro as a second monitor](https://images.macrumors.com/social/?t=2318880&v=6 "iPad Pro as a second monitor")
+
+
+[iPad Pro as a second monitor](https://forums.macrumors.com/threads/ipad-pro-as-a-second-monitor-best-practices.2318880/)
+
+
+> May 3, 2011 717 395 Bali, Cambridge, Sydney.. anywhere. Hey, I often use my iPad Pro 11" as a second monitor during extended work sessions. What's the best practice here? Cable vs WiFi? Power cable vs battery? I seem to have three options... Plug straight into my Macbook Pro M1 via USB-C to Lightning Plug into a charger via USB-C and use WiFi Leave it unplugged using its own battery and WiFi. Performance seems identical over USB-C and WiFi. My main concern is whether leaving it plugged in constantly will affect the battery.
+
+
