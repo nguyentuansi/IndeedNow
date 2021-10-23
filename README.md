@@ -18990,3 +18990,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+[Internal docs show Facebook staff faulted the company for failing to thwart the proliferation of Groups, like Stop The Steal, that fomented January 6 violence (Michael Riley/Bloomberg)](http://www.techmeme.com/211022/p28#a211022p28)
+
+
+> Michael Riley / Bloomberg: Internal docs show Facebook staff faulted the company for failing to thwart the proliferation of Groups, like Stop The Steal, that fomented January 6 violence — Employees and the company's own research highlight ways Facebook failed to police its platforms ahead of the siege on the Capitol
+
+
+***
+![GitHub Copilot Quietly Releases Support for JetBrains](https://external-preview.redd.it/TdS3c7f2M_xRJ5eh0QZUx6dENgcXg09lAbuCbbzYFUo.jpg?auto=webp&s=f9170eee64cd3baf3064096735ea2d1b797be37d "GitHub Copilot Quietly Releases Support for JetBrains")
+
+
+[GitHub Copilot Quietly Releases Support for JetBrains](https://www.reddit.com/r/programming/comments/qdtr05/github_copilot_quietly_releases_support_for/)
+
+
+> Correct me if I'm wrong about the release being quiet, but I know I was early because I was the 396th download!
+
+
+***
+![Climate change disrupting natural cycles at drier Lake Tahoe](https://s.abcnews.com/images/Technology/WireAP_69cf1ba1bd2a4742897723c989220b87_16x9_992.jpg "Climate change disrupting natural cycles at drier Lake Tahoe")
+
+
+[Climate change disrupting natural cycles at drier Lake Tahoe](https://abcnews.go.com/Technology/wireStory/climate-change-disrupting-natural-cycles-drier-lake-tahoe-80736099)
+
+
+> TAHOE CITY, Calif. -- Drought fueled by climate change has dropped Lake Tahoe below its natural rim and halted flows into the Truckee River, an historically cyclical event that's occurring sooner and more often than it used to — raising fears about what might be in store for the famed alpine lake.Scientists are concerned that the growing frequency of low-water extremes may become the new normal.They point to seasonal shifts in weather patterns causing precipitation that historically falls as snow to arrive in the form of rain atop the Sierra along the California-Nevada state line.
+
+
+***
+![[Newsship] 'Children and adolescents' are told to get their own vaccine... What do you do?](https://static.sbsdlab.co.kr/image/thumb_default.png "[Newsship] 'Children and adolescents' are told to get their own vaccine... What do you do?")
+
+
+[[Newsship] 'Children and adolescents' are told to get their own vaccine... What do you do?](https://www.tellerreport.com/tech/2021-10-23-[newsship]--children-and-adolescents--are-told-to-get-their-own-vaccine----what-do-you-do-.BJbM_Z0lIY.html)
+
+
+> Parents from all over the world took to the streets. The goal is not to force children to be vaccinated against the coronavirus. It cannot be said that the majority of parents are against vaccines, but it is clear that vaccinating children and adolescents is different from how they view adult immunizations. Parents from all over the world took to the streets.The goal is not to force children to be vaccinated against the coronavirus.It cannot be said that the majority of parents are against vaccines, but it is clear that vaccinating children and adolescents is different from how they view adult immunizations.
+
+
+***
+![Top 10 Best Android Customization Apps – 2021](https://www.androidheadlines.com/wp-content/uploads/2019/03/AH-Nova-Launcher-new-logo-1.jpg "Top 10 Best Android Customization Apps – 2021")
+
+
+[Top 10 Best Android Customization Apps – 2021](https://www.androidheadlines.com/best-android-customization-apps)
+
+
+> One of the main advantages of Android, over iOS, is its customization. Android was always quite strong in that regard, and it's still going strong. There are so many aspects of it you can change, even without root. The easiest way to do it, aside from utilizing pre-installed options, is to install third-party applications. In this article, we'll make some suggestions for the best customization apps for your Android smartphone.Do note that these are only some of our choices, there are so many other great customization apps in the Play Store, that we can't even scratch the surface.
+
+
