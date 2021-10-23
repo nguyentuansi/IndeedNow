@@ -19084,3 +19084,53 @@
 > New internal documents provided by former Facebook employee-turned-whistleblower Frances Haugen provide a rare glimpse into how the company, after years under the microscope for the policing of its platform, appears to have simply stumbled into the Jan. 6 riot
 
 
+***
+![Google Meet hosts can keep participants' microphones, cameras off](https://bsmedia.business-standard.com/_media/bs/img/article/2020-05/12/full/1589270355-7015.jpg "Google Meet hosts can keep participants' microphones, cameras off")
+
+
+[Google Meet hosts can keep participants' microphones, cameras off](https://www.business-standard.com/article/technology/google-meet-hosts-can-keep-participants-microphones-cameras-off-121102300150_1.html)
+
+
+> Google Meet is rolling out a new feature that would let the meeting host to turn off participants' microphones or cameras. The feature has been rolled for Google Workspace for Education Fundamentals and Education Plus domains. It will launch to additional Google Workspace editions in the coming months. "The meeting host is the only user in a meeting who can use the 'mute all' feature. Once all participants are muted, the meeting host cannot unmute them. However, users will be able to unmute themselves as needed.
+
+
+***
+![Epic Games opposes Apple's effort to pause antitrust trial orders](https://www.reuters.com/resizer/bJpsfUpq9E0O120Trv8dDocHERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5MMQYJP6E5JEPJUM27D5U2HSUM.jpg "Epic Games opposes Apple's effort to pause antitrust trial orders")
+
+
+[Epic Games opposes Apple's effort to pause antitrust trial orders](https://www.reuters.com/technology/epic-games-opposes-apples-effort-pause-antitrust-trial-orders-2021-10-23/)
+
+
+> Smartphone with Epic Games logo is seen in front of Apple logo in this illustration taken, May 2, 2021. REUTERS/Dado Ruvic/Illustration/File PhotoOct 22 (Reuters) - "Fortnite" creator Epic Games on Friday opposed Apple Inc's (AAPL.O) efforts to put on hold orders handed down in an antitrust trial as a potentially lengthy appeals process plays out.U.S. district Judge Yvonne Gonzalez Rogers in September struck down some of the iPhone maker's App Store rules, including a prohibition on developers directing their users to other payment options beside Apple's in-app payment system, in a partial win for Epic and other app makers.
+
+
+***
+![Tech giants' earnings may be another test for markets at new highs](https://media2.malaymail.com/resize_cache/uploads/articles/2014-07/facebook_stocks-seo.jpg "Tech giants' earnings may be another test for markets at new highs")
+
+
+[Tech giants' earnings may be another test for markets at new highs](https://www.malaymail.com/news/money/2021/10/23/tech-giants-earnings-may-be-another-test-for-markets-at-new-highs/2015379)
+
+
+> Apple Inc, Microsoft Corp, Google parent Alphabet Inc, Amazon.com Inc and Facebook Inc are all set to report earnings next week. Collectively, those five names account for over 22 per cent of the weighting in the S&P 500, giving their stock moves enormous sway over the broader index. — Reuters pic NEW YORK, Oct 22 — Investors are homing in on a flood of earnings reports from Wall Street's tech and Internet giants, as the high-growth stocks that have led markets higher for years face pressures from regulation, supply-chain snags and rising Treasury yields.
+
+
+***
+![Metaverse: A peep into the virtual universe Facebook, Microsoft envision](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/fbmeta1200-sixteen_nine.jpg "Metaverse: A peep into the virtual universe Facebook, Microsoft envision")
+
+
+[Metaverse: A peep into the virtual universe Facebook, Microsoft envision](https://www.businesstoday.in/technology/top-story/story/metaverse-a-peep-into-the-virtual-universe-facebook-microsoft-envision-310196-2021-10-23)
+
+
+> With the Mark Zuckerberg-led company planning to rebrand its family of firms around the metaverse and announcing plans to hire 10,000 engineers in the European Union (EU) to build the platform, here's a look at what this buzzword really means: What is the metaverse? Touted as the next generation of the Internet by some tech giants, it is a collection of virtual worlds on the Internet with their own currencies and purposes where people can exist in their digital avatars and interact with each other, similar to an online video game.
+
+
+***
+![Internal alarm, public shrugs: Facebook's employees dissect its election role](https://images.moneycontrol.com/static-mcnews/2021/01/Facebook_reuters_j29-770x433.jpg "Internal alarm, public shrugs: Facebook's employees dissect its election role")
+
+
+[Internal alarm, public shrugs: Facebook's employees dissect its election role](https://www.moneycontrol.com/news/technology/internal-alarm-public-shrugs-facebooks-employees-dissect-its-election-role-7615911.html)
+
+
+> Sixteen months before last November's presidential election, a researcher at Facebook described an alarming development. She was getting content about the conspiracy theory QAnon within a week of opening an experimental account, she wrote in an internal report. On Nov. 5, two days after the election, another Facebook employee posted a message alerting colleagues that comments with 'combustible election misinformation' were visible below many posts. Four days after that, a company data scientist wrote in a note to his co-workers that 10% of all U.
+
+
