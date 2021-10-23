@@ -19375,3 +19375,53 @@
 > For the first time in my life, I felt the urge to comment on Reddit. Over on r/webdev, this here question popped up: Do you think reading css articles like css-tricks & smashing magazine is waste of time? This question isn't really about the two sites mentioned but about the frustration we all feel with the endless treadmill of keeping up with what's happening in web dev. Especially, since a lot of it feels so unproductive: Articles on features that haven't shipped yet and may never ship everywhere.
 
 
+***
+![Olive Launches New Universal Marketplace, Providing Industry Pioneers with a Key Distribution Channel. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/internet-of-healthcare.jpg "Olive Launches New Universal Marketplace, Providing Industry Pioneers with a Key Distribution Channel. » Brinkwire")
+
+
+[Olive Launches New Universal Marketplace, Providing Industry Pioneers with a Key Distribution Channel. » Brinkwire](https://en.brinkwire.com/technology/olive-launches-new-universal-marketplace-providing-industry-pioneers-with-a-key-distribution-channel/)
+
+
+> Olive, the automation company creating the Internet of Healthcare, announced the launch of The Library, a healthcare solution marketplace providing developers, independent software vendors (ISVs), system integrators (SIs), and other partners an important distribution channel to list, sell, and grow as part of Olive's ecosystem. Olive is investing in a strategy that combines its own experience with the experience of an ecosystem of industry pioneers to change healthcare by launching The Library fundamentally.
+
+
+***
+![In the XDR Evaluation, Trend Micro received the highest score in the current offering category. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/trend-micro.jpg "In the XDR Evaluation, Trend Micro received the highest score in the current offering category. » Brinkwire")
+
+
+[In the XDR Evaluation, Trend Micro received the highest score in the current offering category. » Brinkwire](https://en.brinkwire.com/technology/in-the-xdr-evaluation-trend-micro-received-the-highest-score-in-the-current-offering-category/)
+
+
+> Trend Micro Incorporated (TYO: 4704; TSE: 4704), a global cybersecurity leader, has announced the latest industry recognition for its Trend Micro Vision One platform. Trend Micro was named one of only two Leaders in The Forrester New WaveTM: Extended Detection and Response (XDR) Providers, Q4 2021 report, and scored highest in the current offering category in the latest report of its kind by a major analyst firm. 'Their capabilities of truly providing a full view of the environment from the security stack is unusual and impactful,' said customers cited in the report.
+
+
+***
+![Before a call connects to a professional, a new feature on Google Pixel phones displays the projected wait time. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Before a call connects to a professional, a new feature on Google Pixel phones displays the projected wait time. » Brinkwire")
+
+
+[Before a call connects to a professional, a new feature on Google Pixel phones displays the projected wait time. » Brinkwire](https://en.brinkwire.com/technology/before-a-call-connects-to-a-professional-a-new-feature-on-google-pixel-phones-displays-the-projected-wait-time/)
+
+
+> Before a call connects to a professional, a new feature on Google Pixel phones displays the projected wait time. (Picture courtesy of Pixabay/PhotoMIX-Company) Google Pixel 6 is a smartphone from Google. The Google Pixel 6 is the company's first smartphone to use a Tensor processor. It's possible thanks to the phone's hardware and software working together. Tensor chip in the Google Pixel 6 The Tensor processor in the Google Pixel 6 enables a smartphone app that handles voice and visuals. It's fantastic that Google Assistant can improve the photos you took with your phone and handle all customer service conversations.
+
+
+***
+![Poll: Which Apple announcement was your favorite this week?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/apple-macbook-pro-2021-14-16-inch.jpg "Poll: Which Apple announcement was your favorite this week?")
+
+
+[Poll: Which Apple announcement was your favorite this week?](https://www.imore.com/poll-which-apple-announcement-was-your-favorite-week)
+
+
+> Source: Apple This week was a bumper week for Apple. Following the announcement of the iPhone 13, iPad, and iPad mini 6 last month, Apple treated us on Monday to a brand new MacBook Pro (2021), new AirPods 3, new HomePod mini colors and even a new cleaning cloth. So which announcement was your favorite this week? Take our poll below and let us know, but first a recap. Apple Music Before any hardware, Apple treated us to the news that it was adding a swathe of new playlists to Apple Music, all in preparation for the rollout of its new voice-only Apple Music tier.
+
+
+***
+![Wild West Exodus Showdown At Retribution Starter Set Preview](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/WWX%20Showdown%20at%20Retribution%20%281%29.jpg?itok=V5AtTBUM "Wild West Exodus Showdown At Retribution Starter Set Preview")
+
+
+[Wild West Exodus Showdown At Retribution Starter Set Preview](https://techraptor.net/tabletop/previews/wild-west-exodus-showdown-at-retribution-starter-set-preview)
+
+
+> Wild West Exodus (WWX) is a skirmish wargame from Warcradle Studios, set in their Dystopian Age setting, which also includes the nautical wargame, Dystopian Wars, and the upcoming Lost World Exodus (LWE). WWX is set in the Weird West and features different factions of gunslingers, outlaws, the law, Native Americans, monstrous creations, and a race of aliens known as the Watchers. In this preview, we'll have a look at the third edition of Wild West Exodus, the box contents for the Showdown At Retribution Starter Set, and a detailed look at the units it contains.
+
+
