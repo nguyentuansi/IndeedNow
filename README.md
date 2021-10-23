@@ -19522,3 +19522,53 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
 
 
+***
+![Investors Are Using AI Analysis to Tell When CEOs Are Lying](https://media.breitbart.com/media/2021/03/mark-zuckerberg-lima-ap.jpg "Investors Are Using AI Analysis to Tell When CEOs Are Lying")
+
+
+[Investors Are Using AI Analysis to Tell When CEOs Are Lying](https://www.breitbart.com/tech/2021/10/23/investors-are-using-ai-analysis-to-tell-when-ceos-are-lying/)
+
+
+> According to a recent report, investors are beginning to harness AI and natural language processing (NLP) to analyze the voices of corporate CEOs and management teams to determine whether they're being truthful or not. Reuters reports that investors are beginning to utilize artificial intelligence to learn and analyze the language patterns of company managers and CEOs in order to determine if they're being truthful. This technique has already been used by investors as an additional data point when making investment decisions.
+
+
+***
+![Twitter Locks Out Jim Banks After Saying 'First Female Four-Star Officer Gets Taken by a Man'](https://media.breitbart.com/media/2021/10/GettyImages-1329920893-e1635010803703.jpg "Twitter Locks Out Jim Banks After Saying 'First Female Four-Star Officer Gets Taken by a Man'")
+
+
+[Twitter Locks Out Jim Banks After Saying 'First Female Four-Star Officer Gets Taken by a Man'](https://www.breitbart.com/tech/2021/10/23/twitter-locks-out-rep-jim-banks-after-saying-first-female-four-star-officer-gets-taken-by-a-man/)
+
+
+> Twitter has reportedly locked Rep. Jim Banks (R-IN) out of his account after he commented that the â€œtitle of firstÂ female four-star officer gets taken by a manâ€� in reaction toÂ transgender assistant secretary of health for the HHS Rachel Levine being sworn in as a four-star admiral. The Biden administrationâ€™s Department of Health and Human Services (HHS) announcedÂ Tuesday that Levine had been named the first openly transgender four-star officer across any of the eight uniformed services of the United States.
+
+
+***
+![Tech industry needs tighter regulation admits Facebook executive](https://i.inews.co.uk/content/uploads/2021/10/PRI_203736574.jpg "Tech industry needs tighter regulation admits Facebook executive")
+
+
+[Tech industry needs tighter regulation admits Facebook executive](https://inews.co.uk/news/tech-industry-needs-tighter-regulation-admits-facebook-executive-1265616)
+
+
+> The tech industry 'needs regulation' because it should not be left to make the rules on issues including harmful online content on its own, a Facebook executive has said.Monika Bickert, Facebook's vice president of content policy, believes that 'government regulation can establish standards all companies should meet'.Her comments come as tech giants and some of their staunchest critics head to Parliament this week to talk about new rules to deal with harmful content online.Culture Secretary Nadine Dorries has said that online hate has 'poisoned public life' and the Government had been spurred to re-examine its upcoming Online Safety Bill in the light of the death of MP Sir David Amess in his constituency last week.
+
+
+***
+![Racing is more fun when you go up against a buddy in Mario Kart Live](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/mario-kart-live-mario-and-luigi-facing-forward.jpg "Racing is more fun when you go up against a buddy in Mario Kart Live")
+
+
+[Racing is more fun when you go up against a buddy in Mario Kart Live](https://www.imore.com/mario-kart-live-home-circuit-multiplayer-guide-how-set-multiplayer)
+
+
+> Source: Rebecca Spear / iMore Mario Kart Live: Home Circuit is a fun AR racing game that allows you to compete with Bowser Jr. and the other Koopalings. If you happen to have multiple karts and multiple Nintendo Switch consoles handy, you can also host a race with other players. After all, racing is more fun when you've got real people to compete against. Having issues starting a multiplayer race? I'm here to help. Here's everything you need to know about Mario Kart Live multiplayer, as well as how to set up a multiplayer Mario Kart Live race.
+
+
+***
+![.NET Hot Reload Support via CLI Restored](https://external-preview.redd.it/9_UczTtVFkEZUWqSrF3nWVZRv0IwWnD-mYtLehAEiB0.jpg?auto=webp&s=75470f27a2dacccf816b0445e8aee0159a44f947 ".NET Hot Reload Support via CLI Restored")
+
+
+[.NET Hot Reload Support via CLI Restored](https://www.reddit.com/r/programming/comments/qedted/net_hot_reload_support_via_cli_restored/)
+
+
+> With the runway getting short for the .NET 6 release and Visual Studio 2022, we chose to focus on bringing Hot Reload to VS2022 first.Nice that they restored it but their decision to focus on VS2022 is still questionable
+
+
