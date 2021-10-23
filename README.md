@@ -19228,3 +19228,53 @@
 > A UK based space company claims to have created the world's most eco-friendly rocket that'll be running on biofuel instead of conventional rocket fuel, and result in reduced emissions. OrbexAlso Read: 21-Ton Chinese Rocket Is Falling To Earth, No One Knows Where It's CrashingThe rocket is dubbed Orbex Prime and the rocket is also reusable, not leaving any debris on land or the ocean or even in the atmosphere. Based on a new study published in the University of Exeter, a single Orbex Prime launch would produce 86 percent less emissions than a similar-sized rocket launch, and 96 percent less than one launched horizontally from a carrier aircraft.
 
 
+***
+![New leak says MacBook Air due biggest-ever upgrade in 2022](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/11/macbook-air-m1-29.jpg "New leak says MacBook Air due biggest-ever upgrade in 2022")
+
+
+[New leak says MacBook Air due biggest-ever upgrade in 2022](https://www.imore.com/new-leak-says-macbook-air-due-biggest-ever-upgrade-2022)
+
+
+> Source: Daniel Bader / Android Central Bloomberg' Mark Gurman says that a new MacBook Air (2022) will feature the biggest design change since 2010 and a new M2 Apple silicon chip. In his latest Power On newsletter Gurman says that Apple is done with events for 2021 following the iPhone 13 event in September and Monday's event, which saw the release of the new MacBook Pro (2021) and the M1 Pro and M1 Max Apple silicon chips, as well as AirPods 3. Gurman says a new MacBook Air is coming in around six to eight months and will feature the M2 Apple silicon chip.
+
+
+***
+![Recover deleted and overwritten files with RecoverPy 1.4.0](https://external-preview.redd.it/XEAT9a6Va0TqmrF9GQeJ3ze4MPrxfONAZCwWAMWoQa8.jpg?auto=webp&s=c954a59a1dbbdff6b683c0fb8269816587634af9 "Recover deleted and overwritten files with RecoverPy 1.4.0")
+
+
+[Recover deleted and overwritten files with RecoverPy 1.4.0](https://www.reddit.com/r/Python/comments/qe1ovu/recover_deleted_and_overwritten_files_with/)
+
+
+> Hi!I just released version 1.4.0 of RecoverPy. I remember talking about it on Reddit when it was in pre-1.0 and there has been a ton of corrections and new features since then.-> Repo: https://github.com/PabloLec/RecoverPyWhat is it ?One day, a few months ago, I was working on a long ass Python automation script. I don't remember what it was exactly, nothing fancy, but I know I worked on it all afternoon. Didn't do any VC, didn't do any backup, finally it was working. At some point I meant to type: script.
+
+
+***
+![Why wait until Black Friday to buy the Google Pixel 6 when pre-orders are so good?](https://cdn.mos.cms.futurecdn.net/rELjtU5XgwqjWdKE2w8kZc-1200-80.jpg "Why wait until Black Friday to buy the Google Pixel 6 when pre-orders are so good?")
+
+
+[Why wait until Black Friday to buy the Google Pixel 6 when pre-orders are so good?](https://www.techradar.com/news/why-wait-until-black-friday-to-buy-the-google-pixel-6-when-pre-orders-are-so-good)
+
+
+> (Image credit: Future) Black Friday has a bit of a reputation for being one of the best times to get a new piece of tech. With massive discounts across everything under the sun, it would make sense to wait until Black Friday to buy the new Google Pixel 6, right?Well, we're not so sure. Unlike some other brands (we're looking at you Apple), the Google Pixel 6 has a pretty exceptional offer if you decide to pre-order either the regular model or the larger Google Pixel 6 Pro device.From a large range of retailers, you will receive a free pair of Bose 700 - a pair of headphones with an RRP of £349 and that currently sell for £300.
+
+
+***
+![Samsung Galaxy S22 chipset leak reveals the key specs of the upcoming flagships](https://cdn.mos.cms.futurecdn.net/SnJ72nVXsmjzSemomJpjZd-1200-80.jpg "Samsung Galaxy S22 chipset leak reveals the key specs of the upcoming flagships")
+
+
+[Samsung Galaxy S22 chipset leak reveals the key specs of the upcoming flagships](https://www.techradar.com/news/samsung-galaxy-s22-chipset-leak-reveals-the-key-specs-of-the-upcoming-flagships)
+
+
+> The Samsung Galaxy S21 Plus from 2021. (Image credit: Future) If everything goes to schedule, the Samsung Galaxy S22 series of phones should be the first flagships we see in 2022 – and a new leak gives us some clues as to the chipsets that are going to be powering these phones.Reputable tipster Max Weinbach says that all three models – the Galaxy S22, the Galaxy S22 Plus and the Galaxy S22 Ultra – are going to come with either the Qualcomm Snapdragon 898 or the Samsung Exynos 2200 chipset, depending on where in the world they're being sold.
+
+
+***
+![Your new iPhone 13 doesn't really need a case, if you ask me](https://www.cnet.com/a/img/VqrYcwz2poDq72izYLdwxw_mBqo=/1200x630/2020/11/17/07324060-ccbc-4c20-abb3-ef7fa50b49bc/casely-iphone-12-cases.jpg "Your new iPhone 13 doesn't really need a case, if you ask me")
+
+
+[Your new iPhone 13 doesn't really need a case, if you ask me](https://www.cnet.com/tech/mobile/your-new-iphone-13-doesnt-really-need-a-case-if-you-ask-me/)
+
+
+> There are a lot of pretty iPhone cases out there. But the iPhone is pretty on its own, too. Sarah Tew/CNET Ever since I experienced the anguish of back-to-back iPhone screen-shattering accidents, I've been firmly pro-case."It's just safer and more pragmatic," I told myself after my iPhone 7, and later my iPhone 8, had their screens irreparably cracked following accidental drops. "Why risk spending another thousand bucks on an iPhone?"But all it took was a single, seemingly mundane moment to alter my perspective: when I slipped off the case to extract the SIM card from my iPhone 12 Pro Max after months of leaving it swaddled in rubber.
+
+
