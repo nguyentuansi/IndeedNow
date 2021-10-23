@@ -19181,3 +19181,50 @@
 > Niti Aayog Vice Chairman Rajiv Kumar on Thursday urged US-based Tesla to manufacture its iconic electric vehicles in India, while assuring the company that it will get the tax benefits it wants from the government. Speaking at a virtual conference of the Public Affairs Forum of India (PAFI), Kumar further said Tesla should not just ship its products into India as this will not create jobs in the country. "Come and manufacture in India, you (Tesla) will get all the tax benefits you want," he said while replying to a question about the company's demand related to tax concessions.
 
 
+***
+![With coercion and black boxes, Russia installs a digital iron curtain](https://images.indianexpress.com/2021/10/RUSSIA-INTERNET-CENSORSHIP-2-1.jpg "With coercion and black boxes, Russia installs a digital iron curtain")
+
+
+[With coercion and black boxes, Russia installs a digital iron curtain](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html)
+
+
+> Written by Adam Satariano and Paul Mozur Russia's boldest moves to censor the internet began in the most mundane of ways — with a series of bureaucratic emails and forms. The messages, sent by Russia's powerful internet regulator, demanded technical details — like traffic numbers, equipment specifications and connection speeds — from companies that provide internet and telecommunications services across the country. Then the black boxes arrived. The telecom companies had no choice but to step aside as government-approved technicians installed the equipment alongside their own computer systems and servers.
+
+
+***
+![Google Meet will allow hosts to disable participants' mics and cameras](https://images.indianexpress.com/2021/10/a11bf5f6-6ed9-4ef3-82bf-555f241f3260.jpg "Google Meet will allow hosts to disable participants' mics and cameras")
+
+
+[Google Meet will allow hosts to disable participants' mics and cameras](https://indianexpress.com/article/technology/tech-news-technology/google-meet-will-allow-hosts-to-disable-participants-mics-and-cameras-7586272/)
+
+
+> Google Meet is getting a new feature, which will allow hosts to maintain the decorum of the room. The hosts will soon be able to disable other participants' microphones or cameras, and participants won't get the option to enable them until the host decides to do that. The company made this announcement in a Workspace blog. Google has introduced this feature with an aim to prevent rowdy participants from interrupting the meetings. The new microphone and camera lock feature will be switched off by default, according to Google.
+
+
+***
+[What sorts of lesser known operators and statements are there?](https://www.reddit.com/r/Python/comments/qe09fe/what_sorts_of_lesser_known_operators_and/)
+
+
+> I just came across a comment talking about a walrus operator, I had never heard of it and I was wondering what other sorts of discrete operators and statements(think match statements) that you wouldn't come across in daily programming exist?
+
+
+***
+![Cellular Watch owners, how much do you use it?](https://images.macrumors.com/social/?t=2318790&v=6 "Cellular Watch owners, how much do you use it?")
+
+
+[Cellular Watch owners, how much do you use it?](https://forums.macrumors.com/threads/cellular-watch-owners-how-much-do-you-use-it.2318790/)
+
+
+> Nov 22, 2015 48 128 The Netherlands After waiting for a long time, the Cellular Watch will be available from nov 5th in the Netherlands. I'm still doubting to get the cellular, because I'm not sure how handy it is and the carrier that i'm with will charge €5 extra a month so you can use the Watch on their cellular network. I'm curious how much you guys use it in the countries that have cellular for a long time.
+
+
+***
+![This Environmentally Friendly Rocket Uses Biofuel, Produces 96% Less Emissions](https://im.indiatimes.in/content/2021/Oct/Facebook-Image_617283d810d76.jpg "This Environmentally Friendly Rocket Uses Biofuel, Produces 96% Less Emissions")
+
+
+[This Environmentally Friendly Rocket Uses Biofuel, Produces 96% Less Emissions](https://www.indiatimes.com/technology/news/environmentally-friendly-rocket-biofuel-552302.html)
+
+
+> A UK based space company claims to have created the world's most eco-friendly rocket that'll be running on biofuel instead of conventional rocket fuel, and result in reduced emissions. OrbexAlso Read: 21-Ton Chinese Rocket Is Falling To Earth, No One Knows Where It's CrashingThe rocket is dubbed Orbex Prime and the rocket is also reusable, not leaving any debris on land or the ocean or even in the atmosphere. Based on a new study published in the University of Exeter, a single Orbex Prime launch would produce 86 percent less emissions than a similar-sized rocket launch, and 96 percent less than one launched horizontally from a carrier aircraft.
+
+
