@@ -19953,3 +19953,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Transcript: Gita Gopinath on "Face the Nation," October 24, 2021](https://cbsnews2.cbsistatic.com/hub/i/r/2021/10/24/4e349ba4-5a4b-4cb7-9083-6337bdfe216c/thumbnail/1200x630/b5554c72e8ee7d5218dfeb25a7d51ba9/1024-ftn-gopinath-2.jpg "Transcript: Gita Gopinath on "Face the Nation," October 24, 2021")
+
+
+[Transcript: Gita Gopinath on "Face the Nation," October 24, 2021](https://www.cbsnews.com/news/transcript-gita-gopinath-on-face-the-nation-october-24-2021/)
+
+
+> October 24, 2021 / 12:00 PM / CBS News The following is a transcript of an interview with Gita Gopinath, Chief Economist of the International Monetary Fund, that aired Sunday, October 24 2021, on "Face the Nation." MARGARET BRENNAN: We turn now to the COVID impact on the global economy, we're joined by Gita Gopinath, Chief Economist at the International Monetary Fund and the first woman to hold that role. Gita, good morning to you. IMF CHIEF ECONOMIST GITA GOPINATH: Hi, MARGARET.  MARGARET BRENNAN: Let's start with a-- GOPINATH: --pleasure to join you.
+
+
+***
+![Politics, media and the lost art of big-tent building](https://thehill.com/sites/default/files/media_capitolhill_041521gn_lead.jpg "Politics, media and the lost art of big-tent building")
+
+
+[Politics, media and the lost art of big-tent building](https://thehill.com/opinion/technology/578193-politics-media-and-the-lost-art-of-big-tent-building)
+
+
+> Mainstream news media share an urgent dilemma with America's political parties: It seems nobody knows how to build a big tent anymore.The latest Pew Research study shows yet another decline in media trust, now half of what it was in 2016. The main culprit this time is a widening partisan gap: While most Democrats have at least some confidence in national news outlets, very few Republicans do.Donald TrumpDonald TrumpGrant Woods, longtime friend of McCain and former Arizona AG, dies at 67 Super PACs release ad campaign hitting Vance over past comments on Trump Glasgow summit raises stakes for Biden deal MORE's 'fake news' mantra has a lot to do with that.
+
+
+***
+![Buy an iPhone 13 or iPhone 12? How to decide what's best for you](https://www.cnet.com/a/img/BWfh-sZLyqI2HC74LvDQ4kMr8-w=/1200x630/2021/04/24/f11794a3-f8d2-4007-8a20-3f7d4e35193b/123-iphone-12-purple-2021.jpg "Buy an iPhone 13 or iPhone 12? How to decide what's best for you")
+
+
+[Buy an iPhone 13 or iPhone 12? How to decide what's best for you](https://www.cnet.com/tech/mobile/buy-an-iphone-13-or-iphone-12-how-to-decide-whats-best-for-you/)
+
+
+> Enlarge Image","modalTemplate":"{{content}}","setContentOnInit":false}>The iPhone 12 is an excellent phone, but should you still buy it now that the iPhone 13 is here? Sarah Tew/CNET Apple's new and improved iPhone is here. The iPhone 13, which debuted at the company's September event, runs on iOS 15 and features a bunch of camera upgrades, longer battery life, upped storage and a new A15 Bionic processor. But now that the iPhone 13 is available for purchase, does it still make sense to buy an iPhone 12? The iPhone 13 mirrors last year's iPhone 12 lineup with standard, Mini, Pro and Pro Max versions.
+
+
+***
+![MSI gaming laptop with RTX 3060 now just $849 in early Best Buy Black Friday deal](https://cdn.mos.cms.futurecdn.net/iuzJ6eE2x892ksmELcgyhN-1200-80.jpg "MSI gaming laptop with RTX 3060 now just $849 in early Best Buy Black Friday deal")
+
+
+[MSI gaming laptop with RTX 3060 now just $849 in early Best Buy Black Friday deal](https://www.techradar.com/news/msi-gaming-laptop-with-rtx-3060-now-just-dollar849-in-early-best-buy-black-friday-deal)
+
+
+> (Image credit: Future) This weekend's gaming laptop deals at Best Buy are offering up what's easily the cheapest RTX 3060-equipped machine right now - this MSI GF65 for $849.99 (was $1,099.99).We haven't seen a machine with this powerful GPU go for this low in a long, long time. In fact, it's quite possibly the cheapest RTX 3060 gaming laptop deal we've seen in the past six months or so.Having such a high-end graphics card, alongside an Intel Core i5-10500H processor, 8GB of RAM, and 512GB SSD is going to give you great performance for 1080p gaming here.
+
+
+***
+![Multi-charger block that can handle MacBook Pro + iPad + iPhone + other devices?](https://images.macrumors.com/social/?t=2319002&v=6 "Multi-charger block that can handle MacBook Pro + iPad + iPhone + other devices?")
+
+
+[Multi-charger block that can handle MacBook Pro + iPad + iPhone + other devices?](https://forums.macrumors.com/threads/multi-charger-block-that-can-handle-macbook-pro-ipad-iphone-other-devices.2319002/)
+
+
+> Do you guys use multi charger blocks for your MacBook pro's? I am looking to simplify my desk clutter and buy something that can charge at least some of the devices I own, including a MacBook Pro, an iPad Pro 4th gen, iPhone, and other miscellaneous devices (AirPods, various headphones, etc). Any recommendations?
+
+
