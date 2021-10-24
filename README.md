@@ -19913,3 +19913,43 @@
 > Birkdale, near Liverpool, saw two car thefts in one night last week, with Merseyside Police sending a warning to drivers about the safety of their vehicles. Both cars had keyless entry and ignition, with the thieves stealing the car without the need of their fobs. Thieves use devices such as relay boxes to scan and bounce the signal off the fob from inside the house to the device. This device is then used to unlock the car and start the engine, allowing the criminals to drive off. Sefton Police posted on the Facebook page, saying: 'We are investigating the thefts of two cars that took place overnight in Birkdale Thursday 14 to Friday 15 October.
 
 
+***
+![An Apple Watch Series 7 teardown from iFixit tries to explain the delayed release](https://helios-i.mashable.com/imagery/videos/01H1WweVo1er1ThxWnyCUy6/hero-image.fill.size_1200x675.v1635083410.jpg "An Apple Watch Series 7 teardown from iFixit tries to explain the delayed release")
+
+
+[An Apple Watch Series 7 teardown from iFixit tries to explain the delayed release](https://mashable.com/video/ifixit-apple-watch-series-7-teardown)
+
+
+> The folks at iFixit took apart the Apple Watch Series 7 for their usual parts analysis – but this time, they also brought in Tobias Harrison-Noonan, former Apple engineer, to explain exactly why the release of the latest Apple Watch faced a delay.While the watch has now made its debut, the team zooms in on the small changes in the display, a slightly bigger battery, and a missing diagnostic port to get to the bottom of it all.
+
+
+***
+![What is Norton Family and what does it do?](https://cdn.mos.cms.futurecdn.net/j5saKUnN6y72LqxrBonJQT-1200-80.jpg "What is Norton Family and what does it do?")
+
+
+[What is Norton Family and what does it do?](https://www.techradar.com/news/what-is-norton-family-and-what-does-it-do)
+
+
+> Norton Family is a parental control suite from the respected antivirus vendor, which covers PCs and mobiles. It's an in-depth product that seeks to ensure that your kids stay safe online.But how does it do that, and exactly what features are included?In this article, we're going to provide a breakdown of the functionality included with Norton Family and what devices it supports, before discussing how good this suite is for parental control duties.What is Norton Family?Norton Family is a parental control suite that is designed to keep your children safe when they're online – or offline for that matter (more on that later).
+
+
+***
+![Kenan Thompson's perfect 'SNL' game show returns to waste Oscar Isaac's time](https://helios-i.mashable.com/imagery/videos/075Obiu4B7iXtpUFkYPgmqP/hero-image.fill.size_1200x675.v1635082507.png "Kenan Thompson's perfect 'SNL' game show returns to waste Oscar Isaac's time")
+
+
+[Kenan Thompson's perfect 'SNL' game show returns to waste Oscar Isaac's time](https://mashable.com/video/snl-whats-up-with-that-jason-sudeikis-oscar-isaac)
+
+
+> No one wastes the time of famous people better than Kenan Thompson.The occasion of Jason Sudeikis hosting Saturday Night Live created an opportunity to bring back the classic sketch, "What's Up With That?" The Kenan Thompson-hosted... game show? Celebrity interview show? Honestly, it's not clear what the purpose is, because the whole schtick here is an overly long and frequently recurring theme song — which admittedly slaps — that steps on everyone's time. There are three constants in this sketch after Thompson: Jason Sudeikis as a tracksuit-wearing dancer, Fred Armisen as the sax-wailing Giuseppe, and Bill Hader playing Fleetwood Mac's Lindsey Buckingham.
+
+
+***
+![The Complete Intro to Machine Learning with Python](https://external-preview.redd.it/JNv55mkKLWnVE45a7oIrx3YnbC1aPtgZn-BHgAUsSkI.jpg?auto=webp&s=f0446d747ff5e911c12996ffa2e7b278d0f32655 "The Complete Intro to Machine Learning with Python")
+
+
+[The Complete Intro to Machine Learning with Python](https://www.reddit.com/r/Python/comments/qes98d/the_complete_intro_to_machine_learning_with/)
+
+
+> no comments yetBe the first to share what you think!
+
+
