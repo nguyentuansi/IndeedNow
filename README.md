@@ -20097,3 +20097,40 @@
 > By: Sudhir Chowdhary | October 25, 2021 1:15 AMThe build quality is simply superb, the phone retails for Rs 1,49,900 and needless to say, it sets new standards in all aspects—design, display, camera technology or battery life.Why are people so crazy about Apple? Why is it that there is always a mad scramble to purchase the latest iPhone in town? Is it merely an aspirational device or there is more to it? A chance meeting with a young Indian American—currently on a visit to India and the proud owner of the latest iPhone 13 Pro—brought out some straight facts to explain the popularity of this Cupertino, California-based firm.
 
 
+***
+![Hey everyone! I just posted a video on my YouTube Channel on how to perform Simple Linear Regression in Python. If you're getting started with machine learning or just want to learn more about Python, feel free to check it out and let me know what you think. Thanks in advance, hope this helps!](https://external-preview.redd.it/-lO_BIF60LAYroOnBRKpck9a-joLEq5AjRMRSLrpE28.jpg?auto=webp&s=258ed8a7300c0880adc02be87fce5e4fff4cc1eb "Hey everyone! I just posted a video on my YouTube Channel on how to perform Simple Linear Regression in Python. If you're getting started with machine learning or just want to learn more about Python, feel free to check it out and let me know what you think. Thanks in advance, hope this helps!")
+
+
+[Hey everyone! I just posted a video on my YouTube Channel on how to perform Simple Linear Regression in Python. If you're getting started with machine learning or just want to learn more about Python, feel free to check it out and let me know what you think. Thanks in advance, hope this helps!](https://www.reddit.com/r/Python/comments/qf24z9/hey_everyone_i_just_posted_a_video_on_my_youtube/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Samsung Galaxy Tab S8 price, news, leaks and when the Android tablets could launch](https://cdn.mos.cms.futurecdn.net/YzfftyaGWkGdhfKzt4pGP3-1200-80.jpg "Samsung Galaxy Tab S8 price, news, leaks and when the Android tablets could launch")
+
+
+[Samsung Galaxy Tab S8 price, news, leaks and when the Android tablets could launch](https://www.techradar.com/news/samsung-galaxy-tab-s8)
+
+
+> We're hearing a slow and steady drip of Samsung Galaxy Tab S8 leaks, and it's starting to sound like one of the best Android tablets we've seen - or we could say 'they' are, as it sounds like there will be a Plus and Ultra version of the slate too.Initially, we thought the new family of slates would launch in August - that would be a year after the Samsung Galaxy Tab S7 and Galaxy Tab S7 Plus dropped - but with that month in the rear-view mirror, our sights are set on January.These tablets could be rivals to Apple's top iPad Pro slates, especially the Plus and Ultra versions with their giant screens and top processors - that is, if the rumors are correct about all the specs.
+
+
+***
+![Practical SOLID in Golang: Single Responsibility Principle](https://external-preview.redd.it/I5Sk3h60HsuhElMtUdiiwMWJXdhkLzaig3l1k2ArBGs.jpg?auto=webp&s=9ca524b69580aa94ab47a24867b02ce921263a8c "Practical SOLID in Golang: Single Responsibility Principle")
+
+
+[Practical SOLID in Golang: Single Responsibility Principle](https://www.reddit.com/r/programming/comments/qf1ybw/practical_solid_in_golang_single_responsibility/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[DigitalBridge](https://itwire.com/freelancer-sp-720/tag/DigitalBridge.html)
+
+
+> At 30% premium to carrying value, the sale accelerates monetisation of Superloop's Asia Pacific assets, provides flexibility for Superloop to continue investing in growth.
+
+
