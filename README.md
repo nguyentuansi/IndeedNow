@@ -19672,3 +19672,47 @@
 > Which one has the better display and better display only: Better display ipad air 4 or pro 11 inch 2nd gen? Just care about the display. Want around 10-11 inch, so no to the mini and the 12.9''. Could possibly go up to the pro 11 3rd gen if the display is a lot better, or down to a newer regular ipad if the display is comparable. Mar 5, 2008 1,964 1,042 I HUNGER Surely the Pro as it has 600 nits display v 500 and it has promotion whereas the Air doesn't.
 
 
+***
+![New Hyperoptic broadband bundles make BT, Sky, and Virgin appear to be exorbitantly priced. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/hyperoptic-deals-1510003.jpg "New Hyperoptic broadband bundles make BT, Sky, and Virgin appear to be exorbitantly priced. » Brinkwire")
+
+
+[New Hyperoptic broadband bundles make BT, Sky, and Virgin appear to be exorbitantly priced. » Brinkwire](https://en.brinkwire.com/technology/new-hyperoptic-broadband-bundles-make-bt-sky-and-virgin-appear-to-be-exorbitantly-priced/)
+
+
+> We all want faster and better broadband but upgrading your speeds isn't always cheap. Switching to ultrafast speeds from Internet Service Providers (ISPs) such as BT, Sky and Virgin can end up costing in excess of £45 per month. Hyperoptic has a huge 40% off sale with broadband starting from just £20. The supplier even has its speedy 1Gbps broadband for just £35 – saving £25 a month off the usual price. For comparison, BT and Virgin Media both charge around £60 a month for downloads at this incredible speed! For example, Sky's 500Mbps speeds currently cost £45 and you'll pay £44.
+
+
+***
+![Tech Q&A: Making it harder for spammers to learn more about you](https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg "Tech Q&A: Making it harder for spammers to learn more about you")
+
+
+[Tech Q&A: Making it harder for spammers to learn more about you](https://www.unionleader.com/nh/lifestyles/tech-q-a-making-it-harder-for-spammers-to-learn-more-about-you/article_aa1ffe1c-f7c5-5026-801f-bc22c5a3520b.html)
+
+
+> Contact Steve Alexander at steve.j.alexander@gmail.com. Please include a full name, city and phone number.
+
+
+***
+[Microsoft reverses its decision to remove code editing feature Hot Reload in its upcoming .NET 6 SDK, after backlash from the open source community (Tom Warren/The Verge)](http://www.techmeme.com/211023/p10#a211023p10)
+
+
+> Tom Warren / The Verge: Microsoft reverses its decision to remove code editing feature Hot Reload in its upcoming .NET 6 SDK, after backlash from the open source community — .NET 6 will now include Hot Reload across multiple platforms — Microsoft is reversing a decision to remove a key feature …
+
+
+***
+![Hey I just started C and HTML and I'm curious what's up with sits that won't let back button to google search results? Ex:](https://external-preview.redd.it/e0Nn-tQN8V80k-1tFyxa0prUk4RBcp1RvyEmbkYH_Rc.jpg?auto=webp&s=6623cc8ab22e9c06351030d0034185c5e4faefd1 "Hey I just started C and HTML and I'm curious what's up with sits that won't let back button to google search results? Ex:")
+
+
+[Hey I just started C and HTML and I'm curious what's up with sits that won't let back button to google search results? Ex:](https://www.reddit.com/r/programming/comments/qek7tf/hey_i_just_started_c_and_html_and_im_curious/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[CISA warns of malware discovered in npm package UAParser.js, which has 6M-7M downloads weekly, that installs a password stealer and a crypto miner (Catalin Cimpanu/The Record)](http://www.techmeme.com/211023/p9#a211023p9)
+
+
+> Catalin Cimpanu / The Record: CISA warns of malware discovered in npm package UAParser.js, which has 6M-7M downloads weekly, that installs a password stealer and a crypto miner — A massively popular JavaScript library (npm package) was hacked today and modified with malicious code that downloaded and installed …
+
+
