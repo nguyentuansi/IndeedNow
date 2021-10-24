@@ -19622,3 +19622,53 @@
 > The Tesla FSD Beta Feature will only give one warning to drivers for improper use of the autonomous driving function before it gets removed permanently for a system. The strict measure is to ensure that everyone would be responsible for driving their vehicles, and Elon Musk confirms this by backing up what the email holds. Tesla FSD Beta: Feature Can be Removed, Elon Musk Confirms In a tweet by Teslarati, it talked about the chance of having the Tesla FSD Beta feature removed for the irresponsible users that the clean energy company would detect when using the autonomous function.
 
 
+***
+![WhatsApp working on new 'Undo' feature for Status updates](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/10/24/1002210-938569-whatsapp-reuters.jpg "WhatsApp working on new 'Undo' feature for Status updates")
+
+
+[WhatsApp working on new 'Undo' feature for Status updates](https://www.dnaindia.com/technology/report-whatsapp-working-on-new-undo-feature-for-status-updates-2916783)
+
+
+> Updated: Oct 24, 2021, 07:26 AM IST WhatsApp is currently working on several new updates, along with this, the instant messaging platform is also reportedly working on a new feature that will allow the users to quickly delete their statuses if they were uploaded by mistakes or need more editing before final uploading.  As per reports, the feature is currently in the testing phase and can be rolled out soon. With this feature, users will be quickly able to delete their Facebook-owned WhatsApp statuses if they were sent by mistake.
+
+
+***
+![Tokyo 2020 Olympics suffered half a billion attempted cyberattacks](https://external-preview.redd.it/Vfzeuv_UL19UwCh9CQcAiPdiGer17-vbij0kTos3umw.jpg?auto=webp&s=393bc1680cbfd583694387e1efc5cb6f3deac637 "Tokyo 2020 Olympics suffered half a billion attempted cyberattacks")
+
+
+[Tokyo 2020 Olympics suffered half a billion attempted cyberattacks](https://www.reddit.com/r/technology/comments/qei4be/tokyo_2020_olympics_suffered_half_a_billion/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Tech Men place 2nd, Women 4th at GLIAC Cross Country Championships](https://gray-wluc-prod.cdn.arcpublishing.com/resizer/ugIoRjFuEoXkow_-xl_NW1yRei4=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/53MPJZ62DZOMHCDL2EJ3YZQGQU.jpg "Tech Men place 2nd, Women 4th at GLIAC Cross Country Championships")
+
+
+[Tech Men place 2nd, Women 4th at GLIAC Cross Country Championships](https://www.uppermichiganssource.com/2021/10/24/tech-men-place-2nd-women-4th-gliac-cross-country-championships/)
+
+
+> UNIVERSITY CENTER, Mich. (WLUC) - Michigan Tech men's cross country finished second, while women's cross country came in fourth Saturday at the Great Lakes Intercollegiate Athletic Conference Championships, hosted by Saginaw Valley State University. Fighting through extremely soggy course conditions, Clayton Sayen cracked the top-10 for the fourth time this season with a fourth place 8K time of 25:04.1 (5:02 pace).Sam Lange crossed 13th in 25:57.8, followed by teammates Luke Moore (21st - 26:31.7), Nick Niemi (23rd - 26:36.
+
+
+***
+![Facebook dithered in curbing divisive user content in India](https://media.npr.org/assets/img/2021/10/23/ap21296811853222_wide-35efdcc896360d411b447a677723e0042f96e53a.jpg?s=1400 "Facebook dithered in curbing divisive user content in India")
+
+
+[Facebook dithered in curbing divisive user content in India](https://www.npr.org/2021/10/23/1048746697/facebook-misinformation-india)
+
+
+> Facebook lacked enough local language moderators to stop misinformation that at times led to real-world violence, according to leaked documents obtained by The Associated Press. Matt Rourke/AP NEW DELHI, India — Facebook in India has been selective in curbing hate speech, misinformation and inflammatory posts, particularly anti-Muslim content, according to leaked documents obtained by The Associated Press, even as its own employees cast doubt over the company's motivations and interests.
+
+
+***
+![Better display: iPad pro 2nd 11'' or Air 4th?](https://images.macrumors.com/social/?t=2318929&v=6 "Better display: iPad pro 2nd 11'' or Air 4th?")
+
+
+[Better display: iPad pro 2nd 11'' or Air 4th?](https://forums.macrumors.com/threads/better-display-ipad-pro-2nd-11-or-air-4th.2318929/)
+
+
+> Which one has the better display and better display only: Better display ipad air 4 or pro 11 inch 2nd gen? Just care about the display. Want around 10-11 inch, so no to the mini and the 12.9''. Could possibly go up to the pro 11 3rd gen if the display is a lot better, or down to a newer regular ipad if the display is comparable. Mar 5, 2008 1,964 1,042 I HUNGER Surely the Pro as it has 600 nits display v 500 and it has promotion whereas the Air doesn't.
+
+
