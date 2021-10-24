@@ -19863,3 +19863,53 @@
 > (Image credit: Mirco Lazzari gp/Getty Images) We saw a glimpse of the old Marc Marquez a few weeks back in the US, but even at his talisman circuit the Spaniard could only put four seconds between him and wunderkind Quartararo. With just three races to go, all the Frenchman needs to do is beat Bagnaia by three points to secure the title – can he do it? Read on as we explain how to watch all the Italian Grand Prix action online – no matter where you are – with our MotoGP live stream guide.While it's looking like we'll have a dry track on Sunday, practice and qualifying is going to be a drizzly affair.
 
 
+***
+![JioPhone Next specifications have surfaced online ahead of the launch](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/Screenshot_2021-09-15_at_12.36-647x363.jpeg?KSCGtMYhQ0EqZnHRn6OjL5KMYKtZd7rL "JioPhone Next specifications have surfaced online ahead of the launch")
+
+
+[JioPhone Next specifications have surfaced online ahead of the launch](https://www.indiatoday.in/technology/news/story/jiophone-next-specifications-have-surfaced-online-ahead-of-the-launch-1868782-2021-10-24)
+
+
+> Reliance Jio has partnered with Google to develop a smartphone that will bring 4G to the lives of low-income consumers in India. The first Jio Phone was a feature phone with a 4G internet connection. The JioPhone 2 got a minor upgrade in the form of a physical QWERTY keyboard. The yet-to-be-released third generation, however, seems to be a proper smartphone. It looks like the Jio Phone Next will launch in India soon, as the smartphone has reportedly been spotted on a Google Play console listing. The listing reveals some of the key specifications of the upcoming Jio Phone.
+
+
+***
+![Why the GTA Trilogy Definitive Edition matters, even if the games are old as hell](https://cdn.mos.cms.futurecdn.net/8xVZ7ydwYRz5Sx6wbzc5km-1200-80.jpg "Why the GTA Trilogy Definitive Edition matters, even if the games are old as hell")
+
+
+[Why the GTA Trilogy Definitive Edition matters, even if the games are old as hell](https://www.techradar.com/news/why-the-gta-trilogy-definitive-edition-matters-even-if-the-games-are-old-as-hell)
+
+
+> No offense to the remaining games on 2021's release calendar, but the thing I'm most excited about playing on Christmas Day this year is Grand Theft Auto: Vice City. Rockstar Games' Definitive Edition will offer quality-of-life improvements to all three of GTA's PS2 entries, including better aiming and reworked visuals, while retaining the original essence of GTA 3, Vice City and San Andreas. The art style is drawing some mixed responses, and I think they've got Tommy Vercetti's hair all wrong, but generally my first reaction is positive.
+
+
+***
+![A six-figure side hustle with no overhead? Research is the key](https://ca-times.brightspotcdn.com/dims4/default/3101d14/2147483647/strip/true/crop/8500x4463+0+602/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8e%2F41%2F21db808e4a649fc6dea3dd28b3a7%2Fgettyimages-1283140952.jpg "A six-figure side hustle with no overhead? Research is the key")
+
+
+[A six-figure side hustle with no overhead? Research is the key](https://sidehusl.com/low-cost-six-figure-side-hustle/)
+
+
+> Rachel Jones, a 33-year-old mother of two, was feeling burned out trying to balance her career with small children. Looking to make money without sacrificing too much time with the kids, she launched a low-cost, six-figure side hustle selling 'printables' on Etsy.What are printables? They're any product, from coloring pages to budget worksheets, that you create for customers to download. What makes this business so uniquely attractive is that outside of your time, there are no production or shipping costs.
+
+
+***
+![I spent a day with the DJI Ronin 4D – and it took my filmmaking to the next level](https://cdn.mos.cms.futurecdn.net/MW5wTTcy5RTPcZiTAJPDJe-1200-80.jpg "I spent a day with the DJI Ronin 4D – and it took my filmmaking to the next level")
+
+
+[I spent a day with the DJI Ronin 4D – and it took my filmmaking to the next level](https://www.techradar.com/news/i-spent-a-day-with-the-dji-ronin-4d-and-it-took-my-filmmaking-to-the-next-level)
+
+
+> Over the past 15 years, DJI has become rather good at helping filmmakers shoot beautifully steady video. It's the world's biggest drone brand, and also makes useful little cameras like the DJI Pocket 2. But what it hasn't yet done is take on the likes of Canon or Sony in ground-based professional cameras. You saw it coming though, didn't you? The Ronin 4D is where this changes.The Ronin 4D is mid-range professional cinema camera, with an interchangeable lens system and 4-axis stabilization, that has the oft-used 'game-changer' label written all over it.
+
+
+***
+!['Be aware': Following car thefts, a driver warning was issued: 'All vehicles can be a target.' » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/keyless-car-theft-drivers-warned-1509450.jpg "'Be aware': Following car thefts, a driver warning was issued: 'All vehicles can be a target.' » Brinkwire")
+
+
+['Be aware': Following car thefts, a driver warning was issued: 'All vehicles can be a target.' » Brinkwire](https://en.brinkwire.com/technology/be-aware-following-car-thefts-a-driver-warning-was-issued-all-vehicles-can-be-a-target/)
+
+
+> Birkdale, near Liverpool, saw two car thefts in one night last week, with Merseyside Police sending a warning to drivers about the safety of their vehicles. Both cars had keyless entry and ignition, with the thieves stealing the car without the need of their fobs. Thieves use devices such as relay boxes to scan and bounce the signal off the fob from inside the house to the device. This device is then used to unlock the car and start the engine, allowing the criminals to drive off. Sefton Police posted on the Facebook page, saying: 'We are investigating the thefts of two cars that took place overnight in Birkdale Thursday 14 to Friday 15 October.
+
+
