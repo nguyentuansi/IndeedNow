@@ -19572,3 +19572,53 @@
 > With the runway getting short for the .NET 6 release and Visual Studio 2022, we chose to focus on bringing Hot Reload to VS2022 first.Nice that they restored it but their decision to focus on VS2022 is still questionable
 
 
+***
+![Help Otis save the day in new clip from Apple's 'Rolling with Otis'](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/get-rolling-with-otis-barn-door-rescue.jpg "Help Otis save the day in new clip from Apple's 'Rolling with Otis'")
+
+
+[Help Otis save the day in new clip from Apple's 'Rolling with Otis'](https://www.imore.com/help-barn-door-rescue-new-clip-apples-rolling-otis)
+
+
+> Source: Apple "Get Rolling With Otis" is streaming now on Apple TV+. The series follows Otis the Tractor and his life on the Long Hill Dairy Farm. Apple TV+ has released a new clip titled "Barn Door Rescue." "Get Rolling With Otis" premiered on Apple TV+ at the beginning of October and, today, the company released a new clip titled "Barn Door Rescue." You can check out the new clip below: When Daisy and her mom get stuck in the barn, Otis has to get creative to help them find a way out. Get Rolling with Otis is available now on Apple TV+.
+
+
+***
+![Quick guide to virtual environments](https://external-preview.redd.it/a5rirI5l76ZN269vWsb9TgtleTgrZNNDVPgiDLbNTF0.jpg?auto=webp&s=632afd58616da6a735f0e30d3208abfd4a54c18b "Quick guide to virtual environments")
+
+
+[Quick guide to virtual environments](https://www.reddit.com/r/Python/comments/qegxoa/quick_guide_to_virtual_environments/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Samsung has unveiled a revolutionary new Android phone, but it isn't what fans had hoped for. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/samsung-galaxy-zfold-3-bespoke-edition-1509268.jpg "Samsung has unveiled a revolutionary new Android phone, but it isn't what fans had hoped for. » Brinkwire")
+
+
+[Samsung has unveiled a revolutionary new Android phone, but it isn't what fans had hoped for. » Brinkwire](https://en.brinkwire.com/technology/samsung-has-unveiled-a-revolutionary-new-android-phone-but-it-isnt-what-fans-had-hoped-for/)
+
+
+> Samsung has just held another one of its famous Unpacked events with the Korean technology giant revealing a very unique Android device. Based on its latest Galaxy Z Flip3, this new 'Bespoke Edition' actually allows you to design your own phone before it's made and shipped out in the post. EE has the Galaxy Z Fip3 on sale from £57 per month which includes a Galaxy Watch thrown in for FREE. This contract includes free calls and texts plus 40GB of data. Three Mobile is offering the Galaxy Z Flip3 at half price for the first six months.
+
+
+***
+![Samsung has unveiled a revolutionary new Android phone, but it isn't what fans had hoped for.](https://en.brinkwire.com/nerede/uploads/2021/10/samsung-galaxy-zfold-3-bespoke-edition-1509268.jpg "Samsung has unveiled a revolutionary new Android phone, but it isn't what fans had hoped for.")
+
+
+[Samsung has unveiled a revolutionary new Android phone, but it isn't what fans had hoped for.](https://en.brinkwire.com/technology/samsung-has-unveiled-a-revolutionary-new-android-phone-but-it-isnt-what-fans-had-hoped-for/)
+
+
+> Samsung has just held another one of its famous Unpacked events with the Korean technology giant revealing a very unique Android device. Based on its latest Galaxy Z Flip3, this new 'Bespoke Edition' actually allows you to design your own phone before it's made and shipped out in the post. EE has the Galaxy Z Fip3 on sale from £57 per month which includes a Galaxy Watch thrown in for FREE. This contract includes free calls and texts plus 40GB of data. Three Mobile is offering the Galaxy Z Flip3 at half price for the first six months.
+
+
+***
+![Elon Musk confirms that Tesla FSD Beta drivers would only receive one warning for improper use before the company removes the feature. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/tesla-model-s-plaid-comes-with-new-hidden-features.png "Elon Musk confirms that Tesla FSD Beta drivers would only receive one warning for improper use before the company removes the feature. » Brinkwire")
+
+
+[Elon Musk confirms that Tesla FSD Beta drivers would only receive one warning for improper use before the company removes the feature. » Brinkwire](https://en.brinkwire.com/technology/elon-musk-confirms-that-tesla-fsd-beta-drivers-would-only-receive-one-warning-for-improper-use-before-the-company-removes-the-feature/)
+
+
+> The Tesla FSD Beta Feature will only give one warning to drivers for improper use of the autonomous driving function before it gets removed permanently for a system. The strict measure is to ensure that everyone would be responsible for driving their vehicles, and Elon Musk confirms this by backing up what the email holds. Tesla FSD Beta: Feature Can be Removed, Elon Musk Confirms In a tweet by Teslarati, it talked about the chance of having the Tesla FSD Beta feature removed for the irresponsible users that the clean energy company would detect when using the autonomous function.
+
+
