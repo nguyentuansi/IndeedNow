@@ -19766,3 +19766,53 @@
 > I just received my Hermes Apple Watch 7. When I press the side button (just underneath the digital crown), it makes a clicky sound as it is releasing and it's kinda annoying. Even if I don't press the button and just gently tap on it, it makes that sound. I don't recall my previous watches being like this. Is this normal for stainless steel/hermes models?
 
 
+***
+![Why Galaxy Bespoke should have you excited for the Samsung Galaxy S22](https://cdn.mos.cms.futurecdn.net/fWe5WRzAtXmk56nmqKxzqB-1200-80.jpeg "Why Galaxy Bespoke should have you excited for the Samsung Galaxy S22")
+
+
+[Why Galaxy Bespoke should have you excited for the Samsung Galaxy S22](https://www.techradar.com/news/why-galaxy-bespoke-should-have-you-excited-for-the-samsung-galaxy-s22)
+
+
+> At some point in the next few months Samsung is expected to unveil the Galaxy S22, its new series of flagship smartphones, but if the jump from the Galaxy S10 to S20 or S20 to S21 has taught us anything, it's that it probably won't be a huge upgrade.There could be a reason to care though, thanks to something unveiled recently. At an otherwise quiet Galaxy Unpacked event in October, Samsung launched a new service for its devices, called Galaxy Bespoke, and it could point towards the future of Samsung phones.
+
+
+***
+![Five features in Android 12 you should try right now](https://images.indianexpress.com/2021/10/J1.jpg "Five features in Android 12 you should try right now")
+
+
+[Five features in Android 12 you should try right now](https://indianexpress.com/article/technology/mobile-tabs/best-features-in-android-12-you-should-try-right-now-7587733/)
+
+
+> Android 12 is the biggest software update to ever come to smartphones – and there's a lot to get excited about. From the new Material You design language to a new Privacy Dashboard that tells the user what type of data was used, we've rounded up all the best new features of Android 12. Now that Android 12 is being rolled out, with the Pixel phones (Pixel 3 and up)  first to get it, here are the top features you need to know in the latest Android update. Android 12 introduces a feature called 'Material You' that will automatically customize icon colours, menu text around the phone and more, to match your wallpaper.
+
+
+***
+!['E10 fuel is a disaster,' say drivers, who complain that the new gasoline is generating engine light troubles. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/check-engine-lights-e10-petrol-fuel-changes-1509585.jpg "'E10 fuel is a disaster,' say drivers, who complain that the new gasoline is generating engine light troubles. » Brinkwire")
+
+
+['E10 fuel is a disaster,' say drivers, who complain that the new gasoline is generating engine light troubles. » Brinkwire](https://en.brinkwire.com/technology/e10-fuel-is-a-disaster-say-drivers-who-complain-that-the-new-gasoline-is-generating-engine-light-troubles/)
+
+
+> Since the new standard of unleaded petrol was launched in the UK in September, drivers have been noting issues with their cars. E10 was introduced to replace E5 and move the country towards the Government's climate goals. E10 is blended with up to 10 percent bioethanol and thus releases less emissions, believed to cut transport CO2 emissions by 750,000 tonnes per year. However, some drivers have reported that the fuel has caused them to experience issues with their engines, resulting in higher fees for the driver.
+
+
+***
+![Indians Spend 4.8 Hours On Smartphone Apps Daily, Among Highest In The World](https://im.indiatimes.in/content/2021/Feb/Smartphones-expensive-reuters_6017bf2e41a91.jpg "Indians Spend 4.8 Hours On Smartphone Apps Daily, Among Highest In The World")
+
+
+[Indians Spend 4.8 Hours On Smartphone Apps Daily, Among Highest In The World](https://www.indiatimes.com/technology/news/indians-smartphone-apps-time-spent-552296.html)
+
+
+> Have you been spending too much time on your smartphone devices? A new report has highlighted how much time Indians spend on smartphone applications on a daily basis.Quite the eye-opener, the report claims that Indians spend 4.8 hours every day on smartphone applications. Korea BizwireWhich countries use the most smartphone apps?The top nations in terms of app consumption on smartphones include Indonesia (5.5 hours), Brazil (5.4 hours), South Korea (5.0 hours), and India (4.8 hours).Other countries that were in the top 12 include Japan, Canada, United States, Russia, Turkey, Australia and the United Kingdom.
+
+
+***
+![Behind Russia, India Made Second-Most Content Removal Requests To Google In 2021](https://im.indiatimes.in/content/2021/Oct/google-censorship_6174de3b22003.jpeg "Behind Russia, India Made Second-Most Content Removal Requests To Google In 2021")
+
+
+[Behind Russia, India Made Second-Most Content Removal Requests To Google In 2021](https://www.indiatimes.com/technology/news/india-content-removal-requests-to-google-552313.html)
+
+
+> Google on Friday unveiled its "Content Removal Transparency Report" for the time period between January-June 2021 based on local requests by governments to take certain articles off the Google ecosystem.The latest report by Google includes content removal requests from governments and courts around the world, including India where Google has been facing heat over anti-trust issues and content moderation. ReutersWhere is India in terms of removal requests?According to Google, a global spike has been reported in removal requests for content, both in terms of volume and the number of individual items to be taken off.
+
+
