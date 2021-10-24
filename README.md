@@ -20050,3 +20050,50 @@
 > The iPhone 13 brings new features like better cameras and longer battery life, but it's missing some capabilities.  Apple's iPhone 13 and 13 Pro certainly have a lot to offer over their predecessors: longer battery life, better cameras and more base-level storage space. While we loved the new cameras -- especially Cinematic mode -- there are plenty of features we had hoped to see on the iPhone 13 lineup but are missing from Apple's latest devices. Many of these capabilities are available on Android competitors, while some can be found on other Apple products.
 
 
+***
+![Always at hand: The rise and rise of wearables](https://images.financialexpress.com/2021/10/1-391.jpg "Always at hand: The rise and rise of wearables")
+
+
+[Always at hand: The rise and rise of wearables](https://www.financialexpress.com/industry/technology/always-at-hand-the-rise-and-rise-of-wearables/2355095/)
+
+
+> Abhilash Panda PortraitBy Abhilash PandaAkhilesh is an average 19-year-old boy in a small town in Rajasthan, who like any other youngster, apart from studying, likes to meet his friends, play online games and share notes on Tiger Shroff's latest story or the Badshah hit that has caught the fancy of the nation. He and his friends share memes, watch back-to-back reels and have their own little party going. All this while using their smartphones paired with a set of earbuds.One trip to the outskirts of any metro city in India and you will notice a strange phenomenon—youngsters sitting at market squares—or how we know them as 'mandis' —excitedly comparing their days' experiences with their friends with almost all of them wearing some or the other wearable device.
+
+
+***
+![Need to delete, archive, or reinstall digital Switch games? We've got you!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/04/nintendo-switch-redownload-games-hero.jpg "Need to delete, archive, or reinstall digital Switch games? We've got you!")
+
+
+[Need to delete, archive, or reinstall digital Switch games? We've got you!](https://www.imore.com/how-delete-archive-and-reinstall-digital-games-nintendo-switch)
+
+
+> Source: Lory Gil / iMore If you haven't had a chance to invest in a microSD card to store all of your digitally downloaded games on your Nintendo Switch, you might have already filled up the internal storage with your eShop titles. If you need to make some room on your Switch for Mario Kart 8 Deluxe or any other digital title, you can delete games from your Switch. When you get more storage, or if you want to install a digital game back onto your Switch, you can re-download it from the eShop. How to delete a digital game from your Nintendo Switch You can delete a game and its Home screen icon shortcut, freeing up the most amount of space without also deleting game save data.
+
+
+***
+[Why It is Not a Good Idea to Have Everybody Become Software Engineers, But rather find a solution to improve the quality of current software engineers.](https://www.reddit.com/r/programming/comments/qezqls/why_it_is_not_a_good_idea_to_have_everybody/)
+
+
+> I think the problem with everyone becoming software engineers is that there are much more important professions that need to be filled so we can have a functioning society
+
+
+***
+![Sometimes a restart when selecting shut down](https://images.macrumors.com/social/?t=2319039&v=6 "Sometimes a restart when selecting shut down")
+
+
+[Sometimes a restart when selecting shut down](https://forums.macrumors.com/threads/sometimes-a-restart-when-selecting-shut-down.2319039/)
+
+
+> Oct 4, 2009 672 261 Germany I have a problem with the shut down. Sometimes when I select shut down the MP5,1 is making a restart, not a shut down. Looks like this problem is only present when log in to the account. When stay in login screen the shut down work without problems. Anyone who has this problem too? Software or Hardware problem?
+
+
+***
+![iPhone 13 Pro: The gold standard in smartphones](https://images.financialexpress.com/2021/10/1-389.jpg "iPhone 13 Pro: The gold standard in smartphones")
+
+
+[iPhone 13 Pro: The gold standard in smartphones](https://www.financialexpress.com/industry/technology/iphone-13-pro-the-gold-standard-in-smartphones/2355073/)
+
+
+> By: Sudhir Chowdhary | October 25, 2021 1:15 AMThe build quality is simply superb, the phone retails for Rs 1,49,900 and needless to say, it sets new standards in all aspects—design, display, camera technology or battery life.Why are people so crazy about Apple? Why is it that there is always a mad scramble to purchase the latest iPhone in town? Is it merely an aspirational device or there is more to it? A chance meeting with a young Indian American—currently on a visit to India and the proud owner of the latest iPhone 13 Pro—brought out some straight facts to explain the popularity of this Cupertino, California-based firm.
+
+
