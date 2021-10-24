@@ -20003,3 +20003,50 @@
 > Do you guys use multi charger blocks for your MacBook pro's? I am looking to simplify my desk clutter and buy something that can charge at least some of the devices I own, including a MacBook Pro, an iPad Pro 4th gen, iPhone, and other miscellaneous devices (AirPods, various headphones, etc). Any recommendations?
 
 
+***
+![Tesco website hit by hackers, leaving thousands of customers frustrated](https://external-preview.redd.it/0qD2BQCPRqwB2q7q6YvVcy8wt-2kEnbjpd16BQ5ZR9k.jpg?auto=webp&s=3f1b0c86df5ca3d19796bdde791c6dba064d7599 "Tesco website hit by hackers, leaving thousands of customers frustrated")
+
+
+[Tesco website hit by hackers, leaving thousands of customers frustrated](https://www.reddit.com/r/technology/comments/qexhkb/tesco_website_hit_by_hackers_leaving_thousands_of/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[Code for Sudoku Solver Python](https://www.reddit.com/r/Python/comments/qexcsv/code_for_sudoku_solver_python/)
+
+
+> board = [[7,8,0,4,0,0,1,2,0],[6,0,0,0,7,5,0,0,9],[0,0,0,6,0,1,0,7,8],[0,0,7,0,4,0,2,6,0],[0,0,1,0,5,0,9,3,0],[9,0,4,0,6,0,0,0,5],[0,7,0,3,0,0,0,1,2],[1,2,0,0,0,7,4,0,0],[0,4,9,2,0,6,0,0,7]]def solve(bo):find = find_empty(bo)if not find:return Trueelse:row, col = findfor i in range(1,10):if valid(bo, i, (row, col)):bo[row][col] = iif solve(bo):return Truebo[row][col] = 0return Falsedef valid(bo, num, pos):# Check rowfor i in range(len(bo[0])):if bo[pos[0]][i] == num and pos[1] != i:return False#
+
+
+***
+![Facebook's international misinformation problem is even bigger than it is in the U.S.](https://helios-i.mashable.com/imagery/articles/03DV0CqVYkcGvXgXRrpjrmi/hero-image.fill.size_1200x675.v1635097506.jpg "Facebook's international misinformation problem is even bigger than it is in the U.S.")
+
+
+[Facebook's international misinformation problem is even bigger than it is in the U.S.](https://mashable.com/article/facebook-misinformation-india-myanmar)
+
+
+> New information from internal Facebook documents reveals that the social media company's misinformation reaches much further than the United States. The documents, dubbed The Facebook Papers and gathered by whistleblower Frances Haugen, demonstrate Facebook's lack of resources and social awareness in countries like India, Myanmar, and Sri Lanka, leading to the spread of hate speech and radical political sentiment that could be linked to acts of violence and have an influence on national elections.
+
+
+***
+![Playing photos from MacBook Pro to Home TV with sound...](https://images.macrumors.com/social/?t=2319017&v=6 "Playing photos from MacBook Pro to Home TV with sound...")
+
+
+[Playing photos from MacBook Pro to Home TV with sound...](https://forums.macrumors.com/threads/playing-photos-from-macbook-pro-to-home-tv-with-sound.2319017/)
+
+
+> Mar 31, 2005 52 1 Spokane, WA Hi you guys...have a couple questions concerning (Playing photos/ iTunes music from MacBook Pro to Home TV)... I have been hooking it up to my Denon AVR and then into my TV but the sound from iTunes music on the MBP keeps breaking up. I am assuming that it is being streamed via "Airplay". Maybe a different hook-up? Avoid Airplay? Maybe I need to work around Airplay. Could this happen by hooking my MBP with its HDMI cord to the TV Directly? Would this enable me to n
+
+
+***
+![iPhone 13: These features should have been on Apple's new iPhone](https://www.cnet.com/a/img/Lxkx7sRunJMKP1JGnS7Hpr74sm4=/1200x630/2021/09/17/744383fc-1ade-43bd-a185-978e14880ece/097iphone-13-and-iphone-13-mini-apple-announcements-september-2021-cnet-091.png "iPhone 13: These features should have been on Apple's new iPhone")
+
+
+[iPhone 13: These features should have been on Apple's new iPhone](https://www.cnet.com/tech/mobile/iphone-13-these-features-should-have-been-on-apples-new-iphone/)
+
+
+> The iPhone 13 brings new features like better cameras and longer battery life, but it's missing some capabilities.  Apple's iPhone 13 and 13 Pro certainly have a lot to offer over their predecessors: longer battery life, better cameras and more base-level storage space. While we loved the new cameras -- especially Cinematic mode -- there are plenty of features we had hoped to see on the iPhone 13 lineup but are missing from Apple's latest devices. Many of these capabilities are available on Android competitors, while some can be found on other Apple products.
+
+
