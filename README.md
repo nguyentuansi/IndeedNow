@@ -19716,3 +19716,53 @@
 > Catalin Cimpanu / The Record: CISA warns of malware discovered in npm package UAParser.js, which has 6M-7M downloads weekly, that installs a password stealer and a crypto miner — A massively popular JavaScript library (npm package) was hacked today and modified with malicious code that downloaded and installed …
 
 
+***
+![[T] What is a REST API?](https://external-preview.redd.it/NfT3378Xy-bMzZSvk6rU6yLHHPMZHwdM-O0W21G3Ts0.jpg?auto=webp&s=8832c95cc5cfb68c426d3836cfd61a669fd1cde4 "[T] What is a REST API?")
+
+
+[[T] What is a REST API?](https://www.reddit.com/r/programming/comments/qelq0u/t_what_is_a_rest_api_design_principles_of_rest_api/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![T-Mobile delays shutdown of Sprint 3G network](https://external-preview.redd.it/2PwLzff0Zhlrukv08-LDpZ-jXUJBFiA-G38CgYNKSGQ.jpg?auto=webp&s=54e588497de36bda596acc81be9c97cd49168de1 "T-Mobile delays shutdown of Sprint 3G network")
+
+
+[T-Mobile delays shutdown of Sprint 3G network](https://www.reddit.com/r/technology/comments/qelpvn/tmobile_delays_shutdown_of_sprint_3g_network/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Top highlights from Xpeng's 2021 Tech Day – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-24-at-4.51.33-pm.png?w=710 "Top highlights from Xpeng's 2021 Tech Day – TechCrunch")
+
+
+[Top highlights from Xpeng's 2021 Tech Day – TechCrunch](https://techcrunch.com/2021/10/23/top-highlights-from-xpengs-2021-tech-day/)
+
+
+> Chinese smart electric vehicle startup Xpeng has announced a series of innovations that direct the company towards crafting the mobility ecosystem of the future.  'Our exploration of more efficient, safer, carbon-neutral mobility solutions goes far beyond just smart EVs, and is the cornerstone of our long-term competitive advantages,' said He Xiaopeng, chairman and CEO of XPeng, at the startup's 2021 Tech Day in Beijing on Sunday. 'We strive to implement cutting-edge mobility technologies in mass-production models for the benefit of our customers.
+
+
+***
+![‘WHEN I OPENED IT, I FROZE': PornHub hit with massive $800m lawsuit](https://content.api.news/v3/images/bin/fe6e2dd1f9778e5cda4e907afe40d58e "‘WHEN I OPENED IT, I FROZE': PornHub hit with massive $800m lawsuit")
+
+
+[‘WHEN I OPENED IT, I FROZE': PornHub hit with massive $800m lawsuit](https://www.news.com.au/technology/online/internet/woman-speaks-out-amid-800-million-classaction-lawsuit-against-pornhub/news-story/c8c8faa2caa874fa0b7f64f6539c6952)
+
+
+> A woman confronted with shocking footage of her own child sex abuse on website PornHub is leading a class-action lawsuit against its parent company.A class-action lawsuit being brought against MindGeek, the parent company of pornography website PornHub, is being led by a woman who claims footage of her own sexual abuse as a child was uploaded to the site.Referred to in the $US600 million ($A800 million) lawsuit only as Jane Doe, the woman was sexually abused by a family member for years. When he died, she thought she could finally move on from that horrific part of her life.
+
+
+***
+![Hermes watch 7 defective or normal?](https://images.macrumors.com/social/?t=2318945&v=6 "Hermes watch 7 defective or normal?")
+
+
+[Hermes watch 7 defective or normal?](https://forums.macrumors.com/threads/hermes-watch-7-defective-or-normal.2318945/)
+
+
+> I just received my Hermes Apple Watch 7. When I press the side button (just underneath the digital crown), it makes a clicky sound as it is releasing and it's kinda annoying. Even if I don't press the button and just gently tap on it, it makes that sound. I don't recall my previous watches being like this. Is this normal for stainless steel/hermes models?
+
+
