@@ -19816,3 +19816,50 @@
 > Google on Friday unveiled its "Content Removal Transparency Report" for the time period between January-June 2021 based on local requests by governments to take certain articles off the Google ecosystem.The latest report by Google includes content removal requests from governments and courts around the world, including India where Google has been facing heat over anti-trust issues and content moderation. ReutersWhere is India in terms of removal requests?According to Google, a global spike has been reported in removal requests for content, both in terms of volume and the number of individual items to be taken off.
 
 
+***
+![Make your iPhone's home screen more useful with a Smart Stack. Here's how](https://www.cnet.com/a/img/Zel0r1WKYY-eQ4Ki_lsup03zQDc=/1200x630/2020/09/22/823b9923-1707-46b8-bd42-54ec77daa6a9/smart-stack-ios-14.jpg "Make your iPhone's home screen more useful with a Smart Stack. Here's how")
+
+
+[Make your iPhone's home screen more useful with a Smart Stack. Here's how](https://www.cnet.com/tech/services-and-software/make-your-iphones-home-screen-more-useful-with-smart-stack-heres-how/)
+
+
+> The Smart Stack feature gives you the ability to pin widgets to your home screen. Jason Cipriani/CNET Even after the release of iOS 15, one of my favorite iPhone features is still the ability to put widgets on the home screen. If you haven't installed it yet, you should get your iPhone ready and download iOS 15. After that's done, get ready to have some fun customizing your home screen, taking advantage of a new pseudo app drawer called App Library and experimenting with widgets anywhere on your home screen.
+
+
+***
+![Free Microsoft Office: How to get Word, Excel and PowerPoint without spending money](https://www.cnet.com/a/img/Do5tjgd2pLwO8y0rrVodErPXfEU=/1200x630/2021/09/22/3dc8b9be-471b-4a21-811c-e0a826dfa0ce/microsoft-surface-pro-8-event-screenshots-039.png "Free Microsoft Office: How to get Word, Excel and PowerPoint without spending money")
+
+
+[Free Microsoft Office: How to get Word, Excel and PowerPoint without spending money](https://www.cnet.com/tech/services-and-software/free-microsoft-office-how-to-get-word-excel-and-powerpoint-without-spending-money/)
+
+
+> You can use Microsoft Office apps for free.  Josh Miller/CNET Whether it's for work or personal use, you'll probably need to access a Microsoft Word document, a PowerPoint presentation or other basic tools found in Microsoft 365 at some point. The service, formerly known as Office 365, offers more features than the average office software, but it can be costly. If you don't want to spend your money on Microsoft 365, don't stress. There are a few ways to get the service for free.  Microsoft's suite of productivity software -- which includes Word, Excel, PowerPoint, Outlook, Microsoft Teams, OneDrive and SharePoint -- typically costs $150 for a one-time installation (as Office 365), or between $70 and $100 every year for subscription service access across devices and family members (as Microsoft 365).
+
+
+***
+[Supercharge your NodeJS with Rust](https://www.reddit.com/r/programming/comments/qep1cm/supercharge_your_nodejs_with_rust/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![前端小哥玩HTML复选框上瘾：能画logo做视频还开源成JS库](https://static.cnbetacdn.com/article/2021/1024/ce4e319076ab465.gif "前端小哥玩HTML复选框上瘾：能画logo做视频还开源成JS库")
+
+
+[前端小哥玩HTML复选框上瘾：能画logo做视频还开源成JS库](http://www.cnbeta.com/articles/tech/1194289.htm)
+
+
+> 万万没想到，如此普通的复选框，竟也能玩出这种高度！例如点一下复选框，屏幕就像被投入石子的水面泛出波纹： 设定好初始状态，就可以开始展示《生命游戏》的演化过程；控制上下左右，还能还原经典游戏《贪吃蛇》；这就是一位做前端开发的小哥Bryan，近期在自己的网站上发布的有关checkbox（复选框）的新玩法。这个项目在Hacker News上引来了大量网友评论。高赞评论已经给小朋友安排得明明白白了~而面对一些诸如'为什么要用复选框，普通像素就可以达到这种效果'的质疑，也有人为Bryan说话：回到这件事本身，其实在去年早些时候，他就建了一个名为Checkboxland的JavaScript库。它可以将任何内容呈现为HTML复选框。还有更厉害的玩法讲真，刚才展示的复选框效果，只能说是'开胃菜'。不仅仅是简单的动画，日常拍下的照片，记录的生活vlog，一样可以成为'复选框'的素材。小哥本人也一度以为灵感耗尽，但在参阅了一篇关于将图像转化为ASCII的文章之后，Bryan将耐克和苹果的logo转化了出来（不建议转化迪士尼的logo）。小哥本人也是老二次元了，《Bad Apple》也是信手拈来：随后，自嘲'the CheckBox guy'的小哥赋予了复选框更多的可能，他又拓展了Checkboxland API，用来加载任何视频并生成复选框版本。下面这个看起来就像进入了《星际穿越》的五维立方体。而此刻你如果打开摄像头，Bryan还可以带领你半只脚踏进《黑客帝国》~赶快学起来，说不定还能用来画心形图，成为你的表白神器（不是）！复选框花式玩法，什么原理？看似炫酷的效果实际制作过程只需分为两大步，手把手教你！1.
+
+
+***
+![MotoGP Italy live stream 2021: how to watch Emilia-Romagna Grand Prix online from anywhere](https://cdn.mos.cms.futurecdn.net/EViYqaB57czo7JrhZkZPHn-1200-80.jpg "MotoGP Italy live stream 2021: how to watch Emilia-Romagna Grand Prix online from anywhere")
+
+
+[MotoGP Italy live stream 2021: how to watch Emilia-Romagna Grand Prix online from anywhere](https://www.techradar.com/news/motogp-italy-live-stream-2021-how-to-watch-emilia-romagna-grand-prix-online-from-anywhere)
+
+
+> (Image credit: Mirco Lazzari gp/Getty Images) We saw a glimpse of the old Marc Marquez a few weeks back in the US, but even at his talisman circuit the Spaniard could only put four seconds between him and wunderkind Quartararo. With just three races to go, all the Frenchman needs to do is beat Bagnaia by three points to secure the title – can he do it? Read on as we explain how to watch all the Italian Grand Prix action online – no matter where you are – with our MotoGP live stream guide.While it's looking like we'll have a dry track on Sunday, practice and qualifying is going to be a drizzly affair.
+
+
