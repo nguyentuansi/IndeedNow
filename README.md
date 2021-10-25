@@ -20184,3 +20184,47 @@
 > DUBLIN & CHICAGO--(BUSINESS WIRE)--Sysnet Global Solutions, a leading provider of cyber security and compliance solutions, today announced that it has acquired SecureTrust, a division of Trustwave, to further expand its cyber security solutions and accelerate its market expansion. SecureTrust, a leading provider of Payment Card Industry (PCI) compliance, provides innovation and processes for achieving and maintaining compliance and security. SecureTrust has over 20 years of experience providing solutions to customers in over 96 countries and is headquartered in Chicago, IL.
 
 
+***
+[Where to begin on automating a RFP )tech spec) analysis?](https://www.reddit.com/r/Python/comments/qf6t47/where_to_begin_on_automating_a_rfp_tech_spec/)
+
+
+> Hey everyone. I just finished a MBA in Data Science and business analytics and got in contact with Python and some ML and Text analysis (sentiment analysis) class projects. Seeing this use cases made me think of I could automate a big part of my actual job, analyzing technical specifications and determining the best solution for a client.I work as a cybersecurity sales engineer and have to be constantly reading through company's RFP and government's technical reference docs for inverse biddings.What I wanna do is input the specs and have it output the best solutions that suits those specs (firewall, WAF, SOC services…) as well as the type (player, model and maybe even list prices).
+
+
+***
+![Rider caught doing ludicrous speed](https://content.api.news/v3/images/bin/b2333e8df463d41918f1566c3270dd33 "Rider caught doing ludicrous speed")
+
+
+[Rider caught doing ludicrous speed](https://www.news.com.au/technology/motoring/on-the-road/nsw-police-catch-motorbike-rider-at-more-than-double-the-speed-limit/news-story/19da9675e511c3f153d282aecb28b6dc)
+
+
+> Highway Patrol officers have nabbed a motorbike rider blasting along the motorway at terrifying speeds on the weekend.Don't miss out on the headlines from On the Road. Followed categories will be added to My News.A man has been nabbed by police doing more than double the speed limit in one of the first weekend's since the end of lockdown.NSW Police say the motorcycle rider was caught doing 224km/h on the M1 motorway near Helensburgh south of Sydney on Sunday morning. The speed limit on this section of road is 110km/h.
+
+
+***
+![Tesla pulls its new Full Self-Driving beta due to software 'issues'](https://external-preview.redd.it/tGBFe2rGyqszkWvVtKR2Jc3Kc6_wbgry3PO_c7iwioQ.jpg?auto=webp&s=5e576348da5736b339873cbad6864b15a5abf2f0 "Tesla pulls its new Full Self-Driving beta due to software 'issues'")
+
+
+[Tesla pulls its new Full Self-Driving beta due to software 'issues'](https://www.reddit.com/r/technology/comments/qf6ebw/tesla_pulls_its_new_full_selfdriving_beta_due_to/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[Spyder or Eric?](https://www.reddit.com/r/Python/comments/qf6eam/spyder_or_eric/)
+
+
+> I need opinion for the IDLEs Spyder and Eric. Both are feature rich, read that Eric has multithreading support and i'm not sure about Spyder. Question is, what are the differences between the two and which one would you recommend?
+
+
+***
+![Why marketers and global brands should tap TikTok on implementing their marketing strategies](https://itwire.com/media/k2/items/cache/2c51a9d4063e3d24d5d8b239d2f57f4b_XS.jpg "Why marketers and global brands should tap TikTok on implementing their marketing strategies")
+
+
+[Why marketers and global brands should tap TikTok on implementing their marketing strategies](https://itwire.com/guest-articles/why-marketers-and-global-brands-should-tap-tiktok-on-implementing-their-marketing-strategies.html)
+
+
+> GUEST RESEARCH: The pandemic has accelerated the age of the consumer. For brands to survive, they need to anticipate and respond to consumer demands. The current global situation is challenging but it also offers opportunities for companies to get ahead, according to consumer intelligence company Talkwalker and customer relationship management platform HubSpot's Social Media Trends Report. Social media trends in 2022 will be supported by consumers, the report shows. The top trends and consumer insights included in this report will help marketers and top global brands plan successful strategies for 2022.
+
+
