@@ -20609,3 +20609,53 @@
 > When the Paramount+ rebrand took place on CBS All Access, ViacomCBS had announced that we'd see some bundles for its different streaming services. The one that many were looking for right away, was SHOWTIME and Paramount+. As those are their two most popular services. The other streaming service in their portfolio is BET+.Now, that bundle is finally available. So you can bundle SHOWTIME and Paramount+ for just $11.99 per month. If you'd prefer ad-free Paramount+, that will be $14.99 per month. That's a pretty good price, since SHOWTIME is actually $10.
 
 
+***
+![EuroMillions LIVE October 19: What are the winning numbers for tonight's jackpot prize? » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/euromillions-live-tuesday-october-19-winning-numbers-tonight-1508454.jpg "EuroMillions LIVE October 19: What are the winning numbers for tonight's jackpot prize? » Brinkwire")
+
+
+[EuroMillions LIVE October 19: What are the winning numbers for tonight's jackpot prize? » Brinkwire](https://en.brinkwire.com/news/euromillions-live-october-19-what-are-the-winning-numbers-for-tonights-jackpot-prize/)
+
+
+> A French ticket holder took home the incredible £184 million jackpot on Friday evening, meaning this week's EuroMillions jackpot is a cool £14 million – still a life-changing sum that is well worth playing for. Where exactly the winning ticket was bought or whether the holder is an individual or a syndicate will not be revealed unless the ticket holder decides to reveal themselves. The amount went unclaimed again after last Tuesday's draw, leading to a huge surge of entries for Friday's draw in Europe and the UK.
+
+
+***
+![Joe Biden is enraged: The US has been chastised for ignoring Brexit Britain just days before a crucial visit. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/joe-biden-is-yet-to-nominate-his-pick-for-an-ambassador-to-the-uk-1510154.jpg "Joe Biden is enraged: The US has been chastised for ignoring Brexit Britain just days before a crucial visit. » Brinkwire")
+
+
+[Joe Biden is enraged: The US has been chastised for ignoring Brexit Britain just days before a crucial visit. » Brinkwire](https://en.brinkwire.com/news/joe-biden-is-enraged-the-us-has-been-chastised-for-ignoring-brexit-britain-just-days-before-a-crucial-visit/)
+
+
+> Joe Biden is enraged: The US has been chastised for ignoring Brexit Britain just days before a crucial visit. MPs have been incensed by Joe Biden's ongoing refusal to select an ambassador to the United Kingdom, nearly ten months after becoming President of the United States and just days before he visits the UK for COP26. Since taking office, Mr. Biden has recommended diplomats for a number of close friends, but he has yet to nominate someone for a position at the Court of St James's. Despite repeated interventions into UK politics, he has failed to put forth his candidate.
+
+
+***
+![Conti Ransom Gang Starts Selling Access to Victims](https://external-preview.redd.it/HgNj4ZoogZwz4Yjm6y18pYzhd2iDqhKB8bnzKZJSjyY.jpg?auto=webp&s=592fd552a559ad9ad56c468e1be18bd18ce9d98a "Conti Ransom Gang Starts Selling Access to Victims")
+
+
+[Conti Ransom Gang Starts Selling Access to Victims](https://www.reddit.com/r/programming/comments/qfp0sr/conti_ransom_gang_starts_selling_access_to_victims/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![GeForce Now Blocked from Streaming Death Stranding to Xbox](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Death%20Stranding%20GeForce%20Now%20Xbox%20cover.jpg?itok=ZbN6HpDD "GeForce Now Blocked from Streaming Death Stranding to Xbox")
+
+
+[GeForce Now Blocked from Streaming Death Stranding to Xbox](https://techraptor.net/gaming/news/geforce-now-blocked-from-streaming-death-stranding-to-xbox)
+
+
+> Footage has emerged that appears to show Kojima Productions'Â Death StrandingÂ is apparently blocked from being played on Xbox via GeForce Now. Death StrandingÂ is a post-apocalyptic open-world game from Kojima Productions. Originally a PlayStation exclusive, the game is getting a Director's Cut on PS5 and has previously received PC-exclusive crossover content withÂ Cyberpunk 2077. Now, a strange situation has developed -- it appears thatÂ Death StrandingÂ is being blocked from loading on Xbox consoles through GeForce Now.
+
+
+***
+![The Best Wireless Gaming Headsets for Every Kind of Player](https://media.wired.com/photos/6173412778896a292fcad822/191:100/w_2580,c_limit/Gear-Logitech-G-Pro-X.jpg "The Best Wireless Gaming Headsets for Every Kind of Player")
+
+
+[The Best Wireless Gaming Headsets for Every Kind of Player](https://www.wired.com/gallery/best-wireless-gaming-headsets/)
+
+
+> This headset is an odd one. Master & Dynamic is known for its bespoke style and luxurious craftsmanship, and the MW65 (9/10, WIRED Recommends) is an example of both. It feels solid but lightweight, old-fashioned but uniquely modern. It's a study in opposites. With active noise canceling and Bluetooth connectivity, these have become my everyday drivers. We plugged them in when playing a game and switched to Bluetooth mode when we were out and about. The sound quality is rich, layered, and textured.
+
+
