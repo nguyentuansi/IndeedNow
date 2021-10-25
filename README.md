@@ -20278,3 +20278,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![‘Serious incident' training yet to be completed by head of parliamentary department](https://images.perthnow.com.au/publication/C-4327897/ea5d0ebae5e71bc13c8b85aa46dd32e2df61bd4e-16x9-x0y0w2048h1152.jpg?imwidth=1200 "‘Serious incident' training yet to be completed by head of parliamentary department")
+
+
+[‘Serious incident' training yet to be completed by head of parliamentary department](https://www.news.com.au/technology/online/internet/serious-incident-training-yet-to-be-completed-by-head-of-parliamentary-department/news-story/39260cce50f54e5ba873d6664751985f)
+
+
+> A video designed to help Parliament House staff better handle ‘serious incidents' in the wake of the Brittany Higgins assault allegations has been viewed by less than half of the required employees.The head of the Department of Parliamentary Services Rob Stefanic told a Senate estimates hearing the DPS had overhauled its processes after Ms Higgins went public with her story in February.As part of that overhaul, a 13-minute training video was developed to help assist staff with responding to serious incidents.
+
+
+***
+![Fly through the space station in this awesome 360-degree video](https://icdn.digitaltrends.com/image/digitaltrends/international-space-station-exterior-earth.jpg "Fly through the space station in this awesome 360-degree video")
+
+
+[Fly through the space station in this awesome 360-degree video](https://www.digitaltrends.com/news/fly-through-the-space-station-in-this-cool-360-degree-video/)
+
+
+> If you've ever wondered what it must be like to float through the International Space Station in microgravity conditions, then be sure to check out this latest video from French astronaut and current ISS inhabitant Thomas Pesquet. Shot with a 360-degree camera, the one-minute video takes you on a journey from the station's Node 3 module, also known as Tranquility, all the way to Europe's Columbus laboratory. A message accompanying the footage encourages you to 'immerse yourself in this brief but unique fly-through [of] humankind's orbital outpost.
+
+
+***
+![AI System Built to Give Moral Advice Starts Showing Problematic Answers](https://i.gadgets360cdn.com/large/artificial_intelligence_pixabay_1200_1621239208595.jpg "AI System Built to Give Moral Advice Starts Showing Problematic Answers")
+
+
+[AI System Built to Give Moral Advice Starts Showing Problematic Answers](https://gadgets.ndtv.com/internet/news/delphi-ai-system-artificial-intelligence-ehtical-advice-racist-answers-unethical-reply-allen-institute-2586864)
+
+
+> We often have to make tough ethical decisions everyday, which could be a cause for concern in several cases. Now, imagine having a system where these difficult choices are outsourced. It could result in quicker, efficient solutions. The responsibility too would, then, lay with the artificial intelligence-powered system making the decision. That was the idea behind Ask Delphi, a machine-learning model from the Seattle-based Allen Institute for AI. But the system has reportedly turned out to be problematic, giving all sorts of wrong advice to its users.
+
+
+***
+![Amitabh Bachchan to Dinesh Karthik: Celebrities Jump on the NFT Wagon](https://i.gadgets360cdn.com/large/amitabh_bachchan_britannica_1635139764640.jpg "Amitabh Bachchan to Dinesh Karthik: Celebrities Jump on the NFT Wagon")
+
+
+[Amitabh Bachchan to Dinesh Karthik: Celebrities Jump on the NFT Wagon](https://gadgets.ndtv.com/cryptocurrency/news/nft-india-amitabh-bachchan-salman-khan-dinesh-karthik-manish-malhotra-price-buy-2586898)
+
+
+> Indian celebrities from the world of Bollywood and cricket are increasingly launching digital memorabilia through non-fungible tokens (NFT), hoping to rake in thousands of dollars by cashing in on growing interest in such assets.NFTs are a type of digital asset which use blockchain to record the ownership of items such as images, videos, and other collectibles. Their roaring popularity has baffled many but the explosive growth shows no sign of abating.Bollywood superstars such as Amitabh Bachchan and Salman Khan are planning to launch NFTs soon.
+
+
+***
+![How to turn off autocorrect on your Android smartphone or tablet](https://images.indianexpress.com/2021/10/3f483a8e-bc7d-446a-8c26-1165fff7fcef.jpg "How to turn off autocorrect on your Android smartphone or tablet")
+
+
+[How to turn off autocorrect on your Android smartphone or tablet](https://indianexpress.com/article/technology/techook/how-to-turn-off-autocorrect-on-your-android-phone-or-tablet-7589069/)
+
+
+> The stock keyboard experience on Android devices comes with the autocorrect feature which when enabled, automatically checks what you are typing and corrects the same. While the feature may be useful for some, it can also be a hindrance at times. When the autocorrect option is enabled, it can make it extremely difficult to type, as it can completely alter the word that you are looking to note down. In such cases, disabling the feature is a good idea, as it gives us more control on what we are typing.
+
+
