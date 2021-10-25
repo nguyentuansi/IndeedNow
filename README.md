@@ -20425,3 +20425,47 @@
 > Weeks after former Facebook employee and whistleblower Frances Haugen revealed her identity, another Facebook whistleblower, though anonymous, has stepped forth addressing the social media giant's way of doing business, and noting that the platform ignored hate speech and misinformation on platform. The whistleblower is reportedly a former member of Facebook's integrity team and noted that the company puts profits before efforts to fight hate speech and misinformation on its platform. The whistleblower told The New York Post that there were differences between Facebook's public statements and internal decision-making, a reiteration of what Haugen had claimed earlier.
 
 
+***
+[Internal Facebook docs and interviews detail Mark Zuckerberg's decisions to prioritize growth over safety, including censoring "anti-state" posts in Vietnam (Washington Post)](http://www.techmeme.com/211025/p12#a211025p12)
+
+
+> Washington Post: Internal Facebook docs and interviews detail Mark Zuckerberg's decisions to prioritize growth over safety, including censoring “anti-state” posts in Vietnam — Late last year, Mark Zuckerberg faced a choice: Comply with demands from Vietnam's ruling Communist Party …
+
+
+***
+[Internal Facebook docs show employees touted its scale and dominance in presentations, including showing 78% of US adults and nearly all teens use its services (Leah Nylen/Politico)](http://www.techmeme.com/211025/p11#a211025p11)
+
+
+> Leah Nylen / Politico: Internal Facebook docs show employees touted its scale and dominance in presentations, including showing 78% of US adults and nearly all teens use its services — Documents collected by whistleblower Frances Haugen could give the company “a lot to regret” in its fights to prove it's not a monopoly.
+
+
+***
+![MacOS Monterey out now: Is my computer compatible with Apple's new OS?](https://www.cnet.com/a/img/rcXy-TxA8GRFWSmnAZgYlV0wIz0=/1200x630/2021/07/09/d6eb3362-098e-4279-a4e7-08bb4aa6a8a7/img-4551.jpg "MacOS Monterey out now: Is my computer compatible with Apple's new OS?")
+
+
+[MacOS Monterey out now: Is my computer compatible with Apple's new OS?](https://www.cnet.com/tech/computing/macos-monterey-out-now-is-my-computer-compatible-with-apples-new-os/)
+
+
+> Apple's 2020 13-inch MacBook Air will work with MacOS Monterey. Stephen Shankland/CNET MacOS Monterey, Apple's newest Mac operating system, arrived Monday. The software, also known as MacOS 12, will run on the new laptops announced at Apple's event on Monday -- both the 14-inch and 16-inch MacBook Pro. The OS was first unveiled at Apple's Worldwide Developers Conference in June and includes new features like Universal Control, AirPlay and a bunch of updates coming to iOS 15 like spatial audio in FaceTime.
+
+
+***
+![SimpliSafe Home Security review: Watching the throne](https://www.cnet.com/a/img/A3U6CemtKkXQnSq0fJ0Yd7j4Aqc=/1200x630/2021/09/03/cb890bbc-7faa-4270-83bb-6c1ea2ab939c/simplisafe-cam.jpg "SimpliSafe Home Security review: Watching the throne")
+
+
+[SimpliSafe Home Security review: Watching the throne](https://www.cnet.com/home/security/simplisafe-home-security-review/)
+
+
+> Chris Monroe/CNET SimpliSafe has a hell of a track record. It won the Editors' Choice Award here on CNET back in 2014 after exploding onto the still-burgeoning DIY home security scene. Then in 2018, when the third-gen system launched, it impressed again -- and it's remained our top DIY home security pick ever since.SimpliSafe's packages start at $229, technically speaking, but you can almost always find them at steep discounts on the site. At the time of writing, for instance, the basic package only costs $160 and the most generous one (which includes 13 sensors and accessories alongside the base station) costs $342.
+
+
+***
+![Google Fit has a lot to learn from Fitbit and it's time to pay attention](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/07/google_fit_hero.jpg "Google Fit has a lot to learn from Fitbit and it's time to pay attention")
+
+
+[Google Fit has a lot to learn from Fitbit and it's time to pay attention](https://www.androidcentral.com/5-things-i-want-google-fit-adopt-fitbit)
+
+
+> Source: Jordan Palmer / Android Central Now that Google is bringing Fitbit into the fold, we have wondered what will happen to the Fitbit trackers — especially since it's been confirmed that there will be a Fitbit watch running Wear OS in the future. Since it appears that for the time being, the Fitbit brand isn't going anywhere, and it shouldn't be forgotten about, Google now has two fitness platforms under one roof — Fitbit and Google Fit. It isn't much different from the dual map services of Google Maps and Waze operating under the Google umbrella.
+
+
