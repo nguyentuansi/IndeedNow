@@ -20509,3 +20509,53 @@
 > NEW YORK--(BUSINESS WIRE)--Payoneer (NASDAQ: PAYO), the commerce technology company powering payments and growth for the new global economy, and Coupang, one of the largest e-Commerce companies in Asia, today announced a new partnership that will provide hundreds of thousands of sellers from across the globe with the opportunity to more easily expand and sell into South Korea. By leveraging Payoneer's technology and expertise to enhance Coupang's payments capabilities, sellers on Coupang can now enjoy more seamless payments for their cross-border businesses.
 
 
+***
+![Remark Holdings Stock Is Surging Monday: What's Next?](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/stock-market-2616931_1920_217.jpg?width=720 "Remark Holdings Stock Is Surging Monday: What's Next?")
+
+
+[Remark Holdings Stock Is Surging Monday: What's Next?](https://www.benzinga.com/trading-ideas/long-ideas/21/10/23537271/remark-holdings-stock-rallies-monday-whats-next)
+
+
+> Remark Holdings Inc. (NASDAQ:MARK) shares were trading higher Monday on heavy volume. The stock is a popular penny stock in the Reddit community. Remark Holdings was up 84.4% at $4 midday Monday.  Remark Holdings Daily Chart Analysis The stock broke out of what technical traders call a falling wedge pattern and has been flying higher. The price was fading for a time and the price was condensed into a point before the stock saw a breakout. After pushing past resistance, the stock saw a large upward move.
+
+
+***
+![Google Play Store is being flooded with SMS scam apps](https://cdn.mos.cms.futurecdn.net/zNAo7RyRDarxqTinxP3E5Q-1200-80.jpg "Google Play Store is being flooded with SMS scam apps")
+
+
+[Google Play Store is being flooded with SMS scam apps](https://www.techradar.com/news/google-play-store-is-being-flooded-with-sms-scam-apps)
+
+
+> (Image credit: Shutterstock) Criminals flooded the Google Play Store with scam applications that surreptitiously signs users into premium SMS services.Researchers by asecurity vendor Avast discovered a campaign it has named UltimaSMS, which so far has uncovered 150 scammy apps.According to Avast, the apps have been collectively downloaded over 10 million times, and can cost victims, who are not rewarded any type of return, upwards of $40 per month, depending on their location and mobile carrier.
+
+
+***
+![Macy's shares preview of its Black Friday deals](https://www.cnet.com/a/img/qxRx55y_eOqGbPQpLgYmQyZ2xqU=/1200x630/2021/10/25/31fc3545-a548-4d7a-beab-e1aaa8cf958b/screen-shot-2021-10-25-at-11-53-48-am.png "Macy's shares preview of its Black Friday deals")
+
+
+[Macy's shares preview of its Black Friday deals](https://www.cnet.com/news/macys-shares-preview-of-its-black-friday-deals/)
+
+
+> Macy's previewed its Black Friday deals. Macy's Macy's became the latest retailer to show off a preview of its Black Friday discounts on Monday. The company offered a "sneak peek" of its deals on fashion, jewelry, toys, home goods and tech at Black Friday sales section of its website. Starting on Nov. 3, Macy's will roll out "unbeatable deals" and "early-access specials" each week with prices starting as low as $3. However, customers will have to wait until Nov. 23 through Nov. 27 to shop all of Macy's Black Friday specials, which will be available in stores, online and through the Macy's app.
+
+
+***
+![Cleo Smith's newest news: Police inspect a family's house for signs of a stalker, while a plane drops a detail over the search for a missing girl.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Cleo Smith's newest news: Police inspect a family's house for signs of a stalker, while a plane drops a detail over the search for a missing girl.")
+
+
+[Cleo Smith's newest news: Police inspect a family's house for signs of a stalker, while a plane drops a detail over the search for a missing girl.](https://en.brinkwire.com/news/cleo-smiths-newest-news-police-inspect-a-familys-house-for-signs-of-a-stalker-while-a-plane-drops-a-detail-over-the-search-for-a-missing-girl-2/)
+
+
+> Cleo Smith's newest news: Police inspect a family's house for signs of a stalker, while a plane drops a detail over the search for a missing girl. Cleo Smith fled from the location long before police arrived, according to a pilot who was one among the first to start looking for her. Cleo's parents called Justin Borg on Saturday morning, anxious for help after the four-year-old went missing from her family's rural campsite in Western Australia. Mr. Borg's team spent the entire day examining the terrain for clues to Cleo's disappearance, but came up empty-handed.
+
+
+***
+![How to buy the MacBook Pro today: Apple's newest M1 laptops have arrived](https://www.cnet.com/a/img/4pPXVztM4nDyLu0GwTNdD52bK44=/1200x630/2021/10/18/85037be0-8780-4f08-b17c-55732ba9414b/screen-shot-2021-10-18-at-1-31-37-pm-2.png "How to buy the MacBook Pro today: Apple's newest M1 laptops have arrived")
+
+
+[How to buy the MacBook Pro today: Apple's newest M1 laptops have arrived](https://www.cnet.com/tech/computing/how-to-buy-the-macbook-pro-today-apple-newest-m1-laptops-have-arrived/)
+
+
+> Apple's refreshed 16-inch MacBook Pro. Apple/Screenshot Apple released two new MacBook Pros at its October event, available in two sizes: a new 14-inch laptop and a 16-inch model. Both come equipped with Apple's new M1 Pro processor by default, as well as the option to upgrade to the new M1 Max processor -- which, of course, you'll pay more to get. Both new MacBook Pros house upgraded cameras, a notched display and HDMI, SD card and MagSafe ports, but the Touch Bar gets the heave-ho. The new laptops can be ordered today.
+
+
