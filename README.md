@@ -20469,3 +20469,43 @@
 > Source: Jordan Palmer / Android Central Now that Google is bringing Fitbit into the fold, we have wondered what will happen to the Fitbit trackers — especially since it's been confirmed that there will be a Fitbit watch running Wear OS in the future. Since it appears that for the time being, the Fitbit brand isn't going anywhere, and it shouldn't be forgotten about, Google now has two fitness platforms under one roof — Fitbit and Google Fit. It isn't much different from the dual map services of Google Maps and Waze operating under the Google umbrella.
 
 
+***
+![Facebook whistleblower says riots and genocides are the ‘opening chapters' if action isn't taken](https://static.independent.co.uk/2021/09/13/09/breaking-news.png?width=1200&auto=webp&quality=75 "Facebook whistleblower says riots and genocides are the ‘opening chapters' if action isn't taken")
+
+
+[Facebook whistleblower says riots and genocides are the ‘opening chapters' if action isn't taken](https://www.independent.co.uk/life-style/gadgets-and-tech/facebook-whistleblower-zuckerberg-frances-haugen-b1944865.html)
+
+
+> The Facebookwhistleblower Frances Haugen has said that events such as the January 6 riots and genocides in Myanmar and Ethopia are the 'opening chapters' of worse events if action is not taken against the social media company.Ms Haugen gave the warning while giving evidence to Parliament ahead of the government's development of an Online Harms Bill. 'Engagement-based ranking prioritises and amplifies divisive, polarising content', Ms Haugen said, adding that the company could make non-content based choices that would sliver off half-percentage points of growth but 'Facebook is unwilling to give up those slivers for our safety'.
+
+
+***
+![Huge Oculus Quest Pro leak reveals full body tracking and new controllers](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/oculus-quest-pro-leak-01.jpg "Huge Oculus Quest Pro leak reveals full body tracking and new controllers")
+
+
+[Huge Oculus Quest Pro leak reveals full body tracking and new controllers](https://www.androidcentral.com/huge-oculus-quest-pro-leak-reveals-full-body-tracking-and-new-controllers)
+
+
+> Source: @Basti564 via Twitter What appears to be leaked marketing videos reveal Facebook's plans for the Oculus Quest Pro, the follow-up to the Oculus Quest 2. The new headset appears to feature a new strap design, a separate battery compartment on the back, a smaller face-mounted portion, and additional cameras for full-body tracking. New controllers appear in the videos, showing off a total redesign that features no halo ring, onboard cameras for inside-out tracking, and a new charging dock. Hot on the heels of the one-year anniversary of the Oculus Quest 2, a huge Oculus Quest Pro leak reveals some of the biggest features of the next rumored upcoming headset from Facebook.
+
+
+***
+![T-Mobile extends 3G switch off deadline](https://cdn.mos.cms.futurecdn.net/ca5G5Y8p3kupkvaRZULaQa-1200-80.jpg "T-Mobile extends 3G switch off deadline")
+
+
+[T-Mobile extends 3G switch off deadline](https://www.techradar.com/news/t-mobile-extends-3g-switch-off-deadline)
+
+
+> (Image credit: T-Mobile) T-Mobile USA has delayed the planned switch off of Sprint's 3G network by three months to give its partners extra time to help affected customers make the transition away from the aging technology.The carrier had said it would pull the plug at the end of this year in order redirect spectrum, engineering, and other network resources towards its 5G rollout.T-Mobile says its ‘Extended Range' 5G now covers 308 million people in the US while its ‘Ultra Capacity 5G' reaches 186 million.
+
+
+***
+![Coupang and Payoneer Partner to Empower Millions of Sellers to Tap into One of the World's Largest eCommerce Markets](http://www.businesswire.com/images/bwlogo_square.png "Coupang and Payoneer Partner to Empower Millions of Sellers to Tap into One of the World's Largest eCommerce Markets")
+
+
+[Coupang and Payoneer Partner to Empower Millions of Sellers to Tap into One of the World's Largest eCommerce Markets](https://www.businesswire.com/news/home/20211025005508/en/Coupang-and-Payoneer-Partner-to-Empower-Millions-of-Sellers-to-Tap-into-One-of-the-World%E2%80%99s-Largest-eCommerce-Markets)
+
+
+> NEW YORK--(BUSINESS WIRE)--Payoneer (NASDAQ: PAYO), the commerce technology company powering payments and growth for the new global economy, and Coupang, one of the largest e-Commerce companies in Asia, today announced a new partnership that will provide hundreds of thousands of sellers from across the globe with the opportunity to more easily expand and sell into South Korea. By leveraging Payoneer's technology and expertise to enhance Coupang's payments capabilities, sellers on Coupang can now enjoy more seamless payments for their cross-border businesses.
+
+
