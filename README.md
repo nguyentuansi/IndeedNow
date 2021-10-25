@@ -20559,3 +20559,53 @@
 > Apple's refreshed 16-inch MacBook Pro. Apple/Screenshot Apple released two new MacBook Pros at its October event, available in two sizes: a new 14-inch laptop and a 16-inch model. Both come equipped with Apple's new M1 Pro processor by default, as well as the option to upgrade to the new M1 Max processor -- which, of course, you'll pay more to get. Both new MacBook Pros house upgraded cameras, a notched display and HDMI, SD card and MagSafe ports, but the Touch Bar gets the heave-ho. The new laptops can be ordered today.
 
 
+***
+![Intel Alder Lake could be over 60% faster than AMD — and it topped Apple, too](https://icdn.digitaltrends.com/image/digitaltrends/alder-lake-render-2.jpg "Intel Alder Lake could be over 60% faster than AMD — and it topped Apple, too")
+
+
+[Intel Alder Lake could be over 60% faster than AMD — and it topped Apple, too](https://www.digitaltrends.com/computing/intel-alder-lake-mobility-cpu-wins-in-benchmarks/)
+
+
+> Intel Alder Lake processors are almost here, not just for desktop users, but also for laptops. The upcoming Intel Core i9-12900HK processor is likely to be one of the best processors for laptops. An early benchmark has leaked, showing fantastic results for the Core i9-12900HK — the processor beats every single other CPU out there, including Apple's latest M1 Max chip. The 12th Generation of Intel processors, Alder Lake, is set to release in the fall. (Image credit: Intel) According to the Geekbench test that emerged today, the CPU in question has 14 cores — six performance cores and eight efficiency cores — and 20 threads.
+
+
+***
+![The Samsung Frame: Wall-art TV on sale for up to $800 off](https://www.cnet.com/a/img/Jiu_xi_NS-xmFRS0UqwtTD24XT4=/1200x630/2021/01/05/b7af6b87-5687-4697-85a9-a68eddf71d93/4h4a3732-00-01-58-20-still004.jpg "The Samsung Frame: Wall-art TV on sale for up to $800 off")
+
+
+[The Samsung Frame: Wall-art TV on sale for up to $800 off](https://www.cnet.com/tech/home-entertainment/the-samsung-frame-wall-art-tv-on-sale-for-up-to-800-off/)
+
+
+> Samsung Samsung's The Frame looks like no other TV. Its ultrathin screen can double as a place to display digital art and measures just 24.9mm thick, similar to a typical picture frame. By subscribing to Samsung's Art Store for $5 per month, users can gain access to over 1,400 pieces of art to show on the screen. Design-conscious buyers might also enjoy the 6GB of on-board storage, which is enough to hold approximately 1,200 ultra high resolution photos -- and that includes your own pictures, too.
+
+
+***
+![Read a paper: Machine-Learned Indexes](https://external-preview.redd.it/5IQ80ADb-PlmmZFUqSEwsRI63JiieZ3iIGCZfyhGZmE.jpg?auto=webp&s=a9ac33888a77d9bcbcc1bb511d4f7b4d561ae316 "Read a paper: Machine-Learned Indexes")
+
+
+[Read a paper: Machine-Learned Indexes](https://www.reddit.com/r/programming/comments/qfmh3o/read_a_paper_machinelearned_indexes/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![iOS 15.1 update: How to download the first major upgrade to iOS 15](https://www.cnet.com/a/img/GMAXm_j5sSaGhJIYTbWF3XP1Oyc=/1200x630/2021/08/04/b73921a5-25b6-4b22-a5aa-b7dbcd30bba6/iphone-ios-15-2021-cnet-09.jpg "iOS 15.1 update: How to download the first major upgrade to iOS 15")
+
+
+[iOS 15.1 update: How to download the first major upgrade to iOS 15](https://www.cnet.com/tech/services-and-software/ios-15-1-update-how-to-download-the-first-major-upgrade-to-ios-15/)
+
+
+> iOS 15 is getting a couple of highly anticipated features in its next update. Sarah Tew/CNET Apple just publicly released iOS 15 for iPhones last month, alongside four new phones, the iPhone 13 and 13 Mini, and the iPhone 13 Pro and Pro Max. And now a new OS update has arrived. The dedicated operating system for all iPhone devices, iOS 15 brought a variety of new and improved features when it launched. In the first month, we saw a couple of small patches, including a security fix, but no major updates yet.
+
+
+***
+![You Can Now Bundle SHOWTIME & Paramount+ For $12/Month](https://www.androidheadlines.com/wp-content/uploads/2021/10/ParamountPlus_Showtime_Hero_1024x640.jpeg "You Can Now Bundle SHOWTIME & Paramount+ For $12/Month")
+
+
+[You Can Now Bundle SHOWTIME & Paramount+ For $12/Month](https://www.androidheadlines.com/2021/10/you-can-now-bundle-showtime-paramount-for-12-month.html)
+
+
+> When the Paramount+ rebrand took place on CBS All Access, ViacomCBS had announced that we'd see some bundles for its different streaming services. The one that many were looking for right away, was SHOWTIME and Paramount+. As those are their two most popular services. The other streaming service in their portfolio is BET+.Now, that bundle is finally available. So you can bundle SHOWTIME and Paramount+ for just $11.99 per month. If you'd prefer ad-free Paramount+, that will be $14.99 per month. That's a pretty good price, since SHOWTIME is actually $10.
+
+
