@@ -20375,3 +20375,53 @@
 > Our ranking of the best OnePlus phones has had a relatively recent and major update, as the OnePlus 9 and OnePlus 9 Pro have now launched and taken their places in our rankings below.These followed the OnePlus 8T, and the company's new line - the more affordable OnePlus Nord, so between these phones and older but still excellent ones there should be a OnePlus handset for almost everyone.We know now that the OnePlus 9T isn't happening this year so a new entry to this list isn't likely to happen until early 2022 when - hopefully - the OnePlus 10 launches.
 
 
+***
+![Intel Alder Lake leak shows a laptop CPU which outperforms Apple M1 Max](https://cdn.mos.cms.futurecdn.net/p5zNuZEeaxuE3c3oBF2e24-1200-80.jpg "Intel Alder Lake leak shows a laptop CPU which outperforms Apple M1 Max")
+
+
+[Intel Alder Lake leak shows a laptop CPU which outperforms Apple M1 Max](https://www.techradar.com/news/intel-alder-lake-leak-shows-a-laptop-cpu-which-outperforms-apple-m1-max)
+
+
+> (Image credit: Canva) Intel's Alder Lake processors for laptops are expected to arrive in Q1 of 2022, following the launch of 12th-gen desktop chips which is purportedly imminent, but when these mobile CPUs debut, they could be great performers according to a fresh leak.In fact, going by screenshots of Geekbench results which were published by Wccftech, the Intel Core i9-12900HK mobility CPU outperforms Apple's impressive new M1 Max SoC (as introduced with the new MacBook Pros), which is quite something to see.
+
+
+***
+![Windows 10 default settings that aren't good and how to disable them](https://www.cnet.com/a/img/IUge1s3lgb6ZD7vFy_A_Wwi62jA=/1200x630/2020/07/31/f4535fa3-0b1d-41fd-8751-28fb4010e614/019-msi-ms-16w1-laptop.jpg "Windows 10 default settings that aren't good and how to disable them")
+
+
+[Windows 10 default settings that aren't good and how to disable them](https://www.cnet.com/tech/services-and-software/windows-10-default-settings-that-arent-good-and-how-to-disable-them/)
+
+
+> Using Windows 10? Change these default settings now. Sarah Tew/CNET Microsoft's Windows 11 operating system started rolling out to eligible devices Oct. 5. The new operating system's gradual rollout means not everyone will get the upgrade right away. Some people will be using Microsoft's older OS until mid-2022, while others debating if upgrading to Windows 11 is worth it, may keep Windows 10 until support ends in 2025. (Here's how you can download Windows 11 now and skip the wait.) No matter the reason you're still using Windows 10, some of the OS's default settings collect information, make you see more ads and notifications, and may be slowing down your device.
+
+
+***
+![Build 12 Data Science Apps with Python and Streamlit](https://external-preview.redd.it/-3kVIg4B0HDCypiS2U03SlpwFNcMjPM6rWqSFjQeF9o.jpg?auto=webp&s=72d592b5803904e6bb68afada27f1f1590ef6b0d "Build 12 Data Science Apps with Python and Streamlit")
+
+
+[Build 12 Data Science Apps with Python and Streamlit](https://www.reddit.com/r/Python/comments/qfdb0e/build_12_data_science_apps_with_python_and/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Beware! Squid Game app caught infecting Android devices: Check details](https://images.financialexpress.com/2021/10/Squid-Game-app.jpeg "Beware! Squid Game app caught infecting Android devices: Check details")
+
+
+[Beware! Squid Game app caught infecting Android devices: Check details](https://www.financialexpress.com/industry/technology/beware-squid-game-app-caught-infecting-android-devices-check-details/2356500/)
+
+
+> By: FE Online | Updated: October 25, 2021 3:28 PMThe app had been installed more than 5,000 times before it was taken down from Google Play StoreSquid Game, Netflix's current most popular and widely streamed series is now catching up with the hot trend as well. From Halloween inspired nail art to Halloween costumes and now even with the smartphone apps, the Squid Game fever is not getting over any time soon, at least for now.The cybercriminals, however, are up to something else. A cybersecurity firm has recently flagged that the app for Squid Game wallpapers is being used to spread malware in phone devices.
+
+
+***
+![After Frances Haugen, new Facebook whistleblower says company ignored hate speech and misinformation](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/facebook_1200x768-original.png "After Frances Haugen, new Facebook whistleblower says company ignored hate speech and misinformation")
+
+
+[After Frances Haugen, new Facebook whistleblower says company ignored hate speech and misinformation](https://www.businesstoday.in/technology/story/after-frances-haugen-new-facebook-whistleblower-says-company-ignored-hate-speech-and-misinformation-310335-2021-10-25)
+
+
+> Weeks after former Facebook employee and whistleblower Frances Haugen revealed her identity, another Facebook whistleblower, though anonymous, has stepped forth addressing the social media giant's way of doing business, and noting that the platform ignored hate speech and misinformation on platform. The whistleblower is reportedly a former member of Facebook's integrity team and noted that the company puts profits before efforts to fight hate speech and misinformation on its platform. The whistleblower told The New York Post that there were differences between Facebook's public statements and internal decision-making, a reiteration of what Haugen had claimed earlier.
+
+
