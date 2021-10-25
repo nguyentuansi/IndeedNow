@@ -20328,3 +20328,50 @@
 > The stock keyboard experience on Android devices comes with the autocorrect feature which when enabled, automatically checks what you are typing and corrects the same. While the feature may be useful for some, it can also be a hindrance at times. When the autocorrect option is enabled, it can make it extremely difficult to type, as it can completely alter the word that you are looking to note down. In such cases, disabling the feature is a good idea, as it gives us more control on what we are typing.
 
 
+***
+[A rare win in the cat-and-mouse game of ransomware](https://bdnews24.com/technology/2021/10/25/a-rare-win-in-the-cat-and-mouse-game-of-ransomware)
+
+
+> In a year rife with ransomware attacks, when cybercriminals have held the data of police departments, grocery and pharmacy chains, hospitals, pipelines and water treatment plants hostage with computer code, it was a win, rare in the scale of its success.
+
+
+***
+![Why was user 'cmeier' suspended and chased away?](https://images.macrumors.com/social/?t=2319125&v=6 "Why was user 'cmeier' suspended and chased away?")
+
+
+[Why was user 'cmeier' suspended and chased away?](https://forums.macrumors.com/threads/why-was-user-cmeier-suspended-and-chased-away.2319125/)
+
+
+> Feb 10, 2008 210 200 North of the Border There was an active user (cmaier) who previously worked for AMD in chip design, and he had useful insight into many hardware issues for the community. I noticed a few months back his account was suspended, and have not seen any posts from that user since. I am assuming they were permanently suspended and was curious to know why?
+
+
+***
+![[ANALYSIS] Korea seeks US support for 'backbone industries'](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/70dfdefb06c9450f8bcd4e3971585a71.jpg "[ANALYSIS] Korea seeks US support for 'backbone industries'")
+
+
+[[ANALYSIS] Korea seeks US support for 'backbone industries'](https://www.koreatimes.co.kr/www/tech/2021/10/133_317590.html)
+
+
+> U.S. President Joe Biden holds up a silicon wafer in the Roosevelt Room of the White House, April 12, during the virtual CEO Summit on Semiconductor and Supply Chain Resilience. AP-YonhapBy Baek Byung-yeulKorea is actively seeking support from the United States to keep up the competitiveness of its core export items such as semiconductors and steel, at a time when securing and protecting capabilities of key industries has emerged as a crucial task.The Ministry of Trade, Industry and Energy said Monday that it sent a delegation led by Kim Jeong-il, chief of the Office of International Trade and Legal Affairs, to Washington, D.
+
+
+***
+![PayPal Says It Is Not Pursuing Acquisition of Pinterest](https://i.gadgets360cdn.com/large/paypal_reuters_full_1563275056394.JPG "PayPal Says It Is Not Pursuing Acquisition of Pinterest")
+
+
+[PayPal Says It Is Not Pursuing Acquisition of Pinterest](https://gadgets.ndtv.com/social-networking/news/paypal-pinterest-buy-acquire-deal-not-pursing-no-plans-2587042)
+
+
+> PayPal is not pursuing an acquisition of Pinterest at this time, the payments company said, responding to media reports that it was in talks to buy the digital pinboard site for as much as $45 billion (roughly Rs. Rs. 3,36,770 crore).Pinterest did not immediately respond to a Reuters request for comment outside of business hours.Bloomberg News first reported on the companies' talks last week that was later confirmed by Reuters. A source at that time told Reuters that PayPal had offered $70 (roughly Rs.
+
+
+***
+![Best OnePlus phones of 2021: these are the top new or older OnePlus handsets](https://cdn.mos.cms.futurecdn.net/ktTiNM6jMs3jdyHBFB28pB-1200-80.jpg "Best OnePlus phones of 2021: these are the top new or older OnePlus handsets")
+
+
+[Best OnePlus phones of 2021: these are the top new or older OnePlus handsets](https://www.techradar.com/news/best-oneplus-phones)
+
+
+> Our ranking of the best OnePlus phones has had a relatively recent and major update, as the OnePlus 9 and OnePlus 9 Pro have now launched and taken their places in our rankings below.These followed the OnePlus 8T, and the company's new line - the more affordable OnePlus Nord, so between these phones and older but still excellent ones there should be a OnePlus handset for almost everyone.We know now that the OnePlus 9T isn't happening this year so a new entry to this list isn't likely to happen until early 2022 when - hopefully - the OnePlus 10 launches.
+
+
