@@ -20228,3 +20228,53 @@
 > GUEST RESEARCH: The pandemic has accelerated the age of the consumer. For brands to survive, they need to anticipate and respond to consumer demands. The current global situation is challenging but it also offers opportunities for companies to get ahead, according to consumer intelligence company Talkwalker and customer relationship management platform HubSpot's Social Media Trends Report. Social media trends in 2022 will be supported by consumers, the report shows. The top trends and consumer insights included in this report will help marketers and top global brands plan successful strategies for 2022.
 
 
+***
+![Warning as new cybersecurity threat ‘killware' that aims to cause ‘real-life destruction' could be DEADLY](https://www.the-sun.com/wp-content/uploads/sites/6/2021/10/NINTCHDBPICT000683049708-2.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Warning as new cybersecurity threat ‘killware' that aims to cause ‘real-life destruction' could be DEADLY")
+
+
+[Warning as new cybersecurity threat ‘killware' that aims to cause ‘real-life destruction' could be DEADLY](https://www.the-sun.com/tech/3926485/warning-new-cybersecurity-threat-killware-could-be-deadly/)
+
+
+> THE  U.S. Department of Homeland Security says the is a new king of cybersecurity and it's name is killware. U.S. Department of Homeland Security Secretary Alejandro Mayorkas told USA Today that he thinks that things are poised to go a step further in that direction in the very near future, CPO Magazine reports. A new cybersecurity threat called killware is threatening millions of AmericansCredit: Getty Killware is a type of malware that is being deployed with the sole intention of causing physical harm, even death, according to Panda Media Center.
+
+
+***
+![Australia plans to force parental consent for minors on social media](https://www.reuters.com/resizer/1dNRYN9PWz69FqF05imcT0JxmA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PXHLNEHRGFJ63BXVSIACWTMLKA.jpg "Australia plans to force parental consent for minors on social media")
+
+
+[Australia plans to force parental consent for minors on social media](https://www.reuters.com/technology/australia-plans-force-parental-consent-minors-social-media-2021-10-25/)
+
+
+> The logos of Amazon, Apple, Facebook and Google in a combination photoSYDNEY, Oct 25 (Reuters) - Australia plans to make social media companies obtain parental consent for users under the age of 16 and threaten fines of up to A$10 million ($7.5 million) for internet platforms which fail to comply, under draft legislation published on Monday.Social media companies, which include anonymous forums like Reddit and smartphone dating apps like Bumble, would also be required to take all reasonsable steps to determine users' ages and prioritise children's interests when collecting data, the Online Privacy Bill said.
+
+
+***
+![Bitcoin price news – live: Bitcoin, Dogecoin, and Solana surge in value while Cardano slips](https://static.independent.co.uk/2021/10/21/10/bitcoin%20price%20crypto%20record%20ethereum.jpg?width=1200&auto=webp&quality=75 "Bitcoin price news – live: Bitcoin, Dogecoin, and Solana surge in value while Cardano slips")
+
+
+[Bitcoin price news – live: Bitcoin, Dogecoin, and Solana surge in value while Cardano slips](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-news-usd-ethereum-b1943319.html)
+
+
+> Bitcoin hit a new record price high on Wednesday, 20 October, prompting massive gains for Ethereum and the rest of the crypto marketAnthony Cuthbertson,Vishwam SankaranMonday 25 October 2021 04:40 commentsBitcoin, Dogecoin, and Solana surge in value over the last 24 hours while Cardano slips in price. Bitcoin is currently up by about 50 per cent compared to its value at the start of October.After breaking the $64,800 record reached in April, BTC continued to climb and was trading above $66,000 on Thursday morning.
+
+
+***
+![iMore Show 773: M1 Goes Pro (and Max)](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/imore773-yt-thumb.jpg "iMore Show 773: M1 Goes Pro (and Max)")
+
+
+[iMore Show 773: M1 Goes Pro (and Max)](https://www.imore.com/imore-show-773-m1-goes-pro-and-max)
+
+
+> We may earn a commission for purchases using our links. Learn more. Office Pro The iMore show brings you everything you need to know about the week in iPhone, iPad, Watch, TV, Mac, and Apple! 24 Oct 2021 Source: iMore This week on the iMore Show, we recap everything from Apple's big event, from AirPods 3 to MacBook Pro. Listen now Subscribe in iTunes: Audio Subscribe in RSS: Audio Download directly: Audio Setapp: The best apps for Mac in one suite. Try Setapp free for a week. If you like Setapp, pay just $9.
+
+
+***
+![Event-Driven Architectures with Kafka and Python](https://external-preview.redd.it/Mft7ZF0iZS28TwuC_TB2_PKdQ3kUV0KepIy0yvpWtlc.jpg?auto=webp&s=949c82505569730cb34fa41d34cad9d40c038799 "Event-Driven Architectures with Kafka and Python")
+
+
+[Event-Driven Architectures with Kafka and Python](https://www.reddit.com/r/Python/comments/qf85wr/eventdriven_architectures_with_kafka_and_python/)
+
+
+> no comments yetBe the first to share what you think!
+
+
