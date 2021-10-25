@@ -20659,3 +20659,53 @@
 > This headset is an odd one. Master & Dynamic is known for its bespoke style and luxurious craftsmanship, and the MW65 (9/10, WIRED Recommends) is an example of both. It feels solid but lightweight, old-fashioned but uniquely modern. It's a study in opposites. With active noise canceling and Bluetooth connectivity, these have become my everyday drivers. We plugged them in when playing a game and switched to Bluetooth mode when we were out and about. The sound quality is rich, layered, and textured.
 
 
+***
+![GameStop PS5 restock in-store event on Friday – all 225 stores and times listed](https://cdn.mos.cms.futurecdn.net/asCbsF9Man8gyES26AFxfD-1200-80.jpg "GameStop PS5 restock in-store event on Friday – all 225 stores and times listed")
+
+
+[GameStop PS5 restock in-store event on Friday – all 225 stores and times listed](https://www.techradar.com/news/gamestop-ps5-restock-in-store-event-october-29-stores-and-time)
+
+
+> There's another GameStop PS5 restock in-store event in the US, and the official date is Friday, October 29. This is your chance to buy the Sony PlayStation 5 console, if you live in one of the six cities where the in-store restock is taking place.Where? When? Follow our PS5 and Twitter tracker Matt Swider – follow and turn on notifications – and you'll get crucial alerts of when and where to find the Sony PS in stock at all stores in America.This week, it's GameStop stores in Seattle, San Francisco, Nashville, Raleigh, Detroit and Philadelphia (and also Southern New Jersey).
+
+
+***
+![Facebook says it's refocusing company on ‘serving young adults'](https://cdn.vox-cdn.com/thumbor/23l6f30_uiNn3HTHDADKZksrzqM=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16351519/acastro_180522_facebook_0002.jpg "Facebook says it's refocusing company on ‘serving young adults'")
+
+
+[Facebook says it's refocusing company on ‘serving young adults'](https://www.theverge.com/2021/10/25/22745622/facebook-young-adults-refocusing-teams)
+
+
+> Illustration by Alex Castro / The Verge Facebook CEO Mark Zuckerberg says he's redirected teams within his company to 'make serving young adults their north star.' The comment, made on a call with investors this afternoon, speaks to Facebooks' concerns about declining usage among teens and young adults. 'So much of our services have gotten dialed to be the best for the most people who use them, rather than specifically for young adults,' Zuckerberg said. TikTok is 'one of the most effective competitors we've ever faced' He suggested the change will be more than just lip service.
+
+
+***
+![Facebook teases massive metaverse-related changes on the horizon](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/01/facebook-logo-quest-2.jpg "Facebook teases massive metaverse-related changes on the horizon")
+
+
+[Facebook teases massive metaverse-related changes on the horizon](https://www.androidcentral.com/facebook-q3-2021-earnings)
+
+
+> Source: Nick Sutrich / Android Central Facebook announces its Q3 2021 financial earnings. The company reports a 35% increase in revenue, driven primarily by ads. Strong Quest 2 sales have driven non-ad revenue by nearly 200%. The company is expected to change its name this week. Facebook has announced its Q3 financial earnings on Monday, showing that the social media giant is not slowing down, despite its troubles. The company reported quarterly revenue of more than $29 billion, which was primarily driven by ads.
+
+
+***
+![Cambridge University Archive to Add Trigger Warnings to Classic Children's Books Over 'Harmful Content'](https://media.breitbart.com/media/2021/10/Women-reading-To-Kill-a-Mockingbird-640x335.jpg "Cambridge University Archive to Add Trigger Warnings to Classic Children's Books Over 'Harmful Content'")
+
+
+[Cambridge University Archive to Add Trigger Warnings to Classic Children's Books Over 'Harmful Content'](https://www.breitbart.com/tech/2021/10/25/cambridge-university-archive-to-add-trigger-warnings-to-classic-childrens-books-over-harmful-content/)
+
+
+> A Cambridge University archive will begin slapping 'trigger warnings' onto classic children's books — such as Harper Lee's To Kill A Mockingbird and Laura Ingalls Wilder's Little House On The Prairie — over the books' so-called 'harmful content.' Researchers are reviewing more than 10,000 books and magazines to expose authors who have been 'offensive to historically enslaved, colonized or denigrated people,' so that a Cambridge University archive can add warnings to the books regarding their 'harmful content relating to slavery, colonialism and racism,' according to a report by Daily Mail.
+
+
+***
+![The consequence of knowledge workers using the wrong tools](https://itwire.com/media/k2/items/cache/fd44643eb4e2aeaa07119c3ebba32be1_XS.jpg "The consequence of knowledge workers using the wrong tools")
+
+
+[The consequence of knowledge workers using the wrong tools](https://itwire.com/guest-articles/the-consequence-of-knowledge-workers-using-the-wrong-tools.html)
+
+
+> David Piggott, Managing Director A/NZ at Jabra Guest Opinion: It's been nearly two years since the world changed following the first global outbreak of COVID-19. In that time, we have experienced significant changes and developments across society. Political upheavals have come and gone, social media has become an even more unstoppable behemoth, and the concept of the ‘office' is today borderline unrecognisable. Think back to pre-March 2020. At that time, less than a quarter of Australians were working from home one or more days in a week.
+
+
