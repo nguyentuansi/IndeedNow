@@ -20134,3 +20134,53 @@
 > At 30% premium to carrying value, the sale accelerates monetisation of Superloop's Asia Pacific assets, provides flexibility for Superloop to continue investing in growth.
 
 
+***
+![Argon fluoride laser could lead to practical fusion reactors](https://external-preview.redd.it/ans0L_TwImyQDefhLQfnIoOb_7e1MaVFa16IACpiw9c.jpg?auto=webp&s=47ce6d1f4b811ef55013ed29b71c3d1a8029f82a "Argon fluoride laser could lead to practical fusion reactors")
+
+
+[Argon fluoride laser could lead to practical fusion reactors](https://www.reddit.com/r/technology/comments/qf4mt3/argon_fluoride_laser_could_lead_to_practical/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![This Alaskan Air Base Will Host An Experimental Mini Nuclear Reactor](https://external-preview.redd.it/P8UpsmtvwOoDym3C7WlCTZm1LDN_XoLV2mc_mCp7Pwc.jpg?auto=webp&s=194dd95f6406ff71ece6fa7ec46948967772e39b "This Alaskan Air Base Will Host An Experimental Mini Nuclear Reactor")
+
+
+[This Alaskan Air Base Will Host An Experimental Mini Nuclear Reactor](https://www.reddit.com/r/technology/comments/qf4lwx/this_alaskan_air_base_will_host_an_experimental/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Chinese EV maker Xpeng touts flying car that can also operate on roads; plans for 2024 rollout](https://external-preview.redd.it/5Y-cfafTo06zQSrctmZb1AoS3YD1-8LujCV1td_6Hjo.jpg?auto=webp&s=5d27f7178f08170d4c88372be67d362b056de1f6 "Chinese EV maker Xpeng touts flying car that can also operate on roads; plans for 2024 rollout")
+
+
+[Chinese EV maker Xpeng touts flying car that can also operate on roads; plans for 2024 rollout](https://www.reddit.com/r/technology/comments/qf4krj/chinese_ev_maker_xpeng_touts_flying_car_that_can/)
+
+
+> If China only invested money in Quality control and build reliable quality things they would be very successful
+
+
+***
+![[News only] 160 million apartments for 1.6 billion? If one '0' is used incorrectly, it is 'fail payment'](https://img.sbs.co.kr/newimg/news/20211025/201603353_1280.jpg "[News only] 160 million apartments for 1.6 billion? If one '0' is used incorrectly, it is 'fail payment'")
+
+
+[[News only] 160 million apartments for 1.6 billion? If one '0' is used incorrectly, it is 'fail payment'](https://www.tellerreport.com/tech/2021-10-25-[news-only]-160-million-apartments-for-1-6-billion--if-one--0--is-used-incorrectly--it-is--fail-payment-.HkJyr_QUK.html)
+
+
+> In the court auction market, there have been cases of successful bids at a price ten times higher than the desired price by writing one more zero on the bid table. On the 18th of last month, a 59-square-meter apartment in Muan-gun, Jeollanam-do was sold for 1,645.8 million won. In the court auction market, there have been cases of successful bids at a price ten times higher than the desired price by writing one more zero on the bid table. On the 18th of last month, a 59-square-meter apartment in Muan-gun, Jeollanam-do was sold for 1,645.
+
+
+***
+![Sysnet Global Solutions® Acquires SecureTrust™, a Division of Trustwave®, to Expand Security Solutions and Geographic Coverage](https://mms.businesswire.com/media/20211024005030/en/919449/23/sysnet-global-solutions-600px-logo.jpg "Sysnet Global Solutions® Acquires SecureTrust™, a Division of Trustwave®, to Expand Security Solutions and Geographic Coverage")
+
+
+[Sysnet Global Solutions® Acquires SecureTrust™, a Division of Trustwave®, to Expand Security Solutions and Geographic Coverage](https://www.businesswire.com/news/home/20211024005030/en/Sysnet-Global-Solutions%C2%AE-Acquires-SecureTrust%E2%84%A2-a-Division-of-Trustwave%C2%AE-to-Expand-Security-Solutions-and-Geographic-Coverage)
+
+
+> DUBLIN & CHICAGO--(BUSINESS WIRE)--Sysnet Global Solutions, a leading provider of cyber security and compliance solutions, today announced that it has acquired SecureTrust, a division of Trustwave, to further expand its cyber security solutions and accelerate its market expansion. SecureTrust, a leading provider of Payment Card Industry (PCI) compliance, provides innovation and processes for achieving and maintaining compliance and security. SecureTrust has over 20 years of experience providing solutions to customers in over 96 countries and is headquartered in Chicago, IL.
+
+
