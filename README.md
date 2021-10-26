@@ -21047,3 +21047,43 @@
 > Issie Lapowsky / Protocol: A look at the Integrity Institute, a think tank formed by two former Facebook employees that wants to bring together tech integrity workers studying tech misuse — Shortly before he left Facebook in October 2019, Jeff Allen published his last report as a data scientist for the company's integrity team …
 
 
+***
+![Betting on Nix](https://external-preview.redd.it/sK8Y3Vq8q93PZM-aQmgmntR3wCZSAL3__JSzWYxE5Yk.jpg?auto=webp&s=b5215cdd2949f4da9494a6c7d23dfd325d85250c "Betting on Nix")
+
+
+[Betting on Nix](https://www.reddit.com/r/programming/comments/qg72gi/betting_on_nix/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![China's e-commerce platforms ban keyword search for Squid Game-related products, but merchants find workarounds](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/10/26/3cbe8938-3624-11ec-bf9d-b73b258185bb_image_hires_193649.jpg?itok=BDIQnwaz&v=1635248222 "China's e-commerce platforms ban keyword search for Squid Game-related products, but merchants find workarounds")
+
+
+[China's e-commerce platforms ban keyword search for Squid Game-related products, but merchants find workarounds](https://www.scmp.com/tech/tech-trends/article/3153772/chinas-e-commerce-platforms-ban-keyword-search-squid-game-related)
+
+
+> Major Chinese online retail platforms – including Taobao, JD.com and Pinduoduo – have apparently banned keyword search for products related to dystopian South Korean drama series Squid Game. Photo: Bloomberg
+
+
+***
+![Secret Double Octopus and Ponemon US Study Finds Remote Work Driving Passwordless with 66% Planning Adoption Over the Next 2 Years](https://mms.businesswire.com/media/20211026005177/en/915963/23/Logo_in_blue.jpg "Secret Double Octopus and Ponemon US Study Finds Remote Work Driving Passwordless with 66% Planning Adoption Over the Next 2 Years")
+
+
+[Secret Double Octopus and Ponemon US Study Finds Remote Work Driving Passwordless with 66% Planning Adoption Over the Next 2 Years](https://www.businesswire.com/news/home/20211026005177/en/Secret-Double-Octopus-and-Ponemon-US-Study-Finds-Remote-Work-Driving-Passwordless-with-66-Planning-Adoption-Over-the-Next-2-Years)
+
+
+> October 26, 2021 10:00 AM Eastern Daylight Time PALO ALTO, Calif.--(BUSINESS WIRE)--Secret Double Octopus, in partnership with the Ponemon Institute, announced today the results of a US-based study focused on understanding the state of workforce passwordless authentication, from motivational drivers to results after transitioning to its use. Results demonstrated that remote work has and will continue driving adoption of workforce passwordless authentication. In addition, using survey responses the cost of economic efficiencies from the use of passwordless technologies was calculated and suggests cost savings of $1.
+
+
+***
+![GigaOm Named Zadara Leader In Storage-as-a-Service Sonar Report](https://mms.businesswire.com/media/20211026005509/en/920038/23/GigaOm_Image_BW.jpg "GigaOm Named Zadara Leader In Storage-as-a-Service Sonar Report")
+
+
+[GigaOm Named Zadara Leader In Storage-as-a-Service Sonar Report](https://www.businesswire.com/news/home/20211026005509/en/GigaOm-Named-Zadara-Leader-In-Storage-as-a-Service-Sonar-Report)
+
+
+> October 26, 2021 10:00 AM Eastern Daylight Time IRVINE, Calif.--(BUSINESS WIRE)--Zadara, the recognized leader in edge cloud services, today announced that it has been placed in the ‘leader' position in GigaOm's Storage-as-a-Service (STaaS) Sonar Report, beating out competitors including HPE, NetApp, IBM, Pure Storage, and more. In the report, Zadara was highlighted for offering a solid and true STaaS model with no initial commitment for users of all sizes; and for being easy to use, with integrated EC2-compatible services.
+
+
