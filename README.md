@@ -21000,3 +21000,50 @@
 > Google Pay frequently churns out new promotions to keep users involved. Now, the payments app is starting a new promotion with Regal Cinemas, offering your second movie ticket at no cost.This offer started Monday and will continue until the end of 2021. Users can find this promo within the Google Pay app. It is effectively a BOGO (buy one, get one) promotions which are commonplace ahead of Thanksgiving and Black Friday.In order to be eligible for this new promotion, your first ticket must be bought from Regal Cinemas using a code from the Google Pay app.
 
 
+***
+![Moonglow Bay Upgrades Guide](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Moonglow%20Bay_0.jpg?itok=0kXSxLqL "Moonglow Bay Upgrades Guide")
+
+
+[Moonglow Bay Upgrades Guide](https://techraptor.net/gaming/guides/moonglow-bay-upgrades-guide)
+
+
+> Moonglow Bay is an expansive fishing sim that has a lot of different activities for you to spend your time on. One of the things you will quickly notice is that there seems to be some room for improvement with your boat, fishing rods, and even the surrounding town. The only catch is that Moonglow Bay doesn't just present all the upgrades to you at the beginning of the game, you either need to earn them by completing quests or buy them after the story progresses enough. Moonglow Bay Fishing Rods - How To Better Fishing Rods Fishing rods aren't like the ones in other simulation games, there is no blacksmith or ore to upgrade them on your own.
+
+
+***
+![You can now play some PC games on your Xbox, thanks to Nvidia](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/xbox_26102021-647x363.jpeg?CKQ9l7xZJb3TTLIS8EkfwvBG7_A.v4t. "You can now play some PC games on your Xbox, thanks to Nvidia")
+
+
+[You can now play some PC games on your Xbox, thanks to Nvidia](https://www.indiatoday.in/technology/news/story/you-can-now-play-some-pc-games-on-your-xbox-thanks-to-nvidia-1869641-2021-10-26)
+
+
+> Nvidia has launched its GeForce Now streaming service on Xbox consoles.Xbox users can access GeForce Now on a Microsoft Edge browser.There are more than 1,000 titles available on GeForce Now right now.If you have ever wanted to play PC games on your console, Nvidia has made it possible with its latest GeForce Now streaming service. Now available on Microsoft Edge browser for Xbox consoles, Nvidia GeForce Now will allow users to access Steam PC games, although in beta. Nvidia said there are more than 1,000 PC games available at launch but you need to have a Steam account and subscription, if required, to play games.
+
+
+***
+![The new Surface Duo 2 from Microsoft is now available for purchase... but don't look at the price. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/microsoft-surface-duo-2-1509983.jpg "The new Surface Duo 2 from Microsoft is now available for purchase... but don't look at the price. » Brinkwire")
+
+
+[The new Surface Duo 2 from Microsoft is now available for purchase... but don't look at the price. » Brinkwire](https://en.brinkwire.com/technology/the-new-surface-duo-2-from-microsoft-is-now-available-for-purchase-but-dont-look-at-the-price/)
+
+
+> Microsoft's first Surface Duo wasn't exactly a blockbuster hit with this Android-powered device getting some pretty lukewarm reviews when it launched last year. Despite a very unique slimline design, most criticised it for having lacklustre performance, a poor camera and buggy software. EE is the only UK network selling the Surface Duo 2. Prices start from £70 per month which includes full access to the firm's 5G data speeds. Now Microsoft is hoping to right many of the wrongs of that original smartphone with the launch of the new Duo 2.
+
+
+***
+![Review of the OnePlus Buds Pro: little earbuds, small price, big sound » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/oneplus-buds-pro-review-uk-price-1509326.jpg "Review of the OnePlus Buds Pro: little earbuds, small price, big sound » Brinkwire")
+
+
+[Review of the OnePlus Buds Pro: little earbuds, small price, big sound » Brinkwire](https://en.brinkwire.com/technology/review-of-the-oneplus-buds-pro-little-earbuds-small-price-big-sound/)
+
+
+> When OnePlus announced its first pair of wireless earbuds, the OnePlus Buds, they seemed too good to be true. These ‘buds arrived with a sleek AirPods-like design and many of the clever software implementations we were only accustomed to seeing on pricier solutions. But OnePlus Buds cost a fraction of the price of the Pixel Buds and AirPods. Unfortunately, when we tested these competitively priced earbuds, we weren't blown away. While the colossal 30-hour battery life was great, each the one-size-fits-all design was a little chunky for our liking — and felt uncomfortable in our ears, especially when taking advantage of that sensational battery life with a long listening session.
+
+
+***
+[A look at the Integrity Institute, a think tank formed by two former Facebook employees that wants to bring together tech integrity workers studying tech misuse (Issie Lapowsky/Protocol)](http://www.techmeme.com/211026/p15#a211026p15)
+
+
+> Issie Lapowsky / Protocol: A look at the Integrity Institute, a think tank formed by two former Facebook employees that wants to bring together tech integrity workers studying tech misuse — Shortly before he left Facebook in October 2019, Jeff Allen published his last report as a data scientist for the company's integrity team …
+
+
