@@ -20950,3 +20950,53 @@
 > Apple has released the latest 15.1 software update for its HomePod and the HomePod mini smart speakers. The update brings features such as Lossless Audio and Dolby Atmos Spatial Audio to the company's smart speakers. The spatial audio feature, is officially available only with the full-size ‌HomePod‌. When Dolby Atmos spatial audio is enabled, the sound experience is enhanced and it seems that musical notes are coming from all around in 360 degrees. Spatial audio makes use of Dolby Atmos to create a richer sounding sound profile with a more immersive soundstage.
 
 
+***
+![Five wild camera phones of the past that were all about the perfect shot](https://images.indianexpress.com/2021/10/Wild-camera-phones.jpg "Five wild camera phones of the past that were all about the perfect shot")
+
+
+[Five wild camera phones of the past that were all about the perfect shot](https://indianexpress.com/article/technology/techook/five-wild-camera-phones-of-the-past-that-were-all-about-the-perfect-shot-7591544/)
+
+
+> Smartphones have had great cameras for years. Sony's new Xperia Pro-1 is an amalgamation of a lot of camera tech that has been developed over the years and modern use-cases that make sense. However, before we came to today's advancements in camera technology, there have been some milestone camera phones along the way that are remembered even today for their unique design, camera abilities or other features. Here are five wild camera phones that left a mark on the smartphone world. Also Read |Sony's flagship Xperia Pro-I is a $1800 smartphone with a 1-inch camera sensor Nokia Pureview 808https://images.
+
+
+***
+![Tech's message to the Hill: We're not Facebook](https://images.axios.com/4xOMrZ_LxGEj5dZXeiqbkQoy7Xk=/0x0:1920x1080/1366x768/2021/10/25/1635189901134.jpg "Tech's message to the Hill: We're not Facebook")
+
+
+[Tech's message to the Hill: We're not Facebook](https://www.axios.com/techs-message-to-the-hill-were-not-facebook-579e9138-68b0-4bb3-b9f0-14a131677fca.html)
+
+
+> TikTok, YouTube and Snapchat will appear before Congress Tuesday with a key priority: distinguishing their practices from Facebook's.Why it matters: Facebook is under attack, and its tech peers don't want to get caught in the crossfire as lawmakers mull legislation to rein in the company.Driving the news: At the hearing before the Senate Commerce consumer protection subcommittee, representatives from TikTok, YouTube and Snap will focus on ways their services differ from Facebook and Instagram and measures they've already put in place to protect children.
+
+
+***
+![Apple's privacy changes eat rivals' businesses](https://static.axios.com/img/axios-site/axios-placeholder-16x9.png "Apple's privacy changes eat rivals' businesses")
+
+
+[Apple's privacy changes eat rivals' businesses](https://www.axios.com/apples-privacy-changes-eat-rival-businesses-e951d3aa-d112-4b0b-8074-78010a5189a6.html)
+
+
+> The latest earnings reports from Facebook and Snapchat show that Apple's mobile privacy measures are beginning to have a material impact on the ad businesses of some of its Big Tech competitors.Why it matters: While experts don't think Apple's moves will do long-term damage to its rivals, they will force social media companies to invest heavily in new technology and products for the next few years — all while their ads business continues to experience significant headwinds.Driving the news: Facebook on Monday blamed changes to Apple's "Identifier for Advertisers" (IDFA) user tracking feature for missing Wall Street expectations on revenue.
+
+
+***
+![Biden to tap telecom trio for NTIA, FCC posts](https://images.axios.com/eF7Z_sBSCOtukF30te0Fknu3A_M=/0x206:5306x3191/1366x768/2021/10/26/1635212062749.jpg "Biden to tap telecom trio for NTIA, FCC posts")
+
+
+[Biden to tap telecom trio for NTIA, FCC posts](https://www.axios.com/biden-telecom-appointments-ntia-fcc-rosenworcel-61b5d844-12f2-499c-bcce-b57de9e4ff9c.html)
+
+
+> President Joe Biden on Tuesday is expected to name Alan Davidson as head of the telecom arm of the Commerce Department, Jessica Rosenworcel as chairwoman of the Federal Communications Commission and Gigi Sohn as a commissioner at the FCC, according to a person familiar with the process.Why it matters: Internet availability and affordability has been a key policy priority for the White House, but the administration lagged in tapping people for the agency posts that oversee the issues.Driving the news: Davidson, who opened Google's policy shop in D.
+
+
+***
+![You Can Get a Free Movie Ticket From Regal Via Google Pay](https://www.androidheadlines.com/wp-content/uploads/2020/08/Google-Pay-Countertop-DG-AH-2020.jpg "You Can Get a Free Movie Ticket From Regal Via Google Pay")
+
+
+[You Can Get a Free Movie Ticket From Regal Via Google Pay](https://www.androidheadlines.com/2021/10/free-movie-ticket-regal-google-pay.html)
+
+
+> Google Pay frequently churns out new promotions to keep users involved. Now, the payments app is starting a new promotion with Regal Cinemas, offering your second movie ticket at no cost.This offer started Monday and will continue until the end of 2021. Users can find this promo within the Google Pay app. It is effectively a BOGO (buy one, get one) promotions which are commonplace ahead of Thanksgiving and Black Friday.In order to be eligible for this new promotion, your first ticket must be bought from Regal Cinemas using a code from the Google Pay app.
+
+
