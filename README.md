@@ -21087,3 +21087,53 @@
 > October 26, 2021 10:00 AM Eastern Daylight Time IRVINE, Calif.--(BUSINESS WIRE)--Zadara, the recognized leader in edge cloud services, today announced that it has been placed in the ‘leader' position in GigaOm's Storage-as-a-Service (STaaS) Sonar Report, beating out competitors including HPE, NetApp, IBM, Pure Storage, and more. In the report, Zadara was highlighted for offering a solid and true STaaS model with no initial commitment for users of all sizes; and for being easy to use, with integrated EC2-compatible services.
 
 
+***
+![FIFA 22 and Judgment receive massive discounts in this week's Deals with Gold](https://cdn.neow.in/news/images/uploaded/2020/10/1601648234_fifa_21_story.jpg "FIFA 22 and Judgment receive massive discounts in this week's Deals with Gold")
+
+
+[FIFA 22 and Judgment receive massive discounts in this week's Deals with Gold](https://www.neowin.net/news/fifa-22-and-judgment-receive-massive-discounts-in-this-weeks-deals-with-gold/)
+
+
+> Asher Madan Neowin @@ashermadan · Oct 26, 2021 12:04 EDT Halloween takes place this weekend and Microsoft — as well as select publishers — have discounted a number of titles for the annual Xbox Shocktober Sale. It's going on until the end of the month. However, those hoping for new Deals with Gold are in luck. Today, the company updated the list to include games like FIFA 22 and Judgment. Below, you'll find the Xbox Series X|S, Xbox One, and Xbox 360 games with their respective discounts. The deals marked with an asterisk are only valid for Xbox Live Gold members, so you'll need an active paid subscription for the additional discount.
+
+
+***
+![Check out what's happening tomorrow at TC Sessions](https://techcrunch.com/wp-content/uploads/2021/10/TC21_Sessions_SaaS_WP_Header_General_Event_1280x720-2-4.png?w=711 "Check out what's happening tomorrow at TC Sessions")
+
+
+[Check out what's happening tomorrow at TC Sessions](https://techcrunch.com/2021/10/26/check-out-whats-happening-tomorrow-at-tc-sessions-saas-2021/)
+
+
+> It's officially TC Sessions: SaaS 2021 eve, and tomorrow is a big, busy day for everyone involved with or interested in building the next generation of SaaS startups. Top-line industry experts will cover vital SaaS topics — from fundraising and building to securing and scaling. You need a pass to SaaS: Buy your pass today and save before the price goes up tomorrow at the door. The SaaS agenda features more than 20 different presentations, interviews, panel discussions and breakout sessions. Got questions? Get answers from CEOs, investors and data masters at this highly interactive conference.
+
+
+***
+![Tasseled wants to help college students get their lives, and credits, together – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1195020064.jpg "Tasseled wants to help college students get their lives, and credits, together – TechCrunch")
+
+
+[Tasseled wants to help college students get their lives, and credits, together – TechCrunch](https://techcrunch.com/2021/10/26/tasseled-wants-to-help-college-students-get-their-lives-and-credits-together/)
+
+
+> When Vipul Patel lost half of his college credits while transferring from Florida Institute of Technology to Boston University, he began digging for answers. Patel soon stumbled upon equivalency tables, where universities track which courses from other institutions can be counted for credit during a transfer process. While seemingly innocuous, the tables gave him key data of where Boston University draws a line around accepting credits from other institutions – and where it contradicts itself. He eventually appealed to BU, a school I also attended, and pointed out that the university accepted credit from universities that accepted FIT's coursework.
+
+
+***
+![Video calling tool Webex ties up with rival Zoom to stay relevant in hybrid work model](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/webex-sixteen_nine.jpg "Video calling tool Webex ties up with rival Zoom to stay relevant in hybrid work model")
+
+
+[Video calling tool Webex ties up with rival Zoom to stay relevant in hybrid work model](https://www.businesstoday.in/technology/news/story/video-calling-tool-webex-ties-up-with-rival-zoom-to-stay-relevant-in-hybrid-work-model-310474-2021-10-26)
+
+
+> The US-based tech firm Cisco unveiled an interoperability feature in its Webex video conferencing platform, which will allow users to access rival Zoom through its interface, building on similar recent partnerships with competitors Microsoft Teams and Google Meet. The collaboration marks increased pairing up in the video conferencing market, where competition has heated up especially in the last 18 months owing to enterprises relying significantly more on digital tools to keep up work remotely due to the pandemic.
+
+
+***
+![Check out what's happening tomorrow at TC Sessions: SaaS 2021 – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/TC21_Sessions_SaaS_WP_Header_General_Event_1280x720-2-4.png "Check out what's happening tomorrow at TC Sessions: SaaS 2021 – TechCrunch")
+
+
+[Check out what's happening tomorrow at TC Sessions: SaaS 2021 – TechCrunch](https://techcrunch.com/2021/10/26/check-out-whats-happening-tomorrow-at-tc-sessions-saas-2021/)
+
+
+> It's officially TC Sessions: SaaS 2021 eve, and tomorrow is a big, busy day for everyone involved with or interested in building the next generation of SaaS startups. Top-line industry experts will cover vital SaaS topics — from fundraising and building to securing and scaling. You need a pass to SaaS: Buy your pass today and save before the price goes up tomorrow at the door. The SaaS agenda features more than 20 different presentations, interviews, panel discussions and breakout sessions. Got questions? Get answers from CEOs, investors and data masters at this highly interactive conference.
+
+
