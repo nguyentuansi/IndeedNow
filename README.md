@@ -21214,3 +21214,53 @@
 > October 26, 2021 03:51 PM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--Please replace the release with the following corrected version due to multiple revisions. The updated release reads: OLB GROUP ANNOUNCES TOTAL OF 600 ANTMINER S19J PRO CRYPTOCURRENCY ASIC MINERS IN OPERATION Company Expects to Increase to 1,000 Antminer S19j Pro cryptocurrency mining computers by end of year Company projects up to $1 million in additional revenue per month with 1,000 computers added alongside their existing omnicommerce offerings The OLB Group, Inc.
 
 
+***
+![Apple News is expanding its local coverage to three new cities](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/apple-news-local-expansion-october-2021.jpg "Apple News is expanding its local coverage to three new cities")
+
+
+[Apple News is expanding its local coverage to three new cities](https://www.imore.com/apple-news-expanding-its-local-coverage-three-new-cities)
+
+
+> We may earn a commission for purchases using our links. Learn more. Three more news Three new cities get hyper-local coverage in Apple News. 26 Oct 2021 Source: Apple Apple News local has expanded to three new cities in the United States. Local news coverage is now available in Charlotte, Miami, and Washington D.C. If you live in one of three lucky cities, you're about to get better news coverage from Apple News. Today, the company announced that it is expanding its local news coverage to three additional cities in the United States: Charlotte, North Carolina Miami, Florida Washington, D.
+
+
+***
+![Yes, your Animal Crossing amiibo toys and cards will work in New Horizons](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/animal-crossing-new-horizons-amiibo-figures-nintendo-switch.jpeg "Yes, your Animal Crossing amiibo toys and cards will work in New Horizons")
+
+
+[Yes, your Animal Crossing amiibo toys and cards will work in New Horizons](https://www.imore.com/will-animal-crossing-new-horizons-work-amiibo)
+
+
+> Source: Nadine Dornieden / iMoreBest Answer: Yes, Animal Crossing: New Horizons will support Animal Crossing amiibo figures and cards.Source: iMore Your amiibo can do different things depending on where you are in Animal Crossing: New Horizons. You can invite villagers to your island's campsite if you've built one. You can also visit Harvey's Island and take photos with both NPCs and villagers. As of the 2.0 update, players can invite villagers and NPCs to The Roose café to hang out and drink coffee with Brewster.
+
+
+***
+!['Headwinds:' Facebook Blame Apple's iPhone Privacy Policy for Sluggish Ad Sales](https://media.breitbart.com/media/2021/08/Mark-Zuckerberg-deep-in-thought-640x335.jpg "'Headwinds:' Facebook Blame Apple's iPhone Privacy Policy for Sluggish Ad Sales")
+
+
+['Headwinds:' Facebook Blame Apple's iPhone Privacy Policy for Sluggish Ad Sales](https://www.breitbart.com/tech/2021/10/26/headwinds-facebook-blame-apples-iphone-privacy-policy-for-sluggish-ad-sales/)
+
+
+> During its recent earnings call, Facebook CEO Mark Zuckerberg stated that Apple's privacy rules are 'negatively affecting' the social media giant's sales growth. Zuckerberg continued Facebook's line of attack on Apple, reiterating his claim that consumer-friendly privacy policies don't only impact the Masters of the Universe, but also small businesses. The Wall Street Journal reports that social media giant Facebook recently reported lower than expected growth in the third quarter of 2021. Facebook's third-quarter revenue reached $29.
+
+
+***
+![Facebook to Refocus Company on ‘Serving Young Adults'](https://media.breitbart.com/media/2021/08/Facebook-boss-Mark-Zuckerberg-and-Sheryl-Sandberg-640x335.jpg "Facebook to Refocus Company on ‘Serving Young Adults'")
+
+
+[Facebook to Refocus Company on ‘Serving Young Adults'](https://www.breitbart.com/tech/2021/10/26/facebook-to-refocus-company-on-serving-young-adults/)
+
+
+> Following recent reports that Facebook has been failing to attract younger users, Mark Zuckerberg has announced that the company will be refocusing on 'serving young adults.' Breitbart News recently reported that tech giant Facebook has been failing to attract younger users to the platform in recent years. Facebook found that teenage users on the Facebook app in the U.S. declined by 13 percent since 2019 and the company expected that figure to drop 45 percent over the next two years. Facebook expected adults between the ages of 20 and 30 to decline by 4 percent during that same timeframe.
+
+
+***
+![Twitter posts Q3 net loss due to lawsuit settlement](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/e5/c0/6f13ac54d29b43cf6816d118e46d0aeb3630/download.jpg "Twitter posts Q3 net loss due to lawsuit settlement")
+
+
+[Twitter posts Q3 net loss due to lawsuit settlement](https://japantoday.com/category/tech/twitter-posts-q3-net-loss-due-to-lawsuit-settlement)
+
+
+> Twitter posted a net loss Tuesday due mostly to a lawsuit settlement, but its revenue rose sharply in the third quarter, boosted by solid ad sales around the globe. The San Francisco-based company said Tuesday that its net loss was $536.8 million, or 67 cents per share, in the July-September quarter. That's down from a profit of $28.7 million, or 4 cents per share, in the same period a year earlier. The loss included a one-time net charge of $766 million from a shareholder lawsuit the company settled.
+
+
