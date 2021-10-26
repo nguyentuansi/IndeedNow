@@ -20856,3 +20856,50 @@
 > Ankita Chakravarti New Delhi, Oct 26, 2021, Updated Oct 26, 2021, 9:22 AM IST Story highlights Changshu, who operates under the handle changshumath666, has a verified account on Pornhub. Changshu's videos garner a million views, and he makes around Rs 2 crore per year. Changshu's account features a message, 'Play hard, Study hard' The only thing that comes to mind when you hear the word Pornhub is pornography. But did you ever imagine that a platform like Pornhub could be used to give math lessons? Well, none of us did until we came across a Taiwanese math teacher named Changshu, who gives math lessons on Pornhub.
 
 
+***
+![Sweden's NENT reports 28% jump in subscribers](https://www.reuters.com/resizer/4JMH14iNyeen8Is8X_pVeKDScB0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DBYMO7C64FLHRAU6EP5TRR3PEM.jpg "Sweden's NENT reports 28% jump in subscribers")
+
+
+[Sweden's NENT reports 28% jump in subscribers](https://www.reuters.com/technology/swedens-nent-reports-28-jump-subscribers-2021-10-26/)
+
+
+> Nordic Entertainment Group (NENT) sign is seen at their headquarters in Stockholm, Sweden October 1, 2018. REUTERS/Olof SwahnbergSTOCKHOLM, Oct 26 (Reuters) - NENT (NENTb.ST), the Swedish media group challenging streaming giants such as Netflix (NFLX.O) and Disney+ (DIS.N) in the Nordics, reported a 28% rise in subscribers, as its plan to expand beyond Scandinavia brought in more viewers.The company added 322,000 subscribers in the third quarter ended Sept. 30 from the preceding one, of which 36,000 were in the Nordics and 286,000 were international.
+
+
+***
+[Garena Free Fire latest update: Check Free Fire redeem codes process, upcoming Diwali video and more](https://www.zeebiz.com/technology/apps/news-garena-free-fire-latest-update-check-free-fire-redeem-codes-process-upcoming-diwali-video-and-more-168865)
+
+
+> Also, the Garena Free Fire announced a faded wheel event, which on the 29th of October.
+
+
+***
+![Amazon signs deal with British spy agencies to boost use of AI for espionage](https://www.thehindu.com/sci-tech/technology/tdkil9/article37172156.ece/ALTERNATES/LANDSCAPE_615/amazon-AFPjpg "Amazon signs deal with British spy agencies to boost use of AI for espionage")
+
+
+[Amazon signs deal with British spy agencies to boost use of AI for espionage](https://www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece)
+
+
+> Britain's spy agencies have given a contract to Amazon Web Services (AWS) to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence (AI) for espionage, the Financial Times reported on Monday.(Sign up to our Technology newsletter, Today's Cache, for insights on emerging themes at the intersection of technology, business and policy. Click here to subscribe for free.)Britain's GCHQ spy agency championed the procurement of a high-security cloud system and it will be used by sister services MI5 and MI6, as well as other government departments such as the Ministry of Defence during joint operations, the report added.
+
+
+***
+![Blue Origin, Boeing chart course for 'business park' in space](https://www.thehindu.com/sci-tech/technology/r82lvq/article37172170.ece/ALTERNATES/LANDSCAPE_615/blue-origin-apjpeg "Blue Origin, Boeing chart course for 'business park' in space")
+
+
+[Blue Origin, Boeing chart course for 'business park' in space](https://www.thehindu.com/sci-tech/technology/blue-origin-boeing-chart-course-for-business-park-in-space/article37172057.ece)
+
+
+> Billionaire Jeff Bezos-owned Blue Origin on Monday unveiled plans to develop a commercial space station called "Orbital Reef" with Boeing, aiming to launch the spacecraft in the second half of this decade.(Sign up to our Technology newsletter, Today's Cache, for insights on emerging themes at the intersection of technology, business and policy. Click here to subscribe for free.)The venture will be built in partnership with Sierra Space, the spaceflight wing of defense contractor Sierra Nevada Corp, and will be backed by Redwire Space, Genesis Engineering Solutions and Arizona State University.
+
+
+***
+![Xiaomi 12 design leaks, confirms smaller punch hole](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/xim_0-original.jpg "Xiaomi 12 design leaks, confirms smaller punch hole")
+
+
+[Xiaomi 12 design leaks, confirms smaller punch hole](https://www.businesstoday.in/technology/story/xiaomi-12-design-leaks-confirms-smaller-punch-hole-310395-2021-10-26)
+
+
+> Xiaomi 12 has been a subject of constant speculation. The smartphone maker achieved some success with the Mi 11 series in India and other markets. It was probably Xiaomi's first major inroads into the premium smartphone category and now, all eyes are on how things can be improved. A few digital renders of the Xiaomi 12 have been leaked by LetsGoDigital, revealing what the upcoming smartphone may look like. The renders suggest that the Xiaomi 12 will come with a curved edge display and a centre-aligned hole-punch cut-out at the top.
+
+
