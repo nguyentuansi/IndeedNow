@@ -20806,3 +20806,53 @@
 > Logitech mouse is placed on the keyboard in the computer shop in Zenica, Bosnia and Herzegovina October 20, 2020. REUTERS/Dado RuvicOct 26 (Reuters) - Logitech International SA (LOGN.S) reported on Tuesday an increase in its sales in the second quarter as the computer peripherals maker continued to see a surge in demand for its products from stay-at-home workers.The Swiss-American maker of keyboards, mice and headsets said its sales in the three-month period ended Sept. 30 increased 4% to $1.31 billion, beating forecast of $1.
 
 
+***
+![Best smart video calling deal: Save £100 on all-new Facebook Portal devices (UK deal)](https://helios-i.mashable.com/imagery/articles/03QSRcgqpskbzxWpdzgOcdt/hero-image.fill.size_1200x675.v1635173290.jpg "Best smart video calling deal: Save £100 on all-new Facebook Portal devices (UK deal)")
+
+
+[Best smart video calling deal: Save £100 on all-new Facebook Portal devices (UK deal)](https://mashable.com/ad/article/oct-26-best-facebook-portal-video-call-deal)
+
+
+> TL;DR: As of Oct. 26, you can save £100 if you purchase two Facebook Portal devices.Staying in touch with your friends and family has always been important, but it's not so easy nowadays. You might need to get a little creative if you want to connect with everyone this holiday season, and we're not talking about squeezing the whole family on your smartphone screen. Instead, you should consider investing in a Facebook Portal smart video calling device. These devices come equipped with smart cameras that automatically pan and zoom to keep everyone in the frame and involved in every moment.
+
+
+***
+![The new Xperia Pro-I has a huge 1-inch camera sensor and bigger price tag](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/sony-xperia-pro-i-hero.jpg "The new Xperia Pro-I has a huge 1-inch camera sensor and bigger price tag")
+
+
+[The new Xperia Pro-I has a huge 1-inch camera sensor and bigger price tag](https://www.androidcentral.com/sony-xperia-pro-i-launch)
+
+
+> Source: Sony Sony's new Xperia Pro-I features one of the largest camera sensors on a smartphone. The 1-inch sensor features a variable aperture for different lighting situations. Sony is launching a secondary display accessory for bloggers to record themselves with. After the impressive Xperia 1 III, Sony wasn't expected to make any more major smartphone announcements this year, but the company has taken us by surprise with the launch of the new Xperia Pro-I (pronounced "Pro eye"). The "I" stands for "imaging.
+
+
+***
+![Improve Programming Skills](https://external-preview.redd.it/Y_pPrQfdWiFNa9Q8c_LB3GNrtU-tRh3WsrOEbJw6uLQ.jpg?auto=webp&s=abb19d1541268144edab62005aaa1f110e79d588 "Improve Programming Skills")
+
+
+[Improve Programming Skills](https://www.reddit.com/r/programming/comments/qfxypd/improve_programming_skills/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![The Sony Xperia Pro-I is an RX100 camera in an Xperia 1 III phone](https://www.cnet.com/a/img/VejQAxknNqLj6rH6LqIpCHnqCtE=/1200x630/2021/10/26/b73970c6-611d-40bf-b992-8b988a4f71c9/p1018467-1.jpg "The Sony Xperia Pro-I is an RX100 camera in an Xperia 1 III phone")
+
+
+[The Sony Xperia Pro-I is an RX100 camera in an Xperia 1 III phone](https://www.cnet.com/tech/mobile/the-1800-sony-xperia-pro-i-phone-has-a-one-inch-camera-sensor-and-a-dual-aperture/)
+
+
+> The Sony Xperia Pro-I isn't the first phone to have a one-inch camera sensor. But it's the first to put the one-inch sensor from the popular Sony RX100 VII camera into a phone. Lucky for us, Sony didn't stop there and added a mechanical dual-aperture, a new 50-millimeter lens, EyeAF support to video and a new app called Video Pro. The price of all of this is $1,800 which converts roughly to £1,300, AU$2,400. And I can't believe I'm writing this, but the Xperia Pro-I might be worth the high price especially when you consider that a Sony RX100 VII costs $1,300 and doesn't make phone calls.
+
+
+***
+![This teacher uses Pornhub to give Maths lessons, earns around Rs 2 crore per year](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2021-10-26_at_8.50._1200x768-original.png "This teacher uses Pornhub to give Maths lessons, earns around Rs 2 crore per year")
+
+
+[This teacher uses Pornhub to give Maths lessons, earns around Rs 2 crore per year](https://www.indiatoday.in/technology/news/story/this-teacher-uses-pornhub-to-give-maths-lessons-earns-around-rs-2-crore-per-year-1869378-2021-10-26)
+
+
+> Ankita Chakravarti New Delhi, Oct 26, 2021, Updated Oct 26, 2021, 9:22 AM IST Story highlights Changshu, who operates under the handle changshumath666, has a verified account on Pornhub. Changshu's videos garner a million views, and he makes around Rs 2 crore per year. Changshu's account features a message, 'Play hard, Study hard' The only thing that comes to mind when you hear the word Pornhub is pornography. But did you ever imagine that a platform like Pornhub could be used to give math lessons? Well, none of us did until we came across a Taiwanese math teacher named Changshu, who gives math lessons on Pornhub.
+
+
