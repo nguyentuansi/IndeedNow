@@ -20709,3 +20709,53 @@
 > David Piggott, Managing Director A/NZ at Jabra Guest Opinion: It's been nearly two years since the world changed following the first global outbreak of COVID-19. In that time, we have experienced significant changes and developments across society. Political upheavals have come and gone, social media has become an even more unstoppable behemoth, and the concept of the ‘office' is today borderline unrecognisable. Think back to pre-March 2020. At that time, less than a quarter of Australians were working from home one or more days in a week.
 
 
+***
+![Apple refreshes design resources for iOS 15 with new templates, fonts, and website](https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Screen-Shot-2021-10-25-at-8.12.12-PM.png?resize=1200%2C628&quality=82&strip=all&ssl=1 "Apple refreshes design resources for iOS 15 with new templates, fonts, and website")
+
+
+[Apple refreshes design resources for iOS 15 with new templates, fonts, and website](https://9to5mac.com/2021/10/25/apple-refreshes-design-resources-for-ios-15-with-new-templates-fonts-and-website/)
+
+
+> Apple has redesigned the human interface guidelines page on their developer website, making it easier to find the right templates and fonts you want to work with. In addition to the new site, Apple has also added all-new templates and libraries for iOS 15 and iPadOS 15. The new templates include refreshed colors, an iOS 15 specific Home Screen, new widgets, and many other user interface elements introduced in this year's release. There are also new templates for Apple services like Siri and Apple Pay.
+
+
+***
+![Display Analyst: 4.7-Inch 5G 'iPhone SE Plus' Coming in 2022, iPhone SE 3 With Larger Display Planned for 2024](https://images.macrumors.com/t/28Zx37fzWsKTptFAhvypgV2mxXw=/1920x/https://images.macrumors.com/article-new/2020/04/iPhone-SE-Cosmopolitan-Clean.png "Display Analyst: 4.7-Inch 5G 'iPhone SE Plus' Coming in 2022, iPhone SE 3 With Larger Display Planned for 2024")
+
+
+[Display Analyst: 4.7-Inch 5G 'iPhone SE Plus' Coming in 2022, iPhone SE 3 With Larger Display Planned for 2024](https://www.macrumors.com/2021/10/25/iphone-se-plus-launching-2022/)
+
+
+> Rumors have suggested that Apple is working on a next-generation version of the iPhone SE that's set to be released in 2022, and a new rumor from display analyst Ross Young suggests that Apple will call this device the "‌iPhone SE‌ Plus" even though it's not going to be getting a bigger display. Young says the upcoming ‌iPhone SE‌ will feature the same 4.7-inch LCD display that's available in the current version of the ‌iPhone SE‌, which itself adopted the display size from the now-discontinued iPhone 8.
+
+
+***
+![Python in 100 Seconds](https://external-preview.redd.it/hB_b6q-7uAtQP2IqK5V67MZPiDGCpiXAS-jAGl_Fcd4.jpg?auto=webp&s=2506608b21c0a6aa9e28e9fd3d7fee07ee221308 "Python in 100 Seconds")
+
+
+[Python in 100 Seconds](https://www.reddit.com/r/Python/comments/qfu53m/python_in_100_seconds_by_fireship/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+!['Apple Watch Pro' branding revealed in 2015 demo unit](https://photos5.appleinsider.com/gallery/45268-88081-211025-WatchPro-xl.jpg "'Apple Watch Pro' branding revealed in 2015 demo unit")
+
+
+['Apple Watch Pro' branding revealed in 2015 demo unit](https://appleinsider.com/articles/21/10/26/apple-watch-pro-branding-revealed-in-2015-demo-unit)
+
+
+> 'Apple Watch Pro' branding revealed in 2015 demo unit 1 minute ago Apple likely to face US Justice Department antitrust lawsuit 3 hours ago How to use Live Text on macOS Monterey 5 hours ago Hands on with the best new features in macOS Monterey 6 hours ago
+
+
+***
+![Help Ipad 10.5 pro won't update to iospad 15.1....](https://images.macrumors.com/social/?t=2319333&v=6 "Help Ipad 10.5 pro won't update to iospad 15.1....")
+
+
+[Help Ipad 10.5 pro won't update to iospad 15.1....](https://forums.macrumors.com/threads/help-ipad-10-5-pro-wont-update-to-iospad-15-1.2319333/)
+
+
+> Every since I updated my iPad PRO 10.5 to iospad 15.0, I have not been able to get it to update. I have tried connecting it to my iMac. I set get error code 4000, unknown error. trying to upgrade through the ipad, and it just endlessly checks for updates. I was hoping iospad 15.1 would update when 15.01 or 15.02 would not. Anyone else have this problem, and any confirmed ways to fix it? I'd hate to erase it and start all over, just to have it still not update.
+
+
