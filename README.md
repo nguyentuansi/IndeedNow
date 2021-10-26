@@ -21177,3 +21177,40 @@
 > October 26, 2021 01:52 PM Eastern Daylight Time TEL AVIV, Israel--(BUSINESS WIRE)--Komodor, the platform set to redefine Kubernetes troubleshooting, today announced that it has been recognized as a Cool Vendor based on the October 11, 2021 report titled 'Cool Vendors™ in Monitoring and Observability -- Modernize Legacy, Prepare for Tomorrow' by Padraig Byrne, Gregg Siegfried, and Venkat Rayapudi. The company just recently came out of stealth, when it announced its $25 Million Series A back in June.
 
 
+***
+![100-Inch TVs: LG 97-Inch TV Rumored For 2022, But Samsung Is Going Even Larger](https://static3.srcdn.com/wordpress/wp-content/uploads/2021/10/lg-oled-tv-large-gaming.jpg "100-Inch TVs: LG 97-Inch TV Rumored For 2022, But Samsung Is Going Even Larger")
+
+
+[100-Inch TVs: LG 97-Inch TV Rumored For 2022, But Samsung Is Going Even Larger](https://screenrant.com/samsung-lg-new-ultra-large-big-tvs-report/)
+
+
+> As demand for big TVs continues to grow, Samsung and LG are reportedly planning to release new 99-inch and 97-inch ultra-large TV models. Both LG and Samsung are rumored to be launching new massive TVs in the coming years. TVs have been getting larger over the past decade or so, and it's not just TVs either. The same can also be said about smartphones, with some models entering mini tablet territory. Of course, in many scenarios bigger displays enable manufacturers to pack in more technology, or larger batteries in the case of smartphones.
+
+
+***
+[Elon Musk's tweets storm the cryptocurrency market](https://filmdaily.co/tech/elon-musk-tweet-cryptocurrency/)
+
+
+> Elon Musk is able to shift the power of cryptocurrency markets by making a single tweet. Find out what the billionaire is up to in crypto next. The post Elon Musk’s tweets storm the cryptocurrency market appeared first on Film Daily.
+
+
+***
+![You can now add your COVID vaccine card to iPhone's Apple Wallet. Here's how to set it up](https://www.gannett-cdn.com/presto/2021/09/23/USAT/747a3341-d920-4ba5-897d-e90c6a5ddd47-Screen_Shot_2021-09-23_at_2.48.53_PM.png?auto=webp&crop=2121,1194,x0,y44&format=pjpg&width=1200 "You can now add your COVID vaccine card to iPhone's Apple Wallet. Here's how to set it up")
+
+
+[You can now add your COVID vaccine card to iPhone's Apple Wallet. Here's how to set it up](https://www.usatoday.com/story/tech/2021/10/26/covid-vaccine-card-iphone-apple-wallet/8555239002/)
+
+
+> Own an iPhone? You can now keep a digital version of your COVID-19 vaccine card right in your phone's Apple Wallet.On Monday, Apple released iOS 15.1, an update to its operating system for iPhones which will introduce features including SharePlay to share experiences like watching movies directly in FaceTime.The update also includes the option for iPhone owners to add their COVID vaccine cards directly in Apple Wallet.Apple introduced the feature last month. When iOS 15 arrived in September, Apple offered iPhone users the option to store vaccine and test result records from providers within the Health app.
+
+
+***
+![CORRECTING and REPLACING OLB Group Announces Total of 600 Antminer S19j Pro Cryptocurrency Asic Miners in Operation](https://mms.businesswire.com/media/20211026005348/en/1084478/23/OLB-4Nasdaq.jpg "CORRECTING and REPLACING OLB Group Announces Total of 600 Antminer S19j Pro Cryptocurrency Asic Miners in Operation")
+
+
+[CORRECTING and REPLACING OLB Group Announces Total of 600 Antminer S19j Pro Cryptocurrency Asic Miners in Operation](https://www.businesswire.com/news/home/20211026005348/en/CORRECTING-and-REPLACING-OLB-Group-Announces-Total-of-600-Antminer-S19j-Pro-Cryptocurrency-Asic-Miners-in-Operation)
+
+
+> October 26, 2021 03:51 PM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--Please replace the release with the following corrected version due to multiple revisions. The updated release reads: OLB GROUP ANNOUNCES TOTAL OF 600 ANTMINER S19J PRO CRYPTOCURRENCY ASIC MINERS IN OPERATION Company Expects to Increase to 1,000 Antminer S19j Pro cryptocurrency mining computers by end of year Company projects up to $1 million in additional revenue per month with 1,000 computers added alongside their existing omnicommerce offerings The OLB Group, Inc.
+
+
