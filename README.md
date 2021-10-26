@@ -21137,3 +21137,43 @@
 > It's officially TC Sessions: SaaS 2021 eve, and tomorrow is a big, busy day for everyone involved with or interested in building the next generation of SaaS startups. Top-line industry experts will cover vital SaaS topics — from fundraising and building to securing and scaling. You need a pass to SaaS: Buy your pass today and save before the price goes up tomorrow at the door. The SaaS agenda features more than 20 different presentations, interviews, panel discussions and breakout sessions. Got questions? Get answers from CEOs, investors and data masters at this highly interactive conference.
 
 
+***
+![Marvel Future Revolution: Everything You Need To Know – Updated October, 2021](https://www.androidheadlines.com/wp-content/uploads/2021/08/Marvel-Future-Revolution-9.jpg "Marvel Future Revolution: Everything You Need To Know – Updated October, 2021")
+
+
+[Marvel Future Revolution: Everything You Need To Know – Updated October, 2021](https://www.androidheadlines.com/marvel-future-revolution-mobile-game.html)
+
+
+> Netmarble's latest game, Marvel Future Revolution, just released earlier this year. It's the first open-world Marvel game on mobile devices, and is the follow-up to Marvel Future Fight. There are some similarities between both games.For the most part though, there's a ton of changes. So we're putting together a guide that will tell you everything you need to know about the game prior to its launch and beyond. The thing to keep in mind here is that we're working with a preview build. So, with that said, things that we've been experiencing with the game are subject to change.
+
+
+***
+![Windstream Wholesale Federal Brings Unique Fiber Builds to More U.S. Military Bases](https://mms.businesswire.com/media/20211026006120/en/712305/23/WinWhole_Logo_Stacked_All_B.jpg "Windstream Wholesale Federal Brings Unique Fiber Builds to More U.S. Military Bases")
+
+
+[Windstream Wholesale Federal Brings Unique Fiber Builds to More U.S. Military Bases](https://www.businesswire.com/news/home/20211026006120/en/Windstream-Wholesale-Federal-Brings-Unique-Fiber-Builds-to-More-U.S.-Military-Bases)
+
+
+> October 26, 2021 02:00 PM Eastern Daylight Time LITTLE ROCK, Ark.--(BUSINESS WIRE)--Windstream Wholesale Federal, a leading provider of advanced optical solutions, announced today that it is building fiber connections that will bring diverse, high-bandwidth DWDM services to a number of U.S. military installations. The builds will be lit by the company's state-of-the-art Intelligent Converged Optical Network (ICON). The new fiber connections include pathways to Offutt Air Force Base in Omaha, completed earlier this year, as well as to the Defense Logistics Agency in Columbus, Ohio, and the Philadelphia Navy Yard, both of which are scheduled to be completed in the first quarter of 2022.
+
+
+***
+![苹果隐藏了一款'Apple Watch Pro'](https://article-fd.zol-img.com.cn/t_s120x75/g6/M00/0F/04/ChMkKmF30PmIT_HwAAGHKE33M5MAAU9tAAFEOkAAYdA915.jpg "苹果隐藏了一款'Apple Watch Pro'")
+
+
+[苹果隐藏了一款'Apple Watch Pro'](http://news.zol.com.cn/779/7794031.html)
+
+
+> 2021-10-26 17:53:29   [  中关村在线 原创  ]   作者：轻舟 据国外博主爆料，苹果的'Apple Watch Pro'Logo 图片在网络上得以曝光，表明苹果公司曾一度考虑为其顶级可穿戴设备采用另一种品牌。该 Logo 出现在已发布型号的 PNG 文件旁，包括 Apple Watch Sport 和 Apple Watch Edition。苹果在其他产品中已经使用了Pro型号，看来Apple Watch也要有进阶版了。本文属于原创文章，如若转载，请注明来源：苹果隐藏了一款'Apple Watch Pro'https://news.zol.com.cn/779/7794031.html https://news.zol.com.cn/779/7794031.html news.zol.com.cn true 中关村在线 https://news.zol.com.cn/779/7794031.html report 386 据国外博主爆料，苹果的'Apple Watch Pro'Logo 图片在网络上得以曝光，表明苹果公司曾一度考虑为其顶级可穿戴设备采用另一种品牌。该 Logo 出现在已发布型号的 PNG 文件旁，包括 Apple Watch Sport 和 Apple Watch Edition。苹果在其他产品中已经使用了Pro型号，看来A.
+
+
+***
+![Komodor Named a 2021 Gartner Cool Vendor](http://www.businesswire.com/images/bwlogo_square.png "Komodor Named a 2021 Gartner Cool Vendor")
+
+
+[Komodor Named a 2021 Gartner Cool Vendor](https://www.businesswire.com/news/home/20211026006118/en/Komodor-Named-a-2021-Gartner-Cool-Vendor)
+
+
+> October 26, 2021 01:52 PM Eastern Daylight Time TEL AVIV, Israel--(BUSINESS WIRE)--Komodor, the platform set to redefine Kubernetes troubleshooting, today announced that it has been recognized as a Cool Vendor based on the October 11, 2021 report titled 'Cool Vendors™ in Monitoring and Observability -- Modernize Legacy, Prepare for Tomorrow' by Padraig Byrne, Gregg Siegfried, and Venkat Rayapudi. The company just recently came out of stealth, when it announced its $25 Million Series A back in June.
+
+
