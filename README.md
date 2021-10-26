@@ -20759,3 +20759,50 @@
 > Every since I updated my iPad PRO 10.5 to iospad 15.0, I have not been able to get it to update. I have tried connecting it to my iMac. I set get error code 4000, unknown error. trying to upgrade through the ipad, and it just endlessly checks for updates. I was hoping iospad 15.1 would update when 15.01 or 15.02 would not. Anyone else have this problem, and any confirmed ways to fix it? I'd hate to erase it and start all over, just to have it still not update.
 
 
+***
+![Facebook profits rise amid internal document revelations that it values financial success over user safety](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/4b03364963324b42a57e7f4e58eaf0b3.jpg "Facebook profits rise amid internal document revelations that it values financial success over user safety")
+
+
+[Facebook profits rise amid internal document revelations that it values financial success over user safety](https://www.koreatimes.co.kr/www/tech/2021/10/133_317630.html)
+
+
+> In this Oct. 23, 2019, file photo, a Facebook employee walks by a sign displaying the "like" sign at Facebook's corporate headquarters campus in Menlo Park, Calif. AFP-YonhapAmid fallout from the Facebook Papers documents supporting claims that the social network has valued financial success over user safety, Facebook on Monday reported higher profit for the latest quarter.The company's latest show of financial strength followed an avalanche of reports on the Facebook Papers ― a vast trove of redacted internal documents obtained by a consortium of news organizations, including The Associated Press ― as well as Facebook whistleblower Frances Haugen's Monday testimony to British lawmakers.
+
+
+***
+[Amber Electric](https://itwire.com/freelancer-sp-720/tag/Amber%20Electric.html)
+
+
+> COMPANY NEWS: Snowflake, the data cloud company, today announced the winners of the annual Data Drivers Awards for Asia Pacific, the premier data awards that honour Snowflake customers leading their organisations and transforming their industries with the data cloud.
+
+
+***
+![PM reveals $20bn plan to reach net zero](https://content.api.news/v3/images/bin/da1f01cf51bfc8bac980ee5862d1f34b "PM reveals $20bn plan to reach net zero")
+
+
+[PM reveals $20bn plan to reach net zero](https://www.news.com.au/technology/environment/climate-change/scott-morrison-reveals-plans-to-achieve-net-zero-emissions-by-2050/news-story/b8469fb56b58eea7117eb7e43282bac7)
+
+
+> The Prime Minister has finally revealed Australia's plans to achieve net zero emissions by 2050 following lengthy debate between the Coalition.The Prime Minister has announced Australia's plans to achieve net zero emissions by 2050 following lengthy — and at times very heated — debate between the Coalition.But, the modelling which supports the plan will not be released until a later, unspecified date. Under the plan, more than $20bn will be invested in 'low emissions technologies', including carbon capture and storage, by 2030.
+
+
+***
+![Blue Origin wants to build a space station for ‘exotic hospitality'](https://icdn.digitaltrends.com/image/digitaltrends/blue-origin-space-station.jpg "Blue Origin wants to build a space station for ‘exotic hospitality'")
+
+
+[Blue Origin wants to build a space station for ‘exotic hospitality'](https://www.digitaltrends.com/news/blue-origin-wants-to-build-a-space-station-to-replace-iss/)
+
+
+> Not content with 10-minute tourism rides to the edge of space, Jeff Bezos now wants to take a giant leap all of his own and build a commercial space station in low-Earth orbit. Blue Origin, the spaceflight company founded by Amazon boss Bezos in 2000, revealed the ambitious plan at the International Astronautical Congress in Dubai on Monday, October 25. Similar to the International Space Station (ISS), Blue Origin's orbiting outpost, called Orbital Reef, would host astronauts from around the world and be used to conduct science experiments in microgravity conditions.
+
+
+***
+![Logitech quarterly sales rise on work-from-home boom](https://www.reuters.com/resizer/QXwbGdbUm9QRIbhdG89ZE4rmMgk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AASAJZSKGZKZNEMQW5OP2BB4EI.jpg "Logitech quarterly sales rise on work-from-home boom")
+
+
+[Logitech quarterly sales rise on work-from-home boom](https://www.reuters.com/technology/logitech-revenue-rises-second-quarter-2021-10-26/)
+
+
+> Logitech mouse is placed on the keyboard in the computer shop in Zenica, Bosnia and Herzegovina October 20, 2020. REUTERS/Dado RuvicOct 26 (Reuters) - Logitech International SA (LOGN.S) reported on Tuesday an increase in its sales in the second quarter as the computer peripherals maker continued to see a surge in demand for its products from stay-at-home workers.The Swiss-American maker of keyboards, mice and headsets said its sales in the three-month period ended Sept. 30 increased 4% to $1.31 billion, beating forecast of $1.
+
+
