@@ -20903,3 +20903,50 @@
 > Xiaomi 12 has been a subject of constant speculation. The smartphone maker achieved some success with the Mi 11 series in India and other markets. It was probably Xiaomi's first major inroads into the premium smartphone category and now, all eyes are on how things can be improved. A few digital renders of the Xiaomi 12 have been leaked by LetsGoDigital, revealing what the upcoming smartphone may look like. The renders suggest that the Xiaomi 12 will come with a curved edge display and a centre-aligned hole-punch cut-out at the top.
 
 
+***
+![Virgin Media does not have a Sky Glass competitor, but it does have a NOW TV competitor on the horizon. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/virgin-media-sky-glass-now-tv-1510845.jpg "Virgin Media does not have a Sky Glass competitor, but it does have a NOW TV competitor on the horizon. » Brinkwire")
+
+
+[Virgin Media does not have a Sky Glass competitor, but it does have a NOW TV competitor on the horizon. » Brinkwire](https://en.brinkwire.com/technology/virgin-media-does-not-have-a-sky-glass-competitor-but-it-does-have-a-now-tv-competitor-on-the-horizon/)
+
+
+> Virgin Media does not have a Sky Glass competitor, but it does have a NOW TV competitor on the horizon. The innovative Sky Glass 4K TV set may have eluded Virgin Media, but the telecommunications behemoth is preparing to take on another popular Sky product: the NOW streaming service. When it comes to paid television, Virgin Media and Sky are the two major companies, and choosing between these two telecoms behemoths has never been more difficult. While Virgin Media includes one of the best home broadband packages in the UK with its TV packages, Sky includes both the award-winning Sky Q box and the groundbreaking Sky Glass 4K TV set.
+
+
+***
+[All UPI money transfers, offline, online payments on PhonePe are free](https://www.zeebiz.com/technology/news-all-upi-money-transfers-offline-online-payments-on-phonepe-are-free-168895)
+
+
+> The company said that PhonePe does not charge for these transactions, and will not be doing so in the future also.
+
+
+***
+![Paul Scholes was chastised by a Manchester United icon for chewing his daughter's toenails. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/3_scholes-nails.jpg "Paul Scholes was chastised by a Manchester United icon for chewing his daughter's toenails. » Brinkwire")
+
+
+[Paul Scholes was chastised by a Manchester United icon for chewing his daughter's toenails. » Brinkwire](https://en.brinkwire.com/technology/paul-scholes-was-chastised-by-a-manchester-united-icon-for-chewing-his-daughters-toenails/)
+
+
+> Paul Scholes was chastised by a Manchester United icon for chewing his daughter's toenails. Paul Scholes, the legendary Manchester United footballer, stirred outrage after he was caught on camera putting his daughter's foot in his mouth and chewing at the toenails. Rio Ferdinand has mocked Paul Scholes, another Manchester United icon, after he was caught on camera seeming to bite his daughter's toenails. On Saturday, Scholes' daughter Alicia, 20, shared the strange Instagram story with her 64,000 followers.
+
+
+***
+![Heavy rain, thunder, and hail are expected to pelt the UK in the October chill. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/0_summer-weather-june-17th-2020.jpg "Heavy rain, thunder, and hail are expected to pelt the UK in the October chill. » Brinkwire")
+
+
+[Heavy rain, thunder, and hail are expected to pelt the UK in the October chill. » Brinkwire](https://en.brinkwire.com/technology/heavy-rain-thunder-and-hail-are-expected-to-pelt-the-uk-in-the-october-chill/)
+
+
+> Heavy rain, thunder, and hail are expected to pelt the UK in the October chill. Rain and hail are anticipated to fall this week, according to the Met Office's latest UK weather forecast, so Brits should leave the house with at least a raincoat or umbrella. This week, heavy rain and possibly hail are expected to pelt portions of the United Kingdom, signaling the arrival of winter. More rain is expected after the deluge that left sections of the southeast under water at the end of last week, according to the Met Office.
+
+
+***
+![How to enable Dolby Atmos Spatial Audio and Lossless Audio on HomePod](https://images.indianexpress.com/2021/10/92fb954c-8f60-487a-97f0-9526b5d29148.jpg "How to enable Dolby Atmos Spatial Audio and Lossless Audio on HomePod")
+
+
+[How to enable Dolby Atmos Spatial Audio and Lossless Audio on HomePod](https://indianexpress.com/article/technology/tech-news-technology/how-to-enable-dolby-atmos-spatial-audio-and-lossless-audio-on-homepod-7591216/)
+
+
+> Apple has released the latest 15.1 software update for its HomePod and the HomePod mini smart speakers. The update brings features such as Lossless Audio and Dolby Atmos Spatial Audio to the company's smart speakers. The spatial audio feature, is officially available only with the full-size ‌HomePod‌. When Dolby Atmos spatial audio is enabled, the sound experience is enhanced and it seems that musical notes are coming from all around in 360 degrees. Spatial audio makes use of Dolby Atmos to create a richer sounding sound profile with a more immersive soundstage.
+
+
