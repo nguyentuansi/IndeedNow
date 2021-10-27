@@ -21740,3 +21740,47 @@
 > While it's inevitable that plenty of great Black Friday tablet deals are forthcoming in the next few weeks, lots of retailers are already offering up early Black Friday sales. In many cases, the deals are for older-model tablets, and not just for Android tablets either. So if you have been looking for a budget tablet you can use to knock around with at home, a premium one to use for work or bring on vacation, or one you can comfortably hand over to the kids, now is the time to save. A tablet is a great gift under the tree, ideal for playing games, watching videos, or, with some models, even for doing work when you attach a keyboard or use a stylus pen.
 
 
+***
+[10 Best Free Spy Phone Apps for Android and iPhone](https://filmdaily.co/tech/spy-phone-apps/)
+
+
+> Need to keep track of your child? Want to check your text messages via web browser? Look no further! Get a little nosy with these free spy phone apps. The post 10 Best Free Spy Phone Apps for Android and iPhone appeared first on Film Daily.
+
+
+***
+![Bitcoin price news – live: BTC crash sees crypto market slide, as Shiba Inu overtakes Dogecoin](https://static.independent.co.uk/2021/10/25/11/bitcoin%20price%20usd%20musk.jpg?width=1200&auto=webp&quality=75 "Bitcoin price news – live: BTC crash sees crypto market slide, as Shiba Inu overtakes Dogecoin")
+
+
+[Bitcoin price news – live: BTC crash sees crypto market slide, as Shiba Inu overtakes Dogecoin](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-usd-dogecoin-ethereum-b1944696.html)
+
+
+> Bitcoin has suffered two flash crashes over the last 24 hours and is currently trading below the $60,000 mark, having reached close to $64,000 at the start of the week. Ethereum, Solana, and Cardano also slipped overnight by between 5-15 per cent amid a market-wide slide that was notably bucked by the meme coins Shiba Inu and Baby Floki Billionaire.The dogecoin spin-offs are up by 42 per cent and 69 per cent respectively on Wednesday morning, according to CoinMarketCap's price index, with the former spurred on by calls for it to be listed on the popular trading app Robinhood.
+
+
+***
+[Sources: DOJ is investigating whether Visa used financial incentives to keep Square, Stripe, and PayPal from using other card networks or payment systems (Wall Street Journal)](http://www.techmeme.com/211027/p36#a211027p36)
+
+
+> Wall Street Journal: Sources: DOJ is investigating whether Visa used financial incentives to keep Square, Stripe, and PayPal from using other card networks or payment systems — Antitrust investigators are scrutinizing financial incentives Visa gave to Square, Stripe and PayPal
+
+
+***
+![New tech frontiers: We're just in the dawn of the edge computing age, says Michael Dell, chairman and CEO, Dell Technologies](https://images.financialexpress.com/2021/10/1-516.jpg "New tech frontiers: We're just in the dawn of the edge computing age, says Michael Dell, chairman and CEO, Dell Technologies")
+
+
+[New tech frontiers: We're just in the dawn of the edge computing age, says Michael Dell, chairman and CEO, Dell Technologies](https://www.financialexpress.com/industry/technology/new-tech-frontiers-were-just-in-the-dawn-of-the-edge-computing-age-says-michael-dell-chairman-and-ceo-dell-technologies/2358101/)
+
+
+> Michael DellAt the recently concluded virtual Dell Technologies Summit 2021, Michael Dell, chairman and CEO of Dell Technologies, highlighted the fact that if we look around the world, whichever field a business operates in, they all have one thing in common— and that is an enormous amount of data.'The amount of data in the world just keeps growing, the amount of time that it takes for the amount of data in the world to double keeps shrinking, because everything in the world is becoming intelligent, and now connected with 5G and low latency networks.
+
+
+***
+![The Pixel 6 Chip's Best Upgrade Isn't Speed. It's Security](https://media.wired.com/photos/61788d1eda7d5361f91da9e2/191:100/w_1280,c_limit/Sec_Pixel-6-Pro-Group-Image-SOURCE-Google.jpg "The Pixel 6 Chip's Best Upgrade Isn't Speed. It's Security")
+
+
+[The Pixel 6 Chip's Best Upgrade Isn't Speed. It's Security](https://www.wired.com/story/google-pixel-6-tensor-chip-security/)
+
+
+> Google's new flagship Pixel 6 and 6 Pro smartphones have gotten solid reviews so far, thanks in part to the custom Tensor processor inside. Google designed the 'system on a chip' in-house, giving it a speed and efficiency advantage similar to what Apple enjoys with its homegrown silicon. And while there's a lot to admire in the snappy performance and all-day battery life, Tensor offers another, less touted benefit: security.Google's not alone in its push to make its own smartphone chips, a trend that has built across the industry over the last several years.
+
+
