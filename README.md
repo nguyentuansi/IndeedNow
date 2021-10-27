@@ -21405,3 +21405,50 @@
 > Attach Main technology Image: Social Media Image : Enter the Technology details: Samsung is creating a "Cloud Game Platform" that will provide a "seamless and immersive gaming experience." Samsung's Tizen smart TV platform will be used to join the cloud gaming business. The announcement was made during Samsung's Developer Conference keynote, and the firm didn't say what games will be accessible, what other platforms it would be available on if any, or when it would be released.
 
 
+***
+[WhatsApp update: Now transfer chats from iPhones to Android 12 smartphones](https://www.zeebiz.com/technology/apps/news-whatsapp-update-now-transfer-chats-from-iphones-to-android-12-smartphones-follow-these-simple-steps-169030)
+
+
+> This feature is already available on Samsung Galaxy devices but unlike with Samsung phones, where the feature is available on devices running Android 10 and above, here it is limited to phones with Android 12.
+
+
+***
+![Best cheap Xbox One deals and bundles for November 2021](https://icdn.digitaltrends.com/image/digitaltrends/best-blu-ray-players-xbox-one-s-2-2.jpg "Best cheap Xbox One deals and bundles for November 2021")
+
+
+[Best cheap Xbox One deals and bundles for November 2021](https://www.digitaltrends.com/dtdeals/best-xbox-one-bundle-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. The next-generation consoles of Microsoft, the Xbox Series X and Xbox Series S, are out in the market, but the Xbox One remains a very capable console that features an expansive library of games that should keep even hardcore gamers occupied for years. The Xbox One gracefully recovered after a rocky launch in 2013, when it struggled versus Sony's PlayStation 4 because of its limited selection of games and higher price tag than.
+
+
+***
+![Truecaller revenue more than doubles in first earnings report after IPO](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=55 "Truecaller revenue more than doubles in first earnings report after IPO")
+
+
+[Truecaller revenue more than doubles in first earnings report after IPO](https://www.reuters.com/technology/truecaller-revenue-more-than-doubles-first-earnings-report-after-ipo-2021-10-27/)
+
+
+> STOCKHOLM, Oct 27 (Reuters) - Swedish mobile phone directory and caller identification service Truecaller (TRUEb.ST) reported a 129% rise in quarterly revenue in its first earnings report as a public company.Revenue rose to 312.8 million Swedish crowns ($36.48 million) from 136.5 million crowns a year earlier. ($1 = 8.5737 Swedish crowns)Reporting by Supantha Mukherjee in Stockholm; editing by Niklas PollardOur Standards: The Thomson Reuters Trust Principles.
+
+
+***
+![How to Delete Apps on iPhone Fast and Easy](https://technology.inquirer.net/files/2021/10/How-to-Delete-Apps-on-iPhone-Fast-and-Easy-620x310.png "How to Delete Apps on iPhone Fast and Easy")
+
+
+[How to Delete Apps on iPhone Fast and Easy](https://technology.inquirer.net/112779/how-to-delete-apps-on-iphone)
+
+
+> Do you have apps you never use, and you need to get rid of? Do you need to clear up space in your iPhone? Then it is time to delete, offload or hide apps on your Apple device. Regardless of the iOS version your phone is currently running on, you can uninstall or delete any app you no longer need or want to use. ADVERTISEMENT If you have an iPhone running on iOS 14, there's an extra option that lets you hide apps from your Home Screen while still keeping them within your app library. If your iPhone is running on iOS 11 or later, you can delete or offload an app; this deletes the app but keeps the data.
+
+
+***
+![Twitter Avoids Revenue Hit From Apple Privacy Changes on Advertising](https://i.gadgets360cdn.com/large/twitter_logo_phone_reuters_1599803329254.jpg "Twitter Avoids Revenue Hit From Apple Privacy Changes on Advertising")
+
+
+[Twitter Avoids Revenue Hit From Apple Privacy Changes on Advertising](https://gadgets.ndtv.com/apps/news/twitter-q3-2021-quarterly-earning-apple-privacy-policy-change-advertising-2589353)
+
+
+> Twitter on Tuesday reported its quarterly revenue grew 37 percent and avoided the brunt of Apple privacy changes on advertising that hobbled its rivals, sending its shares up 3 percent. The social networking site has been working to add new features such as audio chat rooms to attract users, and also rolled out improvements to its advertising capabilities to reach its goal of doubling annual revenue by 2023.Advertising revenue was $1.14 billion (roughly Rs. 8,550 crore) during the quarter ended September 30, in line with consensus estimates.
+
+
