@@ -21496,3 +21496,53 @@
 > Apple could one day release a pair of smart glasses that does away with small displays and instead projects images directly onto the wearer's retina. The so-called 'retinal projector' technology is discussed in an Apple patent granted to the tech giant by the United States Trademark and Patent Office on Tuesday, October 26, Apple Insider reported. In the document, Apple proposes that the futuristic-sounding technology could help to eradicate eyestrain, headaches, and nausea that some users experience when using virtual reality (VR) and augmented reality (AR) headsets.
 
 
+***
+![United Microelectronics Clocks 25% Revenue Growth In Q3, Notes Margin Expansion](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/abtech_2316.png "United Microelectronics Clocks 25% Revenue Growth In Q3, Notes Margin Expansion")
+
+
+[United Microelectronics Clocks 25% Revenue Growth In Q3, Notes Margin Expansion](https://www.benzinga.com/news/earnings/21/10/23621268/united-microelectronics-clocks-25-revenue-growth-in-q3-notes-margin-expansion)
+
+
+> 10 Information Technology Stocks Whale Activity In Today's Session 12 Information Technology Stocks Moving In Wednesday's Pre-Market Session United Microelectronics Clocks 29% Sales Growth In September TSM Rival To Build $9B Chip Plant In Shanghai Why Are United Microelectronics Shares Trading Higher Today? 12 Information Technology Stocks Moving In Friday's Pre-Market Session
+
+
+***
+![The startup that wants to disrupt big internet providers](https://images.axios.com/r5T-ffffmMpjkP7fvu4FIXWFEmE=/0x0:1920x1080/1366x768/2021/10/22/1634934246797.jpg "The startup that wants to disrupt big internet providers")
+
+
+[The startup that wants to disrupt big internet providers](https://www.axios.com/broadband-startup-disrupt-internet-service-providers-1b704aae-b8cf-40f0-b1e3-20e88f24fa91.html)
+
+
+> A new startup backed by funding from AOL founder Steve Case and Laurene Powell Jobs wants to break up broadband monopolies across the country.Why it matters: Internet access has been crucial during the pandemic, but it's not ubiquitous, and it can be both slow and unaffordable in swaths of the country.What's happening: Underline, a community infrastructure company, began building its first open access fiber network in Colorado Springs last week.Under the open access model, Underline builds and operates the fiber network while multiple service providers can use it and offer service to customers.
+
+
+***
+![Best stereo speakers for 2021](https://www.cnet.com/a/img/gHWcCNfJ786gcBQg32r5dDKuMb0=/1200x630/2020/12/11/4ea8fb77-0204-4604-ad71-4d1edbedf51c/09-elac-debut-2-0-6-2.jpg "Best stereo speakers for 2021")
+
+
+[Best stereo speakers for 2021](https://www.cnet.com/tech/home-entertainment/best-stereo-speakers/)
+
+
+> Soundbars and powered speakers are great, but if you want the best sound possible then you'll want a pair of passive speakers powered by an AV receiver or amplifier. No matter what your budget there is a set of speakers for you -- from the adorable $65 Dayton Audio B652-AIR to the seriously thrilling $900 Bowers and Wilkins 606 S2 Anniversary. If you listen to music then just add a pair of these, but each set will also perform well on movie night as part of a surround system. Sarah Tew/CNET If you're looking to fit out a workspace or a children's room the Dayton Audio B652-AIR offers a great deal of performance for the price of a meal for two.
+
+
+***
+![4K and 8K TV refresh rates from 60hz to 120Hz: Everything you should know](https://www.cnet.com/a/img/pGdW8_VAefVkHPffLiPzUFci91A=/1200x630/2021/08/05/cfb2cebc-de6a-49f7-86cd-6e20bdb91755/samsung-qn55q60a-new-opener.jpg "4K and 8K TV refresh rates from 60hz to 120Hz: Everything you should know")
+
+
+[4K and 8K TV refresh rates from 60hz to 120Hz: Everything you should know](https://www.cnet.com/tech/home-entertainment/4k-and-8k-tv-refresh-rates-from-60hz-to-120hz-everything-you-should-know/)
+
+
+> Many midrange TVs like this 60Hz Samsung Q60T are marketed with higher "motion" numbers. Geoffrey Morrison/CNET Refresh rate is one of the more confusing aspects of TV technology and TV makers don't do much to explain it. In fact, they often obscure it. Refresh rate is a number that specifies how many times per second the image on your TV changes. With most TVs it's 60, though it's rare you'll ever see a TV with that number listed. Instead, manufacturers use different technologies, such as the soap opera effect and black frame insertion, to claim a higher number.
+
+
+***
+![Hash Verify App](https://external-preview.redd.it/JedgFv5dFd-0GCPAKaeGd8M27Yqss3ge2N7fk9atdV0.jpg?auto=webp&s=cd91eb6956dd1e5e68465af2ab4298277b40e47b "Hash Verify App")
+
+
+[Hash Verify App](https://www.reddit.com/r/Python/comments/qgt5en/hash_verify_app/)
+
+
+> Hi GuysI made a little project with PySimpleGui. It is used to check if a downloaded file has the correct hash.The App was my first project with PySimpleGui.e.g. You have downloaded a file and the webpage offering the file has provided a hash value for the downlaod.Inside the app you can select the downloaded file and enter the provided hash value.The app then generates 3 types of hashes and compares them to the entered value.it's on Gitthub: https://github.com/CRPrinzler/HASH-verifybut I am happy to receive input and critic here ;) .
+
+
