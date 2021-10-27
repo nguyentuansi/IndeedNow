@@ -21264,3 +21264,47 @@
 > Twitter posted a net loss Tuesday due mostly to a lawsuit settlement, but its revenue rose sharply in the third quarter, boosted by solid ad sales around the globe. The San Francisco-based company said Tuesday that its net loss was $536.8 million, or 67 cents per share, in the July-September quarter. That's down from a profit of $28.7 million, or 4 cents per share, in the same period a year earlier. The loss included a one-time net charge of $766 million from a shareholder lawsuit the company settled.
 
 
+***
+[Google to bring Pixel 6 features to older Pixel smartphones](https://www.gizchina.com/2021/10/26/google-to-bring-pixel-6-features-to-older-pixel-smartphones/)
+
+
+> With the arrival of new hardware, smartphone makers tend to bring exclusive features. Some of the companies keep these aforementioned features exclusive to highlight the ... The post Google to bring Pixel 6 features to older Pixel smartphones appeared first on Gizchina.com.
+
+
+***
+![Seven new restaurants that will warm up the fall](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/26/16352520685471.jpg "Seven new restaurants that will warm up the fall")
+
+
+[Seven new restaurants that will warm up the fall](https://www.tellerreport.com/tech/2021-10-27-seven-new-restaurants-that-will-warm-up-the-fall.BkOKctM8LY.html)
+
+
+> In autumn, not only the forest is animated, but also the capital's restaurants, so much so that lately there is not a week without a tavern, a food house or a ... In autumn, not only the forest comes alive, but also thecapital's restaurants, so much so that lately there isn't a week without a new tavern, eating house or restaurant being unveiled.After a year and a half of paralysis(or almost), the sectorhas awakenedand reactivated in such a way that one has the feeling that gastronomic openings occur in pairs.
+
+
+***
+![Pikmin Bloom, the latest from Niantic, will begin to launch today](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/pikmin-bloom-niantic.jpg "Pikmin Bloom, the latest from Niantic, will begin to launch today")
+
+
+[Pikmin Bloom, the latest from Niantic, will begin to launch today](https://www.imore.com/pikmin-bloom-latest-game-pokemon-go-developer-niantic)
+
+
+> Surprise 26 Oct 2021 Source: Niantic, Inc. Pikmin Bloom is a game developed in a partnership between Nintendo and Niantic, the company behind Pokémon Go. The game is rolling out to users in Singapore and Australia today, with more countries to follow in the coming days. Previously, the two companies announced that they had teamed up to work on a Pikmin game that was set to release in 2021. We've known about the continued partnership between Niantic and Nintendo and the development of a Pikmin AR game.
+
+
+***
+[Bangalore-based neobank Zolve, which aims to help immigrants in the US gain access to financial services, raises a $40M Series A at a $210M valuation (Manish Singh/TechCrunch)](http://www.techmeme.com/211026/p48#a211026p48)
+
+
+> Manish Singh / TechCrunch: Bangalore-based neobank Zolve, which aims to help immigrants in the US gain access to financial services, raises a $40M Series A at a $210M valuation — Zolve, a neobanking startup that aims to help immigrants in the U.S. gain access to financial services, said on Wednesday it has raised $40 million …
+
+
+***
+![How Shifting Security Left Helps Mitigate Cloud-Native Security Risks](https://miro.medium.com/max/1200/1*4PPHWr2CKHKryCg5pnoQpw.png "How Shifting Security Left Helps Mitigate Cloud-Native Security Risks")
+
+
+[How Shifting Security Left Helps Mitigate Cloud-Native Security Risks](https://medium.com/magalix/how-shifting-security-left-helps-mitigate-cloud-native-security-risks-7b79a50d3f33)
+
+
+> The cloud-native ecosystem has steadily grown over the past decade with the promise of faster deployments, cost-efficient infrastructure, and auto-scalability spurring its growth. Businesses are now developing and deploying easily scalable, cost-efficient, and more resilient…
+
+
