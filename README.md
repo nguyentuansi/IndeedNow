@@ -21784,3 +21784,50 @@
 > Google's new flagship Pixel 6 and 6 Pro smartphones have gotten solid reviews so far, thanks in part to the custom Tensor processor inside. Google designed the 'system on a chip' in-house, giving it a speed and efficiency advantage similar to what Apple enjoys with its homegrown silicon. And while there's a lot to admire in the snappy performance and all-day battery life, Tensor offers another, less touted benefit: security.Google's not alone in its push to make its own smartphone chips, a trend that has built across the industry over the last several years.
 
 
+***
+![Google Android 12L update will bring improved features to tablets, foldable phones](https://www.cnet.com/a/img/6fJu3qOAX8fhQthS5iXmOpWgFvQ=/1200x630/2021/10/27/a6a10271-d63f-48f4-8f16-7488e37b74cf/google-android-12l-devices-hero.png "Google Android 12L update will bring improved features to tablets, foldable phones")
+
+
+[Google Android 12L update will bring improved features to tablets, foldable phones](https://www.cnet.com/tech/services-and-software/google-android-12l-update-will-bring-improved-features-to-tablets-foldable-phones/)
+
+
+> Google Google said it plans to release a feature-drop for Android 12 that's designed specifically for large-screen devices such as tablets and foldable phones. The update, dubbed Android 12L, will be available early next year, Google said in a blog post Wednesday. Android 12L will include improvements to the user interface on large screens across "notifications, quick settings, lock screen, overview, home screen, and more," Google said in the post. The update will also improve multitasking, with a new task bar that'll make it easier to switch apps and use split screen mode, Google said.
+
+
+***
+![Everything you need to know about DIY in Animal Crossing](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/03/animal-crossing-new-horizons-crafting-05.jpg "Everything you need to know about DIY in Animal Crossing")
+
+
+[Everything you need to know about DIY in Animal Crossing](https://www.imore.com/animal-crossing-new-horizons-how-craft)
+
+
+> Source: iMore Animal Crossing: New Horizons is out now, and the addition of crafting in this iteration of the franchise has evolved the game from great to one of the best games on the Nintendo Switch. The ability to craft and customize your own items works as both a natural progression system for the game, as well as a way to add more variety and player choice to design and decoration. Since you can put furniture outdoors now, the possibilities for island design are seemingly endless. Create your own island world Animal Crossing: New Horizons puts more of an emphasis on crafting than ever before.
+
+
+***
+[Is this why its not recommended to use __del__ ?](https://www.reddit.com/r/Python/comments/qh7n04/is_this_why_its_not_recommended_to_use_del/)
+
+
+> class Obs_del(): def __del__(self): print("yes, now __del__ was called !") del self od_ref_one = Obs_del() od_ref_two = od_ref_one od_ref_three = od_ref_one # del the first reference of Obs_del del od_ref_one print('i ran "del od_ref_one", was __del__ called ?') # nope you have to delete every other reference # del the second reference of Obs_del del od_ref_two print('i ran "del od_ref_two", was __del__ called ?') # nope you have to delete every other reference # del the third reference of Obs_d
+
+
+***
+![New Bugsnax update bringing giant creatures, more to PS5 and PS4](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/bugsnax-bigsnax.jpg "New Bugsnax update bringing giant creatures, more to PS5 and PS4")
+
+
+[New Bugsnax update bringing giant creatures, more to PS5 and PS4](https://www.androidcentral.com/new-bugsnax-update-bringing-giant-creatures-more-ps5-and-ps4)
+
+
+> Source: Young Horses Bugsnax first launched alongside the PS5 back in November 2020. During the October 2021 State of Play, developer Young Horses announced a free DLC update. This update adds, among other things, massive new Bugsnax. The Isle of Bigsnax is slated to arrive in early 2022. There's a big new update coming to Bugsnax, as announced during Sony's Oct. 2021 PlayStation State of Play. PS4 and PS5 players will be heading to a new region filled with Bugsnax megafauna. You can check out the trailer for The Isle of Bigsnax below: This mysterious island came up from the bottom of the ocean, giving the Grumpuses reason to start exploring.
+
+
+***
+![Facebook orders employees to preserve documents due to inquiries from governments around the world](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X4EA5JRXLYI6ZFTCHGOPU5PP5Y.jpg&w=1440 "Facebook orders employees to preserve documents due to inquiries from governments around the world")
+
+
+[Facebook orders employees to preserve documents due to inquiries from governments around the world](https://www.washingtonpost.com/technology/2021/10/27/facebook-haugen-legal-hold/)
+
+
+> Facebook sent out a companywide notice on Tuesday ordering employees to preserve documents and communications dating back to 2016 in response to legal inquiries from around the world, according to internal documents obtained by The Washington Post.Get the full experience.Choose your planThe social media giant is battling a flood of media coverage following revelations about how much it knew about the social harm it causes, after a whistleblower came forward with tens of thousands of documents. The Facebook Papers show how researchers knew that the platform caused polarization in numerous countries, led people down misinformation rabbit holes, failed to stop a violent network that led to the January 6 insurrection, and had negative impacts on the mental health of young people.
+
+
