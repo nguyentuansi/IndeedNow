@@ -21690,3 +21690,53 @@
 > Abacus.ai wants to build an AI platform that simplifies machine learning model creation, while still leaving room for power users. Today the company announced a $50 million Series C. At the same time, it announced that the platform was expanding to include computer vision use cases. Tiger Global led the round with participation from Coatue, Index Ventures and Alkeon Capital. With today's investment, the company says that it has raised over $90 million in under 30 months. The most recent funding prior to this was the company's $22 million Series A last November.
 
 
+***
+![Adobe Photoshop and Illustrator are coming to your web browser](https://cdn.mos.cms.futurecdn.net/QSjQq9piF8Qaim4ipK6f7B-1200-80.jpg "Adobe Photoshop and Illustrator are coming to your web browser")
+
+
+[Adobe Photoshop and Illustrator are coming to your web browser](https://www.techradar.com/news/adobe-photoshop-and-illustrator-are-coming-to-your-web-browser)
+
+
+> (Image credit: Adobe) Collaborating with others using Adobe's graphic design software will soon be even easier as the company has announced that two of the most popular products from Creative Cloud will soon be available on the web.At Adobe MAX 2021, the company revealed that Photoshop and Illustrator are coming to your browser to help give others a voice in the creative process.Up until now, creative teams had to rely on other online collaboration tools to give feedback and work together online.
+
+
+***
+![Next-gen Onewheels are here, and one of them can do 32 miles on a single charge](https://icdn.digitaltrends.com/image/digitaltrends/onewheelgt.jpg "Next-gen Onewheels are here, and one of them can do 32 miles on a single charge")
+
+
+[Next-gen Onewheels are here, and one of them can do 32 miles on a single charge](https://www.digitaltrends.com/news/onewheel-gt-pint-x-announcement/)
+
+
+> It has been a little over two years since Future Motion dropped a new Onewheel on us, but the company hasn't been resting on its laurels for those two years. Quite the contrary, in fact. Today, the company is back with not one but two new models: Onewheel GT and the Onewheel Pint X. Both machines are evolutions of their predecessors (the Onewheel+ XR and the original Onewheel Pint), but as far as evolutions go, they're pretty dramatic. Future Motion describes them both as a 'quantum leap in performance and capability,' and while we haven't yet had a chance to ride one and see for ourselves, the specs alone suggest they're probably not exaggerating.
+
+
+***
+![DNA confirms living descendant of Native American warrior chief Sitting Bull](https://www.cnet.com/a/img/QMOf_5LRXWXnvalbAyuoS5-Ws1c=/1200x630/2021/10/27/e318c3f0-f4a1-44c3-8748-6b5fbfb356aa/s-npg-77-184.jpg "DNA confirms living descendant of Native American warrior chief Sitting Bull")
+
+
+[DNA confirms living descendant of Native American warrior chief Sitting Bull](https://www.cnet.com/news/dna-confirms-living-descendant-of-native-american-warrior-chief-sitting-bull/)
+
+
+> An image of the legendary warrior chief Sitting Bull.  Smithsonian Institution Ernie Lapointe is a Native American author and Sun Dancer, and for years, has maintained he's the closest living descendant of legendary Lakota warrior chief Sitting Bull. DNA analysis just scientifically verified those claims."Many people have tried to question the relationship that I and my sisters have to Sitting Bull," Lapointe said in a statement. Even though the esteemed writer has presented birth certificates, detailed family trees and historical records to corroborate his connection to the ancient chief, some believed he lacked concrete evidence of a familial tie.
+
+
+***
+![2023 Kia Sportage debuts in US-spec with rugged, new X-Pro model](https://www.cnet.com/a/img/NZ1OFVFreUi8AB5krw__PufyCfE=/1200x630/2021/10/26/c8177ed0-2ac9-4a28-8c4b-df4aa802ca9f/ogi-18048-2023-sportage-x-pro.jpg "2023 Kia Sportage debuts in US-spec with rugged, new X-Pro model")
+
+
+[2023 Kia Sportage debuts in US-spec with rugged, new X-Pro model](https://www.cnet.com/roadshow/news/2023-kia-sportage-x-pro-us-spec-debut/)
+
+
+> Meet the all-new 2023 Kia Sportage... again. Kia Okay, so the new Kia Sportage was technically already revealed earlier this year, but that was the global spec. Today, we get the specifics on exactly powertrain and feature configurations will be headed to America and get the details on a new, rugged X-Pro off-road trim level debuting when the 2023 Kia Sportage makes landfall in the first quarter of 2022.2023 Kia Sportage reveal: Watch the new SUV debut here The new design is a blend of sharp angles and organic curves, pulling elements from Kia's new "Opposites United" design ethos which first debuted on the electric EV6 crossover.
+
+
+***
+![Here are the best pre Black Friday tablet deals (so far)](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/09/galaxy-tab-s6-1.jpg "Here are the best pre Black Friday tablet deals (so far)")
+
+
+[Here are the best pre Black Friday tablet deals (so far)](https://www.androidcentral.com/best-black-friday-tablet-deals)
+
+
+> While it's inevitable that plenty of great Black Friday tablet deals are forthcoming in the next few weeks, lots of retailers are already offering up early Black Friday sales. In many cases, the deals are for older-model tablets, and not just for Android tablets either. So if you have been looking for a budget tablet you can use to knock around with at home, a premium one to use for work or bring on vacation, or one you can comfortably hand over to the kids, now is the time to save. A tablet is a great gift under the tree, ideal for playing games, watching videos, or, with some models, even for doing work when you attach a keyboard or use a stylus pen.
+
+
