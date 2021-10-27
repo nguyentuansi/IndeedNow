@@ -21590,3 +21590,53 @@
 > Five-year-old startup Skyryse has raised a $200 million Series B to develop FlightOS, a flight automation technology stack that the company says will help experienced pilots operate new types of aircraft and allow complete novices to quickly learn the ropes of flying. Most importantly, the company says FlightOS will be able to be retrofitted onto any aircraft — potentially unlocking flight controls to anyone that can operate a touchscreen and a joystick. Right now, that touchscreen is an iPad, but Skyryse told TechCrunch that will be replaced by 'aviation certified touchscreens' in the finished product.
 
 
+***
+![Train Invaders: Jupyter Notebook + Space Invaders!?](https://external-preview.redd.it/NvqCZfc1CHxNpWXEGMUqT6jQrdwLwmUD6lncSFbEO-k.jpg?auto=webp&s=f3c2bc93c6a4e14c745eb1ba8a865bf74b56c6dc "Train Invaders: Jupyter Notebook + Space Invaders!?")
+
+
+[Train Invaders: Jupyter Notebook + Space Invaders!?](https://www.reddit.com/r/Python/comments/qgxejy/train_invaders_jupyter_notebook_space_invaders/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Unicorn Group Messaging Social Network, IRL, Attracts Major Executives From Google, Lyft, TikTok, PlayVS and Daversa Partners](https://mms.businesswire.com/media/20211027005088/en/920342/23/Untitled_design_%281%29.jpg "Unicorn Group Messaging Social Network, IRL, Attracts Major Executives From Google, Lyft, TikTok, PlayVS and Daversa Partners")
+
+
+[Unicorn Group Messaging Social Network, IRL, Attracts Major Executives From Google, Lyft, TikTok, PlayVS and Daversa Partners](https://www.businesswire.com/news/home/20211027005088/en/Unicorn-Group-Messaging-Social-Network-IRL-Attracts-Major-Executives-From-Google-Lyft-TikTok-PlayVS-and-Daversa-Partners)
+
+
+> October 27, 2021 10:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--IRL (In Real Life), the leading group messaging social network that brings people together through group chats, events and shared experiences, announces today the addition of five major executives from top tech startups and leading social and content platforms that will be crucial in accelerating the platform's growth. The executive additions include Gabi Loeb as Chief Financial Officer, Rey Allie as Head of Trust and Safety, Natalie Stone as Head of Experiences, Paul Pattishall as Head of Research, and Lauren Ipsen, who will lead the company's recruiting efforts as Head of Talent.
+
+
+***
+![Spiketrap and Rival Technologies Partnership Accelerates Insights for Market Research Industry](https://mms.businesswire.com/media/20211027005330/en/920518/23/Spiketrap_Release_211027-02.jpg "Spiketrap and Rival Technologies Partnership Accelerates Insights for Market Research Industry")
+
+
+[Spiketrap and Rival Technologies Partnership Accelerates Insights for Market Research Industry](https://www.businesswire.com/news/home/20211027005330/en/Spiketrap-and-Rival-Technologies-Partnership-Accelerates-Insights-for-Market-Research-Industry%C2%A0)
+
+
+> October 27, 2021 10:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Contextualization analytics platform Spiketrap and Rival Technologies Inc., the world-leading mobile market research platform, have announced a partnership that empowers researchers to effortlessly gain deeper, quantitative insights from qualitative datasets. Today, the $75 billion market research industry is growing at a 5.3% compound annual growth rate, as noted by the Market Research Services Global Market Report.
+
+
+***
+![Hazelcast + Kibana: best buddies for exploring and visualizing data](https://external-preview.redd.it/ObVk9jDbOL30MAM9xHOb3hEDvxf_EsJBFXEbP__J4Fc.jpg?auto=webp&s=4493ac3d449d145f90d496492b3f05f417a39821 "Hazelcast + Kibana: best buddies for exploring and visualizing data")
+
+
+[Hazelcast + Kibana: best buddies for exploring and visualizing data](https://www.reddit.com/r/programming/comments/qgxbne/hazelcast_kibana_best_buddies_for_exploring_and/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![The Best Amazon Echo Deals – Updated October 2021](https://www.androidheadlines.com/wp-content/uploads/2020/09/Echo-Charcoal-Sidetable.jpg "The Best Amazon Echo Deals – Updated October 2021")
+
+
+[The Best Amazon Echo Deals – Updated October 2021](https://www.androidheadlines.com/best-amazon-echo-deals)
+
+
+> Amazon Echo smart speakers are a really great thing to have around the house. As are the Echo smart displays and even Fire TV devices which have Alexa built-in. Allowing you to control your smart home from anywhere in and outside of your home. As well as asking Alexa all sorts of questions.Alexa has become very useful in the past few years, greatly improving the way it answers questions and the information that it actually knows. There are also thousands of skills available for Alexa, improving all sorts of things that Alexa can do.
+
+
