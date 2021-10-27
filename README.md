@@ -21452,3 +21452,47 @@
 > Twitter on Tuesday reported its quarterly revenue grew 37 percent and avoided the brunt of Apple privacy changes on advertising that hobbled its rivals, sending its shares up 3 percent. The social networking site has been working to add new features such as audio chat rooms to attract users, and also rolled out improvements to its advertising capabilities to reach its goal of doubling annual revenue by 2023.Advertising revenue was $1.14 billion (roughly Rs. 8,550 crore) during the quarter ended September 30, in line with consensus estimates.
 
 
+***
+![Russia opens case against Apple over App Store payment restrictions](https://www.reuters.com/resizer/osmAgj6qIzvbc0IQpcTSXpZiWIA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RT2ZIQ52VRPVJH7CG342QFMYLE.jpg "Russia opens case against Apple over App Store payment restrictions")
+
+
+[Russia opens case against Apple over App Store payment restrictions](https://www.reuters.com/technology/russia-opens-case-against-apple-over-app-store-payment-restrictions-2021-10-27/)
+
+
+> An Apple logo hangs above the entrance to the Apple store on 5th Avenue in the Manhattan borough of New York City, July 21, 2015. REUTERS/Mike SegarMOSCOW, Oct 27 (Reuters) - Russia has opened an anti-trust case against Apple (AAPL.O) for failing to allow developers to offer customers alternative payment options outside its App Store platform, Russia's anti-monopoly regulator said on Wednesday.Apple did not immediately respond to a Reuters request for comment.Reporting by Maria Kiselyova and Alexander Marrow; writing by Tom Balmforth; editing by Jason NeelyOur Standards: The Thomson Reuters Trust Principles.
+
+
+***
+![Honor 50 review: Honor's back, and what's old is new again](https://icdn.digitaltrends.com/image/digitaltrends/honor-50-top-in-hand.jpg "Honor 50 review: Honor's back, and what's old is new again")
+
+
+[Honor 50 review: Honor's back, and what's old is new again](https://www.digitaltrends.com/mobile/honor-50-review/)
+
+
+> 'The Honor 50 represents the newly independent brand's return to Android phones with Google Mobile Services onboard. While that's big, the rest of the phone doesn't feel especially fresh, despite the mad color scheme and finish.' Pros Beautiful 120Hz AMOLED screen Fast charging Lightweight and sensibly sized Fun video modes with easy editing Cons No wireless charging No water resistance Single speaker Comebacks are surprisingly common in mobile tech, with Nokia, BlackBerry, and even Palm all returning after a period away — to varying degrees of success.
+
+
+***
+[Native Instruments celebrates 25th anniversary with free Instrument & revamped hardware](https://weraveyou.com/tech/native-instruments-25th-anniversary-collection-free-instrument/)
+
+
+> Music production technology has heavily evolved since the onset of the 21st century. One name that has been present through all these years has been Native Instruments. Native Instruments just turned 25 and to celebrate its 25th anniversary, they announced a new free instrument and also revisited some of NI’s most popular hardware devices into something new.   |  Sarah de Warren […] The post Native Instruments celebrates 25th anniversary with free Instrument & revamped hardware appeared first on We Rave You.
+
+
+***
+[Garena Free Fire latest redeem codes: Check redeem codes process, Diwali free rewards and more](https://www.zeebiz.com/technology/apps/news-garena-free-fire-latest-redeem-codes-check-redeem-codes-process-diwali-free-rewards-and-more-169043)
+
+
+> Also, Garena Free Fire offers a vast range of cosmetics like outfits, skins, and more for players to choose from.
+
+
+***
+![Apple's smart glasses could feature futuristic projection tech](https://icdn.digitaltrends.com/image/digitaltrends/49818131-close-up-of-woman-eye-in-process-of-scanning.jpg "Apple's smart glasses could feature futuristic projection tech")
+
+
+[Apple's smart glasses could feature futuristic projection tech](https://www.digitaltrends.com/wearables/apples-smart-specs-could-feature-futuristic-projection-tech/)
+
+
+> Apple could one day release a pair of smart glasses that does away with small displays and instead projects images directly onto the wearer's retina. The so-called 'retinal projector' technology is discussed in an Apple patent granted to the tech giant by the United States Trademark and Patent Office on Tuesday, October 26, Apple Insider reported. In the document, Apple proposes that the futuristic-sounding technology could help to eradicate eyestrain, headaches, and nausea that some users experience when using virtual reality (VR) and augmented reality (AR) headsets.
+
+
