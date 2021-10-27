@@ -21546,3 +21546,47 @@
 > Hi GuysI made a little project with PySimpleGui. It is used to check if a downloaded file has the correct hash.The App was my first project with PySimpleGui.e.g. You have downloaded a file and the webpage offering the file has provided a hash value for the downlaod.Inside the app you can select the downloaded file and enter the provided hash value.The app then generates 3 types of hashes and compares them to the entered value.it's on Gitthub: https://github.com/CRPrinzler/HASH-verifybut I am happy to receive input and critic here ;) .
 
 
+***
+[Soundcore submersible party speaker Select Pro with 16-hour playtime launched In India](http://www.pinkvilla.com/tech/news/soundcore-submersible-party-speaker-select-pro-with-16-hour-playtime-launched-in-india-927612)
+
+
+> Attach Main technology Image: Image Caption: Soundcore submersible party speaker Select Pro with 16-hour playtime launched In India Social Media Image : Enter the Technology details: Soundcore is known for offering a plethora of Audio technology, and today the company has extended its party speakers line up in India with the launch of Select Pro party Speaker. The newly launched party speaker comes with highlighted features like playback time of 16 hours, customized RGB lights, powerful bass, compact design, and a lot more among the others.
+
+
+***
+![Amazon offers first Apple Watch Series 7 deals with $30 off various models](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/apple-watch-series-7-world-clock-face.jpg "Amazon offers first Apple Watch Series 7 deals with $30 off various models")
+
+
+[Amazon offers first Apple Watch Series 7 deals with $30 off various models](https://www.imore.com/amazon-offers-first-apple-watch-series-7-deals-30-ahead-black-friday)
+
+
+> The Apple Watch Series 7 supply is only just catching up with demand following its launch last month but you can already snag a pre-Black Friday deal on one. Several configurations are discounted at Amazon and Walmart right now with $30 off regular prices. Some are already sold out, so don't miss your opportunity to grab one while it's available at a discount. The graphite and gold Apple Watch Series 7 models with Milanese Loop bands are discounted by $30 at Amazon, dropping them down to new low prices.
+
+
+***
+[Samsung Galaxy Book, Galaxy Book Odyssey and Galaxy Book Pro 360 5G laptops launched; Spec, price and more](http://www.pinkvilla.com/tech/news/samsung-galaxy-book-galaxy-book-odyssey-and-galaxy-book-pro-360-5g-laptops-launched-spec-price-and-more-927604)
+
+
+> Attach Main technology Image: Image Caption: Samsung Galaxy Book, Galaxy Book Odyssey and Galaxy Book Pro 360 5G laptops launched; Spec, price and more Social Media Image : Enter the Technology details: Samsung has extended the Book lineup in the United States with the launch of the all new Galaxy Book Odyssey, Samsung Galaxy Book pro 360 5G and Galaxy Book. The newly launched laptops from Samsung have arrived with the latest Windows 11 and Intel 11th generation core processors.
+
+
+***
+![Elon Musk's Texas move surprised company staff, California official says](https://www.mercurynews.com/wp-content/uploads/2021/10/TDB-Z-MUSK-BEZOS-0108.jpg?w=1024&h=683 "Elon Musk's Texas move surprised company staff, California official says")
+
+
+[Elon Musk's Texas move surprised company staff, California official says](https://www.ocregister.com/2021/10/27/musks-texas-move-surprised-even-staff-california-official-says)
+
+
+> By Romy Varghese and David R. Baker | Bloomberg Elon Musk's announcement of Tesla's headquarters move from Silicon Valley to Texas was a surprise to California officials — and to the automaker's own local leadership, according to the head of the state's office of business and economic development. 'Elon didn't even tell his team,' California's Dee Dee Myers said during a press call when asked if the state had been informed in advance of Musk's plans. 'We later talked to the leadership in his offices in California, who did not know until he made that announcement.
+
+
+***
+![Skyryse brings in $200M to make flying an aircraft as simple as swiping a touchscreen – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/Skyryse_JonHamm_10.jpg "Skyryse brings in $200M to make flying an aircraft as simple as swiping a touchscreen – TechCrunch")
+
+
+[Skyryse brings in $200M to make flying an aircraft as simple as swiping a touchscreen – TechCrunch](https://techcrunch.com/2021/10/27/skyryse-brings-in-200m-to-make-flying-an-aircraft-as-simple-as-swiping-a-touchscreen/)
+
+
+> Five-year-old startup Skyryse has raised a $200 million Series B to develop FlightOS, a flight automation technology stack that the company says will help experienced pilots operate new types of aircraft and allow complete novices to quickly learn the ropes of flying. Most importantly, the company says FlightOS will be able to be retrofitted onto any aircraft — potentially unlocking flight controls to anyone that can operate a touchscreen and a joystick. Right now, that touchscreen is an iPad, but Skyryse told TechCrunch that will be replaced by 'aviation certified touchscreens' in the finished product.
+
+
