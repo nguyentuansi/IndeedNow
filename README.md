@@ -21358,3 +21358,50 @@
 > SpaceX has released a video showcasing its reusable Starship spacecraft ahead of its first orbital test flight that it hopes to conduct in the coming weeks. Once the next phase of testing is complete, SpaceX wants to fly an uncrewed Starship to the moon, land it upright on the lunar surface, and then bring it home. Crewed missions to the moon would likely follow. The ultimate goal is to send a crewed Starship to Mars, though don't expect that to happen anytime soon. In the meantime, sit back and enjoy its 90-second Gateway to Mars video (below) showing off Starship, with the almighty Super Heavy rocket also making an appearance toward the end (watch Starship being lifted onto the top of Super Heavy at the 1:20 mark).
 
 
+***
+![CES 2022 returns to Las Vegas from Jan 5-8; will require COVID-19 vaccination](https://images.indianexpress.com/2021/10/CES_2022_.jpeg "CES 2022 returns to Las Vegas from Jan 5-8; will require COVID-19 vaccination")
+
+
+[CES 2022 returns to Las Vegas from Jan 5-8; will require COVID-19 vaccination](https://indianexpress.com/article/technology/tech-news-technology/ces-2022-will-return-to-las-vegas-for-live-events-from-jan-5-8-will-require-covid-19-vaccination-7592780/)
+
+
+> CES 2022, the world's largest consumer electronics show which was forced to go digital in 2021 due to COVID-19, is returning to Las Vegas next year. The Consumer Technology Association, the organisation responsible for hosting CES each year, had confirmed that this year's show will be an in-person event earlier in August. In a press statement, CES confirmed that over 1300 companies including major brands and start-ups will be in Las Vegas starting January 5-8, 2022. While CES 2020 managed to take place give COVID-19 had not yet reached pandemic proportions in January 2020, this year it was forced to go online given the spread of the virus.
+
+
+***
+![WhatsApp's iPhone to Android chat history migration is now available on all Pixel phones](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2021-10-27_at_9.09._1200x768-original.png "WhatsApp's iPhone to Android chat history migration is now available on all Pixel phones")
+
+
+[WhatsApp's iPhone to Android chat history migration is now available on all Pixel phones](https://www.indiatoday.in/technology/news/story/whatsapp-iphone-to-android-chat-history-migration-is-now-available-on-all-pixel-phones-1869843-2021-10-27)
+
+
+> Ankita Chakravarti New Delhi, Oct 27, 2021, Updated Oct 27, 2021, 9:25 AM IST Story highlights WhatsApp iPhone to Android chat migration is not limited to Samsung phones only. Google has announced that the chat history migration feature is now available on all Pixel phones. The search giant also announced that the feature will be available on all new smartphones that will arrive with Android 12. It can get daunting to transfer the complete chat history if you are switching to a new operating system, but Google's new announcement has made things easier for new Android users.
+
+
+***
+![Best cheap Xbox One controller deals for November 2021](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-xbox-one-review-controller-angle.jpg "Best cheap Xbox One controller deals for November 2021")
+
+
+[Best cheap Xbox One controller deals for November 2021](https://www.digitaltrends.com/dtdeals/best-cheap-xbox-one-controller-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. It's no longer easy to find Xbox One controller sales, but you shouldn't give up because they're surely out there. Microsoft controllers have received rave reviews because of their features and ease of use, so it's highly recommended to switch from controllers made by other manufacturers. The official Xbox One wireless controller and its pro-grade sibling, the Xbox One Elite controller, remain the best ways to play games on the Xbox consoles, but they're also perfect for gaming on a PC.
+
+
+***
+![How tough is it to code a blockchain?](https://itwire.com/media/k2/items/cache/119ed2f7f3faa47cc34b739e8fa93b01_XS.jpg "How tough is it to code a blockchain?")
+
+
+[How tough is it to code a blockchain?](https://itwire.com/guest-articles/how-tough-is-it-to-code-a-blockchain.html)
+
+
+> COMPANY NEWS: Talking about how to quickly implement a simple custom blockchain development, I believe that friends already have a basic understanding of this. We then refactored on that basis and added a hotly debated technology - implementing the Proof of Stake code. Before we start implementing it, let's get to know it. Consensus Mechanism. Verification of Work (PoW) and Proof of Rights and Interest (PoS). PoS implementation. Test race. The unique security and encryption features of blockchain technology make it an ideal testing ground for the Internet of Things (IoT).
+
+
+***
+[Samsung Revealed Plans to Enter in Cloud Gaming with Tizen Powered Smart TVs](http://www.pinkvilla.com/tech/news/samsung-revealed-plans-to-enter-in-cloud-gaming-with-tizen-powered-smart-tvs-927077)
+
+
+> Attach Main technology Image: Social Media Image : Enter the Technology details: Samsung is creating a "Cloud Game Platform" that will provide a "seamless and immersive gaming experience." Samsung's Tizen smart TV platform will be used to join the cloud gaming business. The announcement was made during Samsung's Developer Conference keynote, and the firm didn't say what games will be accessible, what other platforms it would be available on if any, or when it would be released.
+
+
