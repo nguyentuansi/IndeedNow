@@ -21308,3 +21308,53 @@
 > The cloud-native ecosystem has steadily grown over the past decade with the promise of faster deployments, cost-efficient infrastructure, and auto-scalability spurring its growth. Businesses are now developing and deploying easily scalable, cost-efficient, and more resilient…
 
 
+***
+![Applications are now open for Apple's Entrepreneur Camp in 2022](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/apple-entrepreneur-camp-2021.jpeg "Applications are now open for Apple's Entrepreneur Camp in 2022")
+
+
+[Applications are now open for Apple's Entrepreneur Camp in 2022](https://www.imore.com/applications-are-now-open-apples-entrepreneur-camp-2022)
+
+
+> Source: Apple Applications are now open for the Apple Entrepreneur Camp. The company is running three camps for Black, Hispanic/Latinx, or female founders. All three of the programs will kick off in January of 2022. You can now apply for admission into one of three upcoming Apple Entrepreneur Camp programs. In a news update on the Apple Developer website, the company announced that it has opened up applications for three different programs for Black, Hispanic/Latinx, and female founders. Applications will close on November 28 and the programs will kick off in January of next year.
+
+
+***
+![入冬了 给你的AirPods穿上毛衣](https://article-fd.zol-img.com.cn/t_s120x75/g6/M00/0F/07/ChMkKWF4Q9aIP4wYAAGSwFzrsBkAAU-ZAJN0c0AAZLY913.jpg "入冬了 给你的AirPods穿上毛衣")
+
+
+[入冬了 给你的AirPods穿上毛衣](http://news.zol.com.cn/779/7794190.html)
+
+
+> 2021-10-27 02:02:15   [  中关村在线 原创  ]   作者：老王 Native Union本周宣布推出AirPods Beanies，这是一款仿照标志性iPod Sock设计的AirPods新便携包。AirPods Beanies是在iPod 20周年之后推出的，将吸引iPod粉丝。AirPods Beanies 苹果公司于2004年开始销售iPod Socks，提供一套6个，售价29美元。当它们被推出时，史蒂夫-乔布斯开玩笑地称它们为 "革命性的新产品"，它们成为苹果用户的最爱，因为它们能够适合多种设备，甚至是早期的iPhone。AirPods Beanies AirPods小帽采用双色针织设计，类似于iPod Sock，它们有四种粉色。冰川色、桃红色、靛蓝色和鼠尾草色。小帽的尺寸适合所有AirPods型号，包括原始AirPods、AirPods 2、AirPods 3和AirPods Pro。AirPods Beanies 小帽与原来的iPod Socks接近相同，不过它们更短，适合AirPods，并有一系列新鲜的颜色。Beanies可以为无线充电目的或在使用时滑落，当AirPods被塞进包里或口袋时，它们为AirPods提供保护。本文属于原创文章，如若转载，请注明来源：入冬了 给你的AirPods穿上毛衣https://news.
+
+
+***
+![QuintessenceLabs raises $25 million in Series B round](https://itwire.com/media/k2/items/cache/9237e9d70fe8f96865ce4c624b162d31_XS.jpg "QuintessenceLabs raises $25 million in Series B round")
+
+
+[QuintessenceLabs raises $25 million in Series B round](https://itwire.com/deals/quintessencelabs-raises-$25-million-in-series-b-round.html)
+
+
+> QuintessenceLabs founder and CEO Vikram Sharma Quantum cybersecurity specialist QuintessenceLabs has raised $25 million in its Series B round led by Main Sequence and Telus Ventures, with participation from InterValley Ventures and Capital Property Group. "We are delighted to have secured investments from Main Sequence and Telus Ventures and be recognised for our breakthrough commercialisation of quantum-enhanced cybersecurity solutions," said QuintessenceLabs founder and CEO Vikram Sharma. "Safeguarding data – our most valuable resource – has never been more critical and we look forward to this exciting new growth stage while continuing to develop world-leading solutions to secure our increasingly digital lives.
+
+
+***
+![Native Union推出AirPods Beanies袜：仿照iPod Sock](https://static.cnbetacdn.com/thumb/article/2021/1027/d19c20d93703f0c.jpg "Native Union推出AirPods Beanies袜：仿照iPod Sock")
+
+
+[Native Union推出AirPods Beanies袜：仿照iPod Sock](http://www.cnbeta.com/articles/tech/1195351.htm)
+
+
+> Native Union 本周推出了 AirPods Beanies，这是一款仿照经典 iPod Sock 设计的 AirPods 新便携包。AirPods Beanies 提供了双色针织设计，有 Glacier, Peach, Indigo 和 Sage 四种颜色。该尺寸适合所有 AirPods 型号，包括初代 AirPods、AirPods 2、AirPods 3和AirPods Pro。 苹果公司在 2004 年开始销售 iPod Sock，一套 6 个，售价为 29 美元。当它们被推出时，史蒂夫·乔布斯调侃它们为'革命性的新产品'，它们成为苹果用户的最爱，因为它们能够适合多种设备，甚至是早期的 iPhone。AirPods Beanies 与原来的 iPod Socks 极护相同，不过它们更短，适合 AirPods，并有一系列新鲜的颜色。Beanies 可以为无线充电目的或在使用时滑落，当 AirPods 被塞进包里或口袋时，它们为 AirPods 提供保护。 责任编辑：study875
+
+
+***
+![SpaceX ‘Gateway to Mars' video shows off its Starship spacecraft](https://icdn.digitaltrends.com/image/digitaltrends/starship-sn10-high-altitude-flight-test-edit.jpg "SpaceX ‘Gateway to Mars' video shows off its Starship spacecraft")
+
+
+[SpaceX ‘Gateway to Mars' video shows off its Starship spacecraft](https://www.digitaltrends.com/news/watch-spacexs-gateway-to-mars-video-featuring-starship/)
+
+
+> SpaceX has released a video showcasing its reusable Starship spacecraft ahead of its first orbital test flight that it hopes to conduct in the coming weeks. Once the next phase of testing is complete, SpaceX wants to fly an uncrewed Starship to the moon, land it upright on the lunar surface, and then bring it home. Crewed missions to the moon would likely follow. The ultimate goal is to send a crewed Starship to Mars, though don't expect that to happen anytime soon. In the meantime, sit back and enjoy its 90-second Gateway to Mars video (below) showing off Starship, with the almighty Super Heavy rocket also making an appearance toward the end (watch Starship being lifted onto the top of Super Heavy at the 1:20 mark).
+
+
