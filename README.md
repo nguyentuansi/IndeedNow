@@ -21640,3 +21640,53 @@
 > Amazon Echo smart speakers are a really great thing to have around the house. As are the Echo smart displays and even Fire TV devices which have Alexa built-in. Allowing you to control your smart home from anywhere in and outside of your home. As well as asking Alexa all sorts of questions.Alexa has become very useful in the past few years, greatly improving the way it answers questions and the information that it actually knows. There are also thousands of skills available for Alexa, improving all sorts of things that Alexa can do.
 
 
+***
+![New Wheel of Time trailer shows what's at stake in Amazon Prime's next big hit](https://cdn.mos.cms.futurecdn.net/BzViqWrtJgB5SXGLbay5fE-1200-80.jpg "New Wheel of Time trailer shows what's at stake in Amazon Prime's next big hit")
+
+
+[New Wheel of Time trailer shows what's at stake in Amazon Prime's next big hit](https://www.techradar.com/news/new-wheel-of-time-trailer-shows-whats-at-stake-in-amazon-primes-next-big-hit)
+
+
+> (Image credit: Amazon Studios) Amazon has released a new trailer for The Wheel of Time ahead of its November 19 arrival – and it looks certain to be the next big Amazon Prime Video TV show.Posting the new video to its official social media channels on Wednesday, October 27, Amazon Studios revealed a slew of new footage for its upcoming adaptation of Robert Jordan's revered fantasy novel series.The trailer is just over two minutes long, but it gives us a better look at the show's overarching plot, fraught action sequences and slight horror aspects.
+
+
+***
+![Why the M1 Is Intel's True Rival For Alder Lake and Beyond](https://icdn.digitaltrends.com/image/digitaltrends/alder-lake-chip-render.jpg "Why the M1 Is Intel's True Rival For Alder Lake and Beyond")
+
+
+[Why the M1 Is Intel's True Rival For Alder Lake and Beyond](https://www.digitaltrends.com/computing/why-the-m1-is-intels-true-rival-for-alder-lake/)
+
+
+> There have been two major CPU announcements in the past couple of weeks — Apple's M1 Pro and M1 Max and today, the Intel 12th-gen Alder Lake platform. Although two different CPU generations with different purposes, Apple and Intel are in hot competition with each other, even if that competition isn't direct. These two platforms are more alike than they may seem, which could shift the balance of power in the CPU market. For decades, it has been a matchup between Intel and AMD. Apple is a new competitor in the ring, which is something that Intel recognized with the launch of Alder Lake.
+
+
+***
+![This limited-time printer ink deal is not to be missed](https://cdn.mos.cms.futurecdn.net/wR9AUuSqDyH9KpGvZzzRM5-1200-80.jpg "This limited-time printer ink deal is not to be missed")
+
+
+[This limited-time printer ink deal is not to be missed](https://www.techradar.com/deals/this-limited-time-printer-ink-deal-is-not-to-be-missed)
+
+
+> (Image credit: Shutterstock) Consumers have been facing steeper and steeper printer ink prices for the last few years, which means finding good deals has become increasingly difficult.In honor of Holloween, however, 4inkjets has slashed 15% off the price of LD ink and toner, with free shipping to further sweeten the deal.Â US-based customers can take advantage of this promotion until November 2 by using discount code SPOOKY at checkout.4inkjets already offered some of the most reasonably-priced printer ink on the market, but this deal will help you secure even greater savings - especially with the addition of free shipping.
+
+
+***
+![Pixel 6 vs. Pixel 6 Pro: Google's new phones compared](https://www.cnet.com/a/img/sdX7kUkAn9NxwJLv0MgG9RVVfJ0=/1200x630/2021/10/19/ea2bc445-7ece-4bef-b58c-e278309903e7/pixel-6-pro-8.jpg "Pixel 6 vs. Pixel 6 Pro: Google's new phones compared")
+
+
+[Pixel 6 vs. Pixel 6 Pro: Google's new phones compared](https://www.cnet.com/tech/mobile/pixel-6-vs-pixel-6-pro-googles-new-phones-compared/)
+
+
+> Andrew Hoyle/CNET The Pixel 6 and Pixel 6 Pro have just been revealed by Google -- and as expected they come loaded with welcome upgrades (like Google's new Tensor chips) that could potentially usher in the tipping of fortunes for the company's struggling phone division.With the Pixel 6 lineup, Google seems to have course-corrected from the Pixel 5, which marked a departure from the pricey Pixel phones of years past. Out goes last year's midrange processor, in comes the company's years-in-the-making Tensor chip.
+
+
+***
+![Abacus.ai snags $50M Series C as it expands into computer vision use cases – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-imsev208-063.jpg?w=600 "Abacus.ai snags $50M Series C as it expands into computer vision use cases – TechCrunch")
+
+
+[Abacus.ai snags $50M Series C as it expands into computer vision use cases – TechCrunch](https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/)
+
+
+> Abacus.ai wants to build an AI platform that simplifies machine learning model creation, while still leaving room for power users. Today the company announced a $50 million Series C. At the same time, it announced that the platform was expanding to include computer vision use cases. Tiger Global led the round with participation from Coatue, Index Ventures and Alkeon Capital. With today's investment, the company says that it has raised over $90 million in under 30 months. The most recent funding prior to this was the company's $22 million Series A last November.
+
+
