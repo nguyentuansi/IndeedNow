@@ -22122,3 +22122,50 @@
 > Instant Pots are extremely popular kitchen appliances that allow you to cook some of your family favorites like stews, casseroles, and tender ribs. They offer a multitude of cooking methods and can speed up cooking times, too.So it's no surprise, you'll find one of the best Instant Pots in more than a quarter of US homes, according to research by Kerry, a food science and nutrition firm. A versatile addition to your kitchen, an Instant Pot allows you to pressure cook, slow cook, steam and sauté. Some models can be used to make yogurt, sous vide, and even replace one of the best air fryers, so there are plenty of reasons why this simple cooking appliance can earn a valued spot on your kitchen countertop.
 
 
+***
+![Which Games to Play With Your New Xbox Hardware and How to Use a Mouse and Keyboard on Your Xbox » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/xbox-testing.jpg "Which Games to Play With Your New Xbox Hardware and How to Use a Mouse and Keyboard on Your Xbox » Brinkwire")
+
+
+[Which Games to Play With Your New Xbox Hardware and How to Use a Mouse and Keyboard on Your Xbox » Brinkwire](https://en.brinkwire.com/technology/which-games-to-play-with-your-new-xbox-hardware-and-how-to-use-a-mouse-and-keyboard-on-your-xbox/)
+
+
+> Which Games to Play With Your New Xbox Hardware and How to Use a Mouse and Keyboard on Your Xbox Attention, Xbox users! Keep reading if you don't like playing with a controller and haven't heard about this yet. Anyone with an Xbox 360, One, or Series X/S can utilize a mouse and keyboard with their system. Microsoft has stated as much. The only disadvantage is that you can't always utilize your console with a mouse or keyboard. Only certain games and apps have complete support for them, and most of the time, app or game developers must first enable the feature.
+
+
+***
+![Australia wants Google to put an alternative search engine on Android phones](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/google-search-reuters-647x363.jpeg?ZLNU9QiFx76cEwUg4FKhF4Fh7FuwFBJT "Australia wants Google to put an alternative search engine on Android phones")
+
+
+[Australia wants Google to put an alternative search engine on Android phones](https://www.indiatoday.in/technology/news/story/australia-wants-google-to-put-an-alternative-search-engine-on-android-phones-1870617-2021-10-28)
+
+
+> Australia wants to put an end to Google's monopoly and give users the option to choose which search engine they opt to use. Several tech giants have been under strict scrutiny by competition watchdogs worldwide, and Google has been locking horns with ACCC for quite some time now. Now, the Australian Competition and Consumer Commission, or short for ACCC, wants Google to show Australians search engine options on Android phones. ACCC wants Google to mandatorily include a "choice screen" for search engines on all Android devices in its latest report.
+
+
+***
+![The best smart locks that support Google Home and Assistant in 2021](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/10/nest-yale-lock-2.jpg "The best smart locks that support Google Home and Assistant in 2021")
+
+
+[The best smart locks that support Google Home and Assistant in 2021](https://www.androidcentral.com/best-smart-locks-support-google-assistant)
+
+
+> Best smart locks for Google Home Android Central 2021 If you want to go all-in with smart home gadgets, there's a lot to consider, from smart speakers to smart lighting. Smart locks for Google Home are also worth the investment. Not only do they keep your home safe and secure, but they can also be controlled remotely, and give you access to other family members or friends easily. Here are the best smart locks for Google Home that are controlled using Google Assistant. Staff Pick You can control this smart lock from anywhere through Google Assistant, and it ties in beautifully with other Google Nest products with automated features like disabling your Nest Secure alarm when you come home.
+
+
+***
+![IonQ to Report Third Quarter 2021 Financial Results on November 15, 2021](http://www.businesswire.com/images/bwlogo_square.png "IonQ to Report Third Quarter 2021 Financial Results on November 15, 2021")
+
+
+[IonQ to Report Third Quarter 2021 Financial Results on November 15, 2021](https://www.businesswire.com/news/home/20211028005118/en/IonQ-to-Report-Third-Quarter-2021-Financial-Results-on-November-15-2021)
+
+
+> October 28, 2021 08:00 AM Eastern Daylight Time COLLEGE PARK, Md.--(BUSINESS WIRE)--IonQ, Inc. ('IonQ' or the 'Company') (NYSE: IONQ), a leader in quantum computing, today announced that the Company will release its third quarter 2021 financial results on Monday, November 15th, 2021 after the financial markets close. The Company will host a conference call that same day to discuss its results and business outlook at 4:30 p.m. Eastern time. The call will be accessible by telephone at 877-300-8521 (domestic) or 412-317-6026 (international) using passcode 10161621.
+
+
+***
+[Foxin FoxFit Plus Review; Affordable Smartwatch with big dial and fitness modes](http://www.pinkvilla.com/tech/reviews/foxin-foxfit-plus-review-affordable-smartwatch-with-big-dial-and-fitness-modes-928569)
+
+
+> Attach Main technology Image: Image Caption: Foxin FoxFit Plus Review; Affordable Smartwatch with big dial and fitness modes Social Media Image : Enter the Technology details: Foxin has recently expanded its smartwatch portfolio in India with the launch of FoxFit Plus. The company claims that the fitness tracker comes with a plethora of features that might amaze you. The highlighted feature of the smartwatch is 24Hrs heart rate monitoring, blood pressure scanning, breath training, and a lot more among the others.
+
+
