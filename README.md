@@ -22169,3 +22169,50 @@
 > Attach Main technology Image: Image Caption: Foxin FoxFit Plus Review; Affordable Smartwatch with big dial and fitness modes Social Media Image : Enter the Technology details: Foxin has recently expanded its smartwatch portfolio in India with the launch of FoxFit Plus. The company claims that the fitness tracker comes with a plethora of features that might amaze you. The highlighted feature of the smartwatch is 24Hrs heart rate monitoring, blood pressure scanning, breath training, and a lot more among the others.
 
 
+***
+[Gigantes tecnológicas unem-se para aumentar diversidade nas empresas](https://www.noticiasaominuto.com/tech/1861439/gigantes-tecnologicas-unem-se-para-aumentar-diversidade-nas-empresas?utm_source=rss-tech&utm_medium=rss&utm_campaign=rssfeed)
+
+
+> Iniciativa incluiu a Apple, a Google, a Netflix, a Snap, o Twitter, o Spotify, a Uber, entre outras ...
+
+
+***
+![Apple TV+ coming to Sky Glass and Sky Q](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/03/apple-introduces-apple-tv-plus-03252019.jpg "Apple TV+ coming to Sky Glass and Sky Q")
+
+
+[Apple TV+ coming to Sky Glass and Sky Q](https://www.imore.com/apple-tv-coming-sky-glass-and-sky-q)
+
+
+> Source: Apple Sky in the UK announced today that TV+ would be arriving for Sky Glass and Sky Q customers later this year: Sky and Apple today announced a new long-term agreement that will see Apple TV+ launch on Sky Glass and Sky Q later this year, while NOW brings integrated billing and in-app purchases across iOS and tvOS. TV+ will be available to customers in the UK, Ireland, Germany, Austria, and Italy. In another big move, Sky also announced that Sky customers will be able to access Sky Go on Apple TV devices in mid-2022.
+
+
+***
+![Keep your iCloud account secure with two-factor authentication](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/01/apple-2fa-code-iphone-x-hero.jpg "Keep your iCloud account secure with two-factor authentication")
+
+
+[Keep your iCloud account secure with two-factor authentication](https://www.imore.com/how-set-apples-two-factor-authentication)
+
+
+> Source: iMore Two-factor authentication (2FA) is a secondary security measure that provides you with an access code for your Apple ID after you enter your username and password on a new device or into iCloud.com. Apple allows its customers to set up 2FA for their iCloud accounts on the best iPhones and best iPads, and get codes from a circle of trusted devices which also include Macs. Bottom line: If you want something more than just your password to protect your Apple ID — which you use for iCloud, iTunes, and the App Store — then you want 2-factor authentication turned on.
+
+
+***
+![Looking for a NAS to run Plex? These are the best enclosures.](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/synology-ds220-plus-review-2.jpg "Looking for a NAS to run Plex? These are the best enclosures.")
+
+
+[Looking for a NAS to run Plex? These are the best enclosures.](https://www.androidcentral.com/best-nas-plex)
+
+
+> Source: Apoorva Bhardwaj / Android Central Best NAS for Plex Android Central 2021 The best NAS for Plex, which stands for network-attached storage, lets you easily stream your media library on all devices across your home network. The DiskStation DS220+ illustrates this point perfectly — it transcodes content so that any device can playback any file without running into issues and doubles up as a reliable solution for backing up photos and videos from your connected devices.Source: Harish Jonnalagadda / Android Central Right now, the DiskStation DS220+ is the best NAS you can buy for Plex streaming.
+
+
+***
+![Apple introduces a fix for MacBook Pro notch haters](https://cdn.mos.cms.futurecdn.net/vS5qTpmDA6xxDprJhqfGSB-1200-80.jpg "Apple introduces a fix for MacBook Pro notch haters")
+
+
+[Apple introduces a fix for MacBook Pro notch haters](https://www.techradar.com/news/apple-introduces-a-fix-for-macbook-pro-notch-haters)
+
+
+> (Image credit: Future) The new MacBook Pro models with Mini-LED screens have run into further controversy around the notch, with Apple having to introduce what seems to be a quick workaround for apps that run into trouble with said notch.As spotted by @Jatodaro on Twitter, there are scenarios with some apps where details put in the top bar which runs alongside the notch, can actually end up being placed in the area where the notch is – where there's no screen (just the webcam) – so these icons or options effectively disappear.
+
+
