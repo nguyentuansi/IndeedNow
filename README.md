@@ -22028,3 +22028,47 @@
 > Oct 5, 2006 1,671 739 Great White North Just want to confirm that there is no selection to play HDR videos in Safari right now, at least on my new 16" M1 Pro MBP, although Chrome does allow it. Pro Motion is also not working in either Safari or Chrome, and 60 fps is smoother in Chrome. Pro Motion seems to be working in other apps like Messages and Photos, though. The difference is very noticeable. Hoping for a fix soon! You're right, thanks! Why Safari is still stuck at 60Hz in a major release like this is mind boggling.
 
 
+***
+![Dad, 54, wins a £5,000 settlement after being detained for using a £100 coin to buy gas at Tesco. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/0_brett-chamberlain.jpg "Dad, 54, wins a £5,000 settlement after being detained for using a £100 coin to buy gas at Tesco. » Brinkwire")
+
+
+[Dad, 54, wins a £5,000 settlement after being detained for using a £100 coin to buy gas at Tesco. » Brinkwire](https://en.brinkwire.com/technology/dad-54-wins-a-5000-settlement-after-being-detained-for-using-a-100-coin-to-buy-gas-at-tesco/)
+
+
+> Dad, 54, wins a £5,000 settlement after being detained for using a £100 coin to buy gas at Tesco. Brett Chamberlain was thrown out of a Devon gas station after attempting to pay with a £100 coin that police later admitted was perfectly legal tender after an investigation. A father was fined £5,000 after being detained for paying for gas with a £100 coin. After topping up in July last year, Brett Chamberlain, 54, perplexed Tesco fuel employees with a rare commemorative coin. The carpenter was then questioned by police for escaping the Exeter forecourt with a free tank of petrol after being booted out of the shop for his unique manner of payment.
+
+
+***
+[Open IP over VHF/UHF 5](https://www.reddit.com/r/programming/comments/qhhyfq/open_ip_over_vhfuhf_5/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[Instagram new update will allow everyone to share links in stories](http://www.pinkvilla.com/tech/news/instagram-new-update-will-allow-everyone-to-share-links-in-stories-928221)
+
+
+> Attach Main technology Image: Image Caption: Instagram new update will allow everyone to share links in stories Social Media Image : Enter the Technology details: Recently on Wednesday Instagram announced that its link sticker feature is now available for everyone in Instagram stories. This new link sticker was introduced recently as Instagram removed its swipe-up link feature. The old swipe-up link and the new link sticker feature were both available only for business accounts and high-profile creators.
+
+
+***
+![Planning to buy a MacBook for work and play? Read this first](https://images.indianexpress.com/2021/10/Mac-2.jpg "Planning to buy a MacBook for work and play? Read this first")
+
+
+[Planning to buy a MacBook for work and play? Read this first](https://indianexpress.com/article/technology/tech-news-technology/apple-macbook-buying-guide-2021-7595038/)
+
+
+> No matter if it's new or used, buying an Apple Mac is a major investment. Consumers looking for a MacBook or Mac desktop need to consider carefully which model is best based on your requirements. We can help ease the process of buying a Mac, making sure you choose the right one, and buying online or through retail stores. Whether you are buying a MacBook or Mac desktop, make sure you decide on a model based on your purpose and needs. Not to worry, though. Ask yourself: whether you want a laptop or desktop? Investing in a MacBook makes a lot of sense as you can take it anywhere and work wherever you want.
+
+
+***
+![How to use a proxy with Puppeteer?](https://external-preview.redd.it/Ro4ejnBrgeXyl6IcZF3wgCnNjG7FhQ16HIRb3lqBgHs.jpg?auto=webp&s=997b7e070b1f17c8fa58e3189c624dbeb8b05146 "How to use a proxy with Puppeteer?")
+
+
+[How to use a proxy with Puppeteer?](https://www.reddit.com/r/programming/comments/qhhw1y/how_to_use_a_proxy_with_puppeteer/)
+
+
+> no comments yetBe the first to share what you think!
+
+
