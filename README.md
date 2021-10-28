@@ -22316,3 +22316,53 @@
 > October 28, 2021 01:44 PM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Following the successful launch of the $RLY network protocol and its first application, Rally.io, founders Kevin Chou and Mahesh Vellanki have unveiled SuperLayer (www.superlayer.io), a crypto venture studio building independent consumer web3 projects on the $RLY network. SuperLayer will found and launch projects in-house and then recruit founding product managers (PMs) to run point, leveraging the deep expertise and resources of the team to support in areas including blockchain development, token launches, economics, staffing, go-to-market, compliance and fundraising.
 
 
+***
+![Facebook ridiculed for changing its name](https://static.independent.co.uk/2021/10/28/19/newFile-7.jpg?width=1200&auto=webp&quality=75 "Facebook ridiculed for changing its name")
+
+
+[Facebook ridiculed for changing its name](https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-meta-name-change-reaction-b1947312.html)
+
+
+> Twitter users were quick to ridicule Facebook for changing its corporate name to Meta following a tidal wave of criticism and scandalous revelations. New York Democratic Representative Alexandria Ocasio-Cortez tweeted: 'Meta as in ‘we are a cancer to democracy metastasizing into a global surveillance and propaganda machine for boosting authoritarian regimes and destroying civil society… for profit!'''Facebook just changed their name to META. Honestly this is insane news,' one Twitter user wrote. Another added that Mark Zuckerbeg had 'a bottle of Sweet Baby Ray's on the bookshelf as he announces Facebook's rebrand to Meta.
+
+
+***
+![A 2,000-year-old 'lost city' has been discovered thanks to groundbreaking laser scanning technology. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/1_file-photo-visitor-looks-at-an-olmec-colossal-head-during-the-preview-of-colossal-masterworks-of-t.jpg "A 2,000-year-old 'lost city' has been discovered thanks to groundbreaking laser scanning technology. » Brinkwire")
+
+
+[A 2,000-year-old 'lost city' has been discovered thanks to groundbreaking laser scanning technology. » Brinkwire](https://en.brinkwire.com/news/a-2000-year-old-lost-city-has-been-discovered-thanks-to-groundbreaking-laser-scanning-technology/)
+
+
+> A 2,000-year-old ‘lost city' has been discovered thanks to groundbreaking laser scanning technology. Without the use of Lidar, the massive site in the southeastern Mexican state of Veracruz, which is littered with stone heads depicting ancient Olmec kings, would have been invisible to those strolling straight over it. A cutting-edge ground scanning technique has unearthed a hidden world of ancient religious monuments erected by the Americas' early civilisations. Around the San Lorenzo site, which is associated with the ancient Olmec civilisation, researchers discovered about 500 square complexes dating from 1,050 BC to 400 BC.
+
+
+***
+![18 Common Python Anti-Patterns I Wish I Had Known Before](https://external-preview.redd.it/Jf7Xsw3hqrXS8YL_ZrM8bJayzkVMUleDySf0XjwoQDg.jpg?auto=webp&s=586005c57e61ce4c4137c57ca3d3c11c8e35860c "18 Common Python Anti-Patterns I Wish I Had Known Before")
+
+
+[18 Common Python Anti-Patterns I Wish I Had Known Before](https://www.reddit.com/r/Python/comments/qhvbhg/18_common_python_antipatterns_i_wish_i_had_known/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![These are the best games included with Google Play Pass in 2021](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/11/stardew_valley_gotw.jpg "These are the best games included with Google Play Pass in 2021")
+
+
+[These are the best games included with Google Play Pass in 2021](https://www.androidcentral.com/best-games-google-play-pass)
+
+
+> Source: Jordan Palmer / Android Central Google Play Pass continues to offer great value for Android users looking to save on premium apps and indie-developed games in 2021. It's only $5 per month and gives you access to tons of premium content. Plus, if you need to take a break and cancel your subscription, all of your favorite games and apps, as well as their save data, will be waiting when you return. There are a ton of great games that have already been added to the service across multiple genres — from intense strategy games and action-packed indie platformers to relaxing puzzle experiences and immersive RPGs.
+
+
+***
+![Do your ears a favor and get the best wireless PS4 headset possible](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/06/turtle-beach-stealth-600-lifestyle.jpg "Do your ears a favor and get the best wireless PS4 headset possible")
+
+
+[Do your ears a favor and get the best wireless PS4 headset possible](https://www.androidcentral.com/best-wireless-playstation-4-headsets)
+
+
+> Source: Android Central Best Wireless PlayStation 4 Headsets Android Central 2021 A good headset can transform your gaming experience, allowing you the sound quality you won't get from your TV's speakers while enabling you to communicate with other players easily. As a bonus, headsets keep your gaming sessions quiet if you're sharing a space, and they look pretty awesome. We've rounded up several choices depending on your priorities and budget. Now, if you're in the market for one of the best PS5 headsets, we've got you covered on that front too.
+
+
