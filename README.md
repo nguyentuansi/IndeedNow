@@ -21928,3 +21928,53 @@
 > Facebook whistleblower Frances Haugen testifies before the Senate Commerce, Science and Transportation Subcommittee earlier this month. Getty Images Facebook has instructed its employees to preserve all internal documents and communications since 2016 because governments and regulators have started inquiries into its operations.The move, known as a "legal hold," comes amid increased scrutiny from regulators, lawmakers and the media over the social network's potential harms to users. For the past several weeks, the company has been grappling with the fallout surrounding Frances Haugen, a former Facebook employee-turned-whistleblower, who disclosed thousands of documents and internal communications that showed Facebook was aware of the dangers of its products but downplayed these effects publicly.
 
 
+***
+![iPhone 12 available for as low as Rs 49,999 in Flipkart Diwali sale, here is how deal works](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/iphone12_18102021_0-original.png "iPhone 12 available for as low as Rs 49,999 in Flipkart Diwali sale, here is how deal works")
+
+
+[iPhone 12 available for as low as Rs 49,999 in Flipkart Diwali sale, here is how deal works](https://www.indiatoday.in/technology/news/story/iphone-12-available-for-as-low-as-rs-49-999-in-flipkart-diwali-sale-here-is-how-deal-works-1870317-2021-10-28)
+
+
+> Story highlights Flipkart Big Diwali Sale is underway with a good offer on the iPhone 12. The iPhone 12 is available for Rs 53,999, instead of original price of Rs 65,900. But when you use an SBI credit card, the effective price becomes Rs 49,999. Flipkart is back with another festive season sale and it is called the Big Diwali Sale. There are several deals that you can grab, but if you are particularly looking to buy an iPhone 12, Flipkart has a good offer for you. The iPhone 12 is available to buy for Rs 53,999 in the sale, which is the same price as before, but there are extra discounts.
+
+
+***
+![Open IP over VHF/UHF Part 5](https://www.rowetel.com/images/rpitx/t2_shield.jpg "Open IP over VHF/UHF Part 5")
+
+
+[Open IP over VHF/UHF Part 5](https://www.rowetel.com/?p=7898)
+
+
+> I've been having fun testing my data radio system over the air for the first time. This involved a few false starts, careful testing, tracking down a few bugs, and tuning the system to handle local EMI and strong pager signals. The good news is – it works! Using 10mW of transmitter power I have established a 1 kbit/s link over a 15km urban path using a RpiTx transmitter and RTL-SDR receiver. Plus lots of software. My aim for this phase of the project was: don't expect miracles with 10mW, but it should work down to the predicted Minimum Detectable Signal (MDS) over real world urban paths.
+
+
+***
+![Google's mobile search dominance under threat in Australia](https://images.indianexpress.com/2021/09/Google-Search-Dark-Mode.jpg "Google's mobile search dominance under threat in Australia")
+
+
+[Google's mobile search dominance under threat in Australia](https://indianexpress.com/article/technology/tech-news-technology/googles-mobile-search-dominance-under-threat-in-australia-7594560/)
+
+
+> Google should be forced to give up its position as the default search engine on mobile phones and tablets under proposals from Australia's antitrust watchdog to rein in the tech giant's power. The Australian Competition & Consumer Commission on Thursday recommended a mandatory choice screen, offering alternative search engine providers, be displayed on current and new mobile devices that run Google's Android operating system. The watchdog is also considering extending the change to Apple Inc.'s iPhones and desktop devices.
+
+
+***
+![Facebook expanding Los Lunas data center by 2 new buildings](https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png "Facebook expanding Los Lunas data center by 2 new buildings")
+
+
+[Facebook expanding Los Lunas data center by 2 new buildings](https://apnews.com/article/technology-business-new-mexico-environment-michelle-lujan-grisham-17c21fe8c97f0ed0cd12767cd211202b)
+
+
+> LOS LUNAS, N.M. (AP) — Facebook is expanding its Los Lunas data center by two new buildings, according to company officials. Once completed, company officials said the nearly 3.8 million-square-foot data center will represent an investment of nearly $2 billion and will support more than 400 operational jobs. 'The expansion proves New Mexico can meet the needs of large global companies which need a skilled workforce, modern infrastructure, and a strong and competitive business environment,' Gov. Michelle Lujan Grisham said in a statement Wednesday.
+
+
+***
+![Flipkart Big Diwali sale goes live: Google Pixel 4a available for Rs 23,999 with bank offers](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/screenshot_2021-10-28_at_9.00._1200x768-original.png "Flipkart Big Diwali sale goes live: Google Pixel 4a available for Rs 23,999 with bank offers")
+
+
+[Flipkart Big Diwali sale goes live: Google Pixel 4a available for Rs 23,999 with bank offers](https://www.indiatoday.in/technology/news/story/-flipkart-big-diwali-sale-goes-live-google-pixel-4a-available-for-rs-23-999-with-bank-offers-b-1870315-2021-10-28)
+
+
+> Ankita Chakravarti New Delhi, Oct 28, 2021, Updated Oct 28, 2021, 9:04 AM IST Flipkart is back with yet another sale for Diwali. After Big Billion Days sale, Flipkart's Big Diwali sale with tons of deals and discounts on products has gone live. The sale will go on till November 3. Flipkart is offering deals across categories including smartphones, tablets, laptops TVs, and more. Apart from the usual discounts, Flipkart is also offering bank discounts for SBI credit and debit card, users. Buyers can get an instant discount of upto 10 per cent on selected products.
+
+
