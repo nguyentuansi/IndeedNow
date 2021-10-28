@@ -22366,3 +22366,50 @@
 > Source: Android Central Best Wireless PlayStation 4 Headsets Android Central 2021 A good headset can transform your gaming experience, allowing you the sound quality you won't get from your TV's speakers while enabling you to communicate with other players easily. As a bonus, headsets keep your gaming sessions quiet if you're sharing a space, and they look pretty awesome. We've rounded up several choices depending on your priorities and budget. Now, if you're in the market for one of the best PS5 headsets, we've got you covered on that front too.
 
 
+***
+![Packers vs Cardinals live stream: how to watch NFL Thursday Night Football online from anywhere](https://cdn.mos.cms.futurecdn.net/iVKZfXUdJF54hNaPpMTYij-1200-80.jpg "Packers vs Cardinals live stream: how to watch NFL Thursday Night Football online from anywhere")
+
+
+[Packers vs Cardinals live stream: how to watch NFL Thursday Night Football online from anywhere](https://www.techradar.com/news/packers-vs-cardinals-live-stream-how-to-watch-2021-nfl-thursday-night-football-online-from-anywhere)
+
+
+> (Image credit: Stacy Revere/Getty Images) The reigning MVP and the leading candidate for this season's accolade take center stage in what many fans consider to be an early dress rehearsal for the NFC Championship game. You can't miss this, so read on as we explain how to get a Packers vs Cardinals live stream and watch NFL Thursday Night Football online no matter where you are in the world.They're a combined 13-1, that solitary defeat being a freak result for the Packers on the opening weekend.
+
+
+***
+![How to watch season 2 of Love Life online from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/love-life-season-two-warnermedia.jpg "How to watch season 2 of Love Life online from anywhere")
+
+
+[How to watch season 2 of Love Life online from anywhere](https://www.androidcentral.com/how-watch-season-2-love-life-online-anywhere)
+
+
+> Even in a city as big as New York, finding love can be difficult but we have all the details on how you can watch a brand-new protagonist search for love in the Big Apple in season two of HBO Max's Love Life. Created by Sam Boyd, Love Life was one of the first shows to debut on HBO's streaming service HBO Max when it launched last year. The romantic comedy anthology series follows a different person each season throughout their entire journey of finding love from their first romance until their last romance.
+
+
+***
+![Chan Zuckerberg Initiative to sunset its Meta project](https://www.cnet.com/a/img/NxRYJFtqTM5sckqvnwUBiZMo2rQ=/1200x630/2021/10/28/2c747c13-dd59-44a4-86a5-0879f2a1a9ad/meta.png "Chan Zuckerberg Initiative to sunset its Meta project")
+
+
+[Chan Zuckerberg Initiative to sunset its Meta project](https://www.cnet.com/tech/chan-zuckerberg-initiative-to-sunset-its-meta-project/)
+
+
+> Screenshot/Meta The Chan Zuckerberg Initiative, a foundation established by Facebook CEO Mark Zuckerberg and his wife Priscilla Chan, said Thursday it will sunset its biomedical research project called Meta next year. This news came right after Zuckerberg announced the formation of a new parent company for Facebook called Meta. Brand assets from Meta were transferred to Facebook following the foundation's decision to deprioritize the project, according to Jeff MacGregor, the vice president of communications for science at CZI.
+
+
+***
+![‘Getting scary': Massive storm strikes](https://cdn.newsapi.com.au/image/v1/b7d9caa9d5cdd110689914481c0b5ace "‘Getting scary': Massive storm strikes")
+
+
+[‘Getting scary': Massive storm strikes](https://www.news.com.au/technology/environment/thousands-without-power-in-victoria-and-sa-after-rain-and-damaging-winds-lash-southeast/news-story/ed183da3f55d42051ed416fe66f3fce4)
+
+
+> Hail in Tanunda, Adelaide, on Thursday. Picture suppliedThousands of homes across Victoria and South Australia are without power as a wild weather system sweeps across the nation's southeast. Forecasters are warning that more damaging winds, hail, and heavy rain are on the way.Melbourne residents woke to galeforce winds and rain with motorists warned traffic lights were out across the city, while fallen trees were blocking roads and also the Glen Waverley train line.High winds are expected to continue into the late morning as thousands of residents struggle with power outages.
+
+
+***
+[Apple posts big quarter, but not enough to ease supply fears](https://www.mymotherlode.com/news/technology/2071829/apple-posts-big-quarter-but-not-enough-to-ease-supply-fears.html)
+
+
+> Apple's iPhone sales soared yet again in the past quarter, but didn't grow as rapidly as analysts anticipated
+
+
