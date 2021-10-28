@@ -22216,3 +22216,53 @@
 > (Image credit: Future) The new MacBook Pro models with Mini-LED screens have run into further controversy around the notch, with Apple having to introduce what seems to be a quick workaround for apps that run into trouble with said notch.As spotted by @Jatodaro on Twitter, there are scenarios with some apps where details put in the top bar which runs alongside the notch, can actually end up being placed in the area where the notch is – where there's no screen (just the webcam) – so these icons or options effectively disappear.
 
 
+***
+![Urgent warning as WordPress bug allows hackers to DELETE your entire site in massive security flaw](https://www.the-sun.com/wp-content/uploads/sites/6/2021/10/EP_WORDPRESS_OFFPLATFORM-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Urgent warning as WordPress bug allows hackers to DELETE your entire site in massive security flaw")
+
+
+[Urgent warning as WordPress bug allows hackers to DELETE your entire site in massive security flaw](https://www.the-sun.com/tech/3951784/urgent-warning-wordpress-bug-hackers-delete-site/)
+
+
+> AN URGENT warning has been issued to WordPress users after a bug on the system reportedly allowed hackers to delete entire sites. The security flaw was first noted by Wordfence who said it it affected the Hashthemes Demo Importer plugin. Unless backed up, the bug could see the website unrecoverable, one expert has saidCredit: Getty Experts say it has since been fixed but the vulnerability has not been noted by developer, TechRadar reports. Threat analyst Ram Gall said: "The most severe consequence of this was that a subscriber-level user could reset all of the content on a given site.
+
+
+***
+![Google Pixel 6 Pro review: Finally, a proper iPhone rival](https://www.cnet.com/a/img/7ysxdTVWPNK8FVtaVQO5IEj4AtU=/1200x630/2021/10/25/56645940-feca-4592-b44e-11c8b60ff059/pixel-6-pro-cnet-review-hoyle-28.jpg "Google Pixel 6 Pro review: Finally, a proper iPhone rival")
+
+
+[Google Pixel 6 Pro review: Finally, a proper iPhone rival](https://www.cnet.com/tech/mobile/google-pixel-6-pro-review-finally-a-proper-iphone-rival/)
+
+
+> The Pixel 6 Pro has everything you'd look for in a 2021 flagship phone. It's the best phone Google has ever made, showcasing strong performance, some great software additions, a unique design and an excellent camera system.And it does that while still undercutting its rivals by price. The 6.7-inch base 128GB model costs $899 (£849, AU$1,299), a sizable chunk less than the 6.1-inch iPhone 13 Pro's $999 price and even more off the $1,099 Apple wants for the larger 6.7-inch iPhone 13 Pro Max.  Excellent camerasSolid all-round performanceNeat Android 12 interfaceAttractive design Battery is good, but not greatFast charge isn't all that fastNo face unlock While last year's Pixel 5 was best seen as a midrange phone with some higher-end touches, the Pixel 6 Pro is premium all the way.
+
+
+***
+![Game delays force French game maker Ubisoft to cut annual guidance](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=55 "Game delays force French game maker Ubisoft to cut annual guidance")
+
+
+[Game delays force French game maker Ubisoft to cut annual guidance](https://www.reuters.com/technology/game-delays-force-french-game-maker-ubisoft-cut-annual-guidance-2021-10-28/)
+
+
+> Oct 28 (Reuters) - French video game group Ubisoft (UBIP.PA) cut its full-year forecasts on Thursday, held back by game delays.The maker of the blockbuster "Assassin's Creed" franchise now expects net bookings for its 2021-22 fiscal year to be flat to slightly down year-on-year.It however confirmed its non-IFRS operating income target of between 420 million euros and 500 million euros ($490.98 million-$584.50 million).For the year ending March 2022, Ubisoft had previously guided for single-digit net bookings growth.
+
+
+***
+![Looking Into Monolithic Power Systems's Return On Capital Employed](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2021/roce_image_1197.jpeg "Looking Into Monolithic Power Systems's Return On Capital Employed")
+
+
+[Looking Into Monolithic Power Systems's Return On Capital Employed](https://www.benzinga.com/news/earnings/21/10/23706841/looking-into-monolithic-power-systemss-return-on-capital-employed)
+
+
+> According to Benzinga Pro, during Q2, Monolithic Power Systems (NASDAQ:MPWR) earned $60.63 million, a 31.55% increase from the preceding quarter. Monolithic Power Systems also posted a total of $293.32 million in sales, a 15.27% increase since Q1. Monolithic Power Systems earned $46.09 million, and sales totaled $254.46 million in Q1. What Is ROCE? Return on Capital Employed is a measure of yearly pre-tax profit relative to capital employed by a business. Changes in earnings and sales indicate shifts in a company's ROCE.
+
+
+***
+![EMCOR Group's Return on Invested Capital Overview](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2021/roce_image_1196.jpeg "EMCOR Group's Return on Invested Capital Overview")
+
+
+[EMCOR Group's Return on Invested Capital Overview](https://www.benzinga.com/news/earnings/21/10/23706839/emcor-groups-return-on-invested-capital-overview)
+
+
+> According to Benzinga Pro, during Q3, EMCOR Group (NYSE:EME) earned $137.42 million, a 3.05% increase from the preceding quarter. EMCOR Group also posted a total of $2.52 billion in sales, a 3.45% increase since Q2. In Q2, EMCOR Group earned $133.36 million, and total sales reached $2.44 billion. What Is ROIC? Return on Invested Capital is a measure of yearly pre-tax profit relative to capital invested by a business. Changes in earnings and sales indicate shifts in a company's ROIC. A higher ROIC is generally representative of successful growth of a company and is a sign of higher earnings per share in the future.
+
+
