@@ -22266,3 +22266,53 @@
 > According to Benzinga Pro, during Q3, EMCOR Group (NYSE:EME) earned $137.42 million, a 3.05% increase from the preceding quarter. EMCOR Group also posted a total of $2.52 billion in sales, a 3.45% increase since Q2. In Q2, EMCOR Group earned $133.36 million, and total sales reached $2.44 billion. What Is ROIC? Return on Invested Capital is a measure of yearly pre-tax profit relative to capital invested by a business. Changes in earnings and sales indicate shifts in a company's ROIC. A higher ROIC is generally representative of successful growth of a company and is a sign of higher earnings per share in the future.
 
 
+***
+![Facebook's Zuckerberg lays out 'metaverse' vision at developers event](https://www.reuters.com/resizer/8Bq98ZhHgpAJ1XC-SunhTd8Ix44=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V4JZTZZGHNNCBCHIHKT46OBUOI.jpg "Facebook's Zuckerberg lays out 'metaverse' vision at developers event")
+
+
+[Facebook's Zuckerberg lays out 'metaverse' vision at developers event](https://www.reuters.com/technology/facebooks-zuckerberg-kicks-off-its-virtual-reality-event-with-metaverse-vision-2021-10-28/)
+
+
+> Facebook Chairman and CEO Mark Zuckerberg addresses the audience on "the challenges of protecting free speech while combating hate speech online, fighting misinformation, and political data privacy and security," at a forum hosted by Georgetown University's Institute of Politics and Public Service (GU Politics) and the McCourt School of Public Policy in Washington, U.S., October 17, 2019. REUTERS/Carlos JassoOct 28 (Reuters) - Facebook Inc (FB.O) CEO Mark Zuckerberg said privacy and safety would need to be built into the metaverse, as he opened the company's annual conference on virtual and augmented reality on Thursday.
+
+
+***
+![Polymers  Free Full-Text](https://external-preview.redd.it/C-YfcP2-Eb8KB5QOZqqJ4NlzXWek40RZ1aHPmThU-MA.jpg?auto=webp&s=7b8ffbd3e0a633674aa6db4e04fea4133420ac42 "Polymers  Free Full-Text")
+
+
+[Polymers  Free Full-Text](https://www.reddit.com/r/programming/comments/qhsp4e/polymers_free_fulltext_channels_with_helical/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Instagram Link Stickers: How To Share Links On Instagram Stories (Step By Step)](https://im.indiatimes.in/content/2021/Oct/Facebook-Image---2021-10-28T190611656_617aa89e4a725.jpg "Instagram Link Stickers: How To Share Links On Instagram Stories (Step By Step)")
+
+
+[Instagram Link Stickers: How To Share Links On Instagram Stories (Step By Step)](https://www.indiatimes.com/technology/news/instagram-link-stickers-how-to-552821.html)
+
+
+> Instagram has announced that its newly launched link-sharing feature dubbed Link Stickers will let everyone include hyperlinks in their Instagram stories.  UnsplashAlso Read: Instagram Kids Version Put On Hold, After Public Outcry Against Facebook The announcement was made by Instagram on October 27 via its Twitter handle. In case you didn't know, Instagram earlier reserved the link-sharing feature (via a swipe up) only for users who had over 10,000 followers, leaving the rest to rely on putting their links on the website section in the bio, or typing tiny URLs in captions.
+
+
+***
+![North America Class D Audio Amplifier Market Forecast to 2028](https://mms.businesswire.com/media/20211028006036/en/921399/23/logo.jpg "North America Class D Audio Amplifier Market Forecast to 2028")
+
+
+[North America Class D Audio Amplifier Market Forecast to 2028](https://www.businesswire.com/news/home/20211028006036/en/North-America-Class-D-Audio-Amplifier-Market-Forecast-to-2028---Opportunities-with-Surging-Demand-for-Electric-Vehicles---ResearchAndMarkets.com)
+
+
+> October 28, 2021 01:48 PM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "North America Class D Audio Amplifier Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Type, Product, and Industry" report has been added to ResearchAndMarkets.com's offering. Mono-Channel Segment to Dominate North America Class D Audio Amplifier Market During 2021-2028 North America Class D Audio Amplifier Market is expected to reach US$ 1,066.80 million by 2028 from US$ 587.92 million in 2021. The market is estimated to grow at a CAGR of 8.
+
+
+***
+![Rally, Forte, and Kabam Founders Launch SuperLayer, a Crypto Venture Studio With Backing From Marc Andreessen, Chris Dixon, Richard Ma, Michael Ovitz and More](https://mms.businesswire.com/media/20211028006035/en/921421/23/superlayerdoc.jpg "Rally, Forte, and Kabam Founders Launch SuperLayer, a Crypto Venture Studio With Backing From Marc Andreessen, Chris Dixon, Richard Ma, Michael Ovitz and More")
+
+
+[Rally, Forte, and Kabam Founders Launch SuperLayer, a Crypto Venture Studio With Backing From Marc Andreessen, Chris Dixon, Richard Ma, Michael Ovitz and More](https://www.businesswire.com/news/home/20211028006035/en/Rally-Forte-and-Kabam-Founders-Launch-SuperLayer-a-Crypto-Venture-Studio-With-Backing-From-Marc-Andreessen-Chris-Dixon-Richard-Ma-Michael-Ovitz-and-More)
+
+
+> October 28, 2021 01:44 PM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Following the successful launch of the $RLY network protocol and its first application, Rally.io, founders Kevin Chou and Mahesh Vellanki have unveiled SuperLayer (www.superlayer.io), a crypto venture studio building independent consumer web3 projects on the $RLY network. SuperLayer will found and launch projects in-house and then recruit founding product managers (PMs) to run point, leveraging the deep expertise and resources of the team to support in areas including blockchain development, token launches, economics, staffing, go-to-market, compliance and fundraising.
+
+
