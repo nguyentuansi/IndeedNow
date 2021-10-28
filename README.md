@@ -22072,3 +22072,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Apple's MacBook Pro notch ‘fix' shrinks screen, brings back thick bezels](https://images.indianexpress.com/2021/10/Apple-MacBook-Pro-2021.jpg "Apple's MacBook Pro notch ‘fix' shrinks screen, brings back thick bezels")
+
+
+[Apple's MacBook Pro notch ‘fix' shrinks screen, brings back thick bezels](https://indianexpress.com/article/technology/laptops/macbook-pro-notch-fix-shrinks-screen-brings-back-thick-bezels-7595328/)
+
+
+> One of the many improvements on the new MacBook Pro 2021 laptops are the thinner bezels on the top and sides of the display. However, the thinner bezels come with a center-aligned notch on the display, similar to the Apple iPhone series. The notch brings with it some more issues, and Apple now has a fix for this. The new scale-to-fit feature works similarly to how a number of notch-hiding mechanisms work on smartphones – by using software to blackout a small area of the screen that encases the notch to leave users a flat, notch-free edge.
+
+
+***
+![Tech billionaires in the crosshairs of new tax proposals](https://thehill.com/sites/default/files/hero_images/tech_bezos_jeff.jpg "Tech billionaires in the crosshairs of new tax proposals")
+
+
+[Tech billionaires in the crosshairs of new tax proposals](https://thehill.com/policy/technology/578838-tech-billionaires-in-the-crosshairs-of-new-tax-proposals)
+
+
+> America's richest tech executives and their companies are in the crosshairs of a new effort by Democrats to pay for the party's ambitious social spending plans. While the new billionaires tax and corporate tax minimum proposals are not specifically targeted toward tech, the industry would be among the hardest hit. Big Tech celebrities like Amazon's Jeff BezosJeffrey (Jeff) Preston BezosManchin raises concern over billionaire tax Tesla becomes fifth company to hit trillion valuation Equilibrium/Sustainability — Presented by Southern Company — As International Space Station winds down, billionaires swoop in MORE, Facebook's Mark ZuckerbergMark ZuckerbergFacebook formula gave anger five times weight of likes, documents show 'Facebook Papers' turn up heat on embattled social media platform TikTok, Snapchat executives to make Capitol Hill debuts MORE and Tesla's Elon MuskElon Reeve MuskManchin raises concern over billionaire tax Hertz teaming up with Uber for Tesla rentals Tesla becomes fifth company to hit trillion valuation MORE — as well as the companies they own — would see their tax bills skyrocket if the new tax comes to fruition.
+
+
+***
+![Quanergy Releases Advanced 3D Perception Software Capabilities for Smart City and Security](https://mms.businesswire.com/media/20211028005448/en/921133/23/PRGraphic_Q_QORTEX_2.2_wo_ortex_%29orange.jpg "Quanergy Releases Advanced 3D Perception Software Capabilities for Smart City and Security")
+
+
+[Quanergy Releases Advanced 3D Perception Software Capabilities for Smart City and Security](https://www.businesswire.com/news/home/20211028005448/en/Quanergy-Releases-Advanced-3D-Perception-Software-Capabilities-for-Smart-City-and-Security)
+
+
+> October 28, 2021 06:00 AM Eastern Daylight Time SUNNYVALE, Calif.--(BUSINESS WIRE)--Quanergy Systems, Inc., a leading provider of OPA-based solid state LiDAR sensors and smart 3D solutions for automotive and IoT, today announced the release of QORTEX DTC 2.2, the latest version of its 3D perception software, designed for advanced smart city and security applications. In June, Quanergy entered into a definitive merger agreement with CITIC Capital Acquisition Corp. (NYSE: CCAC) ('CCAC'). Upon closing of the transaction, the combined company will be named Quanergy Systems, Inc.
+
+
+***
+![Tampereen Sähkölaitos Selects Hansen Trade For Automated Trading Operations](https://mms.businesswire.com/media/20211028005122/en/920879/23/Hansen_brand_logo.jpg "Tampereen Sähkölaitos Selects Hansen Trade For Automated Trading Operations")
+
+
+[Tampereen Sähkölaitos Selects Hansen Trade For Automated Trading Operations](https://www.businesswire.com/news/home/20211028005122/en/Tampereen-S%C3%A4hk%C3%B6laitos-Selects-Hansen-Trade-For-Automated-Trading-Operations)
+
+
+> October 28, 2021 06:00 AM Eastern Daylight Time MELBOURNE, Australia--(BUSINESS WIRE)--Hansen Technologies (ASX:HSN) is pleased to announce a new partnership with Tampereen Sähkölaitos. As part of the agreement, Tampereen Sähkölaitos, a Finnish utility company, will use Hansen Trade to cover automated intraday and regulating power market (mFRR) operations. Hansen Trade Intraday Trading enables Tampereen Sähkölaitos to automate balance-management operations, and to optimise the value of flexible production assets in continuous intraday market.
+
+
+***
+![Does an Instant Pot use a lot of electricity?](https://cdn.mos.cms.futurecdn.net/5jQwVBK5QBjYkQNQxjmXdA-1200-80.jpg "Does an Instant Pot use a lot of electricity?")
+
+
+[Does an Instant Pot use a lot of electricity?](https://www.techradar.com/news/does-an-instant-pot-use-a-lot-of-electricity)
+
+
+> Instant Pots are extremely popular kitchen appliances that allow you to cook some of your family favorites like stews, casseroles, and tender ribs. They offer a multitude of cooking methods and can speed up cooking times, too.So it's no surprise, you'll find one of the best Instant Pots in more than a quarter of US homes, according to research by Kerry, a food science and nutrition firm. A versatile addition to your kitchen, an Instant Pot allows you to pressure cook, slow cook, steam and sauté. Some models can be used to make yogurt, sous vide, and even replace one of the best air fryers, so there are plenty of reasons why this simple cooking appliance can earn a valued spot on your kitchen countertop.
+
+
