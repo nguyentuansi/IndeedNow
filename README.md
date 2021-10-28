@@ -21831,3 +21831,53 @@
 > Facebook sent out a companywide notice on Tuesday ordering employees to preserve documents and communications dating back to 2016 in response to legal inquiries from around the world, according to internal documents obtained by The Washington Post.Get the full experience.Choose your planThe social media giant is battling a flood of media coverage following revelations about how much it knew about the social harm it causes, after a whistleblower came forward with tens of thousands of documents. The Facebook Papers show how researchers knew that the platform caused polarization in numerous countries, led people down misinformation rabbit holes, failed to stop a violent network that led to the January 6 insurrection, and had negative impacts on the mental health of young people.
 
 
+***
+![Samsung operating profit jumps 28%](https://imagevars.gulfnews.com/2019/01/31/190131_Samsung_resources1_16a3107b465_medium.jpg "Samsung operating profit jumps 28%")
+
+
+[Samsung operating profit jumps 28%](https://gulfnews.com/technology/companies/samsung-operating-profit-jumps-28-1.1635380337507)
+
+
+> Latest News UAE Living In UAE UAE Success Stories Special Reports Business Your Money Food Cooking and Cuisines Guide to Cooking Games Daily Crossword Weekend Crossword Sudoku Word Search Play Gaming Parenting Pregnancy & Baby Learning & Play Child Health For Mums & Dads Ask Us Games World Photos News Entertainment Readers' Photos Lifestyle Business Sports Opinion Editorials Op-Eds Letters Off the Cuff Cartoons From the Editors Sport Entertainment Expo 2020 Going Out Auto News Test Drives Car Cu
+
+
+***
+![In-app events land on the iOS App Store](https://photos5.appleinsider.com/gallery/45311-88180-211027-Events-xl.jpg "In-app events land on the iOS App Store")
+
+
+[In-app events land on the iOS App Store](https://appleinsider.com/articles/21/10/28/in-app-events-land-on-the-ios-app-store)
+
+
+> In-app events land on the iOS App Store 11 seconds ago Apple issues first tvOS 15.2 beta to developers for testing 3 hours ago Compared: New AirPods versus AirPods Pro 5 hours ago
+
+
+***
+![Soyuz rocket launched from Baikonur](https://russian.rt.com/static/blocks/og-img/pl-17.jpg "Soyuz rocket launched from Baikonur")
+
+
+[Soyuz rocket launched from Baikonur](https://www.tellerreport.com/tech/2021-10-28-soyuz-rocket-launched-from-baikonur.rkgkliDwIY.html)
+
+
+> Tech/Game 2021-10-27T01:24:11.263Z "I've never been beaten" and get Pfizer's 4th dose... Why is this man Tech/Game 2021-10-27T12:19:29.315Z Ministry investigating possible leak of secret keys for QR codes Tech/Game 2021-10-27T22:30:17.910Z "Why only us?"... "No delay" despite controversy over 'vaccine pass' Tech/Game 2021-10-27T00:14:42.579Z Renting reaches Google: it launches a monthly fee that includes a new high-end mobile every year Tech/Game 2021-10-27T04:42:12.334Z After "Pokémon Go", Nintendo launches a new game in augmented reality Tech/Game 2021-10-27T02:36:30.
+
+
+***
+![[News only] Lying on the bonnet and lying in the car wash? crazy shower man](https://img.sbs.co.kr/newimg/news/20211028/201604498_1280.jpg "[News only] Lying on the bonnet and lying in the car wash? crazy shower man")
+
+
+[[News only] Lying on the bonnet and lying in the car wash? crazy shower man](https://www.tellerreport.com/tech/2021-10-28-[news-only]-lying-on-the-bonnet-and-lying-in-the-car-wash--crazy-shower-man.rygz9KDwUt.html)
+
+
+> Controversy has arisen over the fact that there was an absurd person who took a shower in an automatic car wash. A shirtless man climbs onto the bonnet of a car and sprays detergent from a car wash machine. Controversy has arisen over the fact that there was an absurd person who took a shower inside an automatic car wash. A shirtless man climbs onto the bonnet of a car and sprays detergent from a car wash machine. Then, when the high-pressure water is sprayed from the machine, it comes down from the bonnet and floats near the water to wash the body and vehicle.
+
+
+***
+![[News only] A movie is showing... Audience who turned on the theater lights to go to the bathroom](https://img.sbs.co.kr/newimg/news/20211028/201604500_1280.jpg "[News only] A movie is showing... Audience who turned on the theater lights to go to the bathroom")
+
+
+[[News only] A movie is showing... Audience who turned on the theater lights to go to the bathroom](https://www.tellerreport.com/tech/2021-10-28-[news-only]-a-movie-is-showing----audience-who-turned-on-the-theater-lights-to-go-to-the-bathroom.BJMgKFPw8K.html)
+
+
+> There must have been times when you experienced inconvenience due to the nuisance of some audiences in theaters and movie theaters. Recently, during a movie screening at a movie theater in Seoul, the lights suddenly turned on. There must have been times when you experienced inconvenience due to the nuisance of some audiences in theaters and movie theaters. Recently, during a movie screening at a movie theater in Seoul, the lights suddenly turned on. On the 26th, during a movie screening at a movie theater in Yongsan, Seoul, an audience turned on the light switch while going to the bathroom.
+
+
