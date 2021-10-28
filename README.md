@@ -21881,3 +21881,50 @@
 > There must have been times when you experienced inconvenience due to the nuisance of some audiences in theaters and movie theaters. Recently, during a movie screening at a movie theater in Seoul, the lights suddenly turned on. There must have been times when you experienced inconvenience due to the nuisance of some audiences in theaters and movie theaters. Recently, during a movie screening at a movie theater in Seoul, the lights suddenly turned on. On the 26th, during a movie screening at a movie theater in Yongsan, Seoul, an audience turned on the light switch while going to the bathroom.
 
 
+***
+![Understanding While Loop in Python with Examples](https://external-preview.redd.it/QGM9Oa9UMfqyzozmiMQldCnUS6i5GnTVuuU-10w7RO0.jpg?auto=webp&s=d8609b1c8c9bc45778c4d5603168755da1fc7c88 "Understanding While Loop in Python with Examples")
+
+
+[Understanding While Loop in Python with Examples](https://www.reddit.com/r/programming/comments/qhcjod/understanding_while_loop_in_python_with_examples/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Best wireless earbuds in Australia: the top Bluetooth buds for 2021](https://cdn.mos.cms.futurecdn.net/UhFTZV6vLFpjJWFJkL3MrP-1200-80.jpg "Best wireless earbuds in Australia: the top Bluetooth buds for 2021")
+
+
+[Best wireless earbuds in Australia: the top Bluetooth buds for 2021](https://www.techradar.com/news/audio/the-best-wireless-earbuds-available-today-1327335)
+
+
+> The best wireless earbuds available today deliver reliable Bluetooth connectivity, fantastic audio quality, and a comfortable fit for your ears all rolled into one, often sleek and good-looking, package. In fact, many of the wireless earbuds in this list are so good, they now rival the best wired earbuds. However, knowing what to look for and which brands are the best can be confusing.Whether you're looking for wireless earbuds that'll stay put while you work out, or a noise-cancelling pair to block out the world around you so you can focus, we've got you covered with our roundup of the best models you can buy today.
+
+
+***
+![An alternative to React state in Rescript, a functional frontend language.](https://external-preview.redd.it/C7mo2HKE32flN2GI-C1WEE1U1WtIrO8fbDkVC3ETKxM.jpg?auto=webp&s=eeb4c4f1a4e3c54dd343fd000e5c1b4985083ac8 "An alternative to React state in Rescript, a functional frontend language.")
+
+
+[An alternative to React state in Rescript, a functional frontend language.](https://www.reddit.com/r/programming/comments/qhc9zm/an_alternative_to_react_state_in_rescript_a/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[Samsung reports Q3 net profit of ~$10.5B, up 31% YoY, on record revenue of ~$63B, up 10% YoY, beating estimates; operating profit rose 26% YoY to ~$13B (Richard Lawler/The Verge)](http://www.techmeme.com/211027/p45#a211027p45)
+
+
+> Richard Lawler / The Verge: Samsung reports Q3 net profit of ~$10.5B, up 31% YoY, on record revenue of ~$63B, up 10% YoY, beating estimates; operating profit rose 26% YoY to ~$13B — Credit high demand for chips, foldables, Switch OLED, and the iPhone 13. — In 2020, Samsung weathered the pandemic by posting …
+
+
+***
+![Facebook employees told to preserve internal documents for legal reasons](https://www.cnet.com/a/img/88J_8If-CoFFTg0vJA7cDXERecs=/1200x630/2021/10/28/c0620cef-233b-4a21-b68a-e40156e85457/gettyimages-1235712657.jpg "Facebook employees told to preserve internal documents for legal reasons")
+
+
+[Facebook employees told to preserve internal documents for legal reasons](https://www.cnet.com/tech/services-and-software/facebook-employees-told-to-preserve-internal-documents-for-legal-reasons/)
+
+
+> Facebook whistleblower Frances Haugen testifies before the Senate Commerce, Science and Transportation Subcommittee earlier this month. Getty Images Facebook has instructed its employees to preserve all internal documents and communications since 2016 because governments and regulators have started inquiries into its operations.The move, known as a "legal hold," comes amid increased scrutiny from regulators, lawmakers and the media over the social network's potential harms to users. For the past several weeks, the company has been grappling with the fallout surrounding Frances Haugen, a former Facebook employee-turned-whistleblower, who disclosed thousands of documents and internal communications that showed Facebook was aware of the dangers of its products but downplayed these effects publicly.
+
+
