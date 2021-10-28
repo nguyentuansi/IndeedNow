@@ -21978,3 +21978,53 @@
 > Ankita Chakravarti New Delhi, Oct 28, 2021, Updated Oct 28, 2021, 9:04 AM IST Flipkart is back with yet another sale for Diwali. After Big Billion Days sale, Flipkart's Big Diwali sale with tons of deals and discounts on products has gone live. The sale will go on till November 3. Flipkart is offering deals across categories including smartphones, tablets, laptops TVs, and more. Apart from the usual discounts, Flipkart is also offering bank discounts for SBI credit and debit card, users. Buyers can get an instant discount of upto 10 per cent on selected products.
 
 
+***
+![Renesas Acquires Celeno to Expand Connectivity Portfolio](https://mms.businesswire.com/media/20211027006257/en/658312/23/logo.jpg "Renesas Acquires Celeno to Expand Connectivity Portfolio")
+
+
+[Renesas Acquires Celeno to Expand Connectivity Portfolio](https://www.businesswire.com/news/home/20211027006257/en/Renesas-Acquires-Celeno-to-Expand-Connectivity-Portfolio)
+
+
+> October 28, 2021 02:01 AM Eastern Daylight Time TOKYO--(BUSINESS WIRE)--Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced it has entered into a definitive agreement with Celeno Communications, the leading provider of smart, innovative Wi-Fi solutions, under which Renesas will acquire Celeno in an all cash transaction valuing Celeno at approximately US$315 million (approximately 35.9 billion yen at an exchange rate of 114 yen to the dollar), assuming the payment of certain milestone payments as set forth in the definitive agreement.
+
+
+***
+![Pixel 6 Pro review: the very best Google phone](https://i.guim.co.uk/img/media/cf4f16ec1b75543bf322ba3d528e1bf7be196187/23_246_5213_3127/master/5213.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=9c4981a726596539010f1f88fea075b0 "Pixel 6 Pro review: the very best Google phone")
+
+
+[Pixel 6 Pro review: the very best Google phone](https://www.theguardian.com/technology/2021/oct/28/pixel-6-pro-review-the-very-best-google-phone-camera-price)
+
+
+> The Pixel 6 Pro is Google's reinvigorated attempt to beat Apple and Samsung's best smartphones, with powerful new cameras, custom chips and a standout design.The new model is Google's top phone for 2021 and costs £849 ($899/A$1,299), sitting above the standard Pixel 6 costing £599.From the front, the Pixel 6 Pro looks like a standard top-end phone with a large 6.7in OLED screen that's really good-looking, crisp, bright and smooth, with a 120Hz refresh rate. There's a small hole punch at the top for the selfie camera and a good fingerprint sensor under the display for unlocking the phone.
+
+
+***
+![Instagram now allows anyone to share links in Stories, here's how](https://images.indianexpress.com/2021/10/Instagram-1.jpg "Instagram now allows anyone to share links in Stories, here's how")
+
+
+[Instagram now allows anyone to share links in Stories, here's how](https://indianexpress.com/article/technology/social/instagram-now-allows-anyone-to-share-links-in-stories-heres-how-7594732/)
+
+
+> Instagram is now expanding the ability to add links in Stories to all accounts. The feature was previously only available for those who had a certain number of followers. It was also limited to verified accounts. 'Over the years, businesses, creators and change-makers have shown how sharing resources and information can inspire their communities. From organizing and educating around equity, social justice and mental well-being to showcasing new product drops to customers, link sharing is helpful in many ways — so now we're giving access to everyone,' the company said.
+
+
+***
+![What the opponents of standards don't understand](https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/10/IMG_20211021_091423992_HDR_2.6173034e7044e.png?auto=format%2Ccompress&fit=max&q=70&w=1200 "What the opponents of standards don't understand")
+
+
+[What the opponents of standards don't understand](https://www.ccjdigital.com/technology/article/15280381/what-the-opponents-of-standards-dont-understand)
+
+
+> A recurring opinion from new technology proponents is that standards are bad. We should let the market innovate. After working with more than 90 subject matter experts and a number of fleets, OEMs and other stakeholders during NACFE'S Run on Less - Electric demonstration, I believe these opinions hide a rather selfish and short-sighted perspective. It's not so much that they are against standards, but rather that they want to make sure their own proprietary technology becomes the standard.Truly new technology means no single company starts with any market share.
+
+
+***
+![No YouTube HDR in Safari on new M1 Pro Display](https://images.macrumors.com/social/?t=2320135&v=6 "No YouTube HDR in Safari on new M1 Pro Display")
+
+
+[No YouTube HDR in Safari on new M1 Pro Display](https://forums.macrumors.com/threads/no-youtube-hdr-in-safari-on-new-m1-pro-display.2320135/)
+
+
+> Oct 5, 2006 1,671 739 Great White North Just want to confirm that there is no selection to play HDR videos in Safari right now, at least on my new 16" M1 Pro MBP, although Chrome does allow it. Pro Motion is also not working in either Safari or Chrome, and 60 fps is smoother in Chrome. Pro Motion seems to be working in other apps like Messages and Photos, though. The difference is very noticeable. Hoping for a fix soon! You're right, thanks! Why Safari is still stuck at 60Hz in a major release like this is mind boggling.
+
+
