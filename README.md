@@ -22557,3 +22557,53 @@
 > I have to work on a project for university. Basically a terminal password manager that has an array of websites and an array of passwords. I am trying to build a feature that accepts the users input, and prints the password of the same index out ( for example if user enters „google', the program will search the websites array for „google' and print the corresponding index of the passwords array).Heres what i have so far, but cant get it to work. Hopefully my question makes sense.website = [‚goog
 
 
+***
+![Taiwan's ProLogium raises $326 mln for solid-state lithium mass production](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=55 "Taiwan's ProLogium raises $326 mln for solid-state lithium mass production")
+
+
+[Taiwan's ProLogium raises $326 mln for solid-state lithium mass production](https://www.reuters.com/technology/taiwans-prologium-raises-326-mln-solid-state-lithium-mass-production-2021-10-29/)
+
+
+> SHANGHAI, Oct 29 (Reuters) - ProLogium Technology Co, a Taiwanese battery maker, said on Friday it had raised a total of $326 million from Primavera Capital Group, SoftBank China Venture Capital and others, as they bet on the next generation electric-vehicle (EV) batteries.The capital will allow ProLogium to expand its mass production of solid-state lithium batteries in Asia, Europe and the United States between 2023 and 2025, the company said in a statement.Solid-state batteries could be game changer for EVs by storing more energy, charging faster and offering greater safety than liquid lithium-ion batteries, helping accelerate the shift away from fossil fuel-powered cars.
+
+
+***
+![Apple's new iOS 15.2 beta update brings an important ‘privacy' feature](https://images.indianexpress.com/2021/10/Apple_iOS15_1.jpg "Apple's new iOS 15.2 beta update brings an important ‘privacy' feature")
+
+
+[Apple's new iOS 15.2 beta update brings an important ‘privacy' feature](https://indianexpress.com/article/technology/tech-news-technology/apples-new-ios-15-2-beta-update-brings-an-important-privacy-feature-7596443/)
+
+
+> Apple is releasing the first betas of iOS 15.2 and iPadOS 15.2 for beta testers and developers. This news comes just days after the company rolled out the iOS 15.1 and iPadOS 15.1 updates. The new software update brings an important iOS 15 privacy feature. The name of the feature is App Privacy Report, which Apple first showed off at this year's WWDC. It was not available with the initial release of iOS 15, but testers will now finally be able to use it to see how often the apps take access to sensitive data, such as location, photos, camera, microphone, and contacts.
+
+
+***
+![14 vs 16 Mini LED difference: A Question for Experts](https://images.macrumors.com/social/?t=2320431&v=6 "14 vs 16 Mini LED difference: A Question for Experts")
+
+
+[14 vs 16 Mini LED difference: A Question for Experts](https://forums.macrumors.com/threads/14-vs-16-mini-led-difference-a-question-for-experts.2320431/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. If I am not wrong both 14 and 16 inch displays have 10.000 mini LEDs. At this point; because of 16 inch has larger area, there are less number of leds per unit of area. For example 14 inch display has more mini LEDS in x cm square compared to 16 inch display. At this point is it possible to say 16 inc model is more vulnarable for some problems like blooming and halo effect which seen in ipad pro because of less number of mini LED feeding per unit area.
+
+
+***
+![Facebook changes its name to 'Meta': Here's all you need to know](https://cdn.zeebiz.com/sites/default/files/2021/10/29/164273-untitled-design-2021-10-29t110826641.jpg "Facebook changes its name to 'Meta': Here's all you need to know")
+
+
+[Facebook changes its name to 'Meta': Here's all you need to know](https://www.zeebiz.com/technology/news-facebook-changes-its-name-to-meta-heres-all-you-need-to-know-169306)
+
+
+> Facebook Meta name update: In a major development, Facebook founder Mark Zuckerberg on Thursday announced that his company will have a new name, Meta, which brings together its apps and technologies under one new company brand. Meta's focus will be to bring the metaverse to life and help people connect, find communities and grow businesses.WATCH | Click on Zee Business Live TV Streaming Below:"The metaverse will feel like a hybrid of today's online social experiences, sometimes expanded into three dimensions or projected into the physical world.
+
+
+***
+![Facebook's safety head tells U.K. lawmakers it does not amplify hate](https://www.thehindu.com/sci-tech/technology/internet/5xshjv/article34879034.ece/ALTERNATES/LANDSCAPE_615/facebook-10-reutersjpg "Facebook's safety head tells U.K. lawmakers it does not amplify hate")
+
+
+[Facebook's safety head tells U.K. lawmakers it does not amplify hate](https://www.thehindu.com/sci-tech/technology/internet/facebooks-safety-head-tells-uk-lawmakers-it-does-not-amplify-hate/article37224920.ece)
+
+
+> Facebook Inc's algorithms demote rather than promote polarising content, its global head of safety told British lawmakers on Thursday, adding that the U.S. company would welcome effective government regulation.(Sign up to our Technology newsletter, Today's Cache, for insights on emerging themes at the intersection of technology, business and policy. Click here to subscribe for free.)Governments in Europe and the United States are grappling with regulating social media platforms to reduce the spread of harmful content, particularly for young users.
+
+
