@@ -22707,3 +22707,50 @@
 > Based in Lithuania, Hostinger is one of the largest hosting providers catering to more than 29 millions users daily. Part of the reason for its continued success is its performance and devotion to customer service. The company claims an average response time of 143ms for its WordPress sites, and an average response time of 50s should you need any help. As admirable as these claims are, our experience was quite different on the Single Shared Hosting plan, and more at par with the shared plans of other hosting providers such as HostGator, as the average speed was closer to 800ms.
 
 
+***
+[Google and Jio debut JioPhone Next, their $87 budget smartphone, going on sale on November 4, with 5.45-inch HD+ display and Qualcomm's quad-core QM-215 chipset (Manish Singh/TechCrunch)](http://www.techmeme.com/211029/p6#a211029p6)
+
+
+> Manish Singh / TechCrunch: Google and Jio debut JioPhone Next, their $87 budget smartphone, going on sale on November 4, with 5.45-inch HD+ display and Qualcomm's quad-core QM-215 chipset — Google and Indian telecom network Jio Platforms said on Friday that their much-anticipated budget smartphone, JioPhone Next …
+
+
+***
+![Smartphone made by Google and India's Reliance Jio to be sold for about $87](https://www.reuters.com/resizer/4ovaM7OC-DBuikaf7s5rmdskwoU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/54R4HPUNONMF3PXIVN4JUIY7NM.jpg "Smartphone made by Google and India's Reliance Jio to be sold for about $87")
+
+
+[Smartphone made by Google and India's Reliance Jio to be sold for about $87](https://www.reuters.com/technology/smartphone-made-by-google-indias-reliance-jio-be-sold-about-87-2021-10-29/)
+
+
+> A woman walks past the logo of Google during an event in New Delhi, India, August 28, 2018. REUTERS/Adnan Abidi/File PhotoBENGALURU, Oct 29 (Reuters) - India's Reliance Industries (RELI.NS) said on Friday the low-cost smartphone made by its Jio telecom business and Alphabet Inc's (GOOGL.O) Google will be available in stores from this festive season of Diwali for 6,499 rupees ($86.81).The smartphone will be available for an upfront price of 1,999 rupees and the rest can be paid via monthly instalments, Reliance said in a regulatory filing.
+
+
+***
+![Social Chat launches with $6M to bring brands closer to their customers – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-664650106.jpg?w=600 "Social Chat launches with $6M to bring brands closer to their customers – TechCrunch")
+
+
+[Social Chat launches with $6M to bring brands closer to their customers – TechCrunch](https://techcrunch.com/2021/10/29/social-chat-launches-with-6m-to-bring-brands-closer-to-their-customers/)
+
+
+> When brands sell through social media and other third-parties, they often spend millions of dollars to advertise on those platforms, yet have little or no knowledge of who their customers actually are. Social commerce startup Social Chat is out to change that. Frost Li, the former head of growth at Wish, founded the company in May to create software that leverages machine learning and artificial intelligence for personalization, recommendations and live customer service — all to enable brands to convert lost social engagement into revenue and customer acquisition without having to rely on a big engineering team.
+
+
+***
+![Elon Musk Wants To Start 'TITS' University And Twitter Can't Keep Calm](https://im.indiatimes.in/content/2021/Oct/Social-image-1_617bab44490c9.jpg "Elon Musk Wants To Start 'TITS' University And Twitter Can't Keep Calm")
+
+
+[Elon Musk Wants To Start 'TITS' University And Twitter Can't Keep Calm](https://www.indiatimes.com/technology/news/elon-musk-tits-university-twitter-552857.html)
+
+
+> Someone take Elon Musk's phone away! The Tesla and SpaceX founder on Friday Tweeted that he wants to set up a new university called "Texas Institute of Technology & Science" or TITS.Am thinking of starting new university:Texas Institute of Technology & Science— Elon Musk (@elonmusk) October 29, 2021 Naturally, Twitterati lost it. Musk is not known for his subtlety but his wit definitely rang some bells, especially with follow up tweets. "It will have epic merch," Musk Tweeted about the envisioned university (which we think is just a classic Musk pun)!It will have epic merch— Elon Musk (@elonmusk) October 29, 2021 With so much focus on Facebook's name change to Meta, as announced by CEO Mark Zuckerberg, Elon Musk's comic relief is what the technology miniverse of Twitter needed the most.
+
+
+***
+![Google and Jio's JioPhone Next goes on sale Nov 4 at $87 – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/06/jiophone-next-google.jpg?w=711 "Google and Jio's JioPhone Next goes on sale Nov 4 at $87 – TechCrunch")
+
+
+[Google and Jio's JioPhone Next goes on sale Nov 4 at $87 – TechCrunch](https://techcrunch.com/2021/10/29/google-and-jios-smartphone-with-custom-android-os-for-india-launches-november-4-for-87/)
+
+
+> Google and top Indian telecom network Jio Platforms said on Friday that their much-anticipated budget smartphone, JioPhone Next, will go on sale in the world's second largest smartphone market on November 4 (coinciding with the big Indian festival of Diwali.) The firms said the JioPhone Next will cost 6,499 Indian rupees ($87), and can also be purchased in multiple instalments with an entry price as low as $27.The two firms also revealed the specifications of the JioPhone Next. The smartphone features a 5.
+
+
