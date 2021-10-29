@@ -22941,3 +22941,43 @@
 > JUNDIAI – Brazilian and American scientists on Thursday tranquilized a wild-born female jaguar now living in a protected area in Sao Paulo state. They're hoping the 110-pound feline named Bianca could make history for the second time in two years.In 2019, Bianca gave birth to the first jaguar cub ever born from artificial insemination. Now, the 8-year-old could once again advance the cause of preserving her species. That is, if all goes according to plan and becomes pregnant using semen that is frozen.
 
 
+***
+![Hillicon Valley — Feds zero in on groups critical to national security](https://thehill.com/sites/default/files/techmidterms_110218getty.jpg "Hillicon Valley — Feds zero in on groups critical to national security")
+
+
+[Hillicon Valley — Feds zero in on groups critical to national security](https://thehill.com/policy/technology/overnights/579201-hillicon-valley)
+
+
+> Today is Friday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.Follow The Hill's cyber reporter, Maggie Miller (@magmill95), and tech team, Chris Mills Rodrigo (@millsrodrigo) and Rebecca Klar (@rebeccaklar_), for more coverage.Two key officials in the federal cybersecurity space on Friday closed out Cybersecurity Awareness Month by teasing progress on identifying critical infrastructure groups to further protect against hackers, with their comments coming as Critical Infrastructure Security and Resilience Month tees up.
+
+
+***
+![Cannabis Movers & Shakers: Acreage, MedMen, Halo Collective, Fire & Flower, Cronos Group, Perfect Union](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/david-gabric-kdc5agsz6ik-unsplash7_0.jpg?width=720 "Cannabis Movers & Shakers: Acreage, MedMen, Halo Collective, Fire & Flower, Cronos Group, Perfect Union")
+
+
+[Cannabis Movers & Shakers: Acreage, MedMen, Halo Collective, Fire & Flower, Cronos Group, Perfect Union](https://www.benzinga.com/markets/cannabis/21/10/23756414/cannabis-movers-shakers-acreage-medmen-halo-collective-fire-flower-cronos-group-perfect-union)
+
+
+> Halo Collective Inc. (NEO: HALO) (OTCQX:HCAND) (Germany: A9K0) announced Friday that it has hired John Ford to serve as senior vice president of retail. The new appointment comes ahead of the debut of the company's first out of ten proposed Budega dispensaries in Southern California. Based in Toronto, the company plans to launch its first retail location in the Golden State by the year-end. Ford has vast experience in the retail sector, having held directorship positions with Apple Inc (NASDAQ:AAPL), Microsoft (NASDAQ:MSFT), and Comcast Corporation (NASDAQ:CMCSA).
+
+
+***
+![Circular Harmonics](https://valdes.cc/articles/images/ch_bands.png "Circular Harmonics")
+
+
+[Circular Harmonics](https://valdes.cc/articles/ch.html)
+
+
+> Sometimes you discover a nice-looking path through the forest, and you follow it thinking it'll lead you to some new, exciting place. But as you walk and walk amongst the trees, you come to realize it's actually leading you somewhere you already knew. This article is a story about (re)discovery, and how new things can make us understand old things better. Before we start, though, I want to make clear I'm in no way an "expert mathematician". Every single piece of mathematical knowledge I've used in this article, I was taught in high school.
+
+
+***
+![The best graphics cards 2021: all the top GPUs for gaming](https://cdn.mos.cms.futurecdn.net/MdhoETzFvrzaKiqfuymfDA-1200-80.jpg "The best graphics cards 2021: all the top GPUs for gaming")
+
+
+[The best graphics cards 2021: all the top GPUs for gaming](https://www.techradar.com/news/computing-components/graphics-cards/best-graphics-cards-1291458)
+
+
+> The best graphics cards of 2021 are essential to getting the most out of the best PC games but are also crucial for graphics design, 3D modeling, game development, and video editing. For everyday computing needs like streaming video, web browsing, and productivity tasks, integrated graphics is more than enough for your needs, but if you are going to more graphics intensive tasks, you're going to need something more powerful like a discrete graphics processor. Fortunately, that doesn't necessarily mean you need the most powerful graphics card out there, as some of the best cheap graphics cards are also some of the best values for their price.
+
+
