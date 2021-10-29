@@ -22657,3 +22657,53 @@
 > You really want to go to a concert. But by the time you find out about it, it is sold out and now the scalped tickets are being sold on the secondary market, or what is popularly known as ‘black market'. Ticket scalpers systematically buy large numbers of sport and entertainment event tickets with the sole aim of reselling them at a high profit above the initial purchase price. In a bid to stamp out middlemen that seek to profit from tickets resale of live events and concerts— ticketing platform Yellowheart announced the launch of non-fungible token (NFT) ticketing mobile application YellowHeart Wallet, which eliminates the need for a physical ticket and connects users directly to its Ethereum-based NFT ticketing platform and marketplace.
 
 
+***
+![Facebook changes its name to ‘Meta': Five key things you must know](https://images.financialexpress.com/2021/10/fb-meta.jpg "Facebook changes its name to ‘Meta': Five key things you must know")
+
+
+[Facebook changes its name to ‘Meta': Five key things you must know](https://www.financialexpress.com/industry/technology/facebook-changes-its-name-to-meta-five-key-things-you-must-know/2359455/)
+
+
+> By: FE Online | October 29, 2021 3:28 PM'Meta' word has been derived from the Greek word that means 'beyond'. The word symbolises that there is always more to build (Photo: Reuters)Facebook is no longer Facebook. It's Meta. Mark Zuckerberg, CEO, Facebook announced the news at the company's Connect event last night. The change of the name however does not apply to its individual platforms, such as Facebook, Instagram and WhatsApp. It will only be applicable to the parent company that owns them.Here are five things you must know about Facebook's corporate rebranding:Why the name change?The rebrand of the tech giant comes as the company faces criticism from regulators and lawmakers for its policies, market power, algorithms and more around data security and privacy.
+
+
+***
+![Google Fi Is Rolling Out End-To-End Encrypted Phone Calls On Android](https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Fi-AM-AH-1-1-AH-2019.jpg "Google Fi Is Rolling Out End-To-End Encrypted Phone Calls On Android")
+
+
+[Google Fi Is Rolling Out End-To-End Encrypted Phone Calls On Android](https://www.androidheadlines.com/2021/10/google-fi-end-to-end-encrypted-phone-calls-android.html)
+
+
+> Google-owned mobile service Google Fi is rolling out end-to-end encrypted phone calls. All one-to-one calls between Android phones on the MVNO (mobile virtual network operator) will be end-to-end encrypted, the company announced Thursday. The rollout will begin 'in the coming weeks,' though we don't have an exact time frame. Google doesn't say when this feature will come to iPhone users, though it does suggest that iOS devices will gain support in the future.Most messaging apps already offer end-to-end encryption (E2EE), ensuring that no one but only the participants in a conversation can access the messages.
+
+
+***
+![Meta meaning: What Facebook's name change means and Mark Zuckerberg's plans for the ‘Metaverse' explained](https://i.inews.co.uk/content/uploads/2021/10/PRI_207358430.jpg "Meta meaning: What Facebook's name change means and Mark Zuckerberg's plans for the ‘Metaverse' explained")
+
+
+[Meta meaning: What Facebook's name change means and Mark Zuckerberg's plans for the ‘Metaverse' explained](https://inews.co.uk/news/technology/meta-meaning-what-facebook-new-name-change-mean-mark-zuckerberg-metaverse-1274427)
+
+
+> Facebook is following in Google's footsteps by renaming its parent company.CEO Mark Zuckerberg confirmed the company will now be known as Meta – though its individual platforms, including Facebook itself, will keep their current names.He explained that while Facebook was one of the most used products in the world, the name no longer reflected the true breadth of the company's ambitions.Facebook also owns Instagram, WhatsApp and Messenger, along with other products such as the Oculus virtual reality headset.
+
+
+***
+![Facebook Is Killing Oculus](https://external-preview.redd.it/5_Pytpj2giFnC5bEEck7r-XZhU8jQhse3Kh3Y3OsdeQ.jpg?auto=webp&s=3e2a91262c36213314c296394d31eb2dcc0f296e "Facebook Is Killing Oculus")
+
+
+[Facebook Is Killing Oculus](https://www.reddit.com/r/technology/comments/qi99ck/facebook_is_killing_oculus_facebook_just_changed/)
+
+
+> From the article: Facebook, which today changed its name to Meta just for fun, is making changes to its virtual reality division to match its rebrand. Meta CTO Andrew Bosworth announced that the company would transition away from the Oculus branding beginning in 2022.'We all have a strong attachment to the Oculus brand, and this was a very difficult decision to make,' Bosworth wrote in a Facebook post. 'While we're retiring the name, I can assure you that the original Oculus vision remains deeply embedded in how Meta will continue to drive mass adoption for VR today.
+
+
+***
+![Hostinger web hosting](https://cdn.mos.cms.futurecdn.net/8iUKiCXjphb22VX7DMCwYP-1200-80.jpg "Hostinger web hosting")
+
+
+[Hostinger web hosting](https://www.techradar.com/reviews/hostinger)
+
+
+> Based in Lithuania, Hostinger is one of the largest hosting providers catering to more than 29 millions users daily. Part of the reason for its continued success is its performance and devotion to customer service. The company claims an average response time of 143ms for its WordPress sites, and an average response time of 50s should you need any help. As admirable as these claims are, our experience was quite different on the Single Shared Hosting plan, and more at par with the shared plans of other hosting providers such as HostGator, as the average speed was closer to 800ms.
+
+
