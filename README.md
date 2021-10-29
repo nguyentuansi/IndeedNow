@@ -22607,3 +22607,53 @@
 > Facebook Inc's algorithms demote rather than promote polarising content, its global head of safety told British lawmakers on Thursday, adding that the U.S. company would welcome effective government regulation.(Sign up to our Technology newsletter, Today's Cache, for insights on emerging themes at the intersection of technology, business and policy. Click here to subscribe for free.)Governments in Europe and the United States are grappling with regulating social media platforms to reduce the spread of harmful content, particularly for young users.
 
 
+***
+![Kevin Durant's 'Swagger' is now streaming on Apple TV+](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/091021_apple_swagger_nba_kevin_durant_big_image_01.jpg "Kevin Durant's 'Swagger' is now streaming on Apple TV+")
+
+
+[Kevin Durant's 'Swagger' is now streaming on Apple TV+](https://www.imore.com/kevin-durants-swagger-now-streaming-apple-tv)
+
+
+> We may earn a commission for purchases using our links. Learn more. Debut day The first three episodes are available to watch now. 29 Oct 2021 Source: Apple TV+ "Swagger" is has made its global premiere on Apple TV+. The series comes from Reggie Rock Bythewood, Kevin Durant, and Brian Grazer. It follows the story of young students who aspire to make it to the NBA. "Swagger" has made its global debut on Apple TV+. The series, which is created by Reggie Rock Bythewood, Kevin Durant, and Brian Grazer, follows the stories of the students, parents, coaches, and others who are all involved in the lives of young basketball players who aspire to make it to the NBA.
+
+
+***
+![Bitcoin price news – live: BTC bounces back after crash, ETH surges to all-time high](https://static.independent.co.uk/2021/10/25/11/bitcoin%20price%20usd%20musk.jpg?width=1200&auto=webp&quality=75 "Bitcoin price news – live: BTC bounces back after crash, ETH surges to all-time high")
+
+
+[Bitcoin price news – live: BTC bounces back after crash, ETH surges to all-time high](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-usd-dogecoin-ethereum-b1944696.html)
+
+
+> The price of bitcoin has bounced back above $60,000 on Thursday after two flash crashes on Wednesday wiped hundreds of billions of dollars from the crypto market.Ethereum (eth), Solana (sol), and Cardano (ada) have also recovered following a drop in their values by between 5-15 per cent during the crash. ETH hit a record high of about $4,400 on Friday following an upgrade to the Ethereum blockchain network this week.Meme currency dogecoin has slipped by about 8 per cent in the last 2 hours after a price surge on Thursday.
+
+
+***
+![NANO 2 Meet You! VOOPOO DRAG NANO 2 is Launched With a Bang!](https://mms.businesswire.com/media/20211029005148/en/921519/23/1635483795%281%29_webready.jpg "NANO 2 Meet You! VOOPOO DRAG NANO 2 is Launched With a Bang!")
+
+
+[NANO 2 Meet You! VOOPOO DRAG NANO 2 is Launched With a Bang!](https://www.businesswire.com/news/home/20211029005148/en/NANO-2-Meet-You%21-VOOPOO-DRAG-NANO-2-is-Launched-With-a-Bang%21)
+
+
+> October 29, 2021 03:54 AM Eastern Daylight Time SHENZHEN, China--(BUSINESS WIRE)--On the 18th of October, VOOPOO officially announced the overseas launch of the new DRAG NANO 2 product. After two years, the second generation of the NANO series has been launched, with a striking design and multiple advanced technologies such as three gears of output and top e-juice filling. The NANO 2 is a double upgrade in terms of value and features. Leaked manuscript sparks debate A couple of weeks ago, a design document named U055 was leaked on major vape sites and has sparked a lot of interest and speculation.
+
+
+***
+![Roblox down latest – Thousands say gaming platform not working as desperate engineers try to fix it](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/10/Copy-of-flood-tracker-live.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Roblox down latest – Thousands say gaming platform not working as desperate engineers try to fix it")
+
+
+[Roblox down latest – Thousands say gaming platform not working as desperate engineers try to fix it](https://www.thescottishsun.co.uk/tech/7919458/roblox-down-not-working-status-login-why-twitter-latest/)
+
+
+> THE Roblox gaming platform has seen a global outage - leaving hundreds of thousands of players unable to connect to their online accounts. Roblox is said to have gone down at around 4am IST on October 29, 2021, according to complaints on Twitter. A message from the Roblox Status account said: "Looks like #Roblox is currently experiencing issues! We'll update you if we receive any further information. Services impacted: Games & Account Information." The massive outage has seen the platform's global count shrink by 1million players - with engineers so far unable to identify the issue.
+
+
+***
+![Here's how Blockchain and NFT ticketing can cut out middlemen and resellers](https://images.indianexpress.com/2021/10/bitcoin-bloomberg-1200-1.jpeg "Here's how Blockchain and NFT ticketing can cut out middlemen and resellers")
+
+
+[Here's how Blockchain and NFT ticketing can cut out middlemen and resellers](https://indianexpress.com/article/technology/tech-news-technology/heres-how-blockchain-and-nft-ticketing-may-change-the-ticketing-industry-for-good-7595704/)
+
+
+> You really want to go to a concert. But by the time you find out about it, it is sold out and now the scalped tickets are being sold on the secondary market, or what is popularly known as ‘black market'. Ticket scalpers systematically buy large numbers of sport and entertainment event tickets with the sole aim of reselling them at a high profit above the initial purchase price. In a bid to stamp out middlemen that seek to profit from tickets resale of live events and concerts— ticketing platform Yellowheart announced the launch of non-fungible token (NFT) ticketing mobile application YellowHeart Wallet, which eliminates the need for a physical ticket and connects users directly to its Ethereum-based NFT ticketing platform and marketplace.
+
+
