@@ -22460,3 +22460,53 @@
 > As the President's health is under scrutiny, Joe Biden's dismal polling demonstrates a 'lack of confidence.' JOE BIDEN'S bad polling in the United States is due to concerns over the President's health, according to a Sky News Australia host, following a decline in the US leader's popularity. Andrew Bolt of Sky News Australia joined a chorus of worldwide critics doubting US Vice President Joe Biden's health. He mentioned the President's recent CNN interview to Washington journalist Annelise Nielsen, which raised more questions about President Biden's strange body language.
 
 
+***
+![The big myth about electric vehicles](https://content.api.news/v3/images/bin/2c98f46f86a3f37caa06608b634f28e6 "The big myth about electric vehicles")
+
+
+[The big myth about electric vehicles](https://www.news.com.au/technology/motoring/motoring-news/opinion-the-big-myth-about-electric-vehicles-dispelled/news-story/d4c61bc6450b58f726535ffbbfda9246)
+
+
+> Electric cars are a new technology and there are a lot of misinformation circulating, this is the real story from an expert.Electric vehicles probably won't end the weekend but will they turn out the lights?EVs will be able to pull a trailer, but they will also pull a significant amount of electricity into their large batteries.The most convenient way to charge an electric car is in your garage or driveway, if you have one. So the most obvious thing to do is plug in when you get home from work, walk inside and start doing all the things that create the evening peak load on the grid.
+
+
+***
+![Apple experienced $6 billion in supply constraints in Q4 2021](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/02/apple-park-photo-1-building-trees.jpg "Apple experienced $6 billion in supply constraints in Q4 2021")
+
+
+[Apple experienced $6 billion in supply constraints in Q4 2021](https://www.imore.com/apple-experienced-6-billion-supply-constraints-q4-2021)
+
+
+> Source: Apple Earlier today, Apple hosted its Q4 2021 earnings call. During the call, Apple CEO Tim Cook revealed that it, along with virtually every company in the world, has been unable to avoid supply constraints. In response to a question from Shannon Cross from Cross Research, Cook revealed that the company experienced $6 billion in supply constraints in the fourth quarter of 2021. According to Cook, the constraints affected the production of the iPhone, iPad, and Mac. If you look at Q4 for a moment, we had about $6 billion in supply constraints, and it affected the iPhone, the iPad and the Mac.
+
+
+***
+![#TECH: Cisco unveils new innovations to address hybrid work challenges](https://assets.nst.com.my/images/articles/BOTSwebex_NSTfield_image_socialmedia.var_1635472251.jpg "#TECH: Cisco unveils new innovations to address hybrid work challenges")
+
+
+[#TECH: Cisco unveils new innovations to address hybrid work challenges](https://www.nst.com.my/lifestyle/bots/2021/10/740733/tech-cisco-unveils-new-innovations-address-hybrid-work-challenges)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![is it safe to update macbook pro to latest big sur update on opencore legacy patcher](https://images.macrumors.com/social/?t=2320404&v=6 "is it safe to update macbook pro to latest big sur update on opencore legacy patcher")
+
+
+[is it safe to update macbook pro to latest big sur update on opencore legacy patcher](https://forums.macrumors.com/threads/is-it-safe-to-update-macbook-pro-to-latest-big-sur-update-on-opencore-legacy-patcher.2320404/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![Facebook's rumored smartwatch leaks, revealing one big feature rivals lack](https://cdn.mos.cms.futurecdn.net/qxxM2xDHz8FJX8HTyuMC2D-1200-80.jpg "Facebook's rumored smartwatch leaks, revealing one big feature rivals lack")
+
+
+[Facebook's rumored smartwatch leaks, revealing one big feature rivals lack](https://www.techradar.com/news/facebooks-rumored-smartwatch-leaks-revealing-one-big-feature-rivals-lack)
+
+
+> (Image credit: Future / Shutterstock) Rumors of a Facebook smartwatch have been swirling for months, and thanks to a new leak we now have our first glimpse of the device. According to the image obtained by Bloomberg, we can see the smartwatch has one big feature its competitors don't – a front-facing camera.This time though, the often-lamented camera notch sits in the centre of the bottom edge of the display. Other than its peculiar placement, it looks much like the front-facing camera you'll find on a smartphone.
+
+
