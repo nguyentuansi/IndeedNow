@@ -22804,3 +22804,53 @@
 > The National Press and Publication Administration, which is in charge of licensing video games in the country, has not published a list of approved new titles since the end of July. Photo: Agence France-Presse
 
 
+***
+![Jurgen Klopp explains why Fabinho will not play against Manchester United for Liverpool. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/0_gettyimages-1281264909.jpg "Jurgen Klopp explains why Fabinho will not play against Manchester United for Liverpool. » Brinkwire")
+
+
+[Jurgen Klopp explains why Fabinho will not play against Manchester United for Liverpool. » Brinkwire](https://en.brinkwire.com/technology/jurgen-klopp-explains-why-fabinho-will-not-play-against-manchester-united-for-liverpool/)
+
+
+> Jurgen Klopp explains why Fabinho will not play against Manchester United for Liverpool. Fabinho and Sadio Mane were both left out of Liverpool's starting XI for Sunday's match against Manchester United, although the Brazilian is certain to miss time due to injury. Fabinho and Sadio Mane were two surprise omissions from Liverpool's starting XI for Sunday's match against Manchester United, forcing Jurgen Klopp to make a lineup change. The Reds entered the game four points ahead of their bitter rivals, having won five of their first eight games, while the Red Devils had won four of their previous eight.
+
+
+***
+![Minnesota man charged in hacking MLB and for trying to extort the league](https://cdn.cnn.com/cnnnext/dam/assets/211029115527-major-league-baseball-file-restricted-super-tease.jpg "Minnesota man charged in hacking MLB and for trying to extort the league")
+
+
+[Minnesota man charged in hacking MLB and for trying to extort the league](https://www.cnn.com/2021/10/29/tech/mlb-hack/index.html)
+
+
+> Joshua Streit, 30, threatened to publicize alleged vulnerabilities in the MLB's IT systems unless the league paid him $150,000, according to charging documents. Streit is also charged with illegally streaming copyrighted live games from the MLB, National Basketball Association, National Football League and the National Hockey League. Prosecutors alleged that Streit used stolen login credentials to access the sports' websites and stream live games to his own website for profit. "One of the victim sports leagues sustained losses of approximately $3 million due to STREIT's conduct," the Southern District of New York said in a press release.
+
+
+***
+![Zeit secures $2M in seed funding for its stroke-detecting wearable – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/08/zeit-band-app.jpg?w=711 "Zeit secures $2M in seed funding for its stroke-detecting wearable – TechCrunch")
+
+
+[Zeit secures $2M in seed funding for its stroke-detecting wearable – TechCrunch](https://techcrunch.com/2021/10/29/zeit-secures-2m-in-seed-funding-for-its-stroke-detecting-wearable/)
+
+
+> Zeit Medical, which makes an early warning system for strokes during sleep, has raised $2M in a seed round just after leaving Y Combinator's Summer 2021 cohort. The company's work suggests the brain-monitoring headband could save lives by alerting people to possible strokes hours before they might otherwise be noticed, and the new funding will help propel them towards commercial availability. The company's device is a soft headband with a lightweight electroencephalogram (EEG) in it. It works with a smartphone app to analyze brain activity and, using a machine learning model trained by human experts, watch for signs of an impending stroke.
+
+
+***
+![Best gaming deals for November 2021](https://icdn.digitaltrends.com/image/digitaltrends/video-games-featured-resized.jpg "Best gaming deals for November 2021")
+
+
+[Best gaming deals for November 2021](https://www.digitaltrends.com/dtdeals/best-gaming-deals/)
+
+
+> The popularity of gaming deals is still steadily growing, especially since gamers have more time to play as they've been stuck inside their homes for extended hours. Boredom is a common issue, whether you have kids, pets, a spouse, live with your family, or have your place to yourself, and this has pushed people to find new ways to entertain themselves. If you are already a gamer, you are likely looking for a new game or console to keep you amused after months stuck at home, and we have some offers for you.
+
+
+***
+![Best horror games 2021: the scariest games to play on console and PC](https://cdn.mos.cms.futurecdn.net/NErjhZR7WphEpXWTCTVFmM-1200-80.jpg "Best horror games 2021: the scariest games to play on console and PC")
+
+
+[Best horror games 2021: the scariest games to play on console and PC](https://www.techradar.com/news/best-horror-games)
+
+
+> Looking for the best horror games? You're in the right place. There are still a few more months to go before Halloween, but that's no reason to overlook the top horror games that you can play right now. There are many brilliant and seriously scary horror movies to make you jump out of your seats - take a look at our best horror movies guide - but games often go that extra distance by making scares feel way more immersive and interactive. What's scarier than a horror movie? Feeling like you're in one.
+
+
