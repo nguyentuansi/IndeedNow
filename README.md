@@ -22901,3 +22901,43 @@
 > Although the Oculus brand is now dead, Meta is making one big change to how these headsets are accessed. Meta CTO Andrew Bosworth said in a Facebook post that logging into Quest headsets will not require Facebook sign-in starting 'sometime next year'.This comes over a year after Meta said that Oculus users would require a Facebook account to use their headset (via). This led to a lot of headset owners being unable to use their devices. Expectedly, this decision was met with universal condemnation.
 
 
+***
+![Lattice CertusPro-NX General Purpose FPGA Named 2021 Elektra Awards Finalist](https://mms.businesswire.com/media/20211029005498/en/810429/23/Lattice_logo.jpg "Lattice CertusPro-NX General Purpose FPGA Named 2021 Elektra Awards Finalist")
+
+
+[Lattice CertusPro-NX General Purpose FPGA Named 2021 Elektra Awards Finalist](https://www.businesswire.com/news/home/20211029005498/en/Lattice-CertusPro-NX-General-Purpose-FPGA-Named-2021-Elektra-Awards-Finalist)
+
+
+> October 29, 2021 04:00 PM Eastern Daylight Time HILLSBORO, Ore.--(BUSINESS WIRE)--Lattice Semiconductor Corporation (NASDAQ: LSCC), the low power programmable leader, announced that the Lattice CertusPro™-NX general purpose FPGA was selected as a 2021 Elektra Awards finalist for Digital Semiconductor Product of the Year. 'Our CertusPro-NX FPGA family brings class-leading system bandwidth and power efficiency to the general purpose FPGA market,' said Juju Joyce, Product Marketing Manager at Lattice.
+
+
+***
+![ACNH Halloween: Tips and tricks for Jack and trick or treating](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/acnh-jack-harveys-island.jpg "ACNH Halloween: Tips and tricks for Jack and trick or treating")
+
+
+[ACNH Halloween: Tips and tricks for Jack and trick or treating](https://www.imore.com/animal-crossing-new-horizons-tips-and-tricks-jack)
+
+
+> Source: iMore Animal Crossing is sneakily one of the best Nintendo Switch games for Halloween. There are plenty of activities to keep you busy leading up to the last day of October when Jack, the self-proclaimed "reigning Czar of Halloween," makes his appearance. Not sure what this guy's deal is? Well, we're here to tell you all about it and how to prepare to meet him. Note: In order to participate in the Halloween festivities, your Resident Services must be upgraded in your game. Source: iMore Here's what you should be doing throughout October to get ready for Halloween night.
+
+
+***
+![Innovative International Acquisition Corp. Announces Closing of $230,000,000 Initial Public Offering, Including Exercise of Over-Allotment Option](http://www.businesswire.com/images/bwlogo_square.png "Innovative International Acquisition Corp. Announces Closing of $230,000,000 Initial Public Offering, Including Exercise of Over-Allotment Option")
+
+
+[Innovative International Acquisition Corp. Announces Closing of $230,000,000 Initial Public Offering, Including Exercise of Over-Allotment Option](https://www.businesswire.com/news/home/20211029005524/en/Innovative-International-Acquisition-Corp.-Announces-Closing-of-230000000-Initial-Public-Offering-Including-Exercise-of-Over-Allotment-Option)
+
+
+> October 29, 2021 03:52 PM Eastern Daylight Time DANA POINT, Calif.--(BUSINESS WIRE)--Innovative International Acquisition Corp. (the 'Company'), a newly incorporated blank check company, today announced the closing of its initial public offering, as well as the exercise of the over-allotment option in full by the underwriters resulting in the sale of an aggregate of 23,000,000 units (which includes 3,000,000 units issued in connection with the exercise of the over-allotment option). The offering was priced at $10.
+
+
+***
+![Brazil scientists test frozen jaguar semen to help species](https://www.clickondetroit.com/resizer/oA6rj3lc0ESidL4RgnHyf_0bXSQ=/800x510/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/NJVRAU42H5G55ASYLB6BCHI334.jpg "Brazil scientists test frozen jaguar semen to help species")
+
+
+[Brazil scientists test frozen jaguar semen to help species](https://www.clickondetroit.com/tech/2021/10/29/brazil-scientists-test-frozen-jaguar-semen-to-help-species/)
+
+
+> JUNDIAI – Brazilian and American scientists on Thursday tranquilized a wild-born female jaguar now living in a protected area in Sao Paulo state. They're hoping the 110-pound feline named Bianca could make history for the second time in two years.In 2019, Bianca gave birth to the first jaguar cub ever born from artificial insemination. Now, the 8-year-old could once again advance the cause of preserving her species. That is, if all goes according to plan and becomes pregnant using semen that is frozen.
+
+
