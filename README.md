@@ -22413,3 +22413,50 @@
 > Apple's iPhone sales soared yet again in the past quarter, but didn't grow as rapidly as analysts anticipated
 
 
+***
+![California wins $3.5M payoff in illegal gambling lawsuit](https://www.wpxi.com/pf/resources/images/sites/cmg-tv-10080/station-fallback.png?d=294 "California wins $3.5M payoff in illegal gambling lawsuit")
+
+
+[California wins $3.5M payoff in illegal gambling lawsuit](https://www.wpxi.com/news/technology/california-wins-35m/BGZLT5EHIOVHYBCVJUTKCFFFJM/)
+
+
+> OAKLAND, Calif. — (AP) — A company that made and operated casino-style games used for illegal gambling will pay $3.5 million and permanently stop its California operations under a court settlement announced Thursday.Pong Game Studios Corp. agreed to settle a lawsuit that alleged it violated California laws on unfair competition and false advertising, the state attorney general's office announced. A Solano County Superior Court judge approved the agreement.An email to the company seeking comment wasn't immediately returned.
+
+
+***
+[Facebook rebrands to 'Meta' and dives into the metaverse during Connect event](https://www.itworldcanada.com/article/facebook-rebrands-to-meta-and-dives-into-the-metaverse-during-connect-event/463150)
+
+
+> Facebook's Connect 2021 event unveiled several new announcements including a company name change.  In the keynote, CEO Mark Zuckerberg announced that the Facebook company will now be named Meta to more accurately represent the 'metaverse' which focuses on augmented and virtual reality. The name change comes as Facebook attempts to move away from identifying solely […] The post Facebook rebrands to 'Meta' and dives into the metaverse during Connect event first appeared on IT World Canada.
+
+
+***
+![Amazon stumbles on slower sales growth, higher labor costs](https://s.abcnews.com/images/Technology/WireAP_3ace917dde7d456ebebcc8c382504c89_16x9_992.jpg "Amazon stumbles on slower sales growth, higher labor costs")
+
+
+[Amazon stumbles on slower sales growth, higher labor costs](https://abcnews.go.com/Technology/wireStory/amazon-reports-sales-profit-drop-3q-80842304)
+
+
+> NEW YORK -- Amazon isn't just grappling with the easing of pandemic-induced shopping splurges. The online retail behemoth is also contending with surging costs as it navigates a snarled supply chain and labor shortages.Those challenges resulted in Amazon reporting a shortfall Thursday in third-quarter profits and sales. It also led the Seattle-based company to deliver a holiday sales forecast that was below Wall Street expectations.The issues are the latest twist that Amazon has had to confront since the beginning of the pandemic in the spring of 2020.
+
+
+***
+![California wins $3.5M payoff in illegal gambling lawsuit](null "California wins $3.5M payoff in illegal gambling lawsuit")
+
+
+[California wins $3.5M payoff in illegal gambling lawsuit](https://abcnews.go.com/Technology/wireStory/california-wins-35m-payoff-illegal-gambling-lawsuit-80844932)
+
+
+> OAKLAND, Calif. -- A company that made and operated casino-style games used for illegal gambling will pay $3.5 million and permanently stop its California operations under a court settlement announced Thursday.Pong Game Studios Corp. agreed to settle a lawsuit that alleged it violated California laws on unfair competition and false advertising, the state attorney general's office announced. A Solano County Superior Court judge approved the agreement.An email to the company seeking comment wasn't immediately returned.
+
+
+***
+![As the President's health is under scrutiny, Joe Biden's dismal polling demonstrates a "lack of confidence." » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/joe-biden-news-latest-update-polling-1511670.jpg "As the President's health is under scrutiny, Joe Biden's dismal polling demonstrates a "lack of confidence." » Brinkwire")
+
+
+[As the President's health is under scrutiny, Joe Biden's dismal polling demonstrates a "lack of confidence." » Brinkwire](https://en.brinkwire.com/news/as-the-presidents-health-is-under-scrutiny-joe-bidens-dismal-polling-demonstrates-a-lack-of-confidence/)
+
+
+> As the President's health is under scrutiny, Joe Biden's dismal polling demonstrates a 'lack of confidence.' JOE BIDEN'S bad polling in the United States is due to concerns over the President's health, according to a Sky News Australia host, following a decline in the US leader's popularity. Andrew Bolt of Sky News Australia joined a chorus of worldwide critics doubting US Vice President Joe Biden's health. He mentioned the President's recent CNN interview to Washington journalist Annelise Nielsen, which raised more questions about President Biden's strange body language.
+
+
