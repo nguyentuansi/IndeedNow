@@ -22854,3 +22854,50 @@
 > Looking for the best horror games? You're in the right place. There are still a few more months to go before Halloween, but that's no reason to overlook the top horror games that you can play right now. There are many brilliant and seriously scary horror movies to make you jump out of your seats - take a look at our best horror movies guide - but games often go that extra distance by making scares feel way more immersive and interactive. What's scarier than a horror movie? Feeling like you're in one.
 
 
+***
+[Kodak CA Pro Android TV with Google Assistant launched in India; Specs, price and more](http://www.pinkvilla.com/tech/news/kodak-ca-pro-android-tv-with-google-assistant-launched-in-india-specs-price-and-more-929519)
+
+
+> Attach Main technology Image: Image Caption: Kodak CA Pro Android TV with Google Assistant launched in India; Specs, price and more Social Media Image : Enter the Technology details: Kodak launched the CA Pro Android TV in India. The newly launched Android TV has two variants, 43 inch and 50 inch display sizes, and runs on Android 10 operating system. The device features crystal clear 4K Ultra HD displays and has a sound output of 40 W. Both the variants of this smart Android TV have support for Dolby MS12 and DTS TruSurround features.
+
+
+***
+![Password Generator using Python and Tkinter](https://external-preview.redd.it/fHAacIPYP45hsaqBgmlvcompBgFI31cO-kSkE5-Xdf0.jpg?auto=webp&s=e996e26fedcc26ade8c8a3771f44f688bc976f91 "Password Generator using Python and Tkinter")
+
+
+[Password Generator using Python and Tkinter](https://www.reddit.com/r/Python/comments/qiinmz/password_generator_using_python_and_tkinter/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Codenotary: Notarize and verify your software bill of materials](https://external-preview.redd.it/03eXSm555wT2cQ01HsDQNaZHJhZUPc_WPHJK8aDvmUI.jpg?auto=webp&s=c2edfdbc380bbafbb316ea1dde11f4e3b991fc9c "Codenotary: Notarize and verify your software bill of materials")
+
+
+[Codenotary: Notarize and verify your software bill of materials](https://www.reddit.com/r/programming/comments/qiiixn/codenotary_notarize_and_verify_your_software_bill/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![D.A. Davidson Acts as Exclusive Financial Advisor in NH Research Sale to NI](https://mms.businesswire.com/media/20211029005485/en/516859/23/D.A._Davidson_Investment_Banking-Primary_Logo.jpg "D.A. Davidson Acts as Exclusive Financial Advisor in NH Research Sale to NI")
+
+
+[D.A. Davidson Acts as Exclusive Financial Advisor in NH Research Sale to NI](https://www.businesswire.com/news/home/20211029005485/en/D.A.-Davidson-Acts-as-Exclusive-Financial-Advisor-in-NH-Research-Sale-to-NI)
+
+
+> October 29, 2021 01:54 PM Eastern Daylight Time COSTA MESA, Calif.--(BUSINESS WIRE)--D.A. Davidson announced today that it served as exclusive financial advisor to NH Research (NHR), a leader in high power test and measurement applications such as electric vehicles and batteries, in its sale to NI (Nasdaq: NATI), a test measurement company providing tailored, software-connected systems to engineers and enterprises. The transaction closed on October 19, 2021. Headquartered in Irvine, California, NH Research, Inc.
+
+
+***
+![Meta VR Headsets Won't Require Facebook Sign-In From 2022](https://www.androidheadlines.com/wp-content/uploads/2020/09/Oculus-Quest-2-VR-Headset.png "Meta VR Headsets Won't Require Facebook Sign-In From 2022")
+
+
+[Meta VR Headsets Won't Require Facebook Sign-In From 2022](https://www.androidheadlines.com/2021/10/meta-vr-headsets-wont-require-facebook-sign-in-from-2022.html)
+
+
+> Although the Oculus brand is now dead, Meta is making one big change to how these headsets are accessed. Meta CTO Andrew Bosworth said in a Facebook post that logging into Quest headsets will not require Facebook sign-in starting 'sometime next year'.This comes over a year after Meta said that Oculus users would require a Facebook account to use their headset (via). This led to a lot of headset owners being unable to use their devices. Expectedly, this decision was met with universal condemnation.
+
+
