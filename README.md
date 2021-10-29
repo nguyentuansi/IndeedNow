@@ -22754,3 +22754,53 @@
 > Google and top Indian telecom network Jio Platforms said on Friday that their much-anticipated budget smartphone, JioPhone Next, will go on sale in the world's second largest smartphone market on November 4 (coinciding with the big Indian festival of Diwali.) The firms said the JioPhone Next will cost 6,499 Indian rupees ($87), and can also be purchased in multiple instalments with an entry price as low as $27.The two firms also revealed the specifications of the JioPhone Next. The smartphone features a 5.
 
 
+***
+![The Best Pizza Ovens to Make the Perfect Slice](https://media.wired.com/photos/60d627c63082cb0dcce32b3c/191:100/w_2580,c_limit/Gear-Ooni-Karu-16-featured.jpg "The Best Pizza Ovens to Make the Perfect Slice")
+
+
+[The Best Pizza Ovens to Make the Perfect Slice](https://www.wired.com/gallery/best-pizza-ovens/)
+
+
+> In times of trouble, our nation turns to carbs. We picked our favorite portable ovens for backyards, countertops, or camping.Save this story for later.There's a reason why pizza is the menu choice of picky preschoolers, hungry teenagers, and discerning foodies alike. With enough cheese, tomato sauce, and arugula, homemade pizzas are a complete meal. They're irresistible, easy to make, and customizable for a wide range of dietary preferences. Until recently, an aspiring pizzaiolo had no choice but to crank up their kitchen oven to the standard 450 degrees.
+
+
+***
+![Please set up 2FA on your Nintendo account](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/04/how-to-two-factor-authentication-nintendo-switch-hero.jpg "Please set up 2FA on your Nintendo account")
+
+
+[Please set up 2FA on your Nintendo account](https://www.imore.com/how-to-enable-two-factor-authentication-your-nintendo-account)
+
+
+> Source: Rebecca Spear / iMore If you want to protect your games, purchase info, and screenshot hoards more securely, then you'll want to set up two-factor authentication (2FA) on your Nintendo Switch. If you opt-in, you'll now be asked for a special code (generated using Google Authenticator) as well as your usual password when logging into your account. You'll need to get the Google Authenticator app if you haven't already, but it's free to download on the App Store, so that should be relatively painless.
+
+
+***
+![The Galaxy S20 FE is the best phone, so it deserves the best case](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/galaxy-s20-fe-2.jpg "The Galaxy S20 FE is the best phone, so it deserves the best case")
+
+
+[The Galaxy S20 FE is the best phone, so it deserves the best case](https://www.androidcentral.com/best-samsung-galaxy-s20-fe-cases)
+
+
+> Best Samsung Galaxy S20 FE cases Android Central 2021 Cases are practically necessary nowadays, which remains true for those looking for the best Galaxy S20 FE cases. The Galaxy S20 FE might be a great way for Samsung to own the mid-range phone market, as it has all the specs you could want with a sleek design and plenty of color options to choose from. Once you find the right case and one of the best Galaxy S20 FE screen protectors, you'll be right as rain and ready to do everything. Staff Pick The Caseology Parallax is one of those cases that have become a favorite for many.
+
+
+***
+![Keep your online workings from being tracked with these apps](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/06/android-12-privacy-dashboard_0.jpg "Keep your online workings from being tracked with these apps")
+
+
+[Keep your online workings from being tracked with these apps](https://www.androidcentral.com/best-privacy-apps-android)
+
+
+> Source: Daniel Bader / Android Central Best privacy apps for Android Android Central 2021 Most people use the terms privacy app and VPN (a virtual private network) interchangeably. While these programs give you a wide range of tools like data encryption, secure browsing, and location shields, there are other programs out there that also give you ways to secure your Android phone. Bitdefender Mobile Security is the best privacy app for Android because it has most of the privacy tools you need in one app, including a VPN, safe browsing, and remote locating and locking of your device.
+
+
+***
+![China's video gaming industry on edge as government approval of new game licences remain in limbo](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/10/29/c7c55424-38ba-11ec-bf9d-b73b258185bb_image_hires_220121.jpeg?itok=FAaCRSQG&v=1635516088 "China's video gaming industry on edge as government approval of new game licences remain in limbo")
+
+
+[China's video gaming industry on edge as government approval of new game licences remain in limbo](https://www.scmp.com/tech/policy/article/3154241/chinas-video-gaming-industry-edge-government-approval-new-game-licences)
+
+
+> The National Press and Publication Administration, which is in charge of licensing video games in the country, has not published a list of approved new titles since the end of July. Photo: Agence France-Presse
+
+
