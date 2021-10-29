@@ -22510,3 +22510,50 @@
 > (Image credit: Future / Shutterstock) Rumors of a Facebook smartwatch have been swirling for months, and thanks to a new leak we now have our first glimpse of the device. According to the image obtained by Bloomberg, we can see the smartwatch has one big feature its competitors don't – a front-facing camera.This time though, the often-lamented camera notch sits in the centre of the bottom edge of the display. Other than its peculiar placement, it looks much like the front-facing camera you'll find on a smartphone.
 
 
+***
+![The next pandemic could be unstoppable, according to Covid, a pandemic-prediction watchdog. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/0_as-state-opens-after-lockdown-coronavirus-cases-spike-in-florida.jpg "The next pandemic could be unstoppable, according to Covid, a pandemic-prediction watchdog. » Brinkwire")
+
+
+[The next pandemic could be unstoppable, according to Covid, a pandemic-prediction watchdog. » Brinkwire](https://en.brinkwire.com/technology/the-next-pandemic-could-be-unstoppable-according-to-covid-a-pandemic-prediction-watchdog/)
+
+
+> The next pandemic could be unstoppable, according to Covid, a pandemic-prediction watchdog. We might not be able to halt the next pandemic, according to an independent committee set up by the World Health Organization to monitor the world's preparedness for global disasters. A health watchdog released a study in September 2019, three months before the world learnt of a new virus that would trigger a global pandemic, claiming the globe was on the verge of a grave calamity. They warned that a swiftly moving, highly fatal respiratory disease might launch a pandemic, killing tens of millions of people and devastating the global economy.
+
+
+***
+![Carol Vorderman, 60, reveals her glam makeover while slamming sexual dress shamers. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/0_screen-shot-2021-10-26-at-162339.png "Carol Vorderman, 60, reveals her glam makeover while slamming sexual dress shamers. » Brinkwire")
+
+
+[Carol Vorderman, 60, reveals her glam makeover while slamming sexual dress shamers. » Brinkwire](https://en.brinkwire.com/technology/carol-vorderman-60-reveals-her-glam-makeover-while-slamming-sexual-dress-shamers/)
+
+
+> Carol Vorderman, 60, reveals her glam makeover while slamming sexual dress shamers. Carol Vorderman has debuted her spanking new tresses ahead of her Pride Of Britain debut this weekend, but she's made it clear she won't listen to critics over her costume choice. Carol Vorderman debuted new 'blonder' tresses in advance of the Pride Of Britain awards. When it comes to strolling the red carpet, the 60-year-old bombshell, who has hosted the emotive award show for almost two decades, always brings the heat.
+
+
+***
+![After purchasing the landmark Topshop building, Ikea plans to create a new outlet on Oxford Street. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/0_shoppers-on-oxford-street-in-london.jpg "After purchasing the landmark Topshop building, Ikea plans to create a new outlet on Oxford Street. » Brinkwire")
+
+
+[After purchasing the landmark Topshop building, Ikea plans to create a new outlet on Oxford Street. » Brinkwire](https://en.brinkwire.com/technology/after-purchasing-the-landmark-topshop-building-ikea-plans-to-create-a-new-outlet-on-oxford-street/)
+
+
+> After purchasing the landmark Topshop building, Ikea plans to create a new outlet on Oxford Street. After completing a £378 million deal to buy the remaining of the Arcadia Group's assets, the Swedish furniture and homeware retailer plans to open a new Oxford Street location in 2023. Topshop's famed Oxford Street store was closed earlier this year, shocking the British public, but it has again been reopened. Ikea is paying £378 million for the former flagship store, which means you'll be able to shop there by tube.
+
+
+***
+![Experience a more immersive video calling experience with Portal's range of all-new devices](https://helios-i.mashable.com/imagery/articles/03QSRcgqpskbzxWpdzgOcdt/hero-image.fill.size_1200x675.v1635173290.jpg "Experience a more immersive video calling experience with Portal's range of all-new devices")
+
+
+[Experience a more immersive video calling experience with Portal's range of all-new devices](https://mashable.com/ad/article/oct-26-best-facebook-portal-video-call-deal)
+
+
+> TL;DR: As of Oct. 26, you can save £100 if you purchase two Facebook Portal devices.Staying in touch with your friends and family has always been important, but it's not so easy nowadays. You might need to get a little creative if you want to connect with everyone this holiday season, and we're not talking about squeezing the whole family on your smartphone screen. Instead, you should consider investing in a Facebook Portal smart video calling device. These devices come equipped with smart cameras that automatically pan and zoom to keep everyone in the frame and involved in every moment.
+
+
+***
+[Noob question](https://www.reddit.com/r/Python/comments/qi42h8/noob_question/)
+
+
+> I have to work on a project for university. Basically a terminal password manager that has an array of websites and an array of passwords. I am trying to build a feature that accepts the users input, and prints the password of the same index out ( for example if user enters „google', the program will search the websites array for „google' and print the corresponding index of the passwords array).Heres what i have so far, but cant get it to work. Hopefully my question makes sense.website = [‚goog
+
+
