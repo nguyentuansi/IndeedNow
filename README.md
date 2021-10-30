@@ -23328,3 +23328,50 @@
 > (Image credit: Nvidia) Nvidia could be readying an RTX 3080 Ti laptop graphics card if the rumor mill is to be believed.Speculation about higher-end notebook GPUs from Nvidia has been flying around for quite some time now, although previous leaks from a few months or so back pointed to the possibility of an RTX 3080 Super model (plus 3070 Super for that matter).This fresh spillage has pinned the Ti label, rather than Super branding, on the purportedly incoming RTX 3080 variant, with the theory being that this product will be based on Nvidia's GA103 GPU (GN20-E8), as noted in a tweet from Matthew Smith which VideoCardz spotted (Smith is the keeper of TechPowerUp's GPU database).
 
 
+***
+![Benzinga's Bulls And Bears Of The Week: Apple, Coca-Cola, Facebook, Microsoft And More](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/bulls_bears4_1.png?width=720 "Benzinga's Bulls And Bears Of The Week: Apple, Coca-Cola, Facebook, Microsoft And More")
+
+
+[Benzinga's Bulls And Bears Of The Week: Apple, Coca-Cola, Facebook, Microsoft And More](https://www.benzinga.com/trading-ideas/long-ideas/21/10/23769370/benzingas-bulls-and-bears-of-the-week-apple-coca-cola-facebook-microsoft-and-more)
+
+
+> Benzinga has examined the prospects for many investor favorite stocks over the past week. Last week's bullish calls included mega-cap tech giants that were in the news. A top consumer staple and an out-of-favor tech company were among the bearish calls seen. Big tech drew plenty of attention in the final week of October. Tech earnings were mixed, the world's most valuable company was dethroned, the social media leader got a facelift, and the trillion-dollar market cap club welcomed a new member.
+
+
+***
+[Roblox has been down since about 7PM ET Oct. 28, with some speculating that the outage may be related to a Chipotle promotion, but the company denies a link (Tom Warren/The Verge)](http://www.techmeme.com/211030/p7#a211030p7)
+
+
+> Tom Warren / The Verge: Roblox has been down since about 7PM ET Oct. 28, with some speculating that the outage may be related to a Chipotle promotion, but the company denies a link — Roblox is having some server issues — Roblox has been down for more than a day, with the game and its related website offline for millions of players.
+
+
+***
+![Review of the MacBook Pro 16-inch (2021): Apple's laptop is back to its best. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/apple-macbook-pro-16-inch-review-1511210-1.jpg "Review of the MacBook Pro 16-inch (2021): Apple's laptop is back to its best. » Brinkwire")
+
+
+[Review of the MacBook Pro 16-inch (2021): Apple's laptop is back to its best. » Brinkwire](https://en.brinkwire.com/technology/review-of-the-macbook-pro-16-inch-2021-apples-laptop-is-back-to-its-best/)
+
+
+> Review of the MacBook Pro 16-inch (2021): Apple's laptop is back to its best. NEW PROCESSORS, LONGER BATTERY LIFE, and the return of MagSafe charging are all part of Apple's new all-MacBook Pro lineup, which goes on sale today. Should you invest in one? Here's our comprehensive review of the MacBook Pro 16-inch… The MacBook Pro is back, and it appears that Apple has finally listened to its millions of devoted customers, with major new features and old favorites returning to this premium laptop. Users will be able to choose between a 14-inch model (which replaces the earlier 13.
+
+
+***
+![Poll: Did you buy any of Apple's new products this week?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/apple-macbook-pro-2021-14-16-inch.jpg "Poll: Did you buy any of Apple's new products this week?")
+
+
+[Poll: Did you buy any of Apple's new products this week?](https://www.imore.com/poll-did-you-buy-any-apples-new-products-week)
+
+
+> Source: Apple Following Apple's announcement of its new MacBook Pro (2021) and AirPods 3 last week, Apple's new products hit the stores on Tuesday. With pre-orders beginning last week, MacBook Pro shipping times are already slipping into December, and Apple's famed cleaning cloth won't be with you until 2022. We want to know if you've bought any of Apple's new products in October, but first here's a recap. MacBook Pro Apple's new MacBook Pro comes with the M1 Pro and M1 Max Apple silicon chips. There are two sizes including a new 14-inch form factor, both housing a return of MagSafe charging, the SD card slot, and HDMI ports.
+
+
+***
+![Can you spot the mysterious Google Maps island that resembles a famous movie star? » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/google-maps-yoda.jpg "Can you spot the mysterious Google Maps island that resembles a famous movie star? » Brinkwire")
+
+
+[Can you spot the mysterious Google Maps island that resembles a famous movie star? » Brinkwire](https://en.brinkwire.com/technology/can-you-spot-the-mysterious-google-maps-island-that-resembles-a-famous-movie-star/)
+
+
+> Can you spot the mysterious Google Maps island that resembles a famous movie star? A Google Maps user claims to have discovered an island that resembles Baby Yoda from the Disney film The Mandalorian. A screenshot of the island has been shared on a popular Reddit thread dedicated to unusual Google Maps discoveries. 'A subreddit for anything and anything to do with Google Maps, Google Earth, and Google Street View,' according to the Reddit page. Thousands of people use it to share and debate their discoveries.
+
+
