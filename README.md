@@ -22981,3 +22981,33 @@
 > The best graphics cards of 2021 are essential to getting the most out of the best PC games but are also crucial for graphics design, 3D modeling, game development, and video editing. For everyday computing needs like streaming video, web browsing, and productivity tasks, integrated graphics is more than enough for your needs, but if you are going to more graphics intensive tasks, you're going to need something more powerful like a discrete graphics processor. Fortunately, that doesn't necessarily mean you need the most powerful graphics card out there, as some of the best cheap graphics cards are also some of the best values for their price.
 
 
+***
+![Brazil scientists test frozen jaguar semen to help species](https://s.abcnews.com/images/Technology/WireAP_d82e90436b934b26be64f05cb3bc97a9_16x9_992.jpg "Brazil scientists test frozen jaguar semen to help species")
+
+
+[Brazil scientists test frozen jaguar semen to help species](https://abcnews.go.com/Technology/wireStory/brazil-scientists-test-frozen-jaguar-semen-species-80863934)
+
+
+> JUNDIAI, Brazil -- Brazilian and American scientists on Thursday tranquilized a wild-born female jaguar now living in a protected area in Sao Paulo state. They're hoping the 110-pound feline named Bianca could make history for the second time in two years.In 2019, Bianca gave birth to the first jaguar cub ever born from artificial insemination. Now, the 8-year-old could once again advance the cause of preserving her species. That is, if all goes according to plan and she becomes pregnant using semen that is frozen.
+
+
+***
+![UFC 267 live stream: How to watch Blachowicz vs Teixerira from anywhere](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/blachowicz-teixerira-ufc.jpg "UFC 267 live stream: How to watch Blachowicz vs Teixerira from anywhere")
+
+
+[UFC 267 live stream: How to watch Blachowicz vs Teixerira from anywhere](https://www.androidcentral.com/ufc-267-live-stream-how-watch-blachowicz-vs-teixerira-anywhere)
+
+
+> This weekend the UFC is doing things a bit differently as the promotion is returning to its Fight Island facility in the United Arab Emirates for UFC 267 and we have all the details on how you can watch Blachowicz vs Teixerira online or on TV. Source: UFC At UFC 267's Main Event, 42-year-old Brazilian fighter Glover Teixeira will challenge 38-year-old Polish fighter Jan Balchowicz for his Light Heavyweight Championship. Blachowicz is going into tonight's fight with a five fight win streak and during his last match, he defeated Israel Adesanya by unanimous decision in round five.
+
+
+***
+![Safari & Other Mac Apps Have A 120Hz ProMotion Scrolling Problem](https://static3.srcdn.com/wordpress/wp-content/uploads/2021/10/MacBook-pro-Display.jpg "Safari & Other Mac Apps Have A 120Hz ProMotion Scrolling Problem")
+
+
+[Safari & Other Mac Apps Have A 120Hz ProMotion Scrolling Problem](https://screenrant.com/macbook-pro-mac-apps-120hz-promotion-scrolling-problem/)
+
+
+> The new MacBook Pro models feature ProMotion displays, but it looks like most applications, including Apple's own ones, don't support 120Hz. Many Mac apps, including first-party applications such as Safari, do not seem to currently support the high-refresh adaptive ProMotion display on the new MacBook Pro models, resulting in a scrolling experience that's not as smooth as many might expect. The new machines feature a gorgeous adaptive 120Hz mini-LED "all-screen" display, although there is a notch for the camera, ambient light sensor, and front-facing microphones.
+
+
