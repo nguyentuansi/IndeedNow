@@ -23184,3 +23184,53 @@
 > "[Deans] philosophy is the sickest, most paralyzing and most destructive thing that has ever originated from the brain of man.""[Dean] lay waste to everything in its path... [It is ] a systematic work of destruction and demoralization... In the end it became nothing but an act of sacrilege."All products of human thought end in meaninglessness-even Zen nihilism absurdism existentialism all philosophy mathematics science etcMagister colin leslie dean the only modern Renaissance man with 9 degrees including 4 masters: B,Sc, BA, B.
 
 
+***
+![New Nintendo Switch OLED video game console has some nifty improvements](https://www.gannett-cdn.com/presto/2021/10/15/USAT/a10e1a73-a3f8-4bf9-8251-03a30fe02887-NintendoSwitchOLEDmodel_02.jpg?crop=7964,4480,x0,y0&width=3200&height=1801&format=pjpg&auto=webp "New Nintendo Switch OLED video game console has some nifty improvements")
+
+
+[New Nintendo Switch OLED video game console has some nifty improvements](https://www.usatoday.com/story/tech/gaming/2021/10/30/nintendo-switch-oled-hot-demand-new-video-game-console/8473005002/)
+
+
+> There's a shiny new Nintendo Switch out now – if you can find one.Released earlier this month, the new Switch video game console ($349.99) sports a 7-inch OLED display that's larger than the 6.2-inch LCD screen on the standard Switch system ($299.99).Like the previous model, the OLED Switch connects to your TV and lets you play as a handheld. And its stand lets you play in tabletop mode.And just as the original Switch had been in hot demand since its release in 2017, this new Switch is tough to get, too.
+
+
+***
+![Metroid Dread review: Samus returns to old-school form on the Nintendo Switch](https://www.gannett-cdn.com/presto/2021/10/22/PREN/77407370-99e5-4061-a3ea-72c768ad2b1f-Metroid_Dread_00.jpg?crop=3725,2096,x0,y147&width=3200&height=1801&format=pjpg&auto=webp "Metroid Dread review: Samus returns to old-school form on the Nintendo Switch")
+
+
+[Metroid Dread review: Samus returns to old-school form on the Nintendo Switch](https://www.usatoday.com/story/tech/gaming/2021/10/30/metroid-dread-review-samus-nintendo-switch-video-game/8553148002/)
+
+
+> Hey, 1994 called and it wants its Super Metroid mechanics back. Then again, classic Metroid gameplay is not a bad thing and that's exactly what Metroid Dread delivers for series fans on the Nintendo Switch.Old-school gamers got an appetizer of what a modern 2D Metroid looked like four years ago in Mercury Steam's 'Metroid: Samus Returns' for the 3DS. Now the studio is back with the entire full course as Metroid Dread doubles down on the classic formula that helped give rise to a whole genre now known as 'Metroidvania.
+
+
+***
+![Pixel 6 with Pixel Pass: How Google's bundle works and if it saves money](https://www.cnet.com/a/img/kQQwYvbWlZ002h5tYIK3Xfa9328=/1200x630/2021/10/19/8e87cde0-46de-4566-b925-bebd1f43aeb9/google-pixel-6-5603.jpg "Pixel 6 with Pixel Pass: How Google's bundle works and if it saves money")
+
+
+[Pixel 6 with Pixel Pass: How Google's bundle works and if it saves money](https://www.cnet.com/tech/mobile/pixel-6-with-pixel-pass-how-google-bundle-works-and-if-it-saves-money/)
+
+
+> The Pixel Pass lets you buy a new Pixel phone bundled with a variety of services. James Martin/CNET Google's new Pixel Pass is a combined purchasing plan and subscription service bundle, which the company frames as a way to save money on the new Pixel 6 and Pixel 6 Pro phones while providing access to a variety of Google services. Both phones include the new Tensor chip along with new camera features like Magic Eraser for removing unwanted people or objects. The subscription spreads out the cost of the Pixel 6 or the Pixel 6 Pro over two years while also paying for device protection, a 200GB Google One subscription with automatic photo backup, YouTube Premium, YouTube Music Premium and Google Play Pass.
+
+
+***
+![Why I might not buy the DJI Mavic 3 (despite selling my DJI Mavic 2 Pro)](https://cdn.mos.cms.futurecdn.net/vitbxWEPT7N9Sw7F9RTbp4-1200-80.jpg "Why I might not buy the DJI Mavic 3 (despite selling my DJI Mavic 2 Pro)")
+
+
+[Why I might not buy the DJI Mavic 3 (despite selling my DJI Mavic 2 Pro)](https://www.techradar.com/news/why-i-might-not-buy-the-dji-mavic-3-despite-selling-my-dji-mavic-2-pro)
+
+
+> The DJI Mavic 3 has moved from rumor to virtual certainty in recent days, with a huge leak picked up by TechnikNews and DroneXL showing the drone's likely design from most angles.This means the launch, which will most likely take place on the November 5 date teased by DJI itself on social media, is almost here. But despite recently selling my DJI Mavic 2 Pro (below) in anticipation of its successor's arrival, I'm still in two minds about buying a DJI Mavic 3 at launch, for several reasons.(Image credit: DJI)It isn't that the DJI Mavic 3 doesn't, on paper, sound like an exciting drone.
+
+
+***
+![The best sleep tracker 2021: understand your sleep and get a better night's rest](https://cdn.mos.cms.futurecdn.net/GrwpzaiLahtQD7d7YWi4vM-1200-80.jpg "The best sleep tracker 2021: understand your sleep and get a better night's rest")
+
+
+[The best sleep tracker 2021: understand your sleep and get a better night's rest](https://www.techradar.com/best/best-sleep-tracker)
+
+
+> A sleep tracker can offer a surprising wealth of data that can help you avoid restless nights tossing back and forth – which can be a problem even with the best mattress and a white noise machine.We've tested the best sleep trackers available today, putting each one through its paces over the course of several nights to find out which one gives you the most insight into your sleep, and can help you feel more rested in the morning.Many fitness trackers and smartwatches offer sleep tracking as standard, measuring your heart rate at night to show how long you spent in each stage of sleep (deep, REM and light) plus any periods awake.
+
+
