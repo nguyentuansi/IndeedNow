@@ -23281,3 +23281,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Why Pixel 6 reviews are so varied over its new cameras](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/10/google-pixel-6-pro-camera-bar-leaves-169.jpg "Why Pixel 6 reviews are so varied over its new cameras")
+
+
+[Why Pixel 6 reviews are so varied over its new cameras](https://www.androidcentral.com/why-pixel-6-cameras-are-better-reviewers-say)
+
+
+> I've been using my Google Pixel 6 for two weeks now, and while writing its review for Android Central, the section that honestly felt the easiest to write for me was the camera section. The main sensor kicked out great photos day or night, and the videos I took were wonderful. While white levels missed every so often, it was always within the range for the highlights/shadows toggles to fix. In short, the Pixel 6's main sensor photos were great. Once those words were written, though, the urge to change or hedge them gnawed at me for days.
+
+
+***
+![Walmart is practically giving away this 75-inch 4K TV today](https://icdn.digitaltrends.com/image/digitaltrends/tcl-4-series-4k-tv-featured-image-large.jpg "Walmart is practically giving away this 75-inch 4K TV today")
+
+
+[Walmart is practically giving away this 75-inch 4K TV today](https://www.digitaltrends.com/dtdeals/tcl-65-inch-4k-tv-deals-walmart-october-2021/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Black Friday has been all about TVs since back when the shopping holiday meant lining up Thursday night with a stomach still full of turkey — and thank goodness those days are over. This year, we can relax on our couches and get the same amazing deals on massive 4K TVs. This 75-inch 4K TCL TV is only $698, $200 cheaper than its original price of $898. This is one of the best Black Friday TV deals we've seen so far. The best Black Friday deals are sure to run out before the official calendar date, so snatch this one up while you can.
+
+
+***
+[Xiaomi 11i and 11i HyperCharge going to be the Indian variants of Redmi Note11 Pro and Note11 Pro+; Read more](http://www.pinkvilla.com/tech/news/xiaomi-11i-and-11i-hypercharge-going-to-be-the-indian-variants-of-redmi-note11-pro-and-note11-pro-read-more-930014)
+
+
+> Attach Main technology Image: Image Caption: Xiaomi 11i and 11i HyperCharge going to be the Indian variants of Redmi Note11 Pro and Note11 Pro+; Read more Social Media Image : Enter the Technology details: Xiaomi launched the Redmi Note 11 Pro and Note 11 Pro+ in China on 28th October and is looking forward to launching the Indian variants of these two smartphones without the Redmi branding. The smartphones to be launched in India will be named as Xiaomi 11i and Xiaomi 11i HyperCharge.
+
+
+***
+![Wales vs New Zealand live stream: how to watch 2021 autumn international from anywhere](https://cdn.mos.cms.futurecdn.net/95d54sZReJRDsEMh8gq4Ke-1200-80.jpg "Wales vs New Zealand live stream: how to watch 2021 autumn international from anywhere")
+
+
+[Wales vs New Zealand live stream: how to watch 2021 autumn international from anywhere](https://www.techradar.com/news/wales-vs-new-zealand-live-stream-how-to-watch-2021-autumn-international-from-anywhere)
+
+
+> (Image credit: Stu Forster/Getty Images) The cream of the northern hemisphere get up close and personal with the rulers of the antipodes in what's sure to be belter of an autumn rugby union international. Read on as our guide explains how to get a Wales vs New Zealand live stream and watch online today.Wales won the Six Nations in March, while New Zealand romped to victory in the Rugby Championship at the start of October, both teams losing just once on the path to glory.Wales haven't got the better of the All Blacks in 68 years and, considering their absentees, New Zealander Wayne Pivac might be looking to just not get hammered.
+
+
+***
+![Nvidia RTX 3080 Ti GPU could be coming to supercharge gaming laptops](https://cdn.mos.cms.futurecdn.net/AzdGbHQuxxjaV5SmcG5ygb-1200-80.jpg "Nvidia RTX 3080 Ti GPU could be coming to supercharge gaming laptops")
+
+
+[Nvidia RTX 3080 Ti GPU could be coming to supercharge gaming laptops](https://www.techradar.com/news/nvidia-rtx-3080-ti-gpu-could-be-coming-to-supercharge-gaming-laptops)
+
+
+> (Image credit: Nvidia) Nvidia could be readying an RTX 3080 Ti laptop graphics card if the rumor mill is to be believed.Speculation about higher-end notebook GPUs from Nvidia has been flying around for quite some time now, although previous leaks from a few months or so back pointed to the possibility of an RTX 3080 Super model (plus 3070 Super for that matter).This fresh spillage has pinned the Ti label, rather than Super branding, on the purportedly incoming RTX 3080 variant, with the theory being that this product will be based on Nvidia's GA103 GPU (GN20-E8), as noted in a tweet from Matthew Smith which VideoCardz spotted (Smith is the keeper of TechPowerUp's GPU database).
+
+
