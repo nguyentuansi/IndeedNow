@@ -23422,3 +23422,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Here's how to start a new game of Pokémon Sword and Shield](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/11/finally-getting-a-nintendo-switch-black-friday-002.jpg "Here's how to start a new game of Pokémon Sword and Shield")
+
+
+[Here's how to start a new game of Pokémon Sword and Shield](https://www.imore.com/pokemon-sword-and-shield-how-delete-your-game-and-start-over)
+
+
+> Source: Rebecca Spear / iMore Now that Pokémon Sword and Shield have been out for a while and have proven to be some of the best Nintendo Switch games out there, you might have run through the game and beaten it already. Or, maybe life has just been so busy that you put the game aside for a while and finally have time to play again. If you want to start over from the beginning, you'll have to delete your game data. Since the game automatically launches into your file instead of going to a menu, it isn't immediately obvious how to delete your save data, but it is possible.
+
+
+***
+![The Horror That Is Facebook](https://external-preview.redd.it/EuLcvxivuP1zuZXpUXqy4gdEJ2jutvaeGIo-IrSSugs.jpg?auto=webp&s=8a16225cbd4d723344b8e7abe68cd9ef0af68a38 "The Horror That Is Facebook")
+
+
+[The Horror That Is Facebook](https://www.reddit.com/r/technology/comments/qj8zn9/the_horror_that_is_facebook/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[Is my first major project goal realistic?](https://www.reddit.com/r/Python/comments/qj8xg7/is_my_first_major_project_goal_realistic/)
+
+
+> Hey python community, when the pandemic hit I started looking for hobbies to take up that would actually be productive, eventually after going down a long rabbit hole I came to coding. I've honestly never been so excited about learning a new skill as I've come to realise the endless possibilities coding has.I've spent about 30+ hours watching tutorials and lots more time on python.org reading everything I can. I've decided for my first project I am going to try and automate a pretty stupid menial task I have at work.
+
+
+***
+![I made a Python tool that helps you know what to say!](https://external-preview.redd.it/zqDQuYiwq-g8NW9LFZ8d4wnwxPdPJ2zXB5dlxL0nBjg.jpg?auto=webp&s=3eb66280990cd6e7461ef295b5f9dbec46b5476e "I made a Python tool that helps you know what to say!")
+
+
+[I made a Python tool that helps you know what to say!](https://www.reddit.com/r/Python/comments/qj8une/i_made_a_python_tool_that_helps_you_know_what_to/)
+
+
+> TLDR; A Python GUI that tells you what to say to someone's message.Repo LinkI've had this idea kicking around my head for a while of having a robot assistant that tells me socially 'normal' things to say. This is really only an issue for me when texting or messaging someone since IRL I rely heavily on social cues.I learned about GPT-3 and its strength as a generative model but couldn't access it yet (can't afford the API). Thankfully I found a GPT-2 based pre-trained model DialoGPT that was trained on Reddit.
+
+
+***
+![Fake resume with tech buzzwords gets 90% success rate.](https://external-preview.redd.it/vCO_2oLaFlaPfbMG4S4YivecozYKd2jSYQ43E0EuaRA.jpg?auto=webp&s=6dee637eb9fcd12f01be9ded55feaac0eaa79a6b "Fake resume with tech buzzwords gets 90% success rate.")
+
+
+[Fake resume with tech buzzwords gets 90% success rate.](https://www.reddit.com/r/programming/comments/qj8tsf/fake_resume_with_tech_buzzwords_gets_90_success/)
+
+
+> No body in the article.
+
+
