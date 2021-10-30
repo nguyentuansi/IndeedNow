@@ -23469,3 +23469,53 @@
 > No body in the article.
 
 
+***
+![Facebook finally takes steps against misinformation about COVID vaccines for children](https://helios-i.mashable.com/imagery/articles/01U7fG4spbfIyjc5QIKHMfs/hero-image.fill.size_1200x675.v1635630906.jpg "Facebook finally takes steps against misinformation about COVID vaccines for children")
+
+
+[Facebook finally takes steps against misinformation about COVID vaccines for children](https://mashable.com/article/facebook-covid-vaccine-misinformation-kids)
+
+
+> Facebook is stretching the old adage "better late than never" to its limits.The massive social network that now exists under a brand called Meta published a blog post on Friday detailing some of the steps it would now take to curb COVID vaccine misinformation, specifically as it regards kids getting the vaccine. This came hot on the heels of the FDA finally issuing an emergency use authorizing for the Pfizer vaccine for kids aged 5 to 11.SEE ALSO: Best headphones for kidsAs for specifics, Facebook is going to roll out English and Spanish-language reminders in users' news feeds that the vaccines are now authorized for kids, with information on where and how to get them.
+
+
+***
+![Start a local HTTP server without any tools, just open a web page.](https://external-preview.redd.it/nLoZSScaq4Abj-5RCp2mMI8_8c5TheJZQsbWE_ZUA4k.jpg?auto=webp&s=6bb900949c7ae8bfa38874bf76c97b8157ee0606 "Start a local HTTP server without any tools, just open a web page.")
+
+
+[Start a local HTTP server without any tools, just open a web page.](https://www.reddit.com/r/programming/comments/qjbd9v/start_a_local_http_server_without_any_tools_just/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![It's time to clean the gross earwax and gunk out of your AirPods. We'll tell you how](https://www.cnet.com/a/img/cnMRQjywLGYRNow4sDbzYlleTZw=/1200x630/2021/10/19/afac8146-3929-48ad-9d28-10d77f08a2e8/airpods-q-tips-on-pink.jpg "It's time to clean the gross earwax and gunk out of your AirPods. We'll tell you how")
+
+
+[It's time to clean the gross earwax and gunk out of your AirPods. We'll tell you how](https://www.cnet.com/tech/mobile/its-time-to-clean-the-gross-earwax-and-gunk-out-of-your-airpods-well-tell-you-how/)
+
+
+> Clean your earbuds regularly. Katie Teague/CNET When's the last time you cleaned your AirPods or earbuds? It doesn't take long for them to get filled with icky gunk, Over time, earwax, grease and dirt can get stuck inside of your earbuds. It's gross and can impact the crisp, clear sound that you're probably used to hearing. And dirty earbuds can lead to infections (more below). So, if you haven't given them a good cleaning, it's time. Getting the gunk out the wrong way can damage your earbuds, even if they're waterproof.
+
+
+***
+![Grab a friend (far away) and get your Switch game on!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/03/switch-online.jpg "Grab a friend (far away) and get your Switch game on!")
+
+
+[Grab a friend (far away) and get your Switch game on!](https://www.imore.com/best-online-multiplayer-games-nintendo-switch)
+
+
+> The quintessential multiplayer party game is finally on the Nintendo Switch. While you might enjoy the up-to-eight-player brawling mayhem with local players on the couch, online mode is by far the best way to test your Smash skills with players from around the world. You can play for fun and giggles at any time, or you can try to rise through the ranks and play against tougher and tougher opponents with a variety of different rulesets. $60 at Amazon Staff Favorite Pokémon Sword and Shield is the most multiplayer-focused entry in the mainline series yet.
+
+
+***
+![Anyone else using Premiere Pro with a M1 MAX](https://images.macrumors.com/social/?t=2320833&v=6 "Anyone else using Premiere Pro with a M1 MAX")
+
+
+[Anyone else using Premiere Pro with a M1 MAX](https://forums.macrumors.com/threads/anyone-else-using-premiere-pro-with-a-m1-max.2320833/)
+
+
+> I got a 16 inch M1 MAX with 64GB of RAM. Been doing some editing in Premier Pro and notice that when I pause and play the playback, often times there will be a delay in playback or when pausing, the video will stop but the audio will continue playing for a few seconds advancing the playhead further than where I wanted it to be. Don't recall this happening on my Intel Mac, but it had been a while since I edited video as I've been busy at my day job. Wondering if Premier Pro is truly optimized for the M1 Max.
+
+
