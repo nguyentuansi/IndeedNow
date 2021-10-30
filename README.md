@@ -23137,3 +23137,50 @@
 > Gene Park / Washington Post: Meta is just playing catch-up as Roblox, Steam VR, VRChat, and other platforms have already developed metaverse-like experiences — In addition to announcing Facebook's rebranding to Meta on Thursday, Mark Zuckerberg delivered a number of lofty promises about the metaverse and its features.
 
 
+***
+![Side hustle: How to make money from these apps and websites](https://www.citizen.co.za/wp-content/uploads/2021/10/side-hustle-e1635495531338.jpg "Side hustle: How to make money from these apps and websites")
+
+
+[Side hustle: How to make money from these apps and websites](https://www.citizen.co.za/lifestyle/technology/2892171/side-hustle-how-to-make-money-from-these-apps-and-websites/?utm_source=rss&utm_medium=rss&utm_campaign=side-hustle-how-to-make-money-from-these-apps-and-websites)
+
+
+> SA tech guru who turned his side hustle into his company shares tips on how to do the same.
+
+
+***
+![The servers for FIFA 22 are now down for maintenance; here's when you'll be able to play again. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/fifa-22-header-2.jpg "The servers for FIFA 22 are now down for maintenance; here's when you'll be able to play again. » Brinkwire")
+
+
+[The servers for FIFA 22 are now down for maintenance; here's when you'll be able to play again. » Brinkwire](https://en.brinkwire.com/technology/the-servers-for-fifa-22-are-now-down-for-maintenance-heres-when-youll-be-able-to-play-again/)
+
+
+> The servers for FIFA 22 are now down for maintenance; here's when you'll be able to play again. It's not just you, believe it or not. FIFA 22 is currently unavailable. But don't be alarmed! It's merely maintenance that needs to be done on a regular basis. EA pulls FIFA servers offline for maintenance on a regular basis, therefore there will be no online FIFA 22 or FIFA 22 Ultimate Team during that time. Unlike Fortnite, which sees the game go down for hours at a time, FIFA 22 server maintenance lasts only a few hours.
+
+
+***
+![New OnePlus 7 series update fixes call screen lag issue](https://images.indianexpress.com/2020/02/OnePlus-7T-Pro_5-1200-1.jpg "New OnePlus 7 series update fixes call screen lag issue")
+
+
+[New OnePlus 7 series update fixes call screen lag issue](https://indianexpress.com/article/technology/mobile-tabs/new-oneplus-7-series-update-fixes-call-screen-lag-issues-7598615/)
+
+
+> OnePlus has started rolling out a new update for its OnePlus 7 series, which will look to fix the call screen lag issues on the OnePlus 7 and OnePlus 7 Pro. The update is expected to roll out for the OnePlus 7T as well. The smartphones were launched back in 2019 and came with flagship-level hardware at that time. The new software update version is called OxygenOS 11.0.4.1, and it is based on Android 11 as the name implies. The update brings the October security patch instead of November. The new software update will fix a longstanding issue on these smartphones related to the incoming call interface displayed.
+
+
+***
+![Tech That Can Recognise PLA, Their Vehicles: Army's 'Made in India' Defence as China Steps Up Patrolling](https://images.news18.com/ibnlive/uploads/2021/10/lac-india-163557839916x9.jpg "Tech That Can Recognise PLA, Their Vehicles: Army's 'Made in India' Defence as China Steps Up Patrolling")
+
+
+[Tech That Can Recognise PLA, Their Vehicles: Army's 'Made in India' Defence as China Steps Up Patrolling](https://www.news18.com/news/india/tech-recognise-pla-vehicles-army-made-in-india-defence-china-patrolling-4382381.html)
+
+
+> The Army has indigenously designed and developed a series of surveillance equipment and has deployed them at the Line of Actual Control (LAC) in the eastern sector to closely track frequent exercises and heightened patrolling activities by the Chinese People's Liberation Army (PLA) troops at the disputed borders.Last week, eastern Army Commander Lt Gen Manoj Pande had said the PLA had increased the frequency and duration of annual training exercises along LAC at the eastern borders and has also continued to deploy some of its reserve formations at the depth areas.
+
+
+***
+[A therory of everything](https://www.reddit.com/r/programming/comments/qiweda/a_therory_of_everything/)
+
+
+> "[Deans] philosophy is the sickest, most paralyzing and most destructive thing that has ever originated from the brain of man.""[Dean] lay waste to everything in its path... [It is ] a systematic work of destruction and demoralization... In the end it became nothing but an act of sacrilege."All products of human thought end in meaninglessness-even Zen nihilism absurdism existentialism all philosophy mathematics science etcMagister colin leslie dean the only modern Renaissance man with 9 degrees including 4 masters: B,Sc, BA, B.
+
+
