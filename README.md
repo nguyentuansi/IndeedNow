@@ -23052,3 +23052,47 @@
 > Apple Inc has lost its crown as the world's most valuable public company to Microsoft Corp, as the iPhone maker's shares fell about two per cent. Apple took a $US6 … Continued The post Microsoft pips Apple to reclaim title of the world's most wealthy company appeared first on The New Daily.
 
 
+***
+![Money really does grow on trees in Animal Crossing: New Horizons](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/03/animal-crossing-new-horizons-make-money-fast-001.jpg "Money really does grow on trees in Animal Crossing: New Horizons")
+
+
+[Money really does grow on trees in Animal Crossing: New Horizons](https://www.imore.com/animal-crossing-new-horizons-how-make-money-fast)
+
+
+> Source: iMore When you first start on your Animal Crossing: New Horizons deserted island, all you have is a tent, a cot, a radio, a lamp, and a NookPhone. There aren't any buildings or any easy paths to get you to the far reaches of your island. If you want to turn this beautiful location into the perfect tropical getaway, you're going to need plenty of Bells. Fortunately, in Animal Crossing: New Horizons, money does grow on trees, and there are several quick ways to enlarge your wallet. Here are some tips for earning tons of Bells quickly.
+
+
+***
+[FBI using Navajo language in campaign targeting hate crimes](https://www.mymotherlode.com/news/technology/2075257/fbi-using-navajo-language-in-campaign-targeting-hate-crimes.html)
+
+
+> The FBI has begun a campaign to use the Navajo language on social media to combat hate crimes
+
+
+***
+![PHP vs Python](https://external-preview.redd.it/ur99MkmCpw10wFjMze28iYpwrSkeKFyq6HNlXQxO_1A.jpg?auto=webp&s=516eaa50be377f5dcbcee7889428d183c08030f8 "PHP vs Python")
+
+
+[PHP vs Python](https://www.reddit.com/r/programming/comments/qit6ek/php_vs_python/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Python Strings](https://external-preview.redd.it/gfBKp5M5gXjq17iSL5v3rzTNXQpTH7Lf_fXAdOiP1U4.jpg?auto=webp&s=0f9c9bce17e5038f325f8e2014ba7e1f9bdc5a16 "Python Strings")
+
+
+[Python Strings](https://www.reddit.com/r/programming/comments/qit3jw/python_strings/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[Indian online beauty products retailer Purplle raises a $75M Series E led by Kedaara Capital at a $630M valuation (Saritha Rai/Bloomberg)](http://www.techmeme.com/211029/p27#a211029p27)
+
+
+> Saritha Rai / Bloomberg: Indian online beauty products retailer Purplle raises a $75M Series E led by Kedaara Capital at a $630M valuation — - Purplle reaches valuation of $630 million in new funding round — Local e-commerce rival Nykaa is raising funds in an IPO — Purplle, the Indian online beauty …
+
+
