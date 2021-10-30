@@ -23234,3 +23234,50 @@
 > A sleep tracker can offer a surprising wealth of data that can help you avoid restless nights tossing back and forth – which can be a problem even with the best mattress and a white noise machine.We've tested the best sleep trackers available today, putting each one through its paces over the course of several nights to find out which one gives you the most insight into your sleep, and can help you feel more rested in the morning.Many fitness trackers and smartwatches offer sleep tracking as standard, measuring your heart rate at night to show how long you spent in each stage of sleep (deep, REM and light) plus any periods awake.
 
 
+***
+![How to Default Enable the Windows 10-Like Right-Click Menu on Windows 11. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/how-to-enable-windows-10-like-right-click-menu-on-windows-11-by-default.jpg "How to Default Enable the Windows 10-Like Right-Click Menu on Windows 11. » Brinkwire")
+
+
+[How to Default Enable the Windows 10-Like Right-Click Menu on Windows 11. » Brinkwire](https://en.brinkwire.com/technology/how-to-default-enable-the-windows-10-like-right-click-menu-on-windows-11/)
+
+
+> How to Default Enable the Windows 10-Like Right-Click Menu on Windows 11. The good ‘ol right-click menu that its predecessors sported for decades is back in Windows 11, along with a slew of other design tweaks. Right-Click Menu in Windows 11 Although the new right-click menu in Windows 11 complements the new operating system's minimalist design, some users still prefer the old-school menu choice. Other people, to be fair, find the minimalistic right-click menu refreshing, especially since they can still expand it by choosing the 'Show more options' button.
+
+
+***
+[Meticulous (YC S21) Is Hiring Founding Engineer (London)](https://news.ycombinator.com/item?id=29048110)
+
+
+> Hey HN, I'm Gabriel, founder of Meticulous and previously a software engineer at Opendoor and Dropbox.Our mission is to make the world's code safe, performant and reliable. We're starting with a tool to catch JavaScript regressions in web applications with zero-effort from developers.We are a London-based YC company. We just raised $4m, and are backed by some of the best founders and technical leaders in Silicon Valley, including Guillermo Rauch (founder Vercel, author next.js), Jason Warner (CTO GitHub), Scott Belsky (CPO Adobe), Calvin French-Owen (founder Segment), Jared Friedman (YC partner and former CTO of Scribd) and a bunch of other incredible folks.
+
+
+***
+![Why Black Friday is the best time to renew your PS Plus membership](https://cdn.mos.cms.futurecdn.net/f4S2bkBFnwh3w4CufiKwci-1200-80.jpg "Why Black Friday is the best time to renew your PS Plus membership")
+
+
+[Why Black Friday is the best time to renew your PS Plus membership](https://www.techradar.com/news/why-black-friday-is-the-best-time-to-renew-your-ps-plus-membership)
+
+
+> (Image credit: Sony) Has your PlayStation Plus membership run out? Or have you just been waiting for the right time to subscribe to Sony's online subscription service? Well, either way, you're in luck, because there's no better time to renew, or start, a PS Plus membership than during the Black Friday sales period.Sure, there will be plenty of fantastic Black Friday PS4 and PS4 Pro deals floating about at the end of November, but if you're a PlayStation owner then there's one purchase that should be your priority: PlayStation Plus.
+
+
+***
+![I chatted with Raspberry Pi Founder Even Upton about running a computer company during a pandemic (and lots of other stuff)](https://external-preview.redd.it/NPloq_Aa60OUgnIb-HyBE88ZsSe7ZRIhvPKlQMVTKDg.jpg?auto=webp&s=b7fd8cb94feaf7ed4d49bd7a5aec03018548f3c4 "I chatted with Raspberry Pi Founder Even Upton about running a computer company during a pandemic (and lots of other stuff)")
+
+
+[I chatted with Raspberry Pi Founder Even Upton about running a computer company during a pandemic (and lots of other stuff)](https://www.reddit.com/r/programming/comments/qizza5/i_chatted_with_raspberry_pi_founder_even_upton/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Torus shape plotting in Python](https://external-preview.redd.it/RKH_8CmfN-KuXp6Nsq_AGgCMUDJYFGO0LofNvN7Jyi8.jpg?auto=webp&s=e5d7b55da3406e727f4b0c048e13b296072641f9 "Torus shape plotting in Python")
+
+
+[Torus shape plotting in Python](https://www.reddit.com/r/programming/comments/qizxxm/torus_shape_plotting_in_python/)
+
+
+> no comments yetBe the first to share what you think!
+
+
