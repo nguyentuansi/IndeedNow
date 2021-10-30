@@ -23375,3 +23375,50 @@
 > Can you spot the mysterious Google Maps island that resembles a famous movie star? A Google Maps user claims to have discovered an island that resembles Baby Yoda from the Disney film The Mandalorian. A screenshot of the island has been shared on a popular Reddit thread dedicated to unusual Google Maps discoveries. 'A subreddit for anything and anything to do with Google Maps, Google Earth, and Google Street View,' according to the Reddit page. Thousands of people use it to share and debate their discoveries.
 
 
+***
+[Making histogram](https://www.reddit.com/r/Python/comments/qj6zvw/making_histogram/)
+
+
+> Hi, I am programming a function which creates histogram for RGB images using numpy and cv2. At a certain point it loops trough 3 nested for loops, to read every pixel in all 3 channels. As you might expect, it takes a very long time (about 45 seconds). Is there a faster way?Thank you in advance.
+
+
+***
+![Internet shutdowns are a political weapon. It's time to disarm.](https://external-preview.redd.it/W758Lz6245YUy0zE0nHNN9aYqgfKipKHI2_AtkhcL9U.jpg?auto=webp&s=f14a68980f325306fa727f5c430b0621c07d25dd "Internet shutdowns are a political weapon. It's time to disarm.")
+
+
+[Internet shutdowns are a political weapon. It's time to disarm.](https://www.reddit.com/r/technology/comments/qj6oki/internet_shutdowns_are_a_political_weapon_its/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![This Week in Apps: SharePlay arrives, Android Dev Summit wraps, Snap and TikTok go to Congress – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753 "This Week in Apps: SharePlay arrives, Android Dev Summit wraps, Snap and TikTok go to Congress – TechCrunch")
+
+
+[This Week in Apps: SharePlay arrives, Android Dev Summit wraps, Snap and TikTok go to Congress – TechCrunch](https://techcrunch.com/2021/10/30/this-week-in-apps-shareplay-arrives-android-dev-summit-wraps-snap-and-tiktok-go-to-congress/)
+
+
+> Sarah Perez @sarahintampa / 7 hours Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consumer spend in 2020. Consumers last year also spent 3.5 trillion minutes using apps on Android devices alone. And in the U.S., app usage surged ahead of the time spent watching live TV. Currently, the average American watches 3.
+
+
+***
+![First time coding be like 😂](https://external-preview.redd.it/HoPTKPkT2b9UY-hbBGVgz_lNMnKvqEV-Qni-jEPxNJE.jpg?auto=webp&s=6be62da0bcfe9b39d9ae6d2b24186488d2ffe7a7 "First time coding be like 😂")
+
+
+[First time coding be like 😂](https://www.reddit.com/r/programming/comments/qj6kvo/first_time_coding_be_like/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Introducing MistQL: A miniature embeddable language for performing computations on JSON-like structures](https://external-preview.redd.it/myXqmoVc1EXQdb17f5MHRu5JxROVICFD5qSb95GGOpo.jpg?auto=webp&s=06e267914bd6c1711ae98f578c71f731dd75888c "Introducing MistQL: A miniature embeddable language for performing computations on JSON-like structures")
+
+
+[Introducing MistQL: A miniature embeddable language for performing computations on JSON-like structures](https://www.reddit.com/r/programming/comments/qj6iao/introducing_mistql_a_miniature_embeddable/)
+
+
+> no comments yetBe the first to share what you think!
+
+
