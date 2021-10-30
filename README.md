@@ -23096,3 +23096,44 @@
 > Saritha Rai / Bloomberg: Indian online beauty products retailer Purplle raises a $75M Series E led by Kedaara Capital at a $630M valuation — - Purplle reaches valuation of $630 million in new funding round — Local e-commerce rival Nykaa is raising funds in an IPO — Purplle, the Indian online beauty …
 
 
+***
+[Meta's promised metaverse is going to be boring and is meant to distract us from the world that Facebook helped break (Ethan Zuckerman/The Atlantic)](http://www.techmeme.com/211030/p4#a211030p4)
+
+
+> Ethan Zuckerman / The Atlantic: Meta's promised metaverse is going to be boring and is meant to distract us from the world that Facebook helped break — It was terrible then, and it's terrible now. — In a booth at Ted's Fish Fry, in Troy, New York, my friend Daniel Beck and I sketched out our plans for the metaverse.
+
+
+***
+![How to watch Tottenham vs Man United: Live stream Premier League football o](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/images/cover/cover-ac.jpg "How to watch Tottenham vs Man United: Live stream Premier League football o")
+
+
+[How to watch Tottenham vs Man United: Live stream Premier League football o](https://www.androidcentral.com/tottenham-vs-man-united-live-stream-how-watch-premier-league-match-online-anywhere)
+
+
+> Having been spared the sack after last weekend's dire display by Man United against fierce rivals Liverpool, under pressure boss Ole Gunnar Solskjaer takes charge of the Red Devils in a seemingly make-or-break clash with Spurs - read on to find out how to get a Tottenham vs Man United live stream from anywhere in the world. The 5-0 hammering dished out by Jurgen Klopp's men last Sunday at Old Trafford will be marked out as one of the lowest points in United's recent history, and served to underline just how far behind the club are from the likes of Man City and Liverpool.
+
+
+***
+![‘Meta' data: How Netizens, Twitterati, Brands responded to Facebook becoming ‘Meta'](https://images.livemint.com/img/2021/10/30/600x338/meta_1635572991769_1635572997349.jpg "‘Meta' data: How Netizens, Twitterati, Brands responded to Facebook becoming ‘Meta'")
+
+
+[‘Meta' data: How Netizens, Twitterati, Brands responded to Facebook becoming ‘Meta'](https://www.livemint.com/technology/meta-data-how-netizens-twitterati-brands-responded-to-facebook-becoming-meta-11635571599261.html)
+
+
+> Social media has so many dimensions, laughter is one of it. The online trolling of Facebook rebranding itself to ‘Meta' provocated netizens to crack one liner, puns, jokes, etc. These are not just ordinary people out there but big brands, celebrities, and decision makers. Facebook changing its name to Meta is seen as a corrective measure to stop the negative publicity it has got in the recent times due its involvements in impacting decision making and promoting hate, unwillingly, on its platform.
+
+
+***
+[iOS users can now Super Follow on Twitter](https://www.zeebiz.com/technology/apps/news-ios-users-can-now-super-follow-on-twitter-169419)
+
+
+> Users interested in Super Follows have to meet the minimum requirements, according to the Super Follows policy. They have to be 18 or older, have at least 10,000 followers, have tweeted at least 25 times in the past 30 days.
+
+
+***
+[Meta is just playing catch-up as Roblox, Steam VR, VRChat, and other platforms have already developed metaverse-like experiences (Gene Park/Washington Post)](http://www.techmeme.com/211030/p3#a211030p3)
+
+
+> Gene Park / Washington Post: Meta is just playing catch-up as Roblox, Steam VR, VRChat, and other platforms have already developed metaverse-like experiences — In addition to announcing Facebook's rebranding to Meta on Thursday, Mark Zuckerberg delivered a number of lofty promises about the metaverse and its features.
+
+
