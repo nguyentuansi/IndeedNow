@@ -23011,3 +23011,44 @@
 > The new MacBook Pro models feature ProMotion displays, but it looks like most applications, including Apple's own ones, don't support 120Hz. Many Mac apps, including first-party applications such as Safari, do not seem to currently support the high-refresh adaptive ProMotion display on the new MacBook Pro models, resulting in a scrolling experience that's not as smooth as many might expect. The new machines feature a gorgeous adaptive 120Hz mini-LED "all-screen" display, although there is a notch for the camera, ambient light sensor, and front-facing microphones.
 
 
+***
+![Logistic Regression From Scratch with Python 🐍 (For Beginners)](https://external-preview.redd.it/hHPETAP549fxq5-eIsnYSwdy1JEmLdgb9Ws94uU-cjA.jpg?auto=webp&s=63f2f0829f6f50b89752aacdaa126b720916275b "Logistic Regression From Scratch with Python 🐍 (For Beginners)")
+
+
+[Logistic Regression From Scratch with Python 🐍 (For Beginners)](https://www.reddit.com/r/programming/comments/qiroxc/logistic_regression_from_scratch_with_python_for/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+[Chinese smart home devices maker Aqara raises a $155M Series C from investors including state-backed Shenzhen Capital and China Telecom (Liya Su/DealStreetAsia)](http://www.techmeme.com/211029/p26#a211029p26)
+
+
+> Liya Su / DealStreetAsia: Chinese smart home devices maker Aqara raises a $155M Series C from investors including state-backed Shenzhen Capital and China Telecom — Chinese smart home devices maker Aqara, which is owned by Xiaomi-backed Lumi United Technology, has raked in an aggregate of 1 billion yuan ($155 million) in its Series C round of financing.
+
+
+***
+![Apple objects to links to outside payments ahead of Epic Games hearing](https://www.reuters.com/resizer/MCghlV-z6GLEsRocik27HrlR2GU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BOVQUYV6YJKOBP3WTTTHX3O4CI.jpg "Apple objects to links to outside payments ahead of Epic Games hearing")
+
+
+[Apple objects to links to outside payments ahead of Epic Games hearing](https://www.reuters.com/technology/apple-objects-links-outside-payments-ahead-epic-games-hearing-2021-10-30/)
+
+
+> 3D printed Lady Justice figure is seen in front of displayed Apple and Epic Games logos in this illustration photo taken February 17, 2021. REUTERS/Dado Ruvic/Illustration/File PhotoOct 29 (Reuters) - Apple Inc (AAPL.O) on Friday outlined its objections to allowing app developers to link to third-party payment options ahead of a hearing next month that could determine whether a set of antitrust court orders is put on pause.After a lengthy trial earlier this year brought by "Fortnite" creator Epic Games, U.
+
+
+***
+[Chinese ride-sharing startup T3 raises a $1.2B Series A led by state-backed conglomerate CITIC Group, as rival Didi faces a regulatory crackdown (Nikkei Asia)](http://www.techmeme.com/211029/p25#a211029p25)
+
+
+> Nikkei Asia: Chinese ride-sharing startup T3 raises a $1.2B Series A led by state-backed conglomerate CITIC Group, as rival Didi faces a regulatory crackdown — 2-year-old startup joins race to snag market share from embattled company — TOKYO/HONG KONG — Chinese ride-hailing company T3 Chuxing …
+
+
+***
+[Microsoft pips Apple to reclaim title of the world's most wealthy company](https://thenewdaily.com.au/life/tech/2021/10/30/microsoft-richer-than-apple/)
+
+
+> Apple Inc has lost its crown as the world's most valuable public company to Microsoft Corp, as the iPhone maker's shares fell about two per cent. Apple took a $US6 … Continued The post Microsoft pips Apple to reclaim title of the world's most wealthy company appeared first on The New Daily.
+
+
