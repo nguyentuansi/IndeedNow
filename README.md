@@ -23801,3 +23801,44 @@
 > As leverage and to increase support for the proposal, Moon is expected to actively pitch South Korea's expanded role and contribution in terms of resolving ongoing technology supply chain issues, during a planned session for discussions on the matter to be chaired by U.S. President Joe Biden, on the sidelines of the G20, according to ruling Democratic Party of Korea (DPK) sources, Sunday."President Moon was stressing South Korea and the United States are aligned in terms of pushing and sharing core strategic initiatives.
 
 
+***
+[Infinix to debut INBook X1 laptop and unveil Note 11 series by December in India](http://www.pinkvilla.com/tech/news/infinix-to-debut-inbook-x1-laptop-and-unveil-note-11-series-by-december-in-india-930541)
+
+
+> Attach Main technology Image: Image Caption: Infinix to debut INBook X1 laptop and unveil Note 11 series by December in India Social Media Image : Enter the Technology details: To add to the Diwali festivities, Infinix, the smartphone brand which is known for offering a plethora of smartphones in India is gearing up to launch its first laptop. According to the official confirmation from the brand, the first laptop will be known as INBook X1. Packed with several FIST (First in Segment Technology) features that have not been offered by any other brand.
+
+
+***
+[I think python should have an inbuilt matrix data structure too](https://www.reddit.com/r/Python/comments/qjo4ci/i_think_python_should_have_an_inbuilt_matrix_data/)
+
+
+> Sure we can make our own matrices using numpy arrays, but I think we should have inbuilt matrix data type.We can stimulate a dictionary, for eg, using a list of lists, but it's different from the inbuilt dictionary in python. The inbuilt dictionary is much faster and uses much less memory.And above all, since its specially designed to be a dict, its functions are specialised and we don't need to create on our own by modifying/combining list functions and packing them all up in a class. And specialisation makes things super efficient.
+
+
+***
+![To Manage Holiday Retail Demand, Start with Warehouse Spatial Intelligence Solutions](https://img.sdcexec.com/files/base/acbm/sdce/image/2021/10/AdobeStock_127004310.615bbf9374f7a.png?auto=format%2Ccompress&fit=max&q=70&w=1200 "To Manage Holiday Retail Demand, Start with Warehouse Spatial Intelligence Solutions")
+
+
+[To Manage Holiday Retail Demand, Start with Warehouse Spatial Intelligence Solutions](https://www.sdcexec.com/warehousing/automation/article/21759384/locix-to-manage-holiday-retail-demand-start-with-warehouse-spatial-intelligence-solutions)
+
+
+> AdobeStock_127004310With the holiday season upon us, the supply chain industry is entering its busiest time of the year. According to Deloitte, holiday retail sales are projected to increase between 7-9% in 2021 with e-commerce sales projected to grow by 11-15% year-over-year. While strong consumer spending is expected during the upcoming holiday season, supply chains globally face significant challenges in meeting consumer expectations of product availability and timely product delivery, including surges of the Delta Variant, labor and space constraints, natural disasters and more.
+
+
+***
+[If you had to pick only one website to scrape?](https://www.reddit.com/r/Python/comments/qjo1gf/if_you_had_to_pick_only_one_website_to_scrape/)
+
+
+> Python can be used for various activities. If you had to pick 1 website to scrape for data, what would it be? and why?
+
+
+***
+![The Dark Web's Largest Illegal Marketplace Has Closed, and Police Have Arrested 150 People. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "The Dark Web's Largest Illegal Marketplace Has Closed, and Police Have Arrested 150 People. » Brinkwire")
+
+
+[The Dark Web's Largest Illegal Marketplace Has Closed, and Police Have Arrested 150 People. » Brinkwire](https://en.brinkwire.com/technology/the-dark-webs-largest-illegal-marketplace-has-closed-and-police-have-arrested-150-people/)
+
+
+> The Dark Web's Largest Illegal Marketplace Has Closed, and Police Have Arrested 150 People. (Picture courtesy of Pexels/Pixabay) internet dark web DarkMarket, the dark web's largest illegal marketplace, has been shut down following a ten-month investigation. It resulted in the arrest of 150 alleged narcotics buyers and sellers. The Illegal Market on the Dark Web DarkMarket was taken down as part of a multinational operation earlier this year. The marketplace had 500,000 members and enabled more than 320,000 transactions, according to Europol, the European Union's law enforcement agency.
+
+
