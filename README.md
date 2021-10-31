@@ -23942,3 +23942,50 @@
 > Hubris might give PC VR fans their graphics fix post-Lone Echo 2. Here's our hands-on!
 
 
+***
+![Roblox down: Gamers relieved as root cause that crashed game IDENTIFIED with hopes it will return online in hours](https://www.the-sun.com/wp-content/uploads/sites/6/2021/10/NINTCHDBPICT000621119172.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Roblox down: Gamers relieved as root cause that crashed game IDENTIFIED with hopes it will return online in hours")
+
+
+[Roblox down: Gamers relieved as root cause that crashed game IDENTIFIED with hopes it will return online in hours](https://www.the-sun.com/tech/3970852/roblox-down-gamers-relieved-cause-identified-return-online/)
+
+
+> ROBLOX engineers have finally discovered the root cause of the gaming platform's massive outage - with hopes it will return online within hours. The online game platform has been down for nearly two days, leaving hundreds of thousands of players unable to connect to their online accounts. The outage has seen the platform's global count shrink by 1million playersCredit: Reuters Roblox is said to have gone down on Friday, according to complaints on Twitter. Data published by outage tracker Downdetector shows that problems first occurred around midnight UK time, with a further spike of reported problems at around 8am yesterday morning.
+
+
+***
+[Automating Birthday wishes on Facebook using Python](https://www.reddit.com/r/Python/comments/qjuyza/automating_birthday_wishes_on_facebook_using/)
+
+
+> Here's my post on automating birthday wishes on Facebook, feel free to leave feedback in the comment section.https://www.reddit.com/user/ShayonDebRoy/comments/qjuqrb/facebook_birthday_wish_automation_demo/?utm_source=share&utm_medium=web2x&context=3
+
+
+***
+![Does upgrading to a new iPhone every 2 years still make sense? I don't think so](https://www.cnet.com/a/img/zYNLE9h3mDy1OmJNrSpIXb-rtKw=/0x0:1493x1333/1200x630/center/top/2021/09/22/1f57a663-935a-4662-b8d6-ee9ccaf0743a/iphone-13-pro-max-cnet-2021-review-42.jpg "Does upgrading to a new iPhone every 2 years still make sense? I don't think so")
+
+
+[Does upgrading to a new iPhone every 2 years still make sense? I don't think so](https://www.cnet.com/tech/mobile/does-upgrading-to-a-new-iphone-every-2-years-still-make-sense-i-dont-think-so/)
+
+
+> The iPhone 13 Pro Max Patrick Holland/CNET We all know the drill. AsApple's annual fall event draws close, many of us start to check in on our previous two-year smartphone plan to see if we're eligible for an upgrade in September. After all, the newest phone is only the newest phone for so long. Even for discerning shoppers like me, it takes serious willpower to resist the lure of a purple iPhone or 1TB of storage.
+
+
+***
+![Every single spooky-yet-sweet 'Bob's Burgers' Halloween episode, ranked](https://helios-i.mashable.com/imagery/articles/07JpFjuqd9iPyiKBWgnRShj/hero-image.fill.size_1200x675.v1635702906.png "Every single spooky-yet-sweet 'Bob's Burgers' Halloween episode, ranked")
+
+
+[Every single spooky-yet-sweet 'Bob's Burgers' Halloween episode, ranked](https://mashable.com/article/bobs-burgers-halloween-episodes-ranked)
+
+
+> Halloween 2021 has been a spooky season of uncertainty, with COVID-19 keeping celebrations small and manufacturing shortages making costumes hard to come by. So thank the Belchers for delivering the ghoulish goods with a brand new holiday-themed episode you're sure to love.This year, Linda and Gayle take on a pumpkin-smasher whodunnit. But there's no reason you shouldn't revisit all the Bob's Burgers Halloween episodes before diving in. You know, just so you have the appropriate context needed for the investigation.
+
+
+***
+![NSO Group Announces New Leadership Structure](http://www.businesswire.com/images/bwlogo_square.png "NSO Group Announces New Leadership Structure")
+
+
+[NSO Group Announces New Leadership Structure](https://www.businesswire.com/news/home/20211031005024/en/NSO-Group-Announces-New-Leadership-Structure)
+
+
+> October 31, 2021 01:54 PM Eastern Daylight Time TEL AVIV, Israel--(BUSINESS WIRE)--Shalev Hulio, the Founder and CEO of NSO Group, announced today he will assume a new role in NSO's leadership, as a Vice Chairman of the Board and as the Global President. This announcement follows Hulio's announcement from February that he will continue taking part of NSO's leadership, focusing on strategic global issues and partnerships, and deepening investments and opportunities for scaling. Isaac (Itzik) Benbenisti, the current co-President, will be appointed to the role of the CEO, reporting to the Board of Directors.
+
+
