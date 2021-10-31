@@ -23657,3 +23657,50 @@
 > [WATCH] A Video of the MacBook Pro Notch Reveals Surprising Information About Status Bar Items Early anomalies have been discovered in Apple's updated MacBook Pro, particularly in the company's handling of the notch for different apps. The status bar items exhibit odd behavior during the process, according to the report. A video depicts the MacBook Pro's notch issue. According to The Verge, a recent video showed the enlarged menu bar elements surrounding the notch. Quinn Nelson of Snazzy Labs questioned the design of the Apple MacBook Pro and the underlying concerns in a series of tweets.
 
 
+***
+![A command-line tool to download and package novels from multiple sources](https://external-preview.redd.it/i6QQN7Q5H4rly3v6yZlT3sD--p42BrZ34ne8W5LE66Y.jpg?auto=webp&s=bcdad4acbad225dc09f4c7c05872e604bcc6be79 "A command-line tool to download and package novels from multiple sources")
+
+
+[A command-line tool to download and package novels from multiple sources](https://www.reddit.com/r/Python/comments/qjjed8/a_commandline_tool_to_download_and_package_novels/)
+
+
+> Hey everyone 👋 , I first shared this project around an year ago. This has come a long way since then, including multiple overhauls.Example usageThe current features include:Downloading from multiple sourcesUsing browser cookies during requestsPackaging to multiple formats including epub and mobiAuto check for updates to this application and its sourcesWhy it might be worth taking a look at:Migration controlled database schema: The project uses sqlalchemy along with alembic to create a migration based process to control the database schema.
+
+
+***
+[Apple's $19 Polishing Cloth has become its most back-ordered new product with shipments delayed until January; source: the company isn't surprised by the demand (Daisuke Wakabayashi/New York Times)](http://www.techmeme.com/211031/p2#a211031p2)
+
+
+> Daisuke Wakabayashi / New York Times: Apple's $19 Polishing Cloth has become its most back-ordered new product with shipments delayed until January; source: the company isn't surprised by the demand — It's a $19 cloth. — OAKLAND, Calif — Apple this month unveiled an array of new gadgets: more powerful MacBook laptop computers …
+
+
+***
+![Oculus Confirms Project Cambria VR Headset](https://external-preview.redd.it/cC7RYzbB_n0GcI2my5zfEQj0S9ONh44Fe7LdMmu6Z-0.jpg?auto=webp&s=ea0f131f8f13ac0e39f316c06f35af7ae0ab812c "Oculus Confirms Project Cambria VR Headset")
+
+
+[Oculus Confirms Project Cambria VR Headset](https://www.reddit.com/r/technology/comments/qjjbts/oculus_confirms_project_cambria_vr_headset/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![a new way to do documentation](https://external-preview.redd.it/3j7MM2nwaody7Jy7WLBSMwnU4VOk12FmXwelRi8lGnc.jpg?auto=webp&s=0844961c36f1dee831e6dc0572919691aa1abbf8 "a new way to do documentation")
+
+
+[a new way to do documentation](https://www.reddit.com/r/Python/comments/qjj42s/a_new_way_to_do_documentation/)
+
+
+> hey fellow pythoners!Document.wiki is a new way to do your documentation for your projects. As a developer, I've always been frustrated with the challenges that come with creating and maintaining documentation. It's a time consuming task, and usually a big challenge to keep up to date.Currently looking for Python users for beta-testing. Signup at: https://document.wiki/Developed in Python :)
+
+
+***
+![MacBook Pro 2021 review: Nearly perfect back-to-the-future laptops](https://images.livemint.com/img/2021/10/31/600x338/US-ECONOMY-TECHNOLOGY-APPLE-1_1635658469196_1635658487040.jpg "MacBook Pro 2021 review: Nearly perfect back-to-the-future laptops")
+
+
+[MacBook Pro 2021 review: Nearly perfect back-to-the-future laptops](https://www.livemint.com/technology/gadgets/macbook-pro-2021-review-nearly-perfect-back-to-the-future-laptops-11635658359145.html)
+
+
+> Confucius might well have been referring to the 2021 14- and 16-inch MacBook Pro laptops—and the secret behind why they're so wonderful. These laptops are studies of the past, restoring many features Apple confidently told us belonged in history books: Full-size ports! A MagSafe charger! Function keys! Everything but the floppy drive has been resurrected. 'We're constantly listening to our customers and with this new lineup of MacBook Pros we decided to make some changes as we do a lot on the Mac," Tom Boger, Apple's Vice President of Mac and iPad Product Marketing, told me.
+
+
