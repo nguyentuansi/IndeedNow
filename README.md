@@ -23704,3 +23704,50 @@
 > Confucius might well have been referring to the 2021 14- and 16-inch MacBook Pro laptops—and the secret behind why they're so wonderful. These laptops are studies of the past, restoring many features Apple confidently told us belonged in history books: Full-size ports! A MagSafe charger! Function keys! Everything but the floppy drive has been resurrected. 'We're constantly listening to our customers and with this new lineup of MacBook Pros we decided to make some changes as we do a lot on the Mac," Tom Boger, Apple's Vice President of Mac and iPad Product Marketing, told me.
 
 
+***
+![Apple's augmented reality glasses might project images 'into your eyeballs.' » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/comps-dd-appleglass.jpg "Apple's augmented reality glasses might project images 'into your eyeballs.' » Brinkwire")
+
+
+[Apple's augmented reality glasses might project images 'into your eyeballs.' » Brinkwire](https://en.brinkwire.com/technology/apples-augmented-reality-glasses-might-project-images-into-your-eyeballs/)
+
+
+> Apple's augmented reality glasses might project images ‘into your eyeballs.' APPLE is developing augmented reality glasses that can 'beam' images into your eyes. According to a recent patent application filed by the corporation, this is the case. According to AppleInsider, the application form said that Apple was investigating a 'Direct retinal projector.' That means it may not be necessary to wear glasses with lenses. Instead, mirrors might be utilized to project content directly into your eyes.
+
+
+***
+![7 ways in which you can take pro level Diwali photos with Hasselblad Pro mode on OnePlus 9 Pro](https://images.indianexpress.com/2021/10/OnePlus-9-pro-White.jpg "7 ways in which you can take pro level Diwali photos with Hasselblad Pro mode on OnePlus 9 Pro")
+
+
+[7 ways in which you can take pro level Diwali photos with Hasselblad Pro mode on OnePlus 9 Pro](https://indianexpress.com/article/technology/mobile-tabs/7-ways-in-which-you-can-take-pro-level-diwali-photos-with-hasselblad-pro-mode-on-oneplus-9-pro-7600128/)
+
+
+> Diwali is just around the corner and the festival of lights is the perfect setup for beautiful photographs. The lights, the lamps and decorations can make even the most uninterested people, stand, stare and snap. And while many smartphones are capable of taking pictures, pro level photographs can only be taken with pro level hardware and software, both of which one brand is an expert in offering. Along with high-grade sensors and mega-megapixels, this never settling brand always tries to add some edge to your photography and has taken smartphone photography to a new level altogether this year.
+
+
+***
+![I built a game that will test your memory power.](https://external-preview.redd.it/7Gf3fvwCbjGNMlKHhGMywJOh8S-ue0EBcvnOEqxP_VI.jpg?auto=webp&s=d0b7c7b91256382b058fde2b5eef3a0366802f50 "I built a game that will test your memory power.")
+
+
+[I built a game that will test your memory power.](https://www.reddit.com/r/Python/comments/qjkq7m/i_built_a_game_that_will_test_your_memory_power/)
+
+
+> Hey all coders, let's test your memory power. I am Shreejan Dolai from India and I have built a simple python game named JACKPOT. In this game, there are three levels - Easy, intermediate, and impossible. Choose your level. Then the computer will say you the instructions and will say a few words. In the easy level, it will say 5 words, in the intermediate level it will say 10 words and in the impossible level, it will say 15 words. Your task is to tell those words in a reverse manner. Can you do it?https://github.
+
+
+***
+[Samsung's One UI design will be available on Windows laptops](http://www.pinkvilla.com/tech/news/samsung-s-one-ui-design-will-be-available-on-windows-laptops-930325)
+
+
+> Attach Main technology Image: Image Caption: Samsung's One UI design will be available on Windows laptops Social Media Image : Enter the Technology details: PC manufacturers, unlike most Android OEMs, are unable to significantly alter the look and feel of the factory-installed Windows instance. It's the main reason why popular custom Android skins like Xiaomi's MIUI and OPPO's ColorOS don't have a full-fledged PC counterpart. Samsung is planning to introduce the One UI 4 interface design to its Galaxy Book series of Windows laptops, which could change things – at least to some extent.
+
+
+***
+![Last chance to grab these awesome deals on phones, TVs, and more from Samsung](https://cdn.mos.cms.futurecdn.net/2rZ6aHJ47xTjzV4iqHoEjY-1200-80.jpg "Last chance to grab these awesome deals on phones, TVs, and more from Samsung")
+
+
+[Last chance to grab these awesome deals on phones, TVs, and more from Samsung](https://global.techradar.com/en-ae/deals/last-chance-to-grab-these-awesome-deals-on-phones-tvs-and-more-from-samsung)
+
+
+> (Image credit: Samsung) If you're in the market for a new phone, TV, or even a fancy washing machine, here's your last chance to grab some great deals from Samsung.The company has been running a week of deals directly on its website, and today's the last chance to grab massive savings on smartphones, home appliances, TVs, and a much more. There's a number of items that have already run out of stock, so make sure you check out our picks from the list below and hurry over to grab what you want.Get the best deals on Amazon UAE this weekBest deals from Samsung Week75" AU7000 UHD 4K Smart TV: AED 5,499 AED 5,099 - Save AED 40065" QN800A Neo QLED 8K Smart TV: AED 14,999 AED 11,999 - Save AED 300075″ QN90A Neo QLED 4K Smart TV: AED 18,499 AED 16,499 - Save AED 2,00055″ QN85A Neo QLED 4K Smart TV: AED 7,499 AED 4,999 - Save AED 2,50050" The Frame Art Mode 4K Smart TV: AED 4,999 AED 3,999 - Save AED 1,000Galaxy S20 FE (4G) 128GB: AED 2,499 AED 1,799 - Save AED 700Galaxy Note20 256GB: AED 3,549 AED 2,599 - Save AED 950Galaxy Buds Pro: AED 734 AED 409 - Save AED 325Galaxy Watch3: AED 1,599 AED 1,049 - Save AED 550WW90T554DAN Washer with AI Control, 9KG: AED 2,673 AED 2,272 - Save AED 401Jet 90 Complete Vacuum Cleaner: AED 2,699 AED 2,294 - Save AED 405AirDresser: AED 6,298 AED 5,354 - Save AED 94549" Curved Monitor with metal Quantum Dot technology: AED 3,969 AED 3,669 - Save AED 300Check out the full list of deals here - valid until November 1st.
+
+
