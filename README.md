@@ -23519,3 +23519,53 @@
 > I got a 16 inch M1 MAX with 64GB of RAM. Been doing some editing in Premier Pro and notice that when I pause and play the playback, often times there will be a delay in playback or when pausing, the video will stop but the audio will continue playing for a few seconds advancing the playhead further than where I wanted it to be. Don't recall this happening on my Intel Mac, but it had been a while since I edited video as I've been busy at my day job. Wondering if Premier Pro is truly optimized for the M1 Max.
 
 
+***
+![Hertz will make 50,000 Tesla EVs available for Uber drivers to rent. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/daily-life-in-new-york-city-amid-coronavirus-outbreak.jpg "Hertz will make 50,000 Tesla EVs available for Uber drivers to rent. » Brinkwire")
+
+
+[Hertz will make 50,000 Tesla EVs available for Uber drivers to rent. » Brinkwire](https://en.brinkwire.com/technology/hertz-will-make-50000-tesla-evs-available-for-uber-drivers-to-rent/)
+
+
+> Hertz will make 50,000 Tesla EVs available for Uber drivers to rent. Hertz, a car rental company, is expanding its electric vehicle service for drivers once again, this time in partnership with Uber. According to the most recent news, the latter announced an agreement for 50,000 Tesla electric automobiles to be available. Hertz has placed an order for Tesla electric vehicles. According to a story published by Bloomberg earlier this week, Hertz has already confirmed that it will place an order with Tesla for 100,000 Model 3 vehicles.
+
+
+***
+![Hertz will make 50,000 Tesla EVs available for Uber drivers to rent.](https://en.brinkwire.com/nerede/uploads/2021/10/daily-life-in-new-york-city-amid-coronavirus-outbreak.jpg "Hertz will make 50,000 Tesla EVs available for Uber drivers to rent.")
+
+
+[Hertz will make 50,000 Tesla EVs available for Uber drivers to rent.](https://en.brinkwire.com/technology/hertz-will-make-50000-tesla-evs-available-for-uber-drivers-to-rent/)
+
+
+> Hertz will make 50,000 Tesla EVs available for Uber drivers to rent. Hertz, a car rental company, is expanding its electric vehicle service for drivers once again, this time in partnership with Uber. According to the most recent news, the latter announced an agreement for 50,000 Tesla electric automobiles to be available. Hertz has placed an order for Tesla electric vehicles. According to a story published by Bloomberg earlier this week, Hertz has already confirmed that it will place an order with Tesla for 100,000 Model 3 vehicles.
+
+
+***
+![Samsung Galaxy S21 FE Makes an Unexpected Appearance on the Support Pages of the Company! New evidence points to the release of a smartphone.](https://en.brinkwire.com/nerede/uploads/2021/10/samsung-galaxy-s21-fe-silently-appears-on-companys-support-pages-new-proof-suggests-smartphones-release.jpg "Samsung Galaxy S21 FE Makes an Unexpected Appearance on the Support Pages of the Company! New evidence points to the release of a smartphone.")
+
+
+[Samsung Galaxy S21 FE Makes an Unexpected Appearance on the Support Pages of the Company! New evidence points to the release of a smartphone.](https://en.brinkwire.com/technology/samsung-galaxy-s21-fe-makes-an-unexpected-appearance-on-the-support-pages-of-the-company-new-evidence-points-to-the-release-of-a-smartphone/)
+
+
+> Samsung Galaxy S21 FE Makes an Unexpected Appearance on the Support Pages of the Company! New evidence points to the release of a smartphone. The Samsung Galaxy S21 FE is still on backorder. However, additional information has led some leakers to believe that the anticipated item would be released soon. This new device from Apple's biggest rival was already leaked a few weeks ago. According to current rumors, the next device could be available as early as 2022. According to the majority of trustworthy leakers, the next Samsung Galaxy S21 FE could be released on January 11, 2022.
+
+
+***
+![Learn how to set up a PHP Slim project with views and routes](https://external-preview.redd.it/or0j7dWG7yDOwr9DB_QMUuAeU1XSvN0VPU4c5u2i_R8.jpg?auto=webp&s=a801c32bc46d4971fa15b4aea79f17b5d31a45ea "Learn how to set up a PHP Slim project with views and routes")
+
+
+[Learn how to set up a PHP Slim project with views and routes](https://www.reddit.com/r/programming/comments/qjdto1/learn_how_to_set_up_a_php_slim_project_with_views/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![HTC Vive Flow: How The VR Headset Works & What You Need To Get Started](https://static3.srcdn.com/wordpress/wp-content/uploads/2021/10/VIVE-Flow-HTC.jpeg "HTC Vive Flow: How The VR Headset Works & What You Need To Get Started")
+
+
+[HTC Vive Flow: How The VR Headset Works & What You Need To Get Started](https://screenrant.com/htc-vive-flow-vr-headset-how-works/)
+
+
+> Vive Flow is the latest VR headset from HTC Corporation, and it's a deviation from its other products, not only in its design but in how it works. The HTC Corporation has been making VR headsets since 2015 through its VR arm, HTC Vive. Although VR technology has existed for years, the adoption rate is still low compared to other technology such as smartphones. There are not a lot of players in the industry, and some have even exited or shut down their VR ambitions, such as Google and Samsung. The cost of adoption is also still high for many people, even in cases where the launch price has been lowered.
+
+
