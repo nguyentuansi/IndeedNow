@@ -23989,3 +23989,53 @@
 > October 31, 2021 01:54 PM Eastern Daylight Time TEL AVIV, Israel--(BUSINESS WIRE)--Shalev Hulio, the Founder and CEO of NSO Group, announced today he will assume a new role in NSO's leadership, as a Vice Chairman of the Board and as the Global President. This announcement follows Hulio's announcement from February that he will continue taking part of NSO's leadership, focusing on strategic global issues and partnerships, and deepening investments and opportunities for scaling. Isaac (Itzik) Benbenisti, the current co-President, will be appointed to the role of the CEO, reporting to the Board of Directors.
 
 
+***
+![LG Smart TVs Kill 'Soap Opera Effect' Automatically For Prime Video](https://static0.srcdn.com/wordpress/wp-content/uploads/2021/04/LG-8K-TV.jpg "LG Smart TVs Kill 'Soap Opera Effect' Automatically For Prime Video")
+
+
+[LG Smart TVs Kill 'Soap Opera Effect' Automatically For Prime Video](https://screenrant.com/lg-smart-tv-filmmaker-mode-prime-video/)
+
+
+> LG is introducing a new Filmmaker Mode on its latest TVs that dynamically changes the frame rate, colors and more in the Prime Video app. This week, LG is rolling out a firmware update to its LG 2020 and 2021 televisions that will dynamically switch the frame rate of movies and TV shows played through the Amazon Prime Video app. Most modern TVs come with an option that lets users automatically upsample films and TV content to either 60fps or 120fps for a smoother experience called motion smoothing.
+
+
+***
+![Mission Multi-cloud: How enterprises are becoming cloud-smart](https://images.financialexpress.com/2021/10/1-628.jpg "Mission Multi-cloud: How enterprises are becoming cloud-smart")
+
+
+[Mission Multi-cloud: How enterprises are becoming cloud-smart](https://www.financialexpress.com/industry/technology/mission-multi-cloud-how-enterprises-are-becoming-cloud-smart/2359814/)
+
+
+> Organisations such as Polycab acknowledge the reality of a cloud-first world. 'Only cloud offers a viable business model to consume IT as a ‘pay-per-use' service', says Vivek Khanna, executive president & CIO, Polycab India.In the digital economy, a move to the cloud has become a business prerequisite. More so, in the wake of the pandemic. Says Sanchit Vir Gogia, chief analyst, founder & CEO, Greyhound Research, 'The pandemic has forced organisations to leapfrog to a digital business model almost overnight.
+
+
+***
+![Super unleaded gasoline could be 'much better' for vehicles than the new E10 gasoline. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/e10-fuel-changes-petrol-update-1512641.jpg "Super unleaded gasoline could be 'much better' for vehicles than the new E10 gasoline. » Brinkwire")
+
+
+[Super unleaded gasoline could be 'much better' for vehicles than the new E10 gasoline. » Brinkwire](https://en.brinkwire.com/technology/super-unleaded-gasoline-could-be-much-better-for-vehicles-than-the-new-e10-gasoline/)
+
+
+> Super unleaded gasoline could be ‘much better' for vehicles than the new E10 gasoline. According to auto sales specialists, E10 FUEL may not be as healthy for vehicles as higher octane gasoline sold under the Super Unleaded name. With higher octane gasoline, David Bilsborough, Business Director at Cheshire Cars in Crewe, says his car runs 'a lot smoother.' He claims that 99 Super Unleaded fuel 'performs better' in his vehicle and encourages people to test it. Mr Bilsborough stated that his 'first views' were that 99 fuel was 'much better' than the new compound for his vehicle.
+
+
+***
+![Amazon Fire TV Stick 4K Max: Breathe new life into your old TV](https://images.financialexpress.com/2021/10/1-627.jpg "Amazon Fire TV Stick 4K Max: Breathe new life into your old TV")
+
+
+[Amazon Fire TV Stick 4K Max: Breathe new life into your old TV](https://www.financialexpress.com/industry/technology/amazon-fire-tv-stick-4k-max-breathe-new-life-into-your-old-tv/2359811/)
+
+
+> By: Sudhir Chowdhary | November 01, 2021 1:15 AMFor the not-so-tech-savvy, Wi-Fi 6 is capable of higher speeds and better performance than the Wi-Fi 5 we use today. Let me point out that in order to use Wi-Fi 6, you'll need a Wi-Fi 6-compatible router, but Fire TV Stick 4K Max is also compatible with existing Wi-Fi routers.Smart TVS, many of which come with Alexa built-in, have become a favourite entertainment device for Indian households. A smart TV uses your Internet-powered home network to provide streaming video and services on your TV.
+
+
+***
+![Pyshell, A Linux Subprocess Module](https://external-preview.redd.it/T2rmmm6uGGFR07eGmZP4JkcCUfrChG8GRqrh-s51EPs.jpg?auto=webp&s=a53bde5e177f63ff4603a6d67be185440c678d00 "Pyshell, A Linux Subprocess Module")
+
+
+[Pyshell, A Linux Subprocess Module](https://www.reddit.com/r/Python/comments/qjwzz5/pyshell_a_linux_subprocess_module/)
+
+
+> pyshellA Linux subprocess module, An easier way to interact with the Linux shellpyshell should be cross platform but has only been tested with linuxI've been working on a project aimed at making python scripting a little easier for sys admins. It's called pyshell, and has only been tested on linux. It should work on other OS's though. It is basically a replacement for subprocess run. It uses a modified version of it for some changes I thought were needed. Check out the Source and then the Documentation on how to use it.
+
+
