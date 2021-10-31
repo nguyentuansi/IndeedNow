@@ -23569,3 +23569,44 @@
 > Vive Flow is the latest VR headset from HTC Corporation, and it's a deviation from its other products, not only in its design but in how it works. The HTC Corporation has been making VR headsets since 2015 through its VR arm, HTC Vive. Although VR technology has existed for years, the adoption rate is still low compared to other technology such as smartphones. There are not a lot of players in the industry, and some have even exited or shut down their VR ambitions, such as Google and Samsung. The cost of adoption is also still high for many people, even in cases where the launch price has been lowered.
 
 
+***
+![Nobody Can See Into Facebook: Imagine if automakers were the only ones who could test their cars—and they kept the results secret](https://external-preview.redd.it/Oi_UuDtMDFHq5UIOtxjICjddwJ5PqsD8wIxBrG9x1i0.jpg?auto=webp&s=4ff02e2ed368c61ddadb8b764d78fe84ddd9e936 "Nobody Can See Into Facebook: Imagine if automakers were the only ones who could test their cars—and they kept the results secret")
+
+
+[Nobody Can See Into Facebook: Imagine if automakers were the only ones who could test their cars—and they kept the results secret](https://www.reddit.com/r/technology/comments/qjfpzf/nobody_can_see_into_facebook_imagine_if/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[Prolegomenon to The Anthropology of Science](https://www.reddit.com/r/programming/comments/qjfhi4/prolegomenon_to_the_anthropology_of_science/)
+
+
+> Prolegomenon to The Anthropology of Sciencehttp://gamahucherpress.yellowgum.com/wp-content/uploads/The-Anthropology-of-science.pdforhttps://www.scribd.com/document/512683685/Prolegomenon-to-The-Anthropology-of-ScienceWhether one looks at archaic monkey-man or modern monkey-man the anthologist sees the same phenomena/archetype
+
+
+***
+[Help_Python](https://www.reddit.com/r/Python/comments/qjffqe/help_python/)
+
+
+> Hello guys I hope you are fine 😊 So after you, am just Beginning to learn Python programming but i'm hesitate, Python have a good future or not ??!! I want to learn Python and exactly machine learning subject, Web developer Please if you have any advices let me know because am bored to learn and forget what i was learning.
+
+
+***
+![USF invention addresses worldwide mask shortage and pollution concerns](https://external-preview.redd.it/mCRN-aE-1RGDlRPL1WoMGZ986YpW0SelhD-J9mZFrpc.jpg?auto=webp&s=c2c1adf2d6d36ffe8a3a5825f2513cc1298ab5cf "USF invention addresses worldwide mask shortage and pollution concerns")
+
+
+[USF invention addresses worldwide mask shortage and pollution concerns](https://www.reddit.com/r/technology/comments/qjfd2s/usf_invention_addresses_worldwide_mask_shortage/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[In 2018, Oculus' Jason Rubin sent a paper to Facebook execs laying the foundation for Meta's ambitions and detailing the need to own the VR market (Salvador Rodriguez/CNBC)](http://www.techmeme.com/211030/p10#a211030p10)
+
+
+> Salvador Rodriguez / CNBC: In 2018, Oculus' Jason Rubin sent a paper to Facebook execs laying the foundation for Meta's ambitions and detailing the need to own the VR market — - In 2018, an Oculus executive named Jason Rubin wrote a 50-page document headlined “The Metaverse” that he sent to a Facebook board member and some top execs.
+
+
