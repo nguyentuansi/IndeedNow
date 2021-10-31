@@ -23610,3 +23610,50 @@
 > Salvador Rodriguez / CNBC: In 2018, Oculus' Jason Rubin sent a paper to Facebook execs laying the foundation for Meta's ambitions and detailing the need to own the VR market — - In 2018, an Oculus executive named Jason Rubin wrote a 50-page document headlined “The Metaverse” that he sent to a Facebook board member and some top execs.
 
 
+***
+![Tech Q&A: How to stop Edge web browser promotions in Windows 10](https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg "Tech Q&A: How to stop Edge web browser promotions in Windows 10")
+
+
+[Tech Q&A: How to stop Edge web browser promotions in Windows 10](https://www.unionleader.com/nh/lifestyles/tech-q-a-how-to-stop-edge-web-browser-promotions-in-windows-10/article_be34aab5-cb8a-5d08-b0e8-173fbafefe9e.html)
+
+
+> Contact Steve Alexander at steve.j.alexander@gmail.com. Please include a full name, city and phone number.
+
+
+***
+![E10 fuel has drivers "disappointed and outraged," as the new gasoline "doesn't last as long." » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/drivers-angry-e10-fuel-changes-petrol-diesel-1512431.jpg "E10 fuel has drivers "disappointed and outraged," as the new gasoline "doesn't last as long." » Brinkwire")
+
+
+[E10 fuel has drivers "disappointed and outraged," as the new gasoline "doesn't last as long." » Brinkwire](https://en.brinkwire.com/technology/e10-fuel-has-drivers-disappointed-and-outraged-as-the-new-gasoline-doesnt-last-as-long/)
+
+
+> E10 fuel has drivers 'disappointed and outraged,' as the new gasoline 'doesn't last as long.' DRIVERS have expressed their dissatisfaction with E10 gasoline's fuel efficiency difficulties, calling it 'disappointing and furious.' Drivers have continued to be hampered by E10 fuel modifications, with some motorists reporting fuel efficiency concerns when using the new gasoline. It was first introduced in September, with the government claiming that it would have a minor impact on fuel economy — roughly 1%.
+
+
+***
+![After a Budget omission, car tax rates for gasoline and diesel vehicles "will have to adjust in the future." » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/rishi-sunak-car-tax-changes-updates-uk-1512468.jpg "After a Budget omission, car tax rates for gasoline and diesel vehicles "will have to adjust in the future." » Brinkwire")
+
+
+[After a Budget omission, car tax rates for gasoline and diesel vehicles "will have to adjust in the future." » Brinkwire](https://en.brinkwire.com/technology/after-a-budget-omission-car-tax-rates-for-gasoline-and-diesel-vehicles-will-have-to-adjust-in-the-future/)
+
+
+> After a Budget omission, car tax rates for gasoline and diesel vehicles 'will have to adjust in the future.' After Chancellor Rishi Sunak failed to revise Vehicle Excise Duty rates in his Autumn Budget, petrol and diesel car tax rates 'will have to change in the future.' WhatCar? Editor Steve Huntingford believes the government will need to 'address' tax rates that will affect petrol and diesel drivers soon. He claimed that the Treasury was facing a 'growing hole in its budget' as more people choose to drive electric cars, which are still exempt from taxes.
+
+
+***
+[Decoding NFTs: What are NFTs and How do they Work, All you need to Know](http://www.pinkvilla.com/tech/news/decoding-nfts-what-are-nfts-and-how-do-they-work-all-you-need-to-know-930245)
+
+
+> Attach Main technology Image: Image Caption: An algorithmically-generated cartoon image of an ape, number 5809 in a set of 10,000 collectible non-fungible tokens (NFTs) called the Bored Ape Yacht Club, made by the U.S.-based company Yuga Labs, in this digital image, 2021. Social Media Image : Enter the Technology details: Non-fungible tokens, or NFTs as they are more colloquially known, have taken the art world by storm. The very first NFT project was launched on the Ethereum blockchain in 2015, and interest grew in tandem with the rise in interest in cryptocurrency.
+
+
+***
+![[WATCH] A Video of the MacBook Pro Notch Reveals Surprising Information About Status Bar Items » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/look-macbook-pro-notch-video-shows-surprising-information-about-status-bar-items.jpg "[WATCH] A Video of the MacBook Pro Notch Reveals Surprising Information About Status Bar Items » Brinkwire")
+
+
+[[WATCH] A Video of the MacBook Pro Notch Reveals Surprising Information About Status Bar Items » Brinkwire](https://en.brinkwire.com/technology/watch-a-video-of-the-macbook-pro-notch-reveals-surprising-information-about-status-bar-items/)
+
+
+> [WATCH] A Video of the MacBook Pro Notch Reveals Surprising Information About Status Bar Items Early anomalies have been discovered in Apple's updated MacBook Pro, particularly in the company's handling of the notch for different apps. The status bar items exhibit odd behavior during the process, according to the report. A video depicts the MacBook Pro's notch issue. According to The Verge, a recent video showed the enlarged menu bar elements surrounding the notch. Quinn Nelson of Snazzy Labs questioned the design of the Apple MacBook Pro and the underlying concerns in a series of tweets.
+
+
