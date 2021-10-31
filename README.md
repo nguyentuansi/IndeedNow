@@ -23842,3 +23842,53 @@
 > The Dark Web's Largest Illegal Marketplace Has Closed, and Police Have Arrested 150 People. (Picture courtesy of Pexels/Pixabay) internet dark web DarkMarket, the dark web's largest illegal marketplace, has been shut down following a ten-month investigation. It resulted in the arrest of 150 alleged narcotics buyers and sellers. The Illegal Market on the Dark Web DarkMarket was taken down as part of a multinational operation earlier this year. The marketplace had 500,000 members and enabled more than 320,000 transactions, according to Europol, the European Union's law enforcement agency.
 
 
+***
+![Fintech And The End Of Money](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617e9f656983068787ec75db%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2830%26cropY1%3D4%26cropY2%3D1595 "Fintech And The End Of Money")
+
+
+[Fintech And The End Of Money](https://www.forbes.com/sites/davidbirch/2021/10/31/fintech-and-the-end-of-money/)
+
+
+> Noted Fintech investor Matt Harris, a partner at Bain Capital Ventures BCSF , recently predicted here in Forbes that fintech would mean the end of money as we know it. He wrote that rather than money as we know it, in the future "our assets will be 100% invested at all times". In this vision of the future of money, transactions will be settled through the transfer of baskets of assets between counterparties without the intermediary of money. In an always-online world, what is the point of paying fees to sell assets, buy currency and then transfer currency to someone who is going to sell it to buy other assets? In a time before networks, when strangers came to do business, they preferred to trust cold hard cash rather than each other.
+
+
+***
+![Target's early holiday sales are live, but better offers start later this week](https://www.cnet.com/a/img/q0JcWdheVakfdXT_A2IQqAIPLss=/1200x630/2020/06/29/5805dcb8-f527-470e-9e1f-6a58972ffeaf/target-logo-laptop-3476.jpg "Target's early holiday sales are live, but better offers start later this week")
+
+
+[Target's early holiday sales are live, but better offers start later this week](https://www.cnet.com/tech/home-entertainment/targets-early-holiday-sales-are-live-but-better-offers-start-later-this-week/)
+
+
+> Target is getting a jump on its competitors with a first round of "Holiday best deals" kicking off as of Sunday, October 31. We're not seeing a ton of great offers so far, but we've pulled together a handful of good picks below. Target has its work cut out for it because rivals like Walmart have early Black Friday sales starting as soon as Wednesday. For its part, Walmart has done a better job of flagging which deals are available by detailing the upcoming sales on its website.Here's how Target is scheduling its sales this year:Oct.
+
+
+***
+![SectorLISP Now Fits in One Sector](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "SectorLISP Now Fits in One Sector")
+
+
+[SectorLISP Now Fits in One Sector](https://www.reddit.com/r/programming/comments/qjppj0/sectorlisp_now_fits_in_one_sector/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![One autonomous taxi, please](https://external-preview.redd.it/MjfNB-l3gci_qviLkvjaMDnpbLmn_9STGs6-QeFHUuk.jpg?auto=webp&s=af9fd11726dd4d157b15ffddd00ed1ff995dc4a0 "One autonomous taxi, please")
+
+
+[One autonomous taxi, please](https://www.reddit.com/r/technology/comments/qjpp9w/one_autonomous_taxi_please/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![How much sleep do you need? A neuroscientist crunches the numbers](https://cdn.mos.cms.futurecdn.net/cKEWPUFRaaUKecS4dDVQC-1200-80.jpg "How much sleep do you need? A neuroscientist crunches the numbers")
+
+
+[How much sleep do you need? A neuroscientist crunches the numbers](https://www.techradar.com/news/how-much-sleep-do-you-need)
+
+
+> How much sleep is enough? You might have heard the old adage about eight hours of shut-eye being the optimal amount, but in reality your needs will vary throughout your lifetime. When it comes to snoozing, your age, health and even your work can each have an impact on how many hours of sleep you should aim for each night.To help break this down, we've analysed research and sought expert advice from Dr Lindsay Browning, a chartered psychologist, neuroscientist, author and sleep expert. Read on for the definitive guide to how much sleep you need, and how to help yourself get those restorative hours in bed.
+
+
