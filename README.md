@@ -24039,3 +24039,53 @@
 > pyshellA Linux subprocess module, An easier way to interact with the Linux shellpyshell should be cross platform but has only been tested with linuxI've been working on a project aimed at making python scripting a little easier for sys admins. It's called pyshell, and has only been tested on linux. It should work on other OS's though. It is basically a replacement for subprocess run. It uses a modified version of it for some changes I thought were needed. Check out the Source and then the Documentation on how to use it.
 
 
+***
+![Xiaomi Mi 11 Ultra won't be available in India again after stock runs out](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/05/xiaomi-mi-11-ultra-19.jpg "Xiaomi Mi 11 Ultra won't be available in India again after stock runs out")
+
+
+[Xiaomi Mi 11 Ultra won't be available in India again after stock runs out](https://www.androidcentral.com/xiaomi-mi-11-ultra-discontinued-india)
+
+
+> Source: Apoorva Bhardwaj / Android Central The Xiaomi Mi 11 Ultra has been discontinued in India following a delayed release. Xiaomi is apparently no longer restocking the phone in the country after its inventory has run out. The next flagship phone to be sold in the country is expected to arrive in 2022. Xiaomi has reportedly stopped selling the Mi 11 Ultra in India three months after it became available in the country. The company is apparently no longer replenishing its inventory after the phone has sold out.
+
+
+***
+![Here's how to set up local wireless play for Mario Kart 8 Deluxe](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/09/how-to-transfer-save-data-nintendo-switch-hero.jpg "Here's how to set up local wireless play for Mario Kart 8 Deluxe")
+
+
+[Here's how to set up local wireless play for Mario Kart 8 Deluxe](https://www.imore.com/how-connect-two-nintendo-switch-consoles-local-wireless-play)
+
+
+> Source: Rebecca Spear / iMore Local wireless play may seem strange for those of us out there who rely on online access for multiplayer of any sort. But you don't need an internet connection for local wireless play. All you need is two Nintendo Switch consoles (yourself and your friend), two copies of the game, and the simple task of being next to one another. For this guide, we used Mario Kart 8 Deluxe as an example of how to set up local wireless play. Be aware that every game that supports local wireless play has a different method for setting it up.
+
+
+***
+![Fintech Focus For November 1, 2021](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png "Fintech Focus For November 1, 2021")
+
+
+[Fintech Focus For November 1, 2021](https://www.benzinga.com/fintech/21/10/23779300/fintech-focus-for-november-1-2021)
+
+
+> Quote To Start The Day: 'The next phase and the way applications and businesses are built is this Web 3 concept of data transparency and fungibility between different projects.' Source: Trevor Marshall One Big Thing In Fintech: [T]he companies that have been more successful are the passive 'invest-from-your-couch' investment platforms and those with innovations that democratise access to capital markets through 'fractionalisation' which allow, for instance, a retail investor to get $10 off an Apple share if they can't afford the whole price.
+
+
+***
+![16' M1 Pro, how much ram for developers?](https://images.macrumors.com/social/?t=2320998&v=6 "16' M1 Pro, how much ram for developers?")
+
+
+[16' M1 Pro, how much ram for developers?](https://forums.macrumors.com/threads/16-m1-pro-how-much-ram-for-developers.2320998/)
+
+
+> Hi, I'm mainly a mobile software developer working on both iOS and Android native. I'm about to pick a 16' MBP with M1 Pro and 1TB of SSD, but I'm unsure about ram. I will use for development on both personal and work projects. My personal projects are all iOS native but for work I need to use Android Studio and Visual Studio (xamarin). I wouldn't use any VM. The company I work for sent me an M1 Mini 16/256 on February and I had generally no problem with the 16gb of ram, but the experience with Android Studio source code editor isn't fun.
+
+
+***
+![Global cloud infrastructure services spend keeps up health growth rate](https://itwire.com/media/k2/items/cache/9ed9b103d4dd764341d678fb20153b49_XS.jpg "Global cloud infrastructure services spend keeps up health growth rate")
+
+
+[Global cloud infrastructure services spend keeps up health growth rate](https://itwire.com/cloud/global-cloud-infrastructure-services-spend-keeps-up-health-growth-rate.html)
+
+
+> Pixabay Spending on cloud infrastructure services worldwide grew by 35% in the third quarter of 2021, to US$49.4 billion (A$65.8 billion), the technology analysts company Canalys says, adding that this was US$12.9 billion more than the corresponding quarter a year ago and an increase of US$2.4 billion quarter-on-quarter. In a statement, the firm said on-going remote working and learning and increasing use of industry-specific cloud application were two of the factors responsible for this growth. The movement to cloud services was being affected by digital transformation needed to maintain business continuity during disruptions caused by the pandemic, Canalys said, with cloud providers moving to expansion of conveniently located data centres to meet the demand.
+
+
