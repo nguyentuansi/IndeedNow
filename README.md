@@ -23751,3 +23751,53 @@
 > (Image credit: Samsung) If you're in the market for a new phone, TV, or even a fancy washing machine, here's your last chance to grab some great deals from Samsung.The company has been running a week of deals directly on its website, and today's the last chance to grab massive savings on smartphones, home appliances, TVs, and a much more. There's a number of items that have already run out of stock, so make sure you check out our picks from the list below and hurry over to grab what you want.Get the best deals on Amazon UAE this weekBest deals from Samsung Week75" AU7000 UHD 4K Smart TV: AED 5,499 AED 5,099 - Save AED 40065" QN800A Neo QLED 8K Smart TV: AED 14,999 AED 11,999 - Save AED 300075″ QN90A Neo QLED 4K Smart TV: AED 18,499 AED 16,499 - Save AED 2,00055″ QN85A Neo QLED 4K Smart TV: AED 7,499 AED 4,999 - Save AED 2,50050" The Frame Art Mode 4K Smart TV: AED 4,999 AED 3,999 - Save AED 1,000Galaxy S20 FE (4G) 128GB: AED 2,499 AED 1,799 - Save AED 700Galaxy Note20 256GB: AED 3,549 AED 2,599 - Save AED 950Galaxy Buds Pro: AED 734 AED 409 - Save AED 325Galaxy Watch3: AED 1,599 AED 1,049 - Save AED 550WW90T554DAN Washer with AI Control, 9KG: AED 2,673 AED 2,272 - Save AED 401Jet 90 Complete Vacuum Cleaner: AED 2,699 AED 2,294 - Save AED 405AirDresser: AED 6,298 AED 5,354 - Save AED 94549" Curved Monitor with metal Quantum Dot technology: AED 3,969 AED 3,669 - Save AED 300Check out the full list of deals here - valid until November 1st.
 
 
+***
+![Facebook employees questioned apparent restrictions on Palestinian activist's account: Documents](https://external-preview.redd.it/IlDNU7-li9i61VFKNWL-qfPzWkU0uIsjSrhP98aHVrc.jpg?auto=webp&s=f0f81cb3d431fbd169d4ff7ff563405a76ac20c8 "Facebook employees questioned apparent restrictions on Palestinian activist's account: Documents")
+
+
+[Facebook employees questioned apparent restrictions on Palestinian activist's account: Documents](https://www.reddit.com/r/technology/comments/qjmhbf/facebook_employees_questioned_apparent/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![AirPods 3: Apple's new $179 earbuds should get these missing features](https://www.cnet.com/a/img/i1NOaKAkNFZhl2ZQBWoqbmDv1Z4=/1200x630/2021/10/18/3bdfae4c-d03d-4908-9061-9e9ddda7eaa3/screen-shot-2021-10-18-at-1-11-43-pm-2.png "AirPods 3: Apple's new $179 earbuds should get these missing features")
+
+
+[AirPods 3: Apple's new $179 earbuds should get these missing features](https://www.cnet.com/tech/mobile/airpods-3-apples-new-179-earbuds-should-get-these-missing-features/)
+
+
+> The third-gen Apple AirPods. Apple Apple's third-gen AirPods are now available to buy, following their debut alongside the redesigned MacBook Pro line that brings back multiple ports and higher-end M1 Pro and M1 Max chips. The $179 (£169, AU$279) AirPods 3 aims for the middle ground between the $129 second-gen AirPods, which remain on sale, and the $249 AirPods Pro. The earbuds include some of the key features of the latter AirPods Pro, such as Spatial Audio support with head tracking. And these AirPods include perks individual to this model like a water-resistant case that's MagSafe-compatible and a six-hour battery life that outranks previous generations and the AirPods Pro.
+
+
+***
+![How to get Microsoft Office for free: Use Word, Excel and PowerPoint for $0](https://www.cnet.com/a/img/Do5tjgd2pLwO8y0rrVodErPXfEU=/1200x630/2021/09/22/3dc8b9be-471b-4a21-811c-e0a826dfa0ce/microsoft-surface-pro-8-event-screenshots-039.png "How to get Microsoft Office for free: Use Word, Excel and PowerPoint for $0")
+
+
+[How to get Microsoft Office for free: Use Word, Excel and PowerPoint for $0](https://www.cnet.com/tech/services-and-software/how-to-get-microsoft-office-for-free-use-word-excel-and-powerpoint-for-0/)
+
+
+> You can use Microsoft Office apps for free.  Josh Miller/CNET Whether it's for work or personal use, you'll probably need to access a Microsoft Word document, a PowerPoint presentation or other basic tools found in Microsoft 365 at some point. The service, formerly known as Office 365, offers more features than the average office software, but it can be costly. If you don't want to spend your money on Microsoft 365, don't stress. There are a few ways to get the service for free.  Microsoft's suite of productivity software -- which includes Word, Excel, PowerPoint, Outlook, Microsoft Teams, OneDrive and SharePoint -- typically costs $150 for a one-time installation (as Office 365), or between $70 and $100 every year for subscription service access across devices and family members (as Microsoft 365).
+
+
+***
+![syncgit: A python package to sync configuration and modules to a git repository](https://external-preview.redd.it/9YCmUetWsot8qsKLhyVL4a42BbZRnW6mBrOQQ5SXKjg.jpg?auto=webp&s=60436080fa6263abddb5688301691b520ddd8f24 "syncgit: A python package to sync configuration and modules to a git repository")
+
+
+[syncgit: A python package to sync configuration and modules to a git repository](https://www.reddit.com/r/Python/comments/qjm7cf/syncgit_a_python_package_to_sync_configuration/)
+
+
+> With this package you can sync python dictionaries or a python module to a .yaml or .json or .py file in a git repository. When changes are pushed to the repository, it gets reflected immediately during runtime.Github: https://github.com/RainingComputers/syncgit/Docs: https://syncgit.readthedocs.io/en/latest/
+
+
+***
+![[ANALYSIS] Semiconductors: Moon's leverage at G20 sideline](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202110/7c1fe2193d00438e9f61c5254e37b149.jpg "[ANALYSIS] Semiconductors: Moon's leverage at G20 sideline")
+
+
+[[ANALYSIS] Semiconductors: Moon's leverage at G20 sideline](https://www.koreatimes.co.kr/www/tech/2021/10/133_317953.html)
+
+
+> As leverage and to increase support for the proposal, Moon is expected to actively pitch South Korea's expanded role and contribution in terms of resolving ongoing technology supply chain issues, during a planned session for discussions on the matter to be chaired by U.S. President Joe Biden, on the sidelines of the G20, according to ruling Democratic Party of Korea (DPK) sources, Sunday."President Moon was stressing South Korea and the United States are aligned in terms of pushing and sharing core strategic initiatives.
+
+
