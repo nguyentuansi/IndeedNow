@@ -23892,3 +23892,53 @@
 > How much sleep is enough? You might have heard the old adage about eight hours of shut-eye being the optimal amount, but in reality your needs will vary throughout your lifetime. When it comes to snoozing, your age, health and even your work can each have an impact on how many hours of sleep you should aim for each night.To help break this down, we've analysed research and sought expert advice from Dr Lindsay Browning, a chartered psychologist, neuroscientist, author and sleep expert. Read on for the definitive guide to how much sleep you need, and how to help yourself get those restorative hours in bed.
 
 
+***
+![Microsoft's Windows 11 vs. Windows 10: All the upgrades you should know about](https://www.cnet.com/a/img/7YqUyO2vK3lMOx0gNizAXVctNXk=/1200x630/2021/06/28/e58520bb-62ee-4d40-bb37-a43363a93b41/windows-11-update-on-laptop-cnet-july-2021.jpg "Microsoft's Windows 11 vs. Windows 10: All the upgrades you should know about")
+
+
+[Microsoft's Windows 11 vs. Windows 10: All the upgrades you should know about](https://www.cnet.com/tech/computing/microsofts-windows-11-vs-windows-10-all-the-upgrades-you-should-know-about/)
+
+
+> Windows 11 brings a lot more than just design changes. Keep your eye out for these upgrades. Microsoft/Screenshot by Sarah Tew/CNET Microsoft started the phased rollout of its new operating system, Windows 11, earlier this month. Although only some PCs have been prompted to update, you may be wondering how the OS is different from Windows 10, and if it's worth downloading right away. You have until 2025 to make your decision, when Microsoft says it will no longer support Windows 10, but if you're ready to jump into Windows 11 now, you can download the OS to your computer as long as it meets eligibility requirements.
+
+
+***
+![NFL 2021: How to watch Buccaneers vs. Saints, Cowboys vs. Vikings, RedZone and Week 8 without cable](https://www.cnet.com/a/img/HYfKWT4cq5WuHQT1X7vzvuEZU7o=/1200x630/2021/10/29/c8a0553e-5e1f-4ed1-8c79-20fea6b59cd4/gettyimages-1235277602.jpg "NFL 2021: How to watch Buccaneers vs. Saints, Cowboys vs. Vikings, RedZone and Week 8 without cable")
+
+
+[NFL 2021: How to watch Buccaneers vs. Saints, Cowboys vs. Vikings, RedZone and Week 8 without cable](https://www.cnet.com/tech/home-entertainment/nfl-2021-how-to-watch-buccaneers-vs-saints-cowboys-vs-vikings-redzone-and-week-8-without-cable/)
+
+
+> Week 8 of the NFL season is underway. After the Green Bay Packers took down the undefeated Arizona Cardinals in a Thursday Night Football matchup that had a wild finish, football fans can now turn their attention to Sunday's slate.There are just two teams (the Raiders and the Ravens) on a bye this weekend, so we have a nearly complete lineup of Sunday action. An AFC North battle between the Steelers and Browns, at 1 p.m. ET (10 a.m. PT) on CBS, is among the highlights for the early slate of games.
+
+
+***
+![Editor's Desk: See you next year, folks!](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/christine-robert-baby-shower.jpg "Editor's Desk: See you next year, folks!")
+
+
+[Editor's Desk: See you next year, folks!](https://www.imore.com/editors-desk-farewell-now)
+
+
+> Source: Christine Romero-Chan / iMore Hello hello, and welcome to another week of Editor's Desk. However, this one is going to be a little bittersweet. If you haven't already heard, I'm expecting my first child on Nov. 7, 2021. Yes, that's in just about a week, give or take (depending on how the baby feels, in all honesty, haha). This means I'm going to be taking a bit of a break from my time here at iMore to adjust to a major life change and bonding with the new baby. However, I know that you'll all be in good hands with my colleagues: Joe Keller, Bryan Wolfe, Luke Filipowicz, Adam Oram, Stephen Warwick, Karen Freeman, Rebecca Spear, and everyone else who I've been working with for the past several years here at iMore.
+
+
+***
+![How to change wallpaper on iPhone 13 and get a customized, snazzy background](https://www.cnet.com/a/img/7OINQEB4UgIHhn84JtmiTg9aHq8=/1200x630/filters:gifv()/2019/07/23/25f74532-dbd7-4619-998a-5c6ad459be01/iphone-live-wallpaper.gif "How to change wallpaper on iPhone 13 and get a customized, snazzy background")
+
+
+[How to change wallpaper on iPhone 13 and get a customized, snazzy background](https://www.cnet.com/tech/mobile/how-to-change-wallpaper-on-iphone-13-and-get-a-customized-snazzy-background/)
+
+
+> On an iPhone with 3D Touch, you can use a third-party app to play longer-duration "Live" photos on your lock screen. Patrick Holland/CNET You probably already know you can easily turn your photos into wallpaper on the iPhone 13, but there are plenty of stock wallpapers from Apple already on your iPhone 13 that you can install right now. The iPhone 13 comes with a slew of vivid wallpapers available for use with both light mode and dark mode, highlighting Apple's colorful design language. You can choose from shades including blue, green, black, red and white wallpapers that match the different iPhone 13 phone color options.
+
+
+***
+![Hands-On: Hubris Might Give PC VR Its Graphics Fix After Lone Echo](https://uploadvr.com/wp-content/uploads/2021/10/Hubris-VR-Screenshot-325x183.jpg "Hands-On: Hubris Might Give PC VR Its Graphics Fix After Lone Echo")
+
+
+[Hands-On: Hubris Might Give PC VR Its Graphics Fix After Lone Echo](https://uploadvr.com/hubris-vr-hands-on/)
+
+
+> Hubris might give PC VR fans their graphics fix post-Lone Echo 2. Here's our hands-on!
+
+
