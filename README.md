@@ -24377,3 +24377,53 @@
 > iPhone 13 Pro Max (Image credit: TechRadar) Apple has reclaimed second place in the list of global smartphone shipments, just a few months after losing the title to Xiaomi. The release of the new iPhone 13 series tipped the company back into second position, but it still remains behind Samsung.As per the figures shared by IDC (International Data Corporation), Apple regained the second spot by shipping 50.4 million units in the third quarter. That runs from July until the end of September, with Xiaomi taking the third spot with 44.
 
 
+***
+![Forget Apple MacBook Pro M1 Max, you should get MacBook Air M1 for Rs 82,400 and be happy](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202111/apple-macbook-pro-press-647x363.jpeg?dA18vdhfYjBmyFHvzIdihBsztE_n0AtQ "Forget Apple MacBook Pro M1 Max, you should get MacBook Air M1 for Rs 82,400 and be happy")
+
+
+[Forget Apple MacBook Pro M1 Max, you should get MacBook Air M1 for Rs 82,400 and be happy](https://www.indiatoday.in/technology/news/story/forget-apple-macbook-pro-m1-max-you-should-get-macbook-air-m1-for-rs-82-400-and-be-happy-1872063-2021-11-01)
+
+
+> Apple first introduced its M1 based MacBooks in 2020. Now, Apple has introduced the upgraded version of their M1 chip, the M1 Pro and M1 Max. With Apple introducing two new MacBook Pro laptops, a 16-inch and a 14-inch variant, the entire MacBook laptop line has now shifted to Apple's own M-series chips instead of using Intel designed chips. Considering just the specs, the 2021 MacBook Pro M1 Max is obviously the better laptop when compared to the 2020 MacBook Air M1, however, the story is not always that simple.
+
+
+***
+![PUBG Mobile may get a League of Legends crossover event soon to mark Netflix release of Arcane](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202111/pubgcrossover_1112021-647x363.png?8JGUMN2carsVYwSLAsq67J614mq4PIuJ "PUBG Mobile may get a League of Legends crossover event soon to mark Netflix release of Arcane")
+
+
+[PUBG Mobile may get a League of Legends crossover event soon to mark Netflix release of Arcane](https://www.indiatoday.in/technology/news/story/pubg-mobile-may-get-a-league-of-legends-crossover-event-soon-to-mark-netflix-release-of-arcane-1872066-2021-11-01)
+
+
+> PUBG Mobile is getting a crossover event based on the upcoming League of Legends show on Netflix called Arcane. In a tweet, PUBG Mobile shared an image that features silhouettes of the four League of Legends characters that you can see in the trailer. However, there is no information on what sort of battles or missions PUBG Mobile players will see as a result of this crossover. The League of Legends show Arcane is coming to Netflix on November 6, so there is a high chance the crossover event will arrive ahead of that and may last at least 10 days.
+
+
+***
+![WhatsApp from Meta: Facebook rebrand takes shape for Android, iOS beta testers](https://images.financialexpress.com/2021/11/whatsapp-4.jpg "WhatsApp from Meta: Facebook rebrand takes shape for Android, iOS beta testers")
+
+
+[WhatsApp from Meta: Facebook rebrand takes shape for Android, iOS beta testers](https://www.financialexpress.com/industry/technology/whatsapp-from-meta-facebook-rebrands-takes-shapes-for-android-ios-beta-testers/2361185/)
+
+
+> By: FE Online | Updated: November 01, 2021 5:31 PMThe change, however, does not seem to be available to all beta testers. (File)WhatsApp has reportedly released new beta versions for iOS and Android devices featuring the new Meta branding after parent company Facebook Inc underwent a name change last week.While the change is yet to be implemented for users across the board, it is certain that WhatsApp will release the update for all consumers in due time since Facebook has decided to adopt the Meta branding.
+
+
+***
+![Play puts native iOS product design tool in the palm of your hand – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/03_interactions.jpg?w=708 "Play puts native iOS product design tool in the palm of your hand – TechCrunch")
+
+
+[Play puts native iOS product design tool in the palm of your hand – TechCrunch](https://techcrunch.com/2021/11/01/play-puts-native-ios-product-design-tool-in-the-palm-of-your-hand/)
+
+
+> The traditional way to design for the mobile environment involves a lot of back-and-forth as developers design in one program, prototype in another and collaborate in yet a third tool. A new startup, Play, is touting itself as 'the only native iOS product design tool that makes it possible to create, iterate and collaborate directly from your phone.' Legacy software requests workarounds and hacks to do something similar, explained company co-founder and co-CEO Dan LaCivita. 'This is the only design tool that uses the phone as a primary input device,' he told TechCrunch.
+
+
+***
+![Stanford engineers team up with Michelin-star chef to build modular restaurants – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/v3_illustration.jpg "Stanford engineers team up with Michelin-star chef to build modular restaurants – TechCrunch")
+
+
+[Stanford engineers team up with Michelin-star chef to build modular restaurants – TechCrunch](https://techcrunch.com/2021/11/01/stanford-engineers-team-up-with-michelin-star-chef-to-build-modular-restaurants/)
+
+
+> While studying engineering at Stanford, Alex Kolchinski, Alex Gruebele and Max Perham met and bonded around the lack of food options on campus and the cost of the options that were there. 'Even on a subsidized meal plan, it would cost $10 for lunch and more for dinner,' Kolchinski told TechCrunch. 'I would sit and do my work in the dining hall just to be able to eat two lunches. Alex (Gruebele) would just go to Chipotle and spend his stipend there.' While thinking about how to provide good food at a lower cost, both Kolchinski and Gruebele, who were doing PhD work involving robotics, got to thinking about how robots could help people with meal prepping and other tasks.
+
+
