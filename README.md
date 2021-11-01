@@ -24621,3 +24621,53 @@
 > Traditionally Apple has had a Macbook lineup ranging from 11 and going up with 13, 15 and ending with the beast at 17". Now we no longer have the 11 inchers and the 13 has upgraded to 14 and 15 to 16. Thanks to smaller bezels we don't really feel that the display upgrades hurt the body or weight dimensions of the devices. So hypothetically speaking would an 18" (that replaces the 17" devices) interest you? Here are the speculation filled specifications to help you decide better. I personally would buy it solely for the sweet display.
 
 
+***
+![Important Tools for Every Developer](https://external-preview.redd.it/re-qn-esEx0LVofSKn0Pb6YAF_BuFQdVSBiGBpZ2lnE.jpg?auto=webp&s=866f5f0c1ef78086d1b0684aabdec7b6b397dcd7 "Important Tools for Every Developer")
+
+
+[Important Tools for Every Developer](https://www.reddit.com/r/programming/comments/qkoqz1/important_tools_for_every_developer/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Uber will now bring you diapers, wipes and other baby essentials](https://www.cnet.com/a/img/4uMqX4JwT6x2KlShpmTHge7_LUo=/1200x630/2021/11/01/e8da6827-c05d-4481-bae0-b3fe6dc07dfb/screen-shot-2021-11-01-at-11-24-10-am.png "Uber will now bring you diapers, wipes and other baby essentials")
+
+
+[Uber will now bring you diapers, wipes and other baby essentials](https://www.cnet.com/tech/services-and-software/uber-will-now-bring-you-diapers-wipes-and-other-baby-essentials/)
+
+
+> Parents can now order diapers and other baby needs from Uber.  Uber Uber is partnering with Bed Bath & Beyond and Buybuy Baby to add a new delivery category for babies and kids, the company said Monday. Parents can now shop for diapers, wipes, first-aid kits, bath toys and other baby needs from over 750 Bed Bath & Beyond and 120 Buybuy Baby stores in the US through the Uber and Uber Eats apps. To search for baby and kids products, Uber says to open the app and tap "baby" under categories or search with the baby emoji.
+
+
+***
+![Flaunting Microsoft's rules, man gets Windows 11 to work on a 15-year-old PC](https://icdn.digitaltrends.com/image/digitaltrends/windows-11-logo.jpg "Flaunting Microsoft's rules, man gets Windows 11 to work on a 15-year-old PC")
+
+
+[Flaunting Microsoft's rules, man gets Windows 11 to work on a 15-year-old PC](https://www.digitaltrends.com/computing/windows-11-runs-on-a-15-year-old-pc/)
+
+
+> Amid Microsoft's statements that Windows 11 was made for newer machines, creative users continue to prove that you can run Microsoft's latest operating system on most computers. This time, a Twitter user managed to successfully install and run Windows 11 on an Intel Pentium 4-based system. The news emerged when Twitter user Carlos S.M. posted screenshots, and later a video, of his computer running Windows 11. The video includes benchmarks that prove just how old all the components are, starting with the 15-year-old processor.
+
+
+***
+![Windows 11 Runs on a 15-Year Old Intel Pentium Computer](https://icdn.digitaltrends.com/image/digitaltrends/windows-11-logo.jpg "Windows 11 Runs on a 15-Year Old Intel Pentium Computer")
+
+
+[Windows 11 Runs on a 15-Year Old Intel Pentium Computer](https://www.digitaltrends.com/computing/windows-11-runs-on-a-15-year-old-pc/)
+
+
+> Amid Microsoft's statements that Windows 11 was made for newer machines, creative users continue to prove that you can run Microsoft's latest operating system on most computers. This time, a Twitter user managed to successfully install and run Windows 11 on an Intel Pentium 4-based system. The news emerged when Twitter user Carlos S.M. posted screenshots, and later a video, of his computer running Windows 11. The video includes benchmarks that prove just how old all the components are, starting with the 15-year-old processor.
+
+
+***
+![How much weight can MacBook Pro screens withstand closed?](https://images.macrumors.com/social/?t=2321237&v=6 "How much weight can MacBook Pro screens withstand closed?")
+
+
+[How much weight can MacBook Pro screens withstand closed?](https://forums.macrumors.com/threads/how-much-weight-can-macbook-pro-screens-withstand-closed.2321237/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. So I recently bought the new 16in MacBook Pro, and while moving some stuff around I held it upside down (opening facing me) in one hand for 10-15 seconds before placing it down. I didn't think much of it at the time, but would doing something like this cause damage to the screen? It's my first ever MacBook so I'm kinda nervous is all 😅 You must log in or register to reply here.
+
+
