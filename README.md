@@ -24286,3 +24286,50 @@
 > Kwon Young-sooKwon Young-soo, previously the vice chairman of LG Corp., was appointed Monday as the new CEO of LG Energy Solution Ltd. after getting the nod from its shareholders, the company said. Last week, LG Energy's board tapped Kwon as its new CEO, a decision largely seen as a replacement in the wake of the battery recalls in General Motors Co.'s Bolt electric vehicles (EV). LG Energy and LG Electronics have set aside 1.4 trillion won ($1.2 billion) to repay GM for the recalls of Bolt EVs caused by battery defects.
 
 
+***
+![KT to pay W40 bil. in compensation for network outage](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202111/e3be56636b3549ec910debce52e9a14f.jpg "KT to pay W40 bil. in compensation for network outage")
+
+
+[KT to pay W40 bil. in compensation for network outage](https://www.koreatimes.co.kr/www/tech/2021/11/133_318025.html)
+
+
+> By Kim Bo-eunKT will pay out up to 40 billion won ($33.97 million) in compensation to customers of its wired and wireless services, which underwent nationwide disruptions Oct. 25, the company said. The telecom company outlined its compensation policy for the network failure during a briefing, Monday. A routing error disabled wired and wireless services from around 11:20 a.m. to noon a week earlier ― most services were back by noon, but some disruptions lasted longer.KT said it will pay compensation for 10 times the disruption time of 89 minutes, which works out at 15 hours, for individual service customers.
+
+
+***
+!['Keep your heads up,' LGES has client trust: CEO](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202111/907c31ff568c4ff59a16965b4ca9197a.jpg "'Keep your heads up,' LGES has client trust: CEO")
+
+
+['Keep your heads up,' LGES has client trust: CEO](https://www.koreatimes.co.kr/www/tech/2021/11/515_318024.html)
+
+
+> By Kim Yoo-chulThe newly appointed CEO of LG Energy Solution (LGES), a global top-tier manufacturer of electric vehicle (EV) batteries, admitted that the company is facing difficulties because of a battery replacement campaign that led to the recall of about 150,000 of General Motors' Chevrolet Bolt EVs.But LGES CEO Kwon Young-soo, a top confidant of LG Group Chairman Koo Kwang-mo, said that battery quality-related matters can be addressed and he remained confident that clients won't lose their trust in the company, as the battery recall issue isn't something that can modify or revoke the firm's long-term relationships with top carmakers.
+
+
+***
+![Apple's new privacy changes have cost Facebook, Twitter and Snapchat nearly $10 billion](https://images.indianexpress.com/2021/11/Apple_AppStore_AP1-1.jpg "Apple's new privacy changes have cost Facebook, Twitter and Snapchat nearly $10 billion")
+
+
+[Apple's new privacy changes have cost Facebook, Twitter and Snapchat nearly $10 billion](https://indianexpress.com/article/technology/tech-news-technology/apples-new-privacy-changes-have-cost-social-media-platforms-nearly-10-billion-7601755/)
+
+
+> Social media platforms—Snapchat, Facebook, Twitter, and YouTube lost around $9.85 billion in revenue following Apple's changes to its privacy practices, revealed an investigation by The Financial Times. Advertisement technology company Lotame estimated that the four social media platforms lost 12 percent of revenue in the third and fourth quarters. This development comes after the new iOS App Store policy requires apps to ask permission to track users' data across other apps and websites. The policy went into effect in April, barring apps from tracking users if they opt-out.
+
+
+***
+![WhatsApp rebrands itself to show it is an app owned by Meta, not Facebook](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/whatsappmeta_1112021-original.png "WhatsApp rebrands itself to show it is an app owned by Meta, not Facebook")
+
+
+[WhatsApp rebrands itself to show it is an app owned by Meta, not Facebook](https://www.indiatoday.in/technology/news/story/whatsapp-rebrands-itself-to-show-it-is-an-app-owned-by-meta-not-facebook-1871959-2021-11-01)
+
+
+> Story highlights WhatsApp has changed its footer to reflect the latest company change. It now says WhatsApp from Meta instead of WhatsApp from Facebook. Facebook is now known as Meta after last week's big announcement. Facebook last week announced it is changing its name to Meta. Meta is more of a corporate rejig for the Mark Zuckerberg-led company to represent the new goals for a metaverse, and it will serve as the parent company for all apps by the company. Now, WhatsApp has changed its footer to show that it is now a Meta-owned app.
+
+
+***
+[Garena Free Fire redeem codes: Check how to redeem latest Free Fire codes, process, official link and more](https://www.zeebiz.com/technology/news-garena-free-fire-redeem-codes-check-how-to-redeem-latest-free-fire-codes-process-official-link-and-more-169532)
+
+
+> Garena Free Fire recently announced Diwali rewards on November 4th. The company took to social media platforms to make this announcement.
+
+
