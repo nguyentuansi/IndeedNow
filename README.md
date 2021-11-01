@@ -24427,3 +24427,53 @@
 > While studying engineering at Stanford, Alex Kolchinski, Alex Gruebele and Max Perham met and bonded around the lack of food options on campus and the cost of the options that were there. 'Even on a subsidized meal plan, it would cost $10 for lunch and more for dinner,' Kolchinski told TechCrunch. 'I would sit and do my work in the dining hall just to be able to eat two lunches. Alex (Gruebele) would just go to Chipotle and spend his stipend there.' While thinking about how to provide good food at a lower cost, both Kolchinski and Gruebele, who were doing PhD work involving robotics, got to thinking about how robots could help people with meal prepping and other tasks.
 
 
+***
+![7 Commands for Beginners](https://external-preview.redd.it/i3puoNL-auzw4cDXjvnE8nN1I4AxgP2DiLgos8irPSM.jpg?auto=webp&s=6d8c576ac115296bffb37f9be3ea3ae54c1737be "7 Commands for Beginners")
+
+
+[7 Commands for Beginners](https://www.reddit.com/r/Python/comments/qkem8m/7_commands_for_beginners/)
+
+
+> MakeUseOf: 7 Vital Commands to Get Started With Python for Beginners. https://www.makeuseof.com/python-for-beginners/
+
+
+***
+![Global Revenue Assurance Market Report 2021-2026: Rise in Subscription Based Business Models, and Growing Need for Automation Solutions for Revenue Assurance](https://mms.businesswire.com/media/20211101005643/en/922076/23/logo.jpg "Global Revenue Assurance Market Report 2021-2026: Rise in Subscription Based Business Models, and Growing Need for Automation Solutions for Revenue Assurance")
+
+
+[Global Revenue Assurance Market Report 2021-2026: Rise in Subscription Based Business Models, and Growing Need for Automation Solutions for Revenue Assurance](https://www.businesswire.com/news/home/20211101005643/en/Global-Revenue-Assurance-Market-Report-2021-2026-Rise-in-Subscription-Based-Business-Models-and-Growing-Need-for-Automation-Solutions-for-Revenue-Assurance---ResearchAndMarkets.com)
+
+
+> November 01, 2021 09:58 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Global Revenue Assurance Market (2021-2026) by Component, Solutions, End-users, Deployment, Organization Size, Enterprise Vertical, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis" report has been added to ResearchAndMarkets.com's offering. The Global Revenue Assurance Market is estimated to be USD 3.1 Billion in 2021 and is expected to reach USD 5.0 Billion by 2026, growing at a CAGR of 10%.
+
+
+***
+![Global Cyber Security Market Report 2021](https://mms.businesswire.com/media/20211101005636/en/922079/23/logo.jpg "Global Cyber Security Market Report 2021")
+
+
+[Global Cyber Security Market Report 2021](https://www.businesswire.com/news/home/20211101005636/en/Global-Cyber-Security-Market-Report-2021---The-Impact-of-COVID-19-Recent-Developments-Major-Deals---ResearchAndMarkets.com)
+
+
+> November 01, 2021 09:51 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--The "Global Cyber Security Market (By Products Segment, Services Segment, Industry Verticals, Geography, Deployment Mode, Organization Size), Impact of COVID-19, Recent Developments & Major Deals - Forecast to 2027" report has been added to ResearchAndMarkets.com's offering. The global cyber security market is projected to exceed US$ 330 Billion by 2027. Cybersecurity is becoming a strategic imperative for organizations owing to increased focus on protecting information in the wake of high-profile data thefts and breaches.
+
+
+***
+![The best Google Pixel 6 deals and Google Pixel 6 Pro deals for November 2021](https://cdn.mos.cms.futurecdn.net/gnZ9SGSKMWX3cv5LpvGtYk-1200-80.jpg "The best Google Pixel 6 deals and Google Pixel 6 Pro deals for November 2021")
+
+
+[The best Google Pixel 6 deals and Google Pixel 6 Pro deals for November 2021](https://www.techradar.com/deals/best-google-pixel-6-deals-and-google-pixel-6-pro-deals-to-pre-order)
+
+
+> You'll find all of this week's best Google Pixel 6 deals and Pixel 6 Pro deals right here on this page - including our team's personal recommendations for saving that hard-earned cash. As you'd expect after such a successful launch, some slight delays and backorders are in effect right now at certain retailers (especially on the bigger 6 Pro). Fear not, however, because all this week's top savings and promotions are still in effect and you can reserve a device with a significant saving.Both the new Google Pixel and Google Pixel 6 Pro are available nationwide now at the Google Store and at Verizon, AT&T, and other leading carriers.
+
+
+***
+![Recovery Point Systems Announces Acquisition of Geminare](https://mms.businesswire.com/media/20211101005632/en/922071/23/RP_new_Logo_hr.jpg "Recovery Point Systems Announces Acquisition of Geminare")
+
+
+[Recovery Point Systems Announces Acquisition of Geminare](https://www.businesswire.com/news/home/20211101005632/en/Recovery-Point-Systems-Announces-Acquisition-of-Geminare)
+
+
+> November 01, 2021 09:48 AM Eastern Daylight Time GERMANTOWN, Md.--(BUSINESS WIRE)--Recovery Point Systems, an Abry Partners company and a leader in cloud-based business resilience services based in Germantown, Md., acquired Geminare, a global resiliency, application and data protection innovator headquartered in Toronto, Canada. Geminare, one of the first industry innovators in orchestration and automation, brings maturity, capability and reliability across virtually all disaster recovery, business continuity and DRaaS technologies with its globally recognized Resiliency Management Platform (RMP).
+
+
