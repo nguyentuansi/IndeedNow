@@ -24333,3 +24333,47 @@
 > Garena Free Fire recently announced Diwali rewards on November 4th. The company took to social media platforms to make this announcement.
 
 
+***
+[Oil creeps higher to start the new week](https://www.forexlive.com/technical-analysis/!/oil-creeps-higher-to-start-the-new-week-20211101)
+
+
+> WTI trades back up to above $84 on the day The $85 mark still poses a modest resistance point on the daily chart but the fundamentals continue to look solid for oil as we look towards next year.
+
+
+***
+[Technical analysis: AUD/USD upside still active but falters around 3½-month high](https://forextv.com/aud-australian-dollar/technical-analysis-aud-usd-upside-still-active-but-falters-around-3%c2%bd-month-high/)
+
+
+> If the price happens to dive beneath the cloud, the nearby upside defence of 0.7436-0.7453 could attempt to terminate the decline from gaining pace. However, should this reinforced border break down, … Read Full Story at source (may require registration) The post Technical analysis: AUD/USD upside still active but falters around 3½-month high appeared first on ForexTV.
+
+
+***
+![Have an iPhone? Now you can ‘Super Follow' people on Twitter](https://images.financialexpress.com/2021/11/Twitter.jpg "Have an iPhone? Now you can ‘Super Follow' people on Twitter")
+
+
+[Have an iPhone? Now you can ‘Super Follow' people on Twitter](https://www.financialexpress.com/industry/technology/have-an-iphone-now-you-can-super-follow-people-on-twitter/2361083/)
+
+
+> By: FE Online | November 01, 2021 3:29 PMThe website saw subscribers contributing about $6,000 within the first two weeks of the feature being released.Twitter for iOS: Now, all users on the iOS Twitter app can Super Follow some creators. Super Follows is a monetisation feature for content creators on Twitter. The feature had first been released by the microblogging site in September only in the US and Canada, and it allows creators to monetise their Twitter accounts. They can create exclusive content that can be monetised using monthly subscriptions.
+
+
+***
+![‘Technology can really enhance what you do creatively'](https://static.independent.co.uk/2021/10/29/15/08-drmark.jpg?width=1200&auto=webp&quality=75 "‘Technology can really enhance what you do creatively'")
+
+
+[‘Technology can really enhance what you do creatively'](https://www.independent.co.uk/life-style/gadgets-and-tech/samsung-technology-b1947822.html)
+
+
+> No body in the article.
+
+
+***
+![Apple just beat Xiaomi in the battle for second biggest smartphone maker](https://cdn.mos.cms.futurecdn.net/ZYv5naGwXwzVer5LfyyLCc-1200-80.jpg "Apple just beat Xiaomi in the battle for second biggest smartphone maker")
+
+
+[Apple just beat Xiaomi in the battle for second biggest smartphone maker](https://www.techradar.com/news/apple-just-beat-xiaomi-in-the-battle-for-second-biggest-smartphone-maker)
+
+
+> iPhone 13 Pro Max (Image credit: TechRadar) Apple has reclaimed second place in the list of global smartphone shipments, just a few months after losing the title to Xiaomi. The release of the new iPhone 13 series tipped the company back into second position, but it still remains behind Samsung.As per the figures shared by IDC (International Data Corporation), Apple regained the second spot by shipping 50.4 million units in the third quarter. That runs from July until the end of September, with Xiaomi taking the third spot with 44.
+
+
