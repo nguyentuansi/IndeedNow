@@ -24477,3 +24477,53 @@
 > November 01, 2021 09:48 AM Eastern Daylight Time GERMANTOWN, Md.--(BUSINESS WIRE)--Recovery Point Systems, an Abry Partners company and a leader in cloud-based business resilience services based in Germantown, Md., acquired Geminare, a global resiliency, application and data protection innovator headquartered in Toronto, Canada. Geminare, one of the first industry innovators in orchestration and automation, brings maturity, capability and reliability across virtually all disaster recovery, business continuity and DRaaS technologies with its globally recognized Resiliency Management Platform (RMP).
 
 
+***
+![I found a top-secret Amazon Alexa hack that fixes her biggest problem](https://www.thesun.co.uk/wp-content/uploads/2021/11/comp-sc-alexa-trick.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "I found a top-secret Amazon Alexa hack that fixes her biggest problem")
+
+
+[I found a top-secret Amazon Alexa hack that fixes her biggest problem](https://www.thesun.co.uk/tech/16599039/turn-on-alexa-whisper-mode/)
+
+
+> USING Alexa of an evening can be tricky if you're trying not to wake someone up. A popular TikTok video has revealed how you can get around this issue by using your Amazon smart speaker's 'Whisper Mode'. This TikToker has highlighted how useful Alexa's Whisper Mode isCredit: TikTok / @jamaica_asthma TikTok star Alana Tsui posted the video to the short clip platform. She captioned it: "This is a game changer for talking to Alexa at night if you don't want to wake your partner or kids up." The TikToker demonstrates the trick by stating in a normal voice: "Hey Alexa, what's the time right now?" Alexa then answers with the reply in a standard volume.
+
+
+***
+![Uncharted 3 Anniversary Retrospective: Shackled By Its Precursor's Legacy](https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/Uncharted%203%20%231.jpg?itok=Imvl_MAJ "Uncharted 3 Anniversary Retrospective: Shackled By Its Precursor's Legacy")
+
+
+[Uncharted 3 Anniversary Retrospective: Shackled By Its Precursor's Legacy](https://techraptor.net/gaming/opinions/uncharted-3-retrospective-shackled-by-its-precursors-legacy)
+
+
+> As it stands, the mainline Uncharted quadrilogy is one of the most venerated adventure/third-person shooter series of all time. By marrying high production values with interactive set pieces, Naughty Dog helped amplify what a "cinematic game" meant during the seventh console generation. Uncharted 3: Drake's Deception initially seemed like the ultimate realization of that template, both to me and many others. But as that dopamine rush from well-framed action scenes and Drake's affable commentary wore off, an increasingly negative outlook soured the campaign for me.
+
+
+***
+![The best wireless speaker 2021: our top picks from Sonos, Bose, Google, and more](https://cdn.mos.cms.futurecdn.net/2q9s838jDFbBr7KmKiY7jX-1200-80.jpg "The best wireless speaker 2021: our top picks from Sonos, Bose, Google, and more")
+
+
+[The best wireless speaker 2021: our top picks from Sonos, Bose, Google, and more](https://www.techradar.com/news/best-speaker)
+
+
+> The best wireless speakers in 2021 come in a huge range of shapes and sizes, from compact voice assistant-enabled desk buddies right through to big multi-room models that'll fill your home with sound.As well as offering pristine audio playback, the best wireless speakers have lots of modern features packed in, including smart assistants like Siri, Alexa and Google Assistant. Many of the best home speakers also boast built-in support for a range of your favorite streaming services, as well as slick designs that will look the part in any home.
+
+
+***
+![Mirati Therapeutics COO, CMO Exit, Completing Management Overhaul](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/cells-1872666_1920_101.jpg "Mirati Therapeutics COO, CMO Exit, Completing Management Overhaul")
+
+
+[Mirati Therapeutics COO, CMO Exit, Completing Management Overhaul](https://www.benzinga.com/general/biotech/21/11/23790061/mirati-therapeutics-coo-cmo-exit-completing-management-overhaul)
+
+
+> Shares of Mirati Therapeutics, Inc. (NASDAQ: MRTX) are retreating sharply Monday following two executive departures. What Happened: Mirati, a clinical-stage targeted oncology company, said its Chief Operating Officer Daniel Faga and Chief Medical Officer Joseph Leveque have stepped down from their respective roles. Faga was also serving as principal financial officer. Faga ceased serving as the COO and principal financial officer effective Oct. 28, and Leveque's resignation is effective Monday, the company said.
+
+
+***
+![The best Samsung Galaxy S20 deals for November 2021](https://icdn.digitaltrends.com/image/digitaltrends/galaxy-s20-and-s20-plus.jpg "The best Samsung Galaxy S20 deals for November 2021")
+
+
+[The best Samsung Galaxy S20 deals for November 2021](https://www.digitaltrends.com/dtdeals/best-samsung-galaxy-s20-deals/)
+
+
+> Are you looking for a great deal on a new Android smartphone? Since Samsung introduced the Galaxy S21, it's been a great time to shop for cheap Samsung Galaxy S20 deals — and Galaxy smartphone deals are exactly what we've got. From the big-box online stores to mobile network service providers, we've combed the web to bring you all the best Samsung Galaxy S20 deals, bundles, and carrier offers available right now with discounts that can save you hundreds on a new Samsung Galaxy S20, Galaxy S20 Plus, Galaxy S20 Ultra, or Galaxy S20 FE.
+
+
