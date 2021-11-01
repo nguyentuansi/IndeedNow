@@ -24139,3 +24139,50 @@
 > Intel Releases Specs, Pricing, and a Release Date for the 12th Generation Alder Lake Chips. After months of speculations and leaked benchmarks, Intel has officially unveiled their 12th generation Alder Lake CPUs in an official manner. According to Eurogamer, Team Blue just introduced their new chips, promising a fundamentally different approach to the way they've produced chips in the past. The flagship Core i9-12900K, which has shown to be a monster in multiple leaked benchmarks over the past few months, leads Intel's product stack.
 
 
+***
+[Index Value](https://www.reddit.com/r/Python/comments/qk46t6/index_value/)
+
+
+> Good Evening! I am having issues with coming up with a code for index values. I need to create a variable to store the index value I need to look up. I will be using thisIndexValue = 0. Along with myMomIsID, myMomCity, myMomState - to create 3 new variables to store the data for first value from each of the lists . ** these are the values ** myMomIsID = 1 myMomCity = Miami myMomState = Florida What I originally had before I realized it was wrong because I will then have to move to the next number which will be thisIndexValue = 2, to receive an output relaying the second values for each variable: myMomIsID = "1" myMomCity = "Miami" myMomState = "Florida" print("My mom's ID is" + " " + myMomISID, "she is from" + " " + myMomCity + ", " + myMomState) Which will give me the statement "My mom is ID 1 she is from Miami, Florida", however, when I am asked to give the output of value 2, I am not allowed to put "2" as the value, I have to utilize an index value to give the response.
+
+
+***
+![Fintech Unicorn Nium Joins HKSTP's FinTech Community to Accelerate Hong Kong's Booming Fintech Ecosystem](https://mms.businesswire.com/media/20211031005017/en/921907/23/20A_logup_EN_hon-01.jpg "Fintech Unicorn Nium Joins HKSTP's FinTech Community to Accelerate Hong Kong's Booming Fintech Ecosystem")
+
+
+[Fintech Unicorn Nium Joins HKSTP's FinTech Community to Accelerate Hong Kong's Booming Fintech Ecosystem](https://www.businesswire.com/news/home/20211031005017/en/Fintech-Unicorn-Nium-Joins-HKSTP%E2%80%99s-FinTech-Community-to-Accelerate-Hong-Kong%E2%80%99s-Booming-Fintech-Ecosystem)
+
+
+> HONG KONG--(BUSINESS WIRE)--Hong Kong Science and Technology Parks Corporation (HKSTP) today announced the addition of a global Fintech unicorn, Nium, as a partner company to HKSTP's thriving Fintech ecosystem. Nium is opening its new office at InnoCentre to leverage Hong Kong's growing Fintech opportunities as well as the huge GBA market potential for seamless application programming interface (API)-based payments services. The high-growth Fintech startup connects consumers, corporations and financial institutions to the world's payment infrastructure through a single API for fast, low-cost international transfers.
+
+
+***
+![Happy Halloween: Gaming platform Roblox is back online](https://www.actionnewsjax.com/pf/resources/images/sites/cmg-tv-10050/station-fallback.png?d=294 "Happy Halloween: Gaming platform Roblox is back online")
+
+
+[Happy Halloween: Gaming platform Roblox is back online](https://www.actionnewsjax.com/news/technology/happy-halloween/DMQ5XR33UCZYI5CUVLUECSHOYY/)
+
+
+> The popular gaming site Roblox went back online Sunday after being down for most of the weekend.The online platform crashed Friday. In a statement, the company tweeted Sunday evening that "Roblox is back online everywhere! Thank you for your continued patience as we get back to normal."The company tweeted several updates on its progress to restore service. Roblox said the outage was 'not related to any specific experiences or partnerships on the platform.'' This was apparently meant to quash rumors that the trouble was caused by a free burrito giveaway at a digital Chipotle on the Roblox platform.
+
+
+***
+![Happy Halloween: Gaming platform Roblox is back online](https://www.wokv.com/pf/resources/images/sites/cmg-rd-20056/station-logo.jpg?d=294 "Happy Halloween: Gaming platform Roblox is back online")
+
+
+[Happy Halloween: Gaming platform Roblox is back online](https://www.wokv.com/news/technology/happy-halloween/DMQ5XR33UCZYI5CUVLUECSHOYY/)
+
+
+> The popular gaming site Roblox went back online Sunday after being down for most of the weekend.The online platform crashed Friday. In a statement, the company tweeted Sunday evening that "Roblox is back online everywhere! Thank you for your continued patience as we get back to normal."The company tweeted several updates on its progress to restore service. Roblox said the outage was 'not related to any specific experiences or partnerships on the platform.'' This was apparently meant to quash rumors that the trouble was caused by a free burrito giveaway at a digital Chipotle on the Roblox platform.
+
+
+***
+![Happy Halloween: Gaming platform Roblox is back online](https://www.krmg.com/pf/resources/images/sites/cmg-rd-20111/station-logo.png?d=294 "Happy Halloween: Gaming platform Roblox is back online")
+
+
+[Happy Halloween: Gaming platform Roblox is back online](https://www.krmg.com/news/technology/happy-halloween/DMQ5XR33UCZYI5CUVLUECSHOYY/)
+
+
+> The popular gaming site Roblox went back online Sunday after being down for most of the weekend.The online platform crashed Friday. In a statement, the company tweeted Sunday evening that "Roblox is back online everywhere! Thank you for your continued patience as we get back to normal."The company tweeted several updates on its progress to restore service. Roblox said the outage was 'not related to any specific experiences or partnerships on the platform.'' This was apparently meant to quash rumors that the trouble was caused by a free burrito giveaway at a digital Chipotle on the Roblox platform.
+
+
