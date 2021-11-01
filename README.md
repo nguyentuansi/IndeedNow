@@ -24186,3 +24186,53 @@
 > The popular gaming site Roblox went back online Sunday after being down for most of the weekend.The online platform crashed Friday. In a statement, the company tweeted Sunday evening that "Roblox is back online everywhere! Thank you for your continued patience as we get back to normal."The company tweeted several updates on its progress to restore service. Roblox said the outage was 'not related to any specific experiences or partnerships on the platform.'' This was apparently meant to quash rumors that the trouble was caused by a free burrito giveaway at a digital Chipotle on the Roblox platform.
 
 
+***
+![#TECH: Making air travel safe in Covid-19 era](https://assets.nst.com.my/images/articles/BOTS011121honeywell_NSTfield_image_socialmedia.var_1635739237.jpg "#TECH: Making air travel safe in Covid-19 era")
+
+
+[#TECH: Making air travel safe in Covid-19 era](https://www.nst.com.my/lifestyle/bots/2021/11/741689/tech-making-air-travel-safe-covid-19-era)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+![Apple Music is integrated into the PlayStation 5. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/sony-ps5-console-1.jpg "Apple Music is integrated into the PlayStation 5. » Brinkwire")
+
+
+[Apple Music is integrated into the PlayStation 5. » Brinkwire](https://en.brinkwire.com/technology/apple-music-is-integrated-into-the-playstation-5/)
+
+
+> Apple Music is integrated into the PlayStation 5. For those who enjoy listening to music while playing, the PlayStation 5 gaming experience has just gotten a whole lot better. Apple Music will be available on Sony's game system, according to the company. The PS5 and Apple Music connection allows users to watch music videos on the console or even have songs play in the background as they play. PS5 owners will require an Apple Music membership to access the new feature. Prior to the arrival of the Apple Music app to the PlayStation 5, Spotify was the only way for gamers to stream music through the device.
+
+
+***
+![Horror Halloween for child in isolation](https://content.api.news/v3/images/bin/b14ba192c375f3a956b399f0f0f58373 "Horror Halloween for child in isolation")
+
+
+[Horror Halloween for child in isolation](https://www.news.com.au/technology/online/social/child-quarantining-at-home-left-in-tears-after-watching-thieves-steal-candy-through-the-window/news-story/3962fa2a9232bf6f0480b18d7e1b6026)
+
+
+> A five-year-old girl had a horror Halloween experience after a group of pre-teens stole candy that was left for her while she was stuck inside self-quarantining.Don't miss out on the headlines from Social. Followed categories will be added to My News.A Sydney mother has told of the 'disrespectful' actions of a group of pre-teens that left her daughter 'in tears' after they stole her candy while she was stuck inside self-isolating. The woman began explaining on social media how her family needed to complete 14 days of home quarantine because they were close contacts of a confirmed Covid-19 case.
+
+
+***
+![Decoded: What is dark web and is it really such a bad place to be in?](https://bsmedia.business-standard.com/_media/bs/img/article/2019-01/14/full/1547435844-7883.jpg "Decoded: What is dark web and is it really such a bad place to be in?")
+
+
+[Decoded: What is dark web and is it really such a bad place to be in?](https://www.business-standard.com/podcast/technology/decoded-what-is-dark-web-and-is-it-really-such-a-bad-place-to-be-in-121110100044_1.html)
+
+
+> From looking things up on search engines to ordering food, reading news and booking cabs, we use web services every day. But do you know the web as we know it is just a fraction of the actual web space. Yes, and that is why it is called the surface web. It is available for access to anyone and everyone with access to the internet. There is a whole lot more to the web which is not accessible to everyone. People call it the dark web. Curious to know what the dark web is, who uses it, and why it is a maligned space? Let's take a look: What is the Dark Web? It is that uncharted part of the web which is not accessible to everyone The Dark Web is a reality that has existed since the beginning of the internet.
+
+
+***
+![Elon Musk says he will immediately spend $6 billion to end world hunger if UN can prepare right plan](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/muskreuters_1112021-original.png "Elon Musk says he will immediately spend $6 billion to end world hunger if UN can prepare right plan")
+
+
+[Elon Musk says he will immediately spend $6 billion to end world hunger if UN can prepare right plan](https://www.indiatoday.in/technology/news/story/elon-musk-says-he-will-immediately-spend-6-billion-to-end-world-hunger-if-un-can-prepare-right-plan-1871845-2021-11-01)
+
+
+> Story highlights Elon Musk has offered to sell stocks and give around $6 billion to WFP. But he has a condition that WFP will have to show how its accounting is done. David Beasley, WFP director, has invited Musk for a chat on the same topic. Elon Musk threw a challenge at the United Nations over the weekend. It was not about his companies or his current favourite - the Dogecoin, but about something as serious as global hunger. In a response to United Nations World Food Program (WFP) director David Beasley - who told CNN that a one-time payment of 2 per cent wealth of Musk or billionaires alike can solve global hunger - Musk, kind of, agreed to give his money but only if the UN comes up with the right strategy.
+
+
