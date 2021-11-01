@@ -24574,3 +24574,50 @@
 > Digital Trends may earn a commission when you buy through links on our site. If you need the best and beefiest tablet money can buy but want to save some of that money, look no further than iPad Pro deals. Apple all but created the tablet as we know it, and despite some increasingly stiff competition from brands like Microsoft and Samsung, the iPad Pro is still the king. So if you're on a quest for Apple deals and tablet deals and you're specifically honing in on some iPad Pro sales, you've come to the right place.
 
 
+***
+![Researchers predict an increase in ransomware attacks on eCommerce in the next years, as well as a 314 percent increase in HTTPS threats by 2021.](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Researchers predict an increase in ransomware attacks on eCommerce in the next years, as well as a 314 percent increase in HTTPS threats by 2021.")
+
+
+[Researchers predict an increase in ransomware attacks on eCommerce in the next years, as well as a 314 percent increase in HTTPS threats by 2021.](https://en.brinkwire.com/technology/researchers-predict-an-increase-in-ransomware-attacks-on-ecommerce-in-the-next-years-as-well-as-a-314-percent-increase-in-https-threats-by-2021/)
+
+
+> Researchers predict an increase in ransomware attacks on eCommerce in the next years, as well as a 314 percent increase in HTTPS threats by 2021. (Photo courtesy of Unsplash.com) Researchers predict an increase in ransomware attacks on eCommerce in the coming years | HTTPS threats are expected to grow by 314 percent by 2021. During the forthcoming holiday season, Zscaler analysts foresee an uptick in ransomware attacks on some e-commerce sites. HTTPS attacks are expected to increase by 314 percent by 2021, according to the report.
+
+
+***
+![Beat the Black Friday rush with huge discounts on Nest speakers, displays](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/nest-hub-2nd-gen-review-6.jpg "Beat the Black Friday rush with huge discounts on Nest speakers, displays")
+
+
+[Beat the Black Friday rush with huge discounts on Nest speakers, displays](https://www.androidcentral.com/google-nest-audio-nest-hub-2nd-gen-deals)
+
+
+> Source: Daniel Bader / Android Central Google is deeply discounting its Nest Audio speaker ahead of Black Friday. The smart speaker can be had for nearly half-off its original price. Google is also discounting its second-gen Nest Hub with Soli sleep tracking. Google is getting ahead of the Black Friday rush by discounting some of its best products. The Nest Audio is receiving a considerable discount, bringing it down to nearly half its original price. Google is also discounting its Nest Hub (2nd Gen).
+
+
+***
+![French Studio IELLO Severs Ties with US Branch](https://techraptor.net/sites/default/files/styles/image_header/public/2021-11/IELLO%20USA%20Logo.jpg?itok=E7aFyTtw "French Studio IELLO Severs Ties with US Branch")
+
+
+[French Studio IELLO Severs Ties with US Branch](https://techraptor.net/tabletop/news/french-studio-iello-severs-ties-with-us-branch)
+
+
+> The world of board game distribution is going through some changes. It seems that the French board game company IELLO will be severing ties with its North American branch. First, a brief bit of history. IELLO was founded in 2004 and was known for distribution and eventually localization for games aimed at the French market. In 2009, the company began publishing its own games and established it's own own US LLC based in Las Vegas, Nevada in 2012. The studio is probably the most well known for publishing the kaiju-themed mayhem of King of Tokyo as well as the covert cypher-cracking competitive experience, Decrypto.
+
+
+***
+[Branch out from numerical computation and simulations to something more lucrative?](https://www.reddit.com/r/Python/comments/qkm6nk/branch_out_from_numerical_computation_and/)
+
+
+> As a scientist/engineer that has been using Python for a couple of years for numerical calculation stuff (as an example a typical problem can be to determine laser beam characteristics and process when used to cut a piece of metal), can this skill be used to increase income?Stay on the same path of computing/simulation or branch out to something less math-heavy and more 'computer'-heavy (website, app, data)?Folks that have been using programming mainly for calculations, have you found to have a large gap in programming skills compared to a "real" programmer? (Feels like 60% of efforts/challenges were mainly math rather than programming itself.
+
+
+***
+![18" Macbook Pro M1 Max, would you buy it?](https://forums.macrumors.com/attachments/screenshot-2021-11-02-at-1-11-47-am-png.1899914/ "18" Macbook Pro M1 Max, would you buy it?")
+
+
+[18" Macbook Pro M1 Max, would you buy it?](https://forums.macrumors.com/threads/18-macbook-pro-m1-max-would-you-buy-it.2321215/)
+
+
+> Traditionally Apple has had a Macbook lineup ranging from 11 and going up with 13, 15 and ending with the beast at 17". Now we no longer have the 11 inchers and the 13 has upgraded to 14 and 15 to 16. Thanks to smaller bezels we don't really feel that the display upgrades hurt the body or weight dimensions of the devices. So hypothetically speaking would an 18" (that replaces the 17" devices) interest you? Here are the speculation filled specifications to help you decide better. I personally would buy it solely for the sweet display.
+
+
