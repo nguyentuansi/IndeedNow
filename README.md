@@ -24089,3 +24089,53 @@
 > Pixabay Spending on cloud infrastructure services worldwide grew by 35% in the third quarter of 2021, to US$49.4 billion (A$65.8 billion), the technology analysts company Canalys says, adding that this was US$12.9 billion more than the corresponding quarter a year ago and an increase of US$2.4 billion quarter-on-quarter. In a statement, the firm said on-going remote working and learning and increasing use of industry-specific cloud application were two of the factors responsible for this growth. The movement to cloud services was being affected by digital transformation needed to maintain business continuity during disruptions caused by the pandemic, Canalys said, with cloud providers moving to expansion of conveniently located data centres to meet the demand.
 
 
+***
+![Mihup: Business edge through deep insights](https://images.financialexpress.com/2021/10/1-620.jpg "Mihup: Business edge through deep insights")
+
+
+[Mihup: Business edge through deep insights](https://www.financialexpress.com/industry/technology/mihup-business-edge-through-deep-insights/2359793/)
+
+
+> By: Sudhir Chowdhary | November 01, 2021 5:45 AMBhaskar Mishra, Head of Product, MihupMihup Communications is a conversational AI platform founded in 2016 by Tapan Barman, Sandipan Chattopadhyay, and Biplab Chakraborty. The company uses AI to empower humans with the ability to seamlessly interact with the digital world around them. Put simply, this voice AI startup is fundamentally altering the conversational AI space and its platform can work on edge devices and in low-connectivity environments.
+
+
+***
+![Top 10 trending phones of week 42](https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-952x498w6/gsmarena_002.jpg "Top 10 trending phones of week 42")
+
+
+[Top 10 trending phones of week 42](https://www.gsmarena.com/top_10_trending_phones_of_week_42-news-51653.php)
+
+
+> A couple of events took place this week that had a major impact on our trending chart. Xiaomi's new Redmi Note 11 lineup stormed the top with the Pro+, leading from the regular Pro, while Sony's new Xperia Pro-I rounded up the top three. We then have the vanilla Redmi Note 11, meaning the entire top 4 consists of newly announced phones. But it doesn't end there - the Xiaomi 11i HyperCharge which is merely the rumored name of the Pro+ in India is in sixth, splitting last week's leading Google Pixel 6 duo.
+
+
+***
+![Google Docs in a clean-room browser: "As with Gmail, I believe Flow is the only browser engine written after Google Docs that can run Google Docs"](https://external-preview.redd.it/EFBzHqnbhkQW9D0gw7zQG1QAR0fxE2rLmOAF_EOcZA8.jpg?auto=webp&s=3c7918cddfe92efdf35e95048be32ea0f7721ba8 "Google Docs in a clean-room browser: "As with Gmail, I believe Flow is the only browser engine written after Google Docs that can run Google Docs"")
+
+
+[Google Docs in a clean-room browser: "As with Gmail, I believe Flow is the only browser engine written after Google Docs that can run Google Docs"](https://www.reddit.com/r/programming/comments/qk24gf/google_docs_in_a_cleanroom_browser_as_with_gmail/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Intel Releases Specs, Pricing, and a Release Date for the 12th Generation Alder Lake Chips. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/intel-logo.jpg "Intel Releases Specs, Pricing, and a Release Date for the 12th Generation Alder Lake Chips. » Brinkwire")
+
+
+[Intel Releases Specs, Pricing, and a Release Date for the 12th Generation Alder Lake Chips. » Brinkwire](https://en.brinkwire.com/technology/intel-releases-specs-pricing-and-a-release-date-for-the-12th-generation-alder-lake-chips/)
+
+
+> Intel Releases Specs, Pricing, and a Release Date for the 12th Generation Alder Lake Chips. After months of speculations and leaked benchmarks, Intel has officially unveiled their 12th generation Alder Lake CPUs in an official manner. According to Eurogamer, Team Blue just introduced their new chips, promising a fundamentally different approach to the way they've produced chips in the past. The flagship Core i9-12900K, which has shown to be a monster in multiple leaked benchmarks over the past few months, leads Intel's product stack.
+
+
+***
+![Intel Releases Specs, Pricing, and a Release Date for the 12th Generation Alder Lake Chips.](https://en.brinkwire.com/nerede/uploads/2021/10/intel-logo.jpg "Intel Releases Specs, Pricing, and a Release Date for the 12th Generation Alder Lake Chips.")
+
+
+[Intel Releases Specs, Pricing, and a Release Date for the 12th Generation Alder Lake Chips.](https://en.brinkwire.com/technology/intel-releases-specs-pricing-and-a-release-date-for-the-12th-generation-alder-lake-chips/)
+
+
+> Intel Releases Specs, Pricing, and a Release Date for the 12th Generation Alder Lake Chips. After months of speculations and leaked benchmarks, Intel has officially unveiled their 12th generation Alder Lake CPUs in an official manner. According to Eurogamer, Team Blue just introduced their new chips, promising a fundamentally different approach to the way they've produced chips in the past. The flagship Core i9-12900K, which has shown to be a monster in multiple leaked benchmarks over the past few months, leads Intel's product stack.
+
+
