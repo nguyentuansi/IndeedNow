@@ -24527,3 +24527,50 @@
 > Are you looking for a great deal on a new Android smartphone? Since Samsung introduced the Galaxy S21, it's been a great time to shop for cheap Samsung Galaxy S20 deals — and Galaxy smartphone deals are exactly what we've got. From the big-box online stores to mobile network service providers, we've combed the web to bring you all the best Samsung Galaxy S20 deals, bundles, and carrier offers available right now with discounts that can save you hundreds on a new Samsung Galaxy S20, Galaxy S20 Plus, Galaxy S20 Ultra, or Galaxy S20 FE.
 
 
+***
+![The best Google Pixel 5 deals for November 2021](https://icdn.digitaltrends.com/image/digitaltrends/google-pixel-5-front-625x417-c-n.jpg "The best Google Pixel 5 deals for November 2021")
+
+
+[The best Google Pixel 5 deals for November 2021](https://www.digitaltrends.com/dtdeals/best-google-pixel-5-deals/)
+
+
+> Finding some great Google Pixel 5 deals can be difficult. If you are already a Google Pixel fan familiar with Google Pixel smartphone deals, you may have been waiting for someone to start tracking the best cheap Google Pixel 5 sales, and we have you covered there. The Google Pixel 5 may be tough find on sale, especially if you are looking for a CDMA version to use with Verizon, U.S. Cellular, or other wireless carriers that do not use GSM SIM cards. The good news is that retailers have started their Black Friday deals earlier than ever this year.
+
+
+***
+![Best Powerbeats Pro deals for November 2021](https://icdn.digitaltrends.com/image/digitaltrends/powerbeats-pro-feat-2.jpg "Best Powerbeats Pro deals for November 2021")
+
+
+[Best Powerbeats Pro deals for November 2021](https://www.digitaltrends.com/dtdeals/best-powerbeats-pro-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Beats by Dre offers trendy and stylish headphones in a range of colors and distinctive, eye-catching designs. The iconic Powerbeats Pro earbuds offer the distinctive bassy Beats sound in a convenient wireless package that's easy to pair with Apple devices. We've scoured through online retailers to bring you the best Powerbeats Pro deals. Black Friday deals have already started this year, so if you want to get ahead of the rush, grab the Powerbeats Pro on your wish list ASAP.
+
+
+***
+[Amazon says TikTok's app is now available on Fire TV in the US and Canada and will come soon to Echo Show devices (Amanda Silberling/TechCrunch)](http://www.techmeme.com/211101/p18#a211101p18)
+
+
+> Amanda Silberling / TechCrunch: Amazon says TikTok's app is now available on Fire TV in the US and Canada and will come soon to Echo Show devices — Amazon announced today that a TikTok app is now available on its Amazon Fire TV for users in the U.S. and Canada. The app is also coming soon to Echo Show devices.
+
+
+***
+![Best Black Friday Bose Headphone Deals for November 2021](https://icdn.digitaltrends.com/image/digitaltrends/bose-quietcomfort-35-wireless-noise-cancelling-headphones-ii-1.jpg "Best Black Friday Bose Headphone Deals for November 2021")
+
+
+[Best Black Friday Bose Headphone Deals for November 2021](https://www.digitaltrends.com/dtdeals/best-bose-headphone-deals/)
+
+
+> You've picked a great time to upgrade your audio game. The best Black Friday Bose headphone deals have started early, and they're poised to run out of stock before November 26. If you'd waited until next month to start shopping for Bose headphone deals, you'd be out of luck. Major supply shortages have led retailers to start their Black Friday headphone deals early. Your best chance at getting a fantastic Bose headphone deal at a super cheap price will be through the Best Buy Black Friday deals. Best Buy has officially launched their early Black Friday deals, and they're just as good, if not better, than the deals last year.
+
+
+***
+![The best iPad Pro deals and sales for November 2021](https://icdn.digitaltrends.com/image/digitaltrends/ipados-1.jpg "The best iPad Pro deals and sales for November 2021")
+
+
+[The best iPad Pro deals and sales for November 2021](https://www.digitaltrends.com/dtdeals/best-ipad-pro-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. If you need the best and beefiest tablet money can buy but want to save some of that money, look no further than iPad Pro deals. Apple all but created the tablet as we know it, and despite some increasingly stiff competition from brands like Microsoft and Samsung, the iPad Pro is still the king. So if you're on a quest for Apple deals and tablet deals and you're specifically honing in on some iPad Pro sales, you've come to the right place.
+
+
