@@ -24236,3 +24236,53 @@
 > Story highlights Elon Musk has offered to sell stocks and give around $6 billion to WFP. But he has a condition that WFP will have to show how its accounting is done. David Beasley, WFP director, has invited Musk for a chat on the same topic. Elon Musk threw a challenge at the United Nations over the weekend. It was not about his companies or his current favourite - the Dogecoin, but about something as serious as global hunger. In a response to United Nations World Food Program (WFP) director David Beasley - who told CNN that a one-time payment of 2 per cent wealth of Musk or billionaires alike can solve global hunger - Musk, kind of, agreed to give his money but only if the UN comes up with the right strategy.
 
 
+***
+![Asus ROG Flow Z13 renders leaked, reveal design similar to Surface Pro 8](https://images.indianexpress.com/2021/11/eba444b7-7fb8-4acc-ac69-4270858dfd22.jpg "Asus ROG Flow Z13 renders leaked, reveal design similar to Surface Pro 8")
+
+
+[Asus ROG Flow Z13 renders leaked, reveal design similar to Surface Pro 8](https://indianexpress.com/article/technology/laptops/asus-may-be-releasing-a-surface-pro-competitor-that-docks-to-an-external-gpu-7601471/)
+
+
+> ASUS is speculated to be developing its successor to the ROG Flow X13 which was released this year. The ROG Flow X13 was launched as a convertible laptop with special emphasis on its gaming prowess. Tipster Evan Blass (@evleaks) posted images of Asus ROG Flow Z13 on Twitter, and the device looks similar to the recently launched Microsoft Surface Pro 8, as per the image. The Surface Pro 8 is the convertible tablet, which is geared towards enterprise users who need a device focused on productivity and one which is convenient to carry around.
+
+
+***
+![Apple's Most Back-Ordered New Product Is Not What You Expect](https://external-preview.redd.it/0zesgRsWQHT_uiWpnRLrRZm-4kUv8JKZMRljsSNZaUA.jpg?auto=webp&s=24647b76926e98be82d77ff050e47ea16d06e7d3 "Apple's Most Back-Ordered New Product Is Not What You Expect")
+
+
+[Apple's Most Back-Ordered New Product Is Not What You Expect](https://www.reddit.com/r/technology/comments/qk7iwv/apples_most_backordered_new_product_is_not_what/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Chips shortage: India woos TSMC, Intel AMD to set up manufacturing base](https://cdn.mos.cms.futurecdn.net/fUFkhU5GPAG6EsP2Nx9iBY-1200-80.jpg "Chips shortage: India woos TSMC, Intel AMD to set up manufacturing base")
+
+
+[Chips shortage: India woos TSMC, Intel AMD to set up manufacturing base](https://www.techradar.com/news/chips-shortage-india-woos-tsmc-intel-amd-to-set-up-manufacturing-base)
+
+
+> (Image credit: TSMC) The crisis sweeping the global semiconductor industry is enormous. With the tech world totally dependent on chips, the problem has become fundamental, and worse, nobody knows when it will end. And India, which is trying to push itself into the forefront of the tech manufacturing, is also facing the pinch acutely. India, which is dependent on imports for all its chip needs, is now trying to address the problem holistically. According to a report in the Times of India, the Indian government has sounded out top chip-making companies like the TSMC (Taiwan Semiconductor Manufacturing Company), Intel, AMD, Fujitsu and United Microelectronics Corp to try and set up manufacturing base in the country.
+
+
+***
+![JioPhone Next at Rs 1,999: Here's the fine print of Reliance Jio's financing scheme](https://images.financialexpress.com/2021/11/jio-next.png "JioPhone Next at Rs 1,999: Here's the fine print of Reliance Jio's financing scheme")
+
+
+[JioPhone Next at Rs 1,999: Here's the fine print of Reliance Jio's financing scheme](https://www.financialexpress.com/industry/technology/jiophone-next-at-rs-1999-heres-the-fine-print-of-reliance-jios-financing-scheme/2360902/)
+
+
+> The smartphone is available for an upfront fee of Rs 1,999 with multiple EMI options to choose from.Reliance Jio has revealed the EMI options for its much-vaunted JioPhone Next smartphone, scheduled to release on Diwali. The company had touted the device as an affordable entry-level option and announced a ticket price of Rs 6,499 at launch.The smartphone is available for an upfront fee of Rs 1,999 with multiple EMI options to choose from. However, while the prolonged financing with data and call benefits might reduce the overall cost of ownership for light users, heavy data users looking for a cheaper alternative to the smartphones already available in the market would inevitably end up paying more.
+
+
+***
+![LG Vice Chairman Kwon appointed new CEO of LG Energy Solution](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202111/0ce0865ea49741b5bc715e098e2fe0a3.jpg "LG Vice Chairman Kwon appointed new CEO of LG Energy Solution")
+
+
+[LG Vice Chairman Kwon appointed new CEO of LG Energy Solution](https://www.koreatimes.co.kr/www/tech/2021/11/693_318001.html)
+
+
+> Kwon Young-sooKwon Young-soo, previously the vice chairman of LG Corp., was appointed Monday as the new CEO of LG Energy Solution Ltd. after getting the nod from its shareholders, the company said. Last week, LG Energy's board tapped Kwon as its new CEO, a decision largely seen as a replacement in the wake of the battery recalls in General Motors Co.'s Bolt electric vehicles (EV). LG Energy and LG Electronics have set aside 1.4 trillion won ($1.2 billion) to repay GM for the recalls of Bolt EVs caused by battery defects.
+
+
