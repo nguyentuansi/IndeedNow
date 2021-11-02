@@ -24953,3 +24953,53 @@
 > (Image credit: Disney/Marvel Studios) Potential spoilers follow for Doctor Strange in the Multiverse of Madness.Doctor Strange 2's primary villain has been leaked ahead of release – by an officially licensed piece of merchandise.The upcoming MCU movie is one of the most secretive Marvel productions to date, with little in the way of leaks or unconfirmed reveals making their way online. That appears to have changed now, though, after an adult jigsaw puzzle inadvertently confirmed the film's major antagonist.
 
 
+***
+![Ethereum price smashes record high amid metaverse buzz](https://static.independent.co.uk/2021/11/02/12/ethereum%20price%20record%20high.jpg?width=1200&auto=webp&quality=75 "Ethereum price smashes record high amid metaverse buzz")
+
+
+[Ethereum price smashes record high amid metaverse buzz](https://www.independent.co.uk/life-style/gadgets-and-tech/ethereum-price-latest-prediction-nft-metaverse-b1949757.html)
+
+
+> The price of Ethereum (ether) has hit a new all-time high amid a resurgent crypto market.The cryptocurrency reached above $4,470 on Tuesday morning, according to CoinMarketCap's price index, pushing the overall crypto market above $2.7 trillion for the first time in its history.Follow The Independent's live coverage of the crypto marketEthereum's price increase has been spurred on by a surge in the use of its blockchain network, which is used to build decentralised apps (dapps) and transact NFTs – as well as expectation that it will prove fundamental in any future metaverse, which are being built by tech giants like Meta (formerly Facebook).
+
+
+***
+![How does Mario Kart 64 hold up in 2021?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/mario-dead-red.jpg "How does Mario Kart 64 hold up in 2021?")
+
+
+[How does Mario Kart 64 hold up in 2021?](https://www.imore.com/mario-kart-64-still-shines-2021-nintendos-legacy-content-needs-work)
+
+
+> Source: iMore Mario Kart 64 originally released on the Nintendo 64 on Feb. 10, 1997 in North America. It's probably sacrilege to say this, but... I was born in 1995. And because video games were hard to come by in the Caribbean growing up, I got my hands on it maybe once or twice as a small child. Probably less, because the game was "too hard for girls," according to my cousins. Needless to say, Nintendo has finally given me a chance to experience this game as a self-aware adult with the Nintendo Switch Online + Expansion Pack.
+
+
+***
+![Urgent Christmas shopping stock warning from Apple to buy iPhone now or miss out](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/11/COMP-KS-IPHONE.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Urgent Christmas shopping stock warning from Apple to buy iPhone now or miss out")
+
+
+[Urgent Christmas shopping stock warning from Apple to buy iPhone now or miss out](https://www.thesun.co.uk/tech/16606571/iphone-13-christmas-shopping-warning/)
+
+
+> APPLE has been spotted warning some customers that they need to "shop early" if they don't want to miss out on a particular iPhone this holiday season. The warning message was spotted on the US version of the Apple website and comes amid reports of supply chain issues and chip shortages. A "shop early" message was spotted on the Apple websiteCredit: Apple Anyone heading to the US Apple website to look at a new iPhone will see the message "Shop early for the best selection of holiday favourites. Shop now".
+
+
+***
+![Marvel's Guardians of the Galaxy is an interstellar adventure that nails it](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/11/Guardians-zz.png?strip=all&quality=100&w=750&h=500&crop=1 "Marvel's Guardians of the Galaxy is an interstellar adventure that nails it")
+
+
+[Marvel's Guardians of the Galaxy is an interstellar adventure that nails it](https://www.thescottishsun.co.uk/tech/7938579/marvels-guardians-of-the-galaxy-review/)
+
+
+> SQUARE Enix had a challenge on their hands with their next Marvel title. They got far more wrong than they did right with Avengers, so the jury was out on their take on Marvel's Guardians Of The Galaxy. Well, fear not, Marvel fans. This is a real contender for GotY. This version of the interstellar heroes isn't based on the movies or the comics, instead taking a new spin. And it is a long way away from what you may be expecting. But they nail it. It's a single-player, story-focused adventure with very few distractions along the way.
+
+
+***
+![Wifi Channel support on iPhone 12 Pro](https://images.macrumors.com/social/?t=2321361&v=6 "Wifi Channel support on iPhone 12 Pro")
+
+
+[Wifi Channel support on iPhone 12 Pro](https://forums.macrumors.com/threads/wifi-channel-support-on-iphone-12-pro.2321361/)
+
+
+> Sep 5, 2020 21 5 Indonesia I cant connect my iPhone 12 Pro and my wife iPhone 12 ProMax to My home wifi 5Ghz ( channel 44 and my carplay looks like using same channel range. ) but my son iphone 11 pro , iPad etc work nicely, so i need to change my wifi channel to 149 then my iphone 12 Pro will see and connect to my router (ubiquiti), for my home wifi is no problem but the problem is my carplay, my iphone will connect the car bluetooth but failed to connect as carplay because it won't connect to car bluetooth.
+
+
