@@ -24859,3 +24859,50 @@
 > If you're trying to do some screen recording or creative work on the road, only the best video editing laptops will keep up. You need more than just the most maxed out or expensive portable for editing. You also have to keep a few specific things in mind when choosing a new machine.That's not to say you don't need a powerful laptop. You do and you'll need one with fast memory and a powerful graphics card. But, the laptop you end up with should also have a display with top-notch color accuracy as well as a resolution that can keep up with your work.
 
 
+***
+![Celltrion shareholders ask management for share buyback](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202111/7f2665c88a764473b7a7ca60dfc41ef7.jpg "Celltrion shareholders ask management for share buyback")
+
+
+[Celltrion shareholders ask management for share buyback](https://www.koreatimes.co.kr/www/tech/2021/11/693_318087.html)
+
+
+> The delayed approval for antiviral COVID-19 treatment Regkinona in the United States and Europe is seen as a negative factor for Celltrion's stock price. Korea Times fileMultiple challenges to affect pharmaceutical giant's stock price By Yi Whan-wooMinority shareholders of Korean pharmaceutical giant Celltrion are asking the company to buy back its own shares, as investors have been continuing a massive sell-off campaign of group stocks due to persisting uncertainties regarding its corporate future.
+
+
+***
+![Samsung SDI's stock on recovery track](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202111/b72fc249084340a7a7d91da6309c977a.jpg "Samsung SDI's stock on recovery track")
+
+
+[Samsung SDI's stock on recovery track](https://www.koreatimes.co.kr/www/tech/2021/11/133_318086.html)
+
+
+> Auto chip shortages to have limited impact on battery makers By Kim Bo-eunSamsung SDI's stock is expected to take a stable upward trajectory in the coming months, based on expectations of its electric vehicle (EV) battery business achieving solid profits this year. A limited impact from the auto chip shortage on the battery maker's profits as well as plans to aggressively expand its battery product lineup are set to have a positive effect on Samsung SDI's stock.The battery company's stock closed at 731,000 won, Tuesday, up 1.
+
+
+***
+![Local bio firms to invest W6.29 tril. to make Korea global vaccine hub](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202111/5c2e8af14fd1406aaf02461a7bd3c22d.jpg "Local bio firms to invest W6.29 tril. to make Korea global vaccine hub")
+
+
+[Local bio firms to invest W6.29 tril. to make Korea global vaccine hub](https://www.koreatimes.co.kr/www/tech/2021/11/693_318084.html)
+
+
+> Prime Minister Kim Boo-kyum, center, speaks during the Global Vaccine Hub Preparatory Committee's meeting in Seoul, Tuesday. YonhapSongdo to become biotech production baseBy Baek Byung-yeulKorea is on course to become a global hub for vaccine production and distribution as the government has vowed to strengthen support for bio firms while local biotech companies promised to invest 6.29 trillion won ($5.3 billion) between now and 2024.The government held a meeting of the Global Vaccine Hub Preparatory Committee, presided over by Prime Minister Kim Boo-kyum, Tuesday.
+
+
+***
+[Know why WhatsApp will stop working on these smartphones](https://www.zeebiz.com/technology/mobiles/news-know-why-whatsapp-will-stop-working-on-these-smartphones-from-november-1-168504)
+
+
+> The reason for the termination of services on these smartphones is that the instant messaging app will no longer support older versions of Android and iOS to ensure that the security of the app and the privacy of users are maintained.
+
+
+***
+![Best free office software in 2021](https://cdn.mos.cms.futurecdn.net/tgy5GmZwbcghpv7oPK9VsY-1200-80.jpg "Best free office software in 2021")
+
+
+[Best free office software in 2021](https://www.techradar.com/best/free-office-software)
+
+
+> The best free office software can offer an alternative office software platform to the more familiar Word, PowerPoint and Excel apps of Microsoft Office.For most users, Microsoft 365 (formerly known as Office 365) remains the original and best office suite, and it takes matters further with an online version that offers cloud backups and mobile use as required. Microsoft Word, Excel, Publisher, Access, Powerpoint, and Outlook still remain key office apps.Microsoft have now extended their 365 brand to Windows, in the form of Windows 365, a way of accessing your files on a majority of devices from the cloud.
+
+
