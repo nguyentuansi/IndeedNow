@@ -24762,3 +24762,53 @@
 > Source: Adam Oram / iMore The overall tablet market has experienced its first decline in the last five quarters. The iPad, however, grew its market share by 4.6%. The iPad just keeps solidifying its place as the go-to tablet in the world. New data from analytics firm IDC shows that, after five quarters of growth that was fueled by remote work and remote learning, the tablet industry is starting to cool off. According to the research, both the Chromebook and tablet market saw their first decline since the pandemic started.
 
 
+***
+![Windows 11被曝未修复上一代Bug：System32路径下存在无数空文件夹](https://static.cnbetacdn.com/thumb/article/2021/1102/95f86ea4e64b3d6.png "Windows 11被曝未修复上一代Bug：System32路径下存在无数空文件夹")
+
+
+[Windows 11被曝未修复上一代Bug：System32路径下存在无数空文件夹](http://www.cnbeta.com/articles/tech/1197775.preview)
+
+
+> GHacks 的 Martin Brinkmann 指出：基于 21H2 开发分支的 Windows 11 操作系统，似乎继承了 Windows 10 时代的一个 Bug —— 在 C:\Windows\System32 的某个路径下，竟然出现了数百上千的空文件夹。一番调查后发现，该问题似乎由名为 ProvTool.exe 的'配置包运行时处理'工具导致，能够无视之直接删除而不会导致任何问题。 截图（来自：GHacks）事实上，Provisioning Package Runtime Processing 工具导致的问题，自 2019 年以来就一直困扰着许多 Windows 10 用户。但没想到的是，它竟然一路延续到了基于 21H2 开发分支的 Windows 11 操作系统上。如果你也对系统文件（夹）的'纯洁性'持有一定的强迫症，还请移步至 C:\Windows\System32\config\systemprofile\AppData\Local 路径下检视一番。 责任编辑：raymon725
+
+
+***
+![WhatsApp rolls out three new features including desktop editor, sticker suggestions and more](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/screenshot_2021-11-02_at_9.03._1200x768-original.png "WhatsApp rolls out three new features including desktop editor, sticker suggestions and more")
+
+
+[WhatsApp rolls out three new features including desktop editor, sticker suggestions and more](https://www.indiatoday.in/technology/news/story/whatsapp-rolls-out-three-new-features-including-desktop-editor-sticker-suggestions-and-more-1872257-2021-11-02)
+
+
+> Ankita Chakravarti New Delhi, Nov 02, 2021, Updated Nov 02, 2021, 9:25 AM IST Story highlights WhatsApp has added three new features to its app. WhatsApp users can edit their images on web as well as the mobile before sending them, users can also get sticker suggestions. The new features will be rolled out soon to users. WhatsApp has added three new features to its app. The Facebook-owned company has announced one new feature for the web version of the app as well as the mobile version whereas two new features have been launched for the mobile app.
+
+
+***
+!['Unlikely the company will change if Mark Zuckerberg remains CEO': Whistleblower Frances Haugen](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/zukku-bhaiya-sixteen_nine.jpg "'Unlikely the company will change if Mark Zuckerberg remains CEO': Whistleblower Frances Haugen")
+
+
+['Unlikely the company will change if Mark Zuckerberg remains CEO': Whistleblower Frances Haugen](https://www.businesstoday.in/technology/news/story/unlikely-the-company-will-change-if-mark-zuckerberg-remains-ceo-whistleblower-frances-haugen-311084-2021-11-02)
+
+
+> In her first public address since she leaked a trove of damaging documents about Facebook's inner workings, whistleblower Frances Haugen urged her former boss, Mark Zuckerberg, to step down and allow change rather than devoting resources to a rebrand. "I think it is unlikely the company will change if [Mark Zuckerberg] remains the CEO," Haugen told a packed arena on Monday at the opening night of the Web Summit, a tech fest drawing dozens of thousands to the Portuguese capital, Lisbon. The former Facebook product manager replied in the positive to the question of whether Zuckerberg should resign, and added: "Maybe it's a chance for someone else to take the reins… Facebook would be stronger with someone who was willing to focus on safety.
+
+
+***
+![How China's new data privacy law impacts global firms?](https://www.thehindu.com/sci-tech/technology/tbm48/article37231912.ece/ALTERNATES/LANDSCAPE_615/chinainterjpg "How China's new data privacy law impacts global firms?")
+
+
+[How China's new data privacy law impacts global firms?](https://www.thehindu.com/sci-tech/technology/todays-cache-newsletter/article37296854.ece)
+
+
+> China's personal data protection law came into effect on November 1. In the past 12 months, China has been coming down heavily on businesses that store or process its citizens' data. After two rounds of draft versions, the Standing Committee of the National People's Congress passed the country's personal data protection law in August.The law comes into effect on November 1, and could significantly increase the burden and cost of data privacy compliance for organisations operating in China.  Dubbed as China's version of EU's General Data Protection Regulation (GDPR), the Personal Information Protection Law (PIPL) mandates companies to obtain consent from people for collecting, storing, processing, and transferring their personal data.
+
+
+***
+![Trend Micro blocks 41 billion cyber threats in the first half of 2021, resulting in an increase in attacks. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/trend-micro-1.jpg "Trend Micro blocks 41 billion cyber threats in the first half of 2021, resulting in an increase in attacks. » Brinkwire")
+
+
+[Trend Micro blocks 41 billion cyber threats in the first half of 2021, resulting in an increase in attacks. » Brinkwire](https://en.brinkwire.com/technology/trend-micro-blocks-41-billion-cyber-threats-in-the-first-half-of-2021-resulting-in-an-increase-in-attacks/)
+
+
+> Trend Micro blocks 41 billion cyber threats in the first half of 2021, resulting in an increase in attacks. Trend Micro Incorporated (TYO: 4704; TSE: 4704), the world's leading cybersecurity company, reported that in the first half of 2021, it stopped 40.9 billion email threats, harmful files, and malicious URLs for its clients throughout the world, an increase of 47% year over year. In India, the business detected and banned 1,11,028 spam emails, harmful URLs, and malware during this time period.
+
+
