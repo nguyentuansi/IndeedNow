@@ -24812,3 +24812,50 @@
 > Trend Micro blocks 41 billion cyber threats in the first half of 2021, resulting in an increase in attacks. Trend Micro Incorporated (TYO: 4704; TSE: 4704), the world's leading cybersecurity company, reported that in the first half of 2021, it stopped 40.9 billion email threats, harmful files, and malicious URLs for its clients throughout the world, an increase of 47% year over year. In India, the business detected and banned 1,11,028 spam emails, harmful URLs, and malware during this time period.
 
 
+***
+[WhatsApp bans over 20 lakh Indian accounts: Here's all you need to know](https://www.zeebiz.com/technology/apps/news-whatsapp-bans-over-20-lakh-indian-accounts-heres-all-you-need-to-know-169647)
+
+
+> To create a new WhatsApp account, they said user will need to get a new phone number and then create a new account.
+
+
+***
+![Redmi Note 11 5G Tipped to Launch in India as Redmi Note 11T 5G](https://i.gadgets360cdn.com/large/redmi_note_11_series_xiaomi_mi_blog_1635832266257.jpg "Redmi Note 11 5G Tipped to Launch in India as Redmi Note 11T 5G")
+
+
+[Redmi Note 11 5G Tipped to Launch in India as Redmi Note 11T 5G](https://gadgets.ndtv.com/mobiles/news/redmi-note-11-11t-5g-india-launch-rebrand-xiaomi-tipped-2596645)
+
+
+> Redmi Note 11 series is reportedly gearing up to make its debut in India in the coming months. Ahead of an official confirmation from Xiaomi, Redmi Note 11 Pro and Redmi Note 11 Pro+ models were tipped to arrive in the country. Now, a new leak suggests that the vanilla Redmi Note 11 will be launched in India as Redmi Note 11T 5G. All three new Redmi 11 series smartphones — Redmi Note 11 5G, Redmi Note 11 Pro, and Redmi Note 11 Pro+ — were launched in China recently.According to tipster Kacper Skrzypek (@kacskrz), Xiaomi will unveil Redmi Note 11 5G in India as Redmi Note 11T 5G.
+
+
+***
+![Apple is about to upgrade its loaner iPhone for customers](https://icdn.digitaltrends.com/image/digitaltrends/iphone-xr-review-back-in-hand.jpg "Apple is about to upgrade its loaner iPhone for customers")
+
+
+[Apple is about to upgrade its loaner iPhone for customers](https://www.digitaltrends.com/mobile/apple-is-about-to-upgrade-its-loaner-iphone-for-customers/)
+
+
+> Apple is about to upgrade the loaner phone that it hands out when your iPhone needs to be sent away for repair. And as you might expect, it's an improvement on the current device that it lends to customers. At the current time, the tech giant gives out an iPhone 8, which launched in 2017 and sports the same physical design first seen with the iPhone 6. But according to an internal memo seen by MacRumors, from Thursday customers in the U.S. 'and other regions' will be lent an iPhone XR, a 2018 device that sports a larger, all-screen display, and, unlike the iPhone 8, includes Face ID.
+
+
+***
+![Scammers Execute Classic Rug-Pull on SQUID Token, Vanishing With Millions](https://i.gadgets360cdn.com/large/squid_game_reuters_1633338813031.jpg "Scammers Execute Classic Rug-Pull on SQUID Token, Vanishing With Millions")
+
+
+[Scammers Execute Classic Rug-Pull on SQUID Token, Vanishing With Millions](https://gadgets.ndtv.com/cryptocurrency/news/squid-game-crypto-token-crashes-99-percent-scammers-vanish-usd-3-million-2596607)
+
+
+> Following the success of South Korean survival drama series Squid Game, a cryptocurrency called the 'Squidgame Cash' or 'SQUID,' dedicated to the mini television series made it into the crypto-pool. The value of this token nosedived by 99.99 percent in recent hours after SQUID creators managed to stunt out a classic 'rug pull'. That's a scam where developers abandon the project and dupe investors off their money. The crypto-coin had registered a 300 percent value growth on October 30, but lost its value from $2,800 (Rs.
+
+
+***
+![Best video editing laptops of 2021](https://cdn.mos.cms.futurecdn.net/4HojqPLDrP3Fg7jUFK6U3W-1200-80.jpg "Best video editing laptops of 2021")
+
+
+[Best video editing laptops of 2021](https://www.techradar.com/news/best-laptops-for-video-editing)
+
+
+> If you're trying to do some screen recording or creative work on the road, only the best video editing laptops will keep up. You need more than just the most maxed out or expensive portable for editing. You also have to keep a few specific things in mind when choosing a new machine.That's not to say you don't need a powerful laptop. You do and you'll need one with fast memory and a powerful graphics card. But, the laptop you end up with should also have a display with top-notch color accuracy as well as a resolution that can keep up with your work.
+
+
