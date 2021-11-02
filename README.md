@@ -24906,3 +24906,50 @@
 > The best free office software can offer an alternative office software platform to the more familiar Word, PowerPoint and Excel apps of Microsoft Office.For most users, Microsoft 365 (formerly known as Office 365) remains the original and best office suite, and it takes matters further with an online version that offers cloud backups and mobile use as required. Microsoft Word, Excel, Publisher, Access, Powerpoint, and Outlook still remain key office apps.Microsoft have now extended their 365 brand to Windows, in the form of Windows 365, a way of accessing your files on a majority of devices from the cloud.
 
 
+***
+![Early Black Friday deal: best headphones of 2021 return to their lowest price](https://cdn.mos.cms.futurecdn.net/xxm6uAy6BxAYAnd7e2ykTj-1200-80.jpg "Early Black Friday deal: best headphones of 2021 return to their lowest price")
+
+
+[Early Black Friday deal: best headphones of 2021 return to their lowest price](https://www.techradar.com/news/early-black-friday-deal-best-headphones-of-2021-return-to-their-lowest-price)
+
+
+> (Image credit: Future) Black Friday may be a few weeks away, but we're already seeing some fantastic deals on Sony headphones in the run up to the big day – including the Sony WH-1000XM4 returning to their lowest ever price in the US. (Not in the US? Scroll down for the best Sony headphones deals in your region.)Our pick for the best headphones you can buy in 2021, the Sony WH-1000XM4 have been slashed from $349.99 to $248, saving you over $101 on these noise-cancelling cans.While it's possible that the Black Friday headphones deals will get even better and retailers will further cut the price of these Sony noise-cancellers, we'd recommend snapping them up if you're sure these are the headphones you want.
+
+
+***
+[Sources: Nintendo will only be able to produce ~24M units of Switch game console in FY 2021 due to chip shortages, 20% below its original plan of 30M (Nikkei Asia)](http://www.techmeme.com/211102/p14#a211102p14)
+
+
+> Nikkei Asia: Sources: Nintendo will only be able to produce ~24M units of Switch game console in FY 2021 due to chip shortages, 20% below its original plan of 30M — Production revised down to 24 million units for fiscal 2021 despite high demand — OSAKA — Nintendo will only be able to produce …
+
+
+***
+![iPhone XR is Apple's next replacement handset for longer repairs](https://cdn.mos.cms.futurecdn.net/79HBatx7aYwwaCv7AgJLb7-1200-80.jpg "iPhone XR is Apple's next replacement handset for longer repairs")
+
+
+[iPhone XR is Apple's next replacement handset for longer repairs](https://www.techradar.com/news/iphone-xr-is-apples-next-replacement-handset-for-longer-repairs)
+
+
+> (Image credit: TechRadar) Apple's iPhone XR from 2018 will soon be offered as a replacement when you're getting lengthier repairs to your smartphone.Until now, the company has been offering the iPhone 8 in these situations, so this is an upgrade for when the Apple staff are tinkering with your handset to fix any issues you may have.This information comes from an internal memo that was seen by MacRumors. It says it'll be for those getting repairs at an Apple Store or from an Apple Authorized Service Provider.
+
+
+***
+![Samsung Galaxy S21 FE shown off in photos](https://cdn.mos.cms.futurecdn.net/XSr4oUYG8nvYJ5DN7ToNVH-1200-80.jpg "Samsung Galaxy S21 FE shown off in photos")
+
+
+[Samsung Galaxy S21 FE shown off in photos](https://www.techradar.com/news/samsung-galaxy-s21-fe-shown-off-in-photos)
+
+
+> The Samsung Galaxy S20 FE (Image credit: Srivatsa Ramesh) The Samsung Galaxy S21 FE has leaked a lot, but until now we'd only seen renders of the phone. Now though, we might have seen photos – or at least photos of parts of it.Leaker Roland Quandt shared images on Twitter that appear to be photos of the back cover of the Galaxy S21 FE, and of parts of the inside.While the inside doesn't reveal much, the outer shell does, showing off a triple-lens camera in a similar camera block to the rest of the Samsung Galaxy S21 range.
+
+
+***
+![Doctor Strange 2's villain has been leaked – by a jigsaw puzzle](https://cdn.mos.cms.futurecdn.net/7tPFd6Fcbma5oR8xXzFft4-1200-80.jpg "Doctor Strange 2's villain has been leaked – by a jigsaw puzzle")
+
+
+[Doctor Strange 2's villain has been leaked – by a jigsaw puzzle](https://www.techradar.com/news/doctor-strange-2s-villain-has-been-leaked-by-a-jigsaw-puzzle)
+
+
+> (Image credit: Disney/Marvel Studios) Potential spoilers follow for Doctor Strange in the Multiverse of Madness.Doctor Strange 2's primary villain has been leaked ahead of release – by an officially licensed piece of merchandise.The upcoming MCU movie is one of the most secretive Marvel productions to date, with little in the way of leaks or unconfirmed reveals making their way online. That appears to have changed now, though, after an adult jigsaw puzzle inadvertently confirmed the film's major antagonist.
+
+
