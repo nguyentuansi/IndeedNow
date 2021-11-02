@@ -25053,3 +25053,40 @@
 > Shares of crypto-related stocks, including MicroStrategy Incorporated (NASDAQ: MSTR) are trading higher amid an increase in the price of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). Bitcoin is trading about 4.1% higher at around $64,165 Tuesday morning. Ethereum is trading about 4% higher at around $4,515 Tuesday morning. MicroStrategy Incorporated provides enterprise analytics software and services worldwide. It offers MicroStrategy 2021, an enterprise platform, which provides a modern analytics experience by delivering insights across multiple devices to users.
 
 
+***
+![Call of Duty, Skyrim, and more releases for PS4 and PS5 in November](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/10/playstation-4-pro-hero.jpg "Call of Duty, Skyrim, and more releases for PS4 and PS5 in November")
+
+
+[Call of Duty, Skyrim, and more releases for PS4 and PS5 in November](https://www.androidcentral.com/every-playstation-4-game-coming-out-month)
+
+
+> New and exciting PS4 releases seem to come out each month, giving dedicated gamers plenty of worlds to choose from. With the PS5 officially here, fans now keep track of multiple new releases and updates more than ever. Fortunately, we've gathered all of the best titles and listed other worthy games for you to consider adding to your collection. Here are all the PS4 and PS5 releases to look out for in November. Staff Pick Another year, another Call of Duty is ready to release its latest entry in the long-running series.
+
+
+***
+[AUDJPY is the biggest mover today](https://www.forexlive.com/technical-analysis/!/audjpy-is-the-biggest-mover-today-20211102)
+
+
+> Down -1.40% on the day The AUD is the weakest of the majors today. The JPY is the strongest, and that makes the AUDJPY the biggest mover. The AUDJPY has moved lower by -1.40% on the day.  
+
+
+***
+![Pack up your quills, Harry Potter: Wizards Unite is shutting down](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/07/harry-potter-wizards-unite-sos-training-hero.jpg "Pack up your quills, Harry Potter: Wizards Unite is shutting down")
+
+
+[Pack up your quills, Harry Potter: Wizards Unite is shutting down](https://www.imore.com/harry-potter-wizards-unite-shutting-down-january)
+
+
+> Source: Niantic Fans of Harry Potter: Wizards Unite will have to find another place to practice witchcraft and wizardry, as the game is set to shut down. This mobile game was developed by Niantic, the development team behind the mobile gaming juggernaut that is Pokémon GO. Harry Potter: Wizards Unite will officially close on January 31, 2022 and will be removed from app stores on December 6, 2021. Join us to put an end to the Calamity. More details here: https://t.co/WQwWkgepVv pic.twitter.com/Su2odByNcd— Harry Potter: Wizards Unite (@HPWizardsUnite) November 2, 2021 Unfortunately, Harry Potter: Wizards Unite failed to put a charming spell on general audiences in the same way that Pokémon GO did.
+
+
+***
+![Meta says it's shutting down the Facebook facial recognition system](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/10/meta-facebook-page-brands.jpg "Meta says it's shutting down the Facebook facial recognition system")
+
+
+[Meta says it's shutting down the Facebook facial recognition system](https://www.androidcentral.com/meta-says-its-shutting-down-facebook-facial-recognition-system)
+
+
+> Source: Alex Dobie / Android Central Facebook's facial recognition system is being shut down and its associated data deleted. Meta says that a third of its users previously opted-in to having their face be automatically recognized for photo tagging, totaling over one billion recognized faces. This move will affect automatic alt text entries, which automatically created image descriptions for blind and visually-impaired people. Meta says it will be shutting down the long-held facial recognition system on its Facebook social platform "in the coming weeks," according to a blog post by Jerome Pesenti, VP of artificial intelligence at Meta.
+
+
