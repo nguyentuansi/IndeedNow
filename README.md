@@ -25003,3 +25003,53 @@
 > Sep 5, 2020 21 5 Indonesia I cant connect my iPhone 12 Pro and my wife iPhone 12 ProMax to My home wifi 5Ghz ( channel 44 and my carplay looks like using same channel range. ) but my son iphone 11 pro , iPad etc work nicely, so i need to change my wifi channel to 149 then my iphone 12 Pro will see and connect to my router (ubiquiti), for my home wifi is no problem but the problem is my carplay, my iphone will connect the car bluetooth but failed to connect as carplay because it won't connect to car bluetooth.
 
 
+***
+![XS Financial Raises $43.5M For Cannabis Equipment & Growing Pipeline Of Nationwide Operators](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/pexels-tima-miroshnichenko-6693646.jpg?width=720 "XS Financial Raises $43.5M For Cannabis Equipment & Growing Pipeline Of Nationwide Operators")
+
+
+[XS Financial Raises $43.5M For Cannabis Equipment & Growing Pipeline Of Nationwide Operators](https://www.benzinga.com/markets/cannabis/21/11/23821936/xs-financial-raises-43-5m-for-cannabis-equipment-growing-pipeline-of-nationwide-operators)
+
+
+> Cannabis-focused specialty finance company XS Financial Inc. (CSE:XSF) has raised $43.5 million via its previously announced private placement of unsecured convertible notes. Transaction Details Based in Los Angeles, the company said Monday that it has closed the transaction. In addition, $33.5 will be funded at closing and $10 million is available on a delayed draw on the same terms until June 30, 2022. The notes will mature two years following the closing date of the offering, subject to a one-year extension at the option of the company upon providing at least 30 days prior notice and issuing additional notes to the holders on a pro-rata basis in an aggregate principal amount equal to 1% of the aggregate principal amount of notes outstanding as of the date of the extension notice.
+
+
+***
+![51 Stocks Moving In Tuesday's Mid-Day Session](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2012/mid-day_movers_image_49.jpg "51 Stocks Moving In Tuesday's Mid-Day Session")
+
+
+[51 Stocks Moving In Tuesday's Mid-Day Session](https://www.benzinga.com/news/21/11/23830492/51-stocks-moving-in-tuesdays-mid-day-session)
+
+
+> Mid-Morning Market Update: Markets Edge Higher; Pfizer Boosts FY21 Outlook 24 Stocks Moving in Tuesday's Pre-Market Session 64 Biggest Movers From Yesterday Mid-Day Market Update: Dow Rises 50 Points; ANI Pharmaceuticals Shares Jump 40 Stocks Moving In Monday's Mid-Day Session What's Going On With ABVC BioPharma's Stock Today?
+
+
+***
+![Man United's interest in the costly Antonio Conte has waned as Ole Gunnar Solskjaer has been given a lifeline. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/0_gettyimages-1318165798.jpg "Man United's interest in the costly Antonio Conte has waned as Ole Gunnar Solskjaer has been given a lifeline. » Brinkwire")
+
+
+[Man United's interest in the costly Antonio Conte has waned as Ole Gunnar Solskjaer has been given a lifeline. » Brinkwire](https://en.brinkwire.com/news/man-uniteds-interest-in-the-costly-antonio-conte-has-waned-as-ole-gunnar-solskjaer-has-been-given-a-lifeline/)
+
+
+> Man United's interest in the costly Antonio Conte has waned as Ole Gunnar Solskjaer has been given a lifeline. EXCLUSIVE: Ole Gunnar Solskjaer's future at Manchester United appeared to be on a knife's edge, but Antonio Conte, the former choice to succeed him, has dropped off the Red Devils' radar. Manchester United's interest in Antonio Conte as a prospective successor to Ole Gunnar Solskjaer is dwindling. Following last weekend's crushing home defeat to arch rivals Liverpool, Solskjaer has been left hanging to his job.
+
+
+***
+![Incyte Stock Falls Despite Q3 Earnings Beat Street View](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2012/aapharma_2345.png "Incyte Stock Falls Despite Q3 Earnings Beat Street View")
+
+
+[Incyte Stock Falls Despite Q3 Earnings Beat Street View](https://www.benzinga.com/general/biotech/21/11/23828080/incyte-stock-falls-despite-q3-earnings-beat-street-view)
+
+
+> A Peek Into The Markets: US Stock Futures Edge Lower; Fed Meeting In Focus
+
+
+***
+![Why Bitcoin-Related Stock MicroStrategy Is Rising Today](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/screen_shot_2021-10-05_at_10.26.40_am_46.png "Why Bitcoin-Related Stock MicroStrategy Is Rising Today")
+
+
+[Why Bitcoin-Related Stock MicroStrategy Is Rising Today](https://www.benzinga.com/news/21/11/23830452/why-bitcoin-related-stock-microstrategy-is-rising-today)
+
+
+> Shares of crypto-related stocks, including MicroStrategy Incorporated (NASDAQ: MSTR) are trading higher amid an increase in the price of Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH). Bitcoin is trading about 4.1% higher at around $64,165 Tuesday morning. Ethereum is trading about 4% higher at around $4,515 Tuesday morning. MicroStrategy Incorporated provides enterprise analytics software and services worldwide. It offers MicroStrategy 2021, an enterprise platform, which provides a modern analytics experience by delivering insights across multiple devices to users.
+
+
