@@ -24718,3 +24718,47 @@
 > If you’re looking for a great pair of high-end headphones, this deal is for you. Sony’s excellent WH-1000XM4 headphones are currently on sale for $348 on Amazon ($151.99/30 percent off). As of right now, all three colours, including ‘Black,’ ‘Blue’ and ‘Silver’ are still in stock and on sale at the online retailer. Sony’s 1000-XM4 […]
 
 
+***
+![Tesla starts opening up its Supercharger network to other EVs](https://icdn.digitaltrends.com/image/digitaltrends/tesla-supercharger-in-katowice-poland.jpg "Tesla starts opening up its Supercharger network to other EVs")
+
+
+[Tesla starts opening up its Supercharger network to other EVs](https://www.digitaltrends.com/cars/tesla-starts-opening-its-supercharger-network-to-other-evs/)
+
+
+> Tesla has started to open up its Supercharger network to non-Tesla electric vehicles (EVs). Tesla chief Elon Musk promised in July that the automaker would begin the process before the end of this year. NurPhoto/Getty Images For now, however, only 10 Supercharger locations are available to drivers of non-Tesla EVs — and all of the stations are in the Netherlands. The automaker said it's starting with a limited number of sites so that it can 'review the experience, monitor congestion, and assess feedback' from both Tesla and non-Tesla drivers.
+
+
+***
+[人身安全功能更進一步，遭遇車禍 iPhone 將會自動幫你報案](https://technews.tw/2021/11/02/iphone-crash-detection/)
+
+
+> 如果你是 Apple Watch Series 4 或後續機型的使用者就會知道，在這些機款當中都搭載了「跌倒偵 […]
+
+
+***
+![Instagram's new 'Add Yours' Stories sticker wants to encourage public discussions](https://cdn.mos.cms.futurecdn.net/EBgyL8ja2br826xooteEhd-1200-80.jpg "Instagram's new 'Add Yours' Stories sticker wants to encourage public discussions")
+
+
+[Instagram's new 'Add Yours' Stories sticker wants to encourage public discussions](https://www.techradar.com/news/instagrams-new-add-yours-stories-sticker-wants-to-encourage-public-discussions)
+
+
+> (Image credit: Instagram) Instagram is rolling out a new sticker in Stories called 'Add Yours', which will allow users to participate in public threads on the platform.In Instagram's tweet about the new feature, we can see an account using Add Yours to show their 'Outfit of the Day'. Tapping the sticker lets you see who has responded to the Add Yours prompt, and the responses to the Story are publicly visible.You can join the chain simply by clicking the 'Add Yours' button and uploading your own story in response.
+
+
+***
+[Kuaishou's CEO Su Hua is stepping down, will remain chairman of the short-form video company; fellow co-founder Cheng Yixiao will be the new CEO (Zheping Huang/Bloomberg)](http://www.techmeme.com/211101/p24#a211101p24)
+
+
+> Zheping Huang / Bloomberg: Kuaishou's CEO Su Hua is stepping down, will remain chairman of the short-form video company; fellow co-founder Cheng Yixiao will be the new CEO — - Billionaire Su Hua cedes CEO role to co-founder Cheng Yixiao — Su will focus on long-term strategy at the TikTok rival
+
+
+***
+![iPad market share continues to grow while overall tablet market declines](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/ipad-mini-6-review-hero.jpeg "iPad market share continues to grow while overall tablet market declines")
+
+
+[iPad market share continues to grow while overall tablet market declines](https://www.imore.com/ipad-market-share-continues-grow-overall-tablet-market-declines)
+
+
+> Source: Adam Oram / iMore The overall tablet market has experienced its first decline in the last five quarters. The iPad, however, grew its market share by 4.6%. The iPad just keeps solidifying its place as the go-to tablet in the world. New data from analytics firm IDC shows that, after five quarters of growth that was fueled by remote work and remote learning, the tablet industry is starting to cool off. According to the research, both the Chromebook and tablet market saw their first decline since the pandemic started.
+
+
