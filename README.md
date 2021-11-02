@@ -25137,3 +25137,53 @@
 > (Image credit: FromSoftware) Despite rumors of a Bloodborne port coming to PC, it's unfortunately never been officially revealed. But, thanks to a dedicated and talented team of developers, we'll now have a PS1 demake style of the game.Bloodborne PSX is a 'demake' of the original PS4 title, reimagined in the graphical style of a PlayStation X game. It won't cover the entire game, but the devs will at least cover the Father Gascoigne fight and possibly even up to Vicar Amelia.This particular demake also isn't interested in recreating Bloodborne perfectly but will instead feature alterations to map design, mechanics, and dialogue.
 
 
+***
+![How Amazon, Microsoft Gained Out Of Roblox's Outage?](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2012/abtech_2411.png "How Amazon, Microsoft Gained Out Of Roblox's Outage?")
+
+
+[How Amazon, Microsoft Gained Out Of Roblox's Outage?](https://www.benzinga.com/news/21/11/23834172/how-amazon-microsoft-gained-out-of-robloxs-outage)
+
+
+> Looking At Roblox's Recent Whale Trades Benzinga's Top Ratings Upgrades, Downgrades For October 27, 2021 Thinking About Buying Stock In Tesla, Skillz, Roblox Or Zynga? 9 Communication Services Stocks Whale Activity In Today's Session
+
+
+***
+![Every Dog Has Its Day! Why Dogecoin Traders May Be In For A Treat](https://cdn2.benzinga.com/files/imagecache/600x400xUP/images/story/2012/dogecoin._jasdacstockholm.flirckrpublicdomain.png?width=720 "Every Dog Has Its Day! Why Dogecoin Traders May Be In For A Treat")
+
+
+[Every Dog Has Its Day! Why Dogecoin Traders May Be In For A Treat](https://www.benzinga.com/markets/cryptocurrency/21/11/23837788/every-dog-has-its-day-why-dogecoin-traders-may-be-in-for-a-treat)
+
+
+> Dogecoin (CRYPTO: DOGE) was trading flat on Tuesday and lagging behind Bitcoin (CRYPTO: BTC), which broke up bullishly from a descending trendline, and Ethereum (CRYPTO: ETH), which reached a new all-time high of $4,524.20. The crypto space may have fallen back into its usual cycle where money funnels from the larger cryptos to the alt-coins and vice-versa, although the speed of the cycles seems to have picked up recently. Things may be shifting slightly in the Dogecoin community because popular fintwit personality and Dogecoin enthusiast @greg16676935420 posted a letter to the 'Dogecoin Family' on Twitter Inc (NYSE:TWTR) announcing the end of his term as 'fake Doge CEO.
+
+
+***
+![Why Did NetScout Systems Shares Gained 13% Today?](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/abtech_2410.png "Why Did NetScout Systems Shares Gained 13% Today?")
+
+
+[Why Did NetScout Systems Shares Gained 13% Today?](https://www.benzinga.com/news/21/11/23830517/why-did-netscout-systems-shares-gained-13-today)
+
+
+> NetScout Systems Inc (NASDAQ: NTCT) will replace Invacare Corp (NYSE: IVC) in the S&P SmallCap 600 effective before the opening of trading on October 4. Kyndryl Holdings Inc (NYSE: KD) will replace NetScout in the S&P MidCap 400. S&P 500 and 100 constituent International Business Machines Corp (NYSE: IBM) is spinning off Kyndryl Holdings in a transaction likely to be completed on November 4. NetScout announced the availability of Omnis Cyber Intelligence (OCI), a network security software solution built on the foundation of the industry's most prominent network monitoring and packet recording and analysis technology.
+
+
+***
+![IPG Shares Gain After Q3 Revenue Growth, Cautious Q4 Outlook](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/abtech_2409.png "IPG Shares Gain After Q3 Revenue Growth, Cautious Q4 Outlook")
+
+
+[IPG Shares Gain After Q3 Revenue Growth, Cautious Q4 Outlook](https://www.benzinga.com/news/earnings/21/11/23826523/ipg-shares-gain-after-q3-revenue-growth-cautious-q4-outlook)
+
+
+> IPG Photonics Corp (NASDAQ: IPGP) reported third-quarter FY21 revenue growth of 19% year-on-year to $379.2 million, beating the consensus of $368.3 million. The gross margin expanded by 100 bps to 49%. The operating margin expanded by 1,390 bps to 26.9%. EPS of $1.40 beat the consensus of $1.27. It held $1.5 billion in cash and equivalents. The company generated $305.2 million in operating cash flow during the nine months ended September 30. Growth in demand in welding applications across most geographies and higher revenue in cutting in North America and Europe, as well as emerging products and applications, such as foil cutting, cleaning, 3D printing, drilling, medical and solar cell applications, drove strong revenue in the quarter, despite significantly softer demand in cutting applications in China.
+
+
+***
+![What Are 'Precise' & 'Approximate' Location On Android 12?](https://www.androidheadlines.com/wp-content/uploads/2021/11/What-are-precise-approximate-location-in-Android-12-DG-AH-2021.jpg "What Are 'Precise' & 'Approximate' Location On Android 12?")
+
+
+[What Are 'Precise' & 'Approximate' Location On Android 12?](https://www.androidheadlines.com/what-how-precise-approximate-location-on-android-12.html)
+
+
+> Android 12 brings some serious changes both to the UI and in terms of features but one of the biggest may be in changes to precise and approximate location data handling. Or, put more simply, the added ability to set the precision on a per-app basis. The new change added to the existing prompt-based settings and location permission management is a bigger one than many might fully grasp.Defining 'Precise' and 'Approximate' location access in Android 12Now, Google's decision to make these settings available on a per-app basis comes with fairly straightforward reasoning.
+
+
