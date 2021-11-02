@@ -24671,3 +24671,50 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. So I recently bought the new 16in MacBook Pro, and while moving some stuff around I held it upside down (opening facing me) in one hand for 10-15 seconds before placing it down. I didn't think much of it at the time, but would doing something like this cause damage to the screen? It's my first ever MacBook so I'm kinda nervous is all 😅 You must log in or register to reply here.
 
 
+***
+![Fortnite is shutting down in China](https://venturebeat.com/wp-content/uploads/2021/11/fortnite.jpg?w=1200&strip=all "Fortnite is shutting down in China")
+
+
+[Fortnite is shutting down in China](https://venturebeat.com/2021/11/01/fortnite-is-shutting-down-in-china/)
+
+
+> Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next.  After more than two years of testing, Fortnite is shutting down in China on November 15. The game never officially launched in that territory and was intentionally missing features such as in app purchases. 'The battle royale genre has been strictly regulated in China,' says Daniel Ahmad on Twitter. 'The domestic games that are approved there have heavy content changes.' China has strict guidelines for video games, banning things like visible blood and dead bodies.
+
+
+***
+![Leaked Lenovo ThinkBook Plus reveals dual screen with stylus support](https://cdn.mos.cms.futurecdn.net/s24D2FpuuQidvg53MoFqoV-1200-80.jpg "Leaked Lenovo ThinkBook Plus reveals dual screen with stylus support")
+
+
+[Leaked Lenovo ThinkBook Plus reveals dual screen with stylus support](https://www.techradar.com/news/leaked-lenovo-thinkbook-plus-reveals-dual-screen-with-stylus-support)
+
+
+> The Lenovo ThinkBook Plus launched at CES 2020 (Image credit: Lenovo) A rather unusual-looking Lenovo laptop was leaked over the weekend. Coming to us via reliable and prolific gadget leaker Evan Blass on Twitter, the laptop is reportedly part of the ThinkBook range and will sport a 17-inch screen... along with a smaller display where a number pad would normally be on a keyboard.A stylus strategically placed on the smaller screen implies it will likely be a touchscreen, allowing users to write, draw or doodle as necessary.
+
+
+***
+![‘Doing Blackface yourself as a way to mock him is still racist': Man wearing ‘Trudeau black face' costume sparks outrage on TikTok](https://uploads.dailydot.com/2021/11/trudeau-blackface-tiktok-costume.jpg?auto=compress%2Cformat&ixlib=php-3.3.0 "‘Doing Blackface yourself as a way to mock him is still racist': Man wearing ‘Trudeau black face' costume sparks outrage on TikTok")
+
+
+[‘Doing Blackface yourself as a way to mock him is still racist': Man wearing ‘Trudeau black face' costume sparks outrage on TikTok](https://www.dailydot.com/irl/man-blackface-justin-trudeau-costume-tiktok/)
+
+
+> In a viral TikTok, user @ciroc0 called out a white man wearing blackface, allegedly to mimic Canadian Prime Minister Justin Trudeau who has received backlash over blackface and brownface in the past. The TikToker captioned the post, 'Y'all recognize this [clown emoji] that decided to dress as Trudeau black face on Halloween.' His video has over 485,900 views and 26,000 likes since posting Friday. https://www.tiktok.com/@ciroc0/video/7024565526097644806?_d=secCgYIASAHKAESPgo8ZWr%2Fl6XH9OXmF7PknPxc09oqkt5ubDzh%2FqYNw2tPuDybG35NoiXd22OdFHq5x8oPKVBz5W3Rkr2zFWweGgA%3D&checksum=f864af0fe67061895c9c2d210658da2c8b40177e09368f61765b56541ad2080a&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAAiGlf5kWR_bkxL4NUswUaYEFrTSSkvho1LfvuPiIolI90cGbjDI8lhaNk_qvK12p4&share_app_id=1233&share_item_id=7024565526097644806&share_link_id=B3156084-4B7A-4982-A1D5-F2950CAC0224&source=h5_m×tamp=1635796088&tt_from=copy&u_code=dbgcc799lddb6h&user_id=6809297842311037958&utm_campaign=client_share&utm_medium=ios&utm_source=copy&_r=1&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=7006320911265039878 The TikToker's video shows a white male at a party with his face blackened while wearing an orange bandana, a scarf, and a lei.
+
+
+***
+![iPhones and Apple Watches could be getting car crash detection, report claims](https://cdn.mos.cms.futurecdn.net/NXg4LABXaUmmUGFQuu48qM-1200-80.jpeg "iPhones and Apple Watches could be getting car crash detection, report claims")
+
+
+[iPhones and Apple Watches could be getting car crash detection, report claims](https://www.techradar.com/news/iphones-and-apple-watches-could-be-getting-car-crash-detection-report-claims)
+
+
+> (Image credit: TechRadar) Two years ago, Google's Pixel 4 range introduced a safety feature in the US, UK and Australia that detected if the user was in a car crash and automatically dialed emergency services, and now a report suggests Apple could be following suit.According to material seen by The Wall Street Journal and "people familiar with the feature", Apple plans to roll out crash detection to its iPhone and Apple Watch devices in 2022.We suspect that Apple's implementation will be much the same as the Android version, which works via Google's Personal Safety app and uses the device's accelerometer and other sensors to detect if an accident has occurred.
+
+
+***
+[Sony's WH-1000XM4 headphones are $159 off on Amazon](https://mobilesyrup.com/2021/11/01/sony-wh-1000xm4-headphones-159-off-amazon-best-buy/?utm_source=rss&utm_medium=rss&utm_campaign=sony-wh-1000xm4-headphones-159-off-amazon-best-buy)
+
+
+> If you’re looking for a great pair of high-end headphones, this deal is for you. Sony’s excellent WH-1000XM4 headphones are currently on sale for $348 on Amazon ($151.99/30 percent off). As of right now, all three colours, including ‘Black,’ ‘Blue’ and ‘Silver’ are still in stock and on sale at the online retailer. Sony’s 1000-XM4 […]
+
+
