@@ -25090,3 +25090,50 @@
 > Source: Alex Dobie / Android Central Facebook's facial recognition system is being shut down and its associated data deleted. Meta says that a third of its users previously opted-in to having their face be automatically recognized for photo tagging, totaling over one billion recognized faces. This move will affect automatic alt text entries, which automatically created image descriptions for blind and visually-impaired people. Meta says it will be shutting down the long-held facial recognition system on its Facebook social platform "in the coming weeks," according to a blog post by Jerome Pesenti, VP of artificial intelligence at Meta.
 
 
+***
+![The best refurbished MacBook deals and sales for November 2021](https://icdn.digitaltrends.com/image/digitaltrends/macbook-air-macbook-pro-m1.jpg "The best refurbished MacBook deals and sales for November 2021")
+
+
+[The best refurbished MacBook deals and sales for November 2021](https://www.digitaltrends.com/dtdeals/best-refurbished-macbook-deals-and-sales/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Let's face it: Being an Apple fan isn't a cheap hobby. That's doubly true if, like us, you love Mac computers, but if you can't live without your trusty MacBook and you're shopping on a budget, don't despair — buying a professionally refurbished laptop is one of the surest ways to save. We've hunted around the web to bring you this hand-picked collection of the best refurbished MacBook deals and sales of the month, so you can score a new MacOS machine without emptying your bank account.
+
+
+***
+![Best refurbished laptops deals and sales for November 2021](https://icdn.digitaltrends.com/image/digitaltrends/microsoft-surface-laptop-go-2020-on-desk.jpg "Best refurbished laptops deals and sales for November 2021")
+
+
+[Best refurbished laptops deals and sales for November 2021](https://www.digitaltrends.com/dtdeals/best-refurbished-laptop-sales-deals/)
+
+
+> Digital Trends may earn a commission when you buy through links on our site. Laptops aren't small purchases, and you need to plan for the expense. But if you're one of the many people who can't do without one in the digital age — and who can blame you —  then you can save a lot of money by buying refurbished. It's important to purchase from a trusted retailer, though, and to know you're actually getting a worthy deal. That's where we come in: Below, we've collected all the best refurbished laptop deals available this month.
+
+
+***
+[ABSURDITIES OR MEANINGLESSNESS OR RATIONALITY IS NO HINDERANCE TO SOMETHING BEING ‘TRUE': RATIONALITY:](https://www.reddit.com/r/programming/comments/qlcsyk/absurdities_or_meaninglessness_or_rationality_is/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Which Oculus Quest 2 storage size should you get?](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/10/oculus-quest-2-with-controllers-hero.jpg "Which Oculus Quest 2 storage size should you get?")
+
+
+[Which Oculus Quest 2 storage size should you get?](https://www.androidcentral.com/oculus-quest-2-64gb-vs-oculus-quest-2-256gb)
+
+
+> The 128GB Oculus Quest 2 supports all the same features and games as the larger storage version. Since Oculus upgraded the base model from 64GB to 128GB, it's easy to recommend the most affordable Quest 2 as the ideal model. $299 at Amazon Cheaper Supports all the same features and games Runs all original Oculus Quest games No microSD slot for expandable storage The Oculus Quest 2 with 256GB of storage gives you enough room for 20 to 50 Oculus Quest games before running out of space.
+
+
+***
+![Bloodborne is finally coming to PC...kind of](https://cdn.mos.cms.futurecdn.net/7vFN2buLBs3ZN23tHskRt8-1200-80.png "Bloodborne is finally coming to PC...kind of")
+
+
+[Bloodborne is finally coming to PC...kind of](https://www.techradar.com/news/bloodborne-is-finally-coming-to-pckind-of)
+
+
+> (Image credit: FromSoftware) Despite rumors of a Bloodborne port coming to PC, it's unfortunately never been officially revealed. But, thanks to a dedicated and talented team of developers, we'll now have a PS1 demake style of the game.Bloodborne PSX is a 'demake' of the original PS4 title, reimagined in the graphical style of a PlayStation X game. It won't cover the entire game, but the devs will at least cover the Father Gascoigne fight and possibly even up to Vicar Amelia.This particular demake also isn't interested in recreating Bloodborne perfectly but will instead feature alterations to map design, mechanics, and dialogue.
+
+
