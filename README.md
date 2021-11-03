@@ -25466,3 +25466,47 @@
 > November 03, 2021 06:00 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--Taoglas®, a leading enabler of digital transformation through IoT, and Westbase.io, a leading 4G/5G and IoT distributor, today announced that they have entered into a new European distribution agreement. This new partnership will expand Westbase.io's best-in-class portfolio, providing the company's customers across the UK, Benelux, Nordics and wider Europe with access to Taoglas' innovative 4G/5G and IoT solutions. Taoglas and Westbase.
 
 
+***
+![A woman is stunned to learn that the diamond she 'nearly tossed in the rubbish' is worth £2 million. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/3_screenshot-2021-10-29-at-034628-1jpeg.jpg "A woman is stunned to learn that the diamond she 'nearly tossed in the rubbish' is worth £2 million. » Brinkwire")
+
+
+[A woman is stunned to learn that the diamond she 'nearly tossed in the rubbish' is worth £2 million. » Brinkwire](https://en.brinkwire.com/news/a-woman-is-stunned-to-learn-that-the-diamond-she-nearly-tossed-in-the-rubbish-is-worth-2-million/)
+
+
+> A woman is stunned to learn that the diamond she ‘nearly tossed in the rubbish' is worth £2 million. The 70-year-old woman bought the diamond at a car boot sale and felt it was useless until a neighbor persuaded her to have it appraised when she was about to throw it away. A retiree was taken aback when she discovered that the diamond she was preparing to throw away during a clearout was worth £2 million. According to the Mirror, the stone was purchased at a car boot sale many years ago by a woman in her 70s who had disregarded it as useless.
+
+
+***
+![The best touchscreen gloves for your smartphone](https://icdn.digitaltrends.com/image/digitaltrends/moshi-touchscreen-gloves.jpg "The best touchscreen gloves for your smartphone")
+
+
+[The best touchscreen gloves for your smartphone](https://www.digitaltrends.com/mobile/best-touchscreen-gloves/)
+
+
+> When braving the cold, wet outdoors in wintertime, you still need to do two things: Keep your hands warm and use your smartphone. For that, you will need a special pair of gloves that can do both jobs. You can't use a smartphone with just any gloves because your smartphone's capacitive touchscreen, blanketed with electrodes, is designed to react to taps, touches, and swipes on your screen with conductive material — like your fingertips. Touchscreen gloves bridge that gap with fabric that emulates your skin's conductive properties.
+
+
+***
+[Sources: Facebook has done little to act on the Islamophobic "Love Jihad" conspiracy theory on its platform in India due to "political sensitivities" (Billy Perrigo/TIME)](http://www.techmeme.com/211103/p10#a211103p10)
+
+
+> Billy Perrigo / TIME: Sources: Facebook has done little to act on the Islamophobic “Love Jihad” conspiracy theory on its platform in India due to “political sensitivities” — In a video posted to Facebook in November 2020, an extremist priest called for Hindus to rise up and begin killing Muslims in India.
+
+
+***
+[Technical Advisory Group of WHO recommends Emergency Use Listing status for Bharat Biotech's Covaxin](https://www.dailyexcelsior.com/technical-advisory-group-of-who-recommends-emergency-use-listing-status-for-bharat-biotechs-covaxin/)
+
+
+> Technical Advisory Group of WHO recommends Emergency Use Listing status for Bharat Biotech’s Covaxin The post Technical Advisory Group of WHO recommends Emergency Use Listing status for Bharat Biotech’s Covaxin appeared first on Jammu Kashmir Latest News | Tourism | Breaking News J&K.
+
+
+***
+![ByteDance founder Zhang Yiming quits company board, but remains powerful behind the scenes, sources say](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/03/426c8ee6-3c98-11ec-a1b3-e785d5c8830c_image_hires_192535.jpg?itok=hxbK9Z2K&v=1635938743 "ByteDance founder Zhang Yiming quits company board, but remains powerful behind the scenes, sources say")
+
+
+[ByteDance founder Zhang Yiming quits company board, but remains powerful behind the scenes, sources say](https://www.scmp.com/tech/big-tech/article/3154740/bytedance-founder-zhang-yiming-quits-company-board-remains-powerful)
+
+
+> Zhang Yiming, founder of ByteDance, poses for a photograph at the company's headquarters in Beijing on August 17, 2017. Photo: Bloomberg
+
+
