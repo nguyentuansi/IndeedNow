@@ -25610,3 +25610,53 @@
 > The Asus Vivobook 13 Slate OLED has a keyboard and kickstand. Image: Asus Asus is known for delving into unconventional form factors, and its latest experiment is no exception. The VivoBook 13 Slate OLED is a 13.3-inch Windows tablet with an OLED screen and a detachable keyboard which starts at $599.99. OLED screens are unusual, though not unheard of, in the detachable form factor. Asus claims that this one is capable of displaying 1.07 billion colors, covers 100 percent of the DCI-P3 color gamut, and has a 0.
 
 
+***
+![Chrome Dev Summit 2021: Moving toward a more powerful and private web](https://external-preview.redd.it/9T58fDNN4ECgENNMyPi-5Pipfa1X4-vRkz0N-8jIRy8.jpg?auto=webp&s=65d4b120b7dc43594706c65728a216e9931daa86 "Chrome Dev Summit 2021: Moving toward a more powerful and private web")
+
+
+[Chrome Dev Summit 2021: Moving toward a more powerful and private web](https://www.reddit.com/r/programming/comments/qm0991/chrome_dev_summit_2021_moving_toward_a_more/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Protect your iPhone 13 Pro Max with these awesome cases](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/mujjo-leather-wallet-case-iphone-13-pro-max.jpg "Protect your iPhone 13 Pro Max with these awesome cases")
+
+
+[Protect your iPhone 13 Pro Max with these awesome cases](https://www.imore.com/best-iphone-13-pro-max-cases)
+
+
+> Best iPhone 13 Pro Max cases iMore 2021 Apple has launched the iPhone 13 lineup, including the shiny new big boy, iPhone 13 Pro Max. Since this is going to be the new top-of-the-line handset, you're definitely going to want to protect your investment with a great case. Here are the best iPhone 13 Pro Max cases we've found so far. Staff pick If you like flexible clear cases, it's hard to beat Spigen's Ultra Hybrid. This simple case is crystal clear with colored bumpers and is made with durable TPU materials.
+
+
+***
+![Pushing through organizational friction](https://external-preview.redd.it/cVtiQFaD4afd8wNSByij7kybfv-a6bRCPYoORVLmfUg.jpg?auto=webp&s=8bfca084307f2f59bcafa604e26e71304baaefa5 "Pushing through organizational friction")
+
+
+[Pushing through organizational friction](https://www.reddit.com/r/programming/comments/qm06ma/pushing_through_organizational_friction/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Black Friday Apple deal drops the all-new AirPods Pro to record-low price](https://cdn.mos.cms.futurecdn.net/2Eu3eYKo3E54Ysz5jeodBc-1200-80.jpg "Black Friday Apple deal drops the all-new AirPods Pro to record-low price")
+
+
+[Black Friday Apple deal drops the all-new AirPods Pro to record-low price](https://www.techradar.com/news/apples-all-new-airpods-pro-drop-to-record-low-price-in-huge-black-friday-deal)
+
+
+> (Image credit: Future) Amazon is dropping early Black Friday Apple deals right now, and we've just spotted an incredible offer on the all-new AirPods Pro. Currently, you can get the AirPods with MagSafe Charging Case on sale for $189.99 (was $249) at Amazon. That's a massive $59 discount and the lowest price we've ever seen for the wireless earbuds. This early Black Friday deal is so incredible because the 2019 AirPods Pro (without the new charger) were on sale for the same price and quickly sold out.
+
+
+***
+![Grab one of these knock off N64 controllers for Nintendo Switch](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/third-party-n64-controller.jpg "Grab one of these knock off N64 controllers for Nintendo Switch")
+
+
+[Grab one of these knock off N64 controllers for Nintendo Switch](https://www.imore.com/best-third-party-n64-controllers-nintendo-switch)
+
+
+> Best third party N64 controllers for Nintendo Switch iMore 2021 The Nintendo Switch Online + Expansion Pack has brought some of the very best N64 games to Nintendo Switch. However, playing those retro titles using Joy-Cons or a normal Switch controller feels strange. The official N64 controller is the best way to play, but there's a shortage of stock. So, if you want to play those games more easily, you'll want to nab a third-party N64 controller for Switch. Staff Pick This knock-off N64 controller has a more modern design while still having all the buttons you need to play comfortably on Nintendo Switch.
+
+
