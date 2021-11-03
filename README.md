@@ -25369,3 +25369,53 @@
 > Hum nothing really, I rarely use spreadsheets, what does have to do with python ? Do you mean what do we think about writing scripts for these tools ?
 
 
+***
+![To'modernize' the network and integrate self-driving cars, a road collision consultation has been begun. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/road-collision-consultation-safer-roads-highway-code-1513341.jpg "To'modernize' the network and integrate self-driving cars, a road collision consultation has been begun. » Brinkwire")
+
+
+[To'modernize' the network and integrate self-driving cars, a road collision consultation has been begun. » Brinkwire](https://en.brinkwire.com/technology/tomodernize-the-network-and-integrate-self-driving-cars-a-road-collision-consultation-has-been-begun/)
+
+
+> To'modernize' the network and integrate self-driving cars, a road collision consultation has been begun. THE DEPARTMENT FOR TRANSPORT (DfT) has begun a public consultation on road traffic collisions, including those using self-driving cars. A public consultation on the creation of a Road Collision Investigation Branch has begun (RCIB). This would function similarly to the existing independent organizations for air, maritime, and rail catastrophes. To determine the causes of collisions, an RCIB would conduct theme investigations and explore specific cases of concern.
+
+
+***
+![COVID sequencer awarded scientific honour](https://images.perthnow.com.au/publication/C-4420882/d6e7b35078a03501786fde2a12cba6f0516fb055-16x9-x0y75w800h450.jpg?imwidth=1200 "COVID sequencer awarded scientific honour")
+
+
+[COVID sequencer awarded scientific honour](https://www.perthnow.com.au/technology/covid-sequencer-awarded-scientific-honour-c-4420882)
+
+
+> A pioneering virologist who first shared the genome sequence for COVID-19 has been awarded one of Australia's most prestigious science honours.Professor Edward Holmes has taken out this year's Prime Minister's Prize for Science for his work on genome sequencing.The University of Sydney professor received the $250,000 prize during a virtual ceremony held on Wednesday.Prof Holmes said he was honoured by the achievement."It's also recognition for more than 30 years of work in trying to understand how viruses emerge and evolve," he said.
+
+
+***
+![The BBC iPlayer has been a runaway hit ahead of its new design. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/bbc-iplayer-enjoys-blockbuster-success-ahead-of-dramatic-redesign-new-logo-1513377.jpg "The BBC iPlayer has been a runaway hit ahead of its new design. » Brinkwire")
+
+
+[The BBC iPlayer has been a runaway hit ahead of its new design. » Brinkwire](https://en.brinkwire.com/technology/the-bbc-iplayer-has-been-a-runaway-hit-ahead-of-its-new-design/)
+
+
+> The BBC iPlayer has been a runaway hit ahead of its new design. THE LATEST BBC iPlayer statistics shows that series like Vigil and 9/11: Inside the President's War Room have attracted record audiences. According to the most recent figures, BBC iPlayer streaming has climbed by 20% compared to the same period last year. In the last financial quarter, 1.5 billion streams were recorded, an increase of 20% over the same period last year and a staggering 49% over 2019. As a result, this is the most successful third quarter in BBC iPlayer's history.
+
+
+***
+![On Twitter, political disinformation clouds Kenya's trending topics – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/twitter-2021-10-c.jpg "On Twitter, political disinformation clouds Kenya's trending topics – TechCrunch")
+
+
+[On Twitter, political disinformation clouds Kenya's trending topics – TechCrunch](https://techcrunch.com/2021/11/03/kenya-twitter-political-disinformation-trends/)
+
+
+> In the days immediately following revelations that Kenya's president Uhuru Kenyatta held secret wealth in offshore tax havens, Odanga Madung noticed something odd on Twitter. In spite of the damning information implicating Kenyatta in a hypocritical tax shelter scheme, the prevailing conversation on Kenyan Twitter focused on defending the country's beleaguered leader. The Kenyan president's concealed accounts were just one secret revealed in the Pandora Papers, a trove of nearly 12 million leaked files detailing the hidden fortunes of a number of global leaders, celebrities and billionaires all hoarding their wealth in places like Panama and the British Virgin Islands.
+
+
+***
+![Laptops and tablets to help digitally excluded homeless people reconnect with techy society](https://s3-eu-west-1.amazonaws.com/iya-news-prod.inyourarea.co.uk/2021/11/digital-inclusion-initiative-1--1-.jpg "Laptops and tablets to help digitally excluded homeless people reconnect with techy society")
+
+
+[Laptops and tablets to help digitally excluded homeless people reconnect with techy society](https://www.inyourarea.co.uk/news/laptops-and-tablets-to-help-digitally-excluded-homeless-people-reconnect-with-techy-society/)
+
+
+> St Petrocs homeless charity is one of the first organisations in Cornwall to sign up to it
+
+
