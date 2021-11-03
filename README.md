@@ -25510,3 +25510,53 @@
 > Zhang Yiming, founder of ByteDance, poses for a photograph at the company's headquarters in Beijing on August 17, 2017. Photo: Bloomberg
 
 
+***
+![Notability's freemium furor highlights the chasm between devs and customers](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/01/app-store-icon-apple-tv-hero.jpg "Notability's freemium furor highlights the chasm between devs and customers")
+
+
+[Notability's freemium furor highlights the chasm between devs and customers](https://www.imore.com/notabilitys-freemium-mess-highlights-disconnect-between-developers-and-users)
+
+
+> So avoidable Some developers don't understand users, and most users don't understand developers. 3 Nov 2021 Source: iMore The big news over the last day or two was the decision of Ginger Labs to take Notability down the subscription route, something that might not have been a huge issue for most people. The problem came when the developer made a hash of the communications surrounding the move and misread the room significantly. The result was a considerable backlash and one that led to a backdown.
+
+
+***
+![All the November 2021 Android security patch details you need](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/11/pixel-6-pro-fall-autumn-02.jpg "All the November 2021 Android security patch details you need")
+
+
+[All the November 2021 Android security patch details you need](https://www.androidcentral.com/android-security-bulletin)
+
+
+> Source: Nick Sutrich / Android Central Google has detailed the latest Android Security Bulletin and released the fixes for Pixel devices. These are exploits and other security concerns that affect Android as a whole. Issues with the operating system, kernel patches, and driver updates may not affect any particular device, but these need to be fixed in the Android base by the folks maintaining the operating system code. That means Google and they've detailed the things they have improved for this month.
+
+
+***
+![The 16 Best Wireless Headphones for Everyone](https://media.wired.com/photos/5f2b2e792f0075bf6e0a1de6/191:100/w_2580,c_limit/Gear-Sony-WH-1000XM4-1-SOURCE-Sony.jpg "The 16 Best Wireless Headphones for Everyone")
+
+
+[The 16 Best Wireless Headphones for Everyone](https://www.wired.com/gallery/best-wireless-headphones/)
+
+
+> Even if you're on a budget, these wireless headphones sound like a million bucks.Save this story for later.Whether you're listening to the latest episode of the Gadget Lab podcast or hitting the trail with Taylor Swift's album on repeat, the right pair of wireless headphones can make or break your day. The only problem is that there are a lot to choose from. WIRED's Gear team is constantly trying out new models to help those tired of using wires and dongles. The following are the best wireless headphones we've tested, and we explain why you might be interested in each pair.
+
+
+***
+![Amazon Joins The Thread Group's Board of Directors](https://mms.businesswire.com/media/20211103005431/en/923005/23/Thread_logomark_rgb.jpg "Amazon Joins The Thread Group's Board of Directors")
+
+
+[Amazon Joins The Thread Group's Board of Directors](https://www.businesswire.com/news/home/20211103005431/en/Amazon-Joins-The-Thread-Group%E2%80%99s-Board-of-Directors)
+
+
+> SAN RAMON, Calif.--(BUSINESS WIRE)--The Thread Group, an industry alliance addressing IoT convergence, and challenges around security, energy footprint, and architecture at the network layer, today announced the addition of Amazon to its Board of Directors. Amazon's increased backing of Thread Group further demonstrates its commitment to Matter, over both Thread and Wi-Fi, and to supporting a broad range of smart home protocols, which benefits both device makers and their customers. With this appointment, Amazon will continue to advance Thread as a key technology supported by Matter, a unified IP-based connectivity protocol.
+
+
+***
+![German Companies Ease into Hybrid Work Models as Pandemic Conditions Lead to Technology Updates](https://mms.businesswire.com/media/20211103005755/en/1016900/23/ISG_%28R%29_Logo.jpg "German Companies Ease into Hybrid Work Models as Pandemic Conditions Lead to Technology Updates")
+
+
+[German Companies Ease into Hybrid Work Models as Pandemic Conditions Lead to Technology Updates](https://www.businesswire.com/news/home/20211103005755/en/German-Companies-Ease-into-Hybrid-Work-Models-as-Pandemic-Conditions-Lead-to-Technology-Updates)
+
+
+> November 03, 2021 10:00 AM Eastern Daylight Time FRANKFURT, Germany--(BUSINESS WIRE)--Many of the largest enterprises in Germany have introduced hybrid work options for some of their employees as they emerge from COVID-19 work-from-home mandates, according to a new report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm. The 2021 ISG Provider Lens™ Future of Work – Services and Solutions report for Germany finds many of the industry heavyweights listed on the DAX stock exchange are allowing some employees to work three days per week at home and two days in the office.
+
+
