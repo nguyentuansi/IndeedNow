@@ -25187,3 +25187,47 @@
 > Android 12 brings some serious changes both to the UI and in terms of features but one of the biggest may be in changes to precise and approximate location data handling. Or, put more simply, the added ability to set the precision on a per-app basis. The new change added to the existing prompt-based settings and location permission management is a bigger one than many might fully grasp.Defining 'Precise' and 'Approximate' location access in Android 12Now, Google's decision to make these settings available on a per-app basis comes with fairly straightforward reasoning.
 
 
+***
+![SPARK Microsystems Scales APAC UWB Distributor Network](https://mms.businesswire.com/media/20211102005139/en/922152/23/sparkmicro_rgb.jpg "SPARK Microsystems Scales APAC UWB Distributor Network")
+
+
+[SPARK Microsystems Scales APAC UWB Distributor Network](https://www.businesswire.com/news/home/20211102005139/en/SPARK-Microsystems-Scales-APAC-UWB-Distributor-Network)
+
+
+> November 02, 2021 08:12 PM Eastern Daylight Time MONTREAL--(BUSINESS WIRE)--SPARK Microsystems, a fabless semiconductor company specializing in next-generation ultra-wideband (UWB), today announced two Asia-Pacific (APAC) distributors have joined the company's expanding sales and support network. SPARK Microsystems will be represented by Skysoon in China and Edom in Taiwan, Greater China, India, Korea, Japan and Southeast Asia. This announcement comes shortly after SPARK Microsystems announced an expanded sales and support network in EMEA.
+
+
+***
+![Apple TV+ adds Matt Dillon, Bernadette Peters, others to 'High Desert' cast](https://photos5.appleinsider.com/gallery/45433-88416-211102-Arquette-xl.jpg "Apple TV+ adds Matt Dillon, Bernadette Peters, others to 'High Desert' cast")
+
+
+[Apple TV+ adds Matt Dillon, Bernadette Peters, others to 'High Desert' cast](https://appleinsider.com/articles/21/11/02/apple-tv-adds-matt-dillon-bernadette-peters-others-to-high-desert-cast)
+
+
+> Apple shipped estimated 6.5M MacBooks in Q3 1 hour ago Apple ceases iOS 15.0.2 code signing following iOS 15.1 launch 3 hours ago Apple joins First Movers Coalition to cut carbon emissions 5 hours ago Facebook shutting down face recognition efforts & deleting data 5 hours ago
+
+
+***
+[Tech exec David Cohen confirmed as next U.S. ambassador to Canada](https://www.cp24.com/news/tech-exec-david-cohen-confirmed-as-next-u-s-ambassador-to-canada-1.5649707)
+
+
+> The Senate has confirmed David Cohen, a tech executive who once served as chief of staff to the mayor of Philadelphia, to be the next U.S. ambassador to Canada.
+
+
+***
+!["No entry of Japanese vehicles"... Notice posted by a golf course](https://img.sbs.co.kr/newimg/news/20211103/201606251_1280.jpg ""No entry of Japanese vehicles"... Notice posted by a golf course")
+
+
+["No entry of Japanese vehicles"... Notice posted by a golf course](https://www.tellerreport.com/tech/2021-11-03-"no-entry-of-japanese-vehicles"----notice-posted-by-a-golf-course.Syz7y7L1vY.html)
+
+
+> Tech/Game 2021-11-02T23:56:25.780Z "No entry of Japanese vehicles"... Notice posted by a golf course Tech/Game 2021-11-03T00:07:54.820Z "No entry of Japanese vehicles"... Notice posted by a golf course News/Politics 2021-06-06T15:39:27.242Z [Pick] An absurd excuse for a driver who crossed the golf course... "Navi made it" News/Politics 2021-06-06T20:02:22.614Z "As my nanny tells me"... Driver driving into pit Life/Entertain 2021-07-05T07:05:33.889Z Ruili, Yunnan: From 8:00 on July 5th, strengthen the management of personnel entering and exiting Ruili and key areas News/Politics 2021-06-06T15:49:28.
+
+
+***
+[Valhalla: Consolidating the user model [Brian Goetz]](https://www.reddit.com/r/programming/comments/qlhzmk/valhalla_consolidating_the_user_model_brian_goetz/)
+
+
+> no comments yetBe the first to share what you think!
+
+
