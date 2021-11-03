@@ -25660,3 +25660,50 @@
 > Best third party N64 controllers for Nintendo Switch iMore 2021 The Nintendo Switch Online + Expansion Pack has brought some of the very best N64 games to Nintendo Switch. However, playing those retro titles using Joy-Cons or a normal Switch controller feels strange. The official N64 controller is the best way to play, but there's a shortage of stock. So, if you want to play those games more easily, you'll want to nab a third-party N64 controller for Switch. Staff Pick This knock-off N64 controller has a more modern design while still having all the buttons you need to play comfortably on Nintendo Switch.
 
 
+***
+![Latest updates as Facebook experiences issues](https://static.independent.co.uk/2021/11/03/19/facebook%20down%20messenger%20instagram%20dm.jpg?width=1200&auto=webp&quality=75 "Latest updates as Facebook experiences issues")
+
+
+[Latest updates as Facebook experiences issues](https://www.independent.co.uk/life-style/gadgets-and-tech/facebook-messenger-down-instagram-messages-b1950974.html)
+
+
+> The second major outage in as many months is underway for Facebook, Messenger and Instagram.Users around the world have complained of issues with sending, receiving and accessing their direct messages across the three apps, which are all owned by Facebook, which recently changed its name to Meta.The last time the apps were down, it took several hours before the problems could be resolved and normal service resumed.There is yet to be any official word about what caused the apps to stop functioning properly.
+
+
+***
+[ClickHouse vs TimescaleDB](https://www.reddit.com/r/programming/comments/qm2ult/clickhouse_vs_timescaledb/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![How To Turn On Dark Mode On Google Pixel 6](https://www.androidheadlines.com/wp-content/uploads/2021/11/Google-Pixel-6-dark-mode-AM-AH.jpg "How To Turn On Dark Mode On Google Pixel 6")
+
+
+[How To Turn On Dark Mode On Google Pixel 6](https://www.androidheadlines.com/how-to-turn-on-dark-mode-google-pixel-6)
+
+
+> Dark Mode was a feature that many wanted Google to add to Android for quite some time, and it was added a few years ago. Though, not everyone knows about this feature, surprisingly.Dark Mode will essentially turn the entire UI on your smartphone, dark. For the most part, it's truly black, but some instances will show a dark gray instead. This has a few benefits. One, it saves your eyes in dark environments. But the bigger reason is it saves your battery life. Especially on an OLED smartphone like the Pixel 6 series.
+
+
+***
+![All characters you can unlock in Genshin Impact](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/genshin-impat-character-archive.jpg "All characters you can unlock in Genshin Impact")
+
+
+[All characters you can unlock in Genshin Impact](https://www.androidcentral.com/genshin-impact-character-guide-all-playable-characters)
+
+
+> Source: Android Central Having the right characters in your party can really make the difference for beating a challenge or solving a puzzle in Genshin Impact. There are 42 playable Genshin Impact characters, including the Traveler you start with. I've listed them all in alphabetical order along with their Element, weapon, starting Passive Talent, and Elemental Burst attack. If any other characters are added to the game, I'll definitely update this list. Looking for other fun games to play on your phone? Then check out the best Android games.
+
+
+***
+![PlayGo N37 Bluetooth Earphones: It charges fast, really fast](https://images.financialexpress.com/2021/11/1-17.jpg "PlayGo N37 Bluetooth Earphones: It charges fast, really fast")
+
+
+[PlayGo N37 Bluetooth Earphones: It charges fast, really fast](https://www.financialexpress.com/industry/technology/playgo-n37-bluetooth-earphones-it-charges-fast-really-fast/2362691/)
+
+
+> By: Sudhir Chowdhary | November 04, 2021 1:30 AMHowever, even with a quick, 10 minutes of charge, the device can last for three hours of play time. The device comes packed with a well-positioned mic for crystal clear voice communication as well as compatibility to voice assistants such as Google, Siri, and Alexa.RESPONDING to the always-demanding consumer appetite for fast-charging, Gurgaon-based Play (co-founded by Vikas Jain (co-founder of Micromax) in 2019 along with his school friend Sandeep Banga, has debuted PlayGo N37 Bluetooth earphones with ultra flexible neckband and fast charging.
+
+
