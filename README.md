@@ -25322,3 +25322,50 @@
 > Shubham Verma New Delhi, Nov 03, 2021, Updated Nov 03, 2021, 9:19 AM IST Netflix is no longer just a video streaming service. It has officially announced its foray into gaming - something that loosely brings the company a step closer to competing with rivals such as Google. All subscribers of Netflix can play the five mobile games that the company has initially introduced, on their Android phones or tablets, while iOS users will have to wait for a little, but a specific date is not available. "We're in the early days of creating a great gaming experience, and we're excited to take you on this journey with us," said Mike Verdu, vice president of Game Development at Netflix, in a statement.
 
 
+***
+![Bitcoin Opens With Gains, Dog-Coin Values Nosedive](https://i.gadgets360cdn.com/large/altcoins_unsplash_executium_bigpic_1635918195157.jpg "Bitcoin Opens With Gains, Dog-Coin Values Nosedive")
+
+
+[Bitcoin Opens With Gains, Dog-Coin Values Nosedive](https://gadgets.ndtv.com/cryptocurrency/news/bitcoin-ether-gain-price-dog-based-cryptocurrency-suffer-losses-today-2597917)
+
+
+> Bitcoin, the oldest cryptocurrency in the world, has begun Wednesday with a gain of 3.24 percent. The cryptocurrency is presently trading at $67,194.43 (roughly Rs. 50 lakh) on Indian exchange CoinSwitch Kuber. The development comes after Bitcoin marked a weak start to the week with minor price dips and gradual recovery. The most-valued cryptocurrency in the world stepped into November with a noteworthy price drop of over two percent — which almost threatened Bitcoin's recent ongoing streak of maintaining a value of over $60,000 (roughly Rs.
+
+
+***
+![Microsoft Rolls Out New Tech to Connect Its Cloud to Rivals](https://i.gadgets360cdn.com/large/microsoft_steps_reuters_1626431336247.jpg "Microsoft Rolls Out New Tech to Connect Its Cloud to Rivals")
+
+
+[Microsoft Rolls Out New Tech to Connect Its Cloud to Rivals](https://gadgets.ndtv.com/laptops/news/microsoft-cloud-azure-rival-companies-brands-data-centre-access-tool-software-2597916)
+
+
+> Microsoft on Tuesday announced a new round of technologies aimed at making its cloud computing services work in data centres it does not own - including the cloud data centres of its rivals.The strategy, Microsoft executives and analysts say, has been key to the company's rise in the cloud computing infrastructure market, which research firm Gartner estimates hit $64.3 billion (roughly Rs. 4,79,650 crore) and where Microsoft is second only to market leader Amazon's Amazon Web Services. Microsoft last week said revenue from Azure, its flagship cloud offering, grew 48 percent, results that helped it overtake Apple as the world's most valuable publicly traded company.
+
+
+***
+![I'm sorry r/Python](https://preview.redd.it/b1oncwh1jbx71.png?width=909&format=png&auto=webp&s=eeedba9a630f83071e5694664ca372259424d54c "I'm sorry r/Python")
+
+
+[I'm sorry r/Python](https://www.reddit.com/r/Python/comments/qlnune/im_sorry_rpython/)
+
+
+> Last weekend I made a controversial comment about the use of the global variable. At the time, I was a young foolish absent-minded child with 0 awareness of the ways of Programmers who knew of this power and the threats it posed for decades. Now, I say before you fellow beings that I'm a child no more. I've learnt the arts of Classes and read The Zen, but I'm here to ask for just something more. Please do accept my sincere apologies for I hope that even my backup program corrupts the day I resort to using 'global' ever again.
+
+
+***
+![Poco M4 Pro 5G First Images Leaked, May Come With Dual Rear Cameras](https://i.gadgets360cdn.com/large/poco_m4_pro_5g_pixelvn_1635917680874.jpg "Poco M4 Pro 5G First Images Leaked, May Come With Dual Rear Cameras")
+
+
+[Poco M4 Pro 5G First Images Leaked, May Come With Dual Rear Cameras](https://gadgets.ndtv.com/mobiles/news/poco-m4-pro-5g-specifications-renders-first-images-leak-2597908)
+
+
+> Poco M4 Pro 5G is all set to launch on November 9. Ahead of the global unveiling, the first look and specifications of the upcoming Poco phone have leaked online. A successor to Poco M3 Pro 5G, the handset is shown to have a hole-punch design and a dual rear camera setup. Poco M4 Pro 5G may debut as a rebranded version of the Redmi Note 11 5G that was launched officially in China in October. As per the fresh leaks, the handset may have a 90Hz refresh rate display.A ThePixel.vn report (in Vietnamese) has shared the first images and a few specifications of the new Poco smartphone.
+
+
+***
+[As a person with Python skills, what do you think of spreadsheet software like Excel, Airtable, etc.?](https://www.reddit.com/r/Python/comments/qlnr83/as_a_person_with_python_skills_what_do_you_think/)
+
+
+> Hum nothing really, I rarely use spreadsheets, what does have to do with python ? Do you mean what do we think about writing scripts for these tools ?
+
+
