@@ -25231,3 +25231,47 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Republican Glenn Youngkin Won Virginia's Governor Race In An Early Warning Sign For Democrats](https://img.buzzfeed.com/buzzfeed-static/static/2021-11/3/1/campaign_images/27e5bbbb95a8/republican-glenn-youngkin-won-virginias-governor--2-1341-1635902791-0_dblbig.jpg?resize=1200:* "Republican Glenn Youngkin Won Virginia's Governor Race In An Early Warning Sign For Democrats")
+
+
+[Republican Glenn Youngkin Won Virginia's Governor Race In An Early Warning Sign For Democrats](https://www.buzzfeednews.com/article/lissandravilla/glenn-youngkin-wins-virginia-election-governor-race)
+
+
+> Republican Glenn Youngkin is projected to win the Virginia gubernatorial race, deepening a panic among Democrats about their ability to hold control of Washington in next year's midterms.Youngkin, a first-time candidate, walloped McAuliffe in a state where Biden beat Trump by 10 points last year. The Virginia race, one of two off-year gubernatorial contests, is seen as a bellwether for the upcoming midterm elections. Virginia has been trending toward Democrats, and the last time a Republican won a statewide office was in 2009; it is still a competitive state that politicians and operatives have been looking to for a read on voters.
+
+
+***
+[Shares of Kakao Pay, South Korea's largest mobile payments app, surged 150%+ in early trading after it raised $1.3B in its Seoul IPO at a ~$9.94B valuation (Bloomberg)](http://www.techmeme.com/211102/p44#a211102p44)
+
+
+> Bloomberg: Shares of Kakao Pay, South Korea's largest mobile payments app, surged 150%+ in early trading after it raised $1.3B in its Seoul IPO at a ~$9.94B valuation — - Fintech firm had to delay its IPO by more than two months — Regulatory crackdown has hurt sentiment for tech shares
+
+
+***
+[Python Apps for the Total Party Skills RPG](https://www.reddit.com/r/Python/comments/qlk2yf/python_apps_for_the_total_party_skills_rpg/)
+
+
+> For chargen https://github.com/ShawnDriscoll/Planet-Matriarchy-RPG-CharGen For die rolling https://github.com/ShawnDriscoll/Total-Party-Skills-RPG-Die-Roller Source and .EXE included. submitted by /u/ShawnDriscoll [link] [comments]
+
+
+***
+![Another #AppleToo organizer has filed a lawsuit against the company](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/02/apple-park-photo-1-building-trees.jpg "Another #AppleToo organizer has filed a lawsuit against the company")
+
+
+[Another #AppleToo organizer has filed a lawsuit against the company](https://www.imore.com/another-appletoo-organizer-files-lawsuit-against-company)
+
+
+> Source: Apple Another #AppleToo organizer is taking the company to court. As reported by The Verge, Janneke Parrish says that she was fired by the company as retaliation for her helping to organize the internal movement. Apple had fired Parrish back in October for deleting apps from her phone during an internal investigation into her claims. Parrish says the company terminated her based on "false and pretextual reasons" — namely because she "spoke up regarding her personal experiences regarding workplace concerns and helped give voice to her co-workers' concerns in a workplace where such issues have been systematically siloed, suppressed, and unaddressed.
+
+
+***
+![Urgent warning Google Voice scam used to target people on Facebook & Craigslist – see how you can stay alert](https://www.the-sun.com/wp-content/uploads/sites/6/2021/11/image-11-1.png?strip=all&quality=100&w=1200&h=800&crop=1 "Urgent warning Google Voice scam used to target people on Facebook & Craigslist – see how you can stay alert")
+
+
+[Urgent warning Google Voice scam used to target people on Facebook & Craigslist – see how you can stay alert](https://www.the-sun.com/tech/3986709/urgent-warning-google-voice-scam-target-facebook-craigslist/)
+
+
+> SCAMMERS are targeting social media marketplace users by using a technique known as the Google Voice verification scam. The scam usually targets merchants who post items for sale on platforms like Facebook Marketplace and Craigslist, FOX News reports. Scammers using Google Voice are targeting Facebook and Craigslist marketplace users in an attempt to conceal their identity using the victim's phone numberCredit: Alamy Facebook Marketplace users are being targeted by scammers using the Google Voice verification scamCredit: SOPA Images/LightRocket via Gett GOOGLE VOICE VERIFICATION SCAM While inquiring about the item for sale, scammers will ask for a phone number and explain that out of concern about potentially fake listings, they want to verify a victim's identity, according to the Federal Trade Commission.
+
+
