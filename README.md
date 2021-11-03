@@ -25275,3 +25275,50 @@
 > SCAMMERS are targeting social media marketplace users by using a technique known as the Google Voice verification scam. The scam usually targets merchants who post items for sale on platforms like Facebook Marketplace and Craigslist, FOX News reports. Scammers using Google Voice are targeting Facebook and Craigslist marketplace users in an attempt to conceal their identity using the victim's phone numberCredit: Alamy Facebook Marketplace users are being targeted by scammers using the Google Voice verification scamCredit: SOPA Images/LightRocket via Gett GOOGLE VOICE VERIFICATION SCAM While inquiring about the item for sale, scammers will ask for a phone number and explain that out of concern about potentially fake listings, they want to verify a victim's identity, according to the Federal Trade Commission.
 
 
+***
+![New European cars headed for Oz](https://content.api.news/v3/images/bin/efa35e9e0def24602dbc9916cce02dc2 "New European cars headed for Oz")
+
+
+[New European cars headed for Oz](https://www.news.com.au/technology/motoring/motoring-news/peugeot-to-launch-two-plugin-hybrid-vehicles-in-australia/news-story/598aab2d4ff9d677389a5be5d9b1dce8)
+
+
+> This vehicle bridges the gap between current vehicles and the machines of the future, but potential buyers are in for a shock.Peugeot is taking its first steps into the electrification eraThe French brand has announced the arrival of the 3008 SUV and 508 sedan plug-in hybrids, which are due to land in showrooms at the start of next year.Peugeot Australia boss Kate Gillis says the arrival of the two petrol-electric models is part of the brand's global strategy to have an electrified variant in every model range by 2025.
+
+
+***
+[Machine Learning: Django vs Flask](https://www.reddit.com/r/Python/comments/qlm89k/machine_learning_django_vs_flask/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Apple's ecosystem bet: Devices just an entry point to generate interest](https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/03/full/1635911467-5321.jpg "Apple's ecosystem bet: Devices just an entry point to generate interest")
+
+
+[Apple's ecosystem bet: Devices just an entry point to generate interest](https://www.business-standard.com/article/technology/apple-s-ecosystem-bet-devices-just-an-entry-point-to-generate-interest-121110300255_1.html)
+
+
+> Each year, a new iPhone launches, and the prices are bumped up. The company adds or upgrades features and hardware. This leads to a rise in the prices of the phone. So, something that was just Rs 40,000 a few years ago now costs almost twice that much. Moreover, most companies are selling their flagship devices with top-of-the-line features and best-in-class experience at that price point. So, why pay a premium for an iPhone. Until a few years ago, the price of an iPhone was correlated to the ‘snob value'.
+
+
+***
+![Impinj, Inc. Announces Upsize and Pricing of Offering of $250 Million of 1.125% Convertible Senior Notes Due 2027](https://mms.businesswire.com/media/20211102006430/en/803456/23/Impinj_Logo.jpg "Impinj, Inc. Announces Upsize and Pricing of Offering of $250 Million of 1.125% Convertible Senior Notes Due 2027")
+
+
+[Impinj, Inc. Announces Upsize and Pricing of Offering of $250 Million of 1.125% Convertible Senior Notes Due 2027](https://www.businesswire.com/news/home/20211102006430/en/Impinj-Inc.-Announces-Upsize-and-Pricing-of-Offering-of-250-Million-of-1.125-Convertible-Senior-Notes-Due-2027)
+
+
+> November 02, 2021 11:51 PM Eastern Daylight Time SEATTLE--(BUSINESS WIRE)--Impinj, Inc. (Nasdaq: PI) a leading RAIN RFID provider and Internet of Things pioneer, today announced the pricing of $250 million aggregate principal amount of Convertible Senior Notes due 2027 (the 'notes') in a private offering (the 'offering') to qualified institutional buyers pursuant to Rule 144A promulgated under the Securities Act of 1933, as amended (the 'Securities Act'). The size of the offering was increased from the previously announced $225 million in aggregate principal amount.
+
+
+***
+![Netflix starts rolling out games for Android users, will let subscribers play directly from app](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/netflixgames_3112021-original.png "Netflix starts rolling out games for Android users, will let subscribers play directly from app")
+
+
+[Netflix starts rolling out games for Android users, will let subscribers play directly from app](https://www.indiatoday.in/technology/news/story/netflix-starts-rolling-out-games-for-android-users-will-let-subscribers-play-directly-from-app-1872699-2021-11-03)
+
+
+> Shubham Verma New Delhi, Nov 03, 2021, Updated Nov 03, 2021, 9:19 AM IST Netflix is no longer just a video streaming service. It has officially announced its foray into gaming - something that loosely brings the company a step closer to competing with rivals such as Google. All subscribers of Netflix can play the five mobile games that the company has initially introduced, on their Android phones or tablets, while iOS users will have to wait for a little, but a specific date is not available. "We're in the early days of creating a great gaming experience, and we're excited to take you on this journey with us," said Mike Verdu, vice president of Game Development at Netflix, in a statement.
+
+
