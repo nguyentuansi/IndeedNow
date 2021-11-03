@@ -25419,3 +25419,50 @@
 > St Petrocs homeless charity is one of the first organisations in Cornwall to sign up to it
 
 
+***
+[Vivo V23e to launch with these new features: Know full details here](https://www.zeebiz.com/technology/mobiles/news-vivo-v23e-to-launch-with-these-new-features-know-full-details-here-169830)
+
+
+> Vivo V23e launch: The global technology giant Vivo is expected to launch its new V-series smartphone, the V23e soon and now an unboxing video of the handset has also leaked online, revealing full specifications and features.
+
+
+***
+![SwiftKey Can Now Sync Clipboard Between Your Phone & Windows PC](https://www.androidheadlines.com/wp-content/uploads/2021/11/swiftkey.jpg "SwiftKey Can Now Sync Clipboard Between Your Phone & Windows PC")
+
+
+[SwiftKey Can Now Sync Clipboard Between Your Phone & Windows PC](https://www.androidheadlines.com/2021/11/swiftkey-sync-clipboard-phone-windows-pc.html)
+
+
+> Popular keyboard app, SwiftKey is adding a new clipboard feature to its app. Notably, the new SwiftKey update seamlessly allows you to sync your Android phone's clipboard with your Windows PC.This means you will be able to copy and paste text between your Android phone and laptop. The new clipboard feature is bundled with a new update, which is rolling out for the SwiftKey app.SwiftKey is regarded as one of the best keyboard applications for Android. The amount of features, smooth user experience, and other functionalities that it offers takes a huge leap over other similar apps.
+
+
+***
+![Ficomirrors Selects HPE GreenLake to Power Flexible Production Line and Improve Competitiveness](https://mms.businesswire.com/media/20211103005013/en/837173/23/hpe_pri_grn_pos_rgb.jpg "Ficomirrors Selects HPE GreenLake to Power Flexible Production Line and Improve Competitiveness")
+
+
+[Ficomirrors Selects HPE GreenLake to Power Flexible Production Line and Improve Competitiveness](https://www.businesswire.com/news/home/20211103005013/en/Ficomirrors-Selects-HPE-GreenLake-to-Power-Flexible-Production-Line-and-Improve-Competitiveness)
+
+
+> November 03, 2021 06:00 AM Eastern Daylight Time WARSAW, Poland--(BUSINESS WIRE)--Ficomirrors, an automotive global supplier to automakers worldwide, has selected the HPE GreenLake edge-to-cloud platform to improve production efficiency and power a flexible manufacturing system. Ficomirrors Poland is part of Ficosa, a multinational corporation that specializes in the research, development, manufacturing, and marketing of advanced systems for the motor and mobility sectors. As the demand for customization continues to increase in automotive manufacturing, producers are looking to respond to consumer demands with new models that require customisable, flexible, efficient manufacturing operations.
+
+
+***
+![Advanced Energy's 48 V Open Rack Power Shelf Brings Energy Savings, Interoperability and Enhanced Reliability to Data Centers](https://mms.businesswire.com/media/20211103005060/en/922658/23/48V_30kW_2U_Open_Rack_Power_Shelf_group_300.jpg "Advanced Energy's 48 V Open Rack Power Shelf Brings Energy Savings, Interoperability and Enhanced Reliability to Data Centers")
+
+
+[Advanced Energy's 48 V Open Rack Power Shelf Brings Energy Savings, Interoperability and Enhanced Reliability to Data Centers](https://www.businesswire.com/news/home/20211103005060/en/Advanced-Energy%E2%80%99s-48-V-Open-Rack-Power-Shelf-Brings-Energy-Savings-Interoperability-and-Enhanced-Reliability-to-Data-Centers)
+
+
+> DENVER, Colo.--(BUSINESS WIRE)--Advanced Energy (Nasdaq: AEIS) – a global leader in highly engineered, precision power conversion, measurement and control solutions – today introduced a high-density, high-efficiency 48 V, 30 kW dual-feed Open Rack version 3 (ORv3) power shelf that minimizes the power consumption and improves the reliability of compute and storage applications in hyperscale and enterprise data centers. Featuring power supplies with demonstrated efficiency of 97%, Advanced Energy's new Artesyn 2U shelf incorporates a hot swappable controller and can accommodate up to twelve 48 V, 3 kW open rack rectifiers with power up to 30 kW.
+
+
+***
+![Taoglas and Westbase.io Announce Partnership to Enable IoT Excellence in Europe](https://mms.businesswire.com/media/20211103005171/en/922813/23/Taoglas_Logo_376-2965_RGB.jpg "Taoglas and Westbase.io Announce Partnership to Enable IoT Excellence in Europe")
+
+
+[Taoglas and Westbase.io Announce Partnership to Enable IoT Excellence in Europe](https://www.businesswire.com/news/home/20211103005171/en/Taoglas-and-Westbase.io-Announce-Partnership-to-Enable-IoT-Excellence-in-Europe)
+
+
+> November 03, 2021 06:00 AM Eastern Daylight Time DUBLIN--(BUSINESS WIRE)--Taoglas®, a leading enabler of digital transformation through IoT, and Westbase.io, a leading 4G/5G and IoT distributor, today announced that they have entered into a new European distribution agreement. This new partnership will expand Westbase.io's best-in-class portfolio, providing the company's customers across the UK, Benelux, Nordics and wider Europe with access to Taoglas' innovative 4G/5G and IoT solutions. Taoglas and Westbase.
+
+
