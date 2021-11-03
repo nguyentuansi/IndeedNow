@@ -25707,3 +25707,53 @@
 > By: Sudhir Chowdhary | November 04, 2021 1:30 AMHowever, even with a quick, 10 minutes of charge, the device can last for three hours of play time. The device comes packed with a well-positioned mic for crystal clear voice communication as well as compatibility to voice assistants such as Google, Siri, and Alexa.RESPONDING to the always-demanding consumer appetite for fast-charging, Gurgaon-based Play (co-founded by Vikas Jain (co-founder of Micromax) in 2019 along with his school friend Sandeep Banga, has debuted PlayGo N37 Bluetooth earphones with ultra flexible neckband and fast charging.
 
 
+***
+![PragerU Documentary: Facebook Insider Was Labeled a 'Hate Monger' for Disagreeing with Leftist Censorship](https://media.breitbart.com/media/2019/08/GettyImages-1140291756-1-640x335.jpg "PragerU Documentary: Facebook Insider Was Labeled a 'Hate Monger' for Disagreeing with Leftist Censorship")
+
+
+[PragerU Documentary: Facebook Insider Was Labeled a 'Hate Monger' for Disagreeing with Leftist Censorship](https://www.breitbart.com/tech/2021/11/02/prageru-documentary-facebook-insider-was-labeled-a-hate-monger-for-disagreeing-with-leftist-censorship/)
+
+
+> A recent PragerU documentary, Restricted: How Big Tech Is Taking Away Your Freedom, features an ex-senior engineering manager at Facebook who talks about how he was labeled a 'hate monger' by his coworkers after he started challenging the company's policy on 'hate speech,' which was 'subjective' and kept broadening over time. Brian Amerige, a former senior engineering manager said in PragerU's new documentary, Restricted: How Big Tech Is Taking Away Your Freedom, that he saw 'activist employees' pushing the company 'toward a policy that was vague and subjective,' and that the definition of so-called 'hate speech' broadened over time 'as different identity groups asked Facebook to broaden it.
+
+
+***
+![Hisense01](https://cdn.mos.cms.futurecdn.net/zSfNFqYQQdkW2BLWHUDLHQ-1200-80.jpg "Hisense01")
+
+
+[Hisense01](https://global.techradar.com/en-za/news/hisense01)
+
+
+> (Image credit: .) Black Friday is back, and this means it is time for amazing deals on Hisense products.These deals will be available throughout the month of November and will be available from major retailers across South Africa.Visit Hisense's website and view its great deals throughout November.Hisense products already offer tremendous value, so Black Friday deals on its appliances and devices are an absolute bargain.These deals span Hisense TVs – including its phenomenal Laser TVs – refrigerators, cooking appliances, and laundry appliances.
+
+
+***
+![Twitter Censors PJ Media for Calling Rachel Levine a Male](https://media.breitbart.com/media/2020/05/Pennsylvania-Health-Secretary-Rachel-Levine-CBS-Philly-YouTube-640x335.jpg "Twitter Censors PJ Media for Calling Rachel Levine a Male")
+
+
+[Twitter Censors PJ Media for Calling Rachel Levine a Male](https://www.breitbart.com/tech/2021/11/03/twitter-censors-pj-media-for-calling-rachel-levine-a-male/)
+
+
+> Conservative news and commentary site PJ Media reports that Twitter locked its account for calling Rachel Levine, the transgender assistant secretary for health, a male. PJ Media shared a screenshot of a message from Twitter informing them that it must delete a tweet referring to Levine as a male before regaining access to their account. Jack Dorsey, CEO of Twitter and co-founder & CEO of Square, attends the crypto-currency conference Bitcoin 2021 Convention at the Mana Convention Center in Miami, Florida, on June 4, 2021.
+
+
+***
+![The early Black Friday discounts on Apple Watches have begun](https://helios-i.mashable.com/imagery/articles/001O8Adqena8aA2KwEWGu1a/hero-image.fill.size_1200x675.v1635972381.jpg "The early Black Friday discounts on Apple Watches have begun")
+
+
+[The early Black Friday discounts on Apple Watches have begun](https://mashable.com/deals/black-friday-apple-watch-deals)
+
+
+> Deal pricing and availability subject to change after time of publication. We've rounded up the best Apple Watch deals kicking off early during Black Friday season as of Nov. 3 — here are our top three picks: Apple fans and Apple-adjacent fans alike know that finding some savings from the brand, though not impossible, does require a bit more digging. Black Friday season is no exception. When it comes to the Apple Watch, the digging for deals can get even diggier, which is to say the deals can be a bit tricky to find, even for Apple products.
+
+
+***
+![New show stopping SUV arrives in Oz](https://content.api.news/v3/images/bin/0cd3d2704f0b310b0dbf96e25d6e374b "New show stopping SUV arrives in Oz")
+
+
+[New show stopping SUV arrives in Oz](https://www.news.com.au/technology/motoring/new-cars/2021-hyundai-palisade-highlander-diesel-review-big-is-beautiful/news-story/01c6fe114857daa245b3d30090d03537)
+
+
+> The South Korean brand's new family-hauler shows just how far the brand has come in recent years packing in serious quality and luxury.Don't miss out on the headlines from New Cars. Followed categories will be added to My News.If big is beautiful, then Hyundai's eight-seat Palisade is a show stopper.Here is everything you need to know about the Hyundai Palisade.VALUEHyundai's largest car pushed the brand into new territory, both in size and cost.Priced from about $60,000 drive-away in basic two-wheel-drive petrol form, it tops out at about $81,000 drive-away in fully-loaded all-wheel-drive diesel Highlander trim shown here.
+
+
