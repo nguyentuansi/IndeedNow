@@ -25560,3 +25560,53 @@
 > November 03, 2021 10:00 AM Eastern Daylight Time FRANKFURT, Germany--(BUSINESS WIRE)--Many of the largest enterprises in Germany have introduced hybrid work options for some of their employees as they emerge from COVID-19 work-from-home mandates, according to a new report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm. The 2021 ISG Provider Lens™ Future of Work – Services and Solutions report for Germany finds many of the industry heavyweights listed on the DAX stock exchange are allowing some employees to work three days per week at home and two days in the office.
 
 
+***
+![NASA outlines the path to launch for the James Webb Space Telescope](https://cdn.slashgear.com/wp-content/uploads/2021/11/webb-telescope.jpg "NASA outlines the path to launch for the James Webb Space Telescope")
+
+
+[NASA outlines the path to launch for the James Webb Space Telescope](https://www.slashgear.com/nasa-outlines-the-path-to-launch-for-the-james-webb-space-telescope-03698020/)
+
+
+> One of the most exciting missions that NASA has launched in recent memory is the James Webb Space Telescope. The telescope is finished and has been transported to its launch location in French Guiana. The telescope made the arduous trek by water and is currently scheduled to launch later this year. Ahead of the launch, a significant amount of preparations had to be made before the telescope could get to work. NASA currently expects the preparations the last 55 days from its arrival to its launch date.
+
+
+***
+![Over 11,000 Teslas Recalled Over Of A Dangerous Software Bug](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/Tesla-Model-S-.jpg "Over 11,000 Teslas Recalled Over Of A Dangerous Software Bug")
+
+
+[Over 11,000 Teslas Recalled Over Of A Dangerous Software Bug](https://screenrant.com/teslas-recalled-self-driving-beta-vehicles-software-bug/)
+
+
+> Tesla issued a recall for over 11.7 thousand vehicles due to a software glitch that caused cars to activate the automatic emergency brake for no reason. Tesla recently rolled out the Self-Driving Beta FSD software. The software allows Tesla cars to autonomously drive on highways or city streets under the full-time supervision of a driver. Tesla's self-driving software release took months, and owners soon discovered that it was not available for just anyone who had a Tesla. Drivers interested in self-driving had to request the software, and Tesla would start a 2-week evaluation of their driving to generate a 'safety score.
+
+
+***
+![20 iPhone settings you'll wonder why you didn't change sooner](https://www.cnet.com/a/img/wyOOYXh6sQ6t3-wf9taOK5v673s=/1200x630/2021/09/22/fd24a2cc-4c03-46e5-a8c4-95bfe94371ed/iphone-13-pro-max-cnet-2021-review-33.jpg "20 iPhone settings you'll wonder why you didn't change sooner")
+
+
+[20 iPhone settings you'll wonder why you didn't change sooner](https://www.cnet.com/tech/mobile/20-iphone-settings-youll-wonder-why-you-didnt-change-sooner/)
+
+
+> Changing these settings can help you get the most out of your iPhone. Patrick Holland/CNET With this year's iPhone 13, 13 Mini, 13 Pro and 13 Pro Max, Apple's iPhone lineup now includes eight devices ranging in size and price, from the compact iPhone SE to larger iPhone 13 Pro Max. (The iPhone SE 3 and iPhone 14 are also rumored to join Apple's growing smartphone collection soon.) Although there are hardware differences between iPhones, each model generally runs on the same software. So no matter which version you have, you can customize your settings to make your iPhone work its best for you.
+
+
+***
+![Apple TV+ just turned two. Here's why it should be considered a success.](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/01/apple-tv-plus-tv-hero.jpg "Apple TV+ just turned two. Here's why it should be considered a success.")
+
+
+[Apple TV+ just turned two. Here's why it should be considered a success.](https://www.imore.com/two-years-apple-tv-has-proven-it-no-flash-pan)
+
+
+> Source: Joseph Keller / iMore Some viewed Apple getting into original programming as a misstep for the company, a fanciful distraction outside of its core competencies. It was theorized that pursuing original content could hamper the development of its hardware offerings while the company spent time, money, and effort on a market that it would never be able to dominate. Following original TV efforts like the abject failure that was Planet of the Apps and the viral-success-turned-damp-squib of Carpool Karaoke, it's hardly surprising that a streaming service full of Apple originals was viewed with skepticism.
+
+
+***
+![Asus' VivoBook 13 Slate is a detachable laptop with an OLED screen](https://cdn.vox-cdn.com/thumbor/YIiib04_mdIMysMvLbXzw4ZARMU=/572x439:3162x1896/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/70086427/Vivobook_13_Slate_OLED_T3300_Entertainment.0.jpg "Asus' VivoBook 13 Slate is a detachable laptop with an OLED screen")
+
+
+[Asus' VivoBook 13 Slate is a detachable laptop with an OLED screen](https://www.theverge.com/2021/11/3/22761276/asus-vivobook-13-slate-oled-price-release-date-features-screen-stylus)
+
+
+> The Asus Vivobook 13 Slate OLED has a keyboard and kickstand. Image: Asus Asus is known for delving into unconventional form factors, and its latest experiment is no exception. The VivoBook 13 Slate OLED is a 13.3-inch Windows tablet with an OLED screen and a detachable keyboard which starts at $599.99. OLED screens are unusual, though not unheard of, in the detachable form factor. Asus claims that this one is capable of displaying 1.07 billion colors, covers 100 percent of the DCI-P3 color gamut, and has a 0.
+
+
