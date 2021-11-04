@@ -26048,3 +26048,53 @@
 > Sometimes, technology doesn't look as good as it should. In an attempt to be businesslike, to suggest power and effectiveness, a product can fail to take design into proper consideration. Not so the Samsung Galaxy Book Pro 360 5G.For a start, instead of being released in matte black or, worse, beige, it's slickly designed in silver. There's also a version in a deep blue finish.SamsungThen there's the display. Where most laptops use regular LCD, this has an OLED screen, like a high-end smartphone.
 
 
+***
+![As conspiracy theories swirl around skeletal remains, Brian Laundrie's pal is 'trying to convince himself Gabby's fiancé is ALIVE.' » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/brian-friend-off-plat-2-sc-copy.jpg "As conspiracy theories swirl around skeletal remains, Brian Laundrie's pal is 'trying to convince himself Gabby's fiancé is ALIVE.' » Brinkwire")
+
+
+[As conspiracy theories swirl around skeletal remains, Brian Laundrie's pal is 'trying to convince himself Gabby's fiancé is ALIVE.' » Brinkwire](https://en.brinkwire.com/news/as-conspiracy-theories-swirl-around-skeletal-remains-brian-laundries-pal-is-trying-to-convince-himself-gabbys-fiance-is-alive/)
+
+
+> As conspiracy theories swirl around skeletal remains, Brian Laundrie's pal is ‘trying to convince himself Gabby's fiancé is ALIVE.' BRIAN Laundrie's pal has revealed that he is having trouble coming to terms with Gabby Petito's fiancé's death, as conspiracy theories swirl around the remains uncovered. In an exclusive interview with The Sun, a close friend of Laundrie said that the death 'doesn't feel genuine' since there is a 'strange sense that Brian is still alive.' 'Friend,' he continued 'I'm still trying to convince myself that he's still alive.
+
+
+***
+![If you've ever snooped on someone on Facebook, they could tell with viral ‘trick'](https://www.thesun.co.uk/wp-content/uploads/2021/11/COMP-SKC-STALKING-EX.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "If you've ever snooped on someone on Facebook, they could tell with viral ‘trick'")
+
+
+[If you've ever snooped on someone on Facebook, they could tell with viral ‘trick'](https://www.thesun.co.uk/tech/16631949/snooped-someone-facebook-viral-trick/)
+
+
+> IT'S apparently pretty easy to find out who's been stalking you on Facebook. According to one TikTok star, the profiles snooping on you most are those that appear in the social media app's "suggested friends" section. A TikTok star claims to have foundCredit: TikTok User @annielydia highlighted the supposed trick earlier this year in a short post to the video-sharing app. "I just found out your suggested friends on Facebook is people who've been stalking your page," she told her 73,000 TikTok followers.
+
+
+***
+![Paranoid and on the move? Arlo Go 2 brings battery power and cell data to the surveillance mix – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/11/Go-2_Boat-Doc.jpg?w=600 "Paranoid and on the move? Arlo Go 2 brings battery power and cell data to the surveillance mix – TechCrunch")
+
+
+[Paranoid and on the move? Arlo Go 2 brings battery power and cell data to the surveillance mix – TechCrunch](https://techcrunch.com/2021/11/04/arlo-go-2-launch/)
+
+
+> Aimed at construction sites, vacation homes or for other hard-to-reach locations, Arlo‘s new Arlo Go 2 LTE/Wi-Fi Security Camera is at your beck and call to keep an eye out for thieves, sneaks and other scoundrels. The company is also peddling its Arlo Secure subscription service, which gives users access to a rolling 30-day library of cloud recordings, in addition to computer vision analysis of the footage with personalized person, animal, vehicle and package detection. The service also includes an Emergency Response feature, which can dispatch emergency services to the camera's location at the touch of a button.
+
+
+***
+![Neuro-ID takes in fresh capital to combat fraud from all of our taps, types and swipes – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/11/Neuro-ID-Team.jpg "Neuro-ID takes in fresh capital to combat fraud from all of our taps, types and swipes – TechCrunch")
+
+
+[Neuro-ID takes in fresh capital to combat fraud from all of our taps, types and swipes – TechCrunch](https://techcrunch.com/2021/11/04/neuro-id-takes-in-fresh-capital-to-combat-fraud-from-all-of-our-taps-types-and-swipes/)
+
+
+> Much of our days are built around digital experiences, and companies are increasingly looking for ways to unlock conversion and optimize fraud screening. Today, a startup that has built a real-time behavioral analytics tool is announcing funding as it sees demand for its services increase. Neuro-ID, an analytics platform capturing real-time customer behavior at scale for digital organizations so that they can see and understand the intent of their digital customer and identify the root cause of customer friction, secured $35 million in Series B funding.
+
+
+***
+![Arlo Go 2 is an LTE-enabled security camera that goes anywhere, works anywhere](https://icdn.digitaltrends.com/image/digitaltrends/go-2_boat-dock.jpg "Arlo Go 2 is an LTE-enabled security camera that goes anywhere, works anywhere")
+
+
+[Arlo Go 2 is an LTE-enabled security camera that goes anywhere, works anywhere](https://www.digitaltrends.com/home/arlo-launches-go-2-lte-wifi-security-camera/)
+
+
+> Smart security cameras have always suffered from one major limitation: The need for a Wi-Fi connection. The new Arlo Go 2 LTE/Wi-Fi Security Camera doesn't have that restriction. This smart security camera is designed to monitor locations like a vacation home or a remote construction site where Wi-Fi might not always be available. It works off a 4G LTE cellular data plan to provide continuous connectivity without interruptions. The Arlo Go 2 is powered by a swappable, rechargeable battery that eliminates the need for cords and wiring.
+
+
