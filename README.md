@@ -25998,3 +25998,53 @@
 > The best Gantt chart software makes it simpler and easier to track and manage the many tasks of a complex, ever-changing project with ease.Gantt chart software can be a powerful weapon in a project manager's toolset. A Gantt chart provides a macro view of a project's timeline and schedule, as well as the progress and team member assignment of each task. It also shows the interdependence of each task (i.e., whether tasks A and B must be completed before task C can begin).With a Gantt chart, you can get a high-level view of a complex project, spot potential bottlenecks in a timeline of tasks, and see how adjustments affect the timeline and budget.
 
 
+***
+![Facebook under pressure to curb climate misinformation](https://thehill.com/sites/default/files/ca_facebook_72220getty.jpg "Facebook under pressure to curb climate misinformation")
+
+
+[Facebook under pressure to curb climate misinformation](https://thehill.com/policy/technology/579957-facebook-under-pressure-to-curb-climate-misinformation)
+
+
+> Facebook is facing mounting pressure from advocacy groups to weed out climate misinformation on its platform and be more transparent about the extent of the false or misleading claims.A pair of reports released this week amid the United Nations climate summit in Glasgow found scores of accounts spreading climate misinformation and raised questions about the tech giant's efforts to combat such content.'Facebook is not solely responsible for climate misinformation existing, but it's definitely amplifying the problem and a possible bigger problem down the line and doing nothing about it,' said Sean Buchanan, author of a Stop Funding Heat report published Thursday.
+
+
+***
+![Welbilt KitchenConnect and HCL Technologies Join Forces to Offer a Secured Cloud Solution for The Food Industry Built Using Microsoft Azure IoT](https://mms.businesswire.com/media/20211104005159/en/570653/23/Welbilt_Logo_with_tagline_Process.jpg "Welbilt KitchenConnect and HCL Technologies Join Forces to Offer a Secured Cloud Solution for The Food Industry Built Using Microsoft Azure IoT")
+
+
+[Welbilt KitchenConnect and HCL Technologies Join Forces to Offer a Secured Cloud Solution for The Food Industry Built Using Microsoft Azure IoT](https://www.businesswire.com/news/home/20211104005159/en/Welbilt-KitchenConnect-and-HCL-Technologies-Join-Forces-to-Offer-a-Secured-Cloud-Solution-for-The-Food-Industry-Built-Using-Microsoft-Azure-IoT)
+
+
+> November 04, 2021 06:00 AM Eastern Daylight Time NEW PORT RICHEY, Fla.--(BUSINESS WIRE)--Welbilt, Inc. (NYSE: WBT), a leading provider of commercial foodservice equipment, announced today that it will integrate Microsoft Azure Sphere to upgrade security in its KitchenConnect® internet-connected equipment and will host the solution on Microsoft Azure through a new partnership with HCL Technologies. Welbilt KitchenConnect is an award-winning open cloud solution that offers a digital platform for internet-connected equipment in the foodservice industry.
+
+
+***
+![How this multitasking author uses tech to unleash her creativity](https://static.standard.co.uk/2021/10/26/10/Hafsa_ES_535%20copy.jpg?width=1200&width=1200&auto=webp&quality=75 "How this multitasking author uses tech to unleash her creativity")
+
+
+[How this multitasking author uses tech to unleash her creativity](https://www.standard.co.uk/tech/everyday-inspiration/multitasking-author-tech-creativity-b962513.html)
+
+
+> Hafsa Zayyan is a high-flier extraordinaire. After studying law at Cambridge and getting a master's at Oxford, she became a lawyer in the City of London. Then, inspired by Stormzy, she entered the rapper's inaugural #Merky Books New Writers' Prize in 2019 – and won. Hafsa Zayyan, pictured with her Galaxy Tab S7 FE 5G and debut novel, was inspired by Stormzy to write up a storm / Barnaby NewtonThis led to a full publishing contract, and her debut novel – We Are All Birds of Uganda – was published to great acclaim.
+
+
+***
+![What makes the Samsung Galaxy Tab S7 FE 5G so versatile?](https://static.standard.co.uk/2021/10/20/16/Samsung_UK_Tab_S7_FE_Day_2_01641.jpg?width=1200&width=1200&auto=webp&quality=75 "What makes the Samsung Galaxy Tab S7 FE 5G so versatile?")
+
+
+[What makes the Samsung Galaxy Tab S7 FE 5G so versatile?](https://www.standard.co.uk/tech/everyday-inspiration/samsung-galaxy-tab-s7-fe-5g-versatile-tablet-b961573.html)
+
+
+> The Samsung Galaxy Tab S7 FE 5G is remarkable. Of course, it does all the things you'd expect from a tablet, such as providing a convenient means of keeping track of your email, an effective way to play a video game and a simple, up-to-date news source.All these and more come in a device that's slim and strong, very lightweight and highly portable. And the design is head-turningly attractive.SamsungThen there's the display, offering astonishingly sharp, high-contrast images with bright, realistic colours and deep black hues.
+
+
+***
+![With brains, beauty and power, Samsung's new Galaxy Book Pro 360 5G has it all](https://static.standard.co.uk/2021/10/12/15/Samsung_Mars_Laptop_4225_Second_Screen1.jpg?width=1200&width=1200&auto=webp&quality=75 "With brains, beauty and power, Samsung's new Galaxy Book Pro 360 5G has it all")
+
+
+[With brains, beauty and power, Samsung's new Galaxy Book Pro 360 5G has it all](https://www.standard.co.uk/tech/everyday-inspiration/samsung-galaxy-book-pro-laptop-b960121.html)
+
+
+> Sometimes, technology doesn't look as good as it should. In an attempt to be businesslike, to suggest power and effectiveness, a product can fail to take design into proper consideration. Not so the Samsung Galaxy Book Pro 360 5G.For a start, instead of being released in matte black or, worse, beige, it's slickly designed in silver. There's also a version in a deep blue finish.SamsungThen there's the display. Where most laptops use regular LCD, this has an OLED screen, like a high-end smartphone.
+
+
