@@ -26098,3 +26098,50 @@
 > Smart security cameras have always suffered from one major limitation: The need for a Wi-Fi connection. The new Arlo Go 2 LTE/Wi-Fi Security Camera doesn't have that restriction. This smart security camera is designed to monitor locations like a vacation home or a remote construction site where Wi-Fi might not always be available. It works off a 4G LTE cellular data plan to provide continuous connectivity without interruptions. The Arlo Go 2 is powered by a swappable, rechargeable battery that eliminates the need for cords and wiring.
 
 
+***
+![Will Smith joins Oprah on Apple TV+ this Friday](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/110421_oprah_sits_down_with_will_smith_big_image_01.jpg "Will Smith joins Oprah on Apple TV+ this Friday")
+
+
+[Will Smith joins Oprah on Apple TV+ this Friday](https://www.imore.com/will-smith-joins-oprah-apple-tv-friday)
+
+
+> Source: Apple Apple has announced that Will Smith will join Oprah on Friday, November 5, in the latest episode of The Oprah Conversation on Apple TV+. Apple stated: Apple today announced that multifaceted award-winning actor, rapper and producer Will Smith will be Oprah Winfrey's next guest on "The Oprah Conversation," premiering Friday, November 5 on Apple TV+. Grammy Award and four-time NAACP Image Award winner Will Smith is one of the most successful actors and entertainers of all time. In this revealing yet charming discussion, Oprah and Smith take a deep dive into his new memoir in which Smith shares his candid thoughts on unspoken family stories, life-defining moments, self destruction, the subtle sickness of material success, moments of courage, the wisdom of a child, and the power of laughter.
+
+
+***
+![Tungsten cube craze sees crypto traders pay $250,000 for yearly visit to foot-long block](https://static.independent.co.uk/2021/11/04/11/tungsten%20cube%20price%20crypto.jpg?width=1200&auto=webp&quality=75 "Tungsten cube craze sees crypto traders pay $250,000 for yearly visit to foot-long block")
+
+
+[Tungsten cube craze sees crypto traders pay $250,000 for yearly visit to foot-long block](https://www.independent.co.uk/life-style/gadgets-and-tech/tungsten-cube-crypto-craze-ethereum-b1951379.html)
+
+
+> The opportunity to pay an annual visit to a 14-inch (36cm) cube of tungsten has sold for a quarter of a million dollars, after the intensely dense objects became a meme among crypto traders.Despite its relatively small size, the block weighs 1 ton (907kg) due to the density of the metal, meaning it is difficult to transport.As a result, and in keeping with the crypto craze, the tungsten cube was sold as an NFT (non-fungible token) – meaning proof of ownership is stored digitally on the Ethereum blockchain.
+
+
+***
+![Apple announces new Magic Johnson docuseries for TV+](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/atv_magic_johnson_docuseries_announcement_110421.jpg "Apple announces new Magic Johnson docuseries for TV+")
+
+
+[Apple announces new Magic Johnson docuseries for TV+](https://www.imore.com/apple-announces-new-magic-johnson-docuseries-tv)
+
+
+> Source: Apple A new docuseries is coming to Apple TV+ It will follow the life and career of NBA Hall of Famer Earvin 'Magic' Johnson. Apple has today announced a new docuseries coming to Apple TV+ that will feature the life and career of NBA Hall of Famer Magic Johnson. Apple stated: Apple TV+ today announced a new documentary event series that will chronicle the life and career of two-time NBA Hall of Famer and cultural icon Earvin "Magic" Johnson. A New Slate Ventures and XTR Production, the four-part docuseries will explore the remarkable accomplishments and global impact of Johnson's life, both on and off the court.
+
+
+***
+![Global Water Utilities Could Cut GHG Emissions by 50%, At Low to No Cost](https://mms.businesswire.com/media/20211104005835/en/923745/23/Xylem_Net_Zero_Utilities_Infographic_FINAL.jpg "Global Water Utilities Could Cut GHG Emissions by 50%, At Low to No Cost")
+
+
+[Global Water Utilities Could Cut GHG Emissions by 50%, At Low to No Cost](https://www.businesswire.com/news/home/20211104005835/en/Global-Water-Utilities-Could-Cut-GHG-Emissions-by-50-At-Low-to-No-Cost)
+
+
+> November 04, 2021 09:51 AM Eastern Daylight Time RYE BROOK, N.Y.--(BUSINESS WIRE)--Global water utilities account for approximately 2% of greenhouse gas (GHG) emissions – the equivalent of the world's shipping industry. And this figure is set to spiral as utilities work towards the UN's Sustainable Development Goal of universal access to water and sanitation by 2030. But water utilities could cut their emissions dramatically and quickly, according to a new paper from global water technology company, Xylem Inc.
+
+
+***
+[Mythical Games, which is developing a game platform with "playable NFTs", raises $150M led by a16z at a $1.25B valuation, four months after raising $75M (Dean Takahashi/VentureBeat)](http://www.techmeme.com/211104/p13#a211104p13)
+
+
+> Dean Takahashi / VentureBeat: Mythical Games, which is developing a game platform with “playable NFTs”, raises $150M led by a16z at a $1.25B valuation, four months after raising $75M — Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next.
+
+
