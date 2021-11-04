@@ -25757,3 +25757,53 @@
 > The South Korean brand's new family-hauler shows just how far the brand has come in recent years packing in serious quality and luxury.Don't miss out on the headlines from New Cars. Followed categories will be added to My News.If big is beautiful, then Hyundai's eight-seat Palisade is a show stopper.Here is everything you need to know about the Hyundai Palisade.VALUEHyundai's largest car pushed the brand into new territory, both in size and cost.Priced from about $60,000 drive-away in basic two-wheel-drive petrol form, it tops out at about $81,000 drive-away in fully-loaded all-wheel-drive diesel Highlander trim shown here.
 
 
+***
+![Apple Fitness+ could be available in more languages in the future](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/12/jay-blahnik-fitness-plus-announcement.jpg "Apple Fitness+ could be available in more languages in the future")
+
+
+[Apple Fitness+ could be available in more languages in the future](https://www.imore.com/apple-fitness-could-be-available-other-languages-future)
+
+
+> Source: Apple Apple Fitness+ has expanded to fifteen more countries. Apple's Jay Blahnik says that the service could be available in more than English in the future. Subtitles are currently available in Brazilian Portuguese, English, French, German, Italian, Russian, and Spanish. Today, Apple expanded Apple Fitness+, the company's fitness streaming service, to fifteen new countries. In a new interview with the Brazilian newspaper O GLOBO (via 9to5Mac), Jay Blahnik, Apple's Vice President of Fitness Technology, talked about the future of the service.
+
+
+***
+![Globe bounces back to nearly 2019 carbon pollution levels](https://s.abcnews.com/images/Technology/WireAP_42b1348f9ed94d00a59480852171fa29_16x9_992.jpg "Globe bounces back to nearly 2019 carbon pollution levels")
+
+
+[Globe bounces back to nearly 2019 carbon pollution levels](https://abcnews.go.com/Technology/wireStory/globe-bounces-back-2019-carbon-pollution-levels-80961378)
+
+
+> GLASGOW, Scotland -- The dramatic drop in carbon dioxide emissions from the pandemic lockdown has pretty much disappeared in a puff of coal-fired smoke, much of it from China, a new scientific study found.A group of scientists who track heat-trapping gases that cause climate change said the first nine months of this year put emissions a tad under 2019 levels. They estimate that in 2021 the world will have spewed 36.4 billion metric tons of carbon dioxide, compared to 36.7 billion metric tons two years ago.
+
+
+***
+![Globe bounces back to nearly 2019 carbon pollution levels](https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/NC3KESJX6VC2XDKVYVHJIYWFP4.jpg?_a=ATABlay0 "Globe bounces back to nearly 2019 carbon pollution levels")
+
+
+[Globe bounces back to nearly 2019 carbon pollution levels](https://www.wsls.com/tech/2021/11/04/globe-bounces-back-to-nearly-2019-carbon-pollution-levels/)
+
+
+> GLASGOW – The dramatic drop in carbon dioxide emissions from the pandemic lockdown has pretty much disappeared in a puff of coal-fired smoke, much of it from China, a new scientific study found.A group of scientists who track heat-trapping gases that cause climate change said the first nine months of this year put emissions a tad under 2019 levels. They estimate that in 2021 the world will have spewed 36.4 billion metric tons of carbon dioxide, compared to 36.7 billion metric tons two years ago. At the height of the pandemic last year, emissions were down to 34.
+
+
+***
+![Civil servant with 'anxiety disorder' took sick leave and went to Spain... Punishment?](https://img.sbs.co.kr/newimg/news/20211104/201606632_1280.jpg "Civil servant with 'anxiety disorder' took sick leave and went to Spain... Punishment?")
+
+
+[Civil servant with 'anxiety disorder' took sick leave and went to Spain... Punishment?](https://www.tellerreport.com/tech/2021-11-04-civil-servant-with--anxiety-disorder--took-sick-leave-and-went-to-spain----punishment-.S1swaXigDY.html)
+
+
+> Tech/Game 2021-11-03T02:14:15.136Z A big public official who went on a 10-day trip to Spain after taking a month's sick leave Tech/Game 2021-11-04T00:05:19.434Z Civil servant with 'anxiety disorder' took sick leave and went to Spain... Punishment? Tech/Game 2021-06-04T11:12:53.121Z Ex-official 'death from sexual harassment' complained about damages 4 years ago Tech/Game 2021-08-25T11:46:34.949Z [Exclusive] List of unmarried female civil servants in their 30sâ€¦ request for investigation Life/Entertain 2021-08-23T08:11:51.
+
+
+***
+![Facebook Is Using Subscription Links To Avoid Apple's App Store Fees](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/facebook-says-no-to-the-app-store.jpg "Facebook Is Using Subscription Links To Avoid Apple's App Store Fees")
+
+
+[Facebook Is Using Subscription Links To Avoid Apple's App Store Fees](https://screenrant.com/facebook-subscription-links-creators-apple-app-store-fees/)
+
+
+> Facebook is making custom subscription weblinks available to creators, allowing them to avoid having to pay up to 30% in-app purchase fees. Facebook creators will now be able to direct users to a website allowing them to complete subscriptions via Facebook Pay and avoid fees set out by Apple. Not only does Facebook offer creators a massive platform to interact with audience members and subscribers, but it has previously committed to not collecting fees from subscriptions until at least 2023. Facebook has had its fair share of regulatory scrutiny and privacy issues over the years and one of the latest is the company's recently announced Metaverse.
+
+
