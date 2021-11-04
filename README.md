@@ -25807,3 +25807,53 @@
 > Facebook is making custom subscription weblinks available to creators, allowing them to avoid having to pay up to 30% in-app purchase fees. Facebook creators will now be able to direct users to a website allowing them to complete subscriptions via Facebook Pay and avoid fees set out by Apple. Not only does Facebook offer creators a massive platform to interact with audience members and subscribers, but it has previously committed to not collecting fees from subscriptions until at least 2023. Facebook has had its fair share of regulatory scrutiny and privacy issues over the years and one of the latest is the company's recently announced Metaverse.
 
 
+***
+![Mitsubishi Electric to Launch Diamond-Trac® 2 Elevator](https://mms.businesswire.com/media/20211103005033/en/1053498/23/MELCO_logo.jpg "Mitsubishi Electric to Launch Diamond-Trac® 2 Elevator")
+
+
+[Mitsubishi Electric to Launch Diamond-Trac® 2 Elevator](https://www.businesswire.com/news/home/20211103005033/en/Mitsubishi-Electric-to-Launch-Diamond-Trac%C2%AE-2-Elevator)
+
+
+> November 03, 2021 10:10 PM Eastern Daylight Time TOKYO--(BUSINESS WIRE)--Mitsubishi Electric Corporation (TOKYO: 6503) announced today the Diamond-Trac® 2, a new Diamond-Trac® Series machine room-less elevator featuring a space-saving design, enhanced operational efficiency and a touchless hall operating panel for residences, offices and hotels in the U.S. market. Mitsubishi Electric US, Inc. will commence sales on November 12, targeting more than doubling annual sales in this category per year. Product Features 1) Space-saving design for more open building layouts - By changing the layout of equipment, the hoistway plane area has been reduced by about 5–10% compared to the existing Diamond-Trac® model, freeing up floor space for more flexible building designs.
+
+
+***
+![Scraping window sticker data for a comparison tool?](https://external-preview.redd.it/hUS0aMZ_sydkWhgXNu9CisNVRyjNu4ZpwvlPosgmKz8.jpg?auto=webp&s=4cb968e80a43bad56a2ecfe25bf01a3c54ec252f "Scraping window sticker data for a comparison tool?")
+
+
+[Scraping window sticker data for a comparison tool?](https://www.reddit.com/r/Python/comments/qmaaha/scraping_window_sticker_data_for_a_comparison_tool/)
+
+
+> Inspired by "I was looking for a house, so I built a web scraper in Python!"There are several search engines for cars but I've not yet found one that will dive into the line items of a window sticker. It is easy to retrieve the window sticker for a car, but it is not easy to spot the differences between them for the same make, model, and trim without a lot of painstaking research. For example there are several Jeep Grand Cherokee L Limited's with slight differences in price:https://www.fuccillochryslerofnelliston.
+
+
+***
+![Midea's new CFO wants to transform the appliance king into a tech giant that competes with General Electric and Xiaomi](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/04/3b7610dc-3c4b-11ec-a1b3-e785d5c8830c_image_hires_100211.jpg?itok=hP0xCno_&v=1635991343 "Midea's new CFO wants to transform the appliance king into a tech giant that competes with General Electric and Xiaomi")
+
+
+[Midea's new CFO wants to transform the appliance king into a tech giant that competes with General Electric and Xiaomi](https://www.scmp.com/tech/tech-trends/article/3154696/mideas-new-cfo-wants-transform-appliance-king-tech-giant-competes)
+
+
+> Midea CFO Jeremy Choy says the appliance maker is a technology giant in its own right, competing in smart home gadgets and robotics. Choy, former head of Asia technology mergers and acquisitions at HSBC, was hired out of Hong Kong after Helmut Zodl departed in January. Photo: Handout
+
+
+***
+![WEBTOON and Wattpad Unveil a Slate of HYBE Original Content Featuring BTS, TXT and ENHYPEN](https://mms.businesswire.com/media/20211103006352/en/923530/23/HYBE_ORIGINAL_CONTENT.jpg "WEBTOON and Wattpad Unveil a Slate of HYBE Original Content Featuring BTS, TXT and ENHYPEN")
+
+
+[WEBTOON and Wattpad Unveil a Slate of HYBE Original Content Featuring BTS, TXT and ENHYPEN](https://www.businesswire.com/news/home/20211103006352/en/WEBTOON-and-Wattpad-Unveil-a-Slate-of-HYBE-Original-Content-Featuring-BTS-TXT-and-ENHYPEN)
+
+
+> November 03, 2021 10:00 PM Eastern Daylight Time LOS ANGELES & TORONTO--(BUSINESS WIRE)--WEBTOON, the world's largest digital comics platform, and Wattpad, the global multi-platform entertainment company for original stories and leading social storytelling platform, announced today a new line-up of original webcomics and web novels in collaboration with HYBE artists including BTS, TXT and ENHYPEN. Starting January 14, six original webcomics and web novels will be released on each platform globally.
+
+
+***
+![Posting to Twitter from Instagram just got a lot better](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/instagram-twitter-integration.jpeg "Posting to Twitter from Instagram just got a lot better")
+
+
+[Posting to Twitter from Instagram just got a lot better](https://www.imore.com/posting-twitter-instagram-just-got-lot-better)
+
+
+> Source: Instagram Instagram is rolling out a tighter integration with Twitter. Posting to Twitter from Instagram will now provide a preview of the post through a Twitter Card. Today, Instagram announced a surprising update for those who want to share content to Twitter. In a Twitter post, the company announced that you'll now be able to share content from Instagram to Twitter and that a preview of your content will actually be available. This includes a preview of the photo in a Twitter Card. They said it would never happen… Twitter Card previews start rolling out TODAY.
+
+
