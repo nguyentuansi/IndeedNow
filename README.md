@@ -26266,3 +26266,53 @@
 > (Image credit: Future) The Apple Watch is always a Black Friday best-seller, and Amazon is giving us an early treat with a rare deal on the all-new Apple Watch 7. Right now, you can get the Apple Watch Series 7 on sale for $389.99 (was $399.99) at Amazon's early Black Friday sale. That's the best deal you can find right now, and only the second time we've seen the smartwatch discounted. While the $10 discount might not seem like much, deals on brand-new Apple devices are extremely rare and typically reserved for the official Black Friday 2021 sale.
 
 
+***
+![Why GoPro Shares Are Rising During Thursday's After-Hours Session](https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/images/story/2012/entrepreneur-1340649_107.jpg "Why GoPro Shares Are Rising During Thursday's After-Hours Session")
+
+
+[Why GoPro Shares Are Rising During Thursday's After-Hours Session](https://www.benzinga.com/news/21/11/23912378/why-gopro-shares-are-rising-during-thursdays-after-hours-session)
+
+
+> GoPro Inc (NASDAQ: GPRO) shares are trading higher after the company reported better-than-expected third-quarter EPS and sales results. GoPro reported quarterly earnings of 34 cents per share which beat the analyst consensus estimate of 20 cents per share. GoPro also reported quarterly sales of $316.67 million which beat the analyst consensus estimate of $292.19 million by 8%. This is a 13% increase over sales of $280.51 million in the same period last year. "GoPro had an outstanding third quarter with strong revenue, earnings, margin, and cash flow growth that have led us to raise our margin and profitability outlook for the year," said Nicholas Woodman, GoPro's founder and CEO.
+
+
+***
+![Marlow to Larry Elder: Big Tech Censorship Is Election Interference](https://media.breitbart.com/media/2021/02/alex-marlow-flickr-640x480-640x335.jpg "Marlow to Larry Elder: Big Tech Censorship Is Election Interference")
+
+
+[Marlow to Larry Elder: Big Tech Censorship Is Election Interference](https://www.breitbart.com/tech/2021/11/04/alex-marlow-big-tech-censorship-larry-elder-you-control-news-you-control-vote/)
+
+
+> Breitbart News Editor-in-Chief Alex Marlow discussed the impact of Big Tech censorship and its control over the flow of digital information on Wednesday's edition of Larry Elder's eponymous radio program. 'If you are controlling the news — if you're controlling the information people read — you're controlling hearts and minds, and in my opinion, you're controlling the vote,' Marlow determined. Facebook's 'news tab' is primarily curated by the company's own selected 'team of journalists' despite being marketed as a personalized and organic news consumption experience based on users' individual preferences.
+
+
+***
+![The Epic Games Store Picks Up League Of Legends & Valorant](https://www.androidheadlines.com/wp-content/uploads/2021/03/League-Of-Legends-Wild-Rift-1.jpg "The Epic Games Store Picks Up League Of Legends & Valorant")
+
+
+[The Epic Games Store Picks Up League Of Legends & Valorant](https://www.androidheadlines.com/2021/11/riot-games-epic-games-store-league-of-legends-valorant-download.html)
+
+
+> Riot Games and Epic Games announced today that League of Legends, and some of Riot's other popular titles would be available to download from the Epic Games Store. The partnership between the two companies provides the potential for a large influx of players into Riot Games' list of available titles.It also has potential to see a big push for users to start using the Epic Games Store launcher. Players will still need to use the Riot Client to install and play games like League Of Legends. However, players won't have to download the client directly.
+
+
+***
+![Best Laptop Deals and Sales for November 2021](https://icdn.digitaltrends.com/image/digitaltrends/asus-proart-studiobook-laptop.jpg "Best Laptop Deals and Sales for November 2021")
+
+
+[Best Laptop Deals and Sales for November 2021](https://www.digitaltrends.com/computing/best-laptop-deals/)
+
+
+> You don't have to search far and wide to find the best laptop deals. Whether you're shopping for a Chromebook, MacBook, Windows laptop, or maybe something you can buy to transform into a portable Linux machine, we have you covered with our curated list of the best laptop sales you can shop today. With pricing starting at only $129, you're bound to find something to fit your budget. Best of all, with early Black Friday deals already rolling out at retailers like Amazon, Best Buy, and Walmart, there are no shortage of fantastic Black Friday laptop deals you can shop right now.
+
+
+***
+![Amazon Games addresses New World issues as players leave the game](https://www.cnet.com/a/img/XTLjjZiv8E7XmvuAn6ZNAsEbp4E=/1200x630/2021/10/01/839a8aa6-86d0-468f-9fe4-31cda0d897ef/newworld.jpg "Amazon Games addresses New World issues as players leave the game")
+
+
+[Amazon Games addresses New World issues as players leave the game](https://www.cnet.com/tech/gaming/amazon-games-addresses-new-world-issues-as-players-leave-the-game/)
+
+
+> New World is having some issues.  Amazon Games New World, Amazon Games' massively multiplayer online RPG, made a big debut with more than 900,000 people playing the game when it was released at the end of September. Just over a month since then, players began leaving the game in large numbers as more game exploits have been found causing Amazon Games to step in. Amazon Games provided an update on the current state of the game Wednesday on the New World forum. The studio says it will monitor the economy of the game to make sure it's within acceptable levels and will proceed to ban players who made use of a gold exploit found in the game.
+
+
