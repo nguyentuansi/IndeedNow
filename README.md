@@ -25857,3 +25857,50 @@
 > Source: Instagram Instagram is rolling out a tighter integration with Twitter. Posting to Twitter from Instagram will now provide a preview of the post through a Twitter Card. Today, Instagram announced a surprising update for those who want to share content to Twitter. In a Twitter post, the company announced that you'll now be able to share content from Instagram to Twitter and that a preview of your content will actually be available. This includes a preview of the photo in a Twitter Card. They said it would never happen… Twitter Card previews start rolling out TODAY.
 
 
+***
+![Sony makes a $46 million investment in Kiswe Video, bringing the total amount raised to $46 million since 2013](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Sony makes a $46 million investment in Kiswe Video, bringing the total amount raised to $46 million since 2013")
+
+
+[Sony makes a $46 million investment in Kiswe Video, bringing the total amount raised to $46 million since 2013](https://en.brinkwire.com/technology/sony-makes-a-46-million-investment-in-kiswe-video-bringing-the-total-amount-raised-to-46-million-since-2013-scaling-to-meet-demand-for-cloud-based-interactive-video-solutions/)
+
+
+> Sony makes a $46 million investment in Kiswe Video, bringing the total amount raised to $46 million since 2013 | Scaling to Meet Demand for Cloud-Based Interactive Video Solutions (Photo courtesy of Unsplash.com) Since 2013, Sony has invested in Kiswe Video, bringing the total raised to $46 million | Scaling to Meet Demand for Cloud-Based Interactive Video Solutions Kiswe, a video startup company, has recently received funding from Sony. While the exact amount has yet to be revealed, Kiswe has raised a total of $46 million since its debut in 2013.
+
+
+***
+![Surprise! Animal Crossing: New Horizon's 2.0 update is now available.](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/animal-crossing-new-horizons-morning-aerobics.jpg "Surprise! Animal Crossing: New Horizon's 2.0 update is now available.")
+
+
+[Surprise! Animal Crossing: New Horizon's 2.0 update is now available.](https://www.imore.com/animal-crossing-new-horizons-20-update-now-available)
+
+
+> Source: iMore In a surprise and quiet drop, Nintendo has released the highly-anticipated and free Animal Crossing: New Horizons Version 2.0 update nearly two days early. It was originally scheduled to release on Friday, Nov. 5 but multiple users online, including the Animal Crossing World blog, noticed it had dropped Wednesday night. It's super easy to update your game. All you have to do is hit the + button on the home menu while you have the icon highlighted on the home menu and hit software update.
+
+
+***
+[蘋果找三星、LG 討論面板技術，MacBook Pro 將配備雙層 OLED 螢幕](https://ccc.technews.tw/2021/11/04/apple-ipad-pro-macbook-pro-oled-displays/)
+
+
+> 韓媒《The Elec》報導，蘋果正與三星、LG 討論 iPad 和 MacBook OLED 顯示螢幕，未來 […]
+
+
+***
+![Cyble Launches Defense Threat Intelligence Solution for Law Enforcement and Government Agencies](https://mms.businesswire.com/media/20211103006169/en/923350/23/Resized_logo.jpg "Cyble Launches Defense Threat Intelligence Solution for Law Enforcement and Government Agencies")
+
+
+[Cyble Launches Defense Threat Intelligence Solution for Law Enforcement and Government Agencies](https://www.businesswire.com/news/home/20211103006169/en/Cyble-Launches-Defense-Threat-Intelligence-Solution-for-Law-Enforcement-and-Government-Agencies)
+
+
+> November 03, 2021 11:30 PM Eastern Daylight Time ALPHARETTA, Ga.--(BUSINESS WIRE)--Cyble, an AI-powered, Y Combinator-backed, cyber threat intelligence company that empowers organizations with darkweb & cybercrime monitoring, today announced the availability of its Law Enforcement Agency (LEA) and defense threat intelligence solution. This is aimed at specifically helping law enforcement and government agencies gather, analyze, and respond to the exposure of extremely sensitive information, enriched with Cyble's SIGINT analysis and research, that may have implications for national security or geopolitical ramifications.
+
+
+***
+![Google plans to allow third party payments systems in S.Korea](https://www.reuters.com/resizer/hl6c1c0sUDQsLn42K0UCRbgkOz8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/24AG7NJCEJKKTG4PFT53M2VR6Q.jpg "Google plans to allow third party payments systems in S.Korea")
+
+
+[Google plans to allow third party payments systems in S.Korea](https://www.reuters.com/technology/google-plans-allow-third-party-payments-systems-skorea-2021-11-04/)
+
+
+> A 3D printed Google logo is seen in this illustration taken April 12, 2020. REUTERS/Dado Ruvic/IllustrationSEOUL, Nov 4 (Reuters) - Alphabet's (GOOGL.O) Google said on Thursday it plans to allow third party payments systems in South Korea in order to comply with the country's new law, which bans major app store operators from forcing software developers to use their payments systems.Google's announcement comes after the Korea Communications Commission's (KCC) request for the U.S. tech giant to come up with compliance plans for the new law that went into effect in September.
+
+
