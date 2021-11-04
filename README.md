@@ -26145,3 +26145,50 @@
 > Dean Takahashi / VentureBeat: Mythical Games, which is developing a game platform with “playable NFTs”, raises $150M led by a16z at a $1.25B valuation, four months after raising $75M — Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next.
 
 
+***
+![Elon Musk posts gloating message after huge Moon case](https://static.independent.co.uk/2021/08/12/09/musk%20bezos%20space.jpg?width=1200&auto=webp&quality=75 "Elon Musk posts gloating message after huge Moon case")
+
+
+[Elon Musk posts gloating message after huge Moon case](https://www.independent.co.uk/life-style/gadgets-and-tech/spacex-elon-musk-bezos-nasa-moon-b1951558.html)
+
+
+> Jeff Bezos' Blue Origin space company has lost a lawsuit against Nasa over a multi-billion dollar contract awarded to SpaceX, prompting Elon Musk to celebrate by posting a meme aimed at his billionaire rival.The US Federal Court of Claims ruled that the bidding process for the $2.9 billion contract, which was awarded in April, was fair.The ruling allows SpaceX to continue developing its Starship rocket for the Artemis mission, which aims to return humans to the Moon by 2024. Blue Origin had originally claimed that Nasa 'disregarded key flight safety requirements' in awarding SpaceX the contract.
+
+
+***
+[WhatsApp has SECRET codes that let you unlock features on app](https://www.thesun.ie/tech/7861625/whatsapp-secret-codes-unlock-features-app/)
+
+
+> WHATSAPP is loaded with a bunch of handy shortcuts that make jazzing up your texts a whole lot easier. The codes allow you to format your texts within seconds – adding a strikethrough to words, for instance, or bolding key sections of the message. It’s a handy way to quickly change up the look of […]
+
+
+***
+![WhatsApp has SECRET codes that let you unlock features on app](https://www.the-sun.com/wp-content/uploads/sites/6/2021/11/NINTCHDBPICT000690734145.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "WhatsApp has SECRET codes that let you unlock features on app")
+
+
+[WhatsApp has SECRET codes that let you unlock features on app](https://www.the-sun.com/tech/3999219/whatsapp-secret-codes-unlock-features-app/)
+
+
+> WHATSAPP is loaded with a bunch of handy shortcuts that make jazzing up your texts a whole lot easier. The codes allow you to format your texts within seconds – adding a strikethrough to words, for instance, or bolding key sections of the message. WhatsApp is loaded with a bunch of handy formatting shortcutsCredit: Getty It's a handy way to quickly change up the look of your text – or parts of it – in order to help them stand out. Of course, you can always make these changes by simply highlighting the text in the text field.
+
+
+***
+![WhatsApp has SECRET codes that let you unlock features on app](https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/11/NINTCHDBPICT000690734145.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "WhatsApp has SECRET codes that let you unlock features on app")
+
+
+[WhatsApp has SECRET codes that let you unlock features on app](https://www.thesun.co.uk/tech/16635451/whatsapp-secret-codes-unlock-features-app/)
+
+
+> WHATSAPP is loaded with a bunch of handy shortcuts that make jazzing up your texts a whole lot easier. The codes allow you to format your texts within seconds – adding a strikethrough to words, for instance, or bolding key sections of the message. WhatsApp is loaded with a bunch of handy formatting shortcutsCredit: Getty It's a handy way to quickly change up the look of your text – or parts of it – in order to help them stand out. Of course, you can always make these changes by simply highlighting the text in the text field.
+
+
+***
+![Facebook Groups to gain personalization features, subgroups, chat, and tools for making money – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/07/facebook-app.jpg?w=640 "Facebook Groups to gain personalization features, subgroups, chat, and tools for making money – TechCrunch")
+
+
+[Facebook Groups to gain personalization features, subgroups, chat, and tools for making money – TechCrunch](https://techcrunch.com/2021/11/04/facebook-groups-to-gain-personalization-features-subgroups-chat-and-tools-for-making-money/)
+
+
+> At its Facebook Communities Summit today, the social networking giant announced a series of updates and new tools for managing Facebook Groups, including tools designed to help admins better develop the group's culture, as well as several other new additions like subgroups and subscription-based paid subgroups, real-time chat for moderators, support for community fundraisers, and more. Among the new features is a suite of tools for Facebook Group admins that will help those who run online communities customize their group in various ways — from the look-and-feel to greeting messages and more.
+
+
