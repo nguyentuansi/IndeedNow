@@ -25904,3 +25904,50 @@
 > A 3D printed Google logo is seen in this illustration taken April 12, 2020. REUTERS/Dado Ruvic/IllustrationSEOUL, Nov 4 (Reuters) - Alphabet's (GOOGL.O) Google said on Thursday it plans to allow third party payments systems in South Korea in order to comply with the country's new law, which bans major app store operators from forcing software developers to use their payments systems.Google's announcement comes after the Korea Communications Commission's (KCC) request for the U.S. tech giant to come up with compliance plans for the new law that went into effect in September.
 
 
+***
+![How much load can be served from 1m² of sunlight?  by Timothy Downs  Nov, 2021](https://external-preview.redd.it/1FEzswoh298OhKvTpbmBHQnaI8QJNgKvekSP9ozyQQ0.jpg?auto=webp&s=ee02c240b58744c12d7d33340a5a5f605421c86f "How much load can be served from 1m² of sunlight?  by Timothy Downs  Nov, 2021")
+
+
+[How much load can be served from 1m² of sunlight?  by Timothy Downs  Nov, 2021](https://www.reddit.com/r/programming/comments/qme1r3/how_much_load_can_be_served_from_1m²_of_sunlight/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![PS5 restock Twitter tracker: Walmart, Target, Best Buy and GameStop in stock alerts](https://cdn.mos.cms.futurecdn.net/KtBgmToAoKnjkncoahtCoH-1200-80.jpg "PS5 restock Twitter tracker: Walmart, Target, Best Buy and GameStop in stock alerts")
+
+
+[PS5 restock Twitter tracker: Walmart, Target, Best Buy and GameStop in stock alerts](https://www.techradar.com/news/live/ps5-restock-live-updates)
+
+
+> Refresh 2021-11-04T05:51:29.009Z We didn't see a PS5 restock on Wednesday, but we've analyzed our data and Thursday happens to be more popular for finding PlayStation 5 for sale than any other day of the week.But... we know for a fact that many retailers are holding off on restocking the console in anticipation of Black Friday deals. No PS5 won't be discounted, but it may attract you to their stores – online and in person – so that you checkout with other items in a mad dash to buy the PS5.We'll keep updating this live blog and sending out tweets as we find the Sony console in stock.
+
+
+***
+![Instagram preview cards are finally back on Twitter](https://cdn.mos.cms.futurecdn.net/a6TxpyQHTCLjaZVYSHhBeN-1200-80.jpg "Instagram preview cards are finally back on Twitter")
+
+
+[Instagram preview cards are finally back on Twitter](https://www.techradar.com/news/instagram-preview-cards-are-finally-back-on-twitter)
+
+
+> (Image credit: Instagram) Despite being quite high on humanity's unofficial list of first-world problems, most people will agree that having to click on an Instagram link on Twitter in order to see what it is can be pretty annoying.Of course, it wasn't always this way –  Instagram preview cards disappeared from Twitter back in 2012, following Facebook's acquisition of Instagram, and have been missing in action ever since. Thankfully, those days are coming to an end as the two social media giants put aside their years-long feud in order to allow Instagram preview cards on Twitter once again, as revealed by Instagram on Twitter, funnily enough.
+
+
+***
+[Google says it will add the option for developers to offer alternative billing systems on its Android app store in South Korea, complying with a recent law (Vlad Savov/Bloomberg)](http://www.techmeme.com/211104/p2#a211104p2)
+
+
+> Vlad Savov / Bloomberg: Google says it will add the option for developers to offer alternative billing systems on its Android app store in South Korea, complying with a recent law — Alphabet Inc.'s Google said it will add the option for developers to offer alternative billing systems on its Android app store in South Korea …
+
+
+***
+![PlayStation 5 Gets Integrated Apple Music While Playing Games: Here's How To Set Up](https://images.news18.com/ibnlive/uploads/2021/07/1627643988_playstation-5-storage-162995161216x9.jpg "PlayStation 5 Gets Integrated Apple Music While Playing Games: Here's How To Set Up")
+
+
+[PlayStation 5 Gets Integrated Apple Music While Playing Games: Here's How To Set Up](https://www.news18.com/news/tech/playstation-5-gets-integrated-apple-music-while-playing-games-heres-how-to-set-up-4395833.html)
+
+
+> PlayStation 5 users are now able to stream Apple Music on their PS5 consoles. Sony said PS5 users, who have Apple Music subscription, can now access the streaming service while gaming. Sony made the announcement in a blog post saying PS5 users with an Apple Music subscription can enjoy more than 90 million songs from Apple Music. Notably, both PlayStation and Xbox users already have the facility of streaming Spotify. The new integration will give PS5 users more options to curate their background music playlist.
+
+
