@@ -26192,3 +26192,40 @@
 > At its Facebook Communities Summit today, the social networking giant announced a series of updates and new tools for managing Facebook Groups, including tools designed to help admins better develop the group's culture, as well as several other new additions like subgroups and subscription-based paid subgroups, real-time chat for moderators, support for community fundraisers, and more. Among the new features is a suite of tools for Facebook Group admins that will help those who run online communities customize their group in various ways — from the look-and-feel to greeting messages and more.
 
 
+***
+[Game studio Faraway raises a $21M Series A led by Lightspeed and FTX, plans to use the Solana blockchain in its most popular title Mini Royale (Eli Tan/CoinDesk)](http://www.techmeme.com/211104/p23#a211104p23)
+
+
+> Eli Tan / CoinDesk: Game studio Faraway raises a $21M Series A led by Lightspeed and FTX, plans to use the Solana blockchain in its most popular title Mini Royale — Faraway's Mini Royale will be the first multiplayer title to integrate Solana-based FTXPay with NFTs and wallets.
+
+
+***
+![Eight Startups Announce Pilots or Agreements with Comcast, NBCUniversal and Sky Following 2021 Comcast NBCUniversal LIFT Labs Accelerator, Powered by Techstars](https://mms.businesswire.com/media/20211104005852/en/351493/23/Comcast-Logo.jpg "Eight Startups Announce Pilots or Agreements with Comcast, NBCUniversal and Sky Following 2021 Comcast NBCUniversal LIFT Labs Accelerator, Powered by Techstars")
+
+
+[Eight Startups Announce Pilots or Agreements with Comcast, NBCUniversal and Sky Following 2021 Comcast NBCUniversal LIFT Labs Accelerator, Powered by Techstars](https://www.businesswire.com/news/home/20211104005852/en/Eight-Startups-Announce-Pilots-or-Agreements-with-Comcast-NBCUniversal-and-Sky-Following-2021-Comcast-NBCUniversal-LIFT-Labs-Accelerator-Powered-by-Techstars)
+
+
+> November 04, 2021 02:00 PM Eastern Daylight Time PHILADELPHIA--(BUSINESS WIRE)--Today, eight startups announced that they have secured pilots or agreements with Comcast, NBCUniversal, and Sky following their participation in the 2021 Comcast NBCUniversal LIFT Labs Accelerator, powered by Techstars. Hailing from countries around the world, including France, Switzerland, Israel, and Sweden, and from cities in the U.S., including Philadelphia, Los Angeles, and New York, these founders came together online and in-person to participate in this year's hybrid program for 12 weeks.
+
+
+***
+![Pioneer Announces Purchase of CryptoPunk 8869](http://www.businesswire.com/images/bwlogo_square.png "Pioneer Announces Purchase of CryptoPunk 8869")
+
+
+[Pioneer Announces Purchase of CryptoPunk 8869](https://www.businesswire.com/news/home/20211104006125/en/Pioneer-Announces-Purchase-of-CryptoPunk-8869)
+
+
+> November 04, 2021 02:00 PM Eastern Daylight Time VANCOUVER, British Columbia--(BUSINESS WIRE)--Pioneer Media Holdings Inc. ('Pioneer' or the 'Company') purchased CryptoPunk 8869. https://www.larvalabs.com/cryptopunks/details/8869 Accessories: - blue bandana - muttonchops - regular shades. "We are excited about Web3" said Mike Edwards, CEO of Pioneer. "The real question is how do you dive in? We looked for guidance from the community. Answer = Step 1 is buy a JPEG!" Transaction Details Pioneer acquired CryptoPunk 8869 for 100.
+
+
+***
+![I made a plugin for switching branches while maintaining last opened documents in Visual Studio](https://external-preview.redd.it/O4bfKbDRIE3YllgYYWwFEhq8haPZTiouKjZ8pwzpjr8.jpg?auto=webp&s=dad4a493033f196cdc6371bb4df4f07885ae7bb0 "I made a plugin for switching branches while maintaining last opened documents in Visual Studio")
+
+
+[I made a plugin for switching branches while maintaining last opened documents in Visual Studio](https://www.reddit.com/r/programming/comments/qmqgik/i_made_a_plugin_for_switching_branches_while/)
+
+
+> no comments yetBe the first to share what you think!
+
+
