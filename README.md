@@ -26229,3 +26229,40 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+[A python API script modification](https://www.reddit.com/r/Python/comments/qmt65o/a_python_api_script_modification/)
+
+
+> Hi everyoneWe have a python script that calls an api to retrieve data from server of a website. In essence, this code, retrieves geodata (area codes, postal codes) from a csv file located in the hard disk and correlate them with other parameters (e.g. consumption) that are obtained from a server (big data) through a url call.There is this line of code to perform the action:# RUN TO CALCULATE THE SUM OF THE CONSUMPTION OF THE REGIONS DEFINED IN "allRegions" AND ALL DAYS IN THE PERIOD DEFINED pdData = theFunction(["01", "05", "2018"],["31", "08", "2019"],[1,2,3,4,5,6,7,8,9], prov='',sector='', municp=False, postal=True)It uses pandas library.
+
+
+***
+![U.S. offers $10 million reward in hunt for DarkSide cybercrime group](https://www.reuters.com/resizer/fxm6vA8_09VCmrS8q40zLNxc1R4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4PVQWVVE4FM2TFAJXZFPQBNPHQ.jpg "U.S. offers $10 million reward in hunt for DarkSide cybercrime group")
+
+
+[U.S. offers $10 million reward in hunt for DarkSide cybercrime group](https://www.reuters.com/technology/us-offers-reward-up-10-mln-information-darkside-cybercrime-group-2021-11-04/)
+
+
+> A man types on a computer keyboard in this illustration picture taken February 28, 2013. REUTERS/Kacper Pempel/File PhotoNov 4 (Reuters) - The U.S. State Department on Thursday announced a reward of up to $10 million for information leading to the identification or location of anyone with a key leadership position in DarkSide, a cybercrime organization the FBI has said is based in Russia.The FBI has said DarkSide was responsible for the May cyber attack targeting the Colonial Pipeline, causing a days-long shutdown that led to a spike in gas prices, panic buying and localized fuel shortages in the U.
+
+
+***
+![Red River Wins 2021 CRN Triple Crown Award](http://www.businesswire.com/images/bwlogo_square.png "Red River Wins 2021 CRN Triple Crown Award")
+
+
+[Red River Wins 2021 CRN Triple Crown Award](https://www.businesswire.com/news/home/20211104006243/en/Red-River-Wins-2021-CRN-Triple-Crown-Award)
+
+
+> November 04, 2021 03:46 PM Eastern Daylight Time CLAREMONT, N.H. & RESTON, Va.--(BUSINESS WIRE)--Red River, a technology transformation company, announced today that CRN®, a brand of The Channel Company, has recognized Red River as a 2021 Triple Crown Award winner. Winners of the CRN Triple Crown Award include some of the largest IT solution providers in North America – recipients are those with high enough revenue streams to place on the Solution Provider 500 list, rank as one of the most fast-expanding organizations in the channel with recognition on the Fast Growth 150 list and have also received high-level certifications from leading vendors on the Tech Elite 250 list.
+
+
+***
+![Get the all-new Apple Watch 7 on sale for $389.99 in epic Black Friday deal](https://cdn.mos.cms.futurecdn.net/aa98KwQE3ZarbkgbarRDCb-1200-80.jpg "Get the all-new Apple Watch 7 on sale for $389.99 in epic Black Friday deal")
+
+
+[Get the all-new Apple Watch 7 on sale for $389.99 in epic Black Friday deal](https://www.techradar.com/news/get-the-all-new-apple-watch-7-on-sale-for-dollar38999-in-epic-black-friday-deal)
+
+
+> (Image credit: Future) The Apple Watch is always a Black Friday best-seller, and Amazon is giving us an early treat with a rare deal on the all-new Apple Watch 7. Right now, you can get the Apple Watch Series 7 on sale for $389.99 (was $399.99) at Amazon's early Black Friday sale. That's the best deal you can find right now, and only the second time we've seen the smartwatch discounted. While the $10 discount might not seem like much, deals on brand-new Apple devices are extremely rare and typically reserved for the official Black Friday 2021 sale.
+
+
