@@ -25951,3 +25951,50 @@
 > PlayStation 5 users are now able to stream Apple Music on their PS5 consoles. Sony said PS5 users, who have Apple Music subscription, can now access the streaming service while gaming. Sony made the announcement in a blog post saying PS5 users with an Apple Music subscription can enjoy more than 90 million songs from Apple Music. Notably, both PlayStation and Xbox users already have the facility of streaming Spotify. The new integration will give PS5 users more options to curate their background music playlist.
 
 
+***
+![New mystery drama series 'Dr. Brain' premieres on Apple TV+](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/dr-brain-official-trailer.jpg "New mystery drama series 'Dr. Brain' premieres on Apple TV+")
+
+
+[New mystery drama series 'Dr. Brain' premieres on Apple TV+](https://www.imore.com/new-mystery-drama-dr-brain-premieres-apple-tv)
+
+
+> Source: Apple TV+ "Dr. Brain" has made its official premiere on Apple TV+. The series stars SAG Award-winner Lee Sun-Kyun, best known for his role in Parasite. "Dr. Brain," the new mystery drama series from Kim Jee-Woon, has made its official debut on Apple TV+. The series, which follows the story of a scientist who uses technology to search through memories, is written and directed by Kim Jee-Woon. Lee Sun-Kyun, best known for his role in Parasite, stars in the series. Now in production in South Korea and set to debut later this year, "Dr.
+
+
+***
+![Nintendo cuts Switch sales forecast 6%; says can't fulfill holiday demand](https://www.reuters.com/resizer/lsfuPytNFdMlLZsh11glZ51ksn4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RC6YUUQR6VNZXNGRWDHXSQCJRU.jpg "Nintendo cuts Switch sales forecast 6%; says can't fulfill holiday demand")
+
+
+[Nintendo cuts Switch sales forecast 6%; says can't fulfill holiday demand](https://www.reuters.com/technology/nintendo-cuts-full-year-switch-sales-forecast-24-mln-units-2021-11-04/)
+
+
+> The Nintendo logo is displayed at the Nintendo Tokyo store, in Tokyo, Japan, Nov. 19, 2019. REUTERS/Issei KatoTOKYO, Nov 4 (Reuters) - Nintendo Co Ltd (7974.T) on Thursday cut its full year Switch sales forecast by 6% to 24 million units and said it would struggle to meet demand in the key year-end shopping season as chip shortages disrupt production of the hit device."We can't produce enough to meet the demand we are expecting during the upcoming holiday season," Nintendo President Shuntaro Furukawa told a news briefing.
+
+
+***
+![Microsoft's acquisition of Two Hats will protect Xbox users from harmful content and expand the company's consumer services. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/microsofts-two-hat-acquisition-to-prevent-harmful-xbox-content-and-extend-companys-consumer-services.jpg "Microsoft's acquisition of Two Hats will protect Xbox users from harmful content and expand the company's consumer services. » Brinkwire")
+
+
+[Microsoft's acquisition of Two Hats will protect Xbox users from harmful content and expand the company's consumer services. » Brinkwire](https://en.brinkwire.com/technology/microsofts-acquisition-of-two-hats-will-protect-xbox-users-from-harmful-content-and-expand-the-companys-consumer-services/)
+
+
+> Microsoft's acquisition of Two Hats will protect Xbox users from harmful content and expand the company's consumer services. Microsoft's acquisition of Two Hat could improve the gaming experience while also expanding the company's consumer services. 'Today, we are delighted to announce that Microsoft has acquired Two Hat, a leading content moderation solution provider offering protective measures for online communities with a purpose to develop better experiences for everyone,' Microsoft stated in a statement on its official blog.
+
+
+***
+[WhatsApp likely to increase 'delete for everyone' time limit feature](https://www.zeebiz.com/technology/apps/news-whatsapp-likely-to-increase-delete-for-everyone-time-limit-feature-check-details-169899)
+
+
+> According to the WaBetaInfo, a website that tracks WhatsApp revealed that the time limit for using the 'delete for everyone' feature may be increased to an indefinite period.
+
+
+***
+![Best Gantt chart software 2021](https://cdn.mos.cms.futurecdn.net/L7LLbMsGVPft6dDjhhmPvA-1200-80.jpg "Best Gantt chart software 2021")
+
+
+[Best Gantt chart software 2021](https://www.techradar.com/best/gantt-chart-software)
+
+
+> The best Gantt chart software makes it simpler and easier to track and manage the many tasks of a complex, ever-changing project with ease.Gantt chart software can be a powerful weapon in a project manager's toolset. A Gantt chart provides a macro view of a project's timeline and schedule, as well as the progress and team member assignment of each task. It also shows the interdependence of each task (i.e., whether tasks A and B must be completed before task C can begin).With a Gantt chart, you can get a high-level view of a complex project, spot potential bottlenecks in a timeline of tasks, and see how adjustments affect the timeline and budget.
+
+
