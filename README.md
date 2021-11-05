@@ -26463,3 +26463,50 @@
 > Facebook is testing ways for creators to make money through Facebook Groups, such as users paying fees for exclusive access to content or conversations within subgroups, the company said on Thursday. Facebook, which recently changed its name to Meta, said the test was part of its broader paid subscription effort. The social media company is one of many tech giants that have been working to woo social media creators and their large followings through payments and new tools. Facebook, which has in recent years focused on building communities as a tactic to drive engagement on the site, said Group administrators will be able to run e-commerce shops to sell merchandise or create community fundraisers, which could offset the costs of running a Group.
 
 
+***
+[Xiaomi, OnePlus, Realme, Vivo set to enter Electric Vehicle market: All you need to know](https://www.zeebiz.com/technology/news-xiaomi-oneplus-realme-vivo-set-to-enter-electric-vehicle-market-all-you-need-to-know-169949)
+
+
+> Realme recently filed a trademark with the Indian regulator under the 'vehicles, apparatus for locomotion by land, air or water.
+
+
+***
+![OnePlus Nord 2 Pac-Man Limited Edition India Launch Can Be Expected Soon](https://i.gadgets360cdn.com/large/oneplus_nord_2_5g_Android11_1627996020961.jpg "OnePlus Nord 2 Pac-Man Limited Edition India Launch Can Be Expected Soon")
+
+
+[OnePlus Nord 2 Pac-Man Limited Edition India Launch Can Be Expected Soon](https://gadgets.ndtv.com/mobiles/news/oneplus-india-nord-2-pac-man-limited-special-edition-teaser-coming-soon-leak-2599862)
+
+
+> OnePlus Nord 2 Pac-Man Limited Edition is expected to hit Indian store shelves soon. Ahead of the official launch, OnePlus has teased the arrival of a new smartphone via social media handles. It has not been explicitly stated what this might be, but the company shared a picture of the Pac-Man game hinting at the arrival of a Pac-Man-themed version of the new OnePlus Nord 2. As the name suggests, the upcoming handset is expected to be a revamped version of the OnePlus Nord 2. The phone has also leaked earlier and is tipped to come with a Snapdragon chipset.
+
+
+***
+![This cool space station video will put a smile on your face](https://icdn.digitaltrends.com/image/digitaltrends/international-space-station-exterior-earth.jpg "This cool space station video will put a smile on your face")
+
+
+[This cool space station video will put a smile on your face](https://www.digitaltrends.com/news/this-cool-space-station-video-will-put-a-smile-on-your-face/)
+
+
+> Microgravity conditions aboard the International Space Station allow visiting astronauts to glide effortlessly around the orbiting outpost as they move from module to module. For a bit of fun, SpaceX's four Crew-2 astronauts, plus NASA astronaut Mark Vande Hei, recently set the camera rolling for a skit where all five fly to their private stations one after the other before finishing up with a carefully choreographed group wave. #Crew2: battle stations! OK we were scrambling to our crew quarters, and we don't fly so actively to bed: this is our only private space in the whole spaceship! #MissionAlpha pic.
+
+
+***
+![Recruiter catches a candidate cheating during interview! REAL FRONTEND DEVELOPER ROLE INTERVIEW](https://external-preview.redd.it/ManHhbKxuen6lRQXDA3cVMSgZwOIvixUFufvHHWlzPU.jpg?auto=webp&s=72345da42d20ea53c3298f119bae88abeab55dfd "Recruiter catches a candidate cheating during interview! REAL FRONTEND DEVELOPER ROLE INTERVIEW")
+
+
+[Recruiter catches a candidate cheating during interview! REAL FRONTEND DEVELOPER ROLE INTERVIEW](https://www.reddit.com/r/Python/comments/qn411e/recruiter_catches_a_candidate_cheating_during/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![New York Mayor-Elect Says Will Take First 3 Paychecks in Bitcoin](https://i.gadgets360cdn.com/large/nyc_mayor_elect_eric_adams_bitcoin_1636089402806.jpg "New York Mayor-Elect Says Will Take First 3 Paychecks in Bitcoin")
+
+
+[New York Mayor-Elect Says Will Take First 3 Paychecks in Bitcoin](https://gadgets.ndtv.com/cryptocurrency/news/new-york-mayor-eric-adams-bitcoin-payment-paycheck-crypto-center-2599837)
+
+
+> New York Mayor-elect Eric Adams said on Thursday he would take his first three paychecks in Bitcoin and signaled his intention to make his city the "center of the cryptocurrency industry" after he takes office in January."In New York we always go big, so I'm going to take my first THREE paychecks in Bitcoin when I become mayor," Adams wrote in a Twitter post. "NYC is going to be the center of the cryptocurrency industry and other fast-growing, innovative industries! Just wait!" Bitcoin price in India as of November 5 at 10:32am IST stood at Rs.
+
+
