@@ -26647,3 +26647,53 @@
 > November 05, 2021 08:00 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Black Friday experts at Deal Stripe have compared all the latest early iPhone SE deals for Black Friday, featuring the best discounts on carrier-locked and unlocked models. Links to the top deals are listed below. Best iPhone SE Deals: Best iPhone Deals: Save up to $600 on the latest Apple iPhones at Verizon.com - click the link to check the latest Apple iPhone 13, 12, 11, XR, X, 8 & more top-rated smartphone deals Save up to $400 on no contract & prepaid Apple iPhones at StraightTalk.
 
 
+***
+![The Best Toys Black Friday Deals 2021: Best Early Learning Toys, Outdoor Play & More Sales Revealed by Deal Tomato](https://mms.businesswire.com/media/20211105005270/en/836216/23/Black_Friday_2021_%28DT%29.jpg "The Best Toys Black Friday Deals 2021: Best Early Learning Toys, Outdoor Play & More Sales Revealed by Deal Tomato")
+
+
+[The Best Toys Black Friday Deals 2021: Best Early Learning Toys, Outdoor Play & More Sales Revealed by Deal Tomato](https://www.businesswire.com/news/home/20211105005270/en/The-Best-Toys-Black-Friday-Deals-2021-Best-Early-Learning-Toys-Outdoor-Play-More-Sales-Revealed-by-Deal-Tomato)
+
+
+> November 05, 2021 10:00 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Find all the latest early toys deals for Black Friday, featuring the latest Nerf and Paw Patrol sales. View the full selection of deals by clicking the links listed below. Best Hoverboard Deals: Best Ride On Toy Deals: Save up to 53% on top-rated ride-on vehicles & toys from Little Tikes, Fisher Price, Disney & more top-rated brands at Walmart - deals available on kids cars, tractors, quad ride on toys, go-karts & more Save up to 55% on best-selling ride-on cars from top brands at Walmart - click the link for latest prices on remote-controlled ride-on cars, trucks, ATVs, and more Save up to 40% on ride-on trucks with remote control & more at Walmart - check the latest deals on electric ride-on trucks in all models and colors Save up to $140 on 12V ride-on vehicles in various colors and models at Walmart - click the link for live deals on 12-volt cars, trucks, and more with realistic driving action and true-to-life pedals Best Trampoline Deals: Best Barbie Deals: Save up to 37% on Barbie dolls, dollhouses, playsets & more at Walmart - check the latest discounts on Barbie Dolls, Cars, Care Clinics, Food Trucks, Barbie accessories & more Save up to 37% on a wide selection of Barbie dolls at Walmart - check the best deals on a wide selection of dolls from Barbie, including Fashion, Fantasy & Career doll categories Save up to $45 on the top-rated Barbie Dreamhouse at Walmart - check the latest prices on the best-selling Barbie Dreamhouse playset, furniture, replacement accessories & more Save up to 35% on a wide range of Barbie Doll playsets at Walmart - check live deals on popular Barbie dolls and accessory playsets, including care clinic, dressing room, music studio playsets & more More Toys Deals: Save up to 50% on Nerf toys at Walmart - click the link for live prices of Nerf blasters and targeting sets including Rival, Elite, Ultra, and Fortnite models Save up to 38% on a wide range of learning toys at Walmart - check the latest deals on learning toys from top brands like Fisher-Price, LeapFrog, VTech, and more Save up to 35% on Paw Patrol toys at Walmart - check live prices of Paw Patrol toys, costumes, books, DVDs, and more Save up to 80% on monster truck, high speed, and waterproof RC cars at Walmart - click the link for live prices of a wide range of top-rated RC cars Save up to $100 on outdoor playsets from Little Tikes, Fisher-Price, and KidKraft at Walmart - check the latest savings on sandboxes, trampolines, swing sets, playhouses, and more Interested in more deals? Check out Walmart's Black Friday sale and Amazon's Black Friday page for even more live deals right now.
+
+
+***
+![Protolabs Announces Departure of CFO John Way, Appoints Dan Schumacher Interim CFO](https://mms.businesswire.com/media/20211105005563/en/837845/23/Protolabs_horizontal_rgb_black.jpg "Protolabs Announces Departure of CFO John Way, Appoints Dan Schumacher Interim CFO")
+
+
+[Protolabs Announces Departure of CFO John Way, Appoints Dan Schumacher Interim CFO](https://www.businesswire.com/news/home/20211105005563/en/Protolabs-Announces-Departure-of-CFO-John-Way-Appoints-Dan-Schumacher-Interim-CFO)
+
+
+> November 05, 2021 10:00 AM Eastern Daylight Time MINNEAPOLIS--(BUSINESS WIRE)--Protolabs (NYSE: PRLB), a leading online and technology-enabled, on-demand manufacturer, today announced John Way is resigning as Chief Financial Officer (CFO) to pursue an opportunity at another company. Way will continue in his role through November 30, 2021. Dan Schumacher, Vice President of Investor Relations and FP&A, has been named Interim CFO effective December 1, 2021. Schumacher has been with Protolabs for four years leading the company's investor relations and FP&A organizations, and has reported directly to Way since he joined the company in 2017.
+
+
+***
+![Custodia Partners with Behavox to Integrate Communications Surveillance into Compliance Cloud One℠ (CC1) and Custodia Assist℠](https://mms.businesswire.com/media/20211105005458/en/924031/23/Custodia_Brand_Logo.jpg "Custodia Partners with Behavox to Integrate Communications Surveillance into Compliance Cloud One℠ (CC1) and Custodia Assist℠")
+
+
+[Custodia Partners with Behavox to Integrate Communications Surveillance into Compliance Cloud One℠ (CC1) and Custodia Assist℠](https://www.businesswire.com/news/home/20211105005458/en/Custodia-Partners-with-Behavox-to-Integrate-Communications-Surveillance-into-Compliance-Cloud-One%E2%84%A0-CC1-and-Custodia-Assist%E2%84%A0)
+
+
+> NEW YORK & LONDON--(BUSINESS WIRE)--Custodia, the global experts in providing full end-to-end compliance management solutions with Compliance Cloud OneSM (CC1) and Custodia AssistSM are pleased to announce a new partnership with leading data insights company, Behavox. Custodia's Compliance Cloud OneSM (CC1) is a global cloud-based recording solution for unified communications (UC) that includes Microsoft Teams, Cisco UC Cloud and trading telephony combined with Custodia AssistSM, a fully flexible framework to assist customers in achieving a managed compliance environment.
+
+
+***
+![Chicago Tribune Names Zebra Technologies to 2021 Top Workplaces](https://mms.businesswire.com/media/20211105005585/en/924125/23/Zebra_Logo_K_small_%281%29.jpg "Chicago Tribune Names Zebra Technologies to 2021 Top Workplaces")
+
+
+[Chicago Tribune Names Zebra Technologies to 2021 Top Workplaces](https://www.businesswire.com/news/home/20211105005585/en/Chicago-Tribune-Names-Zebra-Technologies-to-2021-Top-Workplaces)
+
+
+> November 05, 2021 09:59 AM Eastern Daylight Time LINCOLNSHIRE, Ill.--(BUSINESS WIRE)--Zebra Technologies Corporation (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it has been listed among the 2021 Top Workplaces in Chicagoland by the Chicago Tribune. This marks the company's second year on the list, which is based solely on employee feedback gathered through a third-party survey administered by Energage LLC.
+
+
+***
+![Best Smart TV Deals – Updated November 2021](https://www.androidheadlines.com/wp-content/uploads/2021/04/81hFz0h4XzL._AC_SL1500_.jpg "Best Smart TV Deals – Updated November 2021")
+
+
+[Best Smart TV Deals – Updated November 2021](https://www.androidheadlines.com/best-smart-tv-deals.html)
+
+
+> Is it time to buy a new smart TV for your home? We've got you covered. With the very best smart TV deals that are currently available.Most people think that Black Friday is the best time to buy a TV, and it actually isn't. The myth exists because of doorbusters. Where you can get a 50-inch TV for some stupid cheap price like $199. But that's usually a bad TV, from a brand you've probably never heard of. While the good TVs from brands like Sony, Samsung, LG, Hisense and others are discounted, but not as heavily.
+
+
