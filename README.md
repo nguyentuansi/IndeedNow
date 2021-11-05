@@ -26510,3 +26510,50 @@
 > New York Mayor-elect Eric Adams said on Thursday he would take his first three paychecks in Bitcoin and signaled his intention to make his city the "center of the cryptocurrency industry" after he takes office in January."In New York we always go big, so I'm going to take my first THREE paychecks in Bitcoin when I become mayor," Adams wrote in a Twitter post. "NYC is going to be the center of the cryptocurrency industry and other fast-growing, innovative industries! Just wait!" Bitcoin price in India as of November 5 at 10:32am IST stood at Rs.
 
 
+***
+[Call of Duty: Vanguard launch LIVE: New World War 2 epic arrives, plus Forza Horizon 5, PS5, Xbox and Fortnite latest](https://www.thesun.ie/tech/7863469/call-of-duty-vanguard-release-ps5-xbox-forza-horizon/)
+
+
+> THE release of Call of Duty Vanguard is here, with fans of the popular shoot ’em up series eager to get their hands on the brand new game. The new COD game was released today (Friday November 5, 2021) at 1am GMT and sees the series returning to its World War 2 roots – bringing […]
+
+
+***
+![New Tom Hanks adventure film 'Finch' premieres on Apple TV+](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/apple-tv-finch-key-art.jpg "New Tom Hanks adventure film 'Finch' premieres on Apple TV+")
+
+
+[New Tom Hanks adventure film 'Finch' premieres on Apple TV+](https://www.imore.com/new-tom-hanks-adventure-film-finch-premieres-apple-tv)
+
+
+> Source: Apple TV+ "Finch" has made its worldwide premiere on Apple TV+. The drama stars Tom Hanks in an adventure to save his family on a desolate planet. "Finch," the new adventure drama film starring Tom Hanks, is now streaming on Apple TV+. The film stars Hanks, his dog, and a robot who go on a daring mission to find his family a new home on a ravaged planet. In "Finch," a man, a robot and a dog form an unlikely family in a powerful and moving adventure of one man's quest to ensure that his beloved canine companion will be cared for after he's gone.
+
+
+***
+![Call of Duty: Vanguard launch LIVE: New World War 2 epic arrives, plus Forza Horizon 5, PS5, Xbox and Fortnite latest](https://www.thesun.co.uk/wp-content/uploads/2021/11/4-1.png?strip=all&quality=100&w=1200&h=800&crop=1 "Call of Duty: Vanguard launch LIVE: New World War 2 epic arrives, plus Forza Horizon 5, PS5, Xbox and Fortnite latest")
+
+
+[Call of Duty: Vanguard launch LIVE: New World War 2 epic arrives, plus Forza Horizon 5, PS5, Xbox and Fortnite latest](https://www.thesun.co.uk/tech/16635059/call-of-duty-vanguard-release-ps5-xbox-forza-horizon/)
+
+
+> BIG REVEAL 7:50, 5 Nov 2021Updated: 7:50, 5 Nov 2021THE release of Call of Duty Vanguard is here, with fans of the popular shoot 'em up series eager to get their hands on the brand new game. The new COD game was released today (Friday November 5, 2021) at 1am GMT and sees the series returning to its World War 2 roots - bringing new maps, modes and features to the beloved franchise. The much awaited blockbuster game is available to buy on Xbox One, Xbox Series X/S, PS4 PS5 and PC. Pre-loads started on October 28 for console players, so if you've pre-ordered digitally, you can pre-load right now.
+
+
+***
+![Call of Duty: Vanguard launch LIVE: New World War 2 epic arrives, plus Forza Horizon 5, PS5, Xbox and Fortnite latest](https://www.the-sun.com/wp-content/uploads/sites/6/2021/11/4-1.png?strip=all&quality=100&w=1200&h=800&crop=1 "Call of Duty: Vanguard launch LIVE: New World War 2 epic arrives, plus Forza Horizon 5, PS5, Xbox and Fortnite latest")
+
+
+[Call of Duty: Vanguard launch LIVE: New World War 2 epic arrives, plus Forza Horizon 5, PS5, Xbox and Fortnite latest](https://www.the-sun.com/tech/4001656/call-of-duty-vanguard-release-ps5-xbox-forza-horizon/)
+
+
+> BIG REVEAL 3:50 ET, Nov 5 2021Updated: 3:50 ET, Nov 5 2021THE release of Call of Duty Vanguard is here, with fans of the popular shoot 'em up series eager to get their hands on the brand new game. The new COD game was released today (Friday November 5, 2021) at 1am GMT and sees the series returning to its World War 2 roots - bringing new maps, modes and features to the beloved franchise. The much awaited blockbuster game is available to buy on Xbox One, Xbox Series X/S, PS4 PS5 and PC. Pre-loads started on October 28 for console players, so if you've pre-ordered digitally, you can pre-load right now.
+
+
+***
+![Scientist Begs Twitter CEO To Stop Censoring 'Uranus' As Offensive Content](https://im.indiatimes.in/content/2021/Nov/Social-image-4_6183dd95e669b.jpg "Scientist Begs Twitter CEO To Stop Censoring 'Uranus' As Offensive Content")
+
+
+[Scientist Begs Twitter CEO To Stop Censoring 'Uranus' As Offensive Content](https://www.indiatimes.com/technology/news/twitter-uranus-offensive-content-553389.html)
+
+
+> Talking about the planet "Uranus" might get you in Twitter jail. A former NASA astronomer, Dr. James O'Donoghue was trying to talk about "planetary science" on the microblogging site when he realised that Twitter was blocking out responses because they contained the word "Uranus."There is only one reason why that would happen. It appears that Twitter is reading Uranus as two separate words, which would actually be derogatory. NASAThe same wordplay is very common on Twitter, all thanks to Lady Gaga's iconic song called "Venus" from 2013 wherein she used the word Uranus to give an empowering message about her own body.
+
+
