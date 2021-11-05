@@ -26697,3 +26697,53 @@
 > Is it time to buy a new smart TV for your home? We've got you covered. With the very best smart TV deals that are currently available.Most people think that Black Friday is the best time to buy a TV, and it actually isn't. The myth exists because of doorbusters. Where you can get a 50-inch TV for some stupid cheap price like $199. But that's usually a bad TV, from a brand you've probably never heard of. While the good TVs from brands like Sony, Samsung, LG, Hisense and others are discounted, but not as heavily.
 
 
+***
+![Final Fantasy VII: The First Soldier comes out Nov. 17, has an epic intro](https://www.cnet.com/a/img/MrkgBFJe8AulBZYVMG307i1jG0U=/1200x630/2020/04/10/003bfff1-5cf1-4637-894a-32dc838e7e67/ffvii-remake-cloud.jpg "Final Fantasy VII: The First Soldier comes out Nov. 17, has an epic intro")
+
+
+[Final Fantasy VII: The First Soldier comes out Nov. 17, has an epic intro](https://www.cnet.com/tech/gaming/final-fantasy-vii-the-first-soldier-comes-out-nov-17-has-an-epic-intro/)
+
+
+> Cloud Strife isn't the star of Final Fantasy VII: The First Soldier, but he appears in the mobile game's introduction sequence. Square Enix Final Fantasy VII: The First Soldier will bring multiplayer battle royale action to iOS and Android devices on Wednesday, Nov. 17, developer Square Enix said Friday. It also revealed the spinoff's awesome introduction sequence, which runs through events that happened in the decades prior to Final Fantasy VII's story.You can pre-register for the mobile game, which will be free-to-play with in-app purchases.
+
+
+***
+![How technology can help us create](https://static.independent.co.uk/2021/10/20/14/Kim_Chin_Independent_Samsung_1287.jpg?width=1200&auto=webp&quality=75 "How technology can help us create")
+
+
+[How technology can help us create](https://www.independent.co.uk/life-style/gadgets-and-tech/how-technology-can-help-us-create-b1941930.html)
+
+
+> No body in the article.
+
+
+***
+![US government offers $10M bounty for DarkSide ransomware hackers – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/11/fbi-darkside-wanted-poster-1.jpg "US government offers $10M bounty for DarkSide ransomware hackers – TechCrunch")
+
+
+[US government offers $10M bounty for DarkSide ransomware hackers – TechCrunch](https://techcrunch.com/2021/11/05/state-department-darkside-bounty/)
+
+
+> The U.S. Department of State is upping the ante in its fight against ransomware by offering a reward of up to $10 million for information that helps identify or track down leaders of the notorious DarkSide ransomware group. The State Department said it's also offering as much as $5 million for information that leads to the arrest or conviction of anyone 'conspiring to participate in or attempting to participate in a DarkSide variant ransomware incident.' This is likely a nod to the group's affiliate program, in which members receive a custom variant of the DarkSide ransomware and receive a chunk of any ransom payment profits.
+
+
+***
+![Lessons learned: How a severe vulnerability in the OWASP ModSecurity Core Rule](https://external-preview.redd.it/YbZZxaXCAk0VoVIdbw5EOFQxzRIvBTW7MQkgxGMNhN4.jpg?auto=webp&s=c27c821c035dc75f543973c098124dd36b598526 "Lessons learned: How a severe vulnerability in the OWASP ModSecurity Core Rule")
+
+
+[Lessons learned: How a severe vulnerability in the OWASP ModSecurity Core Rule](https://www.reddit.com/r/programming/comments/qne8f5/lessons_learned_how_a_severe_vulnerability_in_the/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![2021 holiday gift guide: The do's and don'ts of buying smartphones and other tech gifts](https://www.cnet.com/a/img/hW-b8YF7y5zjue0ScpVYbEj-k8U=/1200x630/2020/10/15/6dd4778e-6e32-4a8c-bbfd-bd4d03bf1bf4/apple-iphone-gift-wrapping-bow-9091.jpg "2021 holiday gift guide: The do's and don'ts of buying smartphones and other tech gifts")
+
+
+[2021 holiday gift guide: The do's and don'ts of buying smartphones and other tech gifts](https://www.cnet.com/tech/mobile/2021-holiday-gift-guide-the-dos-and-donts-of-buying-smartphones-and-other-tech-gifts/)
+
+
+> You should do research before buying a gadget gift for someone else. Sarah Tew/CNET This story is part of Holiday Gift Guide 2021, our list of ideas, by topic, by recipient and by price, to help you discover the perfect gift. The holidays are just around the corner, and with a surging supply chain crisis overwhelming ports and causing massive shipping delays, it's a good idea to get ahead of the curve when it comes to gift shopping for your loved ones.However, purchasing a gadget for that tech lover in your life isn't always easy.
+
+
