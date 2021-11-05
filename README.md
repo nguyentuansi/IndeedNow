@@ -26784,3 +26784,50 @@
 > Hi,This is a Python tutorial that walks through, step by step, to detect within training sports images using TensorFlowThe tutorial teachs how to build the network and how to code the whole process from train images until the prediction of a sports in a new imageThe link for the video : https://youtu.be/xORACIVRNd4The Python code is here : https://github.com/feitgemel/TensorFlowProjects/tree/master/sportsClassificationMobileNetModelEnjoyEran
 
 
+***
+![Infinity Deathmatch Digs Too Deep](https://techraptor.net/sites/default/files/styles/image_header/public/2021-11/Infinity%20Deathmatch%20Board%20Set%20Up.jpg?itok=15hxvLRu "Infinity Deathmatch Digs Too Deep")
+
+
+[Infinity Deathmatch Digs Too Deep](https://techraptor.net/tabletop/news/infinity-deathmatch-introduces-mech-mayhem)
+
+
+> Fans of developer Corvus Belli's world of Infinity are about to get something new. Courtesy of a new crowdfunding campaign, the developer has announced Infinity Deathmatch: TAG Raid, a competitive miniatures game where you control a crew of mechs to stake your claim on precious resources before the competition does. According to the official campaign on Kickstarter, Infinity Deathmatch is a 2-4 player skirmish-based combat game. Each player represents a different mining corporation that has managed to obtain a concession of exploitation on the region of Khurland.
+
+
+***
+![PCT LTD has Filed a Joint Patent Application with NanoGas Technologies'](http://www.businesswire.com/images/bwlogo_square.png "PCT LTD has Filed a Joint Patent Application with NanoGas Technologies'")
+
+
+[PCT LTD has Filed a Joint Patent Application with NanoGas Technologies'](https://www.businesswire.com/news/home/20211105005820/en/PCT-LTD-has-Filed-a-Joint-Patent-Application-with-NanoGas-Technologies%E2%80%99)
+
+
+> LITTLE RIVER, S.C.--(BUSINESS WIRE)--PCT LTD ('PCTL' OTC Pink) is excited to introduce a new patent pending technology which utilizes the synergy obtained when electrochemically activated (ECA) anolyte or catholyte manufactured by PCT's patented equipment is infused with 50 -200 nm spherical gas bubbles manufactured by NGT's patented process and equipment. Gases such as nitrogen, oxygen, etc. are used to create more stable and efficacious dispersions in the ECA solutions. This technology adds the multiple mechanical and surface energy benefits of nanobubbles to the biocidal or sanitizing properties of anolyte (Hydrolyte™).
+
+
+***
+[USDCHF does note have a happy ending to the week for the buyers](https://www.forexlive.com/technical-analysis/!/usdchf-does-note-have-a-happy-ending-to-the-week-for-the-buyers-20211105)
+
+
+> Price is closing lower on the week and gave up all the day gains The USDCHF is not ending on a happy note for the buyers as the week's trading moves toward the close. 
+
+
+***
+![First Pikmin Bloom Community Day Arrives Next Week](https://techraptor.net/sites/default/files/styles/image_header/public/2021-11/First%20Pikmin%20Bloom%20Community%20Day%20cover.jpg?itok=k4aIJ7dq "First Pikmin Bloom Community Day Arrives Next Week")
+
+
+[First Pikmin Bloom Community Day Arrives Next Week](https://techraptor.net/gaming/news/first-pikmin-bloom-community-day-arrives-next-week)
+
+
+> The first Pikmin Bloom Community Day has been announced and it will give players on Android and iOS the opportunity to earn some cool rewards in mid-November 2021. It's been a rough year for the major mobile AR games out there. Minecraft Earth announced that it was shutting down earlier this year; more recently, Harry Potter: Wizards Unite announced that it was bringing an end to the game roughly two years after it first launched. New games are still coming out, though, and the Pikmin franchise has been doing pretty alright in recent years.
+
+
+***
+![Best Black Friday 85 & 86 Inch TV Deals (2021): Top Early TCL, Samsung, LG & More TV Savings Summarized by Retail Egg](http://www.businesswire.com/images/bwlogo_square.png "Best Black Friday 85 & 86 Inch TV Deals (2021): Top Early TCL, Samsung, LG & More TV Savings Summarized by Retail Egg")
+
+
+[Best Black Friday 85 & 86 Inch TV Deals (2021): Top Early TCL, Samsung, LG & More TV Savings Summarized by Retail Egg](https://www.businesswire.com/news/home/20211105005459/en/Best-Black-Friday-85-86-Inch-TV-Deals-2021-Top-Early-TCL-Samsung-LG-More-TV-Savings-Summarized-by-Retail-Egg)
+
+
+> November 05, 2021 03:50 PM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Black Friday researchers have reviewed the latest early 85 & 86 inch TV deals for Black Friday, together with discounts on smart and 4K TVs from best-selling brands like Samsung, TCL & LG. Links to the latest deals are listed below. Top 85 & 86 inch TV deals: Save up to $2000 on a wide range of 85-inch TVs at Walmart - check the latest deals on 85 inch TVs from top brands like LG, Samsung, Sony & TCL Save up to $800 on 86-inch TVs from LG, Samsung, Sony & more top brands at Walmart - check live prices on best-selling 86-inch TVs featuring 4K resolution, QLED screen & smart functionalities Save up to $1000 on top-rated 85-inch QLED smart TVs at Walmart - check the latest deals on Samsung's 85-inch QLED TV with 4K & 8K resolution Save up to $800 on a wide selection of 86-inch TVs with Roku streaming at Walmart - including Roku Smart TVs from brands such as Samsung, Hisense, TCL & more Save up to $1000 on best-selling 85-inch 4K, 8K & smart TVs at Amazon - click on the link for discounts on 4K, 8K, 720p & 1080p resolution 85-inch TVs Save up to 53% on top-rated 85-inch TVs at BHPhotoVideo.
+
+
