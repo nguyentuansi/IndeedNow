@@ -26557,3 +26557,43 @@
 > Talking about the planet "Uranus" might get you in Twitter jail. A former NASA astronomer, Dr. James O'Donoghue was trying to talk about "planetary science" on the microblogging site when he realised that Twitter was blocking out responses because they contained the word "Uranus."There is only one reason why that would happen. It appears that Twitter is reading Uranus as two separate words, which would actually be derogatory. NASAThe same wordplay is very common on Twitter, all thanks to Lady Gaga's iconic song called "Venus" from 2013 wherein she used the word Uranus to give an empowering message about her own body.
 
 
+***
+![Xiaomi Plans To Become World's Number 1 Smartphone OEM In 3 Years](https://www.androidheadlines.com/wp-content/uploads/2021/09/Xiaomi-11T-Pro-AH-HR-HW1-scaled.jpg "Xiaomi Plans To Become World's Number 1 Smartphone OEM In 3 Years")
+
+
+[Xiaomi Plans To Become World's Number 1 Smartphone OEM In 3 Years](https://www.androidheadlines.com/2021/11/xiaomi-top-smartphone-oem-plans.html)
+
+
+> Xiaomi has a huge appetite. The company has been growing constantly over the years, and its growth has been even higher since Huawei got banned by the US. Now, Lu Weibing, a Senior VP of Xiaomi Group China and GM of Redmi, shared some interesting info. Xiaomi actually plans to become the world's number 1 smartphone OEM in 3 years.Xiaomi plans to surpass Samsung and become the world's number 1 smartphone OEM in 3 yearsThe company is planning to surpass both Samsung and Apple. We're talking about proper leadership here, as Xiaomi already managed to outsell both of those companies in a single quarter.
+
+
+***
+![Google's Pixel 6 vs. Pixel 5: All the biggest differences](https://www.cnet.com/a/img/dD1fRCQJf-Q-NNdpGA6nkk6k9ms=/1200x630/2021/08/02/4ed1c034-3f95-4536-b8aa-386430ca9809/pixel-6-group-image-teal-orange.jpg "Google's Pixel 6 vs. Pixel 5: All the biggest differences")
+
+
+[Google's Pixel 6 vs. Pixel 5: All the biggest differences](https://www.cnet.com/tech/mobile/googles-pixel-6-vs-pixel-5-all-the-biggest-differences/)
+
+
+> Enlarge Image","modalTemplate":"{{content}}","setContentOnInit":false}>The Pixel 6 phones are here. How do they measure up to the Pixel 5? Google The Pixel 6 and Pixel 6 Pro with Google's in-house Tensor chip arrived at the company's October launch event, but how do they compare the Pixel 5? The Pixel 6 platform is a significant leap forward in terms of power, performance, features and design (here are all the differences between the Pixel 6 and Pixel 6 Pro), so getting a Pixel 5 or an even older Pixel now could certainly lead to instant buyer's remorse.
+
+
+***
+![Black Friday Apple Watch Series 5 & 4 Deals 2021: Early Apple Watch 5 44mm & 40mm Deals Reported by Deal Stripe](http://www.businesswire.com/images/bwlogo_square.png "Black Friday Apple Watch Series 5 & 4 Deals 2021: Early Apple Watch 5 44mm & 40mm Deals Reported by Deal Stripe")
+
+
+[Black Friday Apple Watch Series 5 & 4 Deals 2021: Early Apple Watch 5 44mm & 40mm Deals Reported by Deal Stripe](https://www.businesswire.com/news/home/20211105005049/en/Black-Friday-Apple-Watch-Series-5-4-Deals-2021-Early-Apple-Watch-5-44mm-40mm-Deals-Reported-by-Deal-Stripe)
+
+
+> November 05, 2021 05:55 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Black Friday experts at Deal Stripe have rounded-up the latest early Apple Watch Series 5 & 4 deals for Black Friday, together with all the top sales on Apple Watch 4 & 5 40mm and 44mm models. Links to the top deals are listed below. Best Apple Watch Series 5 & 4 Deals: Best Apple Watch Deals: Save up to 39% on Apple Watches including the Apple Watch 6, SE, 5, 4 & 3 at Amazon - click the link for live prices on the latest Apple Watch Series 6 & SE and older Series 5, 4, and 3 smartwatches Save on the latest Apple Watches at Verizon.
+
+
+***
+![Black Friday gaming monitor deals: what to expect](https://cdn.mos.cms.futurecdn.net/JU6vpXBv4TtbDjkCzfL7YK-1200-80.jpg "Black Friday gaming monitor deals: what to expect")
+
+
+[Black Friday gaming monitor deals: what to expect](https://www.techradar.com/black-friday/black-friday-gaming-monitor-deals)
+
+
+> The best gaming monitors can be pretty pricey, which is exactly why Black Friday is one of the best times of the year to save yourself some cash. They tend to be expensive for a good reason of course, with many modern gaming displays equipped with incredible features like QLED or OLED screens, 4K resolutions and a high refresh rate, making them a cut above the old LCD screens used in a standard office or college.This year's Black Friday deals are set to take place on November 26, though we will likely see early savings on the digital shelves from the start of the month.
+
+
