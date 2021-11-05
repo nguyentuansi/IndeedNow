@@ -26316,3 +26316,50 @@
 > New World is having some issues.  Amazon Games New World, Amazon Games' massively multiplayer online RPG, made a big debut with more than 900,000 people playing the game when it was released at the end of September. Just over a month since then, players began leaving the game in large numbers as more game exploits have been found causing Amazon Games to step in. Amazon Games provided an update on the current state of the game Wednesday on the New World forum. The studio says it will monitor the economy of the game to make sure it's within acceptable levels and will proceed to ban players who made use of a gold exploit found in the game.
 
 
+***
+![When people talk about cell coverage are they talking about just text and phone calls or 4g lte / 5g internet data too ?](https://images.macrumors.com/social/?t=2321844&v=6 "When people talk about cell coverage are they talking about just text and phone calls or 4g lte / 5g internet data too ?")
+
+
+[When people talk about cell coverage are they talking about just text and phone calls or 4g lte / 5g internet data too ?](https://forums.macrumors.com/threads/when-people-talk-about-cell-coverage-are-they-talking-about-just-text-and-phone-calls-or-4g-lte-5g-internet-data-too.2321844/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser.
+
+
+***
+![After Jeju, Seoul… Starbucks 'disposable cups' disappear](https://img.sbs.co.kr/newimg/news/20211105/201606919_1280.jpg "After Jeju, Seoul… Starbucks 'disposable cups' disappear")
+
+
+[After Jeju, Seoul… Starbucks 'disposable cups' disappear](https://www.tellerreport.com/tech/2021-11-05-after-jeju--seoul…-starbucks--disposable-cups--disappear.HygipIlMDt.html)
+
+
+> Starting tomorrow, you will no longer be able to find disposable cups at Starbucks stores near Seoul City Hall. Starbucks Korea announced that it will start a pilot operation of stores without disposable cups in Seoul following the Jeju region. From tomorrow (6th), disposable cups will no longer be found at Starbucks stores near Seoul City Hall. Starbucks Korea announced that it will start a pilot operation of stores without disposable cups in Seoul following the Jeju region. Starbucks started a pilot operation of a store without disposable cups at four stores in Jeju last July, and it is said that they reduced the use of about 200,000 disposable cups in three months.
+
+
+***
+!["Under the stairs, the traces dug up"... Gold bars on old Japanese farms?](https://img.sbs.co.kr/newimg/news/20211105/201606917_1280.jpg ""Under the stairs, the traces dug up"... Gold bars on old Japanese farms?")
+
+
+["Under the stairs, the traces dug up"... Gold bars on old Japanese farms?](https://www.tellerreport.com/tech/2021-11-05-"under-the-stairs--the-traces-dug-up"----gold-bars-on-old-japanese-farms-.S1lpIeGDY.html)
+
+
+> There were rumors that gold bars were buried in an old Japanese farm in Iksan, Jeollabuk-do, but recently, traces of the floor of the building were found, so rumors of gold bars are being buried again. There were rumors that gold bars were buried in an old Japanese farm in Iksan, Jeollabuk-do, but recently, traces of the floor of the building were found, so rumors of gold bars are being buried again.This is an old Japanese farm office in Iksan, Jeollabuk-do.Â It is a warehouse built for the export of rice during the Japanese colonial period, but in March, rumors spread that 2 tons of gold bars were buried, causing a stir in the local community.
+
+
+***
+[Square reports Q3 revenue of $3.84B, up 27% YoY but missing $4.51B estimates, bitcoin revenue of $1.81B, up 11% YoY, and gross payment volume of $45.4B, up 43% (Kurt Wagner/Bloomberg)](http://www.techmeme.com/211104/p34#a211104p34)
+
+
+> Kurt Wagner / Bloomberg: Square reports Q3 revenue of $3.84B, up 27% YoY but missing $4.51B estimates, bitcoin revenue of $1.81B, up 11% YoY, and gross payment volume of $45.4B, up 43% — - Overall third-quarter sales fall short of analysts' estimates — Gross profit was up 43% from the same period a year earlier
+
+
+***
+![Mavenir enabling CSPs to creatively monetise Network-as-a-Service from 3G, 4G, and 5G](https://itwire.com/media/k2/items/cache/07ec03d4d42ca8eab352868cd6716b77_XS.jpg "Mavenir enabling CSPs to creatively monetise Network-as-a-Service from 3G, 4G, and 5G")
+
+
+[Mavenir enabling CSPs to creatively monetise Network-as-a-Service from 3G, 4G, and 5G](https://itwire.com/5g/mavenir-enabling-csps-to-creatively-monetise-network-as-a-service-from-3g,-4g,-and-5g.html)
+
+
+> Mavenir GM digital enablement business unit Sandeep Singh Network software provider Mavenir announces its cloud-native, modular, and micro-services-based Converged Charging Solution (CCS), which it says enables Communications Service Providers (CSPs) to creatively monetise Network-as-a-Service from 3G, 4G, and 5G networks. As a component of the Mavenir Digital Enablement (MDE) platform, this MACH-based (100% Micro-services, API first, Cloud-native, and Headless) CCS makes it easy to create and quickly deploy new services in response to market demand, Mavenir says.
+
+
