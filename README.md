@@ -26747,3 +26747,40 @@
 > You should do research before buying a gadget gift for someone else. Sarah Tew/CNET This story is part of Holiday Gift Guide 2021, our list of ideas, by topic, by recipient and by price, to help you discover the perfect gift. The holidays are just around the corner, and with a surging supply chain crisis overwhelming ports and causing massive shipping delays, it's a good idea to get ahead of the curve when it comes to gift shopping for your loved ones.However, purchasing a gadget for that tech lover in your life isn't always easy.
 
 
+***
+[USDJPY moves toward key downside support target. Is it time for a break?](https://www.forexlive.com/technical-analysis/!/usdjpy-moves-toward-downside-support-target-20211105)
+
+
+> The price of the USDJPY has been confined in a up and down range for nearly 4 weeks.  The USDJPY has been mired in an up and down trading range since October 12 between 113.21 (apart from two hourly bars) and 114.691.  This week the high on Monday spiked above a swing area between 114.03 to
+
+
+***
+![Crypto Is Cool Now. Get on the Yacht.](https://static01.nyt.com/images/2021/11/07/business/00nftnyc-seedphrase/00nftnyc-seedphrase-facebookJumbo.jpg "Crypto Is Cool Now. Get on the Yacht.")
+
+
+[Crypto Is Cool Now. Get on the Yacht.](https://www.nytimes.com/2021/11/05/technology/nft-nyc-metaverse.html)
+
+
+> An NFT collector, Seedphrase, wearing an NFT helmet, was the DJ for a set at VR World in Manhattan on Monday.Credit...Jeenah Moon for The New York TimesThe Great ReadNFT.NYC, a gathering for nonfungible token enthusiasts, offered a taste of a crypto-filled future.An NFT collector, Seedphrase, wearing an NFT helmet, was the DJ for a set at VR World in Manhattan on Monday.Credit...Jeenah Moon for The New York TimesNov. 5, 2021Updated 2:01 p.m. ETThe masters of the metaverse — thousands of CryptoPunks and Bored Apes, artists and hackers, starry-eyed idealists and profit-hungry speculators — descended on Manhattan this past week, looking for a glimpse of the future.
+
+
+***
+![Today's best Black Friday Apple deals: iPads, AirPods, iPhone, MacBooks, more](https://cdn.mos.cms.futurecdn.net/DgaV5iWQj5qc2e4j8m5vTn-1200-80.jpg "Today's best Black Friday Apple deals: iPads, AirPods, iPhone, MacBooks, more")
+
+
+[Today's best Black Friday Apple deals: iPads, AirPods, iPhone, MacBooks, more](https://www.techradar.com/news/black-friday-apple-deals-now-live-record-low-prices-airpods-ipads-iphone)
+
+
+> (Image credit: Future) Black Friday Apple deals are dropping earlier than ever, which means you can score record-low prices right now on Apple's best-selling devices. We're sorted through today's early Black Friday deals to bring you the best Apple offers on iPads, AirPods, the iPhone, MacBooks, and more. Black Friday Apple deals are always top-sellers during the big November sale, thanks to best-ever offers that typically sell out fast. Today's early Black Friday deals include best-ever offers, and we can't guarantee you'll find a better price come November 26.
+
+
+***
+![How to classify sports using TensorFlow and Mobilenet (Neural network project)](https://external-preview.redd.it/KuyEVdoplU-L6iZFd64XVvcaJELPnwRJFVs93_8up_0.jpg?auto=webp&s=c3c546b00d227b876ecbd1fe7ef72075437cadd8 "How to classify sports using TensorFlow and Mobilenet (Neural network project)")
+
+
+[How to classify sports using TensorFlow and Mobilenet (Neural network project)](https://www.reddit.com/r/Python/comments/qngoer/how_to_classify_sports_using_tensorflow_and/)
+
+
+> Hi,This is a Python tutorial that walks through, step by step, to detect within training sports images using TensorFlowThe tutorial teachs how to build the network and how to code the whole process from train images until the prediction of a sports in a new imageThe link for the video : https://youtu.be/xORACIVRNd4The Python code is here : https://github.com/feitgemel/TensorFlowProjects/tree/master/sportsClassificationMobileNetModelEnjoyEran
+
+
