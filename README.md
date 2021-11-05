@@ -26413,3 +26413,53 @@
 > The International Space Station is gearing up for a busy few days as NASA and SpaceX prep the launch of one mission and the return of another. Four SpaceX Crew-3 astronauts were supposed to launch to the ISS on Sunday, October 31, but poor weather at the Kennedy Space Center launch site in Florida prompted the mission team to call it off. It was rescheduled to Wednesday, November 3, but postponed again as one of the crewmembers had to deal with a minor medical issue. A new launch date was set for Saturday, November 6, but more poor weather has delayed the launch again, this time pushing it to Monday, November 8.
 
 
+***
+![Nintendo says chip shortage hitting hardware development](https://www.reuters.com/resizer/lsfuPytNFdMlLZsh11glZ51ksn4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RC6YUUQR6VNZXNGRWDHXSQCJRU.jpg "Nintendo says chip shortage hitting hardware development")
+
+
+[Nintendo says chip shortage hitting hardware development](https://www.reuters.com/technology/nintendo-says-chip-shortage-hitting-hardware-development-2021-11-05/)
+
+
+> The Nintendo logo is displayed at the Nintendo Tokyo store, in Tokyo, Japan, Nov. 19, 2019. REUTERS/Issei Kato/File PhotoTOKYO, Nov 5 (Reuters) - Japan's Nintendo Co Ltd (7974.T) said on Friday that a global chip shortage which forced the firm to scale back expectations for sales of its hit Switch device is also hitting hardware development."The semiconductor situation is having some effect on hardware development," Nintendo executive Ko Shiota, who heads the development team, told an analyst briefing.
+
+
+***
+![JioPhone Next first sale in India today: Here is how you can buy the budget smartphone](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/screenshot_2021-11-05_at_9.16._1200x768-original.png "JioPhone Next first sale in India today: Here is how you can buy the budget smartphone")
+
+
+[JioPhone Next first sale in India today: Here is how you can buy the budget smartphone](https://www.indiatoday.in/technology/news/story/jiophone-next-first-sale-in-india-today-here-is-how-you-can-buy-the-budget-smartphone-1873296-2021-11-05)
+
+
+> Story highlights Reliance's budget smartphone JioPhone Next is all set to go on its first sale today. The JioPhone Next is available across retail across stores in India. With JioPhone Next, Reliance aims to offer affordable smartphones with 4G connectivity to users across India. Reliance's budget smartphone JioPhone Next is all set to go on its first sale today. The JioPhone Next is available across retail across stores in India. However, before heading to a store, you will have to first register for the phone via WhatsApp or the Jio website.
+
+
+***
+![Telegram updates bring many interesting changes](https://cdn.mos.cms.futurecdn.net/sTg3ca2yx9WC6DB7qpBrFh-1200-80.jpg "Telegram updates bring many interesting changes")
+
+
+[Telegram updates bring many interesting changes](https://www.techradar.com/news/telegram-updates-adds-many-interesting-changes-here-are-the-details)
+
+
+> (Image credit: Telegram) One thing that Telegram is certainly up to speed is on updates. The messaging platform is pretty regular with additions and tweaks that seek to make things easy and interesting for its users. Telegram's latest update --- Telegram 8.2 --- is no less impressive.The new update being rolled out includes a fresh date bar and calendar view for the shared media page on the iOS app, speed scrolling, more admin control and interactive emojis.The larger idea behind the update seems to make navigation smoother and provide easier access to media library.
+
+
+***
+![Two American mayors will take salary in Bitcoin, New York says it wants to be a crypto hub](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/bitcoinreuters_5112021-original.png "Two American mayors will take salary in Bitcoin, New York says it wants to be a crypto hub")
+
+
+[Two American mayors will take salary in Bitcoin, New York says it wants to be a crypto hub](https://www.indiatoday.in/technology/news/story/two-american-mayors-will-take-salary-in-bitcoin-new-york-says-it-wants-to-be-a-crypto-hub-1873292-2021-11-05)
+
+
+> Shubham Verma New Delhi, Nov 05, 2021, Updated Nov 05, 2021, 9:12 AM IST Story highlights New York City's new mayor-elect Eric Adams said he will take his first three salaries in Bitcoin. Miami's mayor Francis Suarez also said his next paycheck will be 100 per cent in Bitcoin. While Miami has its own crypto, NYC may get a system for crypto-based salaries soon. How do you collect your paycheck? In cash? Or through your bank account? Or maybe through barter in rare cases? Never mind because at least two American mayors have announced a new way to get their salaries.
+
+
+***
+![Facebook is testing ways for creators to make money: All you need to know](https://images.indianexpress.com/2021/10/FB-Meta.jpg "Facebook is testing ways for creators to make money: All you need to know")
+
+
+[Facebook is testing ways for creators to make money: All you need to know](https://indianexpress.com/article/technology/social/facebook-is-testing-ways-for-creators-to-make-money-all-you-need-to-know-7607913/)
+
+
+> Facebook is testing ways for creators to make money through Facebook Groups, such as users paying fees for exclusive access to content or conversations within subgroups, the company said on Thursday. Facebook, which recently changed its name to Meta, said the test was part of its broader paid subscription effort. The social media company is one of many tech giants that have been working to woo social media creators and their large followings through payments and new tools. Facebook, which has in recent years focused on building communities as a tactic to drive engagement on the site, said Group administrators will be able to run e-commerce shops to sell merchandise or create community fundraisers, which could offset the costs of running a Group.
+
+
