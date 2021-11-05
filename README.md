@@ -26363,3 +26363,53 @@
 > Mavenir GM digital enablement business unit Sandeep Singh Network software provider Mavenir announces its cloud-native, modular, and micro-services-based Converged Charging Solution (CCS), which it says enables Communications Service Providers (CSPs) to creatively monetise Network-as-a-Service from 3G, 4G, and 5G networks. As a component of the Mavenir Digital Enablement (MDE) platform, this MACH-based (100% Micro-services, API first, Cloud-native, and Headless) CCS makes it easy to create and quickly deploy new services in response to market demand, Mavenir says.
 
 
+***
+![Ariana Grande and Cynthia Erivo cast as leads in 'Wicked' movie adaptation](https://helios-i.mashable.com/imagery/articles/029aGMlww89AxudQljc4KLa/hero-image.fill.size_1200x675.v1636078507.png "Ariana Grande and Cynthia Erivo cast as leads in 'Wicked' movie adaptation")
+
+
+[Ariana Grande and Cynthia Erivo cast as leads in 'Wicked' movie adaptation](https://mashable.com/article/wicked-movie-cast-ariana-grande-cynthia-erivo)
+
+
+> Ariana Grande and Cynthia Erivo have been confirmed as the leads in Jon M. Chu's film adaptation of Wicked, the hit Broadway musical adapted from a novel retelling from the Witches' perspective the story of The Wizard of Oz, the 1939 film based on L Frank Baum's 1900 book The Wonderful Wizard of Oz. (And people say Hollywood has no new ideas any more.)Grande will play Galinda, aka Glinda the Good Witch, the role originated by Kristin Chenoweth on Broadway; Erivo will take on Elphaba, the green-skinned future Wicked Witch of the West, and thus also the musical's iconic Act One finale number, "Defying Gravity".
+
+
+***
+![Spider-Man will swing into Marvel's Avengers on PS4 and PS5 this month](https://cdn.mos.cms.futurecdn.net/xnEexXfPqCSCMeX37GyDLg-1200-80.jpg "Spider-Man will swing into Marvel's Avengers on PS4 and PS5 this month")
+
+
+[Spider-Man will swing into Marvel's Avengers on PS4 and PS5 this month](https://www.techradar.com/news/spider-man-will-swing-into-marvels-avengers-on-ps4-and-ps5-this-month)
+
+
+> (Image credit: Square Enix / TechRadar) We've known for a while that everyone's favorite friendly neigborhood Spider-Man would swing into Marvel's Avengers at some point, but now we finally have a confirmed date.As revealed in a content roadmap that was posted by the official Twitter account for Marvel's Avengers, Spider-Man will make his debut in the game as part of a new hero event on November 30, 2021.Unfortunately for Xbox and PC players, the content will be exclusive to PS4 and PS5 owners, which shouldn't come as much of a surprise given that Spider-Man is still being held hostage in Marvel's Avengers by Sony.
+
+
+***
+![How accurate is Fitbit's calorie counting?](https://helios-i.mashable.com/imagery/articles/00SKowhn33EATyFMl7Qoiw1/hero-image.fill.size_1200x675.v1636077907.png "How accurate is Fitbit's calorie counting?")
+
+
+[How accurate is Fitbit's calorie counting?](https://mashable.com/article/how-accurate-fitbit-calorie-count)
+
+
+> Most fitness trackers keep a fair number of the same stats: things like steps taken, distance traveled, and, of course, calories burned. But how accurate is the calorie counter on a Fitbit?The quick answer: Definitely not 100 percent accurate. The slightly longer answer: It's not perfect, but no calorie counter is and Fitbit is likely as good as any. A 2017 study found the Fitbit Surge had a median error of 27 percent when counting calories burned. At face value, that seems like a lot of error. But it was actually one of the best-performing trackers among the devices tested at the time, which included the Apple Watch, Basis Peak, Fitbit Surge, Microsoft Band, Mio Alpha 2, PulseOn, and Samsung Gear S2.
+
+
+***
+!['It's not science fiction': New East Bay facility producing lab-grown meat plans to produce 400,000 pounds per year](https://external-preview.redd.it/7xtvikJjAPmDGz-4LTH27uO5YJXt0qEi-Sgv2iVnths.jpg?auto=webp&s=3702289e0bb8473eeefb85dfdaa98ceeae6ec43a "'It's not science fiction': New East Bay facility producing lab-grown meat plans to produce 400,000 pounds per year")
+
+
+['It's not science fiction': New East Bay facility producing lab-grown meat plans to produce 400,000 pounds per year](https://www.reddit.com/r/technology/comments/qn0jci/its_not_science_fiction_new_east_bay_facility/)
+
+
+> Located in a residential neighborhood near the Public Market Emeryville, Upside's new space looks like a brewery on steroids. It's capable of producing 50,000 pounds of meat per year, with room to eventually expand to 400,000 pounds.Huge tanks known as bioreactors line the main room, where cells harvested from live animals will be bathed in nutrients such as glucose, vitamins and amino acids. The bioreactors create an environment similar to an animal's body, and the nutrients feed the cells until they get bigger, forming an unstructured, ground meat-like product.
+
+
+***
+![NASA and SpaceX try to figure out spacecraft launch and landing](https://icdn.digitaltrends.com/image/digitaltrends/51139379472_c279dffd49_k1.jpg "NASA and SpaceX try to figure out spacecraft launch and landing")
+
+
+[NASA and SpaceX try to figure out spacecraft launch and landing](https://www.digitaltrends.com/news/nasa-and-spacex-are-preparing-for-a-very-busy-few-days/)
+
+
+> The International Space Station is gearing up for a busy few days as NASA and SpaceX prep the launch of one mission and the return of another. Four SpaceX Crew-3 astronauts were supposed to launch to the ISS on Sunday, October 31, but poor weather at the Kennedy Space Center launch site in Florida prompted the mission team to call it off. It was rescheduled to Wednesday, November 3, but postponed again as one of the crewmembers had to deal with a minor medical issue. A new launch date was set for Saturday, November 6, but more poor weather has delayed the launch again, this time pushing it to Monday, November 8.
+
+
