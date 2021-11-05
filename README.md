@@ -26597,3 +26597,53 @@
 > The best gaming monitors can be pretty pricey, which is exactly why Black Friday is one of the best times of the year to save yourself some cash. They tend to be expensive for a good reason of course, with many modern gaming displays equipped with incredible features like QLED or OLED screens, 4K resolutions and a high refresh rate, making them a cut above the old LCD screens used in a standard office or college.This year's Black Friday deals are set to take place on November 26, though we will likely see early savings on the digital shelves from the start of the month.
 
 
+***
+![Kroger says press release announcing acceptance of bitcoin cash is fake](https://www.reuters.com/resizer/pHJwX5P16vSch3DLR5WbLKHuvb4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P3H37JRNRVOTDMJFMYPPELY5SU.jpg "Kroger says press release announcing acceptance of bitcoin cash is fake")
+
+
+[Kroger says press release announcing acceptance of bitcoin cash is fake](https://www.reuters.com/technology/kroger-says-press-release-announcing-acceptance-bitcoin-cash-is-fake-2021-11-05/)
+
+
+> The Kroger supermarket chain's headquarters is shown in Cincinnati, Ohio, U.S., June 28, 2018. REUTERS/Lisa Baertlein/File PhotoNov 5 (Reuters) - A spokesperson of Kroger Co (KR.N) said on Friday a press release saying the grocer would accept "bitcoin cash" this holiday season was fraudulent.The release appeared on Kroger's investor relations page. It was not immediately clear how the release made it to the company's website.Reporting by Uday Sampath in Bengaluru; Editing by Krishna Chandra EluriOur Standards: The Thomson Reuters Trust Principles.
+
+
+***
+![How do I pay for Microsoft Office monthly?](https://images.macrumors.com/social/?t=2321897&v=6 "How do I pay for Microsoft Office monthly?")
+
+
+[How do I pay for Microsoft Office monthly?](https://forums.macrumors.com/threads/how-do-i-pay-for-microsoft-office-monthly.2321897/)
+
+
+> Hello, this has to be the stupidest question ever, but how do I pay for the Office subscription monthly, not yearly? On Mac App Store I see IAP and there should be a possibility to pay monthly, however I only get the option to pay annually? How do I change it?
+
+
+***
+![AKUA lands $3.2M to turn kelp into burgers – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/11/AKUA-Kelp-Burger-November-3.png "AKUA lands $3.2M to turn kelp into burgers – TechCrunch")
+
+
+[AKUA lands $3.2M to turn kelp into burgers – TechCrunch](https://techcrunch.com/2021/11/05/akua-lands-3-2m-to-turn-kelp-into-burgers/)
+
+
+> The global meat substitute market was valued at $4.51 billion two years ago and is expected to double by 2027, attracting startups, like alternative meat food tech company AKUA, that aim to solidify a prominent place in the up-and-coming industry. Former technology journalist Courtney Boyd Myers co-founded AKUA with Matthew Lebo, who was an adviser to GreenWave, a nonprofit that trains ocean farmers, five years ago after seeking out a career where she could leave a legacy and fulfill her mission of reversing climate change.
+
+
+***
+![Are you going to need a new case for your 16-inch MacBook Pro?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/macbook-pro-2021-lifestyle.jpg "Are you going to need a new case for your 16-inch MacBook Pro?")
+
+
+[Are you going to need a new case for your 16-inch MacBook Pro?](https://www.imore.com/will-new-16-inch-macbook-pro-2021-fit-my-old-case)
+
+
+> Source: AppleBest answer: If you have been using a form-fitting hardshell case, then you'll need a new one for the 16-inch MacBook Pro (2021). However, if you're using a sleeve, your new MacBook Pro will most likely fit just fine. The 2021 MacBook Pro has a brand new M1 Pro or M1 Max system-on-a-chip (SoC), making it one of the best MacBooks yet. It also boasts many other new features, such as a Liquid Retina XDR display, 1080p FaceTime HD camera, studio-quality mics, and spatial audio. Apple has also brought back new versions of old favorites: MagSafe charging, an SDXC port, an HDMI port, and a row of physical function keys in lieu of the Touch Bar.
+
+
+***
+![Black Friday iPhone SE Deals (2021) Compared by Deal Stripe](http://www.businesswire.com/images/bwlogo_square.png "Black Friday iPhone SE Deals (2021) Compared by Deal Stripe")
+
+
+[Black Friday iPhone SE Deals (2021) Compared by Deal Stripe](https://www.businesswire.com/news/home/20211105005056/en/Black-Friday-iPhone-SE-Deals-2021-Compared-by-Deal-Stripe)
+
+
+> November 05, 2021 08:00 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Black Friday experts at Deal Stripe have compared all the latest early iPhone SE deals for Black Friday, featuring the best discounts on carrier-locked and unlocked models. Links to the top deals are listed below. Best iPhone SE Deals: Best iPhone Deals: Save up to $600 on the latest Apple iPhones at Verizon.com - click the link to check the latest Apple iPhone 13, 12, 11, XR, X, 8 & more top-rated smartphone deals Save up to $400 on no contract & prepaid Apple iPhones at StraightTalk.
+
+
