@@ -26831,3 +26831,53 @@
 > November 05, 2021 03:50 PM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Black Friday researchers have reviewed the latest early 85 & 86 inch TV deals for Black Friday, together with discounts on smart and 4K TVs from best-selling brands like Samsung, TCL & LG. Links to the latest deals are listed below. Top 85 & 86 inch TV deals: Save up to $2000 on a wide range of 85-inch TVs at Walmart - check the latest deals on 85 inch TVs from top brands like LG, Samsung, Sony & TCL Save up to $800 on 86-inch TVs from LG, Samsung, Sony & more top brands at Walmart - check live prices on best-selling 86-inch TVs featuring 4K resolution, QLED screen & smart functionalities Save up to $1000 on top-rated 85-inch QLED smart TVs at Walmart - check the latest deals on Samsung's 85-inch QLED TV with 4K & 8K resolution Save up to $800 on a wide selection of 86-inch TVs with Roku streaming at Walmart - including Roku Smart TVs from brands such as Samsung, Hisense, TCL & more Save up to $1000 on best-selling 85-inch 4K, 8K & smart TVs at Amazon - click on the link for discounts on 4K, 8K, 720p & 1080p resolution 85-inch TVs Save up to 53% on top-rated 85-inch TVs at BHPhotoVideo.
 
 
+***
+![Get a free pair of Galaxy Buds 2 when you buy a renewed Samsung Galaxy S20](https://www.cnet.com/a/img/jmioXDmq6XUYM9KmHSxb4fT0pyc=/1200x630/2021/08/11/d20220b6-3950-4dd8-ae3b-e84cbb390cc3/samsung-galaxy-buds-2-cnet-2021-09.jpg "Get a free pair of Galaxy Buds 2 when you buy a renewed Samsung Galaxy S20")
+
+
+[Get a free pair of Galaxy Buds 2 when you buy a renewed Samsung Galaxy S20](https://www.cnet.com/tech/mobile/get-a-free-pair-of-galaxy-buds-2-when-you-buy-a-renewed-samsung-galaxy-s20/)
+
+
+> Samsung When it comes to tech, waiting a year or two after a device's initial release can net you a huge discount on purchases. On top of that, shopping refurbished might be the most cost-effective way to upgrade your electronics. This is twice as true when it's being refurbished by the original manufacturer with certified parts and has a one-year warranty. That's why this offer from Samsung is worth the spotlight. When you purchase any renewed phone in the Galaxy S20 line, you'll get a free pair of Galaxy Buds 2 (a $150 value).
+
+
+***
+![Becoming a Senior Software Engineer](https://external-preview.redd.it/RLw_cihELzmrjuHU1zGD_-2QqZ-r80OxvmYBuCyMatw.jpg?auto=webp&s=abb0838580bb2eb20cdcebea93ee631f2b6ab0f5 "Becoming a Senior Software Engineer")
+
+
+[Becoming a Senior Software Engineer](https://www.reddit.com/r/programming/comments/qnlq68/becoming_a_senior_software_engineer/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![How To Learn Coding In JUST 4 WEEKS](https://external-preview.redd.it/JpYajpA1pcx7iJU8J91WKRTYoyyYaDZkQ2alAJLLqKU.jpg?auto=webp&s=462932539c6fd49bc6c8cdedeb96aa915efba179 "How To Learn Coding In JUST 4 WEEKS")
+
+
+[How To Learn Coding In JUST 4 WEEKS](https://www.reddit.com/r/programming/comments/qnlnj9/how_to_learn_coding_in_just_4_weeks/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Will my phone automatically change for daylight saving time?](https://icdn.digitaltrends.com/image/digitaltrends/daylight-savings-time.jpg "Will my phone automatically change for daylight saving time?")
+
+
+[Will my phone automatically change for daylight saving time?](https://www.digitaltrends.com/mobile/will-my-phone-automatically-change-for-daylight-saving-time/)
+
+
+> On Sunday, November 7, at 1:00 a.m. local time, the clock on every smartphone on the planet will adjust — or not adjust — to daylight saving time according to the time observed in your region, without your having to tap a finger. Daylight saving time is practiced in most of Europe, most of North America, and in parts of Asia, South America, and Oceania. For regions that observe daylight saving time, it involves advancing clocks by one hour during the warmer summer and fall months to give people more hours of daylight.
+
+
+***
+![AMD Now Controls Its Largest CPU Market Share In 15 Years](https://icdn.digitaltrends.com/image/digitaltrends/amd-computex-2021-ceo-dr-lisa-su-crop.jpg "AMD Now Controls Its Largest CPU Market Share In 15 Years")
+
+
+[AMD Now Controls Its Largest CPU Market Share In 15 Years](https://www.digitaltrends.com/computing/amd-now-controls-its-largest-cpu-market-share-over-intel-in-15-years/)
+
+
+> It's official: AMD has secured its second-highest CPU market share since 2006. It's been an excellent last few years for AMD, and the latest reports prepared by analyst firm Mercury Research show just how far the rival to Intel has come. The reports were first shared by HardwareTimes, and according to the market analysis, AMD continues its climb in terms of overall x86 market share, increasing by 2.1 points quarter-over-quarter. This adds up to a total 24.6% market share compared to Intel's 75.4%.
+
+
