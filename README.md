@@ -27150,3 +27150,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![These Windows 11 keyboard shortcuts will improve your efficiency](https://cdn.mos.cms.futurecdn.net/oQjcy7oxw38xEoJTtXaEpC-1200-80.jpg "These Windows 11 keyboard shortcuts will improve your efficiency")
+
+
+[These Windows 11 keyboard shortcuts will improve your efficiency](https://www.techradar.com/how-to/these-windows-11-keyboard-shortcuts-will-improve-your-efficiency)
+
+
+> There are new keyboard shortcuts to memorize for the Windows 11 operating system, so if you've never utilized these time-saving key combinations before then now is the perfect time to learn. There have been criticisms that Microsoft's latest OS, Windows 11 is little more than a reskinned version of its predecessor, Windows 10, but this new generation of Windows has unique features that can boost your productivity and efficiency without needing to reach for your mouse.Keyboard shortcuts are the easiest and fastest way to access some of these features, and while it's a skill to memorize and use them (much like touch typing and other desirable computing skills), putting in the effort is worth it.
+
+
+***
+![Holiday shopping shortages: Apps to help you score early Black Friday, Cyber Monday deals](https://www.gannett-cdn.com/presto/2021/11/05/USAT/3b8c73f8-a911-4f2a-a43c-5df713c08b32-Flipp_4.jpg?auto=webp&crop=1999,1124,x0,y315&format=pjpg&width=1200 "Holiday shopping shortages: Apps to help you score early Black Friday, Cyber Monday deals")
+
+
+[Holiday shopping shortages: Apps to help you score early Black Friday, Cyber Monday deals](https://www.usatoday.com/story/tech/columnist/saltzman/2021/11/06/holiday-shopping-apps-help-score-black-friday-cyber-monday-deals/6296650001/)
+
+
+> Holiday shopping 2021: How to get ahead this yearStores are moving up the timeline on Black Friday and Cyber Monday sales in anticipation of product and staffing shortages. Here's how to find deals.If the supply chain issues are as dire as expected, instead of a 'ho ho ho' holiday season, shoppers may find it's more of a 'uh oh, oy' time of the year, with fewer presents around the tree.And so experts are suggesting to shop early, just to err on the side of caution – and look out for deals as prices may be higher across the board.
+
+
+***
+![Destructuring in JavaScript](https://external-preview.redd.it/ScKL7tdbmyYBxxqz8RK7Cuc7mGa1SIQzDr0yzDemNkU.jpg?auto=webp&s=1e101ef1d2a80bb8920b55800b30397efcd48ece "Destructuring in JavaScript")
+
+
+[Destructuring in JavaScript](https://www.reddit.com/r/programming/comments/qnyqt7/destructuring_in_javascript/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Leaving certain appliances on 'standby' mode can add £110 to your energy bills](https://cdn.mos.cms.futurecdn.net/zHzM9j9YfN6EkvaLvuXaTF-1200-80.jpg "Leaving certain appliances on 'standby' mode can add £110 to your energy bills")
+
+
+[Leaving certain appliances on 'standby' mode can add £110 to your energy bills](https://www.techradar.com/news/leaving-certain-appliances-on-standby-mode-can-add-pound110-to-your-energy-bills)
+
+
+> (Image credit: Getty Images) The ongoing energy crisis still shows no sign of letting up and with the colder weather arriving, more suppliers going bust and continued soaring wholesale prices, unfortunately we're likely to keep seeing increasing energy bills for the foreseeable future.Naturally, this is also a continued concern for households across the UK and at a time where running an online energy comparison isn't advised – due to the fact that the best energy deals at the moment can't better the current price cap – many of us are looking at other ways to bring down costs.
+
+
+***
+![Intel 12代酷睿大小核架构导致这些游戏不兼容](https://article-fd.zol-img.com.cn/t_s120x75/g6/M00/05/01/ChMkKWGF_FaIdFgJAAKZI09khmMAAVU-QN7PZQAApk7755.jpg "Intel 12代酷睿大小核架构导致这些游戏不兼容")
+
+
+[Intel 12代酷睿大小核架构导致这些游戏不兼容](http://news.zol.com.cn/780/7802482.html)
+
+
+> 2021-11-06 11:47:53   [  中关村在线 原创  ]   作者：轻舟 由于12代酷睿采用了性能核+效能核架构，也就是俗称的大小核，引发DRM的问题，特别是其中的D加密保护机制，小核心有可能被视为第三方计算机，导致游戏出现问题。Intel已经在官网上发布了不兼容游戏列表，微软将在11月份的Windows更新中不断修复问题。附不兼容游戏列表：Win11下12代酷睿不兼容游戏列表：Anthem*Bravely Default 2*Fishing Sim World*Football Manager 2019*Football Manager Touch 2019*Football Manager 2020*Football Manager Touch 2020*Legend of Mana*Mortal Kombat 11*Tony Hawks Pro Skater 1 and 2*Warhammer I*Assassin's Creed: Valhalla*Far Cry Primal*Fernbus Simulator*For Honor*Lost in Random*Madden 22*Maneater*Need for Speed – Hot Pursuit Remastered*Sea of Solitude*Star Wars Jedi Fallen Order*Tourist Bus Simulator*Maneater*Win10下不兼容游戏列表：Ace Combat 7*Assassins Creed Odyssey*Assassins Creed Origins*Code Vein*eFootball 2021*F1 2019*Far Cry New Dawn*FIFA 19*FIFA 20*Football Manager 2021*Football Manager Touch 2021*Ghost Recon Breakpoint*Ghost Recon Wildlands*Immortals Fenyx Rising*Just Cause 4*Life is Strange 2*Madden 21*Monopoly Plus*Need For Speed Heat*Scott Pilgrim vs The World*Shadow of the Tomb Raider*Shinobi Striker*Soulcalibur VI*Starlink*Team Sonic Racing*Total War Saga - Three Kingdoms*Train Sim World*Train Sim World 2*Wolfenstein Youngblood*本文属于原创文章，如若转载，请注明来源：Intel 12代酷睿大小核架构导致这些游戏不兼容https://news.
+
+
