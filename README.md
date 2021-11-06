@@ -27053,3 +27053,50 @@
 > Deal pricing and availability subject to change after time of publication. TL;DR: Until midnight on Nov. 8, you can save 20% on a wide range of sex toys on Lovehoney with the code SEXTOYDAY.We're officially entering the busiest shopping season of the year, and that means deals on everything from toys to smart technology. Every type of product gets a moment in the spotlight, even sex toys.Until midnight on Nov. 8, you can save 20% on a wide range of sex toys on Lovehoney with the code SEXTOYDAY. Absolutely loads of pleasure products are included in this promotion, so there should be something for everyone.
 
 
+***
+![Why tapping into your 5 senses with a walk in the woods can counter climate anxiety](https://i.cbc.ca/1.6237122.1636045121!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/deer-in-wooded-area-in-halifax.jpg "Why tapping into your 5 senses with a walk in the woods can counter climate anxiety")
+
+
+[Why tapping into your 5 senses with a walk in the woods can counter climate anxiety](https://www.cbc.ca/radio/whitecoat/eco-climate-anxiety-antidote-1.6237103)
+
+
+> Our planet is changing. So is our journalism. This story is part of a CBC News initiative entitled "Our Changing Planet" to show and explain the effects of climate change and what is being done about it. Global leaders are trying to move forward on climate action at COP26 in Glasgow as the world reels from more and more extreme weather events. Canada has been hit by deadly floods, wildfires and heat domes. These seemingly insurmountable problems are making some people nervous enough to want to see a doctor.
+
+
+***
+![When it comes to climate change, the heavy hand of colonizers is as important as our carbon footprint](https://i.cbc.ca/1.5058436.1552673459!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/montreal-youth-climate-march.jpeg "When it comes to climate change, the heavy hand of colonizers is as important as our carbon footprint")
+
+
+[When it comes to climate change, the heavy hand of colonizers is as important as our carbon footprint](https://www.cbc.ca/news/canada/prince-edward-island/pei-opinion-climate-crisis-stephanie-arnold-1.6234055)
+
+
+> Our planet is changing. So is our journalism. This story is part of a CBC News initiative entitled Our Changing Planet to show and explain the effects of climate change and what is being done about it. This column is an opinion from Stephanie Arnold, a climate change and adaptation researcher in P.E.I. For more information about CBC's Opinion section, please see the FAQ. World leaders are meeting in Scotland at COP26 to urge action, make promises, and develop plans to reduce greenhouse gas emissions — just as they have in 2019 at COP25 in Spain, 2018 at COP24 in Poland, 2017 at COP23 in Germany, etc.
+
+
+***
+![Hundreds of ancient Maya sites hidden under Mexico reveal a mysterious blueprint](https://www.sciencealert.com/images/2021-10/processed/AguadaFenixFromAbove_1024.jpg "Hundreds of ancient Maya sites hidden under Mexico reveal a mysterious blueprint")
+
+
+[Hundreds of ancient Maya sites hidden under Mexico reveal a mysterious blueprint](https://www.sciencealert.com/hundreds-of-ancient-maya-sites-hidden-under-mexico-reveal-a-mysterious-blueprint)
+
+
+> You can't see them from the surface, but they're definitely there. Scientists have revealed the discovery of hundreds of ancient ceremonial sites, many of which belonged to the Maya civilization, hiding in plain sight just underneath the landscape of modern-day southern Mexico. The largest of these structures – called Aguada Fénix – was announced by archaeologists last year, representing the oldest and biggest monument of the ancient Maya ever found. But Aguada Fénix clearly was not alone.In a new study, an international team of researchers led by anthropologist Takeshi Inomata from the University of Arizona reports the identification of almost 500 ceremonial complexes tracing back not just to the Maya, but also to another Mesoamerican civilization who made their mark on the land even earlier, the Olmecs.
+
+
+***
+![Microsoft expected to launch Surface Laptop SE on November 9](https://images.indianexpress.com/2021/11/Microsoft-Surface.jpg "Microsoft expected to launch Surface Laptop SE on November 9")
+
+
+[Microsoft expected to launch Surface Laptop SE on November 9](https://indianexpress.com/article/technology/tech-news-technology/microsoft-expected-to-launch-surface-laptop-se-on-november-9-event-everything-we-know-7609736/)
+
+
+> Microsoft is gearing up to host a new education event on November 9, which is next week. While the company hasn't revealed much about the event, the latest announcement suggests that Microsoft will announce education-related updates for Windows. The event will begin at 12:00PM ET, which is around 9:30 PM in India. 'Join us at 9AM PT on Tuesday, November 9, as we share an inside look at the latest tech solutions while examining gaps in learning left by the pandemic. Hear from Microsoft partners, school leaders and a few special guests, and learn about new and existing technology from Microsoft Education,' the company said.
+
+
+***
+[Python 3.9.8 and 3.11.0a2 are now available](https://www.reddit.com/r/Python/comments/qnviyc/python_398_and_3110a2_are_now_available/)
+
+
+> No body in the article.
+
+
