@@ -27388,3 +27388,50 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Hi, I made a little review about GitHubs Copilot, which is an AI code helper. Neither is it made by me, nor am I paid for the review. I simply got accepted for the preview, and recorded my tests and results. I am not a professional reviewer, just wanted to show how it works and what it does.](https://external-preview.redd.it/XQKuoZY60ecdKijRYbQUh9UrScYcs20Uxt8DbHNw48g.jpg?auto=webp&s=e7ff39c1b4fee04d4820cf9d5e6c30b47a0923a7 "Hi, I made a little review about GitHubs Copilot, which is an AI code helper. Neither is it made by me, nor am I paid for the review. I simply got accepted for the preview, and recorded my tests and results. I am not a professional reviewer, just wanted to show how it works and what it does.")
+
+
+[Hi, I made a little review about GitHubs Copilot, which is an AI code helper. Neither is it made by me, nor am I paid for the review. I simply got accepted for the preview, and recorded my tests and results. I am not a professional reviewer, just wanted to show how it works and what it does.](https://www.reddit.com/r/programming/comments/qoa2xy/hi_i_made_a_little_review_about_githubs_copilot/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Using Docker to improve security when developing software](https://external-preview.redd.it/tzJoGvopiFYfelnHhC2ltanEyv92IZXaodj7V3oF-Pw.jpg?auto=webp&s=905e3c6af0db4099831c05f84584a05da8a8d511 "Using Docker to improve security when developing software")
+
+
+[Using Docker to improve security when developing software](https://www.reddit.com/r/programming/comments/qo9spq/using_docker_to_improve_security_when_developing/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Here's why you should buy an LG C1 OLED before Black Friday this year](https://cdn.mos.cms.futurecdn.net/AEtajE2AeTC3UVWsmJG4WY-1200-80.jpg "Here's why you should buy an LG C1 OLED before Black Friday this year")
+
+
+[Here's why you should buy an LG C1 OLED before Black Friday this year](https://www.techradar.com/news/heres-why-you-should-buy-an-lg-c1-oled-before-black-friday-this-year)
+
+
+> (Image credit: LG) The LG C1 OLED is easily one of the best TVs money can buy right now and no doubt on the shopping list of many in their Black Friday TV deals hunt this year.This week, it just so happens to also be on sale at Amazon, Best Buy, and Walmart for its lowest ever price too with discounts reaching all the way to a whopping $700 (that's 28%) on the popular 65-inch model. Other sizes are on sale too - all with their lowest prices ever - which poses a question, buy now and beat out the crowds, or hold off for a big payout on Black Friday itself?We're heavily leaning towards buying early right now - not only because we don't foresee these prices going much lower in this year's Black Friday TV deals, but also because there's a nifty 'Black Friday Price guarantee' on Best Buy's listing currently.
+
+
+***
+[A recently unredacted antitrust complaint alleges that Google gives AMP a "nice comparative boost" by throttling load times of non-AMP ads via one-second delays (Sarah Gooding/WP Tavern)](http://www.techmeme.com/211106/p11#a211106p11)
+
+
+> Sarah Gooding / WP Tavern: A recently unredacted antitrust complaint alleges that Google gives AMP a “nice comparative boost” by throttling load times of non-AMP ads via one-second delays — The Chrome Dev Summit concluded earlier this week. Announcements and discussions on hot topics impacting …
+
+
+***
+![Technical Discussion: Another cold night, but a big warm-up is on the way...](https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/8/f9/8f9947d2-511b-5afa-ae9c-31dfa4bf0824/61867c5b8e96b.image.png?resize=1090%2C630 "Technical Discussion: Another cold night, but a big warm-up is on the way...")
+
+
+[Technical Discussion: Another cold night, but a big warm-up is on the way...](https://www.wfsb.com/weather/technical_discussion/technical-discussion-another-cold-night-but-a-big-warm-up-is-on-the-way/article_53d29258-b603-11e8-8728-130ab5423b29.html)
+
+
+> TONIGHT & SUNDAY…Daylight Saving Time will come to an end tonight (officially at 2am), so that means it's time to turn our clocks back 1 hour before we go to bed. Sunrise tomorrow will be at 6:31, but it will set quite early at 4:37! It is also a good time to change the battery in your smoke detectors and CO detectors now that we're into the heating season. We want to make sure all devices are working properly.Tonight, the combination of a light wind and a mainly clear sky will allow temperatures to drop to some very chilly levels once again.
+
+
