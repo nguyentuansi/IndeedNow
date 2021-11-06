@@ -27344,3 +27344,47 @@
 > Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. Jonathan Ferguson, a weapons expert and Keeper of Firearms & Artillery at the Royal Armouries, breaks down the weaponry of Grand Theft Auto 5, including a pink Rocket Launcher, an uncharacteristically quiet Desert Eagle, and a blinged out AK47. "It was very hard not to laugh." Here's a moral quandary for you: Doctors are supposed to do no harm, but if quickly cutting up a rugby player will save the team from getting caught in an elaborate cheating scheme that involved fake blood capsules… is that harm or help? "Fans were yelling at the stage crew around us, saying stop the concert.
 
 
+***
+![6 Usage Patterns for the ThreadPoolExecutor in Python](https://external-preview.redd.it/Tod1Yza2r5uSiFE1KqgVy96m_wZtqpWzOX3Fi-T7Cbg.jpg?auto=webp&s=81806c72741350162ed22fe5ec4160e94ed9295d "6 Usage Patterns for the ThreadPoolExecutor in Python")
+
+
+[6 Usage Patterns for the ThreadPoolExecutor in Python](https://www.reddit.com/r/programming/comments/qo7fv3/6_usage_patterns_for_the_threadpoolexecutor_in/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![The OnePlus 9 is set to blow the Pixel 6 and iPhone 13 away this Black Friday](https://cdn.mos.cms.futurecdn.net/jbJY5SSGjxeR8HKaHryHMT-1200-80.jpg "The OnePlus 9 is set to blow the Pixel 6 and iPhone 13 away this Black Friday")
+
+
+[The OnePlus 9 is set to blow the Pixel 6 and iPhone 13 away this Black Friday](https://www.techradar.com/news/the-oneplus-9-is-set-to-blow-the-pixel-6-and-iphone-13-away-this-black-friday)
+
+
+> While the Google Pixel 6 may be all the rage right now, there's one other Android flagship that's absolutely worth your attention this November - the OnePlus 9 and its bigger OnePlus 9 Pro brother.While more popular devices like the iPhone 13 and Pixel 6 have seen back-orders, lengthy delivery wait times, and empty store shelves, the OnePlus 9 and 9 Pro have seemingly snuck under the radar - just in time for this year's upcoming Black Friday deals no less.And that's surprising to us. Not only are both of these devices absolutely stellar flagships for 2021, but they're now both much, much cheaper thanks to a post-Pixel 6 price cut from leading online retailers.
+
+
+***
+![Cellular Automata in F#](https://static.isthisit.nz/images/2020-11-27-cellular-automata-fsharp/rule222.png#hero "Cellular Automata in F#")
+
+
+[Cellular Automata in F#](https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/)
+
+
+> Simple rules can generate complex behaviour. I'm reading A New Kind of Science by Stephen Wolfram. A key idea of the book is that a simple rule, applied iteratively, can generate complex behaviour. The difference between Rules 222, 90, and 30 are trivial, yet they generate vastly different results. In this post we explore the principles and implement the Elementary Cellular Automata system in F#. Cellular Automata Here's a 7 x 4 grid. The dots represent Empty cells, the X represent Full cells.
+
+
+***
+[Machine Learning Online Course Recommendation With Python](https://www.reddit.com/r/Python/comments/qo78n3/machine_learning_online_course_recommendation/)
+
+
+> Hello,I know that there are a lot of topics like that but I would like the ask it because there might be some courses more up-to-date and I have some priorities about course.I'm taking a graduate class about machine learning. Although I understand the theory I had some trouble about implementation. Programming language of the class is Python and I've some experience with it but I'm not very good at implementation. Could you guys recommend some courses about Machine Learning with Python programming.
+
+
+***
+[Technology Stack Generator](https://www.reddit.com/r/programming/comments/qo76a4/technology_stack_generator/)
+
+
+> no comments yetBe the first to share what you think!
+
+
