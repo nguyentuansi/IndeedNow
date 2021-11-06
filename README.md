@@ -27100,3 +27100,53 @@
 > No body in the article.
 
 
+***
+![The Pixel 6's software could be how Google wins over Samsung Galaxy fans](https://www.cnet.com/a/img/fvTQPsg8soo_Pd63P84MCH1286M=/1200x630/2021/10/25/8a2bb86a-1e8e-4424-90df-209f6fbd11cf/pixel-6-pro-cnet-review-hoyle-40.jpg "The Pixel 6's software could be how Google wins over Samsung Galaxy fans")
+
+
+[The Pixel 6's software could be how Google wins over Samsung Galaxy fans](https://www.cnet.com/tech/mobile/the-pixel-6s-software-could-be-how-google-wins-over-samsung-galaxy-fans/)
+
+
+> The Pixel 6 and Pixel 6 Pro Andrew Hoyle/CNET The Pixel 6 and Pixel 6 Pro have been praised for their excellent cameras, aggressive prices and sharp designs, making them the first Google phones that might truly rival Apple and Samsung's devices. But to me, none of those qualities are what make the Pixel 6 so interesting. Instead, it's the ways in which Google is trying to push the basic smartphone experience forward with new software features that make its new devices stand out.Google has struggled to challenge Samsung -- the no.
+
+
+***
+![India Sets New Deadline For Upgrading Internet Protocol To IPv6. Here's Why It Matters](https://im.indiatimes.in/content/2021/Nov/Social-image-4_6186258ed712e.jpg "India Sets New Deadline For Upgrading Internet Protocol To IPv6. Here's Why It Matters")
+
+
+[India Sets New Deadline For Upgrading Internet Protocol To IPv6. Here's Why It Matters](https://www.indiatimes.com/technology/news/india-sets-new-deadline-for-upgrading-internet-protocol-to-ipv6-heres-why-it-matters-553484.html)
+
+
+> India's Department of Telecom has set December 2022 as the deadline for internet service providers (ISPs) to make changes to their network, including upgrading modem and routers for customers as required by the latest internet protocol "IPv6."Now, June 30, 2022 is the last date for government organisations to complete the transition to IPv6, the most recent version of "Internet Protocol", news agency PTI reported. The communication protocol (IPv6) is responsible for providing identification and local system for computers on different networks, while also enabling the movement of traffic on the internet.
+
+
+***
+![Twitter Suspends Trends in Ethiopia for Fear of Violence Escalation](https://i.gadgets360cdn.com/large/twitter_logo_phone_reuters_1599803329254.jpg "Twitter Suspends Trends in Ethiopia for Fear of Violence Escalation")
+
+
+[Twitter Suspends Trends in Ethiopia for Fear of Violence Escalation](https://gadgets.ndtv.com/social-networking/news/twitter-trends-ethiopia-suspend-conflict-violence-escalation-tigray-pnlf-2601108)
+
+
+> Twitter temporarily disabled the Trends feature in Ethiopia to make sure that the platform cannot be used to instigate violence in the conflict-torn country, the social media said on Saturday.On Thursday, the Ethiopian parliament declared a six-month state of emergency throughout the country to protect the population from the rebels of the Popular Front for the Liberation of Tigray (PNLF) who are advancing upon the capital."We're monitoring the situation in Ethiopia and are focussed on protecting the safety of the conversation on Twitter.
+
+
+***
+![Beats Studio Buds Black Friday Deals (2021) Collated by The Consumer Post](https://mms.businesswire.com/media/20211106005024/en/835870/23/Black_Friday_2021_%28TCP%29.jpg "Beats Studio Buds Black Friday Deals (2021) Collated by The Consumer Post")
+
+
+[Beats Studio Buds Black Friday Deals (2021) Collated by The Consumer Post](https://www.businesswire.com/news/home/20211106005024/en/Beats-Studio-Buds-Black-Friday-Deals-2021-Collated-by-The-Consumer-Post)
+
+
+> November 06, 2021 05:45 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Black Friday experts are monitoring all the top early Beats Studio Buds deals for Black Friday 2021, together with savings on Beats Studio Buds earphones in black, white, and red finishes. Check out the latest deals in the list below. Best Beats Studio Buds Deals: Best Beats by Dre Deals: Best Headphones Deals: Searching for more deals? Check out Walmart's Black Friday sale and Amazon's Black Friday page for hundreds more offers at the moment.
+
+
+***
+![Windows Python Editor with Jedi Code Navigation](https://external-preview.redd.it/DjQRuSDMmnjhlXHJZQg_0yURGa6G37aFTw_2o_wNZOQ.jpg?auto=webp&s=ba29c9385a074e729999d54871011f134638a469 "Windows Python Editor with Jedi Code Navigation")
+
+
+[Windows Python Editor with Jedi Code Navigation](https://www.reddit.com/r/Python/comments/qnx0ha/windows_python_editor_with_jedi_code_navigation/)
+
+
+> no comments yetBe the first to share what you think!
+
+
