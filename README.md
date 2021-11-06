@@ -26921,3 +26921,44 @@
 > Lee Pace lets it all hang out in his portrayal of Brother Day this week.Photo: Apple TV+This week on Foundation, the Apple TV+ space opera walks a long and lonesome mile toward reconciliation and the end to chaos. But who will survive, and what will be left of them (to quote rather a different odyssey)?Foundation makes the case for the simplest actions and ideas being the most complex and compelling in this week's episode, titled 'The Missing Piece.' It also gives TV a new worthy obsession object.
 
 
+***
+![Should your company be using a flexible pricing model? – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1300265724.jpg?w=600 "Should your company be using a flexible pricing model? – TechCrunch")
+
+
+[Should your company be using a flexible pricing model? – TechCrunch](https://techcrunch.com/2021/11/05/should-your-company-be-using-a-flexible-pricing-model/)
+
+
+> This week's top story is located at the crossroads of growth marketing and software development. Usage-based pricing (UBP) for SaaS services is becoming more popular as companies of every type automate their processes, but one important result of the shift is that companies that adopt UBP see a return on their customer acquisition costs much sooner than the competition. This week's coverage of software development includes articles about Battery Venture's State of the OpenCloud report, how developers can make the most of iOS 15.
+
+
+***
+[Bird closes its first day on the NYSE flat at $8.40 per share, after going public via a SPAC merger which valued it ~$2.3B (Harrison Weber/dot.LA)](http://www.techmeme.com/211105/p20#a211105p20)
+
+
+> Harrison Weber / dot.LA: Bird closes its first day on the NYSE flat at $8.40 per share, after going public via a SPAC merger which valued it ~$2.3B — Bird, the Santa Monica-based firm that makes and rents electric scooters, ended its first full day as a publicly traded company with its stock price up by a fraction of a percent at $8.40 per share.
+
+
+***
+![The most underrated sex positions, according to porn stars](https://helios-i.mashable.com/imagery/articles/02xN0zsfIBNPsJd6KCk3mEM/hero-image.fill.size_1200x675.v1636162806.jpg "The most underrated sex positions, according to porn stars")
+
+
+[The most underrated sex positions, according to porn stars](https://mashable.com/article/sex-positions)
+
+
+> Glossy magazines, sex and relationship blogs, and hacky tabloids constantly tell us that, if we want to spice up our sex lives — to be and remain good in the sack — we need to try out new and exciting sex positions. Conveniently, they just so happen to offer seemingly endless lists of positions to try. Some of the positions on these lists — and in the sexy shows and porn we often draw ideas from — are simply but meaningful modifications of common staple positions, like missionary. (Think prop the prone partner's hips up with a pillow.
+
+
+***
+['No War, No Peace' : Huawei Founder Creates 'Corps' to Push into New Sectors](https://www.tmtpost.com/5843082.html)
+
+
+> Either of five new Corps set to focus on an unchartered territory for Huawei, which is seeking to explore promising sectors as the breakthrough under years of U.S. sanctions.
+
+
+***
+[Interesting question with emoji](https://www.reddit.com/r/Python/comments/qnppdb/interesting_question_with_emoji/)
+
+
+> I want to discuss an interesting question.How can I design a converting algorithm to convert an emoji to IP addresses, and convert an IP address to an emoji?Like: Convert 💩 to IP addresses(can more than one). But for one IP address, it can only convert to one exact emoji.
+
+
