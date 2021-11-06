@@ -26962,3 +26962,50 @@
 > I want to discuss an interesting question.How can I design a converting algorithm to convert an emoji to IP addresses, and convert an IP address to an emoji?Like: Convert 💩 to IP addresses(can more than one). But for one IP address, it can only convert to one exact emoji.
 
 
+***
+!['This deception must end now': Facebook gets letter from 500 health professionals demanding data on COVID misinformation](https://www.gannett-cdn.com/presto/2021/10/22/USAT/675bc578-d51e-48d3-b1ea-2f05e6e7e01d-AFP_AFP_97W9BG.jpg?auto=webp&crop=4999,2812,x0,y192&format=pjpg&width=1200 "'This deception must end now': Facebook gets letter from 500 health professionals demanding data on COVID misinformation")
+
+
+['This deception must end now': Facebook gets letter from 500 health professionals demanding data on COVID misinformation](https://www.usatoday.com/story/tech/2021/11/05/facebook-covid-misinformation-doctors-letter/6275730001/)
+
+
+> Facebook whistleblower Frances Haugen faces British ParliamentFacebook whistleblower and former employee Frances Haugen faces questioning from the British Parliament.The request and subsequent response from a longtime patient left Dr. Kavita Patel befuddled, frustrated and angry. Earlier this week, Patel's patient lost her job and health insurance because she refused to get a COVID-19 vaccine as part of an employee mandate.The patient asked if Patel could write an exemption to return to work. Patel refused and asked the patient, whom she treated for COVID in June 2020, why she was so adamant against a vaccine.
+
+
+***
+[Kareo, a medical records and billing software provider, merges with health care IT company PatientPop, to form Tebra, source says at a $1B valuation (Bloomberg)](http://www.techmeme.com/211105/p22#a211105p22)
+
+
+> Bloomberg: Kareo, a medical records and billing software provider, merges with health care IT company PatientPop, to form Tebra, source says at a $1B valuation — - Combined company said to have $1 billion value including debt — Merged entity to be renamed Tebra and led by Kareo's CEO
+
+
+***
+![Processing and Reversing of String in Python](https://external-preview.redd.it/w0lEC42gMLgJnlvmvv8ReCT5JgLlqgawv4pYbzSgTUs.jpg?auto=webp&s=4a8b806ca47beca259668ecd4e2b61ca9bf9f6d9 "Processing and Reversing of String in Python")
+
+
+[Processing and Reversing of String in Python](https://www.reddit.com/r/programming/comments/qnry81/processing_and_reversing_of_string_in_python/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![I just published an article to help people get started with python virtual environments. I hope it's useful to those of you who have recently started with python](https://external-preview.redd.it/9NLDvoNfsW5BRZvHhrxZ2xwZNutfGKXJ_CEowtAm5uM.jpg?auto=webp&s=9d3ac5e34fd00236441064a435c688fb801d9192 "I just published an article to help people get started with python virtual environments. I hope it's useful to those of you who have recently started with python")
+
+
+[I just published an article to help people get started with python virtual environments. I hope it's useful to those of you who have recently started with python](https://www.reddit.com/r/Python/comments/qnrwoo/i_just_published_an_article_to_help_people_get/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Maricopa college district gearing up to offer 4-year degrees](https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png "Maricopa college district gearing up to offer 4-year degrees")
+
+
+[Maricopa college district gearing up to offer 4-year degrees](https://apnews.com/article/technology-business-education-arizona-phoenix-2fb88d3174402dbd2a09ef3de71cce22)
+
+
+> PHOENIX (AP) — Arizona's largest community college system, acting under a new state law, has released a slate of planned four-year degrees in education, health care, information technology and other fields.The Maricopa County Community College District announced Wednesday that the planned degrees would be offered 'as soon as fall of 2023,' pending approval by the district's board and the Higher Learning Commission, a regional accrediting agency.Gov. Doug Ducey in May signed a bill approved by the Legislature to allow community colleges to offer bachelor's degrees.
+
+
