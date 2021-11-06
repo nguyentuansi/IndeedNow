@@ -27009,3 +27009,47 @@
 > PHOENIX (AP) — Arizona's largest community college system, acting under a new state law, has released a slate of planned four-year degrees in education, health care, information technology and other fields.The Maricopa County Community College District announced Wednesday that the planned degrees would be offered 'as soon as fall of 2023,' pending approval by the district's board and the Higher Learning Commission, a regional accrediting agency.Gov. Doug Ducey in May signed a bill approved by the Legislature to allow community colleges to offer bachelor's degrees.
 
 
+***
+![Is anyone interested in developing an idea based on crypto. I can provide further info if interested](https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png "Is anyone interested in developing an idea based on crypto. I can provide further info if interested")
+
+
+[Is anyone interested in developing an idea based on crypto. I can provide further info if interested](https://www.reddit.com/r/Python/comments/qnu65c/is_anyone_interested_in_developing_an_idea_based/)
+
+
+> 0 comments100% Upvotedno comments yetBe the first to share what you think!
+
+
+***
+[Gather, which builds metaverse-like environments for offices, virtual events, and conferences, raises a $50M Series B led by Sequoia Capital and Index Ventures (FinSMEs)](http://www.techmeme.com/211106/p2#a211106p2)
+
+
+> FinSMEs: Gather, which builds metaverse-like environments for offices, virtual events, and conferences, raises a $50M Series B led by Sequoia Capital and Index Ventures — Gather, a US provider of a metaverse platform, raised $50M in Series B funding. — The round was led by Sequoia Capital …
+
+
+***
+[Meta plans physical stores to showcase its products: Report](https://www.zeebiz.com/technology/news-meta-plans-physical-stores-to-showcase-its-products-report-170008)
+
+
+> Facebook CEO Mark Zuckerberg last week renamed his company Meta and laid out a vision for pursuing the metaverse as the next social platform.
+
+
+***
+![SolarWinds Investors Allege Board Knew About Cybersecurity Risks](https://i.gadgets360cdn.com/large/solarwinds_sunny_reuters_1609993271837.jpg "SolarWinds Investors Allege Board Knew About Cybersecurity Risks")
+
+
+[SolarWinds Investors Allege Board Knew About Cybersecurity Risks](https://gadgets.ndtv.com/internet/news/solarwinds-hack-cyberattack-board-knew-security-risks-investors-allege-2600864)
+
+
+> SolarWinds investors have sued the software company's directors, alleging they knew about and failed to monitor cybersecurity risks to the company ahead of a breach that created a vulnerability in thousands of its customers' systems.The lawsuit filed in Delaware on Thursday appears to be the first based on records shareholders demanded from the company after Reuters reported last December that malicious code inserted into one of the company's software updates left US government agencies and companies exposed.
+
+
+***
+![This handy voucher code saves you 20% on sex toys from Lovehoney](https://helios-i.mashable.com/imagery/articles/0071TdN1qqn5kcN3iO8QQXe/hero-image.fill.size_1200x675.v1635856957.jpg "This handy voucher code saves you 20% on sex toys from Lovehoney")
+
+
+[This handy voucher code saves you 20% on sex toys from Lovehoney](https://mashable.com/uk/deals/nov-6-best-sex-toy-deals)
+
+
+> Deal pricing and availability subject to change after time of publication. TL;DR: Until midnight on Nov. 8, you can save 20% on a wide range of sex toys on Lovehoney with the code SEXTOYDAY.We're officially entering the busiest shopping season of the year, and that means deals on everything from toys to smart technology. Every type of product gets a moment in the spotlight, even sex toys.Until midnight on Nov. 8, you can save 20% on a wide range of sex toys on Lovehoney with the code SEXTOYDAY. Absolutely loads of pleasure products are included in this promotion, so there should be something for everyone.
+
+
