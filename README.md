@@ -27297,3 +27297,50 @@
 > The Shiho Clan once ruled the Jwar Isles, but they were broken by the Prefecture of Ryu and scattered. Now the return of the Shiho Hiroto, The Black Eagle, has rallied the remnants of the clan, and a storm brews to sweep across the Isles. As the Shiho Clan draws its strength, the scattered forces become available for Bushido. We've already looked at the Shiho Clan Starter Set, and a few of the other releases for the followers, so in this article, we're going to look at some of the other available Shiho Clan units, and what they offer the faction.
 
 
+***
+![Aussie farmers' game-changing recycled plastic ideas](https://content.api.news/v3/images/bin/0229ccc703ea404cced272b71224b122 "Aussie farmers' game-changing recycled plastic ideas")
+
+
+[Aussie farmers' game-changing recycled plastic ideas](https://www.dailytelegraph.com.au/technology/environment/gamechanging-recycled-plastic-products-lead-the-aussie-charge/news-story/2d1abfb3d2d204bb799a80a5c8c092ce)
+
+
+> The sudden death of plastic straws and single use plastic bags were easy wins. Now farmers are helping cut the use of soft plastic packaging.Hard answers to Australia's soft plastics problem are driving environmental innovation in farming and production – and a coming grant round will fertilise more bold ideas for the better.The sudden death of plastic straws and single use plastic bags were easy wins, but the scale of soft plastic packaging and other plastic products remains staggering.'We take on over three million pieces of soft plastic every single day from around the country,' said REDcycle marketing and communication manager Rebecca Gleghorn.
+
+
+***
+[HackerNews client demo, made with kyoto lib](https://www.reddit.com/r/programming/comments/qo5k67/hackernews_client_demo_made_with_kyoto_lib/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Kafka Spring Boot Order & Shipping example](https://external-preview.redd.it/3hJGj6mjuZqEMutcsnw21lw74P6ImalvBWO26nssmwg.jpg?auto=webp&s=71e0cc72677ba37b0c5e7725fdc8d60a50fd87bc "Kafka Spring Boot Order & Shipping example")
+
+
+[Kafka Spring Boot Order & Shipping example](https://www.reddit.com/r/programming/comments/qo5dk3/kafka_spring_boot_order_shipping_example/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![This Week in Apps: Facebook tests App Store rules, Apple fights sideloading, Netflix games go global – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753 "This Week in Apps: Facebook tests App Store rules, Apple fights sideloading, Netflix games go global – TechCrunch")
+
+
+[This Week in Apps: Facebook tests App Store rules, Apple fights sideloading, Netflix games go global – TechCrunch](https://techcrunch.com/2021/11/06/this-week-in-apps-facebook-tests-app-store-rules-apple-fights-sideloading-netflix-games-go-global/)
+
+
+> Sarah Perez @sarahintampa / 7 hours Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consumer spend in 2020. Consumers last year also spent 3.5 trillion minutes using apps on Android devices alone. And in the U.S., app usage surged ahead of the time spent watching live TV. Currently, the average American watches 3.
+
+
+***
+![A Firearms Expert Broke Down The Real Life Counterparts To The Guns Found In 'Grand Theft Auto V'](https://cdn.digg.com/wp-content/uploads/2021/11/06174250/maxresdefault-4.jpg "A Firearms Expert Broke Down The Real Life Counterparts To The Guns Found In 'Grand Theft Auto V'")
+
+
+[A Firearms Expert Broke Down The Real Life Counterparts To The Guns Found In 'Grand Theft Auto V'](https://digg.com/video/a-firearms-expert-broke-down-the-real-life-counterparts-to-the-guns-found-in-grand-theft-auto-v)
+
+
+> Nothing fills downtime like a card game. So if you're looking for some games worth keeping around the house, these six are worth picking up. Jonathan Ferguson, a weapons expert and Keeper of Firearms & Artillery at the Royal Armouries, breaks down the weaponry of Grand Theft Auto 5, including a pink Rocket Launcher, an uncharacteristically quiet Desert Eagle, and a blinged out AK47. "It was very hard not to laugh." Here's a moral quandary for you: Doctors are supposed to do no harm, but if quickly cutting up a rugby player will save the team from getting caught in an elaborate cheating scheme that involved fake blood capsules… is that harm or help? "Fans were yelling at the stage crew around us, saying stop the concert.
+
+
