@@ -27200,3 +27200,53 @@
 > 2021-11-06 11:47:53   [  中关村在线 原创  ]   作者：轻舟 由于12代酷睿采用了性能核+效能核架构，也就是俗称的大小核，引发DRM的问题，特别是其中的D加密保护机制，小核心有可能被视为第三方计算机，导致游戏出现问题。Intel已经在官网上发布了不兼容游戏列表，微软将在11月份的Windows更新中不断修复问题。附不兼容游戏列表：Win11下12代酷睿不兼容游戏列表：Anthem*Bravely Default 2*Fishing Sim World*Football Manager 2019*Football Manager Touch 2019*Football Manager 2020*Football Manager Touch 2020*Legend of Mana*Mortal Kombat 11*Tony Hawks Pro Skater 1 and 2*Warhammer I*Assassin's Creed: Valhalla*Far Cry Primal*Fernbus Simulator*For Honor*Lost in Random*Madden 22*Maneater*Need for Speed – Hot Pursuit Remastered*Sea of Solitude*Star Wars Jedi Fallen Order*Tourist Bus Simulator*Maneater*Win10下不兼容游戏列表：Ace Combat 7*Assassins Creed Odyssey*Assassins Creed Origins*Code Vein*eFootball 2021*F1 2019*Far Cry New Dawn*FIFA 19*FIFA 20*Football Manager 2021*Football Manager Touch 2021*Ghost Recon Breakpoint*Ghost Recon Wildlands*Immortals Fenyx Rising*Just Cause 4*Life is Strange 2*Madden 21*Monopoly Plus*Need For Speed Heat*Scott Pilgrim vs The World*Shadow of the Tomb Raider*Shinobi Striker*Soulcalibur VI*Starlink*Team Sonic Racing*Total War Saga - Three Kingdoms*Train Sim World*Train Sim World 2*Wolfenstein Youngblood*本文属于原创文章，如若转载，请注明来源：Intel 12代酷睿大小核架构导致这些游戏不兼容https://news.
 
 
+***
+![The Best Base Layers to Keep You Warm](https://media.wired.com/photos/601b277eb94148d237af909d/191:100/w_2580,c_limit/Gear-Rab-Pulse-Hoody---credit-moosejaw.jpg "The Best Base Layers to Keep You Warm")
+
+
+[The Best Base Layers to Keep You Warm](https://www.wired.com/gallery/best-base-layers-winter/)
+
+
+> Nail the basics of upper body warmth with our favorite blended, merino wool, and synthetic tops.Save this story for later.Your outdoor clothing system starts next to the skin. Your undershirt ( commonly known in the outdoor industry as a 'base layer') has to be comfortable, non-chafing, and wick away sweat to the outer clothing layers so that you won't stay damp. Being wet could be merely annoying, with the discomfort of shivering and chafing, or downright deadly if you're in cold-weather conditions.
+
+
+***
+![Over 50 Games Affected by DRM Issue on Latest Intel Processors](https://i.gadgets360cdn.com/large/intel_reuters_full_1571812976808.JPG "Over 50 Games Affected by DRM Issue on Latest Intel Processors")
+
+
+[Over 50 Games Affected by DRM Issue on Latest Intel Processors](https://gadgets.ndtv.com/laptops/news/intel-alder-lake-12th-gen-core-processors-drm-issue-games-far-cry-need-for-speed-assassins-creed-2601325)
+
+
+> Intel has confirmed that over 50 games are facing issues on PCs based on its 12th-generation Core processors due to incompatibility with certain Digital Rights Management (DRM) software. The list of games that are being affected as a result of the DRM problem includes Assassin's Creed Valhalla, Far Cry Primal, Need for Speed: Hot Pursuit Remastered, and Star Wars Jedi: Fallen Order, among others. Intel said that a software fix of the affected DRM software is being rolled out. But in the meantime, the chipmaker has also provided a workaround to manually allow players to launch and play the impacted games.
+
+
+***
+![Ring Video Doorbell 2 vs Ring Video Doorbell 3: which smart doorbell fits your home?](https://cdn.mos.cms.futurecdn.net/qFsYz2ATsmG7yFit9jtiHA-1200-80.jpg "Ring Video Doorbell 2 vs Ring Video Doorbell 3: which smart doorbell fits your home?")
+
+
+[Ring Video Doorbell 2 vs Ring Video Doorbell 3: which smart doorbell fits your home?](https://www.techradar.com/news/ring-video-doorbell-2-vs-ring-video-doorbell-3-which-smart-doorbell-fits-your-home)
+
+
+> With Black Friday and Cyber Monday knocking at the door, it could be the ideal time to upgrade to that video doorbell you've always wanted. As one of the original players in this space, Ring knows what it takes to create a great video doorbell, but which model should you buy? First, we'll walk you though everything you need to know about video doorbells. Then we'll compare the Ring Video Doorbell 2 to the Ring Video Doorbell 3 to find what's changed - and which one is best for you. Video Doorbell FAQs(Image credit: Amazon / Ring)Designed to replace your regular doorbell and sit on your front door or right next to it, a video doorbell has a camera inside.
+
+
+***
+![Delete Facebook—How To Quit Your Facebook Account Now](https://external-preview.redd.it/pLudI_YmpI8F7IZRvkYZEYyTDAh8d38dfKrZK6nOus4.jpg?auto=webp&s=31d12eb908b0cb09342070c1eca3c33e5a319db5 "Delete Facebook—How To Quit Your Facebook Account Now")
+
+
+[Delete Facebook—How To Quit Your Facebook Account Now](https://www.reddit.com/r/technology/comments/qo07jb/delete_facebookhow_to_quit_your_facebook_account/)
+
+
+> WARNING! The link in question may require you to disable ad-blockers to see content. Though not required, please consider submitting an alternative source for this story.WARNING! Disabling your ad blocker may open you up to malware infections, malicious cookies and can expose you to unwanted tracker networks. PROCEED WITH CAUTION.Do not open any files which are automatically downloaded, and do not enter personal information on any page you do not trust. If you are concerned about tracking, consider opening the page in an incognito window, and verify that your browser is sending "do not track" requests.
+
+
+***
+![How to watch Canelo vs Caleb Plant: Live stream Super-Middleweight boxing o](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/images/cover/cover-ac.jpg "How to watch Canelo vs Caleb Plant: Live stream Super-Middleweight boxing o")
+
+
+[How to watch Canelo vs Caleb Plant: Live stream Super-Middleweight boxing o](https://www.androidcentral.com/canelo-alvarez-and-caleb-plant-live-stream-how-watch-super-middleweight-boxing-clash-online-anywhere)
+
+
+> Will history be made tonight as four-weight world champion Saul "Canelo" Alvarez looks to become the first ever Super-Middleweight fighter to hold all four belts at once in the 168lbs division? Read on for your full guide to watching a Canelo Alvarez vs Caleb Plant live stream. The Mexican ring king currently holds the WBA, WBC and WBO super-middleweight belts and is a strong favorite to complete his haul tonight. Standing in his way is American IBF champ Caleb Plant who has his own aspirations on making his own piece of boxing history.
+
+
