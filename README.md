@@ -27250,3 +27250,50 @@
 > Will history be made tonight as four-weight world champion Saul "Canelo" Alvarez looks to become the first ever Super-Middleweight fighter to hold all four belts at once in the 168lbs division? Read on for your full guide to watching a Canelo Alvarez vs Caleb Plant live stream. The Mexican ring king currently holds the WBA, WBC and WBO super-middleweight belts and is a strong favorite to complete his haul tonight. Standing in his way is American IBF champ Caleb Plant who has his own aspirations on making his own piece of boxing history.
 
 
+***
+[Is it okay to copy codes from other people's projects on github for work?](https://www.reddit.com/r/Python/comments/qo3btb/is_it_okay_to_copy_codes_from_other_peoples/)
+
+
+> No body in the article.
+
+
+***
+![Facebook Team Behind Research On Addictive Use Got Disbanded](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/Facebook-shut-down-team-researching-platform-addiction.jpg "Facebook Team Behind Research On Addictive Use Got Disbanded")
+
+
+[Facebook Team Behind Research On Addictive Use Got Disbanded](https://screenrant.com/facebook-shut-down-team-studying-addictive-usage/)
+
+
+> A Facebook research team reportedly found that nearly 360 million experienced compulsive behavior while using the infamous social media platform. Another trove of leaked Facebook internal research documents has revealed that the company was aware of the fact that over 350 million users had reported indulging in compulsive usage that bordered on the edge of addiction, but the company ended up disbanding the team behind the findings. In the past few weeks, multiple news organizations with access to leaked internal documents have published reports about some extremely worrying decision-making patterns at Facebook, which heavily sided with profitability over the well-being of users.
+
+
+***
+![[repost] I made a git project to help new users get started with a Python project.](https://external-preview.redd.it/LoVb1Qrpk5J4rUL1uuYYxRLADEsEpOAohAIF5rY8JGI.jpg?auto=webp&s=3ed4441971fd67b7f4c98edd5165625f32e1a6a5 "[repost] I made a git project to help new users get started with a Python project.")
+
+
+[[repost] I made a git project to help new users get started with a Python project.](https://www.reddit.com/r/Python/comments/qo393y/repost_i_made_a_git_project_to_help_new_users_get/)
+
+
+> https://github.com/KaranTrivedi/makerI repost this from time to time. Here is a small project to help users get familiar with Python project structure, config, venv and logging. If you are looking to start a new project, give this a try!Any feed back/improvement comments are welcome.Tip: this is only Unix compatible. May not work on Windows.
+
+
+***
+![PvP card dueling has never been cuter than with Nova Island](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/11/nova-island-hero.jpg "PvP card dueling has never been cuter than with Nova Island")
+
+
+[PvP card dueling has never been cuter than with Nova Island](https://www.androidcentral.com/nova-island-android-game-week)
+
+
+> Source: Thirteen Games October has officially ended and I suppose it's finally time to exit the haunted forest and venture back out into the wide world of non-spooky mobile games. I've been sitting on this one for a little while now, so I'm very excited to get to talk about Nova Island this week. Fast-paced and absolutely gorgeous, Nova Island will whisk you away to a colorful world of deck building and 1v1 card battling. It can be challenging to bring new ideas into the card gaming space, especially up against titanic competitors like Slay the Spire, but Nova Island makes a noble effort to breathe some fresh air into the genre with its stunning graphics, peppy soundtrack, and unique mechanics.
+
+
+***
+![Bushido Shiho Clan Beyond The Starter Set Preview](https://techraptor.net/sites/default/files/styles/image_header/public/2021-09/Bushido%20Shiho%20Clan.jpg?itok=zPnXq4g5 "Bushido Shiho Clan Beyond The Starter Set Preview")
+
+
+[Bushido Shiho Clan Beyond The Starter Set Preview](https://techraptor.net/tabletop/previews/bushido-shiho-clan-beyond-starter-set-preview)
+
+
+> The Shiho Clan once ruled the Jwar Isles, but they were broken by the Prefecture of Ryu and scattered. Now the return of the Shiho Hiroto, The Black Eagle, has rallied the remnants of the clan, and a storm brews to sweep across the Isles. As the Shiho Clan draws its strength, the scattered forces become available for Bushido. We've already looked at the Shiho Clan Starter Set, and a few of the other releases for the followers, so in this article, we're going to look at some of the other available Shiho Clan units, and what they offer the faction.
+
+
