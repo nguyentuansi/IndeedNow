@@ -26881,3 +26881,43 @@
 > It's official: AMD has secured its second-highest CPU market share since 2006. It's been an excellent last few years for AMD, and the latest reports prepared by analyst firm Mercury Research show just how far the rival to Intel has come. The reports were first shared by HardwareTimes, and according to the market analysis, AMD continues its climb in terms of overall x86 market share, increasing by 2.1 points quarter-over-quarter. This adds up to a total 24.6% market share compared to Intel's 75.4%.
 
 
+***
+![Restoring a deleted Mail folder using Time Machine](https://images.macrumors.com/social/?t=2322007&v=6 "Restoring a deleted Mail folder using Time Machine")
+
+
+[Restoring a deleted Mail folder using Time Machine](https://forums.macrumors.com/threads/restoring-a-deleted-mail-folder-using-time-machine.2322007/)
+
+
+> Nov 6, 2016 502 6,323 Earth I am using Mac Mail to access email on AOL Mail. I recently logged in to AOL Mail directly on the web and in a momentary lapse of judgment deleted the contents of the Sent folder. The next time I used Mac Mail, I found that the Sent folder there is empty as well. Not remembering everything that was in it, I would like to restore the contents from my Time Machine backup. So two questions: 1. There are websites that describe how to do this, some more confusing than others, so if someone has a really easy way please refer me to it.
+
+
+***
+![WhatsApp rolls out feature to link devices without needing a smartphone to be online](https://fdn.gsmarena.com/imgroot/news/21/11/whatsapp-link-with-offline-smartphone-rolls-out/-952x498w6/gsmarena_000.jpg "WhatsApp rolls out feature to link devices without needing a smartphone to be online")
+
+
+[WhatsApp rolls out feature to link devices without needing a smartphone to be online](https://www.gsmarena.com/whatsapp_rolls_out_feature_to_link_devices_without_needing_a_smartphone_to_be_online-news-51727.php)
+
+
+> For several months, WhatsApp has been testing a feature that would allow users to link their account to secondary devices and continue to send and receive messages without the primary smartphone online. This feature is now officially rolling out to all WhatsApp users in the most recent update of WhatsApp on both Android and iOS versions. Previously, you had to make sure your main smartphone was still connected to the internet before you could carry a conversation on your linked web browser. When enabling this feature on your smartphone, you need to opt into the feature - labeled as still in "Beta".
+
+
+***
+![What're some people you learn programming from?](https://external-preview.redd.it/p-_5LzW3LcXe659Qwujfv93_vUpO-r6QQlOIQY2SKQw.jpg?auto=webp&s=4c95dba78157140468ab0e406faa4e2e98f11108 "What're some people you learn programming from?")
+
+
+[What're some people you learn programming from?](https://www.reddit.com/r/Python/comments/qnobjz/whatre_some_people_you_learn_programming_from/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Foundation brims with big ideas and epic betrayals [Apple TV+ review]](https://cdn.cultofmac.com/wp-content/uploads/2021/11/Foundation_Photo_010802.jpg "Foundation brims with big ideas and epic betrayals [Apple TV+ review]")
+
+
+[Foundation brims with big ideas and epic betrayals [Apple TV+ review]](https://www.cultofmac.com/?p=754098)
+
+
+> Lee Pace lets it all hang out in his portrayal of Brother Day this week.Photo: Apple TV+This week on Foundation, the Apple TV+ space opera walks a long and lonesome mile toward reconciliation and the end to chaos. But who will survive, and what will be left of them (to quote rather a different odyssey)?Foundation makes the case for the simplest actions and ideas being the most complex and compelling in this week's episode, titled 'The Missing Piece.' It also gives TV a new worthy obsession object.
+
+
