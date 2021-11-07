@@ -27813,3 +27813,53 @@
 > November 07, 2021 08:40 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the top early Xbox games deals for Black Friday, including Assassin's Creed, Jumanji, Call of Duty, Just Dance 2021 and NHL 2021 discounts. Links to the latest deals are listed below. Best Xbox Games Deals: Searching for more deals? We recommend checking Walmart's Black Friday sale and Amazon's Black Friday page to enjoy hundreds more active deals available now. Save Bubble earns commissions from purchases made using the links provided.
 
 
+***
+![Does The iPhone 13 Have A 120Hz Display? Know This Before You Buy](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/iphone-13-pro-display-render-official-apple.jpg "Does The iPhone 13 Have A 120Hz Display? Know This Before You Buy")
+
+
+[Does The iPhone 13 Have A 120Hz Display? Know This Before You Buy](https://screenrant.com/does-iphone-13-have-120hz-display-pro-model-explained/)
+
+
+> The iPhone 13 lineup has a tremendous amount to offer — but is one of those things 120Hz support? Here's how Apple's using fast refresh rate screens. Apple crammed a lot of features into the iPhone 13, but is a 120Hz display among what's included? It's an exciting time whenever any new iPhone comes out. Apple holds a flashy press event announcing its latest handsets, all of the tech news sites cover it like crazy, pre-orders open up, and then the new phones eventually go on sale for everyone to buy.
+
+
+***
+![Where Cards Fall Review](https://techraptor.net/sites/default/files/styles/image_header/public/2021-11/01_story%20%282%29.jpg?itok=sxMnLYlx "Where Cards Fall Review")
+
+
+[Where Cards Fall Review](https://techraptor.net/gaming/reviews/where-cards-fall)
+
+
+> Memories of the past can be good, bad, or somewhere in between. A day at the arcade, a lonesome Christmas night, and a minimum wage shift at a fast food restaurant. Where Cards Fall walks us through the various stages of youth of a nameless character.  Although the game's name has ‘cards' in the title, it is far from a traditional card game. Instead, Where Cards Fall takes place over a number of puzzles. You goal is to form a path using cards to get to the gate at the end of the puzzle. Once you get to the gate, it unlocks a piece of the main character's past in the form of a cutscene.
+
+
+***
+![Black Friday Verizon iPhone Deals 2021: Early iPhone SE, 11, 12 & 13 Savings Shared by Deal Stripe](https://mms.businesswire.com/media/20211107005091/en/836771/23/Black_Friday_2021_%28DS%29.jpg "Black Friday Verizon iPhone Deals 2021: Early iPhone SE, 11, 12 & 13 Savings Shared by Deal Stripe")
+
+
+[Black Friday Verizon iPhone Deals 2021: Early iPhone SE, 11, 12 & 13 Savings Shared by Deal Stripe](https://www.businesswire.com/news/home/20211107005091/en/Black-Friday-Verizon-iPhone-Deals-2021-Early-iPhone-SE-11-12-13-Savings-Shared-by-Deal-Stripe)
+
+
+> November 07, 2021 11:00 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday Verizon iPhone deals have landed. Compare the latest deals on Apple iPhone 11 (11 Pro Max), iPhone 12 (12 Pro), iPhone 13 (13 Pro & iPhone SE. Links to the latest deals are listed below. Best Verizon iPhone Deals: Save up to $800 on the newest Apple iPhone 13 models at Verizon.com - check the latest deals on iPhone 13 which features the most advanced dual-camera system ever on iPhone Save up to $1,000 on the iPhone 13 Pro smartphones at Verizon.
+
+
+***
+![Can Cannabis Extracts Effectively Treat Lung Tumors?](https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/imageedit_24_8299484776.jpeg?width=720 "Can Cannabis Extracts Effectively Treat Lung Tumors?")
+
+
+[Can Cannabis Extracts Effectively Treat Lung Tumors?](https://www.benzinga.com/markets/cannabis/21/11/23759396/can-cannabis-extracts-effectively-treat-lung-tumors)
+
+
+> This article was originally published on Cannabis & Tech Today, and appears here with permission. Lung cancer is the most common type of cancer that people suffer from worldwide, with over  two million new cases diagnosed annually. In addition to new cases, nearly two million people that suffer from lung cancer die annually. It's a very serious and saddening issue. I, like many people, have lost loved ones due to lung cancer, and there's nothing I wouldn't give to get to hang out with them just one more time.
+
+
+***
+![Prepaid Phone Black Friday Deals 2021: Top Early Walmart, Straight Talk, AT&T, Boost Mobile & Verizon Mobile Phone Sales Shared by Deal Tomato](https://mms.businesswire.com/media/20211107005090/en/836216/23/Black_Friday_2021_%28DT%29.jpg "Prepaid Phone Black Friday Deals 2021: Top Early Walmart, Straight Talk, AT&T, Boost Mobile & Verizon Mobile Phone Sales Shared by Deal Tomato")
+
+
+[Prepaid Phone Black Friday Deals 2021: Top Early Walmart, Straight Talk, AT&T, Boost Mobile & Verizon Mobile Phone Sales Shared by Deal Tomato](https://www.businesswire.com/news/home/20211107005090/en/Prepaid-Phone-Black-Friday-Deals-2021-Top-Early-Walmart-Straight-Talk-ATT-Boost-Mobile-Verizon-Mobile-Phone-Sales-Shared-by-Deal-Tomato)
+
+
+> November 07, 2021 10:55 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our summary of all the best early prepaid phone deals for Black Friday 2021, featuring discounts on Samsung Galaxy, Apple iPhone, Google Pixel and more. View the best deals listed below. Best Prepaid Phone Deals: Save up to 60% on prepaid & no contract smartphones at StraightTalk.com - check the latest deals on unlocked mobile phones from top brands like Samsung, Apple, Motorola, Nokia, LG and more Save up to $300 on Apple iPhone models at StraightTalk.
+
+
