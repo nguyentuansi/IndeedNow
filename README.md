@@ -27472,3 +27472,53 @@
 > Gain a global perspective on the US and go beyond with curated news and analysis from 600 journalists in 50+ countries covering politics, business, innovation, trends and more. Choose your subscription Learn more and compare subscriptions Full Terms and Conditions apply to all Subscriptions.
 
 
+***
+![Canelo vs Plant live stream: how to watch title fight for free and from anywhere](https://cdn.mos.cms.futurecdn.net/5vce7g5Hd7vZ8CPRcHL8mF-1200-80.jpg "Canelo vs Plant live stream: how to watch title fight for free and from anywhere")
+
+
+[Canelo vs Plant live stream: how to watch title fight for free and from anywhere](https://www.techradar.com/news/canelo-vs-plant-live-stream-how-to-watch-title-fight-for-free-and-from-anywhere)
+
+
+> (Image credit: Kayo) Are you rrrrready to rrrrrumble? Boxing fans are either going to see destiny fulfilled tonight or one of the sport's all time great upsets, as Saul 'Canelo' Alvarez's bids to become the first boxer to unify the Super-Middleweight - and Caleb Plant seeks to stop him. So read on as we explain all the details you need on how to watch a Canelo Alvarez vs Caleb Plant live stream and catch all the boxing action online from anywhere in the world - and where you can do so on the cheap and for free!A spectacle for boxing purists and casual fight fans alike, today's huge title unification bout is one not to be missed.
+
+
+***
+![QB64 Game Programming](https://external-preview.redd.it/Yz9XTpx3RcBAYO3zCtblrWcEvXyfbPU06uZuvBj-lX4.jpg?auto=webp&s=e3bb23181764971f7caa6285005fc61eb07450ae "QB64 Game Programming")
+
+
+[QB64 Game Programming](https://www.reddit.com/r/programming/comments/qoetnq/qb64_game_programming/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![How much is Spotify premium?](https://www.the-sun.com/wp-content/uploads/sites/6/2021/11/NA-Spotify-offplatform.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "How much is Spotify premium?")
+
+
+[How much is Spotify premium?](https://www.the-sun.com/tech/4015968/how-much-is-spotify-premium/)
+
+
+> SPOTIFY is a popular music streaming service which offers various membership experiences. Here's all you need to know about what Spotify costs. Spotify is a music streaming app founded in 2006Credit: Reuters Spotify premium is a membership option within the streaming app that allows users to listen to music with no advertisements. There are different varieties of the premium package. For an individual package, the price is $9.99 per month. The individual package allows one account, and features ad-free music, offline listening, and on-demand playback.
+
+
+***
+![Why is Reddit down?](https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/EXPLAINED-KS-REDDIT.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "Why is Reddit down?")
+
+
+[Why is Reddit down?](https://www.the-sun.com/tech/3038993/why-is-reddit-down/)
+
+
+> MAJOR platforms including Facebook, WhatsApp and Instagram have gone down in a mass internet outage. On November 6, 2021 Reddit was experiencing major outages as users claimed that the popular website wasn't loading properly. Major websites including Reddit have gone down in a mass internet outageCredit: Alamy Independent outage tracker Down Detector reported a surge in outages starting at 6pm EST. Previously, the tracker stated that tens of thousands of people worldwide reported issues with Reddit on October 27.
+
+
+***
+![Elon Musk polls Twitter about selling some of his Tesla stock](https://imageresizer.static9.net.au/XdGD11wvSJYeWRnHrZmTpb_7nIg=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F7d30c305-1e4b-4732-98e6-bbc8da0f65dd "Elon Musk polls Twitter about selling some of his Tesla stock")
+
+
+[Elon Musk polls Twitter about selling some of his Tesla stock](https://www.9news.com.au/technology/elon-musk-tesla-stock-sales-twitter-users/c4ba2ff6-9029-4e15-bab5-7c81370d236f)
+
+
+> Your web browser is no longer supported. To improve your experience update it hereTesla founder and chief executive Elon Musk says he'll let Twitter users decide if he should sell 10 per cent of the 170.5 million shares he holds in the technology company.Mr Musk posted a Twitter poll today (AEST) which said, "Much is made lately of unrealised gains being a means of tax avoidance, so I propose selling 10 per cent of my Tesla stock. Do you support this?"He added he will follow the poll's result whichever way it goes.
+
+
