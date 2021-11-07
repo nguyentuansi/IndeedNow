@@ -27766,3 +27766,50 @@
 > For Western psychiatry, the psychedelic revolution is coming at the perfect moment. There hasn't been a blockbuster pharmaceutical since the SSRIs debuted more than 30 years ago, and while many credit Prozac and its ilk with alleviating distressing symptoms, there has been widespread disagreement over the effectiveness of SSRIs since their debut.Psychedelics are supposed to be the antidote to all that. Contrary to conservative fears, doctors broadly agree that psychedelics aren't physically addictive.
 
 
+***
+[need help on how to input string and print output as true or false for Symmetrical values](https://www.reddit.com/r/Python/comments/qoowv0/need_help_on_how_to_input_string_and_print_output/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Python Code Quality](https://external-preview.redd.it/WegBIJOFdHjUl07B7KvHtR3-eElRXwNIICxTVptkS9o.jpg?auto=webp&s=a9e7c6646696adff1245b8d2514b051c6dbfae31 "Python Code Quality")
+
+
+[Python Code Quality](https://www.reddit.com/r/Python/comments/qoowu5/python_code_quality_improve_the_quality_of_your/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![The best phone of 2021: Top phones in the UAE, Saudi and Middle East](https://cdn.mos.cms.futurecdn.net/VUAaAC7wf9k2iExVkPAtC7-1200-80.jpg "The best phone of 2021: Top phones in the UAE, Saudi and Middle East")
+
+
+[The best phone of 2021: Top phones in the UAE, Saudi and Middle East](https://www.techradar.com/news/best-phone)
+
+
+> The best phone in the world right now is the Samsung Galaxy S21 Ultra, but if that isn't for you we've got 14 other top picks that may suit you, including the best iPhones and a variety of other Android phones.Our phone experts have spent years reviewing smartphones, and we've tested all the best on the market to put together this definitive list of the very best smartphones you can buy in 2021.Buying a cell phone is a complicated decision, and you need options. That's why we've come up with a list of the best rather than just a single 'best phone' recommendation.
+
+
+***
+![Gradient Descent algorithm explained by a 15 year old](https://external-preview.redd.it/OQJ1V_mrhmM_vjsBBqkwBTwTDlY4wUtLPEF1hpQSFCc.jpg?auto=webp&s=cd94315934ea161f07ef31e8e2cf627beafd755d "Gradient Descent algorithm explained by a 15 year old")
+
+
+[Gradient Descent algorithm explained by a 15 year old](https://www.reddit.com/r/programming/comments/qooseb/gradient_descent_algorithm_explained_by_a_15_year/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Xbox Games Black Friday Deals (2021): Early Just Dance 2021, NHL 2021 & More Sales Ranked by Save Bubble](https://mms.businesswire.com/media/20211107005019/en/835994/23/Black_Friday_2021_%28SB%29.jpg "Xbox Games Black Friday Deals (2021): Early Just Dance 2021, NHL 2021 & More Sales Ranked by Save Bubble")
+
+
+[Xbox Games Black Friday Deals (2021): Early Just Dance 2021, NHL 2021 & More Sales Ranked by Save Bubble](https://www.businesswire.com/news/home/20211107005019/en/Xbox-Games-Black-Friday-Deals-2021-Early-Just-Dance-2021-NHL-2021-More-Sales-Ranked-by-Save-Bubble)
+
+
+> November 07, 2021 08:40 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the top early Xbox games deals for Black Friday, including Assassin's Creed, Jumanji, Call of Duty, Just Dance 2021 and NHL 2021 discounts. Links to the latest deals are listed below. Best Xbox Games Deals: Searching for more deals? We recommend checking Walmart's Black Friday sale and Amazon's Black Friday page to enjoy hundreds more active deals available now. Save Bubble earns commissions from purchases made using the links provided.
+
+
