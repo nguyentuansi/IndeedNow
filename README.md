@@ -27963,3 +27963,50 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+[Executing a program at a timestamp](https://www.reddit.com/r/Python/comments/qoyuyr/executing_a_program_at_a_timestamp/)
+
+
+> I need to execute a function at a particular unix timestamp, it doesn't have to recur after every period of time, just one. Any idea on how can I approach this?
+
+
+***
+![NBA Player Uses Bored Ape Yacht Club NFT On Sneakers: What Investors Should Know](https://cdn2.benzinga.com/files/imagecache/600x400xUP/images/story/2012/bored_ape2_0.png?width=720 "NBA Player Uses Bored Ape Yacht Club NFT On Sneakers: What Investors Should Know")
+
+
+[NBA Player Uses Bored Ape Yacht Club NFT On Sneakers: What Investors Should Know](https://www.benzinga.com/markets/cryptocurrency/21/11/23943417/nba-player-uses-bored-ape-yacht-club-nft-on-sneakers-what-investors-should-know)
+
+
+> One of the most well-known non-fungible token projects to date has landed a handful of celebrities and athletes as holders. One of the athletes took his Ape to the next level, with it gracing his shoes during National Basketball Association games. What Happened: Sacramento Kings guard Tyrese Haliburton wore Nike Inc (NYSE:NKE) shoes for his Nov. 3 game against the New Orleans Pelicans. Haliburton, who is known for having unique shoes and changing them up every game, featured a Bored Ape Yacht Club NFT he owns as the centerpiece of the shoe's design.
+
+
+***
+![Battle the algorithms: China's delivery riders on the edge](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/93/33/f5f7de1986c2548611945d36bd92825b5496/9333f5f7de1986c25486.jpg "Battle the algorithms: China's delivery riders on the edge")
+
+
+[Battle the algorithms: China's delivery riders on the edge](https://japantoday.com/category/tech/battle-the-algorithms-china's-delivery-riders-on-the-edge)
+
+
+> Handing over a piping hot meal at exactly the time promised, Chinese food delivery driver Zhuang Zhenhua triumphantly tapped his job as complete through the Meituan app -- and was immediately fined half of his earnings. A glitch meant it inaccurately registered him as being late and he incurred an automatic penalty -- one of many ways, he said, delivery firms exploit millions of workers even as the sector booms. Authorities have launched a crackdown demanding firms including Meituan and Alibaba's Ele.
+
+
+***
+![Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai](https://www.reuters.com/resizer/fy1Hr0OcjcfQo6t81SMK4FPVg6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34TS4M35IJKKRBSMOKLXM76LSA.jpg "Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai")
+
+
+[Australia's CBA partners with Silicon Valley artificial intelligence firm H2O.ai](https://www.reuters.com/technology/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai-2021-11-07/)
+
+
+> The logo for the Commonwealth Bank of Australia adorns their head office in central Sydney, Australia, October 12, 2017. REUTERS/David Gray/File PhotoNov 8 (Reuters) - Commonwealth Bank of Australia (CBA.AX) said on Monday it acquired a minority stake in a Silicon Valley-based artificial intelligence (AI) firm, H2O.ai Inc, in a bid to provide smarter and personalised products to its customer base.CBA, Australia's biggest lender, said it would partner to use H2O.ai's cloud-based machine learning platform across its operations to develop AI-based products, giving it a lead against its rivals in designing smart financial products.
+
+
+***
+![Proof the world is leaving us behind](https://content.api.news/v3/images/bin/957f98dff30579d3c6aae9a731c96b1c "Proof the world is leaving us behind")
+
+
+[Proof the world is leaving us behind](https://www.news.com.au/technology/motoring/new-cars/2021-volkswagen-id3-review-aussies-miss-out-on-gamechanging-ev/news-story/a6f7aaa89f0c202dbf92941a0ee10a7d)
+
+
+> Australians are missing out on some of the best new cars the world has to offer and it is all down to one major government issue.The VW ID.3 is among the world's most affordable small EVs, and one of the best. There's just one problem – Australians cannot buy this battery-powered, Golf-sized, five-seat hatchback.The reason? VW HQ prioritises EV supply to markets with binding nationwide emissions targets, apparently. No-one at VW HQ is going to be losing sleep because the ID.3 isn't being shipped to Australia.
+
+
