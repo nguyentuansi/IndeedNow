@@ -27435,3 +27435,40 @@
 > TONIGHT & SUNDAY…Daylight Saving Time will come to an end tonight (officially at 2am), so that means it's time to turn our clocks back 1 hour before we go to bed. Sunrise tomorrow will be at 6:31, but it will set quite early at 4:37! It is also a good time to change the battery in your smoke detectors and CO detectors now that we're into the heating season. We want to make sure all devices are working properly.Tonight, the combination of a light wind and a mainly clear sky will allow temperatures to drop to some very chilly levels once again.
 
 
+***
+![[D] Why is the closed form of the Fibonacci sequence not used in competitive programming?](https://external-preview.redd.it/m1L5sd3CSz2QcGjcwrKXngrha40LjDU7wEtFNqe3zdk.jpg?auto=webp&s=ced4d8258f5bcebdad0aeaab28552c6ae8c23845 "[D] Why is the closed form of the Fibonacci sequence not used in competitive programming?")
+
+
+[[D] Why is the closed form of the Fibonacci sequence not used in competitive programming?](https://www.reddit.com/r/programming/comments/qocrch/d_why_is_the_closed_form_of_the_fibonacci/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Controversy over 'confiscation of the spokesperson's public phone'... 'Midnight' Entrance Door of the Supreme Prosecutor's Inspection Department](https://img.sbs.co.kr/newimg/news/20211009/201598857_1280.jpg "Controversy over 'confiscation of the spokesperson's public phone'... 'Midnight' Entrance Door of the Supreme Prosecutor's Inspection Department")
+
+
+[Controversy over 'confiscation of the spokesperson's public phone'... 'Midnight' Entrance Door of the Supreme Prosecutor's Inspection Department](https://www.tellerreport.com/tech/2021-11-07-controversy-over--confiscation-of-the-spokesperson-s-public-phone------midnight--entrance-door-of-the-supreme-prosecutor-s-inspection-department.BJzbw_qEvK.html)
+
+
+> When the Supreme Prosecutor's Office Inspection Department confiscated a public cell phone used by a former and current spokesperson for a fact-finding investigation into the allegations related to former Prosecutor General Yoon Seok-Yeol, it was pointed out that it was censoring media coverage under the pretext of inspection. announced the door. When the Supreme Prosecutor's Office Inspection Department confiscated a public cell phone used by a former and current spokesperson for a fact-finding investigation into the allegations related to former Prosecutor General Yoon Seok-Yeol, it was pointed out that it was censoring media coverage under the pretext of inspection.
+
+
+***
+![How To Disable ProMotion On A MacBook Pro And Lock The Frame Rate](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/macbook-pro-120-hz-display-settings.jpg "How To Disable ProMotion On A MacBook Pro And Lock The Frame Rate")
+
+
+[How To Disable ProMotion On A MacBook Pro And Lock The Frame Rate](https://screenrant.com/disable-promotion-macbook-pro-lock-frame-rate-how/)
+
+
+> The 2021 MacBook Pros feature ProMotion displays. This is great for most users, but some professional environments require set frame rates. Pro workflows may require users to disable the adaptive ProMotion display and lock the frame rate. ProMotion on Apple devices dates back to 2017 with the second-generation iPad Pro models, and more recently, the iPhone 13 Pro. It allows for the display to go as low as 24fps and up to a buttery-smooth 120Hz. The tech is a great battery saver as it can change the frame rate on the fly based on what's being displayed on the screen.
+
+
+***
+[How China's tech bosses cashed out at the right time](https://www.ft.com/content/41ec575f-d8ee-45d4-b604-fe66566a8c5c)
+
+
+> Gain a global perspective on the US and go beyond with curated news and analysis from 600 journalists in 50+ countries covering politics, business, innovation, trends and more. Choose your subscription Learn more and compare subscriptions Full Terms and Conditions apply to all Subscriptions.
+
+
