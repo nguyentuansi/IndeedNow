@@ -27522,3 +27522,53 @@
 > Your web browser is no longer supported. To improve your experience update it hereTesla founder and chief executive Elon Musk says he'll let Twitter users decide if he should sell 10 per cent of the 170.5 million shares he holds in the technology company.Mr Musk posted a Twitter poll today (AEST) which said, "Much is made lately of unrealised gains being a means of tax avoidance, so I propose selling 10 per cent of my Tesla stock. Do you support this?"He added he will follow the poll's result whichever way it goes.
 
 
+***
+![For breaching simple Halloween regulations, drivers might face a £5,000 fine and points. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/halloween-costume-driving-law-rules-fine-1512664.jpg "For breaching simple Halloween regulations, drivers might face a £5,000 fine and points. » Brinkwire")
+
+
+[For breaching simple Halloween regulations, drivers might face a £5,000 fine and points. » Brinkwire](https://en.brinkwire.com/technology/for-breaching-simple-halloween-regulations-drivers-might-face-a-5000-fine-and-points/)
+
+
+> For breaching simple Halloween regulations, drivers might face a £5,000 fine and points. By breaching a few basic regulations on Halloween, drivers risk receiving a frightening £5,000 fine, a frightful nine penalty points, or a bloodcurdling driving prohibition. MotorEasy experts have cautioned that if a driver's Halloween costume impairs their ability to manage a vehicle, they may face a 'careless driving' punishment. Many popular costumes incorporate capes or long swaths of fabric that might wrap around your pedals or feet.
+
+
+***
+![If you are using Apple's M1 Macs, compiling numpy against Accelerate results in much better performance](https://external-preview.redd.it/dZnNv_a-QVk0ZobZZyW-7RbzognrWi2WdZqp5Ou2bOo.jpg?auto=webp&s=1df939963f86c3615fdc4f2af763e9d9603be4a9 "If you are using Apple's M1 Macs, compiling numpy against Accelerate results in much better performance")
+
+
+[If you are using Apple's M1 Macs, compiling numpy against Accelerate results in much better performance](https://www.reddit.com/r/Python/comments/qog8x3/if_you_are_using_apples_m1_macs_compiling_numpy/)
+
+
+> As of numpy 1.21, we can once against link against Apple's Accelerate framework. Compiling from source is straightforward:Download the source from the numpy repo.In the source folder, create a site.cfg file and put[accelerate] libraries = Accelerate, vecLib in it.Build with NPY_LAPACK_ORDER=accelerate python3 setup.py build.Finally, install using pip3 install ..Here are some quick benchmarking results:Using OpenBlas (Single-Threaded):Dotted two 4096x4096 matrices in 2.90 s. Dotted two vectors of length 524288 in 0.
+
+
+***
+![Tech Volleyball earns easy win](https://gray-wluc-prod.cdn.arcpublishing.com/resizer/ugIoRjFuEoXkow_-xl_NW1yRei4=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/53MPJZ62DZOMHCDL2EJ3YZQGQU.jpg "Tech Volleyball earns easy win")
+
+
+[Tech Volleyball earns easy win](https://www.uppermichiganssource.com/2021/11/07/tech-volleyball-earns-easy-win/)
+
+
+> HOUGHTON, Mich. (WLUC) - The No. 22-ranked Michigan Tech volleyball team wrapped up its regular season home schedule with a sweep of Lake Superior State Saturday (Nov. 6) on Senior Day. The Huskies defeated the Lakers for the 22nd straight time 25-10, 25-10, and 25-13 to improve to 20-5 overall and 12-1 in the GLIAC.'I thought we played well right out of the gate,' Tech coach Matt Jennings said. 'We played with a little extra energy and determination for a special group. It was fun for everyone.'Tech honored its four current seniors and a pair from last season after the match.
+
+
+***
+![Kvrocks 2.0.4 has supported Lua now!!!](https://external-preview.redd.it/OZuXAsKdaT7RoOqu7wLmu5XVgjJb6TDnr-382YdPOUU.jpg?auto=webp&s=fe13169cdb7de6bf8201711293c7d1e9b8ab1318 "Kvrocks 2.0.4 has supported Lua now!!!")
+
+
+[Kvrocks 2.0.4 has supported Lua now!!!](https://www.reddit.com/r/programming/comments/qofslx/kvrocks_204_has_supported_lua_now/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Out of the shadow, Egypt money-pooling apps thrive](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-11/egypt-app-afp_20211107-seo.jpg "Out of the shadow, Egypt money-pooling apps thrive")
+
+
+[Out of the shadow, Egypt money-pooling apps thrive](https://www.malaymail.com/news/tech-gadgets/2021/11/07/out-of-the-shadow-egypt-money-pooling-apps-thrive/2019016)
+
+
+> An employee of ‘Al-Gameya', a tech startup for money-pooling, holds a phone with the application at the company offices in Egypt's capital Cairo. — AFP pic CAIRO, Nov 7 — Cash-strapped Egyptians fearful of banks have long relied on a 'gameya' to access money in time of need, but now tech startups are cashing in on the age-old money-pooling association. Navigating an app with strangers is 'easier and safer' than the traditional face-to-face practice, said one user, Menna Shaarawi, 31. 'I receive the money in my bank account without any delays and I don't have to chase after people to get what's owed to me.
+
+
