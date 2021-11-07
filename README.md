@@ -27863,3 +27863,53 @@
 > November 07, 2021 10:55 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our summary of all the best early prepaid phone deals for Black Friday 2021, featuring discounts on Samsung Galaxy, Apple iPhone, Google Pixel and more. View the best deals listed below. Best Prepaid Phone Deals: Save up to 60% on prepaid & no contract smartphones at StraightTalk.com - check the latest deals on unlocked mobile phones from top brands like Samsung, Apple, Motorola, Nokia, LG and more Save up to $300 on Apple iPhone models at StraightTalk.
 
 
+***
+![Samsung Galaxy S22: Rumors, leaked photos and everything else we've heard so far](https://www.cnet.com/a/img/fDKRttDU06PnNijRoTU3CizuMKU=/1200x630/2021/11/05/d6e69cbf-8f35-485f-acb6-186d712642e6/s22ultra-featured.jpg "Samsung Galaxy S22: Rumors, leaked photos and everything else we've heard so far")
+
+
+[Samsung Galaxy S22: Rumors, leaked photos and everything else we've heard so far](https://www.cnet.com/tech/mobile/samsung-galaxy-s22-rumors-leaked-photos-and-everything-else-weve-heard-so-far/)
+
+
+> The Samsung Galaxy S22 could have a metal camera block and a punch-hole camera. LetsGoDigital and Giuseppe Spinelli The arrival of Samsung's new flagship, the Galaxy S22, could still be a few months away. But, that hasn't stopped the rumor mill from turning. The latest buzz comes from Jon Prosser, a leaker, YouTuber and founder of FrontPageTech.
+
+
+***
+![Here's the rundown on current Disney+ prices and deals](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/11/disney-plus-princess-collection-pixel-4.jpg "Here's the rundown on current Disney+ prices and deals")
+
+
+[Here's the rundown on current Disney+ prices and deals](https://www.androidcentral.com/disney-plus-free-price)
+
+
+> Source: Ara Wagoner / Android Central It's been almost two years since the Disney Plus streaming service launched -- and its global rollout is ongoing! It's safe to say the platform has established itself as one of the premier streaming platforms, thanks to its exclusive family-friendly offerings from Disney itself and Star Wars, Marvel, Pixar, National Geographic, and 20th Century Studios. While the catalog size may not rival Netflix and the competition just yet, some awesome Disney+ originals are available, and there are plans for at least 10 Marvel and 10 Star Wars series to hit the platform over the next few years.
+
+
+***
+![Extending third-party APIs in different languages](https://external-preview.redd.it/JixH81UvlFT1Pvt9pB3O65jWrkuItUXfcemO_1GMS10.jpg?auto=webp&s=714f8bc44359efb4cee749b5bd65522c5725029d "Extending third-party APIs in different languages")
+
+
+[Extending third-party APIs in different languages](https://www.reddit.com/r/programming/comments/qotvwm/extending_thirdparty_apis_in_different_languages/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Best AT&T iPhone Black Friday Deals (2021): Best Early Apple iPhone 13 Pro, iPhone 12 mini, iPhone 11 Pro & More Apple Sales Rated by Saver Trends](https://mms.businesswire.com/media/20211107005098/en/835912/23/Black_Friday_2021_%28ST%29.jpg "Best AT&T iPhone Black Friday Deals (2021): Best Early Apple iPhone 13 Pro, iPhone 12 mini, iPhone 11 Pro & More Apple Sales Rated by Saver Trends")
+
+
+[Best AT&T iPhone Black Friday Deals (2021): Best Early Apple iPhone 13 Pro, iPhone 12 mini, iPhone 11 Pro & More Apple Sales Rated by Saver Trends](https://www.businesswire.com/news/home/20211107005098/en/Best-ATT-iPhone-Black-Friday-Deals-2021-Best-Early-Apple-iPhone-13-Pro-iPhone-12-mini-iPhone-11-Pro-More-Apple-Sales-Rated-by-Saver-Trends)
+
+
+> November 07, 2021 12:55 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Find the best early AT&T unlocked & locked iPhone deals for Black Friday 2021, featuring iPhone 8, iPhone 11, iPhone 12 and more offers. Links to the best deals are listed below. Best AT&T iPhone Deals: Save up to $1000 off on Apple iPhones at AT&T - Black Friday deals are here! Check the latest deals including the Apple iPhone XS from $1/month, trade-ins on a wide range of Apple iPhones, and more deals Save up to $1000 on the Apple iPhone 13, 13 Pro, 12, 12 mini & 12 Pro at AT&T - Black Friday deals are here! Check the best deals on the iPhone 13, iPhone 13 Pro, iPhone 12 Pro Max and iPhone 12 mini including trade-ins Save on a 64 GB, 128 GB, or 256 GB iPhone 12 at AT&T - available in Purple, Blue, White, Green, and Red colors Save on the Apple iPhone 11, 11 Pro & 11 Pro Max at AT&T - Black Friday deals are here! See the latest deals on Apple iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max at AT&T, including trade-ins Save on the Apple iPhone SE (2020) at AT&T - Check the latest deals from AT&T on the Apple iPhone SE, including trade-ins Save on the iPhone XR 64GB at AT&T - also available with an AT&T installment plan Save on the iPhone XS at ATT.
+
+
+***
+![Gaze into the Cleopatra's Eye nebula, captured by Hubble](https://icdn.digitaltrends.com/image/digitaltrends/hubble_cleopatraeye_ngc1535_wfpc2_fullsize_489kb1-2.jpg "Gaze into the Cleopatra's Eye nebula, captured by Hubble")
+
+
+[Gaze into the Cleopatra's Eye nebula, captured by Hubble](https://www.digitaltrends.com/news/hubble-cleopatras-eye/)
+
+
+> While we wait to hear updates about the Hubble Space Telescope, which is currently in safe mode and not collecting science data while a problem is investigated, we can still enjoy the beautiful images captured by the telescope in the past. One such image, recently released by NASA, shows a striking blue planetary nebula located in the constellation of Eridanus. The image shows the planetary nebula NGC 1535, also known as Cleopatra's Eye. Somewhat confusingly, planetary nebulae have nothing to do with planets — they are in fact shells of hot gas which is given off by red giant stars in the late stages of their lives.
+
+
