@@ -27666,3 +27666,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![What digital security experts wish you'd do to protect your phone app privacy](https://www.cnet.com/a/img/SPewpkbokKpkh10RoRXpn4ySQSc=/1200x630/2021/02/12/2f1eeabe-731f-475c-a0f7-eb0922e0571b/locks-privacy-security-hack-hackers-2638.jpg "What digital security experts wish you'd do to protect your phone app privacy")
+
+
+[What digital security experts wish you'd do to protect your phone app privacy](https://www.cnet.com/tech/services-and-software/what-digital-security-experts-wish-youd-do-to-protect-your-phone-app-privacy/)
+
+
+> Keep your data safe from prying phone apps. James Martin/CNET Can you trust the apps on your phone? When it comes to data privacy, apps are notoriously tough to trust. Unfortunately, there's no way to tell at face value if an app is tracking you, even when you say stop, and no protection is foolproof in today's world of ever-evolving technology. An app that behaves well today could turn into a bad actor tomorrow if the company behind the app is sold, changes its direction or winds up compromised because of a flaw.
+
+
+***
+![Spiders are much smarter than you think](https://knowablemagazine.org/pb-assets/knowable-assets/article-assets/twitter/10.1146/knowable-102821-1-1200x630-1635454839303.jpg "Spiders are much smarter than you think")
+
+
+[Spiders are much smarter than you think](https://knowablemagazine.org/article/mind/2021/are-spiders-intelligent)
+
+
+> People tend to associate intelligence with brain size. And as a general guideline, this makes sense: more brain cells, more mental capabilities. Humans, and many of the other animals we've come to think of as unusually bright, such as chimpanzees and dolphins, all have large brains. And it's long been assumed that the smallest brains simply don't have the capacity to support complex mental processes. But what if they do?The vast majority of Earth's animal species are rather small, and a vanishingly small portion of them have been studied at all, much less by cognition researchers.
+
+
+***
+![Need help. Problem is in my another post linked below](https://external-preview.redd.it/RDQD4ZVMPCt1MzEpSHY5ZlC05O1U-UGuPKojhiX97hk.jpg?auto=webp&s=eb7e0530fca1cbf40c5b9160fd59bed559926d1d "Need help. Problem is in my another post linked below")
+
+
+[Need help. Problem is in my another post linked below](https://www.reddit.com/r/programming/comments/qoktwy/need_help_problem_is_in_my_another_post_linked/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Kubernetes Persistent Volume Claims  K8s ConfigMaps K8s Secrets](https://external-preview.redd.it/IJnrchmMOuVe9A23sfXWUilWmusFdhut70NGnBfEMnU.jpg?auto=webp&s=f30ef7e5b93c85fa56a92e652250968dadf22820 "Kubernetes Persistent Volume Claims  K8s ConfigMaps K8s Secrets")
+
+
+[Kubernetes Persistent Volume Claims  K8s ConfigMaps K8s Secrets](https://www.reddit.com/r/programming/comments/qoknxf/kubernetes_persistent_volume_claims_k8s/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Why We Built lakeFS: Atomic and versioned Data Lake Operations](https://external-preview.redd.it/aHSoj1K9GWawWDkhptT_hdQk2p6sCg8VySz3VyVgvsA.jpg?auto=webp&s=a0a34a9be93913229ec732cfb983f7e2ac2825b5 "Why We Built lakeFS: Atomic and versioned Data Lake Operations")
+
+
+[Why We Built lakeFS: Atomic and versioned Data Lake Operations](https://www.reddit.com/r/programming/comments/qokld9/why_we_built_lakefs_atomic_and_versioned_data/)
+
+
+> no comments yetBe the first to share what you think!
+
+
