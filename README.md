@@ -27716,3 +27716,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+!['Not the spirit,' says the narrator. Boris criticizes Macron's letter, which calls for 'Britain to be punished for Brexit.' » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/boris-johnson-1514310.jpg "'Not the spirit,' says the narrator. Boris criticizes Macron's letter, which calls for 'Britain to be punished for Brexit.' » Brinkwire")
+
+
+['Not the spirit,' says the narrator. Boris criticizes Macron's letter, which calls for 'Britain to be punished for Brexit.' » Brinkwire](https://en.brinkwire.com/news/not-the-spirit-says-the-narrator-boris-criticizes-macrons-letter-which-calls-for-britain-to-be-punished-for-brexit/)
+
+
+> ‘Not the spirit,' says the narrator. Boris criticizes Macron's letter, which calls for ‘Britain to be punished for Brexit.' BORIS JOHNSON slammed a letter from French Prime Minister Jean-Claude Juncker demanding that Britain be penalized for leaving the EU. Mr Castex's letter to European Commission President Ursula von der Leyen, which lambasted Britain for its handling of the ongoing post-Brexit fishing row, was not in the 'spirit' of either the Withdrawal Agreement or the Trade and Cooperation Agreement, Prime Minister Boris Johnson warned from the G20 summit in Rome.
+
+
+***
+![ContentFly (YC W21) Is Hiring a Director, Marketplace Support](https://www.workable.com/assets/facebook-preview.png "ContentFly (YC W21) Is Hiring a Director, Marketplace Support")
+
+
+[ContentFly (YC W21) Is Hiring a Director, Marketplace Support](https://apply.workable.com/contentfly/j/8C4ECBB360)
+
+
+> No body in the article.
+
+
+***
+![Honor May Not Be as Free From Huawei as It Claims](https://media.wired.com/photos/6185b9c2cc18af526d2fb9e9/191:100/w_1280,c_limit/Gear-Huawei-Honor.jpg "Honor May Not Be as Free From Huawei as It Claims")
+
+
+[Honor May Not Be as Free From Huawei as It Claims](https://www.wired.com/story/honor-huawei-smartphones-separation/)
+
+
+> As I power up the two phones side by side, the Huawei Nova 9 and Honor 50 drive the point home. The deleterious effect of Huawei and Honor's separation last year is clear. The practically identical-looking smartphones are like two puzzle pieces that can't join. Both brands claw for the winning balance they struck in 2019, which offered Google support plus Huawei's camera polish and world-class design. Neither is striking that balance now.Honor was founded in 2013. Launching it as a sub-brand of Huawei, executives made liberal use of terms like 'digital natives' and 'digital nomads' while also saying Honor was like the Mini to Huawei's BMW.
+
+
+***
+![Salt Bae's Next Great Act? Endless Content](https://media.wired.com/photos/6186d5f3c4b863206a58993f/191:100/w_1280,c_limit/Culture_SaltBae_GettyImages-1151227317.jpg "Salt Bae's Next Great Act? Endless Content")
+
+
+[Salt Bae's Next Great Act? Endless Content](https://www.wired.com/story/salt-bae-restaurant-viral-videos/)
+
+
+> A gold wrapped steak, then, can be neatly used as a dividing line between Us and Them. On September 26, when someone tweeted a receipt showing that someone else had seemingly spent $2,400 in the restaurant, the internet fell into a frenzy, with the tweet gaining nearly 25,000 likes (the receipt's veracity has never been confirmed). Since then, numerous other (possibly-fake-but-no-one-seems-to-care) Nusr-Et receipts have generated headlines; one claimed to show a $49,000 bill.The whole thing is a winning formula for clicks, almost as profitable as a $67 cappuccino.
+
+
+***
+![Big Tech's Psychedelics Grift](https://media.wired.com/photos/618700c2cc18af526d2fb9f3/191:100/w_1280,c_limit/Big-Tech's-Psychedelics-Grift.jpg "Big Tech's Psychedelics Grift")
+
+
+[Big Tech's Psychedelics Grift](https://www.wired.com/story/psychedelics-psychiatry-big-tech-mental-health/)
+
+
+> For Western psychiatry, the psychedelic revolution is coming at the perfect moment. There hasn't been a blockbuster pharmaceutical since the SSRIs debuted more than 30 years ago, and while many credit Prozac and its ilk with alleviating distressing symptoms, there has been widespread disagreement over the effectiveness of SSRIs since their debut.Psychedelics are supposed to be the antidote to all that. Contrary to conservative fears, doctors broadly agree that psychedelics aren't physically addictive.
+
+
