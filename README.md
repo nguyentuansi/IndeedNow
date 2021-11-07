@@ -27572,3 +27572,50 @@
 > An employee of ‘Al-Gameya', a tech startup for money-pooling, holds a phone with the application at the company offices in Egypt's capital Cairo. — AFP pic CAIRO, Nov 7 — Cash-strapped Egyptians fearful of banks have long relied on a 'gameya' to access money in time of need, but now tech startups are cashing in on the age-old money-pooling association. Navigating an app with strangers is 'easier and safer' than the traditional face-to-face practice, said one user, Menna Shaarawi, 31. 'I receive the money in my bank account without any delays and I don't have to chase after people to get what's owed to me.
 
 
+***
+![API to Parse Articles to JSON with Sentimental Analysis](https://external-preview.redd.it/ZLx_BvLf4l4M4-JVxE9OuLntA6wwib8hEmiAV9ZdFss.jpg?auto=webp&s=f6d4636b46e13fd70ac2e10af035ac03058bac82 "API to Parse Articles to JSON with Sentimental Analysis")
+
+
+[API to Parse Articles to JSON with Sentimental Analysis](https://www.reddit.com/r/programming/comments/qoif0w/api_to_parse_articles_to_json_with_sentimental/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[Re: codility test. How do you know whether it is the case that you are too stupid for python and you should cut your losses and stop trying to learn, or it is just normal that you don't understand certain things as you are only in early stages?](https://www.reddit.com/r/Python/comments/qoidkv/re_codility_test_how_do_you_know_whether_it_is/)
+
+
+> I thought I had an ok grasp of python but I got asked to do a codility test, see lessons 1-5 on:https://app.codility.com/programmers/lessons/1-iterations/.Now I realise that I have got up to lesson 4 on here, so far, and I have struggled with literally every single question.Don't get me wrong, I have researched them, and tried my best to understand, but literally every single question has blown my mind and they are ranked as "easy" ? Is this normal that I am struggling with this stuff, or am I just too stupid for python?I have to do the codility test soon and I am aware I will probably fail it awfully, but I am not sure if all this is an indicator I should stop trying to learn it.
+
+
+***
+![Firefox is showing the way back to a world that's private by default](https://external-preview.redd.it/UUsF9oHGAMCzicHBwUG2iXVvGNOERv7I6jsnLk5dy3E.jpg?auto=webp&s=a577d8f95b4011e0d8c090c602feaa6d8b2d118d "Firefox is showing the way back to a world that's private by default")
+
+
+[Firefox is showing the way back to a world that's private by default](https://www.reddit.com/r/technology/comments/qohndp/firefox_is_showing_the_way_back_to_a_world_thats/)
+
+
+> No body in the article.
+
+
+***
+![Buying fake Justin Bieber tickets could see your phone infected with malware](https://cdn.mos.cms.futurecdn.net/8eNjPiJTRi72AXggVqB5YN-1200-80.jpg "Buying fake Justin Bieber tickets could see your phone infected with malware")
+
+
+[Buying fake Justin Bieber tickets could see your phone infected with malware](https://www.techradar.com/news/buying-fake-justin-bieber-tickets-could-see-your-phone-infected-with-malware)
+
+
+> (Image credit: Shutterstock.com) Scammers are increasingly leveraging call centers to carry out cyberattacks and infect their victims with malware after first roping them in by using PayPal invoices and even tickets to Justin Bieber's upcoming 2022 world tour as lures, experts have warned.According to a new report from Proofpoint, the firm's security researchers have observed an increase in attacks that rely on victims to call scammers directly and initiate the interaction after receiving an email with their phone number.
+
+
+***
+![WhatsApp could be working on a new Communities feature, report says](https://images.indianexpress.com/2020/03/whatsapp-12-1.jpg "WhatsApp could be working on a new Communities feature, report says")
+
+
+[WhatsApp could be working on a new Communities feature, report says](https://indianexpress.com/article/technology/tech-news-technology/whatsapp-is-working-on-a-new-communities-feature-report-7610844/)
+
+
+> WhatsApp is said to be working on a new Communities feature. As per a report by WABetaInfo, the Communities feature on WhatsApp will give admins more power over groups. This will reportedly include the ability to create groups within groups. The new feature is speculated to grant admins the ability to invite new users via a Community Invite Link and then start messaging other members. As per the report by WABetaInfo, the chats appear to be end-to-end encrypted.https://images.indianexpress.com/2020/08/1x1.
+
+
