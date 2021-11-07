@@ -27913,3 +27913,53 @@
 > While we wait to hear updates about the Hubble Space Telescope, which is currently in safe mode and not collecting science data while a problem is investigated, we can still enjoy the beautiful images captured by the telescope in the past. One such image, recently released by NASA, shows a striking blue planetary nebula located in the constellation of Eridanus. The image shows the planetary nebula NGC 1535, also known as Cleopatra's Eye. Somewhat confusingly, planetary nebulae have nothing to do with planets — they are in fact shells of hot gas which is given off by red giant stars in the late stages of their lives.
 
 
+***
+![Yellowstone: How and where to stream it (and why it isn't on Paramount Plus)](https://www.cnet.com/a/img/mXIuGyqnLLRr6O2u10MJ8i0bNF8=/0x0:2726x1531/1200x630/2021/11/05/02f5b92c-7f87-4f00-af08-e7256451046a/yellowstone-ep310-cm-226-r.jpg "Yellowstone: How and where to stream it (and why it isn't on Paramount Plus)")
+
+
+[Yellowstone: How and where to stream it (and why it isn't on Paramount Plus)](https://www.cnet.com/tech/services-and-software/yellowstone-how-and-where-to-stream-it-and-why-it-isnt-on-paramount-plus/)
+
+
+> Kevin Costner stars in Yellowstone, which was the most-watched scripted show on cable TV last year.   Paramount Network Yellowstone, the cowboy-drama hit on Paramount Network, returns for its fourth season Sunday. The premiere will reveal who survived last year's cliff-hanger finale -- an episode that drew in the biggest audience of any scripted TV show on cable in 2020. For people aiming to catch up on past seasons or stay on top of new episodes as they hit, streaming service Paramount Plus would seem like the natural place to turn.
+
+
+***
+![Elon Musk should sell 10% of Tesla stock, say Twitter users](https://imagevars.gulfnews.com/2019/07/17/190717-Elon-Musk_16bfef37f8b_medium.jpg "Elon Musk should sell 10% of Tesla stock, say Twitter users")
+
+
+[Elon Musk should sell 10% of Tesla stock, say Twitter users](https://gulfnews.com/technology/companies/elon-musk-should-sell-10-of-tesla-stock-say-twitter-users-1.1636315424575)
+
+
+> Elon Musk Image Credit: AFP Tesla Inc CEO Elon Musk should sell about 10 per cent of his Tesla stock, according to 57.9 per cent of people who voted on his Twitter poll asking users of the social media network whether he should offload the stake. 'I was prepared to accept either outcome,' Musk said, after the voting ended. The world's richest person tweeted on Saturday that he would offload 10 per cent of his stock if users approved the proposal. The poll garnered more than 3.5 million votes.
+
+
+***
+![Career Journey: Tapping tech to retain and grow talent](https://images.financialexpress.com/2021/11/1-97.jpg "Career Journey: Tapping tech to retain and grow talent")
+
+
+[Career Journey: Tapping tech to retain and grow talent](https://www.financialexpress.com/industry/technology/career-journey-tapping-tech-to-retain-and-grow-talent/2363794/)
+
+
+> By: Sudhir Chowdhary | November 08, 2021 1:15 AMDeepa Param SinghalIn recent times, there has been a greater emphasis on exploring new and advanced technologies when it comes to improving HR processes while supporting and promoting the workforce. The ultimate aim is to help them enhance employee productivity and skills while ensuring mental well-being and work satisfaction. Around 97% of respondents from India want technology to define their future, according to the fourth annual ‘AI at work' study conducted by Oracle and Workplace Intelligence and HR research and advisory firm.
+
+
+***
+![vilmos 2.0.0 BIG UPDATE is released!](https://external-preview.redd.it/HZCAgJFY2lMbn4LQiQSGoW8p1C_mo-vW5tbtFQ0JRHM.jpg?auto=webp&s=03bcedd36ff2378270446db6dd16a4786ee18cbd "vilmos 2.0.0 BIG UPDATE is released!")
+
+
+[vilmos 2.0.0 BIG UPDATE is released!](https://www.reddit.com/r/programming/comments/qow577/vilmos_200_big_update_is_released_string_type/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Ubisoft Employee Group Launches New Petitioń After None of Its Demands Were Met](https://external-preview.redd.it/L8I4CjcfTqDCpjP0oo23asIJoA2G1rBnzZ5KT-wY1AA.jpg?auto=webp&s=27777a0d6af8139580c5f8623909c320e2754981 "Ubisoft Employee Group Launches New Petitioń After None of Its Demands Were Met")
+
+
+[Ubisoft Employee Group Launches New Petitioń After None of Its Demands Were Met](https://www.reddit.com/r/technology/comments/qow3ei/ubisoft_employee_group_launches_new_petitioń/)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
