@@ -27619,3 +27619,50 @@
 > WhatsApp is said to be working on a new Communities feature. As per a report by WABetaInfo, the Communities feature on WhatsApp will give admins more power over groups. This will reportedly include the ability to create groups within groups. The new feature is speculated to grant admins the ability to invite new users via a Community Invite Link and then start messaging other members. As per the report by WABetaInfo, the chats appear to be end-to-end encrypted.https://images.indianexpress.com/2020/08/1x1.
 
 
+***
+![COMPANY NEWS](https://itwire.com/media/k2/items/cache/515b07da6b50db9dac51009af0fbbc3c_XS.jpg "COMPANY NEWS")
+
+
+[COMPANY NEWS](https://itwire.com/guest-articles/guest-opinion/company-news-making-the-internet-safer-for-everyone,-one-yubikey-at-a-time.html)
+
+
+> When the internet was designed 30 years ago, security was not a priority as it was primarily created as a way to connect and easily share information with others around the world. Fast forward to today with news of hacks and breaches almost daily, much of the online world is trying to play catch up to help secure themselves, and in many cases, their companies by adopting better cybersecurity practices and tools. Since Yubico was founded in 2007, the company's mission is to address this important challenge and make the internet safer for everyone.
+
+
+***
+![SK chief's US, Europe trips to boost battery, hydrogen biz](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202111/de28e25f0d29428ba84ccfdea757c52d.jpg "SK chief's US, Europe trips to boost battery, hydrogen biz")
+
+
+[SK chief's US, Europe trips to boost battery, hydrogen biz](https://www.koreatimes.co.kr/www/tech/2021/11/419_318354.html)
+
+
+> SK Group Chairman Chey Tae-won, right, speaks with U.S. Senate Republican Leader Mitch McConnell at the U.S. Capitol in Washington D.C., Oct. 27. Courtesy of Senator Mitch McConnell's officeBy Kim Bo-eunSK Group is going all out to boost new businesses in electric vehicle (EV) batteries and hydrogen fuel. The group's chairman Chey Tae-won recently traveled to the U.S. and Europe to speak with key figures to request their support for SK's businesses there.Chey met with U.S. Senate Republican Leader Mitch McConnell and Democratic Congressman James Clyburn in Washington D.
+
+
+***
+[Microsoft OneDrive app will stop syncing with Windows 7 and 8 on March 1st, 2022](http://www.pinkvilla.com/tech/news/microsoft-onedrive-app-will-stop-syncing-with-windows-7-and-8-on-march-1st-2022-934989)
+
+
+> Attach Main technology Image: Image Caption: Microsoft OneDrive app will stop syncing with Windows 7 and 8 on March 1st, 2022 Social Media Image : Enter the Technology details: Microsoft is attempting to persuade more people to upgrade to newer versions of Windows. According to a source, Microsoft has warned that on March 1st, 2022, the OneDrive desktop app will stop syncing with personal Windows 7, 8, and 8.1 computers.  From January 1st, the software will no longer receive updates.
+
+
+***
+!['Costs will almost certainly rise.' Fleet drivers could lose £57 million a year as a result of the new auto tax. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/10/ulez-london-fleet-vehicles-daily-charge-car-tax-1511789.jpg "'Costs will almost certainly rise.' Fleet drivers could lose £57 million a year as a result of the new auto tax. » Brinkwire")
+
+
+['Costs will almost certainly rise.' Fleet drivers could lose £57 million a year as a result of the new auto tax. » Brinkwire](https://en.brinkwire.com/technology/costs-will-almost-certainly-rise-fleet-drivers-could-lose-57-million-a-year-as-a-result-of-the-new-auto-tax/)
+
+
+> ‘Costs will almost certainly rise.' Fleet drivers could lose £57 million a year as a result of the new auto tax. The auto tax penalties passed in London this week are expected to affect FLEET vehicles, with total costs potentially reaching £54 million. On October 25, London's Ultra Low Emission Zone (ULEZ) was enlarged to include all regions within the A406 and A205 Circular Roads. The majority of vehicles must fulfill ULEZ emissions regulations, or drivers will be charged a £12.50 daily fee to drive within the zone.
+
+
+***
+![Free DDNS with Python and CloudFlare](https://external-preview.redd.it/wB-a4SMVv7cbbA08-AkwohVZLZU4hWnG_mXP8LxGUio.jpg?auto=webp&s=e34aeae8c248f4e48ccc9e835919dcf8d1e22e37 "Free DDNS with Python and CloudFlare")
+
+
+[Free DDNS with Python and CloudFlare](https://www.reddit.com/r/Python/comments/qojmq6/free_ddns_with_python_and_cloudflare/)
+
+
+> no comments yetBe the first to share what you think!
+
+
