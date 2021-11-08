@@ -28010,3 +28010,53 @@
 > Australians are missing out on some of the best new cars the world has to offer and it is all down to one major government issue.The VW ID.3 is among the world's most affordable small EVs, and one of the best. There's just one problem – Australians cannot buy this battery-powered, Golf-sized, five-seat hatchback.The reason? VW HQ prioritises EV supply to markets with binding nationwide emissions targets, apparently. No-one at VW HQ is going to be losing sleep because the ID.3 isn't being shipped to Australia.
 
 
+***
+![[News only] Lying down and dancing in the school zone is 'dizzy'... immature elementary school students](https://img.sbs.co.kr/newimg/news/20211108/201607523_1280.jpg "[News only] Lying down and dancing in the school zone is 'dizzy'... immature elementary school students")
+
+
+[[News only] Lying down and dancing in the school zone is 'dizzy'... immature elementary school students](https://www.tellerreport.com/tech/2021-11-08-[news-only]-lying-down-and-dancing-in-the-school-zone-is--dizzy-----immature-elementary-school-students.HJLr75kUDF.html)
+
+
+> The so-called Minsik Act, which imposes aggravated punishment for traffic accidents in the child protection zone, is being implemented, and some elementary school students are raising concerns by creating a dizzying situation in which some elementary school students lie down and dance on the road saying they are playing the Minsik Act. The so-called Minsik Act, which imposes aggravated punishment for traffic accidents in the child protection zone, is being implemented, and some elementary school students are raising concerns by creating a dizzying situation in which some elementary school students lie down and dance on the road saying they are playing the Minsik Act.
+
+
+***
+![[News only] "A 'trick' only in front of a surveillance camera? No more!"](https://img.sbs.co.kr/newimg/news/20211108/201607524_1280.jpg "[News only] "A 'trick' only in front of a surveillance camera? No more!"")
+
+
+[[News only] "A 'trick' only in front of a surveillance camera? No more!"](https://www.tellerreport.com/tech/2021-11-08-[news-only]-"a--trick--only-in-front-of-a-surveillance-camera--no-more!".S1P5k5JUvY.html)
+
+
+> In the future, you will no longer be able to avoid fines by slowing down only in front of speed cameras. The National Police Agency announced that it will test-run a patrol car that can crack down on speeding vehicles while driving from this month. In the future, you will no longer be able to avoid fines by slowing down only in front of speed cameras. The National Police Agency announced that it will test-run a patrol car that can crack down on speeding vehicles while driving from this month. In the past, speeding vehicles were cracked down with fixed enforcement equipment installed on the road, but it has been pointed out that it is not effective in reducing the actual risk of speeding accidents because there are many cases where drivers slow down only in front of the enforcement camera and then speed again.
+
+
+***
+![Razer Anzu Smart Glasses vs Soundcore Frames: Which One to Buy](https://static3.srcdn.com/wordpress/wp-content/uploads/2021/11/Anzu-Smart-Glasses.jpeg "Razer Anzu Smart Glasses vs Soundcore Frames: Which One to Buy")
+
+
+[Razer Anzu Smart Glasses vs Soundcore Frames: Which One to Buy](https://screenrant.com/razer-anzu-smart-glasses-vs-soundcore-frames/)
+
+
+> Razer Anzu Smart Glasses and Soundcore Frames have built-in speakers and microphones that pair to the phone or computer, and they are both $199.99. Razer, the company known for its gaming peripherals and laptops, also has a pair of smart glasses called the Anzu Smart Glasses. It has built-in speakers and microphones and can be connected to a phone or computer for calls or music playback. Soundcore, an Anker brand, has also begun selling the Soundcore Frames, a pair of glasses with built-in speakers that can be used to take calls or listen to music by pairing via Bluetooth to a compatible device.
+
+
+***
+![Hackaday Links: November 7, 2021](https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg "Hackaday Links: November 7, 2021")
+
+
+[Hackaday Links: November 7, 2021](https://hackaday.com/2021/11/07/hackaday-links-november-7-2021/)
+
+
+> More trouble for Hubble this week as the space observatory's scientific instruments package entered safe mode again. The problems started back on October 25, when the Scientific Instrument Command and Data Handling Unit, or SI C&DH, detect a lack of synchronization messages from the scientific instruments — basically, the cameras and spectrometers that sit at the focus of the telescope. The issue appears to be different from the 'payload computer glitch' that was so widely reported back in the summer, but does seem to involve hardware on the SI C&DH.
+
+
+***
+![Twitter for iOS adds new search button to user profiles](https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/twiter.png?resize=1200%2C628&quality=82&strip=all&ssl=1 "Twitter for iOS adds new search button to user profiles")
+
+
+[Twitter for iOS adds new search button to user profiles](https://9to5mac.com/2021/11/07/twitter-for-ios-adds-new-search-button-to-user-profiles/)
+
+
+> The Twitter app for iOS was recently updated to include a new search button on every user profile. The button sits in the top right corner of the screen and tapping it lets you easily search for tweets from a specific user. It appears that the feature is now widely rolled out. Previously, you would have to manually search for tweets from a user in the main search tab. From there you'd need to type out 'from:' before a user's name and then search for the tweet that you were looking for. The new feature was first reported to be widely rolled out by XDA Developers and The Verge a few days ago.
+
+
