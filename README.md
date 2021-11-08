@@ -28495,3 +28495,53 @@
 > Six month averages of key components of the three year auction  At the top of the hour, the U.S. Treasury will auction off $56 billion of three year notes. It is first of 3 key auctions which includes $39 billion of new 10 year notes auctioned on Tuesday and $25 billion of new 30 year bonds to be auctioned on Wednesday.  
 
 
+***
+![Bitcoin inflows hit record high so far in 2021 -CoinShares data](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "Bitcoin inflows hit record high so far in 2021 -CoinShares data")
+
+
+[Bitcoin inflows hit record high so far in 2021 -CoinShares data](https://www.reuters.com/article/fintech-crypto-flows-idUSL1N2RZ1ZW)
+
+
+> By Gertrude Chavez-DreyfussNEW YORK, Nov 8 (Reuters) - Inflows into bitcoin products and funds have hit a record $6.4 billion so far this year, data from digital asset manager CoinShares showed, as investors bought the cryptocurrency on more widespread government acceptance and positive momentum.Bitcoin inflows totalled $95 million last week, representing the largest inflows of all digital assets, while inflows during an eight-week bull run for the cryptocurrency were $2.8 billion, the CoinShares data showed on Monday.
+
+
+***
+![Best Black Friday Deals 2021: What to buy TODAY](https://icdn.digitaltrends.com/image/digitaltrends/bfcm2020_blackfriday_201030.jpg "Best Black Friday Deals 2021: What to buy TODAY")
+
+
+[Best Black Friday Deals 2021: What to buy TODAY](https://www.digitaltrends.com/dtdeals/black-friday-deals/)
+
+
+> It's November 8th and the Black Friday deals have already started, with Amazon, Best Buy, and Walmart offering discounts on everything from laptops and tablets to robot vacuums and TVs. But with the sales happening a lot earlier than usual it's difficult to 1) keep on track of who's doing what; 2) find the cheapest price on the item you want; and 3) know what to buy. That's where we come in: We're rounding up the latest Black Friday news and the best Black Friday deals you can shop each day, so you don't have to search far and wide for them.
+
+
+***
+![Get your CarPlay Home screen just how you like it with these tips](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/08/meross-msg100hk-smart-garage-door-opener-carplay.jpg "Get your CarPlay Home screen just how you like it with these tips")
+
+
+[Get your CarPlay Home screen just how you like it with these tips](https://www.imore.com/how-rearrange-and-delete-apps-carplay)
+
+
+> Source: Adam Oram / iMore So you have a brand new CarPlay-compatible head unit or car, and you've loaded your device with the best iPhone apps for CarPlay. But now that you have these apps, how do you organize them and rearrange them? How do you get rid of the ones you don't want? Well, it turns out it's pretty easy, and you don't even need to be in your car to do it. Here's how you manage your apps for CarPlay. Rearranging how apps are displayed in CarPlay works a little bit differently to how you rearrange your iPhone's Home screen, but it's still pretty simple.
+
+
+***
+![AMD's 3D Infinity Cache could be its secret weapon in its fight against Nvidia](https://cdn.mos.cms.futurecdn.net/YQJv6jGoiYuNDW6U7CNjcK-1200-80.jpg "AMD's 3D Infinity Cache could be its secret weapon in its fight against Nvidia")
+
+
+[AMD's 3D Infinity Cache could be its secret weapon in its fight against Nvidia](https://www.techradar.com/news/amds-3d-infinity-cache-could-be-its-secret-weapon-in-its-fight-against-nvidia)
+
+
+> (Image credit: AMD) AMD could be set to introduce its 3D V-Cache technology to its Infinity Cache architecture in the next-gen RDNA 3 GPUs expected sometime next year, and it could give Nvidia some serious heartburn.First unveiled during AMD's Computex 2021 keynote back in June, 3D chiplet technology is AMD's latest architecture innovation, which utilizes vertical space on a silicon die to fit more component electronics into the same horizontal dimensions. 3D V-Cache, or vertical cache, is the company's first known application of the tech, which it has already implemented on a Ryzen 9 5950X processor prototype to improve gameplay performance (which is demonstrated during the June keynote).
+
+
+***
+![U.S. indicts 2 men behind major ransomware attacks](https://media.npr.org/assets/img/2021/11/08/ap_21312647209235_wide-51bbb8880d83f471cd787b0243285b2935d963e0.jpg?s=1400 "U.S. indicts 2 men behind major ransomware attacks")
+
+
+[U.S. indicts 2 men behind major ransomware attacks](https://www.npr.org/2021/11/08/1053599349/u-s-indicts-2-men-behind-ransomware-attacks-over-the-summer)
+
+
+> Attorney General Merrick Garland announced indictments against two men connected with ransomware attacks last summer. Andrew Harnik/AP The Justice Department says authorities have indicted two men in connection with a wave of ransomware attacks that, among other targets, shut down a meat processing company and an internet software provider earlier this year. Attorney General Merrick Garland says one of the men, Yaroslav Vasinskyi, 22, a Ukrainian, was arrested when he traveled to Poland.
+
+
