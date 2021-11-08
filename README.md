@@ -28254,3 +28254,53 @@
 > Sarthak Dogra Noida, Nov 08, 2021, Updated Nov 08, 2021, 1:23 PM IST Story highlights A new Poco F3 is set to debut at Poco's global launch event tomorrow. The phone will likely carry upgrades over the oco F3 launched earlier this year. Poco M4 Pro will also be launched on the day alongside. While smartphone enthusiasts waited for the Poco M4 Pro following the company's announcement of a launch event, Poco has surprised its fan base with a new lineup for the day. The Android smartphone maker has shared that a new phone will mark its debut on November 9, a refreshed version of its much-loved Poco F3.
 
 
+***
+![Crypto queens: Women stake out space in Blockchain world](https://images.indianexpress.com/2021/10/bitcoin-bloomberg-1200.jpeg "Crypto queens: Women stake out space in Blockchain world")
+
+
+[Crypto queens: Women stake out space in Blockchain world](https://indianexpress.com/article/technology/crypto/crypto-queens-women-stake-out-space-in-blockchain-world-7612735/)
+
+
+> As an artist and women's rights activist, Maliha Abidi is adept at using digital technologies, so when she came across non-fungible tokens she quickly figured they could be a way to reach more people, and for women artists to gain a bigger following. Abidi, 25, who was born in Pakistan and migrated to the United States as a teenager, created her first NFT a few months ago – a type of asset which uses blockchain to record the ownership of digital items such as images, videos, and collectibles. The U.
+
+
+***
+![This Ninja Foodi air fryer is back to the same price as last Black Friday](https://cdn.mos.cms.futurecdn.net/oFeioKXmYs4jXs3NCBw72W-1200-80.jpg "This Ninja Foodi air fryer is back to the same price as last Black Friday")
+
+
+[This Ninja Foodi air fryer is back to the same price as last Black Friday](https://www.techradar.com/news/this-ninja-foodi-air-fryer-is-back-to-the-same-price-as-last-black-friday)
+
+
+> (Image credit: TechRadar) Love fries and chicken wings but worried about the health implications of deep-fried food? Amazon has slashed 25% off the Ninja Foodi Health Grill and Air Fryer AG301UK, which is now down to £149.99 from £199.99, for today only (Not in the UK? Scroll down for the best air fryer deals in your region).This air fryer deal, which is part of Amazon's Early Black Friday 2021 sales, brings it down to the same prices we saw on Black Friday and Cyber Monday last year. We'd recommend snapping up this deal today due to the ongoing supply chain issues if you want to ensure the air fryer arrives before Christmas – and we may not see a better price during the official Amazon Black Friday sale.
+
+
+***
+![Black Friday iPad Deals (2021): Early Apple iPad Pro, Air, mini & More Savings Summarized by Retail Fuse](https://mms.businesswire.com/media/20211108005042/en/836168/23/Black_Friday_2021_%28RF%29.jpg "Black Friday iPad Deals (2021): Early Apple iPad Pro, Air, mini & More Savings Summarized by Retail Fuse")
+
+
+[Black Friday iPad Deals (2021): Early Apple iPad Pro, Air, mini & More Savings Summarized by Retail Fuse](https://www.businesswire.com/news/home/20211108005042/en/Black-Friday-iPad-Deals-2021-Early-Apple-iPad-Pro-Air-mini-More-Savings-Summarized-by-Retail-Fuse)
+
+
+> November 08, 2021 04:55 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our list of the best early iPad deals for Black Friday 2021, including sales on the iPad mini (2021 model), 256GB and 512GB iPad Pro (5th gen), and iPad Air (4th gen). Links to the best deals are listed below. Best iPad Deals: Save up to $100 on Apple iPads including iPad Pro, iPad Air & iPad mini at Amazon - check live prices on top-rated Apple iPads including iPad Air, iPad Pro, iPad mini and more Save up to $100 off on the 2021 Apple 12.
+
+
+***
+![Stranger Things 4 has missed a trick with its release window](https://cdn.mos.cms.futurecdn.net/UAXHa3B8UbHTnn5xUEb9J8-1200-80.jpg "Stranger Things 4 has missed a trick with its release window")
+
+
+[Stranger Things 4 has missed a trick with its release window](https://www.techradar.com/news/stranger-things-4-has-missed-a-trick-with-its-release-window)
+
+
+> Finally, Stranger Things 4 has been given a launch window for next year – but has Netflix missed a trick over its upcoming release?After what has felt like an eternity, Netflix revealed when we can expect to see Stranger Things season 4 arrive. On Saturday, November 6 – aka Stranger Things Day – the streaming giant confirmed when the show's fourth season would arrive: summer 2022.Check out the reveal via the teaser trailer below:We've got a seven month wait, at least, before Stranger Things 4 lands on our TV screens, then.
+
+
+***
+![Best Soundbar Black Friday Deals (2021): Top Early Samsung, Bose & More Deals Listed by The Consumer Post](https://mms.businesswire.com/media/20211108005041/en/835870/23/Black_Friday_2021_%28TCP%29.jpg "Best Soundbar Black Friday Deals (2021): Top Early Samsung, Bose & More Deals Listed by The Consumer Post")
+
+
+[Best Soundbar Black Friday Deals (2021): Top Early Samsung, Bose & More Deals Listed by The Consumer Post](https://www.businesswire.com/news/home/20211108005041/en/Best-Soundbar-Black-Friday-Deals-2021-Top-Early-Samsung-Bose-More-Deals-Listed-by-The-Consumer-Post)
+
+
+> November 08, 2021 04:50 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the top early soundbar deals for Black Friday, together with all the latest Bose 700, Roku soundbar, Samsung soundbar & more sales. Links to the best deals are listed below. Best Soundbar Deals: Save on the latest Sonos Beam soundbars and bundles at Sonos.com - includes deals on Beam, Arc, Sub, and other Sonos products Save up to $100 on a wide range of soundbars at Walmart - check live prices on soundbars from trusted brands such as Samsung, LG, Bose, Vizio & Sonos Save up to 45% on soundbars from top brands like Samsung, Bose, LG & Vizio at Amazon - click the link for the latest deals on a wide range of TV soundbars Save on the latest Bose soundbars at Bose.
+
+
