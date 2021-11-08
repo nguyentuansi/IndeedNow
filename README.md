@@ -28304,3 +28304,53 @@
 > November 08, 2021 04:50 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the top early soundbar deals for Black Friday, together with all the latest Bose 700, Roku soundbar, Samsung soundbar & more sales. Links to the best deals are listed below. Best Soundbar Deals: Save on the latest Sonos Beam soundbars and bundles at Sonos.com - includes deals on Beam, Arc, Sub, and other Sonos products Save up to $100 on a wide range of soundbars at Walmart - check live prices on soundbars from trusted brands such as Samsung, LG, Bose, Vizio & Sonos Save up to 45% on soundbars from top brands like Samsung, Bose, LG & Vizio at Amazon - click the link for the latest deals on a wide range of TV soundbars Save on the latest Bose soundbars at Bose.
 
 
+***
+![You can FINALLY use WhatsApp on a computer without phone – here's how](https://www.thesun.co.uk/wp-content/uploads/2021/11/whatsapp-multi-device.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "You can FINALLY use WhatsApp on a computer without phone – here's how")
+
+
+[You can FINALLY use WhatsApp on a computer without phone – here's how](https://www.thesun.co.uk/tech/16669596/whatsapp-how-to-use-multiple-computers/)
+
+
+> A LONG-AWAITED WhatsApp update finally lets you use the app on multiple devices – without having a phone active. Currently you need a smartphone to be online to use your WhatsApp elsewhere. You can link your device and then use WhatsApp on a computer without your phone being onlineCredit: WhatsApp / WABetaInfo Now WhatsApp is testing a brand new feature that lets you use WhatsApp on up to four devices. This is useful if you have a work phone and a personal phone. Or it's great if your phone is out of charge or without signal and you still want to use WhatsApp on a laptop.
+
+
+***
+![You can FINALLY use WhatsApp on a computer without phone – here's how](https://www.the-sun.com/wp-content/uploads/sites/6/2021/11/whatsapp-multi-device.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "You can FINALLY use WhatsApp on a computer without phone – here's how")
+
+
+[You can FINALLY use WhatsApp on a computer without phone – here's how](https://www.the-sun.com/tech/4022831/whatsapp-how-to-use-multiple-computers/)
+
+
+> A LONG-AWAITED WhatsApp update finally lets you use the app on multiple devices – without having a phone active. Currently you need a smartphone to be online to use your WhatsApp elsewhere. You can link your device and then use WhatsApp on a computer without your phone being onlineCredit: WhatsApp / WABetaInfo Now WhatsApp is testing a brand new feature that lets you use WhatsApp on up to four devices. This is useful if you have a work phone and a personal phone. Or it's great if your phone is out of charge or without signal and you still want to use WhatsApp on a laptop.
+
+
+***
+![The Station: Nuro scoops up new investors, Rivian gets sued and ride-hailing inches towards profitability – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/08/Nuro-Vegas_Announce-5.jpg?w=711 "The Station: Nuro scoops up new investors, Rivian gets sued and ride-hailing inches towards profitability – TechCrunch")
+
+
+[The Station: Nuro scoops up new investors, Rivian gets sued and ride-hailing inches towards profitability – TechCrunch](https://techcrunch.com/2021/11/08/the-station-nuro-scoops-up-new-investors-rivian-gets-sued-and-ride-hailing-inches-towards-profitability/)
+
+
+> The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello readers: Welcome to The Station, your central hub for all past, present and future means of moving people and packages from Point A to Point B. The Specialty Equipment Market Association trade show, which we know as SEMA, has long been the place to go to see quirky and flashy modifications to vehicles. This year, a major shift occurred that reflects what is happening across the country.
+
+
+***
+![Oppo A16K budget smartphone with Helio G35 processor, 4230mAh battery launched](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202111/Oppo_A16K-647x363.jpeg?6jGGrxE5EI2j2c9AAzpGnxKyN3lT0Oe5 "Oppo A16K budget smartphone with Helio G35 processor, 4230mAh battery launched")
+
+
+[Oppo A16K budget smartphone with Helio G35 processor, 4230mAh battery launched](https://www.indiatoday.in/technology/news/story/oppo-a16k-budget-smartphone-with-helio-g35-processor-4230mah-battery-launched-1874365-2021-11-08)
+
+
+> Oppo A16K launched at PHP 6999 (roughly Rs 10,300)A MediaTek Helio G35 SoC powers itThe smartphone sports a 13-megapixel rear cameraOppo A16K is the company's latest A-series handset. The all-new smartphone has been launched in the Philippines. It comes in as a toned-down version of the Oppo A16. The Oppo A16K features a square camera module on the rear, while on the front, it gets a dewdrop notch. The Oppo A16K features a 6.52-inch IPS LCD panel. An octa-core MediaTek Helio G35 SoC powers it. The smartphone gets 3GB of RAM and 32GB of onboard storage.
+
+
+***
+![Forza Horizon 5, Elden Ring, SMT V](https://techraptor.net/sites/default/files/styles/image_header/public/2021-11/TRPod110721.jpg?itok=c0rDKJTb "Forza Horizon 5, Elden Ring, SMT V")
+
+
+[Forza Horizon 5, Elden Ring, SMT V](https://techraptor.net/podcasts/techraptor-podcast-forza-horizon-5-elden-ring-smt-v)
+
+
+> November 8, 2021 - 07:00 By: Andrew Otton We'll be back every Monday morning with more news and discussion on the latest games.Â  You can find the TechRaptor Podcast on Spotify, Apple Podcasts, Google Podcasts, Stitcher, and Pocket Casts. You'll also find it on our YouTube channel here.
+
+
