@@ -28107,3 +28107,53 @@
 > Tell me, what is your favorite Python project you've ever done? I'll go first: I created a virtual assistant called AiMan that you could use to SSH into raspberry pis and use them with your voice.
 
 
+***
+![E10 fuel may cause engine harm 'in the long run,' according to a Vauxhall and Peugeot dealer. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/11/e10-fuel-changes-damage-uk-1513161.jpg "E10 fuel may cause engine harm 'in the long run,' according to a Vauxhall and Peugeot dealer. » Brinkwire")
+
+
+[E10 fuel may cause engine harm 'in the long run,' according to a Vauxhall and Peugeot dealer. » Brinkwire](https://en.brinkwire.com/technology/e10-fuel-may-cause-engine-harm-in-the-long-run-according-to-a-vauxhall-and-peugeot-dealer/)
+
+
+> E10 fuel may cause engine harm ‘in the long run,' according to a Vauxhall and Peugeot dealer. According to Robins and Day, a used automobile company, E10 FUEL could cause some engine harm 'in the long run.' They warned that vehicles that were incompatible with the new gasoline could have problems with 'rubber seals, plastics, and metals.' Cars that aren't compatible with the new fuel may be 'more difficult to start up,' according to the Vauxhall dealer. The dealership, which is an authorised PSA store, made the remarks in an online blog post.
+
+
+***
+![New car tax revisions have been dubbed "utterly ludicrous" and "daylight robbery." » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/11/london-ulez-charge-new-car-tax-1514453.jpg "New car tax revisions have been dubbed "utterly ludicrous" and "daylight robbery." » Brinkwire")
+
+
+[New car tax revisions have been dubbed "utterly ludicrous" and "daylight robbery." » Brinkwire](https://en.brinkwire.com/technology/new-car-tax-revisions-have-been-dubbed-utterly-ludicrous-and-daylight-robbery/)
+
+
+> New car tax revisions have been dubbed 'utterly ludicrous' and 'daylight robbery.' Express readers have blasted SADIQ KHAN's proposed auto tax revisions as 'utterly ludicrous' and a sort of 'daylight theft.' The initiative has now been extended from Central London to all highways in the North and South Circular, thanks to Sadiq Khan's new Ultra Low Emissions Zone (ULEZ) extension. Thousands of drivers will be charged an extra £12.50 to use the roads if their vehicles do not meet emissions regulations.
+
+
+***
+![Function closures... what's the big deal?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Function closures... what's the big deal?")
+
+
+[Function closures... what's the big deal?](https://www.reddit.com/r/Python/comments/qp5kg2/function_closures_whats_the_big_deal/)
+
+
+> I think I've reached the point where I have a good understanding of how decorators work in Python and how they can be extremely useful. The syntactic sugar (@) makes decorated functions more readable. And decorators really implement the concept of 'open for extension, closed for modification' quite nicely. However, I still can't get over why the concept of function closure is such a big deal in every intermediate/advanced Python book. As far as I can tell, every decorator (or decorator factory) could be implemented with a class instead of a function.
+
+
+***
+![Spring Boot Pet Clinic App: A Performance Study](https://external-preview.redd.it/ms_Pbjp8WqzyBn2BbZJtq9lNpQAKBJrkkUOyAcORmu8.jpg?auto=webp&s=45c53fd5fa71c07e4cbe09330631ee2686ceb88e "Spring Boot Pet Clinic App: A Performance Study")
+
+
+[Spring Boot Pet Clinic App: A Performance Study](https://www.reddit.com/r/programming/comments/qp5k65/spring_boot_pet_clinic_app_a_performance_study/)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![#TECH: The problem detector](https://assets.nst.com.my/images/articles/BOTS08112021problem_NSTfield_image_socialmedia.var_1636344052.jpg "#TECH: The problem detector")
+
+
+[#TECH: The problem detector](https://www.nst.com.my/lifestyle/bots/2021/11/743445/tech-problem-detector)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
