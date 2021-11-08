@@ -28545,3 +28545,50 @@
 > Attorney General Merrick Garland announced indictments against two men connected with ransomware attacks last summer. Andrew Harnik/AP The Justice Department says authorities have indicted two men in connection with a wave of ransomware attacks that, among other targets, shut down a meat processing company and an internet software provider earlier this year. Attorney General Merrick Garland says one of the men, Yaroslav Vasinskyi, 22, a Ukrainian, was arrested when he traveled to Poland.
 
 
+***
+![AirPods 3 vs. AirPods Pro: Every big difference between Apple's wireless earbuds](https://www.cnet.com/a/img/ZwvZcugPIPI298A6Yg00wvg6xYc=/1200x630/2021/10/18/ae4118e1-d110-4743-b9ad-2aa2f41765ff/yt-airpods-3-v4.jpg "AirPods 3 vs. AirPods Pro: Every big difference between Apple's wireless earbuds")
+
+
+[AirPods 3 vs. AirPods Pro: Every big difference between Apple's wireless earbuds](https://www.cnet.com/tech/mobile/airpods-3-vs-airpods-pro-every-big-difference-between-apples-wireless-earbuds/)
+
+
+> Those shopping for a new pair of AirPods now have three earbuds to choose from. Apple's $179 third-generation AirPods (£169, AU$279) became available on Oct. 26 after the tech giant announced them during its recent event on Oct. 18.  The new earbuds are essentially a cross between the high-end $249 AirPods Pro (£239, AU$399) and the entry-level $129 AirPods (£119, AU$219), both of which are available alongside the new model. (You can read more about the AirPods 3 in our full review.) Now playing: Watch this: Comparing AirPods 3 to AirPods Pro: Which is right for.
+
+
+***
+![Interview with Odin language creator](https://external-preview.redd.it/C6ReVu_z6WoIfYRqKPnaOuMfewMo8vBXxoxFLikQ0Ow.jpg?auto=webp&s=0d28618663aa9f058cba2ed5ffee082a32409a59 "Interview with Odin language creator")
+
+
+[Interview with Odin language creator](https://www.reddit.com/r/programming/comments/qpoc8a/interview_with_odin_language_creator/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![nVent Prices $300 Million Senior Notes Offering](http://www.businesswire.com/images/bwlogo_square.png "nVent Prices $300 Million Senior Notes Offering")
+
+
+[nVent Prices $300 Million Senior Notes Offering](https://www.businesswire.com/news/home/20211108006128/en/nVent-Prices-300-Million-Senior-Notes-Offering)
+
+
+> November 08, 2021 04:54 PM Eastern Standard Time LONDON--(BUSINESS WIRE)--nVent Electric plc (NYSE: NVT) announced today that nVent Finance S.à r.l., a wholly-owned subsidiary of nVent Electric plc, priced a public offering of $300 million of 2.750% senior notes due 2031. The notes will be fully and unconditionally guaranteed as to payment of principal and interest by nVent Electric plc. The offering is expected to close on November 23, 2021, subject to customary closing conditions. nVent intends to use the net proceeds of the offering, together with cash on hand, to fund the redemption of all of its $300 million of 3.
+
+
+***
+![The Infrastructure Bill Actually Does a Lot to Stop the Planet From Melting](https://compote.slate.com/images/d2d2f03d-9e31-490a-89d1-113e56947271.jpeg?width=780&height=520&rect=3418x2279&offset=1x0 "The Infrastructure Bill Actually Does a Lot to Stop the Planet From Melting")
+
+
+[The Infrastructure Bill Actually Does a Lot to Stop the Planet From Melting](https://slate.com/technology/2021/11/biden-infrastructure-bill-climate-change-provisions.html)
+
+
+> After decades of broken promises, and then years of Trump-era memes riffing on those broken promises, the United States has finally hit a long-elusive milestone: It's really, actually infrastructure week. Perhaps more importantly, though, for the Biden agenda and the planet—and despite legitimate complaints from the bill's critics—this landmark event can also plausibly be described as green infrastructure week. On Friday night, the House of Representatives passed the mammoth hard infrastructure and climate bill known generally as the Bipartisan Infrastructure Framework, or BIF, after a concession from progressives who'd wanted the bill passed alongside the more climate- and family-focused Build Back Better legislation.
+
+
+***
+[Telegram Ad Platform](https://www.reddit.com/r/programming/comments/qpo6ep/telegram_ad_platform/)
+
+
+> no comments yetBe the first to share what you think!
+
+
