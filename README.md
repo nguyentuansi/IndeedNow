@@ -28404,3 +28404,50 @@
 > (Image credit: Kevin Ku / Pexels) Staff at NASA appear to need some extra guidance when it comes to some of the most crucial software areas around today, experts have claimed.Academic researchers from the US Naval Research Laboratory, Technical University of Denmark, University of New Hampshire, and others, have published a paper to help NASA engineers wrap their heads around key open source terminology and its proper use.The researchers suggest that NASA's personnel continue to be confused about the specific meaning of terms like 'open source software,' 'free software,' and 'permissive license.
 
 
+***
+![4 ways to ensure Latin America's growing pot of capital drives long-term growth – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1221575909.jpg?w=654 "4 ways to ensure Latin America's growing pot of capital drives long-term growth – TechCrunch")
+
+
+[4 ways to ensure Latin America's growing pot of capital drives long-term growth – TechCrunch](https://techcrunch.com/2021/11/08/4-ways-to-ensure-latin-americas-growing-pot-of-capital-drives-long-term-growth/)
+
+
+> Business is booming in Latin America: Startups raised $9.3 billion in the first six months of 2021, and the region has produced a record number of unicorns, including Nubank, Rappi and iFood. The growth has caught the eyes and pockets of foreign investors, too, with SoftBank announcing its Latin America Fund II, committing $3 billion to tech companies there. As Latin America bathes the startup spotlight, players there need to consider how its startup growth can translate to self-sustaining economic and social development across the board.
+
+
+***
+[Fed Quarles to resign at the end of December](https://www.forexlive.com/technical-analysis/!/fed-quarles-to-resign-at-the-end-of-december-20211108)
+
+
+> Term as Vice Chair of Supervision ended in October, Term as Chair of Financial Stability Board That brings the number of Fed nominees up to 4
+
+
+***
+![Scientists Unravel Black Hole Plasma Jet Ejecting At Near Light Speed](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/NASA-black-hole-jet.jpg "Scientists Unravel Black Hole Plasma Jet Ejecting At Near Light Speed")
+
+
+[Scientists Unravel Black Hole Plasma Jet Ejecting At Near Light Speed](https://screenrant.com/black-hole-plasma-jet-explained/)
+
+
+> Scientists theorize that the black hole's rotation and strong magnetization are accelerating the plasma particles based on advanced computer modeling. A team of scientists claims to have figured out why the black hole at the center of the Messier 87 (M87) galaxy is ejecting plasma jets at near light speed in space, attributing it to the black hole's rotation and strong magnetization accelerating the particles. Interestingly, the first-ever image of a black hole captured in 2019 depicted the one at the heart of M87 and was observed using the Event Horizon Telescope (EHT).
+
+
+***
+![Why Machine-Generated Humor is the Holy Grail of A.I.](https://icdn.digitaltrends.com/image/digitaltrends/night-bar-music-comedy-show-microphone-in-a-bar.jpg "Why Machine-Generated Humor is the Holy Grail of A.I.")
+
+
+[Why Machine-Generated Humor is the Holy Grail of A.I.](https://www.digitaltrends.com/computing/ai-humor-jokes-holy-grail-machine-intelligence/)
+
+
+> In 'The Outrageous Okona,' the fourth episode of the second season of Star Trek: The Next Generation, the Enterprise's resident android Data attempts to learn the one skill it has previously been unable to master: Humor. Visiting the ship's Holodeck, Data takes lessons from a holographic comedian to try and understand the business of making funny. While the worlds of Star Trek and the real world can be far apart at times, this plotline rings true for machine intelligence here on Earth. Put simply, getting an A.
+
+
+***
+![The funny formula: Why machine-generated humor is the holy grail of A.I.](https://icdn.digitaltrends.com/image/digitaltrends/night-bar-music-comedy-show-microphone-in-a-bar.jpg "The funny formula: Why machine-generated humor is the holy grail of A.I.")
+
+
+[The funny formula: Why machine-generated humor is the holy grail of A.I.](https://www.digitaltrends.com/computing/ai-humor-jokes-holy-grail-machine-intelligence/)
+
+
+> In 'The Outrageous Okona,' the fourth episode of the second season of Star Trek: The Next Generation, the Enterprise's resident android Data attempts to learn the one skill it has previously been unable to master: Humor. Visiting the ship's Holodeck, Data takes lessons from a holographic comedian to try and understand the business of making funny. While the worlds of Star Trek and the real world can be far apart at times, this plotline rings true for machine intelligence here on Earth. Put simply, getting an A.
+
+
