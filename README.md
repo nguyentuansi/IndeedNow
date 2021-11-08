@@ -28157,3 +28157,53 @@
 > 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
 
 
+***
+![INSIGHT-The New Masters: How auction houses are chasing crypto millions](https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800 "INSIGHT-The New Masters: How auction houses are chasing crypto millions")
+
+
+[INSIGHT-The New Masters: How auction houses are chasing crypto millions](https://www.reuters.com/article/fintech-nft-auctions-idUSL4N2RO4Z8)
+
+
+> By Elizabeth HowcroftLONDON, Nov 8 (Reuters) - Little could James Christie have known some 240 years ago, as he sold masterpieces by Rembrandt and Rubens to Catherine the Great, that his auction house would one day offer virtual apes to a crypto company for over $1 million.Nor would Sotheby's founder Samuel Baker, auctioning hundreds of rare books for about $1,000 in 1744, have envisioned selling a copy of the original source code for the web, as a non-fungible token (NFT), for north of $5 million.
+
+
+***
+![8 Best Google Chrome Extensions for Web Designers And Developers in 2021](https://external-preview.redd.it/piCLThVLQw8HWg-S-BiccX3St0f-5YG7lBLvzHzr5VY.jpg?auto=webp&s=855d34907cd2e2752391ab7b719499adacf1a5ab "8 Best Google Chrome Extensions for Web Designers And Developers in 2021")
+
+
+[8 Best Google Chrome Extensions for Web Designers And Developers in 2021](https://www.reddit.com/r/programming/comments/qp7a7t/8_best_google_chrome_extensions_for_web_designers/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![BSNL giving full value offer on Rs 60 and Rs 110 prepaid plans, here is what they offer](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/bsnl_aunty_0_1200x768-original.png "BSNL giving full value offer on Rs 60 and Rs 110 prepaid plans, here is what they offer")
+
+
+[BSNL giving full value offer on Rs 60 and Rs 110 prepaid plans, here is what they offer](https://www.businesstoday.in/technology/story/bsnl-giving-full-value-offer-on-rs-60-and-rs-110-prepaid-plans-here-is-what-they-offer-311552-2021-11-08)
+
+
+> Government-owned telco Bharat Sanchar Nigam Limited (BSNL) offers prepaid offers which give full talktime value. These offers are available periodically in some telecom circles and can be availed by users living in those circles. According to BSNL's website, the telco is giving full value offers on talktime plans priced at Rs 60 and Rs 110. These full talktime offers are available till the end of 2021. The flash announcement was made on BSNL Kerala's website and users should check if the offer is available in their telecom circles.
+
+
+***
+![Best practices for storing uploaded files](https://external-preview.redd.it/2o4VMBfggyOSr7EGW35qEuZTBFTKu-MYUt_N6BBldWs.jpg?auto=webp&s=8cade73e334c6616d43db0edad944869dadad3f7 "Best practices for storing uploaded files")
+
+
+[Best practices for storing uploaded files](https://www.reddit.com/r/Python/comments/qp752k/best_practices_for_storing_uploaded_files/)
+
+
+> I'm working on a web service project that requires a user to upload a text file. I was wondering are there any best practices on how to store that file on the server (DB/server local file system) I'm using flask and it has a small tutorial on how to upload a file, but I'm not sure if this is a good solution for production environment.Flask tutorial
+
+
+***
+![Eternals Box Office Starts With $162 Million Opening Weekend](https://i.gadgets360cdn.com/large/eternals_opening_weekend_1636350178924.jpg "Eternals Box Office Starts With $162 Million Opening Weekend")
+
+
+[Eternals Box Office Starts With $162 Million Opening Weekend](https://gadgets.ndtv.com/entertainment/news/eternals-box-office-collection-162-million-opening-weekend-india-usa-world-second-biggest-2021-2602729)
+
+
+> Eternals made an estimated $161.7 million (about Rs. 1,199 crores) at the worldwide box office in its opening weekend, pushing the newest Marvel movie to second in the list of Hollywood's biggest opening weekends in 2021. The first is F9 aka Fast & Furious 9 at $162.4 million (about Rs. 1,204 crores) — it had the benefit of China which Eternals doesn't, though it had a massively staggered release unlike Eternals making it not an apples-to-apples comparison. Eternals' $161.7 million opening weekend was divided $71 million (about Rs.
+
+
