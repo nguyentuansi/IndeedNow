@@ -28207,3 +28207,50 @@
 > Eternals made an estimated $161.7 million (about Rs. 1,199 crores) at the worldwide box office in its opening weekend, pushing the newest Marvel movie to second in the list of Hollywood's biggest opening weekends in 2021. The first is F9 aka Fast & Furious 9 at $162.4 million (about Rs. 1,204 crores) — it had the benefit of China which Eternals doesn't, though it had a massively staggered release unlike Eternals making it not an apples-to-apples comparison. Eternals' $161.7 million opening weekend was divided $71 million (about Rs.
 
 
+***
+![Ex-Santander Asset Management CEO Belinky joins Motive Partners](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=56 "Ex-Santander Asset Management CEO Belinky joins Motive Partners")
+
+
+[Ex-Santander Asset Management CEO Belinky joins Motive Partners](https://www.reuters.com/technology/ex-santander-asset-management-ceo-belinky-joins-motive-partners-2021-11-08/)
+
+
+> LONDON, Nov 8 (Reuters) - Mariano Belinky, former chief executive officer of Banco Santander's (SAN.MC) asset management arm, has joined financial technology-focused private equity firm Motive Partners, the investment company will announce Monday.Belinky joins the company in London as industry partner to help Motive build, buy and invest in financial technology companies.Belinky was appointed CEO of Santander Asset Management in 2018 after it was re-acquired from Warburg Pincus and General Atlantic.
+
+
+***
+![Chip Shortage Creates New Power Players](https://static01.nyt.com/images/2021/11/08/business/00chips3/00chips3-videoSixteenByNine3000.jpg "Chip Shortage Creates New Power Players")
+
+
+[Chip Shortage Creates New Power Players](https://www.nytimes.com/2021/11/08/technology/chip-shortage-creates-new-power-players.html)
+
+
+> A detail of a microchip created at Microchip Technology in Chandler, Ariz.Credit...Tomás Karmelo Amaya for The New York TimesLow-profile chip makers with aging factories have become surprisingly powerful, leading to industry changes that may outlive the pandemic-fueled supply crunch.A detail of a microchip created at Microchip Technology in Chandler, Ariz.Credit...Tomás Karmelo Amaya for The New York TimesNov. 8, 2021, 3:00 a.m. ETSAN FRANCISCO — Since 1989, Microchip Technology has operated in an unglamorous backwater of the electronics industry, making chips called microcontrollers that add computing power to cars, industrial equipment and many other products.
+
+
+***
+![Realme GT 2 Pro with 108-megapixel camera may launch next year at around Rs 46,000](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/realmegt_8112021-original.png "Realme GT 2 Pro with 108-megapixel camera may launch next year at around Rs 46,000")
+
+
+[Realme GT 2 Pro with 108-megapixel camera may launch next year at around Rs 46,000](https://www.indiatoday.in/technology/news/story/realme-gt-2-pro-with-108-megapixel-camera-may-launch-next-year-at-around-rs-46-000-1874241-2021-11-08)
+
+
+> Shubham Verma New Delhi, Nov 08, 2021, Updated Nov 08, 2021, 1:28 PM IST Story highlights Realme GT 2 Pro may come with a 108-megapixel rear camera system. It may be powered by a Snapdragon 888 chipset and at least 8GB of RAM. Realme GT 2 Pro may arrive next year for around Rs 46,000. Realme GT series may soon be getting another phone and reportedly it will be called the GT 2 Pro. Rumour is that this will be a flagship phone and among the features that would make it worthy enough is a 108-megapixel camera.
+
+
+***
+[EUR/USD mildly lower, sellers still posturing for a technical break to the downside](https://www.forexlive.com/technical-analysis/!/eurusd-mildly-lower-sellers-still-posturing-for-a-technical-break-to-the-downside-20211108)
+
+
+> EUR/USD down 0.1% to 1.1555 on the day There US non-farm payrolls release on Friday saw sellers try to push the agenda, briefly clipping below key support @ 1.1525-29 but the move ultimately unraveled.
+
+
+***
+![Poco F3 set to launch alongside Poco M4 Pro tomorrow](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/poco_brand_logo-original.png "Poco F3 set to launch alongside Poco M4 Pro tomorrow")
+
+
+[Poco F3 set to launch alongside Poco M4 Pro tomorrow](https://www.indiatoday.in/technology/news/story/poco-f3-set-to-launch-alongside-poco-m4-pro-tomorrow-1874239-2021-11-08)
+
+
+> Sarthak Dogra Noida, Nov 08, 2021, Updated Nov 08, 2021, 1:23 PM IST Story highlights A new Poco F3 is set to debut at Poco's global launch event tomorrow. The phone will likely carry upgrades over the oco F3 launched earlier this year. Poco M4 Pro will also be launched on the day alongside. While smartphone enthusiasts waited for the Poco M4 Pro following the company's announcement of a launch event, Poco has surprised its fan base with a new lineup for the day. The Android smartphone maker has shared that a new phone will mark its debut on November 9, a refreshed version of its much-loved Poco F3.
+
+
