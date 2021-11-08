@@ -28060,3 +28060,50 @@
 > The Twitter app for iOS was recently updated to include a new search button on every user profile. The button sits in the top right corner of the screen and tapping it lets you easily search for tweets from a specific user. It appears that the feature is now widely rolled out. Previously, you would have to manually search for tweets from a user in the main search tab. From there you'd need to type out 'from:' before a user's name and then search for the tweet that you were looking for. The new feature was first reported to be widely rolled out by XDA Developers and The Verge a few days ago.
 
 
+***
+![Twitter votes Musk should sell 10 percent of Tesla stock](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202111/2e6879a288b640519472d1b95737f139.jpg "Twitter votes Musk should sell 10 percent of Tesla stock")
+
+
+[Twitter votes Musk should sell 10 percent of Tesla stock](https://www.koreatimes.co.kr/www/tech/2021/11/419_318380.html)
+
+
+> In this 2019 June file photo, SpaceX owner and Tesla CEO Elon Musk speaks at the E3 gaming convention in Los Angeles, Calif., U.S. Reuters-YonhapTwitter has spoken ― after Elon Musk polled his more than 62 million followers on whether he should sell 10 percent of his Tesla shares, by Sunday a majority had voted "yes.""I was prepared to accept either outcome," said Musk, who regularly takes to Twitter to make unexpected announcements or surprising comments. He did not specify when or how he plans to sell the shares.
+
+
+***
+![Elon Musk's $28 billion ‘coin flip'](https://content.api.news/v3/images/bin/4106d356598b1349a4994f180379d20c "Elon Musk's $28 billion ‘coin flip'")
+
+
+[Elon Musk's $28 billion ‘coin flip'](https://www.news.com.au/technology/online/social/worlds-richest-man-elon-musk-lets-twitter-decide-if-he-sells-10-of-tesla-stock/news-story/710944e03bb0ebc9ed4c1e8950d02aae)
+
+
+> Elon Musk — the world's richest man — has promised to sell 10 per cent of his Tesla stock if his followers on Twitter tell him to.Don't miss out on the headlines from Social. Followed categories will be added to My News.Tesla CEO Elon Musk‘s Twitter poll asking if he should sell 10 per cent of his shares has ended — with the masses voting in favour of him selling the Tesla stock. The vote, which closed this morning, means he could sell $28.14 billion (US$25 billion) worth of stock — amid a debate on whether the mega-rich should pay more tax.
+
+
+***
+[Elon Musk's $28 billion ‘coin flip'](https://www.goldcoastbulletin.com.au/technology/online/worlds-richest-man-elon-musk-lets-twitter-decide-if-he-sells-10-of-tesla-stock/news-story/710944e03bb0ebc9ed4c1e8950d02aae)
+
+
+> Tesla CEO Elon Musk‘s Twitter poll asking if he should sell 10 per cent of his shares has ended — with the masses voting in favour of him selling the Tesla stock.
+
+
+***
+![Netflix Games on iOS probably won't be available directly from the streaming app](https://cdn.mos.cms.futurecdn.net/YTd8JFw4AXNRHEmZ3JTRwD-1200-80.jpeg "Netflix Games on iOS probably won't be available directly from the streaming app")
+
+
+[Netflix Games on iOS probably won't be available directly from the streaming app](https://www.techradar.com/news/netflix-games-on-ios-probably-wont-be-available-directly-from-the-streaming-app)
+
+
+> (Image credit: Netflix) While Netflix Games has already begun its global rollout on Android devices, users on iOS are still waiting to check out the streaming giant's latest content offering, and now we have a pretty good idea as to why.As detailed in his Power On newsletter (via Engadget), Bloomberg's Mark Gurman (with support from iOS developer and MacRumors contributor Steve Moser) claims to have seen code that stipulates Netflix will release its games "individually" on iOS, as per App Store requirements.
+
+
+***
+![Tell me…](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Tell me…")
+
+
+[Tell me…](https://www.reddit.com/r/Python/comments/qp3dro/tell_me/)
+
+
+> Tell me, what is your favorite Python project you've ever done? I'll go first: I created a virtual assistant called AiMan that you could use to SSH into raspberry pis and use them with your voice.
+
+
