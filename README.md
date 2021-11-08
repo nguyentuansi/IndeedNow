@@ -28451,3 +28451,47 @@
 > In 'The Outrageous Okona,' the fourth episode of the second season of Star Trek: The Next Generation, the Enterprise's resident android Data attempts to learn the one skill it has previously been unable to master: Humor. Visiting the ship's Holodeck, Data takes lessons from a holographic comedian to try and understand the business of making funny. While the worlds of Star Trek and the real world can be far apart at times, this plotline rings true for machine intelligence here on Earth. Put simply, getting an A.
 
 
+***
+[U.S. Treasury auctioned off $56 billion of three year notes at a high yield of 0.750%](https://www.forexlive.com/technical-analysis/!/us-treasury-auctioned-off-56-billion-of-three-year-notes-at-a-high-yield-of-20211108)
+
+
+> WI level at the time of the auction was 0.740%
+
+
+***
+![The 10 best early Black Friday deals you can buy today](https://images.immediate.co.uk/production/volatile/sites/3/2021/10/Black_Friday_Article_banner-copy-8ddaff8.png?quality=90&resize=620,413 "The 10 best early Black Friday deals you can buy today")
+
+
+[The 10 best early Black Friday deals you can buy today](https://www.radiotimes.com/technology/black-friday/black-friday-2021-deals/)
+
+
+> There is less than three weeks to go until the official Black Friday date. Yet, with ongoing stock uncertainty, especially for toys, we've seen a flurry of new Black Friday deals from Currys, AO, Very and Boots in the last week, along with discounts from brands such as Oral-B and Samsung. Retailer giant Amazon is the latest to launch their early sale. The best deals so far include up to 25% off LEGO across retailers, plus savings on home appliances and electricals like the Kenwood Kmix stand mixer and Oral-B iO8 electric toothbrush – both of which were hugely popular last year, too.
+
+
+***
+![Amazon Echo Show 5 (2nd Gen) review: This Echo sounds familiar](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/07/echo-show-5-2nd-gen-lifestyle-1.jpg "Amazon Echo Show 5 (2nd Gen) review: This Echo sounds familiar")
+
+
+[Amazon Echo Show 5 (2nd Gen) review: This Echo sounds familiar](https://www.androidcentral.com/amazon-echo-show-5-2nd-gen-review)
+
+
+> Source: Jeramy Johnson / Android Central When it comes to smart speakers, the first products that come to mind for most people are likely one of Amazon's Echo devices. Amazon introduced and popularized the category with the original Echo speaker and then did the same for smart displays with the original Echo Show. Now that we're nearly seven years removed from the first cylindrical Echo and four years have passed since the first Echo Show debuted, we've had time to see these products and their product categories mature.
+
+
+***
+![Black Friday Fitbit Versa Deals 2021: Early Fitbit Versa 2, 3 & Lite Smartwatch Sales Rated by Deal Tomato](https://mms.businesswire.com/media/20211108005349/en/836216/23/Black_Friday_2021_%28DT%29.jpg "Black Friday Fitbit Versa Deals 2021: Early Fitbit Versa 2, 3 & Lite Smartwatch Sales Rated by Deal Tomato")
+
+
+[Black Friday Fitbit Versa Deals 2021: Early Fitbit Versa 2, 3 & Lite Smartwatch Sales Rated by Deal Tomato](https://www.businesswire.com/news/home/20211108005349/en/Black-Friday-Fitbit-Versa-Deals-2021-Early-Fitbit-Versa-2-3-Lite-Smartwatch-Sales-Rated-by-Deal-Tomato)
+
+
+> November 08, 2021 01:00 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday researchers at Deal Tomato have compared the top early Fitbit Versa smartwatch deals for Black Friday, including sales on Fitbit Versa Lite, 2 & 3. View the full range of deals in the list below. Best Fitbit Versa Deals: Save up to 58% on Fitbit Versa 3, Versa 2 & Versa Lite smartwatches at Walmart - click the link to see latest deals on best-selling Fitbit Versa models & accessories Save on Fitbit Versa smartwatches at Verizon.
+
+
+***
+[US treasury to auction off $56 billion of three year notes at the top of the hour](https://www.forexlive.com/technical-analysis/!/us-treasury-to-auction-off-56-billion-of-three-year-notes-at-the-top-of-the-hour-20211108)
+
+
+> Six month averages of key components of the three year auction  At the top of the hour, the U.S. Treasury will auction off $56 billion of three year notes. It is first of 3 key auctions which includes $39 billion of new 10 year notes auctioned on Tuesday and $25 billion of new 30 year bonds to be auctioned on Wednesday.  
+
+
