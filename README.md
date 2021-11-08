@@ -28354,3 +28354,53 @@
 > November 8, 2021 - 07:00 By: Andrew Otton We'll be back every Monday morning with more news and discussion on the latest games.Â  You can find the TechRaptor Podcast on Spotify, Apple Podcasts, Google Podcasts, Stitcher, and Pocket Casts. You'll also find it on our YouTube channel here.
 
 
+***
+![[C++20] 6 More Ways to Refactor new/delete into unique ptr](https://external-preview.redd.it/HyQd8EfuEXeEZbW_uxlcfdly-Oqote2nGjd-cquJwOw.jpg?auto=webp&s=7f68ea5b36b855399313c41af4823ebb20048022 "[C++20] 6 More Ways to Refactor new/delete into unique ptr")
+
+
+[[C++20] 6 More Ways to Refactor new/delete into unique ptr](https://www.reddit.com/r/programming/comments/qpe8mk/c20_6_more_ways_to_refactor_newdelete_into_unique/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Review: EKSA E910 5.8GHz Wireless Gaming Headset looks and sounds great](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/eksa-e910-gaming-headset-with-switch-lighter-different-angle.jpg "Review: EKSA E910 5.8GHz Wireless Gaming Headset looks and sounds great")
+
+
+[Review: EKSA E910 5.8GHz Wireless Gaming Headset looks and sounds great](https://www.imore.com/eksa-e910-wireless-gaming-headset-review)
+
+
+> Source: Rebecca Spear / iMore Whether you're playing games on your Nintendo Switch, iPhone, or computer, the best gaming headsets can really help give you a better playing experience, putting you closer to the sound and even sometimes aiding you in your quest to finish a game. Sometimes, you need a headset that's not tethered to anything and won't cost you an arm and a leg. The EKSA E910 5.8Ghz is a good option for anyone looking for a wireless headset without breaking the budget. It has a comfortable design, cool red lighting, and a retractable microphone that won't get in your way or get lost.
+
+
+***
+![Cadenza Ventures Raises $50M Crypto Venture Fund](https://mms.businesswire.com/media/20211108005310/en/924354/23/Cadenza_Logo_All_Grey_copy.jpg "Cadenza Ventures Raises $50M Crypto Venture Fund")
+
+
+[Cadenza Ventures Raises $50M Crypto Venture Fund](https://www.businesswire.com/news/home/20211108005310/en/Cadenza-Ventures-Raises-50M-Crypto-Venture-Fund)
+
+
+> November 08, 2021 08:57 AM Eastern Standard Time SAN FRANCISCO & NEW YORK--(BUSINESS WIRE)--Cadenza Ventures announced it has raised a $50 million early stage venture fund, anchored by Van Eck Associates, with participation from institutions that include Solana, Dapper Labs, WorldQuant Ventures, Mirana, TRON, Lennertz, Babel Finance, Social Leverage and individuals affiliated with Coinbase, Kraken Ventures, Angellist and Norwest Venture Partners. The fund is led by its Co-Founders and Managing Partners, Kumar Dandapani and Max Shapiro.
+
+
+***
+![Personetics Presents Personalized Insights and Autonomous Finance to SEC Asset Management Advisory Committee (AMAC)](https://mms.businesswire.com/media/20211108005692/en/924594/23/Personetics_logo_1.jpg "Personetics Presents Personalized Insights and Autonomous Finance to SEC Asset Management Advisory Committee (AMAC)")
+
+
+[Personetics Presents Personalized Insights and Autonomous Finance to SEC Asset Management Advisory Committee (AMAC)](https://www.businesswire.com/news/home/20211108005692/en/Personetics-Presents-Personalized-Insights-and-Autonomous-Finance-to-SEC-Asset-Management-Advisory-Committee-AMAC)
+
+
+> November 08, 2021 08:57 AM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--Personalized insights and advice will transform wealth management and provide enormous value to customers, if the industry embraces a more personalized approach. Personalized advice is a key step on the journey to autonomous finance, which involves four stages: data enrichment; personalized insights and advice; unified advice across channels; and finally, autonomous finance. This was the message shared by Jody Bhagat, President of Americas at Personetics, when he addressed this month's SEC meeting of the Asset Management Advisory Committee (AMAC).
+
+
+***
+![NASA apparently needs to swot up on its open-source knowledge](https://cdn.mos.cms.futurecdn.net/tKLoCsLGrThMKd5J4RmhME-1200-80.jpg "NASA apparently needs to swot up on its open-source knowledge")
+
+
+[NASA apparently needs to swot up on its open-source knowledge](https://www.techradar.com/news/nasa-apparently-needs-to-swot-up-on-its-open-source-knowledge)
+
+
+> (Image credit: Kevin Ku / Pexels) Staff at NASA appear to need some extra guidance when it comes to some of the most crucial software areas around today, experts have claimed.Academic researchers from the US Naval Research Laboratory, Technical University of Denmark, University of New Hampshire, and others, have published a paper to help NASA engineers wrap their heads around key open source terminology and its proper use.The researchers suggest that NASA's personnel continue to be confused about the specific meaning of terms like 'open source software,' 'free software,' and 'permissive license.
+
+
