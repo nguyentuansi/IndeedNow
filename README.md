@@ -28692,3 +28692,53 @@
 > CANBERRA, Australia — (AP) — Australia's prime minister on Tuesday announced plans to encourage people to buy electric vehicles weeks after his government was accused at a U.N. conference in Scotland of being a laggard in fighting climate change.Prime Minister Scott Morrison said the price of the technology would reduce in time and offered no subsidies to buyers of electric cars.'The costs of technology are coming down, and that means the choices available to Australians and right around the world are becoming more accessible, so our plans are all about supporting those choices,' Morrison said.
 
 
+***
+![SpaceX returns 4 astronauts to Earth, ending 200-day flight](https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5ZC6UVKXURAF5BDDLM7EXRE7LI.jpg?_a=ATABlay0 "SpaceX returns 4 astronauts to Earth, ending 200-day flight")
+
+
+[SpaceX returns 4 astronauts to Earth, ending 200-day flight](https://www.clickorlando.com/tech/2021/11/08/four-station-astronauts-catch-ride-with-spacex-back-home/)
+
+
+> CAPE CANAVERAL, Fla. – Four astronauts returned to Earth on Monday, riding home with SpaceX to end a 200-day space station mission that began last spring.Their capsule streaked through the late night sky like a dazzling meteor before parachuting into the Gulf of Mexico off the coast of Pensacola, Florida. Recovery boats quickly moved in with spotlights.'On behalf of SpaceX, welcome home to Planet Earth,' SpaceX Mission Control radioed from Southern California. Their homecoming — coming just eight hours after leaving the International Space Station — paved the way for SpaceX's launch of their four replacements as early as Wednesday night.
+
+
+***
+![Best ways to learn Python](https://external-preview.redd.it/dDtRAAUVOlRl9zZfWfZe9SJs-PZWW3RsOnft5s4z4Jw.jpg?auto=webp&s=5eec936de78e3f26603d44d7414e277d4a20c7e5 "Best ways to learn Python")
+
+
+[Best ways to learn Python](https://www.reddit.com/r/programming/comments/qpv6oz/best_ways_to_learn_python/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Apple 3nm chips for Mac and iPhone tipped for 2023 launch](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/macs_9112021-original.png "Apple 3nm chips for Mac and iPhone tipped for 2023 launch")
+
+
+[Apple 3nm chips for Mac and iPhone tipped for 2023 launch](https://www.indiatoday.in/technology/news/story/apple-3nm-chips-for-mac-and-iphone-tipped-for-2023-launch-1874556-2021-11-09)
+
+
+> Shubham Verma New Delhi, Nov 09, 2021, Updated Nov 09, 2021, 9:17 AM IST Story highlights Apple is said to use the 3nm process for its 2023 chipsets. There are at least three models of third-generation Apple Silicon in the making right now. Next year's Mac and iPhone would use a bumped-up 5nm process technology in chipsets. Apple's plans for a 3nm chipset may not come through until 2023, according to a leaked roadmap. The M1 chipset brought a revolution in the PC world and now Apple may be looking to double down on its efforts towards chip manufacturing.
+
+
+***
+![Sell 6th gen 128 gb Ipad to buy a 256 gb 2nd gen Ipad Pro???](https://images.macrumors.com/social/?t=2322475&v=6 "Sell 6th gen 128 gb Ipad to buy a 256 gb 2nd gen Ipad Pro???")
+
+
+[Sell 6th gen 128 gb Ipad to buy a 256 gb 2nd gen Ipad Pro???](https://forums.macrumors.com/threads/sell-6th-gen-128-gb-ipad-to-buy-a-256-gb-2nd-gen-ipad-pro.2322475/)
+
+
+> Hi everyone, I need your input on a potential purchase decision. I am looking at a deal for a 2nd gen ipad pro that is 256 gb and 12.7 inch going for about $550-600 CAD. Now this 2nd gen ipad pro does come with a logitech combo case and keyboard, apple pencil. The seller purchased this back in Christmas of 2018. Currently I have a 6th gen Ipad 128 gb. I don't really have an issue with it at the moment but I do think I can benefit from a bigger screen of the Ipad pro. I have two years left of school and I still maintain my macbook air that I purchased back in 2016.
+
+
+***
+![Performance difference if M1 MacBooks had user-upgradable RAM and SSDs?](https://images.macrumors.com/social/?t=2322474&v=6 "Performance difference if M1 MacBooks had user-upgradable RAM and SSDs?")
+
+
+[Performance difference if M1 MacBooks had user-upgradable RAM and SSDs?](https://forums.macrumors.com/threads/performance-difference-if-m1-macbooks-had-user-upgradable-ram-and-ssds.2322474/)
+
+
+> If the M1 MacBook Pro line had used industry standard sized RAM and SSDs, then they would be user-upgradable. (This was how the MacBook and MacBook Pro lines were under Steve Jobs's leadership.) So here's my question: How much of a performance difference do you think there would be between (for example) a current built-to-order M1 MacBook Pro with Apple's soldered-on RAM and soldered-on SSD, versus a hypothetical upgradable M1 MacBook Pro with the exact same specs with the only difference being
+
+
