@@ -28889,3 +28889,53 @@
 > We may earn a commission for purchases using our links. Learn more. MBP "We're seeing improvements in both top line performance and thermal throttling that currently plague our Intel builds." 9 Nov 2021 Source: Apple Twitter's software engineers are the latest to take advantage of the new MacBook Pro. They have been issued with top-of-the-line M1 Max MacBook Pro models. It has done away with thermal throttling that "plague" Intel Macs. Twitter has issued "fully-loaded" MacBook Pro (2021) with M1 Max processors, which staff software engineer John Szumski says has transformed its mobile app development.
 
 
+***
+![MacBook Air 2022: Specs, features, India price, and everything we know so far](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202111/MacBook_Air_concept_image-647x363.jpeg?lMisc.EeEFNhnujN5cL9qijHZy.ySoUA "MacBook Air 2022: Specs, features, India price, and everything we know so far")
+
+
+[MacBook Air 2022: Specs, features, India price, and everything we know so far](https://www.indiatoday.in/technology/features/story/macbook-air-2022-specs-features-india-price-and-everything-we-know-so-far-1874814-2021-11-09)
+
+
+> Apple has been busy with launches in recent times. In its latest event, Apple introduced the MacBook Pro's with M1 Pro and M1 Max chipsets, third-gen AirPods and the new HomePod mini colours. Now it seems as if we will see more products in the coming time. Leaks suggest that the launch of the new MacBook Air is likely on the cards. The laptop with significant upgrades is expected to arrive in 2022. According to the leaks, MacBook Air 2022 will see a complete design overhaul. The laptop is tipped to move to a MacBook Pro like design.
+
+
+***
+![Exploring Analogue Subtractive Synthesis With The Moog Mother-32](https://www.attackmagazine.com/wp-content/uploads/2021/10/mother-lead.jpg "Exploring Analogue Subtractive Synthesis With The Moog Mother-32")
+
+
+[Exploring Analogue Subtractive Synthesis With The Moog Mother-32](https://www.attackmagazine.com/technique/hardware-focus/exploring-analogue-subtractive-synthesis-with-the-moog-mother-32/)
+
+
+> Confused about subtractive synthesis? We use the Moog Mother-32 to explain oscillators, filters, and envelopes, plus take things to the next level with the patchbay. For the beginner, analogue subtractive synthesis can be a little overwhelming. All those knobs and sliders, and the arcane terminology! Even if you have a general idea of how things work, getting the sound you have in your head can be a laborious task of largely trial and error. With the newbie in mind, we've put together this short guide to analogue subtractive synthesis.
+
+
+***
+![Resume Writing Tips](https://external-preview.redd.it/kwD7_sIW3dyPP6Wacis4Nfyt9eSn8PpZntg3QUEPS4I.jpg?auto=webp&s=0acce961a5c6f8f1f5f40211c2c34ce29140f823 "Resume Writing Tips")
+
+
+[Resume Writing Tips](https://www.reddit.com/r/Python/comments/qq2618/resume_writing_tips/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Hate calls from unknown callers? Silence them on your iPhone.](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/09/apple-watch-se-with-iphone-running-widgets_2.jpg "Hate calls from unknown callers? Silence them on your iPhone.")
+
+
+[Hate calls from unknown callers? Silence them on your iPhone.](https://www.imore.com/how-silence-unknown-callers-your-iphone)
+
+
+> Source: Luke Filipowicz / iMore Nobody likes spam calls. Whether it's a government survey, a fraud scheme trying to convince you to give over your personal information, or just wrong numbers, having your phone ring incessantly with no one you want to talk to on the other end is annoying. Luckily for us, iOS 15 lets you silence unknown callers. When you turn on the Silence Unknown Callers feature, any calls from unknown numbers will automatically go to your voicemail without ringing your iPhone at all.
+
+
+***
+![Best Black Friday iPad Deals 2021: What to buy today](https://icdn.digitaltrends.com/image/digitaltrends/bfcm2020_ipad_201027.jpg "Best Black Friday iPad Deals 2021: What to buy today")
+
+
+[Best Black Friday iPad Deals 2021: What to buy today](https://www.digitaltrends.com/dtdeals/black-friday-ipad-deals/)
+
+
+> Black Friday iPad deals are already available right now and we're seeing some good discounts on popular iPads including the iPad Air, and iPad Pro range. While the latest iPad Mini isn't discounted right now, it's worth paying attention to that too given it's in such high demand. Whatever you're looking for, we've got all the best Black Friday iPad deals neatly rounded up here so there's something for everyone. Read on while we guide you through all the best Black Friday deals going on and tell you all about why certain iPads are so great — but like most Black Friday Apple deals, you need to shop them now.
+
+
