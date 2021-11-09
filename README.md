@@ -28839,3 +28839,53 @@
 > Is It Compatible With Robots? The Interaction of Humans and Robots/AI It's HAL 9000's fault, Clippy's continuous happy interruptions, or any navigational system that sends delivery drivers to dead ends. People and machines do not always get along in the workplace. However, as more AI systems and robots assist human workers, maintaining trust between them is critical to getting the job done. With the help of the US military, one University of Georgia professor is attempting to close the gap. The United States Army awarded Aaron Schecter, an assistant professor in the Terry College's department of management information systems, two grants totaling nearly $2 million to explore the interaction between human and robot teams.
 
 
+***
+![Black Friday Bluetooth Speaker Deals 2021: Early UE MEGABOOM, JBL Clip & More Deals Rated by Retail Egg](https://mms.businesswire.com/media/20211109005037/en/836277/23/Black_Friday_2021_%28RE%29.jpg "Black Friday Bluetooth Speaker Deals 2021: Early UE MEGABOOM, JBL Clip & More Deals Rated by Retail Egg")
+
+
+[Black Friday Bluetooth Speaker Deals 2021: Early UE MEGABOOM, JBL Clip & More Deals Rated by Retail Egg](https://www.businesswire.com/news/home/20211109005037/en/Black-Friday-Bluetooth-Speaker-Deals-2021-Early-UE-MEGABOOM-JBL-Clip-More-Deals-Rated-by-Retail-Egg)
+
+
+> November 09, 2021 05:00 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday Bluetooth speaker deals are live. Compare the best deals on UE, Audioengine, Bose & more speakers. Links to the latest deals are listed below. Best Bluetooth Speaker Deals: Save up to $49 on the latest Sonos wireless speakers at Sonos.com - check the latest deals on the top-rated Sonos One, Move & Five speakers Save up to 30% on Bluetooth speakers from top brands like JBL, Bose, Anker & Sony at Walmart - click the link for the latest Bluetooth and wireless speaker deals Save up to 42% on a wide range of Bluetooth speakers at Amazon - check the latest deals on best-selling Bluetooth speaker designs with top-quality features including waterproofing, extended battery life, and touchscreen control Save on Bose Bluetooth wireless speakers at Bose.
+
+
+***
+![Save over $400 on an electric foldable bike from Honeywell](https://helios-i.mashable.com/imagery/articles/03rUxjBx3YEJ17cDA4rbrMT/hero-image.fill.size_1200x675.v1636136166.jpg "Save over $400 on an electric foldable bike from Honeywell")
+
+
+[Save over $400 on an electric foldable bike from Honeywell](https://mashable.com/deals/nov-9-electric-bike-on-sale)
+
+
+> Deal pricing and availability subject to change after time of publication. TL;DR: The Honeywell's 16-inch Dasher Foldable Electric Bike is only $1,189.96 as of Nov. 9. Just use the code SAVE15NOV at checkout.Cycling is the future of transportation — especially in cities. It's a great way to avoid traffic, save money on gas or public transit, get some exercise, and even cut your carbon footprint. But of course, as a city dweller, you probably don't have a lot of square footage to store it when you get back home.
+
+
+***
+![Nvidia doubles down on software tools for crafting virtual worlds](https://www.reuters.com/resizer/TxlFQ7mK0wnV3ceZjVGPq8VhDX0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GUAG5G2IY5PLVHXFEQY5PMKQKY.jpg "Nvidia doubles down on software tools for crafting virtual worlds")
+
+
+[Nvidia doubles down on software tools for crafting virtual worlds](https://www.reuters.com/technology/nvidia-doubles-down-software-tools-crafting-virtual-worlds-2021-11-09/)
+
+
+> The logo of Nvidia Corporation is seen during the annual Computex computer exhibition in Taipei, Taiwan May 30, 2017. REUTERS/Tyrone SiuNov 9 (Reuters) - Nvidia Corp (NVDA.O) on Tuesday released a set of tools for software developers aimed at helping them create a "metaverse" of three-dimensional virtual worlds - and use a lot more computing power from Nvidia's chips in the process.At the Santa Clara, California, company's annual technology conference, Nvidia released Omniverse Enterprise, which will start at $9,000 per year and be sold by partners such as Dell Technologies (DELL.
+
+
+***
+![Samsung Galaxy S21 FE might be impossible to buy for some](https://cdn.mos.cms.futurecdn.net/LaTpyDmuXxPWyXhxnLxYyV-1200-80.jpg "Samsung Galaxy S21 FE might be impossible to buy for some")
+
+
+[Samsung Galaxy S21 FE might be impossible to buy for some](https://www.techradar.com/news/samsung-galaxy-s21-fe-might-be-impossible-to-buy-for-some)
+
+
+> The Samsung Galaxy S20 Fan Edition (Image credit: Future) If you were looking forward to the Samsung Galaxy S21 FE - and you haven't been put off by months of delays - another reason you might not be able to buy the phone has emerged.According to Korean website DDaily, the upcoming mid-range Galaxy S21 cousin will go on sale from mid-January in Europe… and Europe only. That's right, not the US, and not Samsung's home continent of Asia.What's weirder is that DDaily says the mobile will be unveiled during annual tech event CES 2022 - which is due to happen in Las Vegas, in the US.
+
+
+***
+![Twitter engineers latest to leverage the power of the new MacBook Pro](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/apple_macbook-pro_14-16-inch_10182021.jpg "Twitter engineers latest to leverage the power of the new MacBook Pro")
+
+
+[Twitter engineers latest to leverage the power of the new MacBook Pro](https://www.imore.com/twitter-engineers-are-latest-leverage-power-new-macbook-pro)
+
+
+> We may earn a commission for purchases using our links. Learn more. MBP "We're seeing improvements in both top line performance and thermal throttling that currently plague our Intel builds." 9 Nov 2021 Source: Apple Twitter's software engineers are the latest to take advantage of the new MacBook Pro. They have been issued with top-of-the-line M1 Max MacBook Pro models. It has done away with thermal throttling that "plague" Intel Macs. Twitter has issued "fully-loaded" MacBook Pro (2021) with M1 Max processors, which staff software engineer John Szumski says has transformed its mobile app development.
+
+
