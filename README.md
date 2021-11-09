@@ -29133,3 +29133,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Youtube Analytics & Utility Tool](https://external-preview.redd.it/W_Ckq1oiLemzIMvvujTmLYB44Fi4GQoow3BLK-k6VyQ.jpg?auto=webp&s=7e36ea5042d42a66a98a233bc4a164274b32470e "Youtube Analytics & Utility Tool")
+
+
+[Youtube Analytics & Utility Tool](https://www.reddit.com/r/Python/comments/qqek01/youtube_analytics_utility_tool/)
+
+
+> Youtube Data Analytics & Utility WebApp made with Youtube-Data API Get Youtube Statistics for Playlists, like Total Watchlengths & Statistics For Any Youtubers you wish to search for.You can compare to Youtubers on the basis of All-Time stats, recent views, estimated youtube earnings and Searches made by people on YouTube.https://ibb.co/M828RbXAlso You can search for Youtube Trends, (Like Google Trends but only based on YouTube data and searches made by people on YT)Utility Features include, Advanced Search, allows you to search for Youtube videos with particular dates as filter (instead of YouTube's original Oldest/Newest)(Un-Finished Feature : Playlist Generator : Search for anything, and a playlist will be generated and saved in your account for you regarding that topic) You can access the app here,https://minethetube.
+
+
+***
+![Samsung's QD-OLED TV might be here very soon. Here's everything we know](https://www.cnet.com/a/img/CGQ0rawkjyiSZ7_gHwcCQK_LRf8=/1200x630/2021/11/09/b7bc869b-3b00-48d0-b742-3498c239e7f8/screen-shot-2021-11-09-at-4-17-29-pm.png "Samsung's QD-OLED TV might be here very soon. Here's everything we know")
+
+
+[Samsung's QD-OLED TV might be here very soon. Here's everything we know](https://www.cnet.com/tech/home-entertainment/samsungs-qd-oled-tv-might-be-here-very-soon-heres-everything-we-know/)
+
+
+> Most people have two options when it comes to TV technology: LCD and OLED. Sure, some people also have the choice of a MicroLED TV, but those can be pricey. Samsung, the biggest TV-maker in the world, has been planted in the LCD camp for many years, while its rival LG is the biggest name in OLED. Despite advancements like QLED, mini-LED and dual panels, LCD has always lagged behind OLED in overall picture quality. Now Samsung is working on a new kind of TV that aims to combine two display technologies into something greater.
+
+
+***
+![Here's what is in the infrastructure bill that could get high-speed internet to everyone](https://cbsnews3.cbsistatic.com/hub/i/r/2021/11/09/34493745-281f-4d9d-be34-98ef0d6fc858/thumbnail/1200x630/e02589dc755e79c015c37690417fd43e/ap21271738002588.jpg "Here's what is in the infrastructure bill that could get high-speed internet to everyone")
+
+
+[Here's what is in the infrastructure bill that could get high-speed internet to everyone](https://www.cbsnews.com/news/infrastructure-bill-high-speed-internet-everyone/)
+
+
+> By Sarah Ewall-Wice November 9, 2021 / 5:01 PM / CBS News Melissa Roach pays $120 per month for internet at her home in Saint Louis County, Minnesota — and it is not always reliable. Amid the pandemic, her family had been scheduling time to be on the computer for it to work. And the best time to upload photos? The middle of the night. Her family's best solution for reliable internet is running a new line up the driveway. That cost: $8,000.  Millions of people across the country are, like Roach, struggling with a lack of access or unaffordable internet — a massive economic and educational obstacle.
+
+
+***
+![A 4.5-Year-Old's Honest Review of the Sesame Street Vaccine Town Hall](https://compote.slate.com/images/0390f849-bb7e-4764-9347-7be752dae951.png?width=1100&height=733&rect=982x654&offset=105x0 "A 4.5-Year-Old's Honest Review of the Sesame Street Vaccine Town Hall")
+
+
+[A 4.5-Year-Old's Honest Review of the Sesame Street Vaccine Town Hall](https://slate.com/technology/2021/11/cnn-sesame-street-vaccine-town-hall-review-preschooler-and-her-mother.html)
+
+
+> 'Is all of this show going to be like this, with the persons talking like this?' J., age 4.5, asks, gesturing toward the screen. On our television, Sanjay Gupta and Erica Hill are hanging out in Zoom-style boxes, interviewing a rotating series of guests for their Sesame Street/CNN Town Hall on COVID vaccines for kids. J. started out jazzed up and laughing, happy that I was allowing her to watch Sesame Street, a show she loves, at an unusual time of day. We get some Street regulars like Elmo, Bert, and Ernie; some real-life kids who submitted taped questions for the panel; and some scientists and doctors, like Surgeon General Vivek Murthy and the researcher who helped design the Moderna COVID vaccine, Kizzmekkia Corbett.
+
+
+***
+![Does The Legend of Zelda: Ocarina of Time hold up in 2021?](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/zelda-ocarina-of-time-adult-link-horse.jpg "Does The Legend of Zelda: Ocarina of Time hold up in 2021?")
+
+
+[Does The Legend of Zelda: Ocarina of Time hold up in 2021?](https://www.imore.com/does-nintendo-switch-online-legend-zelda-ocarina-time-hold-up)
+
+
+> Source: iMore Ocarina of Time is my favorite game of all time. Maybe it was because it was the first game I beat before my older brothers, or perhaps because it was the first game I tackled on my own, but what a game to have that honor. That's not saying I didn't play other games before it, and I don't love games that have followed. There's just something different about Ocarina of Time, and I'm apparently not the only one who thinks so since it often lands the number one spot on many best games of all time lists.
+
+
