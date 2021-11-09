@@ -29036,3 +29036,53 @@
 > With so much of the startup news cycle focused on unprecedented funding round sizes and record amounts of time bootstrapping, we don't often step back from the numbers to have a hard think about innovation. But today, that's precisely what we are going to do. The Exchange gained early access to pi Ventures' Deep Tech Shifts 2026 report, which identifies 15 deep tech sub-sectors the firm believes will reach an inflection point by 2026. The study is backed by research, but pi Ventures' founding partner Manish Singhal says its findings are also informed by conversations with entrepreneurs.
 
 
+***
+![The ECOLOR Smart Table Lamp is the perfect décor for the kids' room](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/11/ecolor-smart-table-lamp-lifestyle-hero-0.jpg "The ECOLOR Smart Table Lamp is the perfect décor for the kids' room")
+
+
+[The ECOLOR Smart Table Lamp is the perfect décor for the kids' room](https://www.androidcentral.com/ecolor-smart-table-lamp-review)
+
+
+> Source: Namerah Saud Fatmi / Android Central I absolutely love smart lights as they have the ability to transform a room within seconds. One moment you're in your boring living room, and the next it becomes a mysterious space under the slow brilliance of shimmering smart LED bulbs. It really is a fantastic way to revamp the feel of your home. While brands like Philips and Govee come to mind first, there are plenty of affordable alternatives available when it comes to smart lights. ECOLOR is one such brand and it caters to the budget segment of smart lighting.
+
+
+***
+![The best designs we've seen in Happy Home Paradise DLC so far](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/eloise-hero-happy-home-paradise-acnh.jpg "The best designs we've seen in Happy Home Paradise DLC so far")
+
+
+[The best designs we've seen in Happy Home Paradise DLC so far](https://www.imore.com/best-islands-animal-crossing-happy-home-paradise-dlc)
+
+
+> Source: iMore One of the draws of Animal Crossing: New Horizons is the ability to completely customize an island to your vision. You can change the layout of your island, the style of homes, and make custom designs for clothes, furniture, and even wallpaper. The Happy Home Paradise DLC takes it even further, allowing you to create custom vacation homes for villagers without having to find, craft, or purchase items separately. For many players, this opens a new creative outlet, and the results of these vacation islands are truly stunning.
+
+
+***
+![Unlock five facilities and several customizations with Happy Home Paradise](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/acnh-happy-home-paradise-school.jpg "Unlock five facilities and several customizations with Happy Home Paradise")
+
+
+[Unlock five facilities and several customizations with Happy Home Paradise](https://www.imore.com/animal-crossing-happy-home-designer-all-unlockable-facilities-and-customization-options)
+
+
+> Source: iMore Animal Crossing: Happy Home Paradise lets us live out our creative dreams by making gorgeous vacation homes for clients. It seriously takes this cute game to the extra level and cements it as one of the best Nintendo Switch games out there. As you take on jobs and fulfill villager requests, you'll also unlock five facilities and several customization abilities. Eventually, you can even unlock the ability to edit your villager's houses on your home island. So what exactly are these rewards, and how do you unlock them? Let's dive in.
+
+
+***
+![Rep. Paul Gosar shared an anime video of himself killing AOC. This was her response](https://media.npr.org/assets/img/2021/11/09/gettyimages-1227815195_wide-d62a664f6118e2e5d913c2fbaf6350a532c086b4.jpg?s=1400 "Rep. Paul Gosar shared an anime video of himself killing AOC. This was her response")
+
+
+[Rep. Paul Gosar shared an anime video of himself killing AOC. This was her response](https://www.npr.org/2021/11/09/1053895408/paul-gosar-alexandria-ocasio-cortez-anime-twitter-video-backlash)
+
+
+> Rep. Paul Gosar, R-AZ, pictured during a House Natural Resources Committee hearing on July 28, 2020 in Washington, DC. Critics are slamming him for tweeting an edited anime video depicting violence against Democrats including Rep. Alexandria Ocasio-Cortez and President Biden. Bill Clark/Pool/AFP via Getty Images Critics are slamming Republican Rep. Paul Gosar of Arizona for sharing an altered anime video in which he kills Rep. Alexandria Ocasio-Cortez and swings swords at President Biden.
+
+
+***
+![Dell P3222QE USB-C Hub Monitor](https://cdn.mos.cms.futurecdn.net/ECnfSDvpN8KzZjEy8CtN8-1200-80.jpg "Dell P3222QE USB-C Hub Monitor")
+
+
+[Dell P3222QE USB-C Hub Monitor](https://www.techradar.com/reviews/dell-p3222qe-usb-c-hub-monitor)
+
+
+> When a brand proudly adds the words 'USB-C Hub' to its monitor's name, we expect some nifty USB-C hub functionality in there, like a built-in KVM perhaps. But, either the Dell has forgotten to add an upstream port in the Dell P3222QE USB-C Hub, or the company just hoped no one would notice.Another upper mid-range 4K monitor, the Dell P3222QE USB-C Hub has almost all the makings of a great productivity monitor. It's got lots of productivity-related features, a nice and minimalist aesthetic, a versatile stand, and a nice panel with great picture quality.
+
+
