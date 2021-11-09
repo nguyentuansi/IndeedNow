@@ -29086,3 +29086,50 @@
 > When a brand proudly adds the words 'USB-C Hub' to its monitor's name, we expect some nifty USB-C hub functionality in there, like a built-in KVM perhaps. But, either the Dell has forgotten to add an upstream port in the Dell P3222QE USB-C Hub, or the company just hoped no one would notice.Another upper mid-range 4K monitor, the Dell P3222QE USB-C Hub has almost all the makings of a great productivity monitor. It's got lots of productivity-related features, a nice and minimalist aesthetic, a versatile stand, and a nice panel with great picture quality.
 
 
+***
+![Big New Among Us Update Available Now](https://techraptor.net/sites/default/files/styles/image_header/public/2021-11/Among%20Us.jpg?itok=OvSatPIX "Big New Among Us Update Available Now")
+
+
+[Big New Among Us Update Available Now](https://techraptor.net/gaming/news/big-new-among-us-update-available-now)
+
+
+> Big New Among Us Update Available Now November 9, 2021 By: Don Parsons Smash indie hit Among Us has released a new major Among Us update, and it's a doozy, promising to change up the social deduction game in a lot of ways. The update features four new roles, adjustable roles, and a whole new progression and cosmetic system tied into the Cosmicube, before Among Us releases on PlayStation and Xbox next month. What are the new Among Us roles? The four new roles added to Among Us are split with three new crew roles, and one new imposter role.
+
+
+***
+![War Changes with Warhammer 40k Balance Dataslate](https://techraptor.net/sites/default/files/styles/image_header/public/2021-11/Warhammer%2040k%20Necron%20Army.jpg?itok=5ExrTKw8 "War Changes with Warhammer 40k Balance Dataslate")
+
+
+[War Changes with Warhammer 40k Balance Dataslate](https://techraptor.net/tabletop/news/war-changes-with-warhammer-40k-balance-dataslate)
+
+
+> If you're familiar with the iconic miniatures war game, Warhammer 40k, then you know there is a lot to things to keep track of. Across multiple editions, armies, and codices, rules changes are inevitable. But Games Workshop is trying something new when it comes to addressing the current meta of their series with the introduction of Warhammer 40k Balance Dataslate. As explained in their official Warhammer-Community post, the Warhammer 40k Balance Dataslate is a balance update for competitive matched play.
+
+
+***
+[Apple backpedals on breaking Face ID after third-party iPhone 13 screen replacements, will release a software update to no longer require a microcontroller swap (Jay Peters/The Verge)](http://www.techmeme.com/211109/p31#a211109p31)
+
+
+> Jay Peters / The Verge: Apple backpedals on breaking Face ID after third-party iPhone 13 screen replacements, will release a software update to no longer require a microcontroller swap — A software update is on the way that won't require repair shops to transfer a microcontroller
+
+
+***
+![Microsoft's education event: The biggest announcements and how to re-watch](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/147212-laptops-news-feature-how-to-watch-microsoft-reveal-the-next-generation-of-windows-image7-bibk8yelat.jpg "Microsoft's education event: The biggest announcements and how to re-watch")
+
+
+[Microsoft's education event: The biggest announcements and how to re-watch](https://www.pocket-lint.com/laptops/news/microsoft/147212-microsoft-event-how-to-watch-and-what-to-expect)
+
+
+> (Pocket-lint) - Microsoft's education-focused event is done and dusted.The company promised to discuss the latest tech solutions and address "gaps in learning left by the pandemic" during the event. It did just that - by announcing a new low-cost laptop for students and schools. The device even runs a new edition of Windows 11 that's designed specifically for education customers. Here is a round-up of Microsoft's biggest announcements, plus how to watch or re-watch the action unfold for yourself if you wish.
+
+
+***
+![Building a High Performance Text Editor](https://external-preview.redd.it/iecVkR6imMZE_roIcbyyA6gZBTWXs3DvmRPRiAtXa9w.jpg?auto=webp&s=ea813097cfc50dd925abd57e05a5e44157d6b6a6 "Building a High Performance Text Editor")
+
+
+[Building a High Performance Text Editor](https://www.reddit.com/r/programming/comments/qqbuul/building_a_high_performance_text_editor/)
+
+
+> no comments yetBe the first to share what you think!
+
+
