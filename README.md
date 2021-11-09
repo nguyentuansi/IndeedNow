@@ -28986,3 +28986,53 @@
 > Source: iMore A new report says Netflix has started rolling out short TikTok-style videos designed to draw in younger viewers. From Bloomberg: Netflix Inc. is rolling out a TikTok-like feature aimed at kids, its latest bid to attract younger viewers to its platform and help them discover programming. The "Kids Clips" feature, appearing on Netflix's iOS app, will show short videos from the company's existing library of children's programs and movies. Netflix plans to add new clips daily based on its current and future offerings.
 
 
+***
+![Jiggle Physics 103: AC: New Horizons 2.0; Mario Party Superstars](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/11/jiggle-physics_art.jpg "Jiggle Physics 103: AC: New Horizons 2.0; Mario Party Superstars")
+
+
+[Jiggle Physics 103: AC: New Horizons 2.0; Mario Party Superstars](https://www.androidcentral.com/jiggle-physics-103-ac-new-horizons-20-mario-party-superstars)
+
+
+> Source: Jiggle Physics Art Sara Gitkos is in the house with Rebecca and Carli as they check out the Animal Crossing: New Horizons 2.0 update and Mario Party Superstars. They also talk about Microsoft's take on the Metaverse and delays of Diablo 4 and Overwatch 2 as Blizzard continues to hemorrhage executives and customer good will. Hosted by: Jennifer Locke, Carli Velocci, and Rebecca Spear Got feedback? Hit up Podcast@androidcentral.com and tell us something! LISTEN NOW: LINKS:
+
+
+***
+![The New Frontier of Enterprise Risk: Nth Parties](https://media.threatpost.com/wp-content/uploads/sites/103/2021/11/09103557/Cyberpion-image-e1636472173555.jpg "The New Frontier of Enterprise Risk: Nth Parties")
+
+
+[The New Frontier of Enterprise Risk: Nth Parties](https://threatpost.com/enterprise-risk-nth-parties/176114/)
+
+
+> The average number of vulnerabilities discovered in a Cyberpion scan of external Fortune 500 networks (such as cloud systems) was 296, many critical (with the top of the scale weighing in at a staggering 7,500).  By Ran Nahmias, Co-Founder and CBO, Cyberpion The concept of risk in enterprise IT is constantly evolving. And considering recent findings, it's clear that there's a risk frontier that's been underestimated – Nth party risk. Traditional enterprise risk management has focused on two domains: Internal risk and external (vendor) risk.
+
+
+***
+![Tim Cook says he owns cryptocurrency](https://cdn.vox-cdn.com/thumbor/Ogexu9fJOZiC3i_lfG7Nzp93DEY=/0x371:4483x2613/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/22998582/1328996608.jpg "Tim Cook says he owns cryptocurrency")
+
+
+[Tim Cook says he owns cryptocurrency](https://www.theverge.com/2021/11/9/22772092/tim-cook-cryptocurrency-investment)
+
+
+> Photo by Axelle/Bauer-Griffin/FilmMagic Apple CEO Tim Cook has confirmed that he has invested his personal money in cryptocurrency during a discussion today at the New York Times' Dealbook conference. 'I think it's reasonable to own it as part of a diversified portfolio,' the CEO said during a conversation with Andrew Ross Sorkin. 'I'm not giving anyone investment advice, by the way,' he quickly followed up, without specifying which specific cryptocurrencies he has invested in. 'I've been interested in it for a while.
+
+
+***
+![Medium snatches up Projector and beefs up management team – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/11/projector_newsletter_design.jpg?w=700 "Medium snatches up Projector and beefs up management team – TechCrunch")
+
+
+[Medium snatches up Projector and beefs up management team – TechCrunch](https://techcrunch.com/2021/11/09/medium-snatches-up-projector-and-beefs-up-management-team/)
+
+
+> Content publishing platform Medium is acquiring a small startup called Projector. As part of the deal, the entire Projector team is joining Medium with Projector's co-founder and CEO Trevor O'Brien becoming Medium's Chief Product Officer. If you're not familiar with Projector, the company has been building a browser-based graphic design tool. In just a few clicks, Projector users can create graphics for social posts, such as podcast artworks, a logo for a Facebook event, an Instagram story, etc. You don't need any professional design skills to use Projector as you can also take advantage of a library of templates.
+
+
+***
+![15 sectors pi Ventures expects deep tech to disrupt in the next 5 years – TechCrunch](https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=533 "15 sectors pi Ventures expects deep tech to disrupt in the next 5 years – TechCrunch")
+
+
+[15 sectors pi Ventures expects deep tech to disrupt in the next 5 years – TechCrunch](https://techcrunch.com/2021/11/09/15-sectors-pi-ventures-expects-deep-tech-to-disrupt-in-the-next-5-years/)
+
+
+> With so much of the startup news cycle focused on unprecedented funding round sizes and record amounts of time bootstrapping, we don't often step back from the numbers to have a hard think about innovation. But today, that's precisely what we are going to do. The Exchange gained early access to pi Ventures' Deep Tech Shifts 2026 report, which identifies 15 deep tech sub-sectors the firm believes will reach an inflection point by 2026. The study is backed by research, but pi Ventures' founding partner Manish Singhal says its findings are also informed by conversations with entrepreneurs.
+
+
