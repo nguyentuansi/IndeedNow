@@ -28592,3 +28592,53 @@
 > no comments yetBe the first to share what you think!
 
 
+***
+![Robinhood reports data breach affecting 7 million customers](https://icdn.digitaltrends.com/image/digitaltrends/in-this-photo-illustration-the-robinhood-markets-logo-seen-2.jpg "Robinhood reports data breach affecting 7 million customers")
+
+
+[Robinhood reports data breach affecting 7 million customers](https://www.digitaltrends.com/news/robinhood-reports-data-breach-affecting-7-million-customers/)
+
+
+> Online stock trading platform Robinhood has been hit by a data breach affecting about seven million of its customers, the company revealed on Monday, November 8. The Menlo Park, California-based company said the 'data security incident' took place on Wednesday, November 3, when an unauthorized third party 'obtained access to a limited amount of personal information.' Initial investigations suggest the culprit tricked a customer support employee into giving them access to certain customer support systems.
+
+
+***
+![Original Apple-1 built by Jobs and Wozniak auctioned](https://imagevars.gulfnews.com/2021/11/09/211109-Apple1_17d0209ecd5_medium.jpg "Original Apple-1 built by Jobs and Wozniak auctioned")
+
+
+[Original Apple-1 built by Jobs and Wozniak auctioned](https://gulfnews.com/technology/companies/original-apple-1-built-by-jobs-and-wozniak-auctioned-1.1636416929324)
+
+
+> Morgana Blackwelder poses with a hand-built Apple-1 displayed for auction at John Moran Auctioneers on Saturday, Nov. 6, 2021 in Monrovia, California. Image Credit: Los Angeles Times Los Angeles: An original Apple computer, handbuilt by company founders Steve Jobs and Steve Wozniak 45 years ago, goes under the hammer in the United States on Tuesday. The functioning Apple-1, the great, great grandfather of today's sleek chrome-and-glass Macbooks, is expected to fetch up to $600,000 at an auction in California.
+
+
+***
+![[News only] Government "Go on a trip in November"... Massive discount event](https://img.sbs.co.kr/newimg/news/20211109/201607892_1280.jpg "[News only] Government "Go on a trip in November"... Massive discount event")
+
+
+[[News only] Government "Go on a trip in November"... Massive discount event](https://www.tellerreport.com/tech/2021-11-09-[news-only]-government-"go-on-a-trip-in-november"----massive-discount-event.S173_sEwDK.html)
+
+
+> In line with the gradual recovery of daily life, the government is launching a campaign to encourage travel this month. The plan is to designate November as a travel month and provide benefits to 1.4 million people by running a large-scale promotion that offers discounts on transportation, accommodation, and travel products. In line with the gradual recovery of daily life, the government is launching a campaign to encourage travel this month. The plan is to designate November as a travel month and provide benefits to 1.
+
+
+***
+![[News only] Detective who was walking, caught '5 years of illegal filming' in his 20s](https://img.sbs.co.kr/newimg/news/20211109/201607890_1280.jpg "[News only] Detective who was walking, caught '5 years of illegal filming' in his 20s")
+
+
+[[News only] Detective who was walking, caught '5 years of illegal filming' in his 20s](https://www.tellerreport.com/tech/2021-11-09-[news-only]-detective-who-was-walking--caught--5-years-of-illegal-filming--in-his-20s.BySIOj4vvK.html)
+
+
+> A man in his 20s, who is accused of illegally filming for five years, was caught by a detective who happened to be out for a walk on a day off. Detective Lee Hyung-seok of the Seocho Police Station in Seoul, who went for a walk in Yangjaecheon on the night of the 3rd, found a man closely following two middle school girls. A man in his 20s, who is accused of illegally filming for five years, was caught by a detective who happened to be out for a walk on a day off. Detective Lee Hyung-seok of the Seocho Police Station in Seoul, who went for a walk in Yangjaecheon on the night of the 3rd, found a man closely following two middle school girls.
+
+
+***
+![Brits Most Likely to Do All Their Christmas Shopping Online, New Global Data Reveals](https://mms.businesswire.com/media/20211108006089/en/924786/23/UK_-_More_than_half_of_consumers_in_every_country_will_use_their_smartphone_while_shopping_in-store.jpg "Brits Most Likely to Do All Their Christmas Shopping Online, New Global Data Reveals")
+
+
+[Brits Most Likely to Do All Their Christmas Shopping Online, New Global Data Reveals](https://www.businesswire.com/news/home/20211108006089/en/Brits-Most-Likely-to-Do-All-Their-Christmas-Shopping-Online-New-Global-Data-Reveals)
+
+
+> November 08, 2021 07:01 PM Eastern Standard Time LONDON--(BUSINESS WIRE)--Ahead of Christmas shopping season, Airship, the leading mobile app experience company, has released findings from a global survey that provide insights into changing shopping behaviours and preferences of consumers in the U.K., U.S., France, Germany, Australia, Singapore and India. The survey, commissioned by Airship and conducted in partnership with Sapio Research, polled more than 9,000 consumers across major markets in Europe, America and Asia, found U.
+
+
