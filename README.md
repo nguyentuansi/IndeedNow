@@ -28789,3 +28789,53 @@
 > Bloomberg: Netflix is rolling out Kids Clips, a TikTok-like feature aimed at kids, on its iOS app, which will show short videos from its children's library, updated daily — - Company to test ‘Kids Clips’ on iOS in U.S., other countries — Feature is similar to ‘Fast Laughs’ comedy offering for adults
 
 
+***
+![Daniel Ek's fund puts €100M into defence startup Helsing.ai, to support democracies – TechCrunch](https://techcrunch.com/wp-content/uploads/2017/03/daniel-ek.jpg "Daniel Ek's fund puts €100M into defence startup Helsing.ai, to support democracies – TechCrunch")
+
+
+[Daniel Ek's fund puts €100M into defence startup Helsing.ai, to support democracies – TechCrunch](https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/)
+
+
+> Just over a year ago, Spotify co-founder Daniel Ek pledged 1 billion euros ($1.2 billion) of his personal fortune towards funding deeptech 'moonshot projects', spread across the next 10 years. In particular, he was most interested in boosting European tech and European entrepreneurs as he said they were typically underfunded compared to US counterparts. Today it looks like he's also out to boost European (and other) liberal democratic societies with the news that Prima Materia, his fund, will put €100m into Helsing, a European defence AI company, which has raised €102.
+
+
+***
+![Vocera and MDI Medical Announce Reseller Agreement to Deliver Clinical Communication and Collaboration Solutions to the Irish Healthcare Market](https://mms.businesswire.com/media/20211109005683/en/925027/23/Vocera_Logo.jpg "Vocera and MDI Medical Announce Reseller Agreement to Deliver Clinical Communication and Collaboration Solutions to the Irish Healthcare Market")
+
+
+[Vocera and MDI Medical Announce Reseller Agreement to Deliver Clinical Communication and Collaboration Solutions to the Irish Healthcare Market](https://www.businesswire.com/news/home/20211109005683/en/Vocera-and-MDI-Medical-Announce-Reseller-Agreement-to-Deliver-Clinical-Communication-and-Collaboration-Solutions-to-the-Irish-Healthcare-Market)
+
+
+> November 09, 2021 03:00 AM Eastern Standard Time SAN JOSE, Calif.--(BUSINESS WIRE)--Vocera Communications, Inc. (NYSE:VCRA), a recognised leader in clinical communication and workflow solutions, today announced a reseller agreement with MDI Medical Limited in Ireland. MDI Medical works closely with hospitals to provide medical device solutions for diagnosis, monitoring and preventative medicine. MDI Medical will work closely with Vocera to sell the full strategic clinical communication and collaboration solutions to the Irish market, including: Hands-free communication devices, including the award-winning Vocera Smartbadge Secure texting and messaging applications Pager replacement and staff safety solutions Vocera Engage for integrating clinical, operational and communication systems Clinical communication assessments and workflow design services 'We are excited to add MDI Medical to our list of valued partners to support more hospitals in the Republic of Ireland,' said Brent Lang, Chairman and CEO for Vocera.
+
+
+***
+![Spirent Offers First Commercially Available Test Capability for Galileo HAS](https://mms.businesswire.com/media/20211109005679/en/671794/23/Spirent_BusinessWire_2018.jpg "Spirent Offers First Commercially Available Test Capability for Galileo HAS")
+
+
+[Spirent Offers First Commercially Available Test Capability for Galileo HAS](https://www.businesswire.com/news/home/20211109005679/en/Spirent-Offers-First-Commercially-Available-Test-Capability-for-Galileo-HAS)
+
+
+> November 09, 2021 03:00 AM Eastern Standard Time PAIGNTON, U.K.--(BUSINESS WIRE)--Spirent Communications plc (LSE:SPT), the world leader in global navigation satellite system (GNSS) testing and assurance solutions, today announced the launch of the industry's first commercially available simulation test solution for the Galileo High Accuracy Service (HAS), via a beta interface implementation based on HAS ICD version 1.2. During the development of the solution, Spirent collaborated with GMV, a leader in cutting-edge GNSS high-accuracy technologies.
+
+
+***
+![Microsoft education event today: How to watch live, new Windows 11 version, Surface SE laptop expected](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/mirosoft_reimagine_event-original.jpg "Microsoft education event today: How to watch live, new Windows 11 version, Surface SE laptop expected")
+
+
+[Microsoft education event today: How to watch live, new Windows 11 version, Surface SE laptop expected](https://www.indiatoday.in/technology/news/story/microsoft-education-event-today-how-to-watch-live-new-windows-11-version-surface-se-laptop-expected-1874682-2021-11-09)
+
+
+> Story highlights Microsoft Reimagine will being at around 9:30 pm IST. It will likely showcase a new version of Windows 11 and a Surface laptop meant for students. The event will be free for all to attend and live streamed by Microsoft on its website. Microsoft will announce new products and services tonight, focused around aiding the education of students. The launch event is titled Microsoft Reimagine and will take place at 9:30 pm IST today. A possible lineup for the Education event may include a new Surface laptop alongside a rumoured lighter version of Windows 11.
+
+
+***
+![Is It Compatible With Robots? The Interaction of Humans and Robots/AI » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/11/human-robot-interaction-cooperation-777x518-1.jpg "Is It Compatible With Robots? The Interaction of Humans and Robots/AI » Brinkwire")
+
+
+[Is It Compatible With Robots? The Interaction of Humans and Robots/AI » Brinkwire](https://en.brinkwire.com/technology/is-it-compatible-with-robots-the-interaction-of-humans-and-robots-ai/)
+
+
+> Is It Compatible With Robots? The Interaction of Humans and Robots/AI It's HAL 9000's fault, Clippy's continuous happy interruptions, or any navigational system that sends delivery drivers to dead ends. People and machines do not always get along in the workplace. However, as more AI systems and robots assist human workers, maintaining trust between them is critical to getting the job done. With the help of the US military, one University of Georgia professor is attempting to close the gap. The United States Army awarded Aaron Schecter, an assistant professor in the Terry College's department of management information systems, two grants totaling nearly $2 million to explore the interaction between human and robot teams.
+
+
