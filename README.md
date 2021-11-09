@@ -28939,3 +28939,50 @@
 > Black Friday iPad deals are already available right now and we're seeing some good discounts on popular iPads including the iPad Air, and iPad Pro range. While the latest iPad Mini isn't discounted right now, it's worth paying attention to that too given it's in such high demand. Whatever you're looking for, we've got all the best Black Friday iPad deals neatly rounded up here so there's something for everyone. Read on while we guide you through all the best Black Friday deals going on and tell you all about why certain iPads are so great — but like most Black Friday Apple deals, you need to shop them now.
 
 
+***
+![Google's ‘Pet Portraits' feature will allow you to find art look-alikes for your pets](https://images.indianexpress.com/2021/11/bacc28e8-8a28-47c1-8ab3-3ca413abc669.jpg "Google's ‘Pet Portraits' feature will allow you to find art look-alikes for your pets")
+
+
+[Google's ‘Pet Portraits' feature will allow you to find art look-alikes for your pets](https://indianexpress.com/article/technology/tech-news-technology/googles-new-feature-will-allow-you-to-find-art-look-alikes-for-your-pets-7615036/)
+
+
+> Google Arts & Culture app is getting a new Pet Portraits feature. The feature will grant users the ability to search through thousands of paintings to find a look-alike for their pet. The tool is a natural follow-up to the Art Selfie feature that rolled out in 2018 to the app. The Art Selfie feature encouraged users to upload photographs of themselves and their families to find famous matches from around the world in art. Now, Google's new Pet Portraits tool will allow users to do the same with their pets.
+
+
+***
+![Scanner Pro now uses AI to help organize your scanned docs more easily](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/scanner-pro-smart-categories.png "Scanner Pro now uses AI to help organize your scanned docs more easily")
+
+
+[Scanner Pro now uses AI to help organize your scanned docs more easily](https://www.imore.com/scanner-pro-now-uses-ai-help-organize-your-scanned-docs-more-easily)
+
+
+> Source: Readdle Readdle's popular Scanner Pro has a new update available in the App Store, with this new release leveraging the power of AI to help people organize their documents more easily. This new update automatically checks the content of your scans and then categorizes them based on what it finds — removing the need to manually do it yourself. We understand how tiring and time-consuming it would be to manually organize the hundreds of scanned documents in Scanner Pro into folders and carefully name them so they're easier to find.
+
+
+***
+[GBPUSD retraces earlier gains and returns back toward the 100 hour moving average](https://www.forexlive.com/technical-analysis/!/gbpusd-retraces-earlier-gains-and-returns-back-toward-the-100-hour-moving-average-20211109)
+
+
+> Run to the upside stalled near old swing lows from last week The GBPUSD traded above and below the 100 hour moving average yesterday (blue line currently at 1.35526), with the pair's high stalling near the 38.2% retracement of the move down from the October 20 high at 1.35803. 
+
+
+***
+![Xfinity outage: Internet goes down for users across the US](https://static.independent.co.uk/2021/11/01/17/newFile-1.jpg?width=1200&auto=webp&quality=75 "Xfinity outage: Internet goes down for users across the US")
+
+
+[Xfinity outage: Internet goes down for users across the US](https://www.independent.co.uk/life-style/gadgets-and-tech/xfinity-outage-map-internet-down-b1954302.html)
+
+
+> Xfinity internet appears to be experiencing an outage, with multiple user reporting they are unable to get online.Users said their internet connections had stopped working on Tuesday morning local time.Vast numbers of people were hit by the issues, many of them in the Bay Area, LA, Seattle and New York and New Jersey, according to tracking website Down Detector. But the issues appeared to be more widespread, too.Xfinity representatives directed affected users to its status page, which includes a map to check for local outages and the option to check the status of a connection.
+
+
+***
+![Netflix is getting short TikTok-length videos for kids on iOS](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/05/netflix-5-23-iphone-x-hero.jpg "Netflix is getting short TikTok-length videos for kids on iOS")
+
+
+[Netflix is getting short TikTok-length videos for kids on iOS](https://www.imore.com/netflix-getting-short-tiktok-length-videos-kids)
+
+
+> Source: iMore A new report says Netflix has started rolling out short TikTok-style videos designed to draw in younger viewers. From Bloomberg: Netflix Inc. is rolling out a TikTok-like feature aimed at kids, its latest bid to attract younger viewers to its platform and help them discover programming. The "Kids Clips" feature, appearing on Netflix's iOS app, will show short videos from the company's existing library of children's programs and movies. Netflix plans to add new clips daily based on its current and future offerings.
+
+
