@@ -28642,3 +28642,53 @@
 > November 08, 2021 07:01 PM Eastern Standard Time LONDON--(BUSINESS WIRE)--Ahead of Christmas shopping season, Airship, the leading mobile app experience company, has released findings from a global survey that provide insights into changing shopping behaviours and preferences of consumers in the U.K., U.S., France, Germany, Australia, Singapore and India. The survey, commissioned by Airship and conducted in partnership with Sapio Research, polled more than 9,000 consumers across major markets in Europe, America and Asia, found U.
 
 
+***
+![Original Apple computer built by Jobs and Wozniak to be auctioned](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/9c/66/298fdf7a8deb2d226236afc94c978ca00a66/9c66298fdf7a8deb2d22.jpg "Original Apple computer built by Jobs and Wozniak to be auctioned")
+
+
+[Original Apple computer built by Jobs and Wozniak to be auctioned](https://japantoday.com/category/tech/original-apple-computer-built-by-jobs-and-wozniak-to-be-auctioned)
+
+
+> An original Apple computer, hand-built by company founders Steve Jobs and Steve Wozniak 45 years ago, goes under the hammer in the United States on Tuesday. The functioning Apple-1, the great-great-grandfather of today's sleek chrome-and-glass Macbooks, is expected to fetch up to $600,000 at an auction in California. The so-called "Chaffey College" Apple-1 is one of only 200 made by Jobs and Wozniak at the very start of the company's odyssey from garage start-up to megalith worth $2 trillion. What makes it even rarer is the fact the computer is encased in koa wood -- a richly patinated wood native to Hawaii.
+
+
+***
+![Poco M4 Pro 5G to Launch Globally Today: How to Watch Live](https://i.gadgets360cdn.com/large/poco_m4_pro_5g_1_1636375924129.jpg "Poco M4 Pro 5G to Launch Globally Today: How to Watch Live")
+
+
+[Poco M4 Pro 5G to Launch Globally Today: How to Watch Live](https://gadgets.ndtv.com/mobiles/news/poco-m4-pro-5g-launch-today-global-event-how-to-watch-live-expected-price-specifications-2603274)
+
+
+> Poco M4 Pro 5G will be unveiled at a global event today. Ahead of the launch the Poco M4 Pro 5G has been teased extensively, revealing many details about the upcoming smartphone. It is teased to feature an AI main camera with 50-megapixel resolution. The phone is also teased to come with dual speakers and support 33W fast charging. Leaks suggest the Poco M4 Pro 5G may have a 90Hz display refresh rate and dual rear cameras.Poco M4 Pro 5G launch details, expected priceThe company posted on the Poco Global Twitter account to confirm that the Poco M4 Pro 5G launch event will begin at 8pm GMT+8 (5.
+
+
+***
+![Facebook whistleblower Frances Haugen speaks to EU parliament – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236441606.jpg?w=608 "Facebook whistleblower Frances Haugen speaks to EU parliament – TechCrunch")
+
+
+[Facebook whistleblower Frances Haugen speaks to EU parliament – TechCrunch](https://techcrunch.com/2021/11/08/facebook-whistleblower-frances-haugen-european-parliament/)
+
+
+> In her latest turn in front of a phalanx of lawmakers, Facebook whistleblower Frances Haugen gave a polished testimony to the European Parliament on Monday — following similar sessions in front of UK and US legislators in recent weeks. Her core message was the same dire warning she's sounded on both sides of the Atlantic: Facebook prioritizes profit over safety, choosing to ignore the amplification of toxic content that's harmful to individuals, societies and democracy. And that regulatory oversight is thus essential to rein in and make such irresponsibly operated platform power accountable — with no time for lawmakers to lose in imposing rules on social media.
+
+
+***
+![Netflix currently testing how to launch its gaming service on the iPhone](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/05/netflix-5-23-iphone-x-hero.jpg "Netflix currently testing how to launch its gaming service on the iPhone")
+
+
+[Netflix currently testing how to launch its gaming service on the iPhone](https://www.imore.com/netflix-currently-testing-how-launch-its-gaming-service-ios)
+
+
+> Source: iMore Back in July, Netflix announced that it would be venturing into the gaming market. Not only did the company announce that it would be focusing on mobile games, but it also said that customers would enjoy the games as part of their current Netflix subscription. Netflix says it views gaming as another content category, similar to its expansion into original films, animation, and unscripted TV. Best of all, the company confirmed games would be included in subscriptions at no extra cost.
+
+
+***
+![Australia announces policy to boost electric car sales](https://www.wsbradio.com/pf/resources/images/sites/cmg-rd-20021/station-logo.png?d=294 "Australia announces policy to boost electric car sales")
+
+
+[Australia announces policy to boost electric car sales](https://www.wsbradio.com/news/technology/australia-announces/PCQGPAQ6KN4WF4KGD2GACYF2MA/)
+
+
+> CANBERRA, Australia — (AP) — Australia's prime minister on Tuesday announced plans to encourage people to buy electric vehicles weeks after his government was accused at a U.N. conference in Scotland of being a laggard in fighting climate change.Prime Minister Scott Morrison said the price of the technology would reduce in time and offered no subsidies to buyers of electric cars.'The costs of technology are coming down, and that means the choices available to Australians and right around the world are becoming more accessible, so our plans are all about supporting those choices,' Morrison said.
+
+
