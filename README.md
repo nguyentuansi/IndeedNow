@@ -28742,3 +28742,50 @@
 > If the M1 MacBook Pro line had used industry standard sized RAM and SSDs, then they would be user-upgradable. (This was how the MacBook and MacBook Pro lines were under Steve Jobs's leadership.) So here's my question: How much of a performance difference do you think there would be between (for example) a current built-to-order M1 MacBook Pro with Apple's soldered-on RAM and soldered-on SSD, versus a hypothetical upgradable M1 MacBook Pro with the exact same specs with the only difference being
 
 
+***
+![PS5 stock explained: Why PlayStation 5 consoles are still so hard to buy](https://i.inews.co.uk/content/uploads/2021/11/PRI_208968267.jpg "PS5 stock explained: Why PlayStation 5 consoles are still so hard to buy")
+
+
+[PS5 stock explained: Why PlayStation 5 consoles are still so hard to buy](https://inews.co.uk/news/technology/ps5-stock-playstation-5-consoles-why-hard-buy-uk-explained-1288464)
+
+
+> Sony's PlayStation 5 console remains in short supply, one year after it first went on sale, with restocks selling out instantly the second retailers make them available.While major new generation consoles from Sony and Microsoft always attract a high degree of interest, the PS5 and Xbox Series X and S are harder to find than any of their predecessors thanks to a number of factors.Semiconductors are thin on the groundThe first and most significant element is the global semiconductor shortage, which has been rumbling on since the beginning of the pandemic last year.
+
+
+***
+![It's Raining All-Time Highs for Bitcoin, Ether; Many Others Benefit](https://i.gadgets360cdn.com/large/Bitcoin_cryptocurrency_polkadot_pexels_1635831419923.jpg "It's Raining All-Time Highs for Bitcoin, Ether; Many Others Benefit")
+
+
+[It's Raining All-Time Highs for Bitcoin, Ether; Many Others Benefit](https://gadgets.ndtv.com/cryptocurrency/news/bitcoin-ether-price-btc-eth-register-all-time-high-2603993)
+
+
+> Bitcoin on Tuesday, November 9, opened trading at an all-time high of $68,327.99 (roughly Rs. 50.5 lakh), as per global crypto price tracker CoinMarketCap. In India, Bitcoin is worth even more, trading at $72,915 (roughly Rs. 53.9 lakh) per token on CoinSwitch Kuber, after the world's oldest cryptocurrency gained 3.37 percent in value to reach its historic high. Earlier, in October, the cryptocurrency had crossed the milestone of $67,000 (roughly Rs. 49.5 lakh) just when the first Bitcoin Exchange Trade Fund (ETF) debuted at the New York Stock Exchange.
+
+
+***
+![Useful tools, libraries and resources for developer to speed up the development](https://external-preview.redd.it/qP1WAMauJP8Xcv0ZSAsUzkboHdORqP_tpikzviZyO78.jpg?auto=webp&s=4516f7c2b028fe4a7623dbbeefc552fed2608479 "Useful tools, libraries and resources for developer to speed up the development")
+
+
+[Useful tools, libraries and resources for developer to speed up the development](https://www.reddit.com/r/programming/comments/qpwyno/useful_tools_libraries_and_resources_for/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Facebook can pursue malware lawsuit against Israel's NSO Group](https://www.thehindu.com/todays-paper/tp-international/cczht/article37332813.ece/ALTERNATES/LANDSCAPE_615/03THAFPUS--blGBD95DDED4jpgjpg "Facebook can pursue malware lawsuit against Israel's NSO Group")
+
+
+[Facebook can pursue malware lawsuit against Israel's NSO Group](https://www.thehindu.com/sci-tech/technology/facebook-can-pursue-malware-lawsuit-against-israels-nso-group/article37390957.ece)
+
+
+> A U.S. appeals court said Facebook can pursue a lawsuit accusing Israel's NSO Group of exploiting a bug in its WhatsApp messaging app to install malware allowing the surveillance of 1,400 people, including journalists, human rights activists and dissidents.(Sign up to our Technology newsletter, Today's Cache, for insights on emerging themes at the intersection of technology, business and policy. Click here to subscribe for free.)In a 3-0 decision on Monday, the 9th U.S. Circuit Court of Appeals in San Francisco rejected privately owned NSO's claim it was immune from being sued because it had acted as a foreign government agent.
+
+
+***
+[Netflix is rolling out Kids Clips, a TikTok-like feature aimed at kids, on its iOS app, which will show short videos from its children's library, updated daily (Bloomberg)](http://www.techmeme.com/211109/p1#a211109p1)
+
+
+> Bloomberg: Netflix is rolling out Kids Clips, a TikTok-like feature aimed at kids, on its iOS app, which will show short videos from its children's library, updated daily — - Company to test ‘Kids Clips’ on iOS in U.S., other countries — Feature is similar to ‘Fast Laughs’ comedy offering for adults
+
+
