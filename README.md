@@ -29683,3 +29683,53 @@
 > Continue reading the main storyUber charges riders when drivers wait more than two minutes for a passenger to arrive.Credit...Sam Hodgson for The New York TimesNov. 10, 2021, 2:45 p.m. ETSAN FRANCISCO — The Justice Department sued Uber on Wednesday, accusing the company of discriminating against passengers with disabilities by charging them fees when they needed more time to enter the ride-hailing vehicles.The suit stems from a policy Uber instituted in 2016 to compensate drivers who waited more than two minutes for a passenger to arrive.
 
 
+***
+![The Ludicrous Benefits Stores Are Offering to Get People to Work the Holidays This Year](https://compote.slate.com/images/d932de10-7fbe-42b9-a93a-a5723d7c5bb0.jpeg?width=780&height=520&rect=5169x3446&offset=85x0 "The Ludicrous Benefits Stores Are Offering to Get People to Work the Holidays This Year")
+
+
+[The Ludicrous Benefits Stores Are Offering to Get People to Work the Holidays This Year](https://slate.com/technology/2021/11/benefits-holiday-work-amazon-target-gift-cards.html)
+
+
+> Moneybox By Meredith Moran Nov 10, 20215:00 PM Inflation or not, shoppers are expected to come out in droves this holiday season. Their bank accounts are flush, they're blowing off the stress of a second pandemic year, and—ooh, sales! Retail sales are estimated to be up between 7 percent and 9 percent this year—with apparel sales jumping to 46 percent higher than in 2020 (hey, we're all tired of sweatpants). This imminent shopping monsoon, paired with an ongoing labor shortage (especially in hospitality and retail), has led employers to offer incentives in an effort to attract new hires and entice existing employees to work the extra-busy November and December shifts.
+
+
+***
+![Top 10 Best Arcade Games For Android – Updated November, 2021](https://www.androidheadlines.com/wp-content/uploads/2021/10/Best-Arcade-Games.jpg "Top 10 Best Arcade Games For Android – Updated November, 2021")
+
+
+[Top 10 Best Arcade Games For Android – Updated November, 2021](https://www.androidheadlines.com/best-arcade-games-android.html)
+
+
+> The best arcade games are ones that offer a nostalgic feel. Even if you didn't grow up with games of this genre, any new ones that follow the same format of those older titles tend to be among the most fun to play.Android has loads of options to choose from. So we've scoured the depths of the Play Store's many titles to find the best arcade games for Android that you can sink your teeth into. Keep in mind that this list is certainly subjective. However, while not everyone's tastes are the same, the titles we've selected for this list all have some standout features.
+
+
+***
+![How to unlock your iPhone to switch carriers](https://www.cnet.com/a/img/34KWKdRd2mUYexeuqjIdxRKamTg=/1200x630/2021/09/21/8c7155fb-0ca0-49e9-8b73-8826e631fbfb/iphone-13-pro-max-cnet-review-2021-133.jpg "How to unlock your iPhone to switch carriers")
+
+
+[How to unlock your iPhone to switch carriers](https://www.cnet.com/tech/mobile/how-to-unlock-your-iphone-to-switch-carriers/)
+
+
+> Starting last year with iOS 14, Apple has made it possible to check to see if your iPhone is locked or unlocked without needing to call your carrier. Sarah Tew/CNET Looking to switch? Perhaps you moved to a new area where your current carrier doesn't have great coverage. Or maybe you want to lower your monthly bill and found a better deal. No matter your reason, it's perfectly legal to unlock your iPhone -- if it's not already unlocked -- and switch to a new carrier. And there's now an easy way to check to see if your iPhone is locked to your current carrier's network.
+
+
+***
+![Aeva sales beat expectations as it signs Plus as first production customer](https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=56 "Aeva sales beat expectations as it signs Plus as first production customer")
+
+
+[Aeva sales beat expectations as it signs Plus as first production customer](https://www.reuters.com/technology/aeva-signs-self-driving-truck-firm-plus-first-production-customer-2021-11-10/)
+
+
+> Nov 10 (Reuters) - Aeva Technologies Inc (AEVA.N) on Wednesday reported third-quarter sales that beat Wall Street expectations and said it will provide sensors to self-driving truck firm Plus, the company's first disclosed mass production customer.Founded by former Apple Inc (AAPL.O) engineers, Aeva makes what is called a lidar sensor, which helps self-driving vehicles gain a multidimensional view of the road. Aeva has development partnerships with firms such as Denso Corp (6902.T) around lidar sensors for vehicles and Nikon Corp (7731.
+
+
+***
+![Independent MSPs Form Alliance, Create Unique Platform to Accelerate Growth](https://mms.businesswire.com/media/20211110006398/en/926051/23/P1_BlueAlliance_IT_Logo_RGB_%288%29.jpg "Independent MSPs Form Alliance, Create Unique Platform to Accelerate Growth")
+
+
+[Independent MSPs Form Alliance, Create Unique Platform to Accelerate Growth](https://www.businesswire.com/news/home/20211110006398/en/Independent-MSPs-Form-Alliance-Create-Unique-Platform-to-Accelerate-Growth)
+
+
+> November 10, 2021 04:54 PM Eastern Standard Time CINCINNATI--(BUSINESS WIRE)--blueAlliance IT – an investment and growth platform for technology businesses – has formed an exclusive collaboration that will enable managed service providers (MSPs) and other early tech world trailblazers to compete and grow in the ever-evolving, fast-paced IT industry. The unique venture was formed by three successful entrepreneurs whose IT businesses are among blueAlliance IT's founding partners, which include Path Forward IT, BECA and Skynet Innovations.
+
+
