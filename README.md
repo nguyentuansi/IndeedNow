@@ -29455,3 +29455,50 @@
 > Reuters: Tencent reports Q3 revenue of $22B, up 13% YoY, net profit of $6.18B, up 3% YoY; sales from mobile games rose 9% to ~$6.65B — Chinese gaming and social media giant Tencent Holdings (0700.HK) posted a 3% rise in third-quarter profit on Wednesday, beating analyst expectations as it flagged …
 
 
+***
+[Technical Insulation Market analysis, Technical Study and Business Opportunities to 2027](https://www.openpr.com/news/2457556/technical-insulation-market-analysis-technical-study)
+
+
+> The global 'Technical Insulation' market report 2021-2027 provides comprehensive research that focuses on the overall consumption structure, development trends, sales models and sales of top countries in the global Technical Insulation market. The report focuses on well-known providers in the
+
+
+***
+![Crypto rivals follow bitcoin in hitting new all-time highs – follow live](https://static.independent.co.uk/2021/11/10/09/bitcoin%20price%20news%20live%20ethereum.jpg?width=1200&auto=webp&quality=75 "Crypto rivals follow bitcoin in hitting new all-time highs – follow live")
+
+
+[Crypto rivals follow bitcoin in hitting new all-time highs – follow live](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-news-ethereum-crypto-b1954928.html)
+
+
+> Bitcoin (BTC) and Ethereum (ETH) have dipped in price slightly on Wednesday after hitting record price highs on Tuesday, though the overall crypto market remains buoyant.Binance Coin is less than $50 away from its all-time high of $690, while Solana is just $15 away from reaching its previous record of $260.Several other relatively large cryptocurrencies are also enjoying record-breaking price rallies, including Avalanche (AVAX) and Terra (LUNA).The altcoin resurgence has pushed the total cryptocurrency market cap close to $3 trillion, making it more valuable than the top dozen largest banks combined, as well as every single one of the world's biggest companies.
+
+
+***
+![General Atlantic secures $7.8B in commitments for sixth fund – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1267414780.jpg "General Atlantic secures $7.8B in commitments for sixth fund – TechCrunch")
+
+
+[General Atlantic secures $7.8B in commitments for sixth fund – TechCrunch](https://techcrunch.com/2021/11/10/general-atlantic-secures-7-8b-in-commitments-for-sixth-fund/)
+
+
+> General Atlantic announced Wednesday that its sixth growth equity fund, GA 2021, closed with $7.8 billion in commitments, up from the $5 billion the firm was originally seeking earlier this year. Backers in the new fund included new and existing capital partners, including family offices, endowments, foundations and institutional investors. GA, which was started in 1980, now has $23.8 billion in committed capital and had over $78 billion in assets under management as of June 30. The firm will continue to invest across five sectors: consumer, financial services, healthcare, life sciences and technology.
+
+
+***
+![Lusha, a crowdsourced data platform for B2B sales, gets $205M Series B at $1.5B valuation – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/11/Company-Pic.jpg "Lusha, a crowdsourced data platform for B2B sales, gets $205M Series B at $1.5B valuation – TechCrunch")
+
+
+[Lusha, a crowdsourced data platform for B2B sales, gets $205M Series B at $1.5B valuation – TechCrunch](https://techcrunch.com/2021/11/10/lusha-a-crowdsourced-data-platform-for-b2b-sales-gets-205m-series-b-at-1-5b-valuation/)
+
+
+> A team photo of crowdsourced B2B sales data startup Lusha For many sales and marketing teams, finding leads is a time-consuming and tedious process. Lusha, a sales intelligence platform for B2B sales, is helping with a crowdsourced database that helps companies narrow down their lists of potential customers to the most likely candidates. Founded in 2016, the company was bootstrapped until it raised its Series A just nine months ago. Today, it announced it has hit unicorn status, with a $205 million Series B that puts the Tel Aviv-based startup's valuation at $1.
+
+
+***
+![Technology Doesn't Replace Service — It Raises Expectations](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a7f7bb93ee3f08ea0e962%2F0x0.jpg "Technology Doesn't Replace Service — It Raises Expectations")
+
+
+[Technology Doesn't Replace Service — It Raises Expectations](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/10/technology-doesnt-replace-service---it-raises-expectations/)
+
+
+> VP Fastenal Solutions, Fastenal. Leveraging technology to maximize the efficiencies of vendor inventory-managed programs. getty When new technology is introduced, it often sparks the question 'What will it replace?' There are certainly cases where a new technology does replace something, typically older technology or processes. However, it's just as likely that the technology has been designed not to replace people or processes but to improve local service and the customer experience. In an era of automated call centers and faceless e-commerce transactions, the notion of better service through technology may feel counterintuitive, but our world is filled with examples where technology, paired with local personnel, is elevating service levels and raising the bar for what we consider to be good customer service.
+
+
