@@ -29233,3 +29233,47 @@
 > You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Looking to pick up a couple of phones for Christmas with news lines. Verizon is offering the 11 (which I use) refurbished for free. Anyone with experience with this? A little hesitant but might be worth it. They also are offering the 12 mini or XS (or maybe XR) new and free. Gonna let my kids hold the mini to see if they prefer it. Any downsides there? Any reason to go with the X gen ones? Thanks! You must log in or register to reply here.
 
 
+***
+![苹果发布年度节日礼品指南 帮助顾客定制个性化贺卡](https://static.cnbetacdn.com/thumb/article/2021/1110/fd311a5317e5a87.jpg "苹果发布年度节日礼品指南 帮助顾客定制个性化贺卡")
+
+
+[苹果发布年度节日礼品指南 帮助顾客定制个性化贺卡](http://www.cnbeta.com/articles/tech/1201057.preview)
+
+
+> 从今天起，Apple 将在各地 Apple Store 零售店和 apple.com.cn 共庆佳节，推出节日礼品指南和来自 Today at Apple 的个性化贺卡。有全新 iPhone、iPad、Mac、Apple Watch、AirPods 等各种产品可供选择，顾客将在这一季更加轻松地发现与购买最新 Apple 产品。 '我们的团队迫不及待地想与顾客交流沟通，让这一季更加与众不同。'Apple 零售业务兼人力高级副总裁 Deirdre O'Brien 表示，'无论在零售店内还是线上，我们的 Apple Specialist 专家都已做好准备，在节日期间欢迎顾客到来、提供礼品推荐以及顾客所需的各种支持。'Today at Apple 贺卡Today at Apple 与国际艺术家 Jocelyn Tsaih、Antti Kalevi 和 Hvass&Hannibal 合作，推出 Keynote 讲演模板供顾客下载，为每一位至爱亲朋打造个性化贺卡。顾客可以使用 iPad 或 Mac 选择节庆图案、多彩贴纸和背景。还可以通过照片、视频与发自内心的祝福进一步完善贺卡。所有人都可以在 apple.
+
+
+***
+![CI&T Announces Pricing of Initial Public Offering (IPO)](https://mms.businesswire.com/media/20211109006665/en/924957/23/Logo_CI_T_RGB.jpg "CI&T Announces Pricing of Initial Public Offering (IPO)")
+
+
+[CI&T Announces Pricing of Initial Public Offering (IPO)](https://www.businesswire.com/news/home/20211109006665/en/CIT-Announces-Pricing-of-Initial-Public-Offering-IPO)
+
+
+> November 09, 2021 08:53 PM Eastern Standard Time CAMPINAS, Brazil--(BUSINESS WIRE)--CI&T Inc ('CI&T') (NYSE: CINT), a global digital native specialist, and end-to-end digital transformation partner providing strategy, design and software engineering services to some of the world's leading brands, today announced the pricing of its initial public offering of 13,043,478 Class A common shares at a public offering price of US$15.00 per share. The offering consists of 11,111,111 Class A common shares offered by CI&T and 1,932,367 Class A common shares offered by certain selling shareholders, pursuant to a registration statement on Form F-1 filed with the U.
+
+
+***
+[Wanting to change career, from civil engineering to programmer any advices ?](https://www.reddit.com/r/Python/comments/qqj34e/wanting_to_change_career_from_civil_engineering/)
+
+
+> Hello Guys, i'm from brazil and i currently work as a civil engineering, but i have contact with python since last year, and with coding since 2015.In the begining of this year i started a project with python, a software for structural engineerings, it took me 3 months to finish because i sprinted it, all day coding. In the way i learned some packages, like Pyside and numpy. Since then, i've been thinking in moving to work as a programmer, anyone have any advice ? And in the future i'd like to work remotely to some foreing company (outside Brazil) so i could earn in Dollars.
+
+
+***
+![#TECH: JBL releass two new headphones on its 75th anniversary](https://assets.nst.com.my/images/articles/botsjbls_NSTfield_image_socialmedia.var_1636508873.jpg "#TECH: JBL releass two new headphones on its 75th anniversary")
+
+
+[#TECH: JBL releass two new headphones on its 75th anniversary](https://www.nst.com.my/lifestyle/bots/2021/11/744011/tech-jbl-releass-two-new-headphones-its-75th-anniversary)
+
+
+> 2021 © New Straits Times, New Straits Times Press (M) Bhd. A part of Media Prima Group.
+
+
+***
+[Add the working directory to python sys.path in vscode.](https://www.reddit.com/r/Python/comments/qqizlx/add_the_working_directory_to_python_syspath_in/)
+
+
+> My directory structure is as the following:rootdir|-layer1|-sublayer1|-test.py|-modules|-math.pyWhen I run test.py by hitting the run icon in vscode, it only adds the directory ./layer1/sublayer1 into sys.path. Is it possible to add rootdir in sys.path? Because it imports modules.math.
+
+
