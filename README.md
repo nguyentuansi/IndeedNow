@@ -29183,3 +29183,53 @@
 > Source: iMore Ocarina of Time is my favorite game of all time. Maybe it was because it was the first game I beat before my older brothers, or perhaps because it was the first game I tackled on my own, but what a game to have that honor. That's not saying I didn't play other games before it, and I don't love games that have followed. There's just something different about Ocarina of Time, and I'm apparently not the only one who thinks so since it often lands the number one spot on many best games of all time lists.
 
 
+***
+![Mevo Multicam is a great livestreaming studio-in-a-box, if you can learn to trust it – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/11/DSC04925.jpg?w=600 "Mevo Multicam is a great livestreaming studio-in-a-box, if you can learn to trust it – TechCrunch")
+
+
+[Mevo Multicam is a great livestreaming studio-in-a-box, if you can learn to trust it – TechCrunch](https://techcrunch.com/2021/11/09/mevo-multicam-hands-on/)
+
+
+> The Mevo Start 3-pack with the Mevo Multicam App three-camera kit costs $999. Add some good lights and a half-decent microphone, and you have a full multi-cam streaming setup for less than $2,000. That would have been completely unthinkable just a few years ago, and let's just take a minute to consider how absolutely astonishing how far we have come. Add a rock-solid internet connection, and you have essentially replicated the core functionality of a satellite van full of equipment costing two orders of magnitude more than this kit.
+
+
+***
+![Workhorse reports $81M loss, plans to redesign C-1000 electric cargo van – TechCrunch](https://techcrunch.com/wp-content/uploads/2019/05/workhorse-truck.png?w=711 "Workhorse reports $81M loss, plans to redesign C-1000 electric cargo van – TechCrunch")
+
+
+[Workhorse reports $81M loss, plans to redesign C-1000 electric cargo van – TechCrunch](https://techcrunch.com/2021/11/09/workhorse-reports-81m-loss-plans-to-redesign-c-1000-electric-cargo-van/)
+
+
+> Electric vehicle startup Workhorse Group is hemorrhaging money. During the company's third quarter earnings call, Workhorse reported an $81 million loss, blaming an increase in operating costs and a suspension of production due to recalls. Revenue is also in the negative to the tune of $576,600, which is largely related to refunds issued to customers who had their C-1000 cargo delivery vans recalled due to safety issues. Workhorse sold 41 vans this year before it had finished ensuring the design was in compliance with federal safety standards set by the National Highway Transportation and Safety Administration (NHTSA).
+
+
+***
+![Elizabeth Holmes trial witness: Theranos tests showed male protein in women's blood, Holmes gave ‘implausible' excuse](https://www.mercurynews.com/wp-content/uploads/2021/11/SJM-L-THERANOS-11XX-1.jpg?w=1024&h=692 "Elizabeth Holmes trial witness: Theranos tests showed male protein in women's blood, Holmes gave ‘implausible' excuse")
+
+
+[Elizabeth Holmes trial witness: Theranos tests showed male protein in women's blood, Holmes gave ‘implausible' excuse](https://www.mercurynews.com/2021/11/09/elizabeth-holmes-trial-witness-theranos-tests-showed-male-protein-in-womens-blood-holmes-gave-implausible-excuse)
+
+
+> Theranos' blood-testing machines were showing women with a male protein in their blood, and company founder Elizabeth Holmes gave an 'implausible' excuse for the apparent errors, a former lab director testified Tuesday in Holmes' criminal trial. Former Theranos lab director Dr. Kingshuk Das was testifying for the prosecution in U.S. District Court in San Jose about a federal regulatory report that found deficiencies in Theranos' testing that the regulator alleged put patients in 'immediate jeopardy' of serious harm or death.
+
+
+***
+![Facebook-parent Meta will remove the ability to target ads based on sensitive categories](https://cdn.cnn.com/cnnnext/dam/assets/211109160229-02-facebook-meta-1028-super-tease.jpg "Facebook-parent Meta will remove the ability to target ads based on sensitive categories")
+
+
+[Facebook-parent Meta will remove the ability to target ads based on sensitive categories](https://www.cnn.com/2021/11/09/tech/meta-facebook-ad-targeting-change/index.html)
+
+
+> Targeted advertising has long been central to the company's massive digital ads business. But for years, Facebook has faced criticism for allowing highly specific targeting that could, for example, allow advertisers to direct racist ads to users based on their activity on its platforms. In 2019, Facebook settled several lawsuits that alleged its advertising platform allowed for discrimination in housing, employment and credit ads. As part of the settlement, it set up a new portal for such ads. Tuesday's announcement marks the broadest action the company has taken yet to address concerns related to ad targeting.
+
+
+***
+![Anyone bought a refurb through Verizon?](https://images.macrumors.com/social/?t=2322643&v=6 "Anyone bought a refurb through Verizon?")
+
+
+[Anyone bought a refurb through Verizon?](https://forums.macrumors.com/threads/anyone-bought-a-refurb-through-verizon.2322643/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser. Looking to pick up a couple of phones for Christmas with news lines. Verizon is offering the 11 (which I use) refurbished for free. Anyone with experience with this? A little hesitant but might be worth it. They also are offering the 12 mini or XS (or maybe XR) new and free. Gonna let my kids hold the mini to see if they prefer it. Any downsides there? Any reason to go with the X gen ones? Thanks! You must log in or register to reply here.
+
+
