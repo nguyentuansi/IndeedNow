@@ -29636,3 +29636,50 @@
 > Source: iMore Are you looking to have a bit more fun on your Nintendo Switch but don't know where to find the best Switch game deals? I know the best Nintendo Switch games can be pricey, especially if you're on a budget and can't spend $60 on a game. However, here at iMore, we have found some great games currently on sale. If any of these games spark your interest, check them out by clicking the links below. Here's every game you can pre-order on Amazon right now. Just click the title to check it out! Best Switch game deals: Physical game sales on Amazon right now — get them quick! Source: iMore Sometimes you can find a couple of gems on Amazon for sale, but make sure you catch them quickly.
 
 
+***
+![Before attacking her, a sick serial rapist chuckled and assured her, "I'm going to jail regardless." » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/11/crop-16608178-1.jpg "Before attacking her, a sick serial rapist chuckled and assured her, "I'm going to jail regardless." » Brinkwire")
+
+
+[Before attacking her, a sick serial rapist chuckled and assured her, "I'm going to jail regardless." » Brinkwire](https://en.brinkwire.com/news/before-attacking-her-a-sick-serial-rapist-chuckled-and-assured-her-im-going-to-jail-regardless/)
+
+
+> Before attacking her, a sick serial rapist chuckled and assured her, 'I'm going to jail regardless.' A TWISTED serial rapist was sentenced to prison after grinning in the face of his victim and boasting that he would 'make it a hat-trick.' When Craig Gladwin, 32, attacked his third victim in Yorkshire, he had already been detained in connection with at least one previous rape. The 'dangerous and manipulative' rapist strangled one of his victims to the point of unconsciousness, according to the court.
+
+
+***
+[Getting error when running a random module.](https://www.reddit.com/r/Python/comments/qr2t6z/getting_error_when_running_a_random_module/)
+
+
+> Traceback (most recent call last):File "c:/Users/lenovo/New folder (2)/prime_no.py", line 1, in import randomFile "c:\Users\lenovo\New folder (2)\random.py", line 2, in print(random.randint(a, b))AttributeError: module 'random' has no attribute 'randint'Also not able to install random function
+
+
+***
+![How to name and save locations with Maps](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/iphone-12-mini-maps-hero.jpeg "How to name and save locations with Maps")
+
+
+[How to name and save locations with Maps](https://www.imore.com/how-use-pinned-and-favorite-locations-maps-iphone-and-ipad)
+
+
+> Source: iMore Whether you want your iPhone to remember your best friend's house or your local gym, adding and naming locations is easy with the Maps app in iOS 15 or iPadOS 15 for iPhone and iPad, respectively. Here's how! You can quickly add the current location to any Contact you have on the best iPhone or best iPad. It's a great way to collect or update the addresses of the places you go to or the friends you visit. Launch Maps from the Home screen on your iPhone or iPad Tap the current location button.
+
+
+***
+![They got hacked with NSO spyware. Now Israel wants Palestinian activists' funding cut](https://media.npr.org/assets/img/2021/11/09/ap21311541221216_wide-6f33fea8e49adad344c46b8633a4f004c01a4b1a.jpg?s=1400 "They got hacked with NSO spyware. Now Israel wants Palestinian activists' funding cut")
+
+
+[They got hacked with NSO spyware. Now Israel wants Palestinian activists' funding cut](https://www.npr.org/2021/11/10/1053844312/palestinians-israel-nso-spyware)
+
+
+> A logo adorns a wall on a branch of the Israeli NSO Group company, near the southern Israeli town of Sapir. The cellphones of six Palestinian human rights activists were infected with spyware from the notorious Israeli hacker-for-hire company as early as July 2020. It was the first time the military-grade Pegasus spyware was known to have been used against Palestinian civil society activists. Sebastian Scheiner/AP An ongoing dispute over six Palestinian activist groups that Israel accuses of terrorism took a turn this week into the cloak-and-dagger world of Israeli spyware.
+
+
+***
+![U.S. Sues Uber, Saying it Discriminated Against People With Disabilities](https://static01.nyt.com/images/2021/11/10/multimedia/10uber/10uber-facebookJumbo.jpg "U.S. Sues Uber, Saying it Discriminated Against People With Disabilities")
+
+
+[U.S. Sues Uber, Saying it Discriminated Against People With Disabilities](https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html)
+
+
+> Continue reading the main storyUber charges riders when drivers wait more than two minutes for a passenger to arrive.Credit...Sam Hodgson for The New York TimesNov. 10, 2021, 2:45 p.m. ETSAN FRANCISCO — The Justice Department sued Uber on Wednesday, accusing the company of discriminating against passengers with disabilities by charging them fees when they needed more time to enter the ride-hailing vehicles.The suit stems from a policy Uber instituted in 2016 to compensate drivers who waited more than two minutes for a passenger to arrive.
+
+
