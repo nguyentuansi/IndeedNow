@@ -29502,3 +29502,50 @@
 > VP Fastenal Solutions, Fastenal. Leveraging technology to maximize the efficiencies of vendor inventory-managed programs. getty When new technology is introduced, it often sparks the question 'What will it replace?' There are certainly cases where a new technology does replace something, typically older technology or processes. However, it's just as likely that the technology has been designed not to replace people or processes but to improve local service and the customer experience. In an era of automated call centers and faceless e-commerce transactions, the notion of better service through technology may feel counterintuitive, but our world is filled with examples where technology, paired with local personnel, is elevating service levels and raising the bar for what we consider to be good customer service.
 
 
+***
+![Alibaba, Meituan units summoned by Chinese regulator for ‘unfair competition' during Singles' Day festival](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/10/793ae82e-41fb-11ec-b9bb-5bc84a21bb41_image_hires_192838.jpg?itok=ElHnCCOL&v=1636543728 "Alibaba, Meituan units summoned by Chinese regulator for ‘unfair competition' during Singles' Day festival")
+
+
+[Alibaba, Meituan units summoned by Chinese regulator for ‘unfair competition' during Singles' Day festival](https://www.scmp.com/tech/policy/article/3155578/alibaba-meituan-units-summoned-chinese-regulator-unfair-competition)
+
+
+> Advertisement to promote Alibaba's Singles' Day shopping festival in Shanghai, China on November 1, 2021. Photo: Reuters
+
+
+***
+![Former IMF and Bank of Canada Executive Joins CAARY Capital as CFO](https://mms.businesswire.com/media/20211110005326/en/925351/23/IMG_4357.jpg "Former IMF and Bank of Canada Executive Joins CAARY Capital as CFO")
+
+
+[Former IMF and Bank of Canada Executive Joins CAARY Capital as CFO](https://www.businesswire.com/news/home/20211110005326/en/Former-IMF-and-Bank-of-Canada-Executive-Joins-CAARY-Capital-as-CFO)
+
+
+> November 10, 2021 08:55 AM Eastern Standard Time TORONTO--(BUSINESS WIRE)--CAARY Capital today announced the appointment of Sabrina Pilbauer to Chief Financial Officer, effective December 1, 2021. A seasoned finance executive and business leader, Pilbauer steps into the role after two years as an external expert with the International Monetary Fund, supporting central banks around the world with financial management and complex accounting matters. Prior to that, Pilbauer led the financial operations function for the Bank of Canada.
+
+
+***
+[EURUSD falls back below the hourly moving averages](https://www.forexlive.com/technical-analysis/!/eurusd-falls-back-below-the-hourly-moving-averages-20211110)
+
+
+> Resistance at 1.1601 to 1.1611 stalled the rallies yesterday. The EURUSD is trading lower today,  and back below the 200 and 100 hour moving averages in the process (green and blue lines in the chart above). The pair got help from sellers near the 50% midpoint of the range since the recent peak on October 28 during trading yesterday.
+
+
+***
+![England vs New Zealand live stream: how to watch T20 World Cup semi-final from anywhere now](https://cdn.mos.cms.futurecdn.net/fjwCbQEWGwky7JYB36VW9V-1200-80.jpg "England vs New Zealand live stream: how to watch T20 World Cup semi-final from anywhere now")
+
+
+[England vs New Zealand live stream: how to watch T20 World Cup semi-final from anywhere now](https://www.techradar.com/news/england-vs-new-zealand-live-stream-how-to-watch-t20-world-cup-semi-final-2021)
+
+
+> (Image credit: Matthew Lewis-ICC/ICC via Getty Images) It's a T20 World Cup semi-final with as storied history, with echoes of that 50-over finale two years ago. And while England had been looking like the tournament's dominant force, they're now facing a Black Caps side riding a mighty wave of momentum. Read on as we explain how to get an England vs New Zealand live stream where you are and watch T20 World Cup semi-final cricket online today.Eoin Morgan's men closed out the Super 12s with their first defeat, but far more damaging a blow was the loss of opening batsman Jason Roy to a tournament-ending injury.
+
+
+***
+![Black Friday 65 Inch TV Deals (2021): Early Smart TV & Roku TV Deals Summarized by Spending Lab](https://mms.businesswire.com/media/20211110005070/en/835870/23/Black_Friday_2021_%28TCP%29.jpg "Black Friday 65 Inch TV Deals (2021): Early Smart TV & Roku TV Deals Summarized by Spending Lab")
+
+
+[Black Friday 65 Inch TV Deals (2021): Early Smart TV & Roku TV Deals Summarized by Spending Lab](https://www.businesswire.com/news/home/20211110005070/en/Black-Friday-65-Inch-TV-Deals-2021-Early-Smart-TV-Roku-TV-Deals-Summarized-by-Spending-Lab)
+
+
+> November 10, 2021 08:50 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday 65 Inch TV deals are here. Review the top savings on TVs from Philips, TCL, Samsung, Sony & more. Find the full selection of deals in the list below. Best 65 Inch TV deals: Save up to 50% on a wide range of 65-inch TVs at Walmart- get the best deals on 65-inch smart TVs from top brands including Samsung, LG, Sony, TCL & more Save up to $700 on Samsung 65-inch TVs at Walmart - with ultra-fast processors that transform everything you watch into stunning 4K Save up to 50% on TCL 65-inch TVs at Walmart -click the link for live deals on 65-inch TCL Roku & non-Roku smart TVs Save up to 50% on 65-inch Roku smart TVs at Walmart - including the Class 4-Series 4K TCL Roku TV with stunning Ultra HD picture quality four times the resolution of Full HD for enhanced clarity & detail Save up to 50% on a wide range of 65-inch 4K TVs at Walmart - check out the latest deals for 65-inch 4K TVs from TCL, LG, Samsung, VIZIO, Hisense, & other brands Save up to $700 on Samsung 65-inch 4K smart TVs at Walmart - see how much you can save on 65-inch models of Ultra HD LED smart TVs from Samsung Save up to 20% on Vizio 65-inch TVs & smart TVs at Walmart - click the link for the best live deals on 65-inch Vizio smart TVs Save up to 49% on 65-inch Sony smart TVs at Walmart - see beautiful pictures with real world detail & texture on a 65-inch screen powered by Sony's 4K HDR processors Save up to 38% on 65-inch TVs & smart TVs at Amazon - click the link for live prices on 65-inch TVs & smart TVs from best-selling brands like Samsung, TCL & LG Save on top-rated 60-inch TVs with QLED displays, 4K resolution & built-in Alexa functionality at Amazon Save up to $500 on 65-inch TVs from Samsung & more top brands at BHPhotoVideo.
+
+
