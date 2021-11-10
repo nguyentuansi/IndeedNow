@@ -29277,3 +29277,43 @@
 > My directory structure is as the following:rootdir|-layer1|-sublayer1|-test.py|-modules|-math.pyWhen I run test.py by hitting the run icon in vscode, it only adds the directory ./layer1/sublayer1 into sys.path. Is it possible to add rootdir in sys.path? Because it imports modules.math.
 
 
+***
+![Instagram's 'Add Yours' feature has gone global, and public threads are now available for Story. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Instagram's 'Add Yours' feature has gone global, and public threads are now available for Story. » Brinkwire")
+
+
+[Instagram's 'Add Yours' feature has gone global, and public threads are now available for Story. » Brinkwire](https://en.brinkwire.com/technology/instagrams-add-yours-feature-has-gone-global-and-public-threads-are-now-available-for-story/)
+
+
+> Instagram's ‘Add Yours' feature has gone global, and public threads are now available for Story. Instagram has unveiled the 'Add Yours' function for everyone to use and enjoy throughout the world, and it will establish a public thread for people's stories to circulate. The function engages all users and may help them connect with others, but it does not necessary jeopardize their privacy settings. The ‘Add Yours' feature on Instagram is now available. Instagram has announced through Twitter that the 'Add Yours' feature was made available to everyone on its global launch earlier today.
+
+
+***
+![Apple can't delay costly court-ordered App Store change, has to stick with December 9 deadline](https://images.indianexpress.com/2021/11/Apple_AppStore_AP1.jpg "Apple can't delay costly court-ordered App Store change, has to stick with December 9 deadline")
+
+
+[Apple can't delay costly court-ordered App Store change, has to stick with December 9 deadline](https://indianexpress.com/article/technology/tech-news-technology/apple-cant-delay-costly-court-ordered-app-store-change-7615966/)
+
+
+> Apple Inc failed to persuade a federal judge to push back a December 9 deadline to change the lucrative business model for its App Store while the iPhone maker's legal fight with Epic Games Inc is appealed. Unless the iPhone maker wins a reprieve from an appeals court, it will soon have to start allowing developers to steer customers to payment methods outside the App Store, an overhaul the judge ordered in September that could cost the tech giant a few billion dollars annually. Apple asked US District Judge Yvonne Gonzales Rogers to put on hold a part of the injunction that said the company must undo its rule forbidding developers from using web links or other means within apps to inform consumers about payment methods outside the App Store.
+
+
+***
+![Apple CEO Tim Cook says he owns cryptocurrency, reveals plans of accepting crypto through Apple Pay](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/rtx7mhui-original.jpg "Apple CEO Tim Cook says he owns cryptocurrency, reveals plans of accepting crypto through Apple Pay")
+
+
+[Apple CEO Tim Cook says he owns cryptocurrency, reveals plans of accepting crypto through Apple Pay](https://www.indiatoday.in/technology/news/story/apple-ceo-tim-cook-says-he-owns-cryptocurrency-reveals-plans-of-accepting-crypto-through-apple-pay-1875003-2021-11-10)
+
+
+> Ankita Chakravarti New Delhi, Nov 10, 2021, Updated Nov 10, 2021, 9:27 AM IST Story highlights Apple CEO Tim Cook revealed that he has invested money in cryptocurrency. Cook did say that company is toying with the idea of cryptocurrency. Apple has no no immediate plans to launch any crypto-related offerings.  Apple CEO Tim Cook revealed that he has invested money in cryptocurrency. During the New York Times Dealbook conference, when Cook was asked whether he is considering cryptocurrency as a form of payment, he revealed that he owns cryptocurrency, but that investment was from a personal point of view.
+
+
+***
+![Newsmax reporter permanently suspended from Twitter after COVID-19 claims](https://thehill.com/sites/default/files/article_images/screen_shot_2021-11-04_at_10.28.29_am_0.png "Newsmax reporter permanently suspended from Twitter after COVID-19 claims")
+
+
+[Newsmax reporter permanently suspended from Twitter after COVID-19 claims](https://thehill.com/media/580865-newsmax-correspondent-emerald-robinson-suspended-from-twitter)
+
+
+> Newsmax White House correspondent Emerald Robinson has been permanently suspended from Twitter for repeatedly violating the platform's COVID-19 misinformation policy, a Twitter spokesperson confirmed to The Hill on Tuesday night.The permanent suspension follows a temporary 7-day Twitter suspension Robinson received last week in the wake of false claims she made about the COVID-19 vaccine.Social media users began noticing on Tuesday evening that Robinson's Twitter account had been shut down, just hours after she had been regranted access to the platform.
+
+
