@@ -29317,3 +29317,50 @@
 > Newsmax White House correspondent Emerald Robinson has been permanently suspended from Twitter for repeatedly violating the platform's COVID-19 misinformation policy, a Twitter spokesperson confirmed to The Hill on Tuesday night.The permanent suspension follows a temporary 7-day Twitter suspension Robinson received last week in the wake of false claims she made about the COVID-19 vaccine.Social media users began noticing on Tuesday evening that Robinson's Twitter account had been shut down, just hours after she had been regranted access to the platform.
 
 
+***
+![Airtel vs Jio vs Vi give prepaid plans with 56 days validity, check all offers](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/telco_new_1_1200x768-original.jpeg "Airtel vs Jio vs Vi give prepaid plans with 56 days validity, check all offers")
+
+
+[Airtel vs Jio vs Vi give prepaid plans with 56 days validity, check all offers](https://www.businesstoday.in/technology/story/airtel-vs-jio-vs-vi-give-prepaid-plans-with-56-days-validity-check-all-offers-311758-2021-11-10)
+
+
+> Airtel, Jio and Vi offer prepaid plans with 56 days validity. These plans come in handy for users who are not looking to recharge every month but also do not want to subscribe to long-term plans. Most of these plans give 3GB daily data with access to Disney+ Hotstar Mobile subscription. Users will also get access to app-specific streaming benefits. These plans start from Rs 399 and go up to Rs 701, and have varying benefits. These plans can also be used for work-from-home or streaming purposes. Airtel's 56-day validity plans begin at Rs 399 and offer 1.
+
+
+***
+![Indian fashion e-commerce Nykaa makes stellar market debut – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236470597.jpg?w=600 "Indian fashion e-commerce Nykaa makes stellar market debut – TechCrunch")
+
+
+[Indian fashion e-commerce Nykaa makes stellar market debut – TechCrunch](https://techcrunch.com/2021/11/09/indian-fashion-e-commerce-nykaa-makes-stellar-market-debut/)
+
+
+> Fashion commerce firm Nykaa rose as much as 89% on its Indian market debut Wednesday, gaining a valuation of $13 billion in the nation's first women-led unicorn listing. Shares of FSN E-Commerce Ventures, which operates the Nykaa brand, opened at 2,018 ($27.2) Indian rupees and went as high as 2,129, up from its initial public offering price of 1,125 per share (on the higher end). The firm has raised over $721 million in the public offering. Founded by a former investment banker Falguni Nayar, who in her previous role helped founders make stock market debuts, Nykaa has built what is now the largest e-commerce firm for beauty and personal care products in the country.
+
+
+***
+![Best Black Friday Newegg deals for November 2021](https://icdn.digitaltrends.com/image/digitaltrends/newegg-cyber-monday.jpg "Best Black Friday Newegg deals for November 2021")
+
+
+[Best Black Friday Newegg deals for November 2021](https://www.digitaltrends.com/dtdeals/best-newegg-deals/)
+
+
+> Newegg is a one-stop shop for computer parts and accessories. If you're looking for Black Friday laptop deals or desktop computer deals, Newegg should be on your list. With the microchip shortage affecting the supply chain of all types of tech products, Black Friday Newegg deals have started early. In fact, Newegg officially started their 'Black November Sale.' Check out Newegg deals before they go the way of the dodo. Black Friday Newegg deals compete with Best Buy Black Friday deals on computers and parts.
+
+
+***
+![Realme Q3t With Snapdragon 778 SoC, 144Hz Display Launched](https://i.gadgets360cdn.com/large/realme_q3t_nebula_nightsky_blue_china_website_1636522904639.jpg "Realme Q3t With Snapdragon 778 SoC, 144Hz Display Launched")
+
+
+[Realme Q3t With Snapdragon 778 SoC, 144Hz Display Launched](https://gadgets.ndtv.com/mobiles/news/realme-q3t-price-cny-2099-launch-specifications-features-2605275)
+
+
+> Realme Q3t has been launched in China. The new Realme phone is a successor to the Realme Q3s and comes in two different colour options. The latest Q-series phone features a Snapdragon 778G processor under the hood, coupled with 8GB of RAM and 256GB of internal storage. Realme Q3t has a triple camera unit at the rear headlined by a 48-megapixel main camera. The latest Realme handset offers a 144Hz refresh rate display and packs a 5,000mAh battery that supports 30W fast charging as well.Realme Q3t price and availabilityRealme Q3t price has been set at CNY 2,099 (roughly Rs.
+
+
+***
+[Technical Knitted Fabrics Chemicals Market Size, Key Trends, Challenges and Standardization, Research, Key Players, Economic Impact and Forecast to 2027](https://www.openpr.com/news/2456516/technical-knitted-fabrics-chemicals-market-size-key-trends)
+
+
+> Los Angeles, United State: QY Research has evaluated the global Technical Knitted Fabrics Chemicals market in its latest research report. The research study is a compilation of brilliant, thorough, and accurate analyses on different areas of the global Technical Knitted
+
+
