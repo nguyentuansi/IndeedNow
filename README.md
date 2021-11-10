@@ -29596,3 +29596,43 @@
 > Don't spend a single penny returning your unwanted Amazon packages if you don't have to -- not even on gas. Angela Lang/CNET You've ordered something from Amazon, and the package arrives in a few days. There's a problem with the item, however, and now you want to exchange it or return it for a refund. Unfortunately, returning an item to Amazon may not be as convenient as buying it.By default, Amazon provides you with several ways to send back a package -- through Kohl's, Whole Foods and UPS (to name a few) -- and asks that you bring the product to the business to return it.
 
 
+***
+![Building a 3D game menu component](https://external-preview.redd.it/kby99AR48UBJ1QaFcc_TUwALg_uIpkFGcof-XnMNFa0.jpg?auto=webp&s=c80578dbef5fb5955f04ddc77991b6b723057dd2 "Building a 3D game menu component")
+
+
+[Building a 3D game menu component](https://www.reddit.com/r/programming/comments/qr06p9/building_a_3d_game_menu_component/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![End-to-End Encryption through Kafka](https://external-preview.redd.it/exzXSLLDaRfIiypSLRiJQzteeaB2CTDqAO2mUz2o3vM.jpg?auto=webp&s=c13959ead3b9d4f2d73f76b1b8b24ee3cbc12a85 "End-to-End Encryption through Kafka")
+
+
+[End-to-End Encryption through Kafka](https://www.reddit.com/r/programming/comments/qr06e7/endtoend_encryption_through_kafka_a_handson_guide/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Fairphone 4 review: Sustainable, repairable, and ethical](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/11/fairphone-4-1_0.jpg "Fairphone 4 review: Sustainable, repairable, and ethical")
+
+
+[Fairphone 4 review: Sustainable, repairable, and ethical](https://www.androidcentral.com/fairphone-4-review)
+
+
+> Source: Jerry Hildenbrand / Android Central There are literally hundreds and hundreds of different phones you can buy today, and many of them offer something unique. This makes it really difficult to stand out in the crowd, and when a company is able to do something different that also turns out to be something great, it's worthy of our attention. If nothing else, that's what the Fairphone 4 aspires to do. It's a big step forward from the company's previous offering while being just as sustainable and repairable.
+
+
+***
+![Get these six Switch games on sale](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/03/nintendo-switch-eshop-hero.jpg "Get these six Switch games on sale")
+
+
+[Get these six Switch games on sale](https://www.imore.com/best-nintendo-switch-game-sale-now)
+
+
+> Source: iMore Are you looking to have a bit more fun on your Nintendo Switch but don't know where to find the best Switch game deals? I know the best Nintendo Switch games can be pricey, especially if you're on a budget and can't spend $60 on a game. However, here at iMore, we have found some great games currently on sale. If any of these games spark your interest, check them out by clicking the links below. Here's every game you can pre-order on Amazon right now. Just click the title to check it out! Best Switch game deals: Physical game sales on Amazon right now — get them quick! Source: iMore Sometimes you can find a couple of gems on Amazon for sale, but make sure you catch them quickly.
+
+
