@@ -29549,3 +29549,50 @@
 > November 10, 2021 08:50 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday 65 Inch TV deals are here. Review the top savings on TVs from Philips, TCL, Samsung, Sony & more. Find the full selection of deals in the list below. Best 65 Inch TV deals: Save up to 50% on a wide range of 65-inch TVs at Walmart- get the best deals on 65-inch smart TVs from top brands including Samsung, LG, Sony, TCL & more Save up to $700 on Samsung 65-inch TVs at Walmart - with ultra-fast processors that transform everything you watch into stunning 4K Save up to 50% on TCL 65-inch TVs at Walmart -click the link for live deals on 65-inch TCL Roku & non-Roku smart TVs Save up to 50% on 65-inch Roku smart TVs at Walmart - including the Class 4-Series 4K TCL Roku TV with stunning Ultra HD picture quality four times the resolution of Full HD for enhanced clarity & detail Save up to 50% on a wide range of 65-inch 4K TVs at Walmart - check out the latest deals for 65-inch 4K TVs from TCL, LG, Samsung, VIZIO, Hisense, & other brands Save up to $700 on Samsung 65-inch 4K smart TVs at Walmart - see how much you can save on 65-inch models of Ultra HD LED smart TVs from Samsung Save up to 20% on Vizio 65-inch TVs & smart TVs at Walmart - click the link for the best live deals on 65-inch Vizio smart TVs Save up to 49% on 65-inch Sony smart TVs at Walmart - see beautiful pictures with real world detail & texture on a 65-inch screen powered by Sony's 4K HDR processors Save up to 38% on 65-inch TVs & smart TVs at Amazon - click the link for live prices on 65-inch TVs & smart TVs from best-selling brands like Samsung, TCL & LG Save on top-rated 60-inch TVs with QLED displays, 4K resolution & built-in Alexa functionality at Amazon Save up to $500 on 65-inch TVs from Samsung & more top brands at BHPhotoVideo.
 
 
+***
+![India's 5G auctions to be delayed further due to extended trial period](https://icdn.digitaltrends.com/image/digitaltrends/5g-mobile-network-illustration.jpg "India's 5G auctions to be delayed further due to extended trial period")
+
+
+[India's 5G auctions to be delayed further due to extended trial period](https://www.digitaltrends.com/mobile/indias-5g-auctions-delayed-extended-trial-period/)
+
+
+> India's road to 5G adoption has had its fair share of hiccups, and it seems there will be a few bumps along the journey before there is finally light at the end of the tunnel. The Department of Telecommunications in India has extended the 5G trial period of telecom companies Reliance Jio, Bharti Airtel, and Vodafone Idea by six months, which means that the 5G spectrum auction that was supposed to take place in the first quarter of 2022 will now take place in the second half of 2022.  The 5G spectrum auction was first expected to be held in November 2021.
+
+
+***
+![Vont's LED Outdoor Solar Lights are crazy cheap for Black Friday!](https://icdn.digitaltrends.com/image/digitaltrends/vont-led-outdoor-solar-lights-featured-images.jpg "Vont's LED Outdoor Solar Lights are crazy cheap for Black Friday!")
+
+
+[Vont's LED Outdoor Solar Lights are crazy cheap for Black Friday!](https://www.digitaltrends.com/dtdeals/vont-led-outdoor-solar-lights-black-friday-november-2021/)
+
+
+> Lining a path, walkway, or even the front of your home with LED lights can get quite expensive. However, the good news is that there are a lot of solar-powered lights out there that make installing a collection much simpler. You just place the lights, and they power themselves during the day, and turn on automatically at night. But again, as simple as that can be, it's expensive trying to get enough lights to cover an area, small or large. Fortunately, Vont is offering its 2-pack of LED Outdoor Solar Lights for ridiculously low prices to coincide with all of the early Black Friday deals and the holiday season! We'll dig a little more into their list of features below, but the Vont LED Outdoor Solar Lights are IPX7 water and heat-proof, and come with a lifetime warranty — with protection for loss, theft, and material defects.
+
+
+***
+[Launch HN: Dendron (YC W21) – Structured note-taking for developers and teams](https://news.ycombinator.com/item?id=29176158)
+
+
+> Hi HN, I'm Kevin, the founder of Dendron (https://www.dendron.so). Dendron is a local, open-source, markdown-based note-taking tool that helps developers work with notes like they do with code.My background is in software engineering. Before Dendron, I worked at AWS for 5 years on systems that had grown more complicated than what any one person (or team) could hope to understand. As someone who doesn't have a great memory, I was always overwhelmed with technology and the constant flux in programming languages, frameworks, and techniques.
+
+
+***
+![Should you buy an iPhone 12 in 2021? Apple's iPhone 13 is a better pick in most cases](https://www.cnet.com/a/img/BWfh-sZLyqI2HC74LvDQ4kMr8-w=/1200x630/2021/04/24/f11794a3-f8d2-4007-8a20-3f7d4e35193b/123-iphone-12-purple-2021.jpg "Should you buy an iPhone 12 in 2021? Apple's iPhone 13 is a better pick in most cases")
+
+
+[Should you buy an iPhone 12 in 2021? Apple's iPhone 13 is a better pick in most cases](https://www.cnet.com/tech/mobile/should-you-buy-an-iphone-12-in-2021-apples-iphone-13-is-a-better-pick-in-most-cases/)
+
+
+> Enlarge Image","modalTemplate":"{{content}}","setContentOnInit":false}>The iPhone 12 is an excellent phone, but should you still buy it now that the iPhone 13 is here? Sarah Tew/CNET With longer battery life, upgraded storage, camera updates and the new A15 Bionic processor, Apple's iPhone 13 is a tempting choice when picking a new iPhone. (Check out some of the best iPhone deals here.) But depending on your personal budget and smartphone needs, you may want to consider other options like the iPhone 12, iPhone 11 or iPhone SE.
+
+
+***
+![Need to return an Amazon item? How to do it the fast and (usually) free way](https://www.cnet.com/a/img/fSJoaxuxSHNh7kiy8wGyqc3IY9k=/1200x630/2019/11/27/0b77fa63-eb1d-4d32-9769-2f9432ed1e13/amazon-delivery-box-3669.jpg "Need to return an Amazon item? How to do it the fast and (usually) free way")
+
+
+[Need to return an Amazon item? How to do it the fast and (usually) free way](https://www.cnet.com/tech/services-and-software/need-to-return-an-amazon-item-how-to-do-it-the-fast-and-usually-free-way/)
+
+
+> Don't spend a single penny returning your unwanted Amazon packages if you don't have to -- not even on gas. Angela Lang/CNET You've ordered something from Amazon, and the package arrives in a few days. There's a problem with the item, however, and now you want to exchange it or return it for a refund. Unfortunately, returning an item to Amazon may not be as convenient as buying it.By default, Amazon provides you with several ways to send back a package -- through Kohl's, Whole Foods and UPS (to name a few) -- and asks that you bring the product to the business to return it.
+
+
