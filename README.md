@@ -29364,3 +29364,50 @@
 > Los Angeles, United State: QY Research has evaluated the global Technical Knitted Fabrics Chemicals market in its latest research report. The research study is a compilation of brilliant, thorough, and accurate analyses on different areas of the global Technical Knitted
 
 
+***
+![How to Buy Tesla's New Home Charging Wall Connector, which works on ALL EVs in North America. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/11/tesla-s-new-home-charging-wall-connector-works-on-all-evs-in-north-america-how-to-buy.jpg "How to Buy Tesla's New Home Charging Wall Connector, which works on ALL EVs in North America. » Brinkwire")
+
+
+[How to Buy Tesla's New Home Charging Wall Connector, which works on ALL EVs in North America. » Brinkwire](https://en.brinkwire.com/technology/how-to-buy-teslas-new-home-charging-wall-connector-which-works-on-all-evs-in-north-america/)
+
+
+> How to Buy Tesla's New Home Charging Wall Connector, which works on ALL EVs in North America. Tesla's new home charging wall connector now works on all electric vehicles, including those from other manufacturers, at least in North America. The New Home Charging Wall Connector from Tesla According to The Verge, Tesla's new Level 2 wall connector was discreetly unveiled after the EV behemoth, which is controlled by billionaire Elon Musk, began allowing competitor EVs to its Supercharger stations in the Netherlands.
+
+
+***
+[Cashing out ahead of China's tech rout](https://www.ft.com/content/ef06a817-cad7-4aac-a885-693130f9dff9)
+
+
+> Gain a global perspective on the US and go beyond with curated news and analysis from 600 journalists in 50+ countries covering politics, business, innovation, trends and more. Choose your subscription Learn more and compare subscriptions Full Terms and Conditions apply to all Subscriptions.
+
+
+***
+![Record downpour turns outback into lake](https://content.api.news/v3/images/bin/01dafef1f03829fd5c3e80589d2289dd "Record downpour turns outback into lake")
+
+
+[Record downpour turns outback into lake](https://www.news.com.au/technology/environment/man-rescued-after-attempting-to-cross-floodwater-in-alice-springs-as-record-rain-slams/news-story/66d99a2486b3fde7737bf11e16eedaf0)
+
+
+> A man has had to be rescued after a river that usually runs dry burst its banks amid torrential rain across central Australia.Alice Springs is bracing itself after recording its wettest November day on record, forcing the usually dry Todd River burst its banks.It comes as a huge rain band spreads across Australia with wild conditions in in Queensland and New South Wales.Local authorities had to launch a rescue operation this morning to rescue a man who attempted to cross the Undoolya Causeway, just to the east of Alice Springs.
+
+
+***
+![Virologists commented on the discovery of a COVID-19 blocking substance in black pepper](https://cdni.rt.com/russian/images/2021.11/article/618b779fae5ac959c91f73bf.png "Virologists commented on the discovery of a COVID-19 blocking substance in black pepper")
+
+
+[Virologists commented on the discovery of a COVID-19 blocking substance in black pepper](https://www.tellerreport.com/tech/2021-11-10-virologists-commented-on-the-discovery-of-a-covid-19-blocking-substance-in-black-pepper.S1jH_3eKPK.html)
+
+
+> Doctor of Medical Sciences, virologist Anatoly Altstein and professor of the Department of Virology at the Faculty of Biology of Moscow State University Alexei Agranovsky commented in an interview with RT that some natural alkaloids, in particular piperine contained in black pepper, block the ability of COVID-19 to infect cells. 'As for whether it is possible to realize just such a find of scientists for a real struggle, it needs, of course, further work and thorough testing using animal models first, and then on sick people,' Altstein explained.
+
+
+***
+![Amenitiz wants to upgrade the tech stack of independent hotels – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/11/Spain.jpeg?w=600 "Amenitiz wants to upgrade the tech stack of independent hotels – TechCrunch")
+
+
+[Amenitiz wants to upgrade the tech stack of independent hotels – TechCrunch](https://techcrunch.com/2021/11/10/amenitiz-wants-to-upgrade-the-tech-stack-of-independent-hotels/)
+
+
+> Meet Amenitiz, a Barcelona-based startup that describes its products as the operating system for independent hoteliers, B&Bs and cottages. In more technical terms, Amenitiz has been building a vertical software-as-a-service product that combines everything you need to run a hotel. The company just raised a $7.5 million (€6.5 million) seed round led by Point Nine. Backed, Otium and several business angels, such as Avi Meier, Matt Robinson and Carlos Gonzales, also participated in today's round. Jean-Christophe Taunay and Arthur Waller are also going to be independent board members.
+
+
