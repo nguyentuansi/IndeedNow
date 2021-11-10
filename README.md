@@ -29411,3 +29411,47 @@
 > Meet Amenitiz, a Barcelona-based startup that describes its products as the operating system for independent hoteliers, B&Bs and cottages. In more technical terms, Amenitiz has been building a vertical software-as-a-service product that combines everything you need to run a hotel. The company just raised a $7.5 million (€6.5 million) seed round led by Point Nine. Backed, Otium and several business angels, such as Avi Meier, Matt Robinson and Carlos Gonzales, also participated in today's round. Jean-Christophe Taunay and Arthur Waller are also going to be independent board members.
 
 
+***
+![Computing project predicted to supercharge Met Éireann forecasts](https://www.independent.ie/news/907e9/41036511.ece/AUTOCROP/w1240h700/rainy%20day%20motion%20blur "Computing project predicted to supercharge Met Éireann forecasts")
+
+
+[Computing project predicted to supercharge Met Éireann forecasts](https://www.independent.ie/news/computing-project-predicted-to-supercharge-met-eireann-forecasts-41036512.html)
+
+
+> A new supercomputer will bring significant advancements to short-term weather forecasting, according to Met Éireann. et Éireann has announced that it is to join forces with national weather services in Denmark, Iceland and the Netherlands, to jointly operate this supercomputer, which is set to be operational by early 2023. The new multimillion high-performance computer built by Hewlett Packard Enterprise (HPE) will be used to advance climate science research as we continue to prepare for and mitigate the impacts of climate change.
+
+
+***
+![Black Friday iPhone 12 & 12 mini Deals 2021 Revealed by Retail Fuse](https://mms.businesswire.com/media/20211110005037/en/835870/23/Black_Friday_2021_%28TCP%29.jpg "Black Friday iPhone 12 & 12 mini Deals 2021 Revealed by Retail Fuse")
+
+
+[Black Friday iPhone 12 & 12 mini Deals 2021 Revealed by Retail Fuse](https://www.businesswire.com/news/home/20211110005037/en/Black-Friday-iPhone-12-12-mini-Deals-2021-Revealed-by-Retail-Fuse)
+
+
+> November 10, 2021 04:55 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday 2021 experts at Retail Fuse have compared all the top early iPhone 12 & 12 mini deals for Black Friday 2021, featuring deals on unlocked and network-locked models and options. Links to the latest deals are listed below. Best iPhone 12 Deals: Save on the latest Apple iPhone 12 smartphones at Verizon - get up to $600 off with an eligible Unlimited plan Save on prepaid & no contract iPhone 12 models at BoostMobile.
+
+
+***
+[iPhone owners lose out on £750 payout each from Google after Supreme Court rejects claim](https://www.thesun.ie/tech/7889803/iphone-owners-owed-750-payout-google-supreme-court-ruling/)
+
+
+> IPHONE owners in the UK have had a £750 payout from Google snatched from them by the UK's highest court. The Supreme Court ruled today that a case over alleged data harvesting should not go ahead after upholding a Google appeal. The mass legal action against the company had claimed it collected sensitive data from […]
+
+
+***
+![iPhone 13 Third-Party Screen Replacement to Be Allowed Without Breaking Face ID](https://i.gadgets360cdn.com/large/iphone_13_notch_ndtv_1632555959847.jpg "iPhone 13 Third-Party Screen Replacement to Be Allowed Without Breaking Face ID")
+
+
+[iPhone 13 Third-Party Screen Replacement to Be Allowed Without Breaking Face ID](https://gadgets.ndtv.com/mobiles/news/iphone-13-screen-replacement-third-party-face-id-disable-update-apple-2605597)
+
+
+> iPhone 13 was recently found to completely disable its Face ID functionality if a user goes for its third-party screen replacement. That particular move by Apple was believed to be deliberate and one of its latest attempts to limit third-party repairing. The Cupertino company now seems to be addressing those concerns over rigid repairability restrictions by bringing a software update for the iPhone 13. It will enable Face ID to continue to operate in case the screen is replaced with a third-party replacement.
+
+
+***
+[Tencent reports Q3 revenue of $22B, up 13% YoY, net profit of $6.18B, up 3% YoY; sales from mobile games rose 9% to ~$6.65B (Reuters)](http://www.techmeme.com/211110/p6#a211110p6)
+
+
+> Reuters: Tencent reports Q3 revenue of $22B, up 13% YoY, net profit of $6.18B, up 3% YoY; sales from mobile games rose 9% to ~$6.65B — Chinese gaming and social media giant Tencent Holdings (0700.HK) posted a 3% rise in third-quarter profit on Wednesday, beating analyst expectations as it flagged …
+
+
