@@ -30171,3 +30171,33 @@
 > SINGAPORE: A former National University Singapore (NUS) student was jailed 12 weeks on Thursday (Nov 11) for stalking a woman and illicitly gaining access to her Telegram account. Ong Jing Xiang, 26, had last month pleaded guilty to one count of unlawful stalking and another charge under the Computer Misuse Act. One charge of criminal trespass for entering the woman's room on campus – to get a verification code on her phone so that he could access her Telegram conversations – was taken into consideration for his sentencing.
 
 
+***
+![Litecoin heads for a 30% weekly gain after AMC says it's on track to accept LTC payments](https://techstory.in/wp-content/uploads/2021/11/6000.jpg "Litecoin heads for a 30% weekly gain after AMC says it's on track to accept LTC payments")
+
+
+[Litecoin heads for a 30% weekly gain after AMC says it's on track to accept LTC payments](https://techstory.in/litecoin-heads-for-a-30-weekly-gain-after-amc-says-its-on-track-to-accept-ltc-payments)
+
+
+> On Wednesday, Bitcoin fell for a second day as speculators took gains after this week's record highs, while smaller rival Litecoin rose for the fourth day in a row, bolstered by movie theatre chain AMC Entertainment's announcement that it will likely accept payment in the currency before the end of the year. According to Coinbase data, the top cryptocurrency fell below $67,000 after hitting an all-time high of around $69,000 the day before but was still up 6 percent week-over-week. 'After recent gains and a look-around, such a pullback implies an attempt to profit.
+
+
+***
+![Samsung aims at Apple with cleaning cloth offer for free](https://techstory.in/wp-content/uploads/2021/11/download-78.jpeg "Samsung aims at Apple with cleaning cloth offer for free")
+
+
+[Samsung aims at Apple with cleaning cloth offer for free](https://techstory.in/samsung-aims-at-apple-with-cleaning-cloth-offer-for-free)
+
+
+> Last month, Apple made a significant statement when it unveiled new Arm-powered Macbook computers. However, another statement that drew notice was the $19 price tag for a cleaning cloth. Samsung has now reportedly responded to Apple's cleaning cloth with a counter-offer. Galaxy Club (via Mobile Syrup) discovered a promotion in the Samsung Members app that offered a free cleaning cloth to the first 1,000 individuals who signed up. The cleaning cloth is 20cm by 20cm, which is larger than Apple's cloth, according to a screenshot supplied by the site.
+
+
+***
+![Fintech Legal Report—Week Of November 5, 2021](https://www.mondaq.com/images/Mondaq_Share.jpg "Fintech Legal Report—Week Of November 5, 2021")
+
+
+[Fintech Legal Report—Week Of November 5, 2021](https://www.mondaq.com/unitedstates/fin-tech/1130704/fintech-legal-reportweek-of-november-5-2021)
+
+
+> CONTRIBUTOR To print this article, all you need is to be registered or login on Mondaq.com. Weekly Fintech Focus Acting Comptroller of the Currency gave a speech describing his vision for supervising crypto and fintech firms in similar ways to banks. The FTC issued enforcement policy guidance related to subscriptions and negative option marketing to tighten compliance. The FTC issued a final rule amending the GLBA Safeguards Rule to cover 'finders' and to significantly increase certain requirements for financial institution security requirements.
+
+
