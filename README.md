@@ -30121,3 +30121,53 @@
 > On October 25, 2021, the Central Bank of Nigeria ("CBN"), Nigeria's apex financial and monetary regulator, issued a governing framework for the administration of the eNaira in Nigeria. The eNaira is the digital form of the Fiat currency (Naira) issued by the CBN, and it will be exchangeable with the digital currencies of other Central Banks (CBDC). Like the physical/paper Naira, the eNaira is a legal tender and forms part of the currency-in-circulation. it is created to complement cash as a less costly, more efficient, generally acceptable, safe and trusted means of payment and store of value.
 
 
+***
+![MoviePass relaunch promised as fired cofounder buys back ticket company](https://cdn.slashgear.com/wp-content/uploads/2021/11/moviepass-relaunch.jpg "MoviePass relaunch promised as fired cofounder buys back ticket company")
+
+
+[MoviePass relaunch promised as fired cofounder buys back ticket company](https://www.slashgear.com/moviepass-relaunch-promised-as-fired-cofounder-buys-back-ticket-company-11699024/)
+
+
+> MoviePass, the ill-fated subscription movie ticket service which promised unlimited viewings and then crashed into bankruptcy, is set to return, after a cofounder stepped in this week unexpectedly. Launched in 2011, MoviePass gained in hype-levels in 2016 and 2017, when for a single monthly payment theater-goers could up to a movie each day. Unsurprisingly, that proved to be popular – and unsustainable. MoviePass saw repeated waves of bad publicity, as the economics of the product were upended multiple times to cap usage and limit just how much the company was forced to pay out of pocket to sustain the service.
+
+
+***
+![Kia Concept EV9 revealed as the bold electric SUV we've been hungry for](https://cdn.slashgear.com/wp-content/uploads/2021/11/18122_Kia_teases_Concept_EV9.jpg "Kia Concept EV9 revealed as the bold electric SUV we've been hungry for")
+
+
+[Kia Concept EV9 revealed as the bold electric SUV we've been hungry for](https://www.slashgear.com/kia-concept-ev9-revealed-as-the-bold-electric-suv-weve-been-hungry-for-11699017/)
+
+
+> Kia promised something unusual for its next EV, and the Kia Concept EV9 is certainly shaping up to fit that description – and then some. Expected to get its full reveal at the LA Auto Show 2021 next week, the all-electric SUV has been previewed in full for the first time today, and it's a seriously unapologetic vision of next-gen motoring. Kia describes the exterior design as 'bold' and we can't say we disagree with that. Chunky and borderline menacing, the strong proportions – and, in particular, the swollen front and rear wheel arches – are enhanced with crisp cut-lines that give the Concept EV9 the look of something hewn from solid metal blocks.
+
+
+***
+![2022 Nissan Sentra gets new Midnight Edition Package and All-Weather Package](https://cdn.slashgear.com/wp-content/uploads/2021/11/2019-Nissan-Sentra-B-27.jpg "2022 Nissan Sentra gets new Midnight Edition Package and All-Weather Package")
+
+
+[2022 Nissan Sentra gets new Midnight Edition Package and All-Weather Package](https://www.slashgear.com/2022-nissan-sentra-gets-new-midnight-edition-package-and-all-weather-package-11698993)
+
+
+> 2022 Nissan Sentra gets new Midnight Edition Package and All-Weather Package The 2022 Nissan Sentra is the automaker's best-selling sedan. Fresh from a major redesign in 2020, the new Sentra is soldiering on as an affordable, fuel-efficient, and practical sedan. New for 2022 is the Midnight Edition and All-Weather Packages for the range-topping Sentra SR and midgrade Sentra V, respectively. The base Sentra S starts at $20,485 (including $975 destination) and has 16-inch steel wheels, keyless entry with push-button start, and a 7-inch infotainment touchscreen with four speakers and Bluetooth, Apple CarPlay, and Android Auto Connectivity.
+
+
+***
+![A new study finds the Earth has warmed much faster in the last 150 years](https://cdn.slashgear.com/wp-content/uploads/2021/11/globe.jpg "A new study finds the Earth has warmed much faster in the last 150 years")
+
+
+[A new study finds the Earth has warmed much faster in the last 150 years](https://www.slashgear.com/a-new-study-finds-the-earth-has-warmed-much-faster-in-the-last-150-years-11699008)
+
+
+> A new study finds the Earth has warmed much faster in the last 150 years Researchers from the University of Arizona have conducted a study aiming to reconstruct the earth's climate since the last Ice Age, which occurred about 24,000 years ago. Their study was recently published in the journal 'Nature' and focused on three main findings. The critical finding in the study was verification that the main drivers of climate change since the last ice age are increasing greenhouse gas concentrations and the loss of ice mass on ice sheets around the world.
+
+
+***
+![Jail for ex-NUS student who stalked woman on campus, hacked into her Telegram account](https://apicms.thestar.com.my/uploads/images/2021/11/11/1364586.jpeg "Jail for ex-NUS student who stalked woman on campus, hacked into her Telegram account")
+
+
+[Jail for ex-NUS student who stalked woman on campus, hacked into her Telegram account](https://www.thestar.com.my/tech/tech-news/2021/11/11/jail-for-ex-nus-student-who-stalked-woman-on-campus-hacked-into-her-telegram-account)
+
+
+> SINGAPORE: A former National University Singapore (NUS) student was jailed 12 weeks on Thursday (Nov 11) for stalking a woman and illicitly gaining access to her Telegram account. Ong Jing Xiang, 26, had last month pleaded guilty to one count of unlawful stalking and another charge under the Computer Misuse Act. One charge of criminal trespass for entering the woman's room on campus – to get a verification code on her phone so that he could access her Telegram conversations – was taken into consideration for his sentencing.
+
+
