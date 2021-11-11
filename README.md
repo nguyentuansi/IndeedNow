@@ -29783,3 +29783,53 @@
 > ELON Musk shocked his Twitter followers when he announced he will be selling a percentage of his Tesla Stock. In a Twitter poll on Nov. 6, 2021 Elon Musk announced he would sell some of his Tesla stock if Twitter followers voted in favor for it. Elon Must proposes to sell a percentage of his Tesla stock a On November 10, 2021, it wa revealed that Musk sold more than $286million of Tesla shares following the results of a Twitter poll. Just days before, he had posted a tweet saying that he would sell 10% of his stock in Tesla if enough users voted 'yes.
 
 
+***
+![‘Armed escalation': Poland deploys troops](https://content.api.news/v3/images/bin/f70c45af71f224d46c02f0a8585fec8d "‘Armed escalation': Poland deploys troops")
+
+
+[‘Armed escalation': Poland deploys troops](https://www.news.com.au/technology/innovation/military/grayzone-warfare-belarus-accused-of-weaponising-migrants-to-flood-polish-border/news-story/d5da550dcd473b256fcc93bb97b13907)
+
+
+> Fears of an 'armed escalation' are growing as a new kind of 'gray-zone warfare' threatens to destabilise an entire continent.In 2011, months before his death, Muammar Gaddafi was plotting his final revenge.The brutal dictator, now under attack from NATO forces supporting Libyan rebels, vowed to flood Europe with migrants in retaliation.Gaddafi had long used harsh measures against human traffickers to stem the flow of African refugees across the Mediterranean – in exchange for hefty sums of cash from European governments.
+
+
+***
+![The Walmart Black Friday sale is live: shop deals on AirPods, TVs, laptops, and more](https://cdn.mos.cms.futurecdn.net/ZTMSozAGghmZwZVhzzuDLj-1200-80.jpg "The Walmart Black Friday sale is live: shop deals on AirPods, TVs, laptops, and more")
+
+
+[The Walmart Black Friday sale is live: shop deals on AirPods, TVs, laptops, and more](https://www.techradar.com/news/walmart-black-friday-sale-starts-tonight-but-you-can-shop-deals-now-with-walmart)
+
+
+> (Image credit: Future) The second round of the early Walmart Black Friday sale begins today, with a whole new batch of deals across 4K TVs, laptops, appliances, headphones, toys and electronics. Once again all of these offers are only available for a limited time – until November 14 – or until they sell out.View all early Black Friday offers at WalmartOnto the deals, then. We think the very best deal is this HP 15.6-inch laptop for only $279 (was $399). This is a terrific price for an everyday laptop that includes an Intel i3 processor, 8GB RAM, and a 256GB SSD.
+
+
+***
+![Backblaze Announces Pricing of Initial Public Offering](https://mms.businesswire.com/media/20211110006503/en/1143290/23/Backblaze_Logo.jpg "Backblaze Announces Pricing of Initial Public Offering")
+
+
+[Backblaze Announces Pricing of Initial Public Offering](https://www.businesswire.com/news/home/20211110006503/en/Backblaze-Announces-Pricing-of-Initial-Public-Offering)
+
+
+> November 10, 2021 09:05 PM Eastern Standard Time SAN MATEO, Calif.--(BUSINESS WIRE)--Backblaze, Inc. ('Backblaze'), a leading storage cloud platform, announced the pricing of its initial public offering of 6,250,000 shares of its Class A common stock at a price to the public of $16.00 per share, for gross proceeds to Backblaze of $100,000,000, before underwriting discounts, commissions, and offering expenses payable by Backblaze. In addition, the underwriters of the initial public offering have a 30-day option to purchase up to an additional 937,500 shares of Class A common stock from the Company at the initial public offering price, less underwriting discounts and commissions.
+
+
+***
+![Disney wants to become the happiest place in the metaverse](https://www.reuters.com/resizer/l7Lxo7999ef2_j3JxlFFF3z3ung=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DJS64H75XNJ2XHA6YJDPOWAEYM.jpg "Disney wants to become the happiest place in the metaverse")
+
+
+[Disney wants to become the happiest place in the metaverse](https://www.reuters.com/technology/disney-wants-become-happiest-place-metaverse-2021-11-11/)
+
+
+> A smartphone with displayed "Disney" logo is seen on the keyboard in front of displayed "Streaming service" words in this illustration taken March 24, 2020. REUTERS/Dado Ruvic//File PhotoNov 10 (Reuters) - Mickey Mouse is poised to venture into the metaverse.Walt Disney (DIS.N) CEO Bob Chapek said the entertainment conglomerate is preparing to make the technological leap into a virtual reality world first imagined by science fiction writers.It is a popular destination these days, ever since Facebook (FB.
+
+
+***
+![Workplace from Meta is getting a Teams integration](https://cdn.mos.cms.futurecdn.net/k47jEa48En9JNPg9mbJuqm-1200-80.jpg "Workplace from Meta is getting a Teams integration")
+
+
+[Workplace from Meta is getting a Teams integration](https://www.techradar.com/news/workplace-from-meta-is-getting-a-teams-integration)
+
+
+> (Image credit: Meta) Both large and small organizations depend on a number of online collaboration tools to get things done which is why Workplace from Meta has announced two new integrations with Microsoft Teams.The first integration between Workplace and Teams will allow employees to access content from Workplace within Teams so they don't have to switch back and forth between the two apps. Not only will this help boost productivity but it will also make it easier for employees to stay up to date with the latest information and open up additional opportunities for company-wide feedback and engagement.
+
+
