@@ -29974,3 +29974,53 @@
 > HMD Global has confirmed the launch of its latest smartphone; the Nokia X100 in the US. The Nokia phone comes with support for 5G, and packs specifications that are similar to the recently released Nokia X10. The smartphone packs a 6.67-inch FHD+ display and runs on Android 11. Here is everything you should know about the Nokia X100. The Nokia X100 comes with a 6.67-inch FHD+ (1080 x 2400 pixels) screen with 20:9 aspect ratio and also features Corning Gorilla Glass 3 for added protection. Must Read |Nokia T20 tablet launched with 15 hours of battery life, 2K display It is powered by the Qualcomm Snapdragon 480 chipset, along with 6GB of RAM and 128GB of storage.
 
 
+***
+![A new tool for calling C++ from python](https://external-preview.redd.it/jme6crnyHww6kZufBehljVKcRlGbosZUBUIA8TjqPAg.jpg?auto=webp&s=40167b86dd8aa40002a1c44069c13869dc1531d6 "A new tool for calling C++ from python")
+
+
+[A new tool for calling C++ from python](https://www.reddit.com/r/Python/comments/qrhz5f/a_new_tool_for_calling_c_from_python/)
+
+
+> Hello everyone!I and some friends created a tool called tolc to automatically bind your C++ library to other languages, starting with python. It has a small CMake wrapper:# Creates a target Example_python that will be built to a CPython library # and can be imported from python as 'import Example' tolc_create_translation( TARGET Example LANGUAGE python OUTPUT ${CMAKE_CURRENT_BINARY_DIR}/python-bindings ) It does not require any change to your existing public interface, but simply reads it and creates the python bindings off of that.
+
+
+***
+![Netflix Rolling Out AV1 Streaming on Select TVs, PS4 Pro](https://i.gadgets360cdn.com/large/netflix_av1_codec_streaming_rollout_website_1636624300698.jpg "Netflix Rolling Out AV1 Streaming on Select TVs, PS4 Pro")
+
+
+[Netflix Rolling Out AV1 Streaming on Select TVs, PS4 Pro](https://gadgets.ndtv.com/tv/news/netflix-av1-video-codec-support-smart-tv-update-ps4-pro-money-heist-samsung-2606946)
+
+
+> Netflix has started streaming AV1 codec to select TVs and PlayStation 4 Pro. AV1 codec is the latest video codec in the industry with a royalty-free license from the Alliance of Open Media (AOMedia). The codec is backed by a group of tech brands including Amazon, Apple, Facebook, Google, Intel, Netflix, Microsoft, and many more. Netflix is now rolling out AV1 streaming on a handful of TVs. However, thanks to the PS4 Pro compatibility, any TV connected to the gaming console can stream Netflix content in AV1.
+
+
+***
+![WhatsApp Rolling Out New UI for Contact, Group Info: Report](https://i.gadgets360cdn.com/large/whatsapp_logo_twitter_wabetainfo_1636624047406.jpg "WhatsApp Rolling Out New UI for Contact, Group Info: Report")
+
+
+[WhatsApp Rolling Out New UI for Contact, Group Info: Report](https://gadgets.ndtv.com/apps/news/whatsapp-update-my-contacts-except-new-interface-contact-group-info-disappearing-messages-duration-2606942)
+
+
+> WhatsApp is reportedly rolling out 'My Contacts Except…' privacy feature, allowing users to control who can see their information on WhatsApp. The instant messaging app is also releasing a new interface for Contact Info and Group Info for specific Android beta testers, as per a separate report. This interface was previously only available when viewing Business Info. Separately, Android beta users are also getting an updated Disappearing Messages feature. This feature allows users to choose among 24 hours, seven days, and 90 days ephemeral durations as default message timer for disappearing chats.
+
+
+***
+![Elon Musk is actually selling his Tesla shares after Twitter poll](https://helios-i.mashable.com/imagery/articles/06fN4Zmcl8KE8xjLStDYJFh/hero-image.fill.size_1200x675.v1636623388.jpg "Elon Musk is actually selling his Tesla shares after Twitter poll")
+
+
+[Elon Musk is actually selling his Tesla shares after Twitter poll](https://mashable.com/article/elon-musk-selling-tesla-shares)
+
+
+> Elon Musk takes his Twitter polls seriously. Following a poll in which he asked whether he should sell 10 percent of his Tesla stock, which ended with roughly 58 percent of users voting yes, Musk is following through. According to new filings with the Securities and Exchange Commission, Musk has sold roughly 4.5 million shares this week, with the total value exceeding $5 billion. Tweet may have been deleted Musk owns 170.5 million Tesla shares and has an option to buy 73.5 million more. It's unclear whether he's including the optioned shares when calculating his 10 percent goal, but either way he still needs to sell quite a few more to reach it.
+
+
+***
+![AMC Entertainment CEO Adam Aron Sells $25M In Stock As Part Of 'Estate Planning'](https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/amc_times_square_51495036834.jpeg "AMC Entertainment CEO Adam Aron Sells $25M In Stock As Part Of 'Estate Planning'")
+
+
+[AMC Entertainment CEO Adam Aron Sells $25M In Stock As Part Of 'Estate Planning'](https://www.benzinga.com/news/21/11/24034936/amc-entertainment-ceo-adam-aron-sells-25m-in-stock-as-part-of-estate-planning)
+
+
+> AMC Entertainment Holdings Inc. (NYSE: AMC) CEO Adam Aron has sold shares worth $25 million in the movie theatre chain under a pre-arranged trading plan. What Happened: Aron sold 625,000 AMC Entertainment shares on Tuesday at an average price of $40.53, according to a filing with the U.S. Securities and Exchange Commission. A separate filing showed that Aron has received approval to sell 1.25 million AMC shares under the pre-arranged trading plan. Aron took to Twitter to say that 62.5% of his annual pay is in AMC stock and not cash, and the sale was part of his estate planning.
+
+
