@@ -29927,3 +29927,50 @@
 > YouTube announced Wednesday the tally of "dislike" clicks on videos will no longer be visible to the public to protect creators from harassment and targeted attacks.A public count of likes — or dislikes — that social media posts rack up is regularly cited by critics as harmful to well-being, and Facebook as well as Instagram have allowed users to opt out.Users on the Google-owned video sharing platform will still be able to click on the "dislike" button below a clip, but they will no longer see the negative review count.
 
 
+***
+![Apple has no immediate plans to accept crypto as payment, Tim Cook says](https://external-preview.redd.it/mL96xNV1yXQfL0N3gcx8Y44ssJ0lpKGIPy4AZvlni2k.jpg?auto=webp&s=a8385c33f0c4c24973d371106b403cc2c40ba400 "Apple has no immediate plans to accept crypto as payment, Tim Cook says")
+
+
+[Apple has no immediate plans to accept crypto as payment, Tim Cook says](https://www.reddit.com/r/technology/comments/qrgbps/apple_has_no_immediate_plans_to_accept_crypto_as/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Acclaimed Photography Tool ProShot Is MyAppFree's App Of The Week](https://www.androidheadlines.com/wp-content/uploads/2021/11/AOTW-ProShot-article-1.jpg "Acclaimed Photography Tool ProShot Is MyAppFree's App Of The Week")
+
+
+[Acclaimed Photography Tool ProShot Is MyAppFree's App Of The Week](https://www.androidheadlines.com/2021/11/acclaimed-photography-tool-proshot-myappfree-app-of-the-week.html)
+
+
+> ProShot, the powerful photography tool from Rise Up Games, is the latest app to earn a coveted App of the Week spot on MyAppFree. You'll be able to download it for absolutely nothing between the 11th and the 13th of November.Why might you want to download ProShot? After all, you've already got a smartphone, and the camera on that is just as good as a proper camera that a real photographer might use, right?Wrong!It's true that smartphones have put cameras in the hands of just about everybody on planet earth.
+
+
+***
+![Ulefone Offers Discounts Up To 51% For 11.11 Shopping Festival](https://www.androidheadlines.com/wp-content/uploads/2021/11/Ulefone-11.11-shopping-festival.jpg "Ulefone Offers Discounts Up To 51% For 11.11 Shopping Festival")
+
+
+[Ulefone Offers Discounts Up To 51% For 11.11 Shopping Festival](https://www.androidheadlines.com/2021/11/ulefone-discounts-11-11-shopping-festival.html)
+
+
+> Ulefone has joined the 11.11 shopping festival with discounts of its own. The company is offering discounts of up to 51%, in case you're interested. These discounts will be available both today and tomorrow (November 11 and 12).We'll talk about some of the devices that are discounted below, while the company also compiled a YouTube video to promote this sale. That YouTube video is embedded down below, in case you'd like to check it out.Ulefone discounted quite a few devices for 11.11 shopping festivalThat being said, the first phone on the company's list is the Ulefone Power Armor 14.
+
+
+***
+[Ducati Launches 13 Lakh Hypermotard 950 In India](https://www.thequint.com/tech-and-auto/ducati-launches-13-lakh-hypermotard-950-in-india-check-details-now)
+
+
+> Check Price, Engine specifications and more on the Ducati Hypermotard 950 launched in India
+
+
+***
+![Nokia X100 launched with quad camera and Zeiss optics: Specifications, price](https://images.indianexpress.com/2021/11/a62c77bd-a2b0-4f63-a795-dba4c6045363.jpg "Nokia X100 launched with quad camera and Zeiss optics: Specifications, price")
+
+
+[Nokia X100 launched with quad camera and Zeiss optics: Specifications, price](https://indianexpress.com/article/technology/mobile-tabs/nokia-x100-launched-specifications-price-7617912/)
+
+
+> HMD Global has confirmed the launch of its latest smartphone; the Nokia X100 in the US. The Nokia phone comes with support for 5G, and packs specifications that are similar to the recently released Nokia X10. The smartphone packs a 6.67-inch FHD+ display and runs on Android 11. Here is everything you should know about the Nokia X100. The Nokia X100 comes with a 6.67-inch FHD+ (1080 x 2400 pixels) screen with 20:9 aspect ratio and also features Corning Gorilla Glass 3 for added protection. Must Read |Nokia T20 tablet launched with 15 hours of battery life, 2K display It is powered by the Qualcomm Snapdragon 480 chipset, along with 6GB of RAM and 128GB of storage.
+
+
