@@ -29833,3 +29833,50 @@
 > (Image credit: Meta) Both large and small organizations depend on a number of online collaboration tools to get things done which is why Workplace from Meta has announced two new integrations with Microsoft Teams.The first integration between Workplace and Teams will allow employees to access content from Workplace within Teams so they don't have to switch back and forth between the two apps. Not only will this help boost productivity but it will also make it easier for employees to stay up to date with the latest information and open up additional opportunities for company-wide feedback and engagement.
 
 
+***
+![Cathie Wood Continues To Load Up On Palantir, Buying $28M Shares On Wednesday](https://cdn2.benzinga.com/files/imagecache/600x400xUP/images/story/2012/artificial-intelligence-3382507_1920_7.jpg?width=720 "Cathie Wood Continues To Load Up On Palantir, Buying $28M Shares On Wednesday")
+
+
+[Cathie Wood Continues To Load Up On Palantir, Buying $28M Shares On Wednesday](https://www.benzinga.com/trading-ideas/long-ideas/21/11/24033543/cathie-wood-continues-to-load-up-on-palantir-buying-28m-shares-on-wednesday)
+
+
+> Cathie Wood's money managing firm Ark Invest on Wednesday continued to buy shares in Palantir Technologies Inc (NASDAQ:PLTR) on the dip. The popular stock picker's investment firm bought 1.25 million shares —  estimated to be worth $28.19 million based on the latest closing price— in the Peter Thiel-backed data analytics company. Palantir shares closed 7.13% lower at $22.52 a share on Wednesday, extending losses from Tuesday. The stock has plummeted 14% in the past five days. The latest trade is Ark's second such buy after months of booking profit in the stock.
+
+
+***
+![Tesla has signed a contract with Hertz, according to Elon Musk. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/11/slower-tesla-fsd-beta-updates-elon-musk-says-in-latest-tweet-will-this-change-make-it-safer.jpg "Tesla has signed a contract with Hertz, according to Elon Musk. » Brinkwire")
+
+
+[Tesla has signed a contract with Hertz, according to Elon Musk. » Brinkwire](https://en.brinkwire.com/technology/tesla-has-signed-a-contract-with-hertz-according-to-elon-musk/)
+
+
+> Tesla has signed a contract with Hertz, according to Elon Musk. Tesla has yet to execute a contract with Hertz, according to Elon Musk. In reaction to a tweet, Tesla CEO Elon Musk clarified on Twitter. Musk also stated that the move by the rental car operator has no bearing on Tesla's financials. He also stated that Tesla's demand for electric automobiles is currently outpacing manufacturing. Hertz earlier announced that it would buy 10,000 Teslas, helping Musk's electric car firm attain a market capitalization of $1 trillion.
+
+
+***
+![Netflix gets yet another price hike in Australia](https://cdn.mos.cms.futurecdn.net/dpfWXtNnW2Li7qt3XNJhma-1200-80.jpg "Netflix gets yet another price hike in Australia")
+
+
+[Netflix gets yet another price hike in Australia](https://www.techradar.com/news/netflix-gets-yet-another-price-hike-in-australia)
+
+
+> (Image credit: Vantage_DS / Shutterstock) Get ready for another Netflix price hike, because the streaming giant is once again asking Aussies to pay more for its Standard and Premium tiers.From today, new subscribers will pay an extra dollar per month for the Standard plan, bringing the monthly price up to AU$16.99, while the Premium tier has received a more significant three-dollar increase to AU$21.99 per month.Netflix's new pricing will come into effect for existing members on their next billing date after November 18, as detailed by News.
+
+
+***
+![Digital Distortion](https://media.tegna-media.com/assets/WTIC/images/f10706ef-b8a6-49bc-887d-4b8c7e468ccd/f10706ef-b8a6-49bc-887d-4b8c7e468ccd_1140x641.jpg "Digital Distortion")
+
+
+[Digital Distortion](https://www.fox61.com/article/tech/digital-distortion-social-media-impact-teenagers-mental-health/520-b66d5f3f-04fa-4e22-9fca-df7580e3f87b)
+
+
+> CONNECTICUT, USA — Being a teenager usually means there's a lot to like about life. "I like to play lacrosse, hang out with my friends, and probably shop too," Mia Carrera, of Southington, said. Scrolling through social media is also at the top of that list. However, when it comes to that, there's also plenty to dislike. "It makes you feel like sad at times because you don't feel enough for other people. I don't know, people are like judgmental and stuff," said Macey Carrera, Mia's sister. The 13-year-old Carrera twins and their friend Ella Adames, also 13, know that being a teenager can also mean self-doubt, comparison, and other struggles that are only heightened by social media.
+
+
+***
+[Disney misses Q4 estimates after slower streaming services growth: Disney+ added 2M subscribers to 118M, Hulu added 700K to 39.7M, and ESPN+ added 2.3M to 17.1M (Alex Weprin/Hollywood Reporter)](http://www.techmeme.com/211110/p44#a211110p44)
+
+
+> Alex Weprin / Hollywood Reporter: Disney misses Q4 estimates after slower streaming services growth: Disney+ added 2M subscribers to 118M, Hulu added 700K to 39.7M, and ESPN+ added 2.3M to 17.1M — The streaming service now has 118 million subscribers, up only 2 million from last quarter. — Disney posted muted earnings …
+
+
