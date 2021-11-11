@@ -29733,3 +29733,53 @@
 > November 10, 2021 04:54 PM Eastern Standard Time CINCINNATI--(BUSINESS WIRE)--blueAlliance IT – an investment and growth platform for technology businesses – has formed an exclusive collaboration that will enable managed service providers (MSPs) and other early tech world trailblazers to compete and grow in the ever-evolving, fast-paced IT industry. The unique venture was formed by three successful entrepreneurs whose IT businesses are among blueAlliance IT's founding partners, which include Path Forward IT, BECA and Skynet Innovations.
 
 
+***
+![Meta partners with Microsoft to integrate Workplace, Teams platforms to ease communication](https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/g9ymkjflssfpzefm_1636586012.jpeg "Meta partners with Microsoft to integrate Workplace, Teams platforms to ease communication")
+
+
+[Meta partners with Microsoft to integrate Workplace, Teams platforms to ease communication](https://www.republicworld.com/technology-news/apps/meta-partners-with-microsoft-to-integrate-workplace-teams-platforms-to-ease-communication.html)
+
+
+> Days after creating headlines by rebranding itself, Meta has now announced the integration of its workplace platform with Microsoft's Teams in order to enhance communication between workers. The announcement was made by Meta's head of workplace Ujjwal Singh, who said that the integration would give users access to Workplace content in Teams. The company would also be adding the feature to watch or record Teams meeting and watch them on Workplace. Despite Meta and Microsoft being rivals, Workplace and Teams target different users.
+
+
+***
+![Is Spotify unavailable? How to see if the app is available offline. » Brinkwire](https://en.brinkwire.com/nerede/uploads/2021/11/nintchdbpict000559619707-2.jpg "Is Spotify unavailable? How to see if the app is available offline. » Brinkwire")
+
+
+[Is Spotify unavailable? How to see if the app is available offline. » Brinkwire](https://en.brinkwire.com/technology/is-spotify-unavailable-how-to-see-if-the-app-is-available-offline/)
+
+
+> Is Spotify unavailable? How to see if the app is available offline. After encountering issues with the app on Tuesday, November 2, 2021, SPOTIFY users want to know what's going on. The online outage tracker DownDetector identified what was wrong with the music streaming service. On November 2, about 8.51 a.m. EST, reports of problems with the site began to arrive. At least nine reports of consumers having issues with the music streaming service have been received. The app was responsible for 73% of the issues, while the website was responsible for 18%.
+
+
+***
+![‘Is he sh*tting me right now?': Starbucks worker receives 15-drink drive-thru order in viral TikTok](https://uploads.dailydot.com/2021/11/starbucks-15-drinks.jpg?auto=compress%2Cformat&ixlib=php-3.3.0 "‘Is he sh*tting me right now?': Starbucks worker receives 15-drink drive-thru order in viral TikTok")
+
+
+[‘Is he sh*tting me right now?': Starbucks worker receives 15-drink drive-thru order in viral TikTok](https://www.dailydot.com/unclick/starbucks-drive-thru-15-drinks-tiktok/)
+
+
+> In a viral TikTok, user Fernando (@q50_nando) captures how stressful a drive-thru order of 15 drinks is for Starbucks employees to make. The video has received 359,300 views and 44,600 likes since posting Oct. 15. 'Don't go through drive and do this,' the caption said. https://www.tiktok.com/@q50_nando/video/7019517429252377862?is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=7006320911265039878 The video is set satirically to Squid Game theme music and shows the tickets in a line on the counter.
+
+
+***
+![Tom Hanks film 'Finch' sets Apple TV+ film premiere record](https://photos5.appleinsider.com/gallery/45582-88725-211110-Finch-xl.jpg "Tom Hanks film 'Finch' sets Apple TV+ film premiere record")
+
+
+[Tom Hanks film 'Finch' sets Apple TV+ film premiere record](https://appleinsider.com/articles/21/11/11/tom-hanks-film-finch-sets-apple-tv-film-premiere-record)
+
+
+> Tom Hanks film 'Finch' sets Apple TV+ film premiere record 8 seconds ago How to teach Siri to pronounce names correctly in iOS 15 7 hours ago
+
+
+***
+![How much Tesla stock did Elon Musk sell?](https://www.the-sun.com/wp-content/uploads/sites/6/2021/11/lv-comp-elon-musk-tesla-explainer-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1 "How much Tesla stock did Elon Musk sell?")
+
+
+[How much Tesla stock did Elon Musk sell?](https://www.the-sun.com/tech/4042347/how-much-tesla-stock-did-elon-musk-sell/)
+
+
+> ELON Musk shocked his Twitter followers when he announced he will be selling a percentage of his Tesla Stock. In a Twitter poll on Nov. 6, 2021 Elon Musk announced he would sell some of his Tesla stock if Twitter followers voted in favor for it. Elon Must proposes to sell a percentage of his Tesla stock a On November 10, 2021, it wa revealed that Musk sold more than $286million of Tesla shares following the results of a Twitter poll. Just days before, he had posted a tweet saying that he would sell 10% of his stock in Tesla if enough users voted 'yes.
+
+
