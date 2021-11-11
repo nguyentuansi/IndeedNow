@@ -30071,3 +30071,53 @@
 > An investment company in Busan, which received close to 100 billion won in the word of giving a 7% monthly return, suddenly closed its doors. There are not many middle-aged victims who have entrusted their old-age funds. An investment company in Busan, which received close to 100 billion won in the words of a 7% monthly return, suddenly closed its doors. There are not many middle-aged victims who have entrusted their old-age funds. Reporter Kang So-ra of KNN reported exclusively. Itis an investment company in Busan.
 
 
+***
+![Review: Fintie Folio Case for iPad is a well-priced, functional smart case](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/fintie-folio-case-for-ipad-mini-6-hero.jpeg "Review: Fintie Folio Case for iPad is a well-priced, functional smart case")
+
+
+[Review: Fintie Folio Case for iPad is a well-priced, functional smart case](https://www.imore.com/fintie-folio-case-ipad-mini-6-review)
+
+
+> Source: Karen S. Freeman / iMore The Fintie Folio Case for iPad might be what you're looking for if you're trying to find the best folio case for your iPad. The folio-style case is made of vegan leather and lined with microfiber. You get four horizontal viewing angles for watching videos, working, drawing, or typing. The inner plastic shell protects your iPad whether the folio is open or closed. The smart case offers Sleep/Wake functionality, which means it goes to sleep when you close the front flap and wakes up when you open it.
+
+
+***
+![Tested: New Kia Sportage](https://content.api.news/v3/images/bin/1f17217b65d77c2b36534b783b4e1b33 "Tested: New Kia Sportage")
+
+
+[Tested: New Kia Sportage](https://www.couriermail.com.au/technology/tested-new-kia-sportage/video/01661d57a7dab9b7c9ab9ffcade3ebd2)
+
+
+> My NewsLocalQLDSchools HubTertiaryEarly LearningAdviceNationalWorldOpinionBusinessEntertainmentLifestyleSport
+
+
+***
+![Tested: New Kia Sportage](https://content.api.news/v3/images/bin/1f17217b65d77c2b36534b783b4e1b33 "Tested: New Kia Sportage")
+
+
+[Tested: New Kia Sportage](https://www.heraldsun.com.au/technology/tested-new-kia-sportage/video/01661d57a7dab9b7c9ab9ffcade3ebd2)
+
+
+> My NewsLocalVictoriaNationalCrime in FocusBehind the ScenesCold CasesPolice TapeOur Criminal HistoryWorldOpinionBusinessEntertainmentLifestyleSport
+
+
+***
+![Apple highlights impact of iPad in trauma medicine](https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/11/apple_veterans-day-feat-t6_hero_11102021.jpg "Apple highlights impact of iPad in trauma medicine")
+
+
+[Apple highlights impact of iPad in trauma medicine](https://www.imore.com/apple-highlights-impact-ipad-trauma-medicine)
+
+
+> Source: Apple Apple has posted a feature highlighting how its best iPads like the M1 iPad Pro (2021) can be used to deliver life-saving care in trauma medicine. In a new story Wednesday Apple writes: The call comes in to the emergency line at Cohen Children's Medical Center in New York City: EMS are on the way with a 7-year-old boy who has been struck by a car. A 12-person Level I trauma team is activated to respond. As the team assembles and prepares for the patient's arrival, there's a new tool in their kit.
+
+
+***
+![Nigeria: Fintech Update – Synopsis Of The CBN Regulatory Guidelines On The E-Naira](https://www.mondaq.com/images/Mondaq_Share.jpg "Nigeria: Fintech Update – Synopsis Of The CBN Regulatory Guidelines On The E-Naira")
+
+
+[Nigeria: Fintech Update – Synopsis Of The CBN Regulatory Guidelines On The E-Naira](https://www.mondaq.com/nigeria/fin-tech/1130572/fintech-update-synopsis-of-the-cbn-regulatory-guidelines-on-the-e-naira)
+
+
+> On October 25, 2021, the Central Bank of Nigeria ("CBN"), Nigeria's apex financial and monetary regulator, issued a governing framework for the administration of the eNaira in Nigeria. The eNaira is the digital form of the Fiat currency (Naira) issued by the CBN, and it will be exchangeable with the digital currencies of other Central Banks (CBDC). Like the physical/paper Naira, the eNaira is a legal tender and forms part of the currency-in-circulation. it is created to complement cash as a less costly, more efficient, generally acceptable, safe and trusted means of payment and store of value.
+
+
