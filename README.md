@@ -29880,3 +29880,50 @@
 > Alex Weprin / Hollywood Reporter: Disney misses Q4 estimates after slower streaming services growth: Disney+ added 2M subscribers to 118M, Hulu added 700K to 39.7M, and ESPN+ added 2.3M to 17.1M — The streaming service now has 118 million subscribers, up only 2 million from last quarter. — Disney posted muted earnings …
 
 
+***
+![The US Government Made It Illegal to Buy These NFTs: Dozens of cryptocurrency addresses and one exchange were added to the US sanctions list this week, including NFTs that are still for sale.](https://external-preview.redd.it/B2R2h_RpQQQ5rkqn_-eep9UgQisj2NZ3vRUrcbLtanQ.jpg?auto=webp&s=03c88e68815e679f7fc8da3cbd95de5a32521278 "The US Government Made It Illegal to Buy These NFTs: Dozens of cryptocurrency addresses and one exchange were added to the US sanctions list this week, including NFTs that are still for sale.")
+
+
+[The US Government Made It Illegal to Buy These NFTs: Dozens of cryptocurrency addresses and one exchange were added to the US sanctions list this week, including NFTs that are still for sale.](https://www.reddit.com/r/technology/comments/qrefb8/the_us_government_made_it_illegal_to_buy_these/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+![Tencent says Beijing likely to support metaverse](https://www.reuters.com/resizer/baqdubEVYGw5cLqz0B1UGiLOBdg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5NSGBJ2VKBLHLPUCN2YQTK37HI.jpg "Tencent says Beijing likely to support metaverse")
+
+
+[Tencent says Beijing likely to support metaverse](https://www.reuters.com/technology/tencent-says-beijing-likely-support-metaverse-long-it-obeys-china-rules-2021-11-11/)
+
+
+> SHANGHAI, Nov 11 (Reuters) - Chinese social media giant Tencent Holdings (0700.HK) expects Beijing to allow 'metaverse' virtual environment services, now the talk of Silicon Valley, to operate in China - provided they fall in line with Chinese rules.In some of its first public comments on the metaverse, Tencent, China's biggest company by market value, welcomed the potential for gaming business opportunities in a post-earnings call on Wednesday, but acknowledged China's version of the metaverse would need to be different to the rest of the world's.
+
+
+***
+![Robinhood Hackers Accessed Internal Tool for Removing Account Security Features, Screenshots Show](https://external-preview.redd.it/Ke0T2l4yRKXLh8qLXmyZ2gtwPHfThdIKtVaegZO27Wo.jpg?auto=webp&s=29c6bdae2ec859a3e6b216efa535ac089a60715e "Robinhood Hackers Accessed Internal Tool for Removing Account Security Features, Screenshots Show")
+
+
+[Robinhood Hackers Accessed Internal Tool for Removing Account Security Features, Screenshots Show](https://www.reddit.com/r/technology/comments/qrebfu/robinhood_hackers_accessed_internal_tool_for/)
+
+
+> no comments yetBe the first to share what you think!
+
+
+***
+[Instagram testing ''Take a Break'' feature for better time management](https://www.zeebiz.com/technology/apps/news-instagram-testing-take-a-break-feature-for-better-time-management-170436)
+
+
+> According to Adam Mosseri, Head of Instagram, the long-awaited `Take a Break` feature will remind users when they have spent a long time on the platform.
+
+
+***
+![YouTube Hides 'Dislike' Counts to Discourage Attacks](https://i.gadgets360cdn.com/large/youtube-per_1573457229620.jpg "YouTube Hides 'Dislike' Counts to Discourage Attacks")
+
+
+[YouTube Hides 'Dislike' Counts to Discourage Attacks](https://gadgets.ndtv.com/entertainment/news/youtube-dislike-count-tally-hide-not-show-protect-creators-attack-harassment-2606642)
+
+
+> YouTube announced Wednesday the tally of "dislike" clicks on videos will no longer be visible to the public to protect creators from harassment and targeted attacks.A public count of likes — or dislikes — that social media posts rack up is regularly cited by critics as harmful to well-being, and Facebook as well as Instagram have allowed users to opt out.Users on the Google-owned video sharing platform will still be able to click on the "dislike" button below a clip, but they will no longer see the negative review count.
+
+
