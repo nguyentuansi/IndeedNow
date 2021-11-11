@@ -30024,3 +30024,50 @@
 > AMC Entertainment Holdings Inc. (NYSE: AMC) CEO Adam Aron has sold shares worth $25 million in the movie theatre chain under a pre-arranged trading plan. What Happened: Aron sold 625,000 AMC Entertainment shares on Tuesday at an average price of $40.53, according to a filing with the U.S. Securities and Exchange Commission. A separate filing showed that Aron has received approval to sell 1.25 million AMC shares under the pre-arranged trading plan. Aron took to Twitter to say that 62.5% of his annual pay is in AMC stock and not cash, and the sale was part of his estate planning.
 
 
+***
+[Something Awful administrator says founder Richard "Lowtax" Kyanka has died at 45; founded in 1999, SA's influence over the contemporary web has been huge (Brian Ashcraft/Kotaku)](http://www.techmeme.com/211111/p12#a211111p12)
+
+
+> Brian Ashcraft / Kotaku: Something Awful administrator says founder Richard “Lowtax” Kyanka has died at 45; founded in 1999, SA's influence over the contemporary web has been huge — Kyanka created the influential Something Awful website in 1999 — Longtime Something Awful forum administrator Fragmaster posted …
+
+
+***
+![Google Maps is the best navigation app but for India it can still be better](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202111/google-maps-reuters-647x363.jpeg?ehP3Vn5n5BdjIw0aVL1fk2QRDnehCaKj "Google Maps is the best navigation app but for India it can still be better")
+
+
+[Google Maps is the best navigation app but for India it can still be better](https://www.indiatoday.in/technology/talking-points/story/google-maps-is-the-best-navigation-app-but-for-india-it-can-still-be-better-1875647-2021-11-11)
+
+
+> Google Maps is the king of mobile navigation in India, no doubt. Launched in 2005, the navigation app is used by both people and some services like Uber that use Google's mapping solution. There are some services that offer navigation, like MapMyIndia and a few more, but none refined enough to guide you on a daily basis on your mobile device. There are plenty of reasons why Google Maps has been the ultimate stop for most users globally. The biggest probably has to be because the app comes preloaded on every Android-powered device.
+
+
+***
+![In front of the 'citizen watchdog'... Behind the scenes, 'business trip prostitution' mediation](https://img.sbs.co.kr/newimg/news/20211111/201608895_1280.jpg "In front of the 'citizen watchdog'... Behind the scenes, 'business trip prostitution' mediation")
+
+
+[In front of the 'citizen watchdog'... Behind the scenes, 'business trip prostitution' mediation](https://www.tellerreport.com/tech/2021-11-11-in-front-of-the--citizen-watchdog-----behind-the-scenes---business-trip-prostitution--mediation.HyswUFqvY.html)
+
+
+> Business owners who have organized business trip prostitution in the metropolitan area have been arrested. One of them even volunteered for a 'prostitution citizen watchdog' run by the local government for the purpose of reporting another competitor. Business owners who have organized business trip prostitution in the metropolitan area have been arrested. One of them even volunteered for a 'prostitution citizen watchdog' run by the local government for the purpose of reporting another competitor.
+
+
+***
+![Animal cruelty again... 'Gore specialty shop' seizes perpetrators](https://img.sbs.co.kr/newimg/news/20211111/201608897_1280.jpg "Animal cruelty again... 'Gore specialty shop' seizes perpetrators")
+
+
+[Animal cruelty again... 'Gore specialty shop' seizes perpetrators](https://www.tellerreport.com/tech/2021-11-11-animal-cruelty-again-----gore-specialty-shop--seizes-perpetrators.BkgMDLtqPF.html)
+
+
+> I once told you about the brutal killing of stray cats and other animals, filming the process and posting it on a group chat room. The perpetrator was sentenced to probation today, but there are criticisms that the punishment is weak, and there are also criticisms of the inconsistency of these animal cruelty-related rulings. I once told you about the brutal killing of stray cats and other animals, filming the process and posting it on a group chat room. Today (11th), the perpetrator was sentenced to probation, but there are criticisms that the punishment is weak, and there are also criticisms of the inconsistency of these animal cruelty-related judgments.
+
+
+***
+![[Exclusive] Maintaining 100 billion won in '7% monthly profit' bait... 'Sleep' after three months](https://img.sbs.co.kr/newimg/news/20211111/201608851_1280.jpg "[Exclusive] Maintaining 100 billion won in '7% monthly profit' bait... 'Sleep' after three months")
+
+
+[[Exclusive] Maintaining 100 billion won in '7% monthly profit' bait... 'Sleep' after three months](https://www.tellerreport.com/tech/2021-11-11-[exclusive]-maintaining-100-billion-won-in--7--monthly-profit--bait-----sleep--after-three-months.HJb3bUtcvK.html)
+
+
+> An investment company in Busan, which received close to 100 billion won in the word of giving a 7% monthly return, suddenly closed its doors. There are not many middle-aged victims who have entrusted their old-age funds. An investment company in Busan, which received close to 100 billion won in the words of a 7% monthly return, suddenly closed its doors. There are not many middle-aged victims who have entrusted their old-age funds. Reporter Kang So-ra of KNN reported exclusively. Itis an investment company in Busan.
+
+
