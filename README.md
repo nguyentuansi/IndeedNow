@@ -30201,3 +30201,53 @@
 > CONTRIBUTOR To print this article, all you need is to be registered or login on Mondaq.com. Weekly Fintech Focus Acting Comptroller of the Currency gave a speech describing his vision for supervising crypto and fintech firms in similar ways to banks. The FTC issued enforcement policy guidance related to subscriptions and negative option marketing to tighten compliance. The FTC issued a final rule amending the GLBA Safeguards Rule to cover 'finders' and to significantly increase certain requirements for financial institution security requirements.
 
 
+***
+![Everspin Reports Unaudited Third Quarter 2021 Financial Results](http://www.businesswire.com/images/bwlogo_square.png "Everspin Reports Unaudited Third Quarter 2021 Financial Results")
+
+
+[Everspin Reports Unaudited Third Quarter 2021 Financial Results](https://www.businesswire.com/news/home/20211111006121/en/Everspin-Reports-Unaudited-Third-Quarter-2021-Financial-Results)
+
+
+> November 11, 2021 05:00 PM Eastern Standard Time CHANDLER, Ariz.--(BUSINESS WIRE)--Everspin Technologies, Inc. (NASDAQ: MRAM), the market leader in MRAM, today announced preliminary unaudited financial results for the third fiscal quarter of 2021. Third Quarter 2021 Highlights Q3'21 revenue increased 25% and $2.9 million from $11.9 million in the prior quarter to $14.8 million. This is an increase of 46.5% compared to $10.1 million of revenue in Q3'20. The Company reported record net income of $880k for Q3'21, resulting in year-to-date net income for FY2021 of $676k.
+
+
+***
+![SoFi to Participate in Upcoming Fourth Quarter Investor Conferences](https://mms.businesswire.com/media/20211111006120/en/926409/23/SoFi_horz_RGB_Ink_CircleR_Upward.jpg "SoFi to Participate in Upcoming Fourth Quarter Investor Conferences")
+
+
+[SoFi to Participate in Upcoming Fourth Quarter Investor Conferences](https://www.businesswire.com/news/home/20211111006120/en/SoFi-to-Participate-in-Upcoming-Fourth-Quarter-Investor-Conferences)
+
+
+> November 11, 2021 04:58 PM Eastern Standard Time SAN FRANCISCO--(BUSINESS WIRE)--SoFi (NASDAQ: SOFI), a leading next-generation financial services platform, announced that it will participate in several upcoming fourth quarter investor conferences in November and December. SoFi's Chief Executive Officer, Anthony Noto, will participate in moderated fireside chat discussions at Citi's 2021 Virtual FinTech Conference, the 45th Nasdaq Virtual Investor Conference, in association with Morgan Stanley, and the 5th Annual Virtual Wells Fargo TMT Summit.
+
+
+***
+![Securing the cloud: What can we learn from some of the world's best CISOs](https://wp.technologyreview.com/wp-content/uploads/2021/11/MIT-Infosys_Blk_Lockup_Horiz.png?w=3000 "Securing the cloud: What can we learn from some of the world's best CISOs")
+
+
+[Securing the cloud: What can we learn from some of the world's best CISOs](https://www.technologyreview.com/2021/11/11/1039842/securing-the-cloud-what-can-we-learn-from-some-of-the-worlds-best-cisos/)
+
+
+> Thank you for joining us on "The cloud hub: From cloud chaos to cloud clarity." We hope you enjoy this article. Enterprises looking to accelerate their cloud journeys need to ensure the CISOs are part of the process of creating foundational building blocks because cybersecurity risks are at an all-time high. Click here to continue.
+
+
+***
+![Black Friday Sonos Arc Deals (2021): Best Early Sonos Smart Soundbar Savings Identified by The Consumer Post](https://mms.businesswire.com/media/20211111005161/en/835870/23/Black_Friday_2021_%28TCP%29.jpg "Black Friday Sonos Arc Deals (2021): Best Early Sonos Smart Soundbar Savings Identified by The Consumer Post")
+
+
+[Black Friday Sonos Arc Deals (2021): Best Early Sonos Smart Soundbar Savings Identified by The Consumer Post](https://www.businesswire.com/news/home/20211111005161/en/Black-Friday-Sonos-Arc-Deals-2021-Best-Early-Sonos-Smart-Soundbar-Savings-Identified-by-The-Consumer-Post)
+
+
+> November 11, 2021 04:55 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday Sonos Arc deals for 2021 are underway. Compare the top savings on Sonos smart soundbars. Links to the latest deals are listed below. Best Sonos Arc deals: Best Sonos Deals: In need of some more deals? We recommend checking Walmart's Black Friday sale and Amazon's Black Friday page to compare even more live offers available now. The Consumer Post earns commissions from purchases made using the links provided.
+
+
+***
+![Some Intel Alder Lake CPUs might not support PCIe 5.0 after all](https://cdn.mos.cms.futurecdn.net/sz9QqgFJQepF8fLVXJBACo-1200-80.jpg "Some Intel Alder Lake CPUs might not support PCIe 5.0 after all")
+
+
+[Some Intel Alder Lake CPUs might not support PCIe 5.0 after all](https://www.techradar.com/news/some-intel-alder-lake-cpus-might-not-support-pcie-50-after-all)
+
+
+> (Image credit: harukaze5719) Advanced, next-gen support for the new PCIe 5.0 standard is one of the major selling points of the new Intel Alder Lake processors, but a new photo from an Alder Lake reviewer indicates that not all Alder Lake chips will support the faster standard.The photo comes from Videocardz, who got it from an Alder Lake reviewer who also received an Asus Z690 motherboard to test the processor with. It appears to have been shipped in a box for an as-yet-unreleased Intel B660 motherboard though, and the info on the box shows it only supporting the current-gen PCIe 4.
+
+
