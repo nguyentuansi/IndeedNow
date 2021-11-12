@@ -30361,3 +30361,53 @@
 > 11 月 10 日，美國商用電動輕型卡車製造商 Lordstown Motors 與鴻海正式簽署俄亥俄州 Lordstown 廠房購買協議，帶動 Lordstown 股價 11 日跳漲 23.92%。但 Lordstown 後來以供應鏈問題為由，延後電動皮卡 Endurance 的上市時間，導致盤後股價反轉大跌逾 10%。 路透社、CNBC等外媒報導，Lordstown於11日美股盤後公布財報，2021年第三季營收0美元；淨損9,580萬美元，即每股虧損0.54美元，略低於分析師預期的每股虧損0.59美元。 （Source：Lordstown） Lordstown在財報中表示，第四季初已開始試產Endurance，但礙於零件材料短缺及其他供應鏈問題，預計將耽誤Endurance的量產和交車時程，從原定的2022年第二季延至2022年第三季。 根據Lordstown與鴻海達成的協議，Lordstown以2.3億美元出售俄州廠房與設備給鴻海，但不包括輪轂電機裝配線、電池模組和電池包資產；鴻海同意於11月18日前支付頭期款1億美元，並在2022年2月1日以及4月15日之前各支付5千萬美元。 Lordstown預計截至2021年底，公司現金餘額將介於1.
 
 
+***
+![DNB: 5G network discussions still ongoing, no sign-ups so far as RAO yet to be published](https://apicms.thestar.com.my/uploads/images/2021/11/12/1365439.jpg "DNB: 5G network discussions still ongoing, no sign-ups so far as RAO yet to be published")
+
+
+[DNB: 5G network discussions still ongoing, no sign-ups so far as RAO yet to be published](https://www.thestar.com.my/tech/tech-news/2021/11/12/dnb-5g-network-discussions-still-ongoing-no-sign-ups-so-far-as-rao-yet-to-be-published)
+
+
+> People using their mobile phones at a university in Semenyih, outside Kuala Lumpur, Malaysia. DNB was clarifying the facts following a recent article on the 5G rollout in Malaysia by Reuters, claiming none of the telcos have agreed to use the government's 5G network yet due to transparency and pricing issues. — Reuters KUALA LUMPUR: Digital Nasional Bhd (DNB) has clarified that its discussions on the 5G rollout with telcommunication providers (telcos) are still ongoing and there have been no sign-ups so far as the Reference Access Offer (RAO) has yet to be published.
+
+
+***
+![US drone startup plans drug deliveries to homes in Salt Lake City](https://apicms.thestar.com.my/uploads/images/2021/11/12/1365417.jpeg "US drone startup plans drug deliveries to homes in Salt Lake City")
+
+
+[US drone startup plans drug deliveries to homes in Salt Lake City](https://www.thestar.com.my/tech/tech-news/2021/11/12/us-drone-startup-plans-drug-deliveries-to-homes-in-salt-lake-city)
+
+
+> The company will be able to reach about 90% of homes in the Salt Lake City metro area with its drones, which navigate autonomously by satellite and drop payloads of up to four pounds by parachute, French said. — Zipline California drone startup Zipline plans to begin delivering medicine and other supplies to homes in Salt Lake City, Utah. The company, whose fixed-wing drones have been transporting medical supplies to rural clinics in Rwanda and Ghana since 2016, has signed a service agreement with Utah-based Intermountain Healthcare to make deliveries to its patients in the city.
+
+
+***
+![Leaders in Paris call for protecting children online](https://apicms.thestar.com.my/uploads/images/2021/11/12/1365391.jpg "Leaders in Paris call for protecting children online")
+
+
+[Leaders in Paris call for protecting children online](https://www.thestar.com.my/tech/tech-news/2021/11/12/leaders-in-paris-call-for-protecting-children-online)
+
+
+> PARIS: Internet giants, including social media apps Instagram, Facebook, Twitter and Snapchat, joined several world leaders to issue a global call to better protect children online at a Paris summit on Nov 11. The call, initiated by France and the UN child protection agency Unicef, acknowledges that 'in the digital environment, children can come across harmful and violent content and manipulation of information. Just like adults, children have rights to privacy, which should be respected.' The text also listed 'threats amplified by technology' including cyber bullying, sexual abuse, prostitution, human trafficking, sexual and gender-based violence or violent online radicalisation.
+
+
+***
+![Chinese state newspaper blasts ‘worship of turnover' after Alibaba's Singles Day](https://apicms.thestar.com.my/uploads/images/2021/11/12/1365368.jpg "Chinese state newspaper blasts ‘worship of turnover' after Alibaba's Singles Day")
+
+
+[Chinese state newspaper blasts ‘worship of turnover' after Alibaba's Singles Day](https://www.thestar.com.my/tech/tech-news/2021/11/12/chinese-state-newspaper-blasts-worship-of-turnover-after-alibabas-singles-day)
+
+
+> Securities Daily said the Singles' Day event had achieved many years of record breaking sales, but had also given rise to practices such as spam text messaging of users, unfair competition and merchants faking discounts. — Reuters SHANGHAI: The focus of China's Singles' Day shopping festival should shift from a 'traffic and sales war' to one of science and technology, a state-backed newspaper said on Nov 12, describing the 'worship of turnover' as incompatible with China's new development path. The article in the Securities Daily comes a day after the annual shopping blitz spearheaded by Alibaba Group, which recorded 540.
+
+
+***
+![Clart: the go-to app for water-poor Indians](https://apicms.thestar.com.my/uploads/images/2021/11/12/1365081.jpg "Clart: the go-to app for water-poor Indians")
+
+
+[Clart: the go-to app for water-poor Indians](https://www.thestar.com.my/tech/tech-news/2021/11/12/clart-the-go-to-app-for-water-poor-indians)
+
+
+> CHENNAI, India: Before Riki Emiyo scrolls through social media, he checks his smartphone for progress on water conservation projects – less fun, but of far more use as winter descends on his parched Indian village. 'Every year, when the monsoon rain stops, all the water disappears,' said Emiyo from Kairang village in the Jaintia hills of Meghalaya state in northeast India. 'So every day in winter, people travel a few kilometres to fill cans of water to see them through the dry winter months. We simply do not have water storage facilities and were clueless till the app simplified things for us.
+
+
