@@ -30301,3 +30301,33 @@
 > As Democrats struggle to bring together 50 votes to pass the Build Back Better Act, a major sticking point with the legislation has emerged. That is, whether it should include provisions changing the law to allow Medicare to negotiate drug prices, with caps on payments set based on prices paid by other wealthy nations. Concerns about such an extensive, centralized program are not unreasonable. On the other hand, patent reform is a market-friendly approach that embraces the benefits of competition and free entry to cut costs and better align the incentives for new drug development.
 
 
+***
+![Battle the algorithms: China's delivery riders on the edge](https://apicms.thestar.com.my/uploads/images/2021/11/11/1364699.jpg "Battle the algorithms: China's delivery riders on the edge")
+
+
+[Battle the algorithms: China's delivery riders on the edge](https://www.thestar.com.my/tech/tech-news/2021/11/12/battle-the-algorithms-chinas-delivery-riders-on-the-edge)
+
+
+> BEIJING: Handing over a piping hot meal at exactly the time promised, Chinese food delivery driver Zhuang Zhenhua triumphantly tapped his job as complete through the Meituan app – and was immediately fined half of his earnings. A glitch meant it inaccurately registered him as being late and he incurred an automatic penalty – one of many ways, he said, delivery firms exploit millions of workers even as the sector booms. Authorities have launched a crackdown demanding firms including Meituan and Alibaba's Ele.
+
+
+***
+![Marcus & Millichap Announces William A. Millichap Fellowship Program](https://apnews.com/images/PaidContent3.png "Marcus & Millichap Announces William A. Millichap Fellowship Program")
+
+
+[Marcus & Millichap Announces William A. Millichap Fellowship Program](https://apnews.com/press-release/business-wire/technology-business-careers-47b07f3d99054785b6427d1acee74284)
+
+
+> CALABASAS, Calif.--(BUSINESS WIRE)--Nov 11, 2021--Marcus & Millichap (NYSE: MMI), a leading commercial real estate brokerage firm specializing in investment sales, financing, research and advisory services, announced today the William A. Millichap Fellowship Program, a comprehensive two-year training and development program designed to prepare participants for rewarding careers in commercial real estate. The search for the inaugural cohort of Winter 2022 Fellows is currently underway.'This program epitomizes the late William A.
+
+
+***
+![Everything We Can Expect from Disney+ Day](https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/12/disney-plus-day.png?ar=16%3A9&auto=format&fit=crop&q=65&w=1200 "Everything We Can Expect from Disney+ Day")
+
+
+[Everything We Can Expect from Disney+ Day](https://www.gizmodo.com.au/2021/11/disney-plus-day-new-tv-shows-movies/)
+
+
+> Image: Disney It's Disney+ Day, sort-of. November 12 is Disney+ Day in the U.S. but given they're a little behind us, we won't see all of the magic until we wake up on Saturday. We know Shang-Chi and The Legend of The Ten Rings and Jungle Cruise will be available, but what else do we know? Disney+ Day is taking place on its launch anniversary – yep, it's been two whole years since the streaming service launched. Well, November 19, 2019 is when Aussie's got the streaming service, but it was only a week after the U.
+
+
