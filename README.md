@@ -30331,3 +30331,33 @@
 > Image: Disney It's Disney+ Day, sort-of. November 12 is Disney+ Day in the U.S. but given they're a little behind us, we won't see all of the magic until we wake up on Saturday. We know Shang-Chi and The Legend of The Ten Rings and Jungle Cruise will be available, but what else do we know? Disney+ Day is taking place on its launch anniversary – yep, it's been two whole years since the streaming service launched. Well, November 19, 2019 is when Aussie's got the streaming service, but it was only a week after the U.
 
 
+***
+![Spotify 收購 Findaway，市場將拓展至有聲書領域](https://img.technews.tw/wp-content/uploads/2021/11/12102048/Findaway.jpg "Spotify 收購 Findaway，市場將拓展至有聲書領域")
+
+
+[Spotify 收購 Findaway，市場將拓展至有聲書領域](https://technews.tw/2021/11/12/spotify-acquires-findaway/)
+
+
+> 11 月 12 日 Spotify 宣布收購有聲讀物服務和發行公司 Findaway。 Findaway經營多項業務，包括提供各平台有聲讀物，業務Findaway Voices下提供有聲讀物創作服務，將作者與敘述者配對形成組合。Findaway與眾多有聲書出版商都有合作，如亞馬遜Audible、蘋果iBooks、Google、Storytel，範圍涵蓋全球。Findaway還擁有Voices，可讓作者自己出版作品。這可能成為Spotify新收入來源。 2018年Spotify殺入Podcast市場執行一系列收購，預計今年底超越蘋果成為最大Podcast提供商。Spotify似乎想複製Podcast領域的成功經驗，再賺一桶金。之前Spotify與瑞典有聲書串流媒體公司Storytel合作，讓訂閱者收聽有聲書。還推出Open Access Platform平台，方便出版商將內容變成串流軟體格式。 最新季Spotify月活躍用戶達3.81億，增加19%，營收約25億歐元（約28.7億美元）。據Omdia報告，全球有聲書市場預計2026年前達93億美元，2020年只有40億美元。 Spotif
+
+
+***
+![Scientists think they've found a lost piece of the moon orbiting the Earth](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQBQL4.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Scientists think they've found a lost piece of the moon orbiting the Earth")
+
+
+[Scientists think they've found a lost piece of the moon orbiting the Earth](https://www.cnet.com/news/scientists-think-theyve-found-a-lost-piece-of-the-moon-orbiting-the-earth/)
+
+
+> Every April, for a fleeting few weeks, the faint glow of a near-Earth asteroid curiously shimmers on scientists' telescopes. Religiously catching the annual event, a group of astronomers pieced together a surprising revelation about the little shard: It doesn't appear to be any old space rock. It looks like a broken piece of the moon.  © Provided by CNET An artist's impression of Earth quasi-satellite Kamo`oalewa near the Earth-moon system. Astronomers using the Large Binocular Telescope have shown that it might be a lost fragment of the moon.
+
+
+***
+![鴻海隊友 Lordstown 電動皮卡上市延宕，今年股價崩 65%](https://img.technews.tw/wp-content/uploads/2021/11/12094819/Lordstown-Motors-e1636681707636.jpg "鴻海隊友 Lordstown 電動皮卡上市延宕，今年股價崩 65%")
+
+
+[鴻海隊友 Lordstown 電動皮卡上市延宕，今年股價崩 65%](https://finance.technews.tw/2021/11/12/lordstown-stock-price-down/)
+
+
+> 11 月 10 日，美國商用電動輕型卡車製造商 Lordstown Motors 與鴻海正式簽署俄亥俄州 Lordstown 廠房購買協議，帶動 Lordstown 股價 11 日跳漲 23.92%。但 Lordstown 後來以供應鏈問題為由，延後電動皮卡 Endurance 的上市時間，導致盤後股價反轉大跌逾 10%。 路透社、CNBC等外媒報導，Lordstown於11日美股盤後公布財報，2021年第三季營收0美元；淨損9,580萬美元，即每股虧損0.54美元，略低於分析師預期的每股虧損0.59美元。 （Source：Lordstown） Lordstown在財報中表示，第四季初已開始試產Endurance，但礙於零件材料短缺及其他供應鏈問題，預計將耽誤Endurance的量產和交車時程，從原定的2022年第二季延至2022年第三季。 根據Lordstown與鴻海達成的協議，Lordstown以2.3億美元出售俄州廠房與設備給鴻海，但不包括輪轂電機裝配線、電池模組和電池包資產；鴻海同意於11月18日前支付頭期款1億美元，並在2022年2月1日以及4月15日之前各支付5千萬美元。 Lordstown預計截至2021年底，公司現金餘額將介於1.
+
+
