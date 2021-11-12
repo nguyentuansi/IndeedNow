@@ -30531,3 +30531,33 @@
 > WhatsApp adding friendly status privacy, at last! The latest update to WhatsApp gives every user the ability to hide or show status information on a per-user basis. Before now, users were only able to show their status to everyone, nobody at all, or all of their contacts. Now there's a 'my contacts except…' option – for those people who you want on your contacts list, but with whom you do not want to share all your at all times. This update for WhatsApp appeared first in Beta mode. If you're hoping to gain access to the ability to share your status with some, but not all contacts, you might want to take a peek at the Beta version of WhatsApp first.
 
 
+***
+![Facebook suppressing report on hate speech probe in India: WSJ](https://img.dtnext.in/Articles/2021/Nov/202111122255508865_Facebook-suppressing-report-on-hate-speech-probe-in-India_SECVPF.gif "Facebook suppressing report on hate speech probe in India: WSJ")
+
+
+[Facebook suppressing report on hate speech probe in India: WSJ](https://www.dtnext.in/Lifestyle/Technology/2021/11/12225551/1328540/Facebook-suppressing-report-on-hate-speech-probe-in-.vpf)
+
+
+> Published: Nov 12,202110:55 PM Facebook (now called Meta) is stifling an independent report it commissioned to probe hate speech on its platforms in India, the Wall Street Journal reported on Friday citing human rights groups. New Delhi: The human rights team at Facebook, which is facing intense scrutiny worldwide, including in India, has reportedly "narrowed the draft report's scope and are delaying a process that has already taken more than a year, the groups say".According to independent human rights groups, they have provided extensive input to a US law firm that Facebook commissioned in mid-2020 to undertake the report.
+
+
+***
+![New Bill Requires Automakers to Development Drunk Driving Prevention Tech](https://images.tmcnet.com/tmc/misc/articles/image/2021-nov/8251344248-AdobeStock_146089786_drunk_driving_SMALL.jpg "New Bill Requires Automakers to Development Drunk Driving Prevention Tech")
+
+
+[New Bill Requires Automakers to Development Drunk Driving Prevention Tech](https://www.techzone360.com/topics/techzone/articles/2021/11/12/450630-new-bill-requires-automakers-development-drunk-driving-prevention.htm)
+
+
+> The fact that drunk driving is still a common occurrence in 2021 is, frankly, depressing, especially when one considers the resources available (Uber,Lyft) which can easily reduce these cases. As if having a readily available solution to this problem wasn't enough, the media regularly publishes stories about fatal drunk driving accidents, which alone should make people aware of the consequences of such action. After decades of continued instances and lack of progress on the matter, the government is attempting to resolve drunk driving once and for all.
+
+
+***
+![Google's entry into navigation services space to shake up industry](https://img.dtnext.in/Articles/2021/Nov/202111122155169464_Googles-entry-into-navigation-services-space-to-shake-up_SECVPF.gif "Google's entry into navigation services space to shake up industry")
+
+
+[Google's entry into navigation services space to shake up industry](https://www.dtnext.in/Lifestyle/Technology/2021/11/12215517/1328531/Googles-entry-into-navigation-services-space-to-shake-.vpf)
+
+
+> The entry of Google into the original equipment manufacturers' (OEM) navigation and location-based services space is set to change the market dynamics of the segment, a new report has said. San Francisco: The rapid adoption of Google's Android Automotive Operating System (AAOS) by OEMs and the default inclusion of Google Maps on the platform gives the already popular service an even greater strategic advantage.According to market research firm Strategy Analytics, the transition of Android from simply a smartphone projection solution to a full embedded operating system has really shaken up the infotainment and navigation segment.
+
+
