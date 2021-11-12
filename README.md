@@ -30511,3 +30511,23 @@
 > FILE PHOTO: A worker adjusts a hoarding of Paytm, a digital payments firm, in Ahmedabad, India, January 31, 2019. REUTERS/Amit Dave/File Photo NEW DELHI (Reuters) - Indian electronics engineer Siddharth Pandey will become a millionaire after the country's biggest ever public issue, but he says he had to overcome his father's opposition to join fintech firm Paytm when it was a fledgling start-up nine years ago.About 350 current and ex-employees will each have a net worth of at least 10 million Indian rupees ($134,401.
 
 
+***
+![Rockstar offline: What's wrong with the GTA Trilogy on PC?](https://cdn.slashgear.com/wp-content/uploads/2021/11/GTA-Remaster.jpg "Rockstar offline: What's wrong with the GTA Trilogy on PC?")
+
+
+[Rockstar offline: What's wrong with the GTA Trilogy on PC?](https://www.slashgear.com/rockstar-offline-whats-wrong-with-the-gta-trilogy-on-pc-12699133/)
+
+
+> It's been a weird 24 hours for those who purchased Grand Theft Auto: The Trilogy – The Definitive Edition on PC. The game launched yesterday on PS4, PS5, Xbox One, Xbox Series X|S, PC, and Nintendo Switch, but it wasn't long before Rockstar pulled the game from sale on PC and disabled the Rockstar Games Launcher on the platform. With long periods of silence from Rockstar, it's been difficult to figure out just what is happening – or when the trilogy will return. The case of the vanishing GTA games If you head over to the Rockstar website at the moment, you'll see that the PC version of Grand Theft Auto: The Trilogy – The Definitive Edition is no longer up for sale.
+
+
+***
+![WhatsApp adding friendly status privacy, at last!](https://cdn.slashgear.com/wp-content/uploads/2021/11/whatsappupdate.jpg "WhatsApp adding friendly status privacy, at last!")
+
+
+[WhatsApp adding friendly status privacy, at last!](https://www.slashgear.com/whatsapp-adding-friendly-status-privacy-at-last-12699135)
+
+
+> WhatsApp adding friendly status privacy, at last! The latest update to WhatsApp gives every user the ability to hide or show status information on a per-user basis. Before now, users were only able to show their status to everyone, nobody at all, or all of their contacts. Now there's a 'my contacts except…' option – for those people who you want on your contacts list, but with whom you do not want to share all your at all times. This update for WhatsApp appeared first in Beta mode. If you're hoping to gain access to the ability to share your status with some, but not all contacts, you might want to take a peek at the Beta version of WhatsApp first.
+
+
