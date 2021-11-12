@@ -30451,3 +30451,13 @@
 > Everything the author tried to confine the cat worked for a little while but eventually failed as he found a way past the newest security barrier – just as hackers eventually find their way through the cybersecurity barriers erected to stop them. — Photo by Catherine Heath on Unsplash The news today often contains reports about cybersecurity breaches that steal our data or threaten our national security. The US spends billions of dollars on cybersecurity measures, and yet we seem unable to get ahead of this problem.
 
 
+***
+![Amazon sued over crashes by drivers rushing to make deliveries](https://apicms.thestar.com.my/uploads/images/2021/11/12/1366035.jpg "Amazon sued over crashes by drivers rushing to make deliveries")
+
+
+[Amazon sued over crashes by drivers rushing to make deliveries](https://www.thestar.com.my/tech/tech-news/2021/11/12/amazon-sued-over-crashes-by-drivers-rushing-to-make-deliveries)
+
+
+> Ans Rana was in the back seat of his brother's Tesla Model S when they stopped behind a disabled car just before 9pm on Atlanta's busy Interstate 75. Seconds later, a blue Amazon.com Inc delivery van slammed into them from behind – mangling the rear of the car and sending Rana, his brother and father to Wellstar Kennestone Hospital. Rana bore the brunt of the collision, suffering life-changing brain and spinal-cord injuries. The 24-year-old spent months clinging to life, a ventilator helping him breathe, his family unsure if he'd ever leave the hospital.
+
+
