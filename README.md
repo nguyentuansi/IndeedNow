@@ -30561,3 +30561,43 @@
 > The entry of Google into the original equipment manufacturers' (OEM) navigation and location-based services space is set to change the market dynamics of the segment, a new report has said. San Francisco: The rapid adoption of Google's Android Automotive Operating System (AAOS) by OEMs and the default inclusion of Google Maps on the platform gives the already popular service an even greater strategic advantage.According to market research firm Strategy Analytics, the transition of Android from simply a smartphone projection solution to a full embedded operating system has really shaken up the infotainment and navigation segment.
 
 
+***
+![Math Facts – Try Some Fun Ways to Learn Them](https://i1.wp.com/recentlyheard.com/wp-content/uploads/2020/09/other-ingredients-3517150_1280.jpg "Math Facts – Try Some Fun Ways to Learn Them")
+
+
+[Math Facts – Try Some Fun Ways to Learn Them](https://recentlyheard.com/2021/11/13/math-facts-try-some-fun-ways-to-learn-them/)
+
+
+> As a teacher for 11 years and middle-school math teaching consultant, I've seen a wide array of different math programs and classes. I'm sharing here the 10 best teaching tips I've compiled over the years. 1. Provide compelling content to study. Years ago, a colleague I was working with said, 'Maybe class can be fun, but I can't make class compelling. I have to teach math!' It's an assumption worth exploring. Take Ron Berger's middle-school math project to study levels radon in their own homes. Studying radon is boring.
+
+
+***
+![10 Tips For Teaching Middle School Math](https://i1.wp.com/recentlyheard.com/wp-content/uploads/2020/09/other-ingredients-3517150_1280.jpg "10 Tips For Teaching Middle School Math")
+
+
+[10 Tips For Teaching Middle School Math](https://recentlyheard.com/2021/11/13/10-tips-for-teaching-middle-school-math/)
+
+
+> As a teacher for 11 years and middle-school math teaching consultant, I've seen a wide array of different math programs and classes. I'm sharing here the 10 best teaching tips I've compiled over the years. 1. Provide compelling content to study. Years ago, a colleague I was working with said, 'Maybe class can be fun, but I can't make class compelling. I have to teach math!' It's an assumption worth exploring. Take Ron Berger's middle-school math project to study levels radon in their own homes. Studying radon is boring.
+
+
+***
+![This new iPhone Face ID feature Apple's testing seems like science fiction](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAOUOyX.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "This new iPhone Face ID feature Apple's testing seems like science fiction")
+
+
+[This new iPhone Face ID feature Apple's testing seems like science fiction](https://bgr.com/tech/this-new-iphone-face-id-feature-apples-testing-seems-like-science-fiction/)
+
+
+> © Provided by BGR iPhone Face ID Face ID is the most sophisticated biometrics authentication method available on smartphones and tablets. Introduced with the iPhone X in 2017, Face ID is available on all iPhone and iPad flagships. That means it's on every iPhone except for the SE, and all the iPad Pros. Only a few of Apple's rivals attempted to replicate the 3D face recognition system contained within the iPhone's notch design. Huawei, LG, and Google are among those who tried to release real Face ID alternatives.
+
+
+***
+![Tech firms, startups shifting benefits to attract more workers and keep star staff](https://infotel.ca/favicon.ico?v=1 "Tech firms, startups shifting benefits to attract more workers and keep star staff")
+
+
+[Tech firms, startups shifting benefits to attract more workers and keep star staff](https://infotel.ca/newsitem/tech-retention/cp895298646)
+
+
+> Tech firms, startups shifting benefits to attract more workers and keep star staff Raphael Bouskila is shown in this handout image. Bouskila's company Mako Fintech, began offering staff unlimited vacation days during the pandemic. It also started giving employees in their first year $1,000 to be spent on their home offices. Workers in subsequent years get $300 annually. THE CANADIAN PRESS/HO-Mako Fintech *MANDATORY CREDIT* TORONTO - Tech companies used to boast about their modern offices with gyms, fully-stocked kitchens and even bowling alleys.
+
+
