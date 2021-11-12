@@ -30481,3 +30481,33 @@
 > In the September quarter of this year, Airtel Payments Bank (APB) turned profitable.Now, it plans to double its business correspondents network across the country and drive monetisation via a combination of internet-based income and transactions.Also, it will boost revenues from cash management services in the B2B segment, revealed senior industry executives familiar with the matter.In the September quarter of this year, Airtel Payments Bank (APB) turned profitable. Now, it plans to double its business correspondents network across the country and drive monetisation via a combination of internet-based income and transactions apart from boosting revenues from cash management services in the B2B segment, revealed senior industry executives familiar with the matter.
 
 
+***
+![Radford Lotus Type 62-2 has a retro-modern interior by Bremont](https://cdn.slashgear.com/wp-content/uploads/2021/11/lotus-type-62-2-coachbuilt-by-radford-1280x720.v2.jpg "Radford Lotus Type 62-2 has a retro-modern interior by Bremont")
+
+
+[Radford Lotus Type 62-2 has a retro-modern interior by Bremont](https://www.slashgear.com/radford-lotus-type-62-2-has-a-retro-modern-interior-by-bremont-12699099/)
+
+
+> British automaker Radford has released a few images of the Lotus Type 62-2's interior. And like the car itself, the cabin is a sight to behold. Radford collaborated with British luxury watchmaker Bremont in creating a retro-modern interior harking back to classic Lotus racing cars. And without mincing words, we like it a lot. Inside the Radford Lotus Type 62-2 is a meaty three-spoke steering wheel. If you look closer, the spokes are carbon fiber as the rest of the car. You'll also find a carbon fiber center console housing a shift lever with exposed linkages like in a Pagani Huayra.
+
+
+***
+![Near-Earth asteroid Kamo`oalewa might be an ancient fragment of the moon](https://cdn.slashgear.com/wp-content/uploads/2021/11/moon-asteroid.jpg "Near-Earth asteroid Kamo`oalewa might be an ancient fragment of the moon")
+
+
+[Near-Earth asteroid Kamo`oalewa might be an ancient fragment of the moon](https://www.slashgear.com/near-earth-asteroid-kamooalewa-might-be-an-ancient-fragment-of-the-moon-12699126/)
+
+
+> Researchers from the University of Arizona published a new study suggesting a near-Earth asteroid called Kamo`oalewa might be a moon fragment. The asteroid is a quasi-satellite, which is a group of near-Earth asteroids that orbit the sun close to Earth. Researchers know very little about this class of objects overall because they are very faint and hard to observe. Astronomers utilizing the PanSTAARS telescope in 2016 discovered Kamo`oalewa and chose its name. The name comes from a Hawaiian creation chant and suggests offspring that travels alone.
+
+
+***
+![Paytm's $2.5 billion IPO mints new millionaires in India](https://apicms.thestar.com.my/uploads/images/2021/11/12/1365909.jpg "Paytm's $2.5 billion IPO mints new millionaires in India")
+
+
+[Paytm's $2.5 billion IPO mints new millionaires in India](https://www.thestar.com.my/tech/tech-news/2021/11/12/paytm039s-25-billion-ipo-mints-new-millionaires-in-india)
+
+
+> FILE PHOTO: A worker adjusts a hoarding of Paytm, a digital payments firm, in Ahmedabad, India, January 31, 2019. REUTERS/Amit Dave/File Photo NEW DELHI (Reuters) - Indian electronics engineer Siddharth Pandey will become a millionaire after the country's biggest ever public issue, but he says he had to overcome his father's opposition to join fintech firm Paytm when it was a fledgling start-up nine years ago.About 350 current and ex-employees will each have a net worth of at least 10 million Indian rupees ($134,401.
+
+
