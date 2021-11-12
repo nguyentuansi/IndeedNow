@@ -30461,3 +30461,23 @@
 > Ans Rana was in the back seat of his brother's Tesla Model S when they stopped behind a disabled car just before 9pm on Atlanta's busy Interstate 75. Seconds later, a blue Amazon.com Inc delivery van slammed into them from behind – mangling the rear of the car and sending Rana, his brother and father to Wellstar Kennestone Hospital. Rana bore the brunt of the collision, suffering life-changing brain and spinal-cord injuries. The 24-year-old spent months clinging to life, a ventilator helping him breathe, his family unsure if he'd ever leave the hospital.
 
 
+***
+![Xiaomi Dominates Smartphone Shipments in India in Q3 2021: Report](https://telecomtalk.info/wp-content/uploads/2021/11/xiaomi-smartphone-shipments-india-q3-2021-report.jpg "Xiaomi Dominates Smartphone Shipments in India in Q3 2021: Report")
+
+
+[Xiaomi Dominates Smartphone Shipments in India in Q3 2021: Report](https://telecomtalk.info/xiaomi-smartphone-shipments-india-q3-2021-report/478871/)
+
+
+> India was the third-largest 5G smartphone market in the world accounting for a shipment of 7 percent.There was a 12 percent year-on-year decline in the smartphone market in India during the third quarter of this year that ended in September.Xiaomi registered a decline in the overall shipments in the country. However, the company also secured the maximum market share.The research firm IDC (International Data Corporation) has reported that there was a 12% year-on-year decline in the smartphone market in India during the third quarter of this year that ended in September.
+
+
+***
+![Airtel Payments Bank Poised to Grow Further in the Next Year](https://telecomtalk.info/wp-content/uploads/2021/11/airtel-payments-bank-grow-plans-one-year.jpg "Airtel Payments Bank Poised to Grow Further in the Next Year")
+
+
+[Airtel Payments Bank Poised to Grow Further in the Next Year](https://telecomtalk.info/airtel-payments-bank-grow-plans-one-year/478850/)
+
+
+> In the September quarter of this year, Airtel Payments Bank (APB) turned profitable.Now, it plans to double its business correspondents network across the country and drive monetisation via a combination of internet-based income and transactions.Also, it will boost revenues from cash management services in the B2B segment, revealed senior industry executives familiar with the matter.In the September quarter of this year, Airtel Payments Bank (APB) turned profitable. Now, it plans to double its business correspondents network across the country and drive monetisation via a combination of internet-based income and transactions apart from boosting revenues from cash management services in the B2B segment, revealed senior industry executives familiar with the matter.
+
+
