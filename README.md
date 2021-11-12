@@ -30411,3 +30411,43 @@
 > CHENNAI, India: Before Riki Emiyo scrolls through social media, he checks his smartphone for progress on water conservation projects – less fun, but of far more use as winter descends on his parched Indian village. 'Every year, when the monsoon rain stops, all the water disappears,' said Emiyo from Kairang village in the Jaintia hills of Meghalaya state in northeast India. 'So every day in winter, people travel a few kilometres to fill cans of water to see them through the dry winter months. We simply do not have water storage facilities and were clueless till the app simplified things for us.
 
 
+***
+![Drones ferry Pfizer's precious, deep-frozen vaccine to Africa's remote villages](https://apicms.thestar.com.my/uploads/images/2021/11/12/1365633.jpeg "Drones ferry Pfizer's precious, deep-frozen vaccine to Africa's remote villages")
+
+
+[Drones ferry Pfizer's precious, deep-frozen vaccine to Africa's remote villages](https://www.thestar.com.my/tech/tech-news/2021/11/12/drones-ferry-pfizers-precious-deep-frozen-vaccine-to-africas-remote-villages)
+
+
+> Over the dense forests and cocoa farms of Ghana's Ashanti region, a fleet of drones hummed en route to the African country's central Bosomtwe District. Upon reaching their destination Sunday, the red-and-white aircraft parachuted thermal packages containing cargo that's long been awaited by the local Kokodei community: vials of Pfizer Inc's Covid-19 vaccine. In the coming days, these drones will shuttle tens of thousands of the shots developed by Pfizer and its partner BioNTech SE to some of Ghana's most rugged, remote countryside as part of an effort to provide more equitable access to doses.
+
+
+***
+![Cybercriminals sensing opportunities in lockdowns, warns Europol](https://apicms.thestar.com.my/uploads/images/2021/11/12/1365507.jpeg "Cybercriminals sensing opportunities in lockdowns, warns Europol")
+
+
+[Cybercriminals sensing opportunities in lockdowns, warns Europol](https://www.thestar.com.my/tech/tech-news/2021/11/12/cybercriminals-sensing-opportunities-in-lockdowns-warns-europol)
+
+
+> Hackers are taking advantage of the fact that more people are working from home and directing attacks at corporate networks in a bid to force them to pay ransoms. Additionally, scam artists are taking advantage of fears of coronavirus infection. — Dreamstime/TNS Cybercrime has surged in Europe as criminals exploit opportunities presented by the coronavirus pandemic, said Europol in a report on Internet crime trends released on Nov 11. Hackers are taking advantage of the fact that more people are working from home and directing attacks at corporate networks in a bid to force them to pay ransoms.
+
+
+***
+![YouTube users really dislike plans to hide the dislike count](https://apicms.thestar.com.my/uploads/images/2021/11/12/1365484.jpg "YouTube users really dislike plans to hide the dislike count")
+
+
+[YouTube users really dislike plans to hide the dislike count](https://www.thestar.com.my/tech/tech-news/2021/11/12/youtube-users-really-dislike-plans-to-hide-the-dislike-count)
+
+
+> YouTube's own post announcing plans to hide dislike counts was itself disliked 33,000 times, getting more than four times the number of likes. — AFP Relaxnews YouTube's 'dislike' count – long a warning that a video might be disputed or poorly produced – is being turned off, in a controversial move that the company says is designed to protect content creators from abuse. The Google platform says it will no longer show how many negative ratings a video has received in an effort to create an 'inclusive and respectful environment'.
+
+
+***
+![Opinion: What a house cat can teach us about cybersecurity](https://apicms.thestar.com.my/uploads/images/2021/11/12/1365423.jpeg "Opinion: What a house cat can teach us about cybersecurity")
+
+
+[Opinion: What a house cat can teach us about cybersecurity](https://www.thestar.com.my/tech/tech-news/2021/11/12/opinion-your-cat-could-teach-you-a-thing-or-two-about-cybersecurity)
+
+
+> Everything the author tried to confine the cat worked for a little while but eventually failed as he found a way past the newest security barrier – just as hackers eventually find their way through the cybersecurity barriers erected to stop them. — Photo by Catherine Heath on Unsplash The news today often contains reports about cybersecurity breaches that steal our data or threaten our national security. The US spends billions of dollars on cybersecurity measures, and yet we seem unable to get ahead of this problem.
+
+
