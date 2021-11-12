@@ -30251,3 +30251,53 @@
 > (Image credit: harukaze5719) Advanced, next-gen support for the new PCIe 5.0 standard is one of the major selling points of the new Intel Alder Lake processors, but a new photo from an Alder Lake reviewer indicates that not all Alder Lake chips will support the faster standard.The photo comes from Videocardz, who got it from an Alder Lake reviewer who also received an Asus Z690 motherboard to test the processor with. It appears to have been shipped in a box for an as-yet-unreleased Intel B660 motherboard though, and the info on the box shows it only supporting the current-gen PCIe 4.
 
 
+***
+![Prime Video app gets clip-sharing feature, but only on iOS](https://cdn.slashgear.com/wp-content/uploads/2021/11/amazon-prime-video-clip-sharing-tool.jpg "Prime Video app gets clip-sharing feature, but only on iOS")
+
+
+[Prime Video app gets clip-sharing feature, but only on iOS](https://www.slashgear.com/prime-video-app-gets-clip-sharing-feature-but-only-on-ios-11699066/)
+
+
+> Amazon has launched a new smart video clipping tool for its Prime Video platform, enabling its subscribers to indirectly promote the company's content by sharing their favorite scenes on social media. The feature covers Amazon Originals and is limited to customers in the US — and, for a time at least, to users who watch Prime Video on iOS. The new Prime Video feature is powered by Amazon's X-Ray technology. Assuming you're watching an Amazon Original show via the company's Prime Video iOS app, you can tap the screen to pull up the X-Ray view.
+
+
+***
+![Patreon is making it easier for video creators to use its platform](https://cdn.slashgear.com/wp-content/uploads/2021/11/patreon-video-feature-platform-details.jpg "Patreon is making it easier for video creators to use its platform")
+
+
+[Patreon is making it easier for video creators to use its platform](https://www.slashgear.com/patreon-is-making-it-easier-for-video-creators-to-use-its-platform-11699063/)
+
+
+> Patreon is a solid platform for creators who want to directly market their products to fans and customers, such as artists who provide special content only for paid subscribers. However, the platform has historically been a less-than-great option for creators who primarily produce video content, making it tricky to offer exclusives to their patrons. monticello/Shutterstock At its core, Patreon is simply a platform where anyone can launch their own page to share content with other people. The platform has a built-in subscription feature that makes it possible to charge patrons a certain amount per month.
+
+
+***
+![New AirPods worth the upgrade? Talking Tech podcast](https://static-entertainment-eus-s-msn-com.akamaized.net/sc/c6/519670.jpg "New AirPods worth the upgrade? Talking Tech podcast")
+
+
+[New AirPods worth the upgrade? Talking Tech podcast](https://www.usatoday.com/story/tech/2021/11/11/new-airpods-worth-upgrade-talking-tech-pocast/6384095001/)
+
+
+> Hit play on the player above to hear the podcast and follow along with the transcript below. This transcript was automatically generated, and then edited for clarity in its current form. There may be some differences between the audio and the text. Load Error More: Daily news, true crime, and more USA TODAY podcasts Hey there listeners, it's Brett Molina. Welcome back to Talking Tech. So who would've thought five years ago that Apple would've started this whole new industry of wireless earbuds with the introduction of AirPods? I guess in a way it's not surprising because it kicked off the smartphone generation with the iPhone, they helped push tablets with the iPad, and of course, five years ago, when they talked about having the courage to get rid of the headphones Jack on all future iPhones, that it would bring forth the AirPods, which have become the dominant wireless earbud.
+
+
+***
+![Google Pixel 6 Black Friday Deals (2021): Early Unlocked & Carrier-Locked Pixel 6 & 6 Pro Deals Reported by The Consumer Post](https://mms.businesswire.com/media/20211111005208/en/835870/23/Black_Friday_2021_%28TCP%29.jpg "Google Pixel 6 Black Friday Deals (2021): Early Unlocked & Carrier-Locked Pixel 6 & 6 Pro Deals Reported by The Consumer Post")
+
+
+[Google Pixel 6 Black Friday Deals (2021): Early Unlocked & Carrier-Locked Pixel 6 & 6 Pro Deals Reported by The Consumer Post](https://www.businesswire.com/news/home/20211111005208/en/Google-Pixel-6-Black-Friday-Deals-2021-Early-Unlocked-Carrier-Locked-Pixel-6-6-Pro-Deals-Reported-by-The-Consumer-Post)
+
+
+> November 11, 2021 07:10 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Find the latest early Google Pixel 6 deals for Black Friday 2021, together with all the top Pixel Pro 6 in 128GB, 256GB & 512GB storage model offers. Browse the best deals using the links below. Best Google Pixel 6 deals: Best Google Pixel 6 Pro Deals: Best Google Pixel Deals: Best Cell Phone Deals: Save up to 80% off on a wide range of Samsung Galaxy, iPhone, Pixel, LG & more top-rated smartphones at AT&T.com - check out the latest deals on flagship & budget-friendly smartphones from Apple iPhone, Samsung Galaxy, Google Pixel, OnePlus & more top brands, including trade in options Save up to 60% off on Apple iPhone (13, 12, SE), Pixel 6, Galaxy S21 & more flagship smartphones at Verizon - check Verizon's live trade in deals on a wide range of top-rated smartphones Save up to 63% on a wide range of prepaid & no contract phones at StraightTalk.
+
+
+***
+![Drug Price Negotiation Is A Second-Best Fix. Here's What Will Really Work](https://ii.techdirt.com/s/t/i/td_icon_300.png "Drug Price Negotiation Is A Second-Best Fix. Here's What Will Really Work")
+
+
+[Drug Price Negotiation Is A Second-Best Fix. Here's What Will Really Work](https://www.techdirt.com/articles/20211110/23350447919/drug-price-negotiation-is-second-best-fix-heres-what-will-really-work.shtml)
+
+
+> As Democrats struggle to bring together 50 votes to pass the Build Back Better Act, a major sticking point with the legislation has emerged. That is, whether it should include provisions changing the law to allow Medicare to negotiate drug prices, with caps on payments set based on prices paid by other wealthy nations. Concerns about such an extensive, centralized program are not unreasonable. On the other hand, patent reform is a market-friendly approach that embraces the benefits of competition and free entry to cut costs and better align the incentives for new drug development.
+
+
