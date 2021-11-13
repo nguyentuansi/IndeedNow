@@ -30681,3 +30681,33 @@
 > November 12, 2021 10:55 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our round-up of the top early Samsung 55 & 50 Inch TV deals for Black Friday, featuring all the latest deals on Samsung The Frame, Crystal UHD & more. Browse the best deals by clicking the links below. Best Samsung 55 & 50 Inch TV deals: Best Samsung TV Deals: Best TV Deals: Save up to 20% off on top-rated 4K TVs from Samsung, LG, Vizio, TCL & more top brands at Walmart - check latest deals on 4K Ultra HD, LED and smart TVs Save up to 20% off on the latest smart TVs (2020 models) at Walmart - get the latest deals on top-rated smart TVs from top brands including Samsung, LG, Sony, Hisense, & more Save up to $160 on a wide range of smart TV & 4K TVs at Amazon - check live prices on top-rated Smart TVs with 32, 40, 50, 55, 60-inch & more screen sizes Save up to $802 on Samsung TV models from 32 to 85 inches at Walmart - check live prices on Samsung Smart LED, QLED, and UHD models including the stylish Frame QLED Smart TV Save up to 32% on LG TVs including deals on bundles at Walmart - check the latest deals on LG smart TVs in all sizes including 4K UHD models Save up to 43% on a wide range of TCL TVs & smart TVs at Walmart - check out live deals on best-selling TCL smart TVs Looking for more deals? Check out Walmart's Black Friday deals and Amazon's Black Friday page to compare thousands more active deals right now.
 
 
+***
+![PS5, Xbox, Switch: why a new console is so hard to find right now](https://apicms.thestar.com.my/uploads/images/2021/11/13/1366582.jpeg "PS5, Xbox, Switch: why a new console is so hard to find right now")
+
+
+[PS5, Xbox, Switch: why a new console is so hard to find right now](https://www.thestar.com.my/tech/tech-news/2021/11/13/ps5-xbox-switch-why-a-new-console-is-so-hard-to-find-right-now)
+
+
+> Buying a current games console is currently a rather frustrating affair. The demand is too great, the supply too scarce. There is no improvement in sight - at least not before Christmas. — dpa Long queues, overstretched online stores, frustrated customers: It's all part of the game when it comes to the sales launches of hotly sought-after new consoles. However, with Sony's PlayStation 5 and Microsoft's Xbox Series X, it's a permanent state of affairs. Since the sales launch almost a year ago, it's been virtually impossible to buy the devices and that doesn't look like it's going to change any time soon.
+
+
+***
+![Technological change and domestic outsourcing](https://assets.oecdcode.org/covers/1000~social/g27270e7.jpg "Technological change and domestic outsourcing")
+
+
+[Technological change and domestic outsourcing](https://www.oecd.org/publications/technological-change-and-domestic-outsourcing-e3b226da-en.htm)
+
+
+> Technological change and domestic outsourcing Domestic outsourcing has grown substantially in developed countries over the past two decades. This paper addresses the question of the technological drivers of this phenomenon by studying the impact of the staggered diffusion of broadband internet in France during the 2000s. Our results confirm that broadband technology increases firm productivity and the relative demand for high-skill workers. Further, we show that broadband internet led firms to outsource some non-core occupations to service contractors, both in the low and high-skill segments.
+
+
+***
+![Jigyasa Prashar, Author at TechStory](https://secure.gravatar.com/avatar/f5cb36161b2ae9f6da4024407546cac2?s=500&d=retro&r=g "Jigyasa Prashar, Author at TechStory")
+
+
+[Jigyasa Prashar, Author at TechStory](https://techstory.in/author/jigyasa/)
+
+
+> Techstory.in is a website about exciting startup stories and inspiring entrepreneur journeys. We believe in hailing the CHANGEMAKERS who disrupt industries and take us forward.
+
+
