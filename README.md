@@ -30902,3 +30902,33 @@
 > November 13, 2021 02:55 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday Apple HomePod deals for 2021 are underway. Review the latest offers on HomePod mini. Links to the latest deals are listed below. Best Apple HomePod Deals: Searching for more deals? Click here to shop the entire range of active deals at Walmart's Black Friday sales event and click here to browse Amazon's latest Black Friday deals. Deal Stripe earns commissions from purchases made using the links provided.
 
 
+***
+![Hacker sends spam to 100,000 from FBI email address](https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-11/211113-fbi-seal-se-329p-de003d.jpg "Hacker sends spam to 100,000 from FBI email address")
+
+
+[Hacker sends spam to 100,000 from FBI email address](https://www.nbcnews.com/tech/security/hacker-takes-fbi-email-server-blasts-spam-thousands-rcna5530)
+
+
+> An apparently malicious hacker sent spam emails from an FBI email server Friday night to at least 100,000 people, an email spam watchdog group has found.The person's motives are unknown, and it was not immediately clear the extent to which the hacker gained access to the FBI's email system. The email message was a bizarre, technically incoherent warning that made reference to cybersecurity writer Vinny Troia as well as a cybercriminal group called The Dark Overlord. Troia's company, Night Lion Security, published research on The Dark Overlord in January.
+
+
+***
+![Sonos Move Black Friday Deals 2021: Top Early Sonos Smart Speaker Savings Tracked by Saver Trends](https://mms.businesswire.com/media/20211113005131/en/835912/23/Black_Friday_2021_%28ST%29.jpg "Sonos Move Black Friday Deals 2021: Top Early Sonos Smart Speaker Savings Tracked by Saver Trends")
+
+
+[Sonos Move Black Friday Deals 2021: Top Early Sonos Smart Speaker Savings Tracked by Saver Trends](https://www.businesswire.com/news/home/20211113005131/en/Sonos-Move-Black-Friday-Deals-2021-Top-Early-Sonos-Smart-Speaker-Savings-Tracked-by-Saver-Trends)
+
+
+> November 13, 2021 04:35 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's a comparison of the top early Sonos Move smart speaker deals for Black Friday, including all the latest deals on more Sonos speakers & soundbars. Links to the best deals are listed below. Top Sonos Move deals: Best Sonos Deals: In need of some more deals? Click here to view the full selection of deals at Walmart's Black Friday sales event and click here to shop Amazon's latest Black Friday deals. Saver Trends earns commissions from purchases made using the links provided.
+
+
+***
+![Best Black Friday Bose 700 Deals (2021): Early Soundbar & Noise Cancelling Headphones Deals Shared by Spending Lab](http://www.businesswire.com/images/bwlogo_square.png "Best Black Friday Bose 700 Deals (2021): Early Soundbar & Noise Cancelling Headphones Deals Shared by Spending Lab")
+
+
+[Best Black Friday Bose 700 Deals (2021): Early Soundbar & Noise Cancelling Headphones Deals Shared by Spending Lab](http://www.businesswire.com/news/home/20211113005125/en/Best-Black-Friday-Bose-700-Deals-2021-Early-Soundbar-Noise-Cancelling-Headphones-Deals-Shared-by-Spending-Lab/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOSTON--(BUSINESS WIRE)--Early Black Friday Bose 700 deals are here. Find the latest discounts on the Bose 700 noise cancelling headphones, Bose 700 soundbar & more Bose speakers. Check out the full selection of deals listed below. Top Bose 700 deals: Save on the Bose 700 wireless headphones at Walmart - featuring Bose-patented active noise cancelling & Google Assistant support Save on the top-rated Bose 700 smart soundbar at Walmart - check the latest deals on the Bose 700 smart Bluetooth soundbar with voice control & ADAPTiQ audio room calibration Save up to $130 on the Bose 700 Noise Cancelling Headphones at Bose.
+
+
