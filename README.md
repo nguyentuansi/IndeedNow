@@ -30892,3 +30892,13 @@
 > To get here, however, Amazon will need to put some more effort into the Alexa app. (AFP Photo) Washington: Starting this week, new Echo and Echo Dot speakers can use ultrasound to detect occupancy and turn on and off other connected devices such as lights or Fire TV. According to The Verge, first mentioned at Amazon's fall hardware event in September, the Echo and Echo Dot fourth-gen speakers can now emit an "inaudible ultrasound wave" to detect if there are people present in a room. You can enable or disable this feature in the Alexa app, where you can also set up occupancy routines to use this new capability to do things like turn on lights when you enter a room and then off again when the room is empty.
 
 
+***
+![HomePod mini Black Friday Deals (2021) Identified by Deal Stripe](https://mms.businesswire.com/media/20211113005130/en/836771/23/Black_Friday_2021_%28DS%29.jpg "HomePod mini Black Friday Deals (2021) Identified by Deal Stripe")
+
+
+[HomePod mini Black Friday Deals (2021) Identified by Deal Stripe](https://www.businesswire.com/news/home/20211113005130/en/HomePod-mini-Black-Friday-Deals-2021-Identified-by-Deal-Stripe)
+
+
+> November 13, 2021 02:55 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday Apple HomePod deals for 2021 are underway. Review the latest offers on HomePod mini. Links to the latest deals are listed below. Best Apple HomePod Deals: Searching for more deals? Click here to shop the entire range of active deals at Walmart's Black Friday sales event and click here to browse Amazon's latest Black Friday deals. Deal Stripe earns commissions from purchases made using the links provided.
+
+
