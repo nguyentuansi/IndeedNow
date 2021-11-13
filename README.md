@@ -30812,3 +30812,53 @@
 > New Delhi, Nov 13 (IANS) The global cloud revenue is forecast to reach $474 billion in 2022, up from $408 billion in 2021, as the ongoing pandemic and the surge in digital services are making cloud the centrepiece of new digital experiences.Over the next few years, market research firm Gartner estimated that cloud revenue will surpass non-cloud revenue for relevant enterprise IT markets.'There is no business strategy without a cloud strategy. The adoption and interest in public cloud continues unabated as organisations pursue a 'cloud first' policy for onboarding new workloads,' said Milind Govekar, distinguished vice president at Gartner.
 
 
+***
+![NPD October 2021: PS5 Sales Continue to Dominate US Market](https://www.playstationlifestyle.net/assets/uploads/2021/11/PS5.png "NPD October 2021: PS5 Sales Continue to Dominate US Market")
+
+
+[NPD October 2021: PS5 Sales Continue to Dominate US Market](https://www.playstationlifestyle.net/2021/11/13/ps5-sales-npd-oct-2021/)
+
+
+> The NPD Group has published its United States games industry report for the month of October 2021, revealing that Nintendo Switch outsold both the PlayStation 5 and Xbox Series X/S in unit and dollar sales, thanks to the launch of its OLED model. However, the PS5 remains 2021's best-selling hardware in the country in terms of dollar sales while the Switch leads in unit sales.Video game retail set a new record for an October month this year, with $4.4 billion spent. Year-to-date consumer spending has reached $46.
+
+
+***
+![The Best 5G Phones on a Budget & Huawei FreeBuds 4i Review](https://c.ndtvimg.com/2021-11/d696h3i_cellguru_640x480_13_November_21.jpg "The Best 5G Phones on a Budget & Huawei FreeBuds 4i Review")
+
+
+[The Best 5G Phones on a Budget & Huawei FreeBuds 4i Review](https://gadgets.ndtv.com/videos/the-best-5g-phones-on-a-budget-huawei-freebuds-4i-review-609126)
+
+
+> On the show, we see how 5G-enabled smartphones are all the rage now, and look at some of the best 5G smartphones you can get under Rs 20,000. We review the Huwaei FreeBuds 4i and answer if this is the best TWS with active noise cancellation on a budget. We compare the best TWS available in the market right now, from the likes of the AirPods 3 and OnePlus Buds Pro to the Samsung Galaxy Buds 2. We also take a look at the world's first connected yoga mat, the Yogifi mat, and answer if it is any good.
+
+
+***
+![Black Friday Ninja Coffee Maker Deals 2021 Monitored by Save Bubble](https://mms.businesswire.com/media/20211113005076/en/835994/23/Black_Friday_2021_%28SB%29.jpg "Black Friday Ninja Coffee Maker Deals 2021 Monitored by Save Bubble")
+
+
+[Black Friday Ninja Coffee Maker Deals 2021 Monitored by Save Bubble](https://www.businesswire.com/news/home/20211113005076/en/Black-Friday-Ninja-Coffee-Maker-Deals-2021-Monitored-by-Save-Bubble)
+
+
+> November 13, 2021 10:55 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday Ninja coffee maker deals have arrived. Review the top deals on dual brew coffee makers & more Ninja coffee bar systems. Access the best deals by clicking the links below. Best Ninja Coffee Maker Deals: Best Ninja Deals: Save up to 35% off on Ninja pressure cookers, blenders, coffee makers & kitchen systems at Walmart - check the latest deals on best-selling Ninja kitchen appliances like the Ninja Foodi multi-cooker Save up to 34% on Ninja kitchen appliances at Amazon - save on a wide range of Ninja blenders, kitchen systems, coffee bar systems, Foodi cookers, air fryers & more Save up to $150 on Ninja indoor grills, cookers, blenders & more at NinjaKitchen.
+
+
+***
+![JPC members oppose proposal to reduce penalty amount in data protection bill](https://english.cdn.zeenews.com/sites/default/files/2021/11/13/987382-untitled-design-2021-11-13t210309.664.jpg "JPC members oppose proposal to reduce penalty amount in data protection bill")
+
+
+[JPC members oppose proposal to reduce penalty amount in data protection bill](https://zeenews.india.com/technology/jpc-members-oppose-proposal-to-reduce-penalty-amount-in-data-protection-bill-2410210.html)
+
+
+> New Delhi: Several members of a parliamentary panel examining the data protection bill have vehemently opposed a proposal to reduce the penalty amount to several crores from a fixed percentage of the global income of big tech firms found violating the privacy norms, sources said on Saturday. The Joint Committee of Parliament on Personal Data Protection Bill, chaired by BJP MP PP Chaudhary, met here on Friday to adopt a draft report on the bill but could not do so as some more amendments have been suggested to the proposed legislation, they said.
+
+
+***
+![How to Customize the Start Menu in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/windows-11-start-menu-feature-image-1.jpg "How to Customize the Start Menu in Windows 11")
+
+
+[How to Customize the Start Menu in Windows 11](https://www.makeuseof.com/customize-the-start-menu-in-windows-11/)
+
+
+> The Start menu has been an integral part of Windows since 1995. Of course, Windows 8 was one notable exception. However, removing the Start menu from that platform turned out to be a disastrous mistake for Microsoft. Now you'll have to get to grips with a somewhat different Start menu in Windows 11 after upgrading to the new desktop platform. Although that menu has changed, you can still customize it in numerous ways via Settings and add app shortcuts to it. Read on to find out how you can customize the Start menu in Microsoft's latest desktop OS.
+
+
