@@ -30711,3 +30711,33 @@
 > Techstory.in is a website about exciting startup stories and inspiring entrepreneur journeys. We believe in hailing the CHANGEMAKERS who disrupt industries and take us forward.
 
 
+***
+![Google Pixel 6 gets early access to heart rate, respiratory tracking features](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ogdsebk2d7kgocrh6doq55his1-20180509193005.Medi.jpeg "Google Pixel 6 gets early access to heart rate, respiratory tracking features")
+
+
+[Google Pixel 6 gets early access to heart rate, respiratory tracking features](http://www.deccanchronicle.com/technology/gadgets/131121/google-pixel-6-gets-early-access-to-heart-rate-respiratory-tracking-f.html)
+
+
+> That said, the ability to use the flashlight on the Pixel 6 is missing right now, which isn't surprising since the feature is currently in early access, and Google said that it's "being fine-tuned and may be removed." Washington: Google Pixel 6 series, which recently got the Adaptive Sound feature, will now pick up a couple more features as it gained heart rate and respiratory tracking support through Google Fit, which was announced in March. These features let you measure your heartbeat and track respiratory rate using the smartphone's camera and flash, reported GSM Arena.
+
+
+***
+![US space tourist dies in plane crash](https://apicms.thestar.com.my/uploads/images/2021/11/13/1366603.jpg "US space tourist dies in plane crash")
+
+
+[US space tourist dies in plane crash](https://www.thestar.com.my/tech/tech-news/2021/11/13/us-space-tourist-dies-in-plane-crash)
+
+
+> Businessman Glen de Vries (R) who recently flew into space with Star Trek legend William Shatner (L) has died in a place crash, which killed two people. — AP Photo US businessman Glen de Vries, who flew into space with "Star Trek" actor William Shatner on last month's Blue Origin flight, has died in a plane crash, police said Friday. The small aircraft came down in Hampton Township, New Jersey, about 60 miles (95 kilometers) west of New York City, shortly before 3pm (1900GMT) on Thursday, a spokesman for New Jersey state police told AFP.
+
+
+***
+![Get ready for longest partial lunar eclipse of century next week](https://img.dtnext.in/Articles/2021/Nov/202111131214156960_Get-ready-for-longest-partial-lunar-eclipse-of-century-next_SECVPF.gif "Get ready for longest partial lunar eclipse of century next week")
+
+
+[Get ready for longest partial lunar eclipse of century next week](https://www.dtnext.in/Lifestyle/Technology/2021/11/13121416/1328630/Get-ready-for-longest-partial-lunar-eclipse-of-century-.vpf)
+
+
+> Published: Nov 13,202112:14 PM by IANS Skygazers are in for a treat as the longest partial lunar eclipse of the century is going to take place on November 19. It is also the longest such eclipse in nearly 600 years. Washington: Lunar eclipses occur when the moon passes into the Earth's shadow. In this case, the partial eclipse phase will last 3 hours, 28 minutes and 24 seconds, and the full eclipse for 6 hours and 1 minute, making it the longest partial eclipse in 580 years, according to Indiana's Holcomb Observatory, located on the campus of Butler University in the US.
+
+
