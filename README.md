@@ -30601,3 +30601,53 @@
 > Tech firms, startups shifting benefits to attract more workers and keep star staff Raphael Bouskila is shown in this handout image. Bouskila's company Mako Fintech, began offering staff unlimited vacation days during the pandemic. It also started giving employees in their first year $1,000 to be spent on their home offices. Workers in subsequent years get $300 annually. THE CANADIAN PRESS/HO-Mako Fintech *MANDATORY CREDIT* TORONTO - Tech companies used to boast about their modern offices with gyms, fully-stocked kitchens and even bowling alleys.
 
 
+***
+![NASA is sending Snoopy items to space on Artemis I mission](https://cdn.slashgear.com/wp-content/uploads/2021/11/nasa-snoopy-artemis-1-mission-space.jpg "NASA is sending Snoopy items to space on Artemis I mission")
+
+
+[NASA is sending Snoopy items to space on Artemis I mission](https://www.slashgear.com/nasa-is-sending-snoopy-items-to-space-on-artemis-i-mission-12699164/)
+
+
+> NASA will send Snoopy to space as part of its Artemis I mission, the space agency has revealed. The popular character will serve two purposes: the physical objects will act as gravity indicators, while the idea of Snoopy in space will help educate kids about space travel and, potentially, inspire some of them to pursue future careers in the space industry. Early next year, NASA will launch the unmanned Artemis I mission; it'll involve the Space Launch System (SLS) rocket, Orion spacecraft, and some objects inside the capsule to gather data.
+
+
+***
+![Fortnite's next Star Wars crossover brings Boba Fett to the island](https://cdn.slashgear.com/wp-content/uploads/2021/11/fortnite-star-wars-boba-fett-crossover.jpg "Fortnite's next Star Wars crossover brings Boba Fett to the island")
+
+
+[Fortnite's next Star Wars crossover brings Boba Fett to the island](https://www.slashgear.com/fortnites-next-star-wars-crossover-brings-boba-fett-to-the-island-12699162/)
+
+
+> Epic Games has announced another Fortnite crossover with the Star Wars universe. This time around, the company is adding Boba Fett to the battle royale island, a new offering made to promote the Disney+ streaming service. Disney plans to new Star Wars spin-off original show The Book of Boba Fett in late December. The Book of Boba Fett is a series for Disney+ that'll expand the Star Wars universe, joining other originals like The Mandalorian and the upcoming Obi-Wan Kenobi show. The new Fortnite Boba Fett crossover, which brings the character to the battle royale game, appears to be a promotion for the show's launch.
+
+
+***
+![Nintendo Switch reclaims top-seller crown from PS5](https://cdn.slashgear.com/wp-content/uploads/2021/11/Switch-OLED-unpacked.jpg "Nintendo Switch reclaims top-seller crown from PS5")
+
+
+[Nintendo Switch reclaims top-seller crown from PS5](https://www.slashgear.com/nintendo-switch-reclaims-top-seller-crown-from-ps5-12699157/)
+
+
+> Earlier this year, the PlayStation 5 managed to net itself a big win, with NPD Group reporting that it was the best-selling console for the month of September. This broke a 33-month streak in which the Nintendo Switch finished on top, probably making that first-place even sweeter for Sony. Unfortunately, PS5 was only king for a short time, as the Switch made it's way back to the top of NPD's rankings for October. The state of the industry for October 2021 That's according to NPD Group executive director Mat Piscatella, who broke down the game industry's October 2021 in a lengthy thread on Twitter.
+
+
+***
+![Spotify acquires Findaway in big step toward audiobook distribution](https://cdn.slashgear.com/wp-content/uploads/2021/11/spotify-audiobooks-acquisition-details.jpg "Spotify acquires Findaway in big step toward audiobook distribution")
+
+
+[Spotify acquires Findaway in big step toward audiobook distribution](https://www.slashgear.com/spotify-acquires-findaway-in-big-step-toward-audiobook-distribution-12699156/)
+
+
+> Following its minor dabbling in the world of audiobooks, streaming audio company Spotify has announced its acquisition of Findaway, a digital audiobook distribution company. Spotify, which initially focused on music streaming, has made a huge expansion into podcasting over recent years, leading to rumors about a potential future move into audiobooks. Chubo – my masterpiece/Shutterstock Spotify has already dabbled in audiobooks, though it isn't a distributor at this point. Earlier this summer, for example, the company released nine audiobooks for classic works on its platform, including titles like 'Frankenstein' and 'Great Expectations.
+
+
+***
+![Tech Innovator Symbium Launches New Property and Permit Information Portal](https://cdnassets.hw.net/2f/a0/e08c3b7d456893c68ca909f87946/h.png "Tech Innovator Symbium Launches New Property and Permit Information Portal")
+
+
+[Tech Innovator Symbium Launches New Property and Permit Information Portal](https://www.builderonline.com/design/technology/tech-innovator-symbium-launches-new-property-and-permit-information-portal_o)
+
+
+> Courtesy Symbium Symbium—a 2019 Hive 50 intel honoree—has launched a new property information portal that enables the public to freely access information about properties and the built environment around them. Previously, data about properties was either unavailable, difficult to access, or expensive to obtain, says the company. This reality meant that, in some cases, a digital copy of property information could only be accessed by filling out a paper form. Symbium aims to alleviate these bottlenecks.
+
+
