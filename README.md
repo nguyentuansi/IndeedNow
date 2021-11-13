@@ -30862,3 +30862,33 @@
 > The Start menu has been an integral part of Windows since 1995. Of course, Windows 8 was one notable exception. However, removing the Start menu from that platform turned out to be a disastrous mistake for Microsoft. Now you'll have to get to grips with a somewhat different Start menu in Windows 11 after upgrading to the new desktop platform. Although that menu has changed, you can still customize it in numerous ways via Settings and add app shortcuts to it. Read on to find out how you can customize the Start menu in Microsoft's latest desktop OS.
 
 
+***
+![Ford reveals 2022 Mustang Shelby GT500 Heritage Edition](https://cdn.slashgear.com/wp-content/uploads/2021/11/shelby-gt500-heritage-1.jpg "Ford reveals 2022 Mustang Shelby GT500 Heritage Edition")
+
+
+[Ford reveals 2022 Mustang Shelby GT500 Heritage Edition](https://www.slashgear.com/ford-reveals-2022-mustang-shelby-gt500-heritage-edition-13699184/)
+
+
+> It's very common for Ford to release special versions of the iconic Mustang sports car. For 2022, the top-of-the-line in the Mustang model remains the Shelby GT500. Ford has revealed a special version of the GT500 called the 2022 Mustang Shelby GT500 Heritage Edition. The Heritage Edition is designed to pay homage to the original 1967 Shelby GT500. Each Heritage Edition will be available with Brittany Blue exterior paint with two Wimbledon white exterior stripe options. The stripe options include painted over-the-top racing stripes with a unique GT500 logo.
+
+
+***
+![SpaceX successfully places 53 additional Starlink satellites in orbit](https://cdn.slashgear.com/wp-content/uploads/2021/11/spacex-starlink-launch.jpg "SpaceX successfully places 53 additional Starlink satellites in orbit")
+
+
+[SpaceX successfully places 53 additional Starlink satellites in orbit](https://www.slashgear.com/spacex-successfully-places-53-additional-starlink-satellites-in-orbit-13699182/)
+
+
+> This week was a busy one for SpaceX, having launched the Crew-3 mission to the ISS. Only days later, SpaceX also launched another Falcon 9 to put 53 Starlink satellites into orbit. This was an interesting flight shrouded in fog at launch but had decent weather above the fog layer. SpaceX was able to successfully land the Falcon 9 rocket used in the mission, which had been previously flown. The launch occurred at 7:19 AM EST today, November 13. The successful launch marks the 23rd SpaceX launch for the year, and this particular Falcon 9 booster celebrated its ninth flight with today's launch.
+
+
+***
+![Some Echo speakers will now be able to detect people](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ij1so00tgj41kpeuamefm7dbh7-20210706142759.Medi.jpeg "Some Echo speakers will now be able to detect people")
+
+
+[Some Echo speakers will now be able to detect people](https://www.deccanchronicle.com/technology/in-other-news/131121/some-echo-speakers-will-now-be-able-to-detect-people.html)
+
+
+> To get here, however, Amazon will need to put some more effort into the Alexa app. (AFP Photo) Washington: Starting this week, new Echo and Echo Dot speakers can use ultrasound to detect occupancy and turn on and off other connected devices such as lights or Fire TV. According to The Verge, first mentioned at Amazon's fall hardware event in September, the Echo and Echo Dot fourth-gen speakers can now emit an "inaudible ultrasound wave" to detect if there are people present in a room. You can enable or disable this feature in the Alexa app, where you can also set up occupancy routines to use this new capability to do things like turn on lights when you enter a room and then off again when the room is empty.
+
+
