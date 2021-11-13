@@ -30741,3 +30741,33 @@
 > Published: Nov 13,202112:14 PM by IANS Skygazers are in for a treat as the longest partial lunar eclipse of the century is going to take place on November 19. It is also the longest such eclipse in nearly 600 years. Washington: Lunar eclipses occur when the moon passes into the Earth's shadow. In this case, the partial eclipse phase will last 3 hours, 28 minutes and 24 seconds, and the full eclipse for 6 hours and 1 minute, making it the longest partial eclipse in 580 years, according to Indiana's Holcomb Observatory, located on the campus of Butler University in the US.
 
 
+***
+![Indians Feeling Jealous When Friends Got More 'Likes' May Have Prompted Facebook to Allow Hiding Count](https://cdn.thewire.in/wp-content/uploads/2021/11/12162306/facebook-like-800x400.jpg "Indians Feeling Jealous When Friends Got More 'Likes' May Have Prompted Facebook to Allow Hiding Count")
+
+
+[Indians Feeling Jealous When Friends Got More 'Likes' May Have Prompted Facebook to Allow Hiding Count](https://thewire.in/tech/facebook-internal-research-hiding-likes-better-for-users-social-comparison)
+
+
+> New Delhi: In May this year, Facebook rolled out a new feature that would allow its users to hide their public like counts. In a nutshell, this meant that if a person so chooses, others cannot see how many ‘likes' or reactions their posts have received. In a blog post explaining the decision, the company said that the decision was taken after testing to see if hiding these counters would ‘depressurise' people's experience on Instagram. 'What we heard from people and experts was that not seeing like counts was beneficial for some and annoying to others,' it said.
+
+
+***
+![Tecno Pop 5C budget smartphone with 2400 battery, 5-megapixel camera launch](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/screenshot_2021-11-13_at_4.30._1200x768-original.png "Tecno Pop 5C budget smartphone with 2400 battery, 5-megapixel camera launch")
+
+
+[Tecno Pop 5C budget smartphone with 2400 battery, 5-megapixel camera launch](https://www.indiatoday.in/technology/news/story/tecno-pop-5c-budget-smartphone-with-2400-battery-5-megapixel-camera-launch-1876351-2021-11-13)
+
+
+> Story highlights Tecno has launched a new entry-level smartphone in the market. The smartphone comes with entry-level specifications including a 2400mAh battery The Tecno Pop 5C joins the league of Tecno Pop 5P, which was launched in the market in August last year. Tecno has launched a new entry-level smartphone in the market. The smartphone company has unveiled Pop 5C in the global market. The smartphone comes with entry-level specifications including a 2400mAh battery, 5-megapixel camera and runs on Android 10 (Go edition).
+
+
+***
+![55 & 50 Inch TV Black Friday Deals (2021): Best Early 4K TV & Smart TV Deals Reported by Deal Stripe](http://www.businesswire.com/images/bwlogo_square.png "55 & 50 Inch TV Black Friday Deals (2021): Best Early 4K TV & Smart TV Deals Reported by Deal Stripe")
+
+
+[55 & 50 Inch TV Black Friday Deals (2021): Best Early 4K TV & Smart TV Deals Reported by Deal Stripe](https://www.businesswire.com/news/home/20211113005023/en/55-50-Inch-TV-Black-Friday-Deals-2021-Best-Early-4K-TV-Smart-TV-Deals-Reported-by-Deal-Stripe)
+
+
+> November 13, 2021 06:50 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday 55 & 50 Inch TV deals have landed. Compare the best deals on smart TVs & 4K Ultra HD TVs. Browse the full range of deals using the links below. Best 55 & 50 Inch TV deals: Best TV Deals: Save up to 20% off on top-rated 4K TVs from Samsung, LG, Vizio, TCL & more top brands at Walmart - check latest deals on 4K Ultra HD, LED and smart TVs Save up to 20% off on the latest smart TVs (2020 models) at Walmart- get the latest deals on top-rated smart TVs from top brands including Samsung, LG, Sony, Hisense, & more Save up to $160 on a wide range of smart TV & 4K TVs at Amazon - check live prices on top-rated Smart TVs with 32, 40, 50, 55, 60-inch & more screen sizes Save up to $802 on Samsung TV models from 32 to 85 inches at Walmart- check live prices on Samsung Smart LED, QLED, and UHD models including the stylish Frame QLED Smart TV Save up to 32% on LG TVs including deals on bundles at Walmart - check the latest deals on LG smart TVs in all sizes including 4K UHD models Searching for more deals? Check out Walmart's Black Friday deals and Amazon's Black Friday page to view thousands more offers at the moment.
+
+
