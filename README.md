@@ -31132,3 +31132,53 @@
 > It has been only a couple of days since PUBG New State made its debut in India, players have already reported several issues with the game. People saw server issues, app crashes, and intermittent glitches. Several Android users have even complained about the bricking issue. The company did not respond to the bricking issue on Twitter, but it did release an update for its Android users with a few bug fixes. Krafton, in a conversation with Gadget 360 said, 'We had sufficient testing on mobile devices with similar spec to Galaxy S7 or models with 2GB RAM and have confirmed smooth functionality of the game'.
 
 
+***
+![Xiaomi Redmi Note 11T 5G launch: Specs, features, and expected India price](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/redmi_note_11_2_0-original.jpg "Xiaomi Redmi Note 11T 5G launch: Specs, features, and expected India price")
+
+
+[Xiaomi Redmi Note 11T 5G launch: Specs, features, and expected India price](https://www.indiatoday.in/technology/features/story/xiaomi-redmi-note-11t-5g-launch-specs-features-and-expected-india-price-1876546-2021-11-14)
+
+
+> Akarsh Verma New Delhi, Nov 14, 2021, Updated Nov 14, 2021, 12:26 PM IST Story highlights The Redmi Note 11T is the successor to the existing Redmi Note 10T. The Redmi Note 11T 5G is also expected to have a Dimensity 810 SoC. It will have a 6.6 inch IPS LCD FullHD+ 90 Hz display with a resolution of 2,400 x 1,080 pixels. Xiaomi launched the Note 11 series comprising the Note 11, Note 11 Pro, and the Note 11 Pro+ last month in China. Now, the brand is gearing up to launch the Redmi Note 11 series in India as well.
+
+
+***
+![PUBG New State Exceeds 1 crore Downloads at Google Play Store](https://static.india.com/wp-content/uploads/2021/11/Pub-G.jpg "PUBG New State Exceeds 1 crore Downloads at Google Play Store")
+
+
+[PUBG New State Exceeds 1 crore Downloads at Google Play Store](https://www.india.com/technology/pubg-new-state-exceeds-1-crore-downloads-at-google-play-store-5094853/)
+
+
+> New Delhi: South Korean game developer Krafton recently launched a new game in its PUBG franchise — PUBG: New State — in over 200 countries, including India, and now the game has crossed an impressive one crore downloads on Google Play Store.Also Read - Facebook Renaming: US-Based Meta Company to Sue FB for Infringing Upon its Name Prior to its release, the game had already garnered a whopping 40 million pre-registrations on both Google Play and Apple App Store. Developed by PUBG Studios, PUBG: New State is a free-to-play next-generation mobile game playable in 17 different languages.
+
+
+***
+![Google Pixel 6 to get a new health-related feature](https://st1.bgr.in/wp-content/uploads/2021/10/Google-Pixel-6-5.jpg "Google Pixel 6 to get a new health-related feature")
+
+
+[Google Pixel 6 to get a new health-related feature](https://www.bgr.in/mobiles/google-pixel-6-heart-rate-tracking-feature-just-like-pixel-5-photos-magic-eraser-1021315/)
+
+
+> Google has reportedly added heart rate tracking and respiratory tracking features to its newly launched Pixel 6 via the Google Fit app. The features were already available for Pixel 5 and Pixel 4a users. Since the rollout is underway, the feature might not be available for some Pixel 6 users yet. In addition to that, some Pixel 6 users have also reported that the 'Magic Eraser' tool has been removed from the latest Google Photos update. Also Read - Black Friday Sale 2021: Top early deals on Google Pixel 6, iPhone 13, Galaxy Z Flip3, and more Also Read - Google to bring Pixel 6 series features to its older Pixel phones: Report As per a report by 9to5Google, the Google Fit app uses the phone's camera to measure the heart rate and respiratory rate of the user.
+
+
+***
+![Learn how to develop an android app. : programming](https://external-preview.redd.it/HSKoOKz8sRkZeu6BBItLHq2dgTDr-J3AaRO4T1ZN0KI.jpg?auto=webp&s=a19e43503460d94480141a4d328724966688d076 "Learn how to develop an android app. : programming")
+
+
+[Learn how to develop an android app. : programming](https://www.reddit.com/r/programming/comments/qtkj3a/learn_how_to_develop_an_android_app)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![Attention! Starting November 13-18, 2021, the sun rises faster than usual, apparently this is the cause](https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/11/14/pexels-jonathan-petersson-123711-20211114104902.jpg "Attention! Starting November 13-18, 2021, the sun rises faster than usual, apparently this is the cause")
+
+
+[Attention! Starting November 13-18, 2021, the sun rises faster than usual, apparently this is the cause](https://www.world-today-news.com/attention-starting-november-13-18-2021-the-sun-rises-faster-than-usual-apparently-this-is-the-cause)
+
+
+> This is the reason why the sun rises faster in the Indonesian sky. Don't forget the impact too Nakita.id – In November this year it seems that many celestial phenomena occur. One of which is the sun rises faster than usual. This happened on November 13-18, 2021. But Not all parts of Indonesia will experience the sunrise sooner, only the islands of Java, Bali and Nusa Tenggara. Citing pages Eight, several other areas will also experience the sun rising earlier, namely in some areas of Maluku and Papua.
+
+
