@@ -31422,3 +31422,43 @@
 > November 14, 2021 02:50 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our comparison of the top early Oculus Quest deals for Black Friday, together with all the best deals on replacement kits, straps & more accessories. Explore the best deals by clicking the links listed below. Best Oculus Quest Deals: Best VR Headset Deals: In need of some more deals? Click here to check out the full selection of deals at Walmart's Black Friday sales event and click here to see Amazon's latest Black Friday sales.
 
 
+***
+![DJI Osmo Black Friday Deals (2021): Early Osmo Pocket, Action & More Savings Highlighted by Deal Stripe](http://www.businesswire.com/images/bwlogo_square.png "DJI Osmo Black Friday Deals (2021): Early Osmo Pocket, Action & More Savings Highlighted by Deal Stripe")
+
+
+[DJI Osmo Black Friday Deals (2021): Early Osmo Pocket, Action & More Savings Highlighted by Deal Stripe](https://www.businesswire.com/news/home/20211114005183/en/DJI-Osmo-Black-Friday-Deals-2021-Early-Osmo-Pocket-Action-More-Savings-Highlighted-by-Deal-Stripe)
+
+
+> November 14, 2021 05:00 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's a comparison of all the best early DJI Osmo deals for Black Friday, together with offers on Osmo Action, Mobile and Pocket. View the best deals listed below. Best DJI Osmo deals: Best DJI Deals: Save up to 33% on a wide range of DJI Mavic, Air 2, Spark & Mini 2 deals at Walmart - click the link to check the full range of DJI drones and accessories on sale now at Walmart Save up to $150 on DJI Mavic Pro, Mavic Air, Mavic Mini, Spark & Phantom drones at Amazon - including savings on bundles, travel kits & accessories Save up to 63% on DJI drones, Ronin and Osmo solutions at BHPhotoVideo.
+
+
+***
+![Black Friday Bose QuietComfort 45, 35 Deals 2021 Reported by Deal Stripe](http://www.businesswire.com/images/bwlogo_square.png "Black Friday Bose QuietComfort 45, 35 Deals 2021 Reported by Deal Stripe")
+
+
+[Black Friday Bose QuietComfort 45, 35 Deals 2021 Reported by Deal Stripe](https://www.businesswire.com/news/home/20211114005177/en/Black-Friday-Bose-QuietComfort-45-35-Deals-2021-Reported-by-Deal-Stripe)
+
+
+> November 14, 2021 04:55 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's a list of the best early Bose QuietComfort deals for Black Friday, together with the best discounts on QuietComfort Earbuds, QC 35 and QC 45. Links to the latest deals are listed below. Best Bose QuietComfort ((QC) 45, 35) deals: Best Bose Deals: Save up to 33% on Bose speakers, headphones, true wireless earbuds & more at Walmart - check the latest deals on QuietComfort 35 Noise Cancelling headphones, SoundLink Micro Bluetooth speakers, & more top-rated Bose products Save on Bose wireless noise canceling headphones, speakers, soundbars & home theater systems at Amazon - check live prices on Bose Headphones 700, Bose QuietComfort 35, SoundSport & SoundLink headphones, soundbars & speakers Save up to $100 on Bose headphones, speakers & soundbars at Bose.
+
+
+***
+![Black Friday Smart TV Deals 2021: Early 50-Inch, 55-Inch, 60-Inch & More Smart TV Savings Found by Retail Fuse](https://mms.businesswire.com/media/20211114005181/en/836168/23/Black_Friday_2021_%28RF%29.jpg "Black Friday Smart TV Deals 2021: Early 50-Inch, 55-Inch, 60-Inch & More Smart TV Savings Found by Retail Fuse")
+
+
+[Black Friday Smart TV Deals 2021: Early 50-Inch, 55-Inch, 60-Inch & More Smart TV Savings Found by Retail Fuse](https://www.businesswire.com/news/home/20211114005181/en/Black-Friday-Smart-TV-Deals-2021-Early-50-Inch-55-Inch-60-Inch-More-Smart-TV-Savings-Found-by-Retail-Fuse)
+
+
+> November 14, 2021 04:40 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's a comparison of the best early Smart TV deals for Black Friday, featuring sales on top-rated 50-inch & 32-inch Smart TVs. Browse the full selection of deals in the list below. Best Smart TV Deals: Save up to $110 on smart TVs at Walmart- get the latest deals on flat screen smart TVs from top brands including Samsung, LG, TCL, Vizio, Hisense & more Save up to 43% on 65-inch smart TVs at Walmart- click the link for deals on 65-inch smart TVs from top-brand including Samsung, LG, Sony & more Save up to $200 on 55-inch smart TVs at Walmart- check live prices on smart TVs with 55-inch screens Save up to 50% on a wide range of 50-inch smart TVs at Walmart - click the link to get the hottest Walmart 50-inch smart TV deals Save up to $170 on 32-inch smart TVs at Walmart- get the best deals on 32-inch smart TVs in UHD, 2K, 4K & 8K Save up to $200 on a wide range of smart TVs at Amazon - check live prices on top-rated smart TVs with 32, 40, 50, 55, 60-inch & more screen sizes Save up to 31% on smart TVs from top brands including Sony, Samsung, & more at BHPhotoVideo.
+
+
+***
+![Eli Lilly and Boehringer Ingelheim set their sights on acute heart failure with new Jardiance data](https://endpts.com/wp-content/uploads/2020/11/Eli-Lilly-social-shutterstock-Michael-Vi-scaled.jpg "Eli Lilly and Boehringer Ingelheim set their sights on acute heart failure with new Jardiance data")
+
+
+[Eli Lilly and Boehringer Ingelheim set their sights on acute heart failure with new Jardiance data](https://endpts.com/eli-lilly-and-boehringer-ingelheim-set-their-sights-on-acute-heart-failure-with-new-jardiance-data/)
+
+
+> A few months af­ter Eli Lil­ly and Boehringer In­gel­heim broke in­to the chron­ic heart fail­ure space with their SGLT2 in­hibitor Jar­diance, the part­ners are al­ready plot­ting an ex­pan­sion in­to acute heart fail­ure — and on Sun­day, they read out some piv­otal re­sults to back their bid. Acute heart fail­ure pa­tients were 36% more like­ly to ben­e­fit from Jar­diance than place­bo af­ter 90 days (p=0.0054), meet­ing the pri­ma­ry end­point in the Phase III EM­PULSE tri­al, Lil­ly and BI an­nounced at this year's Amer­i­can Heart As­so­ci­a­tion con­fer­ence.
+
+
