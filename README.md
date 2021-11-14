@@ -31372,3 +31372,23 @@
 > November 14, 2021 11:00 AM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--In partnership with Riot Games, Aim Lab, the training tool of choice for more than 20 million players who want to improve at playing the games they love, today announced the launch of two limited-time experiences from Arcane, the animated series based on Riot Games' League of Legends franchise. Launching today, players can enter a shooting gallery themed to the Undercity location in the animated series as they play through an Arcane-themed task and rise to the top of the leaderboard.
 
 
+***
+![Black Friday HP Spectre, Pavilion & Omen Laptop Deals (2021) Published by Retail Egg](https://mms.businesswire.com/media/20211114005134/en/836277/23/Black_Friday_2021_%28RE%29.jpg "Black Friday HP Spectre, Pavilion & Omen Laptop Deals (2021) Published by Retail Egg")
+
+
+[Black Friday HP Spectre, Pavilion & Omen Laptop Deals (2021) Published by Retail Egg](https://www.businesswire.com/news/home/20211114005134/en/Black-Friday-HP-Spectre-Pavilion-Omen-Laptop-Deals-2021-Published-by-Retail-Egg)
+
+
+> November 14, 2021 12:50 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare all the best early HP laptop deals for Black Friday, including the latest HP Omen gaming laptops, Elite business laptops & more discounts. Links to the latest deals are listed below. Best HP Laptop Deals: Save up to 28% off on HP laptops including the Spectre, Envy, Pavilion series at HP.com - including sales on HP Envy, Pavilion & Spectre models Save up to 34% on top-rated HP laptops at Walmart - check the latest deals on 2-in-1, touch laptops, chromebooks, gaming laptops & more Save up to $230 on the top-rated HP Spectre X360 laptop at HP.
+
+
+***
+![Pellet Grill Black Friday Deals (2021): Top Camp Chef, Green Mountain & More Deals Researched by Save Bubble](https://mms.businesswire.com/media/20211114005122/en/835994/23/Black_Friday_2021_%28SB%29.jpg "Pellet Grill Black Friday Deals (2021): Top Camp Chef, Green Mountain & More Deals Researched by Save Bubble")
+
+
+[Pellet Grill Black Friday Deals (2021): Top Camp Chef, Green Mountain & More Deals Researched by Save Bubble](https://www.businesswire.com/news/home/20211114005122/en/Pellet-Grill-Black-Friday-Deals-2021-Top-Camp-Chef-Green-Mountain-More-Deals-Researched-by-Save-Bubble)
+
+
+> November 14, 2021 12:45 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday sales experts at Save Bubble are comparing the best pellet grill deals for Black Friday 2021, featuring sales on best-selling Camp Chef, Green Mountain, Pit Boss & Traeger wood pellet grills. Links to the best deals are listed below. Best Pellet Grill Deals: Best Grill Deals: Save up to 36% on a wide range of grills from Pit Boss, Weber & more at Walmart - save on propane & natural gas, pellet & charcoal BBQ grills Save up to 24% on grills from top brands like Weber, Traeger at Amazon - check the latest deals on a wide range of gas, charcoal & pellet grills Save up 47% on best-selling BBQ grills and smokers at BBQGuys.
+
+
