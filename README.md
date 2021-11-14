@@ -31182,3 +31182,53 @@
 > This is the reason why the sun rises faster in the Indonesian sky. Don't forget the impact too Nakita.id – In November this year it seems that many celestial phenomena occur. One of which is the sun rises faster than usual. This happened on November 13-18, 2021. But Not all parts of Indonesia will experience the sunrise sooner, only the islands of Java, Bali and Nusa Tenggara. Citing pages Eight, several other areas will also experience the sun rising earlier, namely in some areas of Maluku and Papua.
 
 
+***
+![Why tech and sustainability in Asian markets are set for investment windfall](https://cdn.wamda.com/feature-images/c5fd88660555cc5.jpg "Why tech and sustainability in Asian markets are set for investment windfall")
+
+
+[Why tech and sustainability in Asian markets are set for investment windfall](https://www.wamda.com/2021/11/tech-sustainability-asian-markets-set-investment-windfall)
+
+
+> Trade and investment between the Middle East and both India and China have been steadily rising over the past few years. This has become increasingly evident in the number of Indian and Chinese startups and companies scaling to the region. Institutional investors from the Middle East are also realising the opportunities these two markets have to offer. Neelam Verma, vice president and head of investments at Continental Group, an insurance intermediary and financial services solutions provider in the GCC region, explains why these two markets are so attractive to investors.
+
+
+***
+![PUBG: New State crosses 1 Cr downloads on Google Play Store](https://img.dtnext.in/Articles/2021/Nov/202111141153118884_PUBG-New-State-crosses-1-Cr-downloads-on-Google-Play-Store_SECVPF.gif "PUBG: New State crosses 1 Cr downloads on Google Play Store")
+
+
+[PUBG: New State crosses 1 Cr downloads on Google Play Store](https://www.dtnext.in/Lifestyle/Technology/2021/11/14115312/1328805/PUBG-New-State-crosses-1-Cr-downloads-on-Google-Play-.vpf)
+
+
+> South Korean game developer Krafton recently launched a new game in its PUBG franchise -- PUBG: New State -- in over 200 countries, including India and now the game has crossed an impressive one crore downloads on Google Play Store. New Delhi: Prior to its release, the game had already garnered a whopping 40 million pre registrations on both Google Play and Apple App Store.Developed by PUBG Studios, PUBG: New State is a free-to-play next-generation mobile game playable in 17 different languages.The company said that the new game aims to push the battle royale genre forward through original gameplay features that include, but are not limited to, weapon customisation, the drone store and a unique player recruitment system.
+
+
+***
+![Hundreds of Acres Added to Tesla's 2000-Acre Gigafactory  Elon Musk Linked to Texas Land Grab Issue](https://en.brinkwire.com/nerede/uploads/2020/12/faviconV2.jpg "Hundreds of Acres Added to Tesla's 2000-Acre Gigafactory  Elon Musk Linked to Texas Land Grab Issue")
+
+
+[Hundreds of Acres Added to Tesla's 2000-Acre Gigafactory  Elon Musk Linked to Texas Land Grab Issue](https://en.brinkwire.com/technology/hundreds-of-acres-added-to-teslas-2000-acre-gigafactory-elon-musk-linked-to-texas-land-grab-issue-hundreds-of-acres-added-to-teslas-2000-acre-gigafactory/)
+
+
+> Hundreds of Acres Added to Tesla's 2000-Acre Gigafactory | Elon Musk Linked to Texas Land Grab Issue | Hundreds of Acres Added to Tesla's 2000-Acre Gigafactory (Image courtesy of Commons.Wikipedia.com) Elon Musk has been linked to a land grab in Texas | Tesla has purchased hundreds of acres in addition to the 2000-acre Gigafactory site. Elon Musk has recently been implicated in a huge land grab. The incident occurred near the Tesla Gigafactory Austin, according to reports. The land grab, on the other hand, might not be for Tesla.
+
+
+***
+![Coupang still facing profitability, labor issues](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202111/320c0b64cc5140d9bc36fe72ca88dbbe.jpg "Coupang still facing profitability, labor issues")
+
+
+[Coupang still facing profitability, labor issues](https://www.koreatimes.co.kr/www/tech/2021/11/419_318764.html)
+
+
+> A truck in Seoul carries a message, May 14, urging punishment for Coupang that allegedly killed its worker from overworking. Korea Times fileBy Kim Jae-heunProfitability has been a major concern for Coupang since its New York listing, as Wall Street investors have been dissatisfied by its snowballing debt caused by a rapid expansion in operations.Coupang's core business model looks appealing, because it is positioned to benefit from the "network effect," in which the value of a product or platform increases due to the rising number of customers which causes the network itself to grow.
+
+
+***
+![President breaks down in tears on camera](https://content.api.news/v3/images/bin/334e0a7bfb5da0e8021b3e2eeccb75e5 "President breaks down in tears on camera")
+
+
+[President breaks down in tears on camera](https://www.news.com.au/technology/environment/climate-change/president-in-tears-as-cop26-strikes-hardfought-deal-and-un-says-not-enough/news-story/7285abcfc1ce1026be9f91740ce633d4)
+
+
+> The president of the summit in charge of the latest major global deal has broken down in tears and apologised on camera, surprising onlookers.The president of the summit in charge of the latest global climate change deals has broken down in tears and apologised after nearly 200 nations came together after two weeks of painful negotiation, but fell short of what science says is needed to contain dangerous temperature rises.Rich countries stood accused of failing at the COP26 summit in Glasgow to deliver much-needed finance to vulnerable states at risk of drought, rising seas, fire and storms.
+
+
