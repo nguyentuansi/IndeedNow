@@ -31392,3 +31392,33 @@
 > November 14, 2021 12:45 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday sales experts at Save Bubble are comparing the best pellet grill deals for Black Friday 2021, featuring sales on best-selling Camp Chef, Green Mountain, Pit Boss & Traeger wood pellet grills. Links to the best deals are listed below. Best Pellet Grill Deals: Best Grill Deals: Save up to 36% on a wide range of grills from Pit Boss, Weber & more at Walmart - save on propane & natural gas, pellet & charcoal BBQ grills Save up to 24% on grills from top brands like Weber, Traeger at Amazon - check the latest deals on a wide range of gas, charcoal & pellet grills Save up 47% on best-selling BBQ grills and smokers at BBQGuys.
 
 
+***
+![31 space discoveries that will totally blow your mind](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQHcmY.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "31 space discoveries that will totally blow your mind")
+
+
+[31 space discoveries that will totally blow your mind](https://stacker.com/stories/1610/space-discoveries-will-blow-your-mind)
+
+
+> Since NASA's inception in 1958, astronauts have landed on the moon, parked a robot-controlled rover on Mars, and discovered thousands of exoplanets—planets that orbit stars outside of this solar system. Scientists can even explore the 95% of invisible space comprised of dark energy, dark matter, and dark radiation.  The size of the universe is hard to fathom, and it's expanding even faster than scientists originally thought. While humans will never map out the entirety of space, that doesn't stop them from exploring it.
+
+
+***
+![DJI Black Friday Deals (2021): Best Early Air, Spark, Mavic & More DJI Drone Deals Identified by Saver Trends](https://mms.businesswire.com/media/20211114005153/en/835912/23/Black_Friday_2021_%28ST%29.jpg "DJI Black Friday Deals (2021): Best Early Air, Spark, Mavic & More DJI Drone Deals Identified by Saver Trends")
+
+
+[DJI Black Friday Deals (2021): Best Early Air, Spark, Mavic & More DJI Drone Deals Identified by Saver Trends](https://www.businesswire.com/news/home/20211114005153/en/DJI-Black-Friday-Deals-2021-Best-Early-Air-Spark-Mavic-More-DJI-Drone-Deals-Identified-by-Saver-Trends)
+
+
+> November 14, 2021 02:55 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday DJI drone deals for 2021 are here. Review the top offers on DJI OM5, DJI FPV, DJI Mini SE, DJI Air 2S and more. View the full selection of deals by clicking the links below. Best DJI deals: Save up to 33% on a wide range of DJI Mavic, Air 2, Spark & Mini 2 deals at Walmart - click the link to check the full range of DJI drones and accessories on sale now at Walmart Save up to $150 on DJI Mavic Pro, Mavic Air, Mavic Mini, Spark & Phantom drones at Amazon - including savings on bundles, travel kits & accessories Save up to 63% on DJI drones, Ronin and Osmo solutions at BHPhotoVideo.
+
+
+***
+![Oculus Quest Black Friday Deals 2021: Early Oculus VR Headset & Accessories Sales Compiled by Spending Lab](http://www.businesswire.com/images/bwlogo_square.png "Oculus Quest Black Friday Deals 2021: Early Oculus VR Headset & Accessories Sales Compiled by Spending Lab")
+
+
+[Oculus Quest Black Friday Deals 2021: Early Oculus VR Headset & Accessories Sales Compiled by Spending Lab](https://www.businesswire.com/news/home/20211114005156/en/Oculus-Quest-Black-Friday-Deals-2021-Early-Oculus-VR-Headset-Accessories-Sales-Compiled-by-Spending-Lab)
+
+
+> November 14, 2021 02:50 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our comparison of the top early Oculus Quest deals for Black Friday, together with all the best deals on replacement kits, straps & more accessories. Explore the best deals by clicking the links listed below. Best Oculus Quest Deals: Best VR Headset Deals: In need of some more deals? Click here to check out the full selection of deals at Walmart's Black Friday sales event and click here to see Amazon's latest Black Friday sales.
+
+
