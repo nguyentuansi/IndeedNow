@@ -30932,3 +30932,53 @@
 > BOSTON--(BUSINESS WIRE)--Early Black Friday Bose 700 deals are here. Find the latest discounts on the Bose 700 noise cancelling headphones, Bose 700 soundbar & more Bose speakers. Check out the full selection of deals listed below. Top Bose 700 deals: Save on the Bose 700 wireless headphones at Walmart - featuring Bose-patented active noise cancelling & Google Assistant support Save on the top-rated Bose 700 smart soundbar at Walmart - check the latest deals on the Bose 700 smart Bluetooth soundbar with voice control & ADAPTiQ audio room calibration Save up to $130 on the Bose 700 Noise Cancelling Headphones at Bose.
 
 
+***
+![Mitsubishi Shipbuilding to build large-size ammonia carrier fueled by ammonia](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/06/10/f4ac9a73a71e53b83c25f490badb12d81ec6/Screen-Shot-2021-11-.png "Mitsubishi Shipbuilding to build large-size ammonia carrier fueled by ammonia")
+
+
+[Mitsubishi Shipbuilding to build large-size ammonia carrier fueled by ammonia](https://japantoday.com/category/tech/mitsubishi-shipbuilding-to-build-large-size-ammonia-carrier-fueled-by-ammonia)
+
+
+> Mitsubishi Shipbuilding Co Ltd, a part of Mitsubishi Heavy Industries Ltd (MHI) Group, has reached an agreement with Mitsui O.S.K. Lines Ltd and Namura Shipbuilding Co Ltd on joint development of large-size ammonia carrier fueled by ammonia. Ammonia is mainly used as a raw component of fertilizers, and is expected to be a high-quality, reliable and clean energy. The development aim to increase the volume of marine transportation of ammonia by large-size ammonia carrier which are fueled by ammonia.
+
+
+***
+![Black Friday Google Nest Doorbell Deals (2021): Top Early Nest Smart Video Doorbell Savings Listed by Deal Tomato](https://mms.businesswire.com/media/20211113005195/en/836216/23/Black_Friday_2021_%28DT%29.jpg "Black Friday Google Nest Doorbell Deals (2021): Top Early Nest Smart Video Doorbell Savings Listed by Deal Tomato")
+
+
+[Black Friday Google Nest Doorbell Deals (2021): Top Early Nest Smart Video Doorbell Savings Listed by Deal Tomato](https://www.businesswire.com/news/home/20211113005195/en/Black-Friday-Google-Nest-Doorbell-Deals-2021-Top-Early-Nest-Smart-Video-Doorbell-Savings-Listed-by-Deal-Tomato)
+
+
+> November 13, 2021 07:10 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's a comparison of the best early Google Nest Doorbell deals for Black Friday, featuring discounts on Nest Doorbell Yale lock kit combo. Links to the latest deals are listed below. Top Google Nest Doorbell deals: Best Nest Deals: Best Smart Home Deals: Save up to 57% off on smart home security cameras, video doorbells, & alarm systems at Walmart - check the latest deals from Ring, Arlo, Blink & more top smart home security brands Save up to 50% on Google Nest smart home tech at Walmart – click the link for the latest prices on Nest Cams, Learning Thermostats, Protect smoke detectors & motion detectors Save up to $100 on a wide range of ecobee smart home devices at ecobee.
+
+
+***
+![20 Pre-Black Friday deals on games, puzzles, and more that will make perfect gifts](https://i2.wp.com/boingboing.net/wp-content/uploads/2021/11/product_43479_product_shots4.jpeg?fit=630%2C473&ssl=1 "20 Pre-Black Friday deals on games, puzzles, and more that will make perfect gifts")
+
+
+[20 Pre-Black Friday deals on games, puzzles, and more that will make perfect gifts](https://boingboing.net/2021/11/13/20-pre-black-friday-deals-on-games-puzzles-and-more-that-will-make-perfect-gifts.html)
+
+
+> We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. The holidays are all about having fun with those you love, and what better way to enjoy each other's company than with fun games? From 500-piece puzzles to laser swords, this list has something great for everyone in your family and friend group, and when you use the code SAVE15NOV at check-out, you'll get 15% off ahead of Black Friday.  Check out these great gift ideas — you may even want to snag a few for yourself.
+
+
+***
+![Crime Prevention Software Provider, Featurespace, Appoints Todd Raque as AML Expert](https://www.crowdfundinsider.com/wp-content/uploads/2018/11/Theft-Crime-Steal-Rob-300x259.jpg "Crime Prevention Software Provider, Featurespace, Appoints Todd Raque as AML Expert")
+
+
+[Crime Prevention Software Provider, Featurespace, Appoints Todd Raque as AML Expert](https://www.crowdfundinsider.com/2021/11/182826-crime-prevention-software-provider-featurespace-appoints-todd-raque-as-aml-expert/)
+
+
+> Featurespace, the provider of Enterprise Crime Prevention software, has reportedly appointed Todd Raque as its leading anti-money laundering (AML) and financial crimes expert for the Americas. As mentioned in the announcement, Raque brings almost 30 years of professional experience and extensive industry knowledge in financial crime and compliance to Featurespace, where he will improve the development and delivery of the ARIC Risk Hub. Raque's  AML, financial crime and law enforcement experience reportedly includes helping US and international financial institutions with transformation efforts within AML operations and governance programs, as well as advising executive leadership on matters related to risk management, compliance and operations strategies at national and international banking institutions.
+
+
+***
+![Shutterfly Black Friday Deals (2021): Early Wall Art, Photo Books, Prints & Photo Gift Deals Ranked by Save Bubble](https://mms.businesswire.com/media/20211113005193/en/835994/23/Black_Friday_2021_%28SB%29.jpg "Shutterfly Black Friday Deals (2021): Early Wall Art, Photo Books, Prints & Photo Gift Deals Ranked by Save Bubble")
+
+
+[Shutterfly Black Friday Deals (2021): Early Wall Art, Photo Books, Prints & Photo Gift Deals Ranked by Save Bubble](https://www.businesswire.com/news/home/20211113005193/en/Shutterfly-Black-Friday-Deals-2021-Early-Wall-Art-Photo-Books-Prints-Photo-Gift-Deals-Ranked-by-Save-Bubble)
+
+
+> November 13, 2021 06:50 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday Shutterfly deals for 2021 have arrived. Find the top offers on matte and glossy photo prints. Browse the latest deals using the links below. Best Shutterfly deals: Save up to 50% on a wide range photo book styles at Shutterfly.com - check the latest deals on photo books including wedding, family, travel, and more designs Save up to 50% on glossy and matte photo prints at Shutterfly.com - click the link for live prices of photo prints including photo tiles, art prints, canvas prints, premium posters, and more Save up to 50% on photo and art frames at Shutterfly.
+
+
