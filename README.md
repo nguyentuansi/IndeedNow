@@ -30982,3 +30982,53 @@
 > November 13, 2021 06:50 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday Shutterfly deals for 2021 have arrived. Find the top offers on matte and glossy photo prints. Browse the latest deals using the links below. Best Shutterfly deals: Save up to 50% on a wide range photo book styles at Shutterfly.com - check the latest deals on photo books including wedding, family, travel, and more designs Save up to 50% on glossy and matte photo prints at Shutterfly.com - click the link for live prices of photo prints including photo tiles, art prints, canvas prints, premium posters, and more Save up to 50% on photo and art frames at Shutterfly.
 
 
+***
+![Wearable & Portable Monitoring, Therapy,](https://www.maximintegrated.com/etc/designs/maximintegrated/_ico/favicon.ico "Wearable & Portable Monitoring, Therapy,")
+
+
+[Wearable & Portable Monitoring, Therapy,](https://www.maximintegrated.com/en/design/technical-documents/app-notes/7/7448.html)
+
+
+> Abstract: This application note describes the basics of the near-field communication (NFC)/radio frequency identification (RFID) MAX66242EVKIT board and an application utilizing the NFC capabilities of iOS and Android® based mobile devices to exercise board functionality. It then demonstrates how the application enables the user with the ability to use the memory and secure features of the MAX66242. It also shows how to use the MAX66242 with an onboard I2C temperature sensor which demonstrates the energy harvesting feature of the device.
+
+
+***
+![Black Friday RTX Deals (2021): Top Early RTX 3080, 3070 & 3090 Deals Revealed by Retail Fuse](https://mms.businesswire.com/media/20211113005140/en/836168/23/Black_Friday_2021_%28RF%29.jpg "Black Friday RTX Deals (2021): Top Early RTX 3080, 3070 & 3090 Deals Revealed by Retail Fuse")
+
+
+[Black Friday RTX Deals (2021): Top Early RTX 3080, 3070 & 3090 Deals Revealed by Retail Fuse](https://www.businesswire.com/news/home/20211113005140/en/Black-Friday-RTX-Deals-2021-Top-Early-RTX-3080-3070-3090-Deals-Revealed-by-Retail-Fuse)
+
+
+> November 13, 2021 09:10 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday deals experts are rating the top early RTX deals for Black Friday 2021, featuring all the best deals on ASUS and Gigabyte graphics cards. Links to the best deals are listed below. Best RTX Graphics Card Deals: Best Graphics Card Deals: Save up to 50% on a wide range of MSI, ASUS & more top-rated graphics cards at Walmart Save up to 10% on a wide range of graphics cards & GPUs at Amazon - check the latest deals on popular NVIDIA & MSI graphics cards like the GeForce RTX 3060 & RTX 3070 Save up to 10% on graphics cards at eBay - check the hottest deals on ZOTAC, MSI, EVGA, ASUS, & Gigabyte graphic cards Save on top-selling graphics cards from top brands at StockX.
+
+
+***
+![Printer Ink Black Friday Deals (2021): Top Early Epson, Canon & HP Printer Ink Sales Found by Deal Stripe](http://www.businesswire.com/images/bwlogo_square.png "Printer Ink Black Friday Deals (2021): Top Early Epson, Canon & HP Printer Ink Sales Found by Deal Stripe")
+
+
+[Printer Ink Black Friday Deals (2021): Top Early Epson, Canon & HP Printer Ink Sales Found by Deal Stripe](https://www.businesswire.com/news/home/20211113005191/en/Printer-Ink-Black-Friday-Deals-2021-Top-Early-Epson-Canon-HP-Printer-Ink-Sales-Found-by-Deal-Stripe)
+
+
+> November 13, 2021 09:05 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday 2021 experts have summarized the latest early printer ink deals for Black Friday, together with savings on HP, Dell, Brother, Epson & Canon ink. Links to the latest deals are listed below. Best Printer Ink Deals: Save on black and color ink cartridges at Walmart - click the link for live prices of ink for top printers like HP, Canon, Epson, and more Save up to 85% on a wide range of printer ink at 1ink.com - check the latest savings of ink for top printer brands like HP, Canon, Brother, Epson, and more Save on a wide range of Canon printer ink at Walmart - check the latest deals on Canon printer ink including PIXMA, tri-color inkjet, and black inkjet cartridges Save up to 85% on HP ink cartridges at 1ink.
+
+
+***
+![Ring Camera Black Friday Deals (2021): Early Indoor & Outdoor Security Camera Savings Shared by Consumer Walk](https://mms.businesswire.com/media/20211113005173/en/836021/23/Black_Friday_2021_%28CW%29.jpg "Ring Camera Black Friday Deals (2021): Early Indoor & Outdoor Security Camera Savings Shared by Consumer Walk")
+
+
+[Ring Camera Black Friday Deals (2021): Early Indoor & Outdoor Security Camera Savings Shared by Consumer Walk](https://www.businesswire.com/news/home/20211113005173/en/Ring-Camera-Black-Friday-Deals-2021-Early-Indoor-Outdoor-Security-Camera-Savings-Shared-by-Consumer-Walk)
+
+
+> November 13, 2021 09:00 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday researchers have compared all the top early Ring camera deals for Black Friday, including the latest discounts on the Ring Floodlight Cam. Links to the best deals are listed below. Best Ring camera deals: Best Smart Home Deals: Save up to 57% off on smart home security cameras, video doorbells, & alarm systems at Walmart - check the latest deals from Ring, Arlo, Blink & more top smart home security brands Save up to 50% on Google Nest smart home tech at Walmart – click the link for the latest prices on Nest Cams, Learning Thermostats, Protect smoke detectors & motion detectors Save up to $100 on a wide range of ecobee smart home devices at ecobee.
+
+
+***
+![Canon 5D, 6D & Canon G7X (Mark IV, III, II) Black Friday Deals (2021) Monitored by Consumer Walk](https://mms.businesswire.com/media/20211113005194/en/836021/23/Black_Friday_2021_%28CW%29.jpg "Canon 5D, 6D & Canon G7X (Mark IV, III, II) Black Friday Deals (2021) Monitored by Consumer Walk")
+
+
+[Canon 5D, 6D & Canon G7X (Mark IV, III, II) Black Friday Deals (2021) Monitored by Consumer Walk](https://www.businesswire.com/news/home/20211113005194/en/Canon-5D-6D-Canon-G7X-Mark-IV-III-II-Black-Friday-Deals-2021-Monitored-by-Consumer-Walk)
+
+
+> November 13, 2021 08:55 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday 2021 researchers at Consumer Walk have compared the latest early Canon 5D & G7X deals for Black Friday, together with discounts on top-rated Canon DSLR and digital compact cameras. Links to the top deals are listed below. Best Canon G7x, 5D & 6D Deals: Best Canon Deals: Save up to 44% on a wide range of Canon cameras, lens bundles, digital cameras & printers at Walmart - deals available now on the latest Canon DSLR, mirrorless and Powershot digital cameras Save up to $150 on a wide range of Canon DSLR, mirrorless and digital cameras at Amazon - check live deals on bundles, travel kits, lenses, filters & tripods Save up to $200 on Canon DSLR cameras, digital cameras & accessory bundles at Canon.
+
+
