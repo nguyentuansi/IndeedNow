@@ -31032,3 +31032,53 @@
 > November 13, 2021 08:55 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday 2021 researchers at Consumer Walk have compared the latest early Canon 5D & G7X deals for Black Friday, together with discounts on top-rated Canon DSLR and digital compact cameras. Links to the top deals are listed below. Best Canon G7x, 5D & 6D Deals: Best Canon Deals: Save up to 44% on a wide range of Canon cameras, lens bundles, digital cameras & printers at Walmart - deals available now on the latest Canon DSLR, mirrorless and Powershot digital cameras Save up to $150 on a wide range of Canon DSLR, mirrorless and digital cameras at Amazon - check live deals on bundles, travel kits, lenses, filters & tripods Save up to $200 on Canon DSLR cameras, digital cameras & accessory bundles at Canon.
 
 
+***
+![Elgato Stream Deck Black Friday Deals 2021: Early Elgato Wave, Green Screen & More Deals Published by Retail Egg](https://mms.businesswire.com/media/20211113005136/en/836277/23/Black_Friday_2021_%28RE%29.jpg "Elgato Stream Deck Black Friday Deals 2021: Early Elgato Wave, Green Screen & More Deals Published by Retail Egg")
+
+
+[Elgato Stream Deck Black Friday Deals 2021: Early Elgato Wave, Green Screen & More Deals Published by Retail Egg](https://www.businesswire.com/news/home/20211113005136/en/Elgato-Stream-Deck-Black-Friday-Deals-2021-Early-Elgato-Wave-Green-Screen-More-Deals-Published-by-Retail-Egg)
+
+
+> November 13, 2021 11:00 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the latest early Elgato deals for Black Friday 2021, featuring all the latest Elgato capture card, green screen & Wave microphone savings. Links to the top deals are listed below. Best Elgato Deals: Save up to $50 on a wide range of Elgato video capture devices & accessories at Walmart - including deals on Elgato Cam Link 4K, Elgato HD60 S+, Elgato Game Capture HD60 Pro & more Save on Elgato stream & capture devices & accessories at Dell.
+
+
+***
+![Best Black Friday Internal Hard Drive Deals 2021: Early WD Red, Seagate Barracuda & More Savings Reported by Spending Lab](https://mms.businesswire.com/media/20211113005133/en/835848/23/Black_Friday_2021_%28SL%29.jpg "Best Black Friday Internal Hard Drive Deals 2021: Early WD Red, Seagate Barracuda & More Savings Reported by Spending Lab")
+
+
+[Best Black Friday Internal Hard Drive Deals 2021: Early WD Red, Seagate Barracuda & More Savings Reported by Spending Lab](https://www.businesswire.com/news/home/20211113005133/en/Best-Black-Friday-Internal-Hard-Drive-Deals-2021-Early-WD-Red-Seagate-Barracuda-More-Savings-Reported-by-Spending-Lab)
+
+
+> November 13, 2021 10:40 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the top early internal hard drive deals for Black Friday, including all the best Seagate & Western Digital deals. Links to the best deals are listed below. Best Internal Hard Drive (HDD) Deals: Save up to 50% on a wide range of internal hard drives at Walmart - check exclusive deals from top-rated brands including Samsung, WD, Seagate & more Save up to 51% on premium internal hard drives from Seagate, Toshiba & more at Amazon - check live deals on brands including Seagate, WD, Toshiba & more Save on a wide selection of internal HDDs at Dell.
+
+
+***
+!["Revolution In Warfare"](https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2021-11/weapon.jpg?itok=9EcOYOp9 ""Revolution In Warfare"")
+
+
+["Revolution In Warfare"](https://www.zerohedge.com/technology/revolution-warfare-israel-unveils-new-scorpius-electronic-warfare-system)
+
+
+> Israel has recognized that the modern battlefield will not be entirely fought on air, sea, and space. To better prepare for new domains of warfare, Israel has developed a revolutionary weapon for electromagnetic warfare. Israel Aerospace Industries (IAI), the country's top aerospace and aviation manufacturer, has developed the Scorpius family of systems that scans a sphere of the operating environment for targets and deploys a narrowly focused beam to interfere with multiple threats across the electromagnetic spectrum.
+
+
+***
+![List In Python : programming](https://external-preview.redd.it/Q-z6rSzUa4mh72N1FUHoWtLHD7Qe7leWb7-7rZ9Opuw.jpg?auto=webp&s=841bfffe1dc0be91f8ec07d3acb95cd9c9f7f51d "List In Python : programming")
+
+
+[List In Python : programming](https://www.reddit.com/r/programming/comments/qtgwth/list_in_python)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![Tech versus Iowa State](https://bloximages.newyork1.vip.townnews.com/dailytoreador.com/content/tncms/assets/v3/editorial/1/63/1637602e-44ec-11ec-b616-b75ee3630287/61906973b5176.image.jpg?resize=939%2C630 "Tech versus Iowa State")
+
+
+[Tech versus Iowa State](http://www.dailytoreador.com/tech-versus-iowa-state/image_1637602e-44ec-11ec-b616-b75ee3630287.html)
+
+
+> at the game versus Iowa State on Nov. 13, 2021, at Jones AT&T Stadium.
+
+
