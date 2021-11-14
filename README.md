@@ -31332,3 +31332,43 @@
 > November 14, 2021 08:45 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the top early AirPods Max wireless headphones deals for Black Friday 2021, featuring Apple AirPods sales. Links to the top deals are listed below. Best AirPods Max Deals: Best AirPods Deals: Want some more deals? Check out Walmart's Black Friday deals and Amazon's Black Friday page to compare thousands more active savings at the moment. Retail Fuse earns commissions from purchases made using the links provided. About Retail Fuse: Retail Fuse reports the latest retail news.
 
 
+***
+![Alan Wake Remastered Sales Have 'Started Well,' Says Remedy](https://www.playstationlifestyle.net/assets/uploads/2021/10/alan-wake-playstation.jpg "Alan Wake Remastered Sales Have 'Started Well,' Says Remedy")
+
+
+[Alan Wake Remastered Sales Have 'Started Well,' Says Remedy](https://www.playstationlifestyle.net/2021/11/14/alan-wake-remastered-sales/)
+
+
+> Remedy Entertainment revealed in its third quarter business review that Alan Wake Remastered has had a good start and its sales are going well. Alan Wake‘s October outing marked the first time that the franchise appeared on PlayStation platforms – something that has been on Remedy's wish list for a long time, according to its previously statements.'In September, we announced that the smaller of the two Epic Games Publishing projects, Alan Wake Remastered, was completed and ready to be launched in October on PC on the Epic Games Store, Xbox, and for the first time in the franchise's history, PlayStation consoles,' said CEO Tero Virtala.
+
+
+***
+![Venom: Let There Be Carnage hits rare pandemic box office milestone](https://cdn.slashgear.com/wp-content/uploads/2021/11/venom-let-there-be-carnage-pandemic-box-office.jpg "Venom: Let There Be Carnage hits rare pandemic box office milestone")
+
+
+[Venom: Let There Be Carnage hits rare pandemic box office milestone](https://www.slashgear.com/venom-let-there-be-carnage-hits-rare-pandemic-box-office-milestone-14699209/)
+
+
+> After multiple release date changes, Sony Pictures' Venom: Let There Be Carnage hit theaters on October 1 in the US. Unlike some other companies, Sony Pictures chose against releasing its hit Marvel movie on digital platforms, instead opting to exclusively premiere the film in theaters despite the ongoing pandemic. Image: Sony Pictures Last year was brutal for the movie industry, as many theaters were closed around the world and consumers were largely staying home. This forced a rapid change in how new movies were made available to the public, namely digital rental releases and, eventually, hybrid same-day digital releases to coincide with theatrical premieres.
+
+
+***
+![Black Friday Garmin Forerunner Deals 2021: Best Early Forerunner 245, 745, 945 & More Savings Published by Save Bubble](https://mms.businesswire.com/media/20211114005098/en/835994/23/Black_Friday_2021_%28SB%29.jpg "Black Friday Garmin Forerunner Deals 2021: Best Early Forerunner 245, 745, 945 & More Savings Published by Save Bubble")
+
+
+[Black Friday Garmin Forerunner Deals 2021: Best Early Forerunner 245, 745, 945 & More Savings Published by Save Bubble](https://www.businesswire.com/news/home/20211114005098/en/Black-Friday-Garmin-Forerunner-Deals-2021-Best-Early-Forerunner-245-745-945-More-Savings-Published-by-Save-Bubble)
+
+
+> November 14, 2021 11:00 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday sales researchers have rated all the top early Garmin Forerunner deals for Black Friday, featuring offers on the 945 LTE, 645, 235 & more. Explore the best deals in the list below. Best Garmin Forerunner Deals: Best Garmin Deals: Looking for more deals? Click here to shop the full selection of live deals at Walmart's Black Friday sale and click here to see Amazon's latest Black Friday deals. Save Bubble earns commissions from purchases made using the links provided.
+
+
+***
+![Aim Lab Partners With Riot Games for Arcane-Themed In-Game Training Experience](http://www.businesswire.com/images/bwlogo_square.png "Aim Lab Partners With Riot Games for Arcane-Themed In-Game Training Experience")
+
+
+[Aim Lab Partners With Riot Games for Arcane-Themed In-Game Training Experience](https://www.businesswire.com/news/home/20211114005278/en/Aim-Lab-Partners-With-Riot-Games-for-Arcane-Themed-In-Game-Training-Experience)
+
+
+> November 14, 2021 11:00 AM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--In partnership with Riot Games, Aim Lab, the training tool of choice for more than 20 million players who want to improve at playing the games they love, today announced the launch of two limited-time experiences from Arcane, the animated series based on Riot Games' League of Legends franchise. Launching today, players can enter a shooting gallery themed to the Undercity location in the animated series as they play through an Arcane-themed task and rise to the top of the leaderboard.
+
+
