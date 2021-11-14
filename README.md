@@ -31282,3 +31282,53 @@
 > (Bloomberg) -- H&M's chief technology officer is trying to make smart clothing mainstream, at a time when clothing manufacturers are struggling with complex supply chains and environmental pressure. Alan Boehme is examining how H&M's clothes could monitor your heart rate or hydration levels, and how artificial intelligence could shrink H&M's supply chain, potentially decreasing the company's carbon footprint. In September, H&M couldn't keep up with demand because of delays and disruptions of product flows.
 
 
+***
+![Spacecom Policy Going to Make Satcom Sector Dynamic: Shivaji Chatterjee](https://telecomtalk.info/wp-content/uploads/2021/11/spacecom-policy-going-to-make-satcom-sector.jpg "Spacecom Policy Going to Make Satcom Sector Dynamic: Shivaji Chatterjee")
+
+
+[Spacecom Policy Going to Make Satcom Sector Dynamic: Shivaji Chatterjee](https://telecomtalk.info/spacecom-policy-going-to-make-satcom-sector/479238/)
+
+
+> There are so many different uses of Satcom around the world based on very open regulations, which create an ecosystem, which is very friendly. And I think that is what will get unshackled. And, I think once the SpaceCom policy comes out, it's going to be even more dynamic, says Shivaji Chatterjee, Senior Vice President and Head of Enterprise Business, Hughes Communications India Private Limited.Q1. So, Shivaji What Are Your Views on the Progress of India's Satellite Space Ecosystem. What Are the Challenges and Opportunities That Lie Ahead?What has happened in the last one to two years, I think mainly during the first phase of the lockdown was that the finance ministry offered you know, lots of SOPs - announced by the Finance Minister.
+
+
+***
+![Black Friday iPhone 13 Deals 2021: Early Unlocked & Networked iPhone 13 & 13 mini Deals Compiled by The Consumer Post](https://mms.businesswire.com/media/20211114005089/en/835870/23/Black_Friday_2021_%28TCP%29.jpg "Black Friday iPhone 13 Deals 2021: Early Unlocked & Networked iPhone 13 & 13 mini Deals Compiled by The Consumer Post")
+
+
+[Black Friday iPhone 13 Deals 2021: Early Unlocked & Networked iPhone 13 & 13 mini Deals Compiled by The Consumer Post](https://www.businesswire.com/news/home/20211114005089/en/Black-Friday-iPhone-13-Deals-2021-Early-Unlocked-Networked-iPhone-13-13-mini-Deals-Compiled-by-The-Consumer-Post)
+
+
+> November 14, 2021 09:00 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Find the best early iPhone 13 & iPhone 13 mini deals for Black Friday 2021, together with locked+carrier & unlocked iPhone sales. Access the latest deals using the links below. Best iPhone 13 Deals: Save up to $800 on the iPhone 13 at Verizon.com - the iPhone 13 is powerful and durable, equipped with the new A15 Bionic chip and designed with an IP68 water-resistance Shop the latest prepaid & no contract iPhone 13 deals at StraightTalk.
+
+
+***
+![65 Inch TV Black Friday Deals 2021: Best Early Sony, Samsung &amp; More TV Deals Monitored by Consumer Walk](https://mms.businesswire.com/media/20211114005082/en/836021/23/Black_Friday_2021_%28CW%29.jpg "65 Inch TV Black Friday Deals 2021: Best Early Sony, Samsung &amp; More TV Deals Monitored by Consumer Walk")
+
+
+[65 Inch TV Black Friday Deals 2021: Best Early Sony, Samsung &amp; More TV Deals Monitored by Consumer Walk](http://www.businesswire.com/news/home/20211114005082/en/65-Inch-TV-Black-Friday-Deals-2021-Best-Early-Sony-Samsung-More-TV-Deals-Monitored-by-Consumer-Walk/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOSTON--(BUSINESS WIRE)--Early Black Friday 65 inch TV deals are underway. Find the best deals on Vizio, Samsung & Sony 4K TVs and Philips & TCL Roku TVs. Links to the top deals are listed below. Best 65 Inch TV Deals: Best TV Deals: Interested in more deals? Click here to shop the entire range of deals at Walmart's Black Friday sale and click here to browse Amazon's latest Black Friday sales. Consumer Walk earns commissions from purchases made using the links provided. About Consumer Walk: Consumer Walk reports the latest online retail news.
+
+
+***
+![Best Canon Camera Black Friday Deals (2021): Best Early Canon M50, EOS Rebel T7i, T7, T6i, T6, EOS R5, R6, 80D & G7 X Mark II Sales Highlighted by Deal Tomato](https://mms.businesswire.com/media/20211114005068/en/836216/23/Black_Friday_2021_%28DT%29.jpg "Best Canon Camera Black Friday Deals (2021): Best Early Canon M50, EOS Rebel T7i, T7, T6i, T6, EOS R5, R6, 80D & G7 X Mark II Sales Highlighted by Deal Tomato")
+
+
+[Best Canon Camera Black Friday Deals (2021): Best Early Canon M50, EOS Rebel T7i, T7, T6i, T6, EOS R5, R6, 80D & G7 X Mark II Sales Highlighted by Deal Tomato](https://www.businesswire.com/news/home/20211114005068/en/Best-Canon-Camera-Black-Friday-Deals-2021-Best-Early-Canon-M50-EOS-Rebel-T7i-T7-T6i-T6-EOS-R5-R6-80D-G7-X-Mark-II-Sales-Highlighted-by-Deal-Tomato)
+
+
+> November 14, 2021 08:50 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Find all the latest early Canon (Camera) deals for Black Friday 2021, including the latest Canon 80D, EOS Rebel & EOS R savings. Links to the best deals are listed below. Best Canon Deals: Save up to 44% on a wide range of Canon cameras, lens bundles, digital cameras & printers at Walmart - deals available now on the latest Canon DSLR, mirrorless and Powershot digital cameras Save up to 44% on Canon EOS Rebel T7i & T7 DSLR cameras & bundles at Walmart - check the latest deals on a wide range of Canon DSLR cameras and bundles Save up to 38% on Canon M50 cameras at Walmart - check live prices on Canon EOS M50 mirrorless digital cameras, kits & accessories Save on Canon M50 cameras at Amazon - check the latest deals on Canon M50 cameras and lens bundle deals Save up to $150 on Canon EOS Rebel T7 & T7i DSLR cameras at Amazon - check prices on top-rated EOS Rebel T7 & T7i models, lenses, cases & bundle kits at Amazon Save up to $150 on a wide range of Canon DSLR, mirrorless and digital cameras at Amazon - check live deals on bundles, travel kits, lenses, filters & tripods Save up to $200 on Canon DSLR cameras, digital cameras & accessory bundles at Canon.
+
+
+***
+![AirPods Max Black Friday Deals 2021 Rated by Retail Fuse](https://mms.businesswire.com/media/20211114005073/en/836168/23/Black_Friday_2021_%28RF%29.jpg "AirPods Max Black Friday Deals 2021 Rated by Retail Fuse")
+
+
+[AirPods Max Black Friday Deals 2021 Rated by Retail Fuse](https://www.businesswire.com/news/home/20211114005073/en/AirPods-Max-Black-Friday-Deals-2021-Rated-by-Retail-Fuse)
+
+
+> November 14, 2021 08:45 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the top early AirPods Max wireless headphones deals for Black Friday 2021, featuring Apple AirPods sales. Links to the top deals are listed below. Best AirPods Max Deals: Best AirPods Deals: Want some more deals? Check out Walmart's Black Friday deals and Amazon's Black Friday page to compare thousands more active savings at the moment. Retail Fuse earns commissions from purchases made using the links provided. About Retail Fuse: Retail Fuse reports the latest retail news.
+
+
