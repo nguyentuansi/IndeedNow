@@ -31232,3 +31232,53 @@
 > The president of the summit in charge of the latest major global deal has broken down in tears and apologised on camera, surprising onlookers.The president of the summit in charge of the latest global climate change deals has broken down in tears and apologised after nearly 200 nations came together after two weeks of painful negotiation, but fell short of what science says is needed to contain dangerous temperature rises.Rich countries stood accused of failing at the COP26 summit in Glasgow to deliver much-needed finance to vulnerable states at risk of drought, rising seas, fire and storms.
 
 
+***
+![iPhone 13 Pro, iPhone 13 Pro Max get Macro toggle in camera app after new iOS release](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/iphone-13-pro-review-display-i-original.jpg "iPhone 13 Pro, iPhone 13 Pro Max get Macro toggle in camera app after new iOS release")
+
+
+[iPhone 13 Pro, iPhone 13 Pro Max get Macro toggle in camera app after new iOS release](https://www.indiatoday.in/technology/news/story/iphone-13-pro-iphone-13-pro-max-get-macro-toggle-in-camera-app-after-new-ios-release-1876596-2021-11-14)
+
+
+> Akarsh Verma New Delhi, Nov 14, 2021, Updated Nov 14, 2021, 3:57 PM IST Story highlights This feature allows users to manually turn off Macro mode directly from the Camera app. At the time of the launch of the iPhone 13 Pro, there was no manual toggle for macro mode. Apple's latest iOS 15.2 beta is making the iPhone 13 Pro's Macro Mode simple by adding a button to let users turn it on and off. The iPhone 13 Pro series, which consists of the base iPhone 13 Pro and the higher-end iPhone 13 Pro Max, is equipped with a great camera system.
+
+
+***
+![OnePlus Nord 2 x PAC-MAN Edition is here and it is going be available in India soon](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202111/neplus-nord2-pacman-edition_0-original.jpg "OnePlus Nord 2 x PAC-MAN Edition is here and it is going be available in India soon")
+
+
+[OnePlus Nord 2 x PAC-MAN Edition is here and it is going be available in India soon](https://www.indiatoday.in/technology/features/story/oneplus-nord-2-x-pac-man-edition-is-here-and-it-is-going-be-available-in-india-soon-1876600-2021-11-14)
+
+
+> Story highlights OnePlus Nord 2 x PAC-MAN Edition will be available in a single 12GB RAM and 256GB storage model. It will be available in India at a price of Rs 37,999. The OnePlus Nord 2 x PAC-MAN Edition comes with a redesigned back panel. The OnePlus Nord 2 x PAC-MAN Edition is 2021's limited edition device from the house of OnePlus. After weeks of speculations, the company finally revealed details about the all-new PAC-MAN Edition device that has been developed in partnership with Bandai Namco Entertainment Inc.
+
+
+***
+![Black Friday Apple Watch Series 3 Deals (2021) Found by Spending Lab](https://mms.businesswire.com/media/20211114005056/en/835848/23/Black_Friday_2021_%28SL%29.jpg "Black Friday Apple Watch Series 3 Deals (2021) Found by Spending Lab")
+
+
+[Black Friday Apple Watch Series 3 Deals (2021) Found by Spending Lab](https://www.businesswire.com/news/home/20211114005056/en/Black-Friday-Apple-Watch-Series-3-Deals-2021-Found-by-Spending-Lab)
+
+
+> November 14, 2021 07:00 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday Apple Watch Series 3 deals are underway. Compare the best deals on 38mm and 42mm Apple Watch 3 models. View the latest deals listed below. Best Apple Watch Series 3 Deals: Best Apple Watch Deals: Save up to 39% on Apple Watches including the Apple Watch 6, SE, 5, 4 & 3 at Amazon - click the link for live prices on the latest Apple Watch Series 6 & SE and older Series 5, 4, and 3 smartwatches Save on the latest Apple Watches at Verizon.
+
+
+***
+![Black Friday Garmin Deals (2021): Early Fitness Trackers & Smartwatch Deals Listed by Retail Fuse](https://mms.businesswire.com/media/20211114005065/en/836168/23/Black_Friday_2021_%28RF%29.jpg "Black Friday Garmin Deals (2021): Early Fitness Trackers & Smartwatch Deals Listed by Retail Fuse")
+
+
+[Black Friday Garmin Deals (2021): Early Fitness Trackers & Smartwatch Deals Listed by Retail Fuse](https://www.businesswire.com/news/home/20211114005065/en/Black-Friday-Garmin-Deals-2021-Early-Fitness-Trackers-Smartwatch-Deals-Listed-by-Retail-Fuse)
+
+
+> November 14, 2021 06:55 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our guide to all the best early Garmin deals for Black Friday, featuring discounts on the Garmin Venu, vivoactive & more Garmin smartwatches and bundles. Explore the full range of deals in the list below. Best Garmin Deals: Best Garmin Watch Deals: Save up to 36% on Garmin Forerunner, vivoactive, fenix series & more Garmin smartwatches at Walmart - check the latest deals on a wide range of standard & premium Garmin GPS smartwatches Save up to $70 on Garmin smartwatches with GPS & multisports features at Garmin.
+
+
+***
+![H&M's Tech Chief Wants Clothes to Compete With Wearables](http://www.bnnbloomberg.ca/img/tsn/logos/tsn-logo.png "H&M's Tech Chief Wants Clothes to Compete With Wearables")
+
+
+[H&M's Tech Chief Wants Clothes to Compete With Wearables](http://www.bnnbloomberg.ca/h-m-s-tech-chief-wants-clothes-to-compete-with-wearables-1.1681707)
+
+
+> (Bloomberg) -- H&M's chief technology officer is trying to make smart clothing mainstream, at a time when clothing manufacturers are struggling with complex supply chains and environmental pressure. Alan Boehme is examining how H&M's clothes could monitor your heart rate or hydration levels, and how artificial intelligence could shrink H&M's supply chain, potentially decreasing the company's carbon footprint. In September, H&M couldn't keep up with demand because of delays and disruptions of product flows.
+
+
