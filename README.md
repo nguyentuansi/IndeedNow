@@ -31722,3 +31722,43 @@
 > In what seems to be an unexpected partnership, Microsoft and Gucci have teamed up to launch a limited-edition Xbox Series X console. The console comes in a special Xbox|Gucci carrying case, 2x Gucci-themed Xbox Series X wireless controllers and Xbox Game Pass Ultimate, all for $10,000. The customised controllers will come in black with a red and blue stripe inspired by the House Web, with the Gucci logo printed below the analogue sticks. Besides its aesthetics, it looks like any other standard Xbox Series X wireless controller.
 
 
+***
+![Qualcomm Snapdragon 8 Gen1 Might Go Official on November 30](https://telecomtalk.info/wp-content/uploads/2021/11/qualcomm-snapdragon-8-gen1-soc-launch-date.jpg "Qualcomm Snapdragon 8 Gen1 Might Go Official on November 30")
+
+
+[Qualcomm Snapdragon 8 Gen1 Might Go Official on November 30](https://telecomtalk.info/qualcomm-snapdragon-8-gen1-soc-launch-date/479394/)
+
+
+> The US-based chipset maker Qualcomm has confirmed when it will host the Snapdragon Summit. Usually, the company will launch its flagship chipsets during this annual event. Now, Qualcomm has confirmed that the event will be hosted on November 30. Previously, it was rumoured that the company would unveil the successor to the Snapdragon 888 chipset, and it is tipped to be dubbed Snapdragon 898 or Snapdragon 895 SoC.Qualcomm Summit Date ConfirmedFrom the recent reports, it looks like the upcoming chipset will be called Snapdragon 895 or Snapdragon 898 soC, with the reports speculating the last option.
+
+
+***
+![Japan looking to beef up chip, storage battery sectors as part of stimulus plan](https://apicms.thestar.com.my/uploads/images/2021/11/15/1368644.jpg "Japan looking to beef up chip, storage battery sectors as part of stimulus plan")
+
+
+[Japan looking to beef up chip, storage battery sectors as part of stimulus plan](https://www.thestar.com.my/tech/tech-news/2021/11/15/japan-looking-to-beef-up-chip-storage-battery-sectors-as-part-of-stimulus-plan)
+
+
+> FILE PHOTO: Japan's new Economy, Trade and Industry Minister Koichi Hagiuda wearing a protective mask amid the coronavirus disease (COVID-19) outbreak, speaks at a news conference in Tokyo, Japan, October 5, 2021. REUTERS/Kim Kyung-Hoon
+
+
+***
+![Samsung Unveils Android 12-driven One UI 4 For Galaxy S21 Series](https://www.glamsham.com/wp-content/uploads/2021/10/Optimum-Featured-Image-Not-Found-Will-Be-attached-When-Available-1.png "Samsung Unveils Android 12-driven One UI 4 For Galaxy S21 Series")
+
+
+[Samsung Unveils Android 12-driven One UI 4 For Galaxy S21 Series](https://www.glamsham.com/world/technology/samsung-unveils-android-12-driven-one-ui-4-for-galaxy-s21-series)
+
+
+> New Delhi, Nov 15 (IANS) Samsung Electronics on Monday announced the official launch of One UI 4 that will roll out first on the Galaxy S21 series including Galaxy S21, Galaxy S21+ and Galaxy S21 Ultra.The update is based on Android 12 and adds new theming options, keyboard tweaks and privacy settings.One UI 4 will be available on the Galaxy S21 series starting November 15 and will soon become available on previous Galaxy S and Note series as well as Galaxy Z series, A series and tablets.'One UI 4 delivers on that promise, equipping Galaxy smartphone users with the latest customization and privacy features.
+
+
+***
+![India's 41st Scientific Expedition Reaches Antarctica](https://www.glamsham.com/wp-content/uploads/2021/10/Optimum-Featured-Image-Not-Found-Will-Be-attached-When-Available-1.png "India's 41st Scientific Expedition Reaches Antarctica")
+
+
+[India's 41st Scientific Expedition Reaches Antarctica](https://www.glamsham.com/world/technology/indias-41st-scientific-expedition-reaches-antarctica)
+
+
+> New Delhi, Nov 15 (IANS) Geological exploration of the Amery ice shelf at Bharati station and reconnaissance surveys and preparatory work for drilling of 500 meters of ice core near Maitri would be the two main programmes of India's 41st expedition to Antarctica.The first batch of 23 scientists and support staff that is part of the 41st Scientific Expedition to Antarctica reached the southern white continent's Indian Antarctic station Maitri last week, a release from the Ministry of Earth Sciences said on Monday.
+
+
