@@ -31672,3 +31672,53 @@
 > New York, Nov 15 (IANS) US researchers have in a first-of-its-kind study explored the relationship between neuron activity and blood flow deep in the brain, as well as how the brain is affected by salt consumption, resulting in cognitive decline such as Alzheimer's.The team from the Georgia State University focused on the hypothalamus — a deep brain region involved in critical body functions including drinking, eating, body temperature regulation and reproduction.The study, published in the journal Cell Reports, examined how blood flow to the hypothalamus changes in response to salt intake.
 
 
+***
+![Kerala IT Parks News, Updates, Videos and Photos from Tech Observer](https://i2.wp.com/techobserver.in/wp-content/uploads/2019/11/400x400.png?fit=400%2C400&ssl=1 "Kerala IT Parks News, Updates, Videos and Photos from Tech Observer")
+
+
+[Kerala IT Parks News, Updates, Videos and Photos from Tech Observer](https://techobserver.in/topic/kerala-it-parks/)
+
+
+> The IT sector in Kerala will have an additional Rs 6,000 crore of investment through projects to be set up in various campuses including the Pallipuram Technocity, Technopark Phase 3, Kochi Infopark
+
+
+***
+![L3Harris to Upgrade Space Force Counter-Communications Via $125 Million Contract](https://mms.businesswire.com/media/20211115005135/en/739492/23/L3Harris.jpg "L3Harris to Upgrade Space Force Counter-Communications Via $125 Million Contract")
+
+
+[L3Harris to Upgrade Space Force Counter-Communications Via $125 Million Contract](https://www.businesswire.com/news/home/20211115005135/en/L3Harris-to-Upgrade-Space-Force-Counter-Communications-Via-125-Million-Contract)
+
+
+> November 15, 2021 07:00 AM Eastern Standard Time MELBOURNE, Fla.--(BUSINESS WIRE)--L3Harris Technologies (NYSE:LHX) received a $125 million multi-year contract to produce space electronic warfare systems that safeguard U.S. military operations and warfighters. Under the Meadowlands production program, L3Harris will upgrade 16 Block 10.2 versions of Counter-Communications Systems (CCS) operating in Peterson Space Force Base, Colo., Vandenburg Space Force Base, Calif., Cape Canaveral Space Force Station, Fla.
+
+
+***
+![Samsung launches 8GB RAM variant of Galaxy A32 with RAM Plus feature; what RAM Plus feature means for users](https://static.toiimg.com/thumb/msid-87716588,width-1070,height-580,imgsize-10380,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Samsung launches 8GB RAM variant of Galaxy A32 with RAM Plus feature; what RAM Plus feature means for users")
+
+
+[Samsung launches 8GB RAM variant of Galaxy A32 with RAM Plus feature; what RAM Plus feature means for users](https://timesofindia.indiatimes.com/gadgets-news/samsung-launches-8gb-ram-variant-of-galaxy-a32-with-ram-plus-feature-what-ram-plus-feature-means-for-users/articleshow/87716588.cms)
+
+
+> Smartphone brand Samsung has launched the 8GB RAM model of its Galaxy A32 in India. The new variant has a stor... Read More Smartphone brand Samsung has launched the 8GB RAM model of its Galaxy A32 in India. The new variant has a storage capacity of 128GB and is priced at Rs 23,499. Key highlight of the phone is the RAM Plus feature which allows users to virtually expand Galaxy A32's 8GB memory to 12GB. To recall, the smartphone was launched in 2021 in a single 6GB RAM model. It was priced at Rs 21,999 then and is now selling at Rs 20,999 after a price cut.
+
+
+***
+![1&1 Versatel Partners With RingCentral to Bring the Power of Gigabit Internet and Business Communications to its Customers](https://mms.businesswire.com/media/20211115005184/en/1143398/23/RingCentral_logo_fullcolor.jpg "1&1 Versatel Partners With RingCentral to Bring the Power of Gigabit Internet and Business Communications to its Customers")
+
+
+[1&1 Versatel Partners With RingCentral to Bring the Power of Gigabit Internet and Business Communications to its Customers](https://www.businesswire.com/news/home/20211115005184/en/11-Versatel-Partners-With-RingCentral-to-Bring-the-Power-of-Gigabit-Internet-and-Business-Communications-to-its-Customers)
+
+
+> November 15, 2021 07:00 AM Eastern Standard Time DÜSSELDORF, Germany & BELMONT, Calif.--(BUSINESS WIRE)--1&1 Versatel, one of Germany's leading business-to-business (B2B) providers of fiber gigabit connections and network-related services, today announced their partnership with RingCentral, Inc. (NYSE: RNG), a leading provider of global enterprise cloud communications, video meetings, collaboration, and contact center solutions. As part of the partnership, 1&1 Versatel will offer customers a new co-branded cloud communications solution, RingCentral mit 1&1 Connected Calls, which includes RingCentral's Message Video Phone™ (MVP®) platform and RingCentral's stand-alone video meetings and team messaging product as well as cloud phone system.
+
+
+***
+![Microsoft and Gucci releasing a $10,000 Xbox Series X console bundle](https://www.kitguru.net/wp-content/uploads/2021/11/BestOfEditsFeatured_XBOX-BY-GUCCI-2021-Luggage-pad-console_001_Default-660x330.jpg "Microsoft and Gucci releasing a $10,000 Xbox Series X console bundle")
+
+
+[Microsoft and Gucci releasing a $10,000 Xbox Series X console bundle](https://www.kitguru.net/tech-news/featured-tech-news/joao-silva/microsoft-and-gucci-releasing-a-10000-xbox-series-x-console-bundle/)
+
+
+> In what seems to be an unexpected partnership, Microsoft and Gucci have teamed up to launch a limited-edition Xbox Series X console. The console comes in a special Xbox|Gucci carrying case, 2x Gucci-themed Xbox Series X wireless controllers and Xbox Game Pass Ultimate, all for $10,000. The customised controllers will come in black with a red and blue stripe inspired by the House Web, with the Gucci logo printed below the analogue sticks. Besides its aesthetics, it looks like any other standard Xbox Series X wireless controller.
+
+
