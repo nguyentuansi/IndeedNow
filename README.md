@@ -31762,3 +31762,53 @@
 > New Delhi, Nov 15 (IANS) Geological exploration of the Amery ice shelf at Bharati station and reconnaissance surveys and preparatory work for drilling of 500 meters of ice core near Maitri would be the two main programmes of India's 41st expedition to Antarctica.The first batch of 23 scientists and support staff that is part of the 41st Scientific Expedition to Antarctica reached the southern white continent's Indian Antarctic station Maitri last week, a release from the Ministry of Earth Sciences said on Monday.
 
 
+***
+![TelecomTV Strategy Outlook: Service Management and Orchestration – The keys to Open RAN success](https://assets.telecomtv.com/assets/telecomtv/1920x1080-ericstratout-livespeakers-151121-13129.jpg?w=1200 "TelecomTV Strategy Outlook: Service Management and Orchestration – The keys to Open RAN success")
+
+
+[TelecomTV Strategy Outlook: Service Management and Orchestration – The keys to Open RAN success](https://www.telecomtv.com/content/strategy-outlook-keys-to-open-ran-success/telecomtv-strategy-outlook-service-management-and-orchestration-the-keys-to-open-ran-success-42807/)
+
+
+> We will be hosting our final session on Open RAN, live, on Tuesday 16th November at 3pm UK/4pm CET. As well as sharing results of the latest research into Open RAN, the event will focus on the O-RAN Alliance Service Management and Orchestration (SMO) domain. Stay up to date with the latest industry developments: sign up to receive TelecomTV's top news and videos plus exclusive subscriber-only content direct to your inbox – including our daily news briefing and weekly wrap. © Decisive Media Limited 2021.
+
+
+***
+![E-scooter firm TIER buys Nextbike in bid to expand offerings](https://apicms.thestar.com.my/uploads/images/2021/11/15/1369082.jpg "E-scooter firm TIER buys Nextbike in bid to expand offerings")
+
+
+[E-scooter firm TIER buys Nextbike in bid to expand offerings](https://www.thestar.com.my/tech/tech-news/2021/11/15/e-scooter-firm-tier-buys-nextbike-in-bid-to-expand-offerings)
+
+
+> FILE PHOTO: E-scooters of Tier Mobility, a start-up for shared micro-mobility services, are parked in Cologne, Germany, July 23, 2019. REUTERS/Wolfgang Rattay/File Photo BERLIN (Reuters) - Berlin-based e-scooter operator TIER Mobility has bought bike-sharing firm Nextbike to create Europe's largest provider of shared lightweight vehicles, the companies said on Monday.The deal, which will bring rentable bicycles, e-bicycles, e-scooters, e-mopeds and cargo bikes into one network, could mark the first big acquisition in a likely period of consolidation in the highly fragmented industry, with smaller players getting snapped up over the next 12 months.
+
+
+***
+![NASA Scientists Think 'Singing Trees' Can Bring Us Closer to Another World](https://inteng-storage.s3.amazonaws.com/img/iea/ypwq3xAMGN/sizes/nasa-scientists-think-singing-trees-can-bring-us-closer-to-another-world_md.jpg "NASA Scientists Think 'Singing Trees' Can Bring Us Closer to Another World")
+
+
+[NASA Scientists Think 'Singing Trees' Can Bring Us Closer to Another World](https://interestingengineering.com/nasa-scientists-think-singing-trees-can-bring-us-closer-to-another-world)
+
+
+> A project led by a group of NASA scientists that brings art and science together called The Tree of Life wants to connect the Earth and space through a song that will last two centuries. And this unusual duet will be transmitted through radio waves between a spacecraft in low Earth orbit and a collection of trees that have been rigged to function as a living antenna system.It sounds straight out of a science fiction movie, and it gets more interesting the more you learn about it. In fact, the project began as part of a larger effort to design a potential future spacecraft capable of reaching Proxima B, an exoplanet located 4.
+
+
+***
+![2022 Toyota Camry available in 18 variants, new Nightshade Hybrid joins the lineup](https://cdn.slashgear.com/wp-content/uploads/2021/11/CAM-SE-HYB_MY22_High-1500x1124-1.jpg "2022 Toyota Camry available in 18 variants, new Nightshade Hybrid joins the lineup")
+
+
+[2022 Toyota Camry available in 18 variants, new Nightshade Hybrid joins the lineup](https://www.slashgear.com/2022-toyota-camry-available-in-18-variants-new-nightshade-hybrid-joins-the-lineup-15699260/)
+
+
+> Without question, the 2022 Toyota Camry remains the brand's top-selling family sedan. This year saw the introduction of no less than 17 variants, including a blacked-out Nightshade appearance package for the Camry SE with the four-cylinder engine. Now, you can get the Nightshade package for the 2022 Camry Hybrid, while the Camry TRD has a new and exclusive Cavalry Blue and Midnight Black Metallic two-tone paint option. The new Toyota Camry's bewildering array of trim models include five hybrids (LE, XLE, SE, SE Nightshade, and XSE), three V6 models (XLE, XSE, and TRD), and five trims with four-cylinder engines (LE, XLE, SE, SE Nightshade, and XSE) available in front-wheel-drive (FWD) or all-wheel drive (AWD).
+
+
+***
+![Tesla delivers some new EVs missing USB ports](https://cdn.slashgear.com/wp-content/uploads/2021/11/tesla-model-3-red.jpg "Tesla delivers some new EVs missing USB ports")
+
+
+[Tesla delivers some new EVs missing USB ports](https://www.slashgear.com/tesla-delivers-some-new-evs-missing-usb-ports-15699306/)
+
+
+> At this point, most people who follow the automotive market know that the pandemic has created a significant shortage of processors and other components. Typically, missing components have to do with chips to operate computerized sensors and other items inside the vehicles. However, parts shortages are impacting other components you might not expect. One example is new Tesla Model 3 and Model Y vehicles that have reportedly been delivered recently missing USB ports. According to buyers of these vehicles, Tesla typically doesn't say anything.
+
+
