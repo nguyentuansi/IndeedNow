@@ -31812,3 +31812,13 @@
 > At this point, most people who follow the automotive market know that the pandemic has created a significant shortage of processors and other components. Typically, missing components have to do with chips to operate computerized sensors and other items inside the vehicles. However, parts shortages are impacting other components you might not expect. One example is new Tesla Model 3 and Model Y vehicles that have reportedly been delivered recently missing USB ports. According to buyers of these vehicles, Tesla typically doesn't say anything.
 
 
+***
+![Tobii Dynavox TD Pilot adds eye control to iPad](https://cdn.slashgear.com/wp-content/uploads/2021/11/tobiidynavox.jpg "Tobii Dynavox TD Pilot adds eye control to iPad")
+
+
+[Tobii Dynavox TD Pilot adds eye control to iPad](https://www.slashgear.com/tobii-dynavox-td-pilot-adds-eye-control-to-ipad-15699324)
+
+
+> Tobii Dynavox TD Pilot adds eye control to iPad TD Pilot is a device that fits around an iPad to enable eye tracking control. Tobii Dynavox made this TD Pilot device to provide native integration of eye tracking for iPadOS with the latest iPadOS 15 and the latest iteration of the standard iPad. This latest innovation from Tobii Dynavox adds to their already wide range of applications of eye tracking tech in multiple areas of our greater gadget industry. The latest version of this eye-tracking tech ad created by Tobii Dynavox allows precise control in most lighting conditions – 'even in bright sunlight.
+
+
