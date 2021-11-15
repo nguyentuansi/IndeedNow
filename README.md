@@ -31832,3 +31832,33 @@
 > Technology billionaire Peter Thiel is reportedly moving into an enclave of Washington power players. The PayPal co-founder and friend of former President Donald Trump has bought the $13 million, 10,000-square-foot mansion of former Trump Commerce Secretary Wilbur Ross, Politico reported Monday. The property is in the Woodland-Normanstone neighborhood in D.C. and was the most expensive D.C. home sale of the last 12 months, the news outlet reported. The ritzy neighborhood is also home to Trump's former treasury secretary, Steven Mnuchin and senior adviser Kellyanne Conway.
 
 
+***
+![Drone Deliveries Taking Off in Healthcare](https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg "Drone Deliveries Taking Off in Healthcare")
+
+
+[Drone Deliveries Taking Off in Healthcare](https://www.healthleadersmedia.com/technology/drone-deliveries-taking-healthcare)
+
+
+> Intermountain Healthcare will be using drones to deliver prescriptions and other medical supplies to homes in and around Salt Lake City.The multi-state health system, based in Salt Lake City, has announced a partnership with Zipline, a San Francisco-based medical product delivery company. The deal will enable Intermountain to used drones to ship specialty pharmaceuticals and homecare products to homes within 50 miles of the health system's distribution center.'Making access to healthcare faster and more convenient will lead to better health outcomes for our patients,' Intermountain President and CEO Marc Harrison said in a press release.
+
+
+***
+![Nano One Materials: Changing How the World Makes Battery Materials](https://investingnews.com/app/uploads/2021/11/nano-one-materials_innqm_2655712887.png "Nano One Materials: Changing How the World Makes Battery Materials")
+
+
+[Nano One Materials: Changing How the World Makes Battery Materials](https://investingnews.com/daily/tech-investing/nano-one-materials-changing-how-the-world-makes-battery-materials-2655712887)
+
+
+> Nano One Materials Corp. (Nano One)(TSX:NANO,FWB:LBMB,OTC: Nasdaq Int'l Designation:NNOMF)) has launched its campaign on the Investing News Network. Nano One Materials Corp. (Nano One) (TSX:NANO,FWB:LBMB,OTC: Nasdaq Int'l Designation:NNOMF) aims to establish its technology as the leading platform for the global production of green battery materials through licensing and joint venture agreements. The company is led by a highly experienced management team with decades of experience in financing, capital growth, technology management metals and mining and the sciences.
+
+
+***
+![Tech Billionaire Thiel Moving to DC Enclave of Power Players: Report](https://express-images.franklymedia.com/asset/express-cms-admin-logo.png "Tech Billionaire Thiel Moving to DC Enclave of Power Players: Report")
+
+
+[Tech Billionaire Thiel Moving to DC Enclave of Power Players: Report](https://www.kvor.com/news/tech-billionaire-thiel-moving-to-dc-enclave-of-power-players-report)
+
+
+> Technology billionaire Peter Thiel is reportedly moving into an enclave of Washington power players. The PayPal co-founder and friend of former President Donald Trump has bought the $13 million, 10,000-square-foot mansion of former Trump Commerce Secretary Wilbur Ross, Politico reported Monday. The property is in the Woodland-Normanstone neighborhood in D.C. and was the most expensive D.C. home sale of the last 12 months, the news outlet reported. The ritzy neighborhood is also home to Trump's former treasury secretary, Steven Mnuchin and senior adviser Kellyanne Conway.
+
+
