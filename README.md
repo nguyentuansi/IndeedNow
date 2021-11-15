@@ -31822,3 +31822,13 @@
 > Tobii Dynavox TD Pilot adds eye control to iPad TD Pilot is a device that fits around an iPad to enable eye tracking control. Tobii Dynavox made this TD Pilot device to provide native integration of eye tracking for iPadOS with the latest iPadOS 15 and the latest iteration of the standard iPad. This latest innovation from Tobii Dynavox adds to their already wide range of applications of eye tracking tech in multiple areas of our greater gadget industry. The latest version of this eye-tracking tech ad created by Tobii Dynavox allows precise control in most lighting conditions – 'even in bright sunlight.
 
 
+***
+![Tech Billionaire Thiel Moving to DC Enclave of Power Players: Report](https://s3.amazonaws.com/tl-ampcms-prod/6616/sites/262/2015/05/26144354/KLIF_Logo-NEW-2012-02-02-outlines-Red-Blue1.jpg "Tech Billionaire Thiel Moving to DC Enclave of Power Players: Report")
+
+
+[Tech Billionaire Thiel Moving to DC Enclave of Power Players: Report](https://www.klif.com/news/tech-billionaire-thiel-moving-to-dc-enclave-of-power-players-report)
+
+
+> Technology billionaire Peter Thiel is reportedly moving into an enclave of Washington power players. The PayPal co-founder and friend of former President Donald Trump has bought the $13 million, 10,000-square-foot mansion of former Trump Commerce Secretary Wilbur Ross, Politico reported Monday. The property is in the Woodland-Normanstone neighborhood in D.C. and was the most expensive D.C. home sale of the last 12 months, the news outlet reported. The ritzy neighborhood is also home to Trump's former treasury secretary, Steven Mnuchin and senior adviser Kellyanne Conway.
+
+
