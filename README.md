@@ -31462,3 +31462,53 @@
 > A few months af­ter Eli Lil­ly and Boehringer In­gel­heim broke in­to the chron­ic heart fail­ure space with their SGLT2 in­hibitor Jar­diance, the part­ners are al­ready plot­ting an ex­pan­sion in­to acute heart fail­ure — and on Sun­day, they read out some piv­otal re­sults to back their bid. Acute heart fail­ure pa­tients were 36% more like­ly to ben­e­fit from Jar­diance than place­bo af­ter 90 days (p=0.0054), meet­ing the pri­ma­ry end­point in the Phase III EM­PULSE tri­al, Lil­ly and BI an­nounced at this year's Amer­i­can Heart As­so­ci­a­tion con­fer­ence.
 
 
+***
+![Everything To Know About Pokémon Brilliant Diamond And Shining Pearl](https://techstory.in/wp-content/uploads/2021/11/bdsp2-1.png "Everything To Know About Pokémon Brilliant Diamond And Shining Pearl")
+
+
+[Everything To Know About Pokémon Brilliant Diamond And Shining Pearl](https://techstory.in/everything-to-know-about-pokemon-brilliant-diamond-and-shining-pearl/)
+
+
+> Here's everything you need to know about Pokémon Brilliant Diamond And Shining Pearl, so you'll be ready when the Sinnoh remake is released on November 19, 2021. Earlier this year, the Pokemon Company finally announced Pokemon Brilliant Diamond and Shining Pearl, the highly anticipated remake. While we have a new studio reimagining popular Gen IV games, Nintendo and Game Freak make sure these titles match the original Pokemon Diamond and Pearl titles. Pokémon Brilliant Diamond And Shining Pearl will feature a number of improvements and quality of life updates.
+
+
+***
+![Black Friday NordVPN Deals 2021: Early VPN Plans, NordLocker & NordPass Sales Collated by Retail Fuse](https://mms.businesswire.com/media/20211114005208/en/836168/23/Black_Friday_2021_%28RF%29.jpg "Black Friday NordVPN Deals 2021: Early VPN Plans, NordLocker & NordPass Sales Collated by Retail Fuse")
+
+
+[Black Friday NordVPN Deals 2021: Early VPN Plans, NordLocker & NordPass Sales Collated by Retail Fuse](https://www.businesswire.com/news/home/20211114005208/en/Black-Friday-NordVPN-Deals-2021-Early-VPN-Plans-NordLocker-NordPass-Sales-Collated-by-Retail-Fuse)
+
+
+> November 14, 2021 07:06 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the top early NordVPN deals for Black Friday 2021, including password manager sales. Links to the top deals are listed below. Best NordVPN deals: Best VPN Deals: In need of some more deals? We recommend checking Walmart's Black Friday deals and Amazon's Black Friday page to enjoy hundreds more live deals available now. Retail Fuse earns commissions from purchases made using the links provided. About Retail Fuse: Retail Fuse reports the latest retail news.
+
+
+***
+![Next-gen business forecasting platform Pigment nabs $73M](https://venturebeat.com/wp-content/uploads/2021/11/PigmentVisual.png?resize=1024%2C591&is-pending-load=1#038;strip=all "Next-gen business forecasting platform Pigment nabs $73M")
+
+
+[Next-gen business forecasting platform Pigment nabs $73M](https://venturebeat.com/2021/11/14/next-gen-business-forecasting-platform-pigment-nabs-73m/)
+
+
+> Pigment, a next-gen business forecasting platform that's setting out to 'reboot the spreadsheet,' has raised $73 million in a series B round of funding led by Greenoaks. Any business seeking to harness and unlock big data insights to make better decisions has no shortage of tools at its disposal. But two-year-old French startup Pigment is challenging the business planning technology incumbents such as Anaplan and dusty old Excel spreadsheets by offering a more flexible, visual alternative that enables anyone in a company to embed forecasting into their applications, fine-tune their parameters and update their forecasts continuously.
+
+
+***
+![GTA Trilogy Pulled From PC](https://techstory.in/wp-content/uploads/2021/11/XeZdSvmsGgv6fhVioHHTLB.jpg "GTA Trilogy Pulled From PC")
+
+
+[GTA Trilogy Pulled From PC](https://techstory.in/gta-trilogy-pulled-from-pc/)
+
+
+> Due to a problem with the Rockstar Games Launcher, the PC version of GTA Trilogy has been discontinued for an unknown period of time. The launcher runs for no more than 12 hours and prevents many people from playing the PC version of the final version of the Grand Theft Auto Trilogy. After randomly launching the PC through the Rockstar Games Launcher, GTA Trilogy was removed from the PC and I don't know when it will come back. Grand Theft Auto: Trilogy-The final version was released on November 11, sparking controversy about the quality of the port, whether in terms of creative licensing for graphics upgrades or in terms of technical issues related to performance and stability.
+
+
+***
+![Writing great software isn't all about the software you write : programming](https://external-preview.redd.it/wt_AxEJTLn9HqbymAbL_RNTfzqgmtC6h2u2ka4xMbvY.jpg?auto=webp&s=5f39aee2abaa75cd28c11504bc0b88e3ad4c733f "Writing great software isn't all about the software you write : programming")
+
+
+[Writing great software isn't all about the software you write : programming](https://www.reddit.com/r/programming/comments/qu2y5m/writing_great_software_isnt_all_about_the)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
