@@ -31602,3 +31602,33 @@
 > November 14, 2021 10:50 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday 2021 researchers have revealed the best early graphics card deals for Black Friday, featuring deals on the RTX 3080, 3090, 2070, 2080 & more. Browse the best deals listed below. Best Graphics Card Deals: Save up to 50% on a wide range of MSI, ASUS & more top-rated graphics cards at Walmart Save up to 10% on a wide range of graphics cards & GPUs at Amazon - check the latest deals on popular NVIDIA & MSI graphics cards like the GeForce RTX 3060 & RTX 3070 Save up to 10% on graphics cards at eBay - check the hottest deals on ZOTAC, MSI, EVGA, ASUS, & Gigabyte graphic cards Save on top-selling graphics cards from top brands at StockX.
 
 
+***
+![South Korea abolishes night-time gaming ban for children](https://apicms.thestar.com.my/uploads/images/2021/11/15/1368330.jpeg "South Korea abolishes night-time gaming ban for children")
+
+
+[South Korea abolishes night-time gaming ban for children](https://www.thestar.com.my/tech/tech-news/2021/11/15/south-korea-abolishes-night-time-gaming-ban-for-children)
+
+
+> South Korea will drop its long time law, which banned night-time gaming by youths, which critics say failed to address gaming addiction. — dpa Underage fans of online games in South Korea are rejoicing at news that the controversial night-time gaming ban for young people is to be dropped from January onwards. The so-called shutdown regulation, introduced 10 years ago to prevent gambling addiction among children, is to be revoked following a parliamentary amendment to the Youth Protection Act, South Korean public broadcaster KBS reported on Friday.
+
+
+***
+![Turning heat to cooling, Kenyan inventor cuts food waste – and adds jobs and income](https://apicms.thestar.com.my/uploads/images/2021/11/13/1366851.jpg "Turning heat to cooling, Kenyan inventor cuts food waste – and adds jobs and income")
+
+
+[Turning heat to cooling, Kenyan inventor cuts food waste – and adds jobs and income](https://www.thestar.com.my/tech/tech-news/2021/11/15/turning-heat-to-cooling-kenyan-inventor-cuts-food-waste---and-adds-jobs-and-income)
+
+
+> GLASGOW: Growing up under the care of his grandmother in rural eastern Kenya, Dysmus Kisilu saw how hard farmers worked – and, often, how little they earned. Even today, when the potato harvest comes in each year, a 90-kilogramme sack sells for just 2,000 Kenyan shillings (RM74) in the local market, as supplies soar, he said. Four months later, the same sack is worth three times as much – but small-scale farmers have already sold their crops, fearing rot if they try to hold onto them. 'Farmers have never been able to negotiate,' Kisilu said.
+
+
+***
+![TRAI to Get 5G Spectrum Details from DoT Within a Week](https://telecomtalk.info/wp-content/uploads/2021/11/trai-to-get-5g-spectrum-details-dot.jpeg "TRAI to Get 5G Spectrum Details from DoT Within a Week")
+
+
+[TRAI to Get 5G Spectrum Details from DoT Within a Week](https://telecomtalk.info/trai-to-get-5g-spectrum-details-dot/479315/)
+
+
+> The higher the cost of the 5G rollout, the more expensive the service will be for the end consumers.Because the telcos have been given extra time to conduct 5G trials, the spectrum auction is likely going to happen in April - March 2022.TRAI has to recommend fresh base price for all the concerned spectrum bands.The Telecom Regulatory Authority of India (TRAI) had asked the Department of Telecommunications (DoT) about the availability of the 5G spectrum for the auctions. The lack of a National Frequency Allocation Plan (NFAP) makes it a little confusing for the regulator to make recommendations.
+
+
