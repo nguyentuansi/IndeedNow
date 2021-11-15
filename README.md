@@ -31632,3 +31632,13 @@
 > The higher the cost of the 5G rollout, the more expensive the service will be for the end consumers.Because the telcos have been given extra time to conduct 5G trials, the spectrum auction is likely going to happen in April - March 2022.TRAI has to recommend fresh base price for all the concerned spectrum bands.The Telecom Regulatory Authority of India (TRAI) had asked the Department of Telecommunications (DoT) about the availability of the 5G spectrum for the auctions. The lack of a National Frequency Allocation Plan (NFAP) makes it a little confusing for the regulator to make recommendations.
 
 
+***
+![Turkey remembers 1944 deportation of Ahiska Turks](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/11/15/cc276afe-ltnr50w0wtaum6m6wcihv.jpeg "Turkey remembers 1944 deportation of Ahiska Turks")
+
+
+[Turkey remembers 1944 deportation of Ahiska Turks](https://www.yenisafak.com/en/news/turkey-remembers-1944-deportation-of-ahiska-turks-3584156)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
+
+
