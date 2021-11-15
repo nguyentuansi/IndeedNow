@@ -31562,3 +31562,43 @@
 > TOKYO--(BUSINESS WIRE)--AI inside Inc., a provider of an AI platform, announces our 'DX Suite' is expanding its AI-empowered optical character recognition (AI-OCR) to support simplified Chinese in addition to traditional Chinese, Thai, Vietnamese, English, and Japanese. DX Suite can digitize the content of documents and advances digital transformation for global companies. The global intelligent document processing (IDP) market, which uses AI technology to extract data from documents, is expected to reach USD 3.
 
 
+***
+![‘Arcane', the new ‘League Of Legends' Netflix series, shows Riot Games' ‘black licorice' strategy](https://apicms.thestar.com.my/uploads/images/2021/11/15/1368132.jpeg "‘Arcane', the new ‘League Of Legends' Netflix series, shows Riot Games' ‘black licorice' strategy")
+
+
+[‘Arcane', the new ‘League Of Legends' Netflix series, shows Riot Games' ‘black licorice' strategy](https://www.thestar.com.my/tech/tech-news/2021/11/15/arcanethe-new-league-of-legendsnetflix-series-shows-riot-games-black-licoricestrategy)
+
+
+> Riot Games has helped define the modern competitive game, spurring the growth of today's eSports through League Of Legends and solidifying the business model of games as a service. But with its recent launch of an animated series for Netflix, you might assume that the company is following a more conventional narrative – to show the world that a game that stars, in the words of one its staffers, a 'magical sci-if gerbil', can play in the grown-up universe of Hollywood. Maybe. Rather than simply turning over its intellectual property to established TV pros, Riot went the figure-it-out-yourself route for its new series Arcane – entrusting it to staffers with zero experience in the world of network animation.
+
+
+***
+![Shopee Excites Shoppers And Uplifts Businesses With New Record Of Over 2B Items Sold](https://secureservercdn.net/45.40.148.147/tjy.d27.myftpupload.com/wp-content/uploads/2021/11/20210926-PAGEONE-Shopee.jpg?time=1636947583 "Shopee Excites Shoppers And Uplifts Businesses With New Record Of Over 2B Items Sold")
+
+
+[Shopee Excites Shoppers And Uplifts Businesses With New Record Of Over 2B Items Sold](http://pageone.ph/shopee-excites-shoppers-and-uplifts-businesses-with-new-record-of-over-2b-items-sold)
+
+
+> Shopee, the leading e-commerce platform in Southeast Asia and Taiwan, sets two new records at the year's largest shopping festival, 11.11 Big Christmas Sale. With a huge array of irresistible deals, shoppers across the region bought over 2 billion items across the festival period, smashing its previous record in 2020. Excitement peaked on November 11, with visits spiking 5.5 times in the first two hours compared to an average day. Martin Yu, Director at Shopee Philippines, said, 'It brings us great joy to see the impact of our 11.
+
+
+***
+![Rosetta Stone Black Friday Deals 2021: Top Early Language Learning Software Savings Monitored by The Consumer Post](https://mms.businesswire.com/media/20211114005264/en/835870/23/Black_Friday_2021_%28TCP%29.jpg "Rosetta Stone Black Friday Deals 2021: Top Early Language Learning Software Savings Monitored by The Consumer Post")
+
+
+[Rosetta Stone Black Friday Deals 2021: Top Early Language Learning Software Savings Monitored by The Consumer Post](https://www.businesswire.com/news/home/20211114005264/en/Rosetta-Stone-Black-Friday-Deals-2021-Top-Early-Language-Learning-Software-Savings-Monitored-by-The-Consumer-Post)
+
+
+> November 14, 2021 10:55 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday experts have rated all the best early Rosetta Stone deals for Black Friday 2021, featuring all the latest offers on Rosetta Stone subscriptions. Links to the latest deals are listed below. Best Rosetta Stone Deals: Best Grammarly Deals: Searching for more deals? Click here to shop the entire selection of active deals at Walmart's Black Friday sale and click here to check out Amazon's latest Black Friday deals.
+
+
+***
+![Best Graphics Card & GPU Black Friday Deals 2021: Early GeForce RTX, GTX & More Savings Compiled by Retail Egg](https://mms.businesswire.com/media/20211114005267/en/836277/23/Black_Friday_2021_%28RE%29.jpg "Best Graphics Card & GPU Black Friday Deals 2021: Early GeForce RTX, GTX & More Savings Compiled by Retail Egg")
+
+
+[Best Graphics Card & GPU Black Friday Deals 2021: Early GeForce RTX, GTX & More Savings Compiled by Retail Egg](https://www.businesswire.com/news/home/20211114005267/en/Best-Graphics-Card-GPU-Black-Friday-Deals-2021-Early-GeForce-RTX-GTX-More-Savings-Compiled-by-Retail-Egg)
+
+
+> November 14, 2021 10:50 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday 2021 researchers have revealed the best early graphics card deals for Black Friday, featuring deals on the RTX 3080, 3090, 2070, 2080 & more. Browse the best deals listed below. Best Graphics Card Deals: Save up to 50% on a wide range of MSI, ASUS & more top-rated graphics cards at Walmart Save up to 10% on a wide range of graphics cards & GPUs at Amazon - check the latest deals on popular NVIDIA & MSI graphics cards like the GeForce RTX 3060 & RTX 3070 Save up to 10% on graphics cards at eBay - check the hottest deals on ZOTAC, MSI, EVGA, ASUS, & Gigabyte graphic cards Save on top-selling graphics cards from top brands at StockX.
+
+
