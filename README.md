@@ -31642,3 +31642,33 @@
 > Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
 
 
+***
+![Cable Operators VS Wireless Carrier 5G Services in Residential, Small & Medium Business, Broadband and IoT (2021-2026)](https://mms.businesswire.com/media/20211115005598/en/926968/23/logo.jpg "Cable Operators VS Wireless Carrier 5G Services in Residential, Small & Medium Business, Broadband and IoT (2021-2026)")
+
+
+[Cable Operators VS Wireless Carrier 5G Services in Residential, Small & Medium Business, Broadband and IoT (2021-2026)](https://www.businesswire.com/news/home/20211115005598/en/Cable-Operators-VS-Wireless-Carrier-5G-Services-in-Residential-Small-Medium-Business-Broadband-and-IoT-2021-2026---ResearchAndMarkets.com)
+
+
+> November 15, 2021 04:53 AM Eastern Standard Time DUBLIN--(BUSINESS WIRE)--The "Cable Operators vs. Wireless Carrier 5G Services in Residential, Small and Medium Business, Broadband and IoT 2021 - 2026" report has been added to ResearchAndMarkets.com's offering. Select Research Findings Cable MSOs have a key role in consumer IoT and connected homes OTT service providers are at a competitive disadvantage to cable MSOs 5GNR market for private wireless in industrial automation will reach $3.
+
+
+***
+![Latest iOS beta blurs nude images for children using Messages app](http://www.businessghana.com/site/img/../../cms/img/news/2021-11-15-08462702.jpg "Latest iOS beta blurs nude images for children using Messages app")
+
+
+[Latest iOS beta blurs nude images for children using Messages app](https://www.businessghana.com/)
+
+
+> iOS 15.2's latest beta adds an Apple Communication Safety feature to the Messages app, MacRumors reports. The opt-in feature is designed to protect children from inappropriate imagery by scanning incoming and outgoing pictures for 'sexually explicit' material. Any images meeting this description are blurred, and the child will be warned about its contents and told it's ok not to view it. The feature, which ties into Apple's existing Family Sharing system, is also designed to offer resources to affected children for them to get help.
+
+
+***
+![Decoded: How Salt Affects Blood Flow In Brain, Cause Alzheimer's](https://www.glamsham.com/wp-content/uploads/2021/11/7b9d6bf71fb43133435b7ba0b912e3ae.jpg "Decoded: How Salt Affects Blood Flow In Brain, Cause Alzheimer's")
+
+
+[Decoded: How Salt Affects Blood Flow In Brain, Cause Alzheimer's](https://www.glamsham.com/world/technology/decoded-how-salt-affects-blood-flow-in-brain-cause-alzheimers)
+
+
+> New York, Nov 15 (IANS) US researchers have in a first-of-its-kind study explored the relationship between neuron activity and blood flow deep in the brain, as well as how the brain is affected by salt consumption, resulting in cognitive decline such as Alzheimer's.The team from the Georgia State University focused on the hypothalamus — a deep brain region involved in critical body functions including drinking, eating, body temperature regulation and reproduction.The study, published in the journal Cell Reports, examined how blood flow to the hypothalamus changes in response to salt intake.
+
+
