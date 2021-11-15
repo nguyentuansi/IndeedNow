@@ -31512,3 +31512,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
 
 
+***
+![News is coming to your smartphone lock screen](https://apicms.thestar.com.my/uploads/images/2021/11/14/1367806.jpg "News is coming to your smartphone lock screen")
+
+
+[News is coming to your smartphone lock screen](https://www.thestar.com.my/tech/tech-news/2021/11/15/news-is-coming-to-your-smartphone-lock-screen)
+
+
+> Glance feeds lock screens with interactive content related to news, sports, pop culture and video games. — AFP Relaxnews What if the secret to getting a smartphone owner to read a news story was to display it on the lock screen? This is the approach that Indian app Glance is taking. The app offers its users wallpaper stories that let them discover the latest news at a glance. Whether we admit it or not, we look at our phones a lot. Fifty-eight times a day to be precise, according to the site Elite Content Marketer.
+
+
+***
+![Mitsubishi Electric's Net Zero Energy Test Facility Cuts Annual Operating Energy to Below 0%](https://mms.businesswire.com/media/20211114005016/en/1053498/23/MELCO_logo.jpg "Mitsubishi Electric's Net Zero Energy Test Facility Cuts Annual Operating Energy to Below 0%")
+
+
+[Mitsubishi Electric's Net Zero Energy Test Facility Cuts Annual Operating Energy to Below 0%](http://www.businesswire.com/news/home/20211114005016/en/Mitsubishi-Electric%E2%80%99s-Net-Zero-Energy-Test-Facility-Cuts-Annual-Operating-Energy-to-Below-0/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TOKYO--(BUSINESS WIRE)--Mitsubishi Electric Corporation (TOKYO: 6503) announced today that its SUSTIE® net zero-energy building (ZEB) test facility, which launched at the company's Information Technology R&D Center (Kamakura, Kanagawa Prefecture) in 2020, reduced its energy consumption to less than 0%, meaning that it created more energy than it consumed, in its first full year of operation. The facility, a medium-sized office building with more than 6,000m2 of floor space and equipped with solar panels, deployed ZEB operating technology to optimize operations, resulting in a 115% reduction in energy use compared to standard primary energy consumption as specified in Japan's Building Energy Conservation Law (values differ according to region and building use).
+
+
+***
+![The Best Security Camera Black Friday Deals 2021: Best Early Home Security Camera System Savings Revealed by The Consumer Post](https://mms.businesswire.com/media/20211114005245/en/835870/23/Black_Friday_2021_%28TCP%29.jpg "The Best Security Camera Black Friday Deals 2021: Best Early Home Security Camera System Savings Revealed by The Consumer Post")
+
+
+[The Best Security Camera Black Friday Deals 2021: Best Early Home Security Camera System Savings Revealed by The Consumer Post](https://www.businesswire.com/news/home/20211114005245/en/The-Best-Security-Camera-Black-Friday-Deals-2021-Best-Early-Home-Security-Camera-System-Savings-Revealed-by-The-Consumer-Post)
+
+
+> November 14, 2021 09:10 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the top early security camera deals for Black Friday, featuring Nest cameras and more sales. Links to the latest deals are listed below. Best Security Camera Deals: Save up to 62% off on security cameras from top brands like Arlo, Google Nest & more at Walmart - check the latest deals on wireless security cameras and home security systems Save up to 49% on Google Nest indoor & outdoor security cameras and bundles at Walmart Save up to 31% on security cameras and bundles at BHPhotoVideo.
+
+
+***
+![Tesla starts shipping cars without USB ports, customers were not amused](https://soyacincau.com/wp-content/uploads/2021/11/211114-tesla-usb-shortage-6.png "Tesla starts shipping cars without USB ports, customers were not amused")
+
+
+[Tesla starts shipping cars without USB ports, customers were not amused](https://soyacincau.com/2021/11/15/tesla-model-3-model-y-missing-usb-charging-ports-chip-shortage/)
+
+
+> There have been reports from new Tesla owners of Model 3s and Ys shipping out without USB ports, coming with empty holes instead. Although some buyers got a heads-up, there have been multiple reports of buyers getting no warning at all. The issue was first spotted on November 11th, starting a huge discussion on Reddit where many others shared similar experiences. For some cars, only the USB-C ports were missing, but there have been cases of the rear seat USB-A ports being missing as well as wireless charging not working.
+
+
+***
+![Japan's No.1 AI-OCR Solution 'DX Suite' Supports Simplified Chinese](https://mms.businesswire.com/media/20211114005013/en/925042/23/AI_inside_logo.jpg "Japan's No.1 AI-OCR Solution 'DX Suite' Supports Simplified Chinese")
+
+
+[Japan's No.1 AI-OCR Solution 'DX Suite' Supports Simplified Chinese](http://www.businesswire.com/news/home/20211114005013/en/Japan%E2%80%99s-No.1-AI-OCR-Solution-%E2%80%9CDX-Suite%E2%80%9D-Supports-Simplified-Chinese/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TOKYO--(BUSINESS WIRE)--AI inside Inc., a provider of an AI platform, announces our 'DX Suite' is expanding its AI-empowered optical character recognition (AI-OCR) to support simplified Chinese in addition to traditional Chinese, Thai, Vietnamese, English, and Japanese. DX Suite can digitize the content of documents and advances digital transformation for global companies. The global intelligent document processing (IDP) market, which uses AI technology to extract data from documents, is expected to reach USD 3.
+
+
