@@ -31992,3 +31992,53 @@
 > Sales rise 33.33% to Rs 0.28 croreNet profit of Technical Associates Infrapower reported to Rs 3.47 crore in the quarter ended September 2021 as against net loss of Rs 1.45 crore during the previous quarter ended September 2020. Sales rose 33.33% to Rs 0.28 crore in the quarter ended September 2021 as against Rs 0.21 crore during the previous quarter ended September 2020. ParticularsQuarter EndedSep. 2021Sep. 2020% Var.Sales0.280.21 33 OPM %100.0038.10 -PBDT3.47-1.45 LP PBT3.47-1.45 LP NP3.47-1.45 LP Powered by Capital Market - Live News (This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.
 
 
+***
+![How AI is revamping home and enterprise network management](https://assets.telecomtv.com/assets/telecomtv/1920x1080-ai-roundtables-management-13088.jpeg?w=1200 "How AI is revamping home and enterprise network management")
+
+
+[How AI is revamping home and enterprise network management](https://www.telecomtv.com/content/ai-and-automation-summit-21/how-ai-is-revamping-home-and-enterprise-network-management-42919)
+
+
+> Home and enterprise networks are becoming increasingly sophisticated, with growing numbers of connected devices and resource-hungry services needing to be maintained and secured on a real-time basis. This session looks at how AI and automation is helping service providers to deliver more efficient and secure services and improve customer satisfaction ratings.
+
+
+***
+![Developing the next generation of OSS and BSS](https://assets.telecomtv.com/assets/telecomtv/1920x1080-ai-roundtables-bss-13090.jpeg?w=1200 "Developing the next generation of OSS and BSS")
+
+
+[Developing the next generation of OSS and BSS](https://www.telecomtv.com/content/ai-and-automation-summit-21/developing-the-next-generation-of-oss-and-bss-42918/)
+
+
+> OSS and BSS systems are still as critical as ever to CSPs, but have development cycles kept pace with the demands of more cloud-oriented operations, the need for self-learning management tools and the potential for proactive business tools in digital service portfolios? This session looks at how next-gen OSS and BSS systems are introducing smart operations and optimizing revenue-generating opportunities for CSPs. Stay up to date with the latest industry developments: sign up to receive TelecomTV's top news and videos plus exclusive subscriber-only content direct to your inbox – including our daily news briefing and weekly wrap.
+
+
+***
+![BT Digital's Dr Gilbert Owusu on the growing role of AI in telecoms](https://assets.telecomtv.com/assets/telecomtv/1920x1080-ai-speaker-dr-gilbert-owusu-13086.jpeg?w=1200 "BT Digital's Dr Gilbert Owusu on the growing role of AI in telecoms")
+
+
+[BT Digital's Dr Gilbert Owusu on the growing role of AI in telecoms](https://www.telecomtv.com/content/ai-and-automation-summit-21/bt-digitals-dr-gilbert-owusu-on-the-growing-role-of-ai-in-telecoms-42917/)
+
+
+> Dr Gilbert Owusu, Data and AI Director, Corporate Units and Networks, at BT Digital, discusses the different ways in which AI tools and multiple data sets are being put to use at the UK network operator, explains the different ways in which AI is helping with BT's sustainability efforts, and outlines the developments he would like to see in the AI and data management sector in the coming years.
+
+
+***
+![The AI & Automation ‘After Show'](https://assets.telecomtv.com/assets/telecomtv/1920x1080-ai-aftershow-day1-13092.jpeg?w=1200 "The AI & Automation ‘After Show'")
+
+
+[The AI & Automation ‘After Show'](https://www.telecomtv.com/content/ai-and-automation-summit-21/the-ai-automation-after-show-day-1-42916/)
+
+
+> Live end-of-day discussion show, bringing together the debated challenges and strategies and identifying the next steps for the industry. Also features live viewer Q&A. Stay up to date with the latest industry developments: sign up to receive TelecomTV's top news and videos plus exclusive subscriber-only content direct to your inbox – including our daily news briefing and weekly wrap. © Decisive Media Limited 2021. All rights reserved. All brands and products are the trademarks of their respective holder(s).
+
+
+***
+![The opportunities for Network-as-a-Service (NaaS)](https://assets.telecomtv.com/assets/telecomtv/1920x1080-ai-roundtables-naas-13087.jpeg?w=1200 "The opportunities for Network-as-a-Service (NaaS)")
+
+
+[The opportunities for Network-as-a-Service (NaaS)](https://www.telecomtv.com/content/ai-and-automation-summit-21/the-opportunities-for-network-as-a-service-naas-42915/)
+
+
+> The introduction of Network-as-a-Service (NaaS) capabilities can be viewed as one of the early success stories of automation in the communications sector. This session will look at NaaS developments, how SD-WAN and SASE (secure access service edge) have paved the way for delivering secure connectivity wherever it is needed, how such services are being used, and what can be learned as greater levels of automation are introduced into cloud-based networking architectures. Stay up to date with the latest industry developments: sign up to receive TelecomTV's top news and videos plus exclusive subscriber-only content direct to your inbox – including our daily news briefing and weekly wrap.
+
+
