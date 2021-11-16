@@ -31902,3 +31902,33 @@
 > There are several different methods available today to download or load Halo Infinite Multiplayer today, beyond the Blue Screen. If you're getting a blue screen on your Xbox, you're not alone. The placeholder file is just a 280mb file, but it's causing quite a bit of an issue right this minute for more than a couple of users. If you've downloaded the Halo Infinite placeholder, delete it immediately. This app has caused some users issues this afternoon as the app doesn't know how to interact with the new update.
 
 
+***
+![Grab hit by outage across the region](https://apicms.thestar.com.my/uploads/images/2021/11/16/1369564.jpg "Grab hit by outage across the region")
+
+
+[Grab hit by outage across the region](https://www.thestar.com.my/tech/tech-news/2021/11/16/grab-hit-by-outage-across-the-region)
+
+
+> Grab has yet to offer an explanation as to what caused the issue or when it will be rectified. — YAP CHEE HONG/The Star PETALING JAYA: Grab's services are largely inaccessible to both consumers and its driver/delivery partners in several countries, including Malaysia, Singapore, the Philippines and Indonesia. Arif Asyraf, Grab Drivers Malaysia Association president, said he has been getting hundreds of messages from drivers about the service disruption. "Their jobs will be affected today for a few hours and their incomes as well.
+
+
+***
+![Uses of MATLAB : programming](https://external-preview.redd.it/Sck_lMlsCbhmk1jK7OsPdmGRbFx_Vk8uD5lPuJWeODM.jpg?auto=webp&s=f673ab8895c6c67a20af05febefa825078a43b02 "Uses of MATLAB : programming")
+
+
+[Uses of MATLAB : programming](https://www.reddit.com/r/programming/comments/quys2h/uses_of_matlab)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![The 10 Best Touchscreen Gloves fo Men](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-touchscreen-gloves-1636750411.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:* "The 10 Best Touchscreen Gloves fo Men")
+
+
+[The 10 Best Touchscreen Gloves fo Men](https://www.popularmechanics.com/technology/g38211004/best-mens-touchscreen-gloves)
+
+
+> You can never go wrong buying a new pair of gloves for yourself or as a holiday gift—and if they have touchscreen capability, even better. Pulling off gloves when it's 10 below to use your smartphone is a drag, and these days, there's no reason to leave your fingers out in the cold. Touchscreen gloves are easy to find, but scoring a pair that keep hands warm and aren't a total fail for functionality is another matter entirely. We went to work to find the best options worth considering, so read on for our recommendations, plus shopping advice.
+
+
