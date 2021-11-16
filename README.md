@@ -31962,3 +31962,33 @@
 > Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
 
 
+***
+![Upmarket toaster maker Balmuda launches smartphone in iPhone-dominated Japan](https://apicms.thestar.com.my/uploads/images/2021/11/16/1370024.jpg "Upmarket toaster maker Balmuda launches smartphone in iPhone-dominated Japan")
+
+
+[Upmarket toaster maker Balmuda launches smartphone in iPhone-dominated Japan](https://www.thestar.com.my/tech/tech-news/2021/11/16/upmarket-toaster-maker-balmuda-launches-smartphone-in-iphone-dominated-japan)
+
+
+> Balmuda CEO Gen Terao holds the company's new smartphone at a news conference in Tokyo, Japan November 16, 2021. REUTERS/Sam Nussey TOKYO (Reuters) - High-end Japanese toaster maker Balmuda Inc unveiled a stripped back smartphone on Tuesday, aiming for a toe-hold in a market dominated by Apple's iPhone.Chief Executive Gen Terao said at the launch event that the 5G enabled Android device is expected to contribute 3 billion yen ($26 million) to Balmuda's sales in the current financial year.The "Balmuda Phone" costs 104,800 yen ($920) and has a small 4.
+
+
+***
+![Pixel Fold cancellation is a missed opportunity for Google and Android](https://cdn.slashgear.com/wp-content/uploads/2021/11/pixel-fold-rumors-3.jpg "Pixel Fold cancellation is a missed opportunity for Google and Android")
+
+
+[Pixel Fold cancellation is a missed opportunity for Google and Android](https://www.slashgear.com/pixel-fold-cancellation-is-a-missed-opportunity-for-google-and-android-16699450/)
+
+
+> Samsung is betting heavily on foldable devices. After the so-far successful run of the Galaxy Z Flip 3, the company is reportedly allocating a huge chunk of its production numbers to next year's generation. It might not be the only one competing in that market soon, however, with the likes of OPPO, vivo, Xiaomi, and even Honor expected to soon make foldables more common, if not a bit more affordable. One rumored player, however, might not be joining the game soon or at all, with word of the Google Pixel Fold's cancellation starting to go around the Internet.
+
+
+***
+![Technical Associates Infrapower reports consolidated net profit of Rs 3.47 crore in the September 2021 quarter](https://bsmedia.business-standard.com/_media/bs/img/article/default/1211116/full-121111600943.jpg "Technical Associates Infrapower reports consolidated net profit of Rs 3.47 crore in the September 2021 quarter")
+
+
+[Technical Associates Infrapower reports consolidated net profit of Rs 3.47 crore in the September 2021 quarter](https://www.business-standard.com/article/news-cm/technical-associates-infrapower-reports-consolidated-net-profit-of-rs-3-47-crore-in-the-september-2021-quarter-121111600943_1.html)
+
+
+> Sales rise 33.33% to Rs 0.28 croreNet profit of Technical Associates Infrapower reported to Rs 3.47 crore in the quarter ended September 2021 as against net loss of Rs 1.45 crore during the previous quarter ended September 2020. Sales rose 33.33% to Rs 0.28 crore in the quarter ended September 2021 as against Rs 0.21 crore during the previous quarter ended September 2020. ParticularsQuarter EndedSep. 2021Sep. 2020% Var.Sales0.280.21 33 OPM %100.0038.10 -PBDT3.47-1.45 LP PBT3.47-1.45 LP NP3.47-1.45 LP Powered by Capital Market - Live News (This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.
+
+
