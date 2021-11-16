@@ -31862,3 +31862,43 @@
 > Technology billionaire Peter Thiel is reportedly moving into an enclave of Washington power players. The PayPal co-founder and friend of former President Donald Trump has bought the $13 million, 10,000-square-foot mansion of former Trump Commerce Secretary Wilbur Ross, Politico reported Monday. The property is in the Woodland-Normanstone neighborhood in D.C. and was the most expensive D.C. home sale of the last 12 months, the news outlet reported. The ritzy neighborhood is also home to Trump's former treasury secretary, Steven Mnuchin and senior adviser Kellyanne Conway.
 
 
+***
+![EPA reveals first US national recycling strategy with focus on climate change](https://cdn.slashgear.com/wp-content/uploads/2021/11/recycling-program-epa-program-us.jpg "EPA reveals first US national recycling strategy with focus on climate change")
+
+
+[EPA reveals first US national recycling strategy with focus on climate change](https://www.slashgear.com/epa-reveals-first-us-national-recycling-strategy-with-focus-on-climate-change-15699350/)
+
+
+> The Environmental Protection Agency (EPA) has announced the first US national recycling strategy, including core objectives and additional areas of focus. In addition to marking the first time the EPA has rolled out a national recycling strategy, this new effort is also the agency's first recycling plan to factor in the climate impact presented by 'materials management.' Dr. Victor Wong/Shutterstock Big plans The EPA's 2021 National Recycling Strategy was announced on National Recycling Day, bringing awareness to various matters related to materials management and how the US plans to move forward amid increasing climate change concerns.
+
+
+***
+![Halo TV show teaser trailer: Paramount+ release teased](https://cdn.slashgear.com/wp-content/uploads/2021/11/Halo-TV-series-logo.jpg "Halo TV show teaser trailer: Paramount+ release teased")
+
+
+[Halo TV show teaser trailer: Paramount+ release teased](https://www.slashgear.com/halo-tv-show-teaser-trailer-paramount-plus-release-teased-15699340/)
+
+
+> Today was a good day for Halo fans, not only because Halo Infinite‘s multiplayer launched early, but also because we got our first look at the incoming Halo TV series. The trailer arrived during Xbox's 20th-anniversary livestream and is our first official look at the show. Sadly, the look we received wasn't very long, but Halo fans will likely be happy with any glimpse they can get at this point, given how long this project has been in development. Halo series: Our first look at Master Chief The teaser, which you can find embedded below, opens with a shot of a man's badly scarred back.
+
+
+***
+![Pixel Fold leak claims Google won't release its foldable anytime soon](https://cdn.slashgear.com/wp-content/uploads/2021/11/google-pixel-fold-foldable-leak.jpg "Pixel Fold leak claims Google won't release its foldable anytime soon")
+
+
+[Pixel Fold leak claims Google won't release its foldable anytime soon](https://www.slashgear.com/pixel-fold-leak-claims-google-wont-release-its-foldable-anytime-soon-15699334/)
+
+
+> The anticipated Pixel Fold smartphone may not hit the market, according to a new report, at least not anytime soon. The reason, the sources claim, revolve around a variety of factors that may make a foldable Pixel model less than successful in the current market, including competition with Samsung and higher costs. Plans on hold? The report comes from DSCC, a company that describes itself as having 'close relationships with the display supply chain.' In its leak, DSCC alleges that Google has dropped its Pixel Fold plans and won't release its anticipated foldable model this year or in early 2022.
+
+
+***
+![Halo Infinite Multiplayer install blue screen fix and a reboot](https://cdn.slashgear.com/wp-content/uploads/2021/11/haloinfinitedownload.jpg "Halo Infinite Multiplayer install blue screen fix and a reboot")
+
+
+[Halo Infinite Multiplayer install blue screen fix and a reboot](https://www.slashgear.com/halo-infinite-multiplayer-install-blue-screen-fix-and-a-reboot-15699345/)
+
+
+> There are several different methods available today to download or load Halo Infinite Multiplayer today, beyond the Blue Screen. If you're getting a blue screen on your Xbox, you're not alone. The placeholder file is just a 280mb file, but it's causing quite a bit of an issue right this minute for more than a couple of users. If you've downloaded the Halo Infinite placeholder, delete it immediately. This app has caused some users issues this afternoon as the app doesn't know how to interact with the new update.
+
+
