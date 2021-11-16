@@ -31932,3 +31932,33 @@
 > You can never go wrong buying a new pair of gloves for yourself or as a holiday gift—and if they have touchscreen capability, even better. Pulling off gloves when it's 10 below to use your smartphone is a drag, and these days, there's no reason to leave your fingers out in the cold. Touchscreen gloves are easy to find, but scoring a pair that keep hands warm and aren't a total fail for functionality is another matter entirely. We went to work to find the best options worth considering, so read on for our recommendations, plus shopping advice.
 
 
+***
+![Google to invest $740m in Australia](https://banglanews24.com/english/public/uploads/2021/11/16/1637047791.1623072060.google.jpg "Google to invest $740m in Australia")
+
+
+[Google to invest $740m in Australia](https://banglanews24.com/english/technology/news/bd/92331.details)
+
+
+> Google has announced that it will invest A$1bn ($740m, £550m) in Australia over the next five years. It is the US technology giant's largest investment in the country to date. Google says the money will be used to build a research hub, increase its cloud computing capacity and fund partnerships with local organisations. The move - named the Digital Future Initiative - is expected to directly create 6,000 jobs and support 28,000 overall. "Australia can help lead the world's next wave of innovation, harnessing technology to improve lives, create jobs, and make progress," Google boss Sundar Pichai said at the initiative's launch in Sydney.
+
+
+***
+![TECNO Spark 7 Limited Special Box Dibanderol Rp1.199.000, Tawarkan Baterai 6.000 mAh](https://cms.dailysocial.id/wp-content/uploads/2021/11/58980d11f61d69dac7c3b92d45c4f821_TECNO-Spark-7.jpg "TECNO Spark 7 Limited Special Box Dibanderol Rp1.199.000, Tawarkan Baterai 6.000 mAh")
+
+
+[TECNO Spark 7 Limited Special Box Dibanderol Rp1.199.000, Tawarkan Baterai 6.000 mAh](https://dailysocial.id/post/tecno-spark-7-limited-special-box-dibanderol-rp1-199-000)
+
+
+> Dailysocial.id is a news portal for startup and technology innovation. You can be a part of DailySocial.id`s startup community and innovation members, download our tech research and statistic reports, and engage with our innovation community. Share this article
+
+
+***
+![Turkey to take part in UN meeting to strengthen help for Palestinian refugees](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/11/16/cdba43b9-cynn63brokke7itk9huhq.jpeg "Turkey to take part in UN meeting to strengthen help for Palestinian refugees")
+
+
+[Turkey to take part in UN meeting to strengthen help for Palestinian refugees](https://www.yenisafak.com/en/news/turkey-to-take-part-in-un-meeting-to-strengthen-help-for-palestinian-refugees-3584250)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
+
+
