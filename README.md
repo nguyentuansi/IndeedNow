@@ -32062,3 +32062,23 @@
 > FILE PHOTO: A 3D printed Google logo is placed on the Apple Macbook in this illustration taken April 12, 2020. REUTERS/Dado Ruvic/Illustration/File Photo SEOUL (Reuters) - South Korea said on Wednesday it plans to impose a fine on dominant app store operators such as Apple Inc and Alphabet's Google if they force app developers to use only their payment systems. The Korea Communications Commission (KCC) said it proposes a a monetary penalty of up to 2% of Korea app market revenue in such instances.
 
 
+***
+![Amazon to stop accepting Visa's UK-issued credit cards over high fees](https://apicms.thestar.com.my/uploads/images/2021/11/17/1371369.jpg "Amazon to stop accepting Visa's UK-issued credit cards over high fees")
+
+
+[Amazon to stop accepting Visa's UK-issued credit cards over high fees](https://www.thestar.com.my/tech/tech-news/2021/11/17/amazon-to-stop-accepting-visa-credit-cards-issued-in-uk---bloomberg-news)
+
+
+> A visa credit card is held in front of an Amazon logo in this picture illustration taken September 6, 2017. REUTERS/Philippe Wojazer/Illustration (Reuters) - Amazon.com Inc said on Wednesday it would stop accepting Visa Inc credit cards issued in the United Kingdom from next year due to the high fees charged by the payment processor for transactions."As a result of Visa's continued high cost of payments, we regret that Amazon.co.uk will no longer accept UK-issued Visa credit cards as of 19 January, 2022," an Amazon spokesperson said in an emailed statement.
+
+
+***
+![Metaverse Is a multitrillion-collar opportunity, Epic CEO says](https://apicms.thestar.com.my/uploads/images/2021/11/17/1371231.jpg "Metaverse Is a multitrillion-collar opportunity, Epic CEO says")
+
+
+[Metaverse Is a multitrillion-collar opportunity, Epic CEO says](https://www.thestar.com.my/tech/tech-news/2021/11/17/metaverse-is-a-multitrillion-collar-opportunity-epic-ceo-says)
+
+
+> Even if Epic doesn't build the definitive metaverse, Sweeney wants its software tools to provide the building blocks. — Reuters Epic Games Inc chief executive officer Tim Sweeney may be the most enthusiastic supporter of the metaverse after Mark Zuckerberg, who renamed his entire company Meta Platforms Inc. The Epic founder has reason to be bullish, as his company's Fortnite has rapidly evolved from a popular multiplayer game into an online space where people socialise and big-name musicians host virtual concerts.
+
+
