@@ -32052,3 +32052,13 @@
 > The son of a prominent Philippine congresswoman is attempting to build the largest solar farm in South East Asia, which could power 800,000 homes when completed. — AP Photo The Ivy League-educated son of a prominent Philippine congresswoman wants to build the largest solar power plant in Southeast Asia using proceeds from an initial public offering next month. Leandro Leviste, 28, will seek to raise as much as 2.7 billion pesos (RM225.34mil) by selling shares in Solar Philippines Nueva Ecija Corp.
 
 
+***
+![South Korea weighs monetary fines to rein in app store operators](https://apicms.thestar.com.my/uploads/images/2021/11/17/1370926.jpg "South Korea weighs monetary fines to rein in app store operators")
+
+
+[South Korea weighs monetary fines to rein in app store operators](https://www.thestar.com.my/tech/tech-news/2021/11/17/south-korea-weighs-monetary-fines-to-rein-in-app-store-operators)
+
+
+> FILE PHOTO: A 3D printed Google logo is placed on the Apple Macbook in this illustration taken April 12, 2020. REUTERS/Dado Ruvic/Illustration/File Photo SEOUL (Reuters) - South Korea said on Wednesday it plans to impose a fine on dominant app store operators such as Apple Inc and Alphabet's Google if they force app developers to use only their payment systems. The Korea Communications Commission (KCC) said it proposes a a monetary penalty of up to 2% of Korea app market revenue in such instances.
+
+
