@@ -32082,3 +32082,23 @@
 > Even if Epic doesn't build the definitive metaverse, Sweeney wants its software tools to provide the building blocks. — Reuters Epic Games Inc chief executive officer Tim Sweeney may be the most enthusiastic supporter of the metaverse after Mark Zuckerberg, who renamed his entire company Meta Platforms Inc. The Epic founder has reason to be bullish, as his company's Fortnite has rapidly evolved from a popular multiplayer game into an online space where people socialise and big-name musicians host virtual concerts.
 
 
+***
+![Saints Row delayed deeper into 2022](https://cdn.slashgear.com/wp-content/uploads/2021/11/Saints-Row-machine-gun-header.jpg "Saints Row delayed deeper into 2022")
+
+
+[Saints Row delayed deeper into 2022](https://www.slashgear.com/saints-row-delayed-deeper-into-2022-17699654/)
+
+
+> Earlier this year, we learned that the Saints Row franchise is making a comeback. When this new game, which is simply titled Saints Row, was revealed, it was given a release date of February 25th, 2022, which seemed ambitious when it was announced. As it turns out, it was a little ambitious – at least for the COVID-19 era – as Saints Row has now been delayed. New Saints Row release set for August The delay was announced in a post to the Saints Row website today, with Volition chief creative officer Jim Boone announcing it.
+
+
+***
+![Apple Self Service Repair opens DIY door with new parts store](https://cdn.slashgear.com/wp-content/uploads/2021/11/appleselfservicerepair.jpg "Apple Self Service Repair opens DIY door with new parts store")
+
+
+[Apple Self Service Repair opens DIY door with new parts store](https://www.slashgear.com/apple-self-service-repair-opens-diy-door-with-new-parts-store-17699657)
+
+
+> Apple Self Service Repair opens DIY door with new parts store This week Apple revealed they'd be releasing parts, tools, and manuals for future Apple devices for repairs. They'll call this their Apple Self Service Repair program, and it'll start with iPhone 12 and iPhone 13. This move appears to change the way Apple approaches device hardware handling and repair, away from restricting repairs to those 'authorized' to do so, allowing consumers to take their destiny into their own hands. Self Service Repair with Apple will allow customers to 'join more than 5,000 Apple Authorized Service Providers (AASPs) and 2,800 Independent Repair Providers' when it launches in early 2022.
+
+
