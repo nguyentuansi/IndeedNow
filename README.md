@@ -32042,3 +32042,13 @@
 > The introduction of Network-as-a-Service (NaaS) capabilities can be viewed as one of the early success stories of automation in the communications sector. This session will look at NaaS developments, how SD-WAN and SASE (secure access service edge) have paved the way for delivering secure connectivity wherever it is needed, how such services are being used, and what can be learned as greater levels of automation are introduced into cloud-based networking architectures. Stay up to date with the latest industry developments: sign up to receive TelecomTV's top news and videos plus exclusive subscriber-only content direct to your inbox – including our daily news briefing and weekly wrap.
 
 
+***
+![A 28-year-old aims to build a giant solar farm in Asia](https://apicms.thestar.com.my/uploads/images/2021/11/17/1370753.jpg "A 28-year-old aims to build a giant solar farm in Asia")
+
+
+[A 28-year-old aims to build a giant solar farm in Asia](https://www.thestar.com.my/tech/tech-news/2021/11/17/a-28-year-old-aims-to-build-a-giant-solar-farm-in-asia)
+
+
+> The son of a prominent Philippine congresswoman is attempting to build the largest solar farm in South East Asia, which could power 800,000 homes when completed. — AP Photo The Ivy League-educated son of a prominent Philippine congresswoman wants to build the largest solar power plant in Southeast Asia using proceeds from an initial public offering next month. Leandro Leviste, 28, will seek to raise as much as 2.7 billion pesos (RM225.34mil) by selling shares in Solar Philippines Nueva Ecija Corp.
+
+
