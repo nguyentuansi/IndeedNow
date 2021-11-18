@@ -32229,3 +32229,23 @@
 > The launch of a new electric SUV isn't exactly a rare occasion these days, but the 2023 Toyota bZ4X and 2023 Subaru Solterra are worth some attention nonetheless. Sibling EVs based on Toyota's e-TNGA platform, the promise is affordability along with flexibility when each arrives midway through next year. For Toyota, it'll be the first all-electric model it offers in the US. That's been a long time coming, the automaker having struggled to maintain its electrified momentum after the Prius in its hybrid and plug-in hybrid flavors.
 
 
+***
+![Mastercard Teams Up with Home Remitt to Support Migrant Workers with Sending Funds Abroad in Near Real-Time](https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Credit-Card-Mastercard-Wallet.jpg "Mastercard Teams Up with Home Remitt to Support Migrant Workers with Sending Funds Abroad in Near Real-Time")
+
+
+[Mastercard Teams Up with Home Remitt to Support Migrant Workers with Sending Funds Abroad in Near Real-Time](https://www.crowdfundinsider.com/2021/11/183063-mastercard-teams-up-with-home-remitt-to-support-migrant-workers-with-sending-funds-abroad-in-near-real-time)
+
+
+> As the demand for fast, highly secure, and seamless virtual payments solutions continues to rise, Mastercard (NYSE: MA) has teamed up with Home Remitt in order to support migrants residing in South Africa by safely sending funds in near real-time to their friends and family members back home. This secure and dependable service will aim to provide consumers an opportunity to save on the increasing remittance payments costs that presently characterize the global cross-border payments sector. Via this strategic partnership, Home Remitt integrated Mastercard Cross-Border Services into its funds' transfer service, offering migrants an economical way to send money to various bank accounts, mobile wallets and cash pick up locations in India, Bangladesh, Kenya, and Pakistan, with other countries to be supported in the foreseeable future.
+
+
+***
+![NDCA Gives Nod to App Developers' $100M Antitrust Settlement with Apple](https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-1134921314.jpg "NDCA Gives Nod to App Developers' $100M Antitrust Settlement with Apple")
+
+
+[NDCA Gives Nod to App Developers' $100M Antitrust Settlement with Apple](https://lawstreetmedia.com/news/tech/ndca-gives-nod-to-app-developers-100m-antitrust-settlement-with-apple)
+
+
+> An opinion issued by Judge Yvonne Gonzalez Rogers earlier this week gave preliminary approval to a class of app developer class' proposed settlement with Apple Inc. The settlement provides both monetary and structural relief, the latter in six areas of particular importance to the iOS developer community, the opinion said. The developers' antitrust lawsuit against Apple contended that the tech titan 'willfully acquired and maintained monopoly power, or attempted to gain monopoly power, by refusing to allow iOS device users to purchase iOS apps and in-app products other than through its own App Store.
+
+
