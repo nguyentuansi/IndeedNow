@@ -32102,3 +32102,23 @@
 > Apple Self Service Repair opens DIY door with new parts store This week Apple revealed they'd be releasing parts, tools, and manuals for future Apple devices for repairs. They'll call this their Apple Self Service Repair program, and it'll start with iPhone 12 and iPhone 13. This move appears to change the way Apple approaches device hardware handling and repair, away from restricting repairs to those 'authorized' to do so, allowing consumers to take their destiny into their own hands. Self Service Repair with Apple will allow customers to 'join more than 5,000 Apple Authorized Service Providers (AASPs) and 2,800 Independent Repair Providers' when it launches in early 2022.
 
 
+***
+![UPS taps Waymo Via Class 8 autonomous trucks to carry freight](https://cdn.slashgear.com/wp-content/uploads/2021/11/waymo-via-class-8-truck-UPS-autonomous-freight.jpg "UPS taps Waymo Via Class 8 autonomous trucks to carry freight")
+
+
+[UPS taps Waymo Via Class 8 autonomous trucks to carry freight](https://www.slashgear.com/ups-taps-waymo-via-class-8-autonomous-trucks-to-carry-freight-17699744/)
+
+
+> Autonomous transportation company Waymo and delivery company UPS have expanded their partnership to cover Class 8 trucks equipped with Waymo Driver. The partnership is between UPS and Waymo Via, the division that focuses on delivery, and it arrives just in time for the anticipated uptick in delivery demand for the holiday season. Image: Waymo Via Waymo Via announced the expanded UPS partnership this week, calling it a 'natural next step' in the relationship between the two companies. The new plan will first start with a trial run in Texas over 'the next several weeks' and involve Waymo Via's autonomous Class 8 trucks running Waymo Driver 5.
+
+
+***
+![Verizon rolls out Alexa hands-free calls with Number Share – Home](https://cdn.slashgear.com/wp-content/uploads/2021/11/verizon-alexa-number-share-plan.jpg "Verizon rolls out Alexa hands-free calls with Number Share – Home")
+
+
+[Verizon rolls out Alexa hands-free calls with Number Share – Home](https://www.slashgear.com/verizon-rolls-out-alexa-hands-free-calls-with-number-share-home-17699756/)
+
+
+> Consumers who own an Alexa device and use Verizon as their wireless provider now have the option of paying an additional fee to utilize a convenient feature called Number Share – Home. With this feature, Verizon users can make and receive audio calls via their mobile number through an Echo smart speaker or other Alexa-powered audio devices. READ: Amazon Echo (4th Gen) Review – Alexa gets vocal Verizon's new Number Share – Home feature is a convenient way to handle calls without actually touching one's smartphone.
+
+
