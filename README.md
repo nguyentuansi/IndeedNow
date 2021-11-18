@@ -32199,3 +32199,33 @@
 > 18/nov/2021 12:28:07 Shipla Contatta l'autore The global Gyro Cameras Market report offers a comprehensive assessment of the market for the forecast years. The report contains several segments and an analysis of the market trends and growth factors that are playing a vitalrole in the market. These factors encompass the drivers, restraints, and opportunities. This global industry offers an outlook on the strategic development of the market in terms of revenue profits over the forecast period 2021-2026.
 
 
+***
+![Halo Infinite battle pass changes are already on the way](https://cdn.slashgear.com/wp-content/uploads/2021/11/Halo-Infinite-multiplayer-6.jpg "Halo Infinite battle pass changes are already on the way")
+
+
+[Halo Infinite battle pass changes are already on the way](https://www.slashgear.com/halo-infinite-battle-pass-changes-are-already-on-the-way-18699882/)
+
+
+> It's been a pretty wild week for Halo fans. Halo Infinite‘s multiplayer launched earlier this week, going live three weeks before it was originally expected to. While the reaction so far seems fairly positive, there have been some gripes from the player base and critics alike, with many focusing on slow battle pass progression as one of the primary concerns. Now, just a few days after Halo Infinite‘s multiplayer launched, 343 has announced that battle pass changes are on the way. Halo Infinite battle pass changes In a thread published to Twitter late last night, 343's Halo community manage Jon Junyszek announced that the studio will introduce a new 'Play 1 Game' challenge later this week.
+
+
+***
+![Xiaomi 12 Ultra, Xiaomi 12 Ultra Enhanced Edition Specs Tipped](https://telecomtalk.info/wp-content/uploads/2021/11/xiaomi-12-ultra-and-xiaomi-12-ultra.jpg "Xiaomi 12 Ultra, Xiaomi 12 Ultra Enhanced Edition Specs Tipped")
+
+
+[Xiaomi 12 Ultra, Xiaomi 12 Ultra Enhanced Edition Specs Tipped](https://telecomtalk.info/xiaomi-12-ultra-and-xiaomi-12-ultra/480074/)
+
+
+> The device may feature a 50MP Samsung GN5 primary camera.Along with the primary camera, three additional 48MP cameras are expected to feature on the device.The Ultra model of Xiaomi 12 could also feature an in-display fingerprint scanner.As reported earlier, the Chinese smartphone giant is looking forward to launching its latest flagship Xiaomi 12 series in December 2021. The smartphone may arrive just after the unveiling of the Snapdragon 898 by Qualcomm. It was also rumoured that Xiaomi is working on an Ultra model for the series.
+
+
+***
+![The 2023 Toyota bZ4X and Subaru Solterra are important EV siblings](https://cdn.slashgear.com/wp-content/uploads/2021/11/2023_toyota_bz4x_1.jpg "The 2023 Toyota bZ4X and Subaru Solterra are important EV siblings")
+
+
+[The 2023 Toyota bZ4X and Subaru Solterra are important EV siblings](https://www.slashgear.com/the-2023-toyota-bz4x-and-subaru-solterra-are-important-ev-siblings-18699761/)
+
+
+> The launch of a new electric SUV isn't exactly a rare occasion these days, but the 2023 Toyota bZ4X and 2023 Subaru Solterra are worth some attention nonetheless. Sibling EVs based on Toyota's e-TNGA platform, the promise is affordability along with flexibility when each arrives midway through next year. For Toyota, it'll be the first all-electric model it offers in the US. That's been a long time coming, the automaker having struggled to maintain its electrified momentum after the Prius in its hybrid and plug-in hybrid flavors.
+
+
