@@ -32152,3 +32152,50 @@
 > Installing Wi-Fi access points across the capital city is ensuring that Russia is moving ahead towards digitalisation at a fast pace.Moscow, the largest and capital city of Russia, has installed over 1.7k additional Wi-Fi access points in the last year.The streets and parks of the city almost have 4.7k Wi-Fi access points.Moscow, the largest and capital city of Russia, has installed over 1.7k additional Wi-Fi access points in the last year. From September 2020 to August 2021, Moscow got over 1700 new access points which took the total number of access points in the city to 21.
 
 
+***
+![Crypto mining platform Bitdeer to go public through $4 billion SPAC merger](https://apicms.thestar.com.my/uploads/images/2021/11/18/1372916.jpg "Crypto mining platform Bitdeer to go public through $4 billion SPAC merger")
+
+
+[Crypto mining platform Bitdeer to go public through $4 billion SPAC merger](https://www.thestar.com.my/tech/tech-news/2021/11/18/crypto-mining-platform-bitdeer-to-go-public-through-4-billion-spac-merger)
+
+
+> FILE PHOTO: A small toy figure and representations of the virtual currency Bitcoin stand on a motherboard in this picture illustration taken May 20, 2021. REUTERS/Dado Ruvic/Illustration/File Photo (Reuters) - Bitdeer Technologies said on Thursday it plans to go public by merging with blank-check firm Blue Safari Group Acquisition Corp in a deal valuing the cryptocurrency mining platform at $4 billion. The Singapore-based company was spun-off from Chinese bitcoin mining giant Bitmain in January and has been doubling down on its adoption of renewable technology in digital asset mining.
+
+
+***
+![Starbucks links with Amazon Go for first cashier-less cafe](https://apicms.thestar.com.my/uploads/images/2021/11/18/1372862.jpg "Starbucks links with Amazon Go for first cashier-less cafe")
+
+
+[Starbucks links with Amazon Go for first cashier-less cafe](https://www.thestar.com.my/tech/tech-news/2021/11/18/starbucks-links-with-amazon-go-for-first-cashier-less-cafe)
+
+
+> FILE PHOTO: The Starbucks sign is seen outside one of its stores in New York July 3, 2008. REUTERS/Chip East/File Photo NEW YORK (Reuters) - Starbucks Corp's newest cafe lacks one element most customers are used to seeing: cashiers. The global coffee chain on Thursday opened its first ever location in partnership with Amazon Go, the e-commerce giant's brick-and-mortar convenience store, where customers can sit at a table with a latte or grab a sandwich from a shelf and walk out. Hit by a U.S. labor crunch, Starbucks and other companies are expanding labor-saving technology like artificial intelligence, robotics and digital touch screens.
+
+
+***
+![Critical Technology Partnership News, Updates, Videos and Photos from Tech Observer](https://i2.wp.com/techobserver.in/wp-content/uploads/2019/11/400x400.png?fit=400%2C400&ssl=1 "Critical Technology Partnership News, Updates, Videos and Photos from Tech Observer")
+
+
+[Critical Technology Partnership News, Updates, Videos and Photos from Tech Observer](https://techobserver.in/topic/critical-technology-partnership/)
+
+
+> Australian Prime Minister Scott Morrison has announced Australia's plan to set up the consulate during his virtual address at the Bengaluru Tech Summit
+
+
+***
+![Samsung foldable patent is the Surface Duo rival no one asked for yet](https://cdn.slashgear.com/wp-content/uploads/2021/11/samsung-galaxy-z-fold-variant.jpg "Samsung foldable patent is the Surface Duo rival no one asked for yet")
+
+
+[Samsung foldable patent is the Surface Duo rival no one asked for yet](https://www.slashgear.com/samsung-foldable-patent-is-the-surface-duo-rival-no-one-asked-for-yet-18699792/)
+
+
+> Although there are at least four or five players in that market, the foldable phone niche is probably being led by two companies with two very different approaches. There is, of course, Samsung with its tablet-like Galaxy Z Fold 3 and its clamshell Galaxy Z Flip 3, but there is also Microsoft with the new and improved Surface Duo 2. The latter represents a rather interesting take on the foldable idea, especially since it's really foldable only in the mechanical sense. It also has its inescapable drawbacks, however, and a new Samsung patent may have an alternative, though one that might become a reality any time soon.
+
+
+***
+[Gyro Cameras Market 2021 – Latest Industry Growth, Strategic Assessment And Forecast Till 2026](http://www.comunicati.net/comunicati/aziende/tecnologia/741562.html)
+
+
+> 18/nov/2021 12:28:07 Shipla Contatta l'autore The global Gyro Cameras Market report offers a comprehensive assessment of the market for the forecast years. The report contains several segments and an analysis of the market trends and growth factors that are playing a vitalrole in the market. These factors encompass the drivers, restraints, and opportunities. This global industry offers an outlook on the strategic development of the market in terms of revenue profits over the forecast period 2021-2026.
+
+
