@@ -32122,3 +32122,33 @@
 > Consumers who own an Alexa device and use Verizon as their wireless provider now have the option of paying an additional fee to utilize a convenient feature called Number Share – Home. With this feature, Verizon users can make and receive audio calls via their mobile number through an Echo smart speaker or other Alexa-powered audio devices. READ: Amazon Echo (4th Gen) Review – Alexa gets vocal Verizon's new Number Share – Home feature is a convenient way to handle calls without actually touching one's smartphone.
 
 
+***
+![Moto G Power 2022 offers a 4G phone in the age of 5G](https://cdn.slashgear.com/wp-content/uploads/2021/11/moto-g-power-2022.jpg "Moto G Power 2022 offers a 4G phone in the age of 5G")
+
+
+[Moto G Power 2022 offers a 4G phone in the age of 5G](https://www.slashgear.com/moto-g-power-2022-offers-a-4g-phone-in-the-age-of-5g-18699790/)
+
+
+> Motorola is almost like the new Nokia, although Nokia is still somewhat guilty of launching innumerable models that almost make it impossible to keep track of them all. At least there are some Motorola phones that are distinguished by their year rather than a model number that doesn't give a clue when they were launched. Take, for example, this Moto G Power (2022) that will be launching early next year with specs seemingly hailing from last year. Granted, not all of the hardware features packed into this phone are old, just that they sound old by today's standards, not to mention next year's.
+
+
+***
+![Tech, energy sectors dent Australia shares amid rate-hike fears](https://i.brecorder.com/large/2021/11/6195e23021761.jpg "Tech, energy sectors dent Australia shares amid rate-hike fears")
+
+
+[Tech, energy sectors dent Australia shares amid rate-hike fears](https://www.brecorder.com/news/40134206)
+
+
+> Australian shares dropped on Thursday, with commodity and tech stocks weighing the most, as investors feared the US Federal Reserve will raise interest rates sooner than anticipated to tame rising prices in the world's largest economy. The S&P/ASX 200 index was down 0.3% at 7,369.9 points, as of 1119 GMT. While strong US retail data this week showed that an acceleration in inflation has not stifled economic growth so far, investors feared that further increases in prices could push the Fed into tightening policy.
+
+
+***
+![Moscow Wi-Fi Network Gets 1.7k Additional Access Points in One Year](https://telecomtalk.info/wp-content/uploads/2021/11/moscow-wifi-network-gets-additional-access-points.jpg "Moscow Wi-Fi Network Gets 1.7k Additional Access Points in One Year")
+
+
+[Moscow Wi-Fi Network Gets 1.7k Additional Access Points in One Year](https://telecomtalk.info/moscow-wifi-network-gets-additional-access-points/479978/)
+
+
+> Installing Wi-Fi access points across the capital city is ensuring that Russia is moving ahead towards digitalisation at a fast pace.Moscow, the largest and capital city of Russia, has installed over 1.7k additional Wi-Fi access points in the last year.The streets and parks of the city almost have 4.7k Wi-Fi access points.Moscow, the largest and capital city of Russia, has installed over 1.7k additional Wi-Fi access points in the last year. From September 2020 to August 2021, Moscow got over 1700 new access points which took the total number of access points in the city to 21.
+
+
