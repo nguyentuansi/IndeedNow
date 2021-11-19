@@ -32450,3 +32450,13 @@
 > MUMBAI (Reuters) - Paytm's dismal stock market debut this week is likely to put a damper on future offerings after the IPO of the digital payments firm ranked among the worst-performing in Indian history, six analysts and bankers said on Friday. Indian companies have raised a staggering $9.7 billion through initial share sales in the first nine months of 2021, for the highest such tally in any of the corresponding periods of the last two decades, said accountants EY. But offerings planned for later this year, such as those by payments rival MobiKwik and hotel aggregator OYO, will face questions after Paytm's debut plunge of more than 27%, as investors turned queasy at its lack of profits and lofty value.
 
 
+***
+![Tech Giants: Banzai's Joe Davy on Event Marketers as Heroes, the Future of Events and How to Prepare](https://www.tsnn.com/sites/default/files/JoeDavy-headshot3.jpeg "Tech Giants: Banzai's Joe Davy on Event Marketers as Heroes, the Future of Events and How to Prepare")
+
+
+[Tech Giants: Banzai's Joe Davy on Event Marketers as Heroes, the Future of Events and How to Prepare](https://www.tsnn.com/index.php/news/tech-giants-banzai%E2%80%99s-joe-davy-event-marketers-heroes-future-events-and-how-prepare)
+
+
+> Tech Giants: Banzai's Joe Davy on Event Marketers as Heroes, the Future of Events and How to Prepare Raised in a small university town in North Carolina, where both of his parents were English professors, Joe Davy was self-taught when it came to tech smarts, which have been top of mind for him since childhood. 'I learned to program on our 386 PC desktop at home using a manual for a Tandy 2000 computer that I found in a box of free books at my parents' office,' he said. Davy's early interest in technology and programming eventually turned into an interest in business and entrepreneurship.
+
+
