@@ -32299,3 +32299,43 @@
 > Sega and Numskull Designs have introduced a brand new product for fans of some of their most iconic franchises, and it's none other than cologne.MORE: Sifu Release Date Moved Up, SurprisinglyIn an announcement made on Twitter, Sega and Numskull Designs are collaborating on cologne based on the Yakuza, Shenmue, and Sonic the Hedgehog franchises. Each cologne will come houses in its own custom bottle, with a design on the front of each. Of course, each will also have its own signature smell.Smells like something new has landed! Introducing the Yakuza, Shenmue and Sonic the Hedgehog unisex Cologne from @numskulldesigns! With three awesome scents, which is your favourite?🇬🇧 https://t.
 
 
+***
+![Amazon Black Friday sale](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/amazon-fire-tv-stick-2020-1606120115.jpeg?crop=0.838xw:0.628xh;0.0653xw,0.298xh&resize=1200:* "Amazon Black Friday sale")
+
+
+[Amazon Black Friday sale](https://www.digitalspy.com/tech/best-tech-deals/a29873832/black-friday-amazon-fire-tv-stick/)
+
+
+> As the countdown to Black Friday continues, Amazon has announced a wide-ranging series of deals across its own-brand devices with a week to go to the main event.With the global retailer's Black Friday Week now officially underway, it has announced savings of between a third and half the usual cost of its Fire TV devices. Many of the offers will run all the way through Cyber Monday, too.Best Black Friday Amazon Fire TV deals Released only a few weeks ago, the Fire TV Stick 4K Max is already available for 33% off its usual retail price.
+
+
+***
+![Volvo's car of the future is driving the automaker towards sustainable mobility](https://apicms.thestar.com.my/uploads/images/2021/11/18/1372835.jpg "Volvo's car of the future is driving the automaker towards sustainable mobility")
+
+
+[Volvo's car of the future is driving the automaker towards sustainable mobility](https://www.thestar.com.my/tech/tech-news/2021/11/19/volvo039s-car-of-the-future-is-driving-the-automaker-towards-sustainable-mobility)
+
+
+> As for the Concept Recharge, the car's interior is made from natural and recycled sustainable materials, such as environmentally friendly textiles and lightweight composites made from natural components. For example, responsibly sourced Swedish wool is transformed into a breathable, all-natural fabric free from additives. This warm and soft material is used for the seat backrests and the upper part of the dashboard.Instead of traditional leather, the seat backs, headrests and part of the steering wheel are made from a completely new material called Nordico, made from bio-based and recycled ingredients that come from sustainable forests in Sweden and Finland.
+
+
+***
+![IP Forecast: Delaware '101 Day' To Start Off With Natera Battle](https://www.law360.com/images/law360-stacked.png "IP Forecast: Delaware '101 Day' To Start Off With Natera Battle")
+
+
+[IP Forecast: Delaware '101 Day' To Start Off With Natera Battle](https://www.law360.com/articles/1441962/ip-forecast-delaware-101-day-to-start-off-with-natera-battle)
+
+
+> By Andrew Karpan (November 18, 2021, 9:57 PM EST) -- Delaware's Judge Leonard Stark on Monday will hold one of his "101 Day" hearings, where he considers patent eligibility fights and issues decisions on the same day, and one of the cases he's set to hear involves arguments from Natera Inc. looking to sink a DNA sequencing patent. Here's a look at that case — plus all the other major intellectual property matters on deck in the coming week.Natera will be the first on Monday to try to invalidate patents in front of Judge Stark, of the U.
+
+
+***
+![Zilingo Sees Recovery to Pre-Covid Level With Digitization Boost](http://www.bnnbloomberg.ca/polopoly_fs/1.1684274!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/ankiti-bose-co-founder-and-chief-executive-officer-of-zilingo-pte-at-the-bloomberg-new-economy-forum-in-singapore-on-friday-nov-19-2021-the-new-economy-forum-is-being-organized-by-bloomberg-media-group-a-division-of-bloomberg-lp-the-parent-company-of-bloomberg-news-photographer-wei-leng-tay-bloomberg.jpg "Zilingo Sees Recovery to Pre-Covid Level With Digitization Boost")
+
+
+[Zilingo Sees Recovery to Pre-Covid Level With Digitization Boost](https://www.bnnbloomberg.ca/zilingo-sees-recovery-to-pre-covid-level-with-digitization-boost-1.1684273)
+
+
+> (Bloomberg) -- Zilingo Pte, a marketplace for wholesale buyers and sellers in the fashion industry, said business has recovered to pre-Covid levels as more people embraced digital tools during the pandemic. 'We are about 40-45% higher because of the momentum and digitization,' in terms of gross merchandise value in the September quarter relative to the end of 2019, Chief Executive Officer Ankiti Bose said in a Bloomberg Television interview Friday at the Bloomberg New Economy Forum in Singapore.
+
+
