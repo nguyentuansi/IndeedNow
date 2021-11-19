@@ -32400,3 +32400,53 @@
 > Sleep Aid Instrument Market report published by Value Market Research, which studies the future outlook of the market. It includes the size, share, growth, trends, key players, segments and regional analysis in detail during the study year 2020-2027.t. The research report also covers the comprehensive profiles of the key players in the market and an in-depth view of the competitive landscape worldwide. The major players in the sleep aid instrument market include ResMed Inc., Fisher & Paykel Healthcare Limited, Drive DeVilbiss Healthcare LLC, Koninklijke Philips N.
 
 
+***
+![Spotify lyrics just launched: How to see them on mobile and desktop](https://cdn.slashgear.com/wp-content/uploads/2021/11/spotifylyrics.jpg "Spotify lyrics just launched: How to see them on mobile and desktop")
+
+
+[Spotify lyrics just launched: How to see them on mobile and desktop](https://www.slashgear.com/spotify-lyrics-just-launched-how-to-see-them-on-mobile-and-desktop-19700025/)
+
+
+> Spotify Lyrics were released this week for all users, on both desktop and mobile devices. The lyrics system in Spotify does not provide lyrics for every single song on the platform, but 'many of your favorite tracks' will appear with lyrics in real time once your Spotify client's Lyrics system is activated. New lyrics are 'added every day' to this system, so a relatively well known artist may not have lyrics in the system today, but might tomorrow – you'll just need to keep checking. If you're using a smartphone or a tablet, you'll need to have the latest version of the Spotify app to get this process started.
+
+
+***
+![Halo Infinite campaign co-op and Forge mode release dates delayed](https://cdn.slashgear.com/wp-content/uploads/2021/11/Halo-Infinite-campaign-Master-Chief.jpg "Halo Infinite campaign co-op and Forge mode release dates delayed")
+
+
+[Halo Infinite campaign co-op and Forge mode release dates delayed](https://www.slashgear.com/halo-infinite-campaign-co-op-and-forge-mode-release-dates-delayed-19700018/)
+
+
+> With the launch of Halo Infinite‘s multiplayer earlier this week, 343 Industries announced that season 1 will last longer than anticipated. Instead of three months as initially planned, season 1 has now been extended to six months. Unfortunately, this has implications for features beyond multiplayer, as the extension of season 1 also means that the launches of campaign co-op and Forge mode will be delayed. Campaign co-op and Forge pushed deeper into 2022 Over the summer, 343 Industries revealed that while it was working on campaign co-op and Forge mode, neither of those features would be ready to go at launch in December.
+
+
+***
+![When Was the First iPod Released?](https://cdn.slashgear.com/wp-content/uploads/2021/11/it-h3QALw-1637176912.jpg "When Was the First iPod Released?")
+
+
+[When Was the First iPod Released?](https://www.slashgear.com/when-was-the-first-ipod-released-19699883/)
+
+
+> The evolution of devices that play music involves a fascinating timeline. From the Edison Victrolas that were launched in 1877 to the Discman that Generation X used to tune out the world, what we use to listen to what we love has become more compact and filled with more features over time. Who would have thought back in the 1990s that we could carry around entire discographies in our pockets? Carlos E. Azevedo/Shutterstock The launch of Apple's iPod certainly made this possible, however. While not the first device engineered to play MP3s, the iPod definitely emerged as a leader in the industry soon after the debut of the first generation players.
+
+
+***
+![COVID-19 boosters get FDA EUA for all US adults: When to get your shot](https://cdn.slashgear.com/wp-content/uploads/2021/11/covid_vaccine_booster.jpg "COVID-19 boosters get FDA EUA for all US adults: When to get your shot")
+
+
+[COVID-19 boosters get FDA EUA for all US adults: When to get your shot](https://www.slashgear.com/covid-19-boosters-get-fda-eua-for-all-us-adults-when-to-get-your-shot-19700017/)
+
+
+> The FDA has given the green light for Moderna and Pfizer-BioNTech COVID-19 vaccine booster shots for adults, updating the emergency use authorization as the US settles in for an extended pandemic. The amended EUA allows for a single extra dose of vaccine for those aged 18 years or older, after they have completed their primary vaccination with any other FDA-authorized or approved drug. Image: Chaay_Tee & Tong_stocker/Shutterstock The expansion opens the doors to widespread booster shots around the US, building on the existing authorization for certain at-risk categories.
+
+
+***
+![Skies darken for Indian IPOs after Paytm's diappointing debut](https://apicms.thestar.com.my/uploads/images/2021/11/19/1374410.jpg "Skies darken for Indian IPOs after Paytm's diappointing debut")
+
+
+[Skies darken for Indian IPOs after Paytm's diappointing debut](https://www.thestar.com.my/tech/tech-news/2021/11/19/skies-darken-for-indian-ipos-after-paytm039s-diappointing-debut)
+
+
+> MUMBAI (Reuters) - Paytm's dismal stock market debut this week is likely to put a damper on future offerings after the IPO of the digital payments firm ranked among the worst-performing in Indian history, six analysts and bankers said on Friday. Indian companies have raised a staggering $9.7 billion through initial share sales in the first nine months of 2021, for the highest such tally in any of the corresponding periods of the last two decades, said accountants EY. But offerings planned for later this year, such as those by payments rival MobiKwik and hotel aggregator OYO, will face questions after Paytm's debut plunge of more than 27%, as investors turned queasy at its lack of profits and lofty value.
+
+
