@@ -32339,3 +32339,43 @@
 > (Bloomberg) -- Zilingo Pte, a marketplace for wholesale buyers and sellers in the fashion industry, said business has recovered to pre-Covid levels as more people embraced digital tools during the pandemic. 'We are about 40-45% higher because of the momentum and digitization,' in terms of gross merchandise value in the September quarter relative to the end of 2019, Chief Executive Officer Ankiti Bose said in a Bloomberg Television interview Friday at the Bloomberg New Economy Forum in Singapore.
 
 
+***
+![Cryptocurrencies can destabilise nations, Hillary Clinton warns](https://apicms.thestar.com.my/uploads/images/2021/11/19/1374056.jpg "Cryptocurrencies can destabilise nations, Hillary Clinton warns")
+
+
+[Cryptocurrencies can destabilise nations, Hillary Clinton warns](https://www.thestar.com.my/tech/tech-news/2021/11/19/cryptocurrencies-can-destabilise-nations-hillary-clinton-warns)
+
+
+> Clinton's comments came while criticising Russian President Vladimir Putin, accusing him of deploying 'a very large stable of hackers and those who deal in disinformation and cyberwarfare.' —Bloomberg Former Democratic presidential candidate Hillary Clinton took a swipe at cryptocurrencies, saying they have the power to weaken entire countries eventually. Clinton said via video during a panel discussion at the Bloomberg New Economy Forum on Friday in Singapore that governments around the world faced a range of new challenges, including disinformation and artificial intelligence.
+
+
+***
+![Technology is key to resilient supply chains: Experts](https://apicms.thestar.com.my/uploads/images/2021/11/19/1373901.jpg "Technology is key to resilient supply chains: Experts")
+
+
+[Technology is key to resilient supply chains: Experts](https://www.thestar.com.my/aseanplus/aseanplus-news/2021/11/19/technology-is-key-to-resilient-supply-chains-experts)
+
+
+> SINGAPORE (The Straits Times/Asia News Network): As supply chain snags continue into 2022, it is important to strike a balance between efficiency and resilience, and make use of technology to build trust among countries. In that respect, governments have an important role to play in facilitating trade by setting good rules for the digital economy and allowing free flow of data across borders, said Mastercard vice-chairman and former United States trade representative Mike Froman on the third day of the Bloomberg New Economy Forum on Friday (Nov 19).
+
+
+***
+![Galaxy Tab S8 Ultra notch might vindicate Apple's new trend](https://cdn.slashgear.com/wp-content/uploads/2021/11/GALAXY-TAB-S8-ULTRA-02.jpg "Galaxy Tab S8 Ultra notch might vindicate Apple's new trend")
+
+
+[Galaxy Tab S8 Ultra notch might vindicate Apple's new trend](https://www.slashgear.com/galaxy-tab-s8-ultra-notch-might-vindicate-apples-new-trend-18699969/)
+
+
+> There was a point in time when it seemed that notches would be the future of smartphones, especially since Apple seems to be adamant about sticking to it since the iPhone X in 2017. And then device makers started switching to punch-hole cutouts, and some even started hiding front cameras underneath screens. It seems, however, that the notch trend might be arriving on large screens, like Apple's new MacBook Pros, and Samsung might try to make it a thing on tablets with the Galaxy Tab S8 Ultra. The notch on the MacBook Pro was one of the most surprising things to be revealed at Apple's Mac-centric event last month.
+
+
+***
+![MediaTek eyes premium Android phone market with new 5G chip](https://apicms.thestar.com.my/uploads/images/2021/11/19/1373628.jpg "MediaTek eyes premium Android phone market with new 5G chip")
+
+
+[MediaTek eyes premium Android phone market with new 5G chip](https://www.thestar.com.my/tech/tech-news/2021/11/19/mediatek-eyes-premium-android-phone-market-with-new-5g-chip)
+
+
+> FILE PHOTO: MediaTek chips are seen on a development board at the MediaTek booth during the 2015 Computex exhibition in Taipei, Taiwan, June 3, 2015. REUTERS/Pichi Chuang (Reuters) - Chip designer MediaTek Inc on Thursday released a new 5G smartphone chip that it hopes will be used in premium-priced Android smartphones, a market Qualcomm Inc currently dominates.The Hsinchu, Taiwan-based company said its new Dimensity 9000 chip will be the world's first to use its manufacturing partner Taiwan Semiconductor Manufacturing Co's "N4" chipmaking process, which helps makes chips smaller and faster.
+
+
