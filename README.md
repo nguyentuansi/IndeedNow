@@ -32249,3 +32249,53 @@
 > An opinion issued by Judge Yvonne Gonzalez Rogers earlier this week gave preliminary approval to a class of app developer class' proposed settlement with Apple Inc. The settlement provides both monetary and structural relief, the latter in six areas of particular importance to the iOS developer community, the opinion said. The developers' antitrust lawsuit against Apple contended that the tech titan 'willfully acquired and maintained monopoly power, or attempted to gain monopoly power, by refusing to allow iOS device users to purchase iOS apps and in-app products other than through its own App Store.
 
 
+***
+![Echo Show 10 gets Conversation Mode to make requests less awkward](https://cdn.slashgear.com/wp-content/uploads/2021/11/echo-show-10-conversation-mode.jpg "Echo Show 10 gets Conversation Mode to make requests less awkward")
+
+
+[Echo Show 10 gets Conversation Mode to make requests less awkward](https://www.slashgear.com/echo-show-10-gets-conversation-mode-to-make-requests-less-awkward-18699896/)
+
+
+> Smart speakers and other AI assistant devices are incredibly convenient, particularly for those times you need quick information without pulling out your phone or tablet. Using these devices on a regular basis can be a bit awkward, however, as every request and command must start with the wake word — something Amazon's Conversation Mode addresses. Conversation Mode is a new feature for Amazon's Echo Show 10 smart display that allows users to give Alexa multiple commands or make multiple requests without saying 'Hey Alexa' for each statement.
+
+
+***
+![Pokemon GO December Community Day is a real monster](https://cdn.slashgear.com/wp-content/uploads/2021/11/pokemongocommunityday2021.jpg "Pokemon GO December Community Day is a real monster")
+
+
+[Pokemon GO December Community Day is a real monster](https://www.slashgear.com/pokemon-go-december-community-day-is-a-real-monster-18699935/)
+
+
+> This week we're taking a peek at the December Community Day for Pokemon GO well in advance of said day. As it's been in the past, so too shall it be with this year's year-end event, featuring Pokemon released throughout the year on Community Day events from the entirety of the year 2021. This Community Day mega-event will include a total of 11 individual Community Day special Pokemon. The December 2021 Community Day event will actually be two days, total – both of which will have special sessions from 11AM to 5PM local time.
+
+
+***
+![Kia's concept EV restraint overshadowed Hyundai's excess in LA](https://cdn.slashgear.com/wp-content/uploads/2021/11/kia_ev9_concept_02.jpg "Kia's concept EV restraint overshadowed Hyundai's excess in LA")
+
+
+[Kia's concept EV restraint overshadowed Hyundai's excess in LA](https://www.slashgear.com/kias-concept-ev-restraint-overshadowed-hyundais-excess-in-la-18699913/)
+
+
+> You wait for one three-row all-electric SUV, and along come two at the same time. Well, two concepts at least, with both Kia and Hyundai bringing their vision of electrified seven-seaters to the LA Auto Show 2021 this week. For the two South Korean automakers it's a chance to show off just how their shared E-GMP architecture can be applied, but it also proved to be an unexpected competition pitting glitz against relative restraint. 'Restraint' isn't a common theme at auto shows, where concept cars typically liberate designers and engineers from the constraints of production reality, safety regulations, and the like.
+
+
+***
+![Apple leak claims fully autonomous Project Titan EV may arrive in 2025](https://cdn.slashgear.com/wp-content/uploads/2021/11/apple-car-project-leak-full-self-driving.jpg "Apple leak claims fully autonomous Project Titan EV may arrive in 2025")
+
+
+[Apple leak claims fully autonomous Project Titan EV may arrive in 2025](https://www.slashgear.com/apple-leak-claims-fully-autonomous-project-titan-ev-may-arrive-in-2025-18699905/)
+
+
+> Apple is moving ahead with plans to develop a fully autonomous electric car, according to the latest leak on the company's long-running automotive project. Unlike some vehicles that have partial self-driving features, Apple aims to make a car that is capable of driving itself without input from the human behind the wheel, the sources allege. ZorroGabriel/Shutterstock Rumors about Apple's electric car project have been circulating for years, the narrative shifting every so often as Apple allegedly oscillates between different potential plans for its EV.
+
+
+***
+![Yakuza, Shenmue, and Sonic the Hedgehog Get Colognes From Sega](https://www.comingsoon.net/assets/uploads/2021/11/cologne.jpg "Yakuza, Shenmue, and Sonic the Hedgehog Get Colognes From Sega")
+
+
+[Yakuza, Shenmue, and Sonic the Hedgehog Get Colognes From Sega](https://www.comingsoon.net/games/news/1201908-yakuza-shenmue-sonic-the-hedgehog-cologne)
+
+
+> Sega and Numskull Designs have introduced a brand new product for fans of some of their most iconic franchises, and it's none other than cologne.MORE: Sifu Release Date Moved Up, SurprisinglyIn an announcement made on Twitter, Sega and Numskull Designs are collaborating on cologne based on the Yakuza, Shenmue, and Sonic the Hedgehog franchises. Each cologne will come houses in its own custom bottle, with a design on the front of each. Of course, each will also have its own signature smell.Smells like something new has landed! Introducing the Yakuza, Shenmue and Sonic the Hedgehog unisex Cologne from @numskulldesigns! With three awesome scents, which is your favourite?🇬🇧 https://t.
+
+
