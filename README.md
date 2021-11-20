@@ -32617,3 +32617,53 @@
 > 20/nov/2021 10:52:48 Haripriyadigital Contatta l'autore The global Batch Coding Machines Market report offers a comprehensive assessment of the market for the forecast years. The report contains several segments and an analysis of the market trends and growth factors that are playing a vitalrole in the market. These factors encompass the drivers, restraints, and opportunities. This global industry offers an outlook on the strategic development of the market in terms of revenue profits over the forecast period 2021-2026.
 
 
+***
+![PS5 SSD Was One of the Top Requested Features, Says Mark Cerny](https://www.playstationlifestyle.net/assets/uploads/2021/10/PS5-1.png "PS5 SSD Was One of the Top Requested Features, Says Mark Cerny")
+
+
+[PS5 SSD Was One of the Top Requested Features, Says Mark Cerny](https://www.playstationlifestyle.net/2021/11/20/ps5-ssd-top-requested-feature/)
+
+
+> In an interesting new video published by Wired, PlayStation architect Mark Cerny reflected upon the PlayStation 5's design and development process, revealing that Sony held numerous meetings with game developers to brainstorm ideas, and 'understand a bit about what helps them and what just gets in their way.'Cerny revealed that Sony had been receiving requests for SSDs all the way back during the PS4 era, and named Epic Games' Tim Sweeney as one of many industry professionals who were concerned about being held back by slow hard drives.
+
+
+***
+![Buick reveals futuristic Smart Pod and GL8 Flagship in China](https://cdn.slashgear.com/wp-content/uploads/2021/11/buick-gl8-flagship-side.jpg "Buick reveals futuristic Smart Pod and GL8 Flagship in China")
+
+
+[Buick reveals futuristic Smart Pod and GL8 Flagship in China](https://www.slashgear.com/buick-reveals-futuristic-smart-pod-and-gl8-flagship-in-china-20700065/)
+
+
+> Auto Guangzhou 2021 is underway in southern China, and at the show, numerous automotive manufacturers have revealed new green vehicles. Of course, some of these vehicles may never make it to the US, but it's interesting to see what some of our domestic automakers are looking at for the future of electrified vehicles. One of the automotive brands on hand is Buick, and at the show, it revealed two concept vehicles, including the Smart Pod and GL8 Flagship. The GL8 Flagship was created with help from design professionals in China.
+
+
+***
+![Airtel Postpaid Plans for OTT Streamers](https://telecomtalk.info/wp-content/uploads/2021/11/airtel-postpaid-plans-ott-streamers-tariff-benefits.png "Airtel Postpaid Plans for OTT Streamers")
+
+
+[Airtel Postpaid Plans for OTT Streamers](https://telecomtalk.info/airtel-postpaid-plans-ott-streamers-tariff-benefits/480446/)
+
+
+> Since last year, there are many plans and offers that are being offered for subscribers who are confined to their homes due to the pandemic. Some of these popular plans include the broadband plans that bundle streaming benefits, postpaid plans and work from home plans. Among the popular benefits offered by these plans include OTT subscriptions.Airtel is one of the leading telcos that offer a slew of postpaid plans that are available with attractive benefits such as OTT subscriptions. If you are looking out for such a plan, then there we have listed the Airtel postpaid plans for OTT streamers.
+
+
+***
+![Amazon Workers Snoop On Celebrity Purchases, Customers' Data: Report](https://www.glamsham.com/wp-content/uploads/2021/10/Optimum-Featured-Image-Not-Found-Will-Be-attached-When-Available-1.png "Amazon Workers Snoop On Celebrity Purchases, Customers' Data: Report")
+
+
+[Amazon Workers Snoop On Celebrity Purchases, Customers' Data: Report](https://www.glamsham.com/world/technology/amazon-workers-snoop-on-celebrity-purchases-customers-data-report)
+
+
+> San Francisco, Nov 20 (IANS) Amazon employees are snooping on the purchases made by celebrities and have access to the vast trove of customers' data, a new report has claimed.According to an investigation by The Wired, some low-level employees at Amazon 'were using their data privileges to snoop on the purchases of celebrities, while others were taking bribes to help shady sellers sabotage competitors' businesses, doctor Amazon's review system, and sell knock-off products to unsuspecting customers'.
+
+
+***
+![AirPods Black Friday Deals (2021): Best Early AirPods 3, AirPods 2 & More Sales Published by Consumer Articles](https://mms.businesswire.com/media/20211120005069/en/835847/23/Black_Friday_2021_%28CA%29.jpg "AirPods Black Friday Deals (2021): Best Early AirPods 3, AirPods 2 & More Sales Published by Consumer Articles")
+
+
+[AirPods Black Friday Deals (2021): Best Early AirPods 3, AirPods 2 & More Sales Published by Consumer Articles](https://www.businesswire.com/news/home/20211120005069/en/AirPods-Black-Friday-Deals-2021-Best-Early-AirPods-3-AirPods-2-More-Sales-Published-by-Consumer-Articles)
+
+
+> November 20, 2021 11:05 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our round-up of the top early wireless AirPods deals for Black Friday, featuring the best offers on AirPods with charging case, AirPods Pro & more. Find the full selection of deals listed below. Best AirPods Deals: Want some more deals? We recommend checking Walmart's Black Friday deals and Amazon's Black Friday page for thousands of more discounts right now. Consumer Articles earns commissions from purchases made using the links provided.
+
+
