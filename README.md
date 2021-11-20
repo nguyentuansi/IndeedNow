@@ -32667,3 +32667,33 @@
 > November 20, 2021 11:05 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our round-up of the top early wireless AirPods deals for Black Friday, featuring the best offers on AirPods with charging case, AirPods Pro & more. Find the full selection of deals listed below. Best AirPods Deals: Want some more deals? We recommend checking Walmart's Black Friday deals and Amazon's Black Friday page for thousands of more discounts right now. Consumer Articles earns commissions from purchases made using the links provided.
 
 
+***
+![India police charge Amazon execs in alleged marijuana smuggling case](https://apicms.thestar.com.my/uploads/images/2021/11/20/1375558.jpg "India police charge Amazon execs in alleged marijuana smuggling case")
+
+
+[India police charge Amazon execs in alleged marijuana smuggling case](https://www.thestar.com.my/tech/tech-news/2021/11/20/india-police-charge-amazon-execs-in-alleged-marijuana-smuggling-case)
+
+
+> FILE PHOTO: The logo of Amazon is pictured inside the company's office in Bengaluru, India, April 20, 2018. REUTERS/Abhishek N. Chinnappa//File Photo LUCKNOW, India (Reuters) - Indian police said on Saturday they had charged senior executives of Amazon.com's local unit under narcotics laws in a case of alleged marijuana smuggling via the online retailer. Police in the central Madhya Pradesh state arrested two men with 20 kg of marijuana https://www.reuters.com/world/india/india-police-question-amazon-executives-probe-over-marijuana-smuggling-2021-11-15 on Nov.
+
+
+***
+![Black Friday Powerbeats Pro Deals 2021 Monitored by Consumer Walk](https://mms.businesswire.com/media/20211120005117/en/836021/23/Black_Friday_2021_%28CW%29.jpg "Black Friday Powerbeats Pro Deals 2021 Monitored by Consumer Walk")
+
+
+[Black Friday Powerbeats Pro Deals 2021 Monitored by Consumer Walk](https://www.businesswire.com/news/home/20211120005117/en/Black-Friday-Powerbeats-Pro-Deals-2021-Monitored-by-Consumer-Walk)
+
+
+> November 20, 2021 02:30 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's a guide to the top early Powerbeats Pro deals for Black Friday, including discounts on wired & totally wireless noise-cancelling Beats headphones. Links to the best deals are listed below. Best Powerbeats Deals: Best Beats by Dre Deals: Best Headphones Deals: Want some more deals? We recommend checking Walmart's Black Friday deals and Amazon's Black Friday page to view more savings right now. Consumer Walk earns commissions from purchases made using the links provided.
+
+
+***
+![Best Black Friday Roku Deals 2021: Early Roku TV & Streaming Stick Deals Compared by Retail Fuse](https://mms.businesswire.com/media/20211120005118/en/836168/23/Black_Friday_2021_%28RF%29.jpg "Best Black Friday Roku Deals 2021: Early Roku TV & Streaming Stick Deals Compared by Retail Fuse")
+
+
+[Best Black Friday Roku Deals 2021: Early Roku TV & Streaming Stick Deals Compared by Retail Fuse](https://www.businesswire.com/news/home/20211120005118/en/Best-Black-Friday-Roku-Deals-2021-Early-Roku-TV-Streaming-Stick-Deals-Compared-by-Retail-Fuse)
+
+
+> November 20, 2021 02:25 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Find the top early Roku TV deals for Black Friday, together with all the latest Roku Premiere, Roku Ultra & Roku Express deals. Browse the latest deals using the links below. Best Roku deals: Save up to 57% on best-selling Roku Ultra, Roku Premiere, Roku Express, Roku TVs & more at Walmart - see the best deals on streaming media players, streaming sticks, TVs and more Save up to 42% on Roku TVs, streaming sticks, streaming media players, wireless speakers & more at Amazon - check the latest deals on a wide range of Roku streaming devices including Express, Ultra 2020, Streambar streaming media players and more Save up to 20% on a wide range of Roku products at Dell.
+
+
