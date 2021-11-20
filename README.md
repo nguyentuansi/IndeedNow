@@ -32510,3 +32510,43 @@
 > FIA (Futures Industry Association) announced on November 2, 2021 that it has released a report calling on participants in the futures and options sector to work cooperatively on an initiative to enhance the overall efficiency of the trading and clearing process for exchange-traded derivatives. The report, titled 'Modernizing the Listed Derivatives Workflow: A Blueprint for Change,' addresses the challenge of 'achieving industry-wide improvements by establishing a framework for building consensus and collaboration among all segments of the industry, including clearing firms, executing brokers, exchanges, clearinghouses, customers and technology vendors.
 
 
+***
+![Apple iPhone 13 Mini Versus 13 Pro Max](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/iphone-mini-vs-pro-max-0035-1637350076.jpg?crop=0.966xw:0.724xh;0.0192xw,0.154xh&resize=1200:* "Apple iPhone 13 Mini Versus 13 Pro Max")
+
+
+[Apple iPhone 13 Mini Versus 13 Pro Max](https://www.popularmechanics.com/technology/a38257406/apple-iphone-13-mini-versus-iphone-13-pro-max/)
+
+
+> After Apple unveiled the iPhone 13 Pro Max back in September, I immediately placed a preorder to upgrade from my ailing iPhone X. That's a pretty big deal, since I only splurge on a new iPhone whenever there's a significant functionality change. For the past two years, I'd spent my days looking at a cracked, discolored screen on a phone barely clinging to life. A heavily deteriorated battery meant that my phone died within eight hours from full charge at inconvenient moments, like when relying on GPS directions or looking up something for work.
+
+
+***
+![China Tech Digest: Ant Group Establishes Joint Lab For Data Security And Privacy Computing; SenseTime's $1B Hong Kong IPO Said To Be Approved](https://assets.chinamoneynetwork.com/wp-content/uploads/20211120091818/sskoo.com-24-696x355.jpg "China Tech Digest: Ant Group Establishes Joint Lab For Data Security And Privacy Computing; SenseTime's $1B Hong Kong IPO Said To Be Approved")
+
+
+[China Tech Digest: Ant Group Establishes Joint Lab For Data Security And Privacy Computing; SenseTime's $1B Hong Kong IPO Said To Be Approved](https://www.chinamoneynetwork.com/2021/11/20/china-tech-digest-ant-group-establishes-joint-lab-for-data-security-and-privacy-computing-sensetimes-1b-hong-kong-ipo-said-to-be-approved)
+
+
+> Ant Group establishes joint lab for data security and privacy computing Ant Group has established the Joint Lab for Data Security and Privacy Computing with Shenzhen National Financial Technology Evaluation Center. The two parties will cooperate on formulation of technical and evaluation standards in personal information protection, corporate data security governance, privacy computing technology and its application fields. SenseTime's $1B Hong Kong IPO said to be approved Chinese AI company SenseTime has been approved to go public in Hong Kong, and plans to raise more than US$1 billion through its initial public offering (IPO), according to media reports.
+
+
+***
+![Technology bolsters democracies, make an impact on governance: Jaishankar](https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/23/full/1592935512-8028.jpg "Technology bolsters democracies, make an impact on governance: Jaishankar")
+
+
+[Technology bolsters democracies, make an impact on governance: Jaishankar](https://www.business-standard.com/article/news-ani/technology-strengthens-democracies-make-amazing-impact-on-quality-of-governance-jaishankar-at-sydney-dialogue-121112000193_1.html)
+
+
+> Emphasising that technologies make an "amazing impact" on the quality of the governance, External Affairs Minister S Jaishankar has said that the technology platforms have "strengthened" democracies and are "hugely helpful". "Through the entire Coronavirus (Covid-19) period, we were able to do financial transfers and even food support to literally hundreds of millions of people because of technology platforms. We vaccinated more than a billion people," said Jaishankar while speaking virtually at The Sydney Dialogue panel discussion on "Democracies and Global Technology Governance" on Friday.
+
+
+***
+![UK and US join forces to strike back in cyber-space](https://www.businessghana.com/site/img/../../cms/img/news/2021-11-19-15491401.jpg "UK and US join forces to strike back in cyber-space")
+
+
+[UK and US join forces to strike back in cyber-space](https://www.businessghana.com/)
+
+
+> The US and UK are joining forces to "impose consequences" on their shared adversaries who conduct malicious cyber-activities. The combined action would address "evolving threats with a full range of capabilities", they said. The shared adversaries were not named but the announcement follows increasing concern over Russia-based ransomware. The plan was discussed last week at an annual meeting of intelligence chiefs, in the US. Gen Sir Patrick Sanders and Government Communications Headquarters (GCHQ) director Sir Jeremy Fleming and US Cyber Command head Gen Paul Nakasone "reaffirmed" their commitment to jointly disrupt and deter new and emerging cyber-threats.
+
+
