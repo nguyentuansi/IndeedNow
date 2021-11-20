@@ -32460,3 +32460,53 @@
 > Tech Giants: Banzai's Joe Davy on Event Marketers as Heroes, the Future of Events and How to Prepare Raised in a small university town in North Carolina, where both of his parents were English professors, Joe Davy was self-taught when it came to tech smarts, which have been top of mind for him since childhood. 'I learned to program on our 386 PC desktop at home using a manual for a Tandy 2000 computer that I found in a box of free books at my parents' office,' he said. Davy's early interest in technology and programming eventually turned into an interest in business and entrepreneurship.
 
 
+***
+![Case report reveals plant-based diet may relieve chronic migraines](https://cdn.slashgear.com/wp-content/uploads/2021/11/plant-based-diet-migraines-study.jpg "Case report reveals plant-based diet may relieve chronic migraines")
+
+
+[Case report reveals plant-based diet may relieve chronic migraines](https://www.slashgear.com/case-report-reveals-plant-based-diet-may-relieve-chronic-migraines-19700038/)
+
+
+> A number of studies and case reports have been published over the years that implicate plant-based diets as a way to reduce or eliminate certain chronic conditions. The latest example of this was recently published in BMJ Case Reports, a peer-reviewed publication, where doctors revealed that a plant-based diet full of dark green leafy vegetables offered a man relief from chronic migraines he'd suffered for more than a decade. Margouillat photo/Shutterstock When treatment fails Chronic migraines are a debilitating issue that may present with or without aura.
+
+
+***
+![How Trump And Biden Both Screwed Up 5G](https://cdn.digg.com/submitted-links/1637333482-px5CgyVLi7.jpg "How Trump And Biden Both Screwed Up 5G")
+
+
+[How Trump And Biden Both Screwed Up 5G](https://digg.com/technology/link/how-trump-and-biden-both-screwed-up-5-g-vB9cYfflXy)
+
+
+> Can you Digg it? Sign in to unlock more fun features on Digg. Sign in with Twitter Sign in with Google By signing in you agree with our communications and usage terms.
+
+
+***
+![CORRECTING and REPLACING ngena Taps ServiceNow and Thirdera to Provide a New One-Touch Network Experience](https://mms.businesswire.com/media/20211118005303/en/928518/23/20-02_ngena_Logo_with_New_Tagline_RGB_light_and_dark_-_V02.jpg "CORRECTING and REPLACING ngena Taps ServiceNow and Thirdera to Provide a New One-Touch Network Experience")
+
+
+[CORRECTING and REPLACING ngena Taps ServiceNow and Thirdera to Provide a New One-Touch Network Experience](https://www.businesswire.com/news/home/20211118005303/en/CORRECTING-and-REPLACING-ngena-Taps-ServiceNow-and-Thirdera-to-Provide-a-New-One-Touch-Network-Experience)
+
+
+> November 19, 2021 07:40 PM Eastern Standard Time FRANKFURT, Germany--(BUSINESS WIRE)--Please replace the release dated November 18, 2021 with the following corrected version due to multiple revisions. The updated release reads: NGENA TAPS SERVICENOW AND THIRDERA TO PROVIDE A NEW ONE-TOUCH NETWORK EXPERIENCE Workflow Support to Deliver Fully Integrated and Simplified Platform ngena, the only global end-to-end orchestrated SD-WAN as a service company, today announced that ServiceNow, the leading digital workflow company that makes work, work better for people, and Thirdera, the leading pure play ServiceNow partner, will take its network to a new level of simple as a service deployment.
+
+
+***
+![Tech Gains Push Nasdaq Above 16,000 for the First Time](https://express-images.franklymedia.com/asset/express-cms-admin-logo.png "Tech Gains Push Nasdaq Above 16,000 for the First Time")
+
+
+[Tech Gains Push Nasdaq Above 16,000 for the First Time](https://www.kmjnow.com/news/tech-gains-push-nasdaq-above-16000-for-the-first-time)
+
+
+> Stocks closed mostly lower on Wall Street Friday, though gains for several tech companies pushed the Nasdaq composite to another record high and its first close over 16,000 points.The S&P 500 index gave up 0.1% and the Dow Jones Industrial Average fell 0.8%. A choppy several days of trading left the S&P 500 and Nasdaq higher for the week and the Dow lower.TurboTax maker Intuit jumped 10.1% after raising its profit forecast. Moderna jumped 4.9% after U.S. regulators opened up coronavirus booster shots to all adults.
+
+
+***
+![FIA Shares Blueprint to Streamline Trading Processes](https://www.crowdfundinsider.com/wp-content/uploads/2019/05/New-York-Stock-Exchange-Floor-Trading-Market.jpg "FIA Shares Blueprint to Streamline Trading Processes")
+
+
+[FIA Shares Blueprint to Streamline Trading Processes](https://www.crowdfundinsider.com/2021/11/182468-fia-shares-blueprint-to-streamline-trading-processes)
+
+
+> FIA (Futures Industry Association) announced on November 2, 2021 that it has released a report calling on participants in the futures and options sector to work cooperatively on an initiative to enhance the overall efficiency of the trading and clearing process for exchange-traded derivatives. The report, titled 'Modernizing the Listed Derivatives Workflow: A Blueprint for Change,' addresses the challenge of 'achieving industry-wide improvements by establishing a framework for building consensus and collaboration among all segments of the industry, including clearing firms, executing brokers, exchanges, clearinghouses, customers and technology vendors.
+
+
