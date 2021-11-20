@@ -32550,3 +32550,33 @@
 > The US and UK are joining forces to "impose consequences" on their shared adversaries who conduct malicious cyber-activities. The combined action would address "evolving threats with a full range of capabilities", they said. The shared adversaries were not named but the announcement follows increasing concern over Russia-based ransomware. The plan was discussed last week at an annual meeting of intelligence chiefs, in the US. Gen Sir Patrick Sanders and Government Communications Headquarters (GCHQ) director Sir Jeremy Fleming and US Cyber Command head Gen Paul Nakasone "reaffirmed" their commitment to jointly disrupt and deter new and emerging cyber-threats.
 
 
+***
+![The ideal movie night setup: Tips for bringing a cinema feeling home](https://apicms.thestar.com.my/uploads/images/2021/11/20/1374986.jpeg "The ideal movie night setup: Tips for bringing a cinema feeling home")
+
+
+[The ideal movie night setup: Tips for bringing a cinema feeling home](https://www.thestar.com.my/tech/tech-news/2021/11/20/the-ideal-movie-night-setup-tips-for-bringing-a-cinema-feeling-home)
+
+
+> If you want to achieve a real cinematic viewing experience in your living room you need to think in terms of the size of your TV that is. A screen diagonal of 55-inches or more is necessary, say experts. "With consideration of the viewing distance and the source material, you should select a TV as large as possible,' recommends Roland Seibt, who reviews home cinema products for an industry magazine. Regardless of whether the movie is streamed or played from a Blu-ray, movies in Ultra-HD (UHD) or 4K have such a high resolution that viewers can sit significantly closer to the TV than they could have with the older, lower resolution Full HD.
+
+
+***
+![Alliance Broadband 1 Gbps Plan Comes With 12 OTT Benefits, Know More](https://telecomtalk.info/wp-content/uploads/2021/11/alliance-broadband-gbps-plan-comes-with-ott.jpeg "Alliance Broadband 1 Gbps Plan Comes With 12 OTT Benefits, Know More")
+
+
+[Alliance Broadband 1 Gbps Plan Comes With 12 OTT Benefits, Know More](https://telecomtalk.info/alliance-broadband-gbps-plan-comes-with-ott/480390/)
+
+
+> Alliance Broadband, a regional internet service provider (ISP), primarily known for offering services in the city of Kolkata.1 Gbps speed plan is the highest speed broadband plan offered by Alliance.Note that the installation charges aren't refundable.Alliance Broadband, a regional internet service provider (ISP), primarily known for offering services in the city of Kolkata, offers a wide variety of internet plans. The ISP's plans range from 60 Mbps speed to 1 Gbps speed. While there are many 1 Gbps plans available in the market, Alliance Broadband's 1 Gbps plan stands out by offering 12 over-the-top (OTT) benefits to the consumers.
+
+
+***
+![Retinal disease can steal your vision, but it doesn't have to](https://bloximages.newyork1.vip.townnews.com/southdadenewsleader.com/content/tncms/assets/v3/editorial/7/9b/79b41720-48e6-58c5-b52f-87341cd6a5ce/614c203ca481f.image.jpg?resize=1120%2C630 "Retinal disease can steal your vision, but it doesn't have to")
+
+
+[Retinal disease can steal your vision, but it doesn't have to](https://www.brandpointcontent.com/article/38456/retinal-disease-can-steal-your-vision-but-it-doesnt-have-to)
+
+
+> (BPT) - For decades, Glenroy Washington happily worked as a professional musician, a passion that led him around the world. Then while on tour in Europe, he noticed something was wrong with his eyesight, and that's when his life began to change.Washington has diabetes and tried to keep his A1C, or blood sugar, under control. However, his hectic travel schedule affected his ability to manage his diabetes and he experienced symptoms of diabetic retinopathy, a retinal condition that occurs when diabetes damages blood vessels in the retina.
+
+
