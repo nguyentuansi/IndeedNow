@@ -32927,3 +32927,53 @@
 > Eternals is still playing in theaters and Hawkeye is about to launch in Disney Plus, so the MCU is getting more exciting than ever. But if you're a Marvel fan, it's probably Spider-Man: No Way Home that's on your mind right now, thanks to that massive trailer 2 release. That's the MCU subject that has everyone talking these days. It's a trailer meant to deceive fans, especially when it comes to hiding Tobey Maguire and Andrew Garfield. However, the clip might also contain a big plot twist that's hiding in plain sight, and we'll explain.
 
 
+***
+![Indian Navy to enhance surveillance capability; to focus on acquiring new-age tech](https://images.cnbctv18.com/wp-content/uploads/2021/05/INS-Rajput-1-1019x573.jpg "Indian Navy to enhance surveillance capability; to focus on acquiring new-age tech")
+
+
+[Indian Navy to enhance surveillance capability; to focus on acquiring new-age tech](https://www.cnbctv18.com/technology/indian-navy-to-enhance-surveillance-capability-to-focus-on-acquiring-new-age-tech-11542142.htm)
+
+
+> The Indian Navy plans to acquire a sizeable number of unmanned aerial and underwater platforms in the next few years to significantly ramp up its surveillance capability in the backdrop of China's increasing forays into the Indian Ocean region, people familiar with the development said on Sunday.The acquisition will be made as part of a roadmap on unmanned platforms, which was finalised at a conference of the top naval commanders last month that had extensively deliberated on the need to procure new-age platforms, they said.
+
+
+***
+![How to make a League of Legends kids can play, according to Disney Melee Mania's developers](https://cdn.mos.cms.futurecdn.net/dGXtGFrTTrZTay6Fy2XQiN-1200-80.jpg "How to make a League of Legends kids can play, according to Disney Melee Mania's developers")
+
+
+[How to make a League of Legends kids can play, according to Disney Melee Mania's developers](https://www.techradar.com/features/how-to-make-a-league-of-legends-kids-can-play-according-to-disney-melee-manias-developers)
+
+
+> In the two years since Apple Arcade launched, it's collected over two hundred family-friendly games that are lighthearted takes on gameplay genres that are usually pretty intense. Its next game, Disney Melee Mania, seeks to do the same with the mobile battle arena (MOBA), essentially making a League of Legends-style game that kids can play with their favorite Disney and Pixar characters.While Pokémon Unite launched earlier this year with a simplified take on the venerable MOBA formula pitting teams of players against each other, Disney Melee Mania trims away even more systems to preserve the bare elements of competition.
+
+
+***
+![Modularly Programming a Third Person Shooter : programming](https://external-preview.redd.it/Ua-UNCbLRPspJF9-SrEe7h92oRE92CNVROe25T9ZclE.jpg?auto=webp&s=42cc10648111df4b6e043267c2cce36ad5746ac6 "Modularly Programming a Third Person Shooter : programming")
+
+
+[Modularly Programming a Third Person Shooter : programming](https://www.reddit.com/r/programming/comments/qz2ps4/modularly_programming_a_third_person_shooter)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![Ring up the savings with these Amazon Ring and Blink deals for Black Friday](https://cdn.mos.cms.futurecdn.net/VDFETHPZLyMC4o38DE9PZL-1200-80.jpg "Ring up the savings with these Amazon Ring and Blink deals for Black Friday")
+
+
+[Ring up the savings with these Amazon Ring and Blink deals for Black Friday](https://www.techradar.com/news/ring-up-the-savings-with-these-amazon-ring-and-blink-deals-for-black-friday)
+
+
+> When it comes to smart home security, Amazon Ring and Blink devices offer a quick, easy, and affordable way to keep things safe and sound with live video monitoring and more. Fortunately, the Black Friday deals have rolled out earlier than you might expect, so if you've had your eye on a new video doorbell, wirelessly-enabled camera or an Echo device to check on them through, we've got a veritable cornucopia of deals to recommend to you. There are a ton of Ring and Blink devices on sale right now, including Ring Video Doorbells, the new Blink Video Doorbells, as well as Blink Outdoor camera systems and indoor Blink Minis.
+
+
+***
+![The most luxurious gaming monitor is under $1,000 for Black Friday](https://cdn.mos.cms.futurecdn.net/VkjdYiUUcHjafxbt4tx4Vj-1200-80.jpg "The most luxurious gaming monitor is under $1,000 for Black Friday")
+
+
+[The most luxurious gaming monitor is under $1,000 for Black Friday](https://www.techradar.com/deals/the-most-luxurious-gaming-monitor-is-under-dollar1000-for-black-friday)
+
+
+> (Image credit: Samsung; Future) The Samsung Odyssey G9 is quite simply a ridiculous gaming monitor - and we mean that in the best way possible. This 49-inch ultra-Ultrawide monitor will make for the most immersive gaming experience this side of VR, and now you can get it for an affordable price ahead of Black Friday 2021. Right now at Amazon, you can get the Samsung Odyssey G9 for just $999, which is a giant $400 discount for this amazing display. Sure, it's not the latest model, but at this price, we literally dare you to find a better gaming monitor, much less a better Black Friday monitor deal.
+
+
