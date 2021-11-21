@@ -32697,3 +32697,43 @@
 > November 20, 2021 02:25 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Find the top early Roku TV deals for Black Friday, together with all the latest Roku Premiere, Roku Ultra & Roku Express deals. Browse the latest deals using the links below. Best Roku deals: Save up to 57% on best-selling Roku Ultra, Roku Premiere, Roku Express, Roku TVs & more at Walmart - see the best deals on streaming media players, streaming sticks, TVs and more Save up to 42% on Roku TVs, streaming sticks, streaming media players, wireless speakers & more at Amazon - check the latest deals on a wide range of Roku streaming devices including Express, Ultra 2020, Streambar streaming media players and more Save up to 20% on a wide range of Roku products at Dell.
 
 
+***
+![Mega Beats deals on Solo Pro, Powerbeats and Studio 3](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/159147-headphones-news-save-big-on-beats-this-week-image1-l2qc01lyam.jpg "Mega Beats deals on Solo Pro, Powerbeats and Studio 3")
+
+
+[Mega Beats deals on Solo Pro, Powerbeats and Studio 3](https://www.pocket-lint.com/headphones/news/beats/159147-beats-deals)
+
+
+> (Pocket-lint) - We're sure you've heard by now but Black Friday discounts have started, and from today you can save big on several of Beats' most popular headphone models. Whether you're after some over-ears, on-ears, or workout earphones, there's something for everyone on Amazon this week. For the next week you'll find the Beats Studio 3 Wireless, Beats Solo Pro and Beats Powerbeats Pro all heavily discounted and available at a brilliant price.  Beats Solo Pro - save £140 The Solo series is Beats most popular series of products, and the Solo Pro adds a premium design splash and ANC.
+
+
+***
+![Northrop Grumman To Develop "Agile And Affordable" Lunar Rover For Astronauts](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-11/2021-11-19_14-55-00_0.png?itok=QPfzNfjm "Northrop Grumman To Develop "Agile And Affordable" Lunar Rover For Astronauts")
+
+
+[Northrop Grumman To Develop "Agile And Affordable" Lunar Rover For Astronauts](https://www.zerohedge.com/technology/northrop-grumman-develop-agile-and-affordable-lunar-rover-astronauts)
+
+
+> Aerospace and defense technology company Northrop Grumman unveiled a high-tech dune-buggy that astronauts may use once they return to the lunar surface.Northrop Grumman is designing an unpressurized Lunar Terrain Vehicle (LTV) to transport NASA's Artemis astronauts across the lunar surface. NASA created the Artemis program during the Trump administration, intending to have the first woman and first person of color on the moon between 2024-2025 but come to find out this month, NASA's Office of the Inspector General said the landing event will probably take place several years after 2024.
+
+
+***
+![Robots, big data as Gulf nations bet on artificial intelligence](https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-11/20211121_AI_Expo_Dubai_AFP-seo.jpg "Robots, big data as Gulf nations bet on artificial intelligence")
+
+
+[Robots, big data as Gulf nations bet on artificial intelligence](https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476)
+
+
+> A robot is pictured during the Expo 2020, in the Gulf emirate of Dubai. — AFP pic DUBAI, Nov 21 — Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core. The 5G-enabled Expo, covering an area twice the size of Monaco, will remain as a 'city of the future' and tech industry hub, Expo's chief told AFP before its grand opening last month. But the US$7 billion (RM29.2 billion) project, featuring robots that greet visitors and can be used to order food, is not alone in the wealthy Gulf, where petro-dollars are being invested heavily in a post-oil future.
+
+
+***
+![How to get Cresselia in Pokemon Brilliant Diamond & Shining Pearl](https://www.dexerto.com/wp-content/uploads/2021/11/20/how-to-get-cresselia-pokemon-brilliant-diamond-shining-pearl.jpg "How to get Cresselia in Pokemon Brilliant Diamond & Shining Pearl")
+
+
+[How to get Cresselia in Pokemon Brilliant Diamond & Shining Pearl](https://www.dexerto.com/pokemon/how-to-get-cresselia-in-pokemon-brilliant-diamond-shining-pearl-1703581/)
+
+
+> The beautiful Gen IV Legendary returns in Pokemon Brilliant Diamond & Shining Pearl. Here's how to get Cresselia, including prerequisites and its location in BDSP. First introduced in Diamond & Pearl on Nintendo DS in 2006, the Psychic-type is one-half of the Lunar duo with Darkrai and shaped like a swan. Cresselia can be caught in Pokemon Brilliant Diamond & Shining Pearl but has a very specific method of doing so. The Pokemon Company / ILCAThe Legendary Pokemon is female only. How to get Cresselia in Pokemon BDSP In order to reach the female Legendary, you need to have beaten the Elite Four and the Sinnoh Champion first.
+
+
