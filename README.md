@@ -32787,3 +32787,53 @@
 > Jul 16, 2013 422 176 Cali I am trying to figure out how to Crop video footage after I Smart Conform. I've tried several things, but nothing works. If, after Smart Confirm, I select Crop and make any adjustment (including no crop adjustment), the video footage that appears is no where near what I cropped. It zooms (crops) in significantly. Here are the steps I follow: (1) Select New Project (2) Select Vertical for the Format (3) Enter a Project Name (and rate and resolution) (4) Select OK (5) Click on the video file and Modify -> Smart Conform (6) Click on the video file and select Crop.
 
 
+***
+![MIUI 12 Remove Ads: How to Get Rid of Ads From Your Xiaomi Smartphone](https://i.gadgets360cdn.com/large/1200x675_thumb_-_main_1611322430857.png "MIUI 12 Remove Ads: How to Get Rid of Ads From Your Xiaomi Smartphone")
+
+
+[MIUI 12 Remove Ads: How to Get Rid of Ads From Your Xiaomi Smartphone](https://gadgets.ndtv.com/how-to/features/miui-12-disable-ads-block-spam-redmi-xiaomi-phone-how-to-2356679)
+
+
+> Xiaomi is one of the largest smartphone brands in India and is known for its budget smartphones. While its own custom skin based on Android 11, the MIUI 12, comes with some notable features, it also contains ads that are sprinkled all throughout. During the launch of MIUI 12, Xiaomi did mention the presence of a one-tap option to disable system-wide ads, but that feature was missing in the global build. If you are a MIUI 12 user and want to give your smartphone a deep cleanse, here's how you can do it.
+
+
+***
+![Google Extends Chrome Support for Windows 7 Users: What This Means](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/windows-7-1.jpg "Google Extends Chrome Support for Windows 7 Users: What This Means")
+
+
+[Google Extends Chrome Support for Windows 7 Users: What This Means](https://www.makeuseof.com/google-extends-chrome-support-for-windows-7/)
+
+
+> Google has announced that Chrome support is going to be extended for Windows 7 until January 15, 2023, for all 'critical and security updates.' The company had previously stated that support for Windows 7 would end on July 15, 2021, and then be extended to January 15, 2022. Google Chrome is by and large the most popular browser in the world, so ending support for it on Windows 7 would have been a blow for organizations still using the legacy operating system. Microsoft already ended support for Windows 7 in January 2020.
+
+
+***
+![Ferrari debuts Daytona SP3 retro to honor 1960s race cars. Read more](https://images.livemint.com/img/2021/11/21/600x338/FEppVWIXsAk7MKw_1637479106879_1637479111620.jpg "Ferrari debuts Daytona SP3 retro to honor 1960s race cars. Read more")
+
+
+[Ferrari debuts Daytona SP3 retro to honor 1960s race cars. Read more](https://www.livemint.com/auto-news/ferrari-debuts-daytona-sp3-retro-to-honor-1960s-race-cars-read-more-11637478767340.html)
+
+
+> Ferrari has unveiled a new limited-run retro model that the storied Italian manufacturer is billing as its most aerodynamically efficient car ever. The Daytona SP3 that debuted Saturday at Mugello Circuit, a Formula One track near Florence, honors the brand's 1960s race cars. It represents the second leg of Ferrari's special-edition Icona series, the first being the Monza SP1 and SP2 cars introduced three years ago. Like those Monza models, the Daytona SP3 is likely to carry a seven-figure price tag.
+
+
+***
+![Want to check if your Apple iPhone is fake or original? Here's how you can do it](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/11/21/1006264-iphine.jpeg "Want to check if your Apple iPhone is fake or original? Here's how you can do it")
+
+
+[Want to check if your Apple iPhone is fake or original? Here's how you can do it](https://www.dnaindia.com/technology/report-want-to-check-if-your-apple-iphone-is-fake-or-original-heres-how-you-can-do-it-apple-iphone-13-alerts-news-2920520)
+
+
+> Everyone wants an iPhone but not every place you buy it from sells a genuine one. Unless you are buying the product from an Apple store, it is always better to double-check if the phone is fake or not.  Even though iPhones come with the most sophisticated look, intelligent operating system, expensive camera sets, it can be easy for some to create fakes.  Here's how you can find out if your iPhone is a fake or not:  - IMEI number International Mobile Equipment Identity (IMEI) is basically a 15-digit number that every phone comes with.
+
+
+***
+![Now, you can earn money while you tweet](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/11/21/1006260-twitter.jpeg "Now, you can earn money while you tweet")
+
+
+[Now, you can earn money while you tweet](https://www.dnaindia.com/technology/report-now-you-can-earn-money-while-you-tweet-heres-how-twitter-tips-feature-transfer-money-bitcoin-news-alerts-2920516)
+
+
+> Twitter is definitely more than a microblogging site, along with political leaders, analysts we also have influencers and creators putting their best work in front of you. Until now a user could only appreciate their work by retweeting their work or simply by liking it but now if you genuinely like someone's work, you can tip them. Yes, you read that right.  The 'Tips' feature by Twitter was rolled out earlier for its iOS users for a limited base only but now Android users can also make use of it.
+
+
