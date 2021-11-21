@@ -32887,3 +32887,43 @@
 > The acceleration of digital work has been transformational, but also disruptive. In the last year, the pandemic triggered the rapid adoption of digital tools across all organizations, upending their ways of working.While most organizations identified digital workplace (DW) programs as a business priority, Gartner research showed that most employees felt that using information technologies for work took more effort than it should at least weekly.About the authorTori Paulman is is a Research Analyst in Gartner.
 
 
+***
+![Sonos Arc Black Friday Deals (2021): Top Early Sonos Home Theater Soundbar Sales Reviewed by Spending Lab](http://www.businesswire.com/images/bwlogo_square.png "Sonos Arc Black Friday Deals (2021): Top Early Sonos Home Theater Soundbar Sales Reviewed by Spending Lab")
+
+
+[Sonos Arc Black Friday Deals (2021): Top Early Sonos Home Theater Soundbar Sales Reviewed by Spending Lab](https://www.businesswire.com/news/home/20211121005079/en/Sonos-Arc-Black-Friday-Deals-2021-Top-Early-Sonos-Home-Theater-Soundbar-Sales-Reviewed-by-Spending-Lab)
+
+
+> November 21, 2021 11:05 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the best early Sonos Arc wireless soundbar deals for Black Friday 2021, featuring all the top Sonos home theater soundbar deals. Links to the latest deals are listed below. Latest Sonos Arc deals: Best Sonos Deals: About Spending Lab: Spending Lab research and report on online sales events. As an Amazon Associate and affiliate Spending Lab earns from qualifying purchases.
+
+
+***
+![Best Black Friday Vacuum Cleaner Deals (2021): Best Early Robovac, Cordless, Upright & Stick Vacuum Savings Monitored by Saver Trends](https://mms.businesswire.com/media/20211121005076/en/835912/23/Black_Friday_2021_%28ST%29.jpg "Best Black Friday Vacuum Cleaner Deals (2021): Best Early Robovac, Cordless, Upright & Stick Vacuum Savings Monitored by Saver Trends")
+
+
+[Best Black Friday Vacuum Cleaner Deals (2021): Best Early Robovac, Cordless, Upright & Stick Vacuum Savings Monitored by Saver Trends](https://www.businesswire.com/news/home/20211121005076/en/Best-Black-Friday-Vacuum-Cleaner-Deals-2021-Best-Early-Robovac-Cordless-Upright-Stick-Vacuum-Savings-Monitored-by-Saver-Trends)
+
+
+> November 21, 2021 11:00 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday deals researchers are identifying all the best early vacuum cleaner deals for Black Friday 2021, featuring all the best sales on vac mops, cordless vacuums, cleaning tools, attachments & more. Links to the top deals are listed below. Best Vacuum Cleaner Deals: Save up to 60% on vacuum cleaners & robot vacs from top brands including Dyson, Shark, Bissell, Roomba & more at Walmart - check the latest deals on top-rated cordless vacuums, robot vacuums, handheld & stick vacs Save up to 42% on a wide range of cordless vacuums & robot vacuums from Shark, Dyson & more top brands at Amazon Save up to $235 on the latest Dyson vacuums, hair dryers, fans & purifiers at Walmart - check the latest deals on Dyson's top-rated cordless vacuums, Supersonic hair dryers and more Save up to $451 on a wide range of Roomba robot vacuum bundles & deals at Walmart - check deals available on the Roomba i7, i3, e6 and more new and refurbished models Save up to 35% off on canister, stick & upright cordless vacuums at Target - check the latest deals on vacuum from Shark, Black+Decker, Hoover, Dyson, Dirt Devil and more Save up to $500 off on select Roomba robot vacuums & bundle deals at iRobot.
+
+
+***
+![The Institute of Illegal Images is a wonderland full of LSD blotter art](https://i2.wp.com/boingboing.net/wp-content/uploads/2021/11/CleanShot-2021-11-19-at-17.05.01.jpg?fit=834%2C464&ssl=1 "The Institute of Illegal Images is a wonderland full of LSD blotter art")
+
+
+[The Institute of Illegal Images is a wonderland full of LSD blotter art](https://boingboing.net/2021/11/21/the-institute-of-illegal-images-is-a-wonderland-full-of-lsd-blotter-art.html?utm_source=rss&utm_medium=rss&utm_campaign=the-institute-of-illegal-images-is-a-wonderland-full-of-lsd-blotter-art)
+
+
+> The walls of Mark Mccloud's San Francisco home are covered in LSD blotter art. He calls his collection the "Institute of Illegal images", and you can visit for free. Here is a 2016 interview with Mccloud inside of his home. He's a fascinating character. All of the artifacts in the institute have a backstory, such as "a framed blotter print of a telegraph sent by Allen Ginsberg pleading for the release of LSD pioneer Timothy Leary (SF's Institute of Illegal Images is like an LSD museum )." Mccloud nearly got a life sentence in prison for owning so much blotter art, but he managed to get out of trouble and continue curating his incredible collection.
+
+
+***
+![Spider-Man: No Way Home trailer is hiding a plot twist in plain sight](https://bgr.com/wp-content/uploads/2021/11/spider-man-no-way-home-trailer-2-6.jpg?quality=82&strip=all "Spider-Man: No Way Home trailer is hiding a plot twist in plain sight")
+
+
+[Spider-Man: No Way Home trailer is hiding a plot twist in plain sight](https://bgr.com/tech/spider-man-no-way-home-trailer-is-hiding-a-plot-twist-in-plain-sight)
+
+
+> Eternals is still playing in theaters and Hawkeye is about to launch in Disney Plus, so the MCU is getting more exciting than ever. But if you're a Marvel fan, it's probably Spider-Man: No Way Home that's on your mind right now, thanks to that massive trailer 2 release. That's the MCU subject that has everyone talking these days. It's a trailer meant to deceive fans, especially when it comes to hiding Tobey Maguire and Andrew Garfield. However, the clip might also contain a big plot twist that's hiding in plain sight, and we'll explain.
+
+
