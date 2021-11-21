@@ -32737,3 +32737,53 @@
 > The beautiful Gen IV Legendary returns in Pokemon Brilliant Diamond & Shining Pearl. Here's how to get Cresselia, including prerequisites and its location in BDSP. First introduced in Diamond & Pearl on Nintendo DS in 2006, the Psychic-type is one-half of the Lunar duo with Darkrai and shaped like a swan. Cresselia can be caught in Pokemon Brilliant Diamond & Shining Pearl but has a very specific method of doing so. The Pokemon Company / ILCAThe Legendary Pokemon is female only. How to get Cresselia in Pokemon BDSP In order to reach the female Legendary, you need to have beaten the Elite Four and the Sinnoh Champion first.
 
 
+***
+![Rise Of The Robots](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-11/2021-11-20_9-49-47.jpg?itok=3xRxyxtU "Rise Of The Robots")
+
+
+[Rise Of The Robots](https://www.zerohedge.com/technology/rise-robots)
+
+
+> While more and more consumers enjoy the convenience of having a robot vacuum their home or take care of the lawn, Statista's Felix Richter details below that it is in industrial applications that robotics have made the biggest impact. State-of-the-art manufacturing processes are unthinkable without industrial robots handling part of the workload, whether it's handling, welding or assembling, which are the three most common applications of newly installed industrial robots in 2020.As the following chart, based on data from the International Robotics Federation shows, the operational stock of industrial robots has tripled over the past decade, with more than three million robots in use across various industries by the end of 2020.
+
+
+***
+![An Introduction To Tuples In Python For Beginners : programming](https://external-preview.redd.it/1RBuO1OH0DozhRbVF8aWae3-Mhxge6wibYdginxC9H4.jpg?auto=webp&s=fd7ba2f60c0645b37d84b8b659375e8bf9ba5ed6 "An Introduction To Tuples In Python For Beginners : programming")
+
+
+[An Introduction To Tuples In Python For Beginners : programming](https://www.reddit.com/r/programming/comments/qylg09/an_introduction_to_tuples_in_python_for_beginners)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![Tennis -Peng Shuai appears at China tennis event, organiser photos show](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg "Tennis -Peng Shuai appears at China tennis event, organiser photos show")
+
+
+[Tennis -Peng Shuai appears at China tennis event, organiser photos show](https://www.devdiscourse.com/article/technology/1815990-tennis--peng-shuai-appears-at-china-tennis-event-organiser-photos-show)
+
+
+> Reuters | Shanghai | Updated: 21-11-2021 07:58 IST | Created: 21-11-2021 07:58 IST Chinese tennis star Peng Shuai, whose whereabouts have been a matter of international concern for weeks, attended a tennis tournament in Beijing on Sunday, according to official photos published by the tournament organised by China Open. Peng can be seen among guests at the Fila Kids Junior Tennis Challenger, dressed in a dark blue jacket and white trousers, according to the pictures published on the event's official page on WeChat.
+
+
+***
+![DuckDuckGo wants to stop apps tracking you on Android : technology](https://external-preview.redd.it/rwxRjbsMPepw5eDgAfANZajajV4RsvSvWpELM1Np7BY.jpg?auto=webp&s=5c5356d416f4bb9e58de6664175015d547a500e5 "DuckDuckGo wants to stop apps tracking you on Android : technology")
+
+
+[DuckDuckGo wants to stop apps tracking you on Android : technology](https://www.reddit.com/r/technology/comments/qykar4/duckduckgo_wants_to_stop_apps_tracking_you_on)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![FCP How to Crop after Smart Conform](https://images.macrumors.com/social/?t=2324276&v=6 "FCP How to Crop after Smart Conform")
+
+
+[FCP How to Crop after Smart Conform](https://forums.macrumors.com/threads/fcp-how-to-crop-after-smart-conform.2324276/)
+
+
+> Jul 16, 2013 422 176 Cali I am trying to figure out how to Crop video footage after I Smart Conform. I've tried several things, but nothing works. If, after Smart Confirm, I select Crop and make any adjustment (including no crop adjustment), the video footage that appears is no where near what I cropped. It zooms (crops) in significantly. Here are the steps I follow: (1) Select New Project (2) Select Vertical for the Format (3) Enter a Project Name (and rate and resolution) (4) Select OK (5) Click on the video file and Modify -> Smart Conform (6) Click on the video file and select Crop.
+
+
