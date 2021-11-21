@@ -32837,3 +32837,53 @@
 > Twitter is definitely more than a microblogging site, along with political leaders, analysts we also have influencers and creators putting their best work in front of you. Until now a user could only appreciate their work by retweeting their work or simply by liking it but now if you genuinely like someone's work, you can tip them. Yes, you read that right.  The 'Tips' feature by Twitter was rolled out earlier for its iOS users for a limited base only but now Android users can also make use of it.
 
 
+***
+![10 Examples of Ingenuity Inspired by Star Trek](https://listverse.com/wp-content/uploads/2021/11/star-trek-cast-original.jpg "10 Examples of Ingenuity Inspired by Star Trek")
+
+
+[10 Examples of Ingenuity Inspired by Star Trek](https://listverse.com/2021/11/21/10-examples-of-ingenuity-inspired-by-star-trek/)
+
+
+> On September 8, 1966, Star Trek (often referred to as The Original Series) aired on NBC for the first time. The episode was called 'The Man Trap,' and it featured a woman who could morph into a rather gruesome salt vampire, both shocking in appearance and behavior. It also grabbed the attention of the American public, which was starting to take science fiction seriously. Though the series was canceled in its third season, it had an incredible following in reruns and inspired a large, globally well-known franchise.
+
+
+***
+![Sonos Black Friday Deals (2021): Best Early Sonos Beam, Sonos One & More Savings Reviewed by Consumer Articles](https://mms.businesswire.com/media/20211121005034/en/835847/23/Black_Friday_2021_%28CA%29.jpg "Sonos Black Friday Deals (2021): Best Early Sonos Beam, Sonos One & More Savings Reviewed by Consumer Articles")
+
+
+[Sonos Black Friday Deals (2021): Best Early Sonos Beam, Sonos One & More Savings Reviewed by Consumer Articles](https://www.businesswire.com/news/home/20211121005034/en/Sonos-Black-Friday-Deals-2021-Best-Early-Sonos-Beam-Sonos-One-More-Savings-Reviewed-by-Consumer-Articles)
+
+
+> November 21, 2021 07:05 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Early Black Friday Sonos deals have landed. Review the best discounts on the Sonos Move, Sonos Arc, Sonos 5 & more sonos speakers. Shop the full selection of deals by clicking the links below. Best Sonos speaker deals: Save up to $49 on Sonos wireless speakers and multi-room sets at Sonos.com - check the latest deals on Sonos Move and Arc sets, Sonos Roam, & Sonos One SL Save up to $97 on Sonos home theater & speaker sets including the Sonos Beam, Sub & Arc at Sonos.
+
+
+***
+![Disney Plus subscribers complain about low-quality subtitles](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202111/9f15c453a1ca489f891dda23c725c249.jpg "Disney Plus subscribers complain about low-quality subtitles")
+
+
+[Disney Plus subscribers complain about low-quality subtitles](https://www.koreatimes.co.kr/www/tech/2021/11/133_319171.html)
+
+
+> The image shows content offered by Disney Plus / Korea Times fileBy Kim Bo-eunIt has only been a few weeks since Disney Plus launched in Korea, but a negative sentiment is building around the U.S. entertainment giant's video streaming service, based on sub-par Korean language subtitles.Posts are flooding online such as on Twitter and Naver, with screenshots of absurd subtitles that were translated from English into Korean. On a "The Simpsons show," "GOAT," an acronym which stands for "greatest of all time" and refers to the ultimate incarnation of anything, such as an athlete, was translated into the Korean word for the animal "goat.
+
+
+***
+![Best Gaming Headset Black Friday Deals 2021: Early Turtle Beach, ASTRO, HyperX & More Sales Shared by Spending Lab](http://www.businesswire.com/images/bwlogo_square.png "Best Gaming Headset Black Friday Deals 2021: Early Turtle Beach, ASTRO, HyperX & More Sales Shared by Spending Lab")
+
+
+[Best Gaming Headset Black Friday Deals 2021: Early Turtle Beach, ASTRO, HyperX & More Sales Shared by Spending Lab](https://www.businesswire.com/news/home/20211121005002/en/Best-Gaming-Headset-Black-Friday-Deals-2021-Early-Turtle-Beach-ASTRO-HyperX-More-Sales-Shared-by-Spending-Lab)
+
+
+> November 21, 2021 07:00 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the latest early gaming headset deals for Black Friday 2021, featuring all the best SteelSeries Arctis 7 and Razer Kraken savings. Links to the best deals are listed below. Top gaming headset deals: Save up to 30% on a wide range of Astro, Turtle Beach & HyperX gaming headsets at Walmart - check live prices on wired and wireless gaming headsets from Astro, SteelSeries, Razer & more top brands Save on Razer Kraken gaming headsets at Razer.
+
+
+***
+![Build a better team to enable a hybrid future of work](https://cdn.mos.cms.futurecdn.net/kDuFUgHwZ5szengfMW5gyE-1200-80.jpg "Build a better team to enable a hybrid future of work")
+
+
+[Build a better team to enable a hybrid future of work](https://www.techradar.com/features/build-a-better-digital-workplace-team-to-enable-a-hybrid-future-of-work)
+
+
+> The acceleration of digital work has been transformational, but also disruptive. In the last year, the pandemic triggered the rapid adoption of digital tools across all organizations, upending their ways of working.While most organizations identified digital workplace (DW) programs as a business priority, Gartner research showed that most employees felt that using information technologies for work took more effort than it should at least weekly.About the authorTori Paulman is is a Research Analyst in Gartner.
+
+
