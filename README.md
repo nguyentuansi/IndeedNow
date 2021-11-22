@@ -33157,3 +33157,53 @@
 > The brand-new app will allow merchants, retailers, and professionals to conduct digital banking transactions on a single platform.
 
 
+***
+![Vaonis Stellina Smart Telescope Review](https://cdn.slashgear.com/wp-content/uploads/2021/11/vaonis-stellina-1.jpg "Vaonis Stellina Smart Telescope Review")
+
+
+[Vaonis Stellina Smart Telescope Review](https://www.slashgear.com/vaonis-stellina-smart-telescope-review-22700151/)
+
+
+> While most people have gotten their heads glued down to their screens in the past 23 months, others have looked up to the skies for a reprieve from the concerns on terra firma. Different people have taken up different hobbies to cope with the pandemic, and some have invested not only time but money in observing and capturing the night skies from their yards or gardens. Astrophotography and stargazing are not exactly beginner-friendly activities, especially if you have neither equipment nor clue. 'Smart' telescopes were born from a need to address both concerns, and the Vaonis Stellina is one of the latest to sell that idea to a hobbyist market.
+
+
+***
+![This widebody DeLorean DMC-12 is a homage to the past and future](https://cdn.slashgear.com/wp-content/uploads/2021/11/Widebody-DeLorean.v1.jpg "This widebody DeLorean DMC-12 is a homage to the past and future")
+
+
+[This widebody DeLorean DMC-12 is a homage to the past and future](https://www.slashgear.com/this-widebody-delorean-dmc-12-is-a-homage-to-the-past-and-future-22700173/)
+
+
+> Without question, the DeLorean DMC-12 is as iconic as the Back to the Future movie series. But the hardworking geniuses at Salvage2Savage wanted to make a massive splash at the recently concluded SEMA show, so they came up with the next best thing. Starting with a wrecked DMC-12, Salvage2Savage went to work in creating Doc Emmet Brown's next ride. But unlike the movie car, this DMC-12 has no flux capacitor generating 1.21 gigawatts of power. It doesn't have the stock V6 engine, either. Instead, it has a rear-mounted 5.
+
+
+***
+![Jaguar XJ-C restomod by Carlex Design is making us drool with envy](https://cdn.slashgear.com/wp-content/uploads/2021/11/Carlex-Design-Jag-XJ-C.jpg "Jaguar XJ-C restomod by Carlex Design is making us drool with envy")
+
+
+[Jaguar XJ-C restomod by Carlex Design is making us drool with envy](https://www.slashgear.com/jaguar-xj-c-restomod-by-carlex-design-is-making-us-drool-with-envy-22700139/)
+
+
+> Polish automotive design studio Carlex Design is an expert in turning 'the standard to unique.' However, its Jaguar XJ-C restomod is nothing short of a masterpiece. Other restomods like the new-age Opel Manta or Hyundai Pony Heritage have vintage body styles with electrified powertrains, and that's nice. But other restomods like the Ferrari Testarossa by Officine Fiovaranti and the Shelby MKIII-R by Superperformance pay homage to good old dinosaur juice. Carlex Design's Jaguar XJ-C belongs to the latter group, but it's not the typical 4.
+
+
+***
+![No default end-to-end encryption for Facebook Messenger, Instagram until 2023](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-uip9546ve6jvv6qvgmold5u3m6-20211122163751.jpeg "No default end-to-end encryption for Facebook Messenger, Instagram until 2023")
+
+
+[No default end-to-end encryption for Facebook Messenger, Instagram until 2023](https://www.asianage.com/technology/in-other-news/221121/no-default-end-to-end-encryption-for-facebook-messenger-instagram-until-2023.html)
+
+
+> ANI Published : Nov 22, 2021, 4:39 pm IST Updated : Nov 22, 2021, 4:39 pm IST While messages sent through Messenger and Instagram can be E2EE, that option isn't turned on by default and likely won't be until 2023  The company merged Messenger and Instagram chats last year, as a part of its plan to create a unified messaging system across all of its platforms. (AFP Photo) Washington: Facebook, Instagram, and WhatsApp's parent company -- Meta, does not plan to roll out end-to-end encryption (E2EE) by default on Messenger and Instagram until 2023.
+
+
+***
+![Netgear Orbi RBK352 Wi-Fi Mesh Systems Connects Each Corner of Your Home](https://telecomtalk.info/wp-content/uploads/2021/11/netgear-orbi-rbk352-wifi-mesh-system-price.jpg "Netgear Orbi RBK352 Wi-Fi Mesh Systems Connects Each Corner of Your Home")
+
+
+[Netgear Orbi RBK352 Wi-Fi Mesh Systems Connects Each Corner of Your Home](https://telecomtalk.info/netgear-orbi-rbk352-wifi-mesh-system-price/480614/)
+
+
+> The Netgear Orbi RBK352 is a two-piece Wi-Fi router, which works within a mesh system as a pair.The Netgear Orbi RBK352 Wi-Fi 6 Mesh System (AX1800) is priced at Rs 18,199 and can be purchased via the e-commerce platforms across the country.It provides internet connectivity and networking all through your home of up to 3500 sqft.Are you looking forward to getting uninterrupted access to the internet throughout your home? Well, the Netgear Orbi RBK352 WiFi 6 Mesh system is a must-have. It is a powerful router-satellite pair, which provides internet connectivity and networking all through your home of up to 3500 sqft.
+
+
