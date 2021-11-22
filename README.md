@@ -33077,3 +33077,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
 
 
+***
+![Retro Daytona SP3 packs Ferrari's most powerful V12 yet](https://www.autoindustriya.com/images/posts/post21246.jpg "Retro Daytona SP3 packs Ferrari's most powerful V12 yet")
+
+
+[Retro Daytona SP3 packs Ferrari's most powerful V12 yet](https://www.autoindustriya.com/auto-industry-news/retro-daytona-sp3-packs-ferrari-s-most-powerful-v12-yet.html)
+
+
+> Ferrari's Icona Series consists of the Prancing Horse's craziest models, namely the Monza SP1 and SP2 speedsters. These cars are a blend of retro and modern design and will be sold in limited numbers. Now there's a new model joining the lineup, and unlike the Monza SPs, this one is inspired by mid-engine Ferrari prototypes from the late 60s and 70s. Meet the Daytona SP3. The design of the Daytona SP3 alone sets it apart from other models, and according to Ferrari, it's also the most 'aerodynamically efficient' vehicle they've built without using active aero.
+
+
+***
+![Bridging Africa's digital divide: The rise of community Internet](https://apicms.thestar.com.my/uploads/images/2021/11/22/1377170.jpeg "Bridging Africa's digital divide: The rise of community Internet")
+
+
+[Bridging Africa's digital divide: The rise of community Internet](https://www.thestar.com.my/tech/tech-news/2021/11/22/bridging-africas-digital-divide-the-rise-of-community-internet)
+
+
+> JOHANNESBURG: As a child growing up in war-torn northern Uganda, Daniel Komakech's education was interrupted every time he had to flee rebels and hide in the bush for days to avoid being abducted. Today, Komakech, 34, helps run a locally owned Internet network that ensures villagers in the former conflict zone can study and stay in touch with each other – without unwanted interruptions. 'Accessing the Internet was a turning point in my life,' said Komakech, programme coordinator for the non-profit Battery Operated System for Community Outreach (Bosco), one of a growing number of community-led Internet and phone networks in Africa.
+
+
+***
+![Redmi Note 11T Used for 5G Trials by Reliance Jio](https://telecomtalk.info/wp-content/uploads/2021/11/redmi-note-11t-used-5g-reliance-jio.jpeg "Redmi Note 11T Used for 5G Trials by Reliance Jio")
+
+
+[Redmi Note 11T Used for 5G Trials by Reliance Jio](https://telecomtalk.info/redmi-note-11t-used-5g-reliance-jio/480590/)
+
+
+> Redmi Note 11T 5G is scheduled to launch in India on November 30, 2021.Both Redmi and Jio had joined hands to see how the Redmi Note 11T 5G performs under a 5G standalone (SA) lab trial.The 5G trials with Reliance Jio confirm that the smartphone is ready to deliver enhanced 5G experience to the end-users.Redmi Note 11T 5G is scheduled to launch in India on November 30, 2021. Ahead of the confirmed launch date of the smartphone, the device has been used by Reliance Jio in its 5G trials. Both Redmi and Jio had joined hands to see how the Redmi Note 11T 5G performs under a 5G standalone (SA) lab trial.
+
+
+***
+![World weighs laws to rein in mighty algorithms](https://apicms.thestar.com.my/uploads/images/2021/11/22/1376976.jpg "World weighs laws to rein in mighty algorithms")
+
+
+[World weighs laws to rein in mighty algorithms](https://www.thestar.com.my/tech/tech-news/2021/11/22/world-weighs-laws-to-rein-in-mighty-algorithms)
+
+
+> PARIS: From the YouTube videos we're recommended to deciding who gets a job, algorithms wield an ever-growing influence over our lives – and policy-makers worldwide want to rein them in. While China is worried about delivery app algorithms that encourage their drivers to speed, US lawmakers are grappling with social media recommendation systems that have sent some users down dangerous rabbit-holes. 'Algorithms can be useful, of course, but many people simply aren't aware of just how much their experience on these platforms is being manipulated,' John Thune, one of numerous US senators proposing new social media legislation, wrote in a CNN op-ed.
+
+
+***
+![WhatsApp pushes privacy update to comply with Irish ruling](https://apicms.thestar.com.my/uploads/images/2021/11/22/1376940.jpg "WhatsApp pushes privacy update to comply with Irish ruling")
+
+
+[WhatsApp pushes privacy update to comply with Irish ruling](https://www.thestar.com.my/tech/tech-news/2021/11/22/whatsapp-pushes-privacy-update-to-comply-with-irish-ruling)
+
+
+> A file photo shows the mobile phone app logos for, from left, Facebook, Instagram and WhatsApp. Starting Monday, Nov. 22 WhatsApp's privacy policy will be reorganised to provide more information on the data it collects and how it's used. — AP LONDON: WhatsApp is adding more details to its privacy policy and flagging that information for European users, after Irish regulators slapped the chat service with a record fine for breaching strict EU data privacy rules. Starting Nov 22, WhatsApp's privacy policy will be reorganised to provide more information on the data it collects and how it's used.
+
+
