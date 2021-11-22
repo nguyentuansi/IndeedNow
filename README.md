@@ -33207,3 +33207,23 @@
 > The Netgear Orbi RBK352 is a two-piece Wi-Fi router, which works within a mesh system as a pair.The Netgear Orbi RBK352 Wi-Fi 6 Mesh System (AX1800) is priced at Rs 18,199 and can be purchased via the e-commerce platforms across the country.It provides internet connectivity and networking all through your home of up to 3500 sqft.Are you looking forward to getting uninterrupted access to the internet throughout your home? Well, the Netgear Orbi RBK352 WiFi 6 Mesh system is a must-have. It is a powerful router-satellite pair, which provides internet connectivity and networking all through your home of up to 3500 sqft.
 
 
+***
+![Tech co. leases entire Bowery office building](https://rew-online.com/wp-content/uploads/2021/11/216bowery-1024x768.jpg "Tech co. leases entire Bowery office building")
+
+
+[Tech co. leases entire Bowery office building](https://rew-online.com/tech-co-leases-entire-bowery-office-building)
+
+
+> Cushman & Wakefield has arranged a long-term, full-building lease for Squire Technologies, Inc. at 216 Bowery, a new boutique office redevelopment. Squire, provider of a software platform designed for booking, payment and management of barbershops and salons, connecting barbers and stylists with customers in the United States, Canada and the U.K., will occupy a total of 10,129 s/f consisting of 2,055 s/f of ground floor retail space and 8,074 s/f of office space on floors two through five. Cushman & Wakefield's David Hoffman and Sam Hoffman represented the tenant in the transaction.
+
+
+***
+![HPE (Aruba) Positioned as a Leader in 2021 Gartner® Magic Quadrant™ for Enterprise Wired and WLAN Infrastructure Report for Sixteenth Year Running](https://mms.businesswire.com/media/20211122006594/en/794909/23/hpe_aruba_r_pos_rgb.jpg "HPE (Aruba) Positioned as a Leader in 2021 Gartner® Magic Quadrant™ for Enterprise Wired and WLAN Infrastructure Report for Sixteenth Year Running")
+
+
+[HPE (Aruba) Positioned as a Leader in 2021 Gartner® Magic Quadrant™ for Enterprise Wired and WLAN Infrastructure Report for Sixteenth Year Running](http://www.businesswire.com/news/home/20211122006594/en/HPE-Aruba-Positioned-as-a-Leader-in-2021-Gartner%C2%AE-Magic-Quadrant%E2%84%A2-for-Enterprise-Wired-and-WLAN-Infrastructure-Report-for-Sixteenth-Year-Running/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN JOSE, Calif.--(BUSINESS WIRE)--Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), today announced that for the sixteenth year, HPE (Aruba) has been positioned in the Leaders quadrant in Gartner Inc.'s latest 'Magic Quadrant for Enterprise Wired and Wireless LAN Infrastructure.'1 Additionally, in the companion 'Critical Capabilities for Enterprise Wired and Wireless LAN Infrastructure' report, Aruba received the highest scores in three of the five use cases – more than any other vendor. Complimentary copies of the Gartner Magic Quadrant and Critical Capabilities reports for Enterprise Wired and Wireless LAN Infrastructure are available here.
+
+
