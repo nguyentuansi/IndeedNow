@@ -33027,3 +33027,53 @@
 > (Bloomberg Markets) -- Yoshitaka Kitao, who turns 71 in January, embraces the lessons of the ancient past in his quest to build the future. A lover of Chinese classics such as Confucius' Analects, Kitao is himself the author of over 40 books. In his youth, when elite students typically sought jobs at Japan's top banks, he opted to pursue a riskier career at Nomura Securities Co. [now Nomura Holdings Inc.], where he impressed leaders with his hard work and business success. He also wowed a client, SoftBank Group founder Masayoshi Son, who hired him to be the technology investment group's chief financial officer.
 
 
+***
+![Boost Innovation's FLW Software For Sport Culture Continues It's Rapid Explosion With Basketball Alberta](https://mms.businesswire.com/media/20211121005134/en/929477/23/2-navy.jpg "Boost Innovation's FLW Software For Sport Culture Continues It's Rapid Explosion With Basketball Alberta")
+
+
+[Boost Innovation's FLW Software For Sport Culture Continues It's Rapid Explosion With Basketball Alberta](http://www.businesswire.com/news/home/20211121005134/en/Boost-Innovation%E2%80%99s-FLW-Software-For-Sport-Culture-Continues-It%E2%80%99s-Rapid-Explosion-With-Basketball-Alberta/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CALGARY, Alberta--(BUSINESS WIRE)--Boost Innovation is delivering Basketball Alberta a way to measure athlete performance that nobody else offers after proving the concept with teams at UBCO, Ambrose, Concordia Edmonton, and more. They will spend the next year in service of the high performance athletes in Alberta with their FLW Software. 'The FLW Project is the next big thing in sport culture building in my opinion. It is innovative and unique in how it evaluates the team, and gives us useful data to make decisions and improve our program.
+
+
+***
+![How Twitter got research right](https://www.businessghana.com/site/img/../../cms/img/news/2021-11-19-160828000.jpg "How Twitter got research right")
+
+
+[How Twitter got research right](https://www.businessghana.com/)
+
+
+> Platformer is an independent newsletter from Casey Newton that follows the intersection of Silicon Valley and democracy. Subscribe here. It has not been a happy time for researchers at big tech companies. Hired to help executives understand platforms' shortcomings, research teams inevitably reveal inconvenient truths. Companies hire teams to build 'responsible AI' but bristle when their employees discover algorithmic bias. They boast about the quality of their internal research but disavow it when it makes its way to the press.
+
+
+***
+![WhatsApp chats lost, deleted by mistake? Here's how you can retrieve them](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/11/22/1006362-949287-whatsapp.jpg "WhatsApp chats lost, deleted by mistake? Here's how you can retrieve them")
+
+
+[WhatsApp chats lost, deleted by mistake? Here's how you can retrieve them](https://www.dnaindia.com/technology/report-whatsapp-chats-lost-deleted-by-mistake-here-s-how-you-can-retrieve-them-2920612)
+
+
+> WhatsApp is one of the most essential sources of communication between individuals for work or personal reasons in this digital age. The data and chats stored on one's WhatsApp are also very essential for each person, as it contains important details and documents. Sometimes, your WhatsApp chats may get lost or deleted if you have switched your device or just accidentally pressed ‘delete' for one of your chats. This can lead to the loss of a lot of important data. Now, you have the option to retrieve your WhatsApp chats, even after they have been deleted.
+
+
+***
+![Hundai? Lambogini? These Are The World's Most Commonly Misspelled Brands](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-11/2021-11-21_13-44-09.jpg?h=a7283668&itok=vJVMJA6e "Hundai? Lambogini? These Are The World's Most Commonly Misspelled Brands")
+
+
+[Hundai? Lambogini? These Are The World's Most Commonly Misspelled Brands](https://www.zerohedge.com/technology/hundai-lambogini-these-are-worlds-most-commonly-misspelled-brands)
+
+
+> We've all been there: you're trying to search for something on Google and suddenly you're not so sure how to spell whatever you're looking for.'There's no h in Lamborgini, is there? And if so: where does it fit?'Turns out there is an h in Lamborghini and, as Statista's Felix Richter notes, while search engines are thankfully smart enough to ignore minor spelling problems, some brands are so hard to spell correctly that it can become a bit of a nuisance.The research department at Money.co.uk had a closer look at the issue, conducting an analysis to find out which are the most misspelled brands in the world.
+
+
+***
+![Web Design vs Web Development : programming](https://external-preview.redd.it/Sck_lMlsCbhmk1jK7OsPdmGRbFx_Vk8uD5lPuJWeODM.jpg?auto=webp&s=f673ab8895c6c67a20af05febefa825078a43b02 "Web Design vs Web Development : programming")
+
+
+[Web Design vs Web Development : programming](https://www.reddit.com/r/programming/comments/qzc090/web_design_vs_web_development)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
