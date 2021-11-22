@@ -33127,3 +33127,33 @@
 > A file photo shows the mobile phone app logos for, from left, Facebook, Instagram and WhatsApp. Starting Monday, Nov. 22 WhatsApp's privacy policy will be reorganised to provide more information on the data it collects and how it's used. — AP LONDON: WhatsApp is adding more details to its privacy policy and flagging that information for European users, after Irish regulators slapped the chat service with a record fine for breaching strict EU data privacy rules. Starting Nov 22, WhatsApp's privacy policy will be reorganised to provide more information on the data it collects and how it's used.
 
 
+***
+![Singapore website for travel pass application crashes after opening for Malaysian travellers](https://apicms.thestar.com.my/uploads/images/2021/11/22/1377353.jpeg "Singapore website for travel pass application crashes after opening for Malaysian travellers")
+
+
+[Singapore website for travel pass application crashes after opening for Malaysian travellers](https://www.thestar.com.my/tech/tech-news/2021/11/22/singapore-website-for-travel-pass-application-crashes-after-opening-for-malaysian-travellers)
+
+
+> Applications for the vaccinated travel pass for short-term visitors and long-term pass holders from Malaysia opened on Nov 22, 2021. — The Straits Times/ANN SINGAPORE: The SafeTravel website, where foreign travellers wishing to enter Singapore can apply for a vaccinated travel pass, crashed for several hours on Monday (Nov 22), the first day applications were open for those entering from Malaysia. The Straits Times understands that the site went down at about noon, displaying a message that it was undergoing scheduled maintenance.
+
+
+***
+![‘Scary and chilling': AI surveillance takes US prisons by storm](https://apicms.thestar.com.my/uploads/images/2021/11/22/1377317.jpg "‘Scary and chilling': AI surveillance takes US prisons by storm")
+
+
+[‘Scary and chilling': AI surveillance takes US prisons by storm](https://www.thestar.com.my/tech/tech-news/2021/11/22/scary-and-chilling-ai-surveillance-takes-us-prisons-by-storm)
+
+
+> LOS ANGELES/WASHINGTON: When the sheriff in Suffolk County, New York, requested US$700,000 (RM2.92mil) from the US government for an artificial intelligence system to eavesdrop on prison phone conversations, his office called it a key tool in fighting gang-related and violent crime. But the county jail ended up listening to calls involving a much wider range of subjects – scanning as many as 600,000 minutes per month, according to public records from the county obtained by the Thomson Reuters Foundation.
+
+
+***
+![Indus Merchant Solutions News, Updates, Videos and Photos from Tech Observer](https://i2.wp.com/techobserver.in/wp-content/uploads/2019/11/400x400.png?fit=400%2C400&ssl=1 "Indus Merchant Solutions News, Updates, Videos and Photos from Tech Observer")
+
+
+[Indus Merchant Solutions News, Updates, Videos and Photos from Tech Observer](https://techobserver.in/topic/indus-merchant-solutions/)
+
+
+> The brand-new app will allow merchants, retailers, and professionals to conduct digital banking transactions on a single platform.
+
+
