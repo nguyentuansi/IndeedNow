@@ -32977,3 +32977,53 @@
 > (Image credit: Samsung; Future) The Samsung Odyssey G9 is quite simply a ridiculous gaming monitor - and we mean that in the best way possible. This 49-inch ultra-Ultrawide monitor will make for the most immersive gaming experience this side of VR, and now you can get it for an affordable price ahead of Black Friday 2021. Right now at Amazon, you can get the Samsung Odyssey G9 for just $999, which is a giant $400 discount for this amazing display. Sure, it's not the latest model, but at this price, we literally dare you to find a better gaming monitor, much less a better Black Friday monitor deal.
 
 
+***
+![El Salvador announces plans to build a so-called 'Bitcoin City'](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Conchagua.jpg "El Salvador announces plans to build a so-called 'Bitcoin City'")
+
+
+[El Salvador announces plans to build a so-called 'Bitcoin City'](https://siliconangle.com/2021/11/21/el-salvador-announces-plans-build-called-bitcoin-city/)
+
+
+> El Salvador's president has announced an ambitious plan to build a so-called 'Bitcoin City' in which the cryptocurrency will be the only legal tender. President Nayib Bukele made the announcement on Saturday night, claiming that the new city would be fully fledged. The city will include residential and commercial areas, restaurants, an airport, port and rail service, Coindesk reported Saturday. The city will be located near the Conchagua volcano (pictured), a stratovolcano located in the La Unión Department within El Salvador.
+
+
+***
+![Adele convinces Spotify to remove shuffle from albums](https://www.cnet.com/a/img/7vwFJdlZxQa8EVnYgrh5RPIgZAs=/1200x630/2021/11/13/841864e4-7a9e-455b-911f-7e1101114489/adele-special-social-crop.jpg "Adele convinces Spotify to remove shuffle from albums")
+
+
+[Adele convinces Spotify to remove shuffle from albums](https://www.cnet.com/news/adele-convinces-spotify-to-remove-shuffle-from-albums/)
+
+
+> Adele released 30, her first album in six years, on Friday. CBS Spotify has removed the shuffle button as a default option from its app's album pages, forcing songs to be played in the order the artist intended, after Adele asked that the songs on her new album be played in the order she intended."This was the only request I had in our ever changing industry!" the Grammy-winning singer tweeted on Saturday. "We don't create albums with so much care and thought into our track listing for no reason.
+
+
+***
+![The Best Black Friday Gaming and Tech Deals at GameStop](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/11/gamestop.jpg "The Best Black Friday Gaming and Tech Deals at GameStop")
+
+
+[The Best Black Friday Gaming and Tech Deals at GameStop](https://gamerant.com/gamestop-best-black-friday-deals/)
+
+
+> With only a few days left until Black Friday, retailers are preparing for the biggest shopping season of the year. Today, GameStop finally revealed its Black Friday offerings, including heavy discounts on video games, gaming accessories, and tech. According to GameStop's Black Friday announcement, the retailer offers up to 60% off on select games on the PS5, PS4, Xbox Series X/S, Xbox One, and Nintendo Switch. Additionally, players can expect up to 40% off on PC accessories from Razer alongside other tech deals like controllers, headphones, mice and keyboards, and many more.
+
+
+***
+![Tidy up your beard with an early Black Friday discount on a beard straightener](https://i2.wp.com/boingboing.net/wp-content/uploads/2021/11/sale_302548_article_image.jpeg?fit=1200%2C800&ssl=1 "Tidy up your beard with an early Black Friday discount on a beard straightener")
+
+
+[Tidy up your beard with an early Black Friday discount on a beard straightener](https://boingboing.net/2021/11/21/tidy-up-your-beard-with-an-early-black-friday-discount-on-a-beard-straightener.html)
+
+
+> We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. The worst part of taking care of a beard is the need for so many products and devices. Beard oils and creams promise to keep manes soft and smooth. However, a lot of product is needed to soften the curliest of manes. The result? Underwhelming experiences and results. The key to shaping a beard is heat. However, temperature is incredibly important since not all beards are made equally.
+
+
+***
+![Maverick 70-Year-Old CEO Is Determined to Shake Up Japanese Finance](http://www.bnnbloomberg.ca/polopoly_fs/1.1685288!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-maverick-70-year-old-ceo-is-determined-to-shake-up-japanese-finance.png "Maverick 70-Year-Old CEO Is Determined to Shake Up Japanese Finance")
+
+
+[Maverick 70-Year-Old CEO Is Determined to Shake Up Japanese Finance](https://www.bnnbloomberg.ca/maverick-70-year-old-ceo-is-determined-to-shake-up-japanese-finance-1.1685287)
+
+
+> (Bloomberg Markets) -- Yoshitaka Kitao, who turns 71 in January, embraces the lessons of the ancient past in his quest to build the future. A lover of Chinese classics such as Confucius' Analects, Kitao is himself the author of over 40 books. In his youth, when elite students typically sought jobs at Japan's top banks, he opted to pursue a riskier career at Nomura Securities Co. [now Nomura Holdings Inc.], where he impressed leaders with his hard work and business success. He also wowed a client, SoftBank Group founder Masayoshi Son, who hired him to be the technology investment group's chief financial officer.
+
+
