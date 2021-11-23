@@ -33307,3 +33307,43 @@
 > The data culture continues to go strong as organizations make their way into the last month of 2021 and prepare to usher in the new year. For many, 2021 was still a year of uncertainties as the pandemic continues to disrupt plans, especially for companies that hoped to have their employees back in offices. Nevertheless, most businesses have now accepted the reality. Hybrid work and remote work is the future and there is nothing much they can do about it but embrace it. Organizations are opening up their imaginations to new and unexpected ways of solving workplace challenges, and it is currently an opportune moment for leaders to commit to data-driven strategies for greater agility.
 
 
+***
+![Scammers posing as buyers on online marketplaces in new phishing scam in SG](https://apicms.thestar.com.my/uploads/images/2021/11/23/1378341.jpg "Scammers posing as buyers on online marketplaces in new phishing scam in SG")
+
+
+[Scammers posing as buyers on online marketplaces in new phishing scam in SG](https://www.thestar.com.my/tech/tech-news/2021/11/23/about-s35000-lost-to-new-type-of-scam-where-scammers-pose-as-buyers-on-online-marketplaces)
+
+
+> At least 44 victims fell prey to such scams since last month, said the police. — AFP Relaxnews SINGAPORE: About S$35,000 (RM107,480) was lost since last month to a new type of scam, where scammers pose as buyers on online marketplaces. At least 44 victims fell prey to such scams since last month, said the police on Tuesday (Nov 23). The scammers would first approach victims on online marketplaces and express interest in buying items that the victims were selling. After they have agreed on the sale, the scammer would ask to make payment via PayNow.
+
+
+***
+![Singapore warns public against use of ultraviolet-C disinfection devices for homes](https://apicms.thestar.com.my/uploads/images/2021/11/23/1378294.jpeg "Singapore warns public against use of ultraviolet-C disinfection devices for homes")
+
+
+[Singapore warns public against use of ultraviolet-C disinfection devices for homes](https://www.thestar.com.my/tech/tech-news/2021/11/23/singapore-warns-public-against-use-of-ultraviolet-c-disinfection-devices-for-homes)
+
+
+> Singapore is advising the public not to buy UVC steriliser products that have no safety features. — Photo by Kilian Seiler on Unsplash SINGAPORE: Households should not use ultraviolet-C (UVC) disinfection devices for their homes as many lack safety features that protect users from exposure to UV radiation, the country's National Environment Agency (NEA) warned on Tuesday (Nov 23). To prevent accidental exposure and health risks, the Singapore agency advised the public not to buy any UVC steriliser product that has no safety features.
+
+
+***
+![PM: Malaysia capable of achieving 100% digital inclusivity](https://apicms.thestar.com.my/uploads/images/2021/11/23/1378242.jpg "PM: Malaysia capable of achieving 100% digital inclusivity")
+
+
+[PM: Malaysia capable of achieving 100% digital inclusivity](https://www.thestar.com.my/tech/tech-news/2021/11/23/pm-malaysia-capable-of-achieving-100-digital-inclusivity)
+
+
+> Ismail Sabri said through the development strategy for the next five years under the 12th Malaysia Plan, the focus on strengthening growth enablers would continue to be given priority, especially in the technology and innovation sectors. — Bernama KUALA LUMPUR: Malaysia has the capacity and capability to achieve 100% digital inclusivity, especially among the vulnerable communities, in its effort to bridge the digital divide, Prime Minister Datuk Seri Ismail Sabri Yaakob said. He said efficient and effective utilisation of technologies could drive the nation's economic growth by leveraging on public-private partnership projects, which would in turn reduce the government's expenditure, improve delivery of public facilities and services, as well as encourage innovation and economies of scale.
+
+
+***
+![Teen in SG paid S$350,000 to scammers who duped his parents into thinking he was kidnapped; man arrested](https://apicms.thestar.com.my/uploads/images/2021/11/23/1378215.jpg "Teen in SG paid S$350,000 to scammers who duped his parents into thinking he was kidnapped; man arrested")
+
+
+[Teen in SG paid S$350,000 to scammers who duped his parents into thinking he was kidnapped; man arrested](https://www.thestar.com.my/tech/tech-news/2021/11/23/teen-in-sg-paid-s350000-to-scammers-who-duped-his-parents-into-thinking-he-was-kidnapped-man-arrested)
+
+
+> The Singapore Police Force said the scammers, who pretended to be police officers from China, threatened the victim's parents with the video the victim had made on their instructions, claiming their son had been kidnapped. — AZHAR MAHFOF/The Star SINGAPORE: An 18-year-old boy was duped into transferring more than S$350,000 (RM1.07mil) to scammers before recording a video of himself with his hands placed behind his back to send to the scammers. In a statement on Monday (Nov 22), the Singapore Police Force (SPF) police said the scammers, who pretended to be police officers from China, then used the video to threaten the victim's parents, claiming he had been kidnapped.
+
+
