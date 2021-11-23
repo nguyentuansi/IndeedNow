@@ -33387,3 +33387,53 @@
 > SoftBank, which invested US$125mil (RM524.06mil) in Google's Project Loon in 2019, is developing its own wireless technology that uses fixed-wing autonomous aircraft as a flying base station. — AFP SoftBank Corp is planning to issue its first sustainability bonds as early as January to revive a project scrapped by Google parent Alphabet Inc aimed at beaming Internet service from high-altitudes, the Nikkei reported Tuesday. SoftBank plans to raise more than 30bil yen (RM1.09bil) through the debt that will be used to fund projects linked to its high altitude platform station business, according to the report.
 
 
+***
+![Techland Says Dying Light 2 Co-Op Will Have a Lot of Replay Value](https://www.playstationlifestyle.net/assets/uploads/2021/11/dying-light-2-co-op.jpg "Techland Says Dying Light 2 Co-Op Will Have a Lot of Replay Value")
+
+
+[Techland Says Dying Light 2 Co-Op Will Have a Lot of Replay Value](https://www.playstationlifestyle.net/2021/11/23/dying-light-2-co-op-choices/)
+
+
+> Techland thinks Dying Light 2: Stay Human‘s choice and consequence system, and the way it works in co-op play, will encourage players to invest hundreds and thousands of hours into the game.Speaking to MP1st, Lead Game Designer Tymon Smektala said that the way Dying Light 2‘s co-op supports its choice and consequence system will give players reason to see how different decisions play out and change the course of the game. When it comes to decision-making, only the host of the co-op session ultimately has the ability to choose what path they want to take.
+
+
+***
+![Age of Empires III Definitive Edition takes a page out of Forza's book with Mexico DLC](https://cdn.slashgear.com/wp-content/uploads/2021/11/Age-of-Empires-3-Definitive-Edition-Mexico-1.jpg "Age of Empires III Definitive Edition takes a page out of Forza's book with Mexico DLC")
+
+
+[Age of Empires III Definitive Edition takes a page out of Forza's book with Mexico DLC](https://www.slashgear.com/age-of-empires-iii-definitive-edition-takes-a-page-out-of-forzas-book-with-mexico-dlc-23700320/)
+
+
+> Microsoft has surprised a lot of Age of Empires fans with the announcement of new DLC for Age of Empires III: Definitive Edition. While the DLC itself isn't a shock, it is a bit surprising to hear that Age of Empires III: Definitive Edition is getting DLC so soon after the release of Age of Empires IV. In any case, this DLC will be taking us to Mexico, so if you didn't get your fill with Forza Horizon 5, you'll soon be able to get even more Mexico in Age of Empires III. The Mexican civilization and new historical battles As far as DLC goes, this one seems pretty straightforward.
+
+
+***
+![Surface Duo 2 durability test reveals potential weaknesses](https://cdn.slashgear.com/wp-content/uploads/2021/11/surface-duo-2-durability-jerryrigeverything.jpg "Surface Duo 2 durability test reveals potential weaknesses")
+
+
+[Surface Duo 2 durability test reveals potential weaknesses](https://www.slashgear.com/surface-duo-2-durability-test-reveals-potential-weaknesses-23700285/)
+
+
+> Samsung isn't the only game in town when it comes to foldable phones – Microsoft insists that it is also in that court. Of course, the Surface Duo and its Surface Duo 2 successor do fold, but in a very different way and with very different use cases. With the very different mechanisms and materials used to create Microsoft's products, we have a very different durability story compared to the Galaxy Z Fold 3. Thankfully, JerryRigEverything has done the literally hard work for us and put the Surface Duo 2 through the wringer to see just how tough this strange phone really is.
+
+
+***
+![NASA is bringing Hubble back to life with a key instrument](https://cdn.slashgear.com/wp-content/uploads/2021/11/hubble-st.jpg "NASA is bringing Hubble back to life with a key instrument")
+
+
+[NASA is bringing Hubble back to life with a key instrument](https://www.slashgear.com/nasa-is-bringing-hubble-back-to-life-with-a-key-instrument-23700308/)
+
+
+> NASA has announced that it is continuing to work to bring the Hubble Space Telescope completely online and back to normal science operations. The agency confirmed the Wide Field Camera 3 instrument was successfully recovered on Sunday, November 21. NASA plans to conduct the first science observations using the recovered Wide Field Camera 3 today, November 23. The camera recovered over the weekend is the second Hubble instrument recovered since the space telescope went into safe mode on October 23, and observations were suspended on October 25.
+
+
+***
+![Android 2021 distribution numbers show there's still work to be done](https://cdn.slashgear.com/wp-content/uploads/2021/11/android-12.jpg "Android 2021 distribution numbers show there's still work to be done")
+
+
+[Android 2021 distribution numbers show there's still work to be done](https://www.slashgear.com/android-2021-distribution-numbers-show-theres-still-work-to-be-done-23700309/)
+
+
+> Things have definitely gotten a lot better now in Android land when it comes to updates. That goes not just for the monthly security fixes that protect your phone, but the the major upgrades that keep you up to date with the latest Android versions as well. Things are still not ideal, especially when you compare it with iOS. Of course, it's an apples to oranges comparison, pun intended, but the latest distribution figures from Google itself point to Android's lingering problem. What the numbers are for To be fair, the monthly distribution charts that Google used to publish on its developers' dashboard weren't meant for public consumption.
+
+
