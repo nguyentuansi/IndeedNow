@@ -33277,3 +33277,33 @@
 > The broadband service provided by Hathway allows users to seamlessly surf through the internet on multiple devices.Hathway doesn't provide any monthly plan when it comes to a broadband connection.The only 50 Mbps plan from Tata Sky can be availed at a three-month price of Rs 2,097. Internet Service Providers (ISPs) have been witnessing a surge in competition when it comes to providing plans that are most suitable for their users. Every company looks to provide various plans and offers that will attract more customers.
 
 
+***
+![Digital world seen moving into ‘authoritarian space'](https://apicms.thestar.com.my/uploads/images/2021/11/23/1377963.jpeg "Digital world seen moving into ‘authoritarian space'")
+
+
+[Digital world seen moving into ‘authoritarian space'](https://www.thestar.com.my/tech/tech-news/2021/11/23/digital-world-seen-moving-into-authoritarian-space)
+
+
+> LONDON: From blocking websites to forcing companies to share user data, governments – including democracies – are increasingly resorting to 'authoritarian' methods to control the Internet, tech experts warned on Nov 18. Governments like China and Russia are blocking social media content, requiring firms to submit to data surveillance, and silencing journalists and activists online, panelists told the Thomson Reuters Foundation's annual Trust Conference. 'The digital world is increasingly moving into an authoritarian space,' said Alina Polyakova, head of the Center for European Policy Analysis, a US-based think-tank.
+
+
+***
+![Can artificial intelligence help close gender gaps at work?](https://apicms.thestar.com.my/uploads/images/2021/11/23/1377925.jpeg "Can artificial intelligence help close gender gaps at work?")
+
+
+[Can artificial intelligence help close gender gaps at work?](https://www.thestar.com.my/tech/tech-news/2021/11/23/can-artificial-intelligence-help-close-gender-gaps-at-work)
+
+
+> LONDON: Is it because she is a mother? Or perhaps she is perceived as lacking ambition, or leadership qualities? Gender stereotypes continue to hold women back at work, but a handful of tech firms say they have developed artificial intelligence (AI) systems that can help break biases in hiring and promotion to give female candidates a fairer chance. Employers and the wider economy could stand to gain, too. 'We are at this moment in artificial intelligence, that we either have the ability to hardwire our biases into the future or.
+
+
+***
+![The data culture will determine the future of businesses](https://techwireasia.com/wp-content/uploads/2021/11/000_9PA7Z3-scaled.jpg "The data culture will determine the future of businesses")
+
+
+[The data culture will determine the future of businesses](https://techwireasia.com/2021/11/the-data-culture-will-determine-the-future-of-businesses)
+
+
+> The data culture continues to go strong as organizations make their way into the last month of 2021 and prepare to usher in the new year. For many, 2021 was still a year of uncertainties as the pandemic continues to disrupt plans, especially for companies that hoped to have their employees back in offices. Nevertheless, most businesses have now accepted the reality. Hybrid work and remote work is the future and there is nothing much they can do about it but embrace it. Organizations are opening up their imaginations to new and unexpected ways of solving workplace challenges, and it is currently an opportune moment for leaders to commit to data-driven strategies for greater agility.
+
+
