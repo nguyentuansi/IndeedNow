@@ -33227,3 +33227,53 @@
 > SAN JOSE, Calif.--(BUSINESS WIRE)--Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), today announced that for the sixteenth year, HPE (Aruba) has been positioned in the Leaders quadrant in Gartner Inc.'s latest 'Magic Quadrant for Enterprise Wired and Wireless LAN Infrastructure.'1 Additionally, in the companion 'Critical Capabilities for Enterprise Wired and Wireless LAN Infrastructure' report, Aruba received the highest scores in three of the five use cases – more than any other vendor. Complimentary copies of the Gartner Magic Quadrant and Critical Capabilities reports for Enterprise Wired and Wireless LAN Infrastructure are available here.
 
 
+***
+![KKR's $37 billion approach boosts Telecom Italia shares](https://apicms.thestar.com.my/uploads/images/2021/11/23/1377987.jpg "KKR's $37 billion approach boosts Telecom Italia shares")
+
+
+[KKR's $37 billion approach boosts Telecom Italia shares](https://www.thestar.com.my/tech/tech-news/2021/11/23/kkr039s-37-billion-approach-boosts-telecom-italia-shares)
+
+
+> The Tim logo is seen at its headquarters in Rome, Italy November 22, 2021. REUTERS/Yara Nardi MILAN (Reuters) -Investors in Telecom Italia on Monday cheered a proposal by U.S. fund KKR to buy Italy's debt-laden former phone monopoly for 33 billion euros ($37 billion) in what would be Europe's biggest ever private equity buyout.The move comes as a boardroom war rages at Telecom Italia (TIM), which has been mired in crisis for years but is crucial to government efforts to expand broadband connectivity because it owns the country's main network.
+
+
+***
+![NASA's James Webb telescope delayed again, this time over an ‘incident'](https://cdn.slashgear.com/wp-content/uploads/2021/11/james-webb-space-telescope-incident-delay.jpg "NASA's James Webb telescope delayed again, this time over an ‘incident'")
+
+
+[NASA's James Webb telescope delayed again, this time over an ‘incident'](https://www.slashgear.com/nasas-james-webb-telescope-delayed-again-this-time-over-an-incident-22700275/)
+
+
+> The James Webb Space Telescope's launch has been delayed yet again, but only for a few days this time around. The reason, according to NASA, is an ‘incident' that happened while technicians were attaching the space telescope to its launch vehicle adapter. The space agency says additional testing is necessary before the telescope is ready for launch. Image: NASA The incident In a brief blog post on the matter today, NASA revealed that the incident occurred at the French Guiana satellite preparation facility.
+
+
+***
+![Vaping may increase risk of bone fractures even in young adults](https://cdn.slashgear.com/wp-content/uploads/2021/11/vaping-bone-health-study-consequences.jpg "Vaping may increase risk of bone fractures even in young adults")
+
+
+[Vaping may increase risk of bone fractures even in young adults](https://www.slashgear.com/vaping-may-increase-risk-of-bone-fractures-even-in-young-adults-22700247/)
+
+
+> A new observational study has found a link between electronic cigarette use (vaping) and the potentially increased risk of fragility fractures, raising concerns over bone health. The link was found even in young users, according to the researchers behind the study, which also found that smoking and vaping combined may substantially increase the fracture risk. DedMityay/Shutterstock Study details The new study was recently published in Elsevier's American Journal of Medicine Open; it details the results of an observational study that pulled data from the National Health and Nutrition Examination Survey (NHANES).
+
+
+***
+![NVIDIA's new AI eats words, spits out photos and feels borderline magical](https://cdn.slashgear.com/wp-content/uploads/2021/11/oceanrockes.jpg "NVIDIA's new AI eats words, spits out photos and feels borderline magical")
+
+
+[NVIDIA's new AI eats words, spits out photos and feels borderline magical](https://www.slashgear.com/nvidias-new-ai-eats-words-spits-out-photos-and-feels-borderline-magical-22700255/)
+
+
+> NVIDIA has as generative art system that uses AI to turn words into visually spectacular works of art. This isn't the first time this sort of concept has been postulated, or even produced. It is, however, the first time we've seen such a system work with such incredible speed and precision. You can take a peek at OpenAI to see a project called DALL·E. That's an image-generating project based on GPT-3, which you can learn about over at Cornell University. You can start to make wild interpretations of styles with Deep Dream Generator, or learn about some of the source for the NVIDIA Research project we're looking at today – see the paper Generative Adversarial Networks to learn about GAN! The NVIDIA Project GauGAN2 builds on what the company's researchers created with NVIDIA Canvas.
+
+
+***
+![Broadband Plans with 50 Mbps Speed for Moderate Data Consumption](https://telecomtalk.info/wp-content/uploads/2021/11/broadband-plans-india-50-mbps-speed-data.jpeg "Broadband Plans with 50 Mbps Speed for Moderate Data Consumption")
+
+
+[Broadband Plans with 50 Mbps Speed for Moderate Data Consumption](https://telecomtalk.info/broadband-plans-india-50-mbps-speed-data/480646/)
+
+
+> The broadband service provided by Hathway allows users to seamlessly surf through the internet on multiple devices.Hathway doesn't provide any monthly plan when it comes to a broadband connection.The only 50 Mbps plan from Tata Sky can be availed at a three-month price of Rs 2,097. Internet Service Providers (ISPs) have been witnessing a surge in competition when it comes to providing plans that are most suitable for their users. Every company looks to provide various plans and offers that will attract more customers.
+
+
