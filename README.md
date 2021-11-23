@@ -33347,3 +33347,43 @@
 > The Singapore Police Force said the scammers, who pretended to be police officers from China, threatened the victim's parents with the video the victim had made on their instructions, claiming their son had been kidnapped. — AZHAR MAHFOF/The Star SINGAPORE: An 18-year-old boy was duped into transferring more than S$350,000 (RM1.07mil) to scammers before recording a video of himself with his hands placed behind his back to send to the scammers. In a statement on Monday (Nov 22), the Singapore Police Force (SPF) police said the scammers, who pretended to be police officers from China, then used the video to threaten the victim's parents, claiming he had been kidnapped.
 
 
+***
+![Jeff Bezos makes gifts to Obama foundation and NYU medical centre](https://apicms.thestar.com.my/uploads/images/2021/11/23/1378631.jpg "Jeff Bezos makes gifts to Obama foundation and NYU medical centre")
+
+
+[Jeff Bezos makes gifts to Obama foundation and NYU medical centre](https://www.thestar.com.my/tech/tech-news/2021/11/23/jeff-bezos-donates-millions-to-obama-foundation-and-nyu-medical-centre)
+
+
+> Former US president Barack Obama's foundation announced on Nov 22, 2021 that Bezos has gifted the organisation US$100mil, which it says is the largest individual contribution it has received to date. — AP Former US President Barack Obama's foundation said Monday it has received a US$100mil (RM419.55mil) donation from Amazon founder Jeff Bezos that it says is the largest individual contribution it has received to date. Separately on Monday, NYU Langone Health, a medical center affiliated with New York University, said it has received a US$166mil (RM696.
+
+
+***
+![SG bank customers facing ‘intermittent slowness' when accessing banking services](https://apicms.thestar.com.my/uploads/images/2021/11/23/1378563.jpg "SG bank customers facing ‘intermittent slowness' when accessing banking services")
+
+
+[SG bank customers facing ‘intermittent slowness' when accessing banking services](https://www.thestar.com.my/tech/tech-news/2021/11/23/sg-banks-customers-facing-intermittent-slowness-when-accessing-banking-services)
+
+
+> Payment services provider Nets said in a Facebook post around 1pm that the eNETS Debit service for DBS customers was temporarily unavailable. — Reuters SINGAPORE: Some DBS/POSB customers were unable to access the bank's Internet and mobile banking services on Tuesday (Nov 23). The disruption began around 10am, according to outage monitoring website Downdetector, which tracks outages by collating status reports from a series of sources, including user-submitted errors on its platform. Almost 600 reports were made at about 2.
+
+
+***
+![While on probation, S'pore youth posed online as girl offering sexual services to scam victims of S$1,670](https://apicms.thestar.com.my/uploads/images/2021/11/23/1378536.jpeg "While on probation, S'pore youth posed online as girl offering sexual services to scam victims of S$1,670")
+
+
+[While on probation, S'pore youth posed online as girl offering sexual services to scam victims of S$1,670](https://www.thestar.com.my/tech/tech-news/2021/11/23/while-on-probation-spore-youth-posed-online-as-girl-offering-sexual-services-to-scam-victims-of-s1670)
+
+
+> The youth, 19, pleaded guilty in court on Monday (Nov 22) to a charge of cheating and another of acquiring money from criminal conduct, with four other similar charges taken into consideration. — Background photo created by rawpixel.com - www.freepik.com SINGAPORE: A teenager posed as a girl offering sexual services to scam multiple victims while he was still under probation for fighting in public. To avoid being caught, he used his friend's bank account to receive the money from his sex scam, which amounted to S$1,670 (RM5,130).
+
+
+***
+![Nikki: SoftBank plans bonds to revive failed Google moonshot](https://apicms.thestar.com.my/uploads/images/2021/11/23/1378470.jpg "Nikki: SoftBank plans bonds to revive failed Google moonshot")
+
+
+[Nikki: SoftBank plans bonds to revive failed Google moonshot](https://www.thestar.com.my/tech/tech-news/2021/11/23/nikki-softbank-plans-bonds-to-revive-failed-google-moonshot)
+
+
+> SoftBank, which invested US$125mil (RM524.06mil) in Google's Project Loon in 2019, is developing its own wireless technology that uses fixed-wing autonomous aircraft as a flying base station. — AFP SoftBank Corp is planning to issue its first sustainability bonds as early as January to revive a project scrapped by Google parent Alphabet Inc aimed at beaming Internet service from high-altitudes, the Nikkei reported Tuesday. SoftBank plans to raise more than 30bil yen (RM1.09bil) through the debt that will be used to fund projects linked to its high altitude platform station business, according to the report.
+
+
