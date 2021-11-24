@@ -33517,3 +33517,33 @@
 > In the future, 5G access for autonomous vehicles shouldn't be a concern when drivers cross borders in Europe. — AFP Relaxnews 5GCroCo is a European innovation initiative that aims to conduct cross-border 5G connectivity tests to ensure uninterrupted service provision for autonomous cars. With the help of operators, this has now been demonstrated to be effective. In the future, 5G should enable autonomous cars to communicate with each other so that they can not only drive without any human assistance, but also avoid any risk of collision.
 
 
+***
+![Activision creates workplace-culture committee as game industry faces reckoning](https://apicms.thestar.com.my/uploads/images/2021/11/24/1379590.jpg "Activision creates workplace-culture committee as game industry faces reckoning")
+
+
+[Activision creates workplace-culture committee as game industry faces reckoning](https://www.thestar.com.my/tech/tech-news/2021/11/24/activision-creates-workplace-culture-committee-as-game-industry-faces-reckoning)
+
+
+> Activision, known for hit video games like Call Of Duty and World Of Warcraft, has been been in turmoil since the summer, when it was sued by California's Department of Fair Employment and Housing over allegations of sexual harassment, unequal pay and retaliation. — Reuters Activision Blizzard Inc said it's creating a workplace responsibility committee to oversee efforts to improve its corporate culture after multiple lawsuits and investigations over allegations of sexual misconduct and discrimination.
+
+
+***
+![Tesla's Musk exercises more options, sells shares worth $1.05 billion](https://apicms.thestar.com.my/uploads/images/2021/11/24/1379500.jpg "Tesla's Musk exercises more options, sells shares worth $1.05 billion")
+
+
+[Tesla's Musk exercises more options, sells shares worth $1.05 billion](https://www.thestar.com.my/tech/tech-news/2021/11/24/musk-sells-tesla-shares-worth-105-billion-buys-215-million-shares)
+
+
+> FILE PHOTO: Tesla CEO Elon Musk gestures as he visits the construction site of Tesla's Gigafactory in Gruenheide near Berlin, Germany, August 13, 2021. Patrick Pleul/Pool via Reuters/File Photo
+
+
+***
+![Indian Government Sets Up Committee for Clearance Of Satellite Networks](https://telecomtalk.info/wp-content/uploads/2021/11/indian-government-sets-committee-satellite-network-clearance.jpg "Indian Government Sets Up Committee for Clearance Of Satellite Networks")
+
+
+[Indian Government Sets Up Committee for Clearance Of Satellite Networks](https://telecomtalk.info/indian-government-sets-committee-satellite-network-clearance/480911/)
+
+
+> The Indian government has set up a committee for a single-window clearance platform for all networks that are based on satellite.The telecom department has set up a task force to develop the satellite-based communications ecosystem.This move comes at a time when the satellite communications market in India is luring in a host of global players.The Indian government has set up a committee for a single-window clearance platform for all networks that are based on satellite. This was claimed by K. Rajaraman, the secretary of DoT (Department of Telecommunications).
+
+
