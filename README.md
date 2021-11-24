@@ -33627,3 +33627,13 @@
 > We get a new generation of smartphones every year, like clockwork, despite and in spite of global events like the COVID-19 pandemic or supply shortages. In the past, almost every new smartphone generation brought something new and exciting to the table, something that kept consumers at the edge of their seats and stuck with indecision whether to buy a new phone now or wait for the next big thing instead. That excitement seems to have mellowed down in the past year or so, and this unofficial information about the OnePlus 10 Pro could be indicative of a subtle malady is plaguing the smartphone market.
 
 
+***
+![Apple reportedly switching to iPhone modem design in 2023](https://img.dtnext.in/Articles/2021/Nov/202111242248325332_Apple-reportedly-switching-to-iPhone-modem-design-in-2023_SECVPF.gif "Apple reportedly switching to iPhone modem design in 2023")
+
+
+[Apple reportedly switching to iPhone modem design in 2023](https://www.dtnext.in/Lifestyle/Technology/2021/11/24224833/1330578/Apple-reportedly-switching-to-iPhone-modem-design-.vpf)
+
+
+> Apple is reportedly planning to partner with Taiwan Semiconductor Manufacturing Co. for the production of its own 5G modems for future iPhones. According to The Verge, Apple is said to be planning to use TSMC's 4nm process node, which hasn't yet been deployed for any commercial product; the modem is apparently being designed and tested at 5nm before moving to mass production in 2023 at 4nm. Washington: Apple's switch to modems of its own design is widely expected to happen in 2023, and TSMC is the natural manufacturing partner.
+
+
