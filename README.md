@@ -33437,3 +33437,53 @@
 > Things have definitely gotten a lot better now in Android land when it comes to updates. That goes not just for the monthly security fixes that protect your phone, but the the major upgrades that keep you up to date with the latest Android versions as well. Things are still not ideal, especially when you compare it with iOS. Of course, it's an apples to oranges comparison, pun intended, but the latest distribution figures from Google itself point to Android's lingering problem. What the numbers are for To be fair, the monthly distribution charts that Google used to publish on its developers' dashboard weren't meant for public consumption.
 
 
+***
+![Ring Pan-Tilt Mount is an affordable way to add security to blind-spots](https://cdn.slashgear.com/wp-content/uploads/2021/11/ring-stick-up-cam-mount-pan-tilt.jpg "Ring Pan-Tilt Mount is an affordable way to add security to blind-spots")
+
+
+[Ring Pan-Tilt Mount is an affordable way to add security to blind-spots](https://www.slashgear.com/ring-pan-tilt-mount-is-an-affordable-way-to-add-security-to-blind-spots-23700379)
+
+
+> Ring Pan-Tilt Mount is an affordable way to add security to blind-spots Amazon's IoT company Ring has announced a new mount for its Stick Up Cam that enables customers to pan and tilt the security camera using the Ring smartphone app. The added functionality makes it possible to monitor parts of one's home that may otherwise not be visible in the video, expanding coverage for added peace of mind. Image: Ring Ring's Stick Up Cam is a security camera designed for consumer use; it can be used indoors or outdoors and includes support for either mounted use or simply resting on a flat surface.
+
+
+***
+![Roku rolls back 10.5 update after it breaks popular streaming apps](https://cdn.slashgear.com/wp-content/uploads/2021/11/roku-10-5-update-streaming-issues-rollback.jpg "Roku rolls back 10.5 update after it breaks popular streaming apps")
+
+
+[Roku rolls back 10.5 update after it breaks popular streaming apps](https://www.slashgear.com/roku-rolls-back-10-5-update-after-it-breaks-popular-streaming-apps-23700371/)
+
+
+> The recently released Roku OS 10.5 update has been a small disaster for the company, triggering a slew of complaints across social media and on the Roku forum from users who are no longer able to stream their favorite shows. The company has been prompt in its response to the issue, but a solution isn't yet available. In its place, Roku is rolling back the 10.5 update so its customers can continue using their devices. Oasisamuel/Shutterstock Roku users began posting about their respective streaming issues following the 10.
+
+
+***
+![Epic Games just bought Rock Band developer Harmonix](https://cdn.slashgear.com/wp-content/uploads/2021/11/Epic-Harmonix-header.jpg "Epic Games just bought Rock Band developer Harmonix")
+
+
+[Epic Games just bought Rock Band developer Harmonix](https://www.slashgear.com/epic-games-just-bought-rock-band-developer-harmonix-23700367/)
+
+
+> Epic is expanding its portfolio once more, announcing today that it has purchased Harmonix. While Harmonix has been a little quiet in recent years, the company was a household name not too long ago, developing some of the early Guitar Hero titles before eventually moving on and creating the Rock Band and Dance Central franchises. Now it will be joining Epic Games, and while it'll still be working with music, it sounds like a Rock Band revival isn't in the cards at the moment. Epic buys Harmonix in a play for the Metaverse While Harmonix and Epic are keeping some details close to the chest for now, there were some important details revealed today.
+
+
+***
+![iOS 15: Three Hidden Features You Didn't Know About](https://telecomtalk.info/wp-content/uploads/2021/11/ios-15-3-hidden-features-you-didnt.jpg "iOS 15: Three Hidden Features You Didn't Know About")
+
+
+[iOS 15: Three Hidden Features You Didn't Know About](https://telecomtalk.info/ios-15-3-hidden-features-you-didnt/480818/)
+
+
+> The new updated iOS 15 allows users to scan any text they have in front of them.Using the iPhone weather app, users can get real-time rain and snow alerts.With the new iOS 15 updates, users can simply swipe up a photo while watching it in the Photos app to get the finer details about the picture. The Cupertino-based tech giant, Apple, has a tendency of showcasing all the prominent features it brings with its iOS updates. The case was the same during the launch of the iOS 15 as the company talked about Do Not Disturb replacement, as well as improvements and additions to FaceTime and Maps.
+
+
+***
+![Macquarie Telecom doubles down on SD-WAN as it reaches 6,000 sites](http://www.voxy.co.nz/files/favicon.gif "Macquarie Telecom doubles down on SD-WAN as it reaches 6,000 sites")
+
+
+[Macquarie Telecom doubles down on SD-WAN as it reaches 6,000 sites](http://www.voxy.co.nz/technology/5/395947)
+
+
+> Wednesday, 24 November, 2021 - 13:02 Macquarie Telecom, part of Macquarie Telecom Group (ASX: MAQ), today announced it has deployed its SD-WAN services to 6,000 sites across Australia after pioneering the technology in Australia less than four years ago. The company will invest and hire additional staff in Australia across areas including engineering, customer service and marketing, aiming to double the number of sites in half the time. Macquarie Group Executive Luke Clifton believes the company's early recognition of the significance of the technology and willingness to go all in has been crucial to its success.
+
+
