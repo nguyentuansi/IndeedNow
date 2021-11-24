@@ -33487,3 +33487,33 @@
 > Wednesday, 24 November, 2021 - 13:02 Macquarie Telecom, part of Macquarie Telecom Group (ASX: MAQ), today announced it has deployed its SD-WAN services to 6,000 sites across Australia after pioneering the technology in Australia less than four years ago. The company will invest and hire additional staff in Australia across areas including engineering, customer service and marketing, aiming to double the number of sites in half the time. Macquarie Group Executive Luke Clifton believes the company's early recognition of the significance of the technology and willingness to go all in has been crucial to its success.
 
 
+***
+![SG bank DBS says digital services disruption has recurred after services were restored on Wed morning](https://apicms.thestar.com.my/uploads/images/2021/11/24/1379511.jpg "SG bank DBS says digital services disruption has recurred after services were restored on Wed morning")
+
+
+[SG bank DBS says digital services disruption has recurred after services were restored on Wed morning](https://www.thestar.com.my/tech/tech-news/2021/11/24/sg-bank-dbs-says-digital-services-disruption-has-recurred-after-services-were-restored-on-wed-morning)
+
+
+> The disruption of DBS' Internet and mobile banking services began at around 10am on Tuesday (Nov 23). — AFP SINGAPORE: Services for DBS Bank and POSB were fully restored early Wednesday morning (Nov 24), after more than 15 hours of disruption, the bank said. In an update to its Facebook post at around 8.15am, DBS said all of its digital banking services have been restored as at 2am. It also acknowledged the severity of the situation and apologised for the inconvenience caused. However, some users were still unable to access the services at 9am, and took to DBS' Facebook page to complain about the prolonged disruption.
+
+
+***
+![Apple sues Israeli spyware maker for targeting its users](https://apicms.thestar.com.my/uploads/images/2021/11/24/1379480.jpg "Apple sues Israeli spyware maker for targeting its users")
+
+
+[Apple sues Israeli spyware maker for targeting its users](https://www.thestar.com.my/tech/tech-news/2021/11/24/apple-sues-israeli-spyware-maker-for-targeting-its-users)
+
+
+> Apple is suing spyware maker NSO, seeking a block against further attempts to hack into or spy on its users' devices. — AP Photo Apple on Tuesday sued the Israeli spyware maker at the centre of the Pegasus surveillance scandal, seeking to block NSO Group from targeting the over one billion iPhones in circulation. The suit from the Silicon Valley giant adds to the trouble facing embattled NSO, which was engulfed in controversy over reports that tens of thousands of activists, journalists and politicians were listed as potential targets of its Pegasus spyware.
+
+
+***
+![5GCroCo: The programme keeping autonomous cars 5G-connected throughout Europe](https://apicms.thestar.com.my/uploads/images/2021/11/24/1379362.jpg "5GCroCo: The programme keeping autonomous cars 5G-connected throughout Europe")
+
+
+[5GCroCo: The programme keeping autonomous cars 5G-connected throughout Europe](https://www.thestar.com.my/tech/tech-news/2021/11/24/5gcroco-the-programme-keeping-autonomous-cars-5g-connected-throughout-europe)
+
+
+> In the future, 5G access for autonomous vehicles shouldn't be a concern when drivers cross borders in Europe. — AFP Relaxnews 5GCroCo is a European innovation initiative that aims to conduct cross-border 5G connectivity tests to ensure uninterrupted service provision for autonomous cars. With the help of operators, this has now been demonstrated to be effective. In the future, 5G should enable autonomous cars to communicate with each other so that they can not only drive without any human assistance, but also avoid any risk of collision.
+
+
