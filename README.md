@@ -33587,3 +33587,43 @@
 > November 24, 2021 07:10 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our guide to all the top Verizon iPhone 12 Pro, Max & mini deals for Black Friday 2021, together with discounts on best-selling Apple iPhones. Links to the best deals are listed below. Best Verizon iPhone 12 Deals: Best Verizon iPhone Deals: Save up to $1,000 on the latest Apple iPhones at Verizon Wireless - click the link to check the latest Apple iPhone 13, 12, 11, 11 Pro Max, XR, X, 8 & more top-rated smartphone deals Save up to $400 on the Apple iPhone SE at Verizon.
 
 
+***
+![Apple turns to TSMC for in-house 5G iPhone modem](https://cdn.slashgear.com/wp-content/uploads/2021/11/apple_iphone_13_3-1.jpg "Apple turns to TSMC for in-house 5G iPhone modem")
+
+
+[Apple turns to TSMC for in-house 5G iPhone modem](https://www.slashgear.com/apple-turns-to-tsmc-for-in-house-5g-iphone-modem-24700454/)
+
+
+> For years now, we've seen Apple attempt to move away from Qualcomm by producing its own computing components in-house. However, one component that still ties Apple to Qualcomm is a big one in the mobile world: modems. While Apple's iPhones use the company's own System-on-chip (SoC) (or as Apple calls them, 'Chips'), Apple is still using Qualcomm-made modems in its phones, but that's something that could change in 2023 thanks to a new team-up with the Taiwan Semiconductor Manufacturing Company (TSMC).
+
+
+***
+![2022 Toyota Hilux Dakar rally car blasts forth with a new turbo V6 engine](https://cdn.slashgear.com/wp-content/uploads/2021/11/Toyota-GR-Hilux-T1.jpg "2022 Toyota Hilux Dakar rally car blasts forth with a new turbo V6 engine")
+
+
+[2022 Toyota Hilux Dakar rally car blasts forth with a new turbo V6 engine](https://www.slashgear.com/2022-toyota-hilux-dakar-rally-car-blasts-forth-with-a-new-turbo-v6-engine-24700403)
+
+
+> 2022 Toyota Hilux Dakar rally car blasts forth with a new turbo V6 engine Toyota Gazoo Racing is fielding an all-new Hilux in the 2022 Dakar rally. Surprisingly, it has inherited the all-new, tenth-generation Toyota Land Cruiser's 3.5-liter twin-turbocharged V6 engine along with a few more custom mods. Toyota's latest Dakar rally machine is debuting at the Saudi Arabian desert starting on January 2, 2022. Despite having a lighter V6 engine (last year's Dakar Hilux GR had a mid-mounted 5.0-liter V8 gas engine), the Toyota GR DKR Hilux T1+ (yes, that's what it's called) is slightly heavier at 4,409 pounds (2,000 kilograms) to conform with the latest FIA regulations.
+
+
+***
+![Shelby American is unveiling a new car soon, and the internet is abuzz](https://cdn.slashgear.com/wp-content/uploads/2021/11/Shelby-American.jpg "Shelby American is unveiling a new car soon, and the internet is abuzz")
+
+
+[Shelby American is unveiling a new car soon, and the internet is abuzz](https://www.slashgear.com/shelby-american-is-unveiling-a-new-car-soon-and-the-internet-is-abuzz-24700396/)
+
+
+> Shelby American is igniting its Facebook page with a teaser image of its newest creation. Although it looks like a new extreme version of the Mustang, Shelby's Facebook page is bristling with comments on what the new car could be. The American high-performance vehicle manufacturer recently debuted its first all-electric concept, the Shelby Mustang Mach-E, at this year's recently concluded SEMA show. And now, it's teasing a new car for all the world to see. Nothing is definite at this point, but Shelby promises a new car is coming this December 15, 2021, and this got us thinking: What in the world is Shelby coming up with next? Based on the teaser image, Shelby's new car is a current-gen Ford Mustang (of course) hiding under a gray cloth wrap, but the internet is abuzz with exciting theories that range from the plausible to the extreme.
+
+
+***
+![OnePlus 10 Pro specs leak hint at the smartphone market's problem](https://cdn.slashgear.com/wp-content/uploads/2021/11/ONEPLUS10PROCOMPLETE5K2_1636977508-1.jpg "OnePlus 10 Pro specs leak hint at the smartphone market's problem")
+
+
+[OnePlus 10 Pro specs leak hint at the smartphone market's problem](https://www.slashgear.com/oneplus-10-pro-specs-leak-hint-at-the-smartphone-markets-problem-24700390/)
+
+
+> We get a new generation of smartphones every year, like clockwork, despite and in spite of global events like the COVID-19 pandemic or supply shortages. In the past, almost every new smartphone generation brought something new and exciting to the table, something that kept consumers at the edge of their seats and stuck with indecision whether to buy a new phone now or wait for the next big thing instead. That excitement seems to have mellowed down in the past year or so, and this unofficial information about the OnePlus 10 Pro could be indicative of a subtle malady is plaguing the smartphone market.
+
+
