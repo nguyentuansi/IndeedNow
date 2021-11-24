@@ -33547,3 +33547,43 @@
 > The Indian government has set up a committee for a single-window clearance platform for all networks that are based on satellite.The telecom department has set up a task force to develop the satellite-based communications ecosystem.This move comes at a time when the satellite communications market in India is luring in a host of global players.The Indian government has set up a committee for a single-window clearance platform for all networks that are based on satellite. This was claimed by K. Rajaraman, the secretary of DoT (Department of Telecommunications).
 
 
+***
+![Apple reportedly switching to iPhone modem design in 2023](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200818160011.jpeg "Apple reportedly switching to iPhone modem design in 2023")
+
+
+[Apple reportedly switching to iPhone modem design in 2023](https://www.asianage.com/technology/in-other-news/241121/apple-reportedly-switching-to-iphone-modem-design-in-2023.html)
+
+
+> ANI Published : Nov 24, 2021, 5:12 pm IST Updated : Nov 24, 2021, 5:12 pm IST Apple's switch to modems of its own design is widely expected to happen in 2023, and TSMC is the natural manufacturing partner   Apple bought Intel's 5G modem division in 2019, foreshadowing the eventual switch. (AFP Photo) Washington: Apple is reportedly planning to partner with Taiwan Semiconductor Manufacturing Co. for the production of its own 5G modems for future iPhones. According to The Verge, Apple is said to be planning to use TSMC's 4nm process node, which hasn't yet been deployed for any commercial product; the modem is apparently being designed and tested at 5nm before moving to mass production in 2023 at 4nm.
+
+
+***
+![Australian game publisher buys over Lemon Sky Studios, for RM135mil](https://apicms.thestar.com.my/uploads/images/2021/11/24/1379862.jpg "Australian game publisher buys over Lemon Sky Studios, for RM135mil")
+
+
+[Australian game publisher buys over Lemon Sky Studios, for RM135mil](https://www.thestar.com.my/tech/tech-news/2021/11/24/australian-game-publisher-buys-over-lemon-sky-studios-for-rm135mil)
+
+
+> Lemon Sky Studios CEO Cheng-Fei Wong (right) said new partnerships keep things fresh, following their acquisition by Australian game company iCandy Interactive for RM135mil. — Lemon Sky Studios Australian mobile game publisher iCandy Interactive Ltd has bought over Malaysia's Lemon Sky Studios, making it one of the largest indie video gaming companies in South-East Asia, Australia and New Zealand. The company said in a statement that the acquisition would put it in a position to produce games for the metaverse, where players can interact with a virtual world built with Virtual Reality (VR) and Augmented Reality (AR) technologies.
+
+
+***
+![Nasa launches spacecraft to kick an asteroid off course](https://apicms.thestar.com.my/uploads/images/2021/11/24/1379869.jpg "Nasa launches spacecraft to kick an asteroid off course")
+
+
+[Nasa launches spacecraft to kick an asteroid off course](https://www.thestar.com.my/tech/tech-news/2021/11/24/nasa-launches-spacecraft-to-kick-an-asteroid-off-course)
+
+
+> A Nasa mission to deliberately smash a spacecraft into an asteroid – a test run should humanity ever need to stop a giant space rock from wiping out life on Earth – blasted off Tuesday from California. It may sound like science fiction, but the DART (Double Asteroid Redirection Test) is a real proof-of-concept experiment, which lifted off at 10.21pm Pacific Time Tuesday (0621 GMT Wednesday) aboard a SpaceX rocket from Vandenberg Space Force Base. "Asteroid Dimorphos: we're coming for you!" NASA tweeted after the launch.
+
+
+***
+![Best Black Friday Verizon iPhone 12 Pro, Max & mini Deals (2021): Top Apple iPhone 12 Savings Monitored by Retail Egg](https://mms.businesswire.com/media/20211124005202/en/836277/23/Black_Friday_2021_%28RE%29.jpg "Best Black Friday Verizon iPhone 12 Pro, Max & mini Deals (2021): Top Apple iPhone 12 Savings Monitored by Retail Egg")
+
+
+[Best Black Friday Verizon iPhone 12 Pro, Max & mini Deals (2021): Top Apple iPhone 12 Savings Monitored by Retail Egg](https://www.businesswire.com/news/home/20211124005202/en/Best-Black-Friday-Verizon-iPhone-12-Pro-Max-mini-Deals-2021-Top-Apple-iPhone-12-Savings-Monitored-by-Retail-Egg)
+
+
+> November 24, 2021 07:10 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our guide to all the top Verizon iPhone 12 Pro, Max & mini deals for Black Friday 2021, together with discounts on best-selling Apple iPhones. Links to the best deals are listed below. Best Verizon iPhone 12 Deals: Best Verizon iPhone Deals: Save up to $1,000 on the latest Apple iPhones at Verizon Wireless - click the link to check the latest Apple iPhone 13, 12, 11, 11 Pro Max, XR, X, 8 & more top-rated smartphone deals Save up to $400 on the Apple iPhone SE at Verizon.
+
+
