@@ -33707,3 +33707,43 @@
 > ,Singapore October postings were up by 76% from February 2021.According to a job postings analysis by the global jobs portal, Indeed, hiring activity in Singapore continued to grow throughout October, with demand for tech jobs reaching a new high. By 30 October, job postings on Indeed were up 76% from their level on 1 February last year. Postings rose by 4.7% in October alone.Competition for talent in areas such as production (+153% above their level on 1 February 2020) is exceedingly high. Also doing well is installation & maintenance (+117%), tech (+101%) and transportation (+99%).
 
 
+***
+![Holograms on the horizon? San Diego company seeks to make futuristic technology mainstream](https://apicms.thestar.com.my/uploads/images/2021/11/25/1381041.jpeg "Holograms on the horizon? San Diego company seeks to make futuristic technology mainstream")
+
+
+[Holograms on the horizon? San Diego company seeks to make futuristic technology mainstream](https://www.thestar.com.my/tech/tech-news/2021/11/25/holograms-on-the-horizon-san-diego-company-seeks-to-make-futuristic-technology-mainstream)
+
+
+> Remember R2D2 beaming a hologram of Princess Leia pleading for help from Obi-Wan-Kenobi in the first Star Wars movie back in 1977? Now a San Diego company aims to bring similar holograms to real life on desktop and handheld devices. Ikin, founded four years ago by Taylor Scott Griffith and Joe Ward, is working on volumetric hardware, 'neural adaptive' artificial intelligence algorithms and other software to deliver holograms on small devices – including an accessory that attaches to smartphones. Ikin's products aren't ready for prime time yet.
+
+
+***
+![41 people in SG lost S$203K in ‘Filmgo' movie ticket buying scam](https://apicms.thestar.com.my/uploads/images/2021/11/25/1381014.jpg "41 people in SG lost S$203K in ‘Filmgo' movie ticket buying scam")
+
+
+[41 people in SG lost S$203K in ‘Filmgo' movie ticket buying scam](https://www.thestar.com.my/tech/tech-news/2021/11/25/spore-filmgo-movie-ticket-buying-scam-tricks-41-people-out-of-s203000)
+
+
+> Victims were tricked into thinking they could earn a commission by buying and selling movie tickets. — Dreamstime/TNS SINGAPORE: At least 41 individuals fell prey to a movie ticket buying scam and lost a total of S$203,000 (RM626,814) this month. The Singapore Police Force said on Thursday (Nov 25) that the scam was linked to companies with 'Filmgo' in their name. Victims were invited to participate in a job commission scheme over messaging platforms such as MiChat and WeChat. Filmgo Production and Filmgo Digital were part of the scheme that tricked the victims into thinking they could earn a commission by buying and selling movie tickets.
+
+
+***
+![SG bank DBS' customers still facing issues on its website, mobile app for third day](https://apicms.thestar.com.my/uploads/images/2021/11/25/1380990.jpeg "SG bank DBS' customers still facing issues on its website, mobile app for third day")
+
+
+[SG bank DBS' customers still facing issues on its website, mobile app for third day](https://www.thestar.com.my/tech/tech-news/2021/11/25/sg-bank-dbs-customers-still-facing-issues-on-its-website-mobile-app-for-third-day)
+
+
+> Many customers said that they still could not make transactions or view past ones. — KUA CHEE SIONG/The Straits Times/ANN SINGAPORE: Some customers were still unable to make transactions on DBS' website and mobile app for the third day on Thursday morning (Nov 25), even though the bank said services were returning to normal late last night. In a Facebook post at 10.35pm on Wednesday (Nov 24), DBS said: 'Please be informed that our digital banking services are returning to normal. We are monitoring the situation closely to ensure all services run smoothly.
+
+
+***
+![Killer asteroids abound. Nasa is ready to do something about it](https://apicms.thestar.com.my/uploads/images/2021/11/25/1380982.jpeg "Killer asteroids abound. Nasa is ready to do something about it")
+
+
+[Killer asteroids abound. Nasa is ready to do something about it](https://www.thestar.com.my/tech/tech-news/2021/11/25/killer-asteroids-abound-nasa-is-ready-to-do-something-about-it)
+
+
+> The Russia incident was a warning. On a winter morning in 2013, a meteor the size of a four-story building screamed across the country, exploding near the city of Chelyabinsk and injuring more than 1,600 people amid widespread property damage. The chunk of rock and iron, which was 60 feet across, served as a violent reminder that Earth, bombarded daily with tons of space-going debris, periodically intersects with large planet killers – and a significant portion of those remain undocumented. After years of study and discussion, Nasa has launched its first effort to spare Earth the kind of calamity that extinguished the dinosaurs, crashing a space probe into an asteroid to alter its speed and course.
+
+
