@@ -33777,3 +33777,33 @@
 > The new Redmi Note 11 4G. (Photo: Twitter) Beijing: Xiaomi sub-brand Redmi has further expanded the Note 11 lineup with a 4G version of the vanilla Redmi Note 11. As per GSM Arena, this isn't just a 4G-only variant of the Redmi Note 11. It's actually a Redmi 10 with one less camera on the rear. That means you get a Helio G88 SoC, Android 11-based MIUI 12.5, and a 6.5" FullHD+ LCD with 90Hz refresh rate, which can automatically switch to 45Hz when you are reading something and 60Hz when watching a video.
 
 
+***
+![Redmi GM Hints at Dimensity 7000-Powered Smartphone](https://telecomtalk.info/wp-content/uploads/2021/11/redmi-gm-dimensity-7000-soc-powered-smartphone.jpeg "Redmi GM Hints at Dimensity 7000-Powered Smartphone")
+
+
+[Redmi GM Hints at Dimensity 7000-Powered Smartphone](https://telecomtalk.info/redmi-gm-dimensity-7000-soc-powered-smartphone/481212/)
+
+
+> The chipmaker MediaTek is speculated to unveil a new affordable variant of the newly launched Dimensity 9000 SoC. This upcoming chipset from the company is said to be unveiled with the moniker Dimensity 7000 SoC. Ahead of the announcement of this new chipset, the Redmi brand's General Manager has teased the upcoming chip. A few days back, Lu Weibing, the Redmi GM teased the upcoming Dimensity 7000 SoC on Weibo and asked followed what kind of processor it is. This hinted that the upcoming smartphones from Redmi could get the power from the SoC.
+
+
+***
+![The Dirty Truth Behind Electric Vehicles](https://worldcrunch.com/media-library/electric-cars-in-leipzig-germany.jpg?id=27041590&width=1200&coordinates=0%2C68%2C0%2C68&height=600 "The Dirty Truth Behind Electric Vehicles")
+
+
+[The Dirty Truth Behind Electric Vehicles](https://worldcrunch.com/tech-science/the-dirty-truth-behind-electric-vehicles-1)
+
+
+> MUNICH — Volkswagen wants to become the world's biggest environmentally-friendly automaker, with 100,000 electric vehicles a year from 2020 and one million from 2025. Where coal-fired power has left ugly patches, the eco-balance is to become spotlessly clean. "When we say that we are delivering a carbon-neutral vehicle, this naturally includes battery cell production," says Thomas Ulbrich, member of the VW Board of Management and responsible for E-Mobility. But what about battery materials? Ulbrich doesn't seem to have anything new to say about the disposal of batteries.
+
+
+***
+![Climate Change And Chlamydia May Be Too Much For Australia's Koalas To Bear](https://worldcrunch.com/media-library/koala-bears-could-eventually-enjoy.jpg?id=27035612&width=1200&coordinates=0%2C38%2C0%2C38&height=600 "Climate Change And Chlamydia May Be Too Much For Australia's Koalas To Bear")
+
+
+[Climate Change And Chlamydia May Be Too Much For Australia's Koalas To Bear](https://worldcrunch.com/tech-science/climate-change-and-chlamydia-may-be-too-much-for-australias-koalas-to-bear)
+
+
+> Support Worldcrunch We are grateful for reader support to continue our unique mission of delivering in English the best international journalism, regardless of language or geography. Click here to contribute whatever you can. Merci!
+
+
