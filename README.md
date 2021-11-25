@@ -33747,3 +33747,33 @@
 > The Russia incident was a warning. On a winter morning in 2013, a meteor the size of a four-story building screamed across the country, exploding near the city of Chelyabinsk and injuring more than 1,600 people amid widespread property damage. The chunk of rock and iron, which was 60 feet across, served as a violent reminder that Earth, bombarded daily with tons of space-going debris, periodically intersects with large planet killers – and a significant portion of those remain undocumented. After years of study and discussion, Nasa has launched its first effort to spare Earth the kind of calamity that extinguished the dinosaurs, crashing a space probe into an asteroid to alter its speed and course.
 
 
+***
+![3D-printed shoes protect Jurong Bird Park's residents from foot disease](https://apicms.thestar.com.my/uploads/images/2021/11/25/1381427.jpeg "3D-printed shoes protect Jurong Bird Park's residents from foot disease")
+
+
+[3D-printed shoes protect Jurong Bird Park's residents from foot disease](https://www.thestar.com.my/tech/tech-news/2021/11/25/3d-printed-shoes-protect-jurong-bird-parks-residents-from-foot-disease)
+
+
+> The shoes of Miguel the southern caracara are designed with holes to accommodate his pododermatitis lesions. — Jurong Bird Park/ST/ANN SINGAPORE: 3D-printing technology has found a surprising application in customised shoes that protect birds of prey in Singapore from a potentially fatal foot disease. The silicone-made bird shoes have been refined over two years by Jurong Bird Park's avian veterinary team and the Keio-NUS Cute (Connective Ubiquitous Technology for Embodiments) Centre at the National University of Singapore (NUS).
+
+
+***
+![Mom and daughter bound for space after winning Virgin Galactic prize](https://apicms.thestar.com.my/uploads/images/2021/11/25/1381195.jpg "Mom and daughter bound for space after winning Virgin Galactic prize")
+
+
+[Mom and daughter bound for space after winning Virgin Galactic prize](https://www.thestar.com.my/tech/2021/11/25/mom-and-daughter-bound-for-space-after-winning-virgin-galactic-prize)
+
+
+> A mother-daughter duo won two tickets to be space tourists aboard Virgin Galactic, worth almost RM4.23mil. — AFP A health coach from Antigua and Barbuda has won two tickets worth almost US$1mil (RM4.23mil) to be among Virgin Galactic's first space tourists – and plans to take the trip of a lifetime with her teenage daughter. Keisha Schahaff, 44, said she wanted to cross the final frontier with her 17-year-old, a science student living in Britain who dreams of one day working for NASA. Virgin Galactic founder Richard Branson surprised Schahaff with the news at her home in the Caribbean in early November.
+
+
+***
+![Xiaomi Redmi Note 11 4G goes official](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-6nniqrfaomn6t7eporafn0c8c3-20211125142206.Medi.jpeg "Xiaomi Redmi Note 11 4G goes official")
+
+
+[Xiaomi Redmi Note 11 4G goes official](https://www.deccanchronicle.com/technology/mobiles-and-tabs/251121/xiaomi-redmi-note-11-4g-goes-official.html)
+
+
+> The new Redmi Note 11 4G. (Photo: Twitter) Beijing: Xiaomi sub-brand Redmi has further expanded the Note 11 lineup with a 4G version of the vanilla Redmi Note 11. As per GSM Arena, this isn't just a 4G-only variant of the Redmi Note 11. It's actually a Redmi 10 with one less camera on the rear. That means you get a Helio G88 SoC, Android 11-based MIUI 12.5, and a 6.5" FullHD+ LCD with 90Hz refresh rate, which can automatically switch to 45Hz when you are reading something and 60Hz when watching a video.
+
+
