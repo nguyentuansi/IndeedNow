@@ -33687,3 +33687,23 @@
 > November 24, 2021 07:35 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our summary of all the top Apple Watch Series 3 deals for Black Friday, featuring savings on GPS and GPS + cellular Watch 3 models. Access the best deals using the links below. Best Apple Watch Series 3 Deals: Best Apple Watch Deals: Save up to 39% on Apple Watches including the Apple Watch 6, SE, 5, 4 & 3 at Amazon.com - click the link for live prices on the latest Apple Watch Series 6 & SE and older Series 5, 4, and 3 smartwatches Save up to $100 on the latest Apple Watches at Verizon.
 
 
+***
+![Nvidia Hotfix Driver 496.98](https://www.sweclockers.com/forum/trad/1650303/og-image "Nvidia Hotfix Driver 496.98")
+
+
+[Nvidia Hotfix Driver 496.98](https://www.sweclockers.com/forum/trad/1650303-nvidia-hotfix-driver-496-98)
+
+
+> Forum Datorkomponenter Grafikkort Geforce Tråd igår 22:57 Trädvy Permalänk GeForce hotfix display driver version 496.98 is based on our latest Game Ready Driver 496.76.The hotfix addresses the following issues:- [YouTube: The YouTube web site randomly displays extreme contrast/gamma while idle or during video playback. [3420164]- [Notebook]: Black screen may be observed on some Optimus notebooks with 1440p/165hz panels when in discrete GPU mode [3426730]- Games do not launch correctly on GeForce GTX 750 Ti when NVIDIA Image Scaling is enabled- [3442778]Using Adaptive Vertical Sync while G-SYNC is enabled may result in random black screen [3437003]- [Red Dead Redemption 2/Doom Eternal]: The game crashes with TDR or the system crashes while running the game.
+
+
+***
+![Tech job postings hit all-time high: Indeed](https://sbr.com.sg/sites/default/files/styles/opengraph/public/2021-11/jobs-sg.jpg?h=920929c4&itok=aUHYinKY "Tech job postings hit all-time high: Indeed")
+
+
+[Tech job postings hit all-time high: Indeed](https://sbr.com.sg/hr-education/news/tech-job-postings-hit-all-time-high-indeed)
+
+
+> ,Singapore October postings were up by 76% from February 2021.According to a job postings analysis by the global jobs portal, Indeed, hiring activity in Singapore continued to grow throughout October, with demand for tech jobs reaching a new high. By 30 October, job postings on Indeed were up 76% from their level on 1 February last year. Postings rose by 4.7% in October alone.Competition for talent in areas such as production (+153% above their level on 1 February 2020) is exceedingly high. Also doing well is installation & maintenance (+117%), tech (+101%) and transportation (+99%).
+
+
