@@ -33637,3 +33637,53 @@
 > Apple is reportedly planning to partner with Taiwan Semiconductor Manufacturing Co. for the production of its own 5G modems for future iPhones. According to The Verge, Apple is said to be planning to use TSMC's 4nm process node, which hasn't yet been deployed for any commercial product; the modem is apparently being designed and tested at 5nm before moving to mass production in 2023 at 4nm. Washington: Apple's switch to modems of its own design is widely expected to happen in 2023, and TSMC is the natural manufacturing partner.
 
 
+***
+![Orange to replace CEO Richard by Jan. 31](https://apicms.thestar.com.my/uploads/images/2021/11/25/1380810.jpg "Orange to replace CEO Richard by Jan. 31")
+
+
+[Orange to replace CEO Richard by Jan. 31](https://www.thestar.com.my/tech/tech-news/2021/11/25/orange-to-replace-ceo-richard-by-jan-31)
+
+
+> FILE PHOTO: The logo of French telecoms group Orange is pictured in a retail store in Bordeaux, France, October 29, 2019. REUTERS/Regis Duvignau PARIS (Reuters) - France's biggest telecoms operator Orange will appoint a new chief executive officer by Jan. 31 at the latest, the company said in a statement on Wednesday, confirming an earlier report by Reuters.Orange's board said it had accepted CEO Stephane Richard's resignation as both chairman and chief executive of the group, which he lead for the past eleven years.
+
+
+***
+![Resident Evil: Village Gets Four Wins at the Golden Joystick Awards 2021](https://www.playstationlifestyle.net/assets/uploads/2021/11/Golden-Joysticks.jpg "Resident Evil: Village Gets Four Wins at the Golden Joystick Awards 2021")
+
+
+[Resident Evil: Village Gets Four Wins at the Golden Joystick Awards 2021](https://www.playstationlifestyle.net/2021/11/24/golden-joystick-awards-2021/)
+
+
+> With December fast approaching, many outlets are now thinking about their game of the year awards. One of the first to go ahead with these is GamesRadar and their Golden Joystick Awards. While a total of 14 games earned a variety of awards across the categories, the biggest winner of the night was Resident Evil Village, which took home four awards.Resident Evil Village won Best Audio and PlayStation Game of the Year, as well as the Ultimate Game of the Year. Lady Dimitrescu actress Maggie Robertson also won Best Performer, bringing Village's total to four.
+
+
+***
+![All Windows PCs at risk after Microsoft fails to fix zero-day exploit](https://cdn.slashgear.com/wp-content/uploads/2021/11/windows-zero-day-exploit-vulnerability-2021.jpg "All Windows PCs at risk after Microsoft fails to fix zero-day exploit")
+
+
+[All Windows PCs at risk after Microsoft fails to fix zero-day exploit](https://www.slashgear.com/all-windows-pcs-at-risk-after-microsoft-fails-to-fix-zero-day-exploit-24700517/)
+
+
+> Talos Security Intelligence & Research Group has published a new report detailing its discovery of a zero-day exploit impacting all Windows versions, including newly updated Windows 11 machines. The team describes this exploit as an 'elevation of privilege vulnerability' that impacts Windows Installer, also noting some malware is already in circulation that targets this particular vulnerability. Diy13/Shutterstock According to Cisco Talos, the zero-day exploit covers 'every version' of Windows, including Windows Server 2022 and Windows 11 machines that have all of the security patches installed.
+
+
+***
+![Arizona Tea, Kool-Aid, and other popular drinks recalled over glass risk](https://cdn.slashgear.com/wp-content/uploads/2021/11/kool-aid-arizona-tea-recall-glass-metal.jpg "Arizona Tea, Kool-Aid, and other popular drinks recalled over glass risk")
+
+
+[Arizona Tea, Kool-Aid, and other popular drinks recalled over glass risk](https://www.slashgear.com/arizona-tea-kool-aid-and-other-popular-drinks-recalled-over-glass-risk-24700494/)
+
+
+> A couple of recalls were announced this week covering food and drink items potentially contaminated with small pieces of metal and glass. One of the recalls comes from Kraft Heinz; it covers many of the company's powdered beverages, including some flavors of Kool-Aid, Tang, and Country Time. The other recall is from H-E-B, a grocery retailer in Texas that is pulling certain soup products from shelves over potential glass contamination. Keith Homan/Shutterstock Two new recalls The Kraft Heinz recall covers some Kool-Aid, Tang, Country Time Lemonade, and Arizona Tea powdered beverages sold throughout the United States.
+
+
+***
+![Apple Watch Series 3 Black Friday Deals 2021: Best GPS & GPS + Cellular Apple Watch Savings Compiled by Spending Lab](https://mms.businesswire.com/media/20211124005613/en/835848/23/Black_Friday_2021_%28SL%29.jpg "Apple Watch Series 3 Black Friday Deals 2021: Best GPS & GPS + Cellular Apple Watch Savings Compiled by Spending Lab")
+
+
+[Apple Watch Series 3 Black Friday Deals 2021: Best GPS & GPS + Cellular Apple Watch Savings Compiled by Spending Lab](https://www.businesswire.com/news/home/20211124005613/en/Apple-Watch-Series-3-Black-Friday-Deals-2021-Best-GPS-GPS-Cellular-Apple-Watch-Savings-Compiled-by-Spending-Lab)
+
+
+> November 24, 2021 07:35 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our summary of all the top Apple Watch Series 3 deals for Black Friday, featuring savings on GPS and GPS + cellular Watch 3 models. Access the best deals using the links below. Best Apple Watch Series 3 Deals: Best Apple Watch Deals: Save up to 39% on Apple Watches including the Apple Watch 6, SE, 5, 4 & 3 at Amazon.com - click the link for live prices on the latest Apple Watch Series 6 & SE and older Series 5, 4, and 3 smartwatches Save up to $100 on the latest Apple Watches at Verizon.
+
+
