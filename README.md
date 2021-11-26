@@ -33971,3 +33971,23 @@
 > Jockeys competing in a race in Laytown, Ireland. The Leafyard app came about due to alarming findings in research commissioned by the IHRB in 2019/20 into mental health problems among jockeys, which produced significant results when compared to other sports. — Reuters DUBLIN: Irish jump racing legend Ruby Walsh gave no quarter to his rivals but in retirement he has overseen the introduction of a groundbreaking app that helps jockeys battling mental health issues. The 42-year-old 12 time Irish champion jockey – who is chairman of the Irish Injured Jockeys Fund (IIJF) – says it is not 'a cure' but 'a significant step to encourage the right behaviours'.
 
 
+***
+![China steps up pressure on tech with draft online ad rules](https://apicms.thestar.com.my/uploads/images/2021/11/26/1382864.jpeg "China steps up pressure on tech with draft online ad rules")
+
+
+[China steps up pressure on tech with draft online ad rules](https://www.thestar.com.my/tech/tech-news/2021/11/26/china-steps-up-pressure-on-tech-with-draft-online-ad-rules)
+
+
+> Mobile phone cases are seen displayed at a souvenir stall in Shanghai, China. Authorities in China have tightened regulation across a range of industries this year, with an emphasis on technology. — Reuters SHANGHAI: China's market regulator proposed new rules on Nov 26 that would increase online advertising oversight, including stipulating that adverts should not affect normal Internet use or mislead users. Authorities in China have tightened regulation across a range of industries this year, with an emphasis on technology.
+
+
+***
+![Nigeria's crypto traders risk arrest and scams to bypass ban](https://apicms.thestar.com.my/uploads/images/2021/11/26/1382693.jpg "Nigeria's crypto traders risk arrest and scams to bypass ban")
+
+
+[Nigeria's crypto traders risk arrest and scams to bypass ban](https://www.thestar.com.my/tech/tech-news/2021/11/26/nigerias-crypto-traders-risk-arrest-and-scams-to-bypass-ban)
+
+
+> ILORIN, Nigeria: Adebayo Sulaimon was just getting ready for the day when officers from the Nigerian Police Force raided the 23-year-old graduate's compound in the southwestern town of Ilorin to arrest him and his roommate. Sulaimon's crime, police told him as they took him away that October morning, was trading cryptocurrency, something he had started doing a month before the Central Bank of Nigeria (CBN) stepped up its efforts to ban the practice in February. After spending five hours at a local police station and paying a 120,000 naira (US$290 or RM1,236) bail, Sulaimon and his roommate were released – then went straight back to buying and selling digital currency.
+
+
