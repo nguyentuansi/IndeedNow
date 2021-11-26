@@ -33891,3 +33891,53 @@
 > November 25, 2021 07:25 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's a round-up of the best iPhone deals for Black Friday, including all the top offers on networked and unlocked Apple iPhones. Shop the full selection of deals using the links below. Best iPhone Deals: Save up to $1,000 on the latest Apple iPhones at Verizon Wireless - click the link to check the latest deals on Apple iPhone 13, 12, 11, 11 Pro Max, XR, X, 8 & more top-rated smartphones Save up to $400 on Apple iPhone 13, 12, SE & more top-rated smartphones at Xfinity Mobile Save up to 63% on no contract & prepaid Apple iPhones at StraightTalk.
 
 
+***
+![Seoul, Barbados check into metaverse as governments eye virtual presence](https://apicms.thestar.com.my/uploads/images/2021/11/26/1382271.jpg "Seoul, Barbados check into metaverse as governments eye virtual presence")
+
+
+[Seoul, Barbados check into metaverse as governments eye virtual presence](https://www.thestar.com.my/tech/tech-news/2021/11/26/seoul-barbados-check-into-metaverse-as-governments-eye-virtual-presence)
+
+
+> The metaverse will soon be a place to not just buy virtual goods and meet avatars, but to also get essential public services, as governments prepare to enter the rapidly expanding digital world despite concerns about privacy and other rights. The city of Seoul and the island nation of Barbados earlier this month said they will enter the metaverse to provide administrative and consular services, respectively. Other cities and countries may follow suit if the technology becomes more mainstream, analysts say.
+
+
+***
+![Fintech start-up GIMO secures US$1.9mil in funding](https://apicms.thestar.com.my/uploads/images/2021/11/26/1382389.jpg "Fintech start-up GIMO secures US$1.9mil in funding")
+
+
+[Fintech start-up GIMO secures US$1.9mil in funding](https://www.thestar.com.my/aseanplus/aseanplus-news/2021/11/26/fintech-start-up-gimo-secures-us19mil-in-funding)
+
+
+> GIMO offers solutions that provide on-demand pay for blue-collar workers. — Courtesy of the firm HANOI (Vietnam News/Asia News Network): GIMO, Vietnam's fintech startup offering on-demand pay for blue-collar workers, announced on Tuesday (Nov 23) it has successfully raised US$1.9 million in a post-seed round of funding. Led by Singapore's Integra Partners, the round also had participation from Resolution Ventures, Blauwpark Partners, and TNB Aura VN Scout. According to GIMO's co-founder and CEO Nguyễn Anh Quân, the new investment will help the company improve the financial stability and resilience of blue-collar workers, as well as fast-track financial inclusion in South-East Asia.
+
+
+***
+![Xbox Black Friday Deals (2021): Top Xbox One X & S, Xbox Series X & S & More Sales Ranked by Retail Egg](https://mms.businesswire.com/media/20211125005612/en/836277/23/Black_Friday_2021_%28RE%29.jpg "Xbox Black Friday Deals (2021): Top Xbox One X & S, Xbox Series X & S & More Sales Ranked by Retail Egg")
+
+
+[Xbox Black Friday Deals (2021): Top Xbox One X & S, Xbox Series X & S & More Sales Ranked by Retail Egg](https://www.businesswire.com/news/home/20211125005612/en/Xbox-Black-Friday-Deals-2021-Top-Xbox-One-X-S-Xbox-Series-X-S-More-Sales-Ranked-by-Retail-Egg)
+
+
+> November 25, 2021 11:10 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday researchers are tracking the best Xbox deals for Black Friday 2021, together with the latest sales on Xbox Live and Elite Controller. View the latest deals listed below. Best Xbox Deals: Save on Xbox consoles, games, accessories, and gears at Xbox.com - includes deals on the Xbox Series X and Series S, Xbox Wireless Controller, and the most popular Xbox games Save on Xbox Elite controllers & accessories at Microsoft.
+
+
+***
+![Best Black Friday & Cyber Monday Dell XPS 17, 15 & 13 Deals (2021) Rounded Up by Saver Trends](https://mms.businesswire.com/media/20211125005598/en/835912/23/Black_Friday_2021_%28ST%29.jpg "Best Black Friday & Cyber Monday Dell XPS 17, 15 & 13 Deals (2021) Rounded Up by Saver Trends")
+
+
+[Best Black Friday & Cyber Monday Dell XPS 17, 15 & 13 Deals (2021) Rounded Up by Saver Trends](https://www.businesswire.com/news/home/20211125005598/en/Best-Black-Friday-Cyber-Monday-Dell-XPS-17-15-13-Deals-2021-Rounded-Up-by-Saver-Trends)
+
+
+> November 25, 2021 11:10 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Find the top Dell XPS deals for Black Friday & Cyber Monday, including the best desktop PC, laptop & monitor savings. Access the full selection of deals listed below. Best Dell XPS Deals: Best Dell Laptop Deals: Best Dell Deals: Save up to 46% on top-rated Dell laptops, desktops and monitors at Walmart - check the latest deals available on Dell computers at Walmart and save on top-rated Dell XPS laptops, PCs and monitors Save up to 51% on a wide range of Dell computers, laptops, monitors & accessories at Dell.
+
+
+***
+![Best Black Friday Cricut Maker & Maker 3 Deals 2021: Best Cutting Machines & Bundles Savings Identified by Save Bubble](https://mms.businesswire.com/media/20211125005593/en/835994/23/Black_Friday_2021_%28SB%29.jpg "Best Black Friday Cricut Maker & Maker 3 Deals 2021: Best Cutting Machines & Bundles Savings Identified by Save Bubble")
+
+
+[Best Black Friday Cricut Maker & Maker 3 Deals 2021: Best Cutting Machines & Bundles Savings Identified by Save Bubble](https://www.businesswire.com/news/home/20211125005593/en/Best-Black-Friday-Cricut-Maker-Maker-3-Deals-2021-Best-Cutting-Machines-Bundles-Savings-Identified-by-Save-Bubble)
+
+
+> November 25, 2021 11:00 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Find the best Cricut Maker & Maker 3 deals for Black Friday 2021, together with tools, accessories & crafting material discounts. Browse the best deals in the list below. Best Cricut Maker Deals: Best Cricut Deals: Searching for more deals? Click here to access the entire selection of active deals at Walmart's Black Friday sale and click here to shop Amazon's latest Black Friday deals. Save Bubble earns commissions from purchases made using the links provided.
+
+
