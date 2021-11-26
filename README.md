@@ -33991,3 +33991,43 @@
 > ILORIN, Nigeria: Adebayo Sulaimon was just getting ready for the day when officers from the Nigerian Police Force raided the 23-year-old graduate's compound in the southwestern town of Ilorin to arrest him and his roommate. Sulaimon's crime, police told him as they took him away that October morning, was trading cryptocurrency, something he had started doing a month before the Central Bank of Nigeria (CBN) stepped up its efforts to ban the practice in February. After spending five hours at a local police station and paying a 120,000 naira (US$290 or RM1,236) bail, Sulaimon and his roommate were released – then went straight back to buying and selling digital currency.
 
 
+***
+![The first Apple AR headset could be a much bigger deal than we expected](https://cdn.slashgear.com/wp-content/uploads/2021/11/smart_glasses_1.jpg "The first Apple AR headset could be a much bigger deal than we expected")
+
+
+[The first Apple AR headset could be a much bigger deal than we expected](https://www.slashgear.com/the-first-apple-ar-headset-could-be-a-much-bigger-deal-than-we-expected-26700505/)
+
+
+> Apple's augmented reality headset could pack a surprise, according to the latest analyst predictions, with suggestions of a more gradual dive into smart glasses upended with the idea of a more ambitious first product. Long the topic of rumor – one which Apple seems happy to periodically stoke – the AR wearable would arguably be the biggest product announcement for the Cupertino firm since the original iPhone. As was the case with the iPhone, Apple wouldn't be first to the smart glasses category. However, far more important than being number one on the calendar is being top of the pile for usability, functionality, and practicality.
+
+
+***
+![Vodafone Idea Showcases Use Cases of 5G Networks in India](https://telecomtalk.info/wp-content/uploads/2021/11/vodafone-idea-showcases-use-cases-of-5g.png "Vodafone Idea Showcases Use Cases of 5G Networks in India")
+
+
+[Vodafone Idea Showcases Use Cases of 5G Networks in India](https://telecomtalk.info/vodafone-idea-showcases-use-cases-of-5g/481402/)
+
+
+> The telco was able to achieve peak download speeds of 4.1 Gbps and 217 Mbps upload speeds in the trial location Pune.Vodafone Idea (Vi) recently showcased 5G network use cases and solutions for the digital India.The 5G trial network set up by Vodafone Idea (Vi) in Pune is leveraging Ericsson Radios and Ericsson Dual Mode Core based on cloud native technology.Vodafone Idea (Vi) recently showcased 5G network use cases and solutions for digital India. The telco shared the wide range of 5G network use cases that it has been testing in Pune, Maharashtra and Gandhinagar, Gujarat.
+
+
+***
+![Best Black Friday & Cyber Monday Google Pixel 6 Deals 2021: Best AT&T, Verizon & More Sales Reviewed by Consumer Articles](https://mms.businesswire.com/media/20211126005072/en/835847/23/Black_Friday_2021_%28CA%29.jpg "Best Black Friday & Cyber Monday Google Pixel 6 Deals 2021: Best AT&T, Verizon & More Sales Reviewed by Consumer Articles")
+
+
+[Best Black Friday & Cyber Monday Google Pixel 6 Deals 2021: Best AT&T, Verizon & More Sales Reviewed by Consumer Articles](https://www.businesswire.com/news/home/20211126005072/en/Best-Black-Friday-Cyber-Monday-Google-Pixel-6-Deals-2021-Best-ATT-Verizon-More-Sales-Reviewed-by-Consumer-Articles)
+
+
+> November 26, 2021 11:10 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Find the best Pixel 6 deals for Black Friday & Cyber Monday 2021, including unlocked & carrier-locked AT&T, Walmart & Verizon Pixel smartphone savings. Links to the best deals are listed below. Best Google Pixel 6 Deals: Best Google Pixel 6 Pro Deals: Best Google Pixel Deals: Best Cell Phone Deals: Save up to 80% on a wide range of Samsung Galaxy, iPhone, Pixel, LG & more top-rated smartphones at AT&T.com - check out the latest deals on flagship & budget-friendly smartphones from Apple iPhone, Samsung Galaxy, Google Pixel, OnePlus & more top brands, including trade in options Save up to $1,000 on Xfinity's best mobile deal of the year at Xfinity.
+
+
+***
+![Black Friday Deals](https://s3-eu-central-1.amazonaws.com/www-staging.esports.com/wp-media-folder-esports-com/app/uploads/2020/11/spielekeys-720x405.jpg "Black Friday Deals")
+
+
+[Black Friday Deals](https://www.esports.com/de/black-friday-deals-unglaublich-guenstige-spiele-keys-fuer-den-pc-und-mehr-300102)
+
+
+> No body in the article.
+
+
