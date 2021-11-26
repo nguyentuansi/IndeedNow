@@ -33941,3 +33941,33 @@
 > November 25, 2021 11:00 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Find the best Cricut Maker & Maker 3 deals for Black Friday 2021, together with tools, accessories & crafting material discounts. Browse the best deals in the list below. Best Cricut Maker Deals: Best Cricut Deals: Searching for more deals? Click here to access the entire selection of active deals at Walmart's Black Friday sale and click here to shop Amazon's latest Black Friday deals. Save Bubble earns commissions from purchases made using the links provided.
 
 
+***
+![Bluetti Black Friday Deals will keep the lights on even after the holidays](https://cdn.slashgear.com/wp-content/uploads/2021/11/bluetti-black-friday-1.jpg "Bluetti Black Friday Deals will keep the lights on even after the holidays")
+
+
+[Bluetti Black Friday Deals will keep the lights on even after the holidays](https://www.slashgear.com/bluetti-black-friday-deals-will-keep-the-lights-on-even-after-the-holidays-26700448)
+
+
+> Bluetti Black Friday Deals will keep the lights on even after the holidays Sponsored Feature It's that time of the year again when stores and brands make massive cuts in prices to entice people to spend their hard-earned cash on their products. There is almost a sense of whimsy and frivolity in some of the choices we make during this period, clicking on anything that may catch our attention or tickle our fancy at that very moment. It is, however, also an opportunity to make an investment in something that will be useful for months and even years to come.
+
+
+***
+![Report: Jobs in SG logistics sector will change or be displaced with new-technology adoption](https://apicms.thestar.com.my/uploads/images/2021/11/26/1382560.jpeg "Report: Jobs in SG logistics sector will change or be displaced with new-technology adoption")
+
+
+[Report: Jobs in SG logistics sector will change or be displaced with new-technology adoption](https://www.thestar.com.my/tech/tech-news/2021/11/26/report-jobs-in-sg-logistics-sector-will-change-or-be-displaced-with-new-technology-adoption)
+
+
+> More than 86,000 workers are employed in the logistics sector in Singapore. — KEVIN LIM/The Straits Times/ANN SINGAPORE: Job roles in the logistics sector are on the 'move' with the adoption of Industry 4.0 technology solutions, with changes or displacement of positions expected in the next three to five years. Of 56 positions studied in the Jobs Transformation Map (JTM) for the sector, about 54% of job roles – which 36,000 workers account for – will experience at least a 'medium degree of change' which will require job redesign or undergo displacement.
+
+
+***
+![Irish jockeys have whip hand in groundbreaking mental health app](https://apicms.thestar.com.my/uploads/images/2021/11/26/1382478.jpg "Irish jockeys have whip hand in groundbreaking mental health app")
+
+
+[Irish jockeys have whip hand in groundbreaking mental health app](https://www.thestar.com.my/tech/tech-news/2021/11/26/irish-jockeys-have-whip-hand-in-groundbreaking-mental-health-app)
+
+
+> Jockeys competing in a race in Laytown, Ireland. The Leafyard app came about due to alarming findings in research commissioned by the IHRB in 2019/20 into mental health problems among jockeys, which produced significant results when compared to other sports. — Reuters DUBLIN: Irish jump racing legend Ruby Walsh gave no quarter to his rivals but in retirement he has overseen the introduction of a groundbreaking app that helps jockeys battling mental health issues. The 42-year-old 12 time Irish champion jockey – who is chairman of the Irish Injured Jockeys Fund (IIJF) – says it is not 'a cure' but 'a significant step to encourage the right behaviours'.
+
+
