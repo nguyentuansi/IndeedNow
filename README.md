@@ -34031,3 +34031,43 @@
 > No body in the article.
 
 
+***
+![EU internet regulation to push Facebook to sanitise Metaverse platforms](https://img.dtnext.in/Articles/2021/Nov/202111262244047751_EU-internet-regulation-to-push-Facebook-to-sanitise_SECVPF.gif "EU internet regulation to push Facebook to sanitise Metaverse platforms")
+
+
+[EU internet regulation to push Facebook to sanitise Metaverse platforms](https://www.dtnext.in/Lifestyle/Technology/2021/11/26224405/1330867/EU-internet-regulation-to-push-Facebook-to-sanitise-.vpf)
+
+
+> With the European Union (EU) Council formally adopting both the draft Digital Services Act (DSA) and a Digital Markets Act (DMA) to better control hate speech, counterfeit goods, cyber threats and disinformation. London: Experts on Friday said that the EU's twin internet-regulation package will put further pressure on global social networks such as Meta (formerly Facebook) to better police their own platforms in the upcoming age of Metaverse.The proposed DSA aims to keep users safe from illegal goods, content or services and protect their fundamental rights online, on the principle that what is illegal offline should also be illegal online.
+
+
+***
+![Don't Sleep On These PC, Monitor, & Laptop Deals At 30% Off!](https://www.androidheadlines.com/wp-content/uploads/2021/11/PC-Monitor-Deals.jpg "Don't Sleep On These PC, Monitor, & Laptop Deals At 30% Off!")
+
+
+[Don't Sleep On These PC, Monitor, & Laptop Deals At 30% Off!](https://www.androidheadlines.com/2021/11/pc-monitor-laptop-gaming-deals.html)
+
+
+> Amazon is having a HUGE Black Friday sale on a wide selection of PC, monitor, laptop, and tablet devices, with these deals being offered at up to 30% off their normal prices. Some of the PC and monitor deals are on products that are designed for gaming, while others are meant for more general use. For instance, this ASUS TUF Gaming 27-inch 2K monitor with a 165Hz refresh rate. It supports NVIDIA G-Sync and offers a 1ms motion blur. It's currently down to $269 from $349.But there's also a 32-inch curved monitor on sale from Dell for $199 down from $259.
+
+
+***
+![Cisco Canada, STEM Fellowship launch cybersecurity training for 40,000 Canadian students](https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/11/cybersecurity-image2-620x250-1.jpg "Cisco Canada, STEM Fellowship launch cybersecurity training for 40,000 Canadian students")
+
+
+[Cisco Canada, STEM Fellowship launch cybersecurity training for 40,000 Canadian students](https://www.itworldcanada.com/article/cisco-canada-stem-fellowship-launch-cybersecurity-training-for-40000-canadian-students/466786)
+
+
+> This advertisement has not loaded yet, but your article continues below. Cisco Canada together with STEM Fellowship, a not-for-profit that works towards diversity in STEM, this week announced the launch of the Cybersecurity Classroom Training Program (CCTP) for high school students, with the aim to address the growing need for cybersecurity awareness and education.  This advertisement has not loaded yet, but your article continues below. As part of the partnership, Cisco said it is making a $12 million in-kind investment which will help over 40,000 students across Canada gain practical digital skills and safety knowledge through the program by 2023.
+
+
+***
+![Best Oculus Quest Black Friday & Cyber Monday Deals (2021): Top Oculus Quest 2 & More VR Headset Deals Rated by Deal Stripe](https://mms.businesswire.com/media/20211126005136/en/836771/23/Black_Friday_2021_%28DS%29.jpg "Best Oculus Quest Black Friday & Cyber Monday Deals (2021): Top Oculus Quest 2 & More VR Headset Deals Rated by Deal Stripe")
+
+
+[Best Oculus Quest Black Friday & Cyber Monday Deals (2021): Top Oculus Quest 2 & More VR Headset Deals Rated by Deal Stripe](https://www.businesswire.com/news/home/20211126005136/en/Best-Oculus-Quest-Black-Friday-Cyber-Monday-Deals-2021-Top-Oculus-Quest-2-More-VR-Headset-Deals-Rated-by-Deal-Stripe)
+
+
+> November 26, 2021 02:55 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's a review of the best Oculus Quest deals for Black Friday & Cyber Monday 2021, together with all the best deals on 128GB & 256GB Oculus Quest 2 & more. Links to the latest deals are listed below. Best Oculus Quest Deals: Best VR Headset Deals: Interested in more deals? Click here to check out the entire range of active deals at Walmart's Black Friday & Cyber Monday sale and click here to see Amazon's latest Black Friday & Cyber Monday deals.
+
+
