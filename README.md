@@ -34121,3 +34121,53 @@
 > Our Len's Island Forgotten Island Map Guide will show you all of the interesting points on the starting island in the game such as the town, the first dungeon, a free sword, and more. Check out the Len's Island Map and associated key areas below! Where is the Len's Island Map? If you're looking for the Len's Island map, there's a bit of bad news -- the Early Access version of the game has launched without a map or minimap at all. The island you start on is called "The Forgotten Island," but you won't discover the name until you've repaired the bridge to Bridgewater.
 
 
+***
+![China Tech Digest: Xiaomi, Huawei Co-invest In Battery Manufacturer; Tencent Leads Issue Of First International "Zero Trust" Standard](https://assets.chinamoneynetwork.com/wp-content/uploads/20210817022345/xiaomi-6-696x522.jpg "China Tech Digest: Xiaomi, Huawei Co-invest In Battery Manufacturer; Tencent Leads Issue Of First International "Zero Trust" Standard")
+
+
+[China Tech Digest: Xiaomi, Huawei Co-invest In Battery Manufacturer; Tencent Leads Issue Of First International "Zero Trust" Standard](https://www.chinamoneynetwork.com/2021/11/27/china-tech-digest-xiaomi-huawei-co-invest-in-battery-manufacturer-tencent-leads-issue-of-first-international-zero-trust-standard)
+
+
+> Xiaomi and Huawei co-invest in battery manufacturer Beijing WeLion New Energy Technology Co., Ltd., NIO's semi-solid battery supplier, will raise about RMB500 million from Xiaomi Inc. and Huawei Technologies. According to sources, Huawei, Xiaomi and Shunwei Capital have signed an agreement on the investment in August. Tencent leads the issue of first international "zero trust" standard ITU-T recently issued the "Guidelines for Continuous Protection of the Service Access Process" proposed by Tencent Holdings.
+
+
+***
+![Best Black Friday & Cyber Monday Fitbit Deals 2021: Fitbit Alta, Inspire, & More Savings Highlighted by Retail Fuse](https://mms.businesswire.com/media/20211126005118/en/836168/23/Black_Friday_2021_%28RF%29.jpg "Best Black Friday & Cyber Monday Fitbit Deals 2021: Fitbit Alta, Inspire, & More Savings Highlighted by Retail Fuse")
+
+
+[Best Black Friday & Cyber Monday Fitbit Deals 2021: Fitbit Alta, Inspire, & More Savings Highlighted by Retail Fuse](https://www.businesswire.com/news/home/20211126005118/en/Best-Black-Friday-Cyber-Monday-Fitbit-Deals-2021-Fitbit-Alta-Inspire-More-Savings-Highlighted-by-Retail-Fuse)
+
+
+> November 26, 2021 11:05 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday & Cyber Monday researchers are rating all the top Fitbit deals for Black Friday & Cyber Monday, together with savings on Fitbit Sense, and more activity trackers and smartwatches. Browse the latest deals using the links below. Top Fitbit deals: Save up to 54% on the latest Fitbit smartwatches, activity trackers & bands at Walmart - click the link for the latest prices on the latest Fitbit models such as the Sense, Versa 2, Charge 4, & more top-rated activity trackers Save up to $50 on best-selling Fitbit smartwatches & health trackers at BHPhotoVideo.
+
+
+***
+![DoD Creates New Group To Investigate Unexplained Aerial Sightings Due To "National Security Risk"](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-11/2021-11-26_11-49-54.png?itok=y9BO1kwc "DoD Creates New Group To Investigate Unexplained Aerial Sightings Due To "National Security Risk"")
+
+
+[DoD Creates New Group To Investigate Unexplained Aerial Sightings Due To "National Security Risk"](https://www.zerohedge.com/technology/dod-creates-new-group-investigate-unexplained-aerial-sightings-due-national-security)
+
+
+> There have been almost 150 reportings of unidentified aerial phenomena (UAP) over restricted US military areas. The Pentagon announced it would create a new group to search for answers to identify these mysterious objects. Deputy Secretary of Defense Kathleen Hicks announced Tuesday that the new group would be called the Airborne Object Identification and Management Synchronization Group (AOIMSG) and would lead an effort to "detect, identify and attribute objects" in restricted airspace. "Incursions by any airborne object into our Special Use Airspace (SUA) pose safety of flight and operations security concerns, and may pose national security challenges.
+
+
+***
+![How To Escape Google](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-11/google-jail-logo.jpg?itok=FqobhM_j "How To Escape Google")
+
+
+[How To Escape Google](https://www.zerohedge.com/technology/how-escape-google)
+
+
+> Submitted by swprs.org,Do you belong to the 94% of Internet users who have no clue?Google Search has a US online search market share of about 70%, or even 94% if Google Images, Google Maps and Google-owned YouTube are added (see chart above).If you belong to these 94%, there is some bad news for you.As a well-known US podcaster recently discovered, Google is indeed 'hiding information' from its users. This has actually been known for many years, but it has become especially obvious and serious during the coronavirus pandemic.
+
+
+***
+![Garena Free Fire November 27 Redeem Codes: Get Free Fire diamond codes](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/11/27/1007224-garena-free-fire-most-new.jpg "Garena Free Fire November 27 Redeem Codes: Get Free Fire diamond codes")
+
+
+[Garena Free Fire November 27 Redeem Codes: Get Free Fire diamond codes](https://www.dnaindia.com/technology/report-garena-free-fire-november-27-redeem-codes-get-free-fire-diamond-codes-steps-to-redeem-today-s-free-codes-2921417)
+
+
+> Action-adventure battle royal game Garena Free Fire is available on Play Store and is becoming hugely popular among e-gamers.  Garena periodically releases redeem 14-digit codes which is a combination of letters and words. However, Free Fire redemption codes are restricted to a specific server. Players also get free rewards on a daily basis and these codes can be used to get the benefit of unlocking certain steps and getting various reward points. Garena Free Fire redeem codes can be claimed via the game's official website -  garena.
+
+
