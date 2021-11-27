@@ -34211,3 +34211,43 @@
 > Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
 
 
+***
+![Xiaomi to open car plant in Beijing with annual output of 300,000 vehicles](https://apicms.thestar.com.my/uploads/images/2021/11/27/1383843.jpg "Xiaomi to open car plant in Beijing with annual output of 300,000 vehicles")
+
+
+[Xiaomi to open car plant in Beijing with annual output of 300,000 vehicles](https://www.thestar.com.my/tech/tech-news/2021/11/27/xiaomi-to-open-car-plant-in-beijing-with-annual-output-of-300000-vehicles---beijing-govt)
+
+
+> FILE PHOTO: The Xiaomi logo is seen at a Xiaomi shop in Shanghai, China May 12, 2021. REUTERS/Aly Song/File Photo SHANGHAI (Reuters) - Chinese smartphone giant Xiaomi Corp will build a plant that can produce 300,000 vehicles annually in Beijing for its electric vehicle unit, authorities in the capital said on Saturday. The plant will be constructed in two phases and Xiaomi will also built its auto unit's headquarters, sales and research offices in the Beijing Economic and Technological Development Zone, the government-backed economic development agency Beijing E-Town said on its official WeChat account.
+
+
+***
+![Black Friday & Cyber Monday Verizon Wireless Deals 2021: Top Apple Watch, Galaxy, Pixel & More Savings Collated by Saver Trends](https://mms.businesswire.com/media/20211127005011/en/835912/23/Black_Friday_2021_%28ST%29.jpg "Black Friday & Cyber Monday Verizon Wireless Deals 2021: Top Apple Watch, Galaxy, Pixel & More Savings Collated by Saver Trends")
+
+
+[Black Friday & Cyber Monday Verizon Wireless Deals 2021: Top Apple Watch, Galaxy, Pixel & More Savings Collated by Saver Trends](https://www.businesswire.com/news/home/20211127005011/en/Black-Friday-Cyber-Monday-Verizon-Wireless-Deals-2021-Top-Apple-Watch-Galaxy-Pixel-More-Savings-Collated-by-Saver-Trends)
+
+
+> November 27, 2021 07:10 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday & Cyber Monday 2021 sales experts at Saver Trends have compared the latest Verizon deals for Black Friday & Cyber Monday 2021, together with all the top offers on the Apple Watch SE, Pixel 5, Galaxy S20, iPhone 12 & more. Explore the best deals in the list below. Best Verizon Deals: Bring your phone and get a $500 gift card at Verizon - plus, add a line and get a select phone on Verizon. With select Unlimited plans.
+
+
+***
+![How do you turn off the internet?](https://ichef.bbci.co.uk/news/1024/branded_news/149E9/production/_121575448_p0b4fv38.jpg "How do you turn off the internet?")
+
+
+[How do you turn off the internet?](https://www.bbc.co.uk/news/av/technology-59305813)
+
+
+> How easy would it be for a government to block access to one of our biggest sources of news and information?
+
+
+***
+![What are algorithms?](https://ichef.bbci.co.uk/news/1024/branded_news/F380/production/_121563326_p0b4bn4d.jpg "What are algorithms?")
+
+
+[What are algorithms?](https://www.bbc.co.uk/news/av/technology-59294258)
+
+
+> A huge amount of our lives - from what appears in our social media feeds to what route our sat-nav tells us to take - is influenced by algorithms.Here's how they work and why they play such a big part in our lives.
+
+
