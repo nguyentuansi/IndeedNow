@@ -34071,3 +34071,53 @@
 > November 26, 2021 02:55 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's a review of the best Oculus Quest deals for Black Friday & Cyber Monday 2021, together with all the best deals on 128GB & 256GB Oculus Quest 2 & more. Links to the latest deals are listed below. Best Oculus Quest Deals: Best VR Headset Deals: Interested in more deals? Click here to check out the entire range of active deals at Walmart's Black Friday & Cyber Monday sale and click here to see Amazon's latest Black Friday & Cyber Monday deals.
 
 
+***
+![Epic's latest Fortnite teaser all but confirms entirely new Chapter 3 map](https://cdn.slashgear.com/wp-content/uploads/2021/11/epic-fortnite-chapter-3-tweet-map.jpg "Epic's latest Fortnite teaser all but confirms entirely new Chapter 3 map")
+
+
+[Epic's latest Fortnite teaser all but confirms entirely new Chapter 3 map](https://www.slashgear.com/epics-latest-fortnite-teaser-all-but-confirms-entirely-new-chapter-3-map-26700544/)
+
+
+> Epic Games has kicked off Black Friday by dropping a new Fortnite Chapter 3 teaser, one that all but confirms players will, indeed, drop onto an entirely new map once the current season ends. Rumors about the new map have been circulating for a while, but the first real indication came from Epic itself with the Chapter 3 announcement. Epic Games/YouTube Following rumors about a big change, Epic confirmed that Fortnite‘s current season will be the last in the game's second chapter, meaning next month will bring the big Chapter 3 update.
+
+
+***
+![Take advantage of huge Black Friday discounts on these apps and software deals](https://i0.wp.com/boingboing.net/wp-content/uploads/2021/11/sale_293370_article_image.jpeg?fit=1200%2C800&ssl=1 "Take advantage of huge Black Friday discounts on these apps and software deals")
+
+
+[Take advantage of huge Black Friday discounts on these apps and software deals](https://boingboing.net/2021/11/26/take-advantage-of-huge-black-friday-discounts-on-these-apps-and-software-deals.html)
+
+
+> We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. Black Friday is here, and it's time to take advantage of the deals of the year. Whether you're using this unofficial holiday to get a head start on your holiday gift lists, looking for something special for the person who has it all, or are shopping for yourself, consider these price-slashed apps, software, and e-learning courses. Learn a new skill, optimize your work-from-home efficiency, or study a language with these 25 apps and software.
+
+
+***
+![Get This Soundbar & Subwoofer Combo For $50 Less Than Usual](https://www.androidheadlines.com/wp-content/uploads/2021/11/Polk-Audio-Soundbar-Deal.jpg "Get This Soundbar & Subwoofer Combo For $50 Less Than Usual")
+
+
+[Get This Soundbar & Subwoofer Combo For $50 Less Than Usual](https://www.androidheadlines.com/2021/11/polk-audio-soundbar-subwoofer-deal.html)
+
+
+> If you want decent audio for movies, TV, and games but without having to get a home theater system, get a soundbar, like the deal on this one from Polk Audio. For Black Friday Amazon is taking $50 off the price of this Polk Audio Signa S2 soundbar and subwoofer combo, a deal that brings the price down to just $150.It can support wireless and HDMI connection types. Plus it supports optical and comes with its own HDMI and optical cables. Meaning you have a couple less things to buy to get this up and running with your TV.
+
+
+***
+![Look no further — this is THE best Black Friday deal on Oculus Quest 2](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/09/oculus-quest-2-open-present.jpg "Look no further — this is THE best Black Friday deal on Oculus Quest 2")
+
+
+[Look no further — this is THE best Black Friday deal on Oculus Quest 2](https://www.androidcentral.com/look-no-further-best-black-friday-deal-oculus-quest-2)
+
+
+> It's now been just over a year since the Oculus Quest 2 came out — now rebranded to the Meta Quest 2 after Facebook's company name changed to Meta — and the VR console is finally on sale for Black Friday. The best Black Friday Quest 2 deals are aplenty, but this one is the best one of all. When you buy a Quest 2 from any participating retailer, you get a $50 gift card that can be used for anything at that store. If you're planning to buy a Quest 2 for someone else this year, buying from Amazon or Best Buy is likely your best bet.
+
+
+***
+![Len's Island Map Guide](https://techraptor.net/sites/default/files/styles/image_header/public/2021-11/Len%27s%20Island%20Forgotten%20Island%20Map%20-%20cover.jpg?itok=3_9a80nZ "Len's Island Map Guide")
+
+
+[Len's Island Map Guide](https://techraptor.net/gaming/guides/lens-island-map-guide-forgotten-island)
+
+
+> Our Len's Island Forgotten Island Map Guide will show you all of the interesting points on the starting island in the game such as the town, the first dungeon, a free sword, and more. Check out the Len's Island Map and associated key areas below! Where is the Len's Island Map? If you're looking for the Len's Island map, there's a bit of bad news -- the Early Access version of the game has launched without a map or minimap at all. The island you start on is called "The Forgotten Island," but you won't discover the name until you've repaired the bridge to Bridgewater.
+
+
