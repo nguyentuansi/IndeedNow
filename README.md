@@ -34171,3 +34171,43 @@
 > Action-adventure battle royal game Garena Free Fire is available on Play Store and is becoming hugely popular among e-gamers.  Garena periodically releases redeem 14-digit codes which is a combination of letters and words. However, Free Fire redemption codes are restricted to a specific server. Players also get free rewards on a daily basis and these codes can be used to get the benefit of unlocking certain steps and getting various reward points. Garena Free Fire redeem codes can be claimed via the game's official website -  garena.
 
 
+***
+![Samsung Galaxy Note Likely to Be Discontinued](https://telecomtalk.info/wp-content/uploads/2021/11/samsung-galaxy-note-likely-to-be-discontinued-1.jpg "Samsung Galaxy Note Likely to Be Discontinued")
+
+
+[Samsung Galaxy Note Likely to Be Discontinued](https://telecomtalk.info/samsung-galaxy-note-likely-to-be-discontinued/481622/)
+
+
+> Samsung has likely put an end to the ongoing rumours regarding the Galaxy Note devices.The flagship series from Samsung will comprise the Galaxy S22 series and the foldable devices - Galaxy Z Fold 3 and Galaxy Z Flip 3.It is all set to halt the production of the latest model in the series - the Galaxy Note 20 this year.Samsung unveiled the last Note series smartphone - the Galaxy Note 20 in August last year. Since then, the company has not unveiled any device in this series. It looks like the company has ended up not making these devices as it did not launch a sequel to the device in 2021.
+
+
+***
+![Turkish president due in Turkmenistan for official visit](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/11/27/bc37e0b6-tn1kyd32xwdija6fz6v2y.jpeg "Turkish president due in Turkmenistan for official visit")
+
+
+[Turkish president due in Turkmenistan for official visit](https://www.yenisafak.com/en/news/turkish-president-due-in-turkmenistan-for-official-visit-3585013)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
+
+
+***
+![Turkey rescues 29 asylum seekers pushed back by Greece](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/11/27/98dc7be4-88kt0p9ov0886wfh6n9ly9.jpeg "Turkey rescues 29 asylum seekers pushed back by Greece")
+
+
+[Turkey rescues 29 asylum seekers pushed back by Greece](https://www.yenisafak.com/en/news/turkey-rescues-29-asylum-seekers-pushed-back-by-greece-3585005)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
+
+
+***
+![Turkish president inaugurates new houses for Izmir quake victims](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/11/27/8fa82b4d-6xugkssgi1jfovhf6gn8vt.jpeg "Turkish president inaugurates new houses for Izmir quake victims")
+
+
+[Turkish president inaugurates new houses for Izmir quake victims](https://www.yenisafak.com/en/news/turkish-president-inaugurates-new-houses-for-izmir-quake-victims-3585004)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
+
+
