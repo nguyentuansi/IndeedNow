@@ -34291,3 +34291,53 @@
 > We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. Every year on Black Friday, we see incredible deals in every industry. TVs, appliances, toys, even vehicles. This roundup concerns a different Doorbuster story: skills. Each of the 20 items on… READ THE REST
 
 
+***
+![Bet365 News, Updates, Videos and Photos from Tech Observer](https://i2.wp.com/techobserver.in/wp-content/uploads/2019/11/400x400.png?fit=400%2C400&ssl=1 "Bet365 News, Updates, Videos and Photos from Tech Observer")
+
+
+[Bet365 News, Updates, Videos and Photos from Tech Observer](https://techobserver.in/topic/bet365/)
+
+
+> The global sports betting market is suspected to be worth over $1 trillion including the underground market.
+
+
+***
+![Tesla moves to AMD chip in new Model Y in China](https://img.dtnext.in/Articles/2021/Nov/202111272255567715_Tesla-moves-to-AMD-chip-in-new-Model-Y-in-China_SECVPF.gif "Tesla moves to AMD chip in new Model Y in China")
+
+
+[Tesla moves to AMD chip in new Model Y in China](https://www.dtnext.in/Lifestyle/Technology/2021/11/27225557/1331002/Tesla-moves-to-AMD-chip-in-new-Model-Y-in-China.vpf)
+
+
+> After moving to AMD in the new Model S, Elon Musk-owned electric vehicle company Tesla has reportedly started using a new AMD chip in new Model Y vehicles in China. Beijing:  According to Electrek, the electric car maker is now using the US-based semiconductor company AMD's Ryzen chip for the Model Y Performance's MCU.It is not clear if only the new Model Y Performance is using the AMD chip, but all variants of a Tesla vehicle generally use the same onboard computer.Tesla also used AMD to power the new entertainment computer in the new refreshed Model S, the report said.
+
+
+***
+![Spotify now ending support 'Car View' mode](https://img.dtnext.in/Articles/2021/Nov/202111272248516836_Spotify-now-ending-support-Car-View-mode_SECVPF.gif "Spotify now ending support 'Car View' mode")
+
+
+[Spotify now ending support 'Car View' mode](https://www.dtnext.in/Lifestyle/Technology/2021/11/27224852/1331000/Spotify-now-ending-support-Car-View-mode.vpf)
+
+
+> In a post on its community platform, the company confirmed that it is retiring the feature. San Francisco: "We can confirm that we are retiring the car view feature. This, however, does not mean we do not want to improve on how our users listen to Spotify while driving. On the contrary, we are actively exploring a variety of new ways to deliver the best in-car listening experience," the post reads."Think of retiring car-view as something that needs to happen in an effort to make way for new innovations coming down the track," it added.
+
+
+***
+![New Apple HomePod mini adds vibrant colours to music](https://img.dtnext.in/Articles/2021/Nov/202111272243002064_New-Apple-HomePod-mini-adds-vibrant-colours-to-music_SECVPF.gif "New Apple HomePod mini adds vibrant colours to music")
+
+
+[New Apple HomePod mini adds vibrant colours to music](https://www.dtnext.in/Lifestyle/Technology/2021/11/27224300/1330997/New-Apple-HomePod-mini-adds-vibrant-colours-to-music.vpf)
+
+
+> Published: Nov 27,202110:43 PM by IANS Vivid colours bring unbound happiness in life and when mixed well with technology, they can create a beautiful experience at home or in an office environment. Now add music to colours and technology and voila! You have what is called the new Apple HomePod mini. Apple Homepod. Image: Reuters New Delhi: Apple HomePod mini is now available in three bold colours -- yellow, orange and blue (in addition to white and space grey) -- giving users in India more ways to express their personality and style in any space.
+
+
+***
+![Best Black Friday & Cyber Monday Garmin Deals (2021): Garmin Forerunner, vivoactive, fenix & More Sales Ranked by Retail Egg](https://mms.businesswire.com/media/20211127005068/en/836277/23/Black_Friday_2021_%28RE%29.jpg "Best Black Friday & Cyber Monday Garmin Deals (2021): Garmin Forerunner, vivoactive, fenix & More Sales Ranked by Retail Egg")
+
+
+[Best Black Friday & Cyber Monday Garmin Deals (2021): Garmin Forerunner, vivoactive, fenix & More Sales Ranked by Retail Egg](https://www.businesswire.com/news/home/20211127005068/en/Best-Black-Friday-Cyber-Monday-Garmin-Deals-2021-Garmin-Forerunner-vivoactive-fenix-More-Sales-Ranked-by-Retail-Egg)
+
+
+> November 27, 2021 03:00 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday & Cyber Monday Garmin deals have landed. Compare the best savings on Garmin fenix, vivoactive, Forerunner, Instinct & more. Shop the full selection of deals listed below. Best Garmin Deals: Best Garmin Watch Deals: Save up to 36% on Garmin Forerunner, vivoactive, fenix series & more Garmin smartwatches at Walmart - check the latest deals on a wide range of standard & premium Garmin GPS smartwatches Save up to 40% off on Garmin smartwatches with GPS & multisports features at Garmin.
+
+
