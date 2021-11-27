@@ -34251,3 +34251,43 @@
 > A huge amount of our lives - from what appears in our social media feeds to what route our sat-nav tells us to take - is influenced by algorithms.Here's how they work and why they play such a big part in our lives.
 
 
+***
+![Bharti Airtel Retracts Additional Data Offer from Prepaid Plans](https://telecomtalk.info/wp-content/uploads/2021/11/bharti-airtel-retracts-additional-data-offer-from.jpeg "Bharti Airtel Retracts Additional Data Offer from Prepaid Plans")
+
+
+[Bharti Airtel Retracts Additional Data Offer from Prepaid Plans](https://telecomtalk.info/bharti-airtel-retracts-additional-data-offer-from/481844/)
+
+
+> In the recent development of events, Airtel has decided to take back some of the data benefits it was offering as an additional benefit along with some of its prepaid plans. The telecom giant said that the move will be helpful in avoiding any confusion that customers might have while comparing and choosing the plan for themselves. As reported earlier Airtel has also increased the prices of its plans by around 20% - 25% which includes tariffed voice and data top-ups. The new prices have come into effect from November 26.
+
+
+***
+![Top 3 Technical Analysis Charts for Trading](https://a.c-dn.net/b/1lSC05/headline_GettyImages-184965383.jpg "Top 3 Technical Analysis Charts for Trading")
+
+
+[Top 3 Technical Analysis Charts for Trading](https://www.dailyfx.com/education/learn-technical-analysis/top-3-technical-analysis-charts-for-trading.html)
+
+
+> - Reviewed by James Stanlely, Nov. 24, 2021Technical analysis charts: Talking PointsTechnical analysis of charts aims to identify patterns and market trends by utilising differing forms of technical chart types and other chart functions. Interpreting charts can be intimidating for novice traders, so understanding basic technical analysis is essential. This article reveals popular types of technical analysis charts used in forex trading, outlining the foundations and uses of these chart types. How many types of charts are there?There are three main types of technical analysis charts: candlestick, bar, and line charts.
+
+
+***
+![How to Trade Shooting Star Candlestick Patterns](https://a.c-dn.net/b/4zYmwF/headline_GettyImages-1201625965.jpg "How to Trade Shooting Star Candlestick Patterns")
+
+
+[How to Trade Shooting Star Candlestick Patterns](https://www.dailyfx.com/education/candlestick-patterns/shooting-star-pattern.html)
+
+
+> - Reviewed by James Stanley, Nov. 24, 2021Trading with Shooting Star Candlesticks: Main Talking PointsJapanese candlesticks are a popular charting technique used by many traders, and the shooting star candle is no exception. This article will cover the shooting star reversal pattern in depth and how to use it to trade forex. What is a shooting star candlestick pattern?  Advantages of using the shooting star in technical analysis    Trading the shooting star pattern   Further reading on how to trade with Candlesticks   What is a shooting star candlestick pattern?A shooting star formation is a bearish reversal pattern that consists of just one candle.
+
+
+***
+![Watch: Man sorely punished by kitty for kicking his pet out of a chair](https://i0.wp.com/boingboing.net/wp-content/uploads/2021/11/cat-1.jpg?fit=1126%2C806&ssl=1 "Watch: Man sorely punished by kitty for kicking his pet out of a chair")
+
+
+[Watch: Man sorely punished by kitty for kicking his pet out of a chair](https://boingboing.net/2021/11/27/watch-man-sorely-punished-by-kitty-for-kicking-his-pet-out-of-a-chair.html)
+
+
+> We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. Every year on Black Friday, we see incredible deals in every industry. TVs, appliances, toys, even vehicles. This roundup concerns a different Doorbuster story: skills. Each of the 20 items on… READ THE REST
+
+
