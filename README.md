@@ -34441,3 +34441,53 @@
 > November 27, 2021 09:30 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday & Cyber Monday deals experts have listed the latest AirPods Pro deals for Black Friday & Cyber Monday, featuring sales on best-selling AirPods models. Access the best deals using the links below. Best AirPods Pro deals: Best AirPods Deals: Best Apple Deals: Save up to $1,000 on the latest Apple iPhones at Verizon.com - click the link to check the latest deals on Apple iPhone 13, 12, 11, 11 Pro Max, XR, X, 8 & more top-rated smartphones Save up to $400 on Apple iPhone 13, 12, SE & more top-rated smartphones at Xfinity.
 
 
+***
+![Xiaomi to open car plant in Beijing with annual output of 300,000 vehicles: Beijing](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202111/f5b7c6eb381d40e39495e60306948e1e.jpg "Xiaomi to open car plant in Beijing with annual output of 300,000 vehicles: Beijing")
+
+
+[Xiaomi to open car plant in Beijing with annual output of 300,000 vehicles: Beijing](https://www.koreatimes.co.kr/www/tech/2021/11/133_319591.html)
+
+
+> The Xiaomi logo is seen at a Xiaomi shop in Shanghai, China, May 12. Reuters-YonhapChinese smartphone giant Xiaomi will build a plant that can produce 300,000 vehicles annually in Beijing for its electric vehicle unit, authorities in the capital said on Saturday.The plant will be constructed in two phases and Xiaomi will also built its auto unit's headquarters, sales and research offices in the Beijing Economic and Technological Development Zone, the government-backed economic development agency Beijing E-Town said on its official WeChat account.
+
+
+***
+![Lot sales for I'Park studio apartment to begin in Cheongna International City](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202111/13ce76f44afb4feca0907cbeced4b0ca.jpg "Lot sales for I'Park studio apartment to begin in Cheongna International City")
+
+
+[Lot sales for I'Park studio apartment to begin in Cheongna International City](https://www.koreatimes.co.kr/www/tech/2021/11/419_319587.html)
+
+
+> Overview of the I'Park studio apartment twin towers in the multinational corporate district of Cheongna International City in Incheon / Courtesy of HDC Hyundai Development Co.By Yi Whan-wooHDC Hyundai Development Co., a major property developer, is offering a studio apartment with 1,020 units in the multinational corporate district of Cheongna International City in Incheon.The units will go on sale Dec. 1, under the I'Park brand that has raised consumer awareness, preference and brand value over the years.
+
+
+***
+![Twitter may launch ''Reactions'' feature soon; here's what it will offer](https://english.cdn.zeenews.com/sites/default/files/2021/11/28/991224-download-7-3.jpg "Twitter may launch ''Reactions'' feature soon; here's what it will offer")
+
+
+[Twitter may launch ''Reactions'' feature soon; here's what it will offer](https://zeenews.india.com/technology/twitter-may-launch-reactions-feature-soon-here-s-what-it-will-offer-2414267.html)
+
+
+> New Delhi: After unveiling several features this year, micro-blogging site Twitter is reportedly readying new features, including Reactions, Downvotes and Sorted Replies for iOS users. According to reverse engineer Nima Owji, the Reactions feature, which started being tested a couple of months ago, is set to launch soon, reports 9To5Mac. With four new reactions, "tears of joy," "thinking face," "clapping hands" and "crying face," this feature is designed to give users the ability to better show how conversations make them feel and to give users "a better understanding of how their Tweets are received".
+
+
+***
+![Battle.net has recovered from DDoS attack, Blizzard says](http://www.businessghana.com/site/img/../../cms/img/news/2021-11-26-165256003.jpg "Battle.net has recovered from DDoS attack, Blizzard says")
+
+
+[Battle.net has recovered from DDoS attack, Blizzard says](https://www.businessghana.com/)
+
+
+> Blizzard says that the Distributed Denial of Service (DDoS) attacks that were overwhelming its servers with coordinated traffic are over, and that you should be able to log into Battle.net again. During the almost hour-long Wednesday evening attack, you may have experienced serious issues trying to get onto the online service underpinning Overwatch, Call of Duty: Warzone, Hearthstone, Diablo's online features and more. Blizzard stated that the issue was caused by a DDoS on its verified customer service Twitter account, and additionally in a 'Breaking News' item you may have seen in the PC Battle.
+
+
+***
+![UK privacy watchdog warns adtech the end of tracking is nigh](http://www.businessghana.com/site/img/../../cms/img/news/2021-11-26-1650280003.jpg "UK privacy watchdog warns adtech the end of tracking is nigh")
+
+
+[UK privacy watchdog warns adtech the end of tracking is nigh](https://www.businessghana.com/)
+
+
+> It's been well over two years since the UK's data protection watchdog warned the behavioural advertising industry it's wildly out of control. The ICO hasn't done anything to stop the systematic unlawfulness of the tracking and targeting industry abusing Internet users' personal data to try to manipulate their attention — not in terms of actually enforcing the law against offenders and stopping what digital rights campaigners have described as the biggest data breach in history. Indeed, it's being sued over inaction against real-time-bidding's misuse of personal data by complainants who filed a petition on the issue all the way back in September 2018.
+
+
