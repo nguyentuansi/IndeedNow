@@ -34391,3 +34391,53 @@
 > Dhruv Bhutani / Android AuthorityWhatsApp is, hands-down, the most popular messaging platform in the world. With over two billion monthly users, there's a good chance that any person you might want to reach out to is available on the service. However, despite its popularity, the service lacks one key feature — the ability to message a number without adding them as a contact in your phonebook.Every so often you might want to reach out to a business or service contact for a one-time chat but adding the number to your phonebook could mean needless clutter.
 
 
+***
+![Garena Free Fire November 28 Redeem Codes: Get Free Fire diamond, free pet codes](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/11/28/1007329-1005135-garena-free-fire-codes-new.jpg "Garena Free Fire November 28 Redeem Codes: Get Free Fire diamond, free pet codes")
+
+
+[Garena Free Fire November 28 Redeem Codes: Get Free Fire diamond, free pet codes](https://www.dnaindia.com/technology/report-garena-free-fire-november-28-redeem-codes-get-free-fire-diamond-codes-how-steps-to-redeem-today-s-free-codes-2921518)
+
+
+> Garena Free Fire, which is an action-adventure battle royal game, is rapidly gaining popularity in India. The game is available for free on Google Play Store. It is to be noted that Garena releases 14-digit codes on a daily basis and these redeem codes are actually a combination of letters and words. But the redemption codes are restricted to a specific server. Free Fire players get free rewards on a daily basis and the Free Fire players can use these redeem codes to get the benefit of unlocking certain steps and getting various reward points.
+
+
+***
+![Black Friday & Cyber Monday LG OLED TV Deals (2021) Identified by Retail Egg](https://mms.businesswire.com/media/20211127005185/en/836277/23/Black_Friday_2021_%28RE%29.jpg "Black Friday & Cyber Monday LG OLED TV Deals (2021) Identified by Retail Egg")
+
+
+[Black Friday & Cyber Monday LG OLED TV Deals (2021) Identified by Retail Egg](https://www.businesswire.com/news/home/20211127005185/en/Black-Friday-Cyber-Monday-LG-OLED-TV-Deals-2021-Identified-by-Retail-Egg)
+
+
+> November 27, 2021 11:00 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our round-up of the top LG OLED TV deals for Black Friday & Cyber Monday 2021, featuring offers on LG ThinQ, C9, GX and more. Links to the best deals are listed below. Best LG OLED TV Deals: Best LG TV Deals: Save up to 35% on LG TVs including deals on bundles at Walmart - check the latest deals on LG smart TVs in all sizes including 4K UHD models Save up to 43% on LG 65-inch NanoCell, UHD, or OLED smart TVs at Walmart - check the latest prices on 65-inch LG smart TVs that can also come bundled with Deco Gear Home Theater Soundbar, HDMI cable, and wall mount Save up to 55% on 55-inch LG smart TVs and special bundles at Walmart - includes deals on the LG NanoCell and LG OLED series plus units bundled with a soundbar, cables, and wall mount Save up to $1100 on 77-inch LG OLED, NanoCell, and UHD smart TVs at Walmart - check live prices on these LG smart TVs including deals with extended 1-year warranty Save up to $503 on a wide selection of LG OLED TVs at Walmart - see the latest deals on 45-inch, 55-inch, 65-inch, 77-inch, and larger LG OLED smart TVs and bundles Best TV Deals: Save up to 57% off on top-rated 4K TVs from Samsung, LG, Vizio, TCL & more top brands at Walmart - check latest deals on 4K Ultra HD, LED and smart TVs Save up to 43% off on the latest smart TVs (2021 models) at Walmart - get the latest deals on top-rated smart TVs from top brands including Samsung, LG, Sony, Hisense, & more Save up to $703 on a wide range of smart TV & 4K TVs at Amazon.
+
+
+***
+![LG TV Black Friday & Cyber Monday Deals 2021: Best 55 Inch, 65 Inch & 77 Inch 4K TV Savings Reviewed by Consumer Walk](https://mms.businesswire.com/media/20211127005161/en/836021/23/Black_Friday_2021_%28CW%29.jpg "LG TV Black Friday & Cyber Monday Deals 2021: Best 55 Inch, 65 Inch & 77 Inch 4K TV Savings Reviewed by Consumer Walk")
+
+
+[LG TV Black Friday & Cyber Monday Deals 2021: Best 55 Inch, 65 Inch & 77 Inch 4K TV Savings Reviewed by Consumer Walk](https://www.businesswire.com/news/home/20211127005161/en/LG-TV-Black-Friday-Cyber-Monday-Deals-2021-Best-55-Inch-65-Inch-77-Inch-4K-TV-Savings-Reviewed-by-Consumer-Walk)
+
+
+> November 27, 2021 09:45 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday & Cyber Monday deals experts have compared the best LG TV deals for Black Friday & Cyber Monday, featuring deals on UHD & OLED Smart TVs. Links to the latest deals are listed below. Best LG TV deals: Save up to 35% on LG TVs including deals on bundles at Walmart - check the latest deals on LG smart TVs in all sizes including 4K UHD models Save up to 43% on LG 65-inch NanoCell, UHD, or OLED smart TVs at Walmart - check the latest prices on 65-inch LG smart TVs that can also come bundled with Deco Gear Home Theater Soundbar, HDMI cable, and wall mount Save up to 55% on 55-inch LG smart TVs and special bundles at Walmart - includes deals on the LG NanoCell and LG OLED series plus units bundled with a soundbar, cables, and wall mount Save up to 40% on a wide range of LG OLED TVs at Walmart - click the link for live prices on 45-inch, 55-inch, 65-inch, 77-inch, and larger LG OLED smart TVs and bundles Save up to $1000 on the bestselling LG C1 OLED at Walmart - the LG C1 model features AI Sound Pro, OLED Display and Magic Remote plus Game Optimizer setting Save up to $1100 on 77-inch LG OLED, NanoCell, and UHD smart TVs at Walmart - check live prices on these LG smart TVs including deals with extended 1-year warranty Save up to $503 on a wide selection of LG OLED TVs at Walmart - see the latest deals on on 45-inch, 55-inch, 65-inch, 77-inch, and larger LG OLED smart TVs and bundles Save up to 28% on various models of LG TVs including LG OLED at Amazon.
+
+
+***
+![Is Peak Social Media Already Behind Us?](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-11/2021-11-27_11-06-14.jpg?h=297356d6&itok=hlcY4Xwp "Is Peak Social Media Already Behind Us?")
+
+
+[Is Peak Social Media Already Behind Us?](https://www.zerohedge.com/technology/peak-social-media-already-behind-us)
+
+
+> The growth of social media's influence in our daily digital lives has been astounding over the last few years. According to figures in the latest Statista Digital Economy Compass, the global average time spent using social media platforms per day is 142 minutes in 2021 - far higher than the 90 minutes recorded in 2012.However, as Statista's Martin Armstrong details below, this growth has plateaued in recent years and the latest figure even represents a year-over-year decrease of three minutes.You will find more infographics at StatistaSo, 17 years after the birth of Facebook, is peak social media already behind us?This is a question analysts and investors have been pondering for a few years already.
+
+
+***
+![AirPods Pro Black Friday & Cyber Monday Deals 2021: Top Apple AirPods Deals Published by Deal Stripe](https://mms.businesswire.com/media/20211127005184/en/836771/23/Black_Friday_2021_%28DS%29.jpg "AirPods Pro Black Friday & Cyber Monday Deals 2021: Top Apple AirPods Deals Published by Deal Stripe")
+
+
+[AirPods Pro Black Friday & Cyber Monday Deals 2021: Top Apple AirPods Deals Published by Deal Stripe](https://www.businesswire.com/news/home/20211127005184/en/AirPods-Pro-Black-Friday-Cyber-Monday-Deals-2021-Top-Apple-AirPods-Deals-Published-by-Deal-Stripe)
+
+
+> November 27, 2021 09:30 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Black Friday & Cyber Monday deals experts have listed the latest AirPods Pro deals for Black Friday & Cyber Monday, featuring sales on best-selling AirPods models. Access the best deals using the links below. Best AirPods Pro deals: Best AirPods Deals: Best Apple Deals: Save up to $1,000 on the latest Apple iPhones at Verizon.com - click the link to check the latest deals on Apple iPhone 13, 12, 11, 11 Pro Max, XR, X, 8 & more top-rated smartphones Save up to $400 on Apple iPhone 13, 12, SE & more top-rated smartphones at Xfinity.
+
+
