@@ -34591,3 +34591,33 @@
 > Kitty and Mimmy's New Umbrella is an adorable stop-motion animation from 1981. This 24-minute film is great for Hello Kitty fans of all ages. The plot is about Hello Kitty and her twin sister Mimmy, who receive umbrellas from their mother on a rainy day, and embark on an adventure. This sweet story is filled with ethereal eye candy, and will brighten your day. YouTube description:
 
 
+***
+![North America's EV Battery Network](https://ritholtz.com/wp-content/uploads/2021/10/battery.jpeg "North America's EV Battery Network")
+
+
+[North America's EV Battery Network](https://ritholtz.com/2021/11/north-americas-ev-battery-network/)
+
+
+> Canada Emerges as Cornerstone of North American Battery Supply Chain Source: Bloomberg North America has all of the critical ingredients needed for lithium-ion batteries for EVs: nickel, cobalt, lithium, graphite. Bloomberg: Britishvolt, a UK-headquartered cell manufacturing startup, plans to build a 60GWh plant in Quebec. While Stromvolt, a Canadian headquartered startup, is planning a 10GWh plant in Ontario. Combined with announcements south of the border, North America has plans for over 400GWh of capacity to be built this decade.
+
+
+***
+![IISF 2021 to celebrate creativity, science, tech, innovation](https://img.dtnext.in/Articles/2021/Nov/202111282244223002_IISF-2021-to-celebrate-creativity-science-tech-innovation_SECVPF.gif "IISF 2021 to celebrate creativity, science, tech, innovation")
+
+
+[IISF 2021 to celebrate creativity, science, tech, innovation](https://www.dtnext.in/Lifestyle/Technology/2021/11/28224422/1331179/IISF-2021-to-celebrate-creativity-science-tech-innovation.vpf)
+
+
+> Published: Nov 28,202110:44 PM by IANS Stating that science blended with creative innovation brings ease of living for common man, Union Science and Technology Minister Dr Jitendra Singh on Sunday said that it is not only a subject of research, but has assumed the dimensions of festivity in India. New Delhi: "Therefore, there is a need for celebrating Science Festival in every city and village of India to inspire the youth in critical thinking," he said at a curtain raiser event ahead of the seventh edition of India International Science Festival (IISF- 2021) to be held at Panaji from December 10 to 13.
+
+
+***
+![Microsoft's GitHub back online after two-hour outage](https://img.dtnext.in/Articles/2021/Nov/202111282237267205_Microsofts-GitHub-back-online-after-twohour-outage_SECVPF.gif "Microsoft's GitHub back online after two-hour outage")
+
+
+[Microsoft's GitHub back online after two-hour outage](https://www.dtnext.in/Lifestyle/Technology/2021/11/28223727/1331176/Microsofts-GitHub-back-online-after-twohour-outage.vpf)
+
+
+> Published: Nov 28,202110:37 PM by IANS Microsoft-owned open-source developer platform GitHub is back online after experiencing a more than two-hour-long outage, affecting thousands or potentially millions of developers that rely on its many services. San Francisco: GitHub started experiencing issues at around 3.45 p.m. ET on Saturday, with Git operations, API requests, GitHub actions, packages, pages, and pull requests all affected, reports The Verge."We are investigating errors affecting most GitHub services," said an incident update on the GitHub status page.
+
+
