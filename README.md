@@ -34541,3 +34541,53 @@
 > November 28, 2021 07:05 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our guide to the best 4K TV deals for Cyber Monday 2021, including deals on 4K HDR smart TVs from Sony, TCL, Samsung, Vizio and more. Browse the latest deals using the links below. Latest 4K TV deals: Save up to 50% off on top rated 4K TVs at Walmart - check latest deals on Ultra HD, LED, and smart TVs Save up to 43% on best selling 4K smart TVs at Walmart - check the latest savings on curved, flat, and framed designs Save up to $902 on 65-inch 4K TVs from Samsung, LG & more at Walmart - find deals on HDR, IPS LCD, OLED, QLED, and XLED type displays Save up to $502 off on 55-inch 4K TVs from top brands at Walmart - find the best deals from LG, Samsung, Sony, TCL, Hisense, and more Save up to 45% on best-selling 50-inch 4K TVs at Walmart - click the link to find great discounts on Ultra HD Smart TVs from Samsung, LG, JVC, and other leading brands Save up to 43% 32-inch HD TVs at Walmart - get live prices on a wide range of TV brands, including Samsung, Philips, TCL, LG, and more Save up to $903 on the latest 4K TVs at Amazon.
 
 
+***
+![Spike Chunsoft and Too Kyo Announce Enigma Archives Rain Code](https://www.playstationlifestyle.net/assets/uploads/2021/11/enigma-archives-rain-code.jpg "Spike Chunsoft and Too Kyo Announce Enigma Archives Rain Code")
+
+
+[Spike Chunsoft and Too Kyo Announce Enigma Archives Rain Code](https://www.playstationlifestyle.net/2021/11/28/enigma-archives-rain-code-announced/)
+
+
+> Developer Too Kyo Games and publisher Spike Chunsoft have announced Enigma Archives: Rain Code, a dark fantasy mystery game penned by Danganronpa series creator Kazutaka Kodaka.Kodaka will be joined by Danganronpa composer Masafumi Takada and illustrator Rui Komatsuzaki. No further information has been provided and platforms have yet to be announced. However, Spike Chunsoft and Too Kyo have opened up teaser websites in both English and Japanese, suggesting a global release.The English website states that Enigma Archives: Rain Code is pending rating by the United States' Entertainment Software Rating Board (ESRB), but the developer believes that it's 'likely' to receive a 17+ mature rating due to content that might not be appropriate for children.
+
+
+***
+![Like to shift gears? Here are some vehicles you can still get with a manual transmission](https://cdn.slashgear.com/wp-content/uploads/2021/11/bme-m3.jpg "Like to shift gears? Here are some vehicles you can still get with a manual transmission")
+
+
+[Like to shift gears? Here are some vehicles you can still get with a manual transmission](https://www.slashgear.com/like-to-shift-gears-here-are-some-vehicles-you-can-still-get-with-a-manual-transmission-28700557/)
+
+
+> Years back, it was easy to find vehicles with manual transmissions. Most models had a budget-friendly manual-transmission option that many people chose for fuel economy. In modern times, automatic transmissions are more fuel-efficient, and people who know how to drive a manual and choose that type of transmission are declining. You might think that only sports cars aimed at enthusiasts would come with manual transmissions today, and while they do, other non-enthusiast rides still allow you to row your own gears.
+
+
+***
+![Huawei Watch D to come with blood pressure monitoring feature](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200818181239.jpeg "Huawei Watch D to come with blood pressure monitoring feature")
+
+
+[Huawei Watch D to come with blood pressure monitoring feature](https://www.asianage.com/technology/gadgets/281121/huawei-watch-d-to-come-with-blood-pressure-monitoring-feature.html)
+
+
+> ANI Published : Nov 28, 2021, 5:41 pm IST Updated : Nov 28, 2021, 5:41 pm IST The product is in its final stages of testing, and reportedly the accuracy rate is really good  The Watch D will be one of the few wearables to measure blood pressure, and it will also be unique in Huawei's wearable portfolio with its design. (AP Photo) Shenzhen: Huawei is soon going to launch a new smartwatch and it's going to come with a pretty rare health feature. The tech giant has received certification for a wearable that will be able to monitor blood pressure.
+
+
+***
+![Trading the Falling Wedge Pattern](https://a.c-dn.net/b/4nx5tw/headline_GettyImages-1159375409.jpg "Trading the Falling Wedge Pattern")
+
+
+[Trading the Falling Wedge Pattern](https://www.dailyfx.com/education/technical-analysis-chart-patterns/falling-wedge.html)
+
+
+> - Reviewed by James Stanley, Nov. 24, 2021The falling wedge pattern (also known as the descending wedge) is a useful pattern that signals future bullish momentum. This article provides a technical approach to trading the falling wedge, using forex and gold examples, and highlights key points to keep in mind when trading this pattern. What is a falling wedge pattern?The falling wedge pattern is a continuation pattern formed when price bounces between two downward sloping, converging trendlines. It is considered a bullish chart formation but can indicate both reversal and continuation patterns – depending on where it appears in the trend.
+
+
+***
+![Kitty and Mimmy's new umbrella is the first ever Hello Kitty animation from 1981](https://i1.wp.com/boingboing.net/wp-content/uploads/2021/11/Screen-Shot-2021-11-26-at-1.30.50-PM.png?fit=811%2C454&ssl=1 "Kitty and Mimmy's new umbrella is the first ever Hello Kitty animation from 1981")
+
+
+[Kitty and Mimmy's new umbrella is the first ever Hello Kitty animation from 1981](https://boingboing.net/2021/11/28/kitty-and-mimmys-new-umbrella-is-the-first-ever-hello-kitty-animation-from-1981.html?utm_source=rss&utm_medium=rss&utm_campaign=kitty-and-mimmys-new-umbrella-is-the-first-ever-hello-kitty-animation-from-1981)
+
+
+> Kitty and Mimmy's New Umbrella is an adorable stop-motion animation from 1981. This 24-minute film is great for Hello Kitty fans of all ages. The plot is about Hello Kitty and her twin sister Mimmy, who receive umbrellas from their mother on a rainy day, and embark on an adventure. This sweet story is filled with ethereal eye candy, and will brighten your day. YouTube description:
+
+
