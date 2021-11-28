@@ -34491,3 +34491,53 @@
 > It's been well over two years since the UK's data protection watchdog warned the behavioural advertising industry it's wildly out of control. The ICO hasn't done anything to stop the systematic unlawfulness of the tracking and targeting industry abusing Internet users' personal data to try to manipulate their attention — not in terms of actually enforcing the law against offenders and stopping what digital rights campaigners have described as the biggest data breach in history. Indeed, it's being sued over inaction against real-time-bidding's misuse of personal data by complainants who filed a petition on the issue all the way back in September 2018.
 
 
+***
+![Are Black Friday deals worth it? Here's the truth](https://images.immediate.co.uk/production/volatile/sites/3/2021/11/Are-Black-Friday-deals-worth-it-4751d0a.png?quality=90&resize=620,413 "Are Black Friday deals worth it? Here's the truth")
+
+
+[Are Black Friday deals worth it? Here's the truth](https://www.radiotimes.com/technology/black-friday/are-black-friday-deals-worth-it/)
+
+
+> Having been constantly bombarded with Black Friday discounts for the last two weeks, we don't blame you for asking if the Black Friday deals are worth it. Every year, Black Friday serves up a tempting range of deals across everything from technology and home appliances to beauty and fashion. If you're on the lookout for a new phone or TV, it's the perfect opportunity to bag a bargain. However, these offers can often still mean parting with a decent chunk of cash. It's also easy to get swept up in the tidal wave of deals and to buy something you don't need.
+
+
+***
+![The Best Cell Phone Cyber Monday Deals 2021: Best Google Pixel, OnePlus, Samsung Galaxy & Apple iPhone Mobile Sales Compared by Retail Fuse](https://mms.businesswire.com/media/20211128005034/en/836168/23/Black_Friday_2021_%28RF%29.jpg "The Best Cell Phone Cyber Monday Deals 2021: Best Google Pixel, OnePlus, Samsung Galaxy & Apple iPhone Mobile Sales Compared by Retail Fuse")
+
+
+[The Best Cell Phone Cyber Monday Deals 2021: Best Google Pixel, OnePlus, Samsung Galaxy & Apple iPhone Mobile Sales Compared by Retail Fuse](https://www.businesswire.com/news/home/20211128005034/en/The-Best-Cell-Phone-Cyber-Monday-Deals-2021-Best-Google-Pixel-OnePlus-Samsung-Galaxy-Apple-iPhone-Mobile-Sales-Compared-by-Retail-Fuse)
+
+
+> November 28, 2021 07:10 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's a review of the best mobile phone deals for Cyber Monday 2021, featuring deals on Pixel 5, 6 & 6 Pro, Galaxy Note 20 & S21, iPhone 12 & 13 and more. Shop the latest deals in the list below. Best Cell Phone Deals: Save up to 80% on a wide range of Samsung Galaxy, iPhone, Pixel, LG & more top-rated smartphones at AT&T.com - check out the latest deals on flagship & budget-friendly smartphones from Apple iPhone, Samsung Galaxy, Google Pixel, OnePlus & more top brands, including trade in options Save up to $1,000 on Xfinity's best mobile deal of the year at Xfinity.
+
+
+***
+![LG TV Cyber Monday Deals 2021: C8 Series, G6 Series & More TV Deals Compiled by Deal Tomato](https://mms.businesswire.com/media/20211128005109/en/836216/23/Black_Friday_2021_%28DT%29.jpg "LG TV Cyber Monday Deals 2021: C8 Series, G6 Series & More TV Deals Compiled by Deal Tomato")
+
+
+[LG TV Cyber Monday Deals 2021: C8 Series, G6 Series & More TV Deals Compiled by Deal Tomato](https://www.businesswire.com/news/home/20211128005109/en/LG-TV-Cyber-Monday-Deals-2021-C8-Series-G6-Series-More-TV-Deals-Compiled-by-Deal-Tomato)
+
+
+> November 28, 2021 07:10 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Find the latest LG TV deals for Cyber Monday 2021, including C8 Series & G6 Series discounts. Check out the latest deals by clicking the links below. Best LG TV deals: Save up to 35% on LG TVs including deals on bundles at Walmart - check the latest deals on LG smart TVs in all sizes including 4K UHD models Save up to 43% on LG 65-inch NanoCell, UHD, or OLED smart TVs at Walmart - check the latest prices on 65-inch LG smart TVs that can also come bundled with Deco Gear Home Theater Soundbar, HDMI cable, and wall mount Save up to 55% on 55-inch LG smart TVs and special bundles at Walmart - includes deals on the LG NanoCell and LG OLED series plus units bundled with a soundbar, cables, and wall mount Save up to 40% on a wide range of LG OLED TVs at Walmart - click the link for live prices on 45-inch, 55-inch, 65-inch, 77-inch, and larger LG OLED smart TVs and bundles Save up to $1000 on the bestselling LG C1 OLED at Walmart - the LG C1 model features AI Sound Pro, OLED Display and Magic Remote plus Game Optimizer setting Save up to $1100 on 77-inch LG OLED, NanoCell, and UHD smart TVs at Walmart - check live prices on these LG smart TVs including deals with extended 1-year warranty Save up to $503 on a wide selection of LG OLED TVs at Walmart - see the latest deals on 45-inch, 55-inch, 65-inch, 77-inch, and larger LG OLED smart TVs and bundles Save up to 28% on various models of LG TVs including LG OLED at Amazon.
+
+
+***
+![85 & 86 Inch TV Cyber Monday Deals (2021): Best LG, Samsung, TCL & More TV Sales Researched by Spending Lab](https://mms.businesswire.com/media/20211128005116/en/835848/23/Black_Friday_2021_%28SL%29.jpg "85 & 86 Inch TV Cyber Monday Deals (2021): Best LG, Samsung, TCL & More TV Sales Researched by Spending Lab")
+
+
+[85 & 86 Inch TV Cyber Monday Deals (2021): Best LG, Samsung, TCL & More TV Sales Researched by Spending Lab](https://www.businesswire.com/news/home/20211128005116/en/85-86-Inch-TV-Cyber-Monday-Deals-2021-Best-LG-Samsung-TCL-More-TV-Sales-Researched-by-Spending-Lab)
+
+
+> November 28, 2021 07:05 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Cyber Monday 85 & 86 inch TV deals for 2021 have arrived. Compare the best deals on highly rated smart & 4K TVs from TCL, LG, Samsung & more. Shop the full selection of deals using the links below. Best (85, 86) Inch TV deals: Save up to $2,000 on a wide range of 85-inch TVs at Walmart - check the latest deals on 85 inch TVs from top brands like LG, Samsung, Sony & TCL Save up to $800 on 86-inch TVs from LG, Samsung, Sony & more top brands at Walmart - check live prices on best-selling 86-inch TVs featuring 4K resolution, QLED screen & smart functionalities Save up to $1000 on top-rated 85-inch QLED smart TVs at Walmart - check the latest deals on Samsung's 85-inch QLED TV with 4K & 8K resolution Save up to $800 on a wide selection of 86-inch TVs with Roku streaming at Walmart - including Roku Smart TVs from brands such as Samsung, Hisense, TCL & more Save up to $1000 on best-selling 85-inch 4K, 8K & smart TVs at Amazon.
+
+
+***
+![Cyber Monday 4K TV Deals 2021: LED, OLED & QLED 4K Smart TV Deals Compiled by Deal Stripe](https://mms.businesswire.com/media/20211128005120/en/836771/23/Black_Friday_2021_%28DS%29.jpg "Cyber Monday 4K TV Deals 2021: LED, OLED & QLED 4K Smart TV Deals Compiled by Deal Stripe")
+
+
+[Cyber Monday 4K TV Deals 2021: LED, OLED & QLED 4K Smart TV Deals Compiled by Deal Stripe](https://www.businesswire.com/news/home/20211128005120/en/Cyber-Monday-4K-TV-Deals-2021-LED-OLED-QLED-4K-Smart-TV-Deals-Compiled-by-Deal-Stripe)
+
+
+> November 28, 2021 07:05 AM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Here's our guide to the best 4K TV deals for Cyber Monday 2021, including deals on 4K HDR smart TVs from Sony, TCL, Samsung, Vizio and more. Browse the latest deals using the links below. Latest 4K TV deals: Save up to 50% off on top rated 4K TVs at Walmart - check latest deals on Ultra HD, LED, and smart TVs Save up to 43% on best selling 4K smart TVs at Walmart - check the latest savings on curved, flat, and framed designs Save up to $902 on 65-inch 4K TVs from Samsung, LG & more at Walmart - find deals on HDR, IPS LCD, OLED, QLED, and XLED type displays Save up to $502 off on 55-inch 4K TVs from top brands at Walmart - find the best deals from LG, Samsung, Sony, TCL, Hisense, and more Save up to 45% on best-selling 50-inch 4K TVs at Walmart - click the link to find great discounts on Ultra HD Smart TVs from Samsung, LG, JVC, and other leading brands Save up to 43% 32-inch HD TVs at Walmart - get live prices on a wide range of TV brands, including Samsung, Philips, TCL, LG, and more Save up to $903 on the latest 4K TVs at Amazon.
+
+
