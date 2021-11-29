@@ -34711,3 +34711,43 @@
 > November 28, 2021 11:10 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the best MacBook Pro deals for Black Friday & Cyber Monday 2021, featuring savings on 15-inch & 13-inch MacBook Pro and 14-inch & 16-inch 2021 M1 chip MacBook Pro. Links to the top deals are listed below. Best MacBook Pro Deals: Best MacBook Deals: Best Apple Deals: Save up to $1,000 on the latest Apple iPhones at Verizon Wireless - click the link to check the latest deals on Apple iPhone 13, 12, 11, 11 Pro Max, XR, X, 8 & more top-rated smartphones Save up to $400 on Apple iPhone 13, 12, SE & more top-rated smartphones at Xfinity Mobile Save up to $1,000 on a wide range of Apple iPhones at ATT.
 
 
+***
+![Apple's iPhone prices bite in Turkey despite Black Friday](https://apicms.thestar.com.my/uploads/images/2021/11/29/1385702.jpg "Apple's iPhone prices bite in Turkey despite Black Friday")
+
+
+[Apple's iPhone prices bite in Turkey despite Black Friday](https://www.thestar.com.my/tech/tech-news/2021/11/29/apples-iphone-prices-bite-in-turkey-despite-black-friday)
+
+
+> The price of the iPhone 13 rose from 11,999 liras (RM4,010) to 14,999 liras (RM5,013), an increase of 25%, which is above the official annual inflation rate of 19.89% in October. — Bloomberg ISTANBUL: Instead of Black Friday discounts, consumers in Turkey were faced with steep price hikes for Apple products after the value of the lira hit new record lows last week. Certain Apple devices were 25% more expensive than usual on Nov 26 – with some increases worth more than the local minimum wage. Persistent double digit inflation and the weakness of the Turkish currency has eroded the purchasing power of Turkish consumers, leading to a cost of living crisis and pressure on the government to act.
+
+
+***
+![Black Friday fuels debt fears as Britons go on buy-now-pay-later spree](https://apicms.thestar.com.my/uploads/images/2021/11/29/1385663.jpg "Black Friday fuels debt fears as Britons go on buy-now-pay-later spree")
+
+
+[Black Friday fuels debt fears as Britons go on buy-now-pay-later spree](https://www.thestar.com.my/tech/tech-news/2021/11/29/black-friday-fuels-debt-fears-as-britons-go-on-buy-now-pay-later-spree)
+
+
+> LONDON: As British shoppers gear up for a multibillion-pound Black Friday and Christmas splurge, lawmakers have called for urgent regulation of 'buy now, pay later' fintech services, which they say lead many people to spend beyond their means. Britain has seen an explosion of online platforms such as Klarna, Clearpay and Laybuy, which let consumers buy goods interest free and spread out payments. 'I'm really worried how many people will get into debt this Christmas as these companies push them to spend more than they can afford,' parliamentarian Stella Creasy told the Thomson Reuters Foundation, accusing lenders of 'predatory' behaviour.
+
+
+***
+![SG cops arrest 39 for alleged involvement in job, phishing scams where losses amounted to S$20mil](https://apicms.thestar.com.my/uploads/images/2021/11/29/1385582.jpeg "SG cops arrest 39 for alleged involvement in job, phishing scams where losses amounted to S$20mil")
+
+
+[SG cops arrest 39 for alleged involvement in job, phishing scams where losses amounted to S$20mil](https://www.thestar.com.my/tech/tech-news/2021/11/29/sg-cops-arrest-39-for-alleged-involvement-in-job-phishing-scams-where-losses-amounted-to-s20mil)
+
+
+> They were promised as much as S$5,000 (RM15,467) for each bank account sold and/or S$400 (RM1,237) for each set of Singpass credentials sold. However, most of them did not receive the promised fees. — Person photo created by rawpixel.com - www.freepik.com SINGAPORE: Thirty-five men and four women, aged between 16 and 65, have been arrested for suspected involvement in job scams and phishing scams involving Singapore Bicentennial commemorative notes, the police said on Sunday (Nov 28). This was after an islandwide police operation from Nov 22 to 26 that saw a total of 113 individuals investigated for their involvement in over 900 jobs scams and phishing scams that led to more than S$20mil (RM61.
+
+
+***
+![Going Cyber Monday shopping? Here are common scams to look out for](https://apicms.thestar.com.my/uploads/images/2021/11/29/1385533.jpeg "Going Cyber Monday shopping? Here are common scams to look out for")
+
+
+[Going Cyber Monday shopping? Here are common scams to look out for](https://www.thestar.com.my/tech/tech-news/2021/11/29/going-cyber-monday-shopping-here-are-common-scams-to-look-out-for)
+
+
+> Plenty of consumers are expected to whip out their wallets for deals this Cyber Monday, getting a jump on their holiday shopping amid supply-chain-induced shortages – though with cyberscammers also in the mix, authorities are cautioning shoppers to look before they leap. More than half of consumers are expected to make online ship-to-home holiday purchases this year, according to Salesforce. And with global digital sales for the first two weeks of November already up 18% over the same period last year, growth could hit record levels, the company said.
+
+
