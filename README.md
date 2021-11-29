@@ -34751,3 +34751,33 @@
 > Plenty of consumers are expected to whip out their wallets for deals this Cyber Monday, getting a jump on their holiday shopping amid supply-chain-induced shortages – though with cyberscammers also in the mix, authorities are cautioning shoppers to look before they leap. More than half of consumers are expected to make online ship-to-home holiday purchases this year, according to Salesforce. And with global digital sales for the first two weeks of November already up 18% over the same period last year, growth could hit record levels, the company said.
 
 
+***
+![US movie theatre chain offers free NFTs with ‘Spider-Man' movie ticket purchase](https://apicms.thestar.com.my/uploads/images/2021/11/29/1386005.jpg "US movie theatre chain offers free NFTs with ‘Spider-Man' movie ticket purchase")
+
+
+[US movie theatre chain offers free NFTs with ‘Spider-Man' movie ticket purchase](https://www.thestar.com.my/tech/tech-news/2021/11/29/us-movie-theatre-chain-offers-free-nfts-with-spider-man-movie-ticket-purchase)
+
+
+> The NFT code will not be delivered via email if the ticket is not scanned at a theatre. — AFP American cinema chain company AMC Theatres is offering free non-fungible tokens (NFTs) to members who purchase or reserve opening-day tickets for Spider-Man: No Way Home, breaking away from tradition where moviegoers usually receive goodies like posters or movie merchandise for advance ticket purchases. In a press release, the company said 86,000 Spider-Man NFTs will be made available to AMC Stubs premiere, A-List and Investor Connect members.
+
+
+***
+![‘Like the Stasi': Cyber volunteers in India silence critical voices](https://apicms.thestar.com.my/uploads/images/2021/11/29/1385935.jpeg "‘Like the Stasi': Cyber volunteers in India silence critical voices")
+
+
+[‘Like the Stasi': Cyber volunteers in India silence critical voices](https://www.thestar.com.my/tech/tech-news/2021/11/29/like-the-stasi-cyber-volunteers-in-india-silence-critical-voices)
+
+
+> The group that ran the Hindutva Watch handle on Twitter – which flagged instances of violence and bigotry from an extreme form of Hindu nationalism – had long been accustomed to being abused and trolled for content critical of the Indian government. But even they were stunned when the account – with nearly 26,000 followers – was abruptly suspended in April this year with no reason given. The suspension of that, and dozens of accounts deemed to be critical of the government, came shortly after the launch of a cyber crime volunteers programme by the ministry of home affairs (MHA) to report illegal or unlawful online content.
+
+
+***
+![Nissan plans 50% electric vehicle sales by 2030](https://apicms.thestar.com.my/uploads/images/2021/11/29/1385964.jpg "Nissan plans 50% electric vehicle sales by 2030")
+
+
+[Nissan plans 50% electric vehicle sales by 2030](https://www.thestar.com.my/tech/tech-news/2021/11/29/nissan-plans-50-electric-vehicle-sales-by-2030)
+
+
+> Nissan is fully leaning into electric vehicles, with plans to invest RM74.2bil over the next five years to shift most of its cars into EV. — REUTERS Automaker Nissan wants half its global sales to be electric or hybrid vehicles by 2030 and plans to plough billions of dollars into the effort, it announced Monday. The move follows in the footsteps of other major global automakers, which have increasingly signalled a move towards electric and hybrid vehicles as concern about climate change grows. Unveiling its new long-term plan, Nissan said it will launch 23 new models, including 15 new electric vehicles, in a bid to reach the 2030 goal.
+
+
