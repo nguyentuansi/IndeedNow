@@ -34621,3 +34621,53 @@
 > Published: Nov 28,202110:37 PM by IANS Microsoft-owned open-source developer platform GitHub is back online after experiencing a more than two-hour-long outage, affecting thousands or potentially millions of developers that rely on its many services. San Francisco: GitHub started experiencing issues at around 3.45 p.m. ET on Saturday, with Git operations, API requests, GitHub actions, packages, pages, and pull requests all affected, reports The Verge."We are investigating errors affecting most GitHub services," said an incident update on the GitHub status page.
 
 
+***
+![Halo Infinite PS4 and Switch Release Date: Will it come to Sony and Nintendo consoles?](https://cdn-www.gamerevolution.com/assets/uploads/2021/11/Halo-Infinite-PS4-Switch-release-date.png "Halo Infinite PS4 and Switch Release Date: Will it come to Sony and Nintendo consoles?")
+
+
+[Halo Infinite PS4 and Switch Release Date: Will it come to Sony and Nintendo consoles?](https://www.gamerevolution.com/guides/698429-halo-infinite-ps4-and-switch-release-date-will-it-come-to-sony-and-nintendo-consoles)
+
+
+> Fans are holding out hope that Halo Infinite will come to the PS4 or Switch. If this came to fruition, the release date would, of course, be after the game launches on PC and Xbox, but is there any chance of that happening? We'll take a look at what the chances are for Halo Infinite to release on a PlayStation or Nintendo console.Will Halo Infinite get a PS4 release date?The chances of Halo Infinite releasing on PS4 or PS5 are only infinitesimally larger than zero. Halo's developer, 343 Industries, is a first-party Microsoft development studio, and it's one of Xbox's most valuable properties.
+
+
+***
+![Women-only VC fund banks $45m and targets $100m fund](https://static.ffx.io/images/$zoom_0.4077%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_461%2C$y_786/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/2d1d9bf18d7a204f0ad8515d927dead523edadd6 "Women-only VC fund banks $45m and targets $100m fund")
+
+
+[Women-only VC fund banks $45m and targets $100m fund](https://www.afr.com/technology/women-only-vc-fund-banks-45m-and-targets-100m-fund-20211126-p59cg9)
+
+
+> An example of the types of investments Artesian plans to make from its new fund is Singaporean-based Turtle Tree, which it already backed in late 2020, and which is making 'human-free breast milk' in a lab. 'The thematic there is acutely targeted at women, it's founded by a woman and hits exactly where women customers are,' Ms Clunies-Ross said. Artesian already manages investments across public and private debt, as well as venture capital. Its portfolio companies are spread across climate and clean energy, agri-food, medical and health as well as artificial intelligence and robotics.
+
+
+***
+![Nuix slugged with second class action over IPO](https://d2bs8hqp6qvsw6.cloudfront.net/article/images/740x500/promoted_content/promo/gavel_9_1_1.jpg "Nuix slugged with second class action over IPO")
+
+
+[Nuix slugged with second class action over IPO](https://www.arnnet.com.au/article/693443/nuix-slugged-with-second-class-action-over-ipo/)
+
+
+> Credit: Supplied Nuix is facing its second class action about alleged misleading statements or omissions in relation to its initial public offering (IPO) prospectus.Coming less than a week after Shine Lawyers filed its class action suit against the software vendor, the second case is being fielded by law firm Phi Finney McDonald on behalf of Daniel Joseph Batchelor and was filed on 23 November in the Supreme Court of Victoria. Broadly, Phi Finney McDonald's claim focused on Nuix's listing on the Australian Securities Exchange (ASX) at an IPO price of $5.
+
+
+***
+![Smart city driverless vehicle pilot project planned for Kamakura & Fujisawa areas](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/e3/17/06aeed7d8b9dea7eece61c18776a1ffa991e/Screen-Shot-2021-11-.png "Smart city driverless vehicle pilot project planned for Kamakura & Fujisawa areas")
+
+
+[Smart city driverless vehicle pilot project planned for Kamakura & Fujisawa areas](https://japantoday.com/category/tech/smart-city-driverless-vehicle-pilot-project-planned-for-kamakura-fujisawa-areas)
+
+
+> Mitsubishi Corp is in talks with Kamakura City's municipal government about developing its urban core and surrounding region into a smart city. Recently, the partnership joined forces with four other interests to commence a pilot project that will combine autonomous-driving technologies and healthcare services in Shonan Health Innovation Park (Shonan iPark). Along with Shonan iPark, the other partners on this project are Tokushukai Shonan Kamakura General Hospital (Kamakura General), Macnica Inc and Mitsubishi Electric Corporation.
+
+
+***
+![THine Announces an Extremely Small Redriver for USB4 Active Copper Cables](https://mms.businesswire.com/media/20211128005094/en/421731/21/THine_logo.jpg "THine Announces an Extremely Small Redriver for USB4 Active Copper Cables")
+
+
+[THine Announces an Extremely Small Redriver for USB4 Active Copper Cables](https://www.businesswire.com/news/home/20211128005094/en/THine-Announces-an-Extremely-Small-Redriver-for-USB4-Active-Copper-Cables)
+
+
+> November 28, 2021 07:00 PM Eastern Standard Time TOKYO--(BUSINESS WIRE)--THine Electronics, Inc. (Tokyo Stock Exchange/JASDAQ: 6769), the global leader in high-speed serial interface and provider of mixed-signal LSI as well as valuable AI/IoT-based solution, announces delivering samples of an extremely small redriver product, THCE20RD2U11, for USB4 active copper cables (ACCs). THine's new redriver, THCE20RD2U11, allows USB4 ACCs to transmit data up to approximately 250 centimeters, three times longer than USB standard's specified length for 80 centimeters.
+
+
