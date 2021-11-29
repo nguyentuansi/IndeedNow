@@ -34781,3 +34781,53 @@
 > Nissan is fully leaning into electric vehicles, with plans to invest RM74.2bil over the next five years to shift most of its cars into EV. — REUTERS Automaker Nissan wants half its global sales to be electric or hybrid vehicles by 2030 and plans to plough billions of dollars into the effort, it announced Monday. The move follows in the footsteps of other major global automakers, which have increasingly signalled a move towards electric and hybrid vehicles as concern about climate change grows. Unveiling its new long-term plan, Nissan said it will launch 23 new models, including 15 new electric vehicles, in a bid to reach the 2030 goal.
 
 
+***
+![Renault Air4 flying car is a very different restomod](https://cdn.slashgear.com/wp-content/uploads/2021/11/renault-air4-2.jpg "Renault Air4 flying car is a very different restomod")
+
+
+[Renault Air4 flying car is a very different restomod](https://www.slashgear.com/renault-air4-flying-car-is-a-different-kind-of-restomod-29700608/)
+
+
+> The French automaker Renault and Miami-based design studio TheArsenale have collaborated to create the Air4, an actual flying car based on the legendary Renault 4L hatchback sold from 1961 to 1992. The Air4 is more than just a design study as it celebrates the 60th anniversary of Renault's people's car. Furthermore, Air4 is TheArsenale's first car from the studio's Road to Air division that envisions the future of private transport. 'This collaboration with TheArsenale was a natural fit,' said Arnaud Belloni, Renault Brand Global Marketing Director.
+
+
+***
+![Walmart PS5 restock ready for Cyber Monday, but there's a catch](https://cdn.slashgear.com/wp-content/uploads/2021/11/sony-ps5-playstation-5-console.jpg "Walmart PS5 restock ready for Cyber Monday, but there's a catch")
+
+
+[Walmart PS5 restock ready for Cyber Monday, but there's a catch](https://www.slashgear.com/walmart-ps5-restock-ready-for-cyber-monday-but-theres-a-catch-29700629/)
+
+
+> It's Cyber Monday, and even though there aren't going to be any discounts on the PS5, there are some stores that will be restocking the hard-to-find console. Walmart is the main retailer we'll be looking at for this PlayStation 5 stock on Cyber Monday, but as with many restocks these days, there are some strings attached. If you miss your chance with Walmart today, you might be able to snag a PS5 later this week from another major retailer. Walmart PS5 restock slated for today First and foremost, Walmart will be restocking the PS5 later today at 12 PM EST.
+
+
+***
+![2023 Kia Niro debuts with quirky styling and sustainable construction](https://cdn.slashgear.com/wp-content/uploads/2021/11/599240.jpg "2023 Kia Niro debuts with quirky styling and sustainable construction")
+
+
+[2023 Kia Niro debuts with quirky styling and sustainable construction](https://www.slashgear.com/2023-kia-niro-debuts-with-quirky-styling-and-sustainable-construction-29700595/)
+
+
+> The all-new 2023 Kia Niro made a cracking debut at the 2021 Seoul Mobility Show. And as expected from a new Kia vehicle, the newest Niro has quirky styling cues highlighted by its blacked-out C-pillar, harking back to the innovative and radical design of Kia's HabaNiro concept car unveiled back in 2019. 'Kia continues to take steps towards a more sustainable future, inviting everyone to join the movement into the new mobility era,' said Ho Sung Song, President and CEO of Kia. The South Korean automaker will have no trouble enticing new car buyers to take the plunge.
+
+
+***
+![Ionity's big Supercharger network rival just got a huge investment](https://cdn.slashgear.com/wp-content/uploads/2021/11/ionity-charger-network.jpg "Ionity's big Supercharger network rival just got a huge investment")
+
+
+[Ionity's big Supercharger network rival just got a huge investment](https://www.slashgear.com/ionitys-big-supercharger-network-rival-just-got-a-huge-investment-29700622/)
+
+
+> The push to electric vehicles is going on all around the world. Along with the push to get automotive manufacturers to produce electric vehicles is a push to get significant charging networks rolled out all across Europe. One of the largest EV charging networks in Europe belongs to Ionity. Recently it announced a combined €700 million investment from shareholders, including BMW Group, Ford Motor Company, Hyundai Motor Group, Kia, Mercedes-Benz AG, and the Volkswagen Group including Audi and Porsche.
+
+
+***
+![Xperia PRO-I US release date gives Sony's camera a time to shine](https://cdn.slashgear.com/wp-content/uploads/2021/11/sonyxperiaproi.jpg "Xperia PRO-I US release date gives Sony's camera a time to shine")
+
+
+[Xperia PRO-I US release date gives Sony's camera a time to shine](https://www.slashgear.com/xperia-pro-i-us-release-date-gives-sonys-camera-a-time-to-shine-29700593/)
+
+
+> Despite and in spite of all odds, Sony's mobile business continues to move forward and, in fact, sometimes registers good figures for the company's finances. It doesn't have a big market share for mobile smart device sales, at least not enough to make it to the world's top ten, but it does spark some interest once in a while with its unique designs or propositions. In addition to that still unique 21:9 display aspect ratio, the Xperia PRO-I continues that tradition by appealing to vloggers and videographers, who won't have to wait long to finally get their hands on one.
+
+
