@@ -34671,3 +34671,43 @@
 > November 28, 2021 07:00 PM Eastern Standard Time TOKYO--(BUSINESS WIRE)--THine Electronics, Inc. (Tokyo Stock Exchange/JASDAQ: 6769), the global leader in high-speed serial interface and provider of mixed-signal LSI as well as valuable AI/IoT-based solution, announces delivering samples of an extremely small redriver product, THCE20RD2U11, for USB4 active copper cables (ACCs). THine's new redriver, THCE20RD2U11, allows USB4 ACCs to transmit data up to approximately 250 centimeters, three times longer than USB standard's specified length for 80 centimeters.
 
 
+***
+![BF2042 PC by MetallicAcid](https://www.sweclockers.com/forum/trad/1650708/og-image "BF2042 PC by MetallicAcid")
+
+
+[BF2042 PC by MetallicAcid](https://www.sweclockers.com/forum/trad/1650708-bf2042-pc-by-metallicacid)
+
+
+> The Battlefield games have been my most played and favourite games of all time. I didn't care so much for the last iterations in the franchise, but I had clocked in around 1000 hours each into BFBC2, BF3 and BF4 respectively.When BF2042 was announced, I was ecstatic! Immediately I made plans to build myself a new PC which would be ready in time for the beta. Fortunately, during the building process, the project picked up a lot of attention by various partners. I was able to tie in some sponsorships, and even a video feature on Nvidia Garage!Since the game has been released, I have been enjoying the game alongside my friends.
+
+
+***
+![Workers' paradise? Portugal's new teleworking law takes flak](https://apicms.thestar.com.my/uploads/images/2021/11/28/1385009.jpg "Workers' paradise? Portugal's new teleworking law takes flak")
+
+
+[Workers' paradise? Portugal's new teleworking law takes flak](https://www.thestar.com.my/tech/tech-news/2021/11/29/workers-paradise-portugals-new-teleworking-law-takes-flak)
+
+
+> LISBON, Portugal: Portugal's new law on working from home makes the European Union country sound like a workers' paradise. Companies can't attempt to contact their staff outside working hours. They must help staff pay for their home gas, electric and Internet bills. Bosses are forbidden from using digital software to track what their teleworkers are doing. There's just one problem: the law might not work. Critics say the new rules are half-baked, short on detail and unfeasible. And they may even backfire by making companies reluctant to allow working from home at all.
+
+
+***
+![Garena Free Fire November 29 Redeem Codes: Get Free Fire diamond, free Outfit codes](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/11/29/1007426-1007066-garena-1.jpg "Garena Free Fire November 29 Redeem Codes: Get Free Fire diamond, free Outfit codes")
+
+
+[Garena Free Fire November 29 Redeem Codes: Get Free Fire diamond, free Outfit codes](https://www.dnaindia.com/technology/report-garena-free-fire-november-29-redeem-codes-get-free-fire-diamond-outfit-codes-how-to-redeem-today-s-free-codes-2921612)
+
+
+> Source: |Updated: Nov 29, 2021, 09:10 AM ISTThe popularity of Garena Free Fire, the battle royale mobile game, is rising among mobile gamers and Garena Free Fire has now become one of the most downloaded games in the world. Garena Free Fire is played by people from different age groups and in order to attract more players, Garena keeps on giving prizes and awards.  Garena releases 14-digit codes on a daily basis. These redeem codes are actually a combination of letters and words. Notably, these redeem codes are restricted to a specific server.
+
+
+***
+![MacBook Pro Cyber Monday Deals (2021): Best 14 & 16 Inch M1 Chip MacBook Pro & More Savings Summarized by Spending Lab](https://mms.businesswire.com/media/20211128005217/en/835848/23/Black_Friday_2021_%28SL%29.jpg "MacBook Pro Cyber Monday Deals (2021): Best 14 & 16 Inch M1 Chip MacBook Pro & More Savings Summarized by Spending Lab")
+
+
+[MacBook Pro Cyber Monday Deals (2021): Best 14 & 16 Inch M1 Chip MacBook Pro & More Savings Summarized by Spending Lab](https://www.businesswire.com/news/home/20211128005217/en/MacBook-Pro-Cyber-Monday-Deals-2021-Best-14-16-Inch-M1-Chip-MacBook-Pro-More-Savings-Summarized-by-Spending-Lab)
+
+
+> November 28, 2021 11:10 PM Eastern Standard Time BOSTON--(BUSINESS WIRE)--Compare the best MacBook Pro deals for Black Friday & Cyber Monday 2021, featuring savings on 15-inch & 13-inch MacBook Pro and 14-inch & 16-inch 2021 M1 chip MacBook Pro. Links to the top deals are listed below. Best MacBook Pro Deals: Best MacBook Deals: Best Apple Deals: Save up to $1,000 on the latest Apple iPhones at Verizon Wireless - click the link to check the latest deals on Apple iPhone 13, 12, 11, 11 Pro Max, XR, X, 8 & more top-rated smartphones Save up to $400 on Apple iPhone 13, 12, SE & more top-rated smartphones at Xfinity Mobile Save up to $1,000 on a wide range of Apple iPhones at ATT.
+
+
