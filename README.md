@@ -34911,3 +34911,53 @@
 > Apple's long-awaited mixed reality headset could make its debut at the end of next year, according to analyst Ming-Chi Kuo‌. The analyst for TF Securities made his latest forecast in a research note seen by MacRumors and 9to5Mac. He predicts that Apple will launch the headset in the fourth quarter of 2022, and expects it to support both augmented reality (AR) and virtual reality (VR).  Kuo's suggests the headset will a high-powered device, claiming it will include two processors; a high-end M1-like processor with a similar amount of computing power to the Mac, and a lower-end chip for sensor-related computing.
 
 
+***
+![How to edit TikTok videos](https://technology.inquirer.net/files/2021/11/How-to-edit-TikTok-videos-620x310.jpg "How to edit TikTok videos")
+
+
+[How to edit TikTok videos](https://technology.inquirer.net/?p=113499)
+
+
+> TikTok videos are all about being eye-catching, and in this vein, the videos must be flawlessly edited, or at least close to it. If you're thinking about learning how to edit a video on TikTok, two things will come to mind – first; the last thing you expected was to learn how to edit a video on TikTok, and second, it would seem overwhelming at first. But in reality, while editing TikTok videos may seem like it has a lot to do, it is pretty simple. With TikTok being the latest social media craze and creators getting their content monetized, it is no wonder that more and more people are getting into TikTok and making TikTok videos.
+
+
+***
+![Local university uses blockchain to authenticate degrees](https://apicms.thestar.com.my/uploads/images/2021/11/30/1387068.jpeg "Local university uses blockchain to authenticate degrees")
+
+
+[Local university uses blockchain to authenticate degrees](https://www.thestar.com.my/tech/tech-news/2021/11/30/local-university-uses-blockchain-to-authenticate-degrees)
+
+
+> Usim has launched an app built using blockchain that helps potential employers and relevant parties to authenticate their graduates' degrees. — Usim Universiti Sains Islam Malaysia (Usim) is utilising blockchain technology to guarantee the authenticity of its graduates' degrees. Done using an app called Tasdiq Al-Syahadah (TAS), the service would enable relevant parties – like potential employers – to verify that the graduate's qualifications are legit. In a press release, Usim vice-chancellor Prof Dr Mohamed Ridza Wahiddin said this project was undertaken to prevent fraud using fake degrees, and to protect the reputation and integrity of the university's academic certificates.
+
+
+***
+![UK spies seek help from tech firms against cyber threats](https://apicms.thestar.com.my/uploads/images/2021/11/30/1386938.jpg "UK spies seek help from tech firms against cyber threats")
+
+
+[UK spies seek help from tech firms against cyber threats](https://www.thestar.com.my/tech/tech-news/2021/11/30/uk-spies-seek-help-from-tech-firms-against-cyber-threats)
+
+
+> According to extracts released in advance by the government, Moore will say the disruptive potential of artificial intelligence and other rapidly developing technologies ‘is a white-hot focus for MI6'. — AFP Relaxnews LONDON: Britain's spies must give up some of their deep-rooted secrecy and seek help from tech firms to combat fast-moving cyber threats, the head of the UK's foreign intelligence agency says. MI6 chief Richard Moore says the agency has to 'become more open to stay secret' in a world of destabilising technological changes.
+
+
+***
+![Google workers sue over firings stemming from US border project](https://apicms.thestar.com.my/uploads/images/2021/11/30/1386916.jpg "Google workers sue over firings stemming from US border project")
+
+
+[Google workers sue over firings stemming from US border project](https://www.thestar.com.my/tech/tech-news/2021/11/30/google-workers-sue-over-firings-stemming-from-us-border-project)
+
+
+> Rivers, Waldman and Duke claim that in opposing Google's plans to work with agencies responsible for separating children from their parents and caging immigrants, they were simply abiding by Google's ‘Don't Be Evil' mandate. — Reuters Three former Google employees sued the technology giant claiming they were wrongfully fired for challenging a plan to collaborate with the Trump administration's border security agencies. They claim that in addition to being falsely accused of leaking information about the Alphabet Inc's unit's plans to the media, they were also targeted because they were gay or trans.
+
+
+***
+![JioMart turns to WhatsApp to break Amazon grip on Indian grocery buyers](https://apicms.thestar.com.my/uploads/images/2021/11/30/1386897.jpg "JioMart turns to WhatsApp to break Amazon grip on Indian grocery buyers")
+
+
+[JioMart turns to WhatsApp to break Amazon grip on Indian grocery buyers](https://www.thestar.com.my/tech/tech-news/2021/11/30/reliances-jiomart-turns-to-whatsapp-to-break-amazon-grip-on-indian-grocery-buyers)
+
+
+> WhatsApp has about 530 million users in India – Meta's biggest overseas base – and Jio has more than 425 million subscribers. — Bloomberg Indians can now use WhatsApp to order groceries from billionaire Mukesh Ambani's JioMart via a new 'tap and chat' option, as his Reliance Industries Ltd challenges the domination of Amazon.com Inc and Walmart Inc-owned Flipkart. Delivery is free and there's no minimum order value, according to JioMart users who got WhatsApp shopping invites with a 90-second tutorial and catalogue.
+
+
