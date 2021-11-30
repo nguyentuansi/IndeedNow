@@ -34831,3 +34831,53 @@
 > Despite and in spite of all odds, Sony's mobile business continues to move forward and, in fact, sometimes registers good figures for the company's finances. It doesn't have a big market share for mobile smart device sales, at least not enough to make it to the world's top ten, but it does spark some interest once in a while with its unique designs or propositions. In addition to that still unique 21:9 display aspect ratio, the Xperia PRO-I continues that tradition by appealing to vloggers and videographers, who won't have to wait long to finally get their hands on one.
 
 
+***
+![Merck's COVID-19 pill isn't quite as effective as initially reported](https://cdn.slashgear.com/wp-content/uploads/2021/11/molnupiravir-covid-pill-merck-updated-results.jpg "Merck's COVID-19 pill isn't quite as effective as initially reported")
+
+
+[Merck's COVID-19 pill isn't quite as effective as initially reported](https://www.slashgear.com/mercks-covid-19-pill-isnt-quite-as-effective-as-initially-reported-29700684/)
+
+
+> Pharmaceutical companies Merck and Ridgeback Biotherapeutics have published an update on molnupiravir, a pill formulated to help treat COVID-19 by reducing one's risk of being hospitalized with or dying from the disease. According to the latest details from the company, molnupiravir isn't quite as effective as the interim analysis had previously found. Merck Sharp & Dohme Corp/Merck & Co., Inc Merck and Ridgeback published the update on the molnupiravir MOVe-OUT study on Friday, noting that it now has the data from all of the participants who were enrolled in the study.
+
+
+***
+![Hubble's Cosmic Origins Spectrograph instrument is back in action](https://cdn.slashgear.com/wp-content/uploads/2021/11/hubble-space-telescope-in-orbit-resize.jpg "Hubble's Cosmic Origins Spectrograph instrument is back in action")
+
+
+[Hubble's Cosmic Origins Spectrograph instrument is back in action](https://www.slashgear.com/hubbles-cosmic-origins-spectrograph-instrument-is-back-in-action-29700717/)
+
+
+> It's been something of a rough month for the Hubble Space Telescope. Toward the end of October, NASA detected that Hubble's science instruments had lost synchronization and automatically entered safe mode – a problem it reported on November 1st. Throughout the rest of the month, NASA has been exploring the issue and bringing those instruments out of safe mode one by one. Today, the organization announced that one more tool has been taken out of safe mode, meaning Hubble is one step closer to being fully functional again.
+
+
+***
+!['Laptop from Hell' Affirms Joe Biden Is the 'Big Man,' Expected 10% Cut from Deal with Chinese Giant](https://www.westernjournal.com/wp-content/uploads/2021/11/Joe-Biden-23.jpg "'Laptop from Hell' Affirms Joe Biden Is the 'Big Man,' Expected 10% Cut from Deal with Chinese Giant")
+
+
+['Laptop from Hell' Affirms Joe Biden Is the 'Big Man,' Expected 10% Cut from Deal with Chinese Giant](https://www.westernjournal.com/laptop-affirms-joe-biden-big-man-expected-10-cut-deal-chinese-giant/)
+
+
+> The New York Post's October 2020 bombshell report of emails from Hunter Biden's abandoned laptop should have upended the presidential election and delivered victory to then-President Donald Trump over Joe Biden. Because of the corrupt legacy media acting in cahoots with Big Tech, however, the story and the damage it would have inflicted on the Democratic presidential nominee were largely contained. The New York Post has been publishing excerpts from a forthcoming book that details the information gleaned from the notorious laptop.
+
+
+***
+![BSNL Withdraws 100GB at Rs 499 Plan, Introduces New Quarterly Payment Scheme](https://telecomtalk.info/wp-content/uploads/2021/11/bsnl-withdraws-100gb-at-rs-499-plan.jpeg "BSNL Withdraws 100GB at Rs 499 Plan, Introduces New Quarterly Payment Scheme")
+
+
+[BSNL Withdraws 100GB at Rs 499 Plan, Introduces New Quarterly Payment Scheme](https://telecomtalk.info/bsnl-withdraws-100gb-at-rs-499-plan/482376/)
+
+
+> BSNL 200GB CUL Bharat Fibre CS358 offers 50 Mbps download speed till 200GB.BSNL quarterly payment scheme applies to Rs 599, Rs 799 and Rs 999 fibre plans.The plans are announced on a promotional basis for 90 days. The state-run telecom service provider Bharat Sanchar Nigam Limited (BSNL) discontinued its Rs 499 broadband plan that offered 100GB of data. Although the existing customers of the plan will continue, the telecom operator will make efforts to migrate them to other regular BSNL fibre broadband plans.
+
+
+***
+![Why do zebras have stripes? Here are the answers to 25 common animal questions](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AARhdYc.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Why do zebras have stripes? Here are the answers to 25 common animal questions")
+
+
+[Why do zebras have stripes? Here are the answers to 25 common animal questions](http://www.msn.com/en-nz/news/techandscience/why-do-zebras-have-stripes-here-are-the-answers-to-25-common-animal-questions/ss-AARh4uP)
+
+
+> 1/26 SLIDES © Anita van den Broek // Shutterstock Why do giraffes have long necks? Answers to 25 animal evolution questions Microsoft and partners may be compensated if you purchase something through recommended links in this article. 2/26 SLIDES © Steve Rupp, National Science Foundation What was the first animal to evolve? Microsoft and partners may be compensated if you purchase something through recommended links in this article. 3/26 SLIDES © Bernd Schierwater // Wikimedia Commons What's the simplest known animal? Microsoft and partners may be compensated if you purchase something through recommended links in this article.
+
+
