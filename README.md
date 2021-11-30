@@ -34881,3 +34881,33 @@
 > 1/26 SLIDES © Anita van den Broek // Shutterstock Why do giraffes have long necks? Answers to 25 animal evolution questions Microsoft and partners may be compensated if you purchase something through recommended links in this article. 2/26 SLIDES © Steve Rupp, National Science Foundation What was the first animal to evolve? Microsoft and partners may be compensated if you purchase something through recommended links in this article. 3/26 SLIDES © Bernd Schierwater // Wikimedia Commons What's the simplest known animal? Microsoft and partners may be compensated if you purchase something through recommended links in this article.
 
 
+***
+![Factbox: Who is Twitter's new CEO Parag Agrawal?](https://apicms.thestar.com.my/uploads/images/2021/11/30/1386716.jpg "Factbox: Who is Twitter's new CEO Parag Agrawal?")
+
+
+[Factbox: Who is Twitter's new CEO Parag Agrawal?](https://www.thestar.com.my/tech/tech-news/2021/11/30/factbox-who-is-twitter039s-new-ceo-parag-agrawal)
+
+
+> FILE PHOTO: A Twitter logo is seen outside the company headquarters in San Francisco, California, U.S., January 11, 2021. REUTERS/Stephen Lam (Reuters) - Twitter Inc on Monday promoted company insider and technology head Parag Agrawal to replace Chief Executive Officer Jack Dorsey.The social media networking platform joins tech giants Apple, Amazon and Alphabet in tapping a company insider for the top job.Here are some facts about Agrawal:DECADE WITH TWITTERAgrawal joined Twitter as a software engineer and has been with the company for over a decade.
+
+
+***
+![Holmes Says Ex-Theranos Exec Controlled And Abused Her](https://assets.law360news.com/1443000/1443832/1014b3c427988cd112c8161b204add6471efc810-d32f06a6d158401181c5a910bfa0aa8e_theranos_founder-fraud_trial_25272_3392x2227.jpg "Holmes Says Ex-Theranos Exec Controlled And Abused Her")
+
+
+[Holmes Says Ex-Theranos Exec Controlled And Abused Her](https://www.law360.com/articles/1443832/holmes-says-ex-theranos-exec-controlled-and-abused-her)
+
+
+> By Dorothy Atkins (November 29, 2021, 10:07 PM EST) -- Elizabeth Holmes testified in her criminal fraud trial Monday that she began dating former Theranos executive Ramesh "Sunny" Balwani after she was raped in college, initially viewing the older man as her protector before the relationship devolved into a 10-year nightmare of obsessive control and sexual abuse.Theranos founder Elizabeth Holmes testified Monday that former company executive Ramesh "Sunny" Balwani abused her. (AP Photo/Nic Coury) During the fourth and final day of Holmes' direct examination, she recounted meeting Balwani in 2005 as an 18-year-old student while studying abroad in China, when Balwani was 38.
+
+
+***
+![Apple's mixed reality headset could debut in 2022](https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1635855889/itpro/VR_Headset_work_shutterstock.jpg "Apple's mixed reality headset could debut in 2022")
+
+
+[Apple's mixed reality headset could debut in 2022](https://www.itpro.co.uk/technology/augmented-reality-ar/361676/apple-mixed-reality-ar-headet-2022-launch-analyst)
+
+
+> Apple's long-awaited mixed reality headset could make its debut at the end of next year, according to analyst Ming-Chi Kuo‌. The analyst for TF Securities made his latest forecast in a research note seen by MacRumors and 9to5Mac. He predicts that Apple will launch the headset in the fourth quarter of 2022, and expects it to support both augmented reality (AR) and virtual reality (VR).  Kuo's suggests the headset will a high-powered device, claiming it will include two processors; a high-end M1-like processor with a similar amount of computing power to the Mac, and a lower-end chip for sensor-related computing.
+
+
