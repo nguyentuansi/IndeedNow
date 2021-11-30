@@ -35001,3 +35001,43 @@
 > Newly named Twitter CEO Agrawal has emerged from behind the scenes to take over one of Silicon Valley's highest-profile and politically volatile jobs. — Courtesy of Twitter via AP Twitter Inc on Nov 29 became the latest Silicon Valley titan to appoint an Indian-born chief executive officer, joining the likes of Microsoft and Google in recognising the Asian country as one of the world's richest pools of tech talent. The appointment of former chief technology officer Parag Agrawal to the top spot at Twitter amplifies the role played by immigrants in the world's largest technology companies.
 
 
+***
+![Realme GT 2 Pro render brings the Nexus 6P back from the dead](https://cdn.slashgear.com/wp-content/uploads/2021/11/Realme-GT-2-Pro-render.jpg "Realme GT 2 Pro render brings the Nexus 6P back from the dead")
+
+
+[Realme GT 2 Pro render brings the Nexus 6P back from the dead](https://www.slashgear.com/realme-gt-2-pro-render-brings-the-nexus-6p-back-from-the-dead-30700761/)
+
+
+> There was a lot of discussion about the Pixel 6's unorthodox design, and, as expected, opinions were split on the matter. Some definitely loved its quirky and memorable appearance, while others balked at the almost asymmetric design. It wasn't the first Google phone to have a wide camera bump jutting out of its back, however, and there have been some comparisons made with the Nexus 6P made by Huawei for Google in 2015. It seems that OPPO spinoff Realme is trying to revive that equally awkward design if this leak about its next GT-branded phone is any indication.
+
+
+***
+![Princeton researchers' latest salt grain-sized camera has massive potential](https://cdn.slashgear.com/wp-content/uploads/2021/11/salt-grain-camera.jpg "Princeton researchers' latest salt grain-sized camera has massive potential")
+
+
+[Princeton researchers' latest salt grain-sized camera has massive potential](https://www.slashgear.com/princeton-researchers-latest-salt-grain-sized-camera-has-massive-potential-30700790/)
+
+
+> There are many uses for cameras in medicine and other areas, but typical modern cameras are too large for many medical uses. A group of researchers from Princeton University and the University of Washington has teamed up to create an extremely small camera about the size of a coarse grain of salt. Cameras of such small size have excellent potential for exploring inside the human body, among other things. Princeton University/University of Washington While the potential usefulness in the medical environment for cameras such as this is high, they can also be used in other devices, including extremely small robots allowing them to have vastly improved sensing capability.
+
+
+***
+![TechArt outfits a Porsche 911 Targa 4 police car for styling road safety](https://cdn.slashgear.com/wp-content/uploads/2021/11/techart-gt-tune-it-safe-polizeifahrzeug-2021-2.jpg "TechArt outfits a Porsche 911 Targa 4 police car for styling road safety")
+
+
+[TechArt outfits a Porsche 911 Targa 4 police car for styling road safety](https://www.slashgear.com/techart-outfits-a-porsche-911-targa-4-police-car-for-styling-road-safety-30700777/)
+
+
+> World-renowned Porsche tuning expert TechArt has unveiled its latest project car based on the 911 Targa 4. As you can see, it's a police car, but you won't see it flagging down motorists anytime soon. On the contrary, TechArt created this 911 police car for the 2022 Tune it! Safe! Campaign of the German Federal Ministry of Transport. Working with partners like the German Association of Automotive Tuners and Hankook, TechArt aims to promote safe and responsible tuning with its latest creation. Of course, the blue, yellow, and white police livery stands out.
+
+
+***
+![A well-preserved Columbian mammoth tusk was discovered in an unlikely place](https://cdn.slashgear.com/wp-content/uploads/2021/11/mommoth-tusk.jpg "A well-preserved Columbian mammoth tusk was discovered in an unlikely place")
+
+
+[A well-preserved Columbian mammoth tusk was discovered in an unlikely place](https://www.slashgear.com/a-well-preserved-columbian-mammoth-tusk-was-discovered-in-an-unlikely-place-30700770/)
+
+
+> For much of recorded history, the landscape of landmasses worldwide has been constant and little changing. However, over the eons, the sea levels have risen and fallen depending on the environment on the planet. Thousands of years ago, some of the planet that's now covered in water was dry land, and ancient creatures roamed there freely. A group of researchers from the Monterey Bay Aquarium Research Institute conducting deep-sea explorations off the coast of California made an interesting discovery.
+
+
