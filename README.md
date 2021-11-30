@@ -35041,3 +35041,13 @@
 > For much of recorded history, the landscape of landmasses worldwide has been constant and little changing. However, over the eons, the sea levels have risen and fallen depending on the environment on the planet. Thousands of years ago, some of the planet that's now covered in water was dry land, and ancient creatures roamed there freely. A group of researchers from the Monterey Bay Aquarium Research Institute conducting deep-sea explorations off the coast of California made an interesting discovery.
 
 
+***
+![Halo Infinite multiplayer progression changes confirmed with bonus XP for all](https://cdn.slashgear.com/wp-content/uploads/2021/11/Halo-Infinite-multiplayer-4-1.jpg "Halo Infinite multiplayer progression changes confirmed with bonus XP for all")
+
+
+[Halo Infinite multiplayer progression changes confirmed with bonus XP for all](https://www.slashgear.com/halo-infinite-multiplayer-progression-changes-confirmed-with-bonus-xp-for-all-30700794/)
+
+
+> Over the holiday weekend, 343 Industries indicated that more progression changes were on the way to Halo Infinite. 343 has wasted little time in coming up with a solution to fan complaints, as overnight, it revealed XP changes that will be heading to the game. Players will now get an XP bonus for their first several matches played each day, regardless of whether they win or lose. New bonus XP will help with Halo Infinite progression In a thread published to Twitter, Halo community manager John Junyszek detailed the bonus XP players will get for their first six matches played each day.
+
+
