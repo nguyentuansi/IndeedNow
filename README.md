@@ -34961,3 +34961,43 @@
 > WhatsApp has about 530 million users in India – Meta's biggest overseas base – and Jio has more than 425 million subscribers. — Bloomberg Indians can now use WhatsApp to order groceries from billionaire Mukesh Ambani's JioMart via a new 'tap and chat' option, as his Reliance Industries Ltd challenges the domination of Amazon.com Inc and Walmart Inc-owned Flipkart. Delivery is free and there's no minimum order value, according to JioMart users who got WhatsApp shopping invites with a 90-second tutorial and catalogue.
 
 
+***
+![Welcome to Musklandia: Austin adjusts to life with Tesla and its eccentric billionaire boss Elon Musk](https://apicms.thestar.com.my/uploads/images/2021/11/30/1387417.jpeg "Welcome to Musklandia: Austin adjusts to life with Tesla and its eccentric billionaire boss Elon Musk")
+
+
+[Welcome to Musklandia: Austin adjusts to life with Tesla and its eccentric billionaire boss Elon Musk](https://www.thestar.com.my/tech/tech-news/2021/11/30/welcome-to-musklandia-austin-adjusts-to-life-with-tesla-and-its-eccentric-billionaire-boss-elon-musk)
+
+
+> Welcome to life in Musklandia. As Elon Musk's sphere of influence in Austin and across Texas seems to expand by the day, the eccentric Texas-based billionaire is taking the region and the state along on the wild and often weird roller-coaster ride that is his life. It's been a little more than a month since Musk announced Oct 7 that Tesla is moving its headquarters to Austin, but even before that, Musk was already spending an increasing amount of time in Austin. He has been moving more of his companies into the region since at least 2020, most notably with Tesla's US$1.
+
+
+***
+![LG Energy Solution gets preliminary approval for IPO](https://apicms.thestar.com.my/uploads/images/2021/11/30/1387302.jpg "LG Energy Solution gets preliminary approval for IPO")
+
+
+[LG Energy Solution gets preliminary approval for IPO](https://www.thestar.com.my/tech/tech-news/2021/11/30/lg-energy-solution-receives-preliminary-approval-for-its-ipo--korea-exchange)
+
+
+> FILE PHOTO: The logo of LG Chem is seen at its office building in Seoul, South Korea, Oct. 16, 2020. REUTERS/Kim Hong-Ji/File Photo SEOUL (Reuters) - Battery maker LG Energy Solution (LGES) has received preliminary approval for what has been widely tipped to be South Korea's biggest-ever initial public offering, the Korea Exchange said on Tuesday. A supplier to Tesla Inc, General Motor Co and Hyundai Motor Co, among others, LGES filed for a review of its IPO plans in June.In October, the wholly owned subsidiary of LG Chem Ltd resumed work on its IPO, which was suspended in August due to a lack of clarity regarding the recall costs involving GM's Bolt electric vehicles.
+
+
+***
+![South Korea set to delay crypto taxation by one year to begin in 2023](https://apicms.thestar.com.my/uploads/images/2021/11/30/1387267.jpg "South Korea set to delay crypto taxation by one year to begin in 2023")
+
+
+[South Korea set to delay crypto taxation by one year to begin in 2023](https://www.thestar.com.my/tech/tech-news/2021/11/30/south-korea-set-to-delay-crypto-taxation-by-one-year-to-begin-in-2023)
+
+
+> FILE PHOTO: The exchange rates and logos of Bitcoin (BTH), Ether (ETH), Litecoin (LTC) and Monero (XMR) are seen on the display of a cryptocurrency ATM of blockchain payment service provider Bity at the House of Satoshi bitcoin and blockchain shop in Zurich, Switzerland June 25, 2021. REUTERS/Arnd Wiegmann//File Photo
+
+
+***
+![Twitter's new CEO joins club of India-born US tech captains](https://apicms.thestar.com.my/uploads/images/2021/11/30/1387197.jpg "Twitter's new CEO joins club of India-born US tech captains")
+
+
+[Twitter's new CEO joins club of India-born US tech captains](https://www.thestar.com.my/tech/tech-news/2021/11/30/twitters-new-ceo-joins-club-of-india-born-us-tech-captains)
+
+
+> Newly named Twitter CEO Agrawal has emerged from behind the scenes to take over one of Silicon Valley's highest-profile and politically volatile jobs. — Courtesy of Twitter via AP Twitter Inc on Nov 29 became the latest Silicon Valley titan to appoint an Indian-born chief executive officer, joining the likes of Microsoft and Google in recognising the Asian country as one of the world's richest pools of tech talent. The appointment of former chief technology officer Parag Agrawal to the top spot at Twitter amplifies the role played by immigrants in the world's largest technology companies.
+
+
