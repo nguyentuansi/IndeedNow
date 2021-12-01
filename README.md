@@ -35221,3 +35221,53 @@
 > PTI Published : Dec 1, 2021, 2:24 pm IST Updated : Dec 1, 2021, 2:24 pm IST Agrawal, 37, holds a bachelor's degree from IIT Bombay and a PhD in computer science from Stanford University  Parag Agrawal, who succeeds Jack Dorsey in this role - served as Twitter's Chief Technology Officer since 2017, and has been responsible for the company's technical strategy. (Photo: Twitter) New Delhi: Parag Agrawal, who has recently been named as the CEO of microblogging platform Twitter, will receive an annual salary of USD 1 million along with other perks and bonuses.
 
 
+***
+![2022 Mazda CX-5 starts at $27,125: Here's what the price bump gets you](https://cdn.slashgear.com/wp-content/uploads/2021/12/2022_CX_5_2_5_Turbo_Signature_01-1280x703.v2.jpg "2022 Mazda CX-5 starts at $27,125: Here's what the price bump gets you")
+
+
+[2022 Mazda CX-5 starts at $27,125: Here's what the price bump gets you](https://www.slashgear.com/2022-mazda-cx-5-starts-at-27125-heres-what-the-price-bump-gets-you-01700870/)
+
+
+> Mazda unveiled its best-selling 2022 CX-5 crossover a few months ago, but the Japanese automaker failed to mention pricing and trim levels. As it turns out, the 2022 Mazda CX-5 gets new trim designations and a mild price hike. In return, the updated CX-5 receives standard all-wheel-drive (AWD) across the board, with base prices starting at $27,125 (including $1,225 destination fees) for the base 2.5 S trim. For the money, the Mazda CX-5 2.5 S has a naturally-aspirated 2.5-liter four-cylinder engine under the hood, pumping out 187 horsepower and 186 pound-feet of torque to a six-speed automatic gearbox and Mazda's i-Active AWD system.
+
+
+***
+![Xbox Game Pass December 2021 adds Halo Infinite, Stardew Valley, Among Us](https://cdn.slashgear.com/wp-content/uploads/2021/12/Halo-Infinite-Master-Chief-AR.jpg "Xbox Game Pass December 2021 adds Halo Infinite, Stardew Valley, Among Us")
+
+
+[Xbox Game Pass December 2021 adds Halo Infinite, Stardew Valley, Among Us](https://www.slashgear.com/xbox-game-pass-december-2021-adds-halo-infinite-stardew-valley-among-us-01700893/)
+
+
+> Today we kick off the final month of 2021, and with the arrival of December comes news of more additions to Xbox Game Pass. December is shaping up to be a big month for Microsoft's subscription service, thanks in no small part to the arrival of Halo Infinite. The latest game in Microsoft's flagship franchise will be joined by some beloved indie classics as well. Xbox Game Pass games, early December 2021 The new additions start with a bang tomorrow, December 2nd, with the arrival of a bunch of games: Anvil (console and PC), Archvale (cloud, console, and PC), Final Fantasy XIII-2 (console and PC), Lawn Mowing Simulator (cloud, console, and PC), Rubber Bandits (cloud, console, and PC), Stardew Valley (cloud, console, and PC), and Warhammer 40,000: Battlesector (cloud, console, and PC).
+
+
+***
+![Here's who should buy the new GoPro Enduro battery](https://cdn.slashgear.com/wp-content/uploads/2021/11/gopro-enduro-battery.jpg "Here's who should buy the new GoPro Enduro battery")
+
+
+[Here's who should buy the new GoPro Enduro battery](https://www.slashgear.com/heres-who-should-buy-the-new-gopro-enduro-battery-01700851/)
+
+
+> Action camera company GoPro announced a new accessory called the Enduro battery in late October. Enduro is designed for the HERO9 and HERO10 Black action cameras, replacing the stock batteries to offer improved performance. Though it's not a necessary accessory, Enduro will drastically improve the GoPro experience for certain users. Taffpixture/Shutterstock Enduro battery GoPro The GoPro Enduro is a 1720mAh lithium-ion battery, the same capacity offered by the regular GoPro battery. The big difference between the two, according to GoPro, is the ability to run at exceedingly cold temperatures.
+
+
+***
+![Ultrahot Jupiter exoplanet orbits its star in 16 hours](https://cdn.slashgear.com/wp-content/uploads/2021/12/exoplanet-close-to-star.jpg "Ultrahot Jupiter exoplanet orbits its star in 16 hours")
+
+
+[Ultrahot Jupiter exoplanet orbits its star in 16 hours](https://www.slashgear.com/ultrahot-jupiter-exoplanet-orbits-its-star-in-16-hours-01700890/)
+
+
+> We all know that it takes the Earth 365 days to orbit the Sun, marking an entire year. In our solar system, a year on other planets varies greatly depending on how close they are to our star. Mercury, which is both the smallest planet and the closest planet to the sun, takes 88 days to orbit the star. By comparison, dwarf planet Pluto takes 248 years to orbit the Sun. MIT astronomers have discovered an exoplanet described as an ultrahot Jupiter that orbits much more quickly and much closer to its host star than Mercury.
+
+
+***
+![Capstone Connected Thin Cast Smart Mirror Review](https://cdn.slashgear.com/wp-content/uploads/2021/11/capstone_connected_smart_mirror_10.jpg "Capstone Connected Thin Cast Smart Mirror Review")
+
+
+[Capstone Connected Thin Cast Smart Mirror Review](https://www.slashgear.com/capstone-connected-smart-mirror-review-01700822/)
+
+
+> Star Trek: The Next Generation promised me hidden displays in every wall, and now Capstone Connected claims to have delivered with its Thin Cast Smart Mirror. At first glance a regular mirror, it's only when the hidden touchscreen wakes up behind the glass that you realize the tech functionality baked inside. Capstone has two sizes of mirror, the Standard ($799) – which I have here – intended to be wall-mounted, and a larger Fitness/Wardrobe ($999) version which can be wall-mounted or used free-standing.
+
+
