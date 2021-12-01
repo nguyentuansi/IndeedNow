@@ -35181,3 +35181,43 @@
 > Google Play Store contains a variety of games and applications for users and in no means it lacks any of it, anytime.However, with a plethora of options and even new ones coming year after year, it ca be hard to choose from. However, each year a few apps reach up to hype, become the most downloaded and the talk of town, until they die down and history repeats itself.This year as well the Users' Choice section helped users choose their favorite apps from each categories. While last year, movie and book categories were provided too, this year that particular category was absent.
 
 
+***
+![What supply chain mess? For Buy Nothing devotees, it's not a problem](https://apicms.thestar.com.my/uploads/images/2021/12/01/1388731.jpeg "What supply chain mess? For Buy Nothing devotees, it's not a problem")
+
+
+[What supply chain mess? For Buy Nothing devotees, it's not a problem](https://www.thestar.com.my/tech/tech-news/2021/12/01/what-supply-chain-mess-for-buy-nothing-devotees-its-not-a-problem)
+
+
+> Imagine not worrying about supply chain delays or the likelihood that your e-commerce order is stuck somewhere on a cargo ship. That's what life is like for members of the Buy Nothing Project, the terribly unfun name for a movement in which folks give away stuff they don't need: children's clothing, backyard produce, knickknacks, electronics, even big-ticket items such as cars. The Buy Nothing ethos has been surging by providing goods and personal connection during a time when both have been in short supply.
+
+
+***
+![Nokia origin story chronicled in series ‘Mobile 101': Inside the making of a Finnish tech thriller](https://apicms.thestar.com.my/uploads/images/2021/12/01/1388631.jpg "Nokia origin story chronicled in series ‘Mobile 101': Inside the making of a Finnish tech thriller")
+
+
+[Nokia origin story chronicled in series ‘Mobile 101': Inside the making of a Finnish tech thriller](https://www.thestar.com.my/tech/tech-news/2021/12/01/nokia-origin-story-chronicled-in-series-mobile-101-inside-the-making-of-a-finnish-tech-thriller)
+
+
+> LOS ANGELES: Almost anyone over 30 has owned a Nokia phone at some point in their lives, but not many people know that the iconic brand was created at a Finnish company formerly specialising in rubber boots. Once the world's biggest mobile manufacturer at the turn of the 21st century, the company was nearly wiped out of the smartphone market by Apple's iPhone and Google's Android well before 2010, and ultimately sold its handset division to Microsoft in 2013. When news broke of Microsoft's takeover on TV, Finnish director Maarit Lalli's first thought was, 'There's going to be only one (drama) on Nokia in Finland: It will either be me or someone else, and it's most likely going to be made by a man,' she told Variety during a set visit in Helsinki.
+
+
+***
+![How a Stanford couple from Taiwan created the island's first AI unicorn after eight failed attempts](https://apicms.thestar.com.my/uploads/images/2021/12/01/1388536.jpg "How a Stanford couple from Taiwan created the island's first AI unicorn after eight failed attempts")
+
+
+[How a Stanford couple from Taiwan created the island's first AI unicorn after eight failed attempts](https://www.scmp.com/tech/tech-trends/article/3157914/how-stanford-couple-taiwan-created-islands-first-ai-unicorn-after?utm_source=thestar&utm_medium=partner&utm_campaign=contentexchange&utm_content=3157914)
+
+
+> When computer science major Chih-Han Yu met bio-immunology major Winnie Lee at Stanford University in 2003, they had little inkling they would go on to build Taiwan's best-known artificial intelligence (AI) company. Fast forward nearly two decades and Appier, which develops AI-based solutions for precision marketing, has listed on the Tokyo Stock Exchange after becoming Taiwan's first digital unicorn in 2020. These days, Yu and Lee are often lauded as the No 1 power couple in the self-ruled island's AI scene.
+
+
+***
+![Twitter CEO Parag Agrawal to receive $1mn annual salary](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vas3e9jhabjlq920pbde5dc632-20211130135819.jpeg "Twitter CEO Parag Agrawal to receive $1mn annual salary")
+
+
+[Twitter CEO Parag Agrawal to receive $1mn annual salary](https://www.asianage.com/technology/in-other-news/011221/twitter-ceo-parag-agrawal-to-receive-1mn-annual-salary.html)
+
+
+> PTI Published : Dec 1, 2021, 2:24 pm IST Updated : Dec 1, 2021, 2:24 pm IST Agrawal, 37, holds a bachelor's degree from IIT Bombay and a PhD in computer science from Stanford University  Parag Agrawal, who succeeds Jack Dorsey in this role - served as Twitter's Chief Technology Officer since 2017, and has been responsible for the company's technical strategy. (Photo: Twitter) New Delhi: Parag Agrawal, who has recently been named as the CEO of microblogging platform Twitter, will receive an annual salary of USD 1 million along with other perks and bonuses.
+
+
