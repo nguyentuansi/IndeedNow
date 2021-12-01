@@ -35141,3 +35141,43 @@
 > Gartner: Global AI software market will reach US$62 billion in 2022 Gartner predicts that the total revenue of global artificial intelligence (AI) software market is expected to reach US$62.5 billion in 2022, an increase of 21.3% compared to 2021. The five fields with the highest spending on AI software in 2022 will be knowledge management, virtual assistant, autonomous driving, digital workplace, and crowdsourced database. MIIT promotes construction of digital workshop and intelligent factory in key equipment areas Recently, the Ministry of Industry and Information Technology issued the "Fourteenth Five-Year Plan for the Deep Integration of Informatization and Industrialization".
 
 
+***
+![Kok Lanas, Kelantan state assemblyman Datuk Seri Haji Md Alwi Haji Che Ahmad is new MDEC chairman](https://apicms.thestar.com.my/uploads/images/2021/12/01/1388233.jpg "Kok Lanas, Kelantan state assemblyman Datuk Seri Haji Md Alwi Haji Che Ahmad is new MDEC chairman")
+
+
+[Kok Lanas, Kelantan state assemblyman Datuk Seri Haji Md Alwi Haji Che Ahmad is new MDEC chairman](https://www.thestar.com.my/tech/tech-news/2021/12/01/kok-lanas-kelantan-state-assemblyman-datuk-seri-haji-md-alwi-haji-che-ahmad-is-new-mdec-chairman)
+
+
+> Prior to serving as state assemblyman for Kok Lanas, Kelantan, Md Alwi was the MP for Ketereh from 2004 to 2008. — MDEC PETALING JAYA: The Malaysia Digital Economy Corporation (MDEC) has announced Datuk Seri Haji Md Alwi Haji Che Ahmad as its new chairman, effective Dec 1, for a period of two years. According to a statement, Md Alwi who holds a Master's Degree in public administration from Universiti Utara Malaysia (UUM) is also the state assemblyman for Kok Lanas, Kelantan. Prior to serving as state assemblyman, Md Alwi was the Member of Parliament for Ketereh from 2004 to 2008.
+
+
+***
+![New Twitch tool helps battle ban evaders](https://apicms.thestar.com.my/uploads/images/2021/12/01/1388257.jpg "New Twitch tool helps battle ban evaders")
+
+
+[New Twitch tool helps battle ban evaders](https://www.thestar.com.my/tech/tech-news/2021/12/01/new-twitch-tool-helps-battle-ban-evaders)
+
+
+> The tool uses machine learning software, a form of artificial intelligence, that Twitch says analyses accounts and flags suspicious ones as either ‘likely' or ‘possible' fraudsters to moderators. — AFP SAN FRANCISCO: Gaming platform Twitch on Nov 30 introduced a tool that detects and blocks users who evade bans, a longstanding problem for victims of harassment. The leader in live videogame streaming has struggled for months to stem a wave of racist and homophobic harassment, which includes so-called 'hate raids' against certain content creators.
+
+
+***
+![AI vigilantes fuel censorship fears in Russian cyberspace](https://apicms.thestar.com.my/uploads/images/2021/12/01/1388231.jpg "AI vigilantes fuel censorship fears in Russian cyberspace")
+
+
+[AI vigilantes fuel censorship fears in Russian cyberspace](https://www.thestar.com.my/tech/tech-news/2021/12/01/ai-vigilantes-fuel-censorship-fears-in-russian-cyberspace)
+
+
+> TBILISI: A woman posing in a thong outside a church; a single mother who berated Russian lawmakers and President Vladimir Putin; a saxophonist who criticised World War Two commemorations. They are among thousands of Russians who have faced court over their social media posts in the past year – a number digital rights groups say could soon turn into a deluge as authorities use artificial intelligence (AI) to police the Web. 'We expect that all content posted on social media (in Russia) will be monitored by automated software,' said Sarkis Darbinyan, head of the legal department for digital rights group Roskomsvoboda.
+
+
+***
+![Google Play Store highlights its best games and apps which were voted by users and their editors in 2021](https://blogger.googleusercontent.com/img/a/AVvXsEif600nFNTAI-o-RXXFUYge6fn0QYOhzwNrPW1gyWYCKguB2rS9zVTsL2Dur69oHQovaiIzMqXgCwrtHoAUKQf4Z7J8pcKjJvbtL3LopMMIO-UqZw1QWBRaQuIPNJYTvVSQodK-gv2h8BJgjofHjMZkdT6pS9Q_QVljqebQ0qqgFhYsD0ctgdoYjFgx=s16000 "Google Play Store highlights its best games and apps which were voted by users and their editors in 2021")
+
+
+[Google Play Store highlights its best games and apps which were voted by users and their editors in 2021](https://www.digitalinformationworld.com/2021/12/google-play-store-highlights-its-best.html)
+
+
+> Google Play Store contains a variety of games and applications for users and in no means it lacks any of it, anytime.However, with a plethora of options and even new ones coming year after year, it ca be hard to choose from. However, each year a few apps reach up to hype, become the most downloaded and the talk of town, until they die down and history repeats itself.This year as well the Users' Choice section helped users choose their favorite apps from each categories. While last year, movie and book categories were provided too, this year that particular category was absent.
+
+
