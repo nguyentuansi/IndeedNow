@@ -35051,3 +35051,53 @@
 > Over the holiday weekend, 343 Industries indicated that more progression changes were on the way to Halo Infinite. 343 has wasted little time in coming up with a solution to fan complaints, as overnight, it revealed XP changes that will be heading to the game. Players will now get an XP bonus for their first several matches played each day, regardless of whether they win or lose. New bonus XP will help with Halo Infinite progression In a thread published to Twitter, Halo community manager John Junyszek detailed the bonus XP players will get for their first six matches played each day.
 
 
+***
+![Tech regulation leads the agenda at UK G7 forum](https://dzm0ugdauank9.cloudfront.net/wp-content/uploads/2021/11/2021-11-30T210539Z_3_LYNXMPEHAT197_RTROPTP_0_USA-BIDEN-CYBER_1.jpg "Tech regulation leads the agenda at UK G7 forum")
+
+
+[Tech regulation leads the agenda at UK G7 forum](https://www.oann.com/tech-regulation-leads-the-agenda-at-uk-g7-forum/)
+
+
+> FILE PHOTO: A man types on a computer keyboard in this illustration picture taken February 28, 2013. REUTERS/Kacper Pempel November 30, 2021 LONDON (Reuters) – Governments, tech leaders and policymakers discussed working together to ensure the internet remains open and democratic, and to improve online safety by better regulation at a conference in London, a British minister said. The two-day Future Tech Forum, which marked the end of Britain's G7 Digital and Tech Presidency, built on a declaration in April to create a more productive and resilient global economy with digital technology at its heart, Minister for Tech and the Digital Economy Chris Philp told Reuters.
+
+
+***
+![Snapdragon 8 Gen 1 revealed: The details that matter to your next phone](https://cdn.slashgear.com/wp-content/uploads/2021/11/snapdragon8gen1_qualcomm.jpg "Snapdragon 8 Gen 1 revealed: The details that matter to your next phone")
+
+
+[Snapdragon 8 Gen 1 revealed: The details that matter to your next phone](https://www.slashgear.com/snapdragon-8-gen-1-revealed-the-details-that-matter-to-your-next-phone-30700756/)
+
+
+> Today we're taking a peek at the newly-revealed Snapdragon 8 Gen 1 Mobile Platform from Qualcomm. This next-generation tech will be delivered to smart devices in the very near future – for now, we're exploring what Qualcomm revealed to us about their next Mobile Platform for the most powerful smartphones (and related smart devices) in the world. Today we've got a list of the details that'll matter to you, the end user. 5. A few basic bits Qualcomm's Snapdragon 8 Gen 1 Mobile Platform works with 4nm Process Technology and support for 4K resolution with 60 Hz (60 frames per second image refresh rate), or QHD+ resolution with 144 Hz support.
+
+
+***
+![Scientists use AI to design self-replicating xenobots from frog cells](https://cdn.slashgear.com/wp-content/uploads/2021/11/xenobots-harvard-study-self-replicating.jpg "Scientists use AI to design self-replicating xenobots from frog cells")
+
+
+[Scientists use AI to design self-replicating xenobots from frog cells](https://www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/)
+
+
+> Last year, a team of scientists announced the development of 'living robots,' a new type of organism made using cells harvested from frog embryos. That same team is back with an update on these 'robots,' which they call xenobots, detailing a new scientific milestone: the ability to self replicate using existing cells. Douglas Blackiston and Sam Kriegman/Harvard Though life abounds, it nearly universally replicates in the same way — by growing, then eventually 'shedding,' offspring. The xenobots detailed in the new study (via PNAS), however, are able to produce a new generation of offspring in a different way.
+
+
+***
+![Bethesda teases Starfield's two big ‘step-out moments'](https://cdn.slashgear.com/wp-content/uploads/2021/11/Starfield-concept-art-nighttime.jpg "Bethesda teases Starfield's two big ‘step-out moments'")
+
+
+[Bethesda teases Starfield's two big ‘step-out moments'](https://www.slashgear.com/bethesda-teases-starfields-two-big-step-out-moments-30700817/)
+
+
+> Bethesda's Starfield is still a year away, but ever since E3 2021, the company has been slowly teasing new details about the game. Today, the company published what is presumably the first in a series of developer diaries called 'Into the Starfield.' While the first episode doesn't really get into specifics about the game, Bethesda boss Todd Howard does drop a particularly tantalizing tease at the end. How Starfield sticks to the Bethesda formula Most of the discussion in this first episode of Into the Starfield is less about the game itself and more about the high-level concepts behind it.
+
+
+***
+![61 Holiday Zoom Backgrounds That Will Make Virtual Celebrations Merry and Bright](https://media1.popsugar-assets.com/files/thumbor/B1qnHKHCgN-KaAffzgD5LaNL8Qk/0x0:1451x762/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2020/12/15/903/n/1922507/35335f0e5fd91f71298de9.67741114_.jpg "61 Holiday Zoom Backgrounds That Will Make Virtual Celebrations Merry and Bright")
+
+
+[61 Holiday Zoom Backgrounds That Will Make Virtual Celebrations Merry and Bright](https://www.popsugar.com/tech/holiday-zoom-backgrounds-48060473)
+
+
+> The holidays are here, and for many, Zoom is still this year's go-to platform for Christmas parties, Hanukkah gatherings, and festive family functions. Video calls are making it possible for people to connect with loved ones all over the world, no matter how far they might be from one another. To get in the holiday spirit, displaying a bright and merry background on your device is a foolproof way to go. From images of glittery Christmas presents to wishful winter wonderlands, these themed scenes will fill your virtual gathering with nothing but holiday cheer.
+
+
