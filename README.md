@@ -35101,3 +35101,43 @@
 > The holidays are here, and for many, Zoom is still this year's go-to platform for Christmas parties, Hanukkah gatherings, and festive family functions. Video calls are making it possible for people to connect with loved ones all over the world, no matter how far they might be from one another. To get in the holiday spirit, displaying a bright and merry background on your device is a foolproof way to go. From images of glittery Christmas presents to wishful winter wonderlands, these themed scenes will fill your virtual gathering with nothing but holiday cheer.
 
 
+***
+![Google told to turn over documents in activists' US labour case](https://apicms.thestar.com.my/uploads/images/2021/12/01/1388015.jpg "Google told to turn over documents in activists' US labour case")
+
+
+[Google told to turn over documents in activists' US labour case](https://www.thestar.com.my/tech/tech-news/2021/12/01/google-told-to-turn-over-documents-in-activists-us-labour-case)
+
+
+> Bogas ruled that only nine of 80 documents he looked at as of Nov 26 were properly characterised as privileged, said Burgess. — Dreamstime/TNS Google improperly sought to withhold internal documents from a US National Labour Relations Board trial over complaints that the company fired workers for their unionisation efforts and activism, according to a judge reviewing the material. NLRB Administrative Law Judge Paul Bogas, who was named as a Special Master to review the documents, ruled that only nine of 80 documents he looked at as of Nov 26 were properly characterised as privileged, Laurie Burgess, a lawyer for the fired workers, said in a statement Tuesday.
+
+
+***
+![Finland battles ‘exceptional' malware attack spread by phones](https://apicms.thestar.com.my/uploads/images/2021/12/01/1388021.jpg "Finland battles ‘exceptional' malware attack spread by phones")
+
+
+[Finland battles ‘exceptional' malware attack spread by phones](https://www.thestar.com.my/tech/tech-news/2021/12/01/finland-battles-exceptional-malware-attack-spread-by-phones)
+
+
+> The messages started beeping on Finns' mobiles late last week, prompting the National Cyber Security Centre to issue a ‘severe alert'. — Photo by ROBIN WORRALL on Unsplash Finland is working to stop a flood of text messages of an unknown origin that are spreading malware. The messages with malicious links to malware called FluBot number in the millions, according to Aino-Maria Vayrynen, information security specialist at the National Cyber Security Centre. Telia Co AB, the country's second-biggest telecommunications operator, has intercepted some hundreds of thousands of messages.
+
+
+***
+![Tesla's Shanghai factory on track to make 500,000 cars this year](https://apicms.thestar.com.my/uploads/images/2021/12/01/1388076.jpg "Tesla's Shanghai factory on track to make 500,000 cars this year")
+
+
+[Tesla's Shanghai factory on track to make 500,000 cars this year](https://www.thestar.com.my/tech/tech-news/2021/12/01/tesla039s-shanghai-factory-on-track-to-make-500000-cars-this-year---think-tank-ev100)
+
+
+> FILE PHOTO: A Tesla sign is seen at the U.S. electric vehicle maker's factory in Shanghai, China, May 13, 2021. REUTERS/Aly Song SHANGHAI (Reuters) - Tesla's Shanghai factory is on track to meet its goal of making 500,000 vehicles this year, the U.S. automaker's vice president told Chinese think tank EV100 in an interview. The EV100 think tank quoted Tao Lin as giving the figure in an article published on its official WeChat account. Tao also said the Shanghai factory had localized more than 90% of its supply chain.
+
+
+***
+![China Tech Digest: Global AI Software Market Will Reach $62B In 2022; BlueFocus To Launch Virtual Human](https://assets.chinamoneynetwork.com/wp-content/uploads/20211201093421/ai2-1-696x435.jpg "China Tech Digest: Global AI Software Market Will Reach $62B In 2022; BlueFocus To Launch Virtual Human")
+
+
+[China Tech Digest: Global AI Software Market Will Reach $62B In 2022; BlueFocus To Launch Virtual Human](https://www.chinamoneynetwork.com/2021/12/01/china-tech-digest-global-ai-software-market-will-reach-62b-in-2022-bluefocus-to-launch-virtual-human)
+
+
+> Gartner: Global AI software market will reach US$62 billion in 2022 Gartner predicts that the total revenue of global artificial intelligence (AI) software market is expected to reach US$62.5 billion in 2022, an increase of 21.3% compared to 2021. The five fields with the highest spending on AI software in 2022 will be knowledge management, virtual assistant, autonomous driving, digital workplace, and crowdsourced database. MIIT promotes construction of digital workshop and intelligent factory in key equipment areas Recently, the Ministry of Industry and Information Technology issued the "Fourteenth Five-Year Plan for the Deep Integration of Informatization and Industrialization".
+
+
