@@ -35351,3 +35351,43 @@
 > Garena Free Fire, which is an action-adventure battle royal game, is hugely popular among e-gamers and is available for download on the Google Playstore.  Garena periodically releases redeem 14-digit codes which is a combination of letters and words. However, Free Fire redemption codes are restricted to a specific server. Players also get free rewards on a daily basis and these codes can be used to get the benefit of unlocking certain steps and getting various reward points. Garena Free Fire redeem codes can be claimed via the game's official website -  garena.
 
 
+***
+![Razer CEO: Brace for laptop price hike due to component costs](https://apicms.thestar.com.my/uploads/images/2021/12/02/1389622.jpg "Razer CEO: Brace for laptop price hike due to component costs")
+
+
+[Razer CEO: Brace for laptop price hike due to component costs](https://www.thestar.com.my/tech/tech-news/2021/12/02/razer-ceo-brace-for-laptop-price-hike-due-to-component-costs)
+
+
+> Companies are struggling to keep up with rising consumer demand for products as the pandemic has spurred more people to switch their lives online. — Photo by Christian Wiediger on Unsplash Razer's CEO Min-Liang Tan has indicated that the prices of its gaming laptops will increase next year as a global chip shortage pushes up the price of components needed to manufacture devices. Tan tweeted: 'Just had a long meeting to review our gaming laptops line for next year – looks like there are significant increases in component costs etc and we'll be seeing price increases for next gen gaming laptops across the board (including the @Razer Blade) next year.
+
+
+***
+![Facebook won't change if ‘only incentive is profit', Haugen says](https://apicms.thestar.com.my/uploads/images/2021/12/02/1389621.jpg "Facebook won't change if ‘only incentive is profit', Haugen says")
+
+
+[Facebook won't change if ‘only incentive is profit', Haugen says](https://www.thestar.com.my/tech/tech-news/2021/12/02/facebook-wont-change-if-only-incentive-is-profit-haugen-says)
+
+
+> The whistle-blower who revealed thousands of internal Facebook documents urged US Congress on Dec 1 to change social media's business incentives so platforms are forced to consider long-term harms to users and society, rather than just short-term profits. Speaking before the House subcommittee on technology, Frances Haugen, a former Facebook product manager, said the best strategy for legislation would focus on product design and transparency to 'open up the black box at Facebook'. She warned against rules that target specific kinds of content.
+
+
+***
+![Google temp, fired for being ‘ungoogley', files complaint](https://apicms.thestar.com.my/uploads/images/2021/12/02/1389541.jpg "Google temp, fired for being ‘ungoogley', files complaint")
+
+
+[Google temp, fired for being ‘ungoogley', files complaint](https://www.thestar.com.my/tech/tech-news/2021/12/02/google-temp-fired-for-being-ungoogley-files-complaint)
+
+
+> Carne, 29, worked to maintain the equipment at a Google site in South Carolina. Google fills many of these roles with contract firms such as Modis, a unit of Adecco Group AG. — Reuters Tuesday Carne had only worked inside a Google data centre for nine days before she was allegedly fired for being 'ungoogley'. Now the temp worker is at the centre of a new complaint with the US National Labor Relations Board against her employer, Modis, and Alphabet Inc's Google, marking another workplace dispute for the world's third-biggest company by market value.
+
+
+***
+![People on ‘autopilot' as remote work continues, US doctors say. What's at risk?](https://apicms.thestar.com.my/uploads/images/2021/12/02/1389255.jpg "People on ‘autopilot' as remote work continues, US doctors say. What's at risk?")
+
+
+[People on ‘autopilot' as remote work continues, US doctors say. What's at risk?](https://www.thestar.com.my/tech/tech-news/2021/12/02/people-on-autopilotas-remote-work-continues-us-doctors-say-whats-at-risk)
+
+
+> Boundaries are broken down, people often experience isolation and loneliness and their physical health, in some cases, can suffer during prolonged remote work, California health experts said. Many Americans are nearing their second year of working from home due to the Covid-19 pandemic. And while this allows for more convenience and fewer commutes, teleworking has impacted the mental and physical health of many people, experts told The Bee. According to a poll in 2021 by the American Psychiatric Association, a majority of the 1,000 people surveyed said they experienced mental health impacts from working from home, including isolation and loneliness.
+
+
