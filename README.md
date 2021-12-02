@@ -35431,3 +35431,53 @@
 > News Desk | banglanews24.com Update: 2021-12-02 15:22:35 Bangladeshi engineer Bashima Islam has been named in Forbes 30 under 30 list 2022 under the science category. Forbes uploaded a short profile of Bashima on its website. It wrote: Islam, an incoming assistant professor at Worcester Polytechnic Institute, is engineering the next generation of internet of things devices to operate without batteries. She is developing intermittently powered devices using solar energy and radio frequency, as well as an acoustic sensing wearable to warn pedestrians of the danger of approaching cars.
 
 
+***
+![Polaris Ranger XP Kinetic all-electric UTV features a few enticing cost-cutting claims](https://cdn.slashgear.com/wp-content/uploads/2021/12/2023-ranger-xp-kinect-15.jpg "Polaris Ranger XP Kinetic all-electric UTV features a few enticing cost-cutting claims")
+
+
+[Polaris Ranger XP Kinetic all-electric UTV features a few enticing cost-cutting claims](https://www.slashgear.com/polaris-ranger-xp-kinetic-all-electric-utv-features-a-few-enticing-cost-cutting-claims-02700982/)
+
+
+> Polaris has unveiled the Ranger XP Kinetic, an all-electric utility terrain vehicle (UTV) developed with Zero Motorcycles. Last March, Polaris and Zero announced their partnership to create an electric version of the former's popular Ranger UTV. Polaris claims the Ranger XP Kinetic is setting new standards for UTV performance and productivity, and it has the muscle to back up that bold claim. The all-new Polaris Ranger XP Kinetic is available as a three-seat model and is sold in two variants: Premium and Ultimate.
+
+
+***
+![Android 12L tablet-friendly OS starts here, with Lenovo](https://cdn.slashgear.com/wp-content/uploads/2021/12/p12-pro-kb.jpg "Android 12L tablet-friendly OS starts here, with Lenovo")
+
+
+[Android 12L tablet-friendly OS starts here, with Lenovo](https://www.slashgear.com/android-12l-tablet-friendly-os-starts-here-with-lenovo-02700965/)
+
+
+> Google made a rather unexpected but definitely welcomed announcement in late October that puts a better focus on Android running on large screens, which included not just tablets but also everyone's favorite foldables. Of course, the easiest devices to target with Android 12L are tablets, so it's probably no surprise that a tablet is also the first to get the special spin's first developer preview. As announced back then, the Lenovo Tab P12 Pro is getting that preferential treatment, but its availability almost makes it pretty pointless for many developers.
+
+
+***
+![Galaxy S21 FE price leak suggests Samsung's plan worked](https://cdn.slashgear.com/wp-content/uploads/2021/12/02_galaxys21_ultra_lifestyle_cut_201231022749.jpg "Galaxy S21 FE price leak suggests Samsung's plan worked")
+
+
+[Galaxy S21 FE price leak suggests Samsung's plan worked](https://www.slashgear.com/galaxy-s21-fe-price-leak-suggests-samsungs-plan-worked-02701013/)
+
+
+> While Samsung is projecting positive numbers for the sales of its foldable phones, it has had a rather rough year when you consider the rest of its mobile lineup. The Galaxy S20 series didn't rise up to expectations, and the absence of a Galaxy Note this year was strongly felt and heavily discussed. Even the Galaxy S21 FE, which should have launched last October, is becoming a sort of albatross around Samsung's next. It will still arrive next month against all odds, but the odds of its success look slimmer than ever.
+
+
+***
+![This man has the world's first 3D printed eye](https://cdn.slashgear.com/wp-content/uploads/2021/12/fraueyeman.jpg "This man has the world's first 3D printed eye")
+
+
+[This man has the world's first 3D printed eye](https://www.slashgear.com/this-man-has-the-worlds-first-3d-printed-eye-02701017/)
+
+
+> There are a variety of injuries and disease conditions that can result in the loss of an eye. Often, prosthetic eyes are made of glass painted to look like a natural eyeball. However, in the future prosthetic eye replacements will be made by 3D printers. Researchers at Fraunhofer Technology have made breakthroughs in 3D printing prosthetic eyes and have supplied their 3D printed eye to the first patient. Moorfields Eye Hospital NHS Foundation Trust Fraunhofer researchers have developed several new technologies that improve the current manual production of individual prosthetic devices.
+
+
+***
+![Galaxy A series could get a much-needed durability upgrade in 2022](https://cdn.slashgear.com/wp-content/uploads/2021/12/samsung-a-series-leak.jpg "Galaxy A series could get a much-needed durability upgrade in 2022")
+
+
+[Galaxy A series could get a much-needed durability upgrade in 2022](https://www.slashgear.com/galaxy-a-series-could-get-a-much-needed-durability-upgrade-in-2022-02700961/)
+
+
+> Though Samsung wants people to buy its pricey Galaxy S and foldable Galaxy Z flagship smartphones, not everyone can afford to do so. The popularity of its Galaxy A series handsets over the past year or so has proven there's a large market for its mid-range line, especially for models with 5G capabilities (via Canalys). With that in mind, it's no surprise Samsung will give its Galaxy A phones some big upgrades in 2022, at least according to a new report citing industry insiders. Image: Samsung Over the past three or so months, rumors have painted Samsung's 2022 mid-range smartphones in a more positive light.
+
+
