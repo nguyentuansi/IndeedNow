@@ -35271,3 +35271,53 @@
 > Star Trek: The Next Generation promised me hidden displays in every wall, and now Capstone Connected claims to have delivered with its Thin Cast Smart Mirror. At first glance a regular mirror, it's only when the hidden touchscreen wakes up behind the glass that you realize the tech functionality baked inside. Capstone has two sizes of mirror, the Standard ($799) – which I have here – intended to be wall-mounted, and a larger Fitness/Wardrobe ($999) version which can be wall-mounted or used free-standing.
 
 
+***
+![FDA warns to check broccoli tots for rocks after dental damage reports](https://cdn.slashgear.com/wp-content/uploads/2021/12/broccoli-tots-recall-rocks-fda.jpg "FDA warns to check broccoli tots for rocks after dental damage reports")
+
+
+[FDA warns to check broccoli tots for rocks after dental damage reports](https://www.slashgear.com/fda-warns-to-check-broccoli-tots-for-rocks-after-dental-damage-reports-01700950/)
+
+
+> If you've made the switch from tater tots to the arguably healthier broccoli tots alternative (they're basically tater tots, but made from, you know, broccoli), pay attention to a new recall notice published on the FDA's website. According to the advisory, some frozen broccoli tots products have been recalled because they may contain small pieces of metal or rocks. Bukhta Yurii/Shutterstock The recall comes from the company Conagra Brands, Inc., and involves the Birds Eye brand. Complaints from customers made the company aware of the issue, according to its recall notice, prompting a voluntary recall involving 12-ounce packages of the tots sold with select 'Best By' dates.
+
+
+***
+![Razer made a Snapdragon G3x handheld to show us Qualcomm's gaming vision](https://cdn.slashgear.com/wp-content/uploads/2021/12/SnapdragonG3xgen1Handheldjpg.jpg "Razer made a Snapdragon G3x handheld to show us Qualcomm's gaming vision")
+
+
+[Razer made a Snapdragon G3x handheld to show us Qualcomm's gaming vision](https://www.slashgear.com/razer-made-a-snapdragon-g3x-handheld-to-show-us-qualcomms-gaming-vision-01700946/)
+
+
+> Since Nintendo put games in consumers pockets with the Game & Watch, gamers have been seeking the ideal mobile gaming machine. From the Nintendo Game Boy to the Sega Game Gear on forward to the NVIDIA SHIELD and the Nintendo Switch, we've been seeing the same basic idea played over and over again. The next entry in this device category comes from both Qualcomm and Razer. On one hand we have the Snapdragon G3x Gen 1 Gaming Platform, a 'new category of gaming devices' – on the other, we have a device built with all the best bits of that platform in mind, made by Razer.
+
+
+***
+![WhatsApp Is Bringing Undo for Status Updates](https://telecomtalk.info/wp-content/uploads/2021/12/whatsapp-is-bringing-undo-for-status-updates.jpeg "WhatsApp Is Bringing Undo for Status Updates")
+
+
+[WhatsApp Is Bringing Undo for Status Updates](https://telecomtalk.info/whatsapp-is-bringing-undo-for-status-updates/482770/)
+
+
+> If users have the updated version of WhatsApp, they can simply find this feature on the bottom right of the screen.This 'Undo' option will be available for a few moments when a user uploads a status.WhatsApp has also informed that this feature is currently specific to beta testers. The cross-platform messaging application WhatsApp consistently brings new updates and features to enhance the experience of the users. Before implementing these updates on the app, WhatsApp just like most of the other apps launches these new features on its Beta platform.
+
+
+***
+![T-Mobile Agrees to Sell $3.0 Billion of Senior Secured Notes](https://mms.businesswire.com/media/20211201006238/en/1019646/23/T-Mobile_New_Logo_Primary_RGB_M-on-W_Transparent_%281%29.jpg "T-Mobile Agrees to Sell $3.0 Billion of Senior Secured Notes")
+
+
+[T-Mobile Agrees to Sell $3.0 Billion of Senior Secured Notes](https://www.businesswire.com/news/home/20211201006238/en/T-Mobile-Agrees-to-Sell-3.0-Billion-of-Senior-Secured-Notes)
+
+
+> December 01, 2021 07:31 PM Eastern Standard Time BELLEVUE, Wash.--(BUSINESS WIRE)--T-Mobile US, Inc. (NASDAQ: TMUS) ('T-Mobile') announced today that T-Mobile USA, Inc., its direct wholly-owned subsidiary ('T-Mobile USA'), has agreed to sell $500,000,000 aggregate principal amount of its 2.400% Senior Secured Notes due 2029 (the '2029 Notes'), $1,000,000,000 aggregate principal amount of its 2.700% Senior Secured Notes due 2032 (the '2032 Notes') and $1,500,000,000 aggregate principal amount of its 3.
+
+
+***
+![EU tech firms file anti-trust complaint against Microsoft](https://itwire.com/media/k2/items/cache/867aa1263f279020e1b930969b024a70_XS.jpg "EU tech firms file anti-trust complaint against Microsoft")
+
+
+[EU tech firms file anti-trust complaint against Microsoft](https://itwire.com/technology-regulation/eu-tech-firms-file-anti-trust-complaint-against-microsoft.html)
+
+
+> Pixabay Open-source file syncing and sharing software company Nextcloud, along with 30 other technology companies in the EU, has filed an anti-trust complaint against Microsoft for allegedly forcing companies to use its file-hosting service One Drive on Windows. A statement from Nextcloud said the complaint had been made to the European Commission and Germany's competition authority, with a complaint in France anticipated. The 31 companies, which have banded together under the name Coalition for a level playing field, accused Microsoft of integrating its 365 service deeper and deeper in its software.
+
+
