@@ -35391,3 +35391,43 @@
 > Boundaries are broken down, people often experience isolation and loneliness and their physical health, in some cases, can suffer during prolonged remote work, California health experts said. Many Americans are nearing their second year of working from home due to the Covid-19 pandemic. And while this allows for more convenience and fewer commutes, teleworking has impacted the mental and physical health of many people, experts told The Bee. According to a poll in 2021 by the American Psychiatric Association, a majority of the 1,000 people surveyed said they experienced mental health impacts from working from home, including isolation and loneliness.
 
 
+***
+![Apple、「第3回Apple Music Awards」発表　Official髭男dismも受賞](https://image.itmedia.co.jp/news/articles/2112/02/cover_news147.jpg "Apple、「第3回Apple Music Awards」発表　Official髭男dismも受賞")
+
+
+[Apple、「第3回Apple Music Awards」発表　Official髭男dismも受賞](https://www.itmedia.co.jp/news/articles/2112/02/news147.html)
+
+
+> Appleは、2021年の最も優れた、最も活躍したミュージシャン、世界の文化に与えた絶大な影響に対して贈られる「第3回Apple Music Awards」を発表した。 Global Artist of the Yearを受賞したThe Weeknd 　Global Artist of the Yearは「The Weeknd」が、Breakthrough Artist of the Year、Album of the Year、Song of the Yearは「オリヴィア・ロドリゴ」が、Songwriter of the Yearは「H.E.R.」が受賞した。 　2021年のApple Music Awardsは、アフリカ、フランス、ドイツ、日本、ロシアの5つの国と地域のアーティストを表彰する「Regional Artist of the Year」が新しく設けられ、日本は「Official髭男dism」が受賞した。「日本のアーティストが受賞できるなんて知らなかったので、とても驚いた。Apple Music Award for Artist of the Year (Japan) の第1回受賞者となったことは超うれしいです」とOfficial髭男dismはコメントしている。 Official髭男dism 　Apple Music Awardsを祝うさまざまなイベントは、2021年12月7日から始まる。 　1週間にわたる特別なパフォーマンス、ファンイベント、インタビューなどが行われ、その模様は全世界に、Apple Music、Apple Music TV、Apple TVアプリケーションを通じて配信される。   Apple、「第1回 Apple Music Awards」を発表　ビリー・アイリッシュのライブ放送も Steve Jobs Theaterでビリー・アイリッシュのストリーミング放送も行われる。 Logic ProのDolby Atmos対応は「空間オーディオ民主化」への第一歩　3次元空間でのランダムトレモロを体験してみないか？ Apple「Logic Pro」が空間オーディオミックスに対応　Dolby Atmosプラグインを統合 Dolby Atmosプラグインを統合し、空間オーディオミックスが可能になった。 MACお宝鑑定団Blog     Copyright (C) 1998 Mac Treasure Tracing Club.
+
+
+***
+![Robotaxis roaming around Yokohama are winning over unlikely fans](https://apicms.thestar.com.my/uploads/images/2021/12/02/1390156.jpg "Robotaxis roaming around Yokohama are winning over unlikely fans")
+
+
+[Robotaxis roaming around Yokohama are winning over unlikely fans](https://www.thestar.com.my/tech/tech-news/2021/12/02/robotaxis-roaming-around-yokohama-are-winning-over-unlikely-fans)
+
+
+> A safety driver behind the wheel of a Nissan Motor Co e-NV200 electric van during a demonstration of the ‘Easy Ride' on-demand automated vehicle dispatch service in Yokohama, Japan, on Nov 30, 2021. Nissan is carrying out Japan's largest demonstration to date of autonomous vehicles in an area to the south of Tokyo, as the automaker moves toward rolling out a commercial robotaxi service. — Bloomberg Nissan Motor Co is carrying out Japan's largest demonstration to date of autonomous vehicles in an area to the south of Tokyo, as the automaker moves toward rolling out a commercial robotaxi service.
+
+
+***
+![Facebook hits anti-vaccine campaign harassing doctors](https://apicms.thestar.com.my/uploads/images/2021/12/02/1390092.jpg "Facebook hits anti-vaccine campaign harassing doctors")
+
+
+[Facebook hits anti-vaccine campaign harassing doctors](https://www.thestar.com.my/tech/tech-news/2021/12/02/facebook-hits-anti-vaccine-campaign-harassing-doctors)
+
+
+> Since the start of the pandemic, misinformation has taken many forms, from false and dangerous health advice to so-called miracle cures, conspiracy theories, racist rhetoric and online scams. — Reuters SAN FRANCISCO: Facebook's parent company Meta said on Dec 1 it had derailed an anti-vaccine campaign that harassed medical workers, journalists and elected officials, in a signal of the ongoing pressure from coronavirus pandemic-tied misinformation. The social media giant took down accounts in France and Italy that were linked to a conspiracy movement called 'V_V', which inundated pro-vaccine posts with potentially tens of thousands of comments.
+
+
+***
+![Bangladeshi engineer Bashima featured in Forbes 30 under 30 list](https://www.banglanews24.com/english/public/uploads/2021/12/02/1638436955.Bashima.jpg "Bangladeshi engineer Bashima featured in Forbes 30 under 30 list")
+
+
+[Bangladeshi engineer Bashima featured in Forbes 30 under 30 list](https://www.banglanews24.com/english/technology/news/bd/92576.details)
+
+
+> News Desk | banglanews24.com Update: 2021-12-02 15:22:35 Bangladeshi engineer Bashima Islam has been named in Forbes 30 under 30 list 2022 under the science category. Forbes uploaded a short profile of Bashima on its website. It wrote: Islam, an incoming assistant professor at Worcester Polytechnic Institute, is engineering the next generation of internet of things devices to operate without batteries. She is developing intermittently powered devices using solar energy and radio frequency, as well as an acoustic sensing wearable to warn pedestrians of the danger of approaching cars.
+
+
