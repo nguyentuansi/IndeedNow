@@ -35321,3 +35321,33 @@
 > Pixabay Open-source file syncing and sharing software company Nextcloud, along with 30 other technology companies in the EU, has filed an anti-trust complaint against Microsoft for allegedly forcing companies to use its file-hosting service One Drive on Windows. A statement from Nextcloud said the complaint had been made to the European Commission and Germany's competition authority, with a complaint in France anticipated. The 31 companies, which have banded together under the name Coalition for a level playing field, accused Microsoft of integrating its 365 service deeper and deeper in its software.
 
 
+***
+![Tech 2022 trends: Meatless meat, Web 3.0, Big Tech battles](https://apicms.thestar.com.my/uploads/images/2021/12/02/1389248.jpg "Tech 2022 trends: Meatless meat, Web 3.0, Big Tech battles")
+
+
+[Tech 2022 trends: Meatless meat, Web 3.0, Big Tech battles](https://www.thestar.com.my/tech/tech-news/2021/12/02/tech-2022-trends-meatless-meat-web-30-big-tech-battles)
+
+
+> WASHINGTON: After a year that made the terms WFH (work from home) and metaverse instantly recognisable for many people, there are a new set of technological trends headed this way for 2022. Here's a selection of how technology may change lives in the coming year: Meatless meat Meat alternatives have become common in an increasing number of US households, thanks in part to Beyond Meat and Impossible Food plant-based products that come far closer to the texture and flavour of beef or pork. As the products have improved and the prices edged downward, demand has been boosted by concern about the environment: raising animals for food is responsible for a whopping 14.
+
+
+***
+![Australia's Afterpay delays meeting to vote on Square deal](https://apicms.thestar.com.my/uploads/images/2021/12/02/1389366.jpg "Australia's Afterpay delays meeting to vote on Square deal")
+
+
+[Australia's Afterpay delays meeting to vote on Square deal](https://www.thestar.com.my/tech/tech-news/2021/12/02/australia039s-afterpay-delays-meeting-to-vote-on-square-deal)
+
+
+> FILE PHOTO: A smartphone is held in front of a displayed Afterpay logo in this illustration taken, August 2, 2021. REUTERS/Dado Ruvic/Illustration
+
+
+***
+![Garena Free Fire December 2 Redeem Codes: Get diamond codes, in-game items](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/12/02/1007932-garena-free-fire-codes-new.jpg "Garena Free Fire December 2 Redeem Codes: Get diamond codes, in-game items")
+
+
+[Garena Free Fire December 2 Redeem Codes: Get diamond codes, in-game items](https://www.dnaindia.com/technology/report-garena-free-fire-december-2-redeem-codes-get-diamond-codes-in-game-items-steps-to-redeem-today-s-free-code-2922092)
+
+
+> Garena Free Fire, which is an action-adventure battle royal game, is hugely popular among e-gamers and is available for download on the Google Playstore.  Garena periodically releases redeem 14-digit codes which is a combination of letters and words. However, Free Fire redemption codes are restricted to a specific server. Players also get free rewards on a daily basis and these codes can be used to get the benefit of unlocking certain steps and getting various reward points. Garena Free Fire redeem codes can be claimed via the game's official website -  garena.
+
+
