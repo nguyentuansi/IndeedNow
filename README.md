@@ -35481,3 +35481,33 @@
 > Though Samsung wants people to buy its pricey Galaxy S and foldable Galaxy Z flagship smartphones, not everyone can afford to do so. The popularity of its Galaxy A series handsets over the past year or so has proven there's a large market for its mid-range line, especially for models with 5G capabilities (via Canalys). With that in mind, it's no surprise Samsung will give its Galaxy A phones some big upgrades in 2022, at least according to a new report citing industry insiders. Image: Samsung Over the past three or so months, rumors have painted Samsung's 2022 mid-range smartphones in a more positive light.
 
 
+***
+![Tesla Cyberquad for Kids is a $1,900 test of patience](https://cdn.slashgear.com/wp-content/uploads/2021/12/tesla-cyberquad-for-kids.jpg "Tesla Cyberquad for Kids is a $1,900 test of patience")
+
+
+[Tesla Cyberquad for Kids is a $1,900 test of patience](https://www.slashgear.com/tesla-cyberquad-for-kids-is-a-1900-test-of-patience-02701033/)
+
+
+> Tesla's Cybertruck may not be ready for production yet, nor the Cyberquad ATV that Elon Musk showed of at the controversial electric pickup's big unveil in 2019, but kids at least will be able to have some electric fun. The Tesla Cyberquad for Kids is one of the smallest models in Tesla's line-up, not to mention having the smallest range at around 15 miles, though it's also by far the cheapest. Source: Tesla $1,900 gets you an all-electric sit-on toy for younger Tesla fans, with a design that's clearly 'inspired by' the Cybertruck itself.
+
+
+***
+![Chromebooks are about to level up](https://cdn.slashgear.com/wp-content/uploads/2021/12/snapdragonlaptop.jpg "Chromebooks are about to level up")
+
+
+[Chromebooks are about to level up](https://www.slashgear.com/chromebooks-are-about-to-level-up-02700975)
+
+
+> Chromebooks are about to level up Chromebooks have seen a massive surge in sales since last year as many schools, families, offices switched to remote or at-home arrangements. This class of devices has always been designed and marketed for such situations, where most of the work and even play happens on the Web, either directly inside browsers or using Web Apps. Things have definitely changed a lot over the past few years, with Chrome OS gaining a lot of capabilities that might also require even more hardware power.
+
+
+***
+![Online job searches in vernacular languages grow in India: Report](https://img.dtnext.in/Articles/2021/Dec/202112022231451131_Online-job-searches-in-vernacular-languages-grow-in-India_SECVPF.gif "Online job searches in vernacular languages grow in India: Report")
+
+
+[Online job searches in vernacular languages grow in India: Report](https://www.dtnext.in/Lifestyle/Technology/2021/12/02223145/1331868/Online-job-searches-in-vernacular-languages-grow-in-.vpf)
+
+
+> Published: Dec 02,202111:00 PM by IANS Job seekers in tier-II cities are more likely to engage in a language apart from English on professional networking platforms and Hindi, Kannada and Tamil are the most preferred vernacular languages, a report by leading jobs and professional networking platform apna.co has showed. Bangalore: More than 57 per cent of users on the platform prefer a vernacular language to search for opportunities and build their professional networks, according to the network. "The comfort and familiarity of interacting in their first language builds confidence and enables our users to find hyperlocal opportunities with ease," said Manas Singh, Chief Business Officer, apna.
+
+
