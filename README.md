@@ -35561,3 +35561,43 @@
 > SALT LAKE CITY--(BUSINESS WIRE)--InMoment®, the leading provider of Experience Improvement (XI)™ solutions, announced it has been named a Leader in the 2021 Gartner Magic Quadrant for Voice of the Customer1 for the second year in a row. Gartner defines a voice of the customer (VoC) application as one that 'integrates feedback collection, analysis and action into a single interconnected platform that helps understand and improve the customer experience.' The report evaluated fourteen vendors on fifteen criteria and placed InMoment in the Leaders quadrant.
 
 
+***
+![Stanford engineers build bird bots that can perch and grab objects](https://apicms.thestar.com.my/uploads/images/2021/12/03/1390808.jpg "Stanford engineers build bird bots that can perch and grab objects")
+
+
+[Stanford engineers build bird bots that can perch and grab objects](https://www.thestar.com.my/tech/tech-news/2021/12/03/stanford-engineers-build-bird-bots-that-can-perch-and-grab-objects)
+
+
+> A team of engineers at Stanford University has built robotic graspers that can fit on drones, enabling them to catch objects and grip various surfaces. — AFP Relaxnews Inspired by how birds land and perch on branches, a team of engineers at Stanford University has built robotic graspers that can fit on drones, enabling them to catch objects and grip various surfaces. The advance could allow flying robots to conserve power in situations where they might otherwise be required to hover – for example in search and rescue missions – or help ecologists collect data more easily in forests.
+
+
+***
+![Digital Banking Provider Bankjoy Introduces Powerful Business Banking Platform](https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Old-Building-Bank-USA.jpeg "Digital Banking Provider Bankjoy Introduces Powerful Business Banking Platform")
+
+
+[Digital Banking Provider Bankjoy Introduces Powerful Business Banking Platform](https://www.crowdfundinsider.com/2021/12/183654-digital-banking-provider-bankjoy-introduces-powerful-business-banking-platform)
+
+
+> Digital banking provider Bankjoy has announced the launch of its business banking platform, empowering its customers with the best tools to 'help attract and drive loyalty among small businesses within their communities.' Recently surpassing 1 million members with access to its platform, Bankjoy's virtual banking solutions have experienced significant success. But there remains 'a strong need for intuitive, modern digital tools for small businesses.' In fact, the industry has seen 'an uptick in new offerings as business owners and entrepreneurs increasingly expect the same digital conveniences they have come to crave as consumers,' the update revealed.
+
+
+***
+![Fintech Platform Goalsetter Acquires $15M via Series A to Expand and Transform Access to Financial Education](https://www.crowdfundinsider.com/wp-content/uploads/2016/08/Back-to-School-Education-Learning-Teaching.jpg "Fintech Platform Goalsetter Acquires $15M via Series A to Expand and Transform Access to Financial Education")
+
+
+[Fintech Platform Goalsetter Acquires $15M via Series A to Expand and Transform Access to Financial Education](https://www.crowdfundinsider.com/2021/12/183652-fintech-platform-goalsetter-acquires-15m-via-series-a-to-expand-and-transform-access-to-financial-education)
+
+
+> Goalsetter, a Fintech platform dedicated to offering families and K-12 youth with access to banking, savings, investing, and financial education tools, has announced the closing of a $15 million Series A round that was led by Seae Ventures. Seae Ventures has reportedly been joined by Fiserv, Mass Mutual, Sterling National Bank, Citizens Financial Group, Cuna Mutual Financial Group, Astia Fund, and others. With an oversubscribed investment round, the new tranche of capital is dedicated to enabling Goalsetter to 'further its B2B partnerships with corporations and financial institutions that are committed to transforming financial education and access to wealth for all Americans.
+
+
+***
+![BNP Paribas Asset Management Announces New Appointments for Enhancing Sustainability Investment Offering](https://www.crowdfundinsider.com/wp-content/uploads/2020/01/BNP-Paribas.jpg "BNP Paribas Asset Management Announces New Appointments for Enhancing Sustainability Investment Offering")
+
+
+[BNP Paribas Asset Management Announces New Appointments for Enhancing Sustainability Investment Offering](https://www.crowdfundinsider.com/2021/12/182741-bnp-paribas-asset-management-announces-new-appointments-for-enhancing-sustainability-investment-offering)
+
+
+> BNP Paribas Asset Management (BNPP AM) has reportedly announced several appointments within its Sustainability Centre in order to accelerate and strengthen its sustainable investment offering. As mentioned in an update shared with CI: 'At the core of BNPP AM's approach to sustainability, the Sustainability Centre provides investment teams with industry and sector research, ESG data and analysis of over 13,000 issuers.' Additionally, it supports the integration of sustainability considerations 'across the organization, including adapting to regulatory requirements and developing sustainability-themed investment strategies to meet investor requirements.
+
+
