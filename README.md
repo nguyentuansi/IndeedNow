@@ -35511,3 +35511,53 @@
 > Published: Dec 02,202111:00 PM by IANS Job seekers in tier-II cities are more likely to engage in a language apart from English on professional networking platforms and Hindi, Kannada and Tamil are the most preferred vernacular languages, a report by leading jobs and professional networking platform apna.co has showed. Bangalore: More than 57 per cent of users on the platform prefer a vernacular language to search for opportunities and build their professional networks, according to the network. "The comfort and familiarity of interacting in their first language builds confidence and enables our users to find hyperlocal opportunities with ease," said Manas Singh, Chief Business Officer, apna.
 
 
+***
+![What Are Black Holes and How Do They Form?](https://cdn.slashgear.com/wp-content/uploads/2021/12/black-hole-how-formed.jpg "What Are Black Holes and How Do They Form?")
+
+
+[What Are Black Holes and How Do They Form?](https://www.slashgear.com/what-are-black-holes-and-how-do-they-form-02701102/)
+
+
+> You've probably heard of black holes existing in the universe and may even have studied the phenomena in a high school science class. According to NASA, scientists speculate that they can range in size from a mere atom to supermassive ones the size of a million suns combined. While countless artists have used their imaginations to depict these mysterious objects, you might be surprised to find out that, in spite of the size of some of them, they cannot be seen with either the naked eye or with the most powerful telescopes.
+
+
+***
+![5G Rollout in India Will Happen in the Second Quarter Next Year](https://telecomtalk.info/wp-content/uploads/2021/12/5g-rollout-in-india-will-happen-in.jpeg "5G Rollout in India Will Happen in the Second Quarter Next Year")
+
+
+[5G Rollout in India Will Happen in the Second Quarter Next Year](https://telecomtalk.info/5g-rollout-in-india-will-happen-in/483001/)
+
+
+> TRAI has kick-started a consultation process that will focus on finalizing the base price across the 10 frequency bands.Introduction of 5G services in the country the network speed, data quality, as well as download and upload speed in the country.Vodafone Idea or Vi has already said that the company is excited to begin 5Gi trials. In a recent interview held on Thursday, the Communications and IT Minister Ashwini Vaishnaw has informed that the auction procedures for the next generation or 5G airwaves and network rollouts will start in the second quarter of the next year.
+
+
+***
+![iOS 13.1 will bring CPU throttling feature to iPhone XS, XR](https://chennaionline.com/wp-content/uploads/2019/09/favicon.png "iOS 13.1 will bring CPU throttling feature to iPhone XS, XR")
+
+
+[iOS 13.1 will bring CPU throttling feature to iPhone XS, XR](https://chennaionline.com/technology/ios-13-1-will-bring-cpu-throttling-feature-to-iphone-xs-xr/)
+
+
+> After rolling out iOS 13 for iPhones and watchOS 6 for Apple Watch Series, the iPhone maker is expected to unfold iOS 13.1 with CPU throttling feature to iPhone XR and iPhone XS. Apple first admitted it throttled CPUs on older iPhones in 2017 and the iPhone maker was accused of artificially slowing down devices. To do away with this, the company also offered discounted battery replacements to users with some iPhone models, The Verge has reported. Newer iPhone models have more advanced power-monitoring hardware, which will reduce the impact of throttling.
+
+
+***
+![Google Delays January Office Return After Omicron Spread](http://www.bnnbloomberg.ca/polopoly_fs/1.1690482!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-person-wearing-a-protective-masks-runs-past-a-google-campus-in-mountain-view-california-u-s-on-wednesday-april-21-2021-silicon-valley-has-the-lowest-office-vacancy-rate-in-the-u-s-even-as-technology-companies-embrace-remote-work-photographer-david-paul-morris-bloomberg.jpg "Google Delays January Office Return After Omicron Spread")
+
+
+[Google Delays January Office Return After Omicron Spread](http://www.bnnbloomberg.ca/google-delays-january-office-return-after-omicron-spread-1.1690481)
+
+
+> The information you requested is not available at this time, please check back again soon. More Video Mark Bergen, Bloomberg News (Bloomberg) -- Alphabet Inc.'s Google is once again pushing back the date it will require employees to return to U.S. offices on renewed concern after cases of the Covid-19 omicron variant have been confirmed, executives told employees on Thursday.  Google had set Jan. 10 as its return date, asking a bulk of its workforce to come in three days a week. Chris Rackow, a Google vice president of security, emailed U.
+
+
+***
+![InMoment Named as a Leader in the 2021 Gartner® Magic Quadrant™ for Voice of Customer](https://mms.businesswire.com/media/20211202006034/en/839741/23/InMoment.jpg "InMoment Named as a Leader in the 2021 Gartner® Magic Quadrant™ for Voice of Customer")
+
+
+[InMoment Named as a Leader in the 2021 Gartner® Magic Quadrant™ for Voice of Customer](http://www.businesswire.com/news/home/20211202006034/en/InMoment-Named-as-a-Leader-in-the-2021-Gartner%C2%AE-Magic-Quadrant%E2%84%A2-for-Voice-of-Customer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SALT LAKE CITY--(BUSINESS WIRE)--InMoment®, the leading provider of Experience Improvement (XI)™ solutions, announced it has been named a Leader in the 2021 Gartner Magic Quadrant for Voice of the Customer1 for the second year in a row. Gartner defines a voice of the customer (VoC) application as one that 'integrates feedback collection, analysis and action into a single interconnected platform that helps understand and improve the customer experience.' The report evaluated fourteen vendors on fifteen criteria and placed InMoment in the Leaders quadrant.
+
+
