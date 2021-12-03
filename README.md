@@ -35741,3 +35741,33 @@
 > Reliance Industries chairman and managing director  Mukesh Ambani believes that the world is rapidly changing in the way it accelerates towards adopting digital technologies and the next step will be "digital-first".Speaking at the Infinity Forum he added that data privacy is a must and that he believes in blockchain technology as it can deliver unprecedented security, trust, automation and efficiency to almost any type of transaction.Here is the full transcript of the interviewQ: The world has come a long way from the age of computerisation and basic connectivity through the Internet.
 
 
+***
+![NASA reveals the 3 contenders to replace the International Space Station](https://cdn.slashgear.com/wp-content/uploads/2021/12/NASA-Globe-Kennedy-Space-Center.jpg "NASA reveals the 3 contenders to replace the International Space Station")
+
+
+[NASA reveals the 3 contenders to replace the International Space Station](https://www.slashgear.com/nasa-reveals-the-3-contenders-to-replace-the-international-space-station-03701144/)
+
+
+> While the International Space Station is the destination for conducting research in low-Earth orbit, it will not be that way forever. The United States and NASA, along with partners worldwide who are already helping to maintain the ISS, will continue to fund the space station for a few more years, but eventually, it will have to be replaced. NASA has now named three companies selected to submit designs for new space stations, and there are some familiar names on the list. Jillian Cain Photography/Shutterstock Three big winners in NASA's search for an ISS replacement NASA revealed three companies that have been selected to receive funding 'to develop designs of space stations and other commercial destinations in space,' along with the amount of money each company has been awarded.
+
+
+***
+![NASA's TESS found a boiling exoplanet with an 8 hour year](https://cdn.slashgear.com/wp-content/uploads/2021/12/usp-exoplanet-nasa.jpg "NASA's TESS found a boiling exoplanet with an 8 hour year")
+
+
+[NASA's TESS found a boiling exoplanet with an 8 hour year](https://www.slashgear.com/nasas-tess-found-a-boiling-exoplanet-with-an-8-hour-year-03701139/)
+
+
+> NASA's TESS (Transiting Exoplanet Survey Satellite) performs the job of discovering distant planets orbiting other stars extremely well. It has discovered thousands of potential exoplanet candidates, and a number of those have been confirmed to be planets orbiting distant stars. In its latest discovery, TESS has found an exoplanet the size of Mars but similar to the composition of Mercury. Via NASA/ESA/G. Bacon (STScI) The planet orbits its host star extremely closely, and researchers from MIT say the new planet is among the lightest exoplanets ever discovered.
+
+
+***
+![Development Firm DAI Acquires Global Asset Management Company, MicroVest](https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Sale-claudio-schwarz-purzlbaum-unsplash.jpg "Development Firm DAI Acquires Global Asset Management Company, MicroVest")
+
+
+[Development Firm DAI Acquires Global Asset Management Company, MicroVest](https://www.crowdfundinsider.com/2021/12/183707-development-firm-dai-acquires-global-asset-management-company-microvest)
+
+
+> DAI confirms that it has acquired MicroVest Capital Management, one of the major lenders to 'responsible' finance institutions—an acquisition that will 'expand the capabilities of DAI's investment management arm, DAI Capital.' Established in 2003, MicroVest is a registered investment adviser that 'allocates private investments to financial institutions that serve disadvantaged and underbanked enterprises in emerging markets.' The firm has disbursed over $1 billion to some 200 financial institutions 'across 60 countries to help create economic opportunities and facilitate financial inclusion.
+
+
