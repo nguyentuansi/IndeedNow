@@ -35601,3 +35601,53 @@
 > BNP Paribas Asset Management (BNPP AM) has reportedly announced several appointments within its Sustainability Centre in order to accelerate and strengthen its sustainable investment offering. As mentioned in an update shared with CI: 'At the core of BNPP AM's approach to sustainability, the Sustainability Centre provides investment teams with industry and sector research, ESG data and analysis of over 13,000 issuers.' Additionally, it supports the integration of sustainability considerations 'across the organization, including adapting to regulatory requirements and developing sustainability-themed investment strategies to meet investor requirements.
 
 
+***
+![Feds: Track coach in US tricked women into sending him nude photos](https://apicms.thestar.com.my/uploads/images/2021/12/03/1391221.jpg "Feds: Track coach in US tricked women into sending him nude photos")
+
+
+[Feds: Track coach in US tricked women into sending him nude photos](https://www.thestar.com.my/tech/tech-news/2021/12/03/feds-track-coach-in-us-tricked-women-into-sending-him-nude-photos)
+
+
+> Prosecutors said starting as early as February 2020, Waithe used the sham social media accounts to contact women, saying he had found compromising photos of them online. — Pixabay BOSTON: A former college track and field coach accused of setting up sham social media and email accounts in an attempt to trick women into sending him nude or semi-nude photos of themselves has been indicted on 15 counts, federal prosecutors said on Dec 2. Steve Waithe, 28, of Chicago, was originally arrested in April and was released with conditions in May.
+
+
+***
+![Elizabeth Warren grills New York bitcoin miner on climate](https://apicms.thestar.com.my/uploads/images/2021/12/03/1391173.jpg "Elizabeth Warren grills New York bitcoin miner on climate")
+
+
+[Elizabeth Warren grills New York bitcoin miner on climate](https://www.thestar.com.my/tech/tech-news/2021/12/03/elizabeth-warren-grills-new-york-bitcoin-miner-on-climate)
+
+
+> US Senator Elizabeth Warren grills a Bitcoin miner on the energy waste of cryptocurrency mining, in a first such move against a miner, as environmentalist ramp pressure against the industry. — Bloomberg US Senator Elizabeth Warren is pressing a Bitcoin miner about the impact of its operations on climate change, the local environment and power prices as part of her campaign to crack down on wasteful cryptocurrency mining. Warren sent the letter to Greenidge Generation Holdings Chief Executive Officer Jeff Kirt on Thursday afternoon.
+
+
+***
+![Indigenous Australians hit by vaccine misinformation, state premier says](https://apicms.thestar.com.my/uploads/images/2021/12/03/1391215.jpg "Indigenous Australians hit by vaccine misinformation, state premier says")
+
+
+[Indigenous Australians hit by vaccine misinformation, state premier says](https://www.thestar.com.my/tech/tech-news/2021/12/03/indigenous-australians-hit-by-vaccine-misinformation-state-premier-says)
+
+
+> Online misinformation has been a constant challenge for health authorities throughout the pandemic, said Bartholomeusz, the ABC reported. — Reuters White supremacist groups including some in the US are spreading vaccine misinformation online among Indigenous communities in remote parts of Western Australia in order to create fear of inoculation and cause harm, state premier Mark McGowan said. 'Just now we heard from one Aboriginal person who said white supremacist groups are sending information to Aboriginal people that they shouldn't get vaccinated,' McGowan told reporters Thursday, the Australian Broadcasting Corp reported.
+
+
+***
+![SG cops investigating 404 suspects, aged between 15 and 72, for alleged involvement in over 1,000 scams](https://apicms.thestar.com.my/uploads/images/2021/12/03/1391181.jpg "SG cops investigating 404 suspects, aged between 15 and 72, for alleged involvement in over 1,000 scams")
+
+
+[SG cops investigating 404 suspects, aged between 15 and 72, for alleged involvement in over 1,000 scams](https://www.thestar.com.my/tech/tech-news/2021/12/03/sg-cops-investigating-404-suspects-aged-between-15-and-72-for-alleged-involvement-in-over-1000-scams)
+
+
+> The 404 are assisting in investigations into cheating, money laundering or providing payment services without a licence. — AFP SINGAPORE: The police are investigating 404 suspected scammers and money mules believed to be involved in more than 1,000 cases of scams, with victims losing more than S$13mil (RM40.14mil) in total. The cases included Internet love scams, e-commerce scams, government or China official impersonation scams, investment scams, job scams, credit-for-sex and loan scams, said the Singapore Police Force on Friday (Dec 3).
+
+
+***
+![UN launches ‘bodyright' symbol against online violence](https://apicms.thestar.com.my/uploads/images/2021/12/03/1391105.jpg "UN launches ‘bodyright' symbol against online violence")
+
+
+[UN launches ‘bodyright' symbol against online violence](https://www.thestar.com.my/tech/tech-news/2021/12/03/un-launches-bodyright-symbol-against-online-violence)
+
+
+> A person looks at a smartphone with a bodyright symbol from the UNFPA campaign against digital violence, displayed on the background, in Washington, DC. UNFPA, the United Nations sexual and reproductive health agency on Thursday launched bodyright, a new ‘copyright' for human bodies to demand protection from online violence. — AFP UNITED NATIONS, United States: The United Nations on Dec 2 launched a campaign against gender-based violence on the Internet, complete with a symbol which can be added to social media posts.
+
+
