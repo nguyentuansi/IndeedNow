@@ -35701,3 +35701,43 @@
 > SINGAPORE: A 27-year-old man who posted a photo on Facebook of his wife having sex with her work supervisor, calling the supervisor a 'homewrecker' in his caption, was sentenced to 13 weeks' jail on Friday (Dec 3). The public post went viral with thousands of shares. The Singaporean man, who cannot be named due to a gag order to protect his wife's identity, pleaded guilty earlier to one count each of theft and distributing an intimate image. Another two charges of being in possession of and distributing intimate images were taken into consideration in the sentencing.
 
 
+***
+![NVIDIA Arm acquisition faces another hurdle with FTC lawsuit](https://cdn.slashgear.com/wp-content/uploads/2021/12/nvidia-jetson-tx2.jpg "NVIDIA Arm acquisition faces another hurdle with FTC lawsuit")
+
+
+[NVIDIA Arm acquisition faces another hurdle with FTC lawsuit](https://www.slashgear.com/nvidia-arm-acquisition-faces-another-hurdle-with-ftc-lawsuit-03701113/)
+
+
+> Most people probably don't know it, and they certainly shouldn't have to, but Arm's processor technologies pretty much run the world today. It's present not just in smartphones and tablets, including Apple's iPhones, but also in supercomputers, cars, and quite a number of IoT products. It is because of that rather critical position that NVIDIA's plan to buy Arm from SoftBank is meeting a lot of resistance, and the latest to fall into place could be the final nail in the acquisition's coffin, unless the two companies can convince the FTC otherwise.
+
+
+***
+![2022 Aston Martin DBX Review: A Vantage For Four](https://cdn.slashgear.com/wp-content/uploads/2021/12/aston_martin_dbx_1.jpg "2022 Aston Martin DBX Review: A Vantage For Four")
+
+
+[2022 Aston Martin DBX Review: A Vantage For Four](https://www.slashgear.com/2022-aston-martin-dbx-review-a-vantage-for-four-03701077/)
+
+
+> Since the inception of Porsche's hugely successful Cayenne in 2003, the two-row luxury SUV market has exploded with offerings from every manufacturer with their toe in the six-digit waters. Rolls-Royce now offers the hyper-plush Cullinan. VAG's Bentley and Lamborghini joined the fray with the staid Bentagya and hyper-masculine Urus, both based off the Audi Q8 platform, which itself offers a near-600-horsepower, canyon-carving-couch in the form of the RS Q8. Image: Victoria Scott / SlashGear And so, when Aston Martin debuted the DBX, it came as no surprise at all, though as a late entry to a crowded market – and from a brand primarily known for the mystery and sex appeal of James Bond rather than the practical utility of four seats and high ground clearance – it faced an uphill battle.
+
+
+***
+![Xiaomi 11T Pro spotted on Bluetooth SIG certification site ahead of India launch](https://telecomtalk.info/wp-content/uploads/2021/12/xiaomi-11t-pro-spotted-on-bluetooth-sig.jpeg "Xiaomi 11T Pro spotted on Bluetooth SIG certification site ahead of India launch")
+
+
+[Xiaomi 11T Pro spotted on Bluetooth SIG certification site ahead of India launch](https://telecomtalk.info/xiaomi-11t-pro-spotted-on-bluetooth-sig/483267/)
+
+
+> A Snapdragon 888 processor will power the Xiaomi 11T Pro.There could be three variants – two 8GB RAM versions and a 12GB RAM modelXiaomi 11T Pro is likely to be priced in the premium segment.Xiaomi 11T Pro, which was unveiled in Europe a few months ago, may launch in India soon. The smartphone model is listed on the Bluetooth SIG certification website with model number 2107113I. Tipster Mukul Sharma spotted the phone on the site along with two other model numbers 2107113R and 2107113G. 2107113I with the last indication 'I' is likely the Indian variant.
+
+
+***
+![Mukesh Ambani at Infinity Forum: Full transcript](https://images.cnbctv18.com/wp-content/uploads/2019/08/Mukesh-Ambani-1-875x573.jpg "Mukesh Ambani at Infinity Forum: Full transcript")
+
+
+[Mukesh Ambani at Infinity Forum: Full transcript](https://www.cnbctv18.com/technology/mukesh-ambani-at-infinity-forum-full-transcript-11691462.htm)
+
+
+> Reliance Industries chairman and managing director  Mukesh Ambani believes that the world is rapidly changing in the way it accelerates towards adopting digital technologies and the next step will be "digital-first".Speaking at the Infinity Forum he added that data privacy is a must and that he believes in blockchain technology as it can deliver unprecedented security, trust, automation and efficiency to almost any type of transaction.Here is the full transcript of the interviewQ: The world has come a long way from the age of computerisation and basic connectivity through the Internet.
+
+
