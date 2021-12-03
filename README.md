@@ -35651,3 +35651,53 @@
 > A person looks at a smartphone with a bodyright symbol from the UNFPA campaign against digital violence, displayed on the background, in Washington, DC. UNFPA, the United Nations sexual and reproductive health agency on Thursday launched bodyright, a new ‘copyright' for human bodies to demand protection from online violence. — AFP UNITED NATIONS, United States: The United Nations on Dec 2 launched a campaign against gender-based violence on the Internet, complete with a symbol which can be added to social media posts.
 
 
+***
+![Timnit Gebru's new research group wants to free AI from its corporate ills](https://apicms.thestar.com.my/uploads/images/2021/12/03/1391455.jpeg "Timnit Gebru's new research group wants to free AI from its corporate ills")
+
+
+[Timnit Gebru's new research group wants to free AI from its corporate ills](https://www.thestar.com.my/tech/tech-news/2021/12/03/timnit-gebrus-new-research-group-wants-to-free-ai-from-its-corporate-ills)
+
+
+> Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm. Gebru has lined up funding from the Ford, MacArthur, Kapor Center, Rockefeller and Open Society foundations for the center – called DAIR, or Distributed AI Research – and plans to hire five researchers over the next year. The group's first research fellow, Raesetje Sefala, is based in South Africa and studies how computer vision algorithms and satellite images can be used to track the legacy of spatial apartheid – the segregation of minority groups in certain areas, Gebru said in an interview.
+
+
+***
+![SG cops arrest 5 members of a syndicate for alleged involvement in WhatsApp scam](https://apicms.thestar.com.my/uploads/images/2021/12/03/1391486.jpg "SG cops arrest 5 members of a syndicate for alleged involvement in WhatsApp scam")
+
+
+[SG cops arrest 5 members of a syndicate for alleged involvement in WhatsApp scam](https://www.thestar.com.my/tech/tech-news/2021/12/03/sg-cops-arrest-five-members-of-a-syndicate-for-alleged-involvement-in-whatsapp-scam)
+
+
+> In one variant of the scam, syndicate members will pretend to be friends and relatives of the genuine user of the WhatsApp account and request for online gift cards. — Bloomberg SINGAPORE: Five people were arrested for their suspected involvement in a scam involving the takeover of WhatsApp accounts. Criminal Investigation Department officers arrested four men – aged between 27 and 37 – and a 34-year-old woman during an operation conducted on Nov 29 and 30, said police on Friday (Dec 3). Three of the men are also being investigated over drug-related offences.
+
+
+***
+![Nvidia's plan to dominate chip design stymied by antitrust angst](https://apicms.thestar.com.my/uploads/images/2021/12/03/1391298.jpg "Nvidia's plan to dominate chip design stymied by antitrust angst")
+
+
+[Nvidia's plan to dominate chip design stymied by antitrust angst](https://www.thestar.com.my/tech/tech-news/2021/12/03/nvidias-plan-to-dominate-chip-design-stymied-by-antitrust-angst)
+
+
+> When Nvidia Corp announced plans to buy Arm Ltd in September 2020, the deal was more than just the chip industry's largest-ever acquisition – the company said it would supercharge the technology found in everything from cars to smartphones. Now, more than a year later, that audacious plan is in peril. The US Federal Trade Commission sued to block the US$40bil (RM169.14bil) purchase on Thursday, calling it a threat to semiconductor innovation. Arm customers have lined up against the transaction. And investors and analysts have written off the idea of it ever happening.
+
+
+***
+![Vivo V23 5G might launch in India this month](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-ji25k12rsth3gg17dnlqh33k30-20211203144913.jpeg "Vivo V23 5G might launch in India this month")
+
+
+[Vivo V23 5G might launch in India this month](https://www.asianage.com/technology/mobiles-tabs/031221/vivo-v23-5g-might-launch-in-india-this-month.html)
+
+
+> ANI Published : Dec 3, 2021, 2:52 pm IST Updated : Dec 3, 2021, 2:52 pm IST For the unversed, the Vivo V23e 5G launched in Thailand last month  The new rumoured series 'Vivo V23 5G' could feature an in-display fingerprint sensor. (Photo: PTI) Dongguan: After its predecessor Vivo V21 5G, it's time for Vivo to launch a new smartphone series in the market, and reportedly this will be called V23 5G and could be launched in India at some point this month. As per GSM Arena, the new rumoured series 'Vivo V23 5G' could feature an in-display fingerprint sensor and should come with an upgraded SoC and better camera features compared to its predecessor, the V21 5G.
+
+
+***
+![SG man jailed 13 weeks for uploading on Facebook a photo of his wife having sex with her supervisor](https://apicms.thestar.com.my/uploads/images/2021/12/03/1391423.jpg "SG man jailed 13 weeks for uploading on Facebook a photo of his wife having sex with her supervisor")
+
+
+[SG man jailed 13 weeks for uploading on Facebook a photo of his wife having sex with her supervisor](https://www.thestar.com.my/tech/tech-news/2021/12/03/sg-man-jailed-13-weeks-for-uploading-on-facebook-a-photo-of-his-wife-having-sex-with-her-supervisor)
+
+
+> SINGAPORE: A 27-year-old man who posted a photo on Facebook of his wife having sex with her work supervisor, calling the supervisor a 'homewrecker' in his caption, was sentenced to 13 weeks' jail on Friday (Dec 3). The public post went viral with thousands of shares. The Singaporean man, who cannot be named due to a gag order to protect his wife's identity, pleaded guilty earlier to one count each of theft and distributing an intimate image. Another two charges of being in possession of and distributing intimate images were taken into consideration in the sentencing.
+
+
