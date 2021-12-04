@@ -35991,3 +35991,43 @@
 > Dish TV, the second largest Direct-to-Home (DTH) service provider in India offers an Android Box for the users.The DishSMRT HUB is available for a price of Rs 2,499 in India.There is an option to create multiple profiles just the way Netflix allows users to do.Dish TV, the second largest Direct-to-Home (DTH) service provider in India, offers an Android Box for the users. This Android Box is called ‘DishSMRT HUB', and it is available for a very competitive price as compared to what Tata Sky and Airtel Digital TV offer their Android Boxes for.
 
 
+***
+![Laptops to help Brimbank students](https://brimbanknorthwest.starweekly.com.au/wp-content/uploads/sites/2/2021/12/TechGen_234359_01.jpg "Laptops to help Brimbank students")
+
+
+[Laptops to help Brimbank students](https://brimbanknorthwest.starweekly.com.au/news/laptops-to-help-brimbank-students/)
+
+
+> Oliver Lees A group of financially disadvantaged students across Brimbank have been given a hand to improve their access to technology, in a bid to improve at-home learning outcomes across the state. Not-for-profit organisation State Schools' Relief (SSR) provides a source of advocacy for disadvantaged students across the state. Across 2020-21, the organisation assisted more than 72,000 under age persons, with the average cost of assisting a child being $124. This year the organisation's focus has shifted to at-home learning.
+
+
+***
+![NASA filmed a magical, eerie eclipse in Antarctica. You can watch it.](https://helios-i.mashable.com/imagery/articles/013bYQD4luceWb69VSj03Ty/hero-image.fill.size_1200x675.v1638641497.png "NASA filmed a magical, eerie eclipse in Antarctica. You can watch it.")
+
+
+[NASA filmed a magical, eerie eclipse in Antarctica. You can watch it.](https://mashable.com/article/total-solar-eclipse-nasa)
+
+
+> One of the most magical, though at times unsettling, experiences on Earth is experiencing a total solar eclipse. These rare events happen when the moon passes in front of the sun and fully blocks out our star's light. A shadow is cast on Earth in areas where the eclipse is occurring. For those perfectly situated under the shadow where the moon covers 100 percent of the sun (called the path of totality), it's a bizarre, relatively sudden transition from light to darkness."The sky becomes very dark, as if it were dawn or dusk," notes NASA.
+
+
+***
+![Entry-Level Polestar 2 Shines In Bjørn's 1,000 Km Challenge](https://cdn.motor1.com/images/mgl/E613Yz/s1/polestar-2-sr-single-motor-1000-km-challenge-source-bjorn-nyland.jpg "Entry-Level Polestar 2 Shines In Bjørn's 1,000 Km Challenge")
+
+
+[Entry-Level Polestar 2 Shines In Bjørn's 1,000 Km Challenge](https://insideevs.com/news/552323/entry-level-polestar2-bjorn-1000km/)
+
+
+> The new entry-level Polestar 2 SR SM (front-wheel drive, 64 kWh), offered in Europe, achieved solid results in the Bjørn Nyland 1,000 km challenge. According to the video, the car was able to cover the distance in 11 hours and 15 minutes (after deducting some time losses), at an average speed of 88.9 km/h (55 mph), taking six fast charging stops. See also Bjørn Nyland's range tests of this car here. Considering the temperatures of roughly 8°C, it's not a bad result - it's expected that at higher temperatures it would match the Volkswagen ID.
+
+
+***
+![Web Developer Tools secrets that shouldn't be secrets : programming](https://external-preview.redd.it/5I67HPFL4US8H2AvM9EgJAzj6G1eABJcwJIz-oKH4Zg.jpg?auto=webp&s=88d0678a70dd75913d2b473454f902640678afd7 "Web Developer Tools secrets that shouldn't be secrets : programming")
+
+
+[Web Developer Tools secrets that shouldn't be secrets : programming](https://www.reddit.com/r/programming/comments/r8wph3/web_developer_tools_secrets_that_shouldnt_be)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
