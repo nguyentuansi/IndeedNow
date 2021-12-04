@@ -35771,3 +35771,53 @@
 > DAI confirms that it has acquired MicroVest Capital Management, one of the major lenders to 'responsible' finance institutions—an acquisition that will 'expand the capabilities of DAI's investment management arm, DAI Capital.' Established in 2003, MicroVest is a registered investment adviser that 'allocates private investments to financial institutions that serve disadvantaged and underbanked enterprises in emerging markets.' The firm has disbursed over $1 billion to some 200 financial institutions 'across 60 countries to help create economic opportunities and facilitate financial inclusion.
 
 
+***
+![Microsoft's DNA storage research just hit a huge milestone](https://cdn.slashgear.com/wp-content/uploads/2021/12/dna-storage-microsoft.jpg "Microsoft's DNA storage research just hit a huge milestone")
+
+
+[Microsoft's DNA storage research just hit a huge milestone](https://www.slashgear.com/microsofts-dna-storage-research-just-hit-a-huge-milestone-03701176/)
+
+
+> Microsoft has detailed a major breakthrough in its work on synthetic DNA storage, specifically on improving data throughput. The proof-of-concept is the subject of a new study from Microsoft Research and a team at the University of Washington's Molecular Information Systems Laboratory (MISL), paving the way for a future in which the world's data is stored on lab-made DNA, not tapes and hard drives. Billion Photos/Shutterstock Old tech still dominates Microsoft has spent years working on synthetic DNA data storage, a promising technology that aims to address growing storage demands.
+
+
+***
+![STV announces appointments to its senior leadership teamSTV announces appointments to its senior leadership team](https://www.rtands.com/wp-content/uploads/2021/12/Miller-News.jpg "STV announces appointments to its senior leadership teamSTV announces appointments to its senior leadership team")
+
+
+[STV announces appointments to its senior leadership teamSTV announces appointments to its senior leadership team](https://www.rtands.com/technology/stv-announces-appointments-to-its-senior-leadership-team/)
+
+
+> Written by David C. Lester, Managing Editor STV this week announced it has added two key members to its senior leadership team. Beth Miller has joined STV in the newly created position of vice president of communications, and Athena Ullah has been promoted to chief of staff. STV this week announced it has added two key members to its senior leadership team. Beth Miller has joined STV in the newly created position of vice president of communications, and Athena Ullah has been promoted to chief of staff.
+
+
+***
+![French National Broadcaster Chooses Fairlight For France 3 Newsroom](https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/favicon.png "French National Broadcaster Chooses Fairlight For France 3 Newsroom")
+
+
+[French National Broadcaster Chooses Fairlight For France 3 Newsroom](https://tvnewscheck.com/more-news/tech/article/french-national-broadcaster-chooses-fairlight-for-france-3-newsroom/)
+
+
+> Blackmagic Design today announced that France Télévisions has upgraded and future-proofed its audio and video post-production capabilities with a digital audio workstation (DAW) solution based on Fairlight. With the support of Paris based reseller Magic Hour, the broadcaster has implemented 31 Fairlight Advanced Consoles in two bay systems, across 24 regional newsroom hubs throughout France for various work. 'Our requirements for the tender was to guarantee on air continuity for our 24 newsrooms with a solution that would ensure the production of our regional broadcast news in a fluid and rapid manner,' said Gregory Vital, head of engineering and technical services.
+
+
+***
+![More competition shows should be like this jaw-dropping new Netflix series](https://www.cnet.com/a/img/RUxC4zijh4-iMAV6o6fyXNa2P-Q=/0x384:3423x2160/1200x630/2021/12/02/246d8b35-e24e-468c-8615-36165bd53845/schoolofchocolate-season1-episode1-00-01-03-19.jpg "More competition shows should be like this jaw-dropping new Netflix series")
+
+
+[More competition shows should be like this jaw-dropping new Netflix series](https://www.cnet.com/news/more-competition-shows-should-be-like-this-jaw-dropping-new-netflix-series/)
+
+
+> The multilayered cake is a hidden surprise, but the real treasure is the hinged chest made entire from chocolate, lock and all.  Netflix I devoured season after season of Top Chef, gobbled every Italian meringue the Great British Bake Off threw my way and slurped up Crazy Delicious. But a new Netflix TV series, School of Chocolate, serves a bold twist on competitive cooking shows by turning the competition on its head.It simply eliminates the elimination. In the opposite of cutthroat competition, nobody packs their knives and goes.
+
+
+***
+![The final destinations of the most famous spacecraft in history](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQfdEE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "The final destinations of the most famous spacecraft in history")
+
+
+[The final destinations of the most famous spacecraft in history](https://www.lovemoney.com/news/74882/the-surprising-truth-about-where-spacecraft-end-up)
+
+
+> Have you ever wondered where the most famous rockets, satellites, probes, manned craft and space stations end up once they've served their purpose? From museums here on Earth to infinity and beyond, read on to discover the final destinations of some of the most iconic spacecraft in history. Microsoft and partners may be compensated if you purchase something through recommended links in this article. The world's very first artificial satellite, the USSR launched Sputnik 1 on 4 October 1957. The pioneering spacecraft remained in orbit for three months before it fell to Earth and burned up in the atmosphere.
+
+
