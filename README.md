@@ -35901,3 +35901,43 @@
 > No body in the article.
 
 
+***
+![Google Stadia Meets 100 Games Release Target](https://www.glamsham.com/wp-content/uploads/2021/12/1b6e442b20ce09b2cf19365e04ae33fe.jpg "Google Stadia Meets 100 Games Release Target")
+
+
+[Google Stadia Meets 100 Games Release Target](https://www.glamsham.com/world/technology/google-stadia-meets-100-games-release-target)
+
+
+> San Francisco, Dec 4 (IANS) Google has added 100 games to Stadia during the calendar year 2021, officially meeting its promise of adding at least 100 games to the platform by the end of this year.It's unclear how many more games the brand has planned to launch on Stadia before the year comes to a close, reports 9To5Google.Google has been gradually adding features to Stadia over the past two years since its launch, including a new 30-minute game trial for Hello Engineer recently.The tech giant is also allowing Stadia players to join multiplayer games without needing an invite.
+
+
+***
+![How Smartphone Brands Can Fight Online Infringement](https://www.glamsham.com/wp-content/uploads/2021/12/fefb22904a4a5c5900c0b2df95e825ca.jpg "How Smartphone Brands Can Fight Online Infringement")
+
+
+[How Smartphone Brands Can Fight Online Infringement](https://www.glamsham.com/world/technology/how-smartphone-brands-can-fight-online-infringement)
+
+
+> New Delhi, Dec 4 (IANS) Smartphone companies which have strong consumer pull now face most of the reputation issues caused by infringement of their brands in the digital space, according to a new report.There are three main techniques pertaining to brand infringement —fake gratification, fake presence and fake representation.According to Faisal Kawoosa, founder and chief analyst, Techarc, as digital becomes mainstream and brands increase their D2C (direct-to-consumer) engagements, they need to proactively police the digital space to hunt for any infringement cases.
+
+
+***
+![First Tesla Cybertrucks Will Have 4 Motors: Musk](https://www.glamsham.com/wp-content/uploads/2021/12/e1fe53900645bc2e7d3ba9dbdec77e9f-1.jpg "First Tesla Cybertrucks Will Have 4 Motors: Musk")
+
+
+[First Tesla Cybertrucks Will Have 4 Motors: Musk](https://www.glamsham.com/world/technology/first-tesla-cybertrucks-will-have-4-motors-musk)
+
+
+> San Francisco, Dec 4 (IANS) Tesla CEO Elon Musk has said that the company's first Cybertrucks will be a four-motor variant.Musk took Twitter to talk about the long-awaited Tesla Cybertruck.'Initial production will be 4 motor variants, with independent, ultra-fast response torque control of each wheel,' the CEO wrote while replying to a user.'Will have both front and rear-wheel steer, so not just like a tank — it can drive diagonally like a crab,' he added.Musk also mentioned that the product roadmap will be updated on the next earning call.
+
+
+***
+![Four tips for beating the paper bloat](https://cdn.mos.cms.futurecdn.net/fRsAVPfSi3DQznuiRCHdJg-1200-80.jpg "Four tips for beating the paper bloat")
+
+
+[Four tips for beating the paper bloat](https://www.techradar.com/features/four-tips-for-beating-the-paper-bloat)
+
+
+> From April 2022, all VAT-registered businesses with taxable turnover under £85,000 will need to comply with Making Tax Digital (MTD), HMRC's new digital tax legislation. In fact, many will have already received a letter from HMRC informing them of this fact, while those who haven't should expect one soon. If this sounds ominous – it shouldn't.About the authorGlen Foster, Director, Small Business and Accounting Partners, Xero.It just means that those businesses that are submitting VAT through the HMRC portal or the post will have to start maintaining records digitally and file VAT returns through compatible UK tax software in time for the deadline.
+
+
