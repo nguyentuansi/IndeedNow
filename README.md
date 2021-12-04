@@ -35821,3 +35821,43 @@
 > Have you ever wondered where the most famous rockets, satellites, probes, manned craft and space stations end up once they've served their purpose? From museums here on Earth to infinity and beyond, read on to discover the final destinations of some of the most iconic spacecraft in history. Microsoft and partners may be compensated if you purchase something through recommended links in this article. The world's very first artificial satellite, the USSR launched Sputnik 1 on 4 October 1957. The pioneering spacecraft remained in orbit for three months before it fell to Earth and burned up in the atmosphere.
 
 
+***
+![Crypto catfishing: When online dating turns into Bitcoin scam](https://apicms.thestar.com.my/uploads/images/2021/12/03/1391480.jpeg "Crypto catfishing: When online dating turns into Bitcoin scam")
+
+
+[Crypto catfishing: When online dating turns into Bitcoin scam](https://www.thestar.com.my/tech/tech-news/2021/12/04/crypto-catfishing-when-online-dating-turns-into-bitcoin-scam)
+
+
+> A new type of scam gaining popularity on online dating apps involves con artists convincing people to invest into cryptocurrencies through bogus websites that will swipe the victim's cash. — dpa Cybercrime experts are warning about the rise of a new kind of scam threatening people who use online dating platforms like Tinder and Bumble. It typically happens like this: Someone you've met online and been chatting to for weeks or months is dropping hints that they've made lots of money investing in a certain cryptocurrency.
+
+
+***
+![Bring an old phone back to life with a free Android alternative](https://apicms.thestar.com.my/uploads/images/2021/12/03/1391474.jpg "Bring an old phone back to life with a free Android alternative")
+
+
+[Bring an old phone back to life with a free Android alternative](https://www.thestar.com.my/tech/tech-news/2021/12/04/bring-an-old-phone-back-to-life-with-a-free-android-alternative)
+
+
+> Have an old phone no longer supported by Android? These OS alternatives can give otherwise working phones a second lease at life. — Bloomberg Your phone's hardware is still in good shape, but the manufacturer has stopped supporting the software. In cases like these, you should consider installing an alternative Android version so that you can continue making the best of a perfectly good phone. Smartphone manufacturers are notorious for ending Android updates after two to three years, despite phones being capable of longer lifespans.
+
+
+***
+![New legislation aimed to protect consumers and support competition](https://itwire.com/media/k2/items/cache/7ead10a7e5e4ab8b44c91726158160b3_XS.jpg "New legislation aimed to protect consumers and support competition")
+
+
+[New legislation aimed to protect consumers and support competition](https://itwire.com/technology-regulation/new-legislation-aimed-to-protect-consumers-and-support-competition.html)
+
+
+> Minister for Communications Urban Infrastructure Cities and the Arts Paul Fletcher The Telstra Corporation and Other Legislation Amendment Bill 2021, has passed, guaranteeing that important consumer outcomes continue to be delivered regardless of how Telstra structures itself, both now and in the future through a flexible regulatory framework, the Government contends. Minister for Communications Urban Infrastructure Cities and the Arts Paul Fletcher said, while there have been significant changes in the telecommunications industry over the past decade, Telstra continues to play a key role in metropolitan, regional, rural and remote Australia.
+
+
+***
+![Best 2K ultrawide monitors for gaming and streaming](https://www.businessinsider.in/photo/88078919/best-2k-ultrawide-monitors-for-gaming-and-streaming.jpg?imgsize=142748 "Best 2K ultrawide monitors for gaming and streaming")
+
+
+[Best 2K ultrawide monitors for gaming and streaming](https://www.businessinsider.in/tech-buying-guides/best-2k-ultrawide-monitors-for-gaming-and-streaming/articleshow/88078919.cms)
+
+
+> Ultrawide monitors offer a lot more screen space than regular monitors which makes them great for productivity and multitasking. Ultrawide monitors are also recommended for multi-display setups. The best ultrawide monitors come with a 21:9 aspect ratio with most of them offering a curved display. In addition to productivity, ultrawide monitors are also great for gaming, especially for streaming. If you want a resolution which sits between the basic Full HD and 4K standards, then you can consider 2K monitors.
+
+
