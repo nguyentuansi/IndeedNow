@@ -35941,3 +35941,53 @@
 > From April 2022, all VAT-registered businesses with taxable turnover under £85,000 will need to comply with Making Tax Digital (MTD), HMRC's new digital tax legislation. In fact, many will have already received a letter from HMRC informing them of this fact, while those who haven't should expect one soon. If this sounds ominous – it shouldn't.About the authorGlen Foster, Director, Small Business and Accounting Partners, Xero.It just means that those businesses that are submitting VAT through the HMRC portal or the post will have to start maintaining records digitally and file VAT returns through compatible UK tax software in time for the deadline.
 
 
+***
+![Toyota teases GR Corolla sports sedan, and it looks really cool](https://cdn.slashgear.com/wp-content/uploads/2021/12/gr-corolla-dirt.jpg "Toyota teases GR Corolla sports sedan, and it looks really cool")
+
+
+[Toyota teases GR Corolla sports sedan, and it looks really cool](https://www.slashgear.com/toyota-teases-gr-corolla-sports-sedan-and-it-looks-really-cool-04701206/)
+
+
+> Many people out there want a performance car, but they can't live with two doors for various reasons. Anyone who owns a two-door sports car or muscle car knows that getting people, pets, and other items in and out of a two-door is very difficult. Thankfully, there are a few four-door cars out there that offer performance and convenience. Back at the beginning of the year, a rumor floated around that Toyota was working on a four-door performance car known as the GR Corolla. Toyota/Instagram That rumor has since been confirmed.
+
+
+***
+![iPhone 14 – Things we know so far](https://cdn.slashgear.com/wp-content/uploads/2021/12/iphone-14-rumors-leaks.jpg "iPhone 14 – Things we know so far")
+
+
+[iPhone 14 – Things we know so far](https://www.slashgear.com/iphone-14-things-we-know-so-far-04701219/)
+
+
+> Rumors about the iPhone 14 started popping up online before the iPhone 13 was announced — and though we don't yet know what Apple has planned, there's enough info floating around to speculate. The company is rumored to be working on a foldable iPhone, at least based on certain patents, but there's no guarantee a folding model is in the pipeline at this time. In all likeliness, the next iteration of the iPhone will be called the iPhone 14 and it'll stick to the trusted form factor from previous years.
+
+
+***
+![iPhone 12 Pro Available at an Amazing Price on Amazon](https://telecomtalk.info/wp-content/uploads/2021/12/iphone-12-pro-available-at-an-amazing.jpg "iPhone 12 Pro Available at an Amazing Price on Amazon")
+
+
+[iPhone 12 Pro Available at an Amazing Price on Amazon](https://telecomtalk.info/iphone-12-pro-available-at-an-amazing/483500/)
+
+
+> The company is selling the 128GB of iPhone 12 Pro variant for Rs 95,900.Customers can get the 256GB variant at Rs 99,900 and the 512GB variant of the device at Rs 1,07,900.AirPods Pro with iPhone 12 will only cost Rs 1,15,395 to the users on Amazon. One of the most prominent players when it comes to online stores, Amazon has come up with a new offer on iPhone 12 Pro that interested buyers cannot just oversee. According to recent reports, Amazon is providing a huge discount of Rs 25,000 on the iPhone 12 Pro which includes all the storage variants of the device.
+
+
+***
+![It's official, ADSL works over wet string](https://1.bp.blogspot.com/-PI6GDS0UiK0/WjAXI5DF5PI/AAAAAAAAGbc/ieEBnmbx53EifjIVw8AlnqZZrjD28IRIACLcBGAs/w1200-h630-p-k-no-nu/DQziME8WsAAT8ZP.jpg-large.jpeg "It's official, ADSL works over wet string")
+
+
+[It's official, ADSL works over wet string](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
+
+
+> Broadband services are a wonderful innovation of our time, using multiple frequency bands (hence the name) to carry signals over wires (usually copper, sometimes aluminium). One of the key aspects of the technology is its ability to adapt to the length and characteristics of the line on which it is deployed. We have seen faults on broadband circuits that manifest as the system adapting to much lower speeds, this is a key factor as a service can work, but unusually slowly, over very bad lines. It has always been said that ADSL will work over a bit of wet string.
+
+
+***
+![Dish TV Android Box Features, Price Detailed](https://telecomtalk.info/wp-content/uploads/2021/12/dish-tv-android-box-features-price-detailed.jpg "Dish TV Android Box Features, Price Detailed")
+
+
+[Dish TV Android Box Features, Price Detailed](https://telecomtalk.info/dish-tv-android-box-features-price-detailed/483459/)
+
+
+> Dish TV, the second largest Direct-to-Home (DTH) service provider in India offers an Android Box for the users.The DishSMRT HUB is available for a price of Rs 2,499 in India.There is an option to create multiple profiles just the way Netflix allows users to do.Dish TV, the second largest Direct-to-Home (DTH) service provider in India, offers an Android Box for the users. This Android Box is called ‘DishSMRT HUB', and it is available for a very competitive price as compared to what Tata Sky and Airtel Digital TV offer their Android Boxes for.
+
+
