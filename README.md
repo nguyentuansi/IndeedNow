@@ -35861,3 +35861,43 @@
 > Ultrawide monitors offer a lot more screen space than regular monitors which makes them great for productivity and multitasking. Ultrawide monitors are also recommended for multi-display setups. The best ultrawide monitors come with a 21:9 aspect ratio with most of them offering a curved display. In addition to productivity, ultrawide monitors are also great for gaming, especially for streaming. If you want a resolution which sits between the basic Full HD and 4K standards, then you can consider 2K monitors.
 
 
+***
+![Bitcoin extends downtrend, falls 12.1% to $47,176](https://apicms.thestar.com.my/uploads/images/2021/12/04/1392546.jpg "Bitcoin extends downtrend, falls 12.1% to $47,176")
+
+
+[Bitcoin extends downtrend, falls 12.1% to $47,176](https://www.thestar.com.my/tech/tech-news/2021/12/04/bitcoin-extends-downtrend-falls-121-to-47176)
+
+
+> FILE PHOTO: Representation of cryptocurrency Bitcoin is seen in this illustration taken November 29, 2021. REUTERS/Dado Ruvic/Illustration (Reuters) - Bitcoin dived 12.14% to $47,176.09 on Saturday, losing $6,567.6 from its previous close. Bitcoin, the world's biggest and best-known cryptocurrency, is down 31.6% from the year's high of $69,000 reached on Nov. 10. Ether, the coin linked to the ethereum blockchain network, dropped 10.14 % to $3,794.61 on Saturday, losing $428.19 from its previous close.
+
+
+***
+![Instagram launches new parental guidelines after whistleblower leak](https://apicms.thestar.com.my/uploads/images/2021/12/04/1392465.jpeg "Instagram launches new parental guidelines after whistleblower leak")
+
+
+[Instagram launches new parental guidelines after whistleblower leak](https://www.thestar.com.my/tech/tech-news/2021/12/04/instagram-launches-new-parental-guidelines-after-whistleblower-leak)
+
+
+> Instagram is helping parents manage their children's social media, providing clear advice on how to structure their use of the platform. — dpa Teenagers are often more adept at using social networks than their parents, but that shouldn't mean parents can't understand what their children are doing on social media. That's why Instagram is giving parents and guardians clear advice on how to make sure their children are using the platform safely. The advice is likely also aimed at parents whose concerns have been raised by recent headlines Instagram's mental health impact.
+
+
+***
+![Starlink Aims to Have 200K Terminals in India by December 2022](https://telecomtalk.info/wp-content/uploads/2021/12/starlink-aims-to-have-200k-terminals-india.jpeg "Starlink Aims to Have 200K Terminals in India by December 2022")
+
+
+[Starlink Aims to Have 200K Terminals in India by December 2022](https://telecomtalk.info/starlink-aims-to-have-200k-terminals-india/483418/)
+
+
+> Starlink said that the delays in order shipment have occurred due to the silicone shortage over the last few months.The company is planning to have up to 200K terminals in India by December 2022, which is 12 months or a year from now.Starlink India is planning apply for commercial license on or before January 31, 2022.Starlink India is planning to apply for the commercial license on or before January 31, 2022. The satellite communications (satcom) company has prepared two guides for the same. One guide is for the individuals and private sector while the other one is for the state and union territories, wrote Sanjay Bhargava, Starlink India Head, on his LinkedIn post on Friday.
+
+
+***
+![Shinhan Bank Vietnam launches ‘Shinhan Package' with optimized benefits for customers](http://bizhub.vn/thumbnail/BizHub-480-2021-12-4/b5023d52-e657-4e10-8270-3838e248bb66.jpeg "Shinhan Bank Vietnam launches ‘Shinhan Package' with optimized benefits for customers")
+
+
+[Shinhan Bank Vietnam launches ‘Shinhan Package' with optimized benefits for customers](http://bizhub.vn/corporate-news/shinhan-bank-vietnam-launches-shinhan-package-with-optimized-benefits-for-customers_329566.html)
+
+
+> No body in the article.
+
+
