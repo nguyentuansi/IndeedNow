@@ -36131,3 +36131,43 @@
 > More from us: mbcn.com.ph Business Tech, Technology Capillary Technologies (a leading B2B SaaS platform for customer loyalty and engagement) has entered a long-term partnership with Sonak Group (One of the Philippines' premier retail groups) to build a consolidated digital loyalty program that will boost sales for all its brands. Capillary Technologies In this partnership, Capillary will power Sonak's unified loyalty program across 16 brands, and over 30 physical stores and online channels. This solution will help in strengthening customer perception of the brands they carry and will provide their already large and loyal customer base with more ways to benefit from their purchases.
 
 
+***
+![Facebook Messenger to get built-in bill splitting feature](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-q1ekml21ovukplfqqhcs8jlv83-20211029002637.jpeg "Facebook Messenger to get built-in bill splitting feature")
+
+
+[Facebook Messenger to get built-in bill splitting feature](https://www.asianage.com/technology/in-other-news/051221/facebook-messenger-to-get-built-in-bill-splitting-feature.html)
+
+
+> ANI Published : Dec 5, 2021, 11:18 am IST Updated : Dec 5, 2021, 11:18 am IST The feature could be useful for situations like divvying up a restaurant bill with your friends or splitting a bill with roommates  The feature arrives shortly after David Marcus announced he would be leaving the company. (Photo: AFP/File) Washington: Facebook's parent company Meta will be introducing a built-in bill splitting feature in Facebook Messenger that it will test with users in the US beginning from next week.
+
+
+***
+![Microsoft Office Gets a New Visual Update to its UI](https://blogger.googleusercontent.com/img/a/AVvXsEhlybJyjqrb0IDmeM9WGkSyGYsPbAv1pX9H5gDUO8XIZ7_xXw1fZmESURowoRu5FEFHMeTQ8SCZ9N0A2DB7b_9JCh4t0ki84911lru4LJBejxv-BBy4lIhg83px83cd1CiB3uaK5NO8506YzR0Qr34DSBDC5q8lxLE5n-sbkz4GwZy8aEb-n3JBStLQ=s16000 "Microsoft Office Gets a New Visual Update to its UI")
+
+
+[Microsoft Office Gets a New Visual Update to its UI](https://www.digitalinformationworld.com/2021/12/microsoft-office-gets-new-visual-update.html)
+
+
+> Microsoft Office is a highly popular suite of programs that allow people to make the most of any and all work that they might be thinking. With all of that having been said and now out of the way, it is important to note that the user interface for these programs has remained more or less the same for about eight years ever since Office 2013 was released, but it turns out that the release of Windows 11 and its updated visuals is coinciding with a UI update for Microsoft Office as well.With all things having been considered and taken into account, the changes in the user interface will make Microsoft Office more consistent with the aesthetics of Windows 11.
+
+
+***
+![Seven Years Later and Sunset Overdrive Has Got To Be One of The Most Fun and Underrated Games of 2014...! : programming](https://external-preview.redd.it/XT2gQpF7B6cWwFtnKUfCB4rzzntsPSU_efNam-2uUmA.jpg?auto=webp&s=a3451abb00c90d66ac8604179f38a39e7eef96e1 "Seven Years Later and Sunset Overdrive Has Got To Be One of The Most Fun and Underrated Games of 2014...! : programming")
+
+
+[Seven Years Later and Sunset Overdrive Has Got To Be One of The Most Fun and Underrated Games of 2014...! : programming](https://www.reddit.com/r/programming/comments/r9ave2/seven_years_later_and_sunset_overdrive_has_got_to)
+
+
+> Seven Years Later and Sunset Overdrive Has Got To Be One of The Most Fun and Underrated Games of 2014...!
+
+
+***
+![Ring Video Doorbell Pro 2 vs Arlo Video Doorbell: Which doorbell camera is right for you?](https://cdn.mos.cms.futurecdn.net/M3mMHH7Lozvj9mErmeTeyX-1200-80.jpg "Ring Video Doorbell Pro 2 vs Arlo Video Doorbell: Which doorbell camera is right for you?")
+
+
+[Ring Video Doorbell Pro 2 vs Arlo Video Doorbell: Which doorbell camera is right for you?](https://www.techradar.com/news/ring-video-doorbell-pro-2-vs-arlo-video-doorbell-which-doorbell-camera-is-right-for-you)
+
+
+> The best video doorbells ensure that you never miss a delivery again (and that you can give cold callers the cold shoulder) by enabling you to see and speak to whoever is on your doorstep from your smartphone, even when you're not at home. Arlo and Ring are two of the biggest names in the video doorbell market right now, and each offers a flagship video doorbell that captures footage in an aspect ratio that ensures you can see the full length of someone on your doorstep, and any packages at their feet - ideal if you're doing your holiday shopping online.
+
+
