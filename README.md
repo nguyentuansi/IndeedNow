@@ -36261,3 +36261,43 @@
 > Share Tweet Print Whenever I hear about a new technology that 'empowers the individual,' I know that one thing is likely to be true about it: It will soon (if not already) be turned to negative and harmful ends. And yet, we as a society keep falling for the line that somehow every new technology... read full story
 
 
+***
+![The Google Pixel Watch shows up again in newly leaked marketing images](https://cdn.mos.cms.futurecdn.net/vYkas5rAEVMLXfr9efPNhi-1200-80.jpg "The Google Pixel Watch shows up again in newly leaked marketing images")
+
+
+[The Google Pixel Watch shows up again in newly leaked marketing images](https://www.techradar.com/news/the-google-pixel-watch-shows-up-again-in-newly-leaked-marketing-images)
+
+
+> The Wear OS-powered Fossil Gen 6. (Image credit: Future) The rumor buzz is building, and it seems as though the Google Pixel Watch might finally become a real and released product in the near future. Now we've got some leaked marketing materials that give us another look at the purported design of the upcoming Wear OS smartwatch.The fuzzy images come courtesy of well-known tipster Jon Prosser and Front Page Tech, and are apparently official promotional renders made by Google – so we might see these pictures again when the wearable actually launches.
+
+
+***
+![Private space stations are coming](https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80 "Private space stations are coming")
+
+
+[Private space stations are coming](https://www.miragenews.com/private-space-stations-are-coming-687351/)
+
+
+> A new era of space stations is about to kick off. NASA has announced three commercial space station proposals for development, joining an earlier proposal by Axiom Space. Associate professor of art history and archaeology, Chapman University Associate Professor in Archaeology and Space Studies, Flinders University These proposals are the first attempts to create places for humans to live and work in space outside the framework of government space agencies. They're part of what has been called 'Space 4.
+
+
+***
+![EPA: 2022 Polestar 2 With Single Motor Has Range Of 270 Miles](https://cdn.motor1.com/images/mgl/1mQ03/s1/2021-polestar-2-exterior.jpg "EPA: 2022 Polestar 2 With Single Motor Has Range Of 270 Miles")
+
+
+[EPA: 2022 Polestar 2 With Single Motor Has Range Of 270 Miles](https://insideevs.com/news/552440/epa-polestar2-single-motor-range/)
+
+
+> The Polestar 2 lineup has expanded this year and besides the dual-motor, all-wheel-drive version, the lineup now includes also a single motor, front-wheel drive version (see specs and prices here). That's in the U.S., because in Europe there are also other versions - a single motor, front-wheel drive with a smaller battery (see details here). The new 2022 Polestar 2 Dual Motor was already rated by the U.S. Environmental Protection Agency (EPA) and received a 7% better range (249 miles/401 km) than the launch edition - partially it might be related to the switch to 19" wheels as standard and 5-cycle EPA test (vs.
+
+
+***
+![Image of Moto Edge X30, world's first Snapdragon 8 Gen 1-powered smartphone, rev](https://images.hindustantimes.com/tech/img/2021/12/05/1600x900/Motorola_1638731883047_1638731926737.jfif "Image of Moto Edge X30, world's first Snapdragon 8 Gen 1-powered smartphone, rev")
+
+
+[Image of Moto Edge X30, world's first Snapdragon 8 Gen 1-powered smartphone, rev](https://tech.hindustantimes.com/mobile/news/image-of-moto-edge-x30-world-s-first-snapdragon-8-gen-1-powered-smartphone-revealed-71638731172962.html)
+
+
+> Motorola is set to introduce the Moto Edge X30 next week as the world's first Snapdragon 8 Gen 1-powered smartphone. According to GSM Arena, it hasn't detailed the smartphone's specs sheet yet, but a company official has shared a live image of the Moto Edge X30, showing off the slim bezels around its centered punch hole display. Additionally, Motorola's official Weibo account posted a short video clip revealing the Moto Edge X30's screen specs: 144Hz refresh rate, HDR10 certification, and 1 billion colors.
+
+
