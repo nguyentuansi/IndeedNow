@@ -36031,3 +36031,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
 
 
+***
+![Fintech Firm BillFront Rebrands to Vane, Announces New Funding and US Expansion Plans](https://www.crowdfundinsider.com/wp-content/uploads/2020/03/USA-Flag-Times-Square-New-York-City.jpeg "Fintech Firm BillFront Rebrands to Vane, Announces New Funding and US Expansion Plans")
+
+
+[Fintech Firm BillFront Rebrands to Vane, Announces New Funding and US Expansion Plans](https://www.crowdfundinsider.com/2021/12/183747-fintech-firm-billfront-rebrands-to-vane-announces-new-funding-and-us-expansion-plans)
+
+
+> Fintech firm BillFront announced that it has acquired €50 million in a multi-currency asset-backed financing from Fasanara Capital and 'adopted a new name: Vane.' The rebrand to Vane reflects the firm's strategy to introduce a more extensive suite of financial products and illustrates 'how Vane lends financial power to digital businesses, giving them a capital advantage in the market.' At present, Vane operates from offices in London, Berlin and New York, and offers 'non-dilutive capital to companies that operate digital business models.
+
+
+***
+![NEC to introduce facial recognition vaccination check system](https://japantoday.com/images/japan-today-social.jpg "NEC to introduce facial recognition vaccination check system")
+
+
+[NEC to introduce facial recognition vaccination check system](https://japantoday.com/category/tech/nec-to-introduce-facial-recognition-vaccination-check-system)
+
+
+> NEC Corp will start the full-scale introduction of a vaccination certification system for COVID-19 based on facial recognition, eliminating any use of smartphone applications or documents, officials at the technology firm said. The company expects the system to be used at tourist sites and event venues and help alleviate congestion and reduce labor costs. Consenting users will need to register their vaccination history and submit a photo of their face to use the system, which will scan them with a camera at venue entrances and confirm their vaccination status within a few seconds.
+
+
+***
+![AI Is Discovering Patterns in Pure Mathematics That Have Never Been Seen Before](https://www.sciencealert.com/images/2021-12/processed/AbstractSwirlOfBinaryAndBurstOfLight_1024.jpg "AI Is Discovering Patterns in Pure Mathematics That Have Never Been Seen Before")
+
+
+[AI Is Discovering Patterns in Pure Mathematics That Have Never Been Seen Before](https://www.sciencealert.com/ai-is-discovering-patterns-in-pure-mathematics-that-have-never-been-seen-before)
+
+
+> We can add suggesting and proving mathematical theorems to the long list of what artificial intelligence is capable of: Mathematicians and AI experts have teamed up to demonstrate how machine learning can open up new avenues to explore in the field. While mathematicians have been using computers to discover patterns for decades, the increasing power of machine learning means that these networks can work through huge swathes of data and identify patterns that haven't been spotted before.In a newly published study, a research team used artificial intelligence systems developed by DeepMind, the same company that has been deploying AI to solve tricky biology problems and improve the accuracy of weather forecasts, to unknot some long-standing math problems.
+
+
+***
+![A new, potentially premium iQOO Neo-series smartphone shows up in new leaks](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/iQOO_Neo_6_on_play_console.jpg "A new, potentially premium iQOO Neo-series smartphone shows up in new leaks")
+
+
+[A new, potentially premium iQOO Neo-series smartphone shows up in new leaks](https://www.notebookcheck.net/A-new-potentially-premium-iQOO-Neo-series-smartphone-shows-up-in-new-leaks.583052.0.html)
+
+
+> Is this the iQOO Neo6? (Source: Google via MyFixGuide)iQOO may be on the verge of adding a Snapdragon 888-powered device to its often flagship-killing Neo series of smartphones. Now, it may have shown up on the Google Play Console and on the 3C regulatory database. It is shaping up to be a reasonably premium Android device for the end of 2021.5G Android Chinese Tech Rumor Smartphone Software Touchscreen Vivo's sub-brand iQOO is now said to have a new generation to add to its premium specs/mid-range price Neo series of smartphones.
+
+
+***
+![How to open different iPhone camera modes fast or by default](https://helios-i.mashable.com/imagery/articles/05wzre3YQKWaS1uNEVBjKSk/hero-image.fill.size_1200x675.v1638658834.jpg "How to open different iPhone camera modes fast or by default")
+
+
+[How to open different iPhone camera modes fast or by default](https://mashable.com/article/iphone-camera-modes-settings-preserve)
+
+
+> When you need to take a video like right now, your default camera mode doesn't cut it. The moment has passed and you didn't capture it. It's that feeling when stumbling for the video button once you've managed to open your iPhone's camera. Somehow you can't get to it fast enough and the funny song your baby niece was singing has deteriorated into whining. But you can get to that video speedy quick next time.Instead of opening the camera just give the camera icon a long push. You can do the same thing with the camera icon in the control center.
+
+
