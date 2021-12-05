@@ -36081,3 +36081,53 @@
 > When you need to take a video like right now, your default camera mode doesn't cut it. The moment has passed and you didn't capture it. It's that feeling when stumbling for the video button once you've managed to open your iPhone's camera. Somehow you can't get to it fast enough and the funny song your baby niece was singing has deteriorated into whining. But you can get to that video speedy quick next time.Instead of opening the camera just give the camera icon a long push. You can do the same thing with the camera icon in the control center.
 
 
+***
+![Tech stocks from Meituan to Alibaba lead losses in Hong Kong as Chinese ride-hailing giant Didi prepares for US delisting](https://apicms.thestar.com.my/uploads/images/2021/12/05/1393410.jpg "Tech stocks from Meituan to Alibaba lead losses in Hong Kong as Chinese ride-hailing giant Didi prepares for US delisting")
+
+
+[Tech stocks from Meituan to Alibaba lead losses in Hong Kong as Chinese ride-hailing giant Didi prepares for US delisting](https://www.thestar.com.my/aseanplus/aseanplus-news/2021/12/05/tech-stocks-from-meituan-to-alibaba-lead-losses-in-hong-kong-as-chinese-ride-hailing-giant-didi-prepares-for-us-delisting)
+
+
+> Hong Kong stocks fell on Friday as concerns about Chinese companies being kicked off American stock exchanges delivered a punch to technology giants, compounded by Didi Global's move to delist from New York. The Hang Seng Index retreated 0.1 per cent to 23,766.69 at the close of Friday trading, reversing a two-day gain to finish the week down 1.3 per per cent. That was its third straight weekly loss. The Hang Seng Tech Index slid 1.5 per cent on Friday, while China's Shanghai Composite Index rose 0.
+
+
+***
+![Best laptops with 11th Gen Intel i7 processors](https://www.businessinsider.in/photo/88089328/best-laptops-with-11th-gen-intel-i7-processors.jpg?imgsize=105648 "Best laptops with 11th Gen Intel i7 processors")
+
+
+[Best laptops with 11th Gen Intel i7 processors](https://www.businessinsider.in/tech-buying-guides/best-laptops-with-11th-gen-intel-i7-processors/articleshow/88089328.cms)
+
+
+> The 11th Gen Intel Core i7 processors are among the fastest and most powerful you'll find on laptops and desktops. In general, the 11th Gen processors come with improved performance, better wireless and wired connectivity. Out of these, the 11th Gen Intel Core i7 processors offer a maximum clock speed of 4.7 GHz, and are equipped with up to eight cores. If you're looking for a high performance laptop then it's recommended to get one with the Intel 11th Gen Core i7 processor. Keeping in mind the other specifications and features, here are the best Intel 11th Gen Core i7 laptops.
+
+
+***
+![Best laptops with 11th Gen Intel i5 processors](https://www.businessinsider.in/photo/88089517/best-laptops-with-11th-gen-intel-i5-processors.jpg?imgsize=109418 "Best laptops with 11th Gen Intel i5 processors")
+
+
+[Best laptops with 11th Gen Intel i5 processors](https://www.businessinsider.in/tech-buying-guides/best-laptops-with-11th-gen-intel-i5-processors/articleshow/88089517.cms)
+
+
+> The best Intel 11th Gen i5 laptops mostly fall in the mid-range segment although you can get some in the premium range too. Intel debuted the 11th Gen Core i5 processor in 2020 but launched most of the models this year. With the 11th Gen Core i5 processors you can get a maximum clock speed of 4.2 GHz. You can get laptops with this processor for gaming, personal work, and light editing too with the right combination of a good GPU. So here's a list of the best Intel 11th Gen i5 laptops. The HP Pavilion 14 laptop features a 14-inch Full HD display with Intel Iris Xe Graphics.
+
+
+***
+![Cryptocurrency exchange Bitget suspended over Army Coin dispute with boy band BT](https://images.hindustantimes.com/tech/img/2021/12/05/1600x900/AWARDS-AMERICAN-MUSIC--130_1638674964157_1638675029093.JPG "Cryptocurrency exchange Bitget suspended over Army Coin dispute with boy band BT")
+
+
+[Cryptocurrency exchange Bitget suspended over Army Coin dispute with boy band BT](https://tech.hindustantimes.com/tech/news/cryptocurrency-exchange-bitget-suspended-over-army-coin-dispute-with-boy-band-bts-ft-71638673967745.html)
+
+
+> Singapore's regulator has suspended Bitget, a cryptocurrency exchange that got into a dispute after promoting the digital currency Army Coin, named after the South Korean boy band BTS's followers, the Financial Times reported.Bitget, a sponsor of Italian football team Juventus, advertised Army Coin as a way to provide lifetime financial support to BTS members. But BTS's agency Hybe said late October the coin has no connection with BTS and threatened to take legal action.Bitget has removed the Monetary Authority of Singapore's logo from its website and has blocked Singapore users from accessing its app and website, the FT reported.
+
+
+***
+![Capillary Technologies to power Sonak Group's first digital loyalty program](https://mb.com.ph/wp-content/uploads/2021/12/51242.jpeg "Capillary Technologies to power Sonak Group's first digital loyalty program")
+
+
+[Capillary Technologies to power Sonak Group's first digital loyalty program](https://mb.com.ph/2021/12/05/capillary-technologies-to-power-sonak-groups-first-digital-loyalty-program/)
+
+
+> More from us: mbcn.com.ph Business Tech, Technology Capillary Technologies (a leading B2B SaaS platform for customer loyalty and engagement) has entered a long-term partnership with Sonak Group (One of the Philippines' premier retail groups) to build a consolidated digital loyalty program that will boost sales for all its brands. Capillary Technologies In this partnership, Capillary will power Sonak's unified loyalty program across 16 brands, and over 30 physical stores and online channels. This solution will help in strengthening customer perception of the brands they carry and will provide their already large and loyal customer base with more ways to benefit from their purchases.
+
+
