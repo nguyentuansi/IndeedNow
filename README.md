@@ -36171,3 +36171,43 @@
 > The best video doorbells ensure that you never miss a delivery again (and that you can give cold callers the cold shoulder) by enabling you to see and speak to whoever is on your doorstep from your smartphone, even when you're not at home. Arlo and Ring are two of the biggest names in the video doorbell market right now, and each offers a flagship video doorbell that captures footage in an aspect ratio that ensures you can see the full length of someone on your doorstep, and any packages at their feet - ideal if you're doing your holiday shopping online.
 
 
+***
+![Realme C11 (2021) Price in India, Specifications, Comparison (5th December 2021)](https://i.gadgets360cdn.com/products/large/realme-c11-2021-db-600x800-1620195249.jpg "Realme C11 (2021) Price in India, Specifications, Comparison (5th December 2021)")
+
+
+[Realme C11 (2021) Price in India, Specifications, Comparison (5th December 2021)](https://gadgets.ndtv.com/realme-c11-2021-price-in-india-102209)
+
+
+> Realme C11 (2021) mobile was launched on 5th May 2021. The phone comes with a 6.50-inch touchscreen display with a resolution of 720x1600 pixels and an aspect ratio of 20:9. Realme C11 (2021) is powered by an octa-core processor. It comes with 2GB of RAM. The Realme C11 (2021) runs Android 11 and is powered by a 5000mAh battery. As far as the cameras are concerned, the Realme C11 (2021) on the rear packs 8-megapixel camera. It has a single front camera setup for selfies, featuring a 5-megapixel sensor.
+
+
+***
+![Masayoshi Son says SoftBank is India's largest foreign investor, having invested 10% in unicorns](https://techstory.in/wp-content/uploads/2021/12/Masayoshi-Son-scaled.jpg "Masayoshi Son says SoftBank is India's largest foreign investor, having invested 10% in unicorns")
+
+
+[Masayoshi Son says SoftBank is India's largest foreign investor, having invested 10% in unicorns](https://techstory.in/masayoshi-son-says-softbank-is-india-largest-foreign-investor/)
+
+
+> Masayoshi Son, the founder of SoftBank Group, stated that he believes in India's bright future and the ambition of the country's young entrepreneurs. Courtesy: Kiyoshi Ota | Bloomberg 'India will be great. There's a bright future. I tell young people in India let's make it (innovation) happen. I would support,' Son stated at the InFinity Forum, which was co-hosted by the International Financial Services Centres Authority (IFSCA) and Bloomberg. 'I believe in the future of India. I believe in the passion of young entrepreneurs in India.
+
+
+***
+![Personal data is worth billions. These startups want you to get a cut](https://images.livemint.com/img/2021/12/05/600x338/data_1580665096315_1638704397730.jpg "Personal data is worth billions. These startups want you to get a cut")
+
+
+[Personal data is worth billions. These startups want you to get a cut](https://www.livemint.com/technology/tech-news/personal-data-is-worth-billions-these-startups-want-you-to-get-a-cut-11638704071017.html)
+
+
+> Frank McCourt stepped in front of an 8-foot-tall screen, summoning a cluster of what looked like white, pixelated sand that hovered beside him. When he moved his hand over another screen, another cluster appeared; this time, the glittering particles took the shape he drew. Walking along the screen, he swept his arm wide to reveal its hidden message: 'YOU CONTROL YOUR DATA." The billionaire real estate mogul was in Manhattan's Hudson Yards area in September to show off an art exhibit he funded to demonstrate a new model for consumer data.
+
+
+***
+![This might be our first look at the Google Pixel Watch](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/pixel_watch.png-original.jpeg "This might be our first look at the Google Pixel Watch")
+
+
+[This might be our first look at the Google Pixel Watch](https://www.indiatoday.in/technology/news/story/this-might-be-our-first-look-at-the-google-pixel-watch-1884321-2021-12-05)
+
+
+> Story highlights Google's Pixel Watch is likely to be released in 2022 with WearOS 3. Fitbit that was recently acquired by Google is apparently not involved in the development. Pixel Watch will have a metal casing rim around its face and a dial. Google is reportedly working on its own lineup of Pixel smartwatches. The company acquired Fitbit for $2.1 billion USD, earlier this year, and is expected to launch in 2022. Google's lack of confidence in Wear OS supposedly held it back from releasing a watch as recently as 2019.
+
+
