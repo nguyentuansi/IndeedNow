@@ -36211,3 +36211,53 @@
 > Story highlights Google's Pixel Watch is likely to be released in 2022 with WearOS 3. Fitbit that was recently acquired by Google is apparently not involved in the development. Pixel Watch will have a metal casing rim around its face and a dial. Google is reportedly working on its own lineup of Pixel smartwatches. The company acquired Fitbit for $2.1 billion USD, earlier this year, and is expected to launch in 2022. Google's lack of confidence in Wear OS supposedly held it back from releasing a watch as recently as 2019.
 
 
+***
+![Best wireless chargers for smartphones (Android and iOS)](https://cdn.slashgear.com/wp-content/uploads/2021/12/best-wireless-charger-1.jpg "Best wireless chargers for smartphones (Android and iOS)")
+
+
+[Best wireless chargers for smartphones (Android and iOS)](https://www.slashgear.com/best-wireless-chargers-for-smartphones-android-and-ios-05701227/)
+
+
+> Given the choice, we'd all prefer gadgets that work as part of a wire-free ecosystem. Wireless chargers are the best example of this technology, enabling modern smartphones to recharge without the hassle of cables and power bricks. The market is packed with Qi-certified chargers, but consumers need to be careful when they select a model, as low-quality products can damage phones. Belkin Avoiding low-quality wireless chargers isn't too difficult, fortunately, with a number of well-known and reliable companies offering models to suit every need.
+
+
+***
+![Redmi 10 2022 and Redmi 10 Prime 2022 Spotting at FCC Reveals New Details](https://telecomtalk.info/wp-content/uploads/2021/12/redmi-10-2022-and-redmi-10-2022.jpg "Redmi 10 2022 and Redmi 10 Prime 2022 Spotting at FCC Reveals New Details")
+
+
+[Redmi 10 2022 and Redmi 10 Prime 2022 Spotting at FCC Reveals New Details](https://telecomtalk.info/redmi-10-2022-and-redmi-10-2022/483639/)
+
+
+> Redmi 10 2022 may arrive with two storage variants.The device will also come with preinstalled MIUI 12.5.The listing gives the information that the device does not come with 5G supportThe recent rumours suggest that smartphone maker Xiaomi has been working on Redmi 10 2022 and Redmi 10 Prime 2022 handsets. There are various model numbers of certain devices that are being speculated to be Redmi 10 2022. Recent speculation suggests that a device with model number 22011119UY has been certified by Federal Communications Commission (FCC).
+
+
+***
+![Turkey has tackled soil erosion successfully: Environment minister](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/12/5/5cca8682-mbuglxbwwijyissuk3j2n.jpeg "Turkey has tackled soil erosion successfully: Environment minister")
+
+
+[Turkey has tackled soil erosion successfully: Environment minister](https://www.yenisafak.com/en/news/turkey-has-tackled-soil-erosion-successfully-environment-minister-3585544)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
+
+
+***
+![Israeli spy chief visits Washington for talks on Iran](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/12/5/268a2a54-cisqxk6f4hgtib4r8v05q.jpeg "Israeli spy chief visits Washington for talks on Iran")
+
+
+[Israeli spy chief visits Washington for talks on Iran](https://www.yenisafak.com/en/news/israeli-spy-chief-visits-washington-for-talks-on-iran-3585543)
+
+
+> The head of Israel's Mossad intelligence service traveled to the United States on Sunday for talks with US officials on Iran's nuclear program. David Barnea is expected to hand the US officials "updated intelligence on Tehran's efforts" regarding its nuclear activities, the Yedioth Ahronoth newspaper reported. The Mossad chief will convey Israel's messages to intensify sanctions on Iran along with putting a real military threat on the table against Tehran, the daily said. According to the newspaper, Barnea will inform Washington that Israel will not be bound to any nuclear deal with Iran and will keep its efforts to quell Iran's nuclear activity.
+
+
+***
+![Technology that 'empowers the individual' can threaten all of us](https://ecdn0.wn.com/st/favicon-20131209.ico "Technology that 'empowers the individual' can threaten all of us")
+
+
+[Technology that 'empowers the individual' can threaten all of us](https://article.wn.com/view/2021/12/05/technology_that_8220empowers_the_individual_8221_can_threate/)
+
+
+> Share Tweet Print Whenever I hear about a new technology that 'empowers the individual,' I know that one thing is likely to be true about it: It will soon (if not already) be turned to negative and harmful ends. And yet, we as a society keep falling for the line that somehow every new technology... read full story
+
+
