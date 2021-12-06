@@ -36301,3 +36301,53 @@
 > Motorola is set to introduce the Moto Edge X30 next week as the world's first Snapdragon 8 Gen 1-powered smartphone. According to GSM Arena, it hasn't detailed the smartphone's specs sheet yet, but a company official has shared a live image of the Moto Edge X30, showing off the slim bezels around its centered punch hole display. Additionally, Motorola's official Weibo account posted a short video clip revealing the Moto Edge X30's screen specs: 144Hz refresh rate, HDR10 certification, and 1 billion colors.
 
 
+***
+![Why major global firms can't get enough of Indian talent](https://apicms.thestar.com.my/uploads/images/2021/12/05/1393937.jpg "Why major global firms can't get enough of Indian talent")
+
+
+[Why major global firms can't get enough of Indian talent](https://www.thestar.com.my/tech/tech-news/2021/12/06/why-major-global-firms-cant-get-enough-of-indian-talent)
+
+
+> Born in India, Sundar Pichai has been Google's CEO since August 10, 2015. — AFP Relaxnews From Parag Agrawal at Twitter to Sundar Pichai at Google and Satya Nadella at Microsoft, in the United States, several major tech firms are now led by Indians or Americans of Indian origin. The superior quality of Indian higher education and the technology boom in the country could explain why some of America's biggest companies have snapped up Indian talent. You can't have missed the news that Jack Dorsey has now left his position as CEO of the Twitter social network.
+
+
+***
+![Researchers discover 14 new XS-Leaks in popular web browsers](https://lh3.googleusercontent.com/-9HuB-nLUFlg/YaxHR1N7oGI/AAAAAAAAfCI/9nk2KkoqD44Yxl0LcctQqQE7uVKiSuWSQCNcBGAsYHQ/s16000/browser-web-diw.jpg "Researchers discover 14 new XS-Leaks in popular web browsers")
+
+
+[Researchers discover 14 new XS-Leaks in popular web browsers](https://www.digitalinformationworld.com/2021/12/researchers-discover-14-new-xs-leaks-in.html)
+
+
+> With the evolution in technology and the fast paced computer life, one thing which has evolved as well is the way manipulators hack and how people can lose their information without having the slightest bit of idea.Quite recently another type of hacking has been discovered and it is called XS-Leaks. These leak methods aren't new, however over time new ways in which this strategy comes to notice,Recently, the Ruhr-Universität Bochum (RUB) and the Niederrhein University of Applied Sciences discovered almost 14 new types of hacks from these XS-Leaks attacks.
+
+
+***
+![$150M stolen in hack of cryptocurrency exchange BitMart](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/bitmart.png "$150M stolen in hack of cryptocurrency exchange BitMart")
+
+
+[$150M stolen in hack of cryptocurrency exchange BitMart](https://siliconangle.com/2021/12/05/150m-stolen-hack-cryptocurrency-exchange-bitmart/)
+
+
+> Cryptocurrency exchange BitMart has been hacked with about $150 million in cryptocurrency stolen. The hack of the exchange, run by GBM Global Holding Co. Ltd., took place late Saturday. It involved the theft of cryptocurrency from an Ethereum hot wallet and a Binance Smart Chain hot wallet. How the wallets were breached is not known. BitMart said the attack was a 'large-scale security breach' and that it's 'still concluding the possible methods used.' BitMart claimed that the two wallets only carried a small percentage of assets on BitMart and that other wallets used by the company are secure and unharmed.
+
+
+***
+![Tech exhibition cultivates eco-system for reinvention](https://apicms.thestar.com.my/uploads/images/2021/12/06/1393959.jpg "Tech exhibition cultivates eco-system for reinvention")
+
+
+[Tech exhibition cultivates eco-system for reinvention](https://www.thestar.com.my/metro/metro-news/2021/12/06/tech-exhibition-cultivates-eco-system-for-reinvention)
+
+
+> THE International Invention, Innovation and Technology Exhibition (ITEX) has adopted a hybrid model of an online and physical exhibition. The hybrid model is expected to open up the marketplace, maximising potential reach between inventors and innovators with venture capitalists and other stakeholders. This year, ITEX's theme is 3R: Reset, Reinvent, Reimagine. The exhibition features an enhanced programme with live and on-demand webinars, talks and forums, exhibition stands, networking and matchmaking sessions to keep the invention and technology community connected despite the travel challenges.
+
+
+***
+![Alibaba Group Announces CFO Succession](https://mms.businesswire.com/media/20211205005036/en/821798/23/library_logos_alibababv_large.jpg "Alibaba Group Announces CFO Succession")
+
+
+[Alibaba Group Announces CFO Succession](https://www.businesswire.com/news/home/20211205005036/en/Alibaba-Group-Announces-CFO-Succession)
+
+
+> December 05, 2021 07:22 PM Eastern Standard Time HANGZHOU, China--(BUSINESS WIRE)--Alibaba Group Holding Limited (NYSE: BABA and HKEX: 9988, 'Alibaba' or 'Alibaba Group') today announced that Toby Xu, Deputy Chief Financial Officer, will succeed Maggie Wu as the Company's Chief Financial Officer, effective April 1, 2022. Maggie will continue as a partner in the Alibaba Partnership and serve as an executive director on the Alibaba board. 'Maggie has made exceptional contributions that are instrumental to Alibaba's achievements to date.
+
+
