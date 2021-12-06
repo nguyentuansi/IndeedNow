@@ -36491,3 +36491,23 @@
 > After a longer-than-expected wait, Halo Infinite is here at last. Well, it would be better to say that Halo Infinite is now complete since the free-to-play multiplayer enjoyed a surprise release last month. The single-player campaign is out later this week as a separate release, completing Halo Infinite and giving us the long-awaited continuation of Master Chief's story. I've been spending a significant amount of time with both halves of Halo Infinite over the past few weeks, and even though the finished package may not quite reach the series' previous peaks, I think it's safe to say that Halo is back.
 
 
+***
+![Delivery Hero thwarted again in attempt to buy a Saudi rival](https://apicms.thestar.com.my/uploads/images/2021/12/06/1395075.jpg "Delivery Hero thwarted again in attempt to buy a Saudi rival")
+
+
+[Delivery Hero thwarted again in attempt to buy a Saudi rival](https://www.thestar.com.my/tech/tech-news/2021/12/06/delivery-hero-thwarted-again-in-attempt-to-buy-a-saudi-rival)
+
+
+> Germany's Delivery Hero has failed a second time to buy a Saudi rival, after a competition watchdog rejected its takeover offer of food delivery service The Chefz. — REUTERS Delivery Hero SE's second attempt to buy a Saudi rival has failed after the local competition watchdog rejected its takeover offer for The Chefz. Saudi Arabia's General Authority for Competition didn't disclose any details or the reasons for its decision in a statement on Sunday but said Germany's Delivery Hero sought to buy all of the Riyadh-based firm.
+
+
+***
+![Tata Sky Binge+ STB Now Available at Special Price of Rs 2299](https://telecomtalk.info/wp-content/uploads/2021/12/tata-sky-binge-stb-now-available-at.jpg "Tata Sky Binge+ STB Now Available at Special Price of Rs 2299")
+
+
+[Tata Sky Binge+ STB Now Available at Special Price of Rs 2299](https://telecomtalk.info/tata-sky-binge-stb-now-available-at/483763/)
+
+
+> Tata Sky Binge+ is an Android Set-Top Box (STB) offered by Tata Sky.The STB allows users to record content and play it later so that they don't miss their favourite shows.Tata Sky Binge service is an over-the-top (OTT) bundled platform of Tata Sky.Tata Sky Binge+ is an Android Set-Top Box (STB) offered by Tata Sky. Tata Sky, the largest Direct-to-Home (DTH) operator, is offering its Android STB, namely ‘Tata Sky Binge+', for a very special price on its website. People who are purchasing the Binge+ STB online directly through the company's website can avail of a Rs 200 instant discount.
+
+
