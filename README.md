@@ -36351,3 +36351,43 @@
 > December 05, 2021 07:22 PM Eastern Standard Time HANGZHOU, China--(BUSINESS WIRE)--Alibaba Group Holding Limited (NYSE: BABA and HKEX: 9988, 'Alibaba' or 'Alibaba Group') today announced that Toby Xu, Deputy Chief Financial Officer, will succeed Maggie Wu as the Company's Chief Financial Officer, effective April 1, 2022. Maggie will continue as a partner in the Alibaba Partnership and serve as an executive director on the Alibaba board. 'Maggie has made exceptional contributions that are instrumental to Alibaba's achievements to date.
 
 
+***
+![Share In The Spirit Of Giving With ShopeePay This Holiday Season](https://secureservercdn.net/45.40.148.147/tjy.d27.myftpupload.com/wp-content/uploads/2021/12/20211205-PAGEONE-women-christmas-using-mobile.jpg?time=1638761903 "Share In The Spirit Of Giving With ShopeePay This Holiday Season")
+
+
+[Share In The Spirit Of Giving With ShopeePay This Holiday Season](http://pageone.ph/share-in-the-spirit-of-giving-with-shopeepay-this-holiday-season)
+
+
+> No body in the article.
+
+
+***
+![Google smartwatch: What we know and don't know about the company's Apple Watch rival](https://static.toiimg.com/thumb/msid-88114171,width-1070,height-580,imgsize-31480,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Google smartwatch: What we know and don't know about the company's Apple Watch rival")
+
+
+[Google smartwatch: What we know and don't know about the company's Apple Watch rival](https://timesofindia.indiatimes.com/gadgets-news/google-smartwatch-what-we-know-and-dont-know-about-the-companys-apple-watch-rival/articleshow/88114171.cms)
+
+
+> Google seems to be finally getting its own smartwatch, and it may reportedly sport Pixel branding. Rumours are... Read More Google seems to be finally getting its own smartwatch, and it may reportedly sport Pixel branding. Rumours are rife that Google is all set to launch its first-ever smartwatch next year -- 2022. The watch may be called Pixel Watch . Said to be referred as Android watch inhouse, its code name reportedly is Rohan. Though Google powers several smartwatches across brands, it has so far not made its very own smartwatch.
+
+
+***
+![Singapore Among the Fastest Adopter of Digital Banking](https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/12/Singapore-Consumers-Prefer-Mobile-Banking-New-Survey-Finds.jpg?x47707 "Singapore Among the Fastest Adopter of Digital Banking")
+
+
+[Singapore Among the Fastest Adopter of Digital Banking](https://fintechnews.sg/57772/virtual-banking/singapore-among-the-fastest-adopter-of-digital-banking/)
+
+
+> In Singapore, consumer preferences are rapidly evolving, with banking customers increasingly preferring online interaction over in-person interaction. A new consumer survey by digital business transformation company Publicis Sapient found that Singaporeans are prolific users of mobile banking, with one in two (50%) consumers indicating turning to mobile apps to communicate with their bank. The figure was shared in the third edition of the Digital Life Index which looks at the state of digital adoption across various sectors, including retail, telehealth and financial services.
+
+
+***
+![Find the Length Of String Without Using len Function In Python : programming](https://external-preview.redd.it/K58r5fA-HfQZ4oTdcbEWPWkGLBQO-sCiwKIiXBVWhW8.jpg?auto=webp&s=0a7d7b6e3f41abc2742b25ab8b47f2ffb5087f8a "Find the Length Of String Without Using len Function In Python : programming")
+
+
+[Find the Length Of String Without Using len Function In Python : programming](https://www.reddit.com/r/programming/comments/r9xpw7/find_the_length_of_string_without_using_len)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
