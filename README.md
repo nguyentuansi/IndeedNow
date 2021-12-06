@@ -36441,3 +36441,53 @@
 > The initial supply of the Galaxy S21 FE is expected to be lower than what the company had initially planned.For the Indian market, the Galaxy S21 FE is expected to come in four colours - Black, Pink, Green, and White.The device is expected to come with a 6.4-inch FHD+ display with support for 120Hz refresh rate.Samsung Galaxy S21 Fan Edition (FE) is strongly anticipated to launch during the CES 2022 in January. CES 2022 is not very far from now (less than a month to go live). Samsung is unlikely to hold a special/standalone event for the smartphone's launch.
 
 
+***
+![Philippines e-wallet unicorn considers crypto, stocks platform](https://apicms.thestar.com.my/uploads/images/2021/12/06/1395051.jpg "Philippines e-wallet unicorn considers crypto, stocks platform")
+
+
+[Philippines e-wallet unicorn considers crypto, stocks platform](https://www.thestar.com.my/tech/tech-news/2021/12/06/philippines-e-wallet-unicorn-considers-crypto-stocks-platform)
+
+
+> A Filipino fin tech unicorn is seeking to grow by "doubling down on lending", enabling users to invest via its e-wallet. — 123rf Globe Fintech Innovations Inc. is considering a platform that will allow the tens of millions of users of its mobile wallet to invest in cryptocurrencies and local and global equities, its CEO said on Monday. The company known as Mynt, valued at more than US$2bil (RM8.46bil) after its latest fund-raising round, will grow its financial-service offerings and "double down on lending,' CEO Martha Sazon said in an interview with Bloomberg Television's Rishaad Salamat and Yvonne Man.
+
+
+***
+![Digital payments push fails to deter demand for cash in Nigeria](https://apicms.thestar.com.my/uploads/images/2021/12/06/1394970.jpg "Digital payments push fails to deter demand for cash in Nigeria")
+
+
+[Digital payments push fails to deter demand for cash in Nigeria](https://www.thestar.com.my/tech/tech-news/2021/12/06/digital-payments-push-fails-to-deter-demand-for-cash-in-nigeria)
+
+
+> (L) Nigerian President Muhammadu Buhari and (R) Central Bank governor Godwin Emefiele launching the e-Naira, which aimed to increase digital payments. — Nigeria State House/AP Cash in circulation in Nigeria rose to a record in October despite a push by authorities to engender cashless transactions and control money supply in Africa's most populous nation. The amount of naira notes and coins circulating in the economy increased 4.6% to 3tril naira (RM30.89bil) in October from the previous month, according to the Central Bank of Nigeria data.
+
+
+***
+![Free 5G networks to go live Dec 15 in parts of KL, Putrajaya, and Cyberjaya](https://apicms.thestar.com.my/uploads/images/2021/12/06/1394917.jpg "Free 5G networks to go live Dec 15 in parts of KL, Putrajaya, and Cyberjaya")
+
+
+[Free 5G networks to go live Dec 15 in parts of KL, Putrajaya, and Cyberjaya](https://www.thestar.com.my/tech/tech-news/2021/12/06/free-5g-networks-to-go-live-dec-15-in-parts-of-kl-putrajaya-and-cyberjaya)
+
+
+> DNB showed several 5G use-cases at the briefing in Putrajaya where its 5G network is live, including virtual reality goggles running on the next gen network. — DNB Malaysians with certified 5G devices may be able to get a taste of next generation networks by Dec 15, as the network becomes commercially available then. Digital Nasional Bhd (DNB) announced it would be temporarily offering wholesale 5G services at no cost to all telcos integrated into its network, which has coverage in select areas in Kuala Lumpur, Putrajaya and Cyberjaya.
+
+
+***
+![Executive at Swiss tech company said to operate secret surveillance operation](https://apicms.thestar.com.my/uploads/images/2021/12/06/1394836.jpeg "Executive at Swiss tech company said to operate secret surveillance operation")
+
+
+[Executive at Swiss tech company said to operate secret surveillance operation](https://www.thestar.com.my/tech/tech-news/2021/12/06/executive-at-swiss-tech-company-said-to-operate-secret-surveillance-operation)
+
+
+> The co-founder of a company that has been trusted by technology giants including Google and Twitter to deliver sensitive passwords to millions of their customers also operated a service that ultimately helped governments secretly surveil and track mobile phones, according to former employees and clients. Since it started in 2013, Mitto AG has established itself as a provider of automated text messages for such things as sales promotions, appointment reminders and security codes needed to log in to online accounts, telling customers that text messages are more likely to be read and engaged with than emails as part of their marketing efforts.
+
+
+***
+![Halo Infinite Review](https://cdn.slashgear.com/wp-content/uploads/2021/12/Halo-Infinite-review-1.jpg "Halo Infinite Review")
+
+
+[Halo Infinite Review](https://www.slashgear.com/halo-infinite-review-06701254/)
+
+
+> After a longer-than-expected wait, Halo Infinite is here at last. Well, it would be better to say that Halo Infinite is now complete since the free-to-play multiplayer enjoyed a surprise release last month. The single-player campaign is out later this week as a separate release, completing Halo Infinite and giving us the long-awaited continuation of Master Chief's story. I've been spending a significant amount of time with both halves of Halo Infinite over the past few weeks, and even though the finished package may not quite reach the series' previous peaks, I think it's safe to say that Halo is back.
+
+
