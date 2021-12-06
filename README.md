@@ -36391,3 +36391,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
 
 
+***
+![US scientists create world's first-ever living robots – and they're now able to self-replicate](https://apicms.thestar.com.my/uploads/images/2021/12/06/1394599.jpeg "US scientists create world's first-ever living robots – and they're now able to self-replicate")
+
+
+[US scientists create world's first-ever living robots – and they're now able to self-replicate](https://www.thestar.com.my/tech/tech-news/2021/12/06/us-scientists-create-worlds-first-ever-living-robots-and-theyre-now-able-to-self-replicate)
+
+
+> In 2020, US scientists created the first living robots, called xenobots. Now researchers have discovered a new form of biological reproduction – xenobots can self-replicate – in a way that is unlike anything seen in plants or animals, reports say. According to a news release by Wyss Institute, scientists at the University of Vermont, Tufts University, and the Wyss Institute for Biologically Inspired Engineering at Harvard University have discovered 'an entirely new form of biological reproduction'.
+
+
+***
+![AP source: NSO Group spyware used to hack US State Dept employees](https://apicms.thestar.com.my/uploads/images/2021/12/06/1394586.jpg "AP source: NSO Group spyware used to hack US State Dept employees")
+
+
+[AP source: NSO Group spyware used to hack US State Dept employees](https://www.thestar.com.my/tech/tech-news/2021/12/06/ap-source-nso-group-spyware-used-to-hack-us-state-department-employees)
+
+
+> WASHINGTON: The phones of 11 US State Department employees were hacked with spyware from Israel's NSO Group, the world's most infamous hacker-for-hire company, a person familiar with the matter said on Dec 3. The employees were all located in Uganda and included some foreign service officers, said the person, who was not authorised to speak publicly about an ongoing investigation. Some local Ugandan employees of the department appear to have been among the 11 hacked, the person said. The hacking is the first known instance of NSO Group's trademark Pegasus spyware being used against US government personnel.
+
+
+***
+![New ‘Halo' game debuts as Xbox turns 20](https://apicms.thestar.com.my/uploads/images/2021/12/06/1394510.jpg "New ‘Halo' game debuts as Xbox turns 20")
+
+
+[New ‘Halo' game debuts as Xbox turns 20](https://www.thestar.com.my/tech/tech-news/2021/12/06/new-halo-game-debuts-as-xbox-turns-20)
+
+
+> ‘Halo Infinite' is out Dec 8, 2021, but to celebrate the 20th anniversary of the cult sci-fi series, Microsoft and developer 343 Industries have already released a free-to-play ‘beta' test version. — Handout/Microsoft/AFP PARIS: Fans will this week get their hands on the latest Halo video game, as Microsoft marks 20 years of the franchise that turned its Xbox console into a hit. Halo Infinite is out Dec 8 – but to celebrate the 20th anniversary of the cult sci-fi series, Microsoft and developer 343 Industries have already released a free-to-play 'beta' test version.
+
+
+***
+![Third of upskirting offenders behind ‘other serious sexual crimes'](https://apicms.thestar.com.my/uploads/images/2021/12/06/1394242.jpeg "Third of upskirting offenders behind ‘other serious sexual crimes'")
+
+
+[Third of upskirting offenders behind ‘other serious sexual crimes'](https://www.thestar.com.my/tech/tech-news/2021/12/06/third-of-upskirting-offenders-behind-other-serious-sexual-crimes)
+
+
+> Martin (pic) said upskirting was part of a ‘wider continuum of violence' and can often be ‘gateway behaviour to more violent forms of assault, or a habitual assault that runs parallel'. — AFP At least a third of upskirting offenders are also committing other serious sexual crimes, according to the Crown Prosecution Service (CPS), the principal prosecution authority in England and Wales. A total of 46 men and a teenage boy were prosecuted for 128 offences under the Voyeurism (Offences) Act between April 1 2020 and June 30 2021.
+
+
+***
+![Samsung Galaxy S21 FE Official Design/First Look Out Now](https://telecomtalk.info/wp-content/uploads/2021/12/samsung-galaxy-s21-fe-official-design-first-2.jpg "Samsung Galaxy S21 FE Official Design/First Look Out Now")
+
+
+[Samsung Galaxy S21 FE Official Design/First Look Out Now](https://telecomtalk.info/samsung-galaxy-s21-fe-official-design-first/483682/)
+
+
+> The initial supply of the Galaxy S21 FE is expected to be lower than what the company had initially planned.For the Indian market, the Galaxy S21 FE is expected to come in four colours - Black, Pink, Green, and White.The device is expected to come with a 6.4-inch FHD+ display with support for 120Hz refresh rate.Samsung Galaxy S21 Fan Edition (FE) is strongly anticipated to launch during the CES 2022 in January. CES 2022 is not very far from now (less than a month to go live). Samsung is unlikely to hold a special/standalone event for the smartphone's launch.
+
+
