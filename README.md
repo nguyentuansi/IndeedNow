@@ -36511,3 +36511,23 @@
 > Tata Sky Binge+ is an Android Set-Top Box (STB) offered by Tata Sky.The STB allows users to record content and play it later so that they don't miss their favourite shows.Tata Sky Binge service is an over-the-top (OTT) bundled platform of Tata Sky.Tata Sky Binge+ is an Android Set-Top Box (STB) offered by Tata Sky. Tata Sky, the largest Direct-to-Home (DTH) operator, is offering its Android STB, namely ‘Tata Sky Binge+', for a very special price on its website. People who are purchasing the Binge+ STB online directly through the company's website can avail of a Rs 200 instant discount.
 
 
+***
+![Ameca humanoid robot puts AI in a gender-neutral, ‘non-threatening' body](https://cdn.slashgear.com/wp-content/uploads/2021/12/ameca-ab-robot-hand.jpg "Ameca humanoid robot puts AI in a gender-neutral, ‘non-threatening' body")
+
+
+[Ameca humanoid robot puts AI in a gender-neutral, ‘non-threatening' body](https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/)
+
+
+> Artificial intelligence, or AI, is one of the most prolific areas of research in several fields. AI has vast potential to improve medicine and many other fields of research. Typically, an AI lives inside a computer system constrained inside the digital realm. However, a company called Engineered Arts has developed what it calls an AB, or artificial body, that will give an AI a physical place to reside. Via Engineered Arts The Ameca humanoid robot is designed to work with humans and provide relatable natural human gestures.
+
+
+***
+![Google Pixel account hacks prompt outcry over mail-in repair privacy](https://cdn.slashgear.com/wp-content/uploads/2021/12/google_pixel_5a_with_5G_4.jpg "Google Pixel account hacks prompt outcry over mail-in repair privacy")
+
+
+[Google Pixel account hacks prompt outcry over mail-in repair privacy](https://www.slashgear.com/google-pixel-account-hacks-prompt-outcry-over-mail-in-repair-privacy-06701247/)
+
+
+> The past two years have seen a surge in demand for mobile devices, but acquiring them hasn't exactly been easy. Trying to get devices serviced may have been even worse, with many companies and service centers being forced to resort to mail-in methods. Those always come with some risks while the phone is in transit, but few owners probably expected that their privacy would be violated in the process. That's the nightmare situation that at least two Google Pixel owners have found themselves in, one with rather sensitive information published for the world to see.
+
+
