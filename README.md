@@ -36628,3 +36628,50 @@
 > In 2012, Nokia, which was at the top of the mobile industry, brought 808 PureView, a Symbian operating system (OS)-based smartphone with an insane 41MP camera that created quite a buzz. Since then, Android-based smartphones started gaining traction and original equipment manufacturers (OEMs) began adding more megapixels to the cameras to lure the crowd. Now Chinese smartphone makers have sounded the bugle for a megapixel war and the users are in for some sweet deals as camera sensors grow in specifications at affordable price points.
 
 
+***
+![Active speakers for PC gaming (Budget 1000-2000 SEK)](https://www.sweclockers.com/forum/trad/1651485/og-image "Active speakers for PC gaming (Budget 1000-2000 SEK)")
+
+
+[Active speakers for PC gaming (Budget 1000-2000 SEK)](https://www.sweclockers.com/forum/trad/1651485-active-speakers-for-pc-gaming-budget-1000-2000-sek)
+
+
+> Forum Ljud, bild och kommunikation Ljud Tråd igår 23:19 Trädvy Permalänk Hej,I'm looking to buy active speakers which will be mainly used during gaming & sometimes casual music. My current setup is AKG712K pro powered by FiiOK5 Pro. Speakers will be used 40-%50% of the times.Looking for something which has Bluetooth and maybe connect with Alexa as well (optional).Currently looking at the below options -1. Edifier 1280DBs 2. Edifier 1700BTs 3. Logitech Z906Getting tempted with the Edifier 1280DBs, though I might need a SUB down the line as the bass is not so great with speakers in this budget.
+
+
+***
+![WhatsApp to let users set all chats to disappear by default](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-liq2jpbp0j2q8jchgqa8tn9e82-20210624163236.jpeg "WhatsApp to let users set all chats to disappear by default")
+
+
+[WhatsApp to let users set all chats to disappear by default](https://www.asianage.com/technology/in-other-news/071221/whatsapp-to-let-users-set-all-chats-to-disappear-by-default.html)
+
+
+> ANI Published : Dec 7, 2021, 11:19 am IST Updated : Dec 7, 2021, 11:19 am IST The Meta-owned messaging service also said it's giving users more options for how long before a message is deleted  WhatsApp has noted that turning on disappearing messages by default won't affect existing chats. (Photo: PTI/File) Washington: WhatsApp will be adding new functionality to its disappearing messages feature, which will let users set messages in a chat to automatically be deleted after a set period of time. According to The Verge, WhatsApp has said that users will now have the option to turn on disappearing messages automatically for all their new one-on-one chats, so that all future messages will be automatically deleted from the service.
+
+
+***
+![Global mobile data traffic increased almost 300-fold over 10 years, report finds](https://apicms.thestar.com.my/uploads/images/2021/12/07/1396115.jpeg "Global mobile data traffic increased almost 300-fold over 10 years, report finds")
+
+
+[Global mobile data traffic increased almost 300-fold over 10 years, report finds](https://www.thestar.com.my/tech/tech-news/2021/12/07/global-mobile-data-traffic-increased-almost-300-fold-over-10-years-report-finds)
+
+
+> There has been an almost 300-fold increase in mobile data traffic since 2011, data in the special ten-year edition of the Ericsson Mobility Report for November 2021 has found. The report looks back at some of the key trends and events that have shaped the last decade, as well as revealing the latest forecasts toward 2027. The premise that 5G will become the fastest deployed mobile generation to date has been enhanced with an updated estimate of close to 660 million 5G subscriptions by the end of this year.
+
+
+***
+[Turbojet Engines Market 2021 – Latest Industry Growth, Strategic Assessment And Forecast Till 2026](http://www.comunicati.net/comunicati/aziende/tecnologia/745908.html)
+
+
+> 07/dic/2021 12:32:56 Shipla Contatta l'autore The global Turbojet Engines Market report offers a comprehensive assessment of the market for the forecast years. The report contains several segments and an analysis of the market trends and growth factors that are playing a vitalrole in the market. These factors encompass the drivers, restraints, and opportunities. This global industry offers an outlook on the strategic development of the market in terms of revenue profits over the forecast period 2021-2026 The key market players for the global Turbojet Engines market are listed below:     GE Aviation     Chrysler     Rolls-Royce     Lockheed Martin     Hindsutan Aeronautics     Pratt & Whitney     Dongan Engine Manufacturing     CFM International     Safran     Kawasaki Heavy Industries     Aeroengine Corporation of China     Others Click here to get a FREE Sample Copy of the Turbojet Engines Market Research Report @ https://www.
+
+
+***
+![Giving the Gift of Tech This Holiday Season? Read This First](https://bloximages.chicago2.vip.townnews.com/coronadonewsca.com/content/tncms/assets/v3/editorial/a/78/a7895660-21e8-56d8-832e-994283278326/61af384d02683.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize "Giving the Gift of Tech This Holiday Season? Read This First")
+
+
+[Giving the Gift of Tech This Holiday Season? Read This First](http://www.coronadonewsca.com/online_features/tech_talk_and_innovation/giving-the-gift-of-tech-this-holiday-season-read-this-first/article_6b014dda-dddc-58c6-a2a4-ceb3376ae067.html)
+
+
+> Don't play tech support this holiday season. Get help from on-call experts. (StatePoint) One of the most popular holiday gift categories every year is tech. And surprise -- many people need help setting up their new phones, laptops and other devices. Unfortunately, this leads to some family members missing out on holiday moments to serve as resident tech support for loved ones. Even worse, many gifts just stay in their boxes entirely.In fact, research from tech care company Asurion reveals that nearly a third of all tech gifts go unused because the recipients don't know how to use them, and 70% of people say they have helped family members set up and troubleshoot tech gifts during the holidays, with most spending at least an hour playing tech support for family.
+
+
