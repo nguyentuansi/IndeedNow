@@ -36675,3 +36675,53 @@
 > Don't play tech support this holiday season. Get help from on-call experts. (StatePoint) One of the most popular holiday gift categories every year is tech. And surprise -- many people need help setting up their new phones, laptops and other devices. Unfortunately, this leads to some family members missing out on holiday moments to serve as resident tech support for loved ones. Even worse, many gifts just stay in their boxes entirely.In fact, research from tech care company Asurion reveals that nearly a third of all tech gifts go unused because the recipients don't know how to use them, and 70% of people say they have helped family members set up and troubleshoot tech gifts during the holidays, with most spending at least an hour playing tech support for family.
 
 
+***
+![Here's when the Halo Infinite campaign launches](https://cdn.slashgear.com/wp-content/uploads/2021/12/haloinfinite.jpg "Here's when the Halo Infinite campaign launches")
+
+
+[Here's when the Halo Infinite campaign launches](https://www.slashgear.com/heres-when-the-halo-infinite-campaign-launches-07701446/)
+
+
+> After a lot of waiting, Halo Infinite‘s campaign is nearly upon us. Though it's lagging behind Halo Infinite‘s free-to-play multiplayer by a few weeks, it's worth remembering that both components were originally due out on the same day: December 8th. Now, 343 Industries has revealed when, exactly, Halo Infinite‘s campaign will launch worldwide, but unfortunately, we have some sour news for those expecting the game to launch at midnight. When Halo Infinite's campaign launches around the world 343 Industries announced on Twitter today that the Halo Infinite campaign will be available beginning at 10 AM PST on December 8th.
+
+
+***
+![Porsche Vision Gran Turismo developed purely for the game](https://cdn.slashgear.com/wp-content/uploads/2021/12/porsche-vision-gran-turismo-3.jpg "Porsche Vision Gran Turismo developed purely for the game")
+
+
+[Porsche Vision Gran Turismo developed purely for the game](https://www.slashgear.com/porsche-vision-gran-turismo-developed-purely-for-the-game-07701416/)
+
+
+> German automaker Porsche and Japanese video game expert Polyphony Digital has unveiled a new racing concept that exists purely in the digital realm. The Vision Gran Turismo is Porsche's first video game concept car and will debut in the highly-anticipated Gran Turismo 7 for the PlayStation 4 and PlayStation 5 on March 4, 2022. For those old enough to witness playing the first Gran Turismo on PlayStation 1, the game featured an impressive lineup of racing cars and production models like the Honda Integra Type R, Mitsubishi Lancer Evolution series, Dodge Viper, and Vector W8 – but there's no Porsche.
+
+
+***
+![TCL Fold and Slide prototype phone combines tech's best and worst](https://cdn.slashgear.com/wp-content/uploads/2021/12/tcl-fold-and-slide-prototype.jpg "TCL Fold and Slide prototype phone combines tech's best and worst")
+
+
+[TCL Fold and Slide prototype phone combines tech's best and worst](https://www.slashgear.com/tcl-fold-and-slide-prototype-phone-combines-techs-best-and-worst-07701406/)
+
+
+> Foldable phones, at least the book-like ones, are designed to solve the problem of size. These are phones that try to still fit in your pocket while offering a larger screen when needed. Even with the most advanced foldable devices on the market today, we're still far from the ideal, and no rollable alternative has yet found footing in a consumer-friendly release. Ever the display visionary, TCL came up with an idea to solve that size puzzle using both designs, and it is showing off a working prototype that could have you both amazed and worried at the same time.
+
+
+***
+![2022 Honda Passport goes upmarket with one monster price hike](https://cdn.slashgear.com/wp-content/uploads/2021/12/preview-928x522-3.v2.jpg "2022 Honda Passport goes upmarket with one monster price hike")
+
+
+[2022 Honda Passport goes upmarket with one monster price hike](https://www.slashgear.com/2022-honda-passport-goes-upmarket-with-one-monster-price-hike-07701409/)
+
+
+> This winter, the redesigned 2022 Honda Passport is arriving at dealerships with a significant price hike. The base Sport trim from the outgoing model is gone for 2022, making way for the new base EX-L trim with standard front-wheel drive (AWD remains a $2,100 option). With base prices starting at $39,095 (including $1,225 destination fees), the 2022 Passport is about $5k more than last year. What's more, it now costs thousands of dollars more than its nearest competitors like the VW Atlas Cross Sport, Toyota Venza (which is a hybrid), and Hyundai Santa Fe.
+
+
+***
+![2022 Hyundai Tucson XRT ‘go-anywhere attitude' VS the competition](https://cdn.slashgear.com/wp-content/uploads/2021/12/hyundai-tucson-xrt-front.jpg "2022 Hyundai Tucson XRT ‘go-anywhere attitude' VS the competition")
+
+
+[2022 Hyundai Tucson XRT ‘go-anywhere attitude' VS the competition](https://www.slashgear.com/2022-hyundai-tucson-xrt-go-anywhere-attitude-vs-the-competition-07701435)
+
+
+> 2022 Hyundai Tucson XRT ‘go-anywhere attitude' VS the competition Hyundai has revealed a new trim level for the 2022 Tucson SUV called the XRT. The Tucson XRT features black lower body cladding giving it a different look than other models in the line. Hyundai says the blackout exterior trim gives the XRT a 'go-anywhere attitude.' Tucson XRT is based on the Tucson SEL with Convenience package and is available on internal combustion models with front-wheel drive or all-wheel-drive. Via Hyundai The 2022 Tucson XRT gets exclusive dark wheels along with its dark exterior trim elements.
+
+
