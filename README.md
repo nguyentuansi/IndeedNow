@@ -36531,3 +36531,53 @@
 > The past two years have seen a surge in demand for mobile devices, but acquiring them hasn't exactly been easy. Trying to get devices serviced may have been even worse, with many companies and service centers being forced to resort to mail-in methods. Those always come with some risks while the phone is in transit, but few owners probably expected that their privacy would be violated in the process. That's the nightmare situation that at least two Google Pixel owners have found themselves in, one with rather sensitive information published for the world to see.
 
 
+***
+![Microsoft 365 monthly price hike pushes customers to annual plans](https://cdn.slashgear.com/wp-content/uploads/2021/12/microsoft-office_365-monthly-price-increase.jpg "Microsoft 365 monthly price hike pushes customers to annual plans")
+
+
+[Microsoft 365 monthly price hike pushes customers to annual plans](https://www.slashgear.com/microsoft-365-monthly-price-hike-pushes-customers-to-annual-plans-06701382/)
+
+
+> Microsoft plans to push some of its customers away from monthly subscriptions, according to a new report, by increasing costs for those who won't commit to an annual option. The change is set to happen next year and will, alleged internal documents show, force customers to pay for the full year of Microsoft 365 even if their needs change before the full subscription period is over. Tada Images/Shutterstock The change will impact Microsoft 365 business customers, according to CNBC, which cites a mix of internal documentation and details from partners alerted to the upcoming price increase.
+
+
+***
+![MongoDB Third-Quarter Results Topple Estimates As Stock Jumps](https://www.investors.com/wp-content/uploads/2019/03/stock-MongoDB-01-shutter.jpg "MongoDB Third-Quarter Results Topple Estimates As Stock Jumps")
+
+
+[MongoDB Third-Quarter Results Topple Estimates As Stock Jumps](https://www.investors.com/news/technology/mongodb-stock-surges-on-quarterly-earnings-beat)
+
+
+> Database software company MongoDB (MDB) reported fiscal third-quarter results late Monday that came in well above analyst estimates, as did its outlook. MDB stock surged. X The company reported an adjusted loss of 11 cents a share on revenue of $227 million. Analysts expected MongoDB to report a loss of 38 cents a share on revenue of $205.3 million. It lost 31 cents in the year-ago period. Revenue jumped 50% from the year-ago period. That's its best growth in eight quarters. MDB stock jumped 15% to 493 during after-hours trading on the stock market today.
+
+
+***
+![Porsche Vision Gran Turismo Joins Gran Turismo 7 Cars, Trailer Released](https://www.playstationlifestyle.net/assets/uploads/2021/12/gran-turismo-7-cars.jpg "Porsche Vision Gran Turismo Joins Gran Turismo 7 Cars, Trailer Released")
+
+
+[Porsche Vision Gran Turismo Joins Gran Turismo 7 Cars, Trailer Released](https://www.playstationlifestyle.net/2021/12/06/gran-turismo-7-cars-porsche-vision/)
+
+
+> Sony Interactive Entertainment, Polyphony Digital, and Porsche have unveiled ‘Porsche Vision Gran Turismo,' which is Porsche's first concept car created specifically for use in a video game. It'll be available to drive exclusively in the upcoming Gran Turismo 7. For the uninitiated, Vision Gran Turismo is an acclaimed project in which major automotive brands collaborate with Polyphony Digital and Sony to design concept cars for Gran Turismo players.Watch the reveal trailer below.'We spent a long time considering the right material design consisting of carbon and titanium,' Markus Auerbach, Head of Interior Design at Porsche, said in a press release.
+
+
+***
+![Microsoft Seizes Malicious Websites Used by Prolific Chinese APT Group](https://beta.darkreading.com/images/og-image.jpg "Microsoft Seizes Malicious Websites Used by Prolific Chinese APT Group")
+
+
+[Microsoft Seizes Malicious Websites Used by Prolific Chinese APT Group](https://www.darkreading.com/threat-intelligence/microsoft-seizes)
+
+
+> Microsoft's Digital Crimes Unit (DCU) has seized websites used by a China-based cyber-espionage hacking team to wage cyberattacks on government agencies, think tanks, and human rights organizations in some 29 countries, including the US.The hacking group, dubbed Nickel by Microsoft, is also known as APT15, Vixen Panda, KE3CHANG, Royal APT, and Playful Dragon.The disruption of the threat group's infrastructure came via a court order granted to Microsoft by the US District Court for the Eastern District of Virginia and unsealed today.
+
+
+***
+![Manhart CR 700 Wagon is a fitting sendoff to the glorious AMG V8 engine](https://cdn.slashgear.com/wp-content/uploads/2021/12/MANHART-CR-700-Wagon-Website-4.jpg "Manhart CR 700 Wagon is a fitting sendoff to the glorious AMG V8 engine")
+
+
+[Manhart CR 700 Wagon is a fitting sendoff to the glorious AMG V8 engine](https://www.slashgear.com/manhart-cr-700-wagon-is-a-fitting-sendoff-to-the-glorious-amg-v8-engine-06701286/)
+
+
+> German tuning expert Manhart has a dilemma. Electrification is at the core of Mercedes-AMG's incoming 2022 C63 and C63 S, and it will no longer have its fabulous 4.0-liter bi-turbo V8 engine. Manhart claims the newest C63 will probably come with a turbocharged 2.0-liter four-banger and an electric motor. 'The (V8) engine's farewell is approaching,' said Manhart. And even though it will have around 650 horsepower, it won't have the sound and fury of AMG's thunderous V8. The solution is to live in the present without dwelling on the future, which is the principle behind Manhart's CR 700 Wagon.
+
+
