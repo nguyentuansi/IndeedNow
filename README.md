@@ -36618,3 +36618,13 @@
 > December 06, 2021 07:00 PM Eastern Standard Time LAGUNA HILLS, Calif.--(BUSINESS WIRE)--BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology and the world's first commercial producer of neuromorphic AI chips and IP, today announced that the next episode of its 'This is our Mission' podcast will air early next year rather than its traditionally scheduled timeslot in December, to give guests and listeners time to enjoy the holidays and year-end celebrations.
 
 
+***
+![Camera megapixel war: Picture perfect or just a gimmick?](https://chennaionline.com/wp-content/uploads/2019/09/favicon.png "Camera megapixel war: Picture perfect or just a gimmick?")
+
+
+[Camera megapixel war: Picture perfect or just a gimmick?](https://chennaionline.com/technology/camera-megapixel-war-picture-perfect-or-just-a-gimmick/)
+
+
+> In 2012, Nokia, which was at the top of the mobile industry, brought 808 PureView, a Symbian operating system (OS)-based smartphone with an insane 41MP camera that created quite a buzz. Since then, Android-based smartphones started gaining traction and original equipment manufacturers (OEMs) began adding more megapixels to the cameras to lure the crowd. Now Chinese smartphone makers have sounded the bugle for a megapixel war and the users are in for some sweet deals as camera sensors grow in specifications at affordable price points.
+
+
