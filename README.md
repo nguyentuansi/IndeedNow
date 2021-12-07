@@ -36581,3 +36581,40 @@
 > German tuning expert Manhart has a dilemma. Electrification is at the core of Mercedes-AMG's incoming 2022 C63 and C63 S, and it will no longer have its fabulous 4.0-liter bi-turbo V8 engine. Manhart claims the newest C63 will probably come with a turbocharged 2.0-liter four-banger and an electric motor. 'The (V8) engine's farewell is approaching,' said Manhart. And even though it will have around 650 horsepower, it won't have the sound and fury of AMG's thunderous V8. The solution is to live in the present without dwelling on the future, which is the principle behind Manhart's CR 700 Wagon.
 
 
+***
+[Food Enzymes Market Outlook 2021](http://www.comunicati.net/comunicati/aziende/tecnologia/745710.html)
+
+
+> 07/dic/2021 04:04:28 Ethan Crowe Contatta l'autore The Global Food Enzymes Market Report, with its deep industry analysis of the market, estimates the market size bifurcated into segments and regions. The Keyword market share and growth, trends estimated at the end of 2027 give a fair idea of the new opportunities coming up in the market. The detailed key player's profile and market share analysis give a better understanding of the competitors and their business strategies. Base Year: 2020 Estimated Year: 2021 Forecast Till: 2027 The report classifies the market into different segments based on type and product.
+
+
+***
+![PlayStation Executive Fired After Getting Caught in Pedophile Sting](https://www.comingsoon.net/assets/uploads/2021/12/backrgound.jpg "PlayStation Executive Fired After Getting Caught in Pedophile Sting")
+
+
+[PlayStation Executive Fired After Getting Caught in Pedophile Sting](https://www.comingsoon.net/games/news/1203776-playstation-executive-fired-after-getting-caught-in-pedophile-sting)
+
+
+> Sony has fired PlayStation Network Senior Vice President of Engineering George Cacioppo following an apparent pedophile sting done by YouTube channel People v. Preds.MORE: Spider-Man: Remastered Getting Pair of No Way Home SuitsThe sting from December 3 shows the cameraperson walking up to a house with the camera pointed to the ground as they are communicating with 'Jeff,' which is the name Cacioppo allegedly used on the Grindr app. After the light comes on the camera goes up, Cacioppo, wearing a shirt with the PS5 logo on it, retreats back into the house, seemingly knowing things are not as they initially appeared.
+
+
+***
+![Bendigo and Adelaide Bank automates its operations with EncompaaS cloud platform](https://itwire.com/media/k2/items/cache/a07bca615f784a782124b95b43d87160_XS.jpg "Bendigo and Adelaide Bank automates its operations with EncompaaS cloud platform")
+
+
+[Bendigo and Adelaide Bank automates its operations with EncompaaS cloud platform](https://itwire.com/cloud/bendigo-and-adelaide-bank-automates-its-operations-with-encompaas-cloud-platform.html)
+
+
+> Bendigo and Adelaide Bank has picked the EncompaaS cloud platform to automate its regulatory and business governance obligations for electronic documents. Using the EncompaaS platform, the Bendigo and Adelaide Bank will be able to automatically manage its obligations within its Microsoft cloud-based environment. This will strengthen the bank's governance, compliance, and security, and will further improve productivity and business agility. By consolidating and centralising its electronic records in the new M365 environment, Bendigo and Adelaide Bank expects to strengthen controls to ensure customer information is stored, used only for the specific purposes intended, and retained only for as long as required.
+
+
+***
+![BrainChip Podcast Takes a Holiday](https://mms.businesswire.com/media/20211206005729/en/1170760/23/brainchiplogo.jpg "BrainChip Podcast Takes a Holiday")
+
+
+[BrainChip Podcast Takes a Holiday](https://www.businesswire.com/news/home/20211206005729/en/BrainChip-Podcast-Takes-a-Holiday)
+
+
+> December 06, 2021 07:00 PM Eastern Standard Time LAGUNA HILLS, Calif.--(BUSINESS WIRE)--BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology and the world's first commercial producer of neuromorphic AI chips and IP, today announced that the next episode of its 'This is our Mission' podcast will air early next year rather than its traditionally scheduled timeslot in December, to give guests and listeners time to enjoy the holidays and year-end celebrations.
+
+
