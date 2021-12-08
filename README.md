@@ -36725,3 +36725,53 @@
 > 2022 Hyundai Tucson XRT ‘go-anywhere attitude' VS the competition Hyundai has revealed a new trim level for the 2022 Tucson SUV called the XRT. The Tucson XRT features black lower body cladding giving it a different look than other models in the line. Hyundai says the blackout exterior trim gives the XRT a 'go-anywhere attitude.' Tucson XRT is based on the Tucson SEL with Convenience package and is available on internal combustion models with front-wheel drive or all-wheel-drive. Via Hyundai The 2022 Tucson XRT gets exclusive dark wheels along with its dark exterior trim elements.
 
 
+***
+![Alexa Together caregiver service goes live with remote assist and 24/7 help](https://cdn.slashgear.com/wp-content/uploads/2021/12/alexa-caregiver-service-now-available.jpg "Alexa Together caregiver service goes live with remote assist and 24/7 help")
+
+
+[Alexa Together caregiver service goes live with remote assist and 24/7 help](https://www.slashgear.com/alexa-together-caregiver-service-goes-live-with-remote-assist-and-24-7-help-07701479/)
+
+
+> Amazon has officially launched its Alexa Together service, a new subscription-based option for caregivers and anyone who wants to keep tabs on the vulnerable people in their life. The new service revolves around Amazon's IoT devices and its Alexa voice assistant, enabling caregivers to see when their elderly parent, for example, gets up in the morning, pop in for quick chats, and more. How it works READ: Amazon Echo Dot (4th Gen) Review – Sphere of Influence The idea of using smart speakers (and now that they're a thing, smart displays) to help an elderly or disabled loved one with their daily activities isn't new.
+
+
+***
+![It sure looks like a new Sonic the Hedgehog game reveal is coming soon](https://cdn.slashgear.com/wp-content/uploads/2021/12/sonic-the-game-awards-twitter-teaser.jpg "It sure looks like a new Sonic the Hedgehog game reveal is coming soon")
+
+
+[It sure looks like a new Sonic the Hedgehog game reveal is coming soon](https://www.slashgear.com/it-sure-looks-like-a-new-sonic-the-hedgehog-game-reveal-is-coming-soon-07701471/)
+
+
+> Sonic the Hedgehog fans might have reason to tune into The Game Awards later this week because it looks like a new Sonic game will be revealed during the show. Sega has been dropping hints that a new Sonic the Hedgehog game will be revealed during The Game Awards, which host Geoff Keighley has been building up to be a big event even outside of the award announcements. Image: Nintendo Leaks and teases suggest new Sonic soon If you follow either Sonic the Hedgehog or Geoff Keighley on Twitter, then you probably saw an interesting exchange between the two recently, with the Sonic account asking Geoff if he had any extra tickets to The Game Awards.
+
+
+***
+![FDA warns omicron variant can evade certain COVID-19 tests](https://cdn.slashgear.com/wp-content/uploads/2021/12/fda-covid-test-virus-mutations.jpg "FDA warns omicron variant can evade certain COVID-19 tests")
+
+
+[FDA warns omicron variant can evade certain COVID-19 tests](https://www.slashgear.com/fda-warns-omicron-variant-can-evade-certain-covid-19-tests-07701464/)
+
+
+> We're two years into the COVID-19 pandemic and the original virus strain is old news. Delta remains the most common variant fueling infections around the world, but another variety of SARS-CoV-2 called omicron is raising alarm bells. Amid the potential for another wave of cases fueled by this new variant, the FDA has published an extensive analysis of COVID-19 tests and how the viral mutations may impact them. Cryptographer/Shutterstock Evolving virus and false negatives The FDA has issued several Emergency Use Authorizations (EUAs) for COVID-19 tests from various manufacturers.
+
+
+***
+![Orion Technical College and Vagaro Announce New Partnership to Power Spas and Train Students for Business Management](https://mms.businesswire.com/media/20211207006210/en/934113/23/LogoFullMedium.jpg "Orion Technical College and Vagaro Announce New Partnership to Power Spas and Train Students for Business Management")
+
+
+[Orion Technical College and Vagaro Announce New Partnership to Power Spas and Train Students for Business Management](https://www.businesswire.com/news/home/20211207006210/en/Orion-Technical-College-and-Vagaro-Announce-New-Partnership-to-Power-Spas-and-Train-Students-for-Business-Management)
+
+
+> December 07, 2021 07:36 PM Eastern Standard Time DAVENPORT, Iowa--(BUSINESS WIRE)--Orion Technical College (OTC) and Vagaro have announced a partnership to create a seamless online ecosystem for students, spa patrons and staff alike. Utilizing Vagaro's cutting-edge platform, patrons will be able to schedule appointments in real time, shop product inventory, and see full-menu and pricing options, while completing the transaction from their mobile device or computer. "With the successful completion of the onsite construction, we're incredibly excited to begin sharing our new programs and services with our local community,' said Troy Harris, CEO of Orion Education Group.
+
+
+***
+![Centenarian's priceless reaction to virtual tour of childhood town](https://oversixtydev.blob.core.windows.net/media/7846186/armenian-grandma-hero.jpg "Centenarian's priceless reaction to virtual tour of childhood town")
+
+
+[Centenarian's priceless reaction to virtual tour of childhood town](https://oversixty.com.au/entertainment/technology/centenarian-s-priceless-reaction-to-virtual-tour-of-childhood-town)
+
+
+> A 100-year-old grandmother has broken down in tears while exploring her hometown in Armenia through the use of a virtual reality headset. The woman, who now lives in the US, became emotional while using VR to take a tour around her hometown of Vagharshapat - something she never thought she would do again. Upon seeing the Etchmiadzin Cathedral that she used to visit as a child, she was hit by a wave of emotion and started to tear up. The woman's granddaughter, Michelle, captured the heart-warming moment and shared it on TikTok, where it racked up over three million views in just a few days.
+
+
