@@ -36845,3 +36845,33 @@
 > TRAI has sent a letter to Starlink asking the SpaceX owned satellite broadband company to stop selling pre-bookings in India.The timing of the letter is a little odd as the company had already stopped selling pre-bookings a few days back after the DoT order.If no roadblock comes and everything goes according to the plan, Starlink will start selling commercial services by April 2022.The Telecom Regulatory Authority of India (TRAI) has sent a letter to Starlink asking the SpaceX owned satellite broadband company to stop selling pre-bookings in India.
 
 
+***
+![Meta reorganises research department amid scrutiny over findings](https://apicms.thestar.com.my/uploads/images/2021/12/08/1397890.jpg "Meta reorganises research department amid scrutiny over findings")
+
+
+[Meta reorganises research department amid scrutiny over findings](https://www.thestar.com.my/tech/tech-news/2021/12/08/meta-reorganises-research-department-amid-scrutiny-over-findings)
+
+
+> The move will let researchers who were previously working in different corners of the company collaborate more effectively, Raychoudhury said. — AP Meta Platforms Inc is restructuring its internal research department, bringing dozens of employees previously working on product specific teams or business units, like WhatsApp or Instagram, into a central group to handle research for the entire company. The restructuring will affect about 50 researchers, says Pratiti Raychoudhury, the head of research at Meta, who will oversee the group.
+
+
+***
+![76% Indian companies suffered ransomware attacks in 2021, many paid extortion, finds survey](https://images.cnbctv18.com/wp-content/uploads/2018/04/Cyber-attack-1019x573.jpg "76% Indian companies suffered ransomware attacks in 2021, many paid extortion, finds survey")
+
+
+[76% Indian companies suffered ransomware attacks in 2021, many paid extortion, finds survey](https://www.cnbctv18.com/technology/76-indian-companies-suffered-ransomware-attacks-in-2021-many-paid-extortion-finds-survey-11741502.htm)
+
+
+> Indian businesses with an online presence remained one of the primary targets of cybercriminals throughout 2021. A report suggests 76 percent of organisations in the country suffered at least one ransomware attack in the past 12 months.In fact, the survey by US security firm CrowdStrike and market research firm Vanson Bourne revealed 49 percent of Indian businesses that have a digital presence recorded multiple ransomware attacks.The survey report, released on December 7, added that Indian firms suffered more ransomware attacks than any other country in 2021, adding that several of these companies gave in to extortion demands to avoid an attack.
+
+
+***
+![Infusing Some Nostalgic Fun Into Your Holiday Season](https://bloximages.chicago2.vip.townnews.com/countytimes.com/content/tncms/assets/v3/editorial/7/00/7005dfb0-6a4e-5c8f-9861-8ee18416cacc/61b05fdc259ff.image.jpg?crop=314%2C314%2C143%2C0&resize=200%2C200&order=crop%2Cresize "Infusing Some Nostalgic Fun Into Your Holiday Season")
+
+
+[Infusing Some Nostalgic Fun Into Your Holiday Season](http://www.countytimes.com/online_features/tech_talk_and_innovation/infusing-some-nostalgic-fun-into-your-holiday-season/article_4af6e37e-a132-549f-aa7b-1964cecfd43c.html)
+
+
+> (StatePoint) First sold in 1967, Lite-Brites have been entertaining kids – and kids at heart – for over 50 years. And now, a new twist on this classic toy is making waves, just in time for the holidays.Named one of the 100 greatest toys of all time by 'Time' Magazine, today, a new Lite-Brite T-Mobile Edition is brightening the dark days of winter. In addition to all the original colored Lite-Brite pegs that generations of children have used to create rainbow-colored fish, sailboats and unicorns, this new edition introduces 184 new magenta pegs.
+
+
