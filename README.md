@@ -36925,3 +36925,13 @@
 > Many people who have caught a whiff of the many privacy issues in this digital age may presume that it all revolves around social media. The rather horrifying truth is that almost anything about a person that can be transmitted in a digital manner can be used to create a profile of that person, often for targeted marketing purposes. That especially includes the places you've been to, which is why location tracking has been a very thorny subject as far as privacy issues go. That's why it's a bit worrying that the popular Bluetooth tracker Tile might be acquired by a company that is now allegedly violating its own users' privacy, which is ironic given the nature of Life360's business.
 
 
+***
+![Giving the Gift of Tech This Holiday Season? Read This First](https://bloximages.newyork1.vip.townnews.com/whig.com/content/tncms/assets/v3/editorial/0/b6/0b670b8b-a277-5c3e-bc18-3c1f1babb594/61b06e202d03e.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize "Giving the Gift of Tech This Holiday Season? Read This First")
+
+
+[Giving the Gift of Tech This Holiday Season? Read This First](https://www.whig.com/online_features/tech_talk_and_innovation/giving-the-gift-of-tech-this-holiday-season-read-this-first/article_3eff36ba-e797-5df2-802d-d32fe363d03a.html)
+
+
+> Don't play tech support this holiday season. Get help from on-call experts.
+
+
