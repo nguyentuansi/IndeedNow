@@ -36875,3 +36875,53 @@
 > (StatePoint) First sold in 1967, Lite-Brites have been entertaining kids – and kids at heart – for over 50 years. And now, a new twist on this classic toy is making waves, just in time for the holidays.Named one of the 100 greatest toys of all time by 'Time' Magazine, today, a new Lite-Brite T-Mobile Edition is brightening the dark days of winter. In addition to all the original colored Lite-Brite pegs that generations of children have used to create rainbow-colored fish, sailboats and unicorns, this new edition introduces 184 new magenta pegs.
 
 
+***
+![Instagram parental controls about to change the way you browse](https://cdn.slashgear.com/wp-content/uploads/2021/12/instagram-parental-1.jpg "Instagram parental controls about to change the way you browse")
+
+
+[Instagram parental controls about to change the way you browse](https://www.slashgear.com/instagram-parental-controls-about-to-change-the-way-you-browse-08701500)
+
+
+> Instagram parental controls about to change the way you browse Although Meta itself is no stranger to controversy and legal inquiries, it was Instagram that was put on the hot seat a few months back for the way it treated its younger users. From accusations of trying to profit at the expense of teens' mental health to criticisms for lack of parental control, Instagram has been painted recently as an unsafe place for young people to be, despite its popularity with that demographic. The social network has tried to recover from that bad PR and is now announcing features to reassure parents, but some of those won't be rolling out until next year.
+
+
+***
+![Nintendo Switch OLED docks just became a key last-minute gamer gift](https://cdn.slashgear.com/wp-content/uploads/2021/12/Switch-OLED-dock-Nintendo-Store.jpg "Nintendo Switch OLED docks just became a key last-minute gamer gift")
+
+
+[Nintendo Switch OLED docks just became a key last-minute gamer gift](https://www.slashgear.com/nintendo-switch-oled-docks-just-became-a-key-last-minute-gamer-gift-08701539/)
+
+
+> The Switch OLED, which launched back in October, comes with an improved dock in the box. Gone is the original dock paired with the standard Switch and in its place is a redesigned dock with rounded corners, a new white color scheme, and a built-in LAN port. Nintendo has started selling the Switch OLED dock separately, so if you're looking for an additional dock to place in another room or you just want to upgrade, you can get this improved dock instead of having to settle for the standard one. Nintendo Switch OLED dock pricing and availability If you want one of these new OLED docks, your only option for purchase is the official Nintendo's Store – for the time being.
+
+
+***
+![Smartwatch market grows as fitness trackers fade](https://cdn.slashgear.com/wp-content/uploads/2021/12/galaxy-watch-4-1.jpg "Smartwatch market grows as fitness trackers fade")
+
+
+[Smartwatch market grows as fitness trackers fade](https://www.slashgear.com/smartwatch-market-grows-as-fitness-trackers-fade-08701505)
+
+
+> Smartwatch market grows as fitness trackers fade Although wearable technology has been around ever since the advent of fitness trackers, it wasn't until smartwatches came along that it was treated as a distinct category of its own, worthy of being analyzed by market intelligence companies. Even then, smartwatches were still considered a relative minority despite having dozens of models available, including the highly popular Apple Watch. The tides of change, however, are turning, and smartwatches are starting to outnumber simpler trackers in terms of shipments.
+
+
+***
+![Rocket Lab Neutron Launch Vehicle revealed with ‘Hungry Hippo' tech](https://cdn.slashgear.com/wp-content/uploads/2021/12/rocket-lab-neutron-vehicle.jpg "Rocket Lab Neutron Launch Vehicle revealed with ‘Hungry Hippo' tech")
+
+
+[Rocket Lab Neutron Launch Vehicle revealed with ‘Hungry Hippo' tech](https://www.slashgear.com/rocket-lab-neutron-launch-vehicle-revealed-with-hungry-hippo-tech-08701537/)
+
+
+> Putting satellites, cargo, and astronauts into space is an expensive proposition. As a result, all the private companies working with NASA are attempting to reuse some of the rocket hardware to help reduce the cost of launches. SpaceX is the best-known company in the private space industry, with its Falcon 9 rockets being routinely reused. While SpaceX may be the best known, it's certainly not the only private company working to put satellites and other cargo into orbit as efficiently and cheaply as possible.
+
+
+***
+![Tile tracker prospective buyer Life360 accused of selling location data](https://cdn.slashgear.com/wp-content/uploads/2021/12/tile.jpg "Tile tracker prospective buyer Life360 accused of selling location data")
+
+
+[Tile tracker prospective buyer Life360 accused of selling location data](https://www.slashgear.com/tile-tracker-prospective-buyer-life360-accused-of-selling-location-data-08701494/)
+
+
+> Many people who have caught a whiff of the many privacy issues in this digital age may presume that it all revolves around social media. The rather horrifying truth is that almost anything about a person that can be transmitted in a digital manner can be used to create a profile of that person, often for targeted marketing purposes. That especially includes the places you've been to, which is why location tracking has been a very thorny subject as far as privacy issues go. That's why it's a bit worrying that the popular Bluetooth tracker Tile might be acquired by a company that is now allegedly violating its own users' privacy, which is ironic given the nature of Life360's business.
+
+
