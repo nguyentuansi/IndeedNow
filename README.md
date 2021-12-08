@@ -36775,3 +36775,33 @@
 > A 100-year-old grandmother has broken down in tears while exploring her hometown in Armenia through the use of a virtual reality headset. The woman, who now lives in the US, became emotional while using VR to take a tour around her hometown of Vagharshapat - something she never thought she would do again. Upon seeing the Etchmiadzin Cathedral that she used to visit as a child, she was hit by a wave of emotion and started to tear up. The woman's granddaughter, Michelle, captured the heart-warming moment and shared it on TikTok, where it racked up over three million views in just a few days.
 
 
+***
+![Canada spy agency: Ransomware attacks soar, hackers set to become more aggressive](https://apicms.thestar.com.my/uploads/images/2021/12/08/1397217.jpg "Canada spy agency: Ransomware attacks soar, hackers set to become more aggressive")
+
+
+[Canada spy agency: Ransomware attacks soar, hackers set to become more aggressive](https://www.thestar.com.my/tech/tech-news/2021/12/08/canada-spy-agency-ransomware-attacks-soar-hackers-set-to-become-more-aggressive)
+
+
+> CSE, citing attacks on North American health facilities and a US pipeline, said the scale and scope of ransomware operators represented both security and economic risks to Canada and its allies. — 123rf.com OTTAWA: Global ransomware attacks increased by 151% in the first half of 2021 compared with 2020 and hackers are set to become increasingly aggressive, Canada's signals intelligence agency said on Monday. The Communications Security Establishment (CSE), citing attacks on North American health facilities and a US pipeline, said the scale and scope of ransomware operators represented both security and economic risks to Canada and its allies.
+
+
+***
+![Call of Duty: Mobile December 8 Redeem Codes](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/12/08/1008809-call-of-duty-mobile.jpg "Call of Duty: Mobile December 8 Redeem Codes")
+
+
+[Call of Duty: Mobile December 8 Redeem Codes](https://www.dnaindia.com/technology/report-call-of-duty-mobile-december-8-redeem-codes-steps-to-redeem-today-s-free-codes-2922922)
+
+
+> Call of Duty: Mobile is a hugely popular free-to-play shooter video game that became popular in India especially after the government decided to ban PUBG Mobile India in 2020 over data privacy concerns. Call of Duty: Mobile has been developed by TiMi Studios and it was released on October 1, 2019. The popular mobile game was published by Activision for both Android and iOS platforms.  Call of Duty: Mobile offers in-game items like characters, skins, and many more things to attract its players.  Call of Duty Mobile has crossed over 8 million downloads for mobile devices.
+
+
+***
+![Using virtual reality to treat pain and anxiety](http://www.businessghana.com/site/img/../../cms/img/news/2021-12-07-154208000.jpg "Using virtual reality to treat pain and anxiety")
+
+
+[Using virtual reality to treat pain and anxiety](https://www.businessghana.com/)
+
+
+> "I am unable to walk - and I can feel light and able to walk," she says. "You can go under the sea, look at all these fish. It reduces my anxiety. I find the virtual-reality kit very helpful." After trials at multiple NHS trusts, the government says immersive technologies have the potential to "transform" therapy and healthcare. And the interventions tested - using virtual-reality kits to treat pain and phobias, for example - could save the NHS £2m every year. Ms Hill's physiotherapist, Pamela Hicken, says her VR kit "encourages movement" and interaction.
+
+
