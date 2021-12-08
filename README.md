@@ -36805,3 +36805,43 @@
 > "I am unable to walk - and I can feel light and able to walk," she says. "You can go under the sea, look at all these fish. It reduces my anxiety. I find the virtual-reality kit very helpful." After trials at multiple NHS trusts, the government says immersive technologies have the potential to "transform" therapy and healthcare. And the interventions tested - using virtual-reality kits to treat pain and phobias, for example - could save the NHS £2m every year. Ms Hill's physiotherapist, Pamela Hicken, says her VR kit "encourages movement" and interaction.
 
 
+***
+![Google disrupts cybercrime web infecting one million devices](https://apicms.thestar.com.my/uploads/images/2021/12/08/1397683.jpg "Google disrupts cybercrime web infecting one million devices")
+
+
+[Google disrupts cybercrime web infecting one million devices](https://www.thestar.com.my/tech/tech-news/2021/12/08/google-disrupts-cybercrime-web-infecting-one-million-devices)
+
+
+> Google said the network includes about one million Windows-using devices worldwide for crimes that include stealing users' credentials, and has targeted victims from the United States, India, Brazil and South-East Asia. — Reuters WASHINGTON: Google said Tuesday it has moved to shut down a network of about one million hijacked electronic devices used worldwide to commit online crimes, while also suing Russia-based hackers the tech giant claimed were responsible. The so-called botnet of infected devices, which was also used to surreptitiously mine bitcoin, was cut off at least for now from the people wielding it on the internet.
+
+
+***
+![Google introduces voice, video call features in Gmail app](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-i4fe6dvumimo720vr49l2qfvl3-20180514172721.jpeg "Google introduces voice, video call features in Gmail app")
+
+
+[Google introduces voice, video call features in Gmail app](https://www.asianage.com/technology/in-other-news/081221/google-introduces-voice-video-call-features-in-gmail-app.html)
+
+
+> ANI Published : Dec 8, 2021, 11:37 am IST Updated : Dec 8, 2021, 11:37 am IST The call feature is rolling out for everyone with Google Workspace, G Suite or personal Google accounts  Users who initiate a call from the Google Chat app will now be redirected to the Gmail app. (Photo: Wikipedia/File) Washington: Google has announced that it has added the ability to join one-on-one Google Chat voice and video calls from within the Gmail app. As per MacRumors, it was possible to make calls from within the Gmail app on iOS and Android, but users had to send an invite to a Google Meet video conferencing call, which was more convoluted and limiting.
+
+
+***
+![Major outage hits Amazon Web Services; many sites affected](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-ji25k12rsth3gg17dnlqh33k30-20211208091814.jpeg "Major outage hits Amazon Web Services; many sites affected")
+
+
+[Major outage hits Amazon Web Services; many sites affected](https://www.asianage.com/technology/in-other-news/081221/major-outage-hits-amazon-web-services-many-sites-affected.html)
+
+
+> The company said in a post on the AWS status page that it had 'mitigated' the underlying problem responsible for the outage Washington: Amazon's cloud-service network suffered a major outage Tuesday, the company said, disrupting access to many popular sites. The service provides remote computing services to many governments, universities and companies, including The Associated Press. Roughly five hours after numerous companies and other organizations began reporting issues with Amazon Web Services, the company said in a post on the AWS status page that it had 'mitigated' the underlying problem responsible for the outage.
+
+
+***
+![TRAI Follows DoT in Ordering Starlink to Stop Selling Pre-Bookings](https://telecomtalk.info/wp-content/uploads/2021/12/trai-follows-dot-in-ordering-starlink-to.jpeg "TRAI Follows DoT in Ordering Starlink to Stop Selling Pre-Bookings")
+
+
+[TRAI Follows DoT in Ordering Starlink to Stop Selling Pre-Bookings](https://telecomtalk.info/trai-follows-dot-in-ordering-starlink-to/484125/)
+
+
+> TRAI has sent a letter to Starlink asking the SpaceX owned satellite broadband company to stop selling pre-bookings in India.The timing of the letter is a little odd as the company had already stopped selling pre-bookings a few days back after the DoT order.If no roadblock comes and everything goes according to the plan, Starlink will start selling commercial services by April 2022.The Telecom Regulatory Authority of India (TRAI) has sent a letter to Starlink asking the SpaceX owned satellite broadband company to stop selling pre-bookings in India.
+
+
