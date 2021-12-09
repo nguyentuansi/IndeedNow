@@ -37086,3 +37086,53 @@
 > By Reuters  | Dec 09, 2021, 02:40 PM IST (Published)China's Ministry of Industry and Information Technology has removed 106 apps from Chinese app stores including movie review app Douban, karaoke app Changba, and phone reseller Aihuishou, the regulator announced on Thursday, citing violations of privacy law.TagschinaChinese app storesChinese apps
 
 
+***
+![OnePlus bugs aplenty with OxygenOS 12: It's not just you!](https://cdn.slashgear.com/wp-content/uploads/2021/12/oneplus9_pro_vs_display3.jpg "OnePlus bugs aplenty with OxygenOS 12: It's not just you!")
+
+
+[OnePlus bugs aplenty with OxygenOS 12: It's not just you!](https://www.slashgear.com/oneplus-bugs-aplenty-with-oxygenos-12-its-not-just-you-09701610/)
+
+
+> Part of OnePlus' motto to 'Never Settle' also involved the customer experience when it came to its phones' software. By shipping with an almost vanilla version of Android, the company could ensure speedy updates and at least fewer bugs of its own making. Even some OnePlus fans, however, might argue that that hasn't been the case for a long time, and things might actually start to get worst. The latest OxygenOS 12 release, for example, is irking many OnePlus 9 and OnePlus 9 Pro owners because of numerous bugs that are partly being blamed on OPPO's ColorOS.
+
+
+***
+![Google claims hijacked Pixel phones weren't their fault](https://cdn.slashgear.com/wp-content/uploads/2021/12/google_pixel_5a_with_5G_11.jpg "Google claims hijacked Pixel phones weren't their fault")
+
+
+[Google claims hijacked Pixel phones weren't their fault](https://www.slashgear.com/google-claims-hijacked-pixel-phones-werent-their-fault-09701665/)
+
+
+> Nothing is probably more frightening than discovering how the personal and sensitive photos you have protected on your phone have been put up on the Internet for everyone to see. It's even more disheartening when that incident may have been part of what should be a trusted system between a customer and a renowned company. That was the nightmare that at least two Pixel phone owners were living in for the past few days, but Google is officially saying that it was not caused by Google employees or authorized repair technicians.
+
+
+***
+![Unihertz TickTock rugged 5G phone has a smartwatch on its back](https://cdn.slashgear.com/wp-content/uploads/2021/12/unihertz-ticktock-1.jpg "Unihertz TickTock rugged 5G phone has a smartwatch on its back")
+
+
+[Unihertz TickTock rugged 5G phone has a smartwatch on its back](https://www.slashgear.com/unihertz-ticktock-rugged-5g-phone-has-a-smartwatch-on-its-back-09701604/)
+
+
+> We've seen quite a few quirky smartphones over the years and some of them even managed to become 'standard' for a time, like the ones with popup selfie cameras. Among the unique handsets are those that have secondary screens on their backs, whether it's a full-sized e-paper display or a smaller window. Unihertz, maker of the world's tiniest 4G phones, is taking a stab at the rear display concept, but is giving its model a unique twist by essentially using a smartwatch as its secondary display. Image: Kickstarter There are actually a few good reasons why you might want to have a display on the back of your phone, especially if it's just a small one.
+
+
+***
+![Instagram Chronological Order returns: Here's why and when](https://cdn.slashgear.com/wp-content/uploads/2021/11/instagram-reels-robot-voice-instructions.jpg "Instagram Chronological Order returns: Here's why and when")
+
+
+[Instagram Chronological Order returns: Here's why and when](https://www.slashgear.com/instagram-chronological-order-returns-heres-why-and-when-09701667/)
+
+
+> There was a point in the distant past when social networks, at least those that displayed any sort of 'timeline,' showed a chronological list of what others have been doing as they happened. Those times are long gone, however, and the latest generation of social media users have been raised to accept the status quo of 'algorithmic feeds' as the best way to keep on top of things. For years, Instagram fought against the backlash and criticisms of that switch, but it is taking a single Senate inquiry to finally make it change its mind and bring the much-requested feature back.
+
+
+***
+![The Difference Between Noise-Canceling and Noise-Isolating Headphones](https://cdn.slashgear.com/wp-content/uploads/2021/12/difference-headphones-isolating-noise-canceling.jpg "The Difference Between Noise-Canceling and Noise-Isolating Headphones")
+
+
+[The Difference Between Noise-Canceling and Noise-Isolating Headphones](https://www.slashgear.com/the-difference-between-noise-canceling-and-noise-isolating-headphones-09701591/)
+
+
+> When you're searching for a new pair of headphones, you'll find endless lists of features and buzzwords that can make it hard to know what you should be looking out for. One feature that many people are looking for is some degree of sound reduction so that they can listen to music or podcasts without being disturbed by noise around them. But you'll find two very different types of sound reduction offered: noise-canceling and noise-isolating. We'll explain the difference so you can pick the right headphones for you.
+
+
