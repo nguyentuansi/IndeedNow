@@ -37005,3 +37005,44 @@
 > Apple has got a new iOS feature that will tell you whether your iPhone has genuine or third party parts. The new feature will be available in iOS 15.2 in the "Parts and Service History" section. The features have the ability to confirm whether the iPhone has genuine parts or not. If any part is detected as non-genuine, Apple will show it is an "unkown part". When you give your iPhone for repair, you often don't know whether genuine parts have been used in your phone or not. However, this could only happen if you give your phone to non-authorised iPhone service centre.
 
 
+***
+![US boss apologises after laying off 900 employees over Zoom](https://apicms.thestar.com.my/uploads/images/2021/12/09/1399194.jpeg "US boss apologises after laying off 900 employees over Zoom")
+
+
+[US boss apologises after laying off 900 employees over Zoom](https://www.thestar.com.my/tech/tech-news/2021/12/09/us-boss-apologises-after-laying-off-900-employees-over-zoom)
+
+
+> The mass sacking via Zoom attracted social media fury, and in an apology posted on the company's website on Dec 7, Garg expressed remorse for the way he handled the layoffs. — Photo by Chris Montgomery on Unsplash NEW YORK: The CEO who last week laid off 900 employees in a single Zoom call has apologised after he attracted sharp criticism when the video was posted on social media. Vishal Garg, head of online mortgage originator Better.com, convened employees over the video streaming platform and told them 'if you are on this call, you are part of the unlucky group being laid off', according to a video posted online.
+
+
+***
+![China Tech Digest: Xiaomi's "Mobile Payment In VR Environment" Patent Authorized; SAIC-backed L4 Autonomous Driving Platform Starts Operation](https://assets.chinamoneynetwork.com/wp-content/uploads/20211209103633/virtualreality-vr-696x464.jpeg "China Tech Digest: Xiaomi's "Mobile Payment In VR Environment" Patent Authorized; SAIC-backed L4 Autonomous Driving Platform Starts Operation")
+
+
+[China Tech Digest: Xiaomi's "Mobile Payment In VR Environment" Patent Authorized; SAIC-backed L4 Autonomous Driving Platform Starts Operation](https://www.chinamoneynetwork.com/2021/12/09/china-tech-digest-xiaomis-mobile-payment-in-vr-environment-patent-authorized-saic-backed-l4-autonomous-driving-platform-starts-operation)
+
+
+> Xiaomi's "mobile payment in VR environment" patent authorized The patent of "Mobile Payment Method and Device in Virtual Reality Environment" developed by Beijing Xiaomi Mobile Software Co., Ltd. has been authorized. The technology relies on the information interaction between the VR device and the mobile terminal to enable users to purchase goods or make in-app payments in a VR environment without taking the mobile terminal out so as to complete the payment conveniently and quickly. It can also be applied to all devices that can interact with mobile terminals.
+
+
+***
+[Lyme Disease Diagnostic Market Size 2021](http://www.comunicati.net/comunicati/aziende/tecnologia/746492.html)
+
+
+> 09/dic/2021 08:57:01 Navya Singh Contatta l'autore The Lyme Disease Diagnostic Market Report, in its latest update, highlights the significant impacts and the recent strategical changes under the present socio-economic scenario. The Lyme Disease Diagnostic industry growth avenues are deeply supported by exhaustive research by the top analysts of the industry. The report starts with the executive summary, followed by a value chain and marketing channels study. The report then estimates the CAGR and market revenue of the Global and regional segments.
+
+
+***
+[3-Fluoro-5-Nitrotoluene Market Report 2021](http://www.comunicati.net/comunicati/aziende/tecnologia/746488.html)
+
+
+> 09/dic/2021 08:51:50 Haripriyadigital Contatta l'autore The global 3-Fluoro-5-Nitrotoluene Market report offers a comprehensive assessment of the market for the forecast years. The report contains several segments and an analysis of the market trends and growth factors that are playing a vitalrole in the market. These factors encompass the drivers, restraints, and opportunities. This global industry offers an outlook on the strategic development of the market in terms of revenue profits over the forecast period 2021-2026.
+
+
+***
+[Cosmetic Serum Market Outlook 2021](http://www.comunicati.net/comunicati/aziende/tecnologia/746480.html)
+
+
+> 09/dic/2021 08:40:33 Navya Singh Contatta l'autore The Cosmetic Serum Market Report, in its latest update, highlights the significant impacts and the recent strategic changes under the present socio-economic scenario. The Cosmetic Serum industry growth avenues are deeply supported by exhaustive research by the top analysts of the industry. The report starts with the executive summary, followed by a value chain and marketing channels study. The report then estimates the CAGR and market revenue of the Global and regional segments.
+
+
