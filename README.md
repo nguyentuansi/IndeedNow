@@ -36985,3 +36985,23 @@
 > While many people prefer to keep using the mobile OS with which they're most familiar, there are plenty of users who aren't afraid to make the jump to something different. If you're thinking of moving from an Android smartphone to an iPhone, you're probably wondering how you're going to transfer all of your data over. The good news is that Apple makes the process easy with its 'Move to iOS' tool, and here you'll learn how to use it to ensure you make the jump from iOS to Android without losing a bunch of data in the process.
 
 
+***
+![VW Americas CEO sees chip shortage lasting into 2022, but industry protecting margins](https://apicms.thestar.com.my/uploads/images/2021/12/09/1398953.jpg "VW Americas CEO sees chip shortage lasting into 2022, but industry protecting margins")
+
+
+[VW Americas CEO sees chip shortage lasting into 2022, but industry protecting margins](https://www.thestar.com.my/tech/tech-news/2021/12/09/vw-americas-ceo-sees-chip-shortage-lasting-into-2022-but-industry-protecting-margins)
+
+
+> Scott Keogh, CEO of Volkswagen of America, speaks during a Volkswagen press conference at the Los Angeles Auto Show in Los Angeles, California, U.S. November 28, 2018. REUTERS/Kyle Grillot/file photo DETROIT (Reuters) - Volkswagen AG's Americas chief sees the global chip shortage lasting into the third quarter of next year, but believes the auto industry will maintain the discipline that has led to strong vehicle pricing and corporate profits even when the flow of semiconductors returns to normal.
+
+
+***
+![Apple's new iOS 15.2 update will tell you if your iPhone has third party parts](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/screenshot_2021-12-09_at_9.14._1200x768-original.png "Apple's new iOS 15.2 update will tell you if your iPhone has third party parts")
+
+
+[Apple's new iOS 15.2 update will tell you if your iPhone has third party parts](https://www.businesstoday.in/technology/story/apples-new-ios-152-update-will-tell-you-if-your-iphone-has-third-party-parts-314917-2021-12-09)
+
+
+> Apple has got a new iOS feature that will tell you whether your iPhone has genuine or third party parts. The new feature will be available in iOS 15.2 in the "Parts and Service History" section. The features have the ability to confirm whether the iPhone has genuine parts or not. If any part is detected as non-genuine, Apple will show it is an "unkown part". When you give your iPhone for repair, you often don't know whether genuine parts have been used in your phone or not. However, this could only happen if you give your phone to non-authorised iPhone service centre.
+
+
