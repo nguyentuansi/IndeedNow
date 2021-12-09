@@ -36935,3 +36935,53 @@
 > Don't play tech support this holiday season. Get help from on-call experts.
 
 
+***
+![Why You Should Use a VPN On Your Phone](https://cdn.slashgear.com/wp-content/uploads/2021/12/use-vpn-on-phone.jpg "Why You Should Use a VPN On Your Phone")
+
+
+[Why You Should Use a VPN On Your Phone](https://www.slashgear.com/why-you-should-use-a-vpn-on-your-phone-08701582/)
+
+
+> Virtual private networks (VPNs) are an important part of modern computer security. While VPNs have been widely used for decades, the rise of remote work has brought them into the spotlight for many users and raised questions about where and on what devices they should be used. Prostock-studio/Shutterstock A VPN works by creating an encrypted tunnel between your device and the internet, routed through the VPN's servers. In other words, your device securely connects to the VPN service, and all traffic is routed through it.
+
+
+***
+![God of War PC requirements revealed: What you'll need for top performance](https://cdn.slashgear.com/wp-content/uploads/2021/12/God-of-War-PC-screenshot.jpg "God of War PC requirements revealed: What you'll need for top performance")
+
+
+[God of War PC requirements revealed: What you'll need for top performance](https://www.slashgear.com/god-of-war-pc-requirements-revealed-what-youll-need-for-top-performance-08701570/)
+
+
+> Next month, we'll see what is almost certainly the biggest Sony PC release yet. After bringing Horizon Zero Dawn and Days Gone to PC, Sony will be bringing 2018's God of War to the platform in January. Today, Sony's Santa Monica Studio revealed the PC specifications for the game, and it looks like it will run on a rather large array of configurations. Santa Monica Studios/Sony Minimum specs and maximum performance Sony Santa Monica shared lists for five different specifications today, starting with the minimum required specifications ranging all the way up to the hardware needed to run God of War at ultra settings.
+
+
+***
+![Hyatt rolls out iPhone and Apple Watch room key support at some hotels](https://cdn.slashgear.com/wp-content/uploads/2021/12/hyatt-hotels-apple-wallet-room-key-support.jpg "Hyatt rolls out iPhone and Apple Watch room key support at some hotels")
+
+
+[Hyatt rolls out iPhone and Apple Watch room key support at some hotels](https://www.slashgear.com/hyatt-rolls-out-iphone-and-apple-watch-room-key-support-at-some-hotels-08701557/)
+
+
+> Hyatt Hotels has announced that guests at six of its properties in the US now have the option of unlocking their rooms and common areas using an iPhone or Apple Watch instead of a physical room key. The support, which was first promised earlier this year, revolves around Apple Wallet and the ultra-wideband digital keys support that arrived with iOS 15. Vadym Shapran/Shutterstock Apple Wallet allows iPhone and Apple Watch owners to digitally carry, access, and use their debit and credit cards. The same app combined with the latest iOS and watchOS software versions can also be used to unlock protected common areas and guestrooms at the following Hyatt Hotels properties: – Hyatt Place Fremont/Silicon Valley – Hyatt Centric Key West Resort & Spa – Andaz Maui at Wailea Resort – Hyatt House Chicago/West Loop-Fulton Market – Hyatt Regency Long Beach – Hyatt House Dallas/Richardson Hyatt explains that its Apple Wallet support covers the check-in process in addition to unlocking doors.
+
+
+***
+![Why You Need To Delete, Not Just Deactivate, Your Facebook Account](https://cdn.slashgear.com/wp-content/uploads/2021/12/ss-1052907254.jpg "Why You Need To Delete, Not Just Deactivate, Your Facebook Account")
+
+
+[Why You Need To Delete, Not Just Deactivate, Your Facebook Account](https://www.slashgear.com/why-you-need-to-delete-not-just-deactivate-your-facebook-account-08701567/)
+
+
+> Facebook may be the 800-pound gorilla of social media platforms, but the company's business practices are leading many users to abandon it. In recent years, Facebook has been embroiled in one scandal and issue after another and has become synonymous with abuse of privacy. The Cambridge Analytica scandal was one of the biggest such examples, with the private data of tens of millions of users misused for political reasons (via The New York Times). Users are also coming to the realization that, as with many free services, the user is the product.
+
+
+***
+![The easiest way to transfer data from an Android phone to an iPhone](https://cdn.slashgear.com/wp-content/uploads/2021/12/apple_iphone_13_pro_15.jpg "The easiest way to transfer data from an Android phone to an iPhone")
+
+
+[The easiest way to transfer data from an Android phone to an iPhone](https://www.slashgear.com/the-easiest-way-to-transfer-data-from-an-android-phone-to-an-iphone-08701555/)
+
+
+> While many people prefer to keep using the mobile OS with which they're most familiar, there are plenty of users who aren't afraid to make the jump to something different. If you're thinking of moving from an Android smartphone to an iPhone, you're probably wondering how you're going to transfer all of your data over. The good news is that Apple makes the process easy with its 'Move to iOS' tool, and here you'll learn how to use it to ensure you make the jump from iOS to Android without losing a bunch of data in the process.
+
+
