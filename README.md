@@ -37046,3 +37046,43 @@
 > 09/dic/2021 08:40:33 Navya Singh Contatta l'autore The Cosmetic Serum Market Report, in its latest update, highlights the significant impacts and the recent strategic changes under the present socio-economic scenario. The Cosmetic Serum industry growth avenues are deeply supported by exhaustive research by the top analysts of the industry. The report starts with the executive summary, followed by a value chain and marketing channels study. The report then estimates the CAGR and market revenue of the Global and regional segments.
 
 
+***
+![Instagram chief and lawmakers clash over app's real world harms](https://apicms.thestar.com.my/uploads/images/2021/12/09/1399197.jpg "Instagram chief and lawmakers clash over app's real world harms")
+
+
+[Instagram chief and lawmakers clash over app's real world harms](https://www.thestar.com.my/tech/tech-news/2021/12/09/instagram-chief-and-lawmakers-clash-over-apps-real-world-harms)
+
+
+> The executive who runs Instagram and US senators in a hearing on Dec 8 presented radically different views about how the platform functions in society and impacts young users. Members of the Senate Commerce consumer protection subcommittee asked Instagram's Adam Mosseri about ads targeting young people, how the platform promotes inappropriate content and what legal options are available for users who suffered harm because of the social network. Mosseri pledged transparency, touted recent product changes and asked Congress to pass new regulations.
+
+
+***
+![Bitcoin network computing power nears pre-China-crackdown record](https://apicms.thestar.com.my/uploads/images/2021/12/09/1399512.jpg "Bitcoin network computing power nears pre-China-crackdown record")
+
+
+[Bitcoin network computing power nears pre-China-crackdown record](https://www.thestar.com.my/tech/tech-news/2021/12/09/bitcoin-network-computing-power-nears-pre-china-crackdown-record)
+
+
+> Bitcoin networks are running at peak numbers again, mining with as much computing power as before China cracked down on the industry it deemed energy wasting. — AP Photo The Bitcoin network is close to a complete recovery from the drop prompted by China's crackdown on the cryptocurrency industry earlier this year. The hash rate, which measures the computing power being put toward mining and processing transactions, peaked at around 180 million terahashes per second on May 14, according to data from Blockchain.
+
+
+***
+![JPJ site crashes as motorists scramble to pay summons at 80% discount](https://apicms.thestar.com.my/uploads/images/2021/12/09/1399352.jpg "JPJ site crashes as motorists scramble to pay summons at 80% discount")
+
+
+[JPJ site crashes as motorists scramble to pay summons at 80% discount](https://www.thestar.com.my/tech/tech-news/2021/12/09/jpj-site-crashes-as-motorists-scramble-to-pay-summons-at-80-discount)
+
+
+> JPJ's website has crashed, preventing motorists from paying online. However, long lines were seen at kiosks including the JPJ mobile counter at KLCC. — FAIHAN GHANI/The Star The Road Transport Department (JPJ) is facing an interruption in providing their services, due to a 'traffic jam' on their site. In a statement posted on its Facebook page at around 1.30pm, it said the JPJ Malaysia mySIKAP system was experiencing accessibility issues due to high website traffic. They said recovery efforts were underway, apologising for the inconvenience.
+
+
+***
+![China removes 106 apps from app stores citing privacy violations](https://images.cnbctv18.com/wp-content/uploads/2020/01/Apps-reuters-1019x573.png "China removes 106 apps from app stores citing privacy violations")
+
+
+[China removes 106 apps from app stores citing privacy violations](https://www.cnbctv18.com/technology/china-removes-106-apps-from-app-stores-citing-privacy-violations-11759902.htm)
+
+
+> By Reuters  | Dec 09, 2021, 02:40 PM IST (Published)China's Ministry of Industry and Information Technology has removed 106 apps from Chinese app stores including movie review app Douban, karaoke app Changba, and phone reseller Aihuishou, the regulator announced on Thursday, citing violations of privacy law.TagschinaChinese app storesChinese apps
+
+
