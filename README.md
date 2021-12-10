@@ -37196,3 +37196,33 @@
 > The Game Awards 2021 are a combination of pop culture, industry awards, and another place for fans of Video Games to keep an eye out for all the fun new games coming our way. For this piece though we'll be keeping you up to date on all of the announcements that come across the stage. There's been plenty of teasing already that we'll get appearances from Sonic the Hedgehog to many other fan-favorite franchises and we're to expect a few surprises along the way too. We'll be updating this article live so if you're not able to watch then be sure to refresh to stay on top of all of the announcements.
 
 
+***
+![Apple sued over broken watch screens that injured customers](https://apicms.thestar.com.my/uploads/images/2021/12/10/1400580.jpg "Apple sued over broken watch screens that injured customers")
+
+
+[Apple sued over broken watch screens that injured customers](https://www.thestar.com.my/tech/tech-news/2021/12/10/apple-sued-over-broken-watch-screens-that-injured-customers)
+
+
+> Customers are suing Apple over a defect in its watch, which the group claim causes the screen to shatter when the battery expands, potentially injuring users. — Apple Apple Inc.'s watch isn't all it's cracked up to be, a group of customers claims in a lawsuit over an alleged defect that it says can cause injuries. The customers say Apple, in its zeal for compactness, failed to provide enough room inside the watch to allow for swelling of the internal battery. As a result the watch screen can detach, crack or shatter, the customers said.
+
+
+***
+![Group: Pandemic tech tools raise risk of everyday tracking](https://apicms.thestar.com.my/uploads/images/2021/12/10/1400379.jpg "Group: Pandemic tech tools raise risk of everyday tracking")
+
+
+[Group: Pandemic tech tools raise risk of everyday tracking](https://www.thestar.com.my/tech/tech-news/2021/12/10/group-pandemic-tech-tools-raise-risk-of-everyday-tracking)
+
+
+> A new report group says digital contact tracing apps, AI and other tech tools that European governments rolled out to combat Covid-19 failed to play a key role in solving the pandemic and now threaten to make such monitoring widely accepted. The nonprofit research group AlgorithmWatch said that the health surveillance technologies many countries deployed were often adopted without enough transparency, safeguards or democratic debate. — AP LONDON: Tech tools like digital contact tracing apps and artificial intelligence that European governments rolled out to combat Covid-19 failed to play a key role in solving the pandemic and now threaten to make such monitoring widely accepted, a new report shows.
+
+
+***
+![Sorry, Asia, Facebook's metaverse isn't for you yet](https://techwireasia.com/wp-content/uploads/2021/12/063_1349804313.jpg "Sorry, Asia, Facebook's metaverse isn't for you yet")
+
+
+[Sorry, Asia, Facebook's metaverse isn't for you yet](https://techwireasia.com/2021/12/sorry-asia-facebooks-metaverse-isnt-for-you-yet)
+
+
+> Sorry, Asia, Facebook's metaverse isn't for you yet Sorry, Asia, Facebook's metaverse isn't for you yet Facebook's metaverse future is taking shape as the parent firm opened its Horizon Worlds virtual reality platform on Thursday. Metaverse development is on the rise in Southeast Asia, namely, Thailand, Vietnam, the Philippines, and Singapore. Unfortunately, at the time of writing, Facebook's metaverse is only open to the public in North America. First coined in Neal Stephenson's 1992 sci-fi novel, Snow CrashMetaverse, the term ‘metaverse' has no specific definition as of yet.
+
+
