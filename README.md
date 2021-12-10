@@ -37146,3 +37146,53 @@
 > IRVINE, Calif.--(BUSINESS WIRE)--Dec 9, 2021-- Please replace the photo with the accompanying corrected photo This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20211209005826/en/ VIZIO is giving the gift of free entertainment for the holidays with 'Winter Watchland,' a collection of over 500 hours of free holiday-themed featured movies, TV shows, recipes, and music on its free streaming service, WatchFree+. (Photo: Business Wire) The release reads: VIZIO GIVES THE GIFT OF FREE ENTERTAINMENT ON WATCHFREE+ Light up the season with a holiday collection of classic movies, TV shows and on demand exclusives with holiday savings on VIZIO TVs and Sound Bars VIZIO is giving the gift of free entertainment for the holidays with 'Winter Watchland,' a collection of over 500 hours of free holiday-themed featured movies, TV shows, recipes, and music on its free streaming service, WatchFree+.
 
 
+***
+![FDA and CDC green light Pfizer COVID-19 booster for older teenagers](https://cdn.slashgear.com/wp-content/uploads/2021/12/FDA-CDC-Pfizer-Booster-Teens.jpg "FDA and CDC green light Pfizer COVID-19 booster for older teenagers")
+
+
+[FDA and CDC green light Pfizer COVID-19 booster for older teenagers](https://www.slashgear.com/fda-and-cdc-green-light-pfizer-covid-19-booster-for-older-teenagers-09701744/)
+
+
+> Teenagers ages 16 and 17 in the United States are now eligible for the Pfizer COVID-19 booster shot, the US FDA and CDC have announced. The FDA revealed its Emergency Use Authorization (EUA) expansion on December 9, noting that eligible teenagers must have received the primary vaccine doses at least six months prior to getting the booster dose. Tada Images/Shutterstock Booster eligibility expands The FDA authorized Pfizer and Moderna COVID-19 booster shots for adults ages 18 and older last month.
+
+
+***
+![Halo Infinite multiplayer tips to make you a better slayer](https://cdn.slashgear.com/wp-content/uploads/2021/12/Halo-Infinite-season-1-multiplayer.jpg "Halo Infinite multiplayer tips to make you a better slayer")
+
+
+[Halo Infinite multiplayer tips to make you a better slayer](https://www.slashgear.com/halo-infinite-multiplayer-tips-to-make-you-a-better-slayer-09701691/)
+
+
+> Though Halo Infinite‘s campaign launched this week, the game's multiplayer component has been available for a few weeks already. This is the first time Halo multiplayer has ever been free-to-play, which has almost certainly led to an influx of players who are entirely new to the Halo franchise. If this is your first outing with the series, there's a decent chance you've found yourself outgunned by Halo veterans in multiplayer matches. This article will give you a few tips that can instantly make you a better Halo Infinite player.
+
+
+***
+![Canadian-made Zelda-esque Tunic will release on March 16, 2022](https://cdn.mobilesyrup.com/wp-content/uploads/2021/12/tunic.jpeg "Canadian-made Zelda-esque Tunic will release on March 16, 2022")
+
+
+[Canadian-made Zelda-esque Tunic will release on March 16, 2022](https://mobilesyrup.com/2021/12/09/canada-andrew-shouldice-tunic-game-release-date/)
+
+
+> Tunic, the adorable Zelda-inspired action-adventure title from Halifax-based indie developer Andrew Shouldice, finally has a release date. After several years, it was confirmed during The Game Awards that Tunic is set to release on March 16th, 2022 on Xbox consoles, PC and Mac. Be careful out there, little fox. It's a long journey ahead. 🦊 ⚔️ TUNIC releases March 16th, 2022 for PC, Mac, Xbox One & Xbox Series X|S pic.twitter.com/wePhTSEhOB — 🦊 TUNIC 🦊 (@tunicgame) December 10, 2021 The game follows a charming little fox as he explores a world using Zelda-like mechanics.
+
+
+***
+![Chipmaker Broadcom delivers another strong quarter and its stock climbs](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/bro.jpg "Chipmaker Broadcom delivers another strong quarter and its stock climbs")
+
+
+[Chipmaker Broadcom delivers another strong quarter and its stock climbs](https://siliconangle.com/2021/12/09/chipmaker-broadcom-delivers-another-strong-quarter-stock-climbs/)
+
+
+> Computer chipmaker Broadcom Inc. made impressive gains today, its stock up more than 6% in after-hours trading following fourth quarter financial results that beat analysts' targets. It followed that with an outlook for the next quarter that was higher too. The company reported a net profit for the quarter of $1.98 billion. Earnings came to $7.81 per share on revenue of $7.41 billion, up 15% from a year ago. Wall Street had been modeling earnings of just $7.74 per share on revenue of $7.36 billion.
+
+
+***
+![Every Announcement from The Game Awards 2021](https://techraptor.net/sites/default/files/styles/image_header/public/2021-12/The%20Game%20Awards.JPG?itok=cjv80ln- "Every Announcement from The Game Awards 2021")
+
+
+[Every Announcement from The Game Awards 2021](https://techraptor.net/gaming/news/every-announcement-from-game-awards-2021)
+
+
+> The Game Awards 2021 are a combination of pop culture, industry awards, and another place for fans of Video Games to keep an eye out for all the fun new games coming our way. For this piece though we'll be keeping you up to date on all of the announcements that come across the stage. There's been plenty of teasing already that we'll get appearances from Sonic the Hedgehog to many other fan-favorite franchises and we're to expect a few surprises along the way too. We'll be updating this article live so if you're not able to watch then be sure to refresh to stay on top of all of the announcements.
+
+
