@@ -37276,3 +37276,53 @@
 > There are two things that both Bharti Airtel and Vodafone Idea want from the government.Ravinder Takkar, CEO, Vodafone Idea said that the quality of the telecom services need to go up after the tariff hikes.All the private telecom operators in the country had gone for the a 20% to 25% tariff hike recently.Both Bharti Airtel and Vodafone Idea have benefited from the recent tariff hikes and the relief measures announced by the government. But things haven't ended here for the telos. For 5G to become a reality, the telcos need to do more work and get more cash in hand so that they can be ready for more aggressive network investments.
 
 
+***
+![India's Star Health trades flat in debut after tepid IPO](https://apicms.thestar.com.my/uploads/images/2021/12/10/1401197.jpg "India's Star Health trades flat in debut after tepid IPO")
+
+
+[India's Star Health trades flat in debut after tepid IPO](https://www.thestar.com.my/tech/tech-news/2021/12/10/india039s-star-health-trades-flat-in-debut-after-tepid-ipo)
+
+
+> Rakesh Jhunjhunwala, Partner, Rare Enterprises, poses after an interview with Reuters in Mumbai, India November 14, 2017. REUTERS/Shailesh Andrade BENGALURU (Reuters) -India's Star Health and Allied Insurance Co, backed by billionaire stock investor Rakesh Jhunjhunwala, see-sawed in a weak debut on Friday, after failing to attract investor interest in a blockbuster year for domestic listings.Shares of the country's largest private health insurer were down 6% in pre-open trade before reversing course to gain 4.
+
+
+***
+![Analysis-Rohingya lawsuit against Facebook a 'wake-up call' for social media](https://apicms.thestar.com.my/uploads/images/2021/12/10/1401127.jpg "Analysis-Rohingya lawsuit against Facebook a 'wake-up call' for social media")
+
+
+[Analysis-Rohingya lawsuit against Facebook a 'wake-up call' for social media](https://www.thestar.com.my/tech/tech-news/2021/12/10/analysis-rohingya-lawsuit-against-facebook-a-039wake-up-call039-for-social-media)
+
+
+> BANGKOK/LOS ANGELES (Thomson Reuters Foundation) - A landmark lawsuit by Rohingya refugees against Meta Platforms Inc, formerly known as Facebook, is a "wake-up call" for social media firms and a test case for courts to limit their immunity, human rights and legal experts said. The $150 billion class-action complaint, filed in California on Monday by law firms Edelson PC and Fields PLLC, argues that Facebook's failure to police content and its platform's design contributed to violence against the Rohingya community.
+
+
+***
+![Binance weighs crypto venture with richest Indonesian family](https://apicms.thestar.com.my/uploads/images/2021/12/10/1401004.jpg "Binance weighs crypto venture with richest Indonesian family")
+
+
+[Binance weighs crypto venture with richest Indonesian family](https://www.thestar.com.my/tech/tech-news/2021/12/10/binance-weighs-crypto-venture-with-richest-indonesian-family)
+
+
+> Crypto exchange Binance is in talks with Indonesia's richest family to set up a local exchange and push crypto trading in the Southeast Asian country, say sources. — REUTERS Binance Holdings Ltd. is in talks with Indonesia's richest family, the Hartonos, and a state-owned telecom operator to set up a cryptocurrency trading exchange, according to people with knowledge of the matter. The world's largest crypto exchange has been in discussions with PT Bank Central Asia, controlled by sibling billionaires Budi and Michael Hartono, and PT Telkom Indonesia on the venture, the people said, asking not to be named because the matter is private.
+
+
+***
+![Internet guardians want to break web's language barriers](https://apicms.thestar.com.my/uploads/images/2021/12/10/1400965.jpg "Internet guardians want to break web's language barriers")
+
+
+[Internet guardians want to break web's language barriers](https://www.thestar.com.my/tech/tech-news/2021/12/10/internet-guardians-want-to-break-webs-language-barriers)
+
+
+> PARIS: When website addresses using writing systems like Chinese and Arabic were introduced back in 2009, it was hailed as a step that would transform the Internet. But 12 years later, the vast majority of the Web remains wedded to the Roman alphabet – and Icann, the organisation in charge of protecting the Internet's infrastructure, is on a mission to change it. 'The truth of the matter is that even if half the world's population uses the Internet today, it's the elite of the world – mainly those living in cities, mainly those with a good income,' Goran Marby, head of the US-based non-profit, told AFP in an interview.
+
+
+***
+![Russia must act against ransomware, US official says](https://apicms.thestar.com.my/uploads/images/2021/12/10/1400932.jpg "Russia must act against ransomware, US official says")
+
+
+[Russia must act against ransomware, US official says](https://www.thestar.com.my/tech/tech-news/2021/12/10/russia-must-act-against-ransomware-us-official-says)
+
+
+> In ransomware attacks, hackers encrypt a victim's files and then demand payment to unlock them. Reported ransomware payments in the US reached US$590mil (RM2.4bil) in the first half of 2021, according to government figures. — 123rf The Russian government has a "responsibility to act' against ransomware hackers inside its borders, including bringing to justice a Russian hacker accused of launching high-profile cyberattacks against major companies, a senior US official said. "If the Russian government will not take action, we're not going to sit around and be waiting,' Robert Silvers, the under secretary for strategy, policy and plans at the Department of Homeland Security, said in an interview with Bloomberg News.
+
+
