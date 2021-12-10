@@ -37326,3 +37326,53 @@
 > In ransomware attacks, hackers encrypt a victim's files and then demand payment to unlock them. Reported ransomware payments in the US reached US$590mil (RM2.4bil) in the first half of 2021, according to government figures. — 123rf The Russian government has a "responsibility to act' against ransomware hackers inside its borders, including bringing to justice a Russian hacker accused of launching high-profile cyberattacks against major companies, a senior US official said. "If the Russian government will not take action, we're not going to sit around and be waiting,' Robert Silvers, the under secretary for strategy, policy and plans at the Department of Homeland Security, said in an interview with Bloomberg News.
 
 
+***
+![Final Fantasy 7 Remake Intergrade PC release has one big catch](https://cdn.slashgear.com/wp-content/uploads/2021/12/finalfantasy.jpg "Final Fantasy 7 Remake Intergrade PC release has one big catch")
+
+
+[Final Fantasy 7 Remake Intergrade PC release has one big catch](https://www.slashgear.com/final-fantasy-7-remake-intergrade-pc-release-has-one-big-catch-10701931)
+
+
+> Final Fantasy 7 Remake Intergrade PC release has one big catch The Game Awards brought a big announcement that Final Fantasy fans have been waiting a long time for: Square Enix's Final Fantasy 7 Remake is finally coming to other platforms. Specifically, Final Fantasy 7 Remake Intergrade – an enhanced PS5 re-release of the original remake – will be coming to PC later this month. Sadly, there's a rather big catch with this PC release. Square Enix Co., LTD. Final Fantasy 7 Remake Intergrade is an Epic Games Store exclusive That catch is the fact that Final Fantasy 7 Remake Intergrade is going to be an Epic Games Store exclusive, at least at first.
+
+
+***
+![2022 Morgan Plus 8 GTR is a masterpiece that almost didn't happen](https://cdn.slashgear.com/wp-content/uploads/2021/12/foto-morgan-plus-8-gtr-2.jpg "2022 Morgan Plus 8 GTR is a masterpiece that almost didn't happen")
+
+
+[2022 Morgan Plus 8 GTR is a masterpiece that almost didn't happen](https://www.slashgear.com/2022-morgan-plus-8-gtr-is-a-masterpiece-that-almost-didnt-happen-10701846)
+
+
+> 2022 Morgan Plus 8 GTR is a masterpiece that almost didn't happen English automaker Morgan Motor Company has unveiled its most powerful car, the Plus 8 GTR. It's the company's second new car after revealing the Plus Four CX-T a few months back, and there's an exciting story behind it all. You see, Morgan claims the Plus 8 GTR was only made possible after recently finding 'a number of Plus 8 rolling chassis' lying around. Per documentation shared in early February, 2021, this new vehicle was made possible by the 'recent availability of rolling chassis from a discontinued external project.
+
+
+***
+![OPPO's first foldable phone aims to fix what Samsung got wrong](https://cdn.slashgear.com/wp-content/uploads/2021/12/oppo-find-n.jpg "OPPO's first foldable phone aims to fix what Samsung got wrong")
+
+
+[OPPO's first foldable phone aims to fix what Samsung got wrong](https://www.slashgear.com/oppos-first-foldable-phone-aims-to-fix-what-samsung-got-wrong-10701766/)
+
+
+> Foldable phones are no longer novelty items today, especially with Samsung trying to push its products to the mainstream market. Despite assurances of improved durability and lower price tags, there are still some misgivings about the practicality of such a device. OPPO, however, is now claiming that it finally resolved the most glaring issues, which is also why it's coming late to the party. Come next week, it will finally unveil the foldable OPPO Find N, but it will need to have more than words to prove it has really outdone Samsung.
+
+
+***
+![India's Modi says cryptocurrencies should be used to boost democracy, not harm it](https://apicms.thestar.com.my/uploads/images/2021/12/10/1401403.jpg "India's Modi says cryptocurrencies should be used to boost democracy, not harm it")
+
+
+[India's Modi says cryptocurrencies should be used to boost democracy, not harm it](https://www.thestar.com.my/tech/tech-news/2021/12/10/indian-pmcryptocurrencies-should-be-used-to-empower-democracy-not-undermine-it)
+
+
+> FILE PHOTO: A representation of the virtual cryptocurrency Bitcoin is seen in this picture illustration taken October 19, 2021. REUTERS/Edgar Su NEW DELHI (Reuters) - Indian Prime Minister Narendra Modi said on Friday that emerging technologies such as cryptocurrencies should be used to empower democracy, not undermine it.Policymakers in India say unregulated transactions in digital currencies could hurt macroeconomic and financial stability. After initially planning to ban cryptocurrencies, the Modi government is instead considering legislation to regulate their use.
+
+
+***
+![2021 Lexus IS 300 AWD Review](https://cdn.slashgear.com/wp-content/uploads/2021/12/2021_lexus_is_300_awd_01.jpg "2021 Lexus IS 300 AWD Review")
+
+
+[2021 Lexus IS 300 AWD Review](https://www.slashgear.com/2021-lexus-is-300-awd-review-10701780/)
+
+
+> In many ways, the 2021 Lexus IS 300 AWD feels like the automotive equivalent of a time capsule. Though refreshed and restyled, the current-generation IS still dates back to 2014; you'd be forgiven for wondering whether Lexus' most affordable – and second-best-selling – sedan has fallen too far behind. With the big money in SUVs and crossovers right now, Lexus took a targeted approach to polish up the IS' rough edges. For the 2021 model year, the compact luxury sedan got revamped front and rear styling, tweaks to the suspension and chassis, and upgrades inside, primarily to the infotainment system.
+
+
