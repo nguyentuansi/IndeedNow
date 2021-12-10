@@ -37226,3 +37226,53 @@
 > Sorry, Asia, Facebook's metaverse isn't for you yet Sorry, Asia, Facebook's metaverse isn't for you yet Facebook's metaverse future is taking shape as the parent firm opened its Horizon Worlds virtual reality platform on Thursday. Metaverse development is on the rise in Southeast Asia, namely, Thailand, Vietnam, the Philippines, and Singapore. Unfortunately, at the time of writing, Facebook's metaverse is only open to the public in North America. First coined in Neal Stephenson's 1992 sci-fi novel, Snow CrashMetaverse, the term ‘metaverse' has no specific definition as of yet.
 
 
+***
+![Facebook misidentified thousands of political ads: study](https://apicms.thestar.com.my/uploads/images/2021/12/10/1400768.jpg "Facebook misidentified thousands of political ads: study")
+
+
+[Facebook misidentified thousands of political ads: study](https://www.thestar.com.my/tech/tech-news/2021/12/10/facebook-misidentified-thousands-of-political-ads-study)
+
+
+> PARIS: Facebook misidentified tens of thousands of advertisements flagged under its political ads policy, according to a study released Thursday, which warned that the failure could lead to political manipulation. Researchers at Belgium's KU Leuven university and New York University examined 33.8 million Facebook ads that ran on the social media site between July 2020 and February 2021. "This is the first known study to quantify the performance of Facebook's political ad policy enforcement system at a large and representative scale," the team said in a summary of their findings.
+
+
+***
+![Tesla's Musk says he is 'thinking of' quitting his jobs](https://apicms.thestar.com.my/uploads/images/2021/12/10/1400706.jpg "Tesla's Musk says he is 'thinking of' quitting his jobs")
+
+
+[Tesla's Musk says he is 'thinking of' quitting his jobs](https://www.thestar.com.my/tech/tech-news/2021/12/10/tesla039s-musk-says-he-is-039thinking-of039-quitting-his-jobs)
+
+
+> FILE PHOTO: SpaceX owner and Tesla CEO Elon Musk speaks during a conversation with legendary game designer Todd Howard (not pictured) at the E3 gaming convention in Los Angeles, California, U.S., June 13, 2019. REUTERS/Mike Blake/File Photo (Reuters) - Tesla Inc Chief Executive Officer Elon Musk is "thinking of" leaving his jobs and becoming an influencer, the world's richest man tweeted on Thursday."thinking of quitting my jobs & becoming an influencer full-time wdyt," Musk said in the tweet, without elaborating.
+
+
+***
+![Intel CEO to visit Taiwan for talks crucial to turnaround bid](https://apicms.thestar.com.my/uploads/images/2021/12/10/1400621.jpg "Intel CEO to visit Taiwan for talks crucial to turnaround bid")
+
+
+[Intel CEO to visit Taiwan for talks crucial to turnaround bid](https://www.thestar.com.my/tech/tech-news/2021/12/10/intel-ceo-to-visit-taiwan-for-talks-crucial-to-turnaround-bid)
+
+
+> This is Gelsinger's first trip to Asia since taking the top job at Intel earlier this year and comes as he publicly lobbies the US government to allocate money for the country's chip industry to domestic companies only. — Bloomberg Intel Corp chief executive officer Pat Gelsinger will visit Taiwan and Malaysia next week for talks that show how manufacturing in Asia is crucial to his efforts to turn around the fortunes of the world's largest chipmaker by revenue. Gelsinger's trip will include a meeting with leaders of Taiwan Semiconductor Manufacturing Co, according to people familiar with his plans.
+
+
+***
+![Two Turkish nationals kidnapped in Darfur, Sudan rescued in operation](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/12/10/1e3f2141-bjon6x7ds4kx8b6d2w8qln.jpeg "Two Turkish nationals kidnapped in Darfur, Sudan rescued in operation")
+
+
+[Two Turkish nationals kidnapped in Darfur, Sudan rescued in operation](https://www.yenisafak.com/en/news/two-turkish-nationals-kidnapped-in-darfur-sudan-rescued-in-operation-3585831)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
+
+
+***
+![Airtel, Vi Want This From the Government Now](https://telecomtalk.info/wp-content/uploads/2021/12/airtel-vi-want-this-from-the-government.png "Airtel, Vi Want This From the Government Now")
+
+
+[Airtel, Vi Want This From the Government Now](https://telecomtalk.info/airtel-vi-want-this-from-the-government/484461/)
+
+
+> There are two things that both Bharti Airtel and Vodafone Idea want from the government.Ravinder Takkar, CEO, Vodafone Idea said that the quality of the telecom services need to go up after the tariff hikes.All the private telecom operators in the country had gone for the a 20% to 25% tariff hike recently.Both Bharti Airtel and Vodafone Idea have benefited from the recent tariff hikes and the relief measures announced by the government. But things haven't ended here for the telos. For 5G to become a reality, the telcos need to do more work and get more cash in hand so that they can be ready for more aggressive network investments.
+
+
