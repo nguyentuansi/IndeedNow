@@ -37376,3 +37376,13 @@
 > In many ways, the 2021 Lexus IS 300 AWD feels like the automotive equivalent of a time capsule. Though refreshed and restyled, the current-generation IS still dates back to 2014; you'd be forgiven for wondering whether Lexus' most affordable – and second-best-selling – sedan has fallen too far behind. With the big money in SUVs and crossovers right now, Lexus took a targeted approach to polish up the IS' rough edges. For the 2021 model year, the compact luxury sedan got revamped front and rear styling, tweaks to the suspension and chassis, and upgrades inside, primarily to the infotainment system.
 
 
+***
+![Identity Authentication Access Market Set to Hit $28.9B in 2021](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2370149aa096adb9/61b38ac689fca95dc5b45fc0/Tait_211213_Featured_Image.png "Identity Authentication Access Market Set to Hit $28.9B in 2021")
+
+
+[Identity Authentication Access Market Set to Hit $28.9B in 2021](https://www.darkreading.com/omdia/identity-authentication-access-market-set-to-hit-28-9b-in-2021)
+
+
+> The Identity, Authentication, and Access (IAA) market is set to grow by 13.4% in revenues in 2021 reaching $28.9bn, according to Omdia's latest Identity Authentication Access Market Tracker. During 2021, the increasing number of security breaches and attacks has brought into even sharper focus the need for strong identity, authentication, and access technology. Identity has never been more important for cybersecurity than now. In this sense, COVID-19 merely turbocharged a tendency that had been underway for several years, i.
+
+
