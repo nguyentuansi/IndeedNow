@@ -37426,3 +37426,13 @@
 > Netflix has canceled its live-action Cowboy Bebop adaptation less than three weeks after the show premiered. Though early reviews for the series were low, some fans had hoped Netflix would give its latest original a second chance to redeem itself. The streaming service isn't known for keeping shows around for more than a few seasons, however, and it has a history of canceling far more popular originals prematurely. Image: Netflix The live-action Cowboy Bebop adaptation is based on the hit 1998 anime series by the same name.
 
 
+***
+![What's the aurora borealis forecast? An app to track northern lights](https://apicms.thestar.com.my/uploads/images/2021/12/11/1402031.jpeg "What's the aurora borealis forecast? An app to track northern lights")
+
+
+[What's the aurora borealis forecast? An app to track northern lights](https://www.thestar.com.my/tech/tech-news/2021/12/11/what039s-the-aurora-borealis-forecast-an-app-to-track-northern-lights)
+
+
+> The Aurora Borealis seen over Tromsoe, Norway. Those who want to make sure they witness this spectacle in Scandanavia can now use the help of a special app. – dpa So you want to see the northern lights? Experts will often tell you it's best to travel as far north as you can in the dark winter months to get good chances of witnessing this spectacle. And yet even if you head to the northernmost points of Scandinavia or Alaska, there's no guarantee you'll get to see these lights – but there is help.
+
+
