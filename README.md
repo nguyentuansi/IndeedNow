@@ -37386,3 +37386,43 @@
 > The Identity, Authentication, and Access (IAA) market is set to grow by 13.4% in revenues in 2021 reaching $28.9bn, according to Omdia's latest Identity Authentication Access Market Tracker. During 2021, the increasing number of security breaches and attacks has brought into even sharper focus the need for strong identity, authentication, and access technology. Identity has never been more important for cybersecurity than now. In this sense, COVID-19 merely turbocharged a tendency that had been underway for several years, i.
 
 
+***
+![Amazon's The Expanse hit sci-fi show is getting its own Telltale game](https://cdn.slashgear.com/wp-content/uploads/2021/12/amazon-the-expanse-telltale-video-game.jpg "Amazon's The Expanse hit sci-fi show is getting its own Telltale game")
+
+
+[Amazon's The Expanse hit sci-fi show is getting its own Telltale game](https://www.slashgear.com/amazons-the-expanse-hit-sci-fi-show-is-getting-its-own-telltale-game-10702048/)
+
+
+> Telltale Games plans to turn Amazon's hit science fiction series The Expanse into a video game. The announcement was made during Thursday's The Game Awards 2021 show, and it included a one-minute teaser trailer. Players will, Telltale revealed, operate as XO Camina Drummer aboard the Artemis, a spaceship where 'a blood mutiny breaks loose.' Image: Telltale Games Telltale has transformed a number of popular shows into fun story-based video games, not the least of which is the Telltale Series based on The Walking Dead.
+
+
+***
+![TCL pulls Google TVs from sale over software performance issues](https://cdn.slashgear.com/wp-content/uploads/2021/12/tcl-5-series-google-tv.jpg "TCL pulls Google TVs from sale over software performance issues")
+
+
+[TCL pulls Google TVs from sale over software performance issues](https://www.slashgear.com/tcl-pulls-google-tvs-from-sale-over-software-performance-issues-10702007/)
+
+
+> TCL launched its new 5-Series and 6-Series smart television models back in August, all of them made notable by the inclusion of Google TV. These lines, which include 50- to 75-inch models, are sold through Best Buy in the US, joining the similar TCL models running Roku OS. Unfortunately, early buyers were hit with a number of software problems, prompting TCL to pull these models from sale. Image: TCL TCL confirmed the issue with 9to5Google, which first spied user reports claiming slow performance, remote problems, and other annoyances impacting some of the company's 5-Series and 6-Series Google TVs.
+
+
+***
+![Among Us VR gives the wildly popular game a brand new perspective](https://cdn.slashgear.com/wp-content/uploads/2021/12/amongusvr.jpg "Among Us VR gives the wildly popular game a brand new perspective")
+
+
+[Among Us VR gives the wildly popular game a brand new perspective](https://www.slashgear.com/among-us-vr-gives-the-wildly-popular-game-a-brand-new-perspective-10701972/)
+
+
+> One of the biggest surprises during The 2021 Game Awards was the reveal that Among Us is stepping into the realm of virtual reality. Among Us VR was revealed with a brief teaser trailer in the midst of The Game Awards, and though it didn't show very much, most of us probably have a good enough grasp on the original game to imagine what a virtual reality version of the game will be like. Innersloth A whole new reality for Among Us Still, it's nice to have a look at the game, and that's precisely what we got in this short trailer from The Game Awards.
+
+
+***
+![Why Netflix canceled Cowboy Bebop after just one season](https://cdn.slashgear.com/wp-content/uploads/2021/12/cowboybebop.jpg "Why Netflix canceled Cowboy Bebop after just one season")
+
+
+[Why Netflix canceled Cowboy Bebop after just one season](https://www.slashgear.com/why-netflix-canceled-cowboy-bebop-after-just-one-season-10701970/)
+
+
+> Netflix has canceled its live-action Cowboy Bebop adaptation less than three weeks after the show premiered. Though early reviews for the series were low, some fans had hoped Netflix would give its latest original a second chance to redeem itself. The streaming service isn't known for keeping shows around for more than a few seasons, however, and it has a history of canceling far more popular originals prematurely. Image: Netflix The live-action Cowboy Bebop adaptation is based on the hit 1998 anime series by the same name.
+
+
