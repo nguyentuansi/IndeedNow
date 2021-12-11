@@ -37536,3 +37536,23 @@
 > It's time for another Dealmaster. Leading today's roundup of the best tech deals we can find is a new low price on the latest Apple AirPods, as the third-gen model of the popular wireless earbuds is currently down to $140 at Amazon. The full discount should appear at checkout. This price is also available at Costco, though you'll need a Costco membership to take advantage of the deal. Either way, this is $39 off Apple's MSRP and about $30 off the average street price we've seen since the earbuds launched in October.
 
 
+***
+![Scientists Puzzled Over When, How Omicron Emerged](https://www.glamsham.com/wp-content/uploads/2021/12/814375145bdfe333937053574e63fbf9.jpg "Scientists Puzzled Over When, How Omicron Emerged")
+
+
+[Scientists Puzzled Over When, How Omicron Emerged](https://www.glamsham.com/world/technology/scientists-puzzled-over-when-how-omicron-emerged)
+
+
+> London, Dec 11 (IANS) Amid the unprecedented spread of Omicron variant, scientists ponder over several competing theories on the heavily mutated strain's origins, the media reported.The coronavirus variant, which first surfaced in late November, has so far been detected in more than 60 countries, as health officials worldwide try to contain its rapid spread.What was surprising to scientists was that Omicron's genetic traits bore more similarity to forms of the virus circulating last year than more recent strains, such as Beta and Delta, the Financial Times reported.
+
+
+***
+![Tamara Warren – TechCrunch](https://techcrunch.com/wp-content/themes/techcrunch-2017/images/opengraph-default.png "Tamara Warren – TechCrunch")
+
+
+[Tamara Warren – TechCrunch](https://social.techcrunch.com/author/tamara-warren/)
+
+
+> Safety in modern cars is no longer simply a question of engineering. It's a technology and design challenge that is dependent on sensors and software and hinges on a user experience that is clea In late summer, car collectors converged in Monterey, Detroit and, most recently, Oxford, England, in an annual tradition focused on ogling over — and oftentimes bidding for — luxury and h Monterey Car Week wrapped up on Sunday with the return of the Pebble Beach Concours d'Elegance. A black 1938 Mercedes-Benz 540K Autobahn Kurrier took top honors at the show, now in its 70th year Full-size pickup trucks are the meat of the U.
+
+
