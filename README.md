@@ -37496,3 +37496,43 @@
 > Kayleigh Rogers reporting from fivethirtyeight.com has written an interesting article entitled:'Facebook's Algorithm Is Broken. We Collected Some Suggestions On How To Fix It.'Rogers interviewed several computer media experts for their suggestions on how to combat problems with misinformation, fraud and privacy on all Internet websites but focused on Facebook's growing issues The suggestions ranged from 'Facebook can completely revamp its astronomically successful and profitable business plan' to 'Facebook is irredeemable, and should be forced to fail.
 
 
+***
+![Sonic Frontiers targets Breath of the Wild fans with late 2022 release](https://cdn.slashgear.com/wp-content/uploads/2021/12/sonic-frontiers-2022-release.jpg "Sonic Frontiers targets Breath of the Wild fans with late 2022 release")
+
+
+[Sonic Frontiers targets Breath of the Wild fans with late 2022 release](https://www.slashgear.com/sonic-frontiers-targets-breath-of-the-wild-fans-with-late-2022-release-11702105/)
+
+
+> As recent leaks had claimed, Sega is gearing up to release another Sonic the Hedgehog game and it'll be called Sonic Frontiers. The name refers to the nature of the upcoming title, which will be unlike any past installment in the Sonic universe. Put simply, it sure looks like Sega is hoping to draw in Breath of the Wild fans with its next Sonic game. Image: SEGA Sonic Frontiers was introduced alongside a teaser trailer at The Game Awards 2021, giving fans their first look at the next installment in the lengthy Sonic the Hedgehog video game series.
+
+
+***
+![2022 Ford Mach-E gets price hike, plus Silverado EV production details leak](https://cdn.slashgear.com/wp-content/uploads/2021/12/mustang-mach-e-red.jpg "2022 Ford Mach-E gets price hike, plus Silverado EV production details leak")
+
+
+[2022 Ford Mach-E gets price hike, plus Silverado EV production details leak](https://www.slashgear.com/2022-ford-mach-e-gets-price-hike-plus-silverado-ev-production-details-leak-11702082/)
+
+
+> Electric vehicles are extremely hot right now, with automotive manufacturers worldwide moving away from combustion engines towards electricity. Much of the push behind the surge in electric vehicle popularity comes from the US government and other governments worldwide issuing mandates forcing automakers to transition to electric vehicles. A new report surfaced that says the price for the 2022 Mach-E electric vehicle will be increasing compared to the current version. 2022 Ford Mach-E price goes up According to CarsDirect, Ford recently sent a bulletin to dealerships showing that the MSRP of the Mach-E would increase by up to $3000 on some versions of the popular electric vehicle.
+
+
+***
+![Lockpicking lawyer likes a lock](https://i1.wp.com/boingboing.net/wp-content/uploads/2021/12/Screen-Shot-2021-12-11-at-10.57.50-AM.jpg?fit=1182%2C666&ssl=1 "Lockpicking lawyer likes a lock")
+
+
+[Lockpicking lawyer likes a lock](https://boingboing.net/2021/12/11/lockpicking-lawyer-likes-a-lock.html?utm_source=rss&utm_medium=rss&utm_campaign=lockpicking-lawyer-likes-a-lock)
+
+
+> Behold the Easilok deadbolt [Amazon], which the Lockpicking Lawyer describes as "by far the best-made low-security lock I've ever encountered." He still picks it in seconds, but hey.
+
+
+***
+![The weekend's best deals: Apple's newest AirPods, Google's Pixel 5a, and more](https://cdn.arstechnica.net/wp-content/uploads/2021/12/dealmaster121121-760x380.jpg "The weekend's best deals: Apple's newest AirPods, Google's Pixel 5a, and more")
+
+
+[The weekend's best deals: Apple's newest AirPods, Google's Pixel 5a, and more](https://arstechnica.com/staff/2021/12/the-weekends-best-deals-apples-newest-airpods-googles-pixel-5a-and-more/)
+
+
+> It's time for another Dealmaster. Leading today's roundup of the best tech deals we can find is a new low price on the latest Apple AirPods, as the third-gen model of the popular wireless earbuds is currently down to $140 at Amazon. The full discount should appear at checkout. This price is also available at Costco, though you'll need a Costco membership to take advantage of the deal. Either way, this is $39 off Apple's MSRP and about $30 off the average street price we've seen since the earbuds launched in October.
+
+
