@@ -37666,3 +37666,33 @@
 > Calling, SMS, data rollover, and OTT subscriptions are factors to consider while choosing a plan.The customers choosing postpaid plans are slowly increasing, especially after the pandemic.There are three postpaid plans under Rs 1000 for Vi.Major telecom service providers in India like Airtel, Jio, Vodafone Idea (Vi) and BSNL strive to attract postpaid customers by offering a myriad of plans and benefits. One primary consideration while choosing the plan could be streaming services offered besides the data differences.
 
 
+***
+![Indian PM's Twitter hacked again by crypto scammers](https://apicms.thestar.com.my/uploads/images/2021/12/12/1403408.jpg "Indian PM's Twitter hacked again by crypto scammers")
+
+
+[Indian PM's Twitter hacked again by crypto scammers](https://www.thestar.com.my/tech/tech-news/2021/12/12/indian-pms-twitter-hacked-again-by-crypto-scammers)
+
+
+> A swiftly deleted tweet from his main @narendramodi handle said the Indian government had officially bought 500 bitcoin and was 'and distributing them to all residents of the country', along with a scam link. — Photo by Joshua Hoehne on Unsplash NEW DELHI: Indian Prime Minister Narendra Modi's Twitter account was hacked on Dec 12 with a message declaring his country had adopted bitcoin as legal tender and was distributing the cryptocurrency to citizens. Modi is a prolific tweeter and is the world's most popular incumbent politician on the platform, with more than 73 million followers on his main account.
+
+
+***
+![Bill Gates predicts how your health diagnostic will evolve in the near future, thanks to tech](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/conclave-bill-gate-oct25-1_1200x768-original.jpeg "Bill Gates predicts how your health diagnostic will evolve in the near future, thanks to tech")
+
+
+[Bill Gates predicts how your health diagnostic will evolve in the near future, thanks to tech](https://www.indiatoday.in/technology/features/story/bill-gates-predicts-how-your-health-diagnostic-will-evolve-in-the-near-future-thanks-to-tech-1886943-2021-12-12)
+
+
+> Story highlights Bill Gates predicts that the worst of the covid-19 pandemic will have happened in 2022. People will have strong home health diagnostic capabilities at home. Meetings will be customary in the metaverse 2-3 years from now. Bill Gates, the Microsoft co-founder published a blog post titled "Year in Review", with various reflections on the pandemic and some predictions for the near future. Bill Gates's successful predictions include those he made back in 1987 when he said that the world of the 21st century will be full of flat screens.
+
+
+***
+![Tools You Should Know About: direnv : programming](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Tools You Should Know About: direnv : programming")
+
+
+[Tools You Should Know About: direnv : programming](https://www.reddit.com/r/programming/comments/renify/tools_you_should_know_about_direnv)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
