@@ -37636,3 +37636,33 @@
 > Meta, formerly known as Facebook, has rolled out 'Year in Review' features for both Facebook and Instagram. On Facebook, users can share their personalized 'Year Together' card, which highlights the friends, feelings, places and people that mattered most to them in 2021. The new in-feed experience reflects on people's year on the platform and curates it into a shareable card. The new feature is available globally starting today and will be accessible until December 30th. On Instagram, users can share a custom end-of-year 'Playback' time capsule to their IG Story.
 
 
+***
+![Xiaomi announces new battery with 10 per cent bigger capacity, advanced monitoring](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-au7mok02br0m258dgrfuqgmvt0-20200626153129.jpeg "Xiaomi announces new battery with 10 per cent bigger capacity, advanced monitoring")
+
+
+[Xiaomi announces new battery with 10 per cent bigger capacity, advanced monitoring](https://www.asianage.com/technology/in-other-news/121221/xiaomi-announces-new-battery-with-10-per-cent-bigger-capacity-advanced-monitoring.html)
+
+
+> ANI Published : Dec 12, 2021, 11:41 am IST Updated : Dec 12, 2021, 11:41 am IST Xiaomi was able to increase the silicon content inside the battery about 3 times and has resulted in more efficient capacity storage  The new battery will be of the same size and will reportedly be able to fit about 10 per cent more mAh. (Photo: PTI/File) Beijing: Chinese smartphone maker Xiaomi has announced a new battery tech that the research and development team has been working on and it should be available next year.
+
+
+***
+![Xiaomi announces new battery with 10 per cent bigger capacity, advanced monitoring](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4j1h2oas9ctplr1ntgm5l2cis4-20181121112802.Medi.jpeg "Xiaomi announces new battery with 10 per cent bigger capacity, advanced monitoring")
+
+
+[Xiaomi announces new battery with 10 per cent bigger capacity, advanced monitoring](https://www.deccanchronicle.com/technology/in-other-news/121221/xiaomi-announces-new-battery-with-10-per-cent-bigger-capacity-advance.html)
+
+
+> The new battery will be of the same size and will reportedly be able to fit about 10 per cent more mAh. (Photo: PTI/File) Beijing: Chinese smartphone maker Xiaomi has announced a new battery tech that the research and development team has been working on and it should be available next year. As per GSM Arena, the machine-translated Chinese might be a little bit off but from what users gather. Xiaomi was able to increase the silicon content inside the battery about 3 times and has resulted in more efficient capacity storage.
+
+
+***
+![Postpaid Plans Under Rs 1000 With OTT Subscriptions from Airtel, Jio, Vi and BSNL](https://telecomtalk.info/wp-content/uploads/2021/12/postpaid-plans-under-rs-1000-with-ott.jpeg "Postpaid Plans Under Rs 1000 With OTT Subscriptions from Airtel, Jio, Vi and BSNL")
+
+
+[Postpaid Plans Under Rs 1000 With OTT Subscriptions from Airtel, Jio, Vi and BSNL](https://telecomtalk.info/postpaid-plans-under-rs-1000-with-ott/484225/)
+
+
+> Calling, SMS, data rollover, and OTT subscriptions are factors to consider while choosing a plan.The customers choosing postpaid plans are slowly increasing, especially after the pandemic.There are three postpaid plans under Rs 1000 for Vi.Major telecom service providers in India like Airtel, Jio, Vodafone Idea (Vi) and BSNL strive to attract postpaid customers by offering a myriad of plans and benefits. One primary consideration while choosing the plan could be streaming services offered besides the data differences.
+
+
