@@ -37696,3 +37696,43 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
 
 
+***
+![Survey Finds Consumers Prefer PS5 vs Xbox Series X](https://www.playstationlifestyle.net/assets/uploads/2020/05/dualsense-xbox-series-x-controller.jpg "Survey Finds Consumers Prefer PS5 vs Xbox Series X")
+
+
+[Survey Finds Consumers Prefer PS5 vs Xbox Series X](https://www.playstationlifestyle.net/2021/12/12/ps5-vs-xbox-series-x-survey-dfc/)
+
+
+> Market intelligence and analytics firm DFC Intelligence recently conducted a survey to gauge demand for current-gen consoles, and have 'surprisingly' found that despite having no significant hardware differences, consumers lean heavily towards the PlayStation 5 over Xbox Series X.The survey was conducted between October and November, and had nearly 3,000 respondents. The main advantages that consumers think the PS5 has over Xbox Series X are 'graphics and power.' 54 percent of consumers who don't yet own an Xbox Series X said that they probably won't buy Microsoft's console.
+
+
+***
+![Best affordable gaming laptops of 2021](https://cdn.slashgear.com/wp-content/uploads/2021/12/best-affordable-gaming-laptops-of-2021-1.jpg "Best affordable gaming laptops of 2021")
+
+
+[Best affordable gaming laptops of 2021](https://www.slashgear.com/best-affordable-gaming-laptops-of-2021-12702162/)
+
+
+> Gaming laptops have become more affordable over time, enabling consumers to enjoy PC gaming without breaking the bank. Manufacturers do make some trade-offs to keep these machines within a budget, but new graphics hardware has brought the industry to the point where modern games can run well on lower-cost laptops. Avid gamers and students are poised to benefit the most from budget-tier gaming machines as they're often on the move and cannot carry their high-end rigs along. AMD The most powerful gaming laptops still come with a hefty price tag, however, a new gaming market with laptops priced under $1,000 is flourishing.
+
+
+***
+![2022 Infiniti QX50 starts at under $40,000](https://cdn.slashgear.com/wp-content/uploads/2021/12/infiniti-qx50-front.jpg "2022 Infiniti QX50 starts at under $40,000")
+
+
+[2022 Infiniti QX50 starts at under $40,000](https://www.slashgear.com/2022-infiniti-qx50-starts-at-under-40000-12702138/)
+
+
+> Infiniti has confirmed pricing on its 2022 QX50 midsize luxury SUV, which it will offer in five different grades: PURE, LUXE, ESSENTIAL, SENSORY, and AUTOGRAPH. No matter which grade the buyer chooses, front-wheel drive is the standard, and all-wheel drive is optional for an additional $2,000. Apple CarPlay and ProPILOT Assist are standard across all five grades. The entry-level QX50 PURE starts at $39,000. Image: Infiniti QX50 LUXE Infiniti Starting on the QX50 LUXE and higher models, automatic folding heated outside mirrors, four-way driver power lumbar adjustment, and perforated leather seats are standard.
+
+
+***
+![Vietnam car company Vingroup starts work on $174 million EV battery plant](https://apicms.thestar.com.my/uploads/images/2021/12/12/1403495.jpg "Vietnam car company Vingroup starts work on $174 million EV battery plant")
+
+
+[Vietnam car company Vingroup starts work on $174 million EV battery plant](https://www.thestar.com.my/tech/tech-news/2021/12/12/vietnam-car-company-vingroup-starts-work-on-174-million-ev-battery-plant)
+
+
+> FILE PHOTO: The VinFast LUX A2.0 is seen at t is seen during the first press day of the Paris auto show, in Paris, France, October 2, 2018. REUTERS/Benoit Tessier HANOI (Reuters) - Vietnam's biggest conglomerate Vingroup said on Sunday it had started building a $174 million battery cell plant for its VinFast electric vehicles business so the company can own its battery supply chain.VinFast became the country's first fully fledged domestic car manufacturer when its gasoline-powered models built under its own badge hit the streets in 2019.
+
+
