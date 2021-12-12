@@ -37736,3 +37736,13 @@
 > FILE PHOTO: The VinFast LUX A2.0 is seen at t is seen during the first press day of the Paris auto show, in Paris, France, October 2, 2018. REUTERS/Benoit Tessier HANOI (Reuters) - Vietnam's biggest conglomerate Vingroup said on Sunday it had started building a $174 million battery cell plant for its VinFast electric vehicles business so the company can own its battery supply chain.VinFast became the country's first fully fledged domestic car manufacturer when its gasoline-powered models built under its own badge hit the streets in 2019.
 
 
+***
+![UK based Digital Bank Starling Reports Record Investment and Strong Growth Planned by Small Businesses](https://www.crowdfundinsider.com/wp-content/uploads/2018/06/Starling-Bank.jpg "UK based Digital Bank Starling Reports Record Investment and Strong Growth Planned by Small Businesses")
+
+
+[UK based Digital Bank Starling Reports Record Investment and Strong Growth Planned by Small Businesses](https://www.crowdfundinsider.com/2021/12/184111-uk-based-digital-bank-starling-reports-record-investment-and-strong-growth-planned-by-small-businesses)
+
+
+> Two-thirds of the UK's small business leaders (63%) feel 'lonely' in their role, which could prevent their firm from 'reaching its full potential,' according to an update from UK-based digital bank Starling. Of 1,046 business leaders surveyed by Starling Bank, seven in ten (70%) say they 'find it hard to come up with new and innovative ideas on their own, and a similar number (68%) said they want more advice from their peers when it comes to running their business.' Despite these concerns, Britain's SMEs have 'a positive outlook for 2022,' according to Starling Bank's report which further revealed that over two-thirds of those surveyed are 'confident for the year ahead (68%), with the average small business planning revenue growth of 11% next year.
+
+
