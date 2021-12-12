@@ -37556,3 +37556,43 @@
 > Safety in modern cars is no longer simply a question of engineering. It's a technology and design challenge that is dependent on sensors and software and hinges on a user experience that is clea In late summer, car collectors converged in Monterey, Detroit and, most recently, Oxford, England, in an annual tradition focused on ogling over — and oftentimes bidding for — luxury and h Monterey Car Week wrapped up on Sunday with the return of the Pebble Beach Concours d'Elegance. A black 1938 Mercedes-Benz 540K Autobahn Kurrier took top honors at the show, now in its 70th year Full-size pickup trucks are the meat of the U.
 
 
+***
+![Planning a big move? Clutter is offering 50% off a $200 moving credit](https://i1.wp.com/boingboing.net/wp-content/uploads/2021/12/sale_309199_article_image.jpeg?fit=1200%2C800&ssl=1 "Planning a big move? Clutter is offering 50% off a $200 moving credit")
+
+
+[Planning a big move? Clutter is offering 50% off a $200 moving credit](https://boingboing.net/2021/12/11/planning-a-big-move-clutter-is-offering-50-off-a-200-moving-credit.html)
+
+
+> We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. Moving can be stressful and expensive, but it doesn't have to be. With the Get 50% Off A $200 Clutter Moving Credit!, you can sit back, relax and watch someone else do the heavy-lifting while giving your wallet a break at the same time.  Clutter is a crowd favorite when it comes to finding a reliable and affordable moving company, and has a reputation that exceeds its competitors.
+
+
+***
+![Epic Games Store Finally Adds 'Add to Cart' Feature](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/12/epic-games-store-add-to-cart.jpg "Epic Games Store Finally Adds 'Add to Cart' Feature")
+
+
+[Epic Games Store Finally Adds 'Add to Cart' Feature](https://gamerant.com/epic-games-store-add-to-cart-feature-addition/)
+
+
+> Over the past three years since the Epic Games Store launched, the PC gaming platform has emerged as one of the biggest contenders to industry giants like Steam and Origin. The service's backing by the massive Fortnite and Unreal developer has helped the online storefront to compete with established services and even secure exclusive releases of major games like the upcoming PC version of Final Fantasy 7 Remake. Now, a recent quality-of-life update has made the shopping experience more user-friendly for customers looking to buy multiple games at the same time.
+
+
+***
+![Halo Infinite is getting four new playlists on December 14th — including Slayer](https://cdn.vox-cdn.com/thumbor/bqhGf8ULeTvaNmZ46gaJdIolU3I=/0x24:1200x652/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22656157/HaloInfinite_Inline3.jpg "Halo Infinite is getting four new playlists on December 14th — including Slayer")
+
+
+[Halo Infinite is getting four new playlists on December 14th — including Slayer](https://www.theverge.com/2021/12/11/22829744/halo-infinite-playlists-slayer)
+
+
+> Image: Microsoft Halo Infinite is getting Slayer, Free-For-All (FFA), Tactical Slayer (SWAT), and Fiesta playlists, according to a Reddit post from u/ske7ch343, otherwise known as 343 Industries' community director Brian Jarrard (via Windows Central). Jarrard confirmed that the four playlists are coming to the game via an update on December 14th. 343 Industries previously said that Fiesta, SWAT, and FFA playlists would be coming to the game by the end of the year, while a Social Slayer playlist wouldn't arrive until sometime in 2022.
+
+
+***
+![New features, widgets for Google Photos Memories](https://m-cdn.phonearena.com/images/article/137074-wide-two_1200/New-features-widgets-for-Google-Photos-Memories.jpg "New features, widgets for Google Photos Memories")
+
+
+[New features, widgets for Google Photos Memories](https://www.phonearena.com/news/new-features-for-googles-memories_id137074)
+
+
+> Google Photos has a feature called "Memories" which Google defines as a "... collections of some of your best photos and videos whether from previous years or recent weeks." Google often adds some cool effects to these images and one of these is called Cinematic effects. For example, you might see a slow zoom effect or a panning effect in the background that adds 3D to a 2D image.Announced in a new blog post, Google is taking its lauded photo processing capabilities and Memory Learning and will use them to help fill in some missing background details that are behind the subject.
+
+
