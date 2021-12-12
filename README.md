@@ -37596,3 +37596,43 @@
 > Google Photos has a feature called "Memories" which Google defines as a "... collections of some of your best photos and videos whether from previous years or recent weeks." Google often adds some cool effects to these images and one of these is called Cinematic effects. For example, you might see a slow zoom effect or a panning effect in the background that adds 3D to a 2D image.Announced in a new blog post, Google is taking its lauded photo processing capabilities and Memory Learning and will use them to help fill in some missing background details that are behind the subject.
 
 
+***
+![Opinion: Take care that scammers don't spoil holidays](https://apicms.thestar.com.my/uploads/images/2021/12/10/1401319.jpg "Opinion: Take care that scammers don't spoil holidays")
+
+
+[Opinion: Take care that scammers don't spoil holidays](https://www.thestar.com.my/tech/tech-news/2021/12/12/opinion-take-care-that-scammers-don039t-spoil-holidays)
+
+
+> While searching for those perfect gifts this year, make sure your holiday cheer doesn't end with a holiday jeer. During the 2020 holiday shopping season, the FBI's Internet Crime Complaint Centre (IC3.gov) received more than 17,000 reports regarding the non-delivery of goods, amounting to losses of more than US$53mil (RM223mil). With shopping increasingly moving online, customers are increasingly vulnerable to a variety of deceptions that can leave them about as sour as expired eggnog. "Oftentimes when we talk about cybercrimes, we are referring to massive intrusions into financial institutions or ransomware attacks against large providers," said Kieran L.
+
+
+***
+![Opinion: The Internet of stuff – when modern conveniences become inconvenient](https://apicms.thestar.com.my/uploads/images/2021/12/10/1401023.jpg "Opinion: The Internet of stuff – when modern conveniences become inconvenient")
+
+
+[Opinion: The Internet of stuff – when modern conveniences become inconvenient](https://www.thestar.com.my/tech/tech-news/2021/12/12/opinion-the-internet-of-stuff---when-modern-conveniences-become-inconvenient)
+
+
+> The incident at Amazon Web Services mostly affected the eastern US, but it knocked out a surprising amount of services people have come to take for granted or rely on. — Reuters When Amazon cloud computing network services were interrupted this week, the Internet of things was in trouble. Doorbells and security systems, refrigerators and robot vacuum cleaners stop working. Package deliveries were interrupted. Multiple websites and streaming services were affected. Voice assistant Alexa wasn't talking and automated Christmas lights failed to come on.
+
+
+***
+![Ethical hackers: The essential but little-known role of these cybersecurity pros](https://apicms.thestar.com.my/uploads/images/2021/12/10/1401037.jpg "Ethical hackers: The essential but little-known role of these cybersecurity pros")
+
+
+[Ethical hackers: The essential but little-known role of these cybersecurity pros](https://www.thestar.com.my/tech/tech-news/2021/12/12/ethical-hackers-the-essential-but-little-known-role-of-these-cybersecurity-pros)
+
+
+> What is an ethical hacker? At a time when the need for digital security is growing, the role of ethical hackers is becoming crucial. And even if some companies are still reluctant to use them, the employment of these computer security experts has reportedly prevented more than US$27bil (RM113bil) worth of cybercrime in the space of a year. Whether white hat or grey hat, ethical hackers are playing an increasingly important role in cybersecurity. These computer experts are, for the most part, self-taught, trained thanks to resources available on the Internet.
+
+
+***
+![Facebook and Instagram roll out personalized ‘Year in Review' features](http://www.businessghana.com/site/img/../../cms/img/news/2021-12-10-163918000.jpg "Facebook and Instagram roll out personalized ‘Year in Review' features")
+
+
+[Facebook and Instagram roll out personalized ‘Year in Review' features](http://www.businessghana.com/site/news/Technology/252489/Facebook-and-Instagram-roll-out-personalized-%E2%80%98Year-in-Review%E2%80%99-features)
+
+
+> Meta, formerly known as Facebook, has rolled out 'Year in Review' features for both Facebook and Instagram. On Facebook, users can share their personalized 'Year Together' card, which highlights the friends, feelings, places and people that mattered most to them in 2021. The new in-feed experience reflects on people's year on the platform and curates it into a shareable card. The new feature is available globally starting today and will be accessible until December 30th. On Instagram, users can share a custom end-of-year 'Playback' time capsule to their IG Story.
+
+
