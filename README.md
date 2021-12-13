@@ -37816,3 +37816,43 @@
 > Chinese handset maker Vivo on Sunday launched a new smartphone 'Y95' that comes with the all-new Qualcomm Snapdragon 439 processor, at Rs 16,990. The smartphone comes with 'Halo FullView' display and sports 13MP+2MP artificial intelligence (AI)-enabled rear camera and 20MP selfie camera. Vivo has committed to bring the best in product innovation, be it technology, design or pure play smartphone experience. With the launch of the all-new ‘Y95', we bring this promise to a wider consumer set looking for the unbeatable product experience, at an unbeatable price point, Jerome Chen, CMO, Vivo India, said in a statement.
 
 
+***
+![Get your camera ready: one of 2021's best meteor showers is on Dec 14](https://apicms.thestar.com.my/uploads/images/2021/12/13/1404113.jpeg "Get your camera ready: one of 2021's best meteor showers is on Dec 14")
+
+
+[Get your camera ready: one of 2021's best meteor showers is on Dec 14](https://www.thestar.com.my/tech/tech-news/2021/12/13/get-your-camera-ready-one-of-2021039s-best-meteor-showers-is-on-dec-14)
+
+
+> With the Geminids meteor shower is passing Earth, peaking on Dec 14, astrophotography enthusiasts trying to catch it are encouraged to set their SLR cameras to low sensitivity and long exposures for the best image quality. — dpa Photos of shooting stars and meteors can be stunning, but capturing them takes both skill and luck. A golden opportunity to try to achieve that magic shot is coming up soon when the Geminids meteor shower streaks past Earth. The Geminids originate from the rock comet 3200 Phaethon.
+
+
+***
+![Deadly collapse at Amazon warehouse puts spotlight on phone ban](https://apicms.thestar.com.my/uploads/images/2021/12/13/1404203.jpg "Deadly collapse at Amazon warehouse puts spotlight on phone ban")
+
+
+[Deadly collapse at Amazon warehouse puts spotlight on phone ban](https://www.thestar.com.my/tech/tech-news/2021/12/13/deadly-collapse-at-amazon-warehouse-puts-spotlight-on-phone-ban)
+
+
+> Recovery operations continue after the partial collapse of an Amazon Fulfillment Center in Edwardsville, Illinois on Dec 12, 2021. The facility was damaged by a tornado on Dec 10, 2021. The confirmed number of fatalities has been raised from two to six people. — AFP An Amazon.com Inc warehouse collapse on the night of Dec 10 that killed at least six people has amplified concerns among its blue collar workforce about the return of the Internet retailer's mobile phone ban in work areas. The warehouse in Edwardsville, Illinois, near St.
+
+
+***
+![Turkey's automotive production tops 115,000 in November](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/12/13/cd2d9104-7ytangmv9x5byl735tr727.jpeg "Turkey's automotive production tops 115,000 in November")
+
+
+[Turkey's automotive production tops 115,000 in November](https://www.yenisafak.com/en/news/turkeys-automotive-production-tops-115000-in-november-3585985)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyon General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya General
+
+
+***
+![Amazon Prime Available at Offer Price for the Last Time Today](https://telecomtalk.info/wp-content/uploads/2021/12/amazon-prime-available-at-offer-price-for.jpeg "Amazon Prime Available at Offer Price for the Last Time Today")
+
+
+[Amazon Prime Available at Offer Price for the Last Time Today](https://telecomtalk.info/amazon-prime-available-at-offer-price-for/485006/)
+
+
+> Today is the last day that Indian users can get the Amazon Prime subscription on offer prices.With a single Amazon Prime subscription, users get access to Prime Music, Prime Video, Audible, and more.Amazon Prime, one of the most popular e-commerce services is available at offer price for the last time today.Amazon Prime, one of the most popular e-commerce services, is available at an offer price for the last time today. The company is charging the price structure of Amazon Prime in India starting December 14, 2021.
+
+
