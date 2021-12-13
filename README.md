@@ -37946,3 +37946,13 @@
 > To apply Strikethrough, users simply need to write the text by placing a tilde character on each side - ~Text for Strikethrough~.To put a text into italic, users simply need to put an underscore on each side of the text - _Text for Italic_.To make a text bolder, users can simply put an asterisk on each side of the text or the sentence.The social messaging platform WhatsApp still remains one of the most dominating messaging apps in the market even after being challenged by its contemporaries such as Telegram or Signal.
 
 
+***
+![VIQ Solutions Acquires Auscript – A Leading Court Recording and Transcription Services Company](https://mms.businesswire.com/media/20211213005328/en/749168/23/VIQ_Blue_Inline_ClearBG_512_%401x.jpg "VIQ Solutions Acquires Auscript – A Leading Court Recording and Transcription Services Company")
+
+
+[VIQ Solutions Acquires Auscript – A Leading Court Recording and Transcription Services Company](http://www.businesswire.com/news/home/20211213005328/en/VIQ-Solutions-Acquires-Auscript-%E2%80%93-A-Leading-Court-Recording-and-Transcription-Services-Company/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SYDNEY--(BUSINESS WIRE)--VIQ Solutions Inc. ('VIQ' or the 'Company') (TSX and Nasdaq: VQS), a global provider of secure, AI-driven, digital voice and video capture technology and transcription services, today announced the closing of the asset acquisition of Auscript Australasia Pty Ltd ('Auscript') a leading supplier of secure court recording and transcription services for courts and law firms throughout Australia. The combination of Auscript and VIQ is the execution of a strategy and vision that began many years ago.
+
+
