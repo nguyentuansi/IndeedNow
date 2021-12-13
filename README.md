@@ -37856,3 +37856,53 @@
 > Today is the last day that Indian users can get the Amazon Prime subscription on offer prices.With a single Amazon Prime subscription, users get access to Prime Music, Prime Video, Audible, and more.Amazon Prime, one of the most popular e-commerce services is available at offer price for the last time today.Amazon Prime, one of the most popular e-commerce services, is available at an offer price for the last time today. The company is charging the price structure of Amazon Prime in India starting December 14, 2021.
 
 
+***
+![To learn about climate quality, scientists turn to drones](https://apicms.thestar.com.my/uploads/images/2021/12/13/1404719.jpg "To learn about climate quality, scientists turn to drones")
+
+
+[To learn about climate quality, scientists turn to drones](https://www.thestar.com.my/tech/tech-news/2021/12/13/to-learn-about-climate-quality-scientists-turn-to-drones)
+
+
+> A Saildrone Explorer un-crewed surface vehicle, or ocean drone, is prepared for launch at a dock, in Newport, R.I., on Dec 8, 2021. Three of the drones are to be launched on Dec 9, 2021, and are expected to travel along the Gulf Stream, collecting data in tough winter conditions that would be challenging for traditional ships with crews. — Saildrone/AP Three ocean drones were launched from Rhode Island on Dec 9 and will travel along the Gulf Stream, collecting data in tough winter conditions that would be challenging for traditional ships with crews.
+
+
+***
+![Malaysia Space-X 2030 to drive space sector, Mosti deputy minister](https://apicms.thestar.com.my/uploads/images/2021/12/13/1404472.jpg "Malaysia Space-X 2030 to drive space sector, Mosti deputy minister")
+
+
+[Malaysia Space-X 2030 to drive space sector, Mosti deputy minister](https://www.thestar.com.my/tech/tech-news/2021/12/13/malaysia-space-x-2030-to-drive-space-sector-mosti-deputy-minister)
+
+
+> Malaysia to have space industry blueprint drawn up by Mosti, which calls on cooperation between the government and local industry, says deputy minister Datuk Ahmad Amzad Hashim. — fotoBERNAMA The Science, Technology and Innovation Ministry (Mosti) is developing a blueprint called the Malaysia Space Exploration 2030 (Malaysia Space-X 2030) to drive growth and create a sustainable national space sector ecosystem. Its deputy minister, Datuk Ahmad Amzad Hashim said the blueprint outlined a 10-year strategy, in line with the National Space Policy 2030, especially the fourth thrust which outlines efforts to contribute towards the country's economy and prosperity.
+
+
+***
+![Drivers need to feel safe when they charge electric vehicles: How to make that happen](https://apicms.thestar.com.my/uploads/images/2021/12/13/1404511.jpg "Drivers need to feel safe when they charge electric vehicles: How to make that happen")
+
+
+[Drivers need to feel safe when they charge electric vehicles: How to make that happen](https://www.thestar.com.my/tech/tech-news/2021/12/13/drivers-need-to-feel-safe-when-they-charge-electric-vehicles-how-to-make-that-happen)
+
+
+> Would you willingly spend 30 minutes in a deserted parking lot at 11.30pm? Advise your child or loved one to do it? Probably not, but electric vehicle owners frequently face that prospect when they need to charge a vehicle away from home. It's not uncommon for smartphone apps to send drivers to 'public' EV chargers in the back lot of a closed car dealership, an empty corner of a big-box store parking lot, or otherwise tucked out of sight. 'These are less than natural places for people to want to stop on a long drive,' said Gabe Shenhar, Consumer Reports associate director of automotive testing.
+
+
+***
+![Man arrested in Netherlands after coronaviruses offered on Internet](https://apicms.thestar.com.my/uploads/images/2021/12/13/1404460.jpeg "Man arrested in Netherlands after coronaviruses offered on Internet")
+
+
+[Man arrested in Netherlands after coronaviruses offered on Internet](https://www.thestar.com.my/tech/tech-news/2021/12/13/man-arrested-in-netherlands-after-coronaviruses-offered-on-internet)
+
+
+> The newspaper De Telegraaf reported on Dec 10 that a so-called corona kit was offered to be sent by post for €33.50 (RM159.36). — Photo by Martin Sanchez on Unsplash The Dutch financial police have arrested a man who allegedly offered to supply coronaviruses for self-infection on the Internet. The suspect was connected to a corresponding homepage, which has been shut down in the meantime, the anti-fraud unit of the Ministry of Finance (FIOD) reported in The Hague. The newspaper De Telegraaf reported on Dec 10 that a so-called corona kit was offered to be sent by post for €33.
+
+
+***
+![Metaverse riches lure one of South Korea's oldest conglomerates](https://apicms.thestar.com.my/uploads/images/2021/12/13/1404438.jpg "Metaverse riches lure one of South Korea's oldest conglomerates")
+
+
+[Metaverse riches lure one of South Korea's oldest conglomerates](https://www.thestar.com.my/tech/tech-news/2021/12/13/metaverse-riches-lure-one-of-south-koreas-oldest-conglomerates)
+
+
+> SK Square is moving swiftly in a bid to avoid falling behind younger, nimbler competitors: it bought a 35% stake in a crypto exchange last month and one of its affiliates is planning to issue a coin in the first half of next year, Huh said. — AP One of South Korea's biggest conglomerates with roots firmly in traditional industries is taking a leap into the unknown with its next target for growth: the metaverse. SK Square Co, the investment arm of the massive SK Group spun off into its own stock last month, wants every portfolio company to have a metaverse presence, Managing Director Huh Seok-joon, 48, said in an interview.
+
+
