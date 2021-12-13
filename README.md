@@ -37746,3 +37746,43 @@
 > Two-thirds of the UK's small business leaders (63%) feel 'lonely' in their role, which could prevent their firm from 'reaching its full potential,' according to an update from UK-based digital bank Starling. Of 1,046 business leaders surveyed by Starling Bank, seven in ten (70%) say they 'find it hard to come up with new and innovative ideas on their own, and a similar number (68%) said they want more advice from their peers when it comes to running their business.' Despite these concerns, Britain's SMEs have 'a positive outlook for 2022,' according to Starling Bank's report which further revealed that over two-thirds of those surveyed are 'confident for the year ahead (68%), with the average small business planning revenue growth of 11% next year.
 
 
+***
+![The AI that could help prevent accidents between self-driving cars and cyclists](https://apicms.thestar.com.my/uploads/images/2021/12/12/1403364.jpg "The AI that could help prevent accidents between self-driving cars and cyclists")
+
+
+[The AI that could help prevent accidents between self-driving cars and cyclists](https://www.thestar.com.my/tech/tech-news/2021/12/13/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cyclists)
+
+
+> Argo AI is working to ensure that its autonomous vehicles ‘communicate' as effectively as possible with the cyclists they might encounter. — AFP Relaxnews Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists. To achieve this, it will have to learn all the behaviours of these often unpredictable road users. As part of its autonomous driving research, Argo AI has released a set of technical guidelines it is using to ensure that its autonomous cars can operate safely for cyclists.
+
+
+***
+![With the addition of new feature, Google claims to have the quickest Chrome browser](https://2.bp.blogspot.com/-2qaKzXYukdI/XtyZWtQTHpI/AAAAAAAAP5k/CF5qgvBfJMAhJxwobK6BDmT8SNu0S7RjACLcBGAsYHQ/s16000/google-chrome.png "With the addition of new feature, Google claims to have the quickest Chrome browser")
+
+
+[With the addition of new feature, Google claims to have the quickest Chrome browser](https://www.digitalinformationworld.com/2021/12/with-addition-of-new-feature-google.html)
+
+
+> Google updated Chrome 86 in October, and with it, they brought out a new feature called occlusion to all Computer users. A study on the statistics relating to the performance advantages of occlusion was recently published on the Chromium blog.In reality, when contrasted to other browsers, Chrome Browser has always been the fastest. Google can improve the speed of their browser even more by activating occlusion. Chrome has been minimizing resource utilization for several years by lowering the priority of background tabs and reduced Chrome windows.
+
+
+***
+![Australia inks billion-dollar military deal with South Korea](https://content.api.news/v3/images/bin/c6bc10065c9483056a26eb38a3ad2566 "Australia inks billion-dollar military deal with South Korea")
+
+
+[Australia inks billion-dollar military deal with South Korea](https://www.news.com.au/technology/innovation/military/australia-and-south-korea-to-sign-billiondollar-defence-contract/news-story/a994b944f608e2db947faf42d7de6420)
+
+
+> Australia has finalised its biggest ever defence deal with an Asian weapons manufacturer today worth a billion dollars.Australia finalised a $1bn weapons contract with South Korea on Monday, in what forms the nation's largest military contract with an Asian arms manufacturer.The historic deal was inked during South Korean President Moon Jai-in's four-day visit to Australia, which is the first time a world leader has been in the country since the Covid pandemic shut borders.In Canberra on Monday, Prime Minister Scott Morrison and Mr Moon witnessed the signing of the $1bn contract with South Korean defence giant Hanwha to build 30 Self-Propelled Howitzers and 15 Armoured Ammunition Resupply Vehicles in Geelong.
+
+
+***
+![Sunday song: "Fade Into You" by Mazzy Star](https://i2.wp.com/boingboing.net/wp-content/uploads/2021/12/CleanShot-2021-12-10-at-16.24.31@2x.png?fit=1200%2C900&ssl=1 "Sunday song: "Fade Into You" by Mazzy Star")
+
+
+[Sunday song: "Fade Into You" by Mazzy Star](https://boingboing.net/2021/12/12/sunday-song-fade-into-you-by-mazzy-star.html)
+
+
+> The glass armonica, invented by none other than Benjamin Franklin (working with glassblower Charles James), produces ethereal sounds from friction on a series of extremely delicate nested glass bowls, which form a keyboard. Rob Scallon: "Nudge the instrument, glass shatters. Press it too hard, it doesn't play. Press it too soft, it doesn't play. You… READ THE REST
+
+
