@@ -37786,3 +37786,33 @@
 > The glass armonica, invented by none other than Benjamin Franklin (working with glassblower Charles James), produces ethereal sounds from friction on a series of extremely delicate nested glass bowls, which form a keyboard. Rob Scallon: "Nudge the instrument, glass shatters. Press it too hard, it doesn't play. Press it too soft, it doesn't play. You… READ THE REST
 
 
+***
+![Companies rethink return-to-office plans amid Omicron cases](https://apicms.thestar.com.my/uploads/images/2021/12/12/1403415.jpg "Companies rethink return-to-office plans amid Omicron cases")
+
+
+[Companies rethink return-to-office plans amid Omicron cases](https://www.thestar.com.my/tech/tech-news/2021/12/13/companies-rethink-return-to-office-plans-amid-omicron-cases)
+
+
+> NEW YORK: Companies of all sizes are rethinking their plans to send workers back to the office as the new omicron variant adds another layer of uncertainty. Alphabet's Google and the nation's second largest automaker Ford Motor Co are among those once again delaying their return-to-office plans, while other businesses whose employees have already returned are considering adding extra precautions like requiring masks. Officials in the United Kingdom, Denmark, Norway and Sweden also have asked people in recent days to work from home if they can because of concerns about the variant.
+
+
+***
+![Is deleting your emails really all that good for the planet?](https://apicms.thestar.com.my/uploads/images/2021/12/12/1403357.jpg "Is deleting your emails really all that good for the planet?")
+
+
+[Is deleting your emails really all that good for the planet?](https://www.thestar.com.my/tech/tech-news/2021/12/13/is-deleting-your-emails-really-all-that-good-for-the-planet)
+
+
+> Why deleting your emails might not be the eco-friendly habit you think. — AFP Relaxnews When it comes to the environment, some 'good habits' are so ingrained in our daily lives that we no longer question their benefits. But sometimes, some of these actions can lead us to overlook the real problem. One such example is the notion that deleting your emails is good for the planet. You might have gotten into the habit of cleaning up your email inboxes at the end of the week so that you can leave for the weekend with peace of mind.
+
+
+***
+![Vivo unveils new smartphone ‘Y95' at Rs 16,990](https://chennaionline.com/wp-content/uploads/2019/09/favicon.png "Vivo unveils new smartphone ‘Y95' at Rs 16,990")
+
+
+[Vivo unveils new smartphone ‘Y95' at Rs 16,990](https://chennaionline.com/technology/vivo-unveils-new-smartphone-y95-at-rs-16990/)
+
+
+> Chinese handset maker Vivo on Sunday launched a new smartphone 'Y95' that comes with the all-new Qualcomm Snapdragon 439 processor, at Rs 16,990. The smartphone comes with 'Halo FullView' display and sports 13MP+2MP artificial intelligence (AI)-enabled rear camera and 20MP selfie camera. Vivo has committed to bring the best in product innovation, be it technology, design or pure play smartphone experience. With the launch of the all-new ‘Y95', we bring this promise to a wider consumer set looking for the unbeatable product experience, at an unbeatable price point, Jerome Chen, CMO, Vivo India, said in a statement.
+
+
