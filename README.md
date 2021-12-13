@@ -37906,3 +37906,43 @@
 > SK Square is moving swiftly in a bid to avoid falling behind younger, nimbler competitors: it bought a 35% stake in a crypto exchange last month and one of its affiliates is planning to issue a coin in the first half of next year, Huh said. — AP One of South Korea's biggest conglomerates with roots firmly in traditional industries is taking a leap into the unknown with its next target for growth: the metaverse. SK Square Co, the investment arm of the massive SK Group spun off into its own stock last month, wants every portfolio company to have a metaverse presence, Managing Director Huh Seok-joon, 48, said in an interview.
 
 
+***
+![Sony finally reveals new PS5 covers with matching DualSense controllers](https://cdn.slashgear.com/wp-content/uploads/2021/12/playstation5_covers.jpg "Sony finally reveals new PS5 covers with matching DualSense controllers")
+
+
+[Sony finally reveals new PS5 covers with matching DualSense controllers](https://www.slashgear.com/sony-finally-reveals-new-ps5-covers-with-matching-dualsense-controllers-13702252/)
+
+
+> When it was first confirmed that the covers on a PlayStation 5 could be removed (and indeed needed to be removed to clean the console), most of us probably figured that custom PS5 covers were inevitable. While Sony was aggressive in stopping third-parties from selling custom PS5 covers, it didn't reveal covers of its own for the entire first year of PS5's existence. That all changed today, as Sony finally announced a new batch of PS5 covers in a range of colors. Sony Electronics Sony PS5 covers land next year (with controllers too) Today, Sony took to the PlayStation Blog to announce five sets of PS5 covers in Nova Pink, Midnight Black, Cosmic Red, Starlight Blue, and Galactic Purple.
+
+
+***
+![Real tech reasons movie dialogue is so hard to understand now](https://cdn.slashgear.com/wp-content/uploads/2021/12/trinity_matrix.jpg "Real tech reasons movie dialogue is so hard to understand now")
+
+
+[Real tech reasons movie dialogue is so hard to understand now](https://www.slashgear.com/real-tech-reasons-movie-dialogue-is-so-hard-to-understand-now-13702260/)
+
+
+> You're not alone if you've found yourself using subtitles in movies and TV shows at home more now than ever before. It's not just that you're getting older, it's not just because you might not want to max out your volume for fear of waking up sleeping family members or neighbors. There are a set of physical, technological reasons why dialogue in modern movies and shows has taken a back seat in sound design. Warner Bros. Pictures The folks at SlashFilm took a deep look at why movie dialogue has gotten more difficult to understand in recent years.
+
+
+***
+![Alarmed by Tesla's public self-driving test, state legislators demand answers from DMV](https://apicms.thestar.com.my/uploads/images/2021/12/13/1404973.jpg "Alarmed by Tesla's public self-driving test, state legislators demand answers from DMV")
+
+
+[Alarmed by Tesla's public self-driving test, state legislators demand answers from DMV](https://www.thestar.com.my/tech/tech-news/2021/12/13/alarmed-by-teslas-public-self-driving-test-state-legislators-demand-answers-from-dmv)
+
+
+> Tesla is developing driverless cars on California's public roadways using its own customers as test drivers and shrugging off test-reporting requirements – and, so far, the state's Department of Motor Vehicles has been largely content to look the other way. But as drivers participating in the 'beta test' post videos of their cars making potentially disastrous mistakes, state legislators are growing concerned about the danger that the DMV's stance poses to other drivers, pedestrians, cyclists and scooter riders.
+
+
+***
+![WhatsApp Chat – Three Hidden Features Every One Should Know](https://telecomtalk.info/wp-content/uploads/2021/12/whatsapp-chat-three-hidden-feature-every-one.jpg "WhatsApp Chat – Three Hidden Features Every One Should Know")
+
+
+[WhatsApp Chat – Three Hidden Features Every One Should Know](https://telecomtalk.info/whatsapp-chat-three-hidden-feature-every-one/485079/)
+
+
+> To apply Strikethrough, users simply need to write the text by placing a tilde character on each side - ~Text for Strikethrough~.To put a text into italic, users simply need to put an underscore on each side of the text - _Text for Italic_.To make a text bolder, users can simply put an asterisk on each side of the text or the sentence.The social messaging platform WhatsApp still remains one of the most dominating messaging apps in the market even after being challenged by its contemporaries such as Telegram or Signal.
+
+
