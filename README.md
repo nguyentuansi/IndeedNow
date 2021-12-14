@@ -38096,3 +38096,43 @@
 > WhatsApp has also been working to bolster user privacy by introducing an option to make its disappearing messaging feature the default. (PTI Photo) Washington: WhatsApp is rolling out a new privacy update that will hide the last seen status from people you don't know or haven't chatted with in the app. Previously, WhatsApp set the feature on "Everyone" by default, allowing anyone on WhatsApp to see your status. According to The Verge, WhatsApp's new update limits the visibility of your status to the people you've added on the platform and sets the feature to "My Contacts" by default instead.
 
 
+***
+![OPPO Air Glass delivers alternative to AR with ‘assisted reality'](https://cdn.slashgear.com/wp-content/uploads/2021/12/OPPO-Air-Glass-teleprompter.jpg "OPPO Air Glass delivers alternative to AR with ‘assisted reality'")
+
+
+[OPPO Air Glass delivers alternative to AR with ‘assisted reality'](https://www.slashgear.com/oppo-air-glass-delivers-alternative-to-ar-with-assisted-reality-14702486)
+
+
+> OPPO Air Glass delivers alternative to AR with ‘assisted reality' Today at INNO Day 2021, OPPO revealed Air Glass, a new 'assisted reality' wearable that isn't quite like the AR (augmented reality) glasses of the past. While our minds will likely jump to Google Glass or maybe even the Magic Leap One when talking about augmented reality headsets, the OPPO Air Glass looks quite a bit different from both of those products. For starters, OPPO Air Glass uses a detachable monocle design, but beyond that, it also seems to narrow the focus of AR glasses with a straightforward heads-up display and a small but useful collection of apps.
+
+
+***
+![Apple foldable phone potential pushed to distant future](https://cdn.slashgear.com/wp-content/uploads/2021/12/tcl-foldable-concepts-march-2020-08.jpg "Apple foldable phone potential pushed to distant future")
+
+
+[Apple foldable phone potential pushed to distant future](https://www.slashgear.com/apple-foldable-phone-potential-pushed-to-distant-future-14702450/)
+
+
+> Like it or not, there will come a time when almost every phone brand will have a foldable phone in its catalog. That will eventually include Apple, too, if market analysts and anonymous sources are to be believed. If you're excitedly waiting for a foldable iPhone or iPad next year, however, you might want to get less excited for the time being. While it will eventually happen, it seems that sources have started to push back that inevitable date to something beyond two years from now. Photo by SlashGear The idea of a foldable phone or tablet is arguably enticing.
+
+
+***
+![Gogoro smart city meters give old battery packs a second life](https://cdn.slashgear.com/wp-content/uploads/2021/12/Gogoro_Swap_Battery_L.jpg "Gogoro smart city meters give old battery packs a second life")
+
+
+[Gogoro smart city meters give old battery packs a second life](https://www.slashgear.com/gogoro-smart-city-meters-give-old-battery-packs-a-second-life-14702488/)
+
+
+> Gogoro has revealed a new use for it swappable batteries, but this time the portable power packs aren't on the move – or, for that matter, slotting into anything with wheels. Instead, the company has co-developed a new smart parking meter which can be powered by the battery packs, allowing them to be installed in off-grid locations but still stay connected to urban infrastructure. The technology was built with Shengming Technology, and the new meters are already being deployed in New Taipei City, Taiwan.
+
+
+***
+![BSNL Rs 399 Prepaid Plan Against Similar Plans from Airtel, Vi and Jio](https://telecomtalk.info/wp-content/uploads/2021/12/bsnl-rs-399-prepaid-plan-with-80.jpeg "BSNL Rs 399 Prepaid Plan Against Similar Plans from Airtel, Vi and Jio")
+
+
+[BSNL Rs 399 Prepaid Plan Against Similar Plans from Airtel, Vi and Jio](https://telecomtalk.info/bsnl-rs-399-prepaid-plan-with-80/485098/)
+
+
+> BSNL is slated to launch its 4G networks by mid-2022.Airtel Rs 359 plan offers 2GB of data per day, unlimited calls and 100 SMS per day for 28 days.Vi prepaid plan at Rs 399 offers 1.5GB of data per day, unlimited calls, and 100 text messages per day, all for 42 days.The government-owned Bharat Sanchar Nigam Limited (BSNL) has several prepaid plans with attractive benefits, call minutes and validity. One such that targets subscribers looking for a longer tenure of validity and free calls than data speed is its Rs 399 prepaid plan.
+
+
