@@ -37956,3 +37956,53 @@
 > SYDNEY--(BUSINESS WIRE)--VIQ Solutions Inc. ('VIQ' or the 'Company') (TSX and Nasdaq: VQS), a global provider of secure, AI-driven, digital voice and video capture technology and transcription services, today announced the closing of the asset acquisition of Auscript Australasia Pty Ltd ('Auscript') a leading supplier of secure court recording and transcription services for courts and law firms throughout Australia. The combination of Auscript and VIQ is the execution of a strategy and vision that began many years ago.
 
 
+***
+![Apple's new Tracker Detect app helps Android users find hidden AirTags](https://cdn.slashgear.com/wp-content/uploads/2021/12/apple-airtag-tracker-detect-android-app.jpg "Apple's new Tracker Detect app helps Android users find hidden AirTags")
+
+
+[Apple's new Tracker Detect app helps Android users find hidden AirTags](https://www.slashgear.com/apples-new-tracker-detect-app-helps-android-users-find-hidden-airtags-13702343/)
+
+
+> Apple has released a new app that enables Android users to determine whether someone may be tracking them using an AirTag or similar compatible trackers from other companies. Called Tracker Detect, the free app scans the user's immediate area for signs of a compatible tracker that isn't near its owner, potentially highlighting a personal safety issue. AirTag is Apple's alternative to similar tracking products from companies like Tile. With this small circular device, consumers can use their iPhone to keep track of their backpack, laptop, and any other objects on which an AirTag is placed.
+
+
+***
+![Deep-brain stimulation leads to milestone discovery about memories](https://cdn.slashgear.com/wp-content/uploads/2021/12/brain-neurons.jpg "Deep-brain stimulation leads to milestone discovery about memories")
+
+
+[Deep-brain stimulation leads to milestone discovery about memories](https://www.slashgear.com/deep-brain-stimulation-leads-to-milestone-discovery-about-memories-13702249/)
+
+
+> Researchers from UT Southwestern made a discovery that holds the potential to help improve treatment for people with diseases such as Alzheimer's, schizophrenia, and those suffering from traumatic brain injury. During the research, the team identified characteristics of over 100 memory-sensitive neurons they believe play a role in how the brain recalls memories. Researcher Bradley Lega, M.D., believes the discovery could lead to new deep brain stimulation therapies for various brain injuries and diseases.
+
+
+***
+![You can easily block text messages on iPhone: Here's how](https://cdn.slashgear.com/wp-content/uploads/2021/12/iMessage-shutterstock-header.jpg "You can easily block text messages on iPhone: Here's how")
+
+
+[You can easily block text messages on iPhone: Here's how](https://www.slashgear.com/you-can-easily-block-text-messages-on-iphone-heres-how-13702318/)
+
+
+> Whether you're looking to dodge spam or just cut the unsavory people out of your life, there will probably come a point where you'll want to block text messages from someone. If you're using an iPhone, the process of blocking text messages is pretty straightforward. This is true regardless of whether you're looking to block a specific person or if you're trying to go for a more 'scorched Earth' approach, and we'll tell you how both methods work here. Dedi Grigoroiu/Shutterstock How to block text messages from an individual On iPhone, the process of blocking messages from a specific user or phone number is straightforward.
+
+
+***
+![Why NASA's Mars astronauts may need to sleep in suction bags](https://cdn.slashgear.com/wp-content/uploads/2021/12/suctionbag.jpg "Why NASA's Mars astronauts may need to sleep in suction bags")
+
+
+[Why NASA's Mars astronauts may need to sleep in suction bags](https://www.slashgear.com/why-nasas-mars-astronauts-may-need-to-sleep-in-suction-bags-13702301)
+
+
+> Why NASA's Mars astronauts may need to sleep in suction bags A new study from UT Southwestern Medical Center sheds light on an eye condition that impacts astronauts in space, as well as a unique 'sleeping bag' that uses suction technology to mitigate the problem. The innovation, which resembles a cone-shaped machine, is designed to pull fluid away from an astronaut's head when they sleep, preventing fluid from damaging eye structures. UT Southwestern Medical Center The problem Space is hard on the body, which is why NASA and a number of other entities have spent substantial amounts of time and effort to better understand the effects (via USRA).
+
+
+***
+![Google Play Games on Windows spells trouble for Amazon](https://cdn.slashgear.com/wp-content/uploads/2021/12/androidguy_slashgear-googleio2.jpg "Google Play Games on Windows spells trouble for Amazon")
+
+
+[Google Play Games on Windows spells trouble for Amazon](https://www.slashgear.com/google-play-games-on-windows-spells-trouble-for-amazon-13702186/)
+
+
+> Even before Microsoft and Amazon announced their partnership to bring Android apps to Windows 11, creators have been working on ways to bridge the platforms. There are generic virtual machines, for example, but there are also more dedicated apps and services that try to simplify the process of installing and running Android apps on Windows. The most prominent of those products is perhaps BlueStacks, a service more geared toward games than every other sort of Android app. Google might be making that business obsolete next year when it brings Google Play Games, and therefore Android games, officially to Windows.
+
+
