@@ -38066,3 +38066,33 @@
 > Women wearing face masks walk past the offices of Chinese e-commerce firm Alibaba in Beijing, on Dec 13, 2021. An employee of Chinese e-commerce giant Alibaba who was fired after she went public with a sexual assault allegation told a local newspaper that published Dec 11, 2021, that she is not encouraging other victims in China to come forward because doing so ‘will only cause them to suffer more hurt'. — AP HONG KONG: An employee of Chinese e-commerce giant Alibaba who was fired after she went public with a sexual assault allegation says she is not encouraging other victims in China to come forward because doing so 'will only cause them to suffer more hurt'.
 
 
+***
+![Inside the race to fix a potentially disastrous software flaw](https://apicms.thestar.com.my/uploads/images/2021/12/14/1406085.jpeg "Inside the race to fix a potentially disastrous software flaw")
+
+
+[Inside the race to fix a potentially disastrous software flaw](https://www.thestar.com.my/tech/tech-news/2021/12/14/inside-the-race-to-fix-a-potentially-disastrous-software-flaw)
+
+
+> At 2.51pm on Nov 24, members of an open-source software project received an alarming email. The contents threatened to undermine years of programming by a small group of volunteers and unleash massive cyberattacks across the globe. 'I want to report a security bug,' wrote Chen Zhaojun, an employee on Alibaba Group Holding Ltd's cloud-security team, adding 'the vulnerability has a major impact'. The message went on to describe how a hacker could take advantage of Log4j, a widely used software tool, to achieve what's known as remote code execution, a hackers' dream because they can remotely take over a computer.
+
+
+***
+![As Kenya binges on easy credit, public shaming follows](https://apicms.thestar.com.my/uploads/images/2021/12/14/1405972.jpg "As Kenya binges on easy credit, public shaming follows")
+
+
+[As Kenya binges on easy credit, public shaming follows](https://www.thestar.com.my/tech/tech-news/2021/12/14/as-kenya-binges-on-easy-credit-public-shaming-follows)
+
+
+> A man holds his smartphone with different types of mobile loan lending services displayed on his screen in Nairobi, Kenya. A surge in digital lending has seen thousands of people swipe their way into debt via high-interest loans like the one taken by Kilonzo. But although the apps promise quick and discreet cash to the unbanked, failure to repay usually results in public humiliation. — AFP NAIROBI: It only took Kenyan security guard Ambrose Kilonzo a few seconds and zero-collateral to secure a loan from a mobile app.
+
+
+***
+![WhatsApp will hide 'last seen' status from strangers by default](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-liq2jpbp0j2q8jchgqa8tn9e82-20210624162756.Medi.jpeg "WhatsApp will hide 'last seen' status from strangers by default")
+
+
+[WhatsApp will hide 'last seen' status from strangers by default](http://www.deccanchronicle.com/technology/in-other-news/141221/whatsapp-will-hide-last-seen-status-from-strangers-by-default.html)
+
+
+> WhatsApp has also been working to bolster user privacy by introducing an option to make its disappearing messaging feature the default. (PTI Photo) Washington: WhatsApp is rolling out a new privacy update that will hide the last seen status from people you don't know or haven't chatted with in the app. Previously, WhatsApp set the feature on "Everyone" by default, allowing anyone on WhatsApp to see your status. According to The Verge, WhatsApp's new update limits the visibility of your status to the people you've added on the platform and sets the feature to "My Contacts" by default instead.
+
+
