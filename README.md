@@ -38006,3 +38006,33 @@
 > Even before Microsoft and Amazon announced their partnership to bring Android apps to Windows 11, creators have been working on ways to bridge the platforms. There are generic virtual machines, for example, but there are also more dedicated apps and services that try to simplify the process of installing and running Android apps on Windows. The most prominent of those products is perhaps BlueStacks, a service more geared toward games than every other sort of Android app. Google might be making that business obsolete next year when it brings Google Play Games, and therefore Android games, officially to Windows.
 
 
+***
+![Ryanair's Twitter jab mocks Boris Johnson's Christmas party](https://apicms.thestar.com.my/uploads/images/2021/12/14/1405599.jpg "Ryanair's Twitter jab mocks Boris Johnson's Christmas party")
+
+
+[Ryanair's Twitter jab mocks Boris Johnson's Christmas party](https://www.thestar.com.my/tech/tech-news/2021/12/14/ryanairs-twitter-jab-mocks-boris-johnsons-christmas-party)
+
+
+> The discount carrier's social-media team on Dec 13 tweeted an image that listed mock government responses to coronavirus alert levels, ranging from ‘Small gathering with wine and cheese' to ‘Full on rave'. — Reuters Ryanair Holdings Plc dove headlong into the controversy over illicit government parties, ripping UK Prime Minister Boris Johnson and his Cabinet in a Twitter post over the alleged flouting of social-distancing rules. The discount carrier's social-media team on Dec 13 tweeted an image that listed mock government responses to coronavirus alert levels, ranging from 'Small gathering with wine and cheese' to 'Full on rave'.
+
+
+***
+![Amazon rethinks warehouse cellphone ban in wake of tornado](https://apicms.thestar.com.my/uploads/images/2021/12/14/1405593.jpg "Amazon rethinks warehouse cellphone ban in wake of tornado")
+
+
+[Amazon rethinks warehouse cellphone ban in wake of tornado](https://www.thestar.com.my/tech/tech-news/2021/12/14/amazon-rethinks-warehouse-cellphone-ban-in-wake-of-tornado)
+
+
+> A handout satelite image shows an overview of an Amazon warehouse after tornadoes hit the region in Edwardsville, Illinois. An Amazon spokeswoman said company policy currently allows all Amazon employees and delivery drivers to have access to their phones during their shifts. But several workers in different states told Bloomberg their managers had already resumed the ban. — AFP/Satellite image ©2021 Maxar Technologies Amazon.com Inc is reconsidering plans to revive a ban on cellphones in its warehouses amid the emergence of a new strain of Covid-19 and after six workers died at a facility struck by a tornado last week.
+
+
+***
+![Australia Dollar Technical Analysis: AUD/USD, EUR/AUD. Will Momentum Resume?](https://a.c-dn.net/b/1p5Tkr/headline_shutterstock_215506225.jpg "Australia Dollar Technical Analysis: AUD/USD, EUR/AUD. Will Momentum Resume?")
+
+
+[Australia Dollar Technical Analysis: AUD/USD, EUR/AUD. Will Momentum Resume?](https://www.dailyfx.com/forex/technical/article/special_report/2021/12/14/Australia-Dollar-Technical-Analysis-AUDUSD-EURAUD.-Will-Momentum-Resume.html)
+
+
+> AUD/USD has steadied after a weakening period as it consolidatesEUR/AUD has moved back to the middle of a broad range after testing the highAUD has mixed momentum for now. Will a trend emerge in AUD/USD or EUR/AUD?AUD/USD accelerated toward the November low of 0.69913, but the move was rejected. That tick down saw a close below the lower band of the 21-day simple moving average (SMA) based Bollinger Band. The next day saw a close above that lower band, which then saw a rally unfold.From there, AUD/USD appears to have established a short-term range between the recent low and high of 0.
+
+
