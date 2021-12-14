@@ -38036,3 +38036,33 @@
 > AUD/USD has steadied after a weakening period as it consolidatesEUR/AUD has moved back to the middle of a broad range after testing the highAUD has mixed momentum for now. Will a trend emerge in AUD/USD or EUR/AUD?AUD/USD accelerated toward the November low of 0.69913, but the move was rejected. That tick down saw a close below the lower band of the 21-day simple moving average (SMA) based Bollinger Band. The next day saw a close above that lower band, which then saw a rally unfold.From there, AUD/USD appears to have established a short-term range between the recent low and high of 0.
 
 
+***
+![OnePlus Nord CE 2 may launch in India soon](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-ji25k12rsth3gg17dnlqh33k30-20211214130959.jpeg "OnePlus Nord CE 2 may launch in India soon")
+
+
+[OnePlus Nord CE 2 may launch in India soon](https://www.asianage.com/technology/mobiles-tabs/141221/oneplus-nord-ce-2-may-launch-in-india-soon.html)
+
+
+> ANI Published : Dec 14, 2021, 1:13 pm IST Updated : Dec 14, 2021, 1:13 pm IST As per 91mobiles, the handset might get unveiled around January or February 2022 in India  OnePlus logo. (Photo: ANI) Shenzhen: OnePlus will soon add a new member to its mid-range Nord series in India. OnePlus Nord CE 5G was announced in June this year, and you can expect the successor to launch early next year. As per 91mobiles, the handset might get unveiled around January or February 2022 in India, with a Dimensity 900 SoC replacing the Snapdragon 750G found in the predecessor.
+
+
+***
+![Weibo fined by Chinese regulator for publishing illegal information](https://apicms.thestar.com.my/uploads/images/2021/12/14/1405638.jpeg "Weibo fined by Chinese regulator for publishing illegal information")
+
+
+[Weibo fined by Chinese regulator for publishing illegal information](https://www.thestar.com.my/tech/tech-news/2021/12/14/weibo-fined-by-chinese-regulator-for-publishing-illegal-information)
+
+
+> Weibo, which operates a platform similar to Twitter, has been ordered to ‘immediately rectify and deal with relevant responsible persons seriously', the CAC said in a statement. — Reuters SHANGHAI: Chinese social media platform Weibo Corp has been slapped with a 3mil yuan (RM1.99mil) fine by China's Internet regulator for repeatedly publishing illegal information. The Cyberspace Administration of China (CAC) said Weibo had violated a cybersecurity law on the protection of minors as well as other laws but did not give further details.
+
+
+***
+![Ex-Alibaba employee warns going public causes victims ‘hurt'](https://apicms.thestar.com.my/uploads/images/2021/12/14/1405604.jpg "Ex-Alibaba employee warns going public causes victims ‘hurt'")
+
+
+[Ex-Alibaba employee warns going public causes victims ‘hurt'](https://www.thestar.com.my/tech/tech-news/2021/12/14/ex-alibaba-employee-warns-going-public-causes-victims-hurt)
+
+
+> Women wearing face masks walk past the offices of Chinese e-commerce firm Alibaba in Beijing, on Dec 13, 2021. An employee of Chinese e-commerce giant Alibaba who was fired after she went public with a sexual assault allegation told a local newspaper that published Dec 11, 2021, that she is not encouraging other victims in China to come forward because doing so ‘will only cause them to suffer more hurt'. — AP HONG KONG: An employee of Chinese e-commerce giant Alibaba who was fired after she went public with a sexual assault allegation says she is not encouraging other victims in China to come forward because doing so 'will only cause them to suffer more hurt'.
+
+
