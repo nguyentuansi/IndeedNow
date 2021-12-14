@@ -38136,3 +38136,23 @@
 > BSNL is slated to launch its 4G networks by mid-2022.Airtel Rs 359 plan offers 2GB of data per day, unlimited calls and 100 SMS per day for 28 days.Vi prepaid plan at Rs 399 offers 1.5GB of data per day, unlimited calls, and 100 text messages per day, all for 42 days.The government-owned Bharat Sanchar Nigam Limited (BSNL) has several prepaid plans with attractive benefits, call minutes and validity. One such that targets subscribers looking for a longer tenure of validity and free calls than data speed is its Rs 399 prepaid plan.
 
 
+***
+![Uber looks to sell Didi, other non-strategic stakes](https://apicms.thestar.com.my/uploads/images/2021/12/15/1406707.jpg "Uber looks to sell Didi, other non-strategic stakes")
+
+
+[Uber looks to sell Didi, other non-strategic stakes](https://www.thestar.com.my/tech/tech-news/2021/12/15/uber-looks-to-sell-didi-other-non-strategic-stakes---uber-ceo-at-ubs-conference)
+
+
+> FILE PHOTO: The logo for Uber Technologies is seen on a vehicle in Manhattan, New York City, New York, U.S., November 17, 2021. REUTERS/Andrew Kelly/File Photo
+
+
+***
+![LG Energy Solution joins Siemens on smart factory technologies](https://img.dtnext.in/Articles/2021/Dec/202112142249556308_LG-Energy-Solution-joins-Siemens-on-smart-factory_SECVPF.gif "LG Energy Solution joins Siemens on smart factory technologies")
+
+
+[LG Energy Solution joins Siemens on smart factory technologies](https://www.dtnext.in/Lifestyle/Technology/2021/12/14224956/1333889/LG-Energy-Solution-joins-Siemens-on-smart-factory-.vpf)
+
+
+> South Korean battery maker LG Energy Solution said on Tuesday it has signed a deal with Siemens Korea to work together to turn its battery plants into smart factories to upgrade the manufacturing process. Seoul: Under the memorandum of understanding, LG Energy Solution will adopt the German industrial solutions provider's software and other technologies to build an "intelligent manufacturing system," LG said in a statement. Intelligent manufacturing, or smart manufacturing, refers to a system equipped to optimize production and enable quality and process control for products using advanced information technologies, such as data analysis and machine learning.
+
+
