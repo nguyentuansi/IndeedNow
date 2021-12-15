@@ -38286,3 +38286,53 @@
 > Prosecutors alleged that Kail accepted more than US$500,000 (RM2.11mil) in kickbacks – as well as valuable stock options – in exchange for approving millions of dollars in contracts for nine tech companies seeking to do business with Netflix between February 2012 and July 2014. — AFP SAN JOSE, California: A former Netflix executive was sentenced Dec 14 to 2 1/2 years in federal prison for taking bribes and kickbacks from tech companies to approve lucrative contracts with the streaming giant. Michael Kail, 52, of Los Gatos also was ordered to forfeit US$700,000 (RM2.
 
 
+***
+![Mitto tells clients that co-founder departed after allegations of phone spying](https://apicms.thestar.com.my/uploads/images/2021/12/15/1407690.jpg "Mitto tells clients that co-founder departed after allegations of phone spying")
+
+
+[Mitto tells clients that co-founder departed after allegations of phone spying](https://www.thestar.com.my/tech/tech-news/2021/12/15/mitto-tells-clients-that-co-founder-departed-after-allegations-of-phone-spying)
+
+
+> Representatives of Mitto AG have told clients that co-founder and chief operating officer Ilja Gorelik is no longer involved at the company, following allegations that he operated a secret surveillance service that helped governments track mobile phones, according to three people familiar with the matter. Mitto, a closely held company with headquarters in Zug, Switzerland, works with telecom operators in more than 100 countries to provide automated text messaging services to some of the world's largest technology companies, including Google, Twitter and WhatsApp, helping them deliver security codes users need to log in to online accounts.
+
+
+***
+![Smash-and-grab robbery rings organise on social media, California attorney general says](https://apicms.thestar.com.my/uploads/images/2021/12/15/1407621.jpg "Smash-and-grab robbery rings organise on social media, California attorney general says")
+
+
+[Smash-and-grab robbery rings organise on social media, California attorney general says](https://www.thestar.com.my/tech/tech-news/2021/12/15/smash-and-grab-robbery-rings-organise-on-social-media-california-attorney-general-says)
+
+
+> It looked like chaos when groups of young people dashed from cars into the Louis Vuitton store in San Francisco's Union Square and ran off with luxury purses, bags, and designer wear. A few days later, about 80 people stormed through a Walnut Creek mall, stealing expensive items before fleeing. At LA's Grove shopping mall not long after, a smaller group used sledgehammers on a Nordstrom. But California Attorney General Rob Bonta said the group crimes are rooted in a kind of organised crime. Those dashing into the stores are mostly foot soldiers for others calling the shots from a safe distance.
+
+
+***
+![Tesla sued by more women alleging sexual harassment at plant](https://apicms.thestar.com.my/uploads/images/2021/12/15/1407428.jpg "Tesla sued by more women alleging sexual harassment at plant")
+
+
+[Tesla sued by more women alleging sexual harassment at plant](https://www.thestar.com.my/tech/tech-news/2021/12/15/tesla-sued-by-more-women-alleging-sexual-harassment-at-plant)
+
+
+> The complaints detail harassment from male colleagues and supervisors as well as a lack of response from Tesla when the claims were reported internally. — AFP Tesla Inc's factory in Fremont, California, is more like a crude frat house than a facility owned by a cutting-edge company in the heart of a progressive region, six women who are current and former employees claimed in the latest barrage of lawsuits to hit Tesla over alleged sexual harassment. 'Although Tesla publicly claims that it fosters a safe and respectful environment for its workers, the truth is that for years Tesla has subjected women working in its Fremont factory facilities to nightmarish conditions of rampant sexual harassment,' according to the opening paragraph in each of the complaints filed Tuesday in Alameda County Superior Court.
+
+
+***
+![Jail for SG man who shared obscene pictures with 25,000 members of Telegram group linked to website Sammyboy](https://apicms.thestar.com.my/uploads/images/2021/12/15/1407350.jpg "Jail for SG man who shared obscene pictures with 25,000 members of Telegram group linked to website Sammyboy")
+
+
+[Jail for SG man who shared obscene pictures with 25,000 members of Telegram group linked to website Sammyboy](https://www.thestar.com.my/tech/tech-news/2021/12/15/jail-for-sg-man-who-shared-obscene-pictures-with-25000-members-of-telegram-group-linked-to-website-sammyboy)
+
+
+> DPP Chin said at least two Telegram chat groups were linked to the website, including the one Fernandez was involved in. — Bloomberg SINGAPORE: Four men involved in a Telegram group linked to a notorious website that facilitates the sharing of lewd videos and images were arrested by police, with one of them slapped with a prison sentence on Wednesday (Dec 15). Lincoln Anthony Fernandez was sentenced to eight weeks' jail and a fine of S$20,000 (RM61,854) after he pleaded guilty to two counts of transmitting obscene materials via electronic means and one count of being in possession of obscene films.
+
+
+***
+![Top 10 Structures That Seem to Defy Gravity](https://listverse.com/wp-content/uploads/2021/12/shutterstock_2086632754-1.jpg "Top 10 Structures That Seem to Defy Gravity")
+
+
+[Top 10 Structures That Seem to Defy Gravity](https://listverse.com/2021/12/15/top-10-structures-that-seem-to-defy-gravity/)
+
+
+> Architecture is an incredible craft. Beautiful buildings and other structures are being designed and built to fit specific needs. Beauty and aesthetics can be key elements for architects. However, the most important requirement for any building is to remain upright! Architects continue to push the boundaries of gravity, designing buildings that appear to define all written rules, often mysteriously and beautifully. All around the world, unique structures are created that seem to defy both gravity and logic.
+
+
