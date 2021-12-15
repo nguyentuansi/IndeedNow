@@ -38206,3 +38206,33 @@
 > Discover the myriad of options for saving and storing photos taken on a mobile device. Registration required. Taking pictures with a smartphone or tablet is easy. Trying to determine the best way to store them is the challenge. During this session, users will learn various ways to store, save and protect their pictures and free up some storage space on their device. Instructor: Dana Treichler. Presented in partnership with Princeton Senior Resource Center. This class will be held via Zoom. Registrants will receive an access link the day before the class.
 
 
+***
+![The security flaw that's freaked out the Internet](https://apicms.thestar.com.my/uploads/images/2021/12/15/1406912.jpg "The security flaw that's freaked out the Internet")
+
+
+[The security flaw that's freaked out the Internet](https://www.thestar.com.my/tech/tech-news/2021/12/15/the-security-flaw-thats-freaked-out-the-internet)
+
+
+> BOSTON: Security pros say it's one of the worst computer vulnerabilities they've ever seen. They say state-backed Chinese and Iranian hackers and rogue cryptocurrency miners have already seized on it. The US Department of Homeland Security is sounding a dire alarm, ordering federal agencies to urgently eliminate the bug because it's so easily exploitable – and telling those with public-facing networks to put up firewalls if they can't be sure. The affected software is small and often undocumented.
+
+
+***
+![Analysis of the 2nd Log4j CVE published earlier (CVE-2021-45046 / Log4Shell2)](https://external-preview.redd.it/ac6mfePPoTocGwKls_3ECn-RwfJNBFRVC9OkeqCHJIo.jpg?auto=webp&s=c081b63d396a420ed9dd427a87cc74a594a42d22 "Analysis of the 2nd Log4j CVE published earlier (CVE-2021-45046 / Log4Shell2)")
+
+
+[Analysis of the 2nd Log4j CVE published earlier (CVE-2021-45046 / Log4Shell2)](https://www.reddit.com/r/programming/comments/rgpxfc/analysis_of_the_2nd_log4j_cve_published_earlier)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![techlabs london](https://www.crowdfundinsider.com/wp-content/uploads/2015/01/cropped-Crowdfund-Insider-Logo-54b72a2fv1_site_icon-1-32x32.png "techlabs london")
+
+
+[techlabs london](https://www.crowdfundinsider.com/tag/techlabs-london)
+
+
+> By | Artesian : DueDil is pleased to confirm that it has teamed up with TechLabs London, a Microsoft Tier 1 Direct Cloud Solutions Provider. As mentioned in the announcement, this partnership will aim to provide seamless integrations between Artesian: DueDil and Microsoft Dynamics 365, enabling banking… Read More
+
+
