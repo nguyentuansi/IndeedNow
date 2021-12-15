@@ -38156,3 +38156,53 @@
 > South Korean battery maker LG Energy Solution said on Tuesday it has signed a deal with Siemens Korea to work together to turn its battery plants into smart factories to upgrade the manufacturing process. Seoul: Under the memorandum of understanding, LG Energy Solution will adopt the German industrial solutions provider's software and other technologies to build an "intelligent manufacturing system," LG said in a statement. Intelligent manufacturing, or smart manufacturing, refers to a system equipped to optimize production and enable quality and process control for products using advanced information technologies, such as data analysis and machine learning.
 
 
+***
+![S'pore team invents biodegradable paper battery 10 times cheaper than lithium batteries](https://apicms.thestar.com.my/uploads/images/2021/12/15/1406689.jpeg "S'pore team invents biodegradable paper battery 10 times cheaper than lithium batteries")
+
+
+[S'pore team invents biodegradable paper battery 10 times cheaper than lithium batteries](https://www.thestar.com.my/tech/tech-news/2021/12/15/spore-team-invents-biodegradable-paper-battery-10-times-cheaper-than-lithium-batteries)
+
+
+> SINGAPORE: Local scientists have invented a cheap, rechargeable and fully biodegradable paper battery that can someday be used to power wearables of the future. This battery is made by screen printing an ink layer of manganese on one side of a sheet of strengthened paper, and a layer of zinc and conductive carbon on the other. Developed by a team from Nanyang Technological University (NTU), it can hold a substantial amount of charge. For instance, a 4cm by 4cm printed paper battery about 0.4mm thick can power a small electric fan for at least 45 minutes.
+
+
+***
+![2022 Porsche Taycan GTS First Drive: The Driver's EV to Beat](https://cdn.slashgear.com/wp-content/uploads/2021/12/2022_porsche_taycan_gts_sport_turismo_first_drive_0b.jpg "2022 Porsche Taycan GTS First Drive: The Driver's EV to Beat")
+
+
+[2022 Porsche Taycan GTS First Drive: The Driver's EV to Beat](https://www.slashgear.com/2022-porsche-taycan-gts-first-drive-the-drivers-ev-to-beat-14702547/)
+
+
+> You could make a strong argument that the GTS is the epitome of the modern Porsche, and – by extension – that the new 2022 Taycan GTS is sweet spot in its electric line-up. Promising to combine enthusiast-pleasing performance with luxury and practicality, the GTS badge also debuts the first electric Sport Turismo, a third body style for the high-end EV. It's certainly a case of 'last, but not least': from its single model origins, there's now a GTS version of every two-door and four-door in Porsche's range.
+
+
+***
+![Dell Concept Luna showcases the future of sustainable laptop design](https://cdn.slashgear.com/wp-content/uploads/2021/12/luna-laptop-concept.jpg "Dell Concept Luna showcases the future of sustainable laptop design")
+
+
+[Dell Concept Luna showcases the future of sustainable laptop design](https://www.slashgear.com/dell-concept-luna-showcases-the-future-of-sustainable-laptop-design-14702540/)
+
+
+> Dell has introduced Concept Luna, a proof-of-concept laptop designed with sustainability in mind. Though the model won't be made available to consumers, the work put into this device demonstrates ways manufacturers can approach laptop design in the future, reducing their products' impact on the environment by embracing the circular economy, improved repairability, and more. Dell/YouTube Electronic waste has a major impact on the environment due in part to the toxic chemicals it releases into the atmosphere and groundwater (via Elytus).
+
+
+***
+![Building an Autonomous Generative Art Collection with p5.js — Rich Tabor](https://cdn.richtabor.com/wp-content/uploads/2021/12/richtabor.com-generative-art-featured-image-1024x576.png "Building an Autonomous Generative Art Collection with p5.js — Rich Tabor")
+
+
+[Building an Autonomous Generative Art Collection with p5.js — Rich Tabor](https://richtabor.com/generative-art/)
+
+
+> TLDR; I built a generative art creation flow that is fully autonomous: generating art daily from creative code, and publishing to Instagram and WordPress without any human input. Cool, eh? Creative coding — programming towards a visual pursuit, instead of functional, is a medium that I've wanted to personally explore for some time now. I love that it's a mass of creativity, somewhere between design and programming, which is right up my alley. A key component of creative coding is the idea that the creator must relinquish a certain level of creative control.
+
+
+***
+![Tech: How To Get Photos Off Your Phone ⋆ Princeton, NJ local news](https://planetprinceton.com/wp-content/uploads/2020/09/cropped-Copy-of-Plan_Prin_LogoFinal-RGB_hi-res-e1600497666336-512x512.jpg "Tech: How To Get Photos Off Your Phone ⋆ Princeton, NJ local news")
+
+
+[Tech: How To Get Photos Off Your Phone ⋆ Princeton, NJ local news](https://planetprinceton.com/event/tech-how-to-get-photos-off-your-phone/)
+
+
+> Discover the myriad of options for saving and storing photos taken on a mobile device. Registration required. Taking pictures with a smartphone or tablet is easy. Trying to determine the best way to store them is the challenge. During this session, users will learn various ways to store, save and protect their pictures and free up some storage space on their device. Instructor: Dana Treichler. Presented in partnership with Princeton Senior Resource Center. This class will be held via Zoom. Registrants will receive an access link the day before the class.
+
+
