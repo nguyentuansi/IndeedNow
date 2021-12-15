@@ -38236,3 +38236,53 @@
 > By | Artesian : DueDil is pleased to confirm that it has teamed up with TechLabs London, a Microsoft Tier 1 Direct Cloud Solutions Provider. As mentioned in the announcement, this partnership will aim to provide seamless integrations between Artesian: DueDil and Microsoft Dynamics 365, enabling banking… Read More
 
 
+***
+![US Homeland Security offers hackers a bounty to find bugs](https://apicms.thestar.com.my/uploads/images/2021/12/15/1407105.jpg "US Homeland Security offers hackers a bounty to find bugs")
+
+
+[US Homeland Security offers hackers a bounty to find bugs](https://www.thestar.com.my/tech/tech-news/2021/12/15/us-department-of-homeland-security-offers-hackers-a-bounty-to-find-bugs)
+
+
+> Once a novelty, hundreds of organisations around the world now have bug bounty programmes, according to a list maintained by Bugcrowd, a San Francisco-based company that helps manage them. — AFP Relaxnews The US Department of Homeland Security announced a new programme on Dec 14 in which the agency will pay outside hackers to find vulnerabilities in its computer systems, a type of incentive popular in the cybersecurity industry that is known as a 'bug bounty'. DHS Secretary Alejandro Mayorkas unveiled his agency's 'Hack DHS' programme at the Bloomberg Technology Summit.
+
+
+***
+![Does Apple ban Hollywood bad guys from using its gadgets?](https://apicms.thestar.com.my/uploads/images/2021/12/15/1407080.jpg "Does Apple ban Hollywood bad guys from using its gadgets?")
+
+
+[Does Apple ban Hollywood bad guys from using its gadgets?](https://www.thestar.com.my/tech/tech-news/2021/12/15/does-apple-ban-hollywood-bad-guys-from-using-its-gadgets)
+
+
+> Fans of the hit HBO show ‘Succession' devised complex theories about how the characters' choice in mobile operating system might predict the ending, which aired on Dec 12. — AFP Relaxnews Could you have guessed the ending of Succession based on what phones the characters use? Not at all, I'm afraid, but let's talk about why people think you can. Last year, Knives Out and The Last Jedi director Rian Johnson made some waves in the entertainment industry by claiming that Apple wouldn't let villainous characters use iPhones on film.
+
+
+***
+![‘Intelligent' cutters for trees to ease Malaysia palm oil labour crunch](https://apicms.thestar.com.my/uploads/images/2021/12/15/1407013.jpg "‘Intelligent' cutters for trees to ease Malaysia palm oil labour crunch")
+
+
+[‘Intelligent' cutters for trees to ease Malaysia palm oil labour crunch](https://www.thestar.com.my/tech/tech-news/2021/12/15/intelligent-cutters-for-trees-to-ease-malaysia-palm-oil-labour-crunch)
+
+
+> A foreign worker harvests palm oil in the palm oil plantation area in Banting, Selangor. The labour crunch has magnified the urgency for ‘intelligent' harvesting tools and automation in oil palm plantations, which has a low level of digitalisation compared to other industries, according to Girish. — AZHAR MAHFOF/The Star A Malaysian firm is developing a harvesting tool for palm oil that could accelerate automation in an industry that is known not only for its gruelling conditions, but is also suffering from a chronic labour shortage.
+
+
+***
+![Paris taxi firm suspends some Teslas after fatal accident](https://apicms.thestar.com.my/uploads/images/2021/12/15/1407023.jpg "Paris taxi firm suspends some Teslas after fatal accident")
+
+
+[Paris taxi firm suspends some Teslas after fatal accident](https://www.thestar.com.my/tech/tech-news/2021/12/15/paris-taxi-firm-suspends-some-teslas-after-fatal-accident)
+
+
+> A Tesla logo on a Parisian taxi car in Paris, France. A driver lost control of his Tesla on Dec 11 in the southeastern 13th district of Paris, killing one person and injuring 20, with three people fighting for their lives in intensive care. — Reuters PARIS: The biggest taxi firm in Paris said Dec 14 it was suspending the use of Model 3 Teslas in its fleet after a fatal accident in the French capital at the weekend. A driver lost control of his Tesla on Dec 11 night in the southeastern 13th district of Paris, killing one person and injuring 20, with three people fighting for their lives in intensive care.
+
+
+***
+![Ex-Netflix executive gets prison for accepting tech bribes](https://apicms.thestar.com.my/uploads/images/2021/12/15/1406964.jpg "Ex-Netflix executive gets prison for accepting tech bribes")
+
+
+[Ex-Netflix executive gets prison for accepting tech bribes](https://www.thestar.com.my/tech/tech-news/2021/12/15/ex-netflix-executive-gets-prison-for-accepting-tech-bribes)
+
+
+> Prosecutors alleged that Kail accepted more than US$500,000 (RM2.11mil) in kickbacks – as well as valuable stock options – in exchange for approving millions of dollars in contracts for nine tech companies seeking to do business with Netflix between February 2012 and July 2014. — AFP SAN JOSE, California: A former Netflix executive was sentenced Dec 14 to 2 1/2 years in federal prison for taking bribes and kickbacks from tech companies to approve lucrative contracts with the streaming giant. Michael Kail, 52, of Los Gatos also was ordered to forfeit US$700,000 (RM2.
+
+
