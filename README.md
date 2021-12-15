@@ -38336,3 +38336,43 @@
 > Architecture is an incredible craft. Beautiful buildings and other structures are being designed and built to fit specific needs. Beauty and aesthetics can be key elements for architects. However, the most important requirement for any building is to remain upright! Architects continue to push the boundaries of gravity, designing buildings that appear to define all written rules, often mysteriously and beautifully. All around the world, unique structures are created that seem to defy both gravity and logic.
 
 
+***
+![Novitec Rolls-Royce Dawn Black Badge receives the Overdose treatment](https://cdn.slashgear.com/wp-content/uploads/2021/12/RR_Dawn_BlackBadge_11__FitMaxWzEyODAsMTAyNF0.v4.jpg "Novitec Rolls-Royce Dawn Black Badge receives the Overdose treatment")
+
+
+[Novitec Rolls-Royce Dawn Black Badge receives the Overdose treatment](https://www.slashgear.com/novitec-rolls-royce-dawn-black-badge-receives-the-overdose-treatment-15702682/)
+
+
+> The word 'overdose' typically equates to unpleasant thoughts, but we can't say the same thing about Novitec's newest creation. The German tuning firm renowned for turning Ferraris, McLarens, and Lamborghinis into extreme automotive engineering works has pointed its wrenches at the Rolls-Royce Dawn Black Badge. The result is SPOFEC Overdose, and we think it looks fantastic. Unbeknownst to many, SPOFEC (Spirit of Ecstacy) is Novitec's Rolls-Royce tuning division, and the blokes decided to install the firm's Overdose widebody kit into the Dawn convertible.
+
+
+***
+![LG Wing gets one last surprise from Verizon](https://cdn.slashgear.com/wp-content/uploads/2021/12/lg-wing-5g-03-1.jpg "LG Wing gets one last surprise from Verizon")
+
+
+[LG Wing gets one last surprise from Verizon](https://www.slashgear.com/lg-wing-gets-one-last-surprise-from-verizon-15702665/)
+
+
+> LG's exit from the smartphone market wasn't exactly unexpected but also quite sad. It left many fans hanging and a few dreams unfulfilled. The industry's first rollable phone, for example, would have come from LG, but will never come to pass. The company did promise it wouldn't immediately abandon owners of its existing phones, but its ability to stay on top of things hasn't exactly been reassuring. That said, a surprise update gives owners of the odd LG Wing one last gift, probably the last one it will ever get.
+
+
+***
+![New Google AR OS and wearable gadget in the making](https://cdn.slashgear.com/wp-content/uploads/2021/12/google_glass_main.jpg "New Google AR OS and wearable gadget in the making")
+
+
+[New Google AR OS and wearable gadget in the making](https://www.slashgear.com/new-google-ar-os-and-wearable-gadget-in-the-making-15702645/)
+
+
+> Google isn't one to shy away from starting and killing off experiments, even ones that cost it a great deal of time and money. If you're a company with so many resources anyway, you can always chalk it up to experience. That's true for simpler things like the Inbox email app and the Daydream VR platform, as well as for more expensive ones like Google Glass. The company's direction with the latter and augmented reality, in general, hasn't exactly been the most consistent or most reliable, but it seems that Google wants to make another and deeper stab at it with a few curious job openings.
+
+
+***
+![From China to Best Buy: Gaming controllers hit bumps on way to US consumers](https://apicms.thestar.com.my/uploads/images/2021/12/15/1407735.jpg "From China to Best Buy: Gaming controllers hit bumps on way to US consumers")
+
+
+[From China to Best Buy: Gaming controllers hit bumps on way to US consumers](https://www.thestar.com.my/tech/tech-news/2021/12/15/from-china-to-best-buy-gaming-controllers-hit-bumps-on-way-to-us-consumers)
+
+
+> PEMBROKE, Mass./DONGGUAN, China: Fraser Townley eyes two gaping holes in one side of a pallet one of his workers just pulled out of the orange Hapag-Lloyd shipping container that arrived here at his warehouse from China one recent chilly morning. 'Clearly a forklift,' he mutters. The damage could have happened anywhere along the 10,710-mile odyssey his company's gaming controllers make from China's Guangdong province where they are manufactured to his warehouse 30 miles south of Boston, just one stop on their way to big-name retailers like Best Buy.
+
+
