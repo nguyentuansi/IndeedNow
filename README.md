@@ -38376,3 +38376,23 @@
 > PEMBROKE, Mass./DONGGUAN, China: Fraser Townley eyes two gaping holes in one side of a pallet one of his workers just pulled out of the orange Hapag-Lloyd shipping container that arrived here at his warehouse from China one recent chilly morning. 'Clearly a forklift,' he mutters. The damage could have happened anywhere along the 10,710-mile odyssey his company's gaming controllers make from China's Guangdong province where they are manufactured to his warehouse 30 miles south of Boston, just one stop on their way to big-name retailers like Best Buy.
 
 
+***
+![SmartMetric, the Leader in Advanced Biometric Fingerprint Activated Credit Cards, Sees Adoption by Banks in 2022 as the Next Big Thing in the Credit Card Industry](https://mms.businesswire.com/media/20211215006015/en/685746/23/image001-1.jpg "SmartMetric, the Leader in Advanced Biometric Fingerprint Activated Credit Cards, Sees Adoption by Banks in 2022 as the Next Big Thing in the Credit Card Industry")
+
+
+[SmartMetric, the Leader in Advanced Biometric Fingerprint Activated Credit Cards, Sees Adoption by Banks in 2022 as the Next Big Thing in the Credit Card Industry](https://www.businesswire.com/news/home/20211215006015/en/SmartMetric-the-Leader-in-Advanced-Biometric-Fingerprint-Activated-Credit-Cards-Sees-Adoption-by-Banks-in-2022-as-the-Next-Big-Thing-in-the-Credit-Card-Industry)
+
+
+> December 15, 2021 02:58 PM Eastern Standard Time NEW YORK--(BUSINESS WIRE)--SmartMetric, Inc. (OTCQB: SMME): As the leader in fingerprint activated biometric credit cards, the company sees 2022 as the year that major credit card issuing Banks around the world will move forward the adoption of these advanced biometric technology-based cards. Based on independent market research commissioned by SmartMetric, nearly seventy percent (70%) of existing credit card holders in the USA are willing to pay seventy dollars ($70) for such cards.
+
+
+***
+![ioSafe® Introduces the ioSafe 1520+ NAS Device for Fireproof, Waterproof On-Site Data Protection](https://mms.businesswire.com/media/20211215006014/en/935637/23/iosafe.jpg "ioSafe® Introduces the ioSafe 1520+ NAS Device for Fireproof, Waterproof On-Site Data Protection")
+
+
+[ioSafe® Introduces the ioSafe 1520+ NAS Device for Fireproof, Waterproof On-Site Data Protection](https://www.businesswire.com/news/home/20211215006014/en/ioSafe%C2%AE-Introduces-the-ioSafe-1520-NAS-Device-for-Fireproof-Waterproof-On-Site-Data-Protection)
+
+
+> December 15, 2021 02:57 PM Eastern Standard Time VANCOUVER, Wash.--(BUSINESS WIRE)--ioSafe, a leading provider of disaster-proof data storage devices, today announced the new ioSafe 1520+ 5-Bay Network Attached Storage (NAS) device, which delivers the fastest route to critical data recovery after disasters strike. With optional disaster-proof expansion bays, the fireproof and waterproof device can protect up to 210TB of data. The ioSafe 1520+ is ideal for disaster-proofing data for the privacy-concerned, off-grid locations, small businesses, and departmental applications.
+
+
