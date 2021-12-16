@@ -38396,3 +38396,53 @@
 > December 15, 2021 02:57 PM Eastern Standard Time VANCOUVER, Wash.--(BUSINESS WIRE)--ioSafe, a leading provider of disaster-proof data storage devices, today announced the new ioSafe 1520+ 5-Bay Network Attached Storage (NAS) device, which delivers the fastest route to critical data recovery after disasters strike. With optional disaster-proof expansion bays, the fireproof and waterproof device can protect up to 210TB of data. The ioSafe 1520+ is ideal for disaster-proofing data for the privacy-concerned, off-grid locations, small businesses, and departmental applications.
 
 
+***
+![Week-long phone battery teased by IBM and Samsung](https://cdn.slashgear.com/wp-content/uploads/2021/12/IBM-samsung-VTFET-chip.jpg "Week-long phone battery teased by IBM and Samsung")
+
+
+[Week-long phone battery teased by IBM and Samsung](https://www.slashgear.com/week-long-phone-battery-teased-by-ibm-and-samsung-15702806/)
+
+
+> Most people need to charge their smartphones every day or two, but a new scientific breakthrough made by researchers with IBM and Samsung may change that. The two companies partnered on a breakthrough semiconductor design they call the Vertical-Transport Nanosheet Field Effect Transistor (VTFET), a new chip architecture that may, when compared to the more conventional finFET tech, cut energy use by up to 85-percent or double performance. IBM IBM Researchers explain that most modern chips are based on lateral-transport field effect transistors (FETs) architecture, an example of which is the fin field effect transistor (finFET).
+
+
+***
+![Not just techno: Dive into the history of electronic music](https://img.dtnext.in/Articles/2021/Dec/202112160112225976_Not-just-techno-Dive-into-the-history-of-electronic-music_SECVPF.gif "Not just techno: Dive into the history of electronic music")
+
+
+[Not just techno: Dive into the history of electronic music](https://www.dtnext.in/Lifestyle/Technology/2021/12/16011222/1334096/Not-just-techno-Dive-into-the-history-of-electronic-.vpf)
+
+
+> Published: Dec 16,202106:45 AM Electronic music is sometimes labeled robotic and one-dimensional, music that can only be enjoyed with the help of alcohol in a dark nightclub. This cliché extends to the idea that the genre originated in the 1980s when synthesizers and drum machines became integral to pop music. New York: But electronic music has had a long and diverse influence on the modern musical canon, a topic explored by the exhibition 'Electro. From Kraftwerk to Techno.' Now on show at the Kunstpalast in Dusseldorf — the city that incubated electronic music pioneers Kraftwerk — the exhibition maps the more than 100-year history of electronic music from its very beginnings to compositions by artificial intelligence.
+
+
+***
+![Not Getting Instagram Notifications? Here's How to Fix It in Just a Few Steps](https://media1.popsugar-assets.com/files/thumbor/YeCXdLaXGQpoeVJB43yPuPFquCc/0x196:1920x1204/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2021/12/10/887/n/46712211/48779aab61b3b61d604d79.61131863_.jpg "Not Getting Instagram Notifications? Here's How to Fix It in Just a Few Steps")
+
+
+[Not Getting Instagram Notifications? Here's How to Fix It in Just a Few Steps](https://www.popsugar.com/tech/instagram-notifications-not-working-48645162)
+
+
+> Not Getting Instagram Notifications? Here's How to Fix It in Just a Few Steps Over the years, Instagram has incorporated many features such as including pronouns in the bio section, hiding likes from posts, and most recently, adjusting the order of posts in user feeds. Though the app continues to release updates, there's still an occasional glitch every now and then. One problem that users frequently experience involves Instagram notifications, or the lack thereof. Between getting alerts for likes or comments on one of your posts and being notified for an upcoming live stream, Instagram notifications help you stay connected to your favorite celebrities, influencers, family members, and close friends.
+
+
+***
+![Technology and Innovation Solve Supply Chain Crisis](https://express-images.franklymedia.com/6616/sites/112/2021/04/19101036/wjr-logo.jpg "Technology and Innovation Solve Supply Chain Crisis")
+
+
+[Technology and Innovation Solve Supply Chain Crisis](https://www.wjr.com/news/technology-and-innovation-solve-supply-chain-crisis)
+
+
+> Flying over the Port of Long Beach, you can't help but notice the thirty or more container ships crowded along the coast — anchored with nothing to do but wait. It's a scene that plays out at ports throughout the country. Crowded ports, empty store shelves — an unwelcome scene as we prepare for a busy holiday season. Read more at Newsmax© 2021 Newsmax. All rights reserved.
+
+
+***
+![The 45 best health and fitness gifts of 2021](https://www.gannett-cdn.com/presto/2021/09/30/USAT/cd4bb185-3335-4d35-808a-47e74b496544-herofitness.jpg?auto=webp&crop=1593,896,x0,y0&format=pjpg&width=1200 "The 45 best health and fitness gifts of 2021")
+
+
+[The 45 best health and fitness gifts of 2021](https://www.usatoday.com/story/tech/reviewedcom/2018/11/02/the-25-best-health-and-fitness-gifts-of-2018/38343521/)
+
+
+> — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.If you've got someone in your life who loves staying healthy and working out you're in luck: We've compiled a list of the best health and fitness products for you to bestow upon your favorite health nut or fitness fanatic.Tackle your holiday shopping with deals and expert advice delivered straight to your phone. Sign up for text message alerts from the deal-hunting team at Reviewed.
+
+
