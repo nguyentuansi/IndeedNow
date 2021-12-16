@@ -38556,3 +38556,53 @@
 > Prime Minister Narendra Modi's 70 million followers were surprised to find a strange tweet from the leader on Sunday. The tweet asked for donations in cryptocurrencies. The tweet, along with a few others, was deleted after the hacked account was restored.Many celebrities, actors, politicians and artistes have fallen victim to cyber-attacks. Here are some public figures whose social media platforms were hacked:Bill Gates, Elon Musk, Jeff BezosThe Twitter accounts of some of the world's wealthiest men, including Bill Gates, Elon Musk, Jeff Bezos and 130 others were hacked in a coordinated attack in July 2020.
 
 
+***
+![Shelby American unveils the newest King of the Road](https://cdn.slashgear.com/wp-content/uploads/2021/12/ShelbyGT500_Track_Rear.jpg "Shelby American unveils the newest King of the Road")
+
+
+[Shelby American unveils the newest King of the Road](https://www.slashgear.com/shelby-american-unveils-the-newest-king-of-the-road-16702876/)
+
+
+> Shelby American has pulled the wraps off its newest car. After releasing a teaser image of its latest creation last month, we were sure it was a Mustang, although we have no idea which type. As it turns out, Shelby is celebrating its 60th anniversary in 2022 with the newest GT500 KR or King of the Road. We initially thought Shelby was working on a new Super Snake, but we were also hedging for a GT500 KR. However, we initially said Shelby's extreme Mustang would have 850 horsepower, and we fell 50 horses short of the mark.
+
+
+***
+![Lenovo's huge ThinkVision displays will make WFH teams envious](https://cdn.slashgear.com/wp-content/uploads/2021/12/Lenovo-ThinkVision-Large-Format-Displays.jpg "Lenovo's huge ThinkVision displays will make WFH teams envious")
+
+
+[Lenovo's huge ThinkVision displays will make WFH teams envious](https://www.slashgear.com/lenovos-huge-thinkvision-displays-will-make-wfh-teams-envious-16702896/)
+
+
+> Lenovo has revealed a trio of new ThinkVision large format displays, aiming to turn a wall into an interactive screen. Intended for classrooms and meeting rooms – though likely to be coveted by those still working from home – the Lenovo ThinkVision T86, T75, and T65 span 65 to 86 inches in size, with 4K resolution and pen input support. The screen itself has up to 400 nits of brightness, 60Hz refresh rate, and covers 99% of the sRGB color gamut, and Lenovo finishes it with an anti-glare coating plus an ambient light sensor to adjust brightness levels to the room conditions.
+
+
+***
+![Jeep patent shows off doors Bronco fans will recognize](https://cdn.slashgear.com/wp-content/uploads/2021/12/jeep2523.jpg "Jeep patent shows off doors Bronco fans will recognize")
+
+
+[Jeep patent shows off doors Bronco fans will recognize](https://www.slashgear.com/jeep-patent-shows-off-doors-bronco-fans-will-recognize-16702875)
+
+
+> Jeep patent shows off doors Bronco fans will recognize An interesting patent has surfaced that was filed for by Jeep about three years ago that has only now been published by the US Patent and Trademark Office. Anyone who recalls the Ford Bronco that was originally revealed will remember the doughnut-style doors the bright orange prototype wore. Those doors look like normal half doors but had cutouts in their centers. The United States Patent and Trademark Office Unfortunately, Ford never made those doors a production option for the new Bronco, but the newly published patent from Jeep seems to indicate it might bring similar doors to market.
+
+
+***
+![Samsung Galaxy Tab A8 Launched at a Budget Offer, Check Specifications](https://telecomtalk.info/wp-content/uploads/2021/12/samsung-galaxy-tab-a8-launched-at-a.jpg "Samsung Galaxy Tab A8 Launched at a Budget Offer, Check Specifications")
+
+
+[Samsung Galaxy Tab A8 Launched at a Budget Offer, Check Specifications](https://telecomtalk.info/samsung-galaxy-tab-a8-launched-at-a/485913/)
+
+
+> The backside of the device has an 8MP camera while the front has a 5MP selfie camera.The new device from Samsung works on Android 11 OS with OneUI 3.1 custom skin out of the box.The tablet is backed by a 7,040mAH battery and supports 15W adaptive fast charging support.South Korean tech giant Samsung has launched its latest budget offering, Samsung Galaxy Tab A8, worldwide. The latest version of the affordable Galaxy Tab A8 from the company comes with improved performance, an increment in screen size of the device, higher storage capacity and multi-tasking features allowing for more versatile usage.
+
+
+***
+![Windows update makes sure you can't escape Microsoft Edge](https://cdn.slashgear.com/wp-content/uploads/2021/12/microsoft-edge.jpg "Windows update makes sure you can't escape Microsoft Edge")
+
+
+[Windows update makes sure you can't escape Microsoft Edge](https://www.slashgear.com/windows-update-makes-sure-you-cant-escape-microsoft-edge-16702853/)
+
+
+> On a technical level, Microsoft's shiniest new web browser is actually good. Built on top of Chromium (not Chrome), Microsoft Edge offers added value in terms of new features, optimizations, and improvements before Google can even implement them. Unfortunately, it is Microsoft itself that is giving people reasons to stay away from Edge, and the latest update to Windows 10 and Windows 11 only reinforces Microsoft's image of bullishness and aggression. Image Credit: Microsoft Microsoft Edge is a good browser, but it's certainly not the best in class.
+
+
