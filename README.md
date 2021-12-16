@@ -38606,3 +38606,13 @@
 > On a technical level, Microsoft's shiniest new web browser is actually good. Built on top of Chromium (not Chrome), Microsoft Edge offers added value in terms of new features, optimizations, and improvements before Google can even implement them. Unfortunately, it is Microsoft itself that is giving people reasons to stay away from Edge, and the latest update to Windows 10 and Windows 11 only reinforces Microsoft's image of bullishness and aggression. Image Credit: Microsoft Microsoft Edge is a good browser, but it's certainly not the best in class.
 
 
+***
+![POCO sells over 30 lakh C-series smartphones on Flipkart](https://img.dtnext.in/Articles/2021/Dec/202112162231500818_POCO-sells-over-30-lakh-Cseries-smartphones-on-Flipkart_SECVPF.gif "POCO sells over 30 lakh C-series smartphones on Flipkart")
+
+
+[POCO sells over 30 lakh C-series smartphones on Flipkart](https://www.dtnext.in/Lifestyle/Technology/2021/12/16223150/1334223/POCO-sells-over-30-lakh-Cseries-smartphones-on-Flipkart.vpf)
+
+
+> Smartphone brand POCO on Thursday announced that it has sold over 30 lakh units of the POCO C-series smartphones on Flipkart since their launch in the country. POCO C31 comes with a triple camera setup, MediaTek Helio G35 Octa-core processor Bangalore: With POCO C3 and POCO C31 reigning in the under Rs 10,000 segment, both the smartphones continue to receive a phenomenal response from the consumers."From a seamless content experience to gaming performance on a budget, POCO C-series makes for a perfect all-rounder package," the company said in a statement.
+
+
