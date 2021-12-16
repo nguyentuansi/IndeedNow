@@ -38476,3 +38476,53 @@
 > © DAVID MCNEW A bird walks by a barrier set up on Newport Beach, California, in an attempt to stem an oil spill, October 3, 2021 The operators of a California pipeline that leaked crude oil on to beaches south of Los Angeles in early October were charged Wednesday with negligence by federal prosecutors. The charges were leveled against Amplify Energy, a Texas company operating the pipeline off Huntington Beach, and two of its subsidiaries -- Beta Operating Co. and San Pedro Bay Pipeline Co., according to the prosecutor's statement.
 
 
+***
+![Wikipedia creator's computer and NFT auctioned for almost US$1mil](https://apicms.thestar.com.my/uploads/images/2021/12/16/1408527.jpg "Wikipedia creator's computer and NFT auctioned for almost US$1mil")
+
+
+[Wikipedia creator's computer and NFT auctioned for almost US$1mil](https://www.thestar.com.my/tech/tech-news/2021/12/16/wikipedia-creators-computer-and-nft-auctioned-for-almost-us1mil)
+
+
+> Christie's auctioned off two objects pertaining to the history of Wikipedia directly from Wales. The online sale titled ‘The Birth of Wikipedia' consisted of two lots: an NFT of Wikipedia's first edit, which sold for US$750,000 (RM3.17mil), and a Strawberry iMac used by Wales at the time, which totaled US$187,500 (RM793,312). — AFP NEW YORK: An NFT memorialising Wikipedia founder Jimmy Wales's first edit on the online reference resource 20 years ago and the computer he used when programming the platform sold for a total of almost US$1mil (RM4.
+
+
+***
+![Intel to invest US$7bil in new plant in Malaysia, creating 9,000 jobs](https://apicms.thestar.com.my/uploads/images/2021/12/16/1408480.jpg "Intel to invest US$7bil in new plant in Malaysia, creating 9,000 jobs")
+
+
+[Intel to invest US$7bil in new plant in Malaysia, creating 9,000 jobs](https://www.thestar.com.my/tech/tech-news/2021/12/16/intel-to-invest-us7bil-in-new-plant-in-malaysia-creating-9000-jobs)
+
+
+> The RM30bil (US$7.10bil) investment is expected to create over 4,000 Intel jobs and more than 5,000 construction jobs in the country, the Malaysian government said. — Reuters KUALA LUMPUR: Intel Corp will invest more than US$7bil (RM29.61bil) to build a new chip-packaging and testing factory in Malaysia, chief executive Pat Gelsinger said on Dec 16, expanding production in the country following a global shortage of semiconductors. The new advanced packaging facility in Malaysia is expected to begin production in 2024, he said.
+
+
+***
+![Connecting online, tornado victims track down lost treasures](https://apicms.thestar.com.my/uploads/images/2021/12/16/1408446.jpg "Connecting online, tornado victims track down lost treasures")
+
+
+[Connecting online, tornado victims track down lost treasures](https://www.thestar.com.my/tech/tech-news/2021/12/16/connecting-online-tornado-victims-track-down-lost-treasures)
+
+
+> A newsroom editor in Washington, DC looks at computers diplaying the pages of a Facebook group, ‘Quad State Tornado Found Items', dedicated to helping people affected by the recent tornadoes that ripped through the mid-west reconnect with lost pets, official documents, and family photos. — AFP WASHINGTON: Abigail Miller's parents lost practically all they owned in the weekend twisters that ravaged their small Kentucky town. But with the help of strangers, they tracked down photographs of their daughter's graduation – via social media groups which thousands are using to reconnect storm victims with cherished possessions strewn many miles away.
+
+
+***
+![Over 122M coronavirus vaccine shots given in Turkey to date](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/12/16/1e0b9b24-2i1uklxkr0g1alg4si462z.jpeg "Over 122M coronavirus vaccine shots given in Turkey to date")
+
+
+[Over 122M coronavirus vaccine shots given in Turkey to date](https://www.yenisafak.com/en/news/over-122m-coronavirus-vaccine-shots-given-in-turkey-to-date-3586158)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyon General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya General
+
+
+***
+![Turkey appoints Serdar Kilic as special envoy for dialogue with Armenia](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/12/16/d3c6af73-pudlp7lcwwo8g812801yrm.jpeg "Turkey appoints Serdar Kilic as special envoy for dialogue with Armenia")
+
+
+[Turkey appoints Serdar Kilic as special envoy for dialogue with Armenia](https://www.yenisafak.com/en/news/turkey-appoints-serdar-kilic-as-special-envoy-for-dialogue-with-armenia-3586157)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyon General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya General
+
+
