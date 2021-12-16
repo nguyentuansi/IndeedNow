@@ -38526,3 +38526,33 @@
 > Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyon General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya General
 
 
+***
+![Event featuring US teachers crawling for cash prompts apology](https://apicms.thestar.com.my/uploads/images/2021/12/16/1409000.jpg "Event featuring US teachers crawling for cash prompts apology")
+
+
+[Event featuring US teachers crawling for cash prompts apology](https://www.thestar.com.my/tech/tech-news/2021/12/16/event-featuring-us-teachers-crawling-for-cash-prompts-apology)
+
+
+> A teacher shovels dollar bills into his shirt on Dec 11, 2021, in the first-ever Dash For Cash between periods at the Sioux Falls Stampede game in Sioux Falls, South Dakota. The organisers of the fundraiser are apologising after the event was criticised as demeaning. — The Argus Leader/AP SIOUX FALLS, South Dakota: The organisers of a fundraiser that featured teachers on their hands and knees grabbing for dollar bills at a junior hockey league game in South Dakota are apologising after the event drew criticism.
+
+
+***
+![Telecom Italia issues third profit warning in a year](https://apicms.thestar.com.my/uploads/images/2021/12/16/1408833.jpg "Telecom Italia issues third profit warning in a year")
+
+
+[Telecom Italia issues third profit warning in a year](https://www.thestar.com.my/tech/tech-news/2021/12/16/telecom-italia-issues-third-profit-warning-in-a-year)
+
+
+> FILE PHOTO: The Tim logo is seen at its headquarters in Rome, Italy November 22, 2021. REUTERS/Yara Nardi/File Photo MILAN (Reuters) -Telecom Italia (TIM), facing a takeover approach from U.S. fund KKR, has cut the 2021 earnings forecast for its domestic business due to lower-than-expected fixed line revenue from its partnership with DAZN to screen Italian soccer.In its third profit warning in a year, TIM said late Wednesday it expected a "low teens decrease" in 2021 organic earnings before interest, tax, depreciation and amortisation after leases (EBITDA-AL) for the domestic business.
+
+
+***
+![When hackers targeted social media accounts of these famous personalities](https://images.cnbctv18.com/wp-content/uploads/2020/02/Twitter-hacking-1019x573.jpg "When hackers targeted social media accounts of these famous personalities")
+
+
+[When hackers targeted social media accounts of these famous personalities](https://www.cnbctv18.com/technology/when-hackers-targeted-social-media-accounts-of-these-famous-personalities-11812712.htm)
+
+
+> Prime Minister Narendra Modi's 70 million followers were surprised to find a strange tweet from the leader on Sunday. The tweet asked for donations in cryptocurrencies. The tweet, along with a few others, was deleted after the hacked account was restored.Many celebrities, actors, politicians and artistes have fallen victim to cyber-attacks. Here are some public figures whose social media platforms were hacked:Bill Gates, Elon Musk, Jeff BezosThe Twitter accounts of some of the world's wealthiest men, including Bill Gates, Elon Musk, Jeff Bezos and 130 others were hacked in a coordinated attack in July 2020.
+
+
