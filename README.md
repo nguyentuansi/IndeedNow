@@ -38446,3 +38446,33 @@
 > — Recommendations are independently chosen by Reviewed's editors. Purchases you make through our links may earn us a commission.If you've got someone in your life who loves staying healthy and working out you're in luck: We've compiled a list of the best health and fitness products for you to bestow upon your favorite health nut or fitness fanatic.Tackle your holiday shopping with deals and expert advice delivered straight to your phone. Sign up for text message alerts from the deal-hunting team at Reviewed.
 
 
+***
+![China Tech Digest: CATL, Eaton To Cooperate On Digital Energy Storage Solutions; Ping An Builds Intelligent Agricultural Traceability Platform](https://assets.chinamoneynetwork.com/wp-content/uploads/20211019111243/ENERGY-696x458.jpeg "China Tech Digest: CATL, Eaton To Cooperate On Digital Energy Storage Solutions; Ping An Builds Intelligent Agricultural Traceability Platform")
+
+
+[China Tech Digest: CATL, Eaton To Cooperate On Digital Energy Storage Solutions; Ping An Builds Intelligent Agricultural Traceability Platform](https://www.chinamoneynetwork.com/2021/12/16/china-tech-digest-catl-eaton-to-cooperate-on-digital-energy-storage-solutions-ping-an-builds-intelligent-agricultural-product-traceability-platform)
+
+
+> CATL cooperates with Eaton on digital energy storage solutions CATL and Eaton Power Quality have cooperated in energy storage systems, lithium battery module supply, energy storage project operation and new technologies. This strategy involves product research, market promotion, business models exploration and service response mechanisms. CATL will help Eaton improve its enterprise-level lithium battery power solutions. Eaton will provide efficient and energy-saving products and solutions for the smart manufacturing project of CATL.
+
+
+***
+![This could be the last generation capable of loving, says blockchain expert](https://apicms.thestar.com.my/uploads/images/2021/12/16/1408194.jpeg "This could be the last generation capable of loving, says blockchain expert")
+
+
+[This could be the last generation capable of loving, says blockchain expert](https://www.thestar.com.my/tech/tech-news/2021/12/16/this-could-be-the-last-generation-capable-of-loving-says-blockchain-expert)
+
+
+> Disruptive technologies could rob the next generation of the ability to love, make friends or enjoy the simple pleasures of life, a top fintech and blockchain expert has warned. Wassim Jarkas played a key role in the first worldwide launch of 3G networks. He has also led several global innovations in cloud computing and 5G during his remarkable career. In Dubai to deliver a keynote speech at a recent 5G summit, the MIT Sloan graduate spoke exclusively to Khaleej Times about the spectre a world with highly advanced artificial intelligence but no element of human touch.
+
+
+***
+![Operator of leaking California pipeline charged with negligence](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AARRoPz.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Operator of leaking California pipeline charged with negligence")
+
+
+[Operator of leaking California pipeline charged with negligence](https://www.msn.com/en-za/news/techandscience/operator-of-leaking-california-pipeline-charged-with-negligence/ar-AARRmKZ)
+
+
+> © DAVID MCNEW A bird walks by a barrier set up on Newport Beach, California, in an attempt to stem an oil spill, October 3, 2021 The operators of a California pipeline that leaked crude oil on to beaches south of Los Angeles in early October were charged Wednesday with negligence by federal prosecutors. The charges were leveled against Amplify Energy, a Texas company operating the pipeline off Huntington Beach, and two of its subsidiaries -- Beta Operating Co. and San Pedro Bay Pipeline Co., according to the prosecutor's statement.
+
+
