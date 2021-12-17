@@ -38666,3 +38666,23 @@
 > (Newser) – Stocks wobbled Thursday as investors studied moves by central banks to fight rising inflation, per the AP. The Dow fell 29 points to 35,897, the S&P 500 fell 41 points to 4,668, and the Nasdaq sank 385 points—2.4%—to 15,180. The decline in the tech-heavy Nasdaq came after several big technology companies fell. Apple, for example, dropped more than 4% and semiconductor stocks such as AMD and Nvidia sank by 5.8% and 7.3%, respectively, per CNBC. One factor: Large tech companies have benefitted greatly from low interest rates, which make their valuations more attractive.
 
 
+***
+![Celebrate the year-end festive season with selected HUAWEI goodies at a better deal](https://apicms.thestar.com.my/uploads/images/2021/12/17/1409841.jpg "Celebrate the year-end festive season with selected HUAWEI goodies at a better deal")
+
+
+[Celebrate the year-end festive season with selected HUAWEI goodies at a better deal](https://www.thestar.com.my/tech/tech-news/2021/12/17/celebrate-the-year-end-festive-season-with-selected-huawei-goodies-at-a-better-deal)
+
+
+> THE most wonderful time of the year is here once again, where we huddle together to share a meal, laugh and exchange presents to show each other how much we care. So, while you check off items on your gift giving list or shop for yourself for a productive year ahead, the good folks at HUAWEI have something in store for you. Get your hands on HUAWEI devices at its annual Better Together 2022 campaign from now until Jan 2, 2022, with exciting promotions like an RM500 instant rebate on a brand-new HUAWEI Vision S.
+
+
+***
+![Computing Experts Release Scorecard for IEEE Computer Society's 2021 Tech Predictions](https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/IEEE-Computer-Society_logo.png "Computing Experts Release Scorecard for IEEE Computer Society's 2021 Tech Predictions")
+
+
+[Computing Experts Release Scorecard for IEEE Computer Society's 2021 Tech Predictions](https://www.hpcwire.com/off-the-wire/computing-experts-release-scorecard-for-ieee-computer-societys-2021-tech-predictions/)
+
+
+> LOS ALAMITOS, Calif., Dec. 16 – The IEEE Computer Society (IEEE CS) revealed the scorecard for its 2021 Technology Predictions, which measures the performance of trending technologies against the projections made in December 2020. The IEEE CS Technology Predictions for 2021 garnered a collective grade of B-. The IEEE CS Technology Predictions for 2022 will be revealed in January – sign up for free exclusive access. 'Last year was as unpredictable as 2020, and not surprisingly our predictions were graded the same as in the previous year, averaging a B- score,' said Dejan Milojicic, former IEEE CS president (2014) and current Distinguished Technologist at Hewlett Packard Labs.
+
+
