@@ -38686,3 +38686,53 @@
 > LOS ALAMITOS, Calif., Dec. 16 – The IEEE Computer Society (IEEE CS) revealed the scorecard for its 2021 Technology Predictions, which measures the performance of trending technologies against the projections made in December 2020. The IEEE CS Technology Predictions for 2021 garnered a collective grade of B-. The IEEE CS Technology Predictions for 2022 will be revealed in January – sign up for free exclusive access. 'Last year was as unpredictable as 2020, and not surprisingly our predictions were graded the same as in the previous year, averaging a B- score,' said Dejan Milojicic, former IEEE CS president (2014) and current Distinguished Technologist at Hewlett Packard Labs.
 
 
+***
+![US schools step up security in response to threats on TikTok](https://apicms.thestar.com.my/uploads/images/2021/12/17/1410086.jpg "US schools step up security in response to threats on TikTok")
+
+
+[US schools step up security in response to threats on TikTok](https://www.thestar.com.my/tech/tech-news/2021/12/17/us-schools-step-up-security-in-response-to-threats-on-tiktok)
+
+
+> Handwritten messages are left at the memorial site outside Oxford High School in Oxford, Michigan, after a 15-year-old allegedly killed these four classmates, and injured seven others in a shooting inside the northern Oakland County school one week earlier. School officials around the country are planning to step up security Friday in response to social media posts warning of violence. The anonymous threats on TikTok had many educators on edge because they are circulating in the aftermath of a deadly school shooting in Michigan.
+
+
+***
+![Waymo says driver had control of SUV that hit a San Francisco pedestrian](https://apicms.thestar.com.my/uploads/images/2021/12/17/1410028.jpg "Waymo says driver had control of SUV that hit a San Francisco pedestrian")
+
+
+[Waymo says driver had control of SUV that hit a San Francisco pedestrian](https://www.thestar.com.my/tech/tech-news/2021/12/17/waymo-says-driver-had-control-of-suv-that-hit-a-san-francisco-pedestrian)
+
+
+> A Waymo safety driver sits at the ready with hands off the steering wheel as the Jaguar I-Pace electric vehicle navigates through San Francisco, California, US. The vehicle was ‘being driven in manual mode' when it struck a pedestrian, Waymo said. — Reuters Waymo said its autonomous test vehicle that hit a pedestrian in San Francisco on Wednesday evening was being operated by the human driver. The Jaguar I-Pace sport-utility vehicle outfitted with Waymo technology was involved in a collision on Haight Street, the unit of Google parent Alphabet Inc said by email.
+
+
+***
+![SG businesswoman ignores daughter's warning, loses over S$500,000 in scam by man in China](https://apicms.thestar.com.my/uploads/images/2021/12/17/1409997.jpg "SG businesswoman ignores daughter's warning, loses over S$500,000 in scam by man in China")
+
+
+[SG businesswoman ignores daughter's warning, loses over S$500,000 in scam by man in China](https://www.thestar.com.my/tech/tech-news/2021/12/17/sg-businesswoman-ignores-daughters-warning-loses-over-s500000-in-scam-by-man-in-china)
+
+
+> SINGAPORE: When her mother first told her about an investment proposition from someone overseas, alarm bells went off immediately and she warned the older woman to stay away. Unfortunately, the warning fell on deaf ears, and her mother, a businesswoman, was eventually scammed of S$568,000 (RM1.75mil). Speaking to The Straits Times in a recent interview, the daughter, who wanted to be known only as Ong, said there was nothing more she could have done to stop her mother from falling for the scam. 'I told my mother to be careful but she was confident, headstrong and had 100% faith in her contact.
+
+
+***
+![Meta targets 'cyber mercenaries' using Facebook to spy](https://apicms.thestar.com.my/uploads/images/2021/12/17/1409913.jpg "Meta targets 'cyber mercenaries' using Facebook to spy")
+
+
+[Meta targets 'cyber mercenaries' using Facebook to spy](https://www.thestar.com.my/tech/tech-news/2021/12/17/meta-targets-039cyber-mercenaries039-using-facebook-to-spy)
+
+
+> Meta purged some 1,500 social media accounts believed to be used by "cyber mercenaries" who spy on activists, dissidents and journalists worldwide. — AFP) Facebook parent Meta on Thursday banned a series of "cyber mercenary" groups, and began alerting some 50,000 people likely targeted by the firms accused of spying on activists, dissidents and journalists worldwide. Meta took down 1,500 Facebook and Instagram pages linked to groups with services allegedly ranging from scooping up public information online to using fake personas to build trust with targets or digital snooping via hack attacks.
+
+
+***
+![Where are the best places for women to work? Mainly in tech](https://apicms.thestar.com.my/uploads/images/2021/12/17/1410021.jpg "Where are the best places for women to work? Mainly in tech")
+
+
+[Where are the best places for women to work? Mainly in tech](https://www.thestar.com.my/tech/2021/12/17/where-are-the-best-places-for-women-to-work-mainly-in-tech)
+
+
+> Tech companies including IBM are among the best places for women and people of colour in the US to work in, a survey found. — AFP Six of the 10 best companies for women to work at in the US right now are in the technology sector, a new survey shows. IBM Corp was listed as the top large company for women to work at this year, according to Comparably, a platform where workers review employers. Comparably compiled its list from ratings made by female users between November 2020 and November 2021. The next highest-ranking tech company was Adobe Inc in third place; HubSpot, Inc in fourth; Medallia Inc in fifth; Microsoft Corp in ninth; and The Knot Worldwide Inc in 10th.
+
+
