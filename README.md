@@ -38616,3 +38616,53 @@
 > Smartphone brand POCO on Thursday announced that it has sold over 30 lakh units of the POCO C-series smartphones on Flipkart since their launch in the country. POCO C31 comes with a triple camera setup, MediaTek Helio G35 Octa-core processor Bangalore: With POCO C3 and POCO C31 reigning in the under Rs 10,000 segment, both the smartphones continue to receive a phenomenal response from the consumers."From a seamless content experience to gaming performance on a budget, POCO C-series makes for a perfect all-rounder package," the company said in a statement.
 
 
+***
+![How To Format Your External Hard Drive For Mac](https://cdn.slashgear.com/wp-content/uploads/2021/12/format-hard-drive-mac.jpg "How To Format Your External Hard Drive For Mac")
+
+
+[How To Format Your External Hard Drive For Mac](https://www.slashgear.com/how-to-format-your-external-hard-drive-for-mac-16703044/)
+
+
+> Apple's computers are available with a generous amount of hard drive space, from 256 GB all the way to 8 TB on high-end models. While that may be plenty of space for most users, video editing, animation, development, and virtual machines are just a few things that can make even 8 TB feel cramped. In those situations, an external hard can provide additional space at a fraction of the cost of internal storage. Jaroslaw Soltysiak/Shutterstock In addition to daily use, external hard drives also provide an excellent way to back up a computer.
+
+
+***
+![How To Better Protect Your Privacy In Safari](https://cdn.slashgear.com/wp-content/uploads/2021/12/protect-browser-safari.jpg "How To Better Protect Your Privacy In Safari")
+
+
+[How To Better Protect Your Privacy In Safari](https://www.slashgear.com/how-to-better-protect-your-privacy-in-safari-16703033/)
+
+
+> Apple's Safari web browser is one of the most popular options available and ships as the default browser on Macs, iPhones, and iPads. In keeping with Apple's stated belief that privacy is a fundamental human right, Safari does a good job of protecting user privacy out-of-the-box. Alexey Boldin/Shutterstock Safari features many of the basic protections users have come to expect from a modern web browser, including warning you when you visit a fraudulent site and preventing cross-site trackers from keeping tabs on you.
+
+
+***
+![CDC advisers recommend Pfizer, Moderna vaccines over Johnson & Johnson](https://cdn.slashgear.com/wp-content/uploads/2021/12/CDC-johnson-covid-vaccine-change-recommendation.jpg "CDC advisers recommend Pfizer, Moderna vaccines over Johnson & Johnson")
+
+
+[CDC advisers recommend Pfizer, Moderna vaccines over Johnson & Johnson](https://www.slashgear.com/cdc-advisers-recommend-pfizer-moderna-vaccines-over-johnson-johnson-16702992/)
+
+
+> When possible, advisers with the US Centers for Disease Control and Prevention say the public should choose Pfizer or Moderna's COVID-19 vaccines over the Johnson & Johnson version. The agency has published a lengthy presentation from the Advisory Committee on Immunization Practices (ACIP) meeting held on December 16 that includes a few dozen pages on the current data, risk-benefit analysis, and more. Among other things, the presentation includes details on a very rare potential side effect linked to nine deaths.
+
+
+***
+![What Was the First Car to Implement ABS?](https://cdn.slashgear.com/wp-content/uploads/2021/12/abscar2222.jpg "What Was the First Car to Implement ABS?")
+
+
+[What Was the First Car to Implement ABS?](https://www.slashgear.com/what-was-the-first-car-to-implement-abs-16702988/)
+
+
+> ABS, short for Anti-Lock Braking System, is such as standard safety feature on almost all cars (and bigger vehicles) these days that it's easy to take it for granted. The feature was first launched nearly 45 years ago, drawing inspiration from the anti-slipping systems used in fighter and passenger airplanes and rail locomotives. Wondering about the first car to implement ABS? We've got you covered. Daimler AG A primitive version of ABS was first implemented on the 1978 Mercedes-Benz S-Class W116, as Daimler AG — which owns the brand Mercedes-Benz — recounts in an official blog.
+
+
+***
+![Tech Stocks Sink, Drag Down Market](https://img2-azrcdn.newser.com/image/1389717-12-20211216152059.jpeg "Tech Stocks Sink, Drag Down Market")
+
+
+[Tech Stocks Sink, Drag Down Market](https://www.newser.com/story/314594/tech-stocks-sink-drag-down-market.html)
+
+
+> (Newser) – Stocks wobbled Thursday as investors studied moves by central banks to fight rising inflation, per the AP. The Dow fell 29 points to 35,897, the S&P 500 fell 41 points to 4,668, and the Nasdaq sank 385 points—2.4%—to 15,180. The decline in the tech-heavy Nasdaq came after several big technology companies fell. Apple, for example, dropped more than 4% and semiconductor stocks such as AMD and Nvidia sank by 5.8% and 7.3%, respectively, per CNBC. One factor: Large tech companies have benefitted greatly from low interest rates, which make their valuations more attractive.
+
+
