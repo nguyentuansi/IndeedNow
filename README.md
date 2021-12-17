@@ -38766,3 +38766,53 @@
 > A delivery worker of Ele.me picks up food from the kitchen of a takeaway restaurant, in Beijing, China. Chinese authorities have targeted platform companies driving the so-called 'gig economy' this year, as part of a wave of regulatory tightening that has lasted over a year. — Reuters BEIJING: China plans to amend laws to allow ride-hailing drivers and food delivery workers to form unions, state media reported on Dec 17. China will review the amendment on its trade union law starting December and plans to add rules to expand the type of organisations and work for which unions can be formed, the spokesperson for China's parliament's Legislative Affairs Commission Yue Zhongming said at a news conference on Friday, according to Xinhua.
 
 
+***
+![Galaxy S21 FE leak reaffirms our worst suspicions](https://cdn.slashgear.com/wp-content/uploads/2021/12/galaxy-s21-fe.jpg "Galaxy S21 FE leak reaffirms our worst suspicions")
+
+
+[Galaxy S21 FE leak reaffirms our worst suspicions](https://www.slashgear.com/galaxy-s21-fe-leak-reaffirms-our-worst-suspicions-17703098/)
+
+
+> It's just two weeks before this year ends, a few weeks more before the Galaxy S21 FE's tumultuous journey finally comes to an end as well. Unless something goes horribly wrong, the 2021 Fan Edition phone is set to launch against all odds, but its fate remains uncertain at this point. While its predecessor sold well, there are a few things that are almost set against the Galaxy S21 FE right from the start, and this latest and probably last haul of leaked details cements some of the reasons why you might be on the fence about it as well.
+
+
+***
+![Hyundai's new Mobile Eccentric Droid looks perfect for Baby Yoda](https://cdn.slashgear.com/wp-content/uploads/2021/12/cribtme.jpg "Hyundai's new Mobile Eccentric Droid looks perfect for Baby Yoda")
+
+
+[Hyundai's new Mobile Eccentric Droid looks perfect for Baby Yoda](https://www.slashgear.com/hyundais-new-mobile-eccentric-droid-looks-perfect-for-baby-yoda-17703132/)
+
+
+> Someone at Hyundai has been watching The Mandalorian. The automaker has revealed its new Mobile Eccentric Droid or MobED. It looks like a wheeled version of the crib Baby Yoda* uses in the incredibly popular Disney+ series The Mandalorian. However, there are some key differences. Most notably, the baby hauling carriage has a frame and wheels rather than floating around as the crib does in the show. Via Hyundai *Yes, 'Baby Yoda' is not technically the correct name for the Star Wars character that first appeared in the first season of The Mandalorian (also called 'The Child' and later given a more specific, proper name).
+
+
+***
+![OPPO retractable camera details warrant a new Find X Pro ASAP](https://cdn.slashgear.com/wp-content/uploads/2021/12/oppo-retractable-camera-1-1.jpg "OPPO retractable camera details warrant a new Find X Pro ASAP")
+
+
+[OPPO retractable camera details warrant a new Find X Pro ASAP](https://www.slashgear.com/oppo-retractable-camera-details-warrant-a-new-find-x-pro-asap-17703088/)
+
+
+> OPPO made a big splash this week with the debut of its first foldable phone, the OPPO Find N. Initial feedback seems to be quite positive, but it was the same for the first Samsung Galaxy Fold until a week or month after those hands-on articles were published. The Find N, however, isn't the only innovation that the company had to reveal earlier this week. It finally disclosed some details about its new camera technology, and it will probably make mobile shutterbugs wish there was already a phone that would be using it.
+
+
+***
+![Galaxy Tab S8 Ultra leak tips big features that go beyond hardware](https://cdn.slashgear.com/wp-content/uploads/2021/12/s7.jpg "Galaxy Tab S8 Ultra leak tips big features that go beyond hardware")
+
+
+[Galaxy Tab S8 Ultra leak tips big features that go beyond hardware](https://www.slashgear.com/galaxy-tab-s8-ultra-leak-tips-big-features-that-go-beyond-hardware-17703078/)
+
+
+> It seems Samsung will focus heavily on its Ultra models next year, at least if leaks for both the Galaxy S22 Ultra (aka, the Galaxy S22 Note) and the Galaxy Tab S8 Ultra are accurate. Some might find the latter device a bit more interesting, again based on those same leaks, because of the big changes it'll allegedly pack. The gigantic tablet might not just be a larger variant and instead will, according to tipsters, bring some new software features to Samsung's tablet line. Framesira/Shutterstock 91mobiles There is still some uncertainty over whether the Galaxy Tab S8 Ultra will run Samsung's still absent AMD-augmented Exynos 2200, but the new Qualcomm Snapdragon 8 Gen 1 might be quite capable of functioning as an ARM-based laptop processor — especially if it's paired with 8, 12, or even 16 GB of RAM and a large 11,200mAh battery.
+
+
+***
+![Filipino engineers' forum holds meeting](https://img.gulf-times.com/Content/Upload/Slider/1220211718145651877442.jpg "Filipino engineers' forum holds meeting")
+
+
+[Filipino engineers' forum holds meeting](https://www.gulf-times.com/story/706411/Filipino-engineers-forum-holds-meeting)
+
+
+> More than 400 electrical engineers took part in the Institute of Integrated Electrical Engineers of the Philippines (IIEE), Qatar Chapter's '16th Annual Conference, Technical Seminar and General Membership Meeting', held in a hybrid format recently. The conference was attended by the Professional Regulation Commission (PRC) - Board of Electrical Engineering chairman Francis V Mapile, PRC - Board of Electrical Engineering member Jaime V Mendoza, IIEE national president Allan Anthony P Alvarez, IIEE Foreign region governor Orlando T Villapana Jr, and IIEE Middle East Region founding governor Robert U Mabulay.
+
+
