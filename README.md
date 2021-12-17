@@ -38816,3 +38816,13 @@
 > More than 400 electrical engineers took part in the Institute of Integrated Electrical Engineers of the Philippines (IIEE), Qatar Chapter's '16th Annual Conference, Technical Seminar and General Membership Meeting', held in a hybrid format recently. The conference was attended by the Professional Regulation Commission (PRC) - Board of Electrical Engineering chairman Francis V Mapile, PRC - Board of Electrical Engineering member Jaime V Mendoza, IIEE national president Allan Anthony P Alvarez, IIEE Foreign region governor Orlando T Villapana Jr, and IIEE Middle East Region founding governor Robert U Mabulay.
 
 
+***
+![Investment Platform Anthemis Group Secures $700M to Support its Fintech Strategy](https://www.crowdfundinsider.com/wp-content/uploads/2021/01/NYSE-New-York-Fintech-scaled.jpg "Investment Platform Anthemis Group Secures $700M to Support its Fintech Strategy")
+
+
+[Investment Platform Anthemis Group Secures $700M to Support its Fintech Strategy](https://www.crowdfundinsider.com/2021/12/184341-investment-platform-anthemis-group-secures-700m-to-support-its-fintech-strategy)
+
+
+> Anthemis Group, an investment platform that's focused on cultivating change in the financial system, has announced that they've now closed multiple funds. Combined, the total raises exceed $700M, bringing the company's AUM to $1.2 billion. This key milestone comes more than 10 years after the firm emerged as one of the earliest and most active investors in the Fintech industry, signaling the next phase of growth for the firm as it 'positions its platform, team and leadership for 2022 and beyond.
+
+
