@@ -38736,3 +38736,33 @@
 > Tech companies including IBM are among the best places for women and people of colour in the US to work in, a survey found. — AFP Six of the 10 best companies for women to work at in the US right now are in the technology sector, a new survey shows. IBM Corp was listed as the top large company for women to work at this year, according to Comparably, a platform where workers review employers. Comparably compiled its list from ratings made by female users between November 2020 and November 2021. The next highest-ranking tech company was Adobe Inc in third place; HubSpot, Inc in fourth; Medallia Inc in fifth; Microsoft Corp in ninth; and The Knot Worldwide Inc in 10th.
 
 
+***
+![India central bank's push towards card security likely to hit merchants, lenders](https://apicms.thestar.com.my/uploads/images/2021/12/17/1410493.jpg "India central bank's push towards card security likely to hit merchants, lenders")
+
+
+[India central bank's push towards card security likely to hit merchants, lenders](https://www.thestar.com.my/tech/tech-news/2021/12/17/india-central-bank039s-push-towards-card-security-likely-to-hit-merchants-lenders---industry-sources)
+
+
+> FILE PHOTO: FILE PHOTO: A Reserve Bank of India (RBI) logo is seen at the gate of its office in New Delhi, India, November 9, 2018. REUTERS/Altaf Hussain/File Photo/File Photo MUMBAI (Reuters) - The Reserve Bank of India's plans to move towards card tokenisation is likely to hit a wide range of companies from major e-commerce firms and food delivery firms to lenders, while increasing the use of cash, said industry sources and bankers. RBI issued guidelines in March 2020 saying that merchants will not be allowed to save card information on their websites to boost data security.
+
+
+***
+![SG woman saved from losing S$500,000 after digital-asset firm flags scam to cops](https://apicms.thestar.com.my/uploads/images/2021/12/17/1410450.jpeg "SG woman saved from losing S$500,000 after digital-asset firm flags scam to cops")
+
+
+[SG woman saved from losing S$500,000 after digital-asset firm flags scam to cops](https://www.thestar.com.my/tech/tech-news/2021/12/17/sg-woman-saved-from-losing-s500000-after-digital-asset-firm-flags-scam-to-cops)
+
+
+> QCP Capital played a critical role in foiling what is billed as a Government Officials Impersonation Scam. — The Straits Times/ANN SINGAPORE: When the person on the automated voice machine told her he was from the High Court and said that she was a suspect in a money-laundering case, Megan (not her real name) panicked. She insisted she was innocent, and he eventually suggested she might have been a victim of identity theft. She then spoke to another person who identified himself as Inspector Lim from the Singapore Police Force, who said they would investigate further.
+
+
+***
+![Xinhua: China to let ride-hailing drivers, delivery workers form unions](https://apicms.thestar.com.my/uploads/images/2021/12/17/1410306.jpeg "Xinhua: China to let ride-hailing drivers, delivery workers form unions")
+
+
+[Xinhua: China to let ride-hailing drivers, delivery workers form unions](https://www.thestar.com.my/tech/tech-news/2021/12/17/xinhua-china-to-let-ride-hailing-drivers-delivery-workers-form-unions)
+
+
+> A delivery worker of Ele.me picks up food from the kitchen of a takeaway restaurant, in Beijing, China. Chinese authorities have targeted platform companies driving the so-called 'gig economy' this year, as part of a wave of regulatory tightening that has lasted over a year. — Reuters BEIJING: China plans to amend laws to allow ride-hailing drivers and food delivery workers to form unions, state media reported on Dec 17. China will review the amendment on its trade union law starting December and plans to add rules to expand the type of organisations and work for which unions can be formed, the spokesperson for China's parliament's Legislative Affairs Commission Yue Zhongming said at a news conference on Friday, according to Xinhua.
+
+
