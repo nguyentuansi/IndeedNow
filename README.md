@@ -38976,3 +38976,53 @@
 > gaming laptop Also Read Best ultrawide monitors in India ASUS TUF Gaming F15 Laptop The ASUS TUF Gaming F15 laptop features a 15.6-inch LED-backlit FHD display with a 144Hz refresh rate. The laptop is said to be equipped with 4GB NVIDIA GeForce GTX 1650 dedicated graphics. It is powered by a 10th Gen Intel i5 processor. The laptop features a backlit keyboard that should offer better visibility under low lights. The ASUS TUF F15 laptop comes with 8GB RAM and 512GB SSD storage. Lenovo IdeaPad Gaming 3 The Lenovo Ideapad Gaming 3 laptop is known to be a suitable laptop for gaming as it features a 15.
 
 
+***
+![Ford Talks Changes For 2022 Mustang Mach-E](https://cdn.slashgear.com/wp-content/uploads/2021/12/Mustang-Mach-E-Premium-Ice-White-Edition.jpg "Ford Talks Changes For 2022 Mustang Mach-E")
+
+
+[Ford Talks Changes For 2022 Mustang Mach-E](https://www.slashgear.com/ford-talks-changes-for-2022-mustang-mach-e-18703320/)
+
+
+> Ford confirmed some details about the 2022 Mach-E electric vehicle that proved extremely popular in 2021 when it debuted. The 2022 Mach-E is now available to order with the entry-level model starting at $43,895. The automaker also confirmed that the Mach-E California Route 1 is now available with electric all-wheel drive and standard heated seats and steering wheel. Ford It's odd to have a car named the California Route 1 with features that make it more suitable to cold-weather states. That said, any Californian making a trip into the mountains will certainly appreciate the all-wheel drive and heated seats.
+
+
+***
+![iQOO Neo 5 SE Major Specifications Revealed in an Official Teaser Video](https://telecomtalk.info/wp-content/uploads/2021/12/iqoo-neo-5-se-major-specifications-revealed.jpg "iQOO Neo 5 SE Major Specifications Revealed in an Official Teaser Video")
+
+
+[iQOO Neo 5 SE Major Specifications Revealed in an Official Teaser Video](https://telecomtalk.info/iqoo-neo-5-se-major-specifications-revealed/486192/)
+
+
+> The upcoming Neo 5 SE will operate on Snapdragon 870 SoC.iQOO Neo 5 SE will feature a triple rear camera setup which will consist of a 50MP primary camera.The device is expected to come in White, Dark Blue, and Blue Gradient colour options.It has been known for a while now that iQOO is working on Neo 5 series for a while now and it seems that the launch of the series of smartphones is around the corner. The mid-range device will be launched in China on December 20 and the series is slated to include – Neo 5S and Neo 5 SE.
+
+
+***
+![How To Use Your iPhone As A Hotspot](https://cdn.slashgear.com/wp-content/uploads/2021/12/iphone-hotspot.jpg "How To Use Your iPhone As A Hotspot")
+
+
+[How To Use Your iPhone As A Hotspot](https://www.slashgear.com/how-to-use-your-iphone-as-a-hotspot-18703346/)
+
+
+> Apple's line of iPhones is one of the most popular family of smartphones on the market and continually wins praise for its performance. Apple's home-grown A-series processors offer industry-leading performance that makes the iPhone an absolute powerhouse. Recent models have added 5G, providing high-speed data connectivity to complement the iPhone's processing capabilities. Aleksey H/Shutterstock One noticeable omission from Apple's product line, however, is a cellular-equipped Mac. While various PC laptops have offered the ability to install a SIM card for years, Apple has never offered a Mac with this ability.
+
+
+***
+![iQOO U5 Spotted at TENAA Certification Site Revealing Specifications of the Handset](https://telecomtalk.info/wp-content/uploads/2021/12/iqoo-u5-spotted-at-tenaa-certification-site.jpg "iQOO U5 Spotted at TENAA Certification Site Revealing Specifications of the Handset")
+
+
+[iQOO U5 Spotted at TENAA Certification Site Revealing Specifications of the Handset](https://telecomtalk.info/iqoo-u5-spotted-at-tenaa-certification-site/486168/)
+
+
+> The processor mentioned on the listing operates at 2.2GHz suggesting that it could be a MediaTek Dimensity 810 chipset.The device is expected to be backed by a 4,910mAh battery.iQOO U5 is speculated to have a dual rear camera setup with a 50MP primary sensor paired up with a 2MP secondary sensor.The recent reports suggest that the launch of the new smartphone iQOO U5 might just be around the corner, as the device has been spotted at the TENAA certification site. Another source has also suggested that the upcoming iQOO U5 may be joined by the iQOO U5x series.
+
+
+***
+![The Best iPhone 13 Deals—and Which Model to Pick](https://media.wired.com/photos/61439856a50fedb6246db646/master/w_1600%2Cc_limit/Gear-Apple_iphone13_hero_09142021.jpeg "The Best iPhone 13 Deals—and Which Model to Pick")
+
+
+[The Best iPhone 13 Deals—and Which Model to Pick](https://newsakmi.com/news/tech-news/product-reviews/the-best-iphone-13-deals-and-which-model-to-pick/)
+
+
+> ready to upgrade to the iPhone 13? Well, you've got the choice of four iPhone models. If you're struggling to find the best deal, you don't know which model (and color) to pick, or you're wondering if you even need to upgrade, we've got you covered. Below, we break down the differences between the iPhone 13, iPhone 13 Mini, iPhone 13 Pro, and iPhone 13 Pro Max, and have details on how to order one of these shiny slabs of glass (or multiple, we don't judge). Be sure to check out our Best iPhone 13 Cases and Accessories and Best MagSafe Accessories guides to kit your new phone.
+
+
