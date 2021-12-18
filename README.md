@@ -38886,3 +38886,43 @@
 > PTI | Updated on: 21 Aug 2019, 11:41:53 PM antigua: India are likely to go into their World Test Championship opener with a four-bowler strategy, hinted skipper Virat Kohli on the eve of the first Test against the West Indies here on Wednesday. A lively pitch was dished out in the last Test played here between the West Indies and England. 'We could not look at the wicket as it was still covered. After looking at the pitch, it is more or less a choice between three quicks and a spinner or two quicks and two spinners,' Kohli said.
 
 
+***
+![Turkish foreign minister meets more counterparts from African countries](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/12/18/2b128bcd-1ldkdm7vcdj6rhqyimzo9k.jpeg "Turkish foreign minister meets more counterparts from African countries")
+
+
+[Turkish foreign minister meets more counterparts from African countries](https://www.yenisafak.com/en/news/turkish-foreign-minister-meets-more-counterparts-from-african-countries-3586273)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyon General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya General
+
+
+***
+![Turkish Cypriot says Greek side's Navtex is move to escalate tension](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/12/18/dc4d5e64-w4pn9yskn2pfhaib2fzt.jpeg "Turkish Cypriot says Greek side's Navtex is move to escalate tension")
+
+
+[Turkish Cypriot says Greek side's Navtex is move to escalate tension](https://www.yenisafak.com/en/news/turkish-cypriot-says-greek-sides-navtex-is-move-to-escalate-tension-3586270)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyon General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya General
+
+
+***
+![Noise Beads TWS Earbuds With Up to 18 Hours of Listening Time Debut](https://i.gadgets360cdn.com/large/noise_beads_image_1639813601551.jpg "Noise Beads TWS Earbuds With Up to 18 Hours of Listening Time Debut")
+
+
+[Noise Beads TWS Earbuds With Up to 18 Hours of Listening Time Debut](https://gadgets.ndtv.com/audio/news/noise-beads-tws-earbuds-price-in-india-rs-1499-launch-sale-date-december-24-specifications-features-amazon-2658106)
+
+
+> Noise Beads have silently debuted as the latest entrant in the growing market of truly wireless stereo (TWS) earbuds in India. The new earbuds come with a metallic finish and are claimed to deliver up to 18 hours of listening time on a single charge. The Noise Beads also come with touch controls and include support for voice assistants. The earbuds feature a beads-like design and come in a compact charging case. Users also have two different colour options to choose from.Noise Beads price in India, availabilityNoise Beads price in India has been set at Rs.
+
+
+***
+![Google Facing Probe For How It Treats Black Female Workers: Report](https://www.glamsham.com/wp-content/uploads/2021/12/f9d9fe6f2483081708667f37b963b89f-1.jpg "Google Facing Probe For How It Treats Black Female Workers: Report")
+
+
+[Google Facing Probe For How It Treats Black Female Workers: Report](https://www.glamsham.com/world/technology/google-facing-probe-for-how-it-treats-black-female-workers-report)
+
+
+> San Francisco, Dec 18 (IANS) The California Department of Fair Employment and Housing (DFEH) is probing how Google treats its Black female employees, the media reported.The US regulator has been asking Google workers questions about harassment and discrimination after receiving formal complaints, reports The Verge.According to its recent diversity report, Black women make up around 1.8 per cent of Google's workforce, and there is 'room for improvement'.In reference to the ongoing probe, a Google spokesperson said that the tech giant has invested in retention programmes to 'make Google a more welcoming place for Black employees'.
+
+
