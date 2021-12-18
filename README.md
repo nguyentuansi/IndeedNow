@@ -39026,3 +39026,23 @@
 > ready to upgrade to the iPhone 13? Well, you've got the choice of four iPhone models. If you're struggling to find the best deal, you don't know which model (and color) to pick, or you're wondering if you even need to upgrade, we've got you covered. Below, we break down the differences between the iPhone 13, iPhone 13 Mini, iPhone 13 Pro, and iPhone 13 Pro Max, and have details on how to order one of these shiny slabs of glass (or multiple, we don't judge). Be sure to check out our Best iPhone 13 Cases and Accessories and Best MagSafe Accessories guides to kit your new phone.
 
 
+***
+![NASA shared some extraordinary new sights and sounds from Jupiter orbit](https://helios-i.mashable.com/imagery/articles/05DJV73u7viWsrOmTYhT7u9/hero-image.fill.size_1200x675.v1639856645.jpg "NASA shared some extraordinary new sights and sounds from Jupiter orbit")
+
+
+[NASA shared some extraordinary new sights and sounds from Jupiter orbit](https://mashable.com/article/jupiter-ganymede-nasa-audio-photos)
+
+
+> Who would've guessed that Ganymede, one of Jupiter's many moons, sounds like a Brian Eno album?A new research dump from the Juno orbiter has given all of us space nerds a blessed holiday treat: Sights and sounds from our solar system's largest planet and its largest moon. The photos of the swirling gas giant's "surface" are as gorgeous and painterly as Jupiter watchers have come to expect, but the real treat is that audio track.Captured by Juno's Waves instrument, which measures electric and radio waves in a planet's (or moon's, in this case) magnetosphere, the 50-second clip puts out some positively otherworldly sounds.
+
+
+***
+![Papering Over our TPM 2.0 TSS Divisions : programming](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Papering Over our TPM 2.0 TSS Divisions : programming")
+
+
+[Papering Over our TPM 2.0 TSS Divisions : programming](https://www.reddit.com/r/programming/comments/rjetl0/papering_over_our_tpm_20_tss_divisions)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
