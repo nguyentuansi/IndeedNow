@@ -38826,3 +38826,53 @@
 > Anthemis Group, an investment platform that's focused on cultivating change in the financial system, has announced that they've now closed multiple funds. Combined, the total raises exceed $700M, bringing the company's AUM to $1.2 billion. This key milestone comes more than 10 years after the firm emerged as one of the earliest and most active investors in the Fintech industry, signaling the next phase of growth for the firm as it 'positions its platform, team and leadership for 2022 and beyond.
 
 
+***
+![Tesla faces investor lawsuit over Musk tweets on 10% stock sales](https://apicms.thestar.com.my/uploads/images/2021/12/18/1411181.jpg "Tesla faces investor lawsuit over Musk tweets on 10% stock sales")
+
+
+[Tesla faces investor lawsuit over Musk tweets on 10% stock sales](https://www.thestar.com.my/tech/tech-news/2021/12/18/tesla-faces-investor-lawsuit-over-musk-tweets-on-10-stock-sales)
+
+
+> FILE PHOTO: Tesla Inc CEO Elon Musk walks next to a screen showing an image of Tesla Model 3 car during an opening ceremony for Tesla China-made Model Y program in Shanghai, China January 7, 2020. REUTERS/Aly Song/File Photo/File Photo San Francisco (Reuters) - Tesla Inc was hit by a lawsuit over CEO Elon Musk's social media posts including his Twitter poll on stock sales that pulled down its stock prices.Tesla investor David Wagner called for access to internal documents to investigate whether Tesla and Musk violated an agreement with the U.
+
+
+***
+![The weirdest smart gadgets you can buy right now](https://cdn.slashgear.com/wp-content/uploads/2021/12/Banana-Phone-talk-time-.jpg "The weirdest smart gadgets you can buy right now")
+
+
+[The weirdest smart gadgets you can buy right now](https://www.slashgear.com/the-weirdest-smart-gadgets-you-can-buy-right-now-17703227/)
+
+
+> We're in the midst of a smart gadget revolution. Anything that can be given wireless connectivity is getting it, from refrigerators and home lighting to smoke detectors and doorbells. While many smart gadgets have broad usage and many more solve specific, niche problems, there are a lot of weird devices out there that leave us scratching our heads. Today we're running down some of the weirdest smart devices that you can buy right this minute, so settle in for some tech oddities. Image credit: Banana Phone Before diving in, keep in mind that while these gadgets may appear weird, they still have the potential to be useful.
+
+
+***
+![How to Fix Your Android Phone's Poor Battery Life](https://cdn.slashgear.com/wp-content/uploads/2021/12/batterylevel.jpg "How to Fix Your Android Phone's Poor Battery Life")
+
+
+[How to Fix Your Android Phone's Poor Battery Life](https://www.slashgear.com/how-to-fix-your-android-phones-poor-battery-life-17703247/)
+
+
+> Android offers a great user experience for many users with one of the key reasons being its ability to finely tailor its phone to your personal preferences. This includes being able to control how your device consumes its battery charge — which can help a lot when it seems like your Android phone is using more power than it should. It may not be an issue if you are working from home or near a power supply, but if you are out on the go, you might want to consider implementing some simple changes to get the most out of your battery life.
+
+
+***
+![Pfizer's early COVID vaccine trial data hints at bad news for some parents](https://cdn.slashgear.com/wp-content/uploads/2021/12/pfizer-biontech-covid-vaccine-trial-young-kids.jpg "Pfizer's early COVID vaccine trial data hints at bad news for some parents")
+
+
+[Pfizer's early COVID vaccine trial data hints at bad news for some parents](https://www.slashgear.com/pfizers-early-covid-vaccine-trial-data-hints-at-bad-news-for-some-parents-17703250/)
+
+
+> Pfizer and BioNTech, the companies behind one of the COVID-19 vaccines authorized for use in the United States, have announced plans to expand their trial involving kids in the youngest age groups. Going forward, the clinical study will add a third dose to the vaccine regimen for babies and young kids ages 6 months to 4 years of age. The reason, the company notes, was less than robust responses in participants given the two-dose series. Seda Yalova/Shutterstock Pfizer trial on young kids myboys.
+
+
+***
+![Our View: An entrepreneurial legend moves on from Ingoen](https://www.pacbiztimes.com/favicon.ico "Our View: An entrepreneurial legend moves on from Ingoen")
+
+
+[Our View: An entrepreneurial legend moves on from Ingoen](https://www.pacbiztimes.com/2021/12/17/our-view-an-entrepreneurial-legend-moves-on-from-ingoen/)
+
+
+> Among the rock stars of the Central Coast innovation culture, Inogen co-founder Ali Bauerlein will always be near the top of our list. It was her grandmother's health problems that sparked the idea for a new type of oxygen concentrator more than 20 years ago. And Bauerlein followed the company from an award-winning student business plan to co-founder, capital raiser and eventually CFO, with a successful IPO and the fielding of countless analyst calls along the way. Over the years, she got married, became a mom and survived a tumultuous two decades in business.
+
+
