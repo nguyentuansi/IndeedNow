@@ -38876,3 +38876,13 @@
 > Among the rock stars of the Central Coast innovation culture, Inogen co-founder Ali Bauerlein will always be near the top of our list. It was her grandmother's health problems that sparked the idea for a new type of oxygen concentrator more than 20 years ago. And Bauerlein followed the company from an award-winning student business plan to co-founder, capital raiser and eventually CFO, with a successful IPO and the fielding of countless analyst calls along the way. Over the years, she got married, became a mom and survived a tumultuous two decades in business.
 
 
+***
+![Virat Kohli hints at four-bowler strategy for series opener](https://media5.newsnationtv.com/images/2019/08/21/virat-1000.jpeg "Virat Kohli hints at four-bowler strategy for series opener")
+
+
+[Virat Kohli hints at four-bowler strategy for series opener](https://english.newsnationtv.com/sports/cricket/virat-kohli-hints-at-four-bowler-strategy-for-series-opener-234866.html)
+
+
+> PTI | Updated on: 21 Aug 2019, 11:41:53 PM antigua: India are likely to go into their World Test Championship opener with a four-bowler strategy, hinted skipper Virat Kohli on the eve of the first Test against the West Indies here on Wednesday. A lively pitch was dished out in the last Test played here between the West Indies and England. 'We could not look at the wicket as it was still covered. After looking at the pitch, it is more or less a choice between three quicks and a spinner or two quicks and two spinners,' Kohli said.
+
+
