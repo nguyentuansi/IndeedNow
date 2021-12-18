@@ -38926,3 +38926,53 @@
 > San Francisco, Dec 18 (IANS) The California Department of Fair Employment and Housing (DFEH) is probing how Google treats its Black female employees, the media reported.The US regulator has been asking Google workers questions about harassment and discrimination after receiving formal complaints, reports The Verge.According to its recent diversity report, Black women make up around 1.8 per cent of Google's workforce, and there is 'room for improvement'.In reference to the ongoing probe, a Google spokesperson said that the tech giant has invested in retention programmes to 'make Google a more welcoming place for Black employees'.
 
 
+***
+![Global Insect Pet Food Market Size Study, By type, By Application and Regional Forecast to 2021-2026](https://marketresearch449.files.wordpress.com/2021/12/global-insect-pet-food-market-research-report-2021-2026.jpg?w=500 "Global Insect Pet Food Market Size Study, By type, By Application and Regional Forecast to 2021-2026")
+
+
+[Global Insect Pet Food Market Size Study, By type, By Application and Regional Forecast to 2021-2026](http://www.comunicati.net/comunicati/aziende/tecnologia/748156.html)
+
+
+> Bharat Book Bureau Provides the Trending Market Research Report on 'Global Insect Pet Food Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026' under Food & Beverage Market Research Reports Category. The report offers a collection of superior market research, market analysis, competitive intelligence and Market reports. The Insect Pet Food Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic and global market players, value chain optimization, trade regulations, recent developments, opportunities analysis, strategic market growth analysis, product launches, area marketplace expanding, and technological innovations.
+
+
+***
+![Destruction All-Star devs are working on a 'First-Party Flagship AAA IP'](https://www.kitguru.net/wp-content/uploads/2021/12/destruction-allstars-news-1024x576-1-732x330.jpg "Destruction All-Star devs are working on a 'First-Party Flagship AAA IP'")
+
+
+[Destruction All-Star devs are working on a 'First-Party Flagship AAA IP'](https://www.kitguru.net/tech-news/mustafa-mahmoud/destruction-all-star-devs-are-working-on-a-first-party-flagship-aaa-ip/)
+
+
+> Timur222 has become well-known for scouring job websites looking for any new details that can be gleaned from job listings in the video games industry. As discovered by Timur222, Lucid Games – the developers behind the PS5 exclusive Destruction All-Stars – is now working on an 'unannounced First-Party Flagship AAA IP for the PlayStation 5.' According to Drew Williams-Rostron, the previous technical designer at Lucid Games, the studio is currently working on 'an unannounced First-Party Flagship AAA IP for the PlayStation 5'.
+
+
+***
+![Best 21-inch Full HD Monitors under a budget in India](https://www.businessinsider.in/photo/87703439/best-21-inch-full-hd-monitors-under-a-budget-in-india.jpg "Best 21-inch Full HD Monitors under a budget in India")
+
+
+[Best 21-inch Full HD Monitors under a budget in India](https://www.businessinsider.in/tech-buying-guides/best-21-inch-full-hd-monitors-under-a-budget-in-india/articleshow/87703439.cms)
+
+
+> The 21.5-inch monitors with FHD (1920x1080p) resolution support are a decent choice for anyone looking to get a monitor for work or light gaming under a budget. If you are planning to buy a monitor, look for features like refresh rate, AMD FreeSync, eye-care features and bezel size. To help you buy a 21.5-inch FHD monitor, here are the best options available on Amazon. The Acer 21.5-inch monitor comes with 1920x1080p resolution support display with 75Hz refresh rate that should offer a decent gaming experience.
+
+
+***
+![Buy thin and light laptops with a backlit keyboard](https://www.businessinsider.in/photo/87703809/buy-thin-and-light-laptops-in-india.jpg "Buy thin and light laptops with a backlit keyboard")
+
+
+[Buy thin and light laptops with a backlit keyboard](https://www.businessinsider.in/tech-buying-guides/buy-thin-and-light-laptops-in-india/articleshow/87703809.cms)
+
+
+> Thin and light laptops are essential for anyone who has to commute daily as a heavier laptop can take a toll on the back. And laptops with backlit keys are key for anyone who has to work during night or in low light conditions as it improves the visibility and prevents you from pressing the wrong keys. To help you buy a compact laptop with a backlit keyboard, here are the best options available on Amazon. MacBook Pro claims to offer high-performance with its fast processing M1 chip. It promises high-quality graphics with an 8-core GPU.
+
+
+***
+![Affordable gaming laptops with a backlit keyboard](https://www.businessinsider.in/photo/87703590/best-affordable-gaming-laptops-in-india.jpg "Affordable gaming laptops with a backlit keyboard")
+
+
+[Affordable gaming laptops with a backlit keyboard](https://www.businessinsider.in/tech-buying-guides/best-affordable-gaming-laptops-in-india/articleshow/87703590.cms)
+
+
+> gaming laptop Also Read Best ultrawide monitors in India ASUS TUF Gaming F15 Laptop The ASUS TUF Gaming F15 laptop features a 15.6-inch LED-backlit FHD display with a 144Hz refresh rate. The laptop is said to be equipped with 4GB NVIDIA GeForce GTX 1650 dedicated graphics. It is powered by a 10th Gen Intel i5 processor. The laptop features a backlit keyboard that should offer better visibility under low lights. The ASUS TUF F15 laptop comes with 8GB RAM and 512GB SSD storage. Lenovo IdeaPad Gaming 3 The Lenovo Ideapad Gaming 3 laptop is known to be a suitable laptop for gaming as it features a 15.
+
+
