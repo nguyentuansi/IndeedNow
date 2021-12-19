@@ -39196,3 +39196,53 @@
 > A new report by Meta says about 50,000 users will receive warnings about the "malicious activities". It accused surveillance firms of actions like creating fake accounts, befriending targets and using hacking methods to harvest information. The company accused the companies of targeting individuals including journalists and human rights activists. It said in its report that some 1,500 pages had been suspended by Meta across Facebook, Instagram and WhatsApp following a months-long investigation. The companies targeted people in more than 100 countries on behalf of their clients, Meta said.
 
 
+***
+![LG unveils new premium soundbar for music, gaming](https://img.dtnext.in/Articles/2021/Dec/202112191542220742_LG-unveils-new-premium-soundbar-for-music-gaming_SECVPF.gif "LG unveils new premium soundbar for music, gaming")
+
+
+[LG unveils new premium soundbar for music, gaming](https://www.dtnext.in/Lifestyle/Technology/2021/12/19154222/1334688/LG-unveils-new-premium-soundbar-for-music-gaming.vpf)
+
+
+> Consumer electronics brand LG has unveiled a new 9.1.5-channel Dolby Atmos and DTS:X soundbar that features a novel upward firing centre speaker that bounces dialogue off the celling and to your ears so you can hear clearly. Seoul: While up-firing drivers are a big part of how soundbars produce surround sound in general, it is one of five here, LG claims the up-firing center is a world-first, The Verge reported.The soundbar also includes a pair of wireless rear speakers that can now additionally send audio to the side walls of the room, which could also increase the audio immersion.
+
+
+***
+![OxygenOS 12 update for OnePlus 9, 9 Pro rolling out once again](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-ji25k12rsth3gg17dnlqh33k30-20211214130959.jpeg "OxygenOS 12 update for OnePlus 9, 9 Pro rolling out once again")
+
+
+[OxygenOS 12 update for OnePlus 9, 9 Pro rolling out once again](https://www.asianage.com/technology/in-other-news/191221/oxygenos-12-update-for-oneplus-9-9-pro-rolling-out-once-again.html)
+
+
+> ANI Published : Dec 19, 2021, 11:28 am IST Updated : Dec 19, 2021, 11:28 am IST As per GSM Arena, the rollout is incremental, meaning only a small percentage of units are getting it today  OnePlus logo. (Photo: ANI/File) Shenzhen: OnePlus initially started sending out the update to OxygenOS 12 based on Android 12 to the OnePlus 9 and 9 Pro around the beginning of this month. The company then pulled the update only a few days later, after the internet got filled with reports about huge bugs, errors, and various issues.
+
+
+***
+![TikTok to launch food delivery service from viral videos in US](https://img.dtnext.in/Articles/2021/Dec/202112191450424489_TikTok-to-launch-food-delivery-service-from-viral-videos-in_SECVPF.gif "TikTok to launch food delivery service from viral videos in US")
+
+
+[TikTok to launch food delivery service from viral videos in US](https://www.dtnext.in/Lifestyle/Technology/2021/12/19145043/1334679/TikTok-to-launch-food-delivery-service-from-viral-.vpf)
+
+
+> TikTok Kitchen will launch in about 300 US locations in 2022. The company already has plans to serve more than 1,000 locations by the end of next year, it added. San Francisco: Short video platform TikTok is reportedly planning to launch its own delivery service with food from viral videos in the US. According to 9To5Mac, the company is planning the announcement of TikTok Kitchen, which will take viral food videos to the next level with a food delivery service. The social network is partnering with Virtual Dining Concepts to turn meals from popular TikTok videos into actual dishes that users can order, the report said.
+
+
+***
+![LG rolls out indoor gardening appliance amid pandemic stress](https://img.dtnext.in/Articles/2021/Dec/202112191448126126_LG-rolls-out-indoor-gardening-appliance-amid-pandemic-stress_SECVPF.gif "LG rolls out indoor gardening appliance amid pandemic stress")
+
+
+[LG rolls out indoor gardening appliance amid pandemic stress](https://www.dtnext.in/Lifestyle/Technology/2021/12/19144813/1334678/LG-rolls-out-indoor-gardening-appliance-amid-pandemic-.vpf)
+
+
+> Published: Dec 19,202102:48 PM by IANS The technologies enable the optimal conditions for plants' organic growth in terms of temperature, the ideal amount of moisture and light, reports Yonhap news agency. Seoul: The prolonged Covid-19 pandemic has significantly changed how people spend their time at home, which became the location for everything from exercise to work. LG Electronics has rolled out an automated indoor gardening appliance, LG tiiun, which means "to sprout" in Korean, tapping into the growing need to grow plants, vegetables and produce at home all year round.
+
+
+***
+![Amazon's Appstore finally working again on Android 12: Report](https://img.dtnext.in/Articles/2021/Dec/202112191445323282_Amazons-Appstore-finally-working-again-on-Android-12_SECVPF.gif "Amazon's Appstore finally working again on Android 12: Report")
+
+
+[Amazon's Appstore finally working again on Android 12: Report](https://www.dtnext.in/Lifestyle/Technology/2021/12/19144532/1334677/Amazons-Appstore-finally-working-again-on-Android-.vpf)
+
+
+> Those with devices like the Google Pixel 6 and Samsung Galaxy S21 found they could not run any of the software they had previously downloaded from the Appstore, the report said. San Francisco: Tech giant Amazon has addressed the issue that had left those with Android 12 phones unable to use apps they had downloaded from the company's Appstore. According to Engadget, the marketplace had been malfunctioning for more than a month. "We have released a fix for an issue impacting app launches for Amazon Appstore customers that have upgraded to Android 12 on their mobile devices," a spokesperson was quoted as saying by the website.
+
+
