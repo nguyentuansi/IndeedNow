@@ -39146,3 +39146,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
 
 
+***
+![Egypt attends Turkey-Africa Partnership Summit in Istanbul](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/12/19/8cea0737-ooaxf84lhqg0786850m6.jpeg "Egypt attends Turkey-Africa Partnership Summit in Istanbul")
+
+
+[Egypt attends Turkey-Africa Partnership Summit in Istanbul](https://www.yenisafak.com/en/news/egypt-attends-turkey-africa-partnership-summit-in-istanbul-3586334)
+
+
+> Egypt's deputy foreign minister attended the third Turkey-Africa Partnership Summit that was held in Istanbul. Speaking at the summit, Hamdi Sanad Loza said that participating countries would contribute to regional development, stability and security, an Egyptian Foreign Ministry statement said on Saturday. The deputy foreign minister also touched upon the cooperation between Turkey and Egypt in the fields of mutual trade, investment and tourism, the statement added. On Sept. 7-8, the second round of consultations between the delegations headed by Sedat Onal, Turkey's deputy foreign minister and his Egyptian counterpart, were held in the capital Ankara.
+
+
+***
+![Turkey to continue to â€˜deepen ties with African nations'](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/12/19/f21b44c0-3s6rhp1wppbueiahbxu5jr.jpeg "Turkey to continue to â€˜deepen ties with African nations'")
+
+
+[Turkey to continue to â€˜deepen ties with African nations'](https://www.yenisafak.com/en/news/turkey-to-continue-to-deepen-ties-with-african-nations-3586333)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyon General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya General
+
+
+***
+![Armenia appoints special representative for dialogue with Turkey](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/12/19/5a32d004-g4amh5av2ismgpc7q880xe.jpeg "Armenia appoints special representative for dialogue with Turkey")
+
+
+[Armenia appoints special representative for dialogue with Turkey](https://www.yenisafak.com/en/news/armenia-appoints-special-representative-for-dialogue-with-turkey-3586331)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyon General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya General
+
+
+***
+![Turkey greets Qatar on National Day](https://img.piri.net/mnresize/600/-/piri/upload/3/2021/12/19/a0fba87d-99bxjzj53xupik0eu8ddn.jpeg "Turkey greets Qatar on National Day")
+
+
+[Turkey greets Qatar on National Day](https://www.yenisafak.com/en/news/turkey-greets-qatar-on-national-day-3586329)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyon General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya General
+
+
+***
+![Meta bans surveillance-for-hire firms for targeting users](https://looppacificassets.s3.amazonaws.com/styles/no_watermark/s3/thumbnails/image/meta_bans_surveillance-for-hire_firms_for_targeting_users.jpg?itok=KmYaqZ1c "Meta bans surveillance-for-hire firms for targeting users")
+
+
+[Meta bans surveillance-for-hire firms for targeting users](https://www.looppng.com/tech/meta-bans-surveillance-hire-firms-targeting-users-107867)
+
+
+> A new report by Meta says about 50,000 users will receive warnings about the "malicious activities". It accused surveillance firms of actions like creating fake accounts, befriending targets and using hacking methods to harvest information. The company accused the companies of targeting individuals including journalists and human rights activists. It said in its report that some 1,500 pages had been suspended by Meta across Facebook, Instagram and WhatsApp following a months-long investigation. The companies targeted people in more than 100 countries on behalf of their clients, Meta said.
+
+
