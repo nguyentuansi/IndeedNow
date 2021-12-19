@@ -39296,3 +39296,33 @@
 > In this review we take a look at the Edifier Hecate GX Hi-Res Gaming headset. This headset works with a variety of games consoles and of course, your PC over USB. With a futuristic design and a promise of 'hi-res audio' we find out today if this headset is genuinely worth the money, or just all ‘show'. Watch via our Vimeo channel (below) or over on YouTube at 2160p HERE ﻿ Timestamps 00:00 Start 00:15 Introduction / pricing / accessories 03:24 Cable Microphone test 04:30 Design of headset – comfort 05:43 Earcups / build quality 06:45 Buttons and lighting modes 08:47 More buttons and ports 09:35 The Microphone 10:06 Microphone audio test and thoughts 11:41 Headset sound quality 12:25 Noise Cancellation 12:42 Gaming experience 13:10 Music/Movies 13:26 Closing Thoughts Specifications: New 50mm titanium diaphragm drivers Rolling volume control Retractable microphone RGB lights High-quality headband Soft leatherette ear cups 96kHz/24bits decoding Total immersion in-game/music mode Noise cancelling chip Three types of interfaces: compatible with PC and so on C/USB/3.
 
 
+***
+![Virtual Payments Surge Leads to Sharp Increase in Dispute Volumes Across the Sector, Verifi Reveals](https://www.crowdfundinsider.com/wp-content/uploads/2016/01/UK-Payments-iPhone-Money.jpg "Virtual Payments Surge Leads to Sharp Increase in Dispute Volumes Across the Sector, Verifi Reveals")
+
+
+[Virtual Payments Surge Leads to Sharp Increase in Dispute Volumes Across the Sector, Verifi Reveals](https://www.crowdfundinsider.com/2021/12/184428-virtual-payments-surge-leads-to-sharp-increase-in-dispute-volumes-across-the-sector-verifi-reveals)
+
+
+> Verifi, a Visa solution, is reportedly making strides to ease merchant pain points while driving operational efficiency with the international expansion of their 'first to market' Rapid Dispute Resolution (RDR) solution. As an innovative market participant specializing in merchant dispute prevention and resolution, Verifi first introduced RDR locally in early 2020, giving merchants the option to 'reduce the expensive and lengthy dispute resolution time by issuing a proactive customer refund in accordance with bespoke rule criteria set by the merchant.
+
+
+***
+![Amy Neale, SVP for Fintech and Enablers at Mastercard, Says They Continue to Work on Innovative Programs for Startups](https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Mastercard-Credit-Cards-756x1024.jpg "Amy Neale, SVP for Fintech and Enablers at Mastercard, Says They Continue to Work on Innovative Programs for Startups")
+
+
+[Amy Neale, SVP for Fintech and Enablers at Mastercard, Says They Continue to Work on Innovative Programs for Startups](https://www.crowdfundinsider.com/2021/12/184430-amy-neale-svp-for-fintech-and-enablers-at-mastercard-says-they-continue-to-work-on-innovative-programs-for-startups)
+
+
+> Mastercard (NYSE: MA) welcomes its new wave of startups to its Start Path startup engagement program. Start Path alums have shared their industry insights into the top trends of this year and what they've learned from a challenging year. The international economy continued its recovery 'in fits and starts in 2021, but fintech companies thrived as the digital acceleration created a wealth of opportunities for innovative thinkers and agile developers,' the update from Mastercard noted. Investment in Fintech reached a record $98 billion in H1 2021, according to KPMG's biannual report on fintech investment trends, 'as compared with $121.
+
+
+***
+![Learn this if you're stuck in tutoring hell! : programming](https://external-preview.redd.it/aKGuv9mlNcgtH9p4L2Fi3dq4-6ikjVVcUpWMJ5khNds.jpg?auto=webp&s=315cd46ebbb3c5b4a182ba3b82f9f511d42bd120 "Learn this if you're stuck in tutoring hell! : programming")
+
+
+[Learn this if you're stuck in tutoring hell! : programming](https://www.reddit.com/r/programming/comments/rk3yb0/learn_this_if_youre_stuck_in_tutoring_hell)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
