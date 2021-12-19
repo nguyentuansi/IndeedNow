@@ -39046,3 +39046,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
 
 
+***
+![3 of the highest-rated true wireless earbuds at bargain prices](https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/2d/92d02d7f-965b-5651-9120-28bc1bb0722d/61bb8275b7b38.preview.jpg?crop=1444%2C758%2C0%2C322&resize=1200%2C630&order=crop%2Cresize "3 of the highest-rated true wireless earbuds at bargain prices")
+
+
+[3 of the highest-rated true wireless earbuds at bargain prices](https://news.lee.net/lifestyles/technology/3-of-the-highest-rated-true-wireless-earbuds-at-bargain-prices/article_60ad3201-2668-59fc-aad9-f8edf3b67962.html)
+
+
+> 3 of the highest-rated true wireless earbuds at bargain prices Did you know that your earphones are home to 330 times more bacteria than a kitchen counter? Here is how to safely and effectively clean your earphones. There are plenty of wireless earbud alternatives to Apple's AirPods for under $100 — but what if you're looking for something even cheaper? And while there are certainly a lot of earbuds that cost $60 or less, only a few stand out, and several are surprisingly good for the price. As we like to say, you shouldn't expect the world at this low price, but unlike pricier models from Apple and others, you won't feel heartbroken if you happen to lose them.
+
+
+***
+![Google Photos Won't Offer Free Unlimited Storage Starting June 1, 2021](https://i.gadgets360cdn.com/large/google_maps_redesign_1_1593150188556.jpg "Google Photos Won't Offer Free Unlimited Storage Starting June 1, 2021")
+
+
+[Google Photos Won't Offer Free Unlimited Storage Starting June 1, 2021](https://gadgets.ndtv.com/apps/news/google-photos-ends-free-unlimited-cloud-storage-june-1-2021-delete-data-from-inactive-accounts-2324203)
+
+
+> Google Photos is ending its very enticing free unlimited storage benefit and will start charging for the storage space your photos and videos take over the 15GB quota. The new change will come into effect on June 1, 2021. It is aimed to help Google convince more people to get a paid Google One subscription that brings cloud storage for Google Photos, along with Google Drive and Gmail, of up to 30TB space. Google is additionally bringing a policy to delete data from inactive accounts that have not been signed in for at least two years.
+
+
+***
+![KikSwap.com is not another meme token, A cross chain multi staking and spot trading platform on Binance smart chain](https://apnews.com/images/PaidContent3.png "KikSwap.com is not another meme token, A cross chain multi staking and spot trading platform on Binance smart chain")
+
+
+[KikSwap.com is not another meme token, A cross chain multi staking and spot trading platform on Binance smart chain](https://apnews.com/press-release/globe-newswire/technology-blockchain-20c02060095523ac0f5df4052fca2b6f)
+
+
+> Singapore, Dec. 18, 2021 (GLOBE NEWSWIRE) -- (via Blockchain Wire ) The market for automated market maker exchanges is a huge industry in itself across different crypto networks. Almost all blockchain in some way holds exchanges for facilitating their user base. Like all other major blockchains, Binance smart chain too, has a number of exchanges on the platform certainly due to its higher transaction throughput and speed.Kikswap's competitors on Binance smart chain includes, pantherswap, pancakeswap panda swap, jetswap and many others.
+
+
+***
+![The best IDE for programmers ever built? Meet Fleet code editor, by Jetbrains : programming](https://external-preview.redd.it/B9VoHBQ6hNoVwh8tIGuOK-gPBJZkjzTbv2tJALGTR3w.jpg?auto=webp&s=beca0a101d3495266d1521b47b4c58b24a2c105f "The best IDE for programmers ever built? Meet Fleet code editor, by Jetbrains : programming")
+
+
+[The best IDE for programmers ever built? Meet Fleet code editor, by Jetbrains : programming](https://www.reddit.com/r/programming/comments/rjj9x5/the_best_ide_for_programmers_ever_built_meet)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![WhatsApp Voice Messages Can Be Previewed Before Sending](https://img.celebrities.id/okz/700/w65S1H/master_Iz6K28G5g4_2008_cara_edit_pesan_wa.jpg "WhatsApp Voice Messages Can Be Previewed Before Sending")
+
+
+[WhatsApp Voice Messages Can Be Previewed Before Sending](https://www.world-today-news.com/whatsapp-voice-messages-can-be-previewed-before-sending)
+
+
+> MENLO PARK, celebrities.id – WhatsApp have delivery feature voicemail new. This feature can see preview voice message to be sent. Often times when you are going to create a voice message on WhatsApp the said speech is interspersed with obstacles such as the words 'umm..' or 'umm..'. This also makes voice messages longer and less clear. Through this update, users can now view voicemail preview first before sending. Usually the user has to press and hold the record button, and sometimes accidentally send a message that feels messy and not ready to be sent.
+
+
