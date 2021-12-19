@@ -39096,3 +39096,53 @@
 > MENLO PARK, celebrities.id – WhatsApp have delivery feature voicemail new. This feature can see preview voice message to be sent. Often times when you are going to create a voice message on WhatsApp the said speech is interspersed with obstacles such as the words 'umm..' or 'umm..'. This also makes voice messages longer and less clear. Through this update, users can now view voicemail preview first before sending. Usually the user has to press and hold the record button, and sometimes accidentally send a message that feels messy and not ready to be sent.
 
 
+***
+![3 of the highest-rated true wireless earbuds at bargain prices](https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/3b/33bba4df-9a4c-5f2d-96c0-ef4f127f934b/61bb826be7683.preview.jpg?crop=1444%2C758%2C0%2C322&resize=1200%2C630&order=crop%2Cresize "3 of the highest-rated true wireless earbuds at bargain prices")
+
+
+[3 of the highest-rated true wireless earbuds at bargain prices](https://www.nwitimes.com/lifestyles/technology/3-of-the-highest-rated-true-wireless-earbuds-at-bargain-prices/article_33bba4df-9a4c-5f2d-96c0-ef4f127f934b.html)
+
+
+> 3 of the highest-rated true wireless earbuds at bargain prices Did you know that your earphones are home to 330 times more bacteria than a kitchen counter? Here is how to safely and effectively clean your earphones. There are plenty of wireless earbud alternatives to Apple's AirPods for under $100 — but what if you're looking for something even cheaper? And while there are certainly a lot of earbuds that cost $60 or less, only a few stand out, and several are surprisingly good for the price. As we like to say, you shouldn't expect the world at this low price, but unlike pricier models from Apple and others, you won't feel heartbroken if you happen to lose them.
+
+
+***
+![Tiger Global backs fintech CreditBook in first Pakistan investment](http://www.businessghana.com/site/img/../../cms/img/news/2021-12-17-17352202.jpg "Tiger Global backs fintech CreditBook in first Pakistan investment")
+
+
+[Tiger Global backs fintech CreditBook in first Pakistan investment](https://www.businessghana.com/)
+
+
+> On Friday, Tiger Global said it is backing their startup, CreditBook, to help address those challenges. This is the New York-headquartered firm's first investment in Pakistan. A number of other investors, including Better Tomorrow Ventures, Firstminute Capital, Banana Capital, VentureSouq, Ratio Ventures and i2i Ventures, as well as angel investors Sriram Krishnan and Julian Shapiro also participated in the $11 million pre-Series A round. This is also Firstminute Capital's first investment in the South Asian market.
+
+
+***
+![3 of the highest-rated true wireless earbuds at bargain prices](https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/c/e9/ce9294af-d954-5b30-af86-fe112607967f/61bb8254a8038.preview.jpg?crop=1444%2C758%2C0%2C322&resize=1200%2C630&order=crop%2Cresize "3 of the highest-rated true wireless earbuds at bargain prices")
+
+
+[3 of the highest-rated true wireless earbuds at bargain prices](https://journalstar.com/lifestyles/technology/3-of-the-highest-rated-true-wireless-earbuds-at-bargain-prices/article_ce9294af-d954-5b30-af86-fe112607967f.html)
+
+
+> 3 of the highest-rated true wireless earbuds at bargain prices Did you know that your earphones are home to 330 times more bacteria than a kitchen counter? Here is how to safely and effectively clean your earphones. There are plenty of wireless earbud alternatives to Apple's AirPods for under $100 — but what if you're looking for something even cheaper? And while there are certainly a lot of earbuds that cost $60 or less, only a few stand out, and several are surprisingly good for the price. As we like to say, you shouldn't expect the world at this low price, but unlike pricier models from Apple and others, you won't feel heartbroken if you happen to lose them.
+
+
+***
+![3 of the highest-rated true wireless earbuds at bargain prices](https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/c/f5/cf5dfdd7-4ac4-56a6-b8f7-ad593c2d803d/61bb828e58794.preview.jpg?crop=1444%2C758%2C0%2C322&resize=1200%2C630&order=crop%2Cresize "3 of the highest-rated true wireless earbuds at bargain prices")
+
+
+[3 of the highest-rated true wireless earbuds at bargain prices](https://madison.com/lifestyles/technology/3-of-the-highest-rated-true-wireless-earbuds-at-bargain-prices/article_cf5dfdd7-4ac4-56a6-b8f7-ad593c2d803d.html)
+
+
+> 3 of the highest-rated true wireless earbuds at bargain prices Did you know that your earphones are home to 330 times more bacteria than a kitchen counter? Here is how to safely and effectively clean your earphones. There are plenty of wireless earbud alternatives to Apple's AirPods for under $100 — but what if you're looking for something even cheaper? And while there are certainly a lot of earbuds that cost $60 or less, only a few stand out, and several are surprisingly good for the price. As we like to say, you shouldn't expect the world at this low price, but unlike pricier models from Apple and others, you won't feel heartbroken if you happen to lose them.
+
+
+***
+![Gameplay Launch Trailer (XSX/XSS, PC) : programming](https://external-preview.redd.it/cJTF51ytQ4uZm3L3958HP8-gWPyVbPJfLon74FaiSO8.jpg?auto=webp&s=16c8be69de3b5b17e6f6d0c26c8d305e94709cc2 "Gameplay Launch Trailer (XSX/XSS, PC) : programming")
+
+
+[Gameplay Launch Trailer (XSX/XSS, PC) : programming](https://www.reddit.com/r/programming/comments/rjmqmb/the_gunk_gameplay_launch_trailer_xsxxss_pc)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
