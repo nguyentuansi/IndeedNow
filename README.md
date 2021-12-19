@@ -39246,3 +39246,53 @@
 > Those with devices like the Google Pixel 6 and Samsung Galaxy S21 found they could not run any of the software they had previously downloaded from the Appstore, the report said. San Francisco: Tech giant Amazon has addressed the issue that had left those with Android 12 phones unable to use apps they had downloaded from the company's Appstore. According to Engadget, the marketplace had been malfunctioning for more than a month. "We have released a fix for an issue impacting app launches for Amazon Appstore customers that have upgraded to Android 12 on their mobile devices," a spokesperson was quoted as saying by the website.
 
 
+***
+![TM says services impacted in Selangor, Negri Sembilan and Pahang; teams to be mobilised](https://apicms.thestar.com.my/uploads/images/2021/12/19/1412782.jpg "TM says services impacted in Selangor, Negri Sembilan and Pahang; teams to be mobilised")
+
+
+[TM says services impacted in Selangor, Negri Sembilan and Pahang; teams to be mobilised](https://www.thestar.com.my/tech/tech-news/2021/12/19/tm-says-services-impacted-in-selangor-negri-sembilan-and-pahang-teams-to-be-mobilised)
+
+
+> To ensure the safety of those in the vicinity and minimise any potential risks, TM said it had shut down power and network equipment in some areas as a precautionary measure. — File photo PETALING JAYA: Telekom Malaysia Bhd (TM) said some of its telecommunication services have been impacted due to equipment damage from floods in Selangor, Negri Sembilan and Pahang. The flash floods and landslides have also caused several of its nodes in the three states to be inaccessible due to high water and unsafe conditions.
+
+
+***
+![GM Ultium news: Hummer EV production and BrightDrop deliveries to FedEx](https://cdn.slashgear.com/wp-content/uploads/2021/12/brightdrop-hummer-platform.jpg "GM Ultium news: Hummer EV production and BrightDrop deliveries to FedEx")
+
+
+[GM Ultium news: Hummer EV production and BrightDrop deliveries to FedEx](https://www.slashgear.com/gm-ultium-news-hummer-ev-production-and-brightdrop-deliveries-to-fedex-19703330/)
+
+
+> GM has announced the big news regarding electric vehicles based on its Ultium platform. The automaker has confirmed the deliveries of its next-generation electric vehicles, including the Hummer EV Edition 1 pickup and the BrightDrop EV600 light commercial vehicle. Both of those vehicles are built on the Ultium Platform, GM's dedicated EV architecture and propulsion system that will be the underpinnings of all of its future electric vehicles. GM With federal mandates looming large, all automakers, including GM, are pushing hard into the electric vehicle market.
+
+
+***
+![Samsung has huge incoming selection of official Galaxy S22 accessories](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ctf0fn8jmimeuht7sugco44fj6-20200907085824.Medi.jpeg "Samsung has huge incoming selection of official Galaxy S22 accessories")
+
+
+[Samsung has huge incoming selection of official Galaxy S22 accessories](https://www.deccanchronicle.com/technology/in-other-news/191221/samsung-has-huge-incoming-selection-of-official-galaxy-s22-accessories.html)
+
+
+> Galaxy S22 Ultra, or S22 Note owners, regardless of what the name ends up being, get to enjoy almost the entire selection too, except for the Frame Cover line. (AFP Photo) Seoul: As we inch closer to the likely February unveiling of the Galaxy S22 family, there have been more and more specs leaks of the upcoming devices. As per GSM Arena, new leaks list a large number of official accessories for the Galaxy S22 family, over 60 different items (colour options included) across the trio of phones. Samsung seems to be going all-out this year, particularly in the case department.
+
+
+***
+![Huawei Above Ericsson, Nokia Despite Issues in US, India, Europe](https://telecomtalk.info/wp-content/uploads/2021/12/huawei-above-ericsson-nokia-despite-issues-in.jpeg "Huawei Above Ericsson, Nokia Despite Issues in US, India, Europe")
+
+
+[Huawei Above Ericsson, Nokia Despite Issues in US, India, Europe](https://telecomtalk.info/huawei-above-ericsson-nokia-despite-issues-in/486277/)
+
+
+> Huawei is still much above its competitors including Ericsson and Nokia.Huawei's revenues are hurt because of the exclusion from some of the major markets.Some of the major regions in Europe are also avoiding partnering up with Huawei for any future projects because of the network security concerns.Despite all the tensions and hardships that Huawei had to go through in the last few months, the company is still much above its competitors, including Ericsson and Nokia. In fact, Huawei's as big as the two European vendors combined in the global market.
+
+
+***
+![Edifier Hecate GX Hi-Res Gaming Headset Review](https://www.kitguru.net/wp-content/uploads/2021/12/vlcsnap-2021-12-17-15h23m51s327-732x330.png "Edifier Hecate GX Hi-Res Gaming Headset Review")
+
+
+[Edifier Hecate GX Hi-Res Gaming Headset Review](https://www.kitguru.net/tech-news/featured-tech-reviews/jack-woodhams/edifier-hecate-gx-hi-res-gaming-headset-review/)
+
+
+> In this review we take a look at the Edifier Hecate GX Hi-Res Gaming headset. This headset works with a variety of games consoles and of course, your PC over USB. With a futuristic design and a promise of 'hi-res audio' we find out today if this headset is genuinely worth the money, or just all ‘show'. Watch via our Vimeo channel (below) or over on YouTube at 2160p HERE ﻿ Timestamps 00:00 Start 00:15 Introduction / pricing / accessories 03:24 Cable Microphone test 04:30 Design of headset – comfort 05:43 Earcups / build quality 06:45 Buttons and lighting modes 08:47 More buttons and ports 09:35 The Microphone 10:06 Microphone audio test and thoughts 11:41 Headset sound quality 12:25 Noise Cancellation 12:42 Gaming experience 13:10 Music/Movies 13:26 Closing Thoughts Specifications: New 50mm titanium diaphragm drivers Rolling volume control Retractable microphone RGB lights High-quality headband Soft leatherette ear cups 96kHz/24bits decoding Total immersion in-game/music mode Noise cancelling chip Three types of interfaces: compatible with PC and so on C/USB/3.
+
+
