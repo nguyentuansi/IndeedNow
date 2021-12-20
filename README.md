@@ -39433,3 +39433,33 @@
 > Google Maps is testing out a new 'dock to bottom' feature, making the process of going through and selecting restaurants or other places of interest a bit easier, as reported by SEroundtable.Google Maps has become such a hub of convenience for users across the world. Being perhaps the most convenient and detailed of all map interfaces available (sorry, Apple Maps, but it just isn't the cards for you), Google Maps has become a widely used tool for people of all ages. It's a GPS, it provides accurate traffic information, has details about places of importance, price ranges and reviews.
 
 
+***
+![WhatsApp may allow group admins to delete any message](https://apicms.thestar.com.my/uploads/images/2021/12/20/1413565.jpg "WhatsApp may allow group admins to delete any message")
+
+
+[WhatsApp may allow group admins to delete any message](https://www.thestar.com.my/tech/tech-news/2021/12/20/whatsapp-may-allow-group-admins-to-delete-any-message)
+
+
+> Tired of participants posting nonsense in WhatsApp groups? Admins may soon be able to delete messages posted by others. — antonbe/Pixabay A NEW feature in the works may allow WhatsApp admins to moderate what participants post in a group chat. According to WhatsApp Beta Info, the instant messaging platform is testing a feature that will allow admins to delete messages in a group chat. In a screenshot, WhatsApp Beta Info showed that if an admin deletes the message, a note – 'This message was deleted by admin', along with the admin name – will be displayed.
+
+
+***
+![Tech Council to work closely with ACS](https://ia.acs.org.au/content/dam/ia/article/images/2021/handshake%20collaborate.jpg "Tech Council to work closely with ACS")
+
+
+[Tech Council to work closely with ACS](https://ia.acs.org.au/article/2021/tech-council-to-work-closely-with-acs.html)
+
+
+> The Tech Council of Australia and ACS will do good things together. Image: Shutterstock The Tech Council of Australia and ACS are looking to build a relationship that benefits the Australian technology sector as the industry continues its rapid expansion. Since its formation in August, the Tech Council has quadrupled its membership base and successfully publicised the need for more Australian technology workers, an issue ACS has been championing for years. Tech Council CEO Kate Pounder told Information Age the industry organisation – which has members including the Australian arms of US tech giants Microsoft and Google along with local darlings Atlassian and Canva – wants to maintain a spirit of collaboration with professional bodies like ACS.
+
+
+***
+![YouTube TV restores access to Disney after dispute resolved](https://scx2.b-cdn.net/gfx/news/2021/youtube-tv-restores-ac.jpg "YouTube TV restores access to Disney after dispute resolved")
+
+
+[YouTube TV restores access to Disney after dispute resolved](https://techxplore.com/news/2021-12-youtube-tv-access-disney-dispute.html)
+
+
+> This Tuesday, Feb. 28, 2017, file photo shows the YouTube TV logo at the YouTube Space LA in Los Angeles. On Sunday, Dec. 19, 2021, YouTube TV began restoring access to Disney content after a dispute between the companies led to an interruption of service over the weekend. Credit: AP Photo/Reed Saxon, File YouTube TV began restoring access to Disney content after a dispute between the companies led to an interruption of service over the weekend. YouTube told viewers Sunday they were restoring service so customers could once again watch networks provided by Disney such as ESPN, FX, National Geographic and local ABC stations.
+
+
