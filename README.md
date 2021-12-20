@@ -39326,3 +39326,50 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
 
 
+***
+![US sanctions drone-maker DJI](https://looppacificassets.s3.amazonaws.com/styles/no_watermark/s3/thumbnails/image/us_sanctions_drone-maker_dji.jpg?itok=BH4iew0U "US sanctions drone-maker DJI")
+
+
+[US sanctions drone-maker DJI](https://www.looppng.com/tech/us-sanctions-drone-maker-dji-107883)
+
+
+> On Thursday, the Treasury Department put the companies on an investment exclusion list, banning US citizens from buying and selling shares in them. It has been alleged that DJI's drone technology has been used for the surveillance of Uyghur Muslims in China. However the ban is largely symbolic as DJI is not a publicly-traded company. Consumers in the US can continue to buy and use DJI drones. In 2020, the Department of Commerce barred US companies from exporting products to DJI, which has been judged to be a national security threat by the Department of Defense.
+
+
+***
+![2022 Mercedes-AMG EQS First Drive: Silencing the Skeptics](https://cdn.slashgear.com/wp-content/uploads/2021/12/2022_mercedes-amg_eqs_7.jpg "2022 Mercedes-AMG EQS First Drive: Silencing the Skeptics")
+
+
+[2022 Mercedes-AMG EQS First Drive: Silencing the Skeptics](https://www.slashgear.com/2022-mercedes-amg-eqs-first-drive-19703399/)
+
+
+> Expectations are high for the 2022 Mercedes-AMG EQS, and rightly so. Rivals may not like to admit it, not publicly at least, but where the S-Class goes its counterparts tend to follow: the iconic sedan may not have debuted every must-have feature among the luxury set, but is still responsible for more than its fair share. Now, with the EQS representing the Sonderklasse's electric evolution, it's AMG's opportunity to bring the performance to back up the promises on its aggressive 2030 roadmap. Aerodynamics clearly rule the roost in Mercedes' EQ division.
+
+
+***
+![What actually is the metaverse?](https://ichef.bbci.co.uk/news/1024/branded_news/5019/production/_122250502_p0bbh8qk.jpg "What actually is the metaverse?")
+
+
+[What actually is the metaverse?](https://www.bbc.co.uk/news/av/technology-59674930)
+
+
+> From virtual versions of ourselves to augmented reality, big brands like Meta (formerly Facebook) and Microsoft are creating technology to develop the metaverse. But what actually is it?The BBC's technology correspondent Marc Cieslak breaks it down.
+
+
+***
+[P2P Filesharing Software](http://www.canadiancontent.net/tech/downloads/Filesharing.html)
+
+
+> SHAREit 4.0.6.177Simple file transfer software to share music, pictures and other data over a WiFi network between computers, phones and tablets: SHAREit is a file transfer utility that can share different types of data over a WiFi network.6.3 MB | For Windows 8, Windows 10FreeSHAREit Review - DownloadMP3 Rocket 7.4.1Movies & Music download program: MP3 Rocket is basically an online search tool which helps you locate songs and other difficult-to-find files on the Internet.12.64 MB | For Windows 7, Windows 8 (64-bit, 32-bit) / Vista / XPFreeMP3 Rocket Review - DownloadPopcorn Time 6.
+
+
+***
+![Commmune Inc. Establishes Office in California, United States](https://mms.businesswire.com/media/20211216006245/en/1309992/23/logo_org.jpg "Commmune Inc. Establishes Office in California, United States")
+
+
+[Commmune Inc. Establishes Office in California, United States](https://www.businesswire.com/news/home/20211216006245/en/Commmune-Inc.-Establishes-Office-in-California-United-States)
+
+
+> December 19, 2021 07:30 PM Eastern Standard Time TOKYO--(BUSINESS WIRE)--Yuya Takada, CEO of Commmune Inc. that provides a customer success community platform 'commmune,' announced that the company established an office in California, United States. About Commmune Inc. (U.S. Office) Company: Commmune Inc. Representative: Yuya Takada (CEO) Office Location: 55 E 3rd Avenue San Mateo, California 94401 Founded Date: November 29th, 2021 About commmune 'commmune' is a leading customer success community platform that enables scaled customer success.
+
+
