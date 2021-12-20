@@ -39373,3 +39373,33 @@
 > December 19, 2021 07:30 PM Eastern Standard Time TOKYO--(BUSINESS WIRE)--Yuya Takada, CEO of Commmune Inc. that provides a customer success community platform 'commmune,' announced that the company established an office in California, United States. About Commmune Inc. (U.S. Office) Company: Commmune Inc. Representative: Yuya Takada (CEO) Office Location: 55 E 3rd Avenue San Mateo, California 94401 Founded Date: November 29th, 2021 About commmune 'commmune' is a leading customer success community platform that enables scaled customer success.
 
 
+***
+![This is my Mum's 80th birthday present.](https://blogger.googleusercontent.com/img/a/AVvXsEigdAEi1rI5hUO8CqG0dAy0jYgBX4DePCa-DVSDhtXAQE1O4KeBJdPr0v7M887XEnaigkk-D9xio9j3KDQ26dz-UZNOdcwoL8lscWKNXsEIlkHFr4z260XNVOx-hlVF6Kcwa05WWJxxzHFt-A0tODbZc7boo8LT8AafuNFZJahhdQmdoTl1KX96rrtR=w1200-h630-p-k-no-nu "This is my Mum's 80th birthday present.")
+
+
+[This is my Mum's 80th birthday present.](http://fourlightyears.blogspot.com/2021/12/this-is-my-mums-80th-birthday-present.html)
+
+
+> 20 Dec 2021 andrew.stuart@supercoders.com.auIt's a rotary phone from the 1970's. This is the sort of phone we had in the house when I was a kid. For Mum's birthday, I bought this old phone from a second hand store. I pulled it apart and installed a little computer into the phone. I connected the rotary dial to the computer. I connected the speaker in the handset to the computer. I connected the hangup/pickup switch to the computer. I set up a dedicated phone number with voicemail, which emails every voicemail to me.
+
+
+***
+![The five-day office week isn't coming back. WFH is here to stay](https://apicms.thestar.com.my/uploads/images/2021/12/19/1412641.jpg "The five-day office week isn't coming back. WFH is here to stay")
+
+
+[The five-day office week isn't coming back. WFH is here to stay](https://www.thestar.com.my/tech/tech-news/2021/12/20/the-five-day-office-week-isnt-coming-back-wfh-is-here-to-stay)
+
+
+> Both employees and managers found working from home during the pandemic was positive for performance and well-being, a report by the OECD found. — Dreamstime/TNS There may be no going back to the five-day week in the office, according to a survey of workers in 25 countries. Both employees and managers found working from home during the pandemic was positive for performance and well-being, a report by the OECD found. The proportion of staff teleworking at least one day a week is expected to be much higher than before the pandemic.
+
+
+***
+![Tesla's Musk says he will pay over $11 billion in taxes this year](https://apicms.thestar.com.my/uploads/images/2021/12/20/1413311.jpg "Tesla's Musk says he will pay over $11 billion in taxes this year")
+
+
+[Tesla's Musk says he will pay over $11 billion in taxes this year](https://www.thestar.com.my/tech/tech-news/2021/12/20/tesla039s-musk-says-he-will-pay-over-11-billion-in-taxes-this-year)
+
+
+> (Reuters) - Electric-car maker Tesla Inc's Chief Executive Officer Elon Musk said on Sunday on Twitter that he will pay more than $11 billion in taxes this year. Earlier this week, Democratic U.S. Senator Elizabeth Warren took to Twitter to say that Musk should pay taxes and stop "freeloading off everyone else" after Time magazine named him its "person of the year". Musk responded by saying that he "will pay more taxes than any American in history this year". Musk is the world's richest person and his company Tesla is worth about $1 trillion.
+
+
