@@ -39513,3 +39513,23 @@
 > Meta owned WhatsApp is working on a new upgrade for the desktop version of the application. This update will be a part of version 2.2149.1The new feature that will be introduced in the update has been named "My Contact Except," which is currently under development and will be a part of the future security and privacy update.According to the preview shared on by WABetainfo, the new feature, My Contacts Except, can be seen under three sections including display picture, about info and the last seen of a user.
 
 
+***
+![Monitoring the vintage server room (and reverse-engineering USB sensors)](https://blogger.googleusercontent.com/img/a/AVvXsEgSARatN7rUvwF5cwF_9uKz32tHnqSMgxU2RP3Y0tVitCHnEQ2wAnwF7i5uumZeDSOX-yU3ez8NtdCoX49L9p3stItUZOrTPTTL7wVC6LUdn_jqXly9iSMhaKTkumNX3TIgldgGj4IPpTyFeSHEwpqEWOssyrdCqPz-6HrakdGAvhTdqTEZmV3bWC4r=w1200-h630-p-k-no-nu "Monitoring the vintage server room (and reverse-engineering USB sensors)")
+
+
+[Monitoring the vintage server room (and reverse-engineering USB sensors)](http://oldvcr.blogspot.com/2021/12/monitoring-vintage-server-room-and.html)
+
+
+> We're house hunting because of $JOB and $HOUR hour commute, and I just got word that the reseller I contract with for Floodgap's leased line is getting out of that business in mid-January. This makes finding new digs (or at least setting up some sort of temporary static IP alternative) a must because one of the gotta-haves is space for my vintage server room. Sure, you can outsource, or host things on slices, or put things on a rack of Raspberry Pis and call it a day. And admittedly that would probably take up less space, generate less heat, use less power and result in less inconvenience, but where's the fun in that when you can be running your own 2008-vintage IBM POWER6 for mail, web and gopher, or a Sawtooth Power Mac G4 file server, or a 1989 Mac IIci that still happily handles internal network DNS? Part of the task of any home server room, vintage or otherwise, is monitoring.
+
+
+***
+![TECNO Security Response Center Demonstrates Commitment to the InfoSec Community](http://www.businessghana.com/site/img/../../cms/img/news/2021-12-20-13323601.jpg "TECNO Security Response Center Demonstrates Commitment to the InfoSec Community")
+
+
+[TECNO Security Response Center Demonstrates Commitment to the InfoSec Community](https://www.businessghana.com/)
+
+
+> BSides Discussed Spyware, Android Vulnerabilities and More Founded in 2009, the Security BSides is a community-driven framework for building events for and by information security community members. BSides events are intense and filled with participants' discussions, demos, and interaction. Run and participated by the community itself, these conferences are where conversations for the next big thing happen. TECNO SRC is the trademark of a company that cares about the needs of consumers from different markets and understands the technical and cultural implications of IT security BSides opened with a keynote address by Heath Adams, The Cyber Mentor (TCM), on information security, cyber security and ethical hacking.
+
+
