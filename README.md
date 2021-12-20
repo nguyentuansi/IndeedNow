@@ -39463,3 +39463,53 @@
 > This Tuesday, Feb. 28, 2017, file photo shows the YouTube TV logo at the YouTube Space LA in Los Angeles. On Sunday, Dec. 19, 2021, YouTube TV began restoring access to Disney content after a dispute between the companies led to an interruption of service over the weekend. Credit: AP Photo/Reed Saxon, File YouTube TV began restoring access to Disney content after a dispute between the companies led to an interruption of service over the weekend. YouTube told viewers Sunday they were restoring service so customers could once again watch networks provided by Disney such as ESPN, FX, National Geographic and local ABC stations.
 
 
+***
+![LG's first UltraGear Gaming Laptop series starts off with a bang](https://cdn.slashgear.com/wp-content/uploads/2021/12/ultragearLG.jpg "LG's first UltraGear Gaming Laptop series starts off with a bang")
+
+
+[LG's first UltraGear Gaming Laptop series starts off with a bang](https://www.slashgear.com/lgs-first-ultragear-gaming-laptop-series-starts-off-with-a-bang-20703470/)
+
+
+> As we close in on the holidays, LG is keeping the product reveals coming. On Friday, the company announced two UltraFine OLED Pro monitors, but today, it turns its focus to gaming with the reveal of the UltraGear Gaming Laptop. This has the distinction of being the first gaming laptop the company has produced, and it seems to have the specs to make it a solid machine. Image credit: LG While LG revealed most specifications about the UltraGear Gaming Laptop (17G90Q) today, one thing remains a partial mystery for now: the CPU.
+
+
+***
+![Arrival Car ride-hailing EV prototype to begin testing next year](https://cdn.slashgear.com/wp-content/uploads/2021/12/arrival235.jpg "Arrival Car ride-hailing EV prototype to begin testing next year")
+
+
+[Arrival Car ride-hailing EV prototype to begin testing next year](https://www.slashgear.com/arrival-car-ride-hailing-ev-prototype-to-begin-testing-next-year-20703455/)
+
+
+> Ride-hailing with companies like Uber and others are extremely common all around the US and in other parts of the world. Ride-hailing companies are an alternative to traditional taxicabs dispatched via an app users run on a smartphone to bring the ride directly to wherever they are. In May of this year, we talked about the announcement from Arrival and Uber that they were working to build an electric vehicle designed specifically for Uber drivers to use to carry passengers. Via Arrival The goal of the project for the Arrival Car was to create the best possible vehicle to deliver the best experience to ride-hailing customers.
+
+
+***
+![Huawei Watch D blood pressure trick isn't going to be easy](https://cdn.slashgear.com/wp-content/uploads/2021/12/huawei-watch-d-bp-1.jpg "Huawei Watch D blood pressure trick isn't going to be easy")
+
+
+[Huawei Watch D blood pressure trick isn't going to be easy](https://www.slashgear.com/huawei-watch-d-blood-pressure-trick-isnt-going-to-be-easy-20703419/)
+
+
+> Rather than being smartphones, smartwatches have taken on an almost completely different identity from their mobile counterparts. Thanks to Apple's push, these wearables have incorporated hardware and features that are more geared towards fitness and health, particularly in keeping track of various body signals and metrics. One thing that has escaped smartwatch makers' grasp so far is measuring blood pressure, but even the likes of Fitbit are already trying to work on a cuff-less solution. Huawei might actually beat them to the punch, but its blood pressure measuring system won't exactly be as convenient as many might have imagined.
+
+
+***
+![2022 Subaru WRX First Drive: Heritage just isn't enough](https://cdn.slashgear.com/wp-content/uploads/2021/12/2022_subaru_wrx_06.jpg "2022 Subaru WRX First Drive: Heritage just isn't enough")
+
+
+[2022 Subaru WRX First Drive: Heritage just isn't enough](https://www.slashgear.com/2022-subaru-wrx-first-drive-20703424/)
+
+
+> As the affordable sports car market enjoys a revival of its glory days, with revived classics (Integra, anyone?) and entirely new sport-line nameplates in the $30,000-ish price range popping up seemingly weekly, it's made it all that more challenging for manufacturers that have never given up on everyman performance to distinguish their offerings in this newly-crowded market. And so Subaru's all-new 2022 WRX, now entering its twentieth year of American production, has a tougher job to do than virtually any of its legendary predecessors.
+
+
+***
+![The Beta version of the WhatsApp web has been loaded with a new privacy features](https://blogger.googleusercontent.com/img/a/AVvXsEjlyEfA1wLMrnD0VA_Gw0Uyd1_hpWlAVnvi-wstW-gXATBgBYtZqOoYQNgjgEWmd4qWPIspyBVPWNBYSE8wUHdpGWKfj7N6mAWBmvG7IbBvrGedasLcpB52QRqXoeWgjx1j1MJO7Rw86Xj7ROHlFWawkNvjTGS-Y1Y6XYmkCY1NScmDfZw9AH9nC6sA=s16000 "The Beta version of the WhatsApp web has been loaded with a new privacy features")
+
+
+[The Beta version of the WhatsApp web has been loaded with a new privacy features](https://www.digitalinformationworld.com/2021/12/the-beta-version-of-whatsapp-web-has.html)
+
+
+> Meta owned WhatsApp is working on a new upgrade for the desktop version of the application. This update will be a part of version 2.2149.1The new feature that will be introduced in the update has been named "My Contact Except," which is currently under development and will be a part of the future security and privacy update.According to the preview shared on by WABetainfo, the new feature, My Contacts Except, can be seen under three sections including display picture, about info and the last seen of a user.
+
+
