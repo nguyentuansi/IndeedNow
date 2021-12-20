@@ -39403,3 +39403,33 @@
 > (Reuters) - Electric-car maker Tesla Inc's Chief Executive Officer Elon Musk said on Sunday on Twitter that he will pay more than $11 billion in taxes this year. Earlier this week, Democratic U.S. Senator Elizabeth Warren took to Twitter to say that Musk should pay taxes and stop "freeloading off everyone else" after Time magazine named him its "person of the year". Musk responded by saying that he "will pay more taxes than any American in history this year". Musk is the world's richest person and his company Tesla is worth about $1 trillion.
 
 
+***
+![Drones Take Center Stage in U.S.-China War on Data Harvesting](https://apicms.thestar.com.my/uploads/images/2021/12/20/1413333.jpg "Drones Take Center Stage in U.S.-China War on Data Harvesting")
+
+
+[Drones Take Center Stage in U.S.-China War on Data Harvesting](https://www.thestar.com.my/tech/tech-news/2021/12/20/drones-take-center-stage-in-us-china-war-on-data-harvesting)
+
+
+> In video reviews of the latest drone models to his 80,000 YouTube subscribers, Indiana college student Carson Miller doesn't seem like an unwitting tool of Chinese spies. Yet that's how the US is increasingly viewing him and thousands of other Americans who purchase drones built by Shenzhen-based SZ DJI Technology Co., the world's top producer of unmanned aerial vehicles. Miller, who bought his first DJI model in 2016 for US$500 (RM2113.75) and now owns six of them, shows why the company controls more than half of the U.
+
+
+***
+![Google Has Added A New Set Of Filters To The Play Store, Allowing Users With Android TV or Wear OS Devices To Filter Out Incompatible Applications](https://blogger.googleusercontent.com/img/a/AVvXsEilfM9yV8Tyj7W9CiHI3FDEaETmhdH7i7z82WPgJC64IIYV70feYOwbQ594fJpBY5pFKJAr_uPZSeekWTfYquMwX0vjBny28aNIUN3tCtbsR71TCLN-dYARjxcMO7QcwJmXcpoePq14rgH-KbywcG-N4J4av6vnq7-0rN-ZW8iIJ72-W69oJ0ykkrFY=s16000 "Google Has Added A New Set Of Filters To The Play Store, Allowing Users With Android TV or Wear OS Devices To Filter Out Incompatible Applications")
+
+
+[Google Has Added A New Set Of Filters To The Play Store, Allowing Users With Android TV or Wear OS Devices To Filter Out Incompatible Applications](https://www.digitalinformationworld.com/2021/12/google-has-added-new-set-of-filters-to.html)
+
+
+> The Google Play Store has added in a new filter that allows users to locate apps compatible with their devices through a relatively easier process.I'm pretty sure most readers are going through this article, thinking 'since when did it become so difficult to find compatible applications, right?' For the most part, such reservations are absolutely correct. Smartphone users can go ahead and just download anything, since the mere usage of either an iPhone or an Android device limits you to either the App Store, for the former, and Google Play for the latter.
+
+
+***
+![Google Is Adding A New 'Dock To Bottom' Feature To The Google Maps Website, Allowing Users To Parse Through Different Important Locations More Easily](https://blogger.googleusercontent.com/img/a/AVvXsEirIauk8mdVlJCzBDGye1Lh9slogbDXp7aecca6plwyg1Z_Fhj0kMjtmCGG6rlZdpW8hYJSnO7B-ttEaiiWS3kqEbgMV26KJxmNF6wLV-kJGdLS_0rBh144mZDVMiJYFaz9AoTyTV6XkTDFkluWV0Spy5OZKX9tyrq6ugUEtGi-qIgfz--w-PBq8290=s16000 "Google Is Adding A New 'Dock To Bottom' Feature To The Google Maps Website, Allowing Users To Parse Through Different Important Locations More Easily")
+
+
+[Google Is Adding A New 'Dock To Bottom' Feature To The Google Maps Website, Allowing Users To Parse Through Different Important Locations More Easily](https://www.digitalinformationworld.com/2021/12/google-is-adding-new-dock-to-bottom.html)
+
+
+> Google Maps is testing out a new 'dock to bottom' feature, making the process of going through and selecting restaurants or other places of interest a bit easier, as reported by SEroundtable.Google Maps has become such a hub of convenience for users across the world. Being perhaps the most convenient and detailed of all map interfaces available (sorry, Apple Maps, but it just isn't the cards for you), Google Maps has become a widely used tool for people of all ages. It's a GPS, it provides accurate traffic information, has details about places of importance, price ranges and reviews.
+
+
