@@ -39583,3 +39583,33 @@
 > Shinsegae Casa's store at Shinsegae Department Store in Seoul / Korea Times fileBy Kim Jae-heunShinsegae Department Store is faced with deciding whether to sell its furniture brand, Shinsegae Casa (formerly known as Casamia) as the business has faced a number of setbacks.The company does not own a production facility for the furniture brand, which reduces manufacturing costs, but the subsidiary is failing to create a presence in the market.However, Shinsegae Casa has appointed Choi Moon-suk as its new CEO, someone who has ample experience in corporate acquisitions, and industry sources believe he will be able to grow the business before selling it at some point in the near future.
 
 
+***
+![China Tech Digest: Xiaoice Unveils Digital Twin Virtual Human Technology; National Internet Exchange Point Launched In Shanghai](https://assets.chinamoneynetwork.com/wp-content/uploads/20211221082247/digitaltwin-696x298.jpg "China Tech Digest: Xiaoice Unveils Digital Twin Virtual Human Technology; National Internet Exchange Point Launched In Shanghai")
+
+
+[China Tech Digest: Xiaoice Unveils Digital Twin Virtual Human Technology; National Internet Exchange Point Launched In Shanghai](https://www.chinamoneynetwork.com/2021/12/21/china-tech-digest-xiaoice-unveils-digital-twin-virtual-human-technology-national-internet-exchange-point-launched-in-shanghai)
+
+
+> Xiaoice unveils digital twin virtual human technology Chinese cross-platform AI robot developer Microsoft's Xiaoice has unveiled its new digital twin virtual human technology, and in conjunction with National Business Daily, officially launched "NBD AI TV" and virtual anchors. For the first time, Xiaoice's framework has realized the unmanned operation in the entire process of video acquisition, editing and broadcasting. National Internet Exchange Point launched in Shanghai The National (Shanghai) Internet Exchange Point has been launched in the Lingang Special Area, marking the landing of another heavyweight Internet infrastructure in Shanghai, which will further consolidate the network foundation for Internet innovation and development in Shanghai, the Yangtze River Delta and even the whole country.
+
+
+***
+![Bullish Exchange Opens Regulated Cryptocurrency Trading Platform to the Public](https://mms.businesswire.com/media/20211220005965/en/1312413/23/Business_Wire_Bullish_Logo_720x220.jpg "Bullish Exchange Opens Regulated Cryptocurrency Trading Platform to the Public")
+
+
+[Bullish Exchange Opens Regulated Cryptocurrency Trading Platform to the Public](https://www.businesswire.com/news/home/20211220005965/en/Bullish-Exchange-Opens-Regulated-Cryptocurrency-Trading-Platform-to-the-Public)
+
+
+> December 20, 2021 11:03 PM Eastern Standard Time GIBRALTAR--(BUSINESS WIRE)--Bullish, a technology company developing products for the digital assets sector, announced today that its flagship product, the Bullish exchange, is now available to eligible individual users and institutions in select jurisdictions within Asia-Pacific, Europe, Africa and Latin America. The trading platform leverages innovations in decentralized finance (DeFi) with regulatory compliance frameworks, giving institutional and retail traders access to deep liquidity and low-cost transactions.
+
+
+***
+![A passion for startups drives my business software strategy – TechCrunch](https://techcrunch.com/wp-content/uploads/2021/12/TechCrunch-Cover-2.png?w=600 "A passion for startups drives my business software strategy – TechCrunch")
+
+
+[A passion for startups drives my business software strategy – TechCrunch](https://techcrunch.com/sponsor/freshworks/a-passion-for-startups-drives-my-business-software-strategy/)
+
+
+> The needs of startups are never far from my mind. Even though the company I founded 11 years ago is now publicly traded, I haven't forgotten the energy and excitement of running a garage-stage company.  Which is why recently, I was thinking about tools essential to virtually every startup: CRM. Research shows that one of the most expensive apps a pre-seed or seeded startup purchases is software for handling customer relationships. It makes sense. Inside a thriving startup, its customer base should scale with the company.
+
+
