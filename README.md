@@ -39613,3 +39613,53 @@
 > The needs of startups are never far from my mind. Even though the company I founded 11 years ago is now publicly traded, I haven't forgotten the energy and excitement of running a garage-stage company.  Which is why recently, I was thinking about tools essential to virtually every startup: CRM. Research shows that one of the most expensive apps a pre-seed or seeded startup purchases is software for handling customer relationships. It makes sense. Inside a thriving startup, its customer base should scale with the company.
 
 
+***
+![Amazon Mobile Savings Days Sale Gives Huge Discounts On Popular Mobile Brands](https://sm.mashable.com/mashable_in/seo/3/30741/30741_4rv4.jpg "Amazon Mobile Savings Days Sale Gives Huge Discounts On Popular Mobile Brands")
+
+
+[Amazon Mobile Savings Days Sale Gives Huge Discounts On Popular Mobile Brands](https://in.mashable.com/tech/26325/amazon-mobile-savings-days-sale-gives-huge-discounts-on-popular-mobile-brands)
+
+
+> > Tech As 2021 approaches end, one of the biggest e-commerce giants Amazon is bringing out some exclusive deals. If people want to purchase mobiles, this is the last chance there are discounts of up to 40% on best selling brands like iQOO, Samsung, Xiaomi, OPPO, Tecno, and many more. SEE ALSO: There's A Huge Price Drop On Apple iPhones For Flipkart Big Saving Days Sale. You're Welcome! The Amazon Mobile Savings Days Sale goes on live from December 22nd. Also, customers can acquire a 10% discount (Rs.
+
+
+***
+![This remote office in Sweden is entirely powered by an electric car](https://apicms.thestar.com.my/uploads/images/2021/12/21/1414770.jpeg "This remote office in Sweden is entirely powered by an electric car")
+
+
+[This remote office in Sweden is entirely powered by an electric car](https://www.thestar.com.my/tech/tech-news/2021/12/21/this-remote-office-in-sweden-is-entirely-powered-by-an-electric-car)
+
+
+> Why work in a car, when an electric vehicle can power a small cabin: This experiment shows how EV batteries can be treated as a giant power bank for other uses. — dpa Ever dreamt of working in the middle of nature in a small designer cabin with just the sound of birds chirping and deer running past the window? Korean carmaker Hyundai is trying to make it possible by powering a tiny wooden office on an island near Stockholm in Sweden using electricity from its Ioniq 5 battery-electric car. The Ioniq 5 makes use of bidirectional charging to power the remote designer cabin, which is fully connected in an otherwise off-the-grid environment.
+
+
+***
+![Fast-charger maker speeds up US factory plans as demand booms](https://apicms.thestar.com.my/uploads/images/2021/12/21/1414757.jpg "Fast-charger maker speeds up US factory plans as demand booms")
+
+
+[Fast-charger maker speeds up US factory plans as demand booms](https://www.thestar.com.my/tech/tech-news/2021/12/21/fast-charger-maker-speeds-up-us-factory-plans-as-demand-booms)
+
+
+> A fast-charger maker is accelerating its manufacturing to meet booming demand by electric vehicle users, while dealing with supply chain bottlenecks. — AFP/Relaxnews Australian fast-charger maker Tritium Pty will accelerate plans to open a US manufacturing plant to meet booming demand in the world's third-largest electric vehicle market and avoid supply chain bottlenecks. The Brisbane-based group, whose customers include Royal Dutch Shell Plc and Siemens AG, seeks to avoid global shipping issues with the move, Chief Executive Officer Jane Hunter said in a Bloomberg Television interview.
+
+
+***
+![China hits top influencer with $210 million fine over taxes](https://apicms.thestar.com.my/uploads/images/2021/12/21/1414727.jpg "China hits top influencer with $210 million fine over taxes")
+
+
+[China hits top influencer with $210 million fine over taxes](https://www.thestar.com.my/tech/tech-news/2021/12/21/china-hits-top-influencer-with-210-million-fine-over-taxes)
+
+
+> One of China's top livestreamers, active on Weibo, was fined RM884.52mil for tax evasion, as the government cracks down on online influencers. — REUTERS/Florence Lo/Illustration China slapped an unprecedented US$210mil (RM884.52mil) fine on a top livestreamer for tax evasion, stepping up President Xi Jinping's crackdown on online influencers who have grown wildly popular in recent years. Huang Wei – also known as Viya – was ordered to pay 1.34bil yuan (RM890mil) in back taxes, late fees and fines, the State Taxation Administration said Monday in a statement on its website.
+
+
+***
+![Indonesia central bank says new payment system to slash money transfer costs](https://apicms.thestar.com.my/uploads/images/2021/12/21/1414731.jpg "Indonesia central bank says new payment system to slash money transfer costs")
+
+
+[Indonesia central bank says new payment system to slash money transfer costs](https://www.thestar.com.my/tech/tech-news/2021/12/21/indonesia-central-bank-says-new-payment-system-to-slash-money-transfer-costs)
+
+
+> FILE PHOTO: The logo of Indonesia's central bank, Bank Indonesia, is seen on a window in the bank's lobby in Jakarta, Indonesia September 22, 2016. REUTERS/Iqro Rinaldi/File Photo JAKARTA (Reuters) - Indonesia's central bank on Tuesday launched a new retail payment system that its governor said will slash the cost of money transfers and support the country's booming digital economy.The COVID-19 pandemic has accelerated growth in Indonesia's digital finance, with digital banking transactions rising 47% on a yearly basis in November to reach 3,877 trillion rupiah ($269.
+
+
