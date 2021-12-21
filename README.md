@@ -39673,3 +39673,43 @@
 > Tuesday, December 21, 2021 12:24 PM Detailed induction programs Supporting sponsorship models Personnel development and training programs Flexible, family-oriented working hours Collegial working atmosphere Company cars also for private use You acquire new customers for our parking garage systems in your sales area. They know how to look after our customers, partners and planning companies. They prepare offers and negotiate contracts. You plan and monitor the new systems and after-sales business.
 
 
+***
+!['Has anyone seen Web3?' Musk, Dorsey mock tech's latest buzzword](https://apicms.thestar.com.my/uploads/images/2021/12/21/1415684.jpg "'Has anyone seen Web3?' Musk, Dorsey mock tech's latest buzzword")
+
+
+['Has anyone seen Web3?' Musk, Dorsey mock tech's latest buzzword](https://www.thestar.com.my/tech/tech-news/2021/12/21/039has-anyone-seen-web3039-musk-dorsey-mock-tech039s-latest-buzzword)
+
+
+> FILE PHOTO: Tesla Chief Executive Office Elon Musk speaks at his company's factory in Fremont, California, June 22, 2012, as the car company began delivering its Model S electric sedan. REUTERS/Noah Berger (Reuters) - Billionaires Elon Musk and Jack Dorsey dismissed the so-called Web3 and criticized the involvement of venture capital firms such as Andreessen Horowitz in building out what some have called the next phase of the internet.Web3, a vague term for a utopian version of the internet that is decentralized, is based on digital record-keeping technology blockchain, which also drives the platforms running cryptocurrencies such as bitcoin and ether.
+
+
+***
+![Final Fantasy VI Pixel Remaster delayed, with bonus for those who wait](https://cdn.slashgear.com/wp-content/uploads/2021/12/Final-Fantasy-VI-artwork-Terra-Magitek.jpg "Final Fantasy VI Pixel Remaster delayed, with bonus for those who wait")
+
+
+[Final Fantasy VI Pixel Remaster delayed, with bonus for those who wait](https://www.slashgear.com/final-fantasy-vi-pixel-remaster-delayed-with-bonus-for-those-who-wait-21703631)
+
+
+> Final Fantasy VI Pixel Remaster delayed, with bonus for those who wait Earlier this year, Square Enix announced the Final Fantasy Pixel Remasters on a rather tight release timeline. The company initially planned to have them all out within 2021, but with just a couple of weeks left in the year and no sign of Final Fantasy VI – the final Pixel Remaster of the bunch – we were starting to wonder if the game would make it out in time. We can stop wondering because Square Enix has confirmed that Final Fantasy VI has been delayed.
+
+
+***
+![2022 Acura MDX Type S hits dealerships next week; pricing confirmed](https://cdn.slashgear.com/wp-content/uploads/2021/12/acura-mdx-type-s-mountain.jpg "2022 Acura MDX Type S hits dealerships next week; pricing confirmed")
+
+
+[2022 Acura MDX Type S hits dealerships next week; pricing confirmed](https://www.slashgear.com/2022-acura-mdx-type-s-hits-dealerships-next-week-pricing-confirmed-21703620/)
+
+
+> Acura has been making popular SUVs and cars for many years. One of its most popular SUVs is the Acura MDX, and in January 2021, we got to spend hands-on time with the 2022 MDX and found it very appealing. Fast forward to June 2021, and Acura revealed an even more appealing and sporty version of the MDX called the MDX Type S. Additional vehicle details were revealed in November, including that it had a turbocharged V6 producing 355 horsepower. Via Acura Pricing One of the most desirable bits of information about the MDX Type S was exactly how much it would cost.
+
+
+***
+![What would really happen if we mined a $27 quintillion asteroid?](https://cdn.slashgear.com/wp-content/uploads/2021/12/asteroidillus.jpg "What would really happen if we mined a $27 quintillion asteroid?")
+
+
+[What would really happen if we mined a $27 quintillion asteroid?](https://www.slashgear.com/what-would-really-happen-if-we-mined-a-27-quintillion-asteroid-21703635/)
+
+
+> You might have seen headlines about how NASA is planning to visit an asteroid worth quintillions of dollars, and even some suggesting that mining this asteroid would make everyone on Earth indescribably rich. Most of these articles are based on a study from last year (via the Planetary Science Journal) about asteroid Psyche, a weird and wild metal asteroid which NASA is planning to visit with a mission launching next year (via NASA). The study found that Psyche, which is 140 miles across, is almost entirely composed of iron and nickel, which would be very valuable if it was here on Earth.
+
+
