@@ -39533,3 +39533,53 @@
 > BSides Discussed Spyware, Android Vulnerabilities and More Founded in 2009, the Security BSides is a community-driven framework for building events for and by information security community members. BSides events are intense and filled with participants' discussions, demos, and interaction. Run and participated by the community itself, these conferences are where conversations for the next big thing happen. TECNO SRC is the trademark of a company that cares about the needs of consumers from different markets and understands the technical and cultural implications of IT security BSides opened with a keynote address by Heath Adams, The Cyber Mentor (TCM), on information security, cyber security and ethical hacking.
 
 
+***
+![Ubisoft NFTs Have Poor Sales, but They're Just the Beginning for Ubisoft](https://www.playstationlifestyle.net/assets/uploads/2021/12/Ubiosft-Quartz.jpg "Ubisoft NFTs Have Poor Sales, but They're Just the Beginning for Ubisoft")
+
+
+[Ubisoft NFTs Have Poor Sales, but They're Just the Beginning for Ubisoft](https://www.playstationlifestyle.net/2021/12/20/ubisofts-nfts-poor-sales/)
+
+
+> When Ubisoft launched their Ubisoft Quartz platform for the sole purpose of selling NFTs, they trialled it with weapon skins for Ghost Recon: Breakpoint, but the problem is they've racked up fairly poor sales. Of the 2,000 skins listed six days ago, just six have sold. Despite this, Kotaku reports Ubisoft CEO Yves Guillemot has told the company's developers that these NFTs are just the beginning of the company's move into blockchain technology.Ubisoft's debut into NFTs did err on the side of optimistic.
+
+
+***
+![The Best Games of 2021](https://cdn.slashgear.com/wp-content/uploads/2021/12/Best-Games-of-2021-header.jpg "The Best Games of 2021")
+
+
+[The Best Games of 2021](https://www.slashgear.com/the-best-games-of-2021-20702564/)
+
+
+> As we prepare to close out 2021, it's time to look back on the games that defined the year. The COVID-19 pandemic claimed release date through release date as we moved through 2021, but the games industry kept chugging away. Despite the fact that the year's release schedule was in a constant state of flux, we still received a number of great titles in 2021. In this list, we'll recap the Best Games of 2021 and tell you what made each one so special. Miguel Lagoa/Shutterstock Note: While I've handled most of these year-end gaming wrap-ups on my own in the past, this year I have some help from one of SlashGear's newest writers, Josh Hawkins.
+
+
+***
+![Cyberpunk 2077 modders are doing what most US cities can't get right](https://cdn.slashgear.com/wp-content/uploads/2021/12/fc83f9cf0cea96cea3abaf8d93f297f4.jpg "Cyberpunk 2077 modders are doing what most US cities can't get right")
+
+
+[Cyberpunk 2077 modders are doing what most US cities can't get right](https://www.slashgear.com/cyberpunk-2077-modders-are-doing-what-most-us-cities-cant-get-right-20703543/)
+
+
+> Back before Cyberpunk 2077 released, CD Projekt Red promised an immersive and living city that players could explore a multitude of ways. One of the ways originally showcased in trailers and other promotional footage included the city's subways and monorail systems. Unfortunately, like much of the final release, the actual in-game metro system left a lot to be desired. There were no cleverly designed train rides or even anything of the sort. Instead, Night City's metro system was basically useless.
+
+
+***
+![There's a possible fix for the Pixel 6 network issues, and it's pretty simple](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large_wm_brw/public/article_images/2021/10/google-pixel-6-pro-lockscreen-material-you-music.jpg "There's a possible fix for the Pixel 6 network issues, and it's pretty simple")
+
+
+[There's a possible fix for the Pixel 6 network issues, and it's pretty simple](https://www.androidcentral.com/pixel-6-possible-network-connection-fix)
+
+
+> Source: Alex Dobie / Android Central The Pixel 6 has been facing worsening network issues since the December update. A potential fix has been discovered, which required users joining the Carrier Services beta. Many users have noticed improved network connection on their Pixel 6s. A Reddit post may have uncovered a way to fix the network connection problems that Pixel 6 owners have been facing since the December update began rolling out. The post was spotted by Android Police and details a reasonably easy way to get back up and running if you're experiencing problems getting a good signal with one of 2021's best Android phones.
+
+
+***
+![Shinsegae in dilemma over selling off furniture business](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202112/45dc1ea6c28149cca4fe6e281b97eb94.jpg "Shinsegae in dilemma over selling off furniture business")
+
+
+[Shinsegae in dilemma over selling off furniture business](https://www.koreatimes.co.kr/www/tech/2021/12/419_320754.html)
+
+
+> Shinsegae Casa's store at Shinsegae Department Store in Seoul / Korea Times fileBy Kim Jae-heunShinsegae Department Store is faced with deciding whether to sell its furniture brand, Shinsegae Casa (formerly known as Casamia) as the business has faced a number of setbacks.The company does not own a production facility for the furniture brand, which reduces manufacturing costs, but the subsidiary is failing to create a presence in the market.However, Shinsegae Casa has appointed Choi Moon-suk as its new CEO, someone who has ample experience in corporate acquisitions, and industry sources believe he will be able to grow the business before selling it at some point in the near future.
+
+
