@@ -39663,3 +39663,13 @@
 > FILE PHOTO: The logo of Indonesia's central bank, Bank Indonesia, is seen on a window in the bank's lobby in Jakarta, Indonesia September 22, 2016. REUTERS/Iqro Rinaldi/File Photo JAKARTA (Reuters) - Indonesia's central bank on Tuesday launched a new retail payment system that its governor said will slash the cost of money transfers and support the country's booming digital economy.The COVID-19 pandemic has accelerated growth in Indonesia's digital finance, with digital banking transactions rising 47% on a yearly basis in November to reach 3,877 trillion rupiah ($269.
 
 
+***
+![Technical Sales Representative (Bavaria, DE)](http://www.parking-net.com/Upload/ContentManagersPictures/s&b/scheidt-bachmann-logo(copy).jpg "Technical Sales Representative (Bavaria, DE)")
+
+
+[Technical Sales Representative (Bavaria, DE)](http://www.parking-net.com/parking-jobs/scheidt-bachmann-gmbh/technical-sales-representative-bavaria-de)
+
+
+> Tuesday, December 21, 2021 12:24 PM Detailed induction programs Supporting sponsorship models Personnel development and training programs Flexible, family-oriented working hours Collegial working atmosphere Company cars also for private use You acquire new customers for our parking garage systems in your sales area. They know how to look after our customers, partners and planning companies. They prepare offers and negotiate contracts. You plan and monitor the new systems and after-sales business.
+
+
