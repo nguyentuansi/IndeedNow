@@ -39803,3 +39803,33 @@
 > Dr Adham said the ministry was still waiting for approval from the Civil Aviation Authority of Malaysia (CAAM) to fly the drones. — Bernama PUTRAJAYA: A total of 20 high-powered drones will be deployed for monitoring purposes and for delivery of vital supplies to flood-hit areas, said Science, Technology and Innovation (MOSTI) Minister Datuk Seri Dr Adham Baba. He said the ministry has received the cooperation of five private companies to supply the drones which would be operated by the Drone Services Special Emergency Response Team (PTK2Dron).
 
 
+***
+![Apple's iPhone 14 Pro might sport 48MP camera](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-4v24huvehu1ggor0uk567vnju0-20210915091630.jpeg "Apple's iPhone 14 Pro might sport 48MP camera")
+
+
+[Apple's iPhone 14 Pro might sport 48MP camera](https://www.asianage.com/technology/mobiles-tabs/221221/apples-iphone-14-pro-might-sport-48mp-camera.html)
+
+
+> ANI Published : Dec 22, 2021, 12:32 pm IST Updated : Dec 22, 2021, 12:32 pm IST The 48MP sensors still output 12MP images after pixel-binning, but allows more data to be gathered  Apple CEO Tim Cook with the iPhone 13 Pro Max and Apple Watch Series 7 during a special event at Apple Park. (Photo: AFP/File) Washington: American tech giant Apple has been relying on 12MP sensors for the main cameras of its smartphones for the better part of a decade now. According to GSM Arena, this is finally about to change in the iPhone 14 Pro series, as the company is aiming to put a 48MP sensor behind the main shooter, an analyst claims.
+
+
+***
+![LG CNS wins 2 Google Premier Partner Awards](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202112/b7afcb2abaef41c897b2113462205b68.jpg "LG CNS wins 2 Google Premier Partner Awards")
+
+
+[LG CNS wins 2 Google Premier Partner Awards](https://www.koreatimes.co.kr/www/tech/2021/12/419_320965.html)
+
+
+> LG CNS won twice at the Google Premier Partner Awards 2021 in the Lead Generation and Best Team categories. This marks the third consecutive year the company has received an award from the event, with previous honors being Search Innovation in 2018 and Search Excellence in 2019. / Courtesy of LG CNS hyunbin@koreatimes.co.kr More articles by this reporter
+
+
+***
+![KGC rolls out new red ginseng extract](https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202112/dd6c7cbaf140430889ced4a95d932a6d.jpg "KGC rolls out new red ginseng extract")
+
+
+[KGC rolls out new red ginseng extract](https://www.koreatimes.co.kr/www/tech/2021/12/419_320982.html)
+
+
+> KGC's Hongsamjeong Ji red ginseng extract / Courtesy of KGCBy Baek Byung-yeulKorea Ginseng Corporation (KGC) has rolled out its new red ginseng extract, Hongsamjeong Ji, which is a premium product in its Jeong Kwan Jang red ginseng lineup, the company said Wednesday.Hongsamjeong Ji is a 100 percent red ginseng extract that offers the deep flavor and soft taste of six-year-old jisam, a variety of ginseng, KGC said. Jisam refers to red ginseng that is within the top 2 percent of quality, and is used in KGC's red ginseng products.
+
+
