@@ -39873,3 +39873,13 @@
 > Italian automaker Maserati has unveiled the first images of its MC20 convertible prototype, a drop-top variant of the brand's highly-anticipated V6 supercar. However, the teaser images don't reveal much with the prototype's cloud-themed body wrap. It would have been nice if Maserati released a photo or two of the MC20 with the roof folded down, but you don't have to squint hard to discern it remains a desirable-looking machine. From its looks, the MC20 convertible will share most of the curvy body panels of its hardtop brethren.
 
 
+***
+![HP Begins Production of Multiple PC Products in India](https://telecomtalk.info/wp-content/uploads/2021/12/hp-begins-production-of-multiple-pc-products.jpg "HP Begins Production of Multiple PC Products in India")
+
+
+[HP Begins Production of Multiple PC Products in India](https://telecomtalk.info/hp-begins-production-of-multiple-pc-products/486801/)
+
+
+> HP Inc. has been successful in leading the PC market in the country.HP has been leading not only the commercial market but also consumer segments by having a total of 28.5% share in the overall PC category.Manufactured products are expected to include HP EliteBooks, HP ProBooks and HP G8 Series Notebooks.In the recent development of events, the computer hardware company HP on Wednesday has stated that it has started the production of multiple PC products in India. The PC products include the likes of laptops and the production has been commenced in the light of government's ‘make in India' initiative.
+
+
