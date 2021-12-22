@@ -39713,3 +39713,43 @@
 > You might have seen headlines about how NASA is planning to visit an asteroid worth quintillions of dollars, and even some suggesting that mining this asteroid would make everyone on Earth indescribably rich. Most of these articles are based on a study from last year (via the Planetary Science Journal) about asteroid Psyche, a weird and wild metal asteroid which NASA is planning to visit with a mission launching next year (via NASA). The study found that Psyche, which is 140 miles across, is almost entirely composed of iron and nickel, which would be very valuable if it was here on Earth.
 
 
+***
+![Horizon Forbidden West May be a 96GB Install Size on PS5](https://www.playstationlifestyle.net/assets/uploads/2021/12/Horizon-1.jpg "Horizon Forbidden West May be a 96GB Install Size on PS5")
+
+
+[Horizon Forbidden West May be a 96GB Install Size on PS5](https://www.playstationlifestyle.net/2021/12/21/horizon-forbidden-west-ps5-install-size/)
+
+
+> Horizon Forbidden West has appeared on the PlayStation Store database and may have an install size of 96.350 GB on PS5, according to PlayStation Game Size. Players will be able to preload the PlayStation 5 version of the game on February 11 ready for its release on February 18.While the PlayStation Store database states the game's install size will be 96.350 GB, PlayStation Game Size did add that some games on the database claim to have a bigger size than they do once installed on console, often by a 10-20GB margin.
+
+
+***
+![500 million free home COVID-19 tests is Biden's new Omicron plan](https://cdn.slashgear.com/wp-content/uploads/2021/12/covid-swab-test.jpg "500 million free home COVID-19 tests is Biden's new Omicron plan")
+
+
+[500 million free home COVID-19 tests is Biden's new Omicron plan](https://www.slashgear.com/500-million-free-home-covid-19-tests-is-bidens-new-omicron-plan-21703734/)
+
+
+> The White House has announced another addition to its ongoing COVID-19 response, this time stating that the US will expand public access to free testing. This effort will include, starting next month, providing half a billion at-home COVID-19 tests to the public for free. This new offering will join other methods intended to help address the pandemic and its impact on the nation. Cryptographer/Shutterstock Free at-home testing starts in January The Biden administration announced the new series of expansions and additions to the nation's ongoing government COVID-19 support measures, which aim to help states and local governments deal with new case outbreaks, as well as the other big disruptions caused by the pandemic.
+
+
+***
+![USB-C vs Thunderbolt 3: Which Is Better?](https://cdn.slashgear.com/wp-content/uploads/2021/12/thunderbolt.jpg "USB-C vs Thunderbolt 3: Which Is Better?")
+
+
+[USB-C vs Thunderbolt 3: Which Is Better?](https://www.slashgear.com/usb-c-vs-thunderbolt-3-which-is-better-21703753/)
+
+
+> USB-C and Thunderbolt are two of the most common types of ports for computers, smartphones, and tablets. Both ports offer high-speed I/O and support a wide range of devices. While the two ports are visually indistinguishable, there are significant differences between them. kontrymphoto/Shutterstock The latest version of the USB interface, USB-C, was quickly adopted by many device manufacturers. Computers — both PCs and Macs — all use USB-C, as do smartphones and tablets, thanks in no small part to the port's versatility.
+
+
+***
+![Boeing And Airbus Want To Ground The 5G Rollout](https://cdn.slashgear.com/wp-content/uploads/2021/12/plane.jpg "Boeing And Airbus Want To Ground The 5G Rollout")
+
+
+[Boeing And Airbus Want To Ground The 5G Rollout](https://www.slashgear.com/boeing-and-airbus-want-to-ground-the-5g-rollout-21703745/)
+
+
+> Boeing and Airbus have written a joint letter to US Transportation Secretary Pete Buttigieg asking that Verizon and AT&T's rollout of C-band 5G be delayed. At the heart of the issue is concern over interference with aircraft altimeters. Lukas Gojda/Shutterstock Verizon and AT&T were the largest bidders for C-band spectrum, in the mid-band range, at a recent FCC auction. In fact, under its legal name Celco Partnership, Verizon spent $45,454,843,197 while AT&T spent $23,406,860,839 (via the FCC). Collectively, the two companies spent more than $68 billion on C-band spectrum because that spectrum is in the 3.
+
+
