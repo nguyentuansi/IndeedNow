@@ -39783,3 +39783,23 @@
 > Huawei launches Smart Car Solution Innovation Center Huawei Smart Car Solution Innovation Center has been inaugurated in Suzhou, and will be mainly open to car makers and partners for joint development, testing, verification and display. Huawei will provide partners with technical training and laboratory environments to promote joint innovation of smart cars. GAC Group, WeRide and Ontime will cooperate to launch robotaxi service GAC Group has reached strategic cooperation with autonomous driving technology firm WeRide and Ontime, a mobile transportation platform headquartered in Guangzhou.
 
 
+***
+![Local tabletop game developers raise funds for flood victims](https://apicms.thestar.com.my/uploads/images/2021/12/22/1416227.jpg "Local tabletop game developers raise funds for flood victims")
+
+
+[Local tabletop game developers raise funds for flood victims](https://www.thestar.com.my/tech/tech-news/2021/12/22/local-tabletop-game-developers-raise-funds-for-flood-victims)
+
+
+> Some of the titles in the bundle. — Screenshot of itch.io. PETALING JAYA: Local tabletop game developers have banded together to sell their titles to raise funds for flood victims in Malaysia and the Philippines. Originally, the proceeds from the sale of the titles on itch.io, an open marketplace for indie digital creators, were meant to be channelled to Mercy Malaysia's Flood Relief Fund. But as their initial target of US$1,000 (RM4,200) has been exceeded – as of 12pm today, US$12,037 (RM50,669) has been collected – they will also be channelling 30% of the sale to the Philippines' Tulong Kabataan Network.
+
+
+***
+![MOSTI will activate 20 high-powered drones to monitor flood situation](https://apicms.thestar.com.my/uploads/images/2021/12/22/1416200.jpg "MOSTI will activate 20 high-powered drones to monitor flood situation")
+
+
+[MOSTI will activate 20 high-powered drones to monitor flood situation](https://www.thestar.com.my/tech/tech-news/2021/12/22/mosti-will-activate-20-high-powered-drones-to-monitor-flood-situation)
+
+
+> Dr Adham said the ministry was still waiting for approval from the Civil Aviation Authority of Malaysia (CAAM) to fly the drones. — Bernama PUTRAJAYA: A total of 20 high-powered drones will be deployed for monitoring purposes and for delivery of vital supplies to flood-hit areas, said Science, Technology and Innovation (MOSTI) Minister Datuk Seri Dr Adham Baba. He said the ministry has received the cooperation of five private companies to supply the drones which would be operated by the Drone Services Special Emergency Response Team (PTK2Dron).
+
+
