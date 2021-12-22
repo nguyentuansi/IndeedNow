@@ -39833,3 +39833,43 @@
 > KGC's Hongsamjeong Ji red ginseng extract / Courtesy of KGCBy Baek Byung-yeulKorea Ginseng Corporation (KGC) has rolled out its new red ginseng extract, Hongsamjeong Ji, which is a premium product in its Jeong Kwan Jang red ginseng lineup, the company said Wednesday.Hongsamjeong Ji is a 100 percent red ginseng extract that offers the deep flavor and soft taste of six-year-old jisam, a variety of ginseng, KGC said. Jisam refers to red ginseng that is within the top 2 percent of quality, and is used in KGC's red ginseng products.
 
 
+***
+![Tesla faces US safety investigation over in-car gaming](https://cdn.slashgear.com/wp-content/uploads/2021/12/tesla-gaming-1.jpg "Tesla faces US safety investigation over in-car gaming")
+
+
+[Tesla faces US safety investigation over in-car gaming](https://www.slashgear.com/tesla-faces-us-safety-investigation-over-in-car-gaming-22703875/)
+
+
+> More than half a million Tesla cars are under a preliminary safety investigation, with the US NHTSA concerned that games playable on the dashboard touchscreen could distract a driver while the EVs were moving. Tesla Arcade launched in mid-2019, offering a selection of titles like Beach Buggy Racing 2, but it's a more recent update which has the US Department of Transportation's National Highway Traffic Safety Administration concerned now. SOURCE: Tesla 'Passenger Play' is offered on Model 3, Model S, Model X, and Model Y vehicles from the model years 2017 to 2022.
+
+
+***
+![2022 Jeep Grand Cherokee L adds a screen you never knew you needed](https://cdn.slashgear.com/wp-content/uploads/2021/12/22-grand-cherokee-l-mountains.jpg "2022 Jeep Grand Cherokee L adds a screen you never knew you needed")
+
+
+[2022 Jeep Grand Cherokee L adds a screen you never knew you needed](https://www.slashgear.com/2022-jeep-grand-cherokee-l-adds-a-screen-you-never-knew-you-needed-22703839/)
+
+
+> Jeep is talking about some of the new technology it's fitting into the 2022 Grand Cherokee L. The automotive manufacturer is cramming new technology and connectivity into the vehicle for drivers and passengers. Jeep is also talking up new exterior colors and new styling packages available later in the model year. Via Jeep Passenger Technology For many years automotive manufacturers, including Jeep, have put technology into their vehicles, typically focusing on the rear seat passengers. Certainly, integrated screens in the headrests or overhead in many SUVs have been around for a long time to keep both adults and kids in the back seats occupied on long trips.
+
+
+***
+![Sony announces the world's first dual-light-sensitive ‘stacked CMOS' sensor](https://cdn.slashgear.com/wp-content/uploads/2021/12/ss-1638642004.jpg "Sony announces the world's first dual-light-sensitive ‘stacked CMOS' sensor")
+
+
+[Sony announces the world's first dual-light-sensitive ‘stacked CMOS' sensor](https://www.slashgear.com/sony-announces-the-worlds-first-dual-light-sensitive-stacked-cmos-sensor-22703864/)
+
+
+> A pioneer in digital imaging, Sony announced its first stacked CMOS sensors for full-frame cameras back in April 2017 on the flagship Sony A9 camera. A stacked CMOS sensor captures significantly more exposure, offers faster frame rates, and better image processing. Now, Sony's Semiconductor unit has announced the world's first stacked CMOS sensor with dual transistor layers that doubles the amount of light captured in comparison to a conventional stacked sensor. peter jesche/Shutterstock Sony says that while a traditional stacked CMOS sensor has pixel transistors and photodiodes on the same substrate layer, the new dual-layer arrangement places them in two different substrate levels.
+
+
+***
+![Maserati unveils MC20 convertible prototype garbed in dreamy camouflage](https://cdn.slashgear.com/wp-content/uploads/2021/12/18723-MC20Cabrio.jpg "Maserati unveils MC20 convertible prototype garbed in dreamy camouflage")
+
+
+[Maserati unveils MC20 convertible prototype garbed in dreamy camouflage](https://www.slashgear.com/maserati-unveils-mc20-convertible-prototype-garbed-in-dreamy-camouflage-22703805/)
+
+
+> Italian automaker Maserati has unveiled the first images of its MC20 convertible prototype, a drop-top variant of the brand's highly-anticipated V6 supercar. However, the teaser images don't reveal much with the prototype's cloud-themed body wrap. It would have been nice if Maserati released a photo or two of the MC20 with the roof folded down, but you don't have to squint hard to discern it remains a desirable-looking machine. From its looks, the MC20 convertible will share most of the curvy body panels of its hardtop brethren.
+
+
