@@ -39753,3 +39753,33 @@
 > Boeing and Airbus have written a joint letter to US Transportation Secretary Pete Buttigieg asking that Verizon and AT&T's rollout of C-band 5G be delayed. At the heart of the issue is concern over interference with aircraft altimeters. Lukas Gojda/Shutterstock Verizon and AT&T were the largest bidders for C-band spectrum, in the mid-band range, at a recent FCC auction. In fact, under its legal name Celco Partnership, Verizon spent $45,454,843,197 while AT&T spent $23,406,860,839 (via the FCC). Collectively, the two companies spent more than $68 billion on C-band spectrum because that spectrum is in the 3.
 
 
+***
+![China 'livestream queen' accounts disappear after record fine](https://apicms.thestar.com.my/uploads/images/2021/12/22/1416153.jpg "China 'livestream queen' accounts disappear after record fine")
+
+
+[China 'livestream queen' accounts disappear after record fine](https://www.thestar.com.my/tech/tech-news/2021/12/22/china-039livestream-queen039-accounts-disappear-after-record-fine)
+
+
+> Boasting over 110 million followers on social media, Viya reportedly sold products worth a total of 8.5 billion yuan (US$1.3bil/RM5.4bil) in just one evening during China's recent Singles' Day shopping festival. — AFP BEIJING: The social media accounts of an influencer known as China's 'livestreaming queen' disappeared on Tuesday, after she was ordered to pay a record US$200mil (RM841mil) fine for tax evasion. Huang Wei, known by her username Viya, is one of China's most prominent livestreamers in an e-commerce sector that has accelerated its rapid growth despite the coronavirus pandemic that took hold last year.
+
+
+***
+![Webb telescope launch again pushed back](https://apicms.thestar.com.my/uploads/images/2021/12/22/1416095.jpg "Webb telescope launch again pushed back")
+
+
+[Webb telescope launch again pushed back](https://www.thestar.com.my/tech/tech-news/2021/12/22/webb-telescope-launch-again-pushed-back)
+
+
+> The James Webb Space Telescope launch has been pushed back a third time due to adverse weather. —NASA via AP) The launch of the James Webb Space Telescope, which astronomers hope will herald a new era of discovery, was again pushed back Tuesday until at least Christmas Day due to "adverse weather conditions" at the launch site in French Guiana, NASA said. The new target date, if determined to be viable, would be an actual Christmas gift for scientists who have been waiting three decades to see the largest and most powerful telescope take off for space aboard an Ariane 5 rocket.
+
+
+***
+![China Tech Digest: Huawei Launches Smart Car Solution Innovation Center; Chery And COSMOPlat Co-build Industrial Internet Platform](https://assets.chinamoneynetwork.com/wp-content/uploads/20200717144006/cars-road-vehicles-696x464.jpg "China Tech Digest: Huawei Launches Smart Car Solution Innovation Center; Chery And COSMOPlat Co-build Industrial Internet Platform")
+
+
+[China Tech Digest: Huawei Launches Smart Car Solution Innovation Center; Chery And COSMOPlat Co-build Industrial Internet Platform](https://www.chinamoneynetwork.com/2021/12/22/china-tech-digest-huawei-launches-smart-car-solution-innovation-center-chery-and-cosmoplat-co-build-industrial-internet-platform)
+
+
+> Huawei launches Smart Car Solution Innovation Center Huawei Smart Car Solution Innovation Center has been inaugurated in Suzhou, and will be mainly open to car makers and partners for joint development, testing, verification and display. Huawei will provide partners with technical training and laboratory environments to promote joint innovation of smart cars. GAC Group, WeRide and Ontime will cooperate to launch robotaxi service GAC Group has reached strategic cooperation with autonomous driving technology firm WeRide and Ontime, a mobile transportation platform headquartered in Guangzhou.
+
+
