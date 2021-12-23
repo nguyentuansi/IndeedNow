@@ -39953,3 +39953,33 @@
 > Written by Don Bridges The railroad industry is becoming more digital each day. The railroad industry is embracing its own digital transformation. In his address to shareholders at the May 13, 2021 annual meeting, Norfolk Southern chief executive Jim Squires made a statement in-line with a vision that is becoming more common across the rail industry: 'We are moving quickly to lead the industry in innovation, launching our Digital | NS initiative, and building the digital railroad of the future.' Digital Transformation is a 25-year-old concept with many definitions and applications.
 
 
+***
+![WhatsApp tests two great features which will be very useful to its users](https://blogger.googleusercontent.com/img/a/AVvXsEiH10KRGt-zr8z_Toh5RSJPsStaP5itxkX21Hwg4anNOnTVJJNiHeiAUnfFpRNa_rlDMPs7kfDd3nfmLqZgBioGVs79e6wDiixjbxvbKGbPA4xaFCUvhvN8epl4ACT9WBIYAwoPyh5g-OfJL09si326Ss_elbbKXIA4iU5csW_K1WuHYnSxotcM75T0=s16000 "WhatsApp tests two great features which will be very useful to its users")
+
+
+[WhatsApp tests two great features which will be very useful to its users](https://www.digitalinformationworld.com/2021/12/whatsapp-tests-two-great-features-which.html)
+
+
+> WhatsApp is a huge name in the social messaging world. The platform boasts around two billion active users globally. WhatsApp started its independent journey in November 2009 then Facebook acquired it in February 2014.Meta-owned company WhatsApp always gives its users new updates whether it's large or minor, in this article we will talk about two new updates which the firm recently launched.The first one is for WhatsApp business users.WhatsApp is giving a new shape to their pretty old feature for business account users, although this feature has been available for a while.
+
+
+***
+![Vodafone Idea 28 Days and 21 Days Validity 4G Data Vouchers Explained](https://telecomtalk.info/wp-content/uploads/2021/12/vodafone-idea-28-days-and-21-days.png "Vodafone Idea 28 Days and 21 Days Validity 4G Data Vouchers Explained")
+
+
+[Vodafone Idea 28 Days and 21 Days Validity 4G Data Vouchers Explained](https://telecomtalk.info/vodafone-idea-28-days-and-21-days/486861/)
+
+
+> Vodafone Idea (Vi), the third-largest private telecom operator in India offers multiple 4G data vouchers with different set of validities.Vodafone Idea offers only two options with 21 days of service validity.There are three 4G data vouchers from Vodafone Idea that come with 28 days of service validity.Vodafone Idea (Vi), the third-largest private telecom operator in India, offers multiple 4G data vouchers with a different set of validities. If you are someone who is looking to purchase a shorter-validity data voucher, there are a series of options that come with 28 days and 21 days of service validity.
+
+
+***
+![Considering cutting the cord? It's easier than you think](https://bloximages.newyork1.vip.townnews.com/tbnweekly.com/content/tncms/custom/image/7f926394-1d6c-11e8-8997-bb46bc0a6ee3.png?crop=749%2C749%2C375%2C0&resize=200%2C200&order=crop%2Cresize "Considering cutting the cord? It's easier than you think")
+
+
+[Considering cutting the cord? It's easier than you think](https://www.brandpointcontent.com/article/39005/considering-cutting-the-cord-its-easier-than-you-think)
+
+
+> (BPT) - If you've been thinking about cutting the cord on your cable service, you're not alone. A new survey finds that 1 in 4 baby boomers have cut the cord in the past year, just behind millennials and Gen Xers (both at 1 in 3), and 50% added more streaming subscriptions. According to the survey, "The Streaming Decade: When Will All TV Be Streamed?" by Roku, 98% of the boomers who cut the cord are happy they did it.'Amid a year of uncertainty, this survey puts data behind what we have believed since our founding in 2002: All TV will be streamed,' said Anthony Wood, Roku founder and CEO.
+
+
