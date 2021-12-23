@@ -40064,3 +40064,34 @@
 > Memories have been a staple of our psyche throughout human history and have even served an evolutionary purpose by helping us learn from and avoid bad experiences. They also help us digest information for future recall and indulge our nostalgia. Fortunately, with advanced technology at our disposal, we have many advanced options to store memories without stressing our brains. The advent of the digital age has made storing memories much easier, thanks to digital data storage solutions like CDs, floppy discs, and hard drives.
 
 
+***
+[Ikegami To Show Latest Additions To Its Range Of Broadcast Cameras And Monitors At Hamburg Open](https://tvnewscheck.com/more-news/tech/article/ikegami-to-show-latest-additions-to-its-range-of-broadcast-cameras-and-monitors-at-hamburg-open/)
+
+
+> Ikegami will promote the latest additions to its range of broadcast production camera systems and monitors at Hamburg Open 2022. The show is scheduled to take place from Wednesday Jan. 19 (10:00 – 18.00) through Thurs. Jan. 20 (10.00 – 16:00) in Hall 8 of the Congress Center Hamburg. Focus of attention on Ikegami stand H.339 will be the UHK-X700 4K camera and BSX-100 base station, the UHL-43 compact 4K camera, HQLM-3125 master grade 4K monitor and HLM series HD monitors. Ikegami representatives at the show will include Ikegami Electronics (Europe) Broadcast & Professional Video Division manager Michael Lätzsch and sales engineer David Lieven.
+
+
+***
+![Vivo S12, S12 Pro launched with 108MP primary sensor, 44W fast charging support](https://static.toiimg.com/thumb/msid-88456480,width-1070,height-580,imgsize-18650,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Vivo S12, S12 Pro launched with 108MP primary sensor, 44W fast charging support")
+
+
+[Vivo S12, S12 Pro launched with 108MP primary sensor, 44W fast charging support](https://timesofindia.indiatimes.com/gadgets-news/vivo-s12-s12-pro-launched-with-108mp-primary-sensor-44w-fast-charging-support/articleshow/88456480.cms)
+
+
+> No body in the article.
+
+
+***
+[PFT Delivers AI-Led Automation Of Segmentation Workflows To ITV](https://tvnewscheck.com/more-news/tech/article/pft-delivers-ai-led-automation-of-segmentation-workflows-to-itv/)
+
+
+> Prime Focus Technologies (PFT) says its AI/ML-powered native media recognition engine CLEAR Vision Cloud has been engaged by ITV, the oldest and largest commercial terrestrial television network in the United Kingdom for delivering AI-based automatic segmentation of long-form content. ITV currently marks about 12 types of segments in the content manually, which are both physical segments like color bars, blacks, and slates, and creative segments like recaps, PRTS, credits, program part segments and bumpers.
+
+
+***
+[Cobalt Digital Live Streams Demos To Fill IBC Void](https://tvnewscheck.com/more-news/tech/article/cobalt-digital-live-streams-demos-to-fill-ibc-void/)
+
+
+> Cobalt Digital has announced plans to fill the IBC void with live-streamed demos of solutions that were to be highlighted at IBC before the in-person show was canceled. The designer and manufacturer of edge devices for live video production and master control, and a founding partner in the openGear initiative, is live-streaming demos of its new Indigo 2110-DC-01, an integrated ST 2110 option, and of RIST Multi-Link in seamless switching mode using RIST and SMPTE ST 2022. Virtual visitors can view both demos now.
+
+
