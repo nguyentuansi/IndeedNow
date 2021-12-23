@@ -39923,3 +39923,33 @@
 > The U.S. government has opened a preliminary inquiry into reports Tesla Inc. vehicles allow occupants to play video games while the car is in motion. The inquiry has been launched by the National Highway Traffic Safety Administration's Office of Defects Investigation following a complaint filed last month. Tesla customers have been able to play games in 'Passenger Play' equipped vehicles since December. However, the functionality is supposed to be available only while a vehicle is parked. According to the NHTSA, the functionality may distract the driver and increase the risk of a crash.
 
 
+***
+![China Tech Digest: Saudi Arabia Partners With Tencent In Smart Tourism; CATL's Largest Single Project Put Into Production](https://assets.chinamoneynetwork.com/wp-content/uploads/20190312071020/travel-tourism.jpg "China Tech Digest: Saudi Arabia Partners With Tencent In Smart Tourism; CATL's Largest Single Project Put Into Production")
+
+
+[China Tech Digest: Saudi Arabia Partners With Tencent In Smart Tourism; CATL's Largest Single Project Put Into Production](https://www.chinamoneynetwork.com/2021/12/23/china-tech-digest-saudi-arabia-partners-with-tencent-in-smart-tourism-catls-largest-single-project-put-into-production)
+
+
+> Saudi Arabia partners with Tencent in smart tourism Saudi Tourism Authority entered a partnership with Chinese tech giant Tencent Holdings to create an international tourism benchmarking project that integrates marketing, digital tourism and cross-border commerce. Specifically, Tencent Cloud and Tencent Smart Retail will use its cloud infrastructure and smart solutions to help Saudi Arabia connect digital marketing and online pavilions to make an immersive experience. Based on cloud services and big data technology, Tencent will also help Saudi Tourism Authority build a unified data asset platform, provide real-time monitoring/analysis and accurate decision-making basis, and establish a tourism marketing system.
+
+
+***
+![Computer security experts scramble to fix ‘vulnerability of the decade'](https://apicms.thestar.com.my/uploads/images/2021/12/22/1416797.jpg "Computer security experts scramble to fix ‘vulnerability of the decade'")
+
+
+[Computer security experts scramble to fix ‘vulnerability of the decade'](https://www.thestar.com.my/tech/tech-news/2021/12/23/computer-security-experts-scramble-to-fix-vulnerability-of-the-decade)
+
+
+> WASHINGTON: Criminals, cyber spies, and hackers around the world are launching thousands of attempts every hour to exploit a flaw in a widely used logging software as cybersecurity experts are scrambling to close the loophole and prevent catastrophic attacks. In early December, a security researcher at Chinese online retailer Alibaba discovered and reported the software flaw in a widely used tool called log4j. The open-source tool is a Java-based library developed by Apache that software developers use to track activity within an application.
+
+
+***
+![Digital transformation and rail](https://www.rtands.com/wp-content/uploads/2021/12/Screen-Shot-2021-12-22-at-7.38.49-PM.png "Digital transformation and rail")
+
+
+[Digital transformation and rail](https://www.rtands.com/technology/digital-transformation-and-rail-news-and-commentary/)
+
+
+> Written by Don Bridges The railroad industry is becoming more digital each day. The railroad industry is embracing its own digital transformation. In his address to shareholders at the May 13, 2021 annual meeting, Norfolk Southern chief executive Jim Squires made a statement in-line with a vision that is becoming more common across the rail industry: 'We are moving quickly to lead the industry in innovation, launching our Digital | NS initiative, and building the digital railroad of the future.' Digital Transformation is a 25-year-old concept with many definitions and applications.
+
+
