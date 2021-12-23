@@ -39883,3 +39883,43 @@
 > HP Inc. has been successful in leading the PC market in the country.HP has been leading not only the commercial market but also consumer segments by having a total of 28.5% share in the overall PC category.Manufactured products are expected to include HP EliteBooks, HP ProBooks and HP G8 Series Notebooks.In the recent development of events, the computer hardware company HP on Wednesday has stated that it has started the production of multiple PC products in India. The PC products include the likes of laptops and the production has been commenced in the light of government's ‘make in India' initiative.
 
 
+***
+![Google Voice adds important call customization options for all users](https://cdn.slashgear.com/wp-content/uploads/2021/12/GOOGLE-VOICE-ICON.jpg "Google Voice adds important call customization options for all users")
+
+
+[Google Voice adds important call customization options for all users](https://www.slashgear.com/google-voice-adds-important-call-customization-options-for-all-users-22703964/)
+
+
+> Google Voice, despite its immense utility and huge popularity, is often ignored when it comes to product updates. That makes the occasional announcement — like the one Google dropped this week — all the more exciting. This time around, the company is expanding Google Voice with some important call customization features that allow users to tweak the service to best fit their needs. Koshiro K/Shutterstock Google announced the new custom rules additions on December 21, noting that while the additional options will be turned off by default, end-users can turn them on and set them up in the Google Voice settings menu.
+
+
+***
+![Intel's latest oneAPI toolkits expand cross-architectural support for developers](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/1615839132_c4_story.jpg "Intel's latest oneAPI toolkits expand cross-architectural support for developers")
+
+
+[Intel's latest oneAPI toolkits expand cross-architectural support for developers](https://siliconangle.com/2021/12/22/intels-latest-oneapi-toolkits-expand-cross-architectural-support-developers/)
+
+
+> Intel Corp. has given software developers an early Christmas present with the release of its oneAPI 2022 toolkits today. The new toolkits are said to feature expanded cross-architecture features with several open-source software components. The oneAPI toolkits are meant to help developers experiment with different kinds of computer chips to optimize their application's performance. With the toolkits, developers can play around and find out what is the best hardware for each app without worrying about the economic burden of proprietary programming models.
+
+
+***
+![Apple's App Store Connect will be open on Christmas: Can developers take advantage?](https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-174972621.jpg?w=536 "Apple's App Store Connect will be open on Christmas: Can developers take advantage?")
+
+
+[Apple's App Store Connect will be open on Christmas: Can developers take advantage?](https://techcrunch.com/2021/12/22/apples-app-store-connect-will-be-open-on-christmas-can-developers-take-advantage)
+
+
+> Apple's App Store Connect will be open on Christmas: Can developers take advantage? 'Be prepared to mobilize the entire team' if you're launching over the holidays Apple is breaking with holiday tradition: The company announced early last month that its App Store will continue to review developer submissions over the holidays, welcome news for app developers facing their busiest season. Previously, an app that needed to release a bug fix or a critical update on Black Friday or during the final hours of Christmas shopping couldn't push a fix for days.
+
+
+***
+![Tesla under investigation over in-car gaming feature](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2014/02/tesla-motor-interior.jpg "Tesla under investigation over in-car gaming feature")
+
+
+[Tesla under investigation over in-car gaming feature](https://siliconangle.com/2021/12/22/tesla-investigation-car-gaming-featuring/)
+
+
+> The U.S. government has opened a preliminary inquiry into reports Tesla Inc. vehicles allow occupants to play video games while the car is in motion. The inquiry has been launched by the National Highway Traffic Safety Administration's Office of Defects Investigation following a complaint filed last month. Tesla customers have been able to play games in 'Passenger Play' equipped vehicles since December. However, the functionality is supposed to be available only while a vehicle is parked. According to the NHTSA, the functionality may distract the driver and increase the risk of a crash.
+
+
