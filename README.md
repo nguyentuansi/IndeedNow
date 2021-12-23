@@ -39983,3 +39983,44 @@
 > (BPT) - If you've been thinking about cutting the cord on your cable service, you're not alone. A new survey finds that 1 in 4 baby boomers have cut the cord in the past year, just behind millennials and Gen Xers (both at 1 in 3), and 50% added more streaming subscriptions. According to the survey, "The Streaming Decade: When Will All TV Be Streamed?" by Roku, 98% of the boomers who cut the cord are happy they did it.'Amid a year of uncertainty, this survey puts data behind what we have believed since our founding in 2002: All TV will be streamed,' said Anthony Wood, Roku founder and CEO.
 
 
+***
+![Ministry: 342 towers damaged due to floods, 153 fixed](https://apicms.thestar.com.my/uploads/images/2021/12/23/1417845.jpg "Ministry: 342 towers damaged due to floods, 153 fixed")
+
+
+[Ministry: 342 towers damaged due to floods, 153 fixed](https://www.thestar.com.my/tech/tech-news/2021/12/23/ministry-342-towers-damaged-due-to-floods-153-fixed)
+
+
+> Some of the towers are still inaccessible, according to the ministry. — FAIHAN GHANI/The Star PETALING JAYA: The floods in Selangor have damaged 342 cell towers, according to the Communications and Multimedia Ministry.In a statement, it said 153 of the towers have been fixed and are now fully functional again while the remaining 189 are still being repaired.The bulk of towers that still need fixing – 93 – are in Shah Alam, followed by Sepang (23), Klang (21), Hulu Langat (15) and Puchong (15).The ministry, which is cooperating with telcos through the Malaysian Communications and Multimedia Commission to repair the towers, said challenges include not being able to access some areas and lack of power.
+
+
+***
+![Technology sector could end Pakistan's CAD concerns: PM Imran](https://i.brecorder.com/large/2021/12/61c437abc7400.jpg "Technology sector could end Pakistan's CAD concerns: PM Imran")
+
+
+[Technology sector could end Pakistan's CAD concerns: PM Imran](https://www.brecorder.com/news/40142067)
+
+
+> Inaugurating Technopolis, a Special Technology Zone (STZ) in Lahore on Thursday, Prime Minister Imran Khan said that the technology industry could end Pakistan's current account deficit woes. 'Technology sector could alone end Pakistan's entire current account deficit,' said Khan in his address. The special technology zone has been established under Lahore Knowledge Park Company, as the government aims to boost the country's exports in the technology sector. 'Technology is the future of the world,' said the prime minister, adding that the turnover of companies including Apple and Google runs into trillions of dollars.
+
+
+***
+[Global Industrial Automation Controls Market 2021-2025](http://www.businesswire.com/news/home/20211223005244/en/Global-Industrial-Automation-Controls-Market-2021-2025---Cumulative-and-Regional-Revenue-Insights-for-Sensors-Drives-DCS-SCADA-and-PLC-in-the-Process-and-Discrete-Industries---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
+***
+[Fluree Announces Significant Momentum in Digital Trust and Privacy Collaboration, Strategic Partnerships and Developer Adoption, on the Path to Web3](http://www.businesswire.com/news/home/20211223005074/en/Fluree-Announces-Significant-Momentum-in-Digital-Trust-and-Privacy-Collaboration-Strategic-Partnerships-and-Developer-Adoption-on-the-Path-to-Web3/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
+***
+[Marsh Increases Stake in Marsh India From 49% to 92%](http://www.businesswire.com/news/home/20211223005077/en/Marsh-Increases-Stake-in-Marsh-India-From-49-to-92/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
