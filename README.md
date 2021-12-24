@@ -40095,3 +40095,50 @@
 > Cobalt Digital has announced plans to fill the IBC void with live-streamed demos of solutions that were to be highlighted at IBC before the in-person show was canceled. The designer and manufacturer of edge devices for live video production and master control, and a founding partner in the openGear initiative, is live-streaming demos of its new Indigo 2110-DC-01, an integrated ST 2110 option, and of RIST Multi-Link in seamless switching mode using RIST and SMPTE ST 2022. Virtual visitors can view both demos now.
 
 
+***
+[Apple Watch7别升8.3 多人发现充电问题](http://news.zol.com.cn/783/7838088.html)
+
+
+> No body in the article.
+
+
+***
+![Xbox Games With Gold January 2022 Lineup Revealed](https://www.comingsoon.net/assets/uploads/2021/12/radiant-silvergun.jpg "Xbox Games With Gold January 2022 Lineup Revealed")
+
+
+[Xbox Games With Gold January 2022 Lineup Revealed](https://www.comingsoon.net/games/news/1205944-xbox-games-with-gold-january-2022-lineup-games)
+
+
+> January is a little over a week away, but Xbox isn't waiting any longer to reveal the Xbox Games With Gold January 2022 lineup. It includes four games NeuroVoider, Aground, Radiant Silvergun, and Space Invaders Infinity Gene.As stated by Xbox, NeuroVoider is the first game and will be available from January 1 to January 31. This twin-stick shooter RPG released in 2016 to decent reviews.RELATED: Halo Infinite, Among Us, & More Join Xbox Game Pass in December 2021Radiant Silvergun will also launch on January 1, but will be only available through January 15.
+
+
+***
+![Cryptocurrency Rollercoaster 2021: Ten Defining Crypto Moments Of The Year](https://im.indiatimes.in/content/2021/Feb/bitcoin-2_601e79d435053.PNG "Cryptocurrency Rollercoaster 2021: Ten Defining Crypto Moments Of The Year")
+
+
+[Cryptocurrency Rollercoaster 2021: Ten Defining Crypto Moments Of The Year](https://www.indiatimes.com/technology/news/ten-crypto-highlights-of-year-557450.html)
+
+
+> The year of 2021 will be remembered as the year when cryptocurrency really took off - finding a voice in the mainstream and challenging everyone's notion of currency as the world prepares for Web 3.0. The foundations for complete migration to the the digital realm were laid this year - with all-things-metaverse finally starting to materialise.At the same time, non-fungible tokens (NFTs) and blockchain-backed cryptocurrency markets took off, plummeted back down again, while another new meme-based token took its top spot.
+
+
+***
+![Giving your child a smartphone or tablet this holiday season? Read this first](http://img-cdn.tid.al/m/4c6424cc20baea46ef3a3ca3f28f3840bc3431b7.jpg "Giving your child a smartphone or tablet this holiday season? Read this first")
+
+
+[Giving your child a smartphone or tablet this holiday season? Read this first](http://community.today.com/parentingteam/post/tech-the-halls_1640049161)
+
+
+> A lot of parents (and maybe Santa) will be giving kids smartphones or tablets as holiday gifts. I spend a lot of time in the community speaking to parents in the community about the three Big Bads; pornography, cyberbullying and sexting, but I am not anti-technology — in fact, I am quite a fan. There are loads of safety and social benefits to technology. Like money or alcohol (or the Kardashians), I don't think smartphones are evil in and of themselves. I think it's more about what you do with them … and, though I am aware and deal regularly with the dark side of media use amongst tweens, I also see opportunities for our kids to learn and grow into thoughtful digital citizens.
+
+
+***
+![Review: Matrix Resurrections has just enough of the old magic to delight fans](https://cdn.arstechnica.net/wp-content/uploads/2021/12/matrixLIST-760x380.jpg "Review: Matrix Resurrections has just enough of the old magic to delight fans")
+
+
+[Review: Matrix Resurrections has just enough of the old magic to delight fans](https://arstechnica.com/gaming/2021/12/review-matrix-resurrections-has-just-enough-of-the-old-magic-to-delight-fans/)
+
+
+> Enlarge / Keanu Reeves returns as Neo in The Matrix Resurrections After nearly 20 years, moviegoers finally have the change to revisit the imaginative cyberpunk world of 1999's The Matrix with the fourth installment in the sci-fi franchise: The Matrix Resurrections. It's not a perfect film, but there's enough of the old magic to delight longtime fans. The stars still radiate chemistry, there are plenty of cameos and sly nods to the franchise throughout, and the familiar themes have been subtly updated to make them more relevant than ever.
+
+
