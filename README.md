@@ -40252,3 +40252,43 @@
 > India Today Tech New Delhi, Dec 24, 2021, Updated Dec 24, 2021, 3:49 PM IST Story highlights Airtel XStream, JioFiber and BSNL Bharat FIber give broadband plans under Rs 500. Excitel, ACT and Tata Sky Broadband also give broadband plans under Rs 500. Some ISPs do not give access to basic plans for under Rs 500 when subscribed on a semi-annual or annual basis. Internet service providers (ISP)s including Airtel XStream, JioFiber, Excitel and BSNL Bharat broadband plans under Rs 500. These are entry-level broadband plans and do not come with many OTT benefits but do give access to app-specific streaming benefits.
 
 
+***
+![Google Issues A Warning; Users Should Face Disruption Or Find Another Web browser](https://sm.mashable.com/mashable_in/seo/3/30807/30807_vg5a.jpg "Google Issues A Warning; Users Should Face Disruption Or Find Another Web browser")
+
+
+[Google Issues A Warning; Users Should Face Disruption Or Find Another Web browser](https://in.mashable.com/tech/26414/google-issues-a-warning-users-should-face-disruption-or-find-another-web-browser)
+
+
+> > Tech It's a bad year for Google Chrome as it's been under attack for quite some time and now, the tech giant has warned over two billion chrome users. According to Chromium Bug Tracker reports, Google revealed that the next major achievement for chrome is to break various websites across the globe. The issue lies in the version numbers as the official build of Chrome is version 96 at present. Besides, the early access developer has version 99 and when it reaches 100, all the affected websites will be stopped.
+
+
+***
+![How to Lock Apps On Your Android Device](https://cdn.slashgear.com/wp-content/uploads/2021/12/samsung-galaxy-s21-ultra-26-1-1.jpg "How to Lock Apps On Your Android Device")
+
+
+[How to Lock Apps On Your Android Device](https://www.slashgear.com/how-to-lock-apps-on-your-android-device-24704046/)
+
+
+> Many people use smartphones and tablets as their primary devices, meaning they often contain apps with sensitive data. These can include, for example, banking and investment apps, photo apps with private galleries, and more. Locking apps is a good way to keep others from accessing this content when you let them use your devices, but the exact process depends on which devices you have. Built-in app lockers Some manufacturers include app locking functionality as a built-in smartphone (and, sometimes, tablet) feature.
+
+
+***
+![Reliance Jio Discontinues Re 1 Plan After all the Hype](https://telecomtalk.info/wp-content/uploads/2021/11/reliance-jio-multi-or-advance-recharge-terms.jpeg "Reliance Jio Discontinues Re 1 Plan After all the Hype")
+
+
+[Reliance Jio Discontinues Re 1 Plan After all the Hype](https://telecomtalk.info/reliance-jio-discontinues-re-plan-after-all/487249/)
+
+
+> The telco had initially announced that it was offering 100MB of data for 30 days with the Re 1 plan.Jio had changed the benefits of the Re 1 plan from 100MB to 10MB and that too with a very short validity of 1 day.The Re 1 plan was a prepaid voucher that offered 4G data to the users.Reliance Jio, India's number one telecom operator, has discontinued its Re 1 prepaid plan completely. The plan is not available to recharge on the mobile app of the company or its desktop website. This is a little disappointing after all the hype that Re 1 plan had created.
+
+
+***
+![A woman with Covid charts the ridiculous amount of time and tests it took to find out she had it](https://i2.wp.com/boingboing.net/wp-content/uploads/2021/12/testing.jpg?fit=1200%2C674&ssl=1 "A woman with Covid charts the ridiculous amount of time and tests it took to find out she had it")
+
+
+[A woman with Covid charts the ridiculous amount of time and tests it took to find out she had it](https://boingboing.net/2021/12/24/a-woman-with-covid-charts-the-ridiculous-amount-of-time-and-tests-it-took-to-find-out-she-had-it.html)
+
+
+> Ariel Dumas, head writer for The Late Show With Stephen Colbert, lives with a partner who tested positive for Covid. But it took Dumas six (6!!) tests and 11 days before she found out she was also infected with the coronavirus. By then, she'd already suffered through most of the symptoms. In the video below, which she originally posted to TikTok, she shows us a hand-drawn timeline — which includes dates of symptoms and testing — from when her partner tested positive to when she finally tested positive.
+
+
