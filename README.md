@@ -40142,3 +40142,43 @@
 > Enlarge / Keanu Reeves returns as Neo in The Matrix Resurrections After nearly 20 years, moviegoers finally have the change to revisit the imaginative cyberpunk world of 1999's The Matrix with the fourth installment in the sci-fi franchise: The Matrix Resurrections. It's not a perfect film, but there's enough of the old magic to delight longtime fans. The stars still radiate chemistry, there are plenty of cameos and sly nods to the franchise throughout, and the familiar themes have been subtly updated to make them more relevant than ever.
 
 
+***
+![No puppy for Christmas: Online pet scams proliferate in the US](https://apicms.thestar.com.my/uploads/images/2021/12/23/1418353.jpg "No puppy for Christmas: Online pet scams proliferate in the US")
+
+
+[No puppy for Christmas: Online pet scams proliferate in the US](https://www.thestar.com.my/tech/tech-news/2021/12/24/no-puppy-for-christmas-online-pet-scams-proliferate-in-the-us)
+
+
+> The puppy was supposed to be a Christmas present for her husband, Bryan. But after Lauren Case, a registered nurse from Warren, Arkansas, plunked down US$850 (RM3,750) via a cash app for a cute teacup Yorkie named Rosy she saw online, she began to get suspicious. She had paid an initial US$600 (RM2,520) by Zelle, a payment app that she had never used before but that her bank confirmed as legitimate. But then the supposed breeder asked for another US$250 (RM1,050) for a 'nanny' to hand-carry the dog to her on an airplane.
+
+
+***
+![This TV lets you lick (and taste) what you see on screen](https://sm.mashable.com/t/mashable_sea/photo/default/cover_m1dn.1200.png "This TV lets you lick (and taste) what you see on screen")
+
+
+[This TV lets you lick (and taste) what you see on screen](https://sea.mashable.com/tech/18728/this-tv-lets-you-lick-and-taste-what-you-see-on-screen)
+
+
+> > Tech The thought of being able to physically interact with the things we see on television has (disappointingly) stayed a matter of science fiction for the most part of the 21st century. Slashed are the hopes of being able to taste what you see on TV... Or are they? Tasty Television. IMAGE: Reuters Homei Miyashita, a professor at Meiji University in Japan, has developed a prototype of a TV screen that lets viewers lick what they see on display. Essentially, it's a 'lickable' TV screen that uses 10 flavor canisters to spray certain taste combinations to reflect whatever's on screen.
+
+
+***
+![Microsoft Teams 釣魚漏洞歷經 9 個月未修復，微軟與安全商的漏洞認知不同調](https://img.technews.tw/wp-content/uploads/2021/07/28161816/Microsoft-Teams-meeting-e1627531123136.jpg "Microsoft Teams 釣魚漏洞歷經 9 個月未修復，微軟與安全商的漏洞認知不同調")
+
+
+[Microsoft Teams 釣魚漏洞歷經 9 個月未修復，微軟與安全商的漏洞認知不同調](https://technews.tw/2021/12/24/microsoft-teams-bug-phishing-unpatched-march/)
+
+
+> 早在今年 3 月下旬，德國 IT 安全顧問服務公司 Positive Security 便向微軟通報，其發現 Microsoft Teams 存在 4 個會引發釣魚攻擊或 DoS 阻斷服務攻擊等風險的安全漏洞，但微軟直到現在只修復了其中一個漏洞，並表示其他三個漏洞的風險與影響性不高，只會對其中兩個漏洞在未來版本中提供更新修補，另一個漏洞則完全不打算修補。 Positive Security 公司向微軟安全回應中心（Microsoft Security Response Center，MSRC）通報的 4 個漏洞，包括伺服器端請求偽造（Server-Side Request Forgery，SSRF）、詐騙式 URL 連結預覽偽造、IP 位置外洩與 DoS 阻斷服務等漏洞。該公司並指出，這 4 個漏洞中除了讓攻擊者得以存取內部微軟服務並偽造詐騙式「連結預覽」內容兩個漏洞外，另兩個是會讓 Android 使用者面臨 IP 位址外洩與 Microsoft Teams App 及頻道停擺風險的漏洞。 截至目前為止，這 4 個早在今年 3 月便已被通報的安全漏洞，微軟只修補了 IP 位置外洩漏洞
+
+
+***
+![Garena Free Fire December 24 Redeem Codes: Get free dragon AK skin, FF Diamonds](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/12/24/1011377-garenanewwwww.jpg "Garena Free Fire December 24 Redeem Codes: Get free dragon AK skin, FF Diamonds")
+
+
+[Garena Free Fire December 24 Redeem Codes: Get free dragon AK skin, FF Diamonds](https://www.dnaindia.com/technology/report-garena-free-fire-december-24-redeem-codes-get-free-dragon-ak-skin-ff-diamonds-how-to-redeem-today-s-codes-2925290)
+
+
+> After the Indian government banned the very popular PUBG Mobile India over privacy issues in September 2020, Garena Free Fire - an adventure-driven battle royale game - has found fancy among the Indian e-gamers. It is available for download on Google Play Store. According to reports, Garena Free Fore is now one of the most popular mobile games in the world and is a favourite with e-gamers because of its HD quality graphics, dynamics, regular updates and redeem codes. Garena Free Fire players have their own strategy, including landing positions, acquiring weapons, supplies, and fighting enemies.
+
+
