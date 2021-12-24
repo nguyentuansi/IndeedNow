@@ -40292,3 +40292,20 @@
 > Ariel Dumas, head writer for The Late Show With Stephen Colbert, lives with a partner who tested positive for Covid. But it took Dumas six (6!!) tests and 11 days before she found out she was also infected with the coronavirus. By then, she'd already suffered through most of the symptoms. In the video below, which she originally posted to TikTok, she shows us a hand-drawn timeline — which includes dates of symptoms and testing — from when her partner tested positive to when she finally tested positive.
 
 
+***
+[Down 17%, iPhone sales drop at a record pace](https://chennaionline.com/technology/down-17-iphone-sales-drop-at-a-record-pace/)
+
+
+> Apple posted better earnings and revenue than Wall Street expected for the March 2019 quarter — even as sales of its flagship iPhones were $6.5 billion lighter in the period, down by 17 per cent. iPhones sales fell at their steepest-ever rate during the three months to the end of March but are showing signs of stabilising, the BBC reported. Apple lifted its outlook for the three months to June, sending its shares over 5 per cent higher in after-hours trading. View more…
+
+
+***
+![How to watch Great Christmas Bake Off: It's a Sin special online for free anywhere](https://cdn.mos.cms.futurecdn.net/kn7DyWJEyFfhESMyu7uu6o-1200-80.jpg "How to watch Great Christmas Bake Off: It's a Sin special online for free anywhere")
+
+
+[How to watch Great Christmas Bake Off: It's a Sin special online for free anywhere](https://www.techradar.com/news/how-to-watch-great-christmas-bake-off-its-a-sin-special-online-for-free-anywhere)
+
+
+> (Image credit: Channel 4) This year's Christmas TV schedule brings together two of the best things to come out of Britain in 2021 - Russell T. Davis' It's a Sin and Bake Off! Joining forces for the festive period, find out how to watch The Great Christmas Bake Off online for free this year for an extra special spin as the Bake Off tent and the Pink Palace become one.Watch The Great Christmas Bake Off onlineWhen?: Saturday, December 25 at 8pm GMTStream for FREE in the UK: Channel 4 /  All 4 (UK) Watch anywhere: try ExpressVPN 100% risk-freeWhile It's a Sin may have graced our TV screens all the way back at the beginning of 2021, it's never really left us.
+
+
