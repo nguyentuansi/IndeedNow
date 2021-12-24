@@ -40182,3 +40182,43 @@
 > After the Indian government banned the very popular PUBG Mobile India over privacy issues in September 2020, Garena Free Fire - an adventure-driven battle royale game - has found fancy among the Indian e-gamers. It is available for download on Google Play Store. According to reports, Garena Free Fore is now one of the most popular mobile games in the world and is a favourite with e-gamers because of its HD quality graphics, dynamics, regular updates and redeem codes. Garena Free Fire players have their own strategy, including landing positions, acquiring weapons, supplies, and fighting enemies.
 
 
+***
+![Curious behavior of the "Safely Remove Hardware and Eject Media" icon](https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png "Curious behavior of the "Safely Remove Hardware and Eject Media" icon")
+
+
+[Curious behavior of the "Safely Remove Hardware and Eject Media" icon](https://www.bleepingcomputer.com/forums/t/765714/curious-behavior-of-the-safely-remove-hardware-and-eject-media-icon/)
+
+
+> Posted Yesterday, 11:22 PM Desktop computer: Dell XPS 8700, built 2014/08/19, MBR/BIOS system, Intel Core i7 4790 CPU @ 3.60 GHz, 16 GB RAM, I TB HDD, NVIDIA GeForce GTX 745 GPU w/ 4 GB RAM, running Windows 10 Professional Edition, 64 bit -- upgraded from original Windows 7 Professional Laptop computer: Dell Inspiron 15R 5537, built July 2013, GPT/UEFI system,, Intel Core i7 4500U CPU @ 1.80 GHz, !2 GB RAM, 1 TB HDD, Intel HD graphics, running Windows 10 Home Edition, 64 bit -- upgraded from original Windows 8 Home Both computers are currently running Windows 10, Version 21H2, build 19044.
+
+
+***
+![Inspirational hashtags galvanise Malaysians to support each other during floods, Twitter](https://apicms.thestar.com.my/uploads/images/2021/12/24/1418926.jpg "Inspirational hashtags galvanise Malaysians to support each other during floods, Twitter")
+
+
+[Inspirational hashtags galvanise Malaysians to support each other during floods, Twitter](https://www.thestar.com.my/tech/tech-news/2021/12/24/inspirational-hashtags-galvanise-malaysians-to-support-each-other-during-floods-twitter)
+
+
+> Good will among Malaysians extended to social media, as Twitter users leveraged the platform to ask for help and to raise donations for flood victims. — AZHAR MAHFOF/The Star Social media platforms have gained prominence with the recent floods nationwide, as almost 5 million Malaysian flood-related tweets were recorded globally from Dec 18 till 21. Twitter shared today that the top five hashtags, #DaruratBanjir, #banjirdarurat, #banjir, #RakyatJagaRakyat, and #kitajagakita were used to request for assistance, provide directions for aid distributions, as well as to follow developments as they unfold.
+
+
+***
+![Broadband Plans at Rs 999 From Airtel, Jio, BSNL, Excitel and ACT](https://telecomtalk.info/wp-content/uploads/2021/12/broadband-plans-at-rs-999-from-airtel.jpeg "Broadband Plans at Rs 999 From Airtel, Jio, BSNL, Excitel and ACT")
+
+
+[Broadband Plans at Rs 999 From Airtel, Jio, BSNL, Excitel and ACT](https://telecomtalk.info/broadband-plans-at-rs-999-from-airtel/486545/)
+
+
+> Telecoms, including Airtel, Jio, BSNL, Excitel and ACT Fibre, have broadband plans at Rs 999.The speed ranges from 100 Mbps to 300 Mbps for the plans.Airtel Xstream Broadplan of Rs 999 focuses more on entertainment needs, with access to Amazon Prime, Disney + Hotstar and Wynk Music.The COVID-19 pandemic has resulted in increased usage of the internet at homes. With the pandemic, more people have started working from home, children have online classes, and there is an increased need for entertainment streaming at home, all leading to an increased demand for better broadband plans.
+
+
+***
+![China Tech Digest: Huawei Introduces First AITO Vehicle 'Wenjie M5'; XAG Launches Smart Agricultural Technology Products](https://assets.chinamoneynetwork.com/wp-content/uploads/20211224094340/HUAWEI-5-696x426.jpg "China Tech Digest: Huawei Introduces First AITO Vehicle 'Wenjie M5'; XAG Launches Smart Agricultural Technology Products")
+
+
+[China Tech Digest: Huawei Introduces First AITO Vehicle 'Wenjie M5'; XAG Launches Smart Agricultural Technology Products](https://www.chinamoneynetwork.com/2021/12/24/china-tech-digest-huawei-introduces-first-aito-vehicle-wenjie-m5-xag-launches-smart-agricultural-technology-products)
+
+
+> Huawei introduces first AITO vehicle 'Wenjie M5' Chinese leading ICT infrastructure and smart devices provider Huawei Technologies has officially introduced its first AITO 'Wenjie M5' SUV at its winter launch on Thursday. AITO Wenjie M5 is a mid-sized SUV powered by Huawei's DriveONE electrical system and HarmonyOS smart cockpit, which allows the car to seamlessly flow with other smart devices. The price of the vehicle ranges from RMB250,000 to RMB320,000. XAG launches smart agricultural technology products XAG, a Chinese agriculture robotics and AI developer, has launched a series of smart agricultural technology products around the "unmanned agricultural ecosystem", including P100/V50 2022 agricultural drones, R150 unmanned ground vehicle and M500/M2000 remote sensing drones.
+
+
