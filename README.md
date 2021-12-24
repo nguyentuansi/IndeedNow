@@ -40222,3 +40222,33 @@
 > Huawei introduces first AITO vehicle 'Wenjie M5' Chinese leading ICT infrastructure and smart devices provider Huawei Technologies has officially introduced its first AITO 'Wenjie M5' SUV at its winter launch on Thursday. AITO Wenjie M5 is a mid-sized SUV powered by Huawei's DriveONE electrical system and HarmonyOS smart cockpit, which allows the car to seamlessly flow with other smart devices. The price of the vehicle ranges from RMB250,000 to RMB320,000. XAG launches smart agricultural technology products XAG, a Chinese agriculture robotics and AI developer, has launched a series of smart agricultural technology products around the "unmanned agricultural ecosystem", including P100/V50 2022 agricultural drones, R150 unmanned ground vehicle and M500/M2000 remote sensing drones.
 
 
+***
+![Samsung Galaxy S21 FE unboxing video is our closest look yet at the phone](https://cdn.mos.cms.futurecdn.net/oS5S2c2TjN3toLvVKbDm75-1200-80.jpg "Samsung Galaxy S21 FE unboxing video is our closest look yet at the phone")
+
+
+[Samsung Galaxy S21 FE unboxing video is our closest look yet at the phone](https://www.techradar.com/news/samsung-galaxy-s21-fe-unboxing-video-is-our-closest-look-yet-at-the-phone)
+
+
+> A Samsung Galaxy S20 FE (Image credit: Srivatsa Ramesh) Hot on the heels of a full Samsung Galaxy S21 FE user manual leaking, now someone seems to have actually got hold of a retail model of the phone and put it through an unboxing video.The video – on HDblog's YouTube channel – doesn't show much we haven't already seen, because, well, just about everything about the Samsung Galaxy S21 FE has already leaked, but this is our first clear look at it on video.There are a few new details here too, including the claim that this phone has three 12MP lenses on the back (a main, ultra-wide and telephoto with 3x zoom), in contrast to previous leaks, which suggested the telephoto camera was 8MP.
+
+
+***
+![Vivo V23 Specifications, Release Date, Latest News](https://gadgets.ndtv.com/static/icons/phone_icon.png "Vivo V23 Specifications, Release Date, Latest News")
+
+
+[Vivo V23 Specifications, Release Date, Latest News](https://gadgets.ndtv.com/vivo-v23-price-in-india-104872)
+
+
+> Vivo V23 is an upcoming mobile by Vivo. The phone is rumoured to come with a 6.44-inch touchscreen display with a resolution of 1080x2400 pixels. Vivo V23 is expected to be powered by an octa-core MediaTek Dimensity 1100 processor and come with 8GB of RAM. The Vivo V23 supports proprietary fast charging.As far as the cameras are concerned, the Vivo V23 is rumoured to pack a triple rear camera setup featuring a 64-megapixel primary camera; an 8-megapixel camera, and a 2-megapixel camera. The rear camera setup has autofocus.
+
+
+***
+![Airtel vs JioFiber vs Excitel vs BSNL give broadband plans with up to 50Mbps speed under Rs 500, check details](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/broadband_d_0_1200x768-original.jpeg "Airtel vs JioFiber vs Excitel vs BSNL give broadband plans with up to 50Mbps speed under Rs 500, check details")
+
+
+[Airtel vs JioFiber vs Excitel vs BSNL give broadband plans with up to 50Mbps speed under Rs 500, check details](https://www.indiatoday.in/technology/news/story/airtel-vs-jiofiber-vs-excitel-vs-bsnl-give-broadband-plans-with-up-to-50mbps-speed-under-rs-500-check-details-1891780-2021-12-24)
+
+
+> India Today Tech New Delhi, Dec 24, 2021, Updated Dec 24, 2021, 3:49 PM IST Story highlights Airtel XStream, JioFiber and BSNL Bharat FIber give broadband plans under Rs 500. Excitel, ACT and Tata Sky Broadband also give broadband plans under Rs 500. Some ISPs do not give access to basic plans for under Rs 500 when subscribed on a semi-annual or annual basis. Internet service providers (ISP)s including Airtel XStream, JioFiber, Excitel and BSNL Bharat broadband plans under Rs 500. These are entry-level broadband plans and do not come with many OTT benefits but do give access to app-specific streaming benefits.
+
+
