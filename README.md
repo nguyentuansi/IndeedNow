@@ -40309,3 +40309,33 @@
 > (Image credit: Channel 4) This year's Christmas TV schedule brings together two of the best things to come out of Britain in 2021 - Russell T. Davis' It's a Sin and Bake Off! Joining forces for the festive period, find out how to watch The Great Christmas Bake Off online for free this year for an extra special spin as the Bake Off tent and the Pink Palace become one.Watch The Great Christmas Bake Off onlineWhen?: Saturday, December 25 at 8pm GMTStream for FREE in the UK: Channel 4 /  All 4 (UK) Watch anywhere: try ExpressVPN 100% risk-freeWhile It's a Sin may have graced our TV screens all the way back at the beginning of 2021, it's never really left us.
 
 
+***
+![You can now easily install Android apps on Windows 11 with new open source tool](https://www.windowslatest.com/wp-content/uploads/2021/12/Android-apps-on-Windows-11.jpg "You can now easily install Android apps on Windows 11 with new open source tool")
+
+
+[You can now easily install Android apps on Windows 11 with new open source tool](https://www.windowslatest.com/2021/12/25/you-can-now-easily-install-android-apps-on-windows-11-with-new-open-source-tool/)
+
+
+> Windows 11 preview build comes with native support for Windows Subsystem for Android (WSA) which lets you run Android apps on the desktop without third-party emulators. Right now, you can download apps from the Amazon Appstore only as support for other stores is not available. Amazon's Appstore is not as huge as the Play Store and only a limited number of Android apps can be officially downloaded on Windows 11. Thankfully, you can use the command-line tool to install Android apps and even run the Windows Subsystem for Android on non-Insider PCs, as well as avoid using the WSA manager.
+
+
+***
+![The look of the Samsung Galaxy S22 has been revealed. The Ultra model hides surprises in the body](https://smartmania.cz/wp-content/uploads/2021/12/samsung-galaxy-s22-1.jpg "The look of the Samsung Galaxy S22 has been revealed. The Ultra model hides surprises in the body")
+
+
+[The look of the Samsung Galaxy S22 has been revealed. The Ultra model hides surprises in the body](https://www.world-today-news.com/the-look-of-the-samsung-galaxy-s22-has-been-revealed-the-ultra-model-hides-surprises-in-the-body/)
+
+
+> No body in the article.
+
+
+***
+![He shoots his friend after arguing over the Diablo 2 loot and loses his life](https://www.egames.news/__export/1640365335204/sites/debate/img/2021/12/24/diablo_2_2.jpg_242310155.jpg "He shoots his friend after arguing over the Diablo 2 loot and loses his life")
+
+
+[He shoots his friend after arguing over the Diablo 2 loot and loses his life](https://www.world-today-news.com/he-shoots-his-friend-after-arguing-over-the-diablo-2-loot-and-loses-his-life/)
+
+
+> No body in the article.
+
+
