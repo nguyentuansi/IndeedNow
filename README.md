@@ -40339,3 +40339,43 @@
 > No body in the article.
 
 
+***
+![Russian court fines Alphabet's Google and Meta Platforms](https://d30fl32nd2baj9.cloudfront.net/media/2021/12/25/google-251221-01-smr.jpg/BINARY/google-251221-01-smr.jpg "Russian court fines Alphabet's Google and Meta Platforms")
+
+
+[Russian court fines Alphabet's Google and Meta Platforms](https://bdnews24.com/technology/2021/12/25/russian-court-fines-alphabet-s-google-and-meta-platforms)
+
+
+> Moscow has increased pressure on big tech this year in a campaign that critics characterise as an attempt by the Russian authorities to exert tighter control over the internet, something they say threatens individual and corporate freedom.Google said in an email it would study the court ruling before deciding on further steps.Later on Friday, the court fined Meta Platforms 2 billion roubles ($27.15m) on the same grounds. Russia's communication watchdog Roskomnadzor said that Facebook and Instagram failed to remove two thousand pieces that violate Russian laws whereas Google keeps 2,600 pieces of banned content.
+
+
+***
+![Spinning out the third web: What is Web3.0 and why are tech titans bickering over it](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/web31200-sixteen_nine.jpg "Spinning out the third web: What is Web3.0 and why are tech titans bickering over it")
+
+
+[Spinning out the third web: What is Web3.0 and why are tech titans bickering over it](https://www.businesstoday.in/technology/internet/story/spinning-out-the-third-web-what-is-web30-and-why-are-tech-titans-bickering-over-it-316808-2021-12-25)
+
+
+> One of the main tech topics that have dominated discussions and debates, at least over the second half of the year, is Web 3.0. This term is already polarising enough to witness big names in the tech world sharing their opinions about it on social media and also then getting blocked for it. What's the tiff on Twitter? It all started with a tweet by ex-Twitter CEO Jack Dorsey, saying, "You don't own 'web3'. The VCs and their LPs do…".  He brought up the big question - who owns Web3.0?   You don't own 'web3.
+
+
+***
+![BGMI gamers alert! Krafton will now ban devices of users cheating in game](https://english.cdn.zeenews.com/sites/default/files/2021/12/25/999244-untitled-design-2021-12-25t085851.545.jpg "BGMI gamers alert! Krafton will now ban devices of users cheating in game")
+
+
+[BGMI gamers alert! Krafton will now ban devices of users cheating in game](https://zeenews.india.com/technology/bgmi-gamers-alert-krafton-will-now-ban-devices-of-users-cheating-in-game-2422424.html)
+
+
+> New Delhi: Krafton has revealed that the developer will start banning devices used by gamers cheating in one of its popular battle royale games in India - Battlegrounds Mobile India (BGMI). The developer has clearly stated in its new policy that gamers using software to cheat in BGMI will ban their devices permanently.  Previously, Krafton used to sanction the offending accounts, instead of banning them permanently. The Korean-based developer made the new policy official via a blog post on BGMI's website.
+
+
+***
+![NASA telescope set for launch on million-mile voyage](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAS81UZ.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "NASA telescope set for launch on million-mile voyage")
+
+
+[NASA telescope set for launch on million-mile voyage](https://www.msn.com/en-za/news/techandscience/nasa-telescope-set-for-launch-on-million-mile-voyage/ar-AAS7UQt)
+
+
+> © Bill INGALLS From its remote orbit, Webb is expected to beam back new clues to the origins of the Universe The world's most powerful space telescope is set to blast off on Saturday to its outpost 1.5 million kilometres (930,000 miles) from Earth, after several delays caused by technical hitches.The James Webb Space Telescope, some three decades and billions of dollars in the making, will leave Earth enclosed in its Ariane 5 rocket from Kourou Space Centre in French Guiana. © Jonathan WALTER Graphic of the James Webb space telescope, the successor to Hubble.
+
+
