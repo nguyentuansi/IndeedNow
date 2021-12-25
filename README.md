@@ -40419,3 +40419,33 @@
 > Airtel Rs 666 prepaid plan offers unlimited calls, 1.5GB of data and 100 SMS a day.Vi launched four new prepaid plans, at Rs 155, Rs 239, Rs 666 and Rs 699.Both Airtel and Vi offer almost similar Rs 666 plans.Popular telecom service providers Reliance Jio, Vodafone Idea (Vi) and Airtel hiked their prepaid plan tariffs by 20-25% last month. Since the tariff hike, not many new plans have been announced. However, Airtel has now announced a Rs 666 prepaid plan, and Vi has launched prepaid plans at Rs 155, Rs 239, Rs 666 and Rs 699.
 
 
+***
+![Trust & Verify Data Protection Sues 9 Companies Over Verification, Data Protection Technologies](https://lawstreetmedia.com/wp-content/uploads/2019/11/tl_phonesScale.jpg "Trust & Verify Data Protection Sues 9 Companies Over Verification, Data Protection Technologies")
+
+
+[Trust & Verify Data Protection Sues 9 Companies Over Verification, Data Protection Technologies](https://lawstreetmedia.com/news/tech/trust-verify-data-protection-sues-9-companies-over-verification-data-protection-technologies/)
+
+
+> In one day, Trust & Verify Data Protection LLC filed nine patent infringement complaints against Ravelin Technology, BuzzFeed, Vimeo, Stripe, and other companies over their use of their 'transaction verification' technology. The patents-in-suit is U.S. Patent No, 7,137,140 (the '140 Patent), entitled 'Transaction verification' and 7,162,735 (the '735 Patent), entitled 'Digital data protection arrangement.' The defendants range from payment processors to video game developers and media hosting websites.
+
+
+***
+![Newcom Computer Systems shows off entire Samsung Monitor range in Dubai](https://cdn.mos.cms.futurecdn.net/bD5xZps89Dp7cv5ZHGkN7g-1200-80.jpg "Newcom Computer Systems shows off entire Samsung Monitor range in Dubai")
+
+
+[Newcom Computer Systems shows off entire Samsung Monitor range in Dubai](https://global.techradar.com/en-ae/news/newcom-computer-systems-shows-off-entire-samsung-monitor-range-in-dubai)
+
+
+> (Image credit: Newcom) Whether working from home, casual content streaming or gaming for long hours, a monitor can really enhance that entire experience. Newcom Computer Systems, the authorised distributor for Samsung Monitors, has a great experience zone set up in Al Ain Plaza in Dubai for customers to not just come and purchase monitors but also experience them in all their glory. (Image credit: Newcom)"Spark Your Senses" with Samsung is one of the biggest roadshows at Al Ain Plaza this year and has been organised by Newcom.
+
+
+***
+![Got an Xbox Series X/S for Christmas? Do these 5 things right now](https://cdn.mos.cms.futurecdn.net/mYA8ZnxADL9VgbshmGfFgm-1200-80.jpg "Got an Xbox Series X/S for Christmas? Do these 5 things right now")
+
+
+[Got an Xbox Series X/S for Christmas? Do these 5 things right now](https://www.techradar.com/news/got-an-xbox-series-xs-for-christmas-do-these-5-things-right-now)
+
+
+> It's been over a year since the Xbox Series X/S consoles went on sale, and even though supply issues remain, there's a greater chance that many gamers have now been able to get their hands on one. With that much time to build anticipation, you probably want to shred open the package, shotput your new console at your TV, and immediately start playing – and who could blame you? But before you do, now is the time to make sure your beginning hours with your new console are as smooth and enjoyable as possible.
+
+
