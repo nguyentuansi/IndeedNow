@@ -40379,3 +40379,43 @@
 > © Bill INGALLS From its remote orbit, Webb is expected to beam back new clues to the origins of the Universe The world's most powerful space telescope is set to blast off on Saturday to its outpost 1.5 million kilometres (930,000 miles) from Earth, after several delays caused by technical hitches.The James Webb Space Telescope, some three decades and billions of dollars in the making, will leave Earth enclosed in its Ariane 5 rocket from Kourou Space Centre in French Guiana. © Jonathan WALTER Graphic of the James Webb space telescope, the successor to Hubble.
 
 
+***
+![Android's New Tiramisu Build Has Translations For Separate Apps, And Adds A Slight Tweak To The Lock-Screen](https://blogger.googleusercontent.com/img/a/AVvXsEgwDHhHDypfU8n7C1fkruoA9eE82JoGAQYNz-NC3VeKpEcMFWOJOmaT1PXuQBJELErSEmVvIdv1GReYG-AB0zUr7czKu3aAUG_j6hdjEt0troNmQREPGQNyWteL9MNevUKE3lkOBS5gppf_VLGJLN2t_ltAEz1ehuBK-0f5x4l88XpIqeNPTLd8Kn-D=s16000 "Android's New Tiramisu Build Has Translations For Separate Apps, And Adds A Slight Tweak To The Lock-Screen")
+
+
+[Android's New Tiramisu Build Has Translations For Separate Apps, And Adds A Slight Tweak To The Lock-Screen](https://www.digitalinformationworld.com/2021/12/androids-new-tiramisu-build-has.html)
+
+
+> A sneak peek of upcoming Android OS reveals some interesting features in the Tiramisu build of the popular OS, with App Languages and a new lock screen being part of the mix.The XDA Developers journalists managed to get their hands on an early build of Tiramisu, and decided to do what literally everyone with an early build of any app or game does: make like children on Christmas Day, and tear it apart in order to discover what surprises lie inside. Which is sort of a warrant, I guess, considering that the official developer build isn't expected to roll out in the next few months, so we've got a lot of time to wait.
+
+
+***
+![MKBHD yearly smartphone awards completely owned by phones from Apple and Samsung](https://blogger.googleusercontent.com/img/a/AVvXsEgbqyaAB9vWLYIMgHF4uuZy4cK3uVZf818PawoYgjf-qGDzosLko_gixK8H-eK_pr3BsorRYXNcKwnJTuxPwz8cQp_0u_zYUg9pTNdJqO1S-szRZzn8N_W_c6dRpRJFlb9A6Atuhzjh0_9NMVhOPf6fOBbrMUExW7U4Jn_iEskeWa39UtOtWI-c5WQq=s16000 "MKBHD yearly smartphone awards completely owned by phones from Apple and Samsung")
+
+
+[MKBHD yearly smartphone awards completely owned by phones from Apple and Samsung](https://www.digitalinformationworld.com/2021/12/mkbhd-yearly-smartphone-awards.html)
+
+
+> The year 2022 is just a few days away from all of us, and like every year, December is the award time in almost every industry, like film and drama award, education award, Nobel award, civilization award, military awards, and the list goes on. Talking about year-end awards, how can one forget the smartphone awards more specifically the ‘MKBHD' award.Marques Keith Brownlee is 28 years old American YouTuber, professionally known as MKBHD. His channel videos are mainly based on technology and gadgets.
+
+
+***
+![Apple led in 5G smartphone shipments, as well as HomePod mini sales in the third quarter](https://blogger.googleusercontent.com/img/a/AVvXsEjCHONMD3O1WFA0_gpuLySPqFlZqWHCH3G3Zcn2XGYvOUSXqPfo9qt--dO9NPbe0PBqdWYWr7nwtyhCNFpEzsPziTViJ4zY_ZsonS11tmn6bFknOmMjD6uCLa7e5Y5ztzm7vMhhvmLvyHEZhFCt0gedr9WfIIHaqu32CGTOOjBlv1I0igv13ME1rxGP "Apple led in 5G smartphone shipments, as well as HomePod mini sales in the third quarter")
+
+
+[Apple led in 5G smartphone shipments, as well as HomePod mini sales in the third quarter](https://www.digitalinformationworld.com/2021/12/apple-led-in-5g-smartphone-shipments-as.html)
+
+
+> As 2021 is coming to an end, Strategy Analytic, a firm that gives insight on the yearly progress of different companies and products, has recently released two reports that give details on how the tech giant Apple kept holding its top position in two different categories. According to the report, Apple's 5G devices, mainly the iPhone and the smart speaker product, namely the "Homepod Mini," became the leading devices with the most shipments and shares in the market during the third quarter of the ongoing year.
+
+
+***
+![Vodafone Idea, Bharti Airtel All Prepaid Plans Launched Recently](https://telecomtalk.info/wp-content/uploads/2021/12/vodafone-idea-bharti-airtel-prepaid-plans-announced.png "Vodafone Idea, Bharti Airtel All Prepaid Plans Launched Recently")
+
+
+[Vodafone Idea, Bharti Airtel All Prepaid Plans Launched Recently](https://telecomtalk.info/vodafone-idea-bharti-airtel-prepaid-plans-announced/487232/)
+
+
+> Airtel Rs 666 prepaid plan offers unlimited calls, 1.5GB of data and 100 SMS a day.Vi launched four new prepaid plans, at Rs 155, Rs 239, Rs 666 and Rs 699.Both Airtel and Vi offer almost similar Rs 666 plans.Popular telecom service providers Reliance Jio, Vodafone Idea (Vi) and Airtel hiked their prepaid plan tariffs by 20-25% last month. Since the tariff hike, not many new plans have been announced. However, Airtel has now announced a Rs 666 prepaid plan, and Vi has launched prepaid plans at Rs 155, Rs 239, Rs 666 and Rs 699.
+
+
