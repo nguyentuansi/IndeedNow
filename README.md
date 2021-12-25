@@ -40449,3 +40449,43 @@
 > It's been over a year since the Xbox Series X/S consoles went on sale, and even though supply issues remain, there's a greater chance that many gamers have now been able to get their hands on one. With that much time to build anticipation, you probably want to shred open the package, shotput your new console at your TV, and immediately start playing – and who could blame you? But before you do, now is the time to make sure your beginning hours with your new console are as smooth and enjoyable as possible.
 
 
+***
+![James Webb Space Telescope lifts off on historic mission](https://www.banglanews24.com/english/public/uploads/2021/12/25/1640443633.space.jpg "James Webb Space Telescope lifts off on historic mission")
+
+
+[James Webb Space Telescope lifts off on historic mission](https://www.banglanews24.com/english/technology/news/bd/92812.details)
+
+
+> Technology Desk | banglanews24.com Update: 2021-12-25 20:47:13 [photo collected] The $10bn James Webb telescope has left Earth on its mission to show the first stars to light up the Universe. The observatory was lifted skyward by an Ariane rocket from the Kourou spaceport in French Guiana. Its flight to orbit lasted just under half an hour, with a signal confirming a successful outcome picked up by a ground antenna at Malindi in Kenya. Webb, named after one of the architects of the Apollo Moon landings, is the successor to the Hubble telescope.
+
+
+***
+![Airtel Black Is Not About Affordability, But Quality Experience](https://telecomtalk.info/wp-content/uploads/2021/12/airtel-black-is-not-about-affordability-but.jpg "Airtel Black Is Not About Affordability, But Quality Experience")
+
+
+[Airtel Black Is Not About Affordability, But Quality Experience](https://telecomtalk.info/airtel-black-is-not-about-affordability-but/487410/)
+
+
+> Bharti Airtel has been very careful about its branding and the message that it is sending to its customers.Airtel allows customers to pay for each service they bundle in all together under a single bill.If you have a large family, Airtel allows up to adding 9 mobile connections under Airtel Black service.Bharti Airtel has been very careful about its branding and the message that it is sending to its customers. The telco has never focused on being only ‘affordable' at the cost of experience. Airtel launched its new service named Airtel Black a few months back in India.
+
+
+***
+![Microsoft joins Google, Amazon in canceling in-person presence at CES](https://saudigazette.com.sa/uploads/images/2021/12/25/1912022.jpeg "Microsoft joins Google, Amazon in canceling in-person presence at CES")
+
+
+[Microsoft joins Google, Amazon in canceling in-person presence at CES](https://saudigazette.com.sa/article/615150)
+
+
+> LAS VEGAS — Microsoft Corp (MSFT.O) said on Friday it will not participate in person at the Consumer Electronics Show (CES) 2022 in Las Vegas, joining a list of companies opting not to have a physical presence at next month's event on concerns over the rapid spread of the Omicron COVID-19 variant.The U.S. software giant added that it will continue to participate at CES remotely, according to an emailed statement. The Verge was the first to report on Friday that Microsoft will not participate physically AT CES, Reuters reported.
+
+
+***
+![The 5 Worst Nintendo Switch Games of 2021, According to Metacritic](https://www.cheatsheet.com/wp-content/uploads/2021/12/gta-trilogy-definitive-1200x675.jpg "The 5 Worst Nintendo Switch Games of 2021, According to Metacritic")
+
+
+[The 5 Worst Nintendo Switch Games of 2021, According to Metacritic](https://www.cheatsheet.com/entertainment/worst-nintendo-switch-games-2021-according-metacritic.html/)
+
+
+> The Nintendo Switch had a huge year with dozens of new releases, as well as the debut of its new OLED model. Nintendo‘s handheld console launched highly-anticipated titles like Pokémon Brilliant Diamond/Shining Pearl, The Legend of Zelda: Skyward Sword HD, and Animal Crossing: New Horizons' first-ever DLC, Happy Home Paradise. Of course, for all the winning titles Nintendo dropped this year, it also had a few flops. Here are some of the worst Switch games of 2021. ‘Grand Theft Auto: The Trilogy — Definitive Edition' | Rockstar Games AKIBA'S TRIP: Hellbound & Debriefed arrived in July 2021 as a remaster to the first installment in the AKIBA'S TRIP series.
+
+
