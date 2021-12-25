@@ -40489,3 +40489,33 @@
 > The Nintendo Switch had a huge year with dozens of new releases, as well as the debut of its new OLED model. Nintendo‘s handheld console launched highly-anticipated titles like Pokémon Brilliant Diamond/Shining Pearl, The Legend of Zelda: Skyward Sword HD, and Animal Crossing: New Horizons' first-ever DLC, Happy Home Paradise. Of course, for all the winning titles Nintendo dropped this year, it also had a few flops. Here are some of the worst Switch games of 2021. ‘Grand Theft Auto: The Trilogy — Definitive Edition' | Rockstar Games AKIBA'S TRIP: Hellbound & Debriefed arrived in July 2021 as a remaster to the first installment in the AKIBA'S TRIP series.
 
 
+***
+![3 of the best Wi-Fi routers on the market right now](https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/8/1a/81ae9324-fb99-570f-8a37-77a2412fccf9/61b3c0132468c.preview.jpg?crop=1958%2C1028%2C20%2C0&resize=1200%2C630&order=crop%2Cresize "3 of the best Wi-Fi routers on the market right now")
+
+
+[3 of the best Wi-Fi routers on the market right now](https://news.lee.net/lifestyles/technology/3-of-the-best-wi-fi-routers-on-the-market-right-now/article_b81a4d29-6f2b-5902-8085-c136660ac99e.html)
+
+
+> 3 of the best Wi-Fi routers on the market right now Researchers have finally figured out how to send information through lasers without interference from the atmosphere. In today's streaming wonderland, if you don't have a router that's up to the task, your stream could wind up little more than a trickle, and your 4K TV could look a lot more like standard definition.Wi-Fi 6 is the latest generation of Wi-Fi, and it boasts faster, more efficient home-network performance. Plus, the growing number of second-gen mesh router options is worth paying attention to as well — particularly since so many of them are less expensive than the router combo systems that came before them.
+
+
+***
+![Australia vs England live stream: how to watch Ashes Boxing Day Test cricket from anywhere](https://cdn.mos.cms.futurecdn.net/kzw7tewVz3jYXaQw287QL9-1200-80.jpg "Australia vs England live stream: how to watch Ashes Boxing Day Test cricket from anywhere")
+
+
+[Australia vs England live stream: how to watch Ashes Boxing Day Test cricket from anywhere](https://www.techradar.com/news/australia-vs-england-live-stream-how-to-watch-ashes-boxing-day-test-cricket-2021-from-anywhere)
+
+
+> (Image credit: BRENTON EDWARDS/AFP via Getty Images) Christmas came early for the Aussies while Joe Root's baubles took a bashing as the hosts cruised to a 2-0 lead in an Ashes series that has been painfully one-sided. The knives are out for the tourists' beleaguered skipper, who needs to box up and pull off something spectacular in this must-win Boxing Day Test. Read on as we explain how to get  an Ashes 3rd Test live stream and watch England vs Australia from wherever you are in the world.England have been hopeless in all aspects of the game Down Under.
+
+
+***
+![EUR Q1 2022 Technical Forecast: The Path of Least Resistance is Lower](https://a.c-dn.net/b/0IMvOy/headline_21246581_H1223926.JPG "EUR Q1 2022 Technical Forecast: The Path of Least Resistance is Lower")
+
+
+[EUR Q1 2022 Technical Forecast: The Path of Least Resistance is Lower](https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/12/25/Euro-Q1-2022-Technical-Forecast.html)
+
+
+> Recommended by Diego Colman Get Your Free EUR Forecast The Euro suffered significant losses against the U.S. dollar in 2021. Although trading was wobbly and largely directionless for the first five months of the year, the journey lower was relentless from June onwards. The exchange rate fell from ~1.2250 to the ~1.1200 area as the ECB remained relatively dovish and the Fed took the first major steps towards policy normalization. During this time, EUR/USD broke below its 50-day, 100-day, and 200-day moving average decisively, establishing lower highs and lower lows impeccably, a bearish sign according to technical analysis.
+
+
