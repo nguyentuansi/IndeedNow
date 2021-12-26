@@ -40596,3 +40596,33 @@
 > After nearly three months of wreaking destruction on La Palma with its lava, ash, and earthquakes, in recent days the Cumbre Vieja volcano fell silent on the island. Experts officially certified that the eruption was over on Christmas Day. Some media outlets, and even Spain's president, said it was the volcano's version of a holiday gift. Yet, it's difficult to think of anything that has caused such tragedy as being the gift-giving type. In reality, Cumbre Vieja's activity ceased 10 days ago, igniting feelings of cautious hope among the residents who experienced the volcano's longest eruption in 375 years.
 
 
+***
+![Apple's iPhone 15 Pro might come without SIM card slot](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-dhc96gejjc8ubo29f1do7fhlm6-20210128002507.Medi.jpeg "Apple's iPhone 15 Pro might come without SIM card slot")
+
+
+[Apple's iPhone 15 Pro might come without SIM card slot](https://www.deccanchronicle.com/technology/gadgets/261221/apples-iphone-15-pro-might-come-without-sim-card-slot.html)
+
+
+> Apple planning to ditch the SIM card slot is hardly a surprise since the tech giant is said to eventually move to a portless iPhone, and removing the SIM card slot looks like the first step in that direction. (AFP Photo) Washington: Apple had unveiled the iPhone 13 lineup in September, and even though the iPhone 14 is still months away from its launch but rumours around the iPhone 15 have already started surfacing on the internet. According to GSM Arena, the latest rumours claim Apple will ditch the physical SIM card slot beginning with the iPhone 15 series in 2023.
+
+
+***
+![The Netherlands Government Conducts An Investigation Against Apple, Finding The Company To Be Guilty Of Anti-Competitive Policies](https://blogger.googleusercontent.com/img/a/AVvXsEhSEEql0kgZ_fp4J1yy7OPWpqYU_7pxnFA3WIhEWYRVfl4oUcYxEPjxoyboVj1rjUPg62zwrKRBca6F4OfCu86uf9rQvT6quih1hmzcgFdP-byQXJJrjdrGWDmzTkBl3WbfPYScXrVIxwiN1AE7vLvGjUGIhpU1BCDy0YuY8T-TtJFC_HxH9APum0iG=s16000 "The Netherlands Government Conducts An Investigation Against Apple, Finding The Company To Be Guilty Of Anti-Competitive Policies")
+
+
+[The Netherlands Government Conducts An Investigation Against Apple, Finding The Company To Be Guilty Of Anti-Competitive Policies](https://www.digitalinformationworld.com/2021/12/the-netherlands-government-conducts.html)
+
+
+> The Netherlands government has recently reached the conclusion that Apple's App Store actively propels anti-competitive regulations, and therefore has to update its policy or face a fine.Far from being the first major investigation against the App Store policy and guidelines, this is only the most recent in a slew conducted by different governments, spanning over the past few years. 2021 may have been a profitable year for Apple, but it also brought a lot of external scrutiny to the table, as other figures and echelons of authority started to wise up and realized the company's financial gain may not be so hard-earned.
+
+
+***
+![Apple's iPhone 15 to come without a SIM card slot?](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/12/26/1011683-iphone.jpeg "Apple's iPhone 15 to come without a SIM card slot?")
+
+
+[Apple's iPhone 15 to come without a SIM card slot?](https://www.dnaindia.com/technology/report-apple-iphone-15-to-come-without-a-sim-card-slot-apple-new-phone-features-specs-alerts-news-updates-2925558)
+
+
+> Apple launched its iPhone 13 in September this year and while people still await on Apple iPhone 14, rumours regarding the Apple iPhone 15 have already started doing the rounds of the internet.  As per reports from GSMArena, after removing the charging slot and the audio connection, Apple is completely going to ditch the physical SIM card slot beginning with the iPhone 15 series in 2023.  Word comes from a Brazilian publication Blog, which says that the 2023's Pro models (tentatively called iPhone 15 Pro) will not have physical SIM card slots and will rely entirely on eSIM technology for connectivity.
+
+
