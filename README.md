@@ -40646,3 +40646,33 @@
 > Samarth Sindhi, 29, Founder, Raksha Health (formerly Digi-Prex), HyderabadFor Sindhi, a graduate in mechanical engineering from Brown University in the US, founding a company based on a relationship of trust with customers was of paramount importance. His idea was an online medicine delivery platform, especially for chronic diseases. His firm, Raksha Health (founded as Digi-Prex in 2019), provides discounted medicines that are delivered to customers' doorsteps.For Sindhi, a graduate in mechanical engineering from Brown University in the US, founding a company based on a relationship of trust with customers was of paramount importance.
 
 
+***
+![The 1998 iPhone You Probably Didn't Realize Existed](https://cdn.slashgear.com/wp-content/uploads/2021/12/iphone-2.jpg "The 1998 iPhone You Probably Didn't Realize Existed")
+
+
+[The 1998 iPhone You Probably Didn't Realize Existed](https://www.slashgear.com/the-1998-iphone-you-probably-didnt-realize-existed-26704115/)
+
+
+> Back in 2007, Apple co-founder Steve Jobs sparked a revolution in the industry of mobile computers when he announced a single device that would combine an iPod with touch controls, a mobile phone, and internet communications. However, nearly a decade before Jobs took the world by storm with his persuasive 'three things' speech, a company named InfoGear gave birth to the radical idea of a phone — also called the iPhone — that could help users browse email and connect to the primitive version of the internet.
+
+
+***
+![WhatsApp Should Bring These 3 Features in 2022](https://telecomtalk.info/wp-content/uploads/2021/12/whatsapp-should-bring-these-3-features-to.jpg "WhatsApp Should Bring These 3 Features in 2022")
+
+
+[WhatsApp Should Bring These 3 Features in 2022](https://telecomtalk.info/whatsapp-should-bring-these-3-features-to/487605/)
+
+
+> Introduction of Theme Support would definitely create a more immersive and engaging experience for the users with the option to customize chats.The icon for WhatsApp pay seems to be an attempt to persuade users to use WhatsApp Pay feature because of its placement on the app.The interface would become quite simpler if the WhatsApp pay symbol was put inside the attach options where it was originally found.World's one of the leading social media messaging platforms WhatsApp has been always on its toes to roll out new updates carrying features that enhance the overall experience of the users.
+
+
+***
+![This new device will help you 'Taste the TV' before you taste the food](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/12/26/1011761-lickable-tv.jpg "This new device will help you 'Taste the TV' before you taste the food")
+
+
+[This new device will help you 'Taste the TV' before you taste the food](https://www.dnaindia.com/technology/report-this-new-device-will-help-you-taste-the-tv-before-you-taste-the-food-lickable-2925630)
+
+
+> Many of us spend minutes gazing at long food menus before deciding what to eat. Some of us have also wished to relish the food served by top-notch chefs in famous TV shows like MasterChef. Looks like Genie just heard you! A new TV by Meiji University professor Homei Miyashita will now let you lick to get a flavour of whatever you see on the TV screen. The 'Taste the TV' device sends electric signals to 10 flavour canisters to create unique sprays. As per a Reuters report, Miyashita has been working on the device since 2019 and introduced a demonstration video early in October this year.
+
+
