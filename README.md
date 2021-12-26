@@ -40676,3 +40676,23 @@
 > Many of us spend minutes gazing at long food menus before deciding what to eat. Some of us have also wished to relish the food served by top-notch chefs in famous TV shows like MasterChef. Looks like Genie just heard you! A new TV by Meiji University professor Homei Miyashita will now let you lick to get a flavour of whatever you see on the TV screen. The 'Taste the TV' device sends electric signals to 10 flavour canisters to create unique sprays. As per a Reuters report, Miyashita has been working on the device since 2019 and introduced a demonstration video early in October this year.
 
 
+***
+![2022 Toyota GR Supra A91-CF Edition is exclusive to North America](https://cdn.slashgear.com/wp-content/uploads/2021/12/2022-supra-wind-tunnel.jpg "2022 Toyota GR Supra A91-CF Edition is exclusive to North America")
+
+
+[2022 Toyota GR Supra A91-CF Edition is exclusive to North America](https://www.slashgear.com/2022-toyota-gr-supra-a91-cf-edition-is-exclusive-to-north-america-26704081/)
+
+
+> Typically when Toyota makes a special edition version of its Supra sports car or any other sports car, the vehicles are exclusive to Japan. Toyota has confirmed the GR Supra A91-CF Edition will be exclusive to North America, however, and only 600 units will be produced. The limited-edition car gets a carbon fiber body kit and a duckbill rear spoiler. Via Toyota GR Supra A91-CF Edition The carbon fiber body kit includes a handmade carbon fiber front splitter and larger carbon fiber canards. In addition, the sides of the car feature carbon fiber rocker panels, and the duckbill spoiler on the rear is made from the same lightweight material, as are the larger lower canards on the rear end.
+
+
+***
+![The 2021 DAO Global Hackathon ended and the RainbowDAO team won three awards!](https://apnews.com/images/PaidContent3.png "The 2021 DAO Global Hackathon ended and the RainbowDAO team won three awards!")
+
+
+[The 2021 DAO Global Hackathon ended and the RainbowDAO team won three awards!](https://apnews.com/press-release/kisspr/technology-philanthropy-singapore-baae13a7c821e4e7bcf0dc6c62de0b91)
+
+
+> Press release content from KISSPR. The AP news staff was not involved in its creation.12/26/2021, Singapore, Singapore // KISS PR Brand Story PressWire // Lasting for 3 months, the largest Web3 hackathon ever organized on Gitcoin: 2021 DAO Global Hackathon (hackforfreedom.org), has officially ended at the end of December 2021.In this grand event, the RainbowDAO team won three awards in four different tracks and became the biggest winner of this competition. The RainbowDAO Protocol has also become one of the most popular projects in this competition.
+
+
