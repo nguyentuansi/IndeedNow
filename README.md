@@ -40626,3 +40626,23 @@
 > Apple launched its iPhone 13 in September this year and while people still await on Apple iPhone 14, rumours regarding the Apple iPhone 15 have already started doing the rounds of the internet.  As per reports from GSMArena, after removing the charging slot and the audio connection, Apple is completely going to ditch the physical SIM card slot beginning with the iPhone 15 series in 2023.  Word comes from a Brazilian publication Blog, which says that the 2023's Pro models (tentatively called iPhone 15 Pro) will not have physical SIM card slots and will rely entirely on eSIM technology for connectivity.
 
 
+***
+![Samsung's rumored tri-fold phone could offer even more screen space](https://cdn.mos.cms.futurecdn.net/B4P3LCFBbH4qwgTAPCRQyK-1200-80.jpeg "Samsung's rumored tri-fold phone could offer even more screen space")
+
+
+[Samsung's rumored tri-fold phone could offer even more screen space](https://www.techradar.com/news/samsungs-rumored-tri-fold-phone-could-offer-even-more-screen-space)
+
+
+> The Samsung Galaxy Z Fold 3, with one hinge. (Image credit: Aakash Jhaveri) Handsets like the Galaxy Z Fold 3 and the Galaxy Z Flip 3 show that Samsung has mastered the art of making folding smartphones, and it now seems ready to add another fold to the mix, based on a recently published patent.As spotted by LetsGoDigital, the patent outlines a device with three separate display parts that combine to form one giant screen. The device folds up in  Z shape, so when everything is closed up, one display panel is still visible as a screen.
+
+
+***
+![Samarth Sindhi: Healthy option](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202112/3-entrepreneurs-Sindhi-647x363.jpeg?o3XspFGvARvNPei40HqHSFQHpqEzL_sh "Samarth Sindhi: Healthy option")
+
+
+[Samarth Sindhi: Healthy option](https://www.indiatoday.in/magazine/technology-innovation/story/20220103-samarth-sindhi-healthy-option-1892412-2021-12-26)
+
+
+> Samarth Sindhi, 29, Founder, Raksha Health (formerly Digi-Prex), HyderabadFor Sindhi, a graduate in mechanical engineering from Brown University in the US, founding a company based on a relationship of trust with customers was of paramount importance. His idea was an online medicine delivery platform, especially for chronic diseases. His firm, Raksha Health (founded as Digi-Prex in 2019), provides discounted medicines that are delivered to customers' doorsteps.For Sindhi, a graduate in mechanical engineering from Brown University in the US, founding a company based on a relationship of trust with customers was of paramount importance.
+
+
