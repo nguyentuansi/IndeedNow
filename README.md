@@ -40559,3 +40559,40 @@
 > 3 of the best Wi-Fi routers on the market right now Researchers have finally figured out how to send information through lasers without interference from the atmosphere. In today's streaming wonderland, if you don't have a router that's up to the task, your stream could wind up little more than a trickle, and your 4K TV could look a lot more like standard definition.Wi-Fi 6 is the latest generation of Wi-Fi, and it boasts faster, more efficient home-network performance. Plus, the growing number of second-gen mesh router options is worth paying attention to as well — particularly since so many of them are less expensive than the router combo systems that came before them.
 
 
+***
+[The cost of cloud](https://ptribble.blogspot.com/2021/12/the-cost-of-cloud.html)
+
+
+> Putting your IT infrastructure into the cloud seems to be the "in" thing. It's been around for a while, of course. And, like most things related to IT, there are tradeoffs to be made.My rough estimate is that the unit cost of provisioning a service on AWS is about 3 times that of a competent IT organization providing a similar service in house. Other people have come to the same number, and it hasn't really changed much over the last decade. (If you don't think 3x is right, consider what AWS' gross margin is.
+
+
+***
+![GTA V is the most watched game on Twitch in 2021](https://techstory.in/wp-content/uploads/2021/12/gta-v-was-the-most-watched-game-on-twitch-in-2021_g7w5.jpg "GTA V is the most watched game on Twitch in 2021")
+
+
+[GTA V is the most watched game on Twitch in 2021](https://techstory.in/gta-v-is-the-most-watched-game-on-twitch-in-2021)
+
+
+> No body in the article.
+
+
+***
+![TikTok Moderators Sue After Being "Traumatized" By Content](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-12/TIKTOK_0.jpeg?itok=yN97yJNK "TikTok Moderators Sue After Being "Traumatized" By Content")
+
+
+[TikTok Moderators Sue After Being "Traumatized" By Content](https://www.zerohedge.com/technology/tiktok-moderators-sue-after-being-traumatized-content-0)
+
+
+> Back in July, a band of former Facebook content moderators rebelled against Zuck & Co., proclaiming that they would seek to invalidate NDAs that Facebook forces all its content moderators to sign so they don't squeal to the press about the freakshow of mayhem and debauchery that they're subjected to every day while reviewing flagged content that can include depictions of sexual abuse, violence, murder torture and mayhem (remember the Christchurch video?) and - of course - politically incorrect content and news stories, often with a conservative slant.
+
+
+***
+![Experts Say the Eruption of Spain's La Palma Volcano Is Over](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5365d813d8961712cf55c6664a42a452.jpg "Experts Say the Eruption of Spain's La Palma Volcano Is Over")
+
+
+[Experts Say the Eruption of Spain's La Palma Volcano Is Over](https://gizmodo.com/85-days-later-la-palma-s-volcano-has-officially-stoppe-1848271300)
+
+
+> After nearly three months of wreaking destruction on La Palma with its lava, ash, and earthquakes, in recent days the Cumbre Vieja volcano fell silent on the island. Experts officially certified that the eruption was over on Christmas Day. Some media outlets, and even Spain's president, said it was the volcano's version of a holiday gift. Yet, it's difficult to think of anything that has caused such tragedy as being the gift-giving type. In reality, Cumbre Vieja's activity ceased 10 days ago, igniting feelings of cautious hope among the residents who experienced the volcano's longest eruption in 375 years.
+
+
