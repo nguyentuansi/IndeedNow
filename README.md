@@ -40813,3 +40813,37 @@
 > WhatsApp is a popular instant messaging service that is used all over the world. WhatsApp is generally the preferred app for texting a friend or creating a group chat with family members because almost everyone uses it. WhatsApp has been adding new features to the platform as a result of its popularity, including multi-device support and, more recently, disappearing messages.WhatsApp added the ability to delete sent messages before the recipient reads them a long time ago. This is useful if you made a mistake while typing the message or accidentally sent it to the wrong person.
 
 
+***
+[Li-Cycle Announces Redemption of All Outstanding Warrants](http://www.businesswire.com/news/home/20211227005033/en/Li-Cycle-Announces-Redemption-of-All-Outstanding-Warrants/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
+***
+![China Imposes New Curbs on Offshore IPOs From Restricted Sectors](http://www.bnnbloomberg.ca/img/tsn/logos/tsn-logo.png "China Imposes New Curbs on Offshore IPOs From Restricted Sectors")
+
+
+[China Imposes New Curbs on Offshore IPOs From Restricted Sectors](http://www.bnnbloomberg.ca/china-imposes-new-curbs-on-offshore-ipos-from-restricted-sectors-1.1700747)
+
+
+> (Bloomberg) -- China will impose new restrictions on offshore listings by firms in sectors that are off-limits to foreign investment, a move that could plug a loophole long used by the country's technology industry to raise capital overseas.Chinese firms in industries banned from foreign investment will need to seek a waiver from a negative list before proceeding for share sales, the National Development and Reform Commission and the Ministry of Commerce said in a statement on Monday. Overseas investors in such companies would be forbidden from participating in management and their total ownership would be capped at 30%, with a single investor holding no more than 10%, according to the updated list effective Jan.
+
+
+***
+![Mike Demarais on Design in Crypto and What Web 3.0 Will Look Like](http://www.bnnbloomberg.ca/polopoly_fs/1.1700744!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/an-employee-wearing-a-protective-face-mask-inspects-sapphire-technology-ltd-amd-graphics-processing-units-gpu-at-the-evobits-crypto-farm-in-cluj-napoca-romania-on-wednesday-jan-22-2021-the-world-s-second-most-valuable-cryptocurrency-ethereum-rallied-75-this-year-outpacing-its-larger-rival-bitcoin.jpg "Mike Demarais on Design in Crypto and What Web 3.0 Will Look Like")
+
+
+[Mike Demarais on Design in Crypto and What Web 3.0 Will Look Like](http://www.bnnbloomberg.ca/mike-demarais-on-design-in-crypto-and-what-web-3-0-will-look-like-1.1700743)
+
+
+> The information you requested is not available at this time, please check back again soon. More Video Joe Weisenthal and Tracy Alloway, Bloomberg News (Bloomberg) -- Listen to Odd Lots on Spotify Listen to Odd Lots on Apple PodcastsJoe Weisenthal and Tracy Alloway analyze the weird patterns, the complex issues and the newest market crazes. Join the conversation every Monday and Thursday for interviews with the most interesting minds in finance, economics and markets.Everyone's talking about Web 3.
+
+
+***
+[Fathom Digital Manufacturing Completes Business Combination with Altimar Acquisition Corp. II](http://www.businesswire.com/news/home/20211223005421/en/Fathom-Digital-Manufacturing-Completes-Business-Combination-with-Altimar-Acquisition-Corp.-II/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
