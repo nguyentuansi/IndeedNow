@@ -40847,3 +40847,53 @@
 > No body in the article.
 
 
+***
+![Huawei Watch D revealed with elusive blood pressure feature](https://cdn.slashgear.com/wp-content/uploads/2021/12/huawei-watch-d-1-1.jpg "Huawei Watch D revealed with elusive blood pressure feature")
+
+
+[Huawei Watch D revealed with elusive blood pressure feature](https://www.slashgear.com/huawei-watch-d-revealed-with-elusive-blood-pressure-feature-27704150/)
+
+
+> With smartwatches becoming mini health clinics, it was really only a matter of time before the most elusive feature finally got implemented. While detecting irregular heart rhythm is definitely a lifesaver, high blood pressure is usually a greater concern for more people. That, unfortunately, has proven to be more difficult to measure with smartwatches, but Huawei's latest smartwatch is now officially claiming to have that problem solved where its bigger rivals have so far failed. Image Credit: Huawei As mentioned before, implementing an accurate and convenient way to measure blood pressure hasn't been easy.
+
+
+***
+![Nissan confirms 2022 Kicks pricing and fuel economy](https://cdn.slashgear.com/wp-content/uploads/2021/12/nissan-kicks-red-side.jpg "Nissan confirms 2022 Kicks pricing and fuel economy")
+
+
+[Nissan confirms 2022 Kicks pricing and fuel economy](https://www.slashgear.com/nissan-confirms-2022-kicks-pricing-and-fuel-economy-27704156/)
+
+
+> The most affordable crossover that Nissan offers is the Kicks, and it's moving into 2022 with a starting MSRP still under $20,000. Despite its low price point, the small crossover has interesting looks aimed directly at younger buyers. In fact, it's hard not to think of the now-discontinued Nissan Juke, though the Kicks is a larger vehicle packed with with more technology and, importantly, improved fuel economy too. Via Nissan Pricing The entry-level 2022 Nissan Kicks S FWD starts at $19,700, the automaker has confirmed.
+
+
+***
+![Oppo A11s Launched as an Affordable Device: Specifications and Price](https://telecomtalk.info/wp-content/uploads/2021/12/oppo-a11s-launched-as-an-affordable-device.jpg "Oppo A11s Launched as an Affordable Device: Specifications and Price")
+
+
+[Oppo A11s Launched as an Affordable Device: Specifications and Price](https://telecomtalk.info/oppo-a11s-launched-as-an-affordable-device/487766/)
+
+
+> Oppo A11s comes with an octa-core Snapdragon 460 SoC.Oppo A11s comes with a triple rear camera setup that consists of a 13MP primary camera with an f/2.2 lens.The price for the newly launched affordable device Oppo A11s has been set at CNY 999 which amounts to somewhere around Rs 11,800.Chinese smartphone maker Oppo has launched its latest affordable device Oppo A11s. the handset is an upgrade to Oppo 11 which was launched back in 2019. The new device offers a lot of features including a triple rear camera setup and a hole-punch display design.
+
+
+***
+![Motorola Razr successor will face an uphill battle next year](https://cdn.slashgear.com/wp-content/uploads/2021/12/motorola-razr-2019-5-1.jpg "Motorola Razr successor will face an uphill battle next year")
+
+
+[Motorola Razr successor will face an uphill battle next year](https://www.slashgear.com/motorola-razr-successor-will-face-an-uphill-battle-next-year-27704155/)
+
+
+> Although Samsung was the first to reveal plans for a foldable phone, it wasn't actually the first to come out with one. Beating even Huawei to the punch, Royole brought the world's first commercially available foldable phone, though the FlexPai was barely available in most markets. So, when it came to the clamshell form factor, it was the revived Motorola Razr that you could argue was truly first on the scene. Now the Lenovo-owned company wants to reclaim its crown, but its next-gen Razr will be facing some heavy competition by the time it debuts.
+
+
+***
+![Starboard acquires stake worth $800 million in GoDaddy](https://apicms.thestar.com.my/uploads/images/2021/12/27/1421982.jpg "Starboard acquires stake worth $800 million in GoDaddy")
+
+
+[Starboard acquires stake worth $800 million in GoDaddy](https://www.thestar.com.my/tech/tech-news/2021/12/27/starboard-acquires-stake-worth-800-million-in-godaddy---wsj)
+
+
+> FILE PHOTO: The company logo and ticker for GoDaddy Inc. is displayed on a screen on the floor of the New York Stock Exchange (NYSE) in New York, U.S., March 4, 2019. REUTERS/Brendan McDermid (Reuters) - Activist investor Starboard Value LP has purchased a 6.5% stake in web services firm GoDaddy Inc worth about $800 million, according to a regulatory filing with the U.S. Securities and Exchange Commission.Shares of GoDaddy, which have dropped 8% so far this year, rose 2.6% in premarket trading.Starboard said that GoDaddy's shares were undervalued and represented an attractive investment opportunity, according to the filing.
+
+
