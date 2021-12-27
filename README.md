@@ -40897,3 +40897,13 @@
 > FILE PHOTO: The company logo and ticker for GoDaddy Inc. is displayed on a screen on the floor of the New York Stock Exchange (NYSE) in New York, U.S., March 4, 2019. REUTERS/Brendan McDermid (Reuters) - Activist investor Starboard Value LP has purchased a 6.5% stake in web services firm GoDaddy Inc worth about $800 million, according to a regulatory filing with the U.S. Securities and Exchange Commission.Shares of GoDaddy, which have dropped 8% so far this year, rose 2.6% in premarket trading.Starboard said that GoDaddy's shares were undervalued and represented an attractive investment opportunity, according to the filing.
 
 
+***
+![Oppo A11s launched in China; features, specs and other details](https://images.cnbctv18.com/wp-content/uploads/2021/07/oppo1-1019x573.jpg "Oppo A11s launched in China; features, specs and other details")
+
+
+[Oppo A11s launched in China; features, specs and other details](https://www.cnbctv18.com/technology/oppo-a11s-launched-in-china-features-specs-and-other-details-11941802.htm)
+
+
+> Chinese tech giant Oppo has recently launched a new smartphone Oppo A11s in China. The smartphone is powered with Snapdragon 460 SoC, with Andreno 610 GPU. The company has not yet announced the global launch of the smartphone and availability details of the device.The dual SIM phone has a 6.5 inch (720x1,600 pixels) high-definition display with a 90Hz refresh rate, 20:9 aspect ratio and is equipped with 5000mAh battery along with 18W fast charging.Also read: Xiaomi 11i Hypercharge, the fastest charging smartphone, to launch in India on January 6; check detailsThe phone comes with a 13 megapixel main camera with f/2.
+
+
