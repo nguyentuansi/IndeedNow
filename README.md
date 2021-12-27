@@ -40776,3 +40776,40 @@
 > No body in the article.
 
 
+***
+![Tecno's First 5G Smartphone With Dimensity 900 SoC Launched](https://telecomtalk.info/wp-content/uploads/2021/12/tecnos-first-5g-smartphone-with-dimensity-900.jpg "Tecno's First 5G Smartphone With Dimensity 900 SoC Launched")
+
+
+[Tecno's First 5G Smartphone With Dimensity 900 SoC Launched](https://telecomtalk.info/tecnos-first-5g-smartphone-with-dimensity-900/487651/)
+
+
+> The Tecno Pova 5G has been launchd at a price of $289 or approximately Rs 21,676.There's a massive 6,000mAh battery inside with support for 18W fast-charging.The smartphone runs on HiOS based on Android 11 out of the box.Tecno, a smartphone brand, has launched its first 5G smartphone for the market. There's a huge display and battery inside the smartphone. Not just that, there's even support for 120Hz refresh rate for the display, and the highlight is that the smartphone is priced in the budget segment.
+
+
+***
+[Lenovo Legion Y90 to arrive in January](https://www.newkerala.com/news/2021/181964.htm)
+
+
+> Washington, December 26: Lenovo has announced that it will kick off the new year by unveiling a gaming smartphone on the first day of 2022. According to GSM Arena, Lenovo's new gaming smartphone is called the Legion Y90. While the company hasn't detailed its specs sheet yet, it did reveal a few specs of the phone's display.The Lenovo Legion Y90 will pack a 6.92" E4 AMOLED screen with a 144Hz refresh rate and 720Hz touch sampling rate.The panel supports HDR content, and the smartphone will come with a dual-engine air-cooled system for sustained performance.
+
+
+***
+![The Companies Benefiting From Fragmenting Internet Privacy Rules](https://static01.nyt.com/images/2021/12/27/business/00onetrust1-print/00onetrust1-facebookJumbo.jpg "The Companies Benefiting From Fragmenting Internet Privacy Rules")
+
+
+[The Companies Benefiting From Fragmenting Internet Privacy Rules](https://www.nytimes.com/2021/12/27/technology/gdpr-internet-privacy-onetrust.html)
+
+
+> Continue reading the main storyCompanies have sprouted up to help others navigate the varied laws around the world governing websites.Kabir Barday, chief executive of OneTrust, which helps companies comply with online regulations. 'Capitalism and commercial interest is not at odds with doing good for the world,' he said.Credit...David Walter Banks for The New York TimesDec. 27, 2021, 3:00 a.m. ETSANDY SPRINGS, Ga. — In 2018, California lawmakers mandated that consumers be able to request their personal data from companies through a toll-free number.
+
+
+***
+![How to read deleted WhatsApp messages on Android](https://www.pinkvilla.com/files/styles/fbimagesection/public/how_to_read_deleted_whatsapp_messages_on_android_social.jpg?itok=Ty9Vw3xs "How to read deleted WhatsApp messages on Android")
+
+
+[How to read deleted WhatsApp messages on Android](https://www.pinkvilla.com/tech/how-to/how-to-read-deleted-whatsapp-messages-on-android-976659)
+
+
+> WhatsApp is a popular instant messaging service that is used all over the world. WhatsApp is generally the preferred app for texting a friend or creating a group chat with family members because almost everyone uses it. WhatsApp has been adding new features to the platform as a result of its popularity, including multi-device support and, more recently, disappearing messages.WhatsApp added the ability to delete sent messages before the recipient reads them a long time ago. This is useful if you made a mistake while typing the message or accidentally sent it to the wrong person.
+
+
