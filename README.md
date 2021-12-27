@@ -40736,3 +40736,43 @@
 > Google LLC on Friday was slapped with an unprecedented fine of almost $100 million by a Russian court for its 'systemic failure to remove banned content' – the largest penalty ever imposed on a Western tech firm. The Moscow court calculated the fine based on Google's annual revenue in Russia, which exceeded 85 billion rubles, or $1.15 billion, during 2020. Meanwhile, Meta Platforms Inc., the parent company of Facebook and Instagram, received a $27 million fine just hours later, also for declining to remove banned content.
 
 
+***
+![Binance fined 8M Lira in Turkey for money-laundering non compliance](https://techstory.in/wp-content/uploads/2021/06/binance-review-crypto-exchange.jpeg "Binance fined 8M Lira in Turkey for money-laundering non compliance")
+
+
+[Binance fined 8M Lira in Turkey for money-laundering non compliance](https://techstory.in/binance-fined-8m-lira-in-turkey-for-money-laundering-non-compliance)
+
+
+> No body in the article.
+
+
+***
+![Google's fight with Joker continues, another app 'deleted'](https://static.toiimg.com/thumb/msid-88514583,width-1070,height-580,imgsize-57090,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Google's fight with Joker continues, another app 'deleted'")
+
+
+[Google's fight with Joker continues, another app 'deleted'](https://timesofindia.indiatimes.com/gadgets-news/googles-fight-with-joker-continues-another-app-deleted/articleshow/88514583.cms)
+
+
+> No body in the article.
+
+
+***
+![Scientists claim extinct 'Pac-man' frog was dinosaur killer: study](https://www.enca.com/sites/default/files/styles/facebook/public/WEB_PHOTO_PACMAN_FROG_21092017.jpg?itok=Rq8LZel9 "Scientists claim extinct 'Pac-man' frog was dinosaur killer: study")
+
+
+[Scientists claim extinct 'Pac-man' frog was dinosaur killer: study](https://www.enca.com/technology/scientists-claim-extinct-pac-man-frog-was-dinosaur-killer-study)
+
+
+> SYDNEY — A new study has revealed on Thursday that a long extinct frog known as Beelzebufo Ampinga, that lived in Madagascar over 68 million years ago, was a dinosaur killer. The claim stems from a study of the bite force of South American horned frogs, otherwise known as Pac-Man frogs due to their similarity in looks to the world-famous video game character of the same name. The study found that the popular frogs in question, have a bite strength of 30 newtons (N), or 3kg, along with a 4.5cm head width.
+
+
+***
+![2021 Saw Growing Appetite for Digital Payments Across Latin America: Report](https://www.crowdfundinsider.com/wp-content/uploads/2022/06/Latam-Latin-America-South-America-Brazil-Map.jpeg "2021 Saw Growing Appetite for Digital Payments Across Latin America: Report")
+
+
+[2021 Saw Growing Appetite for Digital Payments Across Latin America: Report](https://www.crowdfundinsider.com/2021/12/184728-2021-saw-growing-appetite-for-digital-payments-across-latin-america-report)
+
+
+> No body in the article.
+
+
