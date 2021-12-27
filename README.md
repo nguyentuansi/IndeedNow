@@ -40696,3 +40696,43 @@
 > Press release content from KISSPR. The AP news staff was not involved in its creation.12/26/2021, Singapore, Singapore // KISS PR Brand Story PressWire // Lasting for 3 months, the largest Web3 hackathon ever organized on Gitcoin: 2021 DAO Global Hackathon (hackforfreedom.org), has officially ended at the end of December 2021.In this grand event, the RainbowDAO team won three awards in four different tracks and became the biggest winner of this competition. The RainbowDAO Protocol has also become one of the most popular projects in this competition.
 
 
+***
+![Dutch regulator orders Apple to allow third-party payments in dating apps](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/01/130214_3rdstprom_hero.jpg "Dutch regulator orders Apple to allow third-party payments in dating apps")
+
+
+[Dutch regulator orders Apple to allow third-party payments in dating apps](https://siliconangle.com/2021/12/26/dutch-regulator-orders-apple-allow-third-party-payments-dating-apps/)
+
+
+> A Dutch regulatory body has ordered Apple Inc. to allow dating apps to offer in-app purchases via third-party payment solutions, a small blow to Apple's monopoly on payments within iOS apps. The Netherlands Authority for Consumers and Markets made the ruling on Friday following a two-year investigation into Apple's payment processes. The focus on dating apps, in particular, followed a complaint from Match Group Inc., the company behind daring services such as Tinder and OKCupid. The Authority found that Apple unfairly imposes additional conditions on about 15% of all app providers.
+
+
+***
+![Best car plastic restorer: Chemical Guys, Meguiar's and more compared](https://www.cnet.com/a/img/x6TM6K-4h10516a3Z_f9bMCB7xg=/1200x630/2020/11/05/0a565dd5-a960-44f9-b120-b8ceda8f9987/ogi-lithium.jpg "Best car plastic restorer: Chemical Guys, Meguiar's and more compared")
+
+
+[Best car plastic restorer: Chemical Guys, Meguiar's and more compared](https://www.cnet.com/roadshow/news/best-car-plastic-restorer-chemical-guys-meguiars-compared/)
+
+
+> So you want to make your car's UV rays-battered plastic trim look new again. Great, because there's a fine selection of trim restorer products that will do just the trick. These products are meant to restore exterior plastic trim to a dark, deep black color you see when the car rolls off the production line. Over time, the sun's harmful UV rays, dirt, car washes and the elements in general cause plastic parts to fade to a rather unattractive light (and sometimes chalky) gray.Read more: Best rust remover in 2022But it doesn't have to shake out that way.
+
+
+***
+![Treyarch Releases Statement About Being An Inclusive Work Environment](https://bleedingcool.com/wp-content/uploads/2021/12/Treyarch-Logo-1200x628.jpg "Treyarch Releases Statement About Being An Inclusive Work Environment")
+
+
+[Treyarch Releases Statement About Being An Inclusive Work Environment](https://bleedingcool.com/games/treyarch-releases-statement-about-being-an-inclusive-work-environment/)
+
+
+> Posted on December 26, 2021 by Gavin Sheehan | Treyarch, who is currently one of Call Of Duty's developer studios, issued a special statement this week about being an inclusive workspace. Treyarch works closely with Activision Blizzard, who are the publishers for the series, who have spent the better part of 2021 embroiled with lawsuits and accusations of creating a poor office culture with sexual misconduct throughout multiple levels of the company. This includes firing 20 employees back in October, and recent allegations about the company's CEO having knowledge about it the entire time.
+
+
+***
+![Russia slaps Google and Meta with multimillion-dollar fines for not deleting banned content](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/27502542420_35bf14ce0e_k.jpg "Russia slaps Google and Meta with multimillion-dollar fines for not deleting banned content")
+
+
+[Russia slaps Google and Meta with multimillion-dollar fines for not deleting banned content](https://siliconangle.com/2021/12/26/russia-slaps-google-meta-multi-million-dollar-fines-not-deleting-banned-content/)
+
+
+> Google LLC on Friday was slapped with an unprecedented fine of almost $100 million by a Russian court for its 'systemic failure to remove banned content' – the largest penalty ever imposed on a Western tech firm. The Moscow court calculated the fine based on Google's annual revenue in Russia, which exceeded 85 billion rubles, or $1.15 billion, during 2020. Meanwhile, Meta Platforms Inc., the parent company of Facebook and Instagram, received a $27 million fine just hours later, also for declining to remove banned content.
+
+
