@@ -41117,3 +41117,33 @@
 > Moto Edge X30, which has already launched for the China market is gearing up for India launch in late January or February 2022.Moto Edge X30 has already been revealed for the China market with a 6.7-inch OLED display with support for 144Hz refresh rate.The Moto Edge X30 has been priced at RMB 3199 for its base variant in China with 8GB of RAM and 128GB of internal storage which comes to Rs 38,000 approximately.Moto Edge X30, which has already launched for the China market, is gearing up for India launch in late January or February 2022.
 
 
+***
+![Exile Content Studio Partners With Spanish Artist Edgar Plans and Curatible to Launch New Entertainment Franchise 'Lil' Heroes' With Animated Children's Series Based on Lil' Heroes NFTs](https://mms.businesswire.com/media/20211228005159/en/1315181/23/Exile_Content_Studio_Logo_%281%29.jpg "Exile Content Studio Partners With Spanish Artist Edgar Plans and Curatible to Launch New Entertainment Franchise 'Lil' Heroes' With Animated Children's Series Based on Lil' Heroes NFTs")
+
+
+[Exile Content Studio Partners With Spanish Artist Edgar Plans and Curatible to Launch New Entertainment Franchise 'Lil' Heroes' With Animated Children's Series Based on Lil' Heroes NFTs](http://www.businesswire.com/news/home/20211228005159/en/Exile-Content-Studio-Partners-With-Spanish-Artist-Edgar-Plans-and-Curatible-to-Launch-New-Entertainment-Franchise-%E2%80%9CLil%E2%80%99-Heroes%E2%80%9D-With-Animated-Children%E2%80%99s-Series-Based-on-Lil%E2%80%99-Heroes-NFTs/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LOS ANGELES--(BUSINESS WIRE)--Exile Content Studio has entered into an agreement with Spanish artist Edgar Plans and Curatible to partner for a series of NFTs (non-fungible tokens) based on Plans' work, which will serve as the basis of a new entertainment franchise named Lil' Heroes. The NFTs will launch Jan 2022. The deal is part of a long-term, forward-thinking strategy for Exile, one of Hollywood's leading content providers for English and Spanish speaking audiences worldwide. The company envisions Lil' Heroes as a lasting entertainment franchise with multiple components, including an animated children's TV series, a virtual metaverse experience, consumer products and publishing.
+
+
+***
+![Alexa told a child to try a dangerous stunt because that's what the search engine said](https://cdn.mos.cms.futurecdn.net/XNUdxZC27PyEdvPoLBdTnQ-1200-80.jpg "Alexa told a child to try a dangerous stunt because that's what the search engine said")
+
+
+[Alexa told a child to try a dangerous stunt because that's what the search engine said](https://www.techradar.com/news/alexa-told-a-child-to-try-a-dangerous-stunt-because-thats-what-the-search-engine-said)
+
+
+> (Image credit: Shutterstock) It can be hard to keep children entertained in the week between Christmas and New Year's. So, it's not surprising that a 10-year-old in the UK turned to Amazon's Alexa digital assistant for some fresh ideas after her family finished their list of fun physical challenges.In this case, according to a report from the BBC, Alexa found her what's known as "the penny challenge," a viral stunt where people plug a phone charger partially into a wall outlet and then touch a penny to the exposed prongs.
+
+
+***
+![Samsung Could Offer 1TB Storage Variant Of The Galaxy S22 Ultra](https://www.androidheadlines.com/wp-content/uploads/2021/12/Galaxy-S22-Ultra-Renders-Dark-Red-22-scaled.jpg "Samsung Could Offer 1TB Storage Variant Of The Galaxy S22 Ultra")
+
+
+[Samsung Could Offer 1TB Storage Variant Of The Galaxy S22 Ultra](https://www.androidheadlines.com/2021/12/samsung-could-offer-1tb-storage-variant-of-the-galaxy-s22-ultra.html)
+
+
+> The Samsung Galaxy S22 lineup is scheduled to launch by February 2022. We've encountered a handful of leaks ahead of its release, telling us pretty much everything we need to know about the flagship. A new report suggests that the Galaxy S22 Ultra could have up to 1TB of internal storage at launch.The revelation comes via SamMobile, though the source of this information is currently unclear. Having 1TB of storage on its high-end variant makes sense since Samsung won't offer a microSD card slot with the new flagship.
+
+
