@@ -41007,3 +41007,43 @@
 > Being the country's only pure end-to-end fiber internet service provider, there is no doubt that Converge is one of the premium telecommunications companies in the country. The company continues to elevate its way to make a mark in the telecommunications industry by bringing a higher level of internet connectivity and an upgraded experience with its new FiberX Plans amplified by Seamless Whole Home WiFi Solutions. Converge aims to provide convenience to its consumers while allowing them to have a seamless and reliable internet connectivity in the comfort of their own homes.
 
 
+***
+![Chinese web users blast Musk over space station near-misses](https://apicms.thestar.com.my/uploads/images/2021/12/28/1422559.jpg "Chinese web users blast Musk over space station near-misses")
+
+
+[Chinese web users blast Musk over space station near-misses](https://www.thestar.com.my/tech/tech-news/2021/12/28/chinese-web-users-blast-musk-over-space-station-near-misses)
+
+
+> Chinese social media users blasted Musk and his companies over the near-collision incidents, with one hashtag racking up 87 million views by Tuesday morning. — Reuters BEIJING: Chinese web users slammed billionaire Elon Musk on Dec 28 after Beijing said its space station took evasive action to avoid hitting two of his SpaceX satellites, dealing a blow to the tycoon's reputation in a country that has embraced his Tesla electric cars. China's Tiangong space station was forced to take 'preventive collision avoidance control' during two 'close encounters' with SpaceX's Starlink satellites in July and October, according to a document submitted to the UN's space agency by Beijing this month.
+
+
+***
+![TECNO brings innovation to Pakistan's smartphone market with its latest Camon 18 series](https://i.brecorder.com/large/2021/12/61cab38bc42fa.jpg "TECNO brings innovation to Pakistan's smartphone market with its latest Camon 18 series")
+
+
+[TECNO brings innovation to Pakistan's smartphone market with its latest Camon 18 series](https://www.brecorder.com/news/40143044)
+
+
+> Innovation is a must at all times. Things are constantly changing, especially in the tech world, and without innovation, growth is impossible. Similarly, the smartphone industry has been striving to bring innovation with updated software and hardware features, body designs, and the latest technology. One such brand that has been making strides in this industry is the Chinese-leading smartphone brand, TECNO. The brand's latest release, the Camon 18 series, is proof of TECNO's efforts in bringing innovation is the smartphone world.
+
+
+***
+![Vodafone Idea Needs to Comply With New TRAI Order for MNP: TDSAT](https://telecomtalk.info/wp-content/uploads/2021/12/vodafone-idea-needs-to-comply-with-trai.jpeg "Vodafone Idea Needs to Comply With New TRAI Order for MNP: TDSAT")
+
+
+[Vodafone Idea Needs to Comply With New TRAI Order for MNP: TDSAT](https://telecomtalk.info/vodafone-idea-needs-to-comply-with-trai/487844/)
+
+
+> TDSAT has stayed TRAI's order and asked Vodafone Idea to comply with the order.Vodafone Idea now might move to the Supreme Court against TDSAT's order.All the consumers across different telecom circles would have got a huge relief when they heard about TRAI's order.Vodafone Idea (Vi) had appealed against the new Mobile Number Portability (MNP) offer rolled out by the Telecom Regulatory Authority of India (TRAI) in the Telecom Disputes Settlement and Appellate Tribunal (TDSAT). However, in its ruling, TDSAT has stayed TRAI's order and asked Vodafone Idea to comply with the order.
+
+
+***
+![China Tech Digest: Tencent Cloud, Alibaba Cloud To Expand Presence In South Korea; BYD, Momenta Set Up Smart Driving Joint Venture](https://assets.chinamoneynetwork.com/wp-content/uploads/20190312135053/cloud-13.jpg "China Tech Digest: Tencent Cloud, Alibaba Cloud To Expand Presence In South Korea; BYD, Momenta Set Up Smart Driving Joint Venture")
+
+
+[China Tech Digest: Tencent Cloud, Alibaba Cloud To Expand Presence In South Korea; BYD, Momenta Set Up Smart Driving Joint Venture](https://www.chinamoneynetwork.com/2021/12/28/china-tech-digest-tencent-cloud-alibaba-cloud-to-expand-presence-in-south-korea-byd-momenta-set-up-smart-driving-joint-venture)
+
+
+> Tencent Cloud, Alibaba Cloud plan to expand presence in South Korea Tencent Cloud recently announced that its sales amount, employees and partners in South Korea have increased by 100% year-on-year. Tencent Cloud will double its employees next year, and expand its service scope to cover content, e-commerce and manufacturing for Korean customers. Besides, Alibaba Cloud announced in October this year that it will set up its first data center in South Korea. After the completion of data center in the first half of next year, Alibaba Cloud will provide technology support to South Korean companies in the fields of e-commerce, finance and logistics.
+
+
