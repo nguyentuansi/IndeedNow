@@ -41047,3 +41047,43 @@
 > Tencent Cloud, Alibaba Cloud plan to expand presence in South Korea Tencent Cloud recently announced that its sales amount, employees and partners in South Korea have increased by 100% year-on-year. Tencent Cloud will double its employees next year, and expand its service scope to cover content, e-commerce and manufacturing for Korean customers. Besides, Alibaba Cloud announced in October this year that it will set up its first data center in South Korea. After the completion of data center in the first half of next year, Alibaba Cloud will provide technology support to South Korean companies in the fields of e-commerce, finance and logistics.
 
 
+***
+![Major tech firms join Consumer Electronics Show exodus](https://apicms.thestar.com.my/uploads/images/2021/12/28/1422809.jpg "Major tech firms join Consumer Electronics Show exodus")
+
+
+[Major tech firms join Consumer Electronics Show exodus](https://www.thestar.com.my/tech/tech-news/2021/12/28/major-tech-firms-join-consumer-electronics-show-exodus)
+
+
+> Big-name tech firms such as Google cancelled plans to attend next month's Consumer Electronics Show in Las Vegas, USA. — AFP/filepix Big-name tech firms such as Google, Lenovo and Intel on Thursday cancelled plans to attend next month's Consumer Electronics Show in Las Vegas, joining an exodus fueled by fear of Covid-19. The three are part of a growing list of companies opting not to put employees at risk by staffing events, exhibits or briefings at the annual gadget extravaganza. "After careful consideration we have decided to withhold from having a presence on the show floor of CES 2022," a spokesperson with US internet giant Google said.
+
+
+***
+![Finnish man blows up his Telsa rather than buy exorbitant battery replacement](https://apicms.thestar.com.my/uploads/images/2021/12/28/1422716.png "Finnish man blows up his Telsa rather than buy exorbitant battery replacement")
+
+
+[Finnish man blows up his Telsa rather than buy exorbitant battery replacement](https://www.thestar.com.my/tech/tech-news/2021/12/28/finnish-man-blows-up-his-telsa-rather-than-buy-exorbitant-battery-replacement)
+
+
+> Rather than pay for an expensive battery replacement, a Finnish man handed his car over to YouTubers Pommijätkät who blew it up with 30kg of dynamite. — Pommijätkät/YouTube screengrab Ever got an eye-watering repair estimate and wished to just get rid of your car instead? A Finnish man lived the dream, choosing to blow up his Tesla rather than replace the battery which cost more than a third of the car's original value. The Verge reported that Tuomas Katainen made the outlandish decision after being faced with a US$22,600 (RM94,535) quotation for a battery replacement for his Tesla Model S model that typically costs around US$60,000 (RM250,980) new or around US$30,000 (RM125,490) used.
+
+
+***
+![Bosch expects chip shortage to drag on into 2022](https://apicms.thestar.com.my/uploads/images/2021/12/28/1422673.jpg "Bosch expects chip shortage to drag on into 2022")
+
+
+[Bosch expects chip shortage to drag on into 2022](https://www.thestar.com.my/tech/tech-news/2021/12/28/bosch-expects-chip-shortage-to-drag-on-into-2022)
+
+
+> A worker holds a 200mm silicon wafer at the Bosch semiconductor fabrication plant. Bosch's incoming boss predicts the chip shortage is here to stay. — Bloomberg Stefan Hartung, the incoming chief executive of German technology company Bosch, says the industry's shortage in semiconductor chips is not going away any time soon. "Let's be clear, the chip crisis is not over," Hartung told the magazine Focus. "All of us in German industry are massively relying on the supply bottlenecks being solved. Every missing chip can mean that a steering system – and therefore an entire car – cannot be built.
+
+
+***
+![Evocargo to exhibit autonomous logistics vehicle technology at CES](https://roboticsandautomationnews.com/wp-content/uploads/2021/12/evocargo-autonomous-logistics-vehicle.jpg "Evocargo to exhibit autonomous logistics vehicle technology at CES")
+
+
+[Evocargo to exhibit autonomous logistics vehicle technology at CES](https://roboticsandautomationnews.com/2021/12/28/evocargo-to-exhibit-autonomous-logistics-vehicle-technology-at-ces/47862/)
+
+
+> Evocargo will showcase its cutting-edge services in cargo transportation based on their own electric unmanned vehicle in the Vehicle Tech category at the Consumer Electronics Show 2022, being held in Las Vegas from January 5-8. Established in 2019, Evocargo will exhibit its Smart Logistic service based on unmanned all-electric platforms. Evocargo's EVO.1 vehicle (3.5 tons full weight) will be displayed, featuring a payload capacity of 1.5 tons, power reserve of 155 miles and operating time of 20 hours with 40-minute charging time.
+
+
