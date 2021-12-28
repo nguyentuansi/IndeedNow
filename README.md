@@ -40957,3 +40957,53 @@
 > (Bloomberg) -- Bangladesh's high tax rate is discouraging telecoms operators from investing further in the South Asian nation as it prepares to adopt 5G technology, according to the head of the country's largest phone company. Grameenphone Ltd., which is also Bangladesh's biggest listed company by market value and majority owned by Norway's Telenor ASA, pays South Asia's highest levels of corporate tax at 40%, which hinders efforts to expand services, said Yasir Azman, the company's chief executive officer.
 
 
+***
+![Crypto cybercrime set to surge next year](https://apicms.thestar.com.my/uploads/images/2021/12/27/1421911.jpg "Crypto cybercrime set to surge next year")
+
+
+[Crypto cybercrime set to surge next year](https://www.thestar.com.my/tech/tech-news/2021/12/28/crypto-cybercrime-set-to-surge-next-year)
+
+
+> Greater usage of Internet of Things devices that foster the convergence of the physical and online worlds could create greater exposure to cyberattacks. — Photo by Philipp Katzenberger on Unsplash Cryptocurrency-fuelled ransomware attacks, metaverse-related attacks, exploitation of flaws in application programming interfaces (API), and critical infrastructure attacks are among the key threats expected in 2022, according to Palo Alto Networks, a global cybersecurity company. "Cybercriminals are getting richer than ever as cryptocurrency fuels the ransomware economy," said Ian Lim, field chief security officer for Japan and Asia-Pacific at Palo Alto Networks.
+
+
+***
+![China pursues tech 'self-reliance,' fueling global unease](https://bloximages.newyork1.vip.townnews.com/ifiberone.com/content/tncms/assets/v3/editorial/2/8c/28c7bfdd-155c-59a7-8e3f-194972c326d6/61ca850f345aa.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "China pursues tech 'self-reliance,' fueling global unease")
+
+
+[China pursues tech 'self-reliance,' fueling global unease](https://apnews.com/2987b725a845e36b2a9735d9294bfb90)
+
+
+> BEIJING (AP) — To help make China a self-reliant 'technology superpower,' the ruling Communist Party is pushing the world's biggest e-commerce company to take on the tricky, expensive business of designing its own processor chips — a business unlike anything Alibaba Group has done before.Its 3-year-old chip unit, T-Head, unveiled its third processor in October, the Yitian 710 for Alibaba's cloud computing business. Alibaba says for now, it has no plans to sell the chip to outsiders.Other rookie chip developers including Tencent, a games and social media giant, and smartphone brand Xiaomi are pledging billions of dollars in line with official plans to create computing, clean energy and other technology that can build China's wealth and global influence.
+
+
+***
+![Techno fest held at MNNIT](https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Techno fest held at MNNIT")
+
+
+[Techno fest held at MNNIT](https://timesofindia.indiatimes.com/city/allahabad/techno-fest-held-at-mnnit/articleshow/88531427.cms)
+
+
+> Prayagraj: A four-day annual techno-management fest of Motilal Nehru National Institute of Technology (MNNIT), titled ‘Avishkar-2021', commenced in an online mode on Sunday. Due to the pandemic, competitions were held virtually on the Microsoft Teams Platform. The day kicked off with an ecstatic lineup of events. Tuxwars, Logical Rhythms, and Insomnia were the events conducted under the banner of Cyberquest. These events acquainted participants with the world of Linux and Machine Learning. Participants from all over the country and even abroad world took part in a fierce battle of competitive coding.
+
+
+***
+![Senior Consultant in Evaluation, Technopolis Group, Technopolis Group](https://www.eubusiness.com/favicon.ico "Senior Consultant in Evaluation, Technopolis Group, Technopolis Group")
+
+
+[Senior Consultant in Evaluation, Technopolis Group, Technopolis Group](https://www.eubusiness.com/Jobs/technopolis-group-21-12-27)
+
+
+> Info Deadline for application: 21 January 2022 Job summary Technopolis Group are looking for a highly experienced evaluator to join their Brussels team as Senior Consultant. Location: Brussels Details Technopolis Group is an independent research and consultancy company, European leader in providing strategic R&I policy advice to public sector institutions at the regional, national, and international levels (such as the European Commission) – as well as to third sector organisations, public-private partnerships and research organisations.
+
+
+***
+![Experience turbocharged pure fiber internet with Converge Seamless, the first ISP to offer the superior WiFi 6](https://mb.com.ph/wp-content/uploads/2021/12/Whole-Home-Converge-1024x576.jpg "Experience turbocharged pure fiber internet with Converge Seamless, the first ISP to offer the superior WiFi 6")
+
+
+[Experience turbocharged pure fiber internet with Converge Seamless, the first ISP to offer the superior WiFi 6](https://mb.com.ph/2021/12/28/experience-turbocharged-pure-fiber-internet-with-converge-seamless-the-first-isp-to-offer-the-superior-wifi-6/)
+
+
+> Being the country's only pure end-to-end fiber internet service provider, there is no doubt that Converge is one of the premium telecommunications companies in the country. The company continues to elevate its way to make a mark in the telecommunications industry by bringing a higher level of internet connectivity and an upgraded experience with its new FiberX Plans amplified by Seamless Whole Home WiFi Solutions. Converge aims to provide convenience to its consumers while allowing them to have a seamless and reliable internet connectivity in the comfort of their own homes.
+
+
