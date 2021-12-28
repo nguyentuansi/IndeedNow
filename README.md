@@ -41087,3 +41087,33 @@
 > Evocargo will showcase its cutting-edge services in cargo transportation based on their own electric unmanned vehicle in the Vehicle Tech category at the Consumer Electronics Show 2022, being held in Las Vegas from January 5-8. Established in 2019, Evocargo will exhibit its Smart Logistic service based on unmanned all-electric platforms. Evocargo's EVO.1 vehicle (3.5 tons full weight) will be displayed, featuring a payload capacity of 1.5 tons, power reserve of 155 miles and operating time of 20 hours with 40-minute charging time.
 
 
+***
+![Samsung and OnePlus will have a showdown next week](https://cdn.slashgear.com/wp-content/uploads/2021/12/samsung-galaxy-s21-07.jpg "Samsung and OnePlus will have a showdown next week")
+
+
+[Samsung and OnePlus will have a showdown next week](https://www.slashgear.com/samsung-and-oneplus-will-have-a-showdown-next-week-28704284/)
+
+
+> There are only a few days left before we bid good riddance to 2021, but it seems that 2022 is already gearing up to have a messy start, at least for the consumer electronics world. Companies are backing out en masse from an in-person appearance in Las Vegas for CES 2022 due to new health concerns and big-name events have begun to pop. There is no stopping some companies from making a big splash, and Samsung and OnePlus have amusingly chosen the same date to jump in. Galaxy S21 FE At long last, Samsung will finally release its incredibly delayed Galaxy S21 FE.
+
+
+***
+![Thundertruck looks like a Cybertruck for Beyond Thunderdome](https://cdn.slashgear.com/wp-content/uploads/2021/12/thundertruck-8.jpg "Thundertruck looks like a Cybertruck for Beyond Thunderdome")
+
+
+[Thundertruck looks like a Cybertruck for Beyond Thunderdome](https://www.slashgear.com/thundertruck-looks-like-a-cybertruck-for-beyond-thunderdome-28704294/)
+
+
+> With electric vehicle mandates in place in countries worldwide, new automotive manufacturers are seemingly popping up left and right in an attempt to bring new electric vehicles to market. While most electric vehicles out there look like traditional cars and trucks, some are entirely deviating from typical vehicle design trends and going for something completely different. Tesla started the wild design trend for electric pickups with its Cybertruck, and now a new EV called the Thundertruck has been revealed by a team from the creative agency Wolfgang.
+
+
+***
+![Moto Edge X30 Might Launch in India Around February](https://telecomtalk.info/wp-content/uploads/2021/12/moto-edge-x30-might-launch-in-india.jpg "Moto Edge X30 Might Launch in India Around February")
+
+
+[Moto Edge X30 Might Launch in India Around February](https://telecomtalk.info/moto-edge-x30-might-launch-in-india/487900/)
+
+
+> Moto Edge X30, which has already launched for the China market is gearing up for India launch in late January or February 2022.Moto Edge X30 has already been revealed for the China market with a 6.7-inch OLED display with support for 144Hz refresh rate.The Moto Edge X30 has been priced at RMB 3199 for its base variant in China with 8GB of RAM and 128GB of internal storage which comes to Rs 38,000 approximately.Moto Edge X30, which has already launched for the China market, is gearing up for India launch in late January or February 2022.
+
+
