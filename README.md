@@ -40907,3 +40907,53 @@
 > Chinese tech giant Oppo has recently launched a new smartphone Oppo A11s in China. The smartphone is powered with Snapdragon 460 SoC, with Andreno 610 GPU. The company has not yet announced the global launch of the smartphone and availability details of the device.The dual SIM phone has a 6.5 inch (720x1,600 pixels) high-definition display with a 90Hz refresh rate, 20:9 aspect ratio and is equipped with 5000mAh battery along with 18W fast charging.Also read: Xiaomi 11i Hypercharge, the fastest charging smartphone, to launch in India on January 6; check detailsThe phone comes with a 13 megapixel main camera with f/2.
 
 
+***
+![TVU Networks Reports On Global Media/Entertainment Trends](https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/favicon.png "TVU Networks Reports On Global Media/Entertainment Trends")
+
+
+[TVU Networks Reports On Global Media/Entertainment Trends](https://tvnewscheck.com/more-news/tech/article/tvu-networks-reports-on-global-media-entertainment-trends/)
+
+
+> TVU Networks, a provider of live broadcast innovation and technology, announced its key insights from 2021. Based on an analysis of key measures and product usage from thousands of customers across all business sectors including media, sports and entertainment, TVU Networks has seen a 243% increase in its SaaS over 2020. The accelerated migration of the entire media supply chain to the cloud in 2021 was a massive shift industry-wide. Supply chain migration combined with the continued adoption of remote production workflows resulted in the immediate need for more cloud-native solutions.
+
+
+***
+![Apple Closes Its New York City Stores to Shoppers After Covid Spike](http://www.bnnbloomberg.ca/img/tsn/logos/tsn-logo.png "Apple Closes Its New York City Stores to Shoppers After Covid Spike")
+
+
+[Apple Closes Its New York City Stores to Shoppers After Covid Spike](http://www.bnnbloomberg.ca/apple-closes-its-new-york-city-stores-to-shoppers-after-covid-spike-1.1700845)
+
+
+> (Bloomberg) -- Apple Inc. has closed its major New York City retail stores -- including its Fifth Avenue, SoHo, Grand Central and World Trade Center locations -- to shoppers because of rising Covid-19 cases. The closures include 16 stores across New York, with Upper West Side, West 14th Street, Staten Island and Bronx locations all affected. The temporary move also includes stores in Huntington Station and Manhasset.Apple has temporarily closed many stores in recent weeks as it copes with the highly contagious omicron variant, but it's trying a different approach with the New York shutdown.
+
+
+***
+![CP Communications Provided IP-Based Transmission Tech For TCS New York City Marathon](https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/favicon.png "CP Communications Provided IP-Based Transmission Tech For TCS New York City Marathon")
+
+
+[CP Communications Provided IP-Based Transmission Tech For TCS New York City Marathon](https://tvnewscheck.com/more-news/tech/article/cp-communications-provided-ip-based-transmission-tech-for-tcs-new-york-city-marathon/)
+
+
+> CP Communications, a provider of solutions and services for live event productions, says it successfully provided live coverage — featuring direct feeds of the professional athlete races — at the 50th running of the TCS New York City Marathon on Nov. 7 using IP encoding and bonded cellular solutions. It also managed the event's Virtual Media Center (VMC) for remote journalists. Film 45, in partnership with New York Road Runners, produced the five-hour live broadcast for ESPN2 and WABC New York, and a three-hour live World Feed for international broadcasters.
+
+
+***
+![Microsoft patent shows possible Surface Trio with three screens](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/surfacetrio.png "Microsoft patent shows possible Surface Trio with three screens")
+
+
+[Microsoft patent shows possible Surface Trio with three screens](https://siliconangle.com/2021/12/27/microsoft-patent-shows-possible-surface-trio-three-screens/)
+
+
+> Microsoft Corp. has filed a patent for a three-panel foldable device that would presumably be a Surface Trio if it ever came to market Discovered by Patently Apple, the patent was first filed in June 2020 and was only made public last week by the U.S. Patent and Trademark Office. The patent covers what Microsoft describes as a 'multi-panel display device' with three displays and two hinge areas – the Surface Duo but with an extra screen. One of the main differing features from the Surface Duo, other than the obvious three screens, is that the third screen would be folded to the front of the device.
+
+
+***
+![Bangladesh Telecom Giant Grameenphone Hits Out at Punitive Tax](http://www.bnnbloomberg.ca/polopoly_fs/1.1700866!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-bangladesh-telecom-giant-grameenphone-hits-out-at-punitive-tax.png "Bangladesh Telecom Giant Grameenphone Hits Out at Punitive Tax")
+
+
+[Bangladesh Telecom Giant Grameenphone Hits Out at Punitive Tax](http://www.bnnbloomberg.ca/bangladesh-telecom-giant-grameenphone-hits-out-at-punitive-tax-1.1700865)
+
+
+> (Bloomberg) -- Bangladesh's high tax rate is discouraging telecoms operators from investing further in the South Asian nation as it prepares to adopt 5G technology, according to the head of the country's largest phone company. Grameenphone Ltd., which is also Bangladesh's biggest listed company by market value and majority owned by Norway's Telenor ASA, pays South Asia's highest levels of corporate tax at 40%, which hinders efforts to expand services, said Yasir Azman, the company's chief executive officer.
+
+
