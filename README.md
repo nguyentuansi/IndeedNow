@@ -41197,3 +41197,33 @@
 > (Pocket-lint) - AfterShokz is no more and will be known as just Shokz moving forward. The company says that's it's a more impactful bit of branding, but we can't help feeling it also sets the bone-conduction headphone company aside from the Aftershock drink, also known for producing a pounding in your head.Shokz are best known for its headphones that use bone conduction, with transducers placed in front of the ear using vibration through the cheekbones to deliver the sound.The appeal of this setup is that you don't have to have anything in your ear, meaning you can hear what's going on around you, which is ideal for sports in busy places, but when you want to keep the tunes rolling.
 
 
+***
+![Man in SG arrested over scam involving ‘sale' of TV monitor on e-commerce site](https://apicms.thestar.com.my/uploads/images/2021/12/29/1423714.jpg "Man in SG arrested over scam involving ‘sale' of TV monitor on e-commerce site")
+
+
+[Man in SG arrested over scam involving ‘sale' of TV monitor on e-commerce site](https://www.thestar.com.my/tech/tech-news/2021/12/29/man-in-sg-arrested-over-scam-involving-sale-of-tv-monitor-on-e-commerce-site)
+
+
+> The police said they believe he was also involved in other similar cases of e-commerce scams. — AFP SINGAPORE: A man has been arrested over a scam on Carousell in which a buyer purportedly paid for a television monitor that never arrived. The police said on Tuesday (Dec 28) that the victim did not receive the monitor after making a bank transfer to the man, 31. The victim had made a report on Nov 25. Officers from Woodlands Police Division were able to establish the man's identity through follow-up investigations, and arrested him on Dec 28.
+
+
+***
+![‘Robot chef' cooks up veggie burgers at Israel restaurant](https://apicms.thestar.com.my/uploads/images/2021/12/29/1423683.jpg "‘Robot chef' cooks up veggie burgers at Israel restaurant")
+
+
+[‘Robot chef' cooks up veggie burgers at Israel restaurant](https://www.thestar.com.my/tech/tech-news/2021/12/29/robot-chef-cooks-up-veggie-burgers-at-israel-restaurant)
+
+
+> A man extracts a cooked plant-based hamburger with a meaty taste, produced by a robot according to customer requirements, to be offered in a sandwich by fast food brand BBB in the coastal town of Herzliya. — AFP HERZLIYA: A fast food restaurant is serving up a veggie steak made and cooked by a robot that tailors ingredients and cooking time to customer tastes. 'It's the first time that a machine is making a personalised hamburger by itself,' said Racheli Vizman, CEO of SavorEat, an Israeli start-up that specialises in meat alternatives.
+
+
+***
+![Telefonica reaches deal to slash 2,700 jobs in Spain](https://apicms.thestar.com.my/uploads/images/2021/12/29/1423649.jpg "Telefonica reaches deal to slash 2,700 jobs in Spain")
+
+
+[Telefonica reaches deal to slash 2,700 jobs in Spain](https://www.thestar.com.my/tech/tech-news/2021/12/29/telefonica-reaches-deal-to-slash-2700-jobs-in-spain)
+
+
+> Spain's Telefonica cut 2,700 jobs, the third European telco to do so, as the industry grappled with competing low-cost rivals and rolling out 5G. — REUTERS Telefonica announced Tuesday an agreement with unions in Spain to cut around 2,700 jobs, part of a wave of job cuts in the telecom sector in the country this year. The redundancy plan targets workers turning 55 or older in 2022 and with at least 15 years employment at the company, Telefonica said in a statement. The firm said the job cuts, which will affect about 15% of its workforce of 18,500 people in Spain, will cost about €1.
+
+
