@@ -41147,3 +41147,53 @@
 > The Samsung Galaxy S22 lineup is scheduled to launch by February 2022. We've encountered a handful of leaks ahead of its release, telling us pretty much everything we need to know about the flagship. A new report suggests that the Galaxy S22 Ultra could have up to 1TB of internal storage at launch.The revelation comes via SamMobile, though the source of this information is currently unclear. Having 1TB of storage on its high-end variant makes sense since Samsung won't offer a microSD card slot with the new flagship.
 
 
+***
+![Waymo and Zeekr team up to build a fleet of sleek autonomous EV taxis](https://cdn.slashgear.com/wp-content/uploads/2021/12/waymo_zeekr-2.jpg "Waymo and Zeekr team up to build a fleet of sleek autonomous EV taxis")
+
+
+[Waymo and Zeekr team up to build a fleet of sleek autonomous EV taxis](https://www.slashgear.com/waymo-and-zeekr-team-up-to-build-a-fleet-of-sleek-autonomous-ev-taxis-28704410/)
+
+
+> Chinese company Geely Holding Group has announced that its Zeekr brand has teamed with Waymo to develop a self-driving EV taxi intended for use in the US. Once the development and manufacturing process is complete, the upcoming autonomous electric vehicle will be delivered to Waymo, which will integrated the new vehicles with its existing Waymo Driver platform. Zeekr/Geely Holding Group Fleets of self-driving electric vehicles will revolutionize public transportation around the world, one day enabling just about anyone to order an on-demand zero-emissions taxi and have it show up at their door entirely on its own.
+
+
+***
+![Hideo Kojima Working on 2 Games, Reveals 2022 Goals](https://www.comingsoon.net/assets/uploads/2021/12/kojma.jpg "Hideo Kojima Working on 2 Games, Reveals 2022 Goals")
+
+
+[Hideo Kojima Working on 2 Games, Reveals 2022 Goals](https://www.comingsoon.net/games/news/1206163-hideo-kojima-new-games)
+
+
+> Legendary video game developer Hideo Kojima has recently teased that he and his team at Kojima Productions are working on two different video games.RELATED: Death Stranding Director's Cut Is a More Thorough & Even MasterpieceThe news comes courtesy of Famitsu‘s annual end-of-year interview series (via Gematsu) with various creators in the video game industry. The site interviewed 127 creators in 2021, many of whom spoke about their upcoming projects or what they'd like to accomplish. When it came to Kojima, though, he teased work on two separate projects.
+
+
+***
+![Horizon Forbidden West Gameplay Video Details New Snake Robot Enemy](https://www.comingsoon.net/assets/uploads/2021/12/slitherfang.jpg "Horizon Forbidden West Gameplay Video Details New Snake Robot Enemy")
+
+
+[Horizon Forbidden West Gameplay Video Details New Snake Robot Enemy](https://www.comingsoon.net/games/news/1206143-horizon-forbidden-west-gameplay-video-details-slitherfang)
+
+
+> Guerrilla Games debuted a trailer of Horizon Forbidden West at The Game Awards, showcasing a variety of new robotic foes. One of these was a snake-like machine that was unlike anything else previously seen in the series. Guerrilla has now talked more about this reptilian robot, which is called the Slitherfang.RELATED: Guerrilla Shares Horizon Forbidden West PS4 ScreenshotsGame Informer detailed the new beast along with showcasing 32 seconds of gameplay featuring the Slitherfang. While it has more attacks not seen in the video, the Slitherfang can spray acid, shoot lighting from its tail, and slam Aloy around, the latter of which can knock Aloy off perches if she's playing too defensively and not moving around enough.
+
+
+***
+![Palm Oil Bulls to Roar Into 2022 on Labor Crunch, La Nina Deluge](https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true "Palm Oil Bulls to Roar Into 2022 on Labor Crunch, La Nina Deluge")
+
+
+[Palm Oil Bulls to Roar Into 2022 on Labor Crunch, La Nina Deluge](https://www.bloombergquint.com/technology/palm-oil-bulls-to-roar-into-2022-on-labor-crunch-la-nina-deluge)
+
+
+> (Bloomberg) -- Palm oil bulls will likely hold sway into early 2022 as a chronic worker shortage in No. 2 grower Malaysia and heavier rains than usual in key growing areas disrupt production of the world's most-consumed edible oil. That could keep prices elevated after a record year in 2021 when benchmark futures rocketed to an all-time closing high of 5,071 ringgit ($1,213) a ton. Although Malaysia is trying to expedite the arrival of much-needed foreign workers for its plantations, the spread of omicron may scupper those plans, constrain harvesting and keep supplies tight.
+
+
+***
+![AfterShokz renames itself Shokz, announces new OpenRun headphones](https://cdn.pocket-lint.com/r/s/1200x630/assets/images/159483-headphones-news-shokz-openrun-image1-9amlns7uic.jpg "AfterShokz renames itself Shokz, announces new OpenRun headphones")
+
+
+[AfterShokz renames itself Shokz, announces new OpenRun headphones](https://www.pocket-lint.com/headphones/news/159483-aftershokz-renames-itself-shokz-announces-new-openrun-headphones)
+
+
+> (Pocket-lint) - AfterShokz is no more and will be known as just Shokz moving forward. The company says that's it's a more impactful bit of branding, but we can't help feeling it also sets the bone-conduction headphone company aside from the Aftershock drink, also known for producing a pounding in your head.Shokz are best known for its headphones that use bone conduction, with transducers placed in front of the ear using vibration through the cheekbones to deliver the sound.The appeal of this setup is that you don't have to have anything in your ear, meaning you can hear what's going on around you, which is ideal for sports in busy places, but when you want to keep the tunes rolling.
+
+
