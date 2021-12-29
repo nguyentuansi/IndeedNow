@@ -41227,3 +41227,23 @@
 > Spain's Telefonica cut 2,700 jobs, the third European telco to do so, as the industry grappled with competing low-cost rivals and rolling out 5G. — REUTERS Telefonica announced Tuesday an agreement with unions in Spain to cut around 2,700 jobs, part of a wave of job cuts in the telecom sector in the country this year. The redundancy plan targets workers turning 55 or older in 2022 and with at least 15 years employment at the company, Telefonica said in a statement. The firm said the job cuts, which will affect about 15% of its workforce of 18,500 people in Spain, will cost about €1.
 
 
+***
+![Year-ender 2021: Innovative gadgets that brought a sense of novelty this year](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-15ll2mo05qt0dj3oetftl6rti6-20211229115709.Medi.jpeg "Year-ender 2021: Innovative gadgets that brought a sense of novelty this year")
+
+
+[Year-ender 2021: Innovative gadgets that brought a sense of novelty this year](https://www.deccanchronicle.com/technology/gadgets/291221/year-ender-2021-innovative-gadgets-that-brought-a-sense-of-novelty-th.html)
+
+
+> From devices that make life easier at home to those that help us stay safe and healthy, the year gave us cutting-edge gadgets until its very end. (Representational Image: ANI) New Delhi: Technology is a term that can be simply defined as methods, systems, and devices that are a result of scientific knowledge being put to use for practical daily purposes. In 2021, despite various challenges, varying from supply chain uncertainties to logistic issues, the world of tech simply refused to bow down to the difficulties amid the COVID pandemic.
+
+
+***
+![China Tech Digest: BlueFocus, Baidu Join Hands On Metaverse; Alibaba DAMO Academy Proposes Ten Major Technological Trends](https://assets.chinamoneynetwork.com/wp-content/uploads/20211229094807/universe-696x463.jpg "China Tech Digest: BlueFocus, Baidu Join Hands On Metaverse; Alibaba DAMO Academy Proposes Ten Major Technological Trends")
+
+
+[China Tech Digest: BlueFocus, Baidu Join Hands On Metaverse; Alibaba DAMO Academy Proposes Ten Major Technological Trends](https://www.chinamoneynetwork.com/2021/12/29/china-tech-digest-bluefocus-baidu-join-hands-on-metaverse-alibaba-damo-academy-proposes-ten-major-technological-trends)
+
+
+> BlueFocus, Baidu join hands on metaverse Baidu's AI developer conference Create 2021 was held in Baidu's metaverse Xirang. After the closed beta, Xirang is officially open to all users. At this conference, the Chinese search giant has reached a strategic partnership with BlueFocus, China's largest communication group. They will collaborate on integrating metaverse and marketing. With Xirang's virtual space as the cornerstone, they will jointly help brand owners establish new connections with consumers in the metaverse, exploit new scenarios and empower the evolution of marketing patterns.
+
+
