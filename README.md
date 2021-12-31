@@ -41247,3 +41247,53 @@
 > BlueFocus, Baidu join hands on metaverse Baidu's AI developer conference Create 2021 was held in Baidu's metaverse Xirang. After the closed beta, Xirang is officially open to all users. At this conference, the Chinese search giant has reached a strategic partnership with BlueFocus, China's largest communication group. They will collaborate on integrating metaverse and marketing. With Xirang's virtual space as the cornerstone, they will jointly help brand owners establish new connections with consumers in the metaverse, exploit new scenarios and empower the evolution of marketing patterns.
 
 
+***
+![JLab's new Go Air Tones are the ultimate true wireless stealth earbuds](https://cdn.slashgear.com/wp-content/uploads/2021/12/jlab-earbuds.jpg "JLab's new Go Air Tones are the ultimate true wireless stealth earbuds")
+
+
+[JLab's new Go Air Tones are the ultimate true wireless stealth earbuds](https://www.slashgear.com/jlabs-new-go-air-tones-are-the-ultimate-true-wireless-stealth-earbuds-30704813/)
+
+
+> JLab has introduced a new pair of true wireless earbuds called the Go Air Tones that have two very unique defining features: they're incredibly inexpensive and they're designed to blend in with (more or less) your skin. The design choice is far different than the typical earbuds we see, ones that often sport flashy and/or shiny elements that make them readily apparent to others nearby. Image: JLab Though not every pair of true wireless earbuds have blinking LEDs and shiny chrome trim, the 'minimalist' ones still tend to come in bright primary colors, white, and black.
+
+
+***
+![Why the CDC says everyone should avoid cruise ships right now](https://cdn.slashgear.com/wp-content/uploads/2021/12/cruise-ship-cdc-warning.jpg "Why the CDC says everyone should avoid cruise ships right now")
+
+
+[Why the CDC says everyone should avoid cruise ships right now](https://www.slashgear.com/why-the-cdc-says-everyone-should-avoid-cruise-ships-right-now-30704763/)
+
+
+> With Omicron cases spreading rapidly throughout the world, the US Centers for Disease Control and Prevention (CDC) has published a new bulletin advising that travelers avoid cruise ships entirely — even when fully vaccinated. The decision comes in part based on the spike in COVID-19 cases observed among cruise ship passengers and crew members. Denis Belitsky/Shutterstock Current data shows the number of daily COVID-19 cases in the US started spiking astronomically around the beginning of December 2020, a new wave largely fueled by the latest variant of concern, Omicron (via CDC).
+
+
+***
+![Is Microsoft Edge Becoming Full of Bloatware?](https://blogger.googleusercontent.com/img/a/AVvXsEgr2CaQUdpDCUS3K6ImPB3sYgLjRMA8kB9iMPTkAB09D4jX3SEpEK_1iVY5qvyCtP2-duuqBNIOnl3n1rX0ygI5YGgIgAl6OfuI-1HXF-sgnZk5XAwItTp7QXGSj843vTaTjb656TI7rNxEMoJHX0FpSmjHkz3DFAYegp94JGzrKRMG0cOLRc4Cnbzx "Is Microsoft Edge Becoming Full of Bloatware?")
+
+
+[Is Microsoft Edge Becoming Full of Bloatware?](https://www.digitalinformationworld.com/2021/12/is-microsoft-edge-becoming-full-of.html)
+
+
+> Microsoft Edge has shaken up the browser world to an extent, and the tech giant is trying to add more and more features to its browser in order to make it more appealing to consumers. The latest feature that has been added is a games panel that is supposed to serve as a central location for all of your various gaming needs, and it is the latest in a long line of heavy additions.With all of that having been said and now out of the way, it is important to note that this latest panel, as per u/Leopeva64-2, has started to raise concerns regarding bloatware.
+
+
+***
+![Google halts buggy Pixel 6 & Pixel Pro 6 software updates](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/Pixel-stand-gen-2.png "Google halts buggy Pixel 6 & Pixel Pro 6 software updates")
+
+
+[Google halts buggy Pixel 6 & Pixel Pro 6 software updates](https://siliconangle.com/2021/12/30/google-halts-buggy-pixel-6-pixel-pro-6-software-updates/)
+
+
+> Google LLC said Thursday its putting the brakes on a December software update for its new Pixel 6 and Pixel 6 Pro phones amid widespread reports of dropped calls. The update for the Pixel phones added quite a few new features specifically for those models, as well as a more general security patch for Android. However, multiple users have reported that since installing the update they have experienced regular dropped and disconnected calls, hence the decision to prevent more people from installing it.
+
+
+***
+![Save big on Razer accessories at Best Buy](https://cdn.mobilesyrup.com/wp-content/uploads/2021/12/Razer-header-scaled.jpg "Save big on Razer accessories at Best Buy")
+
+
+[Save big on Razer accessories at Best Buy](https://mobilesyrup.com/2021/12/30/save-big-on-razer-accessories-at-best-buy/)
+
+
+> Best Buy's full catalogue of Razer products is currently on sale, with peripherals, headphones, mics, gaming chairs and more discounted by up to 50 percent. Check out Razer product deals at Best Buy below: Razer Viper Ultimate 20000 DPI Wireless Optical Gaming Mouse with Dock – Black: $99.99 (regularly $165.99) Razer Level Up Gaming Bundle with Keyboard, Mouse & Mousepad: $59.99 (regularly $99.99) Razer Kraken X for Console Gaming Headset for PC/PS4/PS5/Xbox/Switch – Black: $39.99 (regularly $59.
+
+
