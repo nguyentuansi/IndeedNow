@@ -41297,3 +41297,43 @@
 > Best Buy's full catalogue of Razer products is currently on sale, with peripherals, headphones, mics, gaming chairs and more discounted by up to 50 percent. Check out Razer product deals at Best Buy below: Razer Viper Ultimate 20000 DPI Wireless Optical Gaming Mouse with Dock – Black: $99.99 (regularly $165.99) Razer Level Up Gaming Bundle with Keyboard, Mouse & Mousepad: $59.99 (regularly $99.99) Razer Kraken X for Console Gaming Headset for PC/PS4/PS5/Xbox/Switch – Black: $39.99 (regularly $59.
 
 
+***
+![Logan Paul and the elusive quest to build a free-speech platform that's not a cesspool](https://apicms.thestar.com.my/uploads/images/2021/12/30/1425465.jpg "Logan Paul and the elusive quest to build a free-speech platform that's not a cesspool")
+
+
+[Logan Paul and the elusive quest to build a free-speech platform that's not a cesspool](https://www.thestar.com.my/tech/tech-news/2021/12/31/logan-paul-and-the-elusive-quest-to-build-a-free-speech-platform-that039s-not-a-cesspool)
+
+
+> Logan Paul hasn't posted a new YouTube video in over six months. His last two uploads were titled I'm Fighting Floyd Mayweather This Week and My Last Words To Floyd Mayweather. Then, silence. If you didn't know better, you'd think he died in the ring. What else but a fatal boxing incident, after all, could have led one of the most famous YouTubers in the world — a controversial but charismatic web presence who helped shape the template for modern e-celebrity — to leave his 23.2 million subscribers on radio silence for half a year and counting? "Demonetisation; being blacklisted; being shadow-banned," says Paul, 26, rattling off the different ways YouTube and other mainstream social networks have alienated him.
+
+
+***
+![Tech-based design devised to hold census](http://www.dawn.com/_img/social-default.jpg "Tech-based design devised to hold census")
+
+
+[Tech-based design devised to hold census](https://www.dawn.com/news/1666765)
+
+
+> KARACHI: The government has devised a modern and technology-based design to hold fresh census in 2022 that involves geo-tagging of each structure, tablet-based and self-enumeration system to fetch improved quality of data. Sketchy details of the plan for the upcoming census emerged at the third sensitisation workshop of the series in connection with the forthcoming 7th Population and Housing Census 2022, the first-ever Digital Census of Pakistan, organised by the Pakistan Bureau of Statistics at the Institute of Business Administration on Thursday.
+
+
+***
+![China Tech Stocks Rebound on Last Day of Tumultuous Year](http://www.bnnbloomberg.ca/polopoly_fs/1.1701659!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/a-public-screen-displays-an-image-of-chinese-flags-in-shanghai-china-on-wednesday-aug-18-2021-president-xi-jinping-said-china-must-pursue-common-prosperity-in-which-wealth-is-shared-by-all-people-as-a-key-feature-of-a-modern-economy-while-also-curbing-financial-risks-photographer-qilai-shen-bloomberg.png "China Tech Stocks Rebound on Last Day of Tumultuous Year")
+
+
+[China Tech Stocks Rebound on Last Day of Tumultuous Year](http://www.bnnbloomberg.ca/china-tech-stocks-rebound-on-last-day-of-tumultuous-year-1.1701658)
+
+
+> (Bloomberg) -- Chinese tech giants rebounded on Friday, tracking an overnight surge in their peers traded in the U.S., as investors snapped up some of this year's most heavily battered stocks.The Hang Seng Tech Index jumped as much as 4.4% on Friday amid thin trading volumes with Weimob Inc. and Bilibili Inc. among the top gainers. That followed the biggest rally in Chinese American depository receipts overnight since 2008, with the Nasdaq Golden Dragon China Index surging 9.4% as analysts cited short covering.
+
+
+***
+![apple: Why the iPhone may not be Apple's ‘showstopper' in 2022](https://static.toiimg.com/thumb/resizemode-4,msid-88604978,imgsize-15110,width-800/88604978.jpg "apple: Why the iPhone may not be Apple's ‘showstopper' in 2022")
+
+
+[apple: Why the iPhone may not be Apple's ‘showstopper' in 2022](https://www.gadgetsnow.com/tech-news/why-the-iphone-may-not-be-apples-showstopper-in-2022/articleshow/88604978.cms)
+
+
+> The is perhaps the most recognised gadget in the world. It is 's ‘flagship' product which sells in millions and earns billions for the company. Every year without fail the iPhone manages to generate a buzz and excitement that we have become fairly accustomed to and something very few other products manage to do. The Pixel phones and Samsung's foldable were an exception in 2021. However, as we are about to embark on 2022, the iPhone may not be the showstopper for Apple in 2022. Even in 2021, some might argue that the new MacBook Pros were the most ‘exciting' Apple product.
+
+
