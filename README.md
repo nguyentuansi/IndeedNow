@@ -41337,3 +41337,43 @@
 > The is perhaps the most recognised gadget in the world. It is 's ‘flagship' product which sells in millions and earns billions for the company. Every year without fail the iPhone manages to generate a buzz and excitement that we have become fairly accustomed to and something very few other products manage to do. The Pixel phones and Samsung's foldable were an exception in 2021. However, as we are about to embark on 2022, the iPhone may not be the showstopper for Apple in 2022. Even in 2021, some might argue that the new MacBook Pros were the most ‘exciting' Apple product.
 
 
+***
+![Was Christmas 2021 a turning point for the metaverse?](https://apicms.thestar.com.my/uploads/images/2021/12/30/1425606.jpg "Was Christmas 2021 a turning point for the metaverse?")
+
+
+[Was Christmas 2021 a turning point for the metaverse?](https://www.thestar.com.my/tech/tech-news/2021/12/31/was-christmas-2021-a-turning-point-for-the-metaverse)
+
+
+> There's another indication that might help convince you that this trend is on the rise. The Oculus Quest 2 headset was one of the top sellers in the video games category on the Amazon e-commerce site. While the metaverse trend has inspired many consumers, the relatively affordable price of the headset at US$299 (RM1,248) and its increasingly powerful capabilities has allowed a wider range of customers to open the doors to Meta's future metaverse as well as other realms. However, the fact remains that current VR headsets are not yet powerful or capable enough to offer the highly elaborate vision of Mark Zuckerberg's metaverse.
+
+
+***
+![China Tech Digest: Tasly, Tencent Collaborate On Blockchain-based Product Traceability Solution; AidLux Releases Computing Power Recovery Technology](https://assets.chinamoneynetwork.com/wp-content/uploads/20190311223237/blockchain16-696x418.jpg "China Tech Digest: Tasly, Tencent Collaborate On Blockchain-based Product Traceability Solution; AidLux Releases Computing Power Recovery Technology")
+
+
+[China Tech Digest: Tasly, Tencent Collaborate On Blockchain-based Product Traceability Solution; AidLux Releases Computing Power Recovery Technology](https://www.chinamoneynetwork.com/2021/12/31/china-tech-digest-tasly-tencent-collaborate-on-blockchain-based-product-traceability-solution-aidlux-releases-computing-power-recovery-technology)
+
+
+> Tasly and Tencent collaborate on blockchain-based product traceability solution Chinese pharmaceutical company Tasly Holding Group and tech giant Tencent Holdings recently announced a strategic cooperation to jointly develop blockchain-based anti-counterfeiting and traceability solutions, big data applications, marketing risk control, as well as intelligent production and digital supply chain management capabilities. Tencent assigns a unique QR code to each product, allowing the product to leave data information in each link of production and circulation, and uses blockchain technology to ensure the immutability and privacy protection of the data.
+
+
+***
+![UK Inches Closer To Eliminating Private Car Ownership](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-12/tesco%20line.jpg?itok=GzRh1Rkt "UK Inches Closer To Eliminating Private Car Ownership")
+
+
+[UK Inches Closer To Eliminating Private Car Ownership](https://www.zerohedge.com/technology/uk-inches-closer-eliminating-private-car-ownership)
+
+
+> Authored by Steven Symes via Motorious,Soon, Brits will own nothing and will be happier for it…UK Government Transport Minister Trudy Harrison recently spoke at a mobility conference, addressing the future of personal mobility. In her comments, she said it was necessary to ditch the "20th-century thinking centred around private vehicle ownership and towards greater flexibility, with personal choice and low carbon shared transport." That's right, she said the quiet part loud and showed the hand of a growing number of government officials.
+
+
+***
+![OnePlus 10 Pro launch date revealed in leaked teaser video](https://static.digit.in/default/0378c64782e431932d37e5555602a8aff5c6b3ab.jpeg "OnePlus 10 Pro launch date revealed in leaked teaser video")
+
+
+[OnePlus 10 Pro launch date revealed in leaked teaser video](https://www.digit.in/news/mobile-phones/oneplus-10-pro-launch-date-revealed-in-leaked-teaser-video-62385.html)
+
+
+> Install App Trending Articles LATEST ARTICLES View All Top Products Popular Mobile Phones View All Redmi 9A (Nature Green, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery ₹ 6999 | Samsung Galaxy M31 (Ocean Blue, 6GB RAM, 128GB Storage) ₹ 18990 | Redmi 9 Power (Mighty Black 4GB RAM 64GB Storage) - 6000mAh Battery |FHD+ Screen | 48MP Quad Camera | Alexa Hands-Free Capable ₹ 11499 | OnePlus Nord CE 5G (Charcoal Ink, 6GB RAM, 128GB Storage) ₹ 22999 | Samsung Galaxy M21 2021 Edition (Arctic Blue, 4GB RAM, 64GB Storage) | FHD+ sAMOLED | 6 Months Free Screen Replacement for Prime (SM-M215GLBDINS) ₹ 12999 | Copyright © 2007-22 9.
+
+
