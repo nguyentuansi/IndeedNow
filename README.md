@@ -41427,3 +41427,33 @@
 > The urge to upgrade is a constant one for gamers. The desire to jump from Nintendo Switch to Nintendo Switch OLED is strong, the need to pop a 2TB SSD into the PS5 near-overwhelming, and the lust to level up from a standard Xbox pad to an Xbox Elite Wireless Controller Series 2 profound, profuse and prodigious.The problem is, we don't always make the upgrades that offer the most bang for our buck. And while flashy hardware launches often pull our attention, there's little thought given to the gadgetry that supports our gaming addiction.
 
 
+***
+![The Best Smartphones of 2021 Ranked](https://cdn.slashgear.com/wp-content/uploads/2021/12/iphone-13-main.jpg "The Best Smartphones of 2021 Ranked")
+
+
+[The Best Smartphones of 2021 Ranked](https://www.slashgear.com/the-best-smartphones-of-2021-ranked-31703290/)
+
+
+> The smartphone market has someone for everyone, whether you're looking for a budget device that doesn't compromise on features or a flagship model sporting the latest and greatest hardware. Despite chip shortages, shipping delays, and production bottlenecks, manufacturers still managed to deliver an assortment of new handsets in 2021, including these top-of-the-line models. Rokas Tenys/Shutterstock iPhone 13 Love it or hate it, Apple makes great products. Samsung was a strong competitor this year, launching high-end smartphones of both the folding and non-folding variety, but the company still hasn't managed to outdo Apple at what Apple does best: offer a tightly integrated, cohesive, and highly useable ecosystem that seamlessly blends its own hardware, software, and services.
+
+
+***
+![Telegram Launched These New Cool Features for Users](https://telecomtalk.info/wp-content/uploads/2021/12/know-everything-about-these-cool-features-launched.jpeg "Telegram Launched These New Cool Features for Users")
+
+
+[Telegram Launched These New Cool Features for Users](https://telecomtalk.info/know-everything-about-these-cool-features-launched/488498/)
+
+
+> On the last day of 2021, Telegram, the messaging app, released several new features. Telegram offers an iMessage-style reaction tool as well as an intriguing feature that allows you to hide parts of a text. Spoiler is the name of this exciting feature. Another newly launched, helpful feature of Telegram is the message translation feature, which is undoubtedly a first for a messaging app. Message translation is not available in other messaging platforms, including WhatsApp and Signal.Emojis will soon be available as a way for Telegram users to respond to communications.
+
+
+***
+![Samsung Galaxy S22, Galaxy S22 Ultra Colour Options Revealed Through Renders](https://telecomtalk.info/wp-content/uploads/2021/12/samsung-galaxy-s22-and-galaxy-s22-ultra.jpg "Samsung Galaxy S22, Galaxy S22 Ultra Colour Options Revealed Through Renders")
+
+
+[Samsung Galaxy S22, Galaxy S22 Ultra Colour Options Revealed Through Renders](https://telecomtalk.info/samsung-galaxy-s22-and-galaxy-s22-ultra/488477/)
+
+
+> Galaxy S22 is expected to be available in Green, Pink Gold, Phantom Black, and Phantom White colour variants.Samsung Galaxy S22 Ultra is tipped to feature Burgundy, Green, Phantom Black, and Phantom White colour options.Galaxy S22 Ultra will feature a 108MP primary sensor along with an additional 12MP sensor along with two 10MP cameras.South Korean tech giant Samsung is all set to launch its flagship Samsung Galaxy S22 series, in January 2022. There have been leaks in the past about the Samsung Galaxy S22 lineup that consists of Samsung Galaxy S22, Samsung Galaxy S22+ and Samsung Galaxy S22 Ultra models.
+
+
