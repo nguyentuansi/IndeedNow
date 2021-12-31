@@ -41457,3 +41457,43 @@
 > Galaxy S22 is expected to be available in Green, Pink Gold, Phantom Black, and Phantom White colour variants.Samsung Galaxy S22 Ultra is tipped to feature Burgundy, Green, Phantom Black, and Phantom White colour options.Galaxy S22 Ultra will feature a 108MP primary sensor along with an additional 12MP sensor along with two 10MP cameras.South Korean tech giant Samsung is all set to launch its flagship Samsung Galaxy S22 series, in January 2022. There have been leaks in the past about the Samsung Galaxy S22 lineup that consists of Samsung Galaxy S22, Samsung Galaxy S22+ and Samsung Galaxy S22 Ultra models.
 
 
+***
+![What is Artificial Intelligence? How Is It Affecting Humanity?](https://cdn.business2community.com/wp-content/uploads/2021/12/AI.jpg "What is Artificial Intelligence? How Is It Affecting Humanity?")
+
+
+[What is Artificial Intelligence? How Is It Affecting Humanity?](https://www.business2community.com/tech-gadgets/what-is-artificial-intelligence-how-is-it-affecting-humanity-02448755)
+
+
+> Artificial Intelligence is the science and practice of designing software and intelligent systems that exhibit artificial intelligent behavior. The main field of AI is machine learning – the ability for a machine to learn from experience – the machine can analyze data to generate an outcome. The classic example is a baby. If we feed it images and sounds and say that it is learning then it would learn from those experiences and display the outcome, when it should, when it feels like it should. It is a very powerful concept and one that we will continue to hear a lot more about.
+
+
+***
+![Technologies you should know before 2022 :)) : programming](https://external-preview.redd.it/wnMR-le-xudXZ-P5dL_UgZeqDfg8g92AvUXqSKNFFFY.jpg?auto=webp&s=6b0697f310a6ec84023e0ee3452ecc3a08ce8cfe "Technologies you should know before 2022 :)) : programming")
+
+
+[Technologies you should know before 2022 :)) : programming](https://www.reddit.com/r/programming/comments/rt1tlk/technologies_you_should_know_before_2022)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![Libadwaita 1.0 Released For Kicking Off A New Year Of GNOME App Development : programming](https://external-preview.redd.it/6u9aAod3Tu6TW6gd9Ppe-nzwncw7vBHhiPMJseSR4gs.jpg?auto=webp&s=69e247cb001c07fe7517d16d4f8a007fe71635d8 "Libadwaita 1.0 Released For Kicking Off A New Year Of GNOME App Development : programming")
+
+
+[Libadwaita 1.0 Released For Kicking Off A New Year Of GNOME App Development : programming](https://www.reddit.com/r/programming/comments/rt1sf8/libadwaita_10_released_for_kicking_off_a_new_year)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![How Telegram Messenger circumvents Google Translate's API : programming](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "How Telegram Messenger circumvents Google Translate's API : programming")
+
+
+[How Telegram Messenger circumvents Google Translate's API : programming](https://www.reddit.com/r/programming/comments/rt1ot4/how_telegram_messenger_circumvents_google)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
