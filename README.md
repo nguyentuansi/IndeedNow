@@ -41597,3 +41597,33 @@
 > Health Minister Khairy Jamaluddin has announced new travel restrictions for Umrah travel to Saudi Arabia following a surge of new imported COVID-19 cases in the country. It was revealed that travellers returning from Saudi Arabia have the highest COVID-19 positivity rate and there are 9 clusters associated with Umrah travel. Until 30th December 2021, a total of 1,306 of 11,108 Umrah travellers were found positive, which is equivalent to a positivity rate of 11.76%. From the figure, 592 cases were detected during the first COVID-19 test upon arrival, and 714 cases were detected on the second COVID-19 test during the 5th day of quarantine.
 
 
+***
+![AR Glasses, Google indicates what might be their next project](https://blogger.googleusercontent.com/img/a/AVvXsEhyVl8JW3f912eHjsCzCYpQllRoZl43VhTOSCXPfAcXqcn1E4EiXWfqe7dv1a1yjN87MnJxt6oliguZKBsMjtUxeFvViVR1ou8GX1XBJ7_ZIbhtGRhmVjlK7NlS0967pbWiYhSvQkm6uZBu5up7ejK2kge8n3MjFNfKT-wytKJNdJU5-NNO7MeLFRvw=s16000 "AR Glasses, Google indicates what might be their next project")
+
+
+[AR Glasses, Google indicates what might be their next project](https://www.digitalinformationworld.com/2022/01/ar-glasses-google-indicates-what-might.html)
+
+
+> Augmented Reality (AR) has been in the scene since the late 1980's and 90's. From Terminator to Robocop, people were given a glimpse into what the next few years might be holding for the tech generation. Over the years we've seen the AR glasses in many different movies, the latest one was 'Iron Man'. Well you can't expect the average person to randomly go and buy an Iron man suit but they can certainly get the 'AR Glasses'.For those of you who don't know what they are, they look just like a normal pair of glasses but they come with enhanced technology involving reality with digital overlays.
+
+
+***
+![Top Reasons to Have a Faster Internet at Your Place](https://telecomtalk.info/wp-content/uploads/2021/12/top-reasons-to-have-a-high-speed.jpeg "Top Reasons to Have a Faster Internet at Your Place")
+
+
+[Top Reasons to Have a Faster Internet at Your Place](https://telecomtalk.info/top-reasons-to-have-a-high-speed/487908/)
+
+
+> With digitalisation taking its place everywhere, one primary concern is data theft.Secure data storage is of paramount importance to all businesses. The faster internet enables people to do more work in less time.Internet is an indispensable element in today's world. Staying connected is a necessity than a desire. Internet-primarily facilitates communication across borders. Beyond communication, there are a few things that a faster internet can deliver to an individual or an organisation. Here are the advantages that high-speed internet provides to organisations.
+
+
+***
+![CDF vs Inverse CDF. An essential technique in exploratory data analysis. Explained using sports example. : programming](https://external-preview.redd.it/wWZvGAEwj9UNt6jZIHLBWS_bttph9xQQfA9LJ3H4ETA.jpg?auto=webp&s=a0f187cfaeab443b9a1c0efee6d199bcf671f401 "CDF vs Inverse CDF. An essential technique in exploratory data analysis. Explained using sports example. : programming")
+
+
+[CDF vs Inverse CDF. An essential technique in exploratory data analysis. Explained using sports example. : programming](https://www.reddit.com/r/programming/comments/rteml2/cdf_vs_inverse_cdf_an_essential_technique_in)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
