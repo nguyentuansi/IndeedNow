@@ -41717,3 +41717,53 @@
 > CALGARY — In the nearly two years since the COVID-19 pandemic forced workers out of Calgary's downtown towers and into home offices, the city's core has changed. Many of the changes are subtle. On 4th Ave SW, the 1980s-era Sun Life Plaza building is now The Ampersand — revamped and modernized by commercial landlord Aspen Properties in an effort to attract startups and companies of the future. In the revitalized East Village area, the massive $80-million parkade opened by the city last spring is home not just to car and bike stalls, but to Platform Calgary, a non-profit organization that will offer incubation space for startups and programming for entrepreneurs.
 
 
+***
+![Tech firms slowly moving into Calgary's hollowed out downtown core](https://www.vmcdn.ca/f/files/shared/feeds/cp/2022/01/20211210171244-61b3d846b14d321cebc14ca1jpeg.jpg;w=650;h=433;mode=crop "Tech firms slowly moving into Calgary's hollowed out downtown core")
+
+
+[Tech firms slowly moving into Calgary's hollowed out downtown core](https://www.thereminder.ca/the-mix/tech-firms-slowly-moving-into-calgarys-hollowed-out-downtown-core-4914891)
+
+
+> CALGARY — In the nearly two years since the COVID-19 pandemic forced workers out of Calgary's downtown towers and into home offices, the city's core has changed. Many of the changes are subtle. On 4th Ave SW, the 1980s-era Sun Life Plaza building is now The Ampersand — revamped and modernized by commercial landlord Aspen Properties in an effort to attract startups and companies of the future. In the revitalized East Village area, the massive $80-million parkade opened by the city last spring is home not just to car and bike stalls, but to Platform Calgary, a non-profit organization that will offer incubation space for startups and programming for entrepreneurs.
+
+
+***
+![Introducing CWCO as your Web Components Solution : programming](https://external-preview.redd.it/WaI7ci8y_BucxfTyRMw9rEGVoXvk-w3erN7z645l-H8.jpg?auto=webp&s=dc9f3722e4f26a0d394e974bdc658bd002ee6f3d "Introducing CWCO as your Web Components Solution : programming")
+
+
+[Introducing CWCO as your Web Components Solution : programming](https://www.reddit.com/r/programming/comments/rtr589/introducing_cwco_as_your_web_components_solution)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![Happy New Year (and news on GoNintendo's imminent return!)](https://gonintendo.comhttps://gonintendo.com/images/thumbnails/gonintendo.png "Happy New Year (and news on GoNintendo's imminent return!)")
+
+
+[Happy New Year (and news on GoNintendo's imminent return!)](https://gonintendo.com/stories/377927-happy-new-year-and-news-on-gonintendo-s-imminent-return)
+
+
+> The time is almost here! Happy new year, my friends! I hope your 2021 had some bright spots, and that 2022 brings you all sorts of wonderful things. If you were hoping for GoNintendo's return to be a part of the new year, you're in luck! Our revamp is closer than ever to wrapping up, and I'm here to tease what's in the very near future. While we might have a more specific timeframe in mind internally, I feel safe sharing that GoNintendo should be returning to action sometime in Q1 of 2022! Yes, that means that we should be up-and-running sometime before March of 2022 ends.
+
+
+***
+![The best New Year's TV sales: cheap TV deals starting at $149.99](https://cdn.mos.cms.futurecdn.net/DG8w2NfvDmoDJi8TvmSQMU-1200-80.jpg "The best New Year's TV sales: cheap TV deals starting at $149.99")
+
+
+[The best New Year's TV sales: cheap TV deals starting at $149.99](https://www.techradar.com/news/the-best-new-years-tv-sales-cheap-tv-deals-starting-at-dollar14999)
+
+
+> (Image credit: Future) New year, new TV! If you're looking to upgrade your home cinema in 2022, we're rounding up today's best New Year's TV deals with prices starting at just $149.99. You'll find a range of 4K TV deals from all your favorite retailers, including Amazon, Best Buy, and Walmart, from top brands like Samsung, Sony, and LG. The New Year's TV sales event is the perfect opportunity to score last year's best-selling sets at record-low prices as retailers make room for new stock. Today's best TV deals include this 55-inch 4K TV from Samsung on sale for $398 (was $498) this TCL 70-inch 4K smart TV on sale for a record-low price of $499.
+
+
+***
+![Vivo Y21T goes official with Snapdragon 680 SoC, but it's actually a Vivo Y33s](https://images.hindustantimes.com/tech/img/2022/01/01/1600x900/Vivo_1641064469965_1641064511348.jpg "Vivo Y21T goes official with Snapdragon 680 SoC, but it's actually a Vivo Y33s")
+
+
+[Vivo Y21T goes official with Snapdragon 680 SoC, but it's actually a Vivo Y33s](https://tech.hindustantimes.com/mobile/news/vivo-y21t-goes-official-with-snapdragon-680-soc-but-it-s-actually-a-vivo-y33s-71641063820769.html)
+
+
+> Vivo Y21T is not an entirely new smartphone. It's actually a Y33s with a different chip, screen, and selfie camera. The vivo Y21T expected to debut in India on January 3 is already official in Indonesia. However, it's not an entirely new smartphone. It's actually a Y33s with a different chip, screen, and selfie camera.According to GSM Arena, the vivo Y33s is powered by the Helio G80 SoC, while the V21T has the Snapdragon 680 at the helm. The diagonal of the 6.58" LCD has been reduced to 6.51", and so is the resolution, from FullHD to HD .
+
+
