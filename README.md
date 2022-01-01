@@ -41667,3 +41667,53 @@
 > The shrine receives millions of devotees throughout the year. Besides the Navratri period, the first day of a year witnesses unusually heavy footfall as devotees flock to seek the blessings of Mata Vaishno Devi for the new year. NewsX Bureau | Updated : 1st January 2022, 5:00 PM A three-member high-level probe has been ordered by the government in the stampede that took place at Mata Vaishno Devi Bhawan in Jammu and Kashmir's Katra that claimed the lives of 12 people and left 15 others injured early on Saturday morning.
 
 
+***
+![Noise ColorFit Caliber Wearable Launched in India, Might Come at an Introductory Price of Rs 1,999](https://telecomtalk.info/wp-content/uploads/2022/01/noise-colorfit-caliber-wearable-launched-in-india.jpg "Noise ColorFit Caliber Wearable Launched in India, Might Come at an Introductory Price of Rs 1,999")
+
+
+[Noise ColorFit Caliber Wearable Launched in India, Might Come at an Introductory Price of Rs 1,999](https://telecomtalk.info/noise-colorfit-caliber-wearable-launched-in-india/488889/)
+
+
+> The company has claimed that the wearable comes with over 150 customisable and cloud watch faces for users to choose from.Noise ColorFit Caliber features 60 sports modes for users to track their fitness levels and exercises.Noise ColorFit Caliber can be paired up with any Android or iPhone device to get notification alerts.India's one of the most prominent watch brands, Noise has launched its latest smartwatch adding to the portfolio of its affordable devices. The newly launched wearable is called Noise ColorFit Caliber and the device is one of the pocket-friendly products offered by the company.
+
+
+***
+![Mediacom Reaches Carriage Agreement with Paxton Media](http://www.businesswire.com/images/bwlogo_square.png "Mediacom Reaches Carriage Agreement with Paxton Media")
+
+
+[Mediacom Reaches Carriage Agreement with Paxton Media](https://www.businesswire.com/news/home/20220101005004/en/Mediacom-Reaches-Carriage-Agreement-with-Paxton-Media)
+
+
+> January 01, 2022 11:10 AM Eastern Standard Time MEDIACOM PARK, N.Y.--(BUSINESS WIRE)--Mediacom Communications announced today it has reached a carriage agreement with Paxton Media. The deal gives Mediacom retransmission consent rights to WPSD-TV, the Paxton Media owned local NBC affiliate in Paducah, KY/Marion-Harrisburg, IL/Cape Girardeau, MO. Additional terms of the deal were not disclosed. About Mediacom Communications Mediacom Communications Corporation is the 5th largest cable operator in the United States and the leading gigabit broadband provider to smaller markets primarily in the Midwest and Southeast.
+
+
+***
+![Urgent Apple warning issued to 1.65BILLION iPad and iPhone users as privacy concerns mount – see if you are at risk](https://blogger.googleusercontent.com/img/a/AVvXsEgmxOoLI51HCB42MF_okinAfFuI-F0-3GztmEeGbG7lVDH7EOm0qJQ48emwaUEi9DHZyYtixcj5qcnTs05HmUOh6m4oS6uGZo9m6e8tObx0VYDKYTctdCs-41rNv9pmKEOj-QXNBLO9JAoQ5GN8b9lqjstfs-5cMJtDxHVXcFN2e4iRvPP3FSrKY-i3pA=s320 "Urgent Apple warning issued to 1.65BILLION iPad and iPhone users as privacy concerns mount – see if you are at risk")
+
+
+[Urgent Apple warning issued to 1.65BILLION iPad and iPhone users as privacy concerns mount – see if you are at risk](https://techncruncher.blogspot.com/2022/01/urgent-apple-warning-issued-to.html)
+
+
+> An urgent warning is  issued for iPad and iPhone users due to looming privacy and security concerns. Apple developer Kosta Eleftheriou announced that the App Store is home to a number of illegal movie streaming services. Movie trailers and photo filters to fool users. The app encourages users to enter codes or share the app to unlock more functions. There are also premium subscription tiers in apps that run through Apple Pay, of which Apple gets a 15-30 percent cut. Eleftheriou said the apps have been available on the App Store for months, although negative reviews indicate they are illegal.
+
+
+***
+![Electric Shock 'Therapy' for Soil](http://agwired.com/wp-content/uploads/2016/09/AW-agwired-alpha-full-color.png "Electric Shock 'Therapy' for Soil")
+
+
+[Electric Shock 'Therapy' for Soil](https://agwired.com/2008/08/27/electric-shock-therapy-for-soil/)
+
+
+> All it takes to find out what kind of soils and elements are found in a plot of land is just a bit of electric charge. Veris Technologies has developed a method for determining soil ratios using electricity: 'What we're looking at here is using AC voltage or very low voltage injecting it into the soil with two electrodes,' Paul Drummond said. 'Then, we're actually measuring the voltage with another pair and the conductivity is actually driven by the sand, silt, clay content of the soil. So the heavy clays are highly conductive, silts are in the mid-range and sands are very poor conductors.
+
+
+***
+![Tech firms slowly moving into Calgary's hollowed out downtown core](https://www.vmcdn.ca/f/files/shared/feeds/cp/2022/01/20211210171244-61b3d846b14d321cebc14ca1jpeg.jpg;w=650;h=433;mode=crop "Tech firms slowly moving into Calgary's hollowed out downtown core")
+
+
+[Tech firms slowly moving into Calgary's hollowed out downtown core](https://kitchener.citynews.ca/national-business/tech-firms-slowly-moving-into-calgarys-hollowed-out-downtown-core-4914889)
+
+
+> CALGARY — In the nearly two years since the COVID-19 pandemic forced workers out of Calgary's downtown towers and into home offices, the city's core has changed. Many of the changes are subtle. On 4th Ave SW, the 1980s-era Sun Life Plaza building is now The Ampersand — revamped and modernized by commercial landlord Aspen Properties in an effort to attract startups and companies of the future. In the revitalized East Village area, the massive $80-million parkade opened by the city last spring is home not just to car and bike stalls, but to Platform Calgary, a non-profit organization that will offer incubation space for startups and programming for entrepreneurs.
+
+
