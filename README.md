@@ -41627,3 +41627,43 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
 
 
+***
+![Best fitness games 2022: top exercise games to make you break a sweat](https://cdn.mos.cms.futurecdn.net/snVy8pyRES7q8cWdbTREPZ-1200-80.jpg "Best fitness games 2022: top exercise games to make you break a sweat")
+
+
+[Best fitness games 2022: top exercise games to make you break a sweat](https://www.techradar.com/news/best-fitness-games)
+
+
+> The best fitness games are the ones that allow you to have fun while you're sweating a little bit. There are a lot of excellent ways to exercise out in the world, but the unique way in which video games, unsurprisingly, gamify our fitness, is one that makes it far more rewarding for some people. Whether you're looking for a full-body workout, a game that's dedicated to your fitness, or just one that happens to help you improve your cardio, there are plenty of options out there, but figuring out which one will be right for you can be tricky.
+
+
+***
+![The best Asus Zephyrus G14 prices and deals for January 2022](https://cdn.mos.cms.futurecdn.net/W6TXZXNEVBKGNRsnPXRtQW-1200-80.jpg "The best Asus Zephyrus G14 prices and deals for January 2022")
+
+
+[The best Asus Zephyrus G14 prices and deals for January 2022](https://www.techradar.com/deals/the-best-asus-zephyrus-g14-prices-and-deals-for-july-2020)
+
+
+> The best Asus Zephyrus G14 prices are always a hotly contested area - such is the booming popularity of these excellent 14-inch gaming laptops. With powerful AMD components and Nvidia RTX graphics cards, these laptops really do break new grounds when it comes to offering performance in a relatively small package.What's more, 2021 has just seen a brand new refresh for this laptop range which has brought even better components to this great laptop. Of course, the 2020 models are still widely available and excellent choices (still rated our best gaming laptop), so we're more than happy to help our readers find the best Asus Zephyrus G14 deals out there on either device.
+
+
+***
+![The best Alienware Aurora prices, sales and deals for January 2022](https://cdn.mos.cms.futurecdn.net/i2N3GAuj8gx5XXHrV7Scff-1200-80.jpg "The best Alienware Aurora prices, sales and deals for January 2022")
+
+
+[The best Alienware Aurora prices, sales and deals for January 2022](https://www.techradar.com/deals/the-best-alienware-aurora-prices-sales-and-deals)
+
+
+> The Alienware Aurora range represents the apex of pre-built gaming machine design and for many a dream desktop. Subsequently, Alienware Aurora prices can range up to the several thousands, depending on what you're looking for. There are plenty of options however, that can help cut that asking price significantly. Specs, regions, and sales events are all considerations here, and we've put together this guide to help you find the lowest prices possible.There are three models in our lineup right now - the brand new Aurora R11, the now superseded Aurora R8, and the wild-card Aurora R10 Ryzen Edition, which exclusively features the latest tech from team red.
+
+
+***
+![Technical solutions may be added, says Jitendra Singh after Vaishno Devi mishap](https://www.newsx.com/wp-content/uploads/2020/09/vaisno-devi-277555-q2YqofN8.jpg "Technical solutions may be added, says Jitendra Singh after Vaishno Devi mishap")
+
+
+[Technical solutions may be added, says Jitendra Singh after Vaishno Devi mishap](https://www.newsx.com/national/technical-solutions-will-be-added-says-jitendra-singh-after-vaishno-devi-mishap.html)
+
+
+> The shrine receives millions of devotees throughout the year. Besides the Navratri period, the first day of a year witnesses unusually heavy footfall as devotees flock to seek the blessings of Mata Vaishno Devi for the new year. NewsX Bureau | Updated : 1st January 2022, 5:00 PM A three-member high-level probe has been ordered by the government in the stampede that took place at Mata Vaishno Devi Bhawan in Jammu and Kashmir's Katra that claimed the lives of 12 people and left 15 others injured early on Saturday morning.
+
+
