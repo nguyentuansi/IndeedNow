@@ -41547,3 +41547,53 @@
 > It's no secret that Apple in recent years has made user privacy a key differentiating feature for the iPhone. You might recall, for example, that Apple with iOS 14.5 introduced a tool called App Tracking Transparency. The tool essentially allows users to dictate which apps are able to track their activity across other applications and websites. Building on that, Apple with iOS 15 took things a step further with the introduction of a Record App Activity feature. This particular feature enables users to record and subsequently monitor sensor, data, and internet access coming from apps on their devices.
 
 
+***
+![Ambassadors in China are showcasing their country and national specialties in livestreams](https://apicms.thestar.com.my/uploads/images/2021/12/31/1427063.jpg "Ambassadors in China are showcasing their country and national specialties in livestreams")
+
+
+[Ambassadors in China are showcasing their country and national specialties in livestreams](https://www.thestar.com.my/tech/tech-news/2022/01/01/ambassadors-in-china-are-showcasing-their-country-and-national-specialties-in-livestreams)
+
+
+> Livestreaming offers huge potential for countries willing to sell to the Chinese market in large quantities. But to succeed at this, however, you have to do it right. — AFP Relaxnews Several ambassadors residing in China have recently found themselves in streaming sessions that see them vaunting their country's culture and certain specialty products. This new media channel allows China to strengthen its foreign relations by helping facilitate prime advertising for the products of the countries concerned.
+
+
+***
+![Will everyone soon have an eSIM?](https://apicms.thestar.com.my/uploads/images/2021/12/31/1427227.jpg "Will everyone soon have an eSIM?")
+
+
+[Will everyone soon have an eSIM?](https://www.thestar.com.my/tech/tech-news/2022/01/01/will-everyone-soon-have-an-esim)
+
+
+> Rumours abound that Apple may soon do away with traditional SIM cards and offer only eSIM on its next iPhones, which would signal a major move into the mainstream for this system. Time to weigh the pros and cons of this technology, which offers great flexibility for consumers and yet remains rather unknown. For several years, Apple has been combining the classic SIM card support with the presence of an eSIM on its iPhones. The recent rumour, revealed by 9to5Mac and then relayed by specialist sites, suggests that the next iPhones (expected in September 2022) would only offer an eSIM.
+
+
+***
+![Buttigieg Asks AT&T, Verizon to Delay 5G Over Aviation Concerns](http://www.bnnbloomberg.ca/polopoly_fs/1.1701913!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/verizon-communications-inc-5g-wireless-signage-is-displayed-at-the-company-s-booth-during-the-mobile-world-congress-americas-in-los-angeles-california-u-s-on-wednesday-sept-12-2018-the-conference-features-prominent-executives-representing-mobile-operators-device-manufacturers-technology-providers-vendors-and-content-owners-from-across-the-world-photographer-patrick-t-fallon-bloomberg.jpg "Buttigieg Asks AT&T, Verizon to Delay 5G Over Aviation Concerns")
+
+
+[Buttigieg Asks AT&T, Verizon to Delay 5G Over Aviation Concerns](http://www.bnnbloomberg.ca/buttigieg-asks-at-t-verizon-to-delay-5g-over-aviation-concerns-1.1701912)
+
+
+> (Bloomberg) -- Transportation Secretary Pete Buttigieg asked AT&T Inc. and Verizon Communications Inc. to delay a 5G wireless service set to commence next week that airlines say may pose a safety risk by interfering with aircraft electronics.Without action, airlines could be forced into 'widespread and unacceptable disruption,' Buttigieg and Steve Dickson, administrator of the Federal Aviation Administration, said in a letter Friday to the wireless providers' chief executives. Airplanes could be diverted from airports where landings aren't safe, 'causing ripple effects throughout the U.
+
+
+***
+![allyis india: Tech Mahindra Acquires It Company Allyis For $125million](https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "allyis india: Tech Mahindra Acquires It Company Allyis For $125million")
+
+
+[allyis india: Tech Mahindra Acquires It Company Allyis For $125million](https://timesofindia.indiatimes.com/city/bengaluru/tech-mahindra-acquires-it-company-allyis-for-125million/articleshow/88625388.cms)
+
+
+> Bengaluru: Tech Mahindra has acquired Allyis India and Green Investments , the holding company for Allyis Group (called Target) for $125 million, including employment-related and performance-related earnouts. Target is headquartered in Seattle and has more than 660 employees. The acquisition will bolster Tech Mahindra's capabilities in digital experience solutions, learning & development, marketing, instructional design; engineering, cloud & automation, BI & analytics, and technical support services.
+
+
+***
+![Malaysia suspends Umrah flight ticket sales after 1,161 returnees test positive in the past two weeks](https://soyacincau.com/wp-content/uploads/2020/04/200422-MCO-KLIA-Malaysia-airlines-check-in.jpg "Malaysia suspends Umrah flight ticket sales after 1,161 returnees test positive in the past two weeks")
+
+
+[Malaysia suspends Umrah flight ticket sales after 1,161 returnees test positive in the past two weeks](https://soyacincau.com/2022/01/01/malaysia-suspends-umrah-saudi-arabia-travel-imported-covid-19-omicron-cases/)
+
+
+> Health Minister Khairy Jamaluddin has announced new travel restrictions for Umrah travel to Saudi Arabia following a surge of new imported COVID-19 cases in the country. It was revealed that travellers returning from Saudi Arabia have the highest COVID-19 positivity rate and there are 9 clusters associated with Umrah travel. Until 30th December 2021, a total of 1,306 of 11,108 Umrah travellers were found positive, which is equivalent to a positivity rate of 11.76%. From the figure, 592 cases were detected during the first COVID-19 test upon arrival, and 714 cases were detected on the second COVID-19 test during the 5th day of quarantine.
+
+
