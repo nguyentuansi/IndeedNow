@@ -41497,3 +41497,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
 
 
+***
+![Halo Infinite Player Wins More Than 100 Consecutive Free-For-All Matches](https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2021/12/31/53c1037b/halo_infinite.jpg "Halo Infinite Player Wins More Than 100 Consecutive Free-For-All Matches")
+
+
+[Halo Infinite Player Wins More Than 100 Consecutive Free-For-All Matches](https://newsakmi.com/news/tech-news/video-games/halo-infinite-player-wins-more-than-100-consecutive-free-for-all-matches/)
+
+
+> There are decent Halo Infinite players, really great players, ranked Onyx players, and then there's Remy 'Mint Blitz,' an Australian streamer who won more than 100 free-for-all matches in a row.  First reported by Kotaku, Mint Blitz originally set out to win 50 consecutive free-for-all matches in the recently-released (and free-to-play) multiplayer portion of Halo Infinite. After winning 50 in a row, though, he upped the ante and sought to win 100 consecutive matches…and he did it. In fact, he continued on to win even more, finally breaking the streak around '105, 106 straight' wins.
+
+
+***
+![Binance vows to heed Canadian restrictions after regulator's rebuke](http://www.bnnbloomberg.ca/polopoly_fs/1.1701884!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/the-binance-markets-ltd-cryptocurrency-exchange-trading-app-arranged-on-a-smartphone-in-london-u-k-on-monday-june-28-2021-binance-markets-ltd-an-affiliate-of-top-global-crypto-bourse-binance-was-told-by-the-financial-conduct-authority-it-has-until-the-evening-of-june-30-to-confirm-it-has-removed-all-advertising-and-financial-promotions-according-to-the-authority-s-register-photographer-jason-alden-bloomberg.jpg "Binance vows to heed Canadian restrictions after regulator's rebuke")
+
+
+[Binance vows to heed Canadian restrictions after regulator's rebuke](http://www.bnnbloomberg.ca/binance-vows-to-heed-canadian-restrictions-after-regulator-s-rebuke-1.1701883)
+
+
+> The information you requested is not available at this time, please check back again soon. More Video Geoffrey Morgan, Bloomberg News Binance said it will not allow Ontario users of its crypto currency trading platform to trade or open new accounts after a meeting Friday with the Ontario Securities Commission. The commitments come a day after the OSC publicly reprimanded Binance for an 'unacceptable' letter telling its Ontario users they could keep their accounts open, despite lacking a registration as a trading platform with the securities regulator.
+
+
+***
+![Trilogy Sells New Zealand Telco Stake in $1.2 Billion Deal](http://www.bnnbloomberg.ca/polopoly_fs/1.1701894!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-bundle-of-fiber-optic-cables-runs-under-the-desks-inside-the-control-room-of-the-sberbank-pjsc-data-processing-center-dpc-at-the-skolkovo-innovation-center-in-moscow-russia-on-monday-dec-16-2019-as-sberbank-expands-its-technology-offerings-the-kremlin-is-backing-legislation-aimed-at-keeping-the-country-s-largest-internet-companies-under-local-control-by-limiting-foreign-ownership-photographer-andrey-rudakov-bloomberg.jpg "Trilogy Sells New Zealand Telco Stake in $1.2 Billion Deal")
+
+
+[Trilogy Sells New Zealand Telco Stake in $1.2 Billion Deal](http://www.bnnbloomberg.ca/trilogy-sells-new-zealand-telco-stake-in-1-2-billion-deal-1.1701893)
+
+
+> The information you requested is not available at this time, please check back again soon. More Video Chris Bourke, Bloomberg News (Bloomberg) -- Trilogy International Partners Inc., the majority owner of New Zealand telco 2degrees, sold its stake to the owners of Vocus Group Ltd. in a deal valuing the firm at NZ$1.7 billion ($1.2 billion). Trilogy sold its 73.2% holding to a joint venture between Macquarie Asset Management and Aware Super, according to a statement from Bellevue, Washington-based Trilogy on Friday.
+
+
+***
+![CES Expo to Close a Day Early as Covid ‘Safety Measure'](http://www.bnnbloomberg.ca/polopoly_fs/1.1701876!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/attendees-walk-past-signage-during-ces-2020-in-las-vegas-nevada-u-s-on-wednesday-jan-8-2020-every-year-during-the-second-week-of-january-nearly-200-000-people-gather-in-las-vegas-for-the-tech-industry-s-most-maligned-yet-well-attended-event-the-consumer-electronics-show-photographer-bridget-bennett-bloomberg.jpg "CES Expo to Close a Day Early as Covid ‘Safety Measure'")
+
+
+[CES Expo to Close a Day Early as Covid ‘Safety Measure'](http://www.bnnbloomberg.ca/ces-expo-to-close-a-day-early-as-covid-safety-measure-1.1701875)
+
+
+> The information you requested is not available at this time, please check back again soon. More Video Nick Turner, Bloomberg News (Bloomberg) -- Organizers of the CES tech conference, under fire for not canceling the event during a Covid-19 surge, said they will close the expo one day early as 'an additional safety measure.'The in-person conference will now end on Friday, Jan. 7, rather than running through the next day, according to the Consumer Technology Association, which puts on the show. The group, led by Chief Executive Officer Gary Shapiro, has cited the event's importance to small companies and entrepreneurs in pushing ahead with the gathering.
+
+
+***
+![Hidden iPhone trick lets you see which apps are spying on you](https://bgr.com/wp-content/uploads/2021/05/PastedGraphic-1.jpg?quality=82&strip=all "Hidden iPhone trick lets you see which apps are spying on you")
+
+
+[Hidden iPhone trick lets you see which apps are spying on you](https://bgr.com/tech/hidden-iphone-trick-lets-you-see-which-apps-are-spying-on-you/)
+
+
+> It's no secret that Apple in recent years has made user privacy a key differentiating feature for the iPhone. You might recall, for example, that Apple with iOS 14.5 introduced a tool called App Tracking Transparency. The tool essentially allows users to dictate which apps are able to track their activity across other applications and websites. Building on that, Apple with iOS 15 took things a step further with the introduction of a Record App Activity feature. This particular feature enables users to record and subsequently monitor sensor, data, and internet access coming from apps on their devices.
+
+
