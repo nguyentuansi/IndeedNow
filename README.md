@@ -41767,3 +41767,53 @@
 > Vivo Y21T is not an entirely new smartphone. It's actually a Y33s with a different chip, screen, and selfie camera. The vivo Y21T expected to debut in India on January 3 is already official in Indonesia. However, it's not an entirely new smartphone. It's actually a Y33s with a different chip, screen, and selfie camera.According to GSM Arena, the vivo Y33s is powered by the Helio G80 SoC, while the V21T has the Snapdragon 680 at the helm. The diagonal of the 6.58" LCD has been reduced to 6.51", and so is the resolution, from FullHD to HD .
 
 
+***
+![What Do You Think?](https://w5p2r8x5.stackpathcdn.com/photos/news/201906/447634979_83197.jpg "What Do You Think?")
+
+
+[What Do You Think?](https://peacefmonline.com/pages/local/tech/202201/458262.php)
+
+
+> What Do You Think? - VIDEO Comments ( 0 ): Post Your Comments >> Disclaimer: Opinions expressed here are those of the writers and do not reflect those of Peacefmonline.com. Peacefmonline.com accepts no responsibility legal or otherwise for their accuracy of content. Please report any inappropriate content to us, and we will evaluate it as a matter of priority. Featured Video
+
+
+***
+![Why are the AirPods Pro deals still happening this long after Black Friday?](https://cdn.mos.cms.futurecdn.net/xpGWesgSZ3QZLmz9Hgb4gj-1200-80.jpg "Why are the AirPods Pro deals still happening this long after Black Friday?")
+
+
+[Why are the AirPods Pro deals still happening this long after Black Friday?](https://www.techradar.com/news/why-are-the-airpods-pro-deals-still-happening-this-long-after-black-friday)
+
+
+> (Image credit: Future) If you're looking to be kind to yourself in 2022, then the gift of wireless audio might be just that present - and these AirPods Pro prices are worth considering.What's incredible is that Amazon still has Apple's all-new AirPods Pro in stock and on sale for $179 (was $197) in the US. While that's still $20 more than we saw during Black Friday and Cyber Monday, it's still cheaper than usual and far less than they've been over the last 12 months.In the UK, it's a slightly different picture: Apple's AirPods Pro are £187 for the Magsafe wireless charging versions (the latest charging case), where they've been between £240 and £199 for months previously.
+
+
+***
+![New Year's Resolutions For Developers : programming](https://external-preview.redd.it/BjkidzzB1OhVDJZ5EYf3_GI2poQvHQEzWWfpW0vgL1Y.jpg?auto=webp&s=68a35ce3e4d58a9faba3fac457e5e8cc5639cb26 "New Year's Resolutions For Developers : programming")
+
+
+[New Year's Resolutions For Developers : programming](https://www.reddit.com/r/programming/comments/rtvwdy/new_years_resolutions_for_developers)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![WhatsApp trick to send messages to yourself that changes your life](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1250592495.jpg?crop=1xw:0.75xh;center,top&resize=1200:* "WhatsApp trick to send messages to yourself that changes your life")
+
+
+[WhatsApp trick to send messages to yourself that changes your life](https://www.wireservice.ca/whatsapp-trick-to-send-messages-to-yourself-that-changes-your-life/)
+
+
+> The WhatsApp screen is perhaps the platform on which we find ourselves in front of our eyes many times during the day. There are all our conversations, friends, photos and much more. Because at this point we are not making it a more useful and complete place, where we can write down what we have to do, take notes, write down important dates and phrases. How do you do it? It's not really that difficult. The secret is to text yourself. It usually seems very strange but you will soon find that it is very convenient and very useful.
+
+
+***
+![Retail unit of the unannounced 12th gen Intel Core i5-12400 impresses with strong performance and manageable temps with the stock cooler](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/csm_12th_gen_Intel_Alder_Lake_mobile_tiger_lake_gt3_xe_181c10ae1945.jpg "Retail unit of the unannounced 12th gen Intel Core i5-12400 impresses with strong performance and manageable temps with the stock cooler")
+
+
+[Retail unit of the unannounced 12th gen Intel Core i5-12400 impresses with strong performance and manageable temps with the stock cooler](https://www.notebookcheck.net/Retail-unit-of-the-unannounced-12th-gen-Intel-Core-i5-12400-impresses-with-strong-performance-and-manageable-temps-with-the-stock-cooler.589455.0.html)
+
+
+> A YouTuber has managed to buy a retail unit of the Core i5-12400. (Image source: Intel)A YouTuber has already managed to buy a retail unit of the unannounced Intel Core i5-12400 CPU. Upon benchmarking, the Cinebench score of the retail Core i5-12400 came out slightly lower than the Core 15-12600K. As for temps, with only the stock cooler, the chip shot up to 81°C (177.8°F).Alder Lake Desktop Working For NotebookcheckAre you a techie who knows how to write? Then join our Team! English native speakers welcome! News Writer (AUS/NZL based) - Details here A YouTube going by the name of Chill Builds has managed to find a retail unit of the still unreleased Intel Core i5-12400.
+
+
