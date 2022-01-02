@@ -41907,3 +41907,53 @@
 > WhatsApp Group chatting is getting ready to create controversy among users. This is because the new role of messenger promises to cause disagreement and discussion, especially among those responsible for it. group chat, Read more: Retirement: Benefit rules will change in 2022 The feature in question makes it possible for group administrators to WhatsApp Able to delete any messages or media sent by the participants of the conversation. In other words, the power to remove a content applies not only to its own messages, but to third parties as well.
 
 
+***
+![Apple provides insights into limitations of Bluetooth, feature set of AirPods 3](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tomoopj5t2csupphe5rdck73q1-20190430104230.Medi.jpeg "Apple provides insights into limitations of Bluetooth, feature set of AirPods 3")
+
+
+[Apple provides insights into limitations of Bluetooth, feature set of AirPods 3](http://www.deccanchronicle.com/technology/gadgets/020122/apple-provides-insights-into-limitations-of-bluetooth-feature-set-of.html)
+
+
+> Apple can optimize for sound with hardware components. (Photo: Apple/File) Washington: American tech giant Apple's vice president of acoustics Gary Geaves recently provided some interesting insight into the limitations of Bluetooth and the feature set of the AirPods 3. Apple in October introduced the redesigned third-generation AirPods, which have an updated design, Adaptive EQ support, spatial audio, and other new features. To explain some of the design decisions Apple made with the AirPods 3, Apple's vice president of acoustics Gary Geaves appeared in an interview with an outlet and provided some interesting insight into the limitations of Bluetooth and the feature set of the AirPods 3, as per Mac Rumours.
+
+
+***
+![Vivo Y21T goes official with Snapdragon 680 SoC](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ji25k12rsth3gg17dnlqh33k30-20211203144900.Medi.jpeg "Vivo Y21T goes official with Snapdragon 680 SoC")
+
+
+[Vivo Y21T goes official with Snapdragon 680 SoC](https://www.deccanchronicle.com/technology/gadgets/020122/vivo-y21t-goes-official-with-snapdragon-680-soc.html)
+
+
+> The diagonal of the 6.58" LCD has been reduced to 6.51", and so is the resolution, from FullHD+ to HD. (Photo: PTI) Washington: The vivo Y21T expected to debut in India on January 3 is already official in Indonesia. However, it's not an entirely new smartphone. It's actually a Y33s with a different chip, screen, and selfie camera. According to GSM Arena, the vivo Y33s is powered by the Helio G80 SoC, while the V21T has the Snapdragon 680 at the helm. The diagonal of the 6.58" LCD has been reduced to 6.
+
+
+***
+![The CIA Used Poop To Spy On Soldiers In The Vietnam War](https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F12%2Fciapoopspy1.png "The CIA Used Poop To Spy On Soldiers In The Vietnam War")
+
+
+[The CIA Used Poop To Spy On Soldiers In The Vietnam War](https://www.unilad.co.uk/technology/the-cia-used-poop-to-spy-on-soldiers-in-the-vietnam-war/)
+
+
+> AlamyIf you ever dreamed about being a spy when you were younger, it probably had a lot to do with the gadgets.Whether it's Sean Connery's rocket firing cigarette in Thunderball or the bulletproof umbrella gun in Kingsman, everyone has their favourite spy film gadget, but how do they stack up to the tools used by real-life spy agencies?As former spies from top agencies like the CIA and MI5 have revealed, while some of the gadgets they use are a lot more mundane, there's still a place for the trickery and disguises we see in the movies.
+
+
+***
+![Amazon Prime Video eyes up 8K TV shows – but is it a play for new Samsung TVs?](https://cdn.mos.cms.futurecdn.net/NY2fFDMSLKPBxqojWWXtFS-1200-80.jpg "Amazon Prime Video eyes up 8K TV shows – but is it a play for new Samsung TVs?")
+
+
+[Amazon Prime Video eyes up 8K TV shows – but is it a play for new Samsung TVs?](https://www.techradar.com/news/amazon-prime-video-eyes-up-8k-tv-shows-but-is-it-a-play-for-new-samsung-tvs)
+
+
+> The Boys Season 2 (Image credit: Amazon) 8K TVs are here to stay, and it looks like Amazon Prime Video is getting fully behind the upgraded resolution technology.Prime Video is the latest member of the 8K Association, a cross-industry body that exists to promote the growing ecosystem of 8K content and devices – and which also offers an 8K TV specification standard to ensure customers are getting a minimum bar of features and capabilities with every approved 8K television.Prime Video joins the likes of Samsung, TCL and Panasonic in helping to forge a road map for 8K technologies, suggesting the TV streaming service has 8K TV shows and films in its sights.
+
+
+***
+![US seeks new 5G delay to study interference with planes](https://scx2.b-cdn.net/gfx/news/2022/a-verizon-crew-updates.jpg "US seeks new 5G delay to study interference with planes")
+
+
+[US seeks new 5G delay to study interference with planes](https://techxplore.com/news/2022-01-5g-planes.html)
+
+
+> A Verizon crew updates a cell tower to handle the 5G network in Orem, Utah in December 2019. US authorities have asked telecom operators AT&T and Verizon to delay for up to two weeks their already postponed rollout of 5G networks amid uncertainty about interference with vital flight safety equipment. The two companies said Saturday they are reviewing the request. The US rollout of the high-speed mobile broadband technology had been set for December 5, but was delayed to January 5 after aerospace giants Airbus and Boeing raised concerns about potential interference with the devices planes use to measure altitude.
+
+
