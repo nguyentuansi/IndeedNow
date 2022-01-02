@@ -41867,3 +41867,43 @@
 > Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones The splash-proof Jooki Children's Speaker runs for eight hours before needing a USB charge and has 5GB of internal memory. (Jooki/TNS) Jooki Limiting screen time can be a perplexing chore, and that's where a toy like the Jooki player scores. It's pretty straightforward — kids need only a figurine or token to play it.Setup is simple, including programming tokens and figurines. Adults can program these with the Jooki app (available on iOS and Android) to pair each with Spotify playlists, stories or MP3 files.
 
 
+***
+![Google pulls back the Pixel 6 and 6 Pro December update to fix dropped calls](http://www.businessghana.com/site/img/../../cms/img/news/2021-12-31-12461201.jpg "Google pulls back the Pixel 6 and 6 Pro December update to fix dropped calls")
+
+
+[Google pulls back the Pixel 6 and 6 Pro December update to fix dropped calls](https://www.businessghana.com/)
+
+
+> The rollout of the first major update for Google's Pixel 6 and Pixel 6 Pro has been slow and plagued by reports of problems. Now the company says it paused releasing the December 2021 update to investigate reports of calls dropping and disconnecting. The news arrived in a post on the Google Support forums (via Droid-Life) that says a new version with all the previously announced features and a fix for the disconnection issue should be ready by late January. If you're not having any problems, then you can keep using the new software for now, but for those afflicted by the connection issues, Google only suggests reverting and factory resetting your device as an option.
+
+
+***
+![Garena Free Fire January 2 Redeem Codes: Get Free Fire Diamonds, Free Pet](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/01/02/1012754-1012146-garena-new1.jpg "Garena Free Fire January 2 Redeem Codes: Get Free Fire Diamonds, Free Pet")
+
+
+[Garena Free Fire January 2 Redeem Codes: Get Free Fire Diamonds, Free Pet](https://www.dnaindia.com/technology/report-garena-free-fire-january-2-redeem-codes-get-free-fire-diamonds-free-pet-how-to-redeem-today-s-codes-2926556)
+
+
+> Garena Free Fire become a popular mobile game in India after the government decided to ban PUBG Mobile India in September 2020 due to privacy concerns. Garena Free Fire is an adventure-driven battle royale game and it is available for download on Google Play Store. According to reports, Garena Free Fire is now one of the most popular mobile games in the world. Garena Free Fire has become hugely popular because of its HD quality graphics, dynamics, regular updates and redeem codes. It is to be noted that Garena releases redeem codes daily for its players.
+
+
+***
+![This is our best look at the upcoming Samsung Galaxy S22 ahead of launch](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202201/samsung_galaxy_s22_ultra_rende_1200x768-original.jpeg "This is our best look at the upcoming Samsung Galaxy S22 ahead of launch")
+
+
+[This is our best look at the upcoming Samsung Galaxy S22 ahead of launch](https://www.indiatoday.in/technology/news/story/this-is-our-best-look-at-the-upcoming-samsung-galaxy-s22-ahead-of-launch-1895009-2022-01-02)
+
+
+> Story highlights Samsung Galaxy S22 will have a 6.09-inch FHD+ AMOLED display with a 120Hz adaptive refresh rate. It is expected to contain either an Exynos 2200 or Snapdragon 8 Gen 1 processor, depending on the region. The Samsung Galaxy S22 Ultra is expected to sport a 6.8 inch Super AMOLED Infinity-O display. It seems like Samsung's 2022 flagship smartphone, the Galaxy S22 will borrow heavily from the Galaxy Note. Recently, the renders of Samsung Galaxy S22 Ultra were leaked online by tipster Evan Blass and now the renders of the Samsung Galaxy S22 have also surfaced online courtesy of 91mobiles.
+
+
+***
+![WhatsApp launches function that will cause fighting in groups](https://www.sproutwired.com/wp-content/uploads/2022/01/WhatsApp-launches-function-that-will-cause-fighting-in-groups.jpeg "WhatsApp launches function that will cause fighting in groups")
+
+
+[WhatsApp launches function that will cause fighting in groups](https://www.sproutwired.com/whatsapp-launches-function-that-will-cause-fighting-in-groups/)
+
+
+> WhatsApp Group chatting is getting ready to create controversy among users. This is because the new role of messenger promises to cause disagreement and discussion, especially among those responsible for it. group chat, Read more: Retirement: Benefit rules will change in 2022 The feature in question makes it possible for group administrators to WhatsApp Able to delete any messages or media sent by the participants of the conversation. In other words, the power to remove a content applies not only to its own messages, but to third parties as well.
+
+
