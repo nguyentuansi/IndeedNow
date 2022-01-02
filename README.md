@@ -41817,3 +41817,53 @@
 > A YouTuber has managed to buy a retail unit of the Core i5-12400. (Image source: Intel)A YouTuber has already managed to buy a retail unit of the unannounced Intel Core i5-12400 CPU. Upon benchmarking, the Cinebench score of the retail Core i5-12400 came out slightly lower than the Core 15-12600K. As for temps, with only the stock cooler, the chip shot up to 81°C (177.8°F).Alder Lake Desktop Working For NotebookcheckAre you a techie who knows how to write? Then join our Team! English native speakers welcome! News Writer (AUS/NZL based) - Details here A YouTube going by the name of Chill Builds has managed to find a retail unit of the still unreleased Intel Core i5-12400.
 
 
+***
+![India's year of the unicorn: Startups in spotlight of 2021 tech boom](https://apicms.thestar.com.my/uploads/images/2022/01/02/1428255.jpg "India's year of the unicorn: Startups in spotlight of 2021 tech boom")
+
+
+[India's year of the unicorn: Startups in spotlight of 2021 tech boom](https://www.thestar.com.my/tech/tech-news/2022/01/02/indias-year-of-the-unicorn-startups-in-spotlight-of-2021-tech-boom)
+
+
+> A shopkeeper weighs vegetables at a grocery store where QR codes for Paytm (behind C), an Indian cellphone-based digital payment platform, are displayed in Mumbai. Overseas funds invested more than US$35bil in Indian startups in 2021 – a tripling from 2020, according to data compiled by Tracxn – buying into everything from fintech and health to gaming. — AFP MUMBAI: Sumit Gupta has had a big year – turning 30, getting married and seeing his startup become one of India's newest tech unicorns. Hampered by the coronavirus pandemic and too busy expanding and getting funding for his cryptocurrency platform CoinDCX, his team finally grabbed a few days on the beach in Goa to celebrate recently.
+
+
+***
+![Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones](https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/7/86/78678341-51da-5105-bf06-ed66ba2c0046/61c4b94424d3e.preview.jpg?crop=1828%2C960%2C0%2C86&resize=1200%2C630&order=crop%2Cresize "Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones")
+
+
+[Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones](https://journalstar.com/lifestyles/technology/gadget-roundup-a-screen-free-toy-robot-vacuum-and-studio-quality-usb-microphones/article_78678341-51da-5105-bf06-ed66ba2c0046.html)
+
+
+> Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones The splash-proof Jooki Children's Speaker runs for eight hours before needing a USB charge and has 5GB of internal memory. (Jooki/TNS) Jooki Limiting screen time can be a perplexing chore, and that's where a toy like the Jooki player scores. It's pretty straightforward — kids need only a figurine or token to play it.Setup is simple, including programming tokens and figurines. Adults can program these with the Jooki app (available on iOS and Android) to pair each with Spotify playlists, stories or MP3 files.
+
+
+***
+![Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones](https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/7/20/720d0b0a-11fd-5f25-a0fa-927ee39085e2/61c4b927876d2.preview.jpg?crop=1828%2C960%2C0%2C86&resize=1200%2C630&order=crop%2Cresize "Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones")
+
+
+[Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones](https://qctimes.com/lifestyles/technology/gadget-roundup-a-screen-free-toy-robot-vacuum-and-studio-quality-usb-microphones/article_720d0b0a-11fd-5f25-a0fa-927ee39085e2.html)
+
+
+> Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones The splash-proof Jooki Children's Speaker runs for eight hours before needing a USB charge and has 5GB of internal memory. (Jooki/TNS) Jooki Limiting screen time can be a perplexing chore, and that's where a toy like the Jooki player scores. It's pretty straightforward — kids need only a figurine or token to play it.Setup is simple, including programming tokens and figurines. Adults can program these with the Jooki app (available on iOS and Android) to pair each with Spotify playlists, stories or MP3 files.
+
+
+***
+![DOSBox-X version 0.83.21 released (cross-platform DOS & PC-98 emulator) : programming](https://external-preview.redd.it/abIP0reqoBPsjcqbZZzNrIbr-ubnuuv7ksmyYUni6vI.jpg?auto=webp&s=935fbabb21828793e37f8b15ecd9ff624a11ced1 "DOSBox-X version 0.83.21 released (cross-platform DOS & PC-98 emulator) : programming")
+
+
+[DOSBox-X version 0.83.21 released (cross-platform DOS & PC-98 emulator) : programming](https://www.reddit.com/r/programming/comments/ru0tq6/dosboxx_version_08321_released_crossplatform_dos)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones](https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/b/2f/b2f62723-1753-599f-b4ab-0ebcc5cbc235/61c4b9bb1fef4.preview.jpg?crop=1828%2C960%2C0%2C86&resize=1200%2C630&order=crop%2Cresize "Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones")
+
+
+[Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones](https://billingsgazette.com/lifestyles/technology/gadget-roundup-a-screen-free-toy-robot-vacuum-and-studio-quality-usb-microphones/article_b2f62723-1753-599f-b4ab-0ebcc5cbc235.html)
+
+
+> Gadget roundup: A screen-free toy, robot vacuum and studio-quality USB microphones The splash-proof Jooki Children's Speaker runs for eight hours before needing a USB charge and has 5GB of internal memory. (Jooki/TNS) Jooki Limiting screen time can be a perplexing chore, and that's where a toy like the Jooki player scores. It's pretty straightforward — kids need only a figurine or token to play it.Setup is simple, including programming tokens and figurines. Adults can program these with the Jooki app (available on iOS and Android) to pair each with Spotify playlists, stories or MP3 files.
+
+
