@@ -41957,3 +41957,53 @@
 > A Verizon crew updates a cell tower to handle the 5G network in Orem, Utah in December 2019. US authorities have asked telecom operators AT&T and Verizon to delay for up to two weeks their already postponed rollout of 5G networks amid uncertainty about interference with vital flight safety equipment. The two companies said Saturday they are reviewing the request. The US rollout of the high-speed mobile broadband technology had been set for December 5, but was delayed to January 5 after aerospace giants Airbus and Boeing raised concerns about potential interference with the devices planes use to measure altitude.
 
 
+***
+![Battlefield 2042 now includes ads and product placement](https://www.gamereactor.eu/media/06/oficial_3490683b.jpg "Battlefield 2042 now includes ads and product placement")
+
+
+[Battlefield 2042 now includes ads and product placement](https://www.gamereactor.eu/battlefield-2042-now-includes-ads-and-product-placement/)
+
+
+> EA and DICE seem to have updated Battlefield 2042 during Christmas time. However, not with the type of content gamers may have asked for first and foremost, but advertising and product placement. This was discovered by, among others, Reddit users who noted that there are now advertising signs for the Logitech G502 mouse in the game.This type of product placement has existed before in Battlefield games and isn't really an issue, although judging from comments on social media, it seems that people would rather have seen the game get more love and content before the developers started spending time and work on advertising.
+
+
+***
+![How to Solve Google Chrome's Privacy Error Message](https://cdn.slashgear.com/wp-content/uploads/2022/01/chrome-browser-privacy-error.jpg "How to Solve Google Chrome's Privacy Error Message")
+
+
+[How to Solve Google Chrome's Privacy Error Message](https://www.slashgear.com/how-to-solve-google-chromes-privacy-error-message-02704887/)
+
+
+> Google Chrome, the company's web browser, comes with a number of built-in safety features, one of which is warning users when their connection isn't private. This is an important warning, as it helps keep users' information secure, but there are times it may show up in error — and, fortunately, Google has a list of troubleshooting methods to fix the problem. monticello/Shutterstock Chrome's privacy error typically shows up on a warning page that reads, 'Your connection is not private,' and it may also include additional details about privacy certificates, HSTS, or invalid names.
+
+
+***
+![This Hydrogen Fuel Breakthrough Sounds Sweet](https://cdn.slashgear.com/wp-content/uploads/2022/01/hydrogen-nanoparticles-breakthroug.jpg "This Hydrogen Fuel Breakthrough Sounds Sweet")
+
+
+[This Hydrogen Fuel Breakthrough Sounds Sweet](https://www.slashgear.com/this-hydrogen-fuel-breakthrough-sounds-sweet-02704881/)
+
+
+> Hydrogen-powered Fuel Cell Electric Vehicles (FCEVs) have something of a bad rap despite having some clear advantages over conventional EVs like those made by Tesla. In fact, Tesla CEO Elon Musk has variously called the technology 'mind-bogglingly stupid', 'a load of rubbish', and 'fool cells' (via CNBC). While Musk may have a vested interest in promoting Tesla's preferred battery-based EV technology, he is undoubtedly standing on some solid ground when it comes to questions over FCEV technology that have yet to be satisfactorily addressed.
+
+
+***
+![Apple provides insights into limitations of Bluetooth, feature set of AirPods 3](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-uite3ht17d3qokiucq4k6ha7u0-20191114094236.jpeg "Apple provides insights into limitations of Bluetooth, feature set of AirPods 3")
+
+
+[Apple provides insights into limitations of Bluetooth, feature set of AirPods 3](https://www.asianage.com/technology/gadgets/020122/apple-provides-insights-into-limitations-of-bluetooth-feature-set-of-airpods-3.html)
+
+
+> ANI Published : Jan 2, 2022, 3:36 pm IST Updated : Jan 2, 2022, 3:36 pm IST Apple in October introduced the redesigned third-generation AirPods Washington: American tech giant Apple's vice president of acoustics Gary Geaves recently provided some interesting insight into the limitations of Bluetooth and the feature set of the AirPods 3. Apple in October introduced the redesigned third-generation AirPods, which have an updated design, Adaptive EQ support, spatial audio, and other new features. To explain some of the design decisions Apple made with the AirPods 3, Apple's vice president of acoustics Gary Geaves appeared in an interview with an outlet and provided some interesting insight into the limitations of Bluetooth and the feature set of the AirPods 3, as per Mac Rumours.
+
+
+***
+![Purdue researchers create the world's whitest white paint](https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/4/01/401e3dce-141b-5a8b-827a-ecd1b40124b4/61d1c4feb332e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Purdue researchers create the world's whitest white paint")
+
+
+[Purdue researchers create the world's whitest white paint](https://siouxcityjournal.com/lifestyles/technology/purdue-researchers-create-the-worlds-whitest-white-paint/article_5c0c26eb-b518-5bc0-ae30-d04fe26d8af8.html)
+
+
+> WEST LAFAYETTE, Ind. (AP) — A new paint developed by researchers at Purdue University is the coolest — literally. When Xiulin Ruan, a professor of mechanical engineering at the school, and his graduate students began working on this project seven years ago, they didn't set out to invent a new paint color. Rather, they wanted to find a way to conserve energy and fight climate change. But what they found is that paint could do just that. And so Ruan and his team created the world's whitest paint — a title it recently earned in the Guinness World Records book, a never achieved status.
+
+
