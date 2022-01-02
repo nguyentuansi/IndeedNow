@@ -42007,3 +42007,23 @@
 > WEST LAFAYETTE, Ind. (AP) — A new paint developed by researchers at Purdue University is the coolest — literally. When Xiulin Ruan, a professor of mechanical engineering at the school, and his graduate students began working on this project seven years ago, they didn't set out to invent a new paint color. Rather, they wanted to find a way to conserve energy and fight climate change. But what they found is that paint could do just that. And so Ruan and his team created the world's whitest paint — a title it recently earned in the Guinness World Records book, a never achieved status.
 
 
+***
+![Dad in SG saddled with S$20,000 credit card bill after daughter's in-game spending spree on ‘Genshin Impact'](https://apicms.thestar.com.my/uploads/images/2022/01/03/1429303.jpeg "Dad in SG saddled with S$20,000 credit card bill after daughter's in-game spending spree on ‘Genshin Impact'")
+
+
+[Dad in SG saddled with S$20,000 credit card bill after daughter's in-game spending spree on ‘Genshin Impact'](https://www.thestar.com.my/tech/tech-news/2022/01/03/dad-in-sg-saddled-with-s20000-credit-card-bill-after-daughters-in-game-spending-spree-on-genshin-impact)
+
+
+> SINGAPORE: Lim Cheng Mong was puzzled when the bank called to tell him he had missed a payment of more than S$20,000 (RM61,936) in overdue credit card debt linked to 89 mysterious transactions under his name. 'At first I thought I was scammed, but the credit card company said these were all legitimate transactions and there was nothing it could do,' said Lim, 56, who works as a product manager in a German company. The billing trail led to his 18-year-old daughter's Grab account, which was tied to his credit card and meant to cover her transportation expenses.
+
+
+***
+![Google Sued For Defective Pixel 3 Phones](https://lawstreetmedia.com/wp-content/uploads/2019/11/google.jpg "Google Sued For Defective Pixel 3 Phones")
+
+
+[Google Sued For Defective Pixel 3 Phones](https://lawstreetmedia.com/news/tech/google-sued-for-defective-pixel-3-phones/)
+
+
+> On Tuesday in a putative class-action complaint filed in California's Santa Clara County Superior Court, plaintiff Nicholas Goglia sued Google alleging that it deceptively advertised its defective Pixel 3 phones and failed to honor its warranty. Goglia brought this putative class action on behalf of individuals 'who purchased first-generation Pixel 3 and Pixel 3 XL (collectively, ‘Pixel 3') smartphones.' The plaintiff asserted that the Pixel 3 is 'defective' because: '(1) the Pixel camera suffers from a malfunctioning autofocus feature, which causes the screen display to go black or the camera application to fail altogether; and (2) the Pixel's battery drains at an accelerated pace after a short period of normal use, causing the phone to overheat and/or prematurely shut off.
+
+
