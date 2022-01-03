@@ -42147,3 +42147,33 @@
 > Stardew Valley developer, Eric Barone, a.k.a. ConcernedApe, is busy creating his next game, Haunted Chocolatier. Being a solo dev, it wouldn't be too far-fetched to think that Barone would have his hands too full to be able to focus on two games at once. While he hasn't specifically come out and said that Stardew Valley will no longer receive updates, Barone has in the past admitted that it will be tougher to do so now. 'I'm not even saying if there's going to be another Stardew Valley update, I don't know at this point,' he said in an interview last year.
 
 
+***
+![Portronics launches smartwatch with calling feature in India](https://img.dtnext.in/Articles/2022/Jan/202201031445435265_Portronics-launches-smartwatch-with-calling-feature-in-India_SECVPF.gif "Portronics launches smartwatch with calling feature in India")
+
+
+[Portronics launches smartwatch with calling feature in India](https://www.dtnext.in/Lifestyle/Technology/2022/01/03144543/1337032/Portronics-launches-smartwatch-with-calling-feature-.vpf)
+
+
+> Consumer electronics company Portronics on Monday introduced 'Kronos Y1' wearable with smart calling feature for an introductory price of Rs 3,399 in India. New Delhi: Available in two colours black and grey, the device with 1.75-inch HD dynamic display and soft silicon wrist strap is backed with a 12-month warranty, the company said in a statement. The Portronics Kronos Y1 smartwatch comes with in-built Bluetooth 5.0 version, that will let you use the smart calling feature. Kronos Y1 also offers blood pressure and heart rate monitoring, along with oxygen (SPO2) levels.
+
+
+***
+![Feast Your Eyes on These Architectural Residential Drawings of the Past](https://cdnassets.hw.net/44/b5/92dfd700449db3c0dacefd7fbbcf/may-bthl.jpg "Feast Your Eyes on These Architectural Residential Drawings of the Past")
+
+
+[Feast Your Eyes on These Architectural Residential Drawings of the Past](https://www.architectmagazine.com/technology/feast-your-eyes-on-these-architectural-residential-drawings-of-the-past_o)
+
+
+> Technology Feast Your Eyes on These Architectural Residential Drawings of the Past Peruse detailed architectural drawings from the Building Technology Heritage Library's collection of catalogs from the 19th and 20th centuries. This post is part of a monthly series that explores the historical applications of building materials and systems through resources from the Building Technology Heritage Library (BTHL), an online collection of AEC catalogs, brochures, trade publications, and more. The BTHL is a project of the Association for Preservation Technology, an international building preservation organization.
+
+
+***
+![CES 2022: Samsung unveils 2022 lineup with Micro LED, Neo QLED TVs with significant improvements and features](https://static.toiimg.com/thumb/msid-88666509,width-1070,height-580,imgsize-174026,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "CES 2022: Samsung unveils 2022 lineup with Micro LED, Neo QLED TVs with significant improvements and features")
+
+
+[CES 2022: Samsung unveils 2022 lineup with Micro LED, Neo QLED TVs with significant improvements and features](https://timesofindia.indiatimes.com/gadgets-news/ces-2022-samsung-unveils-2022-lineup-with-micro-led-neo-qled-tvs-with-significant-improvements-and-features/articleshow/88666509.cms)
+
+
+> Ahead of CES 2022, Samsung has unveiled its new range of TVs. The 2022 TV lineup from the company claims to br... Read More Ahead of CES 2022 , Samsung has unveiled its new range of TVs. The 2022 TV lineup from the company claims to bring significant upgrades both in terms of viewing quality and features and along with add on bonuses. For starters, the Micro LED TVs from the company now feature 25 million micrometre-sized LEDs that claim to produce enhanced light and colours and contrast levels for an overall immersive experience.
+
+
