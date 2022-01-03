@@ -42227,3 +42227,20 @@
 > BSNL, a state-owned telecommunications service provider (TSP) is trying to come out with 4G using homegrown equipment and core.Once the trials are successfully completed and the tech's Proof-of-Concept (PoC) is generated, it would become easy for BSNL to rollout 4G within 10 months.BSNL can market its network services as ‘Made in India' with all the future generation networks.Bharat Sanchar Nigam Limited (BSNL), a state-owned telecommunications service provider (TSP), is trying to come out with 4G using homegrown equipment and core.
 
 
+***
+[CES 2022：三星遥控器WiFi无线充电](http://news.zol.com.cn/784/7843520.html)
+
+
+> No body in the article.
+
+
+***
+![CES gadget show back in Vegas, but warily amid COVID-19](https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/7/80/7806a835-52d5-5f43-9e01-493524ef50e0/61d32f5874454.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "CES gadget show back in Vegas, but warily amid COVID-19")
+
+
+[CES gadget show back in Vegas, but warily amid COVID-19](https://siouxcityjournal.com/lifestyles/technology/ces-gadget-show-back-in-vegas-but-warily-amid-covid-19/article_7806a835-52d5-5f43-9e01-493524ef50e0.html)
+
+
+> Despite high-profile attendees like Amazon, Google and Intel pulling out of in-person presentations at the CES technology conference, the show is scheduled to go on. So, what can we expect? Is anyone going to CES this year?A long-simmering question in the tech world will finally get its answer as the influential gadget show returns to the Las Vegas Strip after a hiatus caused by the COVID-19 pandemic."We know it will be a smaller show this year, for obvious reasons," said Jean Foster, senior vice president at the Consumer Technology Association, the event's organizer.
+
+
