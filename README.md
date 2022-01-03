@@ -42177,3 +42177,53 @@
 > Ahead of CES 2022, Samsung has unveiled its new range of TVs. The 2022 TV lineup from the company claims to br... Read More Ahead of CES 2022 , Samsung has unveiled its new range of TVs. The 2022 TV lineup from the company claims to bring significant upgrades both in terms of viewing quality and features and along with add on bonuses. For starters, the Micro LED TVs from the company now feature 25 million micrometre-sized LEDs that claim to produce enhanced light and colours and contrast levels for an overall immersive experience.
 
 
+***
+![If you think this Mansory G63 P900 looks wild, wait until you see the interior](https://cdn.slashgear.com/wp-content/uploads/2022/01/mansory-amg-g63-p900-limited-edition-50th-uae-3.jpg "If you think this Mansory G63 P900 looks wild, wait until you see the interior")
+
+
+[If you think this Mansory G63 P900 looks wild, wait until you see the interior](https://www.slashgear.com/if-you-think-this-mansory-g63-p900-looks-wild-wait-until-you-see-the-interior-03704952/)
+
+
+> German tuning house Mansory has a knack for the extreme, and it applies to both styling and performance. However, Mansory has outdone itself with its latest creation for the 50th founding anniversary of the United Arab Emirates (U.A.E.). Photo Credit: Mansory Design & Holding GmbH Folks, meet the Mercedes-AMG G63 P900 Limited Edition 50th U.A.E. by Mansory,the wild two-tone paint job takes a moment for your senses to digest. If you think the purple and black exterior scheme is a bit too bold, wait until you see the interior color scheme.
+
+
+***
+![Using Your Android Device to Make Money with Bitcoin](https://allindiaroundup.com/wp-content/uploads/2022/01/Screenshot-2022-01-03-at-9.12.31-PM.png "Using Your Android Device to Make Money with Bitcoin")
+
+
+[Using Your Android Device to Make Money with Bitcoin](https://allindiaroundup.com/tech/using-your-android-device-to-make-money-with-bitcoin/)
+
+
+> Mobile developers have discovered various ways to help people make money with crypto. Here are ways you can use your android device to make money with Bitcoin.  Like cryptocurrencies, mobile devices have rapidly gained immense global popularity. Unlike computers, android-enabled devices allow users to perform a wide range of tasks with the utmost convenience. Thanks to new technologies in mobile applications, developers have discovered robust ways for investors, businesses, and individuals to make money right from their android devices.
+
+
+***
+![AirPods Pro 2 rumored to feature lossless audio support](https://cdn.slashgear.com/wp-content/uploads/2022/01/apple-airpods-pro-17.jpg "AirPods Pro 2 rumored to feature lossless audio support")
+
+
+[AirPods Pro 2 rumored to feature lossless audio support](https://www.slashgear.com/airpods-pro-2-rumored-to-feature-lossless-audio-support-03704930/)
+
+
+> It's really amazing how far Bluetooth earphones have come in so short a time, in no small part thanks to Apple. The iPhone maker's push to banish headphone jacks from mobile devices pushed wireless audio technology to quickly evolve in just a span of four years or so. As iconic as they may be, the AirPods don't actually support the best audio technologies that Apple has to offer. The next-gen AirPods Pro, however, could nab one Holy Grail of music streaming, but Apple will have to first overcome significant hurdles to make that happen.
+
+
+***
+![Kohler Power Reserve takes on Tesla Powerwall with modular home battery](https://cdn.slashgear.com/wp-content/uploads/2022/01/KOHLER-Power-Reserve_2.jpg "Kohler Power Reserve takes on Tesla Powerwall with modular home battery")
+
+
+[Kohler Power Reserve takes on Tesla Powerwall with modular home battery](https://www.slashgear.com/kohler-power-reserve-takes-on-tesla-powerwall-with-modular-home-battery-03704945/)
+
+
+> Power outages, freak weather events, and a crumbling grid have led many in the US to question just how reliable their electricity supply is, and Kohler may have just the home storage battery system to settle some of those fears. While the brand may be most commonly associated with faucets and the like, the Power Reserve Energy Storage System being shown off at CES 2022 sees it branch out into Tesla Powerwall territory. Source: Kohler You can think of such systems as akin to a portable power bank that you might use to top up a smartphone on the move, only with much bigger capacities and being designed for pro-installation in the home.
+
+
+***
+![BSNL's Homegrown 4G Would Lead to Indigenous 5G Too](https://telecomtalk.info/wp-content/uploads/2022/01/bsnl-homegrown-4g-would-lead-to-indigenous.jpeg "BSNL's Homegrown 4G Would Lead to Indigenous 5G Too")
+
+
+[BSNL's Homegrown 4G Would Lead to Indigenous 5G Too](https://telecomtalk.info/bsnl-homegrown-4g-would-lead-to-indigenous/489541/)
+
+
+> BSNL, a state-owned telecommunications service provider (TSP) is trying to come out with 4G using homegrown equipment and core.Once the trials are successfully completed and the tech's Proof-of-Concept (PoC) is generated, it would become easy for BSNL to rollout 4G within 10 months.BSNL can market its network services as ‘Made in India' with all the future generation networks.Bharat Sanchar Nigam Limited (BSNL), a state-owned telecommunications service provider (TSP), is trying to come out with 4G using homegrown equipment and core.
+
+
