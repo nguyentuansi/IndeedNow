@@ -42027,3 +42027,43 @@
 > On Tuesday in a putative class-action complaint filed in California's Santa Clara County Superior Court, plaintiff Nicholas Goglia sued Google alleging that it deceptively advertised its defective Pixel 3 phones and failed to honor its warranty. Goglia brought this putative class action on behalf of individuals 'who purchased first-generation Pixel 3 and Pixel 3 XL (collectively, ‘Pixel 3') smartphones.' The plaintiff asserted that the Pixel 3 is 'defective' because: '(1) the Pixel camera suffers from a malfunctioning autofocus feature, which causes the screen display to go black or the camera application to fail altogether; and (2) the Pixel's battery drains at an accelerated pace after a short period of normal use, causing the phone to overheat and/or prematurely shut off.
 
 
+***
+![What you need to know about MagSafe charging, the new iPhone feature](https://bloximages.chicago2.vip.townnews.com/muscatinejournal.com/content/tncms/assets/v3/editorial/1/e6/1e6a6a4f-332a-5fd0-ba79-e8a5eeb3424e/61cca232617aa.preview.jpg?crop=428%2C428%2C32%2C0&resize=200%2C200&order=crop%2Cresize "What you need to know about MagSafe charging, the new iPhone feature")
+
+
+[What you need to know about MagSafe charging, the new iPhone feature](https://muscatinejournal.com/lifestyles/technology/what-you-need-to-know-about-magsafe-charging-the-new-iphone-feature/article_1e6a6a4f-332a-5fd0-ba79-e8a5eeb3424e.html)
+
+
+> What you need to know about MagSafe charging, the new iPhone feature MyCharge has a new set of MagSafe Mag-Lock magnetic wireless power bank chargers. MyCharge Everyone wants their new MagSafe-compatible iPhones charged and ready to use 24/7. But keeping the cords and plugs, along with having to carry an iPhone around with a cable connected to a battery, isn't the most efficient setup. Many iPhone 12 and iPhone 13 users aren't aware of Apple's MagSafe charging technology. It's already there; you have to use it.
+
+
+***
+![Apple 2022 predictions: new AirPods, Macs and iPhones with hole-punch displays](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/woman-g1705bf1a2_1280.jpg "Apple 2022 predictions: new AirPods, Macs and iPhones with hole-punch displays")
+
+
+[Apple 2022 predictions: new AirPods, Macs and iPhones with hole-punch displays](https://siliconangle.com/2022/01/02/apple-2022-predictions-new-airpods-macs-iphones-hole-punch-displays/)
+
+
+> Apple Inc. will release a range of new products in the year ahead, including updated AirPod earphones, Macs and iPhones with hole-punch displays, according to some of the best-known Apple watchers. Leading the pack is famed Apple analyst Ming-Chi Kuo. His first prediction of the year is the latest AirPods release. Kuo predicts that Apple will launch AirPods Pro 2 in the fourth quarter with a new form factor. The new release will include support for the Apple Lossless format and a charging case that can emit a sound for users to track it.
+
+
+***
+![The EV carmakers wary of going ‘all in' on batteries](https://static.ffx.io/images/$zoom_0.2648%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/77c60c51ac2781aa220ac1c647545583b63a57e4 "The EV carmakers wary of going ‘all in' on batteries")
+
+
+[The EV carmakers wary of going ‘all in' on batteries](https://www.afr.com/technology/the-carmakers-wary-of-going-all-in-on-batteries-20220103-p59lgq)
+
+
+> Currently, electric vehicles account for just 1 per cent of sales outside of Europe, China and the US, according to Bernstein, and countries with patchy power grids will take much, much longer to catch up.This could lead, they believe, to a two-tier world where richer countries have transitioned to electric cars but consumers in large parts of the developing world are left driving dirty older cars, or being priced out of private car ownership altogether.The companies more cautious about EVs also believe that the way the transition in the car industry is handled could have a big impact on the climate.
+
+
+***
+![AIMMO bags $12M Series A to advance data labeling technology – TechCrunch](https://techcrunch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-02-at-10.34.59-PM.png?w=697 "AIMMO bags $12M Series A to advance data labeling technology – TechCrunch")
+
+
+[AIMMO bags $12M Series A to advance data labeling technology – TechCrunch](https://techcrunch.com/2022/01/02/aimmo-grabs-12m-series-a-to-advance-data-labeling-technology/)
+
+
+> Most artificial intelligence models are trained through supervised learning, meaning that humans must label raw data. Data labeling is a critical part of automating artificial intelligence and machine learning model, but at the same time, it can be time-consuming and tedious work. A Korean startup called AIMMO, which uses software and humans to label and categorize image, video, sound, text and sensor fusion data, built an AI data annotation platform, enabling the data labeling faster for enterprises.
+
+
