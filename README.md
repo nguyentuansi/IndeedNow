@@ -42117,3 +42117,33 @@
 > Researchers have created a new component that will efficiently allow access to highest 5G frequencies in a way that increases battery life of smartphones and speeds up how quickly we stream HD content. Smartphones are loaded with switches that perform a number of duties. One major task is jumping between networks and spectrum frequencies: 4G, Wi-Fi, LTE, Bluetooth, etc. The current radio-frequency (RF) switches that perform this task are always running, consuming precious processing power and battery life.
 
 
+***
+![WhatsApp bans over 1.75 million Indian accounts](https://apicms.thestar.com.my/uploads/images/2022/01/03/1429690.jpeg "WhatsApp bans over 1.75 million Indian accounts")
+
+
+[WhatsApp bans over 1.75 million Indian accounts](https://www.thestar.com.my/tech/tech-news/2022/01/03/whatsapp-bans-over-175-million-indian-accounts)
+
+
+> Last November, the messenger service provider received 602 reports about user violations of its terms of service. — Photo by Mourizal Zativa on Unsplash MUMBAI: US-based messenger platform WhatsApp banned over 1.75 million Indian accounts in November last year for allegedly abusing its service, the company said in its sixth user safety monthly report on Jan 2. These Indian accounts were removed on complaints received from other users via the company's abuse detection mechanism that monitored user activities on the platform.
+
+
+***
+![Autonomous car developers lobby to defang US safety data regulations](https://apicms.thestar.com.my/uploads/images/2022/01/03/1429567.jpg "Autonomous car developers lobby to defang US safety data regulations")
+
+
+[Autonomous car developers lobby to defang US safety data regulations](https://www.thestar.com.my/tech/tech-news/2022/01/03/autonomous-car-developers-lobby-to-defang-us-safety-data-regulations)
+
+
+> The fast-rising autonomous vehicle industry is lobbying US federal safety regulators to limit the amount of data companies must report every time their cars crash, arguing that the current requirements get in the way of innovation that will benefit the public. The industry's efforts to make driving safer and more accessible are at risk of being 'drowned out by misinformation, inflation or dubious data without context' under reporting rules issued last summer by the US National Highway Traffic Safety Administration, says Ariel Wolf, general counsel for the industry lobbying group Self-Driving Coalition for Safer Streets.
+
+
+***
+!["There's Always Room For Improvement" Says Stardew Valley Dev On Future Updates](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/01/stardew-valley.jpg ""There's Always Room For Improvement" Says Stardew Valley Dev On Future Updates")
+
+
+["There's Always Room For Improvement" Says Stardew Valley Dev On Future Updates](https://www.thegamer.com/stardew-valley-concernedape-future-updates/)
+
+
+> Stardew Valley developer, Eric Barone, a.k.a. ConcernedApe, is busy creating his next game, Haunted Chocolatier. Being a solo dev, it wouldn't be too far-fetched to think that Barone would have his hands too full to be able to focus on two games at once. While he hasn't specifically come out and said that Stardew Valley will no longer receive updates, Barone has in the past admitted that it will be tougher to do so now. 'I'm not even saying if there's going to be another Stardew Valley update, I don't know at this point,' he said in an interview last year.
+
+
