@@ -42067,3 +42067,53 @@
 > Most artificial intelligence models are trained through supervised learning, meaning that humans must label raw data. Data labeling is a critical part of automating artificial intelligence and machine learning model, but at the same time, it can be time-consuming and tedious work. A Korean startup called AIMMO, which uses software and humans to label and categorize image, video, sound, text and sensor fusion data, built an AI data annotation platform, enabling the data labeling faster for enterprises.
 
 
+***
+![The 10 richest people added more than US$400bil to their worth in 2021](https://apicms.thestar.com.my/uploads/images/2022/01/03/1429468.jpeg "The 10 richest people added more than US$400bil to their worth in 2021")
+
+
+[The 10 richest people added more than US$400bil to their worth in 2021](https://www.thestar.com.my/tech/tech-news/2022/01/03/the-10-richest-people-added-more-than-us400bil-to-their-worth-in-2021)
+
+
+> Musk and his son X Æ A-12 on stage for the Time Person of the Year award on Dec 13, 2021 in New York City. Musk's US$121bil (RM504.69bil) gain was smaller than the US$140bil (RM583.94bil) he made in 2020, but was more than enough to make him the richest person alive by a long shot. — Getty Images for Time/TNS It's never a bad time to be a billionaire, but this is an especially good time to have a 10-figure bank statement. The 10 richest people in the world added US$402bil (RM1.67 trillion) to their already enormous fortunes in 2021.
+
+
+***
+![Study: Malaysian students burning out online](https://apicms.thestar.com.my/uploads/images/2022/01/01/1428048.jpg "Study: Malaysian students burning out online")
+
+
+[Study: Malaysian students burning out online](https://www.thestar.com.my/tech/tech-news/2022/01/03/study-malaysian-students-burning-out-online)
+
+
+> Malaysian children, especially teenagers, are becoming anxious and depressed from spending too much time online with classes and socialising limited mostly there, a new study finds. The 'Life under Covid-19 for children online: Values & Challenges' survey by local telco Digi polled 1,746 students aged below 21 nationwide to measure their digital wellbeing and gauge how they were coping with the new normal. Asked about their attitude towards online classes, three of the four top replies were negative: 39% said they were worried about grades and exams, 31% were stressed about not being able to follow online classes, and 26% felt demotivated to study.
+
+
+***
+![apple: What Apple may be planning for Mac users in 2022](https://static.toiimg.com/thumb/msid-88657654,width-1070,height-580,imgsize-87464,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "apple: What Apple may be planning for Mac users in 2022")
+
+
+[apple: What Apple may be planning for Mac users in 2022](https://timesofindia.indiatimes.com/gadgets-news/what-apple-may-be-planning-for-mac-users-in-2022/articleshow/88657654.cms)
+
+
+> New Mac Pros, new processors New MacBook Air , MacBook Pro Back in November 2020, Apple announced its first silicon processor called the M1. That was the start of Apple ‘breaking' away from Intel processors and the roadmap was to have its own processors in the entire Mac line up. Now, according to Bloomberg's Mark Gurman, Apple is on track to shift from Intel to M1 processors by June 2022, right in time for WWDC . Also, there could be many new Mac models that could arrive in 2022, including an "entry-level" MacBook Pro.
+
+
+***
+![The Xiaomi 12 Pro's main camera is absolutely massive](http://www.businessghana.com/site/img/../../cms/img/news/2021-12-31-1248121.jpg "The Xiaomi 12 Pro's main camera is absolutely massive")
+
+
+[The Xiaomi 12 Pro's main camera is absolutely massive](http://www.businessghana.com/site/news/Technology/253744/The-Xiaomi-12-Pro%E2%80%99s-main-camera-is-absolutely-massive)
+
+
+> Xiaomi is at it again — putting another fantastically huge camera on a flagship phone. This time, it's the Xiaomi 12 Pro with a 50-megapixel main sensor and f/1.9 standard wide lens. It's not the very biggest sensor Xiaomi has used in a phone, but the combination of a wide aperture lens and sizable imaging chip makes it... well, just look at the thing. On the technical side, it's a Sony IMX707 chip, which Xiaomi says it's the first to use in a mobile device. Gizmochina points out that the 707 appears to be a very light refresh of the IMX700, which makes that claim a little less exciting.
+
+
+***
+![New 5G switches offer better battery, speed for smartphones](https://chennaionline.com/wp-content/uploads/2019/09/favicon.png "New 5G switches offer better battery, speed for smartphones")
+
+
+[New 5G switches offer better battery, speed for smartphones](https://chennaionline.com/technology/new-5g-switches-offer-better-battery-speed-for-smartphones/)
+
+
+> Researchers have created a new component that will efficiently allow access to highest 5G frequencies in a way that increases battery life of smartphones and speeds up how quickly we stream HD content. Smartphones are loaded with switches that perform a number of duties. One major task is jumping between networks and spectrum frequencies: 4G, Wi-Fi, LTE, Bluetooth, etc. The current radio-frequency (RF) switches that perform this task are always running, consuming precious processing power and battery life.
+
+
