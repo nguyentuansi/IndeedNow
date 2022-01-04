@@ -42385,3 +42385,43 @@
 > No body in the article.
 
 
+***
+![2022 Razer Blade gaming laptop refresh scores bigger keys, laser-cut speakers](https://cdn.slashgear.com/wp-content/uploads/2022/01/razerblade2022.jpg "2022 Razer Blade gaming laptop refresh scores bigger keys, laser-cut speakers")
+
+
+[2022 Razer Blade gaming laptop refresh scores bigger keys, laser-cut speakers](https://www.slashgear.com/2022-razer-blade-gaming-laptop-refresh-scores-bigger-keys-laser-cut-speakers-04704233/)
+
+
+> The bigger keys are here at last! Razer appeared this week at CES 2022 to deliver new versions of their Razer Blade laptop series, bringing new larger keyboard keys, more powerful processors, and the newest in new graphics power. The Razer Blade 14, 15, and 17 all have a newly fitted hinge and a number of new ways to remain cool. Razer The 2022 model Razer Blade gaming laptop series has what Razer described as 'additional ventilation with well-designed rubber feet' that add 'convenient cooling airways.
+
+
+***
+![Ford F-150 Lightning production surges: When the EV truck orders open](https://cdn.slashgear.com/wp-content/uploads/2022/01/2022-ford-f-150-lightning-1.jpg "Ford F-150 Lightning production surges: When the EV truck orders open")
+
+
+[Ford F-150 Lightning production surges: When the EV truck orders open](https://www.slashgear.com/ford-f-150-lightning-production-surges-when-the-ev-truck-orders-open-04705273/)
+
+
+> Ford will throw open the order books to the 2022 F-150 Lightning later this week, announcing plans to almost double annual production of the all-electric pickup as it races to convert reservations into sales. Demand for the EV truck surged beyond even what ambitious estimates envisaged, with nearly 200,000 now having placed a refundable deposit to stake a place in the build line. Source: Ford While outsized demand is unarguably a nice problem to have, it also leaves Ford facing a not-insignificant challenge.
+
+
+***
+![Surface Duo skipping Android 12 may be blessing in disguise](https://cdn.slashgear.com/wp-content/uploads/2022/01/surface-duo-2.jpg "Surface Duo skipping Android 12 may be blessing in disguise")
+
+
+[Surface Duo skipping Android 12 may be blessing in disguise](https://www.slashgear.com/surface-duo-skipping-android-12-may-be-blessing-in-disguise-04705214/)
+
+
+> As innovative as the Surface Duo might have been, it received mostly negative feedback, thanks mostly to its software. While Microsoft addressed many of the hardware disappoints with the Surface Duo 2, the software experience still left a lot to be desired. The company received a lot of flak for the delay of the long-overdue Android 11 for the original Surface Duo, but now it seems that they will have to wait even longer for the next update after that. Image Credit: Microsoft The Surface Duo launched at the worst possible time when a dual-screen foldable was probably the last thing in most people's minds.
+
+
+***
+![Masonite M-Pwr all-in-one smart door has video doorbell, smart lock, and battery](https://cdn.slashgear.com/wp-content/uploads/2022/01/fbfe360ff34e80486bf8c997bde7ad6a.jpg "Masonite M-Pwr all-in-one smart door has video doorbell, smart lock, and battery")
+
+
+[Masonite M-Pwr all-in-one smart door has video doorbell, smart lock, and battery](https://www.slashgear.com/masonite-m-pwr-all-in-one-smart-door-has-video-doorbell-smart-lock-and-battery-04705259/)
+
+
+> CES is the largest variety show for a series of smart — and often unexpected — tech products. While it is not unusual to witness smart locks being showcased at the tech gala, Masonite is showcasing an entire smart door at CES 2022. The Masonite M-Pwr smart door comes with an integrated smart doorbell with a camera, inbuilt lights, and emergency power backup. Image: Masonite The smart door incorporates products from multiple partner companies. The video doorbell is made by the home security and automation company, Ring, whereas the smart locks are sourced from Yale Home, a 180-years-old lock company.
+
+
