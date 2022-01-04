@@ -42351,3 +42351,37 @@
 > Xiaomi 12 and Xiaomi 12 Pro are likely to be launched in India early April. Both the smartphones were introduced in China late December. Interestingly, Xiaomi is planning to introduce both these flagship phones in global markets first. According to leaker Mukul Sharma, Xiaomi 12 and Xiaomi 12 Pro can be introduced in the global markets in March 2022. He adds that Xiaomi can launch these devices in India in April too. The leak is believable as Xiaomi followed a similar strategy last year. The Mi 11 series was introduced globally in March 2021 and was brought to India in April 2021.
 
 
+***
+![India's digital loan sharks face crackdown as complaints mount](https://apicms.thestar.com.my/uploads/images/2022/01/04/1430737.jpg "India's digital loan sharks face crackdown as complaints mount")
+
+
+[India's digital loan sharks face crackdown as complaints mount](https://www.thestar.com.my/tech/tech-news/2022/01/04/indias-digital-loan-sharks-face-crackdown-as-complaints-mount)
+
+
+> When V. Rajapandian was pushed out of his job at a heat treatment plant in India, the reason had nothing to do with performance or falling revenue. Instead, his boss offered a peculiar explanation: After Rajapandian defaulted on a loan from a mobile app, recovery agents demanded the plant pay on his behalf. "I lost my job because of them,' Rajapandian said of CASHe, the app he used to secure a US$132 (RM551.89) loan. "I constantly live with the fear that they will track me down and harass me.' As digital lending explodes across India and other developing economies, Rajapandian's ordeal has become increasingly common.
+
+
+***
+![CES 2022 laptops: Acer announces Aspire Vero National Geographic Edition laptop made from recycled materials](https://static.toiimg.com/thumb/msid-88689940,width-1070,height-580,imgsize-11836,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "CES 2022 laptops: Acer announces Aspire Vero National Geographic Edition laptop made from recycled materials")
+
+
+[CES 2022 laptops: Acer announces Aspire Vero National Geographic Edition laptop made from recycled materials](https://timesofindia.indiatimes.com/gadgets-news/acer-announces-aspire-vero-national-geographic-edition-laptop-made-from-recycled-materials/articleshow/88689940.cms)
+
+
+> Expanding its green and sustainable PC Aspire Vero lineup, Acer has announced the National Geographic Edition ... Read More Expanding its green and sustainable PC Aspire Vero lineup, Acer has announced the National Geographic Edition of the laptop at CES 2022. The new Acer Aspire Vero National Geographic Edition laptop incorporates design elements evocative of planet Earth. The company also says that each purchase of the Vero laptops helps support the U.S.-based global nonprofit National Geographic Society in its work to protect our world through exploration, research, and education.
+
+
+***
+[Caveonix listed as a Representative Vendor in Gartner&apos;s Market Guide for Cloud Workload Protection Platforms (CWPP)](http://www.businesswire.com/news/home/20220104005190/en/Caveonix-listed-as-a-Representative-Vendor-in-Gartners-Market-Guide-for-Cloud-Workload-Protection-Platforms-CWPP/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
+***
+[Drift Integration with the ON24 Platform Helps Customers Increase Engagement and Maximize Revenue](http://www.businesswire.com/news/home/20220104005356/en/Drift-Integration-with-the-ON24-Platform-Helps-Customers-Increase-Engagement-and-Maximize-Revenue/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
