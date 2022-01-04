@@ -42425,3 +42425,23 @@
 > CES is the largest variety show for a series of smart — and often unexpected — tech products. While it is not unusual to witness smart locks being showcased at the tech gala, Masonite is showcasing an entire smart door at CES 2022. The Masonite M-Pwr smart door comes with an integrated smart doorbell with a camera, inbuilt lights, and emergency power backup. Image: Masonite The smart door incorporates products from multiple partner companies. The video doorbell is made by the home security and automation company, Ring, whereas the smart locks are sourced from Yale Home, a 180-years-old lock company.
 
 
+***
+![Lenovo ThinkPad Z13 and Z16 pair AMD Ryzen with extra green-cred](https://cdn.slashgear.com/wp-content/uploads/2022/01/04_ThinkPad_Z13_Hero_Rear_Facing_Left.jpg "Lenovo ThinkPad Z13 and Z16 pair AMD Ryzen with extra green-cred")
+
+
+[Lenovo ThinkPad Z13 and Z16 pair AMD Ryzen with extra green-cred](https://www.slashgear.com/lenovo-thinkpad-z13-and-z16-pair-amd-ryzen-with-extra-green-cred-04705298/)
+
+
+> Lenovo's ThinkPad line is expanding, with CES 2022 bringing the ThinkPad Z13 and Z16 in an attempt to coax newbies to the series into adding the Windows laptops to their bag. Along with the familiar ThinkPad features like the TrackPoint nubbin and ever-popular keyboard, the Z Series is also Lenovo's first ThinkPad range to lean into sustainable materials. Source: Lenovo In the case of the Arctic Grey and Black models, for example, Lenovo has used recycled aluminum for the casing. There's also recycled black vegan leather, while the AC power adapter is made from 90-percent post-consumer content.
+
+
+***
+![Hyundai refutes claim of move to EV-only](https://cdn.slashgear.com/wp-content/uploads/2022/01/hyundai-elantra-n-track.jpg "Hyundai refutes claim of move to EV-only")
+
+
+[Hyundai refutes claim of move to EV-only](https://www.slashgear.com/hyundai-refutes-claim-of-move-to-ev-only-04705226/)
+
+
+> Last week a report surfaced that started with a Korean publication called the Korea Economic Daily claiming that Korean automaker Hyundai had abandoned the development of new internal combustion engines (ICE). According to that report, Hyundai was abandoning the development of ICE as part of its transition to become a completely electric vehicle manufacturer. Most automakers will transition to selling only electric vehicles at some point in the future. Via Hyundai While Hyundai does have pure electric vehicles on the market today, the vast majority of the cars and SUVs it currently sells use internal combustion engines.
+
+
