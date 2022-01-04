@@ -42244,3 +42244,53 @@
 > Despite high-profile attendees like Amazon, Google and Intel pulling out of in-person presentations at the CES technology conference, the show is scheduled to go on. So, what can we expect? Is anyone going to CES this year?A long-simmering question in the tech world will finally get its answer as the influential gadget show returns to the Las Vegas Strip after a hiatus caused by the COVID-19 pandemic."We know it will be a smaller show this year, for obvious reasons," said Jean Foster, senior vice president at the Consumer Technology Association, the event's organizer.
 
 
+***
+![Targus launches Cypress Hero backpack with built-in Apple Find My tracker](https://cdn.slashgear.com/wp-content/uploads/2022/01/targus-find-my-backpack.jpg "Targus launches Cypress Hero backpack with built-in Apple Find My tracker")
+
+
+[Targus launches Cypress Hero backpack with built-in Apple Find My tracker](https://www.slashgear.com/targus-launches-cypress-hero-backpack-with-built-in-apple-find-my-tracker-03705123/)
+
+
+> Targus, the company arguably best known for its tech backpacks and other bags, has introduced a bunch of new products for CES 2022, including two that are particularly notable: the Cypress Hero Backpack with Apple Find My tech and the new DOCK720 hybrid dock with USB-C connectivity. Each model is exciting in its own way, offering everything from location tracking for Apple users to 8K display support. Targus Targus Cypress Hero backpack Targus Targus claims its new Cypress Hero backpack, the latest installment in the company's Cypress with EcoSmart product family, is the first backpack of its kind to offer Apple Find My tracking tech as an integrated feature.
+
+
+***
+![Bridging the digital divide: Everybody is gunning for the metavers](https://img.dtnext.in/Articles/2022/Jan/202201040020317200_Bridging-the-digital-divide-Everybody-is-gunning-for-the_SECVPF.gif "Bridging the digital divide: Everybody is gunning for the metavers")
+
+
+[Bridging the digital divide: Everybody is gunning for the metavers](https://www.dtnext.in/Lifestyle/Technology/2022/01/04002035/1337076/Bridging-the-digital-divide-Everybody-is-gunning-for-.vpf)
+
+
+> Published: Jan 04,202206:45 AM by ?CADE METZ Some of the biggest technology companies in the world are joining computer game developers and start-ups in pursuit of an immersive digital world that some have been working on for years. And virtual reality is finally beckoning Big Tech San Francisco: The metaverse, one of the most buzzy terms of the tech industry, could be many things. It could be a virtual world where imagination is the only limit. Or it could be a less fantastical place for holding business meetings without leaving home.
+
+
+***
+![Erick Harper Selected to Lead UNLV Athletics](https://www.unlv.edu/themes/custom/mars/favicon.ico "Erick Harper Selected to Lead UNLV Athletics")
+
+
+[Erick Harper Selected to Lead UNLV Athletics](https://www.unlv.edu/news/release/erick-harper-selected-lead-unlv-athletics)
+
+
+> UNLV President Keith E. Whitfield has selected Erick Harper as UNLV's next athletics director, effective Jan. 1, 2022. Harper, a longtime university athletics administrator who has served as interim UNLV athletics director since August, was selected to continue in the position permanently following a national search this fall. 'Erick has a strong track record in intercollegiate athletics and tremendous passion for our university, our student-athletes, and our coaches,' said UNLV President Keith E.
+
+
+***
+![Jury reaches verdict in Theranos founder Elizabeth Holmes's trial](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D4M2VPDMZYI6ZMPCAU45VD2EKE.jpg&w=1440 "Jury reaches verdict in Theranos founder Elizabeth Holmes's trial")
+
+
+[Jury reaches verdict in Theranos founder Elizabeth Holmes's trial](https://www.washingtonpost.com/technology/2022/01/03/elizabeth-holmes-trial-verdict/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
+
+
+> What to know about Theranos and Elizabeth Holmes Elizabeth Holmes, the founder of Theranos who rocketed to fame nearly a decade ago, is accused of misleading investors and patients about the capability of her company's blood-testing technology. Holmes is on trial for 11 counts of wire fraud and conspiracy to commit wire fraud. She has pleaded not guilty. Her defense lawyers have argued that she acted in good faith while running Theranos. On the stand, Holmes revealed a cornerstone of her defense: that her former partner and the company's president had allegedly abused and controlled her.
+
+
+***
+![Jurors are set to deliver a verdict in Elizabeth Holmes's fraud trial.](https://static01.nyt.com/images/2021/12/17/business/00theranos-trial-verdictnotice/00theranos-trial-verdictnotice-facebookJumbo.jpg "Jurors are set to deliver a verdict in Elizabeth Holmes's fraud trial.")
+
+
+[Jurors are set to deliver a verdict in Elizabeth Holmes's fraud trial.](https://www.nytimes.com/2022/01/03/technology/theranos-deliberations.html)
+
+
+> Continue reading the main storyThe jurors said earlier on Monday that they were deadlocked on three of 11 counts facing Ms. Holmes, but were asked to fill out a verdict form on the other charges.Elizabeth Holmes, second from right, with her mother Noel, left, and her partner, Billy Evans, as they recently left federal court in San Jose, Calif.Credit...Nic Coury/Associated PressJan. 3, 2022, 7:01 p.m. ETJurors were set on Monday to deliver a verdict in the fraud trial of Elizabeth Holmes, the founder of the failed blood testing start-up Theranos.
+
+
