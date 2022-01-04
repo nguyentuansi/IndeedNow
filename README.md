@@ -42311,3 +42311,43 @@
 > No body in the article.
 
 
+***
+![Affordable Wi-Fi Routers in India Right Now](https://telecomtalk.info/wp-content/uploads/2021/11/affordable-wifi-routters-in-india-right-now.jpg "Affordable Wi-Fi Routers in India Right Now")
+
+
+[Affordable Wi-Fi Routers in India Right Now](https://telecomtalk.info/affordable-wifi-routters-in-india-right-now/481460/)
+
+
+> In the current digital world, the internet is a necessity, and there is nothing much that can be done without it. Having said that, it is important to have an uninterrupted internet connection, especially if you are working from home or involved in online gaming. Mostly, the Wi-Fi routers that are provided by the ISPs are basic products lacking a significant range.Affordable Wi-Fi Routers In IndiaIf you want to buy an advanced and capable router, then you can get your hands on an affordable option out there that will enhance the network signal by extending the range of your home Wi-Fi.
+
+
+***
+![iQOO 9 series specs leaked, said to come with 50-megapixel camera](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202201/iqoo_9_pro_1200x768-original.jpeg "iQOO 9 series specs leaked, said to come with 50-megapixel camera")
+
+
+[iQOO 9 series specs leaked, said to come with 50-megapixel camera](https://www.indiatoday.in/technology/news/story/iqoo-9-series-specs-leaked-said-to-come-with-50-megapixel-camera-1895700-2022-01-04)
+
+
+> Akarsh Verma New Delhi, Jan 04, 2022, Updated Jan 04, 2022, 10:57 AM IST Story highlights The iQOO 9 and 9 Pro are now slated to be the first ever phones to debut with the Samsung ISOCELL GN5 as a main rear camera sensor. Both smartphones will be powered by Snapdragon 8 Gen 1 SoC paired with 12GB of LPDDR5 RAM. The iQOO 9 series will feature a 4700mAh battery backup and support for 120W fast charging. iQOO, Vivo's high performance sub brand, in the past has confirmed the display specifications as well as details in relation to the two upcoming devices in the iQOO 9 series, the iQOO 9 and iQOO 9 Pro.
+
+
+***
+![Samsung Galaxy S21 FE with 120Hz AMOLED display, triple rear cameras launched: Price, specifications](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202201/samsunggalaxys21fe_4012022-original.png "Samsung Galaxy S21 FE with 120Hz AMOLED display, triple rear cameras launched: Price, specifications")
+
+
+[Samsung Galaxy S21 FE with 120Hz AMOLED display, triple rear cameras launched: Price, specifications](https://www.indiatoday.in/technology/news/story/samsung-galaxy-s21-fe-with-120hz-amoled-display-triple-rear-cameras-launched-price-specifications-1895750-2022-01-04)
+
+
+> Story highlights Samsung has launched the Galaxy S21 FE smartphone in the UK. The Galaxy S21 FE comes with a Dynamic AMOLED 2X display. Samsung's Galaxy S21 FE retains the design of the Galaxy S21. Samsung has enthused new life into the Galaxy S21 series with the launch of the latest phone, Galaxy S21 FE. The Galaxy S21 FE comes right on schedule, becoming the company's first smartphone of 2022. The new smartphone brings the magic of flagship Galaxy phones, including a high refresh-rate AMOLED display, a multi-camera system, and a powerful chipset.
+
+
+***
+![Xiaomi 12 and Xiaomi 12 Pro may launch in India early April](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202201/x12-original.png "Xiaomi 12 and Xiaomi 12 Pro may launch in India early April")
+
+
+[Xiaomi 12 and Xiaomi 12 Pro may launch in India early April](https://www.businesstoday.in/technology/story/xiaomi-12-and-xiaomi-12-pro-may-launch-in-india-early-april-317768-2022-01-04)
+
+
+> Xiaomi 12 and Xiaomi 12 Pro are likely to be launched in India early April. Both the smartphones were introduced in China late December. Interestingly, Xiaomi is planning to introduce both these flagship phones in global markets first. According to leaker Mukul Sharma, Xiaomi 12 and Xiaomi 12 Pro can be introduced in the global markets in March 2022. He adds that Xiaomi can launch these devices in India in April too. The leak is believable as Xiaomi followed a similar strategy last year. The Mi 11 series was introduced globally in March 2021 and was brought to India in April 2021.
+
+
