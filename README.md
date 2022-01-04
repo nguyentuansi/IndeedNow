@@ -42294,3 +42294,20 @@
 > Continue reading the main storyThe jurors said earlier on Monday that they were deadlocked on three of 11 counts facing Ms. Holmes, but were asked to fill out a verdict form on the other charges.Elizabeth Holmes, second from right, with her mother Noel, left, and her partner, Billy Evans, as they recently left federal court in San Jose, Calif.Credit...Nic Coury/Associated PressJan. 3, 2022, 7:01 p.m. ETJurors were set on Monday to deliver a verdict in the fraud trial of Elizabeth Holmes, the founder of the failed blood testing start-up Theranos.
 
 
+***
+![HERMAN MILLER AERON](https://www.sweclockers.com/forum/trad/1654374/og-image "HERMAN MILLER AERON")
+
+
+[HERMAN MILLER AERON](https://www.sweclockers.com/forum/trad/1654374-herman-miller-aeron-graphite-polished-aluminium)
+
+
+> Forum Övrigt Nyhetskommentarer Annonskommentarer Tråd igår 22:44 Trädvy Permalänk HERMAN MILLER AERON - GRAPHITE - POLISHED ALUMINIUMSize BWell maintained , with all features.Starting bid 8000kr Only pick up in Malmo.Accept only Swish. * no exchanges please or offers below the starting bid * check feedback sectionLäs hela annonsen här Citera flera Citera
+
+
+***
+[Bitwise Announces Results of December 2021 Month-End Crypto Index Reconstitution](http://www.businesswire.com/news/home/20220103005514/en/Bitwise-Announces-Results-of-December-2021-Month-End-Crypto-Index-Reconstitution/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
