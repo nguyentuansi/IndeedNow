@@ -42665,3 +42665,43 @@
 > Officials aware of the matter said the DoT wants to get done with this formality as soon as possible.The telecom department had requested ISRO to not go for the 26 MHz airwaves.DoT doesn't want to postpone the spectrum auctions anymore than June 2022.The Department of Telecommunications (DoT) is soon going to meet relevant authorities, including the Ministry of Civil Aviation, the Ministry of Home Affairs (MHA), the Indian Space Research Organisation (ISRO), and the Ministry of Defence (MoD). The purpose of this meeting would be to sort out the final details on the 5G spectrum.
 
 
+***
+![Skydio 2+ Drone Brings Dazzling Cinematography Within Easy Reach](https://cdn.slashgear.com/wp-content/uploads/2022/01/sky1.jpg "Skydio 2+ Drone Brings Dazzling Cinematography Within Easy Reach")
+
+
+[Skydio 2+ Drone Brings Dazzling Cinematography Within Easy Reach](https://www.slashgear.com/skydio-2-drone-brings-dazzling-cinematography-within-easy-reach-05705662/)
+
+
+> Skydio is already well-known for the autonomous capabilities of its drone range. Looking to build on this legacy, the company has introduced the Skydio 2+ that offers improved battery life, enhanced range and a new KeyFrame feature that brings cinema-like continuous shots within easy reach. Where the superseded Skydio 2 model offered around 22 minutes of flight time, the new Skydio 2+ offers 20 percent more battery life making it good for about 27 minutes of use per charge. This is courtesy of a new battery (also sold separately for $115) that is also backwards compatible which is good news for owners of the previous model.
+
+
+***
+![Lenovo's ThinkPad X1 2022 updates make 3 potent options](https://cdn.slashgear.com/wp-content/uploads/2022/01/04_X1_Carbon_G10_Hero_Front_Facing_Left.jpg "Lenovo's ThinkPad X1 2022 updates make 3 potent options")
+
+
+[Lenovo's ThinkPad X1 2022 updates make 3 potent options](https://www.slashgear.com/lenovos-thinkpad-x1-2022-updates-make-3-potent-options-05705615/)
+
+
+> Lenovo and CES usually means a fresh array of ThinkPads, and 2022 is no different, with the ThinkPad X1 Carbon 10th Gen, X1 Nano 2nd Gen, and several others all making their debut this week. More sober than the ThinkPad Z Series announced yesterday, the X1 line is generally viewed as the benchmark for prosumer and business notebooks, and this year they're bringing along some new accessories, too. Source: Lenovo Lenovo ThinkPad X1 Carbon Gen 10 2022 Flagship of the series, the ThinkPad X1 Carbon Gen 10 epitomizes Lenovo's laptops: sleek, quietly handsome, and packed with options.
+
+
+***
+![Lenovo ThinkBook Plus Gen 3 dual-screen laptop is appealingly weird](https://cdn.slashgear.com/wp-content/uploads/2022/01/02_ThinkBook_Plus_Gen_3_Hero_Thin_And_Sleek.jpg "Lenovo ThinkBook Plus Gen 3 dual-screen laptop is appealingly weird")
+
+
+[Lenovo ThinkBook Plus Gen 3 dual-screen laptop is appealingly weird](https://www.slashgear.com/lenovo-thinkbook-plus-gen-3-dual-screen-laptop-is-appealingly-weird-05705627/)
+
+
+> Lenovo may be known for its serious business laptops, but that doesn't stop it from making some more outlandish designs: for CES 2022, that means the new ThinkBook Plus Gen 3. The third in the 'Plus' series changes tack from the dual-display approach of its predecessors, doing away with the secondary e-paper screen of before and instead putting a sizable 8-inch display alongside the keyboard. Source: Lenovo The ThinkBook Plus Gen 3's primary screen is a 17.3-inch ultra-wide 21:10 aspect IPS panel.
+
+
+***
+![Razer X Fossil Gen 6 smartwatch limited to 1337 units](https://cdn.slashgear.com/wp-content/uploads/2021/12/razerwatch2222.jpg "Razer X Fossil Gen 6 smartwatch limited to 1337 units")
+
+
+[Razer X Fossil Gen 6 smartwatch limited to 1337 units](https://www.slashgear.com/razer-x-fossil-gen-6-smartwatch-limited-to-1337-units-05704256/)
+
+
+> It would appear that the limited edition mania central to the popularity of the brand BAPE has rubbed off on Razer. Not that Razer hadn't created a limited edition product before they released products with A Bathing Ape in late 2020, but since then, Razer's co-branding adventures have felt all the more natural in a 'limited edition release event' sort of way. The latest example is the Razer X Fossil Gen 6 smartwatch, a device that'll be released in a very limited edition of 1337. Razer / Fossil The number 1337 is the stock symbol for Razer on the Hong Kong Stock exchange.
+
+
