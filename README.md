@@ -42495,3 +42495,23 @@
 > AMD announced its new Ryzen 6000 Series mobile processors at CES on Tuesday. Laptops featuring the new processors are set to launch later in 2022 and AMD claims that the batteries in the new processors could offer up to 24 hours of battery life. AMD These claims are intriguing, especially when you consider that the average battery life of current laptops can range from as low as two or three hours to seven or even eight hours on a single charge. AMD says the claim is based on expected battery life from idling, video playback, standby mode, and some gaming versus the previous generation of mobile processors.
 
 
+***
+![Tech founder out after antisemitic, anti-vaccine screed](https://www.whec.com/apimages/apd12e3530602a4141bc26b4c06310bb2c.jpg "Tech founder out after antisemitic, anti-vaccine screed")
+
+
+[Tech founder out after antisemitic, anti-vaccine screed](https://www.whec.com/news/tech-founder-out-after-antisemitic-anti-vaccine-email/6349317/)
+
+
+> "These irresponsible comments are hurtfully antisemitic, blatantly false, and we completely reject them," Cox tweeted. Bateman confirmed he sent the email in a text message to the news station. He said he had "nothing but love for the Jewish people" but he echoed the assertions in the email. The email contained his personal opinion and was intended for a few friends, he said. He has retired as CEO of Entrata, a property management software company, but had remained chair of the company's board. Bateman had also been a prominent figure in Utah Republican politics, financially bailing out the party a few years ago when its legal debt mounted during a court fight over paths for candidates to get on the ballot.
+
+
+***
+![Tech founder out after antisemitic, anti-vaccine screed](https://www.kob.com/apimages/apd12e3530602a4141bc26b4c06310bb2c.jpg "Tech founder out after antisemitic, anti-vaccine screed")
+
+
+[Tech founder out after antisemitic, anti-vaccine screed](https://www.kob.com/news/tech-founder-called-on-to-step-down-after-antisemitic-email/6349243/)
+
+
+> "These irresponsible comments are hurtfully antisemitic, blatantly false, and we completely reject them," Cox tweeted. Bateman confirmed he sent the email in a text message to the news station. He said he had "nothing but love for the Jewish people" but he echoed the assertions in the email. The email contained his personal opinion and was intended for a few friends, he said. He has retired as CEO of Entrata, a property management software company, but had remained chair of the company's board. Bateman had also been a prominent figure in Utah Republican politics, financially bailing out the party a few years ago when its legal debt mounted during a court fight over paths for candidates to get on the ballot.
+
+
