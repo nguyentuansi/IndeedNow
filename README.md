@@ -42515,3 +42515,53 @@
 > "These irresponsible comments are hurtfully antisemitic, blatantly false, and we completely reject them," Cox tweeted. Bateman confirmed he sent the email in a text message to the news station. He said he had "nothing but love for the Jewish people" but he echoed the assertions in the email. The email contained his personal opinion and was intended for a few friends, he said. He has retired as CEO of Entrata, a property management software company, but had remained chair of the company's board. Bateman had also been a prominent figure in Utah Republican politics, financially bailing out the party a few years ago when its legal debt mounted during a court fight over paths for candidates to get on the ballot.
 
 
+***
+![Good News! Apple is planning on bringing a new charging feature](https://blogger.googleusercontent.com/img/a/AVvXsEixCpryff7T_ixzKNwSsSi4GtqMr_aCuvLu9fxJHvwZ9h9nfvaMQvIbJZQ-1I1RyqPIOj6-VqOkuudfWVdubYWmqg6RmhtAL2FUi2Lb3P8HUj9EW4MxG90jhWHjb4u2YYXPvT7LO7iLL3FzvDlFLiM-Bz6C37GQTLarKescWxbhL09U_OqHtXeMFFId=s16000 "Good News! Apple is planning on bringing a new charging feature")
+
+
+[Good News! Apple is planning on bringing a new charging feature](https://www.digitalinformationworld.com/2022/01/good-news-apple-is-planning-on-bringing.html)
+
+
+> Apple has been one of the most successful manufacturers of smartphones for over a decade now. They have a knack of making thing happen and what makes them stand out is the fact that all of their products are technically well designed and well maintained. Be it smartwatch or iPad, Apple has been delivering products for every age group and has been able to maintain the quality of products that they keep on producing. The minds at the company are always working, thinking about how to come up with new features and what things should they add in their latest gadget so that it would steal the spotlight when it comes into the market.
+
+
+***
+![Bharti Airtel, Hughes Announce Joint Venture](https://telecomtalk.info/wp-content/uploads/2022/01/bharti-airtel-hughes-announce-joint-venture-now.jpeg "Bharti Airtel, Hughes Announce Joint Venture")
+
+
+[Bharti Airtel, Hughes Announce Joint Venture](https://telecomtalk.info/bharti-airtel-hughes-announce-joint-venture-now/489774/)
+
+
+> To provide satellite broadband services in India, Bharti Airtel and Hughes have announced a joint venture. The joint venture will be operational as HCIPL and will combine the Very Small Aperture Terminal (VSAT) businesses of both companies. This will enable the new joint venture in delivering scalable and flexible networking solutions using satellite connectivity for primary transport, backup, and hybrid implementation.According to a joint release, the agreement between both the companies has received all the statutory approvals, including approvals from the Department of Telecommunications (DoT) and the National Company Law Tribunal (NCLT).
+
+
+***
+![Turkiye's daily COVID-19 cases near 55,000 for 1st time in 9 months](https://img.piri.net/mnresize/600/-/piri/upload/3/2022/1/5/9c4d4bd9-dleutbb3l75i3pyzp8eq9.jpeg "Turkiye's daily COVID-19 cases near 55,000 for 1st time in 9 months")
+
+
+[Turkiye's daily COVID-19 cases near 55,000 for 1st time in 9 months](https://www.yenisafak.com/en/news/turkiyes-daily-covid-19-cases-near-55000-for-1st-time-in-9-months-3587210)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
+
+
+***
+![Uyghurs in Turkiye file criminal complaint against China for crimes against humanity](https://img.piri.net/mnresize/600/-/piri/upload/3/2022/1/5/136c484d-b4hgriu92z6ve958ptnuq.jpeg "Uyghurs in Turkiye file criminal complaint against China for crimes against humanity")
+
+
+[Uyghurs in Turkiye file criminal complaint against China for crimes against humanity](https://www.yenisafak.com/en/news/uyghurs-in-turkiye-file-criminal-complaint-against-china-for-crimes-against-humanity-3587209)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
+
+
+***
+![Turkish-origin politician in Sweden receives hate mail](https://img.piri.net/mnresize/600/-/piri/upload/3/2022/1/5/7fa407ed-gx2864sbmm7j5s628df9ld.jpeg "Turkish-origin politician in Sweden receives hate mail")
+
+
+[Turkish-origin politician in Sweden receives hate mail](https://www.yenisafak.com/en/news/turkish-origin-politician-in-sweden-receives-hate-mail-3587208)
+
+
+> Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
+
+
