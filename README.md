@@ -42615,3 +42615,53 @@
 > LinkedIn has become a prominent professional networking website, with users engaging on the platform and keeping their education, career and skills information updated. Many of us also use our LinkedIn profile to apply for jobs, if not, we at least have the link to our LinkedIn profiles in our resumes. In this article, we are going to look at how you can change and customise the URL of your LinkedIn profile. You can do this process using a computer or a mobile phone. Let's take a look at how it's done.
 
 
+***
+![Sony Mobility revealed with with conceptual EV Vision-S SUV](https://cdn.slashgear.com/wp-content/uploads/2022/01/FITVX4tWYAUsn-v.jpg "Sony Mobility revealed with with conceptual EV Vision-S SUV")
+
+
+[Sony Mobility revealed with with conceptual EV Vision-S SUV](https://www.slashgear.com/sony-mobility-revealed-with-with-conceptual-ev-vision-s-suv-05705555/)
+
+
+> Japanese electronics giant Sony has made a few important announcements at 2022 CES. In its keynote presentation earlier today, Sony has unveiled a new concept SUV called the Vision-S 02. In a world where crossovers and SUVs are outselling conventional sedans two to one, we didn't find it surprising that Sony has a follow-up to its Vision-S 01 sedan that we first saw at CES 2020. What we did find surprising was the launch of Sony Mobility, the company's all-new electric car division, with both the Vision-S sedan and Vision-S SUV as its first working prototypes.
+
+
+***
+![The Best Way to Fix a Stuck Windows Update](https://cdn.slashgear.com/wp-content/uploads/2022/01/windows11comp.jpg "The Best Way to Fix a Stuck Windows Update")
+
+
+[The Best Way to Fix a Stuck Windows Update](https://www.slashgear.com/the-best-way-to-fix-a-stuck-windows-update-05705466/)
+
+
+> No matter which version of Windows you use, it's important to stay on top of the latest Windows Update. These updates give Microsoft the chance to patch any potential problems, fix security issues, and introduce new features. While you sometimes may want to opt-out of an update or two, the general rule of thumb is that it's good to download new Windows updates regularly. rawf8/Shutterstock Windows Update usually downloads new patches without a hitch, often without even asking you first. All you have to do is restart your device and then forget about it.
+
+
+***
+![Samsung Galaxy S21 FE Pre-Booking Goes Live in India](https://telecomtalk.info/wp-content/uploads/2022/01/samsung-galaxy-s21-fe-pre-booking-goes.jpeg "Samsung Galaxy S21 FE Pre-Booking Goes Live in India")
+
+
+[Samsung Galaxy S21 FE Pre-Booking Goes Live in India](https://telecomtalk.info/samsung-galaxy-s21-fe-pre-booking-goes/489845/)
+
+
+> Samsung recently announced the Galaxy S21 FE in the Consumer Electronics Show (CES) 2022.The smartphone is very likely to be powered by the Exynos 2100 SoC in India.The device will run on One UI 4.0 based on Android 12 out of the box.Samsung recently announced the Galaxy S21 FE in the Consumer Electronics Show (CES) 2022. The smartphone was then also found to be listed on the India website. However, the price of the device wasn't revealed. But now, Indian consumers can start pre-booking the device from the official website of the company or the Samsung Shop app.
+
+
+***
+![Never Buy A Phone Without Checking This First](https://cdn.slashgear.com/wp-content/uploads/2022/01/verizon-phone.jpg "Never Buy A Phone Without Checking This First")
+
+
+[Never Buy A Phone Without Checking This First](https://www.slashgear.com/never-buy-a-phone-without-checking-this-first-05705539/)
+
+
+> With many modern smartphones topping $1,000, buying a second-hand phone is a popular option. Amazon, Craigslist, Facebook Marketplace, Apple's refurbished store, and eBay are good places to find lightly used, previous generation phones at a fraction of the cost of a brand-new model. Sulastri Sulastri/Shutterstock When buying a used model, many consumers check out the overall condition of the phone, such as whether the screen is cracked, how much charge the battery holds, if there are scratches on the housing, and more.
+
+
+***
+![DoT to Meet Relevant Authorities for Fast Tracking 5G Spectrum Auctions](https://telecomtalk.info/wp-content/uploads/2022/01/dot-to-meet-relevant-authorities-for-5g.jpeg "DoT to Meet Relevant Authorities for Fast Tracking 5G Spectrum Auctions")
+
+
+[DoT to Meet Relevant Authorities for Fast Tracking 5G Spectrum Auctions](https://telecomtalk.info/dot-to-meet-relevant-authorities-for-5g/489814/)
+
+
+> Officials aware of the matter said the DoT wants to get done with this formality as soon as possible.The telecom department had requested ISRO to not go for the 26 MHz airwaves.DoT doesn't want to postpone the spectrum auctions anymore than June 2022.The Department of Telecommunications (DoT) is soon going to meet relevant authorities, including the Ministry of Civil Aviation, the Ministry of Home Affairs (MHA), the Indian Space Research Organisation (ISRO), and the Ministry of Defence (MoD). The purpose of this meeting would be to sort out the final details on the 5G spectrum.
+
+
