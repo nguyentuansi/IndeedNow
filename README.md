@@ -42445,3 +42445,53 @@
 > Last week a report surfaced that started with a Korean publication called the Korea Economic Daily claiming that Korean automaker Hyundai had abandoned the development of new internal combustion engines (ICE). According to that report, Hyundai was abandoning the development of ICE as part of its transition to become a completely electric vehicle manufacturer. Most automakers will transition to selling only electric vehicles at some point in the future. Via Hyundai While Hyundai does have pure electric vehicles on the market today, the vast majority of the cars and SUVs it currently sells use internal combustion engines.
 
 
+***
+![2022 LG OLED TV lineup includes massive 97″ 8K model](https://cdn.slashgear.com/wp-content/uploads/2022/01/LG-97-inch-TV.jpg "2022 LG OLED TV lineup includes massive 97″ 8K model")
+
+
+[2022 LG OLED TV lineup includes massive 97″ 8K model](https://www.slashgear.com/2022-lg-oled-tv-lineup-includes-massive-97-8k-model-04705520/)
+
+
+> LG has debuted its OLED TV lineup for 2022 with a number of improvements and new features. The Korean company continues to offer its OLED TVs in two product lines: the high-end G2 series and the more affordable C2 series. LG has expanded the number of screen sizes, including a monstrous new 97-inch G2 8K model at one end of the spectrum and a new smaller 42-inch 4K C2 model at the other end. LG Electronics Both the G2 and C2 series feature LG's new second-generation 'evo' technology to deliver increased brightness.
+
+
+***
+![2023 BMW iX M50 is a 610 horsepower electric super-SUV](https://cdn.slashgear.com/wp-content/uploads/2022/01/2023_bmw_ix_m50_8.jpg "2023 BMW iX M50 is a 610 horsepower electric super-SUV")
+
+
+[2023 BMW iX M50 is a 610 horsepower electric super-SUV](https://www.slashgear.com/2023-bmw-ix-m50-is-a-610-horsepower-electric-super-suv-04705467/)
+
+
+> The 'Ultimate Driving Machine' is going electric, and the 2023 BMW iX M60 is the latest taste of just what a couple of electric motors can do in an SUV. Unveiled at CES 2022 today, the M-badged version of the iX all-electric SUV commands 610 horsepower for its six-figure price tag, and – for the moment at least – will sit at the top of the tree for BMW's performance EVs. Source: BMW It's only been a few months since we climbed behind the wheel of the 2022 BMW iX, the automaker's first zero-emissions SUV.
+
+
+***
+![Xbox Game Pass kicks off 2022 with two excellent titles](https://cdn.slashgear.com/wp-content/uploads/2022/01/xbox-controller.jpg "Xbox Game Pass kicks off 2022 with two excellent titles")
+
+
+[Xbox Game Pass kicks off 2022 with two excellent titles](https://www.slashgear.com/xbox-game-pass-kicks-off-2022-with-two-excellent-titles-04705500/)
+
+
+> The new year is just kicking off, but Microsoft is already adding new titles to its Xbox Game Pass subscription service. Several of the titles are set to release on both the PC, console, and cloud versions of Game Pass, which means plenty of different ways to play these latest offerings. While some are smaller, like the delightfully hand-drawn 'Gorogoa', other titles like 'Spelunky 2' and 'Mass Effect Legendary Edition' also headline the additions. Miguel Lagoa/Shutterstock First, let's start with the new games that are available right now.
+
+
+***
+![Coway's smart mattress swaps springs for IoT air pockets](https://cdn.slashgear.com/wp-content/uploads/2022/01/Airmega-Icon-Bed-Room.jpg "Coway's smart mattress swaps springs for IoT air pockets")
+
+
+[Coway's smart mattress swaps springs for IoT air pockets](https://www.slashgear.com/coways-smart-mattress-swaps-springs-for-iot-air-pockets-04705390/)
+
+
+> If there's one thing the past two years has taught us, it's to appreciate the things that we can't necessarily see, and that includes the air we're breathing and the quality of the sleep we're getting. Coway's CES 2022 offerings focus on both, with the company's first connected smart mattress and a new decor-friendly purifier that packs a good reason why you might want to leave it out on a desk or table. Source: Coway Coway Smart Care Air Mattress Coway might be best known for its purifiers, but it's a different application of air that features in its first sleep product.
+
+
+***
+![AMD Ryzen 6000 laptop chips claim 24-hour battery](https://cdn.slashgear.com/wp-content/uploads/2022/01/amd-main.jpg "AMD Ryzen 6000 laptop chips claim 24-hour battery")
+
+
+[AMD Ryzen 6000 laptop chips claim 24-hour battery](https://www.slashgear.com/amd-ryzen-6000-laptop-chips-claim-24-hour-battery-04705456/)
+
+
+> AMD announced its new Ryzen 6000 Series mobile processors at CES on Tuesday. Laptops featuring the new processors are set to launch later in 2022 and AMD claims that the batteries in the new processors could offer up to 24 hours of battery life. AMD These claims are intriguing, especially when you consider that the average battery life of current laptops can range from as low as two or three hours to seven or even eight hours on a single charge. AMD says the claim is based on expected battery life from idling, video playback, standby mode, and some gaming versus the previous generation of mobile processors.
+
+
