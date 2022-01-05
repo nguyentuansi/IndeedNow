@@ -42565,3 +42565,53 @@
 > Election Results June 24, 2018, General ElectionElection Results June 24, 2018, General ElectionSupreme Electoral Council (YSK) Voter Search, where will I vote?Supreme Electoral Council (YSK) Overseas Voter SearchAdana General Election Results June 24, 2018AdÄ±yaman General Election Results June 24, 2018Afyonkarahisar General Election Results June 24, 2018AÄŸrÄ± General Election Results June 24, 2018Amasya General Election Results June 24, 2018Ankara General Election Results June 24, 2018Antalya
 
 
+***
+![Estonian company Nortal to join Digital Cooperation Organization](https://saudigazette.com.sa/uploads/images/2022/01/05/1917636.jpg "Estonian company Nortal to join Digital Cooperation Organization")
+
+
+[Estonian company Nortal to join Digital Cooperation Organization](https://saudigazette.com.sa/article/615519)
+
+
+> RIYADH — The Digital Cooperation Organization (DCO) on Wednesday announced the expansion of its membership to include Nortal, a digital transformation company, to work collaboratively on digital inclusion and the empowerment of youth, entrepreneurs, and women in the digital economy.The DCO is a global multilateral organization established to enable digital prosperity for all, with a focus on digital economy initiatives supporting youth, entrepreneurs, and women.The DCO has member countries with a combined population of half a billion people, with Nortal joining as an official observer.
+
+
+***
+![OnePlus 10 Pro's detailed specs surface](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-3dq6niij8vof6oc11v642lf676-20220105132324.Medi.jpeg "OnePlus 10 Pro's detailed specs surface")
+
+
+[OnePlus 10 Pro's detailed specs surface](https://www.deccanchronicle.com/technology/gadgets/050122/oneplus-10-pros-detailed-specs-surface.html)
+
+
+> The OnePlus 10 Pro will launch in China on January 11 in Black, White, and Green. It's expected to arrive in India and other countries shortly after that. (ANI Photo) Shenzhen: Though OnePlus just posted a couple of 10 Pro teasers, it didn't reveal much in the way of the smartphone's specs. However, according to GSM Arena, a regulatory website now has the full listing for the OnePlus 10 Pro, complete with most of its specs. The phone, model number NE2210, measures 163.0 x 73.9 x 8.55mm and weighs 200.
+
+
+***
+![Here are the top laptops announced by Asus, HP, Dell and others at CES 2022](https://www.businessinsider.in/photo/88709071/new-laptops-announced-at-ces-2022-by-asus-hp-dell-and-more-brands.jpg?imgsize=39682 "Here are the top laptops announced by Asus, HP, Dell and others at CES 2022")
+
+
+[Here are the top laptops announced by Asus, HP, Dell and others at CES 2022](https://www.businessinsider.in/tech/gadgets/news/new-laptops-announced-at-ces-2022-by-asus-hp-dell-and-more-brands/articleshow/88709071.cms)
+
+
+> The Consumer Electronics Show (CES) 2022 has officially kicked off with in-person conferences, booths and virtual briefings. There have been a ton of announcements and product unveilings already, and one area that's seen several new launches is laptops. At CES 2022, brands including HP, Asus, Dell, Acer and more have announced a series of gaming laptops, ultrabooks, and chromebooks. The list is long but we've rounded up some of the top laptops announced at CES 2022. HP's 2022 laptop lineup features new models in the premium Elite series, OMED gaming series and a new Chromebook as well.
+
+
+***
+![This is how WhatsApp plans to change the way you receive your messages](https://static.toiimg.com/thumb/resizemode-4,msid-88710500,imgsize-8858,width-800/88710500.jpg "This is how WhatsApp plans to change the way you receive your messages")
+
+
+[This is how WhatsApp plans to change the way you receive your messages](https://timesofindia.indiatimes.com/gadgets-news/this-is-how-whatsapp-plans-to-change-the-way-you-receive-your-messages/articleshow/88710489.cms)
+
+
+> Wed, Jan 05, 2022 | Updated 03.43PM ISTCopyright © 2022 Bennett, Coleman & Co. Ltd. All rights reserved The Times of India. For reprint rights: Times Syndication Service
+
+
+***
+![Here's how you can customise the URL of your LinkedIn profile](https://www.businessinsider.in/photo/88710979/heres-how-you-can-customise-the-url-of-your-linkedin-profile.jpg?imgsize=31658 "Here's how you can customise the URL of your LinkedIn profile")
+
+
+[Here's how you can customise the URL of your LinkedIn profile](https://www.businessinsider.in/tech/news/heres-how-you-can-customise-the-url-of-your-linkedin-profile/articleshow/88710979.cms)
+
+
+> LinkedIn has become a prominent professional networking website, with users engaging on the platform and keeping their education, career and skills information updated. Many of us also use our LinkedIn profile to apply for jobs, if not, we at least have the link to our LinkedIn profiles in our resumes. In this article, we are going to look at how you can change and customise the URL of your LinkedIn profile. You can do this process using a computer or a mobile phone. Let's take a look at how it's done.
+
+
