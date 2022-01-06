@@ -42775,3 +42775,43 @@
 > SHANGHAI: Hong Kong's Hang Seng index closed lower on Wednesday, as tech shares mirrored weakness in global peers, while Chinese top market regulator's decision to impose new fines on leading technology companies also weighed on investor sentiment. At the close of trade, the Hang Seng index was down 1.64% at 22,907.25. The Hang Seng China Enterprises Index fell 2.01% to 8,015.7. Following the market close, Hong Kong announced a two-week ban on incoming flights from eight countries and tightened restrictions to fend off a fifth wave of COVID-19 infections, in moves that could further weigh on investor sentiment on Thursday.
 
 
+***
+![How Apple Watch is Saving Life of Its Users](https://telecomtalk.info/wp-content/uploads/2022/01/here-is-how-apple-watch-saves-the.jpeg "How Apple Watch is Saving Life of Its Users")
+
+
+[How Apple Watch is Saving Life of Its Users](https://telecomtalk.info/here-is-how-apple-watch-saves-the/489580/)
+
+
+> Apple has released a new commercial highlighting Apple Watch's life-saving capabilities during emergencies.Dubbed as 911, the advertisement showcases the experiences of three Apple Watch users who say the device saved their lives by allowing them to call 911 in an emergency. The actual audio from 911 calls is used in the commercial. Interestingly, Apple advertisement does not show Apple Watch.According to Apple, the incidents shown in the Apple commercial are three of many great examples where people have been able to seek aid using the Apple Watch.
+
+
+***
+![Samsung's cute little Freestyle portable projector can put Netflix just about anywhere](https://www.cnet.com/a/img/pDQmP25yV_6mlHRy9l5dbluH6L8=/1200x630/2022/01/04/f503f70a-8cac-4031-adcb-24ae3947940e/samsung-the-freestyle-lifestyle-02.jpg "Samsung's cute little Freestyle portable projector can put Netflix just about anywhere")
+
+
+[Samsung's cute little Freestyle portable projector can put Netflix just about anywhere](https://www.cnet.com/tech/home-entertainment/samsung-cute-little-freestyle-portable-projector-can-put-netflix-just-about-anywhere/)
+
+
+> Samsung This story is part of CES, where CNET covers the latest news on the most incredible tech coming soon. Samsung TVs just got a lot more portable. At CES 2022 on Tuesday, the company added The Freestyle, an ultraportable smart TV projector, to its lineup.  The Freestyle weighs less than 2 pounds, comes with a 180-degree cradle stand and can project content onto walls, screens or anywhere else from 30 to 100 inches. It features 1080p resolution, as well as auto-focus and auto-leveling capabilities to automatically align its image to any surface.
+
+
+***
+![Crypto Security Is Biggest Concern for Institutional Investors](http://www.bnnbloomberg.ca/polopoly_fs/1.1703759!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-crypto-security-is-biggest-concern-for-institutional-investors.png "Crypto Security Is Biggest Concern for Institutional Investors")
+
+
+[Crypto Security Is Biggest Concern for Institutional Investors](http://www.bnnbloomberg.ca/crypto-security-is-biggest-concern-for-institutional-investors-1.1703758)
+
+
+> (Bloomberg) -- Security concern, more so than the volatility and regulations, is what holds institutional investors back from investing in crypto and digital assets, a survey by Europe's largest regulated digital-asset hedge fund manager showed.The survey of institutional investors and wealth managers, who collectively manage around $108.4 billion, showed 79% see asset custody as the key consideration whether to invest in this space. Custodians provide solutions for investors who want to securely store and protect their crypto assets.
+
+
+***
+![How blockchain is revolutionising video gaming – and turning players into millionaires](https://media.nationthailand.com/uploads/images/md/2022/01/2uLQlzYL7crHZydBzUUa.webp "How blockchain is revolutionising video gaming – and turning players into millionaires")
+
+
+[How blockchain is revolutionising video gaming – and turning players into millionaires](https://www.nationthailand.com/tech/40010800)
+
+
+> Related News Bitcoin plunges 5.5 per cent to $53,435.9 Blockchain to cut tax evasion, boost revenue from next year Thai-Japan blockchain transaction takes international trade to next level: Krungsri Meanwhile data including the number of items and smart contract conditions is stored transparently on the blockchain network for everyone to check. The value of items is governed by different factors but usually depends on the item's rarity and the game's popularity. Which games are popular worldwide? 1.
+
+
