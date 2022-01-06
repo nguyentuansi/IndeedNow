@@ -42859,3 +42859,53 @@
 > No body in the article.
 
 
+***
+![This Porsche 992 Stinger GTR Limited Carbon Edition is sweet as chocolate](https://cdn.slashgear.com/wp-content/uploads/2022/01/topcar-stinger-gtr-limited-carbon-edition.jpg "This Porsche 992 Stinger GTR Limited Carbon Edition is sweet as chocolate")
+
+
+[This Porsche 992 Stinger GTR Limited Carbon Edition is sweet as chocolate](https://www.slashgear.com/this-porsche-992-stinger-gtr-limited-carbon-edition-is-sweet-as-chocolate-06705916/)
+
+
+> Russian luxury auto tuner Top Car Design has unveiled its latest Porsche 992-series 911 sports car. Yes, it's a brown car. But look closer, and you'll find the Stinger GTR Limited Carbon Edition is unlike any 911 from the factory. This example is wearing a complete chocolate-brown body kit in exposed carbon fiber. According to Top Car Design, the Stinger GTR Limited Carbon Edition body kit consists of 84 details made of four layers of carbon fiber. We never thought we'd say this, but we won't mind driving around in a brown car if it looks as exotic and sensual as this.
+
+
+***
+![Kokoon Nightbuds now use AI to help manage your sound sleep better](https://cdn.slashgear.com/wp-content/uploads/2022/01/2e4044c474547bd67f0e0598228f61af.jpg "Kokoon Nightbuds now use AI to help manage your sound sleep better")
+
+
+[Kokoon Nightbuds now use AI to help manage your sound sleep better](https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/)
+
+
+> There is a huge market for tech dedicated to helping you sleep better. There is no dearth of products like smart beds (like Sleep Number) or smart mattresses (like the 3D Matrix from Ghost SmartBed), but audio is undoubtedly one of the hottest areas for products to help you sleep better. While many major audio brands including Bose offer devices that aid to better sleep, certain others are wholeheartedly dedicating themselves to ensuring good nights. Image: Kokoon Kokoon is one of such brands, and its Nightbuds are snug Bluetooth earbuds that help you drift off into a comfortable sleep with the help of ambient or binaural tracks, audiobooks, or the music of your choice.
+
+
+***
+![VW's production electric Microbus finally sets its big reveal date](https://cdn.slashgear.com/wp-content/uploads/2022/01/Large-5755-ID.BUZZconcept.jpg "VW's production electric Microbus finally sets its big reveal date")
+
+
+[VW's production electric Microbus finally sets its big reveal date](https://www.slashgear.com/vws-production-electric-microbus-finally-sets-its-big-reveal-date-06705956/)
+
+
+> Volkswagen's hotly-anticipated ID. Buzz microbus EV will make its public debut on March 9, 2022, the automaker has confirmed today. One of the earliest concepts VW used to demonstrate the flexibility of the MEB platform for all-electric vehicles, the ID. Buzz brought the 60s favorite into the 21st century with a zero-emissions drivetrain. Source: VW It's not unfair to call the original Microbus – also known as the VW Transporter, Kombi, Type 2, or Camper, depending on era and country – a modern day icon.
+
+
+***
+![Mercedes-Benz EQV camper van debuts with a pop-up roof and complete living amenities](https://cdn.slashgear.com/wp-content/uploads/2022/01/21C0751_002.jpg "Mercedes-Benz EQV camper van debuts with a pop-up roof and complete living amenities")
+
+
+[Mercedes-Benz EQV camper van debuts with a pop-up roof and complete living amenities](https://www.slashgear.com/mercedes-benz-eqv-camper-van-debuts-with-a-pop-up-roof-and-complete-living-amenities-06705906/)
+
+
+> The Mercedes-Benz Sprinter van and V-Class are among the most famous 'van-life' movement symbols. But last year, the German automaker debuted its EQV all-electric van in Europe, redefining the meaning of zero-emissions outdoor living. Now, Mercedes has unveiled a camper van version of the EQV. What's good about it is it leaves the factory with all the bells and whistles that people expect from a lifestyle-oriented adventure van. 'The motorhome market is of strategic importance to Mercedes-Benz vans,' said Klaus Rehugler, Head of Sales and Marketing, Mercedes-Benz Vans.
+
+
+***
+![Motorola MA1 dongle brings wireless Android Auto to the masses](https://cdn.slashgear.com/wp-content/uploads/2022/01/motoroladongle.jpg "Motorola MA1 dongle brings wireless Android Auto to the masses")
+
+
+[Motorola MA1 dongle brings wireless Android Auto to the masses](https://www.slashgear.com/motorola-ma1-dongle-brings-wireless-android-auto-to-the-masses-06705947/)
+
+
+> Android Auto has been around for nearly seven years and in that time has managed to find its way into a wide variety of new cars on the market. It's aim has been to reduce driver distraction while using a mobile phone by transferring your Android phone's major functionality to a more driver-friendly UI shown on a compatible car's in-car display. It leans heavily into Google Assistant's excellent natural voice recognition technology to further help minimize driver distraction by letting the driver control music, for example, or respond to messages with only their voice.
+
+
