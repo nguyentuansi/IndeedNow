@@ -42705,3 +42705,53 @@
 > It would appear that the limited edition mania central to the popularity of the brand BAPE has rubbed off on Razer. Not that Razer hadn't created a limited edition product before they released products with A Bathing Ape in late 2020, but since then, Razer's co-branding adventures have felt all the more natural in a 'limited edition release event' sort of way. The latest example is the Razer X Fossil Gen 6 smartwatch, a device that'll be released in a very limited edition of 1337. Razer / Fossil The number 1337 is the stock symbol for Razer on the Hong Kong Stock exchange.
 
 
+***
+![Google Announces Slew Of New Android Features For 2022](https://cdn.slashgear.com/wp-content/uploads/2022/01/android-main.jpg "Google Announces Slew Of New Android Features For 2022")
+
+
+[Google Announces Slew Of New Android Features For 2022](https://www.slashgear.com/google-announces-slew-of-new-android-features-for-2022-05705862/)
+
+
+> Google has announced a slew of upcoming Android improvements that are slated for release in 2022. The company made the announcement as part of CES 2022, and the improvements look to significantly improve the overall experience of using Android, especially across multiple devices. rafapress/Shutterstock Google released Android 12 in October 2021, but the company is continuing to add improvements and features. One area, in particular, that Google is focusing on is when working with other devices. According to Deloitte, the average US household now has 25 connected devices, up from 11 in 2019.
+
+
+***
+![HTC's new Vive Wrist Tracker makes VR more immersive](https://cdn.slashgear.com/wp-content/uploads/2022/01/vive-wrist-tracker-vr.jpg "HTC's new Vive Wrist Tracker makes VR more immersive")
+
+
+[HTC's new Vive Wrist Tracker makes VR more immersive](https://www.slashgear.com/htcs-new-vive-wrist-tracker-makes-vr-more-immersive-05705855/)
+
+
+> HTC is ready to expand the arsenal of add-ons available for its Vive Focus 3, starting with the new Vive Wrist Tracker. Built specifically to work with the Vive Focus 3's inside-out tracking, the Vive Wrist Tracker features one-button pairing for easier connectivity. HTC says that the tracker is also 85% smaller than the controller for the Vive Focus 3, and 50% lighter, too. HTC Part of what makes the Vive Wrist Tracker so cool, though, is that it isn't tied just to your wrist. You'll also be able to attach the tracker to other devices, like toy guns, wrenches, and whatever else you want to bring into the virtual world.
+
+
+***
+![Ubisoft+ announced for Xbox, Rainbow Six Extraction confirmed for Game Pass](https://cdn.slashgear.com/wp-content/uploads/2022/01/Rainbow-Six-Extraction-screenshot.jpg "Ubisoft+ announced for Xbox, Rainbow Six Extraction confirmed for Game Pass")
+
+
+[Ubisoft+ announced for Xbox, Rainbow Six Extraction confirmed for Game Pass](https://www.slashgear.com/ubisoft-announced-for-xbox-rainbow-six-extraction-confirmed-for-game-pass-05705821/)
+
+
+> Ubisoft made two major announcements today. The first is that the company's subscription service, Ubisoft+, will be coming to Xbox consoles in the future. While that's big enough news on its own, Ubisoft also revealed that Rainbow Six Extraction will be coming to Xbox Game Pass, which is another big win for Microsoft's own subscription service. Ubisoft, it seems, has gaming subscriptions on the mind today. Image: Ubisoft For now, we don't know a whole lot about the plan to bring Ubisoft+ to Xbox consoles.
+
+
+***
+![NASA's X-59 supersonic stealth jet faces a critical test](https://cdn.slashgear.com/wp-content/uploads/2022/01/nasa-supersonic-plane-test.jpg "NASA's X-59 supersonic stealth jet faces a critical test")
+
+
+[NASA's X-59 supersonic stealth jet faces a critical test](https://www.slashgear.com/nasas-x-59-supersonic-stealth-jet-faces-a-critical-test-05705819/)
+
+
+> Lockheed Martin has temporarily rehomed the X-59 Quiet SuperSonic Technology aircraft it is building for NASA, the space agency has announced. The supersonic plane has left Lockheed's California facility for a new temporary spot in Texas where it'll undergo 'critical ground testing.' The tests will serve as a major milestone on the path to the X-59's first flight. Lockheed Martin/NASA Supersonic flight can revolutionize aerial transportation, but it has one major downside that has historically prevented its use over land: loud sonic booms.
+
+
+***
+![BMW's latest experimental vehicle can change colours on the go](https://cdn.mobilesyrup.com/wp-content/uploads/2022/01/BMW-header-scaled.jpg "BMW's latest experimental vehicle can change colours on the go")
+
+
+[BMW's latest experimental vehicle can change colours on the go](https://mobilesyrup.com/2022/01/05/bmws-latest-experimental-vehicle-can-change-colours-on-the-go/)
+
+
+> CES never seems to disappoint when it comes to products with a 'wow' factor, and BMW's experimental colour-changing vehicle presentation certainly didn't. The Germany-based luxury car manufacturer calls the vehicle the iX Flow, which is wrapped with a layer of E Ink containing several tiny microcapsules with white and black pigments. 'Each capsule contains differently charged white, black or coloured particles which become visible when an electric field is applied. This creates what is known as an Electronic Paper Display (EPD),' reads BMW's CES 2022 recap post.
+
+
