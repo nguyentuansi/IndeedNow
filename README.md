@@ -42815,3 +42815,47 @@
 > Related News Bitcoin plunges 5.5 per cent to $53,435.9 Blockchain to cut tax evasion, boost revenue from next year Thai-Japan blockchain transaction takes international trade to next level: Krungsri Meanwhile data including the number of items and smart contract conditions is stored transparently on the blockchain network for everyone to check. The value of items is governed by different factors but usually depends on the item's rarity and the game's popularity. Which games are popular worldwide? 1.
 
 
+***
+![Technical Support Engineer (2nd shift)](https://s3.egospodarka.pl/images-local/layout/favicon.ico "Technical Support Engineer (2nd shift)")
+
+
+[Technical Support Engineer (2nd shift)](https://www.praca.egospodarka.pl/oferty-pracy/krakow/technical-support-engineer-2nd-shift,67730312.html)
+
+
+> R19359 Lokalizacja: Kraków małopolskie (2nd shift) Wymagania stawiane pracownikowi: Motorola Solutions is there for our customers when everything is on the line. In extreme moments — when a hurricane lands or when a fire breaks out. And in everyday moments — when a package arrives just in time for the holiday or when a child doesn't miss the school bus home.  We unify voice, data, video and analytics in one integrated ecosystem to enable individuals, businesses and communities to work together in more powerful ways.
+
+
+***
+![CES 2022 highlights: Samsung Galaxy S21 FE, new Sony TVs and Razer tech](https://images.immediate.co.uk/production/volatile/sites/3/2022/01/GettyImages-1237523999-3573629-e1641398180826.jpg?quality=90&resize=620,413 "CES 2022 highlights: Samsung Galaxy S21 FE, new Sony TVs and Razer tech")
+
+
+[CES 2022 highlights: Samsung Galaxy S21 FE, new Sony TVs and Razer tech](https://www.radiotimes.com/technology/ces-2022-highlights/)
+
+
+> ❚  We may earn commission from links on this page. Our editorial is always independent (learn more) The annual Consumer Electronics Show (CES) is the biggest tech showcase of its kind. Some huge reveals have already taken place too too, with new phones, laptops and more being announced. By George Storr Published: Thursday, 6th January 2022 at 11:34 am The Consumer Electronics Show (CES) is a behemoth annual tech event held in Las Vegas. It showcases the latest and greatest in upcoming tech of all kinds and is returning to its spiritual Nevada home for the first time since 2020, due to the disruption caused by the global pandemic.
+
+
+***
+![John Deere reveals fully autonomous tractor at CES](https://roboticsandautomationnews.com/wp-content/uploads/2022/01/deere-autonomous-tractor-2.jpg "John Deere reveals fully autonomous tractor at CES")
+
+
+[John Deere reveals fully autonomous tractor at CES](https://roboticsandautomationnews.com/2022/01/06/john-deere-reveals-fully-autonomous-tractor-at-ces/48126/)
+
+
+> John Deere has revealed a fully autonomous tractor at this year's Consumer Electronics Show, the world's largest electronics trade show, currently taking place in Las Vegas, USA.  The agriculture technology giant says its driverless tractor is ready for large-scale production. The machine combines Deere's 8R Tractor, TruSet-enabled chisel plow, GPS guidance system, and new advanced technologies. The autonomous tractor will be available to farmers later this year. The autonomous tractor serves a specific purpose: feeding the world.
+
+
+***
+[Consensus Cloud Solutions to Participate in CJS 22nd Annual 'New Ideas for the New Year' Investor Conference](http://www.businesswire.com/news/home/20220106005228/en/Consensus-Cloud-Solutions-to-Participate-in-CJS-22nd-Annual-%E2%80%9CNew-Ideas-for-the-New-Year%E2%80%9D-Investor-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
+***
+[P97 Secures $40 Million of Venture Debt Financing from an Affiliate of Peak Rock Capital](http://www.businesswire.com/news/home/20220106005324/en/P97-Secures-40-Million-of-Venture-Debt-Financing-from-an-Affiliate-of-Peak-Rock-Capital/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> No body in the article.
+
+
