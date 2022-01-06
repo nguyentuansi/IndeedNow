@@ -42755,3 +42755,23 @@
 > CES never seems to disappoint when it comes to products with a 'wow' factor, and BMW's experimental colour-changing vehicle presentation certainly didn't. The Germany-based luxury car manufacturer calls the vehicle the iX Flow, which is wrapped with a layer of E Ink containing several tiny microcapsules with white and black pigments. 'Each capsule contains differently charged white, black or coloured particles which become visible when an electric field is applied. This creates what is known as an Electronic Paper Display (EPD),' reads BMW's CES 2022 recap post.
 
 
+***
+![China Tech Digest: China's ‘Sky Eye' FAST Detects About 500 New Pulsars; Chinese Residents Can Order Food Deliveries In Digital RMB](https://assets.chinamoneynetwork.com/wp-content/uploads/20220106112236/Sky-Eye-FAST-696x357.jpg "China Tech Digest: China's ‘Sky Eye' FAST Detects About 500 New Pulsars; Chinese Residents Can Order Food Deliveries In Digital RMB")
+
+
+[China Tech Digest: China's ‘Sky Eye' FAST Detects About 500 New Pulsars; Chinese Residents Can Order Food Deliveries In Digital RMB](https://www.chinamoneynetwork.com/2022/01/06/china-tech-digest-chinas-sky-eye-fast-detects-about-500-new-pulsars-chinese-residents-can-order-food-deliveries-in-digital-rmb)
+
+
+> China's ‘Sky Eye' FAST detects about 500 new pulsars The Chinese Academy of Sciences recently held a press conference to unveil the operation conditions of China's ‘Sky Eye' FAST and a series of important scientific achievements. Since its completion, China's ‘Sky Eye' FAST has continuously improved its operational efficiency and quality, with an annual observation time of more than 5,300 hours. So far, FAST has detected about 500 pulsars, making it the most efficient device in the world since its operation.
+
+
+***
+![Tech sector weakness drags Hong Kong shares lower](https://i.brecorder.com/large/2022/01/61d6116ee5b43.jpg "Tech sector weakness drags Hong Kong shares lower")
+
+
+[Tech sector weakness drags Hong Kong shares lower](https://www.brecorder.com/news/40145019/tech-sector-weakness-drags-hong-kong-shares-lower)
+
+
+> SHANGHAI: Hong Kong's Hang Seng index closed lower on Wednesday, as tech shares mirrored weakness in global peers, while Chinese top market regulator's decision to impose new fines on leading technology companies also weighed on investor sentiment. At the close of trade, the Hang Seng index was down 1.64% at 22,907.25. The Hang Seng China Enterprises Index fell 2.01% to 8,015.7. Following the market close, Hong Kong announced a two-week ban on incoming flights from eight countries and tightened restrictions to fend off a fifth wave of COVID-19 infections, in moves that could further weigh on investor sentiment on Thursday.
+
+
