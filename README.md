@@ -42909,3 +42909,50 @@
 > Android Auto has been around for nearly seven years and in that time has managed to find its way into a wide variety of new cars on the market. It's aim has been to reduce driver distraction while using a mobile phone by transferring your Android phone's major functionality to a more driver-friendly UI shown on a compatible car's in-car display. It leans heavily into Google Assistant's excellent natural voice recognition technology to further help minimize driver distraction by letting the driver control music, for example, or respond to messages with only their voice.
 
 
+***
+[CES2022：Nanoleaf支持Thread HomeKit](http://news.zol.com.cn/784/7846530.html)
+
+
+> No body in the article.
+
+
+***
+![Airthings View series expands with standalone pollution and radon monitors](https://cdn.slashgear.com/wp-content/uploads/2022/01/airthings-plus.jpg "Airthings View series expands with standalone pollution and radon monitors")
+
+
+[Airthings View series expands with standalone pollution and radon monitors](https://www.slashgear.com/airthings-view-series-expands-with-standalone-pollution-and-radon-monitors-06706021/)
+
+
+> Residential indoor air quality monitoring company Airthings has announced two new products in its 'View' series, the View Radon and View Pollution. These two new models join the View Plus launched back in March 2021, offering consumers new ways to keep tabs on their home's air quality levels, as well as monitoring for the invisible, scent-free gas known as radon. Airthings Radon, a naturally occurring gas, is radioactive and can cause lung cancer in people who are exposed to it, the EPA explains.
+
+
+***
+![JBL's PartyBox series gets new ultra-portable Encore Essential speaker](https://cdn.slashgear.com/wp-content/uploads/2022/01/JBL_Pulse-5.jpg "JBL's PartyBox series gets new ultra-portable Encore Essential speaker")
+
+
+[JBL's PartyBox series gets new ultra-portable Encore Essential speaker](https://www.slashgear.com/jbls-partybox-series-gets-new-ultra-portable-encore-essential-speaker-06706074/)
+
+
+> JBL has just expanded its range by adding three new speakers: The JBL Pulse 5, JBL Boombox 3, and the JBL PartyBox Encore Essential. Each of these three portable speakers looks entirely different and brings something new to the table. Starting with the vibrant Pulse 5 that provides its users with a fun light show, and ending with the large camo Boombox, there's a lot to feel hyped about in 2022 for the fans of the brand. JBL The Pulse 5 and Boombox 3 are new additions to already existing and successful lines of portable speakers.
+
+
+***
+![Across the Pond: A Look at 20th-Century Architecture and Building Catalogs From England](https://cdnassets.hw.net/77/ae/cf6c92bb47ab80261da8ac38f7a5/jan-bthl-22-hero.jpg "Across the Pond: A Look at 20th-Century Architecture and Building Catalogs From England")
+
+
+[Across the Pond: A Look at 20th-Century Architecture and Building Catalogs From England](https://www.architectmagazine.com/technology/across-the-pond-a-look-at-20th-century-architecture-and-building-catalogs-from-england_o)
+
+
+> History Across the Pond: A Look at 20th-Century Architecture and Building Catalogs From England From an 1880s guide to decorative toilets to documents on steel, page through these manuals from the Building Technology Heritage Library's collection of 19th- and 20th-century catalogs. courtesy BTHL This post is part of a monthly series that explores the historical applications of building materials and systems through resources from the Building Technology Heritage Library (BTHL), an online collection of AEC catalogs, brochures, trade publications, and more.
+
+
+***
+![Products and Tech to Watch in 2022](https://cdnassets.hw.net/87/12/e578036f47fc8198a7327cbaca92/panelite1.jpg "Products and Tech to Watch in 2022")
+
+
+[Products and Tech to Watch in 2022](https://www.architectmagazine.com/technology/products-and-tech-to-watch-in-2022_o)
+
+
+> courtesy Panelite The new year brings hope that the coronavirus pandemic will diminish into a much less menacing endemic. In the past two years, we have seen technology advance rapidly in response to COVID-19, sometimes in surprising ways. The fact that we are now living in a pandemic-influenced design experiment is palpable: Research is conducted on the fly, hypotheses are quickly made and altered, and successes that emerge are immediately embraced. This is a time of great acceleration of change in architecture and allied fields.
+
+
