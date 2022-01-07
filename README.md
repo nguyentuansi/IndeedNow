@@ -42976,3 +42976,43 @@
 > By Ryan Davis (January 6, 2022, 9:36 PM EST) -- The U.S. International Trade Commission handed Sonos Inc. a victory in its wide-ranging patent dispute with Google on Thursday, finding that the Silicon Valley tech giant infringed five Sonos patents on audio technology and barring the infringing products from being imported into the U.S. from China.Google infringed five Sonos patents on audio technology, the U.S. International Trade Commission found. (AP Photo/Jeff Chiu) The commission's decision, which came nearly two years to the day after California-based Sonos filed its complaint, reviewed and upheld Chief Administrative Law Judge Charles E.
 
 
+***
+![Tariff Hike Impact to Stay Limited in Q3 FY22 for Telcos: ICICI Securities](https://telecomtalk.info/wp-content/uploads/2022/01/tariff-hike-impact-to-stay-limited-in.jpeg "Tariff Hike Impact to Stay Limited in Q3 FY22 for Telcos: ICICI Securities")
+
+
+[Tariff Hike Impact to Stay Limited in Q3 FY22 for Telcos: ICICI Securities](https://telecomtalk.info/tariff-hike-impact-to-stay-limited-in/490137/)
+
+
+> The overall revenue growth for mobile services in Q3 FY22 will be steady as the 20% tariff hikes in the last leg of the quarter would have limited impact.A report from ICICI Direct Research suggests that Jio, Airtel, and Vodafone Idea (Vi) will see a 6%, 4%, and 6% growth in the ARPU.Vodafone Idea still has a long way to go with increasing ARPU as even after offering way more expensive plans than Jio, its ARPU is very less.The overall revenue growth for mobile services in Q3 FY22 will be steady as the 20% tariff hikes in the last leg of the quarter would have a limited impact, says ICICI Securities.
+
+
+***
+![Soon retweet with TikTok-like reaction videos on Twitter](https://img.dtnext.in/Articles/2022/Jan/202201071110233129_Soon-retweet-with-TikToklike-reaction-videos-on-Twitter_SECVPF.gif "Soon retweet with TikTok-like reaction videos on Twitter")
+
+
+[Soon retweet with TikTok-like reaction videos on Twitter](https://www.dtnext.in/Lifestyle/Technology/2022/01/07111023/1337571/Soon-retweet-with-TikToklike-reaction-videos-on-Twitter.vpf)
+
+
+> This feature is also being tested with some of the iOS users. New Delhi: Joining Meta-owned Instagram in blatantly copying TikTok features, micro-blogging platform Twitter has started testing a new tool called "quote tweet with reaction," where the users can embed a tweet copy into a photo or video instead of just replying with text.The feature is currently being tested with some iOS users."Testing on iOS: when you tap the Retweet icon, choose 'Quote Tweet with reaction' to create and customise your very own Tweet Take a reaction video (or photo) with the Tweet embedded," the company said in a tweet late on Thursday.
+
+
+***
+![Explained: What is Wi-Fi 6 Release 2 and what it means for you](https://static.toiimg.com/thumb/msid-88749114,width-1070,height-580,imgsize-8566,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Explained: What is Wi-Fi 6 Release 2 and what it means for you")
+
+
+[Explained: What is Wi-Fi 6 Release 2 and what it means for you](https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-wi-fi-6-release-2-and-what-it-means-for-you/articleshow/88749114.cms)
+
+
+> Wi-Fi 6 Release 2 includes new features that bring power management improvements for devices in the enterprise... Read More The Wi-Fi Alliance has announced a new wireless standard called the Wi-Fi 6 Release 2 at CES 2022 . It should be noted that there are already two standards in the same generation: Wi-Fi 6 and 6E wireless standards. The Wi-Fi 6E standard uses the 6GHz frequency band to offer better connectivity. So what makes the Release 2 special? Read on: What is Wi-Fi 6 Release 2 The latest standard upgrade in Wi-Fi – after Wi-Fi 6 and Wi-Fi 6E – is claimed to offer better performance when faced with the issue of an increasing number of devices and a higher traffic density.
+
+
+***
+![WhatsApp UI Change Update: WhatsApp is planning to bring this UI change to the chat list](https://static.toiimg.com/thumb/msid-88751095,width-1070,height-580,imgsize-25498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "WhatsApp UI Change Update: WhatsApp is planning to bring this UI change to the chat list")
+
+
+[WhatsApp UI Change Update: WhatsApp is planning to bring this UI change to the chat list](https://timesofindia.indiatimes.com/gadgets-news/whatsapp-is-planning-to-bring-this-ui-change-to-the-chat-list/articleshow/88751095.cms)
+
+
+> WhatsApp is planning to remove broadcast lists from the chat list in a future update. According to a report by WabetaInfo, broadcast lists will be available in your contacts list. WaBetaInfo is the online platform that keeps track of new and upcoming WhatsApp features.In its report, it says that WhatsApp is planning to make the chats list very clean and to do that, they need to remove certain UI elements. At present, ‘Broadcast lists' along with ‘New group' are available at the top of the chat list.
+
+
