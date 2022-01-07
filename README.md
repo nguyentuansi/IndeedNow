@@ -43104,3 +43104,33 @@
 > Rush is one of Battlefield's classic modes, and players were delighted when it arrived in Battlefield 2042. However, even after calls for Rush to remain permanent, DICE removed it, leaving players annoyed and confused. It's no secret that Battlefield 2042 is in a rough state at the moment, with players begging for the developers to make major changes that would return the franchise to its former glory. Battlefield 2042's Game Director recently gave a reassuringly candid response to these demands, but the community still feels ignored after the fan-favorite Rush game mode has been removed.
 
 
+***
+![Gordon Murray T.33 Supercar GT with a mighty V12 engine is debuting soon](https://cdn.slashgear.com/wp-content/uploads/2022/01/image001-4-1641479072.v2.jpg "Gordon Murray T.33 Supercar GT with a mighty V12 engine is debuting soon")
+
+
+[Gordon Murray T.33 Supercar GT with a mighty V12 engine is debuting soon](https://www.slashgear.com/gordon-murray-t-33-supercar-gt-with-a-mighty-v12-engine-is-debuting-soon-07706136)
+
+
+> As the entire automotive industry makes a radical shift towards electrification, along comes Prof. Gordon Murray CBE with a follow-up to the bewildering T.50 fan car. And like the T.50, Gordon Murray Automotive's (GMA) next project is set to become 'the world's finest supercar GT' and will feature a detuned version of the T.50's bespoke Cosworth V12 gas engine. GMA posted a short teaser video of its new car's badge on its Twitter page. Unfortunately, that's all there is to know about the latest T.
+
+
+***
+![Watch a BMW change colors, plus other cool tech unveiled at CES](https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/1/95/1958d741-a32d-5420-83f4-1dd3cffb06c9/61d8755589db1.preview.jpg?crop=1826%2C959%2C0%2C87&resize=1200%2C630&order=crop%2Cresize "Watch a BMW change colors, plus other cool tech unveiled at CES")
+
+
+[Watch a BMW change colors, plus other cool tech unveiled at CES](https://journalstar.com/lifestyles/technology/watch-a-bmw-change-colors-plus-other-cool-tech-unveiled-at-ces/collection_1958d741-a32d-5420-83f4-1dd3cffb06c9.html)
+
+
+> (8) updates to this series since Updated 20 min ago BMW unveiled this color-changing technology that lets a vehicle go from black to white within seconds. Meet Ameca, a humanoid robot that can make engaging human facial gestures by using ground-breaking advancements in artificial intelligence and… Sierra Space is the newest bid in the new space race. Automotive technology is front and center at CES and several automakers are unveiling their latest smart EVs. American company ChessUp claims it can help players learn to beat a chess master with a new interactive board that guides users with the help … LG Electronics is showcasing its vision for a smart technology home as part of the Consumer Electronics Show.
+
+
+***
+![Binary Search : programming](https://external-preview.redd.it/LkFOXGwUmMTYkXbFXRGBOU6zJK2Yz6DX0kieQ-5zPNI.jpg?auto=webp&s=79d0240eaf0d30fc8273338b73bfb5f7d9aff056 "Binary Search : programming")
+
+
+[Binary Search : programming](https://www.reddit.com/r/programming/comments/rygbz6/sigma_coder_binary_search)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
