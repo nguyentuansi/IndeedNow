@@ -43057,3 +43057,50 @@
 > No body in the article.
 
 
+***
+![Toyota teases new GR GT3 Concept for Tokyo Auto Salon debut](https://cdn.slashgear.com/wp-content/uploads/2022/01/toyota35223.jpg "Toyota teases new GR GT3 Concept for Tokyo Auto Salon debut")
+
+
+[Toyota teases new GR GT3 Concept for Tokyo Auto Salon debut](https://www.slashgear.com/toyota-teases-new-gr-gt3-concept-for-tokyo-auto-salon-debut-07706180)
+
+
+> Every year in mid-January, an event is held in Tokyo called the Tokyo Auto Salon. Many Japanese automakers reveal special vehicles at that event, and unfortunately, many of them will never come to the US. Toyota has confirmed that at the Tokyo Auto Salon 2022, running from January 14 through January 16, it will reveal a new sports car called the GR GT3 Concept. Toyota will also reveal a fully tuned version of the GR Yaris along with the new concept car. Image: Toyota GR GT3 Concept The only details Toyota has officially confirmed about its GR GT3 Concept is that it will be debuted at the Tokyo Auto Salon.
+
+
+***
+![Sonos beat Google on patents: How Nest speakers will suffer](https://cdn.slashgear.com/wp-content/uploads/2022/01/sonos1.jpg "Sonos beat Google on patents: How Nest speakers will suffer")
+
+
+[Sonos beat Google on patents: How Nest speakers will suffer](https://www.slashgear.com/sonos-beat-google-on-patents-how-nest-speakers-will-suffer-07706188)
+
+
+> Google and audio company Sonos have been in a long-standing legal battle over patent infringement. After two years of lawsuits and countersuits and a preliminary ruling in favor of Sonos last year, the US International Trade Commission (ITC) has fortified that Google did, indeed, use Sonos's patented audio streaming features and has issued an order that could potentially ban all Google products violating the patents from being imported into and sold in the US (via The New York Times). Image: Sonos The devices impacted by the ITC order not only include ​​Google's Nest Home smart speakers and Chromecast devices but also Pixel smartphones and Chromebooks, and a ban on all of these products could be a major blow to the tech giant.
+
+
+***
+![Realme 9i Smartphone and New Colour Variant for Realme Book Teased by Realme India CEO](https://telecomtalk.info/wp-content/uploads/2022/01/realme-9i-smartphone-and-new-colour-variant-1.jpg "Realme 9i Smartphone and New Colour Variant for Realme Book Teased by Realme India CEO")
+
+
+[Realme 9i Smartphone and New Colour Variant for Realme Book Teased by Realme India CEO](https://telecomtalk.info/realme-9i-smartphone-and-new-colour-variant/490260)
+
+
+> In the shared image, Realme 9i is seen to be available in the blue colour option with a textured rear panel.Realme 9i is expected to be powered by Snapdragon 680 chipset combined with an Adreno 610 GPU for graphics.The device is rumoured to be backed by a 5000mAh battery and support 33W fast charging technology.The CEO of Realme India has taken on Twitter to tease multiple information on upcoming Realme devices. Back in August, Realme had launched its first laptop – Realme Book in India which was made available in the Blue colour option.
+
+
+***
+[Harris Williams Advises basys on its Sale to Five Arrows Capital Partners and BPOC](http://www.businesswire.com/news/home/20220107005360/en/Harris-Williams-Advises-basys-on-its-Sale-to-Five-Arrows-Capital-Partners-and-BPOC/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
+***
+![Battlefield 2042 players furious as fan-favorite mode removed](https://cdn.charlieintel.com/wp-content/uploads/2022/01/07072404/bf-2042-devs-remove-fan-favorite-mode-1000x600.jpg "Battlefield 2042 players furious as fan-favorite mode removed")
+
+
+[Battlefield 2042 players furious as fan-favorite mode removed](https://charlieintel.com/battlefield-2042-players-furious-as-fan-favorite-mode-removed/155893)
+
+
+> Rush is one of Battlefield's classic modes, and players were delighted when it arrived in Battlefield 2042. However, even after calls for Rush to remain permanent, DICE removed it, leaving players annoyed and confused. It's no secret that Battlefield 2042 is in a rough state at the moment, with players begging for the developers to make major changes that would return the franchise to its former glory. Battlefield 2042's Game Director recently gave a reassuringly candid response to these demands, but the community still feels ignored after the fan-favorite Rush game mode has been removed.
+
+
