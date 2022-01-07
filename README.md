@@ -42956,3 +42956,23 @@
 > courtesy Panelite The new year brings hope that the coronavirus pandemic will diminish into a much less menacing endemic. In the past two years, we have seen technology advance rapidly in response to COVID-19, sometimes in surprising ways. The fact that we are now living in a pandemic-influenced design experiment is palpable: Research is conducted on the fly, hypotheses are quickly made and altered, and successes that emerge are immediately embraced. This is a time of great acceleration of change in architecture and allied fields.
 
 
+***
+![Google to introduce new connectivity features for smart devices in 2022](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-0oh9vvs9288dmj8io1b3nkmhg4-20220107082057.jpeg "Google to introduce new connectivity features for smart devices in 2022")
+
+
+[Google to introduce new connectivity features for smart devices in 2022](https://www.asianage.com/technology/in-other-news/070122/google-to-introduce-new-connectivity-features-for-smart-devices-in-2022.html)
+
+
+> ANI Published : Jan 7, 2022, 8:25 am IST Updated : Jan 7, 2022, 8:25 am IST The search giant aims to make content streaming a bit smarter and more seamless across different devices  This file photo taken on November 08, 2021 in Moscow shows the US multinational technology and Internet-related services company Google's logo on a smartphone screen . (Photo: AFP) Washington: At CES 2022, Google shared its future plans to make device connectivity easier and more seamless for Android phones, Chromebooks, Android TVs and Wear OS smartwatches.
+
+
+***
+![ITC Blocks Imports Of Google Products In Sonos Patent War](https://assets.law360news.com/1453000/1453299/9f1f8d5cd999289b833dc13a817c42fa3484a26d-d5c089019b2a4489a4af91f15a726c00_australia_digital_platforms_77751_5000x3332.jpg "ITC Blocks Imports Of Google Products In Sonos Patent War")
+
+
+[ITC Blocks Imports Of Google Products In Sonos Patent War](https://www.law360.com/articles/1453299/itc-blocks-imports-of-google-products-in-sonos-patent-war)
+
+
+> By Ryan Davis (January 6, 2022, 9:36 PM EST) -- The U.S. International Trade Commission handed Sonos Inc. a victory in its wide-ranging patent dispute with Google on Thursday, finding that the Silicon Valley tech giant infringed five Sonos patents on audio technology and barring the infringing products from being imported into the U.S. from China.Google infringed five Sonos patents on audio technology, the U.S. International Trade Commission found. (AP Photo/Jeff Chiu) The commission's decision, which came nearly two years to the day after California-based Sonos filed its complaint, reviewed and upheld Chief Administrative Law Judge Charles E.
+
+
