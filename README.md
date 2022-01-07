@@ -43016,3 +43016,44 @@
 > WhatsApp is planning to remove broadcast lists from the chat list in a future update. According to a report by WabetaInfo, broadcast lists will be available in your contacts list. WaBetaInfo is the online platform that keeps track of new and upcoming WhatsApp features.In its report, it says that WhatsApp is planning to make the chats list very clean and to do that, they need to remove certain UI elements. At present, ‘Broadcast lists' along with ‘New group' are available at the top of the chat list.
 
 
+***
+![iPhone 14 Pro to feature pill-shaped camera cutout: Report](https://img.dtnext.in/Articles/2022/Jan/202201071416070587_iPhone-14-Pro-to-feature-pillshaped-camera-cutout-Report_SECVPF.gif "iPhone 14 Pro to feature pill-shaped camera cutout: Report")
+
+
+[iPhone 14 Pro to feature pill-shaped camera cutout: Report](https://www.dtnext.in/Lifestyle/Technology/2022/01/07141607/1337599/iPhone-14-Pro-to-feature-pillshaped-camera-cutout-.vpf)
+
+
+> It is also said that there will be support for two eSIM cards, ensuring dual SIM functionality. The removal of the SIM card slot could further improve water resistance. San Francisco: Apple is expected to launch its new 'iPhone 14 Pro' models next year and now a new report suggests that the handset will feature a pill-shaped camera cutout at the top of the display, with the notch removed.According to tweets shared by leaker @dylandkt, to accommodate this change, Face ID hardware will be moved under the display, reports MacRumors.
+
+
+***
+[Global Hyperspectral Imaging System Market Research Report (2021 to 2026)](http://www.businesswire.com/news/home/20220107005247/en/Global-Hyperspectral-Imaging-System-Market-Research-Report-2021-to-2026---by-Component-Application-and-Region---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
+***
+![CERT-In sends high severity warning to Google Chrome users](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202201/_1200-sixteen_nine.jpg "CERT-In sends high severity warning to Google Chrome users")
+
+
+[CERT-In sends high severity warning to Google Chrome users](https://www.businesstoday.in/technology/news/story/cert-in-sends-high-severity-warning-to-google-chrome-users-318272-2022-01-07)
+
+
+> Business Today Desk Jan 07, 2022, Updated Jan 07, 2022, 5:12 PM IST The Indian government has issued a high severity warning via the Indian Computer Emergency Response Team (CERT-In) under the IT ministry to Google Chrome users. The warning has specifically been issued for those who are using a version of Chrome that is older than the 97.0.4692.71 version. As per the warning shared by CERT-In on its website, multiple vulnerabilities have been reported on Google Chrome that can be exploited by malicious actors to execute arbitrary code on a targeted system.
+
+
+***
+[908 Devices Announces GSK Purchases Fifth REBEL Cell Culture Media Analyzer](http://www.businesswire.com/news/home/20220107005076/en/908-Devices-Announces-GSK-Purchases-Fifth-REBEL-Cell-Culture-Media-Analyzer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
+***
+[Sonder Holdings Inc. Builds Corporate Travel Business With +100 New Accounts](http://www.businesswire.com/news/home/20220107005125/en/Sonder-Holdings-Inc.-Builds-Corporate-Travel-Business-With-100-New-Accounts/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
