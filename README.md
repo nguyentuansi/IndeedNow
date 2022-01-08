@@ -43354,3 +43354,33 @@
 > WhatsApp's new versions often bring exciting features that many users would want to end up taking advantage of, and it can be easy to figure out what these new versions might be incorporating by checking out the TestFlight Beta Program which is where most of these features are tested out before they are rolled out to a wider range of consumers. As per WABI, version 2.22.1.71 is the latest version that is currently accessible for users.The upcoming version is going to feature some changes with regards to notifications.
 
 
+***
+![BaaS Fintech Unit Says Financial Products Such as Credit Are Key Focus Area for 2022](https://www.crowdfundinsider.com/wp-content/uploads/2018/06/Shooting-Target-Carnival-Game-Competition-Prize-Win-Challenge-Target.jpg "BaaS Fintech Unit Says Financial Products Such as Credit Are Key Focus Area for 2022")
+
+
+[BaaS Fintech Unit Says Financial Products Such as Credit Are Key Focus Area for 2022](https://www.crowdfundinsider.com/2022/01/185268-baas-fintech-unit-says-financial-products-such-as-credit-are-key-focus-area-for-2022)
+
+
+> Itai Damti, CEO at Unit, a financial services company that helps tech firms build financial features into their products (accounts, cards, payments, lending), notes that 2021 was a great year for Unit, thanks to their clients, team, partners, and investors. In the 'demanding' day-to-day of building a business and company, it's 'easy to lose track of the bigger picture sometimes,' Damti acknowledges. He writes in a blog post that they 'shipped an average of 15 times a week (~800 times during the year) and focused [their] product development on five main themes.
+
+
+***
+![ION Markets Provides Trading Connectivity for Trumid, a Fintech and Electronic Bond Trading Platform](https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Corporate-Bond-Security-Pacific-Railroad-1865.jpeg "ION Markets Provides Trading Connectivity for Trumid, a Fintech and Electronic Bond Trading Platform")
+
+
+[ION Markets Provides Trading Connectivity for Trumid, a Fintech and Electronic Bond Trading Platform](https://www.crowdfundinsider.com/2022/01/185266-ion-markets-provides-trading-connectivity-for-trumid-a-fintech-and-electronic-bond-trading-platform)
+
+
+> ION Markets, an international provider of trading solutions for capital markets, has upgraded its connectivity in order to support Trumid's Attributed Trading, a disclosed dealer-to-client negotiation protocol, via the ION Credit solution. Trumid is a Fintech firm and electronic bond trading platform, 'building differentiated trading solutions for its community of users,' according to a release. This upgrade 'builds on previous versions of the Trumid gateway that supports Axe contribution and post-trade functionalities, providing flexible negotiation options for users,' the announcement noted.
+
+
+***
+![The 100% test coverage topic : programming](https://external-preview.redd.it/znFFwNfB6cpxvis-DShYa8_SFoXSn__OuKoY4vaHr0g.jpg?auto=webp&s=4246c682620be82e8020de6d41db2c428cfc1ec5 "The 100% test coverage topic : programming")
+
+
+[The 100% test coverage topic : programming](https://www.reddit.com/r/programming/comments/rz7lir/the_100_test_coverage_topic)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
