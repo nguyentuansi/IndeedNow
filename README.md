@@ -43304,3 +43304,53 @@
 > Avataar, a platform for AI and computer vision platform, has secured $45 million in Series B funding led by American investment firm Tiger Global Management, with participation from Sequoia India. Image Source: Avataar Avataar, which is operated by Soul Vision Creations Pvt. Ltd, claims that their platform can detect, modify, analyze, as well as manipulate users' physical surroundings via a live video stream. With 3D renderings of products, direct-to-consumer (DTC) brands and e-commerce platforms can shape their consumer experiences.
 
 
+***
+![Incredible vintage 1982 Mercedes-Benz SL racer heads to auction](https://cdn.slashgear.com/wp-content/uploads/2022/01/mercedes-racer-auction-front.jpg "Incredible vintage 1982 Mercedes-Benz SL racer heads to auction")
+
+
+[Incredible vintage 1982 Mercedes-Benz SL racer heads to auction](https://www.slashgear.com/incredible-vintage-1982-mercedes-benz-sl-racer-heads-to-auction-08706336)
+
+
+> Racing cars with real racing pedigree frequently bring significant sums of money when they change hands. The car in the images below is a 1982 Mercedes-Benz SL Trans Am racing car purposely built to tear up the track. The car was raced by the DeAtley Motorsports/Michelob race team in its day. The car is hitting the auction with Mecum Auctions in Kissimmee, and the auction ends on the 16th. Image: Mecum Auctions Drivetrain Specifications The vehicle was previously owned by Neat DeAtley, who owned a Mercedes-Benz dealership in Idaho.
+
+
+***
+![Satechi 165W GaN charger can power four USB-C gadgets at the same time](https://cdn.slashgear.com/wp-content/uploads/2022/01/satechi-GAN-charger.jpg "Satechi 165W GaN charger can power four USB-C gadgets at the same time")
+
+
+[Satechi 165W GaN charger can power four USB-C gadgets at the same time](https://www.slashgear.com/satechi-165w-gan-charger-can-power-four-usb-c-gadgets-at-the-same-time-08706327)
+
+
+> Satechi is back with another gadget accessory, this one capable of powering all of your daily gear at the same time. The Satechi 165W USB-C GaN charger features four ports and enough power to juice up an iPad, iPhone, and laptop at the same time — or whichever other USB-C device you may carry around. Satechi Gallium Nitride (GaN) chargers have grown in popularity due to their ability to charge multiple devices rapidly at the same time. The exact number of gadgets that can be connected to a GaN charger depends on the device, but generally speaking, these kinds of power bricks can be used to fast charge a smartphone and a tablet at the same time, as well as power at least one other device, though potentially at slower charging speeds.
+
+
+***
+![Airtel X-Safe Comes With Three Different Surveillance Cameras](https://telecomtalk.info/wp-content/uploads/2022/01/airtel-x-safe-comes-with-three-different.jpg "Airtel X-Safe Comes With Three Different Surveillance Cameras")
+
+
+[Airtel X-Safe Comes With Three Different Surveillance Cameras](https://telecomtalk.info/airtel-x-safe-comes-with-three-different/490566)
+
+
+> Bharti Airtel's X-Safe, a home monitoring service comes with three different cameras.Airtel X-Safe has piloted in Delhi-NCR region for select Airtel Xstream Fiber customers.The service is not widely available in India yet.Bharti Airtel's X-Safe, a home monitoring service comes with three different cameras. Customers can choose from either of them or choose all of them depending on their needs. On Friday, TelecomTalk reported that Airtel X-Safe has piloted in the Delhi-NCR region for select Airtel Xstream Fiber customers.
+
+
+***
+![Google Releases New Version of Chrome With Extra Security and Memory Safety Features](https://blogger.googleusercontent.com/img/a/AVvXsEhTW_eok24iLBA4t1GBBoosNWxFrRWkTTkZ4Znuu5lliu2cNMq5udo1UllNcJyqp8CKbbd_S3lWhzq77PJHdShvTAtmlkzB4emMISVlfxWKkUtQFzFuZNaWmhI93dBHcrUNgHtPjI09ogg8nRp44HJnheOdTnjucfdldEff-6SazpiBWvjg_kSAVYic=s16000 "Google Releases New Version of Chrome With Extra Security and Memory Safety Features")
+
+
+[Google Releases New Version of Chrome With Extra Security and Memory Safety Features](https://www.digitalinformationworld.com/2022/01/google-releases-new-version-of-chrome.html)
+
+
+> Every time Google releases a new version of its flagship browser Chrome, it can be expected that said version is going to contain a few updates here or there that would help make the browser a great deal more effective. The tech juggernaut has just rolled out a brand new update to Chrome, with the latest version being Chrome 97, and it contains some of those improvements all in all.One of the main upgrades that users will be seeing has to do with security. Security improvements are a priority for most tech companies because of the fact that this is the sort of thing that could potentially end up enabling users to avoid various kinds of threats online.
+
+
+***
+![Here's What the New WhatsApp Update for iOS Includes](https://blogger.googleusercontent.com/img/a/AVvXsEgVqy-UQMcHAHKhDAIVyR7RR5d8XFFvbcXyQHiNwuFxZmQIyz1huUqfZIGkrdiozDL8xWDiZWeSei0mwKcyAafADNhbznDKzeE7UCWGrNF_qdIbgF6UYVml8FeNw65zWs9oNUZvH2RgTtyLfu2I_30OcBVKcbkLppQi0XjSQhcmG3yHVi3zfexzEroX=s16000 "Here's What the New WhatsApp Update for iOS Includes")
+
+
+[Here's What the New WhatsApp Update for iOS Includes](https://www.digitalinformationworld.com/2022/01/heres-what-new-whatsapp-update-for-ios.html)
+
+
+> WhatsApp's new versions often bring exciting features that many users would want to end up taking advantage of, and it can be easy to figure out what these new versions might be incorporating by checking out the TestFlight Beta Program which is where most of these features are tested out before they are rolled out to a wider range of consumers. As per WABI, version 2.22.1.71 is the latest version that is currently accessible for users.The upcoming version is going to feature some changes with regards to notifications.
+
+
