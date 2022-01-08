@@ -43184,3 +43184,23 @@
 > Innovators at South Korea's Ajou University have created a robotic hand that is capable of holding fragile objects like eggs. It can also crush cans and work with tools like tweezers and scissors. An article published in Nature Communications explained all the details of the new technology. It weighs just under two and a half pounds and measures eight and a half inches (21.6 centimeters). Its most striking feature, however, is its combination of delicacy, strength, and flexibility. The device is made of steel and aluminum, and each finger is powered by three small motors in the palm.
 
 
+***
+![The Daily Life of a Programmer in Syria : programming](https://external-preview.redd.it/wTYsea-TWC_qmzdjHjJ5LYfrv8GTf1B5dyFFl1OKoGQ.jpg?auto=webp&s=e8d4005cc611ec88468f82afb31aa7df3d288c33 "The Daily Life of a Programmer in Syria : programming")
+
+
+[The Daily Life of a Programmer in Syria : programming](https://www.reddit.com/r/programming/comments/ryqp6s/the_daily_life_of_a_programmer_in_syria)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![NTT unit upbeat on growth outlook](https://static.bangkokpost.com/media/content/20220108/c1_2244047_220108093728_700.jpg "NTT unit upbeat on growth outlook")
+
+
+[NTT unit upbeat on growth outlook](https://www.bangkokpost.com/tech/2244047/ntt-unit-upbeat-on-growth-outlook)
+
+
+> NTT Thailand, the local operating unit of the Japan-based technology firm, expects continued strong growth for its business this year, driven by an upsurge in cloud service usage and digital transformation pursued by enterprises."Thailand's IT enterprises will continue to grow despite economic turmoil as businesses keep investing in new technologies to survive and thrive during this volatile situation," said Sutas Kongdumrongkiat, chief executive of NTT Thailand, which also oversees sales in Cambodia, Myanmar and Laos.
+
+
