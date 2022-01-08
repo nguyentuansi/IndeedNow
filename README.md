@@ -43254,3 +43254,53 @@
 > Governments, regulators, vendors, decision makers, and suppliers play critical roles in influencing and making decisions on what can be done for a better, sustainable, and greener tomorrow in their respective sectors. Every day, we make choices in our lives that affect the environment, the climate, and our communities. The sustainability of the new digital economy must be embedded in our business practices, requiring us to leverage technology to be agile and resilient to disruption and develop new post-COVID business models.
 
 
+***
+![How tech innovations can help improve your home experience – from housework to play](https://bloximages.chicago2.vip.townnews.com/hccommunityjournal.com/content/tncms/assets/v3/editorial/3/d5/3d57a34e-01eb-5bb3-acd3-612a59cc5484/61d7fab7acf16.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize "How tech innovations can help improve your home experience – from housework to play")
+
+
+[How tech innovations can help improve your home experience – from housework to play](https://www.hccommunityjournal.com/online_features/tech_talk_and_innovation/image_3d57a34e-01eb-5bb3-acd3-612a59cc5484.html)
+
+
+> No body in the article.
+
+
+***
+![Nvidia could spring a surprise GPU launch next week](https://cdn.mos.cms.futurecdn.net/2KBzozckxtUC6pWpSpMxcP-1200-80.jpg "Nvidia could spring a surprise GPU launch next week")
+
+
+[Nvidia could spring a surprise GPU launch next week](https://www.techradar.com/news/nvidia-could-spring-a-surprise-gpu-launch-next-week)
+
+
+> (Image credit: Nvidia) Nvidia revealed a pair of new desktop graphics cards at CES 2022 – the RTX 3090 Ti and the RTX 3050, covering both the high and low-end of the Ampere spectrum – but another RTX 3000 series GPU is imminent, according to the grapevine.Sources who Wccftech has spoken to claim that a third new desktop GPU is set to arrive imminently in the form of a new spin on the existing RTX 3080 which ups the video RAM from 10GB to 12GB (GDDR6X).Not only that, but the new version of the 3080 will supposedly have a slight increase in CUDA core count, bumping it to 8,960 (as opposed to 8,704 cores in the existing model).
+
+
+***
+![Why you can't buy a zero-trust silver bullet](https://cdn.mos.cms.futurecdn.net/a3iemdsrbs6kjNEGY4ZiXk-1200-80.jpg "Why you can't buy a zero-trust silver bullet")
+
+
+[Why you can't buy a zero-trust silver bullet](https://www.techradar.com/features/why-you-cant-buy-a-zero-trust-silver-bullet)
+
+
+> As businesses evolve to adopt more cloud services, remote working and bring your own device (BYOD) practices, they are creating new attack surfaces that need new security measures. The traditional perimeter security model of 'trusted inside' versus 'untrusted outside' no longer exists.About the authorTris Morgan, Director of Security Advisory Services at BT.This has led to the significant adoption of zero-trust – an approach whereby you assume that all application access is potentially malicious or undesirable.
+
+
+***
+![Tech Tonic with Vishal Mathur: Is the foldable phone making a comeback?](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AASyTel.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=295&y=134 "Tech Tonic with Vishal Mathur: Is the foldable phone making a comeback?")
+
+
+[Tech Tonic with Vishal Mathur: Is the foldable phone making a comeback?](https://www.hindustantimes.com/lifestyle/art-culture/tech-tonic-with-vishal-mathur-is-the-foldable-phone-making-a-comeback-101641638276185.html)
+
+
+> It's a clear case of back to the future. Some of the coolest new phones are inspired by what can now be called modern history. As a slice of consumers looks to go smaller and lighter, flip phones or foldable phones are making a comeback. These devices are finally breaking the monotony that has afflicted smartphone design. There is variation in shape and design, in what has otherwise been an unashamed race to go bigger, with each new model for at least a decade being yet another unimaginative slab (at least on the outside).
+
+
+***
+![Avataar bags $45M in Series B round led by Tiger Global, Sequoia India](https://techstory.in/wp-content/uploads/2022/01/Avataar.png "Avataar bags $45M in Series B round led by Tiger Global, Sequoia India")
+
+
+[Avataar bags $45M in Series B round led by Tiger Global, Sequoia India](https://techstory.in/avataar-raises-45-million-series-b-round-tiger-global)
+
+
+> Avataar, a platform for AI and computer vision platform, has secured $45 million in Series B funding led by American investment firm Tiger Global Management, with participation from Sequoia India. Image Source: Avataar Avataar, which is operated by Soul Vision Creations Pvt. Ltd, claims that their platform can detect, modify, analyze, as well as manipulate users' physical surroundings via a live video stream. With 3D renderings of products, direct-to-consumer (DTC) brands and e-commerce platforms can shape their consumer experiences.
+
+
