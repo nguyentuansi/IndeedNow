@@ -43204,3 +43204,53 @@
 > NTT Thailand, the local operating unit of the Japan-based technology firm, expects continued strong growth for its business this year, driven by an upsurge in cloud service usage and digital transformation pursued by enterprises."Thailand's IT enterprises will continue to grow despite economic turmoil as businesses keep investing in new technologies to survive and thrive during this volatile situation," said Sutas Kongdumrongkiat, chief executive of NTT Thailand, which also oversees sales in Cambodia, Myanmar and Laos.
 
 
+***
+![CCI Goes After Google Again for Allegedly Abusing Dominant Position](https://telecomtalk.info/wp-content/uploads/2022/01/cci-goes-after-google-again-for-allegedly.jpeg "CCI Goes After Google Again for Allegedly Abusing Dominant Position")
+
+
+[CCI Goes After Google Again for Allegedly Abusing Dominant Position](https://telecomtalk.info/cci-goes-after-google-again-for-allegedly/490487)
+
+
+> The Competition Commission of India (CCI) has gone after Google again for allegedly abusing its dominant position in the country. A probe has been ordered against Google to ensure that the search-engine giant is not creating an unfair competition environment.As per PTI, CCI said that it is important that there is a fair share of revenues amongst all the stakeholders in the news media industry. The competition regulator wants to ensure that the digital gatekeeper firms are not abusing their dominant position to harm the competitive process.
+
+
+***
+![China Tech Digest: WeRide Robobus Starts Operation in Guangzhou; Guoxin Macro's Automotive Chip Supplied To Domestic Car Makers](https://assets.chinamoneynetwork.com/wp-content/uploads/20220108104508/WERIDE-3-696x464.jpg "China Tech Digest: WeRide Robobus Starts Operation in Guangzhou; Guoxin Macro's Automotive Chip Supplied To Domestic Car Makers")
+
+
+[China Tech Digest: WeRide Robobus Starts Operation in Guangzhou; Guoxin Macro's Automotive Chip Supplied To Domestic Car Makers](https://www.chinamoneynetwork.com/2022/01/08/china-tech-digest-weride-robobus-starts-operation-in-guangzhou-guoxin-macros-automotive-chip-supplied-to-domestic-car-makers)
+
+
+> WeRide Robobus starts operation in Guangzhou WeRide, a Chinese autonomous driving technology company, held the 'Robobus Operation Launch Ceremony' today, announcing that it will officially open to the public to operate all-driverless minibuses on Guangzhou International Biological Island. Hisense will release first self-developed 8K picture quality chip Hisense will soon release a new 'Hisense Chip', which is said to be China's first fully self-developed 8K AI picture quality chip. At the previous CES 2022, Hisense launched the world's first 8K laser display technology solution and the world's first 120-inch laser TV new product, and achieved 100% complete coverage of the BT.
+
+
+***
+![Ramesh, Personal Assistant Of Karnatakaâ€™s Former Deputy CM G Parameshwara, Allegedly Commits Suicide](https://media5.newsnationtv.com/images/2019/10/12/rameshpa-274.jpg "Ramesh, Personal Assistant Of Karnatakaâ€™s Former Deputy CM G Parameshwara, Allegedly Commits Suicide")
+
+
+[Ramesh, Personal Assistant Of Karnatakaâ€™s Former Deputy CM G Parameshwara, Allegedly Commits Suicide](https://english.newsnationtv.com/india/south/ramesh-personal-assistant-of-karnatakas-former-deputy-cm-allegedly-commits-suicide-inside-university-campus-240632.html)
+
+
+> New Delhi: Ramesh, a personal assistant of Karnataka's former deputy Chief Minister G Parameshwara, has allegedly committed suicide on Saturday afternoon. His body was found hanging on a tree in the Jnana Bharathi Campus of Bangalore University.  It is to be noted that the incident happened just two days after the Income Tax Department conducted raids against G Parameshwara and others. During raids, about Rs 5 crore cash was seized from various premises that were searched. The raids were in connection with a multi-crore tax evasion case linked to the NEET exams.
+
+
+***
+![Tech Hiring Accelerates as National Employment Growth Slows](https://www.pressreleasepoint.com/files/zen_favicon.JPG "Tech Hiring Accelerates as National Employment Growth Slows")
+
+
+[Tech Hiring Accelerates as National Employment Growth Slows](https://www.pressreleasepoint.com/tech-hiring-accelerates-national-employment-growth-slows)
+
+
+> Analysis by CompTIA shows continued momentum in tech hiring activity DOWNERS GROVE, Ill. 2022 – Technology-related employment and hiring opportunities continue to expand, according to an analysis by CompTIA , the nonprofit association for the information technology (IT) industry and workforce. December's technology employment gains bucked the generally underwhelming national employment trend. Technology industry companies added 11,000 workers in December, data from today's ' Employment Situation ' report from the U.
+
+
+***
+![Etisalat: Powering Up a Green Future](https://www-file.huawei.com/-/media/corp/home/image/logo_400x200.png "Etisalat: Powering Up a Green Future")
+
+
+[Etisalat: Powering Up a Green Future](https://www.huawei.com/en/technology-insights/publications/winwin/40/etisalat-green-future)
+
+
+> Governments, regulators, vendors, decision makers, and suppliers play critical roles in influencing and making decisions on what can be done for a better, sustainable, and greener tomorrow in their respective sectors. Every day, we make choices in our lives that affect the environment, the climate, and our communities. The sustainability of the new digital economy must be embedded in our business practices, requiring us to leverage technology to be agile and resilient to disruption and develop new post-COVID business models.
+
+
