@@ -43134,3 +43134,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
 
 
+***
+![Apple Fitness+ kicks off 2022 with two new major features](https://cdn.slashgear.com/wp-content/uploads/2022/01/Apple-Fitness-Collections-header.jpg "Apple Fitness+ kicks off 2022 with two new major features")
+
+
+[Apple Fitness+ kicks off 2022 with two new major features](https://www.slashgear.com/apple-fitness-kicks-off-2022-with-two-new-major-features-07706270)
+
+
+> Apple today announced that two new features are coming to Apple Fitness+. These new features, called 'Collections' and 'Time to Run,' will be debuting in the app next week, and we're guessing that current Apple Fitness+ subscribers have already figured out what each of them do. In addition to these new features, Apple also announced that it will soon be launching a third season of Time to Walk, giving users several weeks of new episodes to look forward to. Image: Apple Apple Fitness+ Collections As the name suggests, Apple Fitness+ Collections will offer subscribers multi-session workouts and meditations that run the course of several days or even weeks.
+
+
+***
+![NASA's Ingenuity gears up for its 19th flight – and it's a tricky take-off](https://cdn.slashgear.com/wp-content/uploads/2022/01/mars-helicopter.jpg "NASA's Ingenuity gears up for its 19th flight – and it's a tricky take-off")
+
+
+[NASA's Ingenuity gears up for its 19th flight – and it's a tricky take-off](https://www.slashgear.com/nasas-ingenuity-gears-up-for-its-19th-flight-and-its-a-tricky-take-off-07706285)
+
+
+> The plucky little helicopter exploring Mars, NASA's Ingenuity, has exceeded all expectations and has lasted longer than even the most optimistic predictions. Originally designed for up to five flights, the helicopter is now gearing up for its 19th flight, which will be its first of 2022. But this flight won't be easy, especially given the tricky take-off it will have to perform. NASA/JPL-Caltech The 19th flight is scheduled to take place today, Friday, January 7, and it will follow a route from the helicopter's current location in the South Séítah basin, over a ridge, and up onto a plateau.
+
+
+***
+![NASA's Webb telescope has begun unfolding its audacious gold-plated mirror](https://cdn.slashgear.com/wp-content/uploads/2022/01/nasa.jpg "NASA's Webb telescope has begun unfolding its audacious gold-plated mirror")
+
+
+[NASA's Webb telescope has begun unfolding its audacious gold-plated mirror](https://www.slashgear.com/nasas-webb-telescope-has-begun-unfolding-its-audacious-gold-plated-mirror-07706271)
+
+
+> The launch of the world's most powerful space telescope, the James Webb Space Telescope, was just the beginning of this space-based observatory. Having left Earth's atmosphere and traveled over 250,000 miles away from our planet, it is now more than 70% of its way to its final orbit around the sun (via NASA). NASA/Desiree Stover The telescope has to do more than just travel, though. Many of the observatory's components need to be large to help it take the most accurate readings possible, but there is only a limited amount of room inside a rocket.
+
+
+***
+![Mario Kart 9 in 'Active Development,' Will Have New Gameplay Twist](https://www.comingsoon.net/assets/uploads/2021/05/Mario-Kart-8-bowser.jpg "Mario Kart 9 in 'Active Development,' Will Have New Gameplay Twist")
+
+
+[Mario Kart 9 in 'Active Development,' Will Have New Gameplay Twist](https://www.comingsoon.net/games/news/1207226-mario-kart-9-release-date)
+
+
+> During Gamesindustry.biz's recent panel of various video game industry analysts, it was revealed that the next installment in the Mario Kart series is reportedly in development.RELATED: Pokémon Legends: Arceus Gameplay Trailer Highlights New Battle SystemAs part of its annual panel, the group of analysts looked forward to 2022 and predicted what might happen. According to Dr. Serkan Toto of Kantan Games, Mario Kart 9 is in development for Switch.'I am aware Mario Kart 8 Deluxe is still selling very well on the Nintendo Switch, but Mario Kart 9 is in active development (and comes with a new twist) and Nintendo could tease it this year,' said Toto.
+
+
+***
+![This Robotic Hand Is Precise Enough to Move a Microchip With Tweezers](https://www.sciencealert.com/images/2022-01/ilda-hand-in-motion_1024.gif "This Robotic Hand Is Precise Enough to Move a Microchip With Tweezers")
+
+
+[This Robotic Hand Is Precise Enough to Move a Microchip With Tweezers](https://www.businessinsider.com/a-robotic-hand-can-hold-an-egg-without-cracking-it-2022-1)
+
+
+> Innovators at South Korea's Ajou University have created a robotic hand that is capable of holding fragile objects like eggs. It can also crush cans and work with tools like tweezers and scissors. An article published in Nature Communications explained all the details of the new technology. It weighs just under two and a half pounds and measures eight and a half inches (21.6 centimeters). Its most striking feature, however, is its combination of delicacy, strength, and flexibility. The device is made of steel and aluminum, and each finger is powered by three small motors in the palm.
+
+
