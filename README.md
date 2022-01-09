@@ -43484,3 +43484,53 @@
 > Despite surging coronavirus cases, CES, the world's largest consumer technology expo, returned to Las Vegas this year to host product unveilings from some industry heavyweights. Though a number of companies pulled out of in-person exhibits, there was no shortage of cool gadgets announced during the show. Here are some of them: Samsung's The Freestyle projector Thinking of recreating that cinema experience at home? Samsung has got you covered with its new ultraportable projector, called The Freestyle.
 
 
+***
+![In a new campaign discovered by security researchers, the Google Docs comment box is abused to send malicious links](https://blogger.googleusercontent.com/img/a/AVvXsEi5surAPb5EFWf_n-4NyeY-YeXqBg1lD94O8ayl6r4wjgsePItHHS8e8MClLoMKjvd-BUy9ZQxEdEguIDdO62L1j_Ib2SxyMGI5cfYvnjPGUhZUUqfEIXZ4_6bRidaLRTFmyDZs0Ba5GIjAYfKKopx9IMwu0vD8vWhTtYwd5Axth8CerYxeZFTZ5cKF=s16000 "In a new campaign discovered by security researchers, the Google Docs comment box is abused to send malicious links")
+
+
+[In a new campaign discovered by security researchers, the Google Docs comment box is abused to send malicious links](https://www.digitalinformationworld.com/2022/01/in-new-campaign-discovered-by-security.html)
+
+
+> The technological world gives us many security and safety benefits along with enhancing our capabilities to make us more productive. But the Hackers always seem to be curious to find any loophole in the new technology to take advantage of it for their malicious activities. And now they target Google Docs to send malicious links to the users. And the users who easily click on any link without knowing its consequences make the work of malicious parties easier.A new report released by Avanan, an email security provider, describes that the new campaign exploits the Google Docs comments section for sending phishing links and malware.
+
+
+***
+![3 Tech Trends to Keep an Eye On in 2022](https://www.rismedia.com/wp-content/uploads/2022/01/3_tech_trends_to_keep_an_eye_on_2022-AdobeStock_475231119.jpg "3 Tech Trends to Keep an Eye On in 2022")
+
+
+[3 Tech Trends to Keep an Eye On in 2022](https://www.rismedia.com/2022/01/09/tech-trends-keep-eye-on-2022)
+
+
+> Necessity is the mother of invention, and the pandemic made it necessary to find safer, faster and completely new ways of doing business in real estate. Going into this year, there are a bevy of platforms, concepts and new practices that have already shaken up the industry, all with the potential to continue doing so. Here are four tech-related trends to watch closely in 2022. AVMs Automated Valuation Models are extremely versatile in their applications, used by iBuyers to guide their decision making or proptech companies to generate leads.
+
+
+***
+![Swedish lab eyes poisoned chalice in malaria fight](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AASAcKF.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Swedish lab eyes poisoned chalice in malaria fight")
+
+
+[Swedish lab eyes poisoned chalice in malaria fight](https://www.msn.com/en-za/news/techandscience/swedish-lab-eyes-poisoned-chalice-in-malaria-fight/ar-AASAffB)
+
+
+> © Jonathan NACKSTRAND Researchers believe they have found an environmentally friendly way of killing off mosquitoes that transmit malaria Cages meshed over with women's tights and crawling with mosquitoes are stashed in a Swedish laboratory. Every day, researchers feed them beetroot juice laced with deadly toxins, part of a grand plan designed to fight malaria.With hopes of field trials delayed repeatedly by the Covid-19 pandemic, researchers in Sweden still believe they have found the secret to a new environmentally friendly way of killing off the Anopheles species of mosquitoes that transmit malaria.
+
+
+***
+![This is David Khourshid and his pure CSS (no js) creations. And they are flat out amazing! : programming](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "This is David Khourshid and his pure CSS (no js) creations. And they are flat out amazing! : programming")
+
+
+[This is David Khourshid and his pure CSS (no js) creations. And they are flat out amazing! : programming](https://www.reddit.com/r/programming/comments/rzmlon/this_is_david_khourshid_and_his_pure_css_no_js)
+
+
+> This is David Khourshid and his pure CSS (no js) creations. And they are flat out amazing!
+
+
+***
+![Sony has a pending patent for a 3D scanner that puts real-world objects into VR](https://fdn.gsmarena.com/imgroot/news/22/01/sony-vr-3d-scanner/-952x498w6/gsmarena_000.jpg "Sony has a pending patent for a 3D scanner that puts real-world objects into VR")
+
+
+[Sony has a pending patent for a 3D scanner that puts real-world objects into VR](https://www.gsmarena.com/sony_has_a_pending_patent_for_a_3d_scanner_that_puts_realworld_objects_into_vr-news-52599.php)
+
+
+> Sony's patent for a 3D scanner that can put real-world objects into virtual reality isn't something new. In fact, the listing dates back to June last year, but since the patent office asked Sony to re-submit the documents with more details and the company has done so, we believe that the tech giant is serious about this endeavour. The patent hasn't been granted yet, but the documents reveal that the 3D scanner might be used to put real-life objects into the virtual world, or it can be used to better blend the real surrounding with the virtual one.
+
+
