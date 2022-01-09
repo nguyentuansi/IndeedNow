@@ -43534,3 +43534,43 @@
 > Sony's patent for a 3D scanner that can put real-world objects into virtual reality isn't something new. In fact, the listing dates back to June last year, but since the patent office asked Sony to re-submit the documents with more details and the company has done so, we believe that the tech giant is serious about this endeavour. The patent hasn't been granted yet, but the documents reveal that the 3D scanner might be used to put real-life objects into the virtual world, or it can be used to better blend the real surrounding with the virtual one.
 
 
+***
+![Python Numbers : programming](https://external-preview.redd.it/uGg-rYR-dxGgFpb90tECM8Ncop5_51BUc4ddAz45MOU.jpg?auto=webp&s=0d85b6452f78d4db860bab73d703728c44cc3ac7 "Python Numbers : programming")
+
+
+[Python Numbers : programming](https://www.reddit.com/r/programming/comments/rzpw8p/python_numbers)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![Best compact power banks in India](https://www.businessinsider.in/photo/88527556/best-compact-power-banks-in-india.jpg "Best compact power banks in India")
+
+
+[Best compact power banks in India](https://www.businessinsider.in/tech-buying-guides/best-compact-power-banks-in-india/articleshow/88527556.cms)
+
+
+> Having a compact power bank makes it highly portable and the user can easily carry it during commutes. Nowadays, most power banks offer support for fast-charging as well that helps your phone's battery get quickly restored. A power bank is a handy device that is an essential for those who commute or travel often. To help you buy a compact power bank for commutes, here are the best options available on Amazon. Also Read The Mi 3i power bank comes with a capacity of 20,000mAh that should be able to fully charge a phone with 5,000mAh battery four times.
+
+
+***
+![Best 10000 mAh power banks in India](https://www.businessinsider.in/photo/88529349/best-10000-mah-power-banks-in-india.jpg "Best 10000 mAh power banks in India")
+
+
+[Best 10000 mAh power banks in India](https://www.businessinsider.in/tech-buying-guides/best-10000-mah-power-banks-in-india/articleshow/88529349.cms)
+
+
+> A power bank is essential for daily commuters and travellers as it helps recharge your phone's battery when in need. A 10000 mAh power bank is generally compact and highly portable. It can charge a 5000 mAh battery twice, fully. Also, most of these power banks come with fast charging support that help replenish the battery quickly. To help you buy compact 10000 mAh power banks, here are the best options available on Amazon. Also Read The Redmi power bank comes with double USB output and supports up to 10W fast charging.
+
+
+***
+![Kubernetes RBAC — Update default ClusterRoles without editing them](https://miro.medium.com/max/1200/0*sbnAKKeQxMXMZEOL.png "Kubernetes RBAC — Update default ClusterRoles without editing them")
+
+
+[Kubernetes RBAC — Update default ClusterRoles without editing them](https://sumanthkumarc.medium.com/kubernetes-rbac-update-default-clusterroles-without-editing-them-ef206254e0)
+
+
+> Kubernetes RBAC helps us control access to various resources on the cluster. The RBAC API declares four kinds of Kubernetes object: Role, ClusterRole, RoleBinding and ClusterRoleBinding. In simpler terms, the concept of RBAC is as followsThere are multiple actions which can be performed on various resources like GET, POST, WATCH, LIST, PATCH etc.You group all the actions on resources which can be performed for easier management. These are Role and ClusterRole.You now assign these grouped permissions to Users using RoleBinding and ClusterRoleBinding.
+
+
