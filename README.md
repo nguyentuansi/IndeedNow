@@ -43624,3 +43624,53 @@
 > The communities around the Salton Sea, a former playground for the wealthy in southern California, are struggling as the inland sea evaporates, but a lithium extraction plant is offering hope of a renewal. Hollywood's jetset once crowded the shores of the Salton Sea, a then-idyllic southern California playground for the wealthy. Today, it is desolate and depressed—the evaporating water leaving behind dead shellfish, dust and chemicals that irritate the airways. But also lithium. The increasingly valuable metal, whose supply is concentrated in a few global pockets, is vital for the rechargeable batteries expected to cleanly power the cars and homes of our polluted planet's future.
 
 
+***
+![Kendra Pecan from Airbase Reveals How She's Able to Quickly Review the State of Company Finances, Unlike Legacy Systems](https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Find-Search-Seek-Money-Magnify-Scrutiny-Dollar.jpeg "Kendra Pecan from Airbase Reveals How She's Able to Quickly Review the State of Company Finances, Unlike Legacy Systems")
+
+
+[Kendra Pecan from Airbase Reveals How She's Able to Quickly Review the State of Company Finances, Unlike Legacy Systems](https://www.crowdfundinsider.com/2022/01/185287-kendra-pecan-from-airbase-reveals-how-shes-able-to-quickly-review-the-state-of-company-finances-unlike-legacy-systems)
+
+
+> Kendra Pecan, Senior Marketing Project Manager at Airbase, has explained how marketing departments may budget with the Fintech firm's spend management platform. Kendra notes that as a project manager, many of the challenges for her 'came around the planning aspect of the role.' She often had to 'forecast projects for the year ahead and, along with that, how much [they] were going to spend and how [they] were going to spend it.' Before Airbase, it was really challenging to 'get visibility into what actual spend was at any one time,' Kendra claims.
+
+
+***
+![Patriots vs Dolphins live stream: how to watch NFL online from anywhere and on TV](https://cdn.mos.cms.futurecdn.net/96DemvVH2poZNWYRac9NNi-1200-80.jpg "Patriots vs Dolphins live stream: how to watch NFL online from anywhere and on TV")
+
+
+[Patriots vs Dolphins live stream: how to watch NFL online from anywhere and on TV](https://www.techradar.com/news/patriots-vs-dolphins-live-stream-how-to-watch-2022-nfl-online-from-anywhere-and-on-tv)
+
+
+> (Image credit: Maddie Meyer/Getty Images) The AFC East title and home-field advantage in the wild card round are still up for grabs for the Patriots, but they need to beat the Dolphins and hope the Jets are able to get the better of the Bills. Who will take the spoils? Read on as we explain how to get a Patriots vs Dolphins live stream and watch the NFL game online from anywhere.Another season ends in crushing diappointment for the Dolphins, but they could still get one over their divisional rivals at the last.
+
+
+***
+![Jets vs Bills live stream: how to watch NFL online from anywhere and on TV](https://cdn.mos.cms.futurecdn.net/bQBLjMMMDUxQNRnRY5s8Cg-1200-80.jpg "Jets vs Bills live stream: how to watch NFL online from anywhere and on TV")
+
+
+[Jets vs Bills live stream: how to watch NFL online from anywhere and on TV](https://www.techradar.com/news/jets-vs-bills-live-stream-how-to-watch-2022-nfl-online-from-anywhere-and-on-tv)
+
+
+> (Image credit: Jim McIsaac/Getty Images) The battle for the AFC East title has arguably been the most absorbing subplot of the season, and it's going down to the wire as the Bills host the Jets and the Pats visit the Dolphins. Buffalo may be in the driving seat but the team's form has been anything but reliable all season, so read on as we explain how to get a Jets vs Bills live stream and watch the NFL game online from anywhere.Josh Allen almost single-handed undid all of the terrific work that went into the Bill's huge victory over the Pats two weeks ago, by throwing three picks and zero touchdowns against the down-and-out Falcons last weekend.
+
+
+***
+![49ers vs Rams live stream: how to watch NFL online from anywhere and on TV](https://cdn.mos.cms.futurecdn.net/QQSTkwbcv8v3iS5pL39Z68-1200-80.jpg "49ers vs Rams live stream: how to watch NFL online from anywhere and on TV")
+
+
+[49ers vs Rams live stream: how to watch NFL online from anywhere and on TV](https://www.techradar.com/news/49ers-vs-rams-live-stream-how-to-watch-nfl-online-from-anywhere-and-on-tv-2022)
+
+
+> (Image credit: Getty Images / Michael Zagaris) We've got a fascinating week 18 showdown in the NFC West, as the Rams look to sew up the division and secure home-field advantage in the wild card round. However, the Niners have the measure of their California rivals, and are chasing a victory to secure their own place in the playoffs. It's one of the games of the weekend, so read on as we explain how to get a 49ers vs Rams live stream and watch the NFL online from anywhere.The Rams have gone all-in on this season, but despite taking control of the NFC West they're becoming less convincing by the week.
+
+
+***
+![Seahawks vs Cardinals live stream: how to watch NFL online from anywhere and on TV](https://cdn.mos.cms.futurecdn.net/Lj46SiGamCUdqtRusy4fm7-1200-80.jpg "Seahawks vs Cardinals live stream: how to watch NFL online from anywhere and on TV")
+
+
+[Seahawks vs Cardinals live stream: how to watch NFL online from anywhere and on TV](https://www.techradar.com/news/seahawks-vs-cardinals-live-stream-how-to-watch-2022-nfl-online-from-anywhere-and-on-tv)
+
+
+> (Image credit: Steph Chambers/Getty Images) The Redbirds aren't done yet. A huge victory over the Cowboys last weekend keeps them just about in the hunt for the NFC West title and home-field advantage in the wild-card round, but for that to materialize they also need the 49ers to get the better of the Rams. Read on as we explain how to get a Seahawks vs Cardinals live stream and watch the NFL online from anywhere.The Cards are currently the NFC's No. 5 seed, which could see them face off against AFC East champs Dallas next weekend, but if other results go their way today they could make a last-ditch swoop for the No.
+
+
