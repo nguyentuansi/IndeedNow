@@ -43384,3 +43384,53 @@
 > Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
 
 
+***
+![Tech Stocks, Bitcoin Log Sharpest Loss in Months After Fed Meeting—Here's Why](https://recentlyheard.com/wp-content/uploads/2022/01/1641667108_Tech-Stocks-Bitcoin-Log-Sharpest-Loss-in-Months-After-Fed-scaled.jpeg "Tech Stocks, Bitcoin Log Sharpest Loss in Months After Fed Meeting—Here's Why")
+
+
+[Tech Stocks, Bitcoin Log Sharpest Loss in Months After Fed Meeting—Here's Why](https://recentlyheard.com/2022/01/09/tech-stocks-bitcoin-log-sharpest-loss-in-months-after-fed-meeting-heres-why)
+
+
+> Bitcoin fell 6 percent on Wednesday afternoon after the Federal Reserve released its December meeting minutes. SheYing / Costfoto/Future Publishing via Getty Images Tech stocks and cryptocurrencies fell sharply Wednesday afternoon after the Federal Reserve released its December meeting minutes indicating that the central bank is eyeing an accelerated timetable for raising interest rates in 2022. The Nasdaq Composite Index fell 500 points, or 3.2 percent, to 15,090 at Wednesday's close, logging its biggest one-day loss since September and faring worse than the Dow Jones and S&P 500, which were both down more than 1 percent after the Fed minutes release at 2 p.
+
+
+***
+![Core One Labs Now Also Working to Biosynthesize DMT and Receives License](https://apnews.com/images/PaidContent3.png "Core One Labs Now Also Working to Biosynthesize DMT and Receives License")
+
+
+[Core One Labs Now Also Working to Biosynthesize DMT and Receives License](https://apnews.com/press-release/globe-newswire/technology-science-business-health-canada-3d4e2741ba857b54cdd4de3b2713b76e)
+
+
+> VANCOUVER, British Columbia, Jan. 08, 2022 (GLOBE NEWSWIRE) -- Core One Labs Inc. (CSE: COOL), (OTC: CLABF), (Frankfurt: LD6, WKN: A3CSSU) ('Core One' or the 'Company') is pleased to announce that it has progressed its work on biosynthesizing N,N-Dimethyltryptamine ('DMT') and has been approved by Health Canada to add N,N-Dimethyltryptamine ('DMT') to the schedule of approved controlled substances under the existing licence granted by the Controlled Drugs and Substances Act ('CDSA') Dealer's Licence (the 'Licence') which allows its wholly owned subsidiary Vocan Biotechnologies Inc.
+
+
+***
+![Essential Google Maps Feature Broken Down, Navigation Now Much Harder to Use](https://s1.cdn.autoevolution.com/images/news/essential-google-maps-feature-broken-down-navigation-now-much-harder-to-use-178645_1.jpg "Essential Google Maps Feature Broken Down, Navigation Now Much Harder to Use")
+
+
+[Essential Google Maps Feature Broken Down, Navigation Now Much Harder to Use](https://www.autoevolution.com/news/essential-google-maps-feature-broken-down-navigation-now-much-harder-to-use-178645.html)
+
+
+> For someone who needs to keep their eyes on the road, this is obviously critical, as using voice commands reduces the distraction in a substantial manner. Unfortunately for some Android users out there, interacting with Google Maps hands-free isn't always as straightforward as it's supposed to be, all because of issues impacting the voice command support. Not much is known at this point about the cause of the error, but users here on Google's forums claim a recent update is the one to blame for the whole thing.
+
+
+***
+![Ghostwire: Tokyo Rated in Korea](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/09/ghostwire-tokyo.jpg "Ghostwire: Tokyo Rated in Korea")
+
+
+[Ghostwire: Tokyo Rated in Korea](https://gamerant.com/ghostwire-tokyo-korea-official-rating)
+
+
+> PlayStation 5 is shaping up to have a great 2022. Many fully exclusive titles such as Horizon Forbidden West and God of War: Ragnarok are on the way, and the timed exclusive Ghostwire: Tokyo coming out this year. Although initially slated to come out in 2021, Ghostwire: Tokyo was delayed into Spring 2022. Unfortunately, no specific day or month has been listed, so it's possible the title can come out anytime between March and June. Those interested in Developer Tango Gameworks' Ghostwire: Tokyo should feel optimistic, though, as the title was just rated in Korea.
+
+
+***
+![Mad Catz announces the T.E. 3 for their big return to arcade sticks which ironically looks barely tournament legal](https://media.eventhubs.com/images/2022/01/08-mad-catz-te3-controllert.webp "Mad Catz announces the T.E. 3 for their big return to arcade sticks which ironically looks barely tournament legal")
+
+
+[Mad Catz announces the T.E. 3 for their big return to arcade sticks which ironically looks barely tournament legal](https://www.eventhubs.com/news/2022/jan/08/mad-catz-te3-controller)
+
+
+> Just a handful of years ago, Mad Catz owned a gigantic share of the arcade stick market in the fighting game community, which eventually dried up with the company, but they apparently aren't out of the race yet. During CES 2022, Mad Catz announced a slew of new gaming peripherals including what many thought would never happen with the long-awaited T.E. 3 — though it may not ironically live up to the name exactly. Sure, they've already confirmed the T.E. 3 will of course come packing the standard Sanwa Denshi buttons.
+
+
