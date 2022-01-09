@@ -43574,3 +43574,53 @@
 > Kubernetes RBAC helps us control access to various resources on the cluster. The RBAC API declares four kinds of Kubernetes object: Role, ClusterRole, RoleBinding and ClusterRoleBinding. In simpler terms, the concept of RBAC is as followsThere are multiple actions which can be performed on various resources like GET, POST, WATCH, LIST, PATCH etc.You group all the actions on resources which can be performed for easier management. These are Role and ClusterRole.You now assign these grouped permissions to Users using RoleBinding and ClusterRoleBinding.
 
 
+***
+![League of Legends: Zeri, the Spark of Zaun stösst hinzu](https://c.nau.ch/i/yJZvV/1024/league-of-legends.jpg "League of Legends: Zeri, the Spark of Zaun stösst hinzu")
+
+
+[League of Legends: Zeri, the Spark of Zaun stösst hinzu](https://www.nau.ch/news/games/league-of-legends-zeri-the-spark-of-zaun-stosst-hinzu-66082168)
+
+
+> No body in the article.
+
+
+***
+![WhatsApp to add advanced search feature: Here's how it will help you](https://english.cdn.zeenews.com/sites/default/files/2022/01/09/1003941-download-18.jpg "WhatsApp to add advanced search feature: Here's how it will help you")
+
+
+[WhatsApp to add advanced search feature: Here's how it will help you](https://zeenews.india.com/technology/whatsapp-to-add-advanced-search-feature-heres-how-it-will-help-you-2426687.html)
+
+
+> These new features are being handed out to both Android and iOS users, according to WhatsApp tracker WABetaInfo. These new features are being handed out to both Android and iOS users, according to WhatsApp tracker WABetaInfo.You can quickly browse results that satisfy your criteria when you utilise these options, and you can also combine different conditions. New Delhi: Users of WhatsApp business accounts will soon be able to search more accurately within the chatbox thanks to a new feature. Long threads can benefit from the advanced search filter, which divides them by contacts, non-contacts, and unread.
+
+
+***
+![Audi RS Q8, Jeep Grand Cherokee Trackhawk Face Off At The Drag Strip](https://cdn.motor1.com/images/mgl/ZnkQlr/s1/audi-rs-q8-jeep-grand-cherokee-trackhawk-face-off-at-the-drag-strip.jpg "Audi RS Q8, Jeep Grand Cherokee Trackhawk Face Off At The Drag Strip")
+
+
+[Audi RS Q8, Jeep Grand Cherokee Trackhawk Face Off At The Drag Strip](https://www.motor1.com/news/559575/rsq8-grand-cherokee-trackhawk-race)
+
+
+> It's that time of the week for another Carwow drag race. This time around, it's two powerful crossovers that face off on the runway. It's Germany versus the US, with the Audi RS Q8 going head to head against the Jeep Grand Cherokee Trackhawk. These heavyweights pack a lot of punch, with both showing up on the strip with healthy numbers. What We Think Of These Muscle SUVs: The Audi RS Q8 wades into battle with a 4.0-liter, twin-turbo V8. It's good for 600 horsepower (441 kilowatts) and 590 pound-feet (800 Newton-meters) of torque.
+
+
+***
+![Top 5 Most Anticipated Xbox Games Launching in 2022](https://www.talkesport.com/wp-content/uploads/xbox.jpg "Top 5 Most Anticipated Xbox Games Launching in 2022")
+
+
+[Top 5 Most Anticipated Xbox Games Launching in 2022](https://www.talkesport.com/news/gaming/top-5-most-anticipated-xbox-games-launching-in-2022)
+
+
+> Nobody can argue that the year 2021 was a bang for Microsoft and the Xbox platform as we saw the launch of Psychonauts 2, Forza Horizon 5, Age Of Empires 4, and Halo Infinite alongside the inclusion of EA Play in the ever-so-popular Xbox Game Pass. The year 2021 was also a great year for the previously released games from Xbox Games Studios which includes Sea of Thieves and Elder Scrolls Online, both of which saw increased player participation and even made it to Steam's top 100 most selling games of 2021.
+
+
+***
+![Renewable: Lithium promises revival for dying California inland sea](https://scx2.b-cdn.net/gfx/news/2022/the-communities-around.jpg "Renewable: Lithium promises revival for dying California inland sea")
+
+
+[Renewable: Lithium promises revival for dying California inland sea](https://techxplore.com/news/2022-01-renewable-lithium-revival-dying-california.html)
+
+
+> The communities around the Salton Sea, a former playground for the wealthy in southern California, are struggling as the inland sea evaporates, but a lithium extraction plant is offering hope of a renewal. Hollywood's jetset once crowded the shores of the Salton Sea, a then-idyllic southern California playground for the wealthy. Today, it is desolate and depressed—the evaporating water leaving behind dead shellfish, dust and chemicals that irritate the airways. But also lithium. The increasingly valuable metal, whose supply is concentrated in a few global pockets, is vital for the rechargeable batteries expected to cleanly power the cars and homes of our polluted planet's future.
+
+
