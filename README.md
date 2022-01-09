@@ -43434,3 +43434,53 @@
 > Just a handful of years ago, Mad Catz owned a gigantic share of the arcade stick market in the fighting game community, which eventually dried up with the company, but they apparently aren't out of the race yet. During CES 2022, Mad Catz announced a slew of new gaming peripherals including what many thought would never happen with the long-awaited T.E. 3 — though it may not ironically live up to the name exactly. Sure, they've already confirmed the T.E. 3 will of course come packing the standard Sanwa Denshi buttons.
 
 
+***
+![China's Lunar Lander Makes First On-Site Detection Of Moon Water](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/2022-01-08_12-23-15.png?itok=IpQm3Ii6 "China's Lunar Lander Makes First On-Site Detection Of Moon Water")
+
+
+[China's Lunar Lander Makes First On-Site Detection Of Moon Water](https://www.zerohedge.com/technology/chinas-lunar-lander-makes-first-site-detection-moon-water)
+
+
+> China's fifth lunar exploration mission of the Chinese Lunar Exploration Program has found the first on-site evidence of water on the moon's surface, according to a new study published in the peer-reviewed Science Advances journal on Friday. The study, titled  "In situ detection of water on the Moon by the Chang'E-5 lander," led by a joint research team of scientists from the Institute of Geology and Geophysics of the Chinese Academy of Sciences (IGGCAS) detected water on the moon via reflectance spectral data from the lunar lander.
+
+
+***
+![Instant Transactions, Real-Time Notifications are Vital to Trusted Payments Process, Modulr Survey Reveals](https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Time-Late-Delay-Statue.jpeg "Instant Transactions, Real-Time Notifications are Vital to Trusted Payments Process, Modulr Survey Reveals")
+
+
+[Instant Transactions, Real-Time Notifications are Vital to Trusted Payments Process, Modulr Survey Reveals](https://www.crowdfundinsider.com/2022/01/185262-instant-transactions-real-time-notifications-are-vital-to-trusted-payments-process-modulr-survey-reveals)
+
+
+> The team at UK Fintech Modulr has done some research in order to find out what 'makes paying passengers leave, and what makes them come back.' As noted in a blog post by Modulr, digital transformation has 'been on the collective agenda for years.' It's had a significant impact on industries across the board 'from banking and financial services, to telecom and manufacturing. And the travel industry is no exception,' the team at Modulr wrote in an update. Although high street travel agencies 'dominated the tourism industry prior to the internet era, they were quick to master this new arena which marked the rise of the online travel agent,' according to Modulr which also noted that digital has 'already gone a long way to transforming the moment when customers buy a ticket, reserve a room or book a holiday.
+
+
+***
+![iPhone tips and tricks: This feature will knock your socks off! Know how to use it](https://images.hindustantimes.com/tech/img/2022/01/09/1600x900/HEALTH-CORONAVIRUS-APPLE-1_1641235390535_1641696293139.JPG "iPhone tips and tricks: This feature will knock your socks off! Know how to use it")
+
+
+[iPhone tips and tricks: This feature will knock your socks off! Know how to use it](https://tech.hindustantimes.com/how-to/iphone-tips-and-tricks-this-feature-will-knock-your-socks-off-know-how-to-use-it-71641696169631.html)
+
+
+> iPhone users can increase their typing speed by using the text replacement feature provided by Apple. Know how to. Increase your typing speed on iPhone! Here is how to use the text replacement feature. (REUTERS) Are you an iPhone user? There are several iPhone tips and tricks which can be used to make your life easier. Today we will be discussing one such trick. We often need to type on our phones, may it be while messaging, mailing or searching anything on the browser. Generally what we type can be a single word, small sentences, or longer ones, or may be paras.
+
+
+***
+![a small, full-text search library for use in the Elixir environment. It indexes JSON documents and provides a friendly search interface to retrieve documents. : programming](https://external-preview.redd.it/wFoDVpzDxknz2QeQYBlqlUqB0JZ4dpRButzKaftkN94.jpg?auto=webp&s=ab45b4f90e47f707234afdc4f6d6b7608ce88d34 "a small, full-text search library for use in the Elixir environment. It indexes JSON documents and provides a friendly search interface to retrieve documents. : programming")
+
+
+[a small, full-text search library for use in the Elixir environment. It indexes JSON documents and provides a friendly search interface to retrieve documents. : programming](https://www.reddit.com/r/programming/comments/rzharm/elasticlunr_a_small_fulltext_search_library_for)
+
+
+> Elasticlunr - a small, full-text search library for use in the Elixir environment. It indexes JSON documents and provides a friendly search interface to retrieve documents.
+
+
+***
+![12 cool gadgets announced at CES 2022](https://www.rappler.com/tachyon/2022/01/CES-2022.jpg "12 cool gadgets announced at CES 2022")
+
+
+[12 cool gadgets announced at CES 2022](https://www.rappler.com/technology/features/cool-gadgets-announced-ces-2022)
+
+
+> Despite surging coronavirus cases, CES, the world's largest consumer technology expo, returned to Las Vegas this year to host product unveilings from some industry heavyweights. Though a number of companies pulled out of in-person exhibits, there was no shortage of cool gadgets announced during the show. Here are some of them: Samsung's The Freestyle projector Thinking of recreating that cinema experience at home? Samsung has got you covered with its new ultraportable projector, called The Freestyle.
+
+
