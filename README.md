@@ -43771,3 +43771,50 @@
 > SHANGHAI, Jan. 9, 2022 /PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) ('OneConnect'), a leading technology-as-a-service platform for financial institutions has today announced it has entered into a strategic partnership with Chengfang Financial Technology Co. Ltd., (abbreviated as 'Chengfang Financial Technology'), a financial technology company established by the People's Bank of China ('PBOC'). Working with shared principles of equal collaboration, joint development, honesty and trustworthiness, both parties will work together to address common pain points in the financial industry, deliver technological innovations, and enhance data processing and governance.
 
 
+***
+![Moto g71 With Snapdragon 695, Support for 13 5G Bands Launched in India](https://telecomtalk.info/wp-content/uploads/2022/01/moto-g71-with-snapdragon-695-support-for.jpg "Moto g71 With Snapdragon 695, Support for 13 5G Bands Launched in India")
+
+
+[Moto g71 With Snapdragon 695, Support for 13 5G Bands Launched in India](https://telecomtalk.info/moto-g71-with-snapdragon-695-support-for/490823)
+
+
+> The Moto g71 comes with a 6.4-inch AMOLED FHD+ display.Motorola has just launched its new budget 5G smartphone namely Moto g71 in India.There's a quad-camera setup at the rear.Motorola has just launched its new budget 5G smartphone namely Moto g71 in India. The highlight of the smartphone is that it supports thirteen 5G bands and an AMOLED FHD+ display for a very affordable price. The device comes with 3 carrier aggregation, 4X4 MIMO, and NFC support for giving enhanced connectivity to the consumers.
+
+
+***
+![Apple Expected to Launch New iPhone in March 2022](https://telecomtalk.info/wp-content/uploads/2022/01/apple-expected-to-launch-new-iphone-in.jpg "Apple Expected to Launch New iPhone in March 2022")
+
+
+[Apple Expected to Launch New iPhone in March 2022](https://telecomtalk.info/apple-expected-to-launch-new-iphone-in/490804)
+
+
+> Apple is expected to launch a new iPhone in March 2022.The highlight of the new iPhone SE would be the support for 5G services.The new affordable iPhone is expected to lure in approximately 1.4 billion low-to-mid-range Android device users.Apple is expected to launch a new iPhone in March 2022. The Cupertino tech giant is reportedly working on a new iPhone, namely iPhone SE 2022 or iPhone SE 3 and will launch it in the first quarter of 2022. Leaks about the specifications and design of the iPhone SE 2022 are already out and suggest that the device would again look very much like the iPhone SE 2020 or the iPhone SE 2.
+
+
+***
+![Fintech Pine Labs confidentially files for US IPO; seeks to raise $500 mln at over $5.5 bln valuation](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AASC1ny.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Fintech Pine Labs confidentially files for US IPO; seeks to raise $500 mln at over $5.5 bln valuation")
+
+
+[Fintech Pine Labs confidentially files for US IPO; seeks to raise $500 mln at over $5.5 bln valuation](https://www.financialexpress.com/market/ipo-news/fintech-pine-labs-confidentially-files-for-us-ipo-seeks-to-raise-500-mln-at-over-5-5-bln-valuation/2402605/?utm_source=msn&utm_medium=Referral)
+
+
+> © Provided by The Financial Express The company has filed confidentially with the U.S. Securities and Exchange Commission for an initial public offering in New York as soon as in the first half of this year. (File Photo: PTI) Pine Labs Pvt, an Asian digital payments provider backed by Sequoia India and Mastercard Inc., is moving ahead with preparations for a U.S. listing and seeks to raise about $500 million, according to people familiar with the matter. The company has filed confidentially with the U.
+
+
+***
+[HAI ROBOTICS and Voyatzoglou System Join Forces to Offer Smart Warehousing Solutions in E. Europe](http://www.businesswire.com/news/home/20220110005066/en/HAI-ROBOTICS-and-Voyatzoglou-System-Join-Forces-to-Offer-Smart-Warehousing-Solutions-in-E.-Europe/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> No body in the article.
+
+
+***
+![Metaverse is 'off-limits' to Apple — Report](https://mybroadband.co.za/news/wp-content/uploads/2022/01/Apple-avoiding-metaverse-featured-image.jpg "Metaverse is 'off-limits' to Apple — Report")
+
+
+[Metaverse is 'off-limits' to Apple — Report](https://mybroadband.co.za/news/gadgets/429474-metaverse-is-off-limits-to-apple-report.html)
+
+
+> Apple's VR and AR headset will be intended for shorter experiences, with the company seeking to avoid the metaverse vision, according to a report from Bloomberg's Mark Gurman. 'Here's one word I'd be shocked to hear on stage when Apple announces its headset: metaverse,' Gurman wrote. 'I've been told pretty directly that the idea of a completely virtual world where users can escape to — like they can in Meta Platforms/Facebook's vision of the future — is off-limits from Apple.' Instead, Apple's headset will be focused on 'bursts of gaming, communication, and content consumption', and it won't be a device for all-day use.
+
+
