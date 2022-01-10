@@ -43724,3 +43724,50 @@
 > Three-quarters of companies in the UK expect conditions in manufacturing to improve in 2022, according to a survey of senior executives conducted by Make UK and accountancy firm PwC. Britain's manufacturers are more positive about the growth outlook as they enter 2022, with greater confidence in the prospects for their own companies than either the global or UK economies, according to the survey, published today. However, despite the positivity expressed, the overall picture remains clouded with conflicting issues and pressures demanding attention.
 
 
+***
+[新iPhoneSE将在3-4月发布](http://news.zol.com.cn/784/7847797.html)
+
+
+> No body in the article.
+
+
+***
+![Google to Apple: Stop 'message bullying'](https://static.toiimg.com/thumb/msid-88800688,width-1070,height-580,imgsize-1165872,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Google to Apple: Stop 'message bullying'")
+
+
+[Google to Apple: Stop 'message bullying'](https://timesofindia.indiatimes.com/gadgets-news/google-to-apple-stop-message-bullying/articleshow/88800688.cms)
+
+
+> Apple's iMessage lock-in is a documented strategy. Using peer pressure and bullying as a way to sell products is di… https://t.co/uALQyTpCB0 — Hiroshi Lockheimer (@lockheimer) 1641662322000 iMessage should not benefit from bullying. Texting should bring us together, and the solution exists. Let's fix thi… https://t.co/p7fd3YjZzh — Android (@Android) 1641664778000 Google vice president for Android, Chrome, Chrome OS, Play and Photos, Hiroshi Lockheimer has some harsh words for Apple over its iMessage policy.
+
+
+***
+![Perl vs Python : programming](https://external-preview.redd.it/QR9bQJFzM6FTzAgxkyrqvssEJBUwGUvtTitk2kIyfa8.jpg?auto=webp&s=eb4b32d80be5cbfdac9fce07db925f14dd7b3477 "Perl vs Python : programming")
+
+
+[Perl vs Python : programming](https://www.reddit.com/r/programming/comments/s0a7v6/perl_vs_python)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search within r/programming r/programming r/programming
+
+
+***
+![PUBG New State My New State Squad Challenge: Win 100 Chicken Medals; know how to participate](https://images.hindustantimes.com/tech/img/2022/01/10/1600x900/FIfYGrhaUAEQL88_1641783882764_1641783899912.jpg "PUBG New State My New State Squad Challenge: Win 100 Chicken Medals; know how to participate")
+
+
+[PUBG New State My New State Squad Challenge: Win 100 Chicken Medals; know how to participate](https://tech.hindustantimes.com/gaming/news/pubg-new-state-my-new-state-squad-challenge-win-100-chicken-medals-know-how-to-participate-71641783845780.html)
+
+
+> Players can now participate in the PUBG New State My New State Squad Challenge and can get a chance to win 100 Chicken Medals. Participate in PUBG New State My New State Squad Challenge. Know how to. (PUBG New State Twitter) PUBG New State My New State Squad Challenge has been rolled out for players to participate and win prizes. The challenge is live from January 8 to January 12, 2022. Players who win the challenge will be able to take away 100 Chicken Medals. In order to win the prize, players need to show off their squads best play on social media.
+
+
+***
+![OneConnect Inks New Strategic Partnership Agreement with Chengfang Financial Technology](https://apnews.com/images/PaidContent3.png "OneConnect Inks New Strategic Partnership Agreement with Chengfang Financial Technology")
+
+
+[OneConnect Inks New Strategic Partnership Agreement with Chengfang Financial Technology](https://apnews.com/press-release/pr-newswire/technology-business-china-data-privacy-30fff7721d150806f6b3558853d4fb90)
+
+
+> SHANGHAI, Jan. 9, 2022 /PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) ('OneConnect'), a leading technology-as-a-service platform for financial institutions has today announced it has entered into a strategic partnership with Chengfang Financial Technology Co. Ltd., (abbreviated as 'Chengfang Financial Technology'), a financial technology company established by the People's Bank of China ('PBOC'). Working with shared principles of equal collaboration, joint development, honesty and trustworthiness, both parties will work together to address common pain points in the financial industry, deliver technological innovations, and enhance data processing and governance.
+
+
