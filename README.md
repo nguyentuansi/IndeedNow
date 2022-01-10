@@ -43818,3 +43818,43 @@
 > Apple's VR and AR headset will be intended for shorter experiences, with the company seeking to avoid the metaverse vision, according to a report from Bloomberg's Mark Gurman. 'Here's one word I'd be shocked to hear on stage when Apple announces its headset: metaverse,' Gurman wrote. 'I've been told pretty directly that the idea of a completely virtual world where users can escape to — like they can in Meta Platforms/Facebook's vision of the future — is off-limits from Apple.' Instead, Apple's headset will be focused on 'bursts of gaming, communication, and content consumption', and it won't be a device for all-day use.
 
 
+***
+![Vivo Y33T Price in India, Specifications (10th January 2022)](https://i.gadgets360cdn.com/products/large/vivo-y33t-376x800-1641809559.jpg "Vivo Y33T Price in India, Specifications (10th January 2022)")
+
+
+[Vivo Y33T Price in India, Specifications (10th January 2022)](https://gadgets.ndtv.com/vivo-y33t-price-in-india-105158)
+
+
+> Vivo Y33T mobile was launched on 10th January 2021. The phone comes with a 6.58-inch touchscreen display with a resolution of 1080x2408 pixels. Vivo Y33T is powered by an octa-core Qualcomm Snapdragon 680 processor. It comes with 6GB of RAM. The Vivo Y33T runs Android 11 and is powered by a 5000mAh battery. The Vivo Y33T supports proprietary fast charging. As far as the cameras are concerned, the Vivo Y33T on the rear packs a triple camera setup featuring a 50-megapixel primary camera with an f/1.
+
+
+***
+![Cloudinary bootstraps its way to a $100M annual revenue run rate](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/Lahan.jpg "Cloudinary bootstraps its way to a $100M annual revenue run rate")
+
+
+[Cloudinary bootstraps its way to a $100M annual revenue run rate](https://siliconangle.com/2022/01/10/cloudinary-bootstraps-way-100m-run-rate)
+
+
+> In a current venture funding market that can only be described as giddy, Cloudinary Ltd. is an outlier. The company, which makes a cloud-based media management platform, has never taken outside investment yet today it is announcing its first acquisition and an annual revenue run rate that exceeds $100 million, up from $80 million six months ago. It's not that executives at the 11-year-old firm, which was founded in Israel and is now headquartered in Santa Clara, California, have anything against venture investment.
+
+
+***
+![Samsung launches flagship Galaxy S21 FE 5G in India for Rs 49,999](https://www.glamsham.com/wp-content/uploads/2022/01/f629c2a577cccf2cf981f55857ef3dc5.jpg "Samsung launches flagship Galaxy S21 FE 5G in India for Rs 49,999")
+
+
+[Samsung launches flagship Galaxy S21 FE 5G in India for Rs 49,999](https://www.glamsham.com/world/technology/samsung-launches-flagship-galaxy-s21-fe-5g-in-india-for-rs-49999)
+
+
+> - Advertisement - New Delhi, Jan 10 (IANS) Samsung on Monday launched its first flagship of this year — Galaxy S21 FE 5G — in India at an introductory offer of Rs 49,999 (8GB+128GB variant). Galaxy S21 FE 5G (8GB+256GB variant) will come for Rs 53,999. - Advertisement - S21 FE 5G in four finishes — Olive, Lavender, White and Graphite — will be available on leading online portals and select retail stores, starting January 11. The introductory offer (along with Rs 5,000 cashback on HDFC Bank cards) will be valid between January 11-17, said the company.
+
+
+***
+![#HowTo: Automate Your Security Processes](https://assets.infosecurity-magazine.com/webpage/og/c52d13ae-fa0b-46bd-852e-957da1ce48ab.jpg "#HowTo: Automate Your Security Processes")
+
+
+[#HowTo: Automate Your Security Processes](https://www.infosecurity-magazine.com/opinions/automate-security-processes)
+
+
+> IT security is more complicated today than ever before – teams have more platforms to support, more changes to manage and more vulnerabilities to fix. This is only compounded by there being 3.12 million empty security roles worldwide, according to ISC2. In response to this, IT security teams want to use automation to deal with these problems more effectively. Automation can help your team concentrate on making the most of their skills rather than on manual tasks like preparing data. However, you have to approach automation in the right way to be successful over time.
+
+
