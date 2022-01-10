@@ -43674,3 +43674,53 @@
 > (Image credit: Steph Chambers/Getty Images) The Redbirds aren't done yet. A huge victory over the Cowboys last weekend keeps them just about in the hunt for the NFC West title and home-field advantage in the wild-card round, but for that to materialize they also need the 49ers to get the better of the Rams. Read on as we explain how to get a Seahawks vs Cardinals live stream and watch the NFL online from anywhere.The Cards are currently the NFC's No. 5 seed, which could see them face off against AFC East champs Dallas next weekend, but if other results go their way today they could make a last-ditch swoop for the No.
 
 
+***
+![Apple predictions: new iPhone SE in March, VR headset won't include 'metaverse' support](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/hmd-4140960_1280.jpg "Apple predictions: new iPhone SE in March, VR headset won't include 'metaverse' support")
+
+
+[Apple predictions: new iPhone SE in March, VR headset won't include 'metaverse' support](https://siliconangle.com/2022/01/09/apple-predictions-new-iphone-se-march-vr-headset-wont-include-metaverse-support)
+
+
+> Mark Gurman at Bloomberg is back making new Apple Inc. predictions, including a likely launch date for the new iPhone SE and what the Apple virtual reality headset won't include. Gurman, who is rated at 87% accurate with his Apple predictions by Apple Track, has predicted that the iPhone SE 3 will be launched at an Apple virtual event likely to take place in March or April. The date would be in line with the iPhone SE 2 that was announced in April 2020. With the current model being due for an upgrade, Gurman notes that it currently caps out at 4G LTE levels with its processor running Apple's 2019 A13 chip.
+
+
+***
+![Schneider partners NYP on green solutions for SMEs](https://techwireasia.com/wp-content/uploads/2022/01/green-solutions.jpeg "Schneider partners NYP on green solutions for SMEs")
+
+
+[Schneider partners NYP on green solutions for SMEs](https://techwireasia.com/2022/01/schneider-partners-nyp-on-green-solutions-for-smes)
+
+
+> (Source – Nanyang Polytechnic)Schneider Electric and Nanyang Polytechnic Sustainability Experience Centre to help Singapore's SMEs implement green technologiesSolutions include sustainable facilities, power use optimization, and reduced energy consumption. Occupancy sensors for lighting controls can result in at least 50% energy savings post-implementationGreen solutions are now high on the radar of most organizations advocating sustainability as employees slowly make their way back to the office.
+
+
+***
+![The AI software that could turn you in to a music star](https://ichef.bbci.co.uk/news/1024/branded_news/89F9/production/_122612353_music1.jpg "The AI software that could turn you in to a music star")
+
+
+[The AI software that could turn you in to a music star](https://www.bbc.co.uk/news/business-59878572)
+
+
+> By Padraig BeltonBusiness reporterImage source, Getty ImagesImage caption, A number of AI computer systems can now write songsIf you have ever dreamed of earning money from a stellar music career but were concerned you had little talent, don't let that put you off - a man called Alex Mitchell might be able to help.Mr Mitchell is the founder and boss of a website and app called Boomy, which helps its users create their own songs using artificial intelligence (AI) software that does most of the heavy lifting.
+
+
+***
+![IsoPlexis Reports Preliminary Full Year 2021 Revenue, Releases Industry-First Superhuman Cell Library](https://apnews.com/images/PaidContent3.png "IsoPlexis Reports Preliminary Full Year 2021 Revenue, Releases Industry-First Superhuman Cell Library")
+
+
+[IsoPlexis Reports Preliminary Full Year 2021 Revenue, Releases Industry-First Superhuman Cell Library](https://apnews.com/press-release/globe-newswire/technology-science-business-health-ec04d2eef7ccda7756caf551ae847c47)
+
+
+> BRANFORD, Conn., Jan. 09, 2022 (GLOBE NEWSWIRE) -- IsoPlexis (NASDAQ: ISO), the Superhuman Cell Company, today announced its preliminary unaudited revenue for the full year 2021. Total revenue for 2021 is expected to be in the range of $17.0 to $17.2 million, representing an increase of approximately 64% to 66% compared to $10.4 million for the full year 2020. Since the commercial launch in 2018, Isoplexis has placed 209 total instruments, including 98 new instruments sold during 2021. As of year end, IsoPlexis passed an important milestone with 67% of US comprehensive cancer centers and in addition, 100% of the top 15 pharma now using IsoPlexis for functional cell analysis.
+
+
+***
+![Manufacturers express positive outlook for 2022, despite reservations](https://eandt.theiet.org/media/1097/industrial-manufacturing1.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131190046520000000 "Manufacturers express positive outlook for 2022, despite reservations")
+
+
+[Manufacturers express positive outlook for 2022, despite reservations](https://eandt.theiet.org/content/articles/2022/01/manufacturers-express-positive-outlook-for-2022-despite-some-reservations)
+
+
+> Three-quarters of companies in the UK expect conditions in manufacturing to improve in 2022, according to a survey of senior executives conducted by Make UK and accountancy firm PwC. Britain's manufacturers are more positive about the growth outlook as they enter 2022, with greater confidence in the prospects for their own companies than either the global or UK economies, according to the survey, published today. However, despite the positivity expressed, the overall picture remains clouded with conflicting issues and pressures demanding attention.
+
+
