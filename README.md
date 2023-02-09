@@ -917,3 +917,930 @@
 > The UK company plans to make significant investments across the country to increase its biomethane production, by using methane gas from Ireland's agriculture industry. Ireland's renewable gas production is set to get a boost as the UK's Cycle0 has set up a branch here. The company plans to make significant investments across the country to increase its biomethane production, by using methane gas from Ireland's agriculture industry. Cycle0 develops small-scale, modular plants that capture methane to turn into renewable gas.
 
 
+***
+![Konami's Newest Game Only Costs $1](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17iYCn.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Konami's Newest Game Only Costs $1")
+
+
+[Konami's Newest Game Only Costs $1](http://www.msn.com/en-us/news/technology/konami-s-newest-game-only-costs-1/ar-AA17iQ5i)
+
+
+> Sports fans around the world have something to celebrate as Konami, the renowned Japanese developer and publisher, has just released a new baseball video game called WBSC eBaseball Power Pros. The game is the latest entry in the Power Pros series, which is incredibly popular in Japan. Konami looks to expand the series' audience, as this is the first time a Power Pro game has been made available worldwide. Konami is remembered fondly by some for its classic video games, such as the Metal Gear, Castlevania, and Contra series.
+
+
+***
+![Introducing the Characters, Cast, Music of Little Witch Nobeta](https://gonintendo.com/attachments/image/22955/file/medium-96ca716d92a2d324452f162b6ccbef29.png "Introducing the Characters, Cast, Music of Little Witch Nobeta")
+
+
+[Introducing the Characters, Cast, Music of Little Witch Nobeta](https://gonintendo.com/contents/16030-introducing-the-characters-cast-music-of-little-witch-nobeta)
+
+
+> Idea Factory has revealed the next wave of details for Little Witch Nobeta. Today brings us more details on characters, the cast in general, and some music samples as well. Journey with Nobeta and progress through the ancient castle where she will clash against tough monsters and even tougher crafted souls. Each crafted soul Nobeta faces will have a unique set a moves that are ready to take Nobeta down. Are there other crafted souls Nobeta is unaware of? You can get the details for Nobeta, Tania, Monica and Venessa on the official Little Witch Nobeta website.
+
+
+***
+![Perseverance: Complete Edition now available on Switch](https://gonintendo.com/attachments/image/22954/file/medium-a23aebb2a5975041273ef3c38fb13539.jpg "Perseverance: Complete Edition now available on Switch")
+
+
+[Perseverance: Complete Edition now available on Switch](https://gonintendo.com/contents/16029-perseverance-complete-edition-now-available-on-switch)
+
+
+> Get the ultimate Perseverance experience in Perseverance: Complete Edition which bundles Perseverance: Part 1, 2, and 3 into one full package. Guide Jack and Karen through the trials and tribulations of small-town drama and the zombie apocalypse! Feardemic's back with vengeance and opens 2023 with a brand new release - Perseverance: Complete Edition. Experience all 3 episodes of Jack and Karen's story condensed into a single release! Grab the game NOW on Switch for $15 with a limited-time 25% discount! This discount ends on Feb.
+
+
+***
+![Know by Heart... comes to Switch March 9th, 2023, new trailer shared](https://gonintendo.com/attachments/image/22953/file/medium-88de70e8d405cdde9eb249cb64ffc78e.jpg "Know by Heart... comes to Switch March 9th, 2023, new trailer shared")
+
+
+[Know by Heart... comes to Switch March 9th, 2023, new trailer shared](https://gonintendo.com/contents/16028-know-by-heart-comes-to-switch-march-9th-2023-new-trailer-shared)
+
+
+> Publisher Ice-Pick Lodge has announced that Know by Heart… is set for release on Switch March 9th, 2023. The title is priced at $20 and takes up 1 GB of space. The release date was shared in a new trailer, which you can check out above. Know by Heart… is a deep, emotional story about accepting loss that touched the hearts of players and critics alike. The story takes place in a backwater Russian town. The main character, Misha, is reunited with his childhood friends after a long time apart. It's up to them to journey down memory lanes and rekindle their friendship.
+
+
+***
+![Konami releases WBSC eBASEBALL: POWER PROS merch](https://gonintendo.com/attachments/image/22952/file/medium-9ade03d7a619e6635c757d3caf8bf470.jpg "Konami releases WBSC eBASEBALL: POWER PROS merch")
+
+
+[Konami releases WBSC eBASEBALL: POWER PROS merch](https://gonintendo.com/contents/16027-konami-releases-wbsc-ebaseball-power-pros-merch)
+
+
+> If you watched the Nintendo Direct yesterday, then you know that WBSC eBASEBALL: POWER PROS is now available on Switch, and it's priced at just $1! If you've already picked up the game and have become a big fan, you might be interested to know that Konami has just released a round of official WBSC eBASEBALL: POWER PROS merch. Over on the official Konami shop, you can sift through a new collection of WBSC eBASEBALL: POWER PROS goodies. The lineup includes t-shirts, hats, a hoodie and polo shirt.
+
+
+***
+![Giada De Laurentiis Inks Overall Unscripted Production Deal With Amazon Studios](https://iknowallnews.com/wp-content/uploads/2023/02/Giada-De-Laurentiis-Inks-Overall-Unscripted-Production-Deal-With-Amazon-Studios.jpg "Giada De Laurentiis Inks Overall Unscripted Production Deal With Amazon Studios")
+
+
+[Giada De Laurentiis Inks Overall Unscripted Production Deal With Amazon Studios](https://iknowallnews.com/tv-movies/giada-de-laurentiis-inks-overall-unscripted-production-deal-with-amazon-studios/)
+
+
+> Home » TV & Movies » Giada De Laurentiis Inks Overall Unscripted Production Deal With Amazon Studios EXCLUSIVE: Celebrity chef, bestselling author and Emmy-winning TV host Giada De Laurentiss ( Everyday Italian, Giada at Home ) is getting into business with Amazon Studios, signing a multi-year overall unscripted series production deal. Under the pact, De Laurentiis will develop and executive produce with an eye towards starring in original unscripted television programming on behalf of the studio.
+
+
+***
+![Melanie Lynskey Fires Back At Adrianne Curry's Criticism Of Her Body In The Last Of Us](https://iknowallnews.com/wp-content/uploads/2023/02/Melanie-Lynskey-Fires-Back-At-Adrianne-Currys-Criticism-Of-Her-Body-In-The-Last-Of-Us.jpg "Melanie Lynskey Fires Back At Adrianne Curry's Criticism Of Her Body In The Last Of Us")
+
+
+[Melanie Lynskey Fires Back At Adrianne Curry's Criticism Of Her Body In The Last Of Us](https://iknowallnews.com/celebrities/melanie-lynskey-fires-back-at-adrianne-currys-criticism-of-her-body-in-the-last-of-us/)
+
+
+> Melanie Lynskey doesn't have time for body shaming — of  any kind! If you've been keeping up with HBO 's latest smash hit The Last of Us , you'll know that the Two and a Half Men star made her series debut during last Sunday's episode. The 45-year-old plays Kathleen, an original character specifically developed for the video game adaptation. Her character leads a revolutionary group that overthrew what government was left in the Kansas City quarantine zone. However, not just everyone was totally sold on her casting… In a since-deleted tweet, America's Next Top Model alum Adrianne Curry sarcastically slammed the idea someone who looked like the Yellowjackets star could ever be in charge in the post-apocalypse:  'Watching short, midwestern, soft voiced soccer moms be in charge of post-apocalyptic warlord men is SO what would happen LOL #TheLastOfUs' When she got some pushback from fans, she doubled down, invoking  Linda Hamilton ‘s famously ripped bod in  Terminator 2 : 'her body says life of luxury not post apocolyptic warlord.
+
+
+***
+![Justice Sucks cleans up space in the FREE Vacuum Massacre story update](https://gonintendo.com/attachments/image/22951/file/medium-74cb5e1243993e31c52a707641b19045.png "Justice Sucks cleans up space in the FREE Vacuum Massacre story update")
+
+
+[Justice Sucks cleans up space in the FREE Vacuum Massacre story update](https://gonintendo.com/contents/16026-justice-sucks-cleans-up-space-in-the-free-vacuum-massacre-story-update)
+
+
+> You thought it was all over. The corporation beaten and your family rescued, but Samurai Punk and publisher tinyBuild are dragging you in for one last job, and it's sure to get messy. Justice Sucks: Tactical Vacuum Action returns this month in Vacuum Massacre, a FREE content update of stellar proportions. Releasing February 16th for Switch, tackle Dusty McClean's most daring and dangerous mission yet; a clean sweep of FamilyCorp's final orbital stronghold. Continuing shortly after Justice Sucks ends, Vacuum Massacre sees Dusty's family once again menaced by their corporate captors.
+
+
+***
+![Limited Run Game reveals NES reprint of Maniac Mansion](https://gonintendo.com/attachments/image/22949/file/medium-17ef8de9a3637653002e3bd57e0e650d.webp "Limited Run Game reveals NES reprint of Maniac Mansion")
+
+
+[Limited Run Game reveals NES reprint of Maniac Mansion](https://gonintendo.com/contents/16025-limited-run-game-reveals-nes-reprint-of-maniac-mansion)
+
+
+> The 40th anniversary of the NES is just 3+ years away, yet the system continues to see all kinds of support. There are plenty of brand-new games made for the platform every day, along with re-releases of classics. Some of those reprints have come from Limited Run Games, and they've got another classic on the way. Starting Feb. 17th, 2023, Limited Run Games will have pre-orders for a physical re-release of Maniac Mansion on the NES. First up is the standard NES release for $60, which includes the following: Physical Copy of Maniac Mansion for NES Manual Bulletin Board Poster Those who want to go all-out can snag the $100 Premium Edition that packs in the following: Physical Copy of Maniac Mansion for NES Maniac Mansion Original Soundtrack Maniac Mansion Premium Edition Box Manual Two- Sided 18'x24' Poster Bulletin Board Poster Lenticular Microwave Pen Logo Patch Mini Game Cart Keychain If you want to get a closer look at each before pre-orders open on Feb.
+
+
+***
+![Solving Advent of Code with DuckDB and dbt](https://external-preview.redd.it/APKO8jC1ZJ1MupkxXon4UgfPXavdWUgQ5T0euOvvXBk.jpg?auto=webp&v=enabled&s=7b2a47b49b2686c1e1aca7ff5169b1da129aa152 "Solving Advent of Code with DuckDB and dbt")
+
+
+[Solving Advent of Code with DuckDB and dbt](https://www.reddit.com/r/programming/comments/10y3zu5/solving_advent_of_code_with_duckdb_and_dbt)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+[ERI's Angie Ransom Discusses the Role of Data in ITAD and E-Waste Recycling at Reverse Logistics Association Conference &amp; Expo](http://www.businesswire.com/news/home/20230209005694/en/ERI%E2%80%99s-Angie-Ransom-Discusses-the-Role-of-Data-in-ITAD-and-E-Waste-Recycling-at-Reverse-Logistics-Association-Conference-Expo/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LAS VEGAS--(BUSINESS WIRE)-- #ERI--Angie Ransom, Vice President of the Retail Division for ERI, the nation's largest fully integrated IT and electronics asset disposition provider and cybersecurity-focused hardware destruction company, participated in a panel of experts on the multifaceted relationship between data and logistics yesterday at the Reverse Logistics Association (RLA) 19th Annual RLA Conference & Expo at the Mirage in Las Vegas. For the panel titled 'Reverse Our Thinking: Logistics
+
+
+***
+![Limited Run Games offering two physical versions of Vengeful Guardian: Moonrider](https://gonintendo.com/attachments/image/22947/file/medium-5b79cdf49693658278fb2ad3b5d2cf25.jpg "Limited Run Games offering two physical versions of Vengeful Guardian: Moonrider")
+
+
+[Limited Run Games offering two physical versions of Vengeful Guardian: Moonrider](https://gonintendo.com/contents/16023-limited-run-games-offering-two-physical-versions-of-vengeful-guardian-moonrider)
+
+
+> Two more boxed copies to choose from Just two days ago, Pix'n Love Games opened pre-orders for three physical versions of Vengeful Guardian: Moonrider. Following that, Limited Run Games has revealed two of their own boxed copies. First up is the standard release, which is priced at $35 and gets you a game card and game box. Along with that is the Classic Edition you see above. That version is priced at $75 and includes the following: Physical Copy of Vengeful Guardian: Moonrider for Nintendo Switch Vengeful Guardian: Moonrider Retro Box Vengeful Guardian: Moonrider Soundtrack Poster Pin Both versions are available to pre-order starting today, and you can do so through this link.
+
+
+***
+![Major upgrade to Google Maps lets users fly like a drone through cities](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17iqL5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Major upgrade to Google Maps lets users fly like a drone through cities")
+
+
+[Major upgrade to Google Maps lets users fly like a drone through cities](http://www.msn.com/en-us/news/technology/major-upgrade-to-google-maps-lets-users-fly-like-a-drone-through-cities/ar-AA17iqLb)
+
+
+> Google has rolled out a major new upgrade to its hugely popular maps app that allows users to fly like a drone over cities. Load Error The Immersive View feature for Google Maps launched for London, Los Angeles, New York, San Francisco and Tokyo, with plans to make it available for other global cities. 'Immersive View is an entirely new way to explore a place — letting you feel like you're right there, even before you visit,' Chris Phillips, a general manager at Google, wrote in a blog post unveiling the update.
+
+
+***
+![Alice in Wonderland now available on Switch](https://gonintendo.com/attachments/image/22946/file/medium-f9dcebcfcfe66b3a518e2d2f10831454.jpg "Alice in Wonderland now available on Switch")
+
+
+[Alice in Wonderland now available on Switch](https://gonintendo.com/contents/16022-alice-in-wonderland-now-available-on-switch)
+
+
+> Down the rabbit hole we go Publisher QUByte Interactive has announced that Alice in Wonderland is now available on Switch. The game is priced at $5 and takes up 197 MB of space. A new jigsaw puzzle game to remember a beloved classic story. With 12 beautiful illustrations created by Katia Numakura, with inspiration from 'Alice in Wonderland' by Lewis Carroll. Complete the jigsaw puzzle scenes at five different levels of difficulty - from 60 to 735 pieces. Relax with a comforting and exclusive soundtrack.
+
+
+***
+![Research reveals thermal instability of solar cells but offers a bright path forward](https://scx2.b-cdn.net/gfx/news/hires/2023/research-reveals-therm.jpg "Research reveals thermal instability of solar cells but offers a bright path forward")
+
+
+[Research reveals thermal instability of solar cells but offers a bright path forward](https://techxplore.com/news/2023-02-reveals-thermal-instability-solar-cells.html)
+
+
+> Surface stoichiometry change in CsFAMA films treated with PEAI and OAI N1s (left) and Pb4f (right) peaks of PEAI (top) and OAI (bottom) treated films. Credit: Advanced Materials (2022). DOI: 10.1002/adma.202204726 A new type of solar technology has seemed promising in recent years. Halide perovskite solar cells are both high performing and low cost for producing electrical energy—two necessary ingredients for any successful solar technology of the future. But new solar cell materials should also match the stability of silicon-based solar cells, which boast more than 25 years of reliability.
+
+
+***
+![Stolen Realm Brings Innovative Turn-Based RPG Action To Switch In Q2 2023](https://gonintendo.com/attachments/image/22943/file/medium-5baa94e37476c98fd869b9d5aa89b18b.png "Stolen Realm Brings Innovative Turn-Based RPG Action To Switch In Q2 2023")
+
+
+[Stolen Realm Brings Innovative Turn-Based RPG Action To Switch In Q2 2023](https://gonintendo.com/contents/16019-stolen-realm-brings-innovative-turn-based-rpg-action-to-switch-in-q2-2023)
+
+
+> Burst2Flame are pleased to announce that their simultaneous turn-based tactical RPG, Stolen Realm, will be exiting its Early Access phase and releasing on Switch in Q2 2023. The studio today also released the new World Map Update, removing the transition between the map and battles and introducing three brand new areas to the game, along with a host of other additions and improvements. Praised by the likes of Shroud and Sacriel for the flexibility of its class customisation and a design that avoids RPG bloat, Stolen Realm takes the deep tactical systems of RPGs like Divinity: Original Sin and gives it a unique twist.
+
+
+***
+![Technical Services — Mergers & Acquisitions](https://www.themiddlemarket.com/wp-content/uploads/2020/11/Mergers-and-Acquisitions-logo.jpeg "Technical Services — Mergers & Acquisitions")
+
+
+[Technical Services — Mergers & Acquisitions](https://www.themiddlemarket.com/organization/technical-services)
+
+
+> FirstCall Mechanical Group is a commercial services company offering HVAC/R, electrical and plumbing services to commercial and industrial customers.
+
+
+***
+![Super Mario Bros. movie poster features Princess Peach and Rainbow Road](https://gonintendo.com/attachments/image/22941/file/medium-c63bffc3825eb9935c1bdff4355278c5.png "Super Mario Bros. movie poster features Princess Peach and Rainbow Road")
+
+
+[Super Mario Bros. movie poster features Princess Peach and Rainbow Road](https://gonintendo.com/contents/16018-super-mario-bros-movie-poster-features-princess-peach-and-rainbow-road)
+
+
+> Nintendo and Illumination continue to release posters for the upcoming Super Mario Bros. animated movie. Just yesterday, we got a poster featuring Luigi, and today brings us a look at Princess Peach. In this poster, we get to see Princess Peach in her Mario Kart racing gear, and she's far ahead of the pack on the road. The poster also features other Kong-related characters in the background, and some of them look like brand-new faces! Who are these Kongs and where is Peach leading them to? We'll find out when the Super Mario Bros.
+
+
+***
+![What Type of Digital Camera Sensor Do You Need?](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/281da0b13c4d4a682da2041b994ab504.jpg "What Type of Digital Camera Sensor Do You Need?")
+
+
+[What Type of Digital Camera Sensor Do You Need?](https://gizmodo.com/digital-camera-sensor-best-explained-crop-full-frame-1850094987)
+
+
+> If you're shopping for a digital camera, sensor size is one of the first things you'll hear about. Chances are you've seen terms like 'crop sensor,' 'full frame,' and 'micro four-thirds' thrown around, but what do those terms actually mean? And is camera sensor size actually important? How Your Digital Camera Sensor Works A digital camera's sensor collects light and converts that light into an image. It's a small square positioned inside the camera body behind where the lens is attached, and is made up of tiny photoreceptors.
+
+
+***
+![Microgrid in a box opening new possibilities in defense, utilities, disaster relief](https://scx2.b-cdn.net/gfx/news/2023/microgrid-in-a-box-ope.jpg "Microgrid in a box opening new possibilities in defense, utilities, disaster relief")
+
+
+[Microgrid in a box opening new possibilities in defense, utilities, disaster relief](https://techxplore.com/news/2023-02-microgrid-possibilities-defense-disaster-relief.html)
+
+
+> INL's Microgrid in a Box includes 320 kilowatt-hours of battery storage, and can tie seamlessly into a modern electrical grid and coordinate the distribution of electricity for a small village, military base or other critical infrastructure building. Credit: Idaho National Laboratory In the back lot behind a building at Idaho National Laboratory building in Idaho Falls, energy systems engineer Kurt Myers leads me outside to look at a nondescript shipping container and an enclosed trailer.
+
+
+***
+![Intel's Arrow Lake Architecture to Have Major IPC Gains Over Alder Lake](https://www.extremetech.com/wp-content/uploads/2022/10/newsroom-innovation-13th-gen-intel-core-1-feat.jpg.rendition.intel_.web_.1648.927-640x360.jpg "Intel's Arrow Lake Architecture to Have Major IPC Gains Over Alder Lake")
+
+
+[Intel's Arrow Lake Architecture to Have Major IPC Gains Over Alder Lake](https://www.extremetech.com/computing/342969-intels-arrow-lake-architecture-to-have-major-ipc-gains-over-alder-lake)
+
+
+> Intel's CPU roadmap is a bit murky. We've all seen various forms of it and generally know what to expect. However, in silicon manufacturing, many details are always TBD until the day it launches. For example, we know Meteor Lake will follow Raptor Lake, and Arrow Lake comes after that. The fly in the ointment is Meteor Lake might be mobile-only. If that happens, the true successor to Raptor Lake is Arrow Lake in 2024. Now a new leak suggests that is the case, and Arrow Lake will offer big gains across the board for desktop users, especially in efficiency.
+
+
+***
+![FATAL FRAME: Mask of the Lunar Eclipse Digital Pre-orders Now Available, Story Trailer (English Version) Released](https://gonintendo.com/attachments/image/22939/file/medium-48c11fc55ace9c368b643906514ad1d4.jpg "FATAL FRAME: Mask of the Lunar Eclipse Digital Pre-orders Now Available, Story Trailer (English Version) Released")
+
+
+[FATAL FRAME: Mask of the Lunar Eclipse Digital Pre-orders Now Available, Story Trailer (English Version) Released](https://gonintendo.com/contents/16016-fatal-frame-mask-of-the-lunar-eclipse-digital-pre-orders-now-available-story-trailer)
+
+
+> Today, KOEI TECMO America announced that their remastered classic, FATAL FRAME: Mask of the Lunar Eclipse, is now available for digital pre-order. The long-awaited revival of this Japanese horror adventure is currently under development for Switch and will be available digitally March 9, 2023. FATAL FRAME: Mask of the Lunar Eclipse takes place on a Rogetsu Isle in southern Japan, a decade after five young girls mysteriously disappeared at a moonlight festival. When two of the girls are found dead, just days apart ten years after the initial vanishing, the remaining three teenagers – Ruka Minazuki, Misaki Aso and Madoka Tsukimori – head back to the spooky island to solve the mystery of their friends' deaths and their hazy memories.
+
+
+***
+![Iconic Disney Princesses Get Modern Reimagining, Thanks to CreativeSoul](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/587104d0b9abead76a9b082f886923bb.jpg "Iconic Disney Princesses Get Modern Reimagining, Thanks to CreativeSoul")
+
+
+[Iconic Disney Princesses Get Modern Reimagining, Thanks to CreativeSoul](https://gizmodo.com/disney-princess-dolls-reimagined-by-creativesoul-1850091882)
+
+
+> CreativeSoul Photography rocketed to viral success by taking fairytale looks from beloved Disney Princess characters and re-envisioning them as children from the African diaspora. The gorgeous series, which features young Black girls as Rapunzel, Cinderella , Tiana, and Snow White, earned accolades that garnered the attention of Disney and has now inspired a new line of dolls. io9 recently caught up with CreativeSoul Photography's Atlanta-based team, Kahran and Regis Bethencourt, to talk about the ShopDisney collection and the inspiration behind their work.
+
+
+***
+![Chewbacca Actor Peter Mayhew's Wife Speaks Out Against His ‘Star Wars' Scripts and More Being Auctioned: ‘It Breaks My Heart'](https://iknowallnews.com/wp-content/uploads/2019/11/cropped-ser7-32x32.gif "Chewbacca Actor Peter Mayhew's Wife Speaks Out Against His ‘Star Wars' Scripts and More Being Auctioned: ‘It Breaks My Heart'")
+
+
+[Chewbacca Actor Peter Mayhew's Wife Speaks Out Against His ‘Star Wars' Scripts and More Being Auctioned: ‘It Breaks My Heart'](https://iknowallnews.com/lifestyle/chewbacca-actor-peter-mayhews-wife-speaks-out-against-his-star-wars-scripts-and-more-being-auctioned-it-breaks-my-heart)
+
+
+> Angie Mayhew, the wife of the late 'Star Wars' actor Peter Mayhew, is speaking out against an upcoming auction in which Peter's 'Star Wars' memorabilia will be sold. Ryedale Auctioneers is selling 'Star Wars' scripts, call-sheets and more that were discovered in Peter Mayhew's attic after his death. Peter starred as Chewbacca in George Lucas' original 'Star Wars' trilogy. Angie took to Twitter to say the auction 'really breaks [her] heart.' 'When we moved out of this house, Peter's movement challenges made it impossible for him to get into the attic to get the rest of these memories,' Angie wrote.
+
+
+***
+![Arcade Archives: Magical Speed now available on Switch](https://gonintendo.com/attachments/image/22937/file/medium-5b38eaa196d5a11d84b6e2f20419a7c7.png "Arcade Archives: Magical Speed now available on Switch")
+
+
+[Arcade Archives: Magical Speed now available on Switch](https://gonintendo.com/contents/16014-arcade-archives-magical-speed-now-available-on-switch)
+
+
+> Speeding to the Switch eShop HAMSTER Co. is happy to announce that MAGICAL SPEED is available for Switch starting today. As usual, you can pick up this Arcade Archives release for $8. MAGICAL SPEED is a card game released by ALLUMER in 1994. The main characters, NICOLE and CLAIRE, go on a great adventure in search of the 'RAINBOW CARD,' which can make any wish come true! You win the game if you play all the cards in your hand and in the field first! If you play cards in a row, the demons will interfere with your enemies, making this a different kind of 'SPEED' game! Arcade Archives: MAGICAL SPEED can be played by one or two players.
+
+
+***
+![Donald Trump back on Facebook and Instagram](https://ichef.bbci.co.uk/news/1024/branded_news/22E0/production/_128582980_gettyimages-1460358998.jpg "Donald Trump back on Facebook and Instagram")
+
+
+[Donald Trump back on Facebook and Instagram](https://www.bbc.com/news/technology-64585429)
+
+
+> Image source, Getty Images Image caption, Mr Trump, who is running for president again, has regained access to platforms where he has millions of followers Donald Trump's Facebook and Instagram pages have been restored after being suspended for more than two years. Mr Trump was banned from the social media platforms after the Capitol riots in 2021. The platforms' parent company Meta said it had acted after the then-president praised people who were "engaged in violence at the Capitol". If Mr Trump breaks the rules again, he may be removed again - for between one month and two years - Meta has said.
+
+
+***
+![PixelJunk Scrappers Deluxe coming to Switch later this year](https://gonintendo.com/attachments/image/22936/file/medium-622d9cb1372556ad62c780e3a63e5114.png "PixelJunk Scrappers Deluxe coming to Switch later this year")
+
+
+[PixelJunk Scrappers Deluxe coming to Switch later this year](https://gonintendo.com/contents/16013-pixeljunk-scrappers-deluxe-coming-to-switch-later-this-year)
+
+
+> Scrapping together a Switch release Independent studio Q-Games today announced that PixelJunk Scrappers Deluxe is coming to Switch later this year. The party-game brawler hybrid features a striking visual style and invites players to join a team of robot garbage collectors to clean up the streets of Junktown with up to 4 players locally and online. Players take on the role of the Scrappers, a team of humanoid trash collectors in a not-so-distant future. The goal is to clean up a city overrun with trash following the end of humanity.
+
+
+***
+![RIvian Confirms That Electric Bicycles Are In The Pipeline](https://cdn.motor1.com/images/mgl/vxJlqv/s1/rivian-confirms-that-electric-bicycles-are-in-the-pipeline.jpg "RIvian Confirms That Electric Bicycles Are In The Pipeline")
+
+
+[RIvian Confirms That Electric Bicycles Are In The Pipeline](https://insideevs.com/news/651127/rivan-confirms-ebikes-incoming/)
+
+
+> In recent years, electric bicycles have seen a massive increase in popularity all across the globe. While folks in Europe and Asia are turning to e-bikes for personal mobility, in the U.S., e-biking is still mostly a for-fun outdoor activity. Nevertheless, electric bicycles present themselves as solid alternatives to taking a car, especially on short trips around town.  Compared to most countries in Europe, regulations surrounding the performance of electric bicycles are much more relaxed in the U.
+
+
+***
+![European Switch eShop releases for the week of Feb. 9th, 2023](https://gonintendo.com/attachments/image/22935/file/medium-4d5c03d40c8af9f3a5c3d8196bc63e8d.png "European Switch eShop releases for the week of Feb. 9th, 2023")
+
+
+[European Switch eShop releases for the week of Feb. 9th, 2023](https://gonintendo.com/contents/16012-european-switch-eshop-releases-for-the-week-of-feb-9th-2023)
+
+
+> The next batch of weekly releases for the Switch eShop is here! As usual, there's a huge list of titles coming to the platform, with both small and large releases to pique your interest. Take a look at the full list for Europe for the week of Feb. 2nd, 2023 below. Air Jet Fighter Combat – Europe Fly Plane Attack Alice in Wonderland – A jigsaw puzzle tale Bumblebee: Little Bee Adventure Car Factory Driver Daily Dadish Deep Space:Action Fire Sci-Fi Game 2023 Shooter Strike Simulator Alien Death Ultimate Games Detective Agency: Gray Tie Collector's Edition Foxy's Coin Hunt Hair Salon: Cool Stories Helvetii Hentai RPG: Isekai Journey Hundred Fires: The rising of red star Episode 2 I am an Air Traffic Controller: Airport Hero Haneda Japanese Escape Games The Light and Mirror Room Kart Crazy Race Simulator Game Metroid Prime Remastered Nadir NCL: USA Bowl Offroad Moto Bike Perseverance: Complete Edition Pets at Work Prison Tycoon: Under New Management Putrid Shot Ultra Puzzle by Nikoli S Hashiwokakero Rob Riches Samurai Warrior Seraph's Last Stand Seventh Lair Shuttlecock-H Sport & Fun: Swimming Swap Puzzles Tiny Detour Trophy WBSC eBaseball: Power Pros modal#open commentUpvoteInfoModal.
+
+
+***
+![The best 5K and 8K monitors in February 2023](https://cdn.mos.cms.futurecdn.net/YRkknFz5T6ALXoUEQT7wUk-1200-80.jpg "The best 5K and 8K monitors in February 2023")
+
+
+[The best 5K and 8K monitors in February 2023](https://www.creativebloq.com/buying-guides/best-8k-monitors)
+
+
+> The best 5K and 8K monitors are currently the best way to get yourself the ultimate detail for creative work. But they are, to put it mildly, pretty niche right now. As is the need for them. The best 5K monitors offer something a little more mainstream, though, bringing a notable resolution boost that anyone can use, without getting too specialist or difficult to drive from your computer.  While the best 8K monitors are currently very limited for options, there's more variety among the best 5K screens, with different shapes and specs varying from those aimed at a creative work specifically, to elite gaming monitors, and some great in-between options.
+
+
+***
+![Jupiter Overtakes Saturn for Bragging Rights to Most Moons in Solar System](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA170vuW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Jupiter Overtakes Saturn for Bragging Rights to Most Moons in Solar System")
+
+
+[Jupiter Overtakes Saturn for Bragging Rights to Most Moons in Solar System](http://www.msn.com/en-us/news/technology/jupiter-overtakes-saturn-in-race-for-most-moons-in-solar-system/ar-AA170HuP)
+
+
+> Some planets seem to have it all. Jupiter is the largest in the solar system, sporting a distinctive and fashionable red spot, subtle but elegant rings and dozens of moons. As if that weren't enough, it looks as though Jupiter has 12 more small moons in its orbit, bringing the total number of natural satellites within its grasp to a whopping 92. Astronomer Scott Sheppard from the Carnegie Institution for Science in Washington, DC, reported observations of the system over the last two years that reveal a dozen new moons.
+
+
+***
+![Biogas produced with waste from apple juice production can minimize use of fossil fuels in industry](https://scx2.b-cdn.net/gfx/news/2023/biogas-produced-with-w.jpg "Biogas produced with waste from apple juice production can minimize use of fossil fuels in industry")
+
+
+[Biogas produced with waste from apple juice production can minimize use of fossil fuels in industry](https://techxplore.com/news/2023-02-biogas-apple-juice-production-minimize.html)
+
+
+> Graphical Abstract. Credit: Biomass Conversion and Biorefinery (2022). DOI: 10.1007/s13399-022-03534-6 Scientists at the State University of Campinas (UNICAMP) and the Federal University of the ABC (UFABC) in São Paulo state, Brazil, have successfully produced biogas from apple pomace, the pulpy residue remaining after the fruit has been crushed to extract its juice. An article describing the research is published in the journal Biomass Conversion and Biorefinery . The key concept is that of the circular economy , a system of closed loops designed to reduce costs, recover resources from waste, promote reuse and recycling, and maximize use of bioenergy and biomaterials.
+
+
+***
+![Chris Lane Was Down to Golf With Lauren's Ex Ben Higgins: 'What a Nice Guy'](https://iknowallnews.com/wp-content/uploads/2023/02/Chris-Lane-Was-Down-to-Golf-With-Lauren039s-Ex-Ben-Higgins-039What-a-Nice-Guy039.jpg "Chris Lane Was Down to Golf With Lauren's Ex Ben Higgins: 'What a Nice Guy'")
+
+
+[Chris Lane Was Down to Golf With Lauren's Ex Ben Higgins: 'What a Nice Guy'](https://iknowallnews.com/lifestyle/chris-lane-was-down-to-golf-with-laurens-ex-ben-higgins-what-a-nice-guy/)
+
+
+> Home » Lifestyle » Chris Lane Was Down to Golf With Lauren's Ex Ben Higgins: 'What a Nice Guy' Not afraid of friendly competition — on the golf course! Chris Lane and Lauren Bushnell Lane spoke exclusively to Us Weekly after her ex-fiancé, Ben Higgins , revealed he played in the same golf tournament as the country singer. Lauren Bushnell and Chris Lane's Whirlwind Romance 'It was great. I know he's played in that tournament for several years now,' Lane, 38, told Us in a joint interview with his wife, 33, while promoting their partnership with Hill's Nutrition.
+
+
+***
+![New DJI Mini 2 SE can fly up to 31 minutes while shooting video](https://photos5.appleinsider.com/gallery/52928-105901-DJI-mini-2-Se-hand-xl.jpg "New DJI Mini 2 SE can fly up to 31 minutes while shooting video")
+
+
+[New DJI Mini 2 SE can fly up to 31 minutes while shooting video](https://appleinsider.com/articles/23/02/09/new-dji-mini-2-se-can-fly-up-to-31-minutes-while-shooting-video)
+
+
+> The new DJI Mini 2 SE drone AppleInsider may earn an affiliate commission on purchases made through links on our site. The newest drone from DJI is the Mini 2 SE, an affordable entry to the company's drone lineup that can fit in the palm of a hand. The Mini 2 SE is an ultraportable, regulation-friendly drone that weighs less than eight ounces and is exempt from drone laws in several regions worldwide. Its 1/2.3-inch CMOS sensor can film videos at 2.7K resolution and capture photos at 12 megapixels.
+
+
+***
+![Georgia Elementary School Principal, Gym Teacher, & 3rd Grade Teacher Resign After CRAZY Campus Affair Comes To Light!](https://iknowallnews.com/wp-content/uploads/2023/02/Georgia-Elementary-School-Principal-Gym-Teacher-amp-3rd-Grade-Teacher-Resign-After-CRAZY-Campus-Affair-Comes-To-Light.jpg "Georgia Elementary School Principal, Gym Teacher, & 3rd Grade Teacher Resign After CRAZY Campus Affair Comes To Light!")
+
+
+[Georgia Elementary School Principal, Gym Teacher, & 3rd Grade Teacher Resign After CRAZY Campus Affair Comes To Light!](https://iknowallnews.com/celebrities/georgia-elementary-school-principal-gym-teacher-3rd-grade-teacher-resign-after-crazy-campus-affair-comes-to-light/)
+
+
+> An elementary school principal, a gym teacher, and a third grade teacher have all resigned after a years-long affair came to light, sending shock waves through the small-town community in which they worked. Media attention is coming down on  Banks County Elementary School in the small city of Homer, Georgia this week. That rural town is the focus of serious fallout after a major investigation by the county's Board of Education into an apparent affair involving two employees at the school. According to Atlanta-based  WSB-TV , Banks County Elementary School principal  Dr.
+
+
+***
+[United Fiber Launches Bold Campaign Featuring Revenue EDGE Managed Services and Exceptional Subscriber Experiences To Sign Up 11 Percent More Subscribers in Just Three Weeks](http://www.businesswire.com/news/home/20230209005207/en/United-Fiber-Launches-Bold-Campaign-Featuring-Revenue-EDGE-Managed-Services-and-Exceptional-Subscriber-Experiences-To-Sign-Up-11-Percent-More-Subscribers-in-Just-Three-Weeks/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN JOSE, Calif.--(BUSINESS WIRE)--Calix, Inc. (NYSE: CALX) today announced that Missouri-based cooperative and longtime Calix customer United Fiber is leveraging the Calix platform and managed services to fuel rapid growth. United Fiber is transforming its value proposition by embracing the Calix Revenue EDGE™ solution to deliver innovative new services—including managed Wi-Fi powered by GigaSpire® BLAST systems, home network security (ProtectIQ®), parental controls (ExperienceIQ®), and the Ca
+
+
+***
+![Philip Schofield swears live on This Morning after news of A-list guest](https://iknowallnews.com/wp-content/uploads/2023/02/Philip-Schofield-swears-live-on-This-Morning-after-news-of-A-list-guest.jpg "Philip Schofield swears live on This Morning after news of A-list guest")
+
+
+[Philip Schofield swears live on This Morning after news of A-list guest](https://iknowallnews.com/celebrities/philip-schofield-swears-live-on-this-morning-after-news-of-a-list-guest/)
+
+
+> Home » Celebrities » Philip Schofield swears live on This Morning after news of A-list guest Phillip Schofield made a blunder on This Morning after discovering he'll be missing out on meeting a certain A-list guest next week. The 60 year old learnt live on air that US singer Pink will appear on the show on 14 February, during his break for half-term. Phillip was visibly disappointed on camera as he realised he wouldn't get to talk to the global star, who he revealed he'd been waiting 'years' to meet.
+
+
+***
+![Donald Trump Is Officially Back on Facebook and Instagram](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5bfc2f6d5a1d402fcdc4c638bc606fc9.jpg "Donald Trump Is Officially Back on Facebook and Instagram")
+
+
+[Donald Trump Is Officially Back on Facebook and Instagram](https://gizmodo.com/donald-trump-facebook-meta-ban-social-media-1850094714)
+
+
+> Former President Donald Trump's official Facebook account is back online, along with his Instagram. The accounts had been suspended from both platforms for over two years , following Trump's role in instigating the January 6, 2021 attack on the U.S. Capitol. Meta, Facebook's and Instagram's parent company, announced that it would rescind the block on Trump in January—and now the tech giant has followed through on that promise. In the statement announcing Trump's return, Meta's President of Global Affairs, Nick Clegg wrote that the company no longer believes the former president's Facebook account poses the same 'serious risk to public safety,' as it did when the platform banned him.
+
+
+***
+![HBOs Ben Wasserstein Enters First Look Deal at Eden Productions](https://iknowallnews.com/wp-content/uploads/2023/02/HBOs-Ben-Wasserstein-Enters-First-Look-Deal-at-Eden-Productions.jpg "HBOs Ben Wasserstein Enters First Look Deal at Eden Productions")
+
+
+[HBOs Ben Wasserstein Enters First Look Deal at Eden Productions](https://iknowallnews.com/lifestyle/hbos-ben-wasserstein-enters-first-look-deal-at-eden-productions/)
+
+
+> Home » Lifestyle » HBOs Ben Wasserstein Enters First Look Deal at Eden Productions Ben Wasserstein has entered a first look deal at Richard Plepler's Eden Productions. Under the deal, Wasserstein will pursue and develop new comedy and drama series, limited series and films for Eden's multi-year deal with Apple TV+. He will work alongside Heather Karpas, who joined Eden in 2020 after previously working at ICM Partners. Before entering this role, Wasserstein had been working at HBO since 2016. He entered the company as vice president of original programming, eventually rising to senior vice president.
+
+
+***
+![How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "How Levels.fyi scaled to millions of users with Google Sheets as a backend")
+
+
+[How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.reddit.com/r/programming/comments/10y1ts4/how_levelsfyi_scaled_to_millions_of_users_with)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+[St. Louis Founders Consolidate Software Offerings into One Platform to Give Users More Control](http://www.businesswire.com/news/home/20230207005003/en/St.-Louis-Founders-Consolidate-Software-Offerings-into-One-Platform-to-Give-Users-More-Control/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ST. LOUIS--(BUSINESS WIRE)--On March 2, things will look a little different for users of St. Louis-based ReachDynamics, a direct mail retargeting platform. The platform will be rolled into LeadPost, a website visitor identification software. While the companies existed as different products since 2020, their core features are largely the same. 'LeadPost expanded on the capabilities we developed for ReachDynamics,' cofounder and CEO Eric Castelli said. 'But the biggest difference is that LeadPos
+
+
+***
+[Turnberry Solutions named a winner of the 2023 Top Workplaces USA](http://www.businesswire.com/news/home/20230209005649/en/Turnberry-Solutions-named-a-winner-of-the-2023-Top-Workplaces-USA/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MINNEAPOLIS & PHILADELPHIA--(BUSINESS WIRE)-- #focusforward--Turnberry Solutions has announced it has earned the 2023 Top Workplaces USA award.
+
+
+***
+![Realme's new GT Neo 5 smartphone can charge fully in less than 10 minutes](https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-09-image-17.jpg "Realme's new GT Neo 5 smartphone can charge fully in less than 10 minutes")
+
+
+[Realme's new GT Neo 5 smartphone can charge fully in less than 10 minutes](https://www.techspot.com/news/97558-realme-new-gt-neo-5-smartphone-can-charge.html)
+
+
+> In a nutshell: Realme is redefining the term "fast charging" with its new GT Neo 5, a smartphone that includes a 240W charging system for blistering fast recharges. Need a quick 20 percent juice up before heading out the door? If you can spare a minute and a half, you're golden. The handset features a 6.74-inch, 10-bit AMOLED screen with 144Hz refresh rate that operates at a resolution of 2,772 x 1,240 and covers 100 percent of the DCI-P3 color space. Realme has also baked in 16GB of RAM and up to 1TB of UFS 3.
+
+
+***
+![NIST Picks IoT Standard for Small Electronics Cybersecurity](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltac3dd3af222ddcaa/63e51d8f545a1167c54fbbfd/NIST_GK_Images_Alamy.jpg "NIST Picks IoT Standard for Small Electronics Cybersecurity")
+
+
+[NIST Picks IoT Standard for Small Electronics Cybersecurity](https://www.darkreading.com/ics-ot/nist-picks-iot-standard-lightweight-electronics-cybersecurity)
+
+
+> 1 MIN READ Quick Hits After a search that took several years, the National Institute of Standards and Technology (NIST) has chosen Ascon to be the standard to protect data generated by exploding ranks of lightweight electronics that make up the Internet of Things (IoT). NIST will publish the full standard later in 2023, the organization says. The Ascon group of algorithms is able to provide protection under the electronic constraints of small technology like medical devices, stress detectors on roads and bridges, and keyless entry fobs for cars, according to NIST.
+
+
+***
+![M.Gemi: Sustainable Italian Shoes That Will Complete Your Wardrobe](https://iknowallnews.com/wp-content/uploads/2023/02/M.Gemi-Sustainable-Italian-Shoes-That-Will-Complete-Your-Wardrobe.jpg "M.Gemi: Sustainable Italian Shoes That Will Complete Your Wardrobe")
+
+
+[M.Gemi: Sustainable Italian Shoes That Will Complete Your Wardrobe](https://iknowallnews.com/lifestyle/m-gemi-sustainable-italian-shoes-that-will-complete-your-wardrobe/)
+
+
+> Home » Lifestyle » M.Gemi: Sustainable Italian Shoes That Will Complete Your Wardrobe Sponsored content. Us Weekly receives compensation for this article as well as for purchases made when you click on a link and buy something below. There's something about Italian fashion that can help awaken your inner, most elegant personal style. The designs, the quality, the timelessness — and brands like M.Gemi prove why, when it comes to cementing your style, Italian is the way to go. M.Gemi's shoes and handbags are not only made with Italy's finest leathers and materials, but they're handmade by local expert artisans in family-owned workshops.
+
+
+***
+![Metroid Prime's remaster is the best way to experience a classic](https://cdn.vox-cdn.com/thumbor/vTIXfFfso7RjYLMTLWkvOoTQ1k4=/0x0:1920x1080/1200x628/filters:focal(1122x523:1123x524)/cdn.vox-cdn.com/uploads/chorus_asset/file/24420921/Switch_MetroidPrimeRemastered_Screen_08.jpg "Metroid Prime's remaster is the best way to experience a classic")
+
+
+[Metroid Prime's remaster is the best way to experience a classic](https://www.theverge.com/2023/2/9/23592822/metroid-prime-remastered-nintendo-switch-best-way-classic)
+
+
+> Metroid Prime is my favorite game of all time. It was the Super Mario 64 of Metroid , brilliantly ushering the sci-fi platformer series from 2D to 3D. Obviously, I was thrilled to hear about Nintendo's surprise release of Metroid Prime Remastered , which you can play right now. But I'll admit that I was a touch nervous to return to the game, which I hadn't played in years. Would it hold up? In my first hour with Remastered , the answer so far is definitely yes.  I was overcome by waves of nostalgia from the moment I booted up the game.
+
+
+***
+![Prioritizing Cybersecurity Regulation Harmonization](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1a739a3188ec1aa8/63e11b4fa3874149ce9321fd/Women_singing_Fredrick_Kippe_Alamy.jpg "Prioritizing Cybersecurity Regulation Harmonization")
+
+
+[Prioritizing Cybersecurity Regulation Harmonization](https://www.darkreading.com/risk/prioritizing-cybersecurity-regulation-harmonization)
+
+
+> For most of my career, I worked for major international financial services companies in the security and risk functions. These organizations were multinational global institutions that operated in a plethora of countries. One of the challenges that was common in these organizations was ensuring we complied with each jurisdiction's information and cybersecurity regulations. In practice, that work involved managing relationships with, in some cases, more than 250 regulatory authorities, each of which came with its own expectations of standards for cybersecurity best practice.
+
+
+***
+[Maximus Names Elisabeth Schmidt as Senior Vice President for Technology and Consulting Services](http://www.businesswire.com/news/home/20230209005059/en/Maximus-Names-Elisabeth-Schmidt-as-Senior-Vice-President-for-Technology-and-Consulting-Services/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TYSONS, Va.--(BUSINESS WIRE)--Maximus announces Elisabeth Schmidt as one of the company's new Senior Vice Presidents for Technology and Consulting Services.
+
+
+***
+![10 Best Smart Coffee Makers to Buy [2023]: Brewing with Style](https://techpp.com/wp-content/uploads/2023/01/Best-Smart-coffee-makers.jpg "10 Best Smart Coffee Makers to Buy [2023]: Brewing with Style")
+
+
+[10 Best Smart Coffee Makers to Buy [2023]: Brewing with Style](https://techpp.com/2023/02/09/best-smart-coffee-makers-to-buy/)
+
+
+> There are many smart coffee makers on the market, and which one is best for you depends on your specific needs and preferences. Many factors come into play when it comes to buying the best coffee maker for use in the office or at home. Factors you should consider when choosing a smart coffee maker include the type of coffee it can make (e.g. drip coffee, espresso, single serve), the size and capacity of the machine, the materials it is made of, and any additional features it offers. It can also be helpful to read reviews and compare prices from different retailers to find the best deal.
+
+
+***
+[nVent Electric plc to Participate in the Barclays Industrial Select Conference](http://www.businesswire.com/news/home/20230209005186/en/nVent-Electric-plc-to-Participate-in-the-Barclays-Industrial-Select-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON--(BUSINESS WIRE)--nVent Electric plc (NYSE:NVT) ('nVent'), a global leader in electrical connection and protection solutions, today announced its participation in the Barclays Industrial Select Conference on Thursday, February 23, 2023. Chief Executive Officer Beth Wozniak will present at 10:55 a.m. ET. A webcast will be available on nVent's Investor Relations website at https://investors.nvent.com/events-and-presentations. ABOUT NVENT nVent is a leading global provider of electrical con
+
+
+***
+![Chloë Grace Moretz's Twisty Sci-Fi Tale The Peripheral Will Return](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/439ad7446f40ba387bfb0f1ccc876cfd.jpg "Chloë Grace Moretz's Twisty Sci-Fi Tale The Peripheral Will Return")
+
+
+[Chloë Grace Moretz's Twisty Sci-Fi Tale The Peripheral Will Return](https://gizmodo.com/prime-video-peripheral-s2-chloe-grace-moretz-sci-fi-1850094151)
+
+
+> There were a lot of things to enjoy about season one of Prime Video's The Peripheral , including its sleek but gloomy vision of the future (both near and far-flung) and its strong protagonist in Chloë Grace Moretz. Not so great was its tangled season finale —but with today's news that the show's getting a second season, there'll be more room to dive into its complex ideas. According to a press release from Prime Video, a second season of the William Gibson adaptation is officially on the way.
+
+
+***
+![1Password Passkey Support Will Let You Dump Your 1 Password](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17iqpC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "1Password Passkey Support Will Let You Dump Your 1 Password")
+
+
+[1Password Passkey Support Will Let You Dump Your 1 Password](http://www.msn.com/en-us/news/technology/1password-passkey-support-will-let-you-dump-your-1-password/ar-AA17iBFN)
+
+
+> Password manager 1Password will let you protect your vault of passwords with a passkey starting this summer, embracing an authentication technology designed to be as easy to use as passwords but more secure. Password managers are great when it comes to creating and remembering the dozens or hundreds of passwords we have in our lives, but that single password can be a point of weakness for a hacker trying to gain access to all your accounts. Load Error "For passkeys to be the way forward, it's not enough for them to replace some of your passwords," Chief Product Officer Steve Won said in a blog post Thursday.
+
+
+***
+![Meta restores Donald Trumps Facebook page](https://ia.tmgrup.com.tr/95babe/806/378/0/110/1200/672?u=https://i.tmgrup.com.tr/anews/v1/2023/02/09/meta-restores-donald-trumps-facebook-page-1675965428131.jpg "Meta restores Donald Trumps Facebook page")
+
+
+[Meta restores Donald Trumps Facebook page](https://www.anews.com.tr/tech/2023/02/09/meta-restores-donald-trumps-facebook-page)
+
+
+> Meta Platforms Inc has restored former U.S. President Donald Trump's Facebook page following a two-year suspension after the deadly Capitol Hill riot on Jan. 6, 2021. Meta in January said it would lift Trump's suspension "in the coming weeks" and would institute heightened penalties of a suspension between one month and two years if the former president violated its content policies again. Trump now regains access to key platforms for voter outreach and political fundraising ahead of another run for the White House in 2024.
+
+
+***
+![I Met Oprah Winfrey!!!!!! AND I Also...](https://iknowallnews.com/wp-content/uploads/2023/02/I-Met-Oprah-Winfrey-AND-I-Also....jpg "I Met Oprah Winfrey!!!!!! AND I Also...")
+
+
+[I Met Oprah Winfrey!!!!!! AND I Also...](https://iknowallnews.com/celebrities/i-met-oprah-winfrey-and-i-also/)
+
+
+> This was an experience that nourishes our soul TO THIS DAY!!!!!! We will cherish this forever! April 2012. #ThrowbackThursday Related Posts Source: Read Full Article
+
+
+***
+![Getting Started with Kubeflow: A Step-by-Step Guide to Installing and Using Private Docker Images…](https://miro.medium.com/max/1200/1*rolTdjmwUDaBFGWCtSb9dg.png "Getting Started with Kubeflow: A Step-by-Step Guide to Installing and Using Private Docker Images…")
+
+
+[Getting Started with Kubeflow: A Step-by-Step Guide to Installing and Using Private Docker Images…](https://medium.com/@kcoupal/getting-started-with-kubeflow-a-step-by-step-guide-to-installing-and-using-private-docker-images-6bbfdb5462f2)
+
+
+> Kubeflow is an open-source platform for machine learning (ML) on Kubernetes, which is a powerful and widely-used system for managing containerized applications. It provides a comprehensive set of tools and frameworks for building, deploying, and managing ML workflows on Kubernetes. Notebooks, on the other hand, are interactive computing environments that allow you to create and share documents containing live code, equations, visualizations, and narrative text. In the context of Kubeflow, notebooks can be used for interactive data exploration, model development, and experimentation.
+
+
+***
+![Disadvantages of MacBook Pro M2 Max with fully upgraded customization](https://images.macrumors.com/social/?t=2380210&v=6 "Disadvantages of MacBook Pro M2 Max with fully upgraded customization")
+
+
+[Disadvantages of MacBook Pro M2 Max with fully upgraded customization](https://forums.macrumors.com/threads/disadvantages-of-macbook-pro-m2-max-with-fully-upgraded-customization.2380210/)
+
+
+> Hi everybody! I'm new here and would really appreciate your advice. My knowledge about hardware and customization is not that good. My old MacBook Pro from 2015 needs an upgrade, and I am looking at the new MacBook Pro 14'' with M2 Max. I use my MacBook for a lot of graphic design, video editing and sports analysis. All of them uses some quite heavy software that uses a lot of power. I need my new MacBook to be able to process videos etc. as fast as even possible, and I do really not like lagging or bad performance! My idea is to (hold on now) upgrade it almost as much as possible: - M2 Max with 12‑core CPU, 38‑core GPU, 16‑core Neural Engine - 96GB unified memory - 4TB SSD storage The price is not an issue for me (no, I am really not rich), because I am willing to invest in really good performance for the years to come.
+
+
+***
+![Microsoft Edge will ditch its own PDF reader and replace it with Adobe's. Including advertising – Živě.cz](https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=948339908 "Microsoft Edge will ditch its own PDF reader and replace it with Adobe's. Including advertising – Živě.cz")
+
+
+[Microsoft Edge will ditch its own PDF reader and replace it with Adobe's. Including advertising – Živě.cz](https://www.world-today-news.com/microsoft-edge-will-ditch-its-own-pdf-reader-and-replace-it-with-adobes-including-advertising-zive-cz/)
+
+
+> Microsoft he announced great cooperation with Adobe. In the coming year, it will remove its own PDF reader from its Edge browser and replace it with Acrobat Reader. This step is to improve compatibility with documents (Edge does not open everything today), companies also promise better rendering, higher performance and security, but also better text selection or a function for reading by voice synthesis. All this will be free. The first published screenshot shows that the reader is not much different from the current one.
+
+
+***
+[AccuRisk Announces Acquisition of Matrix Group Benefits](http://www.businesswire.com/news/home/20230209005626/en/AccuRisk-Announces-Acquisition-of-Matrix-Group-Benefits/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PEMBROKE, Mass.--(BUSINESS WIRE)--Today, AccuRisk announces the acquisition of Matrix Group Benefits, a Portland, Maine-based MGU. Matrix Group Benefits approaches Medical Stop Loss for Partially Self-Funded Plans from a financial planning perspective using a multiple year financial model. Their team of twelve will be incorporated into the AccuRisk Solutions staff and continue to be based in Portland. AccuRisk is a part of Ardonagh Global Partners (AGP), a branch of the Ardonagh Group, the UK's
+
+
+***
+![AUDUSD backs off after 200 hour MA/50% retracement was broken.... and failed](https://images.forexlive.com/images/AUDUSD_id_df6806e5-6b57-4bcf-9176-ca2bb200dad8_size900.jpg?v=1675966369393 "AUDUSD backs off after 200 hour MA/50% retracement was broken.... and failed")
+
+
+[AUDUSD backs off after 200 hour MA/50% retracement was broken.... and failed](https://www.forexlive.com/technical-analysis/audusd-backs-off-after-200-hour-ma50-retracement-was-broken-and-failed-20230209/)
+
+
+> 200 hour MA and 50% at 0.7006 area AUDUSD falls from 200 hour MA and 50% retracement level The AUDUSD bottomed on Monday after sharp selling from the high at 0.7157 last Thursday (see hourly chart above). The 3 day fall traveled around 300 pips from the high at 0.7157 to the low at 0.6855 (302 pips to be exact). That is a pretty good move in a relative short period of time. The price since bottoming has seen sharp intraday moves up and down, but has also found higher lows and higher highs on Tuesday and Wednesday and even today.
+
+
+***
+![Robinhood Hovers After Investors Ruminate Results](https://www.crowdfundinsider.com/wp-content/uploads/2021/02/Robinhood-on-iPhone-12.jpg "Robinhood Hovers After Investors Ruminate Results")
+
+
+[Robinhood Hovers After Investors Ruminate Results](https://www.crowdfundinsider.com/2023/02/202319-robinhood-hovers-after-investors-ruminate-results)
+
+
+> Robinhood (NASDAQ:HOOD) posted Q4 and full year 2022 results yesterday that delivered a net loss of $166 million, or an EPS of -$0.19, compared with net loss of $175 million, or EPS of -$0.20, in the third quarter of 2022. For the full year, Robinhood reported a net loss of $1.03 billion, or an EPS -$1.17 per share. So things are still negative. Total net revenues for Q4 increased a slight 5% sequentially to $380 million for the full year, and Robinhood reported revenue for the year of $1.36 billion.
+
+
+***
+![Fintech Affirm Reduces Size of Professional Team by 19%, Shares Sink](https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Max-Levchin-LendIt-Fintech-2018-1014x1024.jpeg "Fintech Affirm Reduces Size of Professional Team by 19%, Shares Sink")
+
+
+[Fintech Affirm Reduces Size of Professional Team by 19%, Shares Sink](https://www.crowdfundinsider.com/2023/02/202289-fintech-affirm-reduces-size-of-professional-team-by-19-shares-sink)
+
+
+> Max Levchin, Founder and CEO at Affirm (NASDAQ: AFRM), has shared an update with their employees and that he also wants to share the message publicly. In a move to reduce costs in a flagging market, Affirm will be slashing its workforce. Affirm reported earnings yesterday, which missed on both the top and bottom line. While revenues increased to $399.56 million from same quarter year prior of $361 million, it did not meet analyst expectations. The BNPL provider also generated an EPS loss of $1.10, underperforming expectations and almost double year over year.
+
+
+***
+![Mazepay, the Fintech Platform Enhancing B2B Payments, Raises €4M](https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Euros-Envelope-Bribe.jpeg "Mazepay, the Fintech Platform Enhancing B2B Payments, Raises €4M")
+
+
+[Mazepay, the Fintech Platform Enhancing B2B Payments, Raises €4M](https://www.crowdfundinsider.com/2023/02/202300-mazepay-the-fintech-platform-enhancing-b2b-payments-raises-e4m)
+
+
+> Mazepay, the Danish Fintech platform that simplifies long-tail procurement and B2B payments, has 'raised a €4M growth round, led by Scale Capital.' Participants in the investment round 'include international investment firm Hambro Perks, and London-based early-stage venture capital firm Outward VC. Mazepay will use the latest funding to expand further across Europe.' Founded in 2018 in Aarhus, Denmark, by CEO Søren Aabel Hammer, COO Dan Kortegaard Nielsen, and CTO Thomas Dragsbæk, Mazepay explains that it 'empowers medium and large-scale enterprises to easily manage all B2B spending within a trusted and compliant global ecosystem.
+
+
+***
+![Canon launches its lightest full frame EOS R System camera](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-09-154039000.jpg "Canon launches its lightest full frame EOS R System camera")
+
+
+[Canon launches its lightest full frame EOS R System camera](https://www.businessghana.com/)
+
+
+> EOS R8 gives photographers the tools they need to step up creativity with full frame Featuring a 24.2 megapixel full frame CMOS sensor, high ISO and improved dynamic range, the EOS R8 is the ideal choice for portrait, event and landscape photography delivering a wider, more artistic perspective. Accompanied by the launch of the RF 24-50mm F4.5-6.3 IS STM ( https://apo-opa.info/3jK6JkG ), a small lightweight RF series zoom lens, the pair create a compact yet powerful kit bag allowing photographers to explore creativity in full frame.
+
+
+***
+![Robinhood Cancels Ziglu Acquisition as it Reduces Expenses](https://www.crowdfundinsider.com/wp-content/uploads/2020/10/End-of-Route-66-in-California.jpeg "Robinhood Cancels Ziglu Acquisition as it Reduces Expenses")
+
+
+[Robinhood Cancels Ziglu Acquisition as it Reduces Expenses](https://www.crowdfundinsider.com/2023/02/202321-robinhood-cancels-ziglu-acquisition-as-it-reduces-expenses)
+
+
+> Robinhood (NASDAQ:HOOD) revealed it has canceled the acquisition of Ziglu, a UK Fintech that opened the door to a new market. Ziglu holds an e-money license and is regulated by the UK Financial Conduct Authority. Ziglu provides crypto trading in the UK as well as other features such as cash accounts. Robinhood announced the acquisition in April of 2022, stating: 'As we look to expand internationally, we're excited to announce that we've signed a deal to acquire Ziglu Limited, a UK-based electronic money institution and cryptoasset firm, subject to regulatory approvals and other customary closing conditions.
+
+
+***
+![Technical Universities are not the preserve of poor-performing students – Vice-Chancellor](https://gna.org.gh/web/wp-content/uploads/2023/02/Education-Quality-Training.jpg "Technical Universities are not the preserve of poor-performing students – Vice-Chancellor")
+
+
+[Technical Universities are not the preserve of poor-performing students – Vice-Chancellor](https://gna.org.gh/2023/02/technical-universities-are-not-the-preserve-of-poor-performing-students-vice-chancellor/)
+
+
+> By Philip Tengzu Kpongu, (UW/R), Feb. 9, GNA – Professor Elias N.K. Sowley, the Vice-Chancellor (VC) of the Dr. Hilla Limann Technical University (DHLTU), says it is not true that technical universities are the preserve of school dropouts or poor-performing students.  He said in some countries highly intelligent people attended technical universities because the training in those institutions required a high level of reasoning and intelligence.    Prof. Sowley, who said this at the DHLTU during a brief ceremony to hand over classroom furniture to the Kpongu community, observed that there was a vast difference between the technical university and the traditional university in the training they offered.
+
+
+***
+![US says China balloon could collect intelligence signals](https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/c/a1/ca1ee3be-0634-5469-a345-a02b5bc9477b/63e5119d0dc99.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "US says China balloon could collect intelligence signals")
+
+
+[US says China balloon could collect intelligence signals](https://wcfcourier.com/lifestyles/technology/us-says-china-balloon-could-collect-intelligence-signals/article_68deec69-8481-52a5-8284-886ee90356c3.html)
+
+
+> WASHINGTON (AP) — The China balloon shot down by the U.S. was equipped to collect intelligence signals as part of a huge, military-linked aerial spy program that targeted more than 40 countries, the Biden administration said Thursday, citing imagery from American U-2 spy planes. A fleet of balloons operates under the direction of the People's Liberation Army and is used specifically for spying, outfitted with high-tech equipment designed to collect sensitive information from targets across the globe, the U.
+
+
+***
+![Has the Company Finally Made a Turnaround?](https://www.sharewise.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOG5RV1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--23cf0ca6f0fd8fe1ad3581a2a829a5d16d9e902f/chart.jpg?locale=de "Has the Company Finally Made a Turnaround?")
+
+
+[Has the Company Finally Made a Turnaround?](https://www.world-today-news.com/has-the-company-finally-made-a-turnaround/)
+
+
+> The market hated Spotify (NYSE: SPOT) in 2022. At some points, it felt like shares would never stop falling with the stock down 66% last calendar year. But in 2023, fortunes for the audio streamer have started to change. The stock is up 55% year to date (YTD) along with an overall resurgence in growth stocks this year and after reporting strong user growth for the fourth quarter of 2022. Investors are betting big on Spotify after its latest earnings result. Is the stock finally ready to bounce back for good? Let's take a look.
+
+
+***
+![Russia's Trickbot Ransomware Gang Faces US, UK Sanctions](https://1734811051.rsc.cdn77.org/data/images/full/420869/france-internet-information-technology-security-computer.jpg "Russia's Trickbot Ransomware Gang Faces US, UK Sanctions")
+
+
+[Russia's Trickbot Ransomware Gang Faces US, UK Sanctions](https://www.techtimes.com/articles/287429/20230209/russias-trickbot-ransomware-gang-faces-uk-sanctions.htm)
+
+
+> Trisha Kae Andrada , Tech Times 09 February 2023, 12:02 pm (Photo : DAMIEN MEYER/AFP via Getty Images) This picture taken on November 3, 2016 shows on a screen viruses list at the LHS (High Security Laboratory) of the INRIA (National Institute for Research in Computer Science and Automation) in Rennes. - Paradise where computer viruses blossom under the watchful eye of scientists. Seven Russians have been sanctioned by the US and UK for their roles in the cybercrime organization TrickBot.
+
+
+***
+![NASA's CAPSTONE Moon Probe Makes Strides Despite Incessant Problems](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5016e5b3dd7c0f685c21d27be8a79bc0.jpg "NASA's CAPSTONE Moon Probe Makes Strides Despite Incessant Problems")
+
+
+[NASA's CAPSTONE Moon Probe Makes Strides Despite Incessant Problems](https://gizmodo.com/nasa-capstone-moon-probe-problems-progress-1850093917)
+
+
+> The NASA-funded CAPSTONE probe has been working in a unique lunar orbit since November 13, 2022, where it's setting the stage for a future space station and related space-based technologies. The $33 million cubesat appears to be getting the job done—no small miracle, given the endless issues that continue to plague the mission. Advanced Space, the owner and operator of CAPSTONE, issued a mission update yesterday, highlighting recent achievements and frustrations. Short for Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, the tiny cubesat has hit a number of key mission objectives since reaching space last June.
+
+
+***
+![The reproduction and survival of sea turtles is threatened by the repercussions of climate change](https://s.mc-doualiya.com/media/display/15820756-08cd-11ed-a679-005056a90284/w:1280/p:16x9/AP22035428611559-(1).jpg "The reproduction and survival of sea turtles is threatened by the repercussions of climate change")
+
+
+[The reproduction and survival of sea turtles is threatened by the repercussions of climate change](https://www.world-today-news.com/the-reproduction-and-survival-of-sea-turtles-is-threatened-by-the-repercussions-of-climate-change/)
+
+
+> A few days ago, a US fighter jet shot down a Chinese spy balloon that had entered US airspace over the Atlantic Ocean. Why are spy balloons used as a substitute for satellites in intelligence gathering and surveillance missions? Spy balloons are huge blimps, each about the size of three buses, that float higher than commercial airliners or even higher than fighter and spy planes. But these balloons fly at a much lower altitude than satellites that are at a higher altitude in Earth orbit. Most commercial airliners float during their flights at an altitude of 40,000 feet, while the Chinese balloon was within American territory, floating at an altitude of nearly 60,000 feet, and was maneuverable and showed that it could change its course.
+
+
+***
+![7 problems facing Bing, Bard, and the future of AI search](https://cdn.vox-cdn.com/thumbor/egckdJL0ImaC1AjImAB-vZ35_W0=/0x0:2040x1360/1200x628/filters:focal(1058x1146:1059x1147)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390468/STK149_AI_Chatbot_K_Radtke.jpg "7 problems facing Bing, Bard, and the future of AI search")
+
+
+[7 problems facing Bing, Bard, and the future of AI search](https://www.theverge.com/2023/2/9/23592647/ai-search-bing-bard-chatgpt-microsoft-google-problems-challenges)
+
+
+> This week, Microsoft and Google promised that web search is going to change. Yes, Microsoft did it in a louder voice while jumping up and down and saying 'look at me, look at me,' but both companies now seem committed to using AI to scrape the web, distill what it finds, and generate answers to users' questions directly — just like ChatGPT. Microsoft calls its efforts ' the new Bing ' and is building related capabilities into its Edge browser. Google's is called project Bard , and while it's not yet ready to sing, a launch is planned for the 'coming weeks.
+
+
+***
+![Luther is back in the first trailer for Netflix's The Fallen Sun](https://cdn.vox-cdn.com/thumbor/tQiAQyUZpYLlGqzTwDGcFRYFyXo=/0x0:3600x2024/1200x628/filters:focal(1800x1012:1801x1013)/cdn.vox-cdn.com/uploads/chorus_asset/file/24420871/LUTH_20211111_03060r2.jpg "Luther is back in the first trailer for Netflix's The Fallen Sun")
+
+
+[Luther is back in the first trailer for Netflix's The Fallen Sun](https://www.theverge.com/2023/2/9/23592777/luther-the-fallen-sun-trailer-date-netflix)
+
+
+> Things aren't looking so great for John Luther in the first trailer for Luther: The Fallen Sun . The upcoming Netflix film sees Idris Elba return as the beleaguered detective, and the new clip shows him breaking out of prison in order to solve a crime that continues to haunt him before going up against a menacing new villain played by Andy Serkis. The movie itself is a continuation of Luther the TV series, which ended in 2019 after five seasons. In addition to Elba and Serkis, it also stars Cynthia Erivo and Dermot Crowley, who reprises his role as detective superintendent Martin Schenk.
+
+
+***
+![Using Argo Events With Pub/Sub to Trigger Kubernetes Jobs in Google Cloud](https://miro.medium.com/max/750/0*M8hNMoUEJZoDgYbU.png "Using Argo Events With Pub/Sub to Trigger Kubernetes Jobs in Google Cloud")
+
+
+[Using Argo Events With Pub/Sub to Trigger Kubernetes Jobs in Google Cloud](https://medium.com/@ruben.blazquez/using-argo-events-with-pub-sub-to-trigger-kubernetes-jobs-in-google-cloud-e712035ce42d)
+
+
+> Event-based systems are becoming increasingly popular in modern app development. They allow you to quickly respond to events and make decisions in real-time, giving your organization the agility and responsiveness it needs to stay ahead in today's fast-moving digital world. Despite the growing importance of event-based systems, there is currently no native solution for triggering the creation of resources in Google Kubernetes Engine (GKE) from Pub/Sub messages. This can be a challenge for organizations looking to build event-driven applications.
+
+
+***
+[SnapLogic Announces Winners of 2022 Enterprise Automation Awards](http://www.businesswire.com/news/home/20230209005618/en/SnapLogic-Announces-Winners-of-2022-Enterprise-Automation-Awards/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN MATEO, Calif.--(BUSINESS WIRE)--SnapLogic, a leader in intelligent integration and enterprise automation, today announced the winners of its second annual Enterprise Automation Awards. The awards recognize customers and partners who have successfully deployed intelligent integration and automation to boost innovation, improve the customer experience, and drive operational excellence and business growth. Announcing this year's category award winners: The Enterprise Automation Award – Hampshi
+
+
+***
+![Kubernetes vs Docker Swarm](https://miro.medium.com/max/1200/1*K76deklvm2kVXCm2DfPODA.png "Kubernetes vs Docker Swarm")
+
+
+[Kubernetes vs Docker Swarm](https://blog.getambassador.io/kubernetes-vs-docker-swarm-16807ff6d7e3)
+
+
+> Containers have significantly altered how businesses create, deploy, and manage their applications. Even though containers can be manually deployed and managed in small quantities, the number of containerized applications is fast increasing in most enterprises, making their scaled management unfeasible without automation. The operational work necessary to execute container workloads and services is automated with container orchestration. To implement this, certain tools and platforms are required.
+
+
+***
+![Gardens are being ‘poisoned' by pesticides says new survey](https://cdn.images.express.co.uk/img/dynamic/128/590x/1732891_1.jpg?r=1675962111964 "Gardens are being ‘poisoned' by pesticides says new survey")
+
+
+[Gardens are being ‘poisoned' by pesticides says new survey](https://iknowallnews.com/lifestyle/gardens-are-being-poisoned-by-pesticides-says-new-survey/)
+
+
+> We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info Gardeners are driving away our best-loved songbirds by using pesticides on their flowers and shrubs, a groundbreaking new survey reveals. Favourite species like the house sparrow, chaffinch, great tit and blackbird vanish in huge numbers where the chemical weedkillers and slug pellets are used.
+
+
+***
+![A Spider-Man Noir Live-Action Series Is Coming to Prime Video](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2019/01/13153549/Noir-spider-man-into-the-spider-verse.jpg "A Spider-Man Noir Live-Action Series Is Coming to Prime Video")
+
+
+[A Spider-Man Noir Live-Action Series Is Coming to Prime Video](https://nerdist.com/article/a-spiderman-noir-live-action-series-coming-to-amazon-prime-video-will-not-include-peter-parker/)
+
+
+> NEW html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd" xml encoding="UTF-8" As we know, there are so, so many Spideys out in the world . It was a delight to see a few of them together in Spider-Man: Into the Spiderverse , including Spider-Man Noir. The older and frankly worn out monochromatic hero from the 1930s is certainly an interesting take on the character.
+
+
+***
+![[Discussion] Looking for opinions: Scale Spellbook vs. Snorkel Flow vs....?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[Discussion] Looking for opinions: Scale Spellbook vs. Snorkel Flow vs....?")
+
+
+[[Discussion] Looking for opinions: Scale Spellbook vs. Snorkel Flow vs....?](https://www.reddit.com/r/MachineLearning/comments/10y0ksi/discussion_looking_for_opinions_scale_spellbook)
+
+
+> Hey everyone. Has anyone used Snorkel Flow, Scale Spellbook or other alternatives (please advise) to test multiple foundation models and migrate between them? E.g. comparing GPT3 vs GPT-J or GPT-Neo etc. Need help moving to a smaller/cheaper model - cheers!
+
+
+***
+![Rs 8200000000000: Amount lost by a company over an advertisement blunder, here's how](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/09/2571822-untitled-design-2023-02-09t220716.281.jpg "Rs 8200000000000: Amount lost by a company over an advertisement blunder, here's how")
+
+
+[Rs 8200000000000: Amount lost by a company over an advertisement blunder, here's how](https://www.dnaindia.com/technology/report-google-lost-rs-8200000000000-ai-advertisement-blunder-brad-shares-drop-microsoft-chatgpt-3022593)
+
+
+> Advetisement blunder costs compnay $100 billion| Photo: Pixabay Google lost $100 billion in market value on Wednesday because its chatbot shared inaccurate information in a promotional video and a company event failed to dazzle, feeding worries that the Google parent is losing ground to rival Microsoft Corp. Alphaet shares dropped by nine percent during regular trading with volumes nearly three times the 50-day moving average. They pared losses after hours and were roughly flat. The stock had lost 40% of its value last year but rallied 15% since the beginning of this year, excluding Wednesday's losses.
+
+
+***
+![Twitter suffers major outage, prompting emergency fix and apology](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17ixK3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Twitter suffers major outage, prompting emergency fix and apology")
+
+
+[Twitter suffers major outage, prompting emergency fix and apology](http://www.msn.com/en-us/news/technology/twitter-suffers-major-outage-prompting-emergency-fix-and-apology/ar-AA17ipUK)
+
+
+> Twitter suffered a user outage on Wednesday that lasted for hours and required an emergency fix, prompting an apology from the company and marking one of the first major site malfunctions under the leadership of Elon Musk. What happened to American tourist Elliot Blair in Mexico Controlled burn of toxic chemicals after train derailment goes 'as planned' China balloon part of bigger surveillance program: Officials Zelenskyy makes surprise visit to UK Murder suspect on the run after allegedly cutting off ankle bracelet Rep.
+
+
+***
+![Installing passbolt with Helm](https://miro.medium.com/max/1200/0*fc3jCNmfuAeZg3-l "Installing passbolt with Helm")
+
+
+[Installing passbolt with Helm](https://blog.passbolt.com/installing-passbolt-with-helm-f9b685016c67)
+
+
+> Let's take a journey through passbolt's recently released Helm chart. Using Helm is the easiest way to get started with passbolt on kubernetes. In this guide, we'll go over the Helm chart and show a sample installation with it. Before digging in, there are a few things you'll need to know. Gather The Essentials This is a guide for a Helm chart, so you'll definitely need Helm. Other key components are a kubernetes (k8s) cluster, kubectl, and a working SMTP server to get this baby up and running. You can get a full rundown on our help page, but the essentials are: While it's completely optional, you may also want an ingress of your choice configured so you can navigate to the links provided in this installation guide.
+
+
+***
+[Zeta Introduces &apos;ChatBotZeta&apos; Beta Test](http://www.businesswire.com/news/home/20230208005880/en/Zeta-Introduces-ChatBotZeta-Beta-Test/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--Zeta Global (NYSE: ZETA), the Data-Powered Marketing Cloud, today introduced the beta launch of ChatBotZeta, a product that reads and synthesizes trillions of consumer signals from Zeta's proprietary Data Cloud with generative artificial intelligence (AI) to produce conversational attributes and descriptions of individuals. This innovation underscores Zeta's long-standing commitment to embed data-driven intelligence into the Zeta Marketing Platform (ZMP), ultimately i
+
+
+***
+!['Trust the Process!' Pregnant Kaley Cuoco Has ‘No Plan' Before Baby's Arrival](https://www.usmagazine.com/wp-content/uploads/2023/02/Pregnant-Kaley-Cuoco-Admits-She-Has-No-Plan-Ahead-of-1st-Babys-Arrival.jpg "'Trust the Process!' Pregnant Kaley Cuoco Has ‘No Plan' Before Baby's Arrival")
+
+
+['Trust the Process!' Pregnant Kaley Cuoco Has ‘No Plan' Before Baby's Arrival](https://iknowallnews.com/lifestyle/trust-the-process-pregnant-kaley-cuoco-has-no-plan-before-babys-arrival/)
+
+
+> Home » Lifestyle » 'Trust the Process!' Pregnant Kaley Cuoco Has ‘No Plan' Before Baby's Arrival Not stressing it. Kaley Cuoco is planning to go with the flow when it comes to having her first child. See Kaley Cuoco's Pregnancy Pics Before Welcoming 1st Child 'I'm not a prepper. I'm just not that way,' the pregnant actress, 37, told Entertainment Tonight on Wednesday, February 8, about getting ready for her baby's arrival. 'I trust the process. I'm just like, ‘It's going to be great.'' The Flight Attendant star, who is expecting her and boyfriend Tom Pelphrey ‘s first child, noted that she has 'no plan' because she always preferred to adapt based on the situation.
+
+
+***
+![US says China balloon could collect intelligence signals](https://bloximages.chicago2.vip.townnews.com/fremonttribune.com/content/tncms/assets/v3/editorial/5/7a/57a913cb-369a-5d00-adc8-e9c6457e8fbb/63e511d64af4b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "US says China balloon could collect intelligence signals")
+
+
+[US says China balloon could collect intelligence signals](https://fremonttribune.com/lifestyles/technology/us-says-china-balloon-could-collect-intelligence-signals/article_9bcf6132-1ee8-5c33-b30c-dc3ef7ce298f.html)
+
+
+> WASHINGTON (AP) — The China balloon shot down by the U.S. was equipped to collect intelligence signals as part of a huge, military-linked aerial spy program that targeted more than 40 countries, the Biden administration said Thursday, citing imagery from American U-2 spy planes. A fleet of balloons operates under the direction of the People's Liberation Army and is used specifically for spying, outfitted with high-tech equipment designed to collect sensitive information from targets across the globe, the U.
+
+
+***
+[Capital Chating, Ordinary People Can Be Hackers Pirate HP](https://www.world-today-news.com/capital-chating-ordinary-people-can-be-hackers-pirate-hp/)
+
+
+> Novina Putri Bestari CNBC Indonesia Tech Thursday, 09/02/2023 17:40 WIB Jakarta, CNBC Indonesia – The popularity of ChatGPT is quickly exploited by cybercriminals. It was reported that the chatbot was used as a way for them to spread viruses through the cellphones of their victims. The team of cybersecurity researchers CheckPoint Research (CPR) found seeing lots of posts on hacker forums regarding the creation of infostealers, encryption tools and other malware. All of that is done with the help of ChatGPT.
+
+
+***
+![Consider Purchasing an iPad Mini](https://images.macrumors.com/social/?t=2380205&v=6 "Consider Purchasing an iPad Mini")
+
+
+[Consider Purchasing an iPad Mini](https://forums.macrumors.com/threads/consider-purchasing-an-ipad-mini.2380205/)
+
+
+> I'm looking into an iPad Mini, which will be my first iPad. A few questions.... since I'm not in a rush would it be better to wait for the 3nm for the potentially cooler running system ? Will they eventually add an Mx to the Mini ? What is the best guesstimate as to when the next model will come out ? I'm purchasing for mainly banking, home systems, reading, ect what size drive would best suit those needs ? Are all models fixed at 4GB... and if so would the larger storage help with the operation of the unit ? And will/should they raise the ram to more than the current 4GB ? Thanks.
+
+
+***
+![[D] Similarity b/w two vectors](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[D] Similarity b/w two vectors")
+
+
+[[D] Similarity b/w two vectors](https://www.reddit.com/r/MachineLearning/comments/10y08vt/d_similarity_bw_two_vectors)
+
+
+> how to calculate similarity between two vectors? I want a similarity metric that take into accounts both the directions and magnitudes of vectors.
+
+
+***
+[Statement From The Walt Disney Company](http://www.businesswire.com/news/home/20230209005617/en/Statement-From-The-Walt-Disney-Company/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BURBANK, Calif.--(BUSINESS WIRE)--The Walt Disney Company (NYSE: DIS) Board of Directors issued the following statement today in response to Nelson Peltz's announcement that Trian Fund is no longer pursuing a proxy contest at Disney: 'We respect and value the input of all our shareholders and we appreciate the decision by Trian Fund announced by Nelson Peltz this morning. This is a moment of great opportunity for The Walt Disney Company, as we recommit to our historic 100-year legacy of unrival
+
+
+***
+![Castle News](https://alqalahnews.net/assets/2023-02-09/images/323140_1_1675959171.jpg "Castle News")
+
+
+[Castle News](https://www.world-today-news.com/castle-news-the-number-of-jupiters-moons-is-92/)
+
+
+> Castle News: Astronomers discovered 12 new moons around Jupiter, which brings the total number of moons of the gas giant to 92, breaking records in the solar system. With this discovery, Saturn retreats from the top of this ranking to the second place, with 83 confirmed moons. Scott Sheppard of the Carnegie Institution in Washington, who is part of the team tracking the moons, told The Associated Press on Friday that Jupiter's moons were recently added to a list maintained by the International Astronomical Union's Minor Planet Center.
+
+
+***
+![Elon Musk's Neuralink May Have Transported Dangerous Primate Pathogens Illegally](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2d564c89fd8549ec4dbbc73d6fdabe3f.jpg "Elon Musk's Neuralink May Have Transported Dangerous Primate Pathogens Illegally")
+
+
+[Elon Musk's Neuralink May Have Transported Dangerous Primate Pathogens Illegally](https://gizmodo.com/elon-musk-neuralink-animal-testing-primates-1850093358)
+
+
+> Neuralink is facing new allegations of malpractice from animal rights advocacy group, Physicians Committee for Responsible Medicine (PCRM). The organization claims that the Elon Musk-owned biotech company improperly and illegally transported hazardous materials, potentially contaminated with dangerous primate pathogens, according to documents obtained through a public records request, and as first reported on by Reuters. On Thursday, PCRM sent a letter outlining Neuralink's alleged violations and relevant supporting evidence to the Department of Transportation—the U.
+
+
+***
+![Basic](https://miro.medium.com/max/1200/1*uhFiPJuTdsui7s8tOwvVFw.jpeg "Basic")
+
+
+[Basic](https://medium.com/illuminations-mirror/tk-tk-basic-how-to-debug-terraform-deployment-issues-tips-and-tricks-385a5f47ea94)
+
+
+> Photo by Sigmund on Unsplash ebugging Terraform deployment issues can be a time-consuming and frustrating process. However, with the right approach, you can quickly and effectively resolve these issues and get your deployment up and running smoothly. In this article, we will explore some tips and tricks for debugging which I often use for Terraform deployment issues. Whether you are a seasoned Terraform user or just starting out, these tips will help you troubleshoot your deployments and get them back on track.
+
+
+***
+![Joann, Singer joint venture reveals its first big product: Ditto](https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/Ditto_Joan_Singer_Home_Sewist_i.jpg "Joann, Singer joint venture reveals its first big product: Ditto")
+
+
+[Joann, Singer joint venture reveals its first big product: Ditto](https://www.crainscleveland.com/technology/joint-venture-joann-singer-unveils-first-product-ditto)
+
+
+> Ditto, the joint venture formed by Hudson-based fabric and craft retailer Joann Inc. (Nasdaq: JOAN) and consumer sewing brand Singer, is launching its first big product: a digital pattern projection system for home sewists. The companies said in a news release issued Thursday, Feb. 9, timed a day before the start of New York Fashion Week, that the system "combines algorithmic intelligence with digital projection to make patterns paperless, customizable and adaptable to specific body measurements — all in real time.
+
+
+***
+![‘Somebody I Used To Know' Review: Alison Brie and Jay Ellis Play Undecided Exes in Resonant Rom-Com](https://iknowallnews.com/wp-content/uploads/2019/11/cropped-ser7-32x32.gif "‘Somebody I Used To Know' Review: Alison Brie and Jay Ellis Play Undecided Exes in Resonant Rom-Com")
+
+
+[‘Somebody I Used To Know' Review: Alison Brie and Jay Ellis Play Undecided Exes in Resonant Rom-Com](https://iknowallnews.com/lifestyle/somebody-i-used-to-know-review-alison-brie-and-jay-ellis-play-undecided-exes-in-resonant-rom-com/)
+
+
+> Home » Lifestyle » ‘Somebody I Used To Know' Review: Alison Brie and Jay Ellis Play Undecided Exes in Resonant Rom-Com Although 'Somebody I Used To Know' takes some of its cues from 'My Best Friend's Wedding' and 'Young Adult,' director Dave Franco's feature blessedly doesn't overly rely on its cinematic predecessors. He and co-writer Alison Brie deliver the goods in their own hilarious, heartrending story about an emotionally stunted woman who returns home and attempts to wreck her former beau's current relationship.
+
+
+***
+![Telecoms – Africa Outlook Magazine](https://www.africaoutlookmag.com/media/2023/01/cropped-AFR-Site-Icon-1.png "Telecoms – Africa Outlook Magazine")
+
+
+[Telecoms – Africa Outlook Magazine](https://www.africaoutlookmag.com/category/technology/telecoms)
+
+
+> Search
+
+
+***
+![Yunex Traffic enters EV charging market in the US](https://www.traffictechnologytoday.com/wp-content/uploads/2023/02/AdobeStock_296741971.jpeg "Yunex Traffic enters EV charging market in the US")
+
+
+[Yunex Traffic enters EV charging market in the US](https://www.traffictechnologytoday.com/news/electric-vehicles-ev-infrastructure/yunex-traffic-enters-ev-charging-market-in-the-us.html)
+
+
+> Yunex Traffic has announced the installation of electric vehicle charging stations in Peachtree Corners, Georgia, a suburb of Atlanta, officially launching Yunex Traffic US into the electric vehicle charging infrastructure (EVCI) market in the US. Having carried out EVCI design, installation, and maintenance work across Europe for over a decade, Yunex Traffic brings a wealth of EVCI experience to the US. ') } else { console.log ('nompuad'); document.write('') } // --> ') } else if (width >= 425) { console.
+
+
+***
+![Android 14 will let you easily delete useless pre-installed apps](https://www.gizchina.com/wp-content/uploads/images/2023/02/android-14-2-1200x900.jpg "Android 14 will let you easily delete useless pre-installed apps")
+
+
+[Android 14 will let you easily delete useless pre-installed apps](https://www.gizchina.com/2023/02/09/android-14-will-let-you-easily-delete-useless-pre-installed-apps/)
+
+
+> Google has launched the first preview of Android 14. Offering a glimpse of what to expect in the upcoming update to its operating system. This preview is targeting developers. With the majority of the changes being at the API level and geared towards improving application development. Such as new permissions, behaviors, and security enhancements. However, significant new features have begun to emerge in the Android 14 Developer Preview 1 (DP1). One of the new features that are coming to Android 14 is native app cloning.
+
+
