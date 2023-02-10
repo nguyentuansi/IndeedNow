@@ -6355,3 +6355,972 @@
 > Last updated: February 10th, 2023 at 14:37 UTC+01:00 Alleged pricing details for the Galaxy A34 5G and the Galaxy A54 5G have surfaced. They don't seem very confident, but they may give us a general idea of Samsung's plans for commercializing its two mid-range Galaxy A phones in Europe. The Galaxy A34 5G will be available in two memory configurations, featuring 6GB or 8GB of RAM and 128GB or 256GB of storage. Meanwhile, Samsung appears to have upped the ante for the Galaxy A54 5G, giving it 8GB of RAM for both storage options, i.
 
 
+***
+![OPP says ‘situation safe' in Lanark/Sharbot Lake manhunt area](https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2022/08/ontario-provincial-police-w.jpg?quality=90&strip=all&w=288&h=216 "OPP says ‘situation safe' in Lanark/Sharbot Lake manhunt area")
+
+
+[OPP says ‘situation safe' in Lanark/Sharbot Lake manhunt area](https://newsakmi.com/../../world/canada-news/opp-says-situation-safe-in-lanark-sharbot-lake-manhunt-area)
+
+
+> Photo by Ashley Fraser / Postmedia Article content Ontario Provincial said in a brief message on social media that the situation is now 'safe' in the Lanark/Sharbot Lake area. Advertisement 2 This advertisement has not loaded yet, but your article continues below. REGISTER TO UNLOCK MORE ARTICLES Create an account or sign in to continue with your reading experience. Access articles from across Canada with one account Share your thoughts and join the conversation in the comments Enjoy additional articles per month Get email updates from your favourite authors Article content The region had been the scene of a manhunt for 'two armed suspects' through the morning.
+
+
+***
+![Covid-19 vaccines added to routine immunisation schedule in US](https://images.newscientist.com/wp-content/uploads/2023/02/10185315/SEI_143644637.jpg?width=300 "Covid-19 vaccines added to routine immunisation schedule in US")
+
+
+[Covid-19 vaccines added to routine immunisation schedule in US](https://newsakmi.com/../../science/covid-19-vaccines-added-to-routine-immunisation-schedule-in-us)
+
+
+> The US Centers for Disease Control and Prevention has updated its recommendations for routine immunisations in children and adults to include covid-19 vaccines Covid-19 vaccines are now part of the recommended immunisation schedules in the US Getty Images/E+ The US Centers for Disease Control and Prevention (CDC) has added covid-19 vaccines to its recommended immunisation schedules for children, adolescents and adults. Immunisation schedules summarise CDC recommendations on vaccines to help inform healthcare providers.
+
+
+***
+![‘It takes a lot of expertise': Banks use tech to serve pot businesses](https://arizent.brightspotcdn.com/a9/2a/0b0dd23747c5a2e6503dc588e689/delene-gilbert-oklahoma-state-bank-osb-crop.jpg "‘It takes a lot of expertise': Banks use tech to serve pot businesses")
+
+
+[‘It takes a lot of expertise': Banks use tech to serve pot businesses](https://newsakmi.com/news/finance/banking/it-takes-a-lot-of-expertise-banks-use-tech-to-serve-pot-businesses)
+
+
+> Oklahoma State Bank was inundated with applications when it debuted its cannabis banking program in early 2020. But this brought challenges as well as opportunities. When a traditional business opens a bank account, it must supply documents such as an operating agreement, employer identification number and articles of organization, but 'in cannabis banking, that's the very beginning,' said Delene Gilbert, director of cannabis banking at the Guthrie, Oklahoma bank. The $219.5 million-asset OSB has undergone three software conversions in its hunt for a comprehensive solution that can handle the load.
+
+
+***
+![The dark side of the sports betting boom](https://media.cnn.com/api/v1/images/stellar/prod/221104121651-draftkings-app-stock.jpg?c=16x9&q=w_800,c_fill "The dark side of the sports betting boom")
+
+
+[The dark side of the sports betting boom](https://newsakmi.com/news/usnews/the-dark-side-of-the-sports-betting-boom-cnn-business/)
+
+
+> New York CNN  —  The sports gambling gold rush is coming at a high cost. In 2018, the Supreme Court struck down a federal ban on commercial sports betting in most of the country. Thirty-three states have made sports gambling legal in the wake of the decision. Now, on Super Bowl Sunday, a record 50.4 million US adults are expected to bet on the game. The booming sports betting industry, lawmakers and even the professional sports leagues themselves are making it easier, faster and more tempting for people to bet on games — and develop gambling problems, say gambling researchers and addiction specialists.
+
+
+***
+![High-altitude object shot down over Alaska, US says](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1eH5Gc.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "High-altitude object shot down over Alaska, US says")
+
+
+[High-altitude object shot down over Alaska, US says](http://www.msn.com/en-us/news/technology/high-altitude-object-shot-down-over-alaska-us-says/ar-AA17leAW)
+
+
+> A "high-altitude object" has been shot down over Alaska in the past hour, the White House has said. Spokesman John Kirby said the object was "the size of a small car" and was over a sparsely populated area at the time. President Joe Biden took the decision to shoot down the object, Mr Kirby said. This breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version. You can receive Breaking News on a smartphone or tablet via the BBC News App.
+
+
+***
+![Corrie Justin star hints at danger for Daniel as he will 'go to any lengths'](https://iknowallnews.com/wp-content/uploads/2023/02/Corrie-Justin-star-hints-at-danger-for-Daniel-as-he-will-go-to-any-lengths.jpg "Corrie Justin star hints at danger for Daniel as he will 'go to any lengths'")
+
+
+[Corrie Justin star hints at danger for Daniel as he will 'go to any lengths'](https://iknowallnews.com/tv-movies/corrie-justin-star-hints-at-danger-for-daniel-as-he-will-go-to-any-lengths/)
+
+
+> Home » TV & Movies » Corrie Justin star hints at danger for Daniel as he will ‘go to any lengths' Coronation Street's Andrew Still has hinted that there could be danger ahead for the Weatherfield residents, as stalker Justin prepares to "go to any lengths" to be with Daisy Midgeley. Fans of the ITV soap recently saw Daisy reject Justin's advances when he turned up at a wedding fair, with the stalking storyline set to escalate as Justin continues to bombard her with online messages and phonecalls.
+
+
+***
+![Level up your content with Canon's newest EOS R System mirrorless camera](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-10-152833000.jpg "Level up your content with Canon's newest EOS R System mirrorless camera")
+
+
+[Level up your content with Canon's newest EOS R System mirrorless camera](http://www.businessghana.com/site/news/technology/279739/Level-up-your-content-with-Canon%E2%80%99s-newest-EOS-R-System-mirrorless-camera)
+
+
+> EOS R50 is a small and easy to use APS-C mirrorless camera designed with content creators in mind. Shoot with ease The EOS R50's lightweight design and comfortable grip means active content creators can take it anywhere. Compose a shot at any angle with the vari-angle touch screen – up high, down low or with the camera facing you for vlogging and selfies. The touch screen interface, electronic viewfinder and simplified layout of controls make the camera intuitive to use. Creative assist automatically offers the ideal settings for different scenes, while creative bracketing provides multiple looks for each image.
+
+
+***
+![Dockerize .NET Applications without Dockerfile!](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Dockerize .NET Applications without Dockerfile!")
+
+
+[Dockerize .NET Applications without Dockerfile!](https://www.reddit.com/r/programming/comments/10z1dpx/dockerize_net_applications_without_dockerfile)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![3D platformer 'Rise of the Fox Hero' comes to Switch Feb. 17th, 2023](https://gonintendo.com/attachments/image/23051/file/medium-c0bfa43b0465ac3f09044ef693f7cb05.jpg "3D platformer 'Rise of the Fox Hero' comes to Switch Feb. 17th, 2023")
+
+
+[3D platformer 'Rise of the Fox Hero' comes to Switch Feb. 17th, 2023](https://gonintendo.com/contents/16105-3d-platformer-rise-of-the-fox-hero-comes-to-switch-feb-17th-2023)
+
+
+> 2Awesome Studio (2AS) announces that pre-orders for Rise of Fox Hero are now open, and the game is releasing on February 17th, 2023 for Switch. Rise of Fox Hero is a colorful 3D platformer with fun combat and puzzle elements. Armed with a sword and a shield, jump and fight your way through beautiful and colorful levels. Explore colorful and beautiful environments and find all the collectibles while battling tons of different enemies. But beware, by the end of each chapter, an epic boss fight awaits! In Rise of Fox Hero, perspective is key — so make use of the rotatable camera and look in every angle to find your way through obstacles, or even hidden secrets.
+
+
+***
+![Digerati Indie Darling Bundle Vol.5 out now for Switch](https://gonintendo.com/attachments/image/23050/file/medium-66b15cd2cf1798ce768a079423303cd9.jpg "Digerati Indie Darling Bundle Vol.5 out now for Switch")
+
+
+[Digerati Indie Darling Bundle Vol.5 out now for Switch](https://gonintendo.com/contents/16104-digerati-indie-darling-bundle-vol-5-out-now-for-switch)
+
+
+> Digerati is delighted to share the news that it has released a new games bundle for Switch. Digerati Indie Darling Bundle Vol.5 includes Super Blood Hockey, The Procession To Calvary, Snakeybus, and Glass Masquerade 2. The bundle is priced €/$47.99 and is available to download now from the Nintendo eShop with a 20% launch discount for a limited time. Super Blood Hockey (developed by Loren Lemcke): Arcade sports gaming gets a shot of adrenaline in Super Blood Hockey, a violent homage to classic 8- and 16-bit ice hockey games.
+
+
+***
+![BREAKING NEWS: Biden going to Poland](https://iknowallnews.com/wp-content/uploads/2023/02/BREAKING-NEWS-Biden-going-to-Poland.jpg "BREAKING NEWS: Biden going to Poland")
+
+
+[BREAKING NEWS: Biden going to Poland](https://iknowallnews.com/world-news/breaking-news-biden-going-to-poland/)
+
+
+> President Joe Biden will head to Poland on February 20, White House says He will deliver a speech marking the anniversary of Russia's invasion of Poland  The White House announced on Friday that he will travel to Poland later this month to mark the one year anniversary of Russia's invasion of Ukraine.  But officials deflected questions about whether that would include a visit to Ukraine itself.  Press Secretary Karine Jean-Pierre said his trip would be from February 20 to 22. ‘In addition, President Biden will deliver remarks ahead of the one year anniversary of Russia's brutal and unprovoked invasion of Ukraine, addressing how the United States has rallied the world to support the people of Ukraine as they defend their freedom and democracy,' she said, ‘and how we will continue to stand with the people of Ukraine for as long as it takes with that.
+
+
+***
+![FCC greenlights Project Kuiper after setting orbital debris requirements](https://qtxasset.com/quartz/qcloud4/media/image/Screen%20Shot%202023-02-10%20at%2011.17.56%20AM.png?VersionId=VVL7MJ0F514yPF8DUV4agyCCXKHYalGo "FCC greenlights Project Kuiper after setting orbital debris requirements")
+
+
+[FCC greenlights Project Kuiper after setting orbital debris requirements](https://www.fiercewireless.com/tech/fcc-greenlights-project-kuiper-after-setting-orbital-debris-requirements)
+
+
+> What are you searching for? Enclose phrases in quotes. Use a + to require a term in results and - to exclude terms. Example: +water -Europe
+
+
+***
+![5G Americas champions ‘light touch' on receiver standards regulation](https://qtxasset.com/quartz/qcloud4/media/image/Screen%20Shot%202023-02-10%20at%209.11.52%20AM.png?VersionId=9xHs1N9GGduW_UYV1gDQjsqW7oIr6KZf "5G Americas champions ‘light touch' on receiver standards regulation")
+
+
+[5G Americas champions ‘light touch' on receiver standards regulation](https://www.fiercewireless.com/tech/5g-americas-champions-light-touch-receiver-standards-regulation)
+
+
+> What are you searching for? Enclose phrases in quotes. Use a + to require a term in results and - to exclude terms. Example: +water -Europe
+
+
+***
+![Yvette Nicole Brown, Page Kennedy & Cameron Fuller Board ‘Code 3' From Wayfarer Studios](https://iknowallnews.com/wp-content/uploads/2019/11/cropped-ser7-32x32.gif "Yvette Nicole Brown, Page Kennedy & Cameron Fuller Board ‘Code 3' From Wayfarer Studios")
+
+
+[Yvette Nicole Brown, Page Kennedy & Cameron Fuller Board ‘Code 3' From Wayfarer Studios](https://iknowallnews.com/tv-movies/yvette-nicole-brown-page-kennedy-cameron-fuller-board-code-3-from-wayfarer-studios)
+
+
+> EXCLUSIVE: Yvette Nicole Brown (Disenchanted), Page Kennedy (The Upshaws), and Cameron Fuller (Zatima) have joined the cast of buddy action-comedy Code 3 opposite Rainn Wilson, Lil Rel Howery, and Aimee Carrero. Production is currently underway. Brown plays Shanice, an experienced EMS supervisor who is always in control—well, most of the time. She knows Randy (Wilson), someone with who she has a colorful past. Shanice knows he's burnt out and jaded, but she also knows he's the best paramedic they've got, and she respects him for it.
+
+
+***
+![A Sustainable King! Charles Reveals Hole in Sock During Mosque Visit: Pic](https://iknowallnews.com/wp-content/uploads/2023/02/A-Sustainable-King-Charles-Reveals-Hole-in-Sock-During-Mosque-Visit-Pic.jpg "A Sustainable King! Charles Reveals Hole in Sock During Mosque Visit: Pic")
+
+
+[A Sustainable King! Charles Reveals Hole in Sock During Mosque Visit: Pic](https://iknowallnews.com/lifestyle/a-sustainable-king-charles-reveals-hole-in-sock-during-mosque-visit-pic/)
+
+
+> Home » Lifestyle » A Sustainable King! Charles Reveals Hole in Sock During Mosque Visit: Pic A different kind of holy. King Charles III and wife Queen Consort Camilla visited a mosque in London, but all eyes — and cameras — were on the hole in the monarch's sock. Prince Harry's Most Illuminating Quotes About King Charles Relationship Upon arriving at the mosque on Wednesday, February 8, the king, 74 — wearing a long overcoat over a dress shirt and midnight blue pants — took off his shoes, as is custom in the house of worship, revealing a small hole on the top of his right black sock.
+
+
+***
+![Tech students to help future fliers at Young Aviators Day](https://www.latech.edu/wp-content/uploads/2019/09/hale-hall-homepage.jpg "Tech students to help future fliers at Young Aviators Day")
+
+
+[Tech students to help future fliers at Young Aviators Day](https://www.latech.edu/2023/02/10/tech-students-to-help-future-fliers-at-young-aviators-day/)
+
+
+> Dozens of Louisiana Tech students majoring in either Professional Aviation or Aviation Management have volunteered to help with Young Aviators Day, both a fundraiser and a community outreach event designed to introduce students ranging from elementary to high school to the world of aviation. The event will be from 10 a.m. to 4 p.m. Saturday at Chennault Military and Aviation Museum in Monroe. It is presented by Women in Aviation International (WAI) and Alpha Eta Rho (AHP), a college co-ed fraternity not associated with Greek Life and open to anyone interested in aviation; to join the chapter specific to Tech, Lambda Tau, you need only to be an aviation-interested Tech student.
+
+
+***
+![GhiHorn: Path Analysis in Ghidra Using SMT Solvers](https://external-preview.redd.it/RoAnI1Roqky0TPd89-rkdfmq48ZSKWRVSLDOx80m73Q.jpg?auto=webp&v=enabled&s=b457a9b22d97f2b880ce3e7264513fdd578d97f4 "GhiHorn: Path Analysis in Ghidra Using SMT Solvers")
+
+
+[GhiHorn: Path Analysis in Ghidra Using SMT Solvers](https://www.reddit.com/r/programming/comments/10z0lpp/ghihorn_path_analysis_in_ghidra_using_smt_solvers)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Elon Musk's Neuralink probed over material shipments](https://scx2.b-cdn.net/gfx/news/hires/2023/elon-musks-neuralink-p.jpg "Elon Musk's Neuralink probed over material shipments")
+
+
+[Elon Musk's Neuralink probed over material shipments](https://techxplore.com/news/2023-02-elon-musk-neuralink-probed-material.html)
+
+
+> Elon Musk departs the Phillip Burton Federal Building and United States Court House in San Francisco, on Tuesday, Jan. 24, 2023. A unit of the U.S. Department of Transportation is conducting an investigation of Neuralink, a brain implant company started by Musk, following claims by an animal rights group that it received information that suggests the company didn't follow proper procedure when shipping potentially hazardous materials, Friday, Feb. 10. Credit: AP Photo/ Benjamin Fanjoy, File Elon Musk's brain-implant company Neuralink is being probed over its shipping methods after an animal rights group contacted the U.
+
+
+***
+![Nimble autonomous robots help researchers explore the ocean, no ship required](https://scx2.b-cdn.net/gfx/news/2023/nimble-autonomous-robo.jpg "Nimble autonomous robots help researchers explore the ocean, no ship required")
+
+
+[Nimble autonomous robots help researchers explore the ocean, no ship required](https://techxplore.com/news/2023-02-nimble-autonomous-robots-explore-ocean.html)
+
+
+> Mechanical engineer Brett Hobson—principal investigator and project manager for MBARI's Long-Range AUV team—inspects a Tethys-class LRAUV before launch from the beach adjacent to MBARI's research facilities. Credit: Tom O'Reilly © 2022 MBARI The ocean covers more than 70% of the planet's surface and its expansive depths represent the largest living space on Earth. To understand the massive marine environment, scientists need research tools that can travel far and wide. Research vessels provide a critical platform for exploring the ocean.
+
+
+***
+![MrBeast's blindness video puts systemic ableism on display](https://techcrunch.com/wp-content/uploads/2023/02/alexander-shatov-niUkImZcSP8-unsplash.jpg?resize=1200,900 "MrBeast's blindness video puts systemic ableism on display")
+
+
+[MrBeast's blindness video puts systemic ableism on display](https://techcrunch.com/2023/02/10/mrbeasts-blindness-video-puts-systemic-ableism-on-display/)
+
+
+> Recently, megastar creator MrBeast posted a video to his YouTube in which he spotlights numerous blind and visually impaired people who have undergone a surgical procedure that 'cures' their blindness. As of this writing, the video has been viewed more than 76 million times, and the responses have been visceral in both praise and contempt. For his part, MrBeast has taken to Twitter to publicly bemoan the fact that so many are so angry at him for putting on what amounts to a publicity stunt under the guise of selfless charity.
+
+
+***
+![Quantum tunneling to boost memory consolidation in AI](https://scx2.b-cdn.net/gfx/news/2023/quantum-tunneling-to-b.jpg "Quantum tunneling to boost memory consolidation in AI")
+
+
+[Quantum tunneling to boost memory consolidation in AI](https://techxplore.com/news/2023-02-quantum-tunneling-boost-memory-ai.html)
+
+
+> On-device memory consolidation using FN-synapses. Credit: Frontiers in Neuroscience (2023). DOI: 10.3389/fnins.2022.1050585 Artificial intelligence and machine learning have made tremendous progress in the past few years including the recent launch of ChatGPT and art generators, but one thing that is still outstanding is an energy-efficient way to generate and store long- and short-term memories at a form factor that is comparable to a human brain. A team of researchers in the McKelvey School of Engineering at Washington University in St.
+
+
+***
+![XML turns 25 today!](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "XML turns 25 today!")
+
+
+[XML turns 25 today!](https://www.reddit.com/r/programming/comments/10z08jn/xml_turns_25_today)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Jenna Ortega ‘Hysterically' Cried Over Rigorous ‘Wednesday' Filming Schedule: ‘I Did Not Get Any Sleep. I Pulled My Hair Out'](https://iknowallnews.com/wp-content/uploads/2019/11/cropped-ser7-32x32.gif "Jenna Ortega ‘Hysterically' Cried Over Rigorous ‘Wednesday' Filming Schedule: ‘I Did Not Get Any Sleep. I Pulled My Hair Out'")
+
+
+[Jenna Ortega ‘Hysterically' Cried Over Rigorous ‘Wednesday' Filming Schedule: ‘I Did Not Get Any Sleep. I Pulled My Hair Out'](https://iknowallnews.com/lifestyle/jenna-ortega-hysterically-cried-over-rigorous-wednesday-filming-schedule-i-did-not-get-any-sleep-i-pulled-my-hair-out/)
+
+
+> Home » Lifestyle » Jenna Ortega ‘Hysterically' Cried Over Rigorous ‘Wednesday' Filming Schedule: ‘I Did Not Get Any Sleep. I Pulled My Hair Out' Jenna Ortega had a lot to learn in order to portray 'Wednesday' in the hit Netflix series of the same name, from fencing to speaking German to canoeing and playing the cello. Speaking at a Netflix-hosted Q&A panel in Hollywood on Thursday, the SAG-nominated actor broke down just how intense the filming schedule was. 'It was show up to set two hours early, do that 12-14 hour day, then go home and then get on a Zoom and have whatever lesson that I had.
+
+
+***
+[POSaBIT Announces Sarah Mirsky-Terranova as Chief Compliance Officer](http://www.businesswire.com/news/home/20230210005086/en/POSaBIT-Announces-Sarah-Mirsky-Terranova-as-Chief-Compliance-Officer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> KIRKLAND, Wash.--(BUSINESS WIRE)--POSaBIT Systems Corporation (CSE: PBIT, OTC: POSAF), the leading provider of payments infrastructure in the cannabis industry, is proud to name Sarah Mirsky-Terranova, Esq., as the company's Chief Compliance Officer. 'Sarah's depth of experience and industry knowledge provides our company with a tremendous opportunity to build upon our already intense focus on compliance,' said Ryan Hamlin, Co-Founder/CEO of POSaBIT. 'We are beyond excited to welcome Sarah and
+
+
+***
+![CPU Sales Plummet to 30-Year Low in Q4 2022](https://www.extremetech.com/wp-content/uploads/2021/07/CPU-MSI-PCMag-640x353.jpg "CPU Sales Plummet to 30-Year Low in Q4 2022")
+
+
+[CPU Sales Plummet to 30-Year Low in Q4 2022](https://www.extremetech.com/computing/343019-cpu-sales-plummet-to-30-year-low-in-q4-2022)
+
+
+> (Photo: John Burek) If you're an executive at Intel or AMD and in charge of sales forecasts, you likely projected some big numbers for the end of 2022. Both companies had unveiled their new platforms, promising next-gen performance and features. Since many people could not upgrade their PCs during the pandemic, all the ingredients of a booming holiday sales period were present. Added to the mixture were all-new, high-powered GPUs as well. Overall, it seemed like the perfect time to build or buy a new PC.
+
+
+***
+[ADTRAN Holdings, Inc. to Meet with Investors at the Loop Capital Virtual Roadshow on February 23, 2023](http://www.businesswire.com/news/home/20230210005256/en/ADTRAN-Holdings-Inc.-to-Meet-with-Investors-at-the-Loop-Capital-Virtual-Roadshow-on-February-23-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HUNTSVILLE, Ala.--(BUSINESS WIRE)-- #Adtran--ADTRAN Holdings, Inc. (NASDAQ: ADTN; FSE: QH9), announced today that Company representatives will meet with investors at the Loop Capital Virtual Roadshow on February 23, 2023. ADTRAN representatives will discuss company performance and current industry trends that may affect the market and ADTRAN's business. What: Loop Captial Roadshow When: February 23, 2023 Where: Virtual Conference Representatives: Mike Foliano, CFO; Uli Dopfer, Head of Accounting
+
+
+***
+![5 signs you're being ‘breadcrumbed', and what to do about it](https://www.stylist.co.uk/images/app/uploads/2022/02/26122900/gettyimages-1175978726.jpg "5 signs you're being ‘breadcrumbed', and what to do about it")
+
+
+[5 signs you're being ‘breadcrumbed', and what to do about it](https://iknowallnews.com/lifestyle/5-signs-youre-being-breadcrumbed-and-what-to-do-about-it/)
+
+
+> Written by Amy Beecham ‘Breadcrumbing' is a subtle manipulation technique used to create a one-sided relationship. Here's how to spot it. There are few things worse than feeling disappointed. The big opportunity you were made to get excited about suddenly evaporates, or the new relationship you thought was really gaining traction vanishes into thin air. If these scenarios sound familiar to you, it's likely you've been ‘breadcrumbed'. Hansel and Gretel associations aside, put simply, ‘breadcrumbing' involves leading someone on, and keeping their hopes up through small and superficial acts of interest.
+
+
+***
+![Two years after its historic deep freeze, Texas is increasingly vulnerable to cold snaps](https://scx2.b-cdn.net/gfx/news/2023/two-years-after-its-hi.jpg "Two years after its historic deep freeze, Texas is increasingly vulnerable to cold snaps")
+
+
+[Two years after its historic deep freeze, Texas is increasingly vulnerable to cold snaps](https://techxplore.com/news/2023-02-years-historic-deep-texas-vulnerable.html)
+
+
+> by Michael E. Webber, Drew Kassel, Joshua D. Rhodes and Matthew Skiles, The Conversation Credit: Chart: The Conversation, CC BY-ND Source: ERCOT Texans like to think of their state as the energy capital of the world . But in mid-February 2021, the energy state ran short of energy. An intense winter weather outbreak , informally dubbed Winter Storm Uri by the Weather Channel, swept across the U.S., bringing snow, sleet, freezing rain and frigid temperatures. Texas was hit especially hard, with all 254 counties under a winter storm warning at the same time.
+
+
+***
+![Shareholders Sue Shell, Saying It's Too Obsessed With Fossil Fuels](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/06e13bb55187573dc6ff759966a697c0.jpg "Shareholders Sue Shell, Saying It's Too Obsessed With Fossil Fuels")
+
+
+[Shareholders Sue Shell, Saying It's Too Obsessed With Fossil Fuels](https://gizmodo.com/shell-sued-failing-to-prepare-for-climate-change-1850098944)
+
+
+> U.K.-based environmental law firm ClientEarth is suing Shell's 11-member board, saying they are failing to properly manage the business risks associated with climate change. The lawsuit, filed in England's high court, claims that the company's current climate strategy is inadequate, which puts Shell at a financial risk as the world works to move away from fossil fuels, The Guardian reported . ClientEarth is a minor shareholder in Shell and is suing under the UK Companies Act, which imposes a legal duty on a company's board of directors to ensure the firm is successful, Reuters explained .
+
+
+***
+![Sensors built into wearable patches could signal the future](https://scx2.b-cdn.net/gfx/news/2023/sensors-built-into-wea.jpg "Sensors built into wearable patches could signal the future")
+
+
+[Sensors built into wearable patches could signal the future](https://techxplore.com/news/2023-02-sensors-built-wearable-patches-future.html)
+
+
+> A graphic showing the principles of sensing and communication, acoustic ranging (identifying the distance), and positioning (finding locations) using the flexible acoustic wave device. Credit: Northumbria University New research involving a Northumbria University Professor has developed a wearable sensor capable of wirelessly transmitting information via acoustic waves through air and water. With enough flexibility to be fitted into a wearable patch, Professor Richard Fu and his research partners—led by Professor Jin Xie at Zhejiang University in China—believe the flexible acoustic wave device could have multiple uses in health care and the water industry.
+
+
+***
+![Hayley Williams subtly addresses Taylor York romance at Super Bowl 2023 show](https://iknowallnews.com/wp-content/uploads/2023/02/Hayley-Williams-subtly-addresses-Taylor-York-romance-at-Super-Bowl-2023-show.jpg "Hayley Williams subtly addresses Taylor York romance at Super Bowl 2023 show")
+
+
+[Hayley Williams subtly addresses Taylor York romance at Super Bowl 2023 show](https://iknowallnews.com/lifestyle/hayley-williams-subtly-addresses-taylor-york-romance-at-super-bowl-2023-show/)
+
+
+> Home » Lifestyle » Hayley Williams subtly addresses Taylor York romance at Super Bowl 2023 show That's what you get when you let your heart win. Paramore's frontwoman, Hayley Williams, gave a subtle nod to her relationship with boyfriend Taylor York during Bud Light's Super Bowl Music Fest on Thursday night in Phoenix, Ariz. While performing her hit song 'That's What You Get,' Williams introduced York, the band's guitarist, but didn't give anyone else a shout-out until later on in the show. The lyrics, which include the repeated line, 'That's what you get when you let your heart win,' is about thinking with your heart instead of your head.
+
+
+***
+[Alliance Entertainment Completes Business Combination with Adara Acquisition Corp.](http://www.businesswire.com/news/home/20230210005305/en/Alliance-Entertainment-Completes-Business-Combination-with-Adara-Acquisition-Corp./?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CHARLOTTE, N.C. & SUNRISE, Fla.--(BUSINESS WIRE)--Alliance Entertainment Completes Business Combination with Adara Acquisition Corp.
+
+
+***
+![TikTok acted to quell misinformation on Ukraine](https://cdn.techhq.com/wp-content/uploads/2023/02/shutterstock_17932056401.jpg "TikTok acted to quell misinformation on Ukraine")
+
+
+[TikTok acted to quell misinformation on Ukraine](https://techhq.com/2023/02/tiktok-acted-to-quell-misinformation-on-ukraine/)
+
+
+> The US government has a real issue with TikTok. On the surface, that could be attributed to the increasingly Sinophobic stance of US economic policy (with its ever more hardline Anti-Chinese attempts to 'rebalance' the semiconductor supply chain), but representatives from both major parties see the social media platform as a threat to US national security, and in December, 2022, it was banned from all government-issue smartphones . 'Ban TikTok!' demands FCC Commissioner On the surface then, news that in the summer of 2022, 1,704 TikTok accounts were used as part of a pro-Russian network to spread misinformation, disinformation and anti-Ukraine sentiment as a way to influence the way people viewed the illegal Russian invasion of that country, supports the idea that the US government is right to regard TikTok as a potential threat.
+
+
+***
+![Lectric Launches The XP Trike Electric Cargo Trike For $1,499](https://cdn.motor1.com/images/mgl/KbmEq1/s1/lectric-launches-the-xp-trike-electric-cargo-trike-for-1-499.jpg "Lectric Launches The XP Trike Electric Cargo Trike For $1,499")
+
+
+[Lectric Launches The XP Trike Electric Cargo Trike For $1,499](https://insideevs.com/news/651635/lectric-xp-trike-launch-usa/)
+
+
+> Lectric always manages to impress with its extremely practical and functional two-wheelers and its incredibly attractive pricing. In January, 2023, the brand made it clear that it had intentions of expanding its user base by opening doors to riders with all sorts of needs. With this,the Lectric XP Trike was born, a rugged, go-anywhere electric three-wheeler.  Back then, Lectric CEO Levi Conlow teased a prototype of the Trike on Facebook, with one of the most striking details being a targetted price of just $1,499 USD.
+
+
+***
+![Computer scientist discusses the pros and cons of ChatGPT](https://scx2.b-cdn.net/gfx/news/hires/2023/ai-chatbot.jpg "Computer scientist discusses the pros and cons of ChatGPT")
+
+
+[Computer scientist discusses the pros and cons of ChatGPT](https://techxplore.com/news/2023-02-scientist-discusses-pros-cons-chatgpt.html)
+
+
+> Credit: Pixabay/CC0 Public Domain With its uncanny ability to mimic human language and reasoning, ChatGPT seems to herald a revolution in artificial intelligence. The nimble chatbot can conjure poems and essays, share recipes, translate languages, dispense advice, and tell jokes, among the endless applications users have tested since the Silicon Valley research lab OpenAI released the natural language-processing tool in November. With the excitement comes some trepidation—that the technology could degrade authentic human writing and critical thinking, upend industries, and amplify our own prejudices and biases.
+
+
+***
+![Google is losing control](https://techcrunch.com/wp-content/uploads/2020/09/google-glitch1.jpg?resize=1200,674 "Google is losing control")
+
+
+[Google is losing control](https://techcrunch.com/2023/02/10/google-is-losing-control/)
+
+
+> Google is flailing. After years of singleminded worship of the false god Virtual Assistant, the company is rushing its AI strategy as its competitors join their hands and raise their pitchforks. The irony is it's all happening because Google thought it had the pitchfork market cornered. See, in 2017, Google researchers published the article 'Attention is all you need,' introducing the concept of the transformer and vastly improving the capabilities of machine learning models. You don't need to know the technical side of it (and indeed I am not the one to teach you), but it has been enormously influential and empowering; let it suffice to say that it's the T in GPT.
+
+
+***
+![Netflix's Biggest Hit Movies and Shows, Ranked (From 'You' to 'You People')](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17lal4.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Netflix's Biggest Hit Movies and Shows, Ranked (From 'You' to 'You People')")
+
+
+[Netflix's Biggest Hit Movies and Shows, Ranked (From 'You' to 'You People')](http://www.msn.com/en-us/news/technology/netflix-s-biggest-hit-movies-and-shows-ranked-from-you-to-you-people/ar-AAOT0qO)
+
+
+> Netflix, for years, was notoriously tight-lipped about its viewership. But after a few years of dropping stats for some of its programming, Netflix launched a website in mid-November posting charts of its most popular shows and movies from the past week, as well as a global ranking of its all-time most watched titles. Load Error The charts, which are updated every week and ranked by the total number of hours that subscribers spent watching them, represent an unprecedented trove of data about what's popular on Netflix.
+
+
+***
+![Africa investor survey, biz model basics, video marketing tactics](https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1454144308.jpg?resize=1200,801 "Africa investor survey, biz model basics, video marketing tactics")
+
+
+[Africa investor survey, biz model basics, video marketing tactics](https://techcrunch.com/2023/02/10/techcrunch-roundup-africa-investor-survey-biz-model-basics-video-marketing-tactics/)
+
+
+> Walter Thompson @yourprotagonist / 8 hours If your marketing plan doesn't include TikTok, YouTube Shorts, or Instagram Reels, well, can you really call it a marketing plan? Video content is vital for driving early engagement, which is why growth expert Jonathan Martinez (formerly of Postmates, Uber and Chime) shares four tactics for getting started: Leverage creator marketplaces Produce short-form videos Build lasting creator relationships Cross-pollinate your videos Full TechCrunch+ articles are only available to members Use discount code TCPLUSROUNDUP to save 20% off a one- or two-year subscription 'If you're entering 2023 without a video content plan for your startup , you will be missing out on a significant resource for creating brand awareness and reaching more consumers,' writes Martinez.
+
+
+***
+![After layoffs, ex-Amazon workers wonder about 'Earth's Best Employer'](https://scx2.b-cdn.net/gfx/news/hires/2022/amazon-3.jpg "After layoffs, ex-Amazon workers wonder about 'Earth's Best Employer'")
+
+
+[After layoffs, ex-Amazon workers wonder about 'Earth's Best Employer'](https://techxplore.com/news/2023-02-layoffs-ex-amazon-workers-earth-employer.html)
+
+
+> Credit: Pixabay/CC0 Public Domain When their phone pinged with a meeting reminder in January, one former Amazon employee was confused. The company had let them go four days earlier—yet they were still getting invitations to new meetings. It didn't seem like word had spread about who had been part of a wave of layoffs that included 18,000 workers companywide and 2,300 in the Puget Sound region of Washington—and whose jobs had been saved. The former employee , who asked to remain anonymous to protect future job prospects, wasn't going to be the one to tell their old colleagues.
+
+
+***
+![Christopher Chedeau and Dan Abramov are at the new React Documentary!!!](https://external-preview.redd.it/i2GWeuZEfvlmIF_Pag_6_L5q9W4j4Q--_PAgaePHJ8s.jpg?auto=webp&v=enabled&s=a94076ec20e0a5b72e1007c7608533bc427dd6c2 "Christopher Chedeau and Dan Abramov are at the new React Documentary!!!")
+
+
+[Christopher Chedeau and Dan Abramov are at the new React Documentary!!!](https://www.reddit.com/r/programming/comments/10yyrb3/christopher_chedeau_and_dan_abramov_are_at_the)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Why Even New Buildings Collapsed During the Turkey Earthquakes](https://hips.hearstapps.com/hmg-prod/images/man-walks-across-the-rubble-of-collapsed-building-towards-a-news-photo-1676048155.jpg?crop=1xw:0.74991xh;center,top&resize=1200:* "Why Even New Buildings Collapsed During the Turkey Earthquakes")
+
+
+[Why Even New Buildings Collapsed During the Turkey Earthquakes](https://www.popularmechanics.com/technology/infrastructure/a42827498/turkey-earthquake-building-collapses/)
+
+
+> The devastating February 2023 earthquakes in Turkey and Syria saw an untold number of buildings collapse —even modern structures. Experts say the shallow intensity of the two earthquakes was more than older buildings would be able to withstand. There's a question about the quality of building materials and building code adherence in modern construction. Devastating earthquakes in Turkey and Syria this month killed tens of thousands of people. Many were crushed in or by falling buildings, some taller than 20 stories.
+
+
+***
+![The Mars Curiosity Rover Finds Evidence of Ancient Water in a Surprising Spot](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17l6iw.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "The Mars Curiosity Rover Finds Evidence of Ancient Water in a Surprising Spot")
+
+
+[The Mars Curiosity Rover Finds Evidence of Ancient Water in a Surprising Spot](http://www.msn.com/en-us/news/technology/the-mars-curiosity-rover-finds-evidence-of-ancient-water-in-a-surprising-spot/ar-AA17l4gw)
+
+
+> There's a very good reason NASA planners chose Mars's Gale Crater as the landing site for the Curiosity Rover when it touched down on the Red Planet in the summer of 2012. Gale Crater was once Gale Lake, a brimming body of water that could have given rise to microbial life in the first billion years of Martian history, before the planet lost most of its atmosphere and water to space. If you want to find clues to exobiology, a place like Gale is where to start looking. Now, as NASA reports, Gale Crater is proving itself to be an even more fertile spelunking spot than once believed.
+
+
+***
+![Technology and Training Are Key to Productivity and Business Value, ISG Says](https://mms.businesswire.com/media/20230210005261/en/1016900/21/ISG_%28R%29_Logo.jpg "Technology and Training Are Key to Productivity and Business Value, ISG Says")
+
+
+[Technology and Training Are Key to Productivity and Business Value, ISG Says](https://www.01net.it/technology-and-training-are-key-to-productivity-and-business-value-isg-says/)
+
+
+> ISG Future Workplace Summit to feature leaders from Meta, Prudential, Regeneron, Travelers, American Eagle, Pinterest and more discussing shifting workplace paradigms STAMFORD, Conn.–(BUSINESS WIRE)– $III #AdaptiveOrganizations –Employers looking to enhance productivity and add business value need to invest concurrently in both workplace technology and workforce training, say experts with Information Services Group ( ISG ) (Nasdaq: III ), a leading global technology research and advisory firm.
+
+
+***
+![You helped me get my husband's drinking under control](https://iknowallnews.com/wp-content/uploads/2023/02/You-helped-me-get-my-husbandx27s-drinking-under-control-The-Sun.jpg "You helped me get my husband's drinking under control")
+
+
+[You helped me get my husband's drinking under control](https://iknowallnews.com/lifestyle/you-helped-me-get-my-husbands-drinking-under-control-the-sun/)
+
+
+> Home » Lifestyle » You helped me get my husband's drinking under control | The Sun DEAR DEIDRE: WHEN my husband's drinking started getting out of control, I wrote to you for help. My father was an abusive drunk and I was terrified that history was going to repeat it itself. I'm 42 and my husband is 45. After one too many, he changes from a kind, loving man into someone who snaps and shouts, just like my dad. My father would scream and swear at my mum when I was a little girl. I told my husband I hated the way he was talking to me, and he didn't even apologise.
+
+
+***
+![From plugs to thermostats: 12 useful smart home gadgets to gift this Valentine's Day](https://www.zdnet.com/a/img/resize/9c4002c9d27df8230e20ad441a62ab1156ebf23f/2023/01/18/116c60b6-fc54-4509-b032-ada3644dbddb/zdgg-2023-home.jpg?auto=webp&fit=crop&height=675&width=1200 "From plugs to thermostats: 12 useful smart home gadgets to gift this Valentine's Day")
+
+
+[From plugs to thermostats: 12 useful smart home gadgets to gift this Valentine's Day](https://www.zdnet.com/home-and-office/smart-home/smart-home-gifts/#ftag=RSSbaffb68)
+
+
+> More Details Price: $250 Tech specs: Built-in air quality monitor | 4.09 x 2.9 x 4.09 inches | Bonus Ecobee SmartSensor included | Compatible with Amazon Alexa, Apple HomeKit, & Google Home I'm not sure how it was in your house, but when I was growing up way back in the day, the single window A/C unit we had was only used on special occasions: Christmas, birthdays, or if one of us kids was sick. Granted, I grew up in a third-world country, but those memories have made me greatly appreciate my current HVAC system.
+
+
+***
+![Society Needs Hacking](https://compote.slate.com/images/92455a72-32ad-47d6-b256-7a598a1cbf56.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560 "Society Needs Hacking")
+
+
+[Society Needs Hacking](https://slate.com/technology/2023/02/hackers-mind-everything-is-hackable.html)
+
+
+> Every year, an army of hackers takes aim at the tax code. The tax code is not computer code, but it is a series of rules—supposedly deterministic algorithms—that take data about your income and determine the amount of money you owe. This code has vulnerabilities, more commonly known as loopholes. It has exploits; those are tax avoidance strategies. There is an entire industry of black-hat hackers who exploit vulnerabilities in the tax code: We call them accountants and tax attorneys. Hacking isn't limited to computer systems, or even technology.
+
+
+***
+![GeForce Experience](https://static.techspot.com/images2/downloads/topdownload/2014/06/nVidia.png "GeForce Experience")
+
+
+[GeForce Experience](https://www.techspot.com/downloads/5752-geforce-experience.html)
+
+
+> Want to know the best settings to play your games? GeForce Experience will figure it out for you. GeForce Experience connects you to Nvidia's cloud datacenter to download optimal game settings tailored to your PC based on your CPU, GPU and monitor. Optimal settings maximize image quality while maintaining great performance so you get the best experience. A built-in interactive screenshot viewer helps you learn more about each setting and their benefits. Keep Drivers Up To Date The GeForce Experience application automatically notifies you of new driver releases from Nvidia.
+
+
+***
+![What is AI and Should You Fear It?](https://www.netnewsledger.com/wp-content/uploads/2022/01/computer-Windows.jpg "What is AI and Should You Fear It?")
+
+
+[What is AI and Should You Fear It?](https://www.netnewsledger.com/2023/02/10/what-is-ai-and-should-you-fear-it/)
+
+
+> AI (Artificial Intelligence) is a branch of computer science that deals with the development of intelligent machines and systems capable of simulating human behavior and performing tasks that typically require human intelligence. AI systems are based on algorithms, and data structures allowing computers to learn, reason, and solve problems. AI is used in various industries, such as healthcare, finance, e-commerce, and robotics. AI can be used to automate processes, make predictions, and provide recommendations.
+
+
+***
+![Teach Yourself Programming in Ten Years](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Teach Yourself Programming in Ten Years")
+
+
+[Teach Yourself Programming in Ten Years](https://www.reddit.com/r/programming/comments/10yydr6/teach_yourself_programming_in_ten_years)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![MacBook Pro M2 Pro/M2 Max buying guide: how to configure](https://www.digitaltrends.com/wp-content/uploads/2023/02/IMG_3460-Edited.jpeg?resize=1200%2C630&p=1 "MacBook Pro M2 Pro/M2 Max buying guide: how to configure")
+
+
+[MacBook Pro M2 Pro/M2 Max buying guide: how to configure](https://www.digitaltrends.com/computing/macbook-pro-m2-pro-m2-max-buying-guide/)
+
+
+> Apple's MacBook Pro has emerged as among the best laptops you can buy in the 14-inch laptop and 16-inch laptop spaces. The newest versions have been upgraded to Apple's M2 Pro and M2 Max CPUs, which build on the original with more cores, faster speeds, and even better efficiency. The laptops are highly configurable, at least when it comes to the CPU, GPU, RAM, and storage, and so you have some choices to make when selecting your machine. This guide will go over some of the more salient points to help you make the best decision.
+
+
+***
+![He was hospitalized with pneumonia: the Russian giant's leg had to be amputated!](https://static-images.zoznam.sk/image/fetch/q_92,w_1200,h_630,c_fill/h_108,g_north_east,x_0,y_30,l_sportky_watermark/https://sportky.zoznam.sk/cacheImg/obr/1200px/738065.jpg "He was hospitalized with pneumonia: the Russian giant's leg had to be amputated!")
+
+
+[He was hospitalized with pneumonia: the Russian giant's leg had to be amputated!](https://www.world-today-news.com/he-was-hospitalized-with-pneumonia-the-russian-giants-leg-had-to-be-amputated/)
+
+
+> MOSCOW – Former Olympic figure skating champion Roman Kostomarov has lost one leg and part of the other following an amputation due to a serious case of pneumonia. This was reported by the Russian daily Izvestia. Forty-six-year-old Kostomarov, who won the dance pairs competition at the 2006 Turin Olympics together with Taťjana Navková, was hospitalized exactly one month ago due to chest pain and general weakness. Doctors diagnosed him with sepsis and pneumonia and placed him in the intensive care unit, where he was connected to a ventilator.
+
+
+***
+![Adidas may lose 700 million euros after ending partnership with Kanye West](https://static.dir.bg/uploads/images/2023/02/10/2440510/800x480.jpg?_=1676035233 "Adidas may lose 700 million euros after ending partnership with Kanye West")
+
+
+[Adidas may lose 700 million euros after ending partnership with Kanye West](https://www.world-today-news.com/adidas-may-lose-700-million-euros-after-ending-partnership-with-kanye-west/)
+
+
+> German sports goods maker Adidas could face losses this year following its decision to part ways with rapper Kanye West over his anti-Semitism, DPA reported. If Adidas abandons merchandise created in collaboration with the artist, who changed his name to Ye in 2021, and stops selling products from the Yeezy line, it could realize an operating loss of 700 million euros, they announced from the company. The German corporation terminated its partnership with rapper and designer West over his repeated anti-Semitic comments.
+
+
+***
+![Report: Elon Musk Fired Senior Twitter Engineer for Telling Him the Truth About His Account](https://media.breitbart.com/media/2022/04/elon-musk-twitter-blue-birds-640x480-getty-640x335.jpg "Report: Elon Musk Fired Senior Twitter Engineer for Telling Him the Truth About His Account")
+
+
+[Report: Elon Musk Fired Senior Twitter Engineer for Telling Him the Truth About His Account](https://www.breitbart.com/tech/2023/02/10/report-elon-musk-fired-senior-twitter-engineer-for-telling-him-the-truth-about-his-account/)
+
+
+> According to recent reports, Twitter's internal operations are continuing to freefall as new owner Elon Musk complains of poor engagement across the platform. In one incident, Musk fired one of the few remaining senior engineers keeping the platform running for telling him the truth about engagement on his account — that people are getting tired of Elon Musk and his antics. Platformer reports that Elon Musk, the CEO of Twitter, recently met with a group of engineers and advisors at Twitter's headquarters to discuss the drop in engagement on his Twitter account.
+
+
+***
+![who are the creators to follow?](https://images.bfmtv.com/-6DmVIJbv5fvAHwhngu6gbEtlKM=/2x641:1362x1406/1360x0/images/Marc-Jacobs-1575869.jpg "who are the creators to follow?")
+
+
+[who are the creators to follow?](https://www.world-today-news.com/who-are-the-creators-to-follow/)
+
+
+> New York Fashion Week has kicked off. True values, emerging talents, inclusiveness and diversity, what should we know about these ready-to-wear fall-winter 2023 fashion shows which take place from today until Wednesday, February 15? If Paris holds the top of the basket in terms of fashion and especially haute couture, the fact remains that the city of New York is traditionally the first to open the ball of fashion shows and to set the tone of the season. With 110 brands on the official calendar this year, zoom in on growing industry trends at the heart of the Big Apple.
+
+
+***
+![Tech layoffs shrink ‘trust and safety' teams, raising fears of backsliding efforts to curb online abuse](https://s.yimg.com/ny/api/res/1.2/bnqbmLMmrQWRlE1LF6J8Bw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/nbc_news_122/6d6535d49119f086b9dd21c2881b7141 "Tech layoffs shrink ‘trust and safety' teams, raising fears of backsliding efforts to curb online abuse")
+
+
+[Tech layoffs shrink ‘trust and safety' teams, raising fears of backsliding efforts to curb online abuse](https://news.yahoo.com/tech-layoffs-shrink-trust-safety-175004988.html)
+
+
+> Social media companies have slashed hundreds of content moderation jobs during the ongoing wave of tech layoffs, stoking fears among industry workers and online safety advocates that major platforms are less capable of curbing abuse than they were just months ago. Tech companies have announced more than 101,000 job cuts this year alone, on top of the nearly 160,000 over the course of 2022, according to tracker Layoffs.fyi. Among the wide range of job functions affected by those reductions are 'trust and safety' teams — the units within major platform operators and at the contracting firms they hire that enforce content policies and counter hate speech and disinformation.
+
+
+***
+[onsemi Commemorates Transfer of Ownership of East Fishkill, New York Facility from GlobalFoundries with Ribbon Cutting Ceremony](http://www.businesswire.com/news/home/20230210005319/en/onsemi-Commemorates-Transfer-of-Ownership-of-East-Fishkill-New-York-Facility-from-GlobalFoundries-with-Ribbon-Cutting-Ceremony/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PHOENIX--(BUSINESS WIRE)--onsemi (Nasdaq: ON) a leader in intelligent power and sensing technologies, today announced the successful completion of its acquisition of GlobalFoundries' (GF's) 300 mm East Fishkill (EFK), New York site and fabrication facility, effective December 31, 2022. The transaction added more than 1,000 world-class technologists and engineers to the onsemi team. Highlighting the importance of manufacturing semiconductors in the U.S., the company celebrated this milestone eve
+
+
+***
+![Penn Badgley Addresses Fantastic Four Reed Richards Rumors – Fantastic Four 2025](https://www.gamereactor.cn/media/89/_3778993_650x.jpg "Penn Badgley Addresses Fantastic Four Reed Richards Rumors – Fantastic Four 2025")
+
+
+[Penn Badgley Addresses Fantastic Four Reed Richards Rumors – Fantastic Four 2025](https://www.world-today-news.com/penn-badgley-addresses-fantastic-four-reed-richards-rumors-fantastic-four-2025/)
+
+
+> The hugely popular fan casting of the MCU's upcoming Marvel's First Family Fantastic Four has Penn Badgley as Reed Richards. While Marvel hasn't said anything official, Bagley has finally addressed the rumors that he's taking over Mr. Fantastic's mantle. exist Happy Sad Confused When discussing Netflix's latest series You on the podcast, Badgely shied away from the topic, which may bode well for hopefuls. He said: 'Well, no, I can't reveal. Neither confirm nor deny. On whether he met Marvel Studios boss Kevin Feige, he said: 'You know, I could, but not in this case.
+
+
+***
+![Watch Tiny Chicks With Absolutely Massive Feet Freeze on Command](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17laJn.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Watch Tiny Chicks With Absolutely Massive Feet Freeze on Command")
+
+
+[Watch Tiny Chicks With Absolutely Massive Feet Freeze on Command](http://www.msn.com/en-us/news/technology/watch-tiny-chicks-with-absolutely-massive-feet-freeze-on-command/ar-AA17l5Fj)
+
+
+> Fascinating footage shows an "incredible" bird species whose chicks are born with gigantic feet and a remarkable ability to avoid predators. Murkowski Slams Officials For Not Shooting Down Chinese Balloon In Alaska Video Shows Russian Helicopter Obliterated by Overhead Strike: Ukraine Watch: Biden Says He Argued To 'Freeze' Social Security In 1995 Clip A Full List of Republicans Backing Matt Gaetz's Resolution to End Ukraine Aid Republican Wants Rihanna Super Bowl Show Cancelled For Attacking Trump Elephant on Verge of Death With Broken Leg Rescued After 17 Days Adult Golden Retriever with Hilariously Tiny 'Cat Feet' Sends Internet Wild See Marvel's 'Moon Girl And Devil Dinosaur' Official Trailer How Marvel Is Portraying The Experience Of Young Black Women Introducing The 2024 Subaru Crosstrek Jim Jordan Tells Former Twitter Executive They Got 'Played By The FBI' Burt Bacharach, Legendary American Songwriter, Dies At 94 Woman Shocks With Unusual Eye Piercing Freedom Caucus Founder's Reason for Ditching Group Raises Eyebrows Online Trump Jr Accuses Biden of Stealing His Father's Ideas During Union Address Biden Responds To Republicans' Heckling At SOTU: 'Liar, Liar House On Fire' The video clip, taken from the National Geographic documentary series Super/Natural, follows a group of newly born juvenile African jacana birds.
+
+
+***
+![I collected Pokémon cards for my kids – now I'm going to make more than a quarter of a MILLION pounds at auction](https://www.thesun.co.uk/wp-content/uploads/2023/02/gathering-cards-first-trading-card-794643080.jpg "I collected Pokémon cards for my kids – now I'm going to make more than a quarter of a MILLION pounds at auction")
+
+
+[I collected Pokémon cards for my kids – now I'm going to make more than a quarter of a MILLION pounds at auction](https://iknowallnews.com/lifestyle/i-collected-pokemon-cards-for-my-kids-now-im-going-to-make-more-than-a-quarter-of-a-million-pounds-at-auction-the-sun/)
+
+
+> Home » Lifestyle » I collected Pokémon cards for my kids – now I'm going to make more than a quarter of a MILLION pounds at auction | The Sun A DAD-of-two is hoping that his giant collection of Pokémon cards is going to see him quids in at auction. Gordon White, 58, has been hoarding the rare trading cards for 16 years and has amassed thousands. The delivery driver from Livingston, Scotland, started his obsession after his children asked to join a Pokémon league. He has already cashed in by selling half of his collection, which fetched a whopping £200,000 when it went under the hammer in November last year.
+
+
+***
+![Malicious Game Mods Target Dota 2 Game Users](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd70e2fed802ea0a9/63e5699626ab754785e23045/dota_Rokas_Tenys_shutterstock.jpg "Malicious Game Mods Target Dota 2 Game Users")
+
+
+[Malicious Game Mods Target Dota 2 Game Users](https://www.darkreading.com/cloud/malicious-game-mods-target-dota-2-game-users)
+
+
+> A threat actor recently uploaded four "mods" containing malicious code into the catalog in the official Steam store that players of the popular Dota 2 online game use for downloading community-developed game additions and other custom items. Mods, short for "modifications," offer in-game content that players create rather than the developers. Users who installed the mods ended up with a backdoor on their systems that the threat actor used to download an exploit for a vulnerability ( CVE-2021-38003 ) in the V8 open source JavaScript engine version present in a framework called Panorama that players use to develop custom items in Dota 2.
+
+
+***
+![Atomic Heart creators outline playtime](https://www.zing.cz/wp-content/uploads/2023/02/Atomic-Heart-2.jpg "Atomic Heart creators outline playtime")
+
+
+[Atomic Heart creators outline playtime](https://www.world-today-news.com/atomic-heart-creators-outline-playtime/)
+
+
+> The action adventure game Atomic Heart is almost around the corner, so its creators come with a new batch of information, which was given to the world through an interview for SegmentNext. There was a lot said in it, but of course we will focus only on the most essential. A number of players have been wondering for a while now how long the upcoming game will be. The main storyline should take about 20-25 hours. However, he is supposed to spend up to 40 hours in the game world, which is a decent game time.
+
+
+***
+![Tesla Already Halved Its Prices, Can It Do It Again And Go Mainstream?](https://cdn.motor1.com/images/mgl/pK9mo/s1/tesla-model-3-and-tesla-model-y.jpg "Tesla Already Halved Its Prices, Can It Do It Again And Go Mainstream?")
+
+
+[Tesla Already Halved Its Prices, Can It Do It Again And Go Mainstream?](https://insideevs.com/news/651967/tesla-halved-prices-can-it-do-it-again/)
+
+
+> Tesla has cut its prices in half over the last five years, according to a recent article published by Electrek . Those price cuts are making the most popular US EV maker's models more affordable for the masses, but Tesla's not quite there yet. Perhaps it can reduce those prices by half yet again, and sooner rather than later. If you read the words of CEO Elon Musk , and Tesla's mission in general, you'll learn that the company's goal is to convert the masses to EVs. While Tesla has made it very clear that it's just fine if those EVs are made by rival brands, it has clearly been working diligently to grab up as much of that market share as possible  for itself .
+
+
+***
+[NMG Obtains Financial Levers of Up to CA$3.6 Million to Further Develop its Advanced Transformation Processes for Environmentally Friendly Anode Material](http://www.businesswire.com/news/home/20230210005316/en/NMG-Obtains-Financial-Levers-of-Up-to-CA3.6-Million-to-Further-Develop-its-Advanced-Transformation-Processes-for-Environmentally-Friendly-Anode-Material/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MONTRÉAL--(BUSINESS WIRE)---- $NMG #ESG--In line with its strategy of full vertical integration, Nouveau Monde Graphite Inc. ('NMG' or the 'Company') (NYSE: NMG, TSX.V: NOU) is continuing to develop its advanced graphite transformation technologies to supply the Western battery and electric vehicle ('EV') market with environmentally friendly anode material. Through the Technoclimat program and the Fonds de recherche du Québec – Nature et technologies ('FRQNT'), the Government of Québec will prov
+
+
+***
+![Energy firm equiwatt wins Government funding to develop tech](https://i2-prod.chroniclelive.co.uk/incoming/article15749917.ece/ALTERNATES/s1200/0_Johnson-Fernandes-founder-of-Equiwatt.jpg "Energy firm equiwatt wins Government funding to develop tech")
+
+
+[Energy firm equiwatt wins Government funding to develop tech](https://www.business-live.co.uk/technology/energy-firm-equiwatt-wins-government-26212327)
+
+
+> A Gateshead software firm has secured funding from the Department for Energy Security and Net Zero to ramp up development of its innovative technology. Equiwatt has been awarded more than £630,000 from the Energy Entrepreneurs Fund (EEF) through the Net Zero Innovation Portfolio (NZIP), to aid the expansion of its community of UK households that power its virtual power plant. The company's technology allows households to connect appliances and electric vehicles to its energy management system, using its free smartphone app and existing smart technology, including smart meters.
+
+
+***
+![Ikea Recalls Swivel Chair After Reports Of Injuries](https://www.mccourier.com/wp-content/uploads/2023/02/Ikea-Recalls-Swivel-Chair-After-Reports-Of-Injuries.jpg "Ikea Recalls Swivel Chair After Reports Of Injuries")
+
+
+[Ikea Recalls Swivel Chair After Reports Of Injuries](https://www.mccourier.com/ikea-recalls-swivel-chair-after-reports-of-injuries/)
+
+
+> The Ikea Odger swivel chair that is been recalled after studies of accidents Ikea Ikea has issued a voluntary recall of its Odger swivel chairs after receiving no less than 4 studies of the chairs breaking, and two studies of individuals being injured, in keeping with a discover on the corporate's web site. The recall solely impacts the Odger swivel chairs offered in darkish grey, a shade the corporate calls anthracite. All darkish grey Odger chairs with a date stamp earlier than and together with 2221 needs to be returned to the corporate for a refund.
+
+
+***
+![New features make Translate more accessible for its 1 billion users](https://external-preview.redd.it/kTOnY-SnoIHmtpV0YpgxepBO2Nfe36lDY99NSx0Ll3o.jpg?auto=webp&v=enabled&s=b1fc3a02b690ddcfdc83d3b02d221d950d4e2889 "New features make Translate more accessible for its 1 billion users")
+
+
+[New features make Translate more accessible for its 1 billion users](https://www.reddit.com/r/Android/comments/10yxov1/new_features_make_translate_more_accessible_for)
+
+
+> Android news, reviews, tips, and discussions about rooting, tutorials, and apps. Generic discussion about phones/tablets is allowed, but technical-support, upgrade related questions or buy/sell posts, app recommendations and carrier-related issues should be asked in their respective subreddits!
+
+
+***
+![Balenciaga designer Demna speaks out after BDSM scandal: ‘Error of judgment'](https://iknowallnews.com/wp-content/uploads/2023/02/Balenciaga-designer-Demna-speaks-out-after-BDSM-scandal-8216Error-of-judgment8217.jpg "Balenciaga designer Demna speaks out after BDSM scandal: ‘Error of judgment'")
+
+
+[Balenciaga designer Demna speaks out after BDSM scandal: ‘Error of judgment'](https://iknowallnews.com/lifestyle/balenciaga-designer-demna-speaks-out-after-bdsm-scandal-error-of-judgment/)
+
+
+> Home » Lifestyle » Balenciaga designer Demna speaks out after BDSM scandal: ‘Error of judgment' Balenciaga's creative director, Demna, has given his first interview since the brand's BDSM ad scandal last year. The fashion house came under fire at the end of 2022 for two different campaigns, one of which featured children holding teddy bears that were outfitted in bondage-style leather outfits. While backlash — from fans and celebrities alike — was swift, the company addressed the controversy and apologized for the nature of the shoot.
+
+
+***
+![Shakira and Piqué meet again](https://estaticos-cdn.prensaiberica.es/clip/f4c413f3-58df-4dd8-9b65-69eacc9b405f_alta-aspect-ratio_default_0.jpg "Shakira and Piqué meet again")
+
+
+[Shakira and Piqué meet again](https://www.world-today-news.com/shakira-and-pique-meet-again/)
+
+
+> And Shakira? The singer has not deleted the photos of her life with the footballer either. You can even find the one she uploaded to Instagram in the last Valentine, in 2022, when I congratulate all her fans in love with a romantic photo of her with Gerard Piqué, or the one from her move from 2021 to 2022, which she celebrated with a kiss to her then still partner. Also, those of their bloody Halloween costumes (where their tongues meet) or some portrait to highlight Piqué's triumphs ('This is the defender with the greatest number of goals in the history of the Champions League,' he stressed, along better).
+
+
+***
+![Maximizing Cost Savings in the private Cloud: How to Run Kubernetes without a Load Balancer](https://miro.medium.com/max/500/1*fkVYCcoMFPduzmjAqoDK1g.jpeg "Maximizing Cost Savings in the private Cloud: How to Run Kubernetes without a Load Balancer")
+
+
+[Maximizing Cost Savings in the private Cloud: How to Run Kubernetes without a Load Balancer](https://guese-justin.medium.com/maximizing-cost-savings-in-the-private-cloud-how-to-run-kubernetes-without-a-load-balancer-7fc37fd99c74)
+
+
+> When it comes to running Kubernetes in the cloud, one of the most significant costs can come from using a load balancer for each service. With prices starting at around $15 per month per load balancer, it's easy for costs to quickly add up, especially if you have a large number of pods. However, what if we told you that there's a way to run Kubernetes without the need for a load balancer and still get the benefits of high availability and automatic failover? In this article, we'll explore how you can achieve cost savings in the cloud by running Kubernetes without a load balancer.
+
+
+***
+![China's deepfake anchors spread disinformation on social media, Graphika says](https://external-preview.redd.it/YRVFR8AjfaUOZdqkegEx6ROdgVn2JP1G9RU66eAyrCE.jpg?auto=webp&v=enabled&s=78ead41d319ed60373105f90d9315a9ddd18506a "China's deepfake anchors spread disinformation on social media, Graphika says")
+
+
+[China's deepfake anchors spread disinformation on social media, Graphika says](https://www.reddit.com/r/technology/comments/10yxktj/chinas_deepfake_anchors_spread_disinformation_on)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Etrian Odyssey Origins Collection Coming This Summer](https://www.gamereactor.cn/media/14/etrianodysseyorigins_3961483_650x.jpg "Etrian Odyssey Origins Collection Coming This Summer")
+
+
+[Etrian Odyssey Origins Collection Coming This Summer](https://www.world-today-news.com/etrian-odyssey-origins-collection-coming-this-summer/)
+
+
+> The game that was announced during the Nintendo Direct late Wednesday, but somewhat lost in all the major announcements and trailers, was Etrian Odyssey Origins Collection. These are the first three games in Atlus' maze quest series, now being remastered for PC and Switch, in one convenient package. The Switch version has additional features such as 'Touch screen mapping function', will definitely come in handy when staggering through mazes.There is still one 'Remastered soundtrack and quality of life improvements, including difficulty selection and save slots'.
+
+
+***
+![AWS Glue vs Spark on Kubernetes — Which One is Right for You?](https://miro.medium.com/max/1200/1*F5iPxTjMOX5_29GzXlZvfA.png "AWS Glue vs Spark on Kubernetes — Which One is Right for You?")
+
+
+[AWS Glue vs Spark on Kubernetes — Which One is Right for You?](https://medium.com/@abrkljac9/aws-glue-vs-spark-on-kubernetes-which-one-is-right-for-you-5eca53d1045b)
+
+
+> AWS Glue is a fully managed ETL service that makes it easy to move data between data stores. It provides a simple, cloud-based interface for ETL that abstracts away the underlying infrastructure, allowing you to focus on writing the business logic for your data processing. The main benefits of using AWS Glue include its simplicity and ease of use, which make it accessible to a wide range of users, including those without extensive technical expertise. Additionally, AWS Glue takes care of the underlying infrastructure and management, so you can focus on writing the business logic for your data processing.
+
+
+***
+![Apple was granted a patent for an Apple Watch camera and detachable band](https://cdn.vox-cdn.com/thumbor/Phn6gs-S-spIPBoenHTdwsQuv2w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24223762/226266_APPLE_WATCH_8_SE_PHO_akrales_0615.jpg "Apple was granted a patent for an Apple Watch camera and detachable band")
+
+
+[Apple was granted a patent for an Apple Watch camera and detachable band](https://www.theverge.com/2023/2/10/23594122/apple-watch-camera-wearable-patent)
+
+
+> While gadget patents don't guarantee anything, they can offer a glimpse into areas a company is exploring. Earlier this week, Apple was granted a patent (US-11571048-B1) for an Apple Watch strap release mechanism that could potentially be used with a built-in camera. That, on its own, is a neat idea, but it's also the third camera-related Apple Watch patent we've seen in recent years. The patent application was originally filed in 2019, so Apple engineers have clearly had wearable cameras on the brain for some time.
+
+
+***
+[iQor's IVR Automation Scores Touchdown With Big Game Fans Seeking Food Order Status](http://www.businesswire.com/news/home/20230210005313/en/iQor%E2%80%99s-IVR-Automation-Scores-Touchdown-With-Big-Game-Fans-Seeking-Food-Order-Status/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ST. PETERSBURG, Fla.--(BUSINESS WIRE)-- #Automation--iQor's IVR Automation Scores Touchdown With Big Game Fans Seeking Food Order Status
+
+
+***
+![Twitter Gets Scolded by EU Over Its Disinformation Report](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17lakY.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Twitter Gets Scolded by EU Over Its Disinformation Report")
+
+
+[Twitter Gets Scolded by EU Over Its Disinformation Report](http://www.msn.com/en-us/news/technology/twitter-gets-scolded-by-eu-over-its-disinformation-report/ar-AA17l3s7)
+
+
+> The European Commission singled out Twitter in a statement released on Thursday, saying the social media company fell short on providing sufficient information about its efforts to fight disinformation on the platform. The EU's 2022 Code of Practice on Disinformation had been signed by 34 major platforms as of June, including Twitter, Google and Meta. On Thursday, the group launched a new Transparency Center site, which includes reports and data from many of the signatories on how they're handling disinformation.
+
+
+***
+![Thanks to James Webb, Dense Star Clusters in Distant Galaxies Revealed](https://asset-a.grid.id/crop/0x0:0x0/x/photo/2023/02/09/main_image_deep_field_smacs0723-20230209083343.jpg "Thanks to James Webb, Dense Star Clusters in Distant Galaxies Revealed")
+
+
+[Thanks to James Webb, Dense Star Clusters in Distant Galaxies Revealed](https://www.world-today-news.com/thanks-to-james-webb-dense-star-clusters-in-distant-galaxies-revealed/)
+
+
+> photo/2023/02/09/main_image_deep_field_smacs0723-20230209083343.jpg?resize=360%2C240&ssl=1" alt="Bidang mendalam pertama hasil pantauan Teleskop James Webb memberikan detail gambar yang lebih tajam dari ribuan galaksi jauh." data-recalc-dims="1"/> The first deep-field observations of the James Webb Telescope provide sharper, more detailed images of thousands of distant galaxies. (NASA, ESA, CSA, STScI, Webb ERO) Nationalgeographic.co.id— NASA's James Webb Space Telescope has so far delivered the deepest and sharpest infrared images of the distant universe.
+
+
+***
+![Need a De-Puffing Pick-Me-Up? This Cooling Eye Serum Feels Like a Spa Treatment](https://iknowallnews.com/wp-content/uploads/2023/02/Need-a-De-Puffing-Pick-Me-Up-This-Cooling-Eye-Serum-Feels-Like-a-Spa-Treatment.jpg "Need a De-Puffing Pick-Me-Up? This Cooling Eye Serum Feels Like a Spa Treatment")
+
+
+[Need a De-Puffing Pick-Me-Up? This Cooling Eye Serum Feels Like a Spa Treatment](https://iknowallnews.com/lifestyle/need-a-de-puffing-pick-me-up-this-cooling-eye-serum-feels-like-a-spa-treatment/)
+
+
+> Home » Lifestyle » Need a De-Puffing Pick-Me-Up? This Cooling Eye Serum Feels Like a Spa Treatment Us Weekly has affiliate partnerships so we may receive compensation for some links to products and services. As I've gotten older, my Google searches have dramatically evolved. I used to look up 'best bars in Los Angeles' and now I'm typing 'best anti-aging eye creams.' Oh, how times have changed! These days, I always seem to wake up with dark circles under my eyes. It's like the plot of Groundhog Day — minus the happy ending.
+
+
+***
+![Question on topic moves](https://images.macrumors.com/social/?t=2380319&v=6 "Question on topic moves")
+
+
+[Question on topic moves](https://forums.macrumors.com/threads/question-on-topic-moves.2380319/)
+
+
+> A day or so ago, I reported a post for being in the wrong forum and suggested where it would likely get the quickest answer. Sadly, it was transferred to a different forum and I think it's likely because a specific OS was mentioned in the original post. I'm not angry or upset or anything like that. I was just curious on what the rubric is for transferring a topic to another forum here. Like, if it mentions a specific OS, but the reporter says it needs moved to (this is not the real one I did btw) the iMac forum.
+
+
+***
+![How to setup 2FA on Reddit](https://www.digitaltrends.com/wp-content/uploads/2021/12/reddit-app-icon.jpg?resize=1200%2C630&p=1 "How to setup 2FA on Reddit")
+
+
+[How to setup 2FA on Reddit](https://www.digitaltrends.com/computing/how-to-setup-2fa-on-reddit/)
+
+
+> Enabling 2FA (two-factor authentication) on Reddit is a great way to improve the security of your account, by making sure that only someone with access to your smartphone or other secondary device can login to your account. It utilizes common authenticators like the Google Authenticator, so you may not even need to download anything to get started. Whether you're worried about a hack, or just want to improve your Reddit security, here's how to enable 2FA on Reddit. You can't enable 2FA on the Reddit app — you have to do it via the website.
+
+
+***
+![Wi Flag](https://static.wikia.nocookie.net/asheron/images/e/e6/Site-logo.png/revision/latest?cb=20210714135402 "Wi Flag")
+
+
+[Wi Flag](https://asheron.fandom.com/wiki/Wi_Flag)
+
+
+> For those of you who don't know what the Wi Flag means, a little history. From the beginning of AC, some players have complained about unbelievably bad luck. When the swarm of Lugians spawn in the citadel, they will go after certain players--every time. The player's level doesn't seem to matter, nor does the number of other players in the room. What does seem to matter is that this player is cursed with that most unfortunate of distinctions: the Wi Flag. For some players, the flag came and went.
+
+
+***
+!['Call of Duty' Is Biggest Draw for PS5 Buyers, Survey Finds](https://1734811051.rsc.cdn77.org/data/images/full/412953/gamescom-2019-press-day.jpg "'Call of Duty' Is Biggest Draw for PS5 Buyers, Survey Finds")
+
+
+['Call of Duty' Is Biggest Draw for PS5 Buyers, Survey Finds](https://www.techtimes.com/articles/287489/20230210/call-duty-biggest-draw-ps5-buyers-survey-finds.htm)
+
+
+> Trisha Kae Andrada , Tech Times 10 February 2023, 12:02 pm (Photo : Lukas Schulze/Getty Images) COLOGNE, GERMANY - AUGUST 20: Visitors wait to try out the latest version of Call of Duty Modern Warfare during the press day at the 2019 Gamescom gaming trade fair on August 20, 2019 in Cologne, Germany. More people are buying a PS5 for the sole purpose of playing  Call of Duty  compared to any other Sony-exclusive game, according to a recently conducted poll. The morality of Microsoft's planned purchase of Activision Blizzard is called into question by  Call of Duty 's massive and continuing success on PlayStation systems.
+
+
+***
+![Microsoft Edge Drop: share files and notes using Sync](https://www.ghacks.net/wp-content/uploads/2023/02/edge-drop-sign-in.png "Microsoft Edge Drop: share files and notes using Sync")
+
+
+[Microsoft Edge Drop: share files and notes using Sync](https://www.ghacks.net/2023/02/10/microsoft-edge-drop-share-files-and-notes-using-sync)
+
+
+> Microsoft Edge 110 Stable includes support for a new feature that Microsoft calls Drop. Drop allows Microsoft Edge users to sync files and notes between all Edge instances on desktop and mobile […] Thank you for being a Ghacks reader. The post Microsoft Edge Drop: share files and notes using Sync appeared first on gHacks Technology News .
+
+
+***
+![Email marketing tools: a sales enablement success story](https://cdn2.techhq.com/wp-content/uploads/2023/02/email-marketing-tools-3-1080px.jpg "Email marketing tools: a sales enablement success story")
+
+
+[Email marketing tools: a sales enablement success story](https://techhq.com/2023/02/email-marketing-tools-a-sales-enablement-success-story/)
+
+
+> With an estimated 4 billion users globally, email remains an effective communication channel for companies looking to connect with their customers. But in 2023, it takes more than just clicking send to maximize sales opportunities and generate business revenue from an email campaign. And that's where email marketing tools fit in. Sharing many of the plus points of business email optimization, such as built-in artificial intelligence (AI) capabilities, email marketing tools have become another sales enablement success story.
+
+
+***
+![Jason Momoa has family feelings in the trailer for Fast X](https://cdn.vox-cdn.com/thumbor/bC21EzOwe4f5UKMM4HHVJo8n8NI=/0x0:1277x531/1200x628/filters:focal(639x266:640x267)/cdn.vox-cdn.com/uploads/chorus_asset/file/24423487/Capto_Capture_2023_02_10_11_53_12_AM.jpg "Jason Momoa has family feelings in the trailer for Fast X")
+
+
+[Jason Momoa has family feelings in the trailer for Fast X](https://www.theverge.com/23594357/fast-x-trailer-jason-momoa-rita-moreno)
+
+
+> Since Fast Five , each Fast & Furious movie has gotten more patently ridiculous than the last. The series has sent cars into space, returned two characters from the dead, and perhaps most incredulously, proposes that somehow John Cena and Vin Diesel are biological brothers. For the Fast X trailer, it feels like the series is taking a step back from its action movie power creep and returning to its roots as a good old-fashioned family drama with the occasional exploding car. After all, not too many places you can go once you've gone to space.
+
+
+***
+![Lightyear Frontier's reception is both ‘exciting and a little scary', according to Frame Break's CEO](https://www.gamereactor.cn/media/83/lightyearfrontierlets_3808373b.jpg "Lightyear Frontier's reception is both ‘exciting and a little scary', according to Frame Break's CEO")
+
+
+[Lightyear Frontier's reception is both ‘exciting and a little scary', according to Frame Break's CEO](https://www.world-today-news.com/lightyear-frontiers-reception-is-both-exciting-and-a-little-scary-according-to-frame-breaks-ceo/)
+
+
+> Just earlier this week, we Share about a series of different upcoming[email protected]The perception of the games, we saw these games behind closed doors. This includes the enigmatic The Last Cast of Benedict Fox, the striking Planet of Lana, the action-packed Everspace 2, and the captivating and calming Lightyear Frontier. Speaking of the latter, we also had the opportunity to speak with Joakim K. Hedström, CEO of developer (Frame Break) and[email protected]Andreea Chifu, Senior Strategic Partnerships Manager, sat down to learn more about the upcoming indie game.
+
+
+***
+![Why backlogs are useless, why they never shrink, and what to do instead](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Why backlogs are useless, why they never shrink, and what to do instead")
+
+
+[Why backlogs are useless, why they never shrink, and what to do instead](https://www.reddit.com/r/programming/comments/10yx0wt/why_backlogs_are_useless_why_they_never_shrink)
+
+
+> Why backlogs are useless, why they never shrink, and what to do instead
+
+
+***
+[Safety for Sunday's Big Game: RAINN, Phoenix City Government, and Organizations Come Together to Create Public Safety Blueprint](http://www.businesswire.com/news/home/20230210005307/en/Safety-for-Sunday%E2%80%99s-Big-Game-RAINN-Phoenix-City-Government-and-Organizations-Come-Together-to-Create-Public-Safety-Blueprint/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WASHINGTON--(BUSINESS WIRE)--RAINN, Match Group and Others Work to Reduce Risk of Sexual Assault
+
+
+***
+![ONC: Most IT Developers Have Met Cures Act Guidelines for APIs](https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_2150177259.jpg "ONC: Most IT Developers Have Met Cures Act Guidelines for APIs")
+
+
+[ONC: Most IT Developers Have Met Cures Act Guidelines for APIs](https://www.healthleadersmedia.com/)
+
+
+> More than 95% of certified healthcare IT organizations met last year's deadline to upgrade application programming interfaces (APIs) to new federal standards, according to the Health and Human Services Department's Office of the National Coordinator of Health IT. In a blog issued this week , ONC Spokesman Rob Anthony said the upgrade to new certification standards mandated in the Cures Act Final Rule "will have long-lasting impact for patients, clinicians, and certified health IT developers." Specifically, those changes: Advance interoperability for patient and providers through the use of FHIR-based APIs; Enable patients, providers, and other stakeholders to access consistent data that at least meets the requirements of version 1 of the United States Core Data for Interoperability (USCDI) ; Ensure that electronic prescribing is reliable and complete; and Give all stakeholders a common and visible view into Real World Testing plans, through which certified healthcare It developers test their technology in real-world settings.
+
+
+***
+![A new era of virtual reality is coming. First look at PlayStation VR2](https://d15-a.sdn.cz/d_15/c_img_gU_m/HeoQV/playstation-vr.jpeg?fl=cro,0,0,1920,1080|res,1200,,1|jpg,80,,1 "A new era of virtual reality is coming. First look at PlayStation VR2")
+
+
+[A new era of virtual reality is coming. First look at PlayStation VR2](https://www.world-today-news.com/a-new-era-of-virtual-reality-is-coming-first-look-at-playstation-vr2/)
+
+
+> With the new virtual helmet, the Japanese electronics giant is primarily targeting gamers, the pair is thus primarily intended for the PlayStation 5 television console. Owners of older models are out of luck, so for the PlayStation 4, game fans have to make do with the first generation, which has been on the market for quite a few years . The novelty offers a significantly more faithful gaming experience, which is mainly due to the extremely fine display. In practice, you have the same number of pixels in your glasses as on a large TV.
+
+
+***
+![Uber's driver app is getting Apple CarPlay support](https://cdn.vox-cdn.com/thumbor/hL-kPB1XOSZek55MzHkRSs-By4A=/0x0:1330x806/1200x628/filters:focal(0x413:1x414)/cdn.vox-cdn.com/uploads/chorus_asset/file/24423056/Screenshot_2023_02_08_at_10.20.45_PM.png "Uber's driver app is getting Apple CarPlay support")
+
+
+[Uber's driver app is getting Apple CarPlay support](https://www.theverge.com/2023/2/10/23594134/uber-driver-app-apple-carplay-iphone-announce)
+
+
+> Uber's driver app is getting Apple CarPlay support, which will enable drivers with iPhones to accept trip requests and navigate via their car's infotainment screen. The feature is just now rolling out to Uber drivers and will be available to all drivers in the US by the end of the month. The Uber driver app running on CarPlay will let drivers view and accept trips, add more rides to their queue, and use Uber's navigation to get to pickup and drop-off points. Additionally, drivers can view more route options, better see side streets, and look at heat maps to learn which areas are busy — all without needing to look at their phones.
+
+
+***
+![Analysis Risen Xbox One – Back to the Past](https://www.nextgame.es/wp-content/uploads/2023/02/Copia-de-Diseno-sin-titulo-1-768x432.png "Analysis Risen Xbox One – Back to the Past")
+
+
+[Analysis Risen Xbox One – Back to the Past](https://www.world-today-news.com/analysis-risen-xbox-one-back-to-the-past/)
+
+
+> Risen is a cult RPG that came to us from Piranha Bytes more than 13 years ago. Deep Silver leaves the publication in charge of THQ Nordic, which has made it possible for this more port than remaster to reach us for old-generation consoles: PS4, Xbox One and Switch. Everything good from the original version is kept in this port, but also everything bad… A catastrophe that begins the adventure Risen puts us in the role of a stowaway who sees his trip interrupted after the ship in which he was hidden was destroyed by a giant monster.
+
+
+***
+![PSVR 2 Unboxed: Here's What's Inside](https://www.cnet.com/a/img/resize/f775011118f6458ff6755475c7e53c4d3e26087d/hub/2023/02/09/56d598a7-b9b1-46e4-9149-ddba2abc654f/playstation-vr2-contents.jpg?auto=webp&fit=crop&height=630&width=1200 "PSVR 2 Unboxed: Here's What's Inside")
+
+
+[PSVR 2 Unboxed: Here's What's Inside](https://www.cnet.com/tech/gaming/psvr-2-heres-whats-in-the-box/)
+
+
+> Sony's PlayStation VR 2  headset  arrives Feb. 22 , turning the  PlayStation 5 into a home VR game system. That hands-on review is coming, but in the meantime we're unboxing and setting up the hardware. After trying the PSVR 2 headset back in the fall, we were super curious to see what actually comes inside the retail box. To our pleasant surprise, the $550 (£530, AU$880) PSVR 2 feels less cluttered than the first PlayStation VR did, and it's sort of shocking when you unpack the box's contents.
+
+
+***
+![Decent Work Agenda Approved! Know everything that will change](https://pplware.sapo.pt/wp-content/uploads/2023/02/trabalhoDigno_00-720x413.jpg "Decent Work Agenda Approved! Know everything that will change")
+
+
+[Decent Work Agenda Approved! Know everything that will change](https://tekdeeps.com/decent-work-agenda-approved-know-everything-that-will-change/)
+
+
+> The Agenda for Decent Work and Appreciation of Young People in the Labor Market was approved today! This agenda is a set of measures aimed at improving working conditions and reconciling personal, family and professional life. Know what will change. The Agenda contemplates around 70 measures, with the most diverse objectives. Combat precariousness and consequently increase wages, promote equality in the labor market between women and men, create conditions for a better balance between professional, family and personal life, etc.
+
+
+***
+![Up to about 24% price reduction! Western Digital's portable SSD at Amazon price revision from February 11 today-GAME Watch](https://game.watch.impress.co.jp/img/gmw/list/1477/695/1.jpg "Up to about 24% price reduction! Western Digital's portable SSD at Amazon price revision from February 11 today-GAME Watch")
+
+
+[Up to about 24% price reduction! Western Digital's portable SSD at Amazon price revision from February 11 today-GAME Watch](https://www.world-today-news.com/up-to-about-24-price-reduction-western-digitals-portable-ssd-at-amazon-price-revision-from-february-11-today-game-watch/)
+
+
+> Western Digital will revise the price of portable SSDs sold on Amazon today from February 11th. The 'My Passport SSD' and 'Portable SSD Extreme' series are targeted, and the discount rate is up to about 24%. Some of the products are the lowest prices ever, such as the 'Portable SSD Extreme E61' 4TB (yellow highlight), which has not been on sale in the past, is discounted. Please note that the price may change, so please check the actual price on the product page. □Western Digital SSD product
+
+
+***
+![Researchers Uncover Obfuscated Malicious Code in PyPI Python Packages](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEhKlBMLQviBS_AqU4IbZxjofkcfjKNRFAv3KDCQF0flRAUcMPHsy1Y0MmC-nIh2zunu8fq9f28BemYMjkqrB4yH6kzIyHbe6w66d3W_SyTCYATJovrUKC8xG3qp20zqgaM81jnGua8m21kg4K9TTrclbLhVzYf59mRj6osJ4FL9Hp_4UMCvYB_YDMyT/s728-e3650/malware.png "Researchers Uncover Obfuscated Malicious Code in PyPI Python Packages")
+
+
+[Researchers Uncover Obfuscated Malicious Code in PyPI Python Packages](https://thehackernews.com/2023/02/researchers-uncover-obfuscated.html)
+
+
+> Four different rogue packages in the Python Package Index ( PyPI ) have been found to carry out a number of malicious actions, including dropping malware, deleting the netstat utility, and manipulating the SSH authorized_keys file. The packages in question are aptx , bingchilling2 , httops , and tkint3rs , all of which were collectively downloaded about 450 times before they were taken down. While aptx is an attempt to impersonate Qualcomm's highly popular audio codec of the same name, httops and tkint3rs are typosquats of https and tkinter, respectively.
+
+
+***
+![Why a shift to basing vehicle registration fees on emissions matters for Australia](https://scx2.b-cdn.net/gfx/news/2023/why-a-shift-to-basing.jpg "Why a shift to basing vehicle registration fees on emissions matters for Australia")
+
+
+[Why a shift to basing vehicle registration fees on emissions matters for Australia](https://techxplore.com/news/2023-02-shift-basing-vehicle-registration-fees.html)
+
+
+> Targeted policies and incentives do speed the uptake of electric vehicles. Credit: Shutterstock The ACT is changing how it calculates car registration fees . Instead of being based on a car's weight, the fee the owner pays will be based on the greenhouse gas emissions it produces. Up to now, owners of cleaner but typically heavier electric vehicles have paid more for registration than those of high-polluting but lighter vehicles powered by petrol or diesel engines. Emissions-based fees will reverse that situation.
+
+
+***
+![Sea captain Mike Nicholson gives 'berth' to new app which aims to stop ships breaking free of their moorings](https://www.northumberlandgazette.co.uk/webimg/b25lY21zOjMxZmIwOWRhLTIxN2MtNDBiYi1hYTI5LTk4NDAyM2JkNjYzODoyMzQ4ZDNiMy0zNmE2LTQ0ODEtOTE3OS03NDgwN2EwZjJiMTQ=.jpg?width=1200&auto=webp&quality=75 "Sea captain Mike Nicholson gives 'berth' to new app which aims to stop ships breaking free of their moorings")
+
+
+[Sea captain Mike Nicholson gives 'berth' to new app which aims to stop ships breaking free of their moorings](https://www.northumberlandgazette.co.uk/lifestyle/tech/sea-captain-mike-nicholson-gives-berth-to-new-app-which-aims-to-stop-ships-breaking-free-of-their-moorings-4023191)
+
+
+> Captain Mike Nicholson with his app. Image: The Bigger Picture Agency Most boats break free due to bad weather, insufficient mooring ropes, or both. But now former harbour master and master mariner Captain Mike Nicholson believes he has come up with the solution. Advertisement Hide Ad Advertisement Hide Ad He has spent more than 10 years and thousands of hours researching the safest and most effective ways to moor a ship, and used all of the data to create a new app. Written by his son Cameron, it costs £9.
+
+
+***
+![Minecraft Reveals Archaeology for Update 1.20; Minecraft Legends Features Music in New Trailer](https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Minecraft%20Archaeology.jpg?itok=skwIJ4au "Minecraft Reveals Archaeology for Update 1.20; Minecraft Legends Features Music in New Trailer")
+
+
+[Minecraft Reveals Archaeology for Update 1.20; Minecraft Legends Features Music in New Trailer](https://techraptor.net/gaming/news/minecraft-reveals-archaeology-for-update-120-minecraft-legends-features-music-in-new)
+
+
+> Today Mojang and Microsoft revealed that Minecraft is getting a highly-anticipated new feature in the upcoming (and yet untitled) update 1.20.  The new feature is Archaeology, which was actually announced at Minecraft Live in 2020 and then delayed. It's finally making its way into the game and it'll be available for testing in a snapshot soon.  According to the announcement , the feature prompts players to visit a desert biome and look for Suspicious Sand blocks, using a new Brush tool on it may reveal pottery shards or other objects.
+
+
+***
+![Exoskeletons help take the strain of heavy lifting](https://ichef.bbci.co.uk/news/1024/branded_news/15141/production/_128573368_p0f20689.jpg "Exoskeletons help take the strain of heavy lifting")
+
+
+[Exoskeletons help take the strain of heavy lifting](https://www.bbc.com/news/av/technology-64570905)
+
+
+> No body in the article.
+
+
