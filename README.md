@@ -3504,3 +3504,954 @@
 > Dragon's Lair Overhaul Black Edition  is a redesign of our original 1/6th scale Dragon's Lair x RepliCade with exclusive features and updates including: a more powerful processor to enable HDTV screen mirroring, individually numbered Cinematronics cabinet branding, Cinematronics raised letter metal coin door, black t-molding, mini prop replica of the commercial grade LDV1000 LaserDisc player used in Gen 2+ production runs of Dragon's Lair, special Cinematronics packaging, plus a bonus Dragon's Lair one sheet mini poster.
 
 
+***
+![Bharti Airtel to Be Ready With 5G FWA in Next 6 Months](https://telecomtalk.info/wp-content/uploads/2023/02/bharti-airtel-ready-with-5gfwa-next-6months-.jpg "Bharti Airtel to Be Ready With 5G FWA in Next 6 Months")
+
+
+[Bharti Airtel to Be Ready With 5G FWA in Next 6 Months](https://telecomtalk.info/bharti-airtel-ready-with-5gfwa-next-6months/674987/)
+
+
+> Bharti Airtel's CEO, Gopal Vittal, during the Q3 FY23 earnings call, provided an update about 5G Fixed Wireless Access and the aspects the company is looking into to offer FWA Services. Bharti Airtel acquired spectrum in the 26 GHz band during the 2022 auctions, and the mmWave band is used to offer FWA services. 5G Fixed Wireless Access (FWA) 5G Fixed Wireless Access ( FWA ) is a technology that enables high-speed internet connectivity to homes and businesses using 5G wireless networks. Unlike traditional broadband solutions that use wired connections such as fiber or cable, 5G FWA leverages the 5G networks using the 26 GHz (mmWave band) spectrum to provide internet access.
+
+
+***
+![Edge Centers Plans a New Facility in St Louis, Missouri](https://telecomtalk.info/wp-content/uploads/2023/02/edge-centers-begins-new-facility-stlouis-missouri.jpg "Edge Centers Plans a New Facility in St Louis, Missouri")
+
+
+[Edge Centers Plans a New Facility in St Louis, Missouri](https://telecomtalk.info/edge-centers-plans-new-facility-stlouis-missouri/674980/)
+
+
+> Company announces plans for its third facility in US. St Louis has fantastic weather that allows for indirect free-cooling. This Indirect free-cooling to be used 24 by 7, 8 to 9 months of the year. Australian Edge data center firm Edge Centres is planning a new data center with a capacity of 1MW facilities in St. Louis, Missouri, and Portland, Oregon. Edge Centres offers modular "off-grid" data centers with on-site wind and/or solar power and backup grid connections. Each facility has 48-hour batteries and UPS backup equipment, which supports 64 1kW quarter racks and under 1MW of solar infrastructure.
+
+
+***
+[Iris Dating Integrates ChatGPT AI Technology to Create Engaging and Authentic Profile Bios](http://www.businesswire.com/news/home/20230209005765/en/Iris-Dating-Integrates-ChatGPT-AI-Technology-to-Create-Engaging-and-Authentic-Profile-Bios/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--Iris Dating, the next-generation dating app that utilizes artificial intelligence to predict mutual attraction, announces the integration of ChatGPT into its platform. This integration will allow the app to generate highly personalized and compelling bios for its users, that truly reflect their unique personalities and interests, elevating their dating experience to new heights. The integration of ChatGPT represents a major step forward in personalizing the dating exp
+
+
+***
+![Google engineer develops ‘Gita GPT'. It references Bhagavad Gita to answer questions](https://www.hindustantimes.com/ht-img/img/2023/02/10/1600x900/GG_1676013346179_1676013351146_1676013351146.png "Google engineer develops ‘Gita GPT'. It references Bhagavad Gita to answer questions")
+
+
+[Google engineer develops ‘Gita GPT'. It references Bhagavad Gita to answer questions](https://www.hindustantimes.com/technology/google-engineer-develops-gita-gpt-it-references-bhagavad-gita-to-answer-questions-101676013356176.html)
+
+
+> In the season of OpenAI's ChatGPT and other similar chatbots, a Software Development Engineer (SDE) working with Google has developed what he says is a ‘Bhagvat Gita' chatbot, and named it 'Gita GPT.' Sukuru Sai Vineet, a BITS Pilani alumnus and an entrepreneur, came up with the concept on Jan 28, and the chatbot was up the same day. making Bhagvad Gita chatbot with vector embeddings for maximum proliferation of Dharma 🕉️ — Vineet (@SaiVineet2) January 27, 2023 https://t.co/v6svUZ3PWV — Vineet (@SaiVineet2) January 28, 2023 Here's what Gita GPT does: (1.
+
+
+***
+[Autel continues its rapid expansion of DC Chargers with France being the first country with DC Compact installed and in operation](http://www.businesswire.com/news/home/20230210005007/en/Autel-continues-its-rapid-expansion-of-DC-Chargers-with-France-being-the-first-country-with-DC-Compact-installed-and-in-operation/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NICE, France--(BUSINESS WIRE)--Autel had its latest electric vehicle charger the MaxiCharger DC Compact successfully installed in France, marking the debut of the product in Europe.
+
+
+***
+![WhatsApp Status becomes more interesting, gets a bunch of new features](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/10/2571886-whatsapp.png "WhatsApp Status becomes more interesting, gets a bunch of new features")
+
+
+[WhatsApp Status becomes more interesting, gets a bunch of new features](https://www.dnaindia.com/technology/photo-gallery-whatsapp-status-becomes-more-interesting-gets-a-bunch-of-new-features-3022668)
+
+
+> These WhatsApp Status updates have started rolling out to users globally and will be available to everyone in the coming weeks. DNA Web Team   |   Feb 10, 2023, 10:46 AM IST WhatsApp is the most used messaging platform across the globe and over the years, the company has added several features that makes the platform a lot more than just a messaging app. The introduction of Instagram Story-like feature called WhatsApp Status helped the messaging platform to get a more social media-like approach.
+
+
+***
+[Dassault Systèmes' 3DEXPERIENCE World 2023: Connecting Emotion, Innovation and Creation for a More Sustainable World](http://www.businesswire.com/news/home/20230210005016/en/Dassault-Syst%C3%A8mes%E2%80%99-3DEXPERIENCE-World-2023-Connecting-Emotion-Innovation-and-Creation-for-a-More-Sustainable-World/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> VELIZY-VILLACOUBLAY, France--(BUSINESS WIRE)-- #3DEXPERIENCE--Dassault Systèmes (Euronext Paris: FR0014003TT8, DSY.PA) (Paris:DSY) today announced that 3DEXPERIENCE World 2023, its annual event dedicated to the 3DEXPERIENCE Works and SOLIDWORKS community, will gather thousands of designers, engineers, entrepreneurs, makers and business leaders in Nashville, Tennessee February 12-15 to learn, imagine, celebrate and collaborate. More than 10,000 people are expected to attend the event on-site and online.
+
+
+***
+![Kit Harington's pregnant wife Rose Leslie bundles up in a black coat and tracksuit](https://i.dailymail.co.uk/1s/2023/02/08/00/67440181-11725019-image-a-26_1675816120723.jpg "Kit Harington's pregnant wife Rose Leslie bundles up in a black coat and tracksuit")
+
+
+[Kit Harington's pregnant wife Rose Leslie bundles up in a black coat and tracksuit](https://247newsaroundtheworld.com/tvshowbiz/kit-haringtons-pregnant-wife-rose-leslie-bundles-up-in-a-black-coat-and-tracksuit/)
+
+
+> Rose Leslie bundled up for a casual stroll on Tuesday, days after her husband Kit Harington revealed the pair were expecting. The actor, 36, made the happy announcement during an appearance on The Tonight Show with Jimmy Fallon. And showing her face for the first time since the announcement, Rose, 35, cut a casual figure as she made her way through London. Dressed up warm, she covered up in a long black coat and added a comfy pair of blue tracksuit trousers. Underneath, she sported a casual green jumper and added a matching hat to her look.
+
+
+***
+![Asia Earnings Week Ahead: Adani Enterprises, StanChart, Lenovo](http://www.bnnbloomberg.ca/polopoly_fs/1.1882010!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-pedestrian-walks-past-signage-illuminated-inside-a-standard-chartered-plc-bank-branch-at-night-in-hong-kong-china-on-thursday-july-25-2019-standard-chartered-is-scheduled-to-release-interim-earnings-results-on-aug-1-photographer-paul-yeung-bloomberg.jpg "Asia Earnings Week Ahead: Adani Enterprises, StanChart, Lenovo")
+
+
+[Asia Earnings Week Ahead: Adani Enterprises, StanChart, Lenovo](https://www.bloomberg.com/news/articles/2023-02-10/asia-earnings-week-ahead-adani-enterprises-stanchart-lenovo)
+
+
+> (Bloomberg) -- Investors are keen to seek clarity from companies during earnings releases on their exposure to Adani Group, as the selloff roiling Indian billionaire Gautam Adani's indebted conglomerate entered a third week and wiped out almost half of the market value of its companies. Banks will need to increase reserves set aside for their credit exposure to Adani-related entities due to the conglomerate's spread widening, according to Bloomberg Intelligence analysts Pri De Silva and Adrian Sim.
+
+
+***
+![CEO Weekends: Nokia X2 Now available In Ghana](https://techmoran.com/wp-content/uploads/2014/08/nkx2.jpg "CEO Weekends: Nokia X2 Now available In Ghana")
+
+
+[CEO Weekends: Nokia X2 Now available In Ghana](https://techmoran.com/2014/08/29/ceo-weekends-nokia-x2-now-available-ghana/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![Yahoo to lay off more than 20% of staff](https://cdn.jagonews24.com/media/imgAllNew/BG/2019November/yahoo-20230210123758.jpg "Yahoo to lay off more than 20% of staff")
+
+
+[Yahoo to lay off more than 20% of staff](https://www.jagonews24.com/en/tech/news/66755)
+
+
+> Yahoo said on Thursday it plans to lay off more than 20% of its total workforce as part of a major restructuring of its ad tech division. The cuts will impact nearly 50% of Yahoo's ad tech employees by the end of this year, including nearly 1,000 employees this week, the company said. Yahoo, which is owned by private equity firm Apollo Global Management since a $5 billion buyout in 2021, added that the move would enable the company to narrow its focus and investment on its flagship ad business called DSP, or demand-side platform.
+
+
+***
+![Realme 10 Pro Coca-Cola Edition Launching Today in India: Check Where, When, How to Watch Live Stream and What to Expect From Upcoming Phone](https://english.cdn.zeenews.com/sites/default/files/2023/02/10/1151881-untitled-design-2023-02-10t113550.079.jpg "Realme 10 Pro Coca-Cola Edition Launching Today in India: Check Where, When, How to Watch Live Stream and What to Expect From Upcoming Phone")
+
+
+[Realme 10 Pro Coca-Cola Edition Launching Today in India: Check Where, When, How to Watch Live Stream and What to Expect From Upcoming Phone](https://zeenews.india.com/technology/realme-10-pro-coca-cola-edition-launching-today-in-india-check-where-when-how-to-watch-live-stream-and-what-to-expect-from-upcoming-phone-2571704.html)
+
+
+> New Delhi:  Today, Realme will introduce the Coca-Cola variant of the Realme 10 Pro in India. Today at 12:30 pm, an event will announce the smartphone. The back of the special edition phone will feature a dual-tone pattern. The words "Realme" and "Coca-Cola" will be embedded on the back of the smartphone in the recognisable black and red Coca-Cola colour scheme. When, Where, and How to Watch the Live Stream of Realme 10 Pro Coca-Cola Edition Launch Event The Realme 10 Pro Coca-Cola edition will be introduced at an event today, as was already stated.
+
+
+***
+![Musk praises the Galaxy S23 Ultra's high image quality](https://prostomob.com/wp-content/uploads/2023/02/elon-musk-galaxy-s23-ultra-main.jpg "Musk praises the Galaxy S23 Ultra's high image quality")
+
+
+[Musk praises the Galaxy S23 Ultra's high image quality](https://www.world-today-news.com/musk-praises-the-galaxy-s23-ultras-high-image-quality/)
+
+
+> Marques Browngli from the United States, whose YouTube channel has 16.6 million subscribers, showed how the Galaxy S23 Ultra takes 100x pictures of the moon. According to the video blogger, he does not know who might need the 100x zoom feature. However, her work is impressive. Details To show the high quality of the Galaxy S23 Ulta, Browngli took a photo of the natural satellite of the Earth on the iPhone 14 Pro Max camera. The video posted by the blogger on Twitter was commented by Elon Musk. An American businessman wrote 'Wow!' under it.
+
+
+***
+![Saudi's LEAP23 bags honour of world's largest tech event based on visits](https://gulfbusiness.com/wp-content/uploads/2023/02/LEAP23-welcomes-172000-plus-attendees-to-become-worlds-largest-technology-event-by-visits.jpg "Saudi's LEAP23 bags honour of world's largest tech event based on visits")
+
+
+[Saudi's LEAP23 bags honour of world's largest tech event based on visits](https://gulfbusiness.com/leap23-bags-honour-of-worlds-largest-tech-event/)
+
+
+> Leap23, the technology event in Riyadh, has confirmed 172,000 attendees this year, making it the world's largest technology event by attendance, according to its organisers. The four-day event saw an unprecedented 300,000-plus visitor registration from more than 100 countries and welcomed a faculty of 1,000 global investors – up from 350 last year. Comprising major investor groups, sovereign wealth funds, private family groups, major venture capital, and private equity funds focused on technology, Leap23's investor faculty featured assets under management totalling $2tn.
+
+
+***
+![The building strategy of Pharaoh: A New Era will be in Czech](https://indian-tv.cz/uploads/og/4ebd2fd09c594e35889cf9df29f95ae5/1675933744.jpg "The building strategy of Pharaoh: A New Era will be in Czech")
+
+
+[The building strategy of Pharaoh: A New Era will be in Czech](https://www.world-today-news.com/the-building-strategy-of-pharaoh-a-new-era-will-be-in-czech/)
+
+
+> A remake of the iconic 1999 city-building strategy Faraon is coming. The game will be released digitally via Steam next week. So it's no wonder that Dotemu comes with eight-minute gameplay trailer. In it, we can see the redesigned graphics and gameplay. The video covers all the basics of building, from the usual gathering of resources and early construction to trading with nearby towns. Notice the redesigned user interface, which is supposed to simplify the work of building and managing the city.
+
+
+***
+![Why more startups are getting compliant](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-09-1453370.jpg "Why more startups are getting compliant")
+
+
+[Why more startups are getting compliant](http://www.businessghana.com/site/news/technology/279651/Why-more-startups-are-getting-compliant)
+
+
+> SaaS startups are working on acquiring enterprise clients earlier than they used to, and this is changing their road map. 'What I've seen is more and more companies are launching with table stakes enterprise features [ … ] whereas those used to be added in at closer to $5 million-$10 million in annual recurring revenue,' tweeted David Peterson, a partner at Angular Ventures. These must-have enterprise features may look like acronym soup at first, from SSO to SOC 2 and ISO 27001. But they actually come down to a fundamental need: trust.
+
+
+***
+![Blue Origin awarded its first NASA interplanetary launch contract for Mars mission](https://gumlet.assettype.com/bdnews-subsite%2Fimport%2Fwp-content%2Fuploads%2F2021%2F06%2Fbezos-rocket-290621-01.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fgumlet.assettype.com%2Fbdnews24-english%2F2023-02%2F45815cf8-94d0-429c-b90b-1cacdc26cfab%2Fbkash_05022023.jpg&overlay_position=bottom&overlay_width_pct=1 "Blue Origin awarded its first NASA interplanetary launch contract for Mars mission")
+
+
+[Blue Origin awarded its first NASA interplanetary launch contract for Mars mission](https://bdnews24.com/technology/8bx6wcpt9w)
+
+
+> New Glenn, with a reusable first stage designed to be flown on at least 25 missions, is named for pioneering NASA astronaut John Glenn, who became the first American to orbit Earth in 1962. Blue Origin has flown previous NASA missions with its smaller, suborbital New Shepard rocket, which can carry research payloads on short, microgravity trips to the edge of space and back. But ESCAPADE gives Blue Origin another line of business with a valuable government customer as Bezos' rocket company begins to compete with SpaceX, United Launch Alliance and other major players for flights to low-Earth orbit and beyond.
+
+
+***
+![Twitter says the basic tier of its API will cost $100 per month](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-09-14515501.jpg "Twitter says the basic tier of its API will cost $100 per month")
+
+
+[Twitter says the basic tier of its API will cost $100 per month](https://www.businessghana.com/)
+
+
+> A week after Twitter made the announcement about shutting down free access to the API, the company said today that it will charge $100 per month for the basic tier of API. This will get developers access to a 'low level of API usage' — without specifying what that exactly means — and the Ads API. The company had planned to shut down free access to its API on February 9, and now it has extended this deadline to February 13. But with no details available around API pricing restructuring and access levels, this extension seems symbolic as developers won't be able to plan their changes.
+
+
+***
+![Twitter Blue introduces 4,000 character tweets, says half ads coming soon](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-09-14504202.jpg "Twitter Blue introduces 4,000 character tweets, says half ads coming soon")
+
+
+[Twitter Blue introduces 4,000 character tweets, says half ads coming soon](https://www.businessghana.com/)
+
+
+> Twitter announced the ability to post longer tweets for paid users Wednesday. So instead of being limited to 280 characters, Blue subscribers can post tweets that are up to 4,000 characters long. The same limit applies to quote tweets and replies. Twitter said that along with long tweets people can post media like images or videos. While only Twitter Blue subscribers can post long tweets, all users will be able to read them. You will see only the first 280 characters on the timeline, and if you want to read more, you can click on 'Show more' as shown in the tweet below.
+
+
+***
+![Sonic Origins Plus rating pops up in Korea](https://gonintendo.com/attachments/image/23027/file/medium-b530830b5be13060f9b4861c85f24d0d.jpg "Sonic Origins Plus rating pops up in Korea")
+
+
+[Sonic Origins Plus rating pops up in Korea](https://gonintendo.com/contents/16090-sonic-origins-plus-rating-pops-up-in-korea)
+
+
+> Sonic Origins came to Switch in June 2022, and it packed in Sonic The Hedgehog, Sonic The Hedgehog 2, Sonic 3 & Knuckles, and Sonic CD in the newly remastered form. The collection also include new areas to explore, exclusive animations, a brand new anniversary mode and more. Now, 8 months after the original Sonic Origins, it seems SEGA has plans to expand things even further. The Game Rating and Administration Committee of Korea has just added a rating for Sonic Origins Plus to their website. Unfortunately, that's all the information we know at this time, as the rating doesn't include specific details on the title.
+
+
+***
+![Jae Crowder is worth 5! Why did the NBA trade madly send 'second-round draft picks' this season? – NBA – Basketball](https://www.idevice.ro/wp-content/uploads/2023/02/ATENTIONARE-CEC-Bank-Importanta-MAJORA-Clientii-Romani.jpg "Jae Crowder is worth 5! Why did the NBA trade madly send 'second-round draft picks' this season? – NBA – Basketball")
+
+
+[Jae Crowder is worth 5! Why did the NBA trade madly send 'second-round draft picks' this season? – NBA – Basketball](https://www.world-today-news.com/jae-crowder-is-worth-5-why-did-the-nba-trade-madly-send-second-round-draft-picks-this-season-nba-basketball/)
+
+
+> Just 2 days before the trade deadline, as many as 38 second-round picks were included in the trade package, and 44 from the beginning of this season, which is much more than in previous years. The way of use is even different. Some teams dropped 4-5 teams in one breath just to acquire a player. The Bucks paid 5 teams to the Nets because of Jae Crowder, and the Eagles also used 5 teams to grab the Pistons. Saddiq Bey , the Lakers Thomas Bryant also made the Nuggets willing to pull out 3. The NBA trading day is over! The Suns received Kevin Durant shockingly, and with a first-round pick and Russell Westbrook, the Lakers surprised D'Angelo Russell, Malik Beasley and other players, making them a big dark horse in the second half of the season! However, excluding player changes, another trend that cannot be ignored is the massive trade boom of 'second-round draft picks'.
+
+
+***
+![Each person has found a new cause that differs in whether or not they are infected with COVID-19: Dong-A Science](https://image.dongascience.com/Photo/2023/02/16759943994008.jpg "Each person has found a new cause that differs in whether or not they are infected with COVID-19: Dong-A Science")
+
+
+[Each person has found a new cause that differs in whether or not they are infected with COVID-19: Dong-A Science](https://www.world-today-news.com/each-person-has-found-a-new-cause-that-differs-in-whether-or-not-they-are-infected-with-covid-19-dong-a-science/)
+
+
+> There are people who are infected even if they are in the same space with a new coronavirus infection (COVID-19, Corona 19) confirmed person, and there are people who are not. When infected with COVID-19, the symptoms are different for each person. A team of Australian researchers has identified the cause of these differences in relation to COVID-19. A research team at the Charles Perkins Center at the University of Sydney in Australia found that the receptor protein (LRRC15) found in the lungs that causes Corona 19 prevents SARS-CoV-2, which causes Corona 19, from entering cells.
+
+
+***
+![How WarioWare Twisted! Embraces Profound Pointlessness](https://gonintendo.com/attachments/image/22545/file/medium-14b81007e5435737499bea5dc2257877.png "How WarioWare Twisted! Embraces Profound Pointlessness")
+
+
+[How WarioWare Twisted! Embraces Profound Pointlessness](https://gonintendo.com/contents/15832-how-warioware-twisted-embraces-profound-pointlessness)
+
+
+> A carrot floats in the void, suspended ominously above our instrument of execution: a flat iron grater, ready to tear it to pieces. Mimicking the rough, real-life movement of shredding food, we cradle our Game Boy Advance SPs and jiggle the handheld back and forth, harsh scrapes escaping its speakers as we observe the digital vegetable being reduced to nothing more than flakes ready for an elaborate dish. A swift process, yet a delicate one boring repetition into our skulls right up until a clump of orange specks lie still upon the tray.
+
+
+***
+![PagerDuty CIO: 'Automation is an organisation's friend when it comes to security'](https://www.siliconrepublic.com/wp-content/uploads/2023/02/Sesh_Tirumala_edited.png "PagerDuty CIO: 'Automation is an organisation's friend when it comes to security'")
+
+
+[PagerDuty CIO: 'Automation is an organisation's friend when it comes to security'](https://www.siliconrepublic.com/enterprise/sesh-tirumala-pagerduty)
+
+
+> PagerDuty's Sesh Tirumala speaks to SiliconRepublic.com about his role as CIO and the vital role of automation in digital transformation. Sesh Tirumala is the CIO of PagerDuty, a cloud computing company specializing in a SaaS incident response platform for IT departments. Prior to joining PagerDuty, he served as Divisional CIO at software company Cisco Systems. He then went on to serve as the CIO at Anaplan, where he oversaw IT and partnered closely with Anaplan's product, go-to-market, and business operations and systems teams.
+
+
+***
+![The Coca-Cola phone is a real thing, and absolutely stunning](https://www.digitaltrends.com/wp-content/uploads/2023/02/REalme-X-Coca-Cola-with-Drink.jpg?resize=1200%2C630&p=1 "The Coca-Cola phone is a real thing, and absolutely stunning")
+
+
+[The Coca-Cola phone is a real thing, and absolutely stunning](https://www.digitaltrends.com/mobile/realme-x-coca-cola-coke-phone-hands-on/)
+
+
+> You may have heard rumors about it, and now we can tell you: the Realme X Coca-Cola smartphone is a real thing , and we've had it in our hands. Contents The Coke phone Coke-themed software Beautiful presentation Following on from the brand's recent Naruto special edition , the Coca-Cola phone is a love letter to the world-famous soft drink, with the design leaning heavily into that iconic color scheme and instantly recognizable logo. It's truly special, and we're going to look at all the little details that make it so desirable.
+
+
+***
+![£107 bottle cages, enduro knee pads, street mtb shoes and a boozing or cruising jacket](https://images.immediate.co.uk/production/volatile/sites/21/2023/02/FotoJet-856c74f.jpg?quality=45&resize=620,413 "£107 bottle cages, enduro knee pads, street mtb shoes and a boozing or cruising jacket")
+
+
+[£107 bottle cages, enduro knee pads, street mtb shoes and a boozing or cruising jacket](https://www.bikeradar.com/features/first-look-friday/leatt-jacket-mtb-trail-3-0/)
+
+
+> The weekend is upon us, and a marked weather improvement shows some early signs that spring is here in the UK. While daffodils are yet to line our lanes, they are now in supermarkets, giving hope to those of us who are seasonally affected. Knowing the weather of our island nation is never promised, we've tested jackets galore, with reviews of Rapha's Core Rain II , Castelli's Perfetto RoS 2 , and Endura's MT500 Freezing Point going live this week. Alex Evans gave his thoughts on the fun-focused Santa Cruz 5010 CC X01 AXS RSV MX , which now features a mullet setup – as is the fashion in the mountain bike industry.
+
+
+***
+![Figure skating-Miura on top after Four Continents short programme, Kim leads women's event](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_02_2023_12_31_24_9782438.jpg?width=920&format=jpeg "Figure skating-Miura on top after Four Continents short programme, Kim leads women's event")
+
+
+[Figure skating-Miura on top after Four Continents short programme, Kim leads women's event](https://www.devdiscourse.com/article/technology/2350069-figure-skating-miura-on-top-after-four-continents-short-programme-kim-leads-womens-event)
+
+
+> Japanese teenager Kao Miura survived a shaky opening quadruple Salchow to lead the men's short programme at the Four Continents Figure Skating Championships in Colorado on Thursday, while South Korea's Kim Ye-lim was on top in the women's event. Skating to "Michelangelo 70" and "La Muerte del Angel", Miura launched into a triple axel before landing a massive quad-triple combination to earn 91.90 points, finishing ahead of retiring Canadian Keegan Messing and American Jimmy Ma. The 17-year-old, who won bronze last year, notched two podium finishes at Grand Prix events in the United States and Canada and rebounded in impressive fashion after finishing sixth at the Japan nationals.
+
+
+***
+![Details on the world, story and weapons in Atomic Heart](https://indian-tv.cz/uploads/og/020a09124f1c4533a6e59a1240beffe0/1675941485.jpg "Details on the world, story and weapons in Atomic Heart")
+
+
+[Details on the world, story and weapons in Atomic Heart](https://www.world-today-news.com/details-on-the-world-story-and-weapons-in-atomic-heart-2/)
+
+
+> Recent gameplay trailer from Atomic Heart pleased many a player longing for a frenetic first-person shooter with RPG elements. The crazy utopia of an alternative world after the Second World War looks really tempting. You will also be pleased with the new information revealed by development director Robert Bagratuni in an interview for SegmentNext. Atomic Heart je inspired by the works of great authors, such as George Orwell, Philip K. Dick, Isaac Asimov, Aldous Huxley and the Strugach brothers.
+
+
+***
+![Meta restores Facebook and Instagram accounts to Donald Trump  The World](https://static.dw.com/image/63772630_6.jpg "Meta restores Facebook and Instagram accounts to Donald Trump  The World")
+
+
+[Meta restores Facebook and Instagram accounts to Donald Trump  The World](https://www.world-today-news.com/meta-restores-facebook-and-instagram-accounts-to-donald-trump-the-world-d-w/)
+
+
+> Meta lifted this Thursday (02.09.2023) the veto, in force since January 2021, to Donald Trump's Facebook and Instagram social networks. However, and in the first moments after that decision, the candidate for the Republican primaries for the 2024 presidential elections has not yet written anything on these platforms. The restitution of the tycoon's accounts comes weeks after Meta announced that it would restore the former president's access after a two-year ban following his comments before, during and after the Capitol takeover on January 6, 2021.
+
+
+***
+!['Inheritance of Hogwarts' originally had a 'Quidditch' competition, but it was canceled and developed](https://img.4gamers.com.tw/news-image/bbc25cd4-ff69-48fc-b449-4c230618a069.jpg "'Inheritance of Hogwarts' originally had a 'Quidditch' competition, but it was canceled and developed")
+
+
+['Inheritance of Hogwarts' originally had a 'Quidditch' competition, but it was canceled and developed](https://www.world-today-news.com/inheritance-of-hogwarts-originally-had-a-quidditch-competition-but-it-was-canceled-and-developed-4gamers/)
+
+
+> Speaking of the most well-known competition in the 'Harry Potter' book, there is nothing more than 'Quidditch' riding a flying broomstick. This is naturally what many players look forward to playing in the game 'Hogwarts Legacy' (Hogwarts Legacy) Experience, however, that while you can ride a broomstick in the game, there is no Quidditch match to play. Yes, not long after the entrance ceremony started in the game 'Inheritance of Hogwarts', the principal announced that 'there will be no Quidditch competition this year', and the reason is that the students' competition caused serious injuries last year.
+
+
+***
+![Jammu and Kashmir: Major mineral discovery may make smartphones, electric vehicles cheaper in India](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/10/2571879-ev-charging.png "Jammu and Kashmir: Major mineral discovery may make smartphones, electric vehicles cheaper in India")
+
+
+[Jammu and Kashmir: Major mineral discovery may make smartphones, electric vehicles cheaper in India](https://www.dnaindia.com/technology/report-jammu-and-kashmir-major-mineral-discovery-may-make-smartphones-electric-vehicles-cheaper-in-india-3022659)
+
+
+> EV Charging In the last few years, governments across the country have introduced numerous schemes to push adoption of EVs in India. Finance Minister Nirmala Sitharam also announced several tax benefits to keep the prices of electric vehicles low. Now, EVs in India will soon get another major push as 5.9 million tonnes of lithium reserves have been discovered in India for the first time. For those who do not know, .Lithium is a non-ferrous metal and it is one of the key components for batteries used in electric vehicles.
+
+
+***
+![Apps Using DirectX Have Problems On Windows: Microsoft Confirms – Research Snipers](https://researchsnipers.com/wp-content/uploads/2022/10/AMD-Mini-PC-with-Windows-11-and-lots-of-power.jpg "Apps Using DirectX Have Problems On Windows: Microsoft Confirms – Research Snipers")
+
+
+[Apps Using DirectX Have Problems On Windows: Microsoft Confirms – Research Snipers](https://researchsnipers.com/apps-using-directx-have-problems-on-windows-microsoft-confirms)
+
+
+> Microsoft has confirmed a new issue with Windows 10 and Windows 11. The error, which affects all applications that use DirectX, first appeared with the release of KB5019980 – i.e. as early as November 2022. That's according to a new entry in the Windows Release Health Dashboard. We have translated the entry for you and added it to the end of this post. Microsoft confirms that there are problems with Intel graphics drivers and apps that use DirectX or Direct3D for rendering after the KB5019980 update for Windows 10 and Windows 11.
+
+
+***
+![Latest iPhone Price List Update February 2023: iPhone 11, iPhone SE 3, to iPhone 14 Pro Max](http://auto.24tv.ua/resources/photos/news/202302/43545b6d8d7e0-8ec2-4070-9b85-0a80e1bd7d0b.jpg "Latest iPhone Price List Update February 2023: iPhone 11, iPhone SE 3, to iPhone 14 Pro Max")
+
+
+[Latest iPhone Price List Update February 2023: iPhone 11, iPhone SE 3, to iPhone 14 Pro Max](https://www.world-today-news.com/latest-iphone-price-list-update-february-2023-iphone-11-iphone-se-3-to-iphone-14-pro-max/)
+
+
+> TRIBUNNEWS.COM – The following is an update on the latest iPhone price list as of February 2023 on iBox Indonesia. The official iBox Indonesia page still displays an Apple cellphone released four years ago, the iPhone 11. Apart from that, other Apple smartphones are also displayed, namely the 3rd generation iPhone SE, iPhone 12 series, iPhone 13 series, and the latest iPhone 14 series. monitoring Tribunnews.com, Friday (10/2/2023), the price for the iPhone 11 for a 64GB capacity sells for IDR 7,249,000.
+
+
+***
+![Fourth wave of Fire Emblem Engage icons available for Switch Online members](https://gonintendo.com/attachments/image/23026/file/medium-be77fc1ae8d677eda5a4a25af09ebbef.png "Fourth wave of Fire Emblem Engage icons available for Switch Online members")
+
+
+[Fourth wave of Fire Emblem Engage icons available for Switch Online members](https://gonintendo.com/contents/16089-fourth-wave-of-fire-emblem-engage-icons-available-for-switch-online-members)
+
+
+> Another series of iconic releases For the past few weeks now, Nintendo Switch Online members have been able to redeem their saved-up Platinum points for icon elements themed around the recently released Fire Emblem Engage. With the second wave coming to an end, the fourth wave of icon elements is now available. You can see some of the available elements above, featuring characters and backgrounds centered around Fire Emblem Engage. The characters will each cost 10 Platinum Points, with background and frames costing 5 Platinum Points each.
+
+
+***
+![Pikmin Bloom updated to Version 63.1](https://gonintendo.com/attachments/image/23025/file/medium-a4d46b0b6ca38008cd3ae925b2efd712.jpg "Pikmin Bloom updated to Version 63.1")
+
+
+[Pikmin Bloom updated to Version 63.1](https://gonintendo.com/contents/16088-pikmin-bloom-updated-to-version-63-1)
+
+
+> Pikmin Bloom has been updated to Version 63.1. You can see the patch notes for this update below. New flower planting accelerator! Use it to temporarily double your flower planting speed. More details in the flower planting screen Feed your Pikmin from the Pikmin list. Tap on 'Select Squad' to see the nectar icon Feed your Pikmin in the Pikmin details screen in the garden and lifelog You can now send postcards and gift packs to your friends in the mushroom battle Other improvements and bug fixes modal#open commentUpvoteInfoModal.
+
+
+***
+![Machine 'physics' scavenger 4-person cooperative clearing game 'PixelJunk' will land on major consoles within this year-Hong Kong mobile game network GameApps.hk](https://image.gameapps.hk/images/202302/10/ebf0af463fe4dd64.jpg "Machine 'physics' scavenger 4-person cooperative clearing game 'PixelJunk' will land on major consoles within this year-Hong Kong mobile game network GameApps.hk")
+
+
+[Machine 'physics' scavenger 4-person cooperative clearing game 'PixelJunk' will land on major consoles within this year-Hong Kong mobile game network GameApps.hk](https://www.world-today-news.com/machine-physics-scavenger-4-person-cooperative-clearing-game-pixeljunk-will-land-on-major-consoles-within-this-year-hong-kong-mobile-game-network-gameapps-hk/)
+
+
+> 'PixelJunk Scrappers Deluxe' is a 'clearance' action game that supports four players. You become a robot scavenger squad 'Scrappers' and strive to clean up the dirty city of the near future. Sweep the streets alone, or form the ultimate squad of up to four players. In Garbage City, time is money, so you can pile up garbage in your hands and throw it to your teammates to improve efficiency and win better rewards. Trash removal is only part of the job! You will encounter attacks and interference from hostile robots, so please scrap them together without affecting your productivity.
+
+
+***
+![Roscosmos head Borisov: Russia can supply Iran with a "small run" of satellites](https://mf.b37mrtl.ru/russian/images/2023.02/article/63e5e0efae5ac9497c295b12.png "Roscosmos head Borisov: Russia can supply Iran with a "small run" of satellites")
+
+
+[Roscosmos head Borisov: Russia can supply Iran with a "small run" of satellites](https://www.tellerreport.com/tech/2023-02-10-roscosmos-head-borisov--russia-can-supply-iran-with-a-%22small-run%22-of-satellites.SJUczwm6o.html)
+
+
+> Roskosmos CEO Yuri Borisov said Russia could supply Iran with a "small run" of satellites. 'We have good ties with Iran. We launched a satellite for them last August. There is a prospect for a small circulation of such satellites,' Borisov told RIA Novosti. He noted that the state corporation has plans for similar cooperation with Angola, Algeria, Vietnam and the Arab world. Earlier it was reported that since October 2018, Roscosmos has performed 100 accident-free launches of space ro 'We have good ties with Iran.
+
+
+***
+![The second Avatar broke the Czech record! It has the highest sales in history](https://www.moviezone.cz/obr/ZmJTaGFyZS8yNjYyMDU "The second Avatar broke the Czech record! It has the highest sales in history")
+
+
+[The second Avatar broke the Czech record! It has the highest sales in history](https://www.world-today-news.com/the-second-avatar-broke-the-czech-record-it-has-the-highest-sales-in-history/)
+
+
+> James Cameron has done it again. That from the second Avatar will probably be a huge hit, almost everyone guessed that he would still manage to cross the $2 billion mark again (!), that he would go down in history as the only contemporary filmmaker who made 3 two-billion-dollar films (!!) (yes, three out of four the most successful in history), and above all that even in our country he will drive crowds of people into crowded halls in order to grab the record highest grossing picture in the history of Czech sales (!!!), that required either a really high-quality crystal ball or a rock-solid belief that nothing could stop Iron Jim.
+
+
+***
+![X proofs that you are ready for a professional poker tournament – Research Snipers](https://researchsnipers.com/wp-content/uploads/2023/02/image-18.png "X proofs that you are ready for a professional poker tournament – Research Snipers")
+
+
+[X proofs that you are ready for a professional poker tournament – Research Snipers](https://researchsnipers.com/x-proofs-that-you-are-ready-for-a-professional-poker-tournament)
+
+
+> Six Signs You're Ready for a Professional Poker Tournament Go Pro – Becoming a Professional Poker Player Many people consider playing poker for a living a dream come true. Poker is an intriguing career choice because of the independence it provides and the nearly limitless money possibility. The grass, however, is not always greener on the opposite side. Being a professional poker player entails many difficulties. Leaving the security of regular work for the unpredictability of playing cards to make ends meet is not a decision to be taken lightly.
+
+
+***
+![ChatGPT Can Pass US Medical Licensing Exam: Study](https://english.cdn.zeenews.com/sites/default/files/2023/02/10/1151864-untitled-design-2023-02-10t105009.581.jpg "ChatGPT Can Pass US Medical Licensing Exam: Study")
+
+
+[ChatGPT Can Pass US Medical Licensing Exam: Study](https://zeenews.india.com/technology/chatgpt-can-pass-us-medical-licensing-exam-study-2571689.html)
+
+
+> New Delhi:  ChatGPT can score at or around the roughly 60 percent passing threshold for the United States Medical Licensing Exam (USMLE), with responses that make coherent, internal sense and contain frequent insights, according to a study by Tiffany Kung, Victor Tseng, and colleagues at AnsibleHealth that was published February 9, 2023, in the open-access journal PLOS Digital Health. A large language model (LLM), or new artificial intelligence (AI) system, called ChatGPT is intended to produce writing that resembles that of a person by anticipating future word sequences.
+
+
+***
+![WhatsApp seeks to surprise its users with these two new features](https://www.mdtech.news/u/fotografias/m/2023/1/30/f1280x720-15813_147488_5050.jpeg "WhatsApp seeks to surprise its users with these two new features")
+
+
+[WhatsApp seeks to surprise its users with these two new features](https://www.world-today-news.com/whatsapp-seeks-to-surprise-its-users-with-these-two-new-features/)
+
+
+> Whatsapp It continues to seek to innovate with its functions, and this time it revealed everything that it is working on to continue positioning itself as one of the most chosen messaging applications in the world. According to new reports from the company, WhatsApp is working on two features that could make the popular messaging app even more useful for all of its users. The first feature is the ability to schedule calls with members of the same group, while the second is the ability to transcribe voice memos.
+
+
+***
+![ChatGPT wins hearts, 78% of Indians fall for love letters written by AI](https://kalingatv.com/wp-content/uploads/2023/02/cyberattacks-via-ChatGPT.jpg "ChatGPT wins hearts, 78% of Indians fall for love letters written by AI")
+
+
+[ChatGPT wins hearts, 78% of Indians fall for love letters written by AI](https://kalingatv.com/technology/chatgpt-wins-hearts-78-of-indians-fall-for-love-letters-written-by-ai/)
+
+
+> By KalingaTV Bureau Last updated Feb 10, 2023 0 McAfee has published a report on the effects of artificial intelligence (AI) on communication, even in intimate matters. The study, which was called 'Modern Love,' polled 5,000 people in nine countries, including India. The results showed that 78% of Indians couldn't tell the difference between a love letter written by an AI tool called ChatGPT and one written by a human. Of all the countries surveyed, 62% of Indian adults plan to use AI to write their love letters for Valentine's Day.
+
+
+***
+![Dragon Quest series producer Ryota Aomi announces departure from Square Enix](https://gonintendo.com/attachments/image/23020/file/medium-b100eeaff3a53b5c759fe94031fa9f0b.png "Dragon Quest series producer Ryota Aomi announces departure from Square Enix")
+
+
+[Dragon Quest series producer Ryota Aomi announces departure from Square Enix](https://gonintendo.com/contents/16085-dragon-quest-series-producer-ryota-aomi-announces-departure-from-square-enix)
+
+
+> Dragon Quest series producer Ryota Aomi took to Twitter to announce that he's left Square Enix. You can see a portion of his departure message below, as translated by Gematsu . 'I, [Ryota] Aomi, have left Square Enix. I apologize to everyone for this sudden announcement. I've been at Square Enix for 13 years, and have worked on Dragon Quest for 16 years including the development period at my last job. [Working on] Dragon Quest was a dream of mine since elementary school. Every day was truly another tale.
+
+
+***
+![Windows 11 has a serious bug again, causing Intel PC users to frantically bomb program crash messages](https://cdn2.xfastest.com.hk/2023/02/windows11main.jpg "Windows 11 has a serious bug again, causing Intel PC users to frantically bomb program crash messages")
+
+
+[Windows 11 has a serious bug again, causing Intel PC users to frantically bomb program crash messages](https://www.world-today-news.com/windows-11-has-a-serious-bug-again-causing-intel-pc-users-to-frantically-bomb-program-crash-messages/)
+
+
+> Basically, every Windows system update or upgrade by Microsoft, or even a repair update, will bring various bugs, and this time is no exception, and it is the Intel users who are affected for the first time. In Tuesday's Patch Day, Microsoft pushed a series of repair updates for Win11 and Win10. However, after the KB5022360 update, some users reported that the program would crash and an error message 'apphelp.dll is missing' would pop up. The problem of this bug is not minor, and it will happen frequently after the update, but all the users who have been tricked have installed Intel software, and no AMD users have been affected.
+
+
+***
+![My Nintendo Metroid Prime Remastered Sweepstakes Announced](https://gonintendo.com/attachments/image/23019/file/medium-e536bc96f3a7ef512c118c3dd1b5f520.png "My Nintendo Metroid Prime Remastered Sweepstakes Announced")
+
+
+[My Nintendo Metroid Prime Remastered Sweepstakes Announced](https://gonintendo.com/contents/16084-my-nintendo-metroid-prime-remastered-sweepstakes-announced)
+
+
+> May the best bounty hunter win The My Nintendo Metroid Prime Remastered Sweepstakes is officially open, and there's a chance for you to win all sorts of goodies! Enter for a chance to win an out-of-this-world prize pack! My Nintendo members can redeem 10 My Nintendo Platinum Points to enter, with up to 3 entries total. Ten lucky winners will be picked. The prizes included in this sweepstakes are as follows: Metroid Prime Remastered metal panel: Be the envy of Metroid fans everywhere with this stunning wall art featuring Samus Aran from the Metroid Prime Remastered game for the Nintendo Switch system.
+
+
+***
+![The Quintessential Quintuplets: Gotopazu Story hits Switch in Japan on May 25th, 2023](https://gonintendo.com/attachments/image/23018/file/medium-3507e2cd477067bcf2d55729da69556c.png "The Quintessential Quintuplets: Gotopazu Story hits Switch in Japan on May 25th, 2023")
+
+
+[The Quintessential Quintuplets: Gotopazu Story hits Switch in Japan on May 25th, 2023](https://gonintendo.com/contents/16083-the-quintessential-quintuplets-gotopazu-story-hits-switch-in-japan-on-may-25th-2023)
+
+
+> Gotopazu, the October 27, 2020-released smartphone game based on The Quintessential Quintuplets, comes to consoles in the form of memorial stories. The console version is developed by MAGES., developers of The Quintessential Quintuplets ∬: Summer Memories Also Come in Five and The Quintessential Quintuplets the Movie: Five Memories of My Time with You. It features the first year's worth of memorial stories from Gotopazu for all five quintuplets, fully voiced across 24 volumes. There are also over 500 illustrations.
+
+
+***
+![What everyone is adding to cart this February](https://imageresizer.static9.net.au/niOYUu0jVU67NXfKL1H3dOLQX4o=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd2f5d620-239f-4da4-beae-1af478164b07 "What everyone is adding to cart this February")
+
+
+[What everyone is adding to cart this February](https://www.nine.com.au/product-reviews/deals/best-deals-of-the-week-what-people-are-buying-february/26efab65-b739-4b41-abe4-b782a3437f81)
+
+
+> A new month means a whole new bunch of interesting, useful and highly anticipated products have been added to our shopping carts. From a Samsung new release and school supplies, to a few little extras to up our game like workout equipment and makeup, these are some of the most popular items Aussie households are buying right now. NOTE: Prices are accurate at time of publishing. ECOVACS DEEBOT N8+ Robot Vacuum Cleaner (9Product Reviews) Discounted to $1,099 When one of the best robot vacuums on the market is not only discounted by $400, but has an additional $250 coupon available, not much can top that.
+
+
+***
+![Reasons Xiaomi 13 Pro Makes You Doubt Buy Galaxy S23](https://utro-novosti.ru/upload//upload/news/564293785911.jpg "Reasons Xiaomi 13 Pro Makes You Doubt Buy Galaxy S23")
+
+
+[Reasons Xiaomi 13 Pro Makes You Doubt Buy Galaxy S23](https://www.world-today-news.com/reasons-xiaomi-13-pro-makes-you-doubt-buy-galaxy-s23/)
+
+
+> Editor CNBC Indonesia Tech Friday, 10/02/2023 12:30 WIB Jakarta, CNBC Indonesia – Xiaomi 13 Pro was introduced in China in December 2022. After two months, the flagship HP is scheduled to be released for the global market on February 26. Presumably, this cellphone will be a serious rival to the Galaxy S23 series, which was inaugurated by Samsung on February 2, 2022. In terms of photography, the Xiaomi 13 Pro uses a triple camera setup that is equally jumbo. Each quality 50MP (main), 50MP (ultrawide), and 50MP (telephoto).
+
+
+***
+![⚡Paytm Launches Special G20-Theme QR Code Celebrating India's Presidency](https://st1.latestly.com/wp-content/uploads/2023/02/70-1-1.jpg "⚡Paytm Launches Special G20-Theme QR Code Celebrating India's Presidency")
+
+
+[⚡Paytm Launches Special G20-Theme QR Code Celebrating India's Presidency](https://www.latestly.com/quickly/technology/paytm-launches-special-g20-theme-qr-code-celebrating-india-s-presidency-4822568.html)
+
+
+> One97 Communications Limited that owns leading payments and financial services company Paytm, on Friday launched a special G20-theme, QR Code to celebrate India's presidency of the inter-governmental forum and the country's leadership in mobile payments.
+
+
+***
+![Reddit discloses security breach: what you need to know](https://www.ghacks.net/wp-content/uploads/2023/02/reddit-security-incident-phishing.png "Reddit discloses security breach: what you need to know")
+
+
+[Reddit discloses security breach: what you need to know](https://www.ghacks.net/2023/02/10/reddit-discloses-security-breach-what-you-need-to-know)
+
+
+> Reddit disclosed a security breach today on the site stating that a malicious actor managed to gain access to internal servers. The company became aware of a phishing campaign that targeted Reddit employees specifically on February 5, 2023. The campaign used "plausible sounding prompts" to get employees of the site to a phishing website that looked like the company's intranet gateway. Employees who entered their login credentials on that fake website would provide the attackers with the credentials and also second-factor tokens.
+
+
+***
+![Oh Baby Games: The first web3 game platform based on the encryption community](https://g.api.no/obscura/API/dynamic/r1/ece5/tr_2000_2000_s_f/1675879392000/nett/2023/2/8/19/NTB_Vxsp4R7c1jw.jpg?chk=C2246F "Oh Baby Games: The first web3 game platform based on the encryption community")
+
+
+[Oh Baby Games: The first web3 game platform based on the encryption community](https://www.world-today-news.com/oh-baby-games-the-first-web3-game-platform-based-on-the-encryption-community-anue-tycoon/)
+
+
+> Since Nintendo released the first version of the 'Mario Kart' game in 1992, the series has become the main product of the old Nintendo's social racing games. Due to its simple gameplay and combination with the classic character lineup in 'Mario', the series has now launched its eighth edition and has achieved great success, surpassing Electronic Arts' 'Need for Speed' series to become the best-selling kart of all time game. But for more than 20 years, there has been no major innovation in karting games, and it is difficult to attract more racing game fans.
+
+
+***
+![Mac Mini and Imac display](https://images.macrumors.com/social/?t=2380267&v=6 "Mac Mini and Imac display")
+
+
+[Mac Mini and Imac display](https://forums.macrumors.com/threads/mac-mini-and-imac-display.2380267/)
+
+
+> Hi all Purchased a 2014 Mac Mini running Monterey and a 2014 Thunderbolt 2 display. Also have a 2017 27" Imac running Monterey. Would like to have 2 monitors for each. The Imac can be a 2nd display for the Mini using a Thunderbolt 2 to Thunderbolt 3 display cable. If the T2 display is plugged in to the mac Mini, can it be a 2nd display for the Imac? If I run 1 cable from the the T2 port on the T2 display to the T3 port on the Imac, will it work for both configurations? Thanks for any help
+
+
+***
+![HPE announces new Riyadh headquarters for Middle East region](https://gulfbusiness.com/wp-content/uploads/2023/02/ekrem-osmanoglu-Uor3RZNHZ9E-unsplash-1.jpg "HPE announces new Riyadh headquarters for Middle East region")
+
+
+[HPE announces new Riyadh headquarters for Middle East region](https://gulfbusiness.com/hpe-announces-new-riyadh-headquarters/)
+
+
+> Hewlett Packard Enterprise (HPE) has announced the launch of its new Middle East organisation with its headquarters in Riyadh. The new organisation is led by Mohammad Alrehaili, who is responsible for HPE's operations in Saudi Arabia, Qatar, Oman, Kuwait, Bahrain, Egypt, Jordan, Lebanon, Libya, Iraq and Yemen. Alrehaili joined HPE in 2022 as the managing director for Saudi Arabia, where he was tasked with driving business growth, expanding the talent pool and delivering an innovation agenda. Read: HPE hires Mohammad Alrehaili as managing director for Saudi Arabia and the Gulf Based at the new Riyadh headquarters, Alrehaili will be responsible for building a culture of collaboration across the Middle East and into the global organisation.
+
+
+***
+![How Improving Video Technology Could Change The Way We Travel](https://images.augustman.com/wp-content/uploads/sites/2/2023/02/09173511/travel-1.jpg "How Improving Video Technology Could Change The Way We Travel")
+
+
+[How Improving Video Technology Could Change The Way We Travel](https://www.augustman.com/sg/gear/tech/how-improving-video-technology-could-change-the-way-we-travel)
+
+
+> A slew of new video technologies means you soon might not need to step onto a crowded airplane. Logitech is reportedly working on a next-generation video-calling booth called Project Ghost that's designed to make it feel like you are sitting in the same room as the person you are chatting with. Experts say that high-tech video calls and other gadgets may further reduce the appeal of stale airline peanuts and high gas prices. 'When the pandemic hit in 2020, businesses were forced to adapt when people were unable to meet in person, and many tech and software companies took the opportunity to develop solutions that continue to make working from anywhere possible,' Kristen Goldberg, the director of marketing for electronics manufacturer Canon USA, told Lifewire in an email interview.
+
+
+***
+![Unlocked Samsung Galaxy A51 5G is receiving Android 13-based One UI 5.0 in the US](https://fdn.gsmarena.com/imgroot/news/23/02/unlocked-samsung-galaxy-a51-5g-us-android-13-one-ui-5-update/-952x498w6/gsmarena_001.jpg "Unlocked Samsung Galaxy A51 5G is receiving Android 13-based One UI 5.0 in the US")
+
+
+[Unlocked Samsung Galaxy A51 5G is receiving Android 13-based One UI 5.0 in the US](https://www.gsmarena.com/unlocked_samsung_galaxy_a51_5g_android_13_one_ui_5_update_usa-news-57503.php)
+
+
+> Samsung began rolling out the Android 13-based One UI 5.0 stable update for the Galaxy A51 5G last year, which is now seeding for the unlocked Galaxy A51 5G units in the US. The update comes with firmware version A516U1UEU8FWA4 and brings the usual One UI 5.0 goodies to the Galaxy A51 5G. You can read our One UI 5.0 review to learn more about it. However, instead of the February 2023 Android security patch, the One UI 5.0 update comes with the dated December 2022 security patch. That said, if you live in the US and haven't received the One UI 5.
+
+
+***
+![Google Bard AI gets fact-checked: The story behind the $100 billion mistake](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/sundai_pichai_google_0-sixteen_nine.jpg "Google Bard AI gets fact-checked: The story behind the $100 billion mistake")
+
+
+[Google Bard AI gets fact-checked: The story behind the $100 billion mistake](https://www.businesstoday.in/technology/news/story/google-bard-ai-gets-fact-checked-the-story-behind-the-100-billion-mistake-369743-2023-02-10)
+
+
+> Google's new AI chatbot, Bard, has gotten off to a rocky start after its first demo resulted in a factual error. The bot was announced on Monday as a rival to OpenAI's ChatGPT and was set to become "more widely available to the public in the coming weeks." In a demo shared by Google, Bard was asked about new discoveries from the James Webb Space Telescope and replied with three bullet points, including a statement that the telescope "took the very first pictures of a planet outside of our own solar system.
+
+
+***
+![Google unveils Android 14; list of smartphones that can download the developer preview](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/android_android14dpi_1024x512-sixteen_nine.png "Google unveils Android 14; list of smartphones that can download the developer preview")
+
+
+[Google unveils Android 14; list of smartphones that can download the developer preview](https://www.businesstoday.in/technology/news/story/google-unveils-android-14-list-of-smartphones-that-can-download-the-developer-preview-369742-2023-02-10)
+
+
+> Google has just announced the release of the first developer preview of Android 14, the latest version of its popular mobile operating system. The announcement was made in a blog post by Dave Burke, VP of Engineering at Google.  The release of the Android 14 developer preview marks the beginning of the next phase in the evolution of the Android platform and offers a glimpse into the new features and improvements that users can expect to see in the final release later this year. One of the biggest changes in Android 14 is the continuing work on privacy features that give users more control over their data.
+
+
+***
+![Hogwarts Legacy: A Demanding Delivery Quest Guide](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/completing-a-demading-delivery-quest-in-hogwarts-legacy.jpg "Hogwarts Legacy: A Demanding Delivery Quest Guide")
+
+
+[Hogwarts Legacy: A Demanding Delivery Quest Guide](https://gamerant.com/hogwarts-legacy-a-demanding-delivery-quest-guide/)
+
+
+> Table of contents Completing side quests in Hogwarts Legacy can reward players with some valuable prizes. It's important to do them since some side quests grant much more than what a main quest can get them. For these types of quests, players have to properly explore each area and every corner. Hogwarts Legacy has a huge open world that offers its wizards and witches a surely entertaining adventure. One of the best places to visit is Hogsmeade, where people can enjoy its vast option of stores that offer many useful utilities.
+
+
+***
+![Garena Free Fire Max redeem codes February 10, 2023: Claim free rewards](https://images.livemint.com/img/2023/02/10/600x338/Garena_Free_Fire_Max_1672112204136_1676006258681_1676006258681.webp "Garena Free Fire Max redeem codes February 10, 2023: Claim free rewards")
+
+
+[Garena Free Fire Max redeem codes February 10, 2023: Claim free rewards](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-february-10-2023-claim-free-rewards-11676006119351.html)
+
+
+> Garena Free Fire Max redeem codes for February 10, 2023 are now available. The daily codes are 12 digit alphanumeric numbers consisting of capital letters and numbers. The multiplayer battle royale game is an enhanced version of Free Fire. It debuted in 2021 after the Indian government banned Free Fire in the country. The daily codes allow players to win in-game items like weapons, diamonds, skins and more using these daily codes. Developers of the Garena Free Fire Max game keep updating these codes daily.
+
+
+***
+![Google Is Working To Make Chrome's Picture-In-Picture Mode Display All Web Content, Not Just Videos](https://images.news18.com/ibnlive/uploads/2023/02/google-chrome-111-167600597116x9.jpg "Google Is Working To Make Chrome's Picture-In-Picture Mode Display All Web Content, Not Just Videos")
+
+
+[Google Is Working To Make Chrome's Picture-In-Picture Mode Display All Web Content, Not Just Videos](https://www.news18.com/news/tech/google-is-working-to-make-chromes-picture-in-picture-mode-display-all-web-content-not-just-videos-7043767.html)
+
+
+> Chrome beta 111 introduces a new and improved picture-in-picture feature that now displays any web content, not just videos, in a floating window that stays on top of other windows. 'The Document Picture-in-Picture API makes it possible to open an always-on-top window that can be populated with arbitrary HTML content. It extends the existing Picture-in-Picture API for video that only allows an HTML video element to be put into a Picture-in-Picture window,' said François Beaufort, a Chromium developer.
+
+
+***
+![Bank of London Secures $40M in Extension to Series C Funding](https://www.crowdfundinsider.com/wp-content/uploads/2021/10/Cavalary-of-the-Empire-Statue-Park-London-UK.jpeg "Bank of London Secures $40M in Extension to Series C Funding")
+
+
+[Bank of London Secures $40M in Extension to Series C Funding](https://www.crowdfundinsider.com/2023/02/202298-bank-of-london-secures-40m-in-extension-to-series-c-funding)
+
+
+> The Bank of London, the 'next-generation' technology company and the world's first purpose-built global clearing, agency, and transaction bank, announced it has raised $40M, in an extension to its Series C funding, 'bringing the company's total raise to $160M.' This investment round follows The Bank of London's $90M Series C round, 'which completed in the fourth quarter of 2021, demonstrating the company's significant investor interest and growth trajectory.' Anthony Watson, Group Chief Executive & Founder of The Bank of London, said: 'With the Bank of England's Prudential Regulation Authority lifting the mobilization restrictions to our licence, The Bank of London is now officially the 6th principal clearing bank of the United Kingdom and only the second to launch in 250 years.
+
+
+***
+![TikTok Fires All Indian Employees, Announces 9-Month Severance Pay: Report](https://imgeng.jagran.com/images/2023/feb/TikTok1676006194112.jpg "TikTok Fires All Indian Employees, Announces 9-Month Severance Pay: Report")
+
+
+[TikTok Fires All Indian Employees, Announces 9-Month Severance Pay: Report](https://english.jagran.com/technology/tiktok-fires-all-indian-employees-announces-9month-severance-pay-report-10064536)
+
+
+> By Ashish Singh Fri, 10 Feb 2023 10:41 AM (IST) TIKTOK, a popular social media platform owned by Chinese technology company ByteDance has reportedly fired all the Indian staff, three years after the application was banned in India over security reasons. The employees were working for the Brazilian and Dubai markets. India was the second largest user base for the application at the time it was banned by the government of India. The parent company ByteDance tried its best to have a conversation to make a comeback in India but it seems that has not worked well for the company.
+
+
+***
+![What Is a Motherboard? Definition, Types, Components, and Functions](https://pimages.toolbox.com/wp-content/uploads/2023/02/10044719/Picture-of-a-motherboard.jpg "What Is a Motherboard? Definition, Types, Components, and Functions")
+
+
+[What Is a Motherboard? Definition, Types, Components, and Functions](https://www.spiceworks.com/tech/hardware/articles/what-is-motherboard/)
+
+
+> A motherboard is a circuit board inside general-purpose computing systems, including personal computers, smart televisions, smart monitors, and other similar devices, which supports communication between different electrical components and houses components such as the CPU, memory, etc.  It is typically made of fiberglass and copper.  This article defines a motherboard and explains its components and functions. A computer's motherboard is typically the largest printed circuit board in a machine's chassis.
+
+
+***
+![Former US President Donald Trump's Facebook and Instagram pages restored](https://www.financialexpress.com/wp-content/uploads/2023/02/donald-trump.webp "Former US President Donald Trump's Facebook and Instagram pages restored")
+
+
+[Former US President Donald Trump's Facebook and Instagram pages restored](https://www.financialexpress.com/life/technology-former-us-president-donald-trumps-facebook-and-instagram-pages-restored-2977398/)
+
+
+> Facebook and Instagram pages belonging to former US President Donald Trump have been restored. Andy Stone, policy communications director at Meta, has confirmed the development, NBC News reported. The reinstatement had been expected after Facebook's president of global affairs Nick Clegg in January said that the suspension will be lifted, as per the news report. Trump's accounts on Facebook and Instagram were suspended by Meta after January 6, 2021, Capitol riot. The ban was announced initially as an indefinite ban that included the last two weeks of his presidency, as per the NBC News report.
+
+
+***
+![Dragon Quest series producer Ryota Aomi leaves Square Enix](https://www.gematsu.com/wp-content/uploads/2023/02/Ryota-Aomi-Leaves-Square-Enix_02-09-23.jpg "Dragon Quest series producer Ryota Aomi leaves Square Enix")
+
+
+[Dragon Quest series producer Ryota Aomi leaves Square Enix](https://www.gematsu.com/2023/02/dragon-quest-series-producer-ryota-aomi-leaves-square-enix)
+
+
+> Dragon Quest series producer Ryota Aomi has left Square Enix , he announced on Twitter. 'I, [Ryota] Aomi, have left Square Enix,' Aomi said in a message. 'I apologize to everyone for this sudden announcement.' He continued, 'I've been at Square Enix for 13 years, and have worked on Dragon Quest for 16 years including the development period at my last job. [Working on] Dragon Quest was a dream of mine since elementary school. Every day was truly another tale.' Before he was officially hired by Square Enix in 2013, Aomi worked at Genius Sonority , where he was a planner on Dragon Quest Swords: The Masked Queen and the Tower of Mirrors .
+
+
+***
+![Google announces more AI-enabled updates amid rising competition from Microsoft](https://cdn.zeebiz.com/sites/default/files/2023/02/10/226557-googleians.jpg "Google announces more AI-enabled updates amid rising competition from Microsoft")
+
+
+[Google announces more AI-enabled updates amid rising competition from Microsoft](https://www.zeebiz.com/technology/news-google-share-price-announces-more-ai-updates-competition-from-microsoft-search-maps-translate-221560)
+
+
+> Google has announced a number of artificial intelligence-enabled updates across its products, including Search, Maps, and Translate, amid rising competition from Microsoft, which is also integrating AI into its suite of solutions. "In the coming months, you will be able to use Lens to search your screen on Android globally. With this technology, you can search what you see in photos or videos across the websites and apps, like messaging and video apps without having to leave the app or experience," Google said in a blogpost on Wednesday.
+
+
+***
+![ChatGPT, Bing, Bard: How AI search engines became the next big tech arms race](https://static.ffx.io/images/$zoom_0.1839%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_brisbanetimes_no_label_no_age_social_wm/26f1d4fce1b692c94eb4e3867ce6359375b8c08e "ChatGPT, Bing, Bard: How AI search engines became the next big tech arms race")
+
+
+[ChatGPT, Bing, Bard: How AI search engines became the next big tech arms race](https://www.smh.com.au/technology/how-ai-search-engines-became-the-next-big-tech-arms-race-20230209-p5cj8h.html)
+
+
+> In January, Microsoft said it would invest $US10 billion ($14.4 billion) in OpenAI, on top of a prior investment, promising new AI tools for consumers and enterprise. Then on February 1, it announced the first of these: models powered by GPT that would sit in on Teams video calls, keeping track of who said what to whom, generating summaries, mailing out to-do lists and making personalised recaps. It also said AI features were coming soon to virtually all its productivity software, including Office.
+
+
+***
+![WhatsApp lets users easily record videos hands-free!](https://kalingatv.com/wp-content/uploads/2022/10/WhatsApp-faces-global-outage-including-India.jpg "WhatsApp lets users easily record videos hands-free!")
+
+
+[WhatsApp lets users easily record videos hands-free!](https://kalingatv.com/technology/whatsapp-lets-users-easily-record-videos-hands-free-on-ios-beta/)
+
+
+> By KalingaTV Bureau Last updated Feb 10, 2023 0 San Francisco: Meta-owned messaging platform WhatsApp is reportedly rolling out a new camera mode which will allow users to easily record videos hands-free on iOS beta. This feature is rolling out to some beta testers after installing the latest WhatsApp beta for iOS 23.3.0.74 update from the TestFlight app, reports WABetaInfo. Users are now able to switch to video mode easily with just a tap and they don't need to tap and hold to record videos hands-free.
+
+
+***
+![Hogwarts Legacy how to fast travel, Floo Flames](https://www.theloadout.com/wp-content/sites/theloadout/2023/02/hogwarts-legacy-how-to-fast-travel.jpg "Hogwarts Legacy how to fast travel, Floo Flames")
+
+
+[Hogwarts Legacy how to fast travel, Floo Flames](https://www.theloadout.com/hogwarts-legacy/how-to-fast-travel)
+
+
+> Find out how to fast travel in Hogwarts Legacy so you can get around the castle and surrounding areas quicker and easier than walking or flying Joe Apsey Published: Feb 9, 2023 Hogwarts Legacy Utilising Hogwarts Legacy fast travel is incredibly important as you play through the game. The world Avalanche have created is incredibly vast and going around on foot isn't optimal and you will likely get bored, despite the fact that the world looks great. So, in this guide, we will touch on Hogwarts Legacy fast travel, how to do it, and exactly what the Floo Flames are.
+
+
+***
+![China space station crew completes spacewalk](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/11_04_2022_12_37_25_1782849.jpg?width=920&format=jpeg "China space station crew completes spacewalk")
+
+
+[China space station crew completes spacewalk](https://www.devdiscourse.com/article/technology/2349943-china-space-station-crew-completes-spacewalk)
+
+
+> PTI | Beijing | Updated: 10-02-2023 10:19 IST | Created: 10-02-2023 10:18 IST The crew of China's orbiting space station has completed the first of several planned spacewalks of their six-month mission, pushing such activities into the realm of routine for the country's astronauts. The China Manned Space Agency said that, during Friday's seven-hour extra-vehicular activity, Fei Junlong and Zhang Lu carried out a number of tasks, including installing extension pumps outside the Mengtian laboratory module.
+
+
+***
+![Google gears up, announces AI-updates to counter Microsoft's ChatGPT challenge](https://data1.ibtimes.co.in/en/full/781652/what-bard-googles-answer-chatgpt-arrives-intensifies-conversational-ai-race-details.jpg "Google gears up, announces AI-updates to counter Microsoft's ChatGPT challenge")
+
+
+[Google gears up, announces AI-updates to counter Microsoft's ChatGPT challenge](https://www.ibtimes.co.in/google-gears-announces-ai-updates-counter-microsofts-chatgpt-challenge-856574)
+
+
+> What is Bard: Google's answer to ChatGPT arrives; intensifies conversational AI race [details] Google has announced a number of artificial intelligence-enabled updates across its products, including Search, Maps, and Translate, amid rising competition from Microsoft, which is also integrating AI into its suite of solutions. "In the coming months, you will be able to use Lens to search your screen on Android globally. With this technology, you can search what you see in photos or videos across the websites and apps, like messaging and video apps without having to leave the app or experience," Google said in a blogpost on Wednesday.
+
+
+***
+![Faced with the United States, the EU considers a 'targeted' easing of state aid](https://s.france24.com/media/display/81fc4792-a8fb-11ed-94a4-005056a90284/w:1280/p:16x9/2023-02-10T024803Z_1669198649_RC228Z9V3IHI_RTRMADP_3_EU-SUMMIT.JPG "Faced with the United States, the EU considers a 'targeted' easing of state aid")
+
+
+[Faced with the United States, the EU considers a 'targeted' easing of state aid](https://www.tellerreport.com/tech/2023-02-10-faced-with-the-united-states--the-eu-considers-a-%E2%80%9Ctargeted%E2%80%9D-easing-of-state-aid.HJlyz3SQTo.html)
+
+
+> In order not to be crushed by American competition, the European executive wishes to give more flexibility to Member States in granting aid to companies in the ecological transition sector,… Faced with massive American subsidies, the leaders of the Twenty-Seven opened the way on Friday February 10 to further relaxation of the rules on public aid in the European Union (EU), but in a "targeted, temporary and proportionate" way to avoid fragmentation of the single market. In terms of State aid, "the procedures must be made simpler, faster and more predictable", and "allow the rapid deployment of targeted, temporary and proportionate support (.
+
+
+***
+![Meta completes virtual reality deal after US court win](https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/02/04/meta.jpg "Meta completes virtual reality deal after US court win")
+
+
+[Meta completes virtual reality deal after US court win](https://www.tbsnews.net/tech/meta-completes-virtual-reality-deal-after-us-court-win-582898)
+
+
+> Facebook-owner Meta finalized its buyout of virtual reality firm Within Unlimited, the VR company's chief executive said, after a court rejected an attempt by US regulators to block the deal over competition concerns. A spokesperson for the Federal Trade Commission told AFP on Thursday that it would not appeal the February 1 decision. The courtroom loss was seen as a setback for FTC head Lina Kahn, who has been an advocate of imposing tougher scrutiny on Big Tech companies on antitrust matters.
+
+
+***
+![Did you know ChatGPT can (almost) pass US Medical Licensing Exam?](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_02_2023_04_38_38_2587786.jpg?width=920&format=jpeg "Did you know ChatGPT can (almost) pass US Medical Licensing Exam?")
+
+
+[Did you know ChatGPT can (almost) pass US Medical Licensing Exam?](https://www.devdiscourse.com/article/technology/2349937-did-you-know-chatgpt-can-almost-pass-us-medical-licensing-exam)
+
+
+> ChatGPT can score at or around the roughly 60 per cent passing threshold for the United States Medical Licensing Exam (USMLE), with responses that make coherent, internal sense and contain frequent insights, according to a study by Tiffany Kung, Victor Tseng, and colleagues at AnsibleHealth that was published February 9, 2023, in the open-access journal PLOS Digital Health. A large language model (LLM), or new artificial intelligence (AI) system, called ChatGPT is intended to produce writing that resembles that of a person by anticipating future word sequences.
+
+
+***
+![Bard, Bing and Baidu: How big techs AI race will transform searches](https://bsmedia.business-standard.com/_media/bs/img/article/2018-09/20/full/1537464849-8275.jpg?im=Resize,width=480 "Bard, Bing and Baidu: How big techs AI race will transform searches")
+
+
+[Bard, Bing and Baidu: How big techs AI race will transform searches](https://www.business-standard.com/article/technology/bard-bing-and-baidu-how-big-tech-s-ai-race-will-transform-searches-123021000311_1.html)
+
+
+> PRI GEN INT .SYDNEY FGN6 TECH-AI Bard, Bing and Baidu: how big tech's AI race will transform search and all of computing Toby WalshProfessor of AI at UNSW, Research Group Leader, UNSW Sydney Sydney, Feb 10 (The Conversation) Today, if you want to find a good moving company, you might ask your favourite search engine Google, Bing, or DuckDuckGo perhaps for some advice. After wading past half a page of adverts, you get a load of links to articles on moving companies. You click on one of the links and finally read about how to pick a good 'un.
+
+
+***
+![SpaceX test fires Starship booster in milestone for debut orbital launch](https://th-i.thgim.com/public/incoming/ipi8wd/article66492523.ece/alternates/LANDSCAPE_1200/SpaceX_Starship_Test_12512.jpg "SpaceX test fires Starship booster in milestone for debut orbital launch")
+
+
+[SpaceX test fires Starship booster in milestone for debut orbital launch](https://www.thehindu.com/sci-tech/technology/spacex-test-fires-starship-booster-milestone-debut-orbital-launch/article66492519.ece)
+
+
+> February 10, 2023 10:06 am | Updated 10:06 am IST - WASHINGTON File photo of the test firing of the Starship Booster | Photo Credit: AP SpaceX's towering Super Heavy booster, one half of the company's Starship rocket system, briefly roared to life for the first time on Thursday in a test-firing that puts the behemoth moon and Mars vehicle closer to its first orbital flight in the coming months, a company live stream showed. Thirty-one of the Super Heavy booster's 33 Raptor rocket engines fired for roughly 10 seconds at SpaceX's south Texas rocket facilities, the company's Chief Executive Elon Musk tweeted shortly after the test.
+
+
+***
+![Android 13 arrives for Samsung Galaxy A51 5G in the US](https://m-cdn.phonearena.com/images/article/145502-wide-two_1200/Android-13-arrives-for-Samsung-Galaxy-A51-5G-in-the-US.jpg "Android 13 arrives for Samsung Galaxy A51 5G in the US")
+
+
+[Android 13 arrives for Samsung Galaxy A51 5G in the US](https://www.phonearena.com/news/samsung-galaxy-a51-5g-android-13-update_id145502)
+
+
+> Introduced nearly three years ago, the Galaxy A51 5G is getting its last major update, Android 13. Truth be told, the phone received the Android 13 update back in December , but customers in the United States were skipped from the initial rollout. Thankfully, it took Samsung just two months to bring the update across the pond, so if you're still rocking a Galaxy A51 5G , you should check your phone for a new update. SamMobile reports that unlocked versions of the phone in the US qualify for Android 13.
+
+
+***
+![Embracing the Age Of Hyperpersonalisation in Banking](https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/01/Embracing-the-Age-Of-Hyperpersonalisation-in-Banking.jpg?x64868 "Embracing the Age Of Hyperpersonalisation in Banking")
+
+
+[Embracing the Age Of Hyperpersonalisation in Banking](https://fintechnews.sg/69038/cloud/embracing-the-age-of-hyperpersonalisation-in-banking/)
+
+
+> Over the past few years banks are waking up to the importance of hyperpersonalisation by investing heavily in data analytics and cloud technologies to deliver tailored products and services in a bid to retain their customers' loyalty. Fintech News Singapore spoke with experts from Microsoft, Red Hat, digital bank group Tyme, Philippines' UNO Digital Bank, HSBC, Brunei's Baiduri Bank as well as banking software provider Temenos on how banks have readily embraced hypersonalisation strategies to fend off competition from bigtechs and fintechs alike.
+
+
+***
+![Bard, Bing and Baidu: how big tech's AI race will transform search – and all of computing](https://static.theprint.in/wp-content/uploads/2018/07/cropped-512x512-32x32.png "Bard, Bing and Baidu: how big tech's AI race will transform search – and all of computing")
+
+
+[Bard, Bing and Baidu: how big tech's AI race will transform search – and all of computing](https://theprint.in/world/bard-bing-and-baidu-how-big-techs-ai-race-will-transform-search-and-all-of-computing/1364789/)
+
+
+> Sydney, Feb 10 (The Conversation) Today, if you want to find a good moving company, you might ask your favourite search engine – Google, Bing, or DuckDuckGo perhaps – for some advice. After wading past half a page of adverts, you get a load of links to articles on moving companies. You click on one of the links and finally read about how to pick a good 'un. But not for much longer. In a major reveal this week, Google announced plans to add its latest AI chatbot, LaMDA, to the Google search engine.
+
+
+***
+![TikTok fires entire India staff, 40 remaining employees given pink slips 3 years after ban](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/2023-01-23t135418z_635316833_rc291w9y9xrl_rtrmadp_3_rugby-union-nations-sixteen_nine.jpg "TikTok fires entire India staff, 40 remaining employees given pink slips 3 years after ban")
+
+
+[TikTok fires entire India staff, 40 remaining employees given pink slips 3 years after ban](https://www.businesstoday.in/technology/news/story/tiktok-fires-entire-india-staff-40-remaining-employees-given-pink-slips-3-years-after-ban-369737-2023-02-10)
+
+
+> The Bytedance-owned social media app TikTok has fired its entire India staff of around 40 people on Monday. Employees at the India office were mostly working for the Brazil and Dubai markets. The decision has not been a big surprise as TikTok was banned in India about three years ago. "We have taken the decision to close our India remote sales support hub, which was put in place at the end of 2020 to provide support to our global and regional sales teams. We greatly appreciate these employees and their impact on our company, and will ensure they are supported at this difficult time.
+
+
+***
+![Reddit Suffers Security Breach Exposing Internal Documents and Source Code](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEjWhZzte5oxcr5WPMzo0O5iDeG3IHtBWdOQVpTNN-_GwlBPveFfpvgReN3fqT1RIBxyaKf2gPi0Y2KVUyUNlLMCcT3ySXsqiPGvK8rGKjrkxUH4qhkUtZbK4sYH0nWURo_PrNCXYEnl00gS7Yri73sh91j4o3Y4NRrOojYeLuornD8n55uFobwfZBdj/s728-e3650/reddit.png "Reddit Suffers Security Breach Exposing Internal Documents and Source Code")
+
+
+[Reddit Suffers Security Breach Exposing Internal Documents and Source Code](https://thehackernews.com/2023/02/reddit-suffers-security-breach-exposing.html)
+
+
+> Popular social news aggregation platform Reddit has disclosed that it was the victim of a security incident that enabled unidentified threat actors to gain unauthorized access to internal documents, code, and some unspecified business systems. The company blamed it on a "sophisticated and highly-targeted phishing attack" that took place on February 5, 2023, targeting its employees. The attack entailed sending out "plausible-sounding prompts" that redirected to a website masquerading as Reddit's intranet portal in an attempt to steal credentials and two-factor authentication (2FA) tokens.
+
+
+***
+![Donald Trump's Instagram And Facebook Accounts Restored Ahead Of 2024 US Elections; Details Inside](https://imgeng.jagran.com/images/2023/feb/Donald Trump 1676003494564.jpg "Donald Trump's Instagram And Facebook Accounts Restored Ahead Of 2024 US Elections; Details Inside")
+
+
+[Donald Trump's Instagram And Facebook Accounts Restored Ahead Of 2024 US Elections; Details Inside](https://english.jagran.com/technology/donald-trumps-instagram-and-facebook-accounts-restored-ahead-of-2024-us-elections-details-inside-10064527)
+
+
+> By Ashish Singh Fri, 10 Feb 2023 09:57 AM (IST) Ahead of the 2024 United States elections, the California-based technology giant Meta has restored the Facebook and Instagram accounts of former US President Donald Trump. The comeback of his accounts on social media was confirmed by Andy Stone, Policy Communications Director Of Meta. Notably, Trump has recently got his Twitter account back as well. The reinstatement was expected, as Facebook's head of global affairs, Nick Clegg, announced in January that the suspension would be lifted.
+
+
+***
+![TikTok shuts down India operations, sacks all employees](https://images.livemint.com/img/2023/02/10/600x338/TikTok_1676001823229_1676001823506_1676001823506.JPG "TikTok shuts down India operations, sacks all employees")
+
+
+[TikTok shuts down India operations, sacks all employees](https://www.livemint.com/technology/tech-news/tiktok-sacks-entire-india-staff-report-11676001745604.html)
+
+
+> Chinese video app TikTok has reportedly fired its entire Indian workforce. According to a report by the Economic Times, the ByteDance-owned application has given pink slips to 40 people this week after a call. The daily mentioned that a severance pay of nine months would be given to the employees. Citing a source, ET said that TikTok employees in India were told that 28 February would be their last day in the company. And, were given feelers to look out for other opportunities for some time as it was conveyed that restarting operation in India was not going to take off because of government's stance on Chinese apps".
+
+
+***
+![What is the Indian connection of Mira Murati, CTO of ChatGPT creator OpenAI?](https://www.hindustantimes.com/ht-img/img/2023/02/10/1600x900/MM_1676001260893_1676001269565_1676001269565.png "What is the Indian connection of Mira Murati, CTO of ChatGPT creator OpenAI?")
+
+
+[What is the Indian connection of Mira Murati, CTO of ChatGPT creator OpenAI?](https://www.hindustantimes.com/technology/what-is-the-indian-connection-of-mira-murati-cto-of-chatgpt-creator-openai-101676000651341.html)
+
+
+> ChatGPT, a conversational chatbot developed by the San Francisco-based OpenAI, has taken the world by storm since being launched in November last year. Now, however, experts have started to raise concerns over the potential dangers associated with ChatGPT. In an interview, Mira Murati, the Chief Technology Officer (CTO) of the company, too, expressed concerns over potential misuse of the chatbot. 'Artificial intelligence (AI) can be misused, or it can be used by bad actors. So then, there are questions about how you govern the use of this technology globally.
+
+
+***
+![Warzone 2 Combat Records will finally launch with Season 2](https://cdn.oneesports.gg/cdn-data/2023/02/MWII-S02-warzone-2-combat-records.jpg "Warzone 2 Combat Records will finally launch with Season 2")
+
+
+[Warzone 2 Combat Records will finally launch with Season 2](https://www.oneesports.gg/call-of-duty/warzone-2-combat-record-leaderboard/)
+
+
+> The wait is nearly over for the Warzone 2 Combat Records and Leaderboard system. The long-awaited feature will allow players to view their stats within the game, a feature that was already implemented in Call of Duty: Modern Warfare 2 with Season 1. The system was expected to come with the Season 1 Reloaded update back on December 14, but it was later revealed the feature would be pushed back . Activision Blizzard cited the 'accuracy of the data population' as the reason for the delay. After an image of the Warzone 2 Combat Records screen was recently leaked on Twitter , Activision Blizzard confirmed and announced the feature's launch officially as February 15, coinciding with the release of Season 2.
+
+
+***
+![Mission Accomplished: ISRO SSLV D2 Successfully Places 3 Small Satellites In Orbit](https://images.news18.com/ibnlive/uploads/2022/08/sslv-d1-loss-165986656116x9.jpg "Mission Accomplished: ISRO SSLV D2 Successfully Places 3 Small Satellites In Orbit")
+
+
+[Mission Accomplished: ISRO SSLV D2 Successfully Places 3 Small Satellites In Orbit](https://www.news18.com/news/tech/mission-accomplished-isro-sslv-d2-successfully-places-3-small-satellites-in-orbit-7043209.html)
+
+
+> The Indian Space Research Organisation (ISRO) announced another successful mission. ISRO chairman S. Somanath said that three small satellites successfully separated and were injected into orbit. ISRO's new launch vehicle SSLV D2 placed all three satellites in orbit accurately. ISRO had launched three small satellites powered by its SSLV-D2 launch vehicle from Satish Dhawan Space Centre at Sriharikota on February 10, 2023 at 09:18 AM IST. The launch vehicle was carrying EOS-07, Janus-1 & AzaadiSAT-2 satellites and aimed to inject them into a 450 km circular orbit.
+
+
+***
+![Get the latest Realme GT Neo 5 (240W) for $599 on Giztop](https://www.gizmochina.com/wp-content/uploads/2023/02/Screenshot-2023-02-10-094048.jpg "Get the latest Realme GT Neo 5 (240W) for $599 on Giztop")
+
+
+[Get the latest Realme GT Neo 5 (240W) for $599 on Giztop](https://www.gizmochina.com/2023/02/10/get-the-latest-realme-gt-neo-5-240w-for-599-on-giztop)
+
+
+> Realme GT Neo 5 (240W) the latest smartphone from Realme is now available on Giztop. You can buy the phone for a starting price of $599 only. The phone comes in classic White and Black color options. WHERE TO BUY at $599 @Giztop Realme GT Neo 5 (240W) For more information on such exciting deals and offers check out our deals hub. Realme GT Neo 5 (240W) features a 6.74 inch 1.5K OLED display with a 144Hz refresh rate and 1000Hz touch sampling rate with a peak brightness of 1300 nits. Powered by the Qualcomm Snapdragon 8 Plus Gen 1 Octa-core processor, the phone comes with 16GB LPDDR5X RAM and 256GB / 1TB UFS 3.
+
+
+***
+![Fortnite leak shows three upcoming Augments in Chapter 4 Season 1](https://staticc.sportskeeda.com/editor/2023/02/f9e71-16759719573895-1920.jpg "Fortnite leak shows three upcoming Augments in Chapter 4 Season 1")
+
+
+[Fortnite leak shows three upcoming Augments in Chapter 4 Season 1](https://www.sportskeeda.com/fortnite/rumor-fortnite-leak-shows-three-upcoming-augments-chapter-4-season-1)
+
+
+> Fortnite Chapter 4 Season 1 is halfway complete, and there are several new items and weapons in the game to make the Battle Royale experience much more exciting. The latest update that arrived in the game brought several quests for players to complete, as well as a brand new School of Llama where players can win free cosmetics based on The Witcher. Epic Games continues to add new Augments to Fortnite with each major update, much to the delight of players who enjoy being able to alter their gameplay style.
+
+
+***
+![Samsung's SSIR sign MoU to set up 'IoT Innovation Lab' in K'taka polytechnic colleges](https://data1.ibtimes.co.in/en/full/781775/samsung.jpg "Samsung's SSIR sign MoU to set up 'IoT Innovation Lab' in K'taka polytechnic colleges")
+
+
+[Samsung's SSIR sign MoU to set up 'IoT Innovation Lab' in K'taka polytechnic colleges](https://www.ibtimes.co.in/samsungs-ssir-sign-mou-set-iot-innovation-lab-ktaka-polytechnic-colleges-856569)
+
+
+> Samsung Galaxy S23, S23 Plus first look and impressions The Department of Collegiate and Technical Education (DCTE), Karnataka and Samsung Semiconductor India Research (SSIR) signed an MoU on Thursday to set up 'Industrial Internet of Things Labs' (IoT Innovation Labs) in 35 Government Polytechnics across the State. The project costs Rs 1.52 crore and also includes setting up of AI labs in at least two institutions. The memorandum of understanding was signed in the presence of C.
+
+
+***
+![Meta restores Donald Trump's access to Facebook, Instagram](https://www.rappler.com/tachyon/2023/02/trump-facebook-account-reuters-scaled.jpg "Meta restores Donald Trump's access to Facebook, Instagram")
+
+
+[Meta restores Donald Trump's access to Facebook, Instagram](https://www.rappler.com/technology/meta-restores-donald-trump-access-facebook-instagram/)
+
+
+> TRUMP. Former US President Donald Trump announces that he will once again run for US president in the 2024 US presidential election during an event at his Mar-a-Lago estate in Palm Beach, Florida, US November 15, 2022 Jonathan Ernst/Reuters Trump's accounts are reinstated two years after the Capitol Hill riot in January 2021 Meta Platforms Inc. has restored former US President Donald Trump's access to Facebook and Instagram, Meta spokesperson Andy Stone confirmed on Thursday,  following a two-year suspension after the deadly Capitol Hill riot on January 6, 2021.
+
+
+***
+![Google releases unscheduled beta update for certain Pixel models](https://m-cdn.phonearena.com/images/article/145501-wide-two_1200/Google-releases-unscheduled-beta-update-for-certain-Pixel-models.jpg "Google releases unscheduled beta update for certain Pixel models")
+
+
+[Google releases unscheduled beta update for certain Pixel models](https://www.phonearena.com/news/Google-releases-unscheduled-beta-update-for-certain-Pixel-models_id145501)
+
+
+> If you're a member of the Android 13 QPR2 Beta program, your last update came just before the start of February. That means that you were stuck with the January security patch. Those on the stable path (meaning that they are not subscribed to the beta program) received the February security patch when they were sent the latest update last Monday. But since those running Android 13 QPR2 Beta 3 on their Pixel still needed to get the February security patch, Google released Android 13 QPR2 Beta 3.
+
+
+***
+![How to completely delete your Venmo account](https://www.androidauthority.com/wp-content/uploads/2020/05/Venmo-app-on-phone-4.jpg "How to completely delete your Venmo account")
+
+
+[How to completely delete your Venmo account](https://www.androidauthority.com/delete-venmo-account-3281762/)
+
+
+> Venmo is a very popular and convenient tool for sending money to friends or making payments. Like with any other financial service, though, there are many reasons why people may want to leave the platform. Whatever the reason, today we'll show you how to delete your Venmo account for good. Read more: Is Venmo safe? The low-down on privacy and security for Venmo users Editor's note: We used a custom Windows PC running Windows 11 and a Pixel 7 Pro running Android 13 to come up with these instructions.
+
+
+***
+![The New Model from the Country's Leading Smartphone Brand Has a 100MP Camera](http://images.summitmedia-digital.com/esquiremagph/images/2023/02/10/OPPO%20Reno8%20T%20in%20Midnight%20Black%20and%20Sunset%20Orange%20(1).jpg "The New Model from the Country's Leading Smartphone Brand Has a 100MP Camera")
+
+
+[The New Model from the Country's Leading Smartphone Brand Has a 100MP Camera](https://www.esquiremag.ph/culture/tech/oppe-reno8-t-launch-philippines-a00203-20230210)
+
+
+> In case you didn't know, the leading mobile smartphone brand in the country in 2022 is Oppo. According to Statista, the Chinese consumer electronics company had a total market share of 18.72 percent, followed closely by fellow Chinese brand Vivo with 16.17 percent, and with 15.07 percent. (In case you were wondering, Apple was at number six with 10.43 percent, behind Realme and Xiaomi). The lead didn't diminish in the first month of 2023, with Oppo still outselling all the other brands with 19.
+
+
+***
+![Video: ChatGPT, Bard AI and the rise of the chatbots](https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_auto/t_brisbanetimes_no_label_no_age_social_wm/1de3c119613fa7a1fd50b1bfe9d509ee63e67e66 "Video: ChatGPT, Bard AI and the rise of the chatbots")
+
+
+[Video: ChatGPT, Bard AI and the rise of the chatbots](https://www.smh.com.au/technology/chatgpt-bard-ai-and-the-rise-of-the-chatbots-20230210-p5cjly.html)
+
+
+> ChatGPT, Bard AI and the rise of the chatbots We're sorry, this feature is currently unavailable. We're working to restore it. Please try again later.
+
+
+***
+![Student uses ChatGPT to write essay in just 20 minutes, gets passing grade](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/student_0-sixteen_nine-original.png "Student uses ChatGPT to write essay in just 20 minutes, gets passing grade")
+
+
+[Student uses ChatGPT to write essay in just 20 minutes, gets passing grade](https://www.indiatoday.in/technology/news/story/student-uses-chatgpt-to-write-essay-in-just-20-minutes-gets-passing-grade-2332875-2023-02-10)
+
+
+> Story highlights Student uses ChatGPT to write an essay. The AI bot wrote 2000 words in just 20 minutes. The essay by ChatGPT did pass but got just the passing marks. ChatGPT has literally taken the world by storm. So and so that even giants like Google and Microsoft are focusing to build their AI searches and competing to offer the best in artificial-intelligent backed search browsers. Developed by Open Source AI, ChatGPT can understand the context of searched queries better and provide more relevant and specific answers with human-like language.
+
+
+***
+![Regarding Mac Set Up after Erasing All Content and Settings](https://images.macrumors.com/social/?t=2380262&v=6 "Regarding Mac Set Up after Erasing All Content and Settings")
+
+
+[Regarding Mac Set Up after Erasing All Content and Settings](https://forums.macrumors.com/threads/regarding-mac-set-up-after-erasing-all-content-and-settings.2380262/)
+
+
+> Hi, I wanted to use the erase all content and features setting on my m1 air due to some suspicious behaviors, and I was just wondering if whether this was safe to do so due to the following circumstances. My school uses eduoram which is encrypted and secured wifi, but to get to this connection you have to first connect to the unencrypted http legacy network for it to prompt you to download an application that would essentially allow you to connect to the encrypted network. If I were to reset my mac, it would redownload mac os itself connected to the http legacy network upon setting it back up because I cant download the application to get on the encrypted network before the device is getting set up and the mac uses wifi to download the OS again.
+
+
