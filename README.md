@@ -2794,3 +2794,713 @@
 > The US Department of Transportation (DOT) is investigating Elon Musk's brain-chip startup, Neuralink, over concerns the company may have transported hazardous pathogens. Load Error A DOT spokesperson confirmed to Insider that the agency was looking into the issue on Thursday after an animal right group had sent a letter to Secretary of Transportation Pete Buttigieg. Reuters was the first to report the probe. "We have received the request from the Physicians Committee for Responsible Medicine, and we take these allegations very seriously," the spokesperson said.
 
 
+***
+![Fintech Firm Adyen Release H2 2022 Financial Results](https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look.jpeg "Fintech Firm Adyen Release H2 2022 Financial Results")
+
+
+[Fintech Firm Adyen Release H2 2022 Financial Results](https://www.crowdfundinsider.com/2023/02/202287-fintech-firm-adyen-release-h2-2022-financial-results)
+
+
+> Adyen (AMS: ADYEN) posts 'strong' results and sustained profitable growth 'driven by its global customer portfolio and motivated team executing on the company's long-term ambitions.' Summary H2 2022 Processed volume 'was €421.7 billion, up 41% year-on-year.' Of these volumes, point-of-sale volumes 'were €67.6 billion, up 62% year-on-year' Net revenue was €721.7 million, up 30% year-on-year EBITDA of €372.0 million, up 4% year-on-year, with EBITDA margin at 52% Free cash flow conversion ratio was 80%, with CapEx at 8% of net revenue Full Year 2022 Figures Processed volume was €767.
+
+
+***
+![Payment Service Providers Aren't Going Far Enough to Support Shift to E-Commerce: Report](https://www.crowdfundinsider.com/wp-content/uploads/2016/10/Path-Trail-Utah-Desert-Blue-Sky-Mesa-Scrub-Bush.jpg "Payment Service Providers Aren't Going Far Enough to Support Shift to E-Commerce: Report")
+
+
+[Payment Service Providers Aren't Going Far Enough to Support Shift to E-Commerce: Report](https://www.crowdfundinsider.com/2023/02/202285-payment-service-providers-arent-going-far-enough-to-support-shift-to-e-commerce-report)
+
+
+> A new insight report – The perfect payment partner? What merchants are looking for from their PSPs – from Banking Circle, the next generation technology-led Payments Bank, suggests that the services currently 'offered by Payment Service Providers aren't going far enough to support the shift to e-commerce.' The report, based on a survey of 900 merchants in the UK, Germany and Holland plus in-depth interviews 'with five C-suite officers from leading European and International PSPs, reveals that merchants are switching providers frequently to manage risk, access specialist services and get better pricing.
+
+
+***
+![AirPods Pro: Youtuber les puso un puerto USB-C [βίντεο]](https://techblog.gr/wp-content/uploads/2023/02/airpods-pro.jpg "AirPods Pro: Youtuber les puso un puerto USB-C [βίντεο]")
+
+
+[AirPods Pro: Youtuber les puso un puerto USB-C [βίντεο]](https://nuevoperiodico.com/airpods-pro-youtuber-les-puso-un-puerto-usb-c-%ce%b2%ce%af%ce%bd%cf%84%ce%b5%ce%bf)
+
+
+> Allá por 2021, concretamente en octubre, Ken Pilonel se hizo viral al sustituir el puerto Lighting de un iPhone X por un conector USB-C. Ahora, el ingeniero está dando el siguiente paso y está agregando un puerto USB-C funcional a los auriculares AirPods Pro de primera generación. El proceso involucró el desarrollo e impresión de una nueva placa de circuito con el conector USB-C y la impresión en 3D de una nueva carcasa de AirPods para adaptarse a la PCB personalizada. Para lograr los resultados deseados en su proyecto, se necesitaron muchos esfuerzos.
+
+
+***
+![The new Mac mini destroys the Mac Pro, and Apple fans should be furious](https://cdn.mos.cms.futurecdn.net/NSXLRXRSRXdBTvB73qE7m5-1200-80.jpg "The new Mac mini destroys the Mac Pro, and Apple fans should be furious")
+
+
+[The new Mac mini destroys the Mac Pro, and Apple fans should be furious](https://www.techradar.com/opinion/the-new-mac-mini-destroys-the-mac-pro-and-apple-fans-should-be-furious)
+
+
+> Apple's new Mac mini has been turning a lot of heads since it's release, and that's not the least bit surprising.  The Mac mini has always been a popular mini PC and with the introduction of the Apple M2 and M2 Pro chips, it is honestly the best computer you can buy that isn't running Windows — and if a new benchmark result is true, it's even better than some configurations of the 2019 Mac Pro that cost significantly more. A new video by Max Tech (opens in new tab) put the 2023 Mac Mini with M2 Pro head-to-head with Apple's 2019 workstation PC, and the results are both shocking and not a little infuriating for those who dropped the down payment on a house's worth of cash to buy Apple's premier workstation just three years ago.
+
+
+***
+![automatica returns for its second edition in 12 months](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/automatica-image-2.jpg "automatica returns for its second edition in 12 months")
+
+
+[automatica returns for its second edition in 12 months](https://roboticsandautomationnews.com/2023/02/10/automatica-returns-for-its-second-edition-in-12-months/60163/)
+
+
+> Just one year after returning from its unscheduled break, automatica – one of the world's leading exhibitions for smart automation and robotics – will be held again from June 27 to 30, 2023. This is due to a change in its rhythm. From now on, the international automation industry will meet at the Munich exhibition center in odd years, side by side with 'Laser World of Photonics – the World's Leading Trade Fair with Congress for Photonics Components, Systems and Applications'. Anja Schneider, exhibition director, is optimistic about the event coming up this summer: 'Our lives are increasingly affected by global challenges such as supply chain issues and lack of specialists.
+
+
+***
+![Check out another gameplay livestream for Grim Guardians: Demon Purge](https://gonintendo.com/attachments/image/23017/file/medium-95b966fb7de67e50c9d5e3c14e7f4748.webp "Check out another gameplay livestream for Grim Guardians: Demon Purge")
+
+
+[Check out another gameplay livestream for Grim Guardians: Demon Purge](https://gonintendo.com/contents/16082-check-out-another-gameplay-livestream-for-grim-guardians-demon-purge)
+
+
+> Grim Guardians: Demon Purge is right around the corner! The game is set to release on February 23rd, 2023, and in advance of the game's arrival, Inti Creates has shared another lengthy round of gameplay. This time around, we get a stream from the North American side of things, and it includes some Q&A with the team! Grim Guardians: Demon Purge will center around two demon-hunting sisters named Shinobu Kamizono and Maya Kamizono. Shinobu and Maya are students who, upon returning to school, find a demonic castle in its place.
+
+
+***
+![Ninjala Anime Episode 54 now available to stream](https://gonintendo.com/attachments/image/23016/file/medium-55fc51a7c587aa085ffc226e43b67023.jpg "Ninjala Anime Episode 54 now available to stream")
+
+
+[Ninjala Anime Episode 54 now available to stream](https://gonintendo.com/contents/16081-ninjala-anime-episode-54-now-available-to-stream)
+
+
+> Time to kick ass and chew bubble gum The newest episode of the Ninjala anime series has been released online, titled 'Lucy on the Cliff.' The 23-minute episode will be available to view for free until February 16th, 2023, so check it out while it's available! A plot synopsis of the episode reads: One evening, a girl standing in the middle of the road was called out to by two women driving by. The girl shows an unsettling smile as she takes off her eye patch, revealing a glowing eye.
+
+
+***
+![Disgaea 7: Vows of the Virtueless hits 50k sold in Japan](https://gonintendo.com/attachments/image/23015/file/medium-aa24684573a57970cbf34742d1cee767.jpg "Disgaea 7: Vows of the Virtueless hits 50k sold in Japan")
+
+
+[Disgaea 7: Vows of the Virtueless hits 50k sold in Japan](https://gonintendo.com/contents/16080-disgaea-7-vows-of-the-virtueless-hits-50k-sold-in-japan)
+
+
+> Nippon Ichi Software has announced that sales of Disgaea 7: Vows of the Virtueless have reached 50k in Japan. The title launched on PS4, PS5 and Switch on January 26th, 2023. This is one of the instances where we actually know the split between platforms, and at least when it comes to physical sales, Switch has taken the lion's share. Switch sales of Disgaea 7 account for 13,094 copies at retail, followed by 3,568 on PS4 and 2,324 on PS5. The rest of the 31,014 copies sold were done so digitally, so we don't know the platform breakdown.
+
+
+***
+![Nissan to develop its ‘most advanced' driver assistance system to date](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/nissan-primage.jpg "Nissan to develop its ‘most advanced' driver assistance system to date")
+
+
+[Nissan to develop its ‘most advanced' driver assistance system to date](https://roboticsandautomationnews.com/2023/02/10/nissan-to-develop-its-most-advanced-driver-assistance-system-to-date/60159/)
+
+
+> Nissan is planning to develop its 'most advanced' driver assistance system to date in collaboration with Trimble Technology . Trimble says that Nissan Motor will use Trimble RTX technology as its high-accuracy positioning source, enabling the hands-off and guided freeway driving capabilities of Toyota's ProPILOT Assist 2.0 driver assistance system, available initially on the 2023 Nissan Ariya. While positioning with standard Global Navigation Satellite System (GNSS) signals may drift up to 10 meters (25 feet), Trimble says its RTX system provides higher accuracy and enables consistent lane determination for driving applications.
+
+
+***
+![Python With scikit-learn: A Step-by-Step Guide](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Python With scikit-learn: A Step-by-Step Guide")
+
+
+[Python With scikit-learn: A Step-by-Step Guide](https://www.reddit.com/r/programming/comments/10yetdt/python_with_scikitlearn_a_stepbystep_guide)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Beyond Lithium: Scientists discover a promising cathode material for magnesium rechargeable batteries](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/tokyo-uni-new-battery.png "Beyond Lithium: Scientists discover a promising cathode material for magnesium rechargeable batteries")
+
+
+[Beyond Lithium: Scientists discover a promising cathode material for magnesium rechargeable batteries](https://roboticsandautomationnews.com/2023/02/10/beyond-lithium-scientists-discover-a-promising-cathode-material-for-magnesium-rechargeable-batteries/60156/)
+
+
+> Scientists discover the optimal composition for a magnesium secondary battery cathode to achieve better cyclability and high battery capacity Magnesium is a promising candidate as an energy carrier for next-generation batteries. However, the cycling performance and capacity of magnesium batteries need to improve if they are to replace lithium-ion batteries. To this end, a research team focused on a novel cathode material with a spinel structure, Mg1.33V1.67−xMnxO4. Following extensive characterization and electrochemical performance experiments, they have found a specific composition that could open doors to high-performance magnesium rechargeable batteries.
+
+
+***
+![Nigeria techie in Nairobi for seized billions, CBK permit](https://www.businessdailyafrica.com/resource/blob/4109490/c2aa2d3f0de888f566c3c7e18b6abe80/olugbenga-data.jpg "Nigeria techie in Nairobi for seized billions, CBK permit")
+
+
+[Nigeria techie in Nairobi for seized billions, CBK permit](https://www.businessdailyafrica.com/bd/corporate/technology/flutterwave-ceo-in-nairobi-for-seized-billions-cbk-permit-4118200)
+
+
+> Friday February 10 2023 Olugbenga Agboola, co-founder and CEO of Flutterwave. FILE PHOTO | POOL The CEO and co-founder of Nigerian payments company Flutterwave, Olugbenga Agboola, flew into Kenya this week amid efforts to unfreeze his Sh6.6 billion and lift a Central Bank of Kenya (CBK) embargo on the firm. In a space of just one year, the start-up has seen its Kenya operations — which was the second-largest market after Nigeria— brought to a halt, with the High Court freezing Sh6.
+
+
+***
+![How Will the End of the PHE Affect Telehealth and Digital Health?](https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1882142737.jpg "How Will the End of the PHE Affect Telehealth and Digital Health?")
+
+
+[How Will the End of the PHE Affect Telehealth and Digital Health?](https://www.healthleadersmedia.com/)
+
+
+> With the Biden Administration announcing the end of the COVID-19 public health emergency (PHE) on May 11, healthcare organizations are assessing how their digital health and telehealth programs will be affected. While Congress put in place a temporary reprieve in its budget bill, certain freedoms and waivers will end soon. "This is going to be a trying time" for health systems, says Jacob Harper , a partner in the Morgan Lewis law firm who focuses on the healthcare industry. "It's kind of a double-edged sword.
+
+
+***
+![Valentine's Day 2023: How to use ChatGPT to write a love letter](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/10/2571852-2567302-untitled-design-2023-01-19t103040.542.jpg "Valentine's Day 2023: How to use ChatGPT to write a love letter")
+
+
+[Valentine's Day 2023: How to use ChatGPT to write a love letter](https://www.dnaindia.com/technology/report-valentines-day-love-letter-chatgpt-microsoft-ai-techonology-indians-romance-3022623)
+
+
+> Use ChatGPT to write love letter on Valentine's Day| Photo: File Ahead of the day of romance, Valentine's Day, people are looking for ways to make their partners feel special. One age-old way of expressing love is a 'love letter'. But with a speedy lifestyle and hectic schedule, it is difficult to get enough time to actually sit down and write your heart out. What's even more difficult is to get the right words to express your feelings.  For those who are planning to write a love-filled letter to their partners, here is the recently popularised Microsoft 'AI' to your rescue.
+
+
+***
+![Master Detective Archives: RAIN CODE cover art revealed](https://gonintendo.com/attachments/image/23013/file/medium-ccc73aed770e08b4f0a85a62e21efe80.png "Master Detective Archives: RAIN CODE cover art revealed")
+
+
+[Master Detective Archives: RAIN CODE cover art revealed](https://gonintendo.com/contents/16079-master-detective-archives-rain-code-cover-art-revealed)
+
+
+> New art from a well-known artist Master Detective Archives: RAIN CODE got some attention during yesterday's Nintendo Direct, and today that's been followed up with a look at the game's cover art. Spike Chunsoft has revealed the packaging art for Master Detective Archives: RAIN CODE, and it uses a new illustration exclusively drawn by Rui Komatsuzaki. Komatsuzaki is a Japanese illustrator and character designer best known for designing and characterizing the cast members from Danganronpa.
+
+
+***
+![Rocket League gears up for Super Bowl LVII](https://gonintendo.com/attachments/image/23012/file/medium-325afad8812d4191730d127d436ebd11.webp "Rocket League gears up for Super Bowl LVII")
+
+
+[Rocket League gears up for Super Bowl LVII](https://gonintendo.com/contents/16078-rocket-league-gears-up-for-super-bowl-lvii)
+
+
+> Huddle up, team—it's time to go over this year's Super Bowl LVII game plan. Join the action as we welcome back the NFL Fan Pack, which offers up NFL Team Decals and matching Items for 32 teams! The Gridiron LTM is back on the schedule, while the NFL Super Bowl LVII Pack offers up a whole new set of Items. This season also brings out some top talent, with NFL Player Decals for Boston Scott, Cam Jordan, and Mecole Hardman Jr. It all starts today. Now… break! GRIDIRON LTM Whether you're throwing bombs down the field or going for a full-team blitz, Gridiron is the perfect way to harness your Super Bowl spirit! Just like in the past, you'll be able to grab the ol' pigskin by touching it, or throw the ball by dodging.
+
+
+***
+![Power ranger: Next-generation Ford Ranger owners share what makes the pick-up truck a reliable daily driver](https://gadgetsmagazine.com.ph/wp-content/uploads/2023/02/Philip-Vino.jpg "Power ranger: Next-generation Ford Ranger owners share what makes the pick-up truck a reliable daily driver")
+
+
+[Power ranger: Next-generation Ford Ranger owners share what makes the pick-up truck a reliable daily driver](https://gadgetsmagazine.com.ph/mobility/cars/ford-ranger-owners)
+
+
+> The next-generation Ford Ranger officially arrived in the Philippines in July last year, and since then, it has become a staple sight on local roads and is enjoyed by a growing number of Ranger owners because of its many exciting features and upgrades.  These Ford Ranger owners include Pampanga-based website developer, part-time photographer Philip Vino, and Cebu-based associate manager Earl Cuevas. Both attest to the enhanced driving experience that the next-gen Ford pick-up truck offers — from functionality, style, and comfort, to safety and in-car technology that mesh well with their daily lifestyles — may it be for work, play, and family.
+
+
+***
+![Use ChatGPT Anywhere and in Any Program](https://external-preview.redd.it/CEriiqckj_OvVflj8FHb2YiePEFzKWQ21JF52ZXeG24.jpg?auto=webp&v=enabled&s=bcca233e96aac77000e569c05c7b041b62038437 "Use ChatGPT Anywhere and in Any Program")
+
+
+[Use ChatGPT Anywhere and in Any Program](https://www.reddit.com/r/programming/comments/10yd7ot/use_chatgpt_anywhere_and_in_any_program)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Repay integrates accounts-payable automation for HelloGM](https://qtxasset.com/quartz/qcloud1/media/image/repay.jpg?VersionId=Q5BpsYnqlJUQ5omSibgg3fGu4_AACA0O "Repay integrates accounts-payable automation for HelloGM")
+
+
+[Repay integrates accounts-payable automation for HelloGM](https://www.hotelmanagement.net/tech/repay-integrates-accounts-payable-automation-hellogm)
+
+
+> What are you searching for? Enclose phrases in quotes. Use a + to require a term in results and - to exclude terms. Example: +water -Europe
+
+
+***
+![The daily salary of 2000 lures the 'Haunted House Sleeper' is a scam](https://s.yimg.com/ny/api/res/1.2/ENyEXk.HWqntjZr16pbZPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/ko/am730_578/a2712abaf12e3377a52b9465016196ac "The daily salary of 2000 lures the 'Haunted House Sleeper' is a scam")
+
+
+[The daily salary of 2000 lures the 'Haunted House Sleeper' is a scam](https://www.world-today-news.com/the-daily-salary-of-2000-lures-the-haunted-house-sleeper-is-a-scam/)
+
+
+> People often claim that 'you are not afraid of ghosts, you are only afraid of being poor.' Recently, a company in Hangzhou, Zhejiang issued a job advertisement, offering a daily salary of 2,000 yuan (RMB, the same below) to recruit a 'sleep tester in a haunted house'. Many netizens shouted, 'I can , I'm not afraid', and some netizens worried that 'what's wrong with me?', but some netizens immediately dismissed this as a scam. Recorder Shadow Ghost. The local government informed yesterday that the job advertisement involved was fabricated by the company's employees out of thin air.
+
+
+***
+![CALPIRG Education Fund releases report of most repairable cell phones and computers](https://cdn.abcotvs.com/dip/images/12793321_020923-kabc-4pm-cellphone-scorecard-vid.jpg?w=1600 "CALPIRG Education Fund releases report of most repairable cell phones and computers")
+
+
+[CALPIRG Education Fund releases report of most repairable cell phones and computers](https://abc7.com/tech-technology-calpirg-education-fund/12793103/)
+
+
+> Both CALPIRG and iFixit are also cosponsors of the "Right to Repair Act" which was newly introduced. EMBED <> More Videos The CALPIRG Education Fund has looked at companies such as Apple, Google, Dell and more to see which cellphones and computers are easiest to fix. LOS ANGELES, Calif. (KABC) -- The CALPIRG Education Fund has released their second annual "failing the fix" report and score card. They've graded top electronics manufacturers on the reparability for their products. According the score card, For cellphones, Motorola was at the top for repair ability and then Samsung, google and apple followed.
+
+
+***
+![MBP16M2Max and Dell screen charging](https://images.macrumors.com/social/?t=2380256&v=6 "MBP16M2Max and Dell screen charging")
+
+
+[MBP16M2Max and Dell screen charging](https://forums.macrumors.com/threads/mbp16m2max-and-dell-screen-charging.2380256/)
+
+
+> Hi everyone, I just received my new MacBookPro M2Max. Pretty amazing machine, but coming home I realized an issue: I'll be using it very often plugged to a Dell 3818 UW screen, connected with USB-c (therefore also being charged). It seems that usb-c charging cannot stop from the screen settings. The power supply that comes with the MBP is 140W, while the output power of the Dell is 95W. (Not sure if the 140W refer to the actual max usage of MBP or just the specs of an oversized fast charger) So, my questions are: 1.
+
+
+***
+![Shake the Joy-Con and let's get high together! The super fun rhythm game 'Samba de Amigo: Happy Shake Party' will be released in the summer of 2023!](https://assets.nova.com.tw/nova-media/nova/nova-829c3d8d-1028-4412-8598-6b478408a908.jpg "Shake the Joy-Con and let's get high together! The super fun rhythm game 'Samba de Amigo: Happy Shake Party' will be released in the summer of 2023!")
+
+
+[Shake the Joy-Con and let's get high together! The super fun rhythm game 'Samba de Amigo: Happy Shake Party' will be released in the summer of 2023!](https://www.world-today-news.com/shake-the-joy-con-and-lets-get-high-together-the-super-fun-rhythm-game-samba-de-amigo-happy-shake-party-will-be-released-in-the-summer-of-2023/)
+
+
+> Seya Co., Ltd. announced that the Nintendo Switch™ dedicated software 'Samba de Amigo: Happy Shake Party' will be released in the summer of 2023. This work is a completely new work of the rhythm action game 'Samba de Amigo', which is very popular on arcade machines, Dreamcast and Wii, and anyone can easily enjoy it. Use the Joy-Con of Nintendo Switch™ as a sandbell, and swing when the 'rhythm ball' flying along with the music hits the frame! Dance or pose according to the instructions on the screen, and enjoy playing to the melody of popular songs! In addition, a 'turntable' may suddenly appear in the game.
+
+
+***
+![Telstra failed to provide assistance to vulnerable customers, ACMA finds](https://itwire.com/media/k2/items/cache/51730d86784bcf4d7e84f8dad80de0ff_XS.jpg "Telstra failed to provide assistance to vulnerable customers, ACMA finds")
+
+
+[Telstra failed to provide assistance to vulnerable customers, ACMA finds](https://itwire.com/technology-regulation/telstra-failed-to-provide-assistance-to-vulnerable-customers,-acma-finds.html)
+
+
+> The Australian Communications and Media Authority has found that telecommunications provider Telstra failed to comply with its ‘priority assistance' obligations. An ACMA investigation found Telstra failed to: 1. Send priority assistance application forms and/or required additional information on more than 260 occasions to customers who had made contact to inquire about priority assistance. 2. Initiate ‘emergency medical request' procedures on five occasions to two customers when it was required to do so.
+
+
+***
+![4 objects every ‘Lord of the Rings' fan needs to know!](https://multiversonoticias.com.br/wp-content/uploads/2023/02/o-senhor-dos-aneis.jpg "4 objects every ‘Lord of the Rings' fan needs to know!")
+
+
+[4 objects every ‘Lord of the Rings' fan needs to know!](https://www.world-today-news.com/4-objects-every-lord-of-the-rings-fan-needs-to-know/)
+
+
+> A trilogy Lord of the Rings ', written by JRR Tolkien in 1892, and released in 1950, was adapted for the cinema in 2001 and is considered a masterpiece by fantasy lovers. Its rich and diverse universe inspires many fans to this day. Even more so after the launch of the spin-off on Prime Video, 'The Rings of Power' Admittedly, movies are more popular. That's because director Peter Jackson made the saga a real success on the big screen, winning the title of the most awarded cinematography franchise in history! The films went on to make more than three billion dollars at the box office.
+
+
+***
+![Australian Defense Department to Remove Chinese-Made Cameras](https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg "Australian Defense Department to Remove Chinese-Made Cameras")
+
+
+[Australian Defense Department to Remove Chinese-Made Cameras](https://www.securityweek.com/australian-defense-department-to-remove-chinese-made-cameras/)
+
+
+> Australia's Defense Department will remove surveillance cameras made by Chinese Communist Party-linked companies from its buildings, the government said Thursday after the U.S. and Britain made similar moves. The Australian newspaper reported Thursday that at least 913 cameras, intercoms, electronic entry systems and video recorders developed and manufactured by Chinese companies Hikvision and Dahua are in Australian government and agency offices, including the Defense Department and the Department of Foreign Affairs and Trade.
+
+
+***
+![Instagram and Co. influence brain development](https://www.buzzfeed.de/bilder/2023/02/07/92075117/30848891-collage-junge-frau-am-handy-kopfschmerz-animation-Nfe.jpg "Instagram and Co. influence brain development")
+
+
+[Instagram and Co. influence brain development](https://www.world-today-news.com/instagram-and-co-influence-brain-development/)
+
+
+> Young people in particular spend a lot of time on social media. A new study shows that this digital consumption influences the development of the brain. Social media continues to enjoy great popularity among the population. According to the ARD/ZDF-Onlinestudie 2022 50 percent of the German-speaking population use social media 'in one way or another' at least once a week. Unsurprisingly, this value is particularly high among young people. Among 14-29 year olds, 88 percent visit such platforms at least once a week, with Facebook, Instagram, TikTok and Snapchat ranking high.
+
+
+***
+![New and classic modes coming to Just Dance 2023 Edition](https://gonintendo.com/attachments/image/23011/file/medium-5de374413d7f704b9b75b952709172fb.png "New and classic modes coming to Just Dance 2023 Edition")
+
+
+[New and classic modes coming to Just Dance 2023 Edition](https://gonintendo.com/contents/16077-new-and-classic-modes-coming-to-just-dance-2023-edition)
+
+
+> If you thought that Just Dance 2023 Edition was lacking in the game-mode department, then you are just like me (hi stranger, we are the same!). But that is about to change since the official account for the game has shared that as Season 1 approaches, some classic fan-favorite modes will make a return! As part of the returning modes, we'll have: Playlists Creation. Sweat mode: previously a mode where you'd see how intense a song and dance are, how long it can take for a workout session and how many calories you can burn.
+
+
+***
+!['Dragon Restoration Among Men! Yui Hatano, Yuna Ogura, and Kanna Momanogi will serve as Asian promotional ambassadors!](https://assets.nova.com.tw/nova-media/nova/nova-55ab32a9-5d8a-4afd-a22e-d1da1b4201d1.jpg "'Dragon Restoration Among Men! Yui Hatano, Yuna Ogura, and Kanna Momanogi will serve as Asian promotional ambassadors!")
+
+
+['Dragon Restoration Among Men! Yui Hatano, Yuna Ogura, and Kanna Momanogi will serve as Asian promotional ambassadors!](https://www.world-today-news.com/dragon-restoration-among-men-yui-hatano-yuna-ogura-and-kanna-momanogi-will-serve-as-asian-promotional-ambassadors-nova-information-plaza/)
+
+
+> Release special interview video! The Taiwan release day commemorative event will be held on February 22, 2023 (Wednesday)! Seya Co., Ltd. announced that it is expected to release on February 22, 2023 (Wednesday) for PlayStation® 5, PlayStation® 4, Xbox Series X|S, Xbox One, Windows, PC (Steam) dedicated software 'Renzhong Zhizhi' Long Weixin! 'Extremely', Japanese sexy actress Yui Hatano, Yuna Ogura, and Kanna Momanogi have been confirmed as Asian promotional ambassadors. The 3 publicity ambassadors will not only participate in the performance of the new karaoke song 'Innocent Samurai', but will also fully promote this work as Asian publicity ambassadors.
+
+
+***
+![Technical Assistance Open House will be Thursday, Feb 23](https://b-townblog.com/wp-content/uploads/2023/02/SKM-TechAssistanceOpenHouse23.jpg "Technical Assistance Open House will be Thursday, Feb 23")
+
+
+[Technical Assistance Open House will be Thursday, Feb 23](https://b-townblog.com/technical-assistance-open-house-will-be-thursday-feb-23/)
+
+
+> EDITOR'S NOTE : South King Media Founder/Publisher Scott Schaefer serves on the Board of Directors for the Seattle Southside Chamber of Commerce. The Washington Small Business Development Center (SBDC) and Seattle Southside Chamber of Commerce are sponsoring a Technical Assistance Open House event on Thursday, Feb. 23, 2023. This free event will be held in Burien City Hall's Community Room on the 1st Floor. Want to start a business? Want to grow your business? Need consultation? Look no further than this one-stop-shop for all of your Business Development needs.
+
+
+***
+![Configure Serilog with Grafana Loki](https://miro.medium.com/max/902/1*4A-X6vInkOBDnsXHYJjdPw.png "Configure Serilog with Grafana Loki")
+
+
+[Configure Serilog with Grafana Loki](https://medium.com/@kr1sg/configure-serilog-with-grafana-loki-c1ee83004f87)
+
+
+> Whether you're running apps/services in a large cloud K8S cluster or a small on-prem Raspberry PI K3S cluster , eventually you will find the need for a central place to monitor the logs of your applications. There are lots of good established solutions to scratch this itch, but many of them are paid products or a bit resource intensive to be…
+
+
+***
+![Elon Musk, Steve Jobs are ‘Very Similar,' Apple Co-Founder Steve Wozniak Says](https://1734811051.rsc.cdn77.org/data/images/full/420786/tesla-elon-musk.jpg "Elon Musk, Steve Jobs are ‘Very Similar,' Apple Co-Founder Steve Wozniak Says")
+
+
+[Elon Musk, Steve Jobs are ‘Very Similar,' Apple Co-Founder Steve Wozniak Says](https://www.techtimes.com/articles/287443/20230209/elon-musk-steve-jobs-apple-co-founder-steve-wozniak.htm)
+
+
+> Teejay Boris , Tech Times 09 February 2023, 08:02 pm Elon Musk and Steve Jobs have some similarities, Apple co-founder Steve Wozniak says in his recent interview. The co-founder of Apple also took a swipe at the alleged dishonesty of Musk, saying that the billionaire tech entrepreneur "robbed" him over Tesla self-driving claims.  Elon Musk and Steve Jobs are 'Very Similar:' Apple Co-Founder Wozniak, who designed the early Mac computers of Apple, pointed out similarities between Tesla and SpaceX CEO Musk and Apple's Jobs.
+
+
+***
+![OpenAI's ChatGPT Can Almost Pass the US Medical Licensing Exam](https://1734811051.rsc.cdn77.org/data/images/full/420885/france-technology-it-ai.jpg "OpenAI's ChatGPT Can Almost Pass the US Medical Licensing Exam")
+
+
+[OpenAI's ChatGPT Can Almost Pass the US Medical Licensing Exam](https://www.techtimes.com/articles/287439/20230209/openai-chatgpt-us-medical-licensing-exam-new-study.htm)
+
+
+> Jace Dela Cruz , Tech Times 09 February 2023, 08:02 pm A new study found that OpenAi's  ChatGPT  can almost pass the United States Medical Licensing Exam (USMLE) after scoring around 60 percent of the passing threshold.  The researchers claim that the AI tool provided coherent responses with frequent insights, as per a  press release . ChatGPT's USMLE Performance ChatGPT is relatively new, but it is already making rounds, with some claiming that it is the future of tech. What makes the AI tool so popular is its ability to generate human-like writing by accurately predicting word sequences thanks to its large language model (LLM).
+
+
+***
+![PSP forever alive! My ten favorite games from Sony's portable console](https://pliki.ppe.pl/storage/3e6fc9a0cfcfa9125017/3e6fc9a0cfcfa9125017.jpg "PSP forever alive! My ten favorite games from Sony's portable console")
+
+
+[PSP forever alive! My ten favorite games from Sony's portable console](https://www.world-today-news.com/psp-forever-alive-my-ten-favorite-games-from-sonys-portable-console/)
+
+
+> GTA: Chinatown Wars I know that not everyone is a fan of Grand Theft Auto from this perspective. Anyway – I myself prefer to play in the FPP or TPP formula. However, in this case, it didn't bother me at all. I had a great time, and a lot of this is due to the brilliantly written storyline, which is, after all, an inseparable element of the GTA series. It's no different here, and Chinatown Wars definitely delighted. SSX On Tour I fell in love with SSX on PlayStation 2, when in the already iconic version I could skate on a board on snowy slopes.
+
+
+***
+![GitHub to layoff 10% and close offices](https://external-preview.redd.it/hh9ZpAIYJWYeNeRZf7NengNxTivCRyCBgI8X0YZeeoE.jpg?auto=webp&v=enabled&s=cd4c14429381ed8fe45186b9aff7cd5264f6823e "GitHub to layoff 10% and close offices")
+
+
+[GitHub to layoff 10% and close offices](https://www.reddit.com/r/programming/comments/10ycbqe/github_to_layoff_10_and_close_offices)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![WhatsApp Transcribe Audio Message Feature in the Works — Now Available in Beta?](https://1734811051.rsc.cdn77.org/data/images/full/418094/whatsapp.jpg "WhatsApp Transcribe Audio Message Feature in the Works — Now Available in Beta?")
+
+
+[WhatsApp Transcribe Audio Message Feature in the Works — Now Available in Beta?](https://www.techtimes.com/articles/287438/20230209/whatsapp-transcribe-audio-message.htm)
+
+
+> Teejay Boris , Tech Times 09 February 2023, 08:02 pm WhatsApp is reportedly working on a new feature. It should allow users to transcribe audio messages into text straight from the messaging app. It may not take long before WhatsApp users can start reading text transcriptions of audio messages on their phones. WhatsApp Transcribe Audio Message Feature As per a recent story by  WABetaInfo,  the Meta-owned messaging service looks to develop a new transcribing feature to transform audio messages into text.
+
+
+***
+![Google is working on making Chrome's picture-in-picture more useful](https://cdn.vox-cdn.com/thumbor/da5nojAhx8WDPJa1XZH4bx-6otg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24418650/STK114_Google_Chrome_01.jpg "Google is working on making Chrome's picture-in-picture more useful")
+
+
+[Google is working on making Chrome's picture-in-picture more useful](https://www.theverge.com/2023/2/9/23593559/google-chrome-picture-in-picture-document-test)
+
+
+> The latest Chrome beta, version 111 , includes a trial for a feature that could make the browser's picture-in-picture feature significantly more useful. Instead of being only for playing videos, Google's looking into letting it display basically any web content in a floating window that stays on top of all your other windows. There are quite a few ways this feature, which is called Document Picture-in-Picture, could be useful. Some of Google's examples are mostly just spins on how picture-in-picture already works, such as video players but with custom UI (such as buttons to like or dislike a video, a timeline, or captions), or a miniplayer for video conferences that let you see a grid of people and access controls to mute yourself or raise a hand.
+
+
+***
+![Don't Miss Your Last Chance For 55,000 Years By Using This Easy Step-By-Step Guide](https://www.mccourier.com/wp-content/uploads/2023/02/Dont-Miss-Your-Last-Chance-For-55000-Years-By-Using.jpg "Don't Miss Your Last Chance For 55,000 Years By Using This Easy Step-By-Step Guide")
+
+
+[Don't Miss Your Last Chance For 55,000 Years By Using This Easy Step-By-Step Guide](https://www.mccourier.com/dont-miss-your-last-chance-for-55000-years-by-using-this-easy-step-by-step-guide/)
+
+
+> Comet C/2022 E3 additionally known as the Neanderthal comet passes near planet earth getty The place is the 'inexperienced comet' proper now? If you wish to see the 'inexperienced comet' tonight then identified that your window to witness comet C/2022 E3 ZTF is closing—it is advisable to go exterior as quickly because it will get darkish. After getting closest to the Solar on Jan. 12 and to our personal planet on Feb. 2 the 'inexperienced comet' is now racing again to the Oort Cloud on the photo voltaic system's edge.
+
+
+***
+![First opportunity to observe ‘little green smudge' after 50,000 years  New Zealand  Comet](https://i.epochtimes.com/assets/uploads/2017/02/DJY_FB_DefaultImage2017.jpg "First opportunity to observe ‘little green smudge' after 50,000 years  New Zealand  Comet")
+
+
+[First opportunity to observe ‘little green smudge' after 50,000 years  New Zealand  Comet](https://www.world-today-news.com/first-opportunity-to-observe-little-green-smudge-after-50000-years-new-zealand-comet-astronomy/)
+
+
+> [The Epoch Times, February 10, 2023](Epoch Times reporter Jiang Zhuzhu compiled and reported by New Zealand) According to a report by RNZ on February 7, 2023, a comet will pass the earth again this week in 50,000 years. Comet 2022 E3 (ZTF), from the distant Oort Cloud, is currently visible from the Northern Hemisphere. However, those in New Zealand with binoculars may spot it this weekend as well. Astronomy enthusiast Tom Love said the comet is green because it has a lot of carbon on it that is being 'evaporated by the sun,' meaning it is a comet from the distant Oort cloud — — Outer Solar System.
+
+
+***
+![Alphabet's $100 Billion Stock Swoon Shows AI Stakes Are Rising](https://images.hindustantimes.com/tech/img/2023/02/10/1600x900/FILES-US-TECH-GOOGLE-AI-CHATGPT-0_1675990743623_1675990743623_1675990843825_1675990843825.jpg "Alphabet's $100 Billion Stock Swoon Shows AI Stakes Are Rising")
+
+
+[Alphabet's $100 Billion Stock Swoon Shows AI Stakes Are Rising](https://tech.hindustantimes.com/tech/news/alphabets-100-billion-stock-swoon-shows-ai-stakes-are-rising-71675968185749.html)
+
+
+> The stakes in the race for generative AI are rising. The fervor in the stock market bubbling around artificial intelligence spread this week to Microsoft Corp. and Alphabet Inc., which despite investing heavily in the technology had so far been ignored by traders in favor of smaller, more speculative companies. Google parent Alphabet's shares tumbled 7.7% on Wednesday after concerns surfaced about the competency of Bard, the ChatGPT rival it unveiled on Feb. 6. The selloff continued on Thursday with a drop of as much as 5.
+
+
+***
+![Danish Firm Plans to Integrate AI into its Robotic Blade Maintenance Technology](https://1734811051.rsc.cdn77.org/data/images/full/420878/rope-robotics.jpg "Danish Firm Plans to Integrate AI into its Robotic Blade Maintenance Technology")
+
+
+[Danish Firm Plans to Integrate AI into its Robotic Blade Maintenance Technology](https://www.techtimes.com/articles/287436/20230209/danish-firm-ai-robots-robotic-blade-maintenance-technology.htm)
+
+
+> Jace Dela Cruz , Tech Times 09 February 2023, 08:02 pm Rope Robotics, a producer of robotic blade maintenance technology from Denmark, has recently begun testing its robots on offshore wind turbines in hopes of making them commercially available in 2023. However, the company is also making sure that they have the most advanced robots as it plans to integrate  artificial intelligence  into them, according to a report by  offshoreWIND.biz . Blade Maintenance Robot According to the company, nine BR-8 robots are currently in commercial use on several wind farms across Europe, Canada, South Africa, and the US.
+
+
+***
+![Just Dance 2023 Edition, songs added for the week of February 9th](https://gonintendo.com/attachments/image/23009/file/medium-5040724dabc36e82851012681b27c946.png "Just Dance 2023 Edition, songs added for the week of February 9th")
+
+
+[Just Dance 2023 Edition, songs added for the week of February 9th](https://gonintendo.com/contents/16070-just-dance-2023-edition-songs-added-for-the-week-of-february-9th)
+
+
+> T.G.I.T (Thank GoNintendo It's Thursday) Ready for more dancing? Ubisoft is bringing even more songs to Just Dance 2023 Edition as part of Just Dance+ for this week! Here's the full list: Classic Songs added to Just Dance+: Title - Artist (Original Appearance) Katti Kalandal - Bollywood (Just Dance 2) Idealistic - Digitalism (Just Dance 2) Joone Khodet - Black Cats (Just Dance 2021) Last Friday Night (T.G.I.F.) - Katy Perry (Just Dance 2022) Mr. Blue Sky- The Sunlight Shakers (Just Dance 2022) [ Ubisoft ] modal#open commentUpvoteInfoModal.
+
+
+***
+![Here the Airwing planes are put up for sale](https://presizely.finansavisen.no/980x,q75,prog/https://smooth-storage.aptoma.no/users/hegnar/images/78288837.jpg?t%5Bquality%5D=100&&accessToken=f2b9f7cd70f510d1420b5a608816fe24098548f0220dcde1cf2af244e43615b0 "Here the Airwing planes are put up for sale")
+
+
+[Here the Airwing planes are put up for sale](https://www.world-today-news.com/here-the-airwing-planes-are-put-up-for-sale/)
+
+
+> On Thursday, the private airline Airwing, led by Kjos' daughter Anna Helene Kjos-Mathisen, announced a tender. A few hours later the planes were Posted for sale with photos and thorough descriptions. On the aircraft broker site Arcosjet is what should have been half of the operational aircraft in Airwing before the tender on Thursday. 2006 BOMBARDIER LEARJET 45XR 2002 BOMBARDIER LEARJET 45 2000 BOMBARDIER LEARJET 45 The planes are also listed as equipped with equipment for medical evacuation or ambulance flying.
+
+
+***
+![SpaceX Reports Not All 33 Engines Fired on Starship Static Fire Test—Not Ready for March Orbital Launch?](https://1734811051.rsc.cdn77.org/data/images/full/390076/super-heavy-now-has-its-raptor-engines.jpg "SpaceX Reports Not All 33 Engines Fired on Starship Static Fire Test—Not Ready for March Orbital Launch?")
+
+
+[SpaceX Reports Not All 33 Engines Fired on Starship Static Fire Test—Not Ready for March Orbital Launch?](https://www.techtimes.com/articles/287440/20230209/spacex-reports-33-engines-fired-starship-static-fire-test—not-ready.htm)
+
+
+> Isaiah Richard , Tech Times 09 February 2023, 07:02 pm SpaceX successfully finished the Starship's static fire test, and while the outcome was favorable for the company, there were significant hiccups when it blasted all of its 33 engines earlier. Out of 33 Raptor engines that were all fired, two saw malfunctions, and in the end, only 31 of its boosters completed the mission. This is a significant step for SpaceX as this was the first time that its Starship venture fired all of its engines in a single test, one that would be similar to when it would go on missions.
+
+
+***
+![15-year-old made a profit in Switzerland](https://c.nau.ch/i/KZGZe/1024/cannabis.jpg "15-year-old made a profit in Switzerland")
+
+
+[15-year-old made a profit in Switzerland](https://www.world-today-news.com/15-year-old-made-a-profit-in-switzerland/)
+
+
+> A 15-year-old made big profits with illegal cannabis in Switzerland. Now he is in a closed educational center. the essentials in brief In Switzerland, a 15-year-old made a big profit – with illegal cannabis. Within eight months he earned over 14,000 francs. He sold more than five kilograms of cannabis via the messenger channel Telegram. A 15-year-old in Switzerland has started a flourishing illegal trade in the drug cannabis via social media. The teenager made a profit of more than 14,000 francs within around eight months.
+
+
+***
+![78% Indians fail to differentiate between love letter written by ChatGPT, human: Survey](https://images.hindustantimes.com/tech/img/2023/02/10/1600x900/OPENAI-CHATGPT--2_1675505125162_1675505125162_1675990386936_1675990386936.JPG "78% Indians fail to differentiate between love letter written by ChatGPT, human: Survey")
+
+
+[78% Indians fail to differentiate between love letter written by ChatGPT, human: Survey](https://tech.hindustantimes.com/tech/news/78-indians-fail-to-differentiate-between-love-letter-written-by-chatgpt-human-survey-71675968198688.html)
+
+
+> Most Indians have been unable to differentiate between a love letter written by conversational artificial intelligence tool ChatGPT and that penned by a human, a global survey by McAfee said on Thursday. The survey also said 62 percent of Indian adults are planning to use AI to help write their love letters this Valentine's Day -- the highest out of all the countries surveyed, with 73 percent also using AI to boost their dating profiles. "With ChatGPT starting to infiltrate every aspect of our daily lives, 78 per cent of Indian people surveyed were unable to tell the difference between a love letter written by AI tool, ChatGPT, and one written by a human being," McAfee's Modern Love research report said.
+
+
+***
+![[噂] 'CoD2023' will be released on November 10th as a 'completely new work' of MW Universe? Overseas players are also confused](https://i0.wp.com/fpsjp.net/wp-content/uploads/2023/02/d2fcb0788620fc8b836624b093cbf014.jpg?fit=1200,675&ssl=1 "[噂] 'CoD2023' will be released on November 10th as a 'completely new work' of MW Universe? Overseas players are also confused")
+
+
+[[噂] 'CoD2023' will be released on November 10th as a 'completely new work' of MW Universe? Overseas players are also confused](https://www.world-today-news.com/%e5%99%82-cod2023-will-be-released-on-november-10th-as-a-completely-new-work-of-mw-universe-overseas-players-are-also-confused-eaa-fps-news/)
+
+
+> Rumors of CoD2023 that turn and turn From the flow so far, Next year (2023), a premium expansion (paid) for CoD: MWll will be released, developed by Sledgehammer It seemed that it was almost fixed in the view of '. But via CharlieIntel, Insider-Gaming has attracted the attention of the community by mentioning the contents of this 'CoD2023' and the specific release date. Breaking: New rumor from Insider-Gaming says Call of Duty 2023's release date is November 10, 2023. The title is being developed by Sledgehammer Games.
+
+
+***
+![ChatGPT: Hackers Bypass OpenAI Restrictions to Create Malware, Improve Codes via Telegram Bot](https://1734811051.rsc.cdn77.org/data/images/full/420741/chatgpt.jpg "ChatGPT: Hackers Bypass OpenAI Restrictions to Create Malware, Improve Codes via Telegram Bot")
+
+
+[ChatGPT: Hackers Bypass OpenAI Restrictions to Create Malware, Improve Codes via Telegram Bot](https://www.techtimes.com/articles/287437/20230209/chatgpt-hackers-bypass-openai-restrictions-create-malware-improve-codes-via.htm)
+
+
+> Isaiah Richard , Tech Times 09 February 2023, 07:02 pm ChatGPT is now a tool that hackers and threat actors utilize to develop malware and other accessing programs used to steal from people, using OpenAI's API via a GPT-3 model. This underground version of the experience centers on bots that focus on accessing these OpenAI models to infiltrate the service using Telegram to improve their codes for stealing.  There are countless applications of the famed chatbot from OpenAI, but this is a next-level development for the highly assistive tech that was once used for creating content.
+
+
+***
+![Australians make a return to online piracy](https://images.thewest.com.au/publication/C-9710720/17b693ae23eba3b55ca8b0e4ed0d836e124557d6-16x9-x0y0w1280h720.jpg?imwidth=1200 "Australians make a return to online piracy")
+
+
+[Australians make a return to online piracy](https://thewest.com.au/technology/internet/australians-make-a-return-to-online-piracy-c-9710720)
+
+
+> Roughly one-in-four Australians pirated online content in 2022, as rates of unlawfully consumed media rebounded across film, television, music, and live sport viewership. The 2022 Consumer Survey on Online Copyright Infringement found an increase in the number of Australians illegally accessing media online after two years of declining piracy rates. Video games were the only category with a continued decline in unlawful consumption, whereas movie, television, music, and live sport piracy all grew by two to five per cent between 2021 and 2022.
+
+
+***
+![[D] Should I put my current or past affiliation on my EACL paper?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[D] Should I put my current or past affiliation on my EACL paper?")
+
+
+[[D] Should I put my current or past affiliation on my EACL paper?](https://www.reddit.com/r/MachineLearning/comments/10ybgb3/d_should_i_put_my_current_or_past_affiliation_on)
+
+
+> Hey guys. I have got a paper accepted to the EACL 2023 conference. When I was working on the paper I did not have any official affiliation. I was working as an independent researcher. I have started my PhD at PSU recently. I was wondering if I should use my current affiliation on the paper. I am the corresponding author for this paper. Also, I am planning to use my PSU address for all research communications from now on instead of my gmail address. So putting my PSU affiliation would make sense in that way.
+
+
+***
+![Google Bard, a competitor of ChatGPT, got it wrong in its own advertising. 120 billion loss!](https://antyweb.pl/img/781/440/fit/wp-content/uploads/2022/12/vyfer1dojo/google-logo-image.jpg "Google Bard, a competitor of ChatGPT, got it wrong in its own advertising. 120 billion loss!")
+
+
+[Google Bard, a competitor of ChatGPT, got it wrong in its own advertising. 120 billion loss!](https://tekdeeps.com/google-bard-a-competitor-of-chatgpt-got-it-wrong-in-its-own-advertising-120-billion-loss/)
+
+
+> Google wants to have its own ChatGPT, but it compromises at the start Google must have been very irritated by the success of OpenAI with its ChatGPT service, which is gaining new users at an express pace. First, we read that the OpenAI tool, for which Microsoft is paying a lot of money, is about to end the life of the great G. As it turns out, Google has no intention of giving up – and thanks to this we will soon be able to use a similar tool called Bard. What is it about? In the Google Bard promotional video, an artificial intelligence bot answered a question incorrectly… even though the bot's job is to answer questions.
+
+
+***
+![This is called fast charging. realme GT Neo 5 240W broke the record](https://v.wpimg.pl/Zi9iZy5wdQhYCyxKGgx4HRtTeBBcVXZLTEtgWxo4dVwPEW5MGh50HklHKhUaFnUAFhouHhoHMQ8WCz1XRRk9S0Q "This is called fast charging. realme GT Neo 5 240W broke the record")
+
+
+[This is called fast charging. realme GT Neo 5 240W broke the record](https://tekdeeps.com/this-is-called-fast-charging-realme-gt-neo-5-240w-broke-the-record/)
+
+
+> Here is the smartphone with the fastest charging in the world. Just a year ago, the charging record was 150W and belonged to realme GT Neo 3. This time, the same brand raised the bar to a dizzying 240W. How fast does realme GT Neo 5 charge? According to the manufacturer's declaration, realme GT Neo 5 with a 4600 mAh battery charges: up to 20 percent in 80 seconds; up to 50 percent in 4 minutes; up to 100 percent in 9.5 minutes. It is worth recalling here that the competing Redmi Note 12 Explorer supports 210 W and – according to official data – is to be charged in 9 minutes.
+
+
+***
+![Tehran – Apple has ordered a third season. Hugh Laurie will join the cast](https://myapple.pl/uploads/image/file/3/f/5/big_55402ccc-d6ba-4cc8-b627-13af953273f5.jpg "Tehran – Apple has ordered a third season. Hugh Laurie will join the cast")
+
+
+[Tehran – Apple has ordered a third season. Hugh Laurie will join the cast](https://tekdeeps.com/tehran-apple-has-ordered-a-third-season-hugh-laurie-will-join-the-cast/)
+
+
+> The Tehran series was a kind of experiment for Apple from the very beginning. Not only was it the first foreign, non-English series in the Apple TV+ offer, but also the first project for which the rights were bought after the completion of work on it (the series was commissioned by the Israeli broadcaster TV channel Kan 11, and Apple bought it back shortly after its premiere. However, in the end it was quite well received by viewers and reviewers, and now Apple has announced the start of work on the third season.
+
+
+***
+![[Opensource Sundays] How I built a mini PaaS with Zero](https://miro.medium.com/max/650/0*kczfkxzEFlEbBFEk "[Opensource Sundays] How I built a mini PaaS with Zero")
+
+
+[[Opensource Sundays] How I built a mini PaaS with Zero](https://medium.com/@davidjcheung/opensource-sundays-how-i-built-a-mini-paas-with-zero-902626eb2e3a)
+
+
+> Whenever a new Engineering Partner (EP) is onboarded at Commit, they get their feet wet by doing a Hackathon Onboarding Project (HOP). This involves building a project of their choice, then open-sourcing and sharing what they've learnt and demoing the project. Quite often the HOP demos are run on the EP's local machine, for various reasons: cost of hosting, complexity of infrastructure, lack of experience with DevOps, and to make it easier for the EP to spend more time on the project. At Commit we're always keenly focused on enhancing the Engineer experience, so we're motivated to offer EPs an easier and better way to showcase their projects and learnings.
+
+
+***
+![California looks to lower insulin prices by making its own](https://external-preview.redd.it/v6xjXr4K83n4OcWfM0fbqcInF6AHyHPrcj1nvm9JKDw.jpg?auto=webp&v=enabled&s=04261c2674e1a5deb96273be25dad3f5a62a93f1 "California looks to lower insulin prices by making its own")
+
+
+[California looks to lower insulin prices by making its own](https://www.reddit.com/r/technology/comments/10yb5i8/california_looks_to_lower_insulin_prices_by)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Trunk Based Development](https://trunkbaseddevelopment.com/images/logo.png "Trunk Based Development")
+
+
+[Trunk Based Development](https://trunkbaseddevelopment.com/game-changers/)
+
+
+> Since the early 80's a number of things have pushed best practices towards Trunk-Based Development, or away from it. The language in use to describe such things has changed over time. Software Configuration Management (SCM) is used less today than Version Control Systems (VCS) is. A simpler still term - 'Source Control' - seems to be used more recently, too. Similarly, ‘trunk' and ‘branch', have not always been used as terms for controlled code lines that have a common ancestor, and are eminently (and repeatably) mergeable.
+
+
+***
+![Tesla Autopilot ‘cleared' of deadly crash dating back to 2021](https://pplware.sapo.pt/wp-content/uploads/2021/04/tesla_a2-720x405.jpg "Tesla Autopilot ‘cleared' of deadly crash dating back to 2021")
+
+
+[Tesla Autopilot ‘cleared' of deadly crash dating back to 2021](https://tekdeeps.com/tesla-autopilot-cleared-of-deadly-crash-dating-back-to-2021/)
+
+
+> Tesla has been involved in several accident investigations where its Autopilot is named as the presumed culprit. In 2021, an accident with strange contours began to be investigated and, at the time, Elon Musk had already spoken out due to several inaccuracies of the accusation. Now the US National Transportation Safety Board (NTSB) is shifting blame away from Autopilot. The accident reported in April 2021 It all happened in the state of Texas. Two men, aged 59 and 70, died in an accident while driving a Tesla in April 2021.
+
+
+***
+![Australian software teams are moving faster with DevOps orchestration](https://itwire.com/media/k2/items/cache/934abf9db92f863f554f75b30c0a2ffc_XS.jpg "Australian software teams are moving faster with DevOps orchestration")
+
+
+[Australian software teams are moving faster with DevOps orchestration](https://itwire.com/guest-articles/guest-opinion/australian-software-teams-are-moving-faster-with-devops-orchestration.html)
+
+
+> GUEST OPINION: Friction that should have evaporated with sustained use of DevOps practices and tools has crept back into software development. DevOps is widely credited as an enabler for teams to move faster to deliver new features to end users without compromising on quality. Put simply, it encompasses a widely practiced set of procedures and tools for streamlining the development, release, and updating of software. Organisations are increasingly adopting DevOps to stay competitive, innovate faster, and meet customer needs.
+
+
+***
+![Eric Branderiz, named to the board of directors of Cognizant Technology Solutions Corp.](https://www.aldianews.com/sites/default/files/2023-02/LEADERSHIP%20LOB_G3_Eric%20Branderiz2%20%281%29.jpg "Eric Branderiz, named to the board of directors of Cognizant Technology Solutions Corp.")
+
+
+[Eric Branderiz, named to the board of directors of Cognizant Technology Solutions Corp.](https://www.aldianews.com/en/leadership/corporate/tech-solutions-latino-leader)
+
+
+> The tech solutions firm recently announced the arrival of its 11th independent director on a 12-member board. Stephen Rohleder , chair of the Board, stated: Eric is a proven financial executive and public company director with extensive experience overseeing financial and accounting operations for high-growth energy and technology companies. With experience in the energy, technology, semiconductor, and renewable energy sectors, Branderiz is an expert in finance, accounting, M&A execution, risk and ESG management, and corporate governance.
+
+
+***
+![Five migration trends that will accelerate in 2023](https://itwire.com/media/k2/items/cache/f6bba487a6dafc958320ca69ff64189a_XS.jpg "Five migration trends that will accelerate in 2023")
+
+
+[Five migration trends that will accelerate in 2023](https://itwire.com/guest-articles/guest-opinion/five-migration-trends-that-will-accelerate-in-2023.html)
+
+
+> BitTitan senior solution architect Tosin Vaithilingam GUEST OPINION: A new year is a time when most people take stock of what they have accomplished and make plans for the year ahead. New opportunities await those who are prepared and know where to find them. Considering the past year and looking ahead into 2023, we can predict a few trends that are here to stay for the foreseeable future. Here are those that will likely continue in 2023. #1 We are in a cybersecurity arms race Microsoft has finally done it.
+
+
+***
+![Upgrade Your Apple Watch](https://hips.hearstapps.com/hmg-prod/images/wristcam-smart-dual-camera-band-1675287480.jpg?crop=1xw:1xh;center,top&resize=1200:* "Upgrade Your Apple Watch")
+
+
+[Upgrade Your Apple Watch](https://www.popularmechanics.com/technology/gadgets/a42084126/best-apple-watch-accessories-camera/)
+
+
+> An Apple Watch places your most important daily tasks and notifications on your wrist. With a tap, you can respond to messages, track workouts, and browse social media without reaching for your iPhone . Some people even play games or watch YouTube on their watches. But despite all of this smartwatch's features, there's still so much it can't do—it doesn't have a camera . That's where the Apple Watch accessories below come in handy. These are the best gadgets we've tested to add new skills to the popular smartwatch.
+
+
+***
+![Game. Charms for any smartphone that are inserted into the charging port](https://www.iphones.ru/wp-content/uploads/2023/02/S58429bfca323447fb7b6f78b5e20cad4h.jpg "Game. Charms for any smartphone that are inserted into the charging port")
+
+
+[Game. Charms for any smartphone that are inserted into the charging port](https://tekdeeps.com/game-charms-for-any-smartphone-that-are-inserted-into-the-charging-port/)
+
+
+> When it comes to accessories for smartphones, the first thing that comes to mind is some kind of case, film or protective glass. But there are still things on AliExpress that can surprise you. For example, plug-in pendants which are inserted into the charging port and protect it from dust. Similar accessories are familiar to Apple Watch owners. But if there the pendants perform only a decorative function, then in smartphones they can really protect the connector from dust and small particles. The only negative, if you do not use wireless charging, you will have to pull out the suspension every time and insert it back after charging is completed.
+
+
+***
+![The keyboard is imprinted on the MacBook screen. What to do](https://appleinsider.ru/wp-content/uploads/2023/02/keyboard_on_display_head-750x436.jpg "The keyboard is imprinted on the MacBook screen. What to do")
+
+
+[The keyboard is imprinted on the MacBook screen. What to do](https://tekdeeps.com/the-keyboard-is-imprinted-on-the-macbook-screen-what-to-do/)
+
+
+> When you buy a new expensive MacBook, you immediately want to protect it as much as possible in order to preserve the appearance of the device. And if the use of special protective covers is good for the laptop, then any attempt to hide the keyboard under special pads can end very badly. When using them, very often corresponding prints remain on the screen. But even if you do not cover the keyboard with anything, you are not at all immune from the appearance of key marks on the display. Very often even the usual carrying Macbook in a bag with other things can cause key prints on the screen.
+
+
+***
+![Sony PlayStation 5 is leaking with a fat discount on AliExpess. It won't be cheaper](https://www.iguides.ru/upload/medialibrary/94d/6azy28i0xisfdyhjlgxrjhb5p68h0r29.jpg "Sony PlayStation 5 is leaking with a fat discount on AliExpess. It won't be cheaper")
+
+
+[Sony PlayStation 5 is leaking with a fat discount on AliExpess. It won't be cheaper](https://tekdeeps.com/sony-playstation-5-is-leaking-with-a-fat-discount-on-aliexpess-it-wont-be-cheaper/)
+
+
+> Mega popular and one of the most powerful gaming consoles of its generation, Sony PlayStation 5 collapsed in price below 50 thousand rubles, despite the next fluctuations in the ruble exchange rate. It was almost impossible to buy the fifth 'curling iron' at the start of sales and at the RRP of 47 thousand rubles, and at that time there was not much sense in it. Another thing is to buy it now for almost the same price, but with a small catalog of powerful PS5 exclusives, including God of War: Ragnarok, Horizon Forbidden West and Grand Turismo 7.
+
+
+***
+![Comcast docs 'Founding in Color' and 'Road to RISE' share the ups and downs of being a Black or Latinx founder](https://technical.ly/wp-content/uploads/2023/02/Comcast_FiC_RtR_23-149.jpg "Comcast docs 'Founding in Color' and 'Road to RISE' share the ups and downs of being a Black or Latinx founder")
+
+
+[Comcast docs 'Founding in Color' and 'Road to RISE' share the ups and downs of being a Black or Latinx founder](https://technical.ly/diversity-equity-inclusion/comcast-founding-in-color-road-rise/)
+
+
+> Full disclosure: Comcast is a Technical.ly Ecosystem Builder client. That relationship is unrelated to this report. The energy of the Comcast Technology Center's Ralph J. Roberts Forum on Wednesday afternoon was literally sparkling. That is, founder Folasadé Ogunmokun was wearing a full sequined suit. But she wasn't the only founder taking their moment to shine at the premiere of 'Founding in Color' season two and 'The Road to RISE' season one. Comcast invited founders and other participants from the two documentaries to watch sneak peeks of them and participate in panels about their experiences.
+
+
+***
+![Reddit Breached With Stolen Employee Credentials](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt746950462e33118a/63e57d5460ad736ccf73e420/Reddit_NetPics_Alamy.jpg "Reddit Breached With Stolen Employee Credentials")
+
+
+[Reddit Breached With Stolen Employee Credentials](https://www.darkreading.com/attacks-breaches/reddit-breached-with-stolen-employee-credentials)
+
+
+> Reddit announced that its internal systems were breached on Feb. 5 as the result of an employee credential compromise. The company said a "sophisticated and highly-targeted" phishing attack was able to trick a single employee into giving up their login information. The cyberattackers then gained access to code and some internal data, including advertiser and employee information. Reddit user data was not affected, however, the company said. "Based on several days of initial investigation by security, engineering, and data science (and friends!), we have no evidence to suggest that any of your non-public data has been accessed, or that Reddit's information has been published or distributed online," the company said .
+
+
+***
+![Why Live-Action Spider-Man Noir Doesn't Need to Be Peter Parker](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2023/02/09144214/Spider-Man-Noir-Featured.jpg "Why Live-Action Spider-Man Noir Doesn't Need to Be Peter Parker")
+
+
+[Why Live-Action Spider-Man Noir Doesn't Need to Be Peter Parker](https://nerdist.com/article/spiderman-noir-doesnt-need-to-be-peter-parker-sony-marvel/)
+
+
+> In a surprise report, it appears Sony is developing a Spider-Man: Noir live-action series for Prime Video . This would be the second Spider-Man-related live-action show for them, following their announcement of Silk . Given how popular this relatively obscure Spider-Man variant became after the release of Spider-Man: Into the Spider-Verse, and one great Nicolas Cage voice performance, it makes sense. However, the biggest change for this live-action Spider-Man iteration is that, unlike the comics, he won't be Peter Parker under that mask.
+
+
+***
+![Need a cheap laptop? This 14-inch HP is only $270 today](https://www.digitaltrends.com/wp-content/uploads/2022/01/1-hp-1422-laptop-intel-celeron-4gb-memory-64gb-emmc-jet-black.jpg?resize=1200%2C630&p=1 "Need a cheap laptop? This 14-inch HP is only $270 today")
+
+
+[Need a cheap laptop? This 14-inch HP is only $270 today](https://www.digitaltrends.com/computing/hp-laptop-14-deal-hp-february-2023/)
+
+
+> Buying a new laptop doesn't have to break the bank, especially if you'll only be using it for simple tasks. Fortunately, there are amazing laptop deals like the HP Laptop 14 for just $270, after a $160 discount from HP on its original price of $430. We're not expecting this offer to last long as there's high demand for cheap but reliable laptops, so you'll have to complete the transaction as soon as possible if you don't want to miss out. Why you should buy the HP Laptop 14 The HP Laptop 14 offers decent performance with its AMD 3020e processor and AMD Radeon Graphics, plus 8GB of RAM that our laptop buying guide says is the sweet spot for most users.
+
+
+***
+![Technical trade students compete in skills contest for a spot in state competition](https://www.wboy.com/wp-content/uploads/sites/43/2023/02/Buckhannon-SkillsUSA-Competition.jpg?w=1280 "Technical trade students compete in skills contest for a spot in state competition")
+
+
+[Technical trade students compete in skills contest for a spot in state competition](https://www.wboy.com/news/upshur/technical-trade-students-compete-in-skills-contest-for-a-spot-in-state-competition/)
+
+
+> BUCKHANNON, W.Va. – A local 'SkillsUSA Competition,' was held at the Fred W. Eberle Technical Center in Buckhannon on Thursday. Barbour, Lewis, and Upshur County sophomores through post-secondary students competed in their individual training areas against one another. The goal of this competition is to test the students' skills to the point where some of them will move on to the state competition. Electrical construction wiring, matching haircuts to pictures of hairstyles given, and how to conduct CPR on a mannequin are just a few of the training area contests that took place on Thursday.
+
+
+***
+![Technician provides tip on how to slay Energy Vampires](https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/09/9bed7197-c44d-49cd-a0d3-f087856cd1f7/thumbnail/1200x630/e17fd7fe7fc2446b0d90a0556e6de339/96f2ea64dc59f9a04a9097332ede4e20.jpg "Technician provides tip on how to slay Energy Vampires")
+
+
+[Technician provides tip on how to slay Energy Vampires](https://www.cbsnews.com/colorado/video/technician-provides-tip-on-how-to-slay-energy-vampires/)
+
+
+> A technician explained how consumers can save money on their utility bills by slaying Energy Vampires.
+
+
+***
+![Dragon's Lair x RepliCade Overhaul Black Edition](http://cdn.shopify.com/s/files/1/2274/2569/products/DragonsLairBlackTrimOHBeauty_1200x1200.jpg?v=1675961812 "Dragon's Lair x RepliCade Overhaul Black Edition")
+
+
+[Dragon's Lair x RepliCade Overhaul Black Edition](https://newwavetoys.com/products/dragons-lair-x-replicade-overhaul-black)
+
+
+> Dragon's Lair Overhaul Black Edition  is a redesign of our original 1/6th scale Dragon's Lair x RepliCade with exclusive features and updates including: a more powerful processor to enable HDTV screen mirroring, individually numbered Cinematronics cabinet branding, Cinematronics raised letter metal coin door, black t-molding, mini prop replica of the commercial grade LDV1000 LaserDisc player used in Gen 2+ production runs of Dragon's Lair, special Cinematronics packaging, plus a bonus Dragon's Lair one sheet mini poster.
+
+
