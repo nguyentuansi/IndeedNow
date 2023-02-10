@@ -4455,3 +4455,939 @@
 > Hi, I wanted to use the erase all content and features setting on my m1 air due to some suspicious behaviors, and I was just wondering if whether this was safe to do so due to the following circumstances. My school uses eduoram which is encrypted and secured wifi, but to get to this connection you have to first connect to the unencrypted http legacy network for it to prompt you to download an application that would essentially allow you to connect to the encrypted network. If I were to reset my mac, it would redownload mac os itself connected to the http legacy network upon setting it back up because I cant download the application to get on the encrypted network before the device is getting set up and the mac uses wifi to download the OS again.
 
 
+***
+![Tech layoffs: GitHub announces 10% job cuts](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/06184758/photo-800x434.jpg "Tech layoffs: GitHub announces 10% job cuts")
+
+
+[Tech layoffs: GitHub announces 10% job cuts](https://shepherdgazette.com/tech-layoffs-github-announces-10-job-cuts/)
+
+
+> By Sammy Edwards Last updated Feb 9, 2023 GitHub has joined the list of tech companies cutting jobs. The Microsoft-owned company has said it will lay off 10% of its workforce by the end of this fiscal year. GitHub currently has about 3,000 employees. Along with the layoff, the company has also announced that it will be closing its offices and working entirely from home. GitHub will continue to freeze the setting. 'We have announced a series of difficult but necessary decisions and budgetary adjustments to both protect the health of our business in the short-term and allow us to invest in our long-term strategy to move forward.
+
+
+***
+![Splatoon 3's Dark vs. Milk vs. White Chocolate Splatfest illustration shared](https://gonintendo.com/attachments/image/23047/file/medium-2fb377fe65f0e301d82fd44adbcccfa4.jpg "Splatoon 3's Dark vs. Milk vs. White Chocolate Splatfest illustration shared")
+
+
+[Splatoon 3's Dark vs. Milk vs. White Chocolate Splatfest illustration shared](https://gonintendo.com/contents/16102-splatoon-3-s-dark-vs-milk-vs-white-chocolate-splatfest-illustration-shared)
+
+
+> The official Splatoon account has shared a new illustration for the upcoming Dark vs. Milk vs. White Chocolate Splatfest that is starting in just a couple of hours at 4:00 pm PT on February 10th, 2023. Which team are you on? modal#open commentUpvoteInfoModal.open@document->modal#reloadFrame>
+
+
+***
+![Automation top investment priority for business in next two years](https://www.hrmagazine.co.uk/media/bfsj540s/brain-20idea-20teaching_popup.jpg "Automation top investment priority for business in next two years")
+
+
+[Automation top investment priority for business in next two years](https://www.hrmagazine.co.uk/content/news/automation-top-investment-priority-for-business-in-next-two-years/)
+
+
+> Digital workplace tools and automation are one of the top investment priorities for companies over the next two years, according to new research. Consultancy Infosys's Future of Work 2023 report found 30% of organisations were investing in automation to help boost profits. Technology and HR: Should your staff work in the metaverse? Entry-level HR roles at risk of automation Technology is not the solution to a bad culture Leaders predicted a combined profit of £232 billion if they introduced more automation in their workplaces.
+
+
+***
+[IQVIA Reports Fourth-Quarter and Full-Year 2022 Results; Issues Full-Year 2023 Guidance](http://www.businesswire.com/news/home/20230210005033/en/IQVIA-Reports-Fourth-Quarter-and-Full-Year-2022-Results-Issues-Full-Year-2023-Guidance/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> RESEARCH TRIANGLE PARK, N.C.--(BUSINESS WIRE)--IQVIA Holdings Inc. ('IQVIA') (NYSE:IQV), a leading global provider of advanced analytics, technology solutions, and clinical research services to the life sciences industry, today reported financial results for the quarter ended December 31, 2022. Fourth-Quarter 2022 Operating Results Revenue for the fourth quarter of $3,739 million increased 2.8 percent on a reported basis and 7.0 percent at constant currency, compared to the fourth quarter of 20
+
+
+***
+[Global Payments Reports Fourth Quarter and Full Year 2022 Results](http://www.businesswire.com/news/home/20230210005056/en/Global-Payments-Reports-Fourth-Quarter-and-Full-Year-2022-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ATLANTA--(BUSINESS WIRE)-- #globalpayments--Global Payments Inc. (NYSE: GPN) today announced results for the fourth quarter and year ended December 31, 2022.
+
+
+***
+[Sensient Technologies Corporation Reports Results for the Quarter Ended December 31, 2022](http://www.businesswire.com/news/home/20230209005557/en/Sensient-Technologies-Corporation-Reports-Results-for-the-Quarter-Ended-December-31-2022/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MILWAUKEE--(BUSINESS WIRE)--Sensient Technologies Corporation (NYSE: SXT) reported consolidated revenue of $348.7 million in this year's fourth quarter compared to $340.4 million in last year's fourth quarter. Reported operating income in the fourth quarter of 2022 was $41.2 million compared to $40.4 million in the fourth quarter of 2021. Reported diluted earnings per share was 69 cents in the fourth quarter of 2022 compared to 65 cents in the fourth quarter of 2021. Foreign currency translatio
+
+
+***
+![OPPO Find N2 Flip is going global on February 15 to battle Galaxy Z Flip 4](https://www.androidheadlines.com/wp-content/uploads/2023/02/OPPO-Find-N2-Flip-global-launch-event-2.jpg "OPPO Find N2 Flip is going global on February 15 to battle Galaxy Z Flip 4")
+
+
+[OPPO Find N2 Flip is going global on February 15 to battle Galaxy Z Flip 4](https://www.androidheadlines.com/2023/02/oppo-find-n2-flip-global-launch-event.html)
+
+
+> html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd" OPPO has just confirmed that the global variant of the Find N2 Flip will launch on February 15. The event will be hosted in London, UK, and it will kick off at 2:30 PM GMT / 3:30 PM CET / 9:30 AM EST / 6:30 AM PST. The OPPO Find N2 Flip global launch event is scheduled for February 15 OPPO is even teasing an ' invisible crease ' via its social media channels, seemingly poking fun at Samsung. The OPPO Find N2 and Find N2 Flip have a much less noticeable crease than any of Samsung's foldable smartphones thus far.
+
+
+***
+![iQoo Neo 7 specifications, features confirmed: Here's all you need to know](https://static.toiimg.com/thumb/msid-97801268,width-1070,height-580,imgsize-163378,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "iQoo Neo 7 specifications, features confirmed: Here's all you need to know")
+
+
+[iQoo Neo 7 specifications, features confirmed: Here's all you need to know](https://timesofindia.indiatimes.com/gadgets-news/iqoo-neo-7-specifications-features-confirmed-heres-all-you-need-to-know/articleshow/97801325.cms)
+
+
+> FOLLOW US ON SOCIAL MEDIA Facebook Twitter Instagram KOO APP YOUTUBE
+
+
+***
+![Google Maps launches Immersive View in five cities, will roll out ‘glanceable directions' soon](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-09-14554300.jpg "Google Maps launches Immersive View in five cities, will roll out ‘glanceable directions' soon")
+
+
+[Google Maps launches Immersive View in five cities, will roll out ‘glanceable directions' soon](http://www.businessghana.com/site/news/technology/279652/Google-Maps-launches-Immersive-View-in-five-cities,-will-roll-out-%E2%80%98glanceable-directions%E2%80%99-soon)
+
+
+> Google is launching new updates for Maps that are part of its plan to make the navigation app more immersive and intuitive for users, the company announced today at its event in Paris. Most notably, the company announced that Immersive View is rolling out starting today in London, Los Angeles, New York, San Francisco and Tokyo. Immersive View, which Google first announced at I/O in May 2022, is designed to help you plan ahead and get a deeper understanding of a city before you visit it. The company plans to launch Immersive View in more cities, including Amsterdam, Dublin, Florence and Venice in the coming months.
+
+
+***
+![Lava Blaze 5G gets a new 6GB variant, priced at Rs 11,499](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/10/2571995-lava-blaze-5g.png "Lava Blaze 5G gets a new 6GB variant, priced at Rs 11,499")
+
+
+[Lava Blaze 5G gets a new 6GB variant, priced at Rs 11,499](https://www.dnaindia.com/technology/report-lava-blaze-5g-gets-a-new-6gb-variant-priced-at-rs-11499-3022778)
+
+
+> Lava Blaze 5G Lava has announced the launch of a new variant of its Lava Blaze 5G smartphone. The new company has launched a new 6GB variant of Lava Blaze 5G. Until now, the Lava Blaze 5G was only available with 4GB of RAM. The new Blaze 5G 6GB variant is priced at Rs 11,499 and it will go on sale in India from February 15. It is worth noting that this price is introductory and the price of the smartphone will increase to Rs 11,999 from February 16 onwards. The Lava Blaze 5G 6GB variant features a glass back design in two colours-- Glass Green and Glass Blue.
+
+
+***
+![5.9 million tonnes of lithium reserves discovered in J-K, know all about metal and why its used in EV batteries](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/10/2571975-lithium-reuters.jpg "5.9 million tonnes of lithium reserves discovered in J-K, know all about metal and why its used in EV batteries")
+
+
+[5.9 million tonnes of lithium reserves discovered in J-K, know all about metal and why its used in EV batteries](https://www.dnaindia.com/technology/report-59-million-tonnes-of-lithium-reserves-discovered-in-j-k-know-all-about-metal-and-why-its-used-ev-batteries-3022772)
+
+
+> Reuters Photo On Thursday, the Union Government said that 5.9 million tonnes of lithium reserves have been found for the first time in the country in Jammu and Kashmir. Lithium is a non-ferrous metal and is one of the key components in EV batteries. Currently, India imports many essential minerals such as lithium, nickel, and cobalt. But this discovery of lithium reserves in Jammu and Kashmir can make sure that battery and EV manufacturers won't have to rely on imports. READ | Avoid eating these food items before a long flight, check list Why is lithium is used in EV batteries?  Lithium batteries have a high power-to-weight ratio, high energy efficiency, good high-temperature performance, and low self-discharge.
+
+
+***
+[Spectrum Brands Holdings Reports Fiscal 2023 First Quarter Results](http://www.businesswire.com/news/home/20230209005792/en/Spectrum-Brands-Holdings-Reports-Fiscal-2023-First-Quarter-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MIDDLETON, Wis.--(BUSINESS WIRE)--Spectrum Brands Holdings, Inc. (NYSE: SPB; 'Spectrum Brands' or the 'Company'), a leading global branded consumer products and home essentials company focused on driving innovation and providing exceptional customer service, today reported results from continuing operations for the first quarter of fiscal 2023 ended January 1, 2023. "Our financial results for the quarter demonstrate our renewed focus on profitability, financial discipline and cost management. W
+
+
+***
+[Ault Alliance, Inc. Subsidiary BitNile, Inc. Moving 6,572 Bitcoin Miners Out of Texas Hosted Facility](http://www.businesswire.com/news/home/20230210005139/en/Ault-Alliance-Inc.-Subsidiary-BitNile-Inc.-Moving-6572-Bitcoin-Miners-Out-of-Texas-Hosted-Facility/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LAS VEGAS--(BUSINESS WIRE)---- $AP #AMEX--Ault Alliance, Inc. Subsidiary, BitNile, Inc., Moving 6,572 Bitcoin Miners Out of Texas Hosted Facility as Result of Compute North Filing Bankruptcy
+
+
+***
+![Turkey-Syria Earthquake Death Toll Tops 20,000 As Rescues Dwindle](https://img.huffingtonpost.com/asset/63e5f07b2000005c00b46230.jpeg?ops=scalefit_720_noupscale "Turkey-Syria Earthquake Death Toll Tops 20,000 As Rescues Dwindle")
+
+
+[Turkey-Syria Earthquake Death Toll Tops 20,000 As Rescues Dwindle](https://newsakmi.com/../../usnews/turkey-syria-earthquake-death-toll-tops-20000-as-rescues-dwindle)
+
+
+> KAHRAMANMARAS, Turkey (AP) — A teenager was pulled largely unscathed from beneath the rubble of a collapsed building in the Turkish city of Gaziantep early Friday, in a dramatic rescue that belied the reality that the chances of finding many more survivors four days after a catastrophic earthquake killed tens of thousands are shrinking fast. The 7.8 magnitude earthquake hit the border region between Turkey and Syria, an area home to more than 13.5 million people, killing more than 20,000 people.
+
+
+***
+![Tier launches new, highly accurate mircomobility parking solution](https://www.traffictechnologytoday.com/wp-content/uploads/2023/02/TierPark.png "Tier launches new, highly accurate mircomobility parking solution")
+
+
+[Tier launches new, highly accurate mircomobility parking solution](https://www.traffictechnologytoday.com/news/multimodal-systems/tier-launches-new-highly-accurate-mircomobility-parking-solution.html)
+
+
+> Tier Mobility has announced the roll-out of its most accurate parking validation solution yet, Tier AVPS (Advanced Vehicle Parking System), using its Fantasmo technology. The system is the latest addition to TIER's suite of parking validation solutions, and has been developed by combining the best of both the Google's Visual Positioning System (VPS) and Tier's in-house parking space surveying solution, developed by Fantasmo. ') } else { console.log ('nompuad'); document.write('') } // --> ') } else if (width >= 425) { console.
+
+
+***
+![Realme 10 Pro Coca-Cola Edition Launched in India: Check Price, Specifications, Other Details](https://english.cdn.zeenews.com/sites/default/files/2023/02/10/1152100-untitled-design-2023-02-10t161741.848.jpg "Realme 10 Pro Coca-Cola Edition Launched in India: Check Price, Specifications, Other Details")
+
+
+[Realme 10 Pro Coca-Cola Edition Launched in India: Check Price, Specifications, Other Details](https://zeenews.india.com/technology/realme-10-pro-coca-cola-edition-launched-in-india-check-price-specifications-other-details-2571862.html)
+
+
+> New Delhi:  A new smartphone from Realme has been unveiled in collaboration with Coca-Cola. The Realme 10 Pro Coca-Cola edition phone focuses on the design and features the recognisable red branding of Coca-Cola on the back panel. To mirror the aesthetics of the soft drink industry, even the rims of the rear cameras have a subtle red tint. The ordinary Realme 10 Pro, which debuted in India in December, shares the same characteristics as the Realme 10 Pro Coca-Cola edition in all other respects. The 8GB RAM version of the Realme 10 Pro Coca-Cola costs Rs 20,999 in India.
+
+
+***
+![Clarity PhilHealth eClaims Demo](https://external-preview.redd.it/R9qgkEiviMcprw2wkdN89unONKT2MtkxTMqmfxPeq3w.jpg?auto=webp&v=enabled&s=3296fb4cdf0146d42630d464cdbc6237347985e1 "Clarity PhilHealth eClaims Demo")
+
+
+[Clarity PhilHealth eClaims Demo](https://www.reddit.com/r/programming/comments/10ypejm/clarity_philhealth_eclaims_demo)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Cross-border payments fintech Tazapay grabs $17mn in funding](https://assets.bizclikmedia.net/1800/84e6a7f215aab626b068cfba430b9559:a71eaa1843185e7c96ca42a6650c52c6/gettyimages-1371070653.jpg.jpg "Cross-border payments fintech Tazapay grabs $17mn in funding")
+
+
+[Cross-border payments fintech Tazapay grabs $17mn in funding](https://fintechmagazine.com/articles/cross-border-payments-fintech-tazapay-grabs-17mn-in-funding)
+
+
+> Tazapay , a Singapore-based fintech that specialises in cross-border payments, has raised US$16.9mn in Series A funding led by Sequoia Capital Southeast Asia . Tazapay will use the money to grow its business across Asia and expand into other regions where it sees strong demand, such as the Middle East and Europe. This includes the application of payment licenses in major markets that will broaden Tazapay's payment network globally. The company will also be beefing up its core capabilities and adding more local payment methods to better serve the growing list of verticals that already includes cross-border ecommerce, education technology, SaaS and travel.
+
+
+***
+[Worldwide Electric Toothbrush Industry: Historical Period 2018-2022 and Forecast Period 2023-2030](http://www.businesswire.com/news/home/20230210005204/en/Worldwide-Electric-Toothbrush-Industry-Historical-Period-2018-2022-and-Forecast-Period-2023-2030---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Electric Toothbrush Market: Global Market Size, Forecast, Insights, and Competitive Landscape" report has been added to ResearchAndMarkets.com's offering. The global electric toothbrush market is expected to grow at a CAGR of around 4.5% during 2023-2030. This report on global electric toothbrush market report provides holistic understanding of the market along with market sizing, forecast, drivers, challenges, and competitive landscape. The report presents a clear
+
+
+***
+![Qualcomm Testing 10-Inch Tablets With Next-Gen Snapdragon 8cx Gen 4 Chipset](https://st1.latestly.com/wp-content/uploads/2022/11/resize-2022-11-03T165224.904-784x441.jpg "Qualcomm Testing 10-Inch Tablets With Next-Gen Snapdragon 8cx Gen 4 Chipset")
+
+
+[Qualcomm Testing 10-Inch Tablets With Next-Gen Snapdragon 8cx Gen 4 Chipset](https://www.latestly.com/technology/qualcomm-testing-10-inch-tablets-with-next-gen-snapdragon-8cx-gen-4-chipset-4824033.html)
+
+
+> San Francisco, February 10 :  Chip-maker Qualcomm is reportedly testing 10-inch tablets with its upcoming "Snapdragon 8cx Gen 4 chipset". This suggests that the processor is expected to focus on tablets that are 10-inch or larger, as well as some 2-in-1 tablets and even Windows on ARM laptops, reports GSMArena.  WhatsApp New Camera Mode: Meta-Owned Messaging Platform Lets Users Record Videos Hands-Free on iOS Beta. The Snapdragon 8cx Gen 4, code-named "Hamoa", is likely to have 12 CPU cores, 8 performance (up to 3.
+
+
+***
+[Global E-Learning Market Report 2023 to 2030: Rise in Government Programs and Initiatives Drives Growth](http://www.businesswire.com/news/home/20230210005203/en/Global-E-Learning-Market-Report-2023-to-2030-Rise-in-Government-Programs-and-Initiatives-Drives-Growth---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "E-Learning Market: Global Market Size, Forecast, Insights, and Competitive Landscape" report has been added to ResearchAndMarkets.com's offering. The global e-learning market is expected to grow at a CAGR of around 12.0% during 2023-2030. This report on global e-learning market report provides holistic understanding of the market along with market sizing, forecast, drivers, challenges, and competitive landscape. The report presents a clear picture of the global e-l
+
+
+***
+![Nintendo wants to maximize the appeal of their IP and Switch Online](https://gonintendo.com/attachments/image/23046/file/medium-9eb5e7ef7acfd296aa85fd52b2c0e862.jpg "Nintendo wants to maximize the appeal of their IP and Switch Online")
+
+
+[Nintendo wants to maximize the appeal of their IP and Switch Online](https://gonintendo.com/contents/16101-nintendo-wants-to-maximize-the-appeal-of-their-ip-and-switch-online)
+
+
+> New games, online features and more fun Nintendo has published their official Q&A from their Q3 results for fiscal year 2023, and one of the questions pertained to extending the Switch lifecycle. Nintendo president Shuntaro Furukawa answered this question by talking about how recent titles have done quite well, and Nintendo already has some heavy-hitters lined up for the second half of 2023. The overall goal for Nintendo is to reach more consumers by maximizing the appeal of their IP through games and content outside of games.
+
+
+***
+![UK's National Highways: "70% of lighting to be LED by 2027"](https://www.traffictechnologytoday.com/wp-content/uploads/2023/02/Lights1.png "UK's National Highways: "70% of lighting to be LED by 2027"")
+
+
+[UK's National Highways: "70% of lighting to be LED by 2027"](https://www.traffictechnologytoday.com/news/infrastructure/uks-national-highways-70-of-lighting-to-be-led-by-2027.html)
+
+
+> As part of its commitment to Net Zero, National Highways, the government company responsible for England's Strategic Road Network (SRN), has announced it will switch 70% of its lights to cleaner LED alternatives by 2027. The new initiative represents its biggest-ever program for replacing older lamps with LED lights that use far less energy to produce the same amount of light, starting last month (January) on the A5036 in the North West. ') } else { console.log ('nompuad'); document.write('') } // --> ') } else if (width >= 425) { console.
+
+
+***
+![Nintendo talks Switch players and playtime, and wooing more customers through non-gaming initiatives](https://gonintendo.com/attachments/image/23044/file/medium-bbdc9a05581229a1048f6ff4100cfe62.jpg "Nintendo talks Switch players and playtime, and wooing more customers through non-gaming initiatives")
+
+
+[Nintendo talks Switch players and playtime, and wooing more customers through non-gaming initiatives](https://gonintendo.com/contents/16100-nintendo-talks-switch-players-and-playtime-and-wooing-more-customers-through-non)
+
+
+> It takes all types of players...and non-players Nintendo has published their official Q&A from their Q3 results for fiscal year 2023, and one of the questions pertained to the time Switch owners spend playing. Nintendo president Shuntaro Furukawa opened up about the different types of Switch players, as some play a few games for a long time, and others hop from game to game quite often. All of these people are important to Nintendo, as is a push to increase playtime overall.
+
+
+***
+[Moog Inc. to Present at Cowen &amp; Company Aerospace and Defense Conference on February 15, 2023](http://www.businesswire.com/news/home/20230210005052/en/Moog-Inc.-to-Present-at-Cowen-Company-Aerospace-and-Defense-Conference-on-February-15-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> EAST AURORA, N.Y.--(BUSINESS WIRE)--Moog Inc. (NYSE: MOG.A and MOG.B) announced today that Pat Roche, CEO, and Jennifer Walter, CFO, will present at the 44th Annual Cowen Aerospace and Defense Conference on Wednesday, February 15, 2023 at 11:30 a.m. ET. Listeners can access the audio live over the Internet at http://www.moog.com/investors/communications/. Please allow 15 minutes prior to the start of the meeting to download and install any necessary audio software. The audio will be archived on
+
+
+***
+[Protolabs Reports Financial Results for the Fourth Quarter and Full Year 2022](http://www.businesswire.com/news/home/20230210005085/en/Protolabs-Reports-Financial-Results-for-the-Fourth-Quarter-and-Full-Year-2022/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MAPLE PLAIN, Minn.--(BUSINESS WIRE)--Proto Labs, Inc. (the "Company" or "Protolabs") (NYSE: PRLB), the world's leading provider of digital manufacturing services, today announced financial results for the fourth quarter and full year ended December 31, 2022. Fourth Quarter 2022 Highlights include: Revenue for the fourth quarter of 2022 was $115.6 million, representing a 6.5 percent decrease compared to revenue of $123.6 million in the fourth quarter of 2021. Revenue generated from our digital n
+
+
+***
+[Color Your World – CORSAIR Launches iCUE Murals Lighting, a State-of-the-Art RGB Customization Software](http://www.businesswire.com/news/home/20230210005062/en/Color-Your-World-%E2%80%93-CORSAIR-Launches-iCUE-Murals-Lighting-a-State-of-the-Art-RGB-Customization-Software/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MILPITAS, Calif.--(BUSINESS WIRE)---- $CRSR--CORSAIR® (NASDAQ: CRSR), a world leader in enthusiast components for gamers, creators, and PC builders, today introduced iCUE Murals Lighting, a groundbreaking software for creating incredibly immersive lighting effects in CORSAIR iCUE. This powerful feature enables you to use images, video, and even on-screen visuals as colorful templates to produce imaginative, mesmerizing lightscapes. With Murals, your desktop – and entire game room – comes alive w
+
+
+***
+![Streaming the Super Bowl this year is easy, but beware of lag and spoilers](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-09-2023/t_a591456e62964c9e92e7da3b0df7651b_name_0210_helpdesk_superbowlstream_1_scaled.jpg&w=1440 "Streaming the Super Bowl this year is easy, but beware of lag and spoilers")
+
+
+[Streaming the Super Bowl this year is easy, but beware of lag and spoilers](https://www.washingtonpost.com/technology/2023/02/10/super-bowl-streaming-avoid-lag)
+
+
+> Listen Comment on this story Comment Gift Article Share Millions of people will carve out time this Sunday to watch Super Bowl 57, where the Philadelphia Eagles will hopefully cream the Kansas City Chiefs in Arizona's State Farm stadium. And if this game is anything like last year's, a big chunk of that audience will be watching via streaming service. Broadcast rights for the big game have fallen to Fox in 2023, and the company has made it surprisingly easy to tune in. You don't even need a TV subscription — the company will live-stream the Super Bowl free on FoxSports.
+
+
+***
+![Sorry, ChatGPT, Some Problems Will Always Be Too Hard for AI](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d1e13d9b39f4230e1191704f34821195.jpg "Sorry, ChatGPT, Some Problems Will Always Be Too Hard for AI")
+
+
+[Sorry, ChatGPT, Some Problems Will Always Be Too Hard for AI](https://gizmodo.com/ai-chatgpt-turing-machine-bing-bard-problems-hard-ai-1850094005)
+
+
+> Empowered by artificial intelligence technologies, computers today can engage in convincing conversations with people, compose songs , paint paintings , play chess and go , and diagnose diseases , to name just a few examples of their technological prowess. These successes could be taken to indicate that computation has no limits. To see if that's the case, it's important to understand what makes a computer powerful. There are two aspects to a computer's power: the number of operations its hardware can execute per second and the efficiency of the algorithms it runs.
+
+
+***
+![The US-EU Tech Subsidy Standoff: Davos and Beyond](https://www.aei.org/wp-content/uploads/2023/02/EU-Mad-At-US-Again-Subsidy-Photo.jpg "The US-EU Tech Subsidy Standoff: Davos and Beyond")
+
+
+[The US-EU Tech Subsidy Standoff: Davos and Beyond](https://www.aei.org/technology-and-innovation/the-us-eu-tech-subsidy-standoff-davos-and-beyond/)
+
+
+> Takeaways: US: conciliatory but unbending; Europe: anger turns to resignation —and division. The Inflation Reduction Act (IRA) continues to roil US-EU relations, as evidenced from the Davos World Economic Forum (WEF) dust-ups and subsequent inconclusive consultations. As noted previously, the $369 billion IRA will allot huge subsidies only for electric vehicles (EVs) assembled in North America, and similar restrictions apply to subsidies for the production of rare minerals needed for EV batteries.
+
+
+***
+![Rolls-Royce Spectre Goes Through Extreme Hot Weather Testing In South Africa](https://cdn.motor1.com/images/mgl/bgYjwj/s1/rolls-royce-spectre-hot-weather-testing-9.jpg "Rolls-Royce Spectre Goes Through Extreme Hot Weather Testing In South Africa")
+
+
+[Rolls-Royce Spectre Goes Through Extreme Hot Weather Testing In South Africa](https://insideevs.com/news/651892/rolls-royce-spectre-hot-weather-testing/)
+
+
+> The two-door all-electric Rolls-Royce Spectre is one of the most luxurious EVs out there, featuring about 1,500 pounds of sound deadening for a truly serene, sound-free experience. But even though the order books are open for an eye-watering starting price of around $400,000, it's not exactly ready for prime time, with some 300,000 miles of testing ahead of it. In an effort to show the great lengths it goes to for an almost-perfect experience, Rolls-Royce published a photo gallery (embedded below) showing the Spectre going through its extreme hot weather testing phase in South Africa, where temperatures can reach up to 122 degrees Fahrenheit (50 degrees Celsius).
+
+
+***
+![Nintendo compares new/evergreen game sales, and plans to push older titles to new Switch owners](https://gonintendo.com/attachments/image/23042/file/medium-823c23dd2d604585e5012b883d31918b.jpg "Nintendo compares new/evergreen game sales, and plans to push older titles to new Switch owners")
+
+
+[Nintendo compares new/evergreen game sales, and plans to push older titles to new Switch owners](https://gonintendo.com/contents/16099-nintendo-compares-new-evergreen-game-sales-and-plans-to-push-older-titles-to-new)
+
+
+> Nintendo has published their official Q&A from their Q3 results for fiscal year 2023, and one of the questions pertained to new game sales versus evergreen sales. Nintendo president Shuntaro Furukawa spoke at length about how evergreen titles sold in the past versus this year, and how new games have bit into those sales a bit. Mr. Furukawa also talked about efforts to showcase older games to those who've recently purchased a Switch. You can see his full comments below. modal#open commentUpvoteInfoModal.
+
+
+***
+[Global Secure Sockets Layer (SSL) Certification Market Report 2023-2027: Market is Poised to Grow by $6.11 Billion](http://www.businesswire.com/news/home/20230210005193/en/Global-Secure-Sockets-Layer-SSL-Certification-Market-Report-2023-2027-Market-is-Poised-to-Grow-by-6.11-Billion---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Global Secure Sockets Layer (SSL) Certification Market 2023-2027" report has been added to ResearchAndMarkets.com's offering. The secure sockets layer (SSL) certification market is forecasted to grow by $6,116.08 mn during 2022-2027, accelerating at a CAGR of 19.4% The market is driven by increasing awareness of end-users, increasing number of data thefts, and the need to adhere to regulatory requirements. This study identifies the growing number of online transact
+
+
+***
+![Tech layoffs: Yahoo to slash 20% of its workforce](https://ichef.bbci.co.uk/news/1024/branded_news/1823E/production/_128587889_gettyimages-1240623828.jpg "Tech layoffs: Yahoo to slash 20% of its workforce")
+
+
+[Tech layoffs: Yahoo to slash 20% of its workforce](https://www.bbc.co.uk/news/technology-64596061)
+
+
+> Image source, Getty Images Yahoo plans to lay off more than 20% of its total 8,600 workforce as part of a major restructuring. The veteran tech company is reorganising its advertising unit, which will lose more than half of the department by the end of the year. Nearly 1,000 employees will be affected by the cuts by the end of the week. Yahoo is the latest tech firm to announce job losses as firms struggle with a downturn in demand, high inflation and rising interest rates. "These decisions are never easy, but we believe these changes will simplify and strengthen our advertising business for the long run, while enabling Yahoo to deliver better value to our customers and partners," a spokesperson told the BBC.
+
+
+***
+![Nintendo says Switch is entering "uncharted territory," new titles/evergreen games/IP expansion the key to continued success](https://gonintendo.com/attachments/image/23040/file/medium-52da65ea24e80a21700a7ebd486a065c.webp "Nintendo says Switch is entering "uncharted territory," new titles/evergreen games/IP expansion the key to continued success")
+
+
+[Nintendo says Switch is entering "uncharted territory," new titles/evergreen games/IP expansion the key to continued success](https://gonintendo.com/contents/16098-nintendo-says-switch-is-entering-uncharted-territory-new-titles-evergreen-games-ip)
+
+
+> Nintendo has published their official Q&A from their Q3 results for fiscal year 2023, and one of the questions pertained to the challenge ahead in maintaining Switch sales. Nintendo president Shuntaro Furukawa recognized that the Switch is getting a bit long in the tooth, but he feels there's still plenty of room left for hardware and software growth. This comes from new titles, evergreen games, and the expansion of Nintendo IP beyond games in general. You can see his full response below. modal#open commentUpvoteInfoModal.
+
+
+***
+![Nintendo on the success of Pokemon and Splatoon, building relationships with customers, and continuing plans for unique games](https://gonintendo.com/attachments/image/23037/file/medium-3c504bb2a76f9e50406e11aa147d7586.jpg "Nintendo on the success of Pokemon and Splatoon, building relationships with customers, and continuing plans for unique games")
+
+
+[Nintendo on the success of Pokemon and Splatoon, building relationships with customers, and continuing plans for unique games](https://gonintendo.com/contents/16097-nintendo-on-the-success-of-pokemon-and-splatoon-building-relationships-with)
+
+
+> Nintendo has published their official Q&A from their Q3 results for fiscal year 2023, and one of the questions pertained to the success of Pokémon Scarlet and Violet, as well as Splatoon 3. Nintendo president Shuntaro Furukawa spoke at length about the success of the titles mentioned above, and how Nintendo is always aiming to create longstanding relationships with consumers through brands. Along with that, Mr. Furukawa stressed the importance of Nintendo offering game ideas that go beyond the traditional genres.
+
+
+***
+![Realme 10 Pro Coca-Cola Edition Launched in India With Unique Design and Bubbly Goodie Box](https://st1.latestly.com/wp-content/uploads/2023/02/147-784x441.jpg "Realme 10 Pro Coca-Cola Edition Launched in India With Unique Design and Bubbly Goodie Box")
+
+
+[Realme 10 Pro Coca-Cola Edition Launched in India With Unique Design and Bubbly Goodie Box](https://www.latestly.com/socially/technology/realme-10-pro-coca-cola-edition-launched-in-india-with-unique-design-and-bubbly-goodie-box-4823846.html)
+
+
+> New Delhi, February 10 : The realme 10 Pro Coca-Cola Edition has launched priced at Rs 20,999. The phone designed in association with beverage company Coca-Cola comes in a 8GB RAM and 128GB storage variant and will be available in only 1,000 units.  Samsung Galaxy S23 Ultra BMW M Special Edition Launched With Goodies; Check Key Details Here. The realme 10 Pro Coca-Cola Edition deluxe box set offers a the device with the unique Coca-Cola themed back panel, a cottle cap shaped pin, plenty of cool stickers, a card with the unique numbering from 0001 - 1000 and a cute company mascot realmeow's figurine.
+
+
+***
+![Design of Multimodel and Complex Types_Video on demand](https://external-preview.redd.it/iWou3zllhs9IZw4j6L1wftgJ7Ied22m45V8v3EvqmFE.jpg?auto=webp&v=enabled&s=d3d7e29ea272414691014ac65cca20914207445b "Design of Multimodel and Complex Types_Video on demand")
+
+
+[Design of Multimodel and Complex Types_Video on demand](https://www.reddit.com/r/programming/comments/10yot67/design_of_multimodel_and_complex_types_video_on)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![3 Overlooked Cybersecurity Breaches](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiKcSlCdYsoJH-yfNY7uEort9M765LcFwESDBEyJ-VxLCn2q3O8kIVwlJcp8-MAxFhnBVtR-pR93gkNZfa62TtmDxm39xlWvntfuPAbbqXpss0o64Q1_-8F54NtC8Exr_kYPBMCHkEhwOiVulKew_TPe7QYGSrBX1Ewynh1YnxFMN6tIGyq9O6IiuEV/s728-e3650/cyber.png "3 Overlooked Cybersecurity Breaches")
+
+
+[3 Overlooked Cybersecurity Breaches](https://thehackernews.com/2023/02/3-overlooked-cybersecurity-breaches.html)
+
+
+> Here are three of the worst breaches, attacker tactics and techniques of 2022, and the security controls that can provide effective, enterprise security protection for them. #1: 2 RaaS Attacks in 13 Months Ransomware as a service is a type of attack in which the ransomware software and infrastructure are leased out to the attackers. These ransomware services can be purchased on the dark web from other threat actors and ransomware gangs. Common purchasing plans include buying the entire tool, using the existing infrastructure while paying per infection, or letting other attackers perform the service while sharing revenue with them.
+
+
+***
+[Austria Buy Now Pay Later Market Report 2023: BNPL Payments are Expected to Grow by 22.0% to Reach $1,414.8 Million in 2023](http://www.businesswire.com/news/home/20230210005190/en/Austria-Buy-Now-Pay-Later-Market-Report-2023-BNPL-Payments-are-Expected-to-Grow-by-22.0-to-Reach-1414.8-Million-in-2023---Forecasts-to-2028---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Austria Buy Now Pay Later Business and Investment Opportunities Databook - 75+ KPIs on BNPL Market Size, End-Use Sectors, Market Share, Product Analysis, Business Model, Demographics - Q1 2023 Update" report has been added to ResearchAndMarkets.com's offering. BNPL payments are expected to grow by 22.0% on an annual basis to reach US$1,414.8 million in 2023. The BNPL payment industry in Austria has recorded strong growth over the last four quarters, supported by in
+
+
+***
+![Toolchains.net](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Toolchains.net")
+
+
+[Toolchains.net](https://www.reddit.com/r/programming/comments/10yoott/toolchainsnet_toolchain_resources)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Nintendo talks sales momentum of all 3 Switch units, thinks growth will slow, preparing new games to boost engagement](https://gonintendo.com/attachments/image/23034/file/medium-eecf7ecc83bd3d4f8f60f6595b462741.jpg "Nintendo talks sales momentum of all 3 Switch units, thinks growth will slow, preparing new games to boost engagement")
+
+
+[Nintendo talks sales momentum of all 3 Switch units, thinks growth will slow, preparing new games to boost engagement](https://gonintendo.com/contents/16095-nintendo-talks-sales-momentum-of-all-3-switch-units-thinks-growth-will-slow)
+
+
+> Nintendo has published their official Q&A from their Q3 results for fiscal year 2023, and one of the questions pertained to sales of the three Switch units, and what Nintendo plans to do going into their next fiscal year to keep Switch selling. Nintendo president Shuntaro Furukawa talked about how sales are going for Switch, Switch Lite and the OLED Switch, and also proposed plans for new software that should keep Switch fans interested and woo in new customers as well. You can see his full response below.
+
+
+***
+[Singapore Buy Now Pay Later Market Report 2023: BNPL Payments are Expected to Grow by 20.6% to Reach $1,270.4 Million in 2023](http://www.businesswire.com/news/home/20230210005189/en/Singapore-Buy-Now-Pay-Later-Market-Report-2023-BNPL-Payments-are-Expected-to-Grow-by-20.6-to-Reach-1270.4-Million-in-2023---Forecasts-to-20288---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Singapore Buy Now Pay Later Business and Investment Opportunities Databook - 75+ KPIs on BNPL Market Size, End-Use Sectors, Market Share, Product Analysis, Business Model, Demographics - Q1 2023 Update" report has been added to ResearchAndMarkets.com's offering. BNPL payments are expected to grow by 20.6% on an annual basis to reach US$1,270.4 million in 2023. The BNPL payment industry in Singapore has recorded strong growth over the last four quarters, supported b
+
+
+***
+![Page Not Found](https://images.techshohor.com/wp-content/uploads/2022/04/25114459/tech-Shohor-Y-01.png "Page Not Found")
+
+
+[Page Not Found](https://techshohor.com/193908/%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%A8%E0%A7%87%E0%A6%B8-%E0%A6%AA%E0%A7%8B%E0%A6%B7%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A7%8D)
+
+
+> It looks like nothing was found at this location. Maybe try a search? Search for: Search
+
+
+***
+![Fifth of ICS Bugs Have No Patch Available](https://assets.infosecurity-magazine.com/webpage/og/1207a381-94f7-4e54-ac6f-b6e4752d7b7f.png "Fifth of ICS Bugs Have No Patch Available")
+
+
+[Fifth of ICS Bugs Have No Patch Available](https://www.infosecurity-magazine.com/news/fifth-of-ics-bugs-have-no-patch/)
+
+
+> The number of published industrial control system (ICS) vulnerabilities has grown by almost 70% in the past three years, with over a fifth still not patched by manufacturers, according to SynSaber . The security vendor analyzed advisories published by the US Cybersecurity and Infrastructure Security Agency ( CISA ) between January 1 2020 and December 31 2022 in order to understand how badly industrial plant owners are exposed. It noted a 67% rise in the number of ICS advisories reported by CISA between 2020 and 2021 and a further 2% increase the following year.
+
+
+***
+![Content update for February 10th, 2023 on four mobile games](https://gonintendo.com/attachments/image/23030/file/medium-6548dcb38fc984215c335f3467bdeec7.png "Content update for February 10th, 2023 on four mobile games")
+
+
+[Content update for February 10th, 2023 on four mobile games](https://gonintendo.com/contents/16093-content-update-for-february-10th-2023-on-four-mobile-games)
+
+
+> Mario Kart Tour, Fire Emblem Heroes, Animal Crossing: Pocket Camp, and Super Mario Run have all received a content update. Check out the full details for each game below via perfectly-nintendo.com . Fire Emblem Heroes [Summoning] A new Summoning Focus is now live: New Power. It features the following Heroes: Catria (Mild Middle Sister), Dimitri (The Protector), Lethe (New Year's Claw), and Norne (The Volunteer) (available until February 20th) [Feh Pass] The 73rd Resplendent Hero is now available: Roy (Brave Lion) (available until February 25th) [Feh Pass] The 73rd set of Feh Pass Quests is now live (available until February 25th) [Special Maps] To celebrate the 6th Anniversary of the game, a new Special Map is now available: 6th Anniversary Part 9 (available until February 14th) [Special Maps] To celebrate the 6th Anniversary of the game, a returning Grand Hero Battle is now live: Cormag (Aloof Lanceman) (available until February 11th) [Quests] A new set of Quests is now available: Grand Hero Party (available until February 11th) [Events] The Shield Phase of the latest Mjölnir's Strike event, featuring Matthis (Brother to Lena) is now live (available until February 12th) [Quests] A new set of Quests is now live: Mjölnir's Strike (available until February 12th) Animal Crossing: Pocket Camp [Crafting] The following is now available via Crafting: Candy Wall & Floor (available until February 27th) [Cookies] A returning Fortune Cookie and related set of Stamp Trade rewards are now available: Carrie's apple cookie (available until February 11th) [Events] The My Sweetest Friend 2023 event is now live (available until February 26th) [Other] While the My Sweetest Friend 2023 event is running, limited-edition pose and stamp are available (available until February 26th) Mario Kart Tour [Log-in Bonus] The results for the Winter Tour All-Cup Ranking are now available.
+
+
+***
+[South Korea Buy Now Pay Later Market Databook Report 2023: BNPL Payments are Expected to Grow by 23.2% to Reach $12.05 Billion in 2023](http://www.businesswire.com/news/home/20230210005188/en/South-Korea-Buy-Now-Pay-Later-Market-Databook-Report-2023-BNPL-Payments-are-Expected-to-Grow-by-23.2-to-Reach-12.05-Billion-in-2023---Forecasts-to-2028-Featuring-Naver-Pay-and-Kakao-pay---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "South Korea Buy Now Pay Later Business and Investment Opportunities Databook - 75+ KPIs on BNPL Market Size, End-Use Sectors, Market Share, Product Analysis, Business Model, Demographics - Q1 2023 Update" report has been added to ResearchAndMarkets.com's offering. BNPL payments are expected to grow by 23.2% on an annual basis to reach US$12,058.8 million in 2023. The BNPL payment industry in South Korea has recorded strong growth over the last four quarters, suppor
+
+
+***
+![creating ha kubernetes cluster using kind](https://miro.medium.com/max/1200/1*BeMfRNfJDD2o2NaeXgJrTA.png "creating ha kubernetes cluster using kind")
+
+
+[creating ha kubernetes cluster using kind](https://medium.com/@purushothamkdr453/creating-ha-kubernetes-cluster-using-kind-51484aac9e78)
+
+
+> In the previous blog we have already seen how to create k8s cluster with single node using kind(kubernetes in docker). in this blog we are going to look at creating k8s clusters with ha setup(multiple worker nodes & multiple controlplane). Pre-requisites: Download the configuration file by executing the below command. Lets connect to the cluster. From the above screenshot we can confirm that k8s cluster created with single controlplane & multiple worker nodes(3 worker nodes). Multiple Controlplane & Multiple worker nodes Download the configuration file by executing the below command.
+
+
+***
+![Nintendo says slower evergreen Switch title sales led to decline in the Americas](https://gonintendo.com/attachments/image/23032/file/medium-2af2ae1b7f09a0e72a7f9a6667a6948d.jpg "Nintendo says slower evergreen Switch title sales led to decline in the Americas")
+
+
+[Nintendo says slower evergreen Switch title sales led to decline in the Americas](https://gonintendo.com/contents/16094-nintendo-says-slower-evergreen-switch-title-sales-led-to-decline-in-the-americas)
+
+
+> Less evergreen, less green Nintendo has published their official Q&A from their Q3 results for fiscal year 2023, and one of the questions pertained to the slower sales of software in the Americas. As we've mentioned before, Nintendo said that holiday sales were slower than expected, but the Americas saw the most sizable dip. Nintendo president Shuntaro Furukawa says this stems largely from slower sales for evergreen titles. You can see his full response below. modal#open commentUpvoteInfoModal.
+
+
+***
+![Jump Financial LLC Cuts Holdings in Marvell Technology, Inc. (NASDAQ:MRVL)](https://www.marketbeat.com/logos/marvell-technology-inc-logo.jpg?v=20220727055244 "Jump Financial LLC Cuts Holdings in Marvell Technology, Inc. (NASDAQ:MRVL)")
+
+
+[Jump Financial LLC Cuts Holdings in Marvell Technology, Inc. (NASDAQ:MRVL)](https://www.marketbeat.com/instant-alerts/nasdaq-mrvl-sec-filing-2023-02-10)
+
+
+> Jump Financial LLC lowered its holdings in Marvell Technology, Inc. (NASDAQ:MRVL - Get Rating) by 91.9% in the 3rd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The fund owned 6,430 shares of the semiconductor company's stock after selling 73,370 shares during the quarter. Jump Financial LLC's holdings in Marvell Technology were worth $276,000 as of its most recent filing with the Securities and Exchange Commission (SEC). → Know Your Profit Potential BEFORE You Trade! (From Tradewins) Other hedge funds and other institutional investors have also recently modified their holdings of the company.
+
+
+***
+![Super Smash Bros. Ultimate Spirits Event for February 10th, 2023](https://gonintendo.com/attachments/image/23029/file/medium-31dbb89ab8c1df05e2e74250e52b27fb.jpg "Super Smash Bros. Ultimate Spirits Event for February 10th, 2023")
+
+
+[Super Smash Bros. Ultimate Spirits Event for February 10th, 2023](https://gonintendo.com/contents/16092-super-smash-bros-ultimate-spirits-event-for-february-10th-2023)
+
+
+> The 32nd Spirits Event re-run is here; these events are weekly events that started all the way back when the game was first launched, and in November 2021, Nintendo announced that new weekly events would end, and starting from November 19th, 2021; they will start a re-run of past events. Today's event details are shown below via Perfectly-Nintendo . The 32nd Spirits Event re-run is 'Hard ‘n' Heavy Metal'. While it's running, various metal Spirits will appear on the Spirit Board. Beating those Spirits will allow you to earn more gold! Focus Spirits: Mecha-Fiora, Metal Mario, and Papa (available until February 13th) modal#open commentUpvoteInfoModal.
+
+
+***
+[SSD, HDD Market Share Snapshot, CQ3 &apos;22 Report](http://www.businesswire.com/news/home/20230210005183/en/SSD-HDD-Market-Share-Snapshot-CQ3-22-Report---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "SSD, HDD Market Share Snapshot, CQ3 '22" report has been added to ResearchAndMarkets.com's offering. The NAND/SSD Information Service employs our six-part data delivery model and provides a unique, evolving data set on NAND and SSDs. We provide solid-state storage units and exabytes shipped by form factor with details regarding both client and enterprise-type devices. Also, our systematic, exacting, and timely analysis of the entire HDD value chain is the leading r
+
+
+***
+![Raytheon invests in H55 to advance electric propulsion technologies for airplanes](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/h55-technologies.png "Raytheon invests in H55 to advance electric propulsion technologies for airplanes")
+
+
+[Raytheon invests in H55 to advance electric propulsion technologies for airplanes](https://roboticsandautomationnews.com/2023/02/10/raytheon-invests-in-h55-to-advance-electric-propulsion-technologies-for-airplanes/60187/)
+
+
+> RTX Ventures , the venture capital arm of Raytheon Technologies, has made a minority investment in electric propulsion system company H55 to drive the development of electric aviation solutions. The investment in H55 aligns with Raytheon Technologies' longstanding leadership in the development of innovative and sustainable propulsion technologies. H55, a Swiss company, is a leading enabler of electric propulsion solutions and battery systems. The team has proven ability in developing, integrating and flight-testing electric propulsion systems, including Solar Impulse, the first solar-powered electric airplane to fly around the world.
+
+
+***
+![Windows 11 will soon control your RGB lighting for PC gaming accessories](https://cdn.vox-cdn.com/thumbor/pSd8nENu2sVCW4Lf6rr2peKkx_A=/0x0:2744x1670/1200x628/filters:focal(1372x835:1373x836)/cdn.vox-cdn.com/uploads/chorus_asset/file/24422824/gaming.jpeg "Windows 11 will soon control your RGB lighting for PC gaming accessories")
+
+
+[Windows 11 will soon control your RGB lighting for PC gaming accessories](https://www.theverge.com/2023/2/10/23593977/microsoft-windows-11-rgb-control-pc-gaming-accessories)
+
+
+> Microsoft is working to bring native support for RGB PC gaming accessories to Windows 11. The Windows lighting experience will include the ability for PC gamers to configure accessories with RGB lighting without having to install third-party software. Twitter user Albacore has spotted early work for integrating this new lighting experience into Windows 11 in the latest public test builds of the operating system. Options for controlling brightness, lighting effects, speed, and colors can all be found in the settings interface of Windows 11.
+
+
+***
+![Facility launched in SUTD in Changi to test drones without breaking no-fly-zone rules](https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/02/10/IMG-0151_2.JPG?VersionId=fK6lE45XGhbbqbj3_vTkUHRpCmedPZ.d "Facility launched in SUTD in Changi to test drones without breaking no-fly-zone rules")
+
+
+[Facility launched in SUTD in Changi to test drones without breaking no-fly-zone rules](https://www.straitstimes.com/tech/facility-launched-in-sutd-in-changi-to-test-drones-without-breaking-no-fly-zone-rules)
+
+
+> SINGAPORE – Drone testers have a spot in Changi to take their devices to the skies without worrying about breaching airspace restrictions. Nestled within the Singapore University of Technology and Design (SUTD), the Aerial Arena was launched on Friday to support the school's robotics initiatives. The testing area was converted from an open-air courtyard in the middle of the campus, and is shielded with a large net around 20m high – or four storeys – to prevent drones from escaping into restricted airspace.
+
+
+***
+![Rotary partners with TEXA to offer new ADAS solutions](https://roboticsandautomationnews.com/wp-content/uploads/2016/09/adas-illustration.gif "Rotary partners with TEXA to offer new ADAS solutions")
+
+
+[Rotary partners with TEXA to offer new ADAS solutions](https://roboticsandautomationnews.com/2023/02/10/rotary-partners-with-texa-to-offer-new-adas-solutions/60183/)
+
+
+> Rotary , part of Vehicle Service Group (VSG) and Dover , has agreed a partnership with TEXA , a company involved in the design, development and production of diagnostic tools for the vehicle repair industry. The companies say the partnership will enable Rotary to expand its automotive service offerings. The partnership will position Rotary to offer collision and repair shops a new mobile Advanced Driver Assistance System (ADAS) solution as well as fully automatic air conditioning (A/C) charging stations.
+
+
+***
+![FOREX-Yen trims gains as possible next BOJ governor says current policy appropriate](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_03_2022_09_40_45_928539.jpg?width=920&format=jpeg "FOREX-Yen trims gains as possible next BOJ governor says current policy appropriate")
+
+
+[FOREX-Yen trims gains as possible next BOJ governor says current policy appropriate](https://www.devdiscourse.com/article/technology/2350323-forex-yen-trims-gains-as-possible-next-boj-governor-says-current-policy-appropriate)
+
+
+> The yen strengthened on Friday, before trimming some of its gains, after Kazuo Ueda, the figure reportedly tapped as the next Bank of Japan (BOJ) governor, said the central bank's monetary policy was appropriate. The Nikkei had earlier reported the government would nominate academic Ueda to the BOJ's top job, sending the yen surging across the board as markets anticipated a possible earlier end to ultra-loose monetary policy. But in comments streamed online by Nippon TV, Ueda said the central bank's current easy monetary policy was appropriate and that it should continue.
+
+
+***
+![3 amateur codebreakers set out to decrypt old letters. They uncovered royal history](https://media.npr.org/assets/img/2023/02/09/gettyimages-51244743_wide-152e33ec9ffbb82425297583b130f07db357cdb2-s1400-c100.jpg "3 amateur codebreakers set out to decrypt old letters. They uncovered royal history")
+
+
+[3 amateur codebreakers set out to decrypt old letters. They uncovered royal history](https://www.npr.org/2023/02/10/1155701113/mary-queen-of-scots-ciphers-prison-letters)
+
+
+> An engraving by W.T. Fry (based on a painting) of Mary Stuart, also known as Mary Queen of Scots, circa 1587. An international trio of codebreakers discovered and decrypted letters she wrote during her years in captivity in England. Hulton Archive/Getty Images We can now learn more about one of the most controversial monarchs in European history, thanks to a trio of amateur cryptologists who unknowingly stumbled upon a treasure trove of long-lost letters by Mary, Queen of Scots and worked painstakingly to crack their code.
+
+
+***
+![Apple iPhone users get new camera mode with latest WhatsApp beta update](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/10/2571968-whatsapp-6.png "Apple iPhone users get new camera mode with latest WhatsApp beta update")
+
+
+[Apple iPhone users get new camera mode with latest WhatsApp beta update](https://www.dnaindia.com/technology/report-apple-iphone-users-get-new-camera-mode-with-latest-whatsapp-beta-update-3022750)
+
+
+> WhatsApp Meta-owned messaging platform WhatsApp is reportedly rolling out a new camera mode which will allow users to easily record videos hands-free on iOS beta. This feature is rolling out to some beta testers after installing the latest WhatsApp beta for iOS 23.3.0.74 update from the TestFlight app, reports WABetaInfo. Users are now able to switch to video mode easily with just a tap and they don`t need to tap and hold to record videos hands-free. Moreover, it is now possible to switch from front to back camera and vice versa when recording, which makes it easier to record videos.
+
+
+***
+[Global Fiber Laser Market Report 2022-2027: Trends, Forecast and Competitive Analysis](http://www.businesswire.com/news/home/20230210005182/en/Global-Fiber-Laser-Market-Report-2022-2027-Trends-Forecast-and-Competitive-Analysis---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Global Fiber Laser Market to 2027: Trends, Forecast and Competitive Analysis" report has been added to ResearchAndMarkets.com's offering. Emerging Trends, which have a direct impact on the dynamics of the industry, include the emergence of ribbon core fibers, development of eco-friendly technology, and introduction of fiber laser in LIDAR in autonomous vehicles. A total of 64 figures/charts and 59 tables are provided in this 136-page report to help in your business
+
+
+***
+![Refund and Invoice Scams Surge in Q4](https://assets.infosecurity-magazine.com/webpage/og/2468be3f-0570-4a2d-8721-6e2e1e3efc51.png "Refund and Invoice Scams Surge in Q4")
+
+
+[Refund and Invoice Scams Surge in Q4](https://www.infosecurity-magazine.com/news/refund-and-invoice-scams-surge-in/)
+
+
+> Researchers have warned consumers to be on their guard after revealing an increase in scams using phishing emails and vishing fraud to steal their money. Avast recorded an increase in refund and invoice fraud of 14% between October and November 2022, and then a further rise of 22% in December. The former works in a similar way to classic tech support scams that often combine email and phone vectors to defraud the victim. 'Refund fraud covers a broad range of possible scenarios, including fraudulent emails alerting users that they have been charged twice for the service or product,' the Avast report noted.
+
+
+***
+![Realme GT Neo 5 launched in China with 240W charging; see charging time, price and other specs](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/bt_001-sixteen_nine.jpg "Realme GT Neo 5 launched in China with 240W charging; see charging time, price and other specs")
+
+
+[Realme GT Neo 5 launched in China with 240W charging; see charging time, price and other specs](https://www.businesstoday.in/technology/news/story/realme-gt-neo-5-launched-in-china-with-240w-charging-see-charging-time-price-and-other-specs-369789-2023-02-10)
+
+
+> Realme has recently announced the launch of its latest flagship in the form of the Realme GT Neo 5 in the Chinese market. It is the latest addition to the company's GT series of smartphones and features a powerful 240W flash charging technology that can charge the phone from 0 to 100 per cent in just 10 minutes. There are two variants of the GT Neo 5. One with quicker 240W fast charging and a 4,700mAh battery, while the other variant comes with 150W charging and a slightly bigger 5,000mAh battery.
+
+
+***
+![We compete with Github. Bing does not show our website.](https://external-preview.redd.it/RxjqZ_NJ4akKZ8-lkfOnT3N0gcMx-SMoebMou4JOSUU.jpg?auto=webp&v=enabled&s=24fd8ee4791649808ee84a3e9070e60537d04ef0 "We compete with Github. Bing does not show our website.")
+
+
+[We compete with Github. Bing does not show our website.](https://www.reddit.com/r/programming/comments/10ynh6l/we_compete_with_github_bing_does_not_show_our)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![SEC commissioner Hester Peirce rebukes her agency's action against Kraken, calling it "paternalistic and lazy" and questioning if it was a win for investors (Rohan Goswami/CNBC)](http://www.techmeme.com/230210/i1.jpg "SEC commissioner Hester Peirce rebukes her agency's action against Kraken, calling it "paternalistic and lazy" and questioning if it was a win for investors (Rohan Goswami/CNBC)")
+
+
+[SEC commissioner Hester Peirce rebukes her agency's action against Kraken, calling it "paternalistic and lazy" and questioning if it was a win for investors (Rohan Goswami/CNBC)](https://newsakmi.com/news/tech-news/sec-commissioner-hester-peirce-rebukes-her-agencys-action-against-kraken-calling-it-paternalistic-and-lazy-and-questioning-if-it-was-a-win-for-investors-rohan-goswami-cnbc/)
+
+
+> Home / News / Tech / SEC commissioner Hester Peirce rebukes her agency's action against Kraken, calling it "paternalistic and lazy" and questioning if it was a win for investors (Rohan Goswami/CNBC) Tech Sierra Mitchell Send an email 6 hours ago Less than a minute Related Articles
+
+
+***
+![Green Dot Co. (NYSE:GDOT) Holdings Raised by Prudential Financial Inc.](https://www.marketbeat.com/logos/green-dot-co-logo.jpg?v=20221205140354 "Green Dot Co. (NYSE:GDOT) Holdings Raised by Prudential Financial Inc.")
+
+
+[Green Dot Co. (NYSE:GDOT) Holdings Raised by Prudential Financial Inc.](https://www.marketbeat.com/instant-alerts/nyse-gdot-sec-filing-2023-02-10)
+
+
+> Prudential Financial Inc. lifted its stake in Green Dot Co. (NYSE:GDOT - Get Rating) by 57.6% in the third quarter, according to its most recent filing with the Securities & Exchange Commission. The firm owned 88,236 shares of the financial services provider's stock after purchasing an additional 32,240 shares during the quarter. Prudential Financial Inc. owned 0.16% of Green Dot worth $1,675,000 as of its most recent filing with the Securities & Exchange Commission. → This 'Living Cure' Targets only Cancer Cells (From BioTech Stock Market News) Other institutional investors have also recently bought and sold shares of the company.
+
+
+***
+![Microsoft stopped selling Windows 10? ! Ftodeal Valentine's Day offers you genuine low-cost computer operating system! More office software all at a good price in spring! – Saydigi-Tech](https://i0.wp.com/techsaydigi.com/wp-content/uploads/2023/02/96a3be3cf272e017046d1b2674a52bd3.jpg?resize=1000,600&ssl=1 "Microsoft stopped selling Windows 10? ! Ftodeal Valentine's Day offers you genuine low-cost computer operating system! More office software all at a good price in spring! – Saydigi-Tech")
+
+
+[Microsoft stopped selling Windows 10? ! Ftodeal Valentine's Day offers you genuine low-cost computer operating system! More office software all at a good price in spring! – Saydigi-Tech](https://www.world-today-news.com/microsoft-stopped-selling-windows-10-ftodeal-valentines-day-offers-you-genuine-low-cost-computer-operating-system-more-office-software-all-at-a-good-price-in-spring-saydigi-tech/)
+
+
+> Recently, Microsoft has removed the digital license download of Windows 10 from the official store, encouraging users to use the latest version of Windows 11 more! However, there are still many users whose computer configuration does not support upgrading to Windows 11, and the Microsoft official store no longer sells Windows 10 digital licenses. Where can I buy a cheap copy of Windows 10? Ftodeal, a foreign professional online software sales platform, provides you with huge discounts! Microsoft Windows 10 Professional Edition only sells for about $7.
+
+
+***
+![Prototype BMW iX2 EV Crossover Spied Charging At A Tesla Supercharger](https://cdn.motor1.com/images/mgl/JOXobn/s1/bmw-ix2-prototype-spied-charging-at-tesla-supercharger-7.jpg "Prototype BMW iX2 EV Crossover Spied Charging At A Tesla Supercharger")
+
+
+[Prototype BMW iX2 EV Crossover Spied Charging At A Tesla Supercharger](https://insideevs.com/news/651878/bmw-ix2-spotted-charging-at-tesla-supercharger/)
+
+
+> BMW is actively testing its upcoming all-electric iX2 coupe-like crossover, as previously revealed in older spy shots captured by our photographers, but this time around there's an interesting twist to the story. As you can see in the photo gallery embedded below, our spies captured a resting BMW iX2 prototype in the cold winter of northern Europe, charging its batteries from a Tesla Supercharger. Getting to see a camouflaged yet-to-be-revealed car is a rare occurrence, but seeing one charging at a Tesla Supercharger all while bearing a rival brand's badge is close to impossible.
+
+
+***
+[Global Power Semiconductors Strategic Market Report 2023: Market to Reach $48.7 Billion by 2027](http://www.businesswire.com/news/home/20230210005179/en/Global-Power-Semiconductors-Strategic-Market-Report-2023-Market-to-Reach-48.7-Billion-by-2027---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Power Semiconductors: Global Strategic Business Report" report has been added to ResearchAndMarkets.com's offering. Global Power Semiconductors Market to Reach $48.7 Billion by 2027 In the changed post COVID-19 business landscape, the global market for Power Semiconductors estimated at US$39.9 Billion in the year 2020, is projected to reach a revised size of US$48.7 Billion by 2027, growing at a CAGR of 2.9% over the analysis period 2020-2027. Silicon / Germanium,
+
+
+***
+![Latest news in Technology](https://www.ifp.co.in/IFP_Black.png "Latest news in Technology")
+
+
+[Latest news in Technology](https://www.ifp.co.in:443/category/more/technology)
+
+
+> Twitter users in India will now have pay Twitter Blue subscription service that comes with several features, for a monthly fee of Rs 650 on the web.
+
+
+***
+![As ban on one abortion pill looms, providers look to the other as a fallback. But that isn't ideal](https://www.statnews.com/wp-content/uploads/2023/02/https___news-service.s3.amazonaws.com_abortionpills-faq-7687f130-9015-11ed-af65-ec9478b000db-1024x576.jpg "As ban on one abortion pill looms, providers look to the other as a fallback. But that isn't ideal")
+
+
+[As ban on one abortion pill looms, providers look to the other as a fallback. But that isn't ideal](https://www.statnews.com/2023/02/10/abortion-pill-texas-mifepristone-misoprostol/)
+
+
+> I n stories about medication abortions, we often give mifepristone a starring role. We call the dashing biochemist who developed it 'the father of the abortion pill,' noting his youth spent in the French Resistance and his glamorous, Vanity-Fair-worthy flings. We see it in the headlines pretty frequently, dragging its trusty sidekick misoprostol in tow. Later this month, a Trump-appointed judge in Texas may well ban it from the sanctioned market by ordering the Food and Drug Administration to overturn its approval.
+
+
+***
+![Cloudflare wants to help you set up your own Mastodon server in ‘minutes'](https://cdn.vox-cdn.com/thumbor/gHv-cf6bIJsqQU078o7j7k54RXA=/0x0:1350x900/1200x628/filters:focal(675x450:676x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/24422800/Wildebeest.jpg "Cloudflare wants to help you set up your own Mastodon server in ‘minutes'")
+
+
+[Cloudflare wants to help you set up your own Mastodon server in ‘minutes'](https://www.theverge.com/2023/2/10/23593966/cloudflare-mastodon-server-wildebeest-instance-fediverse)
+
+
+> Wildebeest is a new project from Cloudflare that's designed to make it easier for individuals to set up and run their own Mastodon-compatible servers. It highlights one of the key strengths of Mastodon over centralized competitors like Twitter, which is that anyone can host an instance of the microblogging service that's connected it to the wider network (aka Fediverse). 'You can quickly deploy your Mastodon-compatible server on top of Cloudflare and connect it to the Fediverse in minutes,' Cloudflare's Celso Martinho and Sven Sauleau write in a co-authored blog post .
+
+
+***
+![News Corp plans job cuts, misses estimates for earnings](https://techstory.in/wp-content/uploads/2023/02/0892A8A1-C56E-4054-B2D3-2572534D4CC3.jpeg "News Corp plans job cuts, misses estimates for earnings")
+
+
+[News Corp plans job cuts, misses estimates for earnings](https://techstory.in/446918-2/)
+
+
+> On Friday, News Corp said that it would cut approximately 5 per cent of its workforce which accounts for 1,250 jobs after the media behemoth fell short of quarterly Wall Street estimates for profit and revenue, disturbed by a decline across its businesses including news, the company said. News Corp said that it would cut approximately 5 per cent of its workforce which accounts for 1,250 jobs. Source: The Fortune In an official statement, the company also stated that it has incurred $6 million in one-time costs which are associated with its plans to merge with Fox Corp.
+
+
+***
+![3 Examples of Fashion Photography Using the Galaxy S23 Ultra 5G](https://tabloidpulsa.id/wp-content/uploads/2023/02/Galaxy-S23-Ultra-5G-Fashion-Photography.webp "3 Examples of Fashion Photography Using the Galaxy S23 Ultra 5G")
+
+
+[3 Examples of Fashion Photography Using the Galaxy S23 Ultra 5G](https://www.world-today-news.com/3-examples-of-fashion-photography-using-the-galaxy-s23-ultra-5g/)
+
+
+> tabloidpulsa.id – Content fashion you could say it's one type of content that never dies. Content popularity fashion itself is inseparable from the ease with which people can express themselves through clothing styles that can be worn instantly smartphone. With various trends fashion already popping up this year, starting from gothcore along with the viral serial 'Wednesday' to the 90's special Y2K which is still popular, of course you can't miss the trend fashion up to date to create more content epic.
+
+
+***
+![Touch 'n Go will produce 30% more TNG cards in 2023 to cope with demand](https://soyacincau.com/wp-content/uploads/2022/04/220415-tng-NFC-enhanced-card-3.jpg "Touch 'n Go will produce 30% more TNG cards in 2023 to cope with demand")
+
+
+[Touch 'n Go will produce 30% more TNG cards in 2023 to cope with demand](https://soyacincau.com/2023/02/10/touch-n-go-will-produce-30-more-tng-cards-in-2023-to-cope-with-demand/)
+
+
+> The Enhanced Touch ‘n Go card that lets you reload directly from your NFC-enabled smartphone is perhaps still one of the hardest things to find right now in Malaysia. Despite being a huge upgrade for a near necessity that both motorists and public transport users need to have with them, the Enhanced Touch ‘n Go card remains hard to buy, with it almost always out of stock on the Touch ‘n Go eWallet Lazada store. With that in mind, the Domestic Trade and Cost of Living Ministry had gotten in touch with Touch ‘n Go, calling for them to improve several aspects of their service.
+
+
+***
+![What a hospital oligopoly looks like](https://www.statnews.com/wp-content/uploads/2023/02/AdobeStock_342560582_Editorial_Use_Only-1024x576.jpeg "What a hospital oligopoly looks like")
+
+
+[What a hospital oligopoly looks like](https://www.statnews.com/2023/02/10/what-a-hospital-oligopoly-looks-like/)
+
+
+> You've been selected! Subscribe to STAT+ for less than $2 per day Unlimited access to essential biotech, medicine, and life sciences journalism
+
+
+***
+![Payment fraud is more common than you think! Ways scammers adopt to dupe your money and tricks to avoid them](https://www.financialexpress.com/wp-content/uploads/2023/02/payment-fraud.jpg "Payment fraud is more common than you think! Ways scammers adopt to dupe your money and tricks to avoid them")
+
+
+[Payment fraud is more common than you think! Ways scammers adopt to dupe your money and tricks to avoid them](https://www.financialexpress.com/life/technology-payment-fraud-is-more-common-than-you-think-ways-scammers-adopt-to-dupe-your-money-and-tricks-to-avoid-them-2977716/)
+
+
+> If you are one of the many who make online payments for easier and quicker transactions, then, beware!  You are a hundred percent privy to online payment fraud. Payment fraud is a type of illegal transaction that is not completed by the legit owner of the account but by a cybercriminal/scammer. And we are all well aware that fraudsters are becoming increasingly tech-savvy in obtaining personal/critical information online which could lead to payment fraud. To save yourself from getting duped, here are a few points that will help you defraud the fraudster.
+
+
+***
+![U.K. and U.S. Sanction 7 Russians for TrickBot, Ryuk, and Conti Ransomware Attacks](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEh677RdyLUuWViKcIY9pP_VFC-m5wT5NX-RouaVb-ptjF2y371lf50JbNW5F4GOxLkxX-qsMIiyEF4HS9-56H4f_GM9ifB6W_tRfUxvk7UrM7GRS6ZVkLapi83UTq9hfVw23VcaalKUCilpkJ20sBGLo-9vL-e1fX5dCxlxiIQJEDHX-kRCT6V8rJb6/s728-e365/ransomware.png "U.K. and U.S. Sanction 7 Russians for TrickBot, Ryuk, and Conti Ransomware Attacks")
+
+
+[U.K. and U.S. Sanction 7 Russians for TrickBot, Ryuk, and Conti Ransomware Attacks](https://thehackernews.com/2023/02/uk-and-us-sanction-7-russians-for.html)
+
+
+> In a first-of-its-kind coordinated action, the U.K. and U.S. governments on Thursday levied sanctions against seven Russian nationals for their affiliation to the TrickBot, Ryuk, and Conti cybercrime operation. The individuals designated under sanctions are Vitaly Kovalev (aka Alex Konor, Bentley, or Bergen), Maksim Mikhailov (aka Baget), Valentin Karyagin (aka Globus), Mikhail Iskritskiy (aka Tropa), Dmitry Pleshevskiy (aka Iseldor), Ivan Vakhromeyev (aka Mushroom), and Valery Sedletski (aka Strix).
+
+
+***
+![Limp Bizkit rock out as Putin, Biden, Selenskyj and Co. in a new music video](https://image.stern.de/33181018/t/q9/v2/w1440/r1.7778/-/limp-bizkit.jpg "Limp Bizkit rock out as Putin, Biden, Selenskyj and Co. in a new music video")
+
+
+[Limp Bizkit rock out as Putin, Biden, Selenskyj and Co. in a new music video](https://www.world-today-news.com/limp-bizkit-rock-out-as-putin-biden-selenskyj-and-co-in-a-new-music-video/)
+
+
+> Watch the video: Limp Bizkit rock out as Putin, Biden, Selenskyj and Co. in a new music video. The heads of government of this world are rocking together in a garage. What seems so bizarre here is the new video for the song 'Out of Style' by Limp Bizkit. The American band uses deepfake technology to portray themselves as powerful heads of state. Frontman Fred Durst becomes Russian President Vladimir Putin. The other members are said to represent Joe Biden, Volodymyr Zelenskyy, Xi Jinping and Kim Jong-un.
+
+
+***
+![Generics companies fought to stop the new drug pricing law. But they may end up benefiting](https://www.statnews.com/wp-content/uploads/2023/02/GettyImages-1232507322-1024x576.jpg "Generics companies fought to stop the new drug pricing law. But they may end up benefiting")
+
+
+[Generics companies fought to stop the new drug pricing law. But they may end up benefiting](https://www.statnews.com/2023/02/10/generics-drug-pricing-end-up-benefiting/)
+
+
+> W ASHINGTON — Generic drugmakers lobbied hard against Democrats' new law empowering Medicare to negotiate prescription drug prices. Giving the government such power seemed like an admission that generic medicines don't do enough to keep costs down. Now that the changes are law, however, industry experts and lobbyists acknowledge the package is more of a mixed bag for generics makers like Teva and Sandoz, not an existential threat. Though it's too soon to tell, the law could actually end up encouraging more generic competition, boosting the $435 billion industry.
+
+
+***
+![Samsung Galaxy S23 Ultra BMW M Limited Edition Revealed: Logo Included?](https://1734811051.rsc.cdn77.org/data/images/full/420918/samsung-galaxy-s23-ultra-bmw-m-limited-edition-revealed-logo-included.jpg "Samsung Galaxy S23 Ultra BMW M Limited Edition Revealed: Logo Included?")
+
+
+[Samsung Galaxy S23 Ultra BMW M Limited Edition Revealed: Logo Included?](https://www.techtimes.com/articles/287467/20230210/samsung-galaxy-s23-ultra-bmw-m-limited-edition-revealed-logo-included.htm)
+
+
+> Urian B. , Tech Times 10 February 2023, 04:02 am Samsung has recently released a new limited edition of their Galaxy S23 Ultra flagship device. The new edition, titled the "Galaxy S23 Ultra BMW M Limited Edition" was created as a collaboration between Samsung and BMW.  A Premium Release: Samsung and BMW Joining Forces to Make Something Unique  According to the story by Giz China , this special edition of the device is only available in Samsung's homeland, South Korea. The special edition features slight changes to the look and feel of the device and includes an impressive 200 MP camera, faster charging, and the largest battery capacity of the S23 series.
+
+
+***
+![Unifi Mobile introduces cheaper 5G prepaid plan for RM25/month](https://soyacincau.com/wp-content/uploads/2023/02/230210-unifi-mobile-5g-sim.jpg "Unifi Mobile introduces cheaper 5G prepaid plan for RM25/month")
+
+
+[Unifi Mobile introduces cheaper 5G prepaid plan for RM25/month](https://soyacincau.com/2023/02/10/tm-unifi-mobile-5g-prepaid-rm25-monthly-pass/)
+
+
+> Telekom Malaysia (TM) has recently imposed more data restrictions on its Unifi Mobile 5G Prepaid Plan with smaller 5GB hotspot quota and a reduced monthly Fair Usage Policy (FUP) of 60GB. Now it appears that TM has quietly introduced a cheaper monthly 5G prepaid option which costs RM25/month. As shown on their prepaid page , there's now a RM25/month option which provides 30GB of 4G+5G hotspot quota and the plan is listed as hotspot enabled. There are no further details about the plan as it isn't listed on their existing FAQ.
+
+
+***
+![Catching (probably all) email SPAM with a really tasty honeypot](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Catching (probably all) email SPAM with a really tasty honeypot")
+
+
+[Catching (probably all) email SPAM with a really tasty honeypot](https://www.reddit.com/r/programming/comments/10yml31/catching_probably_all_email_spam_with_a_really)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Nintendo game coupons are on sale for a limited time at a discounted price to pre-order 'The Legend of Zelda Kingdom Tears'! -PCM](https://plugmedia-wp-uploads.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2023/02/top.jpg "Nintendo game coupons are on sale for a limited time at a discounted price to pre-order 'The Legend of Zelda Kingdom Tears'! -PCM")
+
+
+[Nintendo game coupons are on sale for a limited time at a discounted price to pre-order 'The Legend of Zelda Kingdom Tears'! -PCM](https://www.world-today-news.com/nintendo-game-coupons-are-on-sale-for-a-limited-time-at-a-discounted-price-to-pre-order-the-legend-of-zelda-kingdom-tears-pcm/)
+
+
+> In yesterday's Nintendo Direct, in addition to introducing the latest information on a variety of new works, Nintendo also announced the launch of a limited-time 'Nintendo Game Exchange Voucher', which can be used to purchase two designated games at a discounted price, including upcoming hits The 'Legend of Zelda Kingdom Tears' and 'Pikmin 4' are definitely attractive for players who are ready to start these two games! 'Nintendo Game Voucher' sells for HK$649, and it will be on sale at Nintendo eShop from now until March 12 (Sunday), but please note that it is only available to Nintendo Switch Online members, and 7-day free trial members cannot purchase it, so if you are not a member If so, membership fees will also be included.
+
+
+***
+![Reddit Confirms It Was Hacked—Recommends Users Set Up 2FA](https://www.mccourier.com/wp-content/uploads/2023/02/Reddit-Confirms-It-Was-Hacked—Recommends-Users-Set-Up-2FA.jpg "Reddit Confirms It Was Hacked—Recommends Users Set Up 2FA")
+
+
+[Reddit Confirms It Was Hacked—Recommends Users Set Up 2FA](https://www.mccourier.com/reddit-confirms-it-was-hacked-recommends-users-set-up-2fa/)
+
+
+> Reddit confirms it has been hacked NurPhoto by way of Getty Photographs Reddit, the social information and dialogue web site with 50 million day by day customers, has confirmed that it has been hacked. In a February 9 safety incident posting on the location itself, Reddit mentioned it first grew to become conscious of the profitable breach of its techniques late on February 5. In what it refers to as a ' subtle phishing marketing campaign that focused Reddit workers,' the incident alert confirmed that the attacker gained entry to inside paperwork and coder, in addition to inside dashboards and enterprise techniques.
+
+
+***
+![Castlevania DLC for Dead Cells Releases March 2023 • Jagat Play](https://jagatplay.com/wp-content/uploads/2023/02/dead-cells-castlevania.jpg "Castlevania DLC for Dead Cells Releases March 2023 • Jagat Play")
+
+
+[Castlevania DLC for Dead Cells Releases March 2023 • Jagat Play](https://www.world-today-news.com/castlevania-dlc-for-dead-cells-releases-march-2023-jagat-play/)
+
+
+> The hope to see Castlevania reborn through the latest series that is concocted directly by Konami is likely to end in disappointment. But at least compared to other franchises, Konami still seems to be paying attention to this one franchise. It still exists as an animated series on Netflix which ends up coming in fantastic quality. The good news again? Konami doesn't seem to mind collaborating with other developers who are interested in working on content with it. Something that spawned a super cool collaboration with Dead Cells! Coming as a surprise last year, confirmation of the presence of Castlevania content as DLC for the super fun and cool rogue-like game – Dead Cells is indeed welcomed.
+
+
+***
+![How To Convince Clients To Invest in a Custom Website](https://speckyboy.com/wp-content/uploads/2023/02/custom-website-advantages-01.jpg "How To Convince Clients To Invest in a Custom Website")
+
+
+[How To Convince Clients To Invest in a Custom Website](https://newsakmi.com/news/tech-news/software/how-to-convince-clients-to-invest-in-a-custom-website/)
+
+
+> The web design marketplace is flooded with choices. And it's especially tough for those of us in the mid-to-high pricing tiers. We're competing with both discount designers and DIY services that promise the moon (all for one low monthly price ). Thus, convincing a client to invest in a custom website can be difficult. They may see the low-cost options as being just as good. Or they simply may not understand the difference. It's up to us to educate prospective clients about what we have to offer.
+
+
+***
+![SpaceX tests the most powerful ever rocket system](https://cdn.jagonews24.com/media/imgAllNew/BG/2019November/untitled-20230210142928.jpg "SpaceX tests the most powerful ever rocket system")
+
+
+[SpaceX tests the most powerful ever rocket system](https://www.jagonews24.com/en/tech/news/66757)
+
+
+> Elon Musk's SpaceX company has performed a key test on its huge new rocket system, Starship. Engineers conducted what's called a "static fire", simultaneously igniting 31 out of 33 of the engines at the base of the vehicle's lower-segment. The firing lasted only a few seconds, with everything clamped in place to prevent any movement. Starship will become the most powerful operational rocket system in history when it makes its maiden flight. This could occur in the coming weeks, assuming SpaceX is satisfied with the outcome of Thursday's test.
+
+
+***
+![Carplay: Apple CarPlay comes to Uber driver app: How will it work](https://static.toiimg.com/thumb/msid-97796470,width-1070,height-580,imgsize-629194,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Carplay: Apple CarPlay comes to Uber driver app: How will it work")
+
+
+[Carplay: Apple CarPlay comes to Uber driver app: How will it work](https://timesofindia.indiatimes.com/gadgets-news/apple-carplay-comes-to-uber-driver-app-how-will-it-work/articleshow/97796351.cms)
+
+
+> FOLLOW US ON SOCIAL MEDIA Facebook Twitter Instagram KOO APP YOUTUBE
+
+
+***
+![Reddit said it was hacked](https://www.informacija.rs/thumbs/v1_3678_pexels-brett-jordan-7568293.jpg "Reddit said it was hacked")
+
+
+[Reddit said it was hacked](https://tekdeeps.com/reddit-said-it-was-hacked/)
+
+
+> Reddit suffered a cyber attack on Sunday evening, and hackers who gained access to internal systems stole some internal documents and source code and accessed some internal business systems. Reddit says that hackers sent company employees very convincing instructions that led them to a site that looked like their intranet site. On this site, hackers attempted to steal employee credentials and two-factor authentication tokens. Hackers managed to trick one of the employees and break into Reddit's internal systems, where they stole data and source code.
+
+
+***
+![Fitbit Files for Blood Pressure Wearable Tech Patent as It Will Soon Release a New Smartwatch](https://1734811051.rsc.cdn77.org/data/images/full/420917/fitbit-files-for-blood-pressure-wearable-tech-patent-as-it-will-soon-release-a-new-smartwatch.jpg "Fitbit Files for Blood Pressure Wearable Tech Patent as It Will Soon Release a New Smartwatch")
+
+
+[Fitbit Files for Blood Pressure Wearable Tech Patent as It Will Soon Release a New Smartwatch](https://www.techtimes.com/articles/287465/20230210/fitbit-files-for-blood-pressure-wearable-tech-patent-as-it-will-soon-release-a-new-smartwatch.htm)
+
+
+> Urian B. , Tech Times 10 February 2023, 04:02 am Smartwatches and fitness trackers have made great strides in the past several years. Smartwatches have transitioned from mere smartphone companions to serious players in the health and fitness game.  Google-Backed Patent to Introduce Novel Blood Pressure Measurement Wearable  According to the story by Giz China , they are now featuring innovative technologies such as SpO2 sensors, ECG readings, and more, allowing users to track and monitor an array of health metrics with greater ease and accuracy.
+
+
+***
+![PUZZLE project for better protection against cyber attacks](https://i0.wp.com/pcpress.rs/wp-content/uploads/2023/02/puzzle.jpg?resize=768%2C433&ssl=1 "PUZZLE project for better protection against cyber attacks")
+
+
+[PUZZLE project for better protection against cyber attacks](https://tekdeeps.com/puzzle-project-for-better-protection-against-cyber-attacks/)
+
+
+> The Vojvodina ICT Cluster – VOICT has been serving for years as a shining example of a successful association of companies in the field of information and communication technologies. The statement published in the Manifesto of the association, that the Cluster represents more than the simple sum of its members, gets its full significance and concreteness through the PUZZLE – H2020* project, in which it participates as part of a pan-European consortium of organizations. PUZZLE – part of the cyber security puzzle intended for the SME sector Cybersecurity has been one of the key topics for the last few years, which is not only in the focus of experts but also of the general public.
+
+
+***
+![[JAEPO2023]The new version of 'Fishing Spin' can also catch deep-sea fish! Experience AC 'Fishing Spirits Sinker'-GAME Watch](https://game.watch.impress.co.jp/img/gmw/list/1477/775/1.jpg "[JAEPO2023]The new version of 'Fishing Spin' can also catch deep-sea fish! Experience AC 'Fishing Spirits Sinker'-GAME Watch")
+
+
+[[JAEPO2023]The new version of 'Fishing Spin' can also catch deep-sea fish! Experience AC 'Fishing Spirits Sinker'-GAME Watch](https://www.world-today-news.com/jaepo2023the-new-version-of-fishing-spin-can-also-catch-deep-sea-fish-experience-ac-fishing-spirits-sinker-game-watch/)
+
+
+> Bandai Namco Amusement is exhibiting the 'Fishing Spirits Sinker', the latest version of the AC version of 'Fishing Spirits', at the arcade game exhibition 'JAEPO2023'. [[Latest work]Game center version 'Fishing Spirits Sinker' introduction PV Sakutto Ver.[Fishing Spirits]] 'Fishing Spirits Sinker' is the latest version of the arcade version 'Fishing Spirits' where you can experience dynamic fishing, and started operation in December 2022. After the series began operating as a medal game at amusement facilities, software for Switch was also released, and manga was published in CoroCoro Comic, making it a highly popular content centered on children.
+
+
+***
+[Fanbase Aims to Revolutionise the Business of Sport After Completing Investment Led by SaltPay](http://www.businesswire.com/news/home/20230210005154/en/Fanbase-Aims-to-Revolutionise-the-Business-of-Sport-After-Completing-Investment-Led-by-SaltPay/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> EDINBURGH, Scotland--(BUSINESS WIRE)--Fanbase, a startup developing software that delivers mobile ticketing and better fan experience for sports clubs via mobile and web, has completed a £1 million investment led by SaltPay. Alasdair Crawley, CEO and Co-founder of Fanbase, said: 'Our vision is for Fanbase to unlock a huge amount of revenue for sports teams by making it easy to buy and engage with sports organisations from one platform. Once you turn the key and start using Fanbase, the possibil
+
+
+***
+![Creating k8s clusters locally for dev setup using kind](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png "Creating k8s clusters locally for dev setup using kind")
+
+
+[Creating k8s clusters locally for dev setup using kind](https://medium.com/@purushothamkdr453/creating-k8s-clusters-locally-for-dev-setup-using-kind-f1f6e4f04bfc)
+
+
+> Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management. Originally designed by Google, the project is now maintained by the Cloud Native Computing Foundation. The name Kubernetes originates from Greek, meaning helmsman or pilot. Options: kubernetes can be setup in multiple ways. It all depends on for which purpose you are creating it. Are you creating it for Dev setup or production setup? Following are some of the options that we have for setting up k8s.
+
+
+***
+![FMC PrecisionPac Innovation Simplifies Custom Blends](http://agwired.com/wp-content/uploads/2019/09/fps19-fmc-barge.jpg "FMC PrecisionPac Innovation Simplifies Custom Blends")
+
+
+[FMC PrecisionPac Innovation Simplifies Custom Blends](https://agwired.com/2019/09/09/fmc-precisionpac-innovation-simplifies-custom-blends/)
+
+
+> The right custom blend herbicide in just the right amount is what FMC's PrecisionPac® application innovation offers for retail agronomists to create prescriptive blends specific to each grower, crop and field. The revolutionary PrecisionPac® application innovation dispenses up to 50 custom blends of six granular herbicides to prescriptively target your fields' weed challenges. The PrecisionPac machine premeasures and mixes your custom blends so you don't have to, and it fits your field or sprayer-tank size.
+
+
+***
+![Thunderbird plans to completely redesign the interface within three years](https://i.iinfo.cz/images/623/thunderbird-1_watermark-root-cz.jpg "Thunderbird plans to completely redesign the interface within three years")
+
+
+[Thunderbird plans to completely redesign the interface within three years](https://www.world-today-news.com/thunderbird-plans-to-completely-redesign-the-interface-within-three-years/)
+
+
+> The developers of the Thunderbird project posted on the blog plans for the next three years. During that time, they would like to slim down the code and make it more reliable, rewrite old code, and catch up on technical debt. Furthermore, the plan is to completely rewrite the user interface and create its new consistent form. The developers would also like to move to a regular monthly release schedule. The project is about to celebrate its 20th anniversary and has accumulated a lot of technical and user experience over the last ten years deposits which needs to be removed.
+
+
+***
+![[Airflow X GKE] Airflow Deployment on GKE](https://miro.medium.com/max/624/1*W9SKSbn5omPNgVOhMWtgtA.png "[Airflow X GKE] Airflow Deployment on GKE")
+
+
+[[Airflow X GKE] Airflow Deployment on GKE](https://medium.com/@yelee2369/airflow-x-gke-airflow-deployment-on-gke-5636bc0c054a)
+
+
+> Today, I'll share how to deploy Airflow on Google Kubernetes Engine (GKE) using the helm chart. Creating GKE cluster and install Airflow First, create a project called 'airflow-gke' in your Google Cloud. (* Google Cloud offers free 300 USD credits to users) Install CLI tools: gcloud, kubectl, and helm Set the project in the gcloud CLI using its project ID. Your project ID can be found on the dashboard as below: Create a k8s cluster 'airflow-cluster' on GKE with a public endpoint. Please choose your appropriate geographical region.
+
+
+***
+![Bing is king! Microsoft's Google Search-rival records 10x jump in downloads after ChatGPT AI integration](https://www.financialexpress.com/wp-content/uploads/2023/02/microsoft-final1-1.jpg "Bing is king! Microsoft's Google Search-rival records 10x jump in downloads after ChatGPT AI integration")
+
+
+[Bing is king! Microsoft's Google Search-rival records 10x jump in downloads after ChatGPT AI integration](https://www.financialexpress.com/life/technology-bing-is-king-microsofts-google-search-rival-records-10x-jump-in-downloads-after-chatgpt-ai-integration-2977728/)
+
+
+> Microsoft's Bing has seen a 10X surge in downloads following the company's announcement to incorporate ChatGPT's capabilities into its search engine. The mobile app of Bing witnessed ten times increase in the number of downloads making it top the charts of Apple's App store. Bing mobile app has jumped to spot 12 on US App Store amongst all free iOS apps, while the Edge browser is now the third top utility app, according to a data by an intelligence firm data.ai reported via Tech Crunch. The increase in downloads for Bing reflects on how well ChatGPT is being embraced by people and that despite experts showing concern around AI, people are willing to explore the space and use the technology.
+
+
+***
+![The Abstruse Case of Handling Kubernetes Security- Part 2](https://miro.medium.com/max/800/1*-gB5auEispUBgoEAlN135Q.png "The Abstruse Case of Handling Kubernetes Security- Part 2")
+
+
+[The Abstruse Case of Handling Kubernetes Security- Part 2](https://medium.com/buildpiper/the-abstruse-case-of-handling-kubernetes-security-part-2-8c4d1e473102)
+
+
+> By: Ruchita Varma Kubernetes security has become an issue of serious concern now. With so much complexity in deploying Kubernetes, unwanted exposure tends to increase, making Kubernetes vulnerable to security threats and unauthorized access. Here, we'll discuss the top Kubernetes security challenges. Take a look! Kubernetes solves container issues by providing an extensible, declarative platform that automates the management of containers for high availability, resiliency, and scale. But, Kubernetes is a big, complex, fast-moving, and sometimes confusing platform that requires users to continually learn and acquire new skills.
+
+
