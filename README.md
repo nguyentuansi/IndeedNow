@@ -1844,3 +1844,953 @@
 > Google has launched the first preview of Android 14. Offering a glimpse of what to expect in the upcoming update to its operating system. This preview is targeting developers. With the majority of the changes being at the API level and geared towards improving application development. Such as new permissions, behaviors, and security enhancements. However, significant new features have begun to emerge in the Android 14 Developer Preview 1 (DP1). One of the new features that are coming to Android 14 is native app cloning.
 
 
+***
+![New Japanese TV spot for Kirby's Return to Dream Land Deluxe](https://gonintendo.com/attachments/image/23010/file/medium-d149e242a4971562670c594c55d0a9a1.png "New Japanese TV spot for Kirby's Return to Dream Land Deluxe")
+
+
+[New Japanese TV spot for Kirby's Return to Dream Land Deluxe](https://gonintendo.com/contents/16076-new-japanese-commercial-for-kirby-s-return-to-dream-land-deluxe)
+
+
+> In their latest TV spot, Nintendo Japan shares how a group of friends is having the best time of their lives while playing Kirby's Return to Dream Land Deluxe! There's seriously nothing cuter than seeing these kids having some wholesome fun with Nintendo's most wholesome and most pink mascot (yes, Kirby defeats godlike creatures basically on the daily but he's cute while doing it). Remember that if you want to try the game right now, there's a demo available on the eShop. As for the full game, that's coming out on February 24, 2023! modal#open commentUpvoteInfoModal.
+
+
+***
+![Extended clips for Zelda Tears of the Kingdom + new artwork](https://gonintendo.com/attachments/image/23008/file/medium-4394f723c307fa03e7cf8d1c2ae43a8b.png "Extended clips for Zelda Tears of the Kingdom + new artwork")
+
+
+[Extended clips for Zelda Tears of the Kingdom + new artwork](https://gonintendo.com/contents/16075-extended-clips-for-zelda-tears-of-the-kingdom-new-artwork-showcased)
+
+
+> Tears of me, I'm crying it's beautiful The Japanese website for Zelda: Tears of the Kingdom has shared some clips shown in the Nintendo Direct but in (slightly) extended form, so if you wanted even more footage, you don't have to wait! Gamexplain has put together all of the scenes plus some new artwork from the game featuring characters and more. Don't miss out all the Zelda goodness on their video above! modal#open commentUpvoteInfoModal.open@document->modal#reloadFram
+
+
+***
+![Pokémon Scarlet/Violet Mighty Greninja Tera Raid Battle Event back for a second run](https://gonintendo.com/attachments/image/23007/file/medium-d5ac4cb525cd94c2c79e5eca9c3a9a7b.png "Pokémon Scarlet/Violet Mighty Greninja Tera Raid Battle Event back for a second run")
+
+
+[Pokémon Scarlet/Violet Mighty Greninja Tera Raid Battle Event back for a second run](https://gonintendo.com/contents/16074-pokemon-scarlet-violet-mighty-greninja-tera-raid-battle-event-back-for-a-second-run)
+
+
+> Missed the first one? Here's your second chance at the Mighty Greninja Tera Raid Battle Event! Launch Pokémon Scarlet or Violet today to be able to play (and try) to win this battle. As far as details go, we have provided them before as part of the first time the event was held and they haven't changed, but if you want to see them in full, you can go to Serebii to see absolutely everything you need for your best chance at catching Greninja. modal#open commentUpvoteInfoModal.open@do
+
+
+***
+![Amazon's Project Kuiper satellites get launch approval from the FCC](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/amazon-768x432.png "Amazon's Project Kuiper satellites get launch approval from the FCC")
+
+
+[Amazon's Project Kuiper satellites get launch approval from the FCC](https://siliconangle.com/2023/02/09/amazons-project-kuiper-satellites-get-launch-approval-fcc/)
+
+
+> Amazon.com Inc.'s Kuiper Systems LLC satellite division was granted permission to go ahead with its first launches, according to a ruling by the Federal Communications Commission today. The FCC's International Bureau provided its stamp of approval on an orbital debris mitigation plan submitted by Kuiper, removing one of the last hurdles in the way of its launch plans. The approval was required to satisfy conditions first imposed on the Amazon subsidiary in 2020, when it received a  tentative go-ahead to launch a network of 3,236 satellites into low-Earth orbit.
+
+
+***
+![Star Citizen Video Shows Concept for Building Interiors in Journey to 4.0 Special](https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Star%20Citizen_1.jpg?itok=B4J-0MVR "Star Citizen Video Shows Concept for Building Interiors in Journey to 4.0 Special")
+
+
+[Star Citizen Video Shows Concept for Building Interiors in Journey to 4.0 Special](https://techraptor.net/gaming/news/star-citizen-video-shows-concept-for-building-interiors-in-journey-to-40-special)
+
+
+> Today Star Citizen developer Cloud Imperium Games released a new video of its "Journey to 4.0" series, in which it features content further down the pipeline.  Specifically, the video focuses on concepts for modular and procedural designs for building interiors. The current build of Star Citizen 's alpha does have building interiors, mind you, but they're limited to only certain buildings designed to be explored.  The development team is looking at populating many more urban areas, but considering the scope and size of a single city (or "Landing Zone" as they're called in the game), it's a rather extensive project.
+
+
+***
+![Creator-driven competitions, a Pokémon Champion's main goal](https://gonintendo.com/attachments/image/23006/file/medium-7b05e42c1d3028523140ed0d12110e8c.png "Creator-driven competitions, a Pokémon Champion's main goal")
+
+
+[Creator-driven competitions, a Pokémon Champion's main goal](https://gonintendo.com/contents/16073-bringing-competitive-and-casual-fans-together-a-pokemon-champion-s-main-goal)
+
+
+> If you are a fan of the competitive Pokémon scene, then you probably are familiar with Wolfe Glick, 2016's Pokémon World Champion. Chances are, however, that you may not know much about him or what he does, which is what he is trying to change. GamesBeat presents us with how Glick is trying (and achieving) to engage more casual Pokémon fans with competitive Pokémon! Wolfe Glick has had a prominent presence in the Pokémon community, for both casual and competitive players. He began by participating in tournaments years ago, makes Pokémon content for his Youtube channel and social media, and is now working with Beastcoast, a smaller esports team, to make the competitive side of the games known to more people, since it's relatively small compared to the general audience who enjoys Pokémon games.
+
+
+***
+[Nutanix Announces Date and Conference Call Information for Second Quarter Fiscal Year 2023 Financial Results](http://www.businesswire.com/news/home/20230209005790/en/Nutanix-Announces-Date-and-Conference-Call-Information-for-Second-Quarter-Fiscal-Year-2023-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN JOSE, Calif.--(BUSINESS WIRE)--Nutanix, Inc. (NASDAQ: NTNX), a leader in hybrid multicloud computing, today announced that it will report its financial results for the second quarter of fiscal year 2023, which ended January 31, 2023, after U.S. markets close on Monday, March 6, 2023. Nutanix will host a conference call and earnings webcast beginning at 4:30 p.m. EST / 1:30 p.m. PST on the same day to discuss the company's financial results. Interested parties may access the conference call
+
+
+***
+![Lyft shares tank on larger-than-expected loss, weak guidance](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/lyftfail.jpg "Lyft shares tank on larger-than-expected loss, weak guidance")
+
+
+[Lyft shares tank on larger-than-expected loss, weak guidance](https://siliconangle.com/2023/02/09/lyft-shares-tank-larger-expected-loss-weak-guidance/)
+
+
+> Shares in Lyft Inc. tanked in late trading after the ride-hailing company reported a much larger-than-expected loss and delivered guidance below analysts' expectations. For the quarter that end Dec. 31, Lyft reported an adjusted loss of 74 cents per share on revenue of $1.18 billion. Analysts had expected  earnings per share of 15 cent and revenue of $1.15 billion. The net loss of $588.1 million compared to a net loss of $248.3 million in the fourth quarter of 2021. Lyft did note that the figure included $201.
+
+
+***
+![WhatsApp leads the way in digital accessibility in India](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-liq2jpbp0j2q8jchgqa8tn9e82-20210624162756.Medi.jpeg "WhatsApp leads the way in digital accessibility in India")
+
+
+[WhatsApp leads the way in digital accessibility in India](https://www.deccanchronicle.com/technology/in-other-news/100223/whatsapp-leads-the-way-in-digital-accessibility-in-india.html)
+
+
+> The top ten identified applications were rated as apps with ‘high accessibility', ‘moderate accessibility' and ‘low accessibility' based on the WCAG. (PTI Photo) Hyderabad: WhatsApp has been ranked India's most accessible app for persons with disabilities, according to a recent report titled ‘Making the Digital Ecosystem Disabled Friendly,' which evaluated the most popular apps across categories like messaging, online payments, transport, e-commerce and food delivery. The Vidhi Centre for Legal Policy along with I-Stem and Mission Accessibility conducted a first of its kind evidence-based evaluation of the accessibility of ten of the most widely used apps in India.
+
+
+***
+![Tech News: International Market Centers Enhancement, Simpleview-SKYNAV Partnership, Crowd Connected Accolade](https://www.tsnn.com/sites/default/files/shutterstock_110269313.jpg "Tech News: International Market Centers Enhancement, Simpleview-SKYNAV Partnership, Crowd Connected Accolade")
+
+
+[Tech News: International Market Centers Enhancement, Simpleview-SKYNAV Partnership, Crowd Connected Accolade](https://www.tsnn.com/news/tech-news-international-market-centers-enhancement-simpleviewskynav-partnership-crowd)
+
+
+> The new year is bringing plenty of fresh technology solutions to help event professionals, exhibitors, sponsors and destinations stay on top of the ever-changing events landscape, as well as industry recognitions. Read on for some of the latest event tech developments. International Market Centers International Market Centers (IMC) launched a new feature to its RepZio sales app that incorporates market badge scanning, creating a direct connection between market activity and RepZio customer data.
+
+
+***
+![PUBG maker opens first Canadian studio in Montreal, led by ex-Ubisoft dev](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/pubg-scaled.jpg "PUBG maker opens first Canadian studio in Montreal, led by ex-Ubisoft dev")
+
+
+[PUBG maker opens first Canadian studio in Montreal, led by ex-Ubisoft dev](https://mobilesyrup.com/2023/02/09/pubg-krafton-montreal-first-canadian-studio-ex-ubisoft-dev/)
+
+
+> South Korea-based PUBG publisher Krafton has opened its first Canadian studio in Montreal. The appropriately named Krafton Montreal is working on a game based on the Korean fantasy novel, The Bird That Drinks Tears . Krafton Montreal will be led by Patrik Méthé, a Ubisoft Montreal veteran who co-directed Far Cry 3 ,  4 and  5. The team is currently made up of 15 people but aims to grow up to 150 over the next three years. Some of the other former Ubisoft staff that Méthé has brought with him so far include game director Frédéric Duroc ( Prince of Persia ), producer Benoit Frappier ( Rainbow Six ) and technology director Martin Paradis ( Assassin's Creed ).
+
+
+***
+![God of Rock 'Undertow' soundtrack sample released](https://gonintendo.com/attachments/image/23003/file/medium-0362cf0570413dab32bda9474f4708c2.jpg "God of Rock 'Undertow' soundtrack sample released")
+
+
+[God of Rock 'Undertow' soundtrack sample released](https://gonintendo.com/contents/16072-god-of-rock-undertow-soundtrack-sample-released)
+
+
+> Modus Games previously announced that God of Rock will open its world tour on April 18, 2023, unleashing a stacked setlist of energetic tracks that players will need to master to perform devastating combos in musical matches against other fighters. Today brings us a new soundtrack sample video showcasing the ‘Undertoe' song from Totts. You can give that tune a listen above. Think you have what it takes to defeat the most talented artists in the universe? Now's your chance to test your skills, as attendees of this weekend's Holiday Matsuri event can get their hands on a new playable demo.
+
+
+***
+![US says China balloon could collect intelligence signals](https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/5/e2/5e2f2fa1-1ea4-504a-b38d-83a538f250ad/63e50f4097096.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "US says China balloon could collect intelligence signals")
+
+
+[US says China balloon could collect intelligence signals](https://lacrossetribune.com/lifestyles/technology/us-says-china-balloon-could-collect-intelligence-signals/article_dceabd25-e82f-5c90-8b7d-3450632ba3f2.html)
+
+
+> WASHINGTON (AP) — The China balloon shot down by the U.S. was equipped to detect and collect intelligence signals as part of a huge, military-linked aerial surveillance program that targeted more than 40 countries, the Biden administration declared Thursday, citing imagery from American U-2 spy planes. A fleet of balloons operates under the direction of the People's Liberation Army and is used specifically for spying, outfitted with high-tech equipment designed to gather sensitive information from targets across the globe, the U.
+
+
+***
+![Nintendo Switch Sports in-game rewards for the week of Feb. 9th, 2023](https://gonintendo.com/attachments/image/23002/file/medium-ae8b9b381fb2b5d8b65d25c9bd92aa60.png "Nintendo Switch Sports in-game rewards for the week of Feb. 9th, 2023")
+
+
+[Nintendo Switch Sports in-game rewards for the week of Feb. 9th, 2023](https://gonintendo.com/contents/16071-nintendo-switch-sports-in-game-rewards-for-the-week-of-feb-9th-2023)
+
+
+> A new set of items is now available for players to earn in Nintendo Switch Sports. See below to find out exactly what you can earn and when by playing online matches. Here's what's coming to the item section this week. This collection will be available until 9:00 p.m. PT on March 1, 2023. Completion bonus Custom Chambara-Outfit Set Clothing/Accessory Custom Chambara Helmet (Black) Custom Chambara Helmet (White) Half-Rim Glasses (Navy) Flower Paint Hairstyle Soccer gear Chambara gear Stamps Happiness Mask Scheming Mask Disgruntled Mask Weeping Mask Titles modal#open commentUpvoteInfoModal.
+
+
+***
+!['You' Season 4 Review: Netflix Thriller Is a Mixed Bag](https://www.cnet.com/a/img/resize/46edc6c1731db61e30edd6833e85a179ead12248/hub/2023/01/31/6f75a308-3e96-4e5e-b05a-dc8c3a4392df/you-s4-e2-00-18-21-04-r.jpg?auto=webp&fit=crop&height=630&precrop=2880,1618,x0,y47&width=1200 "'You' Season 4 Review: Netflix Thriller Is a Mixed Bag")
+
+
+['You' Season 4 Review: Netflix Thriller Is a Mixed Bag](https://www.cnet.com/culture/entertainment/you-season-4-review-netflix-thriller-is-a-mixed-bag/)
+
+
+> When Joe Goldberg, the main character of Netflix's psychological thriller You, first put on his accidentally cool vintage baseball cap, his whole tousled librarian schtick had a ton of charm. His belief in finding his one true love, by whatever means, was endearingly sincere. Yes, he murdered multiple people in the name of love. But at least his deluded idea of romance served as commentary on the ways life and love don't quite match the picture perfect Instagram ideal. By the newest season of You -- season 4 -- Joe is a different man.
+
+
+***
+![See Phoenix like never before with Thunderbird ASU augmented reality scavenger hunt](https://media.12news.com/assets/KPNX/images/d5dac426-7f77-441f-b4b1-b47eca706b77/d5dac426-7f77-441f-b4b1-b47eca706b77_1140x641.jpg "See Phoenix like never before with Thunderbird ASU augmented reality scavenger hunt")
+
+
+[See Phoenix like never before with Thunderbird ASU augmented reality scavenger hunt](https://www.12news.com/article/tech/thunderbird-asu-augmented-reality-scavenger-hunt-phoenix/75-0df5dbd3-5aca-4135-abd0-7b6d63138666)
+
+
+> PHOENIX — See where Phoenix has been and where it is going with a three-day augmented reality scavenger hunt through the city. Thunderbird at Arizona State University and the City of Phoenix collaborated to bring the "Phoenix: The Global City of the Future" experience to the city from Feb.9 through 11. The community is invited to visit the Thunderbird Global Headquarters and explore virtual reality attractions and check out the school's Innovation Center. Among the attractions are interactive games on global collaboration tables and a guided tour in a 4D immersive Positron chair.
+
+
+***
+![Alteryx's stock jumps on rapid revenue growth and confident outlook](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/mark_anderson_650x390.jpg "Alteryx's stock jumps on rapid revenue growth and confident outlook")
+
+
+[Alteryx's stock jumps on rapid revenue growth and confident outlook](https://siliconangle.com/2023/02/09/alteryxs-stock-jumps-rapid-revenue-growth-confident-outlook/)
+
+
+> Shares of the big-data firm Alteryx Inc. rose more than 9% in extended trading today after it revealed that its revenue grew by 73% in the fourth quarter. It also offered solid guidance for the next quarter and full year, boosting investor's enthusiasm further. The company reported a net loss for the quarter of $31.7 million, improving on the $37.5 million loss it posted a year earlier. Earnings before certain costs such as stock compensation came to 84 cents per share, significantly ahead of Wall Street's target of 51 cents.
+
+
+***
+![Vampire Survivors Update 1.3.0 Patch Notes](https://thenerdstash.com/wp-content/uploads/2023/02/vampire-survivors-update-1-3-0-patch-notes.jpg "Vampire Survivors Update 1.3.0 Patch Notes")
+
+
+[Vampire Survivors Update 1.3.0 Patch Notes](https://thenerdstash.com/vampire-survivors-update-1-3-0-patch-notes/)
+
+
+> Vampire Survivors received a new update today , and here's the complete list of changes and fixes added with this patch. The latest update brings new content to the game, including three recent achievements, a new challenge stage, and two new relics . Check out the Vampire Survivors update 1.3.0 patch notes below. While the new additions don't dramatically change Vampire Survivors ‘ core experience, they bring new features and increased customization options for players. One of the biggest additions is the new challenge stage , which allows players to test their skills and earn unique rewards.
+
+
+***
+![Metroid Prime Remastered runs on the latest version Retro's proprietary engine](https://gonintendo.com/attachments/image/23000/file/medium-71d9f09a67633a5b9ff1e1b89acfa988.jpg "Metroid Prime Remastered runs on the latest version Retro's proprietary engine")
+
+
+[Metroid Prime Remastered runs on the latest version Retro's proprietary engine](https://gonintendo.com/contents/16069-metroid-prime-remastered-runs-on-the-latest-version-retro-s-proprietary-engine)
+
+
+> Here's a little tidbit of information you might find interesting. Metroid Prime Remastered and Metroid Prime have one big thing in common beyond the game itself, and it all has to do with the engine powering the project. Back when Retro Studios originally created Metroid Prime, it was the first game to run on their proprietary RUDE engine. Ever since that day, Retro has been using that same engine for their projects, albeit with major updates every step of the way. Believe it or not, Metroid Prime Remastered is running on the latest version of that same RUDE engine.
+
+
+***
+![Check out the complete menu for Super Nintendo World's Toadstool Café](https://gonintendo.com/attachments/image/22998/file/medium-9f2ac5821bfff1b62ab7e84b8920dcd3.jpg "Check out the complete menu for Super Nintendo World's Toadstool Café")
+
+
+[Check out the complete menu for Super Nintendo World's Toadstool Café](https://gonintendo.com/contents/16068-check-out-the-complete-menu-for-super-nintendo-world-s-toadstool-cafe)
+
+
+> Toadstool Cheesy Garlic Knots(VG)- $5.99 Mini mushroom shaped knots brushed with garlic butter, parmesan cheese, parsley and a side of marinara sauce Piranha Plant Caprese(GF, VG)- $12.99 Tomatoes, fresh mozzarella, asparagus, and basil pesto served with mixed greens, shaved radish, and apple vinaigrette Yoshi's Favorite Fruit and Veggie Salad(VG)- $13.99 Mixed greens, star fruit, strawberries, blueberries, radish, mushrooms, tomato, cucumber, Yoshi egg croutons and raspberry vinaigrette Super Star Chicken Salad - $14.
+
+
+***
+![AWS picks GrabMaps to power location-based services for Southeast Asia customers](https://techwireasia.com/wp-content/uploads/2023/02/shutterstock_1193833876-scaled.jpg "AWS picks GrabMaps to power location-based services for Southeast Asia customers")
+
+
+[AWS picks GrabMaps to power location-based services for Southeast Asia customers](https://techwireasia.com/2023/02/aws-picks-grabmaps-to-power-location-based-services-for-southeast-asia-customers/)
+
+
+> (Source – Shutterstock) When Grab launched GrabMaps back in June 2022, the service was first developed for in-house use. However, with mapping and location-based services in Southeast Asia providing a US$1 billion market opportunity, GrabMaps soon became an enterprise service. At the time of the launch, GrabMaps provided location-based intelligence and services to 7 out of the 8 countries in which it operates. When the enterprise service became fully self-sufficient, GrabMaps was offered as a B2B solution.
+
+
+***
+![Men's Magazine Corrects ‘Bungled' AI-Generated Health Story After Getting Caught](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17j4Pq.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Men's Magazine Corrects ‘Bungled' AI-Generated Health Story After Getting Caught")
+
+
+[Men's Magazine Corrects ‘Bungled' AI-Generated Health Story After Getting Caught](http://www.msn.com/en-us/news/technology/men-s-magazine-corrects-bungled-ai-generated-health-story-after-getting-caught/ar-AA17iT9d)
+
+
+> When Arena Group, the publisher of Sports Illustrated and multiple other magazines, announced—less than a week ago—that it would lean into artificial intelligence to help spawn articles and story ideas, its chief executive promised that it planned to use generative power only for good. Then, in a wild twist, an AI-generated article it published less than 24 hours later turned out to be riddled with errors. Load Error The article in question, published in Arena Group's Men's Journal under the dubious byline of 'Men's Fitness Editors,' purported to tell readers 'What All Men Should Know About Low Testosterone.
+
+
+***
+![Samsung Galaxy S23 Ultra gets subjected to another durability test](https://fdn.gsmarena.com/imgroot/news/23/02/samsung-galaxy-s23-ultra-durability/-952x498w6/gsmarena_000.jpg "Samsung Galaxy S23 Ultra gets subjected to another durability test")
+
+
+[Samsung Galaxy S23 Ultra gets subjected to another durability test](https://www.gsmarena.com/samsung_galaxy_s23_ultra_gets_subjected_to_another_durability_test-news-57502.php)
+
+
+> Mere hours ago, we brought you a video 'durability test' of the Samsung Galaxy S23 Ultra , and here we are now back again with another video... another 'durability test' video, that is. Don't worry, we haven't gone insane - it's not the same video. This one is from the veteran of smartphone durability testing, Zack from JerryRigEverything . He's the one who practically invented this format, so here's his take on Samsung's latest and greatest, and how well it can withstand various stresses. In case you couldn't watch for whatever reason, we'll try to sum up the video's main points for you here - obvious spoiler alert ahead! Everything starts with the glass scratch test as usual, and it's level 6 on the Mohs hardness scale where you start seeing marks, while at level 7 there are deeper grooves.
+
+
+***
+[SPECIAL REPORT: GigNet Fiber-to-the-Home (FTTH) is A Key Element in the Digital Transformation of the Mexican Caribbean, With Over 150,000 Homes Passed and More Growth Planned for 2023](http://www.businesswire.com/news/home/20230209005724/en/SPECIAL-REPORT-GigNet-Fiber-to-the-Home-FTTH-is-A-Key-Element-in-the-Digital-Transformation-of-the-Mexican-Caribbean-With-Over-150000-Homes-Passed-and-More-Growth-Planned-for-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CANCUN, Mexico--(BUSINESS WIRE)-- #Broadband--GigNet, a Digital Infrastructure company with an extensive regional fiber-optic broadband network from Costa Mujeres, North of Cancun, through the Hotel Zone of Tulum, announced today it is making an important commitment to extend advanced, reliable broadband access to underserved residential communities in the Cancun region, many of which are being developed to provide housing for the hundreds of thousands of employees of hotels, resorts, restaurant
+
+
+***
+![Project Winter 'Speak the Truth' update live on Switch](https://gonintendo.com/attachments/image/22996/file/medium-9b87ebda587c4caf894d6c2e031a4f68.png "Project Winter 'Speak the Truth' update live on Switch")
+
+
+[Project Winter 'Speak the Truth' update live on Switch](https://gonintendo.com/contents/16066-project-winter-speak-the-truth-update-live-on-switch)
+
+
+> Project Winter has gotten a ‘Speak the Truth' update today. You can find the patch notes for his update below. Toxmod We've partnered with Modulate to test their voice moderation software called ToxMod. ToxMod works by analyzing voice chat audio in-game. You can think of it as an unbiased additional player in your lobby, looking out for and reporting toxic incidents. If it detects toxic activity, it flags it as such and sends that audio to us in a report. ToxMod allows us to listen back to flagged audio in a game without having a player record it themselves.
+
+
+***
+![price drop! Properties sold at 20 percent lower prices](https://img.chmedia.ch/2023/02/07/2e0326c9-1b79-4877-bd6e-0dd0be260710.jpeg?width=1200&height=675&fit=bound&quality=75&auto=webp&crop=5409,3043,x0,y563&wmark=aboplus "price drop! Properties sold at 20 percent lower prices")
+
+
+[price drop! Properties sold at 20 percent lower prices](https://www.world-today-news.com/price-drop-properties-sold-at-20-percent-lower-prices/)
+
+
+> price drop! Real estate sold at 20 percent lower prices – what's behind it Real estate prices are dropping significantly abroad. Now there has also been a sharp fall in prices in Switzerland. They talked their mouths lint, the heads of the Swiss National Bank. As early as 2014, a Vice President warned that the real estate market was in the danger zone. 'The risk of a correction is high.'
+
+
+***
+![Skull: The Hero Slayer 'Dark Mirror' update launches Feb. 15th, 2023](https://gonintendo.com/attachments/image/22995/file/medium-be75b595a191f0152a0b680142eee73f.jpg "Skull: The Hero Slayer 'Dark Mirror' update launches Feb. 15th, 2023")
+
+
+[Skull: The Hero Slayer 'Dark Mirror' update launches Feb. 15th, 2023](https://gonintendo.com/contents/16065-skull-the-hero-slayer-dark-mirror-update-launches-feb-15th-2023)
+
+
+> Just last month, NEOWIZ, developer and publisher of fan-favorite indie games, announced that a massive free expansion was heading to Skul: The Hero Slayer. The Dark Mirror expansion will finally arrive on Switch Feb. 15th, 2023. Anchoring the expansion is a new iteration of Hard Mode, complete with an all-new story and map. In addition, changes have been applied to the reward system and many of Skul's items. A balance pass has been deployed to fix stages, skulls, monsters, and bosses. Lastly, a host of bug fixes and corrected visual effects have been added to improve players' overall experience.
+
+
+***
+[[그래픽] Expected generation of spent nuclear fuel](https://www.world-today-news.com/%ea%b7%b8%eb%9e%98%ed%94%bd-expected-generation-of-spent-nuclear-fuel/)
+
+
+> news article"> (Seoul = Yonhap News) Reporter Kim Min-ji = The saturation point of storage facilities for storing spent nuclear fuel at nuclear power plants is expected to decrease by one to two years compared to the previously expected time point. On the 10th, the Ministry of Trade, Industry and Energy held a ‘spent fuel generation amount and saturation forecast briefing' at the Korea Chamber of Commerce and Industry, and disclosed the results of the recalculation of the spent fuel saturation point.
+
+
+***
+![Fish Don't Dither](https://viterbischool.usc.edu/wp-content/uploads/2023/02/Zebrafish-Evasion-Tactics-Research-Kanso-Lab.jpg "Fish Don't Dither")
+
+
+[Fish Don't Dither](https://viterbischool.usc.edu/news/2023/02/fish-dont-dither-a-new-study-investigates-danger-evasion-tactics/)
+
+
+> Adult zebrafish and zebrafish larva Decisions are difficult. Humans often find themselves deliberating between multiple conflicting alternatives, or frustratingly fixated upon a single option. When faced with a threat, zebrafish larvae don't have that luxury. The direction they take to escape from a predator is a matter of life and death.    A groundbreaking study led by Kanso Bioinspired Motion Lab at USC Viterbi School of Engineering has opened new pathways to investigate the grey space between sensory input and behavioral response in zebrafish.
+
+
+***
+![Lauren Boebert thinks America consists of 437 people obsessed with Hunter Biden's laptop](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bobo.jpg?fit=1200%2C800&ssl=1 "Lauren Boebert thinks America consists of 437 people obsessed with Hunter Biden's laptop")
+
+
+[Lauren Boebert thinks America consists of 437 people obsessed with Hunter Biden's laptop](https://boingboing.net/2023/02/09/lauren-boebert-thinks-america-consists-of-437-people-obsessed-with-hunter-bidens-laptop.html)
+
+
+> Garfield County champion sneerer Laureen Boebert should stick to pulling faces at the Denver Stock Show instead of spreading garbage facts about garbage polls. She tweeted: 71% of Americans believe accurate reporting of Hunter Biden's laptop would have changed the 2020 election outcome. This isn't some nothing story. This coverup altered the history of our nation forever. Let's translate this from Boboese into English: 71% of 437 adults in the United States believe accurate reporting of Hunter Biden's laptop would have changed the 2020 election outcome, even though news about it was all over the Internet.
+
+
+***
+![Nintendo Australia restocks all Legend of Zelda/some Kirby amiibo](https://gonintendo.com/attachments/image/22990/file/medium-fc9cb6e54ac0761d0a84cca34211c280.jpg "Nintendo Australia restocks all Legend of Zelda/some Kirby amiibo")
+
+
+[Nintendo Australia restocks all Legend of Zelda/some Kirby amiibo](https://gonintendo.com/contents/16064-nintendo-australia-restocks-all-legend-of-zelda-some-kirby-amiibo)
+
+
+> Time to grab the ones you missed! amiibo collector's in Australia and New Zealand have major reason to celebrate today. Following yesterday's Nintendo Direct, Nintendo Australia has restocked every single Legend of Zelda amiibo, along with a handful of Kirby amiibo. Hopefully Nintendo does the same thing worldwide, but while we keep our fingers crossed on that, here's what's back up for grabs down under. The Legend of Zelda amiibo Link (Tears of the Kingdom) Link (Rider) Link (Archer) Zelda amiibo (The Legend of Zelda Collection) Bokoblin amiibo (The Legend of Zelda Collection) Daruk amiibo (The Legend of Zelda Collection) Urbosa amiibo (The Legend of Zelda Collection) Mipha amiibo (The Legend of Zelda Collection) Revali amiibo (The Legend of Zelda Collection) Link (Link's Awakening) amiibo (The Legend of Zelda Collection) Link (Skyward Sword) amiibo (The Legend of Zelda Collection) Link (Twilight Princess) amiibo (The Legend of Zelda Collection) Wolf Link amiibo (The Legend of Zelda Collection) Toon Link (The Wind Waker) amiibo (The Legend of Zelda Collection) Zelda (The Wind Waker) amiibo (The Legend of Zelda Collection) Link (Majora's Mask) amiibo (The Legend of Zelda Collection) Link (Ocarina of Time) amiibo (The Legend of Zelda Collection) Link 35th Anniversary (The Legend of Zelda) amiibo Ganondorf amiibo (Super Smash Bros.
+
+
+***
+![Causes of Death of Women in North Jakarta Revealed due to Gunshot Wounds](https://awsimages.detik.net.id/api/wm/2015/09/10/07266b82-6403-44c4-bcda-aa9f7e4a2536_169.jpg?wid=54&w=650&v=1&t=jpeg "Causes of Death of Women in North Jakarta Revealed due to Gunshot Wounds")
+
+
+[Causes of Death of Women in North Jakarta Revealed due to Gunshot Wounds](https://www.world-today-news.com/causes-of-death-of-women-in-north-jakarta-revealed-due-to-gunshot-wounds/)
+
+
+> Jakarta – Lies death of woman initial S (51) in a luxurious house in Kapuk Muara, Penjaringan, North Jakarta, finally revealed. Victim died with gunshot wound to chest left. Woman S was found dead in her house in Kapuk Muara, Penjaringan, North Jakarta, on Wednesday (8/2/2023) at around 15.00 WIB. A gun was found when the police conducted a crime scene at the scene. Following are the facts of women who died with gunshot wounds in North Jakarta which are summarized detikcom Friday (10/2/2023). Pistol Found at Crime Scene Penjaringan Police Chief Kompol M Probandono Bobby Danuardi confirmed that a body was found in a house in Kapuk Muara, Penjaringan, North Jakarta.
+
+
+***
+![NewsNation reporter "roughed up" and arrested for reporting in Ohio](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/arrest.jpeg?fit=1200%2C675&ssl=1 "NewsNation reporter "roughed up" and arrested for reporting in Ohio")
+
+
+[NewsNation reporter "roughed up" and arrested for reporting in Ohio](https://boingboing.net/2023/02/09/newsnation-reporter-roughed-up-and-arrested-for-reporting-in-ohio.html)
+
+
+> NewsNation journalist Evan Lambert was arrested yesterday in Ohio while reporting at a news conference. Reporters had been asked to keep quiet while Gov. Mike DeWine made remarks about a train derailment, and apparently correspondent Evan Lambert angered officials as he continued to report live. He was "thrown to the ground" and "roughed up" before policed "handcuffed, and arrested" him, according to NewsNation . "No journalist expects to be arrested when you're doing your job, and I think that's really important that that doesn't happen in our country," said Lambert, who was "detained in the Columbiana County Jail," according to CNN .
+
+
+***
+![Octopath Traveler 2 preparing for launch with Countdown art](https://gonintendo.com/attachments/image/22986/file/medium-62bcf676ff1ec0bda04556c87239ad01.png "Octopath Traveler 2 preparing for launch with Countdown art")
+
+
+[Octopath Traveler 2 preparing for launch with Countdown art](https://gonintendo.com/contents/16060-octopath-traveler-2-preparing-for-launch-with-countdown-art)
+
+
+> On the 9th day of February Squenix sent to me The official Japanese account for Octopath Traveler 2 has been sharing some incredible art counting down to the release date of the game! While this started on the 8th, here we have both yesterday's and today's art. In the one for day 16, we can see Throne the Thief and as for the one for day 15 we see Partitio the Merchant: If you know the first game, then you'll recognize the thief Therion making a small cameo. Thieves stick together I guess! Octopath Traveler 2 is being released on February 24 and, if the game can't come soon enough, remember a demo is now available where you'll be able to play the epilogue and then transfer the data to the full game.
+
+
+***
+[Belarus demands a harsh prison sentence for Nobel Peace Prize laureate Belyacki](https://www.world-today-news.com/belarus-demands-a-harsh-prison-sentence-for-nobel-peace-prize-laureate-belyacki/)
+
+
+> Belyackis is accused of financing anti-government protests. He sat on the defendant's bench together with three other activists from the organization 'Vyasna', which he founded in 1996. The charges brought against them are related to the financial assistance provided by 'Vyasna' to political prisoners. All four activists are accused of tax evasion, financing of activities that undermine public order and smuggling. The prosecutor's office has also requested long prison terms for Beliack's colleagues: Valentin Stefanovic 11 years in prison, Dmitri Salaujos 10 years in prison and Vladimir Labkovic 9 years in prison.
+
+
+***
+![What is artificial narrow intelligence (ANI)?](https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1267598662.jpg?w=1200&strip=all "What is artificial narrow intelligence (ANI)?")
+
+
+[What is artificial narrow intelligence (ANI)?](https://venturebeat.com/ai/what-is-artificial-narrow-intelligence-ani/)
+
+
+> Check out all the on-demand sessions from the Intelligent Security Summit here . Interest in artificial intelligence (AI) has surged with the emergence of such intuitive tools as ChatGPT. But, ChatGPT and the slew of related breakthrough projects that we've witnessed in AI still take the form of what can be called 'narrow' intelligence.  Hyperbole aside, we have only scratched the surface of what the new technology may eventually become. ChatGPT has the markings of artificial narrow intelligence (ANI).
+
+
+***
+![Good for him. He deserved it! The Norwegian biathlon king had no mercy for the crying Swede](https://d16-a.sdn.cz/d_16/c_img_gX_l/aBNi5.jpeg?fl=cro,0,20,999,564|res,1200,,1|webp,75 "Good for him. He deserved it! The Norwegian biathlon king had no mercy for the crying Swede")
+
+
+[Good for him. He deserved it! The Norwegian biathlon king had no mercy for the crying Swede](https://www.world-today-news.com/good-for-him-he-deserved-it-the-norwegian-biathlon-king-had-no-mercy-for-the-crying-swede/)
+
+
+> Before the start of the opening race of the World Cup, the Swedish Olympic champion was surprised in an interview with the newspaper Aftonbladet that the favored Norwegians would use Johannes Thingnes Bö against him on the last leg. 'I was a bit surprised that they used Johannes as a finisher. I would be much more worried about Vetle Sjastad Christiansen. But I'm not afraid of Johannes or Sturla (Holm Laegreid),' said Samuelsson, saying that the last two named no longer have the necessary explosiveness for the final meters of races.
+
+
+***
+![The Legend of Zelda: Tears of the Kingdom has the biggest file size of any first party Switch game](https://gonintendo.com/attachments/image/22988/file/medium-ab7f7728d78fd12b9a7328f64c48a9e4.png "The Legend of Zelda: Tears of the Kingdom has the biggest file size of any first party Switch game")
+
+
+[The Legend of Zelda: Tears of the Kingdom has the biggest file size of any first party Switch game](https://gonintendo.com/contents/16062-the-legend-of-zelda-tears-of-the-kingdom-has-the-biggest-file-size-of-any-first)
+
+
+> Link's biggest adventure yet! The Legend of Zelda: Tears of the Kingdom is going to be priced at $70, making it the first Switch game to come in at that total. Turns out that's not the only record-breaking aspect Link and the gang will achieve in their next adventure! The Switch eShop has confirmed that The Legend of Zelda: Tears of the Kingdom clocks in at 18.2 GB. That pales in comparison to other titles on the Switch eShop, but it's actually the biggest first-party game Nintendo has ever released! The previous first-party record-holder for Nintendo was The Legend of Zelda: Breath of the Wild, which came in at 14.
+
+
+***
+![Actor Alec Baldwin charged again for shooting incident on film set Rust](https://as01.epimg.net/meristation/imagenes/2023/02/08/betech/1675867762_654170_1675868053_noticia_normal.jpg "Actor Alec Baldwin charged again for shooting incident on film set Rust")
+
+
+[Actor Alec Baldwin charged again for shooting incident on film set Rust](https://www.world-today-news.com/actor-alec-baldwin-charged-again-for-shooting-incident-on-film-set-rust-backbite/)
+
+
+> 09 feb 2023 om 22:24 Again actor Alec Baldwin is facing a lawsuit. He is being prosecuted for shooting camerawoman Halyna Hutchins on the film set of Rust. The victim's parents and sister have sued Baldwin and others involved. The family accuses the production team of breaking several safety rules, reports TMZ based on the charge. The relatives of the camerawoman demand compensation, but do not mention an amount. The 64-year-old Baldwin was officially charged at the end of January by the public prosecutor in the US state of New Mexico.
+
+
+***
+![Scalpers charge $400 for The Legend of Zelda: Tears of the Kingdom collector's edition](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/the-legend-of-zelda-tears-of-the-kingdom-combat-1.jpg "Scalpers charge $400 for The Legend of Zelda: Tears of the Kingdom collector's edition")
+
+
+[Scalpers charge $400 for The Legend of Zelda: Tears of the Kingdom collector's edition](https://mobilesyrup.com/2023/02/09/the-legend-of-zelda-tears-of-the-kingdom-collectors-edition-scalpers-fee/)
+
+
+> The just-revealed collector's edition of The Legend of Zelda: Tears of the Kingdom  quickly sold out, so naturally, scalpers are taking advantage of the situation. Retailing for $174.99 CAD, the package includes a physical copy of the game, an artbook with concept art, a Steelbook case, an Iconoart steel poster and four pin badges. Considering the game has an unusual $90 price tag , this means the extra goodies effectively cost an additional $85. In addition to the standard version, a collector's edition of The Legend of #Zelda : Tears of the Kingdom will launch on 5/12.
+
+
+***
+![Best Samsung Galaxy S23+ wallet cases in 2023](https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/wallet-slayer-s22-plus-hero-image.jpg "Best Samsung Galaxy S23+ wallet cases in 2023")
+
+
+[Best Samsung Galaxy S23+ wallet cases in 2023](https://www.androidpolice.com/best-samsung-galaxy-s23-plus-wallet-cases/)
+
+
+> Cases are about more than just keeping your new Samsung Galaxy S23+ out of harm's way. They also provide better grip for more convenient use and often have helpful features like kickstands. Some even offer storage space for cards, cash, receipts, and other small papers. A respectable selection of great Galaxy S23+ cases has already hit the market, courtesy of various well-known manufacturers. Whether you're looking for something futuristic and bulletproof or leather-bound and classy, one of these card-carrying cases should be right for you.
+
+
+***
+![Tech transformation, homegrown innovation: Entrepreneurs invited to apply for 2023 West Kentucky Innovation Challenge](https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/b/ce/bce0148a-a8a4-11ed-8bb2-df28b6e6b128/63e5466cc4379.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize "Tech transformation, homegrown innovation: Entrepreneurs invited to apply for 2023 West Kentucky Innovation Challenge")
+
+
+[Tech transformation, homegrown innovation: Entrepreneurs invited to apply for 2023 West Kentucky Innovation Challenge](https://www.wpsdlocal6.com/news/tech-transformation-homegrown-innovation-entrepreneurs-invited-to-apply-for-2023-west-kentucky-innovation-challenge/article_bce0148a-a8a4-11ed-8bb2-df28b6e6b128.html)
+
+
+> PADUCAH — If you're an entrepreneur with a big idea but don't have the know-how or tools to build your own software, you may be interested in this year's West Kentucky Innovation Challenge. Nonprofit Sprocket is encouraging budding entrepreneurs to apply to participate in the challenge — an interactive online program supporting locals who want to use technology to create or expand their business.   According to a Thursday release, participants must apply for access to weekly online coaching sessions.
+
+
+***
+![Sonic Frontiers hits 2.9 million sold, Persona 5 Royal at 1.3 million by end of 2022](https://gonintendo.com/attachments/image/22987/file/medium-5086443e24f5f5fc9eac747ea4d036cc.jpg "Sonic Frontiers hits 2.9 million sold, Persona 5 Royal at 1.3 million by end of 2022")
+
+
+[Sonic Frontiers hits 2.9 million sold, Persona 5 Royal at 1.3 million by end of 2022](https://gonintendo.com/contents/16061-sonic-frontiers-hits-2-9-million-sold-persona-5-royal-at-1-3-million-by-end-of-2022)
+
+
+> SEGA's got a pair of hits! SEGA has shared some sales stats for a pair of their games in their most recent fiscal report, and things are going quite well for both Sonic and Persona. On the Sonic side of things, SEGA was happy to report that Sonic Frontiers has managed to move over 2.9 million units worldwide by the time 2022 wrapped. There's no doubt Sonic Frontiers is well into 3+ million sold territory by now, but we'll have to wait for SEGA to share a specific number.
+
+
+***
+![Novel phishing campaign takes screenshots ahead of payload delivery](https://files.scmagazine.com/wp-content/uploads/2023/02/computer-screen-woman-e1675983169238.png "Novel phishing campaign takes screenshots ahead of payload delivery")
+
+
+[Novel phishing campaign takes screenshots ahead of payload delivery](https://www.scmagazine.com/news/malware/phishing-screenshots-payload-delivery)
+
+
+> A novel phishing attack deploys a first-stage malware payload that allows attackers to take screenshots of victims to determine the value and whether to deploy additional malware. Researchers said over 1,000 organizations in the U.S. and Germany have been targeted in the attacks. They add the campaign is unique because of the malware tools used in the attacks. Proofpoint Threat Research, which released a report on the campaigns Wednesday , attribute the campaigns to the advanced persistent threat group TA866.
+
+
+***
+![Microsoft subpoenas Nintendo in fight for Activision Blizzard](https://gonintendo.com/attachments/image/22985/file/medium-fae6caf6dd4d4b699abb2d4209786f1f.jpg "Microsoft subpoenas Nintendo in fight for Activision Blizzard")
+
+
+[Microsoft subpoenas Nintendo in fight for Activision Blizzard](https://gonintendo.com/contents/16059-microsoft-subpoenas-nintendo-in-fight-for-activision-blizzard)
+
+
+> Well...things just got more interesting As you no doubt know, Microsoft is desperately trying to acquire Activision-Blizzard, and they keep getting hit with stumbling blocks and pushback. Microsoft is very far from giving up the fight though, and now they're turning to another huge came company for some support. Recent documents have revealed that Microsoft subpoenaed Nintendo in the latest hopes of pushing their Activision-Blizzard acquisition further. The subpoena doesn't specifically say what Microsoft wants from Nintendo, but there's no doubt they're hoping the Big N will share comments that will push back against FTC plans to halt the merger.
+
+
+***
+![Fatal Frame: Mask of the Lunar Eclipse Interview](https://gonintendo.com/attachments/image/22981/file/medium-0a817aa3f8b8c7e2171b58bf7fdaeaa0.png "Fatal Frame: Mask of the Lunar Eclipse Interview")
+
+
+[Fatal Frame: Mask of the Lunar Eclipse Interview](https://gonintendo.com/contents/16055-fatal-frame-mask-of-the-lunar-eclipse-interview-bringing-the-game-overseas-series)
+
+
+> Siliconera spent some time interviewing Producer Yutaka Fukaya and Director Makoto Shibata on their latest game Fatal Frame: Mask of the Lunar Eclipse . In this interview they discuss various topics and we've put together some of the more interesting questions and answers we found in it. Let's begin! On the topic of bringing the game overseas: Jenni Lada: When did work begin on the worldwide release of Fatal Frame: Mask of the Lunar Eclipse? Yutaka Fukaya: Although we began working on the game around the beginning of 2022, we had the concept since well before then.
+
+
+***
+![BAM Digital Realty Starts Its First Greenfield Data Centre in India](https://telecomtalk.info/wp-content/uploads/2023/02/bam-digital-realty-first-greenfield-datacentre-india.jpg "BAM Digital Realty Starts Its First Greenfield Data Centre in India")
+
+
+[BAM Digital Realty Starts Its First Greenfield Data Centre in India](https://telecomtalk.info/bam-digital-realty-first-greenfield-datacentre-india/674953/)
+
+
+> Data center firm BAM Digital Realty, a joint venture between Brookfield infrastructure and Digital Realty, has started construction of its first greenfield data center facility in India. The facility is located at Chennai's Ambattur Industrial Estate and is expected to be operational later this year. The first phase, MAA10, will offer 20 MW critical capacity to support the growing demand for digital infrastructure in India. Seema Ambastha , Chief Executive Officer, BAM Digital Realty: "Our campus in Chennai is the beginning of our journey in India.
+
+
+***
+![New Team Fortress 2 Summer Update Bringing New Items, Maps & More](https://mp1st.com/wp-content/uploads/2023/02/tf2-1.png "New Team Fortress 2 Summer Update Bringing New Items, Maps & More")
+
+
+[New Team Fortress 2 Summer Update Bringing New Items, Maps & More](https://mp1st.com/news/new-team-fortress-2-summer-update-bringing-new-items-maps-more)
+
+
+> In a surprise announcement, Valve has announced a new full-sized Team Fortress 2 summer update for this year, bringing new items, maps, taunts, and more to the game. The developer will also include a selection of Steam Workshop content in the update, and asks the community to submit their creations to Steam Workshop by May 1, 2023. Team Fortress 2 turns 16 this year, and updates in recent years have understandably brought little new content to the game. That is all set to change this year, as Valve has just dropped a surprise announcement about a full-fledged update releasing in the summer: The last few Team Fortress summer events have only been item updates.
+
+
+***
+![Tech student sings to the tune of community, gratitude](https://bloximages.newyork1.vip.townnews.com/dailytoreador.com/content/tncms/assets/v3/editorial/a/d7/ad71753e-9869-11ed-b0cd-7bfffeb4f53d/63c9fbc5cd835.image.jpg?crop=1823%2C957%2C0%2C89&resize=1200%2C630&order=crop%2Cresize "Tech student sings to the tune of community, gratitude")
+
+
+[Tech student sings to the tune of community, gratitude](https://www.dailytoreador.com/lavida/tech-student-sings-to-the-tune-of-community-gratitude/article_6298f686-a89f-11ed-bf8a-bb318fb3cbcb.html)
+
+
+> An adjective that can be used to describe the path to success is nonlinear; however, there are few stories that display the trials and tribulations that led to triumphs. Austin Dean Ashford, a Ph.D interdisciplinary student from the Bay Area, holds awards for his speeches, original songs and plays under his belt now, but recounts the journey he embarked on before receiving recognition for his craft.  Through revisiting the timeline of Ashford's academic and personal achievements, Ashford continuously expressed values of gratitude, persistence and community.
+
+
+***
+![Atelier 25th Anniversary broadcast set for Feb. 20th, 2023](https://gonintendo.com/attachments/image/22984/file/medium-77347b93e8cf32cdbb5238898e128f2d.jpg "Atelier 25th Anniversary broadcast set for Feb. 20th, 2023")
+
+
+[Atelier 25th Anniversary broadcast set for Feb. 20th, 2023](https://gonintendo.com/contents/16058-atelier-25th-anniversary-broadcast-set-for-feb-20th-2023)
+
+
+> A look at two Atelier games! Eager to see what's next for the Atelier franchise? If so, you'll have the opportunity to do so through a special broadcast in less than two weeks! Koei Tecmo has announced that they'll be airing a special Atelier 25th Anniversary broadcast on February 20th, 2023 at 7 AM ET. This broadcast is going to feature both Atelier Ryza 3: Alchemist of the End & the Secret Key and the just-announced Atelier Marie: The Alchemist of Salburg remake. As of right now, it seems this presentation will only air in English.
+
+
+***
+![NASA Finds Surprising Clues to Mars' Wet Past](https://img.olhardigital.com.br/wp-content/uploads/2023/02/rover-curiosity-vale-gediz-marte.jpg "NASA Finds Surprising Clues to Mars' Wet Past")
+
+
+[NASA Finds Surprising Clues to Mars' Wet Past](https://www.world-today-news.com/nasa-finds-surprising-clues-to-mars-wet-past/)
+
+
+> Led by NASA's Jet Propulsion Laboratory (JPL), which is managed by the California Institute of Technology (Caltech), the Curiosity rover has been investigating Mars for over ten years. Recently, the probe found rippled rocks in an unexpected area of ​​the planet, showing the existence of an ancient lake there, according to the US space agency. in a statement issued on Wednesday (8). 'This is the best evidence of water and waves we've seen on the entire mission,' said Ashwin Vasavada, Curiosity Project Scientist at JPL.
+
+
+***
+![Hokko Life 'World Shrines' update now live](https://gonintendo.com/attachments/image/22983/file/medium-b46911bde07f0fd7428eb46aa000f166.png "Hokko Life 'World Shrines' update now live")
+
+
+[Hokko Life 'World Shrines' update now live](https://gonintendo.com/contents/16057-hokko-life-world-shrines-update-now-live)
+
+
+> MORE SPACE! 🏘️ You will now be able to EXPAND your housing! Interact with a home to add either a roomy upstairs or downstairs, yours to decorate however you please! WORLD SHRINES 🔮 Travelling has never been easier, with World Shrines! Donate resources to shrines to unlock them, and teleport between locations! MY DESIGNS TAB 🎨 You will now be able to see and manage your created and downloaded designs! In the My Designs Tab you can delete creations, as well as see how much space each one takes up.
+
+
+***
+[New Hearthstone Legendary Naxxramas Pack Announced](https://www.world-today-news.com/new-hearthstone-legendary-naxxramas-pack-announced/)
+
+
+> After a whopping 48 hours of mourning for Hearthstone's doomed Mercenaries mode, which Blizzard decided to drop anyway, it's time to move on. As all fans of the Blizzard card game know, any expansion is always followed by a mini-set of new cards, which by default costs 2000 gold. And, as you might guess, given the theme of the current addition, we are returning to the legendary ziggurat of Naxxramas. The set contains 38 cards, four of which are legendary, and along with other famous heroes, Baron Rivendare returns.
+
+
+***
+![Fox's Jonathan Turley gets chopped into mincemeat today at hearing (video)](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/turley.jpeg?fit=1200%2C658&ssl=1 "Fox's Jonathan Turley gets chopped into mincemeat today at hearing (video)")
+
+
+[Fox's Jonathan Turley gets chopped into mincemeat today at hearing (video)](https://boingboing.net/2023/02/09/foxs-jonathan-turley-gets-chopped-into-mincemeat-today-at-hearing-video.html)
+
+
+> It didn't take much for Democratic Rep. Debbie Wasserman Schultz (FL) to knock the wind out of Fox News legal analyst Jonathan Turley, who foolishly agreed to help the MAGA buffoons at the House hearing today as an utterly uninformed witness. After pretending to be an expert on what goes on behind the scenes at Twitter, Turley had to answer to Schultz: DWS: "Mr. Turley turning to you. Have you ever worked for Twitter?"Turley: "No"DWS: "Do you have any formal relationship with the company?"Turley: "No…"DWS: "Do you have any specific or special or unique knowledge about the inner workings of Twitter?" Turley: "Nothing beyond the Twitter Files and what I read in the media.
+
+
+***
+![Cutie-Pie Mouse Named After Patrick Stewart Sets Record as Oldest in Human Care](https://www.cnet.com/a/img/resize/535abf6353324166328ea9e37b829dc76ee20925/hub/2023/02/09/cc544380-577f-458c-b831-62eab2604ee1/patthemouse.jpg?auto=webp&fit=crop&height=630&width=1200 "Cutie-Pie Mouse Named After Patrick Stewart Sets Record as Oldest in Human Care")
+
+
+[Cutie-Pie Mouse Named After Patrick Stewart Sets Record as Oldest in Human Care](https://www.cnet.com/science/biology/oldest-living-mouse-in-human-care-is-an-endangered-cutie/)
+
+
+> When Pat the Pacific pocket mouse was born on July 14, 2013, Orange is the New Black had just debuted on Netflix and Despicable Me 2 was tops at the box office. The adorable rodent -- part of a conservation breeding program at the San Diego Zoo Safari Park in California -- was celebrated by Guinness World Records this week as the "oldest living mouse in human care." Pat was named for Star Trek star Patrick Stewart and is closing in on a decade of life. He eclipsed the previous oldest living mouse (Fritzy, who made it to 7 years, 225 days) by nearly two years.
+
+
+***
+![SpaceX ignites giant Starship rocket in crucial pad test](https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GHZW57IGEZG4LIM3NABS55X5SI.jpg?_a=ATO2Bfe0 "SpaceX ignites giant Starship rocket in crucial pad test")
+
+
+[SpaceX ignites giant Starship rocket in crucial pad test](https://www.clickondetroit.com/tech/2023/02/09/spacex-ignites-giant-starship-rocket-in-crucial-pad-test/)
+
+
+> SpaceX is a big step closer to sending its giant Starship spacecraft into orbit, completing an engine-firing test at the launch pad on Thursday. Thirty-one of the 33 first-stage booster engines ignited simultaneously for about 10 seconds in south Texas. The team turned off one engine before sending the firing command and another engine shut down — 'but still enough engines to reach orbit!' tweeted SpaceX's Elon Musk. Musk estimates Starship's first orbital test flight could occur as soon as March, if the test analyses and remaining preparations go well.
+
+
+***
+![SpaceX ignites giant Starship rocket in crucial pad test](https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GHZW57IGEZG4LIM3NABS55X5SI.jpg?_a=ATO2Bfe0 "SpaceX ignites giant Starship rocket in crucial pad test")
+
+
+[SpaceX ignites giant Starship rocket in crucial pad test](https://www.click2houston.com/tech/2023/02/09/spacex-ignites-giant-starship-rocket-in-crucial-pad-test/)
+
+
+> SpaceX is a big step closer to sending its giant Starship spacecraft into orbit, completing an engine-firing test at the launch pad on Thursday. Thirty-one of the 33 first-stage booster engines ignited simultaneously for about 10 seconds in south Texas. The team turned off one engine before sending the firing command and another engine shut down — 'but still enough engines to reach orbit!' tweeted SpaceX's Elon Musk. Musk estimates Starship's first orbital test flight could occur as soon as March, if the test analyses and remaining preparations go well.
+
+
+***
+![Bayonetta 3 dev blog dives deep into the game's soundtrack](https://gonintendo.com/attachments/image/22982/file/medium-b7fccf86bc296d335c6916906da3e74c.jpg "Bayonetta 3 dev blog dives deep into the game's soundtrack")
+
+
+[Bayonetta 3 dev blog dives deep into the game's soundtrack](https://gonintendo.com/contents/16056-bayonetta-3-dev-blog-dives-deep-into-the-game-s-soundtrack)
+
+
+> PlatinumGames is back with another installment in their Bayonetta 3 dev blog series, and this time around we get some details on how the game's soundtrack came together. This blog was penned by Naofumi Harada, lead composer on Bayonetta 3. Bayonetta 3 exudes a dark and grim atmosphere throughout the entire experience, with the stages set in a world of déjà vu, as they all proceed to their inevitable doom. On the other hand, in the midst of all this madness, Bayonetta still maintains her usual high-flying, rather sultry behavior and her beautifully stylish fighting style.
+
+
+***
+![God of Rock 'Daybreak' soundtrack sample released](https://gonintendo.com/attachments/image/22980/file/medium-6b4a487b800292a524c5af195b3f2016.jpg "God of Rock 'Daybreak' soundtrack sample released")
+
+
+[God of Rock 'Daybreak' soundtrack sample released](https://gonintendo.com/contents/16053-god-of-rock-daybreak-soundtrack-sample-released)
+
+
+> Modus Games previously announced that God of Rock will open its world tour on April 18, 2023, unleashing a stacked setlist of energetic tracks that players will need to master to perform devastating combos in musical matches against other fighters. Today brings us a new soundtrack sample video showcasing the ‘Daybreak' song from Tyson Wernli. You can give that tune a listen above. Think you have what it takes to defeat the most talented artists in the universe? Now's your chance to test your skills, as attendees of this weekend's Holiday Matsuri event can get their hands on a new playable demo.
+
+
+***
+![Green Energy Tax Breaks to Get More Money Back in 2023](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17iXfp.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Green Energy Tax Breaks to Get More Money Back in 2023")
+
+
+[Green Energy Tax Breaks to Get More Money Back in 2023](http://www.msn.com/en-us/news/technology/green-energy-tax-breaks-to-get-more-money-back-in-2023/ar-AA17j4oF)
+
+
+> The Inflation Reduction Act of 2022 created many new tax breaks for home energy efficiency. While most of the big incentives will arrive in future years, the sweeping law makes a few key changes that will affect your taxes during this current tax season. Adding alternative energy to your home provides the biggest tax break, but simple improvements to oil or gas appliances or structural items like windows and doors can also give you money back this tax season. Load Error There's also a tax credit for installing alternative energy charging stations for electric vehicles in your home.
+
+
+***
+![The Galaxy S23: Why Samsung could have pulled an Apple with its pricing strategy](https://m-cdn.phonearena.com/images/article/145498-wide-two_1200/The-Galaxy-S23-Why-Samsung-could-have-pulled-an-Apple-with-its-pricing-strategy.jpg "The Galaxy S23: Why Samsung could have pulled an Apple with its pricing strategy")
+
+
+[The Galaxy S23: Why Samsung could have pulled an Apple with its pricing strategy](https://www.phonearena.com/news/The-Galaxy-S23-Why-Samsung-could-have-pulled-an-Apple-with-its-pricing-strategy_id145498)
+
+
+> Commercial performance in the United States can often break or make a smartphone. Therefore, it is hardly surprising that most of the big players in the tech world place a disproportionate emphasis on their commercial performance on American turf. This is a truth that many users in other key (but relatively less important) markets like myself have come to expect. But there is a point where disparities can get out of hand. This is one such time. The Samsung Galaxy S23 has made its long-awaited debut.
+
+
+***
+![Google's Expert Advice On SEO Troubleshooting With DevTools](https://cdn.searchenginejournal.com/wp-content/uploads/2023/02/google-seo-troubleshooting-63e572637e1c9-sej.png "Google's Expert Advice On SEO Troubleshooting With DevTools")
+
+
+[Google's Expert Advice On SEO Troubleshooting With DevTools](https://www.searchenginejournal.com/googles-expert-advice-on-seo-troubleshooting-with-devtools/479024/)
+
+
+> Google has once again shared its expertise with the SEO and digital marketing communities by publishing a new installment of its Lightning Talks video series on YouTube. In the latest video, Google Developer Advocate Martin Splitt teaches viewers how to use Google Chrome DevTools to perform basic SEO troubleshooting steps. Splitt's expert knowledge and easy-to-follow instructions make this video an easy recommendation for anyone with developer experience looking to optimize their website's search engine rankings.
+
+
+***
+![The S23 Ultra gets great reviews despite few big news](https://img.welt.de/img/geschichte/mobile243670199/6151353437-ci16x9-w1200/David-Prowse-Darth-Vader-actor-dies-aged-85-2.jpg "The S23 Ultra gets great reviews despite few big news")
+
+
+[The S23 Ultra gets great reviews despite few big news](https://www.world-today-news.com/the-s23-ultra-gets-great-reviews-despite-few-big-news/)
+
+
+> The first reviews of Samsung's new flagship Galaxy S23 Ultra have now been published, and experts agree that it's a very good phone, even though it doesn't offer any really big news. Engadget gives the phone 89 out of 100 possible ratings. Among other things, they point to the screen, the performance, the improved cameras and the long battery life. But Engadget notes at the same time that it is a very expensive phone and that not much has happened with the design since the Galaxy S22 Ultra. The site Phone Arena gives the phone a rating of 9.
+
+
+***
+![Q&A: Three questions on ChatGPT and medicine](https://scx2.b-cdn.net/gfx/news/2023/qa-3-questions-on-chat.jpg "Q&A: Three questions on ChatGPT and medicine")
+
+
+[Q&A: Three questions on ChatGPT and medicine](https://techxplore.com/news/2023-02-qa-chatgpt-medicine.html)
+
+
+> The successful performance of ChatGPT on the U.S. Medical Licensing Exam demonstrates shortcomings in how medical students are trained and evaluated, says Leo Anthony Celi, a principal research scientist at MIT's Institute for Medical Engineering and Science and a practicing physician. Credit: Jose-Luis Olivares, MIT Launched in November 2022, ChatGPT is a chatbot that can not only engage in human-like conversation, but also provide accurate answers to questions in a wide range of knowledge domains.
+
+
+***
+![Activision: UK opposes purchase by Microsoft](https://e.rpp-noticias.io/large/2023/02/08/525152_1385917.jpg "Activision: UK opposes purchase by Microsoft")
+
+
+[Activision: UK opposes purchase by Microsoft](https://www.world-today-news.com/activision-uk-opposes-purchase-by-microsoft/)
+
+
+> The Markets and Competition Authority (CMA) of the United Kingdom has reached provisional conclusions about the purchase for 69 billion dollars of Activision Blizzard by Microsoft. According to this important entity, this transaction 'could result in a substantial decrease in competition, higher prices and less options and innovation for players in the country.' previous conclusions The answer of the CMA It is one of the most important in the world for this purchase to be carried out, only after the Federal Trade Commission of the United States.
+
+
+***
+![Nintendo Switch Online: Game Boy collection in Japan includes Yakuman](https://gonintendo.com/attachments/image/22979/file/medium-987a6fa044faa9a7035adf6118cc2b88.png "Nintendo Switch Online: Game Boy collection in Japan includes Yakuman")
+
+
+[Nintendo Switch Online: Game Boy collection in Japan includes Yakuman](https://gonintendo.com/contents/16052-nintendo-switch-online-game-boy-collection-in-japan-includes-yakuman)
+
+
+> Nintendo surprise revealed the addition of the Game Boy and Game Boy Advance to the Switch Online service yesterday, and both are available right now. Pretty much all regions of the world got the exact same game lineup, but our friends in Japan received one title no one else did. Switch Online members in Japan can hop in the Game Boy collection and enjoy Yakuman, which originally launched for the Game Boy in 1989. As one of the four original Game Boy games available for the Japanese launch of the Game Boy, it's the only one that was never released outside Japan.
+
+
+***
+![Meet the 2024 VW Atlas SUV and Cross Sport](https://www.cnet.com/a/img/resize/f7a20f4ea3539531826377dc4bbd3715262a4062/hub/2023/02/09/59fc8f9b-9749-4356-a89a-0159b907fe88/vw-atlas-2024.jpg?auto=webp&fit=crop&height=675&width=1200 "Meet the 2024 VW Atlas SUV and Cross Sport")
+
+
+[Meet the 2024 VW Atlas SUV and Cross Sport](https://www.cnet.com/roadshow/pictures/2024-vw-atlas-suv-and-cross-sport-debut/)
+
+
+> Volkswagen revealed the updated 2024 Atlas SUV and Cross Sport on Thursday at the 2023 Chicago Auto Show. Most trim levels will now feature VW's new full-width LED light signature and illuminated logo. Both variants feature updated front fascia and new, larger rear spoilers. A new 2.0-liter turbocharged four-cylinder engine replaces both the old four-banger and the VR6 with this update. The new turbocharged motor balanced improved torque versus the VR6 with improved efficiency.
+
+
+***
+![Sea of ​​Stars gets August release date in new trailer](https://rs3.sinahk.net/cap/84/2023/02/09/a/a8bf815ba99405cfe750e22a2f7f5d5f.jpg "Sea of ​​Stars gets August release date in new trailer")
+
+
+[Sea of ​​Stars gets August release date in new trailer](https://www.world-today-news.com/sea-of-stars-gets-august-release-date-in-new-trailer/)
+
+
+> news-main-body"> news-main-inline-image imageWrapper"> The Messenger developers at Disruption Studios announced last June that Postponed Star Ocean said at the time that the game would launch sometime in 2023, but gave us a summer window two months ago. Now we have an exact date and even the option to play some of them immediately. Tonight's trailer confirms that Sea of ​​Thieves will launch on August 29th. Nintendo Switch owners get an early, extra treat because Kickstarter success The demo is available now on the eShop.
+
+
+***
+[Sharp, Motorola Mobility und Kyocera treten dem HEVC-Advance-Patentpool von Access Advance als Lizenznehmer bei](http://www.businesswire.com/news/home/20230209005673/de/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOSTON--(BUSINESS WIRE)--Access Advance gab heute bekannt, dass: Sharp Corporation, Motorola Mobility LLC und Kyocera Corporation, neben anderen neuen Mitgliedern, Lizenznehmer des HEVC Advance Patentpools geworden sind. Die HEVC Advance Patentpool-Lizenz jetzt über 20.500 wesentliche HEVC/H.265-Patente umfasst, die in 116 Ländern ausgestellt wurden, von denen über 17.650 exklusiv für eine Pool-Lizenz über HEVC Advance verfügbar sind. Peter Moller, CEO von Access Advance, sagte: 'Wir freuen uns
+
+
+***
+![Iron Galaxy Studios helped out on Metroid Prime Remastered](https://gonintendo.com/attachments/image/22978/file/medium-cb499e2578959efbb33ceffcf9b27bc0.jpg "Iron Galaxy Studios helped out on Metroid Prime Remastered")
+
+
+[Iron Galaxy Studios helped out on Metroid Prime Remastered](https://gonintendo.com/contents/16051-iron-galaxy-studios-helped-out-on-metroid-prime-remastered)
+
+
+> After literally years of speculation, Nintendo finally confirmed a longstanding rumor by releasing Metroid Prime Remastered on Switch. Now that the game's gone from rumor to reality, we can dive in and find out some details on how it all came together. From yesterday's announcement, we knew that Nintendo and Retro Studios were involved in development, but it turns out a third company worked on the title as well. Nintendo saw fit to bring in Iron Galaxy Studios to do some of the heavy lifting on this remaster as well.
+
+
+***
+![Metroid Prime dev unhappy with remaster's visuals](https://gonintendo.com/attachments/image/22977/file/medium-c04c5c3f449ca73e3e25ded774bad5b1.png "Metroid Prime dev unhappy with remaster's visuals")
+
+
+[Metroid Prime dev unhappy with remaster's visuals](https://gonintendo.com/contents/16050-former-retro-studios-dev-unhappy-with-metroid-prime-remastered-s-door-visuals)
+
+
+> The Metroid Prime remaster dropped during yesterday's Nintendo Direct, and for the most part people have been very impressed by its enhanced visuals. However, there's at least one complaint floating around, and it comes from none other than Zoid Kirsch, Senior Gameplay Engineer on Metroid Prime and Metroid Prime 2: Echoes. Kirsch thinks the new version of Metroid Prime failed to do justice to his door design, and illustrated his point by way of the comparison above (on the left is a door from the original Metroid Prime, on the right, the same door in the new remaster).
+
+
+***
+![Hackers breach Reddit to steal source code and internal data](https://www.bleepstatic.com/content/hl-images/2023/02/09/reddit-header-logo.jpg "Hackers breach Reddit to steal source code and internal data")
+
+
+[Hackers breach Reddit to steal source code and internal data](https://www.bleepingcomputer.com/news/security/hackers-breach-reddit-to-steal-source-code-and-internal-data/)
+
+
+> Reddit suffered a cyberattack Sunday evening, allowing hackers to access internal business systems and steal internal documents and source code. The company says the hackers used a phishing lure targeting Reddit employees with a landing page impersonating its intranet site. This site attempted to steal employees' credentials and two-factor authentication tokens. After one employee fell victim to the phishing attack, the threat actor was able to breach internal Reddit systems to steal data and source code.
+
+
+***
+![Tips every PS5 owner should know](https://escolaeducacao.com.br/wp-content/uploads/2023/01/PlayStation-5.jpg "Tips every PS5 owner should know")
+
+
+[Tips every PS5 owner should know](https://www.world-today-news.com/tips-every-ps5-owner-should-know/)
+
+
+> Due to supply issues, many people were finding it difficult to find the PlayStation 5 in stores, making the model unpopular. However, Sony has promised that it will be different now, as it has already resolved these problems. However, when turning on your PlayStation for the first time, you may still have a little difficulty, so it is important to pay attention to some essential tips so that you can make the most of your PS5. Tips for getting the most out of your PS5's possibilities With the supply problem solved, the PS5 only tends to become more popular and although many people who buy it are already used to the PS4, there are people who have no idea how the system works.
+
+
+***
+![Venice Beach hotel's graffiti-themed room declares them territory of a local street gang](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/IMG_7574.jpg?fit=863%2C1200&ssl=1 "Venice Beach hotel's graffiti-themed room declares them territory of a local street gang")
+
+
+[Venice Beach hotel's graffiti-themed room declares them territory of a local street gang](https://boingboing.net/2023/02/09/venice-beach-hotels-graffiti-themed-room-declares-them-to-be-v13-only.html)
+
+
+> Much of the graffiti in this Venice Beach, California "DogTown" themed hotel room has been created to mask the territoriality and body shaming that predominated the beachside Santa Monica/Venice community during my youth. Missing is "Locals Only," "Val Go Home," and "No Fat Chicks" but a tribute to a hardcore Mexican mafia-related gang, the Venice Trece Westside Locos, can be found in the top left. Perhaps not the edgy tribute to the Lords of Dogtown the Venice hotel intended. View the photo on Instagram The Jim Muir call-out is nice.
+
+
+***
+[Allegion's Board Increases Quarterly Dividend by 10%](http://www.businesswire.com/news/home/20230209005685/en/Allegion%E2%80%99s-Board-Increases-Quarterly-Dividend-by-10/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--Allegion plc (NYSE: ALLE), a leading global security products and solutions provider, today announced that its board of directors declared a quarterly dividend of $0.45 per ordinary share of the company – representing a 10-percent increase from 2022 and the company's ninth consecutive year of annual increase in dividends. 'This dividend increase reflects our board's strong confidence in Allegion's cash flow generation and long-term outlook,' said Allegion President and
+
+
+***
+![TechPrecision Corporation Schedules Conference Call to Report Fiscal 2023 Third Quarter Financial Results](https://www.accesswire.com/img.ashx?id=738865 "TechPrecision Corporation Schedules Conference Call to Report Fiscal 2023 Third Quarter Financial Results")
+
+
+[TechPrecision Corporation Schedules Conference Call to Report Fiscal 2023 Third Quarter Financial Results](https://www.bignewsnetwork.com/news/273503952/techprecision-corporation-schedules-conference-call-to-report-fiscal-2023-third-quarter-financial-results)
+
+
+> WESTMINSTER, MA / ACCESSWIRE / February 9, 2023 / TechPrecision Corporation (OTCQB:TPCS) ('TechPrecision' or 'the Company'), an industry-leading manufacturer of precision, large-scale fabricated and machined metal components and tested systems with customers in the defense and precision industrial sectors, today announced it will release financial results for its 2023 fiscal third quarter on Tuesday, February 14, 2023. The Company will hold a conference call at 4:30 p.m. Eastern (U.S.) time on Tuesday, February 14, 2023.
+
+
+***
+[RBC Bearings Incorporated Announces Fiscal 2023 Third Quarter Results](http://www.businesswire.com/news/home/20230209005719/en/RBC-Bearings-Incorporated-Announces-Fiscal-2023-Third-Quarter-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> OXFORD, Conn.--(BUSINESS WIRE)--RBC Bearings Incorporated (NYSE: RBC, RBCP), a leading international manufacturer of highly engineered precision bearings, components and essential systems for the industrial, defense and aerospace industries, today reported results for the third quarter of fiscal 2023. Key Highlights Third quarter net sales of $351.6 million increased 31.7% over last year; organic net sales up 12.7%. Industrial segment third quarter organic net sales up 11.8% year over year and
+
+
+***
+![Sony PlayStation VR 2 is coming! QA doubts, dedicated controllers are not sold alone for the time being  Big community platform](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/02/08/draft/20153397.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600 "Sony PlayStation VR 2 is coming! QA doubts, dedicated controllers are not sold alone for the time being  Big community platform")
+
+
+[Sony PlayStation VR 2 is coming! QA doubts, dedicated controllers are not sold alone for the time being  Big community platform](https://www.world-today-news.com/sony-playstation-vr-2-is-coming-qa-doubts-dedicated-controllers-are-not-sold-alone-for-the-time-being-big-community-platform-digital/)
+
+
+> Before the official launch of Playtation VR 2 on February 22, Sony has Complete Q&A content Explain the questions that all players have about Playtation VR 2, including the different sizes of space required for playing, and whether it needs to be used with camera accessories. In addition, it also revealed that after completing the relevant settings, you can directly use Playtation VR 2 as the 'external screen' of Playtation 5 use. Prior to this, Sony has confirmed that it will launch more than 30 games corresponding to Playtation VR 2 in one go with the launch of Playtation VR 2, and also confirmed that Playtation VR 2 will not be compatible with games using Playtation VR.
+
+
+***
+![GTA Online Has a New Prize Ride and a Podium Vehicle](https://i0.wp.com/technostalls.com/wp-content/uploads/2022/11/gta-5-scaled.jpg?resize=640%2C427&ssl=1 "GTA Online Has a New Prize Ride and a Podium Vehicle")
+
+
+[GTA Online Has a New Prize Ride and a Podium Vehicle](https://technostalls.com/gta-online-has-a-new-prize-ride-and-a-podium-vehicle/)
+
+
+> Source: Unsplash Ah, the world of Grand Theft Auto Online. Where the only constant is change. Every time you think you've got a handle on the game, Rockstar North goes and throws a curveball. Whether it's a new mode, a brand new vehicle, or a hotfix to fix a glitch that was causing players to accidentally launch into space, there's always something new happening. And let's not forget the frequent updates that bring new content to the game. Just when you think you've finally managed to save up enough in-game cash to buy that high-end apartment you've had your eye on, boom – there's a new property on the market.
+
+
+***
+![Bungie is ‘completely removing' Resonant Elements from Destiny 2 with Lightfall as part of crafting changes](https://cdn1.dotesports.com/wp-content/uploads/2022/02/09130903/destiny-2-crafting-cutscene-768x432.jpg "Bungie is ‘completely removing' Resonant Elements from Destiny 2 with Lightfall as part of crafting changes")
+
+
+[Bungie is ‘completely removing' Resonant Elements from Destiny 2 with Lightfall as part of crafting changes](https://dotesports.com/destiny/news/bungie-is-completely-removing-resonant-elements-from-destiny-2-with-lightfall-as-part-of-crafting-changes)
+
+
+> Though Destiny 2 players already knew the crafting economy would look different in Lightfall , but Bungie brought a surprising change in today's This Week at Bungie blog post . The developer is taking out Resonant Elements from Destiny 2 once its new expansion lands and will use some more common currencies starting in Year Six. 'As part of an initiative to integrate weapon crafting into the broader core economy, we will be completely removing Resonant Elements from the game,' Bungie wrote in the blog post.
+
+
+***
+![Learn about Android 14's new predictive back gesture; what it is and how you'll use it](https://m-cdn.phonearena.com/images/article/145493-wide-two_1200/Learn-about-Android-14s-new-predictive-back-gesture-what-it-is-and-how-youll-use-it.jpg "Learn about Android 14's new predictive back gesture; what it is and how you'll use it")
+
+
+[Learn about Android 14's new predictive back gesture; what it is and how you'll use it](https://www.phonearena.com/news/android-14-predictive-back-gesture_id145493)
+
+
+> Last November, before Thanksgiving, Christmas, New Year's, and Groundhog Day, we showed you how the Android 14 predictive back gesture is going to work . Google had allowed Android 13 users to test the feature on certain apps. But with the recent release of the Android 14 Developer Preview 1, predictive back gesture is available although it requires users to enable Developer Options and activate a developer flag. Once we get down the trail to Android 14 beta releases, and certainly for the stable version, this will be available by default.
+
+
+***
+![Bard, Bing and Baidu: how big tech's AI race will transform search](https://newsroom.unsw.edu.au/sites/default/files/thumbnails/image/file-20230208-27-4co12h_1.jpeg "Bard, Bing and Baidu: how big tech's AI race will transform search")
+
+
+[Bard, Bing and Baidu: how big tech's AI race will transform search](https://newsroom.unsw.edu.au/news/science-tech/bard-bing-and-baidu-how-big-techs-ai-race-will-transform-search-and-all-computing)
+
+
+> Today, if you want to find a good moving company, you might ask your favourite search engine – Google, Bing, or DuckDuckGo perhaps – for some advice. After wading past half a page of adverts, you get a load of links to articles on moving companies. You click on one of the links and finally read about how to pick a good 'un. But not for much longer. In a major reveal this week, Google announced plans to add its latest AI chatbot, LaMDA, to the Google search engine. The chatbot has been called the 'Bard'.
+
+
+***
+![Here's How to Find the Dead Space Remake Sea Shanty](https://www.cnet.com/a/img/resize/577af160e4eeb63673e80d18ab7f130381665835/hub/2022/03/11/e2f8761a-f593-4ebb-8c12-bd864631bfbb/568759.jpg?auto=webp&fit=crop&height=630&width=1200 "Here's How to Find the Dead Space Remake Sea Shanty")
+
+
+[Here's How to Find the Dead Space Remake Sea Shanty](https://www.cnet.com/tech/gaming/dead-space-remake-how-to-find-the-sea-shanty-easter-egg/)
+
+
+> When the Dead Space remake was released last month, it exceeded expectations. It's easily one of the best video game remakes. It not only stayed faithful to the original, it also added new content that seamlessly integrated itself into the sci-fi horror game. One fun addition to the Dead Space remake  are Easter eggs that unlock upgrade items or additional pieces to the game's storyline. Placed throughout the USG Ishimura are red circles with symbols on them. Players who follow the steps laid out by the symbols will unlock the Easter eggs.
+
+
+***
+![AEW Fight Forever officially rated T for Teen by the ESRB](https://gonintendo.com/attachments/image/22976/file/medium-833a7d6342fe4d213a4f2d3f7fa93f18.png "AEW Fight Forever officially rated T for Teen by the ESRB")
+
+
+[AEW Fight Forever officially rated T for Teen by the ESRB](https://gonintendo.com/contents/16049-aew-fight-forever-officially-rated-t-for-teen-by-the-esrb)
+
+
+> The upcoming wrestling game AEW Fight Forever has been officially rated T for Teen by the ESRB. We learned a couple weeks back that the publishing team may have been in dispute with the ESRB over the game's rating. Reportedly, THQ really wanted to secure a T rating for the game, not an M rating, and it looks like they succeeded! The official reasons for the T rating are Blood, Language, Mild Suggestive Themes, Use of Alcohol and Tobacco, and Violence. See below for a more specific quote from the ESRB: 'This is a wrestling game in which players compete in matches with wrestlers from the AEW roster.
+
+
+***
+![How to fast travel in Hogwarts Legacy](https://www.digitaltrends.com/wp-content/uploads/2021/01/hogwarts-legacy-5.jpg?resize=1200%2C630&p=1 "How to fast travel in Hogwarts Legacy")
+
+
+[How to fast travel in Hogwarts Legacy](https://www.digitaltrends.com/gaming/hogwarts-legacy-how-to-fast-travel/)
+
+
+> While you may not think Hogwarts itself would be a very large area, Hogwarts Legacy 's open world encompasses far more than just the titular castle. As soon as you set foot on campus and pop open your map, you'll soon realize just how vast a space there is to explore, as well as how long it will take to actually get around. Just like in the books, there are handy ways of getting around that are unavailable to us muggles. Fast travel is thankfully available very early on, so here's how you can utilize it to make sure you get to class on time.
+
+
+***
+[Grindr to Participate in Upcoming Investor Conferences](http://www.businesswire.com/news/home/20230209005755/en/Grindr-to-Participate-in-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LOS ANGELES--(BUSINESS WIRE)--Grindr Inc. (NYSE: GRND), today announced participation in three upcoming investor events.
+
+
+***
+![极限超频 撼讯科技Powercolor7900XTX水冷！](https://doc-fd.zol-img.com.cn/t_s120x75/g7/M00/0A/08/ChMkK2PkVriIUv06AAHoOwKTBCIAAMpSgONfPIAAehT001.jpg "极限超频 撼讯科技Powercolor7900XTX水冷！")
+
+
+[极限超频 撼讯科技Powercolor7900XTX水冷！](http://news.zol.com.cn/811/8116919.html)
+
+
+> PowerColor推出了其Liquid Devil Radeon RX 7900 XTX显卡，配备了与EK公司共同设计的水冷。该板是为配备定制液体冷却系统的系统设计的，并承诺保证 "终极超频能力"。 PowerColor的Liquid Devil Radeon RX 7900 XTX 24GB使用了该公司内部设计的印刷电路板（PCB），该电路板有14层，包括一个2盎司的电源层，并配备了一个复杂的电压调节模块以及三个八针辅助PCIe电源连接器，可向显卡提供高达450W的功率。此外，该板有两种支持增强性能的BIOS设置。OC设置具有更均衡的能源消耗，而Unleash模式则支持最高的时钟和更高的板卡总功率。 Liquid Devil Radeon RX 7900 XTX的一个有趣的特点是，它的水块只有一个槽宽，所以它比配备双宽或三宽空气冷却系统的显卡明显更紧凑。作为一个额外的奖励，该水挡有可寻址的RGB LED。同时，该板捆绑了EKWB的EK-Loop Leak Tester Flex和一个小泵，以安全地测试定制的液体冷却系统的可能泄漏。 Liquid Devil是PowerColor用来推销其顶级显卡的品牌。目前，PowerColor没有透露其Liquid Devil Radeon RX 7900 XTX的规格，我们只能猜测其GPU时钟。然而，可以肯定的是，该板将是市场上最快的基于AMD Navi 31的产品之一，使其成为最佳显卡之一。 撼讯（PowerColor）AMD RADEON RX 7900XTX 红魔 24GB 游戏显卡 [经销商] 京东商城 [产品售价] ￥8999元 进入购买 还有待观察的是，PowerColor计划对其顶级的Liquid Devil Radeon RX 7900 XTX显卡收取多少钱。由于明显的原因，该产品的价格将高于典型的Radeon RX 7900 XTX，因为它使用了复杂的PCB，而且可能是挑选了具有增强超频潜力的GPU。然而，该图形适配器的确切价格目前还不清楚。 本文属于原创文章，如若转载，请注明来源：极限超频 撼讯科技Powercolor7900XTX水冷！https://news.
+
+
+***
+![Apple 10.2-Inch iPad (2021) on sale at BestBuy](https://m-cdn.phonearena.com/images/article/145496-wide-two_1200/Apple-10.2-Inch-iPad-2021-on-sale-at-BestBuy.jpg "Apple 10.2-Inch iPad (2021) on sale at BestBuy")
+
+
+[Apple 10.2-Inch iPad (2021) on sale at BestBuy](https://www.phonearena.com/news/Apple-10.2-Inch-iPad-2021-on-sale-at-BestBuy_id145496)
+
+
+> Apple iPad 10.2-inch (2021) Wi-Fi - 64GB - Space Gray / Silver $80 off (24%) $249 $329 Buy at BestBuy Apple iPad 10.2-inch (2021) Wi-Fi - 256GB - Space Gray / Silver $80 off (17%) $399 $479 Buy at BestBuy You will not be getting the flashy new design that Apple introduced last year with the The device runs iPadOS 15 out of the box, and supports the latest version of iPadOS from last year. Furthermore, this is still an Apple device, so, despite obviously being an entry-level option, the build quality is well-above average.
+
+
+***
+![Hogwarts Legacy: 10 Things To Do During Your First Day](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/hogwarts-at-night-hogwarts-legacy.jpg "Hogwarts Legacy: 10 Things To Do During Your First Day")
+
+
+[Hogwarts Legacy: 10 Things To Do During Your First Day](https://gamerant.com/hogwarts-legacy-things-do-first-day/)
+
+
+> The first day in Hogwarts Legacy is part of many magical and mesmerizing experiences as players get to experience walking around the stunning recreation of Hogwarts castle and beyond its walls for the first time. During players' first day at Hogwarts , new witches and wizards get a big taste of all the game has to offer with main first-day story quests and the freedom to complete optional side quests as they explore the castle, its grounds, and the beautifully recreated local areas like Hogsmeade.
+
+
+***
+![Why Respawn Will Never Release Apex Legends 2](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17j45T.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Why Respawn Will Never Release Apex Legends 2")
+
+
+[Why Respawn Will Never Release Apex Legends 2](http://www.msn.com/en-us/news/technology/why-respawn-will-never-release-apex-legends-2/ar-AA17iSrY)
+
+
+> Since 2019, players have duked it out in "Apex Legends." Four years may not sound like long, but for some games, it'd be about time to think about a sequel. Further, with EA's shutdown of "Apex Legends Mobile," fans may worry about the future of the original battle royale. With lifetime earnings hitting over $2 billion according to a 2022 earnings call, it would seem that developer Respawn Entertainment has remained on the right track. However, after that earnings call, "Apex Legends" saw what many consider one of its worst seasons.
+
+
+***
+![CORSAIR iCUE Murals Lighting – amazing software à la Philips Ambilight. RGB device synchronization for gamers](https://www.purepc.pl/image/news/2023/02/09_corsair_icue_murals_lighting_niesamowite_oprogramowanie_la_philips_ambilight_synchronizacja_urzadzen_rgb_dla_graczy_0.jpg "CORSAIR iCUE Murals Lighting – amazing software à la Philips Ambilight. RGB device synchronization for gamers")
+
+
+[CORSAIR iCUE Murals Lighting – amazing software à la Philips Ambilight. RGB device synchronization for gamers](https://www.world-today-news.com/corsair-icue-murals-lighting-amazing-software-a-la-philips-ambilight-rgb-device-synchronization-for-gamers/)
+
+
+> RGB lighting has become extremely popular in recent years, not only in PCs, which we write about every day. They are increasingly used in photography, mounted on the back of TV sets or under kitchen cabinets. CORSAIR met this need by creating iCUE Murals Lighting software, which can do the same as Philips Ambilight and even more. Think about synchronizing RGB bulbs, PC, keyboard and desk LED strips. CORSAIR created iCUE Murals Lighting software that does what Philips Ambilight does and more. Think about synchronizing RGB bulbs, PC, keyboard and desk LED strips.
+
+
+***
+![How & Where to Watch The Matrix Movies From Anywhere in 2023: Stream All The Matrix Movies Online](https://www.cloudwards.net/wp-content/uploads/2023/02/Where-to-Watch-The-Matrix-Movies.png "How & Where to Watch The Matrix Movies From Anywhere in 2023: Stream All The Matrix Movies Online")
+
+
+[How & Where to Watch The Matrix Movies From Anywhere in 2023: Stream All The Matrix Movies Online](https://www.cloudwards.net/where-to-watch-the-matrix-movies/)
+
+
+> The Matrix (1999) has had a vast and sweeping impact on both the sci-fi genre and filmmaking as a whole. As a result, it's not surprising that you can find it on an array of streaming services and purchase and rental platforms. That said, not every streaming service is available in every country. Sit back while we show you how and where to watch The Matrix from any location.  Key Takeaways: Where to Watch The Matrix All movies in The Matrix series are on HBO Max, but you can also find some movies on Amazon Prime Video U.
+
+
+***
+![Xiaomi Spain and Carrefour star in a Valentine's Day full of mobile offers](https://www.adslzone.net/app/uploads-adslzone.net/2023/02/xiaomi-carrefour-san-valentin.jpg "Xiaomi Spain and Carrefour star in a Valentine's Day full of mobile offers")
+
+
+[Xiaomi Spain and Carrefour star in a Valentine's Day full of mobile offers](https://www.world-today-news.com/xiaomi-spain-and-carrefour-star-in-a-valentines-day-full-of-mobile-offers/)
+
+
+> Valentine's Day is just around the corner, and with it good intentions when it comes to surprising your partner with the best technological gifts. If you want to get it right, in Carrefour you will find four perfect phones to give away on this very important date. Offers on these phones They will be available until next February 14, so don't hesitate any longer and go to your nearest Carrefour or go to the website www.carrefour.es and give away the perfect phone. Redmi 9C NFC, great battery and demolition price We start with an offer that will allow you to get the Redmi 9C NFC for only 129 euros.
+
+
+***
+![Automation Tech in the OR Has a Robust ROI, Allina Health Exec Says](https://medcitynews.com/uploads/2017/06/GettyImages-532331964.jpg "Automation Tech in the OR Has a Robust ROI, Allina Health Exec Says")
+
+
+[Automation Tech in the OR Has a Robust ROI, Allina Health Exec Says](https://medcitynews.com/2023/02/automation-tech-in-the-or-has-a-robust-roi-allina-health-exec-says/)
+
+
+> At the beginning of last year, Allina Health noticed its surgery scheduling function had remained more or less the same for the past three decades. The health system — which owns 12 hospital campuses and more than 90 clinics in Minnesota and western Wisconsin — knew that this had to change, said William Evans, its vice president of surgical services and orthopedics. 'We were still using manual processes to get things coordinated. There was a ton of labor that went into it. We were still using faxes.
+
+
+***
+![Everything being vaulted for Destiny 2 Lightfall](https://cdn1.dotesports.com/wp-content/uploads/2023/02/09152046/lightfall10-768x432.jpg "Everything being vaulted for Destiny 2 Lightfall")
+
+
+[Everything being vaulted for Destiny 2 Lightfall](https://dotesports.com/destiny/news/everything-being-vaulted-for-destiny-2-lightfall)
+
+
+> It's that time of year, Guardians. A bunch of content in Destiny 2 is headed to the Destiny Content Vault, or DCV, when the new expansion launches. Destiny 2 Lightfall is looking special. The Witness is here with a new disciple in Emperor Calus, but that means some older content is being taken out of the game to make room for it. 'Each year older destination and activity content will be cycled out of the game and into the DCV to make room for new experiences for players,' Bungie's website explains .
+
+
+***
+![Crackdown on digital lending apps: An Explainer](https://www.financialexpress.com/wp-content/uploads/2023/02/apps-generic-reuters.jpg "Crackdown on digital lending apps: An Explainer")
+
+
+[Crackdown on digital lending apps: An Explainer](https://www.financialexpress.com/life/technology-crackdown-on-digital-lending-apps-an-explainer-2977136/)
+
+
+> There is panic and confusion in India's digital lending space after the Centre, on Sunday, ordered internet service providers and app stores to block 94 loan apps that have Chinese links or are not operated by entities regulated by RBI . Jatin Grover takes a look at the move, the resulting confusion, and discussions around this Behind the blocking… On Sunday, the electronics and information technology ministry ordered the blocking of 232 apps facilitating betting, gambling, money laundering, and unauthorised lending, according to Prasar Bharti and others aware of the matter, on the direction of the Union home ministry.
+
+
+***
+[Cable One to Host Conference Call to Discuss Fourth Quarter and Full Year Results](http://www.businesswire.com/news/home/20230209005015/en/Cable-One-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-Full-Year-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PHOENIX--(BUSINESS WIRE)--Cable One, Inc. (NYSE: CABO) will host a conference call with the financial community to discuss results for the fourth quarter and full year 2022 on Thursday, February 23, 2023, at 5 p.m. Eastern Time (ET). Cable One will issue a press release reporting its results after market close on Thursday, February 23, 2023. The conference call will be available via a live audio webcast on the Cable One Investor Relations website at ir.cableone.net or by dialing 1-844-200-6205
+
+
+***
+![Elon Musk's brain-chip startup is being investigated over potentially moving hazardous pathogens after monkey tests](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17iET8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=524&y=270 "Elon Musk's brain-chip startup is being investigated over potentially moving hazardous pathogens after monkey tests")
+
+
+[Elon Musk's brain-chip startup is being investigated over potentially moving hazardous pathogens after monkey tests](http://www.msn.com/en-us/news/technology/elon-musk-s-brain-chip-startup-is-being-investigated-over-potentially-moving-hazardous-pathogens-after-monkey-tests/ar-AA17iUi8)
+
+
+> The US Department of Transportation (DOT) is investigating Elon Musk's brain-chip startup, Neuralink, over concerns the company may have transported hazardous pathogens. Load Error A DOT spokesperson confirmed to Insider that the agency was looking into the issue on Thursday after an animal right group had sent a letter to Secretary of Transportation Pete Buttigieg. Reuters was the first to report the probe. "We have received the request from the Physicians Committee for Responsible Medicine, and we take these allegations very seriously," the spokesperson said.
+
+
