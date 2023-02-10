@@ -5391,3 +5391,967 @@
 > By: Ruchita Varma Kubernetes security has become an issue of serious concern now. With so much complexity in deploying Kubernetes, unwanted exposure tends to increase, making Kubernetes vulnerable to security threats and unauthorized access. Here, we'll discuss the top Kubernetes security challenges. Take a look! Kubernetes solves container issues by providing an extensible, declarative platform that automates the management of containers for high availability, resiliency, and scale. But, Kubernetes is a big, complex, fast-moving, and sometimes confusing platform that requires users to continually learn and acquire new skills.
 
 
+***
+![iPhone's Visual Look Up Feature Is the Best Garden Hack](https://www.sunset.com/wp-content/uploads/iphone-visual-look-up-plants-1024x1024.jpg "iPhone's Visual Look Up Feature Is the Best Garden Hack")
+
+
+[iPhone's Visual Look Up Feature Is the Best Garden Hack](https://www.sunset.com/lifestyle/tech/iphone-visual-look-up-feature)
+
+
+> Honestly, what can't you do with your phone these days? It's a one-stop shop for pretty much everything—use it to organize your calendar, keep track of your steps, manage your finances, shop, navigate your road trips … should I keep going? I thought I knew pretty much everything my iPhone could do until I was recently alerted to a new feature— Visual Look Up . A week ago, I was sitting in a meeting and my boss (aka Sunset's editor in chief) was chatting about how you can identify plants on your iPhone like it was a well-known fact.
+
+
+***
+![Exoskeletons help take the strain of heavy lifting](https://ichef.bbci.co.uk/news/1024/branded_news/15141/production/_128573368_p0f20689.jpg "Exoskeletons help take the strain of heavy lifting")
+
+
+[Exoskeletons help take the strain of heavy lifting](https://www.bbc.co.uk/news/av/technology-64570905)
+
+
+> No body in the article.
+
+
+***
+![Hogwarts Legacy Recaptures That Old Harry Potter Magic](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA179VYv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Hogwarts Legacy Recaptures That Old Harry Potter Magic")
+
+
+[Hogwarts Legacy Recaptures That Old Harry Potter Magic](http://www.msn.com/en-us/news/technology/hogwarts-legacy-recaptures-that-old-harry-potter-magic/ar-AA179NRX)
+
+
+> Playing Hogwarts Legacy instantly reminds me few fictional worlds are as bewitching as Harry Potter's. In 1998, my mum handed me a copy of Philosopher's Stone -- published under the lesser name Sorcerer's Stone in the US -- and the mystery of that opening chapter awakened a sense of wonder. I was hooked for life. Or so I thought. After the core book series wrapped up and there were no more movie adaptations coming, my emotional connection diminished. The overstuffed spinoffs, along with author J.
+
+
+***
+![‘Biggest Man-Child Ever': Musk Allegedly Fired An Engineer Over His Low Reach On Twitter](https://wp.scoopwhoop.com/wp-content/uploads/2023/02/11-14.png "‘Biggest Man-Child Ever': Musk Allegedly Fired An Engineer Over His Low Reach On Twitter")
+
+
+[‘Biggest Man-Child Ever': Musk Allegedly Fired An Engineer Over His Low Reach On Twitter](https://www.scoopwhoop.com/tech/musk-fired-engineer-over-his-low-reach-on-twitter/)
+
+
+> Elon Musk, the self-proclaimed ‘free-speech absolutist' is the biggest ‘man-child' ever! We aren't claiming it, but users on ‘Chief Twit'-acquired platform are feeling so. Recent mass lay-offs in Twitter organisation are proof of it. Remember how Musk had fired janitors after they went on a strike for higher salary or other employees who criticised him on Twitter or internal platforms? Since Elon Musk acquired Twitter last year, people around the world have been raising eyebrows over his dictatorship sort of management skills.
+
+
+***
+[Keysight Technologies Included in 2023 Bloomberg Gender-Equality Index (GEI)](http://www.businesswire.com/news/home/20230210005257/en/Keysight-Technologies-Included-in-2023-Bloomberg-Gender-Equality-Index-GEI/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SANTA ROSA, Calif.--(BUSINESS WIRE)---- $KEYS #Bloomberg--Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that delivers advanced design and validation solutions to help accelerate innovation to connect and secure the world, joins 483 other companies as a member of the 2023 Bloomberg Gender-Equality Index (GEI), a modified market capitalization-weighted index developed to gauge the performance of public companies dedicated to reporting gender-related data. This reference in
+
+
+***
+![This refurbished Apple iPad mini is 60% off right now](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/sale_311247_article_image.jpg?fit=1200%2C800&ssl=1 "This refurbished Apple iPad mini is 60% off right now")
+
+
+[This refurbished Apple iPad mini is 60% off right now](https://boingboing.net/2023/02/10/this-refurbished-apple-ipad-mini-is-60-off-right-now.html)
+
+
+> We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. A lot of us accept some truths in life. There's death, taxes, and the exorbitant prices that Apple products cost. It's just kind of always been a fact of life. But if you've been dreaming about an iPad for months, only to talk yourself out of it with a quick "In this economy?!" You're probably not alone. The prices of their items do not seem to be getting any lower amid a recession, so you might want to seek other options.
+
+
+***
+![Tech Sector · TheJournal.ie](https://graph.facebook.com/v3.2/137576076262825/picture?type=large "Tech Sector · TheJournal.ie")
+
+
+[Tech Sector · TheJournal.ie](https://www.thejournal.ie)
+
+
+> Readers like you keep news free for everyone. More than 5,000 readers have already pitched in to keep free access to The Journal. For the price of one cup of coffee each week you can help keep paywalls away. Content copyright © Journal Media Ltd. 2023 Registered in Dublin, registration number: 483623. Registered office: 3rd floor, Latin Hall, Golden Lane, Dublin 8. Please note that The Journal uses cookies to improve your experience and to provide services and advertising.
+
+
+***
+![Whoopi Goldberg Reacts To Joy Behar Being ‘Happy' Over ‘The View' Firing](https://theblast.com/wp-content/uploads/2023/02/Whoopi_Goldberg_The_View_2-1-scaled-e1675948778668.jpg "Whoopi Goldberg Reacts To Joy Behar Being ‘Happy' Over ‘The View' Firing")
+
+
+[Whoopi Goldberg Reacts To Joy Behar Being ‘Happy' Over ‘The View' Firing](https://247newsaroundtheworld.com/news/whoopi-goldberg-reacts-to-joy-behar-being-happy-over-the-view-firing/)
+
+
+> Moderator Whoopi Goldberg had quite a reaction when she learned that Joy Behar was 'happy' to be fired from 'The View' in 2013! In a recent conversation at the Hot Topics table regarding workplace friendships, Joy brought up a 2022 interview from TIME magazine, when she admitted that she was happy to be leaving the […] Post source: The blast
+
+
+***
+![This new "custom" malware hits your device with specially-designed attacks](https://cdn.mos.cms.futurecdn.net/tfTPM2h23pWZ3334EbhVKT-1200-80.jpg "This new "custom" malware hits your device with specially-designed attacks")
+
+
+[This new "custom" malware hits your device with specially-designed attacks](https://www.techradar.com/news/this-new-custom-malware-hits-your-device-with-specially-designed-attacks)
+
+
+> (Image credit: Shutterstock) Cybersecurity researchers from Proofpoint have uncovered a brand new, custom-built malware being used by threat actors to deliver a wide variety of specifically tailored stage-two attacks. These payloads are capable of different things, from espionage to data theft, making the attacks even more dangerous due to their unpredictability.  The researchers, who dubbed the campaign Screentime, say it is being conducted by a new threat actor labeled TA866. While it's a possibility that the group is already known to the wider cybersecurity community, no one has yet been able to link it to any existing groups or campaigns.
+
+
+***
+![Wo Long: Fallen Dynasty performance targets revealed ahead of Game Pass arrival](https://www.trueachievements.com/imgs/136972/wo-long-fallen-dynasty-performance-targets-xbox.jpg "Wo Long: Fallen Dynasty performance targets revealed ahead of Game Pass arrival")
+
+
+[Wo Long: Fallen Dynasty performance targets revealed ahead of Game Pass arrival](https://www.trueachievements.com/n52846/wo-long-fallen-dynasty-performance-targets-xbox)
+
+
+> Register Now For Free Sign up for free now to have your achievements and gaming statistics tracked. Manage your Game Collection, measure your progress across entire game series, even set scoring and completion goals and we'll chart your attempts at reaching them! We've also run over 700,000 gaming sessions to help our members unlock millions of achievements and make new friends. And, we're fully secure and mobile friendly.
+
+
+***
+![About Our Research](https://images.tech.co/wp-content/uploads/2017/05/AdobeStock_99905770-675x320-640x303.jpe "About Our Research")
+
+
+[About Our Research](https://tech.co/about-our-research)
+
+
+> Tech.co is here to help you find the right technology for your needs and we take that job very seriously, because we believe tech matters. It matters when you're investing your hard-earned cash and need to see results without delays, hidden costs, or catches. It matters because choosing the right solution will set you up for success, save you time, and grow your business. So, for every product, service or provider we recommend, we spend hours researching the market and reviewing the serious contenders in depth.
+
+
+***
+![The Myth of the Informed Consumer](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17kSrm.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "The Myth of the Informed Consumer")
+
+
+[The Myth of the Informed Consumer](http://www.msn.com/en-us/news/technology/the-myth-of-the-informed-consumer/ar-AA17l2cq)
+
+
+> Amazon is getting worse, but you probably already knew that, because you probably shop at Amazon. The online retail behemoth's search results are full of ads and sponsored results that can push actually relevant, well-reviewed options far down the page. The proportion of its inventory that comes from brands with names like Fkprorjv and BIDLOTCUE seems to be constantly expanding. Many simple queries yield results that appear to be the exact same product over and over again—sometimes with the exact same photos—but all with different names, sellers, prices, ratings, and customer reviews.
+
+
+***
+![Two men arrested for selling a mermaid's magical eyeball](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/shutterstock_1532940698-scaled.jpg?fit=1200%2C800&ssl=1 "Two men arrested for selling a mermaid's magical eyeball")
+
+
+[Two men arrested for selling a mermaid's magical eyeball](https://boingboing.net/2023/02/10/two-men-arrested-for-selling-magical-mermaids-eyeball.html)
+
+
+> Police arrested Balsuguri Chandu and Medikonda Sambha Shiva Raoin in Hyderabad, southern India where the two men were reportedly trying to sell a magical mermaid's eyeball. Chandu and Raoin claimed that the eyeball had impeccable provenance, having previously belonged to a holy man. Due to its "supernatural powers," they were asking Rs 2 crore, approximately $242,000, for the wondrous item. Unfortunately, further analysis "revealed that the accused got a stone and got a small bulb fixed in it," reports the Deccan Chronicle .
+
+
+***
+![Assassin's Creed Origins director leaves Ubisoft](https://assets.reedpopcdn.com/assassins_creed_origins_map.jpg/BROK/thumbnail/1200x630/assassins_creed_origins_map.jpg "Assassin's Creed Origins director leaves Ubisoft")
+
+
+[Assassin's Creed Origins director leaves Ubisoft](https://www.eurogamer.net/assassins-creed-origins-director-leaves-ubisoft)
+
+
+> Ubisoft veteran Jean Guesdon has left Ubisoft Montreal after almost two decades. Guesdon's credits at Ubisoft include working as creative director on Assassin's Creed 4: Black Flag and Origins. Ubisoft has faced several departures in the past couple of years, and Guesdon is the most recent senior developer to have joined them. Newscast: How do you feel about Switch in 2023, following the Nintendo Direct? Guesdon announced his departure on LinkedIn , where he thanked Ubisoft Montreal for his time there.
+
+
+***
+![Oops! George Santos claims he started his company in 2001 — when he was 13 years old (video)](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/santos-2.jpg?fit=1200%2C906&ssl=1 "Oops! George Santos claims he started his company in 2001 — when he was 13 years old (video)")
+
+
+[Oops! George Santos claims he started his company in 2001 — when he was 13 years old (video)](https://boingboing.net/2023/02/10/oops-george-santos-claims-he-started-his-company-in-2001-when-he-was-13-years-old-video.html)
+
+
+> George Santos is one of those liars who just can't stop, even when he's on a live Newsmax broadcast. When questioned about just where he got his $700,000-plus campaign funds, the New York Congressman tried to skirt the question by "attesting" that the money was "all legitimate." But when cornered for specifics, he stepped back into his comfort zone with yet another whopper, neglecting to do his math first: "Devolder Organizations was founded in 2001 when I stepped away from my previous employment and I decided to go on my own to do exactly what I did for other companies for years …" Um, if Google is correct in saying the imposter was born in 1988, that would make him around 12 or 13 years old when he left another job to strike it rich on his own.
+
+
+***
+![GSMArena labs: We are launching a 3D size comparison tool](https://fdn.gsmarena.com/imgroot/news/23/02/gsmarena-labs-3d-size-comparison/-952x498w6/gsmarena_0000.jpg "GSMArena labs: We are launching a 3D size comparison tool")
+
+
+[GSMArena labs: We are launching a 3D size comparison tool](https://www.gsmarena.com/gsmarena_labs_we_are_launching_our_3d_size_comparison_tool-news-57510.php)
+
+
+> For years now we have felt the need for way to compare the relative sizes of different phones. We looked into making tool with static images, but that never seemed like the right solution. Instead, we worked with our partners at Binkies 3D to build on the 3D viewer we launched a few years ago to let you view two phones side by side and examine them from all angles. You can pick from a list of over 700 (and growing) phones and view them side-by-side with another phone. Just use our regular compare feature, putting the iPhone 14 Pro and Galaxy S23 side by side, for example, and you will see the new 3D Size Up buttons that let you jump straight into 3D view.
+
+
+***
+[techfrederick Welcomes Three New Members to its Board of Directors](https://www.prweb.com/releases/techfrederick_welcomes_three_new_members_to_its_board_of_directors/prweb19164396.htm)
+
+
+> 'We are thrilled to welcome these talented individuals to the techfrederick board.' - Nick Damoulakis, board president, techfrederick FREDERICK, Md. (PRWEB) February 10, 2023 techfrederick , a non-profit 501(c)(3) coalition of local high-tech companies, announced the appointment of three new members and a board observer to its board of directors. The new board members bring a wealth of experience and expertise in technology, business, and community leadership and will play a key role in driving the organization forward.
+
+
+***
+![Rosbank Demonstrated First Digital Gold Exchange Transaction in Russia Using Digital Rubles](https://www.crowdfundinsider.com/wp-content/uploads/2017/10/10-rubles-Money-Russia.jpg "Rosbank Demonstrated First Digital Gold Exchange Transaction in Russia Using Digital Rubles")
+
+
+[Rosbank Demonstrated First Digital Gold Exchange Transaction in Russia Using Digital Rubles](https://www.crowdfundinsider.com/2023/02/202352-rosbank-demonstrated-first-digital-gold-exchange-transaction-in-russia-using-digital-rubles)
+
+
+> Rosbank demonstrated the first digital gold exchange deal in Russia using digital rubles. According to the bank it involved 'the exchange of tokenized gold between two parties using innovative distributed ledger technology (blockchain) to ensure the security and continuity of the process.' The project was 'implemented jointly with the Atomize platform.' In order to become an investor or issuer on the CFA platform, the user 'needs to register, which is available in the mobile and web versions of the application.
+
+
+***
+![Rumour: Sony Set for Two PS5 Showcases Soon, as State of Play Rumours Return](https://images.pushsquare.com/3ffd6e147abab/1280x720.jpg "Rumour: Sony Set for Two PS5 Showcases Soon, as State of Play Rumours Return")
+
+
+[Rumour: Sony Set for Two PS5 Showcases Soon, as State of Play Rumours Return](https://www.pushsquare.com/news/2023/02/rumour-sony-set-for-two-ps5-showcases-soon-as-state-of-play-rumours-return)
+
+
+> So, when's the next State of Play broadcast? The short answer: only Sony really knows. The slightly longer answer: later today, tomorrow, next week, the week after, maybe next month, maybe April, perhaps May, possibly some time in the summer. That's right folks, the State of Play rumours are back in business (do they ever really go away?) but this time, they're fuelled by the words of the ever-informative Jeff Grubb, speaking on his latest Game Mess podcast. Grubb reckons that Sony could be plotting not one, but two State of Play events before E3 2023 takes place in June.
+
+
+***
+[Technology and Training Are Key to Productivity and Business Value, ISG Says](http://www.businesswire.com/news/home/20230210005261/en/Technology-and-Training-Are-Key-to-Productivity-and-Business-Value-ISG-Says/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> STAMFORD, Conn.--(BUSINESS WIRE)---- $III #AdaptiveOrganizations--Employers need to invest in both workplace technology and workforce training, say experts appearing at the ISG Future Workplace Summit, March 15-16.
+
+
+***
+[Best&apos;s Review Examines Difficult Questions Raised by Ransomware](http://www.businesswire.com/news/home/20230210005270/en/Bests-Review-Examines-Difficult-Questions-Raised-by-Ransomware/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> OLDWICK, N.J.--(BUSINESS WIRE)--In a new article, Best's Review explores the challenges that businesses encounter when they are victims of cybersecurity breaches and how the insurance industry is finding new ways to defend and protect against these growing threats. According to a June AM Best report, the cyber insurance market continues to grow, with direct premiums written up by 75% in 2021. The feature also includes a ranking of the top 20 U.S. cyber insurers, as well as a Q&A with severa
+
+
+***
+[KBRA Releases Research – CRE Secular Trends: Shoppers Return to Stores as E-Commerce Growth Slows](http://www.businesswire.com/news/home/20230210005267/en/KBRA-Releases-Research-%E2%80%93-CRE-Secular-Trends-Shoppers-Return-to-Stores-as-E-Commerce-Growth-Slows/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)-- #KBRA--KBRA releases research reviewing two key trends that are impacting the retail segment—the flattening of e-commerce as a percentage of total sales and the evolution of store formats and sizes—as well as examines the role of environmental, social, and governance (ESG) in influencing consumer product preferences. The annual growth rate for e-commerce retail sales spiked during the pandemic in 2020, but it currently stands at its lowest level over the past 10 years.
+
+
+***
+![TECNO's trailblazing PHANTOM X2 Pro 5G wins gold at the International Design Awards 2022](https://guardian.ng/wp-content/uploads/2023/02/The-PHANTOM-X2-Pro-5G-Eco-Friendly-Editions-pioneering-back-cover-promotes-environmental-protection-Large-1000x600-1.jpg "TECNO's trailblazing PHANTOM X2 Pro 5G wins gold at the International Design Awards 2022")
+
+
+[TECNO's trailblazing PHANTOM X2 Pro 5G wins gold at the International Design Awards 2022](https://guardian.ng/features/tecnos-trailblazing-phantom-x2-pro-5g-wins-gold-at-the-international-design-awards-2022/)
+
+
+> The recently showcased flagship product of TECNO PHANTOM X2 Pro 5G, astonished at the International Design Awards 2022, winning a Gold and a Bronze for its sustainable design. TECNO, an innovative technology brand with operations in over 70 markets globally, continues to rack up more accolades as the 16th annual International Design Awards (IDA for short) recently unveiled its full list of winners, where among those celebrated is the impeccable design team behind TECNO's newest flagship product under its premium sub-brand, the PHANTOM X2 Pro 5G Eco-Friendly Edition, winning the Gold Award in Media And Home Electronics-Phone and Other Communications Technology, and the Bronze Award in Design for Society-Eco-Sustainable-Design.
+
+
+***
+![Siemens Drives Rise in ICS Vulnerabilities Discovered in 2022: Report](https://www.securityweek.com/wp-content/uploads/2023/02/ICS_vulnerabilities_2022.png "Siemens Drives Rise in ICS Vulnerabilities Discovered in 2022: Report")
+
+
+[Siemens Drives Rise in ICS Vulnerabilities Discovered in 2022: Report](https://www.securityweek.com/siemens-drives-rise-in-ics-vulnerabilities-discovered-in-2022-report/)
+
+
+> The number of vulnerabilities discovered in industrial control systems (ICS) continues to increase, and many of them have a ‘critical' or ‘high' severity rating, according to a new report from industrial cybersecurity firm SynSaber.  The report compares the number of ICS and ICS medical advisories published by CISA between 2020 and 2022. While the number of advisories was roughly the same in 2021 and 2022, at 350, the number of vulnerabilities discovered last year reached 1,342, compared to 1,191 in the previous year.
+
+
+***
+![Modern Warfare 2 and Warzone 2 guide: How to unlock the KV Broadside shotgun](https://staticg.sportskeeda.com/editor/2023/02/4ef6d-16760308533772-1920.jpg "Modern Warfare 2 and Warzone 2 guide: How to unlock the KV Broadside shotgun")
+
+
+[Modern Warfare 2 and Warzone 2 guide: How to unlock the KV Broadside shotgun](https://www.sportskeeda.com/esports/modern-warfare-2-warzone-2-guide-how-unlock-kv-broadside-shotgun)
+
+
+> Call of Duty Modern Warfare 2 and Warzone 2 are nearing their second seasonal update, which is scheduled to go live on February 15. The update will introduce new weapons in the fresh season alongside a brand new map called Ashika Island. One of the weapons coming to Modern Warfare 2 and Warzone 2 is the KV Broadside shotgun. The new battle pass will contain two more weapons - the ISO Hemlock Assault Rifle and Dual Kodachis at the time of Season 2's launch. The player base will have a chance to get their hands on a total of five weapons, three of which will be included in the battle pass itself.
+
+
+***
+![AI suggests beer based on taster facial expressions](https://ichef.bbci.co.uk/news/1024/branded_news/1467B/production/_128497538_p0f0hmmx.jpg "AI suggests beer based on taster facial expressions")
+
+
+[AI suggests beer based on taster facial expressions](https://www.bbc.co.uk/news/av/technology-64482464)
+
+
+> As the range of beer continues to grow, how do drinkers know which one to pick? One system aims to help by analysing how a person reacts when they drink three very different sample beers. It then creates personalised recommendations, including ones they might not have tried before. BBC Click's Nick Kwek finds out more. See more at Click's website and @BBCClick.
+
+
+***
+![TechInsights Teardown: Innovusion Falcon Kinetic](https://electronics360.globalspec.com/favicon.ico "TechInsights Teardown: Innovusion Falcon Kinetic")
+
+
+[TechInsights Teardown: Innovusion Falcon Kinetic](https://electronics360.globalspec.com/article/19252/techinsights-teardown-innovusion-falcon-kinetic)
+
+
+> Lidar has become big business in both automotive and a range of other applications for smart cities, indoor mapping and surveying. While many believe that lidar will be mostly used in autonomous driving, lidar has found a large spot already in current vehicles for uses in advanced driver assistance systems (ADAS) and other safety and navigation systems. Lidar, which stands for light detection and ranging, uses light in the form of a pulsed laser to measure ranges. The near-infrared lasers map the land and sends this real-time map back to the automotive system and sensors to react and control the vehicle appropriately.
+
+
+***
+![ADHD and the trend of diagnosis by TikTok](https://ichef.bbci.co.uk/news/1024/branded_news/A706/production/_128285724_p0c366x0.jpg "ADHD and the trend of diagnosis by TikTok")
+
+
+[ADHD and the trend of diagnosis by TikTok](https://www.bbc.co.uk/news/av/technology-64596756)
+
+
+> With more than 20 billion views of the hashtag #ADHD, some people have turned to TikTok to self-diagnose the condition rather than wait for a formal assessment. BBC journalist, Ben Moore, investigates for Access All having started his own pathway to diagnosis on the social media platform. Henry Shelford from ADHD UK gives advice on what to do if all this sounds very familiar. And why he thinks the name of the condition doesn't accurately reflect what it is. And British Comedian of the Year, Dan Tiernan, joins Nikki Fox and Emma Tracey to talk about his dyspraxia, life on the comedy circuit and the number of jobs he was sacked from.
+
+
+***
+![NIST Picks Ascon Algorithms to Protect Data on IoT, Small Electronic Devices](https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg "NIST Picks Ascon Algorithms to Protect Data on IoT, Small Electronic Devices")
+
+
+[NIST Picks Ascon Algorithms to Protect Data on IoT, Small Electronic Devices](https://www.securityweek.com/nist-picks-ascon-algorithms-to-protect-data-on-iot-small-electronic-devices/)
+
+
+> The National Institute of Standards and Technology (NIST) has selected a group of cryptographic algorithms called Ascon as the lightweight cryptography standard to protect data flowing through IoT devices. Following a multi-year effort that included security code reviews, NIST announced the Ascon family of algorithms will soon be the standard to protect data created and transmitted by the Internet of Things (IoT), including its myriad tiny sensors and actuators.  The Ascon algorithms, developed in 2014 by a team of cryptographers from Graz University of Technology, Infineon Technologies, Lamarr Security Research and Radboud University, are designed for miniature technologies such as implanted medical devices, stress detectors inside roads and bridges, and keyless entry fobs for vehicles.
+
+
+***
+![Three free Amazon Prime perks that you probably didn't know existed](https://www.thesun.co.uk/wp-content/uploads/2022/05/IGOR1690jpg-JS712980041-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1 "Three free Amazon Prime perks that you probably didn't know existed")
+
+
+[Three free Amazon Prime perks that you probably didn't know existed](https://www.thesun.co.uk/tech/21344894/amazon-prime-free-perks-deliveroo-photos/)
+
+
+> AMAZON Prime offers so much more than fast parcel deliveries and must-watch telly. The online retail empire has its fingers dipped in many pies, meaning you can get even more out of your subscription. Free Deliveroo deliveries for a year is one perk you're missing out on Credit: Alamy Here are three freebies you are missing out on. Deliveroo Plus Every Amazon Prime account gets a year of Deliveroo Plus for free. Deliveroo Plus gives you free delivery on takeaway orders worth £25 or more.
+
+
+***
+![Alan Wake 2 'playable' Remedy says but Max Payne remake a long way off](https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/alan-wake-2-max-payne-remakes-control-2-remedy.jpg "Alan Wake 2 'playable' Remedy says but Max Payne remake a long way off")
+
+
+[Alan Wake 2 'playable' Remedy says but Max Payne remake a long way off](https://www.pcgamesn.com/alan-wake-2/max-payne-remakes-control-2-remedy)
+
+
+> Upcoming horror game sequel Alan Wake 2 is now 'playable start to finish' according to developer Remedy, though the Max Payne remakes and Control 2 are still in the conceptual phases. Also, Alan Wake Remastered is yet to generate royalties, but multiplayer games Codename Condor and Project Vanguard are still in development, as the Finnish developer posts financial results for 2022. 'Alan Wake 2 is in full production,' Remedy CEO Tera Virtala says. 'The game will soon have all content in place, and it is playable from start to finish.
+
+
+***
+![Mathematicians Complete Quest to Build ‘Spherical Cubes'](https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/SphericalCubes-byDVDP-Social.webp "Mathematicians Complete Quest to Build ‘Spherical Cubes'")
+
+
+[Mathematicians Complete Quest to Build ‘Spherical Cubes'](https://www.quantamagazine.org/mathematicians-complete-quest-to-build-spherical-cubes-20230210/)
+
+
+> Computer scientists often classify tasks based on whether they can be solved with an efficient algorithm, or whether they are instead 'NP-hard' (meaning they can't be efficiently solved as the size of the problem grows, so long as a widely believed but unproved conjecture about computational complexity is true). For instance, the traveling salesperson problem, which asks for the shortest path needed to visit every city in a network only once, is NP-hard. So is determining whether a graph — a collection of vertices connected by edges — can be labeled with at most three colors so that any two connected vertices have different colors.
+
+
+***
+![ADHD and the trend of diagnosis by TikTok](https://ichef.bbci.co.uk/news/1024/branded_news/A706/production/_128285724_p0c366x0.jpg "ADHD and the trend of diagnosis by TikTok")
+
+
+[ADHD and the trend of diagnosis by TikTok](https://www.bbc.com/news/av/technology-64596756)
+
+
+> With more than 20 billion views of the hashtag #ADHD, some people have turned to TikTok to self-diagnose the condition rather than wait for a formal assessment. BBC journalist, Ben Moore, investigates for Access All having started his own pathway to diagnosis on the social media platform. Henry Shelford from ADHD UK gives advice on what to do if all this sounds very familiar. And why he thinks the name of the condition doesn't accurately reflect what it is. And British Comedian of the Year, Dan Tiernan, joins Nikki Fox and Emma Tracey to talk about his dyspraxia, life on the comedy circuit and the number of jobs he was sacked from.
+
+
+***
+!['Twitter API fees will hinder valuable research'](https://www.siliconrepublic.com/wp-content/uploads/2023/02/orange_bird_cage.jpeg "'Twitter API fees will hinder valuable research'")
+
+
+['Twitter API fees will hinder valuable research'](https://www.siliconrepublic.com/innovation/twitter-api-fees-will-hinder-valuable-research)
+
+
+> As Twitter starts charging to access its API, assistant professor of research at the University of Southern California, Dr Jon-Patrick Allem, discusses the damaging consequences of gatekeeping this abundant data resource. He argues the financial burden will 'ultimately reduce the number of participants working to understand the world around us'. A version of this article was originally published by The Conversation ( CC BY-ND 4.0 ) Twitter is ending free access to its application programming interface, or API.
+
+
+***
+![train traffic is very disrupted after a theft of cables in Marseille](https://france3-regions.francetvinfo.fr/image/0n1Bfmb2hTevqWhRHwgSsMpDHNU/930x620/regions/2023/02/10/63e61d651dbec_maxnewsworldthree586896.jpg "train traffic is very disrupted after a theft of cables in Marseille")
+
+
+[train traffic is very disrupted after a theft of cables in Marseille](https://www.world-today-news.com/train-traffic-is-very-disrupted-after-a-theft-of-cables-in-marseille/)
+
+
+> Traffic between Marseille, Arles and Toulon has been severely disrupted since 6 a.m. this Friday, February 10 and the return to normal traffic is not expected until late afternoon. An act of vandalism caused the interruption of SNCF traffic this Friday February 10 from 6 a.m., between Marseille, Arles and Toulon and to a certain extent Nice, indicates Friday February 10 Cyril Durand, the press relations manager of SNCF to France 3 Provence-Alpes. Cables containing copper allowing the signaling of the tracks were stolen during the night in the sector of the Blancarde station, in Marseille.
+
+
+***
+[DAS42 Achieves the Data Analytics Partner Specialization in Google Cloud Partner Advantage](http://www.businesswire.com/news/home/20230210005074/en/DAS42-Achieves-the-Data-Analytics-Partner-Specialization-in-Google-Cloud-Partner-Advantage/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--DAS42, today announced that it has achieved the Data Analytics Services Partner Specialization in Google Cloud Partner Advantage. By earning this specialization, DAS42 has proven their capability and capacity in building customer solutions in the Data Analytics field using Google Cloud technology. Partner Advantage is designed to provide Google Cloud users with qualified partners that have demonstrated technical proficiency and implemented successful solutions. These
+
+
+***
+![What Is the Faraday Constant?](https://builtin.com/sites/www.builtin.com/files/styles/og/public/2023-02/Faraday%20constant.png "What Is the Faraday Constant?")
+
+
+[What Is the Faraday Constant?](https://builtin.com/hardware/faraday-constant)
+
+
+> We use Faraday's constant to calculate the amount of electric charge that flows through a circuit per unit of time. The Faraday constant is equal to the electric charge per mole of elementary charges (like electrons). One mole is defined as the number of atoms or molecules in exactly 12 grams of pure carbon-12. This number is called Avogadro's number ( N A ) and is approximately 6.022 x 10 23 atoms or molecules. F = N A *e Where: F = Faraday's constant N A = Avogadro's constant (approximately  6.
+
+
+***
+![USA – Celebrities to allow padel to dethrone pickleball?](https://padelmagazine.fr/wp-content/uploads/2023/02/2023-02-10_13h32_49.png "USA – Celebrities to allow padel to dethrone pickleball?")
+
+
+[USA – Celebrities to allow padel to dethrone pickleball?](https://www.world-today-news.com/usa-celebrities-to-allow-padel-to-dethrone-pickleball/)
+
+
+> It's a sport still a little unknown on European soil but our American friends love it: le pickleball. Indeed this discipline created more than 60 years ago in Florida by the politician Joel Pritchard meets a real success in the country. But what exactly is pickleball? Very similar to tennis, it is played on a smaller court with rackets resembling the first padel palas. As we explained to you in 2020 already: 'In France, the French Pickleball Federation is in charge of the development of this sport.
+
+
+***
+![AI suggests beer based on taster facial expressions](https://ichef.bbci.co.uk/news/1024/branded_news/1467B/production/_128497538_p0f0hmmx.jpg "AI suggests beer based on taster facial expressions")
+
+
+[AI suggests beer based on taster facial expressions](https://www.bbc.com/news/av/technology-64482464)
+
+
+> As the range of beer continues to grow, how do drinkers know which one to pick? One system aims to help by analysing how a person reacts when they drink three very different sample beers. It then creates personalised recommendations, including ones they might not have tried before. BBC Click's Nick Kwek finds out more. See more at Click's website and @BBCClick.
+
+
+***
+![Helping transit agencies visualize the transition to electric bus fleets](https://scx2.b-cdn.net/gfx/news/hires/2023/bus-map.jpg "Helping transit agencies visualize the transition to electric bus fleets")
+
+
+[Helping transit agencies visualize the transition to electric bus fleets](https://techxplore.com/news/2023-02-transit-agencies-visualize-transition-electric.html)
+
+
+> Credit: Pixabay/CC0 Public Domain The transit industry is rapidly moving toward battery electric bus fleets because of the environmental and financial benefits they offer. As electric vehicles become more prevalent, transit agencies have several questions to consider: What is the most cost-effective and equitable way to make the transition to electric buses? How can the buses' charging needs be incorporated into the existing city power grid? In which parts of the city should electric buses be introduced first, and what impacts will all this have on transit operations? A new modeling and visualization tool can help agencies answer those questions.
+
+
+***
+![OAuth ‘masterclass' crowned top web hacking technique of 2022](https://portswigger.net/cms/images/d2/54/8a3e-twittercard-top_web_hacking_2022.jpg "OAuth ‘masterclass' crowned top web hacking technique of 2022")
+
+
+[OAuth ‘masterclass' crowned top web hacking technique of 2022](https://portswigger.net/daily-swig/oauth-masterclass-crowned-top-web-hacking-technique-of-2022)
+
+
+> Single sign-on and request smuggling to the fore in another stellar year for web security research Detectify founder Frans Rosén has topped PortSwigger's top 10 web hacking techniques of 2022 with ‘Account hijacking using dirty dancing in sign-in OAuth-flows'. Published in July, the research was hailed as 'a masterclass in chaining OAuth quirks with low-impact URL-leak gadgets including promiscuous postMessages, third-party XSS, and URL storage' by PortSwigger director of research James Kettle in a blog post announcing the results on Wednesday (February 8).
+
+
+***
+![Use this report to find chocolate with safer levels of heavy metals](https://i0.wp.com/boingboing.net/wp-content/uploads/2022/05/shutterstock_1603087945-scaled.jpg?fit=1200%2C930&ssl=1 "Use this report to find chocolate with safer levels of heavy metals")
+
+
+[Use this report to find chocolate with safer levels of heavy metals](https://boingboing.net/2023/02/10/use-this-report-to-find-chocolate-with-safer-levels-of-heavy-metals.html)
+
+
+> Have you seen folks talking about giving up dark chocolate because it's been found to have high levels of lead and cadmium? Here's the report they're talking about – it's informative and will help you navigate your choices, if you want to avoid chocolate with the highest levels of lead and cadmium.  Consumer Reports  explains that they, "found dangerous heavy metals in chocolate from Hershey's, Theo, Trader Joe's, and other popular brands." They go on to share the results of their testing and to provide options of brands with much lower levels of both lead and cadmium.
+
+
+***
+![A UK collective of female elder punks bashing it out](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/Screen-Shot-2023-02-09-at-6.44.52-PM.png?fit=957%2C489&ssl=1 "A UK collective of female elder punks bashing it out")
+
+
+[A UK collective of female elder punks bashing it out](https://boingboing.net/2023/02/10/a-uk-collective-of-female-elder-punks-bashing-it-out.html)
+
+
+> The Unglamorous Music project is Leicester-based collective of mainly older women who play punk rock music. The women, many in their 50s, 60s, and 70s, come together to play punk and celebrate their love for the genre. The members of the collective see punk rock as a way to express their frustrations and rebel against societal expectations, in this case, of those in their elder years. The women believe that punk empowers them to reclaim a place in a subculture that values individuality and non-conformity.
+
+
+***
+![How to use a Kindle Paperwhite](https://assets.aboutamazon.com/dims4/default/1edd196/2147483647/strip/true/crop/1920x960+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F39%2F5d%2Ffecd31c9434a913d40a92c55dd0b%2Fpaperwhite-hero-v1.jpeg "How to use a Kindle Paperwhite")
+
+
+[How to use a Kindle Paperwhite](https://www.aboutamazon.com/news/devices/how-to-use-kindle-paperwhite)
+
+
+> If you've recently purchased a Kindle Paperwhite and are ready to start putting it to use, we're here to help. The Kindle Paperwhite is a mid-priced favorite among e-reader fans. It's waterproof, which makes it equally great for reading at the beach and in the bath; the screen is crisp and sharp with a display that's easy on the eyes; and the 10-week battery means you can generally go months without having to charge it. It also has Bluetooth, which means you can pop in earbuds to listen to an Audible version of your book in privacy.
+
+
+***
+![Innovation, between the art of growth and the science of maintenance](https://img.lemde.fr/2023/02/08/0/0/5568/3712/1440/960/60/0/f1668c6_1675846629551-000-9ac47j.jpg "Innovation, between the art of growth and the science of maintenance")
+
+
+[Innovation, between the art of growth and the science of maintenance](https://www.world-today-news.com/innovation-between-the-art-of-growth-and-the-science-of-maintenance/)
+
+
+> EWhat if power cuts or energy supply problems changed our view of technical systems? In a classic book, Technical Europe. Technical revolution and free industrial development in Europe from 1750 to the present day, published by Gallimard in France in 1975, David Landes measured the advances and delays of European countries in terms of technical progress and their contribution to the Industrial Revolution, celebrating a conquering image of Europe. This interpretation has been broadly nuanced and completed by taking into account transnational dynamics in mobility and technical transfers.
+
+
+***
+!['Transnational' Locomotive Theft Cambodian Girlfriend Borrowed Locomotive to Filipino Boyfriend and Was Stolen by Vietnamese- Society-Liberty Times Newsletter](https://img.ltn.com.tw/Upload/news/600/2023/02/10/phpqMDBH6.jpg "'Transnational' Locomotive Theft Cambodian Girlfriend Borrowed Locomotive to Filipino Boyfriend and Was Stolen by Vietnamese- Society-Liberty Times Newsletter")
+
+
+['Transnational' Locomotive Theft Cambodian Girlfriend Borrowed Locomotive to Filipino Boyfriend and Was Stolen by Vietnamese- Society-Liberty Times Newsletter](https://www.world-today-news.com/transnational-locomotive-theft-cambodian-girlfriend-borrowed-locomotive-to-filipino-boyfriend-and-was-stolen-by-vietnamese-society-liberty-times-newsletter/)
+
+
+> photo boxTitle" data-desc="圖片"> news/600/2023/02/10/phpqMDBH6.jpg?resize=800%2C533&ssl=1" width="800" height="533" layout="responsive" data-recalc-dims="1"/> 'Transnational' locomotive theft, the Cambodian girlfriend borrowed a locomotive to the Filipino boyfriend and was stolen by the Vietnamese. (File photo, European News Agency, Agence France -Presse, Reuters; synthesized by this newspaper) [Reporter Wang Jie/Tainan Report]After a Cambodian woman surnamed Zhong lent her locomotive to her Filipino boyfriend, the boyfriend forgot to pull out the key and was stolen by a Vietnamese migrant worker surnamed Hu.
+
+
+***
+![Realme GT Neo 5: charges full in less than ten minutes with 240W fast charging technology](https://researchsnipers.com/wp-content/uploads/2021/03/Realme_GT_Neo_leak_1616673590246.jpg "Realme GT Neo 5: charges full in less than ten minutes with 240W fast charging technology")
+
+
+[Realme GT Neo 5: charges full in less than ten minutes with 240W fast charging technology](https://researchsnipers.com/realme-gt-neo-5-charges-full-in-less-than-ten-minutes-with-240w-fast-charging-technology/)
+
+
+> Over the span of the previous few years, Chinese smartphone companies have been competing to introduce the fastest charging speed. At MWC 2022, Realme introduced 150W fast charging technology. Soon after this, the company unveiled the GT Neo 3. Reportedly, the GT Neo 3 has a 4,500mAh battery. The company claimed that the battery could be charged in just five minutes from 0% to 50%. Well, after this everyone could have been thinking that such a fast charging capacity is bliss. What else could one need? But it appears that Chinese companies have the taste to go beyond things and unveil interesting stuff.
+
+
+***
+![Phyrexia: All Will Be One Cheat Sheet](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17iMBN.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Phyrexia: All Will Be One Cheat Sheet")
+
+
+[Phyrexia: All Will Be One Cheat Sheet](http://www.msn.com/en-us/news/technology/phyrexia-all-will-be-one-cheat-sheet/ar-AA17i8uA)
+
+
+> The newest set from Magic: The Gathering is here in all its glistening, oily perfection. Titled Phyrexia: All Will Be One, the set is themed around Elesh Norn preparing to bring her Phyrexian invasion across the multiverse. Meanwhile, planeswalkers attempt to thwart her scheme, even as their numbers dwindle. The cards of All Will Be One bring the usual mix of new and returning mechanics, including a twist on an old Phyrexian classic. Let's dig into the new set and the available products. Load Error Phyrexia: All Will Be One introduces three new keyword mechanics, as well as one returning keyword and a nonkeyword mechanic related to the new stuff.
+
+
+***
+![iPhone Static Day and Night Wallpapers Download, Featured 8 Dusk and Sunset Phone Wallpapers- Mr. Crazy](https://mrmad.com.tw/wp-content/uploads/2023/02/iphone-static-day-and-night-wallpaper.jpg "iPhone Static Day and Night Wallpapers Download, Featured 8 Dusk and Sunset Phone Wallpapers- Mr. Crazy")
+
+
+[iPhone Static Day and Night Wallpapers Download, Featured 8 Dusk and Sunset Phone Wallpapers- Mr. Crazy](https://www.world-today-news.com/iphone-static-day-and-night-wallpapers-download-featured-8-dusk-and-sunset-phone-wallpapers-mr-crazy/)
+
+
+> Share 8 pictures of iPhone static dusk and sunset wallpapers for everyone. The style of the wallpapers is mainly based on 1980s sci-fi retro, with colorful colors and silhouetted mountain views, which also makes the overall visual picture not too abrupt. It is very suitable for iPhone static day and night wallpapers , if you want a clean and simple tablecloth, it is recommended to download these very exquisite sunset tablecloths and use them back. iPhone static day and night wallpaper to share and download [Wallpaper download method]After clicking the link of the bottom wallpaper, press and hold the picture for about 1 second, and click 'Add Photo ', you can directly save the wallpaper picture, and the downloaded wallpaper will be stored in the iPhone Photo App.
+
+
+***
+![Rescuers continue to dismantle the rubble, the number of victims has increased (photo)](https://focus.ua/static/storage/thumbs/1200x630/e/27/96f48b23-1f3fe9dd7ac96af4b506ad480658327e.jpg?v=5317_1 "Rescuers continue to dismantle the rubble, the number of victims has increased (photo)")
+
+
+[Rescuers continue to dismantle the rubble, the number of victims has increased (photo)](https://www.world-today-news.com/rescuers-continue-to-dismantle-the-rubble-the-number-of-victims-has-increased-photo/)
+
+
+> According to the KSCA, 5 people were rescued from the rubble, 4 more were found dead. After the explosion on the territory of the former plant in the Darnitsky district of Kyiv on February 9, the rubble continues to be cleared. 10 rescuers of the capital were involved in the work. About it reported in the Kyiv city state administration. The department said that 5 people were rescued from the rubble of the destroyed building, 4 more were found dead. 'Yesterday, an explosion occurred on the territory of the former plant.
+
+
+***
+![Yahoo is laying off 20% of its staff](https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2023/02/Yahoo-scaled.jpeg "Yahoo is laying off 20% of its staff")
+
+
+[Yahoo is laying off 20% of its staff](https://techcabal.com/2023/02/10/yahoo-layoffs/)
+
+
+> Yahoo has announced that it is laying off 20% of its staff, or about 1,600, becoming the latest technology company to trim down its headcount in what has become somewhat of a daily trend. The layoffs will be done throughout the year in what the company described as a restructuring of its ad tech unit. According to CNN, the company's legacy ad tech division, Yahoo for Business, will be overhauled and transformed into a new division called Yahoo Advertising. As a result of the change, the tech company plans to cut nearly 50% of the division this year, 'including nearly 1,000 employees this week'.
+
+
+***
+![Dorian Rougeyron for three years in Tourcoing](https://media.zenfs.com/fr/lequipe_news/988505caf10dda2ab153dd9b57efce3a "Dorian Rougeyron for three years in Tourcoing")
+
+
+[Dorian Rougeyron for three years in Tourcoing](https://www.world-today-news.com/dorian-rougeyron-for-three-years-in-tourcoing/)
+
+
+> The TLM will formalize this Friday the signing of its new coach until 2027: the Paris Volleyball technician Dorian Rougeyron. Sunday afternoon (5 p.m.), the duel between Tourcoing (5th) and Paris (9th) will look like a handover. The TLM must announce, this Friday, the arrival of the Parisian technician Dorian Rougeyron to succeed Mauricio Paes who, after three mixed years on the northern bench, will give a new impetus to his rich career started in Saint-Brieuc, 29 years ago. 'We wanted to offer Dorian a long contract, three years as for Mauricio before, to let him know that he had the keys to the truck.
+
+
+***
+![Mastering the unary ampersand operator (&object) as block argument (5mn)](https://external-preview.redd.it/j0sYGfhMVcTGltrTVnSm9MWIc3-UjaQZhXWlgN3udTY.jpg?auto=webp&v=enabled&s=a08074515bbd36855ad5a21f09705cf111958c8b "Mastering the unary ampersand operator (&object) as block argument (5mn)")
+
+
+[Mastering the unary ampersand operator (&object) as block argument (5mn)](https://www.reddit.com/r/programming/comments/10ytjuk/mastering_the_unary_ampersand_operator_object_as)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Clop ransomware has backdoor allowing Linux users to decrypt data](https://content.hwigroup.net/images/news/500x300/084248.jpg "Clop ransomware has backdoor allowing Linux users to decrypt data")
+
+
+[Clop ransomware has backdoor allowing Linux users to decrypt data](https://www.world-today-news.com/clop-ransomware-has-backdoor-allowing-linux-users-to-decrypt-data/)
+
+
+> Hardware Info uses cookies Hardware Info places functional and analytical cookies for the functioning of the website and to improve the website experience. These cookies are necessary. To show more relevant advertisements on Hardware Info and to show embedded content from third parties (for example videos), we ask your permission. Embedded content allows third parties to provide and improve services, track visitor statistics, display personalized content, display targeted advertisements and build user profiles.
+
+
+***
+![Samsung's New BMW M Galaxy S23 Has A Kidney Grille On The Case](https://www.carscoops.com/wp-content/uploads/2023/02/Samsung-Galaxy-S23-Ultra-BMW-M-Edition-1-1024x768.jpg "Samsung's New BMW M Galaxy S23 Has A Kidney Grille On The Case")
+
+
+[Samsung's New BMW M Galaxy S23 Has A Kidney Grille On The Case](https://www.carscoops.com/2023/02/samsungs-new-bmw-m-themed-galaxy-s23-edition-even-has-a-kidney-grille-on-the-case/)
+
+
+> Samsung is gearing up to launch a limited-edition version of the Galaxy S23 Ultra smartphone designed in partnership with BMW M. The phone is scheduled for release on February 17 and will pay homage to the German brand and in particular the E30-generation BMW M3. A handful of features and accessories will distinguish the device from a standard S23 Ultra. Read: Renner's M5 V10-Powered BMW E30 M3 Stole The Show At SEMA For example, a hard case has been designed with a BMW badge, M logo, and kidney grille graphics on the rear.
+
+
+***
+![My Fifth Year as a Bootstrapped Founder](https://external-preview.redd.it/p15eM8dFFaW1kDA1-q5MWZ8xk-9uyIpeOJghz3knOsU.jpg?auto=webp&v=enabled&s=ba7138086863b924c87a32aaf717c10199d7c737 "My Fifth Year as a Bootstrapped Founder")
+
+
+[My Fifth Year as a Bootstrapped Founder](https://www.reddit.com/r/programming/comments/10ytgwb/my_fifth_year_as_a_bootstrapped_founder)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+[Robocast Announces That the USPTO Has Denied Unified Patents Inc. Petition for Inter Partes Review of &apos;932 Patent](http://www.businesswire.com/news/home/20230207005106/en/Robocast-Announces-That-the-USPTO-Has-Denied-Unified-Patents-Inc.-Petition-for-Inter-Partes-Review-of-932-Patent/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--'Denial of institution is a big win for Robocast,' said litigator Steven J. Rizzi of McKool Smith.
+
+
+***
+![Man murdered in New York's Times Square](https://lopezdoriga.com/wp-content/uploads/2021/08/times-square.jpg "Man murdered in New York's Times Square")
+
+
+[Man murdered in New York's Times Square](https://www.world-today-news.com/man-murdered-in-new-yorks-times-square/)
+
+
+> A man died this Thursday in a shooting registered in the middle of the afternoon in the area of Times Square in the center of Manhattan y tourist area par excellence, according to the New York Police. This is a 22-year-old man who was shot in the chest at 5:30 local time on 44th Street at the height of the eighth avenue just at an hour in which thousands of people leave the offices or go out to dinner in one of the numerous restaurants from that part of the ciudad. The event occurred next to a well-known burger chain and from a subway entrance, and the Police immediately cordoned off the area, which caused the crowding of numerous onlookers in this area, one of the busiest in the city at that time.
+
+
+***
+![Reinforcement for the national advertising market](https://static.ots.at/pressemappe/31521/10909.jpg?t=1536129783 "Reinforcement for the national advertising market")
+
+
+[Reinforcement for the national advertising market](https://www.world-today-news.com/reinforcement-for-the-national-advertising-market/)
+
+
+> Graz (OTS) – With Mag. Thomas Kreuzer, the Kleine Zeitung has had an experienced media professional on board since the beginning of the year, who will successfully promote the positioning of the second largest federal state newspaper on the national market. With almost a million contact opportunities every day and a reach of more than 50 percent in its main distribution area, the Kleine Zeitung is not only the clear number 1 among the daily newspapers in Styria and Carinthia, but also nationally as the second largest newspaper in the federal state an important player.
+
+
+***
+![Valentine Sale: Nothing Phone 1, Nothing Ear Stick Get on Discount on Flipkart for Limited Period; Check Details](https://english.cdn.zeenews.com/sites/default/files/2023/02/10/1152183-nothingphone-1.jpg "Valentine Sale: Nothing Phone 1, Nothing Ear Stick Get on Discount on Flipkart for Limited Period; Check Details")
+
+
+[Valentine Sale: Nothing Phone 1, Nothing Ear Stick Get on Discount on Flipkart for Limited Period; Check Details](https://zeenews.india.com/technology/valentine-sale-nothing-phone-1-nothing-ear-stick-get-on-discount-on-flipkart-for-limited-period-check-details-2571937.html)
+
+
+> New Delhi:  The smartphone maker Nothing is giving good discounts on its products in India this Valentine's Day for a limited time. The company is offering discounts on its ‘Nothing Phone 1' and its lone TWS ‘Nothing Ear Stick'. The latter will be available at Rs 6,999 with 20% discount during the special Valentine offer on Flipkart. The smartphone Nothing Phone 1 is available at Rs 35,999 with 16% discount on Flipkart. There are some bank offers as well including BoB Credit card and IDFC First Bank.
+
+
+***
+![Oppo: Oppo Find N2 Flip: Global launch date of Oppo's foldable phone confirmed](https://static.toiimg.com/thumb/msid-97805210,width-1070,height-580,imgsize-16210,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Oppo: Oppo Find N2 Flip: Global launch date of Oppo's foldable phone confirmed")
+
+
+[Oppo: Oppo Find N2 Flip: Global launch date of Oppo's foldable phone confirmed](https://timesofindia.indiatimes.com/gadgets-news/oppo-find-n2-flip-global-launch-date-of-oppos-foldable-phone-confirmed/articleshow/97805109.cms)
+
+
+> FOLLOW US ON SOCIAL MEDIA Facebook Twitter Instagram KOO APP YOUTUBE
+
+
+***
+![Woman sexually assaulted in private bus in Thrissur; Accused in custody](https://images.news18.com/malayalam/uploads/2022/12/arrest-6-167172078916x9.jpg "Woman sexually assaulted in private bus in Thrissur; Accused in custody")
+
+
+[Woman sexually assaulted in private bus in Thrissur; Accused in custody](https://www.world-today-news.com/woman-sexually-assaulted-in-private-bus-in-thrissur-accused-in-custody/)
+
+
+> Thrissur: An accused who sexually assaulted a woman in a private bus in Kunnamkulam was arrested. Ismail (46), a native of Marancheri, was arrested. The incident took place in Kadavallur at around 8.45 am today. 16Also read-Seven years rigorous imprisonment and fine for the accused who tried to stab a 14-year-old girl who rejected his love request in Malappuram The woman was sexually assaulted when she was traveling from Edapal to Thrissur in a private bus.
+
+
+***
+![Sierra Leone gets digital centre from Orange and German Development Corporation](https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2023/02/sierra-leone.jpeg "Sierra Leone gets digital centre from Orange and German Development Corporation")
+
+
+[Sierra Leone gets digital centre from Orange and German Development Corporation](https://techcabal.com/2023/02/10/orange-digital-cenre-sierra-leone/)
+
+
+> Orange and the German Development Cooperation have announced the opening of an Orange Digital Center (ODC) in Sierra Leone. The centre will serve as an ecosystem entirely dedicated to the development of digital skills and innovation. The centre will have a floor space spanning over 500 square metre and provide four strategic programs of the Orange group in partnership with the German Development Cooperation, namely: A coding school. A solidarity FabLab – one of the Orange Foundation's digital manufacturing workshops.
+
+
+***
+![Why sorting is harder than it seems](https://external-preview.redd.it/wJZrYw748fVCUy5bVx8hcL27OrMAL0P5Vnno5ZQq2i4.jpg?auto=webp&v=enabled&s=2f494e5e1510ca784282948de59b4cce8ebbe02f "Why sorting is harder than it seems")
+
+
+[Why sorting is harder than it seems](https://www.reddit.com/r/programming/comments/10ytbu1/why_sorting_is_harder_than_it_seems)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Pharmalittle: Generic drugmakers may be helped by Inflation Reduction Act; Bayer union warns not to split the company](https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg "Pharmalittle: Generic drugmakers may be helped by Inflation Reduction Act; Bayer union warns not to split the company")
+
+
+[Pharmalittle: Generic drugmakers may be helped by Inflation Reduction Act; Bayer union warns not to split the company](https://www.statnews.com/pharmalot/2023/02/10/covid19-paxlovid-pfizer-generics-abortion-novo-bayer-medicare-blueprint/)
+
+
+> A nd so, another working week will soon draw to a close. Not a moment too soon, yes? This is, you may recall, our treasured signal to daydream about weekend plans. Our agenda is rather modest. We expect to dispense with growing piles of paperwork, host a romper room for the official mascot and host a listening party with Mrs. Pharmalot (the rotation will feature this and this ). And what about you? This is a fine time to gear up for spring cleaning or get a head start on planning a summer getaway.
+
+
+***
+![Hollow Knight: Silksong PlayTest gave us a glimmer of hope – Hollow Knight: Silksong](https://www.gamereactor.cn/media/14/hollowknight_2751413_650x.png "Hollow Knight: Silksong PlayTest gave us a glimmer of hope – Hollow Knight: Silksong")
+
+
+[Hollow Knight: Silksong PlayTest gave us a glimmer of hope – Hollow Knight: Silksong](https://www.world-today-news.com/hollow-knight-silksong-playtest-gave-us-a-glimmer-of-hope-hollow-knight-silksong/)
+
+
+> Hollow Knight: Silksong has become one of the most elusive games in development today. Microsoft says it's one of many titles coming to Game Pass in 2023, and many are looking forward to hearing about it sooner rather than later. However, Hollow Knight: Silksong continues to be absent, and the recent Nintendo Direct is the latest showcase for the high hopes fans have had. However, in an effort to calm people's fears that the game isn't real, an illusion we've collectively concocted to get the sequel, a playtester named Trusted Graig threw us a bone on Discord.
+
+
+***
+![Chain disaster on the busiest boulevard in Plovdiv](https://i.id24.bg/i/1563027.jpg "Chain disaster on the busiest boulevard in Plovdiv")
+
+
+[Chain disaster on the busiest boulevard in Plovdiv](https://www.world-today-news.com/chain-disaster-on-the-busiest-boulevard-in-plovdiv/)
+
+
+> A chain accident hampered traffic on the busiest boulevard in Plovdiv, a reporter reported Plovdiv24.bg. The incident took place on 'Tsar Boris the Third Unifier' Blvd around noon. The exact place is the section before the Tunnel in the direction of 'Banya Starinna'. The reason for the occurrence of the traffic accident is clarified by the law enforcement authorities. Two cars and a bus were involved. At the moment, there are no reports of seriously injured people, only minor material damage. video controls="" width="640" height="360" layout="responsive" poster="//i.
+
+
+***
+![UK strikes seven Russians with first-ever joint cyber crime sanctions](https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F02%2FUntitled-design-2023-02-10T144208.723.jpg&signature=3e73497b1b4df4f5dd82d9813823ce4a "UK strikes seven Russians with first-ever joint cyber crime sanctions")
+
+
+[UK strikes seven Russians with first-ever joint cyber crime sanctions](https://thenextweb.com/news/uk-first-ever-joint-cyber-crime-sanctions-russians)
+
+
+> In a coordinated action with US authorities, the UK has imposed sanctions on seven Russian cyber criminals associated with the deployment of the Conti and Ryuk ransomware as well as the Trickbot banking trojan. This follows a thorough investigation led by the National Crime Agency (NCA) and marks the UK's first-ever joint cyber crime sanctions. According to the British government , ransomware is a 'tier one national security threat' that's increasingly used to attack businesses and public sector organisations.
+
+
+***
+![These winter cycling gloves come with an app and use artificial intelligence (and they're excellent for it)](https://cdn.mos.cms.futurecdn.net/vpobvt8Jm64k3TkAb9w8Q6-1200-80.jpg "These winter cycling gloves come with an app and use artificial intelligence (and they're excellent for it)")
+
+
+[These winter cycling gloves come with an app and use artificial intelligence (and they're excellent for it)](https://www.cyclingnews.com/reviews/eddie-bauer-guide-pro-smart-heated-winter-cycling-gloves/)
+
+
+> Why you can trust Cyclingnews Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test . I've written a lot about gloves and cold-weather cycling. I asked to take ownership of our guide to the best winter cycling gloves , and I also shared things I learned when testing winter cycling gloves , plus there have been a lot of reviews. The reason for all the content about gloves is that I ride in cold weather pretty often and I'm constantly freezing.
+
+
+***
+![A deep reinforcement learning model that allows AI agents to track odor plumes](https://scx2.b-cdn.net/gfx/news/2023/a-deep-reinforcement-l.jpg "A deep reinforcement learning model that allows AI agents to track odor plumes")
+
+
+[A deep reinforcement learning model that allows AI agents to track odor plumes](https://techxplore.com/news/2023-02-deep-ai-agents-track-odor.html)
+
+
+> by Ingrid Fadelli , Tech Xplore Behavior modules such as "upwind surge", "crosswind cast" and "U-turn" seen in previous studies on flying insects, are also recapitulated by deep-reinforcement-learning trained artificial agents tracking simulated odor plumes. Credit: Singh et al For a long time, scientists and engineers have drawn inspiration from the amazing abilities of animals and have sought to reverse engineer or reproduce these in robots and artificial intelligence (AI) agents.
+
+
+***
+![Security Awareness Training Startup Riot Raises $12 Million](https://www.securityweek.com/wp-content/uploads/2023/02/Riot-Cybersecurity-training-logo.png "Security Awareness Training Startup Riot Raises $12 Million")
+
+
+[Security Awareness Training Startup Riot Raises $12 Million](https://www.securityweek.com/security-awareness-training-startup-riot-raises-12-million)
+
+
+> Series A funding brings the total amount raised by cybersecurity training company to $15 million. The post Security Awareness Training Startup Riot Raises $12 Million appeared first on SecurityWeek .
+
+
+***
+![You can now react using any emoji in Google Messages – Research Snipers](https://researchsnipers.com/wp-content/uploads/2022/08/Google-finally-adds-the-most-useful-feature-to-its-Messages.jpg "You can now react using any emoji in Google Messages – Research Snipers")
+
+
+[You can now react using any emoji in Google Messages – Research Snipers](https://researchsnipers.com/you-can-now-react-using-any-emoji-in-google-messages)
+
+
+> Google has made significant progress in making the Messages app a serious rival to Apple's iMessage. After months of limited testing, the company added emoji replies to Messages in July 2020, albeit these emojis are not yet attractively shown on iOS devices. While Google found a way around this discrepancy last year, Android users continue to be frustrated by Apple's refusal to offer RCS chats on iMessage. Another annoying limitation is that there are only seven available emoji reactions in Google Messages.
+
+
+***
+![OPPO Find N2 Flip will launch in the UK on February 15 – Research Snipers](https://researchsnipers.com/wp-content/uploads/2022/12/image-22.png "OPPO Find N2 Flip will launch in the UK on February 15 – Research Snipers")
+
+
+[OPPO Find N2 Flip will launch in the UK on February 15 – Research Snipers](https://researchsnipers.com/oppo-find-n2-flip-will-launch-in-the-uk-on-february-15)
+
+
+> When it comes to the best foldable smartphones in the market, Samsung is named at the top of the list. Besides Samsung, several companies have dipped their toes into the foldable smartphone category but no one is as successful as Samsung. However, it now appears that things are going to change. OPPO is a China-based OEM. It has introduced several foldable in the market. It is now reported that OPPO is all set to introduce its next foldable smartphone in the market. Reportedly, OPPO will officially launch the OPPO Find N2 Flip on February 15.
+
+
+***
+![Peugeot wants to compete with Tesla with the 508 successor](https://d15-a.sdn.cz/d_15/c_img_QO_5/MczBg/peugeot-auto.jpeg?fl=cro,0,0,1920,1080|res,1200,,1|jpg,80,,1 "Peugeot wants to compete with Tesla with the 508 successor")
+
+
+[Peugeot wants to compete with Tesla with the 508 successor](https://www.world-today-news.com/peugeot-wants-to-compete-with-tesla-with-the-508-successor/)
+
+
+> Autocar claims the next-generation Peugeot 508 will represent the most drastic and far-reaching shakeup within the automaker in a decade. From 2025, new Peugeot electric cars will switch to the STLA shared platform, as will the other 13 carmakers in the Stellantis group. According to all information, the transition to another platform should, in addition to electromobility, bring fundamental changes in the technical layout of Peugeot electric cars and improve them with advanced systems, for example, within the framework of autonomous driving, wireless car control and others.
+
+
+***
+![Butterfly wings inspire labels for better clothing recycling](https://www.futurity.org/wp/wp-content/uploads/2023/02/clothing-recycling-1600.jpg "Butterfly wings inspire labels for better clothing recycling")
+
+
+[Butterfly wings inspire labels for better clothing recycling](https://www.futurity.org/labels-clothing-recycling-biomimicry-2871842/)
+
+
+> Labels made with inexpensive photonic fibers could improve clothing recycling, researchers report. Less than 15% of the 92 million tons of clothing and other textiles discarded annually are recycled—in part because they are so difficult to sort. 'It's like a barcode that's woven directly into the fabric of a garment,' says Max Shtein, a professor of materials science and engineering at the University of Michigan and corresponding author of the study in Advanced Materials Technologies . 'We can customize the photonic properties of the fibers to make them visible to the naked eye, readable only under near-infrared light or any combination.
+
+
+***
+![Microsoft Reportedly Plans to Unveil OpenAI-Powered Office Features in March](https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/02/Microsoft-Office-apps.jpg "Microsoft Reportedly Plans to Unveil OpenAI-Powered Office Features in March")
+
+
+[Microsoft Reportedly Plans to Unveil OpenAI-Powered Office Features in March](https://www.thurrott.com/cloud/279232/microsoft-office-openai-integration-coming-soon)
+
+
+> Microsoft is reportedly getting ready to unveil new integrations between the technology of ChatGPT maker OpenAI and its various Office apps. According to The Verge, the Redmond giant could detail new AI-powered features coming to its core Office apps in March. The Information was first to report that Microsoft was planning to integrate OpenAI's technology into its productivity apps. We've already seen glimpses of that in Viva Sales, with recently added a new ChatGPT-powered feature for writing sales emails.
+
+
+***
+![Bing With ChatGPT Preview Recorded 1 Million People on Waitlist in 48 Hours – Research Snipers](https://researchsnipers.com/wp-content/uploads/2023/02/image-5.png "Bing With ChatGPT Preview Recorded 1 Million People on Waitlist in 48 Hours – Research Snipers")
+
+
+[Bing With ChatGPT Preview Recorded 1 Million People on Waitlist in 48 Hours – Research Snipers](https://researchsnipers.com/bing-with-chatgpt-preview-recorded-1-million-people-on-waitlist-in-48-hours)
+
+
+> Microsoft recently introduced a new version of Bing and it could revolutionize web search. Because the integration of the chatbot ChatGPT promises a completely new search experience. Many would like to try it, but there is a waiting list – and it is huge. The chat AI ChatGPT, developed by OpenAI and largely financed by Microsoft, triggered real panic at the competitor Google because the search engine giant officially declared the internal red alert. This led to a rush to put together and present its own competitor called Bard.
+
+
+***
+![2023 Alpine Skiing World Championships Contest – Enter and win one of our many prizes! – rts.ch](https://www.rts.ch/2023/02/10/14/45/9945495.image?w=1200&h=630 "2023 Alpine Skiing World Championships Contest – Enter and win one of our many prizes! – rts.ch")
+
+
+[2023 Alpine Skiing World Championships Contest – Enter and win one of our many prizes! – rts.ch](https://www.world-today-news.com/2023-alpine-skiing-world-championships-contest-enter-and-win-one-of-our-many-prizes-rts-ch/)
+
+
+> To win Grand prix final Initial capital with fully digital 'Raiffeisen Rio' asset management, worth 20,000 francs, offered by Raiffeisen. Other prizes, each day of the competition – And bon worth 500 francs at the Sunrise shop– A ski jacket from the official Swiss-Ski 2023/2024 collection courtesy of Helvetia– A ski day for two with Swiss-Ski athletes including a Zermatt Unplugged pass, offered by BKW Entry deadline The deadline for participation starts as soon as the competition is announced on air.
+
+
+***
+![Six Common Ways That Malware Strains Get Their Names](https://securityintelligence.com/wp-content/uploads/2023/02/computer-laptop-in-a-dark-room-hacker-or-virus-harming-the-system..jpeg "Six Common Ways That Malware Strains Get Their Names")
+
+
+[Six Common Ways That Malware Strains Get Their Names](https://securityintelligence.com/articles/six-ways-malware-strains-get-names/)
+
+
+> You're likely familiar with the names of common malware strains such as MOUSEISLAND, Agent Tesla and TrickBot . But do you know how new malware threats get their names? As a cybersecurity writer, I quickly add new strains to my vocabulary. But I never knew how they came to have those names in the first place. After writing numerous articles on malware, I decided to dig deep into the naming conventions to shed some light on that question. As it turns out, a name can tell you a lot about the malware itself — but it can also sow some confusion.
+
+
+***
+![Watch Are Holograms the Next Zoom?]( "Watch Are Holograms the Next Zoom?")
+
+
+[Watch Are Holograms the Next Zoom?](https://www.bloomberg.com/tosv2.html?vid=&uuid=f7b9e7e7-a95c-11ed-b231-514b4f705364&url=L25ld3MvdmlkZW9zLzIwMjMtMDItMTAvYXJlLWhvbG9ncmFtcy10aGUtbmV4dC16b29t)
+
+
+> Why did this happen? Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.
+
+
+***
+![Xbox's upcoming indie game takes us to other dimensions and into space – Gamereactor](https://www.gamereactor.cn/media/92/xboxu2019kommendeindier_3959293b.jpg "Xbox's upcoming indie game takes us to other dimensions and into space – Gamereactor")
+
+
+[Xbox's upcoming indie game takes us to other dimensions and into space – Gamereactor](https://www.world-today-news.com/xboxs-upcoming-indie-game-takes-us-to-other-dimensions-and-into-space-gamereactor/)
+
+
+> This year is the time for Xbox to start its[email protected]10th anniversary of the program. Whether that's why they're inviting the press to the digital event, I'm still not sure, but we did see an in-depth look at four new games from four different European developers. All games feature trailers, demos with developer commentary, and a chance to ask relevant questions live at the end. Here's what we saw. The Last Case of Benedict Fox The first game on the feature sheet will also be the one that makes the absolute best impression.
+
+
+***
+![Sendmarc raises $7 million to help businesses avoid email fraud](https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2023/02/sendmarc.webp "Sendmarc raises $7 million to help businesses avoid email fraud")
+
+
+[Sendmarc raises $7 million to help businesses avoid email fraud](https://techcabal.com/2023/02/10/sendmarc-series-a/)
+
+
+> South African cybersecurity startup Sendmarc has announced that it has raised $7 million in Series A funding to offer businesses protection from email phishing attacks and impersonation. The Johannesburg-based startup was founded in 2020 by CEO Sam Hutchinson , Keith Thompson and Sacha Matulovich , and uses proprietary technology to protect domains against spoofing. 'What we do differently, unlike our competitors, is that we have built a product focusing on go-to-market features. Let's use this example: say you devised a vaccine to solve a virus.
+
+
+***
+[Tanium Earns Placement in 2023 List of Best Workplaces in Japan](http://www.businesswire.com/news/home/20230210005088/en/Tanium-Earns-Placement-in-2023-List-of-Best-Workplaces-in-Japan/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> KIRKLAND, Wash. & TOKYO--(BUSINESS WIRE)--Tanium, the industry's only provider of converged endpoint management (XEM), today announced being named to the list of Best Workplaces in Japan. Awarded annually by Great Place to Work®, results are based on comprehensive employee feedback and industry benchmarking. Customers currently use Tanium to secure and manage more than 2.5 million endpoints throughout the Japanese region. In 2021, Tanium Japan was the first to offer Tanium Cloud outside of the
+
+
+***
+![Rumor: the iPhone 15 and 15 Plus will have a new camera bump](https://fdn.gsmarena.com/imgroot/news/23/02/apple-iphone-15-new-camera-bump/-952x498w6/gsmarena_000.jpg "Rumor: the iPhone 15 and 15 Plus will have a new camera bump")
+
+
+[Rumor: the iPhone 15 and 15 Plus will have a new camera bump](https://www.gsmarena.com/rumor_the_iphone_15_and_15_plus_will_have_a_new_camera_bump-news-57511.php)
+
+
+> Here's a wild rumor regarding the iPhone 15 lineup. Per ShrimpApplePro on Twitter, the iPhone 15 models (read the non-Pros) will have a new camera bump. The insider doesn't go into further detail, spurring a lively debate in the comments. Should the rumor pan out, the new bump could signify a few different things. One rumor has it the iPhone 15 and 15 Plus will get the 48MP camera of the current Pros, which could result in a different camera bump. Another reason for a new bump could be the rumored change in design to a rounded back.
+
+
+***
+[VSS Capital Partners Completes Successful Exit from GreenSlate](http://www.businesswire.com/news/home/20230210005073/en/VSS-Capital-Partners-Completes-Successful-Exit-from-GreenSlate/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--VSS Capital Partners ('VSS'), a private investment firm that targets the healthcare, education, and tech-enabled business services industries, today announced that it has realized its investment in GreenSlate Holdings, LLC (GreenSlate or 'the Company'), a leading cloud-based provider of payroll, production accounting, tax incentives and health benefits for the entertainment industry. While financial details of the transaction were not disclosed, VSS also re-invested i
+
+
+***
+![The 25th MOBO Awards Rely on DiGiCo Consoles to Deliver the UK's Biggest Celebration of Music of Black Origin](https://www.sportsvideo.org/wp-content/uploads/2023/02/unnamed-20.jpg "The 25th MOBO Awards Rely on DiGiCo Consoles to Deliver the UK's Biggest Celebration of Music of Black Origin")
+
+
+[The 25th MOBO Awards Rely on DiGiCo Consoles to Deliver the UK's Biggest Celebration of Music of Black Origin](https://www.sportsvideo.org/2023/02/10/the-25th-mobo-awards-rely-on-digico-consoles-to-deliver-the-uks-biggest-celebration-of-music-of-black-origin/)
+
+
+> The MOBO Awards, which recognize and celebrate black music and culture, returned for its 25th year in October last year. With Craig David , Little Simz , C entral Cee and Knucks among the artists recognized, the annual ceremony took place at the OVO Arena Wembley, where a star-studded lineup of artists including Nile Rodgers, Kojey Radical, Tion Wayne, Fireboy DML, Cat Burns, FLO and Eliza Rose all performed on the night. DiGiCo's SD10, SD12 and S21 digital mixing consoles offered ultimate flexibility, sound quality and reliability to the technically challenging event.
+
+
+***
+![Down to the wire: Greensboro semiconductor company creates its own niche](https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/1/5e/15e1636a-a646-11ed-bf4b-2beef229626c/63e2630705514.preview.jpg?crop=1705%2C895%2C0%2C159&resize=1200%2C630&order=crop%2Cresize "Down to the wire: Greensboro semiconductor company creates its own niche")
+
+
+[Down to the wire: Greensboro semiconductor company creates its own niche](https://journalnow.com/business/technology/down-to-the-wire-greensboro-semiconductor-company-creates-its-own-niche/article_15e1636a-a646-11ed-bf4b-2beef229626c.html)
+
+
+> The Triad's advanced technology and manufacturing sector has been abuzz in recent years with expansions and successful economic recruitments, such as Toyota North America, Boom Supersonic and Ziehl-Abegg. Carving out an important, but under-the-radar niche has been  Guerrilla RF Inc., a wireless semiconductor company based in Greensboro . Guerrilla was founded in 2013. The company's common stock is traded on the OTC Markets QX tier with the symbol 'GUER.' Its main focus is providing monolithic microwave integrated circuits for the automotive, 5G infrastructure and cellular booster markets.
+
+
+***
+[Amplify's mCLASS® DIBELS® 8th Edition and mCLASS Lectura Selected as the Early Literacy Assessment Tool for Colorado Schools](http://www.businesswire.com/news/home/20230210005076/en/Amplify%E2%80%99s-mCLASS%C2%AE-DIBELS%C2%AE-8th-Edition-and-mCLASS-Lectura-Selected-as-the-Early-Literacy-Assessment-Tool-for-Colorado-Schools/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BROOKLYN, N.Y.--(BUSINESS WIRE)--Amplify, a publisher of next-generation curriculum and assessment programs, announced today that the Colorado Department of Education (CDE) has selected mCLASS DIBELS 8th Edition and the corresponding Spanish-language assessment, mCLASS Lectura, as its K–3 interim and diagnostic assessment. The 2012 Colorado Reading to Ensure Academic Development (READ) Act provides the state with the structure and resources to ensure Colorado's students are reading at grade lev
+
+
+***
+![Back alley Toronto home with forward thinking design](https://www.theglobeandmail.com/resizer/u7VIw8Ba2N1NgknxIbbO_-voumg=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/6OG7K5RPWZFVDNNMFXTAEZG2KY.JPG "Back alley Toronto home with forward thinking design")
+
+
+[Back alley Toronto home with forward thinking design](https://www.theglobeandmail.com/real-estate/article-back-alley-toronto-home-with-forward-thinking-design/)
+
+
+> The Toronto home of Suzanne and Jeff Wilkinson, designed by Betsy Williamson of WilliamsonWilliamson architects. Scott Norsworthy/Scott Norsworthy A generation ago, some of Toronto's most creative architects worked to build houses in the weed-filled back laneways of the old city. These strips of underused land – lined with rotting garages and the odd workshop – seemed fertile territory for design innovation. But the landscape has changed. After decades of advocacy from the design community, Toronto broadly legalized laneway houses in 2018 .
+
+
+***
+[Mavenir Launches Open RAN Intelligent Controller (O-RIC) Offering Enabling Service Differentiation and Network Resource Optimization](http://www.businesswire.com/news/home/20230210005022/en/Mavenir-Launches-Open-RAN-Intelligent-Controller-O-RIC-Offering-Enabling-Service-Differentiation-and-Network-Resource-Optimization/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> RICHARDSON, Texas--(BUSINESS WIRE)-- #Automation--Mavenir announces its O-RAN alliance Radio Access Network Intelligent Controller, a next-generation network intelligence offering for Open RAN.
+
+
+***
+[Magnet Forensics Independent Special Committee Reiterates Support for Value-Maximizing Thoma Bravo Transaction](http://www.businesswire.com/news/home/20230210005222/en/Magnet-Forensics-Independent-Special-Committee-Reiterates-Support-for-Value-Maximizing-Thoma-Bravo-Transaction/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WATERLOO, Ontario--(BUSINESS WIRE)--The independent Special Committee of the Board of Directors of Magnet Forensics Inc. (TSX: MAGT) ('Magnet' or the 'Company'), a developer of digital investigation solutions for more than 4,000 enterprises and public safety agencies in over 100 countries, acknowledges the press release issued by Nellore, and is reiterating its support for the previously announced transaction with Morpheus Purchaser Inc. (the 'Purchaser'), a newly created corporation controlled
+
+
+***
+![Flathub beta shows whether app origin is verified – Computer – News](https://tweakers.net/i/D-cYhC3TnyEajj1NBL1wxLPqyz4=/134x134/filters:strip_exif()/i/2005619696.png?f=meta "Flathub beta shows whether app origin is verified – Computer – News")
+
+
+[Flathub beta shows whether app origin is verified – Computer – News](https://www.world-today-news.com/flathub-beta-shows-whether-app-origin-is-verified-computer-news/)
+
+
+> Flathub, the Linux app store for so-called flatpaks, will get a verification badge for apps in the future. The feature is now available in beta. The check mark indicates that the app in question is developed and published on Flathub by the same party. Volgens It's FOSS currently over 70 apps on Flathub have a check mark. As a beta feature, these checkmarks can only be seen in the Flathub beta portal. If desired, you can also use Flathub only verified software will be shown. It's FOSS further writes that developers can verify their Flathub app by using the link between their repo on GitHub or GitLab and Flathub.
+
+
+***
+![Mineralys, amid signs of thawing IPO market, upsizes offering to raise $192M for race with AstraZeneca](https://qtxasset.com/quartz/qcloud5/media/image/fiercebiotech/1644417148/Nasdaq-Tower_092614_B.jpg/Nasdaq-Tower_092614_B.jpg?VersionId=n7MaJ5OGWWgUS5IAGF9li5fGnge.bM.f "Mineralys, amid signs of thawing IPO market, upsizes offering to raise $192M for race with AstraZeneca")
+
+
+[Mineralys, amid signs of thawing IPO market, upsizes offering to raise $192M for race with AstraZeneca](https://www.fiercebiotech.com/biotech/mineralys-amid-signs-thawing-ipo-market-upsizes-offering-raise-192m-race-astrazeneca)
+
+
+> Mineralys, amid signs of thawing IPO market, upsizes offering to raise $192M for race with AstraZeneca ntaylor Fri, 02/10/2023 - 08:48
+
+
+***
+![USDCAD falls sharply after another upside surprise jobs. Price is below the it's 200H MA.](https://images.forexlive.com/images/USDCAD_id_e852548b-e3c8-4249-a806-77765d32852b_size900.jpg?v=1676038262926 "USDCAD falls sharply after another upside surprise jobs. Price is below the it's 200H MA.")
+
+
+[USDCAD falls sharply after another upside surprise jobs. Price is below the it's 200H MA.](https://www.forexlive.com/technical-analysis/usdcad-falls-sharply-after-another-upside-surprise-jobs-price-is-below-the-its-200h-ma-20230210/)
+
+
+> Rise of 150K vs 15K estimate USDCAD falls below the 200 hour MA The USDCAD USD/CAD The USD/CAD is the currency pair encompassing the dollar of the United States of America (symbol $, code USD), and the Canadian dollar of Canada (symbol $ code CAD). The pair's exchange rate indicates how many Canadian dollars are needed in order to purchase one US dollar. For example, when the USD/CAD is trading at 1.3500, it means 1 US dollar is equivalent to 1.35 Canadian dollars. The US dollar (USD) is the world's most traded currency, whilst the Canadian dollar (CAD) is the world's seventh The USD/CAD is the currency pair encompassing the dollar of the United States of America (symbol $, code USD), and the Canadian dollar of Canada (symbol $ code CAD).
+
+
+***
+![No, the operating system on the new Galaxy S23 Ultra does not take up 60GB of space](https://m-cdn.phonearena.com/images/article/145520-wide-two_1200/No-the-operating-system-on-the-new-Galaxy-S23-Ultra-does-not-take-up-60GB-of-space.jpg "No, the operating system on the new Galaxy S23 Ultra does not take up 60GB of space")
+
+
+[No, the operating system on the new Galaxy S23 Ultra does not take up 60GB of space](https://www.phonearena.com/news/galaxy-s23-operating-system-size-not-60gb_id145520)
+
+
+> "The Android operating system on the Galaxy S23 Ultra takes up 60GB of storage space!" That is more than double the nearly 25GB that a full-blown Windows 11 takes up, and that's a more complex desktop operating system. What's going on here? Is that really true? Well, it turns out that this is not really the case and the whole confusion stems from a misleading report in the Samsung system settings and the Android OS size is actually much smaller than reported there. The realization came after users noticed that versions of the S23 Ultra with more storage report the system file size to be even larger.
+
+
+***
+![iPhone 15's USB-C port might get purposefully limited by Apple, says new report](https://m-cdn.phonearena.com/images/article/145516-wide-two_1200/iPhone-15s-USB-C-port-might-get-purposefully-limited-by-Apple-says-new-report.jpg "iPhone 15's USB-C port might get purposefully limited by Apple, says new report")
+
+
+[iPhone 15's USB-C port might get purposefully limited by Apple, says new report](https://www.phonearena.com/news/iphone-15-usb-c-port-purposefully-limited-apple-report_id145516)
+
+
+> For a while now, word on the street has been that the iPhone 15 series will be the one to finally replace the outdated Lightning port with a USB-C one. That might sound like amazing news to many fans out there, but it seems that once again Apple might have found a way to track and restrict the type of chargers/charging cables owners would be able to use.According to a rumor that is circulating on the Chinese social media Weibo, the tech giant will be including a Lightning-like authenticator chip inside the USB-C port of the iPhone 15 lineup, as well as the charging cable that comes inside the box.
+
+
+***
+![Galaxy KDay – The Cape's biggest music festival returns to Meerendal!](https://img.global.news.samsung.com/za/wp-content/uploads/2023/02/KDAY_TICKET-PRO_ARTWORK_1200x630-Approved.jpg "Galaxy KDay – The Cape's biggest music festival returns to Meerendal!")
+
+
+[Galaxy KDay – The Cape's biggest music festival returns to Meerendal!](https://news.samsung.com/za/galaxy-kday-the-capes-biggest-music-festival-returns-to-meerendal)
+
+
+> JOHANNESBURG, South Africa – Samsung has partnered with PRIMEDIA to provide the country's GenMZers with an impressive line-up of South Africa's biggest artists coupled with the launch of the new Galaxy S23 series. This is a summer music festival experience for friends and families, set against the scenic backdrop of the Cape winelands, and it is set to mark a new era of Samsung Galaxy's ultimate premium phone experience, while bringing the power of the most advanced mobile technology. The organisers of the Galaxy KDay are determined to live up to their promise of taking this year's festival to a whole new level with massively talented artists.
+
+
+***
+![GTA Online Payphone Hits Assassination Missions](https://staticg.sportskeeda.com/editor/2023/02/fec46-16760331551300-1920.jpg "GTA Online Payphone Hits Assassination Missions")
+
+
+[GTA Online Payphone Hits Assassination Missions](https://www.sportskeeda.com/gta/gta-online-payphone-hits-assassination-missions-a-beginner-s-guide-earn-extra-bonuses)
+
+
+> Payphone Hits, also known as Franklin Assassination missions, are one of the most famous missions in GTA Online. It was added in December 2021 as part of The Contract update. It also added Franklin Clinton from Story Mode to the multiplayer game. While Lester Crest assigns assassination missions to Franklin in the base game, the latter now assigns these missions to online players. However, the payphone hits in GTA Online are much more diverse, and players can earn a lot of money if they know how to execute them.
+
+
+***
+![Yahsat posts 6% increase in revenue in 2022](https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/AElRTVhrlEVqtFOHXGAYQy6NZC4=/1440x810/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/5NQ27OOFQAFFM5Z3FQV3P5725M.jpg "Yahsat posts 6% increase in revenue in 2022")
+
+
+[Yahsat posts 6% increase in revenue in 2022](https://www.thenationalnews.com/business/technology/2023/02/10/yahsat-posts-6-increase-in-revenue-in-2022/)
+
+
+> Al Yah Satellite Communications, better known as Yahsat , recorded a 6 per cent year-on-year increase in revenue in 2022 , buoyed by its managed solutions business, according to its preliminary results. The company's revenue grew to Dh1.6 billion ($433 million) last year, up from Dh1.5 billion in 2021, Yahsat said on Friday in a bourse filing to the Abu Dhabi Securities Exchange, where its shares are traded. This growth was 'driven by strong performance in the managed solutions operating segment', the company said.
+
+
+***
+![Alleged Galaxy A34 5G and Galaxy A54 5G prices for Europe tipped](https://www.sammobile.com/wp-content/uploads/2022/11/Samsung-Galaxy-A54.jpg "Alleged Galaxy A34 5G and Galaxy A54 5G prices for Europe tipped")
+
+
+[Alleged Galaxy A34 5G and Galaxy A54 5G prices for Europe tipped](https://www.sammobile.com/news/alleged-galaxy-a34-a54-5g-prices-europe-tipped/)
+
+
+> Last updated: February 10th, 2023 at 14:37 UTC+01:00 Alleged pricing details for the Galaxy A34 5G and the Galaxy A54 5G have surfaced. They don't seem very confident, but they may give us a general idea of Samsung's plans for commercializing its two mid-range Galaxy A phones in Europe. The Galaxy A34 5G will be available in two memory configurations, featuring 6GB or 8GB of RAM and 128GB or 256GB of storage. Meanwhile, Samsung appears to have upped the ante for the Galaxy A54 5G, giving it 8GB of RAM for both storage options, i.
+
+
