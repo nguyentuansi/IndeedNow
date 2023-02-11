@@ -9851,3 +9851,803 @@
 > Augustana University will now provide a new academic program tailored to meet the growing needs of South Dakota's booming banking industry. 'I think it's very important to at least know the basics of computer science and coding and statistics and things like that,' Augustana Senior Harley Tran said. Tran is majoring in Finance and accounting and is getting her minor in computer science. 'Any job in banking, accounting or finance, it requires a certain amount of statistics, and computer, tech savviness,' Tran said.
 
 
+***
+![How Registered Apprenticeships Could Alleviate the Shortage of Technical Talent](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/10233554/diverse-employees-800x533.jpg "How Registered Apprenticeships Could Alleviate the Shortage of Technical Talent")
+
+
+[How Registered Apprenticeships Could Alleviate the Shortage of Technical Talent](https://shepherdgazette.com/how-registered-apprenticeships-could-alleviate-the-shortage-of-technical-talent/)
+
+
+> The ongoing shortage of tech workers across America could be alleviated if more employers turned to apprenticeships to develop new tech talent. Dozens of employers from multiple states across the country launched Apprenticeships for Tech Registered Apprenticeship programs through CompTIA in 2022. It is a national initiative funded by the US Department of Labor to increase the number of skilled technology workers and expand tech career opportunities for diverse demographics. Related: Combat the IT talent shortage with upskilling and reskilling About two dozen intermediaries – organizations with the expertise to help companies create a Registered Apprenticeship program – have also joined the program.
+
+
+***
+![Tech needs girls now!](https://cdn.primedia.co.za/primedia-broadcasting/image/upload/c_fill,h_290,w_480/ffdbn5lwzga2lwsgyblf.jpg "Tech needs girls now!")
+
+
+[Tech needs girls now!](https://www.capetalk.co.za/articles/466552/tech-needs-girls-now)
+
+
+> To mark International Day of Women and Girls in Science today, Abongile Nzelenzele chats to the CEO of TechnoGirl Trust, Staff Sithole. Ensure equal access to digital learning opportunities and that more women and girls enter the technological and digital space. That's the call by an organisation called TechnoGirl Trust, on the International Day of Women and Girls in Science on Saturday 11 February. TechnoGirl has enabled 15 019 girls to complete a structured programme and, on average, 75% of the beneficiaries advance to Science, Technology, Engineering and Mathematics (STEM) careers.
+
+
+***
+![Tech Gifts for Valentine's Day](https://s.yimg.com/ny/api/res/1.2/8XqcqwXveGiD7ByVv_5wkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/video.wxyz.scripps.com/a8db95c4b7c401d918af6dadf543b62d "Tech Gifts for Valentine's Day")
+
+
+[Tech Gifts for Valentine's Day](https://news.yahoo.com/tech-gifts-valentines-day-115737530.html)
+
+
+> Tech Gifts for Valentine's Day
+
+
+***
+![Concorde & Cymru: The Supersonic Airliner's Links To Wales](https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2023/02/sir_morien_morgan_with_sst_models.jpg "Concorde & Cymru: The Supersonic Airliner's Links To Wales")
+
+
+[Concorde & Cymru: The Supersonic Airliner's Links To Wales](https://newsakmi.com/travel-news/concorde-cymru-the-supersonic-airliners-links-to-wales/)
+
+
+> While all aviation enthusiasts will know of the Franco-British supersonic Concorde airliner, few will know the significant role that two Welshman played in making the aircraft a reality. Credited with being the man responsible for the Concorde being built was aeronautical engineer and chief engineer on the project, Sir Morien Morgan. Born on December 20, 2012, in Bridgend, Morgan attended Grammar school in Cardiff before going on to study aeronautical engineering at both Oxford and Cambridge universities.
+
+
+***
+![Hacker Uses New ‘Screenshotter' Malware Tool To Target Organisations in US and Germany for Data Theft](https://st1.latestly.com/wp-content/uploads/2022/11/Cyber-attack-784x441.jpg "Hacker Uses New ‘Screenshotter' Malware Tool To Target Organisations in US and Germany for Data Theft")
+
+
+[Hacker Uses New ‘Screenshotter' Malware Tool To Target Organisations in US and Germany for Data Theft](https://www.latestly.com/technology/hacker-uses-new-screenshotter-malware-tool-to-target-organisations-in-us-and-germany-for-data-theft-4827932.html)
+
+
+> San Francisco, February 11: A new hacker identified as TA886 targets organisations in the US and Germany with the new custom malware tool "Screenshotter" to perform surveillance and data theft on infected systems. According to BleepingComputer, the previously unknown cluster of activity was first discovered by the US-based security firm Proofpoint in October 2022. The hacker appears to be motivated by money, conducting a preliminary assessment of breached systems to determine if the target is valuable enough for further intrusion.
+
+
+***
+![Enigma, Vector, and TgToxic: The New Threats to Cryptocurrency Users](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEjkWk7PNtmq9jxlkiTO3rQch1-vFz3uRGZ9hYFRMkrbE8UMeccqPar0o9uC7kybfRTKBi6LzR3LPMWmy-on-v_nPbXERSTUIRsw9XCa6PMomLGy7HpPashBfmXtBTNmSxWohYsI0nmp1P_4M1kjfOowoDjt_shn4E7-Hlxaj-64ASRixw_yWgOlVAur/s728-e3650/HACKING.png "Enigma, Vector, and TgToxic: The New Threats to Cryptocurrency Users")
+
+
+[Enigma, Vector, and TgToxic: The New Threats to Cryptocurrency Users](https://thehackernews.com/2023/02/enigma-vector-and-tgtoxic-new-threats.html)
+
+
+> Suspected Russian threat actors have been targeting Eastern European users in the crypto industry with fake job opportunities as bait to install information-stealing malware on compromised hosts. The attackers "use several highly obfuscated and under-development custom loaders in order to infect those involved in the cryptocurrency industry with Enigma stealer," Trend Micro researchers Aliakbar Zahravi and Peter Girnus said in a report this week. Enigma is said to be an altered version of Stealerium, an open source C#-based malware that acts as a stealer, clipper, and keylogger.
+
+
+***
+![How to deploy your first public service in AWS EKS (Kubernetes)](https://miro.medium.com/max/1200/0*TDAdx21wHjbOguw6 "How to deploy your first public service in AWS EKS (Kubernetes)")
+
+
+[How to deploy your first public service in AWS EKS (Kubernetes)](https://medium.com/devops-techable/how-to-deploy-your-first-public-service-in-aws-eks-kubernetes-5e6a2992204e)
+
+
+> You already have a Kubernetes Cluster running, or else you can read my article How to create your first AWS EKS cluster using eksctl and get up and running with Amazon EKS very quickly. I will in this article demonstrate how you can get up and running with your first deployment into your Amazon EKS (Kubernetes) and how you can access this outside your…
+
+
+***
+![The truth about Andrew Tate: ‘His home is less Hollywood hideaway, more rundown meat factory'](https://i.guim.co.uk/img/media/6df5eeac199686d25b68b7e8ee1ee4f9035d2a00/0_0_1170_1159/master/1170.jpg?width=445&quality=85&dpr=1&s=none "The truth about Andrew Tate: ‘His home is less Hollywood hideaway, more rundown meat factory'")
+
+
+[The truth about Andrew Tate: ‘His home is less Hollywood hideaway, more rundown meat factory'](https://newsakmi.com/gambling-news/the-truth-about-andrew-tate-his-home-is-less-hollywood-hideaway-more-rundown-meat-factory/)
+
+
+> A ndrew Tate used to cruise along these scruffy suburban streets about 10 miles from the centre of Bucharest in Romania. Past a litter dump and a sprawling cemetery and a line of semis that wouldn't have looked out of place on the TV soap Brookside. Rolling by in his Lamborghini or Bugatti or any other of his fleet of supercars. Puffing a cigar and adjusting his Michael Corleone sunglasses. Beating his tattooed chest at the red light. Tate, who likes to call himself Top G (in street slang G stands for gangster), says he's done nothing wrong.
+
+
+***
+![I Started CrossFit at 10 Years Old. Fifteen Years Later, It Still Dominates My Relationship With Exercise.](https://compote.slate.com/images/db6066d4-3495-4c4f-8d23-345bb0e5193b.jpeg?crop=1080%2C720%2Cx0%2Cy0&width=1560 "I Started CrossFit at 10 Years Old. Fifteen Years Later, It Still Dominates My Relationship With Exercise.")
+
+
+[I Started CrossFit at 10 Years Old. Fifteen Years Later, It Still Dominates My Relationship With Exercise.](https://slate.com/technology/2023/02/crossfit-kids-training-guide-fitness.html)
+
+
+> This is an installment of  Good Fit , a column about exercise. I took my first CrossFit Kids class when I was 10 years old, the summer between fifth and sixth grade. I remember a circuit that involved situps and running around cones, facilitated in the parking lot outside the CrossFit 'box' my mom went to. I was immediately hooked. In part, I'm sure, because it was fun—the instructors were kind and encouraging, the other kids nice. But more fundamentally, because of what I hoped it would do: make me thin.
+
+
+***
+![Techiman Mount Carmel girls SHS cries for help](https://cdn.modernghana.com/images/content/211202344135-0e72xljwwr-sun092-education-school-projects-picture--scaled.jpg "Techiman Mount Carmel girls SHS cries for help")
+
+
+[Techiman Mount Carmel girls SHS cries for help](https://www.modernghana.com/news/1211449/techiman-mount-carmel-girls-shs-cries-for-help.html)
+
+
+> Mr Frank Owusu, Patron of the Techiman Mount Carmel Girl Senior High School Student Representative Council (SRC) in the Bono East Region has appealed for the completion of abandoned physical infrastructure projects in the school. He said construction work of a girls' dormitory and a multi-purpose dining hall project ought to be completed to well position the school to admit more students. In an interview with the Ghana News Agency (GNA) in Techiman, Mr Owusu, also a tutor at the school said works of the projects which were about 75 percent complete started in 2015, but had since been abandoned because of lack of funds.
+
+
+***
+![Southwest Awarded More Slots At Long Beach For Big Expansion](https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2022/11/201008PHX_International-PRINT023-source-source.jpg "Southwest Awarded More Slots At Long Beach For Big Expansion")
+
+
+[Southwest Awarded More Slots At Long Beach For Big Expansion](https://newsakmi.com/travel-news/southwest-awarded-more-slots-at-long-beach-for-big-expansion/)
+
+
+> Home Airports Southwest Awarded More Slots At Long Beach For Big Expansion The airline will add flights to Kansas City, El Paso, Colorado Springs, Orlando, and Albuquerque. The carrier will also resume flights to Maui. Photo: Southwest Airlines Passengers departing from Long Beach, California will have five additional destinations this year. The airport announced this week it has awarded additional airport slots to Southwest Airlines , allowing the carrier to expand its presence from the Greater Los Angeles area airport.
+
+
+***
+![Ex-Google exec says Microsoft has 'thrown down the gauntlet' on web search with AI-boosted Bing](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17mek3.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=466&y=277 "Ex-Google exec says Microsoft has 'thrown down the gauntlet' on web search with AI-boosted Bing")
+
+
+[Ex-Google exec says Microsoft has 'thrown down the gauntlet' on web search with AI-boosted Bing](http://www.msn.com/en-us/news/technology/ex-google-exec-says-microsoft-has-thrown-down-the-gauntlet-on-web-search-with-ai-boosted-bing/ar-AA17m73V)
+
+
+> Microsoft's "new Bing" search engine is here with a familiar looking chat bot supported by OpenAI's technology, so we experimented to see how it stacks up against the reigning bot ChatGPT. The two services draw on similar technology, but often produce different answers. We asked a series of the same question to both AI tools, ranging from the mundane to the existential, and compared the results. Scroll on to see how they fared against each other: What I liked: It offered a template for an honest and empathetic message.
+
+
+***
+![Data Science with Prometheus](https://miro.medium.com/max/1200/0*DtdBhsWtX0PaTNTF.png "Data Science with Prometheus")
+
+
+[Data Science with Prometheus](https://narad1972.medium.com/data-science-with-prometheus-1a96902436b)
+
+
+> The Prometheus Logo Prometheus is a powerful open-source monitoring system for both containers and bare-metal systems. It enables users to monitor services and applications by collecting metrics from heterogeneous systems, storing them in a time-series database, and alerting users when certain conditions arise. Prometheus also provides a query language for accessing and manipulating stored data. Prometheus can be an invaluable tool for gathering historical and real-time metrics on applications or services.
+
+
+***
+![Did we just found a use for bubblesort?](https://external-preview.redd.it/9a4OL9OS98XApJKtoRgncyHl1thSY_E62_SdhRCtceE.jpg?auto=webp&v=enabled&s=6f7d6fa80da5e35bbcaa7e87fac96fefd7aba82c "Did we just found a use for bubblesort?")
+
+
+[Did we just found a use for bubblesort?](https://www.reddit.com/r/programming/comments/10zio0n/did_we_just_found_a_use_for_bubblesort)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Jean-Eric Vergne wins India's first-ever Formula E in Hyderabad](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/3d5b4033-31b9-442b-a0b5-183d51ebde5e-sixteen_nine.jpg "Jean-Eric Vergne wins India's first-ever Formula E in Hyderabad")
+
+
+[Jean-Eric Vergne wins India's first-ever Formula E in Hyderabad](https://www.businesstoday.in/technology/news/story/jean-eric-vergne-wins-indias-first-ever-formula-e-in-hyderabad-369871-2023-02-11)
+
+
+> Two-time Formula E world champion Jean-Eric Vergne won India's inaugural Formula E race on Saturday. Vergne is part of the American racing outfit DS Penske. Kiwi driver Nick Cassidy of Envision Racing finished second in the thrilling and chaotic race. Sebastian Beumi also racing for Envision Racing finished in third place rounding the podium spots. Jean-Eric Vergne is a French professional racing driver who currently competes in the ABB FIA Formula E World Championship. He has been a part of the Formula E series since its inception in 2014 and has established himself as one of the top drivers in the championship.
+
+
+***
+![Switch eShop charts for Feb. 11th, 2023](https://gonintendo.com/attachments/image/23110/file/medium-2793a923be95f3ea36a29ac93ca2f4af.jpg "Switch eShop charts for Feb. 11th, 2023")
+
+
+[Switch eShop charts for Feb. 11th, 2023](https://gonintendo.com/contents/16146-switch-eshop-charts-for-feb-11th-2023)
+
+
+> Samus steals the spotlight Wondering what's hot on the Switch eShop? Time once again to take a look at the top 30 for both all games on the Switch, and download-only titles. Read up on the top 30 for Feb. 11th, 2023 below. All Games Metroid Prime Remastered Minecraft Mario Kart 8 Deluxe Among Us Just Dance 2023 Edition Stardew Valley Nintendo Switch Sports FIFA 23 Legacy Edition Fire Emblem Engage Uno WBSC eBaseball: Power Pros Mario Party Superstars LEGO Harry Potter Collection Pokémon Violet Super Smash Bros.
+
+
+***
+![Woman arrested for sending death threats to Nintendo executive](https://gonintendo.com/attachments/image/23109/file/medium-d085827f07b3840ac16f85446d0e7f40.jpeg "Woman arrested for sending death threats to Nintendo executive")
+
+
+[Woman arrested for sending death threats to Nintendo executive](https://gonintendo.com/contents/16145-woman-arrested-for-sending-death-threats-to-nintendo-executive)
+
+
+> Japanese newspaper Kyoto Shimbun has shared a rather scary story concerning an unnamed executive at Nintendo. According to the report, a 36-year-old woman has been arrested after allegedly sending death threats to an executive at Nintendo. Apparently, the woman had sent a package to Nintendo's headquarters that included a bag of incense, along with some frightening documents. These documents are said to have included a specific date, along with messages stating such things as 'I-I'll kill you' and 'Die Nintendo!'.
+
+
+***
+![Sonic Frontiers' first major update is nearing completion](https://gonintendo.com/attachments/image/23108/file/medium-df0664d9cc0558034f63266b489ff585.jpg "Sonic Frontiers' first major update is nearing completion")
+
+
+[Sonic Frontiers' first major update is nearing completion](https://gonintendo.com/contents/16144-sonic-frontiers-first-major-update-is-nearing-completion)
+
+
+> SEGA previously revealed that three major updates were in the works for Sonic Frontiers, and fans have been wondering when we could see the first of those updates release. While we don't have a release date to share just yet, it does seem like things are moving right along. Sonic Frontiers director Morio Kishimoto has been chatty on Twitter recently, talking about the game moving 3+ million units already, fan excitement in general, and more. When one fan brought up the game's first update, Kishimoto had this to say.
+
+
+***
+![Splatoon 3 Switch OLED back in stock in North America](https://gonintendo.com/attachments/image/23107/file/medium-904937a143aa83253ce55ee4cd50d452.jpg "Splatoon 3 Switch OLED back in stock in North America")
+
+
+[Splatoon 3 Switch OLED back in stock in North America](https://gonintendo.com/contents/16143-splatoon-3-switch-oled-back-in-stock-in-north-america)
+
+
+> Did you try to snag a Splatoon 3 Switch OLED but had trouble finding them at a retailer? You're not the only one, as this gorgeous Switch OLED was sold out at multiple retailers soon after it launched. Thankfully, Nintendo has responded to the great sales with a fresh round of shipments. If you live in North America, you can now find the Splatoon 3 Switch OLED back in stock at select retailers. Nintendo didn't share which retailers specifically are offering new stock, but all the usual suspects are worth looking into.
+
+
+***
+![PlayStation VR2 unboxing: Here's your best look yet at Sony's flagship PSVR2 headset for PS5](https://www.financialexpress.com/wp-content/uploads/2023/02/sony-psvr2-main.jpg "PlayStation VR2 unboxing: Here's your best look yet at Sony's flagship PSVR2 headset for PS5")
+
+
+[PlayStation VR2 unboxing: Here's your best look yet at Sony's flagship PSVR2 headset for PS5](https://www.financialexpress.com/life/technology-playstation-vr2-unboxing-heres-your-best-look-at-sonys-flagship-psvr2-headset-for-ps5-2978815/)
+
+
+> Sony has released an 'unboxing' video of the PlayStation VR2 ahead of its global launch on February 22, 2023. In the video, the company's global product manager Kei Yoneyama is seen unboxing a retail unit of the upcoming VR headset showing off the complete packaging inside out. The biggest takeaway is the simplicity. The PSVR2 is a relatively less cluttered affair than the original PSVR from 2016. The box is more sustainable, too, and can be used to store the hardware safely when not in use. PlayStation VR2: What's in the box and how to use? The PSVR2 will ship with the VR headset and cable to connect with the PS5 (Sony has confirmed the new headset won't work with the older PS4), a pair of Sense wireless controllers with straps and cable for pairing and charging, and stereo headphones with three pairs of earpieces.
+
+
+***
+![Elon Musk vows to remove 'corrupt' legacy verified blue checks from Twitter](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/2023-01-14t184914z_1914492370_rc2hqy9ltw9m_rtrmadp_3_twitter-layoffs_3-sixteen_nine.jpg "Elon Musk vows to remove 'corrupt' legacy verified blue checks from Twitter")
+
+
+[Elon Musk vows to remove 'corrupt' legacy verified blue checks from Twitter](https://www.businesstoday.in/technology/news/story/elon-musk-vows-to-remove-corrupt-legacy-verified-blue-checks-from-twitter-369870-2023-02-11)
+
+
+> Elon Musk has hinted that the legacy blue 'verified' checkmark system on Twitter will soon be abolished. Twitter currently distinguishes between free and paid blue checks with a message saying, 'This is a legacy verified account. It may or may not be notable.' The blue check system, popularly known as 'verification', is a feature that allows users to distinguish between real and fake accounts. It shows that the person behind the account is a real person and not a bot or automated program. The feature has been around since 2009.
+
+
+***
+![This is the Mitsubishi XFC Concept, Very Similar!](https://awsimages.detik.net.id/api/wm/2023/02/11/mitsubishi-xfc-concept-tertangkap-kamera-tengah-diuji-di-jalan-tol-3_169.png?wid=54&w=650&v=1&t=jpeg "This is the Mitsubishi XFC Concept, Very Similar!")
+
+
+[This is the Mitsubishi XFC Concept, Very Similar!](https://www.world-today-news.com/this-is-the-mitsubishi-xfc-concept-very-similar/)
+
+
+> Jakarta – Even though it has been made so that it doesn't really look like its original form, with a camouflage appearance. It is believed that the camouflage car caught crossing the toll road is the Mitsubishi XFC Concept. As stated in the YouTube video from the Sigitmedianet account, which firmly believes that this camouflage car is a form of the Mitsubishi XFC Concept. Even in the video, he said that this camouflage car is very similar to the Mitsubishi XFC Concept. 'I don't know if Mitsubishi will introduce it using what name, whether it's Eclipse Cross or something else,' said the Sigitmedianet YouTube video.
+
+
+***
+![Nintendo shares a new round of The Legend of Zelda: Tears of the Kingdom artwork](https://gonintendo.com/attachments/image/23104/file/medium-e8443a3ded8a27a579634c018ba12d09.jpg "Nintendo shares a new round of The Legend of Zelda: Tears of the Kingdom artwork")
+
+
+[Nintendo shares a new round of The Legend of Zelda: Tears of the Kingdom artwork](https://gonintendo.com/contents/16141-nintendo-shares-a-new-round-of-the-legend-of-zelda-tears-of-the-kingdom-artwork)
+
+
+> New, mysterious artwork to ponder Nintendo gave us a new trailer and screens for The Legend of Zelda: Tears of the Kingdom this week, but it appears they're not done with the promotional efforts just yet. Nintendo has been sharing some character art for The Legend of Zelda: Tears of the Kingdom on social media, and the pieces they've published certainly bring up a whole bunch of questions. There's no doubt Nintendo knows what they're doing, and they want fans to get talking about what these pieces mean.
+
+
+***
+![What happens when you report someone on Facebook Messenger](https://es.moyens.net/wp-content/uploads/2023/02/1676103849_Que-sucede-cuando-denuncias-a-alguien-en-Facebook-Messenger.jpg "What happens when you report someone on Facebook Messenger")
+
+
+[What happens when you report someone on Facebook Messenger](https://www.world-today-news.com/what-happens-when-you-report-someone-on-facebook-messenger/)
+
+
+> Being the largest social media platform in the world, Facebook comes with several privacy tools to report harassment, restrict the recipient, and prevent others from looking at your account. Anyone can become a target of cyberbullying, scammers, and impersonators. If you are among them, please report such accounts on Facebook Messenger. Sometimes your disgruntled employees or customers may abuse or harass you on the platform. While blocking an account resolves the issue, we recommend reporting abusers to Facebook.
+
+
+***
+!['eBiobots' run with the muscles of mice](https://www.computerworld.ch/img/1/6/9/4/1/4/3/eBiobot_w1200_h630.jpg "'eBiobots' run with the muscles of mice")
+
+
+['eBiobots' run with the muscles of mice](https://www.world-today-news.com/ebiobots-run-with-the-muscles-of-mice/)
+
+
+> 'eBiobots' are the first hybrid robots that can be precisely remotely controlled. In this case, hybrid means that biological elements – tissue from mouse muscles for propulsion – and electronics are linked. The steerable biobots have researchers of the University of Illinois Urbana-Champaign and the Northwestern University developed. 'These electronic biobots and machines can be useful for many medical, sensory and environmental applications in the future,' says Rashid Bashir from the university in Urbana-Champaign.
+
+
+***
+![Pokémon Masters EX 'Kalos Villain Event' set for Feb. 13th, 2023](https://gonintendo.com/attachments/image/23103/file/medium-ae2c3c1ba40edf51d638db9f7617ec2a.jpg "Pokémon Masters EX 'Kalos Villain Event' set for Feb. 13th, 2023")
+
+
+[Pokémon Masters EX 'Kalos Villain Event' set for Feb. 13th, 2023](https://gonintendo.com/contents/16140-pokemon-masters-ex-kalos-villain-event-set-for-feb-13th-2023)
+
+
+> The next event for Pokémon Masters EX has been announced, and it's set to kick off on February 13th, 2023. Pokémon Masters EX fans, get ready for the Kalos Villain Event, which will introduce the Sync Pairs of Lysandre & Volcanion, Emma & Crobat and Anabel & Snorlax. You can get an early look at what this event has to offer with the trailer above. More details on the Kalos Villain Event will be shared as we get closer to things kicking off. modal#open commentUpvoteInfoModal.open@docume
+
+
+***
+![Norovirus Surging, 225 Outbreaks In U.S. This Season Per CDC](https://www.mccourier.com/wp-content/uploads/2023/02/Norovirus-Surging-225-Outbreaks-In-US-This-Season-Per-CDC.jpg "Norovirus Surging, 225 Outbreaks In U.S. This Season Per CDC")
+
+
+[Norovirus Surging, 225 Outbreaks In U.S. This Season Per CDC](https://www.mccourier.com/norovirus-surging-225-outbreaks-in-u-s-this-season-per-cdc/)
+
+
+> Instances have been surging within the U.Okay., too. A February 9 report from the U.Okay. Well being Safety Company … [+] (UKHSA) indicated that norovirus instances within the U.Okay. have been 66% increased than the standard common for this time of the yr. (Picture Getty) Getty Right here's some doubtlessly explosive information which may be exhausting to abdomen. Norovirus, you already know that so-called 'abdomen virus' that may trigger projectile vomiting and explosive diarrhea, has been having fairly a run in each the U.
+
+
+***
+![What is automation and what do you need?](https://www.aerospacemanufacturinganddesign.com/fileuploads/image/2023/02/09/022323_automation_roundtable_news_item_948x533_with_date.jpg "What is automation and what do you need?")
+
+
+[What is automation and what do you need?](https://www.aerospacemanufacturinganddesign.com/news/automation-needs-in-manufacturing-webinar/)
+
+
+> https://gie-net.zoom.us/webinar/register/WN_x32D6FvtROGEipyE2TyRTg GIE Media Posted by Elizabeth Engler Modic | February 11, 2023 Automation Design/Automation
+
+
+***
+![Reminder: Pikmin Bloom Feb. 2023 Community Day takes place today](https://gonintendo.com/attachments/image/23102/file/medium-d88d122f10fada095cf2795c2db8cd16.png "Reminder: Pikmin Bloom Feb. 2023 Community Day takes place today")
+
+
+[Reminder: Pikmin Bloom Feb. 2023 Community Day takes place today](https://gonintendo.com/contents/16139-reminder-pikmin-bloom-feb-2023-community-day-takes-place-today)
+
+
+> Here's a reminder for all the Pikmin Bloom fans out there today. This month, Big Flowers in Pikmin Bloom will be blooming into plum blossoms, and you can fill the world around you with these pretty flowers with today's Community Day! The event runs all-day, so you have 24 hours to get out there and log your 10k steps. Big Flowers will bloom into plum blossoms when you plant regular blue, red, yellow, or white petals around them (Each Big Flower will bloom for 3 hours only). Players achieving the 10,000 step goal on this day will be awarded a special White Plum Blossom Flower Badge.
+
+
+***
+![Reminder: Pokémon GO Luvdisc Limited Research Day takes place today](https://gonintendo.com/attachments/image/23101/file/medium-2052f2841b76ff8bbc0efea6830acacb.jpg "Reminder: Pokémon GO Luvdisc Limited Research Day takes place today")
+
+
+[Reminder: Pokémon GO Luvdisc Limited Research Day takes place today](https://gonintendo.com/contents/16138-reminder-pokemon-go-luvdisc-limited-research-day-takes-place-today)
+
+
+> Here's a reminder for all the Pokémon GO Trainers out there. Today is the Luvdisc Limited Research Day, which runs from 2:00 p.m. to 5:00 p.m. local time. Limited Field Research tasks will be available during this event when you spin Photo Discs at PokéStops. Complete them to encounter Luvdisc! Along with that, the following Pokémon will appear more frequently in the wild. Slowpoke Lickitung Miltank Lileep Feebas Spritzee Fomantis Alomomola modal#open commentUpvoteInfoModal.
+
+
+***
+![The love between BMW and Samsung has created a special S23 Ultra](https://www.svetandroida.cz/media/2023/02/samsung-galaxy-s23-ultra-bmw-m.jpg "The love between BMW and Samsung has created a special S23 Ultra")
+
+
+[The love between BMW and Samsung has created a special S23 Ultra](https://www.world-today-news.com/the-love-between-bmw-and-samsung-has-created-a-special-s23-ultra/)
+
+
+> Special edition phones are not uncommon, and collaborations between brands also work across different industries. An example could be the merger between OnePlus and Mercedes, but even the Munich rival didn't let the special editions of the iQOO phones put them to shame. Now it joins forces with Samsung, resulting in a special edition of the flagship Galaxy S23 Ultra. Unfortunately, the chances of buying in the Czech Republic are close to zero. Samsung Galaxy S23 Ultra BMW M Edition is a limited edition that will be available from South Korean operator SK Telecom.
+
+
+***
+![Google launches new Cloud tool to help mixed reality developers](https://aniportalimages.s3.amazonaws.com/media/details/ANI-20230211091126.jpg "Google launches new Cloud tool to help mixed reality developers")
+
+
+[Google launches new Cloud tool to help mixed reality developers](https://www.aninews.in/news/tech/others/google-launches-new-cloud-tool-to-help-mixed-reality-developers20230211150707)
+
+
+> ANI | Updated: Feb 11, 2023 15:07 IST Washington [US], February 11 (ANI): American tech giant Google wants to make it easier for others to make powerful mixed reality experiences with the official release of a new Google Cloud tool, Immersive Stream for XR. The Verge, an American technology news website, has reported that according to a blog post the tool lets users scan a QR code or click a link to access a mixed reality experience, and behind the scenes, Google Cloud GPUs will host, render, and stream those experiences to the device.
+
+
+***
+![What is ChatGPT? What to know about the AI chatbot that will power Bing](https://images.livemint.com/img/2023/02/11/600x338/CHATGPT_1676107707778_1676107707947_1676107707947.JPG "What is ChatGPT? What to know about the AI chatbot that will power Bing")
+
+
+[What is ChatGPT? What to know about the AI chatbot that will power Bing](https://www.wsj.com/articles/what-is-chatgpt-what-to-know-about-the-ai-chatbot-that-will-power-microsoft-bing-11675865177)
+
+
+> Within weeks of its launch, OpenAI‘s ChatGPT triggered a new global race in artificial intelligence. The chatbot is part of a fresh wave of so-called generative AI—sophisticated systems that produce content from text to images—that is set to be one of the most disruptive forces in a decade to Big Tech, industries and the future of work.
+
+
+***
+![What is ChatGPT? What to know about the AI chatbot that will power Bing](https://images.livemint.com/img/2023/02/11/600x338/CHATGPT_1676107707778_1676107707947_1676107707947.JPG "What is ChatGPT? What to know about the AI chatbot that will power Bing")
+
+
+[What is ChatGPT? What to know about the AI chatbot that will power Bing](https://www.livemint.com/technology/apps/what-is-chatgpt-what-to-know-about-the-ai-chatbot-that-will-power-microsoft-bing-11676107396930.html)
+
+
+> 7 min read . 03:02 PM IST The Wall Street Journal A keyboard is seen reflected on a computer screen displaying the website of ChatGPT, an AI chatbot from OpenAI OpenAI's chatbot has triggered a new artificial-intelligence race and may reshape the future of work Within weeks of its launch, OpenAI‘s ChatGPT triggered a new global race in artificial intelligence. The chatbot is part of a fresh wave of so-called generative AI—sophisticated systems that produce content from text to images—that is set to be one of the most disruptive forces in a decade to Big Tech, industries and the future of work.
+
+
+***
+![Popularity continues with the surprise release of Metroid Prime Remastered](https://www.chip.de/ii/1/2/6/7/2/2/2/5/2/Galeria_karstadt_kaufhof-bdadd1612388c04d.jpg "Popularity continues with the surprise release of Metroid Prime Remastered")
+
+
+[Popularity continues with the surprise release of Metroid Prime Remastered](https://www.world-today-news.com/popularity-continues-with-the-surprise-release-of-metroid-prime-remastered/)
+
+
+> Following the hi-fi rush, the surprise release of the game on the day of release is once again receiving accolades. On the 10th, the Metacritic and Opencritic scores of Metroid Prime Remastered were released. Metascore 95 points, user score 9.1 points, Open Critic rose to 96 points, recording outstanding scores. Metroid Prime Remastered is a remastered version of Metroid Prime released in 2002. The original work received favorable reviews for its unique perspective and UI that utilized the characteristics of the first person as its identity, and well melted the characteristics of the Metroid series, which were implemented in 2D, into 3D.
+
+
+***
+![Indian employers on LinkedIn looking for candidates who can work with ChatGPT, create automated content](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/screenshot_2023-02-11_at_2.56.01_pm-sixteen_nine-original.png "Indian employers on LinkedIn looking for candidates who can work with ChatGPT, create automated content")
+
+
+[Indian employers on LinkedIn looking for candidates who can work with ChatGPT, create automated content](https://www.indiatoday.in/technology/news/story/indian-employers-on-linkedin-looking-for-candidates-who-can-work-with-chatgpt-create-automated-content-2333449-2023-02-11)
+
+
+> Story highlights Some Indian employers have already started looking for candidates with expertise in ChatGPT. As of Saturday, three employers on LinkedIn had posted content writing jobs with ChatGPT as an important skill. ChatGPT's popularity can be attributed to its ability to understand human language and generate natural-sounding responses. ChatGPT has taken the world by storm. While some see it as a foe, others are happy to form an alliance with the new AI chatbot, which is giving sleepless nights to Google.
+
+
+***
+![Spesifikasi PC Game Clash: Artifacts of Chaos](https://dafunda.com/wp-content/uploads/2023/02/Spesifikasi-PC-Clash-Artifacts-of-Chaos-1.jpg "Spesifikasi PC Game Clash: Artifacts of Chaos")
+
+
+[Spesifikasi PC Game Clash: Artifacts of Chaos](https://www.world-today-news.com/spesifikasi-pc-game-clash-artifacts-of-chaos/)
+
+
+> This time, Dafunda Game will share information regarding Clash PC Specifications: Artifacts of Chaos and other complete information about this game. Clash: Artifacts of Chaos offers a unique blend of player exploration and unarmed combat. Players will develop friendships with weak creatures to then protect them from mercenaries. In this game, you will play Pseudo, a martial arts expert who lives as a hermit in the foreign land of Zenozoik. video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"> When you meet Boy, a small creature whose mysterious power has attracted the attention of Gemini, the Artifact Owner.
+
+
+***
+![GoDaddy lays off 8% of workforce, CEO Aman Bhutani lays out the transition package](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/godaddy_660_080319043441-sixteen_nine.jpg "GoDaddy lays off 8% of workforce, CEO Aman Bhutani lays out the transition package")
+
+
+[GoDaddy lays off 8% of workforce, CEO Aman Bhutani lays out the transition package](https://www.businesstoday.in/technology/news/story/godaddy-lays-off-8-of-workforce-ceo-aman-bhutani-lays-out-the-transition-package-369865-2023-02-11)
+
+
+> GoDaddy CEO Aman Bhutani recently announced a restructuring of the company, which includes layoffs of 8% of the workforce. The layoffs come amid challenging macroeconomic conditions due to the prolonged effects of the pandemic as well as the rising inflation. Every division and numerous levels of the organisation are affected by the layoffs with the majority of the affected people in the US. The layoffs are part of a larger reorganization effort to enable GoDaddy to continue providing innovative solutions and services while remaining competitive in the shifting global economy.
+
+
+***
+![Honor X8a unveiled with a 100MP camera and a cheap price](https://technologianews.com/wp-content/uploads/2023/02/honor.jpg "Honor X8a unveiled with a 100MP camera and a cheap price")
+
+
+[Honor X8a unveiled with a 100MP camera and a cheap price](https://www.world-today-news.com/honor-x8a-unveiled-with-a-100mp-camera-and-a-cheap-price/)
+
+
+> Honor officially unveiled its latest affordable phone, the Honor X8a, which belongs to the category of low-priced entry-level phones, however the company provided it with a 100-megapixel camera and a set of good specifications. Honor X8a technical specifications The new phone comes with a 6.7-inch LCD screen with FHD + resolution, with a refresh rate of up to 90 Hz, which is a good refresh rate in this category of phones, as it allows the phone to run many modern games. Inside, Honor has added a MediaTech chipset, the Helio G88, that will work in tandem with 6 or 8 GB of RAM and 128 GB of internal storage.
+
+
+***
+![Is Apple planning to limit iPhone USB-C functionality? Find out](https://aniportalimages.s3.amazonaws.com/media/details/ANI-20230211082652.jpg "Is Apple planning to limit iPhone USB-C functionality? Find out")
+
+
+[Is Apple planning to limit iPhone USB-C functionality? Find out](https://www.aninews.in/news/tech/mobile/is-apple-planning-to-limit-iphone-usb-c-functionality-find-out20230211144103)
+
+
+> ANI | Updated: Feb 11, 2023 14:41 IST Washington [US], February 11 (ANI): Due to the new EU regulations coming into effect next year, Apple has no choice but to adopt the USB-C port for its iPhones finally. However, as it happens a lot of times with Apple , there's apparently a twist.According to GSM Arena, a tech-news-related website, a new rumour suggests that the company is planning on using a custom integrated circuit (IC) interface for the port, which would allow it to authenticate the parts involved in the connection.
+
+
+***
+![These Xiaomi mobile phones are now getting MIUI 14 (Android 13) stable update](https://www.gizchina.com/wp-content/uploads/images/2023/01/MIUI-14-2-1200x675.jpg "These Xiaomi mobile phones are now getting MIUI 14 (Android 13) stable update")
+
+
+[These Xiaomi mobile phones are now getting MIUI 14 (Android 13) stable update](https://www.gizchina.com/2023/02/11/these-xiaomi-mobile-phones-are-now-getting-miui-14-android-13-stable-update/)
+
+
+> Chinese manufacturing giant, Xiaomi, regularly releases updates for its mobile phones. The latest MIUI 14 Android skin is now available for most of its flagships. However, the company is still releasing the Android 13 version of MIUI 14 for some of its devices. A recent feedback from users reveals that a couple of Xiaomi phones are now getting the MIUI 14 update on top of Android 13. Some of the devices getting this update includes Xiaomi 11 Pro , Redmi K40, Xiaomi Mi 10S and Xiaomi Civi 1. The version number for the different models is different but the update content is roughly the same.
+
+
+***
+![Content update for February 11th, 2023 on two mobile games](https://gonintendo.com/attachments/image/23100/file/medium-7394e7d4e9c72efe3065919ece204cc3.jpg "Content update for February 11th, 2023 on two mobile games")
+
+
+[Content update for February 11th, 2023 on two mobile games](https://gonintendo.com/contents/16137-content-update-for-february-11th-2023-on-two-mobile-games)
+
+
+> Nintendo mobile games Fire Emblem Heroes and Animal Crossing: Pocket Camp have both received a content update. Check out the full details for each game below via perfectly-nintendo.com . Fire Emblem Heroes [Summoning] A new Summoning Focus is now live: Legendary and Mythic Hero Remix. It features the following Heroes: Ryoma (Supreme Samurai), Roy (Blazing Lion), Chrom (Crowned Exalt), Julia (Crusader of Light), Thrasir (Omnicidal Witch), Alm (Saint-King), Tiki (Fated Divinity), and Byleth (Sublime Light) (available until February 25th) [Summoning] A new Summoning Focus is now live: Legendary and Mythic Hero Remix 2.
+
+
+***
+![Distance and proximity analysis in Python](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Distance and proximity analysis in Python")
+
+
+[Distance and proximity analysis in Python](https://www.reddit.com/r/Python/comments/10zgpro/distance_and_proximity_analysis_in_python)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![It's cool? Deputies question end of account sharing on Netflix](https://pplware.sapo.pt/wp-content/uploads/2023/02/netflix_logo_2.jpg "It's cool? Deputies question end of account sharing on Netflix")
+
+
+[It's cool? Deputies question end of account sharing on Netflix](https://www.world-today-news.com/its-cool-deputies-question-end-of-account-sharing-on-netflix/)
+
+
+> The change in Netflix account sharing rules has been causing a real wave of revolt among users in Portugal. This is a change imposed by the service and that could lead to it becoming more expensive. Now, a group of deputies is questioning whether the change that Netflix is ​​applying will be legal. Deputies question change in bills To end account sharing, Netflix changed the rules of use in Portugal, Spain, New Zealand and Canada. Members can now be added to an account, which in the case of our country will have an additional cost of 3.
+
+
+***
+![Miami-Dade County Announces Funding For New Aviation Career Training Center](https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2023/02/shutterstock_2152885469.jpg "Miami-Dade County Announces Funding For New Aviation Career Training Center")
+
+
+[Miami-Dade County Announces Funding For New Aviation Career Training Center](https://newsakmi.com/travel-news/miami-dade-county-announces-funding-for-new-aviation-career-training-center/)
+
+
+> The Miami-Dade Board of County Commissioners will open a new aviation career training center, Barrington Irving Technical Training School, for those looking to enter the industry. Unlike those targeted at pilots , cabin crew, or airport staff, the new center will target the ever-growing need for business aviation executives for jobs across airlines and associated providers. The new facility will be located on the premises of Miami-Opa locka Executive Airport. The future of the industry On Wednesday, Miami-Dade Board of County Commissioners Chairman Oliver G.
+
+
+***
+![Microsoft Bing vs Google Bard: who's winning the AI chatbot fight?](https://cdn.mos.cms.futurecdn.net/yD3aHzCHQW8HdcCzDt85ma-1200-80.jpg "Microsoft Bing vs Google Bard: who's winning the AI chatbot fight?")
+
+
+[Microsoft Bing vs Google Bard: who's winning the AI chatbot fight?](https://www.techradar.com/features/microsoft-bing-vs-google-bard-whos-winning-ai-powered-search)
+
+
+> How do I try AI-powered search? (Image credit: Microsoft) Of the two big hitters, only Microsoft's new AI-powered Bing is open to the public. Google says its Bard chatbot is currently with 'trusted testers' and will be opened up in the "coming weeks". To get on the new Bing waiting list, open up Bing (opens in new tab) in your browser and click on the Chat icon. Or check out our guide on how to use the new Bing search engine powered by ChatGPT . Alternatively, try other AI-powered search tools like Neeva (opens in new tab) or Perplexity (opens in new tab) .
+
+
+***
+![Google Bard chatbot makes mistake, incurs a USD 100 billion loss for Alphabet](https://images.prestigeonline.com/wp-content/uploads/sites/6/2023/02/10183019/google-bard-fi.jpeg "Google Bard chatbot makes mistake, incurs a USD 100 billion loss for Alphabet")
+
+
+[Google Bard chatbot makes mistake, incurs a USD 100 billion loss for Alphabet](https://www.lifestyleasia.com/sg/gear/tech/google-bard-takes-on-chatgpt/)
+
+
+> Google released its own artificial intelligence (AI) chatbot named Bard on 6 February. Bard is Google's attempt at taking on ChatGPT – the widely used chatbot developed by Microsoft-backed OpenAI. But a factual error made by it has led to a massive loss in market value for Google's parent company Alphabet. Google's chatbot comes at a time when there is an increased reliance on AI for queries as diverse as generating poems to writing code and producing art. More about Google Bard and what it aims to do Open to testers, will be available to public later Image credit: Google Writing in an official blog , Sundar Pichai, CEO of Google and Alphabet, said that Bard will be opened 'to trusted testers ahead of making it more widely available to the public in the coming weeks.
+
+
+***
+![iPhone Ultra: Apple may be working on its most expensive iPhone yet](https://images.prestigeonline.com/wp-content/uploads/sites/5/2023/02/09223014/tyler-lastovich-e31and1pxuw-unsplash-scaled-1-1-e1676000139582.jpeg "iPhone Ultra: Apple may be working on its most expensive iPhone yet")
+
+
+[iPhone Ultra: Apple may be working on its most expensive iPhone yet](https://www.augustman.com/hk/gear/tech/iphone-ultra-what-we-know-so-far/)
+
+
+> html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd" If they can't jack up the prices anymore, why not come up with a new model that's even pricier? iPhone Ultra is rumoured to be in the works right now. Every year, Apple comes out with a new model for its flagship device, the iPhone. In 2023 fans of the tech giant are anticipating the release of the iPhone 15, along with the iPhone 15 Pro and the iPhone 15 Pro Max. While we can expect Apple to roll out these new models later this year, there is quite a bit of chatter about a new iPhone Ultra that might be in development for a 2024 release.
+
+
+***
+![Allowing crypto farms to continue running is madness](https://media.itpro.co.uk//image/upload/f_auto,t_resource-card-mobile@1/v1666696461/itpro/Whitepaper%20covers/2022_Strategic_roadmap_for_data_security_platform_convergence_thumb.png "Allowing crypto farms to continue running is madness")
+
+
+[Allowing crypto farms to continue running is madness](https://www.itpro.co.uk/technology/cryptocurrencies/369982/allowing-crypto-farms-to-continue-running-is-madness)
+
+
+> IT Pro is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission. Learn more I don't like cryptocurrencies, so it's safe to say watching not just Bitcoin but a large bucket of other cryptocurrencies sustain a $9 billion crash in the late summer of 2022 ignited a frisson of schadenfreude. The implosion , part of the ongoing crypto winter, might have even forced formerly optimistic traders into wondering if this was the beginning of the end.   After a few minutes of prodding and poking at the less hysterical regions of the net, I had some actual answers.
+
+
+***
+![Epic Games releases Postparty, a Fortnite video-sharing app](https://www.elakhbar-gate.com/wp-content/uploads/2023/02/AVAILO-Mobile-Sizes-320-200.png "Epic Games releases Postparty, a Fortnite video-sharing app")
+
+
+[Epic Games releases Postparty, a Fortnite video-sharing app](https://www.world-today-news.com/epic-games-releases-postparty-a-fortnite-video-sharing-app/)
+
+
+> On Thursday, Epic Games announced the launch of its new app, Postparty, which allows players to share clips from the game Fortnite. And the company said in a post on its blog: 'With the new Post Party application for mobile phones, record clips of your gameplay in Fortnite on PlayStation, Xbox, Nintendo Switch, and personal computers, then watch the clips and share them on social networks.' She added that users can also save clips to mobile phones. After downloading the Post Party application from the App Store for iOS users, and from the Google Play Store for Android users, you can subscribe to the application using your Epic Games account.
+
+
+***
+![Apple Is Back at It: Plans to Limit Functionality of iPhone 15!](https://www.gizchina.com/wp-content/uploads/images/2023/02/Apple-iPhone-15-design-1200x675.png "Apple Is Back at It: Plans to Limit Functionality of iPhone 15!")
+
+
+[Apple Is Back at It: Plans to Limit Functionality of iPhone 15!](https://www.gizchina.com/2023/02/11/apple-is-back-at-it-plans-to-limit-functionality-of-iphone-15/)
+
+
+> We have had many rumors about Apple shifting to USB-C on the iPhone 15 lineup. This major step came to be thanks to the new EU regulations, which are about to come into full effect starting next year. But Apple is Apple. When it is forced to do something, its work always has a caveat. So, what is the twist? Well, a new rumor came out of China. It states that Apple is planning to use a custom integrated circuit for the USB-C port of the iPhone 15 series. And with that in place, iPhones with USB-C ports might only allow the parts that Apple authorizes.
+
+
+***
+![Ford and CATL Plan to Build a Traction Battery Facility in Michigan](https://3dnews.ru/assets/external/illustrations/2023/02/11/1081813/catl_01.jpg "Ford and CATL Plan to Build a Traction Battery Facility in Michigan")
+
+
+[Ford and CATL Plan to Build a Traction Battery Facility in Michigan](https://tekdeeps.com/ford-and-catl-plan-to-build-a-traction-battery-facility-in-michigan/)
+
+
+> For a long time, it was believed that the US authorities would not allow the Chinese giant CATL, which now controls 37% of the world's production of lithium batteries for electric vehicles, to master the production of such products in the United States. Apparently, with the support of a partner in the face of Ford Motor, such a project can be implemented in Michigan. At least, this was reported by the agency, citing its own informed sources. Bloomberg. West of Detroit, a joint venture between Ford and CATL to produce traction batteries for electric vehicles will provide jobs for about 2,500 local residents.
+
+
+***
+![Apple explains why you should buy the iPhone 14 and not the iPhone 13 Pro](https://appleinsider.ru/wp-content/uploads/2023/02/apple_suggest_iphone_14_head-750x463.png "Apple explains why you should buy the iPhone 14 and not the iPhone 13 Pro")
+
+
+[Apple explains why you should buy the iPhone 14 and not the iPhone 13 Pro](https://tekdeeps.com/apple-explains-why-you-should-buy-the-iphone-14-and-not-the-iphone-13-pro/)
+
+
+> With the release of the iPhone 14 line last year, Apple decided to save some money and equipped the base models of the iPhone 14 and iPhone 14 Plus with the same processor as the iPhone 13 Pro and iPhone 13 Pro Max received a year earlier. power reserve Apple A15 Bionic really such that it can be safely used in several generations of smartphones and not worry that they will slow down. And it seems that, in terms of the combination of characteristics, the iPhone 13 Pro will be more interesting than the novelty.
+
+
+***
+![The Chinese version of OnePlus 11 is blocked in Russia. How to solve a problem?](https://www.iguides.ru/upload/medialibrary/a97/2893x948czuav3hafpq02c4kd0m1xhv3.png "The Chinese version of OnePlus 11 is blocked in Russia. How to solve a problem?")
+
+
+[The Chinese version of OnePlus 11 is blocked in Russia. How to solve a problem?](https://tekdeeps.com/the-chinese-version-of-oneplus-11-is-blocked-in-russia-how-to-solve-a-problem/)
+
+
+> According to Mobiltelefon, the Chinese version of the OnePlus 11 smartphone has begun to be blocked in Russia and some other countries (except, of course, China). The blocking alert appears on the main screen. The functionality of a smartphone after such a 'letter of happiness' is severely limited – for example, it becomes impossible to make calls. The owner of the device is invited to contact the seller for a solution to the problem. Complaints about the blocking of the Chinese version of OnePlus 11 outside of China come from other countries, for example, from India.
+
+
+***
+![New update available for My Hero One's Justice 2, adds new costumes for Izuku Midoriya and Tomura Shigaraki](https://gonintendo.com/attachments/image/23093/file/medium-c3c15df22ac3c3aab0132b7c20bff49a.png "New update available for My Hero One's Justice 2, adds new costumes for Izuku Midoriya and Tomura Shigaraki")
+
+
+[New update available for My Hero One's Justice 2, adds new costumes for Izuku Midoriya and Tomura Shigaraki](https://gonintendo.com/contents/16136-new-update-available-for-my-hero-one-s-justice-2-adds-new-costumes-for-izuku)
+
+
+> Bandai Namco has released a new update for My Hero One's Justice 2 , which ties in with the events of season 6 of the anime. Check out all the details of this update below. Iconic new costumes for Izuku Midoriya and Tomura Shigaraki, who battled in season 6 of the anime, will be made available to download for free. This is your chance to use the characters from the anime, and engage in intense battles of your own in My Hero One's Justice 2! 'Izuku Midoriya Costume ε' ​The hero costume worn by Izuku after he leaves U.
+
+
+***
+![AI chatbots will "complement" human connection, not replace it](https://assets.thehansindia.com/h-upload/2023/02/11/1335350-reddit.jpg "AI chatbots will "complement" human connection, not replace it")
+
+
+[AI chatbots will "complement" human connection, not replace it](https://www.thehansindia.com/technology/tech-news/ai-chatbots-will-complement-human-connection-not-replace-it-reddit-782359)
+
+
+> Reddit doesn't appear to be overly concerned about AI-powered conversational chatbots like the one's Google and Microsoft revealed this week, according to a statement the company shared with The Verge. Switching from traditional search to ChatGPT -like bots could erase the strategy of adding "Reddit" to your searches to find human-sourced information rather than SEO-optimized junk. But Reddit believes that chatbots won't replace real human connection. "AI chatbot technologies are still new and something we're exploring and keeping our eyes on," said Reddit spokesperson Nick Singer.
+
+
+***
+![Vitamin selection platform Vitobox acquires 30% of beverage company Goatea](https://media.rbcdn.ru/media/news/1_o8wgHUT.jpg "Vitamin selection platform Vitobox acquires 30% of beverage company Goatea")
+
+
+[Vitamin selection platform Vitobox acquires 30% of beverage company Goatea](https://tekdeeps.com/vitamin-selection-platform-vitobox-acquires-30-of-beverage-company-goatea/)
+
+
+> Vitamin matching platform Vitobox has acquired a 30% stake in nano-emulsion beverage company Goatea. The deal amounted to $1 million, the companies plan to create co-branded products and jointly expand the distribution market. Vitamin selection platform Vitobox acquires 30% of beverage company Goatea The transaction took place on February 1, 2023, a spokesman for Vitobox said. The platform bought a 30% stake in Goatea for $1 million. Vitobox and Goatea plan to create co-branded products for their offline distribution.
+
+
+***
+![AI is the next frontier — but for whom?](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-10-1630240.jpg "AI is the next frontier — but for whom?")
+
+
+[AI is the next frontier — but for whom?](http://www.businessghana.com/site/news/technology/279753/AI-is-the-next-frontier-%E2%80%94-but-for-whom)
+
+
+> A few weeks ago, a founder told me it took three hours of endless clicking to find an AI-generated portrait of a Black woman. It reminded me, in some ways, of a speech I saw three years ago when Yasmin Green, the then-director of research and development for Jigsaw, spoke about how human bias seeps into the programming of AI. Her talk and this founder, miles away and years apart, are two pieces of the same puzzle. Discussions about diversity are more important than ever as AI enters a new golden era.
+
+
+***
+![India lifts ban on PayU's LazyPay and some other lending apps](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-10-16312601.jpg "India lifts ban on PayU's LazyPay and some other lending apps")
+
+
+[India lifts ban on PayU's LazyPay and some other lending apps](http://www.businessghana.com/site/news/technology/279754/India-lifts-ban-on-PayU%E2%80%99s-LazyPay-and-some-other-lending-apps)
+
+
+> India's IT Ministry has lifted the ban on seven high-profile lending apps including PayU's LazyPay, Kissht, KreditBee and Indiabulls Home Loans, according to a person familiar with the matter, providing some relief to the fintech industry that has been reeling with immense scrutiny in recent quarters. On Friday, the IT Ministry also lifted the ban on MPokket, BuddyLoan and Faircent, according to a copy of the order seen by TechCrunch. The ban was lifted after the firms justified that they did not have Chinese investors on their cap tables, the person said.
+
+
+***
+![Google warns of hallucinating chatbots; says AI offers made-up answers: Report](https://images.livemint.com/img/2023/02/11/600x338/google_1674123656733_1676104962108_1676104962108.JPG "Google warns of hallucinating chatbots; says AI offers made-up answers: Report")
+
+
+[Google warns of hallucinating chatbots; says AI offers made-up answers: Report](https://www.livemint.com/technology/google-warns-of-hallucinating-chatbots-says-ai-offers-made-up-answers-report-11676104363259.html)
+
+
+> The boss of Google's search engine has warned against the pitfalls of artificial intelligence in chatbots in a newspaper interview published on Saturday, as Google parent company Alphabet is battling to compete with OpenAI's ChatGPT. "This kind of artificial intelligence we're talking about right now can sometimes lead to something we call hallucination," Prabhakar Raghavan, senior vice president at Google and head of Google Search, told Germany's Welt am Sonntag newspaper. "This then expresses itself in such a way that a machine provides a convincing but completely made-up answer," Raghavan said in comments published in German.
+
+
+***
+![Confused about power adaptor for mac pro mid 2012](https://images.macrumors.com/social/?t=2380389&v=6 "Confused about power adaptor for mac pro mid 2012")
+
+
+[Confused about power adaptor for mac pro mid 2012](https://forums.macrumors.com/threads/confused-about-power-adaptor-for-mac-pro-mid-2012.2380389/)
+
+
+> I just got a 13" mid 2012 mac pro for my 5 year old for his homeschooling. The laptop didn't come with the magsafe charger. I have an L style connector with a 85w magsafe adaptor which came with a 15" 2012 mac pro. This connector fits on the 13" mac pro. However, since the 2012 mac pro takes a 60w charge, I didn't fancy using it for fear of the battery being a fire hazard. Here's where I get a bit confused... I have a 13" mid 2013 mac air which came with a 60w magsafe adapter with a magsafe 2 connector.
+
+
+***
+![Galaxy S23 Ultra vs iPhone 14 Pro Max: Charging and Battery Life Results Will Shock You!](https://www.gizchina.com/wp-content/uploads/images/2023/02/Galaxy-S23-vs-iPhone-14.jpg "Galaxy S23 Ultra vs iPhone 14 Pro Max: Charging and Battery Life Results Will Shock You!")
+
+
+[Galaxy S23 Ultra vs iPhone 14 Pro Max: Charging and Battery Life Results Will Shock You!](https://www.gizchina.com/2023/02/11/galaxy-s23-ultra-vs-iphone-14-pro-max-charging-and-battery-life-results-will-shock-you/)
+
+
+> We pretty much know all about the Galaxy S23 Ultra. And the phone is so great that it has been getting the attention of even Elon Musk . However, there is still some information that is yet to be discovered. For example, how well does the phone stack up against the iPhone 14 Pro in terms of battery life and charging? Well, the results are out. The team behind GSMareana did an in-depth test on the battery life and charging speed of the Galaxy S23 Ultra. And we have all the numbers! Keep on reading to know how the Samsung flagship holds up against the competition.
+
+
+***
+![Google AI Open Sources Vizier](https://www.ghacks.net/wp-content/uploads/2023/02/Google-AI-Open-Sources-Vizier-main.png "Google AI Open Sources Vizier")
+
+
+[Google AI Open Sources Vizier](https://www.ghacks.net/2023/02/11/google-ai-open-sources-vizier)
+
+
+> The one thing I adore about open source software (OSS) is that it's the type of software that allows any one of us to unleash our inner coder skills. Just ensure you've […] Thank you for being a Ghacks reader. The post Google AI Open Sources Vizier appeared first on gHacks Technology News .
+
+
+***
+![Galaxy phones not on this list may miss out on massive Android upgrade](https://iknowallnews.com/wp-content/uploads/2023/02/Galaxy-phones-not-on-this-list-may-miss-out-on-massive-Android-upgrade.jpg "Galaxy phones not on this list may miss out on massive Android upgrade")
+
+
+[Galaxy phones not on this list may miss out on massive Android upgrade](https://iknowallnews.com/technology/galaxy-phones-not-on-this-list-may-miss-out-on-massive-android-upgrade/)
+
+
+> Home » Technology » Galaxy phones not on this list may miss out on massive Android upgrade We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info Android 14 will be the big release from Google this year with it looking set to bring a swathe of improvements to millions of devices across the world. The US technology giant has just released its first developer preview of this new operating system and a full reveal should take place in the coming months.
+
+
+***
+![OnePlus Nord 3 alleged specs leak online](https://fdn.gsmarena.com/imgroot/news/23/02/oneplus-nord-3-specs-leak/-952x498w6/gsmarena_001.jpg "OnePlus Nord 3 alleged specs leak online")
+
+
+[OnePlus Nord 3 alleged specs leak online](https://www.gsmarena.com/oneplus_nord_3_alleged_specs_leak_online-news-57520.php)
+
+
+> This is still largely unconfirmed info, so take it with a grain of salt, but specs have allegedly leaked for an upcoming OnePlus Nord 3. The upcoming phone is said to be rocking a 6.5-inch, FHD+, 120Hz AMOLED display with either a MediaTek Dimensity 8100 or 8200 pushing pixels to said panel. OnePlus Nord 3 Specifications (rumoured) :• 6.5" FHD+ 120Hz Amoled• 50MP OIS + 8MP + Useless• 32MP selfie• 100W charging• 4500mAh or 5000 mAh battery• Mediatek Dimensity 8100 Max or Dimensity 8200 There is a leak saying it'll have 1.
+
+
+***
+![Can Oneplus make a comeback with Oneplus 11 5g?](https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/02/11/snimok-ekrana-2023-01-04-135137_1672830014.jpg "Can Oneplus make a comeback with Oneplus 11 5g?")
+
+
+[Can Oneplus make a comeback with Oneplus 11 5g?](https://www.tbsnews.net/tech/can-oneplus-make-comeback-oneplus-11-5g-583502)
+
+
+> OnePlus has spent the previous few years trying to redefine itself as a manufacturer of flagship phones (and of all categories) rather than a "flagship killer".  Similar to Samsung, OnePlus aimed to provide customers with value products across the board. Customers searching for inexpensive and mid-range choices might choose from a variety of Nord devices. Then came the T smartphones, followed by the R devices with the OnePlus 9 series, which were more affordable than the top flagship models.  Without a question, the company does its best to cram as much as it can into their devices to provide clients a fantastic experience.
+
+
+***
+![Python Ternary: Understanding Syntax, Usage, and Benefits](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Python Ternary: Understanding Syntax, Usage, and Benefits")
+
+
+[Python Ternary: Understanding Syntax, Usage, and Benefits](https://www.reddit.com/r/Python/comments/10zga2l/python_ternary_understanding_syntax_usage_and)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![No more Chrome browser for Windows 7 and Windows 8.1](https://racunalniske-novice.com/wp-content/uploads/2023/02/chrome-3729545_1920-1-1024x683.jpg "No more Chrome browser for Windows 7 and Windows 8.1")
+
+
+[No more Chrome browser for Windows 7 and Windows 8.1](https://tekdeeps.com/no-more-chrome-browser-for-windows-7-and-windows-8-1/)
+
+
+> The Windows 7 and Windows 8.1 operating systems have recently been left without any form of support. This means that outdated operating systems will no longer receive security patches and software upgrades. In addition, users will also be left without technical support. Recently, however, the Windows 7 and Windows 8.1 operating systems were also withdrawn from support by Google. The latest version of the Chrome 110 web browser cannot be installed on outdated operating systems. In addition, the update cannot be installed even on Windows Server 2012 and Windows Server 2012 R2 server operating systems.
+
+
+***
+![Does the PSVR 2 support over ear headphones?](https://www.gizchina.com/wp-content/uploads/images/2023/02/PSVR-2-1200x675.jpg "Does the PSVR 2 support over ear headphones?")
+
+
+[Does the PSVR 2 support over ear headphones?](https://www.gizchina.com/2023/02/11/does-the-psvr-2-support-over-ear-headphones/)
+
+
+> As the launch date of the PlayStation VR draws closer, there are now some reviews of this device. Sony has sent out a couple of review units and there is now salient information about the device. Following reviews of the PSVR 2, several questions are now being asked. One popular question is whether or not users can wear glasses with them. This device comes with its own earbud that perfectly fits with the bottom of the headband. However, many buyers may already have a favorite pair of headphones.
+
+
+***
+![What are you going to play this weekend?](https://www.muycomputer.com/wp-content/uploads/2023/02/elden-ring.jpg "What are you going to play this weekend?")
+
+
+[What are you going to play this weekend?](https://tekdeeps.com/what-are-you-going-to-play-this-weekend-3/)
+
+
+> The weekend is one of the best times of the week to do things that we have not had time to do in previous days due to work, studies or both. Playing is, in my case, one of those things, and it's that normally I can only get some time out late at night, and I'm usually so tired that I rarely enjoy it as I would like. To be honest, even on the weekend I can't play as much as I'd like, since adult life comes with other responsibilities and other things that, in the end, end up forcing you to leave those hobbies that you love a little more in the background.
+
+
+***
+![10 useful tricks to extend the battery life of your iPhone and iPad](https://ipadizate.com/hero/2023/02/iphone-durante-evento-de-apple.jpg?width=768&aspect_ratio=16:9&format=nowebp "10 useful tricks to extend the battery life of your iPhone and iPad")
+
+
+[10 useful tricks to extend the battery life of your iPhone and iPad](https://tekdeeps.com/10-useful-tricks-to-extend-the-battery-life-of-your-iphone-and-ipad/)
+
+
+> Do you feel that the battery of your iPhone no longer lasts the same? Here we explore 10 tricks to help you save and squeeze the usage out of your device. join the conversation Las new iOS updates are full of news, from time to time in between important features are also released. In each period of time be it short or long it can be perceived that the battery of our device is not the same. With iOS 16 it did not go unnoticed, many users waited for the update within a more consolidated stage, until now iOS 16.
+
+
+***
+![How it works, tips to improve your reach](https://i0.wp.com/geeksroom.com/wp-content/uploads/2023/02/netgear-wifi-router.jpg?resize=680,503&is-pending-load=1#038;ssl=1 "How it works, tips to improve your reach")
+
+
+[How it works, tips to improve your reach](https://tekdeeps.com/how-it-works-tips-to-improve-your-reach/)
+
+
+> Wi-Fi is a wireless communication technology that allows various electronic devices to connect to the Internet and share resources such as files and printers. How Wi-Fi technology works This technology works by using radio frequencies to transmit data through the air. Wi-Fi devices have a built-in Wi-Fi adapter that allows them to receive and transmit data using these radio frequencies. When a device wants to connect to a Wi-Fi network, it sends a request to the network. If the network is secure, the device must also provide a password to access the network.
+
+
+***
+![Galaxy phones not on this list may miss out on massive Android upgrade](https://cdn.images.express.co.uk/img/dynamic/59/1200x712/4560044.jpg?r=1676104192549 "Galaxy phones not on this list may miss out on massive Android upgrade")
+
+
+[Galaxy phones not on this list may miss out on massive Android upgrade](https://www.express.co.uk/life-style/science-technology/1733497/Samsung-Galaxy-Android-14-update-compatible-devices)
+
+
+> Samsung Galaxy phones that won't get Android 14 revealed (Image: SAMSUNG) Android 14 will be the big release from Google this year with it looking set to bring a swathe of improvements to millions of devices across the world. The US technology giant has just released its first developer preview of this new operating system and a full reveal should take place in the coming months. Although the full suite of new features is yet to be announced, Google has confirmed that Android 14 will help improve the efficiency of apps and offer users the option to scale text up to 200 percent that's a boost of 70 pecent over Andorid 13.
+
+
+***
+![Guardian Tales patch 21 detailed](https://gonintendo.com/attachments/image/23092/file/medium-92dbcb6f91e51230dbecf4c501fbec6c.jpg "Guardian Tales patch 21 detailed")
+
+
+[Guardian Tales patch 21 detailed](https://gonintendo.com/contents/16135-guardian-tales-patch-21-detailed)
+
+
+> 1. New Hero and Exclusive Weapon SSR Hero : Divine Beast of Harvest Mayreel ★5 Exclusive Weapon : Solaris 2. Contents Nightmare difficulty addition Nightmare difficulty for World 8 : ‘Mt. Shivering' will be added. Request for Evolution Stones . A feature for requesting Hero Evolution Stones amongst guild members. . Only Evolution Stones for Heroes that you own can be requested. . Evolution Stones for Heroes that already are Grade 5 or have enough Evolution Stones to become Grade 5 cannot be requested.
+
+
+***
+![Control RGB lighting directly in Windows](https://cdn.sweclockers.com/artikel/bild/108348?l=eyJyZXNvdXJjZSI6IlwvYXJ0aWtlbFwvYmlsZFwvMTA4MzQ4IiwiZmlsdGVycyI6WyJ0PWFydGljbGVGdWxsIl0sInBhcmFtcyI6eyJjYWNoZUJ1c3RlciI6IjIwMjEwNTAxIn0sImtleSI6IjM2ZTExYmQxMmYyYjdkYzExNmM1ZmEyODlmMGQyZWRlIn0= "Control RGB lighting directly in Windows")
+
+
+[Control RGB lighting directly in Windows](https://tekdeeps.com/control-rgb-lighting-directly-in-windows/)
+
+
+> RGB lighting is plentiful in the PC world. Lighting is available in cooling, components and peripherals, but control of the light can take place in several different places. It is often the companies' own software solutions that allow you to control the light, and generally there are usually quite scattered control bursts. There are solutions that allow you to control everything in one place, but this often involves third-party solutions. Now Microsoft seems to be working on a solution that lets you control most of the light directly via the settings menu.
+
+
+***
+![A twisted tale of celebrity promotion, opaque transactions and allegations of racist tropes](https://media.cnn.com/api/v1/images/stellar/prod/230210105346-bored-hungry-restaurant.jpg?c=16x9&q=w_800,c_fill "A twisted tale of celebrity promotion, opaque transactions and allegations of racist tropes")
+
+
+[A twisted tale of celebrity promotion, opaque transactions and allegations of racist tropes](https://newsakmi.com/news/usnews/a-twisted-tale-of-celebrity-promotion-opaque-transactions-and-allegations-of-racist-tropes-cnn-business/)
+
+
+> Sitting across from Jimmy Fallon on 'The Tonight Show,' Paris Hilton, wearing a sparkling neon green turtleneck dress and a high ponytail, looked at a picture of a glum cartoon ape and said it 'reminds me of me.' The audience laughed. It did not look like her at all. Hilton and Fallon were chatting about their NFTs – non-fungible tokens , typically digital art bought with cryptocurrency – from the Bored Ape Yacht Club. The camera zoomed in on framed printouts of the ape cartoons. 'We're both apes,' Fallon said.
+
+
+***
+![Today's ‘Heardle' Answer And Clues For Saturday, February 11](https://www.mccourier.com/wp-content/uploads/2022/11/Todays-‘Heardle-Answer-And-Clues-For-Sunday-November-27.jpg "Today's ‘Heardle' Answer And Clues For Saturday, February 11")
+
+
+[Today's ‘Heardle' Answer And Clues For Saturday, February 11](https://www.mccourier.com/todays-heardle-answer-and-clues-for-saturday-february-11/)
+
+
+> Heardle emblem displayed on a cellphone display and headphones are seen on this illustration picture taken in … [+] Krakow, Poland on July 12, 2022. (Photograph by Jakub Porzycki/NurPhoto by way of Getty Pictures) NurPhoto by way of Getty Pictures Comfortable Saturday, gang! Could your weekend be stuffed with nice music. Right here's a tip for you: Rebecca Black of 'Friday' fame simply launched her first album. Let Her Burn is a genuinely good assortment of primarily synthpop tracks. Anyway, let's get right down to enterprise with the newest Heardle track (which isn't nearly as good as Black's 'Crumbs,' for my part).
+
+
+***
+![Bag the ASUS ROG Strix G15 gaming Laptop for just Rs 9555 on Flipkart](https://kalingatv.com/wp-content/uploads/2023/02/Asus-rog-strix.jpg "Bag the ASUS ROG Strix G15 gaming Laptop for just Rs 9555 on Flipkart")
+
+
+[Bag the ASUS ROG Strix G15 gaming Laptop for just Rs 9555 on Flipkart](https://kalingatv.com/technology/bag-the-asus-rog-strix-g15-gaming-laptop-for-just-rs-9555-on-flipkart/)
+
+
+> By KalingaTV Bureau Last updated Feb 11, 2023 0 The ASUS ROG Strix G15 is very capable and adaptable gaming laptop that stands out from the crowd. Even the most resource-intensive games and applications are easily handled by this laptop's cutting-edge AMD Ryzen 7Octa Core R&-4800H processor. With 16 GB of RAM and 1TB SSD storage, the Windows 11 Home operating system is quick and easy to use, and you won't have to wait long for your games and apps to launch. A stunning visual experience is provided by the 15.
+
+
+***
+![Rememberer package](https://external-preview.redd.it/iaN9HCs1PXxHUpSGeyBN3d7IrwN6-esGITR5odwFsrc.jpg?auto=webp&v=enabled&s=0535becec0535cc58f17309c14d51b7255476bbc "Rememberer package")
+
+
+[Rememberer package](https://www.reddit.com/r/Python/comments/10zfaxp/rememberer_package)
+
+
+> Introducing Rememberer, a powerful tool for improving the performance of your Python functions! With Rememberer, your functions will be able to remember their previous results, saving time and resources when your code is run again. Unlike other memoization packages, Rememberer's results persist even if your program is killed or the Python interpreter is restarted. Simply install via pip install rememberer Give Rememberer a try today and see the difference it can make! Github repositiry: https://github.
+
+
+***
+![New AI voice-cloning tools 'add fuel' to misinformation fire](https://scx2.b-cdn.net/gfx/news/hires/2023/voice.jpg "New AI voice-cloning tools 'add fuel' to misinformation fire")
+
+
+[New AI voice-cloning tools 'add fuel' to misinformation fire](https://techxplore.com/news/2023-02-ai-voice-cloning-tools-fuel-misinformation.html)
+
+
+> Credit: Pixabay/CC0 Public Domain In a video from a Jan. 25 news report, President Joe Biden talks about tanks. But a doctored version of the video has amassed hundred of thousands of views this week on social media, making it appear he gave a speech that attacks transgender people. Digital forensics experts say the video was created using a new generation of artificial intelligence tools, which allow anyone to quickly generate audio simulating a person's voice with a few clicks of a button.
+
+
