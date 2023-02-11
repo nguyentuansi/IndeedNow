@@ -11538,3 +11538,873 @@
 > The comedian's family announced that "his life was no longer in danger this Saturday morning" after his car accident on Friday evening. Europe 1 with AFP 11:47 a.m., February 11, 2023 The comedian's family announced that "his life was no longer in danger this Saturday morning" after his car accident on Friday evening. The humorist Pierre Palmade, would find himself, this Friday, in a state of absolute emergency after a traffic accident. The 54-year-old star was reportedly taken to Bicêtre hospital in Kremlin-Bicêtre.
 
 
+***
+![Daniel Rubino chats with Tech News Weekly about new Bing, new Edge and AI](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/11073810/TJihrEZ2UEerUChnN7qGwV-1200-80-800x450.jpg "Daniel Rubino chats with Tech News Weekly about new Bing, new Edge and AI")
+
+
+[Daniel Rubino chats with Tech News Weekly about new Bing, new Edge and AI](https://shepherdgazette.com/daniel-rubino-chats-with-tech-news-weekly-about-new-bing-new-edge-and-ai/)
+
+
+> By Sammy Edwards Last updated Feb 11, 2023 what you need to know Microsoft made several major announcements this week, including a new Bing and a new Edge. Both the new Bing and the new Edge have artificial intelligence features based on ChatGPT. Our Editor-in-Chief Daniel Rubino discussed Microsoft's announcements in the latest episode of Tech News Weekly. Microsoft made headlines this week when it announced a new Bing powered by ChatGPT and a revamped Microsoft Edge.
+
+
+***
+![Galaxy S23 Ultra vs. iPhone 14 Pro Max: Which Luxury Phone Is Best?](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17030U.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Galaxy S23 Ultra vs. iPhone 14 Pro Max: Which Luxury Phone Is Best?")
+
+
+[Galaxy S23 Ultra vs. iPhone 14 Pro Max: Which Luxury Phone Is Best?](http://www.msn.com/en-us/news/technology/galaxy-s23-ultra-vs-iphone-14-pro-max-which-luxury-phone-is-best/ar-AA170iaM)
+
+
+> The Samsung Galaxy S23 Ultra is the new luxury-level flagship phone in the company's Galaxy line revealed at Wednesday's Unpacked event. Starting at $1,200 (£1,249, AU$1,949), one of its biggest improvements is a new 200-megapixel main camera -- nearly double the resolution of last year's Galaxy S22 Ultra. That camera upgrade comes alongside a special version of the Qualcomm Snapdragon 8 Gen 2 chip that Samsung says has been optimized specifically for the Galaxy S23 line. In some ways, these improvements mirror what Apple did with the iPhone 14 Pro and Pro Max when they launched in September last year.
+
+
+***
+![Stacey Solomon announces she's welcomed her fifth child](https://iknowallnews.com/wp-content/uploads/2023/02/Stacey-Solomon-announces-shes-welcomed-her-fifth-child.jpg "Stacey Solomon announces she's welcomed her fifth child")
+
+
+[Stacey Solomon announces she's welcomed her fifth child](https://iknowallnews.com/celebrities/stacey-solomon-announces-shes-welcomed-her-fifth-child/)
+
+
+> Stacey Solomon has welcomed her fifth child – her third with husband Joe Swash. The Loose Women star, 33, took to Instagram on Saturday to announce she'd given birth to a baby girl as she shared several adorable snaps of her new arrival. The birth comes just two months after Stacey revealed she was pregnant, with the former X Factor contestant revealing she didn't know she was expecting for months.  Alongside the post, Stacey said she gave birth at home surrounded by her family and chose not to reveal her daughter's name.
+
+
+***
+![Professor Layton games have sold over 18 million units](https://gonintendo.com/attachments/image/23122/file/medium-26425b5601feadd833ec8db4ea915c3d.png "Professor Layton games have sold over 18 million units")
+
+
+[Professor Layton games have sold over 18 million units](https://gonintendo.com/contents/16156-professor-layton-games-have-sold-over-18-million-units-worldwide)
+
+
+> I'd expect no less from a true gentleman The Professor Layton series has been going strong since its initial release on the Nintendo DS in 2007. With numerous sequels, each game has introduced a series of colorful characters and creative mysteries for players to puzzle through. They've even inspired spinoffs and crossovers such as Professor Layton vs Phoenix Wright: Ace Attorney. Just how successful have the Professor Layton games been? We now have a specific number to answer that question.
+
+
+***
+![Digimon Con 2023 airs tonight at 8pm ET, schedule revealed](https://gonintendo.com/attachments/image/23121/file/medium-a5beabab3d85dc76bb47e26dc86ecb13.png "Digimon Con 2023 airs tonight at 8pm ET, schedule revealed")
+
+
+[Digimon Con 2023 airs tonight at 8pm ET, schedule revealed](https://gonintendo.com/contents/16155-digimon-con-2023-airs-tonight-at-8pm-et-full-schedule-revealed)
+
+
+> The official Digimon Con 2023 is airing tonight, February 11th, 2023 at 8:00 pm Eastern Time. As part of the show, we expect to hear some news on the Digimon video game series, and now we know exactly what time that should be coming. See below for the full schedule (in Eastern Time), and look specifically for the segment at 8:48 pm labeled 'Digimon World: Next Order Game Information'. 8:00 p.m. – Wienners Opening Concert 8:10 p.m. – Digimon Frontier x Digimon Ghost Game: Two Short Interviews 8:48 p.
+
+
+***
+![Your Computer Mouse's Scroll Wheel Can Improve Your Internet Browsing](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17hX50.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Your Computer Mouse's Scroll Wheel Can Improve Your Internet Browsing")
+
+
+[Your Computer Mouse's Scroll Wheel Can Improve Your Internet Browsing](http://www.msn.com/en-us/news/technology/your-computer-mouse-s-scroll-wheel-can-improve-your-internet-browsing/ar-AA13oIna)
+
+
+> I'm still discovering new productivity tricks and hidden features, even though I've been using a desktop computer for decades. There are so many ways to save a keystroke here and a mouse click there. Those few milliseconds can actually add up to big-time savings (or at least less annoyance) over the course of a week, especially if your job is primarily done online. It isn't just your operating system's infinite settings menus that can improve your workday, though both MacOS and Windows 11 have some great features to try.
+
+
+***
+![HBO Cancels Sci-Fi Comedy Series Avenue 5 After Two Seasons](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5fadb2728e8b1a730e5e34a823415906.jpg "HBO Cancels Sci-Fi Comedy Series Avenue 5 After Two Seasons")
+
+
+[HBO Cancels Sci-Fi Comedy Series Avenue 5 After Two Seasons](https://gizmodo.com/avenue-5-hbo-canceled-2-seasons-1850103551)
+
+
+> Back in 2020, HBO premiered its comedy series  Avenue 5 from Veep creator Armando Iannucci. Starring Hugh Laurie and Josh Gad, the show about a luxury spaceship knocked off course during a routine cruise event has had a long gap between that debut season and its second outing , the latter of which hit back in October 2022. Those hoping for more of the show after season two will be disappointed to hear that HBO has formally canceled the series. Per Variety , the series' end was due to its reviews and viewership across both seasons, which were largely just okay.
+
+
+***
+![World's Top 5 EV Automotive Groups Ranked By Sales: Q1-Q4 2022](https://cdn.motor1.com/images/mgl/Mk339w/s1/byd-han.jpg "World's Top 5 EV Automotive Groups Ranked By Sales: Q1-Q4 2022")
+
+
+[World's Top 5 EV Automotive Groups Ranked By Sales: Q1-Q4 2022](https://insideevs.com/news/651978/world-top-ev-oem-sales-2022q4/)
+
+
+> More than 10 million plug-in electric cars were sold in 2022, accounting for 14 percent of the total car sales globally. Today, we will take a look at the largest manufacturers (automotive groups) of rechargeable cars. According to EV-Volumes data, shared by Jose Pontes, five OEMs are responsible for more than half of all plug-in car sales. See December and 2022 full-year sales results here . As usual, first we will check out the volume and share of the top OEMs in the overall plug-in market first, and then in the battery-electric segment.
+
+
+***
+![Google employees criticise CEO Sundar Pichai for the 'rushed' introduction of GPT rival Bard](https://techstory.in/wp-content/uploads/2023/02/Brad-1.jpg "Google employees criticise CEO Sundar Pichai for the 'rushed' introduction of GPT rival Bard")
+
+
+[Google employees criticise CEO Sundar Pichai for the 'rushed' introduction of GPT rival Bard](https://techstory.in/google-employees-criticise-ceo-sundar-pichai-for-the-rushed-introduction-of-gpt-rival-bard/)
+
+
+> Employees at Google criticise management, most notably CEO Sundar Pichai, for how the business handled this week's introduction of ChatGPT rival Bard. According to texts and memes accessed by CNBC, employees discussed the Bard announcement on the well-liked internal site Memegen, calling it 'rushed,' 'botched,' and 'un-Googley.' Before a Microsoft event the next day, Google had Pichai publicly reveal some information about the company's chatbot technology on Monday. At a meeting in Paris on Wednesday, more information regarding Bard was disclosed.
+
+
+***
+![Sakurai warns against making games too slow in latest video](https://gonintendo.com/attachments/image/23119/file/medium-fe9f73aedf65e94980b34fed08bdca76.png "Sakurai warns against making games too slow in latest video")
+
+
+[Sakurai warns against making games too slow in latest video](https://gonintendo.com/contents/16154-sakurai-warns-against-making-games-too-slow-in-latest-video)
+
+
+> "To make players wait is a sin!" Masahiro Sakurai is back with another video in his game development series. In this installment, Sakurai discusses how making a game too slow can impact a player's experience and even lead to them putting the controller down for good. Specifically, Sakurai warns against any time in a game when a player has no control over what's happening. This could be during a loading screen, or during a cut scene. So what's the best way to keep players invested in the game's action at all times? Stop waiting and watch the full video above! modal#open commentUpvoteInfoModal.
+
+
+***
+![I ordered a wedding dress from Wish but it was a total fail](https://iknowallnews.com/wp-content/uploads/2023/02/I-ordered-a-wedding-dress-from-Wish-but-it-was-a-total-fail-it-was-completely-see-through-for-one-The-Sun.jpg "I ordered a wedding dress from Wish but it was a total fail")
+
+
+[I ordered a wedding dress from Wish but it was a total fail](https://iknowallnews.com/fashion/i-ordered-a-wedding-dress-from-wish-but-it-was-a-total-fail-it-was-completely-see-through-for-one-the-sun/)
+
+
+> Home » Fashion » I ordered a wedding dress from Wish but it was a total fail – it was completely see-through for one | The Sun A BRIDE-TO-BE was mortified after her Wish wedding dress arrived completely see-through. Looking to plan her wedding on a budget, one woman who posts under the username @yolaholacola, decided to order a gown from Wish. There, the bride-to-be stumbled upon a stunning white dress with a lacy top half and immediately bagged the number. However, little did Yolaholacola know she would be in for a surprise upon receiving the parcel from the China-based retailer.
+
+
+***
+![Hollow Knight Silksong playtester says it's "worth the wait"](https://gonintendo.com/attachments/image/23118/file/medium-4a0680f0e9a0012dd2332817f378e980.png "Hollow Knight Silksong playtester says it's "worth the wait"")
+
+
+[Hollow Knight Silksong playtester says it's "worth the wait"](https://gonintendo.com/contents/16153-hollow-knight-silksong-s-lead-playtester-says-it-will-be-worth-the-wait)
+
+
+> The waiting is the hardest part... We're all still waiting for Hollow Knight: Silksong to come out, the follow-up to Team Cherry's beloved Metroidvania. Unfortunately, another Nintendo Direct has come and gone without any news on the game's development or release date. To help reassure fans that everything is going to be all right, Silksong's lead playtester Graig stepped in with some helpful words. See his message below from the Hollow Knight discord server: So don't give up hope, Hollow Knight fans! It may be taking a long time, but it'll happen eventually.
+
+
+***
+![Tech Errors? No More! This Blog Will Help You Fix Them Like a Pro!](https://im.submitmypressrelease.com/info/522616 "Tech Errors? No More! This Blog Will Help You Fix Them Like a Pro!")
+
+
+[Tech Errors? No More! This Blog Will Help You Fix Them Like a Pro!](https://news.kisspr.com/2023/02/11/tech-errors-no-more-this-blog-will-help-you-fix-them-like-a-pro_522616.html)
+
+
+> Tech errors can be incredibly frustrating, especially when you depend on your technology for work or other important tasks. Whether it's a software glitch, a hardware failure, or a connectivity issue, tech problems can bring your productivity to a standstill. However, with the right approach, you can often fix these issues yourself, without having to rely on a professional repair service. In this blog, we'll show you how to troubleshoot and fix tech errors like a pro, so you can get back to your work and activities as soon as possible.
+
+
+***
+![Zara McDermott has wardrobe malfunction in sheer nude gown at Brits](https://iknowallnews.com/wp-content/uploads/2023/02/Zara-McDermott-has-wardrobe-malfunction-in-sheer-nude-gown-at-Brits.jpg "Zara McDermott has wardrobe malfunction in sheer nude gown at Brits")
+
+
+[Zara McDermott has wardrobe malfunction in sheer nude gown at Brits](https://iknowallnews.com/celebrities/zara-mcdermott-has-wardrobe-malfunction-in-sheer-nude-gown-at-brits/)
+
+
+> Home » Celebrities » Zara McDermott has wardrobe malfunction in sheer nude gown at Brits Zara McDermott appeared to suffer a wardrobe malfunction at the Brit Awards 2023 Zara took to the red carpet in a fabulous figure-hugging, see-through dress We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info Zara McDermott, 26, appeared to suffer a wardrobe mishap as she became one of the first stars to walk the red carpet at the Brit Awards 2023.
+
+
+***
+![Change Your LastPass Password Manager, Before It's Too Late](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA163yoC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Change Your LastPass Password Manager, Before It's Too Late")
+
+
+[Change Your LastPass Password Manager, Before It's Too Late](http://www.msn.com/en-us/news/technology/change-your-lastpass-password-manager-before-it-s-too-late/ar-AA163yoK)
+
+
+> LastPass, one of the world's most popular password managers, suffered a major data breach in December, putting customers' online passwords at risk and endangering their personal data. If you still haven't changed your passwords, time is running out. On Dec. 22, LastPass CEO Karim Toubba acknowledged in a blog post that a security incident the company first disclosed in August eventually led to an "unauthorized party" stealing customer account information and sensitive vault data. The breach is the latest in a lengthy and troubling string of security incidents involving LastPass that date back to 2011.
+
+
+***
+![Goodbye to my '08 MacBook Pro](https://images.macrumors.com/social/?t=2380443&v=6 "Goodbye to my '08 MacBook Pro")
+
+
+[Goodbye to my '08 MacBook Pro](https://forums.macrumors.com/threads/goodbye-to-my-08-macbook-pro.2380443/)
+
+
+> It's so long, farewell, auf wiedersehen, goodbye to my trusty 15 year old MacBook Pro. It has been replaced by a M2 Air. Mind you, except for a failed battery long ago, it still worked. Even after buying the Air I kept it running. I wanted to take the ssd out and dispose of the machine but I just couldn't do it. Do we get attached to our machines? Well, maybe a little; it was only my second Mac after the IIe with Wintel machines in between. Along the way I had upgraded the memory from 2GB to 6GB and replaced the hdd with a ssd; Apple had even replaced the motherboard for free outside of the warranty period for that infamous Nvidia GPU defect.
+
+
+***
+![New Pokémon anime series set to premiere April 14, 2023](https://gonintendo.com/attachments/image/23117/file/medium-0e48eab94ef83dfebdd2dd4b9834932e.png "New Pokémon anime series set to premiere April 14, 2023")
+
+
+[New Pokémon anime series set to premiere April 14, 2023](https://gonintendo.com/contents/16152-new-pokemon-anime-series-set-to-premiere-april-14-2023)
+
+
+> Like a Moltres from the ashes While Ash and Pikachu are set to depart from their roles as the protagonists of the Pokémon anime, the show must go on! We now know that the next chapter of the Pokémon saga will premiere in Japan on April 14, 2023. This series will star two brand new protagonists Liko and Roy (seen above) along with various Pokémon from Scarlet & Violet and other games. We still don't know exactly what these new characters will be like, or if there will be any lingering appearances by Ash and his friends.
+
+
+***
+![Wireless CarPlay power and charging requirements](https://images.macrumors.com/social/?t=2380442&v=6 "Wireless CarPlay power and charging requirements")
+
+
+[Wireless CarPlay power and charging requirements](https://forums.macrumors.com/threads/wireless-carplay-power-and-charging-requirements.2380442/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly. You should upgrade or use an alternative browser . So I have used wired CarPlay with my XR for many years long with a Pioneer NEX head unit and it would charge my XR pretty quickly and then keep it topped up even while running the wired CarPlay. I just got a 2023 Toyota Tundra that has wireless CarPlay and I installed a spare Anker 10W Qi charger in the vehicle connected by USB cable to what Toyota calls a fast charge port (these 2 ports charge only and do not do wired CarPlay).
+
+
+***
+![Joe Gorga says wife Melissa took a beating when joining his family](https://iknowallnews.com/wp-content/uploads/2023/02/Joe-Gorga-says-wife-Melissa-took-a-beating-when-joining-his-family.jpg "Joe Gorga says wife Melissa took a beating when joining his family")
+
+
+[Joe Gorga says wife Melissa took a beating when joining his family](https://iknowallnews.com/lifestyle/joe-gorga-says-wife-melissa-took-a-beating-when-joining-his-family/)
+
+
+> Home » Lifestyle » Joe Gorga says wife Melissa took a beating when joining his family Joe Gorga claims his wife, Melissa Gorga, was given a hard time by nearly every member of his family when she first became a part of it. 'My mother was rough on her, my dad was rough on her,' the Bravolebrity, 43, said Friday during a live taping of Page Six's 'Virtual Reali-Tea' podcast, before sarcastically adding, 'and my sister was great!' Joe then went on to praise Melissa, also 43, telling hosts Danny Murphy and Evan Real at the Tri-State Cadillac-sponsored event, 'She's a good woman and then she married into an old-school Italian family and she took a beating — she did.
+
+
+***
+![Understanding Temperature and Heat and Their Types, This Is It!](https://www.harapanrakyat.com/wp-content/uploads/2023/02/Pengertian-Suhu-dan-Kalor-dan-Juga-Jenis-Jenisnya.jpg "Understanding Temperature and Heat and Their Types, This Is It!")
+
+
+[Understanding Temperature and Heat and Their Types, This Is It!](https://www.world-today-news.com/understanding-temperature-and-heat-and-their-types-this-is-it/)
+
+
+> Definition of temperature and heat. Temperature and heat have related meanings, but they are not the same. This temperature and heat even become material in schools. These two things are still related. That's because heat will still need temperature to be able to have an effect on other objects around it. Meanwhile, on the other hand, the effect of temperature on objects is also the cause of the occurrence of heat on objects. That's why, the two are inseparable. So, if you are still confused, here are some things you should understand about the meaning of the two.
+
+
+***
+![Implementing manual SPN access to AKS cluster and using same to deploy applications into the cluster using Azure DevOps](https://miro.medium.com/max/1200/1*5YM6CUHvLfvvRqP9-kvKLw.png "Implementing manual SPN access to AKS cluster and using same to deploy applications into the cluster using Azure DevOps")
+
+
+[Implementing manual SPN access to AKS cluster and using same to deploy applications into the cluster using Azure DevOps](https://medium.com/@sahil.anand_18824/implementing-manual-spn-access-to-aks-cluster-and-using-same-to-deploy-applications-into-the-d263f6e5d661)
+
+
+> This is one of production grade implementation procedure to deploy application directly into the Kubernetes cluster using Azure DevOps using manually created SPN (service principal). We often come across situations where already setup service principal needs to be leverage to perform various tasks in the cloud environment in DevOps. Here I am explaining one of the case scenario on how to implement the same. Create SPN (service principal) via app registrations into Azure Active Directory. 2. Then we need to create the SPN client secret needed for authentication purpose.
+
+
+***
+![[IT애정남] A laptop that automatically changes its graphics card when you upgrade its RAM? Are you real?](https://dimg.donga.com/wps/NEWS/IMAGE/2023/02/10/117832987.1.jpg "[IT애정남] A laptop that automatically changes its graphics card when you upgrade its RAM? Are you real?")
+
+
+[[IT애정남] A laptop that automatically changes its graphics card when you upgrade its RAM? Are you real?](https://www.world-today-news.com/it%ec%95%a0%ec%a0%95%eb%82%a8-a-laptop-that-automatically-changes-its-graphics-card-when-you-upgrade-its-ram-are-you-real/)
+
+
+> He is an ‘IT loving man' who answers questions about IT in general or questions from readers who have concerns about product and service selection. This time, we are asking if the graphics card is changed to another one depending on the capacity of the system memory (RAM) installed in the laptop. This may sound a little absurd because RAM and graphics cards are completely different parts, but there are very exceptional cases. The inquiry from losalxx is as follows (some contents edited). hello. I have an inquiry.
+
+
+***
+![Check out eight changes found in Metroid Prime Remastered](https://gonintendo.com/attachments/image/23116/file/medium-75cac76a580658d31213958f8b3a2bde.png "Check out eight changes found in Metroid Prime Remastered")
+
+
+[Check out eight changes found in Metroid Prime Remastered](https://gonintendo.com/contents/16151-check-out-eight-changes-found-in-metroid-prime-remastered)
+
+
+> Metroid Prime Remastered is now available to play on the Switch! This remaster of the original GameCube title features enhanced visuals, but there are a few other new details you might not have picked up on. A new video from GameXplain examines eight of these changes. These differences include alterations to the game's charge beam animations, Samus' new face model, and even those pesky doors. Some of these changes are new to all versions of the game, while others are things that were removed from the Wii version and have now returned.
+
+
+***
+![The Arcimoto Fun Utility Vehicle is a blast (that might not last)](https://techcrunch.com/wp-content/uploads/2023/02/a.jpeg?resize=1200,900 "The Arcimoto Fun Utility Vehicle is a blast (that might not last)")
+
+
+[The Arcimoto Fun Utility Vehicle is a blast (that might not last)](https://techcrunch.com/2023/02/11/the-arcimoto-fun-utility-vehicle-is-a-blast-that-might-not-last/)
+
+
+> 'That doesn't look safe.' The statement would follow me for days. Every time I mentioned I was test driving Arcimoto's Fun Utility Vehicle — an open air, all-electric three-wheeler — a friend or co-worker would pipe up to state, what to them, seemed like the obvious. After all, most cars have four wheels, not three. They also tend to have doors and airbags too.  Arcimoto's FUV (or Fooove as I chose to pronounce it) has something most of those fully enclosed sedans and subcompacts do not: It's a thrill to drive without feeling like a deathtrap.
+
+
+***
+![HBO Max's The Nevers Jumps to Tubi with New Episodes in Tow](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a2713847ed649b36f512e996cefa9846.jpg "HBO Max's The Nevers Jumps to Tubi with New Episodes in Tow")
+
+
+[HBO Max's The Nevers Jumps to Tubi with New Episodes in Tow](https://gizmodo.com/hbo-max-the-nevers-tubi-streaming-1850103472)
+
+
+> Take your mind back to 2021 and you may recall HBO Max's sci-fi drama series The Nevers , wherein women in 1890s London such as Laura Donnelly's Amalia True have manifested superpowers, X-Men style. The series was notable for two things: creator Joss Whedon getting replaced with current showrunner Philippa Goslett, and becoming one of many HBO original series taken off HBO Max in the wake of the Warner Bros. Discovery merger. As it was stuck in streaming limbo, The Nevers' second half of the season had finished production and yet to air.
+
+
+***
+![Russian Cargo Ship Delivers Food, Supplies, Experiments to the ISS](https://1734811051.rsc.cdn77.org/data/images/full/421029/kazakhstan-russia-japan-space-iss.jpg "Russian Cargo Ship Delivers Food, Supplies, Experiments to the ISS")
+
+
+[Russian Cargo Ship Delivers Food, Supplies, Experiments to the ISS](https://www.techtimes.com/articles/287530/20230211/russian-cargo-ship-delivers-food-supplies-experiments-iss.htm)
+
+
+> Jace Dela Cruz , Tech Times 11 February 2023, 12:02 pm An uncrewed robotic Russian cargo ship delivered almost three tons of food, fuel, scientific experiments, and other supplies for the Expedition 68 crew on the International Space Station (ISS), reported first by Space.com on Saturday, Feb. 11. (Photo : KIRILL KUDRYAVTSEV/AFP via Getty Images) The Soyuz MS-20 spacecraft carrying the crew of Russian cosmonaut Alexander Misurkin, Japanese billionaire Yusaku Maezawa and his production assistant Yozo Hirano blasts off to the International Space Station (ISS) from the Moscow-leased Baikonur cosmodrome in Kazakhstan on December 8, 2021.
+
+
+***
+![Which is a better alternative: mini M2 24GB/1TB or M2 Pro 16GB/512GB??](https://images.macrumors.com/social/?t=2380440&v=6 "Which is a better alternative: mini M2 24GB/1TB or M2 Pro 16GB/512GB??")
+
+
+[Which is a better alternative: mini M2 24GB/1TB or M2 Pro 16GB/512GB??](https://forums.macrumors.com/threads/which-is-a-better-alternative-mini-m2-24gb-1tb-or-m2-pro-16gb-512gb.2380440/)
+
+
+> I'm still struggling in choosing the right mini for me: mini M2 24GB/1TB (choice 1) or mini M2 Pro 16GB/512GB (choice 2) ?? The price is about the same for both. But then, choice 1 have much more memory than choice 2 (8GB more), and two times the SSD. Choice 2 have a much better GPU (CPU is about the same, the difference is negligible in real world), and two more Thunderbolt ports (but then the Studio display gives three TB, so the two extra ports of choice 2 isn't a good argument). So which choice is better for the following typical work? Currently, I'm thinking about selecting choice 1 , but I feel insecure ! I'm keeping lots of apps running at the same time, even if several aren't doing anything (for example: VLC Player keeping a 4k movie in standby).
+
+
+***
+![Firearms expert analyzes the weapons of Goldeneye 007](https://gonintendo.com/attachments/image/23115/file/medium-5e8641a1147f515d43913e30f3fb0ef4.png "Firearms expert analyzes the weapons of Goldeneye 007")
+
+
+[Firearms expert analyzes the weapons of Goldeneye 007](https://gonintendo.com/contents/16150-firearms-expert-analyzes-the-weapons-of-goldeneye-007)
+
+
+> No, Mr. Bond. I expect you to watch. Everybody's playing the N64 classic Goldeneye 007 again thanks to its recent re-release. The iconic first person shooter is loaded with iconic weapons, but have you ever wondered how they compare to the real versions? GameSpot has shared a new video in their series featuring firearms expert Jonathan Ferguson analyzing video game guns. Watch it above to see him break down every obtainable weapon in Goldeneye 007 and how they compare to their inspiration.
+
+
+***
+![Some Googlers reportedly aren't happy about Bard's ‘rushed' announcement](https://cdn.vox-cdn.com/thumbor/ZtCF0RGneZml3juzavvw2_dAa5M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016883/STK093_Google_06.jpg "Some Googlers reportedly aren't happy about Bard's ‘rushed' announcement")
+
+
+[Some Googlers reportedly aren't happy about Bard's ‘rushed' announcement](https://www.theverge.com/2023/2/11/23595496/google-rushed-bard-announcement-report)
+
+
+> Googlers are talking all about the company's announcement of its ChatGPT rival, Bard — and many aren't happy with how things went. According to a report from CNBC , Google employees are calling the launch of the AI chatbot 'rushed' and 'botched' in posts across the company's internal message boards, with many targeting CEO Sundar Pichai. Google announced Bard earlier this week in a bid to get ahead of Microsoft, which took the wraps off of its ChatGPT-powered Bing a day later . But when the company tweeted out a demo of Bard on Monday, several users pointed out that it contained a factual error .
+
+
+***
+![Clean Out Your Google Drive or Gmail, You Won't Regret It](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17kbis.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Clean Out Your Google Drive or Gmail, You Won't Regret It")
+
+
+[Clean Out Your Google Drive or Gmail, You Won't Regret It](http://www.msn.com/en-us/news/technology/clean-out-your-google-drive-or-gmail-you-won-t-regret-it/ar-AA17ksqk)
+
+
+> Google has some of the most popular digital services in Google Drive and Gmail. According to Axios, Google Drive had 2 billion active users as of 2020, and CNBC reported Gmail had 1.5 billion active users in 2019. Google gives you a combined 15GB of storage space for free for all its services, which can fill up pretty fast. When you get close to that limit, Google will notify you and ask if you want to pay for more storage. But you don't have to pay more. There are other, free ways to manage your digital space.
+
+
+***
+![Carbonplace Announces New CEO, Secures $45 Million in Funding](https://www.crowdfundinsider.com/wp-content/uploads/2015/03/big-ben-london.jpg "Carbonplace Announces New CEO, Secures $45 Million in Funding")
+
+
+[Carbonplace Announces New CEO, Secures $45 Million in Funding](https://www.crowdfundinsider.com/2023/02/202387-carbonplace-announces-new-ceo-secures-45-million-in-funding)
+
+
+> Carbon credit transaction network Carbonplace has raised $45 million in 'a strategic round of investment and formed its own entity.' Carbonplace, which 'connects buyers and sellers of carbon credits through their banks, secured the seed funding from the financial institutions which founded the fintech: BBVA, BNP Paribas, CIBC, Itaú Unibanco, National Australia Bank, NatWest, Standard Chartered, SMBC and UBS.' Through the investment, each bank 'shares equal equity ownership in the new company which is expected to launch its platform later this year.
+
+
+***
+![Singer Jessie J shares gender of baby in sweet musical post](https://iknowallnews.com/wp-content/uploads/2023/02/Singer-Jessie-J-shares-gender-of-baby-in-sweet-musical-post.jpg "Singer Jessie J shares gender of baby in sweet musical post")
+
+
+[Singer Jessie J shares gender of baby in sweet musical post](https://iknowallnews.com/celebrities/singer-jessie-j-shares-gender-of-baby-in-sweet-musical-post/)
+
+
+> Jessie J has revealed that she is expecting a baby boy. The 34 year old singer revealed the news as she took to Instagram to share a sweet video as she cradled her bare baby bump and sang a sweet song as she felt the movements of her baby in her stomach and smiled blissfully. She was dressed in a white robe, which was moved to the size to reveal her bump and much of one thigh, whilst she sported a full face of makeup and her dark hair slicked back into a bun. The star captioned the post: "Since I wrote this song every time I play it or sing it he moves like crazy… so I think this song is the one.
+
+
+***
+![Apple seeks to limit 'USB-C' functions in 'iPhone 15' – Al-Bilad newspaper](https://g.api.no/obscura/API/dynamic/r1/ece5/tr_2000_2000_s_f/1666862861000/nett/2022/10/27/11/NTB_4y6v92ue13o.jpg?chk=02ADC5 "Apple seeks to limit 'USB-C' functions in 'iPhone 15' – Al-Bilad newspaper")
+
+
+[Apple seeks to limit 'USB-C' functions in 'iPhone 15' – Al-Bilad newspaper](https://www.world-today-news.com/apple-seeks-to-limit-usb-c-functions-in-iphone-15-al-bilad-newspaper/)
+
+
+> Country – follow-up A new report stated that the USB-C port of the upcoming (iPhone 15) phones, and the accompanying charging cables, will contain an authentication chip similar to the current (Lightning) port, which may affect the functionality of accessories not approved by Apple. Camel. The report was published on the Chinese (Weibo) website by a person who claims to be an expert in integrated circuits for 25 years, and has worked on the (Intel Pentium) processor, and said that Apple has already developed its own version of the (USB-C) port for (iPhone 15) phones.
+
+
+***
+![IGN breaks down Zelda: Tears of the Kingdom's newest trailer](https://gonintendo.com/attachments/image/23113/file/medium-060b14fd46d906022aa6bcf5c0e1c364.png "IGN breaks down Zelda: Tears of the Kingdom's newest trailer")
+
+
+[IGN breaks down Zelda: Tears of the Kingdom's newest trailer](https://gonintendo.com/contents/16149-ign-breaks-down-zelda-tears-of-the-kingdom-s-newest-trailer)
+
+
+> The Legend of Zelda: Tears of the Kingdom will be here sooner than you might think, with its release date of May 12, 2023. During the recent Nintendo Direct, we got another new trailer showing off some of the things the game has in store for us, and it looks like this adventure could be even bigger than Link's last. So, what's going on with the moon in this trailer? What new enemies are lurking in the shadows? What other tidbits and teases are hiding for eagle-eyed fans to discover? Watch IGN's full breakdown above and see all the things you might have missed the first time around.
+
+
+***
+![NASA Hubble Telescope Captures Space Cluster Containing Stars Millions of Years Old; Here's Why NGC 2660 Is Intriguing](https://1734811051.rsc.cdn77.org/data/images/full/421023/nasa-hubble-space-telescope-captures-space-cluster-containing-stars-millions-of-years-old-heres-why-ngc-2660-is-intriguing.jpg "NASA Hubble Telescope Captures Space Cluster Containing Stars Millions of Years Old; Here's Why NGC 2660 Is Intriguing")
+
+
+[NASA Hubble Telescope Captures Space Cluster Containing Stars Millions of Years Old; Here's Why NGC 2660 Is Intriguing](https://www.techtimes.com/articles/287525/20230211/nasa-james-webb-captures-space-cluster-containing-stars-millions-years.htm)
+
+
+> Griffin Davis , Tech Times 11 February 2023, 12:02 pm NASA's Hubble Space Telescope captured another intriguing space image.  The advanced HST was launched in 1990. Ever since it went into space, various out-of-this-world discoveries have been made.  Now, the giant space telescope's latest captured images of a space cluster that contains stars millions of years old.  If you are curious about this new space discovery, here's what you need to know about the NGC 2660.  NASA Hubble Captures Space Cluster Containing Stars Millions of Years Old According to Space.
+
+
+***
+![Leaking Exhaust Manifold, These are Common Causes and Characteristics](https://www.harapanrakyat.com/wp-content/uploads/2023/02/Exhaust-Manifold-Bocor-Ini-Penyebab-dan-Ciri-yang-Umum.jpg "Leaking Exhaust Manifold, These are Common Causes and Characteristics")
+
+
+[Leaking Exhaust Manifold, These are Common Causes and Characteristics](https://www.world-today-news.com/leaking-exhaust-manifold-these-are-common-causes-and-characteristics-2/)
+
+
+> A leaky exhaust manifold with several common characteristics. If the exhaust manifold on a car leaks, of course it causes several things. The exhaust manifold is one of the most important components in a car's exhaust. However, many car owners are not aware of these components. So many cases of leaks that occur in the exhaust manifold. These are the Causes and Characteristics of a Leaking Exhaust Manifold that Often Happens The exhaust manifold, also known as the exhaust header, is a channel in the combustion chamber of a car.
+
+
+***
+![Planet Cube: Edge arrives on Switch February 23, 2023](https://gonintendo.com/attachments/image/23112/file/medium-0c67dd015c638adafddc216f99b66397.png "Planet Cube: Edge arrives on Switch February 23, 2023")
+
+
+[Planet Cube: Edge arrives on Switch February 23, 2023](https://gonintendo.com/contents/16148-planet-cube-edge-arrives-on-switch-february-23-2023)
+
+
+> Planet Cube is being invaded by a mysterious aggressor, and its populace are not ready for a fight. While most cubes run to the nearest exit, one square-headed lab technician named Edge finds it in himself to save the world. Of course, he'll have a little help from co-workers and the illustrious Dr Quadratus, as well as some experimental weapons… But why is the planet being invaded? Who is the invading force? The answers will become clear as our hero makes his way through an underwater science complex with danger at every turn! Run, gun, jump and dash through an underwater science complex, collecting fire-power to turn the tables on mysterious aggressors.
+
+
+***
+![Apple's new patent hints at plans of adding a camera to the Apple Watch](https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-11-image-6.jpg "Apple's new patent hints at plans of adding a camera to the Apple Watch")
+
+
+[Apple's new patent hints at plans of adding a camera to the Apple Watch](https://www.techspot.com/news/97576-apple-new-patent-hints-plans-adding-camera-apple.html)
+
+
+> Through the looking glass: Apple was granted a new patent for a detachable watch-based camera retention system earlier this week. The patent includes a detachable band design and a quick-release retention mechanism to support a watch-based camera. While there's no guarantee it will be produced, the patent is good indication that Apple is actively looking to deliver new features for their watch-wearing fans. Issued by the U.S. Patent and Trademark Office on February 7, the new patent ( US-11571048-B1 ) focuses specifically on a strap-based, quick-release system that allows for convenient access to an integrated watch-based camera.
+
+
+***
+![Apple and Samsung at DISCOUNTED prices!](https://img.generation-nt.com/cdiscount-logo-2_029801BB01672989.jpg "Apple and Samsung at DISCOUNTED prices!")
+
+
+[Apple and Samsung at DISCOUNTED prices!](https://www.world-today-news.com/apple-and-samsung-at-discounted-prices/)
+
+
+> The refurbished is on the rise in France: every month we see new players arriving in this segment of the second life of appliances and electronics, whether on smartphones (including iPhone), tablets, laptops or desktops,… no electronic device can escape it. Second-hand specialists offer a wide choice of products with the advantage of displaying very competitive prices, while offering a guarantee for the consumer. Besides the economic aspect to the advantage of the buyer, choosing the reconditioned is also a ethical choice: our consumer society pushes us to constantly renew our equipment even though it still meets our expectations, or even exceeds them.
+
+
+***
+![I'm building Memories, a FOSS alternative to Google Photos with a focus on UX and performance](https://external-preview.redd.it/C4TFC8TFcLrTu0Sex2VyhEoog_IvnKw-jYhXjYq-RvM.jpg?auto=webp&v=enabled&s=2e88141c3aa37d1edcb65d6c405ab2372a67c512 "I'm building Memories, a FOSS alternative to Google Photos with a focus on UX and performance")
+
+
+[I'm building Memories, a FOSS alternative to Google Photos with a focus on UX and performance](https://www.reddit.com/r/programming/comments/10zsjcn/im_building_memories_a_foss_alternative_to_google)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![NASA's discovery enhances hope for life on Mars (video) – global news](http://future-news.net/wp-content/uploads/2022/04/هيئة-التجارة-تتوقع-من-سيعاني-أكثر-من-ارتفاع-أسعار-الغاز.gif "NASA's discovery enhances hope for life on Mars (video) – global news")
+
+
+[NASA's discovery enhances hope for life on Mars (video) – global news](https://www.world-today-news.com/nasas-discovery-enhances-hope-for-life-on-mars-video-global-news/)
+
+
+> The location of the ancient lake could add to the understanding of whether the Red Planet ever hosted life A snapshot from NASA's Curiosity rover has revealed compelling evidence of a large body of water in an area of ​​the planet previously thought to be a wasteland, the US space agency says. announce this week. The rover, which has been exploring the planet for more than a decade, has greatly increased our understanding of the Martian landscape since it touched down on the planet's surface in 2012.
+
+
+***
+![Nintendo's online card creator highlighted in new promo](https://gonintendo.com/attachments/image/23111/file/medium-54f205b179984810189c1a2e74c79b0f.png "Nintendo's online card creator highlighted in new promo")
+
+
+[Nintendo's online card creator highlighted in new promo](https://gonintendo.com/contents/16147-nintendo-s-online-card-creator-highlighted-in-new-promo-video)
+
+
+> Did you know that Nintendo has its own online card creator, allowing you to design and print Nintendo themed greeting cards for every occasion? If you didn't, feel free to watch the above video, which walks you through the whole process. It even includes a rap song about all the ways you can use their custom cards. How can you say no to that? Looking for kid-friendly DIY ideas? Learn how to design and make your own cards for any occasion–and decorate them with characters like Mario, Princess Peach, Bowser, and Yoshi! Whether you're crafting a birthday card, a thank you card, or anything in-between, this tutorial will show you and your family how easy it is to get creative with the Mushroom Kingdom card creator on PlayNintendo.
+
+
+***
+![Bank of England tests digital pound plans](https://www.emerce.nl/content/uploads/2023/02/business-21856_960_720-430x400.jpg "Bank of England tests digital pound plans")
+
+
+[Bank of England tests digital pound plans](https://tekdeeps.com/bank-of-england-tests-digital-pound-plans/)
+
+
+> – The Bank of England has presented plans for a digital pound. The digital currency, a so-called central bank digital currency (CBDC), is being marketed by the Bank of England as a new form of sterling and also issued by the bank itself. Unlike cash, the digital pound will not be anonymous. The bank wants to be able to identify users in order to prevent financial crimes. However, users can determine how their data is used. So-called Payment Interface Providers can identify and verify users, anonymizing personal data.
+
+
+***
+![Specs of Samsung's A34 and A54 smartphones online: especially the prices have been upgraded](https://content.hwigroup.net/images/news/500x300/084259.jpg "Specs of Samsung's A34 and A54 smartphones online: especially the prices have been upgraded")
+
+
+[Specs of Samsung's A34 and A54 smartphones online: especially the prices have been upgraded](https://tekdeeps.com/specs-of-samsungs-a34-and-a54-smartphones-online-especially-the-prices-have-been-upgraded/)
+
+
+> Hardware Info uses cookies Hardware Info places functional and analytical cookies for the functioning of the website and to improve the website experience. These cookies are necessary. To show more relevant advertisements on Hardware Info and to show embedded content from third parties (for example videos), we ask your permission. Embedded content allows third parties to provide and improve services, track visitor statistics, display personalized content, display targeted advertisements and build user profiles.
+
+
+***
+![How to check your CPU temperature](https://www.digitaltrends.com/wp-content/uploads/2017/07/Acer-Rog-Strix-Review-CPU.jpg?resize=1200%2C630&p=1 "How to check your CPU temperature")
+
+
+[How to check your CPU temperature](https://www.digitaltrends.com/computing/how-to-check-your-cpu-temperature/)
+
+
+> Checking your CPU's temperature is a great way to make sure that your processor is running at peak performance, as a processor that's too hot can cause all kinds of common PC problems , from throttled performance to crashes. There are a number of different ways to check your CPU temperature, and you may have some of the applications installed already. Whether you're looking to troubleshoot a PC problem or are interested in testing your processor's performance, here are the best ways to check your processor's temperature.
+
+
+***
+![Shell is demanding 113,000 euros from Greenpeace for occupation of the drilling platform](https://www.rtlnieuws.nl/sites/default/files/content/images/2023/02/11/CROPPER_ANP-462244849.jpg "Shell is demanding 113,000 euros from Greenpeace for occupation of the drilling platform")
+
+
+[Shell is demanding 113,000 euros from Greenpeace for occupation of the drilling platform](https://tekdeeps.com/shell-is-demanding-113000-euros-from-greenpeace-for-occupation-of-the-drilling-platform/)
+
+
+> The damage Shell says it has suffered is because Greenpeace activists have placed solar panels and a wind turbine on the floating platform. The platform is on its way to the port of the Norwegian city of Haugesund. Shell also demands that the four activists leave the vessel, according to Greenpeace. These are activists from Argentina, Turkey, the United Kingdom and the United States. They call on Shell to stop drilling for oil and gas and to pay for environmental damage caused by the burning of fossil fuels.
+
+
+***
+![NFL-Super Bowl showdown to provide betting bonanza](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_46_5151186.jpg?width=920&format=jpeg "NFL-Super Bowl showdown to provide betting bonanza")
+
+
+[NFL-Super Bowl showdown to provide betting bonanza](https://www.devdiscourse.com/article/technology/2351824-nfl-super-bowl-showdown-to-provide-betting-bonanza)
+
+
+> The Super Bowl has long been the single biggest sports betting event of the year in the United States and Sunday's showdown in Glendale, Arizona could reach new heights as wagering on the NFL's championship game has exploded in popularity. It will be the first Super Bowl held in a state that offers legal sports betting and there is even a physical sportsbook on the same grounds as the stadium that will host the game between the Philadelphia Eagles and Kansas City Chiefs. Mix in the fact that there are three additional states that offer legal sports betting compared with a year ago, for a total of 33 states plus Washington, D.
+
+
+***
+![Nokia G22 pops up on GeekBench](https://fdn.gsmarena.com/imgroot/news/23/02/nokia-g22-geekbench/-952x498w6/gsmarena_001.jpg "Nokia G22 pops up on GeekBench")
+
+
+[Nokia G22 pops up on GeekBench](https://www.gsmarena.com/nokia_g22_pops_up_on_geekbench-news-57523.php)
+
+
+> A mysterious, unannounced Nokia G22 phone was recently spotted in the GeekBench database. We still don't have a lot of detail on the phone, but what is available doesn't seem like a major upgrade over the existing Nokia G21. Nokia G22 GeekBench result GeekBench reports pretty low single and multi-core scores from an unnamed Unisoc chipset. An 8-core unit, clocked at 1.61GHz, our bet would be that it is actually the exact same Unisoc T606 as found in the Nokia G21. While the chipset might be carried forward, at least GeekBench reports that the G22 is rocking 4GB of RAM, which hopefully suggests that the base 3GB RAM version from the G21 is no longer a thing.
+
+
+***
+![Viral Doctor Talks About Costly Hospital Bills Via TikTok](https://1734811051.rsc.cdn77.org/data/images/full/421027/this-viral-doctor-talks-about-costly-hospital-bill-via-tiktok.jpg "Viral Doctor Talks About Costly Hospital Bills Via TikTok")
+
+
+[Viral Doctor Talks About Costly Hospital Bills Via TikTok](https://www.techtimes.com/articles/287529/20230211/this-viral-doctor-talks-about-costly-hospital-bill-via-tiktok.htm)
+
+
+> John Lopez , Tech Times 11 February 2023, 12:02 pm Australian patients are paying more to see their general practitioner (GP). According to reports, the federal government's failure to increase the Medicare rebate has resulted in an increase in out-of-pocket gap fees. Even the health minister is now not sugarcoating the situation. According to Mark Butler, Medicare is in the "worst shape it's been in its 40-year history," and the Australian health service is in a "truly parlous state." The medical community has quickly criticized the government's lack of urgency, citing a 3.
+
+
+***
+![Instagram launches new time-lapse app](https://techmoran.com/wp-content/uploads/2014/08/Instagrams-new-time-lapse-app.jpg "Instagram launches new time-lapse app")
+
+
+[Instagram launches new time-lapse app](https://techmoran.com/2014/08/27/instagram-launches-new-time-lapse-app/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![Scientists have discovered superhighways in space. They can make spaceships fly incredibly fast](https://vlm-production-dam-public.fra1.cdn.digitaloceanspaces.com/640x360/716/71695820-1327-4737-8dbd-cd1421068166.webp "Scientists have discovered superhighways in space. They can make spaceships fly incredibly fast")
+
+
+[Scientists have discovered superhighways in space. They can make spaceships fly incredibly fast](https://www.world-today-news.com/scientists-have-discovered-superhighways-in-space-they-can-make-spaceships-fly-incredibly-fast/)
+
+
+> Even though we can't see them, they cross the entire Solar System. These are the so-called cosmic superhighways, which are created by the gravitational interactions of the planets. They allow objects to travel much faster than normal. They can thus be the cause of the chaotic movement of planets threatening the Earth. www.scitechdaily.com, www.livescience.com, www.sciencealert.com A team of scientists led by Nataša Todorović from the Belgrade Astronomical Observatory in Serbia came across these structures by accident.
+
+
+***
+![OnePlus 11 and this will cost the Samsung A54 (Android News #6 2023)](https://www.androidplanet.nl/wp-content/uploads/2023/01/oneplus-11-officieel-nederland-uitg-300x194.jpg "OnePlus 11 and this will cost the Samsung A54 (Android News #6 2023)")
+
+
+[OnePlus 11 and this will cost the Samsung A54 (Android News #6 2023)](https://tekdeeps.com/oneplus-11-and-this-will-cost-the-samsung-a54-android-news-6-2023/)
+
+
+> The OnePlus 11 is coming to the Netherlands soon and the Samsung Galaxy A54 prices have leaked. This is the most important Android news of the week. OnePlus 11 to the Netherlands for 829 euros: you need to know this The OnePlus 11 has already been presented in China and is now also coming to the Netherlands. The successor to the OnePlus 10 Pro is for sale from today and has a suggested retail price of 829 euros. This makes the OnePlus 11 cheaper than its predecessor. This is, incidentally, the price of the entry-level model, which has 8GB of RAM and 128GB of storage space.
+
+
+***
+![Thermal control system coolant leaked in Progress MS-21 on the ISS](https://russian.rt.com/static/blocks/og-img/pl-17.jpg "Thermal control system coolant leaked in Progress MS-21 on the ISS")
+
+
+[Thermal control system coolant leaked in Progress MS-21 on the ISS](https://www.tellerreport.com/tech/2023-02-11-thermal-control-system-coolant-leaked-in-progress-ms-21-on-the-iss.SJbeCvrHpo.html)
+
+
+> The executive director of Roscosmos for manned programs, Sergei Krikalev, said that the coolant of the thermal control system leaked in the Progress MS-21 on the ISS. According to him, the incident on the Progress MS-21 is similar to the situation with the Soyuz MS-22 that occurred in December. 'On a cargo ship, which has been docked to the station for several months, there was a coolant leak from the thermal control system. The situation is somewhat similar to what happened with our ship in mid-December, 'he said.
+
+
+***
+![BRIT Awards host Mo Gilligan addresses taking over from Jack Whitehall](https://iknowallnews.com/wp-content/uploads/2019/11/cropped-ser7-32x32.gif "BRIT Awards host Mo Gilligan addresses taking over from Jack Whitehall")
+
+
+[BRIT Awards host Mo Gilligan addresses taking over from Jack Whitehall](https://iknowallnews.com/celebrities/brit-awards-host-mo-gilligan-addresses-taking-over-from-jack-whitehall)
+
+
+> BRIT Awards: Mo Gilligan trolls Boris Johnson over 'partygate' We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info The award-winning comedian was asked to return as host after his successful stint last year. Mo, 34, admitted that former host Jack Whitehall, 34, sent him a text wishing him well in the role. Speaking to Rolling Stone magazine, he said: 'Me and Jack have totally different styles, so [last year] that was me trying to put my own stamp on it.
+
+
+***
+![The player found a way to get to the women's floor of the Hufflepuff dorm in Hogwarts Legacy](https://i.playground.ru/e/AJGwvJ-8vSKdBI4Piajo5Q.png?600xauto "The player found a way to get to the women's floor of the Hufflepuff dorm in Hogwarts Legacy")
+
+
+[The player found a way to get to the women's floor of the Hufflepuff dorm in Hogwarts Legacy](https://www.world-today-news.com/the-player-found-a-way-to-get-to-the-womens-floor-of-the-hufflepuff-dorm-in-hogwarts-legacy/)
+
+
+> One player was VERY interested to find out what is there on the second floor of the hostel (a zone for girls), but that's bad luck, for all the boys the stairs turn into a 'slide' and the main character of the game is not destined to get where the game designers deliberately forbade entry. Discrimination! Apparently, the TikTok user thought so and found a way to make the student's dream come true: to get into the women 's hostel. news/356015" place="body"/> A persistent player named Callum Taylor found a way to get around the ban – 'cling to the railing', when the stairs are in a state of slide, you need to stand on the railing, wait a bit, and the stairs will return to normal.
+
+
+***
+![Doogee V Max Combines The Largest Battery (22000mAh) And The Most Powerful Chipset](https://www.gizchina.com/wp-content/uploads/images/2023/02/9ceceac0974a4281a108bb052ead362.jpg "Doogee V Max Combines The Largest Battery (22000mAh) And The Most Powerful Chipset")
+
+
+[Doogee V Max Combines The Largest Battery (22000mAh) And The Most Powerful Chipset](https://www.gizchina.com/2023/02/11/doogee-v-max-combines-the-largest-battery-22000mah-and-the-most-powerful-chipset/)
+
+
+> Rugged phones over the years have had some pretty huge battery capacities but the Doogee V Max is literally maxing out the battery power on a smartphone. At 22000mAh, V Max is the biggest  commercially available battery capacity smartphone . Set to be launched in February, the V Max is the culmination of Doogee's battery superiority. On a single charge, it is capable of reaching up to an impressive 2300 hours on standby. According to marketing materials from the company, it can last for up to 25 hours of gaming, 35 hours of streaming, 80 hours of music, and 109 hours of phone calls.
+
+
+***
+![OpenShift Container Platform](https://miro.medium.com/max/1200/1*4qp9AOeeyfvhgsR8lP9f0Q.jpeg "OpenShift Container Platform")
+
+
+[OpenShift Container Platform](https://medium.com/@imankit/openshift-ec9ccf1fcf29)
+
+
+> OpenShift is a container application platform that is developed by Red Hat. It is a cloud-based platform that provides developers with the tools and resources they need to build, deploy, and manage applications in a secure and scalable environment. OpenShift provides a platform-as-a-service (PaaS) solution that abstracts away the underlying infrastructure and enables developers to focus on writing code and building applications. Standings : According to recent market research, OpenShift is considered one of the top players in the container platform market along with Kubernetes and Docker.
+
+
+***
+![iPhone 15 and 15 Plus will have a bigger camera sensor](https://cdn.antaranews.com/cache/800x533/2023/02/11/Apple-iPhone-14-iPhone-14-Plus-hero-220907_Full-Bleed-Image.jpg.xlarge.jpg "iPhone 15 and 15 Plus will have a bigger camera sensor")
+
+
+[iPhone 15 and 15 Plus will have a bigger camera sensor](https://www.world-today-news.com/iphone-15-and-15-plus-will-have-a-bigger-camera-sensor/)
+
+
+> Jakarta (ANTARA) – The regular version of the iPhone 15 and iPhone 15 Plus is believed to have a larger camera sensor size than the previous generation. As reported by Apple Hub technology leaks via their Twitter account @applehub which revealed that the two cellphones will have a camera sensor of 48 MP. Launching GizChina, Saturday, apart from the presence of a new sensor, the regular iPhone 15 and iPhone 15 Plus will also have a new design for the rear camera module. The camera sensor in the regular iPhone 14 and Plus generations is relatively small, with a size of 12 MP.
+
+
+***
+![Inside Rochelle Humes Galentines dinner party with I Love You apples and roses](https://iknowallnews.com/wp-content/uploads/2023/02/Inside-Rochelle-Humes-Galentines-dinner-party-with-I-Love-You-apples-and-roses.jpg "Inside Rochelle Humes Galentines dinner party with I Love You apples and roses")
+
+
+[Inside Rochelle Humes Galentines dinner party with I Love You apples and roses](https://iknowallnews.com/celebrities/inside-rochelle-humes-galentines-dinner-party-with-i-love-you-apples-and-roses/)
+
+
+> Home » Celebrities » Inside Rochelle Humes Galentines dinner party with I Love You apples and roses Rochelle Humes started her Valentine's Day celebrations early this year and recently threw a fun 'Galentine's' dinner party. The Saturdays star, 33, hosted a themed evening at her family home for her close friends on Friday, and gave her fans a glimpse into the celebrations on Instagram. Rochelle, who recently took her eldest daughter Alaia-Mai to meet the Princess of Wales, pulled out all of the stops for her girls' night in and made sure to cook a selection of delicious dishes for everyone to tuck into.
+
+
+***
+![is the paid subscription a success?](https://img.generation-nt.com/twitter_04b0032001683843.jpg "is the paid subscription a success?")
+
+
+[is the paid subscription a success?](https://tekdeeps.com/is-the-paid-subscription-a-success/)
+
+
+> According to a document consulted by The Information, around 180,000 people in the United States paid subscriptions to the Twitter social network in mid-January. They made up 62% of Twitter's total paid followers. So there were more 290,000 paying subscribers for Twitter in the world. These internal figures are consistent with the researcher's follow-up Travis Brown. According to its latest estimate for early February, there would be just under 290,000 subscribers to Twitter Blue which constitutes the bulk of paid subscriptions.
+
+
+***
+![Russian spacecraft loses pressure, station crew safe](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17mO7K.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Russian spacecraft loses pressure, station crew safe")
+
+
+[Russian spacecraft loses pressure, station crew safe](http://www.msn.com/en-us/news/technology/russian-spacecraft-loses-pressure-station-crew-safe/ar-AA17mJsN)
+
+
+> MOSCOW (AP) — An uncrewed Russian supply ship docked at the International Space Station has lost cabin pressure, the Russian space corporation reported Saturday, saying the incident doesn't pose any danger to the station's crew. Roscosmos said the hatch between the station and the Progress MS-21 had been locked so the loss of pressure didn't affect the orbiting outpost. 'The temperature and pressure on board the station are within norms and there is no danger to health and safety of the crew,' it said in a statement.
+
+
+***
+![The sun just did something weird, and 3 other space stories you may have missed this week](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17mRZa.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "The sun just did something weird, and 3 other space stories you may have missed this week")
+
+
+[The sun just did something weird, and 3 other space stories you may have missed this week](http://www.msn.com/en-us/news/technology/the-sun-just-did-something-weird-and-3-other-space-stories-you-may-have-missed-this-week/ar-AA17mYnr)
+
+
+> Space is very big and quite often, very weird. Here's what you may have missed this week. Load Error Starting off, this week saw some big tests for the future of spaceflight. After what's become an almost routine Falcon 9 satellite launch on Tuesday, SpaceX fired up all but two stages of the 33-stage booster rocket Thursday meant for its long-awaited Starship spacecraft in Texas. If all continues to go well, SpaceX says the first Starship launch could happen as early as March. Over in Hancock County, Miss.
+
+
+***
+![New Lava Blaze 5G variant launched with more RAM and storage, see price and specs](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/banner-sixteen_nine.jpg "New Lava Blaze 5G variant launched with more RAM and storage, see price and specs")
+
+
+[New Lava Blaze 5G variant launched with more RAM and storage, see price and specs](https://www.businesstoday.in/technology/news/story/new-lava-blaze-5g-variant-launched-with-more-ram-and-storage-see-price-and-specs-369900-2023-02-11)
+
+
+> The Lava Blaze 5G is the latest budget smartphone offering from the brand. The new phone comes with some exciting features like more RAM and storage than the previous iteration. The Lava Blaze 5G has a 6.5-inch 720p display with a refresh rate of up to 90Hz. It is powered by a 7nm 2.2 GHz Dimensity 700 processor and 4GB of RAM which can be expanded up to 7GB with the Virtual RAM feature.  On the storage front, it has 128GB of storage expandable up to 1TB. On the camera side, it has a 50MP main shooter with Electronic Image Stabilization (EIS) and an 8MP ultra-wide lens.
+
+
+***
+![Rainbow Baby on Board! Alexander Ludwig and Wife Lauren Expecting 1st Child](https://iknowallnews.com/wp-content/uploads/2023/02/Rainbow-Baby-on-Board-Alexander-Ludwig-and-Wife-Lauren-Expecting-1st-Child.jpg "Rainbow Baby on Board! Alexander Ludwig and Wife Lauren Expecting 1st Child")
+
+
+[Rainbow Baby on Board! Alexander Ludwig and Wife Lauren Expecting 1st Child](https://iknowallnews.com/lifestyle/rainbow-baby-on-board-alexander-ludwig-and-wife-lauren-expecting-1st-child/)
+
+
+> Home » Lifestyle » Rainbow Baby on Board! Alexander Ludwig and Wife Lauren Expecting 1st Child Rainbow baby on board!  Alexander Ludwig 's wife, Lauren Ludwig (née Dear) , is pregnant with the couple's first child after previously suffering multiple miscarriages. Celebrity Pregnancy Announcements of 2023: See Which Stars Are Expecting 'It's been a long road, and we wanted to wait until things were looking promising this time around,' the  Hunger Games  actor, 30, wrote via Instagram on Friday, February 10, sharing a baby bump photo of his wife, 31.
+
+
+***
+![Camilla's favourite bracelet is a 'symbol of love'](https://iknowallnews.com/wp-content/uploads/2023/02/Camillas-favourite-bracelet-is-a-symbol-of-love.jpg "Camilla's favourite bracelet is a 'symbol of love'")
+
+
+[Camilla's favourite bracelet is a 'symbol of love'](https://iknowallnews.com/fashion/camillas-favourite-bracelet-is-a-symbol-of-love/)
+
+
+> We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info Queen Camilla often wears a selection of special bracelets around her wrists, including a blue and gold Van Cleef and Arpels bracelet. This is the Vintage Alhambra bracelet, which is made of 18k yellow gold. Camilla's bracelet is a gold chain featuring five four-leaf clover motifs in blue, with each motif edged in golden beads.
+
+
+***
+![I'm a nail tech & this is what your manicure really says about your personality](https://iknowallnews.com/wp-content/uploads/2023/02/Ix27m-a-nail-tech-amp-this-is-what-your-manicure-really-says-about-your-personality-amp-one-screams-youx27ve-got-money-The-Sun.jpg "I'm a nail tech & this is what your manicure really says about your personality")
+
+
+[I'm a nail tech & this is what your manicure really says about your personality](https://iknowallnews.com/fashion/im-a-nail-tech-this-is-what-your-manicure-really-says-about-your-personality-one-screams-youve-got-money-the-sun/)
+
+
+> Home » Fashion » I'm a nail tech & this is what your manicure really says about your personality – & one screams you've got money | The Sun A NAIL expert has revealed what your nail shape and design choice reveals about your personality. So, do you agree? Liv Mendoza, who posts under the acronym @livmendozaaaa, took to TikTok and posted a video which she captioned: "Whats your nails say about you?" First up, she shares a snap of a long-stiletto shaped nail that's encrusted with red diamonds.
+
+
+***
+![Inside Love Islanders Chloe Burrows and Millie Court's girls trip to Dublin](https://iknowallnews.com/wp-content/uploads/2023/02/Inside-Love-Islanders-Chloe-Burrows-and-Millie-Courts-girls-trip-to-Dublin-The-Sun.jpg "Inside Love Islanders Chloe Burrows and Millie Court's girls trip to Dublin")
+
+
+[Inside Love Islanders Chloe Burrows and Millie Court's girls trip to Dublin](https://iknowallnews.com/tv-movies/inside-love-islanders-chloe-burrows-and-millie-courts-girls-trip-to-dublin-the-sun/)
+
+
+> Home » TV & Movies » Inside Love Islanders Chloe Burrows and Millie Court's girls trip to Dublin | The Sun LOVE Islanders Chloe Burrows and Millie Court have jetted to Ireland. The reality TV stars are in Dublin right now for a girls trip. The pals arrived yesterday and have shared snippets of their stay so far over on Instagram. Millie gushed over their stunning hotel room saying it was the "cutest room ever". They're staying in one of the townhouse suites of the hotel with a super-king sized bed, a copper bath and fire place in the room.
+
+
+***
+![Ignore the mechanical keyboard snobs — membrane is all you need](https://cdn.mos.cms.futurecdn.net/ZELo284chtRoArCU9BCHga-1200-80.jpg "Ignore the mechanical keyboard snobs — membrane is all you need")
+
+
+[Ignore the mechanical keyboard snobs — membrane is all you need](https://www.techradar.com/features/ignore-the-mechanical-keyboard-snobs-membrane-is-all-you-need)
+
+
+> Recently I ran a poll on Twitter , asking what type of keyboard people preferred: mechanical or membrane? The results were a foregone conclusion, with mechanical keyboards winning by a landslide. But there was still a decent chunk of pollers who stood by membrane keyboards. What kinds of keys do you prefer in a keyboard? (gifs and alt text of each choice in thread)If you're wondering, this is also a little preview of two upcoming keyboard reviews I'm writing for @techradar, so I decided to try something a little fun! January 26, 2023 See more I also received a few replies explaining which types they used, with the general consensus being that membrane keyboards are preferable for office work or other environments that required people to be around others for a significant amount of time.
+
+
+***
+![[News] Researchers at Brigham Young University created an AI system to reduce time spent on film studies for NFL teams. It uses deep learning and computer vision to analyze and annotate game footage, with over 90% accuracy on player detection and 85% accuracy in determining formations.](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[News] Researchers at Brigham Young University created an AI system to reduce time spent on film studies for NFL teams. It uses deep learning and computer vision to analyze and annotate game footage, with over 90% accuracy on player detection and 85% accuracy in determining formations.")
+
+
+[[News] Researchers at Brigham Young University created an AI system to reduce time spent on film studies for NFL teams. It uses deep learning and computer vision to analyze and annotate game footage, with over 90% accuracy on player detection and 85% accuracy in determining formations.](https://www.reddit.com/r/MachineLearning/comments/10zqzkd/news_researchers_at_brigham_young_university)
+
+
+> [News] Researchers at Brigham Young University created an AI system to reduce time spent on film studies for NFL teams. It uses deep learning and computer vision to analyze and annotate game footage, with over 90% accuracy on player detection and 85% accuracy in determining formations.
+
+
+***
+![Mario Kart 8 DLC hints at more returning characters after Birdo reveal](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mario-kart-8-deluxe-birdo-1676126022.png?crop=1.00xw:0.915xh;0,0&resize=1200:* "Mario Kart 8 DLC hints at more returning characters after Birdo reveal")
+
+
+[Mario Kart 8 DLC hints at more returning characters after Birdo reveal](https://www.digitalspy.com/tech/a42834667/mario-kart-8-dlc-more-returning-characters/)
+
+
+> Nintendo Mario Kart 8 Deluxe is adding its first new character for the Booster Course Pass in Wave 4, with this week's announcement that Birdo is returning to the main series for the first time since Mario Kart Wii. But it looks like we'll be getting even more characters in Waves 5 and 6, as the official press release for the latest Nintendo Direct states: "Returning characters from the Mario Kart series will be added in future waves." Waves 5 and 6 will be released by the end of 2023, with eight courses in each wave.
+
+
+***
+![The AirPods Pro and entry-level Kindle highlight this weekend's best deals](https://cdn.vox-cdn.com/thumbor/b44n0Mqjwg0qAHgjpkcX41l48_g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24040656/226285_AIRPODS_PRO_2_cwelch_0012.jpg "The AirPods Pro and entry-level Kindle highlight this weekend's best deals")
+
+
+[The AirPods Pro and entry-level Kindle highlight this weekend's best deals](https://www.theverge.com/2023/2/11/23594510/apple-airpods-pro-2-amazon-kindle-eero-pro-6e-mesh-wi-fi-router-sonos-one-smart-speaker-deal-sale)
+
+
+> Welcome to the weekend, dear readers! Microsoft's forthcoming, ChatGPT-powered browser and Nintendo's latest Direct event may have dominated the news cycle as of late, but there were a number of headline-grabbing discounts peppered throughout the week. And while we typically reserve our weekend roundups for new deals, we figured we'd take the opportunity to run through some of the highlights you may have missed — you know, with V-Day coming up and all. First up is Apple's second-gen AirPods Pro , which have returned to an all-time low of $199.
+
+
+***
+![How to Find Contacts on Instagram The Ultimate Guide](https://i0.wp.com/www.thebulletintime.com/wp-content/uploads/2023/01/How-to-Find-Contacts-on-Instagram-The-Ultimate-Guide.jpg?fit=650%2C379&ssl=1 "How to Find Contacts on Instagram The Ultimate Guide")
+
+
+[How to Find Contacts on Instagram The Ultimate Guide](https://www.thebulletintime.com/technology/how-to-find-contacts-on-instagram-the-ultimate-guide/)
+
+
+> Instagram has a powerful search function that can help you find the contacts you are looking for. You can search by hashtag, profile, or location, and also filter results to narrow down your options. In this guide, we will take a look at how Instagram's search function works and how you can use it to find the contacts you need. Learn how to use the search bar The search bar located at the top of your Instagram homepage enables you to explore different users and content on the platform. You can easily use it to find people, hashtags, and content related to your interests.
+
+
+***
+![Deploying microVM on top of Kubernetes](https://miro.medium.com/max/512/0*zhiHBWN8P9LJVgoA.png "Deploying microVM on top of Kubernetes")
+
+
+[Deploying microVM on top of Kubernetes](https://medium.com/@mjoffre/deploying-microvm-on-top-of-kubernetes-64ca39743040)
+
+
+> Fast and secure microVM fitted for serverless workload directly into Kubernetes. Kubernetes logo In this tutorial we will deploy a microVM on top of Kubernetes. We will use the Kata Containers runtime to run the microVM. The microVM will be deployed as a pod in Kubernetes. If you are not familiar with microVM, I've recently written a medium post about it. You can read it to get more information about microVM, Firecracker and how you can deploy it from scratch. If you are not familiar with Kubernetes, you can read the Kubernetes documentation At the moment, you may wonder why you should use microVM instead of containers.
+
+
+***
+![I tried Bing Chat and AI in Edge: Here's what happened](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/bing-chat-edge-header-scaled.jpg "I tried Bing Chat and AI in Edge: Here's what happened")
+
+
+[I tried Bing Chat and AI in Edge: Here's what happened](https://mobilesyrup.com/2023/02/11/bing-chat-ai-edge-first-impresisons/)
+
+
+> The AI wars ramped up this week after Google showed off its ChatGPT competitor Bard AI , and Microsoft announced the integration of ChatGPT-powered AI tools into Bing search and the Edge browser . While Microsoft's announcement certainly seemed impressive, most people weren't able to try it out right away and instead joined a waitlist. However, the company has been granting some members of the press access to the new tools — including myself. If you want to know how to get access to AI features in Bing or Edge, check out this guide .
+
+
+***
+![Frosthaven Review](https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Frosthaven%20Review%2022.jpg?itok=-wd1kb2d "Frosthaven Review")
+
+
+[Frosthaven Review](https://techraptor.net/tabletop/reviews/frosthaven-review)
+
+
+> The world of Tabletop games, for those who aren't aware, is incredibly varied. Even if you're "not into board games" chances are there's a game unique and specific enough to grab your attention. A lot of these games normally don't come to the surface of popular culture much, but oversized RPG Gloomhaven was definitely one of them. Now that Frosthaven is out we took a look at this deep RPG filled with multiple classes, a city-building system, and elegant combat to see how it shapes up and if Cephalofair Games has done it again.
+
+
+***
+![Razer Blade 18 review: the price is going up](https://cdn.vox-cdn.com/thumbor/Zj-Qd_R-nu0ENRm69e0sw8qsrfY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24424606/236520_Razer_Blade_18_AKrales_0031.jpg "Razer Blade 18 review: the price is going up")
+
+
+[Razer Blade 18 review: the price is going up](https://www.theverge.com/23595235/razer-blade-18-2023-review-specs-13th-gen-performance-nvidia-rtx-4080-qhd-gaming-laptop)
+
+
+> Razer has made big laptops in the past — but they apparently weren't big enough. The Razer Blade 18 is the biggest-screened Razer Blade ever released, and it's hard to overstate how immersive that 18-inch, QHD, 16:10, 240Hz display is. That massive 2560 x 1600 screen is the primary draw of the device, but a few other staples of the Blade line — the six-speaker array, the per-key RGB keyboard, the best build quality you'll find in the high-end gaming space — as well as some features coming newly to the 18, including a CPU overclocking feature, a battery health optimizer, and an absolutely massive touchpad, all make for a solid package.
+
+
+***
+![Kubernetes Contributor Summit 2023 [part-2]](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png "Kubernetes Contributor Summit 2023 [part-2]")
+
+
+[Kubernetes Contributor Summit 2023 [part-2]](https://shivanshu1333.medium.com/kubernetes-contributor-summit-2023-part-2-c976ad4add75?source=rss------kubernetes-5)
+
+
+> Kubernetes Contributor Summit 2023 [part-2] Getting ready for rolling out the registration form [in draft]
+
+
+***
+![U.S. Recycling Could Hit 75% With ‘Itty-Bitty' Fees For Extended Producer Responsibility](https://www.mccourier.com/wp-content/uploads/2023/02/US-Recycling-Could-Hit-75-With-‘Itty-Bitty-Fees-For-Extended.jpg "U.S. Recycling Could Hit 75% With ‘Itty-Bitty' Fees For Extended Producer Responsibility")
+
+
+[U.S. Recycling Could Hit 75% With ‘Itty-Bitty' Fees For Extended Producer Responsibility](https://www.mccourier.com/u-s-recycling-could-hit-75-with-itty-bitty-fees-for-extended-producer-responsibility/)
+
+
+> An overflowing trash can with disposable packaging in Berlin. dpa/image alliance through Getty Pictures You're a producer and you place a product on the cabinets. Do you ensure it's recyclable? You do in case you stay in a state, province or nation with Prolonged Producer Accountability packages. These packages, EPR for brief, require firms that produce packaging supplies to fund native recycling packages by paying charges. The Recycling Partnership, a Washington, D.C., nonprofit, is out with a report that seemed on the affect of EPR in seven jurisdictions worldwide and 6 U.
+
+
+***
+![The easiest way to implement authentication for a Kubernetes application](https://miro.medium.com/max/876/1*ioe1stA1PymrZ4EbhhwRdQ.png "The easiest way to implement authentication for a Kubernetes application")
+
+
+[The easiest way to implement authentication for a Kubernetes application](https://medium.com/@linoleparquet/the-easiest-way-to-implement-authentication-for-a-kubernetes-application-44867fbd35f6)
+
+
+> Ever wanted to allow only authenticated Google users to reach your Kubernetes app without writing a single line of code in your application ? Fantastic ! That's what we are going to learn today using OAuth2Proxy.Tt For the sake of simplicity, we are going to deploy a nginx application: that's gonna be the resource to secure. Then we will create a OAuth Client in Google API. Finally we will configure OAuth2Proxy to handle the authentication for us. Sounds great ? Let's dive in ! ✨ Let's deploy the simplest frontend service ever.
+
+
+***
+![Will a faster cable modem make a difference?](https://images.macrumors.com/social/?t=2380432&v=6 "Will a faster cable modem make a difference?")
+
+
+[Will a faster cable modem make a difference?](https://forums.macrumors.com/threads/will-a-faster-cable-modem-make-a-difference.2380432/)
+
+
+> Jan 1, 2017 17 8 Variable We have a small wired (Ethernet) LAN. It has a two Macs, a AppleTV and a NAS device. There's an unmanaged Netgear switch to connect it all and an ASUS router. The router connects to the Internet via a 1Gb/s Motorola DOCSIS 3.1 cable modem. I pay for 1GB/s and generally when I run Speedtest I get 940MB/s down and 40MB/s up. Recently Comcast sent me a note saying that they increased the speed to 1.
+
+
+***
+![Here's What to Know About Ozempic and Wegovy](https://www.cnet.com/a/img/resize/1031008e8a7903a0d83c6032f9250329bf8ce113/hub/2023/02/03/2692e771-9ffc-48b1-a3f5-e1ef4d09c21c/gettyimages-1348209410-1.jpg?auto=webp&fit=crop&height=630&width=1200 "Here's What to Know About Ozempic and Wegovy")
+
+
+[Here's What to Know About Ozempic and Wegovy](https://www.cnet.com/health/medical/heres-what-to-know-about-ozempic-and-wegovy/)
+
+
+> The diabetes drug Ozempic and its weight-loss counterpart, Wegovy, have been making waves in the medical community as well as pop culture . Society's complicated, and often dangerous, relationship with diet pills has people asking: Do these new drugs really work? Are they safe? Are they even ethical to seek out as a weight loss tool while the US Food and Drug Administration continues to report a shortage of both drugs' active ingredient, semaglutide?  The answers might depend on why you're taking them, and if you're able to keep taking them.
+
+
+***
+![Kubernetes with LKE — Linode Kubernetes Engine](https://miro.medium.com/max/1200/1*l9GN2FnKIsjabeHEfICJ5w.png "Kubernetes with LKE — Linode Kubernetes Engine")
+
+
+[Kubernetes with LKE — Linode Kubernetes Engine](https://medium.com/@haseebsultandogar/kubernetes-with-lke-linode-kubernetes-engine-9de7669323b5)
+
+
+> LKE streamlines deployment and management of containerized apps and workloads with a fully-managed K8s engine. It offers simple pricing and ease of use while ensuring infrastructure efficiency. Quickly get your infrastructure and workloads running in minutes, not days. Linode Kubernetes Engine — LKE LKE Specifications : 1. Optimal Resource Utilization 2. ETCD Backup Support 3. Dynamic Cluster Scaling 4. No Management Costs 5. Easy App Deployment w/ Helm charts, Operators, & Controllers 6. Dev-Friendly & Portable 7.
+
+
+***
+![Run Scheduled Jobs in K8s Directly from git repo (without CI)](https://miro.medium.com/max/1200/1*x6Vv3HzvjvUSFWMEIa5Taw.png "Run Scheduled Jobs in K8s Directly from git repo (without CI)")
+
+
+[Run Scheduled Jobs in K8s Directly from git repo (without CI)](https://drpdishant.medium.com/run-scheduled-jobs-in-k8s-directly-from-git-repo-without-ci-d3b2b829dd91)
+
+
+> Photo by Aron Visuals on Unsplash Demonstrating a Multiple Container Cronjob execution directly from git repo using init Containers. Overview When we are deploying microservices based applications, every piece of code doesn't necessarily needs to be containerized and deployed with certain resources allocated, there are one-off tasks, or scheduled tasks which are small piece of code doing just one thing, at a defined intervals. We may find out that even such tasks which are made of just a single line of database query or few lines of code, are ususally included in the same CI/CD workflows that deploy the core services that make the apis.
+
+
+***
+![Attach a visual debugger to ML-training jobs on Kubernetes](https://miro.medium.com/max/1200/1*7mxyTAOZkFXV27NsJJA3BQ.png "Attach a visual debugger to ML-training jobs on Kubernetes")
+
+
+[Attach a visual debugger to ML-training jobs on Kubernetes](https://medium.com/@fabiograetz/attach-a-visual-debugger-to-ml-training-jobs-on-kubernetes-eb9678389f1f)
+
+
+> DALL-E imagining an ML-engineer debugging a neural network in the cloud, in the surrealist style of Dali. Debugging locally may not always be possible or practical when training deep learning models, for instance when the debugging requires GPUs/high computational resources, access to data that may not be available on your notebook, or access to a distributed multi-node training environment. When debugging training jobs in the cloud, many machine learning engineers resort to iterative print debugging as a means of troubleshooting.
+
+
+***
+![Small Businesses in Canada Fast Track Open Banking Adoption](https://thefintechtimes.com/wp-content/uploads/2022/11/iStock-484108664-e1669726316281.jpg "Small Businesses in Canada Fast Track Open Banking Adoption")
+
+
+[Small Businesses in Canada Fast Track Open Banking Adoption](https://thefintechtimes.com/canada-small-businesses-fast-track-open-banking-adoption/)
+
+
+> by Claire Woffenden February 11, 2023 February 10, 2023 Mastercard says that the upcoming national framework will prime the open banking sector for even further expansion, according to the research. In March 2022, the Canadian government appointed Abraham Tachjian to lead the development of an open banking framework in the country . Experts expect the framework in the early half of 2023. The Mastercard research Small business owners in Canada are increasingly adopting digital financial tools and technology into their day-to-day operations to drive growth, streamline processes and improve security.
+
+
+***
+![Mac mini M2 vs. Mac Studio: mini PCs with powerful insides](https://www.digitaltrends.com/wp-content/uploads/2023/02/mac-mini-m2-pro-02.jpg?resize=1200%2C630&p=1 "Mac mini M2 vs. Mac Studio: mini PCs with powerful insides")
+
+
+[Mac mini M2 vs. Mac Studio: mini PCs with powerful insides](https://www.digitaltrends.com/computing/apple-mac-mini-m2-vs-mac-studio/)
+
+
+> Apple's latest Mac mini is one powerful tiny PC. Released not too long after the Mac Studio, it arrives with the new M2 chip and makes a formidable rival to the more expensive, M1-powered device. While they look alike, these two computers are not at all the same — they differ both in terms of performance and price. Can the M2 Mac mini replace the Mac Studio? We'll find out below. Price and availability Both the Mac mini M2 and the Mac Studio are already here, but the latter was the first to arrive.
+
+
+***
+![Samsung Galaxy Z Fold 4 revisited: The good and the bad, six months later](https://www.androidauthority.com/wp-content/uploads/2022/08/samsung-galaxy-z-fold-4-main-display-laying-down.jpg "Samsung Galaxy Z Fold 4 revisited: The good and the bad, six months later")
+
+
+[Samsung Galaxy Z Fold 4 revisited: The good and the bad, six months later](https://www.androidauthority.com/samsung-galaxy-z-fold-4-review-revisited-3275483/)
+
+
+> Ryan Haines / Android Authority The Samsung Galaxy Z Fold 4 is far and away the best all-around foldable of its kind. There are other foldable phones out there that do a few things better, such as those that fold perfectly flat and those that have smaller form factors. However, the Galaxy Z Fold 4 has the hardware, software, and global availability that keeps it on top of the heap. It's been around six months since our original Galaxy Z Fold 4 review . How has the phone stood the test of time? I spent some time with the Galaxy Z Fold 4 and have a few thoughts on what's aged like wine — and what's aged like milk.
+
+
