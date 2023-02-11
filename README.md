@@ -7324,3 +7324,876 @@
 > No body in the article.
 
 
+***
+![I tried to see the green comet, but made 3 crucial mistakes that left me disappointed](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17dMUz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=241&y=319 "I tried to see the green comet, but made 3 crucial mistakes that left me disappointed")
+
+
+[I tried to see the green comet, but made 3 crucial mistakes that left me disappointed](http://www.msn.com/en-us/news/technology/i-tried-to-see-the-green-comet-but-made-3-crucial-mistakes-that-left-me-disappointed/ar-AA17dCEL)
+
+
+> Only a tiny fraction of the human population will ever see the green comet screaming past Earth this month. I tried to become one of them, but it was way more difficult than I expected. I've heard (and written) a lot of hype about this comet, called C/2022 E3 (ZTF), or Comet ZTF for short. The ball of frozen gas and dust returned for the first time since the last Ice Age. This weekend it's zooming past Mars, which is the last good opportunity to spot it before it fades into the distance for another 50,000 years.
+
+
+***
+![Scientists Find Fossil of Biggest Penguin Ever](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17lIHZ.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Scientists Find Fossil of Biggest Penguin Ever")
+
+
+[Scientists Find Fossil of Biggest Penguin Ever](http://www.msn.com/en-us/news/technology/scientists-find-fossil-of-biggest-penguin-ever/ar-AA17lQEo)
+
+
+> While searching through the beachy boulders of New Zealand's South Island, a crew of international scientists stumbled on an exquisite find: fossilized evidence of two new penguin species that roamed (or waddled) Earth more than 50 million years ago. But most importantly, one of the discovered penguins, dubbed Kumimanu fordycei, is probably the largest ever to have lived. A co-author of a study on the discovery, published Wednesday in the Journal of Paleontology, had a rather compelling way of putting it.
+
+
+***
+[SUNY Upstate Medical University Selects YuJa Enterprise Video Platform to Provide Cloud-Based Media Management Campuswide](http://www.businesswire.com/news/home/20230210005393/en/SUNY-Upstate-Medical-University-Selects-YuJa-Enterprise-Video-Platform-to-Provide-Cloud-Based-Media-Management-Campuswide/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN JOSE, Calif.--(BUSINESS WIRE)--SUNY Upstate Medical University in Syracuse, New York, has selected YuJa, Inc. to provide a cloud-based media management system.
+
+
+***
+![The legendary Myst turns 30 on iOS](https://cdn.mgig.fr/2023/02/mga-e9575380-w375-w1500-w750_accroche.jpg "The legendary Myst turns 30 on iOS")
+
+
+[The legendary Myst turns 30 on iOS](https://www.world-today-news.com/the-legendary-myst-turns-30-on-ios/)
+
+
+> It did not drag: announced last week, the remake of Myst is now available on the App Store! Soberly called Myst Mobile, it is a port of the 2021 version (released on Mac, PC and consoles) which retyped from top to bottom this game which debuted in 1993. 30 years after its release, has Myst aged? We find the mysterious and bewitching atmosphere of the original title, which makes us land on a strange island on which we will not meet anyone. If you've never played Myst, know that it's a very quiet adventure game: you'll have to comb the map before putting all your observations flat.
+
+
+***
+![Fintech Open Source Foundation (FINOS) Reaches Key Milestones, Sets Strategic Initiatives for 2023](https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-scaled-1024x1024.jpg "Fintech Open Source Foundation (FINOS) Reaches Key Milestones, Sets Strategic Initiatives for 2023")
+
+
+[Fintech Open Source Foundation (FINOS) Reaches Key Milestones, Sets Strategic Initiatives for 2023](https://www.crowdfundinsider.com/2023/02/202348-fintech-open-source-foundation-finos-reaches-key-milestones-sets-strategic-initiatives-for-2023)
+
+
+> FINOS, the Fintech Open Source Foundation and financial services umbrella of the Linux Foundation, announced its 2022 annual results, 'highlighting the growth of the open source movement within the financial services industry, along with their 2023 strategic initiatives.' Led by the more than 2,100 contributors working on FINOS projects and a 20% increase in new corporate members, FINOS claims it 'experienced unprecedented growth in 2022.' In total, FINOS now 'has 68 members leveraging its open source collaboration forum, including the most recent additions of Wellington Management, American Express, and Google Cloud, along with 8 more fintech and financial services organizations this past year.
+
+
+***
+![GreenSAT to Improve the Connectivity of Greenland: Tusass](https://telecomtalk.info/wp-content/uploads/2023/02/greensat-satellite-improve-the-connectivity-of-greenland.jpg "GreenSAT to Improve the Connectivity of Greenland: Tusass")
+
+
+[GreenSAT to Improve the Connectivity of Greenland: Tusass](https://telecomtalk.info/greensat-satellite-improve-connectivity-of-greenland-tusass/675190/)
+
+
+> It's a proud moment for Greenland as GreenSAT, the satellite named after Greenland, is sent into space. For Greenland, this doesn't happen every day, but Tusass is proud to have invested in a part of the new satellite. The satellite launch occurred on February 5 from Florida. SpaceX deployed the rocket, and the GreenSAT is produced by the Spanish satellite supplier Hispasat. Tusass on this ocassion said, "From Spain to the USA and up into space for the benefit of Greenland." GreenSAT named after Greenland Tusass announced the third stage of the satellite plans for Greenland in 2021.
+
+
+***
+![CORSAIR Introduces iCUE Murals Lighting, State-of-the-Art RGB Customization Software](https://assets.nova.com.tw/nova-media/nova/nova-c39baf26-e9d1-4087-b468-6b9ced9681b9.jpg "CORSAIR Introduces iCUE Murals Lighting, State-of-the-Art RGB Customization Software")
+
+
+[CORSAIR Introduces iCUE Murals Lighting, State-of-the-Art RGB Customization Software](https://www.world-today-news.com/corsair-introduces-icue-murals-lighting-state-of-the-art-rgb-customization-software/)
+
+
+> CORSAIR introduces iCUE Murals Lighting, groundbreaking software that creates incredibly immersive lighting effects within CORSAIR iCUE. This powerful feature enables you to Effects are used as color templates to produce imaginative, mesmerizing scenes. With Murals, your desktop and your entire gaming room will come to life with dazzling custom RGB. Murals Lighting is an intuitive and interactive tool that enables users to quickly create custom RGB lighting effects in iCUE like never before. Upload any image, GIF or video to Murals, then place your RGB device on the screen to create stunning visuals in your setup.
+
+
+***
+![Identity Decisioning Platform Alloy Launches in the United Kingdom](https://www.crowdfundinsider.com/wp-content/uploads/2015/06/British-Flag-UK-United-Kingdom-560x1024.jpg "Identity Decisioning Platform Alloy Launches in the United Kingdom")
+
+
+[Identity Decisioning Platform Alloy Launches in the United Kingdom](https://www.crowdfundinsider.com/2023/02/202342-identity-decisioning-platform-alloy-launches-in-the-united-kingdom)
+
+
+> US Fintech Alloy has launched in the UK, strengthening its presence in EMEA 'with key senior hires and office space in London.' Alloy‘s Identity Decisioning Platform 'helps banks and fintech companies to make smarter and faster decisions about the risk profile of each customer, and keep them safe from financial crime.' The platform connects 'to more than 170 data sources, enabling financial institutions to automate customer approval and account opening, and monitor transactions in real time. Over 350 companies around the world trust Alloy to help them simplify processes and respond rapidly to new risks.
+
+
+***
+![Microsoft Flight Simulator Phantom, Boeing 757, & Bf 108 Get New Screenshots & Trailer; Timisoara Airport Announced](https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Microsoft%20Flight%20Simulator%20Phantom%20%281%29%20copy.jpg?itok=5KszK2uI "Microsoft Flight Simulator Phantom, Boeing 757, & Bf 108 Get New Screenshots & Trailer; Timisoara Airport Announced")
+
+
+[Microsoft Flight Simulator Phantom, Boeing 757, & Bf 108 Get New Screenshots & Trailer; Timisoara Airport Announced](https://techraptor.net/gaming/news/microsoft-flight-simulator-phantom-boeing-757-bf-108-get-new-screenshots-trailer)
+
+
+> Today third-party developers revealed new assets and information about upcoming add-ons for Microsoft Flight Simulator, on top of releasing a new one dedicated to helicopters. We start with DC Designs, which released new images about its upcoming F-4 Phantom , and more precisely about the British Phantom FGR.2 variant in the RAF 56 Squadron "Firebirds" livery.  We also get a development update and an estimated release in April. "This week, I have been able to add the specific modelling and texturing details for the British FGR2 Phantoms.
+
+
+***
+![Google Messages' new icon now appearing for more users in the notification tray](https://m-cdn.phonearena.com/images/article/145463-wide-two_1200/Google-Messages-new-icon-now-appearing-for-more-users-in-the-notification-tray.jpg "Google Messages' new icon now appearing for more users in the notification tray")
+
+
+[Google Messages' new icon now appearing for more users in the notification tray](https://www.phonearena.com/news/google-messages-notification-icon-update_id145463)
+
+
+> The Google Messages icon was updated to a fresh look late last year; however, for most users, the notification icon for the app didn't quite follow the same design change. This now changing as the notification icon has been changing widely for more users to reflect the new style. The reports of the new icon making its rounds initially came from the Google Pixel subreddit where users starting noticing the change overnight and was then shared by 9to5Google . It turns out that a subset of Pixel 6 and 7 series users were experiencing an issue where the old Messages icon would appear in the notification tray and on the lock screen, even after the actual app icon had changed.
+
+
+***
+![Clash of Clans Valentine's Day Challenge](https://staticg.sportskeeda.com/editor/2023/02/dc600-16760650542650-1920.jpg "Clash of Clans Valentine's Day Challenge")
+
+
+[Clash of Clans Valentine's Day Challenge](https://www.sportskeeda.com/esports/clash-clans-valentine-s-day-challenge-how-complete-event-duration)
+
+
+> Clash of Clans sees many new events every week, and some of the major ones offer amazing rewards. Recently, Supercell introduced a great in-game event called the Valentine's Day Challenge. In it, players who get three stars when attacking a base will receive three exciting rewards. This article discusses how to complete the Clash of Clans Valentine's Day Challenge and other information related to this inclusion. Clash of Clans Valentine's Day Challenge: Everything you need to know The Valentine's Day Challenge event went live on February 10 and will run for a total of 9 days.
+
+
+***
+![Jennifer Aniston & Kate Hudson Are Fans of This Sustainable Fashion Brand That Shoppers Say Has the ‘Perfect White Tee'](https://iknowallnews.com/wp-content/uploads/2019/11/cropped-ser7-32x32.gif "Jennifer Aniston & Kate Hudson Are Fans of This Sustainable Fashion Brand That Shoppers Say Has the ‘Perfect White Tee'")
+
+
+[Jennifer Aniston & Kate Hudson Are Fans of This Sustainable Fashion Brand That Shoppers Say Has the ‘Perfect White Tee'](https://iknowallnews.com/lifestyle/jennifer-aniston-kate-hudson-are-fans-of-this-sustainable-fashion-brand-that-shoppers-say-has-the-perfect-white-tee)
+
+
+> If you purchase an independently reviewed product or service through a link on our website, SheKnows may receive an affiliate commission. Everyone needs a basic white t-shirt in their lineup. No matter the occasion or season, it's a wardrobe staple that's always chic and super versatile. It goes with absolutely everything, whether it's classic pair of blue jeans, a patterned skirt, or biker shorts. And let's be honest, one can never have too many white tees. It's a piece of clothing that's guaranteed to get use, so there's no shame in adding a few more to your closet.
+
+
+***
+![On Biden's order, an object the size of a small car was shot down over Alaska](https://cache1.24chasa.bg/Images/Cache/515/IMAGE_13740515_4000_0.jpg "On Biden's order, an object the size of a small car was shot down over Alaska")
+
+
+[On Biden's order, an object the size of a small car was shot down over Alaska](https://www.world-today-news.com/on-bidens-order-an-object-the-size-of-a-small-car-was-shot-down-over-alaska/)
+
+
+> On the orders of President Joe Biden, an American fighter jet today shot down an object the size of a small car at a high altitude over Alaska, the White House announced, Reuters reported. White House spokesman John Kirby told reporters that not many details are known about the object, but the United States expects to recover it, as it fell into American territorial waters, BTA reported. It's unclear where the object came from, Kirby said. According to him, the object fell in the extreme northeastern part of Alaska, near the border with Canada.
+
+
+***
+[DarkPulse, Inc. Announces Approval of Additional One-Month Extension to Complete its Initial Business Combination](http://www.businesswire.com/news/home/20230210005382/en/DarkPulse-Inc.-Announces-Approval-of-Additional-One-Month-Extension-to-Complete-its-Initial-Business-Combination/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HOUSTON--(BUSINESS WIRE)--DarkPulse, Inc. ('DarkPulse' or the 'Company') today announced that the Board of Directors of Global System Dynamics, Inc. (Nasdaq: GSD) ('GSD') has approved its request for an additional one-month extension to complete the initial business combination. Per the terms of the agreement, DarkPulse deposited $83,947.13 (representing an additional $0.0625 per public share) into GSD's trust account for the benefit of its public stockholders. This additional contribution enab
+
+
+***
+![Sources say Times Internet plans to sell Indian streaming platform MX Player to Amazon](https://techcrunch.com/wp-content/uploads/2015/09/shutterstock_81985588.jpg "Sources say Times Internet plans to sell Indian streaming platform MX Player to Amazon")
+
+
+[Sources say Times Internet plans to sell Indian streaming platform MX Player to Amazon](https://techcrunch.com/2023/02/10/daily-crunch-sources-say-times-internet-plans-to-sell-indian-streaming-platform-mx-player-to-amazon/)
+
+
+> Christine Hall Haje Jan Kamps 8 hours To get a roundup of TechCrunch's biggest and most important stories delivered to your inbox every day at 3 p.m. PST, subscribe here . It's Friday, and we're slumping back in our office chairs with a hot cup of coffee after a week that's been as slow as mid-winter molasses. For Black History Month, we are in awe of the story of Sojourner Truth, who was an American abolitionist and women's rights activist. Born into slavery, she escaped with her infant daughter and became the first Black woman to successfully sue for a family member's freedom in 1828.
+
+
+***
+![The GPT-powered Bing chatbot may have just revealed its secret alias to a Stanford student](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17lFOy.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "The GPT-powered Bing chatbot may have just revealed its secret alias to a Stanford student")
+
+
+[The GPT-powered Bing chatbot may have just revealed its secret alias to a Stanford student](http://www.msn.com/en-us/news/technology/the-gpt-powered-bing-chatbot-may-have-just-revealed-its-secret-alias-to-a-stanford-student/ar-AA17ljVJ)
+
+
+> We may now know a secret alias of Microsoft's new conversational AI chatbot. Kevin Liu, a computer science student at Stanford University, said he tricked Microsoft's "new Bing" — which is backed by ChatGPT's creator OpenAI — into revealing its backend identity: Sydney. Liu, an undergrad who is on leave from school to work at an AI startup, told Insider that he was following Microsoft's AI moves when he learned that it released the new version of its web browser Bing earlier this week. He said he immediately jumped on the opportunity to try it — and to try to figure out its backend.
+
+
+***
+![What are the allegations against Twitch streamer Auronplay?](https://staticg.sportskeeda.com/editor/2023/02/b539c-16760617336179-1920.jpg "What are the allegations against Twitch streamer Auronplay?")
+
+
+[What are the allegations against Twitch streamer Auronplay?](https://www.sportskeeda.com/esports/what-allegations-twitch-streamer-auronplay)
+
+
+> Auronplay has been in the news for a few days now, with a string of allegations against him and his partner Biyin. While the Spanish streamer announced a temporary break from Twitch a few days ago, given the ongoing controversy surrounding his old tweets, today's developments might mean more dire consequences for him. Read on to learn about the new allegations leveled against Auronplay and how fans are reacting to the same. Further allegations and why Auronplay announced an indefinite break from Twitch Auronplay came under fire when several of Biyin's problematic tweets from 2013 were retrieved and shared within the streaming community.
+
+
+***
+![Penn Badgley asked for fewer sex scenes in You because of marriage](https://www.rtlnieuws.nl/sites/default/files/content/images/2023/02/10/GettyImages-1198487287.jpg?itok=iDe2Oa-I&offsetX=0&offsetY=0&cropWidth=1024&cropHeight=576&width=2048&height=1152&impolicy=dynamic "Penn Badgley asked for fewer sex scenes in You because of marriage")
+
+
+[Penn Badgley asked for fewer sex scenes in You because of marriage](https://www.world-today-news.com/penn-badgley-asked-for-fewer-sex-scenes-in-you-because-of-marriage/)
+
+
+> Penn, who plays Joe Goldberg in the series, notices that there are considerably more sex scenes in the third season than in the previous seasons. For example, we see how Joe and his wife Love have a quartet. Penn and Victoria, who plays Love, have already admitted that the sex scenes are not easy to film. This is partly due to the fact that the corona pandemic is still in full swing at that time. 'It felt really strange to be very physically intimate right from the start, even though we had to play a married couple,' says Victoria.
+
+
+***
+![Snap's Struggles in 3 Charts](https://www.sharewise.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNC9SV1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--64b577f00a6628f83ae68a29f9f3de14d1fdc045/a-couple-of-investors-looking-at-a-series-of-charts.jpg?locale=de "Snap's Struggles in 3 Charts")
+
+
+[Snap's Struggles in 3 Charts](https://www.world-today-news.com/snaps-struggles-in-3-charts/)
+
+
+> Snap (NYSE: SNAP) owns a top social media platform, Snapchat. But the stock can be dangerous to own, particularly when earnings come out. Large, double-digit declines in price aren't uncommon as the tech company's business has continued to disappoint investors over the years. On Feb. 1, the day after the company released its year-end results, the stock again fell by more than 10%. It doesn't take long to figure out what's wrong with the business and why investors are often bearish. Here are three charts that help summarize the problems with the stock.
+
+
+***
+![MSI announced that its Intel 700 series and Intel 600 series can support 48GB and 24GB DDR5 without updating the BIOS, providing a maximum total memory capacity of 192GB](https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png "MSI announced that its Intel 700 series and Intel 600 series can support 48GB and 24GB DDR5 without updating the BIOS, providing a maximum total memory capacity of 192GB")
+
+
+[MSI announced that its Intel 700 series and Intel 600 series can support 48GB and 24GB DDR5 without updating the BIOS, providing a maximum total memory capacity of 192GB](https://www.world-today-news.com/msi-announced-that-its-intel-700-series-and-intel-600-series-can-support-48gb-and-24gb-ddr5-without-updating-the-bios-providing-a-maximum-total-memory-capacity-of-192gb/)
+
+
+> Times information·13 hours ago 'International Industry' Intel rumored to add 1 billion US dollars to expand packaging and testing investment in Vietnam According to two people familiar with the matter, Intel (Intel) is considering a substantial increase in the company's existing US$1.5 billion investment in Vietnam to expand its chip packaging and testing plant in the country. The potential new move could be worth $1 billion, one of the people said. Another person said the investment could be made in the 'next few years' and could even exceed $1 billion.
+
+
+***
+![Bed Bath & Beyond to wind down Canada operations](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=920&format=jpeg "Bed Bath & Beyond to wind down Canada operations")
+
+
+[Bed Bath & Beyond to wind down Canada operations](https://www.devdiscourse.com/article/technology/2351285-bed-bath-beyond-to-wind-down-canada-operations)
+
+
+> Bed Bath & Beyond Inc will wind down its operations in Canada, a court filing posted on alvarezandmarsal.com showed on Friday. The Canadian business does not have the "capacity or ability to independently effect a recapitalization or restructuring of the Canadian operations without access to cash and the support" from lenders, according to the filing. The struggling retailer, which has been trying to avoid bankruptcy, raised about $225 million in an equity offering earlier this week and said it may get another $800 million over the next 10 months.
+
+
+***
+![The Legend of Zelda: Tears of the Kingdom's Price at $70 Won't Be the New Standard, According to Nintendo](https://mp1st.com/wp-content/uploads/2023/02/the-legend-of-zelda-tears-of-the-kingdom-price.jpg "The Legend of Zelda: Tears of the Kingdom's Price at $70 Won't Be the New Standard, According to Nintendo")
+
+
+[The Legend of Zelda: Tears of the Kingdom's Price at $70 Won't Be the New Standard, According to Nintendo](https://mp1st.com/news/the-legend-of-zelda-tears-of-the-kingdoms-price-at-70-wont-be-the-new-standard-according-to-nintendo)
+
+
+> Nintendo is finally releasing its first $70 game in The Legend of Zelda: Tears of the Kingdom. After the game's trailer was showcased last Nintendo Direct, it was revealed that The Legend of Zelda: Tears of the Kingdom's price would cost more than any other Nintendo Switch title, a first for the platform. This comes just a couple of months after Xbox's own announcement that it would charge $70 for its own first-party titles in 2023.  While the announcement of a $70 game may worry Switch gamers and Zelda fans alike, this doesn't necessarily mean that future Switch releases will cost just as much.
+
+
+***
+![GoNintendo Podcast Webisode 860 records LIVE at 6 PM ET](https://gonintendo.com/attachments/image/32/file/medium-371f0bec67b24a940f94cf23f0a7126a.png "GoNintendo Podcast Webisode 860 records LIVE at 6 PM ET")
+
+
+[GoNintendo Podcast Webisode 860 records LIVE at 6 PM ET](https://gonintendo.com/contents/16134-gonintendo-podcast-webisode-860-records-live-at-6-pm-et)
+
+
+> Surprise! The next episode of the GoNintendo Podcast is recording today, and we've got plenty to talk about! We'll be going live at 6 PM ET to chat about the Nintendo Direct, your reactions, and so much more! Want to join in on the fun? While you can watch the show LIVE via the embed above, why not hop into the GoNintendo Discord as well? That way you can chat live with us and others as the show goes on, and yes, we're reading your comments! Just make sure to join the Podcast channel instead of staying in General.
+
+
+***
+![Dualsense Hogwarts Legacy on sale for €300 on eBay](https://assets.reedpopcdn.com/Captura-de-ecrã-2023-02-10,-às-21.49.46.png/BROK/thumbnail/1200x630/Captura-de-ecrã-2023-02-10,-às-21.49.46.png "Dualsense Hogwarts Legacy on sale for €300 on eBay")
+
+
+[Dualsense Hogwarts Legacy on sale for €300 on eBay](https://www.world-today-news.com/dualsense-hogwarts-legacy-on-sale-for-e300-on-ebay/)
+
+
+> Sony Interactive Entertainment announced yesterday that it would put on sale a Dualsense controller alluding to Hogwarts Legacy, a rare item as it is only the second variant of Dualsense alluding to a specific game, after God of War Ragnarok. To make it even rarer, the controller was only sold in the United States and the United Kingdom, through Sony's own PlayStation Direct website. Unsurprisingly, the Dualsense Hogwarts Legacy quickly sold out and just as quickly began to appear on resale sites.
+
+
+***
+![Wo Long: Fallen Dynasty supports free upgrades and Xbox Play Anywhere – Wo Long: Fallen Dynasty](https://www.gamereactor.cn/media/42/_3924293b.png "Wo Long: Fallen Dynasty supports free upgrades and Xbox Play Anywhere – Wo Long: Fallen Dynasty")
+
+
+[Wo Long: Fallen Dynasty supports free upgrades and Xbox Play Anywhere – Wo Long: Fallen Dynasty](https://www.world-today-news.com/wo-long-fallen-dynasty-supports-free-upgrades-and-xbox-play-anywhere-wo-long-fallen-dynasty/)
+
+
+> Ninja Sentai and Koei Tecmo update Crouching Dragon: Fallen Dynasty Official FAQ, and contains a lot of useful information. Among other things, we know it will have a maximum resolution of 4K and a target frame rate of 60 frames per second. You probably won't get both though, and will have a resolution mode (prefer high resolution) and performance mode (prioritizing high frame rates) is available. You can also upgrade from the PlayStation 4 version to the PlayStation 5 at no extra cost. Even better if you play Xbox, with support for Smart Delivery and Xbox Play Anywhere.
+
+
+***
+![Marvel's Moon Girl and Devil Dinosaur: Disney's New Hero Thrives With Her Mind](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17lFz7.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Marvel's Moon Girl and Devil Dinosaur: Disney's New Hero Thrives With Her Mind")
+
+
+[Marvel's Moon Girl and Devil Dinosaur: Disney's New Hero Thrives With Her Mind](http://www.msn.com/en-us/news/technology/marvel-s-moon-girl-and-devil-dinosaur-disney-s-new-hero-thrives-with-her-mind/ar-AA17llXX)
+
+
+> Marvel's Moon Girl and Devil Dinosaur, premiering Friday at 8 p.m. ET on the Disney Channel and streaming on Disney Plus starting Feb. 15, is a stylistic and poppy debut for the supersmart Lunella Lafayette and her new prehistoric best friend. The animated series, based on a Marvel Comics series of the same name, showcases Lunella (Diamond White) as a 13-year-old science genius who accidentally brings the big red Devil Dinosaur (Fred Tatasciore) into the present day via a portal she creates. She manages to befriend the creature, and the two partner up to fight crime in the Lower East Side neighborhood of Manhattan.
+
+
+***
+![So many people in Canada are cancelling Netflix over its new password sharing rules](https://media.blogto.com/articles/20230210-netflix-cancel.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70 "So many people in Canada are cancelling Netflix over its new password sharing rules")
+
+
+[So many people in Canada are cancelling Netflix over its new password sharing rules](https://www.blogto.com/tech/2023/02/netflix-cancellations-canada-password-sharing-rules/)
+
+
+> Netflix membership cancellations are about to spike in Canada, if online chatter is any indication, as users react to a nationwide crackdown on password sharing between viewers outside the same household. The media streaming giant announced Wednesday after months of speculation that it would be "rolling out new features" in Canada, New Zealand, Portugal and Spain to give people "greater control" over who can use their accounts. As predicted based on a leaked and then modified support page, you can no longer use your parents' Netflix account if you don't live with them — unless they shell out extra cash every month ($7.
+
+
+***
+![iColo Announces MPM1 Data Centre in Mozambique](https://telecomtalk.info/wp-content/uploads/2023/02/icolo-announces-mpm1-data-centre-in-mozambique.jpg "iColo Announces MPM1 Data Centre in Mozambique")
+
+
+[iColo Announces MPM1 Data Centre in Mozambique](https://telecomtalk.info/icolo-announces-mpm1-data-centre-in-mozambique/675159/)
+
+
+> iColo, a Digital Realty company, Kenya's first carrier-neutral data centre provider, announced the opening of its first data center , MPM1, in Maputo, Mozambique. MPM1 is a centrally located facility to offer robust connectivity and Subsea Cable landing capability to enhance the internet experience in Mozambique. Benefits The opening of this data center on the southeast coast of Africa increases the company's global network and satisfies the rising need for connection along the eastern coast of Africa driven by the growth of subsea cables.
+
+
+***
+![Boy buys PlayStation 5 on the internet and receives coffee capsules](https://multiversonoticias.com.br/wp-content/uploads/2023/02/ps5.jpg "Boy buys PlayStation 5 on the internet and receives coffee capsules")
+
+
+[Boy buys PlayStation 5 on the internet and receives coffee capsules](https://www.world-today-news.com/boy-buys-playstation-5-on-the-internet-and-receives-coffee-capsules/)
+
+
+> Amazon has outdone itself this time, hasn't it? Danilo Assis commented on Twitter about a saga he has been facing to try to receive his expected PlayStation 5. That's because he purchased the video game, so on the 24th he received the box at his home. However, upon seeing the contents, he did not believe it. In place of the device was a white plastic laundry basket. Danilo then shared the situation with his followers I suffered the biggest scam possible by @amazonbrasil yet. I bought a considerably EXPENSIVE product through amazon and they simply delivered a bizarre rubber(?) There's no way this wasn't on purpose.
+
+
+***
+![Japanese voice actors revealed for Fire Emblem Engage DLC](https://gonintendo.com/attachments/image/23091/file/medium-8e4b51d613fadfca6ed4c8e23c43dd48.jpg "Japanese voice actors revealed for Fire Emblem Engage DLC")
+
+
+[Japanese voice actors revealed for Fire Emblem Engage DLC](https://gonintendo.com/contents/16133-japanese-voice-actors-revealed-for-fire-emblem-engage-dlc)
+
+
+> Giving a voice to the voiceless During the latest Nintendo Direct, we got the reveal of more Fire Emblem Engage DLC characters that will be included in Wave 2 and Wave 3 of the expansion pass. Following that, we now know the Japanese voice actors behind some of these roles. Nintendo and Intelligent Systems revealed a handful of Japanese voice actors playing Fire Emblem: Engage DLC characters. The characters were announced as part of Waves 2 and 3 of the Fire Emblem: Engage expansion pass.
+
+
+***
+![The Asteroid NASA's Lucy Spacecraft Will Visit This Year Has a New Name](https://www.cnet.com/a/img/resize/5c309564fc40144ae4c59bd401b2905b4bd306c1/hub/2022/05/20/86407770-3b89-49d6-9d33-5228ad378ff0/2007-lucy-flyby-cilab-preview-1600.jpg?auto=webp&fit=crop&height=630&width=1200 "The Asteroid NASA's Lucy Spacecraft Will Visit This Year Has a New Name")
+
+
+[The Asteroid NASA's Lucy Spacecraft Will Visit This Year Has a New Name](https://www.cnet.com/science/space/the-asteroid-nasas-lucy-spacecraft-will-visit-this-year-has-a-new-name/)
+
+
+> It's a date. Lucy is set to meet Dinkinesh on Nov. 1.  NASA's Lucy mission launched in October 2021 on a long journey to explore the Trojan asteroids far out near the orbit of Jupiter. Up until very recently, the first target on its itinerary was a small asteroid known just by its catalog designations, either 1999 VD57 or the even less alluring 152830. Fortunately, the International Astronomical Union has approved the new name "Dinkinesh," or ድንቅነሽ in Amharic, which means "you are marvelous." It's also the Ethiopian name for Lucy, the famous human-ancestor fossil, found in Ethiopia in 1974.
+
+
+***
+![VNC and Collaboard agree to cooperate](https://www.iavcworld.de/ "VNC and Collaboard agree to cooperate")
+
+
+[VNC and Collaboard agree to cooperate](https://www.world-today-news.com/vnc-and-collaboard-agree-to-cooperate/)
+
+
+> The two Swiss IT companies VNC and Collaboard have agreed on an intensive cooperation on February 1, 2023. It envisages further developing the communication and collaboration applications of both companies into a highly integrated solution. Mobile working, remote working and new work scenarios place high demands on digital collaboration in companies, but also between companies, partners and customers. For this new form of limitless digital teamwork, VNC and Collaboard are closely interlinking their software solutions, creating a communication and collaboration offering for customers with a wide range and depth of functions.
+
+
+***
+![Etrian Odyssey Origins Collection pre-order bonuses in Japan include costumes and a stylus](https://gonintendo.com/attachments/image/23089/file/medium-8b6ac02d301c7b2ac52d5b3fee5596e6.webp "Etrian Odyssey Origins Collection pre-order bonuses in Japan include costumes and a stylus")
+
+
+[Etrian Odyssey Origins Collection pre-order bonuses in Japan include costumes and a stylus](https://gonintendo.com/contents/16132-etrian-odyssey-origins-collection-pre-order-bonuses-in-japan-include-costumes-and-a)
+
+
+> Following the reveal of Etrian Odyssey Origins Collection during this week's Nintendo Direct, SEGA and Atlus hosted a Japanese live stream that shared a few more tidbits about the upcoming compilation. During the live-stream, it was revealed that those who pre-order Etrian Odyssey Origins Collection will be able to get Persona and SMT character DLC through the Atlus Collaboration Adventurer Illustration Pack. This Pack will let you change the look of any character by giving them Persona, Shin Megami Tensei, or Soul Hackers 2 styles.
+
+
+***
+![South Dakota CIO says state needs $70M to replace financial system](https://statescoop.com/wp-content/uploads/sites/6/2018/12/GettyImages-881063790.jpg "South Dakota CIO says state needs $70M to replace financial system")
+
+
+[South Dakota CIO says state needs $70M to replace financial system](https://statescoop.com/south-dakota-financial-system-jeff-clines/)
+
+
+> During a presentation to the South Dakota legislature Thursday on the status of ongoing and upcoming IT projects, Chief Information Officer Jeff Clines said that it will cost $70 million to replace the Bureau of Finance Management's critically outdated financial system. This financial system, which processes transactions like payroll and contracts, is just one part of the state's technology that needs modernizing, Clines said. Including the financial system, Clines said there are 638 applications — out of more than 1,200 total that the South Dakota Bureau of Information and Telecommunications supports — that are on a 'brittle list,' meaning the technology is outdated or vulnerable to cyberattacks.
+
+
+***
+![Try These 6 Methods to Manage Loneliness and Feel Happy](https://www.cnet.com/a/img/resize/0c7ef8f3779a77085f38ff709fe3598d4730027a/hub/2023/02/07/95d6450a-37f8-4dea-bdfe-825afa15013c/gettyimages-1287682728.jpg?auto=webp&fit=crop&height=630&width=1200 "Try These 6 Methods to Manage Loneliness and Feel Happy")
+
+
+[Try These 6 Methods to Manage Loneliness and Feel Happy](https://www.cnet.com/health/mental/try-these-6-methods-to-manage-loneliness-and-feel-happy/)
+
+
+> Nearly 60% of people report experiencing loneliness at some point in their lives. Loneliness can make you feel like you don't fit in or destroy your self-worth.  That's why many people don't openly discuss their feelings -- it's painful. But that's the thing about loneliness; it wants you to itself. The only way to get past it is to talk about it. So, let's discuss loneliness and what to do if you're feeling it.  How can loneliness affect your mental health?  Loneliness can happen to anyone; it's not limited to shy or reserved people.
+
+
+***
+![Easily soothe sore muscles with the futuristic xCore](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/image_processing20221211-72-nkx7na.jpg?fit=1200%2C800&ssl=1 "Easily soothe sore muscles with the futuristic xCore")
+
+
+[Easily soothe sore muscles with the futuristic xCore](https://boingboing.net/2023/02/10/easily-soothe-sore-muscles-with-the-futuristic-xcore.html)
+
+
+> We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. Working out is great for the mind and body — science says so! In fact,  the American Psychological Association  reports moving your muscles reduces anxiety and enhances your mood. But while, yes, the benefits of exercise are numerous, sometimes the aftermath isn't pretty. After a good workout, we sometimes find ourselves sore and aching rather than just pumping with endorphins.
+
+
+***
+[Western Digital to Participate in Upcoming Investor Conference](http://www.businesswire.com/news/home/20230209005791/en/Western-Digital-to-Participate-in-Upcoming-Investor-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN JOSE, Calif.--(BUSINESS WIRE)--Western Digital Corp. (NASDAQ: WDC) today announced management participation in the upcoming investor conference: Event: Morgan Stanley Technology, Media & Telecom Conference Date: Tuesday, March 7, 2023 at 8:35 a.m. PT / 11:35 a.m. ET This management presentation will be available as a live webcast, accessible through Western Digital's Investor Relations website at investor.wdc.com. An archived replay will be accessible through the website shortly after t
+
+
+***
+![Octopath Traveler II voice actors revealed](https://gonintendo.com/attachments/image/23088/file/medium-05722546504d1b466e65718ccaec653d.jpg "Octopath Traveler II voice actors revealed")
+
+
+[Octopath Traveler II voice actors revealed](https://gonintendo.com/contents/16131-octopath-traveler-ii-voice-actors-revealed)
+
+
+> Curious about Octopath Traveler II? Why not hop on the Switch eShop right now and snag the free demo? That should give you a good idea of what the full game has in store, and you also get to hear the voice actors behind the game's 8 main characters! Looking for a bit more insight into who's providing the voices for the cast this time around? Square Enix has detailed the voice actor lineup for both the Japanese and English versions of the game, and you can get the full lists below. English Ochette: Suzie Yeung Castti Florenz: Sarah Wiedenheft Temenos Mistral: Jordan Dash Cruz Osvald V.
+
+
+***
+![The 'Apex' experience has been greatly renewed! 'Apex Legends Season 16 Great Feast' Impressions](https://game.watch.impress.co.jp/img/gmw/list/1477/735/29.png "The 'Apex' experience has been greatly renewed! 'Apex Legends Season 16 Great Feast' Impressions")
+
+
+[The 'Apex' experience has been greatly renewed! 'Apex Legends Season 16 Great Feast' Impressions](https://www.world-today-news.com/the-apex-experience-has-been-greatly-renewed-apex-legends-season-16-great-feast-impressions/)
+
+
+> The 'classification' of the legends has been renewed!Clearer and more 'strategic' One of the attractions of 'Apex' is 'Legends' with unique abilities. A total of 23 legends have been implemented, such as Octane and Wraith, which specialize in movement, Gibraltar and Lifeline, which specialize in support, but as I mentioned earlier, no new legends will be added in Season 16. However, 7 legends, which is about 1/3 of the existing legends, will undergo a 'balance adjustment' that includes strengthening and weakening.
+
+
+***
+![Minecraft's next big update is finally introducing archeology](https://cdn1.dotesports.com/wp-content/uploads/2023/02/10161759/Minecraft-Archeology-Pots-768x432.jpg "Minecraft's next big update is finally introducing archeology")
+
+
+[Minecraft's next big update is finally introducing archeology](https://dotesports.com/minecraft/news/minecrafts-next-big-update-is-finally-introducing-archeology)
+
+
+> Minecraft has been a gaming icon since its release in 2011 when players across the world first logged on to create and survive in these new worlds. In the last decade, it has seen a number of ports to newer devices and continues to receive a wide range of content through updates. And now, the long-awaited archeology feature has been announced for an upcoming Minecraft update. In a blog post on the official Minecraft website , the developer announced that archeology will be coming to the game as part of the 1.
+
+
+***
+![Opera is adding AI tools to its browser after ChatGPT surge](https://www.digitaltrends.com/wp-content/uploads/2019/06/opera-gx-gaming-browser2.jpg?resize=1200%2C630&p=1 "Opera is adding AI tools to its browser after ChatGPT surge")
+
+
+[Opera is adding AI tools to its browser after ChatGPT surge](https://www.digitaltrends.com/computing/opera-web-browser-to-introduce-chatgpt-support/)
+
+
+> The web browser Opera is the latest to share plans for AI integration with ChatGPT . Its parent company, the Chinese brand Kunlun Tech, first announced its plans on Wednesday with few details, according to CNBC . However, the Norway-based Opera has since revealed some of the details of how its ChatGPT-based browser will work. The upcoming updates to its browsers will include adding 'AI-generated content services to the browser sidebar,' Opera said in a press release . Opera's implementation of ChatGPT into its browser quickly follows news of Microsoft adopting OpenAI's system into its own browser, as well as Google announcing its proprietary Bard AI tool.
+
+
+***
+![Xenoblade Chronicles 3: Wave 3 Expansion Pass costumes detailed](https://gonintendo.com/attachments/image/23082/file/medium-d735229f4b8fe06f24736518b9ea2120.webp "Xenoblade Chronicles 3: Wave 3 Expansion Pass costumes detailed")
+
+
+[Xenoblade Chronicles 3: Wave 3 Expansion Pass costumes detailed](https://gonintendo.com/contents/16130-xenoblade-chronicles-3-wave-3-expansion-pass-costumes-detailed)
+
+
+> Xenoblade Blade Chronicles 3 is getting its third wave of expansion pass content on February 15th, 2023, and included in that DLC drop is a new set of costumes. First up is the Nostalgia set of costumes, which outfits your characters with apparel based on characters and costumes from Xenoblade Chronicles and Xenoblade Chronicles 2. You'll see costumes inspired by Shulk, Reyn, Fiora, Melia, Nia, Brighid and Jin. You can unlock these costumes by participating in Archsage's Gauntlet. The other set of costumes is earned by bonding with Masha, which will let you swap class to Jewel Meister.
+
+
+***
+![Cheap projector up to 100 inches FullHD on sale from Poland](https://www.gsmmaniak.pl/wp-content/uploads/gsmmaniak/2023/02/Screenshot-2023-02-10-16.35.36.jpg "Cheap projector up to 100 inches FullHD on sale from Poland")
+
+
+[Cheap projector up to 100 inches FullHD on sale from Poland](https://www.world-today-news.com/cheap-projector-up-to-100-inches-fullhd-on-sale-from-poland/)
+
+
+> Is it worth buying a cheap FullHD projector in 2023? If you have very little money to spend and want to buy it in Poland, this promotion is for you. How this May be projector FullHD in Polish promotion? Very cheap. In the AliExpress store, I tracked down the Alston S5 model, which it costs only PLN 270. If you have a free wall at home, you can't find anything cheaper than a TV in this resolution. The undoubted advantage of this model is shipping from Poland. It's completely free (with EU plug only, but I have no idea why you would choose otherwise).
+
+
+***
+![Small hole, big surprise: DNA test reveals resourceful gibbon as unexpected daddy](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/gibbon.jpg?fit=1200%2C918&ssl=1 "Small hole, big surprise: DNA test reveals resourceful gibbon as unexpected daddy")
+
+
+[Small hole, big surprise: DNA test reveals resourceful gibbon as unexpected daddy](https://boingboing.net/2023/02/10/small-hole-big-surprise-dna-test-reveals-resourceful-gibbon-as-unexpected-daddy.html)
+
+
+> Japanese zookeepers didn't understand how Momo, a 12-year-old white-handed gibbon, managed to get pregnant when there were no boy monkeys in the cage. When they performed a DNA test on her baby, they learned the father was Itō, a 34-year-old agile gibbon, who lives in an adjacent enclosure. "Agile" turns out to be an apt description for wily Itō: "The zoo told CNN on Friday it believed that Momo and Itō had managed to mate through a small hole in a steel plate between their enclosures. The hole measured about 9 millimeters (0.
+
+
+***
+![Starbucks Rewards Changes: Getting a 'Free' Coffee Is About to Cost a Lot More](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17lAbt.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Starbucks Rewards Changes: Getting a 'Free' Coffee Is About to Cost a Lot More")
+
+
+[Starbucks Rewards Changes: Getting a 'Free' Coffee Is About to Cost a Lot More](http://www.msn.com/en-us/news/technology/starbucks-rewards-changes-getting-a-free-coffee-is-about-to-cost-a-lot-more/ar-AA17ljx8)
+
+
+> Starbucks is making changes to its rewards program that has some coffee fans steamed. On Monday, Feb. 13, the number of stars (the chain's terms for points earned from purchases) you need to earn many popular menu items is increasing. It will take 100 stars to get a free hot coffee or tea, for example -- twice the 50 stars needed now. Load Error You'll have to rack up 200 stars to get a Frappuccino (up from 150), and a sandwich will take 300 stars instead of 200. Rewards members were notified of the changes in an email in December and some have expressed their unhappiness on social media.
+
+
+***
+![Get a closer look at Splatoon 3 Expansion Pass characters Shelly, Donny, Annie and Moe](https://gonintendo.com/attachments/image/23078/file/medium-404e03af76f3d2b39050bd204dc40910.jpg "Get a closer look at Splatoon 3 Expansion Pass characters Shelly, Donny, Annie and Moe")
+
+
+[Get a closer look at Splatoon 3 Expansion Pass characters Shelly, Donny, Annie and Moe](https://gonintendo.com/contents/16129-get-a-closer-look-at-splatoon-3-expansion-pass-characters-shelly-donny-annie-and-moe)
+
+
+> During this week's Nintendo Direct, Nintendo revealed a Splatoon 3 Expansion Pass that will offer up two waves of content. The first wave brings us back to Inkopolis, which will offer up some fresh character and familiar faces. First up are Shelly and Donny, who have taken over Ammo Knights for Sheldon. The little cuties really look up to Sheldon, so don't be surprised if they seem familiar. They clearly share Sheldon's love of weapons! As for returning characters, we have Annie and Moe from Cooler Heads, the Inkopolis headgear shop! Annie has leaned into her love of gothic metal and changed her style.
+
+
+***
+![Reddit Hack Shows Limits of MFA, Strengths of Security Training](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9726c7d7eb6bc2b2/63e6912ac3502b445b25839c/darkreading-reddit-security-note.jpg "Reddit Hack Shows Limits of MFA, Strengths of Security Training")
+
+
+[Reddit Hack Shows Limits of MFA, Strengths of Security Training](https://www.darkreading.com/risk/reddit-hack-shows-limits-mfa-strengths-security-training)
+
+
+> The latest hack of a well-known company highlights that attackers are increasingly finding ways around multifactor authentication (MFA) schemes — so employees continue to be an important last line of defense. On Jan. 9, Reddit notified its users that a threat actor had successfully convinced an employee to click on a link in an email sent out as part of a spearphishing attack, which led to "a website that cloned the behavior of our intranet gateway, in an attempt to steal credentials and second-factor tokens.
+
+
+***
+![Saint Maker heads to Switch on Feb. 23rd, 2023](https://gonintendo.com/attachments/image/23077/file/medium-af72c986540b604731a5b9942b2bca01.webp "Saint Maker heads to Switch on Feb. 23rd, 2023")
+
+
+[Saint Maker heads to Switch on Feb. 23rd, 2023](https://gonintendo.com/contents/16128-saint-maker-heads-to-switch-on-feb-23rd-2023)
+
+
+> Saint Maker, which was announced for Switch about a year back, finally has a release date. Those looking forward to the game can snag it on the Switch eShop starting February 23rd, 2023. There's no word on file size or pricing at this time. What makes a saint? Fire to one's face, wounds on one's body, dying slowly from disease — history paints a grim picture. When Holly Beltran attends a religious recollection, she discovers the dark secrets that haunt the convent's past. At night, broken faced statues and whispered prayers haunt Holly's dreams — before the recollection is over, Holly may have to face more than her own demons to come out alive.
+
+
+***
+![Fintech: Offline Shoppers Stick to Digital Habits – Global X ETFs](https://www.globalxetfs.com/content/files/FINX-tr-01.png "Fintech: Offline Shoppers Stick to Digital Habits – Global X ETFs")
+
+
+[Fintech: Offline Shoppers Stick to Digital Habits – Global X ETFs](https://www.globalxetfs.com/fintech-offline-shoppers-stick-to-digital-habits/)
+
+
+> Consumers may be going offline and back into stores to shop, but when they do, they want to go digital to pay. Smartphone payments and tap to pay options continue to gain acceptance, leading the transition away from cash and card swipes as merchants rapidly install modular point-of-sale (POS) systems. Macro pressures took some of the air out of fintech overall in 2022, including the emerging online lending and buy now, pay segments. However, it's important to remember that the pandemic pulled forward growth for many fintech companies.
+
+
+***
+![Nintendo shares an infographic to recap the latest Nintendo Direct](https://gonintendo.com/attachments/image/23076/file/medium-cfa1ca66d2e9d2b2954aa7fc084973b6.jpg "Nintendo shares an infographic to recap the latest Nintendo Direct")
+
+
+[Nintendo shares an infographic to recap the latest Nintendo Direct](https://gonintendo.com/contents/16127-nintendo-shares-an-infographic-to-recap-the-latest-nintendo-direct)
+
+
+> Nintendo gave us a full-fat Nintendo Direct earlier this week, which packed in over 40 minutes worth of content. We got a look at tons of titles heading to the Switch heading our way in the first half of the year and beyond. It was an absolutely whirlwind of information that still has our heads spinning! If you want an easy way to remember everything that was talked about in this Nintendo Direct, Nintendo has the perfect solution. They've created an infographic that snags the logo of every game that was talked about during the Direct, making for a firehose-style blast of content.
+
+
+***
+[Brandywine Communications Introduces the VPX Timing Card](http://www.businesswire.com/news/home/20230210005364/en/Brandywine-Communications-Introduces-the-VPX-Timing-Card/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TUSTIN, Calif.--(BUSINESS WIRE)--Brandywine Communications, in partnership with Reach Technologies, are proud to introduce the VPX Timing Card, a ruggedized conduction cooled timing unit that provides versatile multifunction clock references for any environment. This fully-defined, backplane-centric VPX module optionally supports either commercial GNSS receivers, or secure SAASM M-Code GPS receiver data along with external 1PPS UTC rollover references, reference clocks of up to 100MHz, as well
+
+
+***
+![Xenoblade Chronicles 3 'Archsage's Gauntlet' Challenge Battles detailed](https://gonintendo.com/attachments/image/23075/file/medium-a69e9989310e765dfbb198b3744301e9.jpg "Xenoblade Chronicles 3 'Archsage's Gauntlet' Challenge Battles detailed")
+
+
+[Xenoblade Chronicles 3 'Archsage's Gauntlet' Challenge Battles detailed](https://gonintendo.com/contents/16126-xenoblade-chronicles-3-archsage-s-gauntlet-challenge-battles-detailed)
+
+
+> Wave 3 brings the challenge As you already know, Wave 3 of the Xenoblade Chronicles 3 Expansion Pass is set to arrive on February 15th, 2023, and it includes the following: Challenge Battle mode against difficult enemies A new hero character and accompanying quests New character outfits Today we have some fresh details on those new Challenge Battles, which we now know are called Archsage's Gauntlet. In Archsage's Gauntlet, you start by choosing one character (among the 6 party members), and then you take on waves of enemies.
+
+
+***
+![Electric Cars In the Netherlands — Exploratory Data Analysis with Python (Article)](https://external-preview.redd.it/t1uQ_uzcPBDPhq8AMxeyUZCpfEhPziUaYQWYrFEJRy4.jpg?auto=webp&v=enabled&s=1715202775a7e216c452ee42535a6789603df2cf "Electric Cars In the Netherlands — Exploratory Data Analysis with Python (Article)")
+
+
+[Electric Cars In the Netherlands — Exploratory Data Analysis with Python (Article)](https://www.reddit.com/r/programming/comments/10z3gru/electric_cars_in_the_netherlands_exploratory_data)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Medtronic fined $106M in trial over TAVR device patent infringement](https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-698689964.jpg?VersionId=Myc3lQFGcDMQtMKEmEDYQaXH57uIVdtn "Medtronic fined $106M in trial over TAVR device patent infringement")
+
+
+[Medtronic fined $106M in trial over TAVR device patent infringement](https://www.fiercebiotech.com/medtech/medtronic-fined-106m-trial-over-tavr-device-patent-infringement)
+
+
+> Medtronic fined $106M in trial over TAVR device patent infringement apark Fri, 02/10/2023 - 16:22
+
+
+***
+![Google employees are apparently very unhappy with Bard and Sundar Pichai](https://www.androidauthority.com/wp-content/uploads/2021/06/Google-Store-NYC-Opening-Tour-13.jpg "Google employees are apparently very unhappy with Bard and Sundar Pichai")
+
+
+[Google employees are apparently very unhappy with Bard and Sundar Pichai](https://www.androidauthority.com/googlers-google-bard-3282188/)
+
+
+> C. Scott Brown / Android Authority TL;DR Reports from inside Google suggests employees are quite unhappy with the rollout of Google Bard, its ChatGPT-like AI. The employees feel like the announcement was rushed and blame Sundar Pichai. Employees are also quick to note that company-wide layoffs don't paint a good picture of what's happening behind the scenes. On Monday, Google rolled out its first consumer-level AI-based chatbot, known as Google Bard . This announcement came just weeks after reports of heavy turmoil within Google, which included CEO Sundar Pichai calling 'code red' meetings.
+
+
+***
+![A couple of rhinos casually walk inside a building as if they own the joint (video)](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/rhinos.jpeg?fit=1200%2C800&ssl=1 "A couple of rhinos casually walk inside a building as if they own the joint (video)")
+
+
+[A couple of rhinos casually walk inside a building as if they own the joint (video)](https://boingboing.net/2023/02/10/a-couple-of-rhinos-casually-walk-inside-a-building-as-if-they-own-the-joint-video.html)
+
+
+> It's not often you see a rhino wander into a building to check things out. Unless, perhaps, you're in Nepal, where a curious pair ambled across a room at the Chitwan National Park. (See video below, shared by Indian Forest Service officer Sushant Nanda .) But even at the wildlife conservation park, the two Asian one-horned rhinoceroses came as a surprise to someone who spotted them from another room, exclaiming, "Oh my God." Fortunately, the rhinos either didn't hear the amazed human or just didn't care as they made their way to what was hopefully an exit door.
+
+
+***
+![Check out more info and footage of Magolor in Kirby's Return to Dream Land Deluxe](https://gonintendo.com/attachments/image/23074/file/medium-d9911c3e49983ba0f6ac7215054319d8.png "Check out more info and footage of Magolor in Kirby's Return to Dream Land Deluxe")
+
+
+[Check out more info and footage of Magolor in Kirby's Return to Dream Land Deluxe](https://gonintendo.com/contents/16125-check-out-more-info-and-footage-of-magolor-in-kirby-s-return-to-dream-land-deluxe)
+
+
+> Maybe he's not so bad after all... This week's Nintendo Direct featured a segment on Kirby's Return to Dream Land Deluxe, giving us all sorts of details on Magolor. As you most likely know, this re-release will include a brand-new Epilogue for Magolor that you can play after beating the game's main campaign. You can take a look at some more footage from that Epilogue in the video above. That's not the only way you'll get to have some fun with Magolor in Kirby's Return to Dream Land Deluxe.
+
+
+***
+![Etrian Odyssey Origins Collection will pave the way to a new installment, says dev team](https://gonintendo.com/attachments/image/23073/file/medium-3e8d180f9e79001437ac30a4c8c41318.jpg "Etrian Odyssey Origins Collection will pave the way to a new installment, says dev team")
+
+
+[Etrian Odyssey Origins Collection will pave the way to a new installment, says dev team](https://gonintendo.com/contents/16124-etrian-odyssey-origins-collection-will-pave-the-way-to-a-new-installment-says-dev)
+
+
+> Hello everyone, this is the 'Etrian Odyssey' development team. It's been a while. First of all, thanks to all of your support, the 'Etrian Odyssey' series is able to celebrate its 16th anniversary this year. This is all thanks to all those who enjoy playing the games, thank you very much. To all of you who have been looking forward to the new game, we thank you very much for your patience… The hardware has changed from the two-screen DS, and we have to admit that it will take more time to create a new 'Etrian Odyssey.
+
+
+***
+![Venture Studio Launches to Create Healthcare Startups with Diverse Founders](https://medcitynews.com/uploads/2023/02/Mark-Moeremans_Headshot-April-2022-scaled.jpg "Venture Studio Launches to Create Healthcare Startups with Diverse Founders")
+
+
+[Venture Studio Launches to Create Healthcare Startups with Diverse Founders](https://medcitynews.com/2023/02/venture-studio-launches-to-create-healthcare-startups-with-diverse-founders/)
+
+
+> Mark Moeremans, managing director of The Journey 'Entrepreneurship and startup building are core and central to opportunity in this country. Historically and repeatedly, there are large groups of people that are left out of that system. In 2022, less than 2% of venture capital went to diverse founders, and that had declined from the year before. So it's not that things are necessarily getting better.' Those were comments made by Mark Moeremans, managing director of The Journey, in a recent interview.
+
+
+***
+[NUBURU, Inc. New BL-Series Successfully Showcased at Photonics West](http://www.businesswire.com/news/home/20230210005330/en/NUBURU-Inc.-New-BL-Series-Successfully-Showcased-at-Photonics-West/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CENTENNIAL, Colo.--(BUSINESS WIRE)--NUBURU Inc. (NYSE AMERICAN: BURU), a leading innovator in high-power and high-brightness industrial blue laser technology, recently showcased its new NUBURU BL™-Series at Photonics West, where key members of NUBURU's management team and Advisory Committee were in attendance. The BL-Series is a new compact form-factor blue laser enabled by an innovative third-generation light engine design. The BL-Series lasers are designed as easy-to-service packages that can
+
+
+***
+[Global System Dynamics, Inc. Announces Sponsor Funding of Additional One-Month Extension to Complete its Initial Business Combination](http://www.businesswire.com/news/home/20230210005323/en/Global-System-Dynamics-Inc.-Announces-Sponsor-Funding-of-Additional-One-Month-Extension-to-Complete-its-Initial-Business-Combination/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HOUSTON--(BUSINESS WIRE)--Global System Dynamics, Inc. (Nasdaq: GSD) ('GSD' or the 'Company') today announced that its sponsor, DarkPulse, Inc. (the 'Sponsor'), has deposited an aggregate of $83,947.13 (representing approximately an additional $0.0625 per public share) into the Company's trust account for the benefit of its valued public stockholders. This additional contribution enables the Company to extend the date by which the Company has to complete its initial business combination for an
+
+
+***
+![New gameplay footage released for Alien Hominid Invasion](https://gonintendo.com/attachments/image/23072/file/medium-bc76b9bd3f416c462ca8e27ba7395085.jpg "New gameplay footage released for Alien Hominid Invasion")
+
+
+[New gameplay footage released for Alien Hominid Invasion](https://gonintendo.com/contents/16123-new-gameplay-footage-released-for-alien-hominid-invasion)
+
+
+> Invading Switch this year Alien Hominid Invasion was announced for Switch back at the beginning of 2022, and it's been pretty quiet ever since. Thankfully, that's changed today with a new video from the developers that gives us a look at how things are coming along. Alien Hominid Invasion is a co-op run ‘n' gun game packed with chaos, mayhem, and a whole lot of explosions. Beam down to invade randomly-assembled neighborhoods and face the unending swarm of enemy Agents. As of right now, Alien Hominid Invasion is still slated to see release in 2023.
+
+
+***
+[Park City Group Declares Quarterly Cash Dividend](http://www.businesswire.com/news/home/20230210005351/en/Park-City-Group-Declares-Quarterly-Cash-Dividend/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SALT LAKE CITY--(BUSINESS WIRE)--Park City Group announced today that the Company's Board of Directors has declared a quarterly cash dividend of $0.015 per share
+
+
+***
+![Universal Studios Hollywood hosting Super Nintendo World Grand Opening Celebration Live-Stream](https://gonintendo.com/attachments/image/23071/file/medium-998ff531531957d29253e845ada3b1d5.jpg "Universal Studios Hollywood hosting Super Nintendo World Grand Opening Celebration Live-Stream")
+
+
+[Universal Studios Hollywood hosting Super Nintendo World Grand Opening Celebration Live-Stream](https://gonintendo.com/contents/16122-universal-studios-hollywood-hosting-super-nintendo-world-grand-opening-celebration)
+
+
+> Super Nintendo World at Universal Studios Hollywood officially opens its doors to the public on February 17th, 2023, but it appears Universal and Nintendo have some special plans a bit earlier in the week. Universal Studios Hollywood has announced that they'll be hosting a Super Nintendo World Grand Opening Celebration, and with that comes a live-stream. You'll be able to watch on February 15th, 2023 at 8 PM on Facebook Live to check out the festivities! What will Universal and Nintendo be doing for their Grand Opening Celebration? Who will be in attendance for the event? Your guess is as good as ours, but we'll certainly be tuning in.
+
+
+***
+![Woman makes breast milk soap and customers love it](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/udderly-wonderful.jpg?fit=1200%2C800&ssl=1 "Woman makes breast milk soap and customers love it")
+
+
+[Woman makes breast milk soap and customers love it](https://boingboing.net/2023/02/10/woman-makes-breast-milk-soap-and-customers-love-it.html)
+
+
+> Taylor Robinson's special soap is made from donated expired breast milk. Customers say it helps treat eczema, psoriasis, and cradle cap. "We cut the breast milk out of the bag, add lye to it, and then pour that in the mold," she explains in the video. "You can still use expired milk on your skin and receive all the benefits. It's a good way to repurpose that milk… The reactions I get when people see breast milk soap is anything from disgust to amazement." If you're in the mood to milk a cockroach, the video below will take you through the exciting process.
+
+
+***
+![NTT, University of Tokyo develop world's first optical computing AI using algorithm inspired by human brain](https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/c3/32/fb4679ecc5f3a9e62bd907e2506d7ad1271d/download.jpg "NTT, University of Tokyo develop world's first optical computing AI using algorithm inspired by human brain")
+
+
+[NTT, University of Tokyo develop world's first optical computing AI using algorithm inspired by human brain](https://japantoday.com/category/tech/ntt-and-the-university-of-tokyo-develop-world%E2%80%99s-first-optical-computing-ai-using-an-algorithm-inspired-by-the-human-brain)
+
+
+> NTT Corporation and the University of Tokyo have devised a new learning algorithm inspired by the information processing of the brain that is suitable for multi-layered artificial neural networks (DNN) using analog operations. This breakthrough is expected to lead to a reduction in power consumption and computation time for AI. Researchers achieved the world's first demonstration of efficiently executed optical DNN learning by applying the algorithm to a DNN that uses optical analog computation, which is expected to enable high-speed, low-power machine learning devices.
+
+
+***
+![Nintendo shares Zelda: Tears of the Kingdom artwork featuring Zelda and a Sheikah Slate](https://gonintendo.com/attachments/image/23069/file/medium-1be92cc86124030887aedf3b9c2c948a.jpg "Nintendo shares Zelda: Tears of the Kingdom artwork featuring Zelda and a Sheikah Slate")
+
+
+[Nintendo shares Zelda: Tears of the Kingdom artwork featuring Zelda and a Sheikah Slate](https://gonintendo.com/contents/16121-nintendo-shares-zelda-tears-of-the-kingdom-artwork-featuring-zelda-and-a-sheikah)
+
+
+> What are you teasing here, Nintendo?! Nintendo shared a new trailer for The Legend of Zelda: Tears of the Kingdom just a few days back, but they're not done teasing fans with more content. Case in point, the image of Zelda posted above that Nintendo shared via social media today. Nintendo specifically called out the item that Zelda is holding in her left hand, but didn't share what it is. Obviously it looks like a Sheikah Slate from the Breath of the Wild, but it looks a bit different.
+
+
+***
+![The Latest DJI Mini: Mini 2 SE](https://dronelife.com/wp-content/uploads/2023/02/Key-vision-1-1024x668.png "The Latest DJI Mini: Mini 2 SE")
+
+
+[The Latest DJI Mini: Mini 2 SE](https://dronelife.com/2023/02/10/the-latest-dji-mini-mini-2-se/)
+
+
+> DJI Introduces DJI Mini 2 SE by DRONELIFE Staff Writer Ian M. Crosby Today, civilian drones and creative camera technology leader DJI announced the DJI Mini 2 SE, an ultra-light, palm-sized foldable camera drone suitable for both beginners and experienced drone pilots. Continue reading below, or listen: DroneLife · The – Latest – Mini – From – DJI Weighing under 249 grams, the regulation-friendly Mini 2 SE is exempt from drone regulations in various regions. Its 1/2.3-inch CMOS camera sensor takes 12MP photos and films video at 2.
+
+
+***
+![Ultra Street Fighter II Ryu and Fei Long figurines revealed](https://gonintendo.com/attachments/image/23068/file/medium-6a620cc52bcdebe54714dd7785306093.png "Ultra Street Fighter II Ryu and Fei Long figurines revealed")
+
+
+[Ultra Street Fighter II Ryu and Fei Long figurines revealed](https://gonintendo.com/contents/16120-ultra-street-fighter-ii-ryu-and-fei-long-figurines-revealed)
+
+
+> Consider yourself a big Street Fighter fan? Looking for more collectibles to fill your shelves? You might be interested in a new series of Ultra Street Fighter II figurines, two of which are available to pre-order now. Both Ryu and Fei Long from Ultra Street Fighter II have been given the figurine treatment, and each one is priced at $25. These figures include alternate hands, head, and Hadoken/fire effect parts. The figurines measure 6 inches tall and include 20 points of articulation. Finally, each comes packaged in Ultra Street Fighter II arcade-style window box.
+
+
+***
+![Hogwarts Legacy devs explain why there's no romance mechanics](https://gonintendo.com/attachments/image/23067/file/medium-798e82c962c462ddd03db080859fe754.jpg "Hogwarts Legacy devs explain why there's no romance mechanics")
+
+
+[Hogwarts Legacy devs explain why there's no romance mechanics](https://gonintendo.com/contents/16119-hogwarts-legacy-devs-explain-why-there-s-no-romance-mechanics)
+
+
+> Harry Potter fans who have Xboxes or Playstations are wandering the halls of Hogwarts right now, as Hogwarts Legacy launched a few days back. Switch owners will have to wait until July to explore the wizarding world, but just know that when the game does arrive, you won't be able to romance any of your fellow students. Players have been wondering why Hogwarts Legacy doesn't offer any romance options or mechanics, and narrative lead Moira Squier has offered an explanation in an interview with GamePro .
+
+
+***
+![The story of the SAM car](https://car-images.bauersecure.com/wp-images/160520/arrow_055.jpg "The story of the SAM car")
+
+
+[The story of the SAM car](https://www.carmagazine.co.uk:443/car-news/tech/arrow-sam)
+
+
+> ► Inside Arrow's pioneering SAM car projects ► Developed with quadriplegic racing driver Sam Schmidt ► Steer-by-camera system has a future on the road At the 2021 Goodwood Festival of Speed, one of the biggest cheers of the event went to quadriplegic driver Sam Schmidt, who powered up the hill in a Chevrolet Corvette, steering by moving his head and accelerating and braking with his mouth. Even more rousing applause followed in 2022 when Schmidt stormed up the hill yet faster in a McLaren 720S Spider, using an evolution of the same ‘SAM car' system.
+
+
+***
+[Cisco Q2 Preview: Another EPS Beat Inbound?](https://www.nasdaq.com/articles/cisco-q2-preview:-another-eps-beat-inbound)
+
+
+> Earnings season is always busy, with an extensive list of companies unveiling what's transpired behind the scenes daily.
+
+
+***
+[Commonwealth Fusion Systems Opens Fusion Energy Campus on The Fastest Path to Bring Clean Fusion Energy to the World](http://www.businesswire.com/news/home/20230210005359/en/Commonwealth-Fusion-Systems-Opens-Fusion-Energy-Campus-on-The-Fastest-Path-to-Bring-Clean-Fusion-Energy-to-the-World/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DEVENS, Mass.--(BUSINESS WIRE)--Commonwealth Fusion Systems opens its fusion energy campus on the fastest path to bring clean fusion energy to the world.
+
+
+***
+![New Pokemon anime series airs April 14th, 2023 in Japan, main characters profiled](https://gonintendo.com/attachments/image/23066/file/medium-8bee78f1ce2728bcbf27152df05eb054.jpg "New Pokemon anime series airs April 14th, 2023 in Japan, main characters profiled")
+
+
+[New Pokemon anime series airs April 14th, 2023 in Japan, main characters profiled](https://gonintendo.com/contents/16118-new-pokemon-anime-series-airs-april-14th-2023-in-japan-main-characters-profiled)
+
+
+> A new journey starts here! We've known for awhile now that Ash's journey in the Pokémon series was coming an end, and Pokémon Co. was cooking up a brand-new animated series as a successor. Now we have a premiere date for that series in Japan, and some fresh details as well. Pokémon Co. has confirmed that the new Pokémon animated series is set to debut in Japan on April 14th, 2023. Unfortunately, we don't know when the series will make its way to other parts of the world, but hopefully we'll see dubbed versions make their way out before the year ends.
+
+
+***
+![11 Gaming Laptop Innovations](https://cdn.trendhunterstatic.com/thumbs/498/gaming-laptop-1.jpeg?auto=webp "11 Gaming Laptop Innovations")
+
+
+[11 Gaming Laptop Innovations](https://www.trendhunter.com/slideshow/gaming-laptop-1)
+
+
+> Ideas Explore the world's #1 largest database of ideas and innovations, with 431,214 inspiring examples. Trend Reports Discover why 1,156 brands rely on our AI-powered Trend Reports to get better, faster insights. Newsletter Join 333,273 subscribers who rely on our weekly newsletter to keep up with need-to-know trends and insights. Consumer Insights Uncover major shifts and emerging opportunities with our exclusive PRO research. Trend Reports Discover why 1,156 brands rely on our AI-powered Trend Reports to get better, faster insights.
+
+
+***
+![Discover the Beauty of the Pokémon TCG: Crown Zenith Galarian Gallery](https://gonintendo.com/attachments/image/23065/file/medium-89e9a8e17bce2ac768cd55f104c381db.png "Discover the Beauty of the Pokémon TCG: Crown Zenith Galarian Gallery")
+
+
+[Discover the Beauty of the Pokémon TCG: Crown Zenith Galarian Gallery](https://gonintendo.com/contents/16117-discover-the-beauty-of-the-pokemon-tcg-crown-zenith-galarian-gallery)
+
+
+> Now this is my kind of art showing! Every Pokémon TCG card offers a fresh perspective on the Pokémon world and the Pokémon who make that world the fun, magical place we've come to know and love. The Pokémon TCG: Crown Zenith expansion's Galarian Gallery takes the stunning artwork fans have come to expect to a whole new level with an incredible degree of detail, an elaborate nine-card art montage, and artwork that's impossible to forget. Let's take a sneak peek at some of the cards you can find in the Pokémon TCG: Crown Zenith Galarian Gallery.
+
+
+***
+![Pink Pokémon Episodes Spotlighted on Pokémon TV](https://gonintendo.com/attachments/image/23064/file/medium-f0f9ddf571971f4bd4af218ba2269977.png "Pink Pokémon Episodes Spotlighted on Pokémon TV")
+
+
+[Pink Pokémon Episodes Spotlighted on Pokémon TV](https://gonintendo.com/contents/16116-pink-pokemon-episodes-spotlighted-on-pokemon-tv)
+
+
+> Ash and Pikachu meet Pokémon that are pretty (and powerful) in pink in a collection of Pokémon the Series episodes. You'll be tickled pink when you see the latest collection of Pokémon the Series episodes on Pokémon TV. Pokémon Co. has put together a selection of Ash's adventures featuring Pokémon that share a delightful, pinkish hue. You'll see Pokémon like Jigglypuff, Slowpoke, Miltank, Skitty, and plenty more purveyors of pink, of course—but you might even discover a few non-pink Pokémon that are suddenly sporting an unusual rosy glow.
+
+
+***
+![Reminder: RWBY: Arrowfell physical Switch release pre-orders now open](https://gonintendo.com/attachments/image/23063/file/medium-870763bc9e53bdcebe62fa48cbff18ce.jpg "Reminder: RWBY: Arrowfell physical Switch release pre-orders now open")
+
+
+[Reminder: RWBY: Arrowfell physical Switch release pre-orders now open](https://gonintendo.com/contents/16115-reminder-rwby-arrowfell-physical-switch-release-pre-orders-now-open)
+
+
+> As we shared last week, Limited Run Games is offering physical releases for RWBY: Arrowfell on Switch. Those boxed copies are officially up for pre-order as of today. First up is the standard release, which you can see above. This version includes the game on a game card, along with a physical box. You can pre-order this version for $35. Looking for something a bit fancier? You can go with the $75 Collector's Edition, which packs in the following goodies: Physical Copy of RWBY: Arrowfell for Nintendo Switch RWBY: Arrowfell Collector's Edition Box RWBY: Arrowfell Original Soundtrack 18' x 24' Reversible Poster & Game Map Team BRIR Acrylic Standee Challenge Coin Finally, there's also a wave of RWBY: Arrowfell merch on the way.
+
+
+***
+![NASA Uses AI to Design Mission Hardware](https://cdn.nextgov.com/media/img/cd/2023/02/10/021023NASAaiNG/open-graph.jpg "NASA Uses AI to Design Mission Hardware")
+
+
+[NASA Uses AI to Design Mission Hardware](https://www.nextgov.com/emerging-tech/2023/02/nasa-uses-ai-design-mission-hardware/382842/)
+
+
+> NASA is using artificial intelligence to design mission hardware for the improved functionality and manufacturing benefits it provides, according to an announcement on Thursday. NASA noted that while the AI-designed spacecraft and hardware may look like 'bones left by some alien species,' they are lighter, can handle higher structural loads and need a lot less time to develop than parts made by humans. 'They look somewhat alien and weird,' said research engineer Ryan McClelland, who pioneered the design.
+
+
+***
+![What is Resenteeism? Quiet Quitting's Moody Successor](https://images.tech.co/wp-content/uploads/2023/02/10144129/AdobeStock_483988624-min_50_1_37.jpeg "What is Resenteeism? Quiet Quitting's Moody Successor")
+
+
+[What is Resenteeism? Quiet Quitting's Moody Successor](https://tech.co/news/what-is-resenteeism)
+
+
+> Resenteeism is the shiny new term that describes remaining in a job while being fundamentally unhappy. Sound familiar? The phenomenon draws many parallels to presenteeism , which describes showing up for work to keep up appearances but getting very little done due to sickness or emotional challenges. Both concepts are born from workplace dissatisfaction and anxieties over job security, but unlike presenteeism, resenteeism describes a less guarded expression of similar frustrations. Resentful employees tend to be more active about their concerns, and put simply, are no longer afraid of hiding them.
+
+
+***
+![Dead by Daylight 'Tools Of Torment' teaser released](https://gonintendo.com/attachments/image/23060/file/medium-56d154a090a872384d86f171a57d3e0c.jpg "Dead by Daylight 'Tools Of Torment' teaser released")
+
+
+[Dead by Daylight 'Tools Of Torment' teaser released](https://gonintendo.com/contents/16114-dead-by-daylight-tools-of-torment-teaser-released)
+
+
+> Behaviour Interactive has released the first teaser for the next chapter in Dead by Daylight. Take a peek at the teaser for Chapter 27, dubbed Tools of Torment, above. There's no much to go off of in this teaser, other than a long look at a skull that's been fitted with some sort of torture device. There's no doubt that ties into the ‘Tools of Torment' chapter name, and we'll all find out more about what's in store on February 15th, 2023. Until then, feel free to pore over this teaser for hidden clues! Dead by Daylight is a multiplayer action/horror game where one player takes on the role of a brutal Killer and the other four play as Survivors.
+
+
+***
+![Peacock Premium vs Premium Plus: What are ads worth to you?](https://www.androidauthority.com/wp-content/uploads/2022/08/Peacock-stock-photo-2.jpg "Peacock Premium vs Premium Plus: What are ads worth to you?")
+
+
+[Peacock Premium vs Premium Plus: What are ads worth to you?](https://www.androidauthority.com/peacock-premium-vs-premium-plus-3281966/)
+
+
+> Edgar Cervantes / Android Authority Peacock is quickly establishing itself as a solid alternative to Netflix . The NBCUniversal-owned streaming service is the exclusive home to fan-favorite shows like The Office, popular originals like Poker Face, and more, including Hollywood new releases and classics. But the service offers a couple of different pricing options. So, when considering Peacock Premium vs Premium Plus, what do you need to know? Below, we break down the pros and cons of the two services, comparing what they offer and at what price so that you can make an informed decision about where to spend your streaming dollars.
+
+
+***
+![Minecraft Legends video showcases the game's music and sound](https://gonintendo.com/attachments/image/23059/file/medium-91fd79dacfa7c82d25d98612d862b636.jpg "Minecraft Legends video showcases the game's music and sound")
+
+
+[Minecraft Legends video showcases the game's music and sound](https://gonintendo.com/contents/16113-minecraft-legends-video-showcases-the-game-s-music-and-sound)
+
+
+> From popping balloons and tapping on bike spokes to recording an actual orchestra, the team went all in to give Minecraft Legends the perfect soundscape. Join Crispin from Lionshead, Sashen from Blackbird Interactive, and Samuel from Mojang Studios as they tell (and show) us how they made the Overworld of Minecraft Legends sound brand new, yet still familiar. Minecraft Legends is a new action strategy game. Explore a gentle land of rich resources and lush biomes on the brink of destruction. The ravaging piglins have arrived, and it's up to you to inspire your allies and lead them in strategic battles to save the Overworld! Form alliances with new friends and familiar mobs, then lead the charge in epic battles against the fierce piglins to defend the Overworld.
+
+
+***
+![God of Rock 'Queen' spotlight video released](https://gonintendo.com/attachments/image/23057/file/medium-32b818122cf2f98fdbe35f6c242a8fe9.jpg "God of Rock 'Queen' spotlight video released")
+
+
+[God of Rock 'Queen' spotlight video released](https://gonintendo.com/contents/16111-god-of-rock-queen-spotlight-video-released)
+
+
+> Modus Games previously announced that God of Rock will open its world tour on April 18, 2023, unleashing a stacked setlist of energetic tracks that players will need to master to perform devastating combos in musical matches against other fighters. Today brings us a new trailer that showcases Queen. This stylish Queen is headed down the runway to makeover the competition. With Queen in charge, she'll help your natural beauty (and talent) shine over the competition to take home the God of Rock gold.
+
+
+***
+![How to delete your Uber account](https://www.androidauthority.com/wp-content/uploads/2022/03/uber-pwa-web-app.jpg "How to delete your Uber account")
+
+
+[How to delete your Uber account](https://www.androidauthority.com/how-to-delete-your-uber-account-3282018/)
+
+
+> Uber is a reasonably reliable ride-share app that works in most regions, but it does have its downsides. For starters, the fares are vastly more expensive than public transit, especially during peak hours. Or maybe you are just tired of the awkward conversations with your driver. Whatever the reason, if you're ready to say goodbye to Uber, buckle up and follow the steps in our guide to delete your account. Read more:  How to delete a video on YouTube From the homepage of the Uber app, tap the Account tab in the bottom right corner.
+
+
+***
+![Let's Play Curling!! sees physical Switch release today](https://gonintendo.com/attachments/image/23056/file/medium-eaef41c79e5da35fc620a788b84fe51c.png "Let's Play Curling!! sees physical Switch release today")
+
+
+[Let's Play Curling!! sees physical Switch release today](https://gonintendo.com/contents/16110-let-s-play-curling-sees-physical-switch-release-today)
+
+
+> Come back from behind to win on the last throw! Experience the sensations of a real match in this authentically-rendered, curling game! Physical copies of Let's Play Curling!! for Switch are being published by Imagineer with the support of the Canadian Curling Association, and are available at retailers starting today. Curling is sometimes referred to as 'chess on ice' because of the amount of strategy involved in the game. In this game, players can experience immersive gameplay that feels as though you're actually in a match.
+
+
+***
+![Nintendo comments on The Legend of Zelda: Tears of the Kingdom's $69.99 price point](https://nintendowire.com/wp-content/uploads/2023/02/Switch_TLOZ_TOTK_Screen_31.jpg "Nintendo comments on The Legend of Zelda: Tears of the Kingdom's $69.99 price point")
+
+
+[Nintendo comments on The Legend of Zelda: Tears of the Kingdom's $69.99 price point](https://nintendowire.com/news/2023/02/10/nintendo-comments-on-the-legend-of-zelda-tears-of-the-kingdoms-69-99-price-point/)
+
+
+> As we get closer to The Legend of Zelda: Tears of the Kingdom's release this May, fans have a new dilemma to tackle before saving Hyrule yet again – and that's putting down an extra $10 to play the game at launch. After confirmation from this month's Nintendo Direct , the price increase was discussed between analyzing a new trailer, freaking out about pre-ordering a fancy Collector's Edition, and adding yet another The Legend of Zelda amiibo to our collections. Game Informer reached out to Nintendo for comment about the price point during their coverage.
+
+
+***
+![Super Mario Bros. movie poster spotlights Mario, Peach and Toad](https://gonintendo.com/attachments/image/23054/file/medium-56829cf771e1daf438620867e7a1bf04.jpg "Super Mario Bros. movie poster spotlights Mario, Peach and Toad")
+
+
+[Super Mario Bros. movie poster spotlights Mario, Peach and Toad](https://gonintendo.com/contents/16108-super-mario-bros-movie-poster-spotlights-mario-peach-and-toad)
+
+
+> It's been quite a week for posters for the upcoming Super Mario Bros. movie! Nintendo and Illumination have released a series of posters over the last few days, and they're back with yet another design today. This time around we get a landscape poster instead of a traditional portrait approach. This was obviously chosen to show off the vastness of the Mushroom Kingdom, complete with Peach's Castle barely visible off in the distance. Looks like the trio has quite a journey ahead of them! The Super Mario Bros.
+
+
+***
+![My 5-Month Ordeal w/ Apple Support — M2 Air Owners/Buyers Beware!](https://images.macrumors.com/social/?t=2380339&v=6 "My 5-Month Ordeal w/ Apple Support — M2 Air Owners/Buyers Beware!")
+
+
+[My 5-Month Ordeal w/ Apple Support — M2 Air Owners/Buyers Beware!](https://forums.macrumors.com/threads/my-5-month-ordeal-w-apple-support-m2-air-owners-buyers-beware.2380339/)
+
+
+> I'll do my best to keep this brief. EDIT - fair warning, I failed I ordered a CTO M2 MacBook Air in late August 2022. Space Gray, 24GB RAM, 2TB storage, US Keyboard (American living in London). Upon arrival I immediately gave my M1 Air to my wife and added the new M2 to my desk setup, which includes a TB3 Audio Interface - I'm an audio professional for 20 years — this is relevant later. First couple weeks everything was great. It wasn't until the 2nd or 3rd time I used it as a mobile device that I noticed the issue: certain sounds, including (and especially) notification sounds — both stock MacOS and Teams/Outlook sounds were playing with a weird distortion when using the built-in speakers.
+
+
+***
+![FreeCAD vs LibreCAD: CAD Software Compared](https://i.all3dp.com/wp-content/uploads/2023/02/01114506/freecad-plane-e1675248397353.jpg "FreeCAD vs LibreCAD: CAD Software Compared")
+
+
+[FreeCAD vs LibreCAD: CAD Software Compared](https://all3dp.com/2/freecad-vs-librecad-cad-software-compared)
+
+
+> This article is free for you and free from outside influence. To keep things this way, we finance it through advertising and shopping links. If you purchase using a shopping link, we may earn a commission. Learn more
+
+
