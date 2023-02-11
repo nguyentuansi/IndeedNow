@@ -8861,3 +8861,993 @@
 > Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
 
 
+***
+![WIOCC Lands 2Africa Subsea Cable System in Kwazulu-Natal](https://telecomtalk.info/wp-content/uploads/2023/02/wiocc-2africa-subsea-cable-system-kwazulu-natal.jpg "WIOCC Lands 2Africa Subsea Cable System in Kwazulu-Natal")
+
+
+[WIOCC Lands 2Africa Subsea Cable System in Kwazulu-Natal](https://telecomtalk.info/wiocc-2africa-subsea-cable-system-kwazulu-natal/675310/)
+
+
+> WIOCC, Africa's digital backbone, landed 2Africa, the world's largest subsea cable system, which offers the province and country growth in international capacity and promises more reliable internet connectivity and other services in KwaZulu-Natal (KZN), South Africa. Chris Wood , group chief executive officer at WIOCC, said, "This latest major international cable landing is another example of WIOCC Group playing a key role in building Africa's digital infrastructure and accelerating the continent's digital transformation through the delivery of converged open digital infrastructure.
+
+
+***
+![How to Copy and Paste on Chromebook [2023]](https://techpp.com/wp-content/uploads/2023/02/Copy-Paste-1.jpg "How to Copy and Paste on Chromebook [2023]")
+
+
+[How to Copy and Paste on Chromebook [2023]](https://techpp.com/2023/02/11/how-to-copy-and-paste-on-chromebook-2023/)
+
+
+> Chromebooks run ChromeOS, which should be a new experience for most people. Although the methods to copy and paste content on ChromeOS are similar to those on Windows and macOS, there are multiple ways to use the mouse, trackpads, and keyboard shortcuts for different types of content. In this article, we will explain several ways to copy and paste content on your Chromebook using mouse and keyboard shortcuts. The methods are sorted by the type of content to help you find the methods you need.
+
+
+***
+![‘Reducing Chandrayaan-2 Orbiter's orbit may be dangerous'](https://chennaionline.com/wp-content/uploads/2019/09/favicon.png "‘Reducing Chandrayaan-2 Orbiter's orbit may be dangerous'")
+
+
+[‘Reducing Chandrayaan-2 Orbiter's orbit may be dangerous'](https://chennaionline.com/technology/reducing-chandrayaan-2-orbiters-orbit-may-be-dangerous/)
+
+
+> Reducing the orbit of Chandrayaan-2 Orbiter to pick up any weak signals or to take a closer look the moon lander Vikram that had crash-landed on the lunar surface is a dangerous move, contend space scientists. According to sources, the Indian Space Research Organisation (ISRO) is looking at reducing Chandrayaan-2 Orbiter's orbit from 100 km to 50 km above the lunar surface. 'Reducing the orbit of the Orbiter is a dangerous idea,' a former space agency official, speaking on condition of anonymity, told.
+
+
+***
+![How Israel's real time technology is helping Turkey earthquake relief ops](https://www.hindustantimes.com/ht-img/img/2023/02/11/1600x900/Turkey-Syria-Earthquake-9_1676101988610_1676101991724_1676101991724.jpg "How Israel's real time technology is helping Turkey earthquake relief ops")
+
+
+[How Israel's real time technology is helping Turkey earthquake relief ops](https://www.hindustantimes.com/technology/how-israel-s-real-time-technology-is-helping-turkey-earthquake-relief-ops-101676098996800.html)
+
+
+> Israeli volunteers engaged in relief efforts after the devastating earthquakes in Turkey and Syria are harnessing cloud-based technology to enhance the emergency response, the Times of Israel reported. The first responders of United Hatzalah, a non-profit emergency medical rescue organization, are sharing real-time data on location, videos and images with the help of Carbyne, an Israeli startup. The technology enables volunteers and emergency responders like police officials, to connect with medical experts and other professional teams in Israel, who offer quick, life-saving solutions to rescuers.
+
+
+***
+![Square a Number Using a Method in Java](https://external-preview.redd.it/5iB8ywVohLTBsSDX72Pey7GatW83duyoYGHjmFvAivs.jpg?auto=webp&v=enabled&s=cacaef994ec677846e744cc18d985b73195ad62e "Square a Number Using a Method in Java")
+
+
+[Square a Number Using a Method in Java](https://www.reddit.com/r/programming/comments/10zfg5o/square_a_number_using_a_method_in_java)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![What is automation and what do you need?](https://www.todaysmedicaldevelopments.com/fileuploads/image/2023/02/09/022323_automation_roundtable_news_item_948x533_with_date.jpg "What is automation and what do you need?")
+
+
+[What is automation and what do you need?](https://www.todaysmedicaldevelopments.com/news/automation-needs-in-manufacturing-webinar/)
+
+
+> https://gie-net.zoom.us/webinar/register/WN_x32D6FvtROGEipyE2TyRTg GIE Media Posted by Elizabeth Engler Modic | February 11, 2023 Automation/Robotics automation intelligent automation
+
+
+***
+![Clever electric car charger may convince you to ditch fuel for good](https://cdn.images.express.co.uk/img/dynamic/59/1200x712/4559250.jpg?r=1676101139346 "Clever electric car charger may convince you to ditch fuel for good")
+
+
+[Clever electric car charger may convince you to ditch fuel for good](https://www.express.co.uk/life-style/science-technology/1733321/Electric-car-home-charger)
+
+
+> The Ohme Pro charger makes sure things refill at cheaper times (Image: OHME) There's simply no denying that the UK isn't ready for the shift to electric cars. From 2030, the sale of petrol vehicles will be banned for good but there's a long way to go before millions of us will feel comfortable ditching fuel for battery-powered cars. As Express.co.uk recently discovered on a 1,000-mile road trip across Britain, the current charging infrastructure is woefully inadequate and topping up at motorway service stations can also be just as expensive as pumping the tank full of unleaded petrol.
+
+
+***
+![Twitter to Remove All Legacy 'Blue Badges' Soon: Elon Musk](https://english.cdn.zeenews.com/sites/default/files/2023/02/11/1152414-netflix-3.jpg "Twitter to Remove All Legacy 'Blue Badges' Soon: Elon Musk")
+
+
+[Twitter to Remove All Legacy 'Blue Badges' Soon: Elon Musk](https://zeenews.india.com/technology/twitter-to-remove-all-legacy-blue-badges-soon-elon-musk-2572097.html)
+
+
+> New Delhi: After rolling out Twitter Blue with verification service in India that starts from Rs 650 a month, Elon Musk has reiterated that all legacy Blue badges will be removed soon. Musk has time and again said that the company will remove all Blue checks, as it gets busy monetising its platform by charging users. "Legacy blue checks will be removed soon. Those are the ones that are truly corrupt," he reiterated in a tweet. ALSO READ |  Moody's Cuts Rating Outlook of Four Adani Firms from 'Stable' to 'Negative' Earlier this month, the Twitter CEO had said that all legacy verified accounts will soon lose their Blue badges as those are `deeply corrupted`.
+
+
+***
+![Microservices from the Trenches • Sander Hoogendoorn](https://external-preview.redd.it/Q5ywMBV-rZKaC26uG7T01vASPGs-M6RtIP1O0hAIa8E.jpg?auto=webp&v=enabled&s=3b2657ac24f81df45188fd27dc30b28f55ef9db5 "Microservices from the Trenches • Sander Hoogendoorn")
+
+
+[Microservices from the Trenches • Sander Hoogendoorn](https://www.reddit.com/r/programming/comments/10zf6vd/microservices_from_the_trenches_sander_hoogendoorn)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Microsoft Could Soon Introduce ChatGPT-like AI To Word, PowerPoint And Outlook: Report](https://images.news18.com/ibnlive/uploads/2023/02/microsoft-167582363416x9.jpg "Microsoft Could Soon Introduce ChatGPT-like AI To Word, PowerPoint And Outlook: Report")
+
+
+[Microsoft Could Soon Introduce ChatGPT-like AI To Word, PowerPoint And Outlook: Report](https://www.news18.com/news/tech/microsoft-could-soon-introduce-chatgpt-like-ai-to-word-powerpoint-and-outlook-report-7055221.html)
+
+
+> Days after announcing OpenAI's integration with Bing, Microsoft is all set to take another major step forward in its effort to push and integrate artificial intelligence (AI) technology into its core productivity suite. The Redmond-based tech giant is reportedly planning to demonstrate its latest AI model—Prometheus to its popular software, including Word, PowerPoint, and Outlook.  The details of Microsoft's productivity plans for integrating OpenAI's language AI technology will be revealed in the coming weeks, according to sources cited by The Verge.
+
+
+***
+![WFP delivers nutrition assistance to people cut off by conflict in eastern DRC](http://www.globalsecurity.org/favicon.ico "WFP delivers nutrition assistance to people cut off by conflict in eastern DRC")
+
+
+[WFP delivers nutrition assistance to people cut off by conflict in eastern DRC](http://www.globalsecurity.org/military/library/news/2023/02/mil-230210-wfp01.htm)
+
+
+> World Food Programme 10 February 2023 GOMA -- The United Nations World Food Programme (WFP) has for the first time in four months, delivered life-saving food and nutrition assistance to Rutshuru Territory, Eastern Democratic Republic of Congo, where over 28,000 malnourished children, pregnant and nursing mothers were no longer receiving nutrition assistance due to access restrictions caused by renewed violence. With support from the authorities in Goma, and other actors, WFP was able to deliver 26 metric tons of special nutritious food to 8,000 children suffering from acute malnutrition, pregnant and breastfeeding mothers in 12 health centers across Rutshuru Territory.
+
+
+***
+![Nigerian Presidential Candidates Are in Final Push for Votes](http://www.globalsecurity.org/favicon.ico "Nigerian Presidential Candidates Are in Final Push for Votes")
+
+
+[Nigerian Presidential Candidates Are in Final Push for Votes](http://www.globalsecurity.org/military/library/news/2023/02/mil-230210-voa05.htm)
+
+
+> By Timothy Obiezu February 10, 2023 Two of the three candidates considered front runners in Nigeria's Feb. 25 presidential rallies held their first major rallies this week., with security a key topic on the campaign trail. Former vice president Atiku Abubakar and former Anambra state governor Peter Obi held rallies. Among the 18 candidates running for president, former Lagos state governor Bola Ahmed Tinubu joins Abubakar and Obi as a front runner. In the capital of Abuja, thousands of supporters, mostly youths, charnted praise for Obi.
+
+
+***
+![New UN report warns of spike in gang attacks, 'gross human rights abuses' in Haiti](http://www.globalsecurity.org/favicon.ico "New UN report warns of spike in gang attacks, 'gross human rights abuses' in Haiti")
+
+
+[New UN report warns of spike in gang attacks, 'gross human rights abuses' in Haiti](http://www.globalsecurity.org/military/library/news/2023/02/mil-230210-unnews01.htm)
+
+
+> 10 February 2023 - Extreme violence and gross human rights abuses, including mass incidents of murder, gang rape and sniper attacks, have sharply increased in Cité Soleil on the outskirts of the Haitian capital, said a UN report published on Friday. "The findings of this report are horrifying," said Volker Türk, the UN High Commissioner for Human Rights, during a visit to Haiti this week. "It paints a picture of how people are being harassed and terrorized by criminal gangs for months without the State being able to stop it.
+
+
+***
+![Air Force Shoots Down 'High-Altitude Object' off Alaskan Coast](http://www.globalsecurity.org/favicon.ico "Air Force Shoots Down 'High-Altitude Object' off Alaskan Coast")
+
+
+[Air Force Shoots Down 'High-Altitude Object' off Alaskan Coast](http://www.globalsecurity.org/military/library/news/2023/02/mil-230210-dodnews01.htm)
+
+
+> February 10, 2023 By Jim Garamone , DOD News An Air Force F-22 shot down a "high-altitude object" off the Northern coast of Alaska that posed a threat to civilian airliners, Pentagon Press Secretary Air Force Brig. Gen. Pat Ryder said today. The North American Aerospace Defense Command detected the object Feb. 9 using ground radar and sent aircraft to identify the object. The pilots ascertained the object was unmanned. "The object was flying at an altitude of 40,000 feet and posed a reasonable threat to the safety of civilian flight," Ryder said.
+
+
+***
+![US shoots down 'high altitude object' over Alaska](http://www.globalsecurity.org/favicon.ico "US shoots down 'high altitude object' over Alaska")
+
+
+[US shoots down 'high altitude object' over Alaska](http://www.globalsecurity.org/military/library/news/2023/02/mil-230210-rfa01.htm)
+
+
+> Biden orders the object shot down "out of an abundance of caution." Alex Willemyns for RFA 2023.02.10 -- U.S. President Joe Biden ordered a "high altitude object" shot down by fighter aircraft on Friday, an official said, a week after an alleged Chinese spy balloon was found floating across the United States. Biden's national security spokesman, John Kirby, said at a press conference on Friday afternoon that the object was shot down over Alaska hours earlier when it was found flying at an altitude used by civilian aircraft.
+
+
+***
+![Moldova Prime Minister, Government Resigns](http://www.globalsecurity.org/favicon.ico "Moldova Prime Minister, Government Resigns")
+
+
+[Moldova Prime Minister, Government Resigns](http://www.globalsecurity.org/military/library/news/2023/02/mil-230210-voa04.htm)
+
+
+> By VOA News February 10, 2023 Moldovan Prime Minister Natalia Gavrilita announced Friday she and her government were resigning after 18 months, as Russia's invasion of neighboring Ukraine stifled her efforts to initiate reforms aimed at joining the European Union. At a news conference Friday in the capital of Chisinau, Gavrilita, who was appointed by President Maia Sandu in August 2021, lamented that she took over the government with an anti-corruption, pro-development and pro-EU agenda, but no one expected the nation to be facing so many crises.
+
+
+***
+![Honkai Impact 3rd Version Kiana: 5th Anniversary program, Final story chapter, and more](https://staticg.sportskeeda.com/editor/2023/02/97113-16760973531406-1920.jpg "Honkai Impact 3rd Version Kiana: 5th Anniversary program, Final story chapter, and more")
+
+
+[Honkai Impact 3rd Version Kiana: 5th Anniversary program, Final story chapter, and more](https://www.sportskeeda.com/esports/honkai-impact-3rd-version-kiana-5th-anniversary-program-final-story-chapter-and-more)
+
+
+> Honkai Impact 3rd's next version is shaping up to be one of the most significant updates in recent times. HoYoverse has two Herrschers planned for release, alongside multiple events, rewards, costumes, and more. The upcoming version 6.4 has been titled "Version Kiana," marking the end of the main story Part 1. Players can expect the update to drop on February 16, 2023, alongside new characters and 5th Anniversary rewards on global servers. HoYoverse's latest special program might help clear everyone's confusion regarding the exclusive rewards.
+
+
+***
+![Ahead of congress, police send petitioners from across China back to their hometowns](http://www.globalsecurity.org/favicon.ico "Ahead of congress, police send petitioners from across China back to their hometowns")
+
+
+[Ahead of congress, police send petitioners from across China back to their hometowns](http://www.globalsecurity.org/wmd/library/news/china/2023/02/china-230210-rfa02.htm)
+
+
+> Authorities are meeting people with grievances as they get off the train and sending them home By Gu Ting for RFA Mandarin 2023.02.10 -- Chinese authorities are stepping up security measures ahead of next month's annual parliamentary and advisory sessions in Beijing, detaining dozens of people coming to the capital with grievances and forcing them to go back home, Radio Free Asia has learned. The moves come ahead of the country's rubber-stamp parliament, the National People's Congress. More than 30 petitioners from Shanghai were detained en route to Beijing by train in recent days, a petitioner who gave only the surname Zhou for fear of reprisals said.
+
+
+***
+![Lawmakers, rights groups condemn Xinjiang official's possible visit to Europe](http://www.globalsecurity.org/favicon.ico "Lawmakers, rights groups condemn Xinjiang official's possible visit to Europe")
+
+
+[Lawmakers, rights groups condemn Xinjiang official's possible visit to Europe](http://www.globalsecurity.org/wmd/library/news/china/2023/02/china-230210-rfa01.htm)
+
+
+> Erkin Tuniyaz is widely regarded by Uyghur activists as a traitor and puppet of Beijing. By Kurban Niyaz for RFA Uyghur 2023.02.10 -- European parliamentarians and human rights groups have strongly objected to a visit to the United Kingdom and Europe Union next week by the China-installed Uyghur leader of Xinjiang, saying that he has played a key role in the persecution of the mostly Muslim minority group. The UK's The Guardian reported Wednesday that Erkin Tuniyaz, a Chinese politician of Uyghur origin who is chairman of the Xinjiang Uyghur Autonomous Region in far-western China, would visit London and meet with high-level officials to discuss the treatment of Uyghur Muslims in Xinjiang.
+
+
+***
+![US, China Compete for Africa's Rare Earth Minerals](http://www.globalsecurity.org/favicon.ico "US, China Compete for Africa's Rare Earth Minerals")
+
+
+[US, China Compete for Africa's Rare Earth Minerals](http://www.globalsecurity.org/wmd/library/news/china/2023/02/china-230210-voa02.htm)
+
+
+> By Kate Bartlett February 10, 2023 South Africa hosted the world's biggest mining investment conference this week, with industry experts in attendance saying the U.S. and China are in a race for the critical minerals — such as cobalt and lithium — that will likely power the projected transition to clean energy. African countries like the Democratic Republic of Congo have some of the largest deposits of these resources, but China currently dominates the supply chain as well as their refinement and the U.
+
+
+***
+![China's defense minister snubs US counterpart over balloon shooting](http://www.globalsecurity.org/favicon.ico "China's defense minister snubs US counterpart over balloon shooting")
+
+
+[China's defense minister snubs US counterpart over balloon shooting](http://www.globalsecurity.org/wmd/library/news/china/2023/02/china-230210-rfa03.htm)
+
+
+> Wei Fenghe rejected a phone call, saying the US didn't create a 'proper atmosphere for dialogue.' By RFA Staff 2023.02.10 -- The Chinese defense minister refused a phone call with his U.S. counterpart over the balloon incident, citing the lack of goodwill on the U.S side, China's ministry of defense has confirmed. On Saturday the U.S. military shot down the suspected Chinese spy balloon that had flown over the United States for several days, prompting protests from Beijing. On the same day immediately after the strike, the Pentagon requested a phone call between Defense Secretary Lloyd Austin and China's Minister of National Defense Wei Fenghe but China rejected the request.
+
+
+***
+![UK Lawmakers Demand Cancellation of Visit by Xinjiang Official Accused in Uyghur Genocide](http://www.globalsecurity.org/favicon.ico "UK Lawmakers Demand Cancellation of Visit by Xinjiang Official Accused in Uyghur Genocide")
+
+
+[UK Lawmakers Demand Cancellation of Visit by Xinjiang Official Accused in Uyghur Genocide](http://www.globalsecurity.org/wmd/library/news/china/2023/02/china-230210-voa01.htm)
+
+
+> By Asim Kashgarian February 10, 2023 A group of British members of Parliament are calling on the government to cancel a planned visit by Erkin Tuniyaz, chairman of the Xinjiang Uyghur Autonomous Region, due to his alleged involvement in what has been described as Uyghur genocide. On Thursday, the MPs argued that if the visit goes ahead, a private prosecution should be allowed. "I call on the U.K. government to rescind this invitation and sanction Erkin Tuniyaz and Chen Quanguo for their role in this crime against humanity and genocide," Sir Iain Duncan Smith said.
+
+
+***
+![Iran says Israel involved in Isfahan drone attack, arrests main elements](http://www.globalsecurity.org/favicon.ico "Iran says Israel involved in Isfahan drone attack, arrests main elements")
+
+
+[Iran says Israel involved in Isfahan drone attack, arrests main elements](http://www.globalsecurity.org/wmd/library/news/iran/2023/iran-230210-presstv01.htm)
+
+
+> Iran Press TV Friday, 10 February 2023 4:08 PM Iranian security forces have arrested the main perpetrators of a recent foiled drone attack in the central city of Isfahan, in which Israeli "mercenaries" were involved. "The main perpetrators of the unsuccessful attempt to sabotage a Defense Ministry industrial center in Isfahan on January 8 have been identified and arrested," Iran's Intelligence Ministry and the Islamic Revolution Guards Corps (IRGC) said in a joint statement on Friday. "So far, the involvement of mercenaries of the .
+
+
+***
+![Anti-government Protests Draw Thousands in Iran's Southeast](http://www.globalsecurity.org/favicon.ico "Anti-government Protests Draw Thousands in Iran's Southeast")
+
+
+[Anti-government Protests Draw Thousands in Iran's Southeast](http://www.globalsecurity.org/wmd/library/news/iran/2023/iran-230210-voa01.htm)
+
+
+> By VOA News February 10, 2023 Iranian activists' organizations on social media report thousands of anti-government protesters took to the streets of cities in Iran's southeastern Sistan and Baluchestan Province on Friday, including the provincial capital, Zahedan. Video posted to Twitter and other social media showed large crowds marching in the streets of Zahedan. VOA's Persian News service reports thousands marched Friday chanting anti-government slogans. From its website and Twitter account, the People's Mojahedin Organization of Iran posted video and reported protests were also held Friday in the city of Galikesh in the northern Golestan Province, as well as in Sanandaj, the capital of the Kurdistan Province.
+
+
+***
+![Iranian Officials Urge Unions To More Strictly Adhere To Mandatory Hijab Law](http://www.globalsecurity.org/favicon.ico "Iranian Officials Urge Unions To More Strictly Adhere To Mandatory Hijab Law")
+
+
+[Iranian Officials Urge Unions To More Strictly Adhere To Mandatory Hijab Law](http://www.globalsecurity.org/wmd/library/news/iran/2023/iran-230210-rferl01.htm)
+
+
+> By RFE/RL's Radio Farda February 10, 2023 Officials in the Iranian capital, Tehran, have sent a letter to trade unions that calls for stricter enforcement and adherence to the mandatory hijab in stores and businesses. According to the letter, a copy of which was obtained by RFERL's Radio Farda, the order was issued to trade unions in the capital based on the Hijab and Chastity Law and with the aim of preventing the "spread of the culture of not wearing a hijab." Such acts of civil disobedience have increased in Iran, where the country's "hijab and chastity" law requires women and girls over the age of 9 to wear a head scarf in public.
+
+
+***
+![In order to watch the Nintendo Direct, American college students warned the school that 'big things will happen' that day, triggering the school's full alert to strengthen security-Computer King Ada](https://www.kocpc.com.tw/wp-content/uploads/2023/02/1676098213-1c4e884d08fae6b99446c60364b0b89d.jpg "In order to watch the Nintendo Direct, American college students warned the school that 'big things will happen' that day, triggering the school's full alert to strengthen security-Computer King Ada")
+
+
+[In order to watch the Nintendo Direct, American college students warned the school that 'big things will happen' that day, triggering the school's full alert to strengthen security-Computer King Ada](https://www.world-today-news.com/in-order-to-watch-the-nintendo-direct-american-college-students-warned-the-school-that-big-things-will-happen-that-day-triggering-the-schools-full-alert-to-strengthen-security-computer-king-ada/)
+
+
+> Just earlier this week, California State University was put on full alert because of a 'vague threat' submitted by a student to the school. Just because he wanted time to watch the latest Nintendo Direct presentation live. On the day of the incident, a college student anonymously sent an email to a certain professor, in which he predicted that a 'once-in-a-lifetime' event would happen on February 8th, calling on him to suspend classes, and even said 'this for the sake of all mankind.' However, the professor dismissed the email as some sort of 'vague threat' and notified UC police directly.
+
+
+***
+![South Africa Declares 'State of Disaster' Amid Electricity Crisis](http://www.globalsecurity.org/favicon.ico "South Africa Declares 'State of Disaster' Amid Electricity Crisis")
+
+
+[South Africa Declares 'State of Disaster' Amid Electricity Crisis](http://www.globalsecurity.org/wmd/library/news/safrica/safrica-230210-sputnik01.htm)
+
+
+> Sputnik News 20230210 MOSCOW (Sputnik) - South African President Cyril Ramaphosa on Thursday declared "a national state of disaster" to overcome the electricity crisis gripping his country. "Our most immediate priority is to restore energy security. We are in the grip of a profound energy crisis, the seeds of which were planted many years ago ... The National Disaster Management Center has consequently classified the energy crisis and its impact as a disaster. We are therefore declaring a national state of disaster to respond to the electricity crisis and its effects," Ramaphosa said in his annual State of the Nation address to parliament.
+
+
+***
+![Analysts Skeptical About South Africa's 'State of Disaster'](http://www.globalsecurity.org/favicon.ico "Analysts Skeptical About South Africa's 'State of Disaster'")
+
+
+[Analysts Skeptical About South Africa's 'State of Disaster'](http://www.globalsecurity.org/wmd/library/news/safrica/safrica-230210-voa01.htm)
+
+
+> By Vicky Stark February 10, 2023 In his state of the union speech late Thursday, South Africa's president, declared a state of disaster to deal with the country's electricity crisis. The emergency powers were key to helping South Africa cope with the COVID-19 pandemic. But analysts are skeptical the added powers will hasten an increase in electricity, and they worry it could feed corruption. The main opposition party, the Democratic Alliance, plans to challenge the state of disaster in court, saying it wants to prevent the kind of looting that took place during the COVID-19 emergency, as President Cyril Ramaphosa's action will empower the ruling African National Congress party to side-step normal procurement processes.
+
+
+***
+![China unlikely to launch 'major aggression' against Taiwan by 2030: U.S. official](http://www.globalsecurity.org/favicon.ico "China unlikely to launch 'major aggression' against Taiwan by 2030: U.S. official")
+
+
+[China unlikely to launch 'major aggression' against Taiwan by 2030: U.S. official](http://www.globalsecurity.org/wmd/library/news/taiwan/2023/taiwan-230210-cna01.htm)
+
+
+> ROC Central News Agency 02/10/2023 05:15 PM Washington, Feb. 9 (CNA) Ely Ratner, United States assistant secretary of defense for Indo-Pacific security affairs, said at a Senate hearing Thursday that he does not think China will engage in any "major aggression" against Taiwan before the end of this decade. At the Senate hearing on "evaluating U.S.-China policy in the era of strategic competition," Ratner and U.S. Deputy Secretary of State Wendy Sherman were questioned by lawmakers on their assessment of the China-Taiwan issue.
+
+
+***
+![Rights Groups Warn of More Torture, Executions in Myanmar as Martial Law Spreads](http://www.globalsecurity.org/favicon.ico "Rights Groups Warn of More Torture, Executions in Myanmar as Martial Law Spreads")
+
+
+[Rights Groups Warn of More Torture, Executions in Myanmar as Martial Law Spreads](http://www.globalsecurity.org/wmd/library/news/myanmar/2023/myanmar-230210-voa02.htm)
+
+
+> By Zsombor Peter February 10, 2023 Rights groups are warning of a likely rise in arbitrary arrests, torture and executions by Myanmar's military regime after the junta's move last week to place swaths of the country that are home to millions of people under martial law. The junta declared martial law in 37 of Myanmar's 330 townships on February 2, a day after marking the two-year anniversary of the military's overthrow of a democratically elected government, by extending emergency rule across the country for six more months.
+
+
+***
+![Valentine Day: 8 WhatsApp features to express your feelings better](https://images.livemint.com/img/2023/02/11/600x338/whatsapp_1670461126386_1676099371871_1676099371871.jpg "Valentine Day: 8 WhatsApp features to express your feelings better")
+
+
+[Valentine Day: 8 WhatsApp features to express your feelings better](https://www.livemint.com/technology/valentine-day-8-whatsapp-features-to-express-your-feelings-better-11676096978550.html)
+
+
+> Valentine's Day is around the corner and people are all finding new ways to make their loved ones feel special. In case you are looking looking to express your feelings digitally in a better ways, here is how you can use these new WhatsApp features: Digital avatars WhatsApp helps users to create their digital avatars.These customised avatars are digitised versions of your personality. Use these avatars while chatting to offer a more personal touch in the conversations. Pin Chat With the help of the pin chat feature, users can pin their favourite conversations on the instant messaging app.
+
+
+***
+![Bombing in Southwestern Pakistan Kills 2 Army Officers](http://www.globalsecurity.org/favicon.ico "Bombing in Southwestern Pakistan Kills 2 Army Officers")
+
+
+[Bombing in Southwestern Pakistan Kills 2 Army Officers](http://www.globalsecurity.org/wmd/library/news/pakistan/2023/pakistan-230210-voa01.htm)
+
+
+> By Ayaz Gul February 10, 2023 The bombing of a Pakistan military vehicle in a turbulent southwestern region has killed at least two army officers and injured several others. The roadside bombing took place Friday in Kohlu, a remote district in Baluchistan province. A military statement said security forces were conducting an operation in the area to "deny terrorists any liberty of action" when an improvised explosive device hit a vehicle. The slain officers included an army major and a captain.
+
+
+***
+![Pakistan's Key Financial Bailout Talks with IMF Remain Inconclusive](http://www.globalsecurity.org/favicon.ico "Pakistan's Key Financial Bailout Talks with IMF Remain Inconclusive")
+
+
+[Pakistan's Key Financial Bailout Talks with IMF Remain Inconclusive](http://www.globalsecurity.org/wmd/library/news/pakistan/2023/pakistan-230210-voa02.htm)
+
+
+> By Ayaz Gul February 10, 2023 Pakistan and the International Monetary Fund have held days of talks on reviving a stalled $6.5 billion bailout program but have failed to reach a deal to help prevent a looming default facing the South Asian nation. The 10-day talks with the IMF delegation were "extensive" and "concluded successfully" before the visitors left the country early Friday, Finance Minister Ishaq Dar told a hurriedly convened news conference in the Pakistani capital, Islamabad. Dar said his team will hold a virtual meeting with the IMF Monday after reviewing a draft memorandum on broadly agreed-to policies the IMF mission shared with his government.
+
+
+***
+![Pakistan says agrees to IMF conditions on $1.1bn payout, deal still elusive](http://www.globalsecurity.org/favicon.ico "Pakistan says agrees to IMF conditions on $1.1bn payout, deal still elusive")
+
+
+[Pakistan says agrees to IMF conditions on $1.1bn payout, deal still elusive](http://www.globalsecurity.org/wmd/library/news/pakistan/2023/pakistan-230210-presstv01.htm)
+
+
+> Iran Press TV Friday, 10 February 2023 10:25 AM Pakistan says it has agreed to conditions laid down by the International Monetary Fund (IMF) to release about $1.1 billion in financial aid, while the UN financial body says discussions are still underway to release funds critical to keep the country's economy afloat. Pakistan's finance minister Ishaq Dar said on Friday the payout was delayed due to "routine procedures" as the IMF team left the cash-strapped country after 10 days of hectic negotiations with the government.
+
+
+***
+![Has Fintech S.A.'s (WSE:FTH) Impressive Stock Performance Got Anything to Do With Its Fundamentals?](https://images.simplywall.st/asset/industry/8042000-choice1-main-header/1585186669041 "Has Fintech S.A.'s (WSE:FTH) Impressive Stock Performance Got Anything to Do With Its Fundamentals?")
+
+
+[Has Fintech S.A.'s (WSE:FTH) Impressive Stock Performance Got Anything to Do With Its Fundamentals?](https://simplywall.st/stocks/pl/software/wse-fth/fintech-shares/news/has-fintech-sas-wsefth-impressive-stock-performance-got-anyt)
+
+
+> Fintech's (WSE:FTH) stock is up by a considerable 91% over the past week. Given that stock prices are usually aligned with a company's financial performance in the long-term, we decided to study its financial indicators more closely to see if they had a hand to play in the recent price move. In this article, we decided to focus on Fintech's ROE. ROE or return on equity is a useful tool to assess how effectively a company can generate returns on the investment it received from its shareholders.
+
+
+***
+![Defying sanctions, Russia will replace Siemens turbines with Iran-made ones: Report](http://www.globalsecurity.org/favicon.ico "Defying sanctions, Russia will replace Siemens turbines with Iran-made ones: Report")
+
+
+[Defying sanctions, Russia will replace Siemens turbines with Iran-made ones: Report](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230210-presstv02.htm)
+
+
+> Iran Press TV Friday, 10 February 2023 6:13 PM Russia will reportedly replace German-made hydropower-plant turbines with Iranian-made ones as Western sanctions have halted operations of Siemens in Russia since February 2022. In a report on Thursday, RT said Russia has begun producing Iranian-designed parts to replace Siemens turbines in the plants. The sanctions have impeded the servicing of German-made equipment. Russia is currently capable of producing small and medium turbines, but turbines with a large capacity of between 100-120 megawatts were assembled at a Siemens factory inside Russia.
+
+
+***
+![Russia has 'tools' to respond to EU's 10th package of sanctions: Deputy FM](http://www.globalsecurity.org/favicon.ico "Russia has 'tools' to respond to EU's 10th package of sanctions: Deputy FM")
+
+
+[Russia has 'tools' to respond to EU's 10th package of sanctions: Deputy FM](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230210-presstv03.htm)
+
+
+> Iran Press TV Friday, 10 February 2023 2:33 PM Russia says it possesses sufficient "tools" to counter the latest US-led anti-Moscow sanctions to be slapped later this month by the European Union on the Russian nation over Ukraine's war. Russian Deputy Foreign Minister Alexander Grushko said on Friday that "there certainly are tools" for responding to the fresh EU sanctions, adding that the previous sanctions had backfired and caused more damage to the European Union itself. Grushko told the Rossiya-24 TV channel that the EU's tenth package of sanctions planned against Moscow will not have an impact on the Russian economy.
+
+
+***
+![The Week In Russia: A Long War](http://www.globalsecurity.org/favicon.ico "The Week In Russia: A Long War")
+
+
+[The Week In Russia: A Long War](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230210-rferl01.htm)
+
+
+> By Steve Gutterman February 10, 2023 The investigation onto the downing of Flight MH17 in 2014 found "strong indications" that Russian President Vladimir Putin was involved -- but ends without reaching "the high bar of complete and conclusive evidence." More than eight years later, the war rages in the Donbas and beyond. Here are some of the key developments in Russia over the past week and some of the takeaways going forward. A Probe Implicates Putin As February 24 approaches, some reports refer to that date last year as the beginning of Russia's war against Ukraine.
+
+
+***
+![Russia to remove euro, only keeps yuan and gold in National Wealth Fund](http://www.globalsecurity.org/favicon.ico "Russia to remove euro, only keeps yuan and gold in National Wealth Fund")
+
+
+[Russia to remove euro, only keeps yuan and gold in National Wealth Fund](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230210-globaltimes01.htm)
+
+
+> Global Times By GT staff reporters Published: Feb 10, 2023 04:42 PM Russia's finance ministry said will reset the share of euro in its National Wealth Fund (NWF) starting from this year, leaving only gold, Chinese yuan and rubles, Russian media reported on Thursday. It not only means the drastic change to Russia's sovereign reserve structure as a strategic power, but also directly promotes the internationalization of yuan to a higher level, analysts claimed, noting that such move will also result in further de-dollarization.
+
+
+***
+![Russia to cut oil output 'voluntarily' by 500,000 bpd after Western price cap](http://www.globalsecurity.org/favicon.ico "Russia to cut oil output 'voluntarily' by 500,000 bpd after Western price cap")
+
+
+[Russia to cut oil output 'voluntarily' by 500,000 bpd after Western price cap](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230210-presstv01.htm)
+
+
+> Iran Press TV Friday, 10 February 2023 7:08 PM Russia plans to cut oil production "voluntarily" by 500,000 barrels per day (bpd) in March, Deputy Prime Minister Alexander Novak said, after the West imposed price caps on Russian oil and oil products. "Today, we are selling the entire volume of our oil output. But, as we have said before, we are not going to sell oil to those who directly or indirectly adhere to the 'price cap' principles," Novak said. "In this regard, Russia will voluntarily cut production by 500,000 barrels per day in March.
+
+
+***
+![Russia to Voluntarily Reduce Oil Production by 500,000 Bpd in March, Moscow Says](http://www.globalsecurity.org/favicon.ico "Russia to Voluntarily Reduce Oil Production by 500,000 Bpd in March, Moscow Says")
+
+
+[Russia to Voluntarily Reduce Oil Production by 500,000 Bpd in March, Moscow Says](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230210-sputnik02.htm)
+
+
+> Sputnik News 20230210 MOSCOW (Sputnik) - Russia will voluntarily reduce oil production by 500,000 barrels per day in March in order to contribute to the restoration of market relations, Russian Deputy Prime Minister Alexander Novak said on Friday. "Russia will voluntarily cut production by 500,000 barrels per day in March. This will contribute to the restoration of market relations. When making further decisions, we will make decisions based on the current market situation," Novak told a briefing.
+
+
+***
+![Russia Had No Opportunity Yet to Send Food as Part of Grain Deal, Russian Envoy to UN Says](http://www.globalsecurity.org/favicon.ico "Russia Had No Opportunity Yet to Send Food as Part of Grain Deal, Russian Envoy to UN Says")
+
+
+[Russia Had No Opportunity Yet to Send Food as Part of Grain Deal, Russian Envoy to UN Says](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230210-sputnik01.htm)
+
+
+> Sputnik News 20230210 UNITED NATIONS (Sputnik) - Russia has not yet been able to export any food as part of the grain deal, as seizures and general licenses issued by the West for Russian goods are a sham and do not allow exporting products, Russian Permanent Representative to the United Nations Vasily Nebenzia said in an interview with Sputnik. "For more than half a year of the Russia-UN memorandum, not a single grain and almost nothing of fertilizers have been sent through this line. And this is despite the demand and need for Russian products, which everyone admits," Nebenzia said.
+
+
+***
+![Greetings to employees and veterans of Russian Foreign Ministry](http://www.globalsecurity.org/favicon.ico "Greetings to employees and veterans of Russian Foreign Ministry")
+
+
+[Greetings to employees and veterans of Russian Foreign Ministry](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230210-kremlin01.htm)
+
+
+> Vladimir Putin congratulated current staff and veterans of the Russian Federation Foreign Ministry on their professional holiday, Diplomatic Worker's Day. February 10, 2023 09:00 The message reads, in part: "The Ministry of Foreign Affairs of Russia can rightly take pride in its glorious traditions. Our diplomats fulfilled with honour their professional duty and set an example of patriotism and civic courage even in the most difficult times, in the face of severe trials. The best qualities of our country's diplomatic service are much in demand today amidst the hybrid war unleashed against Russia.
+
+
+***
+![Foreign Minister Sergey Lavrov's greetings on the occasion of Diplomatic Worker's Day, Moscow, February 10, 2023](http://www.globalsecurity.org/favicon.ico "Foreign Minister Sergey Lavrov's greetings on the occasion of Diplomatic Worker's Day, Moscow, February 10, 2023")
+
+
+[Foreign Minister Sergey Lavrov's greetings on the occasion of Diplomatic Worker's Day, Moscow, February 10, 2023](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230210-russia-mfa02.htm)
+
+
+> 10 February 2023 00:01 236-09-02-2023 My dear friends, Today, we are celebrating Diplomatic Worker's Day. I would like to congratulate all my colleagues, no matter where you work - on Smolenskaya Square, in the Foreign Ministry's regional offices or in our numerous foreign missions - on our shared holiday. February 10 is an important day for all Foreign Ministry staff. It symbolises the continuity of the diplomatic service and demonstrates to the country and the world our professional unity and the noble ideals of our country's diplomacy.
+
+
+***
+![Foreign Minister Sergey Lavrov's remarks following the ceremony of laying flowers at the Foreign Ministry's commemorative plaques on Diplomatic Worker's Day, February 10, 2023](http://www.globalsecurity.org/favicon.ico "Foreign Minister Sergey Lavrov's remarks following the ceremony of laying flowers at the Foreign Ministry's commemorative plaques on Diplomatic Worker's Day, February 10, 2023")
+
+
+[Foreign Minister Sergey Lavrov's remarks following the ceremony of laying flowers at the Foreign Ministry's commemorative plaques on Diplomatic Worker's Day, February 10, 2023](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230210-russia-mfa01.htm)
+
+
+> 10 February 2023 13:00 241-10-02-2023 Friends, Today, on Diplomatic Worker's Day, it is our tradition to pay tribute to the memory of our predecessors - the staff of the People's Commissariat for Foreign Affairs, our colleagues from the People's Commissariat for Foreign Trade, who fell on the fronts of the Great Patriotic War, diplomats who died in the discharge of their duties or from political reprisals. At all times, the foreign policy service has faithfully served our Fatherland. Historical eras have followed each other as have political and socioeconomic systems.
+
+
+***
+![Chechnya Lawmakers Change Kadyrov's Title To 'Father Of The People'](http://www.globalsecurity.org/favicon.ico "Chechnya Lawmakers Change Kadyrov's Title To 'Father Of The People'")
+
+
+[Chechnya Lawmakers Change Kadyrov's Title To 'Father Of The People'](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230210-rferl02.htm)
+
+
+> By RFE/RL's Caucasus.Realities February 10, 2023 GROZNY, Russia -- Lawmakers in the Russian region of Chechnya have approved a bill on changing the Chechen version of the official title of the region's authoritarian leader, Ramzan Kadyrov, into what can be translated as "father of the people." The Chechen parliament approved the constitutional amendments on February 9, according to which, the title of the republic's leader will remain as "glava" (head) in Russian, but in Chechen will now be "mekhk-da," which is literally translated as "father of the land," but is generally used to mean "father of the people.
+
+
+***
+![It is always an honor for me to represent Ukraine, and I am proud of our beautiful and strong people](http://www.globalsecurity.org/favicon.ico "It is always an honor for me to represent Ukraine, and I am proud of our beautiful and strong people")
+
+
+[It is always an honor for me to represent Ukraine, and I am proud of our beautiful and strong people](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-ukraine-president02.htm)
+
+
+> President of Ukraine 10 February 2023 - 18:55 Dear Ukrainians, I wish you health! The fifth day of this week is coming to an end. In some ways, a very hard week, but a very meaningful one for sure. I want to emphasize a few things after the results of this week. He held another meeting of the Staff of the Supreme Commander-in-Chief today. It was a busy meeting. The situation on the front line was examined in detail, in particular in Donetsk region -Bakhmut and other hot spots. Tough areas.
+
+
+***
+![Ukrainian Power Grid Targeted Again As Zelenskiy Returns From Trip To European Capitals](http://www.globalsecurity.org/favicon.ico "Ukrainian Power Grid Targeted Again As Zelenskiy Returns From Trip To European Capitals")
+
+
+[Ukrainian Power Grid Targeted Again As Zelenskiy Returns From Trip To European Capitals](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-rferl01.htm)
+
+
+> By RFE/RL's Ukrainian Service February 10, 2023 Russian missiles hit power facilities in six of Ukraine's regions on February 10 as President Volodymyr Zelenskiy returned from a tour of Western European capitals saying he had received "good signals" on his request for increased amounts of military aid. Ukrainian officials said energy facilities were the main targets of missile and drone attacks that began early in the day. All but 10 of 71 missiles fired by Russian forces were shot down, said General Valeriy Zaluzhniy, commander of Ukraine's armed forces.
+
+
+***
+![Ukrainian Official Cries Foul Over SpaceX Executive's Comments On Curbing Starlink Internet Service](http://www.globalsecurity.org/favicon.ico "Ukrainian Official Cries Foul Over SpaceX Executive's Comments On Curbing Starlink Internet Service")
+
+
+[Ukrainian Official Cries Foul Over SpaceX Executive's Comments On Curbing Starlink Internet Service](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-rferl02.htm)
+
+
+> By RFE/RL February 10, 2023 SpaceX has come under fire from a Ukrainian official for comments by a company executive who said steps had been taken to curb the Starlink satellite Internet service because of the way Ukraine is using it in its fight against invading Russian forces. Mykhaylo Podolyak, an adviser to Ukrainian President Volodymyr Zelenskiy, on February 9 said SpaceX President Gwynne Shotwell should "choose a specific option" after saying that Ukraine was using Starlink in ways it was never intended to be used.
+
+
+***
+![Report: Ukraine Almost Always Relies on US Coordinates to Fire HIMARS at Russian Forces](http://www.globalsecurity.org/favicon.ico "Report: Ukraine Almost Always Relies on US Coordinates to Fire HIMARS at Russian Forces")
+
+
+[Report: Ukraine Almost Always Relies on US Coordinates to Fire HIMARS at Russian Forces](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-sputnik01.htm)
+
+
+> Sputnik News 20230210 MOSCOW (Sputnik) - The Ukrainian military almost always relies on coordinates provided or confirmed by Washington to carry out strikes against the Russian Military with HIMARS, The Washington Post reported on Thursday, citing senior Ukrainian officials and a senior US official. A Ukrainian official told the newspaper that Ukraine's forces almost never fire HIMARS rockets without specific coordinates, provided or confirmed by the United States military personnel from a base in Europe, adding that this process gives the US confidence about providing Kiev with longer-range weapons.
+
+
+***
+![No amount of disinformation can rewrite Russia's lies and deceit: UK delegation to the OSCE](http://www.globalsecurity.org/favicon.ico "No amount of disinformation can rewrite Russia's lies and deceit: UK delegation to the OSCE")
+
+
+[No amount of disinformation can rewrite Russia's lies and deceit: UK delegation to the OSCE](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-ukfcdo01.htm)
+
+
+> Deputy Ambassador Brown says Russia has waged a campaign of disinformation throughout the build up to their illegal invasion and in the months since. 10 February 2023 Thank you, Mr Chair. On Monday, a Moscow court sentenced Russian journalist Veronika Belotserkovskaya in absentia to nine years in prison for spreading supposed "fakes" about the Russian army's actions in Ukraine. Therefore our statement will focus on Russian disinformation. On the distractions and lies Russia sought to proliferate in the build up to its illegal invasion and in the months since.
+
+
+***
+![The total combat losses of the enemy from 24.02.22 to 10.02.23](http://www.globalsecurity.org/favicon.ico "The total combat losses of the enemy from 24.02.22 to 10.02.23")
+
+
+[The total combat losses of the enemy from 24.02.22 to 10.02.23](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-ukraine-mod01.htm)
+
+
+> Ministry of Defence of Ukraine 2023-02-10 08:00:00 | ID: 69153 The total combat losses of the enemy from 24.02.22 to 10.02.23 were approximately: personnel ‒ about 135740 (+730) persons were liquidated, tanks ‒ 3258 (+3), APV ‒ 6471 (+3), artillery systems - 2251 (+7), MLRS - 463 (+0), Anti-aircraft warfare systems ‒ 233 (+1), aircraft - 295 (+0), helicopters - 286 (+1), UAV operational-tactical level - 1970 (+3), cruise missiles ‒ 796 (+0), warships / boats ‒ 18 (+0), vehicles and fuel tanks - 5126 (+5), special equipment ‒ 211 (+0).
+
+
+***
+![Office of Ukraine's President presents two acceptable ways of creating tribunal against Russian leaders](http://www.globalsecurity.org/favicon.ico "Office of Ukraine's President presents two acceptable ways of creating tribunal against Russian leaders")
+
+
+[Office of Ukraine's President presents two acceptable ways of creating tribunal against Russian leaders](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-ukraine-president01.htm)
+
+
+> President of Ukraine 10 February 2023 - 19:15 At a meeting with French journalists, Deputy Head of the Office of the President Andriy Smyrnov spoke about the most desirable ways for Ukraine to create an international tribunal. "The whole civilized world watched the crimes of aggression committed by Russia for many years. In 2008, they began aggression against Georgia. In 2014, they occupied Crimea and part of Donbas. Each time, the Russian army entered neighboring states," Smyrnov said. But, as he emphasized, the Russian leadership has never been punished for aggression, despite the fact that it is an internationally recognized crime.
+
+
+***
+![Russian missile strikes reported across Ukraine, targeting key infrastructure](http://www.globalsecurity.org/favicon.ico "Russian missile strikes reported across Ukraine, targeting key infrastructure")
+
+
+[Russian missile strikes reported across Ukraine, targeting key infrastructure](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-presstv01.htm)
+
+
+> Iran Press TV Friday, 10 February 2023 11:27 AM Russia has launched a fresh wave of missile attacks on Ukraine, targeting the country's critical infrastructure and causing power outages and disruptions in train services, according to Ukrainian officials and media. At least 17 missiles hit the southeastern city of Zaporizhzhia within one hour on Friday, local media reported, the heaviest attack since the military conflict between Russia and Ukraine began in February last year. The operator of the national network Ukrenergo announced that several energy facilities were hit in the east, south, and west of the war-ravaged country, which caused a disruption in the electricity supply system in the region.
+
+
+***
+![Prime Minister Marin: It is important that President Zelensky was able to appeal to EU leaders in person](http://www.globalsecurity.org/favicon.ico "Prime Minister Marin: It is important that President Zelensky was able to appeal to EU leaders in person")
+
+
+[Prime Minister Marin: It is important that President Zelensky was able to appeal to EU leaders in person](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-fingov01.htm)
+
+
+> Finnish Government Government Communications Department 10.2.2023 The special meeting of the European Council held on 9 February discussed support for Ukraine, migration and measures to support the European economy and competitiveness. At the summit, Ukrainian President Volodymyr Zelensky appealed to EU leaders to increase support for Ukraine and to intensify sanctions against Russia. Following a general exchange of views between President Zelensky and the EU leaders, the President met with the leaders of the Member States in separate discussions.
+
+
+***
+![VOA Interview: Head of the Supreme Court of Ukraine](http://www.globalsecurity.org/favicon.ico "VOA Interview: Head of the Supreme Court of Ukraine")
+
+
+[VOA Interview: Head of the Supreme Court of Ukraine](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-voa03.htm)
+
+
+> By Oleksii Kovalenko February 10, 2023 Ukrainian Prosecutor General Andriy Kostin, who has called for the creation of an ad hoc international tribunal to investigate and prosecute Russian aggression in Ukraine, has registered 65,000 war crimes committed by Russian forces. Vsevolod Knyazev, the head of Ukraine's Supreme Court, calls it a necessary step — one that should also target Russian leaders who ordered the invasion. "Putin will not come to the court voluntarily, and Russia will not pay voluntarily," Knyazev tells VOA's Ukrainian Service.
+
+
+***
+![Russia Launches Missile Strikes Across Ukraine](http://www.globalsecurity.org/favicon.ico "Russia Launches Missile Strikes Across Ukraine")
+
+
+[Russia Launches Missile Strikes Across Ukraine](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-voa02.htm)
+
+
+> By VOA News February 10, 2023 Russia bombarded Ukraine with a series of missile strikes across the country Friday. Critical infrastructure facilities were hit, resulting in power outages. Zaporizhzhia, which houses Europe's largest nuclear plant, was hit with 17 missiles in one hour, according to the town's acting mayor. Air raid sirens blasted across the country. Officials warned people to pay attention to the sirens and seek shelter when hearing them. The strikes Friday come just ahead of the February 24 anniversary of Russia's invasion of Ukraine.
+
+
+***
+![US Announces Biden Visit to Poland After Russian Onslaught on Ukraine](http://www.globalsecurity.org/favicon.ico "US Announces Biden Visit to Poland After Russian Onslaught on Ukraine")
+
+
+[US Announces Biden Visit to Poland After Russian Onslaught on Ukraine](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-voa01.htm)
+
+
+> By VOA News February 10, 2023 The White House announced on Friday that President Joe Biden will travel to Poland on February 20 to meet with Polish President Andrzej Duda and Eastern European allies. Coming just before the first anniversary of Russia's invasion of Ukraine on February 24, Biden's visit "will make it very clear that the United States will continue to stand with Ukraine for as long as it takes," said John Kirby, spokesperson for the White House National Security Council. The announcement came after Russia's massive strikes Friday morning across Ukraine.
+
+
+***
+![President of Ukraine met with King Philippe I of Belgium in Brussels](http://www.globalsecurity.org/favicon.ico "President of Ukraine met with King Philippe I of Belgium in Brussels")
+
+
+[President of Ukraine met with King Philippe I of Belgium in Brussels](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-ukraine-president07.htm)
+
+
+> President of Ukraine 10 February 2023 - 09:48 President of Ukraine Volodymyr Zelenskyy had an audience with His Majesty King Philippe I of Belgium in Brussels. The Head of State expressed gratitude to King Philippe, the Belgian government and the entire Belgian people for the comprehensive support provided to Ukraine since the first days of the full-scale invasion of the aggressor state. Separately, the President thanked for the assistance to Ukrainian citizens who were forced to temporarily leave their homeland due to the Russian war and found refuge in Belgium.
+
+
+***
+![Volodymyr Zelenskyy and Andrzej Duda held a meeting in Rzeszów](http://www.globalsecurity.org/favicon.ico "Volodymyr Zelenskyy and Andrzej Duda held a meeting in Rzeszów")
+
+
+[Volodymyr Zelenskyy and Andrzej Duda held a meeting in Rzeszów](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-ukraine-president06.htm)
+
+
+> President of Ukraine 10 February 2023 - 10:30 Upon completion of a series of foreign visits, President of Ukraine Volodymyr Zelenskyy met with President of Poland Andrzej Duda in Rzeszów, Poland. The Head of State informed his counterpart on the current situation at the front and forecasts for the development of the situation in the coming period. Volodymyr Zelenskyy spoke about the current defense needs of Ukraine and his steps to strengthen the Ukrainian army. The leaders discussed further defense cooperation and joint diplomatic steps.
+
+
+***
+![Today's missiles are a challenge to NATO and collective security, this is terror that can and must be stopped](http://www.globalsecurity.org/favicon.ico "Today's missiles are a challenge to NATO and collective security, this is terror that can and must be stopped")
+
+
+[Today's missiles are a challenge to NATO and collective security, this is terror that can and must be stopped](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-ukraine-president05.htm)
+
+
+> President of Ukraine 10 February 2023 - 14:27 Fellow Ukrainians! A brief report. Today, the enemy launched at least 70 missiles in another massive attack. At least 60 missiles were shot down. Their targets were civilians, civilian infrastructure. Unfortunately, there were hits. Unfortunately, there are victims. My condolences to the relatives and friends! Several Russian missiles flew through the airspace of Moldova and Romania. Another proof that terror does not know and will never know any borders.
+
+
+***
+![If Russian athletes are allowed to participate in the Olympic Games, it's just a matter of time before the Russian Federation forces them to play along with the war propaganda](http://www.globalsecurity.org/favicon.ico "If Russian athletes are allowed to participate in the Olympic Games, it's just a matter of time before the Russian Federation forces them to play along with the war propaganda")
+
+
+[If Russian athletes are allowed to participate in the Olympic Games, it's just a matter of time before the Russian Federation forces them to play along with the war propaganda](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-ukraine-president04.htm)
+
+
+> President of Ukraine 10 February 2023 - 16:46 Our team had a very good visit to Great Britain. Then we had very good meetings in the EU and Brussels with all our partners. Thank you very much for your support and all your words and deeds since the beginning of the full-scale invasion of Russia. But we have challenges every day. Ladies and Gentlemen! Another missile attack on our country has just taken place. This is our morning today. At least sixty-five rockets. All - against civilian infrastructure.
+
+
+***
+![President holds meeting of Staff of Supreme Commander-in-Chief](http://www.globalsecurity.org/favicon.ico "President holds meeting of Staff of Supreme Commander-in-Chief")
+
+
+[President holds meeting of Staff of Supreme Commander-in-Chief](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230210-ukraine-president03.htm)
+
+
+> President of Ukraine 10 February 2023 - 17:55 President of Ukraine Volodymyr Zelenskyy held a regular meeting of the Staff of the Supreme Commander-in-Chief on Friday. The meeting participants heard information about the current situation on the front line. Particular attention was paid to the protection of Ukrainian positions in Donetsk region - near Bakhmut, Vuhledar, as well as in Kreminna district of Luhansk region and other areas of the front where active hostilities continue. Intelligence leadership reported on the actions of the enemy and its near plans.
+
+
+***
+![Microsoft 365 E5 developers manage App skills, sub-account organization authorization setting is super convenient- Mr. Crazy](https://mrmad.com.tw/wp-content/uploads/2023/02/microsoft-365-admin-app.jpg "Microsoft 365 E5 developers manage App skills, sub-account organization authorization setting is super convenient- Mr. Crazy")
+
+
+[Microsoft 365 E5 developers manage App skills, sub-account organization authorization setting is super convenient- Mr. Crazy](https://www.world-today-news.com/microsoft-365-e5-developers-manage-app-skills-sub-account-organization-authorization-setting-is-super-convenient-mr-crazy/)
+
+
+> I have previously taught you how to receive 'Microsoft Office 365 Permanent Official Edition and OneDrive 5TB Cloud Space' for free. If you want to manage new sub-accounts for relatives and friends, or edit organization-related settings, you even want to confirm Office 365 and 5TB at any time. Whether the OneDrive space is normal, in fact, you can use the Microsoft 365 E5 developer app to manage it at any time through your mobile phone. This article will teach you how to use the Microsoft 365 E5 developer management tool ' Microsoft 365 Admin 'App, you can add and remove sub-accounts and set Office 365 software permissions at any time, and you can also edit Microsoft 365 E5 developer developer-related information at any time, eliminating the need to open Microsoft's webpage to browse.
+
+
+***
+![We have something to look forward to! Xiaomi flagships will soon arrive in our market](https://www.svetandroida.cz/media/2023/02/xiaomi-13-globalni-trh.jpg "We have something to look forward to! Xiaomi flagships will soon arrive in our market")
+
+
+[We have something to look forward to! Xiaomi flagships will soon arrive in our market](https://www.world-today-news.com/we-have-something-to-look-forward-to-xiaomi-flagships-will-soon-arrive-in-our-market/)
+
+
+> Xiaomi introduced its flagship phones some time ago, but only in the Chinese market. Now the founder of the Chinese company has officially announced on Twitter when we will see them on the global market, including in Europe. The Xiaomi 13 series, which includes both a basic and a Pro model, will be presented on February 26 at the MWC 2023 fair in Barcelona. The press conference will begin at 17:00 our time, so you can follow her. We will also be present at the fair, so you can definitely look forward to some first impressions.
+
+
+***
+![Copilot, an AI programming tool, was sued for copyright infringement, and Microsoft GitHub and OpenAI stood up to complain](https://cdn2.techbang.com/system/excerpt_images/103546/original/b1b043734d252eac3f173404ab027f6c.jpg?1675062524 "Copilot, an AI programming tool, was sued for copyright infringement, and Microsoft GitHub and OpenAI stood up to complain")
+
+
+[Copilot, an AI programming tool, was sued for copyright infringement, and Microsoft GitHub and OpenAI stood up to complain](https://www.world-today-news.com/copilot-an-ai-programming-tool-was-sued-for-copyright-infringement-and-microsoft-github-and-openai-stood-up-to-complain/)
+
+
+> Microsoft, GitHub and OpenAI want courts to dismiss a proposed class-action lawsuit accusing the companies of scraping licensed code to build GitHub's artificial intelligence-powered Copilot tool, Reuters previously reported. In two filings filed in federal court in San Francisco, Microsoft-owned GitHub and OpenAI both said the claims in the case were invalid. Launched in 2021, Copilot leverages technology from OpenAI to generate and suggest lines of code directly in the programmer's code editor.
+
+
+***
+![Pixel 8, Pixel 8 Pro set to be the first phones with this Android 14 feature](https://m-cdn.phonearena.com/images/article/145533-wide-two_1200/Pixel-8-Pixel-8-Pro-set-to-be-the-first-phones-with-this-Android-14-feature.jpg "Pixel 8, Pixel 8 Pro set to be the first phones with this Android 14 feature")
+
+
+[Pixel 8, Pixel 8 Pro set to be the first phones with this Android 14 feature](https://www.phonearena.com/news/new-android-14-feature-made-for-pixel-8_id145533)
+
+
+> With the Android 14 Developer Preview available, XDA's Mishaal Rahman discovered a security feature for the next Android build called Advanced Memory Protection. This is supposed to prevent phones from memory safety bugs. Google defines these as "errors in handling memory in native programming languages," and says that they "are the most common issue in the Android codebases. They account for over 60% of high severity security vulnerabilities and for millions of user-visible crashes." These bugs negatively affect stability and account for most of the software crashes on Android devices.
+
+
+***
+![2 new Samsung 5G cellphones that appear on the TKDN site, Galaxy A34 and Galaxy A54?](https://www.espaces-atypiques.com/wp-content/uploads/121806/1453/121806-1453-51696300a.jpg "2 new Samsung 5G cellphones that appear on the TKDN site, Galaxy A34 and Galaxy A54?")
+
+
+[2 new Samsung 5G cellphones that appear on the TKDN site, Galaxy A34 and Galaxy A54?](https://www.world-today-news.com/2-new-samsung-5g-cellphones-that-appear-on-the-tkdn-site-galaxy-a34-and-galaxy-a54/)
+
+
+> Liputan6.com, Jakarta Ammunition Samsung after releasing the smartphone flagship they Galaxy S23 Series have not run out. This time, they seem to be launching their two middle-class cellphones from the A series to Indonesia. The two smartphones are reportedly the Samsung Galaxy A34 5G and Samsung Galaxy A54 5G, which seem to have passed the Ministry of Industry's (Kemenperin) Domestic Component Level (TKDN) certification. According to the Ministry of Industry's TKDN website, quoted on Saturday (11/2/2023), PT Samsung Electronics Indonesia has obtained two certificates for two 5G mobile devices on February 3, 2023.
+
+
+***
+![WhatsApp announces much-awaited feature for users](https://www.geo.tv/assets/uploads/updates/2023-02-11/470263_105618_updates.jpg "WhatsApp announces much-awaited feature for users")
+
+
+[WhatsApp announces much-awaited feature for users](https://www.geo.tv/latest/470263-whatsapp-announces-much-awaited-feature-for-users)
+
+
+> A representational image showing people holding phones with WhatsApp logo on the screen. — Reuters/File  Meta-owned WhatsApp has become one of the main sources to share all sorts of media including photos, videos, gifs, and voice messages to your loved ones without any hassle. Users can easily send multiple photos to a group chat or to a friend or family member within a few seconds. However, users often complained about sharing up to only 30 photos at a time. And this has now been sorted out. The instant messaging app has been introducing newer features and making the application's usage easy and smooth for its users.
+
+
+***
+![When will the 2023 iMac Pro possibly launch? Expected specs, features, and more](https://staticc.sportskeeda.com/editor/2023/02/4b958-16760434104144-1920.jpg "When will the 2023 iMac Pro possibly launch? Expected specs, features, and more")
+
+
+[When will the 2023 iMac Pro possibly launch? Expected specs, features, and more](https://www.sportskeeda.com/gaming-tech/when-will-2023-imac-pro-possibly-launch-expected-specs-features)
+
+
+> Apple is expected to revive its highly anticipated iMac Pro model in 2023, according to reports. Since the discontinuation of the first iMac Pro in 2021, fans have eagerly been waiting for a new and improved version. The rumored new iMac Pro is expected to feature a larger display, the latest Apple Silicon chip, and an updated design. In recent months, Apple has been making significant updates to its Mac lineup. The company refreshed its MacBook Pro and Mac Mini lineup. They also announced new M2 chip successors, which has sparked speculation that they have big plans for the future.
+
+
+***
+![Google cautions against ‘hallucinating' chatbots: Report](https://cdn.jagonews24.com/media/imgAllNew/BG/2019November/chatgptb-20230211111014.jpg "Google cautions against ‘hallucinating' chatbots: Report")
+
+
+[Google cautions against ‘hallucinating' chatbots: Report](https://www.jagonews24.com/en/tech/news/66767)
+
+
+> The boss of Google's search engine warned against the pitfalls of artificial intelligence in chatbots in a newspaper interview published on Saturday, as Google parent company Alphabet battles to compete with blockbuster app ChatGPT, reports Reuters.  "This kind of artificial intelligence we're talking about right now can sometimes lead to something we call hallucination," Prabhakar Raghavan, senior vice president at Google and head of Google Search, told Germany's Welt am Sonntag newspaper. "This then expresses itself in such a way that a machine provides a convincing but completely made-up answer," Raghavan said in comments published in German.
+
+
+***
+![Xbox 2022 was a desert of exclusives, but there's a fabulous oasis in Game Pass that went under the radar](https://i.blogs.es/6f1bf1/ss_4a2a8108297df2f4a291d21dcb9e9e37cc401bd6/840_560.jpeg "Xbox 2022 was a desert of exclusives, but there's a fabulous oasis in Game Pass that went under the radar")
+
+
+[Xbox 2022 was a desert of exclusives, but there's a fabulous oasis in Game Pass that went under the radar](https://www.world-today-news.com/xbox-2022-was-a-desert-of-exclusives-but-theres-a-fabulous-oasis-in-game-pass-that-went-under-the-radar/)
+
+
+> With 2022 already behind us, we can safely say that last year was a desert of xbox exclusives. We are not talking about 365 bad days with this, since Game Pass sustained, and with great success, the performance of the Microsoft division. A Plague Tale: Requiem, the final version of Grounded, Signalis and many other works have nourished us during the last 12 months in the best way. Among all of them, the figure of Pentiment emerges, the last Obsidian title that had the tremendous misfortune of appearing on the market between two titans like God of War Ragnarök and Pokémon Scarlet/Purple.
+
+
+***
+![Hoyo Bus, new galactic fantasy RPG ‘Collapse: Star Rail' pre-registration](https://www.fetv.co.kr/data/photos/20230206/art_16760196027307_bba188.jpg "Hoyo Bus, new galactic fantasy RPG ‘Collapse: Star Rail' pre-registration")
+
+
+[Hoyo Bus, new galactic fantasy RPG ‘Collapse: Star Rail' pre-registration](https://www.world-today-news.com/hoyo-bus-new-galactic-fantasy-rpg-collapse-star-rail-pre-registration/)
+
+
+> [FETV=최명진 기자] Hoyo Bus announced on the 10th that it will conduct pre-registration for its new galactic fantasy RPG ‘Collapse: Star Rail', which is scheduled to be serviced by the company. Anyone can apply for this pre-registration by simply entering an email address and mobile phone number on the official website, Google Play and Apple App Store, or by adding to the wish list on the Epic Games Store. In particular, all pre-registration participants can obtain the item ‘Star's Orbit Ticket' and the character ‘Serval', which can be used after the official launch, and a great response is expected.
+
+
+***
+![WFP accelerates earthquake response in Syria and Türkiye](http://www.globalsecurity.org/favicon.ico "WFP accelerates earthquake response in Syria and Türkiye")
+
+
+[WFP accelerates earthquake response in Syria and Türkiye](http://www.globalsecurity.org/wmd/library/news/syria/2023/syria-230210-wfp01.htm)
+
+
+> World Food Programme 10 February 2023 ANKARA/DAMASCUS -- The United Nations World Food Programme (WFP) has delivered urgently needed food assistance to 115,000 people in Syria and Türkiye in the first four days since deadly earthquakes struck the region, killing thousands and forcing tens of thousands into the freezing outside temperatures. Distributions are ongoing. "We're providing mainly hot meals, ready-to-eat food rations and family food packages -- things that require no cooking facilities and can be consumed immediately," said WFP Regional Director for the Middle East and North Africa Corinne Fleischer.
+
+
+***
+![More aid reaches Syria's quake victims but it's not enough, say UN aid agencies](http://www.globalsecurity.org/favicon.ico "More aid reaches Syria's quake victims but it's not enough, say UN aid agencies")
+
+
+[More aid reaches Syria's quake victims but it's not enough, say UN aid agencies](http://www.globalsecurity.org/wmd/library/news/syria/2023/syria-230210-unnews01.htm)
+
+
+> 10 February 2023 - A second UN aid convoy reached northwest Syria on Friday to help victims of the still-unfolding earthquake tragedy, but humanitarians have warned that far more lifesaving help is needed, and much more quickly. A total of 14 trucks crossed into opposition-held areas of Syria from Türkiye at Bab al-Hawa, the UN migration agency, IOM, confirmed. That crossing is the only one authorised for aid deliveries by the UN Security Council, which has prompted calls - including from the Secretary-General - "to explore all possible avenues to get aid and personnel into all affected areas".
+
+
+***
+![UNHCR: Over 5 million may be left displaced in Syria by quake](http://www.globalsecurity.org/favicon.ico "UNHCR: Over 5 million may be left displaced in Syria by quake")
+
+
+[UNHCR: Over 5 million may be left displaced in Syria by quake](http://www.globalsecurity.org/wmd/library/news/syria/2023/syria-230210-unhcr01.htm)
+
+
+> UNHCR - United Nations High Commissioner for Refugees This is a summary of what was said by Sivanka Dhanapala, UNHCR Representative in Syria - to whom quoted text may be attributed - at today's press briefing at the Palais des Nations in Geneva. He was speaking from Damascus. 10 February 2023 As many as 5.3 million people in Syria may have been left homeless by the earthquake that struck the country and Türkiye at the start of the week, and UNHCR, the UN Refugee Agency, has been rushing aid to the badly impacted parts of the country.
+
+
+***
+![Turkey-Syria quake: Death toll passes 23,700 as Erdogan admits rescue efforts were slow](http://www.globalsecurity.org/favicon.ico "Turkey-Syria quake: Death toll passes 23,700 as Erdogan admits rescue efforts were slow")
+
+
+[Turkey-Syria quake: Death toll passes 23,700 as Erdogan admits rescue efforts were slow](http://www.globalsecurity.org/wmd/library/news/turkey/2023/turkey-230210-presstv01.htm)
+
+
+> Iran Press TV Friday, 10 February 2023 6:40 PM The number of victims of the devastating earthquake on Friday exceeded 23,700 people, as Turkish President Recep Tayyip Erdogan admitted that the rescue teams' response to the massive earthquakes in the south of the country was not as fast as the government expected. At least 20,213 deaths have been reported in Turkey, while more than 3,500 people have been reported dead in Syria. Many more people remain under the rubble. "Although we have the largest search and rescue team in the world right now, it is a reality that search efforts are not as fast as we wanted them to be," Erdogan said on Friday.
+
+
+***
+![In wake of global criticism, US issues temporary sanctions waiver for Syria](http://www.globalsecurity.org/favicon.ico "In wake of global criticism, US issues temporary sanctions waiver for Syria")
+
+
+[In wake of global criticism, US issues temporary sanctions waiver for Syria](http://www.globalsecurity.org/wmd/library/news/syria/2023/syria-230210-presstv01.htm)
+
+
+> Iran Press TV Friday, 10 February 2023 5:48 PM Washington has issued a temporary sanctions waiver to allow earthquake relief funds to reach Syria, following widespread criticism that the bans are hampering international aid efforts in the country. The US Treasury Department's Office of Foreign Assets Control (OFAC) on Friday issued the waiver for Caesar Act sanctions imposed on Syria, authorizing earthquake relief transactions for a period of six months. Deputy Secretary of the US Treasury Department Wally Adeyemo said they issued the waiver to ensure the US sanctions would not get in the way of "life-saving efforts for the Syrian people.
+
+
+***
+![Creating a Ripple Effect on Button Click](https://external-preview.redd.it/nbM9MowvmqYXJce8HeJpyk0vaoHCfTLbnRUOj_E2jpg.jpg?auto=webp&v=enabled&s=64edc826dc00207c5f2642939240324da6028eea "Creating a Ripple Effect on Button Click")
+
+
+[Creating a Ripple Effect on Button Click](https://www.reddit.com/r/programming/comments/10zdl2h/creating_a_ripple_effect_on_button_click)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![The Snapdragon X35 from Qualcomm offers 5G to IoT devices and smartwatches – Research Snipers](https://researchsnipers.com/wp-content/uploads/2022/08/Qualcomm-could-revolutionize-entry-level-smartphones-with-this-new-processor.jpg "The Snapdragon X35 from Qualcomm offers 5G to IoT devices and smartwatches – Research Snipers")
+
+
+[The Snapdragon X35 from Qualcomm offers 5G to IoT devices and smartwatches – Research Snipers](https://researchsnipers.com/the-snapdragon-x35-from-qualcomm-offers-5g-to-iot-devices-and-smartwatches)
+
+
+> The tech industry is progressing at rapid speeds. With every passing day, we come across interesting news and stuff. Now, the company Qualcomm has announced that 5G will be presented to various small gadgets. The portfolio of small gadgets consists of smart glasses, IoT, and smartwatches. Reportedly, the company has unveiled the Snapdragon X35 5G modem. The new Snapdragon X35 will power a range of 5G devices. As per the information, the Snapdragon X35 5G is unique. It is the first 5G NR-Light modem-RF system.
+
+
+***
+![Garena Free Fire MAX Redeem Codes for 11 February 2023: Check reward.ff.garena.com; Know How To Claim the Redeem Codes for Today; Latest Details Here](https://images.thequint.com/thequint%2F2023-02%2Fc275f167-d3cb-454b-923e-b7592338a3b1%2Fgarena.jpg?rect=0%2C0%2C1440%2C756&w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true "Garena Free Fire MAX Redeem Codes for 11 February 2023: Check reward.ff.garena.com; Know How To Claim the Redeem Codes for Today; Latest Details Here")
+
+
+[Garena Free Fire MAX Redeem Codes for 11 February 2023: Check reward.ff.garena.com; Know How To Claim the Redeem Codes for Today; Latest Details Here](https://www.thequint.com/tech-and-auto/tech-news/garena-free-fire-max-redeem-codes-for-today-know-how-to-claim-the-redeem-codes-check-latest-details)
+
+
+> Garena Free Fire MAX Redeem Codes for Today: Steps To Claim Let's take a look at the steps to claim the Garena Free Fire MAX redeem codes for today from the redemption site: Go to reward.ff.garena.com. Click on the redemption page link available on the homepage. Paste one of the codes from the list for today into the text box. Click on submit and then press OK to complete the redemption process. You can go through the rewards and weapons in your in-game mail section. Please note that you will not receive any weapons or free gifts if the redemption is unsuccessful.
+
+
+***
+![CISA Warns of Active Attacks Exploiting Fortra MFT, TerraMaster NAS, and Intel Driver Flaws](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEhmRFG6Xp2cUYbmQgYLPwJuEEH2i8lUIEEtMoycnyzKS4e_KBv14tfmALTtvYtvJnFKo9OUzj7LFyd1u8FTd3Nd2lgFa4dp2s3eO2lpolSYcLaiX0aUXs6DKPYgW5akbJlbKA6aC043prrHMAlJ0zZMxRu-r-eCdfJQTrJ90bjDOBQuCpMrAhn_n5-s/s728-e3650/cisa.png "CISA Warns of Active Attacks Exploiting Fortra MFT, TerraMaster NAS, and Intel Driver Flaws")
+
+
+[CISA Warns of Active Attacks Exploiting Fortra MFT, TerraMaster NAS, and Intel Driver Flaws](https://thehackernews.com/2023/02/cisa-warns-of-active-attacks-exploiting.html)
+
+
+> The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three flaws to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active abuse in the wild. Included among the three is CVE-2022-24990 , a bug affecting TerraMaster network-attached storage (TNAS) devices that could lead to unauthenticated remote code execution with the highest privileges. Details about the flaw were disclosed by Ethiopian cyber security research firm Octagon Networks in March 2022.
+
+
+***
+![The race to AI supremacy](https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/02/11/tech.jpg "The race to AI supremacy")
+
+
+[The race to AI supremacy](https://www.tbsnews.net/tech/race-ai-supremacy-583326)
+
+
+> Occasionally, a new form of technology grabs the attention of the entire world. The hype, in public conversations across the continents, is nowadays all about generative artificial intelligence (AI).  AI has become the latest obsession for big tech and subsequently, the competition between different AI research centres is heating up. Judging by the mood in Silicon Valley and its counterparts, the AI race that seemingly began with ChatGPT is on the path to becoming an all-out war. To take on ChatGPT, Google's CEO Sundar Pichai publicly introduced Bard — a brand new conversational AI — this week.
+
+
+***
+![Some functions of the iPhone 15's USB-C connector may only be available with Apple-approved cords and accessories – Research Snipers](https://researchsnipers.com/wp-content/uploads/2022/05/Apples-iPhone-15-will-be-first-with-USB-C-claims-Kuo.jpg "Some functions of the iPhone 15's USB-C connector may only be available with Apple-approved cords and accessories – Research Snipers")
+
+
+[Some functions of the iPhone 15's USB-C connector may only be available with Apple-approved cords and accessories – Research Snipers](https://researchsnipers.com/some-functions-of-the-iphone-15s-usb-c-connector-may-only-be-available-with-apple-approved-cords-and-accessories)
+
+
+> Just months ago, the EU issued a set of new laws and regulations. The regulations required that smartphones must be presented with universal charging technologies. It is now expected that the tech giant Apple might introduce the next series of iPhones having a USB-C port. If this happens, then the USB-C will substitute the proprietary Lightning port. Although iPhone has a similar connector to other products. But still, it doesn't essentially mean that every feature of the port will be presented to every accessory or charger that is plugged into it.
+
+
+***
+![Netflix Strikes on Password-Sharing in Four More Countries; Imposes New Rules on Users](https://english.cdn.zeenews.com/sites/default/files/2023/02/11/1152393-netflix-2.jpg "Netflix Strikes on Password-Sharing in Four More Countries; Imposes New Rules on Users")
+
+
+[Netflix Strikes on Password-Sharing in Four More Countries; Imposes New Rules on Users](https://zeenews.india.com/technology/netflix-strikes-on-password-sharing-in-four-more-countries-imposes-new-rules-on-users-2572082.html)
+
+
+> New Delhi:  Streaming-giant Netflix has expanded its password-sharing rules in four more countries after Latin America in order to generate more revenue from potential users. The new update includes set primary location, manage account access and devices, transfer profile, watch while you travel, and buy an extra member. Canada, New Zealand, Portugal, and Spain are chosen countries where the different approaches to address password sharing issue have been implemented for the aim to give members greater control over who can access their control.
+
+
+***
+![How NASA is helping in rescue operations in earthquake-hit Turkey and Syria](https://www.hindustantimes.com/ht-img/img/2023/02/11/1600x900/Turkey_1676087044843_1676087045074_1676087045074.jpg "How NASA is helping in rescue operations in earthquake-hit Turkey and Syria")
+
+
+[How NASA is helping in rescue operations in earthquake-hit Turkey and Syria](https://www.hindustantimes.com/technology/how-nasa-is-helping-in-rescue-operations-in-earthquake-hit-turkey-and-syria-101676087030180.html)
+
+
+> The National Aeronautics and Space Administration (NASA) is sharing its aerial images and data to assist rescue efforts in Turkey and Syria , which have been ravaged by earthquakes. The US space agency's administrator Bill Nelson said the teams of experts are working hard to provide valuable information from the Earth-observing fleet to the rescue workers. NASA is using its synthetic aperture radar (SAR) which can watch the earth in all weather conditions day and night. It is used to measure how the ground moves and built landscape changes after an earthquake, the agency posted on its website .
+
+
+***
+![Ross O'Carroll-Kelly: ‘One day, there's going to be a Leinster Schools Senior Cup… for girls!'](https://www.irishtimes.com/resizer/ZHPtoCTKvOiKAp34kNiVeJH7Ams=/1200x630/filters:format(jpg):quality(70):focal(1816x1221:1826x1231)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TJ257RKG5JC25L5IRH5IPGD7ZE.jpg "Ross O'Carroll-Kelly: ‘One day, there's going to be a Leinster Schools Senior Cup… for girls!'")
+
+
+[Ross O'Carroll-Kelly: ‘One day, there's going to be a Leinster Schools Senior Cup… for girls!'](https://www.irishtimes.com/podcasts/ross-ocarroll-kelly/ross-ocarroll-kelly-one-day-theres-going-to-be-a-leinster-schools-senior-cup-for-girls/)
+
+
+> So – yeah, no – the girls have been working unbelievably hord in training, which is why I've arranged a little surprise for them. I tell them to meet me in the school cor pork, where the bus is already waiting with the engine idling. 'Er, where are we going?' Shosh Birney goes – she's turned herself into an unbelievable scrumhalf, by the way. I'm there, 'Okay, I didn't want to tell you until we got there, but spoiler alert – we're going to the Aviva Stadium, formerly known as Lansdowne Road! We're going to do the tour!' They're all just standing around outside the bus with, like, blank looks on their faces, like I've just told them we're going somewhere genuinely shit, like a gallery or a museum.
+
+
+***
+![GitHub eliminates thousands of jobs and completely embraces remote work – Research Snipers](https://researchsnipers.com/wp-content/uploads/2019/05/download-1.png "GitHub eliminates thousands of jobs and completely embraces remote work – Research Snipers")
+
+
+[GitHub eliminates thousands of jobs and completely embraces remote work – Research Snipers](https://researchsnipers.com/github-eliminates-thousands-of-jobs-and-completely-embraces-remote-work)
+
+
+> Since the beginning of 2023, the trend of layoffs at major tech companies has begun. It appears that it is not going to slow down earlier. A few times ago Google, Twitter, Meta, Amazon, and others announced major job cuts. Recently, Yahoo and Disney announced job cuts in their respective companies. And now, GitHub is the next on the list that is going to announce momentous terminations. It is anticipated that this announcement will impact 10% of the company's workers. It estimates to be around 3,000 workers.
+
+
+***
+![Part of the Sun broke off and scientists have never seen anything like it](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17kjmq.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Part of the Sun broke off and scientists have never seen anything like it")
+
+
+[Part of the Sun broke off and scientists have never seen anything like it](http://www.msn.com/en-us/news/technology/part-of-the-sun-broke-off-and-scientists-have-never-seen-anything-like-it/ar-AA17k6yn)
+
+
+> Something strange just happened to the Sun. Load Error Observations from Nasa's Solar Dynamics Observatory (SDO) have shown that a chunk of our parent star effectively broke away and formed a vortex above its north pole. Material from a filament of plasma that erupted from the sun's surface can be seen swirling atop the giant ball of fire in remarkable footage shared on social media. Scientists are saying they need more analysis to determine if this is exactly what happened but nevertheless, they've not ever seen anything quite like it before.
+
+
+***
+![Bill Gates' rumored new girlfriend, Paula Hurd, who is she?](https://techstory.in/wp-content/uploads/2023/02/Paula-Hurd.jpg "Bill Gates' rumored new girlfriend, Paula Hurd, who is she?")
+
+
+[Bill Gates' rumored new girlfriend, Paula Hurd, who is she?](https://techstory.in/bill-gates-rumored-new-girlfriend-paula-hurd-who-is-she/)
+
+
+> Bill Gates, the co-founder of Microsoft, is rumoured to be dating Paula Hurd. Paula is the widow of Mark Hurd, the former CEO of Oracle. Bill Gates and she were seen together at the Australian Open in Melbourne last month, as well as while out and about in the city. Following a 30-year marriage, Bill and Melinda Gates divorced in May 2021. According to a People story, Paula Hurd and Bill Gates have reportedly been dating for more than a year. Paula Hurd and Bill Gates are reportedly dating, although she hasn't yet seen his children, a source informed the publication.
+
+
+***
+![Uber is integrating its driver app with Apple CarPlay](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-10-16284600.jpg "Uber is integrating its driver app with Apple CarPlay")
+
+
+[Uber is integrating its driver app with Apple CarPlay](http://www.businessghana.com/site/news/technology/279752/Uber-is-integrating-its-driver-app-with-Apple-CarPlay)
+
+
+> Uber drivers who have an iPhone will soon be able to use the Uber app directly from their car's dashboard while using Apple's CarPlay, according to an email sent to drivers and viewed by TechCrunch. The integration has been rolling out to drivers across the U.S., and all drivers should have access to it by the end of the month. CarPlay is an Apple product that is used by most major car manufacturers to allow the head unit to be a display and controller for an iOS device. Integrating the Uber driver app into CarPlay means drivers won't have to switch between their phone and the screen, or between apps, to be able to view and accept trips, navigate and add rides to their queue.
+
+
+***
+![Reddit says hackers accessed employee data following phishing attack](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-10-162800000.jpg "Reddit says hackers accessed employee data following phishing attack")
+
+
+[Reddit says hackers accessed employee data following phishing attack](https://www.businessghana.com/)
+
+
+> Reddit has confirmed hackers accessed internal documents and source code following a 'highly-targeted' phishing attack. A post by Reddit CTO Christopher Slowe, or KeyserSosa, explained that the company became aware of the 'sophisticated' attack targeting Reddit employees on February 5. He says that an as-yet-unidentified attacker sent 'plausible-sounding prompts,' which redirected employees to a website masquerading as Reddit's intranet portal in an attempt to steal credentials and two-factor authentication tokens.
+
+
+***
+![Fortnite player recreates Call of Duty's Rust & Shipment, and it's better than COD](https://staticc.sportskeeda.com/editor/2023/02/e220d-16759718926511-1920.jpg "Fortnite player recreates Call of Duty's Rust & Shipment, and it's better than COD")
+
+
+[Fortnite player recreates Call of Duty's Rust & Shipment, and it's better than COD](https://www.sportskeeda.com/fortnite/news-fortnite-player-recreates-call-duty-s-rust-shipment-better-cod)
+
+
+> A Fortnite player, known by their Twitter handle Mist Jawa, recently recreated two Call of Duty maps in the Creative mode of Epic Games' popular game. Mist Jawa apparently decided to recreate the maps because they were shocked by the large amount of money they have spent on Call of Duty games over the years. Since Fortnite is a free-to-play title, the user decided that it was the best medium for free COD-themed content. 3524 414 Jake Lucky @JakeSucky This dude got so sick of paying $60 each year for Call of Duty that he spent 2 months recreating its maps in Fortnite Creative Here is first person Fortnite on Rust and Shipment.
+
+
+***
+![Fruit Battlegrounds Codes [Dragon Wano] (February 2023)](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14zcC3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Fruit Battlegrounds Codes [Dragon Wano] (February 2023)")
+
+
+[Fruit Battlegrounds Codes [Dragon Wano] (February 2023)](http://www.msn.com/en-us/news/technology/fruit-battlegrounds-codes-dragon-wano-february-2023/ar-AA14zcC5)
+
+
+> Roblox Fruit Battlegrounds is an experience developed by P O P O for the platform. In this game, you will be entering a battleground that is themed after the manga and anime known as One Piece! Fight your friends and other players to earn bounties. Try to unlock new fruits to become the strongest fighter in the world. See if you can take on all comers to become the ultimate warrior! If you're looking for freebies then you can find them with our Fruit Battlegrounds codes list. If you aren't sure how to redeem in Fruit Battlegrounds, you can find out how below in the FAQ! Make sure to favorite this page by pressing CTRL + D on your keyboard or use the Add to Bookmark button on mobile.
+
+
+***
+![HDR & non-HDR content works on MacBook Pro's screen, but NOT ON EXTERNAL MONITOR](https://i.imgur.com/EAmrcY7.jpg "HDR & non-HDR content works on MacBook Pro's screen, but NOT ON EXTERNAL MONITOR")
+
+
+[HDR & non-HDR content works on MacBook Pro's screen, but NOT ON EXTERNAL MONITOR](https://forums.macrumors.com/threads/hdr-non-hdr-content-works-on-macbook-pros-screen-but-not-on-external-monitor.2380374/)
+
+
+> Evidentially this is SUPER hard to explain as I'm on AppleCare "Senior Advisor" #3 who still doesn't understand the issue... but I'm going to try again... The INTERNAL BUILT-IN SCREEN on my 2018 MacBook Pro 15" has HDR built-in and it's always on (there isn't even an option to turn it off). I can browse a HDR YouTube video in beautiful HDR, then immediately go back to writing a document in Apple Pages program; and the background of Pages is PURE white. I can watch another HDR video then immediately go back into Photoshop and the photo I'm working on has proper colors - everything is nice and vibrant, whites are white.
+
+
+***
+![Garena Free Fire Max redeem codes February 11, 2023: Get weapons, diamonds, more](https://images.livemint.com/img/2023/02/11/600x338/Garena_Free_Fire_Max_1674537381812_1676088953422_1676088953422.webp "Garena Free Fire Max redeem codes February 11, 2023: Get weapons, diamonds, more")
+
+
+[Garena Free Fire Max redeem codes February 11, 2023: Get weapons, diamonds, more](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-february-11-2023-get-weapons-diamonds-more-11676088857536.html)
+
+
+> Garena Free Fire Max redeem codes can be used to win in-game items like weapons, diamonds, skins and more. These 12 digit alphanumeric codes consist of capital letters and numbers. For those unaware, Garena Free Fire Max is a revamped version of Garena Free Fire. It debuted in 2021 and became popular after the ban of the former by the Indian government. Developers of the game keep updating these codes daily. There is also a dedicated microsite where players can visit to redeem the available codes.
+
+
+***
+!['Legacy Blue Tick Marks On Twitter Will Be Removed Soon': Elon Musk](https://imgeng.jagran.com/images/2023/feb/twitter-down16578064390531676089515010.jpg "'Legacy Blue Tick Marks On Twitter Will Be Removed Soon': Elon Musk")
+
+
+['Legacy Blue Tick Marks On Twitter Will Be Removed Soon': Elon Musk](https://english.jagran.com/technology/legacy-blue-tick-marks-on-twitter-will-be-removed-soon-elon-musk-10064663)
+
+
+> By Ashita Singh Sat, 11 Feb 2023 09:46 AM (IST) TWITTER Chief Elon Musk on Friday said that the "legacy blue marks" on the microblogging site will be removed. He said that the blue ticks on verified handles that have not subscribed to Twitter Blue will no longer have the badges. Musk, in reply to a tweet, wrote, "Legacy blue checks will be removed soon. Those are the ones that are truly corrupt." The blue check marks were given in the past to users to indicate "active, notable, and authentic accounts of public interest" verified by the platform.
+
+
+***
+![Google cautions against 'hallucinating' chatbots](https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/10/26/google.jpg "Google cautions against 'hallucinating' chatbots")
+
+
+[Google cautions against 'hallucinating' chatbots](https://www.tbsnews.net/tech/google-cautions-against-hallucinating-chatbots-583338)
+
+
+> The logo for Google LLC is seen at the Google Store Chelsea in Manhattan, New York City, New York, US, November 17, 2021. REUTERS/Andrew Kelly/File Photo The boss of Google's search engine warned against the pitfalls of artificial intelligence in chatbots in a newspaper interview published on Saturday, as Google parent company Alphabet battles to compete with blockbuster app ChatGPT. "This kind of artificial intelligence we're talking about right now can sometimes lead to something we call hallucination," Prabhakar Raghavan, senior vice president at Google and head of Google Search, told Germany's Welt am Sonntag newspaper.
+
+
+***
+![Augustana University adds Financial Technology program](https://www.keloland.com/wp-content/uploads/sites/103/2023/02/snapshot-5.jpg?w=1280 "Augustana University adds Financial Technology program")
+
+
+[Augustana University adds Financial Technology program](https://www.keloland.com/news/your-money-matters/augustana-university-adds-financial-technology-program/)
+
+
+> Augustana University will now provide a new academic program tailored to meet the growing needs of South Dakota's booming banking industry. 'I think it's very important to at least know the basics of computer science and coding and statistics and things like that,' Augustana Senior Harley Tran said. Tran is majoring in Finance and accounting and is getting her minor in computer science. 'Any job in banking, accounting or finance, it requires a certain amount of statistics, and computer, tech savviness,' Tran said.
+
+
