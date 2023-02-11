@@ -10651,3 +10651,890 @@
 > Credit: Pixabay/CC0 Public Domain In a video from a Jan. 25 news report, President Joe Biden talks about tanks. But a doctored version of the video has amassed hundred of thousands of views this week on social media, making it appear he gave a speech that attacks transgender people. Digital forensics experts say the video was created using a new generation of artificial intelligence tools, which allow anyone to quickly generate audio simulating a person's voice with a few clicks of a button.
 
 
+***
+![BSNL Prepaid Unlimited Plans With 1 Year Validity](https://telecomtalk.info/wp-content/uploads/2023/02/bsnl-prepaid-unlimited-plans-with-1year-validity.jpg "BSNL Prepaid Unlimited Plans With 1 Year Validity")
+
+
+[BSNL Prepaid Unlimited Plans With 1 Year Validity](https://telecomtalk.info/bsnl-prepaid-unlimited-plans-with-1year-validity/675394/)
+
+
+> Bharat Sanchar Nigam Limited (BSNL), a state-owned telecommunications company in India, offers its customers a wide range of prepaid mobile plans. BSNL Prepaid plans are much liked by customers because of the benefits that come bundled with the plans. There are many users who stick to BSNL for various reasons. If you are a BSNL Prepaid user looking for yearly unlimited prepaid plans from BSNL, here's a list of the plans offered by the telco. Also Read:  BSNL Offers These Prepaid Unlimited Plans For Voice Usage BSNL Prepaid Unlimited Plans with One-Year Validity BSNL has two plan options in the yearly segment: One with Bulk data and the other with daily data.
+
+
+***
+![This charging station can give up to four of your devices a quick zap at the same time](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/sale_315232_article_image.jpg?fit=1200%2C800&ssl=1 "This charging station can give up to four of your devices a quick zap at the same time")
+
+
+[This charging station can give up to four of your devices a quick zap at the same time](https://boingboing.net/2023/02/11/this-charging-station-can-give-up-to-four-of-your-devices-a-quick-zap-at-the-same-time.html)
+
+
+> We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. Look, we know that throwing your phone into the ocean, heading to a remote island, and never seeing another human face again sounds incredibly appealing, but it's surprisingly unreasonable. Instead, you rely on doing things like checking your email every 45 seconds to  make sure no one at the office is mad at you  (spoiler alert: they're not). If you're someone that constantly forgets to give your devices  a good zap  before you leave the house, it might be helpful to condense all of your wires into one handy tool.
+
+
+***
+![Microsoft adding native RGB lighting controls in Windows 11](https://www.bleepstatic.com/content/hl-images/2022/03/14/windows-11.jpg "Microsoft adding native RGB lighting controls in Windows 11")
+
+
+[Microsoft adding native RGB lighting controls in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-adding-native-rgb-lighting-controls-in-windows-11/)
+
+
+> Microsoft will soon add native controls to Windows 11 for controlling the RGB lighting on computer peripherals, like mice and gaming keyboards. As a result, you will no longer have to install third-party software from a device's manufacturer, which is commonly buggy in the best-case scenario and potentially riddled with security flaws. To make matters even worse, if you have gaming accessories with RGB lighting from multiple vendors, you will sometimes need to install a different app to control each device.
+
+
+***
+![8 Features That Should Stay From Fire Emblem Engage](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/8-features-that-should-stay-from-fire-emblem-engage.jpg "8 Features That Should Stay From Fire Emblem Engage")
+
+
+[8 Features That Should Stay From Fire Emblem Engage](https://gamerant.com/features-stay-from-fire-emblem-engage/)
+
+
+> With each new addition to the Fire Emblem franchise, Intelligent Systems finds new and interesting ways to keep players interested in the tactical role-playing game. In the recent release of Fire Emblem Engage , players are not disappointed by the assortment of features included in the title. Be it an old mechanic that has been refurbished to better fit the recent game and be approached in a way new fans can understand or an altogether new features that have amazed players . These are by far the best features of Fire Emblem Engage that many fans of the franchise hope will be kept for future releases in one format or another.
+
+
+***
+![Surprise! WhatsApp status revamped; you just got these new features](https://images.hindustantimes.com/tech/img/2023/02/11/1600x900/328482296_589053175924895_2566498094574746905_n_1676130262703_1676130274430_1676130274430.png "Surprise! WhatsApp status revamped; you just got these new features")
+
+
+[Surprise! WhatsApp status revamped; you just got these new features](https://tech.hindustantimes.com/tech/news/surprise-whatsapp-status-revamped-you-just-got-these-new-features-71676130194706.html)
+
+
+> WhatsApp has added a bunch of new features to make your WhatsApp status so much more useful. The good part is that these updates have started rolling out globally and will be available to everyone in the coming weeks. Wondering what's coming to your WhatsApp status? Here's everything you need to know. Not every update you share may be appropriate for all your contacts. WhatsApp is now providing you the option to adjust your privacy settings for each post so that you can decide who can see your updates.
+
+
+***
+![Payments Fintech FIS Is Reportedly Planning to Break-up Business Operations](https://www.crowdfundinsider.com/wp-content/uploads/2018/05/Divorce-Aisle-Path-Separation-Partnership-1024x768.jpg "Payments Fintech FIS Is Reportedly Planning to Break-up Business Operations")
+
+
+[Payments Fintech FIS Is Reportedly Planning to Break-up Business Operations](https://www.crowdfundinsider.com/2023/02/202393-payments-fintech-fis-is-reportedly-planning-to-break-up-business-operations)
+
+
+> Banking and payments conglomerate Fidelity National Information Services Inc (NYSE: FIS) is reportedly planning to break up its operations, which will involve undoing a $43 billion acquisition it finalized a few years back. This, according to sources familiar with the matter (and cited by Reuters). FIS intends to pursue a tax-free spin-off of its merchant unit, which handles payments for firms, the sources revealed. The spin-off should take several months to be finalized, and FIS may go after any potential acquisition offers for the business during this period, the sources noted.
+
+
+***
+![Microsoft's AI-Powered Bing Can Run Rings Around Google Search](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17dtqH.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Microsoft's AI-Powered Bing Can Run Rings Around Google Search")
+
+
+[Microsoft's AI-Powered Bing Can Run Rings Around Google Search](http://www.msn.com/en-us/news/technology/microsoft-s-ai-powered-bing-can-run-rings-around-google-search/ar-AA17mNTF)
+
+
+> It's a gutsy move for Microsoft to challenge utterly dominant Google with its AI-boosted Bing search engine, but the results look promising to me. I tried the same queries on Google and the new Bing to see how well the latter search engine lives up to Microsoft's bold claims and if it matches the wow factor that came with the ChatGPT AI chatbot. In short, I'm impressed. Bing brings a breath of fresh air to online search. In most of the 10 tests I describe here, I preferred Bing, thanks to its AI abilities.
+
+
+***
+![Looking for a smartphone to gift your valentine? Here are top choices](https://images.livemint.com/img/2023/02/11/600x338/iPhone14_1664803462196_1676129653352_1676129653352.jpg "Looking for a smartphone to gift your valentine? Here are top choices")
+
+
+[Looking for a smartphone to gift your valentine? Here are top choices](https://www.livemint.com/news/looking-for-a-smartphone-to-gift-your-valentine-here-are-top-choices-11676129528561.html)
+
+
+> Celebrate Valentine's Day this year by gifting an all-new smartphone to your special one. But confused which smartphone to give? Don't worry, we have curated a list of best smartphones that you can gift your valentine. The list includes phones across different price ranges - from budget to premium ones. Take a look Apple iPhone 14 The smartphone is available at ₹ 75,999 onwards on Flipkart right now. Apple iPhone 14 has a 6.1-inch Super Retina XDR display and comes powered by A15 Bionic chipset.
+
+
+***
+![Overwatch 2 Mumen Rider Soldier 76 skin: How to get, release date, and more](https://staticc.sportskeeda.com/editor/2023/02/80f25-16761259910118-1920.jpg "Overwatch 2 Mumen Rider Soldier 76 skin: How to get, release date, and more")
+
+
+[Overwatch 2 Mumen Rider Soldier 76 skin: How to get, release date, and more](https://www.sportskeeda.com/esports/overwatch-2-mumen-rider-soldier-76-skin-how-get-release-date)
+
+
+> A collaboration between Overwatch 2 and One-Punch Man was announced when the trailer for Season 3 of Blizzard's Hero-shooter title dropped earlier this month. The video depicted a Saitama-themed Doomfist skin, and the Season 3 blog post promised other rewards, including more skins. The One-Punch Man event in the game will take place in Season 3 between March 7 and April 6, 2023. A new skin from the collaboration was officially revealed earlier today via a post on Overwatch's Twitter account. This one is based on the OPM character Mumen Rider and is a skin for the Damage Hero Soldier: 76.
+
+
+***
+![How to Fix a Missing Battery Time Estimate in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/best-free-tools-windows-11.jpg "How to Fix a Missing Battery Time Estimate in Windows 11")
+
+
+[How to Fix a Missing Battery Time Estimate in Windows 11](https://www.makeuseof.com/missing-battery-time-estimate-in-windows-11/)
+
+
+> Keeping track of how much charge remains in your laptop battery is easy. By default, hovering over the battery icon in the System Tray displays an estimate of battery time remaining, along with a percentage. Occasionally, the time estimate goes missing, leaving you to work out how much usage time you have left by percentage alone. Here's how to get that useful battery time remaining estimate showing again if it has vanished from your notebook. Where Did the Time Estimate Go? There are a few possible reasons why the time estimate has disappeared.
+
+
+***
+![The week that tech became exciting again](https://media.cnn.com/api/v1/images/stellar/prod/230208150154-03-microsoft-updated-bing-search-engine-0207.jpg?c=16x9&q=w_800,c_fill "The week that tech became exciting again")
+
+
+[The week that tech became exciting again](https://www.cnn.com/2023/02/11/tech/tech-exciting-again/index.html)
+
+
+> CNN Business — Let's be honest: For much of the past decade, tech events have been prettyboring. Executives in business casual wear trot up on stage and pretend a few tweaks to the camera and processor make this year's phone profoundly different than last year's phone or adding a touchscreen onto yet another product is bleeding edge. But that changed radically this week. Some of the world's biggest companies teased significant upgrades to their services, some of which are central to our everyday lives and how weexperience the internet.
+
+
+***
+![League of Legends patch 13.3 Aurelion Sol and Annie hotfixes: Base stats tweaks, ability balancing, and more](https://staticg.sportskeeda.com/editor/2023/02/4f7ee-16761259585072-1920.jpg "League of Legends patch 13.3 Aurelion Sol and Annie hotfixes: Base stats tweaks, ability balancing, and more")
+
+
+[League of Legends patch 13.3 Aurelion Sol and Annie hotfixes: Base stats tweaks, ability balancing, and more](https://www.sportskeeda.com/esports/news-league-legends-patch-13-3-aurelion-sol-annie-hotfixes-base-stats-tweaks-ability-balancing-and-more)
+
+
+> Riot Games has released a hotfix for Aurelion Sol and Annie within a couple of days after the launch of League of Legends patch 13.3. The patch saw nerfs to champions like Kassadin, Annie, Amumu, and K'Sante. Meanwhile, others such as Alistar, Le Blanc, and Pyke have received buffs. The League of Legends community was eager to express their thoughts on a few changes. Due to this, Riot Games released a hotfix to address the performance issues with Aurelion Sol and Annie after the release of patch 13.
+
+
+***
+![CONFIRMED! OnePlus Not Going to Launch OnePlus 11 Pro and OnePlus 11T- Here's Why](https://english.cdn.zeenews.com/sites/default/files/2023/02/11/1152602-untitled-design-2023-02-11t195742.274.jpg "CONFIRMED! OnePlus Not Going to Launch OnePlus 11 Pro and OnePlus 11T- Here's Why")
+
+
+[CONFIRMED! OnePlus Not Going to Launch OnePlus 11 Pro and OnePlus 11T- Here's Why](https://zeenews.india.com/technology/confirmed-oneplus-not-going-to-launch-oneplus-11-pro-and-oneplus-11t-heres-why-2572236.html)
+
+
+> New Delhi:  The newest number series smartphones from OnePlus were announced for international regions, including India. The OnePlus 11 5G phone, powered by a Qualcomm Snapdragon 8 Gen 2 CPU, was introduced by the firm. For the Indian market, OnePlus also unveiled the mid-range OnePlus 11R. Every year since the release of the OnePlus 7 series, the firm has released a "Pro" variant for its flagship phones. But will the OnePlus 11 series maintain the trend? No, is the response. There won't be a OnePlus 11 Pro or OnePlus 11T smartphone this year, according to OnePlus.
+
+
+***
+![ChatGPT threatens education at all levels](https://cdn.mos.cms.futurecdn.net/JzkJQy6ty9CGqBpFqMkeFG-1200-80.jpg "ChatGPT threatens education at all levels")
+
+
+[ChatGPT threatens education at all levels](https://www.techradar.com/features/chatgpt-threatens-education-at-all-levels-heres-how-it-can-be-stopped)
+
+
+> As ChatGPT continues to pique the curiosity of people at all stages of life, it was perhaps only a matter of time before its considerable powers of eloquence were put to mischievous use, especially in the education system.  At the time of going to press, the prominent chatbot and AI writer has been banned in educational institutions around the world, from high schools across America (opens in new tab) and Australia (opens in new tab) to universities in France (opens in new tab) and India (opens in new tab) , with some university professors having caught their students using ChatGPT to write their entire assignments (opens in new tab) .
+
+
+***
+![How to turn on Earthquake Alert? How Does the Android Earthquake Warning System Work? iOS, iPhone… What is Earthquake Warning system?](https://iaahbr.tmgrup.com.tr/9e9d56/806/378/0/72/864/478?u=https://iahbr.tmgrup.com.tr/2023/01/25/google-android-deprem-uyari-sistemi-nedir-google-depremi-onceden-haber-veriyor-mu-deprem-uyari-sistemi-ios-iph-1674651136428.jpg "How to turn on Earthquake Alert? How Does the Android Earthquake Warning System Work? iOS, iPhone… What is Earthquake Warning system?")
+
+
+[How to turn on Earthquake Alert? How Does the Android Earthquake Warning System Work? iOS, iPhone… What is Earthquake Warning system?](https://www.world-today-news.com/how-to-turn-on-earthquake-alert-how-does-the-android-earthquake-warning-system-work-ios-iphone-what-is-earthquake-warning-system-2/)
+
+
+> Due to active fault lines, Turkey is a country that is alone with the earthquake reality. For this reason, citizens often search for measures that can be taken against a possible earthquake disaster. In search engines, 'How to open the earthquake warning system?', 'How does the Android earthquake warning system work?' The answers to the questions are sought. Here are the details about the earthquake warning system…
+
+
+***
+![Starfield Release Date Rumors Spiral Out Again, Pointing Towards June 2023 Launch](https://twistedvoxel.com/wp-content/uploads/2022/04/starfield.jpeg "Starfield Release Date Rumors Spiral Out Again, Pointing Towards June 2023 Launch")
+
+
+[Starfield Release Date Rumors Spiral Out Again, Pointing Towards June 2023 Launch](https://twistedvoxel.com/starfield-release-date-rumors-june-2023-launch/)
+
+
+> Muhammad Ali Bari February 11, 2023 Rumors regarding the release date for Bethesda's upcoming action role-playing game, Starfield, have once again began to surface, pointing towards a June, 2023 launch. In the latest episode of The XboxTwo, Jez Corden, Managing Editor of Windows Central, responded to a question regarding the release date of Bethesda's upcoming action-role-playing game, Starfield, saying that he is of the opinion that Starfield is going to launch in June, 2023. The question asked was specifically regarding the release of Starfield on International Space Flight Day, which is on April 12, 2023.
+
+
+***
+![Realme launches entry-level 5G smartphone ‘Realme V30' series](https://images.kbench.com/kbench/article/thumbnail/241114_thumb.jpg "Realme launches entry-level 5G smartphone ‘Realme V30' series")
+
+
+[Realme launches entry-level 5G smartphone ‘Realme V30' series](https://www.world-today-news.com/realme-launches-entry-level-5g-smartphone-realme-v30-series/)
+
+
+> Realme, which unveiled the world 's first ‘GT Neo 5' that supports 240W super-fast charging, has released a new entry-level 5G smartphone ‘V30' series. According to foreign media on the 10th, Realme has quietly registered two new smartphones, ▲V30 ▲V30T, on its official website. The V30 has ▲6.5-inch 720p LCD display ▲MediaTek Dimensity 700 processor ▲6/8GB RAM ▲128GB storage ▲5000mAh battery ▲dual camera with 13MP main camera ▲5MP front camera ▲side fingerprint sensor. The specifications of the V30T version are almost identical to the V30, but the price is slightly higher.
+
+
+***
+![Comcast Will Air Super Bowl 57 in 4K With Dolby Vision HDR](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA172ciM.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Comcast Will Air Super Bowl 57 in 4K With Dolby Vision HDR")
+
+
+[Comcast Will Air Super Bowl 57 in 4K With Dolby Vision HDR](http://www.msn.com/en-us/news/technology/comcast-will-air-super-bowl-57-in-4k-with-dolby-vision-hdr/ar-AA171Tyg)
+
+
+> Those with a 4K Dolby Vision-capable TV and Comcast's Xfinity X1 service will be able to watch Super Bowl 57 in a new way: in 4K HDR with Dolby Vision. The two companies announced that they'll be taking Fox's 4K feed of this year's Big Game and adding in Dolby Vision. You'll need to have Comcast's X1 cable box and a TV that supports Dolby Vision to take advantage of the higher-quality Feb. 12 broadcast. It can be found by saying "4K" into the voice remote for the X1 cable box. Dolby says that the feed will provide "lifelike colors, sharp contrast and rich details.
+
+
+***
+![MSI raises the memory capacity to 192 GB DDR5](https://www.sweclockers.com/artikel/35738/og-image "MSI raises the memory capacity to 192 GB DDR5")
+
+
+[MSI raises the memory capacity to 192 GB DDR5](https://www.world-today-news.com/msi-raises-the-memory-capacity-to-192-gb-ddr5/)
+
+
+> The amount of primary memory needed in a computer varies significantly depending on the area of ​​use. For purely gaming computers, 16-32 GB is often recommended at the moment, but significantly more than that can be useful for, among other things, virtualization or image and video editing. The ability to install extra memory has previously been an advantage with professional platforms or High-End Desktop (HEDT), but now the gap to the consumer sphere is reduced slightly. MSI ttillverkaren component announces now that their motherboards with Intel socket LGA 1700, which is compatible with Core 12000 and Core 13000 processors, get support for DDR5 memory modules of 24 and 48 GB.
+
+
+***
+!['Go away if you can!' – The song of love](https://www.domradio.de/system/files/styles/metatag_og_image/private/image/Introitus%20Surge%20propera.jpg?h=ab5f34af&itok=WOyRCRwW "'Go away if you can!' – The song of love")
+
+
+['Go away if you can!' – The song of love](https://www.world-today-news.com/go-away-if-you-can-the-song-of-love/)
+
+
+> The Gregorian Mass of the Feast of St. Scholastica, the (twin) sister of St. Benedict is the only Gregorian setting of these texts – and of course we had Solemnity today ☺️. The related story written by the monk, pope and church teacher Gregory the Great (ca. 540-604) has a lot to say to us today, as it is about the brotherly togetherness of men and women in faith. In the second book of dialogues, a conversation between teacher and student, Pope Gregory reports that Benedict 'loses out' and is taught by his sister 😉.
+
+
+***
+![Top 5 things known about archeology in Minecraft 1.20 update](https://staticg.sportskeeda.com/editor/2023/02/7af35-16761163747963-1920.jpg "Top 5 things known about archeology in Minecraft 1.20 update")
+
+
+[Top 5 things known about archeology in Minecraft 1.20 update](https://www.sportskeeda.com/minecraft/top-5-things-known-archeology-minecraft-1-20-update)
+
+
+> Mojang has finally announced that it will be releasing the archeology feature in the Minecraft 1.20 update. It was announced way back in 2020, when the game was about to receive the Caves and Cliffs update. Due to several reasons, it kept getting delayed since it was present in the 1.19 The Wild Update either. Uncovering a 1.20 feature coming soon to snapshots/beta: Archaeology! Find suspicious sand blocks near desert temples and start shoveling. Using the brush tool, reveal hidden items including pottery shards.
+
+
+***
+![Activision Blizzard CEO Kotick will "absolutely remain" if the Microsoft merger falls through](https://assets.reedpopcdn.com/activision-blizzard-boss-bobby-kotick-tells-staff-companys-initial-response-to-discrimination-lawsuit-was-tone-deaf-1627468141202.jpg/BROK/thumbnail/1200x630/activision-blizzard-boss-bobby-kotick-tells-staff-companys-initial-response-to-discrimination-lawsuit-was-tone-deaf-1627468141202.jpg "Activision Blizzard CEO Kotick will "absolutely remain" if the Microsoft merger falls through")
+
+
+[Activision Blizzard CEO Kotick will "absolutely remain" if the Microsoft merger falls through](https://www.eurogamer.net/activision-blizzard-ceo-kotick-will-absolutely-remain-if-the-microsoft-merger-falls-through)
+
+
+> Activision Blizzard CEO Bobby Kotick has revealed that he would "absolutely remain" at the megacorp if the planned acquisition with Microsoft does not proceed. Originally, it was thought that Kotick would stand down once the deal is finalised , but Fox Business reports that undisclosed sources "close to the situation" say that if Microsoft's planned acquisition of Activision Blizzard stalls, current CEO Kotick "will absolutely remain at the gaming giant to run the company". The same sources reports that the UK's Competition and Markets Authority (CMA) is "the only regulatory body that really matters" given "it offers companies no legal recourse such as a trial", but "confidence remains high" that the merger will proceed as planned.
+
+
+***
+![Sony PlayStation VR2 unboxing video](https://sm.pcmag.com/t/pcmag_mear/news/w/watch-sony/watch-sony-unbox-the-playstation-vr2_ryqq.1200.jpg "Sony PlayStation VR2 unboxing video")
+
+
+[Sony PlayStation VR2 unboxing video](https://www.world-today-news.com/sony-playstation-vr2-unboxing-video/)
+
+
+> (Credit: Sony) before Two weeks from the launch of PlayStation VR2 On the market (February 22), Sony published an unboxing video to introduce the contents of the PS VR2 box and explain how easy it is to use the new VR system with PS5. The video gives us a much better idea of ​​the different components, how big each of the headphones and controllers are, and how the headphones connect which can be easily stored on the back. The purpose of this video is to assuage any concerns about the comfort of wearing the headset, as Sony has taken a great deal of time to develop it and to make it adjustable for most users' head shapes and sizes.
+
+
+***
+![If You Bought Crypto Because of Larry David and Matt Damon, I'm Sorry](https://compote.slate.com/images/af6be5a7-ccaa-419e-ac25-23651d2f1691.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560 "If You Bought Crypto Because of Larry David and Matt Damon, I'm Sorry")
+
+
+[If You Bought Crypto Because of Larry David and Matt Damon, I'm Sorry](https://slate.com/technology/2023/02/super-bowl-ads-crypto-ftx-larry-david-coinbase-matt-damon.html)
+
+
+> Happy Super Bowl weekend! Remember last year's game? More importantly, remember all the cryptocurrency ads ? I bet you do, and I bet you're wondering whether you'll be deluged with them again. Worry not: A Fox Sports executive has said crypto will have ' zero representation ' during Sunday's show, with the exceptions of a blockchain-based gaming firm's ad and an ongoing, but already retro-feeling, partnership between the Super Bowl and Reddit involving NFT avatars —which, to judge from social media interactions, is going about as well as you might expect: Who here has received their #SBLVII Collectible Avatar? Let's see our starting lineup below.
+
+
+***
+![VIDEO: The BMW X5 M Competes in the World's Quickest SUV Drag Race](https://cdn.bmwblog.com/wp-content/uploads/2022/06/bmw-x5-m-competition-velvet-blue-01.jpg "VIDEO: The BMW X5 M Competes in the World's Quickest SUV Drag Race")
+
+
+[VIDEO: The BMW X5 M Competes in the World's Quickest SUV Drag Race](https://www.bmwblog.com/2023/02/11/bmw-x5-m-drag-race/)
+
+
+> In yet another drag race video from Carwow, we get to see some of the quickest SUVs on the planet duke it out for straight-line speed-supremacy. The BMW X5 M might be among the oldest cars in the test but it's still among the quickest in the world. Of course, this isn't truly the world's quickest SUV drag race, or else cars like the Rivian R1S and Aston Martin DBX 707 but you get the idea. These big bruisers are flipping quick. The cars in the test are the BMW X5 M Competition, Tesla Model X Plaid, Lamborghini Urus, Mercedes-AMG GLE63 S, and Porsche Cayenne Turbo GT .
+
+
+***
+![Humorist shares AI dream image rejects](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/IMG_4028-scaled.jpg?fit=900%2C1200&ssl=1 "Humorist shares AI dream image rejects")
+
+
+[Humorist shares AI dream image rejects](https://boingboing.net/2023/02/11/humorist-shares-ai-dream-image-rejects.html)
+
+
+> Minneapolis Star Tribune columnist and humorist James Lileks shared his AI "rejects." He usually combs web sites, thrift stores, auctions, Google Maps, etc. to find interesting visual inspiration for his daily blog, The Bleat . Now he turned it around: he wrote descriptions of his dreams to use as cues for AI image generators. And then of course he brings it full circle with his own funny comments on the absurd results. In 2023 I started using AI to illustrate dreams I'd written down. The early versions I got from free sites were bad.
+
+
+***
+![know where to find the oldest water in the world](https://images.news18.com/malayalam/uploads/2023/02/jadeja-167611914316x9.jpg "know where to find the oldest water in the world")
+
+
+[know where to find the oldest water in the world](https://www.world-today-news.com/know-where-to-find-the-oldest-water-in-the-world/)
+
+
+> Do you like trivia? In 2016, researchers discovered that the oldest water in the world is located in a mine in Canadian territory. This water is about 2 billion years old. Sounds crazy, doesn't it? Today, we list everything that has ever been found about the oldest water on the planet. Check the details. Facts about the oldest water in the world In 2016, the 'oldest' water ever recorded was located by researchers during an exploration in a Canadian mine. Because it is an easily accessible liquid for the vast majority of people, maybe you never thought that it is possible to have water that is older than all the others, as it was 'created' first, but there is.
+
+
+***
+![Watch Maxine the Corgi slay at her JCPenney photo shoot](https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/jennie-corgi.jpg?fit=841%2C1122&ssl=1 "Watch Maxine the Corgi slay at her JCPenney photo shoot")
+
+
+[Watch Maxine the Corgi slay at her JCPenney photo shoot](https://boingboing.net/2023/02/11/watch-maxine-the-corgi-slay-at-her-jcpenney-photo-shoot.html)
+
+
+> Meet this adorable Corgi named Maxine, who absolutely loves posing for photos. She's a natural beauty, and the camera simply loves her. She lives in New York City with her dad, Bryan Reisberg, who also runs her  Instagram account , which documents Maxine's fabulous life. Bryan recently decided that he and Maxine should get professional portraits done, so they headed to the mall and straight to the JCPenney photo studio. They were lucky enough to work with Monica, the JCPenney photographer, who is absolutely brilliant at her job.
+
+
+***
+![Montreal video game studio KRAFTON looking to hire](https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/2/11/krafton-game-1-6269872-1676125453072.jpg "Montreal video game studio KRAFTON looking to hire")
+
+
+[Montreal video game studio KRAFTON looking to hire](https://montreal.ctvnews.ca/new-montreal-video-game-studio-to-hire-150-develop-fantasy-series-1.6269859)
+
+
+> A new AAA game studio is set to enter the Montreal market. KRAFTON Inc. said this week that it will open its first Canadian studio in the city that is home to gaming heavyweights Warner Bros. Games, Ubisoft, Gameloft and others. Former Ubisoft game director Patrik Methe will lead the studio that will hire 150 people in the next three years to work on a game based on Lee Yeongdo's "The Bird That Drinks Tears" fantasy novel series. "Our team is currently made up of seasoned talents with a proven track record of successful games," said Methe.
+
+
+***
+![Best OS for Mac Mini 2012?](https://images.macrumors.com/social/?t=2380425&v=6 "Best OS for Mac Mini 2012?")
+
+
+[Best OS for Mac Mini 2012?](https://forums.macrumors.com/threads/best-os-for-mac-mini-2012.2380425/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly. You should upgrade or use an alternative browser . Today I got my Mac Mini, and it's currently running on 16GB of RAM, has a 500HDD, and is on Mountain Lion (10.8.5.). It's a flying machine, and I am happy with my purchase so far. I would keep in on ML if I could, but not everything is supported. In terms of compatibility and performance, which would be the best operating system to put on it? I don't want to lose performance, but I still want compatibility.
+
+
+***
+![Fantastic interview with cyberculture iconoclast R.U. Sirius](http://img.youtube.com/vi/_WvUFvxuWCQ/0.jpg "Fantastic interview with cyberculture iconoclast R.U. Sirius")
+
+
+[Fantastic interview with cyberculture iconoclast R.U. Sirius](https://boingboing.net/2023/02/11/fantastic-interview-with-cyberculture-iconoclast-r-u-sirius.html)
+
+
+> Our good friend and colleague, R.U. Sirius, spends an hour talking with Tim Ventura about his countercultural, neo-psychedelic origins, the early days of cyberculture and his magazine, Mondo 2000 , the current dystopian state of online culture, and the progressive corruption and dilution of nearly everything that used to be revolutionary about the internet. It's really inspiring and eye-opening to hear someone like R.U., with his crazy-wide breadth of life experiences and intellectual prowess, to be interviewed in detail for an hour and allowed to reel out many stories and insights.
+
+
+***
+![Can Luvdisc be shiny in Pokemon GO? (February 2023)](https://staticg.sportskeeda.com/editor/2023/02/ff8e3-16761221265084-1920.jpg "Can Luvdisc be shiny in Pokemon GO? (February 2023)")
+
+
+[Can Luvdisc be shiny in Pokemon GO? (February 2023)](https://www.sportskeeda.com/pokemon/can-luvdisc-shiny-pokemon-go-february-2023)
+
+
+> The upcoming Luvdisc Limited Research Day event will see Pokemon GO players engage in several event-limited Field Research tasks. Upon completing these tasks, they'll be able to encounter Luvdisc in the game. Consequently, trainers may be interested to know if there's a possibility that they'll come across a shiny variant of the Rendezvous Pokemon during the event. Shiny hunting is one of the favorite pastimes for Pokemon GO players. The developers at Niantic have consistently been adding more and more of these unique variants over the years, with the latest Valentine's Day 2023 introducing Shiny Frillish and Shiny Tapu Lele.
+
+
+***
+![FinTech North Partners With Leeds Building Society](https://thefintechtimes.com/wp-content/uploads/2022/03/leeds-city.jpg "FinTech North Partners With Leeds Building Society")
+
+
+[FinTech North Partners With Leeds Building Society](https://thefintechtimes.com/fintech-north-leeds-building-soci/)
+
+
+> by The Fintech Times February 11, 2023 February 10, 2023 By working with industry group FinTech North, the building society aims to bring thought leadership and technology together to help solve some of the most challenging homeownership problems for its current and future members. The collaborative relationship hopes to also find innovative solutions to key customer needs and put home ownership within reach of more people, generation after generation. Vanessa Roberts , head of strategy at Leeds Building Society, said: 'Making home ownership more achievable is the driver behind everything we do at Leeds Building Society .
+
+
+***
+![Nintendo Needs New Hardware to Follow Sony, Microsoft into $70 Game Prices](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/zelda-tears-of-the-kingdom-price-tag.jpg "Nintendo Needs New Hardware to Follow Sony, Microsoft into $70 Game Prices")
+
+
+[Nintendo Needs New Hardware to Follow Sony, Microsoft into $70 Game Prices](https://gamerant.com/legend-of-zelda-tears-kingdom-price-nintendo-new-hardware-sony-ps5-microsoft-xbox-series-x/)
+
+
+> The Nintendo Switch has been out for almost six years and has amassed a massive player base, emerging as the third-best-selling game console of all time. The early 2023 Nintendo Direct showcase illuminated the future of the Nintendo Switch, focusing on new releases and a surprising return to Game Boy and Game Boy Advance games. While Nintendo has found great success with the Nintendo Switch and its fleet of games, the 70-dollar price tag for The Legend of Zelda: Tears of the Kingdom is raising some eyebrows.
+
+
+***
+![Hyper-realistic silicone accessories resemble human flesh](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/Screen-Shot-2023-02-09-at-1.26.27-PM-e1676122739387.png?fit=731%2C469&ssl=1 "Hyper-realistic silicone accessories resemble human flesh")
+
+
+[Hyper-realistic silicone accessories resemble human flesh](https://boingboing.net/2023/02/11/hyper-realistic-silicone-accessories-resemble-human-flesh.html)
+
+
+> These hyper realistic human-like flesh accessories move around as if they have minds of their own. They're designed by Doooo and made from silicon and resin by Studio JUR in japan. These pieces would make incredible art pieces on their own, but they are actually functional.  The mouth sculpture is a coin purse, the nose can be used as a shot glass, the fingers double as stamps, and the blinking eyes are dice. There's also a wild looking phone case and charger that look just like human flesh (1:06).
+
+
+***
+![Wondering who's behind those "Jesus Gets Us" TV ads?](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/Screen-Shot-2023-02-10-at-8.35.24-PM.png?fit=960%2C466&ssl=1 "Wondering who's behind those "Jesus Gets Us" TV ads?")
+
+
+[Wondering who's behind those "Jesus Gets Us" TV ads?](https://boingboing.net/2023/02/11/wondering-whos-behind-those-jesus-gets-us-tv-ads.html)
+
+
+> Being healthy is cool. Marketing a healthy lifestyle, on the other hand, is not so cool. There isn't an aspect of healthy living that doesn't require sacrifice and personal accountability.… READ THE REST
+
+
+***
+[I'm crazy or it's the space in Dead Space talking to me](https://www.world-today-news.com/im-crazy-or-its-the-space-in-dead-space-talking-to-me/)
+
+
+> opinions February 11, 2023, 12:15 Krzysztof 'Krzyslewy' Lewandowski Dead Space Remake, in terms of narrative goals, can feel like a simulator of repairing a ship. However, these are only appearances and not necessarily the most interesting shot of survival horror, which also tells the story through its background. If I had to point to a point where I refreshed Dead Space is not necessarily thrilling, it would be giving our hero more tasks. Of course, I understand that all this is related to both the difficult situation on the USG Ishimura and the profession of the protagonist (Isaac Clarke is an engineer, not Commander Shepard in his next adventure).
+
+
+***
+![How to obtain Mallowsweet Leaves in Hogwarts Legacy](https://staticg.sportskeeda.com/editor/2023/02/65acc-16761174667742-1920.jpg "How to obtain Mallowsweet Leaves in Hogwarts Legacy")
+
+
+[How to obtain Mallowsweet Leaves in Hogwarts Legacy](https://www.sportskeeda.com/esports/how-obtain-mallowsweet-leaves-hogwarts-legacy)
+
+
+> Hogwarts Legacy consists of many intricate gameplay mechanics like brewing potions, learning spells, and solving puzzles. The title also features Merlin's Trials that test players' puzzle-solving skills and spell knowledge. To access them, players will require Mallowsweet leaves. These leaves can be obtained from Nora Treadwell at first, marking the introduction to Merlin's Trials. She gives them to the protagonist as a token of gratitude for saving her from enemies. For the rest of the game, players can acquire them in two ways: Buying from the Magic Neep store.
+
+
+***
+![Call of Duty Modern Warfare II – Season 2 Could Be the Worst Update Ever for a Multiplayer Experience in Franchise History!](https://image-cdn.essentiallysports.com/wp-content/uploads/call-of-duty-modern-warfare-II-warzone-2-1.jpg "Call of Duty Modern Warfare II – Season 2 Could Be the Worst Update Ever for a Multiplayer Experience in Franchise History!")
+
+
+[Call of Duty Modern Warfare II – Season 2 Could Be the Worst Update Ever for a Multiplayer Experience in Franchise History!](https://www.essentiallysports.com/esports-news-call-of-duty-modern-warfare-ii-season-two-could-be-the-worst-update-ever-for-a-multiplayer-experience-in-franchise-history/)
+
+
+> Published 02/11/2023, 8:55 AM EST Since its anticipated release last year,  Call of Duty  Modern Warfare II has been in the news for multiple reasons. Despite being a blockbuster release in series history, it has faced many unfavorable situations. Some players have faced issues while diving into this world. Especially when it comes to the Multiplayer modes of the ongoing entry. They have become a subject of debate among the users due to how the devs have treated the paid version. In the last few months, most people have called out the makers for ignoring  Modern Warfare II's Multiplayer  to focus more on Warzone 2 only.
+
+
+***
+![Elon Musk asks you to checkout](https://crops.giga.de/56/80/ea/78b56254b3b318f2bc0bb7cd45_YyA1NTU0eDI5MDIrOSsxMTUCcmUgMTIwMCA2MjcDNTA3NTUzMTIwNzQ=.jpg "Elon Musk asks you to checkout")
+
+
+[Elon Musk asks you to checkout](https://www.world-today-news.com/elon-musk-asks-you-to-checkout/)
+
+
+> Some Twitter users are said to be paying $1,000 a month for verification in the future. There is a golden tick next to the username. In the case of linked accounts, Twitter should once again hold hands. However, the platform has not yet officially announced the new prices. Twitter: Prices for verified company accounts leaked Now that the traditional Twitter Blue subscription model is also available in Germany, the platform is preparing for the next step. Internal documents should prove that Twitter from Company accounts now $1,000 per month wants to charge for a gold verification hook.
+
+
+***
+![Sony's "State of Play" gaming presentation rumored in March](https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/Screen-Shot-2022-11-21-at-4.53.17-PM.png?fit=1200%2C723&ssl=1 "Sony's "State of Play" gaming presentation rumored in March")
+
+
+[Sony's "State of Play" gaming presentation rumored in March](https://boingboing.net/2023/02/11/sonys-state-of-play-gaming-presentation-rumored-in-march.html)
+
+
+> Dragon Age: Dreadwolf, the upcoming fourth entry in BioWare's long-running Dragon Age RPG series, has suffered a major leak (although nothing quite as dire as the GTA 6 fiasco from… READ THE REST
+
+
+***
+![Download Hogwarts Legacy Champion Leggings](https://i.playground.ru/a/6lkFxRUPNN0vxqG4Zn0zNQ.jpeg?26x26 "Download Hogwarts Legacy Champion Leggings")
+
+
+[Download Hogwarts Legacy Champion Leggings](https://www.world-today-news.com/download-hogwarts-legacy-champion-leggings/)
+
+
+> Description: The champion deserves an award. Installation: On Steam, right click on the game > Manage > Browse local files. Extract the ZIP to this folder (should be …\steamapps\common\Hogwarts Legacy). If you did everything right, you should have ..\Hogwarts Legacy\Phoenix\Content\Paks\mods\zChampionsLeggings_P.pak and 2 other files. This should affect all outfits using this model.
+
+
+***
+![Video: man who owns Native American Galleries mocks Native Americans](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bb-2-3.jpg?fit=640%2C460&ssl=1 "Video: man who owns Native American Galleries mocks Native Americans")
+
+
+[Video: man who owns Native American Galleries mocks Native Americans](https://boingboing.net/2023/02/11/video-man-who-owns-native-american-galleries-mocks-native-americans.html)
+
+
+> Cody Blackbird  recently posted this  video  of Gilbert Ortega, Jr.—who owns a chain of stores that he calls "Native American Galleries"—mocking Native American dancers and singers who recently filmed a Super Bowl special for ESPN in Old Town Scottsdale. Blackbird included the following text with his video: This kind of blatant racism can't go on. TikTok do your thing. Call the city of Scottsdale, call the Scottsdale Police department and DEMAND that Gilbert Ortega Jr be charged with a hate crime.
+
+
+***
+![Collection of little-known but highly-rated movies](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/Le_Voyage_dans_la_lune.jpg?fit=257%2C264&ssl=1 "Collection of little-known but highly-rated movies")
+
+
+[Collection of little-known but highly-rated movies](https://boingboing.net/2023/02/11/discover-little-known-but-highly-rated-movies-on-this-website.html)
+
+
+> Even with all of the movie streaming services of today, I often have a hard time deciding on what to watch. A Good Movie To Watch is a site that lists highly rated yet little-known shows and movies. Browse by a curated list of the "best" films, or by category. I clicked on the "dark" mood category, and spotted some films I'd enjoyed a long time ago and would  love to rewatch such as Re-Animator (1985)  and Monster (2003) . Although you can't watch the movies directly from the site, I much prefer searching for ways to watch a specific option I have in mind than to waste time browsing the limited options on Netflix, only to give up and call off watching a movie all-together.
+
+
+***
+![Valentine's Day 2023: Gen Z Talks Situationships: Is It Just Sex, a Fling, or a Proper Relationship?](https://images.thequint.com/thequint%2F2023-02%2F1e579bee-75ae-458e-a6e1-9ed2d9ef0be7%2FUntitled_design__19_.jpg?rect=0%2C0%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true "Valentine's Day 2023: Gen Z Talks Situationships: Is It Just Sex, a Fling, or a Proper Relationship?")
+
+
+[Valentine's Day 2023: Gen Z Talks Situationships: Is It Just Sex, a Fling, or a Proper Relationship?](https://www.thequint.com/podcast/valentines-day-2023-situationships-casual-relationship-fling-sex)
+
+
+> "The good kind of situationships have accountability, because even if you aren't exclusive, you can't screw the other person over, and not be held accountable for your actions," says 22-year-old Pranay Dutta Roy. But for Zijah on the other hand says, situationships are not a new concept. "We used to call it 'go with the flow'." There's just a word for it now. To listen to to the full episode, click here. Listen to Swara Bhasker talk about refugees and human rights by clicking here. Check out our political storytelling podcast, 'Siyasat' by clicking here.
+
+
+***
+![DONKS is a short animation by artist Felix Colgrave](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bb-2-2.jpg?fit=1200%2C646&ssl=1 "DONKS is a short animation by artist Felix Colgrave")
+
+
+[DONKS is a short animation by artist Felix Colgrave](https://boingboing.net/2023/02/11/donks-is-a-short-animation-by-artist-felix-colgrave.html)
+
+
+> DONKS , by artist Felix Colgrave, features creatures and objects existing somewhere between the abstract and the figurative. I love how Colgrave relies heavily on sound to give each character and scene a distinct personality. I also love how the creatures and objects in this film are composed of hodgepodge shapes and objects that one wouldn't expect to see combined together. I could sit here and watch an entire feature length film of the DONKS universe. Form Youtube: "An exploration of ocean plastic, avatars and adaptive bottom feeders.
+
+
+***
+![Google Pixel Watch to receive Material You design overhaul with Wear OS update](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Untitledpixelwatch48.jpg "Google Pixel Watch to receive Material You design overhaul with Wear OS update")
+
+
+[Google Pixel Watch to receive Material You design overhaul with Wear OS update](https://www.notebookcheck.net/Google-Pixel-Watch-to-receive-Material-You-design-overhaul-with-Wear-OS-update.693160.0.html)
+
+
+> Top 10 Laptops Multimedia , Budget Multimedia , Gaming , Budget Gaming , Lightweight Gaming , Business , Budget Office , Workstation , Subnotebooks , Ultrabooks , Chromebooks under 300 USD/Euros , under 500 USD/Euros , 1,000 USD/Euros , for University Students ,  Best Displays Top 10 Smartphones Smartphones , Phablets , ≤6-inch ,  Camera Smartphones
+
+
+***
+![List of catacombs to explore around the world](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/Paris_catacombes.jpg?fit=1200%2C819&ssl=1 "List of catacombs to explore around the world")
+
+
+[List of catacombs to explore around the world](https://boingboing.net/2023/02/11/list-of-catacombs-to-explore-around-the-world.html)
+
+
+> You've likely heard of the catacombs in Paris. Maybe you've even been lucky enough to take a tour there and walk down the dimly lit tunnels lined with real human skeletons. These underground tunnels were created in the 17th century when "Overcrowding in Paris's more traditional burial spaces, as well as sanitation issues, led to a transformation. Miles of tunnels connecting old stone quarries under the city were reused as crypts . It's believed that more than six million people were laid to rest in the underground labyrinth.
+
+
+***
+![Will everything be EXACTLY same after TM-restore?](https://images.macrumors.com/social/?t=2380417&v=6 "Will everything be EXACTLY same after TM-restore?")
+
+
+[Will everything be EXACTLY same after TM-restore?](https://forums.macrumors.com/threads/will-everything-be-exactly-same-after-tm-restore.2380417/)
+
+
+> Hey! If I take a timemachine backup of this macbook (MacOS High Sierra) and 2 minutes after I wipe the disk. Now, when restoring, will everything be exactly the same? 100%? Or will i need to type in my old passwords, my old edits in system files? If i put a file in the system folder, will it be there? I just try to figure out if this TM-restore thing is 100% restore or just "here is all your apps and settings, yes put in the old serial numbers and some passwords". Thank you for your understanding.
+
+
+***
+![⚡Microsoft's New AI-Enabled Classroom Tools To Improve Speaking and Math Skills](https://st1.latestly.com/wp-content/uploads/2023/02/resize-5.jpg "⚡Microsoft's New AI-Enabled Classroom Tools To Improve Speaking and Math Skills")
+
+
+[⚡Microsoft's New AI-Enabled Classroom Tools To Improve Speaking and Math Skills](https://www.latestly.com/quickly/technology/microsoft-s-new-ai-enabled-classroom-tools-to-improve-speaking-and-math-skills-4827763.html)
+
+
+> With the new tool, teachers will be able to save their time by "streamlining the process of creating, reviewing, and analysing speaking and presentation assignments for students, groups, and classrooms", Microsoft said.
+
+
+***
+![Over half of top 1,000 Twitter advertisers stopped spending on platform: Report](https://www.hindustantimes.com/ht-img/img/2023/02/11/1600x900/Twitter-Musk-Trust-and-Safety-0_1676120535264_1676120535264_1676120558790_1676120558790.jpg "Over half of top 1,000 Twitter advertisers stopped spending on platform: Report")
+
+
+[Over half of top 1,000 Twitter advertisers stopped spending on platform: Report](https://www.hindustantimes.com/technology/over-half-of-top-1-000-twitter-advertisers-stopped-spending-on-platform-report-101676120390772.html)
+
+
+> Over half of Twitter 's top 1,000 advertisers in September 2022 were no longer spending on the microblogging platform in the first weeks of January this year, CNN reported citing the data provided by digital marketing analysis organisation Pathmatics. Read more: This US restaurant bans children under age of 10. Here's why The data highlights a sharp decline of once a $4.5 billion advertising business for Twitter. According to the data up to January 25 this year, 625 of the top 1,000 Twitter advertisers had stopped buying advertisements.
+
+
+***
+![NoteSH fully functional sticky notes App in your Terminal](https://external-preview.redd.it/MsuH4bKhIjojjOAlTZvvlbeNbgLDy2ob8fJLkWuia4M.jpg?auto=webp&v=enabled&s=fffda79f876e49615dd43941f3ceb6c518c04615 "NoteSH fully functional sticky notes App in your Terminal")
+
+
+[NoteSH fully functional sticky notes App in your Terminal](https://www.reddit.com/r/programming/comments/10zn703/notesh_fully_functional_sticky_notes_app_in_your)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![2023 BMW M4 Competition video review – with M Performance accessories](https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/xtssq8g2bzboedplf3hw "2023 BMW M4 Competition video review – with M Performance accessories")
+
+
+[2023 BMW M4 Competition video review – with M Performance accessories](https://www.drive.com.au/reviews/2023-bmw-m4-competition-video-review-with-m-performance-accessories/)
+
+
+> The BMW M4 is already a formidable machine, but what happens when you go wild on the M Performance options list and tick... everything? View  66 images View  66 images View  66 images View  66 images View  66 images 2023 BMW M4 Competition with M Performance accessories The team at BMW have been celebrating the letter M now for half a century. Over those five decades, we've seen BMW's tricolour logo promote the best that Munich can muster, on road and track, across all manner of body sizes and styles.
+
+
+***
+![Samsung Galaxy S23 Ultra's 45W fast charging is actually fast this time](https://www.androidauthority.com/wp-content/uploads/2023/02/Samsung-Galaxy-S23-Ultra-charger.jpg "Samsung Galaxy S23 Ultra's 45W fast charging is actually fast this time")
+
+
+[Samsung Galaxy S23 Ultra's 45W fast charging is actually fast this time](https://www.androidauthority.com/samsung-galaxy-s23-ultra-charging-speed-45w-3280776/)
+
+
+> Robert Triggs / Android Authority Charging power and speeds are consistently contentious topics. From overzealous marketing and worries about damaged battery longevity to handsets that simply charge too slowly, it seems like few brands actually get charging just right. Samsung is no different. Despite advertising 45W wired charging power since 2022's flagships, it turned out to be a brief peak rather than a sustainable power level last year. The result has been handsets that mostly have solid battery life but whose cells refill barely any faster than they did when charging at the older power levels.
+
+
+***
+![Wordle Today: Hints, Clues and Answer for Wordle 602, February 11](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17gOu7.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Wordle Today: Hints, Clues and Answer for Wordle 602, February 11")
+
+
+[Wordle Today: Hints, Clues and Answer for Wordle 602, February 11](http://www.msn.com/en-us/news/technology/wordle-today-hints-clues-and-answer-for-wordle-602-february-11/ar-AA179ZBN)
+
+
+> Wordle was devised by software engineer Josh Wardle in 2021, but after the game was acquired by The New York Times the following year, its reach extended exponentially. Players can now easily save their stats and winning streaks on their New York Times Games account and share their results on social media. You can also compare your solution to the day's puzzle against the Times' Wordlebot. Wordle can be addictive and frustrating, and many of us would love a little help getting to the answer. No cheating -- just a hint or two.
+
+
+***
+![Upper Body Dumbbell Workout: 6 Exercises for a Strong Upper Half](https://hips.hearstapps.com/hmg-prod/images/2023-runnersworld-weekendworkouts-ep06-dumbbellworkout-jc-v01-index-1676062243.jpg?crop=0.736xw:0.652xh;0.0897xw,0.228xh&resize=1200:* "Upper Body Dumbbell Workout: 6 Exercises for a Strong Upper Half")
+
+
+[Upper Body Dumbbell Workout: 6 Exercises for a Strong Upper Half](https://www.runnersworld.com/training/a42804029/upper-body-dumbbell-workout/)
+
+
+> If you've been curling the same weights for months, it's time to step up (and switch up!) your lifting game. First of all, there's so much more you can do with a set of dumbbells. And if you want to maximize your running performance , you need to build strength beyond your biceps. Yusuf Jeffers , NASM-certified personal trainer and USATF-certified running coach, recommends that runners incorporate movements that target the back, chest, shoulders, core, and arms into their strength-training routines —which is why he designed this upper body dumbbell workout that hits your upper half from all angles.
+
+
+***
+![Technical Architect – Western Cape](https://recruiter.careerjunction.co.za//_service/p/RecruiterSiteTypePlugin_1_0/recruiter/logpixeltrackingjobview?id=d933728e-a931-11ed-b4d9-0293ef58f05a "Technical Architect – Western Cape")
+
+
+[Technical Architect – Western Cape](https://it-online.co.za/2023/02/10/technical-architect-western-cape/)
+
+
+> Are you a rare combination of advanced technical skills and incredible managerial abilities? My international client – a larger than life player in their field – wants your skills! What you will be doing : Communicate clearly and effectively to all levels of the organization Convey technically complex topics to developers Convey technical concepts to the business unit (Product or C-level) Condense elaborate technical topics into summaries Skills Development stack Java Spr
+
+
+***
+![Twitter's Internal Chaos Is Slowing Turkey Earthquake Relief Efforts, Volunteers Say](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17mkDJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Twitter's Internal Chaos Is Slowing Turkey Earthquake Relief Efforts, Volunteers Say")
+
+
+[Twitter's Internal Chaos Is Slowing Turkey Earthquake Relief Efforts, Volunteers Say](http://www.msn.com/en-us/news/technology/twitter-s-internal-chaos-is-slowing-turkey-earthquake-relief-efforts-volunteers-say/ar-AA17mGpN)
+
+
+> For the past four days, Hakan Özalp's Twitter feed has been an endless stream of tragedy. From his home in Amsterdam, the Turkish business professor keeps scrolling through names, phone numbers, and addresses identifying where people are trapped in the debris from a 7.8 magnitude earthquake that devastated parts of his home country on Monday, killing at least 20,000 people in southern Turkey and neighboring Syria. 'It's hard not to despair,' Özalp says. Load Error Özalp is one of many who leapt into action from afar in the wake of the quake and its aftershocks.
+
+
+***
+![Samsung Galaxy S23 Ultra Camera Test: Low Light 'Nightography'](https://geekculture.co/wp-content/uploads/2023/02/s23-camera-test-feature-image.jpg "Samsung Galaxy S23 Ultra Camera Test: Low Light 'Nightography'")
+
+
+[Samsung Galaxy S23 Ultra Camera Test: Low Light 'Nightography'](https://geekculture.co/samsung-galaxy-s23-ultra-camera-test-low-light-nightography/)
+
+
+> When Samsung announced its new Samsung Galaxy S23 lineup, the Samsung Galaxy S23 Ultra ultimately stole the show. With a whopping 200MP main camera , the S23 Ultra camera is also now further enhanced with the brand's new Advanced Vision Booster tech that automatically adjusts and enhances colours and contrast in the photos. Noise Reduction Technology has also been added so that night portraits and videos appear more detailed and less grainy. Aside from the 200MP main camera, the S23 Ultra also comes with a 50MP Wide camera, 10MP Telephoto camera and 12MP Front camera.
+
+
+***
+![OPPO to unveil its first foldable smartphone Find N2 Flip on February 15](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/oppo_find_n2_flip-sixteen_nine.jpg "OPPO to unveil its first foldable smartphone Find N2 Flip on February 15")
+
+
+[OPPO to unveil its first foldable smartphone Find N2 Flip on February 15](https://www.businesstoday.in/technology/news/story/oppo-to-unveil-its-first-foldable-smartphone-find-n2-flip-on-february-15-369884-2023-02-11)
+
+
+> OPPO will be introducing the Find N2 Flip on February 15 globally. This will be the company's first-ever flip-style foldable smartphone. The foldable phone design apparently sports an invisible crease for an enhanced user experience, according to the company. The upcoming phone will primarily be competing with Samsung's Galaxy Z Flip 4 and the new Motorola Razr. The smartphone will feature a minimal, seamless design and compact dimensions that accentuate the cover screen. Its bezel-free vertical display presents a large canvas to enable new user experiences, widgets, and a versatile viewfinder for photography enthusiasts to get creative.
+
+
+***
+![Atomic Heart Full PC Specs Revealed](https://www.guru3d.com/news_teaserimage/22395 "Atomic Heart Full PC Specs Revealed")
+
+
+[Atomic Heart Full PC Specs Revealed](https://www.guru3d.com/news-story/atomic-heart-full-pc-specs-revealed.html)
+
+
+> The countdown is on for the release of Atomic Heart, the highly-anticipated futuristic FPS developed by Mundfish. Director Robert Bagratuni recently unveiled the complete system requirements for the PC version of the game in an interview. The requirements, which were listed on the Steam page for Atomic Heart, now range from minimum and maximum graphics at 1080p to 4K in ultra. Get ready for an immersive and thrilling experience as Atomic Heart gears up for its official launch. On February 21, Atomic Heart will be available on Steam, PlayStation 5, PlayStation 4, Xbox One, Xbox One X, and Xbox Game Pass.
+
+
+***
+![Moner Bondhu wins Tommy Hilfiger Fashion Frontier Challenge 2022](https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/02/11/moner_bondhu_tommy_hilfiger.png "Moner Bondhu wins Tommy Hilfiger Fashion Frontier Challenge 2022")
+
+
+[Moner Bondhu wins Tommy Hilfiger Fashion Frontier Challenge 2022](https://www.thedailystar.net/tech-startup/news/moner-bondhu-wins-tommy-hilfiger-fashion-frontier-challenge-2022-3245081)
+
+
+> Moner Bondhu, a local startup that focuses on mental well-being, was recently awarded 100,000 euros as a winner of the Tommy Hilfiger Fashion Frontier Challenge 2022. Moner Bondhu, a local startup that focuses on mental well-being, was recently awarded 100,000 euros as a winner of the Tommy Hilfiger Fashion Frontier Challenge 2022. Hosted by the multinational clothing brand Tommy Hilfiger, the Fashion Frontier Challenge is an annual competition that aims to encourage innovation and sustainability in the fashion industry.
+
+
+***
+![The contour of the Progress MS-21 ship, which is planned to be flooded on February 18, has been depressurized](https://russian.rt.com/static/blocks/og-img/pl-17.jpg "The contour of the Progress MS-21 ship, which is planned to be flooded on February 18, has been depressurized")
+
+
+[The contour of the Progress MS-21 ship, which is planned to be flooded on February 18, has been depressurized](https://www.tellerreport.com/tech/2023-02-11-the-contour-of-the-progress-ms-21-ship--which-is-planned-to-be-flooded-on-february-18--has-been-depressurized.ByfhYkGBaj.html)
+
+
+> In the contour of the Progress MS-21 cargo ship, the flooding of which is scheduled for February 18, there was a depressurization. 'The contour of the Progress MS-21 transport cargo ship, the flooding of which is scheduled for February 18, has been depressurized, confirmed the telemetry data received by the MCC,' RIA Novosti reports Roskosmos. The reasons for the depressurization are being investigated. It is specified that the temperature regime and pressure on board the station are normal, nothing threatens the life and health of the crew.
+
+
+***
+![Setting the Stage for Super Bowl 2023: Behind the Scenes in Glendale, Arizona](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17mKZP.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Setting the Stage for Super Bowl 2023: Behind the Scenes in Glendale, Arizona")
+
+
+[Setting the Stage for Super Bowl 2023: Behind the Scenes in Glendale, Arizona](http://www.msn.com/en-us/news/technology/setting-the-stage-for-super-bowl-2023-behind-the-scenes-in-glendale-arizona/ar-AA17mGmI)
+
+
+> Before the crowds descend for Super Bowl LVII, State Farm Stadium is eerily quiet. I'm here in a sort of liminal space, a vast arena up for tens of thousands, but currently only populated by a few hundred. Everyone here on the ground seems tense, knowing they only have a few days to set up the greatest show on earth. I traveled to Glendale, Arizona to document how Fox's crew prepares to broadcast the game, and I feel like an interloper. My badge was checked by four people before I even entered the building.
+
+
+***
+![Sony Xperia 1V Renders Leaked Ahead of the Official Launch](https://www.gizmochina.com/wp-content/uploads/2023/02/Sony-Xperia-1V-1-Gizmochina.png "Sony Xperia 1V Renders Leaked Ahead of the Official Launch")
+
+
+[Sony Xperia 1V Renders Leaked Ahead of the Official Launch](https://www.gizmochina.com/2023/02/11/sony-xperia-1v-renders-leaked-ahead-of-the-official-launch)
+
+
+> Sony is preparing to release its forthcoming Sony Xperia 1V smartphone. With good cause, the Sony Xperia 1V is one of the most anticipated smartphones of the year. This device is expected to bring a new level of innovation and performance to the market, making it an excellent pick for both tech enthusiasts and smartphone lovers. Prior to the official announcement, complete renders and some key information about the upcoming smartphone have been leaked. The renders were published by well-known leakster OnLeaks in collaboration with greensmartphones.
+
+
+***
+![Microsoft vs. Google: The Tortoise and the Hare of the Tech World?](https://fastcdn.impakter.com/wp-content/uploads/2023/02/marc-sendra-martorell-2BrdNFxW0UY-unsplash-e1676120382378.jpeg "Microsoft vs. Google: The Tortoise and the Hare of the Tech World?")
+
+
+[Microsoft vs. Google: The Tortoise and the Hare of the Tech World?](https://impakter.com/microsoft-vs-google-the-tortoise-and-the-hare-of-the-tech-world/)
+
+
+> For 14 long years since the launch of its silver-medal search engine, Bing, Microsoft has been wishing on every star in the night sky to find a way of connecting with the global netizens of the online world in the same way that its biggest rival, Google, seems to do so easily. But despite many 'Cortana' and 'Outlook'-shaped attempts to catch attention and win over internet surfers and searchers once and for all, the bottom line remains the same: Microsoft's slogan of 'Bing and Decide' just doesn't quite have the same ring as Google's 'I'm Feeling Lucky.
+
+
+***
+![How to read WhatsApp messages without letting the sender know about it](https://images.livemint.com/img/2023/02/11/600x338/whatsapp_1661791834406_1676118451659_1676118451659.jpg "How to read WhatsApp messages without letting the sender know about it")
+
+
+[How to read WhatsApp messages without letting the sender know about it](https://www.livemint.com/technology/apps/how-to-read-whatsapp-messages-without-letting-the-sender-know-about-it-11676118311863.html)
+
+
+> WhatsApp read receipts allow users to know whether the message is delivered or read by the receiver. A single tick shows that the message is sent successfully, while a double tick means whether the message is delivered to the recipient's phone. The blue double tick, on the other hand, means that the message has been read by the recipient. But there may be situations when you do not want to open the chat to read a message and do not want the sender to know if you have read the message. Are you also looking for a way to read WhatsApp messages without opening the app or without letting the sender know? If yes, then here's a trick that you may help.
+
+
+***
+![AMD Ultimate Tech Upgrade to replace Intel Extreme Tech Upgrade at LinusTechTips YouTube channel](https://cdn.videocardz.com/1/2023/02/LINUS-TECH-TIPS-HERO.jpg "AMD Ultimate Tech Upgrade to replace Intel Extreme Tech Upgrade at LinusTechTips YouTube channel")
+
+
+[AMD Ultimate Tech Upgrade to replace Intel Extreme Tech Upgrade at LinusTechTips YouTube channel](https://videocardz.com/newz/amd-ultimate-tech-upgrade-to-replace-intel-extreme-tech-upgrade-at-linustechtips-youtube-channel)
+
+
+> Linus Media Group will no longer produce Intel Extreme Upgrade videos, as the sponsor pulls out. Linus Sebastian confirmed that the highly popular Intel Extreme Upgrade series have ended. Intel will no longer collaborate with LTT (Linus Tech Tips) for this type of content. The owner confirmed that AMD will take over the format by introducing its own 'Ultimate Tech Upgrade' series which is to kick off soon. The Intel Extreme Upgrade had a simple format of giving each LTT employee a budget of 5K USD for a new PC.
+
+
+***
+![Make February 14 special, buy the iPhone 14 Plus priced at just 54999; know how](https://images.hindustantimes.com/tech/img/2023/02/11/1600x900/jsuh_1676116298508_1676117827818_1676117827818.jpg/ "Make February 14 special, buy the iPhone 14 Plus priced at just 54999; know how")
+
+
+[Make February 14 special, buy the iPhone 14 Plus priced at just 54999; know how](https://tech.hindustantimes.com/web-stories/make-february-14-special-buy-the-iphone-14-plus-priced-at-just-54999-know-how-71676113075358.html)
+
+
+> No body in the article.
+
+
+***
+![US Blacklists 6 Chinese Entities Over Balloon Program](https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg "US Blacklists 6 Chinese Entities Over Balloon Program")
+
+
+[US Blacklists 6 Chinese Entities Over Balloon Program](https://www.securityweek.com/us-blacklists-6-chinese-entities-over-balloon-program/)
+
+
+> The United States on Friday blacklisted six Chinese entities it said were linked to Beijing's aerospace programs as part of its retaliation over an alleged Chinese spy balloon that traversed U.S. airspace. The economic restrictions followed the Biden administration's pledge to consider broader efforts to address Chinese surveillance activities and will make it more difficult for the five companies and one research institute to obtain American technology exports. The move is likely to further escalate the diplomatic row between the U.
+
+
+***
+![Can't add a playlist to my Ultra](https://images.macrumors.com/social/?t=2380409&v=6 "Can't add a playlist to my Ultra")
+
+
+[Can't add a playlist to my Ultra](https://forums.macrumors.com/threads/cant-add-a-playlist-to-my-ultra.2380409/)
+
+
+> Nov 7, 2007 394 7 dublin, ireland Hi all, I just got an Ultra (my first Apple Watch). I'm loving it so far but I can't add a playlist to the watch at all. I go into the watch app on my iPhone, go to music, click Add Music under Playlists and Albums but when I select the Playlist, I keep getting the following error message: Could Not Connect To Apple Watch Make sure your Apple Watch is nearby, turned on and not in Airplane Mode, then try again.
+
+
+***
+![Is this the new Specialized Roubaix frame? Plus post your Zwift videos to Strava, hand-painted Silca floor pumps, super light wheels from Princeton, a bold new Rapha collection + more](https://cdn.road.cc/sites/default/files/styles/main_width/public/2023-feb-11-tech-week-1.jpg "Is this the new Specialized Roubaix frame? Plus post your Zwift videos to Strava, hand-painted Silca floor pumps, super light wheels from Princeton, a bold new Rapha collection + more")
+
+
+[Is this the new Specialized Roubaix frame? Plus post your Zwift videos to Strava, hand-painted Silca floor pumps, super light wheels from Princeton, a bold new Rapha collection + more](https://road.cc/content/tech-news/new-specialized-roubaix-zwift-videos-strava-and-more-299159)
+
+
+> Lots of new tech news has popped up again this week, including some pretty exciting patent documents that imply we can expect a massively revamped bike coming out from Specialized. There's also some vSilca handpainted floor pumps that are very Silca indeed, plus a whole set of new products from 950g wheelsets to city backpacks. There's also some quite interesting umm, suspension, thrown in... Have a look!  Is this the new Specialized Roubaix? Answer: yes, probably Specialized is working on a radical new bike frame that moves away from a traditional double design, the idea being to deliver increased comfort without affecting efficiency or handling.
+
+
+***
+![India could be this decade's China.]( "India could be this decade's China.")
+
+
+[India could be this decade's China.](https://mideastsoccer.blogspot.com/feeds/8607194890223485259/comments/default)
+
+
+> No body in the article.
+
+
+***
+![Still worth buying A12z iPad Pro in 2023](https://images.macrumors.com/social/?t=2380406&v=6 "Still worth buying A12z iPad Pro in 2023")
+
+
+[Still worth buying A12z iPad Pro in 2023](https://forums.macrumors.com/threads/still-worth-buying-a12z-ipad-pro-in-2023.2380406/)
+
+
+> I want to switch from an 11' ipad pro to a 12.9'. Is it worth getting a A12Z iPad Pro, or I should only consider an M1 model? My plan is to buy from Apple refurbished. I can sell my old ipad for £275 and A12Z model is £579. It looks like the M1 model is about to appear on Apple refurbished store at £849 so my cost to upgrade will be nearly double. For browsing, streaming and Facetime is it worth the extra cost? Personally, having both the non mini-LED and the mini-LED version, I don't care much about the difference in screen, but some people do and they go crazy about it.
+
+
+***
+![How lithium discovery in J&K could pit India against China in battery tech](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/lithium_4-sixteen_nine.jpg "How lithium discovery in J&K could pit India against China in battery tech")
+
+
+[How lithium discovery in J&K could pit India against China in battery tech](https://www.businesstoday.in/technology/news/story/how-lithium-discovery-in-jk-could-pit-india-against-china-in-battery-tech-369879-2023-02-11)
+
+
+> A significant deposit of lithium, a rare metal used in the manufacturing of batteries for electronic devices and electric vehicles, has been discovered in India. The deposit is estimated to be 5.9 million tonnes in the Salal-Haimana area of Reasi District of Jammu & Kashmir (UT), making it one of the largest deposits of lithium in the world. "The unavailability of Lithium has been one of the reasons why India has been dependent on other countries for Li-Ion batteries and other EV components. Lithium being one of the core elements of the Li-Ion batteries and taking into consideration the financial impact of sourcing Lithium, the recent discovery of Lithium reserves in J&K does come in as a new lease of life as it further enables India's ambition to become self-sufficient in its energy storage needs,' Pankaj Sharma, Co-Founder and Director of Log9 Materials said.
+
+
+***
+![ChatGPT coming to Opera browser soon](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/opera-sixteen_nine.jpeg "ChatGPT coming to Opera browser soon")
+
+
+[ChatGPT coming to Opera browser soon](https://www.businesstoday.in/technology/news/story/chatgpt-coming-to-opera-browser-soon-369878-2023-02-11)
+
+
+> Opera is now the latest company to just be on the Artificial Intelligence (AI) bandwagon with its plans to integrate OpenAI's language model, ChatGPT into its products. With this integration, Opera users will have access to state-of-the-art conversational AI technology right within their browser, enhancing their online experience and allowing them to easily interact with the internet more naturally and intuitively. Opera could also be introducing AI-related features in some of their other products as well like their gaming-oriented version of the browser called Opera GX and the blockchain-focused Opera Crypto Browser.
+
+
+***
+![Oppo Find N2 Flip launching globally on February 15; Samsung Flip 4 rival might just come to India](https://www.financialexpress.com/wp-content/uploads/2023/02/oppo-find-n2.jpg "Oppo Find N2 Flip launching globally on February 15; Samsung Flip 4 rival might just come to India")
+
+
+[Oppo Find N2 Flip launching globally on February 15; Samsung Flip 4 rival might just come to India](https://www.financialexpress.com/life/technology-oppo-find-n2-flip-launching-globally-on-february-15-samsung-flip-4-rival-might-just-come-to-india-2978905/)
+
+
+> Oppo's Find N2 Flip is launching globally on February 15. What's even more interesting is that the flip phone might come to India as well. The company's India arm is also hyping the launch event— which is taking place in London— on social media as well as official website so we have reason to believe the Find N2 is coming to India sooner rather than later. But we'll see. The Find N2 is a folding flip phone on the lines of the Samsung Galaxy Z Flip 4. Oppo says that it is better in two ways: the Find N2 Flip seemingly has an invisible crease and it has the 'largest-ever cover screen on a flip phone'.
+
+
+***
+![Navigating The Security Challenges Of Smart Contracts](https://www.mccourier.com/wp-content/uploads/2023/02/Navigating-The-Security-Challenges-Of-Smart-Contracts.jpg "Navigating The Security Challenges Of Smart Contracts")
+
+
+[Navigating The Security Challenges Of Smart Contracts](https://www.mccourier.com/navigating-the-security-challenges-of-smart-contracts/)
+
+
+> Good contract getty A sensible contract is an software that makes use of blockchain and acts as a digital contract supported by a algorithm. Good contracts aren't thought-about contracts within the authorized sense in most jurisdictions. It's simply an software that meets formal necessities and runs on a distributed blockchain system. The results of the execution of the sensible contract could also be an change of belongings between the events. Good contracts be sure that transactions are clear, traceable, and can't be altered.
+
+
+***
+![Indian men using ChatGPT to write love letters ahead of Valentine's Day](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/letter-g1ebb830f2_1280-sixteen_nine-original.jpg "Indian men using ChatGPT to write love letters ahead of Valentine's Day")
+
+
+[Indian men using ChatGPT to write love letters ahead of Valentine's Day](https://www.indiatoday.in/technology/news/story/indian-men-using-chatgpt-to-write-love-letters-ahead-of-valentines-day-2333490-2023-02-11)
+
+
+> Story highlights OpenAI's AI tool ChatGPT has now come to the rescue of inexpressive men, who find it difficult to pen down a few words for their lovers. More than 60 per cent of Indians are planning to take help from ChatGPT to write love letters this Valentine's Day. The report further reveals that the letters felt so original that over 69 per cent of people failed to tell the difference between human letter and AI written letter Ladies, if you come across an immaculate and nicely worded love letter on Valentine's Day, the writer may not be your man, but an AI tool.
+
+
+***
+![ChatGPT vs Bard vs Ernie: The revolutions of AI](https://images.livemint.com/img/2023/02/11/600x338/AI-k8HB--621x414LiveMint_1676115319350_1676115319909_1676115319909.jpg "ChatGPT vs Bard vs Ernie: The revolutions of AI")
+
+
+[ChatGPT vs Bard vs Ernie: The revolutions of AI](https://www.livemint.com/technology/chatgpt-vs-bard-vs-ernie-the-revolutions-of-ai-11676113499648.html)
+
+
+> The world of technology is taken by the storm after the arrival of OpenAI's ChatGPT. The AI based chatbot is part of sophisticated systems that produces content from text to images - that is set to be one of the most disruptive forces in a decade to big tech, industries and the future of work. However, the world of technology could no longer witness the monopoly of ChatGPT, hence Google sweeped in with its own AI chatbot called Bard and Baidu with its Ernie. Here is a comparison between ChatGPT, Ernie and Bard to help you understand how all three platforms are different and at the same time can overpower each other: ChatGPT As per OpenAI, the AI based ChatGPT platform has been trained using the Reinforcement Learning from Human Feedback (RLHF).
+
+
+***
+![WhatsApp To Soon Allow Users To Schedule Calls, Transcribe Voice Messages: Report](https://imgeng.jagran.com/images/2023/feb/WhatsApp (1)1676115136155.jpg "WhatsApp To Soon Allow Users To Schedule Calls, Transcribe Voice Messages: Report")
+
+
+[WhatsApp To Soon Allow Users To Schedule Calls, Transcribe Voice Messages: Report](https://english.jagran.com/technology/whatsapp-to-soon-allow-users-to-schedule-calls-transcribe-voice-messages-report-10064728)
+
+
+> By Ashish Singh Sat, 11 Feb 2023 04:58 PM (IST) The well-liked instant messaging platform owned by technology company Meta is soon going to allow users to transcribe voice messages and even schedule calls. The company is already developing some notable features, including original quality image sharing, a view once text, companion mode, and more. This came after a report by WaBetaInfo, a WhatsApp news, and feature reporting website claimed that the users would be looking soon to allow users to schedule personal calls and transcribe the voice messages received by the user.
+
+
+***
+![Experts Say This Simple Exercise Builds Strength, Boosts Energy & Limits Joint Stress](https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_2000,h_1334/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/bo49oeg9ildxc15of.jpg "Experts Say This Simple Exercise Builds Strength, Boosts Energy & Limits Joint Stress")
+
+
+[Experts Say This Simple Exercise Builds Strength, Boosts Energy & Limits Joint Stress](https://www.mindbodygreen.com/articles/best-stair-climber)
+
+
+> Motivation By Christie Calucchia Christie is a writer, editor, and content strategist whose work has appeared in Shape, Real Simple, Southern Living, InStyle, People, Travel + Leisure, and more. BB Arrington, CPT Personal trainer & holistic nutritionist BB Arrington is NASM-certified personal trainer, holistic nutritionist, and sustainability advocate. It's no secret that taking the stairs is usually the healthier choice—but did you know climbing stairs daily could decrease your risk for conditions such as heart disease, stroke, and Type 2 diabetes 1 ? Even short bouts of stair climbing have been shown to boost energy and relieve tension 2 .
+
+
+***
+![Tech Mahindra Ranked Number 1 in the S&P Global Sustainability Yearbook 2023](https://i0.wp.com/files.techmahindra.com/static/img/techm-sustainability_yearbook_emblem.jpg?w=1170&is-pending-load=1#038;ssl=1 "Tech Mahindra Ranked Number 1 in the S&P Global Sustainability Yearbook 2023")
+
+
+[Tech Mahindra Ranked Number 1 in the S&P Global Sustainability Yearbook 2023](https://orissadiary.com/tech-mahindra-ranked-number-1-in-the-sp-global-sustainability-yearbook-2023/)
+
+
+> By Odisha Diary bureau On Feb 11, 2023 Tech Mahindra  a leading provider of digital transformation, consulting and business reengineering services and solutions, today announced that it has been ranked number 1 in the S&P Global Sustainability Yearbook 2023. Tech Mahindra has been ranked amongst the top 1% of organizations in the global IT Services segment. The S&P Global Sustainability Yearbook aims to distinguish individual companies, within their industries, that have demonstrated strengths in corporate sustainability.
+
+
+***
+![Hacker uses new 'Screenshotter' malware tool to target organisations](http://daijiworld.com/images/daijiSquareLogo.png "Hacker uses new 'Screenshotter' malware tool to target organisations")
+
+
+[Hacker uses new 'Screenshotter' malware tool to target organisations](https://www.daijiworld.com/news/newsDisplay?newsID=1049228)
+
+
+> San Francisco, Feb 11 (IANS): A new hacker identified as TA886 targets organisations in the US and Germany with the new custom malware tool "Screenshotter" to perform surveillance and data theft on infected systems. According to BleepingComputer, the previously unknown cluster of activity was first discovered by the US-based security firm Proofpoint in October 2022. The hacker appears to be motivated by money, conducting a preliminary assessment of breached systems to determine if the target is valuable enough for further intrusion.
+
+
+***
+![Technology: Hacker uses new malware tool 'Screenshotter' to target organisations](https://data1.ibtimes.co.in/en/full/781878/fraudsters-get-creative-come-newer-ways-dupe-people.jpg "Technology: Hacker uses new malware tool 'Screenshotter' to target organisations")
+
+
+[Technology: Hacker uses new malware tool 'Screenshotter' to target organisations](https://www.ibtimes.co.in/technology-hacker-uses-new-malware-tool-screenshotter-target-organisations-856620)
+
+
+> Hackers targeting govt officials with tailored clickbaits for phishing attacks A new hacker identified as TA886 targets organisations in the US and Germany with the new custom malware tool "Screenshotter" to perform surveillance and data theft on infected systems. According to BleepingComputer, the previously unknown cluster of activity was first discovered by the US-based security firm Proofpoint in October 2022. The hacker appears to be motivated by money, conducting a preliminary assessment of breached systems to determine if the target is valuable enough for further intrusion.
+
+
+***
+![Arkeon CEO Gregor Tegel says he's creating food ingredients from air](https://agfundernews.com/wp-content/uploads/2023/02/Gregor-Tegel-e1675918250635.jpg "Arkeon CEO Gregor Tegel says he's creating food ingredients from air")
+
+
+[Arkeon CEO Gregor Tegel says he's creating food ingredients from air](https://agfundernews.com/arkeon-ceo-gregor-tegel-on-creating-food-ingredients-out-of-air)
+
+
+> Arkeon is quite literally making proteins out of air! Well, it's not as simple as that, but the Austrian company, founded by Dr. Gregor Tegel, Dr. Günther Bochmann and Dr. Simon Rittmann, claims to be the only company creating 20 proteinogenic amino acids by feeding carbon dioxide to single-celled micro-organisms called archaea – without the need for genetic engineering. So what was behind Arkeon's creation? Most alternative protein startups rally behind achieving circularity and promoting sustainability in food production.
+
+
+***
+![Special Valentine's Day Discount! Nothing Phone 1 and Ear Stick get much cheaper](https://images.hindustantimes.com/tech/img/2023/02/11/1600x900/IMG_5118_1666948386301_1676113405550_1676113419916_1676113419916.jpg "Special Valentine's Day Discount! Nothing Phone 1 and Ear Stick get much cheaper")
+
+
+[Special Valentine's Day Discount! Nothing Phone 1 and Ear Stick get much cheaper](https://tech.hindustantimes.com/tech/news/special-valentine-s-day-discount-nothing-phone-1-and-ear-stick-get-much-cheaper-71676113231732.html)
+
+
+> Valentine's Day is just around the corner, and if you are still confused about what you should give your special one, then here is a great idea. Nothing has announced a limited-time discount on two of its products available in India. To celebrate Valentine's Day, discounts have been announced on the Nothing Phone 1 and the Nothing Ear Stick. The Nothing Phone 1 was launched in India in July of last year at a starting price of Rs. 32999, while the Nothing Ear Stick TWS earphones were released in October of the same year for Rs.
+
+
+***
+![Tech with ties to China: What to avoid](https://www.komando.com/wp-content/uploads/2023/02/kk-article-20230211-column-apps-ties-to-china-1200x675-1.jpg "Tech with ties to China: What to avoid")
+
+
+[Tech with ties to China: What to avoid](https://www.komando.com/kims-column/tech-with-ties-to-china-what-to-avoid/876258/)
+
+
+> Color me surprised that TikTok hasn't been banned in the U.S. yet. Can't stop using it? Take this simple step to keep your data from going back to China. It's not just apps. More than a third of the world's electronics are produced in China. There's a difference between products made in China and those made by companies with ties to the Communist Chinese government. Now, before we dive in, know that there are plenty of allegations the companies below have government ties, but it's up for debate how much the Chinese government is genuinely involved in operations.
+
+
+***
+![Accident of Pierre Palmade: "His days are no longer in danger", announces his family](https://cdn-europe1.lanmedia.fr/var/europe1/storage/images/europe1/faits-divers/accident-de-pierre-palmade-ses-jours-ne-sont-plus-en-danger-annonce-sa-famille-4166468/59783566-1-fre-FR/Accident-de-Pierre-Palmade-Ses-jours-ne-sont-plus-en-danger-annonce-sa-famille.jpg "Accident of Pierre Palmade: "His days are no longer in danger", announces his family")
+
+
+[Accident of Pierre Palmade: "His days are no longer in danger", announces his family](https://www.tellerreport.com/tech/2023-02-11-accident-of-pierre-palmade--%22his-days-are-no-longer-in-danger%22--announces-his-family.S1Swmlr6s.html)
+
+
+> The comedian's family announced that "his life was no longer in danger this Saturday morning" after his car accident on Friday evening. Europe 1 with AFP 11:47 a.m., February 11, 2023 The comedian's family announced that "his life was no longer in danger this Saturday morning" after his car accident on Friday evening. The humorist Pierre Palmade, would find himself, this Friday, in a state of absolute emergency after a traffic accident. The 54-year-old star was reportedly taken to Bicêtre hospital in Kremlin-Bicêtre.
+
+
