@@ -8197,3 +8197,667 @@
 > This article is free for you and free from outside influence. To keep things this way, we finance it through advertising and shopping links. If you purchase using a shopping link, we may earn a commission. Learn more
 
 
+***
+![US sanctions six Chinese tech companies for supporting spy balloon schemes](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/10153154/107189134-16755575172023-02-04t211310z_431807375_rc2i4z9umctn_rtrmadp_0_usa-china-spy-800x465.jpeg "US sanctions six Chinese tech companies for supporting spy balloon schemes")
+
+
+[US sanctions six Chinese tech companies for supporting spy balloon schemes](https://shepherdgazette.com/us-sanctions-six-chinese-tech-companies-for-supporting-spy-balloon-schemes/)
+
+
+> The suspected Chinese spy balloon drifts to the ocean after being shot down off the coast of Surfside Beach, South Carolina, USA, on February 4, 2023. Randall Hill | Reuters The Commerce Ministry on Friday announced a new round of sanctions against six Chinese aerospace companies it identified as supporting the Chinese military's reconnaissance balloon program. The firms will join a growing list of China-based companies that the US says pose a serious threat to national security. The sanctions announcement came just hours after a US military F-22 shot down the second 'high-altitude object' to enter US airspace last week.
+
+
+***
+![New York Plans To Lift Mask Mandate In Medical Settings](https://img.huffingtonpost.com/asset/63e6dd982300006300c1c1f6.jpeg?cache=pjkodhrmsy&ops=224_126 "New York Plans To Lift Mask Mandate In Medical Settings")
+
+
+[New York Plans To Lift Mask Mandate In Medical Settings](https://newsakmi.com/news/usnews/new-york-plans-to-lift-mask-mandate-in-medical-settings/)
+
+
+> New York officials will not be renewing the state's mask mandate policy in medical settings after it expires Sunday. 'This transition's an important step forward, moving beyond the public health emergency,' said Dr. James McDonald , the acting commissioner for the New York State Department of Health, on Thursday. Now, hospitals and health care facilities are encouraged to 'come up with their own plan for when masking may be required for their staff, based on community cases, not on vaccine status,' McDonald said.
+
+
+***
+![Microsoft Word will help you fix problems if you lose connectivity while co-authoring a document](https://www.techrepublic.com/wp-content/uploads/2022/08/add-pizazz-page-numbers-770x470.jpeg "Microsoft Word will help you fix problems if you lose connectivity while co-authoring a document")
+
+
+[Microsoft Word will help you fix problems if you lose connectivity while co-authoring a document](https://newsakmi.com/news/tech-news/software/microsoft-word-will-help-you-fix-problems-if-you-lose-connectivity-while-co-authoring-a-document/)
+
+
+> Image: Andreas Prott/Adobe Stock You've been able to work in a Microsoft Word document at the same time as someone else for many years. Since Word 2010, if the file is stored somewhere like OneDrive or SharePoint, you've shared the file with the people you want to collaborate with, and it's in .DOCX rather than .DOC format. The Share button in the top right of the ribbon shows you which other people are working in the same document as you, and colorful flags with their initials show you where in the file they're making changes, so everyone doesn't try to make the same change at the same time.
+
+
+***
+![How JetBlue And Spirit's Merger Can Optimize Their Presence At Los Angeles International Airport](https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2023/02/spirit-airlines-airbus-a320-271n-n915nk-jpg-2.jpg "How JetBlue And Spirit's Merger Can Optimize Their Presence At Los Angeles International Airport")
+
+
+[How JetBlue And Spirit's Merger Can Optimize Their Presence At Los Angeles International Airport](https://newsakmi.com/travel-news/how-jetblue-and-spirits-merger-can-optimize-their-presence-at-los-angeles-international-airport/)
+
+
+> This week, JetBlue filed a request to the US Department of Transportation ( DOT ) to transfer Spirit Airlines ' routes as soon as their merger is approved (if it is approved). The airline lengthy discussed how the combination of both companies would benefit consumers and competition and cited two airports where there would be plenty of benefits, Fort Lauderdale International (FLL) and Los Angeles International Airport (LAX). How would a JetBlue-Spirit merger benefit LAX? JetBlue said that travelers flying to and from existing focus cities, such as Los Angeles and Fort Lauderdale, will benefit from the merger with Spirit.
+
+
+***
+![What's At Stake In The Fresh Battle For Search Dominance](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/2023-02-10_11-24-24.jpg?h=913dc9df&itok=9U6SG1yq "What's At Stake In The Fresh Battle For Search Dominance")
+
+
+[What's At Stake In The Fresh Battle For Search Dominance](https://www.zerohedge.com/technology/whats-stake-fresh-battle-search-dominance)
+
+
+> The release of OpenAI's conversational chatbot ChatGPT late last year set off the alarm bells at Google's headquarters in Mountain View, California, as the company's management viewed the nascent technology as a serious threat to its core search business. To make things worse,  OpenAI , the company behind ChatGPT, is working closely with Microsoft, one of Google's last remaining competitors in the search market (if you can even call it competition). And sure enough, as Statista's Felix Richter reports, Google's worst fears with respect to ChatGPT became reality on Tuesday, when  Microsoft announced  a new Bing running on a next-generation OpenAI model that is 'more powerful than ChatGPT' and customized specifically for search.
+
+
+***
+![‘I'll be single this Valentine's Day': He forgot his wallet and took the receipt for his taxes. Is this nuts?](https://images.mktw.net/im-284213/social "‘I'll be single this Valentine's Day': He forgot his wallet and took the receipt for his taxes. Is this nuts?")
+
+
+[‘I'll be single this Valentine's Day': He forgot his wallet and took the receipt for his taxes. Is this nuts?](https://newsakmi.com/news/finance/stock-market/ill-be-single-this-valentines-day-he-forgot-his-wallet-and-took-the-receipt-for-his-taxes-is-this-nuts/)
+
+
+> I had a dinner date with a man I met on Tinder. We had texted and chatted for weeks before finally exchanging numbers and talking on the phone. That was a chemistry test for me, and let me tell you, he had the most sincere, deepest and most compelling voice. He listened and asked questions and didn't just talk about himself for the 40 minutes we talked. That's a rarity in 2023. So far, so good. Then we met for dinner, and it all went pear-shaped. He did probably dominate the conversation more than he had on the phone, but I put that down to nerves.
+
+
+***
+![MLB rumors: Dodgers sign David Peralta to fill outfield; Cubs get bullpen help with former ROY Michael Fulmer](https://sportshub.cbsistatic.com/i/2023/02/10/15c34510-679f-4005-9635-f80c6bcf770e/peralta-getty.png "MLB rumors: Dodgers sign David Peralta to fill outfield; Cubs get bullpen help with former ROY Michael Fulmer")
+
+
+[MLB rumors: Dodgers sign David Peralta to fill outfield; Cubs get bullpen help with former ROY Michael Fulmer](https://newsakmi.com/sports-news/mlb-news/mlb-rumors-dodgers-sign-david-peralta-to-fill-outfield-cubs-get-bullpen-help-with-former-roy-michael-fulmer/)
+
+
+> We are less than a week away from spring training, baseball fans. Here is each team's spring training reporting date . Now here are Friday's hot stove rumors as you await baseball's return.    The Dodgers have agreed to a one-year contract worth $6.5 million with veteran outfielder David Peralta , reports ESPN . Peralta is a left field-only guy and will slot in alongside Trayce Thompson and Mookie Betts in the outfield most days. Prospect James Outman was in line to start in left field and will now be relegated to the bench or to Triple-A.
+
+
+***
+![Lumen stock has worst week in more than two decades, hits lowest prices since Reagan was in office](https://images.mktw.net/im-722812/social "Lumen stock has worst week in more than two decades, hits lowest prices since Reagan was in office")
+
+
+[Lumen stock has worst week in more than two decades, hits lowest prices since Reagan was in office](https://newsakmi.com/news/finance/stock-market/lumen-stock-has-worst-week-in-more-than-two-decades-hits-lowest-prices-since-reagan-was-in-office/)
+
+
+> Lumen Technologies Inc. shares plunged to their worst weekly performance in more than two decades and their lowest prices since Ronald Reagan was in office Friday, as the business that used to carry the name continued to struggle. Lumen shares LUMN, -1.00% finished the week off 24.7%, marking their worst weekly percentage decline since a stretch in April 2000, when they declined 27.4% as the dot-com boom fell off. The stock, which closed Friday at $3.96 and was known as CenturyLink for most of its life, is at its lowest level since Aug.
+
+
+***
+![Diontae Johnson, Mitchell Trubisky address pregame punch allegation](https://www.yardbarker.com/media/0/8/086a414810a0fda5a749fd6be78e779a120b442b/thumb_16x9/diontae-johnson-mitchell-trubisky-address-punch.jpg?v=1 "Diontae Johnson, Mitchell Trubisky address pregame punch allegation")
+
+
+[Diontae Johnson, Mitchell Trubisky address pregame punch allegation](https://newsakmi.com/sports-news/nfl-news/diontae-johnson-mitchell-trubisky-address-pregame-punch-allegation/)
+
+
+> On Friday, a rumor surfaced that Pittsburgh Steelers wideout Diontae Johnson punched his teammate and quarterback Mitchell Trubisky before a game this season. Now, the players have responded and deny an altercation took place.  Earlier in the day, Gio Giannotti of the 'Boomer and Gio' show said that Johnson punched Trubisky in the face ahead of the Steelers' Week 4 matchup against the New York Jets because he was upset about his lack of targets the previous week versus the Cleveland Browns.
+
+
+***
+![Sources: China Telecom and China Mobile withdrew their ~20% investment in an Asia-Europe subsea cable project after US firm SubCom was chosen to build the line (Financial Times)](http://www.techmeme.com/230210/i18.jpg "Sources: China Telecom and China Mobile withdrew their ~20% investment in an Asia-Europe subsea cable project after US firm SubCom was chosen to build the line (Financial Times)")
+
+
+[Sources: China Telecom and China Mobile withdrew their ~20% investment in an Asia-Europe subsea cable project after US firm SubCom was chosen to build the line (Financial Times)](https://newsakmi.com/news/tech-news/sources-china-telecom-and-china-mobile-withdrew-their-20-investment-in-an-asia-europe-subsea-cable-project-after-us-firm-subcom-was-chosen-to-build-the-line-financial-times/)
+
+
+> Home / News / Tech / Sources: China Telecom and China Mobile withdrew their ~20% investment in an Asia-Europe subsea cable project after US firm SubCom was chosen to build the line (Financial Times) Tech Sierra Mitchell Send an email 5 hours ago Less than a minute Related Articles
+
+
+***
+![TVLine Items: Three Days Stars Exit, Ripley Series Moves to Netflix and More](https://tvline.com/wp-content/uploads/2023/02/days-of-our-lives-lindsay-arnold-leaving-allie.jpg?w=620 "TVLine Items: Three Days Stars Exit, Ripley Series Moves to Netflix and More")
+
+
+[TVLine Items: Three Days Stars Exit, Ripley Series Moves to Netflix and More](https://newsakmi.com/news/entertainment/tv-news/tvline-items-three-days-stars-exit-ripley-series-moves-to-netflix-and-more/)
+
+
+> Three prominent Salem residents are putting the soapy locale in their rearview mirrors. Lindsay Arnold, who has portrayed Sweet Bits co-owner Allie Horton on Days of Our Lives since 2020, has finished filming her run on the Peacock drama, according to Soap Opera Digest . It's not yet known when her final episodes will air. And Arnold isn't the only Days star crafting an exit strategy. The magazine also reports that both halves of supercouple #WilSon — that'd be Will Horton (Chandler Massey) and Sonny Kiriakis (Zach Tinker) — will leave town sometime during next week's run of episodes.
+
+
+***
+![Last of Us Episode 5 Recap: Endure and Survive on HBO Max](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cc62d43d909bed491b98165254d33085.jpg "Last of Us Episode 5 Recap: Endure and Survive on HBO Max")
+
+
+[Last of Us Episode 5 Recap: Endure and Survive on HBO Max](https://gizmodo.com/last-of-us-5-recap-endure-survive-hbo-max-pedro-pascal-1850091634)
+
+
+> Anyone complaining that The Last of Us doesn't have enough zombies in it should shut up with the release of the season's fifth episode, 'Endure and Survive.' After a thrilling, tension-filled escape from Kansas City , Joel, Ellie, and some friends found themselves up again hundreds of zombies of all shapes and sizes. And even so, that was far from the scariest part of another excellent episode. Episode five of The Last of Us , 'Endure and Survive,' began in the past. It takes a few minutes to realize but the scenes of carnage we're witnessing are the people of Kansas City rising up and taking power away from FEDRA.
+
+
+***
+[Project Venkman and Gold Meets Golden Join Forces to Host a Celebrity VIP Experience Auction](http://www.businesswire.com/news/home/20230210005381/en/Project-Venkman-and-Gold-Meets-Golden-Join-Forces-to-Host-a-Celebrity-VIP-Experience-Auction/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LOS ANGELES--(BUSINESS WIRE)-- #charity--Project Venkman, in partnership with Gold Meets Golden, is excited to announce a celebrity VIP experience auction, benefitting Angel City Sports. The auction, which will end on February 28, will feature five unique packages, each offering a once-in-a-lifetime experience with a legend in their respective field. The auction features four tickets to a US Gymnastics Finals round at the Paris 2024 Olympic & Paralympic Games, a meet and greet with gymnastics le
+
+
+***
+!['Legacy blue checks will be removed': Latest Twitter update from Elon Musk](https://www.hindustantimes.com/ht-img/img/2023/02/11/1600x900/elon_musk_twitter_down_1675901772527_1676081487192_1676081487192.jpg "'Legacy blue checks will be removed': Latest Twitter update from Elon Musk")
+
+
+['Legacy blue checks will be removed': Latest Twitter update from Elon Musk](https://www.hindustantimes.com/technology/legacy-blue-checks-will-be-removed-latest-twitter-update-from-elon-musk-101676079489477.html)
+
+
+> Published on Feb 11, 2023 08:04 AM IST In India, the paid subscription for the blue tick is 650 per month on the website platform and 900 per month for Android and iOS users. (File) By Lingamgunta Nirmitha Rao | Edited by Poulomi Ghosh Twitter boss Elon Musk on Friday said legacy blue tick marks will be removed soon as those with legacy blue ticks are "truly corrupt". The statement came in reply to a question of a user named Ria from India who said blue ticks are now jokes as they can be obtained by payment now.
+
+
+***
+![Reviewers rave for ‘Hogwarts Legacy' video game despite backlash](https://scx1.b-cdn.net/csz/news/800a/2023/the-harry-potter-unive.jpg "Reviewers rave for ‘Hogwarts Legacy' video game despite backlash")
+
+
+[Reviewers rave for ‘Hogwarts Legacy' video game despite backlash](https://newsakmi.com/news/tech-news/software/reviewers-rave-for-hogwarts-legacy-video-game-despite-backlash/)
+
+
+> The ‘Harry Potter' universe is still growing, with the release of the ‘Hogwarts Legacy' video game in February 2023. The highly anticipated video game 'Hogwarts Legacy' was met with largely positive reviews after its release Friday, despite some gameplay quibbles and the controversy that has dogged the Wizarding World's original creator. In the game , developed by Avalanche Software and edited by Warner Bros' Portkey Games, players virtually explore the 'Harry Potter' universe as a student attending the magical Hogwarts School of Witchcraft and Wizardry in the 1800s.
+
+
+***
+![Fed Governor warns crypto investors: ‘Don't expect taxpayers to socialize your losses'](https://images.mktw.net/im-669717/social "Fed Governor warns crypto investors: ‘Don't expect taxpayers to socialize your losses'")
+
+
+[Fed Governor warns crypto investors: ‘Don't expect taxpayers to socialize your losses'](https://newsakmi.com/news/finance/stock-market/fed-governor-warns-crypto-investors-dont-expect-taxpayers-to-socialize-your-losses/)
+
+
+> Federal Reserve Gov. Christopher Waller on Friday fired off a warning about the risks of cryptocurrencies, saying they are 'nothing more than a speculative asset, like a baseball card.' 'If you buy crypto-assets and the price goes to zero at some point, please don't be surprised and don't expect taxpayers to socialize your losses,' Waller said in a speech at a conference held by the Global Interdependence Center on Friday. Waller made the comments as regulators begin to take more actions to increase the supervision of the crypto market, after a number of major companies collapsed in recent months, resulting in billions of dollars in customer losses and shaking the fledgling industry.
+
+
+***
+![Unlike the first HomePod, the new model is not a nightmare to open up](https://cdn.arstechnica.net/wp-content/uploads/2023/02/HomePod-woofer-760x380.png "Unlike the first HomePod, the new model is not a nightmare to open up")
+
+
+[Unlike the first HomePod, the new model is not a nightmare to open up](https://newsakmi.com/news/tech-news/product-reviews/unlike-the-first-homepod-the-new-model-is-not-a-nightmare-to-open-up/)
+
+
+> Opening up the new HomePod is a lot easier than opening the previous model. The woofer in the HomePod is something to behold; you can see it in action in the video. iFixit found a large heatsink. iFixit has published a short video of a teardown of the new, second-generation HomePod that launched on February 3 for $299. There's perhaps not as much to see as there is in an iPhone or Mac teardown, but the important thing is that it's relatively good news for repair shops or users who want to go the DIY repair route.
+
+
+***
+![All Demiguise statue locations in Hogwarts Legacy](https://cdn.vox-cdn.com/thumbor/0yc8yz2cQlxNYS0m2z8de98Umrc=/0x0:1600x900/1200x0/filters:focal(0x0:1600x900):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24423601/PFigDemi.png "All Demiguise statue locations in Hogwarts Legacy")
+
+
+[All Demiguise statue locations in Hogwarts Legacy](https://newsakmi.com/news/tech-news/video-games/all-demiguise-statue-locations-in-hogwarts-legacy/)
+
+
+> In Hogwarts Legacy , you'll come across many Demiguise statues — golden figures that resemble a cross between a sloth and an ape, each one holding onto a moon-shaped trinket. You can't collect these until completing the main story quest 'The Caretaker's Lunar Lament,' in which caretaker Gladwin Moon teaches you Alohomora to take down the statues and collect their moons. To upgrade Alohomora so you can unlock higher level locks, you'll need to find more Demiguise statues and return their moons to Gladwin.
+
+
+***
+![This Facebook executive's $4 million stock sale could be another sign of Meta's rebound](https://images.mktw.net/im-722670/social "This Facebook executive's $4 million stock sale could be another sign of Meta's rebound")
+
+
+[This Facebook executive's $4 million stock sale could be another sign of Meta's rebound](https://newsakmi.com/news/finance/stock-market/this-facebook-executives-4-million-stock-sale-could-be-another-sign-of-metas-rebound/)
+
+
+> A Meta Platforms Inc. executive's multimillion-dollar stock sale could be another sign that things are returning to normal at the social-media company. Chief Business Officer Marne Levine sold $4.45 million worth of Meta shares META, -2.12% Tuesday, according to a Thursday afternoon filing with the Securities and Exchange Commission. It was the first substantial sale by a Meta executive this year. The sale was related to a Rule 10b5-1 trading plan, which triggers sales at a certain price or time depending on the conditions.
+
+
+***
+![LEGEND OF VOX MACHINA Season 2 Ep. 10-12 Finale Breakdown & Easter Eggs](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2023/02/10175949/20230210_nerdistnews_voxmachinaep10-12_1920x1080_v1.jpg "LEGEND OF VOX MACHINA Season 2 Ep. 10-12 Finale Breakdown & Easter Eggs")
+
+
+[LEGEND OF VOX MACHINA Season 2 Ep. 10-12 Finale Breakdown & Easter Eggs](https://nerdist.com/watch/video/legend-of-vox-machina-season-2-ep-10-12-finale-breakdown-easter-eggs/)
+
+
+> Watch > Shows > Nerdist News > Video MCU Timeline Part 1: The Best Way to Watch Phase 1 (Nerdist News w\/ Hector Navarro)<\>","video_type":"youtube","video_source":"TKVpSmpBOdo"} class=dfw-unit data-adunit=nerdist data-size-mapping=mapping3> \
+
+
+***
+![The 'Manpower' announces job opportunities with lucrative salaries in several governorates..Details](https://img.youm7.com/large/202301280414221422.jpg "The 'Manpower' announces job opportunities with lucrative salaries in several governorates..Details")
+
+
+[The 'Manpower' announces job opportunities with lucrative salaries in several governorates..Details](https://www.world-today-news.com/the-manpower-announces-job-opportunities-with-lucrative-salaries-in-several-governorates-details/)
+
+
+> The periodic employment bulletin issued by the Ministry of Manpower revealed the availability of job opportunities for young people of both sexes in a number of private sector companies in Qalyubia Governorate, with good salaries, to apply for them during the current month of February 2023. In the following lines, 'The Seventh Day' explains the available job opportunities. 1- Job opportunities in a private company on Sandbis Road required functions -20 production workers Terms and benefits Age: 21 – 38 years Salary: 2400 pounds 2- Job opportunities in one of the paint factories in the industrial area required jobs – 20 production workers Terms and benefits Age: 35 years Salary: 2800 pounds 3- Job opportunities in a company in the industrial area required functions – 10 press technicians – 3 years experience – 5 injection technicians – 3 years experience – 5 electrical appliances maintenance technicians – two years experience – 2 electrostatic technician – two years experience – 2 Electric Welders – 3 years experience Electrician – Control Technician – 5 years experience – 15 electrical equipment assembly technician – two years experience Terms and benefits Qualification: Intermediate Age: 30-35 years Salary: 2400 pounds 4- Job opportunities in a ready-made garment company on the Cairo-Alexandria Agricultural Road – Qalyub required jobs – 15 quality supervisors – highly qualified or above average – salary 3000 pounds -10 Orleans workers – salary 2800 pounds – 10 more workers – the salary is 2500 pounds – 15 singer workers – salary 2600 pounds – 8 iron workers – salary 2400 pounds the conditions Age: 24-28 years The Ministry of Manpower stated that everyone who wishes to fill the available jobs should go to the Ministry of Manpower – 3 Youssef Abbas Street – Nasr City, or contact the phone numbers 22403571 – 22609354, or go to the directorates affiliated with the ministry, or the labor offices affiliated to the directorates.
+
+
+***
+![Apple may restrict third-party USB-C cables from working with iPhone 15](https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https://www.iphones.ru/wp-content/uploads/2023/02/iPhone-15-to-Switch-From-Lightning-to-USB-C-in-2023-feature-sans-arrow.jpg "Apple may restrict third-party USB-C cables from working with iPhone 15")
+
+
+[Apple may restrict third-party USB-C cables from working with iPhone 15](https://www.world-today-news.com/apple-may-restrict-third-party-usb-c-cables-from-working-with-iphone-15/)
+
+
+> Apple is planning to develop MFi certification for third-party USB-C cables that will be designed to charge the iPhone 15, according to an anonymous user. Weibo. If so, then Apple could create a microchip to control and manage the exchange of information between devices. The same chip is used in all certified Lightning cables. When connected to an iPhone, it 'tells' the smartphone that this is a genuine accessory, and not a Chinese copy. If the cable is not equipped with the appropriate chip, after a while it may stop working with the iPhone, and a warning will appear on the device screen This accessory is not supported.
+
+
+***
+![Soo-Hong Park ♥ Da-Ye Kim 'Following the wishes of the father-in-law… Donation of wedding congratulatory money to the orphanage'](https://thumb.mt.co.kr/06/2023/02/2023021109202274649_1.jpg/dims/optimize/ "Soo-Hong Park ♥ Da-Ye Kim 'Following the wishes of the father-in-law… Donation of wedding congratulatory money to the orphanage'")
+
+
+[Soo-Hong Park ♥ Da-Ye Kim 'Following the wishes of the father-in-law… Donation of wedding congratulatory money to the orphanage'](https://www.world-today-news.com/soo-hong-park-%e2%99%a5-da-ye-kim-following-the-wishes-of-the-father-in-law-donation-of-wedding-congratulatory-money-to-the-orphanage/)
+
+
+> photo">Broadcasters Park Soo-Hong and Kim Da-Ye said they would visit an orphanage and donate wedding money. /Photo = Captured from KBS 2TV's ‘Pyeon Restaurant' Broadcasters Park Soo-Hong and Kim Da-Ye said they would visit an orphanage and donate wedding money. In KBS 2TV's ‘Pyeonstorang' (Pyeonstorang), which aired on the 10th, Park Soo-hong and his wife Da-ye Kim visited the nursery school they had supported for 20 years and decided to donate wedding congratulatory money to repay the support and love they received from many people.
+
+
+***
+![[D] Hierarchical Clustering](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[D] Hierarchical Clustering")
+
+
+[[D] Hierarchical Clustering](https://www.reddit.com/r/MachineLearning/comments/10z96m2/d_hierarchical_clustering_transforming_the)
+
+
+> Hi all, I have a question regarding interpreting the distance on a dendrogram generated via agglomerative hierarchical clustering with a Euclidean distance metric using the ward-variance minimization linkage (as stated in SciPy: https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.linkage.html#scipy.cluster.hierarchy.linkage ). From my understanding, the distance represents the square root of the difference of the error sum of squares of two clusters once they are merged minus the sum of the error sum of squares of each individual cluster.
+
+
+***
+![Suns win Kevin Durant, lose Mikel Bridges in fight for championship](https://basket-count.com/wp-content/uploads/2023/02/bri0211.jpg "Suns win Kevin Durant, lose Mikel Bridges in fight for championship")
+
+
+[Suns win Kevin Durant, lose Mikel Bridges in fight for championship](https://www.world-today-news.com/suns-win-kevin-durant-lose-mikel-bridges-in-fight-for-championship/)
+
+
+> Trade 'Best Offensive Machine' and 'Best Killer Defender' After failing to acquire Kyrie Irving, the Suns acquired Kevin Durant in a trade, resulting in more strength than Irving. So far, they have struggled with 30 wins and 27 losses, but with the formation of a gorgeous quartet of Devin Booker, Chris Paul, and Deandre Ayton, it will be a fight to win only from here. Durant will have a harder time finding what he can't do offensively and will fit straight into the wing position without any problems.
+
+
+***
+![It is better if the Hajj subsidies are not large so that the BPKH funds do not go bankrupt](https://awsimages.detik.net.id/api/wm/2023/01/22/ilustrasi-haji_169.jpeg?wid=54&w=650&v=1&t=jpeg "It is better if the Hajj subsidies are not large so that the BPKH funds do not go bankrupt")
+
+
+[It is better if the Hajj subsidies are not large so that the BPKH funds do not go bankrupt](https://www.world-today-news.com/it-is-better-if-the-hajj-subsidies-are-not-large-so-that-the-bpkh-funds-do-not-go-bankrupt/)
+
+
+> Jakarta – Vice President (Wapres) Ma'ruf Amin, considered that the benefits of the 59% haj fund or haj subsidy were too great. PBNU agree. 'Indeed, subsidies should not be too large so that there is no bankruptcy of the BPKH (Hajj Financial Management Agency) funds,' PBNU chairman Ahmad Fahrur Rozi or Gus Fahrur told journalists, Friday (10/2/2023). According to Fahrur, the DPR RI needs to sit down with the Ministry of Religion and BPKH. That way, the formulation of the amount of pilgrimage costs can be optimal.
+
+
+***
+![Cybercriminals bypass ChatGPT restrictions to make malware worse, phishing emails better](https://www.rappler.com/tachyon/2023/02/ChatGPT-openai-shutterstock.jpg "Cybercriminals bypass ChatGPT restrictions to make malware worse, phishing emails better")
+
+
+[Cybercriminals bypass ChatGPT restrictions to make malware worse, phishing emails better](https://www.rappler.com/technology/cybercriminals-bypass-openai-chatgpt-restrictions/)
+
+
+> Researchers with CheckPoint say cybercriminals can bypass ChatGPT's barriers, and create malicious content, like phishing emails and malware code, using it MANILA, Philippines – Cybercriminals are finding ways to get past restrictions to OpenAI's ChatGPT artificial intelligence (AI) tool, allowing them to make AI-powered improvements to malware code or phishing emails. Cybersecurity company CheckPoint said in a February 7 blog post that its researchers found an instance of cybercriminals using ChatGPT to improve on the code of a piece of 2019 malware known as InfoStealer.
+
+
+***
+![Stocks end mostly higher, but S&P 500, Nasdaq book worst weekly losses since December](https://images.mktw.net/im-707475/social "Stocks end mostly higher, but S&P 500, Nasdaq book worst weekly losses since December")
+
+
+[Stocks end mostly higher, but S&P 500, Nasdaq book worst weekly losses since December](https://newsakmi.com/news/finance/stock-market/stocks-end-mostly-higher-but-sp-500-nasdaq-book-worst-weekly-losses-since-december/)
+
+
+> U.S. stocks closed mostly up Friday, with the S&P 500 turning higher in late afternoon trading, as investors weighed a report showing improved consumer sentiment and recent warnings from Federal Reserve officials that the battle to tame high inflation isn't done. Still, the S&P 500 and technology-laden Nasdaq Composite each saw their worst week since December, with the Nasdaq snapping a five-week win streak as traders await next week's January inflation report. Dow Jones Industrial Average DJIA, +0.
+
+
+***
+![Elon Musk Amazed by the Samsung Galaxy S23 Ultra Camera](https://asset.kompas.com/crops/nLu6rP3cBZBBx-cf0jCdUhAw7dU=/97x0:960x575/780x390/filters:watermark(data/photo/2020/03/10/5e6775b82d394.png,0,-0,1)/data/photo/2022/05/15/62810309457a8.jpg "Elon Musk Amazed by the Samsung Galaxy S23 Ultra Camera")
+
+
+[Elon Musk Amazed by the Samsung Galaxy S23 Ultra Camera](https://www.world-today-news.com/elon-musk-amazed-by-the-samsung-galaxy-s23-ultra-camera/)
+
+
+> KOMPAS.com – Samsung has launched its best phone for this year, which is none other than the Galaxy S23 Ultra. The flagship cellphone immediately caught the attention of netizens thanks to a 200 MP camera. One of the advantages of the 200 MP Galaxy S23 Ultra camera is being able to take pictures of the moon. In fact, Twitter and Tesla CEO Elon Musk was also amazed by the capabilities of the Galaxy S23 Ultra camera. It all started when a well-known YouTuber reviewer of gadgets, namely Marques Brownlee aka 'MKBHD' demonstrated the capabilities of the Galaxy S23 Ultra's 200 MP camera when photographing the moon at night.
+
+
+***
+![Flutterwave expands to North Africa with new payment licenses in Egypt](https://techmoran.com/wp-content/uploads/2023/02/Olugbenga-Agboola-Flutterwave.webp "Flutterwave expands to North Africa with new payment licenses in Egypt")
+
+
+[Flutterwave expands to North Africa with new payment licenses in Egypt](https://techmoran.com/2023/02/11/flutterwave-expands-to-north-africa-with-new-payment-licenses-in-egypt/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![Startup Ionblox Creates New Battery for EVs wtih Impressive Charging Times](https://1734811051.rsc.cdn77.org/data/images/full/420978/electric-car-sales-are-bright-spot-amid-industrys-slump.jpg "Startup Ionblox Creates New Battery for EVs wtih Impressive Charging Times")
+
+
+[Startup Ionblox Creates New Battery for EVs wtih Impressive Charging Times](https://www.techtimes.com/articles/287499/20230210/startup-ionblox-creates-new-battery-evs-impressive-charging-times.htm)
+
+
+> Inno Flores , Tech Times 10 February 2023, 08:02 pm EV battery maker Ionblox is set to create new batteries for Vertical Take-Off and Landing (VTOL) aircraft and electric vehicles. The company claims that these batteries can achieve up to 50 percent higher energy density, five times more power, and a charge of 10 minutes to 80 percent. (Photo : Christopher Furlong/Getty Images) LEEDS, ENGLAND - APRIL 26: A Hyundai Ioniq battery electric vehicle (BEV) charges at an Ionity GmbH electric car charging station at Skelton Lake motorway service area on April 26, 2022 in Leeds, England.
+
+
+***
+![Today's ‘Quordle' Answers And Clues For Saturday, February 11](https://www.mccourier.com/wp-content/uploads/2022/10/Todays-‘Quordle-Answers-And-Clues-For-Wednesday-October-12.jpg "Today's ‘Quordle' Answers And Clues For Saturday, February 11")
+
+
+[Today's ‘Quordle' Answers And Clues For Saturday, February 11](https://www.mccourier.com/todays-quordle-answers-and-clues-for-saturday-february-11/)
+
+
+> Quordle emblem displayed on a telephone display and Quordle sport displayed on a laptop computer display are seen in … [+] this illustration picture taken in Krakow, Poland on February 21, 2022. Quordle is a brand new phrase sport that's an alternative choice to Wordle. (Photograph by Jakub Porzycki/NurPhoto through Getty Photographs) NurPhoto through Getty Photographs Oh, hey, have a look at that! It's the weekend. Hope you've received some enjoyable stuff lined up. Should you occur to be on the lookout for an inclusive online game to play that isn't the one everybody's speaking about on the minute, I rounded up a bunch of suggestions in this thread .
+
+
+***
+![Crash Kitchen 'Recipe for Disaster' restaurant management simulation is free for a limited time, and EGS will keep it forever after receiving it](https://img.4gamers.com.tw/news-image/91b652d2-c009-440e-ab41-c7a63643599f.jpg "Crash Kitchen 'Recipe for Disaster' restaurant management simulation is free for a limited time, and EGS will keep it forever after receiving it")
+
+
+[Crash Kitchen 'Recipe for Disaster' restaurant management simulation is free for a limited time, and EGS will keep it forever after receiving it](https://www.world-today-news.com/crash-kitchen-recipe-for-disaster-restaurant-management-simulation-is-free-for-a-limited-time-and-egs-will-keep-it-forever-after-receiving-it-4gamers/)
+
+
+> The free game that Epic Games gave away this week is the restaurant management simulation game 'Recipe for Disaster', as long as you log in to the Epic Games Store store, you can get free permanent storage of the game. 'Recipe for Disaster' is a new simulation work launched by the independent team Dapper Penguin Studios in 2021. In the early access version, it features a high degree of freedom of custom cooking menu features. At the same time, players are required to manage staff configuration, restaurant ingredients and costs, and customer favorability.
+
+
+***
+![Reddit Hack Shows Limits of MFA, Strengths of Security Training](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png "Reddit Hack Shows Limits of MFA, Strengths of Security Training")
+
+
+[Reddit Hack Shows Limits of MFA, Strengths of Security Training](https://newsakmi.com/news/tech-news/cyber-security/reddit-hack-shows-limits-of-mfa-strengths-of-security-training/)
+
+
+> The latest hack of a well-known company highlights that attackers are increasingly finding ways around multifactor authentication (MFA) schemes — so employees continue to be an important last line of defense. On Jan. 9, Reddit notified its users that a threat actor had successfully convinced an employee to click on a link in an email sent out as part of a spearphishing attack, which led to 'a website that cloned the behavior of our intranet gateway, in an attempt to steal credentials and second-factor tokens.
+
+
+***
+![Programming with MIDI in Python](https://external-preview.redd.it/mE9ViwojgEsECsbfJHBzJ8Jmk7QXPnjMhc0L8bHBQvg.jpg?auto=webp&v=enabled&s=23d663285525d0f6807c6a3f98924fc06efeddab "Programming with MIDI in Python")
+
+
+[Programming with MIDI in Python](https://www.reddit.com/r/Python/comments/10z8tkn/programming_with_midi_in_python_getting_started)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Self-Driving Cars Will Be Awful for the Planet](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/10/4313c091cb391207f02f0a83170dc831.jpg?quality=80&resize=1280,720 "Self-Driving Cars Will Be Awful for the Planet")
+
+
+[Self-Driving Cars Will Be Awful for the Planet](https://www.gizmodo.com.au/2023/02/self-driving-cars-will-be-awful-for-the-planet/)
+
+
+> If you ask some people, electric cars that can drive themselves around town will be the saviour of the world. They'll cut out traffic accidents because there's no way an autonomous vehicle could ever go rogue, and their electric motors will dramatically cut emissions from our journeys. But, it turns out there are a whole load of ways in which the self-driving part of these miracle vehicles could actually be awful for the planet. According to a team of researchers from the Massachusetts Institute of Technology, there are a few different ways that self-driving cars might actually be bad for the environment.
+
+
+***
+![Download GB WhatsApp Pro Apk v14.10 by Sam Mods, Latest Version 2023 Anti Banned!](https://fin.co.id/upload/b844acfaf10b7f8deec96e6c93c8cb33.png "Download GB WhatsApp Pro Apk v14.10 by Sam Mods, Latest Version 2023 Anti Banned!")
+
+
+[Download GB WhatsApp Pro Apk v14.10 by Sam Mods, Latest Version 2023 Anti Banned!](https://www.world-today-news.com/download-gb-whatsapp-pro-apk-v14-10-by-sam-mods-latest-version-2023-anti-banned/)
+
+
+> Download GB WhatsApp Pro Apk v14.10 by Sam Mods, Latest Version 2023 Anti Banned – Following is the download link for the latest version of GB WhatsApp Pro apk (WA GB) 2023 for free by Sam Mods and get a variety of interesting features in it. GB WhatsApp Pro Apk v14.10 58.34 MB by Sam Mods is still in demand and sought after by some instant messaging users who want to experience the advanced features offered. READ ALSO: GB WhatsApp Pro v18.00 Download Link: You Can Set Unable to Receive Calls So You Don't Need to Uninstall Original WA The GB WA APK MOD application is the result of a modification of the original WhatsApp version carried out by third-party application developer modders.
+
+
+***
+![Women need science, and science needs women](https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/09-02-2023_Somaya-Faruqi-02.jpg/image770x420cropped.jpg "Women need science, and science needs women")
+
+
+[Women need science, and science needs women](https://www.world-today-news.com/women-need-science-and-science-needs-women/)
+
+
+> 'More women and girls in science equals more humane science,' said the UN Secretary-General, Antonio Guterres in his message on the occasion of the day, celebrated each year on February 11. ' Women and girls bring diversity to research, broaden the pool of scientists and expand the horizons of science and technology, for the benefit of all of us,' he said. According to him, the evidence is there: gender bias in science produces bad results, whether it's drug tests that treat women 's bodies as an aberration or search algorithms.
+
+
+***
+![Source: PayPal is pausing work on its stablecoin as regulators increase their scrutiny of cryptocurrencies and its key partner Paxos faces a probe in New York (Bloomberg)](http://www.techmeme.com/230210/i17.jpg "Source: PayPal is pausing work on its stablecoin as regulators increase their scrutiny of cryptocurrencies and its key partner Paxos faces a probe in New York (Bloomberg)")
+
+
+[Source: PayPal is pausing work on its stablecoin as regulators increase their scrutiny of cryptocurrencies and its key partner Paxos faces a probe in New York (Bloomberg)](https://newsakmi.com/news/tech-news/source-paypal-is-pausing-work-on-its-stablecoin-as-regulators-increase-their-scrutiny-of-cryptocurrencies-and-its-key-partner-paxos-faces-a-probe-in-new-york-bloomberg/)
+
+
+> Home / News / Tech / Source: PayPal is pausing work on its stablecoin as regulators increase their scrutiny of cryptocurrencies and its key partner Paxos faces a probe in New York (Bloomberg) Tech Sierra Mitchell Send an email 7 hours ago Less than a minute Related Articles
+
+
+***
+![Xiaomi and Apple Take Larger Market Share as Huawei User Base Drops](https://1734811051.rsc.cdn77.org/data/images/full/420986/xiaomi-and-apple-take-larger-market-share-as-huawei-user-base-drops.jpg "Xiaomi and Apple Take Larger Market Share as Huawei User Base Drops")
+
+
+[Xiaomi and Apple Take Larger Market Share as Huawei User Base Drops](https://www.techtimes.com/articles/287503/20230210/xiaomi-and-apple-take-larger-market-share-as-huawei-user-base-drops.htm)
+
+
+> Urian B. , Tech Times 10 February 2023, 08:02 pm Since the US banned Chinese tech giant Huawei in 2019, the company has had an uphill battle to remain in the smartphone business. Despite the ongoing restrictions, Huawei does continue to release new phones every year and markets these offerings to its shrinking consumer base.  Diversifying Into New Markets: Other Smartphone Companies Take Advantage of Huawei Losses  According to the story by Giz China , with Huawei losing millions of users worldwide, this has opened up the playing field for other competing smartphone companies.
+
+
+***
+![OnePlus Pad becomes the brand's first tablet computer, which breaks through with a strange screen ratio of 7:5? – ezone.hk – Technology Focus – Computer](https://resource01-proxy.ulifestyle.com.hk/res/v3/image/content/3455000/3457518/0209_26oneplus_00_1024.jpg "OnePlus Pad becomes the brand's first tablet computer, which breaks through with a strange screen ratio of 7:5? – ezone.hk – Technology Focus – Computer")
+
+
+[OnePlus Pad becomes the brand's first tablet computer, which breaks through with a strange screen ratio of 7:5? – ezone.hk – Technology Focus – Computer](https://www.world-today-news.com/oneplus-pad-becomes-the-brands-first-tablet-computer-which-breaks-through-with-a-strange-screen-ratio-of-75-ezone-hk-technology-focus-computer/)
+
+
+> OnePlus not only launches smartphones and earphones, but also tablet products. It is the first tablet OnePlus Pad announced by the brand. Although the appearance of OnePlus Pad is slightly similar to that of iPad, it is expected to stand out with its unique 7:5 screen ratio and 144Hz refresh rate. immediately click here use the App to watch more product unboxing videos The OnePlus Pad has an 11.6-inch screen size with a 7:5 screen ratio and 144Hz refresh rate. It is also equipped with MediaTek's Dimensity 9000 chip, 12GB memory and Dolby Atmos sound effects.
+
+
+***
+![5G towers appearing around Houston area has residents asking questions](https://cdn.abcotvs.com/dip/images/12797921_021023-ktrk-ewn-5g-towers-memorial-POL-erin-vid.jpg?w=1600 "5G towers appearing around Houston area has residents asking questions")
+
+
+[5G towers appearing around Houston area has residents asking questions](https://abc13.com/5g-towers-in-houston-what-is-5g-spring-memorial-chase/12797463/)
+
+
+> SPRING, Texas (KTRK) -- Imagine a 40-foot-tall pole popping up outside your home! It's happening in the Memorial Chase neighborhood in Spring. Neighbors say they don't know what they are, but they want them gone. "You wake up one morning, and you have a truck driver that wants to deliver a 40-foot pole in your front yard, and it's like, 'that's interesting,'" Don Cochran said with a raised eyebrow. 5G is the next generation of high-speed wireless technology. It uses smaller waves, so it can't get through walls as quickly as 4G technology.
+
+
+***
+[The Advanced Imaging Society Announces Winners of 13th Annual Lumiere Awards](http://www.businesswire.com/news/home/20230210005312/en/The-Advanced-Imaging-Society-Announces-Winners-of-13th-Annual-Lumiere-Awards/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LOS ANGELES--(BUSINESS WIRE)--The Advanced Imaging Society's Lumiere Awards, presented by Microsoft, awarded 23 statuettes for distinguished creative and technical achievement during its thirteenth annual awards ceremony today at the Beverly Hills Hotel. The theme for this year's show is 'Behind the Legend,' celebrating the creative teams behind the scenes who are creating legendary stories and characters for audiences the world over. The awards are voted for by members of the Hollywood creativ
+
+
+***
+![MBP 16' M1 or M2?](https://images.macrumors.com/social/?t=2380368&v=6 "MBP 16' M1 or M2?")
+
+
+[MBP 16' M1 or M2?](https://forums.macrumors.com/threads/mbp-16-m1-or-m2.2380368/)
+
+
+> Hello! It's time for me to upgrade my MBP 15' mid 2014. I was thinking of buying the new model, MBP 16' M2 Pro 16gb/1TB, but I just notice a major discount on the previous model, 16' M1 16gb/1TB. The new one cost exactly 30% more. In terms of VFM, what do think is better to go for? I mainly use Adobe CC — InDesign, Illustrator & Photoshop. Thanks for the help! Get the M1. M2 has smaller heatsink, slower SSD speeds.
+
+
+***
+![The love between BMW and Samsung has created a special S23 Ultra](https://www.svetandroida.cz/media/2023/02/galaxy-s23-ultra-bmw-m-edition--skt-772x434.jpg "The love between BMW and Samsung has created a special S23 Ultra")
+
+
+[The love between BMW and Samsung has created a special S23 Ultra](https://tekdeeps.com/the-love-between-bmw-and-samsung-has-created-a-special-s23-ultra/)
+
+
+> Special edition phones are not uncommon, and collaborations between brands also work across different industries. An example can be the merger between OnePlus and Mercedes, but even the Munich rival did not let the special editions of the iQOO phones put them to shame. Now it joins forces with Samsung, resulting in a special edition of the flagship Galaxy S23 Ultra. Unfortunately, the chances of buying in the Czech Republic are close to zero. Samsung Galaxy S23 Ultra BMW M Edition is a limited edition that will be available from South Korean operator SK Telecom.
+
+
+***
+![​​LG's New Miraclass LED Screen Seeks to Ditch Projectors on Cinemas](https://1734811051.rsc.cdn77.org/data/images/full/420984/lg-s-new-miraclass-led-screen-seeks-to-ditch-projectors-on-cinemas.png "​​LG's New Miraclass LED Screen Seeks to Ditch Projectors on Cinemas")
+
+
+[​​LG's New Miraclass LED Screen Seeks to Ditch Projectors on Cinemas](https://www.techtimes.com/articles/287502/20230210/lg-miraclass-led-screen-projectors-cinema.htm)
+
+
+> Teejay Boris , Tech Times 10 February 2023, 07:02 pm LG's new Miraclass LED 4K screen is likely to eventually bid farewell to projectors in smaller cinemas. The new LED technology of the South Korean tech giant is massive enough to cater to some theaters. ​​LG's New Miraclass LED Screen In this day and age, TVs at home have grown larger, with some nearly filling an entire wall, making it seem like a mini-cinema. But houses are mostly far from the sheer size of cinemas. So the latter comes with projectors to cover the giant screen needed in theaters.
+
+
+***
+![Transcend launches the professional-grade DrivePro Body 70 body-worn camera, the first choice for security guards, police, firefighters, and medical personnel on duty!](https://assets.nova.com.tw/nova-media/nova/nova-ab8a972d-28ad-4f84-b78a-f368cbed6c39.jpg "Transcend launches the professional-grade DrivePro Body 70 body-worn camera, the first choice for security guards, police, firefighters, and medical personnel on duty!")
+
+
+[Transcend launches the professional-grade DrivePro Body 70 body-worn camera, the first choice for security guards, police, firefighters, and medical personnel on duty!](https://www.world-today-news.com/transcend-launches-the-professional-grade-drivepro-body-70-body-worn-camera-the-first-choice-for-security-guards-police-firefighters-and-medical-personnel-on-duty-nova-information-plaza/)
+
+
+> The world 's leading brand of memory storage – Transcend Information, Inc. has launched the latest DrivePro Body 70 wearable camera, which is specially designed for police, fire, medical personnel and security personnel professionals. It has a lightweight detachable lens design, providing It is more flexible and convenient to wear when performing duties; it uses high-sensitivity components to capture high-resolution clear images, collects key records, and restores the current situation of the incident; a built-in GPS receiver records the trajectory and accurately grasps the location of the incident.
+
+
+***
+![Elretur buys over 400 containers](https://it-kanalen.dk/wp-content/uploads/2023/02/Namnlos-30.png "Elretur buys over 400 containers")
+
+
+[Elretur buys over 400 containers](https://tekdeeps.com/elretur-buys-over-400-containers/)
+
+
+> Electric return is making a strategic investment in its infrastructure, and the Funen company Nipa has received its largest order ever. Elretur, which is a non-profit organization and ensures responsible and cost-effective collection and handling of the electronic and battery waste that is delivered to the country's recycling sites, has purchased over 400 containers. The many containers were purchased from the Funen company Nipa from Tommerup, which produces lighting masts and containers. The first containers have been delivered, and the last will be delivered before 1 March 2024.
+
+
+***
+![Trump is back on Facebook](https://www.emerce.nl/content/uploads/2021/01/Trump-Shutter-2-430x400.png "Trump is back on Facebook")
+
+
+[Trump is back on Facebook](https://tekdeeps.com/trump-is-back-on-facebook/)
+
+
+> – Facebook and Instagram have, as previously announced, former President Trump again given access to their platforms. The former president of the United States faces tougher penalties if he breaks the rules again. A suspension of one month to two years may then follow. Trump was blocked by parent company Meta after posting inflammatory messages in the 2021 storming of supporters of the US Capitol. Whether Trump will use both platforms again is the question. Trump started his own social network Truth Social.
+
+
+***
+![Samsung Galaxy A54 and A34 in full leak. We know the appearance, equipment and European prices](https://smartmania.cz/wp-content/uploads/2022/07/990_450_Samsung_Galaxy_A53_colors.jpg "Samsung Galaxy A54 and A34 in full leak. We know the appearance, equipment and European prices")
+
+
+[Samsung Galaxy A54 and A34 in full leak. We know the appearance, equipment and European prices](https://www.world-today-news.com/samsung-galaxy-a54-and-a34-in-full-leak-we-know-the-appearance-equipment-and-european-prices/)
+
+
+> The Galaxy A54 and A34 will receive several intergenerational improvements Prices are said to rise slightly Last week, Samsung introduced the new flagship smartphones of the Galaxy S23 series, but the entry of the Korean company into 2023 is far from over. Soon we should expect to see the unveiling of the new generation of the best-selling mid-range models – the Galaxy A54 and A34. What will Samsung want to impress this year? This betrays the complete escapism he traditionally stands for German server WinFuture.
+
+
+***
+![Ban on some lending apps revoked](https://www.financialexpress.com/wp-content/uploads/2023/02/china-apps.webp "Ban on some lending apps revoked")
+
+
+[Ban on some lending apps revoked](https://www.financialexpress.com/life/technology/ban-on-some-lending-apps-revoked/2978478/)
+
+
+> The ministry of electronics and information technology (MeitY) has decided to revoke the ban on some digital lending apps which are fully compliant with the rules and do not have any Chinese links. Official sources said the decision to this effect was taken after the apps concerned appealed for a review and produced documents citing their compliance with the rules. The ban on at least 12 digital lending apps is understood to have been revoked and more may follow in coming weeks. Some of the players on whom the ban has been lifted include Kishht, PayU-backed LazyPay, Avail Finance, and Indiabulls Home Loans.
+
+
+***
+![Android 14 Offers PS5 DualSense Edge Controller Support](https://1734811051.rsc.cdn77.org/data/images/full/420976/android-14-offers-ps5-dualsense-edge-pro-controller-support.png "Android 14 Offers PS5 DualSense Edge Controller Support")
+
+
+[Android 14 Offers PS5 DualSense Edge Controller Support](https://www.techtimes.com/articles/287498/20230210/android-14-offers-ps5-dualsense-edge-controller-support.htm)
+
+
+> Urian B. , Tech Times 10 February 2023, 07:02 pm For gamers who own a PlayStation 5 and an Android device, the news that Sony's DualSense Edge controller will soon be compatible with the upcoming Android 14 is certainly a reason to celebrate.  Android 14 to Introduce Support for DualSense Edge Controller  According to the story by Giz China , Android 14 is set to introduce support for the DualSense Edge controller, allowing gamers to use it to play their favorite mobile games on a large screen with a familiar controller.
+
+
+***
+![Jabra Introduces PanaCast 50 Video Bar System to Facilitate Next Generation Hybrid Meeting Experience](https://assets.nova.com.tw/nova-media/nova/nova-27925699-9555-434a-a6c7-d972f818eff8.jpg "Jabra Introduces PanaCast 50 Video Bar System to Facilitate Next Generation Hybrid Meeting Experience")
+
+
+[Jabra Introduces PanaCast 50 Video Bar System to Facilitate Next Generation Hybrid Meeting Experience](https://www.world-today-news.com/jabra-introduces-panacast-50-video-bar-system-to-facilitate-next-generation-hybrid-meeting-experience/)
+
+
+> The Jabra PanaCast 50 Video Bar System is an Android collaboration bar that completes Jabra's portfolio of small and medium meeting room solutions Offers a full set of flexible, scalable deployment options with one-click launch/join controllers to deliver collaborative experiences on native UC applications such as Microsoft Teams Rooms and Zoom Rooms Offers all the features and functionality of the Jabra PanaCast 50, including panoramic 4K 180-degree field of view, virtual director, smart zoom and dynamic compositing Jabra, the leader in personal audio and office solutions, has launched the PanaCast 50 Video Bar System at ISE 2023 as part of the Jabra PanaCast 50 portfolio of small and medium meeting room solutions.
+
+
+***
+![Microsoft Office Home and Business 2021 install rant](https://images.macrumors.com/social/?t=2380367&v=6 "Microsoft Office Home and Business 2021 install rant")
+
+
+[Microsoft Office Home and Business 2021 install rant](https://forums.macrumors.com/threads/microsoft-office-home-and-business-2021-install-rant.2380367/)
+
+
+> Microsoft Office Home and Business 2021 1 use perpetual license. Installing Microsoft software on either macOS or Windows always seems to be a pain. It seems like Microsoft is trying to force 365 on users. I don't want any hint of 365 on my laptop. Microsoft seems to push 365 options even if all I want is the product I purchased. I purchased the Office 2021 key, went to the listed URL to download, entered the license key and downloaded the installer on my new M2 Max MacBook Pro. It would not install, not supported OS.
+
+
+***
+![Galaxy S23 Ultra Review: Better Than You Think!](https://external-preview.redd.it/jgn0JL_5DPcIHCHMe5eJ9m7g_Kg4xHcrg8KWf9gIl7k.jpg?auto=webp&v=enabled&s=49d57b7eb69198db63edc2158c8520f456867ade "Galaxy S23 Ultra Review: Better Than You Think!")
+
+
+[Galaxy S23 Ultra Review: Better Than You Think!](https://www.reddit.com/r/Android/comments/10z75g0/galaxy_s23_ultra_review_better_than_you_think)
+
+
+> Android news, reviews, tips, and discussions about rooting, tutorials, and apps. Generic discussion about phones/tablets is allowed, but technical-support, upgrade related questions or buy/sell posts, app recommendations and carrier-related issues should be asked in their respective subreddits!
+
+
+***
+![Treasure Trove of Over 1700 Mechanical Animations](https://img.youtube.com/vi/ObmXPNQhI1k/0.jpg "Treasure Trove of Over 1700 Mechanical Animations")
+
+
+[Treasure Trove of Over 1700 Mechanical Animations](https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations)
+
+
+> Whenever I watch videos of how things are made , I marvel at the cleverness of the manufacturing machines. Retired engineer Duc Thang Nguyen has created over 1700 3D animations showing how all sorts of different mechanisms work …gears, linkages, drives, clutches, and couplings. Here are a few examples to whet your appetite. (via make ) More about... Duc Thang Nguyen how to video
+
+
+***
+![The new Samsung Calendar is coming out. For example, they can do better sharing](https://www.svetandroida.cz/media/2023/02/samsung-kalendar-v124037000-novinky-sdileni-tmavy-rezim-kresleni.jpg "The new Samsung Calendar is coming out. For example, they can do better sharing")
+
+
+[The new Samsung Calendar is coming out. For example, they can do better sharing](https://www.world-today-news.com/the-new-samsung-calendar-is-coming-out-for-example-they-can-do-better-sharing/)
+
+
+> Samsung is sending the world a new version of its core Calendar app. It brings several visual and functional novelties. For example, users who like to share their calendar with other people can look forward to positive changes. We are talking about version v12.4.03.7000, which is already available in our region. The first announced news is automatic editing and saving of symbols drawn by the user in the Calendar with the S-Pen. The drawn marks will thus always have a standardized form. Just hold your pen on them after creating them.
+
+
+***
+![ISP Voneus Trial Gigabit Wireless Broadband in Rural Durham UK](https://www.ispreview.co.uk/wp-content/uploads/2022/06/nggallery_import/Voneus-Engineer-Van.jpg "ISP Voneus Trial Gigabit Wireless Broadband in Rural Durham UK")
+
+
+[ISP Voneus Trial Gigabit Wireless Broadband in Rural Durham UK](https://www.ispreview.co.uk/index.php/2023/02/isp-voneus-trial-gigabit-wireless-broadband-in-rural-durham-uk.html)
+
+
+> Saturday, Feb 11th, 2023 (12:01 am) - Score 0 Internet provider Voneus has just completed their first trial deployment of a new Fixed Wireless Access (FWA) broadband technology in a rural Hartlepool village – Dalton Piercy (County Durham, England), which they claim can offer gigabit broadband speeds to local homes and businesses. The village of Dalton Piercy is not a new location for Voneus because they had already deployed the previous generation of FWA technology in the community, which could offer download speeds of around 45Mbps.
+
+
+***
+![The best deals for the Samsung Galaxy S23 Ultra case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-samsung-galaxy-s23-ultra-case-deals.jpg "The best deals for the Samsung Galaxy S23 Ultra case")
+
+
+[The best deals for the Samsung Galaxy S23 Ultra case](https://www.world-today-news.com/the-best-deals-for-the-samsung-galaxy-s23-ultra-case/)
+
+
+> The brand new Samsung Galaxy S23 series has been unveiled and the devices are coming to their new owners. The Galaxy S23 Ultra is the latest flagship phone that everyone wants to get their hands on, and for good reason, it's a spectacular device. While all of the smartphones in the S23 line are great, the Ultra is the one that many people will choose because it has the best stats and the best camera. Samsung Galaxy S23 Ultra details The Samsung Galaxy S23 Ultra is one of the biggest phones currently available with its 6.
+
+
+***
+![Deploying Machine Learning Models with Docker and Kubernetes: A Guide to Efficient and Secure…](https://miro.medium.com/max/600/1*GUd7Tkv_XsculmB9hA24mA.jpeg "Deploying Machine Learning Models with Docker and Kubernetes: A Guide to Efficient and Secure…")
+
+
+[Deploying Machine Learning Models with Docker and Kubernetes: A Guide to Efficient and Secure…](https://uttamtarasariya.medium.com/deploying-machine-learning-models-with-docker-and-kubernetes-a-guide-to-efficient-and-secure-28d3e05893e0)
+
+
+> Machine learning models have revolutionized the way we approach problem-solving, but their impact can only be fully realized when they are deployed in real-world applications. Model deployment is a crucial step in the machine learning process, but it can be challenging, especially in terms of scalability, security, and automation. This is where Docker and Kubernetes come in. These powerful tools make it easy to package and deploy machine learning models, providing a secure and efficient solution for real-world applications.
+
+
+***
+![Samsung S23 Ultra vs. Apple iPhone 14 Pro, who is faster?The performance ladder map and the measured exposure are embarrassing  Mobile communication](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/02/10/0/20164861.jpg&s=Y&x=44&y=0&sw=816&sh=544&exp=3600 "Samsung S23 Ultra vs. Apple iPhone 14 Pro, who is faster?The performance ladder map and the measured exposure are embarrassing  Mobile communication")
+
+
+[Samsung S23 Ultra vs. Apple iPhone 14 Pro, who is faster?The performance ladder map and the measured exposure are embarrassing  Mobile communication](https://www.world-today-news.com/samsung-s23-ultra-vs-apple-iphone-14-pro-who-is-fasterthe-performance-ladder-map-and-the-measured-exposure-are-embarrassing-mobile-communication-digital/)
+
+
+> Samsung （ Samsung)and apple （ Apple)of cell phone The battle for supremacy has always been the focus of discussion outside. With the launch of the Samsung Galaxy S23 series, the two major manufacturers once again set off a 'processor performance war.' The Samsung Galaxy S23 series, which will be launched in Taiwan on February 24, uses the Snapdragon 8 Gen 2 Mobile Platform for Galaxy processor. The 'Mobile CPU Performance Ladder Chart' on the Chinese mainland website also clearly shows that the performance of the Snapdragon 8 Gen 2 'surpasses' Apple.
+
+
+***
+![Source: Microsoft shut its Industrial Metaverse Core team, formed four months ago to build tools for industrial settings, and laid off the team's 100 employees (Kevin McLaughlin/The Information)](http://www.techmeme.com/230210/i16.jpg "Source: Microsoft shut its Industrial Metaverse Core team, formed four months ago to build tools for industrial settings, and laid off the team's 100 employees (Kevin McLaughlin/The Information)")
+
+
+[Source: Microsoft shut its Industrial Metaverse Core team, formed four months ago to build tools for industrial settings, and laid off the team's 100 employees (Kevin McLaughlin/The Information)](https://newsakmi.com/news/tech-news/source-microsoft-shut-its-industrial-metaverse-core-team-formed-four-months-ago-to-build-tools-for-industrial-settings-and-laid-off-the-teams-100-employees-kevin-mclaughlin-the-information/)
+
+
+> Home / News / Tech / Source: Microsoft shut its Industrial Metaverse Core team, formed four months ago to build tools for industrial settings, and laid off the team's 100 employees (Kevin McLaughlin/The Information) Tech Sierra Mitchell Send an email 8 hours ago Less than a minute Related Articles
+
+
+***
+![Can Intermittent Fasting Help You Live Longer?](https://www.mccourier.com/wp-content/uploads/2023/02/Can-Intermittent-Fasting-Help-You-Live-Longer.jpg "Can Intermittent Fasting Help You Live Longer?")
+
+
+[Can Intermittent Fasting Help You Live Longer?](https://www.mccourier.com/can-intermittent-fasting-help-you-live-longer/)
+
+
+> Intermittent fasting is exclusive to different types of weight-reduction plan as a result of you don't essentially must … [+] change what you eat to see outcomes. getty New analysis means that one of the crucial efficient weight reduction methods could also be to not change what you eat, however slightly, when. Time restricted consuming, a type of intermittent fasting, offers you much less alternative to eat all through the day. In periods of extended fasting, energy from the earlier meal are exhausted, forcing the physique to begin burning physique fats.
+
+
+***
+![Jony Ive's latest design is the emblem for King Charles' coronation](https://cdn.vox-cdn.com/thumbor/P-uBGMa3ioOdKfJWvPkNWiWWzU4=/0x0:2000x1500/1200x628/filters:focal(1000x750:1001x751)/cdn.vox-cdn.com/uploads/chorus_asset/file/24424634/Seal.jpg "Jony Ive's latest design is the emblem for King Charles' coronation")
+
+
+[Jony Ive's latest design is the emblem for King Charles' coronation](https://www.theverge.com/2023/2/10/23595028/jony-ive-lovefrom-king-charles-iii-coronation-emblem)
+
+
+> Jony Ive and his design firm LoveFrom designed the emblem for the coronation of King Charles III, according to a new page on the Royal Family's website . The emblem will be used throughout the festivities surrounding the king's coronation in May and on official coronation merchandise. 'It is such an honour to be able to contribute to this remarkable national occasion, and our team is so very proud of this work,' Ive said in a statement about the emblem. 'The design was inspired by King Charles' love of the planet, nature, and his deep concern for the natural world.
+
+
+***
+![Introduction to YAML](https://miro.medium.com/max/1200/1*iHCaf9fUQ_96lwOi-SlbaA.png "Introduction to YAML")
+
+
+[Introduction to YAML](https://medium.com/@saadmansuri.work/introduction-to-yaml-2cb457a2d38f)
+
+
+> You can get all the files on my GitHub Repo: Saad/DevOps-Material What is YAML Exactly? YAML is like the A, B, C, and D of DevOps as it is needed in Kubernetes, Cloud computing and many different softwares which are used in the field of DevOps daily. It is very similar to JSON and XML. YAML file extension can be .YAML or .YML, both work. Previously the Full form of YAML was ‘Yet Another Markup Language' but now it has been changed to ‘YAML Ain't Markup Language'. Since it is not just a markup language anymore.
+
+
+***
+![Daily Deal: Buy your Galaxy S23 charger for 43% off](https://www.sammobile.com/wp-content/uploads/2023/02/Samsung-Galaxy-S23-Plus-02.jpg "Daily Deal: Buy your Galaxy S23 charger for 43% off")
+
+
+[Daily Deal: Buy your Galaxy S23 charger for 43% off](https://www.sammobile.com/buy-your-galaxy-s23-charger-for-43-off/)
+
+
+> Samsung has launched the Galaxy S23 series and while it normally unveils new earbuds alongside the flagships, the new handsets weren't accompanied by new earbuds this time around. The Galaxy Buds 2 Pro thus remain Samsung's latest earbuds for some time. Launched last year, the Galaxy Buds 2 Pro deliver superior sound, best-in-class active noise […] By Adnan Farooqui 1 day ago The first Galaxy S23 Ultra teardown videos are in, and it looks like Samsung has indeed addressed one of the worst aspects that negatively affected the repairability scores of its flagship phones.
+
+
+***
+![Google employees are internally mocking the company's Bard AI chatbot announcement, calling it 'rushed' and 'botched' in series of memes, report says](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Google employees are internally mocking the company's Bard AI chatbot announcement, calling it 'rushed' and 'botched' in series of memes, report says")
+
+
+[Google employees are internally mocking the company's Bard AI chatbot announcement, calling it 'rushed' and 'botched' in series of memes, report says](https://www.reddit.com/r/technology/comments/10z4rod/google_employees_are_internally_mocking_the)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
