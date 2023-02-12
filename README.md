@@ -15847,3 +15847,823 @@
 > Add a colourful twist to your curd rice These quick tips will help keep strawberry legs at bay How does alcohol affect your health When is Holi Festival in 2023? Click or Scan here to read the article
 
 
+***
+![Google and Microsoft are responding to ChatGPT this week…and other small business tech news](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/12075015/1676213412_0x0-800x505.jpg "Google and Microsoft are responding to ChatGPT this week…and other small business tech news")
+
+
+[Google and Microsoft are responding to ChatGPT this week…and other small business tech news](https://shepherdgazette.com/google-and-microsoft-are-responding-to-chatgpt-this-week-and-other-small-business-tech-news/)
+
+
+> Signs displayed on a screen on Google's website are seen in this illustrative photo taken in Kraków, Poland, on February 6, 2023. (Photo by Jakub Porzycki/NurPhoto via Getty Images) Only Photo via Getty Images Here are five tech things that happened this week and how they're affecting your business. did you miss her 1 – Google shows more of what its ChatGPT competitor Bard can do. Next-generation Internet search capabilities were unveiled in a live stream in Paris on Wednesday. Bard – Google's answer to ChatGPT from Microsoft's OpenAI – was demonstrated by Prabhakar Raghavan, Senior VP at Google.
+
+
+***
+![13 Roles Every Tech Department Should Have on Staff](https://smallbiztrends.com/ezoimgfmt/media.smallbiztrends.com/2023/02/roles-every-tech-department-should-have-on-staff.png?ezimgfmt=ng%3Awebp%2Fngcb12%2Frs%3Adevice%2Frscb12-1 "13 Roles Every Tech Department Should Have on Staff")
+
+
+[13 Roles Every Tech Department Should Have on Staff](https://newsakmi.com/news/business/entrepreneur/13-roles-every-tech-department-should-have-on-staff/)
+
+
+> In today's digitally driven world, tech departments are often the ones driving companies forward. It makes sense, then, that organizations would want to prioritize this team's hiring budget and build out a robust department with distinct roles and skill sets. While it may take some time to add all the positions you need to your tech department, there are a few key roles every business should focus on filling first. To that end, a panel of Young Entrepreneur Council (YEC) members weighed in on the following question: 'When building out your company's tech department, what's one important role you should be sure to include? What value does this position bring to the business?' Here are the top roles they recommend.
+
+
+***
+![‘The Morning Show' Cast Wraps Season 3: See Behind-the-Scenes Photos](https://www.tvinsider.com/wp-content/uploads/2023/02/the-morning-show-jennifer-aniston-reese-witherspoon-1014x570.jpg "‘The Morning Show' Cast Wraps Season 3: See Behind-the-Scenes Photos")
+
+
+[‘The Morning Show' Cast Wraps Season 3: See Behind-the-Scenes Photos](https://newsakmi.com/news/entertainment/tv-news/the-morning-show-cast-wraps-season-3-see-behind-the-scenes-photos/)
+
+
+> The third season of the The Morning Show is one step closer to your television set. As cast members have revealed on Instagram, they've finished filming the upcoming season of the Apple TV+ drama. The official Apple TV+ Twitter account announced a wrap The Morning Show 's third season on Saturday, February 11, sharing the above photo of Jennifer Aniston and Reese Witherspoon — who play anchors Alex Levy and Bradley Jackson, respectively — with their arms around each other as they face a clapperboard.
+
+
+***
+![1-Stop Shop! The Immersive QVC Fashion 360 Event Is Back for Spring](https://iknowallnews.com/wp-content/uploads/2023/02/1-Stop-Shop-The-Immersive-QVC-Fashion-360-Event-Is-Back-for-Spring.jpg "1-Stop Shop! The Immersive QVC Fashion 360 Event Is Back for Spring")
+
+
+[1-Stop Shop! The Immersive QVC Fashion 360 Event Is Back for Spring](https://iknowallnews.com/lifestyle/1-stop-shop-the-immersive-qvc-fashion-360-event-is-back-for-spring/)
+
+
+> Home » Lifestyle » 1-Stop Shop! The Immersive QVC Fashion 360 Event Is Back for Spring Content created in partnership with QVC. Us Weekly receives compensation for this article as well as for purchases made when you click on a link and buy something below. While we may still be waiting for winter to end, spring has officially sprung over at QVC. It's time to start building out your 2023 spring wardrobe so your closet is set by the time the seasons start to change. New tops, bottoms, dresses, bags, shoes — we want it all! That's why we're so excited to reveal the return of QVC's Fashion 360.
+
+
+***
+![Raptors vs. Pistons: How to watch live stream, TV channel, NBA start time](https://sportshub.cbsistatic.com/i/2022/01/19/bb699609-e09b-4b1b-a474-470473264bf4/generic-nba-basketball.jpg "Raptors vs. Pistons: How to watch live stream, TV channel, NBA start time")
+
+
+[Raptors vs. Pistons: How to watch live stream, TV channel, NBA start time](https://newsakmi.com/sports-news/nba-news/raptors-vs-pistons-how-to-watch-live-stream-tv-channel-nba-start-time/)
+
+
+> Detroit @ Toronto Current Records: Detroit 15-42; Toronto 26-31 This Sunday, the Detroit Pistons are hoping to patch up the holes in a defense that has allowed an average of 119.75 points per contest. They will square off against the Toronto Raptors at 3 p.m. ET Sunday at Scotiabank Arena. Detroit should still be feeling good after a win, while Toronto will be looking to get back in the win column. It may have taken double overtime to finish the job, but the Pistons ultimately got the result they were hoping for this past Friday with a 138-131 victory over the San Antonio Spurs.
+
+
+***
+![As Bestas the big winner at Spain's Goya film awards](https://static.euronews.com/articles/stories/07/39/38/84/1000x563_cmsv2_052e8731-f4fa-588e-a396-23f7a4f5878f-7393884.jpg "As Bestas the big winner at Spain's Goya film awards")
+
+
+[As Bestas the big winner at Spain's Goya film awards](https://newsakmi.com/news/world/europe-news/as-bestas-the-big-winner-at-spains-goya-film-awards/)
+
+
+> The rural drama 'As Bestas' was the big winner at the Goya ceremony, Spain's equivalent of the Oscars, which on Saturday night also honoured its lead actor, Frenchman Denis Ménochet, and paid tribute to director Carlos Saura, who died the day before at 91. Rodrigo Sorogoyen's feature film, starring French actors Marina Foïs and Denis Ménochet, won a total of nine awards, including best Spanish film, best director and best original screenplay. 'To be a good director, besides always looking at Carlos Saura, you have to surround yourself with the best team possible.
+
+
+***
+![Hogwarts Legacy Renews That Classic Harry Potter Magic](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA179VYv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Hogwarts Legacy Renews That Classic Harry Potter Magic")
+
+
+[Hogwarts Legacy Renews That Classic Harry Potter Magic](http://www.msn.com/en-us/news/technology/hogwarts-legacy-renews-that-classic-harry-potter-magic/ar-AA179NRX)
+
+
+> Playing Hogwarts Legacy instantly reminds me few fictional worlds are as bewitching as Harry Potter's. In 1998, my mum handed me a copy of Philosopher's Stone -- published under the lesser name Sorcerer's Stone in the US -- and that opening chapter awakened a sense of wonder. I was hooked for life. Or so I thought. After the core book series wrapped up and there were no more movie adaptations coming, my emotional connection diminished. The overstuffed spinoffs, along with author J.K. Rowling's inflammatory comments about transgender people, sucked the remaining fun out of the franchise, and I figured it was time to move on.
+
+
+***
+![Villarreal vs. Barcelona live stream: La Liga prediction, TV channel, how to watch online, time, news, odds](https://sportshub.cbsistatic.com/i/r/2023/02/12/794b8724-4ed0-43a7-9b9b-a968e7020eb5/thumbnail/770x433/595935a46646e561f4b64d9f9825d548/barca-3.jpg "Villarreal vs. Barcelona live stream: La Liga prediction, TV channel, how to watch online, time, news, odds")
+
+
+[Villarreal vs. Barcelona live stream: La Liga prediction, TV channel, how to watch online, time, news, odds](https://newsakmi.com/sports-news/soccer-news/villarreal-vs-barcelona-live-stream-la-liga-prediction-tv-channel-how-to-watch-online-time-news-odds/)
+
+
+> Getty Images Barcelona can grow their lead atop La Liga to 11 points with a victory over a struggling Villarreal side on Sunday. Coming off of a comprehensive victory versus Sevilla, Barcelona have now won 10 consecutive matches in all competitions while Villarreal have lost two straight to fall down to eighth in the table. Here's our storylines, how you can watch the match and more: How to watch and odds Date : Sunday, Feb. 12 |  Time : 3 p.m. ET Location : Estadio de la Ceramica — Villarreal, Spain TV:  None  |  Live stream: ESPN+ Odds:  Villarreal +360; Draw +280; Barcelona -140 (via Caesars Sportsbook)  Storylines Villarreal:  Stopping Barcelona is hard enough but what former Barca boss Quique Setien will be more worried about is breaching Barcelona's defense.
+
+
+***
+![The Big 3 US Airlines' Carry-On Baggage Restrictions](https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2023/02/american-airlines-boeing-787-9-dreamliner-n840an-4.jpg "The Big 3 US Airlines' Carry-On Baggage Restrictions")
+
+
+[The Big 3 US Airlines' Carry-On Baggage Restrictions](https://newsakmi.com/travel-news/the-big-3-us-airlines-carry-on-baggage-restrictions/)
+
+
+> Airline policies concerning baggage restrictions can change frequently, making it difficult for travelers to keep up. If you're planning to fly with any of the 'Big Three' in the United States, here is a rundown of the airlines' current policies on carry-on luggage. American Airlines American recently changed its carry-on baggage policy to allow travelers booked in Basic economy class to bring one free carry-on bag in addition to one personal item to all destinations. Bags must fit in the sizer at the airport and be no larger than the standard carry-on dimensions of 22 x 14 x 9 inches.
+
+
+***
+![I ticked off the creepy people search sites, and you can too](https://static.foxnews.com/foxnews.com/content/uploads/2023/02/GettyImages-1134624698.jpg "I ticked off the creepy people search sites, and you can too")
+
+
+[I ticked off the creepy people search sites, and you can too](https://www.foxnews.com/tech/i-ticked-off-creepy-people-search-sites-and-you-can-too)
+
+
+> My son asked me where I lived for a few months in Los Angeles over 25 years ago. It was a gig working for Unisys that was far from memorable. He found that address at a free people search site, along with my other addresses and cell phone numbers. Nice. That's what inspired my widely successful Opt-Out Tuesday series at Komando.com. Every Tuesday, we walk you through all the steps to remove your personal information from a different people search site. It's been a ton of work, as these sites don't make it easy.
+
+
+***
+![A look back at the best Super Bowl halftime shows in history](https://iknowallnews.com/wp-content/uploads/2023/02/A-look-back-at-the-best-Super-Bowl-halftime-shows-in-history.jpg "A look back at the best Super Bowl halftime shows in history")
+
+
+[A look back at the best Super Bowl halftime shows in history](https://iknowallnews.com/celebrities/a-look-back-at-the-best-super-bowl-halftime-shows-in-history/)
+
+
+> Rihanna is set to stun audiences this weekend as she takes to the stage to perform at the Super Bowl LVII at State Farm Stadium, Glendale, Arizona – and the stakes for the Barbadian pop star have never been higher. The Umbrella singer is following in the footsteps of some music's biggest stars – including Madonna and Prince – who have taken on the challenge of putting on a showstopping performance that will usually range between just 12 to 15 minutes. Known to be an increasingly elaborate show each year, the halftime performance is for some audience the main attraction of the NFL game.
+
+
+***
+![Two Hogwarts Legacy soundtracks available to stream](https://gonintendo.com/attachments/image/23154/file/medium-c6e045c245016c9541e133a3df2234f0.jpg "Two Hogwarts Legacy soundtracks available to stream")
+
+
+[Two Hogwarts Legacy soundtracks available to stream](https://gonintendo.com/contents/16168-two-hogwarts-legacy-soundtracks-available-to-stream)
+
+
+> Chill beats to cast spells to Switch owners won't be able to enjoy Hogwarts Legacy until July 2023, so what are we supposed to do until then? Why not stream some music from the game in preparation? Warner Bros. has announced that two different Hogwarts Legacy albums have been released, and both are available to stream on multiple platforms. The Hogwarts Legacy (Original Video Game Soundtrack) and Hogwarts Legacy (Study Themes from the Original Video Game Soundtrack) have both popped up online, and you can find them on Apple Music, Spotify, and many others.
+
+
+***
+![An Amazon Kindle near-disaster almost brought me back to books](https://cdn.mos.cms.futurecdn.net/UEMZXLJBNGgzDsjwfBdyom-1200-80.jpg "An Amazon Kindle near-disaster almost brought me back to books")
+
+
+[An Amazon Kindle near-disaster almost brought me back to books](https://www.techradar.com/features/a-vacation-amazon-kindle-near-disaster-almost-brought-me-back-to-books)
+
+
+> I only need three things for a perfect vacation: sun, sand, and an ebook (or two). And it only takes one thing to really ruin a vacation, an Amazon Kindle without access to my latest ebooks. Last week, my wife and I took a much-needed break in Aruba, an independent island nation just a dozen degrees north of the equator. I packed all my favorite tech gear for the trip, including my aging Amazon Kindle. My wife took her brand new Kindle Paperwhite , the one with the lovely 6.8-inch display and one of our best ereaders .
+
+
+***
+![13 Best iPad Writing Apps [in 2023]](https://techpp.com/wp-content/uploads/2023/01/best-ipad-writing-apps.jpg "13 Best iPad Writing Apps [in 2023]")
+
+
+[13 Best iPad Writing Apps [in 2023]](https://techpp.com/2023/02/12/best-ipad-writing-apps/)
+
+
+> Writing apps have recently become very popular thanks to their greater availability. These apps can be used to create and edit written content such as documents, notes, articles, etc. They have features like spell and grammar checkers, various text formatting options, and the ability to share or collaborate on documents with others. Overall, they make writing better and more efficient. If you own an iPad and are looking for the best writing app, this list is for you. In this guide, we have compiled 13 iPad writing apps for personal or professional use.
+
+
+***
+![Metroid Prime Remastered was originally rated 18 months ago](https://gonintendo.com/attachments/image/23152/file/medium-6a7f47ce8bd343f65e38b7c5e228f8e8.png "Metroid Prime Remastered was originally rated 18 months ago")
+
+
+[Metroid Prime Remastered was originally rated 18 months ago](https://gonintendo.com/contents/16166-metroid-prime-remastered-was-originally-rated-18-months-ago)
+
+
+> Been sitting on this one for awhile As you no doubt know, rumors of Metroid Prime Remastered's existence have been around for years now. The rumors have been flying about almost as long as the Switch itself! Now that the game is finally out and the rumor is confirmed, those same fans have been wondering just how long Nintendo was sitting on the game. While we may never know the definitive answer, we do have a little bit of insight. It's been discovered that the German Ratings Board has a listing for Metroid Prime Remastered, but they've been sitting on it for quite awhile.
+
+
+***
+![Deploy Front & Backend Application on Kubernetes](https://miro.medium.com/max/1200/1*3yr6NnIOLjRJa_iOa1R4zQ.png "Deploy Front & Backend Application on Kubernetes")
+
+
+[Deploy Front & Backend Application on Kubernetes](https://medium.com/@RaySylverne/deploy-front-backend-application-on-kubernetes-fa5f46d694c)
+
+
+> You've been tasked with deploying an entire end-to-end application using MongoDB and Mongo Express on Kubernetes. While creating this cluster, we'll explore and analyze, how various Kubernetes components work together to streamline the deployment of applications. All of this needs to be done locally on your machine. I've elected to utilize minikube for this purpose. We'll dive into minikube functions and features as we go through the setup. What are MongoDB and Mongo Express? MongoDB is a platform for general-purpose document databases, and Mongo Express is a web application server framework for Node.
+
+
+***
+![European Switch eShop charts for January 2023](https://gonintendo.com/attachments/image/23150/file/medium-e940d20c01d6a44c3563d6613cd46db7.jpg "European Switch eShop charts for January 2023")
+
+
+[European Switch eShop charts for January 2023](https://gonintendo.com/contents/16164-european-switch-eshop-charts-for-january-2023)
+
+
+> The big Switch games that kicked off 2023 Wondering what Switch owners in Europe were eager to start off the new year with? Nintendo has released the top 15 Switch eShop titles in Europe for January 2023, and you can see the complete breakdown below! Minecraft Nintendo Switch Sports Fire Emblem Engage FIFA 23 Legacy Edition Pokemon Violet Stardew Valley Among Us Mario Kart 8 Deluxe Pokemon Scarlet Disney Dreamlight Valley Animal Crossing: New Horizons New Super Mario Bros.
+
+
+***
+![Is there a community that can help a non profit organizations/charity create an app. I have a non profit organization that wants to implement an idea that would help low income families afford food. Our main issue is finding a developer/creator to help us create an app for this.](https://external-preview.redd.it/tINE-vXX6eiCS3EU-QTYlFsRU9k1hmPhV-f45--8Vqw.jpg?auto=webp&v=enabled&s=aaa2747635af67caf01e8c553f14eed943cec793 "Is there a community that can help a non profit organizations/charity create an app. I have a non profit organization that wants to implement an idea that would help low income families afford food. Our main issue is finding a developer/creator to help us create an app for this.")
+
+
+[Is there a community that can help a non profit organizations/charity create an app. I have a non profit organization that wants to implement an idea that would help low income families afford food. Our main issue is finding a developer/creator to help us create an app for this.](https://www.reddit.com/r/programming/comments/110mt4u/is_there_a_community_that_can_help_a_non_profit)
+
+
+> Is there a community that can help a non profit organizations/charity create an app. I have a non profit organization that wants to implement an idea that would help low income families afford food. Our main issue is finding a developer/creator to help us create an app for this.
+
+
+***
+![Former Retro dev sad Metroid Prime Remastered doesn't include the game's original credits](https://gonintendo.com/attachments/image/23149/file/medium-ceecdba94b641b46a13f19e8fd7b6d3b.png "Former Retro dev sad Metroid Prime Remastered doesn't include the game's original credits")
+
+
+[Former Retro dev sad Metroid Prime Remastered doesn't include the game's original credits](https://gonintendo.com/contents/16163-former-retro-dev-sad-metroid-prime-remastered-doesn-t-include-the-game-s-original)
+
+
+> Credit where credit's due Metroid Prime Remaster saw a surprise release last week, and it's been met with universal praise ever since. From gameplay features and controls to faithfulness to the original, people are really loving the return of this classic. Unfortunately, the situation is a bit different when it comes to the dev team. Former Retro studios engineer Zoid Kirsch took to Twitter to share a bit of disappointment he had with Metroid Prime Remaster, and it comes from how the game handles credits.
+
+
+***
+![US: Tesla Increased Model Y Prices By $500](https://cdn.motor1.com/images/mgl/W88ob1/s1/tesla-model-y-charging.jpg "US: Tesla Increased Model Y Prices By $500")
+
+
+[US: Tesla Increased Model Y Prices By $500](https://insideevs.com/news/652051/us-tesla-increased-modely-prices-february10-2022/)
+
+
+> Tesla continues to adjust prices of its electric cars in the United States. Yesterday, the company slightly increased the starting price of the Tesla Model Y model. According to the Tesla 's website, the Model Y Performance version now starts at $58,490, which is $500 (or 0.9 percent) more than before ($57,990). The price of the Model Y Long Range AWD version remains the same ($54,990), however the Model Y AWD also appears to be $500 more expensive than before. The Model Y AWD (with 4680-type batteries) is not listed with other versions, but it can be found in the company's existing inventory, starting at $51,490 (up $500 or +1.
+
+
+***
+![Open source code with swearing in the comments is statistically better than that without](https://external-preview.redd.it/luDyPqVV04rPvdDizmXyzj1Y-kGRsjLNFerPT55pgMA.jpg?auto=webp&v=enabled&s=af49362a1238ae45bcd7fb678fd3984832cff2a4 "Open source code with swearing in the comments is statistically better than that without")
+
+
+[Open source code with swearing in the comments is statistically better than that without](https://www.reddit.com/r/programming/comments/110mj6p/open_source_code_with_swearing_in_the_comments_is)
+
+
+> Open source code with swearing in the comments is statistically better than that without
+
+
+***
+![Mats3: A new way for inter-service communication in microservices, using async messages. Now with more documentation!](https://external-preview.redd.it/aK-NokJcR-DiwbO2ofSbtXcQofAoDnQBW6DX8V8BM2o.jpg?auto=webp&v=enabled&s=9dfe8d400110f0c8ab4459ef619ba271c2eebd44 "Mats3: A new way for inter-service communication in microservices, using async messages. Now with more documentation!")
+
+
+[Mats3: A new way for inter-service communication in microservices, using async messages. Now with more documentation!](https://www.reddit.com/r/programming/comments/110mixo/mats3_a_new_way_for_interservice_communication_in)
+
+
+> Mats3: A new way for inter-service communication in microservices, using async messages. Now with more documentation!
+
+
+***
+![Chicago Director Explains Why Emma Stone Would Be Perfect for the Movie If It Were Made Today](https://iknowallnews.com/wp-content/uploads/2023/02/Chicago-Director-Explains-Why-Emma-Stone-Would-Be-Perfect-for-the-Movie-If-It-Were-Made-Today.jpg "Chicago Director Explains Why Emma Stone Would Be Perfect for the Movie If It Were Made Today")
+
+
+[Chicago Director Explains Why Emma Stone Would Be Perfect for the Movie If It Were Made Today](https://iknowallnews.com/tv-movies/chicago-director-explains-why-emma-stone-would-be-perfect-for-the-movie-if-it-were-made-today/)
+
+
+> Home » TV & Movies » Chicago Director Explains Why Emma Stone Would Be Perfect for the Movie If It Were Made Today AceShowbiz – Rob Marshall would Pick Emma Stone as his choice of Roxie Hart if he were making ' Chicago ' today. The 62-year-old director helmed the 2002 Oscar-winning musical – which starred Catherine Zeta-Jones and Renee Zellweger as two women in prison who gain celebrity status over their crimes – but explained that these days he would pick the ' Cruella ' star to take on the role made famous by the ' Bridget Jones's Diary ' actress.
+
+
+***
+![Nintendo says there is 'no set schedule' to Game Boy/GBA releases on Switch](https://gonintendo.com/attachments/image/23148/file/medium-4095a72e1ce00d83420f9438e1c64f06.png "Nintendo says there is 'no set schedule' to Game Boy/GBA releases on Switch")
+
+
+[Nintendo says there is 'no set schedule' to Game Boy/GBA releases on Switch](https://gonintendo.com/contents/16162-nintendo-says-there-is-no-set-schedule-to-game-boy-gba-releases-on-switch)
+
+
+> This past week, Nintendo confirmed a longstanding rumor about Switch by adding both Game Boy and Game Boy Advance collections to the Switch. Those with Switch Online accounts can enjoy Game Boy games, while Switch Online Expansion Pack members can fire up Game Boy Advance games as well. Both of these services launched with a considerable amount of games, and Nintendo even teased some of the titles that are coming down the pipeline. Of course, fans are eager to know just when those will arrive. Unfortunately, Nintendo doesn't seem to have an answer for that.
+
+
+***
+![Apprentices Jess Cunningham feels luckiest girl as she shares engagement joy](https://iknowallnews.com/wp-content/uploads/2023/02/Apprentices-Jess-Cunningham-feels-luckiest-girl-as-she-shares-engagement-joy.jpg "Apprentices Jess Cunningham feels luckiest girl as she shares engagement joy")
+
+
+[Apprentices Jess Cunningham feels luckiest girl as she shares engagement joy](https://iknowallnews.com/celebrities/apprentices-jess-cunningham-feels-luckiest-girl-as-she-shares-engagement-joy/)
+
+
+> Home » Celebrities » Apprentices Jess Cunningham feels luckiest girl as she shares engagement joy Former Apprentice hopeful Jessica Cunningham has announced that she is engaged after appearing on the BBC business show back in 2016. Almost seven years ago, Derbyshire local Jessica arrived in London to take part in Lord Alan Sugar's The Apprentice with other contestants like Courtney Wood, Frances Bishop, Sofiane Khelfa and series winner Alana Spencer. The 35 year old, who is the owner of the online fashion company ProdigalFox and operations director for a PR and marketing agency, took to Instagram on Sunday to reveal the happy news.
+
+
+***
+![Water minister at odds with Melbourne Water's plans for flood inquiry](https://iknowallnews.com/wp-content/uploads/2023/02/Water-minister-at-odds-with-Melbourne-Waters-plans-for-flood-inquiry.jpg "Water minister at odds with Melbourne Water's plans for flood inquiry")
+
+
+[Water minister at odds with Melbourne Water's plans for flood inquiry](https://iknowallnews.com/lifestyle/water-minister-at-odds-with-melbourne-waters-plans-for-flood-inquiry/)
+
+
+> Home » Lifestyle » Water minister at odds with Melbourne Water's plans for flood inquiry Water Minister Harriet Shing says development on floodplains is a key area of review in Melbourne Water's inquiry into last year's record-breaking Maribyrnong River flood, despite the water authority already ruling out reviewing broad planning matters. At the same time, more evidence has emerged of how widespread the flood damage was after the Maribyrnong River in Melbourne's inner-west rose to around four metres above its usual height in mid-October.
+
+
+***
+![Nintendo survey gives slightly more insight into The Legend of Zelda: Tears of the Kingdom](https://gonintendo.com/attachments/image/23147/file/medium-929f7ccfba5ebec9c8d914e9adb2c47b.jpg "Nintendo survey gives slightly more insight into The Legend of Zelda: Tears of the Kingdom")
+
+
+[Nintendo survey gives slightly more insight into The Legend of Zelda: Tears of the Kingdom](https://gonintendo.com/contents/16161-nintendo-survey-gives-slightly-more-insight-into-the-legend-of-zelda-tears-of-the)
+
+
+> In the grand scheme of things, we haven't seen all that much from The Legend of Zelda: Tears of the Kingdom. For some fans, this has been a great thing, as they like the mystery surrounding the title. Others are hoping for more from Nintendo as we near launch. While that could certainly happen, we do have a survey from the Big N that sheds a tiny bit of light on the experience. Nintendo is asking random fans to take a survey about The Legend of Zelda: Tears of the Kingdom, and it goes over a few notes on what players can expect from the experience.
+
+
+***
+![Future NieR:Automata Ver1.1a anime returning on Feb. 18th, 2023](https://gonintendo.com/attachments/image/23146/file/medium-57dac90099c6e306a5d41997ac151dbc.jpg "Future NieR:Automata Ver1.1a anime returning on Feb. 18th, 2023")
+
+
+[Future NieR:Automata Ver1.1a anime returning on Feb. 18th, 2023](https://gonintendo.com/contents/16160-future-nier-automata-ver1-1a-anime-returning-on-feb-18th-2023)
+
+
+> Back on January 22nd, 2023, we found out that the Future NieR:Automata Ver1.1a anime was seeing future episodes postponed. This was due to complications with COVID among the anime team. When the delay was announced, we had no idea when the series would return. As of today, we now have a date to look forward to. Creator of the NieR franchise, Yoko Taro, took to Twitter to announce that the anime hiatus is soon coming to an end. Fans of the series can look forward to seeing the 4th episode debut in Japan on February 18th, 2023.
+
+
+***
+![Found information on the Samsung Galaxy A14 4G on the NBTC website and the Galaxy M54 5G is about to launch as well.](https://www.techxcite.com/web/../topics/42599/thumbnail/12001.jpg "Found information on the Samsung Galaxy A14 4G on the NBTC website and the Galaxy M54 5G is about to launch as well.")
+
+
+[Found information on the Samsung Galaxy A14 4G on the NBTC website and the Galaxy M54 5G is about to launch as well.](https://www.world-today-news.com/found-information-on-the-samsung-galaxy-a14-4g-on-the-nbtc-website-and-the-galaxy-m54-5g-is-about-to-launch-as-well/)
+
+
+> Found information on the Samsung Galaxy A14 4G on the NBTC website and the Galaxy M54 5G is about to launch as well. Previously, Samsung launched the Galaxy A14 5G earlier this month. And the latest seems to have Samsung Galaxy A14 4G launched in Thailand as well After finding information on the NBTC of Thailand The Samsung Galaxy A14 4G has been listed on a Thai certification body as SM-A145F/DSN, where the 'DS' code stands for dual-SIM support. on the web right now There is also another smartphone that is expected to be launched soon, namely Samsung Galaxy M54 5G After we heard the information in the past 2-3 months, now the Galaxy M54 5G should be close to launch as well.
+
+
+***
+![Hyundai USA Launches Evolve+ EV Subscription Program From $699](https://cdn.motor1.com/images/mgl/MkWEkm/s1/2022-hyundai-kona-electric-exterior-review.jpg "Hyundai USA Launches Evolve+ EV Subscription Program From $699")
+
+
+[Hyundai USA Launches Evolve+ EV Subscription Program From $699](https://insideevs.com/news/652101/hyundai-usa-launches-evolve-ev-subscription-program-from-699-usd/)
+
+
+> Hyundai has introduced an EV subscription service in the US at the Chicago Auto Show earlier this week. Called Evolve+, the program has been developed by Hyundai Motor America and Hyundai Capital America with the goal of providing flexibility and affordability to consumers who want to drive the brand's newest EVs without committing to a purchase or longer-term lease. Evolve+ is a month-to-month subscription service that covers 1,000 miles (1,610 kilometers), insurance, maintenance, registration and road-side assistance at a starting price of $699 per month for a Kona Electric and $899 per month for an Ioniq 5 .
+
+
+***
+![MangaGamer planning more visual novels for Switch](https://gonintendo.com/attachments/image/23145/file/medium-f5ac3d1ca03d2b3026eb5151cdd14a35.jpg "MangaGamer planning more visual novels for Switch")
+
+
+[MangaGamer planning more visual novels for Switch](https://gonintendo.com/contents/16159-mangagamer-planning-more-visual-novels-for-switch)
+
+
+> MangaGamer released the Novect-developed visual novel Seventh Lair on Switch just a few days back, giving players another visual novel to dig into. This is the first console release from MangaGamer, but luckily for Switch owners, it won't be the last. MangaGamer's PR Director, John Pickett released a statement on the release of Seventh Lair, and also intentions for releases in the future, Switch included. You can see the full statement from Pickett below. 'After years of releasing our Visual Novels for fans to enjoy on Steam, GoG, and other platforms that cater to younger audiences as well, our first release to console has been a long time coming.
+
+
+***
+![Open Channel: What is Your MCU Underdog?](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b6b8e61970edb99d609be457502d7df5.jpg "Open Channel: What is Your MCU Underdog?")
+
+
+[Open Channel: What is Your MCU Underdog?](https://gizmodo.com/open-channel-mcu-underdog-1850104560)
+
+
+> Come next week, Ant-Man & the Wasp: Quantumania will be out in theaters and presumably bring the adventures of Paul Rudd's Scott Lang to some kind of close, at least until those Avengers sequels in two years. There've been a lot of sub-franchises within the MCU, but Ant-Man's always been one of the weirder ones to talk about. Back in 2015 when the original movie came out, there was concern about it when widely liked filmmaker Edgar Wright departed over creative difference and replaced with Peyton Reed.
+
+
+***
+![Elon Musk Spends Long Day at Twitter HQ, Fixes 2 Key Problems](https://english.cdn.zeenews.com/sites/default/files/2023/02/12/1153111-untitled-design-2023-02-12t220215.507.jpg "Elon Musk Spends Long Day at Twitter HQ, Fixes 2 Key Problems")
+
+
+[Elon Musk Spends Long Day at Twitter HQ, Fixes 2 Key Problems](https://zeenews.india.com/technology/elon-musk-spends-long-day-at-twitter-hq-fixes-2-key-problems-2572627.html)
+
+
+> New Delhi:  Twitter CEO Elon Musk on Sunday said that engineers resolved two significant problems on the platform during a "long day at Twitter HQ" with him. He said that the `Fanout service for Following feed` was getting overloaded when "I tweeted, resulting in up to 95 percent of my tweets not getting delivered at all". "Following is now pulling from search (aka Earlybird). When Fanout crashed, it would also destroy anyone else`s tweets in queue," Musk added. He also said that the recommendation algorithm was using absolute block count, rather than percentile block count, "causing accounts with many followers to be dumped, even if blocks were only 0.
+
+
+***
+![The best phones sold under 2,500 TL!](https://cdni.blockcast.it/wp-content/uploads/2018/09/01200859/madman-daily1.png "The best phones sold under 2,500 TL!")
+
+
+[The best phones sold under 2,500 TL!](https://www.world-today-news.com/the-best-phones-sold-under-2500-tl/)
+
+
+> The cheapest phones sold under 2,500 TL It can usually have the following features: 1- Display: It can offer HD+ or FWVGA resolution displays in sizes 6 inches or less. 2- Processor: These phones are usually equipped with low-end processors like MediaTek Helio G35, P35 or Snapdragon 429. 3- RAM and Storage: It can offer 16GB or 32GB internal storage along with 2GB of RAM or less. 4- Camera: Designed primarily for document scanning or simple photo shooting, its rear camera may be 13 MP or lower and the front camera 5 MP or lower.
+
+
+***
+![the CM of the club is loose on Twitter](https://media.quinzemondial.com/9/2023/02/photo_article/777632/307490/1200-L-lquipe-de-montauban-bloque-en-bretagne-le-cm-du-club-se-lche-sur-twitter.jpg "the CM of the club is loose on Twitter")
+
+
+[the CM of the club is loose on Twitter](https://www.world-today-news.com/the-cm-of-the-club-is-loose-on-twitter/)
+
+
+> Zapping World Fifteen Rugby World cup 2023 – Calendrier Montauban played Friday against Vannes. A match lost by very little, 40 to 37, and therefore a new defeat for the Tarn-et-Garonne team, which cannot manage to chain good results. But Friday evening was spoiled for the sporting result, Saturday was also very complicated for the Montalbanais for a completely different reason! Indeed, the players and their staff found themselves stranded in Brittany, at Rennes airport because their flight, scheduled for 8:55 am on Saturday, never left and was even canceled.
+
+
+***
+![Opening folders "fast" on Ventura doesn't work?](https://forums.macrumors.com/attachments/my-old-settings-png.2157557/ "Opening folders "fast" on Ventura doesn't work?")
+
+
+[Opening folders "fast" on Ventura doesn't work?](https://forums.macrumors.com/threads/opening-folders-fast-on-ventura-doesnt-work.2380527/)
+
+
+> When I use my Mac, I tend to be fast, especially since the computer itself is. However, I have been noticing that finder limits my speediness by having an internal delay, which prevents oneself from opening a folder too fast, which I find to be very odd. At first, I thought it had to do something with my TrackPad settings, so I essentially disabled everything but tap-to-click and tried again. That didn't work, then i reverted back to my old settings. The attached screen recording, showcases the issue.
+
+
+***
+![Joo-Bok Ryu, CEO of Kindril Korea 'We will act as ‘swan's feet' in the era of cloud computing'](https://img.hankyung.com/photo/202302/01.32609456.1-1200x.jpg "Joo-Bok Ryu, CEO of Kindril Korea 'We will act as ‘swan's feet' in the era of cloud computing'")
+
+
+[Joo-Bok Ryu, CEO of Kindril Korea 'We will act as ‘swan's feet' in the era of cloud computing'](https://www.world-today-news.com/joo-bok-ryu-ceo-of-kindril-korea-we-will-act-as-swans-feet-in-the-era-of-cloud-computing/)
+
+
+> Spin-off from IBM in 2021. Formation of ‘allied force' with Amazon, MS, Google, etc. 'Customer trust built up since the days of IBM is a competency' 'Behind the benefits of technological advances, there are Kindrills that are moving like ‘swan feet' everywhere.' Ju-Bok Ryu, CEO of Kindril Korea, said in an interview with the Korea Economic Daily, 'It is not a company that is familiar to the general public, but many of the information technology (IT) services required to buy products online, board a plane, or trade stocks are provided by the Kindrrill service.
+
+
+***
+![Chery To Enter UK Market With Omoda 5 SUV](https://cdn.motor1.com/images/mgl/1ZkRV3/s1/chery-omoda-5.jpg "Chery To Enter UK Market With Omoda 5 SUV")
+
+
+[Chery To Enter UK Market With Omoda 5 SUV](https://insideevs.com/news/652091/chery-uk-market-omoda-5/)
+
+
+> Chery, a Chinese manufacturing conglomerate, will enter the UK market through its new Omoda subsidiary. Chery currently offers a wide range of affordable ICE, hybrid, and electric vehicles in China. It also has a joint-venture agreement with Jaguar Land Rover, with Chery responsible for producing the Land Rover Discovery Sport, Range Rover Evoque, Jaguar XF, and Jaguar XE for the Chinese domestic market. Omoda is marketed as a significantly more premium brand than Chery, with the 5 being its debut model.
+
+
+***
+![China: Tesla Model Y Price Increased Slightly](https://cdn.motor1.com/images/mgl/BXA6eM/s1/2023-tesla-model-y-mic-in-china.jpg "China: Tesla Model Y Price Increased Slightly")
+
+
+[China: Tesla Model Y Price Increased Slightly](https://insideevs.com/news/652055/china-tesla-model-y-price-increased-february2022/)
+
+
+> Tesla appears to be cautiously seeking a new balance between the supply and demand for its electric cars, tweaking prices here and there, after the significant reduction applied in January. We recently noted a small change in the United States , but a similar moves concerns also other markets, including China, where the entry-level Model Y became a bit more expensive. According to Tesla 's website, the new starting price for the Model Y is 261,900 CNY ($38,461) - 2,000 CNY ($293) or 0.8 percent more than before.
+
+
+***
+![Will Apple Replace the Keyboard on my 2017 MacBook when I send it in for a Battery Replacement?](https://images.macrumors.com/social/?t=2380526&v=6 "Will Apple Replace the Keyboard on my 2017 MacBook when I send it in for a Battery Replacement?")
+
+
+[Will Apple Replace the Keyboard on my 2017 MacBook when I send it in for a Battery Replacement?](https://forums.macrumors.com/threads/will-apple-replace-the-keyboard-on-my-2017-macbook-when-i-send-it-in-for-a-battery-replacement.2380526/)
+
+
+> I need a battery replacement for my 2017 MacBook 12 inch. $200 to replace the battery. I was under the impression that the battery itself is attached to the keyboard so when a battery replacement is done that the keyboard is switched out as well since it's all one piece. I had a 2016 MacBook Pro that was part of the keyboard replacement program and when I sent in the MacBook Pro to have the keyboard replaced they gave me a brand new battery as well. The battery is glued to the upper chassis, the keyboard is also riveted to the chassis.
+
+
+***
+![MacPro 5,1 Windows 10 installation and BootROM](https://images.macrumors.com/social/?t=2380525&v=6 "MacPro 5,1 Windows 10 installation and BootROM")
+
+
+[MacPro 5,1 Windows 10 installation and BootROM](https://forums.macrumors.com/threads/macpro-5-1-windows-10-installation-and-bootrom.2380525/)
+
+
+> Mar 15, 2014 407 204 Rome, Italy Hi everyone! I finally acquired my MacPro 5,1, and I'm now trying to install Windows 10. I currently run Monterey with the latest OpenCore on an NVMe PCIe SSD. OpenCore is installed on the same volume. I want to install Windows 10 on a SATA SSD, I don't really care about UEFI mode but I read about BootROM corruption in some cases. Can I install Windows in Legacy mode (taking out my
+
+
+***
+![The corona wave is over – time to stock up on vaccines again – Arbetarbladet](https://bildix.mmcloud.se/bildix/api/images/7c808acb-d1c2-4a4f-8a7c-206080daf84e.jpeg?fit=crop&w=1200&h=630 "The corona wave is over – time to stock up on vaccines again – Arbetarbladet")
+
+
+[The corona wave is over – time to stock up on vaccines again – Arbetarbladet](https://www.world-today-news.com/the-corona-wave-is-over-time-to-stock-up-on-vaccines-again-arbetarbladet/)
+
+
+> About Arbetarbladet Arbetarbladet is a daily newspaper published since 1902. We cover Gästrikland and Norduppland and are the leading morning newspaper in several municipalities. We exist as a paper magazine, e-magazine, website, app, newsletter and social media. Arbetarbladet is part of Bonnier News Local AB, which is Sweden's leading local media group and includes more than 40 brands that deliver local news through daily newspapers, news sites, apps and free newspapers. Bonnier News Local AB is part of Bonnier News AB.
+
+
+***
+![You can scan documents with your iPhone or iPad](https://techmoran.com/wp-content/uploads/2021/06/Scan.png "You can scan documents with your iPhone or iPad")
+
+
+[You can scan documents with your iPhone or iPad](https://techmoran.com/2021/06/15/you-can-scan-documents-with-your-iphone-or-ipad/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![Microsoft shuts down Metaverse investment – after four months](https://cdn.sweclockers.com/artikel/bild/108365?l=eyJyZXNvdXJjZSI6IlwvYXJ0aWtlbFwvYmlsZFwvMTA4MzY1IiwiZmlsdGVycyI6WyJjPTAsNzgsMTAyNCw0OTgiLCJ0PWFydGljbGVGdWxsIl0sInBhcmFtcyI6eyJjYWNoZUJ1c3RlciI6IjIwMjEwNTAxIn0sImtleSI6ImMyYWFjYmViODYwYzY3OWU1MDEwYTY3MWNjMDU4OWU5In0= "Microsoft shuts down Metaverse investment – after four months")
+
+
+[Microsoft shuts down Metaverse investment – after four months](https://tekdeeps.com/microsoft-shuts-down-metaverse-investment-after-four-months/)
+
+
+> Connecting the world in a virtual counterpart is, according to some, the next step in the digital journey. Over the years, the concept has often been characterized as cyberspace, but the word on everyone's lips nowadays is metaverse, and one of the many companies that recently chose to bet on this was the software giant Microsoft. Now reporting The Information that Microsoft chooses to shut down its department for Metaverse – the Industrial Metaverse Core Team – just four months after its creation.
+
+
+***
+![Designing NASA mission devices with artificial intelligence](https://www.alkhaleej.ae/sites/default/files/styles/social_large/public/2023-02/4888388.jpeg?itok=9aEXUVqv "Designing NASA mission devices with artificial intelligence")
+
+
+[Designing NASA mission devices with artificial intelligence](https://www.world-today-news.com/designing-nasa-mission-devices-with-artificial-intelligence/)
+
+
+> Prepared by: Mustafa Al-Zoubi NASA has turned to artificial intelligence to design space mission hardware at NASA's Goddard Space Flight Center in Greenbelt, Maryland, that resembles bone, weighs less, carries higher structural loads, and requires a fraction of the time it takes humans to evolve. 'It looks rather strange,' said engineer Ryan McClelland, who is in charge of the project. To create the parts using AI, with the requirements of the task, scientists paint surfaces; Where the part connects to the instrument or spacecraft, including any screws, electronic connections, and other hardware, the designer may also need to block a path; So that the algorithm does not block the laser beam or the optical sensor.
+
+
+***
+![Chatgpt google Chrome extensions: Here are 5 ChatGPT based extensions for Chrome that will boost your productivity.](https://img.etimg.com/thumb/msid-97840012,width-1070,height-580,imgsize-133127,overlay-economictimes/photo.jpg "Chatgpt google Chrome extensions: Here are 5 ChatGPT based extensions for Chrome that will boost your productivity.")
+
+
+[Chatgpt google Chrome extensions: Here are 5 ChatGPT based extensions for Chrome that will boost your productivity.](https://exbulletin.com/tech/2042781/)
+
+
+> The recent launch of ChatGPT, a state-of-the-art AI chatbot developed by OpenAI, has raised the bar for AI language generation models. Built on the GPT architecture, ChatGPT is designed to generate natural language text that can respond to various prompts in a conversational manner. However, to take full advantage of ChatGPT's features, consider installing a web extension in your Chrome browser. These extensions provide additional functionality and can be customized for your specific needs. Let's take a closer look at some of the best ChatGPT-based Chrome extensions.
+
+
+***
+![Tech layoffs shrink ‘trust and safety' teams, raising fears of backsliding efforts to curb online abuse](https://external-preview.redd.it/le-TREQSBUQXuVfVJOt76Rp9FmAXhVAgvCvQPJESZDk.jpg?auto=webp&v=enabled&s=077129cda664ae480678533869c587fd6ea13f38 "Tech layoffs shrink ‘trust and safety' teams, raising fears of backsliding efforts to curb online abuse")
+
+
+[Tech layoffs shrink ‘trust and safety' teams, raising fears of backsliding efforts to curb online abuse](https://www.reddit.com/r/technology/comments/110kj1v/tech_layoffs_shrink_trust_and_safety_teams)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Null safety: Kotlin vs. Java](https://external-preview.redd.it/MWZ8oDTsEFUTju5fzz_9bPnczmPYDixWn58OUAEk-fQ.jpg?auto=webp&v=enabled&s=a5ff78e70a9c2c5c03850cda34399464223dfc3e "Null safety: Kotlin vs. Java")
+
+
+[Null safety: Kotlin vs. Java](https://www.reddit.com/r/programming/comments/110kis8/null_safety_kotlin_vs_java)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Goodbye Passwords; Hello Passkeys From Apple, Google, and Microsoft](https://www.gizchina.com/wp-content/uploads/images/2023/02/Apple-Passkeys.jpg "Goodbye Passwords; Hello Passkeys From Apple, Google, and Microsoft")
+
+
+[Goodbye Passwords; Hello Passkeys From Apple, Google, and Microsoft](https://www.gizchina.com/2023/02/12/goodbye-passwords-hello-passkeys-from-apple-google-and-microsoft/)
+
+
+> Internet passwords death may have been proclaimed many times before. But this time, with Apple, Google, and Microsoft going big on passkeys, you might soon have to say goodbye to passwords. So what exactly are passkeys, and how will they make internet passwords obsolete? Well, there are many great things that this new technology has to bring to the table. And when it goes into the full-fledged integration mode, you feel old using passwords for your accounts. Let's take a deeper dive to understand more about it.
+
+
+***
+![Dell to Lay off 6,650 Employees](https://www.technopat.net/wp-content/uploads/2020/05/Dell-G3-15-Kapak.jpg "Dell to Lay off 6,650 Employees")
+
+
+[Dell to Lay off 6,650 Employees](https://tekdeeps.com/dell-to-lay-off-6650-employees/)
+
+
+> Computer and hardware sales have dropped drastically recently. Tech giants pressed the button for the impending recession, with layoffs taking the tech industry by storm. In recent months, we talked about the decisions taken by companies such as Microsoft, Intel and ARM. Dell, one of the computer manufacturers, Bloomberg Judging by the news from , it will lay off 6,650 employees. This figure corresponds to roughly 5% of the company's overall capacity. Dell's global headcount peaked at 165,000 in 2020.
+
+
+***
+![How to install and deploy Kubernetes (k8s) Cluster on Ubuntu 20.04?](https://miro.medium.com/max/548/1*KwSRSxyAi1WoB7TrsVi4WQ.png "How to install and deploy Kubernetes (k8s) Cluster on Ubuntu 20.04?")
+
+
+[How to install and deploy Kubernetes (k8s) Cluster on Ubuntu 20.04?](https://medium.com/@deshdeepakdhobi/how-to-setup-kubernetes-k8s-cluster-on-ubuntu-20-e9b41913c3e)
+
+
+> Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management. K8s is an Iron Man for managing Containers. So the question is how to create this Iron man and start saving the world. Prerequisites: OS: Ubuntu 20 Instance type: t3a.medium (2vCPU and 4 GB RAM) Storage: 20 GB Number of Servers: 2 (one for the k8s master node and another for the Worker node). You can create more than one worker node also but the minimum requirement for setting k8s is one Master and one Worker node) 1) I have created 3 EC2 instances with the above-defined prerequisites and have given the best names possible to identify the master and the worker nodes easily.
+
+
+***
+![Only GENIUS can find the giraffe in this picture](https://multiversonoticias.com.br/wp-content/uploads/2023/02/desafio-girafa.jpg "Only GENIUS can find the giraffe in this picture")
+
+
+[Only GENIUS can find the giraffe in this picture](https://www.world-today-news.com/only-genius-can-find-the-giraffe-in-this-picture/)
+
+
+> Are you ready for one more challenge? You will only have 7 seconds to find the giraffe in the picture! If you like optical illusion, we guarantee you will love this game. The image you will find here is simple, but it has important details, which will allow you to exercise your vision and your perception. Are you prepared for this? Let's test your visual skills and attention to detail, because the animal is hidden in the picture and you'll need to find it. Optical illusions are great at confusing our senses as well as making us doubt our own vision.
+
+
+***
+![Oppo Find N2 Flip is back on the scene! Competition with Galaxy Z Flip 4](https://i.teknolojioku.com/2/616/636/storage/files/images/2023/02/11/ezgif-vplt-7h6A.png "Oppo Find N2 Flip is back on the scene! Competition with Galaxy Z Flip 4")
+
+
+[Oppo Find N2 Flip is back on the scene! Competition with Galaxy Z Flip 4](https://tekdeeps.com/oppo-find-n2-flip-is-back-on-the-scene-competition-with-galaxy-z-flip-4/)
+
+
+> Oppo has announced when it will launch its foldable smartphone, Find N2 Flip, on its official Twitter account. The smartphone, which was first released in the Chinese market, will be going out of its homeland with this development. The smartphone will compete on the global stage with clamshell foldable models such as the Galaxy Z Flip 4. Let's look at the details. Oppo Find N2 Flip will be introduced in global markets on February 15 According to Oppo's official statement, Find N2 Flip, February 15, 2023 It will debut in global markets.
+
+
+***
+![Apple did not shelve the issue of obtaining an iPhone by subscription](https://www.log.com.tr/wp-content/uploads/2022/04/apple-neden-abonelik-uzerinden-iphone-alma-sistemi-istiyor-660x371.jpg "Apple did not shelve the issue of obtaining an iPhone by subscription")
+
+
+[Apple did not shelve the issue of obtaining an iPhone by subscription](https://tekdeeps.com/apple-did-not-shelve-the-issue-of-obtaining-an-iphone-by-subscription/)
+
+
+> technology goddess Apple, one of the biggest sources of income iPhone and other hardware is still in a subscription plan. exists. Bloomberg's Mark Gurman published in recent years via the news Apple's iPhone and other hardware products 'subscription system' We found out that he was making plans to present. In this way, consumers can buy products prepared by Apple. can be used by paying a monthly fee or in other words, it will be able to rent the products on a monthly basis. Those who want to further enlarge their user base by bringing subscriptions to hardware as in online services Apple, will focus this process specifically on the iPhone and its main purpose will be to make even more money.
+
+
+***
+![End of season for Hateboer](https://cdn.resfu.com/media/img_news/hans-hateboer--lesionado-con-el-atalanta---hhateboer-instagram.jpg "End of season for Hateboer")
+
+
+[End of season for Hateboer](https://www.world-today-news.com/end-of-season-for-hateboer/)
+
+
+> Hard blow for Atalanta Bergamo. Right-back Hans Hateboer will miss the rest of the season after suffering a cruciate ligament rupture during the match against Lazio counting for the 22nd day of Serie A this Saturday. It was the Dutchman himself who announced the sad news via his Instagram account: 'When the anterior cruciate ligaments spoil a good evening in Rome…' Victorious in Rome against Lazio this Saturday, Atalanta, 3rd in Serie A is still in the running for a place in the top 4 qualifiers for the next edition of the Champions League.
+
+
+***
+![The week ahead. Do you want to get ready for the new forex trading week? Watch and learn.](https://images.forexlive.com/images/Forex_id_32b3fb1f-2596-438c-a1c7-b0c60868ae3c_size900.jpg?v=1676221824533 "The week ahead. Do you want to get ready for the new forex trading week? Watch and learn.")
+
+
+[The week ahead. Do you want to get ready for the new forex trading week? Watch and learn.](https://www.forexlive.com/technical-analysis/the-week-ahead-do-you-want-to-get-ready-for-the-new-forex-trading-week-watch-and-learn-20230212/)
+
+
+> A technical look at all the major currency pairs vs the USD The weekend forex technical report, outlines the key events and then looks at the technicals that are driving ALL the major currencies vs the USD. Below are the start times for each of the major currency pairs: EURUSD 2:28 USDJPY 6:34 GBPUSD 11:00 USDCHF 14:12 USDCAD 16:50 AUDUSD 19:48 NZDUSD 22:00 ADVERTISEMENT - CONTINUE READING BELOW Tags ADVERTISEMENT - CONTINUE READING BELOW Most Popular ADVERTISEMENT - CO
+
+
+***
+![Urgent warning for millions of Tesco Clubcard customers who have just days to use up points](https://iknowallnews.com/wp-content/uploads/2023/02/Urgent-warning-for-millions-of-Tesco-Clubcard-customers-who-have-just-days-to-use-up-points-The-Sun.jpg "Urgent warning for millions of Tesco Clubcard customers who have just days to use up points")
+
+
+[Urgent warning for millions of Tesco Clubcard customers who have just days to use up points](https://iknowallnews.com/lifestyle/urgent-warning-for-millions-of-tesco-clubcard-customers-who-have-just-days-to-use-up-points-the-sun/)
+
+
+> Home » Lifestyle » Urgent warning for millions of Tesco Clubcard customers who have just days to use up points | The Sun MILLIONS of Tesco Clubcard customers have just days left to use up their points or risk losing them. The chain has warned there are more than £16million in Clubcard points due to expire after February 28. The vouchers were first issued in February 2021 but have to be redeemed within two years. Tash Whitmey, from Tesco, previously told The Sun: "With more than £16m worth of Clubcard vouchers due to expire at the end of February, we're reminding customers to spend them in what can be a tough time of year.
+
+
+***
+![this Stranger Things actress is going to join the MCU according to these latest information](https://static.hitek.fr/img/actualite/ill_m/867851446/sadiesinkmcurumeurs.png "this Stranger Things actress is going to join the MCU according to these latest information")
+
+
+[this Stranger Things actress is going to join the MCU according to these latest information](https://tekdeeps.com/this-stranger-things-actress-is-going-to-join-the-mcu-according-to-these-latest-information/)
+
+
+> Earlier in the weekend, we unveiled the list of actors we were most looking forward to seeing in the Marvel Cinematic Universe (MCU), the latter preparing to officially begin its Phase V with the next film Ant-Man and the Wasp: Quantumania. And if the fans of Marvel Studios are eager to discover Emilia Clarke in Secret Invasion or even Will Poulter in the role of Adam Warlock, it would seem that there is also another actress which is eagerly awaited, as evidenced by the many rumors that we can find about him lately.
+
+
+***
+![Apple will limit the functionality of non-genuine USB-C cables on new iPhones](https://virtus-img.cdnvideo.ru/images/og-jpg/plain/92/922a79e5-957f-47d0-a2a6-2a20cf2586b3.webp "Apple will limit the functionality of non-genuine USB-C cables on new iPhones")
+
+
+[Apple will limit the functionality of non-genuine USB-C cables on new iPhones](https://www.world-today-news.com/apple-will-limit-the-functionality-of-non-genuine-usb-c-cables-on-new-iphones/)
+
+
+> Owners of the following iPhone models with USB-C will not be able to use the full functionality of the connector when connected via a non-original cable. This was reported by the MacRumors portal, citing its own sources. In particular, data transfer and charging speeds will be limited – they will correspond to those available on current Lightning connectors. When connecting non-original wires, a warning will be displayed on the screen that this accessory is not supported. The verification will be carried out using special chips that will be equipped with cables from Apple.
+
+
+***
+![Peloton Bike+ review: The encapsulation of Peloton's mission and dilemma](https://cdn.arstechnica.net/wp-content/uploads/2022/06/Ars-Technica-Peloton-Bike-Plus-review-4-800x534.jpg "Peloton Bike+ review: The encapsulation of Peloton's mission and dilemma")
+
+
+[Peloton Bike+ review: The encapsulation of Peloton's mission and dilemma](https://newsakmi.com/news/tech-news/product-reviews/peloton-bike-review-the-encapsulation-of-pelotons-mission-and-dilemma/)
+
+
+> Corey Gaskin A few years ago, Peloton's stationary exercise bikes experienced a meteoric ascension into the public conversation, with demand rising well beyond the company's ability to deliver. But this success was directly followed by nosediving sales, stymied interest, and hundreds of millions of dollars in revenue loss as the world began recovering from the global pandemic and people headed back to gyms. Despite pausing production on its stationary bikes and treadmills due to unsold inventory, the company is still working on new devices.
+
+
+***
+![Superb Owl: How an internet typo took flight and became a fine-feathered celebration](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17ovJr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Superb Owl: How an internet typo took flight and became a fine-feathered celebration")
+
+
+[Superb Owl: How an internet typo took flight and became a fine-feathered celebration](http://www.msn.com/en-us/news/technology/superb-owl-how-an-internet-typo-took-flight-and-became-a-fine-feathered-celebration/ar-AA17oM7N)
+
+
+> © Provided by Salon Superb OwlPhoto illustration by Salon/Getty Images It's a pun that has legs. Surprisingly long, slender legs with sharp, killing claws on the ends. It's Superb Owl, a typo of Super Bowl (running the B from "Bowl" onto "Super") — and the phrase has taken on a life of its own, rising from the depths of an internet joke to become a popular, actually lauded day. Load Error Where did Superb Owl come from? How did the phrase gain prominence, where does it appear in pop culture, and if football isn't your thing, or even if it is, what are some ways to celebrate our feathered friends on Sunday? Salon digs our talons into the history of the resplendent fowl and its day.
+
+
+***
+![Q&A With LuluLuvely: Streamer Bowl IV, Super Bowl LVII, Fortnite, Apex Legends, Twitch](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17ovMk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=453&y=416 "Q&A With LuluLuvely: Streamer Bowl IV, Super Bowl LVII, Fortnite, Apex Legends, Twitch")
+
+
+[Q&A With LuluLuvely: Streamer Bowl IV, Super Bowl LVII, Fortnite, Apex Legends, Twitch](http://www.msn.com/en-us/news/technology/q-a-with-lululuvely-streamer-bowl-iv-super-bowl-lvii-fortnite-apex-legends-twitch/ar-AA17oTqT)
+
+
+> When the game Apex Legends first launched in 2019, Twitch streamer and YouTube content creator LuluLuvely was quick to make her mark on what would be a global phenomenon. With tons of hours spent creating videos that other early adopters of the game could enjoy (not to mention a ton of skill in the game itself), "Lulu" set herself apart from the crowd and has built her love of Apex and other first-person shooter games into a lucrative streaming career. But in addition to Apex Legends, Lulu has plenty of experience playing Fortnite, which served her and Washington Commanders running back Brian Robinson Jr.
+
+
+***
+![winter sales are launched for the Chinese giant! -400 € on a laptop and others…](https://img.generation-nt.com/huawei-matebook-e_0295022801687391.png "winter sales are launched for the Chinese giant! -400 € on a laptop and others…")
+
+
+[winter sales are launched for the Chinese giant! -400 € on a laptop and others…](https://tekdeeps.com/winter-sales-are-launched-for-the-chinese-giant-400-e-on-a-laptop-and-others/)
+
+
+> Until February 14, Huawei offers us interesting offers on multiple products. We will introduce you to these promotions starting with the Huawei MateBook E hybrid tablet. This terminal is equipped with an Intel Core processor i5 1130G7 et 16 Go to RAM. This powerful configuration contains a SSD of 512 Go in order to go always faster in your navigation. Its 12.6″ 2.5K OLED panel ensures a clean and fluid image. Everything is sold with an AZERTY keyboard under Windows 11 Home Mode S. This Huawei MateBook E hybrid tablet is sold for € 899.
+
+
+***
+![The Next Two Pillars for Success in Africa's Fintech Sector](https://tekedia-website.s3.us-east-2.amazonaws.com/wp-content/uploads/2020/08/06164107/fintech-OS.jpg "The Next Two Pillars for Success in Africa's Fintech Sector")
+
+
+[The Next Two Pillars for Success in Africa's Fintech Sector](https://www.tekedia.com/the-next-two-pillars-for-success-in-africas-fintech-sector/)
+
+
+> Africa is moving into the next phase of the fintech universe. Yes, merely  building products and services which will enable people and companies to receive and send money will not deliver great value to stakeholders (investors, merchants, communities, users, etc). The future of African fintech will be anchored on two pillars besides the requirements of seamless transfer of funds: ecosystems for merchants and partnerships. On the ecosystems, you must offer besides the ability to receive/send funds tools to help your customers run their business operations.
+
+
+***
+![Streaming in Canada on Amazon Prime Video, Crave, Netflix and Paramount+ [Feb. 6-12]](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/you-season-4-netflix-scaled.jpg "Streaming in Canada on Amazon Prime Video, Crave, Netflix and Paramount+ [Feb. 6-12]")
+
+
+[Streaming in Canada on Amazon Prime Video, Crave, Netflix and Paramount+ [Feb. 6-12]](https://mobilesyrup.com/2023/02/12/streaming-in-canada-amazon-prime-video-crave-netflix-paramount-plus-you-season-4-part-1/)
+
+
+> Every week,  MobileSyrup  outlines some of the most notable movies and TV shows that recently hit Canadian streaming platforms. Our ‘Streaming in Canada' column typically focuses on new content from Amazon Prime Video, Crave and Netflix, but other services like Apple TV+ and Disney+ are mentioned when relevant. Premium video-on-demand (PVOD) platforms are also fair game as movies continue to come to digital early. Finally, we'll highlight shows or movies that are made by Canadian companies, involve notable Canadian cast or crew and/or are filmed in Canada.
+
+
+***
+![Plasmos Space Truck to Offer In-Space Transportation! Here's How It Works](https://1734811051.rsc.cdn77.org/data/images/full/421042/plasmos-space-truck-to-offer-in-space-transportation-heres-how-it-works.jpg "Plasmos Space Truck to Offer In-Space Transportation! Here's How It Works")
+
+
+[Plasmos Space Truck to Offer In-Space Transportation! Here's How It Works](https://www.techtimes.com/articles/287539/20230212/plasmos-space-truck-offer-transportation-heres-works.htm)
+
+
+> Griffin Davis , Tech Times 12 February 2023, 11:02 am The new Plasmos Space Truck has been unveiled. This new space program is expected to assist companies in the aerospace industry.  Ever since the space industry boomed, SpaceX and other aerospace companies have been sending satellites to create their own orbital internet network.  However, Plasmos said that most of these satellites are not able to reach their final orbit.  "However satellites still can't get to their final orbit.
+
+
+***
+![Samsung Galaxy S23 Ultra review: A new yardstick against which all flagships will be pitted- Technology News, Firstpost](https://images.firstpost.com/wp-content/uploads/2023/02/Samsung-Galaxy-S23-Ultra-Review-2.jpg "Samsung Galaxy S23 Ultra review: A new yardstick against which all flagships will be pitted- Technology News, Firstpost")
+
+
+[Samsung Galaxy S23 Ultra review: A new yardstick against which all flagships will be pitted- Technology News, Firstpost](https://www.firstpost.com/tech/news-analysis/samsung-galaxy-s23-ultra-review-12143382.html)
+
+
+> Mehul Reuben Das Feb 12, 2023 21:54:55 IST Pros – Display – Performance – Cameras – Exceptional Battery – Understated, but premium design – Speakers – Long software update commitment – Features of the S-Pen suite – Tons of interesting features to explore Cons – 45W wired charging, with no charging brick in the box Price: Rs 1,49,999 Rating: 4.75/5 On the surface, it seems that Samsung really hasn't done much to update the S22 Ultra from last year. On paper, it seems that the Galaxy S23 Ultra has been given just a few minor updates, a basin spec bump.
+
+
+***
+![China Says It's Preparing To Shoot Down Unidentified Flying Object Near Yellow Sea](https://www.mccourier.com/wp-content/uploads/2023/02/China-Says-Its-Preparing-To-Shoot-Down-Unidentified-Flying-Object.jpg "China Says It's Preparing To Shoot Down Unidentified Flying Object Near Yellow Sea")
+
+
+[China Says It's Preparing To Shoot Down Unidentified Flying Object Near Yellow Sea](https://www.mccourier.com/china-says-its-preparing-to-shoot-down-unidentified-flying-object-near-yellow-sea/)
+
+
+> File picture of an automatic container terminal alongside the shore of Rizhao Port in Rizhao, Shandong … [+] province, China, on Oct 9, 2022. (CFOTO/Future Publishing by way of Getty Pictures) Future Publishing by way of Getty Pictures Authorities in China are getting ready to shoot down an alien ship presently over Shandong Province, in accordance with Chinese language state media. And whereas it's not instantly clear who the flying object may belong to, each nation is now seeking to the skies with extra skepticism, ever for the reason that U.
+
+
+***
+![Will you pay an extra $8 per month for Netflix password sharing?](https://cdn.mobilesyrup.com/wp-content/uploads/2022/10/netflix-header-20221013-scaled.jpg "Will you pay an extra $8 per month for Netflix password sharing?")
+
+
+[Will you pay an extra $8 per month for Netflix password sharing?](https://mobilesyrup.com/2023/02/12/netflix-passowrd-sharing-will-you/)
+
+
+> Netflix is cracking down on password sharing in a big way. In a February 8th blog post , the streaming giant revealed it now costs $8 per month to add up to two people outside your household to your Netflix account . These sub-accounts have their own profile, personalized recommendations, logins and passwords. There are several restrictions , however. You can't add an account if you're on Netflix tiers with ads or the Basic tier. If you're on the Standard Netflix tier, you can add one other person, and if you're on the Premium tier, which costs $21.
+
+
+***
+![How to Find Out Who Owns an Instagram Account](https://i0.wp.com/www.thebulletintime.com/wp-content/uploads/2023/01/How-to-Find-Out-Who-Owns-an-Instagram-Account.webp?fit=850%2C478&ssl=1 "How to Find Out Who Owns an Instagram Account")
+
+
+[How to Find Out Who Owns an Instagram Account](https://www.thebulletintime.com/technology/how-to-find-out-who-owns-an-instagram-account/)
+
+
+> If you want to determine who owns an Instagram account, there are a couple of steps you need to take. First, you need to identify the account in question. If the account is public, it should be easy to find. If not, you can search for the account name in the app or on search engines like Google. Once you've identified the account, you can then move on to the next steps in finding out who owns it. Check the profile information On Instagram, it's easy to find out who owns an account. The profile information on Instagram includes the full name, username, and profile picture of the user.
+
+
+***
+![Where Nonprofits Are Spending Time on Social Media in 2023 –](https://www.itnetwork.rs/wp-content/uploads/2023/02/Neprofit.jpg "Where Nonprofits Are Spending Time on Social Media in 2023 –")
+
+
+[Where Nonprofits Are Spending Time on Social Media in 2023 –](https://tekdeeps.com/where-nonprofits-are-spending-time-on-social-media-in-2023/)
+
+
+> There is no shortage of advice in the blogosphere about how and where to spend your time on social media. However, how organizations actually spend their time online is another story. Unlike most marketing campaigns that try to get you to use a product or service, nonprofit social marketing is all about getting you to take action for a cause. Often, nonprofits are under-resourced and don't always have the ability to produce large, highly visible campaigns. This is where social media can help. Let's dive into the social media platforms that nonprofits can take advantage of today.
+
+
+***
+![KRM Functions for Client Side Custom Resources](https://miro.medium.com/max/1200/1*do5Bs3osOZzGlp3JV9NmcQ.png "KRM Functions for Client Side Custom Resources")
+
+
+[KRM Functions for Client Side Custom Resources](https://medium.com/@akshaya_t/krm-functions-for-client-side-custom-resources-8230571cc825)
+
+
+> Generate , transform or validate Kubernetes configurations using client side functions. The most common and widely used way of communicating with the Kubernetes API server is through the declarative configuration files which can be understood by the controllers which runs on the cluster. In this context, client side custom resources are used to either generate or transform these configurations files with the help of client side function and produce the end results which can be applied on the Kubernetes cluster.
+
+
+***
+![Juggling time zones for work? These tools can help](https://images.livemint.com/img/2023/02/12/600x338/watch_1676216820395_1676216820562_1676216820562.jpg "Juggling time zones for work? These tools can help")
+
+
+[Juggling time zones for work? These tools can help](https://www.livemint.com/technology/tech-news/juggling-time-zones-for-work-these-tools-can-help-11676216665975.html)
+
+
+> There's one skill all remote workers, workcation-ers, frequent travelers and, frankly, anyone with co-workers in other states or countries must have: the ability to navigate multiple time zones.
+
+
+***
+![Και η Huawei με Dynamic Island](https://techmaniacs.gr/wp-content/uploads/2023/02/huawei-dynamic-island.jpg "Και η Huawei με Dynamic Island")
+
+
+[Και η Huawei με Dynamic Island](https://techmaniacs.gr/kai-i-huawei-me-dynamic-island)
+
+
+> We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking 'Accept All', you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+
+
+***
+![School Dental Program Prevents 80 Percent of Cavities with One-Time, Non-Invasive Treatment](http://www.nyu.edu/content/nyu/en/about/news-publications/news/2023/february/school-dental-program-prevents-80-percent-of-cavities/jcr:content/page/image.img.480.high.jpg "School Dental Program Prevents 80 Percent of Cavities with One-Time, Non-Invasive Treatment")
+
+
+[School Dental Program Prevents 80 Percent of Cavities with One-Time, Non-Invasive Treatment](http://www.nyu.edu/content/nyu/en/about/news-publications/news/2023/february/school-dental-program-prevents-80-percent-of-cavities)
+
+
+> In a study of nearly 3,000 schoolchildren, silver diamine fluoride—a liquid that is brushed onto the surface of teeth to prevent cavities or keep them from worsening—was as effective against cavities as dental sealants, the standard of care. A single dose of either topical treatment given in elementary schools prevented roughly 80% of cavities and kept 50% of cavities from worsening when children were seen two years later. The findings, published in JAMA Network Ope n , offer an efficient and cost-effective approach to improving children's oral health through school-based care.
+
+
+***
+![As a helium shortage looms, "vacuum balloons" could save physics, medicine, and birthday parties](https://external-preview.redd.it/a3I18wgTpJOLoqhjMF7x2hBHUmLOkVpMhVnva_-pvKo.jpg?auto=webp&v=enabled&s=b4f9891ba756086b1912545cf9bb0105261e9056 "As a helium shortage looms, "vacuum balloons" could save physics, medicine, and birthday parties")
+
+
+[As a helium shortage looms, "vacuum balloons" could save physics, medicine, and birthday parties](https://www.reddit.com/r/technology/comments/110ilym/as_a_helium_shortage_looms_vacuum_balloons_could)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Cookie consent is not enough](https://external-preview.redd.it/dZ70YgskhahypBPtf5EnDl-P7FR1BfIeJElpAvDoHxY.jpg?auto=webp&v=enabled&s=f1014a7ffd29ed94dfee39601669cd97159de2f5 "Cookie consent is not enough")
+
+
+[Cookie consent is not enough](https://www.reddit.com/r/technology/comments/110idkf/cookie_consent_is_not_enough)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Impact of COVID-19 Pandemic on Cancer Screening and Interest in Google Queries for Cancer: A Retrospective Study](https://i.imgur.com/AoyxWyw.png "Impact of COVID-19 Pandemic on Cancer Screening and Interest in Google Queries for Cancer: A Retrospective Study")
+
+
+[Impact of COVID-19 Pandemic on Cancer Screening and Interest in Google Queries for Cancer: A Retrospective Study](https://exbulletin.com/tech/2042717/)
+
+
+> Expansion of affiliation Affiliation Kosyan District 1 Hospital, Department of Rheumatology, 64-000 Kosyan, Poland. 2 Department of Treatment of Obesity and Metabolic Disorders, and Department of Clinical Nutrition, Medical University of Poznaz, 60-569 Pozna, Poland. 3 Thoracic Surgery, Poznan Medical University, Szamarzewskiego St. 62, 60-569 Pozna, Poland. 4 Hypertension, Vascular and Internal Medicine, Poznan Medical University, 61-848 Poznań, Poland. 5 Department of Computer Science and Statistics, Poznan University of Medical Sciences, Rokietnicka St.
+
+
+***
+![How to convert PowerPoint to Google Slides [Step-by-Step]](https://i.imgur.com/AoyxWyw.png "How to convert PowerPoint to Google Slides [Step-by-Step]")
+
+
+[How to convert PowerPoint to Google Slides [Step-by-Step]](https://exbulletin.com/tech/2042711/)
+
+
+> PowerPoint and Google Slides are two of the most popular presentation software programs on the market. While PowerPoint is widely used because it's available on most Windows desktops, laptops, and other products, Google Slides is popular because it's cloud-based and can be shared via Google Drive, making it more convenient. It is optional. Another advantage of using Google Slides is that multiple people with access to the file can modify, edit, and save the presentation. This makes it a great collaboration tool between teams.
+
+
+***
+![Healthcare Moves: A Monthly Summary of Executive Appointments and Layoff News](https://medcitynews.com/uploads/2023/02/Healthcare-Moves-1-1.jpg "Healthcare Moves: A Monthly Summary of Executive Appointments and Layoff News")
+
+
+[Healthcare Moves: A Monthly Summary of Executive Appointments and Layoff News](https://medcitynews.com/2023/02/the-latest-in-healthcares-corporate-ladder/)
+
+
+> This roundup will be published monthly. It is meant to highlight some of healthcare's recent hiring news and is not intended to be comprehensive. If you have news about an executive appointment, resignation or layoff that you would like to share for this roundup or the MedCity Moves podcast, please reach out to moves@medcitynews.com . Hires Medical conversation AI startup Abridge appointed Zachary Lipton as its chief scientific officer. In this role, he will lead the company's research and machine learning efforts.
+
+
+***
+![Halo sands rotten throne early access free download](https://i.imgur.com/AoyxWyw.png "Halo sands rotten throne early access free download")
+
+
+[Halo sands rotten throne early access free download](https://exbulletin.com/tech/2042695/)
+
+
+> Sands of Aura The Rotted Throne Early Access Free Download PC Game setup in single direct link for Windows. It is an amazing indie action game. Sands of Aura The Rotted Throne Early Access PC Game Overview 2023 A devastating cataclysm unleashed by a tormenting god has plunged the realm of Talalamhill into perpetual night. The hourglass of time shattered and its essence scattered onto the ground, creating an endless sea of ​​sand. The once prosperous realm of Talamhel has become a corrupting blight to its former glory and those who called it home are now husks of corruption – death's fierce, undying and unyielding troopers.
+
+
+***
+![Sweet Transit Forging Forward Early Access Free Download](http://oceanofgames.com/wp-content/uploads/2023/02/Sweet-Transit-Forging-Forward-Early-Access-Free-Download-4-OceanofGames.com_.jpg "Sweet Transit Forging Forward Early Access Free Download")
+
+
+[Sweet Transit Forging Forward Early Access Free Download](https://exbulletin.com/tech/2042693/)
+
+
+> Sweet Transit Forging Forward Early Access Free Download PC Game setup in single direct link for Windows. It is an amazing simulation and strategy game. Sweet Transit Forging Forward Early Access PC Game 2023 Overview Sweet Transit is a unique city builder where rail is the feature and trains are the only means of expansion and transportation. Create complex production lines and grow humble villages into thriving metropolitan cities while navigating through key eras such as the introduction of steam power and the invention of the combustion engine.
+
+
