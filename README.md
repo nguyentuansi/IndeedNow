@@ -14940,3 +14940,910 @@
 > by Helen Reid and Clara Denina Microsoft visited an artisanal cobalt mine in Democratic Republic of Congo in December as part of attempts to jump-start formalisation of the little-regulated and dangerous industry that experts say is key to meeting global demand for the battery material. Story continues below Advertisement Congo accounts for three-quarters of the world's mined cobalt supply. Industrial mines produce most of Congo's cobalt, but "artisanal" miners, who dig by hand and often die when tunnels cave in, account for up to 30% of production, though that fluctuates depending on price.
 
 
+***
+![VPN Disadvantages You Should Know](https://telecomtalk.info/wp-content/uploads/2023/01/vpn-disadvantages-you-should-know.jpeg "VPN Disadvantages You Should Know")
+
+
+[VPN Disadvantages You Should Know](https://telecomtalk.info/vpn-disadvantages-you-should-know/656352/)
+
+
+> With a Virtual Private Network (VPN), you may access regionally restricted content on streaming services, hide your IP address to secure your online behaviour, and choose a more advantageous location when making purchases online. You might even think of these services as a one-size-fits-all answer to all of your requirements for online privacy and security. The primary drawback of utilising a VPN is that it can reduce the speed of your connection. With a Virtual Private Network (VPN), you may access regionally restricted content on streaming services, hide your IP address to secure your online behaviour, and choose a more advantageous location when making purchases online.
+
+
+***
+![Feel the heat as YouTubers Tom Scott and Gavin Free brave the spiciest pepper sauces from Hot Ones](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/Screen-Shot-2023-02-10-at-8.00.23-PM.png?fit=966%2C497&ssl=1 "Feel the heat as YouTubers Tom Scott and Gavin Free brave the spiciest pepper sauces from Hot Ones")
+
+
+[Feel the heat as YouTubers Tom Scott and Gavin Free brave the spiciest pepper sauces from Hot Ones](https://boingboing.net/2023/02/12/feel-the-heat-as-youtubers-tom-scott-and-gavin-free-brave-the-spiciest-pepper-sauces-from-hot-ones.html)
+
+
+> If you're a fan of the Hot Ones show (where celebrities try and answer questions while being overwhelmed by some of the hottest pepper sauces in the world) you've probably wondered how you would fare. Like me, you may have also gone to their website , browsed the sauces from the show, and thought about buying some. On this Tom Scott Plus episode YouTubers Tom Scott and Gavin Free ( The Slowmo Guys ) try ten sauces that have appeared on the show, including the widely dreaded Da Bomb . In the end, they tolerate most of them pretty well, except for Da Bomb and the final Last Dab Apollo .
+
+
+***
+![Pancreatic cancer rates rising fastest among young women, study finds](https://247newsaroundtheworld.com/wp-content/uploads/2023/02/4561276-800x430.jpg "Pancreatic cancer rates rising fastest among young women, study finds")
+
+
+[Pancreatic cancer rates rising fastest among young women, study finds](https://247newsaroundtheworld.com/covid-19/pancreatic-cancer-rates-rising-fastest-among-young-women-study-finds-symptoms-to-spot/)
+
+
+> Pancreatic cancer accounts for almost 10,000 deaths in the UK every year, making it the fifth most deadly form of the disease. And in the last decade rates have gone up by roughly three percent. Now a new study has found women are currently more at risk for developing the disease. The paper, published in Gastroenterology journal, confirmed that rates of pancreatic cancer are rising in the US. Specifically they are rising more quickly among younger women, particularly black women, compared to men of the same age.
+
+
+***
+![Apple's Jony Ive Crowns King Charles III With Coronation Logo](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17nfOi.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Apple's Jony Ive Crowns King Charles III With Coronation Logo")
+
+
+[Apple's Jony Ive Crowns King Charles III With Coronation Logo](http://www.msn.com/en-us/news/technology/apple-s-jony-ive-crowns-king-charles-iii-with-coronation-logo/ar-AA17nGuO)
+
+
+> We'll call it the iCrown. Jony Ive, former Apple chief design officer and Steve Jobs compadre, is now the man behind the official emblem for the coronation of King Charles III. On Friday, the royal family's website unveiled the emblem, which was created by Ive and his LoveFrom design collective. It features a blue crown surrounded by red plant forms that symbolize the nations of the United Kingdom. Load Error "The design was inspired by King Charles' love of the planet, nature, and his deep concern for the natural world," Ive is quoted as saying on the site.
+
+
+***
+![Call of Duty Will Not Skip 2023](https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/02/cod-classic.png "Call of Duty Will Not Skip 2023")
+
+
+[Call of Duty Will Not Skip 2023](https://www.thurrott.com/games/279269/call-of-duty-will-not-skip-2023)
+
+
+> It looks like Activision Blizzard has had a change of heart and will now release a full Call of Duty title this coming holiday season. The gaming giant originally intended to support the current game, Call of Duty: Modern Warfare II, with additional paid content instead. News of the change came right from the top: in its announcement for the quarterly results—in which Activision Blizzard reported a net income of $403 million on revenues $2.3 billion—the firm said that its 2023 plans include 'the next full annual premium release in the blockbuster [Call of Duty] series.
+
+
+***
+![Valve still top on Steam as CS:GO player count breaks own record](https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/cs-go-player-count-valve-steam-counter-strike-global-offensive-players.jpg "Valve still top on Steam as CS:GO player count breaks own record")
+
+
+[Valve still top on Steam as CS:GO player count breaks own record](https://www.pcgamesn.com/counter-strike-global-offensive/csgo-player-count-valve-steam)
+
+
+> The CS:GO player count has broken its peak record, proving that there's still plenty of life in the decade-old FPS game . Released in August 2012, Counter-Strike: Global Offensive has continued to maintain its position among the most popular games on Steam ever since, but has recently surged again to reaffirm Valve's position as the top dog on its PC gaming platform despite competition from big releases. There are few names so closely tied to PC gaming as Counter-Strike. The series has been a mainstay for the platform for over 20 years now, with Counter-Strike 1.
+
+
+***
+![Modern Warfare 2 players urge devs to give the same 'love and support' Fortnite gets](https://editors.dexerto.com/wp-content/uploads/2023/02/12/Modern-Warfare-2-Fortnite-Epic-Games-Infinity-Ward.jpg "Modern Warfare 2 players urge devs to give the same 'love and support' Fortnite gets")
+
+
+[Modern Warfare 2 players urge devs to give the same 'love and support' Fortnite gets](https://www.dexerto.com/call-of-duty/modern-warfare-2-players-urge-devs-to-give-the-same-love-and-support-fortnite-gets-2059154/)
+
+
+> Modern Warfare 2 players have encouraged the devs over at Infinity Ward to give the same level of 'love and support' to the game as Epic Games have given, and continue to show, to Fortnite.  Gaming, and live service games in particular, have been changed for good since Fortnite's explosion in popularity back in 2017.  The building battle royale, developed by Epic Games, introduced a seasonal content format that has since been replicated in Apex Legends, Call of Duty and more.  Now – and in the midst of major player complaints over 'recycled' Season Two content – CoD players have called for Infinity Ward to emulate Epic Games even more closely.
+
+
+***
+![Beresheet 2: The latest in America's inclusive return to the moon](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17oGrb.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Beresheet 2: The latest in America's inclusive return to the moon")
+
+
+[Beresheet 2: The latest in America's inclusive return to the moon](http://www.msn.com/en-us/news/technology/beresheet-2-the-latest-in-america-s-inclusive-return-to-the-moon/ar-AA17oyUh)
+
+
+> Recently, NASA and the Israeli Space Agency commemorated the 20th anniversary of the Columbia Disaster — which took the life, among others, of Israel's first astronaut Ilan Ramon — by signing a cooperation agreement concerning the Beresheet 2 lunar mission. NASA will provide communications and technology services for Israel's second attempt to land on the moon. In return, Israel will share data gathered by the mission. In April 2022 Israel and the United Arab Emirates (UAE) signed a similar agreement.
+
+
+***
+![UAE Central Bank launches programme to boost digital transformation in financial services](https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/K0HuJnoUFri52agiBAb93Vd89CA=/1440x810/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/TPSNP5YX7ZC6XONLMHWODODA7A.jpeg "UAE Central Bank launches programme to boost digital transformation in financial services")
+
+
+[UAE Central Bank launches programme to boost digital transformation in financial services](https://www.thenationalnews.com/business/banking/2023/02/12/uae-central-bank-launches-programme-to-boost-digital-transformation-in-financial-services/)
+
+
+> The UAE's Central Bank has announced a new programme to accelerate digital transformation in the financial services sector, with initiatives spanning open finance and a new digital currency. The Financial Infrastructure Transformation Programme also includes a domestic card scheme, an instant payments platform, financial cloud and supervisory technology, the Central Bank said in a statement on Sunday. The new Central Bank Digital Currency (CBDC) will be used for both cross-border payments and domestic usage to 'address the problems and inefficiency of cross-border payments and help drive innovation for domestic payments respectively', the regulator said.
+
+
+***
+![Returnal PC available at a discounted price ahead of its launch](https://staticg.sportskeeda.com/editor/2023/02/36e71-16762134262890-1920.jpg "Returnal PC available at a discounted price ahead of its launch")
+
+
+[Returnal PC available at a discounted price ahead of its launch](https://www.sportskeeda.com/esports/news-returnal-pc-available-discounted-price-ahead-launch)
+
+
+> Returnal happens to be the first truly "next-generation" PlayStation exclusive to make its way over to PC, with The Last of Us remake being scheduled to release next month. While PlayStation-PC titles do go on sale post-launch, it's usually almost a three to four month wait before players can grab these games at a reduced price. Fortunately, in the case of the upcoming Returnal PC, players can already buy it at a discounted price. Developed by Housemarque, the game is widely regarded as the most impressive PlayStation exclusive title released on the PS5.
+
+
+***
+![Weekly poll: Poco X5 and X5 Pro](https://fdn.gsmarena.com/imgroot/news/23/02/weekly-poll-poco-x5-series/-952x498w6/gsmarena_000.jpg "Weekly poll: Poco X5 and X5 Pro")
+
+
+[Weekly poll: Poco X5 and X5 Pro](https://www.gsmarena.com/weekly_poll_poco_x5_and_x5_pro-news-57516.php)
+
+
+> Poco refreshed its X-series this week, launching two models this time around – vanilla and Pro. The latter got a chipset much more suitable to its Pro moniker along with a higher quality display and main image sensor. The Poco X5 Pro is the slimmest phone in the series at 7.9mm. It is powered by the Snapdragon 778G and is launching globally at $300/€300 for a 6/128GB unit, $250/€250 if you manage to catch the early bird offer. The Poco X5 sticks to the Snapdragon 695 chip that was used in the X4 Pro and downgrades the camera from 108MP to 48MP.
+
+
+***
+![AI comes to expense reports](https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?resize=1200,800 "AI comes to expense reports")
+
+
+[AI comes to expense reports](https://techcrunch.com/2023/02/12/ai-comes-to-expense-reports/)
+
+
+> Welcome to  The Interchange ! If you received this in your inbox, thank you for signing up and your vote of confidence. If you're reading this as a post on our site, sign up  here  so you can receive it directly in the future. Every week, I'll take a look at the hottest fintech news of the previous week. This will include everything from funding rounds to trends to an analysis of a particular space to hot takes on a particular company or phenomenon. There's a lot of fintech news out there and it's my job to stay on top of it — and make sense of it — so you can stay in the know.
+
+
+***
+![Remedy CEO: ‘Alan Wake 2' Development to the Point of Being 'Playable From Start to Finish'](https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/02/alanwake2.jpg?resize=830%2C535&ssl=1 "Remedy CEO: ‘Alan Wake 2' Development to the Point of Being 'Playable From Start to Finish'")
+
+
+[Remedy CEO: ‘Alan Wake 2' Development to the Point of Being 'Playable From Start to Finish'](https://bloody-disgusting.com/?p=3750991)
+
+
+> There's still no release date as of yet, but Remedy Entertainment has some good news regarding the development of Alan Wake 2 . According to comments made by Remedy's CEO Tero Virtala following the release of the studio's latest financial results, development on the long-awaited sequel is at the point where Alan Wake 2 can be played straight through. 'Alan Wake 2 is in full production,' states Virtala. The game will soon have all content in place, and it is playable from start to finish.
+
+
+***
+![All-in-One Digital Signage Solution Removes Need for External Hardware](https://cdn.mos.cms.futurecdn.net/daZyoL4HKs77b4ZWij6SZ3-1200-80.png "All-in-One Digital Signage Solution Removes Need for External Hardware")
+
+
+[All-in-One Digital Signage Solution Removes Need for External Hardware](https://www.avnetwork.com/news/all-in-one-digital-signage-solution-removes-need-for-external-hardware)
+
+
+> (Image credit: Vestal Visual Solutions) SignStix (opens in new tab)  and  Vestel Visual Solutions (opens in new tab)  have officially launched an embedded signage solution based around the SOC P series display—completely removing the need for external hardware. The collaboration launches a new era in fully integrated digital signage solutions with reduced complexity, improved control, and reduced energy consumption. The new integrated solution made its global debut at the Vestel Visual Solutions booth at ISE 2023.
+
+
+***
+![4 Ways to Check the Hardware IDs of Your Devices on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/person-analyzing-data-on-a-laptop.jpg "4 Ways to Check the Hardware IDs of Your Devices on Windows")
+
+
+[4 Ways to Check the Hardware IDs of Your Devices on Windows](https://www.makeuseof.com/check-hardware-ids-devices-windows/)
+
+
+> A hardware ID is a unique identification number given to hardware components. It's associated with the devices that you attach to your PC or the ones already connected to it. This identification number can be helpful when you want to download the correct device drivers. That's because if you know the hardware ID, then you can use it to search for a specific driver online. Let's discover the various ways to check your hardware IDs on Windows. 1. Use the Device Manager The Device Manager is a tool that helps you tweak the settings for almost all the devices that are connected to your PC.
+
+
+***
+![ChatGPT: Smooth Talker But A Terrible AI](https://gumlet.assettype.com/swarajya%2F2023-02%2Ff915b007-5f36-4823-b0f0-f9b2cb4976e2%2F1.png?w=1200&auto=format%2Ccompress&ogImage=true "ChatGPT: Smooth Talker But A Terrible AI")
+
+
+[ChatGPT: Smooth Talker But A Terrible AI](https://swarajyamag.com/tech/chatgpt-smooth-talker-but-a-terrible-ai)
+
+
+> Snapshot The more I interacted with ChatGPT, the more I realised that it was not just mathematical or logical ineptitude. There is a much larger problem with ChatGPT. It has a penchant for making errors, both arithmetic and factual. Have we truly entered the "age of artificial intelligence?" Ever since ChatGPT took the world by storm, this has become a central question. With its eerie human-like language and coding skills, ChatGPT marks a truly remarkable step, notwithstanding the inherent moral biases and other rough edges.
+
+
+***
+![Classic/Major League first selects the 13 best players Shohei Otani has this position  Classic](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/10/0/19872105.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600 "Classic/Major League first selects the 13 best players Shohei Otani has this position  Classic")
+
+
+[Classic/Major League first selects the 13 best players Shohei Otani has this position  Classic](https://www.world-today-news.com/classic-major-league-first-selects-the-13-best-players-shohei-otani-has-this-position-classic-sports/)
+
+
+> 2023-02-12 16:49 Comprehensive report by United News Network After the list of countries in the classic game was released, although the game has not yet started, the major leagues selected the best players at each position today, including a catcher, four infielders, three outfielders, and two starting pitchers (left and right respectively) 1) One backup pitcher and one designated hitter set up a special position for Otani Shohei, which is called 'two swords style.' Major League on the official website ' Best player at each position in the Classic '(The best player at each position in the Classic) report, 13 players were selected, and the US team had the most, with 3 in total, namely catcher JT Realmuto (JT Realmuto, USA), first baseman Freeman ( Freddie Freeman (Canada), second baseman Jose Altuve (Venezuela), third baseman Manny Machado (Dominican Republic), shortstop Xander Bogaerts (Netherlands), three field Fielders Mike Trout (USA), Mookie Betts (USA), Lee Jung Hoo (Korea), starting righty Sandy Alcantara (Dominican Republic), starting lefty Uriah Julio Urias (Mexico), relief pitcher Edwin Diaz (Puerto Rico), designated hitter Vladimir Guerrero Jr.
+
+
+***
+![ChatGPT to Make Its Way into Opera Browser Sidebar](https://www.gizmochina.com/wp-content/uploads/2023/02/chatgpt-to-make-its-way-into-opera-browser-sidebar.jpeg "ChatGPT to Make Its Way into Opera Browser Sidebar")
+
+
+[ChatGPT to Make Its Way into Opera Browser Sidebar](https://www.gizmochina.com/2023/02/12/chatgpt-to-make-its-way-into-opera-browser-sidebar)
+
+
+> The use of artificial intelligence is increasing day by day. This technology, which first entered our lives as simple voice assistants, is now appearing as chatbots that assist us in every aspect of business. Big technology companies that want to take advantage of this trend have already taken action. Microsoft invested heavily in the development of ChatGPT and integrated it into its own products, while Google started using its own chatbot, Bard. Now, Opera is building ChatGPT into its sidebar. Here are the details… Opera's building ChatGPT into its sidebar Opera is undoubtedly one of the most functional browsers in the world.
+
+
+***
+![5 AI Photography Tools to Try This Year](https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2023/02/ai-tools-photography.jpg "5 AI Photography Tools to Try This Year")
+
+
+[5 AI Photography Tools to Try This Year](https://fstoppers.com/business/5-ai-photography-tools-try-year-625971)
+
+
+> 2023 is the year of AI, and the industry is exploding with a wide range of tools that can make your life easier, whether that is through editing, running your business, or other tasks. This excellent video tutorial will show you five such tools you should consider taking advantage of to save time and improve the quality of your images.  Coming to you from Chelsea Nicole Photography , this great video tutorial will show you five useful AI tools that are worth giving a try this year. My personal favorite at the moment are the new AI masking tools in Lightroom.
+
+
+***
+![Talking Point: What Do You Name Link When You're Playing A Zelda Game?](https://images.nintendolife.com/624d2ed2f6544/1280x720.jpg "Talking Point: What Do You Name Link When You're Playing A Zelda Game?")
+
+
+[Talking Point: What Do You Name Link When You're Playing A Zelda Game?](https://www.nintendolife.com/features/talking-point-what-do-you-name-link-when-youre-playing-a-zelda-game)
+
+
+> We are but a few months away now from the release of The Legend of Zelda: Tears of the Kingdom (finally) and it is fair to say that many of us are just a little bit excited. We recently got a look at the second trailer for it, and one of the ways that we have been channelling this excitement until 12th May is through replaying previous games in the series. This, of course, means that it has once again been time to name The Hero of Time. For many, there is an obvious answer to this one: Link. That is the name of the series' lead protagonist, so that is the name that many a dedicated Hylian explorer opts for (bar the odd save file all in lowercase or, in some instances, a file where everyone appears to shout the hero's name as he goes by, "LINK").
+
+
+***
+![Milan Schelinger died – News](https://d15-a.sdn.cz/d_15/c_img_QR_z/oR4VB/milan-schelinger.jpeg?fl=cro,0,62,3452,1941|res,1200,,1|jpg,80,,1 "Milan Schelinger died – News")
+
+
+[Milan Schelinger died – News](https://www.world-today-news.com/milan-schelinger-died-news/)
+
+
+> In 1994, in collaboration with Petr Bošnak, he published the book Jiří Schelinger: Life and… In March 2011, he unveiled a commemorative plaque to his brother in Čestmírova Street in Prague's Nuslí. He was born on February 18, 1952 in Bousov. Before long, his family moved to Prague's Nuslí, where he lived a significant part of his life. His father was a music teacher and he himself fell into music very early. He started playing the violin and later the guitar as a child. In the first half of the eighties, he performed in the group Projektil.
+
+
+***
+![The phenomenon of the sun ‘exploding' the particles are separated one by one](https://s.yimg.com/ny/api/res/1.2/2gnvGjT9gcO3vDaLVEA44g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/e7e8a260-a87b-11ed-970f-728b27ecb791 "The phenomenon of the sun ‘exploding' the particles are separated one by one")
+
+
+[The phenomenon of the sun ‘exploding' the particles are separated one by one](https://www.world-today-news.com/the-phenomenon-of-the-sun-exploding-the-particles-are-separated-one-by-one/)
+
+
+> [ VIDEO ] The Phenomenon of the Sun ‘Exploding' Particles Apart One by One vlix The Phenomenon of the Sun ‘Exploding' Particles Separate One by One – Vlix.id News-Mix">Muzzammil Al Ghifari VIVA – A terrible phenomenon was caught by NASA telescopes showing the sun exploded and a number of particles were released.Friday, 10 February 2023 – 23:09 WIB loading.BBC, Norfolk Police said there were no reports of injuries to soldiers, emergency services or the public general. TEMPO. News-Mix">This natural phenomenon has made a number of world scientists wonder about its causes and impacts on Earth and humans.
+
+
+***
+![I used NeuroSymbolic AI (new kind of AI) to create a self-driving car in GTA](https://external-preview.redd.it/SxFoqXEtUe4Nd3x-3jW25YCS9K1_vaPL-vd99rpYvgs.jpg?auto=webp&v=enabled&s=d280e116924d9731b8770b63ce0ded1673835b60 "I used NeuroSymbolic AI (new kind of AI) to create a self-driving car in GTA")
+
+
+[I used NeuroSymbolic AI (new kind of AI) to create a self-driving car in GTA](https://www.reddit.com/r/programming/comments/110hja2/i_used_neurosymbolic_ai_new_kind_of_ai_to_create)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Here's how to hide messages and chats on WhatsApp](https://www.netcost-security.fr/wp-content/uploads/2023/02/Voici-comment-masquer-les-messages-et-les-chats-sur-WhatsApp.png "Here's how to hide messages and chats on WhatsApp")
+
+
+[Here's how to hide messages and chats on WhatsApp](https://www.world-today-news.com/heres-how-to-hide-messages-and-chats-on-whatsapp/)
+
+
+> WhatsApp is a widely used instant messaging application that allows users to chat with friends, family, colleagues, and other contacts. With its heavy use, there may be situations where users may not want others to access their chats for privacy or confidentiality reasons. In such cases, it becomes necessary for the users to know the process of hiding chats in WhatsApp with password or archiving them or forwarding the conversations to another location. This article will provide a complete guide on how to hide chats in WhatsApp, why hide messages and chats on WhatsApp, and the different methods to do so.
+
+
+***
+![Emirates News Agency – Sharjah Academy for Space Science and Technology organizes a lecture on high-energy astrophysics](http://assets.wam.ae/uploads/2023/02/medium-3302543208224462062.jpg "Emirates News Agency – Sharjah Academy for Space Science and Technology organizes a lecture on high-energy astrophysics")
+
+
+[Emirates News Agency – Sharjah Academy for Space Science and Technology organizes a lecture on high-energy astrophysics](https://www.world-today-news.com/emirates-news-agency-sharjah-academy-for-space-science-and-technology-organizes-a-lecture-on-high-energy-astrophysics/)
+
+
+> Sunday, February 12, 2023 – 5:06 PM SHARJAH, 12th February, 2020 (WAM) — The Sharjah Academy for Space Science and Technology and Astronomy of the University of Sharjah organized, within its series of periodic lectures to develop knowledge expertise in the field of astrophysics, a workshop entitled 'High Energy Astrophysics', in the presence of a number of researchers, university students, and amateurs of space and astronomy. The workshop included a set of lectures and practical applications on astrophysics.
+
+
+***
+![Google search chief warns AI chatbots can give 'convincing but completely fictitious' answers, report says](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17o3bx.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=377&y=145 "Google search chief warns AI chatbots can give 'convincing but completely fictitious' answers, report says")
+
+
+[Google search chief warns AI chatbots can give 'convincing but completely fictitious' answers, report says](http://www.msn.com/en-us/news/technology/google-search-chief-warns-ai-chatbots-can-give-convincing-but-completely-fictitious-answers-report-says/ar-AA17olqo)
+
+
+> Since its release in November of last year, OpenAI's ChatGPT has been used to write cover letters, create a children's book, and even help students cheat on their essays. The chatbot may be more powerful than we ever imagined. Google found that, in theory, the search engine would hire the bot as an entry-level coder if it interviewed at the company. Amazon employees who tested ChatGPT said it does a "very good job" of answering customer support questions, is "great" at making training documents, and is "very strong" at answering queries around corporate strategy.
+
+
+***
+![The 5 best close range guns in Free Fire (February 2023)](https://staticg.sportskeeda.com/editor/2023/02/51b3b-16762001850207-1920.jpg "The 5 best close range guns in Free Fire (February 2023)")
+
+
+[The 5 best close range guns in Free Fire (February 2023)](https://www.sportskeeda.com/esports/the-5-best-close-range-guns-free-fire-february-2023)
+
+
+> Garena Free Fire is a challenging battle royale title to play with the ultimate aim of being the last man standing. The game is particularly tough in close-range encounters, where players must deal the most damage in the shortest duration to get the better of their opponents. Garena Free Fire offers various types of weapons for players, ranging from ARs and sniper rifles to submachine guns, machine guns, pistols, and shotguns. This feature focuses on the five best guns for close-range encounters that will surely be your loyal companion during the heat of the battle.
+
+
+***
+![Opera to Integrate AI Into its Web Browsers](https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/02/opera-ai-created-by-dall-e.png "Opera to Integrate AI Into its Web Browsers")
+
+
+[Opera to Integrate AI Into its Web Browsers](https://www.thurrott.com/cloud/web-browsers/279266/opera-to-integrate-ai-into-its-web-browsers)
+
+
+> Opera announced that it will add integrated AI-generated content (AIGC) services into its PC and mobile web browsers. 'In more than 25 years of our company's history, we have always been at the forefront of browser innovation,' Opera co-CEO Song Lin writes in the announcement post. 'Whether inventing browser tabs or providing our users with built-in access to generative AI tools, we always push the limits of what's possible on the web. Following the mass interest in generative AI tools, we believe it's now time for browsers to step up and become the gateway to an AI-powered web.
+
+
+***
+![The OnePlus Nord 3 will offer a great price-performance ratio](https://www.svetandroida.cz/media/2023/02/oneplus-nord-2-modra.jpg "The OnePlus Nord 3 will offer a great price-performance ratio")
+
+
+[The OnePlus Nord 3 will offer a great price-performance ratio](https://www.world-today-news.com/the-oneplus-nord-3-will-offer-a-great-price-performance-ratio/)
+
+
+> The OnePlus Nord 2 and its improved version 2T are among the most popular phones in their price range, and a new version is apparently just around the corner. The upcoming OnePlus Nord 3 is supposed to get an improved display, higher performance, but also a slightly larger battery. The OnePlus Nord 3 should boast 6.5-inch AMOLED display with Full HD+ resolution and 120Hz refresh rate. The current generation offers 'only' 90Hz frequency, so we can look forward to a slightly smoother experience. Instead of the Dimensity 1300, we should expect an improved one Dimensity 8100 Max/8200 which provides noticeably higher multi-core performance.
+
+
+***
+![Bangladeshis are paying 7 times more for internet than rest of the world: Report](https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/02/12/mobile-phone-subscribers.jpg "Bangladeshis are paying 7 times more for internet than rest of the world: Report")
+
+
+[Bangladeshis are paying 7 times more for internet than rest of the world: Report](https://www.thedailystar.net/tech-startup/news/bangladeshis-are-paying-7-times-more-internet-rest-the-world-report-3245946)
+
+
+> Bangladeshis are overpaying for the internet they are getting, and only 24% of the world is overpaying more than Bangladesh.  Bangladeshis are paying 6.9x more for their internet than the rest of the world. Global VPN provider Surf Shark recently released a report titled the Global Internet Value Index (IVi), which is a list that ranks countries based on how much its people are overpaying for internet access. Globally Bangladesh ranks 83rd, and regionally, ranks 3rd in the list.  The index examines whether people are getting what they're paying for.
+
+
+***
+![Became known the details of the new game authors Gotham Knights](https://cdn.igromania.ru/mnt/news/2/6/8/a/3/f/123320/0ae5f2487a76f33f_1200xH.jpg "Became known the details of the new game authors Gotham Knights")
+
+
+[Became known the details of the new game authors Gotham Knights](https://www.world-today-news.com/became-known-the-details-of-the-new-game-authors-gotham-knights/)
+
+
+> About what the creators Gotham Knights from WB Games Montreal are already working on a new large-scale game, it was known since last year. Now there are additional details – thanks to fresh vacancies. WB Games Montreal is reportedly looking for a lead gameplay programmer for an AAA-class comic book game to join its team. DC. The vacancy also mentions a desirable but not required experience with Unreal Engine 4/5 and future task on 'optimization of multi-platform systems and tools'. Besides, how informs portal Twisted Voxel the project will be single-player, but there is no official confirmation of this yet.
+
+
+***
+![1Password wants to get rid of the last remaining password](https://researchsnipers.com/wp-content/uploads/2017/03/1Password.jpg "1Password wants to get rid of the last remaining password")
+
+
+[1Password wants to get rid of the last remaining password](https://researchsnipers.com/1password-wants-to-get-rid-of-the-last-remaining-password/)
+
+
+> Most of us expect to find the best password managers that can protect our credentials with the best passwords these systems can generate. Most of the apps use the policy of protecting all of your passwords under a single password, such as Dash lane by Apple or Google Password. Although this is a vulnerability if someone attempts to access your account, The latest idea circulating is to avoid entering your passwords repeatedly with Microsoft, Google, and PayPal. 1Password , a password manager, is the most recent app to join this initiative.
+
+
+***
+![Morph your own face onto a photo of your pet](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bb-2-1.jpg?fit=1200%2C773&ssl=1 "Morph your own face onto a photo of your pet")
+
+
+[Morph your own face onto a photo of your pet](https://boingboing.net/2023/02/12/morph-your-own-face-onto-a-photo-of-your-pet.html)
+
+
+> Sneed's Feed and Seed was formerly owned by Chuck. Above, President Biden explains why that's funny. Yes, I know it's a deepfake. But it's more fun to pretend that it's… READ THE REST
+
+
+***
+![Hackers Use ChatGPT to Create Malware](https://awsimages.detik.net.id/api/wm/2023/01/30/chatgpt-lebih-pintar-dari-google-apa-iya-2_169.jpeg?wid=54&w=650&v=1&t=jpeg "Hackers Use ChatGPT to Create Malware")
+
+
+[Hackers Use ChatGPT to Create Malware](https://www.world-today-news.com/hackers-use-chatgpt-to-create-malware/)
+
+
+> Jakarta – Cyber ​​criminals take advantage ChatGPT to create a Telegram bot that can write malware and steal data. So far, if a user asks ChatGPT to write a phishing email impersonating a bank or creating malware, it won't comply. Then, hackers look for loopholes and try to overcome these ChatGPT restrictions. There is an active chat on underground forums revealing how to use the OpenAI API to bypass ChatGPT limitations. 'This is mostly done by creating Telegram bots that use the API (OpenAI).
+
+
+***
+![Realme unveils a Coca Cola edition of its Realme 10 Pro](https://mobilealgerie.com/wp-content/uploads/2023/02/realme-10-pro-coca-cola.jpg "Realme unveils a Coca Cola edition of its Realme 10 Pro")
+
+
+[Realme unveils a Coca Cola edition of its Realme 10 Pro](https://www.world-today-news.com/realme-unveils-a-coca-cola-edition-of-its-realme-10-pro/)
+
+
+> The Chinese smartphone manufacturer Realme unveils in collaboration with Coca Cola, a special edition smartphone in the colors of the global soft drink giant. At the beginning of the year, rumors circulated about the arrival of a Coca Cola badged smartphone with leaked images in particular. Now we know that it is a partnership with the Chinese Realme to launch a special CocaCola edition. It is a Realme 10 Pro Max customized in the colors of the brand, namely red and black. Indeed, it was via a press release that the Chinese manufacturer announced the launch of this special Coca Cola edition of its Realme 10 Pro Max.
+
+
+***
+![Apple and Google warned on app stores by Japan antitrust watchdog](https://techstory.in/wp-content/uploads/2022/09/download-2022-09-10T215519.378.jpg "Apple and Google warned on app stores by Japan antitrust watchdog")
+
+
+[Apple and Google warned on app stores by Japan antitrust watchdog](https://techstory.in/apple-and-google-warned-on-app-stores-by-japan-antitrust-watchdog/)
+
+
+> On Thursday, the Japan Fair Trade Commission said that, Apple and Alphabet Inc's Google have been accused by Japanese antitrust law with their handling of mobile apps, arguing for further regulation to prevent anti-competitive behavior by tech platforms. According to a report released by the antitrust regulator, the two tech giants have been found to hold a duopoly in mobile operating systems here, with the market share of Apple's iOS at 46.6% and Google's Android at 53.4%, said FTC. They also dominate the app store market, where the FTC said there is 'not enough competitive pressure'.
+
+
+***
+![Valentine's Day special! You can buy Apple iPhone 13 at ₹36,999 via Flipkart](https://images.livemint.com/img/2023/02/12/600x338/iphone_13_1676210849764_1676210849961_1676210849961.png "Valentine's Day special! You can buy Apple iPhone 13 at ₹36,999 via Flipkart")
+
+
+[Valentine's Day special! You can buy Apple iPhone 13 at ₹36,999 via Flipkart](https://www.livemint.com/news/valentines-day-special-you-can-buy-apple-iphone-13-rs-36-999-via-flipkart-11676210705067.html)
+
+
+> Looking to buy an all-new iPhone to gift your loved one this Valentine's Day? If yes, here's a news that you may like. Walmart-owned Flipkart is giving you a chance to buy iPhone 13 at just ₹ 36,999. Wondering how? Read on The base model with 128GB storage of iPhone 13 is listed at ₹ 61,999 on Flipkart right now. HDFC Bank customers can get an additional discount of ₹ 2,000 on the phone's purchase. This brings down the phone's price to ₹ 59,999. In addition, there is an exchange discount of up to ₹ 23,000 on Apple iPhone 13.
+
+
+***
+![Irish VC funding fell flat in 2022 with a sharp end-of-year decline](https://www.siliconrepublic.com/wp-content/uploads/2023/02/27a_Leo_Hamill_chairperson_Irish_Venture_Capital_Association._Photo_Chris_Bellew_Fennell_Photography_2.jpg "Irish VC funding fell flat in 2022 with a sharp end-of-year decline")
+
+
+[Irish VC funding fell flat in 2022 with a sharp end-of-year decline](https://www.siliconrepublic.com/start-ups/ireland-venture-capital-funding-2022-ivca)
+
+
+> The IVCA attributed the decline to a ‘flight' from many international investors, due to issues in the global economy. VC funding into Irish SMEs fell sharply toward the end of 2022, leading to a flat year overall despite previously positive results. The total VC investment into Irish SMEs in 2022 was €1.33bn, representing no change compared to 2021. This is according to a new survey by the Irish Venture Capital Association (IVCA). The latest IVCA survey shows the VC investment decline by 47pc in the fourth quarter of 2022, compared to the same period in 2021.
+
+
+***
+![One UI 5.1 coming to Galaxy S22, Flip 4, and Fold 4 this month](https://www.sammobile.com/wp-content/uploads/2023/02/Samsung-One-UI-5.1-Gallery-App.jpeg "One UI 5.1 coming to Galaxy S22, Flip 4, and Fold 4 this month")
+
+
+[One UI 5.1 coming to Galaxy S22, Flip 4, and Fold 4 this month](https://www.sammobile.com/news/one-ui-5-1-update-galaxy-s22-flip-4-fold-4-february-2023/)
+
+
+> Last updated: February 12th, 2023 at 15:00 UTC+01:00 Samsung debuted One UI 5.1 with the Galaxy S23 series . The new version of One UI brings some interesting features . Now that some consumers have started getting their pre-ordered Galaxy S23 units delivered, Samsung is planning to expand the reach of One UI 5.1 to more Galaxy phones, and that will happen as soon as this month. According to Canadian mobile network carrier Fido , the One UI 5.1 update will be released to the Galaxy S22 , Galaxy S22+ , Galaxy S22 Ultra , Galaxy Z Flip 4 , and Galaxy Z Fold 4 on February 22.
+
+
+***
+[NFL All-Star Xavier Woods Partners with FitXR on Metaverse-Inspired Giveaway](http://www.businesswire.com/news/home/20230211005002/en/NFL-All-Star-Xavier-Woods-Partners-with-FitXR-on-Metaverse-Inspired-Giveaway/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK & LONDON--(BUSINESS WIRE)--FitXR, the global VR fitness app, is announcing a social giveaway partnership with Carolina Panthers safety Xavier Woods this Super Bowl weekend. Inspired by the idea of making his off season fitness fun and gamified Xavier Woods posted his VR fitness skills on instagram to help support FitXR's mission to be a movement for movement. . For many, fitness and fun are not words commonly associated with one another. The experience of going to a gym can often feel
+
+
+***
+![Quantum Communication Takes Leap Forward with Tel Aviv University Satellite Observatory](https://images.labroots.com/content_article_profile_image_2eec92978575b1dc57fedb198f87f2719bc2fe98_2024.png "Quantum Communication Takes Leap Forward with Tel Aviv University Satellite Observatory")
+
+
+[Quantum Communication Takes Leap Forward with Tel Aviv University Satellite Observatory](https://www.labroots.com/trending/technology/24639/quantum-communication-takes-leap-forward-tel-aviv-university-satellite-observatory-2)
+
+
+> Credit: Tel Aviv University Communication is a part of our everyday lives using complex mathematical computations. While this method continues to improve due to advancing technology, this also allows for weak encryption of data being sent along with potential for errors and noise, which could corrupt the data or message being sent. In contrast to this, a new field known as quantum communication is also advancing at an incredible rate and could allow for better data/message encryption along with less errors/noise within the data itself.
+
+
+***
+![All major Warzone 2 battle royale changes coming in Season 2](https://staticg.sportskeeda.com/editor/2023/02/6d68b-16762037969484-1920.jpg "All major Warzone 2 battle royale changes coming in Season 2")
+
+
+[All major Warzone 2 battle royale changes coming in Season 2](https://www.sportskeeda.com/esports/all-major-warzone-2-battle-royale-changes-coming-season-2)
+
+
+> Call of Duty: Warzone 2 will release on February 15, 2023. It is expected to be one of the most significant updates ever to a Call of Duty game. Not only will it include several enhancements and quality-of-life adjustments to increase gameplay, but it will also include a huge list of playable content-related additions. Players will see significant changes to the Warzone 2 title and can look forward to having an enhanced gaming experience due to gameplay changes and the introduction of new weapons and a brand new Resurgence map.
+
+
+***
+![How to make a WA phone appear with a photo of the person](https://awsimages.detik.net.id/api/wm/2019/01/11/ce408541-cc35-4f5d-bda8-9acee9687ce7_169.jpeg?wid=54&w=650&v=1&t=jpeg "How to make a WA phone appear with a photo of the person")
+
+
+[How to make a WA phone appear with a photo of the person](https://www.world-today-news.com/how-to-make-a-wa-phone-appear-with-a-photo-of-the-person/)
+
+
+> Jakarta – There are various ways to make loved ones stand out even more on the cellphones you have. One of them is by writing a name with a unique nickname accompanied by emojis to make it more exciting. But besides creating a unique contact name, you can create WhatsApp phone shows caller photo, you know. The method turned out to be very simple. However, this method only works for users iPhone. Here's how you should do it. How to make caller photo appear when calling via WhatsApp: Find the contact whose photo you want to appear on the call Click ‘edit' in the top right Next tap the Gallery option' Find and select the photo you want to display on the WA call Finally, press ‘Save'.
+
+
+***
+![Teen, 19, charged with assaulting emergency worker during out-of-control protests at Knowsley hotel over asylum seekers](https://iknowallnews.com/wp-content/uploads/2023/02/Teen-19-charged-with-assaulting-emergency-worker-during-out-of-control-protests-at-Knowsley-hotel-over-asylum-seekers-The-Sun.jpg "Teen, 19, charged with assaulting emergency worker during out-of-control protests at Knowsley hotel over asylum seekers")
+
+
+[Teen, 19, charged with assaulting emergency worker during out-of-control protests at Knowsley hotel over asylum seekers](https://iknowallnews.com/world-news/teen-19-charged-with-assaulting-emergency-worker-during-out-of-control-protests-at-knowsley-hotel-over-asylum-seekers-the-sun/)
+
+
+> Home » World News » Teen, 19, charged with assaulting emergency worker during out-of-control protests at Knowsley hotel over asylum seekers | The Sun A TEENAGER has been charged with assaulting an emergency worker during the violent protest outside a Knowsley hotel. Jarad Skeete, 19, from Aigburth, Liverpool, was among 15 people arrested during the demonstration on Friday evening outside the Suites Hotel in Knowsley which is housing asylum seekers, Merseyside Police said. He is accused of violent disorder and assault by beating of an emergency services worker.
+
+
+***
+![X.Org Developers Conference 2023 Returning To Spain](https://www.phoronix.com//assets/categories/xorg.webp "X.Org Developers Conference 2023 Returning To Spain")
+
+
+[X.Org Developers Conference 2023 Returning To Spain](https://www.phoronix.com/news/XDC-2023-Spain)
+
+
+> Back in 2018 the X.Org Developers Conference (XDC) was hosted in A Coruña, Spain by Igalia developers and for XDC2023 it's again returning. The X.Org Developers Conference 2023 is being organized by Igalia in A Coruña, Spain at the Palexco Conference Center. Igalia briefly announced their XDC2023 hosting plans at the end of last year while has now published more details on the event. XDC2023 is happening about a month later than usual with the event set to run from 17 to 19 October. The initial details on XDC2023 can be found via the Igalia blog .
+
+
+***
+![Inside Olly Murs' incredible fitness transformation and body overhaul](https://iknowallnews.com/wp-content/uploads/2023/02/Inside-Olly-Murs-incredible-fitness-transformation-and-body-overhaul-The-Sun.jpg "Inside Olly Murs' incredible fitness transformation and body overhaul")
+
+
+[Inside Olly Murs' incredible fitness transformation and body overhaul](https://iknowallnews.com/tv-movies/inside-olly-murs-incredible-fitness-transformation-and-body-overhaul-the-sun/)
+
+
+> Home » TV & Movies » Inside Olly Murs' incredible fitness transformation and body overhaul | The Sun OLLY Murs has totally transformed his body after the past few years. The 38-year-old revealed his incredible weight loss and ripped physique after physical and ‘mental transformation' last September. Olly, who shot to fame on The X Factor in 2009, started his fitness journey back in 2020. In 2019 the singer underwent knee surgery, which contributed to his weight gain. Olly started dating his bodybuilder fiance Amelia Tank the same year, it was her who inspired him to get into the best shape of his life after his recovery.
+
+
+***
+![Cities: Skylines debuts next week on PS5 and Xbox Series – Cities: Skylines](https://www.gamereactor.cn/media/01/cities_3960133_650x.png "Cities: Skylines debuts next week on PS5 and Xbox Series – Cities: Skylines")
+
+
+[Cities: Skylines debuts next week on PS5 and Xbox Series – Cities: Skylines](https://www.world-today-news.com/cities-skylines-debuts-next-week-on-ps5-and-xbox-series-cities-skylines/)
+
+
+> Paradox Interactive and developer Colossal Order have announced that Cities: Skylines will debut next week on current-gen consoles. This version of the game, which will be released on PS5 and Xbox Series devices, will be a Remastered Edition that uses the console's extra power to deliver graphical improvements, as well as more buildable tiles and additional player tools. Set to arrive on 15 February, we're told the Remastered Edition will retail for £34.99/€39.99, but will come as a free update for anyone who owns a copy of the game and all of its DLC on PS4 or Xbox One.
+
+
+***
+![Chinese phones from OnePlus, Xiaomi, and Oppo are laced with spyware](https://m-cdn.phonearena.com/images/article/145537-wide-two_1200/Chinese-phones-from-OnePlus-Xiaomi-and-Oppo-are-laced-with-spyware.jpg "Chinese phones from OnePlus, Xiaomi, and Oppo are laced with spyware")
+
+
+[Chinese phones from OnePlus, Xiaomi, and Oppo are laced with spyware](https://www.phonearena.com/news/Chinese-phones-from-OnePlus-Xiaomi-and-Oppo-are-laced-with-spyware_id145537)
+
+
+> China is the world's largest smartphone market and over 70 percent of handsets in the country run Android. Researchers from the University of Edinburgh and Trinity College Dublin have found that OnePlus, Xiaomi, and Oppo Realme smartphones sold in China transmit large swathes of data to various parties without user consent. (via Gizmodo ) The phones come pre-installed with a large number of system and vendor apps with dangerous privileges enabled by default. This allows them to collect and transmit identifiable information related to a device's persistent identifiers, location, user profile, and and owner's social relationships.
+
+
+***
+![Roskosmos published a photo of the earthquake-hit Hatay airport](https://mf.b37mrtl.ru/russian/images/2023.02/article/63e8e98c02e8bd4b232f7140.png "Roskosmos published a photo of the earthquake-hit Hatay airport")
+
+
+[Roskosmos published a photo of the earthquake-hit Hatay airport](https://www.tellerreport.com/tech/2023-02-12-roskosmos-published-a-photo-of-the-earthquake-hit-hatay-airport.Bk-ha6vIps.html)
+
+
+> Roskosmos showed a picture from space, which depicts the Hatay airport damaged by the earthquake. 'Sharing another picture of Turkey. The Roscosmos satellite Kanopus-V filmed Hatay airport after a series of earthquakes. Earlier, Roscosmos published a photo of a tectonic fault in Turkey. The Minister of Health of the country, Fahrettin Koca, said that the number of victims today has already exceeded 22 thousand, more than 80 thousand people have suffered. In turn, the Syrian Ministry of Heal 'Sharing another picture of Turkey.
+
+
+***
+![This viral feminist cartoon just summed up the exhausting reality of dating apps](https://iknowallnews.com/wp-content/uploads/2023/02/This-viral-feminist-cartoon-just-summed-up-the-exhausting-reality-of-dating-apps.jpg "This viral feminist cartoon just summed up the exhausting reality of dating apps")
+
+
+[This viral feminist cartoon just summed up the exhausting reality of dating apps](https://iknowallnews.com/lifestyle/this-viral-feminist-cartoon-just-summed-up-the-exhausting-reality-of-dating-apps/)
+
+
+> Home » Lifestyle » This viral feminist cartoon just summed up the exhausting reality of dating apps Written by Amy Beecham Artist Lily O'Farell just said what we've all been thinking about the last decade of dating apps. Feminist cartoonist Lily O'Farell, creator of the Instagram account @vulgadrawings is known for her relatable and tongue-in-cheek art that seems to sum up exactly what we're thinking and feeling at all times. But her latest viral cartoon really sums up the minefield that is online dating in 2023.
+
+
+***
+![Hogwarts Legacy: Breaking Camp Quest Guide](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/how-to-complete-breaking-camp-quest-in-hogwarts-legacy.jpg "Hogwarts Legacy: Breaking Camp Quest Guide")
+
+
+[Hogwarts Legacy: Breaking Camp Quest Guide](https://gamerant.com/hogwarts-legacy-breaking-camp-quest-guide/)
+
+
+> After completing the first Upper Hogsfield side quest in Hogwarts Legacy , players can trigger the second quest. The latter is given by Claire Beaumont; a shop owner in Upper Hogsfield. Her shop offers various Hogwarts Legacy ingredients like Stench of the Dead, Mongrel Fur, and Spider Fang. Claire fumes about the lack of trading because the Goblins occupied nearby Camps and how she wants them gone. Claire further explains her frustration about how Ranrok and his followers have set up Camps near Hamlet with no regard for Upper Hogsfield or their livelihoods.
+
+
+***
+![AI in Bing: 5 Things to Try With Microsoft's New Search Services](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17dtqH.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "AI in Bing: 5 Things to Try With Microsoft's New Search Services")
+
+
+[AI in Bing: 5 Things to Try With Microsoft's New Search Services](http://www.msn.com/en-us/news/technology/ai-in-bing-5-things-to-try-with-microsoft-s-new-search-services/ar-AA17dRJu)
+
+
+> Microsoft announced an enhanced Bing on Tuesday, saying the company's longtime second-place search engine now has the AI tech behind ChatGPT inside. The service will include a chatbot that can answer your queries in conversational style, letting you use it for things like planning travel or researching home improvement projects. CEO Satya Nadella said the juiced-up search service aims to take on queries that aren't getting relevant results on today's search engines. People increasingly use search to get advice and information on complex topics, not just a link to a website, and the AI boost to Bing aims to make it more usable.
+
+
+***
+![Express: The Sussexes' Chubbly appearance will be ‘meticulously crafted'](https://iknowallnews.com/wp-content/uploads/2023/02/Express-The-Sussexes8217-Chubbly-appearance-will-be-8216meticulously-crafted8217.jpg "Express: The Sussexes' Chubbly appearance will be ‘meticulously crafted'")
+
+
+[Express: The Sussexes' Chubbly appearance will be ‘meticulously crafted'](https://iknowallnews.com/celebrities/express-the-sussexes-chubbly-appearance-will-be-meticulously-crafted/)
+
+
+> Home » Celebrities » Express: The Sussexes' Chubbly appearance will be ‘meticulously crafted' At some point, the British tabloids will ease out of this hysterical 'will the Sussexes be invited to the coronation' narrative. By the end of the month (hopefully) they'll establish that the Duke and Duchess of Sussex were sent invitations, so then the narrative will be 'how can we ensure that Harry and Meghan are visibly punished when they inevitably attend the Clowning?' They'll continue to skip over the part where Harry and Meghan can make up their own minds about whether they'll attend and how their attendance is contingent on several big, notable things.
+
+
+***
+![Tom Cruise to shut down his UK production after being invited to the Chubbly](https://iknowallnews.com/wp-content/uploads/2023/02/Tom-Cruise-to-shut-down-his-UK-production-after-being-invited-to-the-Chubbly.jpg "Tom Cruise to shut down his UK production after being invited to the Chubbly")
+
+
+[Tom Cruise to shut down his UK production after being invited to the Chubbly](https://iknowallnews.com/celebrities/tom-cruise-to-shut-down-his-uk-production-after-being-invited-to-the-chubbly/)
+
+
+> Home » Celebrities » Tom Cruise to shut down his UK production after being invited to the Chubbly It's still so fascinating to watch Tom Cruise cozy up to the British establishment and British royal family. Cruise has been based out of England for years now, as he's worked on back-to-back productions filming at Shepperton. He seems to enjoy British life a lot – I have no idea if he has a place in London, but I'm sure he's bought (or he rents) a place in the country. He was invited to some of the Jubbly events last year, and he hosted a royal premiere for Top Gun: Maverick , personally escorting Prince William and Kate around.
+
+
+***
+![The Midnight Parasites is a short psychedelic animation directed by Yoji Kuri](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/MV5BOGM4OGZjN2ItZTY2OS00N2M5LWJlNjUtYjJjMWM0YzNjODAyXkEyXkFqcGdeQXVyMjA1MjQzNDY@._V1_FMjpg_UX1000_.jpg?fit=1000%2C745&ssl=1 "The Midnight Parasites is a short psychedelic animation directed by Yoji Kuri")
+
+
+[The Midnight Parasites is a short psychedelic animation directed by Yoji Kuri](https://boingboing.net/2023/02/12/the-midnight-parasites-is-a-short-psychedelic-animation-directed-by-yoji-kuri.html)
+
+
+> The Midnight Parasites is a short psychedelic animation directed by Yoji Kuri. This wonderfully strange 9-minute film, created in 1972, has been regarded as a precursor to René Laloux's acclaimed 1973 animation, Fantastic Planet . The Midnight Parasites takes place in a desolate, alien landscape where many strange beings interact. Some of the creatures are kind and others are destructive. Watching it feels like peeking into Kuri's mind and watching a beautiful and scary fever dream. The originality and raw creativity in this animation is awe-inspiring.
+
+
+***
+![Apple AirTag Helped Couple Get Back Stolen Car Within 2 Hours- Here's How](https://english.cdn.zeenews.com/sites/default/files/2023/02/12/1153063-untitled-design-2023-02-12t174126.641.jpg "Apple AirTag Helped Couple Get Back Stolen Car Within 2 Hours- Here's How")
+
+
+[Apple AirTag Helped Couple Get Back Stolen Car Within 2 Hours- Here's How](https://zeenews.india.com/technology/apple-airtag-helped-couple-get-back-stolen-car-within-2-hours-heres-how-2572531.html)
+
+
+> New Delhi:  According to news outlet WRAL, Apple AirTag assisted a US couple in finding their stolen car within hours. According to images from the doorbell camera, the burglars chose Leslie and Antar Muhammad's Toyota Camry after an attempt to break into a neighbor's car failed. The couple from North Carolina was asleep when the criminals stole their automobile, and they didn't realise it was gone until the next morning. However, the position of the car was quickly found thanks to Apple's tracking tool AirTag.
+
+
+***
+![Turkey Earthquake: WhatsApp Saves Student in Quake- Here's How](https://english.cdn.zeenews.com/sites/default/files/2023/02/12/1153047-untitled-design-2023-02-12t172245.510.jpg "Turkey Earthquake: WhatsApp Saves Student in Quake- Here's How")
+
+
+[Turkey Earthquake: WhatsApp Saves Student in Quake- Here's How](https://zeenews.india.com/technology/turkey-earthquake-whatsapp-saves-student-in-quake-heres-how-2572520.html)
+
+
+> New Delhi:  After sharing his location in a video appeal on WhatsApp, a 20-year-old student named Boran Kubat was rescued from under the rubble of an apartment building in eastern Turkey. While visiting family in Malatya, Boran and his mother, both from Istanbul, were shaken by the twin earthquakes. The family had returned to the building after surviving the morning's first earthquake, which caused the structure to collapse in the subsequent quake of 7.5 magnitude. While trapped with his family beneath the apartment's debris, Boran realised he could notify friends via social media on his smartphone.
+
+
+***
+![Paula Abdul Reveals 2 Psychics Predicted 'American Idol' Success](https://iknowallnews.com/wp-content/uploads/2019/11/cropped-ser7-32x32.gif "Paula Abdul Reveals 2 Psychics Predicted 'American Idol' Success")
+
+
+[Paula Abdul Reveals 2 Psychics Predicted 'American Idol' Success](https://iknowallnews.com/lifestyle/paula-abdul-reveals-2-psychics-predicted-american-idol-success)
+
+
+> The future is bright. Amid Paula Abdul‘s new partnership with Psychics1on1, the 'Straight Up' singer has opened up about how psychics foretold her American Idol success. ‘American Idol' Judges Through the Years and Why They Left 'I had been told by two different spiritual advisors and psychics that I'm going to end up doing a job – a show,' the Grammy Award winner, 60, told the Daily Mail on Wednesday, February 8. '60 million albums is going to be nothing compared to a TV show that I'm going to be doing that is going to be a global success around the world.
+
+
+***
+![AW changed my PB for 5k and 10k](https://images.macrumors.com/social/?t=2380507&v=6 "AW changed my PB for 5k and 10k")
+
+
+[AW changed my PB for 5k and 10k](https://forums.macrumors.com/threads/aw-changed-my-pb-for-5k-and-10k.2380507/)
+
+
+> Hi all, I started running with my Ultra since release. Still running with my Garmin (just cant lose my stats). And everything was just fine until me and my girlfriend tried to compare our PBs. Now to the problem, when i check my "badges" for the PBs for 5k and 10k they are different the the fastest runs i did before.... Is Apple "refreshing" PBs, anyone? My fastest run on Ultra was 51:24 for 10K on December 26 Now my PB for the distance is 55:27 on January 24
+
+
+***
+![Microsoft, Google's AI wars. First preview of Android 14.India's Twitter Blue and other top tech news of the week](https://i.imgur.com/AoyxWyw.png "Microsoft, Google's AI wars. First preview of Android 14.India's Twitter Blue and other top tech news of the week")
+
+
+[Microsoft, Google's AI wars. First preview of Android 14.India's Twitter Blue and other top tech news of the week](https://exbulletin.com/tech/2042562/)
+
+
+> Google announced Brad, a ChatGPT competitor, while Microsoft is integrating ChatGPT into its search engine, Bing, and Edge browser. After months of waiting, Google has released the first preview of his Twitter Blue arriving in India. OnePlus launches a number of products. While Realme brought a special edition Coca-Cola smartphone. Layoffs continue in the tech industry. This and other top tech news of the week. 112 Google Announces ChatGPT Competitor Bard Google officially announced late last year that it was working on ChatGPT, the AI ​​chatbot that took the world by storm.
+
+
+***
+![Huawei P60 Series Might Be Showcased at MWC Barcelona 2023](https://www.gizmochina.com/wp-content/uploads/2023/02/Huawei-P60-lineup-Gizmochina.png "Huawei P60 Series Might Be Showcased at MWC Barcelona 2023")
+
+
+[Huawei P60 Series Might Be Showcased at MWC Barcelona 2023](https://www.gizmochina.com/2023/02/12/huawei-p60-series-might-be-showcased-at-mwc-barcelona-2023)
+
+
+> Huawei is gearing up to launch the Huawei P60 lineup of smartphones in the market. The brand will reportedly launch the Huawei FreeBuds Pro 2+ TWS earphones alongside the P60 lineup. The devices will undergo many changes and will feature upgraded hardware specifications and features. Now, there has been a rumour on the internet which claims that Huawei might display these upcoming smartphones at the MWC Barcelona 2023 event. On the Chinese microblogging site Weibo, a few posts from various tipsters had been made referencing the upcoming Huawei P60 series.
+
+
+***
+![MB Pro M1 14", no screensaver, no display sleep](https://images.macrumors.com/social/?t=2380506&v=6 "MB Pro M1 14", no screensaver, no display sleep")
+
+
+[MB Pro M1 14", no screensaver, no display sleep](https://forums.macrumors.com/threads/mb-pro-m1-14-no-screensaver-no-display-sleep.2380506/)
+
+
+> Jan 20, 2010 791 108 Belgium, Europe I have a MB Pro M1, 14 inch, running the latest version of Ventura (13.2) and when using in clamshell mode, I cannot get the screensaver to activate or get the display go to sleep (external Dell Ultrasharp U3421WE). In extended display mode, no issues, both built-in and external display go to sleep at the same time. As for clamshell mode, I tried different settings, different time settings but the display just stays on all the time.
+
+
+***
+![The iPhone 15 And 15 Plus Could Continue To Use The Same 60Hz Display](https://i0.wp.com/technostalls.com/wp-content/uploads/2022/12/iphone-apple-scaled.jpg?resize=640%2C360&ssl=1 "The iPhone 15 And 15 Plus Could Continue To Use The Same 60Hz Display")
+
+
+[The iPhone 15 And 15 Plus Could Continue To Use The Same 60Hz Display](https://technostalls.com/the-iphone-15-and-15-plus-could-continue-to-use-the-same-60hz-display/)
+
+
+> Credit: Pixabay The iPhone 14 and 14 Plus are two of the most recognizable high-end devices, yet they still don't have quick screens. A source claims that Apple will only include a 120 Hz refresh rate in the iPhone 15 Pro models, meaning that the basic variants of the iPhone 15 in 2023 will also be left out in the cold. Although mid-range Android handsets have had 90 Hz to 120 Hz displays for years, Apple has always priced them more than they should be for the iPhone. And if a leaker's story is accurate, Apple may once again cheat the majority of its customers out of iPhones.
+
+
+***
+![Samsung Galaxy A54 Visits TENAA With Key Specifications](https://www.gizmochina.com/wp-content/uploads/2023/02/Galaxy-A54-renders-1068x620-1.jpg "Samsung Galaxy A54 Visits TENAA With Key Specifications")
+
+
+[Samsung Galaxy A54 Visits TENAA With Key Specifications](https://www.gizmochina.com/2023/02/12/samsung-galaxy-a54-tenaa-key-specifications)
+
+
+> After refreshing its flagship S series, Samsung is now preparing to bring new phones in the mid-range A lineup. These devices could be the Galaxy A54 and Galaxy A34. Both phones have been making rounds on various certification sites recently and are rumored to arrive next month. While we wait, the A54 has now bagged China's TENAA certification. Some of its specifications have also been revealed in the process. Here are the details. Galaxy A54 has appeared on the TENAA website with model number SM-A5400.
+
+
+***
+![Change the Face ID setting, or anyone can get into your iPhone](https://www.gannett-cdn.com/-mm-/c24d05a3e8f30d9cc8939450b47b8601b9151738/c=0-1-580-327/local/-/media/2017/11/03/USATODAY/usatsports/iphonex-face-recognition-beach_large.jpg?auto=webp&format=pjpg&width=1200 "Change the Face ID setting, or anyone can get into your iPhone")
+
+
+[Change the Face ID setting, or anyone can get into your iPhone](https://www.usatoday.com/story/tech/columnist/komando/2023/02/12/your-iphone-face-id-vulnerable-unless-you-change-setting/11230778002/)
+
+
+> Your iPhone has a ton of important privacy features. For example, there is a setting to hide your IP address when you send an email. This way, advertisers cannot track you this way. Here's how to turn it on. What if you shared your location or other access with someone and now want to stop? There's an easy way to make your texts, location, and other data private again. The internet is a dangerous place. Join over 400,000 people and stay updated with my free daily newsletter. Your Face ID is vulnerable unless you change this setting First, Apple's Face ID uses the TrueDepth camera to capture accurate face data by projecting and analyzing thousands of invisible dots.
+
+
+***
+![Brawl Stars Guide: Tips to get and change Pins in the game](https://i0.wp.com/gamingonphone.com/wp-content/uploads/2022/01/brawl_stars_cover_wallpaper.jpg "Brawl Stars Guide: Tips to get and change Pins in the game")
+
+
+[Brawl Stars Guide: Tips to get and change Pins in the game](https://gamingonphone.com/?p=261236)
+
+
+> Brawl Stars is a strategy game developed and published by Supercell . In Brawl Stars, players battle against each other in real-time multiplayer matches, using a variety of characters called Brawlers, each with their unique abilities and attributes. The game features multiple game modes, including solo and team-based matches. Here's our guide on pins in Brawl Stars and how to get and change them. Pins in Brawl Stars  Pins are cosmetic items in Brawl Stars emotes which can be used to communicate with your teammates in the battleground.
+
+
+***
+![People are still only noticing small flaws in Google's logo.](https://i.imgur.com/AoyxWyw.png "People are still only noticing small flaws in Google's logo.")
+
+
+[People are still only noticing small flaws in Google's logo.](https://exbulletin.com/tech/2042546/)
+
+
+> Remember the hype about the Google logo? No, if you missed it the first time, don't worry. Because it's not gone. Eight years after the logo appeared, people continue to make shocking discoveries that the circular G isn't actually circular. This discovery led to Google's mathematics design prowess, which was questionable at the time, and still makes headlines today. But is Google really breaking the rules for logo design? Let's take a closer look. Dissected Google logo (Image credit: A_freakin_t-rex on Reddit) Google is such a huge brand that every logo it creates tends to be analyzed for even the most minor products (see History of the Google Logo and Discussion of the Gmail Logo for more details).
+
+
+***
+![Here's how to hide messages and chats on WhatsApp](https://www.gizchina.com/wp-content/uploads/images/2023/02/how-to-hide-whatsapp-chat-1200x675.jpg "Here's how to hide messages and chats on WhatsApp")
+
+
+[Here's how to hide messages and chats on WhatsApp](https://www.gizchina.com/2023/02/12/heres-how-to-hide-messages-and-chats-on-whatsapp/)
+
+
+> WhatsApp is a widely used instant messaging app that enables users to chat with friends, family, colleagues, and other contacts. With its extensive use, there may be situations when users might not want others to access their chats for privacy or confidentiality reasons. In such cases, it becomes necessary for users to know the process of hiding chats in WhatsApp with a password or archiving them or transferring the conversations to a different location. This article will provide a comprehensive guide on how to hide chats in WhatsApp, why to hide messages and chats on WhatsApp, and the different methods to do so.
+
+
+***
+![Google and Microsoft respond to ChatGPT and other small business tech news this week](https://imageio.forbes.com/specials-images/imageserve/63e624cfc39d1a011d9d9cc3/0x0.jpg?format=jpg&width=1200 "Google and Microsoft respond to ChatGPT and other small business tech news this week")
+
+
+[Google and Microsoft respond to ChatGPT and other small business tech news this week](https://exbulletin.com/tech/2042532/)
+
+
+> The Google logo on the phone screen and the Bard sign on Google's website on the screen… [+] Seen in this illustration photo taken in Krakow, Poland on February 6, 2023 (Photo by Jakub Porzycki/NurPhoto via Getty Images) NurPhoto via Getty Images Here are five tech-related events that happened this week and how they affect your business. did you miss them? 1 – Google shows more of what ChatGPT competitor Bard can do. The next-level internet search capabilities were showcased in a livestream in Paris on Wednesday.
+
+
+***
+![13 Ways to Build a Happy & More Productive Workforce](https://www.wrike.com/blog/wp-content/uploads/2015/08/ideas-for-happier-office.jpg "13 Ways to Build a Happy & More Productive Workforce")
+
+
+[13 Ways to Build a Happy & More Productive Workforce](https://techmoran.com/2021/06/06/13-ways-to-build-a-happy-more-productive-workforce/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![GNOME's Mutter Lands Implicit Grabbing In Clutter To Enhance Gesture Handling](https://www.phoronix.com//assets/categories/gnome.webp "GNOME's Mutter Lands Implicit Grabbing In Clutter To Enhance Gesture Handling")
+
+
+[GNOME's Mutter Lands Implicit Grabbing In Clutter To Enhance Gesture Handling](https://www.phoronix.com/news/GNOME-Clutter-Implicit-Grabbing)
+
+
+> A ten month old merge request to GNOME's Mutter for adding implicit grabbing to the Clutter code was finally merged last week. Jonas Dreßler wrote in the merge request first opened ten months ago as their first step to new gestures support: It's a beautiful Sunday for sitting outside and coding and we haven't introduced a new grabbing mechanism for at least 2 months, so why not do that? This introduces the necessary infrastructure to implement ClutterActions for tracking pointer/touch gestures.
+
+
+***
+![iPhone 14 Plus, iPhone 14 selling with up to Rs 43,000 discount, iPhone 13 available at Rs 30,900 online: Details](https://www.financialexpress.com/wp-content/uploads/2023/01/iphone-14-new.jpeg "iPhone 14 Plus, iPhone 14 selling with up to Rs 43,000 discount, iPhone 13 available at Rs 30,900 online: Details")
+
+
+[iPhone 14 Plus, iPhone 14 selling with up to Rs 43,000 discount, iPhone 13 available at Rs 30,900 online: Details](https://www.financialexpress.com/life/technology-iphone-14-plus-iphone-14-selling-with-up-to-rs-43000-discount-iphone-13-available-at-rs-30900-online-details-2979411/)
+
+
+> The iPhone 14 Plus and iPhone 14 are being sold with up to a whopping Rs 43,000 discount online. The iPhone 13, too, is being offered at a reduced net effective price of Rs 30,900, which is a reduction of Rs 39,000 from the original. The limited-time deals are part of Apple's third-party authorised retail seller, iVenus's valentine's week celebratory promotions and includes flat discount, bank offer, and exchange bonus. The iPhone 14 Plus price in India is set at Rs 89,900 for 128GB variant. iVenus is offering Rs 9,000 instant discount and an additional cashback of Rs 4,000 on purchases made using HDFC Bank cards.
+
+
+***
+![Minecraft is soon to be available on Chromebooks – Research Snipers](https://researchsnipers.com/wp-content/uploads/2021/11/Samsung-Chromebook-Hinge.png "Minecraft is soon to be available on Chromebooks – Research Snipers")
+
+
+[Minecraft is soon to be available on Chromebooks – Research Snipers](https://researchsnipers.com/minecraft-on-chromebooks-might-become-reality-sooner-than-you-think)
+
+
+> It's an old story from when Chromebooks were just notebooks with limited features. ChromeOS devices were just a bit less satisfying than just Chrome's experience. However, Google has looked for methods to increase the use of Chromebooks, from adding support for Android applications to even Linux programs. As indicated by some dazzling new gaming Chromebooks, the company's new focus is on improving its lightweight, do-anything operating system for gaming. However, this doesn't preclude you from occasionally playing games locally.
+
+
+***
+![Digitizing 10,000 paper forms, saving 10 billion hours](https://imageio.forbes.com/specials-images/imageserve/63e8c8d685cf9b36f9ffa54f/0x0.jpg?format=jpg&width=1200 "Digitizing 10,000 paper forms, saving 10 billion hours")
+
+
+[Digitizing 10,000 paper forms, saving 10 billion hours](https://exbulletin.com/tech/2042508/)
+
+
+> John Wirthlin of Zebra Technology. MJ Jackson, DocuSign Paul Brubaker, Department of Veterans… [+] Clerical Affairs; Darren Ash, Home Office U.S. companies lead the world in digital transformation technologies, yet federal, state, and local governments are largely oblivious to these innovations. The Chamber of Commerce hopes to fix this by implementing their recommendations. We convened hundreds of public and private sector leaders for our inaugural Digital Transformation Summit. Keynote addresses featured information leaders from the Department of General Services and the Department of Management and Budget.
+
+
+***
+![Research partnerships to help grow the economy](https://bloximages.newyork1.vip.townnews.com/idahocountyfreepress.com/content/tncms/assets/v3/editorial/6/9e/69e54f28-7171-11eb-b61d-b7625be62ee3/602d9bf6f2dcc.image.jpg?crop=1662,873,0,187&resize=1200,630&order=crop,resize "Research partnerships to help grow the economy")
+
+
+[Research partnerships to help grow the economy](https://exbulletin.com/tech/2042490/)
+
+
+> Three universities in Idaho have formed a research partnership aimed at promoting economic growth in the region. The Mountains and Plains University Innovation Alliance wants to support industrial and high-tech innovation in Idaho, Montana, North Dakota, South Dakota, and Wyoming. Boise State University's research profile and innovative thinking are powerful catalysts for economic growth, said President Marlene Trump. Working with our regional higher education partners and combining our strengths with those of our partners is a big win for Idaho.
+
+
+***
+![Barron's Picks Weekend's Top Stocks: Will Google, Microsoft, Disney and Elon Musk Become World's Richest People Again? – General Electric (NYSE:GE), Walt Disney (NYSE:DIS)](https://cdn.benzinga.com/files/images/story/2023/02/11/business_newspaper6.jpg?width=1200&height=800&fit=crop "Barron's Picks Weekend's Top Stocks: Will Google, Microsoft, Disney and Elon Musk Become World's Richest People Again? – General Electric (NYSE:GE), Walt Disney (NYSE:DIS)")
+
+
+[Barron's Picks Weekend's Top Stocks: Will Google, Microsoft, Disney and Elon Musk Become World's Richest People Again? – General Electric (NYSE:GE), Walt Disney (NYSE:DIS)](https://exbulletin.com/tech/2042480/)
+
+
+> Benzinga reviews this weekend's top stories covered by the magazine. Here are the articles investors should read: In 'ChatGPT sparked an AI frenzy. Investors need long-term planning,' by Eric Savitz, Wall Street's excitement over ChatGPT and new AI developments led Microsoft Inc MSFT and Alphabet Inc's GOOG GOOGL Thinking about what it means for Google. In 'Buy Hertz stock. It's cheap, well run, and you can rent a Tesla,' Andrew Barry said of the three car rental companies, Hertz Global Holdings HTZ is the best for investors.
+
+
+***
+![Xiaomi 13 Lite Revealed With Perforated Dual Camera Design](https://i0.wp.com/sparrowsnews.com/wp-content/uploads/2023/02/wp-1676203571530.jpg "Xiaomi 13 Lite Revealed With Perforated Dual Camera Design")
+
+
+[Xiaomi 13 Lite Revealed With Perforated Dual Camera Design](https://sparrowsnews.com/2023/02/12/xiaomi-13-lite-revealed/)
+
+
+> Xiaomi 13 Series, including the flagship models Xiaomi 13 and Xiaomi 13 Pro, and the new model Xiaomi 13 Lite, is all set to be released globally on February 26 during MWC 2023. This latest series from Xiaomi is expected to bring a storm to the smartphone market with its cutting-edge features and designs. SnoopyTech recently disclosed renderings of the Xiaomi 13 Lite, which showcases its front-perforated dual camera design. According to reports, the Xiaomi 13 Lite will be the international version of the Xiaomi Civi 2 phone.
+
+
+***
+![The MacRumors Show: Andru Edwards Talks ‘iPhone Ultra'](https://i.imgur.com/AoyxWyw.png "The MacRumors Show: Andru Edwards Talks ‘iPhone Ultra'")
+
+
+[The MacRumors Show: Andru Edwards Talks ‘iPhone Ultra'](https://exbulletin.com/tech/2042475/)
+
+
+> YouTuber and podcaster Andru Edwards joins us for an episode of The MacRumors Show this week to discuss the rumored iPhone Ultra model that could arrive next year. According to a recent report by Bloomberg's Mark Gurman, Apple is in talks to offer a new top-of-the-line iPhone alongside Pro and Pro Max models as early as 2024. Based on this timeframe, the device will be part of the 'iPhone' 16 and above lineup. Gurman initially said the iPhone 15 Ultra 'could' replace the iPhone 15 Pro Max this year, but then revised that prediction, stating that Apple will surpass both in the high-end Ultra.
+
+
+***
+![Chinese OnePlus 11 units are apparently region-locked](https://fdn.gsmarena.com/imgroot/news/23/02/chinese-oneplus-11-region-lock/-952x498w6/gsmarena_001.jpg "Chinese OnePlus 11 units are apparently region-locked")
+
+
+[Chinese OnePlus 11 units are apparently region-locked](https://www.gsmarena.com/chinese_oneplus_11_units_are_apparently_regionlocked-news-57525.php)
+
+
+> The OnePlus 11 is currently a hot ticket item, and it's no wonder people have been sourcing units from wherever they can. This is what led to a discovery on the Russian 4PDA forum and a further investigation into what seems to be a region-locked OnePlus 11 unit. Said phone came from China and worked just fine for about two weeks, after which it popped-up a message that roughly translates to : 'You are using a region-customized phone. Its calling functions are restricted in your region. Please contact customer service for support.
+
+
+***
+![HarfBuzz 7.0 Text Shaping Engine Released](https://www.phoronix.com//assets/categories/freesoftware.webp "HarfBuzz 7.0 Text Shaping Engine Released")
+
+
+[HarfBuzz 7.0 Text Shaping Engine Released](https://www.phoronix.com/news/HarfBuzz-7.0-Released)
+
+
+> HarfBuzz 7.0 is out as a new version of this open-source text shaping library used by software like GNOME, KDE, Chrome OS, Java, Chrome, LibreOffice, and others. HarfBuzz 7.0 brings new APIs, a new interface for integrating with the Cairo graphics library, support for font emboldening, significantly reduced memory usage during shaping, a new "hb-info" command-line utility for querying font information, and a variety of other enhancements to this text shaping library. For end-users the most immediate benefit with HarfBuzz 7.
+
+
+***
+![Amazon Fab Phones Fest Sale: Up To 40% OFF On Smartphones From OnePlus, Samsung & More](https://images.news18.com/ibnlive/uploads/2023/01/amazon-167378301616x9.jpg "Amazon Fab Phones Fest Sale: Up To 40% OFF On Smartphones From OnePlus, Samsung & More")
+
+
+[Amazon Fab Phones Fest Sale: Up To 40% OFF On Smartphones From OnePlus, Samsung & More](https://www.news18.com/news/tech/amazon-fab-phones-fest-sale-up-to-40-off-on-smartphones-from-oneplus-samsung-more-7063345.html)
+
+
+> E-commerce giant Amazon recently announced its Fab Phones Fest Sale in India, which will be live until 14th February 2023. And customers can get up to 40 per cent off from top brands such as OnePlus, Samsung, Xiaomi, Realme, iQOO, Oppo and Tecno amongst others. According to the company, they can avail a host of exciting offers and can get 10 per cent instant discount of up to Rs 1,000 using SBI Max credit cards & EMI transactions and upto Rs 1,250 on Federal bank credit card & EMI transactions. Made for each other deals on smartphone accessories.
+
+
+***
+![Microsoft and ChatGPT will not be the Google killer. However, this is one company that could be.](https://i.imgur.com/AoyxWyw.png "Microsoft and ChatGPT will not be the Google killer. However, this is one company that could be.")
+
+
+[Microsoft and ChatGPT will not be the Google killer. However, this is one company that could be.](https://exbulletin.com/tech/2042465/)
+
+
+> In 1981, MTV made its debut. That first music video? ‘Video Killed the Radio Star' by Buggles. Many thought the choice would prove prophetic. It wasn't. Today, the radio business continues to thrive. Meanwhile, MTV is no longer the cultural mogul it was in its heyday. How the history of MTV and radio has played out may seem like a foregone conclusion, but it highlights that it is often not. I am reminded of this by the current prevalent speculation that OpenAI's ChatGPT chatbot could pose a lethal threat to Alphabet's (GOOG -0.
+
+
+***
+![Google Miscalculates Retirement Benefits, Lays Off Employees, Gets Less Inventory Than Expected](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202302/google_4-sixteen_nine.jpg?VersionId=_ogRVMzJWufRIB6xPjsVxe4vs_ARcvCO "Google Miscalculates Retirement Benefits, Lays Off Employees, Gets Less Inventory Than Expected")
+
+
+[Google Miscalculates Retirement Benefits, Lays Off Employees, Gets Less Inventory Than Expected](https://exbulletin.com/tech/2042455/)
+
+
+> Google has issued an apology email to dismissed employees after miscalculating the stock they had to distribute as part of their severance pay. Some employees are stressed after learning they will have less inventory than expected. By Divyanshi Sharma: Google last month announced its decision to lay off 12,000 employees worldwide, causing panic among those affected. His CEO of the company, Sundar Pichai, said he accepts 'full responsibility' for this transition and fully supports laid-off employees during this difficult phase.
+
+
+***
+![Meta is planning more job cuts – Research Snipers](https://researchsnipers.com/wp-content/uploads/2022/01/Facebook-Meta-New-lawsuit-makes-breaking-up-a-real.jpg "Meta is planning more job cuts – Research Snipers")
+
+
+[Meta is planning more job cuts – Research Snipers](https://researchsnipers.com/meta-is-planning-more-job-cuts)
+
+
+> As economic conditions are getting worse day by day. It has become so common to cut off your employees. Most recently, Zoom has laid off 13% of its working staff. Zoom's layoff is just the latest example of tech companies laying off employees in order to combat economic conditions. Recently, Dell laid off 6,650 of its employees. Many companies like Microsoft, Google, Meta, and Amazon have already taken this step to stand up to economic pressures. Meta is planning to cut off more of its workforce In the upcoming week, Meta is planning to lay off more of its employees.
+
+
+***
+![Iatrogenics: Why Intervention Often Leads to Worse Outcomes](https://149664534.v2.pressablecdn.com/wp-content/uploads/2013/10/Iatrogenics.png "Iatrogenics: Why Intervention Often Leads to Worse Outcomes")
+
+
+[Iatrogenics: Why Intervention Often Leads to Worse Outcomes](https://fs.blog/iatrogenics/)
+
+
+> Iatrogenics is when a treatment causes more harm than benefit. As iatros means healer in Greek, the word means 'caused by the healer' or 'brought by the healer.'  Healer, in this sense, need not mean doctor, but anyone intervening to solve a problem. For example, it could be a thought leader, a CEO, a government, or a coalition of the willing. Nassim Taleb calls these people interventionistas. Often these people come armed with solutions to solve the first-order consequences of a decision but create worse second and subsequent order consequences.
+
+
+***
+![take wings? Barclay Banks Eagle Labs scores 12.9 million to grow UK tech ecosystem](https://i.imgur.com/AoyxWyw.png "take wings? Barclay Banks Eagle Labs scores 12.9 million to grow UK tech ecosystem")
+
+
+[take wings? Barclay Banks Eagle Labs scores 12.9 million to grow UK tech ecosystem](https://exbulletin.com/tech/2042437/)
+
+
+> Hannah Bernard, Head of Business Banking, Barclays barclays Things are moving pretty fast. In late January, as I covered in my previous blog, the UK Department for Culture, Media and Sport (DCMS) launched a move aimed at accelerating the growth of the UK's tech start-up and scale-up sectors, with the 12.9 million government announced that the funds would go to Barclays Eagle Lab. This marks the end of the road for Tech Nation, a publicly funded organization he founded a decade ago to foster the innovation economy.
+
+
+***
+![Intel's secret ROC overclocking app pushes Core i9-13900HK mobile CPU to 5.8 GHz](https://cdn.videocardz.com/1/2023/02/INTEL-CORE-13900HK-6GHZ-OC-ROC.jpg "Intel's secret ROC overclocking app pushes Core i9-13900HK mobile CPU to 5.8 GHz")
+
+
+[Intel's secret ROC overclocking app pushes Core i9-13900HK mobile CPU to 5.8 GHz](https://videocardz.com/newz/intels-secret-roc-overclocking-app-pushes-core-i9-13900hk-mobile-cpu-to-5-8-ghz)
+
+
+> Intel ROC (not to be mistaken with AMD ROCm programming stack) is an overclocking application used by Intel OC and validation labs.  Intel ROC app, Source: Der8auer Der8auer has visited Intel labs where the company test the current and upcoming processors. He explains the design of the Intel reference platform used for testing, and what capabilities these motherboards offer to Intel engineers. Most of these features are not (and never will be) available to users. The most interesting part of the video is Der8auer showing Intel's special application for overclocking called ROC (Real-Time OverClocking), which is not available publicly.
+
+
+***
+![Apple Watch Could Get a Camera: New Patents Reveal Possibilities](https://www.gizmochina.com/wp-content/uploads/2023/02/apple-watch-could-get-a-camera-new-patents-reveal-possibilities-3.jpg "Apple Watch Could Get a Camera: New Patents Reveal Possibilities")
+
+
+[Apple Watch Could Get a Camera: New Patents Reveal Possibilities](https://www.gizmochina.com/2023/02/12/apple-watch-could-get-a-camera-new-patents-reveal-possibilities)
+
+
+> As we all know, technology is advancing very quickly, and therefore companies have to think years ahead when planning. In this way, we can obtain information about products such as the iPhone 16, which are far in the future. Especially patents can give us a glimpse into what a company is thinking about, even if they don't guarantee that a product is in development. Finally, some of Apple's plans for smartwatches have emerged. Accordingly, the company has seriously considered incorporating a camera into the Apple Watch.
+
+
+***
+![Sagicor Introduces Facial Recognition Technology for Pensioners](https://i.imgur.com/AoyxWyw.png "Sagicor Introduces Facial Recognition Technology for Pensioners")
+
+
+[Sagicor Introduces Facial Recognition Technology for Pensioners](https://exbulletin.com/tech/2042423/)
+
+
+> Sagicor said the implementation of facial recognition technology has several potential benefits for both pensioners and the pension industry at large. SAGICOR Group Jamaica implemented facial recognition technology in the life verification process for pensioners through a partnership with the University of Technology, Jamaica (UTech). Enabled through UTech's Sagicor Innovation Lab, the partnership has brought together technology that aims to revolutionize the way pensioners prove their entitlement to ongoing payments.
+
+
+***
+![Lava unveils cheapest 'Made In India' 5G phone with 50MP camera](https://images.hindustantimes.com/tech/img/2023/02/12/1600x900/hqdefault_1676200250912_1676200250912_1676200373089_1676200373089.jpg "Lava unveils cheapest 'Made In India' 5G phone with 50MP camera")
+
+
+[Lava unveils cheapest 'Made In India' 5G phone with 50MP camera](https://tech.hindustantimes.com/videos/lava-unveils-cheapest-made-in-india-5g-phone-with-50mp-camera-techshorts-lava5g-ytshorts-71676200253407.html)
+
+
+> videos First Published Date: 12 Feb, 16:43 IST Tags: lava android smartphones 5g phone 71676200253407 NEXT ARTICLE BEGINS
+
+
+***
+![Galaxy Tab S8 to Xiaomi Pad 5: Best tablets you can buy right now](https://images.indianexpress.com/2023/02/cropped-Xiaomi-Pad-5-Xiaomi-2.jpg "Galaxy Tab S8 to Xiaomi Pad 5: Best tablets you can buy right now")
+
+
+[Galaxy Tab S8 to Xiaomi Pad 5: Best tablets you can buy right now](https://indianexpress.com/web-stories/technology/best-tablets-you-can-buy-xiaomi-pad-5-ipad-air-5th-gen/)
+
+
+> Add a colourful twist to your curd rice These quick tips will help keep strawberry legs at bay How does alcohol affect your health When is Holi Festival in 2023? Click or Scan here to read the article
+
+
