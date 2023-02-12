@@ -13205,3 +13205,324 @@
 > That wasn't great, but at least it developed a reasonably accurate map of my house. It automatically designated which surfaces were carpeted and which were hardwood, and I was able to designate no-go zones and clean zones—especially dirty or high-traffic areas—in the app. The mopping arm reliably came down in the kitchen, even if the first few passes were always dry, and the arm doesn't scrub as reliably as the Shark or the Ecovacs versions. I checked after every cleaning run and never found a wet carpet.
 
 
+***
+![Decoding Google's AI Ambitions (And Anxiety)](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/2023-02-11_08-32-49.jpg?h=bd84ecf4&itok=IPztnBIk "Decoding Google's AI Ambitions (And Anxiety)")
+
+
+[Decoding Google's AI Ambitions (And Anxiety)](https://www.zerohedge.com/technology/decoding-googles-ai-ambitions-and-anxiety)
+
+
+> Anyone who's experimented with ChatGPT can get a sense of the potential of  generative AI - even in the technology's earliest stages. As Visual Capitalist's Nick Routley details below, the hype around AI was rising throughout 2022, and has reached a fever pitch today. We've seen hype cycles swell around specific technologies before. Blockchain, Metaverse, NFTs, the list goes on. It remains to be seen what tangible value is created after the heat dies down, but in the meantime, some of the world's biggest companies are taking it  very  seriously.
+
+
+***
+![No New Trial for Ultravision in Absen LED Panel Patent Dispute](https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-498211431.jpg "No New Trial for Ultravision in Absen LED Panel Patent Dispute")
+
+
+[No New Trial for Ultravision in Absen LED Panel Patent Dispute](https://lawstreetmedia.com/news/tech/no-new-trial-for-ultravision-in-absen-led-panel-patent-dispute/)
+
+
+> On Tuesday, the Eastern District of Texas court presiding over the case denied the request put forth by Ultravision Technologies LLC, a manufacturer and distributor of outdoor LED lighting products and digital displays. The jury previously ruled in favor of defendants Shenzhen Absen Optoelectronic Co., Ltd. and Absen Inc. (together, Absen) finding that three Ultravision patent claims relating to LED panel construction were not infringed and were invalid at the conclusion of a six-day trial. In its motion for a new trial and to alter the judgment, Ultravision challenged several of Judge Rodney Gilstrap's legal rulings.
+
+
+***
+![TensorFlow : A Comprehensive Guide](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "TensorFlow : A Comprehensive Guide")
+
+
+[TensorFlow : A Comprehensive Guide](https://www.reddit.com/r/programming/comments/1105ic8/tensorflow_a_comprehensive_guide)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Japan rolls out ‘humble and lovable' delivery robots](https://www.malaymail.com/malaymail/uploads/images/2023/02/12/thumbs/400x400/90937.jpg "Japan rolls out ‘humble and lovable' delivery robots")
+
+
+[Japan rolls out ‘humble and lovable' delivery robots](https://www.malaymail.com/news/tech-gadgets/2023/02/12/japan-rolls-out-humble-and-lovable-delivery-robots/54551)
+
+
+> TOKYO, Feb 12 — 'Excuse me, coming through,' a four-wheeled robot chirps as it dodges pedestrians on a street outside Tokyo, part of an experiment businesses hope will tackle labour shortages and rural isolation. From April, revised traffic laws will allow self-driving delivery robots to navigate streets across Japan. Proponents hope the machines could eventually help elderly people in depopulated rural areas get access to goods, while also addressing a shortage of delivery workers in a country with chronic labour shortages.
+
+
+***
+![Using ChatGPT to fix Python Code](https://external-preview.redd.it/WfiXnfSYhzhvjHXuGumhnxMT0owf1AUdHgXGJVIrwU4.jpg?auto=webp&v=enabled&s=ef85abdfd80dda7936a92fc856e197af50d06daa "Using ChatGPT to fix Python Code")
+
+
+[Using ChatGPT to fix Python Code](https://www.reddit.com/r/Python/comments/1104izo/using_chatgpt_to_fix_python_code)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Trips canceled by the pandemic](https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/b3b78f22-8e7e-11ea-b33c-02fe89184577.jpg "Trips canceled by the pandemic")
+
+
+[Trips canceled by the pandemic](https://www.world-today-news.com/trips-canceled-by-the-pandemic-still-not-reimbursed-after-three-years/)
+
+
+> Bureaucracy loves little boxes on forms and the people who enter those little boxes. This is how, on the eve of the third anniversary of the pandemic, parents are still waiting for the reimbursement of their teenager's school trip by the FICAV, this compensation fund of the Consumer Protection Office (OPC). 'It annoys me to know that many parents may give up because it's too complicated. It's infinite, the mazes, it doesn't make sense, 'says Geneviève Bélisle, mother of two teenagers who were to discover Greece, in the spring of 2020.
+
+
+***
+![Learn how to scrape WordPress website posts and publish to your WP website(educational purposes only)](https://external-preview.redd.it/v6Reyp75OPz58MDcwcp-h-mEESt89NaCPNFpoXWscoI.jpg?auto=webp&v=enabled&s=5d5ac48f15be80848755a08f08dc1856a5265f56 "Learn how to scrape WordPress website posts and publish to your WP website(educational purposes only)")
+
+
+[Learn how to scrape WordPress website posts and publish to your WP website(educational purposes only)](https://www.reddit.com/r/Python/comments/11049zb/learn_how_to_scrape_wordpress_website_posts_and)
+
+
+> Hi Guys, Video tutorial on how to run this script: You will need to install all the necessary python libraries first. https://www.youtube.com/watch?v=Md7cH3u3IcQ and here is the actual Python code that scrapes WP website post IDs import requests import json headers ={ "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9", "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,de;q=0.6", "cache-control": "max-age=0", "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"", "sec-ch-ua-mobile": "?0", "sec-ch-ua-platform": "\"Windows\"", "sec-fetch-dest": "document", "sec-fetch-mode": "navigate", "sec-fetch-site": "none", "sec-fetch-user": "?1", "upgrade-insecure-requests": "1" } for i in range(1,10000): try: g = requests.
+
+
+***
+![Fernando shines in comeback: Salzburg celebrates 4-0 victory over Lustenau](https://derivates.kicker.de/image/upload/c_crop,x_0,y_36,w_900,h_506/w_1200,q_auto/v1/2023/02/11/80cf4900-6f13-4b4a-867d-b65f5a9ea4fd.jpeg "Fernando shines in comeback: Salzburg celebrates 4-0 victory over Lustenau")
+
+
+[Fernando shines in comeback: Salzburg celebrates 4-0 victory over Lustenau](https://www.world-today-news.com/fernando-shines-in-comeback-salzburg-celebrates-4-0-victory-over-lustenau/)
+
+
+> Red Bull Salzburg didn't show any weakness at the start of spring against promoted Austria Lustenau. The Jaissle-Elf celebrated a clear 4-0 victory. Returnee Fernando tied a brace and started to somersault. Offensive man Noah Okafor and Salzburg celebrated a 4-0 win over Lustenau. Red Bull Salzburg After the botched start to the year with the end of the Cup quarterfinals against Sturm Graz, there was no weakness at the start of spring in the Bundesliga. The series champion defeated Austria Lustenau 4-0 at home (0-0) and continues to lead six points ahead of Sturm.
+
+
+***
+![‘Nida Poll' revealed that the people of Muang Khon Supporting Big Tu as Prime Minister But divide your heart and choose the Democratic People's Democratic Party in a constituency-divided way.](https://storage-wp.thaipost.net/2023/02/NIDA-Poll-คนนครศรีธรรมราชเลือกพรรคไหน-1.jpg "‘Nida Poll' revealed that the people of Muang Khon Supporting Big Tu as Prime Minister But divide your heart and choose the Democratic People's Democratic Party in a constituency-divided way.")
+
+
+[‘Nida Poll' revealed that the people of Muang Khon Supporting Big Tu as Prime Minister But divide your heart and choose the Democratic People's Democratic Party in a constituency-divided way.](https://www.world-today-news.com/nida-poll-revealed-that-the-people-of-muang-khon-supporting-big-tu-as-prime-minister-but-divide-your-heart-and-choose-the-democratic-peoples-democratic-party-in-a-constituency-divided-way/)
+
+
+> 12 Feb. 2023 – Opinion Survey Center 'Nida Poll' National Institute of Development Administration Disclose the results of a public survey on 'Which party do the people of Nakhon Si Thammarat choose?' The survey was conducted between 3-8 February 2023 from people aged 18 years and over and eligible to vote in Nakhon Si Thammarat Province. distributed at all levels of education, occupation, and income, totaling 1,310 sample units. About the people of Nakhon Si Thammarat, which party do you choose? live survey Probabilistic sampling from the master sample database list of 'Nida Poll', simple random sampling, data collection by telephone interview.
+
+
+***
+[After the balloon and the UFO… Chinese criticism and ridicule of Biden](https://www.world-today-news.com/after-the-balloon-and-the-ufo-chinese-criticism-and-ridicule-of-biden/)
+
+
+> Beijing criticized US President Joe Biden's behavior, after two incidents of dropping a Chinese balloon a few days ago and another unidentified object, Friday, over the United States. And media owned by the ruling Chinese party said that Biden 'made the US army appear weaker, by using its fighters to drop a balloon and an unknown object,' and dealt with 'hysteria' with Beijing. What did the Chinese state media say? • China Daily, the largest news outlet in China, published an article in which it said that 'the Biden administration's handling of the Chinese balloon issue last week was aimed at showing the strategic strength of the United States amid fierce attacks by Republicans and the decline in popularity of American officials.
+
+
+***
+![Classic Bentley turned into a 400-horsepower electric car](https://motor.ru/imgs/2023/02/11/15/5791683/395c3481da77ebfb41b2fd1c5bfb4a11064328d0.jpg "Classic Bentley turned into a 400-horsepower electric car")
+
+
+[Classic Bentley turned into a 400-horsepower electric car](https://www.world-today-news.com/classic-bentley-turned-into-a-400-horsepower-electric-car/)
+
+
+> In total, 388 copies of the Bentley S2 Continental were produced in the 1960s, but only four cars received a body from the studio of James Young. It is noteworthy that according to the documents, a particular instance is listed as a sedan, while in fact the car is made in a two-door body and is formally a coupe with a 6.2-liter V8 petrol.
+
+
+***
+![CS GO has updated its peak online for the first time since 2020 on Steam. On sale case with anime skin M4 and more](https://ixbt.online/gametech/covers/2023/02/11/nova-filepond-xCoGdu.png "CS GO has updated its peak online for the first time since 2020 on Steam. On sale case with anime skin M4 and more")
+
+
+[CS GO has updated its peak online for the first time since 2020 on Steam. On sale case with anime skin M4 and more](https://www.world-today-news.com/cs-go-has-updated-its-peak-online-for-the-first-time-since-2020-on-steam-on-sale-case-with-anime-skin-m4-and-more/)
+
+
+> Counter-Strike Global Offensive once again managed to set a small online record on Steam Counter-Strike Global Offensive set a new peak online record on Steam on February 11, 2023. He exceeded 1.32 million mark. According to Steam Charts the last time a peak online Counter-Strike Global Offensive of 1.3 million was observed in April 2020. The record coincided well with a recent event. February 10 announced on the addition of the Revolution Case and Capsule to Counter-Strike Global Offensive. There is also a 10th Anniversary sticker capsule on sale (may drop anime sticker).
+
+
+***
+![The Three Musketeers: Kubernetes, ConfigMap & HTML Come Together To View A Webpage](https://miro.medium.com/max/500/1*eCnrmhea0lnhWtDUnxjJdg.jpeg "The Three Musketeers: Kubernetes, ConfigMap & HTML Come Together To View A Webpage")
+
+
+[The Three Musketeers: Kubernetes, ConfigMap & HTML Come Together To View A Webpage](https://medium.com/@bphellinger/the-three-musketeers-kubernetes-configmap-html-come-together-to-view-a-webpage-29f6cbae927f)
+
+
+> Photo Credit: imgflip.com Kubernetes automates operational tasks of container management and includes built-in commands for deploying applications, rolling out changes to your applications, scaling your applications up and down to fit changing needs, monitoring your applications, and more — making it easier to manage applications. What is ConfigMaps? A ConfigMap is an API object that lets you store configuration for other objects to use. Unlike most Kubernetes objects that have a spec , a ConfigMap has data and binaryData fields.
+
+
+***
+[They took good care of him: Meladze, who supported Ukraine, was dealt with](https://www.world-today-news.com/they-took-good-care-of-him-meladze-who-supported-ukraine-was-dealt-with/)
+
+
+> Valery Meladze is no longer a welcome guest at big concerts After the start of the special operation to save the Donbass, a split occurred in Russian show business. Some artists spoke out against the SVO and hastily left the country. Singer Valery Meladze also showed disloyalty to what was happening, but did not cut ties with Russia. He continued to work on the territory of the Russian Federation, speaking at corporate parties and private parties. The situation escalated after the appearance of Valery Shotaevich in Dubai.
+
+
+***
+[A 'black week' for Paris Saint-Germain before the Bayern match](https://www.world-today-news.com/a-black-week-for-paris-saint-germain-before-the-bayern-match/)
+
+
+> Paris Saint-Germain spent a very bad week, as after its exit from the French Cup by falling to its arch-rivals Marseille 1-2 in the middle of the week, it lost again to its host Monaco 1-3 in the league with its last experience before the upcoming confrontation against Bayern Munich, in the first leg of the League final price. European Champions, Tuesday. Paris Saint-Germain remained in the lead with 54 points, while Marseille narrowed the difference to 5 points by defeating Clermont-Ferrand 2-0, and Monaco came third with 47 points.
+
+
+***
+![Prezzee brings back the secret admirer love letter for a new age](https://itwire.com/media/k2/items/cache/782d97da7de301462e5b57dc1b0dc4a5_XS.jpg "Prezzee brings back the secret admirer love letter for a new age")
+
+
+[Prezzee brings back the secret admirer love letter for a new age](https://itwire.com/entertainment/prezzee-brings-back-the-secret-admirer-love-letter-for-a-new-age.html)
+
+
+> Ah, fond memories. Before the days of Tinder, Grindr, Bumble, and all that, those seeking love would send a gift or hand-written note from 'your secret admirer' leaving the recipient thrilled to know somebody out there likes them while wondering who. Australian global gifting business Prezzee is bringing it back in a digital form this Valentine's Day. Prezzee prides itself on creating remarkable gifting moments for consumers, businesses, and over 800 brand partners across the world. The site launched in 2014 and evolved from a two-person Australian start-up to a global business with over 300 staff across North America, the United Kingdom, New Zealand, and, of course, Australia.
+
+
+***
+![How to Build a Dividend Investing Dashboard in Python and Streamlit](https://external-preview.redd.it/mz8ahr-xbJvwx-6uHnU4y9xTtUM74opu_lze9_SBBuU.jpg?auto=webp&v=enabled&s=1e91c1a1714360d73756eb39386673626c7f430d "How to Build a Dividend Investing Dashboard in Python and Streamlit")
+
+
+[How to Build a Dividend Investing Dashboard in Python and Streamlit](https://www.reddit.com/r/Python/comments/1103zrs/how_to_build_a_dividend_investing_dashboard_in)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Dunnes aims to grow Buymie's ecommerce activities after takeover](https://imengine.public.prod.sbp.infomaker.io?uuid=5c4a3e67-2715-5a7f-8b45-6990a807590c&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84746&width=6477&height=3643&x=1.0E-5&y=0.01883 "Dunnes aims to grow Buymie's ecommerce activities after takeover")
+
+
+[Dunnes aims to grow Buymie's ecommerce activities after takeover](https://www.businesspost.ie/tech/dunnes-aims-to-grow-buymies-ecommerce-activities-after-takeover/)
+
+
+> Companies Supermarket ecommerce platform is to remain a standalone entity and retain its chief executive Buymie, the same-day delivery company that is to be acquired by Dunnes Stores, is expected to continue as a standalone entity with chief executive Devan Hughes still running the business, the Business Post has learned. While Dunnes has declined to say if it will safeguard jobs, it is understood that the retailer sees growth opportunities for the company, especially in Britain. Buymie currently employs around 50 people working in tech roles and also has over .
+
+
+***
+![Irish entrepreneurs behind tech firm Overhaul buy back their former company](https://imengine.public.prod.sbp.infomaker.io?uuid=ea3944c9-9029-527a-a1c9-bdd862275def&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.74135&width=1828&height=1028&x=1.0E-5&y=0.14333 "Irish entrepreneurs behind tech firm Overhaul buy back their former company")
+
+
+[Irish entrepreneurs behind tech firm Overhaul buy back their former company](https://www.businesspost.ie/tech/irish-entrepreneurs-behind-tech-firm-overhaul-buy-back-their-former-company/)
+
+
+> Tech First acquisition for Irish-founded supply chain software firm is Sensiguard, a business they sold over a decade ago Overhaul, an Irish-founded supply chain software company which has raised over $60 million from backers, has made its first acquisition, buying back a firm its founders sold over a decade ago. Led by Barry Conlon and David Bowe, Overhaul is headquartered in Austin, Texas, but has its European HQ in Dundalk in Co Louth. Founded in 2016, the company has developed a software-based platform that gives organisations greater oversight of and security in their supply .
+
+
+***
+![3 Privacy-Friendly Alternatives to Google Analytics](https://external-preview.redd.it/3Y4N5BJiROiS6vhI4Xp29ennsNFb00R25kf8VJYgUh0.jpg?auto=webp&v=enabled&s=57b58a330d6886c3e5b1c143aa82f46048336564 "3 Privacy-Friendly Alternatives to Google Analytics")
+
+
+[3 Privacy-Friendly Alternatives to Google Analytics](https://www.reddit.com/r/programming/comments/1103q5h/3_privacyfriendly_alternatives_to_google_analytics)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Father-Son Duo Reportedly Close $2B In Transactions Through Their Title Insurance Firm](https://cms.afrotech.com/wp-content/uploads/2023/02/Untitled-1-37-1568x882.jpg "Father-Son Duo Reportedly Close $2B In Transactions Through Their Title Insurance Firm")
+
+
+[Father-Son Duo Reportedly Close $2B In Transactions Through Their Title Insurance Firm](https://clichemag.com/tech/father-son-duo-reportedly-close-2b-in-transactions-through-their-title-insurance-firm-2/)
+
+
+> 'This $2 billion milestone is significant because it illustrates the correlation between representation, investment in marginalized communities, and their long-term impact on thousands seeking jobs or homes for their families,' said Nadir Rubie, partner at National Standard Abstract, Shoppe Black reports. 'I am proud of what we have accomplished by being true to ourselves since day one. We value every client and partner because relationships matter; that is the core principle of our business.'
+
+
+***
+![Wideboard](https://external-preview.redd.it/AVOx_TyiESpZRd9hHVMAzmLkMdlm6_J6mMOzWnKSr34.jpg?auto=webp&v=enabled&s=3b06e5aa2a50c759b91a6d93ee40de58916f5b90 "Wideboard")
+
+
+[Wideboard](https://www.reddit.com/r/programming/comments/1103fvg/wideboard_render_tens_of_millions_of_lines_of)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![The Witcher 3 Next-Gen with 'realistic vaginas'. CD Projekt RED will remove them soon. Error in one of the modifications.](https://images.gram.pl/news/odfk20230210203125558qume.jpg "The Witcher 3 Next-Gen with 'realistic vaginas'. CD Projekt RED will remove them soon. Error in one of the modifications.")
+
+
+[The Witcher 3 Next-Gen with 'realistic vaginas'. CD Projekt RED will remove them soon. Error in one of the modifications.](https://www.world-today-news.com/the-witcher-3-next-gen-with-realistic-vaginas-cd-projekt-red-will-remove-them-soon-error-in-one-of-the-modifications/)
+
+
+> It's been almost two months since the release of the next-gen update to The Witcher 3: Wild Hunt, and players have just discovered completely new graphical changes that were not present in the original 2015 version. According to Kotaku, the versions for Xbox Series X/S, PlayStation 5 and PC include realistic-looking vaginas in some of the monsters that Geralt faces during his adventure. We are talking about witches and bruxes, who are the only ones who don't wear any clothes, so players can see them in all their glory.
+
+
+***
+![[D] Have their been any attempts to create a programming language specifically for machine learning?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[D] Have their been any attempts to create a programming language specifically for machine learning?")
+
+
+[[D] Have their been any attempts to create a programming language specifically for machine learning?](https://www.reddit.com/r/MachineLearning/comments/1102t34/d_have_their_been_any_attempts_to_create_a)
+
+
+> I'm not arguing against Python's speed when it's asynchronously launching C++ optimized kernels. I just think it's kind of wild how 50% of practical machine learning is making sure your tensor shapes are compatible and there's no static shape checking. It kind of blows my mind given the amount of Python comments I've seen of the form # [B, Z-1, Log(Q), 45] -> [B, Z, 1024] or something like that. Plus you have the fact that the two major machine learning frameworks have both had to implement, like, meta-compilers for Python to support outputting optimized graphs.
+
+
+***
+![Network Analysis in Python with NetworkX](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Network Analysis in Python with NetworkX")
+
+
+[Network Analysis in Python with NetworkX](https://www.reddit.com/r/programming/comments/1102s8j/network_analysis_in_python_with_networkx)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Ford's reportedly working on a $3.5 billion battery plant in Michigan](https://cdn.vox-cdn.com/thumbor/yiRZPkDFdp9lZrrwqmAhcZUllnU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg "Ford's reportedly working on a $3.5 billion battery plant in Michigan")
+
+
+[Ford's reportedly working on a $3.5 billion battery plant in Michigan](https://www.theverge.com/2023/2/11/23595909/ford-battery-plant-michigan-evs)
+
+
+> Ford's gearing up to announce a $3.5 billion battery plant in Marshall, Michigan, according to a report from Automotive News . In an advisory obtained by the outlet, the automaker says it will reveal the news of the factory on Monday in partnership with China's Contemporary Amperex Technology (CATL), a company that creates lithium iron phosphate batteries for electric vehicles (EVs), including the Mustang Mach-E . While Ford still hasn't confirmed these plans, Michigan reportedly offered $1 billion in incentives to attract the automaker.
+
+
+***
+![trouble connecting console port via serial usb, port doesn't show up](https://images.macrumors.com/social/?t=2380467&v=6 "trouble connecting console port via serial usb, port doesn't show up")
+
+
+[trouble connecting console port via serial usb, port doesn't show up](https://forums.macrumors.com/threads/trouble-connecting-console-port-via-serial-usb-port-doesnt-show-up.2380467/)
+
+
+> I have an old mac mini (2012) running on Catalina. I'm trying to set up a pfsense router and to run the console I need to connect the pfsense router to the mini via USB. There is in a interim step where I need to install drivers (Prolific PL2303 USB to UART bridge). So I have installed the driver (Mac mini says it was installed). When I connect the router to the mac mini vs usb I get nothing. I log into terminal and type. ls - l /dev/cu.* (nothing there) I try ls /dev/tty.usbserial (no such file name, this is what it's supposed to be called).
+
+
+***
+![Which speciality of Python has highest demand?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Which speciality of Python has highest demand?")
+
+
+[Which speciality of Python has highest demand?](https://www.reddit.com/r/Python/comments/10zz8ng/which_speciality_of_python_has_highest_demand)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Containerizing and Serving an ML Model with Falcon (instead of Flask/FastAPI)](https://miro.medium.com/max/1200/0*rkS_E-T4Bwde6t-G "Containerizing and Serving an ML Model with Falcon (instead of Flask/FastAPI)")
+
+
+[Containerizing and Serving an ML Model with Falcon (instead of Flask/FastAPI)](https://medium.com/ai-hero/containerizing-and-serving-an-ml-model-with-falcon-21723133cde0?source=rss------kubernetes-5)
+
+
+> Containerizing and Serving an ML Model with Falcon (instead of Flask/FastAPI) In this article in our series on Declarative MLOps, I talk about how you can wrap your model into an HTTP service and containerize it to make it Kubernetes-ready. Workloads on Kubernetes for training or serving ML models need to be containerized. A while back, we published an article on three ways that you can containerize ML models — for serving real-time requests with Flask, using a message…
+
+
+***
+![Slooooowly gathering space / astronomy related Python libraries](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Slooooowly gathering space / astronomy related Python libraries")
+
+
+[Slooooowly gathering space / astronomy related Python libraries](https://www.reddit.com/r/Python/comments/10zy5w4/slooooowly_gathering_space_astronomy_related)
+
+
+> Scan this QR code to download the app now Or check it out in the app stores
+
+
+***
+![Storing embeddings [Discussion]](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Storing embeddings [Discussion]")
+
+
+[Storing embeddings [Discussion]](https://www.reddit.com/r/MachineLearning/comments/10zxibb/storing_embeddings_discussion)
+
+
+> Looking for some advice on storing embeddings. I understand there are few options: Everything in object storage or no sql Everything in vector database like pinecone Vector db + object storage or no sql I've read (3) is the best. Is that right? Also, for the actual content is it better to store as json on s3 or use a no sql database like mongo? Thanks
+
+
+***
+![Using managed Kubernetes service GKE (Google Kubernetes Engine) to deploy MERN stack project.](https://miro.medium.com/max/1200/1*5Qc2deRtPZtvUwp3i9_FoA.png "Using managed Kubernetes service GKE (Google Kubernetes Engine) to deploy MERN stack project.")
+
+
+[Using managed Kubernetes service GKE (Google Kubernetes Engine) to deploy MERN stack project.](https://medium.com/@shampradhanmarket/using-managed-kubernetes-service-gke-google-kubernetes-engine-to-deploy-mern-stack-project-550955ed569e)
+
+
+> Hi Readers, Today, I will be deploying my MERN stack project using GKE (Google Kubernetes Engine). I have created two more blogs for the same MERN stack project. 1. Containerizing MERN (Mongo, Express, React, Node) and Python (Django) project using docker! 2. Deploying MERN stack project using kubernetes! What is Managed Kubernetes Service ? Managed Kubernetes is an open-source system, for automating deployment, scaling, and management of containerized and microservices applications. Basically we don't need to worry about infrastructure of the applications, It can be helpful in the cases where we don't want do complex infrastructure management such creating resources (nodes or virtual machines), networks, scaling the applications up/down etc.
+
+
+***
+![Beginning Kubernetes on the Google Cloud Platform: A Guide to Automating Application Deployment, Scaling, and Management](https://miro.medium.com/max/1200/1*4_eZQdGxjYwqysn8uMVLBw.png "Beginning Kubernetes on the Google Cloud Platform: A Guide to Automating Application Deployment, Scaling, and Management")
+
+
+[Beginning Kubernetes on the Google Cloud Platform: A Guide to Automating Application Deployment, Scaling, and Management](https://medium.com/@touahartoufik/beginning-kubernetes-on-the-google-cloud-platform-a-guide-to-automating-application-deployment-b4409d333578)
+
+
+> 'Beginning Kubernetes on the Google Cloud Platform' is a guide for individuals and organizations looking to deploy, scale, and manage applications using the Kubernetes platform on the Google Cloud. This book is designed to provide a comprehensive and practical overview of using Kubernetes on the Google Cloud, including: Introduction to Kubernetes and the Google Cloud: An overview of the Kubernetes platform, its key features and benefits, and how it can be used on the Google Cloud. Setting up a Kubernetes Cluster on the Google Cloud: A step-by-step guide to setting up a Kubernetes cluster on the Google Cloud, including how to create a cluster, configure nodes, and deploy applications.
+
+
