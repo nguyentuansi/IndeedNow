@@ -12408,3 +12408,800 @@
 > Ryan Haines / Android Authority The Samsung Galaxy Z Fold 4 is far and away the best all-around foldable of its kind. There are other foldable phones out there that do a few things better, such as those that fold perfectly flat and those that have smaller form factors. However, the Galaxy Z Fold 4 has the hardware, software, and global availability that keeps it on top of the heap. It's been around six months since our original Galaxy Z Fold 4 review . How has the phone stood the test of time? I spent some time with the Galaxy Z Fold 4 and have a few thoughts on what's aged like wine — and what's aged like milk.
 
 
+***
+![Apple's Jony Ive Crowns King Charles With Coronation Logo](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17nfOi.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Apple's Jony Ive Crowns King Charles With Coronation Logo")
+
+
+[Apple's Jony Ive Crowns King Charles With Coronation Logo](http://www.msn.com/en-us/news/technology/apple-s-jony-ive-crowns-king-charles-with-coronation-logo/ar-AA17nGuO)
+
+
+> We'll call it the iCrown. Sir Jony Ive, former Apple chief design officer and Steve Jobs compadre, is now the man behind the official emblem for the coronation of King Charles. On Friday, the royal family's website unveiled the emblem, which was created by Ive and his LoveFrom design collective. It features a blue crown surrounded by red plant forms that symbolize the nations of the United Kingdom. "The design was inspired by King Charles' love of the planet, nature, and his deep concern for the natural world," Ive is quoted as saying on the site.
+
+
+***
+![OnePlus announces Jackson Wang as its first APAC Smartphone Ambassador](https://cdn-news.siamphone.com/upload/news/nw51140/OnePlus11-5G-01g.jpg "OnePlus announces Jackson Wang as its first APAC Smartphone Ambassador")
+
+
+[OnePlus announces Jackson Wang as its first APAC Smartphone Ambassador](https://tekdeeps.com/oneplus-announces-jackson-wang-as-its-first-apac-smartphone-ambassador/)
+
+
+> OnePlus APAC launch announcement 'Jackson Hope' world class artist OnePlus APAC Smartphone Ambassador The first in the region for Jackson Wang, a world-class artist who wins many awards. which has been dubbed as ' MAGIC MAN' With energy to work and success in various roles that can not take your eyes off which reflects the spirit of the brand 'OnePlus – Never Settle' perfectly Because we develop ourselves 'Never stop' Always striving to be better for our users. jackson hope Mentioned the feeling of participating in this event that 'I am always thinking about elevating myself and my work to bring something new and exciting to my fans.
+
+
+***
+![Crypto community predicted Cardano price for February 28, 2023](https://i.teknolojioku.com/2/753/510/storage/files/images/2023/02/10/ada-crypto-community-1-7Nuh.png "Crypto community predicted Cardano price for February 28, 2023")
+
+
+[Crypto community predicted Cardano price for February 28, 2023](https://tekdeeps.com/crypto-community-predicted-cardano-price-for-february-28-2023/)
+
+
+> Cardano (ADA) is posting prolonged selling as bears take control of the asset after failing at key resistance levels. The decentralized finance (DeFi) asset has lost momentum in line with the overall crypto market cooldown. Crypto community sets Cardano price for February 28, 2023 Despite ADA's bearish trend, a cryptocurrency community is predicting a positive outcome for the asset in the coming days. Notably, leveraging the price prediction feature, the CoinMarketCap community predicts that ADA will trade at an average price of $0.
+
+
+***
+![This is how ChatGPT will be integrated into the Opera browser](https://www.log.com.tr/wp-content/uploads/2023/02/96810564-C722-432D-B14C-916A0B9AC900-660x371.jpeg "This is how ChatGPT will be integrated into the Opera browser")
+
+
+[This is how ChatGPT will be integrated into the Opera browser](https://tekdeeps.com/this-is-how-chatgpt-will-be-integrated-into-the-opera-browser/)
+
+
+> ChatGPT integrated new Microsoft Bing a further development Opera came by. Artificial intelligence integrated into the browser being done. Recently, China-based parent company Kunlun Tech, Opera into the browser ChatGPT will be integrated said, but did not give further details. At the first stage, it was thought that the artificial intelligence-based chatbot could be accessed directly from the left menu of the browser. However, the company brought a different infrastructure to our mix with the video above.
+
+
+***
+![DC teases the return of this cult Batman on this magnificent poster](https://static.hitek.fr/img/actualite/ill_m/759981189/affichedceutheflashbatman.png "DC teases the return of this cult Batman on this magnificent poster")
+
+
+[DC teases the return of this cult Batman on this magnificent poster](https://tekdeeps.com/dc-teases-the-return-of-this-cult-batman-on-this-magnificent-poster/)
+
+
+> Last week, we revealed to you that James Gunn, the new boss of the DC Extended Universe (DCEU) had finally fixed the case of the Hollywood star of The Flash Ezra Miller, regarding the upcoming film by . And while a new trailer is to be released very soon, fans were able to discover a unpublished poster allowing us to have certain confirmations on the future feature film dedicated to the famous Speedster. the return of a cult batman DC fans know it, the DCEU is on the cusp of big changes. After the change of direction, it's the turn of director James Gunn and Peter Safran to take over the reins.
+
+
+***
+![our opinion on this unusual gaming keyboard](https://images.frandroid.com/wp-content/uploads/2023/01/gg-ironclad-v2-1-1200x800.jpg "our opinion on this unusual gaming keyboard")
+
+
+[our opinion on this unusual gaming keyboard](https://tekdeeps.com/our-opinion-on-this-unusual-gaming-keyboard/)
+
+
+> GG's Ironclad V2 is a one-of-a-kind keyboard due to the work done on optimizing its typing experience. Let's discover this model, which reshuffles the cards of this very competitive market. The keyboard gamer Ironclad V2 is like a UFO in today's market. It doesn't seem to shine with its design, but it shouldn't be underestimated either. The creator of the brand has done very meticulous work in the bowels of the keyboard to offer a typing experience that is light years away from what the giants of the sector offer.
+
+
+***
+![Xiaomi, realme, Samsung… with up to -56%!](https://img.generation-nt.com/xiaomi-12x_035501a801682388.jpg "Xiaomi, realme, Samsung… with up to -56%!")
+
+
+[Xiaomi, realme, Samsung… with up to -56%!](https://tekdeeps.com/xiaomi-realme-samsung-with-up-to-56/)
+
+
+> To start this selection, today we present the smartphone Xiaomi 12X 8 Go / 256 Go. This mobile phone is equipped with an AMOLED screen of 6,28″. In this jewel of technology, a Snapdragon 870 processor and 8 Go to RAM to say goodbye to any freezes on your device. On the camera side, resolutions of 50 MP (for the main sensor), 5 MP (for the telemacro) and 13 MP (for the ultra wide-angle) are offered, which allows you to take high quality photos. His 256 Go de stockage will allow you, moreover, to store your photos without limitation.
+
+
+***
+![The unsafe language doom principle](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "The unsafe language doom principle")
+
+
+[The unsafe language doom principle](https://www.reddit.com/r/programming/comments/1101n50/the_unsafe_language_doom_principle)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Techdirt Podcast Episode 153: An Interview With Rep. Zoe Lofgren](https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png "Techdirt Podcast Episode 153: An Interview With Rep. Zoe Lofgren")
+
+
+[Techdirt Podcast Episode 153: An Interview With Rep. Zoe Lofgren](https://www.techdirt.com/2018/02/06/techdirt-podcast-episode-153-interview-with-rep-zoe-lofgren/)
+
+
+> Politics When it comes to many of the legislative issues of interest to us here at Techdirt, we've always been able to count on at least one voice of reason amidst the congressional chaos: Representative Zoe Lofgren from California. In addition to playing a critical role in the fight against SOPA, she continues to be a voice of reason against bad copyright policy, expansive government surveillance, and the broken CFAA, among many other things. This week, she joins Mike on the podcast for a wide-ranging discussion about these topics and more .
+
+
+***
+![Tech Errors? No More! This Blog Will Help You Fix Them Like a Pro!](https://miro.medium.com/max/1200/0*9MQQpiBhfRaPZhra "Tech Errors? No More! This Blog Will Help You Fix Them Like a Pro!")
+
+
+[Tech Errors? No More! This Blog Will Help You Fix Them Like a Pro!](https://www.wiredprnews.com/tech-errors-no-more-this-blog-will-help-you-fix-them-like-a-pro/)
+
+
+> Tech errors can be incredibly frustrating, especially when you depend on your technology for work or other important tasks. Whether it's a software glitch, a hardware failure, or a connectivity issue, tech problems can bring your productivity to a standstill. However, with the right approach, you can often fix these issues yourself, without having to rely on a professional repair service. In this blog, we'll show you how to troubleshoot and fix tech errors like a pro, so you can get back to your work and activities as soon as possible.
+
+
+***
+![Introduction to Computer Programming in Bangla](https://external-preview.redd.it/pVhu3GaizHA4G2IghUhUXsytlMhs8lCTpJBdjdXK4jI.jpg?auto=webp&v=enabled&s=8b6db40c44999c101b6d49b39f5541fbb0b5a92c "Introduction to Computer Programming in Bangla")
+
+
+[Introduction to Computer Programming in Bangla](https://www.reddit.com/r/programming/comments/1101316/introduction_to_computer_programming_in_bangla)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Group Gathers Outside Twitter's SF Headquarters to Protest Mass Layoffs](https://media.nbcbayarea.com/2019/09/twitter-.jpg?quality=85&strip=all&resize=1200%2C675 "Group Gathers Outside Twitter's SF Headquarters to Protest Mass Layoffs")
+
+
+[Group Gathers Outside Twitter's SF Headquarters to Protest Mass Layoffs](https://www.nbcbayarea.com/news/tech/group-gathers-outside-twitters-sf-headquarters-to-protest-mass-layoffs/3154986/)
+
+
+> Activists gathered outside Twitter headquarters Saturday morning to protest owner Elon Musk's layoffs of thousands of Twitter workers. Musk, the billionaire CEO of Tesla, appears to be approaching the level of public loathing heretofore reserved for folks like Pharma Bro and Kim Jong-un. He let go thousands of Twitter's 7,500 workers after purchasing the company in late 2022 - according to widespread reports, as much as half of Twitter's workforce. The rally took place outside Twitter headquarters at 1355 Market Street at 11 a.
+
+
+***
+![CHARLOTTE GRIFFITHS remembers how a torn glove left the Queen furious](https://iknowallnews.com/wp-content/uploads/2023/02/CHARLOTTE-GRIFFITHS-remembers-how-a-torn-glove-left-the-Queen-furious.jpg "CHARLOTTE GRIFFITHS remembers how a torn glove left the Queen furious")
+
+
+[CHARLOTTE GRIFFITHS remembers how a torn glove left the Queen furious](https://iknowallnews.com/world-news/charlotte-griffiths-remembers-how-a-torn-glove-left-the-queen-furious/)
+
+
+> Home » World News » CHARLOTTE GRIFFITHS remembers how a torn glove left the Queen furious  Late Queen had a gaping hole in her glove at Prince William's wedding in 2011  It was referred to thereafter internally as ‘Holegate' and left the Queen ‘furious'  She kept an extra pair of gloves in her handbag for every engagement after that King Charles might have attracted attention – and a few jokes – after accidentally revealing a hole in his sock during a visit to a London mosque last week, but he's not the first monarch to have suffered a wardrobe malfunction.
+
+
+***
+![Gisele Bundchen Bike Rides With Kids Benjamin, 13, & Vivian, 10, In Miami: Photos](https://hollywoodlife.com/wp-content/uploads/2023/02/gisele-bundchen-kids-ss-ftr.jpg?w=384&h=216&crop=1 "Gisele Bundchen Bike Rides With Kids Benjamin, 13, & Vivian, 10, In Miami: Photos")
+
+
+[Gisele Bundchen Bike Rides With Kids Benjamin, 13, & Vivian, 10, In Miami: Photos](https://newsakmi.com/../../entertainment/celebrity-news/gisele-bundchen-bike-rides-with-kids-benjamin-13-vivian-10-in-miami-photos)
+
+
+> Gisele Bundchen, 42, got in some quality time with her son Benjamin, 13, and daughter Vivian, 10, when they all went for a bike ride on the morning of Feb. 9. The model, who shares her kids with ex Tom Brady, wore a black crop top, black leggings, gray sneakers, and a tan baseball cap over her long hair during the outing, which took place in Miami, FL and can be seen here. Benjamin wore a graphic black T-shirt, shorts, sandals, and a green helmet while his sister wore a gray and white striped top, light pink leggings, black sneakers, and a pink helmet.
+
+
+***
+![Samsung Galaxy A14 4G appears on NBTC, Galaxy M54 5G inches closer to launch with Bluetooth certification](https://fdn.gsmarena.com/imgroot/news/23/02/samsung-galaxy-a14-4g-galaxy-m54-5g-certified/-952x498w6/gsmarena_001.jpg "Samsung Galaxy A14 4G appears on NBTC, Galaxy M54 5G inches closer to launch with Bluetooth certification")
+
+
+[Samsung Galaxy A14 4G appears on NBTC, Galaxy M54 5G inches closer to launch with Bluetooth certification](https://www.gsmarena.com/samsung_galaxy_a14_4g_galaxy_m54_5g_certified-news-57526.php)
+
+
+> Samsung unveiled the Galaxy A14 5G earlier last month, but the company is also planning to launch a 4G version that has popped up on Thailand's NBTC. The Samsung Galaxy A14 4G is listed on the Thai certifying authority's website with model designation SM-A145F/DSN, where "DS" denotes dual-SIM support. However, the NBTC listing doesn't reveal any specs of the Galaxy A14 4G. Samsung Galaxy A14 4G on NBTC Another smartphone Samsung is expected to unveil is the Galaxy M54 5G. We've been hearing about it for the past few months, and while there's no word from Samsung about it, the Galaxy M54 5G has moved a step closer to launch as it bagged Bluetooth certification.
+
+
+***
+![Read these comics while you wait for the DCU's new TV shows and movies](https://cdn.vox-cdn.com/thumbor/6fWQT40JqCjZVo4epS7rVx8zfc8=/0x277:2656x1771/640x360/cdn.vox-cdn.com/uploads/chorus_image/image/71965902/IMG_20BE517390D4_1.0.jpeg "Read these comics while you wait for the DCU's new TV shows and movies")
+
+
+[Read these comics while you wait for the DCU's new TV shows and movies](https://newsakmi.com/news/tech-news/video-games/read-these-comics-while-you-wait-for-the-dcus-new-tv-shows-and-movies/)
+
+
+> Home / News / Tech / Video Games / Read these comics while you wait for the DCU's new TV shows and movies Video Games Sierra Mitchell Send an email 1 hour ago Less than a minute Related Articles
+
+
+***
+![Improve Your OnePlus With This Magnificent Mechanical Keyboard](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17deHk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Improve Your OnePlus With This Magnificent Mechanical Keyboard")
+
+
+[Improve Your OnePlus With This Magnificent Mechanical Keyboard](http://www.msn.com/en-us/news/technology/improve-your-oneplus-with-this-magnificent-mechanical-keyboard/ar-AA17cXeB)
+
+
+> OnePlus is expanding beyond phones and mobile accessories such as the new OnePlus 11 and OnePlus Buds Pro 2 into... mechanical keyboards? The upcoming OnePlus Featuring Keyboard 81 Pro may not be the most direct extension of the company's existing products -- the announcement of its first Android tablet, the OnePlus Pad is a more logical fit. But it was created with feedback from OnePlus fans and designed to match the premium style of its other devices. Read more: OnePlus 11 Review: Powerful, but Not Perfect Load Error OnePlus co-engineered the keyboard with Keychron, a company well known to mechanical keyboard enthusiasts.
+
+
+***
+![Modern Warfare 2 & Warzone 2 players are vanishing through walls](https://editors.dexerto.com/wp-content/uploads/2022/11/18/Warzone-2-purchase-Modern-Warfare-2-error.jpg "Modern Warfare 2 & Warzone 2 players are vanishing through walls")
+
+
+[Modern Warfare 2 & Warzone 2 players are vanishing through walls](https://www.dexerto.com/call-of-duty/modern-warfare-2-warzone-2-players-are-vanishing-through-walls-2058934/)
+
+
+> Modern Warfare 2 & Warzone 2 players are pulling off vanishing acts by walking, diving, and jumping, through walls. As MW2 and & WZ2 continue to roll on, more and more bugs are popping out of the woodwork each day. This is without a doubt one of the most controversial entries on the list though, as players have found spots around Al Mazrah and at least one Multiplayer map where they can simply traverse through walls that are supposed to be completely solid. Modern Warfare 2 & Warzone 2's hollow wall spots The first place is on Embassy, a Modern Warfare 2 map that's also featured in the battle royale mode.
+
+
+***
+![The Galaxy S23 Ultra upgrades the camera to the next level.](https://static.thairath.co.th/media/B6FtNKtgSqRqbnNsbJdwtK2czioHTH0HOwZWsVhQQQAPCPN4rY38p3XyezGW7n0LABQIC.jpg "The Galaxy S23 Ultra upgrades the camera to the next level.")
+
+
+[The Galaxy S23 Ultra upgrades the camera to the next level.](https://www.world-today-news.com/the-galaxy-s23-ultra-upgrades-the-camera-to-the-next-level/)
+
+
+> Samsung Galaxy S23 Has been upgraded to use the latest chip Snapdragon 8 Gen 2 for galaxies, especially with special adjustments to be more powerful and faster, Dynamic AMOLED 2X screen, reinforced with Gorilla Glass Victus 2 on both front and back Support IP 68 standard The camera system comes with smarter software. AI helps to adjust the image to be beautiful, suitable colors, complete details of human faces, whether it is eyes, hair or fingernails. Expert RAW mode, which shoots large uncompressed files and adjusts Any editing comes in the camera app and can instantly edit images in the device.
+
+
+***
+![VueTube is a free and open source mobile frontend for YouTube and in need of Typescript devs. (more info in comments)](https://external-preview.redd.it/jUkrYDOlTR1BFclOlA8cC0IPnFelD1YnHoZq_Bq1lBs.jpg?auto=webp&v=enabled&s=c490e481ec0f98c6affd5abcdefc860739e49879 "VueTube is a free and open source mobile frontend for YouTube and in need of Typescript devs. (more info in comments)")
+
+
+[VueTube is a free and open source mobile frontend for YouTube and in need of Typescript devs. (more info in comments)](https://www.reddit.com/r/programming/comments/110000g/vuetube_is_a_free_and_open_source_mobile_frontend)
+
+
+> VueTube is a free and open source mobile frontend for YouTube and in need of Typescript devs. (more info in comments)
+
+
+***
+![Equinor, Anders Opedal](https://g.api.no/obscura/API/dynamic/r1/ece5/tr_2000_2000_s_f/1675848664000/nett/2023/2/8/10/CE8E6DF5-959A-4994-B94C-14F3922754B8.jpeg?chk=CC3C3C "Equinor, Anders Opedal")
+
+
+[Equinor, Anders Opedal](https://www.world-today-news.com/equinor-anders-opedal-the-equinor-manager-we-have-to-reduce-our-consumption/)
+
+
+> LONDON (Nettavisen): During the presentation of the quarterly report for the fourth quarter, CEO Anders Opedal in Equinor says that everyone must reduce their consumption in order to be able to fill up the stocks again for next winter. – We have come through an unusually warm winter, which keeps the level of stocks high, he says during the presentation. The reason people are concerned about stock levels is that the gas from Russia has disappeared from the market. Nor does it have the infrastructure or the capacity to extract and transport all the gas Europe needs at the moment.
+
+
+***
+![Raptor Lake-HX knocks Apple M2 crowd off PassMark single-thread perch with only Ryzen 9 7945HX threat remaining](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Raptor_Lake_HX_PassMark_Apple_M2_single_thread_drdNBC.jpg "Raptor Lake-HX knocks Apple M2 crowd off PassMark single-thread perch with only Ryzen 9 7945HX threat remaining")
+
+
+[Raptor Lake-HX knocks Apple M2 crowd off PassMark single-thread perch with only Ryzen 9 7945HX threat remaining](https://www.notebookcheck.net/Raptor-Lake-HX-knocks-Apple-M2-crowd-off-PassMark-single-thread-perch-with-only-Ryzen-9-7945HX-threat-remaining.693024.0.html)
+
+
+> Raptor Lake-HX has pushed its way past Apple M2 to top PassMark's single-thread performance chart. (Image source: Apple & Unsplash - edited) The Raptor Lake Intel Core i9-13980HX and i9-13900HX processors have knocked the crowd of Apple M2 chips off their PassMark perch in terms of single-thread CPU performance. The Dragon Range AMD Ryzen 9 7945HX has yet to make an appearance on this benchmark, but the i9-13980HX's Turbo Power of 157 W gives it a muscular advantage. Raptor Lake Zen 4 Apple AMD Intel Charts Benchmark Laptop We recently reported on the appearance of the Intel Core i9-13980HX and i9-13900HX on PassMark, where they demolished the competition in regard to their massive CPU Mark test suite scores.
+
+
+***
+![Salomé Lahoche, nasty loudly – ​​Liberation](https://www.liberation.fr/resizer/7T9A5XMfARH8cleg_61ApVYDr44=/1200x630/filters:format(jpg):quality(70):focal(207x160:217x170)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/A27G6W6S5BETPDRGIAEA33PISE.jpg "Salomé Lahoche, nasty loudly – ​​Liberation")
+
+
+[Salomé Lahoche, nasty loudly – ​​Liberation](https://www.world-today-news.com/salome-lahoche-nasty-loudly-liberation/)
+
+
+> According to the autobiographical comics she publishes on Instagram for a little over two years, Salomé Lahoche has been a horrible person. Under sweaters with funny patterns, a kind of badly polished harpy, jaded by everything, steeped in flaws 'not pretty-pretty' such as pride and vanity, which has already prepared its speech in anticipation of the golden beast that it will win, for sure, and which will allow it to finally take its revenge on 'Grégoire Pichon who told me that I was ugly in fifth grade, so Grégoire how does it feel to take over your parents' Midas garage in Elbeuf while I receive a fucking Nobel prize, huh?!!'.
+
+
+***
+![‘13.3 update server application' League of Legends · Roll inspection time until when… Rollo Chess?](https://www.jejutwn.com/data/photos/20230206/art_1676002377677_261ed1.jpg "‘13.3 update server application' League of Legends · Roll inspection time until when… Rollo Chess?")
+
+
+[‘13.3 update server application' League of Legends · Roll inspection time until when… Rollo Chess?](https://www.world-today-news.com/13-3-update-server-application-league-of-legends-%c2%b7-roll-inspection-time-until-when-rollo-chess/)
+
+
+> Roll maintenance time, Rollto Chess server maintenance finish time is a hot topic. In the midst of this, the 13.3 patch is applied to the server, and the start date of the season is also a hot interest. Riot Games will conduct a server stabilization check and 13.3 patch update for about 5 hours from 6 am to 11 am on the 9th. During the maintenance period on this day, access to games, mobile stores, and part of the website will be unavailable. All games will end at the time of server maintenance, and games in progress will not be recorded.
+
+
+***
+![Google's Senior Vice President Warns Against Hallucination in AI Chatbots](https://tekedia-website.s3.us-east-2.amazonaws.com/wp-content/uploads/2023/01/20094852/Google.jpg "Google's Senior Vice President Warns Against Hallucination in AI Chatbots")
+
+
+[Google's Senior Vice President Warns Against Hallucination in AI Chatbots](https://www.tekedia.com/googles-senior-vice-president-warns-against-hallucination-in-ai-chatbots/)
+
+
+> Senior Vice President at Google and head of Google search Prabhakar Raghavan has warned against the pitfalls of AI Chatbots facing some kind of hallucinations. He disclosed that over-reliance on these chatbots is not ideal as they can sometimes be unreliable after it has entered a zoned-out state thereby giving an incorrect response. In his words, ' This kind of artificial intelligence we're talking about right now can sometimes lead to something we call hallucination. This then expresses itself in such a way that a machine provides a convincing but completely made-up answer'.
+
+
+***
+![Morrowind modders introduce voice acting to the game – The Elder Scrolls III: Morrowind](https://www.gamereactor.no/media/58/vejamorrowindrefeito_3235893_650x.png "Morrowind modders introduce voice acting to the game – The Elder Scrolls III: Morrowind")
+
+
+[Morrowind modders introduce voice acting to the game – The Elder Scrolls III: Morrowind](https://www.world-today-news.com/morrowind-modders-introduce-voice-acting-to-the-game-the-elder-scrolls-iii-morrowind-2/)
+
+
+> Modders are introducing voice acting to The Elder Scrolls III: Morrowind, using an AI tool called ElvenAI that creates an appropriate voice for characters in the game. Dagoth Ur is probably the most impressive example of the tool so far, as he has many more lines for the AI ​​to learn from, and so ends up with most of the dialogue in the game at this point. https://www.youtube.com/watch?v=sQ_L3SFsc3E/ For others, it will take a bit more time to get their dialogue sections to be fully expressed, but the tool itself has certainly proven that it can work.
+
+
+***
+[What does the cell theory say?](https://www.world-today-news.com/what-does-the-cell-theory-say/)
+
+
+> What does the cell theory state, which is considered one of the most important discoveries in the history of modern biology, and which changed the view of biologists about the formation of bodies and living organisms, and reached the final form of this scientific theory, with consistent studies of accurate studies and microscopic facts about body parts and through our article In this we will learn with you what the cell theory states, in addition to getting acquainted with the interpretation of the cell theory, in addition to getting to know what the cell components and their functions are.
+
+
+***
+![The Sims 4: Cats & Dogs Complete Guide](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/the-sims-4-cats-dogs-full-guide.jpg "The Sims 4: Cats & Dogs Complete Guide")
+
+
+[The Sims 4: Cats & Dogs Complete Guide](https://gamerant.com/the-sims-4-cats-dogs-complete-guide/)
+
+
+> The Sims 4: Cats & Dogs was released on November 10, 2017, marking the fourth expansion pack in the beloved The Sims 4 franchise. This expansion pack introduces players to a world of exciting new possibilities, including the ability to own and care for cats and dogs, create a veterinary clinic, explore a coastal town, and much more. In general, this pack focuses on activities centered around Sims' beloved animal companions. Regarding the core features, The Sims 4: Cats & Dogs is similar to its predecessors' additions such as The Sims: Unleashed , The Sims 2: Pets , and The Sims 3: Pets , all of which introduced playable cats and dogs, as well as wild animals to the game.
+
+
+***
+![The Heisenbug Lurking In Your Async Code](https://external-preview.redd.it/fNjBdDWmzpI8B6JFukGd3C5OXIpgqD80VpvyLD6Fahs.jpg?auto=webp&v=enabled&s=e642e724b2ce7c64399689237e34ca56f700f7c8 "The Heisenbug Lurking In Your Async Code")
+
+
+[The Heisenbug Lurking In Your Async Code](https://www.reddit.com/r/programming/comments/10zz0i4/the_heisenbug_lurking_in_your_async_code)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![120hz with AMD 6900XT? Mac Pro 7.1](https://images.macrumors.com/social/?t=2380463&v=6 "120hz with AMD 6900XT? Mac Pro 7.1")
+
+
+[120hz with AMD 6900XT? Mac Pro 7.1](https://forums.macrumors.com/threads/120hz-with-amd-6900xt-mac-pro-7-1.2380463/)
+
+
+> Hello macrumors Just installed a RX6900 XT in my Mac Pro 7,1. Using displayport with a InnoCN 27m2v monitor Windows bootcamp: 4k 144hz VRR, no chroma subsampling (HBR3)​ OSX: 60 Hz no VRR (HBR2)​ HDMI 2.1 Windows bootcamp: 4k 144hz VRR, no chroma subsampling​ OSX: 120 Hz no VRR, chroma subsampled​ Anyone knows how to solve the issue? The cable clearly works as Windows happily will push the image so I'm confused to why OSX is refusing to sling anything but 60 Hz. I've tried removing the Vega Pro 2, no difference either.
+
+
+***
+![Jupiter has most moons in the solar system again after 12 new ones were discovered](https://media.businessam.be/GettyImages-900032-1676072512.jpg "Jupiter has most moons in the solar system again after 12 new ones were discovered")
+
+
+[Jupiter has most moons in the solar system again after 12 new ones were discovered](https://www.world-today-news.com/jupiter-has-most-moons-in-the-solar-system-again-after-12-new-ones-were-discovered/)
+
+
+> Why is this important? Although humanity thinks it has a relatively clear picture of what the universe looks like, nothing could be further from the truth. Even the composition of the solar system remains partly unknown. Yet more and more is being discovered about our cosmic regions. In the news: The Minor Planet Center (MPC), the US center dedicated to observing and tracking data on asteroids and comets, has published the orbits of Jupiter's hitherto undiscovered moons over the past two months.
+
+
+***
+![Sale of clothes blocked on Facebook: Marianne Virlée's mood ticket](https://ds.static.rtbf.be/article/image/1920x1080/6/f/e/ee23e7ad9b473ad072d57aaa9b2a5222-1675935776.jpg "Sale of clothes blocked on Facebook: Marianne Virlée's mood ticket")
+
+
+[Sale of clothes blocked on Facebook: Marianne Virlée's mood ticket](https://www.world-today-news.com/sale-of-clothes-blocked-on-facebook-marianne-virlees-mood-ticket/)
+
+
+> Facebook, Instagram, nowadays and since the Covid many people have started selling clothes online on social networks; all this is not so simple and without risk! It's bad luck Delphine suffered when she has a website and has been selling clothes for 10 years… Fashion shows, photos, videos, lives, all these actions are important for the success of online sales. On the page Facebook has been flagged for obscene material multiple times and her profile has been blocked multiple times. Decryption in the sequence 'Marianne Virlée moans near you' in It's not over on VivaCité.
+
+
+***
+![Amazfit T-Rex 2 smartwatch review](https://www.notebookcheck.net/fileadmin/Notebooks/Huami/Amazfit_T-Rex_2/T_Rex2_Aufmacher_2.jpg "Amazfit T-Rex 2 smartwatch review")
+
+
+[Amazfit T-Rex 2 smartwatch review](https://www.notebookcheck.net/Amazfit-T-Rex-2-smartwatch-review-A-convincing-update.692355.0.html)
+
+
+> In order to set up the smartwatch, the Zepp app must be installed. In the app, you can search for new devices, and, in next to no time, the T-Rex 2 is found. However, using the app, a connection is only possible as long as no other device is activated, such as a Xiaomi Smart Band , which uses the same software. The program is available for both Android and iOS. Once the devices have found each other, the T-Rex 2 has to be granted permission to display calls and notifications. The device settings are somewhat buried in the app but can be found under Profile.
+
+
+***
+![Can someone share some resources about finding and proving asymptotic time complexities?](https://external-preview.redd.it/83LQwXsCuzW--hy2yi2pJ4yjRd5cJHBkXyiTHKux-b0.jpg?auto=webp&v=enabled&s=0f59d1a055bcdc13ae3c28bd500b00627737018f "Can someone share some resources about finding and proving asymptotic time complexities?")
+
+
+[Can someone share some resources about finding and proving asymptotic time complexities?](https://www.reddit.com/r/programming/comments/10zynwy/can_someone_share_some_resources_about_finding)
+
+
+> Scan this QR code to download the app now Or check it out in the app stores
+
+
+***
+![i need some help with this VBA (excel chess game macros). Im having problems with the bishop and the queen. When I use the function IsBlocked they only move 3 in the diagonal, but i dont see any issue with code. the code is in portuguese but plz help me.](https://external-preview.redd.it/-WiKXADWH5lgU4gQv5fcDAQ9QKNBZTJ-D83BykIL2HA.jpg?auto=webp&v=enabled&s=decc328886393c0699bb01cf9d08b602f60525c8 "i need some help with this VBA (excel chess game macros). Im having problems with the bishop and the queen. When I use the function IsBlocked they only move 3 in the diagonal, but i dont see any issue with code. the code is in portuguese but plz help me.")
+
+
+[i need some help with this VBA (excel chess game macros). Im having problems with the bishop and the queen. When I use the function IsBlocked they only move 3 in the diagonal, but i dont see any issue with code. the code is in portuguese but plz help me.](https://www.reddit.com/r/programming/comments/10zymu5/i_need_some_help_with_this_vba_excel_chess_game)
+
+
+> i need some help with this VBA (excel chess game macros). Im having problems with the bishop and the queen. When I use the function IsBlocked they only move 3 in the diagonal, but i dont see any issue with code. the code is in portuguese but plz help me.
+
+
+***
+![Samsung HW-S800B and HW-Q600B Dolby Atmos soundbars get enormous discounts of up to 70%](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Samsung_Dolby_Atmos_soundbar_HW_S800_HW_Q600.jpg "Samsung HW-S800B and HW-Q600B Dolby Atmos soundbars get enormous discounts of up to 70%")
+
+
+[Samsung HW-S800B and HW-Q600B Dolby Atmos soundbars get enormous discounts of up to 70%](https://www.notebookcheck.net/Samsung-HW-S800B-and-HW-Q600B-Dolby-Atmos-soundbars-get-enormous-discounts-of-up-to-70.693250.0.html)
+
+
+> BuyDig has put a pair of Dolby Atmos-capable Samsung soundbars on sale (Image: Samsung) Since the HW-S800B and HW-Q600B audio systems from Samsung's 2022 lineup are slowly but surely approaching the end of their market cycle, both Dolby Atmos soundbars can now be purchased at significant discounts of up to 70% off their original MSRP. Audio Deal In addition to the upcoming release of brand new OLED-TVs such as the LG C3 and G3, some manufacturers in the home theater segment are also preparing to launch their latest soundbars.
+
+
+***
+![Doogee V Max available for US$329.99 between February 13 and February 17](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Doogee_V_Max_Android_12_smartphone_with_22000_mAh_battery.jpg "Doogee V Max available for US$329.99 between February 13 and February 17")
+
+
+[Doogee V Max available for US$329.99 between February 13 and February 17](https://www.notebookcheck.net/Doogee-V-Max-available-for-US-329-99-between-February-13-and-February-17.693147.0.html)
+
+
+> Doogee V Max Combines The Largest Battery (22000mAh) And The Most Powerful Chipset. Rugged phones over the years have had some pretty huge battery capacities but the Doogee V Max is literally maxing out the battery power on a smartphone. At 22000mAh, V Max is the biggest battery capacity smartphone commercially available. Set to be launched in February, the V Max is the culmination of Doogee's battery superiority. On a single charge, it is capable of reaching up to an impressive 2300 hours on standby.
+
+
+***
+![Crime boss behind £8m drug scheme arrested in Thailand after five years on the run](https://www.thisislocallondon.co.uk/resources/images/16448477/?type=og-image "Crime boss behind £8m drug scheme arrested in Thailand after five years on the run")
+
+
+[Crime boss behind £8m drug scheme arrested in Thailand after five years on the run](https://newsakmi.com/../../world/uk-news/crime-boss-behind-8m-drug-scheme-arrested-in-thailand-after-five-years-on-the-run)
+
+
+> Richard Wakeling, 55, escaped in January 2018 just as his 12-week trial was due to begin. He was convicted in his absence of attempting to import £8million worth of amphetamine suspended in liquid in 2016, and was given an 11-year jail sentence in April 2018 at Chelmsford Crown Court. Wakeling was subsequently placed on the National Crime Agency's Most Wanted list, and appeals were issued for information to help trace him. On Friday (February 10), he was arrested by officers from the Royal Thai Police in Bangkok as he went to collect his car from a garage after it had been repaired.
+
+
+***
+![WhatsApp lets users easily record videos hands-free](https://assets.thehansindia.com/h-upload/2023/02/11/1335468-wh.jpg "WhatsApp lets users easily record videos hands-free")
+
+
+[WhatsApp lets users easily record videos hands-free](https://www.thehansindia.com/technology/tech-news/whatsapp-lets-users-easily-record-videos-hands-free-782473)
+
+
+> Meta-owned messaging platform WhatsApp is reportedly rolling out a new camera mode which will allow users to easily record videos hands-free on iOS beta. This feature is rolling out to some beta testers after installing the latest WhatsApp beta for iOS 23.3.0.74 update from the TestFlight app, reports WABetaInfo. Users are now able to switch to video mode easily with just a tap and they don't need to tap and hold to record videos hands-free. Moreover, it is now possible to switch from front to back camera and vice versa when recording, which makes it easier to record videos.
+
+
+***
+![Redout 2 Now Offers the Winter Pack DLC](https://i0.wp.com/technostalls.com/wp-content/uploads/2023/02/redout-2-scaled.jpg?resize=640%2C360&ssl=1 "Redout 2 Now Offers the Winter Pack DLC")
+
+
+[Redout 2 Now Offers the Winter Pack DLC](https://technostalls.com/redout-2-now-offers-the-winter-pack-dlc/)
+
+
+> Credit: Steam In Redout 2, players experience the ultimate rush as they speed through a futuristic racing universe paying homage to classic arcade games. With an expansive single-player campaign and intense multiplayer competition, racers can push their limits and reach speeds once thought impossible. The sequel to the widely praised Redout, this game is a must-play for anyone seeking an adrenaline-fueled racing adventure. The new Winter Pack DLC is available NOW in Redout 2, and it brings even more exciting action than before! Keep reading to find out more about what's new! What's new in the Winter Pack DLC of Redout 2 Saber Interactive and 34BigThings present the Redout 2 Winter Pack DLC, a new addition to the already thrilling racing game.
+
+
+***
+![vivo X90 Pro benchmarks](https://fdn.gsmarena.com/imgroot/news/23/02/vivo-x90-pro-benchmarks-dimensity-9200-examined/-952x498w6/gsmarena_00.jpg "vivo X90 Pro benchmarks")
+
+
+[vivo X90 Pro benchmarks](https://www.gsmarena.com/vivo_x90_pro_benchmarks__dimensity_9200_examined-news-57513.php)
+
+
+> Following up on our in for review article, it's time we bring you a closer look at the vivo X90 Pro and its benchmark scores. This is the first MediaTek Dimensity 9200 phone we've had our hands on and we were curious to see how it stacks up to the competition. Like the Qualcomm Snapdragon 8 Gen 2, MediaTek's Dimensity 9200 utilizes the ARM Cortex-X3 boasting a prime core clocked at 3.05 Ghz (compared to 3.2GHz on the SD G2) and based on the ARMv9 architecture. The remaining cores are as follows: 3x Arm Cortex-A715 performance cores clocked at 2.
+
+
+***
+![How to prepare for a Google Cloud Hackathon?](https://external-preview.redd.it/4DmrilBFpJuZWJ2lCyAD8qJ1Bzt-Zb0MjxQPFheBz6Q.jpg?auto=webp&v=enabled&s=ee51577899d1bc995c508cd983c29b48f57896c0 "How to prepare for a Google Cloud Hackathon?")
+
+
+[How to prepare for a Google Cloud Hackathon?](https://www.reddit.com/r/programming/comments/10zy2bk/how_to_prepare_for_a_google_cloud_hackathon)
+
+
+> I am a newbie programmer with only basic knowledge in Java, C and Python. I have Basic knowledge in MySQL as well. I heard about Google Cloud hackathon which is going to be conducted by GeeksForGeeks in a month and I want to participate in it. What should I study to be able to compete in the hackathon? How do I expand my skill set and knowledge I get very confused because after completing basics of a language I cannot find anything other than basics to learn.
+
+
+***
+![The Fossil Gen 6 Hybrid Wellness Edition is health-focused but lacks focus](https://www.androidauthority.com/wp-content/uploads/2023/02/Fossil-Gen-6-Hybrid-Wellness-Edition-Review-scaled.jpg "The Fossil Gen 6 Hybrid Wellness Edition is health-focused but lacks focus")
+
+
+[The Fossil Gen 6 Hybrid Wellness Edition is health-focused but lacks focus](https://www.androidauthority.com/fossil-gen-6-hybrid-wellness-edition-review-3281220/)
+
+
+> Kaitlyn Cimino / Android Authority Fossil's Gen 6 Hybrid Wellness Edition boasts an elegant build, upgraded features, and a sleek blend of traditional looks with fitness tracking smarts. Its e-ink display also keeps the device's battery life up to Fossil's impressive standards. However, while the hybrid watch may be a class act, it's not the perfect companion for a gym class. In short, the watch lands in an unfortunate limbo between a timepiece and a health tool, without necessarily nailing either one.
+
+
+***
+![realme Co-brands with Coca-Cola to Introduce realme 10 Pro 5G](https://techmoran.com/wp-content/uploads/2023/02/realme-10-Pro-5G.-2jpg.jpg "realme Co-brands with Coca-Cola to Introduce realme 10 Pro 5G")
+
+
+[realme Co-brands with Coca-Cola to Introduce realme 10 Pro 5G](https://techmoran.com/2023/02/12/realme-co-brands-with-coca-cola-to-introduce-realme-10-pro-5g/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![Salman Rushdie is determined to have the last word](https://i.guim.co.uk/img/media/435eba8befe4387c2913119a8f318e25ef1a8426/160_114_3179_1908/master/3179.jpg?width=445&quality=85&dpr=1&s=none "Salman Rushdie is determined to have the last word")
+
+
+[Salman Rushdie is determined to have the last word](https://newsakmi.com/gambling-news/salman-rushdie-is-determined-to-have-the-last-word-tim-adams/)
+
+
+> 'T he world,' Salman Rushdie wrote in The Satanic Verses , 'is the place we prove real by dying in it.' Happily, defiantly, the author, 75 and among the greatest of all living make-believers, is not ready just yet to test that theory. Reading his interview with David Remnick in the New Yorker last week, the first he has given since he was attacked on stage last August – stabbed 15 times in the face and neck and chest and hands – was to be reminded of some of the darker ironies of his existence.
+
+
+***
+![Nintendo just reissued one of the most important games of all time](https://cdn.vox-cdn.com/thumbor/CC3B0PCTn-UPzW08OIYKhkUIQs8=/0x0:1080x720/1200x0/filters:focal(0x0:1080x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24423408/WiiUVC_WarioWareIncMinigameMania_02.jpg "Nintendo just reissued one of the most important games of all time")
+
+
+[Nintendo just reissued one of the most important games of all time](https://newsakmi.com/news/tech-news/video-games/nintendo-just-reissued-one-of-the-most-important-games-of-all-time/)
+
+
+> Nintendo's back catalog is so absurdly rich that, when launching the new Game Boy and Game Boy Advance collections on Nintendo Switch Online, it can afford to offer a mix of cult curios, major and minor entries in popular series, and a hall-of-famer like Game Boy Tetris , while still saving plenty for later. Even for this company, though, there's nothing to touch the prophetic influence and punk-rock abandon of one of Nintendo's most daring designs ever: WarioWare, Inc.: Mega Microgames! It's not that Nintendo invented the idea of an anarchic minigame compilation with this 2003 GBA release, which went on to spawn a minor series and cult obsession .
+
+
+***
+![No more Crisco: Here's what Philadelphia is now using to keep fans from climbing poles if the Eagles win the Super Bowl](https://images.mktw.net/im-721523/horizontal "No more Crisco: Here's what Philadelphia is now using to keep fans from climbing poles if the Eagles win the Super Bowl")
+
+
+[No more Crisco: Here's what Philadelphia is now using to keep fans from climbing poles if the Eagles win the Super Bowl](https://newsakmi.com/news/finance/stock-market/no-more-crisco-heres-what-philadelphia-is-now-using-to-keep-fans-from-climbing-poles-if-the-eagles-win-the-super-bowl/)
+
+
+> For Philadelphia's rowdy sports fans, a championship victory inevitably calls for a big celebration. And those fans are certainly prepared to party if their beloved Eagles beat the Kansas City Chiefs in the Super Bowl this Sunday. But for Philadelphia police officers, that means only one thing: It's time to grease the street poles to deter any revelers looking to celebrate from on high.   It's an oddball situation that has challenged both cops and climbers. The police have tried different substances to make things as slippery as possible.
+
+
+***
+![NASA helps Roskosmos identify the causes of coolant leakage on Progress MS-21](https://mf.b37mrtl.ru/russian/images/2023.02/article/63e7e5a5ae5ac9768d38acfb.jpg "NASA helps Roskosmos identify the causes of coolant leakage on Progress MS-21")
+
+
+[NASA helps Roskosmos identify the causes of coolant leakage on Progress MS-21](https://www.tellerreport.com/tech/2023-02-11-nasa-helps-roskosmos-identify-the-causes-of-coolant-leakage-on-progress-ms-21.SkxWsCuSTo.html)
+
+
+> NASA specialists are assisting Roskosmos in establishing the causes of the leakage of the coolant of the thermal control system on the Progress MS-21 spacecraft. It is reported by RIA Novosti with reference to the press service of the US space agency. 'NASA specialists are helping their Russian colleagues in identifying the causes of a coolant leak on the Progress MS-21 spacecraft,' the agency said. It is specified that specialists monitor the operation of all ISS systems and have not yet identified any other problems at the station.
+
+
+***
+![Educate me on syncing messages or photos to the cloud please.](https://images.macrumors.com/social/?t=2380460&v=6 "Educate me on syncing messages or photos to the cloud please.")
+
+
+[Educate me on syncing messages or photos to the cloud please.](https://forums.macrumors.com/threads/educate-me-on-syncing-messages-or-photos-to-the-cloud-please.2380460/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly. You should upgrade or use an alternative browser . I never quite understood this, if I am currently syncing messages from my iPhone to the cloud but I stop syncing them the messages in the cloud stay there it's just new ones don't go to the cloud at that point is that correct? We have an unusual amount of storage space being used for messages of 23 gigs and we don't see that many messages there but before I start deleting them on the phone if I stop syncing them they will stop going to the cloud? We have plenty of room on her phone to keep messages we just don't have enough room in the cloud (SO phone.
+
+
+***
+![Galaxy S23 Base, Plus and Ultra Phones Compared](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA170ooq.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Galaxy S23 Base, Plus and Ultra Phones Compared")
+
+
+[Galaxy S23 Base, Plus and Ultra Phones Compared](http://www.msn.com/en-us/news/technology/galaxy-s23-base-plus-and-ultra-phones-compared/ar-AA17030Z)
+
+
+> Samsung's new Galaxy S23 family is here and available for preorder. The smartphone line, which was unveiled at the company's February Unpacked event in San Francisco alongside the Galaxy Book 3, consists of three models: the Galaxy S23, Galaxy S23 Plus and the top-specced Galaxy S23 Ultra. But, what's the difference between each model? Starting prices for the phones, at least in the US, remain the same as last year, with the base Galaxy S23 starting at $800 (£849, AU$1,349), bumping up to $1,000 (£1,049, AU$1,649) for the Galaxy S23 Plus and maxing out at $1,200 (£1,249, AU$1,949) for the Galaxy 23 Ultra.
+
+
+***
+![Revolutionizing the Future of Energy: Advancement in Halide Perovskite Solar Cell Technology](https://scitechdaily.com/images/Halide-Perovskite-Surface-Structure.jpg "Revolutionizing the Future of Energy: Advancement in Halide Perovskite Solar Cell Technology")
+
+
+[Revolutionizing the Future of Energy: Advancement in Halide Perovskite Solar Cell Technology](https://scitechdaily.com/?p=251014)
+
+
+> The Advanced Materials cover illustration shows the surface of the halide perovskite structure being modified by a large organic cation. The cation diffuses through the thin film to reconstruct the surface structure. Credit: Advanced Materials A new type of solar technology has seemed promising in recent years. Halide perovskite solar cells are both high-performing and low-cost for producing electrical energy – two necessary ingredients for any successful solar technology of the future. But new solar cell materials should also match the stability of silicon-based solar cells, which boast more than 25 years of reliability.
+
+
+***
+![Why you should use a BSD style license for your Open Source Project](https://docs.freebsd.org/favicon.ico "Why you should use a BSD style license for your Open Source Project")
+
+
+[Why you should use a BSD style license for your Open Source Project](https://docs.freebsd.org/en/articles/bsdl-gpl/)
+
+
+> The BSD license is preferable for transferring research results in a way that will widely be deployed and most benefit an economy. As such, research funding agencies, such as the NSF, ONR and DARPA, should encourage in the earliest phases of funded research projects, the adoption of BSD style licenses for software, data, results, and open hardware. They should also encourage formation of standards based around implemented Open Source systems and ongoing Open Source projects. Government policy should minimize the costs and difficulties in moving from research to deployment.
+
+
+***
+![Apple AirPlay 2 supports 24-bit lossless audio but you can't use it](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17lche.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Apple AirPlay 2 supports 24-bit lossless audio but you can't use it")
+
+
+[Apple AirPlay 2 supports 24-bit lossless audio but you can't use it](http://www.msn.com/en-us/news/technology/apple-airplay-2-supports-24-bit-lossless-audio-but-you-can-t-use-it/ar-AA17lgts)
+
+
+> Apple's wireless platform for audio and video streaming — AirPlay — is one of the best ways to play music from an Apple device to a wireless speaker. When at home, on a Wi-Fi network, it outperforms Bluetooth thanks to its wider bandwidth. The conventional wisdom has always been that AirPlay sets a hard limit on audio quality: iPhones and other Apple devices can only transmit lossless CD-quality audio, at 16-bit/44.1kHz, to an AirPlay-enabled speaker, leaving the technology incapable of supporting the higher-res streams now being offered by Apple Music and others.
+
+
+***
+![Theory of Mind May Have Spontaneously Emerged in Large Language Models](https://osf.io/static/img/osf-sharing.png "Theory of Mind May Have Spontaneously Emerged in Large Language Models")
+
+
+[Theory of Mind May Have Spontaneously Emerged in Large Language Models](https://osf.io/csdhb)
+
+
+> Get more citations
+
+
+***
+![Samsung Galaxy S23 vs. S22: How Do the Flagship Phones Compare?](https://www.cnet.com/a/img/resize/c8978b244903fbe2690b4b4a5ea3c53b3bc3d034/hub/2023/01/31/a546b0a9-1385-4490-964f-01a1980eb12f/samsung-unpacked-2023-s23-12.jpg?auto=webp&fit=crop&height=630&width=1200 "Samsung Galaxy S23 vs. S22: How Do the Flagship Phones Compare?")
+
+
+[Samsung Galaxy S23 vs. S22: How Do the Flagship Phones Compare?](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-vs-s22-how-do-the-flagship-phones-compare/)
+
+
+> This story is part of Samsung Event , CNET's collection of news, tips and advice around Samsung's most popular products. The $800 (£849, AU$1,349) Samsung Galaxy S23 made its debut Feb. 1 during the company's Unpacked event , but that doesn't mean you have to get the upgrade. Last year's Galaxy S22 is now available with a $100 price drop. That 2022 phone now costs $700, and it still has excellent specs, like a 50-megapixel main camera. It's been updated to Android 13 and last year's speedy Qualcomm Snapdragon 8 Gen 1.
+
+
+***
+![16 inch MBP charging with 14 inch charger](https://images.macrumors.com/social/?t=2380458&v=6 "16 inch MBP charging with 14 inch charger")
+
+
+[16 inch MBP charging with 14 inch charger](https://forums.macrumors.com/threads/16-inch-mbp-charging-with-14-inch-charger.2380458/)
+
+
+> Hi, Quick question, the 16 inch comes with a 157W (I think?) charger and the 14 inch comes with a 97W. Can you use the 97W charger to charge the 16 inch? Obviously it won't charge as fast but will it charge to full say like the old 16 inch MBP's before the new fast charging capability (like 2.5 to 3 hours). Reason I ask is I have a Belkin 97W charging dock and wondered if it would still charge a 16 inch M2Max. Thanks Dec 14, 2010 3,531 1,924 UK Yes you will still be able to charge it fully - albeit slower.
+
+
+***
+![Looking for an Office Program for 2011 iMac 27"](https://images.macrumors.com/social/?t=2380457&v=6 "Looking for an Office Program for 2011 iMac 27"")
+
+
+[Looking for an Office Program for 2011 iMac 27"](https://forums.macrumors.com/threads/looking-for-an-office-program-for-2011-imac-27.2380457/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly. You should upgrade or use an alternative browser . I purchased my iMac in 2011 and installed Mac for Office 2011. After a hard drive crash I upgraded to a solid state drive. Due to its age the latest Apple software it will accept is 10.13.6. MS stopped support Office for Mac 2011 and will not activate my install disc. Libre Office requires 11 or higher. Apache Open Office 4.
+
+
+***
+![Meta Planning Even More Job Cuts Next Month: Report](https://www.mccourier.com/wp-content/uploads/2023/02/Meta-Planning-Even-More-Job-Cuts-Next-Month-Report.jpg "Meta Planning Even More Job Cuts Next Month: Report")
+
+
+[Meta Planning Even More Job Cuts Next Month: Report](https://www.mccourier.com/meta-planning-even-more-job-cuts-next-month-report/)
+
+
+> Meta signal is seen at its headquarters in Menlo Park, California, United States on November 14, 2022. … [+] (Photograph by Tayfun Coskun/Anadolu Company through Getty Pictures) Anadolu Company through Getty Pictures Meta, the dad or mum firm of Fb, WhatsApp and Instagram, laid off about 11,000 employees again in November, roughly 13% of its workers and the most important layoffs within the firm's historical past. However the ache isn't over, in keeping with a brand new report from the Monetary Occasions, as a result of extra job cuts are anticipated quickly.
+
+
+***
+![Chatbot or Cheatbot? : AI may not a threat to humans, yet](https://assets.thehansindia.com/h-upload/2023/02/11/1335413-ai.jpg "Chatbot or Cheatbot? : AI may not a threat to humans, yet")
+
+
+[Chatbot or Cheatbot? : AI may not a threat to humans, yet](https://www.thehansindia.com/technology/tech-news/chatbot-or-cheatbot-ai-may-not-a-threat-to-humans-yet-782407)
+
+
+> Bengaluru: Technology has advanced considerably over the years, moving from pens and notebooks to computers, tablets, and smartphones. But at least for the time being, artificial intelligence (AI) will not be able to compete with human intelligence. But it already poses a danger to conventional technologies, which in a sense are what gave rise to AI over the previous few decades. In recent weeks, there has been a flurry of activity and excitement in the tech community about how AI finally seems to have arrived at the tipping point where it is beginning to affect everything it comes into contact with.
+
+
+***
+![Sources: Meta has delayed finalizing multiple teams' budgets while it prepares a fresh round of job cuts, slowing down projects even in priority areas (Financial Times)](http://www.techmeme.com/230211/i6.jpg "Sources: Meta has delayed finalizing multiple teams' budgets while it prepares a fresh round of job cuts, slowing down projects even in priority areas (Financial Times)")
+
+
+[Sources: Meta has delayed finalizing multiple teams' budgets while it prepares a fresh round of job cuts, slowing down projects even in priority areas (Financial Times)](https://newsakmi.com/news/tech-news/sources-meta-has-delayed-finalizing-multiple-teams-budgets-while-it-prepares-a-fresh-round-of-job-cuts-slowing-down-projects-even-in-priority-areas-financial-times/)
+
+
+> Home / News / Tech / Sources: Meta has delayed finalizing multiple teams' budgets while it prepares a fresh round of job cuts, slowing down projects even in priority areas (Financial Times) Tech Sierra Mitchell Send an email 5 hours ago Less than a minute Related Articles
+
+
+***
+![Tech ambition and political manoeuvring](https://www.financialexpress.com/wp-content/uploads/2023/02/ten.jpg "Tech ambition and political manoeuvring")
+
+
+[Tech ambition and political manoeuvring](https://www.financialexpress.com/lifestyle/tech-ambition-and-political-manoeuvring/2978868/)
+
+
+> With a market capitalisation of over $400 billion, Tencent is among the biggest Chinese companies. Yet, very few outside China would know much about the company that has grown to become a Chinese behemoth, commanding sectors as diverse as micro-blogging and ride-hailing to fintech and cloud operations, not to forget its super app WeChat, with a whopping 1.3 billion users. The story of Tencent and China's tech ambition is what writer and Bloomberg journalist Lulu Yilun Chen narrates in her book Influence Empire.
+
+
+***
+![Unleashing the Power of Biometrics: ValidEntry's Cutting-Edge Identity Management Platform](https://img.einnews.com/facebook/416466/validentry.jpeg "Unleashing the Power of Biometrics: ValidEntry's Cutting-Edge Identity Management Platform")
+
+
+[Unleashing the Power of Biometrics: ValidEntry's Cutting-Edge Identity Management Platform](https://www.einpresswire.com/article/616465145/unleashing-the-power-of-biometrics-validentry-s-cutting-edge-identity-management-platform)
+
+
+> Intelligent Technology for Streamlined Verification, KYC, and Access Control in Applications UNITED STATES, February 11, 2023 / EINPresswire.com / -- The Decentralized Finance (DeFi) sector continues to experience tremendous growth, but with that growth comes the need for secure and robust identity verification processes. Know Your Customer (KYC) procedures play a critical role in ensuring the protection of users, compliance with regulations, and prevention of fraud and money laundering. ValidEntry , a cutting-edge biometric identity verification platform, has answered this need with its secure and privacy-focused solution.
+
+
+***
+![Hogwarts Legacy – How to get to the Undercroft](https://progameguides.com/wp-content/uploads/2023/02/hogwarts-legacy-undercroft.jpg?resize=768,432 "Hogwarts Legacy – How to get to the Undercroft")
+
+
+[Hogwarts Legacy – How to get to the Undercroft](https://progameguides.com/hogwarts-legacy/hogwarts-legacy-how-to-get-to-the-undercroft/)
+
+
+> Screenshot by Pro Game Guides The world of Hogwarts Legacy is full of secret rooms, chambers, and passages . One of the hidden underground rooms that you uncover in the initial few hours of the story is the Undercroft. The room is revealed to you by Sebastian during In the Shadow of the Undercroft . You'll have to visit this place several times to complete various missions. Here's a guide on the fastest way to get there. How to get to the Undercroft in Hogwarts Legacy Screenshot by Pro Game Guides To reach the Undercroft, start by opening the Hogwarts Map and locating The Astronomy Wing .
+
+
+***
+![Oppo Find N2 Flip coming to India in limited numbers: Report](https://www.gizmochina.com/wp-content/uploads/2023/02/OPPO-Find-N2-Flip-1.jpg "Oppo Find N2 Flip coming to India in limited numbers: Report")
+
+
+[Oppo Find N2 Flip coming to India in limited numbers: Report](https://www.gizmochina.com/2023/02/11/oppo-find-n2-flip-limited-stock-india)
+
+
+> Oppo is getting ready to launch the Find N2 Flip 5G smartphone globally. This will be the brand's first flip smartphone debuting in the global market. The brand has confirmed that this device will be launched globally on February 15. Ahead of the launch, some critical information in regard to the Indian launch of the device has been revealed. Starting off, Oppo India has confirmed that the device will be launching in India alongside the global launch. This means that Indian customers will be getting the price reveal of the Oppo Find N2 Flip at the same time as other global regions.
+
+
+***
+![The week that tech became exciting again](https://media.cnn.com/api/v1/images/stellar/prod/230208150154-03-microsoft-updated-bing-search-engine-0207.jpg?c=16x9&q=w_800,c_fill "The week that tech became exciting again")
+
+
+[The week that tech became exciting again](https://newsakmi.com/news/usnews/the-week-that-tech-became-exciting-again-cnn-business/)
+
+
+> Let's be honest: For much of the past decade, tech events have been pretty boring. Executives in business casual wear trot up on stage and pretend a few tweaks to the camera and processor make this year's phone profoundly different than last year's phone or adding a touchscreen onto yet another product is bleeding edge. But that changed radically this week. Some of the world's biggest companies teased significant upgrades to their services, some of which are central to our everyday lives and how we experience the internet.
+
+
+***
+![A brief history of Fintech in Canada](https://miro.medium.com/max/1200/1*OYqEEeb89g5TS1MxfBTtJQ.jpeg "A brief history of Fintech in Canada")
+
+
+[A brief history of Fintech in Canada](https://philsiarri.medium.com/a-brief-history-of-fintech-in-canada-ef4603dec162)
+
+
+> Image by Joe from Pixabay recent years, financial technology, or 'fintech,' has been a fast rising sector in Canada. Fintech is the integration of technology into financial services and products in order to make them more accessible, efficient, and user-friendly. A reasonably supportive regulatory framework and a solid tech industry…
+
+
+***
+![Looking for a smartphone for Valentine's Day?Here are the top choices](https://images.livemint.com/img/2023/02/11/600x338/iPhone14_1664803462196_1676129653352_1676129653352.jpg "Looking for a smartphone for Valentine's Day?Here are the top choices")
+
+
+[Looking for a smartphone for Valentine's Day?Here are the top choices](https://exbulletin.com/tech/2041225/)
+
+
+> Celebrate Valentine's Day this year by giving your loved one a brand new smartphone. But confused which smartphone to give? please do not worry. We've curated a list of the best smartphones to gift for Valentine's Day. The list includes phones in various price ranges, from budget to premium.take a look The smartphone is currently available on Flipkart for over $75,999. The Apple iPhone 14 has a 6.1-inch Super Retina XDR display and is powered by the A15 Bionic chipset. The smartphone comes in a variety of color options including Midnight, Purple, Starlight, Product Red, and Blue.
+
+
+***
+![Tried to install latest Open Core, showing prohibited sign](https://images.macrumors.com/social/?t=2380450&v=6 "Tried to install latest Open Core, showing prohibited sign")
+
+
+[Tried to install latest Open Core, showing prohibited sign](https://forums.macrumors.com/threads/tried-to-install-latest-open-core-showing-prohibited-sign.2380450/)
+
+
+> Followed the instructions on this page https://dortania.github.io/OpenCore-Legacy-Patcher/BUILD.html when I reboot and hold or not hold the option key, the only option shown is High Sierra If you select High Sierra it shows the prohibited screen If you select nothing, it still goes to prohibited screen Then a few seconds after computer shuts down Im on a Mac Pro 5,1, with metal GPU, latest boot rom Please advise Feb 13, 2011 9,073 1,975 Baltimore, Maryland So you have a by-their-instructions, OCLP-built installer of the macOS of your choice on a USB stick plugged into one of the USB ports on that Mac Pro when your rebooting and holding down the option key? Reactions: freddomseven So you have a by-their-instructions, OCLP-built installer of the macOS of your choice on a USB stick plugged into one of the USB ports on that Mac Pro when your rebooting and holding down the option key? I chose to put it on the os drive first as didn't have it installed on computer Was that a mistake ? I don't understand what you mean.
+
+
+***
+![The epic story behind Vox Machina's season 2 finale](https://cdn.vox-cdn.com/thumbor/H31pDd3rGuFc4CHTsxBvaIHKXtc=/0x29:1858x1002/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24422511/vox_machina_season_2_dragon_fire.jpg "The epic story behind Vox Machina's season 2 finale")
+
+
+[The epic story behind Vox Machina's season 2 finale](https://newsakmi.com/news/tech-news/video-games/the-epic-story-behind-vox-machinas-season-2-finale/)
+
+
+> Critical Role's The Legend of Vox Machina season 2 has officially wrapped on Prime Video, and the finale's big fight already stands out as one of the animated series' best. Season 2 focused on the overarching threat of the Chroma Conclave , a group of dragons who threaten Tal'Dorei, and Vox Machina, and the final confrontation spans the final two episodes, from the moment Percy springs a trap to snare Umbrasyl in 'In the Belly of the Beast' and the moment Umbrasyl falls in 'The Hope Devourer.
+
+
+***
+![Samsung Galaxy Watch 6: Everything we know and what we want to see](https://www.androidauthority.com/wp-content/uploads/2022/08/Samsung-Galaxy-Watch-5-vs-Watch-5-Pro.jpg "Samsung Galaxy Watch 6: Everything we know and what we want to see")
+
+
+[Samsung Galaxy Watch 6: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-watch-6-release-date-rumors-price-specs-3277014/)
+
+
+> Robert Triggs / Android Authority While the Samsung Galaxy Watch 5 series may still seem like a fresh new wearable, we're likely already halfway to the next iteration. Sure, rumors about a Samsung Galaxy Watch 6 have been sparse so far. However, there's no doubt in our minds that the current Wear OS juggernaut has a follow-up on the way. We'll keep track of any details we hear below so you can stay abreast of what you might expect to see on the next Galaxy Watch . Plus, it's never too early to start dreaming up a wish list.
+
+
+***
+![How to avoid the worst dating app scammers](https://static.foxnews.com/foxnews.com/content/uploads/2023/02/1-ONLINE-DATING-APP.jpg "How to avoid the worst dating app scammers")
+
+
+[How to avoid the worst dating app scammers](https://www.foxnews.com/tech/avoid-the-worst-dating-app-scammers)
+
+
+> Get ready for this quick heartbreaking story about love gone wrong from a crafty and callous global dating scam artist.  CLICK TO GET KURT'S CYBERGUY NEWSLETTER WITH QUICK TIPS, TECH REVIEWS, SECURITY ALERTS AND EASY HOW-TO'S TO MAKE YOU SMARTER   I recently received an email from Linda, who is concerned and wondering if she should worry about falling for a scam from a person she's been talking to online. Here's what she had to say:  "I have been in contact with a man who is a Structural Engineer that says he lives and has his office in Wisconsin, but currently is in Dubai overseeing the construction of buildings that he was awarded a contract to build, we talk on the phone all the time and text all the time.
+
+
+***
+![How to Watch Something Other Than the Super Bowl](https://media.wired.com/photos/63e6a87c5b4882ebafffb083/191:100/w_1280,c_limit/How-To-Watch-Something-Other-Than-Super-Bowl-Shrinking-2-Culture.jpg "How to Watch Something Other Than the Super Bowl")
+
+
+[How to Watch Something Other Than the Super Bowl](https://newsakmi.com/news/tech-news/product-reviews/how-to-watch-something-other-than-the-super-bowl/)
+
+
+> Welcome to all the Super Bowl haters! You're safe here. On the hunt for a way to stream the Super Bowl online? Mosey on over to this piece for quality advice about watching the 'big game.' OK, now that it's just us, go ahead and give yourself a pat on the back. You feel like you're better than the unwashed masses, and why wouldn't you? Sports are low-key boring, and there's a litany of reasons not to love the National Football League, from the NFL's record on disability payments to team mascots that disrespect Native Americans.
+
+
+***
+![After Google's AI chatbot made a mistake, its stock dropped more than $100 billion](https://i.imgur.com/AoyxWyw.png "After Google's AI chatbot made a mistake, its stock dropped more than $100 billion")
+
+
+[After Google's AI chatbot made a mistake, its stock dropped more than $100 billion](https://exbulletin.com/tech/2041209/)
+
+
+> Google's parent company Alphabet 'lost $100 billion in market value' after Google's AI-powered chatbot Bard made a factual error in a promotional video, NPR reported Thursday morning. 'Social media users were quick to point out that Google could have verified the exoplanet claim if they Googled it.' It was just hours before they touted Bard as the future of the company at their upcoming launch event. By Wednesday, Alphabet's stock had fallen as much as 9% during trading hours and had rebalanced by the close of trading for the day.
+
+
+***
+![‘Alone in the Dark: The New Nightmare', ‘Metroid II' Released for Nintendo Switch Online Service](https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/02/aitdmetroid.jpg?resize=830%2C535&ssl=1 "‘Alone in the Dark: The New Nightmare', ‘Metroid II' Released for Nintendo Switch Online Service")
+
+
+[‘Alone in the Dark: The New Nightmare', ‘Metroid II' Released for Nintendo Switch Online Service](https://bloody-disgusting.com/video-games/3750996/alone-in-the-dark-the-new-nightmare-metroid-ii-released-for-nintendo-switch-online-service/)
+
+
+> While we're waiting on THQ Nordic and Pieces Interactive to give us an update on the upcoming remake of Alone in the Dark , Nintendo fans got a bit of a surprise to tide them over until we finally return to the Derceto mansion. That surprise is the release of the Game Boy Color version of Alone in the Dark: The New Nightmare . The game was among the crop of Game Boy, Game Boy Color, and Game Boy Advance titles announced for the Nintendo Switch Online and Online Expansion Pack service. Obviously, while this version of Alone in the Dark: The New Nightmare can't compete with the PlayStation or Dreamcast versions that were released around the same time, the GBC version is still pretty impressive for what developer Pocket Studios was able to do, particularly in the graphics department.
+
+
+***
+![Tech Today Exclusive: Mitch Evans on his preparation for Formula E and experience in India](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/download_12_1-sixteen_nine.jpg "Tech Today Exclusive: Mitch Evans on his preparation for Formula E and experience in India")
+
+
+[Tech Today Exclusive: Mitch Evans on his preparation for Formula E and experience in India](https://www.businesstoday.in/technology/story/tech-today-exclusive-mitch-evans-on-his-preparation-for-formula-e-and-experience-in-india-369905-2023-02-11)
+
+
+> The following excerpts are from an exclusive conversation between New Zealand professional racing driver Mitch Evans who is in India to race at the first-ever Formula E, representing Jaguar TCS team. He spoke to Tech Today's Aayush Ailawadi. Here's how it went. Aayush: It's good to have you with us here in Hyderabad, Mitch! Mitch: Glad to be here and Hyderabad is putting on good weather for us...I am seeing the track for the first and hopefully, it will be finished. It looks amazing so far. Aayush: The last time we met, we were in London and of course in different weather conditions but it's nearly 35 degrees celsius here in Hyderabad, and you wouldn't be dressed breezily.
+
+
+***
+![AI Mania. ChatGPT vs. Google Bard vs. You. Who Will Win? Do We Care?](https://joshbersin.com/wp-content/uploads/2022/04/04192022-JBC-Podcast-Logo-New.png "AI Mania. ChatGPT vs. Google Bard vs. You. Who Will Win? Do We Care?")
+
+
+[AI Mania. ChatGPT vs. Google Bard vs. You. Who Will Win? Do We Care?](https://joshbersin.com/podcast/ai-mania-chatgpt-vs-google-bard-vs-you-who-will-win-do-we-care/)
+
+
+> This podcast is a review of last week's massive set of announcements from Microsoft and Google about Chatbots. Rather than try to summarize what you've already read, I spend time talking about the implications of all this. Here are a few highlights: Is Microsoft's statement that 'search will be reinvented' really correct and could this disrupt Google? Lots of problems with that theme, and I've seen Bard. It's good. What are the implications of ChatGPT and Bard on jobs, roles, and the technologies of HR? Many things to discuss here.
+
+
+***
+![LONGER RAY5 20W ups the ante for a new generation of laser engravers](https://www.gizchina.com/wp-content/uploads/images/2023/02/1900X850-BANNER.jpg "LONGER RAY5 20W ups the ante for a new generation of laser engravers")
+
+
+[LONGER RAY5 20W ups the ante for a new generation of laser engravers](https://www.gizchina.com/2023/02/11/longer-ray5-20w-ups-the-ante-for-a-new-generation-of-laser-engravers/)
+
+
+> Laser engravers are alongside 3D printers probably the most popular hobbymaker gadgets. The scope of their usage and utility goes way beyond just simple engraving, because you can also cut precisely plenty of materials with its powerful laser. Guys from the LONGER brand are quite the experts in the field and we have already seen two iterations of the RAY5 model . But now comes the new RAY5 20W and significantly steps up the game in all aspects. And we are of course here to throw in some extra launch promo discounts.
+
+
+***
+![Tech Today Exclusive: ‘Racing electric cars is like using smartphones' explains James Barclay](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/whatsapp_image_2023-02-11_at_11-sixteen_nine.jpeg "Tech Today Exclusive: ‘Racing electric cars is like using smartphones' explains James Barclay")
+
+
+[Tech Today Exclusive: ‘Racing electric cars is like using smartphones' explains James Barclay](https://www.businesstoday.in/technology/story/tech-today-exclusive-racing-electric-cars-is-like-using-smartphones-explains-james-barclay-369904-2023-02-11)
+
+
+> In an exclusive conversation with Tech Today's Aayush Ailawadi, Jaguar TCS Racing Team Principal James Barclay drew a parallel between racing electric cars and operating smartphones while explaining the hurdles team is facing in India's Hyderabad with respect ambience and high temperatures. "We expect a 35-degree celsius ambient temperature which is on the higher level. The thing with racing cars is like how when we overcharge and overuse mobile phones, it shuts down because of heat. But we can't do that at the track.
+
+
+***
+![Microsoft is paying me to use Bing and it ain't half-bad](https://www.androidauthority.com/wp-content/uploads/2023/02/microsoft-bing-in-edge-scaled.jpg "Microsoft is paying me to use Bing and it ain't half-bad")
+
+
+[Microsoft is paying me to use Bing and it ain't half-bad](https://www.androidauthority.com/bing-microsoft-rewards-3276522/)
+
+
+> Calvin Wankhede / Android Authority Calvin Wankhede Opinion Post While setting up a fresh copy of Windows 11 a few months ago, I neglected to install Google Chrome and got straight to installing other programs. Naturally, this meant using Microsoft defaults — the Edge web browser and Bing search engine. The last time I tried either of them, Internet Explorer was still alive and everyone hated Bing. But even though the latter hasn't changed after all this time, I was surprised to find that Bing didn't get in my way like I thought it would.
+
+
+***
+![iRobot's Combo j7+ Has a Robot Arm and No Sense of Direction](https://media.wired.com/photos/63e689a4de59d567d5d7c6b3/master/w_1600%2Cc_limit/iRobot-Roomba-Combo-J7+-Review-Underside-Gear.jpg "iRobot's Combo j7+ Has a Robot Arm and No Sense of Direction")
+
+
+[iRobot's Combo j7+ Has a Robot Arm and No Sense of Direction](https://newsakmi.com/news/tech-news/product-reviews/irobots-combo-j7-has-a-robot-arm-and-no-sense-of-direction/)
+
+
+> That wasn't great, but at least it developed a reasonably accurate map of my house. It automatically designated which surfaces were carpeted and which were hardwood, and I was able to designate no-go zones and clean zones—especially dirty or high-traffic areas—in the app. The mopping arm reliably came down in the kitchen, even if the first few passes were always dry, and the arm doesn't scrub as reliably as the Shark or the Ecovacs versions. I checked after every cleaning run and never found a wet carpet.
+
+
