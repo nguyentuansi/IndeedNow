@@ -14300,3 +14300,643 @@
 > It has been close to five months since the iPhone 14 series launched globally, and while the vanilla iPhone 14 models retained the older design, the next mainline vanilla iPhones—iPhone 15 and iPhone 15 Plus are rumored to sport a redesigned camera bump and rounded back. According to a recent tip from tech insider ShrimpApplePro, the upcoming iPhone 15 and iPhone 15 Plus could feature a newly redesigned camera bump on the back. Apple Hub reports that the upcoming iPhone 15 models could feature the current flagship SoC Apple A16 Bionic chip, which is currently featured in the iPhone 14 Pro models.
 
 
+***
+![New Zealand Pilots Urge Investigation Into Auckland Airport Following Flooding](https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2023/02/shutterstock_2168087177.jpeg "New Zealand Pilots Urge Investigation Into Auckland Airport Following Flooding")
+
+
+[New Zealand Pilots Urge Investigation Into Auckland Airport Following Flooding](https://newsakmi.com/travel-news/new-zealand-pilots-urge-investigation-into-auckland-airport-following-flooding/)
+
+
+> Pilots are seeking an investigation into Auckland International Airport (AKL) in regard to the airport's choice to stay operational during last month's floods. The New Zealand Air Line Pilots' Association (NZALPA) asked the country's Transport Accident and Investigation Commission (TAIC) to start an inquiry about the airport's decision to stay open during the harsh weather conditions on January 27, 2023, according to a report by Stuff. The report also indicated that the pilots were unaware of the depth of the water on the runway and that, at one point, the water's level had to be estimated using a worker's boot.
+
+
+***
+![King Charles III's coronation emblem designed by the iPhone designer](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/11234509/King_charles_1676178733869_1676178741494_1676178741494-800x450.jpg "King Charles III's coronation emblem designed by the iPhone designer")
+
+
+[King Charles III's coronation emblem designed by the iPhone designer](https://shepherdgazette.com/king-charles-iiis-coronation-emblem-designed-by-the-iphone-designer/)
+
+
+> The official emblem for King Charles III's coronation, scheduled for May 6, was unveiled by Buckingham Palace on Saturday and features a circular floral pattern created by the celebrated British designer behind the Apple iPhone designs. The emblem of Sir Jony Ive, who was previously chief design officer at technology company Apple and holds more than 14,000 patents worldwide, comes from his creative collective 'LoveFrom' and symbolizes the historic beginning of the new rule – the so-called Caroline era of Britain.
+
+
+***
+![How NMSU helped produce a green chile that may transform the industry](https://d21yqjvcoayho7.cloudfront.net/wp-content/uploads/2023/02/11/chile3.jpg "How NMSU helped produce a green chile that may transform the industry")
+
+
+[How NMSU helped produce a green chile that may transform the industry](https://www.abqjournal.com/2572238/how-nmsu-helped-produce-a-green-chile-that-may-transform-the-industry.html)
+
+
+> ​Nesto Martinez, left, and Guillermo Hernandez pick chile at a farm in New Mexico in 2021. (Roberto E. Rosales/Journal) With the latest statistics showing that New Mexico's 2021 chile production dropped considerably from the previous year, the state's chile experts identified a primary — and familiar — reason. 'Labor, labor, and more labor,' said Travis Day, executive director of the New Mexico Chile Association. He spoke in an interview Tuesday from the foyer of the convention center in Las Cruces, which hosted this year's annual New Mexico Chile Conference held Feb.
+
+
+***
+![AI, explained: The everyday person's guide to ChatGPT](https://s.hdnux.com/photos/01/31/34/04/23445815/3/rawImage.jpg "AI, explained: The everyday person's guide to ChatGPT")
+
+
+[AI, explained: The everyday person's guide to ChatGPT](https://www.sfgate.com/tech/article/chatgpt-openai-everyday-guide-17777804.php)
+
+
+> TikTok took nine months to get its 100 millionth user. Instagram took two years. ChatGPT, the chatbot released in late November 2022 by San Francisco 's OpenAI, reached the milestone in just 60 days. The viral growth came with a flurry of breathless journalism and Big Tech excitement. There was a $10 billion investment. The chatbot answered millions of queries, then passed law and business school exams. Microsoft said ChatGPT would transform its unpopular search engine Bing into a real Google competitor.
+
+
+***
+![Elon Musk said Twitter engineers fixed 2 'significant' problems that meant most of his tweets were 'not getting delivered'](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17o73q.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Elon Musk said Twitter engineers fixed 2 'significant' problems that meant most of his tweets were 'not getting delivered'")
+
+
+[Elon Musk said Twitter engineers fixed 2 'significant' problems that meant most of his tweets were 'not getting delivered'](http://www.msn.com/en-us/news/technology/elon-musk-said-twitter-engineers-fixed-2-significant-problems-that-meant-most-of-his-tweets-were-not-getting-delivered/ar-AA17o73E)
+
+
+> Elon Musk said two major problems at Twitter have been fixed after he spent a "long day" with the engineering team on Saturday. The Twitter CEO tweeted that problems, which he said caused most of his tweets to be undelivered and accounts with large followings to be dumped, had been "mostly addressed." "Long day at Twitter HQ with eng team," Musk tweeted. "Two significant problems mostly addressed: 1. Fanout service for Following feed was getting overloaded when I tweeted, resulting in up to 95% of my tweets not getting delivered at all.
+
+
+***
+![WonHobby36: Concept of Mio figma figure shown, plus new figures revealed](https://gonintendo.com/attachments/image/23143/file/medium-7cf7bc547b83f690bbb932568b5a3904.jpg "WonHobby36: Concept of Mio figma figure shown, plus new figures revealed")
+
+
+[WonHobby36: Concept of Mio figma figure shown, plus new figures revealed](https://gonintendo.com/contents/16158-wonhobby36-concept-of-mio-figma-figure-shown-plus-new-figures-revealed)
+
+
+> Mio (Xenoblade Chronicles 3) Nendoroid Doll Joker (Persona5 Royal) Nendoroid Kasumi Yoshizawa: Phantom Thief Ver. (Persona5 Royal) Nendoroid Kiriko (Overwatch 2) Nendoroid The Human (UNDERTALE) Nendoroid Tails (Sonic the Hedgehog) Nendoroid Knuckles (Sonic the Hedgehog) Nendoroid Six (LITTLE NIGHTMARES) Nendoroid Sayori (Doki Doki Literature Club!) Nendoroid Yuri (Doki Doki Literature Club!) POP UP PARADE Monika (Doki Doki Literature Club!) Nendoroid Natsuki (Doki Doki Literature Club!) Scale Figure Chun-Li (Street Fighter Series) Scale Figure Ciel ~Seventh Scripture: 3rd Cause of Death—Blood Loss (Blade)~ (TSUKIHIME -A piece of blue glass moon-) Nendoroid Akiha Tohno (TSUKIHIME -A piece of blue glass moon-) figma Arcueid Brunestud (TSUKIHIME -A piece of blue glass moon-) POP UP PARADE Mikan Tsumiki (Danganronpa 1•2 Reload) Nendoroid Demon Hunter (Diablo 3) GoodSmile has unveiled a plethora of new figures and updates on previously announced figures in the Wonder Hobby Life for You 36 event that started today.
+
+
+***
+![Good news! The AI robots taking our jobs require a lot of humans to serve their needs.](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17olYH.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Good news! The AI robots taking our jobs require a lot of humans to serve their needs.")
+
+
+[Good news! The AI robots taking our jobs require a lot of humans to serve their needs.](http://www.msn.com/en-us/news/technology/good-news-the-ai-robots-taking-our-jobs-require-a-lot-of-humans-to-serve-their-needs/ar-AA17nKE9)
+
+
+> Meet the hidden human workforce behind the boom in artificial intelligence Load Error Since ChatGPT took the world by storm last fall, people have been in a frenzy debating the impact artificial intelligence and other new automated technology will have on America's job market. The "robots are taking our jobs" narrative was further boosted by viral videos showing new, "fully automated" McDonald's and Taco Bell restaurants. The knee-jerk reaction to these videos is to say that robots are coming for our jobs, but while AI and other kinds of automation have progressed, that doesn't mean they're necessarily eliminating jobs.
+
+
+***
+![pTron Basspods Flare, gaming earbuds launched in India: Check price, features](https://images.livemint.com/img/2023/02/12/600x338/WhatsApp_Image_2023-02-09_at_151952_1676201660184_1676201660479_1676201660479.jpeg "pTron Basspods Flare, gaming earbuds launched in India: Check price, features")
+
+
+[pTron Basspods Flare, gaming earbuds launched in India: Check price, features](https://www.livemint.com/technology/ptron-basspods-flare-gaming-earbuds-launched-in-india-check-price-features-11676200555330.html)
+
+
+> pTron, a homegrown digital accessories brand, has launched its new gaming earbuds dubbed the Basspods Flare in India. The device is powered with low-latency wireless technology and long playtime for gaming-grade audio performance on PC or Mobile devices, as per the company. pTron Basspods Flare: Price in India The pTron Basspods Flare is priced at ₹ 1299 in India. However, the device is available at an introductory price of ₹ 899. These gaming earbuds shall be available to purchase on Flipkart from Feb 09, 2023.
+
+
+***
+![Lakers' trade deadline acquisitions make immediate impact in debut, but clock is ticking to salvage season](https://sportshub.cbsistatic.com/i/2023/02/12/db42e7c9-9f60-42ef-ba77-8569926eb198/021123-dangelorussell.jpg "Lakers' trade deadline acquisitions make immediate impact in debut, but clock is ticking to salvage season")
+
+
+[Lakers' trade deadline acquisitions make immediate impact in debut, but clock is ticking to salvage season](https://newsakmi.com/sports-news/nba-news/lakers-trade-deadline-acquisitions-make-immediate-impact-in-debut-but-clock-is-ticking-to-salvage-season/)
+
+
+> SAN FRANCISCO — The year was 2018. The pandemic was still two years away. 'Black Panther' was the No. 1 movie in the country. And LeBron James had just received a fresh batch of teammates following a flurry of activity from the Cleveland Cavaliers prior to the trade deadline. A 121-99 thumping of the Boston Celtics at TD Garden in the team's first game following the addition of Jordan Clarkson , Rodney Hood , George Hill and Larry Nance Jr . prompted James to exclaim afterward , 'We've got a f—ing squad now!' Five years later, he didn't quite go that far after a 109-103 road win by the new-look Los Angeles Lakers over the Golden State Warriors — but James, who did not play in the game due to an ankle injury but was on the sideline cheering on his new teammates, was certainly impressed.
+
+
+***
+![Release when ready using bitbucket pipeline , aws and kubernetes](https://miro.medium.com/max/556/1*8SNxBmYFY77fYInlmlrcTA.png "Release when ready using bitbucket pipeline , aws and kubernetes")
+
+
+[Release when ready using bitbucket pipeline , aws and kubernetes](https://medium.com/@aishwaryashelke88/release-when-ready-using-bitbucket-pipeline-aws-and-kubernetes-c3425e4d3231)
+
+
+> What is RWR ? Release when ready is functionality using which developer could test the current pr raised is working fine or not instead of merging it to production branch and then creating a glitch ,Rwr will create a live environment for current pull request and that can be tested as of production environment To create the same we will need to create bitbucket pipeline and k8s config files and terraform script to create the required resources 1.Create Bitbucket Variables Depending upon how you have configured your ingress you need to modify the ingress variables as well 2.
+
+
+***
+![This Valentine's Day, get Apple's iPhone 13 for just ₹36,999. Here's how](https://www.hindustantimes.com/ht-img/img/2023/02/12/1600x900/AP09-15-2021-000021A-0_1632110622013_1676198339874_1676198339874.jpg "This Valentine's Day, get Apple's iPhone 13 for just ₹36,999. Here's how")
+
+
+[This Valentine's Day, get Apple's iPhone 13 for just ₹36,999. Here's how](https://www.hindustantimes.com/technology/this-valentine-s-day-get-apple-s-iphone-13-for-just-rs-36-999-here-s-how-101676198084447.html)
+
+
+> This Valentine's Day, if you are planning to gift an iPhone to a loved one, you may want to order an iPhone 13. This is because Flipkart, under its Valentine Day's Deal , is giving an offer under which, you can get iPhone 13 for less than ₹ 40,000, against a maximum retail price (MRP) of ₹ 69,900. Flipkart Valentine Day's Deal Under this, customers can get the device with or without an exchange offer. If they choose not to avail the offer, they get the smartphone at a reduced price of ₹ 61,999.
+
+
+***
+![WestJet Pilots Asks For Federal Help After Contract Agreement Failure](https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2023/02/fejxiunwqaiye6p.jpg "WestJet Pilots Asks For Federal Help After Contract Agreement Failure")
+
+
+[WestJet Pilots Asks For Federal Help After Contract Agreement Failure](https://newsakmi.com/travel-news/westjet-pilots-asks-for-federal-help-after-contract-agreement-failure/)
+
+
+> After months of failed attempts to negotiate with executives and management at Canadian carrier WestJet , the airline's pilot union is reportedly asking for federal assistance. On Friday, the WestJet Master Executive Council (MEC), represented by the Airline Pilots Association (ALPA) , filed a request for assistance with the Federal Mediation and Conciliation Service. According to ALPA, the conciliation process allows the pilot group to seek the government's assistance to reach an agreement with the airline on their second contract.
+
+
+***
+![Today's Wordle #603 Answer, Hints and Clues for Sunday, February 12 Game](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17odVx.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Today's Wordle #603 Answer, Hints and Clues for Sunday, February 12 Game")
+
+
+[Today's Wordle #603 Answer, Hints and Clues for Sunday, February 12 Game](http://www.msn.com/en-us/news/technology/today-s-wordle-603-answer-hints-and-clues-for-sunday-february-12-game/ar-AA17nY8E)
+
+
+> Wordle is a popular word puzzle game that gained a following of millions within months of it being launched in October 2021. An explanation for Wordle's sudden popularity could be due to the puzzle game's simplicity. The rules are simple, everyday players need to work out a new five-letter word within six attempts or fewer. Load Error Tiles turn green if you put the letter in the correct place, while a yellow square indicates that the letter is in the word but in the wrong place. A gray tile means that the player has selected a letter that is not in the answer at all and that they need to try again.
+
+
+***
+![Kuberenete installation in 5 Min](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png "Kuberenete installation in 5 Min")
+
+
+[Kuberenete installation in 5 Min](https://medium.com/@mnshkmrpnd/kuberenete-installation-in-5-min-62cd6ab8088b)
+
+
+> Kuberenete installation in 5 Min Prerequisite: ============= 3 — Ubuntu Serves 1 — Manager (4GB RAM , 2 Core) t2.medium 2 — Workers (1 GB, 1 Core) t2.micro #Kubernetes Installation by Manish #Note: Open Required Ports In AWS Security Groups. For now we will open All trafic. #==========COMMON FOR MASTER & SLAVES START ==== #creat shell script and run all command one time sudo hostnamectl set-hostname Kubernetes_master sudo su - sudo apt-get update curl https://releases.rancher.com/install-docker/20.
+
+
+***
+![Meta To Announce Fresh Round of Layoffs ?](https://english.sakshi.com/sites/default/files/article_images/2023/02/12/Meta-1676197689.jpg "Meta To Announce Fresh Round of Layoffs ?")
+
+
+[Meta To Announce Fresh Round of Layoffs ?](https://english.sakshi.com/news/technology/meta-announce-fresh-round-layoffs-report-168919)
+
+
+> Feb 12, 2023, 15:58 IST After laying off 11,000 employees last year, Facebook parent company Meta is likely to announce a fresh round of layoffs this 2023 which it called as the ‘ year of efficiency', which founder and CEO Mark Zuckerberg had stated. As per reports in Financial Times, there has been a lack of clarity about budgets and these apart managers are unable to plan their work. It is reported that the CEO had put mid-level managers on notice with a focus on increasing the efficiency of how decisions are being made in the company.
+
+
+***
+![Airflow Log Integration with Fluent Bit + ELK Stack (Kubernetes)](https://miro.medium.com/max/1200/0*6ZHkvazrZJgRTfH2 "Airflow Log Integration with Fluent Bit + ELK Stack (Kubernetes)")
+
+
+[Airflow Log Integration with Fluent Bit + ELK Stack (Kubernetes)](https://medium.com/@dulshanr12/airflow-log-integration-with-fluent-bit-elk-stack-kubernetes-f2afa3a6ff00)
+
+
+> A step by step guide to deploy and integrate airflow remote logging with the ELK stack using Fluent Bit in Kubernetes Environment. ELK(Pun Intended) — Photo by Philipp Pilz on Unsplash Why do we need to Integrate Airflow logs with ELK? ELK can provide centralized logging platform thus can identify common issues and relate the logs of different pods/servers in a particular time frame. With ELK can monitor logs in real time, from any source and format. Can remove log persistence from airflow pods and ensure the safe storage of critical logs Can integrate machine learning and implement use cases such as anomaly detection.
+
+
+***
+![How to build a ‘future-ready' security monitoring strategy](https://itwire.com/media/k2/items/cache/7b106d5060e482bfa2d9d2f1d723ad52_XS.jpg "How to build a ‘future-ready' security monitoring strategy")
+
+
+[How to build a ‘future-ready' security monitoring strategy](https://itwire.com/guest-articles/guest-opinion/how-to-build-a-%E2%80%98future-ready%E2%80%99-security-monitoring-strategy.html)
+
+
+> GUEST OPINION by Joanne Wong, Vice President International Marketing – APJ and EMEA at LogRhythm: They've been a constant focus for IT security teams for years, however the number of ransomware attacks experienced by organisations around the world continues to climb. Research shows that, during 2022, a ransomware attack was recorded every 11 seconds. This resulted in a global annual cost to business of $US20 billion and the number is continuing to rise. For all organisations, it is a matter of ‘when' rather than ‘if' they will fall victim to an attack.
+
+
+***
+![WhatsApp users may soon be able to send images in original quality on Desktop beta](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/12/2572442-whatsapp.png "WhatsApp users may soon be able to send images in original quality on Desktop beta")
+
+
+[WhatsApp users may soon be able to send images in original quality on Desktop beta](https://www.dnaindia.com/technology/report-whatsapp-users-may-soon-be-able-to-send-images-in-original-quality-on-desktop-beta-3023240)
+
+
+> File photo Meta-owned messaging platform WhatsApp is reportedly working on a new feature which will allow users to send images in their original quality, on Desktop beta. With the new feature, users will no longer have to worry about their images losing quality or resolution while sending them, reports WABetaInfo. When the feature will be available to the beta testers, they will still be able to send images using the standard compression method, which will be useful for those who want to save storage space.
+
+
+***
+![Fortinet helps launch Cybercrime Atlas global knowledgebase](https://itwire.com/media/k2/items/cache/52615feb66ff3a87f21cc237506c8a39_XS.jpg "Fortinet helps launch Cybercrime Atlas global knowledgebase")
+
+
+[Fortinet helps launch Cybercrime Atlas global knowledgebase](https://itwire.com/security/fortinet-helps-launch-cybercrime-atlas-global-knowledgebase.html)
+
+
+> Network and security product provider Fortinet has announced the launch of the Cybercrime Atlas, a joint initiative between it, Microsoft, PayPal, and Banco Santander to aid industry, law enforcement, and government agencies by providing a first-of-its-kind visibility to help take down cybercriminals and their infrastructure around the world. The Cybercrime Atlas was launched this month in Davos at the organisation's Annual Meeting by the World Economic Forum (WEF) and is aimed to disrupt cybercrime at a global scale, by mapping and fighting the cybercrime landscape, and covering criminal operations, structures, and networks.
+
+
+***
+![Influencer Grace G microwaves Cadbury Mini Eggs, but experts warn it could cause them to explode](https://i.dailymail.co.uk/1s/2023/02/11/23/67589573-11740509-British_business_owner_and_foodie_Grace_G_pictured_has_shared_he-a-34_1676159258231.jpg "Influencer Grace G microwaves Cadbury Mini Eggs, but experts warn it could cause them to explode")
+
+
+[Influencer Grace G microwaves Cadbury Mini Eggs, but experts warn it could cause them to explode](https://newsakmi.com/../../world/uk-news/influencer-grace-g-microwaves-cadbury-mini-eggs-but-experts-warn-it-could-cause-them-to-explode)
+
+
+> A foodie has shared her ‘life-changing' hack to make Cadbury Mini Eggs taste even better – but experts warn that her method could have disastrous consequences. British business owner, Grace G, heats the eggs in the microwave for 50 seconds so that the chocolate inside becomes melted. Grace said she would ‘never eat them normally again' after trying the hack. Scroll down for video British business owner and foodie, Grace G (pictured), has shared her ‘life-changing' hack to make Cadbury Mini Eggs taste even better She heats the eggs in the microwave for 50 seconds so that the chocolate inside becomes melted (right).
+
+
+***
+![Excellent! Let's check the prices & specifications for the Galaxy A54 & A34](https://awsimages.detik.net.id/visual/2023/02/09/samsung-galaxy-a54-5g_169.png?w=650?w=650 "Excellent! Let's check the prices & specifications for the Galaxy A54 & A34")
+
+
+[Excellent! Let's check the prices & specifications for the Galaxy A54 & A34](https://www.world-today-news.com/excellent-lets-check-the-prices-specifications-for-the-galaxy-a54-a34/)
+
+
+> Khoirul Anam CNBC Indonesia Tech Sunday, 12/02/2023 14:15 WIB Jakarta, CNBC Indonesia – Smartphone manufacturer Samsung is ready to land its newest products in Indonesia, namely the Galaxy A34 5G and Galaxy A54 5G. The two new Samsung mobile phones with the SM-A346E and SM-A546E models have been registered on the Domestic Component Level (TKDN) website of the Ministry of Industry (Kemenperin) since Friday (3/2). Judging from the GSM Arena page, SM-A346E is the model number for the Galaxy A34, while SM-A546E is the model number for the Galaxy A54.
+
+
+***
+![Learning DevOps Concepts from ChatGPT — Part — 06](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png "Learning DevOps Concepts from ChatGPT — Part — 06")
+
+
+[Learning DevOps Concepts from ChatGPT — Part — 06](https://medium.com/@PrakashTKArasu/learning-devops-concepts-from-chatgpt-part-06-f05acf2b8ea7)
+
+
+> Cloud Native Application Architecture Cloud Native Application Architecture refers to a software design philosophy that leverages cloud computing technologies to build and run scalable, highly available, and resilient applications. The architecture is designed to work seamlessly in a cloud environment, taking advantage of its on-demand scalability, network access, and integrated services. A cloud native application is typically composed of small, independent, and loosely coupled microservices, which can be deployed, updated, and managed independently.
+
+
+***
+![Naxxramas returns to Hearthstone on 15 Feb with this new mini-set, and more](https://itwire.com/media/k2/items/cache/5cc6c25b6c78a401cfda76f313140508_XS.jpg "Naxxramas returns to Hearthstone on 15 Feb with this new mini-set, and more")
+
+
+[Naxxramas returns to Hearthstone on 15 Feb with this new mini-set, and more](https://itwire.com/entertainment/naxxramas-returns-to-hearthstone-on-15-feb-with-this-new-mini-set,-and-more.html)
+
+
+> Naxxramas returns to the Warcraft-themed collectible card game Hearthstone on 15 February 2023. Patch 25.4 goes live, bringing a 38-card March of the Lich King mini-set, which you can buy all in one go with real money or in-game currency. The new March of the Lich King mini-set, " Return to Naxxramas ", includes four powerful Legendary minions including Singragosa, seven new dual-type minions, and a Location card for the Death Knight class. The patch also brings the final update for the Mercenaries game mode, ratcheting the boss fights up to mythic status.
+
+
+***
+![If Your iMac's Monitor Breaks Will It Automatically Use an External Monitor?](https://images.macrumors.com/social/?t=2380495&v=6 "If Your iMac's Monitor Breaks Will It Automatically Use an External Monitor?")
+
+
+[If Your iMac's Monitor Breaks Will It Automatically Use an External Monitor?](https://forums.macrumors.com/threads/if-your-imacs-monitor-breaks-will-it-automatically-use-an-external-monitor.2380495/)
+
+
+> Hello Apple friends. Supposing your iMac's monitor breaks (the GPU and the rest are ok for example) but you have an external monitor plugged it, will the Mac's firmware (or something else) automatically use the external monitor so you could still see what's going on? If yes, did you need to have it set first in the Display settings as 'Mirror' or 'Extended Desktop' before its screen broke? Thank you, have a great weekend and a great sunday.
+
+
+***
+![Diocese of San Diego faces bankruptcy over abuse lawsuits](https://www.domradio.de/system/files/styles/metatag_og_image/private/image/Kleingeld.jpg?h=f3e1135c&itok=jUGM07SB "Diocese of San Diego faces bankruptcy over abuse lawsuits")
+
+
+[Diocese of San Diego faces bankruptcy over abuse lawsuits](https://www.world-today-news.com/diocese-of-san-diego-faces-bankruptcy-over-abuse-lawsuits/)
+
+
+> The reason for this is around 400 lawsuits in which priests and other church employees are accused of sexually abusing children. A diocese spokesman said it would likely take $550 million to settle the lawsuits out of court. The background to the new wave of lawsuits is a law that has been in force in California since 2019, which has largely abolished the statute of limitations for child sexual abuse. According to the Diocese of San Diego, the current lawsuits relate to events that occurred 50 to 75 years ago.
+
+
+***
+![Does Microsoft integrate artificial intelligence into its Office applications?](https://www.annahar.com/ContentFiles/243014Image1-775x445_d.jpg?version=3310467 "Does Microsoft integrate artificial intelligence into its Office applications?")
+
+
+[Does Microsoft integrate artificial intelligence into its Office applications?](https://www.world-today-news.com/does-microsoft-integrate-artificial-intelligence-into-its-office-applications/)
+
+
+> Microsoft plans to offer upgrades to its Office applications to include features powered by artificial intelligence in the coming weeks. According to The Verge, the company is preparing to show what Open AI can do for Word and PowerPoint applications as soon as possible. Microsoft recently launched a redesigned Bing search engine to create conversational responses to search queries, thanks to the Prometheus model, which was built with the help of Open AI. In addition, the company introduced a new AI-powered Edge browser that is also powered by the Prometheus model.
+
+
+***
+![Argo CD app Diff as PR comments](https://miro.medium.com/max/1200/0*ekaWBukLlCaPiHNa.png "Argo CD app Diff as PR comments")
+
+
+[Argo CD app Diff as PR comments](https://edwin-philip.medium.com/argo-cd-app-diff-as-pr-comments-f58fe602ec79)
+
+
+> No need to go to Argo CD UI every time to see Diff and verify before applying the changes, see them as PR comments in your Github Pull request. GitOps and Argo CD Since the introduction of GitOps, there have been several Softwares and deployment patterns, strategies. There are several CD tools that help achieve GitOps. You can even achieve GitOps just by using Jenkins or Jenkins X with any other tools. Some of them has really useful features that gives you GitOps friendly deployment out of the box.
+
+
+***
+![Scientists consider the year 536 to be the most terrible in human history. Do you know what disaster happened?](https://vlm-production-dam-public.fra1.cdn.digitaloceanspaces.com/640x360/72b/72b1c67d-a75b-4289-a229-334d67a4780c.webp "Scientists consider the year 536 to be the most terrible in human history. Do you know what disaster happened?")
+
+
+[Scientists consider the year 536 to be the most terrible in human history. Do you know what disaster happened?](https://www.world-today-news.com/scientists-consider-the-year-536-to-be-the-most-terrible-in-human-history-do-you-know-what-disaster-happened/)
+
+
+> Can it even be determined that there would be one year in history that could be described as the worst? This is how the year 536 was evaluated, which became the worst year for life. The truth is that a lot has happened. And if you think that the year just ended was bad for you, believe me, it could be worse. In the past two years, the world has overcome the coronavirus pandemic. It seems that we are already behind it, but that does not mean that we will not face other problems and disasters. After all, even most of the prophets do not prophesy anything good to us.
+
+
+***
+![Shark Tank's Kevin O'Leary Discusses AI Investments, Google and ChatGPT](https://i.insider.com/63e3dca027e5db0018eec27e?width=1200&format=jpeg "Shark Tank's Kevin O'Leary Discusses AI Investments, Google and ChatGPT")
+
+
+[Shark Tank's Kevin O'Leary Discusses AI Investments, Google and ChatGPT](https://exbulletin.com/tech/2042307/)
+
+
+> Shark Tank investor Kevin O'Leary sat down with Insider to discuss the booming artificial intelligence sector. He said AI will likely have a 3.5% weight in his investment portfolio by the end of the year. The media personality also shared details of his potential investment in OpenAI, ChatGPT's parent company. Loading Something is loading. Thank you for your registration. Access your favorite topics with a personalized feed while you're on the go.download the app Shark Tank star Kevin O'Leary sees artificial intelligence as a tremendous investment opportunity, saying it will likely be the fastest growing category in his portfolio in 2023.
+
+
+***
+![New Lava Blaze 5G Launched in India: Check Price, Specifications, Other Details](https://english.cdn.zeenews.com/sites/default/files/2023/02/12/1152920-untitled-design-2023-02-12t135828.634.jpg "New Lava Blaze 5G Launched in India: Check Price, Specifications, Other Details")
+
+
+[New Lava Blaze 5G Launched in India: Check Price, Specifications, Other Details](https://zeenews.india.com/technology/new-lava-blaze-5g-launched-in-india-check-price-specifications-other-details-2572454.html)
+
+
+> New Delhi:  The brand's newest entry-level smartphone product is the Lava Blaze 5G. More RAM and storage than the previous model are among the intriguing new features of the phone. A 6.5-inch 720p display with a maximum refresh rate of 90Hz is included on the Lava Blaze 5G. It has a 7nm Dimensity 700 processor running at 2.2 GHz and 4GB of RAM, which can be increased to 7GB using the Virtual RAM feature. ( Also Read: Axis Bank Hikes FD Rates, Effective From Today- Check Return Calculator ) It includes 128GB of expandable storage that can be up to 1TB.
+
+
+***
+![With the advent of ChatGPT, people will have to work less – Bill Gates](https://prostomob.com/wp-content/uploads/2023/02/bill-gates-main.jpg "With the advent of ChatGPT, people will have to work less – Bill Gates")
+
+
+[With the advent of ChatGPT, people will have to work less – Bill Gates](https://www.world-today-news.com/with-the-advent-of-chatgpt-people-will-have-to-work-less-bill-gates/)
+
+
+> In the last quarter of last year, a startup operating in the US market revealed the ChatGPT neural network to the world. She is able to perform quite complex tasks like writing program code and conducting meaningful dialogues with interlocutors. Against the backdrop of the growing popularity of the sensational chatbot, Microsoft has promised to invest about 10 billion USD in the development of OpenAI. Handelsblatt journalists asked Bill Gates what he thinks about the prospects of ChatGPT. Details The Microsoft co-founder noted that neural networks have long learned to read and write, but until recently they could not understand the content.
+
+
+***
+![Ionblox's ultra-fast EV battery promises 5x more power](https://i.imgur.com/AoyxWyw.png "Ionblox's ultra-fast EV battery promises 5x more power")
+
+
+[Ionblox's ultra-fast EV battery promises 5x more power](https://exbulletin.com/tech/2042295/)
+
+
+> Ionblox, a next-generation lithium-ion battery company, has closed a $32 million Series B funding round. The funding round joins existing investors Lilium and Applied Ventures with Temasek and Catalus Capital. The California-based company will use the funding to expand its technology, develop advanced high-power cells for electric aviation, and prototype fast-charging cells for electric vehicles. Ionblox develops batteries with high-performance lithium-ion cells with prelithiated silicon-dominant anodes.
+
+
+***
+![Nasa's Curiosity rover finds unexpected evidence of Mars' hidden water history](https://www.hindustantimes.com/ht-img/img/2023/02/12/1600x900/mars_1676192305423_1676192322781_1676192322781.jpg "Nasa's Curiosity rover finds unexpected evidence of Mars' hidden water history")
+
+
+[Nasa's Curiosity rover finds unexpected evidence of Mars' hidden water history](https://www.hindustantimes.com/technology/nasas-curiosity-rover-finds-unexpected-evidence-of-mars-hidden-water-history-101676186529615.html)
+
+
+> Nasa's Mars Rover Curiosity has made an unexpected discovery about the Red Planet's past. The findings during the exploring of a region known as the 'Marker Band' revealed evidence of ancient water ripples that formed within lakes. ALSO READ: Nasa's Hubble telescope captures the start of a new 'spoke' season of Saturn The Curiosity Rover has been ascending the foothills of Mount Sharp, a 5-kilometre-tall mountain thought to have lakes and streams that would have made available a rich environment for microbial life.
+
+
+***
+![WA GB Download Link (GB WhatsApp) 2023 Anti Expires, More and More Privacy Guarantees, Now Much Hunted](https://media.suara.com/suara-partners/sumedang/thumbs/970x545/2023/01/03/1-screenshot-20230103-073526.png "WA GB Download Link (GB WhatsApp) 2023 Anti Expires, More and More Privacy Guarantees, Now Much Hunted")
+
+
+[WA GB Download Link (GB WhatsApp) 2023 Anti Expires, More and More Privacy Guarantees, Now Much Hunted](https://www.world-today-news.com/wa-gb-download-link-gb-whatsapp-2023-anti-expires-more-and-more-privacy-guarantees-now-much-hunted/)
+
+
+> SuaraSumedang.id – Check out the following reviews regarding link download WA GBMore (GB WhatsApp) 2023 is anti-expired, more and more privacy guarantees are now being hunted. More and more people are looking for the download link for the WA GB or GB WhatsApp latest version 2023 because this application cannot be found in the Play Store or App Store. This is inseparable because WA GB is a type of modified application developed by a third party or often referred to as Mod Apk. Even though it has been modified in terms of functions such as sending instant messages, video calls, or normally it can still be used, in fact the features are being added more and more.
+
+
+***
+![Deploy RabbitMQ with Kubernetes and Persistent Volumes](https://miro.medium.com/max/1024/1*BbRXnRQpGZ77lzVfG1zT_w.jpeg "Deploy RabbitMQ with Kubernetes and Persistent Volumes")
+
+
+[Deploy RabbitMQ with Kubernetes and Persistent Volumes](https://medium.com/@denisyurchak/deploy-rabbitmq-with-kubernetes-and-persistent-volumes-8a3d0f72b14f)
+
+
+> Rabbit, mmm, queue? RabbitMQ is a message broker. In most modern production environments, RabbitMQ is deployed as part of a Kubernetes (further k8s) cluster. On the most granular level of the k8s cluster, RabbitMQ runs in a resource called Pod . Internally RabbitMQ maintains data structures and state that are used to facilitate messaging. The Pods in k8s are ephemeral. If a Pod fails, it's going to lose all its internal state. If RabbitMQ was running on this Pod , you would have lost all your messages and metadata.
+
+
+***
+![Google is Working On Making Chrome's Picture-In-Picture More Useful](https://www.ghacks.net/wp-content/uploads/2023/02/Google-is-Working-On-Making-Chromes-Picture-In-Picture-More-Useful-main.jpg "Google is Working On Making Chrome's Picture-In-Picture More Useful")
+
+
+[Google is Working On Making Chrome's Picture-In-Picture More Useful](https://www.ghacks.net/2023/02/12/google-is-working-on-making-chromes-picture-in-picture-more-useful)
+
+
+> Multi-tasking is very important for anyone who wants to get things done faster. Sometimes you want to watch your favorite show whilst swiping through some stories or even playing your favorite puzzle […] Thank you for being a Ghacks reader. The post Google is Working On Making Chrome's Picture-In-Picture More Useful appeared first on gHacks Technology News .
+
+
+***
+![How to Watch the 2023 Super Bowl With a VPN (Any Device)](https://www.ghacks.net/wp-content/uploads/2023/02/How-to-Watch-the-2023-Super-Bowl-With-a-VPN-scaled.jpg "How to Watch the 2023 Super Bowl With a VPN (Any Device)")
+
+
+[How to Watch the 2023 Super Bowl With a VPN (Any Device)](https://www.ghacks.net/2023/02/10/how-to-watch-the-2023-super-bowl-with-a-vpn-any-device-2)
+
+
+> The 57th Super Bowl is finally here, and NFL fans globally are sitting on the edge of their seats. At the State Farm Stadium in Glendale, Arizona, fans are ready to experience […] Thank you for being a Ghacks reader. The post How to Watch the 2023 Super Bowl With a VPN (Any Device) appeared first on gHacks Technology News .
+
+
+***
+![How BaaS unlocks vast opportunities for the banking sector](https://assets.bizclikmedia.net/1800/5b25497137d1d50e7176c69d7b31b73d:0a2cd6e8ec6171eb80c17e46aadde9ad/gettyimages-1318174723.jpg.jpg "How BaaS unlocks vast opportunities for the banking sector")
+
+
+[How BaaS unlocks vast opportunities for the banking sector](https://fintechmagazine.com/articles/how-baas-unlocks-vast-opportunities-for-the-banking-sector)
+
+
+> As banking-as-a-service (BaaS) nears mainstream adoption, there is a significant opportunity for banks to join the BaaS ecosystem, develop new relationships with fintech firms and create new revenue streams for themselves at the same time. The mobile industry is one sector where we will see BaaS flourish and become readily adopted by mobile providers, fintech firms and banks. Smartphones (of which there are about 6.6bn globally) have given people access to instant communication and the financial services industry is beginning to understand that.
+
+
+***
+![Alphabet Stock Plunges After Google's Chatbot Gives Wrong Answers](https://www.theeastafrican.co.ke/resource/blob/4119734/240230992eed34eeb02e681aa9a832ca/chatbot-data.jpg "Alphabet Stock Plunges After Google's Chatbot Gives Wrong Answers")
+
+
+[Alphabet Stock Plunges After Google's Chatbot Gives Wrong Answers](https://exbulletin.com/tech/2042281/)
+
+
+> Reuters Alphabet Inc. lost $100 billion in market value Wednesday after its new chatbot shared inaccurate information in a promotional video and a company event went unnoticed. Alphabet shares were down 9% during normal trading, with trading volume nearly triple its 50-day moving average. They cut their losses after a few hours and were pretty much flat. The stock lost 40% of its value last year, but is up 15% since the beginning of the year, not including Wednesday's losses. Reuters first criticized Google's ad for chatbot Bard, which debuted Monday for the satellite that took the first picture of Earth's extrasolar planet.
+
+
+***
+![YouTuber gives eyesight and is then hated on Twitter](https://www.ingame.de/bilder/2023/01/31/92059740/30795604-youtuber-mrbeast-mit-teulfelshoernern-2n4AElHAfxBG.jpg "YouTuber gives eyesight and is then hated on Twitter")
+
+
+[YouTuber gives eyesight and is then hated on Twitter](https://www.world-today-news.com/youtuber-gives-eyesight-and-is-then-hated-on-twitter/)
+
+
+> ingame Gaming News Streaming Created: 2/12/2023 8:47 am In his new video, MrBeast has 1,000 people healed from their blindness. This sparks a number of discussions about influencers and health insurance companies. San Francisco, USA – James Steven Donaldson, better known as MrBeast, is making YouTube videos that are making many fans jaw drop. MrBeast uses his success and the wealth that goes with it for philanthropic purposes – and of course content. A new video in which the super-rich influencer lets 1,000 blind people see again sparks heated discussions.
+
+
+***
+![I completed DiRT 2 on XBOX 360 [Беклог] – DTF games](https://dtf.ru/cover/fb/c/1626551/1676184036/cover.jpg "I completed DiRT 2 on XBOX 360 [Беклог] – DTF games")
+
+
+[I completed DiRT 2 on XBOX 360 [Беклог] – DTF games](https://www.world-today-news.com/i-completed-dirt-2-on-xbox-360-%d0%b1%d0%b5%d0%ba%d0%bb%d0%be%d0%b3-dtf-games/)
+
+
+> I drove all the races that I was interested in in this game, and I will tell you about the pros and cons that I noticed in 15 hours of gameplay. This part of the series was the most praised by people on social media. networks and on DTF, but I still didn't expect achievements from the game. I will indicate that I did not complete the game 100%, since this is a direct path to burnout from the project. I opened all competitions, completed all special races and completed those races that are interesting and enjoyable for me, closed the game by 70% I took GIFs and screenshots from the Internet, so there may be watermarks somewhere, somewhere the PC version.
+
+
+***
+![Istio Architecture for Kubernetes: The Good, the Bad & the Ugly](https://external-preview.redd.it/U3sLVLVtC9g_mFqRLGWkBPWZ1Mdo2bldpK5Q3qExUDI.jpg?auto=webp&v=enabled&s=e80a8bec631b285df3aad758c6d739ac10c973ab "Istio Architecture for Kubernetes: The Good, the Bad & the Ugly")
+
+
+[Istio Architecture for Kubernetes: The Good, the Bad & the Ugly](https://www.reddit.com/r/programming/comments/110b24j/istio_architecture_for_kubernetes_the_good_the)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Sweet Valentine's Day gift! Samsung Galaxy S21 FE price cut from 74999 to just 13999](https://images.hindustantimes.com/tech/img/2023/02/12/1600x900/DSC_1408_1641807568341_1676191339775_1676191339775.jpg "Sweet Valentine's Day gift! Samsung Galaxy S21 FE price cut from 74999 to just 13999")
+
+
+[Sweet Valentine's Day gift! Samsung Galaxy S21 FE price cut from 74999 to just 13999](https://tech.hindustantimes.com/mobile/news/sweet-valentine-s-day-gift-samsung-galaxy-s21-fe-price-cut-from-74999-to-just-13999-71676191157646.html)
+
+
+> As we are nearing Valentine's Day, several e-commerce websites and stores are offering some very interesting deals that will let you choose the best gift for your loved one without hurting your pocket too much. From smartwatches, and wearables to smartphones, you can find huge discounts on almost all products. One of these interesting ones is the Samsung Galaxy S21 FE smartphone, which has seen a tremendously deep price cut on Flipkart during the sale. Equipped with the Exynos 2100 chipset and a triple-camera setup of a 12MP ultra-wide primary lens, a 12MP wide lens, and an 8MP telephoto lens, the Samsung Galaxy S21 FE is perfect for your loved one.
+
+
+***
+![Long day at Twitter HQ: Elon Musk's 'overtime' at office to solve problems](https://www.hindustantimes.com/ht-img/img/2023/02/12/1600x900/TWITTER-M-A-MUSK-4_1667019119196_1667019119196_1676191277968_1676191277968.JPG "Long day at Twitter HQ: Elon Musk's 'overtime' at office to solve problems")
+
+
+[Long day at Twitter HQ: Elon Musk's 'overtime' at office to solve problems](https://www.hindustantimes.com/technology/long-day-at-twitter-hq-elon-musk-s-overtime-at-office-to-solve-problems-101676191103460.html)
+
+
+> Twitter CEO Elon Musk on Sunday said that he spent a long day at the microblogging platform's headquarters in San Francisco, US addressing two problems- overloading of fanout service for following feed and modifications in the recommendation algorithm. He also said that Twitter will also resolve the oversized font and undersized paragraph spacing issues by next week. Musk tweeted, "Long day at Twitter HQ with eng team. Two significant problems mostly addressed: 1. Fanout service for Following feed was getting overloaded when I tweeted, resulting in up to 95% of my tweets not getting delivered at all.
+
+
+***
+![Fortnite developers claim they have violated Google's CCI remediation directives.](https://bl-i.thgim.com/public/incoming/xpors2/article66499935.ece/alternates/LANDSCAPE_1200/2023-02-02T211044Z_715508939_RC283Z9FPF82_RTRMADP_3_ALPHABET-RESULTS.JPG "Fortnite developers claim they have violated Google's CCI remediation directives.")
+
+
+[Fortnite developers claim they have violated Google's CCI remediation directives.](https://exbulletin.com/tech/2042266/)
+
+
+> In a new round of trouble for Google, the developer of the popular online video game Fortnite and the operator of the Epic Games Store, Epic Games reached out to NCLAT to accuse Google of violating a CCI-issued remedial order for the Android issue. claimed to continue. In a petition filed with NCLAT, Epic Games alleges that Google failed to comply with CCI's remediation orders within the time limit imposed by the Supreme Court in the Android case. Also Read: Android Case: Backtracking on Google, Supreme Court Rejects Order Change Epic Games is already engaged in a bitter legal battle with Google in US courts over allegations of anti-competitive conduct by Google.
+
+
+***
+![Flashback: the Samsung Galaxy Note10 Lite offered the S Pen experience on the cheap](https://fdn.gsmarena.com/imgroot/news/23/02/flashback-samsung-galaxy-note10-lite/-952x498w6/gsmarena_000.jpg "Flashback: the Samsung Galaxy Note10 Lite offered the S Pen experience on the cheap")
+
+
+[Flashback: the Samsung Galaxy Note10 Lite offered the S Pen experience on the cheap](https://www.gsmarena.com/flashback_samsung_galaxy_note10_lite-news-57495.php)
+
+
+> Samsung has the best implementation of a stylus for smartphones – not that there is much competition – but it comes at a price. Previously, it was only available on Galaxy Note phones, which at the time were Samsung's most expensive handsets. These days it is available with the Galaxy S Ultra and Z Fold models, along with the premium Galaxy Tab S models, none of which are cheap (some Galaxy Book laptops support it too). There was one exception in early 2020 – the Samsung Galaxy Note10 Lite . It was unveiled on the same day as the S10 Lite which we covered last time and it shared some similarities (beyond the price), though it had some crucial differences too.
+
+
+***
+![Sunsetting Subversion support](https://external-preview.redd.it/A9wRMAEoGBCWpSihm0iLZ8IDROP9CS6pD9boWDhH_1s.jpg?auto=webp&v=enabled&s=b34051f41732ae3d878b3acbc73449450b9f5908 "Sunsetting Subversion support")
+
+
+[Sunsetting Subversion support](https://www.reddit.com/r/programming/comments/110azbx/sunsetting_subversion_support)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![WhatsApp saves life of student stuck under debris after Turkey earthquake](https://images.hindustantimes.com/tech/img/2023/02/12/1600x900/Whatsappp_1638094364022_1676190726339_1676190726339.jpg "WhatsApp saves life of student stuck under debris after Turkey earthquake")
+
+
+[WhatsApp saves life of student stuck under debris after Turkey earthquake](https://tech.hindustantimes.com/tech/news/whatsapp-saves-life-of-student-stuck-under-debris-after-turkey-earthquake-71676190506148.html)
+
+
+> It may be addictive, but social media can be a boon too. In fact, during crisis times, social media can save lives. This turned out to be true in the aftermath of the horrific earthquake in Turkey. In a miracle incident, a 20-year-old student was saved despite being stuck under debris. A student named Boran Kubat was saved from under the rubble of an apartment building in Eastern Turkey after he sent out a video appeal on WhatsApp and even shared his location. How the student got stuck under collapsed apartment debris The student and his mother actually survived the first earthquake in the morning, but then they re-entered the building.
+
+
+***
+![Georgia Tech vs Wake Forest Men's Basketball Georgia Tech Yellow Jacket](https://i.imgur.com/AoyxWyw.png "Georgia Tech vs Wake Forest Men's Basketball Georgia Tech Yellow Jacket")
+
+
+[Georgia Tech vs Wake Forest Men's Basketball Georgia Tech Yellow Jacket](https://exbulletin.com/tech/2042243/)
+
+
+> At this point, it's all but locked for Georgia Tech and Notre Dame to play an eternally tight, nerve-shredding game. The win percentage was a laughably small 3.3 points. So if the Yellow Jackets wanted to break Wednesday's nine-game losing streak, it seemed inevitable that they would sweat a little more, feel a little more suspenseful, and have stomach-churning anxieties. But in an instant, or in this case, Lance Terry's tip – Georgia Tech (9-15, 2-12 ACC) traded the weight of a losing streak for the confidence of a win.
+
+
+***
+![Elon Musk's SpaceX fires 55 Starlink satellites into orbit on Falcon 9 rocket from Cape Canaveral](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17nK3a.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Elon Musk's SpaceX fires 55 Starlink satellites into orbit on Falcon 9 rocket from Cape Canaveral")
+
+
+[Elon Musk's SpaceX fires 55 Starlink satellites into orbit on Falcon 9 rocket from Cape Canaveral](http://www.msn.com/en-us/news/technology/elon-musk-s-spacex-fires-55-starlink-satellites-into-orbit-on-falcon-9-rocket-from-cape-canaveral/ar-AA17nK3f)
+
+
+> SpaceX successfully launched its tenth mission of the year on Sunday by blasting  55 Starlink internet satellites into space aboard its Falcon 9 rocket. The launch took place just after midnight with cameras capturing the spectacular moment as the rocket appeared to traverse the moon. The first stage of the Falcon 9 rocket landed on the SpaceX droneship out in the Atlantic, positioned a few hundred miles off the Florida coast. Falcon 9 is the safest and most experienced active American rocket and the only one currently certified for transporting humans to the International Space Station.
+
+
+***
+![Star Wars: Galaxy's Edge](https://assets-prd.ignimgs.com/2022/02/25/star-wars-galaxys-edge-button-1-1645833098260.jpg "Star Wars: Galaxy's Edge")
+
+
+[Star Wars: Galaxy's Edge](https://www.ign.com/tech/star-wars-galaxys-edge)
+
+
+> Star Wars: Galaxy's Edge News Load More Page 2 Star Wars: Galaxy's Edge News Load More Page 3 Star Wars: Galaxy's Edge News
+
+
+***
+![Earth & Beyond Ventures Invests $125M in Israeli Deep Tech and Space Startups](https://www.israeldefense.co.il/sites/default/files/_Uploads/dbsArticles/EBV%20Team%20_0.jpg "Earth & Beyond Ventures Invests $125M in Israeli Deep Tech and Space Startups")
+
+
+[Earth & Beyond Ventures Invests $125M in Israeli Deep Tech and Space Startups](https://exbulletin.com/tech/2042223/)
+
+
+> Earth & Beyond Ventures (EBV) is a new $125 million early stage venture fund backed by a global technology, manufacturing and space industry conglomerate. Israel's emerging commercial space ecosystem. The first fund of its kind in Israel, it is specifically focused on supporting advanced innovation in both space and terrestrial applications. Corning, a global materials and manufacturing giant and a 50-year supplier of materials and products to NASA, is one of the leading corporate groups backing this new fund.
+
+
+***
+![SkyMesh supplies free internet connection to 30,000 families](https://itwire.com/media/k2/items/cache/005499155015ff548ba6f9f5d7a3689f_XS.jpg "SkyMesh supplies free internet connection to 30,000 families")
+
+
+[SkyMesh supplies free internet connection to 30,000 families](https://itwire.com/telecoms-and-nbn/skymesh-supplies-free-internet-connection-to-30,000-families.html)
+
+
+> Telecommunications provider SkyMesh, the Australian Government, and NBN Co are providing free broadband to 30,000 families in need for 12 months as part of the School Students Broadband initiative. The initiative will see SkyMesh supply 50Mbps of fixed-line, fixed-wireless plus and Sky Muster Plus services to families across Australia who currently lack internet access. 'We believe everyone deserves equal access to the internet and to be able to receive a quality education. This initiative is a step forward in providing equal opportunities for students across the country,' says SkyMesh managing director Stephen O'Shanassy.
+
+
+***
+![Today's ‘Quordle' Answers And Clues For Sunday, February 12](https://www.mccourier.com/wp-content/uploads/2022/10/Todays-‘Quordle-Answers-And-Clues-For-Thursday-October-13.jpg "Today's ‘Quordle' Answers And Clues For Sunday, February 12")
+
+
+[Today's ‘Quordle' Answers And Clues For Sunday, February 12](https://www.mccourier.com/todays-quordle-answers-and-clues-for-sunday-february-12/)
+
+
+> Quordle recreation displayed on a telephone display screen is seen on this illustration photograph taken in Krakow, Poland … [+] on February 21, 2022. Quordle is a brand new phrase recreation that's an alternative choice to Wordle. (Photograph by Jakub Porzycki/NurPhoto through Getty Photographs) NurPhoto through Getty Photographs Completely happy Sunday, of us! Even when you don't care about soccer, hopefully you may spend a while with family members doing one thing you get pleasure from. Perhaps which means displaying as much as a Tremendous Bowl get together simply to hang around and benefit from the feast.
+
+
+***
+![The AWS Way — Kubernetes in Action — Configure and Access a Kubeadm Kubernetes Cluster Externally](https://miro.medium.com/max/602/1*i6qB0TvurlutMqil0FsLHg.png "The AWS Way — Kubernetes in Action — Configure and Access a Kubeadm Kubernetes Cluster Externally")
+
+
+[The AWS Way — Kubernetes in Action — Configure and Access a Kubeadm Kubernetes Cluster Externally](https://medium.com/the-aws-way/the-aws-way-kubernetes-in-action-configure-and-access-a-kubeadm-kubernetes-cluster-externally-ba4c87f99e69?source=rss------kubernetes-5)
+
+
+> The AWS Way — Kubernetes in Action — Configure and Access a Kubeadm Kubernetes Cluster Externally A step-by-step guide on handling Kubernetes API Server certificate, key, and making other changes to access your cluster externally. Table of Contents
+
+
+***
+![Apple to Re-Release Revamped HomeKit Architecture in iOS 16.4](https://www.ghacks.net/wp-content/uploads/2023/02/Apple-to-Re-Release-Revamped-HomeKit-Architecture-in-iOS-16.4-main.png "Apple to Re-Release Revamped HomeKit Architecture in iOS 16.4")
+
+
+[Apple to Re-Release Revamped HomeKit Architecture in iOS 16.4](https://www.ghacks.net/2023/02/12/apple-to-re-release-revamped-homekit-architecture-in-ios-16-4)
+
+
+> In its upcoming iOS 16.4 update, Apple is planning to re-introduce the refurbished HomeKit architecture it initially withdrew in December thanks to widespread issues, MacRumors has confirmed. According to AppleInsider reports, it […] Thank you for being a Ghacks reader. The post Apple to Re-Release Revamped HomeKit Architecture in iOS 16.4 appeared first on gHacks Technology News .
+
+
+***
+![AR vs. VR vs. MR vs. XR: Comparing The Different Extended Realities](https://images.augustman.com/wp-content/uploads/sites/4/2023/02/12143036/extended-reality-1.jpeg "AR vs. VR vs. MR vs. XR: Comparing The Different Extended Realities")
+
+
+[AR vs. VR vs. MR vs. XR: Comparing The Different Extended Realities](https://www.lifewire.com/ar-vs-vr-vs-mr-vs-xr-7089737)
+
+
+> If you've heard of immersive video games, virtual travel, or AR shopping, then you've no doubt run into labels like augmented reality (AR), virtual reality (VR), mixed reality (MR), and extended reality (XR). We've reviewed these terms in depth to learn what they mean and how they differ so you can have some clarity about which one is right for you. Overall findings AR VR MR XR Virtual elements overlayed on the real world. Fully virtual experience. Anchored virtual elements that can interact with the real world.
+
+
+***
+![Valentine's Day gifts! Redmi 10 Power, Galaxy M13 to iQOO Neo 6, check top deals](https://images.hindustantimes.com/tech/img/2023/02/12/1600x900/Untitled_design2_1676191253393_1676191483095_1676191483095.png "Valentine's Day gifts! Redmi 10 Power, Galaxy M13 to iQOO Neo 6, check top deals")
+
+
+[Valentine's Day gifts! Redmi 10 Power, Galaxy M13 to iQOO Neo 6, check top deals](https://tech.hindustantimes.com/photos/valentines-day-gifts-redmi-10-power-galaxy-m13-to-iqoo-neo-6-check-top-deals-71676186695284.html)
+
+
+> This Valentine's Day, you can get Redmi 10 Power, Redmi 10A and Redmi A1 starting at just Rs. 10,749, Rs. 7,862 and Rs. 6,499 respectively along with other exciting offers and discounts from Federal Bank. (mi.com) photos 1/6 This Valentine's Day, you can get Redmi 10 Power, Redmi 10A and Redmi A1 starting at just Rs. 10,749, Rs. 7,862 and Rs. 6,499 respectively along with other exciting offers and discounts from Federal Bank. (mi.com) Samsung Galaxy M Series Smartphones are also available.
+
+
+***
+![Everything You Need to Know About Helm](https://miro.medium.com/max/1200/0*S8TKi5BN3W2tnl0x "Everything You Need to Know About Helm")
+
+
+[Everything You Need to Know About Helm](https://ruanbekker.medium.com/everything-you-need-to-know-about-helm-eabbe14f7bbe)
+
+
+> Photo by Miguel Ausejo on Unsplash Helm, its one amazing piece of software that I use multiple times per day! What is Helm? You can think of helm as a package manager for kubernetes, but in fact its much more than that. Think about it in the following way: Kubernetes Package Manager Way to templatize your applications (this is the part im super excited about) Easy way to install applications to your kubernetes cluster Easy way to do upgrades to your applications Websites such as artifacthub.io provides a nice interface to lookup any application an how to install or upgrade that application.
+
+
+***
+![Oppo Find N2 Flip launch date confirmed; Expected price, specs](https://kalingatv.com/wp-content/uploads/2023/02/oppo-find-n2.jpg "Oppo Find N2 Flip launch date confirmed; Expected price, specs")
+
+
+[Oppo Find N2 Flip launch date confirmed; Expected price, specs](https://kalingatv.com/technology/oppo-find-n2-flip-launch-date-confirmed-expected-price-specs/)
+
+
+> By Sunita Last updated Feb 12, 2023 0 Oppo has confirmed the launch date of its first flip smartphone for the global markets. The Oppo Find N2 Flip 5G smartphone will debut globally on February 15.  Ahead of the official launch, some critical information in regard to the Indian launch of the device has been leaked. The Chinese mobile manufacturer has confirmed that the Oppo Find N2 Flip 5G will also be launching in India on the same day as the global market. However, it seems that the device will be available in India in a limited stock.
+
+
+***
+![Deion Sanders Opens Up About His College Days: ‘The Yankees Paid My Tuition And I Was A Walk-On'](https://clichemag.com/wp-content/plugins/pwa-for-wp/images/logo.png "Deion Sanders Opens Up About His College Days: ‘The Yankees Paid My Tuition And I Was A Walk-On'")
+
+
+[Deion Sanders Opens Up About His College Days: ‘The Yankees Paid My Tuition And I Was A Walk-On'](https://afrotech.com:443/deion-sanders-yankees-florida-state-university/)
+
+
+> Deion Sanders has shared the backstory on what he says 'was like the first NIL' deal. The post Deion Sanders Opens Up About His College Days: ‘The Yankees Paid My Tuition And I Was A Walk-On' appeared first on AfroTech . In an interview on the Club Shay Shay podcast, Coach Prime recalled a moment during his student-athlete days at Florida State University. As he went into his junior year, he signed a contract with the New York Yankees which he says led to a hefty payout. 'I had [$250,000] going into my senior year,' Sanders told host Shannon Sharpe.
+
+
+***
+![New Windows 11 policy to enable features immediately](https://www.ghacks.net/wp-content/uploads/2023/02/windows-11-enable-features.png "New Windows 11 policy to enable features immediately")
+
+
+[New Windows 11 policy to enable features immediately](https://www.ghacks.net/2023/02/12/new-windows-11-policy-to-enable-features-immediately)
+
+
+> Microsoft is testing a new policy in Insider builds of the Windows 11 operating system that enable new features dropped via updates immediately. New features land in a number of ways in […] Thank you for being a Ghacks reader. The post New Windows 11 policy to enable features immediately appeared first on gHacks Technology News .
+
+
+***
+![Live longer and thrive: Longevity is the new frontier in technology](https://images1.calcalist.co.il/picserver3/crop_images/2020/01/05/959239/959239_0_0_740_406_0_large.jpg "Live longer and thrive: Longevity is the new frontier in technology")
+
+
+[Live longer and thrive: Longevity is the new frontier in technology](https://exbulletin.com/tech/2042158/)
+
+
+> Life expectancy for Israelis in 2023 is set at 83.49 years, maintaining Israel's position as one of the highest-ranked countries in this category. According to the United Nations, her population over 60 in the world is projected to nearly double by her 2050, reaching nearly 2.1 billion. Continued increases in life expectancy will change the way we live, consume, retire and transfer wealth to future generations. These changes are creating opportunities for technology companies to play a central role in planning for longevity and creating financial resilience and optimal health for life.
+
+
+***
+![Microsoft calls for ‘coalition' to improve Congo's informal cobalt mines](https://image-prod.iol.co.za/resize/650x366/Microsoft-is-calling-for-a-coalition-to-improve-the-conditions-in-Congo-s-informal-cobalt-mines-FILE-PHOTO-Gonzalo-Fuentes-Reuters?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/d65c30c0-ae71-5d64-8896-ad5cb89a01f8&operation=CROP&offset=0x289&resize=5548x3121 "Microsoft calls for ‘coalition' to improve Congo's informal cobalt mines")
+
+
+[Microsoft calls for ‘coalition' to improve Congo's informal cobalt mines](https://www.iol.co.za/technology/techsperts/microsoft-calls-for-coalition-to-improve-congos-informal-cobalt-mines-a40b08ee-23c3-5cae-962e-3e4e22c97082)
+
+
+> by Helen Reid and Clara Denina Microsoft visited an artisanal cobalt mine in Democratic Republic of Congo in December as part of attempts to jump-start formalisation of the little-regulated and dangerous industry that experts say is key to meeting global demand for the battery material. Story continues below Advertisement Congo accounts for three-quarters of the world's mined cobalt supply. Industrial mines produce most of Congo's cobalt, but "artisanal" miners, who dig by hand and often die when tunnels cave in, account for up to 30% of production, though that fluctuates depending on price.
+
+
