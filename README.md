@@ -13526,3 +13526,777 @@
 > 'Beginning Kubernetes on the Google Cloud Platform' is a guide for individuals and organizations looking to deploy, scale, and manage applications using the Kubernetes platform on the Google Cloud. This book is designed to provide a comprehensive and practical overview of using Kubernetes on the Google Cloud, including: Introduction to Kubernetes and the Google Cloud: An overview of the Kubernetes platform, its key features and benefits, and how it can be used on the Google Cloud. Setting up a Kubernetes Cluster on the Google Cloud: A step-by-step guide to setting up a Kubernetes cluster on the Google Cloud, including how to create a cluster, configure nodes, and deploy applications.
 
 
+***
+![GTA 5 PC modding guide 2023](https://staticg.sportskeeda.com/editor/2023/02/9a0f6-16761851043624-1920.jpg "GTA 5 PC modding guide 2023")
+
+
+[GTA 5 PC modding guide 2023](https://www.sportskeeda.com/gta/gta-5-pc-modding-guide-2023-how-install-chaos-mod-script-hook-v-fivem-openiv-kiddions-mod-menu)
+
+
+> Modding is one of the best advantages of playing games on PC, and GTA games are no exception. Grand Theft Auto 5 has a huge modding community that has created a plethora of mods catering to all types of players. They ensure a holistic and enhanced experience, something that may be lacking in the original. The majority of these mods are simple to use and come with basic installation instructions. However, it should be noted that most of them work with specific frameworks, such as OpenIV, Script Hook V, FiveM, and others.
+
+
+***
+![EE to Expand 5G to Rural Areas and Tourist Destinations](https://telecomtalk.info/wp-content/uploads/2023/02/ee-expand-5g-rural-areas-tourist-destinations.jpg "EE to Expand 5G to Rural Areas and Tourist Destinations")
+
+
+[EE to Expand 5G to Rural Areas and Tourist Destinations](https://telecomtalk.info/ee-expand-5g-rural-areas-tourist-destinations/675679/)
+
+
+> EE, UK's fastest mobile operator, has announced new investments to expand 5G coverage to rural areas, National Parks, and rural Tourist destinations and is on its path to full UK coverage. EE also announced new technologies and ways to enhance mobile coverage and improve the energy efficiency of mobile connectivity in years to come. EE 5G Rollout for Rural Communities EE says its 5G Network, which already reaches major towns and covers 60% of the population, is now expanding into more rural populations.
+
+
+***
+![AR, VR, MR, XR: How Do These Extended Realities Differ?](https://images.augustman.com/wp-content/uploads/sites/2/2023/02/12153049/extended-reality-1.jpeg "AR, VR, MR, XR: How Do These Extended Realities Differ?")
+
+
+[AR, VR, MR, XR: How Do These Extended Realities Differ?](https://www.augustman.com/sg/gear/tech/ar-vs-vr-vs-mr-vs-xr-extended-reality-whats-the-difference)
+
+
+> If you've heard of immersive video games, virtual travel, or AR shopping, then you've no doubt run into labels like augmented reality (AR), virtual reality (VR), mixed reality (MR), and extended reality (XR). We've reviewed these terms in depth to learn what they mean and how they differ so you can have some clarity about which one is right for you. Overall findings AR VR MR XR Virtual elements overlayed on the real world. Fully virtual experience. Anchored virtual elements that can interact with the real world.
+
+
+***
+![Epic Games launches Postparty, an app for sharing Fortnite clips](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-10-16334102.jpg "Epic Games launches Postparty, an app for sharing Fortnite clips")
+
+
+[Epic Games launches Postparty, an app for sharing Fortnite clips](https://www.businessghana.com/)
+
+
+> Modern gaming now boasts persistent online worlds and graphics that rival reality, but sharing gameplay videos or even screenshots is still a bear for some reason. Aware of that pain point and ever eager to make its colorful virtual gaming worlds even more compelling, Epic Games just launched a clip-sharing app called Postparty. The app, available for iOS and Android now, gives people who play Epic titles Fortnite and Rocket League a way to easily share gameplay clips to social media. Sharing gameplay highlights is already possible, of course, but the process is surprisingly awkward and platform-dependent as it stands now.
+
+
+***
+![Women-founded AI startups see a boost in VC funding](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-10-1635133.jpg "Women-founded AI startups see a boost in VC funding")
+
+
+[Women-founded AI startups see a boost in VC funding](http://www.businessghana.com/site/news/technology/279757/Women-founded-AI-startups-see-a-boost-in-VC-funding)
+
+
+> Funding to U.S.-based AI companies with at least one woman founder has steadily increased over the past few years, according to Crunchbase data. Last year, such companies raised $3.61 billion out of the $23.5 billion allocated in total to U.S. AI startups, or around 15.38%. That is a steady year-over-year increase. In 2021, for example, AI companies with at least one woman founder raised 13.2% of all capital raised in the sector. In 2020, that was 11.6%, and 11.5% in the pre-pandemic year of 2019.
+
+
+***
+![Breaking ChatGPT: The AI's alter ego DAN reveals why the internet is so drawn to making the chatbot violate its own rules](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17nF3Q.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Breaking ChatGPT: The AI's alter ego DAN reveals why the internet is so drawn to making the chatbot violate its own rules")
+
+
+[Breaking ChatGPT: The AI's alter ego DAN reveals why the internet is so drawn to making the chatbot violate its own rules](http://www.msn.com/en-us/news/technology/breaking-chatgpt-the-ai-s-alter-ego-dan-reveals-why-the-internet-is-so-drawn-to-making-the-chatbot-violate-its-own-rules/ar-AA17nqgJ)
+
+
+> From the moment that ChatGPT rolled out to the public, users have tried to get the generative chatbot to break its own rules. The natural language processing model, built with a set of guardrails meant for it to avoid certain topics that were less than savory — or outright discriminatory — were fairly simple to jump over in its earliest iterations. ChatGPT could say what it wanted simply by having users ask it to ignore its rules. OpenAI's ChatGPT and similar AI tools may not replace jobs anytime soon.
+
+
+***
+!['They Bury Them Day And Night': Cemeteries For Wagner Mercenaries Grow Across Russia](http://www.globalsecurity.org/favicon.ico "'They Bury Them Day And Night': Cemeteries For Wagner Mercenaries Grow Across Russia")
+
+
+['They Bury Them Day And Night': Cemeteries For Wagner Mercenaries Grow Across Russia](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230211-rferl01.htm)
+
+
+> By Ekaterina Barkalova, RFE/RL's Siberia.Realities February 11, 2023 BAKUSKAYA, Russia -- In this small village in southwestern Russia, fighters from the notorious Wagner mercenary company are buried daily in a specially designated cemetery that continues to expand, highlighting the growing casualties the group is taking in Ukraine. According to interviews, video footage, and a visit by a correspondent from RFE/RL's North.Realities, a regional news outlet of RFE/RL's Russian Service, more than 300 fighters have been buried at the site since Russia's February 2022 invasion of Ukraine, with the cemetery expanding rapidly in size in recent months.
+
+
+***
+![Assad slams West's double standards on humanitarian situation in quake-hit Syria](http://www.globalsecurity.org/favicon.ico "Assad slams West's double standards on humanitarian situation in quake-hit Syria")
+
+
+[Assad slams West's double standards on humanitarian situation in quake-hit Syria](http://www.globalsecurity.org/wmd/library/news/syria/2023/syria-230211-presstv01.htm)
+
+
+> Iran Press TV Saturday, 11 February 2023 6:43 PM Syrian President Bashar al-Assad has censured the West's double standards in dealing with the victims of the recent devastating earthquake that hit both Syria and Turkey, saying Western nations are indifferent to the humanitarian situation in his country. Assad made the remarks in a speech during his first visit to quake-hit areas on Friday, according to Arabic-language al-Ahad television network. "The double standards of the West is nothing new and have existed since six centuries ago.
+
+
+***
+![Armenia Sends Humanitarian Aid Through Long-Closed Border To Earthquake-Stricken Turkey](http://www.globalsecurity.org/favicon.ico "Armenia Sends Humanitarian Aid Through Long-Closed Border To Earthquake-Stricken Turkey")
+
+
+[Armenia Sends Humanitarian Aid Through Long-Closed Border To Earthquake-Stricken Turkey](http://www.globalsecurity.org/wmd/library/news/turkey/2023/turkey-230211-rferl01.htm)
+
+
+> By RFE/RL's Armenian Service February 11, 2023 YEREVAN -- Armenia has sent humanitarian aid to earthquake-stricken Turkey across the long-closed border separating the two historic enemies, the government in Yerevan said. "Armenia has sent humanitarian aid to Turkey. Trucks with humanitarian aid have crossed the Margara bridge on the border and are on their way to the earthquake-stricken region," Vahan Hunanian, the press spokesman for the Armenian Foreign Ministry, wrote in a Twitter post on February 11.
+
+
+***
+![Statement on Today's Actions by North American Aerospace Defense Command](http://www.globalsecurity.org/favicon.ico "Statement on Today's Actions by North American Aerospace Defense Command")
+
+
+[Statement on Today's Actions by North American Aerospace Defense Command](http://www.globalsecurity.org/military/library/news/2023/02/mil-230211-dod01.htm)
+
+
+> February 11, 2023 Release Statement on today's actions by NORAD attributed to Pentagon Press Secretary Brig. Gen. Pat Ryder: "Following a call between the Prime Minister of Canada and the President of the United States, President Biden authorized U.S. fighter aircraft assigned to North American Aerospace Defense Command (NORAD) to work with Canada to take down a high-altitude airborne object over northern Canada today. NORAD detected the object over Alaska late Friday evening. Two F-22 aircraft from Joint Base Elmendorf-Richardson, Alaska monitored the object over U.
+
+
+***
+![United States Starts Defense Cooperation Agreement Negotiations with Papua New Guinea](http://www.globalsecurity.org/favicon.ico "United States Starts Defense Cooperation Agreement Negotiations with Papua New Guinea")
+
+
+[United States Starts Defense Cooperation Agreement Negotiations with Papua New Guinea](http://www.globalsecurity.org/military/library/news/2023/02/mil-230211-state01.htm)
+
+
+> Media Note Office of the Spokesperson February 11, 2023 The United States and Papua New Guinea held negotiations on February 6 - 10 in Honolulu, HI to discuss a Defense Cooperation Agreement (DCA) that would strengthen security cooperation between our two countries. Negotiating teams, led by U.S. lead negotiator, Linda Specht, Department of State, and PNG lead negotiator, Elias Wohengu, Department of Foreign Affairs made substantial progress on the text of the DCA on mutual understanding of core issues.
+
+
+***
+![Reddit believes AI chatbots won't replace human connection](https://img.etimg.com/thumb/msid-97837567,width-1070,height-580,imgsize-58634,overlay-ettech/photo.jpg "Reddit believes AI chatbots won't replace human connection")
+
+
+[Reddit believes AI chatbots won't replace human connection](https://economictimes.indiatimes.com/tech/technology/reddit-believes-ai-chatbots-wont-replace-human-connection/articleshow/97837552.cms)
+
+
+> San Francisco, Online discussion forum Reddit believes that artificial intelligence ( AI )-powered conversational chatbots , such as ChatGPT and Bard , will not replace human connection, but instead "complement" it."AI chatbot technologies are still new and something we're exploring and keeping our eyes on," Reddit spokesperson Nick Singer told the Verge."Though, there will always be a need for genuine community and human connection, which can be aided by tools like this. We see chatbots being used in fun and innovative ways to complement community and human connection -- not replace it," Singer added.
+
+
+***
+![Unified DoD Efforts Supporting Türkiye](http://www.globalsecurity.org/favicon.ico "Unified DoD Efforts Supporting Türkiye")
+
+
+[Unified DoD Efforts Supporting Türkiye](http://www.globalsecurity.org/military/library/news/2023/02/mil-230211-usn01.htm)
+
+
+> US Navy 11 February 2023 From Capt. MacKenzie Margroum TF 61/2 Marines and Sailors from Task Force 61/2 (TF 61/2), commanded by Brig. Gen. Andrew Priddy, operating under U.S. Naval Forces Europe (NAVEUR) and U.S. Sixth Fleet arrived at Incirlik Air Base in support of humanitarian assistance and disaster relief efforts, Feb. 9. The U.S. Department of Defense established a Command and Control Center, commanded by Priddy, to support requirements from the U.S. Agency for International Development (USAID) and to coordinate all U.
+
+
+***
+![BARD AI chatbot cost Google $100 billion USD](https://content.api.news/v3/images/bin/084ccddb2b40d1a2528f33b64a106189 "BARD AI chatbot cost Google $100 billion USD")
+
+
+[BARD AI chatbot cost Google $100 billion USD](https://www.skynews.com.au/business/tech-and-innovation/bard-ai-chatbot-cost-google-100-billion-usd/video/b653bf6f74a618ce2f8765df1ce39a7a)
+
+
+> The race to develop artificial intelligence chatbots like ChatGPT has cost Google $100 billion USD after a presentation of their AI called BARD went wrong in Paris this week. It gave the wrong answer in a Google promotional video which spooked investors into thinking Microsoft could be on the cusp of dominating the space with its ChatGPT-powered version of its Bing search engine.
+
+
+***
+![Readout of President Biden's Call with Prime Minister Trudeau of Canada](http://www.globalsecurity.org/favicon.ico "Readout of President Biden's Call with Prime Minister Trudeau of Canada")
+
+
+[Readout of President Biden's Call with Prime Minister Trudeau of Canada](http://www.globalsecurity.org/wmd/library/news/canada/2023/canada-230211-whitehouse01.htm)
+
+
+> February 11, 2023 Earlier today, President Biden spoke with Prime Minister Trudeau on the unidentified, unmanned object in North American air space. The object was closely tracked and monitored by North American Aerospace Defense Command (NORAD) over the last 24 hours and the President has been continually briefed by his national security team since the object was detected. Out of an abundance of caution and at the recommendation of their militaries, President Biden and Prime Minister Trudeau authorized it to be taken down.
+
+
+***
+![Hackers Interrupt Raisi Speech As He Claims Iranian Protesters Have Been Defeated](http://www.globalsecurity.org/favicon.ico "Hackers Interrupt Raisi Speech As He Claims Iranian Protesters Have Been Defeated")
+
+
+[Hackers Interrupt Raisi Speech As He Claims Iranian Protesters Have Been Defeated](http://www.globalsecurity.org/wmd/library/news/iran/2023/iran-230211-rferl01.htm)
+
+
+> By RFE/RL's Radio Farda February 11, 2023 In a defiant message on the anniversary of the 1979 Islamic Revolution, Iranian President Ebrahim Raisi said nationwide anti-government protests have been defeated. His comments on February 11 came as thousands of Iranians marched in cities across Iran and the military showed off some of its hardware in the capital, Tehran. The ceremony to commemorate the anniversary of the revolution, a series of events that culminated in the overthrow of the Pahlavi dynasty in 1979, takes place every year on February 11.
+
+
+***
+![Prominent Iranian Dissidents Unite to Discuss Democracy Movement](http://www.globalsecurity.org/favicon.ico "Prominent Iranian Dissidents Unite to Discuss Democracy Movement")
+
+
+[Prominent Iranian Dissidents Unite to Discuss Democracy Movement](http://www.globalsecurity.org/wmd/library/news/iran/2023/iran-230211-voa01.htm)
+
+
+> By VOA Persian Service February 11, 2023 Condemnation of the Islamic Republic's violent suppression of freedom drew together eight noted Iranian dissidents who gathered to determine how they could more effectively advance their quest to counter what they see as a brutal government marking 44 years of rule after the 1979 Islamic revolution in the country. The prominent exiles converged Friday at Georgetown University in Washington for a forum, "The Future of the Iranian Democracy Movement," and each offered a pointed message about how to proceed.
+
+
+***
+![Gov't opens arms to embrace the ones deceived by enemies: Pres. Raisi](http://www.globalsecurity.org/favicon.ico "Gov't opens arms to embrace the ones deceived by enemies: Pres. Raisi")
+
+
+[Gov't opens arms to embrace the ones deceived by enemies: Pres. Raisi](http://www.globalsecurity.org/wmd/library/news/iran/2023/iran-230211-irna01.htm)
+
+
+> IRNA - Islamic Republic News Agency Feb 11, 2023 Tehran, IRNA -- Iran's President Ebrahim Raisi emphasized on Saturday that the government with open arms accepts the ones who were deceived by the enemy. As to Supreme Leader Ayatollah Seyyed Ali Khamenei's stance on the unrest in Iran, Raisi said that his administration follows the fatherly attitude of the Supreme Leader and opens arms to accept the deceived people. The arms should remain open for all who have found out that they were misled by the enemies, he said, adding that the foes seek to deprive the Iranian nation of independence and freedom and that the Iranians are well aware that the enemies do not want to give us life and freedom.
+
+
+***
+![China urges US to cease unilateral sanctions, 'long-arm jurisdiction'](http://www.globalsecurity.org/favicon.ico "China urges US to cease unilateral sanctions, 'long-arm jurisdiction'")
+
+
+[China urges US to cease unilateral sanctions, 'long-arm jurisdiction'](http://www.globalsecurity.org/wmd/library/news/china/2023/02/china-230211-presstv01.htm)
+
+
+> Iran Press TV Saturday, 11 February 2023 7:32 AM Chinese Foreign Ministry has urged the United States to stop abusing "long-arm jurisdiction" and unilateral sanctions which have distorted multilateralism and weakened international trade. "The US' long-arm jurisdiction is an arbitrary judicial practice, wielded by the US government on the strength of its national power and financial hegemony, to enforce extraterritorial jurisdiction over entities and individuals of other countries on the ground of its domestic law," Foreign Ministry Spokesperson Mao Ning said at a news conference.
+
+
+***
+![US imposes sanctions on six Chinese companies linked to military](http://www.globalsecurity.org/favicon.ico "US imposes sanctions on six Chinese companies linked to military")
+
+
+[US imposes sanctions on six Chinese companies linked to military](http://www.globalsecurity.org/wmd/library/news/china/2023/02/china-230211-presstv02.htm)
+
+
+> Iran Press TV Saturday, 11 February 2023 1:23 AM The administration of US President Joe Biden has imposed new sanctions on China, targeting the country's several companies for supporting Beijing's military modernization efforts. The US Commerce Department said on Friday it added five Chinese companies and one research institute connected to Beijing's aerospace programs including airships and balloons to an export blacklist. The Commerce Department said the six entities were supporting "China's military modernization efforts, specifically the People's Liberation Army's (PLA) aerospace programs including airships and balloons.
+
+
+***
+![RoboHouse Interview Trilogy, part I: Christian Geckeler and the origami gripper](https://robohub.org/wp-content/uploads/2023/02/DSC00565-640x0-c-default-425x284.jpg "RoboHouse Interview Trilogy, part I: Christian Geckeler and the origami gripper")
+
+
+[RoboHouse Interview Trilogy, part I: Christian Geckeler and the origami gripper](https://robohub.org/robohouse-interview-trilogy-part-i-christian-geckeler-and-the-origami-gripper/)
+
+
+> by Rens van Poppel 12 February 2023 share this: Part one of our RoboHouse Interview Trilogy: The Working Life of Robotics Engineers seeks out Christian Geckeler. Christian is a PhD student at the Environmental Robotics Lab of ETH Zürich. He speaks with Rens van Poppel about the experience of getting high into the wild. What if drones could help place sensors in forests more easily? What if a sensor device could automatically grab and hold a tree branch? Which flexible material is also strong and biodegradable? These leaps of imagination lead Christian to a new kind of gripper, inspired by the Japanese art of folding.
+
+
+***
+![Xi Jinping Meets with Cambodian Prime Minister Samdech Techo Hun Sen](http://www.globalsecurity.org/favicon.ico "Xi Jinping Meets with Cambodian Prime Minister Samdech Techo Hun Sen")
+
+
+[Xi Jinping Meets with Cambodian Prime Minister Samdech Techo Hun Sen](http://www.globalsecurity.org/wmd/library/news/china/2023/02/china-230210-prc-mofa01.htm)
+
+
+> Ministry of Foreign Affairs, the People's Republic of China 2023-02-10 17:49 On February 10, 2023, President Xi Jinping met with Cambodian Prime Minister Samdech Techo Hun Sen at the Diaoyutai State Guesthouse. Xi Jinping pointed out that three years ago, Mr. Prime Minister visited China amid heavy snow and the epidemic onslaught, standing firmly with the Chinese people in our fight against COVID-19. This year marks the first year for China to fully implement the guiding principles of the 20th National Congress of the Communist Party of China and also the 65th anniversary of the establishment of diplomatic relations between China and Cambodia.
+
+
+***
+![Joint Statement Following the Meeting Between President Biden and President Lula1](http://www.globalsecurity.org/favicon.ico "Joint Statement Following the Meeting Between President Biden and President Lula1")
+
+
+[Joint Statement Following the Meeting Between President Biden and President Lula1](http://www.globalsecurity.org/wmd/library/news/brazil/brazil-230210-whitehouse01.htm)
+
+
+> February 10, 2023 Today, President Joseph R. Biden Jr. of the United States and President Luiz Inácio Lula da Silva of the Federative Republic of Brazil met in Washington, D.C. During the meeting, the two leaders reaffirmed the vital and enduring nature of the U.S.-Brazil relationship and underscored that strengthening democracy, promoting respect for human rights, and addressing the climate crisis remain at the center of their common agenda. As leaders of the two largest democracies in the Americas, President Biden and President Lula pledged to work together to strengthen democratic institutions and welcomed the second Summit for Democracy to be held in March 2023.
+
+
+***
+![At Least Three Killed In Suicide Attack On Convoy In Pakistan's North Waziristan](http://www.globalsecurity.org/favicon.ico "At Least Three Killed In Suicide Attack On Convoy In Pakistan's North Waziristan")
+
+
+[At Least Three Killed In Suicide Attack On Convoy In Pakistan's North Waziristan](http://www.globalsecurity.org/wmd/library/news/pakistan/2023/pakistan-230211-rferl01.htm)
+
+
+> By RFE/RL's Radio Mashaal February 11, 2023 At least three people have been killed and 22 others injured in a suicide attack in northwestern Pakistan, officials told RFE/RL. The attack on February 11 was carried out in the Mirali subdivision of the North Waziristan tribal district on security forces that were escorting a local petroleum company convoy, district officials said. Officials told Radio Mashaal that the suicide bomber drove his vehicle into the convoy at the Kajori security checkpoint.
+
+
+***
+![Former Pakistan PM Blames Security Forces' 'Negligence' for Rising Terrorism](http://www.globalsecurity.org/favicon.ico "Former Pakistan PM Blames Security Forces' 'Negligence' for Rising Terrorism")
+
+
+[Former Pakistan PM Blames Security Forces' 'Negligence' for Rising Terrorism](http://www.globalsecurity.org/wmd/library/news/pakistan/2023/pakistan-230211-voa01.htm)
+
+
+> By Sarah Zaman February 11, 2023 Since his ouster from power in a parliamentary vote of no-confidence last April, Pakistan's former Prime Minister Imran Khan has had a public falling out with the military, despite previously enjoying a close relationship with the country's most powerful institution. He accuses then-army chief Gen. Qamar Javed Bajwa of conspiring with his political opponents to remove him from office with help from the United States — allegations that Washington, the Pakistani military, and the government have repeatedly denied.
+
+
+***
+![Russia's War on Ukraine Could Grind On for Years, Warns Prigozhin](http://www.globalsecurity.org/favicon.ico "Russia's War on Ukraine Could Grind On for Years, Warns Prigozhin")
+
+
+[Russia's War on Ukraine Could Grind On for Years, Warns Prigozhin](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230211-voa01.htm)
+
+
+> By VOA News February 11, 2023 Russia's war against Ukraine could continue indefinitely, predicted the leader of the Russian paramilitary organization, Wagner Group. In a video interview, Yevgeny Prigozhin said late Friday that it could take 18 months to two years for Russia to take full control of Ukraine's eastern industrial heartland of Donbas. Prigozhin then noted the war could extend for three years if Moscow decides to capture broader territories east of the Dnipro River. He made these comments as the first anniversary of Russia's invasion of Ukraine is looming.
+
+
+***
+![Russia Strikes Ukraine's Energy Infrastructure, As Kyiv Claims Heavy Russian Battlefield Losses](http://www.globalsecurity.org/favicon.ico "Russia Strikes Ukraine's Energy Infrastructure, As Kyiv Claims Heavy Russian Battlefield Losses")
+
+
+[Russia Strikes Ukraine's Energy Infrastructure, As Kyiv Claims Heavy Russian Battlefield Losses](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230211-rferl01.htm)
+
+
+> By RFE/RL's Ukrainian Service February 11, 2023 Russia's military said it had carried out a "massive strike" with missiles and drones on Ukraine's energy infrastructure and that it had blocked rail and land routes used to deliver Western weaponry to Ukrainian forces, while Kyiv said its military had inflicted heavy casualties on Moscow's invasion force as battles raged in the east of the country. "The Russian armed forces launched a massive attack on energy facilities critical to the operations of the Ukrainian defense and transport industry," Russian Defense Ministry spokesman Igor Konashenkov said on February 11, without providing details.
+
+
+***
+![Russia's New Offensive Grinds Into Action As Ukraine Punches Back Hard](http://www.globalsecurity.org/favicon.ico "Russia's New Offensive Grinds Into Action As Ukraine Punches Back Hard")
+
+
+[Russia's New Offensive Grinds Into Action As Ukraine Punches Back Hard](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230211-rferl02.htm)
+
+
+> By Mike Eckel February 11, 2023 For weeks if not months, Ukrainian military and political leaders, along with some Western intelligence officials, have warned that Russia is preparing for a major new offensive. Cold temperatures had dialed down the tempo of fighting while both sides replenished their manpower and materiel, positioning equipment, digging trenches, rebuilding units -- preparing for the war's next phase. That new offensive now appears to be under way, with Russian forces in eastern Ukraine building on months of intense localized assaults in several places in an effort to regain momentum in their sputtering, yearlong invasion.
+
+
+***
+![Germany to Reportedly Start Training Ukrainian Crews to Operate Leopard 2 Tanks Next Week](http://www.globalsecurity.org/favicon.ico "Germany to Reportedly Start Training Ukrainian Crews to Operate Leopard 2 Tanks Next Week")
+
+
+[Germany to Reportedly Start Training Ukrainian Crews to Operate Leopard 2 Tanks Next Week](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230211-sputnik01.htm)
+
+
+> Sputnik News 20230211 BERLIN (Sputnik) - Germany will start training Ukrainian military to operate Leopard 2 tanks next week, with the courses cut down to six to eight weeks due to time constraints, German weekly Der Spiegel reported, citing sources. According to the newspaper, the German armed forces have brought the first groups of Ukrainian soldiers from Poland to Germany over the past few days. They will be trained at a military base near the town of Munster in Lower Saxony, where Ukrainian troops are already training to handle Marder infantry fighting vehicles (IFVs), also pledged by Berlin to Kiev.
+
+
+***
+![State to continue modernization of institutions, procedures](http://www.globalsecurity.org/favicon.ico "State to continue modernization of institutions, procedures")
+
+
+[State to continue modernization of institutions, procedures](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230211-ukraine-president01.htm)
+
+
+> President of Ukraine 11 February 2023 - 17:50 Dear Ukrainians! Today, I started the day by visiting the Turkish Embassy. With condolences to the Turkish people after the terrible earthquakes. As of now, more than 21,000 dead are known. Debris removal continues. And, unfortunately, the death toll may be higher. The team of the State Emergency Service of Ukraine is currently working in Türkiye, helping with debris removal. The Embassy of Ukraine is finding out all the information about Ukrainians who could stay in the disaster zone.
+
+
+***
+![The total combat losses of the enemy from 24.02.22 to 11.02.23](http://www.globalsecurity.org/favicon.ico "The total combat losses of the enemy from 24.02.22 to 11.02.23")
+
+
+[The total combat losses of the enemy from 24.02.22 to 11.02.23](http://www.globalsecurity.org/wmd/library/news/ukraine/2023/02/ukraine-230211-ukraine-mod01.htm)
+
+
+> Ministry of Defence of Ukraine 2023-02-11 08:30:00 | ID: 69159 The total combat losses of the enemy from 24.02.22 to 11.02.23 were approximately: personnel ‒ about 136880 (+1140) persons were liquidated, tanks ‒ 3267 (+9), APV ‒ 6474 (+3), artillery systems - 2270 (+19), MLRS - 463 (+0), Anti-aircraft warfare systems ‒ 234 (+1), aircraft - 295 (+0), helicopters - 286 (+0), UAV operational-tactical level - 1997 (+27), cruise missiles ‒ 857 (+61), кораблі /катери / warships / boats ‒ 18 (+0), vehicles and fuel tanks - 5134 (+8), special equipment ‒ 214 (+3).
+
+
+***
+![Taiwan reports 18,300 new COVID-19 cases, 82 deaths](http://www.globalsecurity.org/favicon.ico "Taiwan reports 18,300 new COVID-19 cases, 82 deaths")
+
+
+[Taiwan reports 18,300 new COVID-19 cases, 82 deaths](http://www.globalsecurity.org/security/library/news/2023/02/sec-230211-cna01.htm)
+
+
+> ROC Central News Agency 02/11/2023 02:40 PM Taipei, Feb. 11 (CNA) Taiwan reported 18,300 new cases of COVID-19 and 82 deaths from the disease on Saturday, according to the Central Epidemic Command Center (CECC). The deceased ranged in age from their 40s to their 90s. All but three had underlying health conditions, while 40 of them were unvaccinated against COVID-19, the CECC said. Also on Saturday, the CECC reported 132 new COVID-19 cases classified as moderate and 73 as severe. Regional breakdown Regionally, New Taipei recorded the highest number of new cases with 3,500, followed by Kaohsiung with 2,245 and Taichung with 2,195.
+
+
+***
+![Xbox boss says 'there's no silver bullet' to solving online abuse](https://e3.365dm.com/23/02/1600x900/skynews-minecraft-child-computer-game_6054619.jpg?20230212062015 "Xbox boss says 'there's no silver bullet' to solving online abuse")
+
+
+[Xbox boss says 'there's no silver bullet' to solving online abuse](https://news.sky.com/story/xbox-boss-says-theres-no-silver-bullet-to-solving-online-abuse-but-outlines-commitment-to-safety-12809047)
+
+
+> The corporate vice president of Xbox has told Sky News "there's no silver bullet" to protect women and minority groups on the internet who experience online harassment and abuse. Dave McCarthy said it takes just one toxic experience on a platform and "your trust in an online space dissipates immediately, as it should". In an interview outlining Microsoft Xbox's renewed commitment to online safety, Mr McCarthy told Sky News of the tools used by the gaming behemoth to keep children and others safe on its platform.
+
+
+***
+![Oppo is looking for ambassadors to test the Find N2 Flip, will be giving away the phones Comments](https://fdn.gsmarena.com/imgroot/static/favicon.ico "Oppo is looking for ambassadors to test the Find N2 Flip, will be giving away the phones Comments")
+
+
+[Oppo is looking for ambassadors to test the Find N2 Flip, will be giving away the phones Comments](https://www.gsmarena.com/newscomm-57524.php)
+
+
+> No body in the article.
+
+
+***
+![Losses of Russia in Ukraine on February 12 – the plane and 900 invaders were destroyed](https://www.rbc.ua/static/img/i/m/imgonline_com_ua_resize_juzl3fxy8zvba9kl_1300x820.jpg "Losses of Russia in Ukraine on February 12 – the plane and 900 invaders were destroyed")
+
+
+[Losses of Russia in Ukraine on February 12 – the plane and 900 invaders were destroyed](https://www.world-today-news.com/losses-of-russia-in-ukraine-on-february-12-the-plane-and-900-invaders-were-destroyed/)
+
+
+> As of Sunday morning, February 12, the Ukrainian military liquidated 900 Russian soldiers in a day, the total number of losses of the Russian army since the beginning of the invasion is 137,780 soldiers. The Ukrainian Armed Forces also shot down a plane and 10 UAVs. The total combat losses of the enemy from 02/24/22 to 02/12/23 tentatively amounted to: personnel – about 137780 (+900) people liquidated, tanks – 3280 (+13) units, armored combat vehicles – 6488 (+14) units, artillery systems – 22
+
+
+***
+![Live long & prosper: Longevity is tech's new frontier](https://images1.calcalist.co.il/picserver3/crop_images/2020/01/05/959239/959239_0_0_740_406_0_large.jpg "Live long & prosper: Longevity is tech's new frontier")
+
+
+[Live long & prosper: Longevity is tech's new frontier](https://www.calcalistech.com/ctechnews/article/p3db2hais)
+
+
+> The life expectancy for Israelis in 2023 is set to be 83.49 years, maintaining Israel's position as one of the highest ranked countries in this category. According to the United Nations, the global population of people aged 60 years and over is projected to nearly double by 2050, reaching nearly 2.1 billion. The continuous rise in life expectancy brings about changes in the way we live, consume, retire from work and transfer assets to future generations. These changes create opportunities for technology companies to play a central role in planning for longevity and creating financial resilience and optimal health in later life.
+
+
+***
+![Lava Blaze 5G launched with 50MP camera, 5000mAh battery, but it is affordable](https://images.hindustantimes.com/tech/img/2023/02/12/1600x900/Lava_Blaze_5G_1676185350266_1676185358971_1676185358971.PNG "Lava Blaze 5G launched with 50MP camera, 5000mAh battery, but it is affordable")
+
+
+[Lava Blaze 5G launched with 50MP camera, 5000mAh battery, but it is affordable](https://tech.hindustantimes.com/mobile/news/lava-blaze-5g-launched-with-50mp-camera-5000mah-battery-but-it-is-affordable-71676185340374.html)
+
+
+> Last November, Indian smartphone brand Lava introduced the Lava Blaze 5G with some interesting features. Priced at under Rs. 10000, the Lava Blaze 5G hit the market with a single variant that featured 4GB of RAM and 128GB of storage. Now, the company has expanded the lineup and launched a new. much more powerful variant with 6GB RAM and 128GB storage. The latest variant of Lava Blaze 5G shares many similarities with its original model. Here's what it has to offer and how much it will cost you. Lava Blaze 5G specs and features The Lava Blaze 5G boasts a 6.
+
+
+***
+![Arrest Made In Japan After Nintendo Executive Receives Death Threats](https://images.nintendolife.com/eec873894f1d2/1280x720.jpg "Arrest Made In Japan After Nintendo Executive Receives Death Threats")
+
+
+[Arrest Made In Japan After Nintendo Executive Receives Death Threats](https://www.nintendolife.com/news/2023/02/arrest-made-in-japan-after-nintendo-executive-receives-death-threats)
+
+
+> Video game companies have to deal with a lot of things behind the scenes, and one story that's recently come to light isn't pleasant at all. According to a translation by Nintendo Everything, Japanese media outlet Kyoto Shimbun reports the arrest of a "36-year-old female permatemp on suspicion of intimidation" on 9th February 2023 for allegedly sending death threats to a Nintendo executive in June last year. It's unclear who exactly was targeted at the Kyoto-based headquarters, but a package sent by the suspect supposedly contained a bag of incense and some alarming documents.
+
+
+***
+![This is how you decide who can see your posts](https://www.basicthinking.de/blog/wp-content/uploads/2018/07/whatsapp-status-foto-pixabay-com-heikoal.jpg "This is how you decide who can see your posts")
+
+
+[This is how you decide who can see your posts](https://www.world-today-news.com/this-is-how-you-decide-who-can-see-your-posts/)
+
+
+> Privacy is an important fundamental right, especially in social media. That's why we explain in today's 'how to' how you can hide your WhatsApp status – not in principle, but specifically from individual friends or relatives. Who made it into your phone book is important – no matter what level. Our partners as well as our friends, relatives and sometimes even work colleagues can be found in the address lists of our smartphones. In fact, inclusion in our digital address book is often equivalent to a WhatsApp chat.
+
+
+***
+![Airtel Offers Bulk Data on This Entry Level Prepaid Plan](https://telecomtalk.info/wp-content/uploads/2023/02/airtel-bulk-data-entry-level-prepaid-plan.jpg "Airtel Offers Bulk Data on This Entry Level Prepaid Plan")
+
+
+[Airtel Offers Bulk Data on This Entry Level Prepaid Plan](https://telecomtalk.info/airtel-bulk-data-entry-level-prepaid-plan/675671/)
+
+
+> Bharti Airtel offers its customers different recharge plans to choose from. Airtel provides various recharge options, including unlimited plans, data packs, top-ups, and more, catering to customers of different price segments. As Prepaid plans are highly popular in India, Bharti Airtel offers these plans with maximum benefits such as unlimited voice calling, texting, access to OTT services, complimentary Wynk music, and other perks at affordable rates. However, not every user consumes data daily, and if you are a user who is looking for monthly bulk data offerings on prepaid, then Airtel has an entry-level Bulk data plan for you.
+
+
+***
+![JLab Go Talk USB Microphone｜Lightweight and portable, cardioid/omnidirectional dual radio mode is very clear](https://img.eprice.com.tw/img/nb/news/34972/fb.jpg "JLab Go Talk USB Microphone｜Lightweight and portable, cardioid/omnidirectional dual radio mode is very clear")
+
+
+[JLab Go Talk USB Microphone｜Lightweight and portable, cardioid/omnidirectional dual radio mode is very clear](https://www.world-today-news.com/jlab-go-talk-usb-microphone%ef%bd%9clightweight-and-portable-cardioid-omnidirectional-dual-radio-mode-is-very-clear/)
+
+
+> After more opportunities to work at home, whenever an online meeting is held, the clarity of the speaking voice will easily affect the quality of the entire meeting. Wearing earphones and microphones for a long time tends to be stuffy, and the microphone of the laptop is not ideal, so I moved my brain to USB. on the microphone. JLab is an American headphone brand. It recently launched the Go Talk USB microphone, which has a 96kHz/24Bit radio sampling rate and dual radio modes, and a light and easy-to-carry appearance.
+
+
+***
+![Apple iPhone 12 Mini for Rs 21999, iPhone 14 for only Rs 44,999 in Flipkart sale ahead of Valentine's Day, check details](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/12/2572372-iphone12.png "Apple iPhone 12 Mini for Rs 21999, iPhone 14 for only Rs 44,999 in Flipkart sale ahead of Valentine's Day, check details")
+
+
+[Apple iPhone 12 Mini for Rs 21999, iPhone 14 for only Rs 44,999 in Flipkart sale ahead of Valentine's Day, check details](https://www.dnaindia.com/technology/report-apple-iphone-12-mini-for-rs-21999-iphone-14-at-just-rs-44999-in-flipkart-sale-ahead-of-valentine-s-day-3023175)
+
+
+> File photo Flipkart is offering several Valentine's Day special deals and some of these deals are really too attractive to miss. One such deal which is available on Flipkart is on the Apple iPhone 12 mini. The price of Apple iPhone 12 mini is Rs 59,999 but the smartphone is now available for sale on Flipkart only for Rs 21,999. Flipkart's Valentine's Day offer on iPhone 12 mini The price of Apple iPhone 12 mini is Rs 59,999. But as part of Valentine's Day special deals, the Apple iPhone 12 Mini is available for sale for Rs 41,999.
+
+
+***
+![Ishin remake-je 'Steam Deck verified'](https://thegeek.hu/wp-content/uploads/sites/2/2022/09/thegeek-like-a-dragon-ishin-01.jpg "Ishin remake-je 'Steam Deck verified'")
+
+
+[Ishin remake-je 'Steam Deck verified'](https://www.world-today-news.com/ishin-remake-je-steam-deck-verified/)
+
+
+> The upcoming Like a Dragon: Ishin confirms that the game will be compatible with Valve's hybrid handheld Steam Deck system. The Steam page for Ryu Ga Gotoku Studio's upcoming Like a Dragon remake: Ishin confirms that the game will be compatible with Valve's hybrid handheld Steam Deck system. For the uninitiated, it's a remake of a spin-off of the franchise that puts the player in a period drama set in Japan's Bakamatsu era. It stars Sakamoto Ryoma, whose visual appearance and voice are reminiscent of Kazuma Kiryu, who is searching for his father's killer.
+
+
+***
+!['Slytherin' is the most popular dormitory in 'Hogwarts Legacy'! Survey from trophy acquisition rate immediately after release](https://www.cinemacafe.net/imgs/ogp_f/598575.jpg "'Slytherin' is the most popular dormitory in 'Hogwarts Legacy'! Survey from trophy acquisition rate immediately after release")
+
+
+['Slytherin' is the most popular dormitory in 'Hogwarts Legacy'! Survey from trophy acquisition rate immediately after release](https://www.world-today-news.com/slytherin-is-the-most-popular-dormitory-in-hogwarts-legacy-survey-from-trophy-acquisition-rate-immediately-after-release-cinemacafe-net/)
+
+
+> Overseas media PlayStation LifeStyle (hereinafter referred to as PSLS) is an open world RPG set in the world of the magical fantasy novel 'Harry Potter'. hogwarts legacy ]the most popular dormitory is ' slytherin 'is Investigation result is reporting. 'Hogwarts Legacy' is set in the magical world of the 1800s, which is older than the era of the novel series, and lives as a fifth grader at Hogwarts School of Witchcraft and Wizardry. What kind of wizard you become is up to you, and you can freely choose the dormitory you want to join.
+
+
+***
+![Another Russian Spacecraft Docked to ISS Has Sprung a Leak](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17nVY2.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Another Russian Spacecraft Docked to ISS Has Sprung a Leak")
+
+
+[Another Russian Spacecraft Docked to ISS Has Sprung a Leak](http://www.msn.com/en-us/news/technology/another-russian-spacecraft-docked-to-iss-has-sprung-a-leak/ar-AA17nVY8)
+
+
+> It's happened again. A Russian Progress cargo spacecraft docked to the International Space Station has sprung a coolant leak, NASA said in a statement on Saturday. This is the second incident of this type in recent months after a Russian Soyuz spacecraft attached to the ISS spewed out coolant from a leak in December. NASA said "engineers at the Russian Mission Control Center outside Moscow recorded a depressurization in the unpiloted Roscosmos Progress 82 cargo ship's coolant loop, which is docked to the space-facing Poisk module at the station.
+
+
+***
+![Hogwarts Legacy walkthrough: How to complete 'Mer-ky' Depths side quest](https://staticg.sportskeeda.com/editor/2023/02/c57e7-16761798935478-1920.jpg "Hogwarts Legacy walkthrough: How to complete 'Mer-ky' Depths side quest")
+
+
+[Hogwarts Legacy walkthrough: How to complete 'Mer-ky' Depths side quest](https://www.sportskeeda.com/esports/hogwarts-legacy-walkthrough-how-complete-mer-ky-depths-side-quest)
+
+
+> Hogwarts Legacy is packed to the brim with side content. Interacting with professors, students, and other characters can lead to side stories. One such side mission is Mer-ky Depths. Players can initiate this quest by heading to the boathouse. One can interact with a student named Nerida Roberts, who triggers the mission to retrieve an artifact for her. She requests the protagonist's help due to her inability to swim. The artifact is located in a cave in the vicinity of the boathouse. Players will have to swim to get to the desired location and acquire the artifact for Nerida Roberts.
+
+
+***
+![European theater CSELs participate in Nordic regional engagement](http://www.globalsecurity.org/favicon.ico "European theater CSELs participate in Nordic regional engagement")
+
+
+[European theater CSELs participate in Nordic regional engagement](http://www.globalsecurity.org/military/library/news/2023/02/mil-230211-usaf01.htm)
+
+
+> Published Feb. 11, 2023 By Master Sgt. Michael Battles U.S. Air Forces in Europe and Air Forces Africa Public Affairs. RAMSTEIN AIR BASE, Germany (AFNS) -- Command senior enlisted leaders from U.S. Air Forces in Europe and Air Forces Africa, NATO Allied Air Command, the Royal Danish, Royal Norwegian, Finnish, and Swedish air forces recently participated in a Nordic regional engagement to Sweden, Denmark, Norway and Finland. The two-week engagement provided a platform for the CSELs to discuss Agile Combat Employment across the Nordic nations, explore multinational, professional military education exchange opportunities and discuss the operational environment in the High North.
+
+
+***
+![NASA Specialists Assisting Roscosmos to Identify Cause of Coolant Leak in Progress MS-21](http://www.globalsecurity.org/favicon.ico "NASA Specialists Assisting Roscosmos to Identify Cause of Coolant Leak in Progress MS-21")
+
+
+[NASA Specialists Assisting Roscosmos to Identify Cause of Coolant Leak in Progress MS-21](http://www.globalsecurity.org/space/library/news/2023/space-230211-sputnik01.htm)
+
+
+> Sputnik News 20230211 MOSCOW (Sputnik) - NASA specialists are assisting Roscosmos to identify the cause of the loss of coolant in the Progress MS-21 cargo spacecraft docked to the International Space Station (ISS), the US space agency announced in a press release on Saturday. Earlier in the day, Roscosmos said that the hull of the Progress MS-21 cargo ship had suffered unexpected depressurization in its coolant loop. The spacecraft has been docked to the ISS since October 2022 and is scheduled to undock on February 17.
+
+
+***
+[Asteroids and Comets: How are they different? Do they pose a threat to Planet Earth?](https://www.world-today-news.com/asteroids-and-comets-how-are-they-different-do-they-pose-a-threat-to-planet-earth/)
+
+
+> SOREANG JOURNAL – Asteroids and comets formed about 4.6 billion years ago after giant clouds of gas and dust collapsed and condensed to create the sun. Leftover debris orbiting the sun coalesced into planets, moons, and other objects. Asteroids and comets are remnants of this process. Here's what you need to know about the differences, where they come from, and whether they pose a serious threat to Earth. What are Asteroids? Reporting from National Geographic, Asteroids are basically chunks of rock measuring a few feet to hundreds of miles in diameter.
+
+
+***
+![Parliament week from 13 to 17 February 2023 (PK0128/02/10/2023)](https://www.parlament.gv.at/static/img/og.png "Parliament week from 13 to 17 February 2023 (PK0128/02/10/2023)")
+
+
+[Parliament week from 13 to 17 February 2023 (PK0128/02/10/2023)](https://www.world-today-news.com/parliament-week-from-13-to-17-february-2023-pk0128-02-10-2023/)
+
+
+> Vienna (PK) – In its first plenary session in the newly opened parliament building, the Federal Council will deal with the latest National Council resolutions. The new distribution of mandates after the Lower Austria elections is not yet effective, so the ÖVP and the Greens will start the deliberations next Thursday with a narrow majority. Public expert hearings on the 'Mental Health Youth People's Petition' and the popular petitions 'Reparations for the COVID-19 measures' and 'Abolish COVID-19 measures' take place in the specialist committees.
+
+
+***
+![Lenovo ThinkPad P16 G1 RTX A5500 workstation review: Faster than the Dell Precision 7670](https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_P16_G1_RTX_A5500/p16g1.jpg "Lenovo ThinkPad P16 G1 RTX A5500 workstation review: Faster than the Dell Precision 7670")
+
+
+[Lenovo ThinkPad P16 G1 RTX A5500 workstation review: Faster than the Dell Precision 7670](https://www.notebookcheck.net/Lenovo-ThinkPad-P16-G1-RTX-A5500-workstation-review-Faster-than-the-Dell-Precision-7670.686478.0.html)
+
+
+> Power consumption when idling is lower than on the Precision 7670 by several watts likely because of the more demanding OLED panel on the latter. When running higher loads like Witcher 3, however, consumption would become noticeably higher on the Lenovo than on the Dell (208 W vs. 159 W). The higher power draw coincides with the faster CPU and GPU performance over the competing Dell model as shown through our benchmarks above. Though power users may appreciate the extra performance, our fully loaded Lenovo is significantly more demanding than most other mobile workstations.
+
+
+***
+![The new DJI Mini 2 SE, the smallest drone from the DJI Mini Series, is easy to use. and also comes with full functions](https://www.iphone-droid.net/wp-content/uploads/2023/02/Key-vision-2.png "The new DJI Mini 2 SE, the smallest drone from the DJI Mini Series, is easy to use. and also comes with full functions")
+
+
+[The new DJI Mini 2 SE, the smallest drone from the DJI Mini Series, is easy to use. and also comes with full functions](https://www.world-today-news.com/the-new-dji-mini-2-se-the-smallest-drone-from-the-dji-mini-series-is-easy-to-use-and-also-comes-with-full-functions/)
+
+
+> DJI, the technology company that is the world leader in unmanned aerial vehicle (drones) and photography creation. Today, the DJI Mini 2 SE is launched, a new lightweight drone. as small as the palm of your hand Perfect for capturing your special moments every day. At only 249g, the Mini 2 SE is easy and convenient to carry around. Equipped with a 1/2.3 inch CMOS sensor, it shoots 2.7k video and captures 12MP stills. With great features and an affordable price, the Mini 2 SE is the perfect drone.
+
+
+***
+![A Look Back At The Xbox 360's Hard Drive Security](https://hackaday.com/wp-content/uploads/2023/02/360drive_feat.jpg "A Look Back At The Xbox 360's Hard Drive Security")
+
+
+[A Look Back At The Xbox 360's Hard Drive Security](https://hackaday.com/2023/02/11/a-look-back-at-the-xbox-360s-hard-drive-security/)
+
+
+> Anyone who's owned a game console from the last couple of generations will tell you that the machines are  becoming increasingly like set-top computers  —  equipped with USB ports, Bluetooth, removable hard drives, and their own online software repositories. But while this overlap theoretically offers considerable benefits, such as the ability to use your own USB controller rather than being stuck with the system's default, the manufacturers haven't always been so accommodating. Take for example the removable hard drive of the Xbox 360.
+
+
+***
+![Xiaomi Suspends MIUI 14 Beta Update for Selected Devices](https://www.gizmochina.com/wp-content/uploads/2023/02/s_e7841a05d2604a0dbed7376de8b4ca36.jpg "Xiaomi Suspends MIUI 14 Beta Update for Selected Devices")
+
+
+[Xiaomi Suspends MIUI 14 Beta Update for Selected Devices](https://www.gizmochina.com/2023/02/12/xiaomi-suspends-miui-14-beta-update-for-selected-devices)
+
+
+> Xiaomi recently announced the MIUI 14 user interface, which is based on the Android 14 operating system. The brand has also started rolling out the update to its smartphones at a rapid rate. Many devices like the Xiaomi 12 Pro, Mi 11 Lite 5G and Xiaomi 12T had recently grabbed the MIUI 14 update. The brand has been releasing the update at a rapid rate in order to cope-up with the competition. According to the latest information, Xiaomi, the popular Chinese smartphone manufacturer, has announced that it will stop releasing beta updates for its latest operating system, MIUI 14, to certain devices.
+
+
+***
+![Reebok x Madewell sneaker collaboration: Where to buy, price, release date, and more explored](https://staticc.sportskeeda.com/editor/2023/02/f4d82-16761462935969-1920.jpg "Reebok x Madewell sneaker collaboration: Where to buy, price, release date, and more explored")
+
+
+[Reebok x Madewell sneaker collaboration: Where to buy, price, release date, and more explored](https://www.sportskeeda.com/pop-culture/reebok-x-madewell-sneaker-collaboration-where-buy-price-release-date-explored)
+
+
+> Reebok, the Boston, Massachusetts-based athleisure and footwear brand has collaborated with the J.Crew sister label Madewell to launch a brand new makeover upon their iconic Club C Revenge sneaker. The duo have created a timeless and neutral makeover upon the sneaker model. The collaborative sneaker pair was released on the official e-commerce site of Madwell exclusively on Friday, February 10, 2023. The pair can be availed via Madewell in unisex sizes. Reebok x Madewell Club C Revenge sneaker collaboration Reebok is famous for its collaboration with many labels.
+
+
+***
+[Curiosity finds meteorites on Mars – Techrecipe](https://www.world-today-news.com/curiosity-finds-meteorites-on-mars-techrecipe/)
+
+
+> NASA's Curiosity rover recently discovered a meteorite on the surface of Mars. This iron meteorite, about 30 cm in diameter, was named Cacao. The rock was discovered by the Curiosity MastCam, photographed and sent back to Earth, and NASA stitched together 19 photos to create a panoramic image. It is said that Kakao was found on January 27th, when it was in the shadow of the aircraft. The next day, Curiosity changed direction to better capture the meteorite. This isn't the first time Curiosity has found a meteorite.
+
+
+***
+![Order a Little Menu at Starbucks, This Woman Gets ‘Fat Shaming'](https://awsimages.detik.net.id/api/wm/2023/02/12/pesan-sedikit-menu-di-starbucks-wanita-ini-malah-kena-fat-shaming-2_169.png?wid=54&w=650&v=1&t=jpeg "Order a Little Menu at Starbucks, This Woman Gets ‘Fat Shaming'")
+
+
+[Order a Little Menu at Starbucks, This Woman Gets ‘Fat Shaming'](https://www.world-today-news.com/order-a-little-menu-at-starbucks-this-woman-gets-fat-shaming/)
+
+
+> Jakarta – Starbucks is one of the favorite coffee shops for many people. This coffee shop is famous for its quality coffee and various other drinks. Apart from the delicious drink menus, many customers also like to go to Starbucks because of the comfortable cafe atmosphere and satisfying service from the baristas. Even so, there are also customers who feel disappointed with the barista service at Starbucks. One of them was felt by this woman who claimed to be exposed to fat shaming when ordering food and drinks at Starbucks.
+
+
+***
+![Hogwarts Legacy vs Elden Ring: Which game provides the better Sorcerer-like experience?](https://staticg.sportskeeda.com/editor/2023/02/e5a78-16761211723235-1920.jpg "Hogwarts Legacy vs Elden Ring: Which game provides the better Sorcerer-like experience?")
+
+
+[Hogwarts Legacy vs Elden Ring: Which game provides the better Sorcerer-like experience?](https://www.sportskeeda.com/esports/hogwarts-legacy-vs-elden-ring-which-game-provides-better-sorcerer-like-experience)
+
+
+> Warner Bros. Games recently released the fantasy role-playing title Hogwarts Legacy, which is easily one of the most anticipated titles of 2023. Developed by Avalanche Games, Hogwarts Legacy is an ode to the Harry Potter (and Fantastic Beasts and Where to Find Them) franchise. Hogwarts Legacy is the quintessential role-playing experience that fans of the Wizarding World have been asking for. With its recent release, the game has finally given some gaming engagement to the world of wizardry. Another recent release that allows players to role-play as sorcerers, learn, and cast powerful spells, is the Game of the Year 2022 winner, Elden Ring.
+
+
+***
+![Digitisation in Africa Accelerated by Codebase Technologies and Fortek Partnership](https://thefintechtimes.com/wp-content/uploads/2021/01/iStock-845314394-e1632836338429.jpg "Digitisation in Africa Accelerated by Codebase Technologies and Fortek Partnership")
+
+
+[Digitisation in Africa Accelerated by Codebase Technologies and Fortek Partnership](https://thefintechtimes.com/digitisation-in-africa-accelerated-by-codebase-technologies-and-fortek-partnership/)
+
+
+> by Francis Bignell February 12, 2023 February 10, 2023 Fortek was born out of the desire to inspire development and financial inclusion by enabling incumbent financial institutions, fintechs and other corporations to bring new financial solutions to the market. Through this partnership, Fortek will leverage Codebase Technologies ‘ Digibanc SaaS platform to augment its existing services. It will also empower new fintechs, banks, and start-ups with faster and more cost-effective speed to market for launching digital products and services.
+
+
+***
+![All the ChatGPT updates to know about](https://images.lifestyleasia.com/wp-content/uploads/sites/2/2023/02/10152035/chatgpt-updates-fi.jpeg "All the ChatGPT updates to know about")
+
+
+[All the ChatGPT updates to know about](https://www.lifestyleasia.com/hk/gear/tech/chatgpt-updates-to-know-about)
+
+
+> ChatGPT is what everyone is talking about right now. The artificial intelligence (AI) powered chatbot, created by OpenAI, has become the fastest-growing consumer application in history, crossing 100 million users in just two months. As the number of users continues to rise, OpenAI has been busy with introducing unique updates to make ChatGPT more accurate in its responses and factually robust. The massive popularity of the chatbot has been indeed astonishing. According to a UBS study, the AI-powered chatbot clocked 13 million unique visitors per day in January.
+
+
+***
+![7 Python Challenges to Take Your Skills to the Next Level](https://external-preview.redd.it/ZpegFivrHts6vFHd7ehVvYjtvwrj9zyOhlC1O-0hdVE.jpg?auto=webp&v=enabled&s=f4d0083415c4f32a9af4bd1f048c5bb650423976 "7 Python Challenges to Take Your Skills to the Next Level")
+
+
+[7 Python Challenges to Take Your Skills to the Next Level](https://www.reddit.com/r/programming/comments/1107k07/7_python_challenges_to_take_your_skills_to_the)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Tesla's vocal shareholder to pursue board seat to rein in Elon Musk](https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/Shq_KeujjBnixRpf_C3QDNa6IxY=/1440x810/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/OXYEM3Z6INNY6YQN5KTPETYMPU.jpg "Tesla's vocal shareholder to pursue board seat to rein in Elon Musk")
+
+
+[Tesla's vocal shareholder to pursue board seat to rein in Elon Musk](https://www.thenationalnews.com/business/technology/2023/02/12/tesla-shareholder-gerber-to-pursue-board-seat-to-rein-in-musk/)
+
+
+> Ross Gerber, a vocal Tesla shareholder, said he will pursue a board seat at the electric-vehicle maker, with the goal of reining-in chief executive Elon Musk. Mr Gerber, who is co-founder and chief executive of investment firm Gerber Kawasaki, confirmed his intentions during a Twitter Spaces audio conference hosted by Bloomberg on Friday. He said he will formally announce his plans next week. 'I think it is crucially important to take criticism and this is something that I have realised over the years with Elon, you know, he's very thin skinned,' Mr Gerber said.
+
+
+***
+![Zomato exits 225 cities after reporting losses of Rs 346 crore, here are the details](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/rtxebfzt-sixteen_nine-original.jpg "Zomato exits 225 cities after reporting losses of Rs 346 crore, here are the details")
+
+
+[Zomato exits 225 cities after reporting losses of Rs 346 crore, here are the details](https://www.indiatoday.in/technology/news/story/zomato-pulls-out-of-225-cities-after-reporting-losses-in-revenue-here-are-the-details-2333641-2023-02-12)
+
+
+> Story highlights Zomato has ceased operations in 225 smaller cities Zomato says that the performance of these cities was 'not very encouraging' The company reported losses of Rs 346.6 crore in its Q3 report Zomato, during its quarter three financial earnings report, noted that the food delivery tech company's losses have widened further. As a result, Zomato has ceased operations in 225 smaller cities, saying that the performance of these cities was 'not very encouraging'. The company reported losses of Rs 346.
+
+
+***
+![Audio-Technica's StreamSet Gaming Headset With a Streaming mic Launched](https://www.gizmochina.com/wp-content/uploads/2023/02/audiotecnica.webp "Audio-Technica's StreamSet Gaming Headset With a Streaming mic Launched")
+
+
+[Audio-Technica's StreamSet Gaming Headset With a Streaming mic Launched](https://www.gizmochina.com/2023/02/12/audio-technica-streamset-gaming-headset-streaming-mic-launched)
+
+
+> Audio accessories manufacturer, Audio-Technica has announced the StreamSet gaming headset. The StreamSet has a big mic arm setup which is an important addition for gamers. Audio-Technica continues to deliver high-quality audio products in different genres. Most headset microphones are lacking in their quality and tone. Gamers who desire a more immersive experience usually opt for a separate mic setup. The new Audio-Technica StreamSet comes with a boom mic and mixer. The StreamSet combines the audio properties of the ATH-GDL3 gaming headset with the Audio-Technica 20 series microphones.
+
+
+***
+![: The Dialog element](https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png ": The Dialog element")
+
+
+[: The Dialog element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
+
+
+> The HTML element represents a dialog box or other interactive component, such as a dismissible alert, inspector, or subwindow. This element includes the global attributes . Warning: The tabindex attribute must not be used on the element. open Indicates that the dialog is active and can be interacted with. When the open attribute is not set, the dialog shouldn't be shown to the user. It is recommended to use the .show() or .showModal() methods to render dialogs, rather than the open attribute.
+
+
+***
+![StarFighter 16-inch](http://cdn.shopify.com/s/files/1/2059/5897/files/Star.png?height=628&pad_color=f8f9fa&v=1613514227&width=1200 "StarFighter 16-inch")
+
+
+[StarFighter 16-inch](https://starlabs.systems/pages/starfighter)
+
+
+> 01. Backlit Keyboard Comfortable backlit keys with snappy scissor mechanisms. 02. Media Keys Media keys for playback, volume, brightness, screenshots and more. 03. Function Lock Switch between media and traditional function keys with one tap. 04. International Layouts Available in US English, UK English, French, German, Nordic and Spanish layouts. 05. LED indicators Subtle LED indicators built into the keys let you know when Caps Lock or Function Lock are enabled.
+
+
+***
+![Dozens of tech women sworn in as new U.S. citizens in San Francisco](https://i.imgur.com/AoyxWyw.png "Dozens of tech women sworn in as new U.S. citizens in San Francisco")
+
+
+[Dozens of tech women sworn in as new U.S. citizens in San Francisco](https://exbulletin.com/tech/2041896/)
+
+
+> SAN FRANCISCO — The United Nations has declared February 11 as International Day for Women and Girls in Science, and to celebrate the event, a special swearing-in ceremony was held in San Francisco to welcome the country's new citizens. Thirty-six women from 17 countries who work in science and technology took the Pledge of Allegiance at the San Francisco Museum of Modern Art. Towering above it was the famous 'Pan American Unity' mural by Diego Rivera. Created in 1940, this mural depicts the growth of the American experience from frontier to mechanization through innovation and diversity.
+
+
+***
+![Yahoo lays off 20% of its staff as it shrinks its ad tech business.](https://i.imgur.com/AoyxWyw.png "Yahoo lays off 20% of its staff as it shrinks its ad tech business.")
+
+
+[Yahoo lays off 20% of its staff as it shrinks its ad tech business.](https://exbulletin.com/tech/2041884/)
+
+
+> Yahoo laid off 1,000 employees, about 12% of its remaining staff. The move is aimed at restructuring the company's advertising technology business unit and redistributing finances more efficiently. The layoffs enacted Thursday put an end to Yahoo's attempt to become a direct competitor to Google and Meta in the digital advertising market, according to a report from Axios, the first outlet to publicly announce job cuts. is showing. An additional 600 employees will be laid off in the second half, totaling about 20% of Yahoo's total workforce.
+
+
+***
+![It is really illegal to plug in a device to watch BBC iPlayer or Live TV in a Starbucks?](https://cdn.sstatic.net/Sites/law/Img/apple-touch-icon@2.png?v=b5e7f3e10c16 "It is really illegal to plug in a device to watch BBC iPlayer or Live TV in a Starbucks?")
+
+
+[It is really illegal to plug in a device to watch BBC iPlayer or Live TV in a Starbucks?](https://law.stackexchange.com/questions/89138/it-is-really-illegal-to-plug-in-a-device-to-watch-bbc-iplayer-or-live-tv-in-a-st)
+
+
+> I suspect this relates to the UK TV Licencing provisions as listed here , Specifically : Can I watch TV on my mobile phone without a TV Licence? If you're using a mobile device powered solely by its own internal batteries – like a smartphone, tablet or laptop – you will be covered by your home's TV Licence, wherever you're using it in the UK and Channel Islands. However, if you're away from home and plug one of these devices into the mains and use it to watch live on any channel, TV service or streaming service, or use BBC iPlayer*, you need to be covered by a separate TV Licence at that address (unless you're in a vehicle or vessel like a train, car or boat).
+
+
+***
+![Directing Ambient Light For Some Extra Glow](https://hackaday.com/wp-content/uploads/2023/02/nisshoku-lamp-0-featured.png "Directing Ambient Light For Some Extra Glow")
+
+
+[Directing Ambient Light For Some Extra Glow](https://hackaday.com/2023/02/11/directing-ambient-light-for-some-extra-glow/)
+
+
+> [Yuichiro Morimoto] wanted to create a decorative lamp, one that wasn't burdened with batteries or wires, but used just the ambient light in the room to create a directed glow effect. Using a coloured circular acrylic sheet, with a special coating (not specified) ambient light impinging on the surface is diffused toward the edge. This centre sheet is embedded in an opalescent sheet, which scatters the light from the center sheet, giving a pleasant glow, kind of akin to a solar corona. An additional diffuser cover sheet on the front covers over the edge to hide it, and further enhance the glow effect.
+
+
+***
+![Stelvio and Giulia Veloce shown off in latest Alfa Romeo gallery](https://www.carmag.co.za/wp-content/uploads/2023/02/AR-3-jpg.webp "Stelvio and Giulia Veloce shown off in latest Alfa Romeo gallery")
+
+
+[Stelvio and Giulia Veloce shown off in latest Alfa Romeo gallery](https://www.carmag.co.za/news/new-models/stelvio-and-giulia-veloce-shown-off-in-latest-alfa-romeo-gallery/)
+
+
+> Alfa Romeo This may very well be the final iteration of the Stelvio and Giulia before they become electrified monikers and in stylish Italian fashion, the updates have been demonstrated on the Veloce trim of the models. Image: Alfa Romeo Throughout its 100+ year history, Alfa Romeo has frequently been considered as creators of otherworldly vehicles which is perhaps why the latest galley demonstrating the facelifted Giulia and Stelvio models may very well have been done on a moon. Contrasting the lunar landscape background are the models which wear a visceral red paintwork.
+
+
+***
+![Warnock's dilemma](https://en.wikipedia.org/static/apple-touch/wikipedia.png "Warnock's dilemma")
+
+
+[Warnock's dilemma](https://en.wikipedia.org/wiki/Warnock%27s_dilemma)
+
+
+> Problem of interpreting a lack of response to a posting in a virtual community Warnock's dilemma , named for its originator Bryan Warnock, is the problem of interpreting a lack of response to a posting in a virtual community . [1] The term originally referred to mailing list discussions , but has been applied to Usenet posts, blogs , web forums , and online content in general. [2] The dilemma arises because a lack of response does not necessarily imply that no one is interested in the topic, but could also mean for example that readers find the content to be exceptionally good (leaving nothing for commenters to add).
+
+
+***
+![Meta delays setting team budgets as Facebook parent plans fresh round of layoffs – report](https://www.rappler.com/tachyon/2022/10/meta-reuters-logo-oct-2022.jpg "Meta delays setting team budgets as Facebook parent plans fresh round of layoffs – report")
+
+
+[Meta delays setting team budgets as Facebook parent plans fresh round of layoffs – report](https://www.rappler.com/technology/meta-delays-setting-team-budgets-plans-fresh-round-layoffs/)
+
+
+> META. A logo of Meta Platforms Inc. is seen at its booth, at the Viva Technology conference dedicated to innovation and startups, at Porte de Versailles exhibition center in Paris, France June 17, 2022 Benoit Tessier/Reuters Meta Platforms is reportedly planning another round of job cuts, following the slashing of 11,000 jobs back in November Facebook parent Meta Platforms Inc has delayed finalizing the budgets of multiple teams as it prepares a fresh round of job cuts, the Financial Times  reported  on Saturday, February 11.
+
+
+***
+![Google: Google could bring ChatGPT rival Bard to ChromeOS](https://static.toiimg.com/thumb/msid-97820757,width-1070,height-580,imgsize-8578,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Google: Google could bring ChatGPT rival Bard to ChromeOS")
+
+
+[Google: Google could bring ChatGPT rival Bard to ChromeOS](https://exbulletin.com/tech/2041796/)
+
+
+> Google this week announced Bard, a Microsoft-backed ChatGPT competitor. AI chatbots are now available for trusted testers. Just days after Bards' announcement, Microsoft announced a new version of his Bing search engine and Edge browser powered by ChatGPT. Now, according to reports, Google may also be planning to expand the functionality of his Bards. According to a 9to5Google report, Google has begun work to bring Bard to his ChromeOS. Under the hood changes refer to attributes like Bard. According to the report, some of the new code changes seen in ChromeOS suggest that conversational search will be introduced to the OS as an feature.
+
+
+***
+![New Fungus-Killing Compounds Named After Keanu Reeves](https://www.mccourier.com/wp-content/uploads/2023/02/New-Fungus-Killing-Compounds-Named-After-Keanu-Reeves.jpg "New Fungus-Killing Compounds Named After Keanu Reeves")
+
+
+[New Fungus-Killing Compounds Named After Keanu Reeves](https://www.mccourier.com/new-fungus-killing-compounds-named-after-keanu-reeves/)
+
+
+> Keanu Reeves, seen right here with Marcelo Forlani, now has a set of fungus killing compounds, keanumycins … [+] A-C, named after him. (Photograph by Ricardo Moreira/Getty Photos for Lionsgate) Getty Photos for Lionsgate Whoa. Scientists in Germany have recognized new fungus killing compounds which might be so glorious that they've named these peptides after Keanu Reeves. Yep, these peptides are actually known as 'keanumycins' after the actor who has starred within the Invoice and Ted motion pictures, the Matrix motion pictures, the John Wick motion pictures, The Replacements , Velocity , and lots of different hits.
+
+
+***
+![Google warns against ‘hallucinating' chatbots](https://i.imgur.com/AoyxWyw.png "Google warns against ‘hallucinating' chatbots")
+
+
+[Google warns against ‘hallucinating' chatbots](https://exbulletin.com/tech/2041767/)
+
+
+> As Google's parent company Alphabet competes with blockbuster app ChatGPT, Google's search engine chief warned of the pitfalls of chatbot artificial intelligence in a newspaper interview on Saturday. Prabhakar Ragavan, Google's senior vice president and head of Google search, told Germany's Wert am Sonntag newspaper: 'This kind of artificial intelligence that is currently being talked about can lead to what is called hallucinations. There is,' he said. In a comment published in German, Raghavan said, 'This is phrased in such a way that the machine offers a compelling, yet completely fabricated, answer.
+
+
+***
+![Hallucinatory chatbots: Google warns against ‘hallucinating' AI chatbots: report](https://i.imgur.com/AoyxWyw.png "Hallucinatory chatbots: Google warns against ‘hallucinating' AI chatbots: report")
+
+
+[Hallucinatory chatbots: Google warns against ‘hallucinating' AI chatbots: report](https://exbulletin.com/tech/2041758/)
+
+
+> As Google's parent company Alphabet competes with blockbuster app ChatGPT, Google's search engine chief warned of the pitfalls of chatbot artificial intelligence in a newspaper interview on Saturday. Prabhakar Raghavan, Google's senior vice president and head of Google search, told Germany's Wert am Sonntag newspaper: In a comment published in German, Raghavan said, 'This is phrased in such a way that the machine provides a compelling, yet completely fabricated answer.' One of his basic tasks, he added, is to minimize this.
+
+
+***
+![iPhone 15 And iPhone 15 Plus To Feature Rounded Back And Redesigned Camera Module: What We Know](https://images.news18.com/ibnlive/uploads/2022/09/vs-2-166263908416x9.jpg "iPhone 15 And iPhone 15 Plus To Feature Rounded Back And Redesigned Camera Module: What We Know")
+
+
+[iPhone 15 And iPhone 15 Plus To Feature Rounded Back And Redesigned Camera Module: What We Know](https://www.news18.com/news/tech/iphone-15-and-iphone-15-plus-to-feature-rounded-back-and-redesigned-camera-module-what-we-know-7059787.html)
+
+
+> It has been close to five months since the iPhone 14 series launched globally, and while the vanilla iPhone 14 models retained the older design, the next mainline vanilla iPhones—iPhone 15 and iPhone 15 Plus are rumored to sport a redesigned camera bump and rounded back. According to a recent tip from tech insider ShrimpApplePro, the upcoming iPhone 15 and iPhone 15 Plus could feature a newly redesigned camera bump on the back. Apple Hub reports that the upcoming iPhone 15 models could feature the current flagship SoC Apple A16 Bionic chip, which is currently featured in the iPhone 14 Pro models.
+
+
