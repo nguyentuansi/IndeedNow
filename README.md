@@ -20028,3 +20028,941 @@
 > Union Minister of State for Electronics and Information Technology Rajeev Chandrasekhar has urged people to not share their mobile numbers with a retailer if there is no 'justifiable reason" after a Twitter user shared his experience at Delhi's IGI Airport on social media. Dinesh S Thakur, founder of an independent funding organisation, tweeted that when he went to buy a pack of gum at one of the bookstores at the IGI airport, he was asked to share his phone number. When he questioned the shopkeeper for the need to share his phone number, Thakur was told that it was for 'security purposes".
 
 
+***
+![Cyber Security Today, Feb. 13, 2023 – Hole in GoAnywhere file transfer utility exploited, ransomware attacks in the U.S. and Israel, and more](https://i.itworldcanada.com/wp-content/uploads/2021/03/cyber-security-today-text-middle2.png "Cyber Security Today, Feb. 13, 2023 – Hole in GoAnywhere file transfer utility exploited, ransomware attacks in the U.S. and Israel, and more")
+
+
+[Cyber Security Today, Feb. 13, 2023 – Hole in GoAnywhere file transfer utility exploited, ransomware attacks in the U.S. and Israel, and more](https://www.itworldcanada.com/article/cyber-security-today-feb-13-2023-hole-in-goanywhere-file-transfer-utility-exploited-ransomware-attacks-in-the-u-s-and-israel-and-more/526994)
+
+
+> A hole in the GoAnywhere file transfer utility is exploited, ransomware attacks in the U.S. and Israel, and more. Welcome to Cyber Security Today. It's Monday, February 13th, 2023. I'm Howard Solomon, contributing reporter on cybersecurity for ITWorldCanada.com and TechNewsday.com in the U.S.   ; The Clop ransomware gang is back. According to Bleeping Computer, the gang says it recently stole data from over 130 organizations that use the GoAnywhere MFT file transfer utility.
+
+
+***
+![Corsair HS65 Wireless Headset review - Introduction](https://www.guru3d.com/articles_teaserimage/2536 "Corsair HS65 Wireless Headset review - Introduction")
+
+
+[Corsair HS65 Wireless Headset review - Introduction](https://www.guru3d.com/articles-pages/corsair-hs65-wireless-headset-review,1.html)
+
+
+> Corsair HS65 Wireless Headset Headsets are one of the types of peripherals that Corsair offers (there are also PC components, but that's not a story for this review). It ranges from budget-oriented HS series (the reviewed one is one of them), then there's the mid-range Void series, and it ends with high-end Virtuoso. The HS series starts with HS35, and till now, it also contained HS45, HS50, HS55, HS60, HS65, HS70, HS75, and HS80 (some of them had different/wireless variants). We're checking out the all-new Corsair HS65 Wireless in this review (today is the debut).
+
+
+***
+![iPhone 14 Available at a Very Huge Discount in India](https://telecomtalk.info/wp-content/uploads/2023/02/iphone-14-available-at-a-very-huge.jpg "iPhone 14 Available at a Very Huge Discount in India")
+
+
+[iPhone 14 Available at a Very Huge Discount in India](https://telecomtalk.info/iphone-14-available-at-a-very-huge/676248/)
+
+
+> iPhone 14, which is the entry-level iPhone in the iPhone 14 series, is available at one of the largest discounts ever in India. Note that the discount is not available directly on the official website of Apple but on the e-commerce platform Flipkart. iPhone 14 was launched at a starting price of Rs 79,900 with 128GB of internal storage. iPhone 14, which is the entry-level iPhone in the iPhone 14 series, is available at one of the largest discounts ever in India. Note that the discount is not available directly on the official website of Apple but on the e-commerce platform Flipkart.
+
+
+***
+![UVA Health Expands Telestroke Training, Access to Rural Counties](https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1401604556.jpg "UVA Health Expands Telestroke Training, Access to Rural Counties")
+
+
+[UVA Health Expands Telestroke Training, Access to Rural Counties](https://www.healthleadersmedia.com/)
+
+
+> The University of Virginia Health System is spearheading a new digital health program aimed at improving emergency treatment of strokes in rural areas. UVA Health is using a $1.5 million grant from the US Health Resources and Services Administration (HRSA) to launch a three-year telemedicine program to educate and train rural healthcare providers on pre-hospital emergency care and post-discharge follow-up care for stroke patients. The program will also link ambulances in those counties to the health system's iTREAT telestroke platform , which connects EMS crews treating a suspected stroke victim in real-time with specialists.
+
+
+***
+![Engagement Banking Platform Backbase Expands European Presence with Office in Italy](https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Roman-Forum-Rome-Italy.jpeg "Engagement Banking Platform Backbase Expands European Presence with Office in Italy")
+
+
+[Engagement Banking Platform Backbase Expands European Presence with Office in Italy](https://www.crowdfundinsider.com/2023/02/202442-engagement-banking-platform-backbase-expands-european-presence-with-office-in-italy)
+
+
+> The Italian banking sector is going through a moment of 'strong transformation' and faces many challenges in customer relations, according to an update from Backbase. Its centrality is 'increasingly evident and its daily needs, which are constantly evolving, become more and more pressing and to be satisfied instantly, possibly in self-service mode.' Rising management costs and the inefficiencies of the back office component 'complete a decidedly challenging picture, especially for traditional banks.
+
+
+***
+![Select Innovations, Mastercard, Deserve to Launch New Kind of Rewards Card](https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Mastercard-Credit-Cards-756x1024.jpg "Select Innovations, Mastercard, Deserve to Launch New Kind of Rewards Card")
+
+
+[Select Innovations, Mastercard, Deserve to Launch New Kind of Rewards Card](https://www.crowdfundinsider.com/2023/02/202430-select-innovations-mastercard-deserve-to-launch-new-kind-of-rewards-card)
+
+
+> Luxury membership community Select announced the coming launch of the Select World Elite Mastercard. The new Select credit card will 'combine Select's robust network of ongoing, significant, and often exclusive member benefits, an uncapped 2% cash back across most spend categories, and World Elite Mastercard benefits.' Current Select benefits 'include savings and perks at over a million premier partner locations across the globe.' These include significant discounts (15-30%) or complimentary items 'at top-tier restaurants across the country, unpublished rates at hundreds of thousands of hotels and resorts that reach as high as 60% off, and ongoing special offers with sought-after brands like BMW, Tumi, Lazzoni, Caraway, and many more.
+
+
+***
+![Celebs sued for promoting crypto crap](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bb-5.jpg?fit=1200%2C738&ssl=1 "Celebs sued for promoting crypto crap")
+
+
+[Celebs sued for promoting crypto crap](https://boingboing.net/2023/02/13/celebs-sued-for-promoting-crypto-crap.html)
+
+
+> Remember when Jimmy Fallon and Paris Hilton sat on his show listlessly blathering on about their apes? They among various other celebrities are being sued for what was, allegedly, undisclosed and paid-for promotion of Bored Ape Yacht Club and other crypto wheezes at the peak of the NFT hype cycle. They pumped it, the lawsuit contends, but when the inevitable crash came it wasn't them holding the bag. The class action lawsuit claims, "this purported interest in" Bored Apes "by high-profile taste makers was entirely manufactured by [Hollywood agent Guy] Oseary at the behest of" Yuga Labs.
+
+
+***
+![Neuralink's hygiene practices called into question](https://i0.wp.com/boingboing.net/wp-content/uploads/2022/02/shutterstock_764582152.jpg?fit=1200%2C1200&ssl=1 "Neuralink's hygiene practices called into question")
+
+
+[Neuralink's hygiene practices called into question](https://boingboing.net/2023/02/13/neuralinks-hygiene-practices-called-into-question.html)
+
+
+> Neuralink, the Elon Musk company being investigated for animal cruelty, is now also under investigation by the Department of Transportation for shipping contaminated equipment without proper packaging to prevent humans from coming into contact with all sorts of awful stuff, like a potentially lethal herpes variant. Wonder when Elon gets his chip? Ars Technica: The US Department of Transportation is investigating allegations that Elon Musk's brain-computer interface company, Neuralink, violated federal transportation regulations when it shipped contaminated implants removed from the brains of deceased research monkeys infected with multiple types of dangerous pathogens.
+
+
+***
+![Time is running out to get this Galaxy S23 pre-order deal](https://www.digitaltrends.com/wp-content/uploads/2023/02/samsung-galaxy-s23-ultra-display-on-home-screen.jpg?resize=1200%2C630&p=1 "Time is running out to get this Galaxy S23 pre-order deal")
+
+
+[Time is running out to get this Galaxy S23 pre-order deal](https://www.digitaltrends.com/mobile/samsung-galaxy-s23-deal-samsung-february-2023/)
+
+
+> Joe Maring/Digital Trends The Samsung Galaxy S23 range is no doubt going to feature heavily among the best phones roundups very soon and this is your last chance to grab some amazing technology for less. If you pre-order the Samsung Galaxy S23, Galaxy S23 Plus or Galaxy S23 Ultra through Digital Trends today, you'll receive up to $150 in Instant Credit that can be used on select products elsewhere at Samsung including the Samsung Galaxy Watch 5. That's $50 more than Samsung is offering to customers who don't shop through our link.
+
+
+***
+![Merger of Velodyne and Ouster creates $550 million lidar giant](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/outser-lidars.jpg "Merger of Velodyne and Ouster creates $550 million lidar giant")
+
+
+[Merger of Velodyne and Ouster creates $550 million lidar giant](https://roboticsandautomationnews.com/2023/02/13/merger-of-velodyne-and-ouster-creates-550-million-lidar-giant/60237/)
+
+
+> Velodyne and Ouster have merged to create what could be described as a 'lidar giant' at a time when interest in lidar – light detection and ranging – sensors are at an all-time high because of their applications in so many robotic and automated machines.  Ouster and Velodyne describe their successful deal as a 'merger of equals'. The combined company will keep the name Ouster and continue to trade on New York Stock Exchange under the ticker 'OUST'. The two companies have a combined market capitalization of more than $550 million.
+
+
+***
+![Valentine's Day offer: Reliance Jio recharge plans include these offers](https://www.hindustantimes.com/ht-img/img/2023/02/13/1600x900/INDIA-MOBILE-EVENT-0_1664878889543_1664878889543_1676297412090_1676297412090.JPG "Valentine's Day offer: Reliance Jio recharge plans include these offers")
+
+
+[Valentine's Day offer: Reliance Jio recharge plans include these offers](https://www.hindustantimes.com/technology/valentines-day-offer-reliance-jio-recharge-plans-include-these-offers-check-101676297389488.html)
+
+
+> As part of its Valentine's Day promotion, Reliance Jio is providing deals to its customers bundling ₹ 349, ₹ 899, and ₹ 2999 plans with different offers. The promotion kicked off on February 10 and the final date is yet to be revealed. What does Valentine's Day offer from Jio include? Jio is offering free vouchers of 12 GB of 4G data in the packages. In addition, by enrolling in these plans, you will receive a ₹ 750 discount on flight reservations. To qualify for this discount, you must purchase tickets through lxigo that cost at least Rs.
+
+
+***
+![The Most Memorable Super Bowl Commercials of 2023](https://www.androidheadlines.com/wp-content/uploads/2023/02/Screenshot-2023-02-13-at-8.55.30-AM-1420x780.png "The Most Memorable Super Bowl Commercials of 2023")
+
+
+[The Most Memorable Super Bowl Commercials of 2023](https://www.androidheadlines.com/?p=1048421)
+
+
+> Now that the Super Bowl is over, it's time to take a look back on what commercials we saw during the big game. Every year, companies spend billions for commercial spots during the Super Bowl. This year, it is being reported that Fox was charging up to $7 million for a 30-second ad-slot. And that's just to air the commercial. Nevermind the cost of putting it together. As always, there were some good, and some bad commercials as part of the Super Bowl. But in this one, we're going to go with the most memorable Super Bowl commercials.
+
+
+***
+![Why the balloon and UFO affairs are a Sputnik moment](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17dhCx.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Why the balloon and UFO affairs are a Sputnik moment")
+
+
+[Why the balloon and UFO affairs are a Sputnik moment](http://www.msn.com/en-us/news/technology/why-the-balloon-and-ufo-affairs-are-a-sputnik-moment/ar-AA17cVVJ)
+
+
+> Now that the US military has shot down a suspected spy balloon from China and three other unidentified flying objects, there will be debates about the UFOs' meaning, their capabilities, and why they were all up there in the first place. Though former CIA Director Michael Hayden said the initial balloon's threat to the welfare of Americans was vastly inflated, others described the incident as a wake-up call. Former Trump national security adviser H.R. McMaster hopes it will lead to a 'Sputnik moment,' harkening back to the US space race with the Soviet Union.
+
+
+***
+![Ritchie Bros. Q4 profit expected to be between US$42M and US$45M](https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/02/2023021308020-63ea3483fa9f636be6889e68jpeg.jpg;w=1200;h=800;mode=crop "Ritchie Bros. Q4 profit expected to be between US$42M and US$45M")
+
+
+[Ritchie Bros. Q4 profit expected to be between US$42M and US$45M](https://www.newwestrecord.ca/technology/ritchie-bros-q4-profit-expected-to-be-between-us42m-and-us45m-6532626)
+
+
+> VANCOUVER — Ritchie Bros. Auctioneers Inc. says it expects its fourth-quarter profit to come in between US$42 million and US$45 million. In its preliminary results for the quarter ended Dec. 31, the company, which keeps its books in U.S. dollars, says it expects total revenue of about US$444 million. For the full year, Ritchie Bros. says it expects net income between US$317 million and US$320 million. Total revenue for the year is expected to be about US$1.7 billion. The company is expected to report its full financial results after the close of markets on Feb.
+
+
+***
+![Studying the universe to learn who we are](https://static.euronews.com/articles/stories/07/35/59/10/1000x563_cmsv2_d101b0cf-f415-5590-9383-2a7670ba74cd-7355910.jpg "Studying the universe to learn who we are")
+
+
+[Studying the universe to learn who we are](https://www.euronews.com/my-europe/2023/02/13/studying-the-universe-to-learn-who-we-are)
+
+
+> Where do we come from? How does LOFAR work as a consortium? Is the universe infinite? René Vermeulen, Director of LOFAR, tells us more about the European radio telescope looking for answers. The age of the universe The universe as such is more than 13 billion years old. We can go back at least 90% of that length of time and look at the objects and we can see them form. We have indeed discovered pulsars, we have discovered black holes, we have discovered galaxies. When you make a wide survey of the sky, you discover all of those.
+
+
+***
+![UK patient fitted with pen lid-size sensor to detect heart failure](https://eandt.theiet.org/media/7625/dreamstime_xxl_109397151_2697492709509096077.jpg?crop=0.0000000000000013895057943753,0.38500000000000056,0,0.12281249999999877&cropmode=percentage&width=1200&height=450&rnd=132277270600000000 "UK patient fitted with pen lid-size sensor to detect heart failure")
+
+
+[UK patient fitted with pen lid-size sensor to detect heart failure](https://eandt.theiet.org/content/articles/2023/02/uk-patient-fitted-with-pen-lid-size-sensor-to-detect-heart-failure/)
+
+
+> A UK patient has been the first to be fitted with a small early-warning sensor which alerts doctors if their condition deteriorates. The sensor has been designed by doctors at the University Hospital Southampton (UHS), in Hampshire. The device was implanted during a simple 45-minute procedure, using a small catheter which is placed in a vein at the top of the leg. With this innovative method, the doctors hope to enable more rapid interventions, helping keep people well for longer and easing financial pressures on the NHS.
+
+
+***
+![Fish don't dither: A new study investigates danger-evasion tactics](https://scx2.b-cdn.net/gfx/news/hires/2020/zebrafish.jpg "Fish don't dither: A new study investigates danger-evasion tactics")
+
+
+[Fish don't dither: A new study investigates danger-evasion tactics](https://phys.org/news/2023-02-fish-dont-dither-danger-evasion-tactics.html)
+
+
+> Credit: CC0 Public Domain Decisions are difficult. Humans often find themselves deliberating between multiple conflicting alternatives, or frustratingly fixated upon a single option. When faced with a threat, zebrafish larvae don't have that luxury. The direction they take to escape from a predator is a matter of life and death. A study led by Kanso Bioinspired Motion Lab at USC Viterbi School of Engineering has opened new pathways to investigate the gray space between sensory input and behavioral response in zebrafish.
+
+
+***
+![China's Moore Threads MTT S80 GPU Lags Behind GT 1030 in Gaming Showdown](https://cdn.mos.cms.futurecdn.net/P4CRsBtgRLFvh2BBsukQjB-1200-80.jpg "China's Moore Threads MTT S80 GPU Lags Behind GT 1030 in Gaming Showdown")
+
+
+[China's Moore Threads MTT S80 GPU Lags Behind GT 1030 in Gaming Showdown](https://www.tomshardware.com/news/moore-threads-mtt-s80-tested-bullslab-jay)
+
+
+> (Image credit: BullsLab Jay) China's Moore Treads MTT S80 graphics card has been tested in a suite of games by TechTuber BullsLab Jay . They say these GPUs only come up for sale occasionally in small batches, so they were fortunate to be able to grab one. In brief, the 12nm, 4096 core GPU with 16GB of GDDR6 and a TGP of 250W is disappointing in gaming, as it was consistently outgunned by the GT 1030 2GB with a 30W TGP. Moreover, the card seemed to be restricted to DX9 gaming at the time of review (it is advertised as DX11-capable) and its AV1 codec acceleration was also lacking.
+
+
+***
+![Data Scientist Explains Why All These UFOs Are Suddenly Showing Up Right Now](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17qllz.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Data Scientist Explains Why All These UFOs Are Suddenly Showing Up Right Now")
+
+
+[Data Scientist Explains Why All These UFOs Are Suddenly Showing Up Right Now](http://www.msn.com/en-us/news/technology/data-scientist-explains-why-all-these-ufos-are-suddenly-showing-up-right-now/ar-AA17qtV9)
+
+
+> The news lately has been positively full of stories about the U.S. government identifying and neutralizing UFOs over our country's airspace. On February tenth, they shot down a UFO 'the size of a small car' over Alaskan waters. On the eleventh, they downed a 'cylindrical' one near the Canadian border. And just yesterday, an 'octagonal' one was destroyed over Lake Huron. What in the world is going on? Though some national security officials said these objects were not of extraterrestrial origins, at least one (General Glen D.
+
+
+***
+![One of the Samsung Galaxy S23's best gaming features comes to other phones](https://static1.pocketlintimages.com/wordpress/wp-content/uploads/2023/02/galaxy-s23-ultra_lifestyle-visual_performance_gaming__1p_li.jpg "One of the Samsung Galaxy S23's best gaming features comes to other phones")
+
+
+[One of the Samsung Galaxy S23's best gaming features comes to other phones](https://www.pocket-lint.com/one-of-the-samsung-galaxy-s23s-best-gaming-features-comes-to-other-phones/)
+
+
+> Samsung has started to make one of the Galaxy S23's best gaming features available on other handsets, according to reports. Samsung announced the Galaxy S23 lineup earlier in February and the phones go on sale on 17 February. One of the features that the phone adds is aimed squarely at giving gamers as much power as that Qualcomm Snapdragon 8 Gen 2 can drink and now it's rolling it out to other phones like the Galaxy Z Fold 2, Galaxy Z Fold 3, and Galaxy Z Fold 4. The feature is called Pause USB Power Delivery and it's built to allow a plugged-in phone to reroute all of the incoming power to the CPU and other components rather than charge the phone's battery.
+
+
+***
+![Double Fine releases 32-episode documentary on the making of 'Psychonauts 2'](https://www.nme.com/wp-content/uploads/2021/11/Psychonauts-2-patch.jpg "Double Fine releases 32-episode documentary on the making of 'Psychonauts 2'")
+
+
+[Double Fine releases 32-episode documentary on the making of 'Psychonauts 2'](https://www.nme.com/news/gaming-news/double-fine-releases-32-episode-documentary-on-the-making-of-psychonauts-2-3397592)
+
+
+> Psychonauts 2. Credit: Double Fine Double Fine and 2 Player Productions have released a 22-hour documentary series that charts the making of Psychonauts 2 . READ MORE: The best PS5 games to play in 2023 Titled Double Fine PsychOdyssey , the 32-part series follows Double Fine as it works on platform-adventure game Psychonauts 2 , which was released in 2021. The series is a follow-up to Double Fine Adventure , which documented the creation of Broken Age . 'Ten years after the release of their flagship video game Psychonauts , Double Fine Productions returns to its most celebrated franchise with Psychonauts 2 ,' reads the documentary's description.
+
+
+***
+[The Lackner Group Releases 2023 Version of 6-in-1 Estate and Trust Administration Software](http://www.businesswire.com/news/home/20230213005416/en/The-Lackner-Group-Releases-2023-Version-of-6-in-1-Estate-and-Trust-Administration-Software/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PITTSBURGH--(BUSINESS WIRE)-- #Finance--The Lackner Group, Inc. has released the 2023 version of its flagship 6-in-1 estate and trust administration software, integrating into the program the latest information for the 2023 tax season. The 6-in-1 software program helps users track data for the State Death Tax, State Inventory & Accounting documents, State Fiduciary Income Tax, US 1041, US 706 and US 709 forms. Continued technical support of the 6-in-1 software provides clients with the most up-t
+
+
+***
+![Officina Battaglin brings custom steel to gravel with the Portofino G](https://cdn.mos.cms.futurecdn.net/NMgWB3fiZNef3SQ7yXrpvc-1200-80.jpg "Officina Battaglin brings custom steel to gravel with the Portofino G")
+
+
+[Officina Battaglin brings custom steel to gravel with the Portofino G](https://www.cyclingweekly.com/products/officina-battaglin-brings-custom-steel-to-gravel-with-the-portofino-g)
+
+
+> Officina Battaglin has a new variant of its flagship lugged steel Portofino , tuned for gravel riders.  The Battaglin Portofino G looks to bring the road-going Portofino's ride comfort to gravel and backroads. To do so, Battaglin has looked to its heritage in designing steel bikes for pro riders racing Paris-Roubaix in the late 1980s and early 1990s, using the bike geometries developed then for the new Portofino G. Battaglin understands steel racing bikes. Giovanni Battaglin, father of current company CEO Alex Battaglin, was one of the top racers of his day and achieved the Giro-Vuelta double on his Pinarello Tre Cime in 1981 before founding his own bike brand, which specialises in small run steel bikes .
+
+
+***
+![Blood Bowl 3 trophies announced in lethal PS5, PS4 platinum touchdown](https://www.truetrophies.com/imgs/067867/blood-bowl-3-trophies.jpg "Blood Bowl 3 trophies announced in lethal PS5, PS4 platinum touchdown")
+
+
+[Blood Bowl 3 trophies announced in lethal PS5, PS4 platinum touchdown](https://www.truetrophies.com/n22870/blood-bowl-3-playstation-trophies)
+
+
+> Register Now For Free Sign up for free now to have your trophies and gaming statistics tracked. Manage your Game Collection, measure your progress across entire game series, even set scoring and completion goals and we'll chart your attempts at reaching them! We've also run over thousands of gaming sessions to help our members unlock tricky trophies and make new friends. And, we're fully secure and mobile friendly.
+
+
+***
+![The College Board denounces Florida's Department of Education](https://i0.wp.com/boingboing.net/wp-content/uploads/2022/04/shutterstock_63962491.jpg?fit=1000%2C667&ssl=1 "The College Board denounces Florida's Department of Education")
+
+
+[The College Board denounces Florida's Department of Education](https://boingboing.net/2023/02/13/the-college-board-denounced-floridas-department-of-education.html)
+
+
+> The College Board, developer of the standardized tests and criteria to determine college readiness of US students, has denounced the state of Florida's Department of Education for playing political games. Florida's Gov. Ron Desantis has conducted a relentless assault on the state's education system, insisting it stops teaching students things that might cause them to think. Orlando Sentinel: Taken aback by Florida's attacks against its new AP African American studies course, the College Board late Saturday denounced the state Department of Education, saying it used the course to advance a politically motivated agenda.
+
+
+***
+![The Honor Magic5 Pro snaps Guinness record-breaking moment with its AI camera](https://fdn.gsmarena.com/imgroot/news/23/02/honor-magic5-pro-guiness/-952x498w6/gsmarena_000.jpg "The Honor Magic5 Pro snaps Guinness record-breaking moment with its AI camera")
+
+
+[The Honor Magic5 Pro snaps Guinness record-breaking moment with its AI camera](https://www.gsmarena.com/the_honor_magic5_pro_snaps_recordbreaking_moment_with_its_ai_camera-news-57534.php)
+
+
+> Honor linked up with the official Guinness World Records to snap a successful attempt at doing the highest between-the-legs slam dunk. Poland's Piotr Grabowski achieved the feet at a facility in London on January 2023, and Honor was there with the upcoming Honor Magic5 Pro flagship to capture it. Honor says the Magic5 Pro used an AI feature on its camera. Capturing the record-breaking moment - click for larger image We could take some details from this shot below, which Honor used to substantiate that it was the Magic5 Pro that snapped the pic.
+
+
+***
+[Parthenon Capital Announces Transition of Gaming Division of Global Payments to Pavilion Payments](http://www.businesswire.com/news/home/20230213005382/en/Parthenon-Capital-Announces-Transition-of-Gaming-Division-of-Global-Payments-to-Pavilion-Payments/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LAS VEGAS--(BUSINESS WIRE)--Parthenon Capital ('Parthenon'), a leading growth-oriented private equity firm, announced they have entered into a definitive agreement with Global Payments Inc. (NYSE: GPN) to acquire its gaming division and transition Global Payments Gaming Solutions into Pavilion Payments, a stand-alone independent company. After closing on the transaction, Pavilion Payments will continue to offer Global Payments Gaming Solutions' full suite of payments solutions for the gaming in
+
+
+***
+![The iPhone 14 Pro Max costs $1,099 to buy, but here's how much it costs to make](https://www.androidauthority.com/wp-content/uploads/2022/10/Apple-iPhone-14-Pro-Max-purple-back.jpg "The iPhone 14 Pro Max costs $1,099 to buy, but here's how much it costs to make")
+
+
+[The iPhone 14 Pro Max costs $1,099 to buy, but here's how much it costs to make](https://www.androidauthority.com/iphone-14-pro-max-bom-3282634/)
+
+
+> Robert Triggs / Android Authority TL;DR An analysis firm has deduced the approximate bill-of-materials (BoM) cost of an iPhone 14 Pro Max. Allegedly, one of these phones costs just $464, less than half of its $1,099 retail price. This BoM cost is actually 3.7% higher than last year's equivalent model. If you want the latest and greatest iPhone, you want the iPhone 14 Pro Max . It's the most feature-packed iPhone ever, including the latest chipset, the best camera, the biggest display, the biggest battery, and all the newest features, including Dynamic Island .
+
+
+***
+![Hackers Create Malicious Dota 2 Game Modes to Secretly Access Players' Systems](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiZ5EqGS9M-uWz6i8kYOjBKdLpSXrkKSk6QNM-jbWSUnjAa0fMoI-9Jo9UWv4Hhrt7PKl1E8_KhYdxQu-1EEKyXUbalRCjNiUSmVYb7Y3OwGbHb3GCieFJCSGkvxMOMWSIhqWGTQcRRSHSiPgQLQKDXfl03fJ53evbWAIGV2FbKx7UTCAUWvp2MDL9a/s728-e3650/dota2.png "Hackers Create Malicious Dota 2 Game Modes to Secretly Access Players' Systems")
+
+
+[Hackers Create Malicious Dota 2 Game Modes to Secretly Access Players' Systems](https://thehackernews.com/2023/02/hackers-create-malicious-dota-2-game.html)
+
+
+> An unknown threat actor created malicious game modes for the Dota 2 multiplayer online battle arena (MOBA) video game that could have been exploited to establish backdoor access to players' systems. The modes exploited a high-severity flaw in the V8 JavaScript engine tracked as CVE-2021-38003 (CVSS score: 8.8), which was exploited as a zero-day and addressed by Google in October 2021. "Since V8 was not sandboxed in Dota, the exploit on its own allowed for remote code execution against other Dota players," Avast researcher Jan Vojtěšek said in a report published last week.
+
+
+***
+![The 10 best Hogwarts Legacy mods](https://www.gamepur.com/wp-content/uploads/2023/02/trans-flag-scarf-pc-mod-hogwarts-legacy.jpg "The 10 best Hogwarts Legacy mods")
+
+
+[The 10 best Hogwarts Legacy mods](https://www.gamepur.com/guides/the-best-hogwarts-legacy-mods)
+
+
+> Image via Trans Flag Scarf's Nexus Mods page Hogwarts Legacy is the most popular Harry Potter game ever released. It gives players the chance to explore Hogwarts, Hogsmeade, and the grounds around the two with details never seen before. However, while the game is great, it could always be better with mods. This guide outlines the best mods you can get for Hogwarts Legacy so that you can spice up your experience with funny, practical, and quirky modifications. The 10 best mods for Hogwarts Legacy Here, we've listed what we believe are the best mods for Hogwarts Legacy from Nexus Mods.
+
+
+***
+![What moment will you capture with HONOR's new AI-assisted smartphone camera?](https://cdn.mos.cms.futurecdn.net/VHDhngDGH8fpBfYQzgRT8H-1200-80.jpg "What moment will you capture with HONOR's new AI-assisted smartphone camera?")
+
+
+[What moment will you capture with HONOR's new AI-assisted smartphone camera?](https://www.techradar.com/features/what-moment-will-you-capture-with-honors-new-ai-assisted-smartphone-camera)
+
+
+> (Image credit: HONOR) Have you ever missed an amazing moment on your phone, or just felt let down by the timing of your shot? Well, artificial intelligence could have a surprising answer for you – as seen in the soon-to-be-launched HONOR Magic5 Pro (opens in new tab) . Its new AI capability helped capture this incredible image of a Guinness World Record being set on the basketball court. And that's without any photographer behind the lens. So imagine what it could do for your own shots?  Now we can't claim to break a world record like this basketball player, but soon we'll be taking some impossible shots of our own.
+
+
+***
+![Metaphor's Warzone 2 MX9 loadout is an overpowered sniper-support in Battle Royale](https://staticg.sportskeeda.com/editor/2023/02/c3d5e-16762928032242-1920.jpg "Metaphor's Warzone 2 MX9 loadout is an overpowered sniper-support in Battle Royale")
+
+
+[Metaphor's Warzone 2 MX9 loadout is an overpowered sniper-support in Battle Royale](https://www.sportskeeda.com/esports/metaphor-s-warzone-2-mx9-loadout-overpowered-sniper-support-battle-royale)
+
+
+> The gunsmith system of Call of Duty: Warzone 2 allows players to tune their weapons in a variety of ways to tackle the various combat scenarios of Battle Royale matches. While the weapons in the SMG category of Warzone 2 are mainly used for close-range combat, there are a few whose effective damage range extends to mid-range as well. These particular picks, despite being non-meta weaponry, can act as very effective sniper-support platforms in the hands of skilled players. Warzone 2 pro streamer and content creator Metaphor has recommended players to try the MX9 SMG as a sniper support due to its higher damage range than others in its category.
+
+
+***
+![Protein degraders enter the clinic — a new approach to cancer therapy](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41571-023-00736-3/MediaObjects/41571_2023_736_Fig1_HTML.png "Protein degraders enter the clinic — a new approach to cancer therapy")
+
+
+[Protein degraders enter the clinic — a new approach to cancer therapy](https://www.nature.com/articles/s41571-023-00736-3)
+
+
+> Savage, D. G. & Antman, K. H. Imatinib mesylate–a new oral targeted therapy. N. Engl. J. Med. 346, 683–693 (2002). Bedard, P. L., Hyman, D. M., Davids, M. S. & Siu, L. L. Small molecules, big impact: 20 years of targeted therapy in oncology. Lancet 395, 1078–1088 (2020). Zhong, L. et al. Small molecules in targeted cancer therapy: advances, challenges, and future perspectives. Signal Transduct. Target. Ther. 6, 201 (2021). Neklesa, T. K., Winkler, J. D. & Crews, C. M. Targeted protein degradation by PROTACs.
+
+
+***
+![Is Wild Hearts on EA Play Pro?](https://www.theloadout.com/wp-content/sites/theloadout/2023/02/is-wild-hearts-on-ea-play-pro.jpg "Is Wild Hearts on EA Play Pro?")
+
+
+[Is Wild Hearts on EA Play Pro?](https://www.theloadout.com/wild-hearts/ea-play-pro)
+
+
+> For those wanting to become a Kemono hunter, you may be wondering whether Wild Hearts is on EA Play Pro as part of your subscription. Callum Self Published: Feb 13, 2023 Wild Hearts All hunters are welcome to take on the vicious Kemono in the land of Azuma, but some of you are likely wondering if Wild Hearts is on EA Play Pro . Of course, playing a new game is always exciting, but playing it as part of your ongoing subscription is even better. Since Wild Hearts isn't on Game Pass , it is safe to worry that you may not get access with EA Play Pro.
+
+
+***
+![5 Ways to Open the Ease of Access Center on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/PC-screen-showing-settings.jpg "5 Ways to Open the Ease of Access Center on Windows")
+
+
+[5 Ways to Open the Ease of Access Center on Windows](https://www.makeuseof.com/open-ease-of-access-center-windows/)
+
+
+> The Ease of Access Center comprises various settings that can make your Windows computer easier to use. For example, this tool allows you to adjust your screen's brightness, change the sizes of your apps, personalize your desktop, and more But how do you open the Ease of Access Center? Let's find out. 1. Use a Keyboard Shortcut You can easily access most of your apps by using the Windows keyboard shortcuts . If you want to open the Ease of Access Center quickly, press Win + U . Alternatively, use the on-screen keyboard by following these steps: Type On-Screen Keyboard in the Start menu search bar and select the Best match .
+
+
+***
+![Chinese spy balloon exposes US vulnerability to EMP attacks](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17qJgy.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Chinese spy balloon exposes US vulnerability to EMP attacks")
+
+
+[Chinese spy balloon exposes US vulnerability to EMP attacks](http://www.msn.com/en-us/news/technology/chinese-spy-balloon-exposes-us-vulnerability-to-emp-attacks/ar-AA17q1w6)
+
+
+> A 200-foot balloon from China entered United State air space over Alaska and floated all the way across the nation and over the Carolina coastline before it was finally shot down by the U.S. military over the Atlantic Ocean. The United States says the vessel was a 'high altitude surveillance balloon.' China says it was a civilian weather balloon that went off track. Information about what this device was doing or what data it was collecting has not been forthcoming. Load Error If the object was, indeed, a weather balloon, it is odd that its off-track path took it over specific sensitive military bases.
+
+
+***
+[Groundbreaking Executive Dashboard from CyberSaint Bridges the Gap Between CISOs, the C-Suite, and Board of Directors](http://www.businesswire.com/news/home/20230213005184/en/Groundbreaking-Executive-Dashboard-from-CyberSaint-Bridges-the-Gap-Between-CISOs-the-C-Suite-and-Board-of-Directors/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOSTON--(BUSINESS WIRE)--CyberSaint, the leader in cyber risk management, today announced the release of its Executive Dashboard. CyberSaint is first-to-market with this new feature, allowing Chief Information Security Officers (CISOs) to present their cyber risk posture to the rest of the C-suite and Board of Directors in a credible, financially quantifiable manner that enables informed decision-making. The Executive Dashboard is just the latest in a line of innovative features offered by Cybe
+
+
+***
+![New highs for the EURUSD. What next?](https://images.forexlive.com/images/EURUSD_id_2115b49f-2b59-4706-ad61-22945f1a7e58_size900.jpg?v=1676302884829 "New highs for the EURUSD. What next?")
+
+
+[New highs for the EURUSD. What next?](https://www.forexlive.com/technical-analysis/new-highs-for-the-eurusd-20230213/)
+
+
+> The falling 100 hour MA and swing area are in traders sights on the topside now EURUSD moves to a new session high The EURUSD EUR/USD The EUR/USD is the currency pair encompassing the European Union's single currency, the euro (symbol €, code EUR), and the dollar of the United States (symbol $, code USD). The pair's rate indicates how many euros are needed in order to purchase one dollar. For example, when the EUR/USD is trading at 1.2, it means 1 euro is equivalent to 1.2 dollars.
+
+
+***
+![Figment 2: Creed Valley gets new trailer one month ahead of launch](https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico "Figment 2: Creed Valley gets new trailer one month ahead of launch")
+
+
+[Figment 2: Creed Valley gets new trailer one month ahead of launch](https://www.gamespress.com/Figment-2-Creed-Valley-gets-new-trailer-one-month-ahead-of-launch)
+
+
+> Bedtime Digital Games , a Danish independent and award-winning studio, revealed today their new trailer for Figment 2: Creed Valley ! The surreal action-adventure title will be launching March 9th 2023 for PC (Steam, Epic Games Store), Nintendo Switch, PlayStation and Xbox simultaneously.    This new trailer, a mix of 3D animation and new exclusive gameplay, has been made by Menhir FX - a 3D animation studio known for its wonderful work with big names of the video game industry like Call of Duty or Mario + Rabbids: Sparks of Hope .
+
+
+***
+![Wild Hearts is janky, derivative, and utterly bizarre – but I can't stop playing it](https://cdn.mos.cms.futurecdn.net/pZ5wXUuKdMsrCzhRnks4TY-1200-80.jpg "Wild Hearts is janky, derivative, and utterly bizarre – but I can't stop playing it")
+
+
+[Wild Hearts is janky, derivative, and utterly bizarre – but I can't stop playing it](https://www.techradar.com/features/wild-hearts-is-janky-derivative-and-utterly-bizarre-but-i-cant-stop-playing-it)
+
+
+> I've always wanted to love the Monster Hunter games. From its pseudo-MMO trappings to the promise of an epic beast-slaying spectacle, on paper, it's everything I want in a video game. Yet despite my best attempt to brandish its ludicrously oversized weapons, the series never quite clicked. Diving in with the barebones Monster Hunter 3 Ultimate and then again with 2017's menu-littered Monster Hunter World , I left the impenetrable early game yearning for a more accessible entry point into the monster murderthon.
+
+
+***
+![Samsung Galaxy A34 Specifications Leak; Dimensity 900, 48MP Camera, IP67 Rating & More](https://www.gizmochina.com/wp-content/uploads/2023/02/Samsung-Galaxy-A34-5G-render.webp "Samsung Galaxy A34 Specifications Leak; Dimensity 900, 48MP Camera, IP67 Rating & More")
+
+
+[Samsung Galaxy A34 Specifications Leak; Dimensity 900, 48MP Camera, IP67 Rating & More](https://www.gizmochina.com/2023/02/13/samsung-galaxy-a34-specifications-leak)
+
+
+> Samsung Galaxy A34's launch is nearing and an official announcement may arrive any day now. Over the past few weeks, various leaks and rumors have revealed many details about the upcoming mid-ranger but a lot is still unknown. That changes now as a popular tipster has shared the full specifications of the unannounced Galaxy A34. Let's have a closer look at the details. Galaxy A34 is expected to arrive as the successor to the Galaxy A33. It will sit right below the higher-end Galaxy A54 and offer some impressive features out of the box.
+
+
+***
+![Finally, WhatsApp Web will allow us to send photos without losing quality from the computer](https://i.blogs.es/710f64/fotos-whatsapp-sin-comprimir/840_560.jpeg "Finally, WhatsApp Web will allow us to send photos without losing quality from the computer")
+
+
+[Finally, WhatsApp Web will allow us to send photos without losing quality from the computer](https://www.world-today-news.com/finally-whatsapp-web-will-allow-us-to-send-photos-without-losing-quality-from-the-computer/)
+
+
+> One of the easiest ways to send photos from one device to another is to do it through WhatsApp. However, until now these photographs could not be sent at full resolution. Neither in the mobile version nor in WhatsApp Web and WhatsApp Desktop. Taking into account that half a year ago the file limit was increased to 2 GB, leaving behind 100 MB, it was to be expected that soon they could be sent without losing an iota of quality. and while the beta of WhatsApp for mobiles already showed this path It seems that WhatsApp Web is also on the way to incorporating this function.
+
+
+***
+![From Internet Phone Book to Traffic Controller: The Future of DNS](https://www.intelligentcio.com/me/wp-content/uploads/sites/12/2023/02/AdobeStock_169858425-scaled.jpeg "From Internet Phone Book to Traffic Controller: The Future of DNS")
+
+
+[From Internet Phone Book to Traffic Controller: The Future of DNS](https://www.intelligentcio.com/me/2023/02/13/from-internet-phone-book-to-traffic-controller-the-future-of-dns/)
+
+
+> Mohammed Al-Moneer, Sr. Regional Director, META, Infoblox says decentralised working requires thorough, secure DNS management. Where is your data stored? Where is the software located? You used to be able to answer these questions by pointing to the cabinet where your server was located. Today it is more difficult. Is it on your own server(s)? In the cloud? Both, everywhere and nowhere? Without Domain Name System (DNS) you have no idea. In a world in which organisations increasingly work decentralised, it becomes all the more important that you arrive at the right destinations.
+
+
+***
+![Wild Hearts is a more sensitive stab at Monster Hunter](https://www.digitaltrends.com/wp-content/uploads/2023/02/wild-hearts.jpg?resize=1200%2C630&p=1 "Wild Hearts is a more sensitive stab at Monster Hunter")
+
+
+[Wild Hearts is a more sensitive stab at Monster Hunter](https://www.digitaltrends.com/gaming/wild-hearts-preview-pre-launch/)
+
+
+> The Koei Tecmo-developed and EA-published monster hunting game Wild Hearts , in which players hunt giant beasts called Kemono with the help of a magical piece of crafting technology called a Karakuri, left an impression on me when I played through its opening hours late last year. Now that I've had time to go hands-on with the final version of the game, I'm even more impressed with its philosophical approach to hunting and the impact it leaves on the environment. Rather than just serving as a hunting simulator or glorifying abuse toward animals, Wild Hearts highlights the balance between nature and life.
+
+
+***
+![Bigscreen Beyond: 127 Gram Visor, 2.6K Per Eye OLED VR Headset With SteamVR Tracking](https://uploadvr.com/wp-content/uploads/2023/02/1-1024x576.png "Bigscreen Beyond: 127 Gram Visor, 2.6K Per Eye OLED VR Headset With SteamVR Tracking")
+
+
+[Bigscreen Beyond: 127 Gram Visor, 2.6K Per Eye OLED VR Headset With SteamVR Tracking](https://uploadvr.com/bigscreen-beyond-weight-specs/)
+
+
+> Darshan Shankar, the founder of VR's leading Internet-powered platform for watching movies together, wrote on Twitter in 2020 of his attempt to make a business out of movie rentals while cutting out pieces of revenue for both movie studios and Facebook. 'Sucks that I've poured 6 years into building software for the Oculus Platform,' the Bigscreen CEO wrote , only to lose '>100% for every dollar of revenue.' Today, Shankar revealed Bigscreen Beyond, a PC-powered wired VR headset scheduled to ship starting later this year.
+
+
+***
+[Dubbing Industry Veteran Annika Rynger Joins TransPerfect](http://www.businesswire.com/news/home/20230213005384/en/Dubbing-Industry-Veteran-Annika-Rynger-Joins-TransPerfect/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK & STOCKHOLM--(BUSINESS WIRE)--TransPerfect, the world's largest provider of language and technology solutions for global business, today announced that industry veteran Annika Rynger has joined the company as Director of Business Development for TransPerfect's MediaNEXT division, which specializes in dubbing, voiceover, and other media localization services. Rynger previously served as CEO of EuroTroll, a top-tier translation and dubbing company specializing in children's content. At E
+
+
+***
+[SEKO Logistics Brings Hassle-Free Returns to Clients in Collaboration with Happy Returns](http://www.businesswire.com/news/home/20230213005071/en/SEKO-Logistics-Brings-Hassle-Free-Returns-to-Clients-in-Collaboration-with-Happy-Returns/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SCHAUMBURG, Ill.--(BUSINESS WIRE)--This partnership makes ecommerce even more convenient and helps SEKO's clients streamline their return and exchange processes.
+
+
+***
+![The Lessons From Cyberwar, Cyber-in-War and Ukraine](https://www.securityweek.com/wp-content/uploads/2023/02/Ukraine-Cyber-War-Russia-1024x576.jpg "The Lessons From Cyberwar, Cyber-in-War and Ukraine")
+
+
+[The Lessons From Cyberwar, Cyber-in-War and Ukraine](https://www.securityweek.com/the-lessons-from-cyberwar-cyber-in-war-and-ukraine/)
+
+
+> The war in Ukraine is the first major conflagration between two technologically advanced powers in the age of cyber. It prompts us to question the nature of modern warfare and the role of cyber in its operation. Here we will look at the use of cyber in the years leading to the kinetic war, and the use of cyber technology on the modern kinetic battlefield. We need to understand the meaning of cyber and the meaning of war, to question whether the two concepts can be separated, and to ask ourselves if we are ever not at war.
+
+
+***
+![Starbucks Rewards Changes: A 'Free' Latte Now Costs Twice as Many Stars](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17q5EB.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=427&y=415 "Starbucks Rewards Changes: A 'Free' Latte Now Costs Twice as Many Stars")
+
+
+[Starbucks Rewards Changes: A 'Free' Latte Now Costs Twice as Many Stars](http://www.msn.com/en-us/news/technology/starbucks-rewards-changes-a-free-latte-now-costs-twice-as-many-stars/ar-AA17ljx8)
+
+
+> Starting today, there are some big changes to Starbucks' rewards program. The number of stars -- the chain's terms for points earned from purchases -- needed to earn free menu items has increased significantly. It now takes 100 stars to get a hot coffee or tea, twice the number needed just last week. Load Error You'll have to rack up 200 stars to get a Frappuccino (up from 150), and a sandwich will take 300 stars instead of 200. "We occasionally need to make changes to ensure the long-term sustainability of the Starbucks Rewards program and to meet the changing needs of our members," a company spokesperson told CNET.
+
+
+***
+[Infinitum Named as a Finalist in the Prestigious 2023 Edison Awards™](http://www.businesswire.com/news/home/20230213005230/en/Infinitum-Named-as-a-Finalist-in-the-Prestigious-2023-Edison-Awards%E2%84%A2/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> AUSTIN, Texas--(BUSINESS WIRE)--Infinitum has been named a finalist in the 2023 Edison Awards. The company is being honored in the Sustainability category for its Aircore EC motor.
+
+
+***
+![Xbox-Owned Studio Double Fine Seemingly Has Two Projects In The Works](https://images.purexbox.com/354f1d0e750e6/1280x720.jpg "Xbox-Owned Studio Double Fine Seemingly Has Two Projects In The Works")
+
+
+[Xbox-Owned Studio Double Fine Seemingly Has Two Projects In The Works](https://www.purexbox.com/news/2023/02/xbox-owned-studio-double-fine-seemingly-has-two-projects-in-the-works)
+
+
+> Late last week, Xbox studio Double Fine Productions uploaded a gargantuan documentary to YouTube detailing the whole development process on 2021's Psychonauts 2. While the 32-part doc is likely littered with tidbits of info on the studio's projects, episode 30 in particular drops a hint on what might be next from the team. Studio head Tim Schafer talks about two other projects that were in the works prior to Psychonauts 2's launch - two projects that at the time had to be halted to allow the whole team to focus on the much-awaited Psychonauts sequel.
+
+
+***
+![There's a Name for the Constant Helplessness You Feel When You Work in Mental Health Care](https://compote.slate.com/images/ba916d49-5695-4ea0-946f-03fdef77796d.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560 "There's a Name for the Constant Helplessness You Feel When You Work in Mental Health Care")
+
+
+[There's a Name for the Constant Helplessness You Feel When You Work in Mental Health Care](https://slate.com/technology/2023/02/moral-injury-mental-health.html)
+
+
+> Welcome to State of Mind , a section from Slate and Arizona State University dedicated to exploring mental health. Follow us on Twitter . 'What do you mean there's no way to get me my medication?' A young college student looked at me across the Zoom video psychiatry appointment, visibly angry, and a little saddened. 'There's a shortage of ADHD drugs, and I'm not even sure when it will end.' I let out an audible sigh, 'It's frustrating, I know.' 'So, then, what do we do?' The patient looks right at me, hoping that I can somehow help him navigate around the barrier.
+
+
+***
+![Elon Musk joked that the UAPs shot down over North America are alien 'friends of mine' as questions remain over their origins](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17qDMw.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=728&y=227 "Elon Musk joked that the UAPs shot down over North America are alien 'friends of mine' as questions remain over their origins")
+
+
+[Elon Musk joked that the UAPs shot down over North America are alien 'friends of mine' as questions remain over their origins](http://www.msn.com/en-us/news/technology/elon-musk-joked-that-the-uaps-shot-down-over-north-america-are-alien-friends-of-mine-as-questions-remain-over-their-origins/ar-AA17qDMH)
+
+
+> The United States on Saturday shot down a balloon spotted floating over the nation and parts of Canada this week that officials said was a Chinese surveillance device. While China maintains the balloon was a civilian airship "used for research, mainly meteorological, purposes," Pentagon officials say it was "being used by the PRC in an attempt to surveil strategic sites in the continental United States." Though the balloon has since been shot down by F22 fighter jets, it captured the country's attention for days with questions of national security and international relations.
+
+
+***
+![VR Veteran Studio Behind 'Bigscreen' Unveils Thin & Light PC VR Headset 'Beyond'](https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2023/02/bigscreen-beyond.jpg "VR Veteran Studio Behind 'Bigscreen' Unveils Thin & Light PC VR Headset 'Beyond'")
+
+
+[VR Veteran Studio Behind 'Bigscreen' Unveils Thin & Light PC VR Headset 'Beyond'](https://www.roadtovr.com/bigscreen-beyond-pc-vr-steam-release-price-specs/)
+
+
+> Facebook Twitter Linkedin Reddit Subscribe The team behind social VR viewing app Bigscreen today unveiled a thin and light PC VR headset that not only promises a few intriguing enthusiast-grade specs, but also a custom-made fit based on a 3D scan of your face. In short, it's a big first for the VR veterans, who are responsible for one of the most beloved VR content viewing platforms. Called Bigscreen Beyond, the $999 headset presents an interesting set of features which are squarely aimed at PC VR enthusiasts: dual OLED microdisplays offering 2,560 × 2,560 per-eye resolution, pancake optics, and 6DOF SteamVR tracking support.
+
+
+***
+![Formula Retro Racing: World Tour](https://assets-prd.ignimgs.com/2023/02/13/formularetroracingworldtourtrailer-ign-blogroll-1676300141266.jpg?width=1280 "Formula Retro Racing: World Tour")
+
+
+[Formula Retro Racing: World Tour](https://www.ign.com/videos/formula-retro-racing-world-tour-official-trailer)
+
+
+> No body in the article.
+
+
+***
+![The Legend of Zelda: Tears of the Kingdom Collector's Edition vorbestellbar](https://www.gameswirtschaft.de/wp-content/uploads/2023/02/The-Legend-of-Zelda-Tears-of-the-Kingdom-CE.jpg "The Legend of Zelda: Tears of the Kingdom Collector's Edition vorbestellbar")
+
+
+[The Legend of Zelda: Tears of the Kingdom Collector's Edition vorbestellbar](https://www.gameswirtschaft.de/angebote/zelda-tears-of-the-kingdom-collectors-edition-vorbestellen/)
+
+
+> The Legend of Zelda: Tears of the Kingdom: Die Collector's Edition lässt sich vorbestellen (Abbildung: Nintendo) Am 12. Mai 2023 erscheint The Legend of Zelda: Tears of the Kingdom für Nintendo Switch: Wie sich die Collector's Edition vorbestellen lässt. The Legend of Zelda: Tears of the Kingdom wird ab dem 12. Mai ausgeliefert und ist die Fortsetzung zum Dauerbrenner The Legend of Zelda: Breath of the Wild – ein Spiel, das quasi zur Grundausstattung vieler Nintendo-Switch-Besitzer zählt.
+
+
+***
+![Square Enix Will Shut Down Echoes of Mana Mobile Game a Year After Release](https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Echoes%20of%20Mana.jpg?itok=17fYGTG4 "Square Enix Will Shut Down Echoes of Mana Mobile Game a Year After Release")
+
+
+[Square Enix Will Shut Down Echoes of Mana Mobile Game a Year After Release](https://techraptor.net/gaming/news/square-enix-will-shut-down-echoes-of-mana-mobile-game-year-after-release)
+
+
+> Today Square Enix announced that it's terminating another mobile game, Echoes of Mana , known as Seiken Densetsu: Echoes of Mana in Japan.  According to the official announcement shared on social media, the game will shut down on May 15, 2023, at 6:00 am UTC. That's just a little over a year after its worldwide release on April 27, 2022.  The announcement comes with an apology from the development team, which strived to provide an "incredible and enjoyable gaming experience" and continued to develop new features and events, yet has come to the conclusion that it would be difficult to maintain the app's experience.
+
+
+***
+![Super Heavy Rocket Test Fires 31 Raptor Engines, Surpassing Legendary Saturn V – ElonX](https://www.elonx.cz/wp-content/uploads/2023/02/FoojzYPaQAAdrcc_SpaceX.jpeg "Super Heavy Rocket Test Fires 31 Raptor Engines, Surpassing Legendary Saturn V – ElonX")
+
+
+[Super Heavy Rocket Test Fires 31 Raptor Engines, Surpassing Legendary Saturn V – ElonX](https://www.world-today-news.com/super-heavy-rocket-test-fires-31-raptor-engines-surpassing-legendary-saturn-v-elonx/)
+
+
+> SpaceX on Thursday conducted the first test ignition of nearly all Raptor engines on a Super Heavy B7 rocket. This was possibly the last major test before Starship's first orbital mission, which is tentatively scheduled for March. How did the B7 test fire go and what's next for SpaceX? The first orbital launch of the Starship spacecraft with the Super Heavy rocket has been delayed many times in recent years, but now it seems that the wait really is coming to an end. One of the last steps that SpaceX needed to perform before the orbital mission was the static ignition of all engines on the Super Heavy B7 carrier.
+
+
+***
+![‘Metroid Prime Remastered' is more than a celebration of Samus Aran's legacy](https://www.nme.com/wp-content/uploads/2023/02/Metroid-Prime-Remastered3.jpg "‘Metroid Prime Remastered' is more than a celebration of Samus Aran's legacy")
+
+
+[‘Metroid Prime Remastered' is more than a celebration of Samus Aran's legacy](https://www.nme.com/features/gaming-features/metroid-prime-remastered-is-more-than-an-overdue-celebration-of-samus-arans-legacy-3397385)
+
+
+> 'T he cosmos. In the vast universe, the history of humanity is but a flash of light from a lone star. The life of a single person should be lost in space and time but among the stars is one light that burns brighter than all others… the light of Samus Aran.' Yup, Nintendo has given Metroid Prime Remastered an oh-so-dramatic introductory cutscene that sets the stage perfectly for one of the most cinematic, theatrical and gripping games Nintendo have ever released. 'Her battles extend beyond her life and etch themselves into the history.
+
+
+***
+![Google Drive gets PDF annotation on Android, here's how to use it](https://static.toiimg.com/thumb/msid-97879820,width-1070,height-580,imgsize-7692,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Google Drive gets PDF annotation on Android, here's how to use it")
+
+
+[Google Drive gets PDF annotation on Android, here's how to use it](https://timesofindia.indiatimes.com/gadgets-news/google-drive-gets-pdf-annotation-on-android-heres-how-to-use-it/articleshow/97879857.cms)
+
+
+> FOLLOW US ON SOCIAL MEDIA Facebook Twitter Instagram KOO APP YOUTUBE
+
+
+***
+![Knives Out but with Muppets](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/Rainbow-Connection-A-Benoit-Blanc-Mystery.png?fit=1200%2C675&ssl=1 "Knives Out but with Muppets")
+
+
+[Knives Out but with Muppets](https://boingboing.net/2023/02/13/knives-out-but-with-muppets.html)
+
+
+> A Muppets caper with Knives Out Detective Benoit Blanc as its sleuth? Yes, please, and thank you! Unfortunately, Rainbow Connection: A Benoit Blanc Mystery isn't a real film, it's just a mashup trailer imagined by Nerdist . Enjoy it anyway. (via Kottke ) Benoit Blanc is back to solve his latest mystery along with a new ensemble of celebrities, the Muppets! This time, Blanc must discover who stole the fabulous Baseball Diamond from Lady Holiday, but only if he can keep up with Kermit and the gang! Who among these felt covered fiends has sticky fingers? Find out in Rainbow Connection – A Benoit Blanc Mystery! The "Mah Nà Mah Nà" song, made famous by the Muppets, actually originated in a racy Italian film from 1968 called Sweden: Heaven and Hell.
+
+
+***
+![Best smartwatch deals for Valentine's Day](https://m-cdn.phonearena.com/images/article/145554-wide-two_1200/Best-smartwatch-deals-for-Valentines-Day.jpg "Best smartwatch deals for Valentine's Day")
+
+
+[Best smartwatch deals for Valentine's Day](https://www.phonearena.com/news/Best-smartwatch-deals-for-Valentines-Day_id145554)
+
+
+> Valentine's Day smartwatch deals for her Refurbished Apple Watch Gen 8 with LTE In Midnight all-around and 16% off. $70 off (16%) $380 $450 Buy at Walmart Apple Watch Gen 8 (45mm, LTE) In a Silver Stainless Steel Case with White Sport Band, and 9% off. $70 off (9%) Buy at Amazon Apple Watch Gen 7 (41mm) Now 14% off and in Starlight Aluminum. $39 off (14%) $249 $287 99 Buy at Walmart Apple Watch Gen 7 Nike Edition (41mm) A Midnight Aluminum variant with an Anthracite Nike Band. Oh, and its with a massive 40% off! $200 off (40%) $299 $499 Buy at Walmart Apple Watch SE (44mm, LTE, 2022) The latest Apple Watch SE can be yours dressed in Starlight and with a 9% discount.
+
+
+***
+![Assassin's Creed Origins' game director has left Ubisoft](https://www.gamereactor.cn/media/92/_2579233b.jpg "Assassin's Creed Origins' game director has left Ubisoft")
+
+
+[Assassin's Creed Origins' game director has left Ubisoft](https://www.world-today-news.com/assassins-creed-origins-game-director-has-left-ubisoft/)
+
+
+> The individual who served as game director for Assassin's Creed Origins, the first Assassin's Creed game to use a broader RPG design style, has announced his departure from Ubisoft Montreal. exist LinkedIn An article in The New York Times revealed that Jean Guesdon is leaving Ubisoft after 17 years at the company, where he worked on the Assassin's Creed brand for the past 17 years. Commenting on the decision, Guesdon said: 'Hello everyone, 2023 will end for me over 17 difficult years at Ubisoft Montreal.
+
+
+***
+[Sunrise Receives FDA Clearance for Its At-home Sleep Apnea Test](http://www.businesswire.com/news/home/20230213005361/en/Sunrise-Receives-FDA-Clearance-for-Its-At-home-Sleep-Apnea-Test/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NAMUR, Belgium--(BUSINESS WIRE)--Sunrise receives FDA clearance for its at-home sleep apnea test. Disposable, multi-night test with single point of contact improves ease of use.
+
+
+***
+![Key Digital Updated Its Wall Plate Keypad—Here's What to Know](https://cdn.mos.cms.futurecdn.net/AeK4wAreAQhgtQTWo4XJ9M-1200-80.jpg "Key Digital Updated Its Wall Plate Keypad—Here's What to Know")
+
+
+[Key Digital Updated Its Wall Plate Keypad—Here's What to Know](https://www.avnetwork.com/news/key-digital-updated-its-wall-plate-keypadheres-what-to-know)
+
+
+> (Image credit: Key Digital) Meet the newly updated Key Digital (opens in new tab) KD-WP8-2. It is an eight-button web-UI-programmable IP control wall plate keypad that fits into a single-gang wall box and is PoE powered.   'The KD-WP8-2 has a clean, unintimidating appearance and intuitive operation that belies the depth of its capabilities,' said DeWayne Rains, Key Digital vice president of sales. 'With no-code programming, buttons can be set up for the user that let them choose a function or set-up with the touch of a button to trigger a background salvo of commands for source selection and configuration parameter management.
+
+
+***
+![Xiaomi 13, 13 Lite, and 13 Pro press images leak as global launch nears](https://static1.pocketlintimages.com/wordpress/wp-content/uploads/2023/01/xiaomi-13-blue2.jpg "Xiaomi 13, 13 Lite, and 13 Pro press images leak as global launch nears")
+
+
+[Xiaomi 13, 13 Lite, and 13 Pro press images leak as global launch nears](https://www.pocket-lint.com/xiaomi-13-13-lite-and-13-pro-press-images-leak-as-global-launch-nears/)
+
+
+> Xiaomi is getting ready to announce as many as three new phones at Mobile World Congress on 26 February and now press images for all of them have now made their debut. With the Xiaomi 13 and Xiaomi 13 Pro already on sale in China, we're waiting for the phones to get a release in the rest of the world later this month. We're also now expecting the Xiaomi 13 Lite to join the mix as well, with the phone offering another budget option for people who don't want to spend the money needed to get into a Xiaomi 13 or Xiaomi 13 Pro.
+
+
+***
+[Registration, Sponsorship and Agenda Details Now Available for Semantic Layer Summit 2023](http://www.businesswire.com/news/home/20230213005357/en/Registration-Sponsorship-and-Agenda-Details-Now-Available-for-Semantic-Layer-Summit-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOSTON--(BUSINESS WIRE)-- #AI--The AtScale Semantic Layer Summit is being held Wednesday, April 26, 2023.
+
+
+***
+![‘Being adaptable is important when working in the field of analytics'](https://www.siliconrepublic.com/wp-content/uploads/2023/02/Shreya_Aggarwal.jpg "‘Being adaptable is important when working in the field of analytics'")
+
+
+[‘Being adaptable is important when working in the field of analytics'](https://www.siliconrepublic.com/people/data-analytics-pwc-shreya-aggarwal)
+
+
+> PwC's Shreya Aggarwal talks to SiliconRepublic.com about her role as a senior manager in data analytics and how the role has evolved as the sector has grown. Shreya Aggarwal is a senior manager working in data analytics at PwC. After completing her engineering degree in biotechnology in India, she began her career as a data analytics consultant. Prior to joining PwC, Aggarwal worked with pharmaceutical and life sciences companies in implementing analytics and AI solutions. 'With over a decade of experience in the analytics field, working for prestigious consulting firms, I have been fortunate to observe the advancement of technology, from traditional data warehousing with on-premise databases to cloud processing and blockchain solutions.
+
+
+***
+![Low frequency neuromuscular electrical stimulation applied to the bulbospongiosus muscle prolongs the ejaculation latency in a rat model](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41443-023-00678-5/MediaObjects/41443_2023_678_Fig1_HTML.png "Low frequency neuromuscular electrical stimulation applied to the bulbospongiosus muscle prolongs the ejaculation latency in a rat model")
+
+
+[Low frequency neuromuscular electrical stimulation applied to the bulbospongiosus muscle prolongs the ejaculation latency in a rat model](https://www.nature.com/articles/s41443-023-00678-5)
+
+
+> Premature ejaculation (PE) is common, but its true pathophysiology is not clear, and treatments are limited. We aimed to investigate the effect of neuromuscular electrical stimulation applied in different modes and frequencies to the bulbospongiosus muscle on ejaculation parameters. In this study, 24 male Wistar albino rats were used. The rats were equally divided into three groups: control, high-frequency burst (HFB) and low-frequency (LF) (n = 8 each). Neuromuscular electrical stimulation was applied to the rats for 30 min.
+
+
+***
+[IAR Unveils an Updated Brand and Name Change to Support Strategic Mission](http://www.businesswire.com/news/home/20230213005369/en/IAR-Unveils-an-Updated-Brand-and-Name-Change-to-Support-Strategic-Mission/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> UPPSALA, Sweden--(BUSINESS WIRE)--IAR launches an updated brand with a new visual identity. At the same time, the name changes to IAR.
+
+
+***
+![How to Choose People Who Can See Your WhatsApp Status, It's Really Easy!](https://fin.co.id/upload/1d9d58952b91088062285dec6f8581b8.jpg "How to Choose People Who Can See Your WhatsApp Status, It's Really Easy!")
+
+
+[How to Choose People Who Can See Your WhatsApp Status, It's Really Easy!](https://www.world-today-news.com/how-to-choose-people-who-can-see-your-whatsapp-status-its-really-easy/)
+
+
+> How to Choose People Who Can See Your WhatsApp Status, It's Really Easy! – WhatsApp (WA) launched a number of new features. One way for users to choose people who can see the status. Starting from choosing who can see the status, the profile ring as a status indicator, status reactions to the choice of WhatsApp status viewers. This feature can be found before the user posts the status without the need to go to the settings or settings options. To set WhatsApp Status, the method is quite easy, as follows: 1.
+
+
+***
+![GBPUSD trades back above 100 hour MA. Can it stay above and push above the 200 hour MA?](https://images.forexlive.com/images/GBPUSD_id_d08bd021-cfdb-4ba4-a2f2-9faa919ab757_size900.jpg?v=1676302880818 "GBPUSD trades back above 100 hour MA. Can it stay above and push above the 200 hour MA?")
+
+
+[GBPUSD trades back above 100 hour MA. Can it stay above and push above the 200 hour MA?](https://www.forexlive.com/technical-analysis/gbpusd-trades-back-above-100-hour-ma-can-it-stay-above-and-push-above-the-200-hour-ma-20230213/)
+
+
+> The 200 hour MA stalled the rise on Thursday GBPUSD tries to stay above the 100 hour MA The GBPUSD GBP/USD The GBP/USD is the currency pair encompassing the United Kingdom's currency, the British pound sterling (symbol £, code GBP), and the dollar of the United States of America (symbol $, code USD). The pair's rate indicates how many US dollars are needed in order to purchase one British pound. For example, when the GBP/USD is trading at 1.5000, it means 1 pound is equivalent to 1.
+
+
+***
+![I Bet You Didn't Know Siri Could Do This on Your iPhone](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15U55G.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "I Bet You Didn't Know Siri Could Do This on Your iPhone")
+
+
+[I Bet You Didn't Know Siri Could Do This on Your iPhone](http://www.msn.com/en-us/news/technology/i-bet-you-didn-t-know-siri-could-do-this-on-your-iphone/ar-AA15B41D)
+
+
+> You can do so much with Siri. If you want to keep it simple, you can place a phone call or send a text message with just your voice, but there are also more complicated tasks that your iPhone's assistant can do, like perform complex math equations and set reminders based on your location. Apple is always adding new commands to Siri, and with the somewhat recent release of iOS 16, there's one particular addition I'm most excited about. Load Error You can finally use your voice to restart your iPhone.
+
+
+***
+[Trine University and MedCerts Collaboration Brings Certifications and College Credits to Students](http://www.businesswire.com/news/home/20230213005084/en/Trine-University-and-MedCerts-Collaboration-Brings-Certifications-and-College-Credits-to-Students/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ANGOLA, Ind.--(BUSINESS WIRE)-- #StrideLearn--Trine University has partnered with MedCerts, an online certification training provider in allied healthcare and information technology, to offer eligible individuals access to their full list of programs. ″We're excited for the opportunity to offer a higher education pathway through Trine to accompany our high-quality healthcare training,' said Craig Sprinkle, CEO at MedCerts, a Stride, Inc. company (NYSE: LRN). 'This partnership builds upon our sha
+
+
+***
+[DirectDefense Promotes Christopher Walcutt to Chief Security Officer](http://www.businesswire.com/news/home/20230213005155/en/DirectDefense-Promotes-Christopher-Walcutt-to-Chief-Security-Officer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DENVER--(BUSINESS WIRE)--DirectDefense, Inc., an information security services company, today announced that Christopher Walcutt has been promoted to Chief Security Officer (CSO), effective immediately. Walcutt will ensure consistent and high-quality information security management throughout the organization. Additionally, he will partner with internal teams across all levels, including the C-suite and operations, to ensure that data is secure and protected within the organization. Walcutt has
+
+
+***
+![AirTag helps track stolen car in US](https://image-prod.iol.co.za/resize/650x366/American-police-were-able-to-track-down-the-stolen-car-because-of-the-owner-s-AirTag-inside-File-picture-Pixabay?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9420ea67-ffc8-5302-94b8-c2cf266609c1&operation=CROP&offset=0x100&resize=1920x1080 "AirTag helps track stolen car in US")
+
+
+[AirTag helps track stolen car in US](https://www.iol.co.za/technology/gadgets/airtag-helps-track-stolen-car-in-us-57528dff-176d-5b9b-887d-5a644d72489e)
+
+
+> Tech giant Apple's AirTag has helped to track a stolen car in the US state of North Carolina. Police were able to track down the stolen car because of the owner's AirTag inside, but the thieves then crashed it during the high-speed chase, reports AppleInsider. Story continues below Advertisement Antar Muhammad's Toyota Camry was stolen by three thieves, which was later discovered by the neighbour's doorbell camera's footage. 'We woke up, and I looked outside and I asked my wife, ‘Hey, do you know your car's no longer in the driveway?'' Muhammad was quoted as saying.
+
+
+***
+![Hogwarts Legacy Demiguise Statues](https://images.immediate.co.uk/production/volatile/sites/3/2023/02/Demiguise-d67c9e2.jpg?resize=620,413 "Hogwarts Legacy Demiguise Statues")
+
+
+[Hogwarts Legacy Demiguise Statues](https://www.radiotimes.com/technology/gaming/hogwarts-legacy-demiguise-statues-moons/)
+
+
+> With over 40 hours of potential gameplay, Hogwarts Legacy is easily the most expansive video game set in the Wizarding World to date. However - as is often the case with games of this scale - there's a lot to miss if you merely run through the story. One such mini quest is collecting the Demiguise statues. These golden figures that resemble a furry ape are holding a moon-shaped ornament, and the more you collect the more you'll upgrade a certain spell. There's also an achievement once you get them all, and we all like those, right? There are 30 of these statues in total.
+
+
+***
+![First Snapdragon 7+ Gen 1 benchmark appearance shows Snapdragon 8+ Gen 1-rivalling performance](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Qualcomm_snapdragon_2_1.jpg "First Snapdragon 7+ Gen 1 benchmark appearance shows Snapdragon 8+ Gen 1-rivalling performance")
+
+
+[First Snapdragon 7+ Gen 1 benchmark appearance shows Snapdragon 8+ Gen 1-rivalling performance](https://www.notebookcheck.net/First-Snapdragon-7-Gen-1-benchmark-appearance-shows-Snapdragon-8-Gen-1-rivalling-performance.693355.0.html)
+
+
+> The Snapdragon 7+ Gen 1 could be a juggernaut. (Source: Qualcomm) Qualcomm launched the Snapdragon 7 Gen 1 last year and looks set to refresh it, with a potential Snapdragon 7+ Gen 1 built on TSMC's 4 nm node. That chipset, internally coded as "SM7475" has now appeared on AnTuTu, with scores that look to rival the Snapdragon 8+ Gen 1. Android Benchmark Leaks / Rumors Smartphone Reportedly shared on Weibo by popular leaker Digital Chat Station, the Snapdragon 7+ Gen 1, breaks the one-million mark on AnTuTu, essentially recording scores in the same ballpark as the Snapdragon 8+ Gen 1.
+
+
+***
+![ChatGPT powered Microsoft Bing refused to write a cover letter for a job, said it is unfair](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/microsoft_bing-sixteen_nine-original.jpg "ChatGPT powered Microsoft Bing refused to write a cover letter for a job, said it is unfair")
+
+
+[ChatGPT powered Microsoft Bing refused to write a cover letter for a job, said it is unfair](https://www.indiatoday.in/technology/news/story/chatgpt-powered-microsoft-bing-refused-to-write-a-cover-letter-for-a-job-said-it-is-unfair-2334269-2023-02-13)
+
+
+> Story highlights Microsoft partnered with OpenAI to integrate ChatGPT into the Bing browser. Google recently launched AI chatbot Bard. Microsoft and Google launched their AI chatbot after ChatGPT gained popularity. Microsoft partnered with OpenAI to integrate ChatGPT into the Bing browser. The tech giant launched the new Bing browser just a day after Google announced its AI chatbot Bard. Now, unlike ChatGPT, Microsoft's new AI chatbot is tuned to prevent any unethical tasks. Recently, folks at Business Insider asked the new Microsoft Bing to write a cover letter for a job but it refused to write one.
+
+
+***
+![Nintendo could be adding ability for players to add Pokemon to Pokemon Stadium](https://i0.wp.com/mynintendonews.com/wp-content/uploads/2023/02/pokemon_stadium.jpg?fit=1600%2C800&ssl=1 "Nintendo could be adding ability for players to add Pokemon to Pokemon Stadium")
+
+
+[Nintendo could be adding ability for players to add Pokemon to Pokemon Stadium](https://mynintendonews.com/2023/02/13/nintendo-could-be-adding-ability-for-players-to-add-pokemon-to-pokemon-stadium/)
+
+
+> Pokemon Stadium is coming soon to the Nintendo 64 app on Nintendo Switch Online + Expansion Pack , which is excellent news, however, there is one glaring issue. Players will not be able to import their own Pokemon into the Nintendo Switch Online version. This was a key feature in the original Nintendo 64 game and will make the Nintendo Switch Online version more difficult for players, as you are unable to raise your own set of Pokemon to use in the game. Interestingly, a member on the Famiboard forums spotted that the Japanese video announcing the inclusion of Pokemon Stadium in the Nintendo Switch Online + Expansion Pack catalogue has been revised and Nintendo has erased the blurb saying ‘Pokemon cannot be transferred to these games.
+
+
+***
+![1980s Paris-Roubaix inspires Battaglin's first gravel bike](https://cdn.mos.cms.futurecdn.net/4PYqKDQnnca9FwdBbmcee5-1200-80.jpg "1980s Paris-Roubaix inspires Battaglin's first gravel bike")
+
+
+[1980s Paris-Roubaix inspires Battaglin's first gravel bike](https://www.cyclingnews.com/news/battaglin-launches-its-first-gravel-bike-in-the-form-of-the-racy-portofino-g/)
+
+
+> (Image credit: Battaglin ) Officina Battaglin has today announced its first foray into the gravel market in the form of the Portofino G, a custom steel bike with oversized lugs and a special-looking 'cromovelato' paint finish.  The Italian brand was founded by former Giro d'Italia and Vuelta a España winner Giovanni Battaglin and his son Alex. It specialises in high-end custom steel bikes and has redesigned its road-going Portofino R road model to create the gravel-going Portofino G.  According to the brand's CEO, Alex Battaglin, the brand wanted to take the comfort of the roadgoing Portofino and transfer it to a gravel platform.
+
+
+***
+![‘The Last of Us' Reveals How Bloaters Come to Life – The Last of Us (HBO Max)](https://www.gamereactor.cn/media/88/_3958813b.jpg "‘The Last of Us' Reveals How Bloaters Come to Life – The Last of Us (HBO Max)")
+
+
+[‘The Last of Us' Reveals How Bloaters Come to Life – The Last of Us (HBO Max)](https://www.world-today-news.com/the-last-of-us-reveals-how-bloaters-come-to-life-the-last-of-us-hbo-max/)
+
+
+> Fair warning, this article contains spoilers for The Last of Us episode 5. If you haven't checked out the latest episode, you might want to check it out before reading it. With the Super Bowl grabbing most of the U.S. attention this week, The Last of Us fans enjoyed an early drop for Episode 5, featuring perhaps the most disgusting Infected yet, in the form of Bloater. https://www.youtube.com/watch?v=GtMnpyNy7R0&t=292s&ab_channel=HBOMax The bloated clicker is by far one of the most memorable things about the show, and it took a lot of work to bring the creature to life.
+
+
+***
+![USDJPY extends higher. Tests January high/swing area](https://images.forexlive.com/images/USDJPY_id_90f989d9-ae92-4547-ae48-e196b5f88488_size900.jpg?v=1676302884650 "USDJPY extends higher. Tests January high/swing area")
+
+
+[USDJPY extends higher. Tests January high/swing area](https://www.forexlive.com/technical-analysis/usdjpy-extends-higher-tests-january-highswing-area-20230213/)
+
+
+> 50% retracement of the move down from the December high USDJPY looks to test the high from January and top of swing The USDJPY has moved higher in trading today as traders worry less about the expected new BOJ Governor Kazuo Ueda's likely policy tilt. The view is he will maintain the ultra loose policy of his predecessor Kuroda. Looking at the 4 hour chart above, the price has extended up toward the swing area between 132.708 and 132.902. The 50% midpoint of the move down from the December 2022 high is also just below that level at 132.
+
+
+***
+![Samsung is all set to introduce the charging bypass feature to more phones – Research Snipers](https://researchsnipers.com/wp-content/uploads/2022/08/The-camera-of-your-Samsung-Galaxy-S22-is-going-to.jpg "Samsung is all set to introduce the charging bypass feature to more phones – Research Snipers")
+
+
+[Samsung is all set to introduce the charging bypass feature to more phones – Research Snipers](https://researchsnipers.com/samsung-is-all-set-to-introduce-the-charging-bypass-feature-to-more-phones)
+
+
+> Samsung has introduced the Galaxy S23 series with some amazing features. Besides the upgraded cameras, display, chipset, and other such features the company introduced an interesting charging bypass feature. The charging bypass feature is associated with improving the gaming experience with the Galaxy S23 series. It is now anticipated that some of these features might be introduced to some previous versions of Galaxy devices. Presently, the tech firm has introduced the Pause USB Power Delivery feature on Galaxy S23, galaxy S23+, and Galaxy S23 Ultra smartphones.
+
+
+***
+![City of Oakland Hit by Ransomware Attack](https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg "City of Oakland Hit by Ransomware Attack")
+
+
+[City of Oakland Hit by Ransomware Attack](https://www.securityweek.com/city-of-oakland-hit-by-ransomware-attack/)
+
+
+> The City of Oakland, California, on Friday announced that it was forced to take some systems offline after falling victim to a ransomware attack. The cyberattack, the city's administration says in an incident notification , started on Wednesday night and led to network outages as a result of systems being disconnected from the internet. While voicemail and other non-emergency services are experiencing interruptions or have been taken offline, no critical or emergency services, such as 911 and fire departments, have been impacted.
+
+
+***
+![Tech & Science Daily podcast: UK ‘ready' to shoot down chinese spy balloons](https://media.zenfs.com/en/evening_standard_239/be3139ae92f9ef43b70b60053d8682b3 "Tech & Science Daily podcast: UK ‘ready' to shoot down chinese spy balloons")
+
+
+[Tech & Science Daily podcast: UK ‘ready' to shoot down chinese spy balloons](https://ca.sports.yahoo.com/news/tech-science-daily-podcast-uk-141502112.html?src=rss)
+
+
+> Rishi Sunak has warned the UK has fighter jets on standby ready to be launched within minutes to shoot down Chinese spy balloons if they are flown over the country. It follows the US military shooting down four flying objects this month, including what is believed to be a Chinese spy balloon, and three unidentified objects. A 26-year-old from Brighton has captured footage of an asteroid flying and exploding over the English Channel in the early hours of Monday morning. The object, which was about 3 feet long and is officially named 2023 CX1, was spotted just before 3am.
+
+
+***
+[Next Generation of Innovators Step Up to Tackle World's Biggest Water Challenges](http://www.businesswire.com/news/home/20230213005349/en/Next-Generation-of-Innovators-Step-Up-to-Tackle-World%E2%80%99s-Biggest-Water-Challenges/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WASHINGTON--(BUSINESS WIRE)-- #LetsSolveWater--Global water technology company Xylem (NYSE: XYL) is supporting emerging technology companies and accelerating the development of breakthrough solutions through its Xylem Innovation Labs commercial accelerator program. Now in its second year, the program has just accepted 10 new startups with a focus on solutions that promote advanced industrial treatment, regulatory compliance, a digital workforce and water system sustainability and decarbonization.
+
+
+***
+[Ultisim Issues An Open Letter to Mark Zuckerberg](http://www.businesswire.com/news/home/20230208005841/en/Ultisim-Issues-An-Open-Letter-to-Mark-Zuckerberg/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CHAPEL HILL, North Carolina--(BUSINESS WIRE)--Ultisim issued an open letter to Mark Zuckerberg today with a direction for the Metaverse. An Open Letter to Mark Zuckerberg: You're Doing the Metaverse Wrong. Here's some pointers from three decades of efforts that preceded you. Dear Mark, Love the enthusiasm. Love the vision. Love the fact that you're putting your money ($100 billion and counting) where your mouth is. But you're doing it wrong. I wrote about the Metaverse in 1995. And many of us h
+
+
+***
+![Samsung Galaxy A34 and A54 5G will be released in the near future, take a peek at the specifications](https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2023/02/13/13/1676291627579.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg "Samsung Galaxy A34 and A54 5G will be released in the near future, take a peek at the specifications")
+
+
+[Samsung Galaxy A34 and A54 5G will be released in the near future, take a peek at the specifications](https://www.world-today-news.com/samsung-galaxy-a34-and-a54-5g-will-be-released-in-the-near-future-take-a-peek-at-the-specifications/)
+
+
+> INSIDEN24.COM – After launching the Galaxy S23 Series, Samsung still has a line of mid-range phones to launch in the near future. In 2022, Samsung launched one of the Samsung A53 5G series which was considered successful in the Indonesian gadget market. Reportedly, as the successor to the Samsung A53 5G series, it will be released in the near future which has received TKDN certificates, namely the Samsung Galaxy A54 5G and including the Samsung Galaxy A34 5G. The Samsung Galaxy A53 5G has a selling price that is quite affordable in the middle class, with specifications that match the selling price.
+
+
+***
+![What is an LLC, And How Do You Start It?](https://researchsnipers.com/wp-content/uploads/2017/06/entrepreneur-landing-v2.jpg "What is an LLC, And How Do You Start It?")
+
+
+[What is an LLC, And How Do You Start It?](https://researchsnipers.com/what-is-an-llc-and-how-do-you-start-it/)
+
+
+> Starting a business is an exciting time. You have big ideas, but starting out isn't always easy if you've never run a business before. It's important to know which type of business structure to use because different structures provide different benefits and drawbacks. Most businesses use one of two business structures: a sole proprietor or an LLC. You may have heard the term LLC but may not know exactly what it is. An LLC, or limited liability company, is a company structure designed to avoid many of the liabilities of a traditional business.
+
+
+***
+[Kontrol Technologies Operating Subsidiary CEM Specialties Inc. receives Additional Orders from New USA Customer](http://www.businesswire.com/news/home/20230213005348/en/Kontrol-Technologies-Operating-Subsidiary-CEM-Specialties-Inc.-receives-Additional-Orders-from-New-USA-Customer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TORONTO--(BUSINESS WIRE)---- $KNR #esg--Kontrol Technologies Operating Subsidiary CEM Specialties receives Additional Orders from New USA Customer; Exclusive Joint Venture Negotiations
+
+
+***
+![Weekly deals: the best smartphone deals from the UK, Germany, the US, Canada and the Netherlands](https://fdn.gsmarena.com/imgroot/news/23/02/deals-13/-952x498w6/gsmarena_000.jpg "Weekly deals: the best smartphone deals from the UK, Germany, the US, Canada and the Netherlands")
+
+
+[Weekly deals: the best smartphone deals from the UK, Germany, the US, Canada and the Netherlands](https://www.gsmarena.com/weekly_deals_the_best_smartphone_deals_from_the_uk_germany_the_us_canada_and_the_netherlands-news-57533.php)
+
+
+> This week Samsung starts shipping its Galaxy S23 smartphone flagships and the new Galaxy Book3 series of laptops, both series feature heavily in this week's deals. Meanwhile, the prices of the Pixel 7 duo has fallen to well below what the S23 cost so the Pixel experience is alluringly cheaper. Use the links below to jump straight to your region: Germany The UK USA Canada The Netherlands UK Amazon has bundled Samsung's new S23 phones with a free pair of Galaxy Buds2 and a free Clear Slim Case.
+
+
+***
+![Black Ceramic All Over: Audemars Piguet Launches Royal Oak Offshore Selfwinding Chronograph](https://www.watchtime.com/wp-content/uploads/2023/02/2023.-Royal-Oak-Offshore-Chronographe-26238CE-e1675713356203.png "Black Ceramic All Over: Audemars Piguet Launches Royal Oak Offshore Selfwinding Chronograph")
+
+
+[Black Ceramic All Over: Audemars Piguet Launches Royal Oak Offshore Selfwinding Chronograph](https://www.watchtime.com/wristwatch-industry-news/black-ceramic-all-over-audemars-piguet-launches-royal-oak-offshore-selfwindig-chronograph/)
+
+
+> Audemars Piguet is celebrating the 30th anniversary of the Royal Oak Offshore Selfwinding Chronograph with a new execution debuting a black ceramic case and matching bracelet. The case has a diameter of 42mm and is water-resistant to 100 meters. Another premiere is the usage of the Petite Tapisserie decor, a variation of the signature pattern which was previously reserved for some references in gold or titanium. The dial presents the same matte black hues as the case, bracelet, push-pieces, bezel, and crown and offers a high legibility.
+
+
+***
+![Galentine's Day: How a Parks and Rec Episode Has Haunted Me for 13 Years](https://iknowallnews.com/wp-content/uploads/2023/02/Galentine039s-Day-How-a-Parks-and-Rec-Episode-Has-Haunted-Me-for-13-Years.jpg "Galentine's Day: How a Parks and Rec Episode Has Haunted Me for 13 Years")
+
+
+[Galentine's Day: How a Parks and Rec Episode Has Haunted Me for 13 Years](https://iknowallnews.com/tv-movies/galentines-day-how-a-parks-and-rec-episode-has-haunted-me-for-13-years/)
+
+
+> Home » TV & Movies » Galentine's Day: How a Parks and Rec Episode Has Haunted Me for 13 Years Season 2, Episode 16 of Parks and Recreation begins with Leslie Knope (Amy Poehler) hosting a celebration for her friends. Not more than 30 seconds into the episode, Leslie gives a mock interview to offer viewers some context. She looks into the camera and asks rhetorically, 'What's Galentine's Day?' And thus, a demented holiday is born. In the 13 years since, Galentine's Day has seeped into public consciousness and slowly destroyed my life.
+
+
+***
+![New cross-border network aims to boost Ireland's rare disease research](https://www.siliconrepublic.com/wp-content/uploads/2023/02/AdobeStock_427381444.jpeg "New cross-border network aims to boost Ireland's rare disease research")
+
+
+[New cross-border network aims to boost Ireland's rare disease research](https://www.siliconrepublic.com/innovation/rare-disease-research-ireland-rain)
+
+
+> With 35 organisations across the island of Ireland, the RAIN project aims improve the care, treatment and management for patients with rare diseases. A new research network has been launched to improve rare disease healthcare across the island of Ireland, with a focus on patient care and collaborative research. The Rare Disease Interdisciplinary Research Network (RAIN) has been created to evaluate the quality of life people living with rare diseases, both in Ireland and internationally. The network aims to be patient-centred, with a focus on children with rare diseases and their specific care needs.
+
+
+***
+![70-Hour Wireless Headphones crossbeats roar](https://cdn.trendhunterstatic.com/thumbs/498/crossbeats-roar.jpeg?auto=webp "70-Hour Wireless Headphones crossbeats roar")
+
+
+[70-Hour Wireless Headphones crossbeats roar](https://www.trendhunter.com/trends/crossbeats-roar)
+
+
+> Ideas Explore the world's #1 largest database of ideas and innovations, with 431,322 inspiring examples. Trend Reports Discover why 1,156 brands rely on our AI-powered Trend Reports to get better, faster insights. Newsletter Join 333,411 subscribers who rely on our weekly newsletter to keep up with need-to-know trends and insights. Consumer Insights Uncover major shifts and emerging opportunities with our exclusive PRO research. Trend Reports Discover why 1,156 brands rely on our AI-powered Trend Reports to get better, faster insights.
+
+
+***
+![The Witcher 3: Wild Hunt's next-gen genitals were an 'unintended consequence,' according to CD Projekt Red – The Witcher 3: Wild Hunt](https://www.gamereactor.cn/media/25/witcher3next_gen_3522563b.jpg "The Witcher 3: Wild Hunt's next-gen genitals were an 'unintended consequence,' according to CD Projekt Red – The Witcher 3: Wild Hunt")
+
+
+[The Witcher 3: Wild Hunt's next-gen genitals were an 'unintended consequence,' according to CD Projekt Red – The Witcher 3: Wild Hunt](https://www.world-today-news.com/the-witcher-3-wild-hunts-next-gen-genitals-were-an-unintended-consequence-according-to-cd-projekt-red-the-witcher-3-wild-hunt/)
+
+
+> Over the past few days, the The Witcher 3: Wild Hunt community has been rocked after discovering that the game's female models had genitals added to them. This was noticed in the few nude character models in the title (including the human version of Crones), which previously used Barbie's doll-like smooth genital area, but when this discovery was made, many thought it was intentional, Because the game doesn't stray far from nudity. However, this does appear to be a bug, as developer CD Projekt Red has now submitted my city An email was sent to clarify the genitals addition, stating that this was going to 'Community Sourced Mods' Mixed in with other enhancements made by the studio 'Unexpected result '。 According to CD Projekt Red: 'The Witcher 3: Next-Gen Edition of Wild Hunt features several community-sourced mods not created by CD PROJEKT RED, in addition to numerous enhancements created and implemented in-house by the studio.
+
+
+***
+![Avoid Being a Downstream Victim of Service Provider Attacks](https://securityintelligence.com/wp-content/uploads/2019/07/SecurityIntelligence-1200x675.jpg "Avoid Being a Downstream Victim of Service Provider Attacks")
+
+
+[Avoid Being a Downstream Victim of Service Provider Attacks](https://securityintelligence.com/articles/avoid-being-victim-of-service-provider-attacks/)
+
+
+> Attacks on service providers are mounting — and so are downstream victims. Earlier this year, some customers of the cloud service provider DigitalOcean received emails instructing them to reset their passwords . These users hadn't actually forgotten their passwords — their email addresses had been compromised in a data breach. But the cybersecurity incident didn't start at DigitalOcean. Instead, the attack started from a MailChimp account. Like many companies, DigitalOcean relies on a third-party email platform for email confirmations, password reset notifications and alerts sent to customers.
+
+
