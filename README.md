@@ -20966,3 +20966,974 @@
 > Attacks on service providers are mounting — and so are downstream victims. Earlier this year, some customers of the cloud service provider DigitalOcean received emails instructing them to reset their passwords . These users hadn't actually forgotten their passwords — their email addresses had been compromised in a data breach. But the cybersecurity incident didn't start at DigitalOcean. Instead, the attack started from a MailChimp account. Like many companies, DigitalOcean relies on a third-party email platform for email confirmations, password reset notifications and alerts sent to customers.
 
 
+***
+![Involving youth in the digital transformation](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/13080333/Mariam-Chaduneli-800x523.jpg "Involving youth in the digital transformation")
+
+
+[Involving youth in the digital transformation](https://shepherdgazette.com/involving-youth-in-the-digital-transformation/)
+
+
+> Above: Mariam Chaduneli. BitDepth#1393 for February 13, 2023 On Wednesday, the Portulans Institute hosted a webinar on youth and digital transformation, drawing on its recent publication of the 2022 Network Readiness Index. The topic touched me very much. I teach a course for college-level students that often reveals a surprising lack of understanding of open Internet protocols and techniques. In a recent case, students had trouble sending me a Universal Resource Locator (URL) to a web page they were asked to create.
+
+
+***
+[Paperspace Joins NVIDIA Cloud Service Provider Partner Program as an Elite Member, Bringing Seamless Accelerated Computing to Developers](http://www.businesswire.com/news/home/20230213005563/en/Paperspace-Joins-NVIDIA-Cloud-Service-Provider-Partner-Program-as-an-Elite-Member-Bringing-Seamless-Accelerated-Computing-to-Developers/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)-- #ai--Paperspace, a leading provider of infrastructure for highly scalable GPU-accelerated applications, today announced that it has joined the NVIDIA Cloud Service Provider partner program's highest tier. This program will enable Paperspace to offer its customers access to state-of-the-art NVIDIA GPUs, including the recently announced NVIDIA H100 Tensor Core GPU, through the Gradient ML platform. 'Foundation models' such as Stable Diffusion and GPT-3 are exploding in
+
+
+***
+![Reverse engineering of the internal ISA used by the Transmeta Crusoe microprocessor](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Reverse engineering of the internal ISA used by the Transmeta Crusoe microprocessor")
+
+
+[Reverse engineering of the internal ISA used by the Transmeta Crusoe microprocessor](https://www.reddit.com/r/programming/comments/111iarb/reverse_engineering_of_the_internal_isa_used_by)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Get Started with Android Authentication Using Kotlin](https://external-preview.redd.it/zta8i2qljhG1xcTMysM1wr176sUukLlgmsrkrkBjtZs.jpg?auto=webp&v=enabled&s=35b90befe4a24151370d201c913b3acb7d4faa93 "Get Started with Android Authentication Using Kotlin")
+
+
+[Get Started with Android Authentication Using Kotlin](https://www.reddit.com/r/programming/comments/111i9h4/get_started_with_android_authentication_using)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Declarative Shadow DOM](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Declarative Shadow DOM")
+
+
+[Declarative Shadow DOM](https://www.reddit.com/r/programming/comments/111i30n/declarative_shadow_dom)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Fire Emblem Heroes A Hero Rises 2023 top characters announced](https://gonintendo.com/attachments/image/23185/file/medium-9169cf100bbe3fa328f5711c3090ab84.webp "Fire Emblem Heroes A Hero Rises 2023 top characters announced")
+
+
+[Fire Emblem Heroes A Hero Rises 2023 top characters announced](https://gonintendo.com/contents/16195-fire-emblem-heroes-a-hero-rises-2023-top-characters-announced)
+
+
+> Ladies and gentlemen, your top 8! Fire Emblem Heroes fans no doubt know that the 6th anniversary event include a Hero Rises 2023 character vote and Voting Gauntlet. Following those events, Nintendo and Intelligent Systems have crunched the numbers and come up with the top 8 characters that will be included. When the Hero Rises 2023 Voting Gauntlet wraps, the character who wins will be a free distribution for all players, and the top four will be part of a special summon event.
+
+
+***
+![Wordle 605 answer for today: Here is the Wordle answer for February 14](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/13/2572749-wordle.jpg "Wordle 605 answer for today: Here is the Wordle answer for February 14")
+
+
+[Wordle 605 answer for today: Here is the Wordle answer for February 14](https://www.dnaindia.com/technology/report-wordle-605-answer-for-today-here-is-the-wordle-answer-for-february-14-3023572)
+
+
+> Wordle 605 answer for today: Here is the Wordle answer for February 14 Wordle puzzle game gained a meteoric rise during the pandemic. Invented by software engineer Josh Wardle, the online game is quite addictive and it has become for millions of players across the globe. The game is web-based and does not require any additional app or software. In the Wordle puzzle game, you have to correctly guess a pre-selected word by making random word guesses and taking the hints. Every midnight, Wordle refreshes its word of the day and you get six attempts to guess the correct word.
+
+
+***
+![Mambu Will Ensure Pension Management Firm INDEXO with Digital Financial Service Tech](https://www.crowdfundinsider.com/wp-content/uploads/2022/06/Mambu-2022.jpeg "Mambu Will Ensure Pension Management Firm INDEXO with Digital Financial Service Tech")
+
+
+[Mambu Will Ensure Pension Management Firm INDEXO with Digital Financial Service Tech](https://www.crowdfundinsider.com/2023/02/202438-mambu-will-ensure-pension-management-firm-indexo-with-digital-financial-service-tech)
+
+
+> INDEXO, the pension management company that is now working on its new bank project, has selected its key banking technology platform – Mambu, a cloud-native banking platform already in use by banking institutions including Raiffeisen Bank, ABN AMRO's New10, N26, Western Union and others. Mambu will 'ensure INDEXO with key digital financial service technology – current accounts, payments, consumer deposit and lending functionality, as well as allow to develop the future service portfolio as the new bank expands into new product segments.
+
+
+***
+![New details and footage share for Xenoblade Chronicles 3's Archsage's Gauntlet](https://gonintendo.com/attachments/image/23183/file/medium-c359002e2c546d10387981af69ff4b0e.jpg "New details and footage share for Xenoblade Chronicles 3's Archsage's Gauntlet")
+
+
+[New details and footage share for Xenoblade Chronicles 3's Archsage's Gauntlet](https://gonintendo.com/contents/16194-new-details-and-footage-share-for-xenoblade-chronicles-3-s-archsage-s-gauntlet)
+
+
+> As we've previously mentioned, the third wave of Xenoblade Chronicles 3's Expansion Pass includes Challenge Battles called the Archsage's Gauntlet. In Archsage's Gauntlet, you start by choosing one character (among the 6 party members), and then you take on waves of enemies. Each time you score a victory, you get special items and Heroes. You can choose up to 6 Heroes, and knowing which Heroes and items to get (and when!) is key to victory. Completing battles in Archsage's Gauntlet nets you Nopon Crystals, which can be traded for powerful accessories and Enigmatter, a unique material Masha can use to craft accessories.
+
+
+***
+![Splatoon 3's Jelonzo and Fred Crumbs profiled](https://gonintendo.com/attachments/image/23182/file/medium-0ec419c9de160df36279bafe185d751d.png "Splatoon 3's Jelonzo and Fred Crumbs profiled")
+
+
+[Splatoon 3's Jelonzo and Fred Crumbs profiled](https://gonintendo.com/contents/16193-splatoon-3-s-jelonzo-and-fred-crumbs-profiled)
+
+
+> During last week's Nintendo Direct, we found out that Splatoon 3 is getting an Expansion Pass with two different waves. The first wave includes Inkopolis, the splat-tastic place from the original Splatoon you'll now be able to return to. Over the past several years, Inkopolis Plaza has changed with some new shopkeepers. Of course, there's some familiar faces hanging out as well. In preparation for the return of Inkopolis Plaza, Nintendo is sharing profiles for some of the characters you'll meet when you visit.
+
+
+***
+![Tory deputy chair Lee Anderson facing libel proceedings](https://iknowallnews.com/wp-content/uploads/2023/02/Tory-deputy-chair-Lee-Anderson-facing-libel-proceedings.jpg "Tory deputy chair Lee Anderson facing libel proceedings")
+
+
+[Tory deputy chair Lee Anderson facing libel proceedings](https://iknowallnews.com/world-news/tory-deputy-chair-lee-anderson-facing-libel-proceedings/)
+
+
+> Top legal firm instructed to pursue libel proceedings against Lee Anderson It's the latest row to involve the Ashfield MP since he became Tory deputy chair  A top legal firm has been instructed to pursue libel proceedings against new Tory deputy chairman Lee Anderson amid a local planning row. Bindmans LLP revealed its client, Michael Hollis, considered remarks the Ashfield MP made about a planning application to be defamatory. The firm claimed Mr Hollis, who runs a food bank charity, was ‘outraged' by an allegation made against him by Mr Anderson in a Facebook post.
+
+
+***
+![Astronomers Spot Asteroid Hours Before Impacting Earth and Turning Into a Fireball](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17r9F3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Astronomers Spot Asteroid Hours Before Impacting Earth and Turning Into a Fireball")
+
+
+[Astronomers Spot Asteroid Hours Before Impacting Earth and Turning Into a Fireball](http://www.msn.com/en-us/news/technology/astronomers-spot-asteroid-hours-before-impacting-earth-and-turning-into-a-fireball/ar-AA17rhYZ)
+
+
+> It may be one of the most widely observed space rocks that no one even knew existed just a day earlier. An asteroid officially designated 2023 CX1 (it also went by the temporary label Sar2667 during its approach toward Earth) was discovered Sunday evening by an observatory in Hungary and seven hours later was burning up as a brilliant fireball over the English Channel before a potential audience of millions. This marks just the seventh time ever that a meteoroid has actually been spotted in space before it impacted the atmosphere, according to the European Space Agency.
+
+
+***
+![iOS 16.3.1 is Out. Here's What's In the Update](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12p1eF.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "iOS 16.3.1 is Out. Here's What's In the Update")
+
+
+[iOS 16.3.1 is Out. Here's What's In the Update](http://www.msn.com/en-us/news/technology/ios-16-3-1-is-out-here-s-what-s-in-the-update/ar-AA17rxhS)
+
+
+> Apple released iOS 16.3.1 on Monday, a few weeks after the release of iOS 16.3. While the previous release included new features like security keys for Apple ID and support for the second-generation HomePod, the latest update fixes some issues iPhone users might have run into. Load Error Here's what's included in Apple's iOS 16.3.1 update. The latest iOS update includes bug fixes and security updates that address issues with iCloud, Siri, Find My and crash detection. Some users on Reddit and Twitter have said they haven't been able to backup to iCloud after the release of iOS 16.
+
+
+***
+![Strange lights spotted over Ontario were not UFOs but actually just Elon Musk](https://media.blogto.com/articles/20230213-ufo-starlink-ontario.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70 "Strange lights spotted over Ontario were not UFOs but actually just Elon Musk")
+
+
+[Strange lights spotted over Ontario were not UFOs but actually just Elon Musk](https://www.blogto.com/tech/2023/02/strange-lights-over-ontario-ufos-elon-musk/)
+
+
+> Once relegated to the fringes of tinfoil hat-wearing society, UFOs have been catapulted into the mainstream discourse after a series of high-profile shootdowns, the most recent one occurring right here in Ontario on Sunday afternoon . So people were naturally a bit on edge Sunday evening when a train of mysterious lights was spotted moving across the night sky over much of Ontario, including Toronto. The linear path of glittering lights moving quickly across the sky may have looked like something "unidentified" to the untrained eye, but those in the know were quick to point out that this was, in fact, a "satellite constellation" in orbit as part of the Starlink program from controversial billionaire Elon Musk .
+
+
+***
+![New funding proposal aims to reduce bottlenecks on Upper Mississippi River](https://scx2.b-cdn.net/gfx/news/2023/new-funding-proposal-a.jpg "New funding proposal aims to reduce bottlenecks on Upper Mississippi River")
+
+
+[New funding proposal aims to reduce bottlenecks on Upper Mississippi River](https://techxplore.com/news/2023-02-funding-aims-bottlenecks-upper-mississippi.html)
+
+
+> Graphic collage inspired by the locks and dams of the Upper Mississippi River Basin. Credit: Deb Berger/Iowa State University. On the Upper Mississippi River, a system of locks and dams keeps the artery between Minneapolis and St. Louis open and the U.S. economy pumping. Barges haul around 175 million tons of freight, including 60% of the country's grain exports, across the waterway each year. But decades of use, freeze-and-thaw cycles and floods have taken a toll on infrastructure 30 years past its life expectancy.
+
+
+***
+![Technologies That Have a Brighter Future for Online Gambling](https://lyncconf.com/wp-content/uploads/2023/02/Different-Technologies-That-Have-a-Brighter-Future-for-Online-Gambling.jpg "Technologies That Have a Brighter Future for Online Gambling")
+
+
+[Technologies That Have a Brighter Future for Online Gambling](https://lyncconf.com/technologies-that-have-a-brighter-future-for-online-gambling/)
+
+
+> Casinos are unquestionably one of the most lucrative industries in the world. According to Grand View Research, it's predicted that worldwide gambling revenue will reach $153.6 billion by 2030. So, what is fuelling this expansion? It could be argued that the entrance into new markets, such as US states like New Jersey, Pennsylvania, Michigan, Delaware, Connecticut, and West Virginia is one reason. However, there is no doubt that technology has also been a key driver in pushing forward the online gambling industry.
+
+
+***
+![RUMOR: Updated Switch Online video might hint at classic Pokémon games incoming](https://gonintendo.com/attachments/image/23181/file/medium-6b6018e54d682ea54bd06b8ff7205e36.jpg "RUMOR: Updated Switch Online video might hint at classic Pokémon games incoming")
+
+
+[RUMOR: Updated Switch Online video might hint at classic Pokémon games incoming](https://gonintendo.com/contents/16192-rumor-updated-switch-online-video-might-hint-at-classic-pokemon-games-incoming)
+
+
+> Nintendo fans are some of the most perceptive there are in gaming. No matter how big or small a move Nintendo makes, fans are there to scour every aspect of it. That's exactly what happened with Nintendo's latest Switch Online video, and fans think a small change is hinting at big news. Nintendo has released an updated version of their Switch Online promo video in Japan, and eagle-eyed viewers noticed some small difference between this version and the last one Nintendo put out. During the Pokémon Stadium segment, the original video included a disclaimer saying players couldn't transfer Pokémon into Pokémon Stadium.
+
+
+***
+![How the U.S. Government Made Pilots Too Embarrassed to Admit They'd Seen UFOs](https://compote.slate.com/images/e9a71dab-a4aa-4569-872c-8b0a4b103134.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560 "How the U.S. Government Made Pilots Too Embarrassed to Admit They'd Seen UFOs")
+
+
+[How the U.S. Government Made Pilots Too Embarrassed to Admit They'd Seen UFOs](https://slate.com/technology/2023/02/ufos-uaps-shootdowns-natgeo.html)
+
+
+> Over the Super Bowl weekend, the U.S. shot down at least three UFOs , or as they're now called, UAPs (unidentified aerial phenomena). The first was spotted over Alaska and the second over Canada, and Canadian Prime Minister Justin Trudeau and U.S. President Joe Biden agreed on the action. A third was downed over Lake Huron. A CNN segment about one of the objects features a common refrain: that 'not even the pilots could identify what they saw,' largely because the UFO had no visible means of staying airborne.
+
+
+***
+![RAN revenue on the decline until 6G comes along: report](https://qtxasset.com/quartz/qcloud4/media/image/fierceelectronics/1637953678/Globe%20world%20network%20connectivity_credit%20Pixabay.jpg/Globe%20world%20network%20connectivity_credit%20Pixabay.jpg?VersionId=n8avlFoHT3VmoAdZVSjY384PTgxKSQ1V "RAN revenue on the decline until 6G comes along: report")
+
+
+[RAN revenue on the decline until 6G comes along: report](https://www.fiercewireless.com/tech/ran-revenue-decline-until-6g-comes-along-report)
+
+
+> What are you searching for? Enclose phrases in quotes. Use a + to require a term in results and - to exclude terms. Example: +water -Europe
+
+
+***
+![Donkey Kong is the focus of the latest Super Mario Bros. movie poster](https://gonintendo.com/attachments/image/23180/file/medium-e843c4695c5568709a34e56aad865426.jpg "Donkey Kong is the focus of the latest Super Mario Bros. movie poster")
+
+
+[Donkey Kong is the focus of the latest Super Mario Bros. movie poster](https://gonintendo.com/contents/16191-donkey-kong-is-the-focus-of-the-latest-super-mario-bros-movie-poster)
+
+
+> You're now imagining Seth Rogen's laugh For those who are keeping track, we've seen the reveal of four new Super Mario Bros. movie posters today. We had two Bowser posters, a Toad poster, and now yet another poster has arrived. This one puts the attention squarely on Mario's original foil, Donkey Kong. Donkey Kong, seen above smashing a barrel of bananas, is being portrayed by Seth Rogen in the film. There's no doubt that Rogen's look and humor has been applied to Donkey Kong's design, and the outcome is both unique and familiar.
+
+
+***
+![RUMOR: The Legend of Zelda: Tears of the Kingdom may be bringing back a classic Zelda enemy](https://gonintendo.com/attachments/image/23178/file/medium-45c08749bb8f62b0733af910dee66e56.jpg "RUMOR: The Legend of Zelda: Tears of the Kingdom may be bringing back a classic Zelda enemy")
+
+
+[RUMOR: The Legend of Zelda: Tears of the Kingdom may be bringing back a classic Zelda enemy](https://gonintendo.com/contents/16190-rumor-the-legend-of-zelda-tears-of-the-kingdom-may-be-bringing-back-a-classic-zelda)
+
+
+> The Legend of Zelda diehard fans have been poring every asset Nintendo has released for Tears of the Kingdom, and that includes the new trailer and round of screens that dropped after last week's Nintendo Direct. It's one moment in that trailer in particular, which Nintendo also shared as a screen, that is getting Zelda fans really excited. You can see that particular moment above, which shows off a dark, stormy night in Hyrule. On the right-hand side of the image you can see a rather ominous-looking monster.
+
+
+***
+![Gunman accidentally shot his friend and dumped his body by roadside](https://iknowallnews.com/wp-content/uploads/2023/02/Gunman-accidentally-shot-his-friend-and-dumped-his-body-by-roadside.jpg "Gunman accidentally shot his friend and dumped his body by roadside")
+
+
+[Gunman accidentally shot his friend and dumped his body by roadside](https://iknowallnews.com/world-news/gunman-accidentally-shot-his-friend-and-dumped-his-body-by-roadside/)
+
+
+> Home » World News » Gunman accidentally shot his friend and dumped his body by roadside Mohamed Muhyidin was found in a ditch near Heathrow with a gunshot wound He was accidentally shot and killed by Chiragh Amir Chiragh on Halloween, 2021 Associate Mohammed Shakeel was found guilty of perverting course of justice A gunman accidentally shot his friend with a submachine gun while sitting in a car then dumped his body by the roadside – in a scene similar to cult movie Pulp Fiction. Chiragh Chiragh, 39, gunned down Mohamed Muhyidin, 28, as he sat in the front passenger seat of a car parked outside a flat in High Street, Harlington, west London in the early hours of Halloween morning in 2021.
+
+
+***
+![I'm a curvy farmer – I don't wear many clothes to work unless it's cold out, all eyes are on me](https://www.the-sun.com/wp-content/uploads/sites/6/2023/02/5566fc7b-7611-4e99-9f5c-5239e85d5fa9.jpg "I'm a curvy farmer – I don't wear many clothes to work unless it's cold out, all eyes are on me")
+
+
+[I'm a curvy farmer – I don't wear many clothes to work unless it's cold out, all eyes are on me](https://iknowallnews.com/fashion/im-a-curvy-farmer-i-dont-wear-many-clothes-to-work-unless-its-cold-out-all-eyes-are-on-me-the-sun/)
+
+
+> Home » Fashion » I'm a curvy farmer – I don't wear many clothes to work unless it's cold out, all eyes are on me | The Sun WHEN you picture a farmer, you may be imagining a person in overalls, a plaid shirt, and dirty boots. One woman has shared that she only gets dressed to work on the farm when the temperatures drop – otherwise, she prefers staying natural. During a day on the farm, Pennsylvania-based Shelby (@allaroundfarmer) took a quick break to capture her outfit. Her ensemble captured the hearts of commenters who came for the farming content and stayed for Shelby's curves.
+
+
+***
+![Toad gets the spotlight in a new Super Mario Bros. movie poster](https://gonintendo.com/attachments/image/23176/file/medium-25a950d535926ecd1cb27a7e0785b344.jpg "Toad gets the spotlight in a new Super Mario Bros. movie poster")
+
+
+[Toad gets the spotlight in a new Super Mario Bros. movie poster](https://gonintendo.com/contents/16188-toad-gets-the-spotlight-in-a-new-super-mario-bros-movie-poster)
+
+
+> I don't know what's going on at Illumination and Nintendo, but they've decided to go absolutely nuts with posters for the Super Mario Bros. movie lately. We must have gotten close to 10 in the last week alone, and another one literally popped up just minutes ago! Those who watched the Super Mario Bros. ‘plumbing commercial' that released yesterday noticed it included a phone number you could call or text. If you texted the number, you had the chance to sign up for promotional materials and more.
+
+
+***
+![Rad Power Bikes' RadWagon 4 Is Back On Sale After Recall](https://cdn.motor1.com/images/mgl/VzOjGR/s1/rad-power-bikes-radwagon-4-is-back-on-sale-after-recall.jpg "Rad Power Bikes' RadWagon 4 Is Back On Sale After Recall")
+
+
+[Rad Power Bikes' RadWagon 4 Is Back On Sale After Recall](https://insideevs.com/news/652133/rad-power-bikes-radwagon4-back-after-recall/)
+
+
+> Rad Power bikes is one of the more popular e-bike makers in the U.S. market, and is known for its convenient, practical, and affordable models. We've talked about the brand quite a bit previously, as well as the wide selection of models it has in its catalog. That said, the brand has re-introduced the RadWagon 4, following a recall issued in November of 2022, which forced the company to temporarily put it out of commission. The recall wasn't all that major when it came to the mechanicals of the bike, but it was serious enough that it could cause an accident in certain situations.
+
+
+***
+[G2 Selects Redstor in Four Categories for 2023 Best Software Awards](http://www.businesswire.com/news/home/20230213005537/en/G2-Selects-Redstor-in-Four-Categories-for-2023-Best-Software-Awards/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ST. PETERSBURG, Fla.--(BUSINESS WIRE)--Redstor announced it has been named to G2's 2023 Best Software Awards in four categories.
+
+
+***
+![Econet to introduce digital KYC amid rising cyber fraud concerns](https://i0.wp.com/www.thezimbabwemail.com/wp-content/uploads/2020/02/Phone.png?fit=701%2C380&ssl=1 "Econet to introduce digital KYC amid rising cyber fraud concerns")
+
+
+[Econet to introduce digital KYC amid rising cyber fraud concerns](https://www.thezimbabwemail.com/technology-science/econet-to-introduce-digital-kyc-amid-rising-cyber-fraud-concerns/)
+
+
+> Home Science & Technology Econet to introduce digital KYC amid rising cyber fraud concerns Zimbabwean telecoms firm Econet Wireless Zimbabwe Limited (Econet) is one of the latest to make biometrics and digital KYC a priority,  reports  New Zimbabwe. In its recent report on the state of KYC in Africa in 2022, digital ID verification firm Smile Identity notes the importance of biometric KYC systems for African businesses, given the rising nature of financial fraud on the continent. The report posits that biometric KYC checks are more efficient and effective in detecting ID fraud, noting that an average 50 percent of fraud incidents go unnoticed with textual KYC alone.
+
+
+***
+![Google Hopes to Inoculate Internet Users Against Misinformation with Expanded 'Pre-bunking' Campaign](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b104fea1c937d70b231c37700236a2c2.jpg "Google Hopes to Inoculate Internet Users Against Misinformation with Expanded 'Pre-bunking' Campaign")
+
+
+[Google Hopes to Inoculate Internet Users Against Misinformation with Expanded 'Pre-bunking' Campaign](https://gizmodo.com/google-prebunking-misinformation-youtube-1850107205)
+
+
+> Google plans to expand a campaign against online misinformation to Germany this week, and later India, as first reported by the Associated Press. The strategy, known as 'pre-bunking' or 'attitudinal inoculation,' aims to train people on how to recognize false information and manipulated facts on the internet before they even encounter them. In short videos and photos—shown across platforms like YouTube, TikTok, Twitter, and Facebook in standard advertising slots—Google will continue its push to make pre-bunking a go-to method for dispelling disinformation.
+
+
+***
+![Apex Legends Anniversary Collection Event kicks off Feb. 14th, 2023](https://gonintendo.com/attachments/image/23175/file/medium-8959c260da44ecf89726b4baeec2f1a1.jpg "Apex Legends Anniversary Collection Event kicks off Feb. 14th, 2023")
+
+
+[Apex Legends Anniversary Collection Event kicks off Feb. 14th, 2023](https://gonintendo.com/contents/16187-apex-legends-anniversary-collection-event-kicks-off-feb-14th-2023)
+
+
+> Happy anniversary, Apex Legends! Celebrate another year of the Apex Games during the Anniversary Collection Event! Log in once each week during the event to claim rewards. Collect 24 limited-time items, including squad set cosmetics, and unlock additional rewards on the community-driven rewards track. Complete the collection before the event ends and receive 150 Heirloom Shards, enough to unlock the Heirloom or Prestige skin of your choice. February 14 - February 21 Scout the login rewards in Week 1 by permanently unlocking Crypto and a Thematic Pack February 21 - February 28 Phase into Week 2 and permanently unlock Ash and a Thematic Pack Each week's rewards are limited to one redemption per EA Account.
+
+
+***
+![Sea of Stars dev show off demo gameplay and answer fan questions](https://gonintendo.com/attachments/image/23174/file/medium-31d793e18729b032ce3e230765cefc56.jpg "Sea of Stars dev show off demo gameplay and answer fan questions")
+
+
+[Sea of Stars dev show off demo gameplay and answer fan questions](https://gonintendo.com/contents/16186-sea-of-stars-dev-show-off-demo-gameplay-and-answer-fan-questions)
+
+
+> A great feature for a can't-miss game During last week's Nintendo Direct, Sabotage Studio revealed that Sea of Stars is finally coming to Switch on August 29th, 2023. While that date's a ways off, the team lessened the blow by announcing that a demo would be made available on the Switch eShop. That demo launched right after the Nintendo Direct, which means you can hop on the Switch eShop right now and enjoy! Have you already played through the demo and you're still hungry for more content? Why not check out the official video above? That video features Studio Sabotage running through the Sea of Stars demo while offering all sorts of unique insight at the same time.
+
+
+***
+![Salma Hayeks dreamy bikini selfie gives us pool envy](https://iknowallnews.com/wp-content/uploads/2023/02/Salma-Hayeks-dreamy-bikini-selfie-gives-us-pool-envy.jpg "Salma Hayeks dreamy bikini selfie gives us pool envy")
+
+
+[Salma Hayeks dreamy bikini selfie gives us pool envy](https://iknowallnews.com/celebrities/salma-hayeks-dreamy-bikini-selfie-gives-us-pool-envy/)
+
+
+> Salma Hayek loves nothing more than a tropical vacation and when she isn't busy working, she enjoys nothing more than traveling to exotic locations. MOST READ: What is Rihanna's baby son's name? All we know The 56-year-old Magic Mike's Last Dance star memorably shared a photo that left many envious this time last year, at a time when the UK was braving the cold weathers. Salma – who is primarily based in London – took to Instagram to share a motivating picture highlighting warmer climates from a getaway gone by, showing her sunbathing in a swimming pool while wearing a turquoise bikini.
+
+
+***
+![UK software sales for the week ending Feb. 11th, 2023, plus Jan. 2023 hardware sales](https://gonintendo.com/attachments/image/23173/file/medium-de272a9600ec09e56459cf3282a834d6.jpg "UK software sales for the week ending Feb. 11th, 2023, plus Jan. 2023 hardware sales")
+
+
+[UK software sales for the week ending Feb. 11th, 2023, plus Jan. 2023 hardware sales](https://gonintendo.com/contents/16185-uk-software-sales-for-the-week-ending-feb-11th-2023-plus-jan-2023-hardware-sales)
+
+
+> The next round of stats on UK software sales has arrived. You can check out the top 40 for the week ending Feb. 11th, 2023 below. As usual, there are some details on the shift in game sales from week to week, and we have that breakdown for you. Mario Kart 8: Deluxe is still at No.4, despite sales falling 10% Animal Crossing: New Horizons climbs seven places to No.5 after a 40% jump New Super Mario Bros U Deluxe leaps eight places to No.10 Mario Strikers: Battle League Football rushes up 25 places due to a 197% sales increase Super Mario 3D World + Bowser's Fury grows 68% and goes from No.
+
+
+***
+![Aliens: The Source of ‘Objects' Getting Shot Down? You Better Hope Not](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14Ti3i.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Aliens: The Source of ‘Objects' Getting Shot Down? You Better Hope Not")
+
+
+[Aliens: The Source of ‘Objects' Getting Shot Down? You Better Hope Not](http://www.msn.com/en-us/news/technology/aliens-the-source-of-objects-getting-shot-down-you-better-hope-not/ar-AA17qXpb)
+
+
+> So could the source of those balloons or whatever they are now getting shot down all over North America be some sort of alien technology sent from across the galaxy or universe to spy on us? Yes, we have reached peak balloon, or UFO fears on this issue, folks. And it seems our own government, to some extent, is fueling it. Load Error Well, OK, I am going to take the bait on this one and try to answer the question: so what if it is aliens from another world? What does that mean? Yes, I should stick to my lane of national security and politics, I know.
+
+
+***
+![Ritchie Bros. Q4 profit expected to be between US$42M and US$45M](https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/02/2023021308020-63ea3483fa9f636be6889e68jpeg.jpg;w=1200;h=800;mode=crop "Ritchie Bros. Q4 profit expected to be between US$42M and US$45M")
+
+
+[Ritchie Bros. Q4 profit expected to be between US$42M and US$45M](https://www.burnabynow.com/technology/ritchie-bros-q4-profit-expected-to-be-between-us42m-and-us45m-6532626)
+
+
+> VANCOUVER — Ritchie Bros. Auctioneers Inc. says it expects its fourth-quarter profit to come in between US$42 million and US$45 million. In its preliminary results for the quarter ended Dec. 31, the company, which keeps its books in U.S. dollars, says it expects total revenue of about US$444 million. For the full year, Ritchie Bros. says it expects net income between US$317 million and US$320 million. Total revenue for the year is expected to be about US$1.7 billion. The company is expected to report its full financial results after the close of markets on Feb.
+
+
+***
+![Bear Walker teams up with Pokémon Center UK for new skateboard collection](https://gonintendo.com/attachments/image/23170/file/medium-3921f1b3cff8c7382a00ffd60908f9a0.png "Bear Walker teams up with Pokémon Center UK for new skateboard collection")
+
+
+[Bear Walker teams up with Pokémon Center UK for new skateboard collection](https://gonintendo.com/contents/16184-bear-walker-teams-up-with-pokemon-center-uk-for-new-skateboard-collection)
+
+
+> The Pokémon Company International today announced an exciting new collaboration coming soon exclusively to Pokémon Center in the United Kingdom. Starting 3 March 2023, a new series of limited edition, Pokémon-themed skateboards from skateboard industry craftsman Bear Walker will be released, starting with decks featuring the Electric-type Pokémon Pichu, Pikachu and Raichu. Following the European debut of Bear Walker's signature designs at the Pokémon Center Pop-Up Store at the 2022 Pokémon World Championships in London last August, Bear Walker brings his expert craftsmanship and brand-new, unique designs to their new home at PokemonCenter.
+
+
+***
+![Liberals announced $1.5 million in safety grants not approved by Home Affairs](https://iknowallnews.com/wp-content/uploads/2023/02/Liberals-announced-1.5-million-in-safety-grants-not-approved-by-Home-Affairs.jpg "Liberals announced $1.5 million in safety grants not approved by Home Affairs")
+
+
+[Liberals announced $1.5 million in safety grants not approved by Home Affairs](https://iknowallnews.com/lifestyle/liberals-announced-1-5-million-in-safety-grants-not-approved-by-home-affairs/)
+
+
+> Home » Lifestyle » Liberals announced $1.5 million in safety grants not approved by Home Affairs The former Liberal government announced at least $1.56 million in Safer Communities grants in Labor-held target seats in the final weeks of the 2022 election campaign without submitting them to the Department of Home Affairs for vetting. The $265 million Safer Communities program, which was criticised by the Australian National Audit Office for a lack of transparency, was topped up with $50 million by former home affairs minister Karen Andrews and assistant minister for community safety Jason Wood – who oversaw the grants – four days before the 2022 election was called.
+
+
+***
+![My boyfriend won't let me meet his son until his ex wife approves it](https://iknowallnews.com/wp-content/uploads/2023/02/My-boyfriend-wonx27t-let-me-meet-his-son-until-his-ex-wife-approves-it-The-Sun.jpg "My boyfriend won't let me meet his son until his ex wife approves it")
+
+
+[My boyfriend won't let me meet his son until his ex wife approves it](https://iknowallnews.com/lifestyle/my-boyfriend-wont-let-me-meet-his-son-until-his-ex-wife-approves-it-the-sun/)
+
+
+> Home » Lifestyle » My boyfriend won't let me meet his son until his ex wife approves it | The Sun DEAR DEIDRE: I'M longing to meet my boyfriend's son but he says I've got to get approval from his ex-wife first. We met at university and had a brief fling then. I'm now 29 and he's 31. Our relationship ended when we found jobs, but we stayed in touch on social media and arranged to meet. He is separated after six years of marriage and their son is four. We've been getting closer lately but if I stay before his son visits, I have to make sure there are no belongings left for his son to find.
+
+
+***
+![Vanessa Feltz shares positive message after Ben Ofoedu split](https://iknowallnews.com/wp-content/uploads/2023/02/Vanessa-Feltz-shares-positive-message-after-Ben-Ofoedu-split.jpg "Vanessa Feltz shares positive message after Ben Ofoedu split")
+
+
+[Vanessa Feltz shares positive message after Ben Ofoedu split](https://iknowallnews.com/celebrities/vanessa-feltz-shares-positive-message-after-ben-ofoedu-split/)
+
+
+> Vanessa Feltz shared a positive message as she said she was feeling ‘fantastic' after her ex-fiancé Ben Ofoedu broke his silence on their split and cheating allegations. The TV personality, 60, took to Instagram on Monday to share that she had jetted off to Ireland with her daughter Allegra after announcing her split from Ben last week. She posted an upbeat video message as she visited Ballynamona Beach in East Cork during her ‘healing' family getaway after her relationship of 16 years came to an end.
+
+
+***
+![Check out the latest trailer for Figment 2: Creed Valley](https://gonintendo.com/attachments/image/23169/file/medium-8cb4e6f8c9d76ebd921867e9cca3603f.jpg "Check out the latest trailer for Figment 2: Creed Valley")
+
+
+[Check out the latest trailer for Figment 2: Creed Valley](https://gonintendo.com/contents/16183-check-out-the-latest-trailer-for-figment-2-creed-valley)
+
+
+> No, you're not imagining things Figment 2: Creed Valley was announced for Switch quite awhile back, but thankfully, we don't have too much longer to wait for this one. Developer Bedtime Digital Games has announced that Figment 2 will see Switch launch March 9th, 2023, and they shared a new trailer to celebrate the date. You can have a look at that trailer above. Figment 2: Creed Valley sees players rejoin Dusty, The Mind's courage, as you journey across once-peaceful lands now overrun with chaos spread by nightmares of the human mind.
+
+
+***
+![Cassette Beasts 'Monster Transformation' trailer](https://gonintendo.com/attachments/image/23168/file/medium-71b74f8a980f586fe13319982ed26515.jpg "Cassette Beasts 'Monster Transformation' trailer")
+
+
+[Cassette Beasts 'Monster Transformation' trailer](https://gonintendo.com/contents/16182-cassette-beasts-monster-transformation-trailer)
+
+
+> From precious pup to fearsome foe We're still waiting on release date information for Cassette Beasts, but at least today brings us a new trailer for the game! This video focuses in on monster transformation, and element you'll definitely want to familiarize yourself with before hopping into the game. Give the new trailer a watch above. Collect awesome monsters to use during turn-based battles in this open-world RPG. Combine any two monster forms using Cassette Beasts' Fusion System to create unique and powerful new ones! Welcome to New Wirral, a remote island inhabited by strange creatures you've only dreamed of, nightmares you hopefully haven't, and a cast of brave folks who use cassette tapes to transform for battle.
+
+
+***
+![Apple releases iOS 16.3.1, iPadOS 16.3.1, watchOS 9.3.1 updates](https://photos5.appleinsider.com/gallery/52792-105598-iPhone-14-app-library-xl.jpg "Apple releases iOS 16.3.1, iPadOS 16.3.1, watchOS 9.3.1 updates")
+
+
+[Apple releases iOS 16.3.1, iPadOS 16.3.1, watchOS 9.3.1 updates](https://appleinsider.com/articles/23/02/13/apple-releases-ios-1631-and-ipados-1631-updates)
+
+
+> iOS 16.3.1 is out AppleInsider may earn an affiliate commission on purchases made through links on our site. Apple has released iOS 16.3.1 , iPadOS 16.3.1, and watchOS 9.3.1 with bug fixes and other performance improvements. Users can download iOS 16.3.1, iPadOS 16.3.1, and watchOS 9.3.1 to their respective devices. The new releases contain the usual bug fixes and performance improvements, though Apple has singled out some changes. A fix has been included for iCloud settings, which can be "unresponsive or incorrectly display if apps are using iCloud.
+
+
+***
+![Technical Pressure Could Drag Biotech Lower](https://media.zenfs.com/en/schaeffers_investment_research_24/9acef98247757cd5ff90db79d9f5ccfb "Technical Pressure Could Drag Biotech Lower")
+
+
+[Technical Pressure Could Drag Biotech Lower](https://news.yahoo.com/technical-pressure-could-drag-biotech-182416759.html)
+
+
+> The shares of Mirati Therapeutics Inc (NASDAQ:MRTX) have been pulling back on the charts this month, after running into the $55 level. Plus, the equity just came within one standard deviation of its 50-day moving average, which has had bearish implications in the past. According to data from Schaeffer's Senior Quantitative Analyst Rocky White, MRTX has seen six similar signals over the past three years. The stock was lower one month later half of the time, averaging an 8.5% loss. From its current perch at $48.
+
+
+***
+![I'm losing hope that i'll ever meet my Valentine as I spend another year alone](https://iknowallnews.com/wp-content/uploads/2023/02/Im-losing-hope-that-ill-ever-meet-my-Valentine-as-I-spend-another-year-alone-The-Sun.jpg "I'm losing hope that i'll ever meet my Valentine as I spend another year alone")
+
+
+[I'm losing hope that i'll ever meet my Valentine as I spend another year alone](https://iknowallnews.com/lifestyle/im-losing-hope-that-ill-ever-meet-my-valentine-as-i-spend-another-year-alone-the-sun/)
+
+
+> Home » Lifestyle » I'm losing hope that i'll ever meet my Valentine as I spend another year alone | The Sun DEAR DEIDRE: WHILE all my mates are taking their girlfriends out for Valentine's Day, I'm facing an evening with a microwave meal for one, again. I thought this year might be different. I'm a guy of 26 and I've never been near a woman. I don't seem to have the opportunity to meet anyone. I go to a social club at the weekends with a couple of mates but any women who turn up are already with someone.
+
+
+***
+![Lilt SCRAPPED in major change by parent brand Coca-Cola leaving fans fuming](https://iknowallnews.com/wp-content/uploads/2023/02/Lilt-SCRAPPED-in-major-change-by-parent-brand-Coca-Cola-leaving-fans-fuming-The-Sun.jpg "Lilt SCRAPPED in major change by parent brand Coca-Cola leaving fans fuming")
+
+
+[Lilt SCRAPPED in major change by parent brand Coca-Cola leaving fans fuming](https://iknowallnews.com/lifestyle/lilt-scrapped-in-major-change-by-parent-brand-coca-cola-leaving-fans-fuming-the-sun/)
+
+
+> Home » Lifestyle » Lilt SCRAPPED in major change by parent brand Coca-Cola leaving fans fuming | The Sun LILT is being scrapped as part of a major change by Coca-Cola – and fans are fuming. It has today been announced that the iconic tropical drink is being axed after 50 years on shelves. But, that's because it's been replaced and relaunched under a new name – Fanta Pineapple and Grapefruit. From tomorrow the refreshed name and packaging will roll into stores. The Fanta flavour is said to have 'the same totally tropical taste' as Lilt.
+
+
+***
+![AUDUSD reaches upside resistance targets](https://images.forexlive.com/images/AUDUSD_id_4d4f6679-53b2-428c-8e94-fcf28f75ea1b_size900.jpg?v=1676318253773 "AUDUSD reaches upside resistance targets")
+
+
+[AUDUSD reaches upside resistance targets](https://www.forexlive.com/technical-analysis/audusd-reaches-upside-resistance-targets-20230213/)
+
+
+> 38.2% and falling 200 hour MAs in play AUDUSD approached topside target resistance The AUDUSD has continued a run higher in trading today which has the pairs trading range at 81 pips. That is just 3 pips short of the 22 day average (about a month of trading). That run higher has started to hit upside targets. The first is the 38.2% of the move down from the February 2 high. That comes in at 0.69704. Above that, The falling 200 hour MA comes in at 0.6974. The swing area between 0.6983 to 0.
+
+
+***
+![Could it be that my arranged Bride-to-be isn't a virgin after all](https://iknowallnews.com/wp-content/uploads/2023/02/Could-it-be-that-my-arranged-Bride-to-be-isnx27t-a-virgin-after-all-The-Sun.jpg "Could it be that my arranged Bride-to-be isn't a virgin after all")
+
+
+[Could it be that my arranged Bride-to-be isn't a virgin after all](https://iknowallnews.com/lifestyle/could-it-be-that-my-arranged-bride-to-be-isnt-a-virgin-after-all-the-sun/)
+
+
+> Home » Lifestyle » Could it be that my arranged Bride-to-be isn't a virgin after all | The Sun DEAR DEIDRE: I'M getting married later this year and we must be virgins when we wed. This is a matter of honour and in our religion is considered vital. My wife-to-be is 25 and I am 30. I have met her a few times. Our families have arranged everything and I'm looking forward to our big day. When I showed a photograph of my bride-to-be to a friend of mine, they said that she'd been out with a friend of his.
+
+
+***
+![Apple fixes annoying HomePod bug that caused HomeKit requests to time out and fail the first time you ask](https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/new-homepod.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "Apple fixes annoying HomePod bug that caused HomeKit requests to time out and fail the first time you ask")
+
+
+[Apple fixes annoying HomePod bug that caused HomeKit requests to time out and fail the first time you ask](https://9to5mac.com/2023/02/13/homepod-bug-fix-siri-smart-home-homekit-request/)
+
+
+> Apple today released HomePod OS 16.3.2 for HomePod, HomePod mini and HomePod (second-generation) devices. The update addresses a pesky bug introduced with 16.3 that made controlling a HomeKit smart home a particularly frustrating affair … The issue was that Siri on HomePod would fail to complete a smart home request the first time you asked. So for example, if you asked your new HomePod (second-generation) to turn on a Philips Huge lightbulb accessory , the first time you asked it would (probably) fail.
+
+
+***
+![Smooth Sailing: A Beginner's Guide to Routing Requests with AWS Load Balancer Controller](https://miro.medium.com/max/1200/0*UtV47LA-9S5BBdri "Smooth Sailing: A Beginner's Guide to Routing Requests with AWS Load Balancer Controller")
+
+
+[Smooth Sailing: A Beginner's Guide to Routing Requests with AWS Load Balancer Controller](https://medium.com/codex/smooth-sailing-a-beginners-guide-to-routing-requests-with-aws-load-balancer-controller-82b22bbb4dfd)
+
+
+> In DevOps technical interviews one of the most common questions that is asked is how an ingress controller works and how it routes request to the pod? In this post I will explain, how the AWS Load-balancer controller works and how it routes traffic to the pods. Photo by Matt Seymour on Unsplash The new aws-load-balancer controller was released in 2020. It replaced the previous ALB ingress controller. This new controller has the following additional functionalities and features. Network Load Balancers (NLB) for Kubernetes services.
+
+
+***
+![Ritchie Bros. Q4 profit expected to be between US$42M and US$45M](https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/02/2023021308020-63ea3483fa9f636be6889e68jpeg.jpg;w=1200;h=800;mode=crop "Ritchie Bros. Q4 profit expected to be between US$42M and US$45M")
+
+
+[Ritchie Bros. Q4 profit expected to be between US$42M and US$45M](https://www.princegeorgecitizen.com/technology/ritchie-bros-q4-profit-expected-to-be-between-us42m-and-us45m-6532626)
+
+
+> VANCOUVER — Ritchie Bros. Auctioneers Inc. says it expects its fourth-quarter profit to come in between US$42 million and US$45 million. In its preliminary results for the quarter ended Dec. 31, the company, which keeps its books in U.S. dollars, says it expects total revenue of about US$444 million. For the full year, Ritchie Bros. says it expects net income between US$317 million and US$320 million. Total revenue for the year is expected to be about US$1.7 billion. The company is expected to report its full financial results after the close of markets on Feb.
+
+
+***
+![The Best Places to Install a Smoke Detector for Improved Safety and Effectiveness](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17k8L8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "The Best Places to Install a Smoke Detector for Improved Safety and Effectiveness")
+
+
+[The Best Places to Install a Smoke Detector for Improved Safety and Effectiveness](http://www.msn.com/en-us/news/technology/the-best-places-to-install-a-smoke-detector-for-improved-safety-and-effectiveness/ar-AA17kqMI)
+
+
+> You probably ignore or even forget about your smoke detector unless you accidentally set it off while cooking and end up standing waving a towel around in annoyance. But in most regions, smoke detectors are legally required in residential settings -- and they can significantly improve outcomes in case of an actual fire. The question is, where is it best to mount smoke detectors to keep your property and loved ones safe in case of emergency, while also reducing those false alarms? While you may have never given it much thought, there are actually ideal locations for your smoke detector.
+
+
+***
+![Nyriad closes $11m Series B round, reshuffles board](https://d2xgqyuql1olth.cloudfront.net/assets/Uploads/2020-10/GuyHaddletonweb.jpeg "Nyriad closes $11m Series B round, reshuffles board")
+
+
+[Nyriad closes $11m Series B round, reshuffles board](https://www.nbr.co.nz/tech/nyriad-closes-11m-series-b-round-reshuffles-board/)
+
+
+> The money will be used to fund the tech startup's market entry into the US. Cambridge-based Nyriad has completed an $11 million Series B funding round and plans to start customer beta testing of its storage controller device early next year. The $11m was financed by existing shareholders and the data storage company has also converted a $22m convertible note into Want to read more? It's easy. Choose your best value subscription option Individual Group membership NBR Marketplace NZ Aviation News $30 per user - Pay by monthly credit card debit $25 per user - Pay by monthly credit card debit $20 per user - Pay by monthly credit card debit $15 per user - Pay by monthly credit card debit Contact the Writer: geraden@nbr.
+
+
+***
+![A low-cost fix for tech's diversity problem](https://scx2.b-cdn.net/gfx/news/2023/a-low-cost-fix-for-tec.jpg "A low-cost fix for tech's diversity problem")
+
+
+[A low-cost fix for tech's diversity problem](https://techxplore.com/news/2023-02-low-cost-tech-diversity-problem.html)
+
+
+> Propensity scores for the two experimental groups and applicants. Histograms of the estimates of the propensity to be treated in the Challenges intervention by experimental group. In green estimates for the applicants' group, in orange for the control group, and in purple for the treatment group. Propensity was estimated using regression forests with a full set of covariates. Credit: https://siepr.stanford.edu/publications/working-paper/effective-and-scalable-programs-facilitate-labor-market-transitions Why aren't there more women working in tech? For all the hiring pledges, networking initiatives and one-on-one mentoring programs, women hold 30% of tech jobs worldwide —even though they make up half the global population.
+
+
+***
+![Transit Startup Via Rides $110M Round To $3.5B Valuation](https://news.crunchbase.com/wp-content/uploads/Money_Plane.jpg "Transit Startup Via Rides $110M Round To $3.5B Valuation")
+
+
+[Transit Startup Via Rides $110M Round To $3.5B Valuation](https://news.crunchbase.com/transportation/transit-startup-via-rides-110m-valuation/)
+
+
+> Email Facebook Twitter LinkedIn New York-based transit company Via locked up a $110 million round at a $3.5 billion valuation to help cities and agencies better traverse the changing world of transportation. The new round was led by 83North , with participation from new and existing investors including EXOR , Pitango Venture Capital , Planven Ventures , Janus Henderson , CF Private Equity, RiverPark Ventures and ION Crossover .
+
+
+***
+![Tesla's biggest hater airs Super Bowl ad against FSD](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Tesla's biggest hater airs Super Bowl ad against FSD")
+
+
+[Tesla's biggest hater airs Super Bowl ad against FSD](https://www.reddit.com/r/technology/comments/111fpet/teslas_biggest_hater_airs_super_bowl_ad_against)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![HBO's The Last of Us TV show is pushing the game up the sales charts](https://cdn.vox-cdn.com/thumbor/7bbW75mOdXQe35Tu07jUuFaPZBk=/0x0:3840x2160/1200x628/filters:focal(1012x1122:1013x1123)/cdn.vox-cdn.com/uploads/chorus_asset/file/24429583/ss_26831caf3f89a9d4d63906347a6dbe43bf5fefb2.jpg "HBO's The Last of Us TV show is pushing the game up the sales charts")
+
+
+[HBO's The Last of Us TV show is pushing the game up the sales charts](https://www.theverge.com/2023/2/13/23597863/hbo-the-last-of-us-tv-show-game-part-i-sales-npd-group)
+
+
+> The huge success of The Last of Us' HBO series has seemingly led to a big sales bump for the newly released remaster of the first TLOU game. According to a new report from the NPD Group, The Last of Us: Part I jumped from number 36 on its best-seller chart in December to number 11 in January, the month the series premiered . The Witcher 3: Wild Hunt saw its own boost in popularity following the release of Netflix's The Witcher series in 2019, while Cyberpunk 2077 jumped up Steam's charts after Cyberpunk: Edgerunners came out in September.
+
+
+***
+![JAKKS Pacific officially reveals new line of toys inspired by the Super Mario Bros. movie](https://gonintendo.com/attachments/image/23166/file/medium-9e197c628e0478dc9ca643357707029d.jpg "JAKKS Pacific officially reveals new line of toys inspired by the Super Mario Bros. movie")
+
+
+[JAKKS Pacific officially reveals new line of toys inspired by the Super Mario Bros. movie](https://gonintendo.com/contents/16180-jakks-pacific-officially-reveals-new-line-of-toys-inspired-by-the-super-mario-bros)
+
+
+> JAKKS Pacific is excited to reveal more from the line of toys coming to retail on Feb 26 for the highly anticipated new film from Illumination and Nintendo, The Super Mario Bros. Movie, arriving in theaters April 7, 2023. Bring home the excitement of The Super Mario Bros. Movie. with these officially licensed toys and plush from JAKKS Pacific, Inc. Fans of all ages will enjoy recreating moments from the movie with movie-inspired mini figures and playsets, 5' premium figures, 7' feature Bowser, pull back karts and plush.
+
+
+***
+![Install containerd in ubuntu 20.10 for k8s installation](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png "Install containerd in ubuntu 20.10 for k8s installation")
+
+
+[Install containerd in ubuntu 20.10 for k8s installation](https://rbsomeg.medium.com/install-containerd-in-ubuntu-20-10-for-k8s-installation-7e436e173084)
+
+
+> Load the OverlayFS kernel module & enable the Linux kernel's bridge-nf-call-iptables functionality. Refer to k8s installation pre-requisites link here . The ' sudo modprobe overlay ' command is used to load the OverlayFS kernel module, which allows the creation of a virtual filesystem that combines two separate filesystems into one. This is useful for creating a read-write layer on top of a read-only filesystem, such as when creating an overlay root filesystem for a container. The bridge-nf-call-iptables functionality in the Linux kernel is a feature that allows the kernel to call iptables when a packet is received or sent over a bridge.
+
+
+***
+![New to iOS. iPhone 14 pro](https://images.macrumors.com/social/?t=2380645&v=6 "New to iOS. iPhone 14 pro")
+
+
+[New to iOS. iPhone 14 pro](https://forums.macrumors.com/threads/new-to-ios-iphone-14-pro-some-general-questions.2380645/)
+
+
+> Hi all, Not sure if this falls under an iOS question or an iPhone 14 Pro question so I will start here. I have had a cell phone since 1995 and I have used an Android smart phone since the beginning. I wanted something different and my friend who has also been on Android since the beginning switched to an iPhone 14 Pro Max and after 4 months he still absolutely loves it and said he will never go back. Based on that I bought an iPhone 14 Pro, just got it Friday and set it up Saturday. Very nice phone and I am very, very happy with it.
+
+
+***
+![Two more Bowser-related posters released for the Super Mario Bros. movie](https://gonintendo.com/attachments/image/23164/file/medium-68702bc6f0c81be5b15df459cf6b2678.jpg "Two more Bowser-related posters released for the Super Mario Bros. movie")
+
+
+[Two more Bowser-related posters released for the Super Mario Bros. movie](https://gonintendo.com/contents/16179-two-more-bowser-related-posters-released-for-the-super-mario-bros-movie)
+
+
+> Just yesterday, we got a brand-new poster for the Super Mario Bros. movie that featured Bowser. It looks like the team behind the film is keen on Bowser right now, as they've shared two more posters spotlighting the big baddie. First up is the poster above, which shows Bowser snagging a Star from the Penguins. This poster directly references the very first teaser trailer we saw for the Super Mario Bros. movie, and there's no doubt plenty more to learn about this moment in the full movie. Although not the highest quality, another poster for the Super Mario Bros.
+
+
+***
+![Wipe MacBook Pro 13" (2017) without the admin credentials](https://images.macrumors.com/social/?t=2380644&v=6 "Wipe MacBook Pro 13" (2017) without the admin credentials")
+
+
+[Wipe MacBook Pro 13" (2017) without the admin credentials](https://forums.macrumors.com/threads/wipe-macbook-pro-13-2017-without-the-admin-credentials.2380644/)
+
+
+> I have a MacBook Pro 13" A1708 that's from my previous employer. When I was upgrading in 2020 they said I could keep the older machine because they upgraded and were not using the A1708's anymore. I threw it in a drawer and forgot about it. My dinosaur 2011 model just died so I grabbed the 13" and I can log on with my old login name and password, but it's still all locked up with the admin credentials, so I can't change preferences, wipe it, or anything. I did not leave on good terms with the company and due to my disability discrimination lawsuit with them, I cannot reach out to ask them to wipe it for me.
+
+
+***
+![Zoox robotaxis start rolling out on California public roads](https://techcrunch.com/wp-content/uploads/2023/02/Zoox-making-right-hand-turn-on-open-public-roads-in-Foster-City-California.jpg?resize=1200,802 "Zoox robotaxis start rolling out on California public roads")
+
+
+[Zoox robotaxis start rolling out on California public roads](https://techcrunch.com/2023/02/13/zoox-robotaxis-start-slowly-rolling-out-on-california-public-roads/)
+
+
+> More than two years ago, Amazon subsidiary Zoox unveiled an electric, autonomous robotaxi it built from the ground up. Now, the cube-like vehicle that is loaded with sensors — and not a steering wheel — is starting to roll out on a few public roads in northern California. A solitary Zoox robotaxi made its inaugural launch on public roads over the weekend after the company received a permit from the California Department of Motor Vehicles, the agency that regulates autonomous vehicles in the state.
+
+
+***
+![Sen. Tammy Baldwin criticizes Ascension's for-profit investment activities, requests returns and fees info](https://www.statnews.com/wp-content/uploads/2023/02/GettyImages-1447777307-1024x576.jpg "Sen. Tammy Baldwin criticizes Ascension's for-profit investment activities, requests returns and fees info")
+
+
+[Sen. Tammy Baldwin criticizes Ascension's for-profit investment activities, requests returns and fees info](https://www.statnews.com/2023/02/13/baldwin-criticizes-ascension-investments/)
+
+
+> W ASHINGTON — Sen. Tammy Baldwin on Monday blasted Ascension for service cuts at in Wisconsin and questioned whether returns from the Catholic health system's for-profit investments are actually being used to help patients. Baldwin wrote a letter addressed to Ascension that cites STAT reporting about the extent of Ascension's more than $1 billion in private equity investments alongside TowerBrook Capital Partners, including Ascension's relationship with debt collection company R1 RCM. 'Ascension has significant for-profit investment activities that dwarf what the system provides in annual charity care.
+
+
+***
+![Calamity Link! Players use 'Breath of the Wild' to reproduce the latest trailer of 'Tears of the Kingdom', so the sequel has already been finished?  Game Corner](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/02/13/0/20185054.jpg&s=Y&x=0&y=0&sw=1280&sh=720&exp=3600 "Calamity Link! Players use 'Breath of the Wild' to reproduce the latest trailer of 'Tears of the Kingdom', so the sequel has already been finished?  Game Corner")
+
+
+[Calamity Link! Players use 'Breath of the Wild' to reproduce the latest trailer of 'Tears of the Kingdom', so the sequel has already been finished?  Game Corner](https://www.world-today-news.com/calamity-link-players-use-breath-of-the-wild-to-reproduce-the-latest-trailer-of-tears-of-the-kingdom-so-the-sequel-has-already-been-finished-game-corner-digital/)
+
+
+> photo.php?u=https://uc.udn.com.tw/ photo /2023/02/13/0/20185213.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=800&nt=1" type="image/webp">photo.php?u=https://uc.udn.com.tw/ photo /2023/02/13/0/20185213.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=800" type="image/jpeg">photo.php?u=https://uc.udn.com.tw/ photo /2023/02/13/0/20185213.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=400&nt=1" type="image/webp">photo.php?u=https://uc.udn.com.tw/ photo /2023/02/13/0/20185213.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=400" type="image/jpeg"> Nintendo released the latest trailer of 'The Legend of Zelda: Tears of the Kingdom' in a face-to-face meeting held on the 9th of last week.
+
+
+***
+![How much Apple pays to make the iPhone 14 Pro Max](https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-13-image-4.png "How much Apple pays to make the iPhone 14 Pro Max")
+
+
+[How much Apple pays to make the iPhone 14 Pro Max](https://www.techspot.com/news/97589-how-much-apple-pays-make-iphone-14-pro.html)
+
+
+> TL;DR: The latest iPhone 14 Pro Max starts at $1,099 but it costs Apple far less to build the handset. According to Counterpoint Research's latest bill of materials (BoM) analysis, the 128GB iPhone 14 Pro Max mmWave variant costs Apple $474 to produce while the sub-6GHz model checks in at $454. Assuming a 44 percent mmWave mix, the blended BoM ends up being around $464 which is roughly a 3.7 percent increase compared to the iPhone 13 Pro Max. Notably, Apple did not increase the suggest retail price of its biggest phone year over year.
+
+
+***
+![Corona vaccine, now you don't have to be a daily vaccine… you don't have to do it.](http://knewsatlanta.com/wp-content/uploads/2023/02/코로나-백신의무아니야.png "Corona vaccine, now you don't have to be a daily vaccine… you don't have to do it.")
+
+
+[Corona vaccine, now you don't have to be a daily vaccine… you don't have to do it.](https://www.world-today-news.com/corona-vaccine-now-you-dont-have-to-be-a-daily-vaccine-you-dont-have-to-do-it/)
+
+
+> CDC, switch to daily vaccine on the 9th, school and workplace do not have to be vaccinated Georgia State Legislature also passes the Senate to ban mandatory corona vaccines, but remains to be confirmed by the House of Representatives Added COVID-19 vaccination to the Centers for Disease Control and Prevention (CDC) routine immunization list. However, it is not classified as questionable vaccination, so there is no need to get a corona vaccine when entering school or getting a job. The CDC's vaccine schedule announced on the 9th (Thursday) did not mandate vaccine requirements in schools or workplaces.
+
+
+***
+![Simple Physics-based Flight Simulation with C++](https://external-preview.redd.it/lJK5AqFF4KZ5OBOZgAYrTK3RqyQG1A2N6UNAQ7uSC80.jpg?auto=webp&v=enabled&s=79abb948e6ac1d0c185fff2f8d2306a1d2e2065b "Simple Physics-based Flight Simulation with C++")
+
+
+[Simple Physics-based Flight Simulation with C++](https://www.reddit.com/r/programming/comments/111fdx7/simple_physicsbased_flight_simulation_with_c)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Google Launches 'Prebunking' Campaign in Germany to Fight 'Misinformation'](https://media.breitbart.com/media/2021/08/Sundar-Pichai-CEO-of-Google-640x335.jpg "Google Launches 'Prebunking' Campaign in Germany to Fight 'Misinformation'")
+
+
+[Google Launches 'Prebunking' Campaign in Germany to Fight 'Misinformation'](https://www.breitbart.com/tech/2023/02/13/google-launches-prebunking-campaign-in-germany-to-fight-misinformation/)
+
+
+> Google is preparing to launch a new 'prebunking campaign' in Germany, claiming its purpose is to educate people about the damaging effects of online 'misinformation.' AP News reports that tech giant Google has announced plans to release a collection of 'prebunking' videos to teach Germans how to recognize false information before they come across it. The videos will be promoted on websites like Facebook, YouTube, and TikTok. A similar campaign is also in the works in India. Sabo mocks Google CEO Sundar Pichai (unsavoryagents.
+
+
+***
+![Breaking into Vancouver tech might be easier than you think](https://images.dailyhive.com/20230209104953/KCCS_VAN_JPP0915-copy-500x334.jpg "Breaking into Vancouver tech might be easier than you think")
+
+
+[Breaking into Vancouver tech might be easier than you think](https://dailyhive.com/vancouver/tech-northeastern-university-vancouver)
+
+
+> If you've been dreaming of a career in tech, you're not alone. With impressive salaries and endless opportunities for advancement, jobs in the fast-growing sector are increasingly sought after, and new openings appear on a regular basis. In fact, is a rapidly expanding tech hotspot and has recorded the most tech job growth in North America in recent years, drawing attention and talent from around the globe. And thanks to , now's your chance to break into it. The university is set to hold its Break Into Tech event at its downtown campus on Thursday, March 2, to help prospective students jumpstart their careers in tech.
+
+
+***
+![Cleveland-Cliffs Announces Price Increase for Hot Rolled, Cold Rolled and Coated Steel Products – 13.02.2023](https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2023/02/13/2023-02-13-delegazione-dell-universita-sulkhan-saba-orbeliani--t/1676289237583.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg "Cleveland-Cliffs Announces Price Increase for Hot Rolled, Cold Rolled and Coated Steel Products – 13.02.2023")
+
+
+[Cleveland-Cliffs Announces Price Increase for Hot Rolled, Cold Rolled and Coated Steel Products – 13.02.2023](https://www.world-today-news.com/cleveland-cliffs-announces-price-increase-for-hot-rolled-cold-rolled-and-coated-steel-products-13-02-2023/)
+
+
+> Cleveland-Cliffs Inc. (NYSE: CLF) today announced that it is increasing current spot market base prices for all carbon hot rolled, cold rolled and coated steel products by a minimum of $50 per net ton, effective immediately with all new orders. Cliffs' minimum base price for hot rolled steel is now $900 per net ton. About Cleveland-Cliffs Inc. Cleveland-Cliffs is the largest flat-rolled steel producer in North America. Founded in 1847 as a mine operator, Cliffs also is the largest manufacturer of iron ore pellets in North America.
+
+
+***
+![The Pope meets with students and professors from Georgia](https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2023/02/13/2023-02-13-delegazione-dell-universita-sulkhan-saba-orbeliani--t/1676289237583.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg "The Pope meets with students and professors from Georgia")
+
+
+[The Pope meets with students and professors from Georgia](https://www.world-today-news.com/the-pope-meets-with-students-and-professors-from-georgia/)
+
+
+> Inese Steinert – Vatican 'Education helps the new generations to grow by discovering and caring for the roots so that they bear fruit,' said the Pope. He added that it fits well with Georgia's identity – 'a land that is young but has an ancient history, a land that has received the blessing of Heaven.' Francis assured that he has happy memories of his previous visit to Georgia. The Holy Father remembered Patriarch Ilia, a man of God who also composes music and writes songs, and to whom the Pope listens when he feels sad.
+
+
+***
+![Netflix series tells the story of Monique Olivier](https://iknowallnews.com/wp-content/uploads/2023/02/Netflix-series-tells-the-story-of-Monique-Olivier.jpg "Netflix series tells the story of Monique Olivier")
+
+
+[Netflix series tells the story of Monique Olivier](https://iknowallnews.com/lifestyle/netflix-series-tells-the-story-of-monique-olivier/)
+
+
+> Monique Olivier is currently serving 28 years for her role in the killings According to Netflix it's unknown whether she was ‘a pawn or a participant' READ MORE: I'm a forensic psychiatrist – these are 5 reasons some women fall in love with murderers  A true crime limited series coming to Netflix next month will tell the story of the wife of France's most notorious serial killer. Monique Olivier: Accessory to evil will be available to view on the platform from March 2. According to a synopsis shared by the streaming giant, while Michel Fourniret is France's most infamous killer much less is known about his partner.
+
+
+***
+![Access Bank Launches Access POS Rewards! In Partnership With Connected Analytics](https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2023/02/Image-2-1-1-1024x634.jpg "Access Bank Launches Access POS Rewards! In Partnership With Connected Analytics")
+
+
+[Access Bank Launches Access POS Rewards! In Partnership With Connected Analytics](https://techcabal.com/2023/02/13/access-bank-launches-access-pos-rewards-in-partnership-with-connected-analytics/)
+
+
+> Nigeria's retail giant Access Bank and Connected Analytics, owners of ThankUCash, a leading rewards platform, have announced a new partnership tagged Access Rewards. Customers who use their bank cards on Access Bank POS at different retail locations or supermarkets will receive a 2.5% cash-back incentive on their purchases due to this program. Regardless of their bank, all cardholders in Nigeria are eligible to participate in this reward program.  This project aims to serve the customers who go to these particular retail locations and the registered merchants on their network.
+
+
+***
+![Galaxy A54 Specifications Revealed! Using the Galaxy S23 Camera?](https://awsimages.detik.net.id/visual/2023/02/09/samsung-galaxy-a54-5g_169.png?w=650?w=650 "Galaxy A54 Specifications Revealed! Using the Galaxy S23 Camera?")
+
+
+[Galaxy A54 Specifications Revealed! Using the Galaxy S23 Camera?](https://www.world-today-news.com/galaxy-a54-specifications-revealed-using-the-galaxy-s23-camera/)
+
+
+> Diamond Rakhmayanti Dewi CNBC Indonesia Tech Monday, 13/02/2023 19:45 WIB Jakarta, CNBC Indonesia – After releasing the latest Galaxy S23 series, Samsung is now ready to present cellphone The new (HP) in the middle class range, namely the A series. These devices could be the Galaxy A54 and Galaxy A34. Both phones have been circulating on various certification sites recently and are rumored to be arriving next month. Most recently, the Galaxy A54 seems to have pocketed China 's TENAA certification.
+
+
+***
+![Last of Us Bloaters Are Even More Powerful on TV Than In Game](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/efc8df63a8a72e8b083f8c87b8561400.jpg "Last of Us Bloaters Are Even More Powerful on TV Than In Game")
+
+
+[Last of Us Bloaters Are Even More Powerful on TV Than In Game](https://gizmodo.com/last-of-us-bloaters-zombies-infected-hbo-neil-druckmann-1850108080)
+
+
+> In The Last of Us , few enemies are as terrifying as bloaters. They're like clickers, but with the shape and size of a professional wrestler , so when you see one it's scary and you know it's gonna be a battle. That same fear translated to HBO this weekend when a bloater made its debut on the TV version of The Last of Us but, co-showrunner Craig Mazin revealed a big difference between the game's bloaters and TV bloaters. 'We also thought, look, whatever this thing is and however it got that way, there was this notion that it might be scarier that at some point you realize, you're not killing it,' Mazin said on the official podcast (via TV Line ).
+
+
+***
+![Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.pahomepage.com/wp-content/uploads/sites/91/2023/02/1cd42b40be384cf495c8c2c632082397.jpg?w=1280 "Greenpeace to appeal Spain-Saudi arms deal confidentiality")
+
+
+[Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.pahomepage.com/news/technology/ap-greenpeace-to-appeal-spain-saudi-arms-deal-confidentiality/)
+
+
+> Posted: Feb 13, 2023 / 12:44 PM EST Updated: Feb 13, 2023 / 12:44 PM EST MADRID (AP) — Greenpeace said Monday it will appeal a Spanish Supreme Court decision blocking public access, on national security grounds, to information on government export licenses for vehicle-mounted weapons systems sold to Saudi Arabia. The global environmental and human rights group argues that the Alakran 120 mm mortar system developed by the Madrid-based firm NTGS was deployed by the Saudi-led coalition on the border with Yemen, endangering civilian lives.
+
+
+***
+![Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.mystateline.com/wp-content/uploads/sites/17/2023/02/1cd42b40be384cf495c8c2c632082397.jpg?w=1280 "Greenpeace to appeal Spain-Saudi arms deal confidentiality")
+
+
+[Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.mystateline.com/technology/ap-technology/ap-greenpeace-to-appeal-spain-saudi-arms-deal-confidentiality/)
+
+
+> Posted: Feb 13, 2023 / 11:43 AM CST Updated: Feb 13, 2023 / 11:43 AM CST MADRID (AP) — Greenpeace said Monday it will appeal a Spanish Supreme Court decision blocking public access, on national security grounds, to information on government export licenses for vehicle-mounted weapons systems sold to Saudi Arabia. The global environmental and human rights group argues that the Alakran 120 mm mortar system developed by the Madrid-based firm NTGS was deployed by the Saudi-led coalition on the border with Yemen, endangering civilian lives.
+
+
+***
+![Samsung surprises Galaxy S20 FE 5G users with One UI 5.1 update](https://www.sammobile.com/wp-content/uploads/2020/10/Galaxy-S20-FE-review-2.jpg "Samsung surprises Galaxy S20 FE 5G users with One UI 5.1 update")
+
+
+[Samsung surprises Galaxy S20 FE 5G users with One UI 5.1 update](https://www.sammobile.com/news/samsung-surprises-galaxy-s20-fe-5g-users-with-one-ui-5-1-update/)
+
+
+> Last updated: February 13th, 2023 at 18:43 UTC+01:00 If you thought Samsung cared more about Galaxy S21 FE owners than S20 FE customers, you're in for a big surprise. As you may know by now, Samsung started rolling out One UI 5.1 for a handful of devices earlier today, and the Galaxy S21 FE was among them . But surprisingly, it looks like the company won't leave Galaxy S20 FE users waiting and has already started seeding the One UI 5.1 update. Samsung has released the One UI 5.1 update for the Galaxy S20 FE 5G ( SM-G781B ) across Europe.
+
+
+***
+![Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.woodtv.com/wp-content/uploads/sites/51/2023/02/1cd42b40be384cf495c8c2c632082397.jpg?w=1280 "Greenpeace to appeal Spain-Saudi arms deal confidentiality")
+
+
+[Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.woodtv.com/technology/ap-technology/ap-greenpeace-to-appeal-spain-saudi-arms-deal-confidentiality/)
+
+
+> Posted: Feb 13, 2023 / 12:43 PM EST Updated: Feb 13, 2023 / 12:43 PM EST MADRID (AP) — Greenpeace said Monday it will appeal a Spanish Supreme Court decision blocking public access, on national security grounds, to information on government export licenses for vehicle-mounted weapons systems sold to Saudi Arabia. The global environmental and human rights group argues that the Alakran 120 mm mortar system developed by the Madrid-based firm NTGS was deployed by the Saudi-led coalition on the border with Yemen, endangering civilian lives.
+
+
+***
+![For sexual abuse, the Catholic Church asks for forgiveness, but will there be reparation? – The First Coffee – Podcast](https://www.eltiempo.com/files/og_paste_img/uploads/2023/02/07/63e292dca8c42.jpeg "For sexual abuse, the Catholic Church asks for forgiveness, but will there be reparation? – The First Coffee – Podcast")
+
+
+[For sexual abuse, the Catholic Church asks for forgiveness, but will there be reparation? – The First Coffee – Podcast](https://www.world-today-news.com/for-sexual-abuse-the-catholic-church-asks-for-forgiveness-but-will-there-be-reparation-the-first-coffee-podcast/)
+
+
+> Listen here to our ‘The First Coffee' program on February 13, 2023: The unprecedented forgiveness requested by the Colombian Catholic Church for cases of pedophilia in the country, although the documentation of these is erratic or in some cases their investigation has been obstructed: Does this message imply that there will be collaboration with justice, as well as recognizing the victims? and grant them moral and economic reparation? Also, in this episode: The agenda of what will be news in Colombia and the world this week.
+
+
+***
+![New Birdcall CEO on having a proprietary POS system](https://www.nrn.com/sites/nrn.com/files/Birdcall%20Willow%20Bend%20Carrollton%20TX42%20copy.jpg "New Birdcall CEO on having a proprietary POS system")
+
+
+[New Birdcall CEO on having a proprietary POS system](https://www.nrn.com/technology/new-birdcall-ceo-mark-lohmann-why-chicken-brand-s-proprietary-pos-system-advantage)
+
+
+> One of the biggest challenges most emerging operators face these days is how to build their tech stack. A restaurant's tech stack needs to be simple and efficient enough to operate easily but it also needs to have enough bells and whistles to be able to tackle digital conundrums and customer/employee needs. You could always attempt to do what 10-location, Denver, Colo.-based chicken brand Birdcall does and build an in-house POS system named Poncho, completely personalized to your company's needs.
+
+
+***
+![Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.tristatehomepage.com/wp-content/uploads/sites/92/2023/02/1cd42b40be384cf495c8c2c632082397.jpg?w=1280 "Greenpeace to appeal Spain-Saudi arms deal confidentiality")
+
+
+[Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.tristatehomepage.com/technology/ap-technology/ap-greenpeace-to-appeal-spain-saudi-arms-deal-confidentiality/)
+
+
+> Posted: Feb 13, 2023 / 11:42 AM CST Updated: Feb 13, 2023 / 11:42 AM CST MADRID (AP) — Greenpeace said Monday it will appeal a Spanish Supreme Court decision blocking public access, on national security grounds, to information on government export licenses for vehicle-mounted weapons systems sold to Saudi Arabia. The global environmental and human rights group argues that the Alakran 120 mm mortar system developed by the Madrid-based firm NTGS was deployed by the Saudi-led coalition on the border with Yemen, endangering civilian lives.
+
+
+***
+![Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.yourerie.com/wp-content/uploads/sites/27/2023/02/1cd42b40be384cf495c8c2c632082397.jpg?w=1280 "Greenpeace to appeal Spain-Saudi arms deal confidentiality")
+
+
+[Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.yourerie.com/technology/ap-technology/ap-greenpeace-to-appeal-spain-saudi-arms-deal-confidentiality/)
+
+
+> Posted: Feb 13, 2023 / 12:42 PM EST Updated: Feb 13, 2023 / 12:42 PM EST MADRID (AP) — Greenpeace said Monday it will appeal a Spanish Supreme Court decision blocking public access, on national security grounds, to information on government export licenses for vehicle-mounted weapons systems sold to Saudi Arabia. The global environmental and human rights group argues that the Alakran 120 mm mortar system developed by the Madrid-based firm NTGS was deployed by the Saudi-led coalition on the border with Yemen, endangering civilian lives.
+
+
+***
+![Bad photos on WhatsApp? No more! Check what's happening](https://images.hindustantimes.com/tech/img/2023/02/13/1600x900/samsung-4863145_1920_1676310053118_1676310064928_1676310064928.jpg "Bad photos on WhatsApp? No more! Check what's happening")
+
+
+[Bad photos on WhatsApp? No more! Check what's happening](https://tech.hindustantimes.com/tech/news/bad-photos-on-whatsapp-no-more-check-what-s-happening-71676309932778.html)
+
+
+> Do you find it difficult to share images on WhatsApp while keeping their high quality intact? No? Well, your problem is about to end. Thanks to the upcoming feature, you will find that image compression, which is the reason for bad quality photos, by WhatsApp will be a thing of the past! WhatsApp's update tracker, WabetaInfo has revealed that instant messaging app is working on a new feature that will allow you to send photos in their original quality, preserving their resolution. This expected feature will undoubtedly be considered as a significant upgrade, enhancing the image-sending experience for WhatsApp users.
+
+
+***
+![Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.ksnt.com/wp-content/uploads/sites/86/2023/02/1cd42b40be384cf495c8c2c632082397.jpg?w=1280 "Greenpeace to appeal Spain-Saudi arms deal confidentiality")
+
+
+[Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.ksnt.com/technology/ap-technology/ap-greenpeace-to-appeal-spain-saudi-arms-deal-confidentiality/)
+
+
+> Posted: Feb 13, 2023 / 11:40 AM CST Updated: Feb 13, 2023 / 11:40 AM CST MADRID (AP) — Greenpeace said Monday it will appeal a Spanish Supreme Court decision blocking public access, on national security grounds, to information on government export licenses for vehicle-mounted weapons systems sold to Saudi Arabia. The global environmental and human rights group argues that the Alakran 120 mm mortar system developed by the Madrid-based firm NTGS was deployed by the Saudi-led coalition on the border with Yemen, endangering civilian lives.
+
+
+***
+![Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/55WNGPIGPZANHJBLQ7HXNS3QTM.jpg?_a=ATO2Bfe0 "Greenpeace to appeal Spain-Saudi arms deal confidentiality")
+
+
+[Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://www.ksat.com/tech/2023/02/13/greenpeace-to-appeal-spain-saudi-arms-deal-confidentiality/)
+
+
+> MADRID – Greenpeace said Monday it will appeal a Spanish Supreme Court decision blocking public access, on national security grounds, to information on government export licenses for vehicle-mounted weapons systems sold to Saudi Arabia. The global environmental and human rights group argues that the Alakran 120 mm mortar system developed by the Madrid-based firm NTGS was deployed by the Saudi-led coalition on the border with Yemen, endangering civilian lives. The weapon's use 'not only violates the Spanish law on arms trade control, but also the international Arms Trade Treaty signed by Spain,' Greenpeace argued.
+
+
+***
+![Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://federalnewsnetwork.com/wp-content/uploads/2017/12/cropped-icon-512x512-1.png "Greenpeace to appeal Spain-Saudi arms deal confidentiality")
+
+
+[Greenpeace to appeal Spain-Saudi arms deal confidentiality](https://federalnewsnetwork.com/technology-news/2023/02/greenpeace-to-appeal-spain-saudi-arms-deal-confidentiality/)
+
+
+> MADRID (AP) — Greenpeace said Monday it will appeal a Spanish Supreme Court decision blocking public access, on national security grounds, to information on government export licenses for vehicle-mounted weapons systems sold to Saudi Arabia. The global environmental and human rights group argues that the Alakran 120 mm mortar system developed by the Madrid-based firm NTGS was deployed by the Saudi-led coalition on the border with Yemen, endangering civilian lives. The weapon's use 'not only... MADRID (AP) — Greenpeace said Monday it will appeal a Spanish Supreme Court decision blocking public access, on national security grounds, to information on government export licenses for vehicle-mounted weapons systems sold to Saudi Arabia.
+
+
+***
+![M2 Pro Mac mini Review](https://photos5.appleinsider.com/gallery/52708-106028-M2-Pro-Mac-mini-xl.jpg "M2 Pro Mac mini Review")
+
+
+[M2 Pro Mac mini Review](https://appleinsider.com/articles/23/02/13/m2-pro-mac-mini-review-best-price-to-performance-apple-silicon-yet)
+
+
+> The M2 Pro version of the Mac mini offers extra performance grunt to the compact Mac, in a package that hits the sweet spot, and threatens its larger stablemate, the Mac Studio. The Mac mini has always been an effective entry-level option for upgraders and switchers who already have a keyboard, mouse, and display, but just need the brains of the operation. There has always been a narrow computing power range in that small block, but until now, it never spanned that much of the performance spectrum.
+
+
+***
+![Japanese style x hunting bursts out a new taste, 'Wild Hearts Wild Heart' EA x Koei Tecmo ω‐Force cooperation behind the scenes](https://img.4gamers.com.tw/news-image/01d94bf7-191f-4a7a-8b48-b8787fc054e7.jpg "Japanese style x hunting bursts out a new taste, 'Wild Hearts Wild Heart' EA x Koei Tecmo ω‐Force cooperation behind the scenes")
+
+
+[Japanese style x hunting bursts out a new taste, 'Wild Hearts Wild Heart' EA x Koei Tecmo ω‐Force cooperation behind the scenes](https://www.world-today-news.com/japanese-style-x-hunting-bursts-out-a-new-taste-wild-hearts-wild-heart-ea-x-koei-tecmo-%cf%89%e2%80%90force-cooperation-behind-the-scenes/)
+
+
+> 'Wild Hearts' (Wild Hearts), jointly developed by EA and Koei Tecmo, released the latest plot film 'Welcome to Minato' (Welcome to Minato) today (13), introducing the main characters in the village and more background.Development Team Koei Tecmo ω‐Force Director Kotaro Hirata 、 Takuto Edagawa synchronously brings messages through access. This time, a total of four characters from 'Minato Village' were introduced: Natsume (blacksmith) Shi Fan (former military) Celine (A role that calls for village unity),lily of the valley (the scientist) 。 The world setting concept of 'Wild Heart': When the monster is defeated, it will release the 'sky thread' in the body, and the residents of the village will use the sky thread to weave their own goals.
+
+
+***
+![15 Nordstrom Spring Staples to Stock Up on Now](https://iknowallnews.com/wp-content/uploads/2023/02/15-Nordstrom-Spring-Staples-to-Stock-Up-on-Now.jpg "15 Nordstrom Spring Staples to Stock Up on Now")
+
+
+[15 Nordstrom Spring Staples to Stock Up on Now](https://iknowallnews.com/lifestyle/15-nordstrom-spring-staples-to-stock-up-on-now/)
+
+
+> Us Weekly has affiliate partnerships so we may receive compensation for some links to products and services. It may seem a bit early to start shopping for spring, but you don't want to end up scrambling to find styles to suit the warmer weather at the last minute! We're already at the start of the transitional period, and in the blink of the eye, flowers will be starting to bloom! Being prepared is key, and sophisticated staples are an easy way to upgrade your rotation. If you need a new go-to shoe or want to refresh your denim lineup, check out our top picks from Nordstrom below! 1.
+
+
+***
+![Perfect Match's Francesca Declares She's the 'Best Kisser in the House'](https://iknowallnews.com/wp-content/uploads/2023/02/Perfect-Match039s-Francesca-Declares-She039s-the-039Best-Kisser-in-the-House039.jpg "Perfect Match's Francesca Declares She's the 'Best Kisser in the House'")
+
+
+[Perfect Match's Francesca Declares She's the 'Best Kisser in the House'](https://iknowallnews.com/lifestyle/perfect-matchs-francesca-declares-shes-the-best-kisser-in-the-house/)
+
+
+> Home » Lifestyle » Perfect Match's Francesca Declares She's the 'Best Kisser in the House' It doesn't take long for connections to form and drama to start when Netflix puts its most-talked-about singles together in a villa — and Francesca Farago is at the center of it all on Perfect Match. ‘The Perfect Match' Trailer Drops: What to Know About the Netflix Series In Us Weekly' s exclusive sneak peek of the new series, which starts streaming episodes 1 through 4 on Valentine's Day, the Too Hot to Handle alum is confident about her kissing skills ahead of a challenge where contestants must rate their experiences after making out with each other blindfolded and in earmuffs.
+
+
+***
+[CommonWell Health Alliance Reacts to QHIN Application Approval](http://www.businesswire.com/news/home/20230213005194/en/CommonWell-Health-Alliance-Reacts-to-QHIN-Application-Approval/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOSTON--(BUSINESS WIRE)-- #InteropDoneRight--Today, U.S. Department of Health and Human Services Secretary Xavier Becerra recognized CommonWell Health Alliance for its application approval to potentially become one of the Qualified Health Information Networks (QHINs) that will make up the Trusted Exchange Framework and Common Agreement (TEFCA). 'CommonWell Health Alliance is proud to move on to the next onboarding step to becoming a designated QHIN. CommonWell's existing network capabilities are
+
+
+***
+![Reliance Jio Valentine's Day offer: Check plans, eligibility and benefits](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/13/2572741-reliance-jio-valentine-s-day-offer.jpg "Reliance Jio Valentine's Day offer: Check plans, eligibility and benefits")
+
+
+[Reliance Jio Valentine's Day offer: Check plans, eligibility and benefits](https://www.dnaindia.com/technology/report-reliance-jio-valentine-s-day-offer-check-plans-eligibility-and-benefits-3023566)
+
+
+> Reliance Jio Valentine's Day Offer Reliance Jio is offering discounts to its consumers as part of a Valentine's Day campaign by including extra perks with the purchase of its Rs 349, Rs 899 and Rs 2,999 plan. There has been no announcement about the end date of the plans, which began on February 10. Valentine's Day is celebrated annually on February 14. On this day, partners show their appreciation with expensive surprises, unique presents, and other acts of kindness. Jio's bundles come with complimentary 12 GB 4G data vouchers.
+
+
+***
+![Built-in satellite tuners: Big change coming to TVs, Union Minister reveals plan](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/13/2572743-tv.jpg "Built-in satellite tuners: Big change coming to TVs, Union Minister reveals plan")
+
+
+[Built-in satellite tuners: Big change coming to TVs, Union Minister reveals plan](https://www.dnaindia.com/technology/report-built-in-satellite-tuners-big-change-coming-tvs-union-minister-reveals-plan-anurag-thakur-set-top-box-3023567)
+
+
+> File Photo The government is planning to have a new technology inside TV sets that will reduce the need to have set-top boxes. The plan was revealed by the Union Information and Broadcasting Minister Anurag Thakur on Monday. Thakur revealed that efforts are underway to have built-in satellite tuners in television sets. These tuners will let TV viewers watch over 200 channels without the need for having set-top boxes. With these ‘built-in satellite tuners', TVs will get reception of free-to-air television and radio channels by just mounting a small antenna at a suitable location like a rooftop or building's side walls.
+
+
+***
+![The Apple Watch Ultra returns to its all-time low price](https://cdn.vox-cdn.com/thumbor/ybry-cdaEon1s630bvWog3ydPdA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24037407/226274_APPLE_WATCH_ULTRA_PHO_akrales_0035.jpg "The Apple Watch Ultra returns to its all-time low price")
+
+
+[The Apple Watch Ultra returns to its all-time low price](https://www.theverge.com/2023/2/13/23594685/apple-watch-ultra-bose-frames-tempo-anker-nano-deal-sale)
+
+
+> Welcome to a new week, dear readers! Today, we're starting off our roundup with an excellent deal that more adventurous Apple aficionados out there will love. Right now, the most capable smartwatch Apple's ever made — the — is currently $729.99 at Amazon (for select customers) at checkout as well as at Costco for members through February 14th. That matches the wearable's all-time low price and is the lowest we've seen it sell for so far this year. If you're not eligible for either deal, fret not because you can also buy the wearable for $749 at Amazon and Best Buy , which is its second-best price.
+
+
+***
+![I bought a Samsung Galaxy S23 and I only regret one thing… – Glosa](https://cdn.24net.cz/1/obrazek/ikonka-355112 "I bought a Samsung Galaxy S23 and I only regret one thing… – Glosa")
+
+
+[I bought a Samsung Galaxy S23 and I only regret one thing… – Glosa](https://www.world-today-news.com/i-bought-a-samsung-galaxy-s23-and-i-only-regret-one-thing-glosa/)
+
+
+> The last 'esque' series with the number 23 was successful for Samsung according to many reviews. Above all, everyone praises the durability of these devices. This affects not only the increased battery capacity, but also the new chipset and the overall device settings. But there is one annoying catch… On the one hand, Samsung, like other companies in the industry, seems to be running out of breath and innovating only in small steps or not at all. Taking a cursory look at the S23 family, you would be hard-pressed to find a reason to switch from last year's generation, even much older devices can serve less demanding users well thanks to long support and quality workmanship.
+
+
+***
+![Berkshire Grey confirms acquisition interest from SoftBank](https://roboticsandautomationnews.com/wp-content/uploads/2022/05/berkshire-grey-Sorting-1-5.jpeg "Berkshire Grey confirms acquisition interest from SoftBank")
+
+
+[Berkshire Grey confirms acquisition interest from SoftBank](https://roboticsandautomationnews.com/2023/02/13/berkshire-grey-confirms-acquisition-interest-from-softbank/60252/)
+
+
+> Berkshire Grey , a provider of AI-enabled robotic solutions that automate supply chain processes, has confirmed that it has received a non-binding indication of interest from SoftBank Group to acquire all of the outstanding capital stock of the company for $1.30 per share in cash. Given that Berkshire Grey has more than 230 million shares outstanding , that would make the offer worth approximately $300 million. Bloomberg , meanwhile, says he deal would be worth $218 million. The terms of any potential agreement between Berkshire Grey and SoftBank would be contingent on certain conditions, including completion of due diligence review and negotiation of definitive transaction documents.
+
+
+***
+![Sharon Stone's Brother Patrick Dies Suddenly at 57](https://iknowallnews.com/wp-content/uploads/2023/02/Sharon-Stone039s-Brother-Patrick-Dies-Suddenly-at-57.jpg "Sharon Stone's Brother Patrick Dies Suddenly at 57")
+
+
+[Sharon Stone's Brother Patrick Dies Suddenly at 57](https://iknowallnews.com/celebrities/sharon-stones-brother-patrick-dies-suddenly-at-57/)
+
+
+> More heartbreak for Sharon Stone and her family … her brother Patrick died suddenly over the weekend. Patrick died early Sunday morning in Pennsylvania. A rep for the coroner's office tells us his death is being ruled as sudden cardiac death due to heart disease. It's unclear if he was hospitalized at the time of his death. Pat's wife Tasha shared the devastating news with friends, writing, 'My heart feels like it's been ripped out of my chest. Patrick went to be with our sweet River … I don't know what else to say, he was my world.
+
+
+***
+![5 Games to Play This Valentine's Day with That Special Someone – Gamereactor](https://www.gamereactor.cn/media/22/_3332203b.jpg "5 Games to Play This Valentine's Day with That Special Someone – Gamereactor")
+
+
+[5 Games to Play This Valentine's Day with That Special Someone – Gamereactor](https://www.world-today-news.com/5-games-to-play-this-valentines-day-with-that-special-someone-gamereactor/)
+
+
+> Games can often be portrayed as a solitary experience, but for those of you who do have someone special in your life, there are plenty of opportunities to bring that partner into co-op adventures. As gaming has grown in popularity, more and more couples are looking to find the perfect game that they can actually enjoy together instead of just one person sitting and watching the other play. We've compiled a list of five of the best games you can enjoy with your partner this Valentine's Day. 1. It Takes Two While It Takes Two may not initially sound like the best game for a couple to play – it does focus on a married couple on the brink of divorce, after all – it's a really fun co-op experience that requires two people to work together to play a role.
+
+
