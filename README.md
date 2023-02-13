@@ -18192,3 +18192,930 @@
 > Apex Legends season 16, called 'Revelry,' brings some big changes to the popular live-service shooter . It's also a celebration — a revelry , if you will — of the game's fourth anniversary. What time does Apex Legends season 16 launch? Apex Legends season 16 launches on February 14, 2023 — happy Valentine's Day! There's no official release time yet, but previous seasons have launched at 10 a.m. PT in the U.S., so we can expect a similar timeframe for Revelry. This means the season will likely roll out in these time zones: 10 a.
 
 
+***
+![Vi in Discussion with Banks for Refinancing and Softer Payment Terms: Report](https://telecomtalk.info/wp-content/uploads/2023/02/vi-in-discussion-with-banks-for-refinancing.jpeg "Vi in Discussion with Banks for Refinancing and Softer Payment Terms: Report")
+
+
+[Vi in Discussion with Banks for Refinancing and Softer Payment Terms: Report](https://telecomtalk.info/vi-in-discussion-with-banks-for-refinancing/676151/)
+
+
+> Vodafone Idea (Vi), the third largest telecom operator in India, is in discussion with the banks to refinance some of the debt and also for softer repayment terms. Vi is in the preliminary stage of discussion with the banks and has not yet submitted a formal refinancing proposal. At the end of the September 2022 quarter, Vi's cash balance was Rs 190 crore only, while its debt stood at Rs 2.2 lakh crore.  Vodafone Idea (Vi), the third largest telecom operator in India, is in discussion with the banks to refinance some of the debt and also for softer repayment terms.
+
+
+***
+![Airtel Xstream Premium App Completes One Year Journey as It Redefined OTT Bundling](https://telecomtalk.info/wp-content/uploads/2023/02/airtel-xstream-premium-app-anniversary-ott-bundling.jpg "Airtel Xstream Premium App Completes One Year Journey as It Redefined OTT Bundling")
+
+
+[Airtel Xstream Premium App Completes One Year Journey as It Redefined OTT Bundling](https://telecomtalk.info/airtel-xstream-premium-app-anniversary-ott-bundling/676119/)
+
+
+> Airtel Xstream is a streaming service offered by Airtel, one of India's leading telcos. Airtel Xstream Premium is a paid version of the service that provides users access to a wide range of content, including live TV channels, movies, TV shows, and original web series. Launched in February 2022, Airtel Xstream Premium, in an industry first, aggregates content from over 15 leading Video Apps with a single login, search and subscription. Earlier known as the Airtel TV app, Airtel Xstream is a video platform available on Android, iOS and desktop versions.
+
+
+***
+![Saudi Arabia-based HR tech platform, Palm.hr raises $5 million to expand across MENA](https://africabusinesscommunities.com//Images/Key Logos/palm.hr.png "Saudi Arabia-based HR tech platform, Palm.hr raises $5 million to expand across MENA")
+
+
+[Saudi Arabia-based HR tech platform, Palm.hr raises $5 million to expand across MENA](https://africabusinesscommunities.com/tech/tech-news/saudi-arabia-based-hr-tech-platform-palm.hr-raises-$5-million-to-expand-across-mena)
+
+
+> Palm.hr, a Saudi Arabian HR firm that automates payroll, tracks leaves and absences and monitors employee performance has secured $5 million in a pre-Series A round. The new funding will facilitate expansion into Egypt and other countries in the Middle East and North Africa(MENA) region. The company says it is on a mission to transform human resource technology and offer better employee experience in the region, including onboarding and offboarding processes. The new round of funding was led by  Europe-based VC Speedinvest.
+
+
+***
+![Lessons from Covid-19 about data sharing during a pandemic](http://icthealth.nl/https:/wp-content/uploads/2023/02/corona-covid-masker-scaled.jpeg "Lessons from Covid-19 about data sharing during a pandemic")
+
+
+[Lessons from Covid-19 about data sharing during a pandemic](https://www.world-today-news.com/lessons-from-covid-19-about-data-sharing-during-a-pandemic/)
+
+
+> Furthermore, it showed Verwey-Jonker report the need for more capacity, clout, clarity and flexibility, as well as faster and better scaling options. Partly as a result of this report, the National Infectious Disease Control Functionality (LFI) established. It must provide central direction and operational control. One of the LFI's responsibilities is to improve the data and information provision in the event of a subsequent pandemic. Trusted third party A solution for effectively and efficiently exchanging the desired data in a pandemic can lie in using a trusted third party (Trusted Third Party; TTP).
+
+
+***
+![Opera to test ChatGPT-powered ‘Shorten' button for Mini browser: All you need to know](https://www.hindustantimes.com/ht-img/img/2023/02/13/1600x900/Ope_1676272952684_1676272959162_1676272959162.jpg "Opera to test ChatGPT-powered ‘Shorten' button for Mini browser: All you need to know")
+
+
+[Opera to test ChatGPT-powered ‘Shorten' button for Mini browser: All you need to know](https://www.hindustantimes.com/technology/opera-to-test-chatgpt-powered-shorten-button-for-mini-browser-all-you-need-to-know-101676272783792.html)
+
+
+> Published on Feb 13, 2023 01:35 PM IST Opera Mini's 'Shorten' feature (blogs.opera.com) By HT News Desk , New Delhi Opera is testing a new feature called ‘Shorten' for its namesake search engine Opera Mini. The ‘Shorten' button is part of the company's upcoming drive to integrate artificial intelligence (AI)-generated content into its browsers on both personal computers (PCs) and mobile phones. On Feb 10, the Norwegian tech giant took to its official blog to announce the AI integration, as well as the Shorten option.
+
+
+***
+![MediaTek Helio G36 chipset for budget gaming smartphones unveiled in India](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/13/2572611-mediatek-helio-g36.png "MediaTek Helio G36 chipset for budget gaming smartphones unveiled in India")
+
+
+[MediaTek Helio G36 chipset for budget gaming smartphones unveiled in India](https://www.dnaindia.com/technology/report-mediatek-helio-g36-chipset-for-budget-gaming-smartphones-unveiled-in-india-3023446)
+
+
+> MediaTek Helio G36 MediaTek has unveiled the latest MediaTek Helio G36 to power the upcoming gaming smartphones in India. With high quality Portrait bokeh and light AI-camera enhancements, the new MediaTek Helio G36 processor is claimed to level up the entry gaming smartphones with the benefits of a bigger camera, sustained performance, faster displays, and global dual 4G connectivity. MediaTek Helio G36 is part of the MediaTek Helio G series that is built on TSMC 12nm production process along with enhanced connectivity, location services.
+
+
+***
+![Delays in sight for Apple's 27-inch mini-LED monitor](https://www.iphonote.com/wp-content/uploads/2023/02/moniteur-mini-led-27-pouces-apple.jpg "Delays in sight for Apple's 27-inch mini-LED monitor")
+
+
+[Delays in sight for Apple's 27-inch mini-LED monitor](https://www.world-today-news.com/delays-in-sight-for-apples-27-inch-mini-led-monitor/)
+
+
+> Apple's alleged 27-inch external display with mini-LED backlighting may no longer be released in the first quarter of 2023, as confirmed in these hours by the reliable Ross Young. Young a declared that he had seen no signal from Apple's suppliers as they began mass production of a 27-inch mini-LED external monitor. It looks like the display has been delayed multiple times as Young originally planned a June 2020 launch and then talked about Q3 2023. Today the analyst didn't provide a supposed new date for the monitor.
+
+
+***
+![What is the performance difference between RTX 4090 desktop graphics card and RTX 4090 laptop graphics card? The actual measurement results of 15 games will answer for you](https://www.kocpc.com.tw/wp-content/uploads/2023/02/1676272991-236508d8e568389135f82fcc2808df0b.jpg "What is the performance difference between RTX 4090 desktop graphics card and RTX 4090 laptop graphics card? The actual measurement results of 15 games will answer for you")
+
+
+[What is the performance difference between RTX 4090 desktop graphics card and RTX 4090 laptop graphics card? The actual measurement results of 15 games will answer for you](https://www.world-today-news.com/what-is-the-performance-difference-between-rtx-4090-desktop-graphics-card-and-rtx-4090-laptop-graphics-card-the-actual-measurement-results-of-15-games-will-answer-for-you/)
+
+
+> Although desktop computers are definitely more powerful than laptops, laptops have the advantage of not taking up much space and being easy to move around. For some gamers who don't have much space at home, they must be thinking about which one to buy? Is there a huge difference in the performance of the same graphics card? Recently, foreign media conducted a test of RTX 4090 desktop graphics card vs RTX 4090 laptop graphics card, and actually ran 15 3A game masterpieces, which should be a good reference for you, and I will sort it out for you below.
+
+
+***
+![Microsoft to Soon Demo ChatGPT-like AI in Word, PowerPoint, and Outlook](https://www.gizmochina.com/wp-content/uploads/2023/02/Microsoft-365-ChatGPT.jpeg "Microsoft to Soon Demo ChatGPT-like AI in Word, PowerPoint, and Outlook")
+
+
+[Microsoft to Soon Demo ChatGPT-like AI in Word, PowerPoint, and Outlook](https://www.gizmochina.com/2023/02/13/microsoft-office-chatgpt-demo-soon)
+
+
+> Microsoft, which has partnered with and invested in OpenAI, the parent company of ChatGPT, is reportedly considering adding ChatGPT technology to its popular office suite, including Word, PowerPoint, and Outlook. According to the report from The Verge, Microsoft is preparing to detail its productivity plans for integrating OpenAI's language AI technology and its Prometheus Model in the coming weeks. Microsoft is tentatively planning an announcement in March, highlighting how quickly the company wants to reinvent search and its productivity apps through its OpenAI investments.
+
+
+***
+![Tablet shipments to slip below 30 million units in 1Q23, says DIGITIMES Research](https://img.digitimes.com/newsshow/20230213vl205_files/1_2b.jpg "Tablet shipments to slip below 30 million units in 1Q23, says DIGITIMES Research")
+
+
+[Tablet shipments to slip below 30 million units in 1Q23, says DIGITIMES Research](https://www.digitimes.com/news/a20230213VL205/digitimes-research.html)
+
+
+> Credit: DIGITIMES After declining 7.7% from a quarter ago in the fourth quarter of 2022, global tablet shipments are expected to plunge a double-digit percentage sequentially to fall beneath 30 million units, the lowest quarterly level since the second quarter of 2020, according to DIGITIMES Research's latest report covering global tablet shipments. Fourth-quarter 2022 global tablet shipments suffered a decline from the prior quarter as consumers tightened their spending on non-essentials amid the weakening economy, rising inflation and high interest rates.
+
+
+***
+![The OnePlus 11 won't be the only OnePlus phone to get 4 years of Android updates](https://www.androidauthority.com/wp-content/uploads/2023/02/OnePlus-four-years-of-updates.jpg "The OnePlus 11 won't be the only OnePlus phone to get 4 years of Android updates")
+
+
+[The OnePlus 11 won't be the only OnePlus phone to get 4 years of Android updates](https://www.androidauthority.com/oneplus-11r-four-years-updates-3282478/)
+
+
+> Adamya Sharma / Android Authority TL;DR OnePlus will extend the same update commitment as the OnePlus 11 to the OnePlus 11R. The company has confirmed that the cheaper phone will also get four years of Android updates and five years of security patches. The OnePlus 11 launched recently and became the first OnePlus phone to take advantage of the company's new update policy. It's slated to get four years of Android updates and five years of security patches, right up there with Samsung's industry-leading upgrade commitment .
+
+
+***
+![How to Bond Rubber to Aluminum](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/glass-doors.png "How to Bond Rubber to Aluminum")
+
+
+[How to Bond Rubber to Aluminum](https://roboticsandautomationnews.com/2023/02/13/how-to-bond-rubber-to-aluminum/60223/)
+
+
+> How to Glue Rubber to Aluminum The gluing rubber to aluminum procedure is easier than it might sound. Starting with the best and cleanest surface is a good idea. This will help ensure that the glue sticks well and that the finished product won't have any issues. For this project, you can use a variety of glues, but some are better for certain materials than others. For instance, if you are working with rubber, you should use an adhesive made for this material. A general-purpose adhesive should be adequate for use with aluminum.
+
+
+***
+![New Android phone gets superfast upgrade Samsung's Galaxy can't match](https://cdn.images.express.co.uk/img/dynamic/59/1200x712/4562040.jpg?r=1676274714701 "New Android phone gets superfast upgrade Samsung's Galaxy can't match")
+
+
+[New Android phone gets superfast upgrade Samsung's Galaxy can't match](https://www.express.co.uk/life-style/science-technology/1733945/Samsung-Galaxy-S23-fast-charging-Realme-Neo-GT-5)
+
+
+> The new Realme Neo GT 5 can charge in under 10 minutes (Image: REALME) Samsung's shiny new Galaxy S23 series may have just been announced but these latest devices have already been beaten by another Android rival. Chinese tech firm Realme, has just confirmed the launch of a device which will be perfect for anyone who constantly finds their phone has run out of juice. That's because its new GT Neo 5 comes packed with rapid 240W charging which basically means you can go from 0 to 20 percent in 80 seconds and have it filled to 50 percent in just four minutes.
+
+
+***
+![Valentine's Day! Huge discounts on iPhone 14 Pro, Samsung Galaxy S23, Galaxy Z Flip 4, more](https://images.hindustantimes.com/tech/img/2023/02/13/1600x900/james-yarema-MQ25dT1yi1w-unsplash_1669539789397_1676274430895_1676274430895.jpg "Valentine's Day! Huge discounts on iPhone 14 Pro, Samsung Galaxy S23, Galaxy Z Flip 4, more")
+
+
+[Valentine's Day! Huge discounts on iPhone 14 Pro, Samsung Galaxy S23, Galaxy Z Flip 4, more](https://tech.hindustantimes.com/mobile/news/valentines-day-huge-discounts-on-iphone-14-pro-samsung-galaxy-s23-galaxy-z-flip-4-more-71676274007068.html)
+
+
+> Valentine's Day is almost here and so is the time to show your partner the extent of your love. The best way to do this is by gifting them a brand-new smartphone preferably, a premium one. To make it easier for shoppers, Croma has announced amazing deals on a wide-range of smartphones, which includes iPhone 14 Pro Max, iPhone 14, Samsung Galaxy Z Flip 4 and more. In addition to discounts, customers can also grab bank benefits to make the deals even more amazing! So, what are you waiting for? Check out the Croma offers here.
+
+
+***
+![Microsoft likely to accelerate AI integration into Word, PowerPoint, and Outlook with ChatGPT-like model](https://images.cnbctv18.com/wp-content/uploads/2023/02/Untitled-design-8-1019x573.jpg "Microsoft likely to accelerate AI integration into Word, PowerPoint, and Outlook with ChatGPT-like model")
+
+
+[Microsoft likely to accelerate AI integration into Word, PowerPoint, and Outlook with ChatGPT-like model](https://www.cnbctv18.com/technology/microsoft-likely-to-accelerate-ai-integration-into-word-powerpoint-and-outlook-with-chatgpt-like-model-15920921.htm)
+
+
+> Microsoft is reportedly planning to demonstrate its new ChatGPT-like Prometheus model to its core productivity apps such as Word, PowerPoint, and Outlook.  Feb 13, 2023 IST 4 Min(s) Read Feb 11, 2023 IST 4 Min(s) Read Feb 11, 2023 IST 5 Min(s) Read Feb 10, 2023 IST 5 Min(s) Read According to The Verge , the company is preparing to detail its productivity plans for integrating OpenAI's language AI technology and its Prometheus Model in the coming weeks. The software giant is tentatively planning an announcement in March, highlighting how quickly Microsoft wants to reinvent search and its productivity apps through its OpenAI investments.
+
+
+***
+![Did ChatGPT just kill Google Bard? Here's why this is a step in the right direction for AI](https://biz-file.com/c/2302/687370.jpg "Did ChatGPT just kill Google Bard? Here's why this is a step in the right direction for AI")
+
+
+[Did ChatGPT just kill Google Bard? Here's why this is a step in the right direction for AI](https://www.bizcommunity.com/Article/196/852/235898.html)
+
+
+> The long-standing rivalry between Google and Microsoft reached a head this week when Google revealed its challenger to Microsoft's groundbreaking ChatGPT tool, which was launched in November last year, and which was set to integrate with the struggling search engine, Bing. Dr Heloise Greeff, first female elite pro Popular investor eToro | image supplied Called Google Bard, the new AI-equipped service was intended to take on ChatGPT, in an attempt to limit the potential loss of market share to Microsoft that ChatGPT is likely to achieve.
+
+
+***
+![Millicom's THINK Announces Top 10 Finalists to Fight for $15k Investment & Incubation in Rwanda](https://techmoran.com/wp-content/uploads/2015/03/banner.png "Millicom's THINK Announces Top 10 Finalists to Fight for $15k Investment & Incubation in Rwanda")
+
+
+[Millicom's THINK Announces Top 10 Finalists to Fight for $15k Investment & Incubation in Rwanda](https://techmoran.com/2015/03/27/millicoms-think-announces-top-10-finalists-recieve-15k-investment-incubation-rwanda/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![Samsung Releases Galaxy S23 Ultra BMW M Edition, Only 1000 Units Available](https://admin.technologue.id/wp-content/uploads/2023/02/Untitledbmwedit.jpg "Samsung Releases Galaxy S23 Ultra BMW M Edition, Only 1000 Units Available")
+
+
+[Samsung Releases Galaxy S23 Ultra BMW M Edition, Only 1000 Units Available](https://www.world-today-news.com/samsung-releases-galaxy-s23-ultra-bmw-m-edition-only-1000-units-available/)
+
+
+> Gadget New Product News Latest News Headline news-box-content-sub"> by Choiru Rizkia – editor Choiru Rizkia Feb 13, 2023 Technologue.id, Jakarta – Samsung will release the Galaxy S23 Ultra BMW M Edition on February 17. This limited edition smartphone is the result of a collaboration between BMW Korea and SK Telecom. This partnership enables the integration of BMW's iconic design elements and high-performance engineering into the flagship Galaxy S23 Ultra. As the marketing division image shows, Samsung has created a limited edition Galaxy S23 Ultra model inspired by the M3 E30.
+
+
+***
+![Microsoft's new ChatGPT-powered Bing is now rolling out to select users](https://www.windowslatest.com/wp-content/uploads/2023/02/Microsoft-Bing-ChatGPT.jpg "Microsoft's new ChatGPT-powered Bing is now rolling out to select users")
+
+
+[Microsoft's new ChatGPT-powered Bing is now rolling out to select users](https://www.windowslatest.com/2023/02/13/microsofts-new-chatgpt-powered-bing-is-now-rolling-out-to-select-users/)
+
+
+> Microsoft's ChatGPT-powered Bing AI is now rolling out to early testers, and one of our Microsoft accounts has also received the invite to preview the new search experience. ChatGPT is the new trend in the computing industry, and Microsoft is betting big on AI as a significant part of the future of computing, and so is Google. Microsoft recently confirmed the rumours that ChatGPT is heading to Bing. Following a teaser last week, a new version of Bing with ChatGPT is now available on the desktop.
+
+
+***
+![iQOO Neo 7 Spotted on Google Play Console With MediaTek Dimensity 8200 Ahead of India Launch on February 16](https://assets.mspimages.in/wp-content/uploads/2023/01/iQOO-Neo-7-5G.jpg "iQOO Neo 7 Spotted on Google Play Console With MediaTek Dimensity 8200 Ahead of India Launch on February 16")
+
+
+[iQOO Neo 7 Spotted on Google Play Console With MediaTek Dimensity 8200 Ahead of India Launch on February 16](https://www.mysmartprice.com/gear/iqoo-neo-7-google-play-console-india-launch-february-16/)
+
+
+> iQOO Neo 7 5G is set to launch in India on February 16. The premium smartphone from iQOO will launch as a successor to the Neo 6 5G, which was launched last year in India. The Neo 7 5G Indian variant is confirmed to feature MediaTek Dimensity 8200 SoC under the hood. The company has also confirmed some other specifications of the phone. Ahead of the official launch, the Neo 7 5G has been spotted on the Google Play Console.   The listing on Google Play Console confirms some key specifications of the phone.
+
+
+***
+![Warning! Remove these 203 malicious apps from your phone now to stop attack; check list](https://images.hindustantimes.com/tech/img/2023/02/13/1600x900/app-4868817_1920_1669551412975_1676273825522_1676273825522.jpg "Warning! Remove these 203 malicious apps from your phone now to stop attack; check list")
+
+
+[Warning! Remove these 203 malicious apps from your phone now to stop attack; check list](https://tech.hindustantimes.com/mobile/news/warning-remove-these-203-malicious-apps-from-your-phone-now-to-stop-attack-check-list-71676273672614.html)
+
+
+> Although Google rigorously monitors apps with its Play Protect promise, some of these apps can be malicious and can slip under the radar, leaving users at risk of a malware attack. These apps, when downloaded on your smartphone can, not only steal your data, but also potentially put your financial information at risk, leave your phone exposed to hacks and even brick your phone, leaving you a worthless and super-expensive paperweight. Thailand's Ministry of Digital Economy and Society (DES) and National Cyber Security Agency (NCSA) have recently announced the discovery of 203 malicious apps which contain malware used to target phones, urging users to uninstall them immediately.
+
+
+***
+![Not only a search engine, ChatGPT seems to be a new hope for games- INSIDE](https://www.akomnews.com/data/editor/2302/20230213152252_daf9b45867f8c3e8a0a6eaf0489c7563_q43h.jpg "Not only a search engine, ChatGPT seems to be a new hope for games- INSIDE")
+
+
+[Not only a search engine, ChatGPT seems to be a new hope for games- INSIDE](https://www.world-today-news.com/not-only-a-search-engine-chatgpt-seems-to-be-a-new-hope-for-games-inside/)
+
+
+> This article comes from the cooperative media United News Network INSIDE reproduced with permission. At present, the chatbot ChatGPT is mainly used in search engines and machine writing, but a player recently tried to use it in video games, so that the non-player characters (NPCs) in the game no longer speak the same words, which is more humane and touching. Looking forward to the application of ChatGPT combined with games. TechSpot reported that a Youtube video released by a player named Bloc last month introduced a ChatGPT module (mod) in the game 'Horse Riding and Killing 2: Bannerlord', replacing the original NPC dialogue mechanism of the game, allowing players to type Ask, and the NPC will respond appropriately, creating a more dynamic dialogue exchange.
+
+
+***
+![The most valuable information for sleeping resources about Bamboo sheets and honey hybrid mattress](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/bamboo-sheets-1.jpg "The most valuable information for sleeping resources about Bamboo sheets and honey hybrid mattress")
+
+
+[The most valuable information for sleeping resources about Bamboo sheets and honey hybrid mattress](https://roboticsandautomationnews.com/2023/02/13/the-most-valuable-information-for-sleeping-resources-about-bamboo-sheets-and-honey-hybrid-mattress/60218/)
+
+
+> Most Valuable Products that Overcome Diseases which affects the human body due to inferior sleep A lot of people feel disturbed during sleeping by the use of different types of mattresses and Sheets,most diseases come into the human body due to inferior sleep.  Bamboo Sheets Bamboo fabrics are made from the fibers of bamboo plants. The fibers are woven together to create a luxurious fabric, ultra-soft that boasts a plethora of benefits. A Sweet Zzz Bamboo Sheet is moisture-wicking and cooling and the nature of its fibers and the way they come together in the fabric makes for a very breathable mattress that we can breathe easily.
+
+
+***
+![Microsoft to demo its new ChatGPT-like AI in Word, PowerPoint, and Outlook soon](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-10-1642529.jpg "Microsoft to demo its new ChatGPT-like AI in Word, PowerPoint, and Outlook soon")
+
+
+[Microsoft to demo its new ChatGPT-like AI in Word, PowerPoint, and Outlook soon](https://www.businessghana.com/)
+
+
+> Microsoft is getting ready to demonstrate how its new ChatGPT-like AI will transform its Office productivity apps. After announcing and demonstrating its Prometheus Model in its new Bing search engine earlier this week, Microsoft is gearing up to show how it will expand to its core productivity apps like Word, PowerPoint, and Outlook. Sources familiar with Microsoft's plans tell The Verge that the company is preparing to detail its productivity plans for integrating OpenAI's language AI technology and its Prometheus Model in the coming weeks.
+
+
+***
+![Sling TV launches free ad-supported streaming TV service ‘Sling Freestream'](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-10-1637195.jpg "Sling TV launches free ad-supported streaming TV service ‘Sling Freestream'")
+
+
+[Sling TV launches free ad-supported streaming TV service ‘Sling Freestream'](http://www.businessghana.com/site/news/technology/279759/Sling-TV-launches-free-ad-supported-streaming-TV-service-%E2%80%98Sling-Freestream%E2%80%99)
+
+
+> Today, Sling TV announced the launch of its free ad-supported streaming TV service, Sling Freestream, which offers access to over 210 channels and more than 41,000 on-demand movies and TV shows across a variety of different genres, including news, sports, crime, home improvement, cooking and more. At launch, Sling Freestream is available through the Sling TV app on all Roku devices. It's also rolling out across LG, Samsung and Vizio devices. In the coming months, the FAST service will launch across all of Sling TV's supported devices, such as iOS devices, Android devices, Fire TV devices, Apple TV, Xbox and more.
+
+
+***
+![MailDex Email Manager Software Indexes Personal Email History](https://1330878074.rsc.cdn77.org/wp-content/uploads/2022/09/Email_8-3-2022-10.jpg "MailDex Email Manager Software Indexes Personal Email History")
+
+
+[MailDex Email Manager Software Indexes Personal Email History](https://martechseries.com/content/email-mktg/maildex-email-manager-software-indexes-personal-email-history-to-make-it-searchable/)
+
+
+> Encryptomatic LLC announced the availability of MailDex email viewer/converter, version 2023. MailDex is an affordable Windows software tool for indexing, searching, discovering, visualizing and converting emails. MailDex works across many email client formats, including Outlook PST, OST, OLM and MSG files, Thunderbird's EML, MBOX, as well as WINMAIL.DAT, MHT, EMLX files. Individuals, companies, investigators and researchers use MailDex to organize, discover, archive, and present important email content.
+
+
+***
+![⚡Android 14 Update: Google's OS May Feature New Settings for Region-Specific Preferences](https://st1.latestly.com/wp-content/uploads/2023/01/129-4.jpg "⚡Android 14 Update: Google's OS May Feature New Settings for Region-Specific Preferences")
+
+
+[⚡Android 14 Update: Google's OS May Feature New Settings for Region-Specific Preferences](https://www.latestly.com/quickly/technology/android-14-update-google-s-os-may-feature-new-settings-for-region-specific-preferences-4834484.html)
+
+
+> Tech giant Google is reportedly working on new settings for its upcoming system software update 'Android 14', which will allow users to set all regional preferences, removing the need to hop into every application's settings menu.
+
+
+***
+![Miniled for less – Cooler Master GP27U and AOC AG274QXM](https://tweakers.net/ext/i/2005613022.jpeg "Miniled for less – Cooler Master GP27U and AOC AG274QXM")
+
+
+[Miniled for less – Cooler Master GP27U and AOC AG274QXM](https://www.world-today-news.com/miniled-for-less-cooler-master-gp27u-and-aoc-ag274qxm/)
+
+
+> AOC Agon Pro AG274QXM Cooler Master Tempest GP27U In brief The AOC Agon Pro AG274QXM is one of the cheapest monitors with mini LED backlight, which provides a clearly better HDR display than most other PC monitors. The wqhd screen has the necessary extras, including USB-C with sufficient power delivery. The response times look good, and the input lag is low. Unfortunately, the implementation was not equally successful on all points. For example, the backlight is controlled in a blinking manner and the OSD has few presets to adjust the wide color range of the screen to different color spaces.
+
+
+***
+![OnePlus Ace 2 First Sale Report Released in China; Broke All the Records](https://www.gizmochina.com/wp-content/uploads/2023/02/OnePlus-Ace-2.webp "OnePlus Ace 2 First Sale Report Released in China; Broke All the Records")
+
+
+[OnePlus Ace 2 First Sale Report Released in China; Broke All the Records](https://www.gizmochina.com/2023/02/13/oneplus-ace-2-first-sale-report-released-in-china-broke-all-the-records)
+
+
+> In China, OnePlus had already released the OnePlus Ace 2. The same smartphone, known as the 'OnePlus 11R,' was just launched in the Indian market by the brand. They are identical smartphones with top-tier specifications such as a Qualcomm Snapdragon 8+ Gen1 CPU and a 50-megapixel Sony IMX890 main camera. In any case, the OnePlus 11R has yet to be available in India, although the Ace 2 was released in China a few days ago. The brand has already issued the sales report for the OnePlus Ace 2's initial sale, and it's rather shocking.
+
+
+***
+![Apple iPhone 15 Could Boast Brilliant Feature, New Leak Hints](https://imageio.forbes.com/specials-images/imageserve/6321bca9e68b06acf21b8dce/0x0.jpg?format=jpg&width=1200 "Apple iPhone 15 Could Boast Brilliant Feature, New Leak Hints")
+
+
+[Apple iPhone 15 Could Boast Brilliant Feature, New Leak Hints](https://www.world-today-news.com/apple-iphone-15-could-boast-brilliant-feature-new-leak-hints/)
+
+
+> Unlike many Android phones, iPhones don't have full-service reverse wireless charging. Again. But a new report, exclusive to 9to5Mac, suggests that Apple is still working on it, so it's likely to come in a future iPhone. As it was scheduled for iPhone 14 series but missed the deadline, hopefully it can be sorted in time for this year's iPhone 15 series. Read on to find out why I think this is likely. What is reverse wireless charging? Reverse wireless charging, in case you didn't know, is a very handy feature, something with a touch of generosity at its heart.
+
+
+***
+![When Is the Next Valorant Night Market in 2023?](https://gumlet.assettype.com/afkgaming%2F2022-07%2F1c54e594-5075-4d8c-8762-5716835a664f%2FFXj89mpXkAULmlE.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true "When Is the Next Valorant Night Market in 2023?")
+
+
+[When Is the Next Valorant Night Market in 2023?](https://afkgaming.com/esports/guide/when-is-the-next-valorant-night-market-in-2023)
+
+
+> Nothing gets Valorant players more excited than the arrival of the Night Market in the game client. It is one of the best ways for players to get their hands on discounted in-game cosmetics and very rare skins at lower prices. The level of discount in the store depends on how rare the item is. This concept is inspired by the ' Your Shop ' in League of Legends, a limited-time, one-stop shop for players to purchase in-game cosmetics at discounts. The last time Valorant brought back the Night market was in December 2022 and it lasted an entire month, ending only on 7th January.
+
+
+***
+![iPhone 15 to Get Support for a USB-C Port but with Limitations](https://beebom.com/wp-content/uploads/2022/05/Apple-Would-Finally-Replace-Its-Lightning-Port-with-a-USB-C-Port-on-iPhones-in-2023-feat..jpg "iPhone 15 to Get Support for a USB-C Port but with Limitations")
+
+
+[iPhone 15 to Get Support for a USB-C Port but with Limitations](https://beebom.com/iphone-15-usb-c-port-limitations/)
+
+
+> Skip to content The iPhone 15 is highly expected to adopt USB-C and a previous word by an Apple executive further confirmed this news. Now, a new leak has again pointed out the possibility of a USB-C port on this year's iPhone but this will arrive with some limitations that might not be liked by many. Have a look at the details. More Details on USB-C-Enabled iPhone 15 Leaked A Weibo user has revealed that Apple will introduce an integrated circuit board for the USB-C port for the iPhone 15.
+
+
+***
+![MDO Sustainability certification assists hotels in ESG efforts](https://qtxasset.com/quartz/qcloud1/media/image/Sustainable%20Travel%20Concept.jpg?VersionId=bZn.EmkwQaix_qxYHQOLAvaBU4hh9Rq5 "MDO Sustainability certification assists hotels in ESG efforts")
+
+
+[MDO Sustainability certification assists hotels in ESG efforts](https://www.hotelmanagement.net/tech/mdo-sustainability-certification-assists-hotels-esg-efforts)
+
+
+> What are you searching for? Enclose phrases in quotes. Use a + to require a term in results and - to exclude terms. Example: +water -Europe
+
+
+***
+![Statistics Show Which Country's Individuals Have To Spend The Highest Yearly Salary To Purchase One iPhone 14](https://cdn.wccftech.com/wp-content/uploads/2023/02/iPhone-14-Plus-1.jpg "Statistics Show Which Country's Individuals Have To Spend The Highest Yearly Salary To Purchase One iPhone 14")
+
+
+[Statistics Show Which Country's Individuals Have To Spend The Highest Yearly Salary To Purchase One iPhone 14](https://wccftech.com/percentage-of-salary-to-buy-one-iphone-14-in-different-countries/)
+
+
+> Apple launched the iPhone 14 series, starting from $799 in the U.S. ($829 if you decide to go the carrier-unlocked route), but that does not mean the latest lineup will carry the same price everywhere. In fact, according to the latest statistics, U.S. consumers, on average, only have to spend a fraction of their yearly salary to purchase an iPhone. In contrast, customers in other regions have to fork over more than 50 percent of it. Here are some percentages that you would love to read about. Nigerian consumers have it the worst when wanting to purchase an iPhone 14, followed by Bangladesh If you live in the U.
+
+
+***
+![Echoes of Mana to end service on May 15](https://www.gematsu.com/wp-content/uploads/2023/02/Echoes-of-Mana-End-of-Service_02-13-23.jpg "Echoes of Mana to end service on May 15")
+
+
+[Echoes of Mana to end service on May 15](https://www.gematsu.com/2023/02/echoes-of-mana-to-end-service-on-may-15)
+
+
+> Echoes of Mana will end service on May 15, Square Enix announced . The free-to-play RPG , developed by Another Eden: The Cat Beyond Time and Space studio WFS , first launched for iOS via App Store and Android via Google Play on April 27, 2022 worldwide. When service ends, the game will have run for just over a year. ''Since Echoes of Mana ‘s launch on April 27, 2022, we've strived to provide an incredible and enjoyable gaming experience for our players every day that could exceed the day before,' reads the end of service announcement.
+
+
+***
+![Apple Watch Could Soon Come With A Camera: How It Could Work](https://images.news18.com/ibnlive/uploads/2022/12/apple-watch-blood-oxygen-167229328616x9.jpg "Apple Watch Could Soon Come With A Camera: How It Could Work")
+
+
+[Apple Watch Could Soon Come With A Camera: How It Could Work](https://www.news18.com/news/tech/apple-watch-could-soon-come-with-a-camera-how-it-could-work-7068751.html)
+
+
+> Apple Watch is one of the most popular wearable devices in the market and it serves millions across the globe. Its fitness features have been revered for accuracy and helping save lives of people in some cases. The company could further strengthen its case by integrating a camera to the Apple Watch which could widen the capability of the wearable. Apple has reportedly filed the patent to bring this feature for its smartwatch and some of the details have also been revealed via the patent. The filing was spotted by Patently Apple which highlights the possible use case of the camera and where it might fit into the design of the smartwatch.
+
+
+***
+![Samsung x CASETiFY มอบส่วนลด 20% ให้ลูกค้าที่ซื้อ Galaxy S23 Series](https://cdn-news.siamphone.com/upload/news/nw51162/000-SamsungxCasetify.jpg "Samsung x CASETiFY มอบส่วนลด 20% ให้ลูกค้าที่ซื้อ Galaxy S23 Series")
+
+
+[Samsung x CASETiFY มอบส่วนลด 20% ให้ลูกค้าที่ซื้อ Galaxy S23 Series](https://news.siamphone.com/news-51162.html)
+
+
+> No body in the article.
+
+
+***
+![How to easily earn money in Hogwarts Legacy](https://staticg.sportskeeda.com/editor/2023/02/aaf55-16762703980247-1920.jpg "How to easily earn money in Hogwarts Legacy")
+
+
+[How to easily earn money in Hogwarts Legacy](https://www.sportskeeda.com/esports/how-easily-earn-money-hogwarts-legacy)
+
+
+> Upon release on February 10, 2023, Hogwarts Legacy has left players wondering how to earn money to upgrade their arsenal. Earning money quickly is one of the main goals for players in Hogwarts Legacy, as it helps them purchase and upgrade important items to help with combat. Earning money in Hogwarts Legacy is a slow process early on, but after a few level-ups and explorations, players can purchase nearly every item in the game. That said, this article will guide players to earn money quickly in Hogwarts Legacy.
+
+
+***
+![Bear Robotics unveils new service robot for hospitality industry](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/bear-robotics-hospitality-robot.png "Bear Robotics unveils new service robot for hospitality industry")
+
+
+[Bear Robotics unveils new service robot for hospitality industry](https://roboticsandautomationnews.com/2023/02/13/bear-robotics-unveils-new-service-robot-for-hospitality-industry/60215/)
+
+
+> Bear Robotics is launching Servi, which it describes as 'an innovative new robot set to revolutionise the food service industry'. Servi is designed to help hospitality and care home businesses, assisting staff by utilizing AI and autonomous robot technology to serve drinks and food and clear tables. This, in turn, allows waiting staff and care home employees to focus on spending quality time and delivering outstanding service to customers and patients. Servi can be programmed to learn different table locations and is 100 percent self-driving.
+
+
+***
+![Intel wants an additional 3.2 billion euros from the German government for the construction of the factory](https://cdn.kursors.lv/2022/09/Intel-Raptor-Lake-scaled-1.jpg "Intel wants an additional 3.2 billion euros from the German government for the construction of the factory")
+
+
+[Intel wants an additional 3.2 billion euros from the German government for the construction of the factory](https://www.world-today-news.com/intel-wants-an-additional-3-2-billion-euros-from-the-german-government-for-the-construction-of-the-factory/)
+
+
+> Even a giant like Intel is feeling inflation and the cost of projects, which also made Intel ask the German government for another 3.2 billion euros for the production plant project. Germany has already promised Intel 6.8 billion euros, which would promote Europe's independence from Chinese semiconductor production. In addition, Intel will invest 12 billion euros to double the production facilities in Ireland to a new one, where Intel 4 nodes (in English node) are produced for the company's other European production facilities.
+
+
+***
+![Xinhua All Media+｜Spring plowing orderly and vigorously lays the foundation for a bumper grain harvest_Hangzhou Net](https://news.hangzhou.com.cn/gnxw/content/2023-02/13/570727ad-0555-42e9-bb80-e8ee0c482de0.png "Xinhua All Media+｜Spring plowing orderly and vigorously lays the foundation for a bumper grain harvest_Hangzhou Net")
+
+
+[Xinhua All Media+｜Spring plowing orderly and vigorously lays the foundation for a bumper grain harvest_Hangzhou Net](https://www.world-today-news.com/xinhua-all-media%ef%bd%9cspring-plowing-orderly-and-vigorously-lays-the-foundation-for-a-bumper-grain-harvest_hangzhou-net/)
+
+
+> It's time for spring plowing again, don't miss the farming time and don't miss the spring. Spring plowing preparations are being carried out in various parts of China. Spring sowing grain production accounts for about 60% of the year, and spring management grain production accounts for nearly 40% of the main rations. Doing a good job in spring plowing and spring management is crucial to ensure the stable production and supply of grain and important agricultural products throughout the year. To stabilize and increase production, technology is the key.
+
+
+***
+![Fanify: Using AI to help budding musicians hit the right note with fans](https://www.siliconrepublic.com/wp-content/uploads/2023/02/a-6.jpg "Fanify: Using AI to help budding musicians hit the right note with fans")
+
+
+[Fanify: Using AI to help budding musicians hit the right note with fans](https://www.siliconrepublic.com/start-ups/fanify-ai-music-promotion-startup-fan-building)
+
+
+> Dundalk-based Fanify, which raised significant funding last month, is on a mission to help musicians find and grow their fanbase using AI-driven machine learning. Artificial intelligence has been around for a while now, but only in the last few years has interest in the technology exploded – most recently because of ChatGPT. AI technologies are in the early stages of revolutionising conventionally human tasks such as writing, software development and even games. And while AI-generated music may take a while to take off, the voguish technology has found ways to make some noise in the music industry.
+
+
+***
+![Global tablet market, 4Q 2022](https://img.digitimes.com/newsshow/20230213rs400_files/17_2b.jpg "Global tablet market, 4Q 2022")
+
+
+[Global tablet market, 4Q 2022](https://www.digitimes.com/news/a20230213RS400.html&chid=2)
+
+
+> Credit: DIGITIMES The DIGITIMES Research special report you are trying to open is sold a-la-carte and is also available with Notebooks Special Report Database or Smart Devices Special Report Database services. Please sign in if you wish to continue. Because of the weak economy and consumer confidence, tablet brands will continue to scale back their shipments in the first quarter of 2023 with overall volumes estimated to decrease by 20% from the prior quarter. Abstract Fourth-quarter 2022 global tablet shipments amounted to 35.
+
+
+***
+![GON SHAPON, lucky eggs, leading the trend, using DOOH to add new members to Bar-B-Q Plaza](https://t1.marketthink.co/wp-content/uploads/2023/02/GON-SHAPON.jpg "GON SHAPON, lucky eggs, leading the trend, using DOOH to add new members to Bar-B-Q Plaza")
+
+
+[GON SHAPON, lucky eggs, leading the trend, using DOOH to add new members to Bar-B-Q Plaza](https://www.world-today-news.com/gon-shapon-lucky-eggs-leading-the-trend-using-dooh-to-add-new-members-to-bar-b-q-plaza/)
+
+
+> at the end of January Bar-B-Q Plaza has organized a campaign to give luck to fans with 'GON SHAPON', the first time in the food business industry that uses Digital Out Of Home (DOOH) to create fun on a BTS station. Let customers find BBQ lucky eggs by scanning the QR code on the advertising media. Double the chance to win coupons worth more than 500 baht and win a free BBQ Plaza all year long at 16 BTS stations on the Silom and Sukhumvit lines. at 16-31 January 2023 in the past Rath Trakulthai, Chief Marketing Officer of Food Passion Co.
+
+
+***
+![The slow-motion impact of a cyberattack](https://www.verdict.co.uk/wp-content/uploads/2023/02/Shutterstock_1407900161.jpg "The slow-motion impact of a cyberattack")
+
+
+[The slow-motion impact of a cyberattack](https://www.verdict.co.uk/royal-mail-cyberattack/)
+
+
+> Credit: madamF Shutterstock The last few weeks have shown all too clearly the graphic, slow-motion impact of a cyberattack on a well-known organization. Not the unrecognized name of a company no one has heard of, nor one overseas where out of sight is out of mind. No, the victim of this attack, on January 10, 2023, was the UK's Royal Mail. And a month on, the organization is still struggling to find its way back to normal. It has announced the restoration of its international export services via online channels, though it says it cannot yet process new Royal Mail parcels purchased through High St Post Office branches.
+
+
+***
+![South Korea joins AI race as startup launches new chip](https://i.tribune.com.pk/media/images/E7IDGV2FUFPBTDRDRCE5TKGK5E1676271373-0/E7IDGV2FUFPBTDRDRCE5TKGK5E1676271373-0.jpg "South Korea joins AI race as startup launches new chip")
+
+
+[South Korea joins AI race as startup launches new chip](https://tribune.com.pk/story/2400906/south-korea-aims-to-join-ai-race-as-startup-rebellions-launches-new-chip)
+
+
+> South Korean startup Rebellions Inc launches an artificial intelligence (AI) chip on Monday, racing to win government contracts as Seoul seeks a place for local companies in the exploding AI industry. The company's ATOM chip is the latest Korean attempt to challenge global leader Nvidia Corp in the hardware that powers the potentially revolutionary AI technology. AI is the talk of the tech world, as  ChatGPT  - a chatbot from Microsoft-backed OpenAI that generates articles, essays, jokes and even poetry - has become the  fastest-growing  consumer app in history just two months after launch, according to UBS.
+
+
+***
+![Opera announces to offer ChatGPT-based tab Shorten on PC and mobile browser](https://www.deccanherald.com/sites/dh/files/articleimages/2023/02/13/opera-mini-logo-1190696-1676271152.jpg "Opera announces to offer ChatGPT-based tab Shorten on PC and mobile browser")
+
+
+[Opera announces to offer ChatGPT-based tab Shorten on PC and mobile browser](https://www.deccanherald.com/business/technology/opera-announces-to-offer-chatgpt-based-tab-shorten-on-pc-and-mobile-browser-1190696.html)
+
+
+> After Microsoft launched the pilot programme offer OpenAI's ChatGPT-fused Bing search and Edge browser, another major search engine company has announced similar collaboration to offer a better search experience on its PC and mobile browser versions. Lately, Artificial Intelligence (AI)-based Generative Pre-trained Transformer (GPT) like the ChatGPT has become a rage on social media platforms. The smart witty reply to conversational queries offers a human touch, which was only limited to short interactions with digital assistants such as Google Assistant, Apple's Siri, and Amazon's Alexa to perform basic tasks.
+
+
+***
+![XIV on Mac: Apple silicon Macs can now get up to 120 fps at 1440p in Final Fantasy XIV thanks to new open source community launcher](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/final_fantasy_XIV_m1_mac_xivonmac.jpg "XIV on Mac: Apple silicon Macs can now get up to 120 fps at 1440p in Final Fantasy XIV thanks to new open source community launcher")
+
+
+[XIV on Mac: Apple silicon Macs can now get up to 120 fps at 1440p in Final Fantasy XIV thanks to new open source community launcher](https://www.notebookcheck.net/XIV-on-Mac-Apple-silicon-Macs-can-now-get-up-to-120-fps-at-1440p-in-Final-Fantasy-XIV-thanks-to-new-open-source-community-launcher.692296.0.html)
+
+
+> Final Fantasy XIV plays great on Apple silicon thanks to XIV on Mac open source community project. (Image Source: Square Enix) Square Enix offers Final Fantasy XIV for macOS via an official launcher, but it is just a wrapper and a poorly optimized and outdated one at that. The folks at XIV on Mac offer an open source alternative written in Swift that works natively on Apple silicon Macs with much improved game performance and support for the Metal 2 API. Apple Gaming MacBook Software Final Fantasy has not had a good run on the Mac.
+
+
+***
+![Bloomberg: Apple's iPhone subscription beset by problems](https://www.idg.se/editorial/1200/path/1.776165.1676236908!imageUploader/422381671.jpg "Bloomberg: Apple's iPhone subscription beset by problems")
+
+
+[Bloomberg: Apple's iPhone subscription beset by problems](https://www.world-today-news.com/bloomberg-apples-iphone-subscription-beset-by-problems/)
+
+
+> Apple is still working on a service to subscribe to hardware from the company, according to information presented in Bloomberg journalist Mark Gurman's newsletter Power On. The service was first supposed to be launched together with the iPhone 13 in 2021, and then the iPhone 14 in 2022, but has had to be postponed at least twice. The reason must be technical problems, Gurman states without specifying further. The service will allow users to pay an as yet undetermined amount per month to subscribe to, for example, an iPhone, and will differ from, for example, installment plans spread over 12 or 24 months.
+
+
+***
+!["Is Maushold a lazy evolution?": Pokemon Scarlet and Violet community debate new Gen IX Pokemon design](https://staticg.sportskeeda.com/editor/2023/02/71ab9-16762631943431-1920.jpg ""Is Maushold a lazy evolution?": Pokemon Scarlet and Violet community debate new Gen IX Pokemon design")
+
+
+["Is Maushold a lazy evolution?": Pokemon Scarlet and Violet community debate new Gen IX Pokemon design](https://www.sportskeeda.com/pokemon/is-maushold-lazy-evolution-pokemon-scarlet-violet-community-debate-new-gen-ix-pokemon-design)
+
+
+> With the Pokemon franchise boasting multiple sequels over the years, there have always been players who feel that the designs of certain Pocket Monsters aren't particularly inspired. It appears as though this has been occurring again since the release of the franchise's latest titles, Scarlet and Violet. A new Pocket Monster named Maushold is the evolution of Tandemaus, where the two mouse Pokemon holding hands have become a burgeoning family. Although most species change their overall appearance during evolution, Maushold appears to just add more mice to the group.
+
+
+***
+![ABD solutions signs agreement with Jevons Robotics](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/abd-indigo-truck.jpeg "ABD solutions signs agreement with Jevons Robotics")
+
+
+[ABD solutions signs agreement with Jevons Robotics](https://roboticsandautomationnews.com/2023/02/13/abd-solutions-signs-agreement-with-jevons-robotics/60212/)
+
+
+> ABD Solutions has signed an agreement with Jevons Robotics to integrate Indigo Drive – a full stack system of autonomy and communications – with Jevons Robotics' suite of automation-enabled industrial electric vehicles. These vehicles will be operated automatically and supervised from a central control room improving safety and streamlining the mining process, both operationally and financially. Todd Peate, CEO of Jevons Robotics, says: 'We are delighted to announce a long-term partnership with ABD Solutions, a globally regarded automation company with substantial experience working with autonomous mining solution providers.
+
+
+***
+![Some Meta employees are getting paid to do 'zero work' as the company embarks on a 'year of efficiency': Financial Times](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17plDz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=351&y=442 "Some Meta employees are getting paid to do 'zero work' as the company embarks on a 'year of efficiency': Financial Times")
+
+
+[Some Meta employees are getting paid to do 'zero work' as the company embarks on a 'year of efficiency': Financial Times](http://www.msn.com/en-us/news/technology/some-meta-employees-are-getting-paid-to-do-zero-work-as-the-company-embarks-on-a-year-of-efficiency-financial-times/ar-AA17pCf1)
+
+
+> This article has been updated to remove HubSpot after the company announced it would cut 7% of its workforce on January 31. The list of companies laying off massive swaths of workers in recent months just keeps getting longer. In recent weeks, big tech companies have announced they would lay off eye-popping numbers of workers: Google laid off 12,000, Microsoft 10,000, and Amazon 18,000. According to the tech layoff tracker layoffs.fyi and Insider's own calculations, more than 65,000 tech workers have been cut from their jobs since January 1.
+
+
+***
+![Google Misinformation](https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/46/54626f6a-d9e5-5347-aa15-933125ee87b9/63e9caf4e495e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Google Misinformation")
+
+
+[Google Misinformation](https://www.stltoday.com/lifestyles/technology/google-misinformation/image_54626f6a-d9e5-5347-aa15-933125ee87b9.html)
+
+
+> FILE - The Google logo is seen at the Vivatech show in Paris, France, June 15, 2022. Google is expanding an initiative that shows promise in fighting online misinformation. The tech company announced Monday that it will roll out a new 'prebunking' campaign in Germany. Pre-bunking works like a viral inoculation by priming a person's critical thinking skills to make them more resistant to false claims. Thibault Camus - staff, AP Tags Dcc Wire Apmediaapi Ente
+
+
+***
+![An Apple Watch with camera is revealed by a patent](https://www.tomsguide.fr/content/uploads/sites/2/2023/02/apple-watch.jpg "An Apple Watch with camera is revealed by a patent")
+
+
+[An Apple Watch with camera is revealed by a patent](https://www.world-today-news.com/an-apple-watch-with-camera-is-revealed-by-a-patent/)
+
+
+> The Apple Watch could be equipped with a camera to allow the user to take quick and discreet photos. Apple has actually filed a patent detailing how the smartwatch works with a camera. The Apple Watch is already equipped with many features like its life-saving blood oxygen sensor. Apple is thinking about the future of the connected watch and is considering adding a camera to it. The Cupertino company has actually just obtained a patent that it had filed about an Apple Watch with camera. Apple regularly files patents, but that doesn't mean that all of the products mentioned in those patents will ever be developed.
+
+
+***
+![SOME SIMPLE TIPS FOR TRADING ETHEREUM](https://researchsnipers.com/wp-content/uploads/2022/08/the-graphics-card-is-very-inefficient-for-mining-cryptocurrency.jpg "SOME SIMPLE TIPS FOR TRADING ETHEREUM")
+
+
+[SOME SIMPLE TIPS FOR TRADING ETHEREUM](https://researchsnipers.com/some-simple-tips-for-trading-ethereum/)
+
+
+> People can use different types of markets available worldwide to make money. Regarding making money out of trading and investing, people like to go for traditional options like real estate and the stock market. These two options are available for everyone in the world; apart from that, you can use them without much complication. However, you will find these kinds of options to be traditional, which is why there will be the least amount of technology. Moreover, when there is less technology, you will find these options less convenient compared to modern options like cryptocurrencies.
+
+
+***
+![Huawei to announce next-generation ‘P60' series at MWC 2023](https://images.kbench.com/kbench/article/2023_02/k241148p1n1.jpg "Huawei to announce next-generation ‘P60' series at MWC 2023")
+
+
+[Huawei to announce next-generation ‘P60' series at MWC 2023](https://www.world-today-news.com/huawei-to-announce-next-generation-p60-series-at-mwc-2023/)
+
+
+> Chinese telecommunications equipment maker Huawei is scheduled to announce the next-generation ‘P60' series at the Mobile World Congress (MWC) 2023 event held in Barcelona, ​​Spain at the end of this month, foreign media reported, citing a report posted on Chinese social media Weibo. According to the report, the P60 series consists of ▲P60 ▲P60 Pro models. Among them, the P60 Pro model features a 6.6-inch OLED display and is powered by the Qualcomm Snapdragon 8 2nd Gen 4G chipset. Its 5000mAh battery supports 100W wired and 50W wireless charging, and it is said to come with a triple camera on the back, including a 50MP Sony IMX888 camera.
+
+
+***
+![WHAT CRYPTOCURRENCIES ARE SUITABLE FOR OIL TRADING?](https://researchsnipers.com/wp-content/uploads/2022/07/oil.png "WHAT CRYPTOCURRENCIES ARE SUITABLE FOR OIL TRADING?")
+
+
+[WHAT CRYPTOCURRENCIES ARE SUITABLE FOR OIL TRADING?](https://researchsnipers.com/what-cryptocurrencies-are-suitable-for-oil-trading/)
+
+
+> There has always been discussion regarding the popularity of the cryptocurrency market. However, if you think that making money out of this market will be straightforward and sophisticated, you need to be corrected. The cryptocurrency market is very well developed; therefore, making money out of it will be complicated, you can trade oil with Oil Profit app We will find many options, and therefore, things get a lot of complications. You must understand that you must find the best coin to make money out of the oil market with cryptocurrencies.
+
+
+***
+![Mark your calendars: Galaxy S23 software is coming older flagships on this date](https://www.androidauthority.com/wp-content/uploads/2023/01/Samsung-Galaxy-S23-OneUI-5-Whats-New.jpg "Mark your calendars: Galaxy S23 software is coming older flagships on this date")
+
+
+[Mark your calendars: Galaxy S23 software is coming older flagships on this date](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-5-1-update-3282469/)
+
+
+> Robert Triggs / Android Authority TL;DR The One UI 5.1 update could land on the Galaxy S22 series, Galaxy Z Flip 4, and Galaxy Z Fold 4 later this month. Canadian carrier Fido has revealed a rollout date for the update. The Samsung Galaxy S23 series launched with One UI 5.1 out of the box. The Android 13-based software update brings a huge list of new features, including Expert RAW integration in the camera app, new widgets, mode-based wallpaper selection, and more. It is restricted to the Galaxy S23 flagships as of today but could land on the Galaxy S22 series, the Galaxy Z Flip 4, and the Galaxy Z Fold 4 later this month.
+
+
+***
+![There Is A Coca Cola-Themed Phone Out Of China](https://www.mccourier.com/wp-content/uploads/2023/02/There-Is-A-Coca-Cola-Themed-Phone-Out-Of-China.jpg "There Is A Coca Cola-Themed Phone Out Of China")
+
+
+[There Is A Coca Cola-Themed Phone Out Of China](https://www.mccourier.com/there-is-a-coca-cola-themed-phone-out-of-china/)
+
+
+> The Realme 10 Professional Coca Cola Version ben sin Chinese language cellphone model Realme is greatest identified for 2 issues: worth acutely aware telephones that punch above its value bracket, and frequent collaborations with random IPs (mental property). Previously, we've seen Dragonball Version Realme telephones, and now comes one made in collaboration with Coca Cola. Named the Realme 10 Professional Coca Cola Version, it's principally a Realme 10 Professional with a Coca Cola theme hooked up on its again, packaging, and fundamental software program pores and skin.
+
+
+***
+[YAMAHA MOTOR: Consolidated Business Results Summary — Full Fiscal Year Ending December 31, 2022 —](http://www.businesswire.com/news/home/20230212005030/en/YAMAHA-MOTOR-Consolidated-Business-Results-Summary-%E2%80%94-Full-Fiscal-Year-Ending-December-31-2022-%E2%80%94/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> IWATA, Japan--(BUSINESS WIRE)--Yamaha Motor Co., Ltd. (TOKYO: 7272) announces its consolidated business results for the full 2022 fiscal year. Net sales were 2,248.5 billion yen (an increase of 436.0 billion yen or 24.1% compared with the previous fiscal year) and operating income was 224.9 billion yen (an increase of 42.5 billion yen or 23.3%). Ordinary income was 239.3 billion yen (an increase of 49.9 billion yen or 26.3%) and net income attributable to owners of parent was 174.4 billion yen
+
+
+***
+![Freak Accident Kills Man After MRI Machine Triggers Loaded Handgun](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17pysL.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Freak Accident Kills Man After MRI Machine Triggers Loaded Handgun")
+
+
+[Freak Accident Kills Man After MRI Machine Triggers Loaded Handgun](http://www.msn.com/en-us/news/technology/freak-accident-kills-man-after-mri-machine-triggers-loaded-handgun/ar-AA17pC3M)
+
+
+> A Brazilian man has passed away from injuries he received last month when a concealed handgun he was wearing discharged near an operating MRI machine, shooting him in the abdomen. The 40-year-old lawyer and vocal supporter of gun ownership is reported to have retained the weapon in spite of verbal and written requests to remove all metal objects prior to accompanying his mother into the scanning room. Load Error Leandro Mathias de Novaes took his mother to the Laboratorio Cura in São Paulo, Brazil, for an MRI ( magnetic resonance imaging) scan on January 16.
+
+
+***
+![Samsung woos Qualcomm at 6 nm, targeting MediaTek next](https://img.digitimes.com/newsshow/20230213pd210_files/1_2b.jpg "Samsung woos Qualcomm at 6 nm, targeting MediaTek next")
+
+
+[Samsung woos Qualcomm at 6 nm, targeting MediaTek next](https://www.digitimes.com/news/a20230213PD210/mediatek-samsung-south-korea-tsmc.html)
+
+
+> Credit: DIGITIMES Facing global weak demands for memory and smartphones, Samung Electronics has been seeing strong order competition from TSMC. However, the South Korean company is planning for a comeback. According to sources from semiconductor supply chain, Samsung... The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Categories Chips + components IC manufacturing Tags MediaTek Qualcomm Samsung South Korea
+
+
+***
+![see this Pikachu made entirely with AI](https://multiversonoticias.com.br/wp-content/uploads/2022/12/Pokemon.jpg "see this Pikachu made entirely with AI")
+
+
+[see this Pikachu made entirely with AI](https://www.world-today-news.com/see-this-pikachu-made-entirely-with-ai/)
+
+
+> Artificial intelligence is the newest technology that is taking over the entire world. In addition to the famous ChatGPT, which produces numerous texts, it is now also possible to create images using this technology. This time, netizens decided to see how the characters of 'Pokémon' created from this new technological intelligence would look like. The arts were released on a Facebook page and show us the curious figures if they had been made in anime form by the famous studio Ghibli, which produced some cartoons that were well known by the general public.
+
+
+***
+![‘Non-Googley': CEO Sundar Pichai Mocks Google Employees Rushing to Unveil Bard AI Chatbot – Microsoft (NASDAQ:MSFT), Alphabet (NASDAQ:GOOGL)](https://i.imgur.com/AoyxWyw.png "‘Non-Googley': CEO Sundar Pichai Mocks Google Employees Rushing to Unveil Bard AI Chatbot – Microsoft (NASDAQ:MSFT), Alphabet (NASDAQ:GOOGL)")
+
+
+[‘Non-Googley': CEO Sundar Pichai Mocks Google Employees Rushing to Unveil Bard AI Chatbot – Microsoft (NASDAQ:MSFT), Alphabet (NASDAQ:GOOGL)](https://exbulletin.com/tech/2043634/)
+
+
+> Alphabet Inc's GOOGL GOOG Google employees criticized and mocked CEO Sundar Pichai for how the company announced the launch of Bard, a competitor to Microsoft Corp's use of MSFT for ChatGPT in its Bing search engine . Last week, Google announced the introduction of Bard, a language model for conversational applications. The company says Bard pulls information from her web and provides quality answers. In a demonstration posted by Google, Bard gave an incorrect answer, potentially sparking debate about the accuracy of the chatbot.
+
+
+***
+![How To Create Anime Server On Discord? A Complete Guide](https://researchsnipers.com/wp-content/uploads/2022/07/Discord-for-Xbox-Microsoft-launches-public-beta-so-youre.jpg "How To Create Anime Server On Discord? A Complete Guide")
+
+
+[How To Create Anime Server On Discord? A Complete Guide](https://researchsnipers.com/how-to-create-anime-server-on-discord-a-complete-guide/)
+
+
+> Do you know the fact that you can create your own servers on Discord? Are you excited about knowing how to create anime server on Discord? Well, you have landed at the right place. In this article, let us see how to create anime server on Discord.  Millions of users aged 13 and older use the voice, video, and text chat app Discord to communicate and socialize with their friends and communities. The Discord app consists of a huge number of active Discord servers where you can join those communities and interact with members of the server community.
+
+
+***
+![Tired of listening to long voice notes on WhatsApp? This feature may help](https://images.livemint.com/img/2023/02/13/600x338/whatsapp_1676269402067_1676269402380_1676269402380.jpg "Tired of listening to long voice notes on WhatsApp? This feature may help")
+
+
+[Tired of listening to long voice notes on WhatsApp? This feature may help](https://www.livemint.com/technology/apps/tired-of-listening-to-long-voice-notes-on-whatsapp-this-feature-may-help-11676269258513.html)
+
+
+> Meta-owned WhatsApp is a popular instant messaging app globally. The platform has over 2 billion users worldwide. WhatsApp keeps on adding new features to enhance the experience of its users. In one such update, the app is reportedly planning to bring the ability to transcribe voice notes in the future. According to a WaBetaInfo report, the feature was discovered in the latest WhatsApp beta for iOS 23.3.0.73 update. Sharing a screenshot of the upcoming feature, the report says that WhatsApp will add an introduction screen to explain when the transcription is not available.
+
+
+***
+!['Dear Sundar Pichai…': Google employees are not pleased with company's ChatGPT AI competitor, know what they are saying](https://www.financialexpress.com/wp-content/uploads/2023/02/sundar.webp "'Dear Sundar Pichai…': Google employees are not pleased with company's ChatGPT AI competitor, know what they are saying")
+
+
+['Dear Sundar Pichai…': Google employees are not pleased with company's ChatGPT AI competitor, know what they are saying](https://www.financialexpress.com/life/technology-dear-sundar-pichai-google-employees-are-not-pleased-with-companys-chatgpt-ai-competitor-know-what-they-are-saying-2979833/)
+
+
+> Google employees are unhappy with the way the company handled the launch of its ChatGPT competitor, Bard. Some of the Google employees have called out the company, with many targeting CEO Sundar Pichai for rushing Bard to launch. According to a report from CNBC, Google employees are calling the launch of the AI bot Bard 'rushed' and 'botched.' Some of the Googlers have shared posts across the company's internal boards, posting memes targeting the Bard goof-up and Pichai's leadership. 'Dear Sundar, the Bard launch and the layoffs were rushed, botched, and myopic,' CNBC read one of the posts, which was highly upvoted.
+
+
+***
+![New features in the Google Chrome update](https://cdn.catine.ro/wp-content/uploads/2023/01/de-ce-este-recomandat-sa-bei-cafeaua-cu-lapte.jpg "New features in the Google Chrome update")
+
+
+[New features in the Google Chrome update](https://www.world-today-news.com/new-features-in-the-google-chrome-update/)
+
+
+> Google announced the launch of a new update to the Chrome browser, which brought with it many important features for users. According to Google, the Chrome 110 version gives computer users many new features, including security features that allow them to adopt biometric authentication to protect their data, such as relying on the fingerprint protection feature for browsing data, if the computer provides this feature. With the new update, many software vulnerabilities that could previously be exploited to access users' computers or their browsing data on the Internet were also fixed, and vulnerabilities related to WebRTC communication protocols and JavaScript technologies were also fixed.
+
+
+***
+![India's maturing startup culture is becoming a driving force for innovation](https://www.forbesindia.com/media/images/2023/Feb/img_202701_edit.jpg "India's maturing startup culture is becoming a driving force for innovation")
+
+
+[India's maturing startup culture is becoming a driving force for innovation](https://exbulletin.com/tech/2043611/)
+
+
+> Some of the most frequently mentioned words by Finance Minister (FM) Nirmala Sitharaman in Budget 2023 were development, digital, infrastructure and capital. Even though FM acknowledged that India's ranking improved for the quality of innovation, innovation was not far behind. FM will be available for research by public and private medical college faculty and private sector R&D teams to facilitate collaborative innovation at selected laboratory facilities of the Indian Council of Medical Research (ICMR).
+
+
+***
+![Samsung Galaxy S23 has a bypass charging feature which is great for gaming. Here's how to use it](https://soyacincau.com/wp-content/uploads/2023/02/230213-samsung-galaxy-s23-ultra-bypass-charging.jpg "Samsung Galaxy S23 has a bypass charging feature which is great for gaming. Here's how to use it")
+
+
+[Samsung Galaxy S23 has a bypass charging feature which is great for gaming. Here's how to use it](https://soyacincau.com/2023/02/13/samsung-galaxy-s23-has-a-bypass-charging-feature-pause-usb-power-delivery-charging/)
+
+
+> The Samsung Galaxy S23 series is currently the most powerful Android flagship phone right now as it runs on a Snapdragon 8 Gen 2 for Galaxy, which is the fastest Snapdragon at the moment. If you're planning to play games a lot, the Galaxy S23 series appears to have a bypass charging mode, a feature that's often phone on hardcore gaming-centric devices such as the ROG Phone , Black Shark and Red Magic . With bypass charging enabled, the phone will be powered directly from the phone's adapter and it will not charge the battery.
+
+
+***
+![US Knew Nothing About China's 'Spy Balloons' Several Months Ago, Senate Majority Leader Says](http://www.globalsecurity.org/favicon.ico "US Knew Nothing About China's 'Spy Balloons' Several Months Ago, Senate Majority Leader Says")
+
+
+[US Knew Nothing About China's 'Spy Balloons' Several Months Ago, Senate Majority Leader Says](http://www.globalsecurity.org/intell/library/news/2023/intell-230212-sputnik01.htm)
+
+
+> Sputnik News 20230212 MOSCOW (Sputnik) - US military and intelligence knew nothing about the existence of Chinese "spy balloons" until a few months ago, Senate Majority Leader Chuck Schumer said on Sunday. "The bottom line is — for until a few months ago, we didn't know of these balloons. Our intelligence and our military did not know," Schumer said. The Democratic majority leader also said that he had been briefed on the situation on Saturday night by National Security Adviser Jake Sullivan.
+
+
+***
+![Japan Says Chinese Navy Vessel Enters Its Territorial Waters Near Yakushima Island](http://www.globalsecurity.org/favicon.ico "Japan Says Chinese Navy Vessel Enters Its Territorial Waters Near Yakushima Island")
+
+
+[Japan Says Chinese Navy Vessel Enters Its Territorial Waters Near Yakushima Island](http://www.globalsecurity.org/wmd/library/news/japan/2023/japan-230212-sputnik01.htm)
+
+
+> Sputnik News 20230212 MOSCOW (Sputnik) - A Chinese navy survey vessel entered Japanese territorial waters near islands close to the southwestern prefecture of Kagoshima, marking the 10th entry by the country's survey ship into Japan's waters, the Japanese Defense Ministry said on Sunday. "On February 12, it was confirmed that a Chinese Navy Shupang-class survey ship sailed through Japan's territorial waters near Yakushima Island. This is the 10th time, the first since December last year, that we announce Chinese Naval vessel's entry into Japan's territorial waters," the ministry tweeted.
+
+
+***
+![Second Round of Pakistan-US Defence Dialogue](http://www.globalsecurity.org/favicon.ico "Second Round of Pakistan-US Defence Dialogue")
+
+
+[Second Round of Pakistan-US Defence Dialogue](http://www.globalsecurity.org/wmd/library/news/pakistan/2023/pakistan-230212-pakistan-mfa01.htm)
+
+
+> Pakistan Ministry of Foreign Affairs The Second round of Pakistan-US Mid-Level Defence Dialogue is scheduled from 13-16 February 2023 in Washington DC. The first round of the Dialogue was held in Pakistan in January 2021. Pakistan's inter-agency delegation, led by the Chief of General Staff, will comprise of senior officials from the Ministry of Foreign Affairs, Joint Staff Headquarters and three Services Headquarters. The US multi-agency team will be represented by the Office of Undersecretary of Defence.
+
+
+***
+![Senior CPC official meets with visiting KMT vice chairperson](http://www.globalsecurity.org/favicon.ico "Senior CPC official meets with visiting KMT vice chairperson")
+
+
+[Senior CPC official meets with visiting KMT vice chairperson](http://www.globalsecurity.org/wmd/library/news/taiwan/2023/taiwan-230211-pdo01.htm)
+
+
+> People's Daily Online (Xinhua) 10:46, February 11, 2023 BEIJING, Feb. 10 (Xinhua) -- Wang Huning, a member of the Standing Committee of the Political Bureau of the Communist Party of China (CPC) Central Committee, on Friday met with Andrew Hsia, vice chairman of the Chinese Kuomintang (KMT) party, in Beijing. Wang vowed full efforts to implement the guiding principles of the 20th CPC National Congress and the CPC's overall policy framework for resolving the Taiwan question in the new era. Wang pledged to put into action the important instructions from Xi Jinping, general secretary of the CPC Central Committee, on promoting peaceful development of cross-Strait relations and facilitating exchanges and cooperation.
+
+
+***
+![Colors of KPA Redesigned](http://www.globalsecurity.org/favicon.ico "Colors of KPA Redesigned")
+
+
+[Colors of KPA Redesigned](http://www.globalsecurity.org/wmd/library/news/dprk/2023/dprk-230213-kcna01.htm)
+
+
+> The colors are the banner of victory and honor and the symbol of the heroic Korean People's Army (KPA) associated with the noble lives of President Kim Il Sung and Chairman Kim Jong Il , the founder and builders of the revolutionary armed forces, and replete with the faith and spirit of the service personnel of the People's Army to defend the revolutionary cause
+
+
+***
+![Russia says NATO should hold emergency summit over Nord Stream explosions](http://www.globalsecurity.org/favicon.ico "Russia says NATO should hold emergency summit over Nord Stream explosions")
+
+
+[Russia says NATO should hold emergency summit over Nord Stream explosions](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230212-presstv01.htm)
+
+
+> Iran Press TV Sunday, 12 February 2023 9:46 AM Russia has called on the US-led NATO to hold an emergency meeting to discuss the recent findings about the September explosions at the Nord Stream gas pipelines. "There are more than enough facts here: the explosion of the pipelines, the presence of a motive, circumstantial evidence obtained by journalists," Foreign Ministry spokeswoman Maria Zakharova said. "So when will an emergency NATO summit meet to review the situation?" she asked. Seymour Hersh, an American investigative journalist who won a Pulitzer Prize in 1970, said in a blog post on Wednesday that US navy divers under the guise of the Baltops exercise destroyed the Nord Stream pipelines at the behest of US President Joe Biden.
+
+
+***
+![Nimitz Carrier Strike Group and Makin Island Amphibious Ready Group Conduct Combined Exercises](http://www.globalsecurity.org/favicon.ico "Nimitz Carrier Strike Group and Makin Island Amphibious Ready Group Conduct Combined Exercises")
+
+
+[Nimitz Carrier Strike Group and Makin Island Amphibious Ready Group Conduct Combined Exercises](http://www.globalsecurity.org/military/library/news/2023/02/mil-230212-c7f01.htm)
+
+
+> Commander, U.S. 7th Fleet Feb. 12, 2023 By Carrier Strike Group 11 Public Affairs SOUTH CHINA SEA -- Nimitz Carrier Strike Group (NIMCSG) and Makin Island Amphibious Ready Group (MKI ARG) with embarked 13th Marine Expeditionary Unit (13th MEU) are conducting integrated expeditionary strike force (ESF) operations in the South China Sea Feb. 11. The mobility and sustainability provided by amphibious platforms gives the Navy and Marine Corps team an asymmetric advantage in a maritime environment.
+
+
+***
+![New Moldovan Prime Minister Expected to Be Approved](http://www.globalsecurity.org/favicon.ico "New Moldovan Prime Minister Expected to Be Approved")
+
+
+[New Moldovan Prime Minister Expected to Be Approved](http://www.globalsecurity.org/military/library/news/2023/02/mil-230212-voa01.htm)
+
+
+> By Myroslava Gongadze February 12, 2023 Moldova's former interior minister, Dorin Recean, is expected to be approved as the country's new prime minister by parliament as soon as this week, following the February 10 resignation of Natalia Gavrilita. Moldovan President Maia Sandu nominated Recean to the post after Gavrilita stepped down after a year-and-a-half in office. Recean is Sandu's defense and security adviser. Recean, 48, who served as interior minister from 2012 to 2015, will have 15 days to form a new government to present to parliament for a confidence vote.
+
+
+***
+![12 Al-Shabab Fighters Killed in Airstrike, US Military Says](http://www.globalsecurity.org/favicon.ico "12 Al-Shabab Fighters Killed in Airstrike, US Military Says")
+
+
+[12 Al-Shabab Fighters Killed in Airstrike, US Military Says](http://www.globalsecurity.org/military/library/news/2023/02/mil-230212-voa02.htm)
+
+
+> The United States military reported Sunday that 12 al-Shabab militants were killed in a new airstrike in central Somalia.
+
+
+***
+![Malawi Drops Charges Against Anti-Corruption Chief](http://www.globalsecurity.org/favicon.ico "Malawi Drops Charges Against Anti-Corruption Chief")
+
+
+[Malawi Drops Charges Against Anti-Corruption Chief](http://www.globalsecurity.org/military/library/news/2023/02/mil-230212-voa04.htm)
+
+
+> By Lameck Masina February 12, 2023 Malawi has dropped criminal charges against Anti-Corruption Bureau Director-General Martha Chizuma in connection with leaked audio in which she apparently complained that some officials were frustrating her fight against corruption. Director of Public Prosecutions Masauko Chamkakala said in a statement that he has discontinued the criminal case against Chizuma in line with the Malawi Constitution and to ensure that the functions of the Anti-Corruption Bureau are not impeded.
+
+
+***
+![US F-16 Fighter Downed 'Octagonal Structure' Over Lake Huron Says Michigan Official](http://www.globalsecurity.org/favicon.ico "US F-16 Fighter Downed 'Octagonal Structure' Over Lake Huron Says Michigan Official")
+
+
+[US F-16 Fighter Downed 'Octagonal Structure' Over Lake Huron Says Michigan Official](http://www.globalsecurity.org/military/library/news/2023/02/mil-230212-sputnik01.htm)
+
+
+> Sputnik News 20230212 WASHINGTON (Sputnik) - US fighter aircraft have shot down another unidentified object, over lake Huron near the border with Canada, Michigan Congressman Jack Bergman said. "I've been in contact with DOD [Department of Defense] regarding operations across the Great Lakes region today. The US military has decommissioned another 'object' over Lake Huron. I appreciate the decisive action by our fighter pilots. The American people deserve far more answers than we have," Representative Bergman said on Twitter on Sunday.
+
+
+***
+![Google: AI integration in Google, Microsoft search results won't be good for the environment](https://static.toiimg.com/thumb/msid-97855773,width-1070,height-580,imgsize-111496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Google: AI integration in Google, Microsoft search results won't be good for the environment")
+
+
+[Google: AI integration in Google, Microsoft search results won't be good for the environment](https://timesofindia.indiatimes.com/gadgets-news/ai-integration-in-google-microsoft-search-results-wont-be-good-for-the-environment/articleshow/97855791.cms)
+
+
+> News Gadgets News News AI integration in Google, Microsoft search results won't be good for the environment FOLLOW US ON SOCIAL MEDIA Facebook Twitter Instagram KOO APP YOUTUBE
+
+
+***
+![Pentagon Confirms Take Down of Airborne Object Over Canada](http://www.globalsecurity.org/favicon.ico "Pentagon Confirms Take Down of Airborne Object Over Canada")
+
+
+[Pentagon Confirms Take Down of Airborne Object Over Canada](http://www.globalsecurity.org/military/library/news/2023/02/mil-230212-sputnik02.htm)
+
+
+> Sputnik News 20230212 WASHINGTON (Sputnik) - The Pentagon has confirmed that the unidentified object that was flying over northern Canada has been shot down, following close coordination between US and Canadian authorities, including at the level of defense ministers. On Saturday, the North American Aerospace Defense Command (NORAD) said in a statement to Sputnik that it was tracking "a high-altitude airborne object" over northern Canada. Later in the day, Canadian Prime Minister Justin Trudeau said that the unidentified object was shot down by a US F-22 aircraft over the Yukon after he ordered the take down.
+
+
+***
+![Analysis: Balloon episode shows US-China crisis management weakness](http://www.globalsecurity.org/favicon.ico "Analysis: Balloon episode shows US-China crisis management weakness")
+
+
+[Analysis: Balloon episode shows US-China crisis management weakness](http://www.globalsecurity.org/military/library/news/2023/02/mil-230212-rfa01.htm)
+
+
+> From Taiwan to tech trade, thornier problems lurk in bilateral ties. By Paul Eckert for RFA 2023.02.12 -- It wasn't an errant meteorological vessel as Beijing claims, but the Chinese spy balloon that drifted across the United States before being shot down off the Atlantic Coast did carry a forecast: more stormy weather ahead for U.S.-China ties. Secretary of State Antony Blinken called off a planned trip to Beijing after the suspected spy balloon was spotted over Montana last week. The U.S. military shot down the suspected Chinese spy balloon on Feb.
+
+
+***
+![Minister Anand provides an important national security update.](http://www.globalsecurity.org/favicon.ico "Minister Anand provides an important national security update.")
+
+
+[Minister Anand provides an important national security update.](http://www.globalsecurity.org/wmd/library/news/canada/2023/canada-230212-canada01.htm)
+
+
+> National Defence 2023-02-12 Speech Good evening. As Minister of National Defence, my top priority is the safety and protection of Canadians. Working in collaboration with our partners, including the United States, NORAD and other departments, Canada was tracking a high-altitude object over Central Yukon. North American Aerospace Defense Command detected this object and launched Canadian and US fighter aircraft to investigate. The object was visually identified using fighter aircraft assigned to NORAD.
+
+
+***
+![US Shoots Down 'Unidentified Object' Over Lake Huron](http://www.globalsecurity.org/favicon.ico "US Shoots Down 'Unidentified Object' Over Lake Huron")
+
+
+[US Shoots Down 'Unidentified Object' Over Lake Huron](http://www.globalsecurity.org/military/library/news/2023/02/mil-230212-voa03.htm)
+
+
+> By Ken Bredemeier February 12, 2023 President Joe Biden ordered U.S. fighter jets to shoot down an "unidentified object" over Lake Huron on Sunday, the Pentagon said. The object is believed to be the same one that had been detected over Montana on Saturday, the Pentagon said. It is the fourth object shot down this month. The object was described as octagonal in shape with strings hanging off but no identifiable payload, a U.S. official speaking on condition of anonymity said. Pentagon spokesperson Patrick Ryder said in an official statement that the object posed no military threat, but as it was traveling at 6,100 meters altitude, it posed a potential threat to commercial airplanes.
+
+
+***
+![The Elder Scrolls V: Skyrim Special Edition – a new mod using AI. More than 7000 lines of dialogue for our character](https://www.purepc.pl/image/news/2023/02/12_the_elder_scrolls_v_skyrim_special_edition_nowy_mod_wykorzystujacy_ai_ponad_7000_linii_dialogowych_dla_naszej_postaci_0.jpg "The Elder Scrolls V: Skyrim Special Edition – a new mod using AI. More than 7000 lines of dialogue for our character")
+
+
+[The Elder Scrolls V: Skyrim Special Edition – a new mod using AI. More than 7000 lines of dialogue for our character](https://www.world-today-news.com/the-elder-scrolls-v-skyrim-special-edition-a-new-mod-using-ai-more-than-7000-lines-of-dialogue-for-our-character/)
+
+
+> We're still hanging around The Elder Scrolls series and AI – but we're jumping to the fifth installment. As various ideas of modders related to the 'five' appear every now and then, it was basically predictable that sooner or later this theme would appear in a developed form. While this is already an impressive modification, it has some limitations. But it is also worth taking into account the potential of this initiative. Mathiew May has released a modification that should be a tasty morsel for all Skyrim fans.
+
+
+***
+![IRGC says safeguarding Iran's national interests its 'clear-cut strategy'](http://www.globalsecurity.org/favicon.ico "IRGC says safeguarding Iran's national interests its 'clear-cut strategy'")
+
+
+[IRGC says safeguarding Iran's national interests its 'clear-cut strategy'](http://www.globalsecurity.org/wmd/library/news/iran/2023/iran-230212-presstv03.htm)
+
+
+> Iran Press TV Sunday, 12 February 2023 3:19 PM The Islamic Revolution Guards Corps (IRGC) has lauded the Iranian nation's massive turnout in Saturday rallies to mark the 44th anniversary of the Islamic Revolution, saying protecting the country's national interests and meeting people's needs are its clear-cut strategy. In a statement on Sunday, the IRGC said the "enthusiastic and admirable" participation of millions of people in the rallies once again challenged the enemy's miscalculation concerning Iranians.
+
+
+***
+![West failed to use riots as leverage in JCPOA revival talks: Iran's lead negotiator](http://www.globalsecurity.org/favicon.ico "West failed to use riots as leverage in JCPOA revival talks: Iran's lead negotiator")
+
+
+[West failed to use riots as leverage in JCPOA revival talks: Iran's lead negotiator](http://www.globalsecurity.org/wmd/library/news/iran/2023/iran-230212-presstv04.htm)
+
+
+> Iran Press TV Sunday, 12 February 2023 11:31 AM Iran's chief negotiator says the Western countries have failed to use the recent foreign-backed riots in the country as leverage in talks to revive the 2015 nuclear deal between Tehran and the world powers, officially known as the Joint Comprehensive Plan of Action (JCPOA). Ali Bagheri Kani said in an interview with Lebanon's Arabic-language al-Manar television network that the West has made a "miscalculation" vis-à-vis the recent developments in Iran.
+
+
+***
+![Raisi's visit to Beijing expected to deepen China-Iran relations, consolidate traditional friendship](http://www.globalsecurity.org/favicon.ico "Raisi's visit to Beijing expected to deepen China-Iran relations, consolidate traditional friendship")
+
+
+[Raisi's visit to Beijing expected to deepen China-Iran relations, consolidate traditional friendship](http://www.globalsecurity.org/wmd/library/news/iran/2023/iran-230212-globaltimes01.htm)
+
+
+> Global Times By GT staff reporters Published: Feb 12, 2023 08:49 PM At the invitation of Chinese President Xi Jinping, Iranian President Ebrahim Raisi will pay a state visit to China from Tuesday to Thursday, Chinese Foreign Ministry spokesperson Hua Chunying announced on Sunday. Analysts said that Raisi's first visit to China since taking office in 2021 will further implement the comprehensive strategic partnership between China and Iran, and shows the Raisi administration's unswerving determination to promote the "Look to the East" policy.
+
+
+***
+![Iranian President Raeisi set to visit China on Tuesday](http://www.globalsecurity.org/favicon.ico "Iranian President Raeisi set to visit China on Tuesday")
+
+
+[Iranian President Raeisi set to visit China on Tuesday](http://www.globalsecurity.org/wmd/library/news/iran/2023/iran-230212-presstv01.htm)
+
+
+> Iran Press TV Sunday, 12 February 2023 9:42 AM Iranian President Ebrahim Raeisi will pay an official visit to China early next week at the invitation of his Chinese counterpart, amid the two Asian countries' strong determination to enhance strategic, bilateral cooperation in various fields. "At the invitation of President Xi Jinping, President of the Islamic Republic of Iran Ebrahim Raeisi will pay a state visit to China from February 14 to 16," China's Foreign Ministry spokeswoman Hua Chunying announced on Sunday.
+
+
+***
+![US reported move against Chinese entities adds to rising tension after airship incident](http://www.globalsecurity.org/favicon.ico "US reported move against Chinese entities adds to rising tension after airship incident")
+
+
+[US reported move against Chinese entities adds to rising tension after airship incident](http://www.globalsecurity.org/wmd/library/news/china/2023/02/china-230211-globaltimes02.htm)
+
+
+> Global Times By Global Times Published: Feb 11, 2023 06:18 PM Despite China's repeated communication with the US, Washington continued to escalate its response to the airship incident through a mix of both political and economic moves, due to the malicious political manipulation by some forces in Washington, which presents worrying signs for bilateral ties, experts warned on Saturday. The Biden administration on Friday blacklisted six Chinese aviation and technology companies as part of its continuing response to a Chinese civilian airship, according to media reports.
+
+
+***
+![Senior CPC official stresses advancing Chinese modernization](http://www.globalsecurity.org/favicon.ico "Senior CPC official stresses advancing Chinese modernization")
+
+
+[Senior CPC official stresses advancing Chinese modernization](http://www.globalsecurity.org/wmd/library/news/china/2023/02/china-230211-pdo01.htm)
+
+
+> People's Daily Online (Xinhua) 10:45, February 11, 2023 BEIJING, Feb. 10 (Xinhua) -- Senior Communist Party of China (CPC) official Cai Qi on Friday called for solid progress in advancing Chinese modernization. Cai, a member of the Standing Committee of the Political Bureau of the CPC Central Committee and a member of the Secretariat of the CPC Central Committee, made the remarks while addressing the closing of a study session at the Party School of the CPC Central Committee (National Academy of Governance).
+
+
