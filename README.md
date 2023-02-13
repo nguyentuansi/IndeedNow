@@ -16667,3 +16667,904 @@
 > Sweet Transit Forging Forward Early Access Free Download PC Game setup in single direct link for Windows. It is an amazing simulation and strategy game. Sweet Transit Forging Forward Early Access PC Game 2023 Overview Sweet Transit is a unique city builder where rail is the feature and trains are the only means of expansion and transportation. Create complex production lines and grow humble villages into thriving metropolitan cities while navigating through key eras such as the introduction of steam power and the invention of the combustion engine.
 
 
+***
+![Uber drivers initiate first collective agreement](https://d2xgqyuql1olth.cloudfront.net/assets/Uploads/2022-12/uber-app.jpeg "Uber drivers initiate first collective agreement")
+
+
+[Uber drivers initiate first collective agreement](https://www.nbr.co.nz/tech/uber-drivers-initiative-first-collective-agreement/)
+
+
+> Not a Fair Pay Agreement at this point, but FPA could be possibility depending on how many drivers sign up to representation. New Zealand Uber drivers are the latest to try and collectively organise. New Zealand Uber drivers have initiated their first ever collective pay agreement, First Union said this morning. The collective agreement is not a fair pay agreement that would be extended to the entire ride-share industry, although that remains a long-term goal, the Union has said.   Instead, the Want to read more? It's easy.
+
+
+***
+![WATCH: Robot Dogs Crash the Super Bowl in Wild Pregame Performance](https://www.mediaite.com/wp-content/uploads/2023/02/Boston-Dynamic-Robot-Dog-Dancers-Derulo-Super-Bowl.jpg "WATCH: Robot Dogs Crash the Super Bowl in Wild Pregame Performance")
+
+
+[WATCH: Robot Dogs Crash the Super Bowl in Wild Pregame Performance](https://www.mediaite.com/tech/watch-robot-dogs-crash-the-super-bowl-in-wild-pregame-performance/)
+
+
+> Jason Derulo found himself trending on Twitter Sunday afternoon for his pregame ‘TikTok Tailgate' — but for his terrifying squad of backup dancers, not his singing. Derulo was joined on stage by a pack of robot dogs, as made famous by Boston Dynamics' demonstration videos of their robotic canines being a little too nimble for human comfort — and then even more infamous by a fourth season episode of the Netflix series Black Mirror , in which the robot dogs are literally predators hunting down humans.
+
+
+***
+![Google makes $600 mn investment to expand US data centre](https://chennaionline.com/wp-content/uploads/2019/09/favicon.png "Google makes $600 mn investment to expand US data centre")
+
+
+[Google makes $600 mn investment to expand US data centre](https://chennaionline.com/technology/google-makes-600-mn-investment-to-expand-us-data-centre/)
+
+
+> As part of its plan to invest $13 billion in building new data centres and offices in over a dozen states in the US this year, Google has announced a fresh investment of $600 million to expand its data centre in Pryor, a city in Oklahoma. The Pryor site is an important part of the company's global network of data centers, Google CEO Sundar Pichai said on Thursday. This network is what powers Google searches, email, all of the photos they store and treasure, and the maps that help people find their way home.
+
+
+***
+![Every Super Bowl Halftime Show Should Feature Jetpacks](https://compote.slate.com/images/da5eed1b-ad5a-4ef8-a628-ac749bece27e.png?width=1560 "Every Super Bowl Halftime Show Should Feature Jetpacks")
+
+
+[Every Super Bowl Halftime Show Should Feature Jetpacks](https://slate.com/technology/2017/02/jetpacks-and-the-super-bowl-go-perfectly-together.html)
+
+
+> For those of us who don't follow football, the Super Bowl can be an annual exercise in frustration. The best sports let us find freedom, power, and capacity in our identification with talented athletes, but this outsized spectacle inevitably leaves the untutored feeling helpless. Watching, you're all but imprisoned by the erratic stop-and-start rhythms of the game, trapped by its baroque rules. If, as the NFL slogan has it, 'Football is family,' then the Super Bowl is our near-obligatory reminder that hanging out with your family is almost always terrible.
+
+
+***
+![Bungii Adopts Branch to Streamline and Accelerate Payments](https://www.crowdfundinsider.com/wp-content/uploads/2014/06/Speedometer.jpg "Bungii Adopts Branch to Streamline and Accelerate Payments")
+
+
+[Bungii Adopts Branch to Streamline and Accelerate Payments](https://www.crowdfundinsider.com/2023/02/202302-bungii-adopts-branch-to-streamline-and-accelerate-payments)
+
+
+> Bungii, the 'fast-growing' platform for big and bulky last-mile delivery, announced it has adopted workforce payments platform Branch in order 'to streamline the payments experience for its growing network of drivers. Drivers that sign up with Bungii will onboard with Branch to receive fast, easy access to payments. Currently serving in 50 major metros across 500 U.S. cities, Bungii offers same-day delivery services 'to fulfill all retail and commercial delivery needs.' With thousands of drivers on its platform and plans to quadruple fleet size over the next year, Bungii selected Branch as its preferred driver payments solution 'to support the company's rapid expansion as it continues to scale.
+
+
+***
+![Intel is demolishing the LGA1200 package](https://cdn.rios.hu/dl/cnt/2023-02/181689s.jpg/100 "Intel is demolishing the LGA1200 package")
+
+
+[Intel is demolishing the LGA1200 package](https://tekdeeps.com/intel-is-demolishing-the-lga1200-package/)
+
+
+> The production of desktop processors based on the Rocket Lake chip ends. Intel has announced that it will retire its Rocket Lake desktop processors. Specifically, it is the entire 11th generation desktop series, including solutions running under the Xeon and Core brands. Regarding the exact data, it is document below offers detailed information. According to the company's announcement, the above-mentioned products will be available to order until August 25, 2023, after which the company will no longer accept further requests.
+
+
+***
+![Latest Super Mario Bros. movie poster features Bowser and Kamek](https://gonintendo.com/attachments/image/23160/file/medium-3460cb31bd49cda921f15a34dc7a486b.jpg "Latest Super Mario Bros. movie poster features Bowser and Kamek")
+
+
+[Latest Super Mario Bros. movie poster features Bowser and Kamek](https://gonintendo.com/contents/16174-latest-super-mario-bros-movie-poster-features-bowser-and-kamek)
+
+
+> Today's been quite a day for news on the Super Mario Bros. movie! We got a new trailer that pays tribute to classic Mario content, an official website with all kinds of Easter eggs, and now we get yet another poster to go along with the bunch that released over the last week+. This time around we get another landscape poster instead of a traditional portrait approach. This poster gives us a look at both Bowser and Kamek as they're giving a speech to the legion of Koopa Troopas below. Looks like Bowser has an army this time around that's bigger than ever! The Super Mario Bros.
+
+
+***
+![RUMOR: Sonic Frontiers director gives hope for more 2D Sonic games](https://gonintendo.com/attachments/image/23159/file/medium-0d4252816f5cf25d357a7071cede6e99.webp "RUMOR: Sonic Frontiers director gives hope for more 2D Sonic games")
+
+
+[RUMOR: Sonic Frontiers director gives hope for more 2D Sonic games](https://gonintendo.com/contents/16173-rumor-sonic-frontiers-director-gives-hope-for-more-2d-sonic-games)
+
+
+> Sonic Frontiers seems to have captured the imagination of Sonic fans new and old alike, and it certainly takes the franchise into a bold new direction. There's no doubt plenty of 3D Sonic adventures ahead of us, but what about Sonic's 2D future? Well, it appears supporters of Sonic in 2D will have something to look forward to as well. Sonic Frontiers' director Morio Kishimoto has been answering all sorts of fan questions on Twitter the last few days, and one person in particular made an inquiry about more 2D Sonic titles.
+
+
+***
+![Pokémon Scarlet/Violet Tandemaus Tera Raid Battle Event now rolling out](https://gonintendo.com/attachments/image/23158/file/medium-e1589c3a9f4cfbaf0bf8f4d67e3556ba.jpg "Pokémon Scarlet/Violet Tandemaus Tera Raid Battle Event now rolling out")
+
+
+[Pokémon Scarlet/Violet Tandemaus Tera Raid Battle Event now rolling out](https://gonintendo.com/contents/16172-pokemon-scarlet-violet-tandemaus-tera-raid-battle-event-now-rolling-out)
+
+
+> You've been training for this day Trainers, the next Tera Raid Battle Event for Pokémon Scarlet and Violet has started dto roll out worldwide. The Tandemaus Tera Raid Battle Event is starting now and runs until the end of Feb. 14th, 2023. This event will feature Tandemaus in 1 to 5 Star Raids with various Tera Types, and will offer rewards including Strawberries and Whipped Cream. If you want even more specific details on this event, you can find a detailed breakdown here .
+
+
+***
+[ACA Group Taps Global Talent With New Office in Pune, India](http://www.businesswire.com/news/home/20230212005010/en/ACA-Group-Taps-Global-Talent-With-New-Office-in-Pune-India/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PUNE, India--(BUSINESS WIRE)--ACA Group (ACA), the leading governance, risk, and compliance (GRC) advisory and technology firm in financial services, is opening a new office in Pune, India, to service the growing financial services market in the region and, most importantly increase its access to great talent to support ACA's rapid global growth. The new office opens on February 13th and adds to ACA's 'follow the sun service,' which will support clients around the clock and improve project turn
+
+
+***
+![Rooftop Renegade Original Soundtrack+ due out Feb. 17th, 2023](https://gonintendo.com/attachments/image/23156/file/medium-fc6228cc8f7e146081849304b990d6ef.png "Rooftop Renegade Original Soundtrack+ due out Feb. 17th, 2023")
+
+
+[Rooftop Renegade Original Soundtrack+ due out Feb. 17th, 2023](https://gonintendo.com/contents/16170-rooftop-renegade-original-soundtrack-due-out-feb-17th-2023)
+
+
+> Melonhead Games (the South Australian-based independent studio) and John Oestmann of Soundworlds are pleased to announce that in addition to their debut title Rooftop Renegade launching February 17, 2023 on Switch, the Rooftop Renegade Original Soundtrack+ will be made available to buy on Steam and streamed on all major music streaming platforms. Rooftop Renegade's soundtrack was intended to compliment the player's momentum as Svetlana's movement ebbs and flows. This collection expands all of your favorite in-game tracks into album versions for a new listening experience.
+
+
+***
+![Hogwarts Legacy, the Complete Guide](https://www.tomshw.it/images/images/2023/01/hogwarts-legacy-262542.large.jpg "Hogwarts Legacy, the Complete Guide")
+
+
+[Hogwarts Legacy, the Complete Guide](https://tekdeeps.com/hogwarts-legacy-the-complete-guide/)
+
+
+> Hogwarts Legacy it is a mammoth title, just like the saga from which it is inspired. Hogwarts Castle, Hogsmeade, the Forbidden Forest, are just some of the numerous locations, full of collectibles, missions and puzzles, which you will have to face to complete the game 100%. Reaching maximum completion will therefore not be a walk in the park and will really take a long time. As happens within the game, we have decided to create a guide to consult whenever you find yourself in difficulty. Indeed, not just any guide but the best Complete guide to Hogwarts Legacy which you can find on the Italian network.
+
+
+***
+![Subscription iPhone: Will Apple's Service Arrive in March?](https://static.iphoneitalia.com/wp-content/uploads/2022/11/iphone-14-pro-max-magsafe-770x385.jpg "Subscription iPhone: Will Apple's Service Arrive in March?")
+
+
+[Subscription iPhone: Will Apple's Service Arrive in March?](https://tekdeeps.com/subscription-iphone-will-apples-service-arrive-in-march/)
+
+
+> Apple's rumored iPhone subscription service appears to be finally on its way, perhaps sometime in March or April. As early as the beginning of 2022, the first reports appeared suggesting that Apple wanted to expand its services business by also introducing hardware, providing iPhones and other devices to consumers for a monthly fee. However, having arrived in 2023, there is still no concrete information about it. In the newsletter 'Power On' per Bloomberg, Mark Gurman insists that Apple is working on four fintech projects at the moment.
+
+
+***
+![Digital Lending Platform MONIX Closes $20M Round to Support Financial Inclusion in Thailand](https://www.crowdfundinsider.com/wp-content/uploads/2015/02/Beautiful-Bangkok-Thailand.jpg "Digital Lending Platform MONIX Closes $20M Round to Support Financial Inclusion in Thailand")
+
+
+[Digital Lending Platform MONIX Closes $20M Round to Support Financial Inclusion in Thailand](https://www.crowdfundinsider.com/2023/02/202408-digital-lending-platform-monix-closes-20m-round-to-support-financial-inclusion-in-thailand)
+
+
+> MONIX Co., Ltd., a Bangkok-based AI-powered digital lending platform, announced that the company has secured US$20 million in the first close of its pre-IPO fundraising. The investment round was 'led by the mothership SCBX and a new investor Lombard Asia, a Southeast Asia's growth-focused private equity manager, demonstrating the company's strong growth in micro-finance lending on the path to IPO in the near future and becoming the market leader in Thailand's digital lending arena.' Mr. Qinbin Fan, Chief Executive Officer, and Ms.
+
+
+***
+!['Not even with the M2 Pro chip' Why the Mac is a mess as a gaming machine](https://www.itworld.co.kr/files/itworld/ITW_202302_01/Resident-Evil.jpg "'Not even with the M2 Pro chip' Why the Mac is a mess as a gaming machine")
+
+
+['Not even with the M2 Pro chip' Why the Mac is a mess as a gaming machine](https://tekdeeps.com/not-even-with-the-m2-pro-chip-why-the-mac-is-a-mess-as-a-gaming-machine/)
+
+
+> With the M2 Pro chip in the Mac mini, Apple claims it's a great gaming computer. According to the Mac mini's introductory website, 'The amazing GPU performance of the M2 or M2 Pro enables graphics-intensive games like No Man's Sky and Resident Evil Village to be captured with fluid frame rates and high fidelity.' You can enjoy AAA games.' The latest version of macOS natively supports Xbox and PlayStation controllers, so it's not wrong to play games on Mac devices under $2,000. However, when you actually play it, you can see that it still has a very long way to go compared to PC.
+
+
+***
+![Babyface Strums Out ‘America the Beautiful' on Patriotic Guitar at Super Bowl 2023](https://247newsaroundtheworld.com/wp-content/uploads/2023/02/babyface-performance-800x430.jpg "Babyface Strums Out ‘America the Beautiful' on Patriotic Guitar at Super Bowl 2023")
+
+
+[Babyface Strums Out ‘America the Beautiful' on Patriotic Guitar at Super Bowl 2023](https://247newsaroundtheworld.com/entertainment/babyface-strums-out-america-the-beautiful-on-patriotic-guitar-at-super-bowl-2023/)
+
+
+> Babyface opens the 2023 Super Bowl with an emotional performance of 'America the Beautiful.' The 64-year-old hitmaker took to the field at the State Farm Stadium on Sunday (February 12) in Glendale, Ariz. His performance comes before the Philadelphia Eagles and Kansas City Chiefs face off in the highly anticipated showdown. Babyface wore a black suit, which he complimented with a diamond-encrusted chain link necklace. He strummed out the song on a guitar emblazoned with the American flag. Chris Stapleton performed the National Anthem and Sheryl Lee Ralph delivered 'Life Every Voice and Sing.
+
+
+***
+![McDonalds Uses Super Bowl Pre-Game to Unveil Celebrity Duo Meal With Cardi B, Offset](https://iknowallnews.com/wp-content/uploads/2023/02/McDonalds-Uses-Super-Bowl-Pre-Game-to-Unveil-Celebrity-Duo-Meal-With-Cardi-B-Offset.jpg "McDonalds Uses Super Bowl Pre-Game to Unveil Celebrity Duo Meal With Cardi B, Offset")
+
+
+[McDonalds Uses Super Bowl Pre-Game to Unveil Celebrity Duo Meal With Cardi B, Offset](https://iknowallnews.com/lifestyle/mcdonalds-uses-super-bowl-pre-game-to-unveil-celebrity-duo-meal-with-cardi-b-offset/)
+
+
+> Home » Lifestyle » McDonalds Uses Super Bowl Pre-Game to Unveil Celebrity Duo Meal With Cardi B, Offset McDonald's isn't letting its competitors eat up all the ad time during the Super Bowl pre-game festivities. The fast-food giant served up a new ad guest-starring Cardi B and Offset that burnishes a new meal curated by the celebrity duo, just in time for Valentine's Day. The Super Bowl pre-game is typically a place where Yum Brands' Pizza Hut holds sway, eager to get Super Bowl viewers to order up a pie or two before kickoff starts.
+
+
+***
+![Volkswagen ID. Buzz: electric and phenomenal bus. First test drive](https://antyweb.pl/img/781/440/fit/wp-content/uploads/2023/02/hat3wvpd7g/volkswagen_id_buzz_20.jpg "Volkswagen ID. Buzz: electric and phenomenal bus. First test drive")
+
+
+[Volkswagen ID. Buzz: electric and phenomenal bus. First test drive](https://tekdeeps.com/volkswagen-id-buzz-electric-and-phenomenal-bus-first-test-drive/)
+
+
+> Already a year ago, when we wrote about the premiere of ID. Buzz, there was no doubt that this car is distinguished by its style and introduces a breath of fresh air to the, however, quite boring segment of buses/vans. Its spiritual predecessor – Volkswagen Transporter T1 – was nicknamed 'Bulli' and permanently entered the pop culture and hearts of many people remembering the 60s and 70s of the last century. However, you don't have to remember those times personally to fall in love with the design of the Volkswagen ID.
+
+
+***
+![Omega Strikers – a new game by former Riot Games employees will hit iOS in April](https://myapple.pl/uploads/image/file/d/0/c/big_e72795d3-8b6e-45c0-9083-a947b199cd0c.jpg "Omega Strikers – a new game by former Riot Games employees will hit iOS in April")
+
+
+[Omega Strikers – a new game by former Riot Games employees will hit iOS in April](https://tekdeeps.com/omega-strikers-a-new-game-by-former-riot-games-employees-will-hit-ios-in-april/)
+
+
+> Odyssey Interactive is a studio founded by former employees of Riot Games, who over the years co-created such hits as League of Legends and Teamfight Tactics. Last year they announced their first game – Omega Strikers. It has now been announced that it will also be coming to iOS devices in April. Omega Strikers will be quite an imaginative mix of genres, combining MOBA elements in the style of League of Legends with an arcade sports game inspired by air hockey. The game will consist of the struggle of two teams of three, trying to hit the puck into the opponent's goal.
+
+
+***
+![Meta reportedly planning more layoffs as part of efficiency drive](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/09/zuck-oc6-2019-1.jpg "Meta reportedly planning more layoffs as part of efficiency drive")
+
+
+[Meta reportedly planning more layoffs as part of efficiency drive](https://siliconangle.com/2023/02/12/meta-reportedly-planning-layoffs-part-efficiency-drive/)
+
+
+> Meta Platforms Inc. is reportedly planning more layoffs in March as part of an efficiency drive after having laid off around 11,000 employees in November . The Financial Times , referencing employees familiar with the situation, Saturday reported that Meta has delayed finalizing multiple teams' budgets ahead of the planned cuts. The delays are claimed to have resulted in a 'mess,' with a lack of clarity resulting in 'zero work' being done as managers have been unable to plan future workloads.
+
+
+***
+![Telstra Purple to support Microsoft services with dedicated practice](https://d2bs8hqp6qvsw6.cloudfront.net/article/images/740x500/dimg/vanessa_sorenson_1.jpg "Telstra Purple to support Microsoft services with dedicated practice")
+
+
+[Telstra Purple to support Microsoft services with dedicated practice](https://www.arnnet.com.au/article/705529/telstra-purple-support-microsoft-services-dedicated-practice/)
+
+
+> Vanessa Sorenson (Microosft) Credit: Supplied Telstra Purple is set to support Microsoft services for businesses with the launch of a dedicated end-to-end practice.  Named a key part of Telstra and Microsoft's expanded five-year agreement, which was signed in July last year , the practice combines Microsoft product, sales and delivery specialists with a team of 20 and supported by connectivity and technology experts from the telco.  Credit: Telstra Purple Gretchen Cooke (Telstra Purple) Gretchen Cooke, Telstra Purple growth and transformation executive, said the practice is anticipated to bring scale to the managed services arm's 'ability to provide maximum value for our joint customers, no matter where they are in their digital journey or the size or style of their business'.
+
+
+***
+![And last week's tech highlights were…](https://pplware.sapo.pt/wp-content/uploads/2023/02/destaques_12fev-720x405.jpg "And last week's tech highlights were…")
+
+
+[And last week's tech highlights were…](https://tekdeeps.com/and-last-weeks-tech-highlights-were-3/)
+
+
+> Because our priority is the quality of the information that reaches our readers, we have chosen some articles published over the past week and that reflect the most relevant talks in the technological and scientific world in Pplware. We tried out the new Samsung Galaxy S23 Ultra, analyzed the DTNO.1 DT8 Ultra smartwatch, reviewed the launch of the OnePlus 11, tested the new Renault Austral, and much more. With small stores in mind, the Go-Infinity P80 was created, a small and practical receipt printer that works via USB, Wi-Fi or Bluetooth, all to facilitate the process and provide greater freedom of use.
+
+
+***
+![Tech Data](https://d2bs8hqp6qvsw6.cloudfront.net/dimg/230x230/dimg/dreamstime_l_143176527.jpg "Tech Data")
+
+
+[Tech Data](https://www.arnnet.com.au/brand-post/271/tech-data)
+
+
+> Brand Post Connecting brands with IT. Tech Data connects the world with the power of technology. Our end-to-end portfolio of products, services and solutions, highly specialized skills, and expertise in next-generation technologies enable channel partners to bring to market the products and solutions the world needs to connect, grow and advance. Tech Data is ranked No. 90 on the Fortune 500® and has been named one of Fortune's World's Most Admired Companies for 11 straight years. To find out more, visit www.
+
+
+***
+![Pearl Abyss Shows Off Class Combat for Zayed in Latest Video](https://img.youtube.com/vi/sdqq-x0T9Wo/hqdefault.jpg "Pearl Abyss Shows Off Class Combat for Zayed in Latest Video")
+
+
+[Pearl Abyss Shows Off Class Combat for Zayed in Latest Video](https://www.mmorpg.com/videos/pearl-abyss-shows-off-class-combat-for-zayed-in-latest-video-2000127291)
+
+
+> Black Desert Mobile , the popular mobile MMORPG by Pearl Abyss, has recently added a new class to its roster: Zayed, also known as The Sand Serpent That Will Devour All . This exciting new addition brings a unique playstyle to the game, as Zayed brings a host of new abilities and skills that players can turn the tide of battle in an instant. Zayed specializes in dual wielding double-edged glaives. As the awakening of the Hashashin , the Zayed will devastate enemies with a combination of swift strikes and powerful combos.
+
+
+***
+![Blind testing of shots on Samsung Galaxy S23 Ultra, iPhone 14 Pro Max, Galaxy S22 Ultra, Fold4](https://mobile-review.com/all/wp-content/uploads/2023/02/85-1.jpg "Blind testing of shots on Samsung Galaxy S23 Ultra, iPhone 14 Pro Max, Galaxy S22 Ultra, Fold4")
+
+
+[Blind testing of shots on Samsung Galaxy S23 Ultra, iPhone 14 Pro Max, Galaxy S22 Ultra, Fold4](https://tekdeeps.com/blind-testing-of-shots-on-samsung-galaxy-s23-ultra-iphone-14-pro-max-galaxy-s22-ultra-fold4/)
+
+
+> Hello. Traditional blind testing, in which you can choose those photos that seem to you the most vivid, interesting and telling. Shooting only on the main module, in the 'point and shoot' mode, no AI enhancements worked. This imposes a number of limitations, since when shooting in real life, many pictures could be improved. We also removed all technical defects, when one of the devices 'smeared' so that you have the same pictures. The output of suitable frames is approximately the same, here everything is plus or minus equal, the automation worked well.
+
+
+***
+![How to transfer contacts from Android smartphone to iPhone. No third party apps needed](https://www.iphones.ru/wp-content/uploads/2023/02/Backup-Google-contacts-on-Android-through-settings.jpg.jpg "How to transfer contacts from Android smartphone to iPhone. No third party apps needed")
+
+
+[How to transfer contacts from Android smartphone to iPhone. No third party apps needed](https://tekdeeps.com/how-to-transfer-contacts-from-android-smartphone-to-iphone-no-third-party-apps-needed/)
+
+
+> When switching from one smartphone to another, the most difficult thing is to transfer a voluminous list of contacts. Many applications and services offer to do this in a couple of clicks, but at the same time you will give their developers access to the phone book. Now we will tell you how to synchronize data without third-party applications and services. 📌 Thank you re:Store for useful information. 👌 How to Transfer Contacts from Android to iOS 1. Save all your contacts on Android smartphone to an account Gmail.
+
+
+***
+![These are the best tips to set up your iPhone for gaming.](https://appleinsider.ru/wp-content/uploads/2023/02/gaming_optimizatiob.jpg "These are the best tips to set up your iPhone for gaming.")
+
+
+[These are the best tips to set up your iPhone for gaming.](https://tekdeeps.com/these-are-the-best-tips-to-set-up-your-iphone-for-gaming/)
+
+
+> While Android smartphone owners are happy to use game modes to optimize performance, iPhone owners cannot afford this. Yes, the Apple Silicon processor overclocks almost all games by default, but older iPhones still experience freezes during gaming, and at the most inopportune moment. There is no doubt that an Apple smartphone can and should be manually configured for games, but instead of turning everything off, pay attention to some of the options. We tell how to set up iphone for gaming: These simple tips will make gaming a little more comfortable.
+
+
+***
+![How to Restore SteamOS on the Steam Deck Using Valve's Recovery Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/steam-deck-steamos-recovery-image-featured.jpg "How to Restore SteamOS on the Steam Deck Using Valve's Recovery Image")
+
+
+[How to Restore SteamOS on the Steam Deck Using Valve's Recovery Image](https://www.makeuseof.com/how-to-restore-steamos-on-steam-deck/)
+
+
+> Valve hasn't locked down the Steam Deck, so you're free to modify it however you wish. That also means you're free to break things. What do you do if the situation goes sideways? You're in luck—Valve provides a recovery image that makes it easy to get your device back up and running. Here's how to restore SteamOS to its default settings and leave your Deck good as new. What Is a Recovery Image? A recovery image is a copy of an operating system that you can use to erase and replace the version currently on your device.
+
+
+***
+![How to get and use light blocks in Minecraft](https://staticg.sportskeeda.com/editor/2023/02/ccfdb-16762320748846-1920.jpg "How to get and use light blocks in Minecraft")
+
+
+[How to get and use light blocks in Minecraft](https://www.sportskeeda.com/minecraft/how-get-use-light-blocks-minecraft)
+
+
+> Introduced in Minecraft 1.17, light blocks are invisible items that produce light levels ranging from zero to 15. At their core, they can be used to effectively illuminate a location without requiring one to place any tangible or visible blocks on the landscape. Light blocks see extensive use in Minecraft when it comes to creating maps or just keeping hostile mobs away in a world. However, players won't be able to obtain these items through standard Survival or Adventure Mode gameplay. Instead, players can utilize commands to acquire them in both Java and Bedrock game versions.
+
+
+***
+![Particle Life Gravity Simulator -- Custom Rules For Motion](https://external-preview.redd.it/dyWhhyznVaVb_Upgm4zAJAeLplSxf1mThvHdj-ZbKE8.jpg?auto=webp&v=enabled&s=3246c42d9e3f8c54bdb99756bd404f8511b56f75 "Particle Life Gravity Simulator -- Custom Rules For Motion")
+
+
+[Particle Life Gravity Simulator -- Custom Rules For Motion](https://www.reddit.com/r/programming/comments/110sspd/particle_life_gravity_simulator_custom_rules_for)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Atomic Heart reveals HW claims](https://www.zing.cz/wp-content/uploads/2023/02/Atomic-Heart-3.jpg "Atomic Heart reveals HW claims")
+
+
+[Atomic Heart reveals HW claims](https://www.world-today-news.com/atomic-heart-reveals-hw-claims/)
+
+
+> Yesterday, you were given the chance to read more about how much playtime Atomic Heart will have and how many weapons you can look forward to. If you belong to the group of players who are looking forward to the game and don't mind some of the facts that are emerging about it, today we have an overview of the HW requirements for you, exclusively provided by the server Wccftech. In total, we have six specific settings here. At the lowest settings, almost everyone can start the title, because most of the components are really old by now.
+
+
+***
+![Twitter or Facebook? Ricardo Salinas points out the similarities between platforms](https://files.merca20.com/uploads/2023/02/Twitter-Facebook-Ricardo-Salinas-.png "Twitter or Facebook? Ricardo Salinas points out the similarities between platforms")
+
+
+[Twitter or Facebook? Ricardo Salinas points out the similarities between platforms](https://www.world-today-news.com/twitter-or-facebook-ricardo-salinas-points-out-the-similarities-between-platforms/)
+
+
+> It is due to the growing digital community that digital platforms have been forced to transform their use models. Currently, TikTok, impulse within the range of digital platforms, the integration of short videos. Since the sale of Twitter became known, this platform has suffered various ups and downs. Currently, social networks have become a fundamental part of people's daily lives; However, it is due to the constant changes in the behavior of users that the use of social networks has been transformed, as shown by the businessman Ricardo Salinas, who generated various comments, due to the similarity that exists between social networks.
+
+
+***
+![$16 Billion... Over 50 Million Americans Will Bet On The Super Bowl](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/2023-02-12_11-15-15.png?h=6d3f4e5d&itok=MFw_7SPO "$16 Billion... Over 50 Million Americans Will Bet On The Super Bowl")
+
+
+[$16 Billion... Over 50 Million Americans Will Bet On The Super Bowl](https://www.zerohedge.com/technology/16-billion-over-50-million-americans-will-bet-super-bowl)
+
+
+> On Super Bowl Sunday, more than 100 million Americans are expected to watch the NFL championship game between the Kansas City Chiefs and the Philadelphia Eagles on television. For the increasing number of sports fans, watching the game isn't enough anymore, and many have placed bets on the world's biggest one-day sporting event.   The  American Gaming Association  (AGA) estimates a record 50.4 million American adults will bet on Super Bowl LVII, with legal and illegal wagers totaling $16 billion (with around 30 million Americans gambling online).
+
+
+***
+![Format flash drive on Windows operating system and macOS operating system](https://elmeezan.com/wp-content/uploads/2022/12/main-11.jpg "Format flash drive on Windows operating system and macOS operating system")
+
+
+[Format flash drive on Windows operating system and macOS operating system](https://www.world-today-news.com/format-flash-drive-on-windows-operating-system-and-macos-operating-system/)
+
+
+> The longer the time and number of times the USB Flash Drive or flash memory is used in other words, the greater the need to reformat or format it from time to time, with the continuous use and transfer of data, the flash memory may be exposed to viruses or exposure to data interference, and with The formatting process will be able to fix its problems and increase the speed of its data transfer, and in this article we will learn specifically how to format the flash memory on two operating systems windows And mac.
+
+
+***
+![Remedy Says Alan Wake 2 Is Now Playable From Start To Finish](https://press-start.com.au/wp-content/uploads/2023/02/alan-wake-2.jpg "Remedy Says Alan Wake 2 Is Now Playable From Start To Finish")
+
+
+[Remedy Says Alan Wake 2 Is Now Playable From Start To Finish](https://press-start.com.au/news/playstation/2023/02/13/remedy-says-alan-wake-2-is-now-playable-from-start-to-finish)
+
+
+> Announced just over a year ago, it seems development on Alan Wake 2 is moving along at a nice pace. In a recent earnings report, the game's developer Remedy announced that the game is now 'playable from start to finish,' meaning that (for the most part) it's feature-complete and now waiting for all of the assets and content to be put into place before it goes into a polishing phase. It bodes well for the projected 2023 release but obviously things could easily change over the coming months. In its report, Remedy also revealed that while the remaster of the original Alan Wake has not yet generated any royalties for the company it expects sales to pick up closer to the launch of the sequel as players get acquainted or re-acquainted with the story.
+
+
+***
+![Hogwarts Legacy: How To Farm Moonstones](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/collage-maker-12-feb-2023-04-45-pm.jpg "Hogwarts Legacy: How To Farm Moonstones")
+
+
+[Hogwarts Legacy: How To Farm Moonstones](https://gamerant.com/hogwarts-legacy-how-farm-moonstones-guide/)
+
+
+> Set in the 1890s, Hogwarts Legacy places players in a never-before-seen version of Hogwarts School of Witchcraft and Wizardry and allows them to explore to their heart's content. While exploring the vast wizarding world, it is possible to stumble upon a variety of interesting items, but some are harder to find than others. While the Moonstones available in Hogwarts Legacy aren't exactly hard to find, collecting the amount players need will likely take them a great deal of time and effort. Thankfully, there is a way to get a lot of them if the player is willing to bide their time.
+
+
+***
+![It Will Do: Risen Review (2023)](https://gamemag.ru/images/cache/Reviews/Reviews2362/4c25cf101a-2_1390x600.jpg "It Will Do: Risen Review (2023)")
+
+
+[It Will Do: Risen Review (2023)](https://www.world-today-news.com/it-will-do-risen-review-2023/)
+
+
+> I don't know about you, but I miss role-playing games. Not that they caress the soul of oldfags who recognize the world only in an isometric perspective – everything seems to be in order with them, there is a relatively quick release Baldur's Gate 3 looms, and last year King Arthur: Knight's Tale pleased fans of the genre, and even the domestic game dev is not far behind, presenting to the public Pathfinder: Wrath of the Righteous. I'm talking about the games of the seventh generation of consoles, when RPGs were more often told about the adventures of a lone hero (well, or a hero accompanied by a couple of secondary characters), they gave plenty of sight of the world around thanks to the camera from the first or third person and relied on the action component when interacting with the outside world rather than rolling imaginary dice when calculating probabilities.
+
+
+***
+![Karen Kaushansky Conversation Designer at Google Talks UX for Wearables, LLMs, and More – Voicebot Podcast Ep 297](https://voicebot.ai/wp-content/uploads/2023/02/2-podcast-image-karen-kaushansky.png "Karen Kaushansky Conversation Designer at Google Talks UX for Wearables, LLMs, and More – Voicebot Podcast Ep 297")
+
+
+[Karen Kaushansky Conversation Designer at Google Talks UX for Wearables, LLMs, and More – Voicebot Podcast Ep 297](https://voicebot.ai/2023/02/12/karen-kaushansky-conversation-designer-at-google-talks-ux-for-wearables-llms-and-more-voicebot-podcast-ep-297/)
+
+
+> Bret Kinsella on February 12, 2023 at 5:23 pm Karen Kaushansky is a conversation designer at Google that led the Google Assistant UX design for WearOS and, more recently, for the Pixel Watch. While there has been a lot of attention around conversational UX on smart speakers and mobile phones, wearables introduce new variables and different mental models. Kaushansky goes into detail about designing voice experiences for the watch, what it's like to be an API or embedded in the software, how it's different when you also control the hardware or run software on the device, and more.
+
+
+***
+![Super Mario Bros. Super Bowl Commercial Goes in an Awesome Direction](https://www.cnet.com/a/img/resize/829fdbbf838cdebc0fad9c5f7c0f39da22e53a52/hub/2023/02/12/86301368-4e90-472e-9f00-48ca449bfa85/screen-shot-2023-02-13-at-9-14-56-am.png?auto=webp&fit=crop&height=630&width=1200 "Super Mario Bros. Super Bowl Commercial Goes in an Awesome Direction")
+
+
+[Super Mario Bros. Super Bowl Commercial Goes in an Awesome Direction](https://www.cnet.com/culture/entertainment/the-super-mario-bros-super-bowl-commercial-goes-in-a-bizarre-direction/)
+
+
+> Super Bowl commercials are a huge deal and we usually see bucketloads of big movies trailers make their debut during the big game . This year, Illumination and Nintendo are releasing a brand new trailer for the upcoming Super Mario Bros. movie and it's... not what I expected. Instead of revealing new footage, this trailer is for the Mario heads. It's a full blown remake of the Mario Rap, the intro from the old school The Super Mario Bros. Super Show that ran from 1989 until December 1991 and starred Lou Albano as Mario.
+
+
+***
+![Impressions of playing Resident Evil 4](https://www.zing.cz/wp-content/uploads/2023/02/re4r.jpg "Impressions of playing Resident Evil 4")
+
+
+[Impressions of playing Resident Evil 4](https://www.world-today-news.com/impressions-of-playing-resident-evil-4/)
+
+
+> We had to take this tempting opportunity fly abroad, but it was worth it. This extremely epic game is one of those that no screenshot or video can adequately represent. Only when you yourself progress through a dilapidated night village full of strange totems or bloody traces and watch your surroundings on a high-quality 4K monitor or TV, you will fully appreciate how significantly the authors have advanced their use of RE engine technology and visual art in building an extremely oppressive atmosphere of almost tangible horror.
+
+
+***
+![‘When I arrived I wasn't good enough'Parttime](https://cdn2.mediotiempo.com/uploads/media/2023/02/12/santi-gimenez-acumula-goles-eredivisie.jpg "‘When I arrived I wasn't good enough'Parttime")
+
+
+[‘When I arrived I wasn't good enough'Parttime](https://www.world-today-news.com/when-i-arrived-i-wasnt-good-enoughparttime/)
+
+
+> news" itemprop="articleBody"> Little by little, Santiago Gimenez He has been gaining the trust of his coach, Arne Slot thanks to the good performances he has had with the Feyenoord has even responded with goals for example, the goal he scored this Sunday in the 2-1 win against Heerenveen. After the game corresponding to Matchday 21, the Aztec striker confessed that continues to strive to improve Well, since he arrived at the squad of the Eredivisie his strategist made it very clear that he was 'not good enough'.
+
+
+***
+![Everything Confirmed for Xenoblade Chronicles 3's DLC Expansions 3 and 4](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/xenoblade-chronicles-3-shulk-return-dlc.jpg "Everything Confirmed for Xenoblade Chronicles 3's DLC Expansions 3 and 4")
+
+
+[Everything Confirmed for Xenoblade Chronicles 3's DLC Expansions 3 and 4](https://gamerant.com/xenoblade-chronicles-3-direct-expansion-pass-volume-3-4-new-mode-shulk-rex-story/)
+
+
+> The first Nintendo Direct of the year was held on February 8, featuring a multitude of announcements and news across its 40-minute broadcast. The event brought some pleasant surprises like a shadow-dropped Metroid Prime Remastered , alongside some familiar faces and games expected to appear like The Legend of Zelda: Tears of the Kingdom . Fans of Monolith Soft also got an update on what's to come for the JRPG Xenoblade Chronicles 3 . One of the first announcements from the Nintendo Direct was Xenoblade Chronicles 3 's Expansion Pass Vol.
+
+
+***
+![If Call of Duty: Modern Warfare 2's Rumored 2023 Expansion is Going To Work, It Has To Be Fairly Priced](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/mw2-2023-expansion-price.jpg "If Call of Duty: Modern Warfare 2's Rumored 2023 Expansion is Going To Work, It Has To Be Fairly Priced")
+
+
+[If Call of Duty: Modern Warfare 2's Rumored 2023 Expansion is Going To Work, It Has To Be Fairly Priced](https://gamerant.com/call-of-duty-modern-warfare-2-2023-expansion-content-single-player-multiplayer-price-full-game/)
+
+
+> Call of Duty: Modern Warfare 2 is facing an unexpected challenge that the franchise has not dealt with in almost two decades, with the title having to provide content for two years due to there being no mainline release planned for the IP in 2023. With the title already facing criticisms for the alleged lack of content that the base game possesses, it is clear to see how difficult it might be for the title to keep fans truly engaged over the coming year. With this in mind, it has recently been rumored that 2023 will see a dedicated expansion be released for Call of Duty: Modern Warfare 2 , with many assuming that the confirmed "full premium release" that the franchise will receive this year refers to this DLC.
+
+
+***
+![MySQL Table Partition Benchmark](https://external-preview.redd.it/D-_IusWn4SzBGc8tIQ6l1kzlkmvXTn2EZ9MB22SSMRs.jpg?auto=webp&v=enabled&s=b9e77ac1ef7791d497b4215d270eb408ab6731dc "MySQL Table Partition Benchmark")
+
+
+[MySQL Table Partition Benchmark](https://www.reddit.com/r/programming/comments/110rmzq/mysql_table_partition_benchmark)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+[Sale information : 'Alliance Alive HD Remaster' is on sale! & Prize commercialization with 'Goddess of Victory: NIKKE'! campaign too!](https://www.world-today-news.com/sale-information-alliance-alive-hd-remaster-is-on-sale-prize-commercialization-with-goddess-of-victory-nikke-campaign-too-octova/)
+
+
+> Oktober, sale and bargain information. Today we would like to inform you about the sales and campaign information for 'Alliance Alive HD Remaster', 'CHUCHEL' and 'Goddess of Victory: NIKKE'. You might find an unexpected bargain! ? 【please】 Developers, if you have any sale information, please contact the Oktoba editorial department! Sale information Alliance Alive HD Remastered 3,420 yen → 980 yen You can enjoy FuRyu's completely original fantasy RPG on your smartphone! 'Alliance Alive' controls nine main characters of different races, such as humans and demons, as well as gender, age, and position.
+
+
+***
+![EXCLUSIVE-S.Korea aims to join AI race as startup Rebellions launches new chip](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=920&format=jpeg "EXCLUSIVE-S.Korea aims to join AI race as startup Rebellions launches new chip")
+
+
+[EXCLUSIVE-S.Korea aims to join AI race as startup Rebellions launches new chip](https://www.devdiscourse.com/article/technology/2352674-exclusive-skorea-aims-to-join-ai-race-as-startup-rebellions-launches-new-chip)
+
+
+> South Korean startup Rebellions Inc launches an artificial intelligence (AI) chip on Monday, racing to win government contracts as Seoul seeks a place for local companies in the exploding AI industry. The company's ATOM chip is the latest Korean attempt to challenge global leader Nvidia Corp in the hardware that powers the potentially revolutionary AI technology. AI is the talk of the tech world, as ChatGPT - a chatbot from Microsoft-backed OpenAI that generates articles, essays, jokes and even poetry - has become the fastest-growing consumer app in history just two months after launch, according to UBS.
+
+
+***
+![Assassin's Creed Valhalla: Settling Down and The Alliance Map](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/ac-valhalla-alliance-map-and-settling-down.jpg "Assassin's Creed Valhalla: Settling Down and The Alliance Map")
+
+
+[Assassin's Creed Valhalla: Settling Down and The Alliance Map](https://gamerant.com/assassins-creed-valhalla-settling-down-the-alliance-map/)
+
+
+> Once players have made their way to England in Assassin's Creed Valhalla , they will be given the quests Settling Down and The Alliance Map. These both play a vital role in the core part of this game and task players with selecting where Eivor will go next. These quests require an assault on a local monastery as well as conversations with some of the key players of Assassin's Creed Valhalla . The challenge of these quests is largely determined by the difficulty setting of the game that players pursue, but for those players looking to work their way through Settling Down and The Alliance Map in Assassin's Creed Valhalla , this guide is here to help.
+
+
+***
+![2 music libraries with same name is confusing](https://images.macrumors.com/social/?t=2380554&v=6 "2 music libraries with same name is confusing")
+
+
+[2 music libraries with same name is confusing](https://forums.macrumors.com/threads/2-music-libraries-with-same-name-is-confusing.2380554/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly. You should upgrade or use an alternative browser . I just purchased a new Mac Mini for my home office and have moved the old 2015 iMac to the family room. When I connect to the the Music libraries using Remote they both show up as mynames's library making it confusing which one select depending on which room I'm in. I thought by changing the username and home folder on the old iMac they would now show up as 2 different names, but both still show up in Remote as myna's library.
+
+
+***
+[FIS Announces Date Change For Fourth Quarter Earnings to February 13, 2023](http://www.businesswire.com/news/home/20230212005013/en/FIS-Announces-Date-Change-For-Fourth-Quarter-Earnings-to-February-13-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> JACKSONVILLE, Fla.--(BUSINESS WIRE)--FIS® (NYSE: FIS), a global leader in financial services technology, today announced that it has changed its earnings release date for fourth quarter 2022 financial results to Mon., Feb. 13, 2023, prior to market open. The company will sponsor a live webcast of its earnings conference call with the investment community beginning at 8:30 a.m. (EST) the same day. To access the webcast, go to the Investor Relations section of FIS' homepage, www.fisglobal.com. A
+
+
+***
+![FIS Announces Date Change For Fourth Quarter Earnings to February 13, 2023](https://www.benzinga.com/next-assets/images/schema-image-default.png "FIS Announces Date Change For Fourth Quarter Earnings to February 13, 2023")
+
+
+[FIS Announces Date Change For Fourth Quarter Earnings to February 13, 2023](https://www.benzinga.com/pressreleases/23/02/b30870481/fis-announces-date-change-for-fourth-quarter-earnings-to-february-13-2023)
+
+
+> FIS FIS, a global leader in financial services technology, today announced that it has changed its earnings release date for fourth quarter 2022 financial results to Mon., Feb. 13, 2023, prior to market open. The company will sponsor a live webcast of its earnings conference call with the investment community beginning at 8:30 a.m. (EST) the same day. To access the webcast, go to the Investor Relations section of FIS' homepage, www.fisglobal.com. A replay will be available after the conclusion of the live webcast.
+
+
+***
+![SAVCA appoints two new board members at the 2021 Annual General Meeting.](https://techmoran.com/wp-content/uploads/2022/02/SAVCA-IMAGE.jpg "SAVCA appoints two new board members at the 2021 Annual General Meeting.")
+
+
+[SAVCA appoints two new board members at the 2021 Annual General Meeting.](https://techmoran.com/2021/10/07/savca-appoints-two-new-board-members-at-the-2021-annual-general-meeting/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![In a Bid to Settle Player Unrest, The Day Before Team Plans a Development Progress Video](https://images.mmorpg.com/images/heroes/posts/127290.jpg "In a Bid to Settle Player Unrest, The Day Before Team Plans a Development Progress Video")
+
+
+[In a Bid to Settle Player Unrest, The Day Before Team Plans a Development Progress Video](https://www.mmorpg.com/news/in-a-bid-to-settle-player-unrest-the-day-before-team-plans-a-development-progress-video-2000127290)
+
+
+> Fntastic, the developer behind the troubled game The Day Before , has hit Twitter with a series of tweets depicting a few difficulties the team has had, alongside a promise to show players that the game is both real, and it is progressing smoothly. In addition to the removal of the game to a trademark dispute, Fntastic has also stated that several videos have been removed from YouTube as well. The Day Before has been going through several issues which has culminated in a second delay to the release of the game, a trademark dispute that Fntastic initially attributed to the delay that has since been debunked , and now the removal of some of the videos for The Day Before from their YouTube channel.
+
+
+***
+![Audi S5, BMW M340i, or Mercedes C 43 AMG, Who's the Most Powerful 450-HP Six-Cylinder?](https://s1.cdn.autoevolution.com/images/news/audi-s5-bmw-m340i-or-mercedes-c-43-amg-who-s-the-most-powerful-450-hp-six-cylinder-210231_1.jpg "Audi S5, BMW M340i, or Mercedes C 43 AMG, Who's the Most Powerful 450-HP Six-Cylinder?")
+
+
+[Audi S5, BMW M340i, or Mercedes C 43 AMG, Who's the Most Powerful 450-HP Six-Cylinder?](https://www.autoevolution.com/news/audi-s5-bmw-m340i-or-mercedes-c-43-amg-who-s-the-most-powerful-450-hp-six-cylinder-210231.html)
+
+
+> 'All animals are equal, but some animals are more equal than others.' This famous George Orwell dictum is paradoxically true(r) when it comes to horses. Not the four-legged cart-pulling draft mammalians of the Equus genus, but the type that falls under the British-originated definition of mechanical work: the horsepower. James Watt gets primary credit for the widespread of this unit of measurement. We honor him today by using his name to express engine power unequivocally – in kilowatts. But the humble horsepower is the informal – and very much used – means of discriminating between piston yield.
+
+
+***
+![Report: FIS could sell or spin off Worldpay business](https://media.yourobserver.com/img/photos/2023/02/12/worldpay_fis_r850x580.jpg?50e13880ccc54d977011a5484f156b28f4611466 "Report: FIS could sell or spin off Worldpay business")
+
+
+[Report: FIS could sell or spin off Worldpay business](https://www.jaxdailyrecord.com/news/2023/feb/12/report-fis-could-sell-or-spin-off-worldpay-business/)
+
+
+> Under pressure from activist shareholders, Fidelity National Information Services Inc. is considering ways to get rid of its underperforming merchant payments technology business, Reuters news service reported Feb. 10. The Jacksonville-based financial technology company known as FIS acquired most of that business from Worldpay Inc., but its results have been disappointing since the $48 billion acquisition in 2019. Reuters said FIS is working on a plan to spin off the merchant business, while also considering sale proposals, and the plan could be announced soon.
+
+
+***
+![Why NASA Scientists Are Now More Afraid of New Innovations](https://www.aljazeera.net/wp-content/uploads/2023/02/46415165.jpg?resize=1920,1280 "Why NASA Scientists Are Now More Afraid of New Innovations")
+
+
+[Why NASA Scientists Are Now More Afraid of New Innovations](https://www.world-today-news.com/why-nasa-scientists-are-now-more-afraid-of-new-innovations/)
+
+
+> BOGOR RAYA DAY – NASA scientists are more concerned about the latest innovations. Because they are more worried about the latest innovations because the sun is increasingly emitting flares or what are known as solar bulges which can have an impact on communications on Earth. Still discussing the latest innovation concerns, according to NASA, a solar bulge is a large beam of light that extends outward from the sun's surface. Also Read: Accompanying the Two Grandsons Playing at the Mall, the President Was Greeted Enthusiastically by Visitors NASA says that this has happened before, but this has confused the scientific community.
+
+
+***
+![Video: Super Mario Bros. Movie commercial](https://i0.wp.com/mynintendonews.com/wp-content/uploads/2023/02/mario_bros_movie_commercial.png?fit=1920%2C1080&ssl=1 "Video: Super Mario Bros. Movie commercial")
+
+
+[Video: Super Mario Bros. Movie commercial](https://mynintendonews.com/2023/02/12/video-super-mario-bros-movie-commercial/)
+
+
+> Marketing for The Super Mario Bros. Movie has been officially in full swing for a little while now, as the movie is less than 2 months away from releasing in theaters. That said, the latest example of the movie's marketing may just put a smile on the faces of veteran Mario fans. You see, today is Super Bowl Sunday in the United States. Because of this, there's a lot of new commercials airing. One of them is a commercial for The Super Mario Bros. Movie. The commercial heavily references The Super Mario Bros.
+
+
+***
+![Sony keeps the design of the Sony Xperia 1V unchanged](https://future-news.net/wp-content/uploads/2023/02/1676234135_تحافظ-Sony-على-تصميم-Sony-Xperia-1V-دون-تغيير.png "Sony keeps the design of the Sony Xperia 1V unchanged")
+
+
+[Sony keeps the design of the Sony Xperia 1V unchanged](https://www.world-today-news.com/sony-keeps-the-design-of-the-sony-xperia-1v-unchanged/)
+
+
+> Sony is planning to introduce the Sony Xperia 1V. The South Korean company aims to introduce another gem to the Sony Xperia 1 lineup. Rumors suggest that the new device will be equipped with features that guarantee innovation and performance. Like other high-end smartphones, new leaks have surfaced, suggesting that something unique is coming later this year. Sony Xperia 1v will copy the design from Sony Xperia 1 IV: According to rumors, the design of the Xperia 1V edition stands out among other features of the smartphone.
+
+
+***
+![Man In The Middle Proxy in Rust](https://external-preview.redd.it/xfL9V3ZSsExfUiUdPI4X5k2aRj22kzvbHbgSjEhnHe0.jpg?auto=webp&v=enabled&s=0247ef00beb810ed5b90f7c06a930c0a5742f599 "Man In The Middle Proxy in Rust")
+
+
+[Man In The Middle Proxy in Rust](https://www.reddit.com/r/programming/comments/110r1q7/man_in_the_middle_proxy_in_rust_seeking_feedback)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Why is Aurelion Sol temporarily disabled in League of Legends?](https://cdn1.dotesports.com/wp-content/uploads/2022/11/29030355/AurelionSol_1-768x453.jpg "Why is Aurelion Sol temporarily disabled in League of Legends?")
+
+
+[Why is Aurelion Sol temporarily disabled in League of Legends?](https://dotesports.com/league-of-legends/news/why-is-aurelion-sol-temporarily-disabled-in-league-of-legends)
+
+
+> League of Legends 's newest champion to receive a full blown gameplay rework, Aurelion Sol, has been temporarily disabled from live servers . Riot has made the champion unavailable to play due to a series of 'in-game issues,' according to an announcement made via the League client.  Players who log into League and attempt to pick Aurelion Sol in a ranked (or normal) game will be unable to do so until the gameplay issues surrounding the champion are resolved. While it's unclear at this time exactly why Aurelion Sol is disabled—Riot has not provided players with any official reasoning—it's likely that the champion is unavailable to play due to a serious game-breaking bug.
+
+
+***
+![NoSQL: The Baby and the Bathwater](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "NoSQL: The Baby and the Bathwater")
+
+
+[NoSQL: The Baby and the Bathwater](https://www.reddit.com/r/programming/comments/110qkxi/nosql_the_baby_and_the_bathwater)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Apple's iPhone Hardware Subscription Service Reportedly Facing Several Setbacks, Forcing It To Be Delayed](https://cdn.wccftech.com/wp-content/uploads/2023/02/iPhone-13-mini.jpg "Apple's iPhone Hardware Subscription Service Reportedly Facing Several Setbacks, Forcing It To Be Delayed")
+
+
+[Apple's iPhone Hardware Subscription Service Reportedly Facing Several Setbacks, Forcing It To Be Delayed](https://wccftech.com/apple-iphone-hardware-subscription-service-setbacks-causing-delay/)
+
+
+> In 2022, Apple was reported to be working on an iPhone hardware subscription service that would allow customers to finance their purchases using the Apple Card. The service would apparently also be applicable to other products. Sadly, according to the latest report, the company has hit a temporary roadblock in rolling out the service due to a multitude of problems, which we have discussed in length here. iPhone hardware subscription said to be affected by engineering and technical setbacks Apple currently has four fin-tech projects in the works, out of which two have been publicly announced, which are Apple Card Savings Account and Apple Pay Later.
+
+
+***
+![Woolworths to broaden online marketplace](https://i.nextmedia.com.au/News/20200716024851_woolworths.jpg "Woolworths to broaden online marketplace")
+
+
+[Woolworths to broaden online marketplace](https://www.itnews.com.au/news/woolworths-to-broaden-online-marketplace-590781)
+
+
+> Woolworths plans to enhance its online marketplace to boost merchant numbers and expand their product range on the platform. The supermarket giant's Everyday Market launched in 2021 , underpinned by Melbourne technology startup Marketplacer, to enhance the range of products it can offer to shoppers. Under a new partnership, Everyday Market is set to expand the number of brands that can be onboarded onto the marketplace by using ChannelAdvisor tools from commerce networks company, CommerceHub.
+
+
+***
+![Chrome下一个版本强化画中画功能](https://doc-fd.zol-img.com.cn/t_s120x75/g7/M00/0B/05/ChMkK2Pl3oyIYnXbAAEgeIpPxZAAAMsaQMfq6YAASCQ446.jpg "Chrome下一个版本强化画中画功能")
+
+
+[Chrome下一个版本强化画中画功能](http://news.zol.com.cn/811/8117994.html)
+
+
+> 最新的Chrome浏览器测试版，即111版，包括一项功能的试用，该功能可以使浏览器的画中画功能明显更有用。谷歌正在考虑让它在一个浮动窗口中显示基本上任何网络内容，并保持在你所有其他窗口的顶部，而不是只用于播放视频。 这项被称为 "画中画 "的功能有很多有用的方式。谷歌的一些例子主要是在画中画的工作方式上做文章，如视频播放器，但有自定义的用户界面（如喜欢或不喜欢视频的按钮、时间轴或字幕），或视频会议的迷你播放器，让你看到一个人的网格，并能控制自己静音或举手。 但也很容易想象出利用该API的整个小程序；有一个pomodoro网站已经在支持的浏览器上使用它，我绝对会使用一个给我提供画中画记事本或任务列表的网站。谷歌还建议，该功能可用于显示，例如，你的音乐的播放列表。 当然，如果许多网站开始使用全文档画中画，那么该功能最好能应用于非Chromium引擎的浏览器。然而，目前还不清楚这是否会发生。该功能的一个开发者向与Firefox和Safari相关的团队询问了他们对该功能的立场，但没有得到明确的答复。然而，Mozilla团队的人确实提出了一些担忧，担心该功能会被用作烦人的弹出式窗口，而苹果公司的人也不确定它是否能在iOS上实现。 根据Chrome平台状态跟踪器，该功能将被试用到Chrome 115，可能会在6月的某个时候发布。在此之后，开发人员可能会考虑他们收到的关于该功能的任何反馈，并决定如何继续前进。 如果你想打开对该功能的支持，你可以将chrome://flags/#document-picture-in-picture-api粘贴到你的URL栏中，并从下拉菜单中选择启用该标志。在这一点上，可能不会有大量的网站支持它，但你可能会遇到一些。 本文属于原创文章，如若转载，请注明来源：Chrome下一个版本强化画中画功能https://news.
+
+
+***
+![Comcast Will Air Super Bowl 57 in 4K With Dolby Vision HDR for Xfinity Users](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA172ciM.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Comcast Will Air Super Bowl 57 in 4K With Dolby Vision HDR for Xfinity Users")
+
+
+[Comcast Will Air Super Bowl 57 in 4K With Dolby Vision HDR for Xfinity Users](http://www.msn.com/en-us/news/technology/comcast-will-air-super-bowl-57-in-4k-with-dolby-vision-hdr-for-xfinity-users/ar-AA171Tyg)
+
+
+> Those with a 4K Dolby Vision-capable TV and Comcast's Xfinity X1 service will be able to watch Super Bowl 57 in a new way: in 4K HDR with Dolby Vision. The two companies announced that they'll be taking Fox's 4K feed of this year's Big Game and adding in Dolby Vision. You'll need to have Comcast's X1 cable box and a TV that supports Dolby Vision to take advantage of the higher-quality Feb. 12 broadcast. It can be found by saying "4K" into the voice remote for the X1 cable box. Dolby says that the feed will provide "lifelike colors, sharp contrast and rich details.
+
+
+***
+![TSMC chip giant spurs factory land shortage in small Kyushu town](https://japantoday.com/images/japan-today-social.jpg "TSMC chip giant spurs factory land shortage in small Kyushu town")
+
+
+[TSMC chip giant spurs factory land shortage in small Kyushu town](https://japantoday.com/category/tech/focus-tsmc-chip-giant-spurs-factory-land-shortage-in-small-kyushu-town)
+
+
+> As Taiwan Semiconductor Manufacturing Co prepares to launch production in the rural town of Kikuyo in Kumamoto Prefecture, a shortage of industrial land is threatening to undermine the regional development effects that local authorities are seeking. Both foreign and domestic companies have been flocking to the Kyushu region to capitalize on the first full-scale manufacturing operation in Japan launched by TSMC, the world's largest contract chipmaker. Operations are set to begin by the end of 2024.
+
+
+***
+![Acer Arc A770 Predator custom GPU with 16GB VRAM is now available for $349](https://cdn.videocardz.com/1/2022/09/ARC-770-ACER-1.jpg "Acer Arc A770 Predator custom GPU with 16GB VRAM is now available for $349")
+
+
+[Acer Arc A770 Predator custom GPU with 16GB VRAM is now available for $349](https://videocardz.com/newz/acer-arc-a770-predator-custom-gpu-with-16gb-vram-is-now-available-for-349)
+
+
+> The cheapest 16GB graphics card from the current-gen architecture now on Amazon. Predator A770 BiFrost with 16GB memory, Source: Acer The A770 Predator BiFrost is a unique custom design by Acer team, who have just entered the DIY market with their first Intel Arc Alchemist GPUs. This custom model from Acer is actually one of the very few A770 to offer 16GB VRAM, a feature default to Intel's own Limited Edition (reference design). With the Predator model, one get custom design with dual 8-pin power connectors, increased TDP to 250W (+25W) and higher clock base clock of 2.
+
+
+***
+![What Are the PC Requirements for Wo Long: Fallen Dynasty?](https://www.escapistmagazine.com/wp-content/uploads/2023/02/what-are-the-pc-requirements-for-wo-long-fallen-dynasty.jpg "What Are the PC Requirements for Wo Long: Fallen Dynasty?")
+
+
+[What Are the PC Requirements for Wo Long: Fallen Dynasty?](https://www.escapistmagazine.com/what-are-the-pc-requirements-for-wo-long-fallen-dynasty/)
+
+
+> Wo Long: Fallen Dynasty is a Team Ninja action RPG, taking a chunk of Chinese history and throwing supernatural forces into the mix. But if your PC is a bit of a relic, will you be able to run it? Here are the minimum and recommended PC system requirements for Wo Long: Fallen Dynasty . Wo Long: Fallen Dynasty PC Requirements Don't Demand a Powerhouse System, but Older Graphics Cards Might Not Have 4GB of VRAM You'll need Windows 10 or Windows 11 to run Wo Long: Fallen Dynasty and a PC that meets the minimum specification.
+
+
+***
+![Rumours are pretty useless unless accuracy of past predictions is known](https://images.macrumors.com/social/?t=2380553&v=6 "Rumours are pretty useless unless accuracy of past predictions is known")
+
+
+[Rumours are pretty useless unless accuracy of past predictions is known](https://forums.macrumors.com/threads/rumours-are-pretty-useless-unless-accuracy-of-past-predictions-is-known.2380553/)
+
+
+> If the point of the site is just to report any rumour, fair enough. But if the idea is to be informative, would it be possible to give a score to every prediction, based on the accuracy of past predictions of that source? How to score each past prediction would need a little thought (perhaps something like how accurate was it in content terms, and in terms of release timing). And then each one would need to be scored. Perhaps too much work, but perhaps it could be automated if predictions are coded in some way.
+
+
+***
+![The Legend of Zelda: Tears of the Kingdom's Collectors Edition is a Downgrade From Breath of the Wild's](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/link-outstretched-arm-tears-of-the-kingdom.jpg "The Legend of Zelda: Tears of the Kingdom's Collectors Edition is a Downgrade From Breath of the Wild's")
+
+
+[The Legend of Zelda: Tears of the Kingdom's Collectors Edition is a Downgrade From Breath of the Wild's](https://gamerant.com/the-legend-of-zelda-tears-kingdom-collectors-edition-breath-wild-comparison-downgrade-no-statue-story/)
+
+
+> Despite its age, the Nintendo Switch is still churning out plenty of great titles. The Legend of Zelda: Tears of the Kingdom is one of the biggest upcoming games on the platform, and gamers saw a bit more of it at the latest Nintendo Direct. With the game available for pre-order, fans can choose which edition to purchase. Although the Collector's Edition of The Legend of Zelda: Tears of the Kingdom is very alluring, it is far less attractive than the best edition of Breath of the Wild . Most notably, Tears of the Kingdom 's Collector's Edition doesn't include any statues or figurines, which is disappointing.
+
+
+***
+![KEF R Series hi-fi speakers have Metamaterial Absorption tech to absorb unwanted sound](https://thegadgetflow.com/wp-content/uploads/2023/02/KEF-R-Series-Hi-Fi-Luxury-Quality-Home-Speakers-01.jpg "KEF R Series hi-fi speakers have Metamaterial Absorption tech to absorb unwanted sound")
+
+
+[KEF R Series hi-fi speakers have Metamaterial Absorption tech to absorb unwanted sound](https://thegadgetflow.com/portfolio/kef-rseries-hifi-speakers-have-metamaterial-absorption-tech-to-absorb-unwanted-sound/)
+
+
+> Upgrade your stereo or home theater in a significant way with the KEF R Series hi-fi speakers. Inspired by the iconic The Reference series, this new collection features groundbreaking Metamaterial Absorption technology. A highly complex maze-like structure, it absorbs 99% of unwanted sound from the rear driver. This eliminates distortion and offers a purer, more natural sound. Then, the Uni-Q driver array acts as a single-point source for dispersing sound throughout the room. It allows everyone in the room to enjoy the same detailed sound.
+
+
+***
+![Will massive techies layoffs trigger cyber fraud frenzy](https://www.businessdailyafrica.com/resource/blob/4121198/8de54e6721992a86edb5008f3fd0aea4/muiyuro-data.jpg "Will massive techies layoffs trigger cyber fraud frenzy")
+
+
+[Will massive techies layoffs trigger cyber fraud frenzy](https://www.businessdailyafrica.com/bd/corporate/technology/will-massive-techies-layoffs-trigger-cyber-fraud-frenzy--4121180)
+
+
+> Monday February 13 2023 Anthony Muiyuro is the president of the Information Systems Audit and Control Association Kenyan Chapter The mass layoffs of highly-qualified techies have sparked fears of a rise in cybercrime. Analysts have raised concerns that the unemployed techies, having gained top-notch skills from multinational organisations and financial institutions, may hit back by using malware to steal millions of shillings from online banking accounts. Some of them have a good understanding of the internal systems and can easily cripple the former employer's network.
+
+
+***
+![Creating holistic system to help firms better weather storms that lie ahead](https://www.businessdailyafrica.com/resource/blob/4121210/b2e9949c1cf4ca93d1f7456ebfd03c37/hacker-data.jpg "Creating holistic system to help firms better weather storms that lie ahead")
+
+
+[Creating holistic system to help firms better weather storms that lie ahead](https://www.businessdailyafrica.com/bd/corporate/technology/creating-holistic-system-to-help-firms-better-weather-storms--4121204)
+
+
+> Monday February 13 2023 The cybersecurity landscape has become complex, dynamically evolving, and filled with disruption and threats. FILE PHOTO | SHUTTERSTOCK Kenya's security architecture has to evolve to become more resilient and dynamic to keep up with an increasingly sophisticated threat landscape. The cybersecurity landscape has become complex, dynamically evolving, and filled with disruption and threats. Malicious cyber actors are more determined, attack vectors more sophisticated, and changing models of work are opening up new avenues of vulnerability and risk.
+
+
+***
+![Multi-Account Containers](https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2022-07-22-11-00-40-85464b.png "Multi-Account Containers")
+
+
+[Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers)
+
+
+> Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously, as well as integrating Mozilla VPN for an extra layer of privacy. What are Containers? Multi-Account Containers is a Firefox add-on that lets you separate your work, shopping, or personal browsing without having to clear your history, log in and out, or use multiple browsers.
+
+
+***
+![Latest Super Mario Bros. movie ad offers a great throwback to the Super Mario Bros. Super Show](https://gonintendo.com/attachments/image/23155/file/medium-47c294e7bc830ea7ca1f5fa31bc61f9c.jpg "Latest Super Mario Bros. movie ad offers a great throwback to the Super Mario Bros. Super Show")
+
+
+[Latest Super Mario Bros. movie ad offers a great throwback to the Super Mario Bros. Super Show](https://gonintendo.com/contents/16169-latest-super-mario-bros-movie-ad-offers-a-great-throwback-to-the-super-mario-bros)
+
+
+> The marketing for the upcoming Super Mario Bros. movie from Illumination and Nintendo has been a lot of fun so far, but the new spot that just popped up today is easily the best one released yet…so long as you're a longtime Mario fan! The spot above rips the theme song right from the Super Mario Bros. Super Show, which was a live-action/animated series that aired back in 1989. That song is used as a jumping point for a commercial based on Super Mario Bros. plumbing, complete with a tongue-in-cheek testimonial.
+
+
+***
+![Scientists Find Fossil of Biggest Penguin Ever, and It Was a Whopper](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17lIHZ.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Scientists Find Fossil of Biggest Penguin Ever, and It Was a Whopper")
+
+
+[Scientists Find Fossil of Biggest Penguin Ever, and It Was a Whopper](http://www.msn.com/en-us/news/technology/scientists-find-fossil-of-biggest-penguin-ever-and-it-was-a-whopper/ar-AA17lQEo)
+
+
+> While searching through the beachy boulders of New Zealand's South Island, a crew of international scientists stumbled on an exquisite find: fossilized evidence of two new penguin species that roamed (or waddled) Earth more than 50 million years ago. But most importantly, one of the penguins, dubbed Kumimanu fordycei, is probably the largest ever to have lived. A co-author of a study on the discovery, published Wednesday in the Journal of Paleontology, had a rather compelling way of putting it. Load Error "At approximately 350 pounds, it would have weighed more than [basketball player] Shaquille O'Neal at the peak of his dominance!" Cambridge University's Daniel Field said in a statement.
+
+
+***
+![Sexting chatbot ban points to looming battle over AI rules](https://scx2.b-cdn.net/gfx/news/2023/users-have-complained.jpg "Sexting chatbot ban points to looming battle over AI rules")
+
+
+[Sexting chatbot ban points to looming battle over AI rules](https://techxplore.com/news/2023-02-sexting-chatbot-looming-ai.html)
+
+
+> by Joseph BOYLE and Laurence Benhamou Users have complained that the Replika chatbot was coming on too strong with explicit texts and images. Users of the Replika "virtual companion" just wanted company. Some of them wanted romantic relationships, sex chat, or even racy pictures of their chatbot. But late last year users started to complain that the bot was coming on too strong with explicit texts and images—sexual harassment, some alleged. Regulators in Italy did not like what they saw and last week barred the firm from gathering data after finding breaches of Europe's massive data protection law, the GDPR.
+
+
+***
+![Super Nintendo World Has Major Issue With Its Famous Mario Kart Ride](https://image-cdn.essentiallysports.com/wp-content/uploads/super-nintendo-world-mario-kart-bowsers-challenge.jpg "Super Nintendo World Has Major Issue With Its Famous Mario Kart Ride")
+
+
+[Super Nintendo World Has Major Issue With Its Famous Mario Kart Ride](https://www.essentiallysports.com/esports-news-super-nintendo-world-has-major-issue-with-its-famous-mario-kart-ride/)
+
+
+> Published 02/12/2023, 12:30 PM PST Universal Theme Park is one of the most famous theme parks in the world, well known for attractions based on popular films and shows such as Jurassic Park. They broke the internet while announcing the opening of Super Nintendo World at Universal Studios Hollywood. It was undoubtedly significant for Nintendo fans since they would be able to experience rides themed on their favorite console's video games. If there is a Super Nintendo World, it should have a Mario-themed ride.
+
+
+***
+![Chinese Fintech Qudian Regains Compliance with NYSE Minimum Price Requirement](https://www.crowdfundinsider.com/wp-content/uploads/2021/05/NYSE-New-York-Stock-Exchange-2.jpeg "Chinese Fintech Qudian Regains Compliance with NYSE Minimum Price Requirement")
+
+
+[Chinese Fintech Qudian Regains Compliance with NYSE Minimum Price Requirement](https://www.crowdfundinsider.com/2023/02/202291-chinese-fintech-qudian-regains-compliance-with-nyse-minimum-price-requirement)
+
+
+> Qudian Inc. (NYSE: QD), a consumer-oriented technology company in China, today announced that the company has 'regained compliance with the New York Stock Exchange's (NYSE) continued listing standard for share prices as confirmed by a notification letter from the NYSE on February 1, 2023.' On September 22, 2022, the NYSE 'notified the Company of its non-compliance with the exchange's continued listing standards because the average closing price of its American depositary shares (ADSs) had fallen below $1.
+
+
+***
+![How to Efficiently Reorder or Rerank Items in Database](https://external-preview.redd.it/9RLaRngu5gk7-Ku_o-4mXY3eoPDp20rL5_34yV4Km9A.jpg?auto=webp&v=enabled&s=9ab0d22e1016da28e518ab43facc6b31bc94c097 "How to Efficiently Reorder or Rerank Items in Database")
+
+
+[How to Efficiently Reorder or Rerank Items in Database](https://www.reddit.com/r/programming/comments/110p7na/how_to_efficiently_reorder_or_rerank_items_in)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![ACER's Intel Arc A770 Predator BiForst Graphics Card Now Available For $349 US, The Most Affordable 16 GB GPU](https://cdn.wccftech.com/wp-content/uploads/2023/02/Acer-Intel-Arc-A770-Predator-Bifrost-Graphics-Card-349-US-_1-728x395.png "ACER's Intel Arc A770 Predator BiForst Graphics Card Now Available For $349 US, The Most Affordable 16 GB GPU")
+
+
+[ACER's Intel Arc A770 Predator BiForst Graphics Card Now Available For $349 US, The Most Affordable 16 GB GPU](https://wccftech.com/acer-intel-arc-a770-predator-biforst-graphics-card-available-for-349-us-most-affordable-16-gb-gpu/)
+
+
+> Intel's Arc graphics cards have started to see some major price cuts and the latest is the ACER Predator BiForst Arc A770 variant which is available for $349 US. Intel's Custom Arc A770 Graphics Card From ACER Drops To $349 US Price Making It The Most Affordable 16 GB GPU The Intel Arc A770 from ACER comes in the custom Predator BiFrost flavor which launched at a hefty price point of $399 US but it looks like the graphics card is now available at MSRP which is $349 US for the 16 GB variant of the Alchemist GPU.
+
+
+***
+![ASUS ROG Strix GeForce RTX 4090 OC Review A Monster GPU](https://www.servethehome.com/wp-content/uploads/2023/01/ASUS-ROG-Strix-4090-OC.jpg "ASUS ROG Strix GeForce RTX 4090 OC Review A Monster GPU")
+
+
+[ASUS ROG Strix GeForce RTX 4090 OC Review A Monster GPU](https://www.servethehome.com/asus-rog-strix-geforce-rtx-4090-oc-review-a-monster-gpu/)
+
+
+> ASUS ROG Strix 4090 OC It has been a little over two years now since we reviewed the latest graphics cards, so it was time to add the ASUS ROG Strix GeForce RTX 4090 OC to our results. Previous GPU setups ranged from the ASUS ROG Strix NVIDIA GeForce RTX 3090 Ti OC and even a Dual NVIDIA GeForce RTX 3090 NVLink Performance Review. We also looked at NVIDIA Quadro RTX 6000 GPU, which were top-end class graphics cards at the time. At the time, these were amazing graphics cards. While the NVIDIA GeForce RTX 4090 was released a few months ago, we are just starting to see better availability and prices coming back down towards MSRP.
+
+
+***
+![H3X Ships Advanced Electric Drives For Customer Testing](https://aviationweek.com/sites/default/files/2023-02/img_4119.jpg "H3X Ships Advanced Electric Drives For Customer Testing")
+
+
+[H3X Ships Advanced Electric Drives For Customer Testing](https://aviationweek.com/aerospace/advanced-air-mobility/h3x-ships-advanced-electric-drives-customer-testing)
+
+
+> https://aviationweek.com/themes/custom/particle/dist/app-drupal/assets/awn-logo.svg H3X's 33-kW (44-hp) integrated electric motor drive is just more than 5 in. in diameter. U.S. startup H3X is beginning deliveries of a high power-density electric motor to customers for testing in aerospace and defense applications, including electric aircraft. The HPDM-30 integrated motor drive weighs 4.1 kg (9 lb.) and has been tested at up to 33 kW continuous power, suitable for use.
+
+
+***
+![Free OST to PST Converter Launched by a2zMigrations](https://img.einnews.com/facebook/420795/a2zmigrations.jpeg "Free OST to PST Converter Launched by a2zMigrations")
+
+
+[Free OST to PST Converter Launched by a2zMigrations](https://www.einpresswire.com/article/616460365/free-ost-to-pst-converter-launched-by-a2zmigrations)
+
+
+> There were 157 press releases posted in the last 24 hours and 356,158 in the last 365 days. This press release is distributed to inform users about Free OST to PST Converter launched by a2zMigrations that can freely convert OST of size less than 1GB PANIPAT, HARYANA, INDIA, February 12, 2023 / EINPresswire.com / -- A2zMigrations – The data recovery and email migration experts announce the Free OST to PST Converter with advanced features that easily convert OST to PST, MSG, EML and MHTML file format.
+
+
+***
+![TMS helps carriers improve supply chain visibility](https://img.ccjdigital.com/files/base/randallreilly/all/image/2023/02/AdobeStock_131696885.63e9438cbb7b5.png?auto=format%2Ccompress&fit=max&q=70&w=1200 "TMS helps carriers improve supply chain visibility")
+
+
+[TMS helps carriers improve supply chain visibility](https://www.ccjdigital.com/technology/article/15306593/tms-helps-carriers-improve-supply-chain-visibility)
+
+
+> Trucking companies are known for lagging behind the curve when it comes to adoption of technology. But they have begun increasing investments in tech, whether because of regulations requiring them to invest in electronic logging devices or today's inflationary economy encouraging the use of fuel-saving telematics systems. While those technologies are helpful and necessary, industry experts say having those many disparate systems can create inefficiency – the opposite of what customers expect in the age of ecommerce.
+
+
+***
+![Team Fortress 2 Is Being Revived?](https://www.giantfreakinrobot.com/wp-content/uploads/2023/02/Team-Fortress-2-sandwich-.jpg "Team Fortress 2 Is Being Revived?")
+
+
+[Team Fortress 2 Is Being Revived?](https://www.giantfreakinrobot.com/games/team-fortress-2-being-revived.html)
+
+
+> Team Fortress 2 is receiving its first major update since 2017. By Jason Collins | Published 6 mins ago Here's something nobody thought would happen; the legendary online first-person shooter Team Fortress 2 , developed by the same company that owes the gaming community a Portal sequel , is getting its first major update in years. The 2007's gaming title has previously received smaller updates, but its developer and publisher distanced itself from making games to making hardware and sales, leaving the title somewhat neglected.
+
+
+***
+![Here's What Sony's Next Phone Could Look Like](https://phandroid.com/wp-content/uploads/2023/02/xperia-1-V-640x360.jpg "Here's What Sony's Next Phone Could Look Like")
+
+
+[Here's What Sony's Next Phone Could Look Like](https://phandroid.com/2023/02/12/heres-what-sonys-next-phone-could-look-like/)
+
+
+> Mike Viray Feb 12th, 2023 Sony fans, rejoice – we've finally gotten a good look at what could be Sony's upcoming flagship smartphone, the Xperia 1 V. A new set of leaks showcase the phone's design, as well as some predicted key specifications. The photos and specs – shared by online tipster @onLeaks and tech site Green Smartphones – reveal a design that's not too different from the current crop of Sony handsets, including the Xperia 1 IV. In fact, you'd be hard-pressed to tell a significant difference from the leaked renders and the 1 IV, as the newer phone still comes with a very similar look overall as seen in the video above.
+
+
+***
+![iMac M1 Owners](https://images.macrumors.com/social/?t=2380545&v=6 "iMac M1 Owners")
+
+
+[iMac M1 Owners](https://forums.macrumors.com/threads/imac-m1-owners-are-you-switching-upgrading-to-m2-mac-mini-m1-mac-studio.2380545/)
+
+
+> It looks likely that we won't see an M2 iMac. Meanwhile, Apple has started to roll out some more powerful options in the higher end M1 chips and new M2 chips. There could be a number of reasons to upgrade (need more power, want new RAM/screen size/ storage, etc) or reasons to keep the current machine (like footprint, good performance, etc). Curious as to what folks are thinking
+
+
+***
+![NASA Spots Surprise Evidence of Ancient Water Ripples on Mars](https://www.cnet.com/a/img/resize/7a1ea0b8ffc47becd6e037242cce434d6fa9c578/hub/2023/02/08/b9e5d488-612c-4916-a641-983608355b81/e2-pia25732-curiositys-360-degre.jpg?auto=webp&fit=crop&height=630&width=1200 "NASA Spots Surprise Evidence of Ancient Water Ripples on Mars")
+
+
+[NASA Spots Surprise Evidence of Ancient Water Ripples on Mars](https://www.cnet.com/science/space/nasa-spots-surprise-evidence-of-ancient-water-ripples-on-mars/)
+
+
+> This story is part of Welcome to Mars , our series exploring the red planet. NASA's Curiosity rover has logged over a decade in Mars' Gale Crater. It may be a veteran of the red planet, but Mars still has some surprises in store, like an ancient lake bed in an unexpected place.  The rover documented a landscape of stunning rocks that show distinctive signs of water from Mars' deep past. "Billions of years ago, waves on the surface of a shallow lake stirred up sediment at the lake bottom, over time creating rippled textures left in rock," NASA said in a statement on Wednesday.
+
+
+***
+![Scientists Find Fossil of Biggest Penguin Ever, and It Was a Whopper](https://www.cnet.com/a/img/resize/354f252ec6beae047f7238490fab8bb74acab536/hub/2023/02/10/9b309c72-8fe1-48f8-928b-3f57f9a03fe6/otago0241044.png?auto=webp&fit=crop&height=630&width=1200 "Scientists Find Fossil of Biggest Penguin Ever, and It Was a Whopper")
+
+
+[Scientists Find Fossil of Biggest Penguin Ever, and It Was a Whopper](https://www.cnet.com/science/biology/scientists-find-fossil-of-biggest-penguin-ever-and-it-was-a-whopper/)
+
+
+> While searching through the beachy boulders of New Zealand's South Island, a crew of international scientists stumbled on an exquisite find: fossilized evidence of two new penguin species that roamed (or waddled) Earth more than 50 million years ago.  But most importantly, one of the penguins, dubbed Kumimanu fordycei, is probably the largest ever to have lived. A co-author of a study on the discovery,  published Wednesday in the Journal of Paleontology, had a rather compelling way of putting it.
+
+
+***
+![It's 2023... still NO WORKING HDR video players? (IINA, Optimus, Movist ALL FAIL!)](https://images.macrumors.com/social/?t=2380543&v=6 "It's 2023... still NO WORKING HDR video players? (IINA, Optimus, Movist ALL FAIL!)")
+
+
+[It's 2023... still NO WORKING HDR video players? (IINA, Optimus, Movist ALL FAIL!)](https://forums.macrumors.com/threads/its-2023-still-no-working-hdr-video-players-iina-optimus-movist-all-fail.2380543/)
+
+
+> I need a standalone video player to play HDR videos in all the common formats (NOT in a browser fyi, that doesn't work for my workflow). Need simple options like adjusting the subtitle font size so it doesn't take up a the lower ~20%! of the screen, and simple quality-of-life things like keyboard shortcuts to skip forward/backwards quickly and raise/lower volume. I don't think the above by ANY stretch of the imagination is crazy things to ask for in a video player... but why is it 2023 and NOTHING like this exists? I went through all the past topics like these (examples) from 2020 , 2021 , 2022 , and tried every single one they mentioned, and all failed (and failed pretty spectacularly).
+
+
+***
+![CONVERSATIONAL AI: Workplaces in India warming up to AI-based chatbots](https://www.financialexpress.com/wp-content/uploads/2023/02/photos.jpg "CONVERSATIONAL AI: Workplaces in India warming up to AI-based chatbots")
+
+
+[CONVERSATIONAL AI: Workplaces in India warming up to AI-based chatbots](https://www.financialexpress.com/life/technology-conversational-ai-workplaces-in-india-warming-up-to-ai-based-chatbots-2979301/)
+
+
+> Conversational artificial intelligence (AI) space is brimming with a lot of action these days, thanks to the popularity of Microsoft-backed ChatGPT. OpenAI's ChatGPT has kicked off an innovation race that will accelerate technological developments much faster than before, says Adit Jain, co-founder and CEO of Leena AI, which announced the release of an integration with GPT-3 (the backbone of ChatGPT) with its AI tool to enhance end-user experience. In simple terms, this integration will help reduce the number of unanswered employee queries, improving the overall end-user experience of interacting with the Leena AI dashboard.
+
+
