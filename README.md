@@ -19119,3 +19119,912 @@
 > People's Daily Online (Xinhua) 10:45, February 11, 2023 BEIJING, Feb. 10 (Xinhua) -- Senior Communist Party of China (CPC) official Cai Qi on Friday called for solid progress in advancing Chinese modernization. Cai, a member of the Standing Committee of the Political Bureau of the CPC Central Committee and a member of the Secretariat of the CPC Central Committee, made the remarks while addressing the closing of a study session at the Party School of the CPC Central Committee (National Academy of Governance).
 
 
+***
+![Determine the exact color of any object with the Nix scanner](https://www.macworld.com/wp-content/uploads/2023/02/Macworld-Nix-Mini-Color-Sensor-V2.jpeg?quality=50&strip=all&w=1024 "Determine the exact color of any object with the Nix scanner")
+
+
+[Determine the exact color of any object with the Nix scanner](https://www.macworld.com/article/1510259/determine-the-exact-color-of-any-object-with-the-nix-scanner.html)
+
+
+> Choosing the right paint color isn't easy. And it's next to impossible if you want it to match with something else. Looking for an easy way to pick the right color every time? Then you need the Nix Mini Color Sensor V2 — Temporarily discounted by 40 percent off the MSRP. The Nix Mini Color Sensor V2 lets you scan any type of surface to determine its color to exact precision. You just pair it to your phone, load up the app, and scan an object of your choosing. The Nix then gives you the color code of that object in sRGB, HEX, CMYK, or LAB codes so you can get paint that replicates it exactly.
+
+
+***
+![Merger Watch: Size matters for surviving the enrollment drop](https://www.highereddive.com/imgproxy/TnOGZeaTzmPGNhYTKnT5FsTcXuhba9I4SXRCBYAEIFM/g:ce/rs:fill:436:387:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1JpY2FyZG9fQXp6aXpfb2ZmLXdoaXRlX2JhY2tncm91bmQyLmpwZw.jpg "Merger Watch: Size matters for surviving the enrollment drop")
+
+
+[Merger Watch: Size matters for surviving the enrollment drop](https://newsakmi.com/../../education/merger-watch-size-matters-for-surviving-the-enrollment-drop)
+
+
+> Ricardo Azziz has held numerous executive positions in higher education and led the merger that resulted in Georgia Regents University, now Augusta University. He is principal at Strategic Partnerships in Higher Education Consulting Group. He writes the regular Merger Watch opinion series on corporate restructuring in higher education. Optional Caption Permission granted by Ricardo Azziz The good news? Undergraduate enrollment this fall decreased only 0.6%, the least amount it has fallen since the pandemic started.
+
+
+***
+![Antler is providing £120,000 to seven UK tech startups](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/12235835/Antler-funding-800x534.jpeg "Antler is providing £120,000 to seven UK tech startups")
+
+
+[Antler is providing £120,000 to seven UK tech startups](https://shepherdgazette.com/antler-is-providing-120000-to-seven-uk-tech-startups/)
+
+
+> By Sammy Edwards Last updated Feb 12, 2023 Venture capital firm Antler has invested £120,000 in seven UK-based pre-seed tech startups. Antler's funding for the startups, which is shared exclusively with UKTN, comes from its sixth residency in London, which was attended by 55 founders. Jed Rose, Partner at Antler, said: 'The founders we work with in the UK are always finding new ways to apply their deep experience and new technologies to tackle the world's biggest problems, to improve people's lives and that simplify business.
+
+
+***
+![The ‘CEO of Anti-Woke Inc.' Has His Eye on the Presidency](https://static.politico.com/fe/66/a05d78a244e0b0cf789aacd09de4/gettyimages-1242329686.jpg "The ‘CEO of Anti-Woke Inc.' Has His Eye on the Presidency")
+
+
+[The ‘CEO of Anti-Woke Inc.' Has His Eye on the Presidency](https://newsakmi.com/../../politics/the-ceo-of-anti-woke-inc-has-his-eye-on-the-presidency)
+
+
+> Standing at a rough wooden podium with the words 'Stine corn' carved into the front, next to a still-up Christmas tree and an enormous stone fireplace, he spoke without any notes and hit on his favorite themes about how woke capitalism is destroying the country. 'We were taught that you satisfy a moral hunger by going to Ben and Jerry's and ordering a cup of ice cream with some social justice sprinkles on top,' he told the crowd, a line he repeated multiple times during his trip to Iowa. 'But we've learned in the last couple of years that you cannot satisfy that moral hunger with fast food.
+
+
+***
+![Greater Manchester secures £7m for digital, creative and tech training](https://www.prolificnorth.co.uk/sites/default/files/styles/hero/public/images/news/computer_0.jpg?itok=kztunmXu "Greater Manchester secures £7m for digital, creative and tech training")
+
+
+[Greater Manchester secures £7m for digital, creative and tech training](https://www.prolificnorth.co.uk/news/tech-news/2023/02/greater-manchester-secures-ps7m-digital-creative-and-tech-training)
+
+
+> Greater Manchester Combined Authority (GMCA) has secured £7m from the Department for Education for the next phase of Skills Bootcamps in the city-region. The bootcamps aim to help people get into employment in key growth sectors such as digital and tech, switch career or upskill into a better job. Skills Bootcamps offer access to in-demand skills training and a fast-track interview for higher skilled, good quality jobs. The programme also benefits employers by helping them to fill specific skills shortages and vacancies, increasing productivity within their organisations.
+
+
+***
+![ChatGPT is confronting, but humans have always adapted to new technology](https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-uf36dq733p57gn2leuocpa7ue0-20230213123514.Medi.jpeg "ChatGPT is confronting, but humans have always adapted to new technology")
+
+
+[ChatGPT is confronting, but humans have always adapted to new technology](https://www.deccanchronicle.com/technology/in-other-news/130223/chatgpt-is-confronting-but-humans-have-always-adapted-to-new-technolo.html)
+
+
+> Melbourne: Adapting to technological advances is a defining part of 21st-century life. But it's not unique to us: it's been part of the human story since our earliest written records – even featuring in the plotlines of ancient myths and legends. While ChatGPT threatens to change writing (and writing-related work) as we know it, the Mesopotamians, who lived 4,000 years ago (in a geographical area centred in modern-day Iraq), went through this kind of seismic change before us. Their civilisation is credited with the invention of writing.
+
+
+***
+![Namecheap email hacked to send out phishing scam emails](https://whatsnew2day.com/wp-content/uploads/2023/01/The-most-spoofed-company-over-the-last-few-months-is-1024x576.jpg "Namecheap email hacked to send out phishing scam emails")
+
+
+[Namecheap email hacked to send out phishing scam emails](https://whatsnew2day.com/namecheap-email-hacked-to-send-out-phishing-scam-emails/)
+
+
+> Namecheap customers have reported receiving phishing emails from hackers. Namecheap CEO Richard Kirkendall confirmed the company's email was compromised and blamed an 'upstream system' that was not SendGrid. Namecheap systems have not been breached and customers' products, accounts, and personal information remain safe. An investigation is still ongoing. Hackers have managed to use Namecheap's inbox to send phishing emails to the company's customers. Namecheap users have flocked to Twitter to warn about the scam, which is posing as DHL or the cryptocurrency hot wallet, MetaMask.
+
+
+***
+[SecurityWeek Publishes Cyber Insights 2023 Series](http://www.businesswire.com/news/home/20230213005311/en/SecurityWeek-Publishes-Cyber-Insights-2023-Series/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOSTON--(BUSINESS WIRE)-- #MA--SecurityWeek, a leading provider of cybersecurity news and information to global enterprises, has published Cyber Insights 2023, a series of in-depth features that examine major pain points in cybersecurity risk and remediation. SecurityWeek liaised with more than 300 cybersecurity experts from over 100 organizations to gain insight into the major security issues of today – and how these issues might evolve. The result is more than a dozen feature articles on subje
+
+
+***
+[monday.com Announces Fourth Quarter and Fiscal Year 2022 Results](http://www.businesswire.com/news/home/20230213005170/en/monday.com-Announces-Fourth-Quarter-and-Fiscal-Year-2022-Results/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> NEW YORK & TEL AVIV, Israel--(BUSINESS WIRE)--monday.com (NASDAQ: MNDY), a work operating system (Work OS) where organizations of any size can create the tools and processes they need to manage every aspect of their work, today reported financial results for its fourth quarter and fiscal year ended December 31, 2022. Management Commentary: 'Q4 capped off an amazing year, exceeding our expectations on both the top and bottom lines,' said monday.com founder and co-CEO, Roy Mann. 'We finished FY'2
+
+
+***
+![Twitter suffered an outage during Rihanna's Super Bowl halftime show — its 2nd in a week — despite Elon Musk's directive to maximize stability](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17qkaj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=407&y=223 "Twitter suffered an outage during Rihanna's Super Bowl halftime show — its 2nd in a week — despite Elon Musk's directive to maximize stability")
+
+
+[Twitter suffered an outage during Rihanna's Super Bowl halftime show — its 2nd in a week — despite Elon Musk's directive to maximize stability](http://www.msn.com/en-us/news/technology/twitter-suffered-an-outage-during-rihanna-s-super-bowl-halftime-show-its-2nd-in-a-week-despite-elon-musk-s-directive-to-maximize-stability/ar-AA17qhV3)
+
+
+> Celebrities came out in droves for Super Bowl LVII. Some of the most famous people on the planet flocked to State Farm Stadium in Glendale, Arizona, to watch the Philadelphia Eagles and Kansas City Chiefs face off for football's top prize: the Vince Lombardi Trophy. From sports superstars, like LeBron James, Brittney Griner, and Damar Hamlin, to Hollywood's finest, like Jay-Z, Paul Rudd, and Kevin Hart, here's who came out for the big game — and the Rihanna performance at halftime: The A-list actor — known for roles in "Clueless," "Wet Hot American Summer,"  "The 40-Year-Old Virgin," as well as playing Ant-Man in the Marvel Cinematic Universe — is a noted Kansas City Chiefs fan.
+
+
+***
+[Veritone to Hold Fourth Quarter and Full Year 2022 Results Conference Call and Participate in Investor Conferences](http://www.businesswire.com/news/home/20230212005009/en/Veritone-to-Hold-Fourth-Quarter-and-Full-Year-2022-Results-Conference-Call-and-Participate-in-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DENVER--(BUSINESS WIRE)--Veritone, Inc. (NASDAQ: VERI), creator of aiWARE, a hyper-expansive enterprise AI platform, announced today the details of its fourth quarter and full year 2022 financial results conference call. Veritone will hold a conference call on Thursday, March 2, 2023, at 4:30 pm Eastern Time (1:30 pm Pacific Time) to discuss its results for the fourth quarter and full year 2022, provide an update on the business and conduct a question-and-answer session. To participate, please
+
+
+***
+[Teradata Reports Fourth Quarter and Full-Year 2022 Financial Results](http://www.businesswire.com/news/home/20230209005776/en/Teradata-Reports-Fourth-Quarter-and-Full-Year-2022-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN DIEGO--(BUSINESS WIRE)--Teradata today announced its fourth quarter and full-year 2022 financial results.
+
+
+***
+[Johnson Controls, PURO UV and Ushio Embark on Research to Study the Efficacy and Safety of Filtered Far UV-C technology](http://www.businesswire.com/news/home/20230213005102/en/Johnson-Controls-PURO-UV-and-Ushio-Embark-on-Research-to-Study-the-Efficacy-and-Safety-of-Filtered-Far-UV-C-technology/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MILWAUKEE & MOUNT VERNON, N.Y. & CYPRESS, Calif.--(BUSINESS WIRE)--Johnson Controls (NYSE: JCI), the global leader for smart, healthy, and sustainable buildings, PURO Lighting, LLC ('PURO'), a subsidiary of Applied UV, Inc. (Nasdaq CM: AUVI), a proven innovative UV technology solutions leader and Ushio America, Inc. ('Ushio'), have announced a research collaboration to study the efficacy and safety of filtered Far UV-C disinfection1 technology. 'The further validation of the safety and efficacy
+
+
+***
+[IAA, Inc. Announces Preliminary Fourth Quarter and Full Year 2022 Financial Results](http://www.businesswire.com/news/home/20230213005210/en/IAA-Inc.-Announces-Preliminary-Fourth-Quarter-and-Full-Year-2022-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WESTCHESTER, Ill.--(BUSINESS WIRE)--IAA, Inc. (NYSE: IAA) today announced preliminary, unaudited financial results for the fourth quarter and full year fiscal 2022, which ended January 1, 2023. For the year ended on January 1, 2023, the Company expects the following: Gross Transaction Value ('GTV')1 of approximately $8.3 Billion Consolidated Revenue of approximately $2.1 Billion Net Income of $288 Million to $291 Million Adjusted EBITDA of $536 Million to $540 Million Net Debt of approximately
+
+
+***
+[FIS Reports Fourth Quarter and Full-Year 2022 Results](http://www.businesswire.com/news/home/20230213005213/en/FIS-Reports-Fourth-Quarter-and-Full-Year-2022-Results/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> JACKSONVILLE, Fla.--(BUSINESS WIRE)--FIS® (NYSE:FIS), a global leader in financial services technology, today reported its fourth quarter and full-year 2022 results. "We delivered fourth quarter results consistent with our expectations in our Banking and Capital Markets businesses. Revenues and margins in our Merchant Solutions business came under slightly more pressure than anticipated as a result of increasing recessionary impacts in the UK and a shifting of consumer spend from goods to servi
+
+
+***
+[FIS Announces Plans to Spin Off Merchant Business](http://www.businesswire.com/news/home/20230213005223/en/FIS-Announces-Plans-to-Spin-Off-Merchant-Business/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> JACKSONVILLE, Fla.--(BUSINESS WIRE)--FIS® (NYSE: FIS or 'the Company'), a global leader in financial services technology, today announced plans to pursue a tax-free spin-off of its Merchant Solutions business to strengthen its strategic and operational focus, capitalize on growth opportunities and unlock shareholder value. The two companies expect to maintain a strong commercial relationship, preserving a key value proposition for clients of both businesses. FIS expects the spin-off to be compl
+
+
+***
+![Got an old smartphone? This is how you can repurpose it](https://www.hindustantimes.com/ht-img/img/2023/02/13/1600x900/taru-goyal-lZVBjYeeEu0-unsplash_1676283455279_1676283466407_1676283466407.jpg "Got an old smartphone? This is how you can repurpose it")
+
+
+[Got an old smartphone? This is how you can repurpose it](https://www.hindustantimes.com/technology/got-an-old-smartphone-this-is-how-you-can-repurpose-it-101676280838330.html)
+
+
+> Because of the rapid advancement of technology, the useful life of smartphones has been drastically reduced. Users decide to upgrade their phones just in a few months or a year. In this case, the question of what to do with the old smartphone is crucial. You can exchange your old phone to reduce e-waste. However, if the phone is in good working order, there are numerous creative uses for it. (ALSO READ: OnePlus 11 5G sale to open tomorrow: All you need to know) An old phone or tablet screen that isn't cracked or scratched can be transformed into a stunning digital photo frame with constantly changing images.
+
+
+***
+![Microsoft is secretly cooking up a major Windows 11 update – here's what we know](https://cdn.mos.cms.futurecdn.net/6NBuYZ7TYXXWrB6oqDwPg8-1200-80.jpg "Microsoft is secretly cooking up a major Windows 11 update – here's what we know")
+
+
+[Microsoft is secretly cooking up a major Windows 11 update – here's what we know](https://www.techradar.com/news/microsoft-is-secretly-cooking-up-a-major-windows-11-update-heres-what-we-know)
+
+
+> (Image credit: Future) Microsoft has already kicked off work on Windows 11's next big update, also known as 23H2, going by some fresh spillage on Twitter – but the company is seemingly keeping things very stealthy and quiet, at least for now. This comes from a name that keeps popping up more and more in the Windows leak scene recently, XenoPanther, who has posted a couple of informative tweets. Seems like early internal work for Windows 11 23H2 is underway pic.twitter.com/3MlxciQmHL February 9, 2023 See more As you can see, the evidence that early development has begun on Windows 11's next major feature update consists of a link to the OSGWiki for 23H2, which is an internal Microsoft wiki where staff and devs share all manner of info, as Neowin (opens in new tab) (which spotted the tweet) points out.
+
+
+***
+![How OLED TVs' biggest issue can be fixed with Micro Lens Array and META tech](https://cdn.mos.cms.futurecdn.net/wxnZR7fWBiGHcskZXqU5ZF-1200-80.jpg "How OLED TVs' biggest issue can be fixed with Micro Lens Array and META tech")
+
+
+[How OLED TVs' biggest issue can be fixed with Micro Lens Array and META tech](https://www.techradar.com/features/micro-lens-array-and-meta-explained)
+
+
+> At CES 2023 , LG and Panasonic revealed new OLED TVs that are significantly brighter than their previous screens, and Philips followed up soon after with a model of its own . LG claims these TVs – including the upcoming LG G3 OLED – are 150% brighter than certain models from last year's range. How are such pupil-scorching results achieved? With a new technology called Micro Lens Array.  But what is Micro Lens Array (MLA), and why could it be an OLED game-changer? While Samsung's impressive QD-OLEDs – including the brilliant Samsung S95B – boost brightness through the use of quantum dots, MLA is a different beast.
+
+
+***
+![OnePlus 11 5G sale to open tomorrow: All you need to know](https://www.hindustantimes.com/ht-img/img/2023/02/13/1600x900/OP_1676285925229_1676285933283_1676285933283.jpg "OnePlus 11 5G sale to open tomorrow: All you need to know")
+
+
+[OnePlus 11 5G sale to open tomorrow: All you need to know](https://www.hindustantimes.com/technology/oneplus-11-5g-sale-to-open-tomorrow-all-you-need-to-know-101676285622898.html)
+
+
+> The OnePlus 11 5G will go on sale in India from Tuesday, exactly a week after it was launched in the country. The pre-booking for OnePlus 11 5G began shortly after the launch, and customers can order the device from the official websites of both OnePlus and Amazon. The Chinese manufacturer has priced the 8 GB RAM+ 128 GB RAM model at ₹ 56,999, while the 16 GB RAM+ 256 GB RAM storage variant costs ₹ 5,000 more. Members of the company's Red Cable Club, however, get ₹ 2,000 off on both models. Customers can save ₹ 1,000 more by making payment from an ICICI Bank card.
+
+
+***
+![Cybersecurity M&A Roundup: 40 Deals Announced in January 2023](https://www.securityweek.com/wp-content/uploads/2023/02/Cybersecurity-Mergers-Acquisitions-Report-1024x576.jpeg "Cybersecurity M&A Roundup: 40 Deals Announced in January 2023")
+
+
+[Cybersecurity M&A Roundup: 40 Deals Announced in January 2023](https://www.securityweek.com/cybersecurity-ma-roundup-40-deals-announced-in-january-2023/)
+
+
+> Forty cybersecurity-related merger and acquisition (M&A) deals were announced in January 2023. An analysis conducted by SecurityWeek shows that more than 450 cybersecurity-related mergers and acquisitions were announced in 2022 . AEI acquires majority stake in RedLattice Private equity firm AE Industrial Partners (AEI) has acquired a majority stake in RedLattice, a company that provides cyber — including offensive cyber — capabilities for the national security, defense and commercial communities in the United States.
+
+
+***
+[Ault Alliance Announces Record Preliminary 2022 Revenue of $134 Million, up 156% from 2021](http://www.businesswire.com/news/home/20230213005256/en/Ault-Alliance-Announces-Record-Preliminary-2022-Revenue-of-134-Million-up-156-from-2021/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LAS VEGAS--(BUSINESS WIRE)---- $AP #4th_Quarter_Preliminary_Revenue_Forecast--Ault Alliance Announces Record Preliminary 2022 Revenue of $134 Million, up 156% from 2021; Reports Preliminary Revenue for Q4 2022 of $34.4 Million
+
+
+***
+[Thailand Buy Now Pay Later Business and Investment Opportunities Databook](http://www.businesswire.com/news/home/20230213005301/en/Thailand-Buy-Now-Pay-Later-Business-and-Investment-Opportunities-Databook---75-KPIs-on-BNPL-Market-Size-End-Use-Sectors-Market-Share-Product-Analysis-Business-Model-Demographics---Q1-2023-Update---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Thailand Buy Now Pay Later Business and Investment Opportunities Databook - 75+ KPIs on BNPL Market Size, End-Use Sectors, Market Share, Product Analysis, Business Model, Demographics - Q1 2023 Update" report has been added to ResearchAndMarkets.com's offering. The BNPL payment industry in Thailand has recorded strong growth over the last four quarters, supported by increased ecommerce penetration. According to the publisher, BNPL payments in the country are expect
+
+
+***
+![Pixel Kicks appoints its first UA92 apprentice](https://www.prolificnorth.co.uk/sites/default/files/styles/hero/public/images/news/aaronsaxtondirectorofdisruptivelearningatua92molliewardheadofdigitalevolutionatua92chrisbuckleykenan.jpg?itok=Z2YZ_Akq "Pixel Kicks appoints its first UA92 apprentice")
+
+
+[Pixel Kicks appoints its first UA92 apprentice](https://www.prolificnorth.co.uk/news/tech-news/2023/02/pixel-kicks-appoints-its-first-ua92-apprentice)
+
+
+> Pixel Kicks has appointed one of the first apprentices from University Academy 92's (UA92) brand-new Level 4 DevOps Engineer Apprenticeship programme. The higher education institution, based in Old Trafford, started assessing applicants in November for intake alongside Pixel Kicks. Kenan Marshall is now undertaking one day a week on-campus learning at UA92 and four days at Pixel Kicks where he is gaining degree-level knowledge and skills and on the job practical experience. The apprenticeship will take up to two years to complete, at which point Kenan will have the chance of becoming Pixel Kick's first full-time DevOps Engineer.
+
+
+***
+[Soy Protein Global Market Report 2022: Increasing Awareness About the Benefits of Protein-Rich Diets &amp; the Rising Demand for Protein-rich Food Products Boosts Growth](http://www.businesswire.com/news/home/20230213005300/en/Soy-Protein-Global-Market-Report-2022-Increasing-Awareness-About-the-Benefits-of-Protein-Rich-Diets-the-Rising-Demand-for-Protein-rich-Food-Products-Boosts-Growth---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Soy Protein Market by Type, Crop Type, Source Process, Form, Application - Global Forecasts to 2029" report has been added to ResearchAndMarkets.com's offering. The research report provides an in-depth analysis of soy protein market in five major geographies and emphasizes on the current market trends, market size, market share, recent developments, and forecast till 2029. In terms of value, the soy protein market is projected to reach $14.10 billion by 2029, at a
+
+
+***
+![Writers are worried ChatGPT will steal their jobs. Experts offered 3 reasons why this is unlikely — and even ChatGPT itself agrees.](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17d2HV.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Writers are worried ChatGPT will steal their jobs. Experts offered 3 reasons why this is unlikely — and even ChatGPT itself agrees.")
+
+
+[Writers are worried ChatGPT will steal their jobs. Experts offered 3 reasons why this is unlikely — and even ChatGPT itself agrees.](http://www.msn.com/en-us/news/technology/writers-are-worried-chatgpt-will-steal-their-jobs-experts-offered-3-reasons-why-this-is-unlikely-and-even-chatgpt-itself-agrees/ar-AA17qd6G)
+
+
+> Since OpenAI's ChatGPT was launched in November, writers across industries like copywriting, marketing, and journalism have been worried that it might take their jobs. ChatGPT's ability to read, write, and absorb vast amounts of information has raised concerns about the risk of losing one's job to AI. The chatbot reached 100 million users in just two months — faster than TikTok and Instagram — as people experiment with it to probe its wide-ranging skills. The media industry has been particularly receptive to the tool.
+
+
+***
+![Save $1000 on this HP EliteBook 865 G9 and obliterate your to-do list](https://cdn.mos.cms.futurecdn.net/aJUuLV3QdJN395MYysKT9R-1200-80.png "Save $1000 on this HP EliteBook 865 G9 and obliterate your to-do list")
+
+
+[Save $1000 on this HP EliteBook 865 G9 and obliterate your to-do list](https://www.techradar.com/deals/save-dollar1000-on-this-hp-elitebook-865-g9-and-obliterate-your-to-do-list)
+
+
+> (Image credit: Future) The HP EliteBook 865 G9 is a high-quality laptop with impressive performance, a durable build, top-notch security features, and a wide range of connectivity options. This enterprise/business laptop prioritizes productivity and security, making it the perfect device for remote workers or those who are now back in the office. It's now on sale for $1,179 (was $2,227) which knocks off a sizeable chunk of the original price! In our review of the HP EliteBook 865 G9, we gave the device a well-deserved four and a half stars.
+
+
+***
+![Dow Jones techncal analysis: If this bear flag gets busted, bulls could party.](https://images.forexlive.com/images/Dow%20Jones%20Today_id_c762852c-ae18-470b-9773-0ace15b13f40_size900.jpg?v=1676287528544 "Dow Jones techncal analysis: If this bear flag gets busted, bulls could party.")
+
+
+[Dow Jones techncal analysis: If this bear flag gets busted, bulls could party.](https://www.forexlive.com/technical-analysis/dow-jones-techncal-analysis-if-this-bear-flag-gets-busted-bulls-could-party-20230213/)
+
+
+> When technical patterns are busted, more traders are trapped. They have to cover and expedite the reversal. Dow Jones (potential) trade opportunity: What is a busted technical pattern and why should you care In the field of technical analysis, a chart pattern is said to have "busted" when it does not follow through in the manner in which it was anticipated it would. For traders who were expecting on the pattern to play out as planned, this may be a very unpleasant experience, as it might lead to losses or chances that were missed.
+
+
+***
+![EV Charging Stations In The US Are Plagued By Reliability Issues: Study](https://cdn.motor1.com/images/mgl/rKKEA9/s1/f-150-lightning-charging.jpg "EV Charging Stations In The US Are Plagued By Reliability Issues: Study")
+
+
+[EV Charging Stations In The US Are Plagued By Reliability Issues: Study](https://insideevs.com/news/652195/ev-charging-stations-reliability-low/)
+
+
+> Charging your EV at public stations throughout the United States can sometimes be challenging, to say the least, with stalls that are out of order, software hiccups, and occasional vandalism rendering chargers useless. To put things into perspective, we now have fresh data that paints a dreary picture of the reliability of American public EV charging. According to J.D. Power's Electric Vehicle Experience Public Charging Study, quoted by Automotive News , the number of failed charging attempts grew from 15 percent in the first quarter of 2021 to more than 21 percent by the third quarter of 2022.
+
+
+***
+[Neeva Brings Responsible, Citation-Backed AI Powered Search to Europe](http://www.businesswire.com/news/home/20230213005065/en/Neeva-Brings-Responsible-Citation-Backed-AI-Powered-Search-to-Europe/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON--(BUSINESS WIRE)--Advert and tracker-free search engine Neeva has today launched NeevaAI in Europe, which harnesses the power of artificial intelligence (AI) to deliver an experience that combines the best of large language models such as ChatGPT with the authority and timeliness of search. Following a successful beta launch in the US in December 2022, NeevaAI is available to Free Basic and Premium users across the world from today. NeevaAI will be launching its English Language version
+
+
+***
+[Orbital Insight Expands Global Customer Base With Rollout of Recently Launched TerraScope Platform](http://www.businesswire.com/news/home/20230213005167/en/Orbital-Insight-Expands-Global-Customer-Base-With-Rollout-of-Recently-Launched-TerraScope-Platform/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PALO ALTO, Calif.--(BUSINESS WIRE)--Orbital Insight, the leader in geospatial intelligence, today announced it has secured new global customer agreements including new customer wins and expansions leveraging the company's recently released geospatial analytics platform, TerraScope - the only self-serve multi-sensor analytics platform in the world that blends computer vision and geolocation sensor data to detect changes, monitor activity, and discover patterns of life at any location on Earth. S
+
+
+***
+![SecurityWeek Cyber Insights 2023 Series](https://www.securityweek.com/wp-content/uploads/2023/02/Cyber-Insights-2023-1-1024x576.jpg "SecurityWeek Cyber Insights 2023 Series")
+
+
+[SecurityWeek Cyber Insights 2023 Series](https://www.securityweek.com/securityweek-cybersecurity-insights-2023-topics/)
+
+
+> Related Content Cycode, a startup that provides solutions for protecting software source code, emerged from stealth mode on Tuesday with $4.6 million in seed funding. Eduard Kovacs September 24, 2019 U.S. Marine Corps and SAIC CISOs Discuss the Differences Between Government and Private Industry Kevin Townsend September 7, 2022 SecurityWeek examines how a layoff-induced influx of experienced professionals into the job seeker market is affecting or might affect, the skills gap and recruitment.
+
+
+***
+![Apple cofounder Steve Wozniak thinks ChatGPT is 'pretty impressive,' but warned it can make 'horrible mistakes': CNBC](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17pYv9.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=588&y=327 "Apple cofounder Steve Wozniak thinks ChatGPT is 'pretty impressive,' but warned it can make 'horrible mistakes': CNBC")
+
+
+[Apple cofounder Steve Wozniak thinks ChatGPT is 'pretty impressive,' but warned it can make 'horrible mistakes': CNBC](http://www.msn.com/en-us/news/technology/apple-cofounder-steve-wozniak-thinks-chatgpt-is-pretty-impressive-but-warned-it-can-make-horrible-mistakes-cnbc/ar-AA17ptIa)
+
+
+> Viral AI chatbot ChatGPT may have amassed 100 million users in just over two months, but it has also invited some skepticism. Apple cofounder Steve Wozniak advised caution against the popular chatbot, telling Squawk Box co-anchor Andrew Ross Sorkin in an impromptu interview on Wednesday that while he finds ChatGPT to be "pretty impressive" and "useful to humans," it also has the potential to make some serious errors. OpenAI's ChatGPT and similar AI tools may not replace jobs anytime soon. But they can help workers across many industries – from tech to media – do their jobs better and more quickly.
+
+
+***
+![Now for sale: Data on your mental health](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XRDSHOQYD4UC2OMOKZB37XZRIM.jpg&w=1440 "Now for sale: Data on your mental health")
+
+
+[Now for sale: Data on your mental health](https://www.washingtonpost.com/technology/2023/02/13/mental-health-data-brokers)
+
+
+> Listen Comment on this story Comment Gift Article Share One company advertised the names and home addresses of people with depression, anxiety, post-traumatic stress or bipolar disorder. Another sold a database featuring thousands of aggregated mental health records, starting at $275 per 1,000 'ailment contacts.' Tech is not your friend. We are. Sign up for The Tech Friend newsletter. ArrowRight For years, data brokers have operated in a controversial corner of the internet economy, collecting and reselling Americans' personal information for government or commercial use, such as targeted ads.
+
+
+***
+[Ouster and Velodyne Complete Merger of Equals to Accelerate Lidar Adoption](http://www.businesswire.com/news/home/20230213005229/en/Ouster-and-Velodyne-Complete-Merger-of-Equals-to-Accelerate-Lidar-Adoption/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)---- $OUST--Ouster (NYSE: OUST), a leading provider of high-resolution digital lidar, and Velodyne, a global player in lidar sensors and solutions, announced the successful completion of their merger of equals, effective February 10, 2023. The combined company will keep the name Ouster and continue to trade on New York Stock Exchange under the ticker 'OUST.' The merger creates a lidar powerhouse with over 850 customers spanning the automotive, industrial, robotics,
+
+
+***
+[Pioneer Square Brands (PSB) Acquires VAULT, Leader in Developing Point-of-Sale Enclosures](http://www.businesswire.com/news/home/20230213005133/en/Pioneer-Square-Brands-PSB-Acquires-VAULT-Leader-in-Developing-Point-of-Sale-Enclosures/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SEATTLE--(BUSINESS WIRE)-- #pointofsale--Pioneer Square Brands (PSB), parent company of Brenthaven, Gumdrop, and TechShell, today announced it has acquired VAULT, a leading manufacturer of mobile device enclosure solutions, mobile payment solutions, and high-quality kiosks for enterprise customers. VAULT is known for thoughtful product design, enterprise grade mobile device protection, and a patented connectivity system that transforms Apple devices into versatile and tough business tools to pow
+
+
+***
+![Vcluster Scenario-1: Reusing the host cluster ingress controller](https://miro.medium.com/max/1200/1*Nzly-Z-upz4xaFEUmYp_rQ.png "Vcluster Scenario-1: Reusing the host cluster ingress controller")
+
+
+[Vcluster Scenario-1: Reusing the host cluster ingress controller](https://medium.com/@purushothamkdr453/vcluster-scenario-1-reusing-the-host-cluster-ingress-controller-94a9f97de633)
+
+
+> Overview: As discussed in my previous blog , we are going to test or explore multiple different scenarios using vcluster. In this blog we are go explore about reusing the host cluster ingress controller across virtual clusters. Pre-requisites: Note: If you dont have any k8s cluster then refer to this blog for creating k8s cluster quickly. Note: Also makesure vcluster cli installed and ready, if you dont have it with you then refer to this blog for installing vcluster cli. Installing Nginx ingress controller I am going to use kind(kubernetes in docker) cluster for testing this scenario.
+
+
+***
+![Why Wikipedia Is So Tough on Bigfoot](https://compote.slate.com/images/c6629d20-38bf-416a-85f6-5fcaba9b361c.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560 "Why Wikipedia Is So Tough on Bigfoot")
+
+
+[Why Wikipedia Is So Tough on Bigfoot](https://slate.com/technology/2023/02/wikipedia-bigfoot-cryptozoology.html)
+
+
+> Welcome to Source Notes , a Future Tense column about the internet's information ecosystem. Sometimes Bigfoot believers go 'squatching' in the forest to hunt for tracks left behind from the purported apelike creature. Other times, they seem to take a more sedentary approach, sitting behind their computers, complaining about what they see as disrespect for their beliefs on Wikipedia. The internet encyclopedia defines cryptozoology as 'a pseudoscience or subculture that searches for and studies unknown, legendary, or extinct animals' such as Bigfoot, the Loch Ness Monster, the chupacabra, and other so-called cryptids .
+
+
+***
+![There's Still Not Strong Evidence That Masks Protect Against COVID](https://compote.slate.com/images/68f1e87c-aa86-4f51-b772-5aad7828cc61.jpeg?crop=8020%2C5346%2Cx0%2Cy0&width=1560 "There's Still Not Strong Evidence That Masks Protect Against COVID")
+
+
+[There's Still Not Strong Evidence That Masks Protect Against COVID](https://slate.com/technology/2023/02/masks-effectiveness-cochrane-review.html)
+
+
+> Three years into the COVID pandemic, and there still isn't a consensus on whether masks protect against the coronavirus. Proponents and skeptics both think common sense is on their side. It's simple physics , proponents say. COVID is airborne . Doctors wear masks when they treat patients. Plus, I wear a mask every time I leave the house and I've never had COVID. Not so fast, skeptics retort. The masks most people wear don't stop viruses. States and countries with widespread mask use have seen large waves of cases.
+
+
+***
+![Walton launches new model of TAKYON e-bike](https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/02/13/toggle_online_2.jpg "Walton launches new model of TAKYON e-bike")
+
+
+[Walton launches new model of TAKYON e-bike](https://www.thedailystar.net/tech-startup/news/walton-launches-new-model-takyon-e-bike-3246616)
+
+
+> The eco-friendly TAKYON Leo e-bike comes in three versions which can run for 40-80 kilometers on a single charge that only 6-8 hours, claims a press handout.  Walton Digi-Tech Industries Limited has launched a new model of its TAKYON electric bike. The eco-friendly TAKYON Leo e-bike comes in three versions which can run for 40-80 kilometers on a single charge that only 6-8 hours, claims a press handout.  Currently, a total of four versions from two models of Walton e-bikes are available in the market.
+
+
+***
+![5 Essential Python Tricks for Efficient and Professional Coding](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "5 Essential Python Tricks for Efficient and Professional Coding")
+
+
+[5 Essential Python Tricks for Efficient and Professional Coding](https://www.reddit.com/r/programming/comments/11157w8/5_essential_python_tricks_for_efficient_and)
+
+
+> Scan this QR code to download the app now Or check it out in the app stores
+
+
+***
+![Deep dive: how Glass-to-Glass tech is changing the future, part 1](https://blooloop.com/wp-content/uploads/2023/02/DJ-YVES-Vs-live-stream-by-Panasonic-AED-group.jpg "Deep dive: how Glass-to-Glass tech is changing the future, part 1")
+
+
+[Deep dive: how Glass-to-Glass tech is changing the future, part 1](https://blooloop.com/technology/opinion/glass-to-glass-tech/)
+
+
+> Chad Kunimoto Over a series of articles, I'll explain how Glass-to-Glass (G2G) solutions and hybrid experiences have evolved to put the technology within your reach and how a tech partner can help you find your way forward. The pandemic has accelerated a shift towards hybrid experiences. These allow people to participate in events from home or wherever they are. They also create opportunities for businesses to engage a larger audience. Live-streaming events are now commonplace. For instance, sports teams, festivals, concerts, museums and art galleries, theme parks, trade shows, FECs , houses of worship, conferences, and more are sharing their events online.
+
+
+***
+[Outlook on the IT Asset Disposition Global Market to 2028](http://www.businesswire.com/news/home/20230213005282/en/Outlook-on-the-IT-Asset-Disposition-Global-Market-to-2028---Increasing-Environmental-Preservation-Awareness-For-Growing-E-Waste-Volume-Drives-Growth---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Global IT Asset Disposition Market Size, Share & Industry Trends Analysis Report By Asset Type (Computers/Laptops, Mobile Devices, Storage Devices, Servers, and Peripherals), By Service, By Organization Size, By End User, By Regional Outlook and Forecast, 2022 - 2028" report has been added to ResearchAndMarkets.com's offering. The Global IT Asset Disposition Market size is expected to reach $23.8 billion by 2028, rising at a market growth of 8.5% CAGR during th
+
+
+***
+![OnePlus Pad vs Samsung Galaxy Tab S8: Comparing the Best Android Tablets](https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2023/02/op-pad-vs-tab-s8.jpg "OnePlus Pad vs Samsung Galaxy Tab S8: Comparing the Best Android Tablets")
+
+
+[OnePlus Pad vs Samsung Galaxy Tab S8: Comparing the Best Android Tablets](https://pocketnow.com/oneplus-pad-vs-samsung-galaxy-tab-s8/)
+
+
+> Quick Links The Android tablet market has undergone a significant transformation in recent years, with major players such as Samsung, Lenovo, HUAWEI, and now OnePlus offering a range of options to choose from. The BBK-owned brand recently introduced its OnePlus Pad at its Cloud 11 event ( we even went hands-on with the device ) and in this article, we will put the OnePlus Pad to the test and compare it with the entry-level Samsung Galaxy Tab S8. We will compare their features, capabilities, and performance to find out which one is the better investment for you.
+
+
+***
+![Middlegame teams up with EI for fintech accelerator](https://imengine.public.prod.sbp.infomaker.io?uuid=b44177a9-8652-5851-9de9-477a1d70aa3b&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=3000&height=1688&x=1.0E-5&y=0.03184 "Middlegame teams up with EI for fintech accelerator")
+
+
+[Middlegame teams up with EI for fintech accelerator](https://www.businesspost.ie/tech/middlegame-teams-up-with-ei-for-fintech-accelerator/)
+
+
+> Founders from 10 fintechs will receive one-on-one mentorship as part of the programme MiddleGame Ventures, which announced a €40 million fintech-focused seed fund late last year, is teaming up with Enterprise Ireland to run an accelerator programme in Dublin. ÉireFin is a week-long accelerator to be held jointly at Trinity College Science Gallery and Stripe's Irish headquarters in late March. The programme is free of charge with neither MiddleGame nor other participants taking equity or seeking other compensation from participants.
+
+
+***
+![Northcoders and KPMG celebrate graduate debutantes](https://www.prolificnorth.co.uk/sites/default/files/styles/hero/public/images/news/kpmgxnorthcodersgraduation.jpg?itok=80OhyhQY "Northcoders and KPMG celebrate graduate debutantes")
+
+
+[Northcoders and KPMG celebrate graduate debutantes](https://www.prolificnorth.co.uk/news/tech-news/2023/02/northcoders-and-kpmg-celebrate-graduate-debutantes)
+
+
+> Northcoders has successfully delivered a tailored 14-week software development programme to KPMG's new 19-strong technology engineering graduate intake, the companies' debut collaboration. As KPMG's onboarding partner, Northcoders curated the bespoke programme that covered the core fundamentals of building websites and mobile phone apps as well as a specific module on CloudOps. The core aim was to upskill the STEM graduates and improve their tech capabilities before they are deployed and start working with the firm's clients across the UK.
+
+
+***
+[The Worldwide Ultrafast Lasers Industry is Expected to Reach $3.7 Billion by 2028](http://www.businesswire.com/news/home/20230213005277/en/The-Worldwide-Ultrafast-Lasers-Industry-is-Expected-to-Reach-3.7-Billion-by-2028---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Global Ultrafast Lasers Market Size, Share & Industry Trends Analysis Report By Pulse Duration, By End User, By Type (Fiber Lasers, Mode-Locked Lasers, Titanium-Sapphire Lasers, and Others), By Application, By Regional Outlook and Forecast, 2022 - 2028" report has been added to ResearchAndMarkets.com's offering. The Global Ultrafast Lasers Market size is expected to reach $3.7 billion by 2028, rising at a market growth of 15.3% CAGR during the forecast period.
+
+
+***
+![US military shoots down fourth unidentified object this month](https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-13-image-2.jpg "US military shoots down fourth unidentified object this month")
+
+
+[US military shoots down fourth unidentified object this month](https://www.techspot.com/news/97581-us-military-shoots-down-fourth-unidentified-object-month.html)
+
+
+> What just happened? In a situation thought to be unprecedented in peaceful times, the US military has shot down a fourth flying object over North American airspace this month. The latest target, described as an octagonal structure with strings but no payload, was shot over Lake Huron in Michigan at 2.42 pm local time on Sunday following orders from President Biden. A Pentagon statement said the object was detected traveling at 20,000 feet above military sites in Montana on Saturday, an altitude that could have caused it to interfere with commercial air traffic.
+
+
+***
+![Galaxy Z Flip 3, Fold 3 are now getting One UI 5.1 update](https://www.sammobile.com/wp-content/uploads/2021/08/Galaxy-Z-Fold-3-Flip-3-1.jpg "Galaxy Z Flip 3, Fold 3 are now getting One UI 5.1 update")
+
+
+[Galaxy Z Flip 3, Fold 3 are now getting One UI 5.1 update](https://www.sammobile.com/news/galaxy-z-flip-3-fold-3-one-ui-5-1-update-released/)
+
+
+> A few moments ago, Samsung released the One UI 5.1 update to the Galaxy S22 series, bringing One UI 5.1 to older phones earlier than the latest Samsung flagships. Shortly after, the update was also released to the Galaxy Z Flip 4 and the Galaxy Z Fold 4. Now, the update is rolling out to […] By Asif Iqbal Shaik 27 mins ago While Galaxy S23 pre-orders haven't even started reaching all customers worldwide, Samsung has started rolling out the One UI 5.1 update to older smartphones already.
+
+
+***
+![Learning By Doing #001: implementing my_interactor](https://external-preview.redd.it/t8mCvFLLroY6rmDMgc5DU8oJVsvx8tieiOVqiNJhdl0.jpg?auto=webp&v=enabled&s=2dc03986885db083c122820375fc92b60c396d96 "Learning By Doing #001: implementing my_interactor")
+
+
+[Learning By Doing #001: implementing my_interactor](https://www.reddit.com/r/programming/comments/1114pnn/learning_by_doing_001_implementing_my_interactor)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![The retail chains have emptied our pockets](https://trud.bg/public/images/articles/2023-02/0301_5998722838576223346_big.jpg "The retail chains have emptied our pockets")
+
+
+[The retail chains have emptied our pockets](https://www.world-today-news.com/the-retail-chains-have-emptied-our-pockets/)
+
+
+> They put a markup of 55% on eggs and 34% on fresh milk They raise the price of cheese when sold in the store by about 45 percent The purchase prices of milk are one of the lowest The retail chains have emptied our pockets. The markups on various basic foods reach 55 percent, which is one of the reasons for the high inflation, a check by 'Trud News ' showed based on the data on wholesale prices of the State Commission for Commodity Exchanges and Markets (DKSBT) and prices in the shops. One of the biggest markups is for cheese.
+
+
+***
+![Honeypot-Factory: The Use of Deception in ICS/OT Environments](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEheTRuXLR34T447pGZgFN03OQ3Pvb84nZ4wJp_h5CEIym_-G6KLf9Ccdeo9MKymjR45aQn2yJ7IBhOUm68M4SmRblEV_Eb2MvfK7_CUfV7hmiKqsq_AASN18oR1BUBXANissOVj325bWQFGXLvCg2ay_mVQPHNqocNU7xnTZ0350xyeyJgsF5vSQB5m/s728-e365/orange.png "Honeypot-Factory: The Use of Deception in ICS/OT Environments")
+
+
+[Honeypot-Factory: The Use of Deception in ICS/OT Environments](https://thehackernews.com/2023/02/honeypot-factory-use-of-deception-in.html)
+
+
+> There have been a number of reports of attacks on industrial control systems (ICS) in the past few years. Looking a bit closer, most of the attacks seem to have spilt over from traditional IT. That's to be expected, as production systems are commonly connected to ordinary corporate networks at this point. Though our data does not indicate at this point that a lot of threat actors specifically target industrial systems – in fact, most evidence points to purely opportunistic behaviour – the tide could turn any time, once the added complexity of compromising OT environments promises to pay off.
+
+
+***
+![Lyon: an artistic competition launched for the future Holocaust memorial project](https://www.tonicradio.fr/wp-content/uploads/2023/02/place-carnot.png "Lyon: an artistic competition launched for the future Holocaust memorial project")
+
+
+[Lyon: an artistic competition launched for the future Holocaust memorial project](https://www.world-today-news.com/lyon-an-artistic-competition-launched-for-the-future-holocaust-memorial-project/)
+
+
+> The association for the construction of a Shoah Memorial in Lyon is launching a competition to determine who will build the building. The competition is open to everyone, in France and abroad. The association hopes to collect as many applications as possible to perpetuate the memory of the millions of deported Jews. Building such a memorial on Lyon lands, where the Shoah was classified as a crime against humanity, was like a symbol. It was in 2019 that Gérard Collomb established the public subscription dedicated to the memorial.
+
+
+***
+![Mobile World Congress 2023: OnePlus to showcase a 11 Series concept phone](https://images.cnbctv18.com/wp-content/uploads/2023/02/oneplus-1019x573.jpeg "Mobile World Congress 2023: OnePlus to showcase a 11 Series concept phone")
+
+
+[Mobile World Congress 2023: OnePlus to showcase a 11 Series concept phone](https://www.cnbctv18.com/technology/mobile-world-congress-2023-oneplus-to-showcase-a-11-series-concept-phone-15922561.htm)
+
+
+> Last week, OnePlus announced during its Cloud 11 event that it will be showcasing a OnePlus 11 concept phone during the Mobile World Congress (MWC) in Barcelona, scheduled to be held from February 27 to March 3 in Barcelona. Other than the announcement, no other details of the concept phone were revealed. Feb 13, 2023 IST 2 Min(s) Read Feb 13, 2023 IST 4 Min(s) Read Feb 11, 2023 IST 4 Min(s) Read Feb 11, 2023 IST 5 Min(s) Read This is the third concept phone coming from OnePlus stable, after the OnePlus 7T McLaren Edition Concept and the OnePlus 8T Concept.
+
+
+***
+![TimeMachine, CCC or other? What is best to use if my workstation dies?](https://images.macrumors.com/social/?t=2380600&v=6 "TimeMachine, CCC or other? What is best to use if my workstation dies?")
+
+
+[TimeMachine, CCC or other? What is best to use if my workstation dies?](https://forums.macrumors.com/threads/timemachine-ccc-or-other-what-is-best-to-use-if-my-workstation-dies.2380600/)
+
+
+> Hello! Happily I have never had any internal disk or computer crashes, but if it happens, what is most easy and best solution for recovery? (I use MacOS High sierra). Time Machine: Will it be easy to setup the computer again? I mean will it be 1:1 or just "here is your files, try to remember serial numbers etc" Carbon Copy Cloner: Is this something that works in the background like TM or do it want me to personally do things all the time? Maybe I should buy a even older macbook to simulate a crash to try things out, hmmm.
+
+
+***
+![Light Start: Apple M3 iMacs, Microsoft Office AI, Curiosity and H2O, and Keaton's Batman returns](https://stuff.co.za/wp-content/uploads/2023/02/Untitled-design-5.png "Light Start: Apple M3 iMacs, Microsoft Office AI, Curiosity and H2O, and Keaton's Batman returns")
+
+
+[Light Start: Apple M3 iMacs, Microsoft Office AI, Curiosity and H2O, and Keaton's Batman returns](https://stuff.co.za/2023/02/13/light-start-m3-imacs-microsoft-office-ai/)
+
+
+> Apple has a new 24in iMac in the pipeline, but it's unlikely that we'll see it before the end of 2023 is upon us, according to Bloomberg's Mark Gurman. He believes that Apple will entirely skip the M2 generation for the iMac, and is holding out for the yet-to-be-announced M3 chip. 'I haven't seen anything to indicate there will be a new iMac until the M3 chip generation, which won't arrive until the tail end of this year at the earliest or next year,' said Gurman in his latest newsletter. 'So if you want to stick with the iMac, you'll just have to sit tight.
+
+
+***
+![It's a Sega game, but Sega's new villain, Yoko Taro, is revealed](https://cdn.gamemeca.com/gmdata/0001/697/167/gm451223_230213-risell-yy7.jpg "It's a Sega game, but Sega's new villain, Yoko Taro, is revealed")
+
+
+[It's a Sega game, but Sega's new villain, Yoko Taro, is revealed](https://www.world-today-news.com/its-a-sega-game-but-segas-new-villain-yoko-taro-is-revealed/)
+
+
+> Sega, one of Japan's leading game companies, will present a unique game with director Yoko Taro, who has become famous for his unusual plans. Sega is a new smartphone that appears as a villain. On the 10th, Sega released ‘404 GAME RE:SET – Error Game Reset', which is being produced in collaboration with director Taro Yoko, through its official YouTube channel. As introduced earlier, Sega appears as the axis of evil in this title. In the game, Sega acts as a villain who controls everything from infrastructure to entertainment at will, and players set out on a journey to restore the world that Sega distorted to its original state.
+
+
+***
+![US Air Force's F-35 aircraft makes debut at Aero India](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_02_2023_13_39_23_2952638.jpg?width=920&format=jpeg "US Air Force's F-35 aircraft makes debut at Aero India")
+
+
+[US Air Force's F-35 aircraft makes debut at Aero India](https://www.devdiscourse.com/article/technology/2353143-us-air-forces-f-35-aircraft-makes-debut-at-aero-india)
+
+
+> The US Air Force's (USAF) two newest fifth-generation supersonic multirole F-35A aircraft made a historic debut at Aero-India here on Monday, drawing strong interest and adding lustre to the five-day marquee event. The two jets -- F-35A Lightning II and F-35A Joint Strike Fighter -- arrived at the Yelahanka Air Force station on the outskirts of Bengaluru after their respective journey from Utah and Alaska air force bases in the US. Two Indian military officials said it is for the first time that F-35 aircraft of the US Air Force landed in India.
+
+
+***
+![Telegram's Powerful Features, Chat Caucasians Don't Need to be able to speak English](https://awsimages.detik.net.id/visual/2018/04/06/fdae89f8-e493-4937-b854-85d784affd48_169.jpeg?w=650?w=650 "Telegram's Powerful Features, Chat Caucasians Don't Need to be able to speak English")
+
+
+[Telegram's Powerful Features, Chat Caucasians Don't Need to be able to speak English](https://www.world-today-news.com/telegrams-powerful-features-chat-caucasians-dont-need-to-be-able-to-speak-english/)
+
+
+> Novina Putri Bestari CNBC Indonesia Tech Monday, 13/02/2023 14:40 WIB Jakarta, CNBC Indonesia – Now Telegram users can easily understand various languages ​​submitted by other users. You do this by taking advantage of the new features that the platform released recently. 'More than half a billion people around the world use Telegram not only to keep in touch with friends, but also to chat in public groups and view content from channels in every language. Now you can translate any message into another language, right in the app ,' wrote Telegram on its official website, quoted Monday (13/2/2023).
+
+
+***
+![BREAKING: Galaxy S21 gets treated with One UI 5.1 update](https://www.sammobile.com/wp-content/uploads/2021/09/Galaxy-S21-Ultra-review-31.jpg "BREAKING: Galaxy S21 gets treated with One UI 5.1 update")
+
+
+[BREAKING: Galaxy S21 gets treated with One UI 5.1 update](https://www.sammobile.com/news/galaxy-s21-one-ui-5-1-update-released/)
+
+
+> While Galaxy S23 pre-orders haven't even started reaching all customers worldwide, Samsung has started rolling out the One UI 5.1 update to older smartphones already. The Galaxy S22, Galaxy S22+, and Galaxy S22 Ultra have already received the update. Now, even the Galaxy Z Fold 4 has started getting the One UI 5.1 update. The […] By Asif Iqbal Shaik 45 mins ago Samsung debuted One UI 5.1 with the Galaxy S23 series that was unveiled earlier this month. While only a few people have started getting their Galaxy S23 pre-orders delivered, Samsung has started rolling out the One UI 5.
+
+
+***
+![Max Levchin, CEO and Founder of Affirm](https://assets.bizclikmedia.net/1800/5b9b6f5de18609152d8dd39205794da5:9286c31e374ed4c5f171feb6a057c1f3/tracking-max-levchin-main.webp.jpg "Max Levchin, CEO and Founder of Affirm")
+
+
+[Max Levchin, CEO and Founder of Affirm](https://fintechmagazine.com/financial-services-finserv/fintech-trailblazer-max-levchin-ceo-and-founder-of-affirm)
+
+
+> Max Levchin is a serial entrepreneur, a former founder of PayPal, and the CEO and Co-founder of Affirm - one of the world's most successful BNPL fintech companies. A familiar figure among the Silicon Valley financial and tech elite, you'd be forgiven for thinking Max Levchin's background must have assisted in his meteoric rise to wealth and fame. But rather than hailing from a privileged upbringing, Levchin is a prime example of how hard work and ability result in success. Born in Kyiv, Ukraine in 1975 to Ukrainian-Jewish parents, he was a sickly child who suffered from severe breathing problems as an infant that went on to affect him throughout childhood.
+
+
+***
+![The One UI 5 update for the Galaxy A04e 'Android 13' is now available for download](https://i0.wp.com/mohamedovic.com/wp-content/uploads/2023/02/Samsung-Galaxy-A04e-Android-13.jpg "The One UI 5 update for the Galaxy A04e 'Android 13' is now available for download")
+
+
+[The One UI 5 update for the Galaxy A04e 'Android 13' is now available for download](https://www.world-today-news.com/the-one-ui-5-update-for-the-galaxy-a04e-android-13-is-now-available-for-download/)
+
+
+> Android 14 is here! There is even some news about the One UI 6 interface coming from the Korean giant, but Samsung still has not finished sending Android 13 to all of its eligible devices, although it has already finished sending the official update to most of these phones before even the beginning of 2023! But anyway, the company has spared no effort, and currently there are very few of the company's phones that qualify for the One UI 5 interface that you have not yet received, and among these phones was Galaxy A04e Low tier which finally got the stable update today.
+
+
+***
+![Windows 11 could receive native support for RGB](https://stuff.co.za/wp-content/uploads/2023/02/Untitled-design-2-4.png "Windows 11 could receive native support for RGB")
+
+
+[Windows 11 could receive native support for RGB](https://stuff.co.za/2023/02/13/windows-11-native-support-for-rgb/)
+
+
+> In the not-so-distant future, Windows 11 could provide gamers and streamers with native support for RGB peripherals and accessories. If that's true, it'll mean most users won't need to install the often clunky, resource-hogging programs made by peripheral manufacturers. Talk of native Windows RGB support has been around for years. Could this be the version of Windows that actually does it? Windows 11, now with unicorn vomit New settings for device lighting make an appearance in build 25295.
+
+
+***
+![Want to be a director? Showmax is looking for pitches for 10 films set in Africa](https://stuff.co.za/wp-content/uploads/2023/02/Showmax-Film-Pitch.png "Want to be a director? Showmax is looking for pitches for 10 films set in Africa")
+
+
+[Want to be a director? Showmax is looking for pitches for 10 films set in Africa](https://stuff.co.za/2023/02/13/showmax-pitches-10-films-set-in-africa/)
+
+
+> Do you think you have what it takes to create the next great African (or South African) film production? Showmax wants to hear from you. And not in the whole ‘do it for exposure' way you might expect, either. The streaming platform has funding to hand out for ten films set in Africa. The company, in partnership with the Joburg Film Festival, is inviting pitches from… well, from everyone. But there are a few terms and conditions attached to these proposals. Otherwise, like advertising a job on Facebook, folks will apply despite being massively underqualified.
+
+
+***
+![iPhone Price Drop Alert! iPhone 14 Plus Gets Price Cut From Rs 89,900 to Rs 46,999- Check Bank Offers, Discount Details](https://english.cdn.zeenews.com/sites/default/files/2023/02/13/1153386-untitled-design-2023-02-13t142206.455.jpg "iPhone Price Drop Alert! iPhone 14 Plus Gets Price Cut From Rs 89,900 to Rs 46,999- Check Bank Offers, Discount Details")
+
+
+[iPhone Price Drop Alert! iPhone 14 Plus Gets Price Cut From Rs 89,900 to Rs 46,999- Check Bank Offers, Discount Details](https://zeenews.india.com/technology/iphone-price-drop-alert-iphone-14-plus-gets-price-cut-from-rs-89900-to-rs-46999-check-bank-offers-discount-details-2572824.html)
+
+
+> New Delhi:  Valentine's Day is almost approaching, and men and women are already starting to give gifts to their partners in anticipation of the holiday. If your partner is an iPhone enthusiast then this is the right time to present the device that can please your lover! Apple iPhone 14 series was unveiled by the company in September last year. The lineup comprises iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max. The launching price of the phone was Rs 79,990. Apple iPhone 14 Plus costs Rs 89,900 but Prior to Valentine's Day, the iPhone 14 Plus is available for purchase for only Rs 46,900.
+
+
+***
+![Apple Declines Allegation for Evading Users' Privacy Controls](https://english.cdn.zeenews.com/sites/default/files/2023/02/13/1153295-appleappstore.jpg "Apple Declines Allegation for Evading Users' Privacy Controls")
+
+
+[Apple Declines Allegation for Evading Users' Privacy Controls](https://zeenews.india.com/technology/apple-declines-allegation-for-evading-users-privacy-controls-2572781.html)
+
+
+> San Francisco: Tech giant Apple has rubbished the allegation of evading the users' privacy controls, and said that it has fixed a potential privacy vulnerability with iOS 16.3 and other updates. Earlier this month, a report had mentioned that Apple Maps contained a security flaw that might have enabled an app to circumvent a user's privacy settings, reports AppleInsider. However, now, the iPhone maker has claimed no apps took advantage of the flaw. "Last week, we issued an advisory for a privacy vulnerability that could only be exploited from unsandboxed apps on macOS.
+
+
+***
+![Google's Pune Office Receives Hoax Bomb Call; one Held in Hyderabad](https://english.cdn.zeenews.com/sites/default/files/2023/02/13/1153235-google-india-office.png "Google's Pune Office Receives Hoax Bomb Call; one Held in Hyderabad")
+
+
+[Google's Pune Office Receives Hoax Bomb Call; one Held in Hyderabad](https://zeenews.india.com/technology/googles-pune-office-receives-hoax-bomb-call-one-held-in-hyderabad-2572750.html)
+
+
+> Pune: Google company's office in Maharashtra's Pune city was briefly put on alert after it received a call about a bomb in the premises which later turned out to be a hoax, police said on Monday. A man, who allegedly made the call in an inebriated state, has been traced to Hyderabad and apprehended from there, they said. "The office, located on the 11th floor of a multi-storey commercial building in Pune's Mundhwa area, received a call late Sunday night that a bomb was kept in the office premises," Deputy Commissioner of Police (Zone V) Vikrant Deshmukh said.
+
+
+***
+![Whatsapp May Soon Let Users Send Images in Original Quality on Desktop Beta](https://english.cdn.zeenews.com/sites/default/files/2023/02/13/1153287-whatsappimage.jpg "Whatsapp May Soon Let Users Send Images in Original Quality on Desktop Beta")
+
+
+[Whatsapp May Soon Let Users Send Images in Original Quality on Desktop Beta](https://zeenews.india.com/technology/whatsapp-may-soon-let-users-send-images-in-original-quality-on-desktop-beta-2572772.html)
+
+
+> San Francisco: Meta-owned messaging platform WhatsApp is reportedly working on a new feature which will allow users to send images in their original quality, on Desktop beta. With the new feature, users will no longer have to worry about their images losing quality or resolution while sending them, reports WABetaInfo. When the feature will be available to the beta testers, they will still be able to send images using the standard compression method, which will be useful for those who want to save storage space.
+
+
+***
+![Monday's top tech news: Mario's still got a day job](https://cdn.vox-cdn.com/thumbor/vpVcVjgOLKUBbv6b55mGzUsQiRU=/0x0:2160x1440/1200x628/filters:focal(1080x720:1081x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/24428734/Screen_Shot_2023_02_13_at_8.38.37_AM.jpg "Monday's top tech news: Mario's still got a day job")
+
+
+[Monday's top tech news: Mario's still got a day job](https://www.theverge.com/2023/2/13/23597358/february-13-2023-tech-news-liveblog)
+
+
+> Why can't we have both? We've already seen modders swap their iPhone's Lightning port for USB-C, but this YouTuber adds a USB-C port to their iPhone 12 mini while keeping the device's existing Lightning port. The idea of a double-ported iPhone may seem a bit strange, but hey — at least this person can plug in headphones and charge their phone at the same time.
+
+
+***
+![Intel is changing strategy: Prioritizing early releases before hitting performance targets](https://diit.cz/sites/default/files/pat_gelsinger_3.jpg "Intel is changing strategy: Prioritizing early releases before hitting performance targets")
+
+
+[Intel is changing strategy: Prioritizing early releases before hitting performance targets](https://www.world-today-news.com/intel-is-changing-strategy-prioritizing-early-releases-before-hitting-performance-targets/)
+
+
+> Intel Meteor Lake was originally supposed to be a processor with eight large and sixteen small cores (8+16). Then it started to be rumored that Intel will be limited to a 6+16 configuration as part of the increase in yield (the processor tile is supposed to be the premiere of the Intel 4 process). Recently, there has been talk of that Meteor Lake it will probably only come out in the mobile segment and only in the 6+8 configuration. On the other hand, Intel wants to release (this mobile model) in the second half of this year.
+
+
+***
+![Apple iPhone 15 coming soon; here's what we know so far](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/download-14-sixteen_nine.jpg "Apple iPhone 15 coming soon; here's what we know so far")
+
+
+[Apple iPhone 15 coming soon; here's what we know so far](https://www.businesstoday.in/technology/story/apple-iphone-15-coming-soon-heres-what-we-know-so-far-370012-2023-02-13)
+
+
+> Apple's next big launch this year is expected to be the new iPhone 15 series. The rumour mills have started buzzing with tips and leaks. So here's what we know so far iPhone 15 Ultra Apple is expected to launch a new model in the upcoming iPhone 15 lineup. So, along with iPhone 15 and iPhone 15 Pro this time Apple will be launching an iPhone 15 Ultra. It is also expected to be the most expensive iPhone ever, estimated to retail at $1099 from the standard $799. Rear Camera Bump & Round Edges According to a tweet from ShrimpApplePro, the new iPhones will come with a redesigned 48 MP rear camera that will also have a bump.
+
+
+***
+![Nvidia RTX 4070 sample pictured in latest leak of upcoming GPU](https://editors.dexerto.com/wp-content/uploads/2022/10/20/RTX-4070.jpg "Nvidia RTX 4070 sample pictured in latest leak of upcoming GPU")
+
+
+[Nvidia RTX 4070 sample pictured in latest leak of upcoming GPU](https://www.dexerto.com/tech/nvidia-rtx-4070-pictured-leak-2059462/)
+
+
+> Nvidia's upcoming RTX 4070 has finally been photographed, and it looks like the die is approaching release quickly. The RTX 4070 , expected for release in April 2023, has finally been snapped. The appropriately-named MEGAsizeGPU leaked the image of the GPU . The snap-in question is not of the fully-assembled graphics card, but of a GPU die in what appears to be a QA sample. In the image, we see that the graphics card will indeed be using a cut-down version of the RTX 40-series AD104-250 chip.
+
+
+***
+![Samsung aims to use 100% recycled plastic in its smartphones](https://www.sammobile.com/wp-content/uploads/2022/02/Samsung-Galaxy-S22-Recycled-PCM-Material.jpeg "Samsung aims to use 100% recycled plastic in its smartphones")
+
+
+[Samsung aims to use 100% recycled plastic in its smartphones](https://www.sammobile.com/news/samsung-100-recycled-plastic-smartphones-future/)
+
+
+> Earlier this month, Samsung published its earnings guidance for Q4 2022. In line with those numbers, the company has published its final Q4 2022 and FY 2022 results. The company's profit has been the lowest in eight years, and that is due to the continued global economic downturn, rising costs, and lower demand for smartphones […] By Asif Iqbal Shaik 2 weeks ago It has been rumored over the past year that Samsung will exclusively use a Snapdragon processor in the Galaxy S23 series.
+
+
+***
+![an initiation center for young girls opens in Abobo](https://www.linfodrome.com/media/article/images/jpeg/84382-665e80d1-2303-46c3-95c5-b7c659392bc7.jpg "an initiation center for young girls opens in Abobo")
+
+
+[an initiation center for young girls opens in Abobo](https://www.world-today-news.com/an-initiation-center-for-young-girls-opens-in-abobo/)
+
+
+> Stem maker Lab is a workspace for young girls likely to foster female innovation. It allows young girls to engage in computer science, robotics, 3D printing and leadership issues. This structure was set up by the executive director of Dinexafrica, Koné Fognon Maïmouna. The Minister and Chief of Staff to the President of the Republic, Fidèle Sarassoro, believes that this is an initiative that allows former young girl leaders of tomorrow. He also suggests that this initiative will help to somewhat resolve this divide that exists in the field of digital science and technology.
+
+
+***
+![Sebastian Barrotta: The Game Developer and TikTok Effects Creator with a Unique Approach to Digital Content](https://data.ibtimes.sg/en/full/65355/sebastian-barrotta.png "Sebastian Barrotta: The Game Developer and TikTok Effects Creator with a Unique Approach to Digital Content")
+
+
+[Sebastian Barrotta: The Game Developer and TikTok Effects Creator with a Unique Approach to Digital Content](https://www.ibtimes.sg/sebastian-barrotta-game-developer-tiktok-effects-creator-unique-approach-digital-content-69030)
+
+
+> February 13, 2023 17:14 +08 html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd" TikTok has quickly become one of the world's most popular and influential social media platforms. The app's unique format, which focuses on short-form videos, has opened up a new world of possibilities for digital content creators. According to a Search Engine Journal survey, 80% of online consumers today prefer brands that understand how Tiktok works. One of the rising stars in this space is someone who deeply understands how the platform works and can be utilized Sebastian Barrotta .
+
+
+***
+![Realme 10 Malaysia: 90Hz AMOLED screen, 50MP camera and 256GB storage for less than RM1,000](https://soyacincau.com/wp-content/uploads/2023/02/230213-realme-10-malaysia-launch.jpg "Realme 10 Malaysia: 90Hz AMOLED screen, 50MP camera and 256GB storage for less than RM1,000")
+
+
+[Realme 10 Malaysia: 90Hz AMOLED screen, 50MP camera and 256GB storage for less than RM1,000](https://soyacincau.com/2023/02/13/realme-10-malaysia-90hz-amoled-screen-50mp-camera-and-256gb-storage-for-less-than-rm1000/)
+
+
+> Two months after launching the Realme 10 Pro and 10 Pro+ , the cheaper Realme 10 has officially launched in Malaysia. This is Realme's latest sub-RM1,000 smartphone and it goes head-to-head with the Poco X5 and Honor X8a . Realme 10 Malaysia Pricing Realme 10 Malaysia Pre-order Promo The Realme 10 with 8GB RAM and 256GB storage is officially priced at RM999 in Malaysia. Pre-orders will be available starting tomorrow, 14th February until 16th February 2023 and Realme is offering freebies worth up to RM268.
+
+
+***
+![Broadband ISP Virgin Media Business UK Boosting Upload Speeds](https://www.ispreview.co.uk/wp-content/uploads/2022/02/nggallery_import/Virgin-Media-Business-UK-Hitron-CHITA-Router.jpg "Broadband ISP Virgin Media Business UK Boosting Upload Speeds")
+
+
+[Broadband ISP Virgin Media Business UK Boosting Upload Speeds](https://www.ispreview.co.uk/index.php/2023/02/broadband-isp-virgin-media-business-uk-boosting-upload-speeds.html)
+
+
+> Monday, Feb 13th, 2023 (9:13 am) - Score 48 Existing customers Virgin Media Business UK (VMO2), specifically those who take their Voom 600Mbps, 800Mbps and 1Gps service tiers, may be pleased to learn that the provider has today officially confirmed that they're getting a boost to upload speeds – reflecting a '10:1 Download to Upload' speed ratio across all Voom packages. The move won't come as much of a surprise to our readers, because the operator had already informed us last year that they planned to do something like this ( here ) and existing customers had also reported seeing a similar performance uplift on several packages ( here ).
+
+
+***
+![[Object Detection/ Class/ MOT Tracking/ REID/ RTSP]Human&Vehicle AI Analysis Toolbox](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[Object Detection/ Class/ MOT Tracking/ REID/ RTSP]Human&Vehicle AI Analysis Toolbox")
+
+
+[[Object Detection/ Class/ MOT Tracking/ REID/ RTSP]Human&Vehicle AI Analysis Toolbox](https://www.reddit.com/r/Python/comments/1113zmn/object_detection_class_mot_tracking_reid)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Europe sets the 'Artemis 2' mission to reach the moon in 2027](https://img.youm7.com/large/1120151185118583moon-express-1.jpg "Europe sets the 'Artemis 2' mission to reach the moon in 2027")
+
+
+[Europe sets the 'Artemis 2' mission to reach the moon in 2027](https://www.world-today-news.com/europe-sets-the-artemis-2-mission-to-reach-the-moon-in-2027/)
+
+
+> Fatima Shawky Monday, February 13, 2023 10:49 am Europe begins the Artemis mission. Artemiswhich sets a deadline for reaching the moon to prove that NASA and the Europeans are able to compete with other leading countries in the field of space, such as the United States of America, according to the Spanish newspaper 'El Mundo'. And the newspaper indicated that European astronauts could set foot on the moon for the first time, starting in 2027, thanks to the Artemis mission, which is led by NASA agency and its spacecraft or capsule, Orion Orion.
+
+
+***
+![How to Use the New Bing AI Search Engine Powered by ChatGPT](https://www.gizchina.com/wp-content/uploads/images/2023/02/microsoft-bing-ai-chat-gpt-1200x600.jpg "How to Use the New Bing AI Search Engine Powered by ChatGPT")
+
+
+[How to Use the New Bing AI Search Engine Powered by ChatGPT](https://www.gizchina.com/2023/02/13/how-to-use-the-new-bing-ai-search-engine-powered-by-chatgpt/)
+
+
+> ChatGPT did not just come to revolutionize a new internet search experience, it also drew the battle line between giant engines such as Google and Bing. In fact, this is the first time in many years that Google's search engine dominance has seen such a big threat. All thanks to the introduction of OpenAI's ChatGPT. Microsoft actually made a smart move by investing into the new internet sensation so that it can utilize ChatGPT's technology and services in some of its own products and services. Right after investing, Microsoft immediately got to work with the integration of ChatGPT into the Bing Search engine and the Edge Browser.
+
+
+***
+![Samsung products for February 2023 lower prices, drop to IDR 4 million, it's a loss not to buy limited promos](https://bankerandtradesman.com/wp-content/uploads/2023/02/Businesswoman-escaping-falling-icon-percentage.jpg "Samsung products for February 2023 lower prices, drop to IDR 4 million, it's a loss not to buy limited promos")
+
+
+[Samsung products for February 2023 lower prices, drop to IDR 4 million, it's a loss not to buy limited promos](https://www.world-today-news.com/samsung-products-for-february-2023-lower-prices-drop-to-idr-4-million-its-a-loss-not-to-buy-limited-promos/)
+
+
+> BANGKAPOS.COM- A number of Samsung products slashed prices during the Valentine's Day promo given by Samsung. It is known that Samsung provides free price discounts, namely discounts of up to 39 percent and other attractive offers while purchasing Samsung products for a limited time. Unmitigated, several products experienced a price drop that was quite a lot from the usual price, and some even went down by Rp. 4 million rupiah. There are many benefits that you can get when you buy these products directly from the Samsung website while the Valentine promo is in effect.
+
+
+***
+![5 genius things robot vacuums can do in 2023 that'll convince you to save time and go smart](https://cdn.mos.cms.futurecdn.net/5HztDE7KFUL7Jbg3euMSYD-1200-80.jpg "5 genius things robot vacuums can do in 2023 that'll convince you to save time and go smart")
+
+
+[5 genius things robot vacuums can do in 2023 that'll convince you to save time and go smart](https://www.livingetc.com/advice/genius-things-robot-vacuums-can-do)
+
+
+> As with all nascent technology, the earliest robot vacuums were wonderful proof of concept, but an awful lot of trouble for something supposed to make lives easier.  Nowadays, the best robot vacuums are packed full of features that make them a valuable tool in keeping your house dust-and-debris free. And while you'll still need a traditional vacuum to deal with stairs and a deeper clean, a robot vacuum is a must if you have the money. Here are five of the genius features robot vacuums can pack in 2023.
+
+
+***
+![Working at Google: Maps – by Albert Cory](https://i.imgur.com/AoyxWyw.png "Working at Google: Maps – by Albert Cory")
+
+
+[Working at Google: Maps – by Albert Cory](https://exbulletin.com/tech/2043841/)
+
+
+> In the last three episodes, I joined Enterprise and then Ads, sometimes helping them make money with their fists. One of the owned and operated properties I helped him with was Google Maps, working with a monetization team led by Chip Chapin. Maps was my next destination. But first, an interesting (I hope) digression: I was in GWC-1 (near the corner of Rengstorff and Charleston for Google West Campus) when I started using Maps. On occasional walks around the area, during breaks he sees a large group of people hanging out around the door of GWC-3.
+
+
+***
+![BREAKING: Galaxy Z Fold 4 starts getting One UI 5.1 update](https://www.sammobile.com/wp-content/uploads/2022/08/Galaxy-Z-Fold-4-review-27.jpg "BREAKING: Galaxy Z Fold 4 starts getting One UI 5.1 update")
+
+
+[BREAKING: Galaxy Z Fold 4 starts getting One UI 5.1 update](https://www.sammobile.com/news/galaxy-z-fold-4-one-ui-5-1-update-released/)
+
+
+> A few moments ago, Samsung released the One UI 5.1 update to the Galaxy S22 series, bringing One UI 5.1 to older phones earlier than the latest Samsung flagships. Shortly after, the update was also released to the Galaxy Z Flip 4 and the Galaxy Z Fold 4. Now, the update is rolling out to […] By Asif Iqbal Shaik 17 mins ago Samsung debuted One UI 5.1 with the Galaxy S23 series that was unveiled earlier this month. While only a few people have started getting their Galaxy S23 pre-orders delivered, Samsung has started rolling out the One UI 5.
+
+
+***
+![5 applications with the 'Air Drop' feature on Android phones](https://24.ae/images/Articles3/2023213124639295BB.jpg "5 applications with the 'Air Drop' feature on Android phones")
+
+
+[5 applications with the 'Air Drop' feature on Android phones](https://www.world-today-news.com/5-applications-with-the-air-drop-feature-on-android-phones/)
+
+
+> AirDrop is an easy way for Apple to transfer files like documents, photos, and videos wirelessly from one iPhone to another, but unfortunately it can't be used on Android devices. However, there are a number of Airdrop alternatives that you can use to share files with friends, family, and colleagues on Android devices. Here are 5 alternatives to 'Air Drop' that can be used on Android devices, according to the 'Air Drop' website. Slush is on Mail. Launched in 2020, Near Share is the direct equivalent of Apple's AirDrop and works with devices running Android 6.
+
+
+***
+![Google employees criticize Bard's botched announcement](https://www.ghacks.net/wp-content/uploads/2023/02/Google-launches-Bard-ChatGPTs-competitor-–-heres-what-it-looks-like-scaled.jpg "Google employees criticize Bard's botched announcement")
+
+
+[Google employees criticize Bard's botched announcement](https://www.ghacks.net/2023/02/13/google-employees-criticize-bards-botched-announcement)
+
+
+> Several Google employees have criticized the company's decision to announce Bard, a language model optimized for dialog, last week. Bard's announcement and presentation felt rushed. Google and Alphabet CEP Sundar Pichai announced […] Thank you for being a Ghacks reader. The post Google employees criticize Bard's botched announcement appeared first on gHacks Technology News .
+
+
+***
+![Dubai again plans for flying taxi takeoff, this time by 2026](https://scx2.b-cdn.net/gfx/news/hires/2023/dubai-again-plans-for.jpg "Dubai again plans for flying taxi takeoff, this time by 2026")
+
+
+[Dubai again plans for flying taxi takeoff, this time by 2026](https://techxplore.com/news/2023-02-dubai-flying-taxi-takeoff.html)
+
+
+> A man experiences a driving simulator of a flying taxi at the Dubai Roads and Transportation Authority's stand during the World Government SummitWLD in Dubai, United Arab Emirates, Monday, Feb 13, 2023. Dubai again is planning for the takeoff of flying taxis in this futuristic city-state on the Arabian Peninsula, offering its firmest details yet Monday for a pledged launch by 2026. Credit: AP Photo/Kamran Jebreili Dubai again is planning for the takeoff of flying taxis in this futuristic city-state on the Arabian Peninsula, offering its firmest details yet Monday for a pledged launch by 2026.
+
+
+***
+![Google Search boss says AI chatbots can give ‘convincing but completely fictitious' answers](https://www.financialexpress.com/wp-content/uploads/2023/02/GOOGLECHAT1.jpg "Google Search boss says AI chatbots can give ‘convincing but completely fictitious' answers")
+
+
+[Google Search boss says AI chatbots can give ‘convincing but completely fictitious' answers](https://www.financialexpress.com/life/technology-google-search-boss-says-ai-chatbots-can-give-convincing-but-completely-fictitious-answers-2980018/)
+
+
+> The head of Google's search division has warned that AI chatbots can provide deceptive and misleading responses, according to a recent report. Prabhakar Raghavan, senior Google VP and head of Search, while talking to German newspaper Welt Am Sonntag (via Business Insider) said that AI bots can give convincing but inaccurate answers. He told the German newspaper that this type of artificial intelligence we are discussing can sometimes result in what is referred to as 'hallucination.' 'This is then expressed in such a way that a machine provides a convincing but completely fictitious answer.
+
+
+***
+![Toner recommendations for oily and acne-prone skin that are safe](https://asset-a.grid.id/crop/0x0:0x0/x/photo/2023/02/13/satisfied-female-model-without-m-20230213111629.jpg "Toner recommendations for oily and acne-prone skin that are safe")
+
+
+[Toner recommendations for oily and acne-prone skin that are safe](https://www.world-today-news.com/toner-recommendations-for-oily-and-acne-prone-skin-that-are-safe/)
+
+
+> photo/2023/02/13/satisfied-female-model-without-m-20230213111629.jpg?resize=360%2C240&ssl=1" alt="(ilustrasi) Rekomendasi Toner Untuk Kulit Berminyak dan Berjerawat yang Aman" data-recalc-dims="1"/> (illustration) Toner recommendations for oily and acne-prone skin that are safe (freepik) Stylo Indonesia – Toner is one of the skincare series that is usually used, one of which is for those with oily and acne-prone skin Toner is one of the important facial treatments used to make skin hydrated, including for oily and acne-prone skin.
+
+
+***
+![Bomb threat at Google offices in Pune, caller detained in Hyderabad: Police](https://i.imgur.com/AoyxWyw.png "Bomb threat at Google offices in Pune, caller detained in Hyderabad: Police")
+
+
+[Bomb threat at Google offices in Pune, caller detained in Hyderabad: Police](https://exbulletin.com/tech/2043822/)
+
+
+> Late Sunday, the Pune Police Team and the Bomb Detection and Disposal Squad (BDDS) took action after receiving a call about a suspected explosive device at Google's offices in Koregaon Park's commercial complex. Police officials said late Monday morning that a man had been detained in Hyderabad for allegedly being intoxicated and making a phone call that later turned out to be a hoax. Also Read: A Strange Twist on the SpiceJet Hoax: A Trip to Manali, Two New Female Friends, and a Ticketing Agent Pune Police said they received information about the call from the Google office in Mumbai around 11pm on Sunday.
+
+
+***
+![Workforce Singapore, SFA Launches Fintech Talent Programme](https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/02/Workforce-Singapore-SFA-Launches-Fintech-Talent-Programme.png?x64868 "Workforce Singapore, SFA Launches Fintech Talent Programme")
+
+
+[Workforce Singapore, SFA Launches Fintech Talent Programme](https://fintechnews.sg/69702/fintech/workforce-singapore-sfa-launches-fintech-talent-programme/)
+
+
+> Workforce Singapore (WSG) has partnered with Singapore Fintech Association (SFA) to launch a Fintech Talent Programme (FTP) . The Attach-and-Train Career Conversion Programme (CCP) aims to re-skill mid-career individuals to develop capabilities in key technology roles within the fintech industry. Through the programme, individuals are provided with structured training and work attachments prior to job placement with participating companies over a nine-month duration. Participants will have the chance to learn the fundamentals of Python programming, software testing, Scrum and quality assurance.
+
+
+***
+![Meet Shekel Mobility, the fintech powering car dealerships in Africa.](https://lh6.googleusercontent.com/LXOwabVdHtbx3hA2KcaNuDuAkV2gPni2poVNK15DYgAJ2iPpo6198jgGhtFrQGT4FZisdYFjv5o_9z--K91gIsoidJ6ZYpB8N1JmGAXzapHQ7tfh9fiUEI644QcNf2o2L0tv6z_TmX43VK_iQz0r-Q "Meet Shekel Mobility, the fintech powering car dealerships in Africa.")
+
+
+[Meet Shekel Mobility, the fintech powering car dealerships in Africa.](https://techcabal.com/2023/02/13/meet-shekel-mobility-the-fintech-powering-car-dealerships-in-africa/)
+
+
+> Valentine Mayaki: Chief Technology Officer (CTO), Sanmi Olukanmi: Chief Executive Officer (CEO),  and Benjamen Oladokun: Chief Business Officer (CBO) Small automobile dealerships litter the roads from Berger to Ajah in the city of Lagos and other major cities in Nigeria and Africa. Compared to its population of over a billion, the continent has a rather poor automotive industry . 'The motorization rate on the continent is only 44 vehicles per 1,000 inhabitants. This is far below the global average of 180 vehicles per 1,000 inhabitants'.
+
+
+***
+![[D] Incorporating "No Maintenance" Examples into a Maintenance Dataset in ML](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[D] Incorporating "No Maintenance" Examples into a Maintenance Dataset in ML")
+
+
+[[D] Incorporating "No Maintenance" Examples into a Maintenance Dataset in ML](https://www.reddit.com/r/MachineLearning/comments/1113hcs/d_incorporating_no_maintenance_examples_into_a)
+
+
+> Currently, I am working on a machine learning project that aims to extract decision logic in a maintenance dataset. The challenge I am facing is that part of the dataset has no maintenance decision yet. For instance, consider the following example where a certain part and its sub-parts have been measured and graded yearly for the past 5 years, but no maintenance has been planned yet: timestamp measurements grades maintenance in 5 years ago X Z >5 years 4 years ago X Z >4 years 3 years ago X Z >3 years 2 years ago X Z >2 years 1 years ago X Z >1 years 0 years ago X Z >0 years With these underlying data, I cannot learn exactly when maintenance was required.
+
+
+***
+![Just purchased a new MacBook 14" M1 Pro](https://images.macrumors.com/social/?t=2380595&v=6 "Just purchased a new MacBook 14" M1 Pro")
+
+
+[Just purchased a new MacBook 14" M1 Pro](https://forums.macrumors.com/threads/just-purchased-a-new-macbook-14-m1-pro.2380595/)
+
+
+> Nov 14, 2007 317 271 London I haven't had a MacBook for years and was looking fwd to one with the new M architecture A UK retailer discounted its M1 Pro 14" Pro when the new one came out, I got a further 15% off by buying a display model. They look after their display models well, not one mark, fully boxed, 2 year guarantee. I also think most people browsing in the shop tend to play on the air or basic pro, the 14 and 16 M1 Pro are a bit of a minority pursuit at a mostly clothing and fashion department store So Basically I have bought a "new" 16gb, 512gb, M1 Pro, 14" MacBook for the price of a new 8bg, 256gb, M2, 13" MacBook In addition it has a SD card slot and 3 USB-C, which I need as I am a photo editor, without having to carry around dongles.
+
+
+***
+![One UI 5.1 update coming to older Samsung flagships next week, carrier says](https://fdn.gsmarena.com/imgroot/news/23/02/samsung-one-ui-51-release-schedule/-952x498w6/gsmarena_00.jpg "One UI 5.1 update coming to older Samsung flagships next week, carrier says")
+
+
+[One UI 5.1 update coming to older Samsung flagships next week, carrier says](https://www.gsmarena.com/one_ui_51_update_is_coming_older_samsung_flagships_next_week-news-57529.php)
+
+
+> Canadian MVNO carrier Fido revealed a preliminary One UI 5.1 update schedule for older Samsung flagships on its network. The Galaxy S22 series , Galaxy Z Fold4 , Galaxy Z Flip4 are scheduled to receive the big Android 13-based update on February 22. The carriers specific update also includes a February SMR (Security Maintenance Release) patch. Galaxy S22 series phones are getting updated to One UI 5.1 on February 22 Galaxy Z Fold4, Z Flip4 are getting the One UI 5.1 update next week One UI 5.
+
+
+***
+![Misuse of Data Will Stop After Bill is Enacted: Minister Cautions on Sharing Phone Nos. With Retailers](https://images.news18.com/ibnlive/uploads/2023/02/data-protection-167627641616x9.jpg "Misuse of Data Will Stop After Bill is Enacted: Minister Cautions on Sharing Phone Nos. With Retailers")
+
+
+[Misuse of Data Will Stop After Bill is Enacted: Minister Cautions on Sharing Phone Nos. With Retailers](https://www.news18.com/news/tech/misuse-of-data-will-stop-after-bill-is-enacted-minister-cautions-on-sharing-phone-nos-with-retailers-7067497.html)
+
+
+> Union Minister of State for Electronics and Information Technology Rajeev Chandrasekhar has urged people to not share their mobile numbers with a retailer if there is no 'justifiable reason" after a Twitter user shared his experience at Delhi's IGI Airport on social media. Dinesh S Thakur, founder of an independent funding organisation, tweeted that when he went to buy a pack of gum at one of the bookstores at the IGI airport, he was asked to share his phone number. When he questioned the shopkeeper for the need to share his phone number, Thakur was told that it was for 'security purposes".
+
+
