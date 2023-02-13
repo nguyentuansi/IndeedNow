@@ -17568,3 +17568,627 @@
 > Conversational artificial intelligence (AI) space is brimming with a lot of action these days, thanks to the popularity of Microsoft-backed ChatGPT. OpenAI's ChatGPT has kicked off an innovation race that will accelerate technological developments much faster than before, says Adit Jain, co-founder and CEO of Leena AI, which announced the release of an integration with GPT-3 (the backbone of ChatGPT) with its AI tool to enhance end-user experience. In simple terms, this integration will help reduce the number of unanswered employee queries, improving the overall end-user experience of interacting with the Leena AI dashboard.
 
 
+***
+![Indian fintech firm sees PH market growth potential](https://business.inquirer.net/files/2020/01/31f5731081d2d2616627966679d27792d0190221-620x413.jpg "Indian fintech firm sees PH market growth potential")
+
+
+[Indian fintech firm sees PH market growth potential](https://business.inquirer.net/386308/indian-fintech-firm-sees-ph-market-growth-potential)
+
+
+> Financial technology firm Intellect Design Arena expects the Philippine market for digital financial services and solutions to continue growing this year, amid rising demand from local financial institutions and the untapped potential of the unbanked sector. Rajesh Saxena, CEO of the Global Consumer Banking arm of the publicly-listed company, said that most Philippine-based banks today are looking at digital offerings, especially on ways on how to attract customers through entirely digital means.
+
+
+***
+![Autonomous shuttle trial under way in Wellington](https://d2xgqyuql1olth.cloudfront.net/assets/Uploads/2023-02/ohmio-wellington-web.jpeg "Autonomous shuttle trial under way in Wellington")
+
+
+[Autonomous shuttle trial under way in Wellington](https://www.nbr.co.nz/tech/shuttle-story/)
+
+
+> Local manufacturer Ohmio was confirmed as one of 24 recipients in the first round of Waka Kotahi's Hoe ki angitū-Innovation Fund. The shuttle is available to ride on Wellington's waterfront. Transport agency Waka Kotahi is currently investigating whether autonomous shuttles could be added to the country's public transport network. A vehicle produced by New Zealand manufacturer Ohmio has been placed on Wellington's waterfront today, in an early trial for curious passers-by wanting to Want to read more? It's easy.
+
+
+***
+![Patrick Mahomes battles through ankle injury to lead Chiefs to another Super Bowl title](https://www.nydailynews.com/resizer/lHW2sVa0z6Kl3aLnclA_QHaDEgo=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/YYIZUV6FBNFTTCTE3UNL6P7NRI.jpg "Patrick Mahomes battles through ankle injury to lead Chiefs to another Super Bowl title")
+
+
+[Patrick Mahomes battles through ankle injury to lead Chiefs to another Super Bowl title](https://newsakmi.com/../usnews/patrick-mahomes-battles-through-ankle-injury-to-lead-chiefs-to-another-super-bowl-title)
+
+
+> Super Bowl LVII against the Eagles marked the third time Patrick Mahomes and the Chiefs have played in the big game in four years. Mahomes was also looking for his second championship after winning in 2019. Bad ankle and all Mahomes gutted out a victory as Kansas City won its third-ever Lombardi Trophy. The Chiefs defeated the Eagles 38-35 as Mahomes and his counterpart, Eagles quarterback Jalen Hurts, put on a show in front of thousands in attendance and millions watching at home. He finished 21 of 27 for 182 yards with three touchdowns to win his second Super Bowl MVP.
+
+
+***
+![China Say It Is Not Restricting Airlines From Selling Low Fares](https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2022/12/china-eastern.png "China Say It Is Not Restricting Airlines From Selling Low Fares")
+
+
+[China Say It Is Not Restricting Airlines From Selling Low Fares](https://newsakmi.com/travel-news/china-say-it-is-not-restricting-airlines-from-selling-low-fares/)
+
+
+> It has been reported recently that the State-owned Assets Supervision and Administration Commission (SASAC) of China's State Council has imposed a low-price restriction on seven Chinese state-owned airlines under its jurisdiction, requiring these airlines to not sell tickets at a price lower than 40% of the full price on their major routes with larger market share. There is no official relevant document on the SASAC official website. However, according to Caixin, a well-known Chinese financial media, it learned from multiple airlines and industry insiders that the notice was true, and it has been notified verbally to the airlines.
+
+
+***
+![Yep, Rihanna's Pregnant! News Confirmed Right After Her High-Flying Super Bowl Halftime Show](https://tvline.com/wp-content/uploads/2023/02/Rihanna-Super-Bowl.jpg?w=1024 "Yep, Rihanna's Pregnant! News Confirmed Right After Her High-Flying Super Bowl Halftime Show")
+
+
+[Yep, Rihanna's Pregnant! News Confirmed Right After Her High-Flying Super Bowl Halftime Show](https://newsakmi.com/news/entertainment/tv-news/yep-rihannas-pregnant-news-confirmed-right-after-her-high-flying-super-bowl-halftime-show/)
+
+
+> Rihanna is expecting her second child with rapper A$AP Rocky, it was confirmed not long after the pop singer delivered a high-flying performance at this year's Super Bowl halftime show. In front of a State Farm Stadium crowd of 72,000 (plus tens of millions watching at home), Rihanna served up a 13-minute medley of songs midway through Sunday night's Chiefs-Eagles championship match-up — oftentimes while standing on a small platform that was suspended high above the playing field. At times, especially toward the end of the performance, it appeared that Rihanna was pointedly revealing a baby bump, though if that was intended as an 'announcement,' it was far less than Beyonce at the 2011 VMAs.
+
+
+***
+![Rihanna Is Pregnant With Her Second Child, Her Rep Confirms, After Super Bowl Halftime Show](https://hips.hearstapps.com/vidthumb/images/2019-elle-songassociation-ep93-lewiscapaldi-jp-cm-kk-v3-ap-v2-1575927996.jpg?crop=1xw:1xh;center,top&resize=480:* "Rihanna Is Pregnant With Her Second Child, Her Rep Confirms, After Super Bowl Halftime Show")
+
+
+[Rihanna Is Pregnant With Her Second Child, Her Rep Confirms, After Super Bowl Halftime Show](https://newsakmi.com/life-style/fashion-news/rihanna-is-pregnant-with-her-second-child-her-rep-confirms-after-super-bowl-halftime-show/)
+
+
+> Yes, Rihanna really did just confirm her second pregnancy during her 2023 Super Bowl Halftime Show. Her rep confirmed the news to The Hollywood Reporter shortly after the performance. Viewers initially began to speculate on Twitter whether the new mother is expecting another child. This content is imported from twitter. You may be able to find the same content in another format, or you may be able to find more information, at their web site. This content is imported from twitter. You may be able to find the same content in another format, or you may be able to find more information, at their web site.
+
+
+***
+![Retired Tom Brady tweets ‘I'm not sure what to do with my hands' GIF during Super Bowl](https://images.mktw.net/im-723209/social "Retired Tom Brady tweets ‘I'm not sure what to do with my hands' GIF during Super Bowl")
+
+
+[Retired Tom Brady tweets ‘I'm not sure what to do with my hands' GIF during Super Bowl](https://newsakmi.com/news/finance/stock-market/retired-tom-brady-tweets-im-not-sure-what-to-do-with-my-hands-gif-during-super-bowl/)
+
+
+> Tom Brady is still adjusting to retirement — but at least he's got a sense of humor. The now-retired football legend and soon-to-be Fox Sports commentator fired off a pretty funny tweet during the Super Bowl on Sunday night, suggesting the seven-time Super Bowl winner (out of nine Super Bowl appearances) was at a loss for what to do with himself in the fairly unfamiliar position of 'spectator.' Brady, 45, tweeted a GIF from the 2006 sports comedy 'Talladega Nights: The Ballad of Ricky Bobby' that stars Will Ferrell as a NASCAR racer.
+
+
+***
+![Embraer Bandeirante Celebrates 50 Years Of Connecting Communities](https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2023/02/embraer-emb-110-bandeirante.jpeg "Embraer Bandeirante Celebrates 50 Years Of Connecting Communities")
+
+
+[Embraer Bandeirante Celebrates 50 Years Of Connecting Communities](https://newsakmi.com/travel-news/embraer-bandeirante-celebrates-50-years-of-connecting-communities/)
+
+
+> On February 9th, 1973, the first Embraer EMB 110 was delivered to the Brazilian Air Force. Fifty years later, the EMB 110 is still going strong, and Embraer has developed into one of the major aircraft manufacturers of both civil and military aircraft in the world today. That first delivery happened at Embraer's factory in São José dos Campos, around 100 kilometers (62 miles) from the bustling metropolis of São Paulo. The facilities have grown exponentially in the ensuing 50 years and today house the production of the Embraer family of regional E-jets, including the latest E195-E2 .
+
+
+***
+![Japan: SMBC to Introduce All-in-One Payments Card](https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Fujiyoshida-Japan-david-edelstein-unsplash.jpg "Japan: SMBC to Introduce All-in-One Payments Card")
+
+
+[Japan: SMBC to Introduce All-in-One Payments Card](https://www.crowdfundinsider.com/2023/02/202410-japan-smbc-to-introduce-all-in-one-payments-card)
+
+
+> SMBC has announced the launch in March 2023 of 'Olive', an all-in-one card 'that combines a Sumitomo Mitsui Banking account, credit, debit, and point payments.' It also provides access to 'an SBI Securities account within the same app (Sumitomo Mitsui Financial Group took a 10% stake in SBI Holdings in mid-2022), and to a variety of insurance providers through the insurance portal launched by Sumitomo Mitsui Cards at the end of last year (Sumitomo Life, Mitsui Life, Mitsui Direct, SBI Insurance, Lifenet, etc.
+
+
+***
+![Sheryl Lee Ralph Sings ‘Lift Every Voice & Sing' in Fiery-red Harbison Studio Jumpsuit for Super Bowl 2023](https://wwd.com/wp-content/uploads/2023/02/GettyImages-1465404589.jpg?w=197 "Sheryl Lee Ralph Sings ‘Lift Every Voice & Sing' in Fiery-red Harbison Studio Jumpsuit for Super Bowl 2023")
+
+
+[Sheryl Lee Ralph Sings ‘Lift Every Voice & Sing' in Fiery-red Harbison Studio Jumpsuit for Super Bowl 2023](https://newsakmi.com/life-style/fashion-news/sheryl-lee-ralph-sings-lift-every-voice-sing-in-fiery-red-harbison-studio-jumpsuit-for-super-bowl-2023/)
+
+
+> Sheryl Lee Ralph took to the field to sing 'Lift Every Voice and Sing' on Sunday in Glendale, Arizona, at the 2023 Super Bowl , where the Philadelphia Eagles and the Kansas City Chiefs are competing for the championship title. Ralph took a bold, bright approach to color for her look. The Emmy-winning actress and singer wore a custom red jumpsuit with a strapless silhouette, black bralette cups, voluminous balloon sleeves and a statement train by Harbison Studio. She complemented the look with red platform peep-toe heels and accessorized with jewelry from Nikos Koulis.
+
+
+***
+![Chris Stapleton Sings National Anthem at Super Bowl — What Did You Think?](https://www.tvinsider.com/wp-content/uploads/2023/02/super-bowl-chris-stapleton-1014x570.jpg "Chris Stapleton Sings National Anthem at Super Bowl — What Did You Think?")
+
+
+[Chris Stapleton Sings National Anthem at Super Bowl — What Did You Think?](https://newsakmi.com/../../entertainment/tv-news/chris-stapleton-sings-national-anthem-at-super-bowl-what-did-you-think)
+
+
+> Sheryl Lee Ralph, Babyface, and Chris Stapleton helped kick off in the 2023 Super Bowl. After resounding performances of 'America the Beautiful' and 'Lift Every Voice and Sing' from Babyface and Ralph, the country music crooner took to the field to perform 'The Star-Spangled Banner.' And Stapleton's Super Bowl national anthem was one for the books. Stapleton is the first solo male artist to perform the national anthem at the Super Bowl since Luke Bryan in 2017. Joining him as the sign language performer was Oscar-winner Troy Kotsur, who won Best Supporting Actor for CODA in 2021, making him the first deaf male actor to win the category.
+
+
+***
+![When Fortune Abandons Developers](https://external-preview.redd.it/ZZBEru8hXY2YJ_rAKt8HyTr_akxyPwwO0t76qLLTDo0.jpg?auto=webp&v=enabled&s=2a11bd841772038698adc7b46b225a295abaeaac "When Fortune Abandons Developers")
+
+
+[When Fortune Abandons Developers](https://www.reddit.com/r/programming/comments/110yfwj/when_fortune_abandons_developers)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Tesla Competitor Funds Super Bowl Ad Calling For NHTSA To Ban FSD](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/2023-02-12_18-52-26.png?itok=vUMdACsW "Tesla Competitor Funds Super Bowl Ad Calling For NHTSA To Ban FSD")
+
+
+[Tesla Competitor Funds Super Bowl Ad Calling For NHTSA To Ban FSD](https://www.zerohedge.com/technology/tesla-competitor-funds-super-bowl-ad-calling-nhtsa-ban-fsd)
+
+
+> Dan O'Dowd, a self-described billionaire and founder of  Green Hills Software , a privately-owned company that makes software such as automated driving systems, has spent several million dollars to fund a Super Bowl video advertisement against Tesla's Full Self-Driving (FSD) Beta.  The 30-second video shows a Tesla Model 3 on FSD Beta hitting a dummy child during a test, swerving into oncoming traffic, hitting a dummy baby in a stroller, and ignoring stopped school buses.  O'Dowd tweeted the video ad right before the Super Bowl.
+
+
+***
+![It's 2030, And Robots Have More Rights Than You Do...](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/2023-02-12_11-50-30.jpg?itok=9ZceWBCx "It's 2030, And Robots Have More Rights Than You Do...")
+
+
+[It's 2030, And Robots Have More Rights Than You Do...](https://www.zerohedge.com/technology/its-2030-and-robots-have-more-rights-you-do)
+
+
+> Authored by Mark Jeftovic via BombThrower.com, Ruminating over our robot overlords and the missing scenario Now that  ChatGPT  has exploded onto the stage, there is renewed hype around Artificial Intelligence (AI). Whenever AI captures the public imagination, we are subjected to unrestrained conjectures around how it will inevitably take over the future and change our lives. We're led to believe that AI will usher an era of hyper-intelligent overlords, so far advanced beyond our own coarse and analog cognitive skills that the existential question of the future will center around: how much power or rights do we confer on these beings? will they act benevolently or malevolently toward us? ​ But these questions presuppose a core assumption around AI that everybody agrees isn't true now but will inevitably become true in the future – after a few more iterations of Moore's Law… That's the idea that AI will achieve  general  artificial intelligence, and with that is implied some degree  sentience  (otherwise there is nothing to give any rights  to ).
+
+
+***
+![Practical parsing with Flex and Bison](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Practical parsing with Flex and Bison")
+
+
+[Practical parsing with Flex and Bison](https://www.reddit.com/r/programming/comments/110y4fg/practical_parsing_with_flex_and_bison)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Digital Banking: Nubank Announces Management Changes in Nu Colombia](https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Nubank_Image_02.jpg "Digital Banking: Nubank Announces Management Changes in Nu Colombia")
+
+
+[Digital Banking: Nubank Announces Management Changes in Nu Colombia](https://www.crowdfundinsider.com/2023/02/202416-digital-banking-nubank-announces-management-changes-in-nu-colombia)
+
+
+> Nu Colombia, Nubank's (NYSE: NU) subsidiary in the country, announces that Catalina Breton, who has served as General Manager for the past 4 years, will be 'stepping down from her role in the upcoming weeks to focus on personal projects.' Breton will be working 'with the team in the transition in the coming weeks while the company conducts a market and internal search for the position.' Cristina Junqueira, co-founder and Chief Growth Officer of Nubank, who 'oversees the operations in the three countries the company operates, will continue to be involved with Nu Colombia local team operations.
+
+
+***
+![Exclusive: South Korea aims to join AI race as startup Rebellions launches new chip](https://d.ibtimes.co.uk/en/full/1711600/ai-chip-startup-rebellions-seongnam.jpg "Exclusive: South Korea aims to join AI race as startup Rebellions launches new chip")
+
+
+[Exclusive: South Korea aims to join AI race as startup Rebellions launches new chip](https://www.ibtimes.co.uk/exclusive-south-korea-aims-join-ai-race-startup-rebellions-launches-new-chip-1712666)
+
+
+> AI chip startup Rebellions co-founder and chief executive Park Sunghyun shows off an printed circuit board including the latest ATOM chip at the company headquarters in Seongnam, South Korea February 2023. Courtesy of Rebellions/Handout via REUTERS. Reuters South Korean startup Rebellions Inc launches an artificial intelligence (AI) chip on Monday, racing to win government contracts as Seoul seeks a place for local companies in the exploding AI industry. The company's ATOM chip is the latest Korean attempt to challenge global leader Nvidia Corp in the hardware that powers the potentially revolutionary AI technology.
+
+
+***
+![OneFlow v0.9.0 Came Out!——A Distributed Deep Learning Framework](https://external-preview.redd.it/H_1FXQdEQaqlDDxre-FOnpMI-rTLMObGwE1C4TqEdU0.jpg?auto=webp&v=enabled&s=b42afa16495f6e39ed6e9f940523c37c5d8ec89d "OneFlow v0.9.0 Came Out!——A Distributed Deep Learning Framework")
+
+
+[OneFlow v0.9.0 Came Out!——A Distributed Deep Learning Framework](https://www.reddit.com/r/programming/comments/110wp4c/oneflow_v090_came_outa_distributed_deep_learning)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Samsung unveils eco-friendly accessories for Galaxy phones and wearables in Korea](https://www.sammobile.com/wp-content/uploads/2023/02/Samsung-Eco-Friendly-Accessories-Slash-B-Slash.jpg "Samsung unveils eco-friendly accessories for Galaxy phones and wearables in Korea")
+
+
+[Samsung unveils eco-friendly accessories for Galaxy phones and wearables in Korea](https://www.sammobile.com/news/samsung-eco-friendly-accessories-galaxy-phones-wearables-korea/)
+
+
+> Last updated: February 13th, 2023 at 03:06 UTC+01:00 Samsung has been trying to make its products eco-friendly in multiple ways . Apart from improving its entire supply chain to make it friendlier to the environment , the company has also introduced eco-friendly accessories for its mobile devices and portable projectors. Some such eco-friendly accessories are being displayed in South Korea. Samsung has tied up with Slash B Slash, an accessory maker, to launch eco-friendly accessories for Galaxy smartphones, Galaxy wearables, and The Freestyle projector.
+
+
+***
+![Team White Chocolate sweeps latest Splatoon 3 Splatfest](https://gonintendo.com/attachments/image/23161/file/medium-dc0e99ac1528bbb9d5e25e3953bd77c5.jpg "Team White Chocolate sweeps latest Splatoon 3 Splatfest")
+
+
+[Team White Chocolate sweeps latest Splatoon 3 Splatfest](https://gonintendo.com/contents/16175-team-white-chocolate-sweeps-latest-splatoon-3-splatfest)
+
+
+> The latest Splatoon 3 Splatfest has come to a close after yet another intense battle. The winner this time around is Team White Chocolate, which secured a clean sweep over Team Milk Chocolate and Team Dark Chocolate. I have to say, this is a result I never expected to see! Remember, be sure to show your Super Sea Snails to Murch! Here's how much you get: Fan - 2 snails (+1 win bonus) Fiend - 3 snails (+2) Defender - 7 snails (+2) Champion - 13 snails (+3) Ruler and above - 21 snails (+3) modal#open commentUpvoteInfoModal.
+
+
+***
+![EEVE says its robot remains unchallenged by Chinese imitator](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/eeve-little-robot.jpg "EEVE says its robot remains unchallenged by Chinese imitator")
+
+
+[EEVE says its robot remains unchallenged by Chinese imitator](https://roboticsandautomationnews.com/2023/02/13/eeve-says-its-robot-remains-unchallenged-by-chinese-imitator/60206/)
+
+
+> A Belgian robotics startup called EEVE says a Chinese company has been trying to copy its little helper robot but has so far failed to replicate its quality. EEVE has built a robot it calls Willow (main picture), which mows the lawn, shreds and collects leaves, and can also be utilised as a security guard at night. EEVE says it 'continues to lead the way' in the world of robotics with this 'ground-breaking vision-only robot'. The company claims to be the first and only one to develop a robot of this kind, but it attracted the attention of a prominent Chinese robot manufacturer called Worx.
+
+
+***
+![China's spy balloon commotion dismantled, contains this technology](https://awsimages.detik.net.id/visual/2023/02/08/gambar-yang-disediakan-oleh-angkatan-laut-as-ini-menunjukkan-para-pelaut-yang-ditugaskan-ke-grup-pembuangan-persenjataan-peled_169.jpeg?w=650?w=650 "China's spy balloon commotion dismantled, contains this technology")
+
+
+[China's spy balloon commotion dismantled, contains this technology](https://www.world-today-news.com/chinas-spy-balloon-commotion-dismantled-contains-this-technology/)
+
+
+> Diamond Rakhmayanti Dewi CNBC Indonesia Tech Monday, 13/02/2023 07:05 WIB Jakarta, CNBC Indonesia – Recently there was a commotion in the case of a Chinese balloon allegedly containing an antenna as a spy. The balloon aired in the skies of the United States for days, before finally being shot down by a US military fighter jet. According to the US State Department, the balloon contains multiple antennas capable of gathering US intelligence signals. So far, findings suggest the balloon is linked to the Chinese military.
+
+
+***
+![Uremia Facts, Conditions When Kidneys Are Severely Damaged](https://pc.watch.impress.co.jp/img/pcw/list/1478/000/01.jpg "Uremia Facts, Conditions When Kidneys Are Severely Damaged")
+
+
+[Uremia Facts, Conditions When Kidneys Are Severely Damaged](https://www.world-today-news.com/uremia-facts-conditions-when-kidneys-are-severely-damaged/)
+
+
+> The kidney is an organ that functions as a body filter, which removes waste and harmful substances that have the potential to pass through it. The waste normally filtered by the kidneys is called urea. When the kidneys are not working properly, waste can back up into the bloodstream and cause it to build up there. This buildup of wastes in the blood causes uremia. Uremia means urine in the blood, and it refers to the accumulated effect of waste products in the bloodstream. People with uremia usually have protein, creatinine, and other substances in their blood.
+
+
+***
+![Megan Fox deletes Instagram account, allegedly broke up with machine gun Kelly](https://awsimages.detik.net.id/api/wm/2022/11/02/megan-fox_169.png?wid=54&w=650&v=1&t=jpeg "Megan Fox deletes Instagram account, allegedly broke up with machine gun Kelly")
+
+
+[Megan Fox deletes Instagram account, allegedly broke up with machine gun Kelly](https://www.world-today-news.com/megan-fox-deletes-instagram-account-allegedly-broke-up-with-machine-gun-kelly/)
+
+
+> Jakarta – Megan Fox suddenly deleted her personal Instagram account after hinting that she and her boyfriend, Machine Gun Kelly, were separating. Megan Fox herself was previously proposed by Machine Gun Kelly in 2022. Reporting from People, the 36-year-old actress chose to delete her Instagram account after sharing a post indicating her breakup with Machine Gun Kelly. In this upload, Megan Fox shows off a series of photos of herself and a video of an envelope being burned. The post was later captioned with lyrics from Beyonce's 2016 album Lemonade.
+
+
+***
+![5 things you can disable to speed up your Android phone](https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1488/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fandroidworld.nl%2Fimages%2F2023-02%2Fmobiele-data-63e8bf0c732f5.jpg "5 things you can disable to speed up your Android phone")
+
+
+[5 things you can disable to speed up your Android phone](https://www.world-today-news.com/5-things-you-can-disable-to-speed-up-your-android-phone/)
+
+
+> Don't have a very good data plan or is your phone empty quickly? You can simply turn off various Android settings that will allow your phone to function better in terms of data usage and battery life. There are quite a few settings that you don't really need, but that are set in a certain way by default. We name five. Turn off mobile data when on WiFi If you're on WiFi and it's firmly in its shoes, why still keep mobile data? It is often set that mobile data is always active, while in 99 percent of cases this is not necessary at all.
+
+
+***
+![create GUI in Python using Tkinter](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "create GUI in Python using Tkinter")
+
+
+[create GUI in Python using Tkinter](https://www.reddit.com/r/programming/comments/110wc42/create_gui_in_python_using_tkinter)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![The Saga](https://pc.watch.impress.co.jp/img/pcw/list/1478/000/01.jpg "The Saga")
+
+
+[The Saga](https://www.world-today-news.com/the-saga-safe-stadium-will-be-reinforced-by-atletico-de-sl-vs-america/)
+
+
+> In order to continue offering the families of Potosí that come to the 'Alfonso Lastras Ramírez' stadium, the conditions of security and public protection, and with this that San Luis Potosí continues as an example at the national level as it is a place that ponders social well-being, The Secretary of Security and Citizen Protection of the State (SSPCE), confirmed that a greater number of security, rescue and emergency personnel will be assigned to the next match between Atlético de San Luis and América, this Tuesday, February 14 at 9:00 p.
+
+
+***
+![ANDREW PIERCE: Healthy debate is off-limits with pro-trans activists](https://iknowallnews.com/wp-content/uploads/2019/11/cropped-ser7-32x32.gif "ANDREW PIERCE: Healthy debate is off-limits with pro-trans activists")
+
+
+[ANDREW PIERCE: Healthy debate is off-limits with pro-trans activists](https://iknowallnews.com/lifestyle/andrew-pierce-healthy-debate-is-off-limits-with-pro-trans-activists)
+
+
+> ANDREW PIERCE: Healthy debate is off-limits with pro-trans activists, but a few politicians are questioning some of their more extreme claims Senior politicians in England are finally questioning some of the more extreme claims of the radical pro-trans lobby. Not so their Celtic cousins. Like Nicola Sturgeon in her Scottish fiefdom, the Welsh Assembly's Labour government takes furious umbrage at anyone who dares to question plans to make it easier for youngsters to transition to the opposite sex.
+
+
+***
+![‘Creed III' Super Bowl Trailer: Michael B. Jordan and Jonathan Majors Face Off in Dodger Stadium](https://iknowallnews.com/wp-content/uploads/2019/11/cropped-ser7-32x32.gif "‘Creed III' Super Bowl Trailer: Michael B. Jordan and Jonathan Majors Face Off in Dodger Stadium")
+
+
+[‘Creed III' Super Bowl Trailer: Michael B. Jordan and Jonathan Majors Face Off in Dodger Stadium](https://iknowallnews.com/lifestyle/creed-iii-super-bowl-trailer-michael-b-jordan-and-jonathan-majors-face-off-in-dodger-stadium/)
+
+
+> Home » Lifestyle » ‘Creed III' Super Bowl Trailer: Michael B. Jordan and Jonathan Majors Face Off in Dodger Stadium 'Creed' fans have received one last peek at Michael B. Jordan's directorial debut during Super Bowl LVII. On March 3, Jordan will return as Adonis 'Donnie' Creed in 'Creed III,' marking the ninth installation of the 'Rocky' franchise. But Jordan's Creed no longer has Sylvester Stallone's Rocky Balboa by his side. While Stallone isn't returning due to creative differences, Tessa Thompson and Phylicia Rashad will reprise their roles as Creed's girlfriend Bianca and stepmother Mary Anne, respectively.
+
+
+***
+![Widevine L1's new cellular tab is on sale for 10,000 yen![Chuwi HiPad X Pro]](https://i0.wp.com/daily-gadget.net/wp-content/uploads/2023/02/スクリーンショット-2023-02-12-234544.jpg?fit=1000,987&ssl=1 "Widevine L1's new cellular tab is on sale for 10,000 yen![Chuwi HiPad X Pro]")
+
+
+[Widevine L1's new cellular tab is on sale for 10,000 yen![Chuwi HiPad X Pro]](https://www.world-today-news.com/widevine-l1s-new-cellular-tab-is-on-sale-for-10000-yenchuwi-hipad-x-pro/)
+
+
+> Chuwi's new Android tablet ' Chuwi HiPad XPro ' is now on sale at the Chuwi official store and is on sale. widevine L1 new 20,000 yen cellular tab Chuwi HiPad XPro review![pretty good] This time, we will review the newly released Android tablet 'Chuwi HiPad XPro' from Chuwi. The feature is the thin bezel… It was a little over 20,000 yen at the AliExpress sale, but it is now available at the Chuwi official store. this page So, it is on sale for 19,581 yen. Equipped with UNISOC T616, widevine L1, metal body with 7,000mAh large capacity battery, 10,000 yen range is high cost performance.
+
+
+***
+['Netflix realized that it was in a polyamorous relationship and that users were not in exclusivity'](https://www.world-today-news.com/netflix-realized-that-it-was-in-a-polyamorous-relationship-and-that-users-were-not-in-exclusivity/)
+
+
+> Pedro Miguel Coelho, a journalist for Expresso, considers that Netflix was wrong to prohibit free account sharing. 'Netflix realized that it was in a polyamorous relationship and that users were not in exclusivity', said the Expresso journalist. Live on SIC Notícias, this Sunday, Pedro Miguel Coelho considers that the streaming company 'went backwards' and that there are still things poorly explained. Since Wednesday, Netflix users have had to configure their primary location to ensure their account can be used by people who share the same residence.
+
+
+***
+[CrowdStrike Takes On History's Most Infamous Breach in First Big Game Commercial](http://www.businesswire.com/news/home/20230210005324/en/CrowdStrike-Takes-On-History%E2%80%99s-Most-Infamous-Breach-in-First-Big-Game-Commercial/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> AUSTIN, Texas--(BUSINESS WIRE)--CrowdStrike (NASDAQ: CRWD) today debuted a new commercial, the cybersecurity leader's first ad during the Big Game. Leveraging the powerful reach of one of the world's largest stages, the company is bringing its Protection That Powers You campaign to over 100 million viewers at a time when the threat and impacts of cyberattacks are more pervasive than ever. 'Our commercial during the Big Game puts a modern lens on the story of the Trojan Horse, the most infamous
+
+
+***
+![SPD experts and wind power workers are demanding better conditions for jobs](https://www.erneuerbareenergien.de/sites/default/files/styles/discover/public/aurora/257188.jpeg?itok=-Y0Z18Xn "SPD experts and wind power workers are demanding better conditions for jobs")
+
+
+[SPD experts and wind power workers are demanding better conditions for jobs](https://www.world-today-news.com/spd-experts-and-wind-power-workers-are-demanding-better-conditions-for-jobs/)
+
+
+> At a meeting in the Bundestag on Friday, employees of the leading trio in matters of wind farm expansion on land, Vestas, Enercon and Nordex, as well as the world 's largest offshore wind farm operator group Ørsted and energy politicians from the SPD parliamentary group discussed better working conditions in the wind energy industry. These are the prerequisite for recruiting urgently needed specialists, said the SPD parliamentary group spokesman for wind energy issues, Bent Bergt, afterwards. 'In order to be attractive for skilled workers and thus internationally competitive, the corporations must significantly improve pay and working conditions, especially for the colleagues on the ‘mills'.
+
+
+***
+![Automated Stream Project Update](https://external-preview.redd.it/fOc2rE7450lgzznGw7s6eAqBAiqvfjycifvw4aU_V5U.jpg?auto=webp&v=enabled&s=9b05ea818881d8c7cdd3b05284ccb0847612607c "Automated Stream Project Update")
+
+
+[Automated Stream Project Update](https://www.reddit.com/r/Python/comments/110vu21/automated_stream_project_update)
+
+
+> Hello, I posted a few weeks ago (and was promptly downvoted lol) a link to a project I am working on. Be forewarned; the link is below. It started out of boredom and has continued for the same reason. The first version was just music; the new version has more features. The script combines several different modules for a somewhat interactive experience. The program uses praw to collect the top posts and comments from various subreddits, and pytube and redvid to curate music, video, and reading content into predefined cycles.
+
+
+***
+![Samsung Electronics Adds New Camera Assistant App Functions in Line with the Launch of ‘Galaxy S23'](https://images.kbench.com/kbench/article/thumbnail/241123_thumb.jpg "Samsung Electronics Adds New Camera Assistant App Functions in Line with the Launch of ‘Galaxy S23'")
+
+
+[Samsung Electronics Adds New Camera Assistant App Functions in Line with the Launch of ‘Galaxy S23'](https://www.world-today-news.com/samsung-electronics-adds-new-camera-assistant-app-functions-in-line-with-the-launch-of-galaxy-s23/)
+
+
+> ▲Camera Assistant ‘Dim the screen while recording' function Samsung Electronics adds new features to the camera assistant app in line with the release of the latest flagship smartphone Galaxy S23 series. Last week, Samsung Community Camera Manager said, 'The camera assistant app, which was first introduced through Galaxy S22 One UI 5.0, has further subdivided the existing settings based on user feedback in Galaxy S23, and added new features.' First of all, the Soften pictures function provided by the Galaxy S22 series is subdivided into three levels: ▲Off ▲Medium (50%) ▲High (100%).
+
+
+***
+![India tops Singapore, Indonesia in fintech study](https://aniportalimages.s3.amazonaws.com/media/details/ANI-20230212224254.jpeg "India tops Singapore, Indonesia in fintech study")
+
+
+[India tops Singapore, Indonesia in fintech study](https://www.aninews.in/news/world/asia/india-tops-singapore-indonesia-in-fintech-study20230213065121)
+
+
+> By Lee Kah Whye | Updated: Feb 13, 2023 06:51 IST Singapore, February 13 (ANI): In a report released last week, India emerged as the top nation in a fintech study of nine South Asian and Southeast Asian countries published by the Robocash Group . Robocash is a fintech company with offices in Asia and Europe that specialise in providing technological finance solutions for the underserved by the traditional banking system in emerging markets.The South Asian nation came up in first place in several categories including the most amount of funds raised and total revenue.
+
+
+***
+![Fakery and fraud: Energy scammers cast ‘wide net' on Facebook](https://www.malaymail.com/malaymail/uploads/images/2023/02/13/thumbs/400x400/91110.jpg "Fakery and fraud: Energy scammers cast ‘wide net' on Facebook")
+
+
+[Fakery and fraud: Energy scammers cast ‘wide net' on Facebook](https://www.malaymail.com/news/tech-gadgets/2023/02/13/fakery-and-fraud-energy-scammers-cast-wide-net-on-facebook/54677)
+
+
+> WASHINGTON, Feb 13 — A Filipino consumer fumes as she rips open a portable charger to discover she has been conned — the batteries are choked with sand, making her yet another victim of scammers on Facebook. AFP's fact checkers have uncovered a slew of energy-related scams proliferating on Facebook — from fake solar panel incentives in the United States to hoax electric bike giveaways in Indonesia and the sale of dud devices in the Philippines. And the trend underscores how fraudsters worldwide profit off disinformation, casting a wide net across social media users, many of whom take the bait amid a cost of living crisis and high utility and energy costs.
+
+
+***
+![The NSW Government Wants to Build 30,000 EV Chargers Over the Next 3 Years](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/13/nsw-charging-plan.png?quality=80&resize=1280,720 "The NSW Government Wants to Build 30,000 EV Chargers Over the Next 3 Years")
+
+
+[The NSW Government Wants to Build 30,000 EV Chargers Over the Next 3 Years](https://www.gizmodo.com.au/2023/02/nsw-fast-charging-plan/)
+
+
+> Image: iStock The NSW government has announced a plan to support the construction of 30,000 electric vehicle chargers across NSW between now and 2026, an ambitious project that will see a massive increase in charging locations across the state. This is the latest plan from the state government to support EV charging. Before this, the NSW government announced it would be supporting evenly-spaced fast-charging networks (more on that below), regional chargers and a $38 million plan to support apartment, kerbside and public charging locations.
+
+
+***
+![Bloomberg: The next Imac is delayed – coming this fall at the earliest](https://media.voltron.alhurra.com/Drupal/01live-106/2023-02/1_16.jpg "Bloomberg: The next Imac is delayed – coming this fall at the earliest")
+
+
+[Bloomberg: The next Imac is delayed – coming this fall at the earliest](https://www.world-today-news.com/bloomberg-the-next-imac-is-delayed-coming-this-fall-at-the-earliest/)
+
+
+> Anyone waiting for a new Imac will have to wait a little longer. Despite the fact that the M2 chip is already on the market, no updated Imac has appeared. Should we believe Bloomberg's Mark Gurman, Apple is instead waiting for the M3 chip, Gurman states in his newsletter Power On. 'I have not seen anything that indicates that there will be a new Imac before the M3 chip generation,' writes Gurman, among other things. Apple's M3 chip is said to be based on a new, smaller 3 nm process and is expected to arrive in the second half of 2023.
+
+
+***
+![A lake of water on Mars](https://www.albayan.ae/polopoly_fs/1.4614185.1676229674!/image/image.jpg_gen/derivatives/original_640/image.jpg "A lake of water on Mars")
+
+
+[A lake of water on Mars](https://www.world-today-news.com/a-lake-of-water-on-mars/)
+
+
+> The US space agency NASA shared a snapshot of its Curiosity rover, revealing 'compelling evidence' of the presence of water in an area of ​​Mars, according to ' Russia Today'. In the 'sulfate-bearing unit' region, scientists found 'clear evidence' of the existence of a large lake on Mars. In an area that was thought to contain only drops of water.
+
+
+***
+![Render ‘doubles headcount' in less than a year as it appoints two ...](https://itwire.com/media/k2/items/cache/4ac0fd8fed5caaa21aa34a4bcbb4d985_XS.jpg "Render ‘doubles headcount' in less than a year as it appoints two ...")
+
+
+[Render ‘doubles headcount' in less than a year as it appoints two ...](https://itwire.com/it-industry-news/market/render-%e2%80%98doubles-headcount%e2%80%99-in-less-than-a-year-as-it-appoints-two-key-executives.html)
+
+
+> Render says former Calix and Advanced Fibre Communications executive Omar Ramadan has joined the company as Vice President - Customer Operations, and Abby Gates, who previously held senior roles at Google, Attentive, Dynatrace, has been appointed as Vice President - People and Culture. Render says the appointments come as it grows its global headcount from over 30 team members in March 2022 to more than 75 employees globally -with the majority of the company's growth focused in the US, where a federal government-led endeavour to close the country's digital divide has led to a 'substantial ramp in the number of fibre network deployments across the country.
+
+
+***
+![2,000-year-old manuscript about Alexander the Great is deciphered](https://medias.revistaoeste.com/media-prod/wp-content/uploads/2023/02/texto-danificado.jpg "2,000-year-old manuscript about Alexander the Great is deciphered")
+
+
+[2,000-year-old manuscript about Alexander the Great is deciphered](https://www.world-today-news.com/2000-year-old-manuscript-about-alexander-the-great-is-deciphered/)
+
+
+> US researchers have deciphered a 2,000-year-old manuscript about Alexander the Great and his dynasty with the help of artificial intelligence (AI). The study has not yet been published. 'It's probably a lost job,' said Professor of Classical Studies Richard Janko from the University of Michigan (USA), during a meeting of the Archaeological Institute of America and the Society for Classical Studies, held in New Orleans, last month. According to Janko, the manuscript 'indicates the names of several Macedonian dynasties and Alexander's generals', in addition to having 'several mentions of Alexander himself'.
+
+
+***
+![Without information, there are no conditions to lease another 600 buses – Civic Council](https://media.nu.nl/m/hqnx383aharo_wd1280/honderdduizenden-mensen-in-madrid-protesteren-tegen-bezuinigingen-in-de-zorg.jpg "Without information, there are no conditions to lease another 600 buses – Civic Council")
+
+
+[Without information, there are no conditions to lease another 600 buses – Civic Council](https://www.world-today-news.com/without-information-there-are-no-conditions-to-lease-another-600-buses-civic-council/)
+
+
+> Monterrey, NL on February 12, 2023. The Civic Council considers it impossible to responsibly and assertively exercise its role as a member of the IMA Governing Board without a minimum of information and transparency, for which we will maintain our position of voting against the lease of the 600 new units A year ago the current administration announced an ambitious mobility program, which for the urban area included: leasing a fleet of buses, a new fuel supply model (natural gas), specialized infrastructure, technologies, information for users and the implementation of a new model of production-regulation of services with payment per vehicle-kilometre to suppliers.
+
+
+***
+![The Best Commercials from Super Bowl LVII (So Far)](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/13/AP23044001126029.jpg?quality=80&resize=1280,720 "The Best Commercials from Super Bowl LVII (So Far)")
+
+
+[The Best Commercials from Super Bowl LVII (So Far)](https://www.gizmodo.com.au/2023/02/super-bowl-lvii-commercials/)
+
+
+> Image: AP Photo/David J. Phillip Good morning and welcome to Super Bowl LVII day, the one day a year those outside of the U.S. that aren't usually interested in the NFL become  very  interested. And for a good reason: we get a half-time show performance with no shortage of talking points and a bunch of Super Bowl commercials that range from cute to ridiculous and everything in between. If you'd like to look back on all the commercials from last year's Super Bowl , head over to that link, or if going behind the scenes to learn about the tech supporting this year's game is more your thing, we've got you covered.
+
+
+***
+![Lunar dust to protect the earth from the sun – Albilad Newspaper](https://albiladdaily.com/wp-content/uploads/2022/06/سطح-القمر.jpg "Lunar dust to protect the earth from the sun – Albilad Newspaper")
+
+
+[Lunar dust to protect the earth from the sun – Albilad Newspaper](https://www.world-today-news.com/lunar-dust-to-protect-the-earth-from-the-sun-albilad-newspaper/)
+
+
+> Washington agencies The lunar dust spread in space may constitute an effective protection for the Earth from sunlight that contributes to combating climate change, according to what a team of researchers saw in a study published recently by the 'Plus Climate' magazine. These US-based scientists wrote that the 'large amounts of dust' between Earth and the sun could 'limit the amount of sunlight received' by the planet. The idea is to create something like a barrier that allows part of the radiation to be blocked to mitigate climate change, and the researchers simulated a number of scenarios, including the scattering of dust particles from a space platform located at one of the Lagrangian points, where the gravitational forces balance between the Earth and the sun.
+
+
+***
+![Ja Morant's Signature Nike Kicks Use Technology To Enhance His Already Stellar Performance On The Court](https://cms.afrotech.com/wp-content/uploads/2023/02/Morant-1568x882.jpg "Ja Morant's Signature Nike Kicks Use Technology To Enhance His Already Stellar Performance On The Court")
+
+
+[Ja Morant's Signature Nike Kicks Use Technology To Enhance His Already Stellar Performance On The Court](https://clichemag.com/tech/ja-morants-signature-nike-kicks-use-technology-to-enhance-his-already-stellar-performance-on-the-court-2/)
+
+
+> 'We primarily focus on the needs of Ja and what he needs, what he wants,' Ben Nethongkome, Nike Senior Designer, Footwear Performance Basketball, told AfroTech in an exclusive interview. 'We're leveraging a zoom bag that's placed right below the bottom of the feet to keep them feeling bouncy and keep his vertical leap explosive. At this price point, I would consider it as a premium technology that we're not offering very much in other places.' Source link
+
+
+***
+![DJI Mini 2 SE Malaysia: DJI's entry-level drone now boasts up to 10km of HD video transmission](https://soyacincau.com/wp-content/uploads/2023/02/230213-dji-mini-2-se-malaysia-02.jpg "DJI Mini 2 SE Malaysia: DJI's entry-level drone now boasts up to 10km of HD video transmission")
+
+
+[DJI Mini 2 SE Malaysia: DJI's entry-level drone now boasts up to 10km of HD video transmission](https://soyacincau.com/2023/02/13/dji-mini-2-se-malaysia-dji-o2-10km-video-transmission-price-specs/)
+
+
+> DJI has just released its new Mini 2 SE compact drone which weighs less than 249g. This is essentially DJI's new entry-level drone which replaces the previous DJI Mini SE launched in 2021. However, the new Mini 2 SE has gone up in price slightly by RM250. DJI Mini 2 SE Malaysia Price and Availability The DJI Mini 2 SE is now available in Malaysia and here's the official pricing: DJI Mini 2 SE – RM1,599 DJI Mini 2 SE Fly More Combo – RM2,149 DJI Mini 2 SE and Fly More Combo The compact drone is available for purchase on the official online store via Lazada , Shopee and DJI authorised stores.
+
+
+***
+![Will there be any Apple ads during the Superbowl?](https://images.macrumors.com/social/?t=2380564&v=6 "Will there be any Apple ads during the Superbowl?")
+
+
+[Will there be any Apple ads during the Superbowl?](https://forums.macrumors.com/threads/will-there-be-any-apple-ads-during-the-superbowl.2380564/)
+
+
+> Feb 19, 2022 331 445 Colorado Unless you have been living under a rock, you probably already know that Apple is sponsoring halftime. (Only reason why I am watching) However, I am wondering if Apple is going to play any ads (for the iPhone/Mac/iPad) during the Superbowl. Is there a way to check/do you know if they are? Thanks in advance! Sincerely, Will
+
+
+***
+![This One-of-a-Kind Bentley Conversion is the World's Rarest EV](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/11/0a7e84ff1dc83e2973a2c92fdc5f7b4b.jpg?quality=80&resize=1280,720 "This One-of-a-Kind Bentley Conversion is the World's Rarest EV")
+
+
+[This One-of-a-Kind Bentley Conversion is the World's Rarest EV](https://www.gizmodo.com.au/2023/02/this-one-of-a-kind-bentley-conversion-is-the-worlds-rarest-ev/)
+
+
+> If you've not heard of it before, Lunaz Design is an EV-conversion company based near Silverstone in the UK. The shop will take in your classic car, pack it full of batteries and send you out onto the road in a car you can happily drive in Central London without attracting the wrath of its new Ultra Low Emission Zone fees . Previously, the company showcased its tech by converting old Aston Martins, Range Rovers and Rolls Royces to run on battery power , and they all look mighty incredible after the overhaul.
+
+
+***
+![More Joy with CSH](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "More Joy with CSH")
+
+
+[More Joy with CSH](https://www.reddit.com/r/programming/comments/110ue2f/more_joy_with_csh)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![A Clever Radio Trick Can Tell If a Drone Is Watching You](https://media.wired.com/photos/5a57f916be039d355e73654f/191:100/w_1280,c_limit/droneintercept-530073912.jpg "A Clever Radio Trick Can Tell If a Drone Is Watching You")
+
+
+[A Clever Radio Trick Can Tell If a Drone Is Watching You](https://www.wired.com/story/a-clever-radio-trick-can-tell-if-a-drone-is-watching-you/)
+
+
+> As flying, camera-wielding machines get ever cheaper and more ubiquitous, inventors of anti-drone technologies are marketing every possible idea for protection from hovering eyes in the sky: Drone-spotting radar . Drone-snagging shotgun shells . Anti-drone lasers, falcons, even drone-downing drones . Now one group of Israeli researchers has developed a new technique for that drone-control arsenal—one that can not only detect that a drone is nearby, but determine with surprising precision if it's spying on you, your home, or your high-security facility.
+
+
+***
+![Can I boot Mac Mini M2 from an external drive ?](https://images.macrumors.com/social/?t=2380563&v=6 "Can I boot Mac Mini M2 from an external drive ?")
+
+
+[Can I boot Mac Mini M2 from an external drive ?](https://forums.macrumors.com/threads/can-i-boot-mac-mini-m2-from-an-external-drive.2380563/)
+
+
+> Can I boot Mac Mini M2 from an external drive ? I'm thinking about upgrade My Mac Mini 2018 / 3 GHz Intel i5 / 32 Gb Ram / 256 Gb HDD to the Mac Mini M2 / 16 Gb Ram / 256 Gb SSD. I use Samsung T7 1 Tb as an external bootable SSD drive with the Mini 2018, connected with USB c cable. Can I do the same with Mac Mini M2 ? will it work ? I only use the Mini for light work - web browsing, e-mail mostly. Photo editing and clip editing by iMovie sometimes. I want to buy the M2 because I want to use the Touch ID to fill in all the password for me daily.
+
+
+***
+![Deep observability market tipped to grow over 50 percent YoY in 2023](https://itwire.com/media/k2/items/cache/b816dbc83bba3e2267b7ee1f6b6bd893_XS.jpg "Deep observability market tipped to grow over 50 percent YoY in 2023")
+
+
+[Deep observability market tipped to grow over 50 percent YoY in 2023](https://itwire.com/guest-articles/guest-opinion/deep-observability-market-tipped-to-grow-over-50-percent-yoy-in-2023.html)
+
+
+> 650 Group co-founder and analyst Alan Wreckel GUEST OPINION: Enterprises enter 2023 with several unique challenges that will put NetOps, DevOps, and SecOps front and centre. Almost all enterprises operate in a hybrid and multi-cloud world. During 2023, they will adjust workloads and employees as supply chains return to normal and organisations move workloads to where they want them to be located, not where they had to deploy during the COVID-19 pandemic due to resource limitations. At the same time, enterprises realise that artificial intelligence (AI) will be highly disruptive to almost every aspect of their business over the next three to five years.
+
+
+***
+![Openreach Unlikely to Launch Social Broadband Tariff for UK ISPs](https://www.ispreview.co.uk/wp-content/uploads/2020/07/nggallery_import/house_uk_pounds_subsidy.jpg "Openreach Unlikely to Launch Social Broadband Tariff for UK ISPs")
+
+
+[Openreach Unlikely to Launch Social Broadband Tariff for UK ISPs](https://www.ispreview.co.uk/index.php/2023/02/openreach-unlikely-to-launch-social-broadband-tariff-for-uk-isps.html)
+
+
+> Monday, Feb 13th, 2023 (12:01 am) - Score 72 A growing number of ISPs have introduced cheaper Social Tariffs over the past year – aimed at those on benefits who are most exposed to the UK's cost-of-living crisis. As part of this, some providers have called on Openreach to launch social tariff products at wholesale to support them, but there's so far no indication of that happening. True Social Tariffs are only available to those in receipt of certain state benefits (e.g. Universal Credit), which can vary between ISPs.
+
+
+***
+![Tasmania's Glenorchy City Council inks deal with ReadyTech's ...](https://itwire.com/media/k2/items/cache/1614a99f42838fe801df277fd9699aaf_XS.jpg "Tasmania's Glenorchy City Council inks deal with ReadyTech's ...")
+
+
+[Tasmania's Glenorchy City Council inks deal with ReadyTech's ...](https://itwire.com/it-industry-news/deals/tasmania%e2%80%99s-glenorchy-city-council-inks-deal-with-readytech%e2%80%99s-open-office.html)
+
+
+> Phillip Simone,Chief Executive of Government & Justice at ReadyTech and founder of Open Office Glenorchy City Council in Tasmania has signed a partnership with Open Office (part of ReadyTech) to implement its flagship Community Central ERP solution, to underpin the delivery of its strategic plan and digital roadmap. The council will replace its legacy system with ReadyTech's end-to-end Open Office solution, as part of its Community Plan 2015-2040 which vows to 'govern in the best interests of the community'.
+
+
+***
+![Tackling the Heat Issue on M2 Max MBP: Exploring Thermal Solutions](https://images.macrumors.com/social/?t=2380561&v=6 "Tackling the Heat Issue on M2 Max MBP: Exploring Thermal Solutions")
+
+
+[Tackling the Heat Issue on M2 Max MBP: Exploring Thermal Solutions](https://forums.macrumors.com/threads/tackling-the-heat-issue-on-m2-max-mbp-exploring-thermal-solutions.2380561/)
+
+
+> Hello all, The release of the new MacBook Pro equipped with the M2 Max chip has been met with some challenges. One of the major issues that many users have reported is the increased heat levels generated by the M2 Max chip compared to the previous M1 Max model. This has led to some performance degradation and discomfort during prolonged use. To address this issue, it is crucial for us to explore potential solutions. One solution that has been proposed is upgrading the heatsink in the MacBook Pro to better manage the heat generated by the M2 Max chip.
+
+
+***
+![[D] Quality of posts in this sub going down](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[D] Quality of posts in this sub going down")
+
+
+[[D] Quality of posts in this sub going down](https://www.reddit.com/r/MachineLearning/comments/110swn2/d_quality_of_posts_in_this_sub_going_down)
+
+
+> I could be wrong, but I see a trend that posts in this sub are getting to a lower quality and/or lower relevance. I see a lot of posts of the type "how do I run X" (usually a generative model) with a complete disregard to how it actually works or nonsense posts about ChatGPT. I believe this is due to an influx of new people who gained an interest in ML now that the hype is around generative AI. Which is fantastic, don't get me wrong. But, I see less academic discussions and less papers being posted.
+
+
+***
+![Fastest NBN connections coming to another million premises](https://itwire.com/media/k2/items/cache/a1a2ceeb4342aabef950a9e0ea37558c_XS.jpg "Fastest NBN connections coming to another million premises")
+
+
+[Fastest NBN connections coming to another million premises](https://itwire.com/telecoms-and-nbn/fastest-nbn-connections-coming-to-another-million-premises.html)
+
+
+> Dickson, ACT NBN Co has announced that one million additional homes and businesses will be able to upgrade from fibre to the node or fibre to the curb to a faster fibre to the premises connection, thanks to an extra $2.4 billion from the Australian Government. The list of suburbs and towns affected by the change is too long to reproduce here, but interested parties can check their eligibility here . Individual upgrades under the scheme are contingent on ordering a high-speed internet plan – Home Fast, Home Superfast or Home Ultrafast for existing FTTN customers, or Home Superfast or Home Ultrafast for existing FTTC connections – and that the premises are designated by NBN Co as "simple" in the sense of being a single dwelling unit, for example.
+
+
+***
+![[R] [P] OpenAssistant is a fully open-source chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://external-preview.redd.it/QPuDVR5r5EUJxG5ucjrqy6VVelxjFpeXPKfy9ll0oIg.jpg?auto=webp&v=enabled&s=1b14b7a2549986d338aeb27e7b340f54bae9ebce "[R] [P] OpenAssistant is a fully open-source chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.")
+
+
+[[R] [P] OpenAssistant is a fully open-source chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://www.reddit.com/r/MachineLearning/comments/110sngt/r_p_openassistant_is_a_fully_opensource_chatbased)
+
+
+> [R] [P] OpenAssistant is a fully open-source chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+
+
+***
+![Donelan: UK ready to walk out on EU's £89m scientific research programme](https://www.prolificnorth.co.uk/sites/default/files/styles/hero/public/images/news/officialportraitofmichelledonelancrop1.jpeg?itok=qDJ-FdEY "Donelan: UK ready to walk out on EU's £89m scientific research programme")
+
+
+[Donelan: UK ready to walk out on EU's £89m scientific research programme](https://www.prolificnorth.co.uk/news/tech-news/2023/02/donelan-uk-ready-walk-out-eus-ps89m-scientific-research-programme)
+
+
+> The UK's new science minister, former DCMS chief Michelle Donelan, has said the government is prepared to abandon the £89bn European Horizon funding programme for scientific research. Donelan has said the UK will 'go it alone' if there is no resolution to the current stalemate caused by disagreements over the Northern Ireland Protocol. The UK's current position, frozen out of the programme while negotiations drag on, has already led to several leading scientists relocating their activities to within the EU, while several UK research institutions have reported difficulties in attracting talent to the UK due to the uncertainty.
+
+
+***
+![[R] [N] Toolformer: Language Models Can Teach Themselves to Use Tools](https://preview.redd.it/7lk1ldus3uha1.png?auto=webp&v=enabled&s=12e5146b32be33a5a4a4120990fdb62743de8dfb "[R] [N] Toolformer: Language Models Can Teach Themselves to Use Tools")
+
+
+[[R] [N] Toolformer: Language Models Can Teach Themselves to Use Tools](https://www.reddit.com/r/MachineLearning/comments/110s8ui/r_n_toolformer_language_models_can_teach)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![EOmaps v6.0 released!](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "EOmaps v6.0 released!")
+
+
+[EOmaps v6.0 released!](https://www.reddit.com/r/Python/comments/110s83m/eomaps_v60_released)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![When does Apex Legends' new season launch?](https://cdn.vox-cdn.com/thumbor/g9Gppcn5niwFlMSaPMyuAtq_fvA=/0x29:1456x791/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24423452/apex_legends_revelry_patch_notes_asset_02.png.adapt.1456w.png "When does Apex Legends' new season launch?")
+
+
+[When does Apex Legends' new season launch?](https://newsakmi.com/news/tech-news/video-games/when-does-apex-legends-new-season-launch/)
+
+
+> Apex Legends season 16, called 'Revelry,' brings some big changes to the popular live-service shooter . It's also a celebration — a revelry , if you will — of the game's fourth anniversary. What time does Apex Legends season 16 launch? Apex Legends season 16 launches on February 14, 2023 — happy Valentine's Day! There's no official release time yet, but previous seasons have launched at 10 a.m. PT in the U.S., so we can expect a similar timeframe for Revelry. This means the season will likely roll out in these time zones: 10 a.
+
+
