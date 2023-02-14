@@ -24409,3 +24409,931 @@
 > Add a colourful twist to your curd rice These quick tips will help keep strawberry legs at bay How does alcohol affect your health When is Holi Festival in 2023? Click or Scan here to read the article
 
 
+***
+![Eco-friendly gadgets to invest in 2023](https://technology.inquirer.net/files/2023/02/Screen-Shot-2023-02-14-at-2.55.55-PM-620x422.png "Eco-friendly gadgets to invest in 2023")
+
+
+[Eco-friendly gadgets to invest in 2023](https://technology.inquirer.net/121420/eco-friendly-gadgets-to-invest-in-2023)
+
+
+> This year, just like an early spring cleaning, it's time to bring in new products.Get rid of those old items and replace them with new, eco-friendly, recyclable items. Here are our suggestions: Powerbanks that come with built-in charging cables make it easier, less tangled, and clutter-free. InfinityLab InstantGo offers various connections to almost any type of portable device, with an eco-friendly recyclable USB cable with A to Lightning connector. 10,000mah wireless with FREE USB A to Lightning P4,920 to P3,204 10,000mah with USB-C P4,200 to P2,794 5,000mah with USB-C to Lightning 1.
+
+
+***
+![Stay connected with 20% off this 14-port docking hub](https://www.macworld.com/wp-content/uploads/2023/02/Macworld-mBeat-14-in-1-Docking-Station.jpeg?quality=50&strip=all&w=1024 "Stay connected with 20% off this 14-port docking hub")
+
+
+[Stay connected with 20% off this 14-port docking hub](https://www.macworld.com/article/1511511/stay-connected-with-20-off-this-14-port-docking-hub.html)
+
+
+> If you're setting up a media center or high-performance workstation, soon or later you're going to hit a wall: Too many peripherals, not enough connections. If you're serious about the performance of your tech, you'll want a hub like the mBeat 14-in-1 Docking Station, which can not only connect all your devices but let them perform to their top potential. Let's start with the basics. In one connection point, you've got 7 USB ports with both fast-charging capability and legacy slots that will be compatible with older USB 2.
+
+
+***
+![How Growing Companies Can Streamline Their HR Processes – AllTopStartups](https://alltopstartups.com/wp-content/uploads/2023/02/How-Growing-Companies-Can-Streamline-Their-HR-Processes.jpg "How Growing Companies Can Streamline Their HR Processes – AllTopStartups")
+
+
+[How Growing Companies Can Streamline Their HR Processes – AllTopStartups](https://newsakmi.com/news/business/startups/how-growing-companies-can-streamline-their-hr-processes-alltopstartups/)
+
+
+> Human Resources (HR) plays a vital role in expanding firms. HR processes are responsible for attracting and maintaining top talent, taking care of team member compensation and benefits, and ensuring adherence to labor laws.  As companies grow, the HR team's responsibilities become more complex and time-consuming, putting more pressure on the department to streamline these processes. Efficient HR practices save time, lower costs, and boost team member satisfaction. Streamlined HR processes also guarantee compliance with labor laws, minimizing the risk of legal issues and penalties.
+
+
+***
+![The femme fatale is never more fatal than in sci-fi](https://cdn.vox-cdn.com/uploads/chorus_asset/file/24390936/Scifi_Villains_Week_logo_submit_3.jpg "The femme fatale is never more fatal than in sci-fi")
+
+
+[The femme fatale is never more fatal than in sci-fi](https://newsakmi.com/../video-games/the-femme-fatale-is-never-more-fatal-than-in-sci-fi)
+
+
+> The femme fatale has been one of film's most fascinating archetypes since the earliest days of the medium. Sexy, self-assured, and quite often murderous, she seduces and destroys with abandon. Her behavior is heightened to such a degree that real-life women would never be able to get away with, and she always knows how to use her powers. In space, no one can hear you scream — but that doesn't stop an evil-doer from trying. This week, Polygon celebrates all forms of sci-fi villainy because someone has to (or else).
+
+
+***
+![What bank marketers need to know about cryptocurrency](https://bankingjournal.aba.com/wp-content/uploads/2023/02/crypto_shutterstock_794559046-scaled.jpg "What bank marketers need to know about cryptocurrency")
+
+
+[What bank marketers need to know about cryptocurrency](https://newsakmi.com/../../finance/banking/what-bank-marketers-need-to-know-about-cryptocurrency-aba-banking-journal)
+
+
+> Crypto is still an outlier in the product line for many banks. But a few have made big commitments. By Sayon Deb Cryptocurrencies have gotten considerable attention from consumers and the financial industry over the past few years—and much of it for negative reasons. The collapse of the FTX exchange made Sam Bankman-Fried a household name. After dizzying heights, crypto values sharply corrected in 2022, with roughly $2 trillion in cryptocurrency value vanishing from the all-time high in November 2021.
+
+
+***
+![Australians should ‘come first' for gas but are being adversely affected by govt policy](https://content.api.news/v3/images/bin/1c6439606875cd700d24a021b3b5a113 "Australians should ‘come first' for gas but are being adversely affected by govt policy")
+
+
+[Australians should ‘come first' for gas but are being adversely affected by govt policy](https://newsakmi.com/../../world/australia-news/australians-should-come-first-for-gas-but-are-being-adversely-affected-by-govt-policy)
+
+
+> Credit Suisse energy analyst Saul Kavonic says Australia should 'come first' for local gas industries but current policy makes availability worse rather than better. 'Australia should come first, I don't think there's particularly much debate about that including by gas producers themselves,' Mr Kavonic told Sky News host Andrew Bolt. 'I think the real question first of all is, can Australians come first for gas if you've put the entire gas industry in terminal decline and then there's no gas available for anyone? 'Secondly – is it really necessary to tear up the rules of the entire gas market and break contracts? There are actually much more nuanced and finessed ways to address this, to get the outcome we want which is more gas available domestically.
+
+
+***
+![What the Environmental Movement Needs to Do Next](https://static.politico.com/59/56/a107929d4a469e58a482f260b4fe/biden-95073.jpg "What the Environmental Movement Needs to Do Next")
+
+
+[What the Environmental Movement Needs to Do Next](https://newsakmi.com/../../politics/opinion-what-the-environmental-movement-needs-to-do-next)
+
+
+> We simply cannot wait that long to pass additional climate legislation. The stakes are too high and the time is too short, especially in light of increasingly frequent and visible climate impacts. So relying exclusively on Democrats for continued climate progress would be a strategic blunder. Bipartisanship is the only assured path to decarbonizing at scale and speed. Despite this reality, the climate movement has done far too little to lay the groundwork for bipartisan action. For years, philanthropists have poured money into progressive climate groups, while largely overlooking opportunities to engage right-of-center communities on this topic.
+
+
+***
+![Heraeus becomes largest shareholder in startup Smart Steel Technologies](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/heraeus-smart-steel.jpg "Heraeus becomes largest shareholder in startup Smart Steel Technologies")
+
+
+[Heraeus becomes largest shareholder in startup Smart Steel Technologies](https://roboticsandautomationnews.com/2023/02/14/heraeus-becomes-largest-shareholder-in-startup-smart-steel-technologies/60268/)
+
+
+> Technology company Heraeus is expanding its expertise in artificial intelligence and AI-based process optimization by acquiring a stake in the Berlin-based start-up Smart Steel Technologies , making it the largest shareholder. Jan Rinnert, CEO of Heraeus Holding and chairman of the management board, says: 'Artificial intelligence and optimization of production processes are becoming increasingly important in the steel industry, too. 'AI solutions increase efficiency, sustainability and quality standards along the entire process chain.
+
+
+***
+![Kuka launches new range of Fortec industrial robotic arms](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/kuka-fortec-ultra-range.jpg "Kuka launches new range of Fortec industrial robotic arms")
+
+
+[Kuka launches new range of Fortec industrial robotic arms](https://roboticsandautomationnews.com/2023/02/14/kuka-launches-new-range-of-fortec-industrial-robotic-arms/60264/)
+
+
+> Industrial robot maker Kuka has launched a new range of Fortec industrial robotic arms, saying that they especially meet the new requirements of the electromobility sector. The company says the robots of the KR Fortec ultra family 'set new standards' in the heavy payload range from 480 kg to 800 kg, adding that they are ideally rated for high payloads and moments of inertia. The new Kuka KR Fortec ultra family includes five robot variants – each ideally suited to a specific application. The KR 800, for example, handles payloads up to 800 kg.
+
+
+***
+![Samsung Galaxy Watch 5 series gets menstrual cycle tracking](https://static.toiimg.com/thumb/msid-97916329,width-1070,height-580,imgsize-19804,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Samsung Galaxy Watch 5 series gets menstrual cycle tracking")
+
+
+[Samsung Galaxy Watch 5 series gets menstrual cycle tracking](https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-watch-5-series-gets-menstrual-cycle-tracking/articleshow/97916324.cms)
+
+
+> FOLLOW US ON SOCIAL MEDIA Facebook Twitter Instagram KOO APP YOUTUBE
+
+
+***
+[MacStadium Announces Transition Path from VMware to Orka® Platform](http://www.businesswire.com/news/home/20230214005034/en/MacStadium-Announces-Transition-Path-from-VMware-to-Orka%C2%AE-Platform/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> ATLANTA--(BUSINESS WIRE)--MacStadium, the industry-leading Mac private cloud and software-as-a-service provider enabling all macOS workloads, today announced its Orka® Platform is the optimal choice for companies that must transition from VMware's vSphere ESXi running macOS on last generation Intel-based Mac computers. Since VMware's announcement in October that it will not make the jump into supporting Apple silicon-based machines, leading teams are switching from VMware for iOS and/or macOS a
+
+
+***
+![The 10 best Nintendo Switch games for every kind of gamer](https://images.ctfassets.net/qmmajc22qsgf/v2Q2deMcin9DuMnSG5Ati/84d1fa4b4767c9e8919ff18060ff850d/best-nintendo-switch-games-hero.jpg?fit=thumb&w=1100&h=471 "The 10 best Nintendo Switch games for every kind of gamer")
+
+
+[The 10 best Nintendo Switch games for every kind of gamer](https://www.dailymail.co.uk/best-buys/tech/best-nintendo-switch-games)
+
+
+> The Nintendo Switch is one of the most popular gaming consoles on the market. In fact, it's sold over 120 million units worldwide.  The Switch is also renowned for its wide range of video game options that cater to all kinds of players. And with so many games available, it can be difficult to know where to start when building up your video game collection. That's why we've put together our list of the 10 best Nintendo Switch games for every type of gamer.  Whether you're after something that can be enjoyed by the whole family, or an action-packed single-character adventure, keep reading to uncover our top picks and get your game on today.
+
+
+***
+![Geneva-based Taurus, which offers digital asset infrastructure to European financial institutions, raised a $65M Series B led by Credit Suisse (Yogita Khatri/The Block)](http://www.techmeme.com/230214/i4.jpg "Geneva-based Taurus, which offers digital asset infrastructure to European financial institutions, raised a $65M Series B led by Credit Suisse (Yogita Khatri/The Block)")
+
+
+[Geneva-based Taurus, which offers digital asset infrastructure to European financial institutions, raised a $65M Series B led by Credit Suisse (Yogita Khatri/The Block)](https://newsakmi.com/news/tech-news/geneva-based-taurus-which-offers-digital-asset-infrastructure-to-european-financial-institutions-raised-a-65m-series-b-led-by-credit-suisse-yogita-khatri-the-block/)
+
+
+> Home / News / Tech / Geneva-based Taurus, which offers digital asset infrastructure to European financial institutions, raised a $65M Series B led by Credit Suisse (Yogita Khatri/The Block) Tech Sierra Mitchell Send an email 5 hours ago Less than a minute
+
+
+***
+![Massage robot to start product evaluation in the US and clinical trial in Singapore](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/EMMA-massage-robot-demo-at-Mayo-Clinic.png "Massage robot to start product evaluation in the US and clinical trial in Singapore")
+
+
+[Massage robot to start product evaluation in the US and clinical trial in Singapore](https://roboticsandautomationnews.com/2023/02/14/massage-robot-to-start-product-evaluation-in-the-us-and-clinical-trial-in-singapore/60259/)
+
+
+> Singapore robotics firm AiTreat will be embarking on a new product evaluation in the United States for their massage robot powered by artificial intelligence at Mayo Clinic , USA. At the same time, a randomised controlled trial (RCT) comparing the efficacy of the massage robot with existing therapies such as manual Tuina – a massage used in Traditional Chinese Medicine (TCM) – in managing chronic low back pain is also being planned in Singapore. The RCT will be jointly led by the biomedical sciences and Chinese medicine programme at Nanyang Technological University, Singapore (NTU Singapore) and Singapore General Hospital (SGH).
+
+
+***
+[Ault Alliance Announces Update on Dividend of Shares of TurnOnGreen and Giga-tronics to Its Stockholders](http://www.businesswire.com/news/home/20230214005518/en/Ault-Alliance-Announces-Update-on-Dividend-of-Shares-of-TurnOnGreen-and-Giga-tronics-to-Its-Stockholders/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LAS VEGAS--(BUSINESS WIRE)---- $AP #AULT--Ault Alliance Announces Update on Dividend of Shares of TurnOnGreen and Giga-tronics to Stockholders; Both Subsidiaries Filed Registration Statements
+
+
+***
+![Tesla releases stunning videos showing car production facility](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/tesla-giga-berling-robot-b.png "Tesla releases stunning videos showing car production facility")
+
+
+[Tesla releases stunning videos showing car production facility](https://roboticsandautomationnews.com/2023/02/14/tesla-releases-stunning-videos-showing-car-production-facility/60255/)
+
+
+> Tesla , the electric car maker, has released a number of visually stunning videos showing its car production line in Berlin, Germany. The facility is Tesla's Gigafactory Berlin-Brandenburg and some of the robots used include its so-called 'Godzilla' robot and 'Giga Berlin'. Tesla has made a number of videos available to view on Twitter, and most of them seem to use drone footage quite liberally, making for some amazing shots travelling through the factory. The factory was planned to produce batteries, battery packs and powertrains for use in Tesla vehicles, and also assemble the Tesla Model Y.
+
+
+***
+[India Buy Now Pay Later Business Report 2023 Featuring Simpl, ZestMoney, LazyPay, Capital Float, PineLabs, Paytm Postpaid, OlaMoney Postpaid, Amazon Pay Later, &amp; Flipkart Pay Later](http://www.businesswire.com/news/home/20230214005537/en/India-Buy-Now-Pay-Later-Business-Report-2023-Featuring-Simpl-ZestMoney-LazyPay-Capital-Float-PineLabs-Paytm-Postpaid-OlaMoney-Postpaid-Amazon-Pay-Later-Flipkart-Pay-Later---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "India Buy Now Pay Later Business and Investment Opportunities Databook - 75+ KPIs on BNPL Market Size, End-Use Sectors, Market Share, Product Analysis, Business Model, Demographics - Q1 2023 Update" report has been added to ResearchAndMarkets.com's offering. BNPL payments in the country are expected to grow by 22.9% on an annual basis to reach US$14,289.4 million in 2023. The BNPL payment industry in India has recorded strong growth over the last four quarters, sup
+
+
+***
+[Alternative Protein Processing Equipment Global Market Report 2023: Alternative Protein Manufacturers&apos; Focus on Reducing Production Costs Drives Growth](http://www.businesswire.com/news/home/20230214005536/en/Alternative-Protein-Processing-Equipment-Global-Market-Report-2023-Alternative-Protein-Manufacturers-Focus-on-Reducing-Production-Costs-Drives-Growth---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Alternative Protein Processing Equipment Market by Type (Dryers, Centrifuges, Grinders, Evaporators), Mode of Operation, Production Capacity, Application (Plant Proteins, Insect Proteins, Microbial Proteins) - Global Forecast to 2030" report has been added to ResearchAndMarkets.com's offering. The alternative protein processing equipment market is projected to reach $2.2 billion by 2030, at a CAGR of 5.2% from 2023 to 2030. The report provides an in-depth analysis
+
+
+***
+![Python Developers Beware: Clipper Malware Found in 450+ PyPI Packages!](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEhQNyfL3gINA-eAn_UjNGntpmawXVN3Tlu_hPAkenf1L32_EoOrSMzxAwcDoU-vjdjjaYADJ2KjBzk-pe5pj1PpDcpmUc_RR34v0Iqj6OlmQaUZeWKUcF0sYiXt2eCe8RqG1_g0ptK6zFILx73Bq7KP-wkuQGSZjqnXVLMVC-pETowti7ermDVXY1sz/s728-e3650/python-.png "Python Developers Beware: Clipper Malware Found in 450+ PyPI Packages!")
+
+
+[Python Developers Beware: Clipper Malware Found in 450+ PyPI Packages!](https://thehackernews.com/2023/02/python-developers-beware-clipper.html)
+
+
+> Malicious actors have published more than 451 unique Python packages on the official Python Package Index (PyPI) repository in an attempt to infect developer systems with clipper malware . Software supply chain security company Phylum, which spotted the libraries , said the ongoing activity is a follow-up to a campaign that was initially disclosed in November 2022. The initial vector entails using typosquatting to mimic popular packages such as beautifulsoup, bitcoinlib, cryptofeed, matplotlib, pandas, pytorch, scikit-learn, scrapy, selenium, solana, and tensorflow, among others.
+
+
+***
+![EXCLUSIVE-Thai activists to sue government over Pegasus spyware use](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/31_07_2021_11_27_53_1380704.jpg?width=920&format=jpeg "EXCLUSIVE-Thai activists to sue government over Pegasus spyware use")
+
+
+[EXCLUSIVE-Thai activists to sue government over Pegasus spyware use](https://www.devdiscourse.com/article/technology/2354459-exclusive-thai-activists-to-sue-government-over-pegasus-spyware-use)
+
+
+> Reuters | Bangkok | Updated: 14-02-2023 17:23 IST | Created: 14-02-2023 16:48 IST Activists in Thailand are suing the government for using spyware technology to monitor dissidents, the first such case in the country that they hope will help raise awareness and better protect citizens who are subject to increasing surveillance. Legal non-profit iLaw told the Thomson Reuters Foundation it is preparing a lawsuit against the Thai government for its alleged use of Israeli firm NSO Group's Pegasus spyware to hack into the mobile phones of at least 30 activists and lawyers in 2020-21.
+
+
+***
+![England announces £200m in new funding for active travel](https://www.traffictechnologytoday.com/wp-content/uploads/2023/02/AdobeStock_97380932.jpeg "England announces £200m in new funding for active travel")
+
+
+[England announces £200m in new funding for active travel](https://www.traffictechnologytoday.com/news/multimodal-systems/england-announces-200m-in-new-funding-for-active-travel.html)
+
+
+> The UK's Department for Transport and Active Travel England has announced that £200 million will be made available in funding for local authorities to improve walking and cycling routes, helping to improve health, reduce emissions and boost local economies. Active Travel England is inviting local authorities in England to apply for funding to make improvements to enable people to choose active travel, which can help them save money and stay healthy. Schemes could include: creating more paths in rural areas; developing safer routes for children to walk to school; and improved safety at junctions for people walking and cycling.
+
+
+***
+![Samsung Galaxy S22 series, Galaxy Z Fold 4, Galaxy Z Flip 4 get OneUI 5.1 update](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/14/2572876-samsung.png "Samsung Galaxy S22 series, Galaxy Z Fold 4, Galaxy Z Flip 4 get OneUI 5.1 update")
+
+
+[Samsung Galaxy S22 series, Galaxy Z Fold 4, Galaxy Z Flip 4 get OneUI 5.1 update](https://www.dnaindia.com/technology/report-samsung-galaxy-s22-series-galaxy-z-fold-4-galaxy-z-flip-4-get-oneui-51-update-3023687)
+
+
+> Samsung (Image: Reuters) South Korean tech giant Samsung is now rolling out the OneUI 5.1 update to the Galaxy S22 series, the Galaxy Z Fold4, and the Galaxy Z Flip4. According to GSM Arena, a tech news-related website, it was earlier reported that the update is coming next week but some units (including our own here at HQ) are being updated now. A snippet from the earlier report suggested that One UI 5.1 brings new widgets, Expert RAW mode, improvements to the gallery, connectivity, DeX mode and more.
+
+
+***
+![Ansible infrastructure testing to test Kubernetes resources.](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png "Ansible infrastructure testing to test Kubernetes resources.")
+
+
+[Ansible infrastructure testing to test Kubernetes resources.](https://praveendandu24.medium.com/ansible-infrastructure-testing-to-test-kubernetes-resources-c4da7a1d77bf)
+
+
+> Introduction : Infrastructure testing is a crucial part of software development. It helps to detect issues and ensure that the code works as intended. Ansible is a popular tool used for infrastructure automation, and it can also be used for infrastructure testing. In this blog, we'll discuss how Ansible can be used to test Kubernetes resources and ensure that they work as intended. Prerequisites : Before we dive into testing Kubernetes resources using Ansible, let's take a look at the prerequisites for this tutorial.
+
+
+***
+![Ansible Infrastructure Testing](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png "Ansible Infrastructure Testing")
+
+
+[Ansible Infrastructure Testing](https://praveendandu24.medium.com/ansible-infrastructure-testing-57c16b8fac06)
+
+
+> Infrastructure testing is an essential part of managing and deploying applications. It is the process of validating the infrastructure that your application runs on, ensuring that it is working correctly and meets the necessary requirements. In this blog post, we will discuss how to use Ansible for infrastructure testing. Ansible is a popular open-source automation tool that can be used to configure and manage infrastructure. It is simple to use, flexible, and can be used for a variety of tasks, including infrastructure testing.
+
+
+***
+![Singapore hikes property, car taxes in balanced budget](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/09_02_2023_11_22_10_3180388.jpg?width=920&format=jpeg "Singapore hikes property, car taxes in balanced budget")
+
+
+[Singapore hikes property, car taxes in balanced budget](https://www.devdiscourse.com/article/technology/2354430-singapore-hikes-property-car-taxes-in-balanced-budget)
+
+
+> Singapore announced on Tuesday narrower fiscal deficits in a budget aimed at helping households manage the rising cost of living while replenishing its pandemic-depleted coffers. The fiscal position is "appropriate for the projected economic conditions this year", finance minister Lawrence Wong told parliament as he presented details of the 2023 budget. Wong, also deputy prime minister, said the government collected higher-than-expected revenue last year, resulting in a smaller deficit of S$2 billion ($1.
+
+
+***
+![Sources: Apple's India expansion has been slow due to logistics, tariffs, infrastructure, suppliers and officials lacking a "sense of urgency", and other issues (Financial Times)](http://www.techmeme.com/230214/i3.jpg "Sources: Apple's India expansion has been slow due to logistics, tariffs, infrastructure, suppliers and officials lacking a "sense of urgency", and other issues (Financial Times)")
+
+
+[Sources: Apple's India expansion has been slow due to logistics, tariffs, infrastructure, suppliers and officials lacking a "sense of urgency", and other issues (Financial Times)](https://newsakmi.com/news/tech-news/sources-apples-india-expansion-has-been-slow-due-to-logistics-tariffs-infrastructure-suppliers-and-officials-lacking-a-sense-of-urgency-and-other-issues-financial-times/)
+
+
+> Home / News / Tech / Sources: Apple's India expansion has been slow due to logistics, tariffs, infrastructure, suppliers and officials lacking a "sense of urgency", and other issues (Financial Times) Tech Sierra Mitchell Send an email 5 hours ago Less than a minute
+
+
+***
+![How Anna Brailsford gets thousands of women tech jobs at Goldman Sachs, BlackRock and Morgan Stanley](https://images.fnlondon.com/im-722364/?width=749&height=499 "How Anna Brailsford gets thousands of women tech jobs at Goldman Sachs, BlackRock and Morgan Stanley")
+
+
+[How Anna Brailsford gets thousands of women tech jobs at Goldman Sachs, BlackRock and Morgan Stanley](https://www.fnlondon.com/articles/tech-jobs-goldman-sachs-blackrock-finance-anna-brailsford-code-first-girls-20230214)
+
+
+> Anna Brailsford is no ordinary recruiter. Her company, Code First Girls, trains women to code and gets them jobs in the City – for free. The company hit a major milestone on 9 February; it has now taught 100,000 women to code, cementing its place as the UK's largest provider of free tech education for women. Some of Brailsford's biggest clients...
+
+
+***
+[EdgeNext Completes Acquisition of ChinaCache&apos;s Overseas Business, Strengthening Position in the Global Cloud Services Market](http://www.businesswire.com/news/home/20230214005005/en/EdgeNext-Completes-Acquisition-of-ChinaCaches-Overseas-Business-Strengthening-Position-in-the-Global-Cloud-Services-Market/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SEATTLE--(BUSINESS WIRE)-- #acquisition--EdgeNext, the internationally scaled edge cloud service provider powering reliable and fast content delivery, security acceleration, and edge computing solutions, recently announced the successful completion of its acquisition of ChinaCache's overseas business. ChinaCache is the pioneer among the Chinese CDN service providers to enter the global market. Through the combined assets, EdgeNext will have a broader customer base to show its vision and active p
+
+
+***
+![ChatGPT Passed a Major Medical Exam, but Just Barely](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d4a5c8f9c1adc1b21e750aab108d5231.jpg "ChatGPT Passed a Major Medical Exam, but Just Barely")
+
+
+[ChatGPT Passed a Major Medical Exam, but Just Barely](https://gizmodo.com/ai-chatgpt-bing-google-passed-step-1-medical-exam-1850109825)
+
+
+> Anyone anxiously holding their breath for a competent robot doctor may need to wait a bit longer. A group of AnsibleHealth AI researchers recently put OpenAI's ChatGPT to the test against a major medical licensing exam and the results are in. The AI chatbot  technically passed, but by the skin of its teeth. When it comes to medical exams, even the most impressive new AI still performs at a D level. The researchers say that lackluster showing is nonetheless a landmark achievement for AI. The researchers tested ChatGPT on the United States Medical Licensing Exam (USMLE), a standardized series of three exams required for U.
+
+
+***
+[Zeitview Employs Aerial Data Intelligence to Track Efficient Construction of Primergy Solar Power Plant](http://www.businesswire.com/news/home/20230214005270/en/Zeitview-Employs-Aerial-Data-Intelligence-to-Track-Efficient-Construction-of-Primergy-Solar-Power-Plant/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SANTA MONICA, Calif.--(BUSINESS WIRE)--With the construction of one of the country's largest utility-scale solar and energy storage power plants underway to deliver 400,000 Las Vegas homes with renewable energy, Zeitview, formerly known as DroneBase, announced its continued partnership with the site's developer Primergy Solar. Zeitview's advanced inspection and data insights services are part of Primergy's commitment to using state-of-the-art construction practices that reduce project footprint
+
+
+***
+[Getac Launches Powerful New X600 Server and X600 Pro-PCI Models Expanding X600 Line of Rugged Mobile Workstations](http://www.businesswire.com/news/home/20230214005060/en/Getac-Launches-Powerful-New-X600-Server-and-X600-Pro-PCI-Models-Expanding-X600-Line-of-Rugged-Mobile-Workstations/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> IRVINE, Calif.--(BUSINESS WIRE)--Getac Technology Corporation, a leading producer of rugged technology announced today the expansion of its flagship X600 rugged mobile workstation product line with the launch of the X600 Server and X600 Pro-PCI. The new models will reside alongside the recently launched X600 and X600 Pro, creating a comprehensive lineup of rugged mobile workstations that are purpose-built to meet the increasing demands of professionals working in challenging industries such as
+
+
+***
+[The GEO Group Reports Fourth Quarter and Full Year 2022 Results](http://www.businesswire.com/news/home/20230213005665/en/The-GEO-Group-Reports-Fourth-Quarter-and-Full-Year-2022-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOCA RATON, Fla.--(BUSINESS WIRE)--The GEO Group, Inc. (NYSE: GEO) ('GEO'), a leading provider of support services for secure facilities, processing centers, and reentry centers, as well as enhanced in-custody rehabilitation, post-release support, and electronic monitoring programs, reported today its financial results for the fourth quarter and full year 2022. Fourth Quarter 2022 Highlights Total revenues of $620.7 million Net Income of $41.8 million Net Income Attributable to GEO of $0.28 per
+
+
+***
+![Why Zoos Can't Completely Lock Down to Prevent What Happened in Dallas](https://compote.slate.com/images/c4750ae9-22e4-487b-a163-a2d99e33570d.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560 "Why Zoos Can't Completely Lock Down to Prevent What Happened in Dallas")
+
+
+[Why Zoos Can't Completely Lock Down to Prevent What Happened in Dallas](https://slate.com/technology/2023/02/dallas-zoo-security-poaching-conservation.html)
+
+
+> The man arrested on suspicion of releasing a clouded leopard from its exhibit, abducting two monkeys to hide them in a closet, and killing an endangered vulture reportedly told police that he would do it again. Why?  He loves animals . Since Davion Irvin's alleged escapades at the Dallas Zoo, similar incidents have occurred at several zoos around the country, perhaps inspired by his actions. The Houston Zoo found that someone had cut into the enclosure of brown pelicans , and the Central Park Zoo continues attempts to recapture a Eurasian eagle owl after a the same form of vandalism.
+
+
+***
+![Mastering Kubernetes: The Ultimate Guide to Becoming a Successful and Well-Paid Kubernetes Developer](https://miro.medium.com/max/1024/1*PXnsmgCWpbSvksrjXRa5lA.png "Mastering Kubernetes: The Ultimate Guide to Becoming a Successful and Well-Paid Kubernetes Developer")
+
+
+[Mastering Kubernetes: The Ultimate Guide to Becoming a Successful and Well-Paid Kubernetes Developer](https://medium.com/@it-craftsman/mastering-kubernetes-the-ultimate-guide-to-becoming-a-successful-and-well-paid-kubernetes-bd87531d5443)
+
+
+> Mastering Kubernetes: The Ultimate Guide to Becoming a Successful and Well-Paid Kubernetes Developer Kubernetes has emerged as the industry standard for container orchestration, and with the increasing adoption of cloud-native technologies, the demand for Kubernetes developers is on the rise. Kubernetes developers are responsible for designing, deploying, and managing Kubernetes clusters and applications on top of them. If you are looking to become a successful and well-paid Kubernetes developer, here are a few tips to help you get started: Learn the fundamentals of Kubernetes: To become a successful Kubernetes developer, you need to have a deep understanding of the Kubernetes architecture, API objects, and how they interact with each other.
+
+
+***
+![UNDP calls for Multi-stakeholder approach to address low number of girls' in STEM](https://newsghana.com.gh/wp-content/uploads/2022/12/Education-Girls-STEM.jpeg "UNDP calls for Multi-stakeholder approach to address low number of girls' in STEM")
+
+
+[UNDP calls for Multi-stakeholder approach to address low number of girls' in STEM](https://newsghana.com.gh/undp-calls-for-multi-stakeholder-approach-to-address-low-number-of-girls-in-stem)
+
+
+> The United Nations Development Programme (UNDP) in Ghana has called for a multi-stakeholder accelerated approach to address the low number of women and girls in science. It said it was time the country strengthened its partnership with the academia, businesses and private sector, for effective collaboration to promote gender equity in science policy and practice and to get men to support and uplift their female colleagues. Dr Angela Lusigi, UNDP Resident Representative in Ghana, sharing her thoughts with the Ghana News Agency (GNA) on International Day for Women and Girls in Science, said equal inclusion of girls and boys in science, technology, engineering, and mathematics (STEM) ultimately benefited society as a whole.
+
+
+***
+![Hackers Target Bahrain Airport, News Sites to Mark Uprising](https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg "Hackers Target Bahrain Airport, News Sites to Mark Uprising")
+
+
+[Hackers Target Bahrain Airport, News Sites to Mark Uprising](https://www.securityweek.com/hackers-target-bahrain-airport-news-sites-to-mark-uprising/)
+
+
+> Hackers said they had taken down the websites of Bahrain's international airport and state news agency on Tuesday to mark the 12-year anniversary of an Arab Spring uprising in the small Gulf country. A statement posted online by a group calling itself Al-Toufan, or 'The Flood' in Arabic, claimed to have hacked the airport website, which was unavailable for at least a half hour in the middle of the day. It also claimed to have taken down the website of the state-run Bahrain News Agency, which was sporadically unavailable.
+
+
+***
+![Auto-scaling Spring Boot Microservices in Kubernetes with Prometheus and KEDA](https://miro.medium.com/max/735/1*pn_C_78QBvlVDE3TTmA2dg.png "Auto-scaling Spring Boot Microservices in Kubernetes with Prometheus and KEDA")
+
+
+[Auto-scaling Spring Boot Microservices in Kubernetes with Prometheus and KEDA](https://mehmetozkaya.medium.com/auto-scaling-spring-boot-microservices-in-kubernetes-with-prometheus-and-keda-2c9d10ef3771)
+
+
+> In this article, we will perform auto-scaling Spring Boot Microservices in Kubernetes with Prometheus and KEDA using custom metrics . See References This is series of articles that you can check previous article about ' Monitor Spring Boot Custom Metrics with deploying Kubernetes using Prometheus '. With this article, we will focus on auto-scaling our Spring Boot microservices using Kubernetes and KEDA that you can find summary of how things work end to end at image above— each of these will be discussed in detail in this article.
+
+
+***
+![Watch: Meteoroid Explodes Above English Channel](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/unnamed_0.jpg?itok=1lQP8yTg "Watch: Meteoroid Explodes Above English Channel")
+
+
+[Watch: Meteoroid Explodes Above English Channel](https://www.zerohedge.com/technology/watch-meteoroid-explodes-above-english-channel)
+
+
+> A meteoroid was caught on camera early Monday morning exploding over the English Channel.  WalesOnline  said the one-meter-wide meteoroid (Sar2667) entered the planet's atmosphere between the French-English channel around 0300 local time.  The airburst was visible in south England, Wales, and northern France. This type of cosmic event occurs when the meteoroid in the Earth's atmosphere explodes instead of striking the surface. Airbursts unleash shockwaves and micrometeorites that hit the ground.  Here is footage of the rare cosmic event: ⭐️Asteroid Sar2667 just before Earth impact, on Feb 13, 2023.
+
+
+***
+![See Tesla's Berlin Factory In Detail, Including 'Godzilla' The Robot](https://cdn.motor1.com/images/mgl/0eVLgW/s1/tesla-giga-factory-in-berlin-germany.jpg "See Tesla's Berlin Factory In Detail, Including 'Godzilla' The Robot")
+
+
+[See Tesla's Berlin Factory In Detail, Including 'Godzilla' The Robot](https://insideevs.com/news/652402/tesla-berlin-factory-video-tour/)
+
+
+> Tesla has released a series of short videos on Twitter, offering a more in-depth look at its electric car manufacturing facility in Germany, also known as Giga Berlin. Most of the videos are shot with FPV drones, which give them a cool, dramatic look, while others have been shot from the ground. Nevertheless, we can see Tesla's so-called 'Godzilla' robot, which is reportedly one of the largest industrial robots in the world, but it's worth mentioning that not just Tesla has one of these in use, with other carmakers using the Fanuc M-2000iA at their plants, as well.
+
+
+***
+![This ‘Anti-Woke' Businessman May Be The Next Big Right-Wing Star](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17sEJt.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=461&y=209 "This ‘Anti-Woke' Businessman May Be The Next Big Right-Wing Star")
+
+
+[This ‘Anti-Woke' Businessman May Be The Next Big Right-Wing Star](http://www.msn.com/en-us/news/technology/this-anti-woke-businessman-may-be-the-next-big-right-wing-star/ar-AA17szRg)
+
+
+> There's a new (almost) billionaire in town—and he wants your vote. Millionaire businessman and Fox News fixture Vivek Ramaswamy has his eyes on the presidency, and on this week's episode of The New Abnormal, Daniel Lippman, a reporter at Politico covering the White House and Washington, talks to host Danielle Moodie about why the 'businessman-turned-culture warrior' is someone to watch. Load Error 'He wants to spread the gospel and he thinks that there's currency among Republican voters who do not like how the culture in business and corporate America is becoming more progressive, more about social values and less about just pure profit making,' Lippman explains, saying he would outsmart Trump in a debate.
+
+
+***
+![Enan López (The White Rabbit): 'Since the birth of Facebook, love and technology go hand in hand'](https://prnoticias.com/wp-content/uploads/2023/02/Enan-Lopez.jpg "Enan López (The White Rabbit): 'Since the birth of Facebook, love and technology go hand in hand'")
+
+
+[Enan López (The White Rabbit): 'Since the birth of Facebook, love and technology go hand in hand'](https://www.world-today-news.com/enan-lopez-the-white-rabbit-since-the-birth-of-facebook-love-and-technology-go-hand-in-hand/)
+
+
+> According to a report from Standford University, 4 out of 10 people meet through social media and dating apps. Today when we celebrate #SanValentín from PRNoticias.com we enter this world of love and digital environments… Where is romanticism? Have apps and networks already moved to parties and bars to find a partner? Experts say that Instagram, TikTok, Tinder/Grinder, Bumble, Snapchat, BeReal and even Twitch have become the flirting sites par excellence, where back and forth messages, reactions and interactions are the new way to flirt.
+
+
+***
+![A leaked video reveals the Meizu 20 Pro phone before the official announcement date – Saudi Jobs](https://www.wazifonline.com/wp-content/uploads/2023/02/فيديو-مسرب-يكشف-عن-هاتف-Meizu-20-Pro-قبل-موعد.jpg "A leaked video reveals the Meizu 20 Pro phone before the official announcement date – Saudi Jobs")
+
+
+[A leaked video reveals the Meizu 20 Pro phone before the official announcement date – Saudi Jobs](https://www.world-today-news.com/a-leaked-video-reveals-the-meizu-20-pro-phone-before-the-official-announcement-date-saudi-jobs/)
+
+
+> The latest 3D video leak reveals the upcoming Meizu 20 Pro phone design, which looks elegant and simple. The Meizu 20 Pro phone has been flooded with many leaks that lead to the design expectations of this version, while the latest 3D video leak reveals the expected final design of this version. Meizu 20 Pro has a full screen design, with a hole for the front camera at the top in the middle of the screen. The phone also features a flat screen design, with flat frames, as the phone appears in a 3D image in grayscale, with a matte design.
+
+
+***
+![No Valentine's Day plans? These video games are perfect for couples](https://images.prestigeonline.com/wp-content/uploads/sites/6/2023/02/14132014/pexels-cottonbro-studio-4009598-min-scaled-1-1-e1676368026302.jpeg "No Valentine's Day plans? These video games are perfect for couples")
+
+
+[No Valentine's Day plans? These video games are perfect for couples](https://www.lifestyleasia.com/bk/gear/tech/games-valentines-day/)
+
+
+> Skip the fancy dinners and staycations today. A video game date night is where it's at. Here's a list of video games you can play this Valentine's Day with your special someone. The joy of gaming is best experienced when it's shared. Back in the day, split-screen two-player games were great when friends came over, and while online multiplayer makes it so much easier to play together, there's a novelty with split-screen. That's why if you're lucky enough to have a partner in your life, gaming with them is perhaps the purest form of love you can ever express (what is marriage , anyway?).
+
+
+***
+![Aspire, which provides Southeast Asian SMBs with international payments and other financial services, raised a $100M Series C led by Lightspeed and Sequoia (Olivia Poh/Bloomberg)](http://www.techmeme.com/230214/i2.jpg "Aspire, which provides Southeast Asian SMBs with international payments and other financial services, raised a $100M Series C led by Lightspeed and Sequoia (Olivia Poh/Bloomberg)")
+
+
+[Aspire, which provides Southeast Asian SMBs with international payments and other financial services, raised a $100M Series C led by Lightspeed and Sequoia (Olivia Poh/Bloomberg)](https://newsakmi.com/news/tech-news/aspire-which-provides-southeast-asian-smbs-with-international-payments-and-other-financial-services-raised-a-100m-series-c-led-by-lightspeed-and-sequoia-olivia-poh-bloomberg)
+
+
+> Aspire, which provides Southeast Asian SMBs with international payments and other financial services, raised a $100M Series C led by Lightspeed and Sequoia (Olivia Poh/Bloomberg)
+
+
+***
+[DnaNudge in Pilot With Holland &amp; Barrett: Nutrition and Skincare Genetics Services Now Available at Leading Wellness Retailer's Flagship London Store](http://www.businesswire.com/news/home/20230214005058/en/DnaNudge-in-Pilot-With-Holland-Barrett-Nutrition-and-Skincare-Genetics-Services-Now-Available-at-Leading-Wellness-Retailer%E2%80%99s-Flagship-London-Store/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON--(BUSINESS WIRE)--DnaNudge announces pilot with Holland & Barrett to deliver DnaNudge's Nutrition and Skincare genetics services at retailer's flagship London store.
+
+
+***
+![Paytm Valentine's Day cashback offer: Get up to Rs 140 cashback this week, here's how](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/14/2572831-paytm-valentine-s-day-offer.png "Paytm Valentine's Day cashback offer: Get up to Rs 140 cashback this week, here's how")
+
+
+[Paytm Valentine's Day cashback offer: Get up to Rs 140 cashback this week, here's how](https://www.dnaindia.com/technology/report-paytm-valentine-s-day-cashback-offer-get-up-to-rs-140-cashback-this-week-here-s-how-3023652)
+
+
+> Valentine's Day cashback on Paytm. Paytm has come up with a unique Paytm Valentine's cashback offer, where users can collect cards and earn up to Rs 140. Paytm offers users the flexibility of payments with Paytm UPI, Paytm Wallet, Postpaid and more. The Paytm App is offering cards — Love & Affection, Entertainment, and Dinner card, all of which comprises three cards each. On collecting all these nine cards, users will get up to 14,000 Paytm cashback points worth Rs 140. This offer is valid from 13-20th February.
+
+
+***
+[Intruder Earns a Spot in Two of G2's 2023 Best Software Awards](http://www.businesswire.com/news/home/20230214005056/en/Intruder-Earns-a-Spot-in-Two-of-G2%E2%80%99s-2023-Best-Software-Awards/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON--(BUSINESS WIRE)--Intruder, the vulnerability scanning and attack surface management platform, today announced it has been named in G2's 2023 Best Software Awards, placed #16 on the Best UK Software Companies and #23 on the Best Security Products lists, selected from thousands of entrants. As the world's largest and most trusted software marketplace, G2 is visited by 80 million software buyers each year. Its annual Best Software Awards rank the world's best software companies and product
+
+
+***
+[FindMine Opens Paris Office to Bring Dynamic Content Creation to Untapped European Market](http://www.businesswire.com/news/home/20230214005045/en/FindMine-Opens-Paris-Office-to-Bring-Dynamic-Content-Creation-to-Untapped-European-Market/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--FindMine, the leader in AI-powered content creation for brands, today announced the opening of a Paris office. The new office will better enable FindMine to address the untapped potential of the market in Europe, where a growing number of European brands and retailers are embracing digital and omnichannel strategies. FindMine is also part of La Maison des Startups LVMH and the SAP.iO Foundry program, which has offices in Paris. FindMine Director of Sales EMEA Henri Hi
+
+
+***
+![The specs of Vivo T2 5G have been leaked. Claims about the introduction date were published](http://auto.24tv.ua/resources/photos/news/202302/4361188de2952-975a-40b5-ab7b-abce5f65afe3.png "The specs of Vivo T2 5G have been leaked. Claims about the introduction date were published")
+
+
+[The specs of Vivo T2 5G have been leaked. Claims about the introduction date were published](https://www.world-today-news.com/the-specs-of-vivo-t2-5g-have-been-leaked-claims-about-the-introduction-date-were-published/)
+
+
+> Chinese technology company Vivo has announced that it will launch many smartphones during the year. It was stated that the promotion is close for the Vivo T2 5G model, which was announced to be introduced on May 23, 2022 but was later stated to be until 2023. According to the information on TeknolojiOku.com, It was stated that the device will have a 6.62-inch Full HD + AMOLED display with a resolution of 1080 x 2400 pixels. The device will be powered by the Snapdragon 695 chipset. The processor of the phone will be 8GB RAM + 256GB internal storage and 12GB RAM + 256GB internal storage.
+
+
+***
+![How to save three-quarters of a trillion dollars in health care costs](https://www.statnews.com/wp-content/uploads/2023/02/AdobeStock_183568136-1024x576.jpeg "How to save three-quarters of a trillion dollars in health care costs")
+
+
+[How to save three-quarters of a trillion dollars in health care costs](https://www.statnews.com/2023/02/14/save-767billion-in-health-care-costs/)
+
+
+> O ver the last 20 years, the United States has made great strides in expanding access to health care, with 92% of Americans now covered by health insurance — a historic high. Yet millions of people still struggle to pay for their health care, from paying for medications to grappling with exorbitant hospital bills. These challenges can be mentally and emotionally taxing when access to quality care should bring peace of mind. The reason for the affordability crisis is clear: rising prices for health care services and prescription drugs.
+
+
+***
+![Artificial intelligence helps find 8 strange signs – Mercato](https://akamai.vgc.no/v2/images/0f89f04c-a278-4d59-8291-51ba60e2e9de?fit=crop&format=auto&h=1267&w=1900&s=dc3975c68536aef7a964ffe929ce8d394e7c764d "Artificial intelligence helps find 8 strange signs – Mercato")
+
+
+[Artificial intelligence helps find 8 strange signs – Mercato](https://www.world-today-news.com/artificial-intelligence-helps-find-8-strange-signs-mercato/)
+
+
+> playing artificial intelligence (AI) currently plays an important role in the ongoing search for extraterrestrial intelligence. A group of researchers from different countries, including a researcher from the University of Toronto, has created an artificial intelligence system to search for strange signals. This artificial intelligence is more effective than traditional technologies. The results of their study, which are reported in Nature Astronomy, show the value of studying vast amounts of data and the promise of artificial intelligence in research SETI.
+
+
+***
+![Seren Studios to house virtual production hub](https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/7/8/0/1390780_serenhighres_992129.jpeg "Seren Studios to house virtual production hub")
+
+
+[Seren Studios to house virtual production hub](https://www.broadcastnow.co.uk/tech/seren-studios-to-house-virtual-production-hub/5179111.article)
+
+
+> High-end facility will welcome outside productions from the autumn Great Point Seren Studios is to establish a high-end virtual production hub at its Cardiff base.  Billed as Seren Virtual Productions, the facility will offer an end-to-end solution supporting all aspects of virtual - as well as physical - production, including a range of volume configurations designed to meet the specific needs of any project. In addition to hosting full-scale film and high-end television projects from the UK and internationally, the facility will comprise a virtual production research and training academy in collaboration with Media Cymru, a consortium of creative and educational institutions in South Wales.
+
+
+***
+![Vape maker Elf Bar wants to donate to the American Cancer Society, but it doesn't want tobacco money](https://www.statnews.com/wp-content/uploads/2023/02/GettyImages-1241480916-1-1024x576.jpg "Vape maker Elf Bar wants to donate to the American Cancer Society, but it doesn't want tobacco money")
+
+
+[Vape maker Elf Bar wants to donate to the American Cancer Society, but it doesn't want tobacco money](https://www.statnews.com/2023/02/14/elf-bar-american-cancer-society-donations/)
+
+
+> W ASHINGTON — A popular Chinese vape company says it is donating thousands of dollars to the American Cancer Society in an effort to stop youth vaping, but the organization says it never agreed to the partnership, and it's ordering the company to stop. The company, Elf Bar, announced in January it was creating a program, dubbed the 'Lighthouse Guardian Program,' to prevent youth vaping. Part of that program included a pledge to donate to the American Cancer Society for every person that clicked a button on Elf Bar's website.
+
+
+***
+![Stop emailing yourself: the best file sharing options across devices](https://stuff.co.za/wp-content/uploads/2023/02/aoN7Lvw_700bwp.jpg "Stop emailing yourself: the best file sharing options across devices")
+
+
+[Stop emailing yourself: the best file sharing options across devices](https://stuff.co.za/2023/02/14/best-file-sharing-options-across-devices/)
+
+
+> File sharing has come a long way. If you're still emailing yourself images or documents, whether from PC to mobile device or vice versa, we're here to tell you there are a lot of options you could be using instead. Most of these don't require much more effort than the emailing ways of yesteryear. However, all these options for file sharing bring their own set of requirements and limitations. Some companies don't like to play nice with others – looking at you, Apple. Additionally, many methods require your devices to be on the same local network or have an active internet connection.
+
+
+***
+![Summons will not be sent in the Diya app,](https://thetimeshub.in/wp-content/uploads/2023/01/cropped-thetimeshub-3-65x65.jpg "Summons will not be sent in the Diya app,")
+
+
+[Summons will not be sent in the Diya app,](https://thetimeshub.in/summons-will-not-be-sent-in-the-diya-app-fedorov-2)
+
+
+> Spread the love Photo: rbc.ua The Ministry of Digital Transformation does not plan to introduce new services in Dii to send subpoenas. The ministry is also not working on a digital military ID for Ukrainians of military age. He said this in an interview head of the Ministry of Digital Development Mikhail Fedorov. There are still many problems that need to be solved, and I believe that these problems need to be dealt with. there won't be, and there are various discussions on other services (for the military, – ed.
+
+
+***
+[China Automotive Millimeter-wave (MMW) Radar Market Report 2022: Quickly Improving Detection Ranges Present Opportunities](http://www.businesswire.com/news/home/20230214005483/en/China-Automotive-Millimeter-wave-MMW-Radar-Market-Report-2022-Quickly-Improving-Detection-Ranges-Present-Opportunities---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "China Automotive Millimeter-wave (MMW) Radar Industry Report, 2022" report has been added to ResearchAndMarkets.com's offering. Automotive radar research: installations surged by 49.5% year on year in 2021, and by 35.4% in the first nine months of 2022. 1. The installations of automotive radars sustain growth, and are expected to reach more than 24 million units in 2025 In 2021, the installations of radars in new passenger cars in China reached 12.241 million units
+
+
+***
+![Chinese Hackers Targeting South American Diplomatic Entities with ShadowPad](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgmTmLbF2-5grhaL55ekh2GIMy1tyfgRlQDMrede2TjVZYOMcNDVdQFhb4ho0Ogf_pEDAQxgyuVv1GijfDrPnDLPCmU1gvuwm4kMuNa-6Ox2o-J9xuhIWg0tyokJqNhz5DNiM-t8DPFahqN2p4J3uwJ_7Mlx-xxHnFx3p2wG4BDLSEjfDyWxyjB3qEo/s728-e3650/chinese-hackers.jpg "Chinese Hackers Targeting South American Diplomatic Entities with ShadowPad")
+
+
+[Chinese Hackers Targeting South American Diplomatic Entities with ShadowPad](https://thehackernews.com/2023/02/chinese-hackers-targeting-south.html)
+
+
+> Microsoft on Monday attributed a China-based cyber espionage actor to a set of attacks targeting diplomatic entities in South America. The tech giant's Security Intelligence team is tracking the cluster under the emerging moniker DEV-0147 , describing the activity as an "expansion of the group's data exfiltration operations that traditionally targeted government agencies and think tanks in Asia and Europe." The threat actor is said to use established hacking tools such as ShadowPad to infiltrate targets and maintain persistent access.
+
+
+***
+![The most confusing function of WhatsApp begins to appear in its beta: keep temporary messages](https://i.blogs.es/bebc80/whatsappwhat/840_560.jpeg "The most confusing function of WhatsApp begins to appear in its beta: keep temporary messages")
+
+
+[The most confusing function of WhatsApp begins to appear in its beta: keep temporary messages](https://www.world-today-news.com/the-most-confusing-function-of-whatsapp-begins-to-appear-in-its-beta-keep-temporary-messages/)
+
+
+> Some WhatsApp news are more difficult to understand than others. An example of them is ' keep messages ', a novelty that has been in development for months and now finally seems to be appearing to some of its users, first in WhatsApp Business Beta. And 2021 WhatsApp added temporary messages, an optional configuration for chats and groups whereby messages are deleted after a period of your choosing that goes from 24 hours to three months later. But not all messages have to disappear: some may survive auto delete if we mark them as we want to keep them.
+
+
+***
+![Apple Patches Actively Exploited WebKit Zero-Day Vulnerability](https://www.securityweek.com/wp-content/uploads/2023/01/Apple-iOS-macOS-Patches-1024x576.jpg "Apple Patches Actively Exploited WebKit Zero-Day Vulnerability")
+
+
+[Apple Patches Actively Exploited WebKit Zero-Day Vulnerability](https://www.securityweek.com/apple-patches-actively-exploited-webkit-zero-day-vulnerability/)
+
+
+> Apple on Monday announced the release of updates for macOS, iOS and Safari, and they all include a WebKit patch for a new zero-day vulnerability tracked as CVE-2023-23529. The zero-day, described as a type confusion issue, can be exploited for arbitrary code execution by getting the targeted user to access a malicious website.  An anonymous researcher has been credited for reporting CVE-2023-23529 and no information has been made public on the attacks exploiting the vulnerability. However, one of Apple's advisories thanked Citizen Lab at the University of Toronto's Munk School for its assistance.
+
+
+***
+![The bulk of Hogwarts Legacy sales come from PS5 and PC](https://i.playground.ru/p/dXQLP5Mvh8eHM1tvF0sYxw.png?800-auto "The bulk of Hogwarts Legacy sales come from PS5 and PC")
+
+
+[The bulk of Hogwarts Legacy sales come from PS5 and PC](https://www.world-today-news.com/the-bulk-of-hogwarts-legacy-sales-come-from-ps5-and-pc/)
+
+
+> Despite the scandal with JK Rowling and attempts boycott the game, Hogwarts Legacy has deservedly become the biggest new release of 2023, managing to outperform the popular Harry Potter games. According to analysts, the first results of sales of the game, both physical and digital copies, are really impressive. And although it was not possible to calculate the exact numbers of Hogwarts Legacy copies sold, it is already safe to say that the PS5 and PC versions of the game are the most popular among players.
+
+
+***
+![OnePlus smartphones](https://www.tomshw.it/images/images/2023/01/oneplus-11-265756.jpg "OnePlus smartphones")
+
+
+[OnePlus smartphones](https://tekdeeps.com/oneplus-smartphones-the-best-of-2023/)
+
+
+> OnePlus one of the most discussed and talked about Android tech companies in the entire mobile panorama, presents in 2023 a line-up of devices very distant from what were the initial premises of the brand. What was once the policy of attack on the high end with devices featuring a value for money, it has gradually been transformed into a corporate positioning choice in all price segments, starting from the low end and then gradually rising. The OnePlus product portfolio for the smartphone market therefore envisages many proposals and the choice is therefore not as easy as it used to be.
+
+
+***
+![Researchers Discover Ring Around Small Solar System Body](https://canalconsultapublica.com.br/wp-content/uploads/2023/02/ufrj.jpeg "Researchers Discover Ring Around Small Solar System Body")
+
+
+[Researchers Discover Ring Around Small Solar System Body](https://www.world-today-news.com/researchers-discover-ring-around-small-solar-system-body/)
+
+
+> Recently, a group of researchers from the Valongo Observatory, at the Federal University of Rio de Janeiro (UFRJ), discovered a ring around a small body in the solar system, defined as a trans-Neptunian object. In addition, this is very similar to the planet Pluto, being also a candidate to be a dwarf planet. Professor Bruno Morgado, from the Valongo Observatory and first author of the research, published in the international journal Nature, informed Agência Brasil that 'It can be thought of as a younger, smaller cousin of Pluto'.
+
+
+***
+![Apple wants the NBA on Apple TV](https://static.iphoneitalia.com/wp-content/uploads/2023/02/nba-apple-770x433.jpg "Apple wants the NBA on Apple TV")
+
+
+[Apple wants the NBA on Apple TV](https://tekdeeps.com/apple-wants-the-nba-on-apple-tv/)
+
+
+> Apple is interested in buying a bundle for streaming live NBA games, as reported by the CNBC in these hours. In addition to Apple, Amazon and NBC are also interesting at the NBA package which compared to MLB (baseball) and MLS (American soccer league) would bring much more interest towards international users. NBCUniversal is eyeing a deal that will allow it to air playoff games on the NBC network, with some regular season games exclusive to the Peacock streaming service. The report does not mention the package that Apple would be interested in, but it is probably a solution very similar to the one just mentioned.
+
+
+***
+![Samsung Galaxy Watch 5 series now allows to track periods right from wrist](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/14/2572838-samsung-galaxy-watch-5-series.png "Samsung Galaxy Watch 5 series now allows to track periods right from wrist")
+
+
+[Samsung Galaxy Watch 5 series now allows to track periods right from wrist](https://www.dnaindia.com/technology/report-samsung-galaxy-watch-5-series-now-allows-to-track-periods-right-from-wrist-3023660)
+
+
+> Samsung Galaxy Watch 5 series Samsung Electronics has partnered with Natural Cycles to bring advanced temperature-based menstrual cycle tracking capabilities to the Samsung Galaxy Watch 5 series. This is the first time Natural Cycles' algorithm has been adapted for a smartwatch. This partnership combines Samsung's sensor technology with Natural Cycles' fertility technology to give users more detailed insight into their menstrual cycle. Samsung Galaxy Watch 5 users will now be able to access advanced cycle tracking through the Cycle Tracking feature.
+
+
+***
+![Scam Alert: Got WhatsApp Message From Your Boss or CEO? Think Twice Before Responding](https://english.cdn.zeenews.com/sites/default/files/2023/02/14/1153924-whatsappimage.jpg "Scam Alert: Got WhatsApp Message From Your Boss or CEO? Think Twice Before Responding")
+
+
+[Scam Alert: Got WhatsApp Message From Your Boss or CEO? Think Twice Before Responding](https://zeenews.india.com/technology/scam-alert-got-whatsapp-message-from-your-boss-or-ceo-think-twice-before-responding-2573152.html)
+
+
+> New Delhi: Cybersecurity researchers have discovered a spear phishing campaign where the con artists target employees of an organisation by impersonating the CEO or Boss of that company. A spear phishing attempt that targeted many organisations was discovered by CloudSEK experts. The campaign involved a certain type of message that appeared to be sent by CEOs or superiors but may actually be a scam. The threat actor sends WhatsApp messages to employees (mainly top executives) on their personal phone numbers while posing as the firm CEO in these communications.
+
+
+***
+![Here's What Amazon Chief Has To Say About ChatGPT And Its Impact](https://images.news18.com/ibnlive/uploads/2023/01/amazon-167378301616x9.jpg "Here's What Amazon Chief Has To Say About ChatGPT And Its Impact")
+
+
+[Here's What Amazon Chief Has To Say About ChatGPT And Its Impact](https://www.news18.com/news/tech/heres-what-amazon-chief-has-to-say-about-chatgpt-and-its-impact-7079239.html)
+
+
+> Google, Microsoft and plenty of other companies are working on AI chatbots or partnering with companies that are developing one. But where is Amazon? We haven't heard the brand making the headlines or talking about its plans to compete with ChatGPT. Turns out, Amazon has already been working on a ChatGPT-like AI model for a long time. This claim has been made by none other than Amazon's CEO Andy Jassy, who was quoted saying this in an interview by the Financial Times this week. Jassy also said that ChatGPT is exciting and he is interested to see what is possible with generative AI.
+
+
+***
+![F-35 fighter demonstrates prowess with stunning aerial display at Aero India](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_02_2023_13_39_23_2952638.jpg?width=920&format=jpeg "F-35 fighter demonstrates prowess with stunning aerial display at Aero India")
+
+
+[F-35 fighter demonstrates prowess with stunning aerial display at Aero India](https://www.devdiscourse.com/article/technology/2354234-f-35-fighter-demonstrates-prowess-with-stunning-aerial-display-at-aero-india)
+
+
+> PTI | Bengaluru | Updated: 14-02-2023 14:51 IST | Created: 14-02-2023 14:36 IST The United States Air Force's (USAF) newest fifth-generation F-35 fighter demonstrated its prowess at Aero India, Asia largest air show underway here. The stealthy, supersonic, multi-role F-35A Lightning II and F-35A Joint Strike Fighter made their debut at the five-day aerospace and defence exhibition at Air Force Station Yelahanka here. After a journey from Hill Air Force Base in Utah, United States, the F-35A Lightning II Demonstration Team impressed crowds with a demo of its aerial capabilities on Tuesday.
+
+
+***
+![PETA campaigning for criminal prosecution of packing plant in petition](https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/034/026/452/5nDZ3xmVezb0wgJkQy2qpdWj9/09c91d1cb26c7b4691362d2d5d2061fae69980f4.png "PETA campaigning for criminal prosecution of packing plant in petition")
+
+
+[PETA campaigning for criminal prosecution of packing plant in petition](https://newsakmi.com/food-drinks/peta-campaigning-for-criminal-prosecution-of-packing-plant-in-petition/)
+
+
+> PETA has filed new comments to an old petition to USDA's Food Safety and Inspection Service, seeking to have more criminal charges filed against a business previously found to have violated the Humane Methods of Slaughter Act. The new comments are associated with a petition PETA and other animal activists filed in 2015 That petition sought changes in the HMSA that are more to the liking of the animal activist lobby. Colin Henstrock, a PETA investigations project manager, said that since that petition was submitted, 'FSIS' abdication of duty has continued to result in substantial animal suffering.
+
+
+***
+![How-To: 6 Solutions to Apps Crashing in Windows 11](https://www.itworld.co.kr/files/itworld/ITW_202302_01/app-crush.jpg "How-To: 6 Solutions to Apps Crashing in Windows 11")
+
+
+[How-To: 6 Solutions to Apps Crashing in Windows 11](https://tekdeeps.com/how-to-6-solutions-to-apps-crashing-in-windows-11/)
+
+
+> Windows 11 is generally a better operating system than its predecessors, but sometimes problems arise during the update process. After updating, unexpected errors occur, especially when the app crashes. For example, after installing the Windows 11 KB5022360 update, apps may crash on Intel-based devices, especially those with older graphics drivers. These updates aren't required to be installed, so they'll only show up in the list of updates unless you've manually clicked the Install button. If by any chance the app crashes after installing one of these updates, here are some things you can try to fix.
+
+
+***
+![Virgin Media offers tempting freebies when you switch from BT or Sky](https://cdn.images.express.co.uk/img/dynamic/59/1200x712/4564196.jpg?r=1676365529782 "Virgin Media offers tempting freebies when you switch from BT or Sky")
+
+
+[Virgin Media offers tempting freebies when you switch from BT or Sky](https://www.express.co.uk/life-style/science-technology/1734431/Virgin-Media-deal-offer-free-Fitbit-bill-credit-switch-Sky-BT)
+
+
+> Virgin Media deals now include a free Fitbit (Image: VIRGIN MEDIA) If you're thinking about ditching your current broadband and TV provider then Virgin Media has a very tempting deal. The telecoms firm has just announced the launch of a new incentive that includes a popular Fitbit Versa 4 smartwatch or £100 bill credit when you join some of its packages. The freebies are included with the firm's Bigger Bundle + s and Ultimate Volt Bundle which both include fast broadband speeds and hundreds of TV channels to watch including premium services from Sky.
+
+
+***
+[Missouri 911 Service Board Initiates First Ever 6-Inch Resolution Statewide Imagery Program with Extensive Buy-up Options](http://www.businesswire.com/news/home/20230208005146/en/Missouri-911-Service-Board-Initiates-First-Ever-6-Inch-Resolution-Statewide-Imagery-Program-with-Extensive-Buy-up-Options/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> COLORADO SPRINGS, Colo--(BUSINESS WIRE)--Recognizing the importance to public safety and to many other government operations of high-quality aerial imagery, the Missouri 911 Service Board has partnered with the Department of Conservation, the Department of Natural Resources, and the Missouri GIS Advisory Council to launch a statewide imagery collection program. The imagery will be available at no charge through the Missouri Spatial Data Information Service (MSDIS). The Sanborn Map Company (Sanb
+
+
+***
+[University of Worcester Streamlines Clearing Process with 8x8 XCaaS](http://www.businesswire.com/news/home/20230214005123/en/University-of-Worcester-Streamlines-Clearing-Process-with-8x8-XCaaS/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON--(BUSINESS WIRE)--8x8, Inc. announced that the University of Worcester successfully deployed 8x8 XCaaS to deliver enhanced experiences during the latest Clearing period
+
+
+***
+![is there a dictionary of "Background Items"?](https://images.macrumors.com/social/?t=2380728&v=6 "is there a dictionary of "Background Items"?")
+
+
+[is there a dictionary of "Background Items"?](https://forums.macrumors.com/threads/is-there-a-dictionary-of-background-items.2380728/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly. You should upgrade or use an alternative browser . I've now started looking seriously at the allowed "background items" list in 13.2.1 A few were easy to turn off: - google updater - I'd long ago uninstalled anything google - ambrosia software - sadly SnapProX died a long time ago - istatmenus - no longer use that etc. However there are lots of items that simply have no idea what they are or if they should be there at all.
+
+
+***
+![Tuesday's top tech news: A trio of breakages](https://cdn.vox-cdn.com/thumbor/xOOZ7aESLcKkVX9JChtnnE2zNEg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23962440/acastro_STK067__01.jpg "Tuesday's top tech news: A trio of breakages")
+
+
+[Tuesday's top tech news: A trio of breakages](https://www.theverge.com/2023/2/14/23598998/february-14-2023-tech-news-liveblog)
+
+
+> Happy Tuesday, everything is broken. Most significantly, late Monday night T-Mobile experienced what appears to be a fairly major outage across the US, with thousands of customers from California to New York reporting that they were unable to place calls or use other basic network services. T-Mobile says it's now working at ' near normal levels ,' so hopefully your own connectivity will be restored by the time you're reading this. Next up on the breakages list is Twitter, whose 'For You' feed was dominated by Elon.
+
+
+***
+![OnePlus' First Mechanical Keyboard launches soon](https://www.ghacks.net/wp-content/uploads/2023/02/oneplus-featuring-keyboard-81-pro.png "OnePlus' First Mechanical Keyboard launches soon")
+
+
+[OnePlus' First Mechanical Keyboard launches soon](https://www.ghacks.net/2023/02/14/oneplus-first-mechanical-keyboard-launches-soon)
+
+
+> When people think of OnePlus, images of Android devices may come to mind first. OnePlus, which is a China-based subsidiary of Oppo, was founded in 2013 to manufacturer high-end smartphones. The company […] Thank you for being a Ghacks reader. The post OnePlus' First Mechanical Keyboard launches soon appeared first on gHacks Technology News .
+
+
+***
+![Carl Pei Reviews OnePlus 11, Says It Has ‘No Real Identity'](https://www.gizchina.com/wp-content/uploads/images/2023/02/Carl-Pei-Reviews-OnePlus-11-1200x675.jpg "Carl Pei Reviews OnePlus 11, Says It Has ‘No Real Identity'")
+
+
+[Carl Pei Reviews OnePlus 11, Says It Has ‘No Real Identity'](https://www.gizchina.com/2023/02/14/carl-pei-reviews-oneplus-11-says-it-has-no-real-identity/)
+
+
+> The co-founder of OnePlus, who has moved on to his own company, has recently dipped his toes into the world of smartphone reviews. Previously, Carl Pei checked out the latest iPhone and shared his thoughts about it. Now, he's back to reviewing the latest release from his former company, the OnePlus 11. His review on the phone was 12 minutes long. And Car went over his reactions to the software and hardware of the phone. At first, he said a lot of nice things about the OnePlus 11. According to the review, Carl thinks that the 'beautiful.
+
+
+***
+![Samsung Galaxy S23 series get record-smashing pre-orders in South Korea](https://fdn.gsmarena.com/imgroot/news/23/02/samsung-galaxy-s23-ultra-durability/-952x498w6/gsmarena_000.jpg "Samsung Galaxy S23 series get record-smashing pre-orders in South Korea")
+
+
+[Samsung Galaxy S23 series get record-smashing pre-orders in South Korea](https://www.gsmarena.com/samsung_reaches_recordsmashing_galaxy_s23_preorders_in_south_korea-news-57539.php)
+
+
+> Samsung opened the Galaxy S23 pre-orders after the series launch, and consumer interest has been great in South Korea. According to local sources, there were 1.09 million pre-orders, over 7% more than the Galaxy S22 last year . It is the highest amount of pre-orders ever for a Galaxy S lineup in the Asian country, and only the Galaxy Note10 family saw a higher number, with nearly 1.4 million back in August 2019 . Korean media reveals 60% of all orders were placed for the Galaxy S23 Ultra model.
+
+
+***
+![Xiaomi 13 Pro Launch in India on 26 February 2023](https://images.thequint.com/thequint%2F2023-02%2Ff1e6a01a-ad43-4bad-bcab-4cc6798cb108%2FScreenshot_2023_02_14_132318__1_.png?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true "Xiaomi 13 Pro Launch in India on 26 February 2023")
+
+
+[Xiaomi 13 Pro Launch in India on 26 February 2023](https://www.thequint.com/tech-and-auto/tech-news/xiaomi-13-pro-launch-indias-1st-1-inch-camera-phone-arriving-soon-price-features-specifications)
+
+
+> The tech giant Xiaomi is all set to launch India's first 1-inch camera smartphone Xiaomi 13 Pro in India on 26 February 2023. The handset will be the first-ever Leica-powered Xiaomi phone in India. The Xiaomi 13 Pro was unveiled last year in the month of December in China during a big launch event. Xiaomi 13 Pro is likely to arrive with an upgraded display, long lasting massive battery, and powered by a power-packed processor. Let us read about the expected features, specifications, and pricing details of the upcoming Xiaomi 13 Pro.
+
+
+***
+![There will be new systems in cars, they will make sure we are looking at the road](https://antyweb.pl/img/294/166/fit/wp-content/uploads/2023/02/klipr8lq8h/Depositphotos_4166712_S.jpg "There will be new systems in cars, they will make sure we are looking at the road")
+
+
+[There will be new systems in cars, they will make sure we are looking at the road](https://tekdeeps.com/there-will-be-new-systems-in-cars-they-will-make-sure-we-are-looking-at-the-road/)
+
+
+> In the middle of last year, the European Commission announced new requirements for safety systems installed in passenger cars. Now it clarifies these announcements by publishing detailed requirements for such solutions, which are to save the lives of up to 25,000 people by 2038. The car will check if you are looking at the road For several years now, the European Commission has been successively imposing various requirements on car manufacturers regarding safety systems. On the one hand, this increases prices, but on the other hand, it makes the roads safer, although it is difficult to estimate how much, because the percentage of new cars is still small.
+
+
+***
+![Dear Google, finally give Samsung and Xiaomi smartphone users what they pay you for](https://v.wpimg.pl/Zi9iZy5wdQhYCyxKGgx4HRtTeBBcVXZLTEtgWxo4dVwPEW5MGh50HklHKhUaFnUAFhouHhoHMQ8WCz1XRRk9S0Q "Dear Google, finally give Samsung and Xiaomi smartphone users what they pay you for")
+
+
+[Dear Google, finally give Samsung and Xiaomi smartphone users what they pay you for](https://tekdeeps.com/dear-google-finally-give-samsung-and-xiaomi-smartphone-users-what-they-pay-you-for/)
+
+
+> Is charging for operations performed against the will of users befitting the creators of the most popular operating system in the world? Google doesn't seem to have a problem with this. Google Photos – the app that is installed by default on hundreds of millions of smartphones each year – has a serious flaw. And it's not that in June 2021, the creators stopped offering unlimited cloud space and, after exceeding 15 GB, charged PLN 8.99 to PLN 699.99 per month for the service. Personally, I would not have the slightest problem with paying if Google Photos worked as I expect.
+
+
+***
+![Reaction to slapping Will Smith ‘wasn't enough'](https://vid.alarabiya.net/images/2022/03/28/dc57b4f1-b1c9-4c74-bb6c-29ac3c4fed8e/dc57b4f1-b1c9-4c74-bb6c-29ac3c4fed8e_16x9_600x338.jpg "Reaction to slapping Will Smith ‘wasn't enough'")
+
+
+[Reaction to slapping Will Smith ‘wasn't enough'](https://www.world-today-news.com/reaction-to-slapping-will-smith-wasnt-enough/)
+
+
+> The Academy was criticized for allowing Smith to stay and receive an award after he attacked Rock Published in: Feb 14, 2023: 09:21 AM GST The head of the Academy of Motion Picture Arts and Sciences in Hollywood said on Monday, during a gathering of nominees for this year's Oscars, that the academy's response to… Slap movie star Will Smith For Chris Rock to host the awards show last March that wasn't enough. The Academy was criticized for allowing Smith to remain in his seat and receive the Best Actor award after he attacked Rock on stage.
+
+
+***
+![HDFC implements offline digital payments under sandbox of RBI](https://bfsi.eletsonline.com/wp-content/uploads/2023/02/HDFC-Bank.jpg "HDFC implements offline digital payments under sandbox of RBI")
+
+
+[HDFC implements offline digital payments under sandbox of RBI](https://bfsi.eletsonline.com/hdfc-implements-offline-digital-payments-under-sandbox-of-rbi/)
+
+
+> 🔊 Listen to this Article HDFC Bank has begun a pilot initiative to enable digital payments in the offline mode under a regulatory mechanism. according to the largest private bank in the nation, the facility would allow it to complete transactions in no-network locations and urban areas with poor networks. The offline digital payments pilot project has been launched by HDFC Bank in collaboration with M2P Fintech, Crunchfish AB of Sweden, and IDFC Bank of India. The pilot is taking place as part of the Reserve Bank of India's (RBI) regulatory sandbox's fourth cohort.
+
+
+***
+![A sign in the eye warns of the risk of a heart attack](https://storage.googleapis.com/fp-media/1/2023/02/AstonMartin.jpg "A sign in the eye warns of the risk of a heart attack")
+
+
+[A sign in the eye warns of the risk of a heart attack](https://www.world-today-news.com/a-sign-in-the-eye-warns-of-the-risk-of-a-heart-attack/)
+
+
+> The American Center for Disease Control and Prevention (CDC), revealed that there is a sign in the eye that indicates the accumulation of cholesterol in the body and the risk of heart attack. The center explained that this sign is the presence of a whitish-gray color in the shape of a half-moon (crescent) on the outer surface of the cornea, indicating that this shape is a sign of cholesterol accumulation in different parts of the body. He added that in addition to the appearance of the unique crescent shape in the eye, there are other signs of high cholesterol in the blood, which are bumps around the knees, joints or elbows, swelling or pain in the Achilles tendon, and yellow areas around the eyes.
+
+
+***
+![Hungarian Foreign Minister Visits Minsk Ahead Of EU Consideration Of Further Sanctions](http://www.globalsecurity.org/favicon.ico "Hungarian Foreign Minister Visits Minsk Ahead Of EU Consideration Of Further Sanctions")
+
+
+[Hungarian Foreign Minister Visits Minsk Ahead Of EU Consideration Of Further Sanctions](http://www.globalsecurity.org/wmd/library/news/belarus/2023/belarus-230213-rferl01.htm)
+
+
+> By RFE/RL's Belarus Service February 13, 2023 Hungarian Foreign Minister Peter Szijjarto on February 13 became the first senior official from a European Union country to visit Belarus since the beginning of a crackdown on the opposition in 2020. Szijjarto made the visit to keep communication channels open, according to official statements. He met with Belarusian Foreign Minister Syarhey Aleynyk. Several experts contacted by RFE/RL's Hungarian Service said the visit was a demonstration of support for the authorities of Belarus and indirectly for Russia.
+
+
+***
+![Uh, Ju Ae... We have to change your name](http://www.globalsecurity.org/favicon.ico "Uh, Ju Ae... We have to change your name")
+
+
+[Uh, Ju Ae... We have to change your name](http://www.globalsecurity.org/wmd/library/news/dprk/2023/dprk-230213-rfa01.htm)
+
+
+> North Korean authorities force anyone sharing name with Kim Jong Un's daughter to pick new one By Hyemin Son for RFA Korean 2023.02.13 -- The parents of 12-year-old Ju Ae were summoned to the local government office and confronted with a shocking order: Change your daughter's name. Unfortunately, she shares the same given name as Kim Jong Un's daughter, Kim Ju Ae - and in North Korea that's now forbidden, sources in the country tell Radio Free Asia. In recent months, state media has been shining a spotlight on Kim Ju Ae as she accompanies her father at important events, fueling speculation that she could be next in line to lead the country - or that she is part of an effort to cast her father as an approachable family man.
+
+
+***
+![Earthquake disaster: UN chief welcomes Syria decision to open aid corridors](http://www.globalsecurity.org/favicon.ico "Earthquake disaster: UN chief welcomes Syria decision to open aid corridors")
+
+
+[Earthquake disaster: UN chief welcomes Syria decision to open aid corridors](http://www.globalsecurity.org/wmd/library/news/syria/2023/syria-230213-unnews01.htm)
+
+
+> 13 February 2023 - The UN Secretary-General has welcomed the decision on Monday by the Syrian president to open two further crossing points on the Turkish border to allow more aid into the stricken northwest of the country. Only a single crossing point - Bab al-Hawa - has been open to humanitarians since the 6 February earthquakes struck across the border region of southern Türkiye and northwest Syria, which has been in the grip of civil war for the past 12 years, and is the last remaining region partly under the control of opposition forces.
+
+
+***
+![China urges US to lift unilateral sanctions against Syria, instead of making a political show](http://www.globalsecurity.org/favicon.ico "China urges US to lift unilateral sanctions against Syria, instead of making a political show")
+
+
+[China urges US to lift unilateral sanctions against Syria, instead of making a political show](http://www.globalsecurity.org/wmd/library/news/syria/2023/syria-230213-globaltimes01.htm)
+
+
+> When asked for comment on a report that the US Treasury has announced a 180-day exemption on Thursday to its sanctions on Syria for "all transactions related to earthquake relief efforts," the Chinese Foreign Ministry responded on Monday that the US government should immediately lift unilateral sanctions against Syria instead of making a political show of temporary easing.
+
+
+***
+![UN chief: Syrian president agrees to open two more border crossings to help quake-hit people](http://www.globalsecurity.org/favicon.ico "UN chief: Syrian president agrees to open two more border crossings to help quake-hit people")
+
+
+[UN chief: Syrian president agrees to open two more border crossings to help quake-hit people](http://www.globalsecurity.org/wmd/library/news/syria/2023/syria-230214-presstv01.htm)
+
+
+> Iran Press TV Tuesday, 14 February 2023 2:27 AM The United Nations' secretary-general says Syrian President Bashar al-Assad has agreed to open two more border crossings to facilitate relief aid delivery to the northern part of the quake-hit country, which is held by militants. Antonio Guterres announced the development on Monday after Assad approved the use of Bab al-Salam and al-Raee crossings, which link Turkey to northwestern Syria, for outreach purposes. In line with the presidential decree, the crossings would be opened for an initial period of three months to allow for the timely delivery of humanitarian aid.
+
+
+***
+![Laptops Market Valuation Worth USD 257.4 billion by 2031, At a CAGR 4.4% – Report by Allied Market Research](https://img.einnews.com/facebook/228786/allied-market.jpeg "Laptops Market Valuation Worth USD 257.4 billion by 2031, At a CAGR 4.4% – Report by Allied Market Research")
+
+
+[Laptops Market Valuation Worth USD 257.4 billion by 2031, At a CAGR 4.4% – Report by Allied Market Research](https://www.einpresswire.com/article/616906422/laptops-market-valuation-worth-usd-257-4-billion-by-2031-at-a-cagr-4-4-report-by-allied-market-research)
+
+
+> Rise in demand for laptops in the corporate sectors will present new growth opportunities for the global laptops market in the coming years. PORTLAND, OR , UNITED STATES, UNITED STATES, February 14, 2023 / EINPresswire.com / -- Rise in internet usage globally, increase in consumer knowledge about emerging technologies, growth of the information technology (IT) sector, rise in digital convergence resulting in the high demand for high-performance laptops across a variety of industries, including education, automotive, manufacturing, and medicine, rise in trend of bring-your-own-device (BYOD) among businesses, the increased demand for multipurpose laptop, and increase in spending power of consumers fuel the growth of the global laptops market .
+
+
+***
+![Wo Long: Fallen Dynasty received a friend machine request](https://www.gamechannel.hu/pictures/hirblock/barati-gepigenyt-kapott-a-wo-long-fallen-dynasty_1.jpg "Wo Long: Fallen Dynasty received a friend machine request")
+
+
+[Wo Long: Fallen Dynasty received a friend machine request](https://www.world-today-news.com/wo-long-fallen-dynasty-received-a-friend-machine-request-news-block/)
+
+
+> Team Ninja presented the final system requirements of Wo Long: Fallen Dynasty, based on which it can be confidently stated that the PC version of the monster hunting action game will not need a power plant – unless all settings are turned to the maximum. The game that takes care of the intellectual heritage of Nioh can run comfortably even on a multi-year-old machine, it needs 8GB of RAM, a GTX 1650 and a Core i5-8400 processor, which is especially friendly compared to the minimum system requirements seen nowadays.
+
+
+***
+![Experts demand better measures to protect children caught in conflict](http://www.globalsecurity.org/favicon.ico "Experts demand better measures to protect children caught in conflict")
+
+
+[Experts demand better measures to protect children caught in conflict](http://www.globalsecurity.org/military/library/news/2023/02/mil-230213-unnews01.htm)
+
+
+> 13 February 2023 - Preventing violations against children affected by war has never been more pertinent or urgent, the UN expert advocating for these boys and girls said in a briefing to the Security Council on Monday. Virginia Gamba, the Secretary-General's Special Representative on Children and Armed Conflict, who is currently preparing her latest report, said data gathered so far reveals that trends showing high levels of violations are continuing. Nearly 24,000 grave violations were verified in 2021, the last reporting year.
+
+
+***
+![President Urges 'Maximum Vigilance' Following Receipt Of Intercepted Russian Plans To 'Destroy' Moldova](http://www.globalsecurity.org/favicon.ico "President Urges 'Maximum Vigilance' Following Receipt Of Intercepted Russian Plans To 'Destroy' Moldova")
+
+
+[President Urges 'Maximum Vigilance' Following Receipt Of Intercepted Russian Plans To 'Destroy' Moldova](http://www.globalsecurity.org/military/library/news/2023/02/mil-230213-rferl02.htm)
+
+
+> By RFE/RL's Moldovan Service February 13, 2023 Moldovan President Maia Sandu has called for "maximum vigilance" after receiving documents from the Ukrainian intelligence services that she said showed that Russia planned to destabilize Moldova by using agents provocateurs to attack government buildings under the guise of public protests. "Documents received from our Ukrainian partners show documentation of the locations and logistical aspects of organizing these subversions," Sandu said on February 13.
+
+
+***
+![Defense Ministers to Address NATO's 'Race for Logistics'](http://www.globalsecurity.org/favicon.ico "Defense Ministers to Address NATO's 'Race for Logistics'")
+
+
+[Defense Ministers to Address NATO's 'Race for Logistics'](http://www.globalsecurity.org/military/library/news/2023/02/mil-230213-dodnews01.htm)
+
+
+> February 13, 2023 By Jim Garamone , DOD News NATO is in a race for logistics, Secretary General Jens Stoltenberg told reporters as he previewed this week's Defense Ministerial meeting in Brussels, today. Defense ministers will gather at alliance headquarters to discuss how to best strengthen NATO's deterrence and defense, and how to best supply Ukraine the arms and training its military needs to defeat the Russian invaders. Secretary of Defense Lloyd J. Austin III is traveling to Brussels to represent the United States at the meeting and also to convene a meeting of the Ukraine Defense Contact Group.
+
+
+***
+![Cambodian Leader Orders Shutdown of Independent Media Outlet](http://www.globalsecurity.org/favicon.ico "Cambodian Leader Orders Shutdown of Independent Media Outlet")
+
+
+[Cambodian Leader Orders Shutdown of Independent Media Outlet](http://www.globalsecurity.org/military/library/news/2023/02/mil-230213-voa06.htm)
+
+
+> By Sun Narin February 13, 2023 There were tears at Cambodia's Voice of Democracy on Monday as journalist Khan Leakhena reacted to the sudden order to close the news website. "I worked here not for money, but due to my love," said Khan Leakhena, as others comforted the reporter. Khan Leakhena is one of more than 30 journalists affected by Prime Minister Hun Sen's order to revoke the outlet's license. The order is in response to the media outlet reporting on Cambodia agreeing to send $100,000 in humanitarian aid to Turkey after last week's devastating earthquake.
+
+
+***
+![Israel Approves Nine Settlements in West Bank, Says Israel's National Security Minister](http://www.globalsecurity.org/favicon.ico "Israel Approves Nine Settlements in West Bank, Says Israel's National Security Minister")
+
+
+[Israel Approves Nine Settlements in West Bank, Says Israel's National Security Minister](http://www.globalsecurity.org/military/library/news/2023/02/mil-230213-sputnik02.htm)
+
+
+> 20230213 TEL AVIV (Sputnik) - Several new Israeli settlements in the West Bank were legalized following a cabinet meeting on national security affairs, Israel's National Security Minister Itamar Ben-Gvir said. "I am glad that the cabinet accepted my request this evening to approve nine settlements," Ben-Gvir said on Twitter late on Sunday night, adding that "it is an important start" but "not enough." The press service of Israeli Prime Minister Benjamin Netanyahu said that the construction of new housing units on the territory of existing settlements was expected to be approved in the coming days.
+
+
+***
+![Philippine Coast Guard says Chinese vessel blinded crew with laser](http://www.globalsecurity.org/favicon.ico "Philippine Coast Guard says Chinese vessel blinded crew with laser")
+
+
+[Philippine Coast Guard says Chinese vessel blinded crew with laser](http://www.globalsecurity.org/military/library/news/2023/02/mil-230213-rfa01.htm)
+
+
+> It also claims the China Coast Guard sailed dangerously close to one of its ships. By RFA and BenarNews Staff 2023.02.13 -- The Philippine Coast Guard on Monday accused China of performing dangerous maneuvers and pointing a laser at one of its vessels, causing temporary blindness to the crew. Japan meanwhile said on Sunday a Chinese Navy ship intruded into its territorial waters for the first time since December. Territorial waters are the sea areas that lie within 12 nautical miles (22 kilometers) of a country's coast.
+
+
+***
+![Top Taliban Official's Public Criticism Reignites Internal Rift Speculations](http://www.globalsecurity.org/favicon.ico "Top Taliban Official's Public Criticism Reignites Internal Rift Speculations")
+
+
+[Top Taliban Official's Public Criticism Reignites Internal Rift Speculations](http://www.globalsecurity.org/military/library/news/2023/02/mil-230213-voa01.htm)
+
+
+> By Ayaz Gul February 13, 2023 Senior leaders of Afghanistan's ruling Islamist Taliban have recently resorted to rare public criticism of each other, reigniting internal rift speculations over whether girls should be allowed to receive an education. The war of words began last Saturday when the influential Taliban interior minister, Sirajuddin Haqqani, lashed out at his leadership for "monopolizing" power, though he did not name anyone. "Our views and thoughts have dominated us to such an extent that power monopolization and defamation of the entire [ruling] system have become common," Haqqani told a religious gathering in his native southeastern Khost region.
+
+
