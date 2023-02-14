@@ -26173,3 +26173,949 @@
 > NEW YORK--(BUSINESS WIRE)--Tassat Group Inc., the leading provider of real-time digital payments solutions for commercial banks and their corporate clients, today announced the appointment of Zain Saidin as Chief Operating Officer. Saidin is a technology operations veteran, bringing over 30 years of technology integration, and strategic business development to Tassat. Prior to joining Tassat, Saidin served as the Chief Engineer and an Executive Vice President at KLA Corporation (NYSE:KLAC), a l
 
 
+***
+![What is Generative AI? The technology that keeps Google, Microsoft and Meta on their toes](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/14081525/Generative-AI-Explained-800x445.jpg "What is Generative AI? The technology that keeps Google, Microsoft and Meta on their toes")
+
+
+[What is Generative AI? The technology that keeps Google, Microsoft and Meta on their toes](https://shepherdgazette.com/what-is-generative-ai-the-technology-that-keeps-google-microsoft-and-meta-on-their-toes/)
+
+
+> Generative AI is one of the most important buzzwords in recent times. With growing popularity in the tech fraternity and rising VC interest with billions being pumped into generative AI applications and research, it seems that 2023 is likely to see further developments in this space. In November of last year, San Francisco-based AI start-up OpenAI caused a stir after launching its revolutionary ChatGPT. Chat Generative Pre-trained Transformer, built on OpenAI's large language models, opened for public testing on November 30, 2022.
+
+
+***
+![Tech tips for dating: Make sure a creep doesn't come after you](https://1010wcsi.com/wp-content/uploads/2020/07/WCSI-header.png "Tech tips for dating: Make sure a creep doesn't come after you")
+
+
+[Tech tips for dating: Make sure a creep doesn't come after you](https://1010wcsi.com/fox-technology/tech-tips-for-dating-make-sure-a-creep-doesnt-come-after-you/)
+
+
+> Online dating is the most common way for singles to get together these days. Whether it's a website like Match.com, OKCupid.com, OurTime.com, eHarmony or applications like Bumble, Hinge and Tinder, lots of people out there are looking for love using the web. CLICK TO GET KURT'S CYBERGUY NEWSLETTER WITH QUICK TIPS, TECH REVIEWS, SECURITY ALERTS AND EASY HOW-TO'S TO MAKE YOU SMARTER If you've heard of 'The Tinder Swindler' on Netflix, you may already know this, yet schemes are getting extreme when it comes to online dating.
+
+
+***
+![Cherry blossom biome heading to Minecraft](https://gonintendo.com/attachments/image/23232/file/medium-880339e9db17f4425a4f6dc2725c933c.png "Cherry blossom biome heading to Minecraft")
+
+
+[Cherry blossom biome heading to Minecraft](https://gonintendo.com/contents/16235-cherry-blossom-biome-heading-to-minecraft)
+
+
+> Are you ready for Minecraft 1.20 to bring a rare, and above all PINK, biome to the Overworld!? You better be, because the cherry blossom biome will be coming soon to Java snapshots and Bedrock betas and previews. This beautiful biome is filled with cherry blossom trees that bring a unique look to the horizon as their crowns are big and flat, like fluffy pink clouds. It's no wonder that three adorable mobs, pigs, sheep, and bees, are drawn to them and will spawn in this biome. The cherry tree can be broken down into a full wood-set as well as crafted into the new hanging sign that is also coming in Minecraft 1.
+
+
+***
+![Nintendo suggests Switch couch co-op games](https://gonintendo.com/attachments/image/23231/file/medium-43091e4e674883565ce54209e5362d57.png "Nintendo suggests Switch couch co-op games")
+
+
+[Nintendo suggests Switch couch co-op games](https://gonintendo.com/contents/16234-nintendo-suggests-switch-couch-co-op-games)
+
+
+> Buddy up for twice the fun Nintendo continues to put together features where they suggest Switch games that fit into a certain theme. This time around, Nintendo has focused in on Valentine's Day by offering up a batch of games that include couch co-op. Playing single-player games can be a blast, but sometimes you just want to share your journey with a friend. Luckily, there are several games on the Switch where a second player can join you on your quest—no additional system required! So, cozy up on the sofa, pass a controller, and check out 2-player co-op games that you and a friend can enjoy together.
+
+
+***
+[FulcrumAir Announces Successful Completion of Pilot Program to Install BFDs Using the Latest in Drone and Robotic Technology](http://www.businesswire.com/news/home/20230209005728/en/FulcrumAir-Announces-Successful-Completion-of-Pilot-Program-to-Install-BFDs-Using-the-Latest-in-Drone-and-Robotic-Technology/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WELLINGTON, CO.--(BUSINESS WIRE)--FulcrumAir is very pleased to announce that we have very successfully installed more than 1,500 Power Line Sentry Hawk Eye™ BFDs under a pilot program for Atlantic City Electric, which serves about 560,000 customers across southern New Jersey. The work was done by FulcrumAir, working in collaboration with MJ Electric, in South Jersey on five transmission lines in high-risk bird collision areas. Patrick Arnell, CEO of FulcrumAir said, 'We are very proud that Atl
+
+
+***
+![Microsoft's chief technology officer says he uses the new AI-powered Bing to decode his teenage daughter's use of Gen Z slang like 'rizz' and 'bussin'](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17tNev.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=157&y=226 "Microsoft's chief technology officer says he uses the new AI-powered Bing to decode his teenage daughter's use of Gen Z slang like 'rizz' and 'bussin'")
+
+
+[Microsoft's chief technology officer says he uses the new AI-powered Bing to decode his teenage daughter's use of Gen Z slang like 'rizz' and 'bussin'](http://www.msn.com/en-us/news/technology/microsoft-s-chief-technology-officer-says-he-uses-the-new-ai-powered-bing-to-decode-his-teenage-daughter-s-use-of-gen-z-slang-like-rizz-and-bussin/ar-AA17u1t4)
+
+
+> Microsoft's "new Bing" search engine is here with a familiar looking chat bot supported by OpenAI's technology, so we experimented to see how it stacks up against the reigning bot ChatGPT. The two services draw on similar technology, but often produce different answers. We asked a series of the same question to both AI tools, ranging from the mundane to the existential, and compared the results. Scroll on to see how they fared against each other: What I liked: It offered a template for an honest and empathetic message.
+
+
+***
+![Spider-Man 4, Fantastic Four, X-Men Updates From Marvel's Kevin Feige](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8f3dffb9942f623af48307b0c3ef5c56.jpg "Spider-Man 4, Fantastic Four, X-Men Updates From Marvel's Kevin Feige")
+
+
+[Spider-Man 4, Fantastic Four, X-Men Updates From Marvel's Kevin Feige](https://gizmodo.com/kevin-feige-marvel-studios-spider-man-x-men-fantastic-4-1850113711)
+
+
+> When Kevin Feige speaks , news about the Marvel Cinematic Universe is going to be made, and it just happened again. In a new interview, the president of Marvel Studios said that there are ideas of how to continue the story of Tom Holland's Spider-Man and that writers are getting to work now. He also thinks Marvel streaming shows should come out less frequently and revealed that Harrison Ford will play the President of the United States in Captain America: New World Order. That's just some of what Feige told Entertainment Weekly in an excellent interview which you can read in full at that link.
+
+
+***
+![God of Rock 'Burdens' soundtrack sample released](https://gonintendo.com/attachments/image/23230/file/medium-85f306bed2b796751bec8fb21a225108.webp "God of Rock 'Burdens' soundtrack sample released")
+
+
+[God of Rock 'Burdens' soundtrack sample released](https://gonintendo.com/contents/16233-god-of-rock-burdens-soundtrack-sample-released)
+
+
+> Modus Games previously announced that God of Rock will open its world tour on April 18, 2023, unleashing a stacked setlist of energetic tracks that players will need to master to perform devastating combos in musical matches against other fighters. Today brings us a new soundtrack sample video showcasing the ‘Burdens' song from Marina Ryan. You can give that tune a listen above. Think you have what it takes to defeat the most talented artists in the universe? Now's your chance to test your skills, as attendees of this weekend's Holiday Matsuri event can get their hands on a new playable demo.
+
+
+***
+![You Don't Need to Delete Anything to Free Up Space on Your iPhone](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15VNBb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "You Don't Need to Delete Anything to Free Up Space on Your iPhone")
+
+
+[You Don't Need to Delete Anything to Free Up Space on Your iPhone](http://www.msn.com/en-us/news/technology/you-don-t-need-to-delete-anything-to-free-up-space-on-your-iphone/ar-AA15joQJ)
+
+
+> Oh no. Your iPhone storage is nearly full. You can no longer update to the latest iOS software, download any more apps or take a single more photo or video. Now, you do have a few obvious options to clear up your storage, but they require you to delete things or spend money. You can remove large files, like movies, TV shows and music albums, but maybe you're not ready to give those up. There are also various cloud alternatives to beef up your existing storage, but that requires shifting files around, and you may have to pay for it.
+
+
+***
+![Wordle 606 answer for today: Here is the Wordle answer for February 15](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/14/2572961-wordle.jpg "Wordle 606 answer for today: Here is the Wordle answer for February 15")
+
+
+[Wordle 606 answer for today: Here is the Wordle answer for February 15](https://www.dnaindia.com/technology/report-wordle-606-answer-for-today-here-is-the-wordle-answer-for-february-15-3023769)
+
+
+> Wordle 606 answer for today: Here is the Wordle answer for February 15 Wordle puzzle game gained a meteoric rise during the pandemic. Invented by software engineer Josh Wardle, the online game is quite addictive and it has become for millions of players across the globe. The game is web-based and does not require any additional app or software. In the Wordle puzzle game, you have to correctly guess a pre-selected word by making random word guesses and taking the hints. Every midnight, Wordle refreshes its word of the day and you get six attempts to guess the correct word.
+
+
+***
+![Digital Foundry analyzes Metroid Prime Remastered](https://gonintendo.com/attachments/image/23227/file/medium-6309b612b80bc7df43f7cb55cb1b57f1.jpg "Digital Foundry analyzes Metroid Prime Remastered")
+
+
+[Digital Foundry analyzes Metroid Prime Remastered](https://gonintendo.com/contents/16230-digital-foundry-analyzes-metroid-prime-remastered)
+
+
+> One of the best on Switch Digital Foundry, the kings of technical teardowns, have set their sights on Metroid Prime Remastered. Not surprisingly, the team has come away quite impressed with what they've found. Just as fans were surprised to see, Metroid Prime Remastered is much more than just an up-rez of the original GameCube release. You can watch the video above to get full insight into what Digital Foundry discovered, but if you're just looking for the finer points, check out the summary below.
+
+
+***
+![Elden Ring Wins Prestigious AMD Excellence Award in Japan; Nominated for Grand Prize](https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Elden%20Ring.jpg?itok=vCyVFmIq "Elden Ring Wins Prestigious AMD Excellence Award in Japan; Nominated for Grand Prize")
+
+
+[Elden Ring Wins Prestigious AMD Excellence Award in Japan; Nominated for Grand Prize](https://techraptor.net/gaming/news/elden-ring-wins-prestigious-amd-excellence-award-in-japan-nominated-for-grand-prize)
+
+
+> Today the Japanese Association of Media in Digital announced the recipients of its annual Excellence Awards for the 2022 edition of the prestigious AMD Awards.  The awards, sponsored by the Japanese Ministry of Internal Affairs and Communications, are designed to honor excellent work in the realm of digital media released in the past year. The aim is to promote the development of the Japanese digital content industry across the board, including video games, anime, broadcasts, and more.  This year, FromSoftware's Elden Ring won one of the ten excellence awards.
+
+
+***
+[Last Minute Valentine's Day Gifts for Aging Loved Ones According to America's leading Alzheimer's and aging-in-place expert Lisa M. Cini](http://www.businesswire.com/news/home/20230214005780/en/Last-Minute-Valentine%E2%80%99s-Day-Gifts-for-Aging-Loved-Ones-According-to-America%E2%80%99s-leading-Alzheimer%E2%80%99s-and-aging-in-place-expert-Lisa-M.-Cini/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> COLUMBUS, Ohio--(BUSINESS WIRE)--Last Minute Valentine's Day Gifts for Aging Loved Ones According to America's leading Alzheimer's and aging-in-place expert Lisa M. Cini
+
+
+***
+![Ten Dates now available on Switch](https://gonintendo.com/attachments/image/23225/file/medium-d9507c8b9e4452b390a15d4d139ab66d.jpg "Ten Dates now available on Switch")
+
+
+[Ten Dates now available on Switch](https://gonintendo.com/contents/16228-ten-dates-now-available-on-switch)
+
+
+> Wales Interactive has released a wealth of FMV titles in the past few years, and it seems to be an approach that works for them. The publisher's next release in the FMV genre is Ten Dates, the sequel to the FMV title Five Dates, and it's set to arrive on Feb. 14th, 2023. Ten Dates is an interactive rom-com taking place in the post-pandemic world, and you can see the game's latest trailer above. Misha, a millennial from London in search of that elusive in-person connection, tricks her best friend Ryan into going to a speed dating event with her.
+
+
+***
+![Send Love Across the Multiverse With Our Nerdy Valentine's Day Cards](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/47c5b32bd8137aaf441005e5f474e427.png "Send Love Across the Multiverse With Our Nerdy Valentine's Day Cards")
+
+
+[Send Love Across the Multiverse With Our Nerdy Valentine's Day Cards](https://gizmodo.com/nerdy-valentines-day-cards-2023-pedro-pascal-avatar-2-1850113567)
+
+
+> It's the most romantic time of the year once more, and as always , io9 has got your back if you need to tell someone you love them through the medium of genre film and TV , and questionable puns. Let your heart skip a beat and stroll through our handcrafted nerd Valentines, from Star Wars to Marvel and beyond, from G/O Media Art Director Vicky Leta!
+
+
+***
+!['Father of the internet' sounds the alarm on the gold rush around AI chatbots](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17tWJH.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=715&y=304 "'Father of the internet' sounds the alarm on the gold rush around AI chatbots")
+
+
+['Father of the internet' sounds the alarm on the gold rush around AI chatbots](http://www.msn.com/en-us/news/technology/father-of-the-internet-sounds-the-alarm-on-the-gold-rush-around-ai-chatbots/ar-AA17tMOQ)
+
+
+> The hype around chatbots like ChatGPT has only grown in recent weeks, but one of the creators of the internet is preaching caution amid a perceived gold rush around AI. Load Error Vint Cerf, widely recognized as a "father of the internet," warned people against hastily investing in conversational AI chatbots like ChatGPT and Google Bard simply because they're "cool" and buzzed about. While speaking at a conference in Mountain View, California, CNBC reported that Cerf said AI chatbots also have "an ethical issue" that he hopes people will think about before investing in the technology.
+
+
+***
+![Turning waste water into water that works with Alex Rappaport from ZwitterCo](https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?resize=1200,675 "Turning waste water into water that works with Alex Rappaport from ZwitterCo")
+
+
+[Turning waste water into water that works with Alex Rappaport from ZwitterCo](https://techcrunch.com/2023/02/14/turning-waste-water-into-water-that-works-with-alex-rappaport-from-zwitterco/)
+
+
+> Rebecca Szkutak Darrell Etherington 8 hours Welcome back to Found, where we get the stories behind the startups. This week Darrell and Becca are joined by Alex Rappaport, the CEO and co-founder of ZwitterCo, a startup that develops technology that filters waste water. Alex talked about how his childhood on the Potomac river inspired his future career in clean water. He also talked about what it was like to build a commercial business off of existing lab research. Lastly, he talks about his fundraising journey and how amateur boxing injuries may have helped his pitch.
+
+
+***
+![Meta Improves Its Consumer-facing Tool That Explains Why You're Seeing That Ad](https://st1.latestly.com/wp-content/uploads/2022/05/3-TechCrunch-784x441.jpg "Meta Improves Its Consumer-facing Tool That Explains Why You're Seeing That Ad")
+
+
+[Meta Improves Its Consumer-facing Tool That Explains Why You're Seeing That Ad](https://www.latestly.com/socially/technology/meta-improves-its-consumer-facing-tool-that-explains-why-youre-seeing-that-ad-latest-tweet-by-techcrunch-4842383.html)
+
+
+> Meta improves its consumer-facing tool that explains why you're seeing that ad https://t.co/I9M62jSMHP by @sarahintampa— TechCrunch (@TechCrunch) February 14, 2023 ( brings you all the latest breaking news, viral trends and information from social media world, including Twitter, Instagram and Youtube. The above post is embeded directly from the user's social media account and LatestLY Staff may not have modified or edited the content body. The views and facts appearing in the social media post do not reflect the opinions of LatestLY, also LatestLY does not assume any responsibility or liability for the same.
+
+
+***
+![Drew Mailen, Author at Technical.ly](https://technical.ly/wp-content/uploads/2023/02/Penn-Blockchain-Conference-1.jpg "Drew Mailen, Author at Technical.ly")
+
+
+[Drew Mailen, Author at Technical.ly](https://technical.ly/author/dmailen/)
+
+
+> No body in the article.
+
+
+***
+![Meta improves its consumer-facing tool that explains why you're seeing that ad](https://techcrunch.com/wp-content/uploads/2023/02/WAIST-3.0_Header.jpeg?resize=1200,675 "Meta improves its consumer-facing tool that explains why you're seeing that ad")
+
+
+[Meta improves its consumer-facing tool that explains why you're seeing that ad](https://techcrunch.com/2023/02/14/meta-improves-its-consumer-facing-tool-that-explains-why-youre-seeing-that-ad/)
+
+
+> Meta today announced it's making changes to increase transparency around ads. The company says it's updating a nearly decade-old Facebook feature 'Why am I seeing this ad?' to better explain to consumers how an AI technique called machine learning may have played a role in the ad's placement, among other factors. Specifically, it will now highlight how user activity both on and off Facebook may inform its machine learning models and it will detail how those models work to connect topics. The company for years has fought off rumors that it's listening to users' conversations in order to target them with relevant ads.
+
+
+***
+[iQor's Strategic Outsourcing Partnership With Retailer Optimizes Performance and Saves $5M in Order Entry Costs](http://www.businesswire.com/news/home/20230214005714/en/iQor%E2%80%99s-Strategic-Outsourcing-Partnership-With-Retailer-Optimizes-Performance-and-Saves-5M-in-Order-Entry-Costs/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ST. PETERSBURG, Fla.--(BUSINESS WIRE)-- #Automation--iQor's Strategic Outsourcing Partnership With Retailer Optimizes Performance and Saves $5M in Order Entry Costs
+
+
+***
+![Celebrate Valentine's Day in Sky: Children of the Light with the Days of Love Event](https://gonintendo.com/attachments/image/23222/file/medium-f3ed7ee8f11b0a0d9d424718806c6abf.png "Celebrate Valentine's Day in Sky: Children of the Light with the Days of Love Event")
+
+
+[Celebrate Valentine's Day in Sky: Children of the Light with the Days of Love Event](https://gonintendo.com/contents/16225-celebrate-valentine-s-day-in-sky-children-of-the-light-with-the-days-of-love-event)
+
+
+> Today, thatgamecompany is inviting players to celebrate Valentine's Day in Sky: Children of the Light with their Days of Love event, which runs now until February 26. Days of Love is the time to appreciate all of the different loving relationships that connect players through the game, in ways large and small. During the Days of Love event, players will have the opportunity to enjoy the following new features: Double Heart Gifting - Players can share even more with their loved ones. A Revamped Home - A new Home with a warm inviting appearance and freshly redecorated pier awaits players.
+
+
+***
+![New NA-Central Server now live in Fortnite](https://gonintendo.com/attachments/image/23221/file/medium-50549265e31de9ceaaa9792c175d2f64.jpg "New NA-Central Server now live in Fortnite")
+
+
+[New NA-Central Server now live in Fortnite](https://gonintendo.com/contents/16224-new-na-central-server-now-live-in-fortnite)
+
+
+> Today, Epic is excited to launch the Fortnite NA-Central server region! Epic has worked with Amazon Web Services (AWS) in Dallas, Texas, USA, to positively impact as many players as we can. The NA-Central server region ('matchmaking region') is using AWS Local Zones to provide a low-latency experience for players residing in Mexico and the Central United States. During Battle Royale Chapter 4 Season 1, competitive events won't be held on the NA-Central server region except for a few cases where there may be events testing the new servers.
+
+
+***
+![Prague dl grew, EZ nale in the center of attention](https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/00A4B15C884C1E8D3D2F927F0EACC09B/fallback-1200x630-swi.jpg "Prague dl grew, EZ nale in the center of attention")
+
+
+[Prague dl grew, EZ nale in the center of attention](https://www.world-today-news.com/prague-dl-grew-ez-nale-in-the-center-of-attention/)
+
+
+> 14.2.2023 16:41 The Prask stock market has continued its solid growth even today and is not stopping either on technical or psychological levels. The PX index increased by 0.88% and reached 1410.37 points. It's all about the EZ. According to him, concrete new information is not known, but the market is still being bought in large quantities. Today, the exchange rate reached 1060 K after the public pekonn border of 1000 K, the animal was at 1047 K with a profit of 3.36%. The traded volume reached an eight-high 756 million K.
+
+
+***
+![Romantic songs for your date night](https://www.inside-digital.de/img/paerchen-handhalten.jpg "Romantic songs for your date night")
+
+
+[Romantic songs for your date night](https://www.world-today-news.com/romantic-songs-for-your-date-night/)
+
+
+> Do you have a date for Valentine's Day? Do you want to invite your partner to a romantic dinner? Then you still need the right music to make you happy. This can be easily set with music streaming services such as Spotify, Deezer and Co. Ditch Whitney Houston's 'I Will Always Love You' and spice up your record selection. You have two options: On the one hand, you can create your own list for Valentine's Day – with the songs that you met, that remind you of moments you shared, or simply with your favorite songs.
+
+
+***
+![Migrating from Flask to FastAPI, Part 2](https://external-preview.redd.it/uFUbFv7hgCCbHIrVnIKV8ZTbVIRrMW_yKHEZzpsU0S4.jpg?auto=webp&v=enabled&s=cd3b77ca1afe6503efce19ae4601ddf052d58c5a "Migrating from Flask to FastAPI, Part 2")
+
+
+[Migrating from Flask to FastAPI, Part 2](https://www.reddit.com/r/Python/comments/112btdf/migrating_from_flask_to_fastapi_part_2)
+
+
+> 🎁 Migrating from Flask to FastAPI, Part 2 This is the juicy part, all the main code changes from Flask to FastAPI, including some auth and dependencies. From Forethought with love ❤️ For the advanced stuff, including the g pseudo-global variable, more techniques migrating from Flask to FastAPI, and mixing async and await with blocking code, wait for the next part. 😎
+
+
+***
+![Blanc now available on Switch](https://gonintendo.com/attachments/image/23218/file/medium-718a91632b32a3921fc2308b52743cc1.jpg "Blanc now available on Switch")
+
+
+[Blanc now available on Switch](https://gonintendo.com/contents/16222-blanc-now-available-on-switch)
+
+
+> Gearbox Publishing has announced that Blanc is now available on Switch. The game is priced at $20 and takes up 646 MB of space. Blanc is an artistic cooperative adventure that follows the journey of a wolf cub and a fawn stranded in a vast, snowy wilderness. Experience the poetic tale of a wolf cub and a fawn in the spectacular world of Blanc. Lost in a sudden snowstorm, they will have to lean on each other in order to follow the footprints their families left behind in the snow. Immerse yourself in the stunningly beautiful black-and-white world of Blanc – completely hand-drawn on paper in 2D before coming to life in 3D.
+
+
+***
+![QUANTUMANIA Meets QUANTUM LEAP in Our 1989-Inspired Mashup](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2023/02/14091946/Quantumania-Quantum-Leap-Remix-1.jpg "QUANTUMANIA Meets QUANTUM LEAP in Our 1989-Inspired Mashup")
+
+
+[QUANTUMANIA Meets QUANTUM LEAP in Our 1989-Inspired Mashup](https://nerdist.com/article/ant-man-wasp-quantumania-meets-quantum-leap-nerdist-remix/)
+
+
+> NEW html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd" xml encoding="UTF-8" Disney+'s Loki showed why time in the Marvel Cinematic Universe is a lot more complicated than we realized. But we had no idea just how true that is until we recently went through an old box of VHS tapes. Turns out the MCU has been hopping around the Sacred Timeline for a lot longer than we knew.
+
+
+***
+![The CPI in the United States in January was higher than expected and lower than the previous value, and gold jumped by $20 after short-term bottoming Author Huitong Finance](https://i-invdn-com.investing.com/news/LYNXMPEAA20GT_L.jpg "The CPI in the United States in January was higher than expected and lower than the previous value, and gold jumped by $20 after short-term bottoming Author Huitong Finance")
+
+
+[The CPI in the United States in January was higher than expected and lower than the previous value, and gold jumped by $20 after short-term bottoming Author Huitong Finance](https://www.world-today-news.com/the-cpi-in-the-united-states-in-january-was-higher-than-expected-and-lower-than-the-previous-value-and-gold-jumped-by-20-after-short-term-bottoming-author-huitong-finance/)
+
+
+> The U.S. CPI in January was higher than expected and lower than the previous value, and gold jumped $20 after short-term bottoming At 21:30 Beijing time on Tuesday (February 14), the U.S. Department of Labor released its inflation report for January. Both the overall and core CPI were higher than expected and lower than the previous value. As of press time, spot gold rebounded by nearly $20 to $1870.39 an ounce after falling $8.7. Data show that the overall CPI annual rate in the United States recorded 6.
+
+
+***
+![These are Microsoft's Bing AI secret rules and why it says it's named Sydney](https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg "These are Microsoft's Bing AI secret rules and why it says it's named Sydney")
+
+
+[These are Microsoft's Bing AI secret rules and why it says it's named Sydney](https://www.theverge.com/23599441/microsoft-bing-ai-sydney-secret-rules)
+
+
+> Microsoft's new Bing AI keeps telling a lot of people that its name is Sydney. In exchanges posted to Reddit , the chatbot often responds to questions about its origins by saying, 'I am Sydney, a generative AI chatbot that powers Bing chat.' It also has a secret set of rules that users have managed to find through prompt exploits (instructions that convince the system to temporarily drop its usual safeguards). We asked Microsoft about Sydney and these rules, and the company was happy to explain their origins and confirmed that the secret rules are genuine.
+
+
+***
+![TechCrunch+ roundup: Advice for laid-off techies, fintech flops, how to build a growth team](https://s.yimg.com/ny/api/res/1.2/Y9JED77gYqSyzxq6TnKY7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/techcrunch_350/c5f1e43c50545b3b6e0c0e1c936b6765 "TechCrunch+ roundup: Advice for laid-off techies, fintech flops, how to build a growth team")
+
+
+[TechCrunch+ roundup: Advice for laid-off techies, fintech flops, how to build a growth team](https://news.yahoo.com/techcrunch-roundup-advice-laid-off-180028294.html)
+
+
+> Many tech workers have never experienced a job market like this one. Losing a job unexpectedly is more than a financial shock. Many of us invest much of our identity in what we do for a living, which means layoffs can transform social and emotional lives overnight. Slashing your spending and polishing your LinkedIn page is the right move, but investors tell me that now is still a good time to launch a startup. The fact that you've just been laid off from a startup proves that you have a tolerance for risk.
+
+
+***
+![Logz.io bets on generative AI to help ops teams remediate issues](https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-807331754.jpg?resize=1200,750 "Logz.io bets on generative AI to help ops teams remediate issues")
+
+
+[Logz.io bets on generative AI to help ops teams remediate issues](https://techcrunch.com/2023/02/14/logz-io-bets-on-generative-ai-to-help-ops-teams-remediate-issues/)
+
+
+> Cloud observability platform Logz.io today announced that it is launching a generative AI model to augment its existing machine learning tools, which focus on a company's observability data, with additional information from other data sources. Through this, the tool can now generate smarter remediation recommendations and, in turn, improve ops teams' reaction times. The company, which focuses on aggregating data from a variety of open source observability tools , started using supervised machine learning back in 2016 and then expanded that with Cognitive Insights, which draws from crowdsourced information from the Logz.
+
+
+***
+![Bring Tabletop Games to Your Phone With Role's New Mobile Features](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/aaf536a79a1af08bbb60298758217a57.jpg "Bring Tabletop Games to Your Phone With Role's New Mobile Features")
+
+
+[Bring Tabletop Games to Your Phone With Role's New Mobile Features](https://gizmodo.com/role-app-virtual-table-top-mobile-play-ttrpg-phone-game-1850112113)
+
+
+> Role, an integrated tabletop play experience—the company shies away from using the term 'virtual tabletop,' hoping to convey a more holistic offering—is now going to be fully available on mobile app. The press release states that this will provide ' seamless game room support across smartphones, tablets, desktop, and more.' Rapidly expanding its free offerings , Role has developed and launched 'immersive room theming, custom audio support, colored dice, and video improvements.' According to the press release, it is the first company in the TTRPG industry to offer all these integrated virtual tools in addition to the virtual tabletop/play room that players and GMs can establish in order to keep all their virtual gaming assets in one place.
+
+
+***
+![REVIEW: Blanc is a heartfelt adventure in need of fine-tuning](https://gonintendo.com/attachments/image/23207/file/medium-7b2a45bef76653965c134c179cec79d0.png "REVIEW: Blanc is a heartfelt adventure in need of fine-tuning")
+
+
+[REVIEW: Blanc is a heartfelt adventure in need of fine-tuning](https://gonintendo.com/contents/16216-review-blanc-is-a-heartfelt-adventure-in-need-of-fine-tuning)
+
+
+> We all have our topics, subjects and themes that we're suckers for. When it comes to me, two things included in my long list of likes are unique visuals and animals. That's why I was instantly on-board with Blanc when it was revealed. A completely black-and-white game that features a wolf cub and fawn? I knew then and there that I'd be checking this game out as soon as the opportunity presented itself. It's very important to say that while I definitely have elements of any form of entertainment I like, they don't automatically give that piece of entertainment a pass.
+
+
+***
+![Ant-Man & the Wasp Quantumania 1989](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2018/08/14021151/cropped-apple-touch-icon-152x152_preview-32x32.png "Ant-Man & the Wasp Quantumania 1989")
+
+
+[Ant-Man & the Wasp Quantumania 1989](https://nerdist.com/watch/video/ant-man-the-wasp-quantumania-1989-quantum-leap-mashup-nerdist-remix/)
+
+
+> NEW Watch > Shows > Nerdist Presents > Video What if Ant-Man and the Wasp Quantumania aired in 1989? Well Nerdist just dug up an old VHS copy of the hit series that never was! Join Scott Lang, Hope Van Dyne, and the rest of the gang as they leap into the Quantum Realm in Marvel's latest ‘80s adventure! Edited by Matt Caron Narration by Maude Garrett VFX & Graphics by Charles Shattuck Watch more Nerdist Remixes https://www.
+
+
+***
+![Why SecDataOps Is the Future of Your Security Program](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt01a14f4066b0907a/63eaa8b8e823f62a083a3d56/Data_marcos_alvarado_Alamy.jpg "Why SecDataOps Is the Future of Your Security Program")
+
+
+[Why SecDataOps Is the Future of Your Security Program](https://www.darkreading.com/risk/why-secdataops-is-the-future-of-your-security-program)
+
+
+> In a tale seemingly as old as time, security teams have been continuously under siege. Be it novel attack paths, lethal adversaries, new technologies — such as public cloud, containerization, Kubernetes , and serverless computing — or stringent regulatory requirements, teams have faced quite the burden. To help shoulder the load, the industry has established frameworks and pushed out amazing tech, from SIEMs to CNAPPs and XDRs to CASBs. These processes and technologies have helped to keep attackers at bay and people protected, but have created a new problem of far too much data.
+
+
+***
+![Wordle 606 Solution Today, 15 February 2023: Know Hints, Clues, and Word of the Day Here; Check Wordle Rules and Other Details](https://images.thequint.com/thequint%2F2022-06%2Fd51692f7-3655-4e0f-91b0-dfd0ebb12eaa%2Fthumbnail_wordle.jpg "Wordle 606 Solution Today, 15 February 2023: Know Hints, Clues, and Word of the Day Here; Check Wordle Rules and Other Details")
+
+
+[Wordle 606 Solution Today, 15 February 2023: Know Hints, Clues, and Word of the Day Here; Check Wordle Rules and Other Details](https://www.thequint.com/tech-and-auto/tech-news/wordle-606-solution-check-hints-clues-and-word-of-the-day-here-know-latest-details)
+
+
+> Read the Wordle 606 hints and clues today. (Photo: Altered by The Quint)
+
+
+***
+![Charade Maniacs sees digital/physical Switch release this Summer](https://gonintendo.com/attachments/image/23217/file/medium-8c695b170f7e11a7977bad89f6f91cb9.png "Charade Maniacs sees digital/physical Switch release this Summer")
+
+
+[Charade Maniacs sees digital/physical Switch release this Summer](https://gonintendo.com/contents/16221-charade-maniacs-sees-digital-physical-switch-release-this-summer)
+
+
+> Idea Factory is excited to announce that their latest otome title, Charade Maniacs, will be arriving physically and digitally in North America and Europe for the Switch this Summer. Take on the role of Hiyori Sena, a high school sophomore who has been abducted by a masked figure. Trapped in the mysterious world of Arcadia with nine others, she is forced by her captor to act in dramas alongside the other abductees. To make matters worse, there's a traitor among the costars! Love blooms on and off stage in this dramatic search for truth and romance.
+
+
+***
+![Moonstone Island 'Romance' trailer](https://gonintendo.com/attachments/image/23216/file/medium-3a94381b1f1e96c81cdf8dd06f914cb1.jpg "Moonstone Island 'Romance' trailer")
+
+
+[Moonstone Island 'Romance' trailer](https://gonintendo.com/contents/16220-moonstone-island-romance-trailer)
+
+
+> Developer Studio Supersoft and publisher Raw Fury have a very special date night planned with the new gameplay trailer for Moonstone Island, the charming, open-world, deckbuilding life sim. This latest look at the title casts the spotlight on the game's relationship mechanics, introducing the villagers you can befriend and romance, the dating system and more. In Moonstone Island, players take on the role of a young alchemist starting a new life on a floating island in the sky. Armed with simple tools, alchemical recipes, and the ability to tame nature spirits, you'll build a home and prove yourself as a true alchemist in a land threatened by dark forces.
+
+
+***
+![Horizon Detection with Computer Vision](https://external-preview.redd.it/dtMitBa24ruQf6V1h2DjaHSVkns1b1ndv-QxOLHQr3Y.jpg?auto=webp&v=enabled&s=4f67050f2df2444034f46b981fe074568c5fe2b4 "Horizon Detection with Computer Vision")
+
+
+[Horizon Detection with Computer Vision](https://www.reddit.com/r/Python/comments/112bjpj/horizon_detection_with_computer_vision)
+
+
+> Hi everyone! I post a video showing how computer vision can be used to autonomously control an airplane. If you are interested in programming and aviation, check it out! https://youtu.be/BQiIkhdTP4o
+
+
+***
+![Boost your home Wi-Fi range with the best Wi-Fi extenders](https://www.zdnet.com/a/img/resize/939def6b776fac810c5e14f96269d66a731849cd/2023/02/07/df434bfe-99c8-4483-b796-49f9d6de9822/netgear-nighthawk.jpg?auto=webp&fit=crop&height=675&width=1200 "Boost your home Wi-Fi range with the best Wi-Fi extenders")
+
+
+[Boost your home Wi-Fi range with the best Wi-Fi extenders](https://www.zdnet.com/home-and-office/networking/best-wifi-extender/#ftag=RSSbaffb68)
+
+
+> Tehc specs: Range: 2,500 square feet | Number of de vices: 30 | Price: $250 If you're looking for a robust Wi-Fi extender that can handle a variety of devices, the Netgear Nighthawk EAX80 Wi-Fi Extender is the one for you. It's the priciest option on our list because Netgear offers features that rivals don't. The EAX80 is optimized for all Wi-Fi 6 routers, providing the fastest form of wireless internet you can buy today. The dual-band technology offers up to 6Gbps performance, which is ideal even for the heaviest-duty 4K/8K Ultra-HD streaming and multi-player gaming.
+
+
+***
+[Avaya Takes Action to Accelerate Transformation and Fortify Capital Structure](http://www.businesswire.com/news/home/20230213005689/en/Avaya-Takes-Action-to-Accelerate-Transformation-and-Fortify-Capital-Structure/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MORRISTOWN, N.J.--(BUSINESS WIRE)--Avaya Holdings Corp. (NYSE: AVYA) ('Avaya' or the 'Company'), a global leader in solutions to enhance and simplify communications and collaboration, today announced that it has entered into a Restructuring Support Agreement (the 'Financial Restructuring') with overwhelming support of more than 90% of the Company's secured lenders (the 'Investor Group'). Implementing the Financial Restructuring will accelerate Avaya's ongoing business transformation, significan
+
+
+***
+![Motherboard shipments tanked in 2022](https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-14-image-7.jpg "Motherboard shipments tanked in 2022")
+
+
+[Motherboard shipments tanked in 2022](https://www.techspot.com/news/97604-motherboard-shipments-tanked-2022.html)
+
+
+> Bottom line: The world's top four motherboard makers collectively saw shipments decline by more than 10 million units in 2022, in line with broader industry trends. Unfortunately, a serious turnaround might not happen until late this year or in early 2024. Asus, Gigabyte, MSI and ASRock were among the hardest hit. According to supply chain sources, ASRock saw shipments dip by 55 percent year over year, from around six million units in 2021 to just 2.7 million last year. MSI, meanwhile, shipped 9.
+
+
+***
+![Super Bowl LVII was the most-streamed Super Bowl yet](https://cdn.vox-cdn.com/thumbor/Cs7-rcjlf_bmryxsqPQcQkOk4Ak=/0x0:5306x3790/1200x628/filters:focal(2783x1841:2784x1842)/cdn.vox-cdn.com/uploads/chorus_asset/file/24431977/1247117752.jpg "Super Bowl LVII was the most-streamed Super Bowl yet")
+
+
+[Super Bowl LVII was the most-streamed Super Bowl yet](https://www.theverge.com/2023/2/14/23599340/super-bowl-lvii-most-streamed-game)
+
+
+> This year's Super Bowl LVII was the most-streamed Super Bowl yet, hitting an average of 7 million streams across the services showing the game. According to data Fox Sports obtained from Adobe Analytics, Super Bowl streams increased 18 percent from last year's 6 million streams — and 103 percent over 2020, which saw just 3.4 million streams. The 7 million streams included viewers watching the big game on NFL's TV and mobile apps, NFL's website, the NFL Plus streaming service, as well as on Fox's apps and website.
+
+
+***
+![Theatrhythm devs open to a Nintendo-themed installment](https://gonintendo.com/attachments/image/23215/file/medium-3448521be1da22153b4732c809979fda.jpg "Theatrhythm devs open to a Nintendo-themed installment")
+
+
+[Theatrhythm devs open to a Nintendo-themed installment](https://gonintendo.com/contents/16219-theatrhythm-devs-open-to-a-nintendo-themed-installment)
+
+
+> THEATRHYTHM FINAL BAR LINE is coming to the Switch on February 16th, 2023, and it's the culmination of all things THEATRHYTHM so far. The game is absolutely exploding with Final Fantasy music, from mainline games to spin-offs and everything in-between. It appears the dev team is considering this installment to be be-all/end-all with the THEATRHYTHM series, but that doesn't mean there's no room for spin-offs. THEATRHYTHM producer Ichiro Hazama and director Masanobu Suzui are doing the rounds with press to talk about THEATRHYTHM FINAL BAR LINE, but they're also fielding questions about potential future installments.
+
+
+***
+![Atomic Heart Composer Donates His Fees Atomic Heart Helps Ukraine](https://www.gamereactor.cn/media/66/sykedetaljerfremheves_3416643b.jpg "Atomic Heart Composer Donates His Fees Atomic Heart Helps Ukraine")
+
+
+[Atomic Heart Composer Donates His Fees Atomic Heart Helps Ukraine](https://www.world-today-news.com/atomic-heart-composer-donates-his-fees-atomic-heart-helps-ukraine/)
+
+
+> There's been a lot of controversy surrounding Atomic Heart, which launches on PC, PlayStation, and Xbox on February 21. The reason is that the game has a Russian developer who refuses to condemn Russia 's war on Ukraine. Additionally, Mundfish has been accused of collecting personal data from its users and has had some dubious circumstances surrounding its financing. Acclaimed video game composer Mick Gordon (Doom Instinct), who is working on the game's soundtrack, has now decided to take a stand against Putin, Russia, and relentless war.
+
+
+***
+![NASA's Axiom 2 Will Have First Female Commander for Private Space Mission](https://1734811051.rsc.cdn77.org/data/images/full/421200/nasa-partners-clear-axiom-s-second-private-astronaut-mission-crew.png "NASA's Axiom 2 Will Have First Female Commander for Private Space Mission")
+
+
+[NASA's Axiom 2 Will Have First Female Commander for Private Space Mission](https://www.techtimes.com/articles/287647/20230214/nasa-axiom-mission-2-first-female-commander-private-space-mission.htm)
+
+
+> Jace Dela Cruz , Tech Times 14 February 2023, 12:02 pm The crew for Axiom Space's second private astronaut mission to the International Space Station, Axiom Mission 2 (Ax-2), has recently received approva l from NASA and its international partners. Peggy Whitson, the Director of Human Spaceflight at Axiom Space and a former NASA astronaut, will serve as the mission's commander. The pilot will be John Shoffner from Knoxville, Tennessee. Whitson will make history as the first female commander of a private space mission.
+
+
+***
+![MXM adaptor card for GPU replacement?](https://images.macrumors.com/social/?t=2380794&v=6 "MXM adaptor card for GPU replacement?")
+
+
+[MXM adaptor card for GPU replacement?](https://forums.macrumors.com/threads/mxm-adaptor-card-for-gpu-replacement.2380794/)
+
+
+> Hi First of all, i don't even own a trashcan Mac Pro. But that idea has been in my head for a while and now i just want to ask the community if what i'm thinking of is feasible. One of the biggest culprit of the MP 6,1 from what i've seen on many review videos and discussions are the only proprietary GPU options. But wouldn't it be possible to design a PCB which has the exact same shape as a D300 with screw holes in the exact same places to mount the card and on that card there would be an MXM connector to slot in any GPU? I know it's easier said than done but once all precise measurements are done, screw holes in the exact spot, power posts and the big connector to interface GPU daughter card, the project could be sent to a company like PCBway or any other.
+
+
+***
+![Bing's ChatGPT experiment is deeply flawed, and is the future of search](https://photos5.appleinsider.com/gallery/52999-106114-bing-test-header-xl.jpg "Bing's ChatGPT experiment is deeply flawed, and is the future of search")
+
+
+[Bing's ChatGPT experiment is deeply flawed, and is the future of search](https://appleinsider.com/articles/23/02/14/bings-chatgpt-experiment-is-deeply-flawed-and-is-the-future-of-search)
+
+
+> Microsoft's addition of a ChatGPT interface to Bing could revolutionize search at some point, but given the nonsense it can spew now, it looks like it will take years before it becomes actually useful. For months, OpenAI's ChatGPT has gotten a big spotlight from tech reporters. As a chatbot capable of using information scraped from the Internet and used to create plausible-sounding answers to users' questions, it has a lot of potential. With a considerable cash infusion and a long working relationship with Microsoft, it's no surprise that Redmond wants to infuse these smarts with its products in various ways.
+
+
+***
+![Download GB WhatsApp Pro v 18.00 Rich in features, more privacy guarantees, anti-banned, long story WA, turns out to be dangerous Mod Apk](https://media.suara.com/suara-partners/sumedang/thumbs/970x545/2023/01/11/1-gb-wa.png "Download GB WhatsApp Pro v 18.00 Rich in features, more privacy guarantees, anti-banned, long story WA, turns out to be dangerous Mod Apk")
+
+
+[Download GB WhatsApp Pro v 18.00 Rich in features, more privacy guarantees, anti-banned, long story WA, turns out to be dangerous Mod Apk](https://www.world-today-news.com/download-gb-whatsapp-pro-v-18-00-rich-in-features-more-privacy-guarantees-anti-banned-long-story-wa-turns-out-to-be-dangerous-mod-apk/)
+
+
+> SuaraSumedang.id – GB WhatsApp be a one of a kind app Mod Apk which still seizes the attention of gadget users. This is because GB WhatsApp, which was developed by a third party, is considered superior to the features provided compared to the original. One of the many versions of GB WhatsApp that many are looking for is 18.00, which is equipped with rich features. Some people also don't know what features are in this version of GB WhatsApp. Impact link download Part files are again being sought after by gadget users because they are curious about using them.
+
+
+***
+[Kochava Announces Acquisition of Machine Advertising](http://www.businesswire.com/news/home/20230214005113/en/Kochava-Announces-Acquisition-of-Machine-Advertising/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SANDPOINT, Idaho & LONDON--(BUSINESS WIRE)--Kochava, the leading real-time data solutions company for omni-channel attribution and measurement, today announced that it and Machine Advertising have agreed to terms for the acquisition of Machine Advertising, a leader in app marketing technology. The acquisition of Machine Advertising will enable Kochava to enhance the company's measurement solutions with Machine's Always-on Incremental Measurement (AIM) product and continue to increase its footpr
+
+
+***
+![How is the dust settling in the forex? Markets? A wide angle view.](https://images.forexlive.com/images/USD_id_8993c57b-0561-4a4f-b512-b893cc87af0d_size900.jpg?v=1676402330427 "How is the dust settling in the forex? Markets? A wide angle view.")
+
+
+[How is the dust settling in the forex? Markets? A wide angle view.](https://www.forexlive.com/technical-analysis/how-is-the-dust-settling-in-the-forex-take-a-wide-angle-view-20230214/)
+
+
+> The USD was lower to start the day. Now higher The strongest to the weakest at the start of day To start the US trading session ( and before the US CPI ), the USD was mostly lower. The GBP GBP The Great British pound (GBP) or pound sterling is the official currency of the United Kingdom, Jersey, Guernsey, the Isle of Man, Gibraltar, South Georgia, and other pacific territories.The GBP is currently the fourth most-traded currency worldwide in forex markets after the US dollar, euro, and Japanese yen.
+
+
+***
+![Snapchat video shoot triggers police action – FFH.de](https://www.ffh.de/fileadmin/_processed_/b/f/csm_snapchat_dpa_ba7ce0aecf.jpg "Snapchat video shoot triggers police action – FFH.de")
+
+
+[Snapchat video shoot triggers police action – FFH.de](https://www.world-today-news.com/snapchat-video-shoot-triggers-police-action-ffh-de/)
+
+
+> Several men with storm masks triggered a police operation in Limburg on Sunday evening. Late on Sunday evening, witnesses reported that there were several men wearing balaclavas at the cinema in Limburg, who later got into a tuned Mercedes, the police now say. Masking for a Snapchat video Ultimately, the men did not appear to be in any danger. Because, as it turned out after a manhunt with several strips, the vehicle owner from Hadamar only wanted to shoot a video with his buddies for the social media service 'Snapchat'.
+
+
+***
+![Internet Explorer gone from Windows 10 devices](https://i0.wp.com/pcpress.rs/wp-content/uploads/2021/05/explorer.jpg?resize=768%2C432&ssl=1 "Internet Explorer gone from Windows 10 devices")
+
+
+[Internet Explorer gone from Windows 10 devices](https://tekdeeps.com/internet-explorer-gone-from-windows-10-devices/)
+
+
+> Internet Explorer has been leaving Windows devices for some time now and the company Microsoft announced back in October 2020 that it is definitely over, and that it will be phased out slowly and cautiously. Recently, he met another 'little death', and it was forced kicked out of Windows 10 system. It is true that Internet Explorer 11 was never the default browser for Windows 10, but everything revolved around the older version of Microsoft Edge. It could still be found on devices with this variant of the operating system, even when security updates stopped in June 2022.
+
+
+***
+![Bungie doesn't want your AI-generated Destiny fan art](https://cdn.vox-cdn.com/thumbor/7xCzd9YDEG6V4ziv81mIh0IG1mI=/0x0:3200x2000/1200x628/filters:focal(1600x1000:1601x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24432140/Destiny_2_AI_artwork.jpg "Bungie doesn't want your AI-generated Destiny fan art")
+
+
+[Bungie doesn't want your AI-generated Destiny fan art](https://www.theverge.com/2023/2/14/23599438/bungie-destiny-ai-generated-art-community-creations-spotlight)
+
+
+> Game studio Bungie spoke out in support of human creatives in a blog post last week after it was revealed that the Destiny 2 developer had unknowingly showcased an AI-generated image during its 'Artist of the Week' community highlights (seen via Kotaku ). The image was accused of being created using generative AI by Bungie forum members following the spotlight. The user who posted it didn't deny the claims, responding that they would remove the image and that they 'just thought the picture was really neat.
+
+
+***
+[SMS Assist Announces Service Expansion With GP Mobile](http://www.businesswire.com/news/home/20230214005611/en/SMS-Assist-Announces-Service-Expansion-With-GP-Mobile/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CHICAGO--(BUSINESS WIRE)--SMS Assist, a Lessen company, is pleased to be expanding service location coverage to more than 500 GP Mobile cellular stores with a new facilities management program. In addition to increasing the number of locations now handled by SMS Assist, an HVAC preventative maintenance program, along with additional exterior and interior services, is being added to the existing roster of services provided. This proactive program will not only drive cost control, but also suppor
+
+
+***
+![Female scientist exploring the unknown SF action ADV 'Scars Above' 2nd making video released! -GAME Watch](https://game.watch.impress.co.jp/img/gmw/list/1478/367/2.jpg "Female scientist exploring the unknown SF action ADV 'Scars Above' 2nd making video released! -GAME Watch")
+
+
+[Female scientist exploring the unknown SF action ADV 'Scars Above' 2nd making video released! -GAME Watch](https://www.world-today-news.com/female-scientist-exploring-the-unknown-sf-action-adv-scars-above-2nd-making-video-released-game-watch/)
+
+
+> PLAION is a SF third-person action adventure shooter 'Scars Above' for PlayStation 5/PlayStation 4/Xbox Series X|S/Xbox One/PC scheduled to be released on February 28 (Steam version is March 1). About 'Making video part 2' was released on the company's YouTube channel on February 15th. 'Scars Above' is a sci-fi third-person action-adventure shooter set in an unknown world. The 'Sentient Contact Assessment and Response Team (SCAR)' consisting of scientists and engineers is dispatched to the site to investigate the huge structure 'Metahedron' that suddenly appeared in the earth's orbit.
+
+
+***
+![AI does a poor job of diagnosing COVID-19 from coughs, study finds](https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1064170490.jpg?resize=1200,800 "AI does a poor job of diagnosing COVID-19 from coughs, study finds")
+
+
+[AI does a poor job of diagnosing COVID-19 from coughs, study finds](https://techcrunch.com/2023/02/14/ai-does-a-poor-job-of-diagnosing-covid-19-from-coughs-study-finds/)
+
+
+> Early in the pandemic, a number of researchers, startups and institutions developed AI systems that they claimed could diagnose COVID-19 from the sound of a person's cough. At the time, we ourselves were enthusiastic about the prospect of AI that could be yielded as a weapon against the virus; in one headline, we endorsed cough-scrutinizing AI as 'promising.' But a recent study (first reported on by The Register) suggests that some cough-analyzing algorithms are less accurate than we — and the public — were led to believe.
+
+
+***
+![Video is fueling the newest group of dating app startups](https://techcrunch.com/wp-content/uploads/2023/02/1702909840-huge.png?resize=1200,744 "Video is fueling the newest group of dating app startups")
+
+
+[Video is fueling the newest group of dating app startups](https://techcrunch.com/2023/02/14/video-dating-apps/)
+
+
+> There's been a continuous shift toward video-focused dating apps in recent years as more users opt for authentic connections that photos and text often fail to achieve. Throughout February–aka the last month of 'cuffing season'–three startups are launching dating apps that use video in order to help users find love: , and . Video offers a more authentic experience for users who may have grown tired of mindlessly swiping for hours on profile photos that, honestly, start to look the same after a while.
+
+
+***
+![Tasso lassos EU approval for at-home high-volume blood collection device](https://qtxasset.com/quartz/qcloud5/media/image/lasso.jpg?VersionId=vOv2RHFwOlPHP3vQiLYfgl5GYQQQw2gZ "Tasso lassos EU approval for at-home high-volume blood collection device")
+
+
+[Tasso lassos EU approval for at-home high-volume blood collection device](https://www.fiercebiotech.com/medtech/tasso-lassos-eu-approval-home-high-volume-blood-collection-device)
+
+
+> Tasso lassos EU approval for at-home high-volume blood collection device apark Tue, 02/14/2023 - 12:16
+
+
+***
+![M2 iPadPro with 27' 4K Monitor?](https://images.macrumors.com/social/?t=2380792&v=6 "M2 iPadPro with 27' 4K Monitor?")
+
+
+[M2 iPadPro with 27' 4K Monitor?](https://forums.macrumors.com/threads/m2-ipadpro-with-27-4k-monitor.2380792/)
+
+
+> I use my M2 12.9' iPadPro as both an iPad and frequently as a desktop by plugging it into an old Dell U2412M monitor. This works but at 92 DPI, the icons and text are really pretty large. I'm interested in upgrading my monitor to a 27' and would love a Studio Display, but I also have a Windows work laptop and sometimes a third device plugged into it, so the single input Studio Display isn't a great option. The Dell U2723QE is attractive but is 4K. I know iPadOS will output a 4K signal, but is it
+
+
+***
+![FT: Apple is facing poor yield of iPhone casings made in India](https://fdn.gsmarena.com/imgroot/news/23/02/ft-apple-india-low-casing-yield-report/-952x498w6/gsmarena_001.jpg "FT: Apple is facing poor yield of iPhone casings made in India")
+
+
+[FT: Apple is facing poor yield of iPhone casings made in India](https://www.gsmarena.com/ft_apple_is_facing_poor_yield_of_iphone_casings_made_in_india-news-57546.php)
+
+
+> A new report from the Financial Times claims 50% of all iPhone casings made in India at the moment are rejected by Apple quality control. The report is based on information from former Apple employees and specifies the low yield issue in Indian manufacturing giant Tata's plant located in Hosur. No other manufacturing plants were mentioned in the report. The new report claims that the low iPhone casing yield in India is a big hit on Apple's plans to outsource a larger chunk of iPhone manufacturing in India.
+
+
+***
+![Scientists have found Einstein's lost letter from 1949. The incredible prediction has really come true](https://vlm-production-dam-public.fra1.cdn.digitaloceanspaces.com/640x360/ea8/ea8821cf-a0ea-4e0b-be57-1c2a0f71a5c3.webp "Scientists have found Einstein's lost letter from 1949. The incredible prediction has really come true")
+
+
+[Scientists have found Einstein's lost letter from 1949. The incredible prediction has really come true](https://www.world-today-news.com/scientists-have-found-einsteins-lost-letter-from-1949-the-incredible-prediction-has-really-come-true/)
+
+
+> The year was 1949. Albert Einstein was sitting at his desk, tapping away at his typewriter. He thought for a moment and watched the pigeons on the roof. 'How come you always hit home?' he asked quietly. 'You must see something we don't.' The scientist took a breath. He believed that birds had a sixth sense. Just discover him. www.sciencealert.com, www.dailymail.co.uk, www.link.springer.com, www.idnes.cz Fifty years after he discussed this topic in correspondence with the engineer Glyn Davys, research on thrushes confirmed that the birds boast magnetoreception, i.
+
+
+***
+![Wiping an iPad with keeping every photo and notes and so on](https://images.macrumors.com/social/?t=2380791&v=6 "Wiping an iPad with keeping every photo and notes and so on")
+
+
+[Wiping an iPad with keeping every photo and notes and so on](https://forums.macrumors.com/threads/wiping-an-ipad-with-keeping-every-photo-and-notes-and-so-on.2380791/)
+
+
+> I currently have an iPad 5th gen I believe (from around end of 2016) which I want to give to my nephew so I want to completely wipe it and make it his own. I also have an iPhone SE2 and just bought the latest iPad Pro. Everything is synchronized I believe and on iCloud, so can I just safely wipe it completely to start from scratch with the old one? Thanks! Oct 25, 2013 13,750 11,471 Yes.
+
+
+***
+![Wind-powered cargo ships are the future: Debunking 4 myths that stand in the way of cutting emissions](https://scx2.b-cdn.net/gfx/news/hires/2023/wind-powered-cargo-shi.jpg "Wind-powered cargo ships are the future: Debunking 4 myths that stand in the way of cutting emissions")
+
+
+[Wind-powered cargo ships are the future: Debunking 4 myths that stand in the way of cutting emissions](https://techxplore.com/news/2023-02-wind-powered-cargo-ships-future-debunking.html)
+
+
+> Concept image. Credit: Oceanbird, CC BY-SA Sailing cargo ships are making a genuine comeback. Japanese bulk carrier MOL is operating a wind-assisted ship . American food giant Cargill is working with Olympic sailor Ben Ainslie to deploy WindWings on its routes. Swedish shipping company Wallenius is aiming for Oceanbird to cut emissions by up to 90%. The French start-up Zephyr & Borée has built the Canopée , which will transport parts of European Space Agency's Ariane 6 rocket this year.
+
+
+***
+![LightSpeed Broadband Gets New Chief Technology Officer](https://www.ispreview.co.uk/wp-content/uploads/2022/03/nggallery_import/lightspeed_broadband_build_team.jpg "LightSpeed Broadband Gets New Chief Technology Officer")
+
+
+[LightSpeed Broadband Gets New Chief Technology Officer](https://www.ispreview.co.uk/index.php/2023/02/lightspeed-broadband-gets-new-chief-technology-officer.html)
+
+
+> Tuesday, Feb 14th, 2023 (5:09 pm) - Score 96 Lincolnshire-based UK ISP LightSpeed Broadband , which aspires to build a full fibre ( FTTP ) network to 1 million premises across the East of England by the end of 2025, has continued to create a new management team by appointing Chris Tagg as its new Chief Technology & Information Officer (CTIO). With over 20 years of senior professional experience, Chris joins the provider from a major UK construction and infrastructure services company, Kier Group, where he was responsible for professional technical and technology engineering services.
+
+
+***
+![Telkom to layoff 15% of workforce in restructuring process](https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2023/02/Telkom-logo.webp "Telkom to layoff 15% of workforce in restructuring process")
+
+
+[Telkom to layoff 15% of workforce in restructuring process](https://techcabal.com/2023/02/14/telkom-layoffs/)
+
+
+> South African telecoms group Telkom has announced that it will embark on a restructuring process that will affect 15% of its 11,000 plus workforce.  In a statement on the Johannesburg Stock Exchange news service, the company stated that the process will impact all business units and subsidiaries and is intended to ensure the sustainability of the group. 'As the Group manages the delicate migration of revenue between old to new technologies, it is challenged with managing the costs associated with the different technologies, the competitiveness and sustainability of the Group.
+
+
+***
+![Cyclone Gabrielle: How microgrids could help keep the power on during extreme weather events](https://scx2.b-cdn.net/gfx/news/hires/2023/cyclone-gabrielle-how.jpg "Cyclone Gabrielle: How microgrids could help keep the power on during extreme weather events")
+
+
+[Cyclone Gabrielle: How microgrids could help keep the power on during extreme weather events](https://techxplore.com/news/2023-02-cyclone-gabrielle-microgrids-power-extreme.html)
+
+
+> This illustration shows a typical grid-connected microgrid. Credit: Soheil Mohseni and Alan Brent, CC BY-SA . Tens of thousands of homes and businesses are left without power as Cyclone Gabrielle batters New Zealand's North Island, causing widespread damage to the power network. The government has declared a national state of emergency (for only the third time in New Zealand history) to coordinate efforts across the regions most affected. The grid operator Transpower has declared a grid emergency following the loss of power in some regions, advising people "should be prepared to be without power for days to weeks, rather than hours".
+
+
+***
+[Cloudian Integrates with New Veeam Data Platform for Breakthrough Security and Cost Reduction](http://www.businesswire.com/news/home/20230214005387/en/Cloudian-Integrates-with-New-Veeam-Data-Platform-for-Breakthrough-Security-and-Cost-Reduction/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN MATEO, Calif.--(BUSINESS WIRE)-- #Cloud--Cloudian® today announced the integration of its HyperStore® object storage with the new Veeam® Data Platform, which includes Veeam Backup & Replication™ (VBR) v12. The newly released Veeam Data Platform lets customers simplify their data protection workflow by storing data directly to Cloudian on-prem object storage, eliminating the need for the primary backup tier and the associated costs. Cost savings will be further increased by up to 70 percent w
+
+
+***
+![Quantinuum Names Rajeeb (Raj) Hazra Chief Executive Officer](https://apnews.com/images/PaidContent3.png "Quantinuum Names Rajeeb (Raj) Hazra Chief Executive Officer")
+
+
+[Quantinuum Names Rajeeb (Raj) Hazra Chief Executive Officer](https://apnews.com/08119254470da4a49b7de728f0f61e14)
+
+
+> Quantinuum further strengthens its management and leadership team as it extends its global leadership position. Hazra will help Quantinuum, the largest standalone integrated quantum computing company in the world, in its mission to accelerate quantum computing as it enters a period of rapid scaling. Current CEO and founder Ilyas Khan remains in the leadership team and will focus on product development and innovation as Chief Product Officer. He also remains a member of Quantinuum's board of directors and will take up the position of Vice Chairman.
+
+
+***
+![GUESS Originals x 88rising Limited Edition, the 5-year-old duo, create the latest collection.](https://t1.longtunman.com/wp-content/uploads/2023/02/Ads_LTM_guessx88rising1.jpg "GUESS Originals x 88rising Limited Edition, the 5-year-old duo, create the latest collection.")
+
+
+[GUESS Originals x 88rising Limited Edition, the 5-year-old duo, create the latest collection.](https://www.world-today-news.com/guess-originals-x-88rising-limited-edition-the-5-year-old-duo-create-the-latest-collection/)
+
+
+> GUESS Originals x 88rising Limited Edition, the 5-year-old duo, create the latest collection. CMG X Invest Man One of the duo or collabs that create Wow in the global fashion industry. There should be a deal from the cool American fashion brand GUESS. who collaborated with 88rising, a music label that shapes Asian artists To be famous around the world for many years, both brands have had a good relationship for a long time. If going back 5 years ago, these 2 brands first joined hands. To create a collection called the Capsule Collection that took just 15 minutes to be labeled Sold Out.
+
+
+***
+![Senators blast Big Tech companies over kids' safety amid renewed push for legislation](https://media.cnn.com/api/v1/images/stellar/prod/230214115845-capitol-hill-0213-restricted.jpg?c=16x9&q=w_800,c_fill "Senators blast Big Tech companies over kids' safety amid renewed push for legislation")
+
+
+[Senators blast Big Tech companies over kids' safety amid renewed push for legislation](https://www.cnn.com/2023/02/14/tech/senate-online-kids-safety/index.html)
+
+
+> CNN — Senators from both parties blasted Big Tech on Tuesday and called for the passage of federal legislation to regulate tech platforms in the midst of a mental health crisis among young Americans. Opening a hearing of the Senate Judiciary Committee, Sen Dick Durbin, the panel's chair, accused tech companies including Facebook and Snapchat of 'doing everything they can to keep our kids eyes glued to the screens.' Tuesday's hearing, which featured testimony from civil society groups and mental health advocates, did not involve witnesses from the tech industry.
+
+
+***
+[Object First Introduces Ootbi: Ransomware-proof Storage Appliance Designed for Veeam Customers](http://www.businesswire.com/news/home/20230214005035/en/Object-First-Introduces-Ootbi-Ransomware-proof-Storage-Appliance-Designed-for-Veeam-Customers/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BEVERLY, Mass.--(BUSINESS WIRE)--Object First launches Ootbi — the first backup storage appliance designed for Veeam® Software, the leader in Modern Data Protection.
+
+
+***
+![Apple releases a fix for the latest zero-day hack that's been exploited](https://www.ghacks.net/wp-content/uploads/2023/02/Apple-releases-a-fix-for-the-latest-zero-day-hack-thats-been-exploited-scaled.jpg "Apple releases a fix for the latest zero-day hack that's been exploited")
+
+
+[Apple releases a fix for the latest zero-day hack that's been exploited](https://www.ghacks.net/2023/02/14/apple-releases-a-fix-for-the-latest-zero-day-hack-thats-been-exploited)
+
+
+> On Monday, Apple released an update to their operating systems for iPhone and iPad. This update is very important as it includes a new fix for a zero-day vulnerability that's been exploited […] Thank you for being a Ghacks reader. The post Apple releases a fix for the latest zero-day hack that's been exploited appeared first on gHacks Technology News .
+
+
+***
+![Discord introduces video livestreaming to Stage Channels](https://cdn.vox-cdn.com/thumbor/54YXdObWQiQCXbbPOo9_aMWWfwc=/0x0:1630x1066/1200x628/filters:focal(815x533:816x534)/cdn.vox-cdn.com/uploads/chorus_asset/file/24429351/Discord_Stages_video_stream.jpg "Discord introduces video livestreaming to Stage Channels")
+
+
+[Discord introduces video livestreaming to Stage Channels](https://www.theverge.com/tech/2023/2/14/23597775/discord-stage-channels-live-streaming-twitch-youtube-gaming)
+
+
+> Discord is already a beloved communications platform for YouTube and Twitch's livestreaming communities, but now the company is taking its own first significant step into the livestreaming industry. Announced today , Discord has updated its Stage Channels feature to support video, screen sharing, and a text chat for viewers to interact with hosts and each other. The update is available now and is supported across all Discord desktop and mobile applications. Stage Channels were first introduced as a live audio feature in March 2021, enabling users to broadcast conversations between designated speakers and moderators to a room of virtual listeners, much like Twitter Spaces or Clubhouse .
+
+
+***
+![Elon Musk gets a kick out of seeing information from the 'Twitter Files' released onto the platform, Matt Taibbi says](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17txKJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=488&y=215 "Elon Musk gets a kick out of seeing information from the 'Twitter Files' released onto the platform, Matt Taibbi says")
+
+
+[Elon Musk gets a kick out of seeing information from the 'Twitter Files' released onto the platform, Matt Taibbi says](http://www.msn.com/en-us/news/technology/elon-musk-gets-a-kick-out-of-seeing-information-from-the-twitter-files-released-onto-the-platform-matt-taibbi-says/ar-AA17tz79)
+
+
+> Elon Musk enjoys seeing information from the "Twitter Files" being released onto the platform, according to journalist Matt Taibbi. Taibbi made the comments while appearing on an episode of the "The Joe Rogan Experience" podcast, which was released on Monday. "He gets a kick out of seeing all this stuff come out on Twitter," Taibbi said on the podcast, referring to Musk. He told Rogan that before Musk was in charge, the platform used to be a "private stomping ground" for "whiney journalists," who he said were now horrified by the "Twitter Files" leaks.
+
+
+***
+![iOS 16.3.1 Could Break Google Photos App, But There's a Fix](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA129TWc.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "iOS 16.3.1 Could Break Google Photos App, But There's a Fix")
+
+
+[iOS 16.3.1 Could Break Google Photos App, But There's a Fix](http://www.msn.com/en-us/news/technology/ios-16-3-1-could-break-google-photos-app-but-there-s-a-fix/ar-AA17tHws)
+
+
+> Apple released iOS 16.3.1 on Monday to fix some iPhone issues, but the update seemed to cause problems for people who use Google Photos. Some users on Twitter reported their Google Photos app would crash when they tried to open it after downloading the iOS update. Google then released an update to the Google Photos app Tuesday morning to address some issues. Google writes in the App Store that the latest update fixes "user-reported issues" and adds new features. After updating Google Photos, users should be able to open the app without issue.
+
+
+***
+![Ant-Man and the Wasp: Quantumania is your brain on Kangs](https://cdn.vox-cdn.com/thumbor/HCXmZ1nYfRV8084cSdXv67QLws0=/0x0:2647x1194/1200x628/filters:focal(1229x553:1230x554)/cdn.vox-cdn.com/uploads/chorus_asset/file/24429833/Screen_Shot_2023_02_13_at_12.36.41_PM.png "Ant-Man and the Wasp: Quantumania is your brain on Kangs")
+
+
+[Ant-Man and the Wasp: Quantumania is your brain on Kangs](https://www.theverge.com/23597979/ant-man-and-the-wasp-quantumania-review)
+
+
+> Ant-Man and the Wasp: Quantumania , from director Peyton Reed, wants to make you laugh. But it also wants you to think it's cool — kind of like a dad who doesn't know how to relate to you now that you're both adults who can recognize that he's always sorta only had maybe one or two good bits. Quantumania knows those bits have worked in the past , and it gamely whips them out as part of the Ant-Man series' most visually imaginative stories yet. But rather than coasting on its sense of dad-focused humor , Quantumania tries to switch things up a bit by mainlining a few doses of whatever psychedelics Doctor Strange has been brewing and inviting you to partake in a little madness that doesn't always make sense .
+
+
+***
+![Cooler Master introduces powerful SFX power supplies capable of delivering up to 1300 W](https://storage.googleapis.com/pctuning-cz/media/images/uou34vc4qtca6c963eb8cb8659b2833672336.jpg "Cooler Master introduces powerful SFX power supplies capable of delivering up to 1300 W")
+
+
+[Cooler Master introduces powerful SFX power supplies capable of delivering up to 1300 W](https://tekdeeps.com/cooler-master-introduces-powerful-sfx-power-supplies-capable-of-delivering-up-to-1300-w/)
+
+
+> Even compact computer assemblies can be stacked with powerful hardware. But it requires a powerful source of small dimensions. Cooler Master presents just such models. The novelties fall under the SFX specification and thus fit even in smaller assemblies. There will be 1100W and 1300W versions, which should be enough to power even the most demanding graphics and processors. The pair of models use the ATX 3.0 standard, Japanese capacitors and fully modular cabling. There is also a 10-year warranty.
+
+
+***
+![GeForce RTX 4060 is said to bring 115W TDP, but only 8GB of VRAM](https://www.svethardware.cz/geforce-rtx-4060-pry-prinese-115w-tdp-ale-jen-8gb-vram/58995/img/nvidia-geforce-rtx-4000-640.jpg "GeForce RTX 4060 is said to bring 115W TDP, but only 8GB of VRAM")
+
+
+[GeForce RTX 4060 is said to bring 115W TDP, but only 8GB of VRAM](https://tekdeeps.com/geforce-rtx-4060-is-said-to-bring-115w-tdp-but-only-8gb-of-vram/)
+
+
+> Company Nvidia is preparing other cheaper models of GeForce RTX 4000 graphics cards. So far, models are on sale from the high-end RTX 4090 to the ever higher mainstream to high-end RTX 4070 Ti. The RTX 4070, RTX 4060 Ti cards should also appear gradually, and the latest leaks also say RTX 4060. This could theoretically be the most sought-after card, unless Nvidia spoils it with something, as is traditionally the case with the price. We have both positive and negative news here. There is supposed to be an AD107-400-A1 GPU, which will be equipped with only 3072 CUDA cores.
+
+
+***
+![2022-11: GNU Taler v0.9.0 released](https://taler.net/favicon.ico?v=2 "2022-11: GNU Taler v0.9.0 released")
+
+
+[2022-11: GNU Taler v0.9.0 released](https://taler.net/en/news/2022-10.html)
+
+
+> We are happy to announce the release of GNU Taler v0.9.0. We have addressed over 200 individual issues, our bug tracker has the full list . Notable changes include: NEW: Support for peer-to-peer payments NEW: Support for age-restricted payments Improved accessibility of the demonstration Improved exchange database schema for performance and scalability libeufin sandbox replaces legacy Python bank WebExtension now supports Manifest V3 Various minor bugfixes and documentation improvements Many of the major new features were developed under an NGI POINTER grant funded by the European Commissions great Next Generation Internet initiative under grant agreement number 871528.
+
+
+***
+![Everything we know about Dragon Age: Dreadwolf](https://im.tiscali.cz/games/2021/03/23/1273466-dragon-age-4-koncept-art-base_16x9.jpg.653?1616495236.0 "Everything we know about Dragon Age: Dreadwolf")
+
+
+[Everything we know about Dragon Age: Dreadwolf](https://tekdeeps.com/everything-we-know-about-dragon-age-dreadwolf/)
+
+
+> BioWare's Dragon Age series has become one of the classics of the fantasy RPG genre, only to go into a long hibernation with Inquisition that will probably last a decade. However, the good news for all fans of epic adventures full of magic, Gray Wardens, elves and demons is that Dragon Age 4 is really being worked on intensively. You can even stop calling it Dragon Age 4 – the next part will be subtitled Dreadwolf and should be a full-blooded single-player RPG, which has finally given way to multiplayer elements.
+
+
+***
+![Pluto's Moon Is Cracked, Possible Evidence of a Frozen Ocean](https://awsimages.detik.net.id/api/wm/2023/02/13/pluto-dan-bulan-charon_169.png?wid=54&w=650&v=1&t=jpeg "Pluto's Moon Is Cracked, Possible Evidence of a Frozen Ocean")
+
+
+[Pluto's Moon Is Cracked, Possible Evidence of a Frozen Ocean](https://www.world-today-news.com/plutos-moon-is-cracked-possible-evidence-of-a-frozen-ocean/)
+
+
+> Jakarta – The icy volcanism of Pluto's massive moon Charon and its belts of surface rifts may have been caused by frozen subsurface oceans exploding through thin ice shells. Recent modeling suggests that when Charon's internal ocean freezes, it may form a deep, elongated depression along its center, but this may imply that its outer shell was thinner than currently thought at some point in the moon's history. The models also show that a cryovolcano erupting with ice, water and other material is less likely to occur in Charon's northern hemisphere.
+
+
+***
+![Massive AdSense Fraud Campaign Uncovered](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgzA0LBEdEjtGAgIbWli10Xo1ncBXUjcXU9O_uVlbl5r0YFm-cPo80jOkbRAF1kUYbRi3lJLtGXYsOCMrTbduv0fi-geo_VzbSSO6xTboj9vS6CxAnpm2UwiWwDEuDaxbqlokNfpIinI7GXuDAmRfTLhKgUV09PUYr6VXB4U0eQfmc1fbHZYzG5QCA-/s728-e3650/WordPress.png "Massive AdSense Fraud Campaign Uncovered")
+
+
+[Massive AdSense Fraud Campaign Uncovered](https://thehackernews.com/2023/02/massive-adsense-fraud-campaign.html)
+
+
+> The threat actors behind the black hat redirect malware campaign have scaled up their campaign to use more than 70 bogus domains mimicking URL shorteners and infected over 10,800 websites. "The main objective is still ad fraud by artificially increasing traffic to pages which contain the AdSense ID which contain Google ads for revenue generation," Sucuri researcher Ben Martin said in a report published last week. Details of the malicious activity were first exposed by the GoDaddy-owned company in November 2022.
+
+
+***
+![TikTok wants to attract new creators. The popular social network is therefore preparing a lot of news](https://backend.mobilizujeme.cz/wp-content/uploads/2022/08/tiktok-for-you-smartphone.jpg "TikTok wants to attract new creators. The popular social network is therefore preparing a lot of news")
+
+
+[TikTok wants to attract new creators. The popular social network is therefore preparing a lot of news](https://tekdeeps.com/tiktok-wants-to-attract-new-creators-the-popular-social-network-is-therefore-preparing-a-lot-of-news/)
+
+
+> If there's one social network that's really resonating right now, it's TikTok The platform for creating short videos is incredibly popular But its growth is slightly stagnant, so it's time to kick it up again TikTok is undoubtedly a phenomenon of our time. This social network arrived in 2016 and has skyrocketed mainly in recent years, which has been largely driven by young users. But as they say, no tree grows to the sky, and in several markets, such as the US, TikTok is currently stagnant. Therefore, it is necessary to somehow help the growth of users, and the developers therefore come up with several novelties.
+
+
+***
+![The Galaxy A34 will have a flag-like design. What about the specs?](https://www.svetandroida.cz/media/2023/02/samsung-galaxy-a34-5g-rendery-360x203.webp "The Galaxy A34 will have a flag-like design. What about the specs?")
+
+
+[The Galaxy A34 will have a flag-like design. What about the specs?](https://tekdeeps.com/the-galaxy-a34-will-have-a-flag-like-design-what-about-the-specs/)
+
+
+> The Samsung Galaxy A34, together with the Galaxy A54, is one of the most anticipated mid-range phones, and now a lot of information has been leaked about the first-named, including the price. So what will the South Korean company try to attract in a segment currently dominated by Chinese phones with a great price/performance ratio? According to leaker Yogesh Brar, Samsung will offer the Galaxy A34 6.6-inch Super AMOLED display with Full HD+ resolution and 120Hz refresh rate. Compared to the current Galaxy A33, the display will therefore not only be larger, but also smoother.
+
+
+***
+![What's next for crypto and Web3? 8 takeaways from the Penn Blockchain Conference](https://technical.ly/wp-content/uploads/2023/02/Penn-Blockchain-Conference-1.jpg "What's next for crypto and Web3? 8 takeaways from the Penn Blockchain Conference")
+
+
+[What's next for crypto and Web3? 8 takeaways from the Penn Blockchain Conference](https://technical.ly/software-development/penn-blockchain-conference/)
+
+
+> This is a guest post by Drew Mailen, an organizer of DeFi Philly. What is blockchain's role in shaping our world? Over the weekend, I attended the fifth annual Penn Blockchain Conference hosted by the University of Pennsylvania. The event brought together private equity investors, regulators, students and hackers alongside some of the biggest crypto names to discuss blockchain technology's current state and future. Powered by Avalanche, Magna and Struck Capital, among many others, the conference offered a wealth of insights and thought-provoking discussions, along with six satellite events from around the city.
+
+
+***
+![The new SkyShowtime streaming platform has arrived in Slovakia](https://www.mojandroid.sk/wp-content/uploads/2023/01/466199-10663_SST_Multi_Device_Line_Up_Image_16_9_HI_AW_M1.1-4f72f5-original-1675152899.jpg "The new SkyShowtime streaming platform has arrived in Slovakia")
+
+
+[The new SkyShowtime streaming platform has arrived in Slovakia](https://tekdeeps.com/the-new-skyshowtime-streaming-platform-has-arrived-in-slovakia/)
+
+
+> As expected, the last major streaming service arrived in Slovakia SkyShowtime. And to attract competitors' customers, such as they are Netflix a Disney+ thus offering an unbeatable introductory price for a monthly subscription. What content does SkyShowtime offer? SkyShowtime has a lot of content on offer from major movie studios and their own services. In particular, it will find titles from Universal Pictures, DreamWorks, Sky Studios, Peacock, Paramount+, Showtime, Paramount Pictures a Nickelodeon.
+
+
+***
+![Future WhatsApp update: image compression can be disabled](https://www.hardwareluxx.de/images/cdn02/uploads/2023/Feb/fervid_silicone_2k/20181022-img_3453_cc9c3841fc7b4159bb9fa7d4b2b6ad70_1360px.jpg "Future WhatsApp update: image compression can be disabled")
+
+
+[Future WhatsApp update: image compression can be disabled](https://www.world-today-news.com/future-whatsapp-update-image-compression-can-be-disabled/)
+
+
+> With the introduction of messenger services, not only messages can be sent. Images or other media can also be easily shared. What used to be an expensive pleasure in the form of MMS now only costs the user data volume or storage space. The latter in particular is taking a back seat due to the ever-increasing capacities of smartphones. However, images are still largely compressed when they are sent. This is also the case with the widespread messenger WhatsApp. However, this should now come to an end.
+
+
+***
+![Meizu 20 will come with Snapdragon 8 Gen 2](https://www.gizchina.com/wp-content/uploads/images/2023/02/imagem_2023-02-14_134147491.png "Meizu 20 will come with Snapdragon 8 Gen 2")
+
+
+[Meizu 20 will come with Snapdragon 8 Gen 2](https://www.gizchina.com/2023/02/14/meizu-20-will-come-with-snapdragon-8-gen-2/)
+
+
+> Meizu is back in refreshed mood after being acquired by the Chinese Geely. The brand is set to fight among the big ones in the flagship territory with its upcoming Meizu 20 series. The teasers for the new device have been appearing in a timely manner. Today, the brand has just confirmed that the upcoming flagship will use the latest Qualcomm Snapdragon SoC for flagship devices – the Snapdragon 8 Gen 2. That may not be a big surprise, but still, it's good to see a confirmation coming at this point.
+
+
+***
+![[재팬 톡] Can Samsung Stop Apple?](https://media.nu.nl/m/ji3xw2na0bwk_wd1280/the-crown-acteur-emma-corrin-speelt-rol-in-derde-deadpool-film.jpg "[재팬 톡] Can Samsung Stop Apple?")
+
+
+[[재팬 톡] Can Samsung Stop Apple?](https://www.world-today-news.com/%ec%9e%ac%ed%8c%ac-%ed%86%a1-can-samsung-stop-apple/)
+
+
+> I used to use Samsung ‘Galaxy' and switched to Apple's ‘iPhone' 3 years ago. At the time, as a reporter for Samsung, I had the mindset that our company should do well, and I also had the mindset that I could write a good article only if I tried a competitor's product once. But now, the reporter can't deny ‘Appleungi' (Apple's loyal customer as a compound word of Apple and Gopdeungi). Apple products that started with the iPhone have expanded to ‘AirPod', ‘Apple Watch', and ‘iPad'. When I bought an iPad that I didn't really need, I thought about it for several months to find out why I needed it, and eventually pressed the purchase button without finding a place to use it.
+
+
+***
+![Uber chooses Oracle Cloud Infrastructure as its cloud platform for the next seven years](https://it-kanalen.dk/wp-content/uploads/2023/02/Namnlos-45.png "Uber chooses Oracle Cloud Infrastructure as its cloud platform for the next seven years")
+
+
+[Uber chooses Oracle Cloud Infrastructure as its cloud platform for the next seven years](https://tekdeeps.com/uber-chooses-oracle-cloud-infrastructure-as-its-cloud-platform-for-the-next-seven-years/)
+
+
+> Oracle and Uber announce a seven-year cloud collaboration to drive Uber's innovative business and create new products Oracle and Uber Technologies, Inc. today announced a seven-year strategic cloud partnership to accelerate Uber's innovation, help bring new products to market and increase the company's profitability. As Uber continues to grow and enter new markets, it will become increasingly important for the company to prioritize its resources on core areas and strategic initiatives. By migrating some of the company's most critical workloads to Oracle Cloud Infrastructure (OCI), Uber will be able to modernize its infrastructure while accelerating its path to profitability.
+
+
+***
+![Minisforum Mars Series MC560 review: Powerful mini PC with AMD Ryzen 5 and integrated webcam for office use](https://www.notebookcheck.net/fileadmin/Notebooks/Minisforum/Mars_Series_MC560/MC560_13.jpg "Minisforum Mars Series MC560 review: Powerful mini PC with AMD Ryzen 5 and integrated webcam for office use")
+
+
+[Minisforum Mars Series MC560 review: Powerful mini PC with AMD Ryzen 5 and integrated webcam for office use](https://www.notebookcheck.net/Minisforum-Mars-Series-MC560-review-Powerful-mini-PC-with-AMD-Ryzen-5-and-integrated-webcam-for-office-use.693484.0.html)
+
+
+> Mini PC for special requirements. | With the MC560, Minisforum is the first mini PC maker to have a compact office computer with built-in camera and speakers in their product portfolio. The device features a Zen 3-based AMD Ryzen 5 CPU, which provides solid performance for a wide range of applications. In this review, we'll discuss what other advantages are offered by the MC560 with the help of many measurements and benchmark results.
+
+
+***
+![Father of internet warns: Don't rush investments into A.I. just because ChatGPT ‘is really cool'](https://external-preview.redd.it/9l4GRfR8u5pEJwt9pVm8NMBZ1JTVOgzFe4UCnWjXw6E.jpg?auto=webp&v=enabled&s=a2f0fee654ce773aabaa8a78272e97e1f9b3f9aa "Father of internet warns: Don't rush investments into A.I. just because ChatGPT ‘is really cool'")
+
+
+[Father of internet warns: Don't rush investments into A.I. just because ChatGPT ‘is really cool'](https://www.reddit.com/r/technology/comments/1129sxf/father_of_internet_warns_dont_rush_investments)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![US 10 year moves to highest level since January 5th](https://images.forexlive.com/images/10%20year%20yield_id_e5b05b8f-5256-4302-9b15-6a7d996c56cf_size900.jpg?v=1676396070530 "US 10 year moves to highest level since January 5th")
+
+
+[US 10 year moves to highest level since January 5th](https://www.forexlive.com/technical-analysis/us-10-year-moves-to-highest-level-since-january-5th-20230214/)
+
+
+> The 10 year yield is above 100 day MA US 10 year yield is above the 100 day MA The US 10 year yield is trading up 7 basis point on the day after the US CPI data and that takes the yield to the highest level since January 5. The high today reached 3.776%. The high on January 5th was at 3.782%. The high for the year reached 3.848% on January 3rd. Looking at the daily chart, the move higher today has taken the yield above the 100 day MA at 3.786%. Closing above would be the first since January 5th.
+
+
+***
+![McDonald's hilarious drive-thru AI order failures are being mocked on TikTok](https://techstory.in/wp-content/uploads/2023/02/McDonalds.webp "McDonald's hilarious drive-thru AI order failures are being mocked on TikTok")
+
+
+[McDonald's hilarious drive-thru AI order failures are being mocked on TikTok](https://techstory.in/mcdonalds-hilarious-drive-thru-ai-order-failures-are-being-mocked-on-tiktok/)
+
+
+> For a few years now, fast food restaurants like McDonald's , Sonic, and Chipotle have been experimenting with voice bots that drives to take phone and drive-thru orders. But some McDonald's customers on TikTok are expressing annoyance — and in some cases, uncontrollable laughter — following encounters with speech bots that can't accurately take their orders. A young woman wearing an Adidas beanie is shown in a popular post by @themaddivlog stumbling to purchase a cup of vanilla ice cream. The TikToker argues, 'I just want a large water and a cup of ice cream.
+
+
+***
+![Alexis Borisy, Zach Weinberg debut $520M idea for a new biotech investing model](https://endpts.com/wp-content/uploads/2023/02/Alexis-Borisy-Zach-Weinberg-Christoph-Lengauer-Curie.Bio-tile.jpg "Alexis Borisy, Zach Weinberg debut $520M idea for a new biotech investing model")
+
+
+[Alexis Borisy, Zach Weinberg debut $520M idea for a new biotech investing model](https://endpts.com/alexis-borisy-zach-weinberg-debut-520m-idea-for-a-new-biotech-investing-model/)
+
+
+> From left to right: Alexis Borisy, Zach Weinberg and Christoph Lengauer (Vimeo via website) Alexis Borisy and Zach Weinberg first met when they were each leading a company that they co-founded. Foundation Medicine, where Borisy was founding CEO and later chairman, struck a partnership with Weinberg's Flatiron Health — before both companies were ultimately acquired by Roche. Almost a decade later, they are teaming up to launch a new kind of investment model that they hope will help a new generation of biotech founders build better companies — or, in their words, 'free the founders.
+
+
