@@ -21937,3 +21937,957 @@
 > Games can often be portrayed as a solitary experience, but for those of you who do have someone special in your life, there are plenty of opportunities to bring that partner into co-op adventures. As gaming has grown in popularity, more and more couples are looking to find the perfect game that they can actually enjoy together instead of just one person sitting and watching the other play. We've compiled a list of five of the best games you can enjoy with your partner this Valentine's Day. 1. It Takes Two While It Takes Two may not initially sound like the best game for a couple to play – it does focus on a married couple on the brink of divorce, after all – it's a really fun co-op experience that requires two people to work together to play a role.
 
 
+***
+![Asteroid hits Earth hours after being spotted, meteor turns into 'beautiful' fireball over Europe](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12O3wM.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Asteroid hits Earth hours after being spotted, meteor turns into 'beautiful' fireball over Europe")
+
+
+[Asteroid hits Earth hours after being spotted, meteor turns into 'beautiful' fireball over Europe](http://www.msn.com/en-us/news/technology/asteroid-hits-earth-hours-after-being-spotted-meteor-turns-into-beautiful-fireball-over-europe/ar-AA17rwzD)
+
+
+> An asteroid hit Earth hours after it was discovered Monday, turning into a dazzling fireball that was spotted throughout Europe. Grammys rebound from COVID years Residents in Ohio town wait out train derailment fire Explainer: How the Electoral College works Pandemic-era puzzle: Kids missing from school Hope for balancing breast cancer, pregnancy Around 12:18 p.m. ET Sunday, astronomer Krisztián Sárneczky detected an asteroid –  initially dubbed Sar2667 – at the Piszkéstető Observatory in Hungary, the European Space Agency said in a release.
+
+
+***
+![Robot Escapes Pennsylvania Grocery Store and Its Journey Is Going Viral](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17rN7P.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Robot Escapes Pennsylvania Grocery Store and Its Journey Is Going Viral")
+
+
+[Robot Escapes Pennsylvania Grocery Store and Its Journey Is Going Viral](http://www.msn.com/en-us/news/technology/robot-escapes-pennsylvania-grocery-store-and-its-journey-is-going-viral/ar-AA17rSyp)
+
+
+> The Arena Media Brands, LLC and respective content providers to this website may receive compensation for some links to products and services on this website. Check out this video from Youtube channel WHTM - abc27  to see a robot on the run... He actually seems like a pretty sweet Robot dude (and we like the name Marty too, he just seems so nice. The eyes definitely give him a good dose of personality. We actually don't mind him running away. Load Error Anyone else think he looks like Robot Jones? Whatever happened to Robot Jones anyway? Wait.
+
+
+***
+![Metroid Prime Remastered (Switch): Check out how the remaster compares to the GameCube/Wii versions](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7_QZ5DsCI4DUIpsN6zvaWnQwpKQfcvE-ecsSJsgay1aQth26VnBvlSpohZwVuKkkAen9Yn4bPMxEdkWcvbEGxhYps1buq4cZjEJbMyagcxxyqXGcHzVIlCgOSlk-1otD0OoA3H-eNPjf6GVSIGs1aCw-iXH02WNQaHSbh1hXiUcYpdOixWr-dEyxkAg/w640-h358/Metroid-Prime-Remastered-print.jpg "Metroid Prime Remastered (Switch): Check out how the remaster compares to the GameCube/Wii versions")
+
+
+[Metroid Prime Remastered (Switch): Check out how the remaster compares to the GameCube/Wii versions](https://www.world-today-news.com/metroid-prime-remastered-switch-check-out-how-the-remaster-compares-to-the-gamecube-wii-versions/)
+
+
+> Metroid Prime Remastered was one of the Switch highlights during last week's Nintendo Direct broadcast, having been released during the event and well received by fans. Because of this, several comparisons of the Nintendo Switch remaster with the GameCube and Wii versions emerged in videos from various YouTube channels. The game is now available for download at eShop Brazilian for R$ 199.00. Nintendo Life posted a video on their YouTube channel and wrote an article comparing the recent Nintendo Switch title to the original GameCube version back in 2002, stating that Metroid Prime Remastered looks amazing.
+
+
+***
+![Passed TENAA certification in the upcoming ‘Galaxy A54'](https://images.kbench.com/kbench/article/thumbnail/241157_thumb.jpg "Passed TENAA certification in the upcoming ‘Galaxy A54'")
+
+
+[Passed TENAA certification in the upcoming ‘Galaxy A54'](https://www.world-today-news.com/passed-tenaa-certification-in-the-upcoming-galaxy-a54/)
+
+
+> Source: My Smart Price Samsung Electronics' Galaxy A54 5G model, which is about to be released, has passed China 's TENAA certification. In the TENAA database, some specifications such as ▲5000mAh battery ▲5G mobile communication support ▲a total of four cameras, including rear triple camera and front camera, are confirmed. In addition, the Galaxy A54 5G model is known to be equipped with a ▲6.41-inch display ▲50MP main camera ▲Exynos 1380 processor and provide four color options: ▲Awesome White ▲Awesome Graphite ▲Awesome Lime ▲Awesome Violet.
+
+
+***
+![Focus on bug fixes in newly released Watch OS 9.3.1](https://www.idg.se/editorial/1200/path/1.774222.1676329250!imageUploader/599004494.jpg "Focus on bug fixes in newly released Watch OS 9.3.1")
+
+
+[Focus on bug fixes in newly released Watch OS 9.3.1](https://www.world-today-news.com/focus-on-bug-fixes-in-newly-released-watch-os-9-3-1/)
+
+
+> On Monday evening, Apple sent out a minor update to Watch OS 9.3.1 to newer models of the Apple Watch. The focus is on the usual bug and security fixes, of which information about the latter will be published on Apples supportsidor shortly. If you want to install the new software, you either use the built-in update function or you start the Apple Watch app on your iPhone. There the update is available below General -> Software Update. Note that the battery level needs to be at least 50 percent for you to install the update.
+
+
+***
+![Russian hackers claim responsibility for disrupting NATO earthquake relief efforts](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/2023_Gaziantep-Kahramanmaraş_earthquakes_Osmaniye_01.png "Russian hackers claim responsibility for disrupting NATO earthquake relief efforts")
+
+
+[Russian hackers claim responsibility for disrupting NATO earthquake relief efforts](https://siliconangle.com/2023/02/13/russian-hackers-claim-responsibility-disrupting-nato-earthquake-relief-efforts/)
+
+
+> Russian government-linked hacking group Killnet has claimed responsibility for distributed denial-of-service attacks that disrupted North Atlantic Treaty Organization earthquake relief operations in Turkey and Syria. An earthquake with a magnitude of 7.8 struck the region on Feb. 6, causing widespread damage and death. The death toll from the earthquake is currently estimated to be at least 36,000 people, but that figure is likely to increase in the coming days as more bodies are found amid the destruction in both countries.
+
+
+***
+![New discovery about the asthenosphere intrigues scientists; see the reason](https://multiversonoticias.com.br/wp-content/uploads/2023/02/Vulcao_Kilauea.jpg "New discovery about the asthenosphere intrigues scientists; see the reason")
+
+
+[New discovery about the asthenosphere intrigues scientists; see the reason](https://www.world-today-news.com/new-discovery-about-the-asthenosphere-intrigues-scientists-see-the-reason/)
+
+
+> Although everyone studies Geography in elementary and high school, some knowledge ends up going unnoticed, such as the amount of layers that Earth has. If asked about this, it is possible that most people would answer that the planet we live on has only three layers, namely: crust, mantle and core. However, this knowledge is not complete, as, in fact, the Earth has all these layers and more. The Earth's Layers Our planet is very well divided when it comes to layers. It actually has six of them, which are known as the lithosphere, asthenosphere, upper mantle, lower mantle, outer core, and inner core.
+
+
+***
+[New Book from BigRio Managing Partner Provides Insider Insight on the Impact of AI on Healthcare!](http://www.businesswire.com/news/home/20230213005659/en/New-Book-from-BigRio-Managing-Partner-Provides-Insider-Insight-on-the-Impact-of-AI-on-Healthcare%21/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOSTON--(BUSINESS WIRE)--New Book from BigRio Managing Partner Provides Insider Insight on the Impact of AI on Healthcare!
+
+
+***
+![Vocus appoints Gartner's Dominic Hughes to lead channel sales](https://d2bs8hqp6qvsw6.cloudfront.net/article/images/740x500/dimg/vocus_dominic_hughes_head_of_indirect_channels.jpg "Vocus appoints Gartner's Dominic Hughes to lead channel sales")
+
+
+[Vocus appoints Gartner's Dominic Hughes to lead channel sales](https://www.arnnet.com.au/article/705568/vocus-appoints-gartners-dominic-hughes-to-lead-channel-sales/)
+
+
+> Dominic Hughes (Vocus) Credit: Vocus Vocus Australia has appointed a new channel lead for Australia in the form of former Gartner account manager Dominic Hughes.  Based in Adelaide, Hughes will now take on the role of head of indirect channels, focusing on enabling partners to be a 'key part of Vocus' growth today and into the future'.  Hughes previously spent three years with the analyst firm Gartner as a senior account manager. Prior to then, he spent 15 years in the telecommunications industry in the UK, where he led the growth partner channel at TalkTalk and the strategic partner team at GCI/Naastar.
+
+
+***
+![Arista Networks grows profit and revenue as it easily beats Wall Street's targets](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/IMG_7962-800x534-768x513.jpg "Arista Networks grows profit and revenue as it easily beats Wall Street's targets")
+
+
+[Arista Networks grows profit and revenue as it easily beats Wall Street's targets](https://siliconangle.com/2023/02/13/arista-networks-grows-profit-revenue-easily-beats-wall-streets-targets/)
+
+
+> Arista Networks Inc. comfortably beat expectations today as it delivered its fourth-quarter financial results, showing impressive revenue growth and offering a strong forecast for the current quarter. Arista's stock initially gained 3.5% in extended trading before pulling back slightly for a 1% gain. The stock had risen 2% earlier in the day. The company reported  net income for the quarter of $427.1 million, up from $239.3 million a year earlier. Earnings before certain costs such as stock compensation came to $1.
+
+
+***
+![A banker named Apple? The American firm prepares several financial services](https://d1fmx1rbmqrxrr.cloudfront.net/cnet/i/edit/2021/02/Test_iphone_13_Pro_max_big.jpg "A banker named Apple? The American firm prepares several financial services")
+
+
+[A banker named Apple? The American firm prepares several financial services](https://www.world-today-news.com/a-banker-named-apple-the-american-firm-prepares-several-financial-services/)
+
+
+> Of new financial services are in preparation at Apple, there is talk, as reported by our colleagues from Bloomberg, of a program ' buy now, pay later ', but also a savings account linked to the Wallet application and a new monthly payment system based on the service « Apple Pay Monthly Acomptes » which would, however, handle larger transactions with interest. Financing the acquisition of Apple products While the development of these various financial products is well under way, the Installation will take longer than expected.
+
+
+***
+![The best iPhones for 2023](https://aawsat.com/sites/default/files/styles/article_img_top/public/2023/02/13/120395.jpg?itok=cR9ri7hR "The best iPhones for 2023")
+
+
+[The best iPhones for 2023](https://www.world-today-news.com/the-best-iphones-for-2023/)
+
+
+> The best iPhones for 2023 Tuesday – 23 Rajab 1444 AH – February 14, 2023 AD Issue number [ 16149] Which one of the iPhones is best for you? Apple currently sells 8 different iPhone models, whose release date starts in 2020. It is true that there is no such thing as the 'best iPhone', but some may be better for you than others depending on your needs, budget and preferences. Today, with the addition of 'iPhone 14' models, and the company stopping manufacturing 'iPhone 11', 'iPhone 13 Pro' and 'iPhone 13 Pro Max', you may find it difficult to choose the correct device.
+
+
+***
+![Confusion Spirals in Crypto as the US Cracks Down](https://media.wired.com/photos/63ead20bde59d567d5d7c701/191:100/w_1280,c_limit/confusion_GettyImages-1443335545.jpg "Confusion Spirals in Crypto as the US Cracks Down")
+
+
+[Confusion Spirals in Crypto as the US Cracks Down](https://www.wired.com/story/confusion-spirals-in-crypto-as-the-us-cracks-down/)
+
+
+> The US Securities and Exchange Commission is on the warpath—and crypto is in its crosshairs. Over the weekend,  The   Wall Street Journal   reported that the agency intends to sue crypto firm Paxos for issuing BUSD, a stablecoin developed in partnership with the world's largest crypto exchange, Binance.  The SEC declined to comment, but Paxos, which is based in New York and Singapore, confirmed today that the agency alleges BUSD should have been registered as a security in the US, which requires compliance with complex rules.
+
+
+***
+![The Last of Us Part 1 is 29 percent off right now](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/Last-of-Us-header-1.jpg "The Last of Us Part 1 is 29 percent off right now")
+
+
+[The Last of Us Part 1 is 29 percent off right now](https://mobilesyrup.com/2023/02/13/the-last-of-us-part-1-is-29-percent-off-right-now/)
+
+
+> With the hype surrounding Naughty Dog's Last of Us  at an all-time high thanks to the adaptation airing on Crave in Canada and on HBO and HBO Max in the U.S., it's not surprising that Sony has discounted The Last of Us Part 1. The September 2022-released title is currently available for $63.89 on the PlayStation Store , marking a $26 or 29 percent discount from its original $89.99 price tag. The digital deluxe edition of the title is discounted by 25 percent too. At other retailers, including Best Buy , Amazon and GameStop , the title is still listed for its full retail price.
+
+
+***
+![Number of patients per family doctor is at its highest ever level](https://iknowallnews.com/wp-content/uploads/2023/02/Number-of-patients-per-family-doctor-is-at-its-highest-ever-level.jpg "Number of patients per family doctor is at its highest ever level")
+
+
+[Number of patients per family doctor is at its highest ever level](https://iknowallnews.com/world-news/number-of-patients-per-family-doctor-is-at-its-highest-ever-level/)
+
+
+> In Blackburn with Darwen, there are 2,915 patients per each fully qualified GP Last year there were 9 per cent more patient consultations by GPs than in 2019 The number of patients per fully qualified GP has rocketed to its highest-ever level, NHS figures reveal. There are now an average of 2,273 people scrambling for appointments with each family doctor – an increase of 15 per cent in five years. A growing population and shrinking workforce mean the staffing crisis has worsened in all but one of the 106 health districts in England.
+
+
+***
+![Dead Space Remake and Forspoken are off to a good start in the US, but there is only one king](https://pliki.ppe.pl/storage/becaf1a0dbba756b533a/becaf1a0dbba756b533a.jpg "Dead Space Remake and Forspoken are off to a good start in the US, but there is only one king")
+
+
+[Dead Space Remake and Forspoken are off to a good start in the US, but there is only one king](https://www.world-today-news.com/dead-space-remake-and-forspoken-are-off-to-a-good-start-in-the-us-but-there-is-only-one-king/)
+
+
+> United States and confirmed some interesting information about last month. Players this time most willingly reached for Call of Duty: Modern Warfare 2. NPD presented data from the US market and in January, players spent $4.3 billion on games, down 5% from the same month last year. This is interesting information because the US industry has achieved a worse result in 12 months for the first time since September 2022. The most-bought production of the month was Call of Duty: Modern Warfare 2, which has not given a chance to the competition for four months.
+
+
+***
+![Santiago Mitre, Lukas Dhont Among Directors Celebrated at Santa Barbara Film Festival Film News in Brief](https://iknowallnews.com/wp-content/uploads/2023/02/Santiago-Mitre-Lukas-Dhont-Among-Directors-Celebrated-at-Santa-Barbara-Film-Festival-Film-News-in-Brief.jpg "Santiago Mitre, Lukas Dhont Among Directors Celebrated at Santa Barbara Film Festival Film News in Brief")
+
+
+[Santiago Mitre, Lukas Dhont Among Directors Celebrated at Santa Barbara Film Festival Film News in Brief](https://iknowallnews.com/lifestyle/santiago-mitre-lukas-dhont-among-directors-celebrated-at-santa-barbara-film-festival-film-news-in-brief/)
+
+
+> Home » Lifestyle » Santiago Mitre, Lukas Dhont Among Directors Celebrated at Santa Barbara Film Festival Film News in Brief 'Argentina 1985's' director Santiago Mitre spent over two years researching his film on the story of th public prosecutors who took on the country's brutal dictators. He said his film was able to get the audience thinking about the real-world problems that go on in their own countries. Mitre joined fellow international film directors on a panel that included Jerzy Skolimowski ('EO'), Lukas Dhont ('Close'), Colm Bairéad ('The Quiet Girl'), Edward Berger ('All Quiet on the Western Front') and Santiago Mitre ('Argentina, 1985').
+
+
+***
+![Cloudflare detects and mitigates largest-ever DDoS attack on record](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/cloudflareddosfeb23.png "Cloudflare detects and mitigates largest-ever DDoS attack on record")
+
+
+[Cloudflare detects and mitigates largest-ever DDoS attack on record](https://siliconangle.com/2023/02/13/cloudflare-detects-mitigates-largest-ever-ddos-attack-record/)
+
+
+> Content delivery network provider Cloudflare Inc. revealed today that it has managed to detect and mitigate dozens of 'hyper-volumetric' distributed denial-of-service attacks over the weekend of Feb. 11-12, including the largest reported HTTP DDoS attack on record. The majority of the DDoS attacks peaked at about 50 million to 70 million requests per second, with the largest exceeding 71 million rps (pictured). The largest attack was 35% higher than the previously reported HTTP DDoS record of 46 million rps in June 2022 .
+
+
+***
+![Global tech firm CGI to set up hub in Northern Ireland creating 50 new jobs](https://focus.belfasttelegraph.co.uk/qTQqwpho5GbAF47hdYUW1oqWTLM=/0x791:2696x2588/2696x1797/prod-mh-ireland/d428144b-1054-4d7b-8236-7cf9edc94b55/6c56d273-67ac-4faf-9aba-784d8a63acc4/d428144b-1054-4d7b-8236-7cf9edc94b55.jpg "Global tech firm CGI to set up hub in Northern Ireland creating 50 new jobs")
+
+
+[Global tech firm CGI to set up hub in Northern Ireland creating 50 new jobs](https://www.belfasttelegraph.co.uk/business/technology/global-tech-firm-cgi-to-set-up-hub-in-northern-ireland-creating-50-new-jobs/974895298.html)
+
+
+> Weekly Business Digest Margaret Canning's selection of business stories sent every Tuesday Please check your inbox to verify your details
+
+
+***
+![5 Ways a Smart Plug Actually Saves You Money on Every Electric Bill](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17qbjF.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "5 Ways a Smart Plug Actually Saves You Money on Every Electric Bill")
+
+
+[5 Ways a Smart Plug Actually Saves You Money on Every Electric Bill](http://www.msn.com/en-us/news/technology/5-ways-a-smart-plug-actually-saves-you-money-on-every-electric-bill/ar-AA17qkgt)
+
+
+> Like any smart home device, smart plugs are all about convenience, but that's not their only potential benefit. Using a smart plug can add up to some serious savings on your energy bill. How you ask? It's simple, really. Smart plugs help reduce wasted energy while consuming a negligible amount of energy themselves. Any and all of the five tips listed below can help you cut energy consumption with a smart plug, but they're not the only way to lower your electricity bill. For more ways to save energy, consider switching to Energy Star appliances, using a smart thermostat, flipping the rotation of your ceiling fan or changing up how you do laundry.
+
+
+***
+![Here are some Netflix Valentine's Day hacks](https://cdn.mobilesyrup.com/wp-content/uploads/2019/10/netflix-header-scaled.jpg "Here are some Netflix Valentine's Day hacks")
+
+
+[Here are some Netflix Valentine's Day hacks](https://mobilesyrup.com/2023/02/13/here-are-some-netflix-valentines-day-hacks/)
+
+
+> Netflix has some pretty cool hacks for those looking for the perfect movie to watch on Valentine's Day. If you want to check out all the romantic movies on the app, type 8883 in the search bar. If you're looking for a specific type of romance film, check out these codes:  31273 for classic romantic movies , 36103 for quirky romance , 5475 for romantic comedies , 1255 for romantic dramas , 502675 for romantic favourites , 7153 for romantic foreign movies , 9916 romantic independent movies , 35800 for steamy romantic movies.
+
+
+***
+![Free Fire redeem codes today (February 14, 2023): Latest FF codes to get free diamonds and emotes](https://staticg.sportskeeda.com/editor/2023/02/6ace1-16763076714433-1920.jpg "Free Fire redeem codes today (February 14, 2023): Latest FF codes to get free diamonds and emotes")
+
+
+[Free Fire redeem codes today (February 14, 2023): Latest FF codes to get free diamonds and emotes](https://www.sportskeeda.com/free-fire/news-free-fire-redeem-codes-today-february-14-2023-latest-ff-codes-get-free-diamonds-emotes)
+
+
+> Free Fire players can use redeem codes to get free in-game rewards. This method is popular because redeem codes can be used without much effort and reward a wide range of items. However, there are also some drawbacks to consider. Each redeem code is only valid for a limited time. Additionally, server restrictions are in place. This means redeem codes released for one server cannot be used by players from another server. Free Fire redeem codes (February 14, 2023) You can use these codes to get your hands on free diamonds and emotes: Diamonds MHM5D8ZQZP22 Emotes FFICJGW9NKYT FFAC2YXE6RF2 FF9MJ31CXKRG FFCO8BS5JW2D Note: These Free Fire redeem codes have unknown expiry dates and server restrictions, so they may not work for everyone.
+
+
+***
+![Apple updates iOS, iPadOS to fix flaw being exploited in the wild](https://itwire.com/media/k2/items/cache/833a678c83db03ec1c2c7726c8c1d167_XS.jpg "Apple updates iOS, iPadOS to fix flaw being exploited in the wild")
+
+
+[Apple updates iOS, iPadOS to fix flaw being exploited in the wild](https://itwire.com/security/apple-updates-ios,-ipados-to-fix-flaw-being-exploited-in-the-wild.html)
+
+
+> Pixabay Apple has released fresh versions of its iPad and iPhone operating systems — iPadOS 16.3.1 and iOS 16.3.1 — to patch a vulnerability in WebKit that was being exploited in the wild. In a security advisory issued on Monday, the company said it had also patched the kernel, in which an use-after-free issue was addressed. In its description of the WebKit vulnerability, the advisory said the impact was that "processing maliciously crafted web content may lead to arbitrary code execution.
+
+
+***
+![Barcode-Server: A simple daemon for reading barcodes from USB scanners and exposing them via HTTP, websocket API, or MQTT. Autodetect devices, request info via REST API, subscribe to events, and more!](https://external-preview.redd.it/1gZZIh4nM4Gg-dTGpFvGAEPztKnRrE9WqKoybdRmq_g.jpg?auto=webp&v=enabled&s=d524ef3a7f254ff6d063cdc52d50a1c9abc60b79 "Barcode-Server: A simple daemon for reading barcodes from USB scanners and exposing them via HTTP, websocket API, or MQTT. Autodetect devices, request info via REST API, subscribe to events, and more!")
+
+
+[Barcode-Server: A simple daemon for reading barcodes from USB scanners and exposing them via HTTP, websocket API, or MQTT. Autodetect devices, request info via REST API, subscribe to events, and more!](https://www.reddit.com/r/programming/comments/111nvap/barcodeserver_a_simple_daemon_for_reading)
+
+
+> Barcode-Server: A simple daemon for reading barcodes from USB scanners and exposing them via HTTP, websocket API, or MQTT. Autodetect devices, request info via REST API, subscribe to events, and more!
+
+
+***
+![Rihanna's Puffy Super Bowl Halftime Dancers Are Now a Meme](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17rMWN.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Rihanna's Puffy Super Bowl Halftime Dancers Are Now a Meme")
+
+
+[Rihanna's Puffy Super Bowl Halftime Dancers Are Now a Meme](http://www.msn.com/en-us/news/technology/rihanna-s-puffy-super-bowl-halftime-dancers-are-now-a-meme/ar-AA17rob5)
+
+
+> What's the Super Bowl without super-sized outfits? On Sunday, viewers tuned in to see pop star Rihanna do her thing during the halftime show and left with some Super Bowl meme material -- dancers dressed in enormous, powder-white getups. Load Error The Diamonds singer performed snippets of her hits for 13 minutes. The snugly dressed backup dancers surrounded her as she belted out tracks like We Found Love and Rude Boy. To some Twitter users, the puffy fits evoked the Michelin Man, Stay Puft Marshmallow Man and even Oompa Loompas.
+
+
+***
+[Copart, Inc. to Release Second Quarter Fiscal 2023 Results](http://www.businesswire.com/news/home/20230213005653/en/Copart-Inc.-to-Release-Second-Quarter-Fiscal-2023-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DALLAS--(BUSINESS WIRE)--Copart, Inc. (NASDAQ: CPRT) announced today that it will release earnings for the second quarter of fiscal 2023 after 4:00 p.m. Eastern Time (3:00 p.m. Central) on Monday, February 20, 2023. On Tuesday, February 21, 2023, at 11:00 a.m. Eastern Time (10:00 a.m. Central), Copart will conduct a conference call to discuss the results for the quarter. The call will be webcast live and can be accessed via hyperlink at www.copart.com/investorrelations. A replay of the call wil
+
+
+***
+![Can Thailand's TrueMoney remittance capabilities give it an edge in Malaysia's crowded e-wallet industry?](https://techwireasia.com/wp-content/uploads/2023/02/shutterstock_1457390603-scaled.jpg "Can Thailand's TrueMoney remittance capabilities give it an edge in Malaysia's crowded e-wallet industry?")
+
+
+[Can Thailand's TrueMoney remittance capabilities give it an edge in Malaysia's crowded e-wallet industry?](https://techwireasia.com/2023/02/can-thailands-truemoney-remittance-capabilities-give-it-an-edge-in-malaysias-crowded-e-wallet-industry/)
+
+
+> (Source – Shutterstock) When it comes to the e-wallet industry, the Southeast Asian region probably has the most e-wallet users apart from China. Over the years, the number of e-wallet players in the region has grown tremendously. While some players could not cope with the competition, others were able to expand their offerings, with a few eventually becoming super apps as well. The COVID-19 pandemic led to faster adoption of e-wallets in the region as well. A Juniper Research study from 2021 showed that the number of e-wallet users in the region to grow by 311% from 2020 to almost 440 million users by 2025 .
+
+
+***
+![Microsoft promises smaller Windows 11 updates with UUP](https://regmedia.co.uk/2020/11/03/update.jpg "Microsoft promises smaller Windows 11 updates with UUP")
+
+
+[Microsoft promises smaller Windows 11 updates with UUP](https://www.theregister.com/2023/02/13/microsoft_uup_smaller_updates/)
+
+
+> Next month Microsoft will start offering on-prem Unified Update Platform (UUP), which promises to deliver smaller and faster uploads of Windows updates. The promise is 30 percent smaller – and faster – client downloads for updates and other capabilities that Microsoft says will make life easier for Windows admins. However, getting this tech will require a one-time 10GB download for enterprises to their various on-premises Windows 11 devices with the first UUP update, which is due on March 28. "UUP is becoming the default and only way to download quality updates," Thad Martin, principal program manager at Microsoft, wrote in a Tech Community blog post .
+
+
+***
+![Astronomers Spot Asteroid Hours Before It Turns Into Fireball Over Europe](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17r9F3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Astronomers Spot Asteroid Hours Before It Turns Into Fireball Over Europe")
+
+
+[Astronomers Spot Asteroid Hours Before It Turns Into Fireball Over Europe](http://www.msn.com/en-us/news/technology/astronomers-spot-asteroid-hours-before-it-turns-into-fireball-over-europe/ar-AA17rhYZ)
+
+
+> It may be one of the most widely observed space rocks no one even knew existed just a day earlier. An asteroid officially designated 2023 CX1 (it also went by the temporary label Sar2667 during its approach toward Earth) was discovered Sunday evening by an observatory in Hungary and seven hours later was burning up as a brilliant fireball over the English Channel before a potential audience of millions. This marks just the seventh time ever that a meteoroid has actually been spotted in space before it impacted the atmosphere, according to the European Space Agency.
+
+
+***
+![OnePlus 11 vs. Pixel 7 Pro: Testing the Cameras on Both High-End Phones](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17dgWa.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "OnePlus 11 vs. Pixel 7 Pro: Testing the Cameras on Both High-End Phones")
+
+
+[OnePlus 11 vs. Pixel 7 Pro: Testing the Cameras on Both High-End Phones](http://www.msn.com/en-us/news/technology/oneplus-11-vs-pixel-7-pro-testing-the-cameras-on-both-high-end-phones/ar-AA17dgWQ)
+
+
+> The OnePlus 11 is a powerful Android phone with a slick new design and great extras like hyperfast charging. But these days, a good phone also has to take good pictures. The OnePlus 11's triple camera array takes high-quality shots, which you can read more about in the full review for the OnePlus 11. But I also wanted to see how it stacks up against its main rival, the Google Pixel 7 Pro. The Pixel 7 Pro earned a coveted CNET Editors' Choice award last year because of its specs and superb camera, so I knew it was going to be a fun "shoot-out" to determine which one captures the better photos.
+
+
+***
+![New patent shows Fitbit may be developing tools to measure your blood pressure](https://m-cdn.phonearena.com/images/article/145566-wide-two_1200/New-patent-shows-Fitbit-may-be-developing-tools-to-measure-your-blood-pressure.jpg "New patent shows Fitbit may be developing tools to measure your blood pressure")
+
+
+[New patent shows Fitbit may be developing tools to measure your blood pressure](https://www.phonearena.com/news/new-patent-shows-fitbit-might-be-working-on-blood-pressure-tech_id145566)
+
+
+> In order to measure blood pressure with wearable devices, Fitbit recently applied for a patent for a force-sensitive display. However, as it is just a patent it is not guaranteed that this feature will make it to production on either a Fitbit or Pixel smart watch. The patent was spotted by The Verge  and shows a design that takes inspiration from the standard blood pressure cuff. This differs from the mechanism most watches currently sold in the U.S. that measure blood pressure have. Instead of using a PPG sensor to accurately gauge blood pressure when worn, this design suggests that blood pressure would be measured similarly to how a normal blood pressure measuring cuff would.
+
+
+***
+![Aurelion Sol's play rate skyrockets after his rework, but his win rate is suffering](https://cdn1.dotesports.com/wp-content/uploads/2022/07/19195225/dont-expect-big-aurelion-sol-league-of-legends-rework-for-a-while-riot-games-devs-say-768x432.jpg "Aurelion Sol's play rate skyrockets after his rework, but his win rate is suffering")
+
+
+[Aurelion Sol's play rate skyrockets after his rework, but his win rate is suffering](https://dotesports.com/league-of-legends/news/aurelion-sols-play-rate-skyrockets-after-his-rework-but-his-win-rate-is-suffering)
+
+
+> Aurelion Sol was the latest League of Legends champion to receive a total gameplay update earlier this week, and like almost all champions who get a rework, Aurelion Sol's play rate went through the roof following his overhaul.  In the few days that have passed since his rework, Aurelion Sol has seen his pick rate in solo queue games jump from less than one percent to 16 percent. The champion's rework has turned him into a popular choice for mid laners on the Rift, and the only reason that 16 percent pick rate isn't higher is because of a high ban rate that sits at a lofty 55 percent—the highest among all champions in the game, according to League stats site U.
+
+
+***
+![Press release Ministry of Health](https://morelos.gob.mx/sites/default/files/styles/imagen_para_facebook__600x451_/public/sala-de-prensa/13_febrero_1.jpeg?itok=w45HC33X "Press release Ministry of Health")
+
+
+[Press release Ministry of Health](https://www.world-today-news.com/press-release-ministry-of-health/)
+
+
+> CURRENT SITUATION OF THE CORONAVIRUS COVID-19 IN MORELOS The Ministry of Health reports that to date 389,290 people have been studied in Morelos, of which 99,306 have been confirmed with coronavirus COVID-19; 350 are active and 5,396 deaths have been registered. The new patients are 46 people: 11 cases in Jiutepec; 10 in Cuernavaca; 9 in Cuautla; 3 in Jojutla; 3 in Zacatepec; 2 in Ayala; 2 in Ixtla Bridge; 2 in Temixco; 1 in Tlalnepantla; 1 in Tlaquiltenango; 1 in Xochitepec; 1 in Yautepec. Of this number, 23 are women from Ayala, Cuautla, Cuernavaca, Jiutepec, Jojutla, Puente de Ixtla, Temixco and Zacatepec; who are isolated in their homes.
+
+
+***
+![Galaxy Watch5 Series to add temperature-based female health tracking](https://gadgetsandwearables.com/wp-content/uploads/2023/02/CycleTracking_main1.jpg "Galaxy Watch5 Series to add temperature-based female health tracking")
+
+
+[Galaxy Watch5 Series to add temperature-based female health tracking](https://gadgetsandwearables.com/2023/02/14/galaxy-watch5-female-health/)
+
+
+> Natural Cycles and Samsung Electronics have announced a linkup to bring advanced temperature-based menstrual cycle tracking to the Galaxy Watch5 series in Q2 2023. The Natural Cycles' algorithm will be available on a smartwatch for the first time as a result of the collaboration. This will also mark the first time the Samsung temperature sensor is used. To remind, the Watch5 series was released about 5 months ago, and despite being confirmed at launch, the company has yet to activate the feature.
+
+
+***
+![This Valentine's Day, Just Be Glad You're Not One of These Couples](https://www.cnet.com/a/img/resize/f3e2f37ad90a26d3cf0335ebc35e13c4a67af311/hub/2023/02/09/2ed34c75-c031-4e8c-ae91-f1c8cf761f4f/succession-hbo-s3e3-matthew-macfadyen-sarah-snook-1.jpg?auto=webp&fit=crop&height=630&width=1200 "This Valentine's Day, Just Be Glad You're Not One of These Couples")
+
+
+[This Valentine's Day, Just Be Glad You're Not One of These Couples](https://www.cnet.com/culture/this-valentines-day-just-be-glad-youre-not-one-of-these-couples/)
+
+
+> Love is in the air -- and on your screens. If there's any timeless, universal theme that hooks viewers of movies and TV, it's a good love story. With Valentine's Day almost here, here are some of the romances from the big and small screen that we'll love forever. And because we're messy viewers who live for drama, we've also rounded up some of the top toxic relationships in pop culture. They remind us that just because a romance is written in the script doesn't mean it's written in the stars.  #RelationshipGoals Starz I fell in love with Claire and Jamie when a friend suggested the Outlander book series some 15 years ago.
+
+
+***
+![Beijing will assist significant businesses in creating ChatGPT-like AI models.](https://techstory.in/wp-content/uploads/2023/02/ChatGPT-2.jpg "Beijing will assist significant businesses in creating ChatGPT-like AI models.")
+
+
+[Beijing will assist significant businesses in creating ChatGPT-like AI models.](https://techstory.in/beijing-will-assist-significant-businesses-in-creating-chatgpt-like-ai-models/)
+
+
+> According to a Monday announcement from the city's commerce and IT office, Beijing, the capital of China, will assist top businesses in creating sizable artificial intelligence () models that can compete with ChatGPT. According to a statement, the city will help important companies invest in developing an open-source framework and speed up the flow of fundamental data. Beijing was home to 1,048 core enterprises, or 29% of all companies in the nation, as of October of last year, according to the bureau, which also stated that it would look at methods for developing talent and doing research in areas like ethical governance.
+
+
+***
+![Partners to gain from 'strong IoT play' with new Thinxtra program](https://d2bs8hqp6qvsw6.cloudfront.net/article/images/740x500/dimg/nickl.jpg "Partners to gain from 'strong IoT play' with new Thinxtra program")
+
+
+[Partners to gain from 'strong IoT play' with new Thinxtra program](https://www.arnnet.com.au/article/705566/thinxtra-launches-partner-program-ahead-of-partner-drive/)
+
+
+> Nicholas Lambrou (Thinxtra) Credit: Thinxtra Internet of things (IoT) network specialist Thinxtra is seeking out new partners as it launches its inaugural partner program. Based on a two-tiered structure – Registered and X-partner – the program offers strategic business planning, training and enablement workshops for making the most of IoT opportunities, demand generation and account mapping, sales tools and pre-and post-sales support. Speaking to ARN , Thinxtra CEO Nicholas Lambrou said the aim of the program was to introduce end-to-end product-tied solutions out of the box for partners that have not developed their own platform or device to connect immediately to the specialist's network.
+
+
+***
+![15 years of Kosovo – on a drip from the EU and NATO](https://assets.deutschlandfunk.de/06cdd505-701d-4720-906b-f53cee2d4f46/1920x1080.jpg?t=1676312375623 "15 years of Kosovo – on a drip from the EU and NATO")
+
+
+[15 years of Kosovo – on a drip from the EU and NATO](https://www.world-today-news.com/15-years-of-kosovo-on-a-drip-from-the-eu-and-nato/)
+
+
+> 15 years Kosovo Christoph Kersting, Zora Kopova, Jens Oliver Schmitt, and Margarete Wohlan · February 13, 2023 at 6:30 p.m The Republic of Kosovo was proclaimed 15 years ago, making Kosovo independent. The EU supports the country financially, and NATO's KFOR protection force is on site. But how independent and viable is the country?
+
+
+***
+![iOS 16.3.1 fixes big bugs for iPhone — and breaks Google Photos](https://www.digitaltrends.com/wp-content/uploads/2022/11/ios-lock-screen-widget-customization.jpg?resize=1200%2C630&p=1 "iOS 16.3.1 fixes big bugs for iPhone — and breaks Google Photos")
+
+
+[iOS 16.3.1 fixes big bugs for iPhone — and breaks Google Photos](https://www.digitaltrends.com/mobile/ios-16-3-1-fixes-major-iphone-bugs-breaks-google-photos/)
+
+
+> Apple just released a new iOS update for your iPhone: iOS 16.3.1. There are also updates for iPadOS 16.3.1 and macOS 13.2.1. All of these are relatively minor updates, but they do patch up an actively exploited code execution vulnerability that was found in WebKit/Safari. A second vulnerability was also patched up, though this second one was not known to be actively exploited. But that's not all that iOS 16.3.1 brings. This update also fixes an issue with iCloud settings, where it became unresponsive.
+
+
+***
+![Asteroid hits Earth!Explosions over the English Channel and people rush to watch the meteor show](https://media-proc-wowm.bastillepost.com/wp-content/uploads/hongkong/2023/02/2023021317512184045.jpg "Asteroid hits Earth!Explosions over the English Channel and people rush to watch the meteor show")
+
+
+[Asteroid hits Earth!Explosions over the English Channel and people rush to watch the meteor show](https://www.world-today-news.com/asteroid-hits-earthexplosions-over-the-english-channel-and-people-rush-to-watch-the-meteor-show/)
+
+
+> February 13, 2023 20:17 Last Update: 21:43 The European Space Agency (ESA) said earlier that an asteroid about 1 meter in size hit the Earth's atmosphere over France at 10:00 p.m. ET Sunday (11:00 a.m. Hong Kong Monday) and caused no harm. The star exploded over the English Channel. People all over the UK and France witnessed a 'meteor show', and the magical footage went viral on the Internet. People all over the world captured the beautiful pictures of SAR2667 falling The International Meteor Organization (IMO) pointed out that the asteroid, named 'Sar2667', is expected to enter the atmosphere over the city of Rouen in northern France.
+
+
+***
+![Big Changes Are Coming To Destiny 2 In Lightfall And Beyond](https://www.kotaku.com.au/wp-content/uploads/sites/3/2023/02/14/ed2f73e1d355193558c6054821d74642.jpg?quality=80&resize=1280,720 "Big Changes Are Coming To Destiny 2 In Lightfall And Beyond")
+
+
+[Big Changes Are Coming To Destiny 2 In Lightfall And Beyond](https://www.kotaku.com.au/2023/02/big-changes-are-coming-to-destiny-2-in-lightfall-and-beyond/)
+
+
+> Image: Bungie Destiny 2 is going to get a whole lot better. Bungie announced a slew of changes coming to the loot shooter over the next few expansions and seasons. The studio plans to make content more difficult starting with the launch of Lightfall later this month , while the existing power grind seems like it could get ditched entirely by the time the next expansion, The Final Shape , arrives sometime in 2024. Game director Joe Blackburn laid this and more out in a sprawling 5,000 word blog post .
+
+
+***
+![Asus ROG Flow Z13 convertible gaming laptop with RTX 3050 gets 28% discount on Amazon](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Asus_ROG_Flow_X13_gaming_laptop_convertible_RTX_3050.jpg "Asus ROG Flow Z13 convertible gaming laptop with RTX 3050 gets 28% discount on Amazon")
+
+
+[Asus ROG Flow Z13 convertible gaming laptop with RTX 3050 gets 28% discount on Amazon](https://www.notebookcheck.net/Asus-ROG-Flow-Z13-convertible-gaming-laptop-with-RTX-3050-gets-28-discount-on-Amazon.693553.0.html)
+
+
+> The 13-inch Asus ROG Flow Z13 gaming laptop hybrid with an RTX 3050 has dropped in price (Image: Asus) The powerful 13-inch convertible is a pretty unique device which may be particularly interesting for gamers who are in the market for an extremely versatile and portable gaming laptop that can also be used as a tablet. Gaming Laptop Convertible / 2-in-1 Deal At last month's CES 2023, Taiwanese PC manufacturer Asus announced the latest iteration of the pretty unique ROG Flow Z13, which basically is a more powerful and gaming-capable 13-inch alternative to the Microsoft Surface Pro .
+
+
+***
+![Building a Flight Simulator with Javascript and THREE.js](https://external-preview.redd.it/1Loh-sS8ZmgYyhN4dzVU7jKWNCkLQ6kSqVBV3GH2LoU.jpg?auto=webp&v=enabled&s=1db66dcdff94846f49766f476584d649837c7f4d "Building a Flight Simulator with Javascript and THREE.js")
+
+
+[Building a Flight Simulator with Javascript and THREE.js](https://www.reddit.com/r/programming/comments/111mmi4/building_a_flight_simulator_with_javascript_and)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Apple's Crash Detection goes through another round of 'optimizations'](https://cdn.mobilesyrup.com/wp-content/uploads/2022/12/apple-logo-5.jpg "Apple's Crash Detection goes through another round of 'optimizations'")
+
+
+[Apple's Crash Detection goes through another round of 'optimizations'](https://mobilesyrup.com/2023/02/13/apples-crash-detection-goes-through-another-round-of-optimizations/)
+
+
+> Apple's Crash Detection feature is a genuinely useful tool that also has several drawbacks. Reports regarding false crash signals with the feature aren't entirely new. Following the feature falsely detecting crashes when the wearer is riding a roller coaster, it was discovered that Crash Detection also sometimes gives false positives when the user participates in winter sports like skiing. Apple's iOS 16.1.2 update included 'Crash Detection optimizations,' though it seems the update wasn't enough to deter false positives, and the Cupertino-based giant is now trying to optimize the feature again.
+
+
+***
+![PocketBase](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "PocketBase")
+
+
+[PocketBase](https://www.reddit.com/r/programming/comments/111mjfa/pocketbase_open_source_backend_in_1_file)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Meet Alanah Nichole Davis, Technical.ly's new Baltimore reporter](https://technical.ly/wp-content/uploads/2023/02/headshotalanahdavis.jpg "Meet Alanah Nichole Davis, Technical.ly's new Baltimore reporter")
+
+
+[Meet Alanah Nichole Davis, Technical.ly's new Baltimore reporter](https://technical.ly/company-culture/baltimore-reporter-alanah-nichole-davis/)
+
+
+> If you've been part of Baltimore's arts, nonprofit or entrepreneurial sectors for a while, then Alanah Nichole Davis will be familiar to you. You might know her from this site , for which she's written about antiracist allyship , discussing work with your family and more. You might also know her from the columns and profiles she's written for such publications as Salon, Baltimore Magazine and The Baltimore Banner. Or you may know of her poetry, or her nonprofit board service or something else.
+
+
+***
+![You will always have more Problems than Engineers.](https://external-preview.redd.it/qHInddaqHpwClHqNzc0YW0Q6E26sbXDuPqHMMTEju04.jpg?auto=webp&v=enabled&s=e9fef0b55c0deaa5c9bf7030e7b261ba5c3b5c99 "You will always have more Problems than Engineers.")
+
+
+[You will always have more Problems than Engineers.](https://www.reddit.com/r/programming/comments/111mhq1/you_will_always_have_more_problems_than_engineers)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![The news about sales data for Microsoft Game Pass games is contradictory](https://www.gamer365.hu/~fs/article/00/19/uk/xboxgame_pass.jpg "The news about sales data for Microsoft Game Pass games is contradictory")
+
+
+[The news about sales data for Microsoft Game Pass games is contradictory](https://www.world-today-news.com/the-news-about-sales-data-for-microsoft-game-pass-games-is-contradictory/)
+
+
+> The recent announcement of the British Competition Authority came into focus in connection with the Microsoft-Activision Blizzard acquisition, but several people in the industry noticed a special detail. 2018-ban Phil Spencer he stated that Game Pass inclusion pushes a game's sales rather than reducing them. When you add Forza Horizon 4 to Game Pass, you immediately have more players, which leads to more customers. You would think they would subscribe for $10 to play. But no, gamers also buy when they see what others are playing.
+
+
+***
+![White House Launches Effort to Examine Policy Choices for Shooting Down UFOs](https://cdn.defenseone.com/media/img/cd/2023/02/13/7620705/open-graph.jpg "White House Launches Effort to Examine Policy Choices for Shooting Down UFOs")
+
+
+[White House Launches Effort to Examine Policy Choices for Shooting Down UFOs](https://www.defenseone.com/technology/2023/02/white-house-launches-effort-examine-policy-choices-shooting-down-ufos/382915/)
+
+
+> The National Security Council will lead a team of experts to 'study the broader policy implications for detection, analysis, and disposition of unidentified aerial objects,' White House National Security Council spokesperson John Kirby told reporters Monday.   'Every element of the government will redouble their efforts to understand and mitigate these events' he said. The news comes after U.S. military aircraft downed three unidentified objects over U.S. and Canadian airspace over the weekend, and just about a week after a U.
+
+
+***
+![OpenAI CEO Sam Altman said ChatGPT is 'cool,' but it's a 'horrible product'](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17rtDK.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=386&y=205 "OpenAI CEO Sam Altman said ChatGPT is 'cool,' but it's a 'horrible product'")
+
+
+[OpenAI CEO Sam Altman said ChatGPT is 'cool,' but it's a 'horrible product'](http://www.msn.com/en-us/news/technology/openai-ceo-sam-altman-said-chatgpt-is-cool-but-it-s-a-horrible-product/ar-AA17rtDV)
+
+
+> OpenAI's ChatGPT and similar AI tools may not replace jobs anytime soon. But they can help workers across many industries – from tech to media – do their jobs better and more quickly. "It's almost like a bit of a productivity boost that some of these occupations might get," Anu Madgavkar, a partner at economic research firm McKinsey Global Institute, told Insider. The buzzy conversational chatbot – which attracted one million users soon after its launch last November – has been used to generate real estate advice, provide tips on how to start a business, and even write music in the style of individual artists, all with varying levels of success.
+
+
+***
+![Memes, tweets, snark are the FDA's new public health weapons](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17rKiF.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Memes, tweets, snark are the FDA's new public health weapons")
+
+
+[Memes, tweets, snark are the FDA's new public health weapons](http://www.msn.com/en-us/news/technology/memes-tweets-snark-are-the-fda-s-new-public-health-weapons/ar-AA17rE9j)
+
+
+> When Buffalo Bills safety Damar Hamlin collapsed during a National Football League game in January, dozens of Twitter trolls quickly blamed it on COVID-19 shots. 'Snake-oil salesmen' seized on the event, Dr. Robert Califf, commissioner of the U.S. Food and Drug Administration, said in an interview. The #diedsuddenly hashtag, which appeared in tweets about the incident, is often used to discredit vaccines by linking them to deaths and injuries without evidence. Load Error The FDA is treading a fine line as it attempts to respond to misinformation on social media without amplifying it.
+
+
+***
+![Rihanna's Super Bowl Halftime Dancers Become Meme: That the Michelin Man?](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17rI3u.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Rihanna's Super Bowl Halftime Dancers Become Meme: That the Michelin Man?")
+
+
+[Rihanna's Super Bowl Halftime Dancers Become Meme: That the Michelin Man?](http://www.msn.com/en-us/news/technology/rihanna-s-super-bowl-halftime-dancers-become-meme-that-the-michelin-man/ar-AA17rob5)
+
+
+> What's the Super Bowl without super-sized outfits? On Sunday, viewers tuned in to see pop star Rihanna do her thing during the halftime show and left with some Super Bowl meme material -- dancers dressed in enormous, powder-white getups. Load Error The Diamonds singer performed snippets of her hits for 13 minutes. The snugly dressed backup dancers surrounded her as she belted out tracks like We Found Love and Rude Boy. To some Twitter users, the puffy fits evoked the Michelin Man, Stay Puft Marshmallow Man and even Oompa Loompas.
+
+
+***
+![Gotoxy in Dev C](https://external-preview.redd.it/P6CU2-jaoIQbel_64Hzw_KkY7dyE3zA_z4CSsHZ47d0.jpg?auto=webp&v=enabled&s=cc53a2f61a10c9657220ca29dec5c6557c934329 "Gotoxy in Dev C")
+
+
+[Gotoxy in Dev C](https://www.reddit.com/r/programming/comments/111mcmm/gotoxy_in_dev_c)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![You've got to have heart: Computer scientist works to help AI comprehend human emotions](https://scx2.b-cdn.net/gfx/news/2023/youve-got-to-have-hear.jpg "You've got to have heart: Computer scientist works to help AI comprehend human emotions")
+
+
+[You've got to have heart: Computer scientist works to help AI comprehend human emotions](https://techxplore.com/news/2023-02-youve-heart-scientist-ai-comprehend.html)
+
+
+> For Aniket Bera, an expert in emotional computing, smart devices need to be heart-smart, not just head-smart. With applications that include virtual therapy, autonomous vehicles and rescue bots like this robot dog, his lab works at the intersection of artificial intelligence and human emotion and behavior. Credit: Purdue University / Rebecca McElhoe Bring up robot-human relations, and you're bound to conjure images of famous futuristic robots, from the Terminator to C-3PO. But, in fact, the robot invasion has already begun.
+
+
+***
+![Samsung publishes high reparability score for upcoming Galaxy A54 Comments](https://fdn.gsmarena.com/imgroot/static/favicon.ico "Samsung publishes high reparability score for upcoming Galaxy A54 Comments")
+
+
+[Samsung publishes high reparability score for upcoming Galaxy A54 Comments](https://www.gsmarena.com/newscomm-57536.php)
+
+
+> No body in the article.
+
+
+***
+![Samsung publishes high reparability score for upcoming Galaxy A54](https://fdn.gsmarena.com/imgroot/news/23/02/samsung-galaxy-a54-repairability-france/-952x498w6/gsmarena_000.jpg "Samsung publishes high reparability score for upcoming Galaxy A54")
+
+
+[Samsung publishes high reparability score for upcoming Galaxy A54](https://www.gsmarena.com/samsung_calculates_a_high_reparability_score_for_the_upcoming_galaxy_a54_according_to_french_rules-news-57536.php)
+
+
+> The Samsung Galaxy A54 has been leaking for months, but for some reason the company still hasn't made it official. Hopefully that happens soon. For now, we have another bit of info about the device, and this one comes straight from Samsung. Specifically, its official website in France. The company has uploaded a calculation of the Galaxy A54's reparability score, done according to the specific French standards. This has resulted in the document you can see below. The A54 in the end gets an 8.
+
+
+***
+![On-Premises Microsoft Exchange, Points to Stay Defended (Previous) – On-Premises Microsoft Exchange, Points to Stay Defended…: CIO Magazine](https://project.nikkeibp.co.jp/images/idg/ciomagazine/category/security.png "On-Premises Microsoft Exchange, Points to Stay Defended (Previous) – On-Premises Microsoft Exchange, Points to Stay Defended…: CIO Magazine")
+
+
+[On-Premises Microsoft Exchange, Points to Stay Defended (Previous) – On-Premises Microsoft Exchange, Points to Stay Defended…: CIO Magazine](https://www.world-today-news.com/on-premises-microsoft-exchange-points-to-stay-defended-previous-on-premises-microsoft-exchange-points-to-stay-defended-cio-magazine/)
+
+
+> TOP ＞ Security ＞ On-premise version of Microsoft Exchange, protection … Microsoft's monthly update program, which began to be provided on January 10, fixed 98 security issues, an unusual number, and IT administrators were busy checking and responding to the contents early in the new year. . Among the fixes this time was a zero-day vulnerability that was confirmed to be in the wild. During this period, there are many opportunities for various considerations, both short-term and long-term, such as current product composition and future budget allocation.
+
+
+***
+![Dead Island 2 Is Releasing Early](https://press-start.com.au/wp-content/uploads/2022/08/Dead-island-2-NEws-1.jpg "Dead Island 2 Is Releasing Early")
+
+
+[Dead Island 2 Is Releasing Early](https://press-start.com.au/news/playstation/2023/02/14/dead-island-2-is-releasing-early)
+
+
+> After years of delays, developer changes, global pandemics and whatever else could go wrong in game development (probably), Dead Island 2 has finally gone gold. That means the game is essentially 'finished' barring any last-minute changes being rolled into a day one update, ready to be pressed to discs and beamed up through the heavens to be stored on servers for digital storefronts everywhere. On top of that bit of good news though, the folks at Deep Silver Dambuster Studios have announced that they're dropping the game early.
+
+
+***
+![The best Basilisk loadout in Warzone 2](https://cdn1.dotesports.com/wp-content/uploads/2023/02/13170630/codbas5-768x432.jpg "The best Basilisk loadout in Warzone 2")
+
+
+[The best Basilisk loadout in Warzone 2](https://dotesports.com/call-of-duty/news/best-basilisk-loadout-warzone-2)
+
+
+> Screengrab via Activision Call of Duty: Warzone 2's roster of pistols is full of some decent sidearm options for players to add to their loadouts, but one of the most powerful ones is the Basilisk revolver. 'A double-action revolver firing .500 Cal rounds, the Basilisk kicks hard but hits harder,' the gun's in-game description reads. It certainly kicks quite a bit, but you can make it kick like a mule with one specific attachment that this Warzone 2 loadout is built around. Here's the best set of attachments to use on the Basilisk in Warzone 2 , whether you're dropping in for battle royale or Resurgence.
+
+
+***
+![What effect will replacing short-haul flights have on carbon dioxide emissions and international connectivity?](https://scx2.b-cdn.net/gfx/news/hires/2023/what-effect-will-repla.jpg "What effect will replacing short-haul flights have on carbon dioxide emissions and international connectivity?")
+
+
+[What effect will replacing short-haul flights have on carbon dioxide emissions and international connectivity?](https://techxplore.com/news/2023-02-effect-short-haul-flights-carbon-dioxide.html)
+
+
+> by Agustín López, Universitat Oberta de Catalunya (UOC) Sample Air Routes from Frankfurt (left) and Munich (right) Source: OAG Traffic/Schedules Analyser. Credit: Case Studies on Transport Policy (2022). DOI: 10.1016/j.cstp.2022.09.001 Last December, France obtained approval from the European Commission to prohibit short-haul flights with alternatives by rail taking less than 2.5 hours, in a measure aimed at reducing CO 2 emissions and combating climate change. A new study by the Universitat Oberta de Catalunya (UOC) focusing on the case of Germany has quantified the potential impact of replacing these journeys in terms of both emissions and international connectivity, and highlighted the risks of these policies if they are applied on a widespread basis.
+
+
+***
+![Samsung Electronics Indonesia Presents Virtual Experience World](https://tabloidpulsa.id/wp-content/uploads/2023/02/Samsung-The-Frame-Customizable-Bezel.webp "Samsung Electronics Indonesia Presents Virtual Experience World")
+
+
+[Samsung Electronics Indonesia Presents Virtual Experience World](https://www.world-today-news.com/samsung-electronics-indonesia-presents-virtual-experience-world/)
+
+
+> tabloidpulsa.id – In order to introduce its newest line of televisions, which are quite a number, Samsung Electronic Indonesia is trying another approach by using a Virtual Experience World. With this facility potential customers can get to know more about Samsung TV products such as Neo QLED 8K and Neo QLED 4K, Lifestyle TV and Super Smart TV +. This service can be enjoyed starting February 14, 2023, where we can experience the sophistication of Samsung TV products in the virtual world, including trying to demonstrate bezel customization on several types of Samsung Lifestyle.
+
+
+***
+![Where Do Paid Ads Fit With ChatGPT & Why Is Google's Bard Taking So Long To Come To The AI Party?](https://www.bandt.com.au/information/uploads/2023/02/Screen-Shot-2023-02-14-at-9.25.45-am-750x411.png "Where Do Paid Ads Fit With ChatGPT & Why Is Google's Bard Taking So Long To Come To The AI Party?")
+
+
+[Where Do Paid Ads Fit With ChatGPT & Why Is Google's Bard Taking So Long To Come To The AI Party?](https://www.bandt.com.au/where-do-paid-ads-fit-with-chatgpt-why-is-googles-bard-taking-so-long-to-come-to-the-ai-party/)
+
+
+> In this guest post, Nunn Media's head of digital Pete Wilson (pictured below) takes a look at the hottest topic in town – ChatGPT – and contemplates why Google has been so late to the AI ad party… Maybe, just maybe, Google has been stalling on Bard because of the success of Google Ads. Google's ‘search and other' revenue came to a whopping US$42.6 billion in Q4 2022. Whilst this represents a 1.6 per cent drop YOY on Q4 2021, it's pretty clear that search revenue is still Google's bread and butter (plus a couple of other fillings).
+
+
+***
+![Near-naked fan streaks across PGA golf course before belly-flopping into pond (video)](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/arizona.jpeg?fit=1200%2C800&ssl=1 "Near-naked fan streaks across PGA golf course before belly-flopping into pond (video)")
+
+
+[Near-naked fan streaks across PGA golf course before belly-flopping into pond (video)](https://boingboing.net/2023/02/13/near-naked-fan-streaks-across-pga-golf-course-before-belly-flopping-into-pond-video.html)
+
+
+> A gentleman sporting a mullet spiced up a PGA golf tournament in Scottsdale over the weekend when he stripped down to his snuggy undies and led police across the greenery before performing an impressive spread-eagle belly-flop into a pond. (See first video below, posted by @Eric Sorenson .) He then swam quite a distance across the water (see second video below, posted by @Eric Cohen ) before police caught up to him, ending the amusing shenanigans with an arrest. The humorless officers charged the streaker with "trespassing, disorderly conduct, and failure to obey orders from a law enforcement officer," according to Mediaite .
+
+
+***
+![Sony WH-CH520: Retailer reveals pricing and 50 hours battery life for affordable over-ear headphones](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/fee_786_587_png3.jpg "Sony WH-CH520: Retailer reveals pricing and 50 hours battery life for affordable over-ear headphones")
+
+
+[Sony WH-CH520: Retailer reveals pricing and 50 hours battery life for affordable over-ear headphones](https://www.notebookcheck.net/Sony-WH-CH520-Retailer-reveals-pricing-and-50-hours-battery-life-for-affordable-over-ear-headphones.693550.0.html)
+
+
+> The Sony WH-CH520 will be the cheaper alternative to the WH-CH720N. (Image source: MediaMarkt) The Sony WH-CH520 has leaked again, with a retailer showcasing product renders, specifications and pricing. While the WH-CH520 will be available for less than €100, the headphones will offer 50 hours of battery life, Bluetooth Multipoint connectivity and DSEE upscaling, among other features. Audio Wearable Leaks / Rumors MediaMarkt has revealed specifications and European pricing for the WH-CH520, one of two over-ear headphones that Sony will release soon.
+
+
+***
+![9 Scammers Busted for 5M Euro Phishing Fraud Ring](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt49a1d2053188064c/62e97e6d4d9e7a6c51fed368/phishing_lure_Philip_Steury_Alamy.jpg "9 Scammers Busted for 5M Euro Phishing Fraud Ring")
+
+
+[9 Scammers Busted for 5M Euro Phishing Fraud Ring](https://www.darkreading.com/attacks-breaches/9-scammers-busted-for-5m-euro-phishing-fraud-ring)
+
+
+> Nine suspects have been arrested — eight in Madrid and one in Miami — for their suspected participation in a cybercriminal organization accused of stealing more than 5,000,000 euros from unsuspecting victims in less than a year. The joint operation between the Spanish National Police and the US Secret Service traced the group's activities to more than 100 bank accounts created to collect stolen money, which they would then withdraw at cash machines, transfer abroad, or convert into cryptocurrency, the Spanish National Police said in an announcement of the takedown .
+
+
+***
+![iPhone 14 Pro Max vs Galaxy S23 Ultra: Specs Comparison](https://www.gizmochina.com/wp-content/uploads/2023/02/s1-1.jpg "iPhone 14 Pro Max vs Galaxy S23 Ultra: Specs Comparison")
+
+
+[iPhone 14 Pro Max vs Galaxy S23 Ultra: Specs Comparison](https://www.gizmochina.com/guides/iphone-14-pro-max-vs-samsung-galaxy-s23-ultra-specs-comparison)
+
+
+> The iPhone 14 Pro Max and the are two of the most advanced smartphones in the market, as well as the most advanced ones ever released by Apple and Samsung, respectively. Both devices are packed with high-end specifications and innovative features that set them apart from the competition. But which one is the best? Here, we will compare the two devices based on their design, display, specs and software, camera, battery life, and price to help you decide which one is right for you. If you need to know which one suits your needs, the most, then go ahead with this comparison between the main specifications of the and the iPhone 14 Pro Max.
+
+
+***
+![How Kingfluencers does good with every post](https://www.werbewoche.ch/wp-content/uploads/2023/02/Kingfluencers.jpg "How Kingfluencers does good with every post")
+
+
+[How Kingfluencers does good with every post](https://www.world-today-news.com/how-kingfluencers-does-good-with-every-post/)
+
+
+> At a time when there are bigger issues to solve than social media posts, Kingfluencers founded the #KFcares initiative in March 2022 – to give every post meaning and added value and to provide help together where it is needed. Kingfluencers has also reacted to the current situation with its #KFcares initiative to help people in need in Syria and Turkey. They not only dedicated the #KFcares initiative to the Austrian Red Cross, but also collected donations in kind and have already handed them over.
+
+
+***
+![Can watermarks for chatbots distinguish AI-generated text?](https://www.technologyreview.kr/wp-content/uploads/2023/02/GettyImages-1405584647_11zon.png "Can watermarks for chatbots distinguish AI-generated text?")
+
+
+[Can watermarks for chatbots distinguish AI-generated text?](https://www.world-today-news.com/can-watermarks-for-chatbots-distinguish-ai-generated-text/)
+
+
+> By intentionally inserting invisible patterns into AI-generated text, it can be used as a clue to whether the word currently being read was written by a human. These ‘watermarks' are invisible to the naked eye, but allow computers to determine the likelihood that the text was created by an AI system. If watermarks are applied to large language models, it seems likely that some of the problems already caused by these language models can be avoided. For example, after OpenAI launched a chatbot called ChatGPT last November, students have already started cheating by writing essays using this language model.
+
+
+***
+![The Pioneers: Surviving Desolation to Receive New Vehicles, Classes and More](https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico "The Pioneers: Surviving Desolation to Receive New Vehicles, Classes and More")
+
+
+[The Pioneers: Surviving Desolation to Receive New Vehicles, Classes and More](https://www.gamespress.com/The-Pioneers-Surviving-Desolation-to-Receive-New-Vehicles-Classes-and-)
+
+
+> [France / February 13th, 2023] - After a successful launch into Early Access on January 20th, indie studio Supercube has just revealed the latest roadmap for their space survival sim The Pioneers: Surviving Desolation . The roadmap highlights the team's plan for the remainder of the year. In addition to regular bug fixes and balancing, players can expect the updates during Early Access to provide new ways to survive in the brutal Io atmosphere.  The Pioneers: Surviving Desolation puts players in the shoes of a crew stranded on Jupiter's innermost moon Io.
+
+
+***
+![Frog Named for Lord of the Rings Creator Lives in a 'Universe of Fantasies'](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17rBsE.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Frog Named for Lord of the Rings Creator Lives in a 'Universe of Fantasies'")
+
+
+[Frog Named for Lord of the Rings Creator Lives in a 'Universe of Fantasies'](http://www.msn.com/en-us/news/technology/frog-named-for-lord-of-the-rings-creator-lives-in-a-universe-of-fantasies/ar-AA17rwrc)
+
+
+> Deep inside Ecuador's Río Negro-Sopladora National Park, the line between fantasy and reality vanishes. At least, that's what scientists who recently discovered a new frog species say of their time exploring this multithousand-acre milieu of mountainous slopes, wispy trees, sparkling rivers and weeping ombré flowers. Load Error They even named the golden-toed frog they stumbled upon Hyloscirtus tolkieni -- after one of their favorite authors, JRR Tolkien, writer of the Lord of the Rings series and the brains behind every whimsical crevice of Middle-earth.
+
+
+***
+[NRGene Canada Advances the Fight Against Canola Clubroot](http://www.businesswire.com/news/home/20230213005628/en/NRGene-Canada-Advances-the-Fight-Against-Canola-Clubroot/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SASKATOON, Saskatchewan--(BUSINESS WIRE)--Using Genomics and AI, NRGene Canada has identified novel non-GMO canola genetics that exhibit high resistance against multiple pathotypes of clubroot disease. By breeding novel Canola varieties with resistant traits, the Canadian economy could see billions of dollars in economic stimulus due to yield gain and reintroduction of infected acres. Saskatoon, Saskatchewan-based AI genomics firm, NRGene Canada Inc. is pleased to announce the development of no
+
+
+***
+![WhatsApp Web Photo Editing Features You Must Know](https://cdn-1.timesmedia.co.id/images/2023/02/13/WhatsApp-Web.jpg "WhatsApp Web Photo Editing Features You Must Know")
+
+
+[WhatsApp Web Photo Editing Features You Must Know](https://www.world-today-news.com/whatsapp-web-photo-editing-features-you-must-know/)
+
+
+> TIMESINDONESIA, JAKARTA – How to clean HP trash is an important thing that seems necessary for all users to know to guarantee a smooth and comfortable cellphone without problems. Because the condition of the cellphone has a lot of trash, it will disrupt stability. A common problem that often occurs in the use of smartphone services is that there is too much garbage in it, which hinders the user aspect. Especially if you are an active user and automatically need to use maximum HP power. Moreover, as it is known that the continuous use of mobile phones every day will certainly generate a lot of waste and of course the maximum results from using applications and on cellphones.
+
+
+***
+![Netflix Standard vs Premium: Which upper-tier subscription is for you?](https://www.androidauthority.com/wp-content/uploads/2022/06/Netflix-N-statue.jpg "Netflix Standard vs Premium: Which upper-tier subscription is for you?")
+
+
+[Netflix Standard vs Premium: Which upper-tier subscription is for you?](https://www.androidauthority.com/netflix-standard-vs-premium-3282785/)
+
+
+> Netflix remains a heavy hitter in the streaming space despite the rise of alternatives . The service offers four subscription tiers, including a new ad-supported subscription. While each subscription tier has its advantages, streaming quality and basic features really hit their stride in the top tiers. So, when comparing Netflix Standard vs Premium, which is right for you? Below, we break down the pros and cons of the two pricier options. If you're ready to sign up, you can do so by hitting the link below.
+
+
+***
+![Your Utility Bills Might Be About to Drop. Here's Why](https://www.cnet.com/a/img/resize/7fdd109cdf4230b88b322734809f0a50239d5f36/hub/2023/02/10/3f07e8c4-c237-4deb-9692-bbc7a08f4ab0/gettyimages-1451538675.jpg?auto=webp&fit=crop&height=630&width=1200 "Your Utility Bills Might Be About to Drop. Here's Why")
+
+
+[Your Utility Bills Might Be About to Drop. Here's Why](https://www.cnet.com/home/energy-and-utilities/your-utility-bills-might-be-about-to-drop-heres-why/)
+
+
+> The average household in the US is expected to see utility bills hold steady or drop in the next couple of years, according to the latest forecast by the US Energy Information Administration . But you can get immediate savings by taking a few steps to reduce your energy usage now. After a big jump in utility costs since 2020, electricity bills are expected to stay fairly flat in 2023 and 2024, with a drop in consumption offsetting a moderate rise in prices, a CNET analysis of EIA data found. Natural gas bills are expected to drop after a surge last year.
+
+
+***
+![First Republic Bank: 2023 Banking Review](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17rpFm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "First Republic Bank: 2023 Banking Review")
+
+
+[First Republic Bank: 2023 Banking Review](http://www.msn.com/en-us/news/technology/first-republic-bank-2023-banking-review/ar-AA17rpFB)
+
+
+> First Republic Bank is a self-described bicoastal bank (with the exception of one branch in Wyoming) that prioritizes personal connections through "relationship banking." Although it has a robust online platform and mobile app, you must first open an account in person by visiting a First Republic Bank branch. For this reason, First Republic requires residency or employment in a state within its service area -- California, Connecticut, Florida, Massachusetts, New York, Oregon, Washington and Wyoming.
+
+
+***
+![In dirt price, the specifications of the OPPO A53 and its price in Saudi Arabia](https://new.masrmix.com/wp-content/uploads/2023/02/OPPO-A53.jpg "In dirt price, the specifications of the OPPO A53 and its price in Saudi Arabia")
+
+
+[In dirt price, the specifications of the OPPO A53 and its price in Saudi Arabia](https://www.world-today-news.com/in-dirt-price-the-specifications-of-the-oppo-a53-and-its-price-in-saudi-arabia/)
+
+
+> OPPO announced the latest cAnd it was launched in the market, which is the OPPO A53 mobile phone, where the mobile comes with many wonderful features and available capabilities, as it comes with an excellent camera, a giant battery, and a powerful processor that offers very good performance in games, and the phone screen comes with a high refresh rate of up to 90 GHz. All these features are at a very cheap price, so come on Let's learn about the specifications of the Oppo A53 and the price in Saudi Arabia and some other Arab countries.
+
+
+***
+![MacOS Ventura 13.2.1 Update with Bug Fixes & Security Patches Available](https://cdn.osxdaily.com/wp-content/uploads/2022/11/macos-ventura-update.jpg "MacOS Ventura 13.2.1 Update with Bug Fixes & Security Patches Available")
+
+
+[MacOS Ventura 13.2.1 Update with Bug Fixes & Security Patches Available](https://osxdaily.com/2023/02/13/macos-ventura-13-2-1-update-with-bug-fixes-security-patches-available/)
+
+
+> Apple has released macOS Ventura 13.2.1 as a software update for Mac users running the Ventura operating system. The update is said to include bug fixes and security updates, and is therefore recommended to install for all eligible Mac users. Separately, Apple released iOS 16.3.1 for iPhone, iPadOS 16.3.1 for iPad , along with updates to HomePod, Apple TV, and WatchOS. Mac users running MacOS Monterey or Big Sur will find an update to Safari available instead. How to Download MacOS Ventura 13.
+
+
+***
+![Could an app let you know if a first date is just not that into you?](https://scx2.b-cdn.net/gfx/news/hires/2023/smash-or-pass-this-com.jpg "Could an app let you know if a first date is just not that into you?")
+
+
+[Could an app let you know if a first date is just not that into you?](https://techxplore.com/news/2023-02-app-date.html)
+
+
+> University of Cincinnati engineering students demonstrate how they taught a computer to distinguish types of conversations based only on physiological cues. Credit: Andrew Higley Could an app tell if a first date is just not that into you? Engineers at the University of Cincinnati say the technology might not be far off. They trained a computer—using data from wearable technology that measures respiration, heart rates and perspiration—to identify the type of conversation two people were having based on their physiological responses alone.
+
+
+***
+![Cloud growth fuels strong quarterly results at Teradata](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/teradata.png "Cloud growth fuels strong quarterly results at Teradata")
+
+
+[Cloud growth fuels strong quarterly results at Teradata](https://siliconangle.com/2023/02/13/teradata-posts-strong-quarterly-results-fueled-cloud-growth/)
+
+
+> Shares of Teradata Corp. jumped more than 15% today after the company reported better-than-expected financial results for the fourth quarter. San Diego-based Teradata is a major provider of data management software. Its flagship offering is Vantage, an analytics platform that companies can use to scan their business data for useful insights. Vantage supports a wide variety of use cases ranging from creating financial forecasts to finding supply chain optimization opportunities.  Vantage can run both on-premises and in the cloud.
+
+
+***
+![AI Is Speeding Us Toward Intelligent Computers and the Singularity, Pioneer Says](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17rlrd.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=509&y=132 "AI Is Speeding Us Toward Intelligent Computers and the Singularity, Pioneer Says")
+
+
+[AI Is Speeding Us Toward Intelligent Computers and the Singularity, Pioneer Says](http://www.msn.com/en-us/news/technology/ai-is-speeding-us-toward-intelligent-computers-and-the-singularity-pioneer-says/ar-AA17rAae)
+
+
+> ChatGPT and other AI systems are propelling us faster toward the long-term technology dream of artificial general intelligence and the radical transformation called the "singularity," Silicon Valley chip luminary and former Stanford University professor John Hennessy believes. Load Error "The AI revolution is upon us. It's stunning," Hennessy said Monday at the TechSurge conference. "It's awakened in everybody a sense that maybe the singularity, ... this turning point where computers really are more capable than humans, is closer than we thought.
+
+
+***
+[Elastic Names Mathew Donoghue Chief Marketing Officer](http://www.businesswire.com/news/home/20230213005523/en/Elastic-Names-Mathew-Donoghue-Chief-Marketing-Officer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Elastic (NYSE: ESTC), the company behind Elasticsearch, today announced the appointment of Mathew Donoghue as Chief Marketing Officer (CMO) effective February 13, 2023. Donoghue will drive scalable growth across the company's $88 billion total addressable market (TAM) by leveraging innovative solutions and a customer-first approach. As the leader of the global marketing team, Donoghue will focus on engaging customers, partners and the community to drive d
+
+
+***
+[FedEx to Speak at Citi's 2023 Global Industrial Tech and Mobility Conference on February 21](http://www.businesswire.com/news/home/20230213005578/en/FedEx-to-Speak-at-Citi%E2%80%99s-2023-Global-Industrial-Tech-and-Mobility-Conference-on-February-21/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MEMPHIS, Tenn.--(BUSINESS WIRE)--FedEx Corp. announced today that Raj Subramaniam, FedEx Corp. president and chief executive officer, and Michael C. Lenz, FedEx Corp. executive vice president and chief financial officer, will speak at Citi's 2023 Global Industrial Tech and Mobility Conference in Miami, Florida on Tuesday, February 21, 2023 at 12:10 pm ET. To listen to the live webcast, please visit FedEx's Investor Relations website at investors.fedex.com. An archived replay will be made availa
+
+
+***
+[Empire Access Builds the Fastest Fiber Optic Services in Vestal, NY](http://www.businesswire.com/news/home/20230213005626/en/Empire-Access-Builds-the-Fastest-Fiber-Optic-Services-in-Vestal-NY/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> VESTAL, N.Y.--(BUSINESS WIRE)-- #EmpireAccess--Empire Access will be offering their fiber optic internet, TV, phone, and security solutions in Vestal, NY, starting in the spring of 2023.
+
+
+***
+![I tried JBL's 15-channel soundbar and it's Dolby Atmos done right](https://cdn.mos.cms.futurecdn.net/7TSyN7zczR3pnxaYELPZq3-1200-80.jpg "I tried JBL's 15-channel soundbar and it's Dolby Atmos done right")
+
+
+[I tried JBL's 15-channel soundbar and it's Dolby Atmos done right](https://www.techradar.com/opinion/i-tried-jbls-15-channel-soundbar-and-its-dolby-atmos-done-right)
+
+
+> There are soundbars and then there are soundbars . By that, I mean some models make a modest attempt to improve on a TV's built-in speakers, boosting dialogue clarity and causing sound effects like explosions to sound more realistic. And then there are others that strive to fully replace a separate surround sound speaker system connected to one of the best AV receivers – the JBL Bar 1300X, for example. Like all the best Dolby Atmos soundbars , JBL's Bar 1300X ($1,699 /  £1,400 / AU$2,440) features up-firing drivers that bounce overhead effects in movie soundtracks off your room's ceiling for a more three-dimensional presentation.
+
+
+***
+![Why restoring long-distance passenger rail makes sense in New Zealand—for people and the climate](https://scx2.b-cdn.net/gfx/news/2023/why-restoring-long-dis.jpg "Why restoring long-distance passenger rail makes sense in New Zealand—for people and the climate")
+
+
+[Why restoring long-distance passenger rail makes sense in New Zealand—for people and the climate](https://techxplore.com/news/2023-02-long-distance-passenger-rail-zealandfor-people.html)
+
+
+> Credit: Our World in Data, CC BY-SA A recent parliamentary inquiry into passenger rail drew 1700 submissions, suggesting growing support for the return of long-distance trains in Aotearoa. The government has committed the country to decarbonization targets that require significant cuts to transport-related emissions. But decarbonizing long-distance travel is not part of the plan—the national rail operator KiwiRail remains focused on freight. We argue the revival of long-distance passenger rail needs to be part Aotearoa's strategy to bring emissions down.
+
+
+***
+![Smaller fleets lag behind in telematics adoption](https://img.ccjdigital.com/files/base/randallreilly/all/image/2023/02/Penske_telematics_technician.63ea88c00df8b.png?auto=format%2Ccompress&fit=max&q=70&w=1200 "Smaller fleets lag behind in telematics adoption")
+
+
+[Smaller fleets lag behind in telematics adoption](https://www.ccjdigital.com/technology/asset-tracking-management/article/15306767/smaller-fleets-lag-behind-in-telematics-adoption)
+
+
+> Having critical information through telematics can provide fleets with a more competitive edge and that's particularly true during market downturns. However, according to Penske Transportation Solutions, it's mostly smaller fleets that are staying on the sidelines instead of jumping into the growing and critical arena of real-time actionable data. Penske's 2022 Telematics Use and Trends report reveals that 54% of large fleets, 51% of medium fleets and 37% of small fleets use telematics . Large fleets continue to adopt telematics at a higher rate than small and medium fleets.
+
+
+***
+[Q2 Holdings, Inc. to Attend Upcoming Conferences During First Quarter 2023](http://www.businesswire.com/news/home/20230213005572/en/Q2-Holdings-Inc.-to-Attend-Upcoming-Conferences-During-First-Quarter-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> AUSTIN, Texas--(BUSINESS WIRE)--Q2 Holdings, Inc. (NYSE:QTWO), a leading provider of digital banking and lending solutions, will attend the following conferences during the first quarter of 2023. Raymond James Annual Institutional Investors Conference on Monday, Mar. 6, 2023 Truist Securities Technology, Internet and Services Conference on Tuesday, Mar. 7, 2023 Wolfe FinTech Forum on Wednesday, Mar. 15, 2023 Where applicable, a live webcast, as well as a replay, will be accessible from the Inve
+
+
+***
+![Report Reveals How US Has 'Not Advanced the Ball' on Top Cyber Risks](https://cdn.nextgov.com/media/img/cd/2023/02/13/021323cyberriskNG/open-graph.jpg "Report Reveals How US Has 'Not Advanced the Ball' on Top Cyber Risks")
+
+
+[Report Reveals How US Has 'Not Advanced the Ball' on Top Cyber Risks](https://www.nextgov.com/cybersecurity/2023/02/report-reveals-how-us-has-not-advanced-ball-top-cyber-risks/382906/)
+
+
+> Increasing geopolitical tensions, vulnerabilities in critical infrastructure and a patchwork of needed regulations are some of the factors contributing to a host of cybersecurity threats facing the public and private sectors in the new year, a panel of experts said during an event hosted by the Bipartisan Policy Center on Monday. The panel discussion was held to mark the release of a new report from the Washington-based think tank, which examined some of the top cybersecurity risks facing individuals, companies and government in 2023.
+
+
+***
+[Capstone Green Energy Announces Third Quarter Fiscal 2023 Financial Results](http://www.businesswire.com/news/home/20230213005624/en/Capstone-Green-Energy-Announces-Third-Quarter-Fiscal-2023-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LOS ANGELES--(BUSINESS WIRE)---- $CGRN #CleanPower--Capstone Green Energy Corporation (NASDAQ: CGRN), announced its financial results for the third quarter ended December 31, 2022, as the Company continues to execute on its Energy-as-a-Service (EaaS) business plan. 'Revenue for the third quarter was $1.0 million less compared to the same period last year; however our year-to-date revenue is up 9.5%, when compared to the first nine months of the prior year. This revenue growth is largely attribut
+
+
+***
+![Woman in parking lot goes on rampage, striking cars and trying to hit people](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/demo-derby.jpg?fit=1200%2C649&ssl=1 "Woman in parking lot goes on rampage, striking cars and trying to hit people")
+
+
+[Woman in parking lot goes on rampage, striking cars and trying to hit people](https://boingboing.net/2023/02/13/woman-in-parking-lot-goes-on-rampage-striking-cars-and-trying-to-hit-people.html)
+
+
+> We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. Look, we know that throwing your… READ THE REST
+
+
+***
+[Spire Global Schedules Fourth Quarter and Full Year 2022 Results Conference Call](http://www.businesswire.com/news/home/20230213005469/en/Spire-Global-Schedules-Fourth-Quarter-and-Full-Year-2022-Results-Conference-Call/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> VIENNA, Va.--(BUSINESS WIRE)--Spire Global, Inc. (NYSE: SPIR) ('Spire' or 'the Company'), a leading provider of space-based data, analytics and space services, announced today that it will hold a conference call with investors and analysts on Wednesday, March 8, 2023 at 5:00 p.m. ET to discuss the Company's fourth quarter and full year 2022 financial results. The news release announcing the fourth quarter and full year 2022 results will be disseminated on March 8, 2023 after the market closes.
+
+
+***
+[Radian Appoints Fawad Ahmad to Board of Directors](http://www.businesswire.com/news/home/20230213005621/en/Radian-Appoints-Fawad-Ahmad-to-Board-of-Directors/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WAYNE, Pa.--(BUSINESS WIRE)--Radian Group Inc. (NYSE: RDN) today announced that Fawad Ahmad has been appointed to serve on its Board of Directors. Ahmad is a highly respected technology leader and insurance executive who has led transformational digital initiatives at several industry-leading companies delivering digital, data and analytics innovation across the high-tech, e-commerce, retail, and insurance industries. 'It is our pleasure to welcome Fawad to the Radian Board of Directors,' said
+
+
+***
+[Q2 Holdings, Inc. Announces Investor Conference Call to Review Fourth Quarter and Full-Year 2022 Financial Results](http://www.businesswire.com/news/home/20230213005571/en/Q2-Holdings-Inc.-Announces-Investor-Conference-Call-to-Review-Fourth-Quarter-and-Full-Year-2022-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> AUSTIN, Texas--(BUSINESS WIRE)--Q2 Holdings, Inc. (NYSE:QTWO), a leading provider of digital banking and lending solutions, will release its financial results for the fourth quarter and full-year 2022 after market close on Tuesday, February 21, 2023. Q2 will host a corresponding conference call at 5:00 p.m. EST on Tuesday, February 21, 2023. Conference Call Details Date:   Tuesday, February 21, 2023 Time:   5:00 p.m. EST Hosts:   Matt Flake, CEO / David Mehok, CFO / Jonathan Price, EVP Emerging
+
+
+***
+![First steps toward more climate-friendly streaming](https://scx2.b-cdn.net/gfx/news/hires/2023/netflix.jpg "First steps toward more climate-friendly streaming")
+
+
+[First steps toward more climate-friendly streaming](https://techxplore.com/news/2023-02-climate-friendly-streaming.html)
+
+
+> Credit: Pixabay/CC0 Public Domain In recent years, video streaming has increased significantly. While every German spent an average of 42 minutes a day watching online videos on YouTube, Netflix, or other platforms in 2019, a year later it was already 55 minutes—in the group of 14- to 29-year-olds even 130 minutes. This is bad news for the climate, since streaming requires enormous computer capacity and thus energy, which rarely comes from renewable sources. According to a 2019 study, video streaming activity accounted for about 60 percent of global data traffic in 2018, emitting 306 million tons of CO 2 , which was comparable to Spain's annual emissions.
+
+
+***
+![Metroid game developers call out Switch remaster's failure to credit](https://images.axios.com/KLgWUR0O99oTBHL-Qjt8bvJ8sQw=/0x0:1920x1080/1366x768/2023/02/13/1676322607243.jpg "Metroid game developers call out Switch remaster's failure to credit")
+
+
+[Metroid game developers call out Switch remaster's failure to credit](https://www.axios.com/2023/02/13/metroid-prime-remastered-credits-switch)
+
+
+> Developers who worked on the acclaimed 2002 Nintendo GameCube game Metroid Prime are publicly voicing frustration that a recently released Switch remake called Metroid Prime Remastered fails to name the game's original creators in its credits. Driving the news: Zoid Kirsch, a senior engineer on the original who did not work on the remake tweeted on Saturday that he was ' let down ' by the lack of full original credits in the new Switch version. The original's technical lead engineer, Jack Mathews, publicly called it a " travesty.
+
+
+***
+![core-js maintainer: 'So, what's next?'](https://external-preview.redd.it/c9J78-GJ3dtddDXJTi8GTyQDWaaNEydB55HzWFEt8Z8.jpg?auto=webp&v=enabled&s=da88554aab4df83097ff804c7e76ad38723ac889 "core-js maintainer: 'So, what's next?'")
+
+
+[core-js maintainer: 'So, what's next?'](https://www.reddit.com/r/programming/comments/111k9aq/corejs_maintainer_so_whats_next)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Both the NZDUSD and the AUDUSD stall at the 200 hour MA today](https://images.forexlive.com/images/NZDUSD_id_5e04f169-afe3-4bf3-b0c2-0d809f9c8cf4_size900.jpg?v=1676331856231 "Both the NZDUSD and the AUDUSD stall at the 200 hour MA today")
+
+
+[Both the NZDUSD and the AUDUSD stall at the 200 hour MA today](https://www.forexlive.com/technical-analysis/both-the-nzdusd-and-the-audusd-stall-at-the-200-hour-ma-today-20230213/)
+
+
+> That MA will need to be broken NZDUSD tests the 200 hour MA and stalls The NZDUSD moved up today and in the process, the price moved up to test the 200 hour MA at 0.6362. The sellers leaned against the level and the price has modestly come off the MA level. In the new trading day, the swing are between 0.6345 and 0.6348 will be targeted on more selling. Move below that, and the 100 hour MA at 0.63275 will be eyed as the next downside target. Conversely, break above the 200 hour MA has trader looking toward the 38.
+
+
+***
+![Why this Deeplocal apprenticeship program is focused on applicants with no technical experience](https://technical.ly/wp-content/uploads/2023/02/KirkHolbrook_headshot.jpg "Why this Deeplocal apprenticeship program is focused on applicants with no technical experience")
+
+
+[Why this Deeplocal apprenticeship program is focused on applicants with no technical experience](https://technical.ly/diversity-equity-inclusion/deeplocal-apprenticeship-gizmology-pittsburgh/)
+
+
+> If you're a high school graduate still weighing career possibilities or an adult seeking a career change, take note: A new apprenticeship opportunity is coming to a tech company near you. Following six months of planning and extensive input from the community, this April, Sharpsburg-based Deeplocal will launch a one-year apprenticeship program called Gizmology . The program is focused on creating a path into the tech industry for Pittsburgh's Black and historically marginalized communities. From Rec2Tech to the Citizen Science Lab , a series of STEM education programs within Pittsburgh have sought to jump start the conversation with young people about the possibilities the tech field could hold for them.
+
+
+***
+[Ooma Schedules Release of Fourth Quarter &amp; Fiscal 2023 Results](http://www.businesswire.com/news/home/20230213005503/en/Ooma-Schedules-Release-of-Fourth-Quarter-Fiscal-2023-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SUNNYVALE, Calif.--(BUSINESS WIRE)--Ooma, Inc. (NYSE: OOMA), a smart communications platform for businesses and consumers, plans to release its financial results for the fourth quarter and fiscal year ended January 31, 2023 after the market closes on Thursday, March 2, 2023. The company will host a conference call and live webcast for analysts and investors at 5:00 p.m. Eastern time on March 2, 2023. The news release with the financial results will be accessible from the company's website prior
+
+
