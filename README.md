@@ -25337,3 +25337,839 @@
 > By Ayaz Gul February 13, 2023 Senior leaders of Afghanistan's ruling Islamist Taliban have recently resorted to rare public criticism of each other, reigniting internal rift speculations over whether girls should be allowed to receive an education. The war of words began last Saturday when the influential Taliban interior minister, Sirajuddin Haqqani, lashed out at his leadership for "monopolizing" power, though he did not name anyone. "Our views and thoughts have dominated us to such an extent that power monopolization and defamation of the entire [ruling] system have become common," Haqqani told a religious gathering in his native southeastern Khost region.
 
 
+***
+![BSNL to Launch 4G in 1 Lakh Sites with TCS, Gets Approval of Board](https://telecomtalk.info/wp-content/uploads/2023/02/bsnl-to-launch-4g-in-1-lakh.jpg "BSNL to Launch 4G in 1 Lakh Sites with TCS, Gets Approval of Board")
+
+
+[BSNL to Launch 4G in 1 Lakh Sites with TCS, Gets Approval of Board](https://telecomtalk.info/bsnl-to-launch-4g-in-1-lakh/676547/)
+
+
+> Bharat Sanchar Nigam Limited (BSNL) is going to launch 4G in one lakh sites across India with the help of Tata Consultancy Services (TCS). The state-run telco has got the approval of its board to go ahead with the TCS equipment in one lakh sites. TCS has been working with BSNL for a long time now, and both companies are together going to launch homegrown 4G networks, something that the private telcos didn't do. Bharat Sanchar Nigam Limited (BSNL) is going to launch 4G in one lakh sites across India with the help of Tata Consultancy Services (TCS).
+
+
+***
+![Airtel 5G Plus launched in Aizawl](https://telecomtalk.info/wp-content/uploads/2023/02/bharti-airtel-5g-plus-launched-aizawl-mizoram.jpg "Airtel 5G Plus launched in Aizawl")
+
+
+[Airtel 5G Plus launched in Aizawl](https://telecomtalk.info/bharti-airtel-5g-plus-launched-aizawl-mizoram/676545/)
+
+
+> Bharti Airtel is the first telco to enable 5G services in the Northeastern region of India. Bharti Airtel plans to expand Airtel 5G Plus services to 300 cities by March 2023. With this launch in Aizawl, Airtel 5G plus services are live in 92 Cities in India. Bharti Airtel has launched its 5G Plus services in Aizawl. Honourable Chief Minister of Mizoram, Zoramthanga, launched Airtel 5G Plus in Aizawl. In addition, Robert Romawia Royte, Minister of State in the Ministry of Information and Communication Technology, is the Guest of Honour for the Airtel 5G Plus launch event today.
+
+
+***
+![Ethiopia Increases the Stake It Plans to Sell in Ethio Telecom to 45%](https://telecomtalk.info/wp-content/uploads/2023/02/ethiopia-increases-stake-sale-ethio-telecom-45percent.jpg "Ethiopia Increases the Stake It Plans to Sell in Ethio Telecom to 45%")
+
+
+[Ethiopia Increases the Stake It Plans to Sell in Ethio Telecom to 45%](https://telecomtalk.info/ethiopia-increases-stake-sale-ethio-telecom-45percent/676478/)
+
+
+> The Ethiopian Government has increased the stake from 40% to 45% that it plans to sell in Ethio Telecom. In a request for proposals, the Ministry of Finance stated that it would sell up to 45% of the equity share capital of the Company as part of its Partial Privatization of Ethio Telecom. Request for Proposal Deadline However, the Government has given interested parties until February 23 - Thursday of next week - to submit proposals, and prospective investors can get information from the Ministry by paying a non-refundable fee of USD 20,000 (RFP fees).
+
+
+***
+![A fireside Chat(GPT)](https://www.irmagazine.com/sites/default/files/field/image/T1.jpg "A fireside Chat(GPT)")
+
+
+[A fireside Chat(GPT)](https://www.irmagazine.com/tech-social-media/fireside-chatgpt)
+
+
+> In my role, I have the good fortune of interacting with and interviewing many great IR professionals worldwide. So when the OpenAI chatbot sensation known as ChatGPT exploded onto the scene at the start of this year, I thought it would be fun to see whether it could hold up to the scrutiny of a good old-fashioned interview. I did notice the limitations of this technology - it repeated one answer three times and failed to give me the concise one-paragraph answer I specifically asked for. Nevertheless, here is the full conversation resulting from my first ever interview with a robot.
+
+
+***
+[SymphonyAI Retail CPG Product Expert Wins 2023 Food Logistics' Rock Star Award in Supply Chain Advancement](http://www.businesswire.com/news/home/20230214005668/en/SymphonyAI-Retail-CPG-Product-Expert-Wins-2023-Food-Logistics%E2%80%99-Rock-Star-Award-in-Supply-Chain-Advancement/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DALLAS--(BUSINESS WIRE)--Florian Loinard, SymphonyAI Retail CPG, has been recognized as a winner of the 2023 Rock Stars of the Supply Chain award from Food Logistics.
+
+
+***
+![Deloitte unveils ‘first-of-its-kind' smart factory and warehouse in Canada](https://roboticsandautomationnews.com/wp-content/uploads/2021/12/manufacturing-automation-right-2.jpeg "Deloitte unveils ‘first-of-its-kind' smart factory and warehouse in Canada")
+
+
+[Deloitte unveils ‘first-of-its-kind' smart factory and warehouse in Canada](https://roboticsandautomationnews.com/2023/02/14/deloitte-unveils-first-of-its-kind-smart-factory-and-warehouse-in-canada/60290/)
+
+
+> Deloitte Canada has opened what it says is a first-of-its-kind facility showcasing an interconnected ecosystem of more than 20 cutting-edge solutions and technologies and intent on transforming manufacturing and warehousing through digital transformation. The facility has been named The Smart Factory @ Montreal. Anthony Viel, CEO of Deloitte Canada, says: 'As Canada's largest professional services firm, we care about the future of the country. 'We believe that projects like this will fundamentally transform our economy – and society – and set Canada on a better path.
+
+
+***
+![How one Brazilian startup's pivot to corporate cards has paid off](https://techcrunch.com/wp-content/uploads/2023/02/E73A3452-1.jpg?resize=1052,1200 "How one Brazilian startup's pivot to corporate cards has paid off")
+
+
+[How one Brazilian startup's pivot to corporate cards has paid off](https://techcrunch.com/2023/02/14/how-one-brazilian-startups-pivot-to-corporate-cards-has-paid-off/)
+
+
+> Portão 3 was founded as a corporate travel startup in 2020 and had released its product just as COVID hit Latin America and 'all airports closed,' recalls co-founder Bianca Pereira . Although the timing was 'terrible,' she said, the company didn't give up. Pereira and fellow founder Fernando Nery concluded that the software that Portão had built could still be used to help enterprise businesses with corporate spend generally. 'We also realized that corporate cards are a great tool,' Pereira, a serial entrepreneur and former Cargill employee, told TechCrunch.
+
+
+***
+![Warehouse robot maker Seegrid partners with Koops Automation Systems](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/Koops-Automation-Systems.jpg "Warehouse robot maker Seegrid partners with Koops Automation Systems")
+
+
+[Warehouse robot maker Seegrid partners with Koops Automation Systems](https://roboticsandautomationnews.com/2023/02/14/warehouse-robot-maker-seegrid-partners-with-koops-automation-systems/60286/)
+
+
+> Seegrid , a builder of autonomous mobile robots for material handling, has agreed a strategic partnership with Koops Automation Systems , a leading systems integrator specializing in industrial automation for manufacturing environments. The collaboration agreement enables Koops to bolster their portfolio by introducing their customers to the full suite of Seegrid Palion autonomous mobile robots and Fleet Central enterprise software solutions. Mike Slager, director of business development for Koops Automation, says: 'We are excited to be able to solve yet another set of problems our customers experience.
+
+
+***
+![BuzzFeed launches Infinity Quizzes, creating personalized stories powered by OpenAI](https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-4805167311.jpg?resize=1200,812 "BuzzFeed launches Infinity Quizzes, creating personalized stories powered by OpenAI")
+
+
+[BuzzFeed launches Infinity Quizzes, creating personalized stories powered by OpenAI](https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/)
+
+
+> BuzzFeed — the media site that made its name (literally) spinning out viral content — landed in the middle of the buzz itself last month when news leaked out that it would partner with the AI startup of the moment, OpenAI, to build a new AI-powered quiz format, building on the media company's very popular quizzes that saw 1.1 billion views last year alone . Now, that new product is launching: Infinity Quizzes, as it is called, will give users a basic theme, ask a few keyword questions, and build a breezy, personalized narrative based on these.
+
+
+***
+![What Congress knows about UFOs](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17tyuF.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "What Congress knows about UFOs")
+
+
+[What Congress knows about UFOs](http://www.msn.com/en-us/news/technology/what-congress-knows-about-ufos/ar-AA17tGcP)
+
+
+> The mysterious downing of three unidentified flying objects over the weekend has renewed attention on an issue that Congress has become increasingly interested in over the last few years: the presence of UFOs, also known as unidentified aerial phenomena (UAPs). Load Error Since 2020, a growing chorus of both Democrats and Republicans have emphasized the need to study and track UAPs, which can include everything from drones to other unknown aerial items, as a potential national security threat. Those calls have only grown louder after the military shot down the latest objects, which were detected in US airspace after a Chinese surveillance balloon was identified in early February.
+
+
+***
+![Oracle, Microsoft expand Cloud ties to boost office productivity](https://chennaionline.com/wp-content/uploads/2019/09/favicon.png "Oracle, Microsoft expand Cloud ties to boost office productivity")
+
+
+[Oracle, Microsoft expand Cloud ties to boost office productivity](https://chennaionline.com/technology/oracle-microsoft-expand-cloud-ties-to-boost-office-productivity/)
+
+
+> In a bid to boost workplace productivity, Oracle and Microsoft have expanded Cloud partnership in which the integration of Oracle Digital Assistant with Microsoft Teams will give Microsoft 365 customers access to Oracle Cloud Applications through conversational Artificial Intelligence (AI). Enterprise customers can now access Oracle Cloud Applications through an AI-powered voice experience in Teams, the companies announced during 'OpenWorld' conference here on Tuesday. 'Using Oracle Digital Assistant, business users can simply and conversationally interact with business applications directly from their Microsoft Teams interface just as they would collaborate with their fellow employees or other productivity tools,' said Suhas Uliyar, Vice President, AI and Digital Assistant, Oracle.
+
+
+***
+[Deep Changes Drive IT Modernization in U.S. Healthcare](http://www.businesswire.com/news/home/20230214005646/en/Deep-Changes-Drive-IT-Modernization-in-U.S.-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> STAMFORD, Conn.--(BUSINESS WIRE)---- $III #DigitalHealthcareServices--U.S. healthcare providers and insurers are using digital transformation and IT services to adapt to dramatic changes in the industry, ISG says.
+
+
+***
+![Spanish, US Authorities Dismantle Cybercrime Ring That Defrauded Victims of $5.3 Million](https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg "Spanish, US Authorities Dismantle Cybercrime Ring That Defrauded Victims of $5.3 Million")
+
+
+[Spanish, US Authorities Dismantle Cybercrime Ring That Defrauded Victims of $5.3 Million](https://www.securityweek.com/spanish-us-authorities-dismantle-cybercrime-ring-that-defrauded-victims-of-5-3-million/)
+
+
+> Law enforcement in Spain and the US this week announced dismantling a cybercrime gang that defrauded victims of more than $5.3 million. Based in Madrid, the international criminal organization employed a sophisticated scam that involved phishing, social engineering, smishing, and vishing to trick victims into sharing details about their bank accounts to steal money from them. Authorities arrested eight individuals in Madrid and one in Miami, seized high-value objects – including watches valued at more than $200,000, jewelry, dozens of mobile phones, laptops, desktop computers, and tablets – and blocked 74 bank accounts, freezing over $500,000 in assets.
+
+
+***
+![Ford to cut one in nine jobs in Europe in electric revamp](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=920&format=jpeg "Ford to cut one in nine jobs in Europe in electric revamp")
+
+
+[Ford to cut one in nine jobs in Europe in electric revamp](https://www.devdiscourse.com/article/technology/2354820-ford-to-cut-one-in-nine-jobs-in-europe-in-electric-revamp)
+
+
+> Ford plans to cut one in nine jobs in Europe, axing 3,800 roles in product development and administration as part of a drive to lower costs in the region and concentrate engineering know-how in the United States, the automaker said on Tuesday The U.S. carmaker leads the European market for commercial vans, but has struggled to make strong profits from passenger cars, and warned this month it would be "very aggressive" in reducing manufacturing and supply chain expenses this year. CEO Jim Farley has repeatedly flagged that electric vehicle (EV) production would require less labour and significant cost cutting to remain competitive.
+
+
+***
+[AMTD IDEA Group's L'OFFICIEL Inc. SAS completed the recruitment of a full team of experienced professionals and local experts in Singapore and Malaysia, ready for a new and powerful launch in March 2023 under direct owner's model](http://www.businesswire.com/news/home/20230214005639/en/%C2%A0AMTD-IDEA-Group%E2%80%99s-L%E2%80%99OFFICIEL-Inc.-SAS-completed-the-recruitment-of-a-full-team-of-experienced-professionals-and-local-experts-in-Singapore-and-Malaysia-ready-for-a-new-and-powerful-launch-in-March-2023-under-direct-owner%E2%80%99s-model/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK & HONG KONG & SINGAPORE--(BUSINESS WIRE)--After over a decade with a presence in Singapore and Malaysia through franchise licensees, L'OFFICIEL Inc. SAS, a subsidiary of AMTD IDEA Group (NYSE: AMTD; SGX: HKB), is relaunching the Singapore and Malaysia editions under the direct owner's model, with a wholistic global approach and more local contents and highlights emphasised. Following the acquisition of L'OFFICIEL by AMTD IDEA Group in April 2022, AMTD has since announced its ambitions
+
+
+***
+![Top Amazon Prime Original Shows to Put On Your Watch List](https://telecomtalk.info/wp-content/uploads/2023/02/top-amazon-prime-original-shows-watch-list.jpg "Top Amazon Prime Original Shows to Put On Your Watch List")
+
+
+[Top Amazon Prime Original Shows to Put On Your Watch List](https://telecomtalk.info/top-amazon-prime-original-shows-watch-list/676460/)
+
+
+> Prime Video is a popular streaming service that offers a vast selection of movies, TV shows, and original content. Amazon Prime Video offers a large selection of shows in a variety of languages and genres. Amazon Originals, created exclusively for the Amazon OTT platform, were well-known for their compelling stories. We've put together a list of the top Amazon Prime Originals, ranging from comedies to action thrillers, that you might consider binge-watching for fun. Also Read:  The top six Amazon Prime Originals, in our opinion, are listed below.
+
+
+***
+![French logistics robotics specialist Scallog accelerates expansion in Germany](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/scallog-system-boby.png "French logistics robotics specialist Scallog accelerates expansion in Germany")
+
+
+[French logistics robotics specialist Scallog accelerates expansion in Germany](https://roboticsandautomationnews.com/2023/02/14/french-logistics-robotics-specialist-scallog-accelerates-expansion-in-germany/60283/)
+
+
+> French logistics robotics specialist Scallog says it is accelerating its development and expansion in Germany with a view to becoming one of the leading companies in the sector. Scallog has signed an agreement with Xproma, a recognized expert in robotics and intralogistics at the service of optimization and logistics performance. Scallog says the deal will help establish its presence in Germany, which represents a quarter of the European logistics market. In the region with the highest number of warehouses in Europe, Scallog says it aims to become 'the reference player in robots and mobile shelves for the automation of order picking'.
+
+
+***
+[National Multifamily Housing Council and Partner Real Estate Associations Join Together for the First Time to Expand Supplier Diversity Opportunities](http://www.businesswire.com/news/home/20230214005659/en/National-Multifamily-Housing-Council-and-Partner-Real-Estate-Associations-Join-Together-for-the-First-Time-to-Expand-Supplier-Diversity-Opportunities/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WASHINGTON--(BUSINESS WIRE)--Today, the National Multifamily Housing Council (NMHC) joined an industry-wide group of seven real estate trade associations to announce a first-of-its-kind alliance to foster supplier diversity in the real estate industry. The Commercial Real Estate Diverse Supplier (CREDS) Consortium aims to expand economic opportunity for minority and women-owned business enterprises (MWBEs) and further diversify industry supply chains. In addition to NMHC, CREDS Consortium assoc
+
+
+***
+[FYR Medical Receives Series A Funding to Complete Development of the Industry's First Light Field Extended Reality Loupes—a Revolutionary Product Advancement for the Operating Room](http://www.businesswire.com/news/home/20230214005032/en/FYR-Medical-Receives-Series-A-Funding-to-Complete-Development-of-the-Industry%E2%80%99s-First-Light-Field-Extended-Reality-Loupes%E2%80%94a-Revolutionary-Product-Advancement-for-the-Operating-Room/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> FORT WORTH, Texas--(BUSINESS WIRE)--FYR Medical, FYR Medical, Inc today announced it has raised a $2.6 million Series A funding round. The round is led by NuVasive, Inc., the leader in spine technology innovation, focused on transforming spine surgery with minimally disruptive, procedurally integrated solutions, and joined by other firms and individual investors. The funding will be used to develop the world's first extended reality (XR) digital loupes that deploy light field technology designe
+
+
+***
+![A Less Biased Way to Determine Trademark Infringement](https://img.manufacturing.net/files/base/indm/multi/image/2023/02/iStock_1435456424.63eba5ee89758.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C66%2C1920%2C1080&w=1200 "A Less Biased Way to Determine Trademark Infringement")
+
+
+[A Less Biased Way to Determine Trademark Infringement](https://www.ien.com/product-development/news/22710967/a-less-biased-way-to-determine-trademark-infringement)
+
+
+> Does the toothpaste Colddate infringe upon the trademark of Colgate? Some might think this is a no-brainer. But in a 2007 lawsuit between the two brands, Colgate-Palmolive lost on the grounds that the two brands were "similar" but not "substantially indistinguishable." Determining trademark infringement can often be challenging and fraught with controversy. The reason is that, at its core, a verdict for infringement requires proof that the two brands are confusingly similar. And yet the existing approach primarily relies on self-report, which is known to be vulnerable to biases and manipulation.
+
+
+***
+![Nordic Fintech Lunar Secures €35M to Expand Business, Reach Profitability](https://www.crowdfundinsider.com/wp-content/uploads/2022/05/50-Euro-Europe-Money.jpeg "Nordic Fintech Lunar Secures €35M to Expand Business, Reach Profitability")
+
+
+[Nordic Fintech Lunar Secures €35M to Expand Business, Reach Profitability](https://www.crowdfundinsider.com/2023/02/202465-nordic-fintech-lunar-secures-e35m-to-expand-business-reach-profitability)
+
+
+> The Nordic fintech company Lunar, which is a modern alternative to traditional banks, raises 35 million EUR 'to invest in and develop the business and reach profitability even faster.' Founder and CEO of Lunar Group, Ken Villum Klausen, says: 'The capital markets that we and other similar companies raise money in have changed completely, with earnings now becoming the key focus. Last year we improved our product, attracted more customers, and increased our revenue streams significantly. We will continue to do so in 2023 and the years to come because the market needs a serious challenger in the industry.
+
+
+***
+![Cheap Chinese cellphones are competing to imitate the iPhone 14 Pro](https://awsimages.detik.net.id/visual/2022/09/08/iphone-14-pro-dan-iphone-14-pro-max-12_169.jpeg?w=650?w=650 "Cheap Chinese cellphones are competing to imitate the iPhone 14 Pro")
+
+
+[Cheap Chinese cellphones are competing to imitate the iPhone 14 Pro](https://www.world-today-news.com/cheap-chinese-cellphones-are-competing-to-imitate-the-iphone-14-pro/)
+
+
+> Editor CNBC Indonesia Tech Tuesday, 14/02/2023 17:55 WIB Jakarta, CNBC Indonesia – The ‘Dynamic Island' feature which is present in the iPhone 14 Pro and Pro Max series is one of the most effective innovations in 2022. This is because this feature makes the notch for the front camera so that it has more functions, namely for multitasking (media controls, notifications, etc.). It seems that Apple's innovation will be imitated by Chinese HP manufacturers. Xiaomi and Huawei are two manufacturers that are strongly suspected of embedding this feature in the latest HP series.
+
+
+***
+[Intelligent High-Side Switch from Diodes Incorporated Enables Assured Automotive System Reliability](http://www.businesswire.com/news/home/20230214005161/en/Intelligent-High-Side-Switch-from-Diodes-Incorporated-Enables-Assured-Automotive-System-Reliability/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PLANO, Texas--(BUSINESS WIRE)--Diodes Incorporated (Diodes) (Nasdaq: DIOD) has introduced the DIODES™ ZXMS81045SPQ, its first protected, automotive-compliant, high-side IntelliFET™. This device is capable of delivering high power from a small footprint, while also providing protection and diagnostic capabilities. It is suitable for driving 12V automotive loads, such as LEDs, bulbs, actuators, and motors in automotive body control and lighting systems. The ZXMS81045SPQ features a 41V-rated N-cha
+
+
+***
+![CFD Could Be the Engine That Drives Waferscale Mainstream](http://www.nextplatform.com/wp-content/uploads/2020/03/ab_gears-scaled.jpg "CFD Could Be the Engine That Drives Waferscale Mainstream")
+
+
+[CFD Could Be the Engine That Drives Waferscale Mainstream](https://www.nextplatform.com/2023/02/14/cfd-could-be-the-engine-that-drives-waferscale-mainstream/)
+
+
+> A decade ago, waferscale architectures were dismissed as impractical. Five years ago, they were touted as a fringe possibility for AI/ML. But the next decade might demonstrate waferscale as one of only a few bridges across the post-Moore's Law divide, at least for some applications. Luckily for the only maker of such a system, Cerebras, those areas are among the most high-value workloads in large industry. The range of use cases for computational fluid dynamics (CFD) applications spans across a wide swath of industries, from automotive, aerospace, and energy to broader manufacturing and product design.
+
+
+***
+![California Launching First Zero-Emission, Electric Short-Run Ferry](https://img.manufacturing.net/files/base/indm/multi/image/2023/02/angle.63eba4b04b9ab.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C52%2C1000%2C562&w=1200 "California Launching First Zero-Emission, Electric Short-Run Ferry")
+
+
+[California Launching First Zero-Emission, Electric Short-Run Ferry](https://www.designdevelopmenttoday.com/news/news/22710965/california-launching-first-zeroemission-electric-shortrun-ferry)
+
+
+> Pacific Gas and Electric Company PG&E is partnering with the Angel Island-Tiburon Ferry Company (Angel Island Ferry) to support the electrification of The Angel Island vessel, which plans to operate as California's first zero-emission, electric propulsion short-route ferry beginning in 2024. The electrification project represents an important milestone for PG&E's Electric Vehicle (EV) Fleet Program, expanding the program's support of transportation electrification to include the marine sector. PG&E's EV Fleet Program helps medium- and heavy-duty fleet customers easily and cost-effectively install charging infrastructure via comprehensive construction support and financial incentives.
+
+
+***
+![Estonian robotics startup Cleveron wins patent case against Chinese company](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/cleveron-china-case-a.png "Estonian robotics startup Cleveron wins patent case against Chinese company")
+
+
+[Estonian robotics startup Cleveron wins patent case against Chinese company](https://roboticsandautomationnews.com/2023/02/14/estonian-robotics-startup-cleveron-wins-patent-case-against-chinese-company/60278/)
+
+
+> Cleveron , an Estonian developer of parcel terminals and robots, has won a case against the China National Intellectual Property Administration (CNIPA) in the Beijing Intellectual Property Court and invalidated a Chinese company's patent. In 2017, Cleveron discovered that a Chinese company had registered under its name an invention previously already invented by Cleveron. In 2018, Cleveron filed an application for invalidation of the patent with the China National Intellectual Property Administration (CNIPA).
+
+
+***
+[Elevate Security and Cyentia Institute Release Third Annual Research Study on User Risk](http://www.businesswire.com/news/home/20230214005653/en/Elevate-Security-and-Cyentia-Institute-Release-Third-Annual-Research-Study-on-User-Risk/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)-- #cio--Elevate Security today announced the release of its 3rd User Risk research study. Produced in partnership with the Cyentia Institute, and entitled, High Risk Users and Where to Find Them, the study analyzes eight years' of Elevate User Risk data ranging from 2014 to 2022. Elevate will host a webinar with thought leaders from Cyentia and Booz Allen Hamilton to dissect the findings, and to offer innovative approaches to addressing User Risk on Wednesday, Feb.
+
+
+***
+![Sony develops first TWS headphones for PS5 – Hardware on DTF](https://dtf.ru/cover/fb/c/1631952/1676383544/cover.jpg "Sony develops first TWS headphones for PS5 – Hardware on DTF")
+
+
+[Sony develops first TWS headphones for PS5 – Hardware on DTF](https://www.world-today-news.com/sony-develops-first-tws-headphones-for-ps5-hardware-on-dtf/)
+
+
+> About Sony planning to release TWS wireless headphones and another gaming headset for PS5, reported Tom Henderson sources. Both devices should be released at the end of fiscal year 2023, that is, between April 2023 and March 2024. Henderson recalled that earlier, his sources reported on Sony's plans to release a PlayStation 5 with a removable drive. The blogger believes that the release of the console and accessories can take place simultaneously as part of a kind of 'restart' of the line.
+
+
+***
+![Jio Brings 5G to 17 More Cities of India](https://telecomtalk.info/wp-content/uploads/2023/02/jio-brings-5g-to-17-more-cities.jpg "Jio Brings 5G to 17 More Cities of India")
+
+
+[Jio Brings 5G to 17 More Cities of India](https://telecomtalk.info/jio-brings-5g-to-17-more-cities/676473/)
+
+
+> Reliance Jio has just announced that it has launched 5G in 17 more cities in India. The announcement from the company said that it has so far covered 257 cities with its 5G. Jio brought 5G to 17 cities today that span across seven different states. Reliance Jio has just announced that it has launched 5G in 17 more cities in India. The announcement from the company said that it has so far covered 257 cities with its 5G. Today's launch also focused on several cities in Himachal Pradesh.
+
+
+***
+![How to avoid the malicious phone SIM swap scam](https://static.foxnews.com/foxnews.com/content/uploads/2023/02/1-SIM-CARD.jpg "How to avoid the malicious phone SIM swap scam")
+
+
+[How to avoid the malicious phone SIM swap scam](https://www.foxnews.com/tech/how-avoid-malicious-phone-sim-swap-scam)
+
+
+> There are all kinds of scams out there that we need to protect ourselves from, and one that is especially on the rise right now is known as SIM swapping. CLICK TO GET KURT'S CYBERGUY NEWSLETTER WITH QUICK TIPS, TECH REVIEWS, SECURITY ALERTS AND EASY HOW-TO'S TO MAKE YOU SMARTER This type of scam takes control of your phone number and makes everything from receiving calls and texts to accessing your banking information an absolute nightmare. What is a SIM card? A SIM card, or a subscriber identity module card, is a small card that contains a chip and is placed inside every smartphone.
+
+
+***
+![Geekbench 6 arrives with new tests, adapted for modern-day devices](https://fdn.gsmarena.com/imgroot/news/23/02/geekbench-6-ofic/-952x498w6/gsmarena_001.jpg "Geekbench 6 arrives with new tests, adapted for modern-day devices")
+
+
+[Geekbench 6 arrives with new tests, adapted for modern-day devices](https://www.gsmarena.com/geekbench_6_arrives_with_new_tests_adapted_for_modernday_devices-news-57543.php)
+
+
+> Primal Labs announced a new version of its popular benchmark today - Geekbench 6. The company says phones and computers are getting faster so previous methods of measuring improvements are quickly getting out of date. Changes include bigger photos, a larger library of images for importing tests, bigger and more modern PDF examples. The app is now heavier across all platforms since it comes with several new tests, including for background blur during video calls, photo filters in social media and object detection for AI workloads.
+
+
+***
+[ICSC and Partner Associations Form the Commercial Real Estate Diverse Supplier Consortium](http://www.businesswire.com/news/home/20230214005195/en/ICSC-and-Partner-Associations-Form-the-Commercial-Real-Estate-Diverse-Supplier-Consortium/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--Today, ICSC announced their participation in an industry-wide alliance to foster supplier diversity in the real estate industry. The Commercial Real Estate Diverse Supplier (CREDS) Consortium, made up of seven real estate trade associations, aims to meet growing interest from companies in real estate to further diversify their supply chains while also encouraging procurement of services from Minority and Women-owned Business Enterprises (MWBEs). As a founding member o
+
+
+***
+[SOFWERX Selects Rebellion Defense to Strengthen and Scale Cyber Readiness](http://www.businesswire.com/news/home/20230214005025/en/SOFWERX-Selects-Rebellion-Defense-to-Strengthen-and-Scale-Cyber-Readiness/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WASHINGTON--(BUSINESS WIRE)--Rebellion Defense, which builds mission-focused software products for the defense and national security of the United States and its allies, today announced that SOFWERX has awarded a contract to expand the use of Rebellion Nova software. The contract follows a successful technical exchange where Rebellion demonstrated Nova's unique ability to surface and contextualize cyber risk. SOFWERX, a public-private technology innovator, partners with non-traditional companie
+
+
+***
+[ObjectiveHealth Unveils ObjectiveView, a Technology Portal Giving Clinical Trial Sponsors Unprecedented Data Access](http://www.businesswire.com/news/home/20230214005289/en/ObjectiveHealth-Unveils-ObjectiveView-a-Technology-Portal-Giving-Clinical-Trial-Sponsors-Unprecedented-Data-Access/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NASHVILLE, Tenn.--(BUSINESS WIRE)--ObjectiveHealth announces the launch of ObjectiveView, a tech portal offering clinical trial sponsors unprecedented transparency into the process.
+
+
+***
+[Bobcat Company Advances Innovation in Agriculture through Partnership with Agtonomy](http://www.businesswire.com/news/home/20230214005326/en/Bobcat-Company-Advances-Innovation-in-Agriculture-through-Partnership-with-Agtonomy/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WEST FARGO, N.D.--(BUSINESS WIRE)--Bobcat Company, a global compact equipment, innovation and worksite solutions brand, has partnered with Agtonomy, to advance productivity in the agriculture industry through collaboration in the areas of electrification, autonomous operation and digital technology. Through this partnership, Bobcat and Agtonomy, a Silicon Valley agtech software company, will collaborate to create new and innovative ways of enhancing Bobcat equipment for increased productivity a
+
+
+***
+[Nucleus Research Releases 2023 Data Warehouse Technology Value Matrix](http://www.businesswire.com/news/home/20230214005540/en/Nucleus-Research-Releases-2023-Data-Warehouse-Technology-Value-Matrix/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MIAMI--(BUSINESS WIRE)-- #ROI--The economic uncertainty of the last year has called for organizations to reevaluate their data and analytics infrastructure in order to keep costs in check and limit complexity. 'In 2023, organizations continue to scale their data and analytics consumption, and the mass adoption of data-intensive use cases such as machine learning and real-time streaming outstrips the performance of legacy systems,' said Senior Analyst Alexander Wurm. 'The data warehouse market ha
+
+
+***
+[Care Choice Family Clinic, PLLC Selects eClinicalWorks to Kickstart its Practice](http://www.businesswire.com/news/home/20230214005181/en/Care-Choice-Family-Clinic-PLLC-Selects-eClinicalWorks-to-Kickstart-its-Practice/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WESTBOROUGH, Mass.--(BUSINESS WIRE)--eClinicalWorks®, the largest ambulatory cloud EHR, today announced that Care Choice Family Clinic, PLLC will use eClinicalWorks' suite of healthcare IT features to optimize and customize workflows and improve operational efficiency. This will allow the new family practice to begin comprehensive patient care quickly and scale as needed. 'I had experience with eClinicalWorks at my previous practice, so I knew it would help Care Choice create an easy-to-use bac
+
+
+***
+[Boxlight Announces Share Repurchase Program](http://www.businesswire.com/news/home/20230214005560/en/Boxlight-Announces-Share-Repurchase-Program/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DULUTH, Ga.--(BUSINESS WIRE)-- #boxlight--Boxlight Corporation (Nasdaq: BOXL), a leading provider of interactive technology solutions, today announced that its Board of Directors approved a share repurchase program with authorization to repurchase up to $15 million in shares of its Class A common stock. 'As our business matures, we expect growing operating cash flows that we will strategically deploy to drive long-term value to our shareholders, including the repurchase of our stock during times
+
+
+***
+![This Secret Netflix Menu Will Spice Up Your Valentine's Day](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA136WD5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "This Secret Netflix Menu Will Spice Up Your Valentine's Day")
+
+
+[This Secret Netflix Menu Will Spice Up Your Valentine's Day](http://www.msn.com/en-us/news/technology/this-secret-netflix-menu-will-spice-up-your-valentine-s-day/ar-AALVIaR)
+
+
+> Password-sharing fees may have you thinking about dropping your Netflix subscription, but before you do, make time to stream your favorite genres. Just remember that scrolling through the same list of Netflix's TV show and movie recommendations aren't the best ways to find something new to watch. They're also not great to find other niche genres you might be interested in. But there's a secret trick for filtering Netflix's library by genre to find exactly what you're browsing for: Netflix codes. Instead of passively accepting the algorithm's picks, learn how to use Netflix codes to find your own next binge-watch, including a loved-themed lineup for Valentine's Day.
+
+
+***
+[Ncontracts Experiences Strong Growth in 2022 as Demand for Integrated Risk Management and Compliance Solutions Increases](http://www.businesswire.com/news/home/20230214005636/en/Ncontracts-Experiences-Strong-Growth-in-2022-as-Demand-for-Integrated-Risk-Management-and-Compliance-Solutions-Increases/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BRENTWOOD, Tenn.--(BUSINESS WIRE)--Ncontracts, the leading provider of integrated compliance and risk management solutions to the financial industry, realized strong growth last year as demand for governance, risk, and compliance solutions (GRC) with a knowledge-as-a-service (KaaS) focus increased. Last year, Ncontracts added 218 new customers and grew its revenue by 30 percent, not only demonstrating growth but significant resilience and flexibility as the industry faces unprecedented challeng
+
+
+***
+[General Micro Systems (GMS) Launches SOSA-Aligned 3U OpenVPX X9 Venom Xeon D Host Processor Boards for U.S Military](http://www.businesswire.com/news/home/20230214005631/en/General-Micro-Systems-GMS-Launches-SOSA-Aligned-3U-OpenVPX-X9-Venom-Xeon-D-Host-Processor-Boards-for-U.S-Military/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN DIEGO--(BUSINESS WIRE)-- #AI--General Micro Systems (GMS), the world's leading technology-independent supplier of computing engines in boxes, boards and servers, today launched its X9 Venom Xeon D Host 3U VITA 65 OpenVPX single-board computer. Aligned to the SOSA™ (Sensor Open Standard Architecture) Technical Standard, this family of high-performance modules support the demanding needs of next-generation warfare with massive, flexible I/O and compute capabilities in multiple configurations.
+
+
+***
+[Origami Risk Expands Online Environmental and Chemical Safety and Compliance Tools for EHS Professionals](http://www.businesswire.com/news/home/20230214005403/en/%C2%A0Origami-Risk-Expands-Online-Environmental-and-Chemical-Safety-and-Compliance-Tools-for-EHS-Professionals/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CHICAGO--(BUSINESS WIRE)-- #CoreSolutions--Origami Risk has expanded its online environmental and chemical safety and compliance tools for EHS professionals.
+
+
+***
+[Stakeholder Labs Raises $4.2M Seed Round From Seven Seven Six to Help Companies Measure and Increase Retail Investor Engagement](http://www.businesswire.com/news/home/20230214005043/en/Stakeholder-Labs-Raises-4.2M-Seed-Round-From-Seven-Seven-Six-to-Help-Companies-Measure-and-Increase-Retail-Investor-Engagement/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LOS ANGELES--(BUSINESS WIRE)-- #1flourishcapital--Stakeholder Labs Raises $4.2M Seed Round From Seven Seven Six to Help Companies Measure and Increase Retail Investor Engagement
+
+
+***
+[KLDiscovery Releases Latest Version of ReadySuite™, Including an Integration with Nebula](http://www.businesswire.com/news/home/20230214005064/en/KLDiscovery-Releases-Latest-Version-of-ReadySuite%E2%84%A2-Including-an-Integration-with-Nebula/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> EDEN PRAIRIE, Minn.--(BUSINESS WIRE)-- #KLD--KLDiscovery Inc. ('KLDiscovery' or the 'Company'), a leading provider of global data management, information governance, eDiscovery, and advisory services solutions, announces a major software release of ReadySuite, a solution within the Company's Nebula Ecosystem that streamlines viewing, modifying, and validating load files for legal document production. Used by law firms, service providers, consultants, and corporations, ReadySuite is essential leg
+
+
+***
+[General Micro Systems (GMS) Announces 8-slot DominATR 3U OpenVPX Chassis Series to Support Next-Generation Workloads in U.S Military Computing](http://www.businesswire.com/news/home/20230214005630/en/General-Micro-Systems-GMS-Announces-8-slot-DominATR-3U-OpenVPX-Chassis-Series-to-Support-Next-Generation-Workloads-in-U.S-Military-Computing/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN DIEGO--(BUSINESS WIRE)-- #AI--General Micro Systems (GMS), the world's leading technology-independent supplier of computing engines in boxes, boards and servers, today launched its 8-slot DominATR™ 3U OpenVPX chassis to support U.S military and commercial applications. As part of the GMS X9 Venom product family, this chassis' revolutionary architecture and lightweight materials offer improved performance, reliability and operating ranges designed to address the growing compute and networking
+
+
+***
+![Online gaming](https://cdn.britannica.com/30/93230-004-35B0C3AA/Screen-World-of-Warcraft-game-multiplayer.jpg "Online gaming")
+
+
+[Online gaming](https://www.britannica.com/technology/online-gaming)
+
+
+> online gaming, electronic game playing over a computer network, particularly over the Internet. Electronic game worlds have generated billions of dollars, with millions of players around the world fighting, buying, crafting, and selling in a variety of online environments. One of the most populous was Activision Blizzard's World of Warcraft. The massively multiplayer online game (MMOG) drew millions of subscribers, who brought the company an estimated $1 billion per year in retail sales and subscription fees from 2007 to 2010.
+
+
+***
+[HR Industry Thought Leader Josh Bersin Joins IAMPHENOM Keynote Lineup](http://www.businesswire.com/news/home/20230214005608/en/HR-Industry-Thought-Leader-Josh-Bersin-Joins-IAMPHENOM-Keynote-Lineup/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PHILADELPHIA--(BUSINESS WIRE)-- #HRTech--HR Industry Thought Leader Josh Bersin Joins IAMPHENOM Keynote Lineup
+
+
+***
+[UJET Appoints Kristin King as Chief Customer Officer Amid Record Customer Acquisition and Growth](http://www.businesswire.com/news/home/20230214005629/en/UJET-Appoints-Kristin-King-as-Chief-Customer-Officer-Amid-Record-Customer-Acquisition-and-Growth/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)--UJET appoints Kristin King as chief customer officer amid record customer acquisition and growth.
+
+
+***
+![The Galaxy A34 will have a flag-like design. What about the specs?](https://www.svetandroida.cz/media/2023/02/samsung-galaxy-a34.jpg "The Galaxy A34 will have a flag-like design. What about the specs?")
+
+
+[The Galaxy A34 will have a flag-like design. What about the specs?](https://www.world-today-news.com/the-galaxy-a34-will-have-a-flag-like-design-what-about-the-specs/)
+
+
+> The Samsung Galaxy A34, together with the Galaxy A54, is one of the most anticipated mid-range phones, and now a lot of information has been leaked about the first-named, including the price. So what will the South Korean company try to attract in a segment currently dominated by Chinese phones with a great price/performance ratio? According to leaker Yogesh Brar, Samsung will offer the Galaxy A34 6.6-inch Super AMOLED display with Full HD+ resolution and 120Hz refresh rate. Compared to the current Galaxy A33, the display will therefore not only be larger, but also smoother.
+
+
+***
+![Spa stays: fake sweepstakes on Facebook](https://www.mimikama.org/wp-content/uploads/2023/02/thermen-fb.jpg "Spa stays: fake sweepstakes on Facebook")
+
+
+[Spa stays: fake sweepstakes on Facebook](https://www.world-today-news.com/spa-stays-fake-sweepstakes-on-facebook/)
+
+
+> Fake sweepstakes on Facebook Be careful if you see a competition on Facebook in the name of Thermen Wien, Bad Schallerbach and/or Aquamagis Plettenberg. Our cooperation partner warns that several fake advertisements are currently being placed on the 'Leisure Heroes' page . The text of the post reads: Today we are giving away a Relax! Day vacation including massage at the Therme Wien/ Bad Schallerbach/ at the Aquamagis Plettenberg. Simply answer our questions and experience pure relaxation! 'This competition is not affiliated with Facebook and is in no way sponsored, endorsed or administered by Facebook.
+
+
+***
+![Mysterious brain activity in mice watching a movie could help tackle Alzheimer's, improve AI](https://www.uclahealth.org/sites/default/files/images/03/mehta-mice.png?f=1756f523 "Mysterious brain activity in mice watching a movie could help tackle Alzheimer's, improve AI")
+
+
+[Mysterious brain activity in mice watching a movie could help tackle Alzheimer's, improve AI](https://www.uclahealth.org/news/mysterious-brain-activity-mice-watching-movie-could-help)
+
+
+> Even the legendary filmmaker Orson Welles couldn't have imagined such a plot twist. By showing Welles's movie 'Touch of Evil' to mice, Chinmay Purandare, PhD, and Prof. Mayank Mehta of UCLA have uncovered surprising and important new insights about how neurons form memories. The discovery points to new ways to diagnose Alzheimer's and other learning and memory impairments, while also improving artificial intelligence. Mice were shown a short clip from the 1958 film noir classic 'Touch of Evil' as scientists monitored their brain activity.
+
+
+***
+![5 (anti)romantic series for Valentine's Day](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/02/13/16762824238408.jpg "5 (anti)romantic series for Valentine's Day")
+
+
+[5 (anti)romantic series for Valentine's Day](https://www.tellerreport.com/tech/2023-02-14-5-(anti)romantic-series-for-valentine-s-day.SJ4fZyXF6s.html)
+
+
+> A selection of series to put aside the good vibes of Valentine's Day and enjoy stories that reveal the less positive side of love. THE SPLIT (Filmin) Valentine's Day The 55 best Valentine's phrases to congratulate Valentine's Day A selection of series to put aside the good vibes of Valentine's Day and enjoy stories that reveal the less positive side of love. THE SPLIT (Filmin) When love ends, things are not always easy. And if not, ask the stars of this British BBC series. In it, a mother and her two daughters combine their work as lawyers specializing in marital breakdown with a tumultuous private life.
+
+
+***
+![University of Galway gets EPA funding for 7 climate research projects](https://www.siliconrepublic.com/wp-content/uploads/2023/02/Quadrangle_Building_University_of_Galway.jpg "University of Galway gets EPA funding for 7 climate research projects")
+
+
+[University of Galway gets EPA funding for 7 climate research projects](https://www.siliconrepublic.com/innovation/university-galway-climate-research-epa-funding)
+
+
+> The University's projects cover various climate crisis issues such as greenhouse gas emissions, ozone levels, radon and Earth observation. The University of Galway has confirmed that 11 climate research projects it is involved in been funded by Ireland's Environmental Protection Agency (EPA). The University is directly leading seven of these projects and is partnered on a further four. The research projects cover various climate crisis issues, such as greenhouse gas emissions, ozone levels, radon, human biomonitoring and Earth observation.
+
+
+***
+![GAF Energy Review: The Best Option for a Solar Roof](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17tcM8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "GAF Energy Review: The Best Option for a Solar Roof")
+
+
+[GAF Energy Review: The Best Option for a Solar Roof](http://www.msn.com/en-us/news/technology/gaf-energy-review-the-best-option-for-a-solar-roof/ar-AA17thUu)
+
+
+> Since GAF Energy debuted its solar shingles at the start of 2021, roofers have installed them across 16 states. The company's expansion could mark a major change in how homeowners access solar energy on their roofs. Load Error There are 5 million new roofs put on homes each year, and 1.5 million of them use GAF shingles, says Rey Holmes, GAF Energy's vice president of services and product. Converting even some of those roofs to GAF Energy's solar shingles would mark a significant increase in residential rooftop solar in the US.
+
+
+***
+![Heatsink Version Kingston FURY Renegade SSD Review: Super Easy PS5 Storage Expansion Solution](https://img.4gamers.com.tw/news-image/61b34227-0759-412d-9d3c-ab68e52885d7.jpg "Heatsink Version Kingston FURY Renegade SSD Review: Super Easy PS5 Storage Expansion Solution")
+
+
+[Heatsink Version Kingston FURY Renegade SSD Review: Super Easy PS5 Storage Expansion Solution](https://www.world-today-news.com/heatsink-version-kingston-fury-renegade-ssd-review-super-easy-ps5-storage-expansion-solution-4gamers/)
+
+
+> Kingston launched the Kingston FURY Renegade PCIe 4.0 NVMe M.2 SSD specially designed for the PS5 console with an aluminum alloy heat sink, with a maximum capacity of 4TB. Let's see its performance. Same as the graphene heat sink version launched earlier, it adopts Phison Phison PS5018-E18 PCIe 4.0 x4 controller solution, with 3D TLC NAND Flash memory, and the capacity of more than 2TB can reach the maximum storage capacity efficacy. The 2TB model in this review is composed of 8 flash memory chips + 2 1GB DDR4 DRAM cache memory chips.
+
+
+***
+![Hiring Hub expands into Germany](https://www.prolificnorth.co.uk/sites/default/files/styles/hero/public/images/news/simonswan1.jpg?itok=km7JwiqG "Hiring Hub expands into Germany")
+
+
+[Hiring Hub expands into Germany](https://www.prolificnorth.co.uk/news/tech-news/2023/02/hiring-hub-expands-germany)
+
+
+> Hiring Hub, is expanding into Germany following its appointment by Henkel, a German multinational consumer goods company, to streamline and support all of its third-party recruitment activity. With headquarters in Dusseldorf, Henkel owns major household brands including Schwarzkopf, Persil and Loctite. It will use Hiring Hub's Portal product to consolidate all its third-party recruitment activity, allowing it to ensure compliance, track supplier performance, and route all payments through one vendor and platform.
+
+
+***
+![Buying a flat: how much do the cheapest and most expensive streets in Spain cost in 2023](https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2018/07/vivienda-madrid.jpg?tf=1200x "Buying a flat: how much do the cheapest and most expensive streets in Spain cost in 2023")
+
+
+[Buying a flat: how much do the cheapest and most expensive streets in Spain cost in 2023](https://www.world-today-news.com/buying-a-flat-how-much-do-the-cheapest-and-most-expensive-streets-in-spain-cost-in-2023/)
+
+
+> Between Calle Serrano and the Madrid neighborhood of San Cristóbal de Los Ángeles there are just over 13 kilometers away, but more than 10,000 euros of difference per square meter at the time of To buy a floor in one area or another. The most expensive street in Madrid to buy a home (and many other things) is Serrano. A medium-sized property on this street is around 180 square meters, which would cost more than 2 million euros, at 11,400 euros per square meter, according to the latest Tecnitasa annual report on maximum and minimum housing prices.
+
+
+***
+![Xiaomi 13 Lite Follows Apple Dynamic Island Design – Research Snipers](https://researchsnipers.com/wp-content/uploads/2023/02/image-27.png "Xiaomi 13 Lite Follows Apple Dynamic Island Design – Research Snipers")
+
+
+[Xiaomi 13 Lite Follows Apple Dynamic Island Design – Research Snipers](https://researchsnipers.com/xiaomi-13-lite-follows-apple-dynamic-island-design)
+
+
+> Xiaomi apparently wants to start offering its own adaptation of the 'Apple Dynamic Island' in Europe soon. With the Xiaomi 13 Lite, a smartphone with the Android operating system is coming onto the market, where the animations around a pill-shaped section around the front cameras are copied from Apple. According to Twitter user Sudhandshu Ambhore, someone has posted the first short 'unboxing' video of the Xiaomi 13 Lite, showing the smartphone being unpacked with the pill-shaped cutout for the front camera in the display.
+
+
+***
+[Biome Analytics Announces Promotions and New Hire](http://www.businesswire.com/news/home/20230214005293/en/Biome-Analytics-Announces-Promotions-and-New-Hire/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CHICAGO--(BUSINESS WIRE)-- #cardiology--Biome Analytics is pleased to announce the promotions of Matthew Esham and Amber Pawlikowski and the addition of Elsa Mersereau to its management team. These highly experienced healthcare professionals will bring a wealth of expertise and passion to the company, strengthening its commitment to excellence. "We are thrilled to welcome Elsa and to recognize the contributions of Matthew and Amber," said Stuart Jacobson, CEO of Biome Analytics. "These talented
+
+
+***
+[SBA Communications Corporation to Speak at The 31st Annual Deutsche Bank Media, Internet and Telecom Conference](http://www.businesswire.com/news/home/20230214005632/en/SBA-Communications-Corporation-to-Speak-at-The-31st-Annual-Deutsche-Bank-Media-Internet-and-Telecom-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOCA RATON, Fla.--(BUSINESS WIRE)--SBA Communications Corporation (NASDAQ: SBAC) ('SBA') announces that Jeffrey A. Stoops, President and Chief Executive Officer is scheduled to speak at the 31st Annual Deutsche Bank Media, Internet and Telecom Conference, Tuesday, February 28, 2023 at 1:50pm ET. The conference will be at The Breakers Hotel in Palm Beach, Florida. The audio presentation for SBA can be accessed by visiting www.sbasite.com. About SBA Communications Corporation SBA Communications C
+
+
+***
+![OnePlus 11's first update is all about improvements](https://m-cdn.phonearena.com/images/article/145576-wide-two_1200/OnePlus-11s-first-update-is-all-about-improvements.jpg "OnePlus 11's first update is all about improvements")
+
+
+[OnePlus 11's first update is all about improvements](https://www.phonearena.com/news/OnePlus-11s-first-update-is-all-about-improvements_id145576)
+
+
+> is getting its first update before it goes on sale later this week, here are all the changes.
+
+
+***
+![Man Randomly Attacked with Box Cutter in Manhattan – NBC New York (47)](https://www.gamereactor.cn/media/18/wanted_3961893b.jpg "Man Randomly Attacked with Box Cutter in Manhattan – NBC New York (47)")
+
+
+[Man Randomly Attacked with Box Cutter in Manhattan – NBC New York (47)](https://www.world-today-news.com/man-randomly-attacked-with-box-cutter-in-manhattan-nbc-new-york-47/)
+
+
+> NEW YORK — Police are searching for an individual who they say stabbed a man with a box cutter in an unprovoked attack in Manhattan on Monday. According to the New York City Police, officers received a report around 9:40 am of a 36-year-old man being attacked by an unidentified person in front of 19 Union Square West. This unidentified person allegedly sliced ​​his back with a box cutter before fleeing the scene. The injured man was taken to Bellevue Hospital in stable condition. Anyone with information about this incident is asked to call the NYPD Crime Stoppers Hotline at 1-800-577-TIPS (8477) or, for Spanish, 1-888-57-PISTA (74782).
+
+
+***
+![For simpler Apple TV software updates, Apple should adopt this strategy – Research Snipers](https://researchsnipers.com/wp-content/uploads/2021/04/apple-tv-with-tv-set.jpg "For simpler Apple TV software updates, Apple should adopt this strategy – Research Snipers")
+
+
+[For simpler Apple TV software updates, Apple should adopt this strategy – Research Snipers](https://researchsnipers.com/for-simpler-apple-tv-software-updates-apple-should-adopt-this-strategy)
+
+
+> Apple has introduced multiple devices and gadgets. Among those HomePod and Apple TV are based on the same operating system. However, both require a different mechanism to install the recent software updates. Where a Reddit user conveys a brilliant idea in his post. Let us uncover what his idea is. Recently, a Reddit user posted a brilliant idea regarding the software updates for Apple TV. In accordance with the idea of the user, the company should manage the updates in the Home app. The idea sounds quite simple and effortless.
+
+
+***
+![South Korea is really loving the Galaxy S23 series according to these sales numbers!](https://m-cdn.phonearena.com/images/article/145575-wide-two_1200/South-Korea-is-really-loving-the-Galaxy-S23-series-according-to-these-sales-numbers.jpg "South Korea is really loving the Galaxy S23 series according to these sales numbers!")
+
+
+[South Korea is really loving the Galaxy S23 series according to these sales numbers!](https://www.phonearena.com/news/south-korea-loving-galaxy-s23-series-sales-numbers_id145575)
+
+
+> The Galaxy S23 series is shaping up to be one of the best Samsung phones to be released in the last few years, especially when it comes to the more expensive S23 Ultra. This year's flagship phones from Sammy are a more significant jump from previous iterations, which is probably why it is one of the best-selling phones the company has ever sold. Want to get your own Galaxy S23? Click on one of the links below! Yep, it appears the tech giant from South Korea stepped up its game this year, a fact that is further solidified by an increase of more than 7% in terms of units pre-ordered in its own home country.
+
+
+***
+![The newlyweds received the certificate in the early morning and received a limited edition wedding book: the Chinese style design ceremony is full of sense–fast technology–technology changes the future](https://img1.mydrivers.com/img/20230214/5f83070b8d68409aac4eddcc90f271ba.png "The newlyweds received the certificate in the early morning and received a limited edition wedding book: the Chinese style design ceremony is full of sense–fast technology–technology changes the future")
+
+
+[The newlyweds received the certificate in the early morning and received a limited edition wedding book: the Chinese style design ceremony is full of sense–fast technology–technology changes the future](https://www.world-today-news.com/the-newlyweds-received-the-certificate-in-the-early-morning-and-received-a-limited-edition-wedding-book-the-chinese-style-design-ceremony-is-full-of-sense-fast-technology-technology-changes-the-fut/)
+
+
+> Every year on Valentine's Day on February 14, Qixi Festival, and May 20, many new couples get together to register for marriage, in order to leave a memorable day for themselves. Today is February 14th, and of course there are newcomers queuing up to get their certificates. In order to present a more meaningful commemoration to the couples, Changsha Min also specially prepared special gifts for each couple. According to reports,The newcomer who ranked first happily said that he couldn't fall asleep all night, he was so excited.
+
+
+***
+[FBN® Finance Expands Digital Ag Lending Offerings As It Surpasses $1B in Capital Financed](http://www.businesswire.com/news/home/20230214005186/en/FBN%C2%AE-Finance-Expands-Digital-Ag-Lending-Offerings-As-It-Surpasses-1B-in-Capital-Financed/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN CARLOS, Calif.--(BUSINESS WIRE)--Farmers Business Network (FBN®), the global AgTech platform and farmer-to-farmer network, announced the launch of its new bridge loan offering by FBN Finance, which provides farmers with yet another valuable solution when it comes to financing. Closing a traditional land loan can be a lengthy process: typically taking up to 60 to 90 days to close, often due to the time it takes to complete an appraisal. A bridge loan is an expedited land loan that allows bor
+
+
+***
+![Is It Reasonable To Invest In A Bitcoin Exchange?](https://researchsnipers.com/wp-content/uploads/2022/09/Crypto-Exchange-Sends-Wife-Too-Much-Money-–-She-Buys.jpg "Is It Reasonable To Invest In A Bitcoin Exchange?")
+
+
+[Is It Reasonable To Invest In A Bitcoin Exchange?](https://researchsnipers.com/is-it-reasonable-to-invest-in-a-bitcoin-exchange/)
+
+
+> Bitcoin has become one of the most popular cryptocurrencies in the world, and many people are looking for ways to invest in it. One option for investment is through a bitcoin exchange, which is a platform that allows individuals to buy and sell bitcoins. In this article, we will discuss whether it is reasonable to invest in a bitcoin exchange and the factors that should be considered before doing so. Visit the Bitsoft360 App if you want to learn how Bitcoin works. Understanding Bitcoin and Bitcoin Exchanges Before investing in a bitcoin exchange, it is important to have a basic understanding of what bitcoin is and how it works.
+
+
+***
+![Wanted: Dead Review – Gamereactor](https://www.gamereactor.cn/media/18/wanted_3961893b.jpg "Wanted: Dead Review – Gamereactor")
+
+
+[Wanted: Dead Review – Gamereactor](https://www.world-today-news.com/wanted-dead-review-gamereactor/)
+
+
+> Those of us born before the new millennium have all experienced walking into a video game store, frantically looking for our next adventure. There was a time when we couldn't keep one hand on a shelf and the other on our phone, Googling the ratings and reviews of the choice in front of us. No, we'll have to hunt around for the games with the coolest covers, obscure games we've never heard of, games that may or may not have Cyber ​​Ninja on the cover. Many low-budget games are hack-and-slash games, and the genre is still alive today, from Metroid-style games like Dead Cells, all the way to FromSoftware's Sekiro: Shadows Die Twice.
+
+
+***
+![Generative AI](https://www.verdict.co.uk/wp-content/uploads/2023/02/Shutterstock_2249627717.jpg "Generative AI")
+
+
+[Generative AI](https://www.verdict.co.uk/generative-ai-comes-with-problems/)
+
+
+> Credit: hafakot Shutterstock Big Tech giants are joining the generative AI party, with Google, Microsoft, Baidu , and Alibaba rumoured to be releasing a platform to challenge OpenAI 's popular ChatGPT chatbot. One venture capital firm estimated that over 450 start-ups working on generative AI. This is unsurprising as the technology has real applications for enterprises and individuals, including summarizing, translating, copywriting, and stock image compiling. However, there are some huge drawbacks to the technology that Big Tech companies are brushing under the rug.
+
+
+***
+![The Advantages Of Incorporating Bitcoin Into Your Retirement Investment Portfolio](https://researchsnipers.com/wp-content/uploads/2019/09/bitcoin.jpg "The Advantages Of Incorporating Bitcoin Into Your Retirement Investment Portfolio")
+
+
+[The Advantages Of Incorporating Bitcoin Into Your Retirement Investment Portfolio](https://researchsnipers.com/the-advantages-of-incorporating-bitcoin-into-your-retirement-investment-portfolio/)
+
+
+> Introduction Retirement can be a daunting time for many, with the need to secure a steady stream of income to support oneself in the golden years. Traditional investment options such as stocks, bonds, and mutual funds have long been the go-to for retirement savings. However, with the rise of cryptocurrencies, specifically Bitcoin, more and more people are considering incorporating this digital asset into their retirement portfolios. Use the xBitcoin app if you are also willing to trade in cryptocurrencies.
+
+
+***
+[GigNet Announces Agreement With Universidad Del Caribe to Provide Fast and Reliable Internet to Students, Faculty, and Staff of One of The Leading Public Universities in Mexico](http://www.businesswire.com/news/home/20230214005618/en/GigNet-Announces-Agreement-With-Universidad-Del-Caribe-to-Provide-Fast-and-Reliable-Internet-to-Students-Faculty-and-Staff-of-One-of-The-Leading-Public-Universities-in-Mexico/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CANCUN, Mexico--(BUSINESS WIRE)-- #AirportTech--GigNet, a Digital Infrastructure company with an extensive regional fiber-optic broadband network from Costa Mujeres, North of Cancun, through the Hotel Zone of Tulum, announced today an agreement to provide advanced fiber-optic broadband connectivity for fast and reliable Internet to the Universidad del Caribe (UNICARIBE). Universidad del Caribe is a major public university located on approximately 70 acres near central Cancun, comprising seven bu
+
+
+***
+[HealthStream Fourth Quarter &amp; Full-Year 2022 Earnings Conference Call Announcement](http://www.businesswire.com/news/home/20230214005141/en/HealthStream-Fourth-Quarter-Full-Year-2022-Earnings-Conference-Call-Announcement/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NASHVILLE, Tenn.--(BUSINESS WIRE)--HealthStream, Inc. (Nasdaq: HSTM), a leading provider of workforce and provider solutions for the healthcare industry, announced today that it will hold a conference call and webcast to discuss its fourth quarter and full-year 2022 financial results on Tuesday February 21st, 2023. The Company's financial results for the fourth quarter and full-year, ended December 31st, 2022, will be released after the routine time for the close of the market on Monday Februar
+
+
+***
+[Uptime Institute Completes Acquisition of LEET Security S.L. to Deliver Comprehensive Cyber Security Rating System](http://www.businesswire.com/news/home/20230214005599/en/Uptime-Institute-Completes-Acquisition-of-LEET-Security-S.L.-to-Deliver-Comprehensive-Cyber-Security-Rating-System/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--Uptime Institute,('Uptime') the Global Digital Infrastructure Authority, a Dominus Capital, L.P. portfolio company, announced today that it has completed its acquisition of LEET Security S.L.. LEET Security provides an independent cyber security risk evaluation methodology and rating system that has been designed to specifically identify, characterize, and rate cyber security risk within any services utilizing digital infrastructure for any aspect of service delivery.
+
+
+***
+![People's Choice Crypto Platform: A Comprehensive Overview](https://researchsnipers.com/wp-content/uploads/2022/06/Several-cryptocurrency-platforms-may-be-out-of-money.jpeg "People's Choice Crypto Platform: A Comprehensive Overview")
+
+
+[People's Choice Crypto Platform: A Comprehensive Overview](https://researchsnipers.com/peoples-choice-crypto-platform-a-comprehensive-overview/)
+
+
+> In recent years, cryptocurrencies have become a popular investment option and a means of payment. With the increasing demand for digital assets, several platforms have emerged that allow users to buy, sell, trade, and store cryptocurrencies. One of these platforms is the People's Choice Crypto Platform. In this article, we will provide a comprehensive overview of the People's Choice Crypto Platform and what sets it apart from other cryptocurrency exchanges. For more information, we suggest you check expert blogs about cryptocurrencies on This URL .
+
+
+***
+![Binance: Revolutionizing The Crypto Industry And Shaping The Future Of Trading](https://researchsnipers.com/wp-content/uploads/2019/03/Cryptocurrency.jpg "Binance: Revolutionizing The Crypto Industry And Shaping The Future Of Trading")
+
+
+[Binance: Revolutionizing The Crypto Industry And Shaping The Future Of Trading](https://researchsnipers.com/binance-revolutionizing-the-crypto-industry-and-shaping-the-future-of-trading/)
+
+
+> Binance, the largest cryptocurrency exchange by trade volume, has been making waves in the crypto industry since its launch in 2017. With its user-friendly platform and innovative features, Binance has been able to attract millions of users worldwide, making it one of the most popular exchanges for buying, selling, and trading cryptocurrencies. In this article, we will take a closer look at the impact Binance has had on the crypto industry and how it is shaping the future of crypto trading. If you're looking for a way to take your crypto trading to the next level, visit bit alpha ai .
+
+
+***
+![Samsung Brings Odyssey OLED G8, Odyssey Neo G7, and Odyssey G7 Gaming Monitors to India](https://www.gizmochina.com/wp-content/uploads/2023/02/Samsung-Odyssey-OLED-G8-Gaming-Monitor.jpg "Samsung Brings Odyssey OLED G8, Odyssey Neo G7, and Odyssey G7 Gaming Monitors to India")
+
+
+[Samsung Brings Odyssey OLED G8, Odyssey Neo G7, and Odyssey G7 Gaming Monitors to India](https://www.gizmochina.com/2023/02/14/samsung-odyssey-oled-g8-neo-g7-india-launch)
+
+
+> Samsung has launched three gaming monitors in India. They are Odyssey OLED G8, Odyssey Neo G7, and Odyssey G7. The trio is already official in certain markets. The aforementioned monitors fall under the premium segment. Therefore, they carry price tags matching their high-end specs. The Samsung Odyssey OLED G8 sports a 34-inch curved OLED panel with a 1800R curvature. It offers a resolution of 3440 x 1440 pixels (QHD), a 175Hz refresh rate, and a 21:9 aspect ratio. The screen supports 99.3% of the DCI-P3 color gamut and 0.
+
+
+***
+![The leaked specifications of the Nvidia RTX 4060 card are disappointing](https://techfeed.cz/uploads/og/f13af33508644024b5d4380839182d8e/1628636517.jpg "The leaked specifications of the Nvidia RTX 4060 card are disappointing")
+
+
+[The leaked specifications of the Nvidia RTX 4060 card are disappointing](https://www.world-today-news.com/the-leaked-specifications-of-the-nvidia-rtx-4060-card-are-disappointing/)
+
+
+> Different models of three new generation graphics cards from Nvidia are currently available on the market. Only the more expensive pieces have been released so far RTX 4090, RTX 4080 a RTX 4070 Ti (aka RTX 4080 12GB) for more demanding users and it seems that we will have to wait until April for the first cheaper graphics. A well-known leaker now brings information about a rather low-end model from the Ada Lovelace series, which is the card GeForce RTX 4060. Specifications at the same time they are not exciting at all unless an error occurred somewhere.
+
+
+***
+![The Importance Of Diversification In Investing And How To Achieve It In Your Portfolio](https://researchsnipers.com/wp-content/uploads/2022/07/New-Crypto-Scam-Discovered-FBI-Warns-of-Investor-Fake-Apps.jpg "The Importance Of Diversification In Investing And How To Achieve It In Your Portfolio")
+
+
+[The Importance Of Diversification In Investing And How To Achieve It In Your Portfolio](https://researchsnipers.com/the-importance-of-diversification-in-investing-and-how-to-achieve-it-in-your-portfolio/)
+
+
+> Diversification is one of the most important concepts in investing, and it has been proven time and time again to be a key factor in achieving long-term investment success. Diversification helps investors minimize risk by spreading their investments across different asset classes, industries, and geographical regions. This article will explain why diversification is so important and how to achieve it in your portfolio. What is Diversification Diversification is the process of spreading investment capital across different asset classes, industries, and geographical regions to reduce the overall risk of the portfolio.
+
+
+***
+[SentinelOne Executives Recognized Across 2023 CRN Channel Chiefs List](http://www.businesswire.com/news/home/20230214005619/en/SentinelOne-Executives-Recognized-Across-2023-CRN-Channel-Chiefs-List/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--SentinelOne (NYSE: S), an autonomous cybersecurity platform company, today announced CRN®, a brand of The Channel Company, has named Ken Marks, Vice President, Worldwide Channel Sales, to its 2023 Most Influential Channel Chief List for the second consecutive year. In addition, Chris Catanzaro, VP of Americas Channels, Brian Kroneman, Sr. Director, Worldwide Channel Programs and Strategy, and Michelle Patterson, Director, Field and Channel Marketing, were
+
+
+***
+![What does a typical day look like for a people data analyst?](https://www.siliconrepublic.com/wp-content/uploads/2023/02/Ale_SR_edited.png "What does a typical day look like for a people data analyst?")
+
+
+[What does a typical day look like for a people data analyst?](https://www.siliconrepublic.com/people/people-data-analyst-personio-alessandro-broggio)
+
+
+> Personio's Alessandro Broggio speaks to SiliconRepublic.com about his day-to-day as a people data analyst and what he enjoys most about working in analytics. Alessandro Broggio is a people data analyst at HR software provider Personio. His main duties include working with large and complex datasets, especially for the HR and finance domain, and supporting the extract, transform and load (ETL) data integration process. Alongside these duties, he especially enjoys data transformation and data modelling.
+
+
+***
+[Marki Microwave Releases Over 80 Parts in 2022, New Product Introduction to Exceed Milestone in 2023](http://www.businesswire.com/news/home/20230214005262/en/Marki-Microwave-Releases-Over-80-Parts-in-2022-New-Product-Introduction-to-Exceed-Milestone-in-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MORGAN HILL, Calif.--(BUSINESS WIRE)--Marki Microwave®, innovator in the radio frequency and microwave industry for over 30 years, reports the release of 85 new product introductions throughout 2022, a 70% increase from the previous year. Ranging from a new line of integrated mixer-amplifier products, high performance amplifiers and couplers, and a chip scale packaging (CSP) portfolio, this milestone underscores the company's commitment to developing leading-edge products for the entire radio f
+
+
+***
+![Romantic and funny love greetings for Whatsapp and Co.](https://www.rnd.de/resizer/sfyoIiTjTfI-9-9XUu6bnwUh89k=/1200x675/filters:quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/madsack/HNVBG5GD4TAZF3WRWRTRBBC5FI.jpg "Romantic and funny love greetings for Whatsapp and Co.")
+
+
+[Romantic and funny love greetings for Whatsapp and Co.](https://www.world-today-news.com/romantic-and-funny-love-greetings-for-whatsapp-and-co/)
+
+
+> February 14th is Valentine's Day, the day of love. While some single people are certainly happy when the day is over, many couples show how much they appreciate each other. This can be done in the classic way with a bouquet of flowers and chocolates – but beautiful Valentine's Day sayings are also a must. So that you are well prepared for the greeting card or the exchange of declarations of love via Whatsapp, you will find the right sayings here. Valentine's Day Sayings Are you looking for a funny, romantic or English Valentine's Day saying? Whether it's for your Valentine or just to say thank you to a dear friend, here you will find the right poems, rhymes, quotes and sayings on the subject of love – ideally suited and prepared for Whatsapp and social media.
+
+
+***
+![How your browser could be exposed to a security risk](https://static.foxnews.com/foxnews.com/content/uploads/2023/02/1-CHROME-BROWSER.jpg "How your browser could be exposed to a security risk")
+
+
+[How your browser could be exposed to a security risk](https://www.foxnews.com/tech/browser-exposed-security-risk)
+
+
+> One thing you shouldn't take for granted is the version of the browser you're using to surf the web. Always be sure to keep your web browser up to date.  CLICK TO GET KURT'S CYBERGUY NEWSLETTER WITH QUICK TIPS, TECH REVIEWS, SECURITY ALERTS AND EASY HOW-TO'S TO MAKE YOU SMARTER This will fix the many security issues that seem to come with each version and ultimately help prevent hackers from getting into your computer, crashing programs and getting around your computer's security systems. While there are many browsers out there, below are a few of the more popular ones.
+
+
+***
+![Top Indian Fantasy Films Available for Streaming on OTT](https://telecomtalk.info/wp-content/uploads/2023/02/top-indian-fantasy-films-available-streaming-ott.jpg "Top Indian Fantasy Films Available for Streaming on OTT")
+
+
+[Top Indian Fantasy Films Available for Streaming on OTT](https://telecomtalk.info/top-indian-fantasy-films-available-streaming-ott/676442/)
+
+
+> Indian fantasy films are a popular genre of movies that are known for their unique storytelling, visual effects, and larger-than-life characters. With some of the biggest blockbusters ever filmed, Indian cinema has now strengthened its footprint across the globe. Fantasy dramas, which featured larger-than-life plotlines with a blend of adventure and breathtaking graphics, were one of the most popular genres in 2022. Digital platforms are our saviours in situations like these because the engrossing stories and unexpected turns make us want to watch them again.
+
+
+***
+[Counterpart Brings Management &amp; Professional Liability Insurance to the 21st Century with the launch of Quote &amp; Bind API](http://www.businesswire.com/news/home/20230214005126/en/Counterpart-Brings-Management-Professional-Liability-Insurance-to-the-21st-Century-with-the-launch-of-Quote-Bind-API/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LOS ANGELES--(BUSINESS WIRE)--Counterpart, the AI-driven insurtech that offers management and professional liability insurance for small businesses, has today launched its latest API for its key broker partners. The new API offers quote-to-bind services for Miscellaneous Professional Liability, Directors & Officers, Employment Practices, Fiduciary, and Crime insurance products. Counterpart's API is a timely tool for brokers whose small business clients would otherwise be dependent on the sl
+
+
+***
+![Mysterious Moto G Stylus (2023) stars in its first big (high-res) leak](https://m-cdn.phonearena.com/images/article/145579-wide-two_1200/Mysterious-Moto-G-Stylus-2023-stars-in-its-first-big-high-res-leak.jpg "Mysterious Moto G Stylus (2023) stars in its first big (high-res) leak")
+
+
+[Mysterious Moto G Stylus (2023) stars in its first big (high-res) leak](https://www.phonearena.com/news/motorola-moto-g-stylus-2023-leaked-renders-unknown-specs_id145579)
+
+
+> While Motorola hasn't been very quiet on the product launch front this year, already announcing a bunch of different low and mid-end Moto G-series handsets and a premium business-friendly ThinkPhone since the beginning of 2023, one of the company's most interesting early 2022-released devices is still waiting for its sequel. Prior to today, there weren't even any Moto G Stylus (2023) rumors to speak of, but now we have a super-crisp render leaked by the almost always reliable Steve Hemmerstoffer (aka @OnLeaks ) for the first time on Patreon .
+
+
+***
+![CannUtopia CBD Gummies Review: Is It Worth Buying?](https://researchsnipers.com/wp-content/uploads/2022/11/image-61.png "CannUtopia CBD Gummies Review: Is It Worth Buying?")
+
+
+[CannUtopia CBD Gummies Review: Is It Worth Buying?](https://researchsnipers.com/cannutopia-cbd-gummies-review-is-it-worth-buying/)
+
+
+> No doubt, good sex is the spice of a relationship. And there's plenty of societal pressure on men to excel in lovemaking. However, this is easier said than done. Several men have recounted their inability to satisfy their partners in bed. As a result, they opt for sex boosters. Boosting your sexual health is more than a myth. But will only produce desired results with the right products. CannUtopia CBD Gummies for male enhancement is a perfect alternative to improve your sexual health. But how effective are these sex gummies, and what do they offer? Keep reading this CannUtopia CBD gummies review to learn more.
+
+
+***
+[TNS Deploys Purpose-Built Dedicated Server Solution for the Capital Markets](http://www.businesswire.com/news/home/20230214005117/en/TNS-Deploys-Purpose-Built-Dedicated-Server-Solution-for-the-Capital-Markets/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> RESTON, Va.--(BUSINESS WIRE)--Transaction Network Services (TNS) today announced the launch of its standardized Dedicated Server offering, which is the first phase in the deployment of its new Cloud platform for financial markets. This product is designed specifically for high-performance trading and utilizes TNS' state-of-the-art bare metal servers, as well as ultra-low latency trading connectivity through TNS Layer 1. TNS offers 16 standardized server options that have been optimized for fron
+
+
+***
+!['Metrode Ultimate Remake' Samus Makeover!The face without the helmet is more realistic. Fans like it, but some people think it is getting old  Game Corner](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/02/14/0/20192153.png&s=Y&x=0&y=0&sw=1280&sh=720&exp=3600 "'Metrode Ultimate Remake' Samus Makeover!The face without the helmet is more realistic. Fans like it, but some people think it is getting old  Game Corner")
+
+
+['Metrode Ultimate Remake' Samus Makeover!The face without the helmet is more realistic. Fans like it, but some people think it is getting old  Game Corner](https://www.world-today-news.com/metrode-ultimate-remake-samus-makeoverthe-face-without-the-helmet-is-more-realistic-fans-like-it-but-some-people-think-it-is-getting-old-game-corner-digital/)
+
+
+> 'Metroid Prime Remastered (formerly known as Metroid) was revealed at Nintendo's direct meeting last week, and it will be released as soon as it is released. Except for the upgraded graphics and new operations, the new version has basically not changed much, but there is still one obvious difference from the original version, that is, Samus has a new face. According to foreign media GameRant report, Samus in 'Metrode Ultimate Replica' has more prominent cheekbones, thicker eyebrows, a straight nose and well-defined lips.
+
+
+***
+[Tanium Leaders Named to 2023 CRN Channel Chief List](http://www.businesswire.com/news/home/20230214005394/en/Tanium-Leaders-Named-to-2023-CRN-Channel-Chief-List/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> KIRKLAND, Wash.--(BUSINESS WIRE)--Tanium, the industry's only provider of converged endpoint management (XEM), announced today the inclusion of three of its channel leaders in the industry-recognized 2023 Channel Chiefs list published annually by CRN. Todd Palmer, senior vice president, partner sales, Frank DiCicco, regional vice president, Americas partner sales, and Ian Williamson, regional vice president, MSP and GSI, were honored along with other IT channel executives who have worked tirele
+
+
+***
+[Big Sky Care Connect Selects Rhapsody Interoperability Suite from Lyniate](http://www.businesswire.com/news/home/20230214005119/en/Big-Sky-Care-Connect-Selects-Rhapsody-Interoperability-Suite-from-Lyniate/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOSTON--(BUSINESS WIRE)--Big Sky Care Connect (BSCC), Montana's designated healthcare information exchange (HIE), has selected the Rhapsody Interoperability Suite from Lyniate, a global leader in healthcare data interoperability. BSCC will leverage Rhapsody health solutions as a key component of its architecture to connect, classify and cleanse data from its partners, which include providers, payers, and government programs. This partnership will ultimately improve health across BSCC's vast, di
+
+
+***
+[Presidio Achieves Two Industry Leading Trusted Security Frameworks: ISO 27001 and SOC 2](http://www.businesswire.com/news/home/20230214005189/en/Presidio-Achieves-Two-Industry-Leading-Trusted-Security-Frameworks-ISO-27001-and-SOC-2/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--Presidio, a leading global digital services and solution provider, announced that it has achieved compliance with the requirements of two most trusted information security frameworks, ISO 27001 and SOC 2, the leading comprehensive compliance standards for enterprise-wide information security. 'Leveraging best practices to protect data is a top priority for us, which is why we've completed both of the rigorous assessment processes of ISO 27001 and SOC 2,' said Dave Har
+
+
+***
+[ThreatBlockr Enhances Threat Identification and Prevention with Greater Control, Visibility and Flexibility](http://www.businesswire.com/news/home/20230214005213/en/ThreatBlockr-Enhances-Threat-Identification-and-Prevention-with-Greater-Control-Visibility-and-Flexibility/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TYSONS CORNER, Va.--(BUSINESS WIRE)--ThreatBlockr Enhances Threat Identification and Prevention with Greater Control, Visibility and Flexibility
+
+
+***
+[Magnit Named a CWS &amp; MSP Services Procurement Leader in NelsonHall's NEAT Evaluation 2022](http://www.businesswire.com/news/home/20230214005296/en/Magnit-Named-a-CWS-MSP-Services-Procurement-Leader-in-NelsonHall%E2%80%99s-NEAT-Evaluation-2022/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BURLINGAME, Calif.--(BUSINESS WIRE)--Magnit™, an Integrated Workforce Management (IWM) platform provider, announced that it was named a Leader in NelsonHall's NEAT vendor evaluation for Contingent Workforce Solutions (CWS) and Managed Service Programs (MSP) for the second consecutive year. NelsonHall's NEAT assessment ranked the performance of 13 vendors, providing strategic insights across a range of criteria to identify the best-performing providers. 'More than ever, companies are looking for
+
+
+***
+[Tassat ® Group Appoints Zain Saidin as Chief Operating Officer](http://www.businesswire.com/news/home/20230214005566/en/Tassat-%C2%AE-Group-Appoints-Zain-Saidin-as-Chief-Operating-Officer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--Tassat Group Inc., the leading provider of real-time digital payments solutions for commercial banks and their corporate clients, today announced the appointment of Zain Saidin as Chief Operating Officer. Saidin is a technology operations veteran, bringing over 30 years of technology integration, and strategic business development to Tassat. Prior to joining Tassat, Saidin served as the Chief Engineer and an Executive Vice President at KLA Corporation (NYSE:KLAC), a l
+
+
