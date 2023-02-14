@@ -23448,3 +23448,964 @@
 > We have great news for music lovers everywhere, as some fantastic deals are available on some of Apple's best headphones on the market. Savings are getting pretty aggressive, with the Beats Solo 3 Wireless On-Ear Headphones receiving a huge 35 percent discount. These headphones launched with a $200 price tag, which means you can now take a pair home for just $130. The Beats Solo 3 feature Apple's W1 Headphone Chip, up to 40 hours of non-stop listening time, and a built-in microphone, and the best part is that this offer is available in its four different color variants.
 
 
+***
+![Ericsson Expands Its Portfolio to Boost Indoor 5G Capacity and Precision Positioning](https://telecomtalk.info/wp-content/uploads/2023/02/ericsson-indoor-5g-capacity-and-precision-positioning.jpg "Ericsson Expands Its Portfolio to Boost Indoor 5G Capacity and Precision Positioning")
+
+
+[Ericsson Expands Its Portfolio to Boost Indoor 5G Capacity and Precision Positioning](https://telecomtalk.info/ericsson-indoor-5g-capacity-and-precision-positioning/676383/)
+
+
+> Ericsson has expanded its Ericsson Radio Dot System portfolio with the introduction of new products and solutions that expands indoor mobile connectivity aimed at delivering 5G coverage, capacity and capabilities across the interior of any work or business environment, irrespective of the size and building complexity. Ericsson introduced a new suite of indoor 5G solutions and precise-location software. Indoor Connectivity Ericsson says about 80 per cent of Mobile data is generated through Indoor usage, and high-performing indoor mobile connectivity has become critical for digital infrastructure.
+
+
+***
+![The Banner Ad Isn't Making A Comeback – It Never Left](https://www.adexchanger.com/wp-content/uploads/2023/02/Will-Braithwaite-Jun-Group-1.jpg "The Banner Ad Isn't Making A Comeback – It Never Left")
+
+
+[The Banner Ad Isn't Making A Comeback – It Never Left](https://www.adexchanger.com/data-driven-thinking/the-banner-ad-isnt-making-a-comeback-it-never-left/)
+
+
+> ' Data-Driven Thinking ' is written by members of the media community and contains fresh ideas on the digital revolution in media. Today's column is written by Will Braithwaite, marketing manager at Jun Group . Banner ads were enjoying a happy retirement after their heyday in the '90s and 2000s. That all changed around 2019, when brands and app developers revitalized the antiquated ad format. Since then, mobile banner ads have made a major comeback.  The sheer volume of requests spurned by programmatic mediation have catapulted them back into the ad tech spotlight.
+
+
+***
+![Umniah Chooses Ericsson for 5G Rollout in Jordan](https://telecomtalk.info/wp-content/uploads/2023/02/umniah-chooses-ericsson-for-5g-rollout-jordan.jpg "Umniah Chooses Ericsson for 5G Rollout in Jordan")
+
+
+[Umniah Chooses Ericsson for 5G Rollout in Jordan](https://telecomtalk.info/umniah-chooses-ericsson-for-5g-rollout-jordan/676351/)
+
+
+> Umniah, a mobile network operator based in Jordan, has invested heavily in upgrading its network infrastructure and expanding its coverage to provide reliable and high-quality services to its customers. As a part of its 5G Rollout ambitions, Umniah partnered with Ericsson for the first 5G rollout in the Hashemite Kingdom of Jordan. In its release, Umniah said it would roll out 5G in several phases and across several governorates. Also Read:  Airtel 5G Plus Launched in 5 New Cities of Haryana Umniah's 5G Preparations Umniah has begun preparing the infrastructure for its 5G network after acquiring the 5G and frequency licenses from the Telecommunications Regulatory Commission (TRC) in anticipation of offering 5G services within the time frame set by TRC.
+
+
+***
+![WhatsApp to roll out feature to keep disappearing messages: Report](https://www.hindustantimes.com/ht-img/img/2023/02/14/1600x900/738ac4d8-6970-11ed-a20b-ccf96773636d_1669637405556_1669637405556_1676359139986_1676359139986.jpg "WhatsApp to roll out feature to keep disappearing messages: Report")
+
+
+[WhatsApp to roll out feature to keep disappearing messages: Report](https://www.hindustantimes.com/technology/whatsapp-to-roll-out-feature-to-keep-disappearing-messages-report-101676358890256.html)
+
+
+> Published on Feb 14, 2023 01:34 PM IST Representational Image By HT News Desk , New Delhi WhatsApp is rolling out a feature that will allow users to retain disappearing messages, so that these can last for everyone on the chat. This is according to WhatsApp news tracker WABetaInfo, which reported in July last year the Meta-owned platform was developing such a feature. The feature, said WABetaInfo, is for now, being made available to select beta testers. This is how its works: Screenshot shared by WABetaInfo As seen in the screenshot above, users will now see a new ‘kept messages' section within the chat info (in case the ability has been enabled for their WhatsApp account).
+
+
+***
+[intoPIX Showcases Its New JPEG XS Solutions to Simplify IP Video Production Workflow at HPA Tech Retreat 2023](http://www.businesswire.com/news/home/20230214005055/en/intoPIX-Showcases-Its-New-JPEG-XS-Solutions-to-Simplify-IP-Video-Production-Workflow-at-HPA-Tech-Retreat-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MONT-SAINT-GUIBERT, Belgium--(BUSINESS WIRE)--intoPIX, the leading expert in zero-latency mezzanine video compression, showcases its solutions to simplify live production & post-production workflows in the LAN, over the WAN & to the CLOUD at HPA Tech Retreat 2023 in Hollywood. intoPIX presents its latest innovations in JPEG XS, supported on both software libraries & hardware IP cores: the TicoXS FIP - Flawless Imaging Profile, the next generation of the JPEG XS codec that supports a
+
+
+***
+[OurCrowd Global Investor Summit to Host Tech Business Delegation from Morocco to Israel](http://www.businesswire.com/news/home/20230214005156/en/OurCrowd-Global-Investor-Summit-to-Host-Tech-Business-Delegation-from-Morocco-to-Israel/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> JERUSALEM--(BUSINESS WIRE)--OurCrowd, the leading venture investing platform and Israel's most active venture investor*, welcomed a tech business delegation from Morocco to Israel today for this week's OurCrowd Global Investor Summit. The Summit, which is the largest investor event in the Middle East, returns to Jerusalem on February 15, 2023, with more than 8,500 in-person participants expected from over 80 countries around the world, including delegations from Asia, Latin America, Australia,
+
+
+***
+![Fears for Irish jobs as LinkedIn cuts recruitment roles](https://imengine.public.prod.sbp.infomaker.io?uuid=78fec627-1fb7-5167-99ed-3971b8616bf7&function=cropresize&type=preview&source=false&q=75&crop_w=0.88889&crop_h=0.99999&x=0.05556&y=0&width=2000&height=1125 "Fears for Irish jobs as LinkedIn cuts recruitment roles")
+
+
+[Fears for Irish jobs as LinkedIn cuts recruitment roles](https://www.businesspost.ie/tech/fears-for-irish-jobs-as-linkedin-cuts-recruitment-roles/)
+
+
+> Company said it is still hiring for some roles but at a slower rate than previously LinkedIn, which employs over 2,000 people in Ireland, has implemented layoffs in its recruiting division with staff in Dublin expected to be impacted by the decision. The social media platform said it is still hiring for some roles but that the rate of hiring has slowed leading it to cut jobs linked to hiring. Owned by Microsoft which earlier this year said it would cut 10,000 jobs, LinkedIn employs over 21,000 people globally.
+
+
+***
+![India's InsuranceDekho Secures US$150 Million Series A](https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/02/Indias-InsuranceDekho-Secures-US150-Million-Series-A.png?x64868 "India's InsuranceDekho Secures US$150 Million Series A")
+
+
+[India's InsuranceDekho Secures US$150 Million Series A](https://fintechnews.sg/69742/fintech-india/indias-insurancedekho-secures-us150-million-series-a/)
+
+
+> Indian insurtech firm InsuranceDekho has raised US$150 million in Series A funding round consisting of a mix of equity and debt. The round was led by Goldman Sachs Asset Management and TVS Capital Funds with participation from Investcorp, Avataar Ventures and existing investor, LeapFrog Investments. InsuranceDekho will be using the funds to scale up its product and technology functions, expand to new markets, and launch new innovative products in the health and life categories. Additionally, the insurtech is also seeking to grow its Micro, Small & Medium Enterprise (MSME) insurance business and strengthen its leadership team.
+
+
+***
+![Valentine's Day gifts at discount on Flipkart: Apple iPhone 12 Mini at Rs 19,900, Apple AirPods at Rs 541 and others](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/14/2572812-apple-valentine-s-day-gifts-from-flipkart.png "Valentine's Day gifts at discount on Flipkart: Apple iPhone 12 Mini at Rs 19,900, Apple AirPods at Rs 541 and others")
+
+
+[Valentine's Day gifts at discount on Flipkart: Apple iPhone 12 Mini at Rs 19,900, Apple AirPods at Rs 541 and others](https://www.dnaindia.com/technology/report-valentine-s-day-gifts-at-discount-on-flipkart-apple-iphone-12-mini-at-rs-19900-apple-airpods-at-rs-541-3023633)
+
+
+> Valentine's Day gifts at discount on Flipkart: Apple iPhone 12 Mini at Rs 19,900, Apple AirPods at Rs 541 and others Valentine's Day gifts are available at a great discount in the Flipkart sale. From the Flipkart sale, buyers can buy several Valentine's Day gifts across numerous categories. One such brand that shows love and longevity, the things you want with your Valentine, is Apple. Due to this reason, a lot of people try to gift an Apple iPhone or Apple AirPods to their partner on Valentine's Day.
+
+
+***
+![Indian government issues another ‘serious' warning for Microsoft Edge users](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/14/2572804-microsoft-edge.png "Indian government issues another ‘serious' warning for Microsoft Edge users")
+
+
+[Indian government issues another ‘serious' warning for Microsoft Edge users](https://www.dnaindia.com/technology/report-indian-government-issues-another-serious-warning-for-microsoft-edge-users-3023626)
+
+
+> Microsoft Edge Indian government has issued a fresh warning for Microsoft Edge browser users which can land them in serious trouble. This is the second warning issued by the Indian government for the users of Microsoft Edge browser. Microsoft Edge browser comes pre-installed with Windows PC, however many only use it to download Google Chrome. Although the user base of Microsoft Edge is very low when compared to Google Chrome, it is slowly gaining ground with creative alerts and pop-ups. Over the last few years, the Chromium based have improved significantly and to continue on that path, Microsoft rolls out updates for Edge browser to keep users safe and add new features.
+
+
+***
+![Apple patches zero-day flaw affecting iPhones, iPads, and Macs]( "Apple patches zero-day flaw affecting iPhones, iPads, and Macs")
+
+
+[Apple patches zero-day flaw affecting iPhones, iPads, and Macs](https://mybroadband.co.za/news/security/480203-apple-patches-zero-day-flaw-affecting-iphones-ipads-and-macs.html)
+
+
+> mybroadband.co.za Checking if the site connection is secure Enable JavaScript and cookies to continue mybroadband.co.za needs to review the security of your connection before proceeding.
+
+
+***
+![Samsung Brings Natural Cycles' Menstrual Cycle Tracking to Galaxy Watch5 Series](https://www.gizmochina.com/wp-content/uploads/2023/02/CycleTracking_Thumbnail1.jpg "Samsung Brings Natural Cycles' Menstrual Cycle Tracking to Galaxy Watch5 Series")
+
+
+[Samsung Brings Natural Cycles' Menstrual Cycle Tracking to Galaxy Watch5 Series](https://www.gizmochina.com/2023/02/14/samsung-cycle-tracking-galaxy-watch5-series)
+
+
+> Samsung Electronics Co., Ltd. has partnered with Natural Cycles to bring advanced temperature-based menstrual cycle tracking capabilities to the Galaxy Watch5 series. The partnership marks the first time Natural Cycles' fertility algorithm has been adapted for a smartwatch. The combination of Samsung's superior sensor technology and Natural Cycles' innovative fertility technology offers users a more detailed insight into their menstrual cycle. Through the Cycle Tracking feature, Galaxy Watch5 users will have access to advanced cycle tracking.
+
+
+***
+![Hogwarts Legacy walkthrough: How to complete The Tale of Rowland Oakes side quest](https://staticc.sportskeeda.com/editor/2023/02/9425e-16763562494357-1920.jpg "Hogwarts Legacy walkthrough: How to complete The Tale of Rowland Oakes side quest")
+
+
+[Hogwarts Legacy walkthrough: How to complete The Tale of Rowland Oakes side quest](https://www.sportskeeda.com/esports/hogwarts-legacy-walkthrough-how-complete-the-tale-rowland-oakes-side-quest)
+
+
+> Hogwarts Legacy features tons of side content. Players can trigger them by interacting with professors, students, and other characters in Hogwarts Legacy. The Tale of Rowland can be initiated by speaking with a Hufflepuff student named Adelaide Oakes. Players will first receive an owl post from her requesting help. This side quest requires players to assist Adelaide in finding her uncle Rowland Oakes, a trader who has gone missing. Adelaide suspects the goblin loyalists are responsible for his capture.
+
+
+***
+![Hugging Face Releases LoRA Scripts for Efficient Stable Diffusion Fine-Tuning](https://i0.wp.com/syncedreview.com/wp-content/uploads/2023/02/image-39.png?fit=800%2C397&ssl=1 "Hugging Face Releases LoRA Scripts for Efficient Stable Diffusion Fine-Tuning")
+
+
+[Hugging Face Releases LoRA Scripts for Efficient Stable Diffusion Fine-Tuning](https://syncedreview.com/2023/02/13/hugging-face-releases-lora-scripts-for-efficient-stable-diffusion-fine-tuning/)
+
+
+> Low-Rank Adaptation (LoRA) is a novel technique introduced by Microsoft in 2021 for fine-tuning large language models (LLMs). LoRA is an efficient adaptation strategy that introduces no additional inference latency and substantially reduces the number of trainable parameters for downstream tasks while maintaining model quality. Although LoRA was initially proposed for LLMs, it also can be applied elsewhere. Inspired by the Stable Diffusion paper published in 2022 by the Ludwig Maximilian University of Munich, Heidelberg University and Runway ML, independent researchers such as Simo Ryu ( @cloneofsimo ) came up with the idea of applying LoRA to Stable Diffusion, posting multiple examples and insights on their GitHub project page .
+
+
+***
+![How to customise your iPhone lock screen wallpaper, font, colour, and widgets](https://static1.pocketlintimages.com/wordpress/wp-content/uploads/162764-phones-news-feature-how-to-customise-your-iphone-lock-screen-wallpaper-font-colour-and-widgets-image2-wz3thvdoms.jpg "How to customise your iPhone lock screen wallpaper, font, colour, and widgets")
+
+
+[How to customise your iPhone lock screen wallpaper, font, colour, and widgets](https://www.pocket-lint.com/how-to-customize-iphone-lock-screen-wallpaper-font-colour-widgets/)
+
+
+> Quick Links If you own an iPhone, you now have more options than ever before - including the ability to customise your lock screen. You can change the entire look - right down to the colours, fonts, and widgets. You can even create multiple lock screens to match your changing aesthetic or to reduce distractions with Apple's Focus feature. Read: Best iPhone models: Which should you buy? In this guide, we walk you through the process of customising your iPhone lock screen and wallpaper. Whether you're new to iPhone customisation or a seasoned pro, we provide step-by-step instructions on how to achieve your desired look - from selecting the perfect wallpaper to adding widgets and setting up a Focus lock screen.
+
+
+***
+![Google Photos crashing after iOS 16.3.1 update? Here's a solution](https://piunikaweb.com/wp-content/uploads/2019/08/Google-Photos-bug.jpg "Google Photos crashing after iOS 16.3.1 update? Here's a solution")
+
+
+[Google Photos crashing after iOS 16.3.1 update? Here's a solution](https://piunikaweb.com/2023/02/14/google-photos-crashing-after-ios-16-3-1-update-heres-a-solution/)
+
+
+> New updates are being added at the bottom of this story……. Original story (published on February 14, 2023) follows: Google Photos is a popular photo and video app available on iOS devices, developed by Google. The app allows users to organize, edit, and share photos and videos with its advanced features. Users also rely on the app for its integration with Cloud Storage making it easier for them to preserve important media or memories. However, a recent update on some Apple devices has made broken the Google Photos app functionality.
+
+
+***
+![How upright is Lin Xiang? '1 embarrassing reaction' suddenly appeared next to the Japanese monster star station. Netizens looked at it with a smirk](https://attach.setn.com/newsimages/2023/02/14/4040083-PH.jpg "How upright is Lin Xiang? '1 embarrassing reaction' suddenly appeared next to the Japanese monster star station. Netizens looked at it with a smirk")
+
+
+[How upright is Lin Xiang? '1 embarrassing reaction' suddenly appeared next to the Japanese monster star station. Netizens looked at it with a smirk](https://www.world-today-news.com/how-upright-is-lin-xiang-1-embarrassing-reaction-suddenly-appeared-next-to-the-japanese-monster-star-station-netizens-looked-at-it-with-a-smirk/)
+
+
+> Entertainment Center / Reported by Lin Yunxuan ▲ Lin Xiang led the cheerleading team to Ishigaki Island to play an exchange game with Lotte Momozoku. Sasaki Langxi laughed at her reaction when he saw her. (Picture / flip from Rakuten Girls Facebook) 'Cheerleading Goddess' Lin Xiang has a sweet appearance and a hot body, and she is very popular. As a member of the 'Lotte Girls', she recently led the team to Ishigaki Island to play an exchange match with Lotte Momozaki. Everywhere she went caused a sensation, even the Japanese fans went crazy.
+
+
+***
+![Airtel Rs 3359 Plan is Best for Entertainment Lovers, Here's Why](https://telecomtalk.info/wp-content/uploads/2023/02/airtel-rs-3359-plan-is-best-for.jpg "Airtel Rs 3359 Plan is Best for Entertainment Lovers, Here's Why")
+
+
+[Airtel Rs 3359 Plan is Best for Entertainment Lovers, Here's Why](https://telecomtalk.info/airtel-rs-3359-plan-is-best-for/676266/)
+
+
+> If you are a Bharti Airtel customer, then there's a prepaid plan that you can check out in case you love watching OTT (over-the-top) content on your mobile device. Airtel is one of the leading telecom operators in India and has more than 350 million subscribers. The telco is also rolling out 5G since October 2022 and has covered several parts of the country with its 5G Plus networks already. Airtel's Rs 3359 prepaid plan is the best if you have entertainment needs. Here's why. Airtel Rs 3359 Plan: Why is it the Best Plan for Entertainment Lovers? While there are several prepaid plans available for Airtel customers that offer OTT benefits at no additional cost, the Rs 3359 plan still stands out.
+
+
+***
+![Unexpected asteroid hits Earth and lights up skies over France](https://services.meteored.com/img/article/video-inesperado-asteroide-impacta-la-tierra-e-ilumina-el-cielo-de-francia-europa-luces-meteoro-meteorito-1676298632755_1280.jpg "Unexpected asteroid hits Earth and lights up skies over France")
+
+
+[Unexpected asteroid hits Earth and lights up skies over France](https://www.world-today-news.com/unexpected-asteroid-hits-earth-and-lights-up-skies-over-france/)
+
+
+> At dawn on Monday (13) a small space rock entered the atmosphere and caught fire, generating a light show over part of Europe. It had been detected a few hours earlier. Christian Garavaglia Meteored Argentina 27 minutes ago 2 min One small and unexpected asteroid hit the earth's atmosphere in the early hours of last monday 13, e generated a fireball that was clearly observed from several locations in Central and Western Europe. The meteor, just a meter in diameter, had been discovered a few hours before impact by the Hungarian observer Krisztián Sárneczky, who named it Sar2667.
+
+
+***
+![Every free reward you can get before Fortnite Chapter 4 Season 1 ends](https://staticg.sportskeeda.com/editor/2023/02/ce1c0-16763464218166-1920.jpg "Every free reward you can get before Fortnite Chapter 4 Season 1 ends")
+
+
+[Every free reward you can get before Fortnite Chapter 4 Season 1 ends](https://www.sportskeeda.com/fortnite/every-free-reward-can-get-fortnite-chapter-4-season-1-ends)
+
+
+> Fortnite Chapter 4 Season 1 is almost over, with a few weeks remaining until the next season hits the game. Players got dropped onto a new island this season, introduced to Oathbound and the new weapons they brought, and experienced the Reality Augmentation system that finally established a class system in the ongoing Battle Royale. Additionally, players saw an exciting Battle Pass this season that gave players some of the best Fortnite cosmetics they had ever received, with characters like Doom Slayer and Geralt of Rivia as collab skins.
+
+
+***
+![Cancel your Spotify subscription: The easy steps to follow in 2 minutes](https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt8e557ed0874cc47f/63ea05f7075bb95832402ff6/Portadas_13_de_febrero_2023.png "Cancel your Spotify subscription: The easy steps to follow in 2 minutes")
+
+
+[Cancel your Spotify subscription: The easy steps to follow in 2 minutes](https://www.world-today-news.com/cancel-your-spotify-subscription-the-easy-steps-to-follow-in-2-minutes/)
+
+
+> Deploy the table of contents Whether for economic reasons or just out of curiosity, you can decide to cancel your Spotify subscription. If you want to cancel your subscription and regain your freedom, knowing the steps to follow is essential. Canceling your Spotify subscription: the steps Canceling a Spotify subscription is relatively simple, but it still requires some knowledge of the service. You must locate the Spotify account you subscribed to and deactivate it to cancel your subscription.
+
+
+***
+![Alfa Romeo may introduce their next supercar in June](https://www.carmag.co.za/wp-content/uploads/2023/02/AR-1-1-jpg.webp "Alfa Romeo may introduce their next supercar in June")
+
+
+[Alfa Romeo may introduce their next supercar in June](https://www.carmag.co.za/news/rumours/alfa-romeo-may-introduce-their-next-supercar-in-june/)
+
+
+> Alfa Romeo Giulia Alfa Romeo is celebrating two momentous milestones this year; the centenary of the Quadrifoglio badge and 60 years of the Autodelta subdivision but there may be a pleasant surprise that will be revealed at the anniversary celebrations in the middle of the year. Image: Yash Upadhyay The latest press release from Alfa Romeo honours the legacy of two iconic symbols to the Italian automaker; the Quadrifoglio (four-leaf clover) and the Autodelta emblem but the first clue to a hotly anticipated supercar may have also been revealed.
+
+
+***
+![How do you do it?.. Fix the problem that applications could not be installed from the Microsoft Store](https://damespraatjes.nl/wp-content/uploads/2023/02/Wat-is-quercetine.jpg "How do you do it?.. Fix the problem that applications could not be installed from the Microsoft Store")
+
+
+[How do you do it?.. Fix the problem that applications could not be installed from the Microsoft Store](https://www.world-today-news.com/how-do-you-do-it-fix-the-problem-that-applications-could-not-be-installed-from-the-microsoft-store/)
+
+
+> Some users encounter a problem while installing various applications on Windows computers, while using it to install an application, and an alert (This app couldn't be installed), and this can happen with a specific application or all applications that you want to download. You can quickly fix common Microsoft Store problems using the troubleshooter tool (Troubleshooter), as this tool built into the Windows operating system helps in troubleshooting, as it can scan and fix problems that prevent the Microsoft Store from installing applications.
+
+
+***
+![Apple Releases Fix for iOS 16.3.1 iCloud Issues – Research Snipers](https://researchsnipers.com/wp-content/uploads/2017/11/icloud-100708260-orig.jpg "Apple Releases Fix for iOS 16.3.1 iCloud Issues – Research Snipers")
+
+
+[Apple Releases Fix for iOS 16.3.1 iCloud Issues – Research Snipers](https://researchsnipers.com/apple-releases-fix-for-ios-16-3-1-icloud-issues)
+
+
+> Apple has released a number of new software updates for iPhone and iPad owners, among others. New iOS version 16.3.1 fixes iCloud settings issues and improves iPhone 14 crash detection. iPhone and iPad users will now receive a new update for iOS 16 with device-specific changes. According to the first information, the new iOS version brings bug fixes for the app connection to the iCloud, for 'Where is?' and for the kernel. In the release notes, Apple also mentions optimized accident detection for the new iPhone 14 and iPhone 14 Pro models.
+
+
+***
+![Impressive RTX 4060 laptop GPU performs on par with RTX 3070 Ti laptop and beats RTX 3060 mobile by 27% in preliminary review](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/NVIDIA_RTX4060_LAPTOP_GPU_COMPARISON_10.jpg "Impressive RTX 4060 laptop GPU performs on par with RTX 3070 Ti laptop and beats RTX 3060 mobile by 27% in preliminary review")
+
+
+[Impressive RTX 4060 laptop GPU performs on par with RTX 3070 Ti laptop and beats RTX 3060 mobile by 27% in preliminary review](https://www.notebookcheck.net/Impressive-RTX-4060-laptop-GPU-performs-on-par-with-RTX-3070-Ti-laptop-and-beats-RTX-3060-mobile-by-27-in-preliminary-review.693503.0.html)
+
+
+> ThunderRobot Zero laptop features an Intel Core i9-13900HX and a GeForce RTX 4060 laptop GPU. (Source: ) The RTX 4060 laptop GPU is set to appear later this month. Based on the AD107 'Lovelace' GPU, the card packs 3,072 CUDA cores, 8 GB of VRAM, a 128-bit memory bus, and a TGP of up to 115 W. Although Nvidia has yet to lift the embargo on the RTX 4060, a Chinese reviewer going by the name of 'Zhongzheng Evaluations' has already put the GPU through its paces. GPU Geforce Laptop Leaks / Rumors Nvidia announced the RTX 4060, RTX 4070 and RTX 4050 laptop GPUs for mid-range notebooks at CES 2023.
+
+
+***
+![Team Fortress 2 is getting a major update – 16 years after its release](https://www.sweclockers.com/artikel/35750/og-image "Team Fortress 2 is getting a major update – 16 years after its release")
+
+
+[Team Fortress 2 is getting a major update – 16 years after its release](https://www.world-today-news.com/team-fortress-2-is-getting-a-major-update-16-years-after-its-release/)
+
+
+> Team Fortress 2 has been a regular long-runner at Valve. The game was released in 2007 and players have been enjoying updates, big and small, ever since. About six years ago, major updates stopped and players have only been able to experience minor tweaks. Now it's time to hit the big drum again as Team Fortress 2 will get a proper update this summer. The last few Team Fortress summer events have only been item updates. But this year, we're planning on shipping a full-on update-sized update — with items, maps, taunts, unusual effects, war paints and who knows what else?! Which means we need Steam Workshop content! YOUR Steam Workshop content! Specifically what the update is expected to contain remains to be seen, but off the blog post judging by the fact that there is an extensive amount of news that refreshes the gaming experience.
+
+
+***
+![Eurostar forces 'password resets' — then fails and locks users out](https://www.bleepstatic.com/content/hl-images/2021/12/06/eurostar.jpg "Eurostar forces 'password resets' — then fails and locks users out")
+
+
+[Eurostar forces 'password resets' — then fails and locks users out](https://www.bleepingcomputer.com/news/security/eurostar-forces-password-resets-then-fails-and-locks-users-out/)
+
+
+> International high-speed rail operator, Eurostar, is emailing its users this week and forcing them to reset their account passwords in a bid to "upgrade" security. But users who visit the password reset link  are met with "technical problems," thereby making it impossible for them to reset their password or log in to their accounts. Eurostar is well known for connecting the United Kingdom to France, Belgium, and Netherlands with most of its trains crossing the Channel Tunnel. Eurostar password reset bug is locking passengers out Eurostar is emailing all its customers this week, forcing them to reset their account passwords as the railway operator claims to be "busy" upgrading account security for everyone.
+
+
+***
+![Piaggio Vehicles announces entry of Ape Electrik 3-wheeler in Philippines](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_56_2660097.png?width=920&format=jpeg "Piaggio Vehicles announces entry of Ape Electrik 3-wheeler in Philippines")
+
+
+[Piaggio Vehicles announces entry of Ape Electrik 3-wheeler in Philippines](https://www.devdiscourse.com/article/technology/2354047-piaggio-vehicles-announces-entry-of-ape-electrik-3-wheeler-in-philippines)
+
+
+> PTI | Mumbai | Updated: 14-02-2023 12:02 IST | Created: 14-02-2023 12:02 IST Piaggio Vehicles Pvt Ltd (PVPL), the Indian subsidiary of Italian auto major Piaggio Group, on Tuesday announced the entry of its electric three-wheeler Ape Electrik in the Philippines for last-mile mobility. The electric three-wheeler will be manufactured at PVPL's Baramati manufacturing facility in Maharashtra. ''For Piaggio Vehicles, entry into the Philippines is a stepping-stone towards accelerating the adoption of EVs across the world and towards a sustainable planet.
+
+
+***
+![Hogwarts Legacy: How To Breed Beasts](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/collage-maker-14-feb-2023-12-53-am.jpg "Hogwarts Legacy: How To Breed Beasts")
+
+
+[Hogwarts Legacy: How To Breed Beasts](https://gamerant.com/hogwarts-legacy-how-breed-beasts-nature-of-the-beast/)
+
+
+> Hogwarts Legacy allows its players to experience a completely new side of the wizarding world. The main story follows a young fifth-year student during their first year at Hogwarts School of Witchcraft and Wizardry, and though much of the game requires them to attend class, they are also permitted to forge their own path if they wish. Hogwarts Legacy is full of optional content that further enhances the game's world and lets players shape their own stories. That said, certain activities only become available by progressing the plot and unlocking new features.
+
+
+***
+![Vivo Y56 India price, launch date and live images leaked](https://future-news.net/wp-content/uploads/2023/02/تسريب-سعر-Vivo-Y56-في-الهند-وتاريخ-الإطلاق-والصور-الحية.jpg "Vivo Y56 India price, launch date and live images leaked")
+
+
+[Vivo Y56 India price, launch date and live images leaked](https://www.world-today-news.com/vivo-y56-india-price-launch-date-and-live-images-leaked/)
+
+
+> The Vivo Y56 will be a 5G offering from the brand and will be looking to pick up phones from Redmi, Realme, and Motorola. Check Vivo Y56 price, design and much more. Vivo Y56 India price, launch date Vivo Y56 will be launched in India on February 15, i.e. tomorrow. The phone must be available via offline stores. As for the price, Paras says the Vivo Y56 will be priced at Rs 18,999 for the base model. There may be launch offers. Vivo Y56 design Vivo Y56 has a very familiar design. There is a waterdrop notch on the front for selfies and a large bezel at the bottom of the screen.
+
+
+***
+![CheQ gears up for public launch after successful beta campaign](https://ibsintelligence.com/wp-content/uploads/2022/11/CheQ.jpg "CheQ gears up for public launch after successful beta campaign")
+
+
+[CheQ gears up for public launch after successful beta campaign](https://ibsintelligence.com/ibsi-news/5cheq-gears-up-for-public-launch-after-successful-beta-campaign/)
+
+
+> Today Bengaluru-based FinTech start-up , CheQ Digital Pvt Ltd, has announced the public launch of its flagship app, after a successful beta campaign that saw it clock INR 60 Crore worth of transactions in 30 days. Users will now be able to download the app (available on Android & iOS) and join a waitlist. Once on the waitlist, they can unlock early access by referring 2 more users to the app. To incentivize early adopters, the company is offering 100 CheQ Chips as a signup bonus and an additional 100 chips on every successful referral.
+
+
+***
+![Toyota and Nintendo Sweepstakes to Provide 500 Grand Highlander Customers with a Switch OLED Model and Mario Kart 8 Deluxe](https://gonintendo.com/attachments/image/23206/file/medium-18f6f52423cc411b29eca70c3906ebf9.webp "Toyota and Nintendo Sweepstakes to Provide 500 Grand Highlander Customers with a Switch OLED Model and Mario Kart 8 Deluxe")
+
+
+[Toyota and Nintendo Sweepstakes to Provide 500 Grand Highlander Customers with a Switch OLED Model and Mario Kart 8 Deluxe](https://gonintendo.com/contents/16215-toyota-and-nintendo-sweepstakes-to-provide-500-grand-highlander-customers-with-a)
+
+
+> The 2024 Toyota Grand Highlander, which made its world premiere hours before the opening day of the Chicago Auto Show, is bringing even more road-trip adventures to its customers in partnership with Nintendo. Once on-sale in Summer 2023, 500 customers will receive a Nintendo Switch – OLED Model system and a Mario Kart 8 Deluxe game. With the Nintendo Switch – OLED Model, 500 Grand Highlander customers will also receive a Mario Kart 8 Deluxe game, which allows them to hit the road anytime, anywhere.
+
+
+***
+![As ChatGPT's popularity explodes, US lawmakers take an interest](https://image-prod.iol.co.za/resize/650x366/ChatGPT-was-estimated-to-have-reached-100-million-monthly-active-users-just-two-months-after-launch-FILE-PHOTO-Lionel-BONAVENTURE-AFP?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/6dae620a-4801-5a27-9c1d-2f6e554c284d&operation=CROP&offset=0x411&resize=7885x4435 "As ChatGPT's popularity explodes, US lawmakers take an interest")
+
+
+[As ChatGPT's popularity explodes, US lawmakers take an interest](https://www.iol.co.za/technology/software-and-internet/as-chatgpts-popularity-explodes-us-lawmakers-take-an-interest-dd2302bc-06e5-5817-88ca-775b61a36d94)
+
+
+> By Diane Bartz ChatGPT, a fast-growing artificial intelligence program praised for its ability to write answers quickly to a wide range of queries, has attracted US lawmakers' attention with questions about its impact on national security and education. Story continues below Advertisement ChatGPT was estimated to have reached 100 million monthly active users just two months after launch, making it the fastest-growing consumer app in history, and a growing target for regulation. It was created by OpenAI, a private company backed by Microsoft Corp, and made available to the public for free.
+
+
+***
+![Destiny 2 server maintenance and expected downtime (February 14)](https://staticg.sportskeeda.com/editor/2023/02/03d37-16763556852356-1920.jpg "Destiny 2 server maintenance and expected downtime (February 14)")
+
+
+[Destiny 2 server maintenance and expected downtime (February 14)](https://www.sportskeeda.com/esports/news-destiny-2-server-maintenance-expected-downtime-february-14)
+
+
+> Destiny 2 servers will be taken offline just before the February 14 weekly reset as Bungie prepares to roll out a hotfix, seasonal epilog, and more content. The upcoming downtime will ensure that everything goes well during the launch, as Season 19 hasn't been the smoothest ride for the community. Players worldwide will be logged out from official servers at around 8:45 am PST, which is 15 minutes before the reset. The hotfix scheduled for release is titled 6.3.0.9, and official patch notes will be revealed a few minutes after the reset goes live.
+
+
+***
+![Cleaning the kitchen is a great way to burn calories, research claims](https://www.diabetes.co.uk/wp-content/uploads/2023/02/kitchen-clean-1000x600.jpg "Cleaning the kitchen is a great way to burn calories, research claims")
+
+
+[Cleaning the kitchen is a great way to burn calories, research claims](https://www.diabetes.co.uk/news/2023/feb/cleaning-the-kitchen-is-a-great-way-to-lose-calories-research-claims.html)
+
+
+> Deep cleaning the kitchen burns more calories than dancing, latest evidence has indicated. A team of researchers have found that scrubbing the kitchen for approximately 50 minutes is better for weight loss than ballroom dancing for the same length of time. In addition, they have discovered that cleaning the kitchen is better than tackling any other room when it comes to burning calories. According to the research results, people burn around 276 calories alone when cleaning the kitchen. Scrubbing the bathroom burns 173 calories, while blitzing a bedroom burns around 154 calories, the findings have found.
+
+
+***
+![Tinder offers new functionality: meet the ‘incognito mode'](https://multiversonoticias.com.br/wp-content/uploads/2022/02/Tinder-videochiamate-HTNovo.net_.jpg "Tinder offers new functionality: meet the ‘incognito mode'")
+
+
+[Tinder offers new functionality: meet the ‘incognito mode'](https://www.world-today-news.com/tinder-offers-new-functionality-meet-the-incognito-mode/)
+
+
+> Last Tuesday (7), the relationship application Tinder made updates to its platform, which will be accessible to Plus, Gold and Platinum package users. But among the most interesting updates is the Incognito Mode, which offers more privacy to users who subscribe to the premium package. With this, the intention when offering the incognito mode is to allow the user to be invisible and only appear to people who have received likes from him. In this way, the user, in addition to increasing the probability of match ends up avoiding profiles of family members, co-workers and ex-partners.
+
+
+***
+![10 Best Games To Play On Your Android Smartphone](https://images.augustman.com/wp-content/uploads/sites/4/2023/02/14100130/smartphones.jpeg "10 Best Games To Play On Your Android Smartphone")
+
+
+[10 Best Games To Play On Your Android Smartphone](https://www.augustman.com/th/gear/tech/best-games-to-play-on-your-android-smartphone)
+
+
+> From spending countless hours at the local arcade and playing FIFA and Call of Duty on our favourite gaming consoles to now finally being able to play high-end, graphic-heavy games on our iOS and Android smartphones, we have come a long way. So, whether you're heading for your morning commute or just wish to have some fun after a long and tiring week at work, installing some great games on your smartphone is a smart idea. Besides, who doesn't love the spike of confidence that comes every time one wins an online match or levels up and unlocks new bonuses? If you're specifically looking for a series of interesting Android games that challenge you in unexpected ways, then you're at the right place.
+
+
+***
+![Google didn't think its Bard AI was 'really ready' for a product yet, says Alphabet chairman, days after the chatbot's very public mistake tanked the company's stock](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17sogY.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=248&y=242 "Google didn't think its Bard AI was 'really ready' for a product yet, says Alphabet chairman, days after the chatbot's very public mistake tanked the company's stock")
+
+
+[Google didn't think its Bard AI was 'really ready' for a product yet, says Alphabet chairman, days after the chatbot's very public mistake tanked the company's stock](http://www.msn.com/en-us/news/technology/google-didn-t-think-its-bard-ai-was-really-ready-for-a-product-yet-says-alphabet-chairman-days-after-the-chatbot-s-very-public-mistake-tanked-the-company-s-stock/ar-AA17sq2O)
+
+
+> OpenAI's ChatGPT and similar AI tools may not replace jobs anytime soon. But they can help workers across many industries – from tech to media – do their jobs better and more quickly. "It's almost like a bit of a productivity boost that some of these occupations might get," Anu Madgavkar, a partner at economic research firm McKinsey Global Institute, told Insider. The buzzy conversational chatbot – which attracted one million users soon after its launch last November – has been used to generate real estate advice, provide tips on how to start a business, and even write music in the style of individual artists, all with varying levels of success.
+
+
+***
+![Nothing CEO Carl Pei reviews flagship smartphone of its former company, OnePlus: ‘No real identity'](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/14/2572783-oneplus-11.png "Nothing CEO Carl Pei reviews flagship smartphone of its former company, OnePlus: ‘No real identity'")
+
+
+[Nothing CEO Carl Pei reviews flagship smartphone of its former company, OnePlus: ‘No real identity'](https://www.dnaindia.com/technology/report-nothing-ceo-carl-pei-reviews-flagship-smartphone-of-its-former-company-oneplus-no-real-identity-3023607)
+
+
+> OnePlus 11 Nothing CEO Carl Pei is quite popular among the tech community for his witty tweets and straight opinions. Currently known for his latest smartphone Nothing Phone (1), Pei also co-founded the company, OnePlus. The entrepreneur was the director of OnePlus till 2020 before he left to start Nothing. Unlike other tech CEOs, Carl Pei is quite open about what he thinks about other tech players. Pei recently shared his opinions about the Apple iPhone 14 Pro and now CEO of UK-based tech startup has now reviewed the OnePlus 11.
+
+
+***
+![TechNVision Ventures reports consolidated net loss of Rs 3.96 crore in the December 2022 quarter](https://bsmedia.business-standard.com/_media/bs/img/article/default/1230214/full-123021400659.jpg "TechNVision Ventures reports consolidated net loss of Rs 3.96 crore in the December 2022 quarter")
+
+
+[TechNVision Ventures reports consolidated net loss of Rs 3.96 crore in the December 2022 quarter](https://www.business-standard.com/article/news-cm/technvision-ventures-reports-consolidated-net-loss-of-rs-3-96-crore-in-the-december-2022-quarter-123021400659_1.html)
+
+
+> Sales rise 21.51% to Rs 37.40 crore Net loss of TechNVision Ventures reported to Rs 3.96 crore in the quarter ended December 2022 as against net profit of Rs 12.65 crore during the previous quarter ended December 2021. Sales rose 21.51% to Rs 37.40 crore in the quarter ended December 2022 as against Rs 30.78 crore during the previous quarter ended December 2021.37.4030.78-9.6843.11-3.6713.21-3.8912.98-3.9612.65 Powered by Capital Market - Live News (This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.
+
+
+***
+![Reports: T-Mobile users experience service outages across US](https://bloximages.chicago2.vip.townnews.com/muscatinejournal.com/content/tncms/assets/v3/editorial/6/1b/61b2b61c-6dea-5e8d-89df-b00601b104ee/63eb274e73497.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Reports: T-Mobile users experience service outages across US")
+
+
+[Reports: T-Mobile users experience service outages across US](https://muscatinejournal.com/lifestyles/technology/reports-t-mobile-users-experience-service-outages-across-us/article_5f440eef-57c3-5fa1-ac03-b5ba44686ac8.html)
+
+
+> Facebook Twitter WhatsApp SMS Email Print Copy article link Save AP BELLEVUE, Wash. (AP) — Customers of wireless provider T-Mobile US Inc. reported widespread service outages in the U.S. late Monday, according to websites tracking service interruptions. Posts on Downdetector.com and Product-Reviews.net indicated T-Mobile service outages in multiple areas of the country. Many Twitter users also reported outages. Numerous posts by users said their service had been changed to 'SOS mode,' meaning they were not directly connected to a network but could still make emergency calls.
+
+
+***
+![Reports: T-Mobile users experience service outages across US](https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/3/da/3da8d2c4-23bb-5514-87cc-efd99a2dc325/63eb26f9e5021.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Reports: T-Mobile users experience service outages across US")
+
+
+[Reports: T-Mobile users experience service outages across US](https://siouxcityjournal.com/lifestyles/technology/reports-t-mobile-users-experience-service-outages-across-us/article_767d338d-7b57-53fb-a74e-f4d8b4c8a8f9.html)
+
+
+> AP BELLEVUE, Wash. (AP) — Customers of wireless provider T-Mobile US Inc. reported widespread service outages in the U.S. late Monday, according to websites tracking service interruptions. Posts on Downdetector.com and Product-Reviews.net indicated T-Mobile service outages in multiple areas of the country. Many Twitter users also reported outages. Numerous posts by users said their service had been changed to 'SOS mode,' meaning they were not directly connected to a network but could still make emergency calls.
+
+
+***
+![Two new distribution codes shared for Pokémon Scarlet/Violet](https://gonintendo.com/attachments/image/23205/file/medium-83bc9d9fd954c68accaa5b26bccbea7f.jpg "Two new distribution codes shared for Pokémon Scarlet/Violet")
+
+
+[Two new distribution codes shared for Pokémon Scarlet/Violet](https://gonintendo.com/contents/16214-two-new-distribution-codes-shared-for-pokemon-scarlet-violet)
+
+
+> Free Valentine's Day goodies Who doesn't love free goodies? If you're a Pokémon Scarlet or Violet player, you've actually got some gifts waiting for you completely free of charge! Make sure you jump on these soon, as they won't last forever. The first code will give Trainers 2 Love Balls. Just hop into the game and input the code L0VEL0VEL0VE to snag your gift. After that, why not redeem a code for a free Destiny Knot? You can add that item to your collection with the code HAPPYVALENT1NE.
+
+
+***
+![How to personalize your Snapchat experience with bitmoji!](https://seneactu.net/wp-content/uploads/2023/02/How-To-Add-And-Use-Bitmoji-On-Snapchat.jpg "How to personalize your Snapchat experience with bitmoji!")
+
+
+[How to personalize your Snapchat experience with bitmoji!](https://www.world-today-news.com/how-to-personalize-your-snapchat-experience-with-bitmoji/)
+
+
+> Deploy the table of contents You've probably noticed that many Snapchat users are more personalized than ever thanks to Bitmoji. Bitmoji are personalized digital avatars that can be used in apps like Snapchat, Messenger, and Gmail. They allow users to create a visual representation of their digital identity and can be used to share personalized content with friends and family. Discover the features of Bitmoji Bitmoji are a very powerful feature that allows users to personalize their Snapchat experience.
+
+
+***
+![Jillmeila joins OCTOPATH TRAVELER: Champions of the Continent](https://gonintendo.com/attachments/image/23204/file/medium-8968a4995274c3026a8226f551d77275.jpg "Jillmeila joins OCTOPATH TRAVELER: Champions of the Continent")
+
+
+[Jillmeila joins OCTOPATH TRAVELER: Champions of the Continent](https://gonintendo.com/contents/16213-jillmeila-joins-octopath-traveler-champions-of-the-continent)
+
+
+> Back in July of 2022, OCTOPATH TRAVELER: Champions of the Continent was released for mobile platforms. Since then, it's been offering new stories for brand-new characters, all within the world of the mainline franchise. A new Champion has been revealed for the game, and players will be able to meet them soon. Introducing Jillmeila, a member of Riven's royal guard and one of the most distinguished hunters. Play OCTOPATH TRAVELER: Champions of the Continent for FREE to add Jillmeila to your Band of 8! modal#open commentUpvoteInfoModal.
+
+
+***
+![Apple Reportedly Plans To Launch 15.5-inch MacBook Air in April](https://www.gizmochina.com/wp-content/uploads/2023/02/Apple-MacBook-Air-2022.jpeg "Apple Reportedly Plans To Launch 15.5-inch MacBook Air in April")
+
+
+[Apple Reportedly Plans To Launch 15.5-inch MacBook Air in April](https://www.gizmochina.com/2023/02/14/apple-15-inch-macbook-air-launch-soon)
+
+
+> Apple has been rumored to be working on a larger-screen MacBook Air for some time, and now it appears that the company is gearing up to launch the new device soon. As per the new report from DSCC analyst Ross Young, the company has started panel production of the 15.5-inch MacBook Air this month, suggesting that the device may launch in early April. Earlier, Ross Young, as well as Bloomberg, reported about the possibility of a 15-inch MacBook Air getting launched in Spring this year but the exact launch date remains unknown.
+
+
+***
+![The first 24 minutes of fantasy action Wild Hearts](https://cdn.shazoo.ru/673889_U9sfCAX_vdqxb1clbi.jpg "The first 24 minutes of fantasy action Wild Hearts")
+
+
+[The first 24 minutes of fantasy action Wild Hearts](https://www.world-today-news.com/the-first-24-minutes-of-fantasy-action-wild-hearts/)
+
+
+> IGN has published the first 24 minutes of a fantasy action game about hunting monsters in the setting of feudal Japan Wild Hearts. During this time, you can have time to chat with the characters, create your own hero and fight several enemies. Wild Hearts — action game that many call a clone of Monster Hunter. In the game, you can also hunt various monsters and do other things. The local game world was named Azuma, and the evolved animals and other living creatures were called Kemono. In Wild Hearts, players will be able to use karakuri technology to change the battlefield with buildings and devices, as well as move around the world.
+
+
+***
+![Rumors swirl about balloons, UFOs as officials stay mum](https://bloximages.chicago2.vip.townnews.com/fremonttribune.com/content/tncms/assets/v3/editorial/8/42/842f6bcf-245a-597d-8542-ec3b9eedaa34/63eb1caf2a1b9.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Rumors swirl about balloons, UFOs as officials stay mum")
+
+
+[Rumors swirl about balloons, UFOs as officials stay mum](https://fremonttribune.com/lifestyles/technology/rumors-swirl-about-balloons-ufos-as-officials-stay-mum/article_22a3d9af-b62f-5b18-8568-3fdf9c52aaf6.html)
+
+
+> By DAVID KLEPPER - Associated Press WASHINGTON (AP) — Maybe they came from China. Maybe from somewhere farther away. A lot farther away. The downing of four aerial devices by U.S. warplanes has touched off rampant misinformation about the objects, their origin and their purpose, showing how complicated world events and a lack of information can quickly create the perfect conditions for unchecked conjecture and misinformation. The presence of mysterious objects high in the sky doesn't help. 'There will be an investigation and we will learn more, but until then this story has created a playground for people interested in speculating or stirring the pot for their own reasons," said Jim Ludes, a former national defense analyst who now leads the Pell Center for International Relations at Salve Regina University.
+
+
+***
+![Rumors swirl about balloons, UFOs as officials stay mum](https://bloximages.chicago2.vip.townnews.com/muscatinejournal.com/content/tncms/assets/v3/editorial/8/7a/87a0d89f-70f0-56b4-8f9a-72a327e8e4c1/63eb1c8d9b394.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Rumors swirl about balloons, UFOs as officials stay mum")
+
+
+[Rumors swirl about balloons, UFOs as officials stay mum](https://muscatinejournal.com/lifestyles/technology/rumors-swirl-about-balloons-ufos-as-officials-stay-mum/article_d2665c00-6300-5012-ab22-2b0555978bd8.html)
+
+
+> By DAVID KLEPPER - Associated Press WASHINGTON (AP) — Maybe they came from China. Maybe from somewhere farther away. A lot farther away. The downing of four aerial devices by U.S. warplanes has touched off rampant misinformation about the objects, their origin and their purpose, showing how complicated world events and a lack of information can quickly create the perfect conditions for unchecked conjecture and misinformation. The presence of mysterious objects high in the sky doesn't help. 'There will be an investigation and we will learn more, but until then this story has created a playground for people interested in speculating or stirring the pot for their own reasons," said Jim Ludes, a former national defense analyst who now leads the Pell Center for International Relations at Salve Regina University.
+
+
+***
+![1Password is trying for zero passwords](https://www.businessghana.com/site/img/logo.png "1Password is trying for zero passwords")
+
+
+[1Password is trying for zero passwords](https://www.businessghana.com/)
+
+
+> 1Password is announcing today that, one day soon, it will support the option to create and unlock 1Password accounts using biometric-based passkey technology, ditching the feature that is the name of its entire product. 'For passkeys to be the way forward, it's not enough for them to replace some of your passwords,' said 1Password chief product officer Steve Won. 'They have to be able to replace all passwords – including the one you use to unlock 1Password.' This follows the password manager's announcement in November last year, where it revealed customers will be able to securely log in to apps and websites through its platform using passkeys sometime in 'early 2023.
+
+
+***
+![Here's how Android 14 will play nicely with third-party app stores](https://www.androidauthority.com/wp-content/uploads/2022/06/Update-all-option-on-Google-Play-Store-app-for-Android-1.jpg "Here's how Android 14 will play nicely with third-party app stores")
+
+
+[Here's how Android 14 will play nicely with third-party app stores](https://www.androidauthority.com/android-14-third-party-app-stores-3283004/)
+
+
+> Edgar Cervantes / Android Authority TL;DR Android 14 will offer several features for third-party app stores. These features will allow for more streamlined app updates via alternative stores. For starters, there's a new API that lets third-party app stores perform so-called gentle updates. These are updates that are performed without interrupting the user experience. More specifically, the API can be used to delay an app update if the app is in use, is on-screen, has an active foreground service, or is in a phone call.
+
+
+***
+![Consultancy and IT firm CGI to bring 50 jobs to Northern Ireland](https://www.siliconrepublic.com/wp-content/uploads/2020/10/AdobeStock_207358875.jpeg "Consultancy and IT firm CGI to bring 50 jobs to Northern Ireland")
+
+
+[Consultancy and IT firm CGI to bring 50 jobs to Northern Ireland](https://www.siliconrepublic.com/jobs-news/cgi-consultancy-jobs-tech-northern-ireland)
+
+
+> CGI will have a consultancy hub in Belfast and its Northern Ireland hires will be able to avail of flexible working practices. Canada-headquartered IT and business consulting giant CGI is planning to expand into Northern Ireland. The firm is recruiting staff for its consulting centre which will be based in the region. A total of 50 roles are being added with 16 of these already in place. CGI is looking for people with various experience levels for roles from graduate to senior consultant.
+
+
+***
+[FINEOS Announces Veteran Executive as New CFO](http://www.businesswire.com/news/home/20230213005023/en/FINEOS-Announces-Veteran-Executive-as-New-CFO/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)-- #digitaltransformation--FINEOS, a leading global provider of end-to-end core solutions for the Life, Accident and Health industry, names Ian Lynagh its new CFO.
+
+
+***
+![Hogwarts Legacy boycott. The storm around JK Rowling continues](https://s.lubimyczytac.pl/upload/texts/18800/18862/18862_1676293945_grafika800x600.jpg "Hogwarts Legacy boycott. The storm around JK Rowling continues")
+
+
+[Hogwarts Legacy boycott. The storm around JK Rowling continues](https://www.world-today-news.com/hogwarts-legacy-boycott-the-storm-around-jk-rowling-continues/)
+
+
+> 'Hogwarts Legacy' is an open- world action RPG set in a world created by J.K. Rowling Harry Potter universe in which we play the role of a young wizard or sorceress who hits the nineteenth century to the School of Witchcraft and Wizardry. A bit of information about the project study Avalanche Software heralded an impressive momentum, and the hopes of fans were cleverly fueled by subsequent trailers. The first gameplays seemed to confirm that the production would not fail, and the release date should be marked with a red marker in the calendar of all potterheads.
+
+
+***
+![Best free remote desktop software of 2023](https://cdn.mos.cms.futurecdn.net/BWBeAxrLrBFHHdNreUhfgW-1200-80.jpg "Best free remote desktop software of 2023")
+
+
+[Best free remote desktop software of 2023](https://www.techradar.com/best/best-free-remote-desktop-software)
+
+
+> Do you ever need to access your work computer or another device from home and you just don't know how?  Remote desktop software (opens in new tab) is designed to allow you to connect, access, and take over two or more devices from one computer.  Depending on the software you use, you may need to install it on both the computer you want to remotely access, also called the host, and the computer you are accessing it from, which is also called the client. Other software may only need you to install on the host.
+
+
+***
+![Pokemon Scarlet and Violet: What are the best counters for Tandemaus Tera Raid?](https://staticg.sportskeeda.com/editor/2023/02/daaf3-16763508323837-1920.jpg "Pokemon Scarlet and Violet: What are the best counters for Tandemaus Tera Raid?")
+
+
+[Pokemon Scarlet and Violet: What are the best counters for Tandemaus Tera Raid?](https://www.sportskeeda.com/pokemon/pokemon-scarlet-violet-what-best-counters-tandemaus-tera-raid)
+
+
+> Tandemaus is the Tera Raid Boss for the special Valentine's Day-themed event in Pokemon Scalet and Violet. The event started on February 12, 2023, at 4:00 pm PST and will continue until February 14, 2023, at 3:59 pm PST. During this event, Tandemaus will appear more frequently in Tera Raids. The Pocket Monster will have different Tera Types during the event. Players will be able to fight it by interacting with unique Tera Raid crystals in the overworld of the games. Serebii Update: The latest Pokémon Scarlet & Violet Tera Raid Battle event has begun.
+
+
+***
+![WWE Superstars The Miz and Seth Rollins get into a Super Mario spat](https://gonintendo.com/attachments/image/23203/file/medium-65bb898c03ab387823df6ab0a03e9599.png "WWE Superstars The Miz and Seth Rollins get into a Super Mario spat")
+
+
+[WWE Superstars The Miz and Seth Rollins get into a Super Mario spat](https://gonintendo.com/contents/16212-wwe-superstars-the-miz-and-seth-rollins-get-into-a-super-mario-spat)
+
+
+> The worlds of wrestling and videogames cross over more than you'd think. The crowd is always filled with gaming-related signs, plenty of today's wrestlers are big gamers, and sometimes gaming even becomes a topic during a promo. That's exactly what happened on the latest episode of WWE Monday Night RAW. Seth 'Freakin'' Rollins has become known in recent years for his flamboyant fashion sense, as he's always wearing something eye-catching. That was the case with his most recent appearance, where he was wearing the ‘Big Red Boots' from MSCHF, which have been the talk of the fashion world lately.
+
+
+***
+![WhatsApp update! Your group calls feature set to change forever](https://images.hindustantimes.com/tech/img/2023/02/14/1600x900/whatsappp_1676354033291_1676354041307_1676354041307.jpg "WhatsApp update! Your group calls feature set to change forever")
+
+
+[WhatsApp update! Your group calls feature set to change forever](https://tech.hindustantimes.com/tech/news/whatsapp-update-your-group-calls-feature-set-to-change-forever-71676353794465.html)
+
+
+> WhatsApp is planning to bring out a ton of new features for its users to take advantage of! These features are first issued to Beta users who test it for stability and performance, before being rolled out to every WhatsApp user. Voice calling is one of the best features introduced by developers as it lets you call your contacts using WhatsApp for free, even if they're in another country. Now, WhatsApp is planning to bring out additional features to the voice calling functionality. At the moment, group calling allows up to 32 participants to join a WhatsApp group voice call but you cannot schedule it.
+
+
+***
+![Game Pass: How Xbox Game Pass may have reduced base game sales](https://static.toiimg.com/thumb/msid-97905678,width-1070,height-580,imgsize-55210,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Game Pass: How Xbox Game Pass may have reduced base game sales")
+
+
+[Game Pass: How Xbox Game Pass may have reduced base game sales](https://timesofindia.indiatimes.com/gadgets-news/how-xbox-game-pass-may-have-reduced-base-game-sales/articleshow/97905642.cms)
+
+
+> News Gadgets News News How Xbox Game Pass may have reduced base game sales FOLLOW US ON SOCIAL MEDIA Facebook Twitter Instagram KOO APP YOUTUBE
+
+
+***
+![⚡Apple Security Update: Tech Giant Releases Bug Fix for iPhone, iPad Exploited by Hackers](https://st1.latestly.com/wp-content/uploads/2022/12/resize-22-3.jpg "⚡Apple Security Update: Tech Giant Releases Bug Fix for iPhone, iPad Exploited by Hackers")
+
+
+[⚡Apple Security Update: Tech Giant Releases Bug Fix for iPhone, iPad Exploited by Hackers](https://www.latestly.com/quickly/technology/apple-security-update-tech-giant-releases-bug-fix-for-iphone-ipad-exploited-by-hackers-4839035.html)
+
+
+> Apple has issued a new security update to fix a vulnerability in iPhone and iPad's operating systems that hackers have been exploiting in the wild.
+
+
+***
+![Samsung partners with Natural Cycles to bring temperature-based cycle tracking to Galaxy Watch5 series](https://fdn.gsmarena.com/imgroot/news/23/02/samsung-natural-cycles-cycle-tracking-galaxy-watch5-series/-952x498w6/gsmarena_001.jpg "Samsung partners with Natural Cycles to bring temperature-based cycle tracking to Galaxy Watch5 series")
+
+
+[Samsung partners with Natural Cycles to bring temperature-based cycle tracking to Galaxy Watch5 series](https://www.gsmarena.com/samsung_galaxy_watch5_watch5_pro_temperature_based_cycle_tracking-news-57538.php)
+
+
+> Samsung has announced its partnership with Natural Cycles - a company known for its FDA-approved birth control app - to bring skin temperature-based cycle tracking to the Samsung Galaxy Watch5 and Galaxy Watch5 Pro . With Samsung's temperature sensor tech and Natural Cycles' fertility technology to give users more detailed insight into their menstrual cycle, Galaxy Watch5 series users will be able to access advanced cycle tracking through the Cycle Tracking feature on the Samsung Health app.
+
+
+***
+![Wordle Today: Hints, Clues and Answer for Wordle 605, February 14](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17sa26.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Wordle Today: Hints, Clues and Answer for Wordle 605, February 14")
+
+
+[Wordle Today: Hints, Clues and Answer for Wordle 605, February 14](http://www.msn.com/en-us/news/technology/wordle-today-hints-clues-and-answer-for-wordle-605-february-14/ar-AA179ZBN)
+
+
+> Wordle, the latest word game from the New York Times, can be both addictive and frustrating. Many of us would love a little assistance getting to the answer. Not cheating -- just a hint or two. To help you out, we're providing tips and clues to solving today's puzzle, Wordle No. 604. Heads up: You'll also find the answer to today's Wordle, in case you just can't bear to break your winning streak. For more on Wordle, check out the best Wordle strategy tips, some ideal starter words and a host of Wordle alternatives.
+
+
+***
+![News, Restaurants](https://g.api.no/obscura/API/dynamic/r1/ece5/tr_2000_2000_s_f/1676284825000/fred/2020/2/18/16/20-02-18-3874.jpg?chk=62A40F "News, Restaurants")
+
+
+[News, Restaurants](https://www.world-today-news.com/news-restaurants-the-sale-of-alcohol-at-cafe-mesanin-will-soon-end/)
+
+
+> – The reason is too little alcohol sales, says the e-mail the cafe has sent Fredrikstad municipality. It was in the autumn of 2021 that Café Mesanin in Østfoldhallen – the eatery located on the 2nd floor of the center – applied for a liquor licence. Got yes in the chairmanship They then stated that there would be a question of pouring from 12.00 to 19.30 on weekdays and from 12.00 to 17.30 on Saturdays. – People ask for it. Many people want something to drink alongside their food, owner Reza Karemi said then.
+
+
+***
+![Is Xiaomi's shine dimming in India?](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-13-153347000.jpg "Is Xiaomi's shine dimming in India?")
+
+
+[Is Xiaomi's shine dimming in India?](http://www.businessghana.com/site/news/Technology/279856/Is-Xiaomi%E2%80%99s-shine-dimming-in-India)
+
+
+> Xiaomi — the company that originally made its name as 'the Apple of China' — broke out of its home market and became a household name in India shortly after its debut in 2014. Its initial, rapid success was with phones, but that gave Chinese company the velocity to take on other product categories, where it became a big player in wearables, smart TVs and IoT devices. Within two years, it was even investing in Indian startups and making a move into consumer lending services. But now, as Beijing-based Xiaomi approaches its ninth year in the country with 200 million smartphones shipped, its earlier mover advantages are eroding: it lost its top position in smartphone shipments in Q4 2022; it faces regulatory pressure in the country amid growing economic tensions between China and India; and it's wound down some of its newer business ventures.
+
+
+***
+![Inside the Battle to Run Fashion's E-Commerce](https://img.businessoffashion.com/resizer/lWe30MCF63JMY2Dssdfuw5RpJto=/1200x630/filters:format(png):quality(70):focal(517x348:527x358)/cloudfront-eu-central-1.images.arcpublishing.com/businessoffashion/7DFLKFXKEFAC3ERMD6ANYW5AVI.png "Inside the Battle to Run Fashion's E-Commerce")
+
+
+[Inside the Battle to Run Fashion's E-Commerce](https://www.businessoffashion.com/articles/technology/shopify-farfetch-salesforce-fashion-ecommerce-platforms/)
+
+
+> When Glossier laid off more than 80 employees last year, mostly from its technology team, the shakeup wasn't just about flagging sales. The brand that made building its own point-of-sale system part of its identity, saying it was more expensive but created a better customer experience, had decided to shift parts of its platform to external partners, according to an internal email seen by Modern Retail . It officially moved to Shopify this past October. 'Shopify is the best at what they do and working with them allows Glossier to achieve our strategic goal of bringing the brand to more people,' Kyle Leahy, Glossier's chief executive, said in an email.
+
+
+***
+![AI is coming to your Bing and Google searches, Apple's M2 chip and Super Bowl streaming](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-13-15345200.jpg "AI is coming to your Bing and Google searches, Apple's M2 chip and Super Bowl streaming")
+
+
+[AI is coming to your Bing and Google searches, Apple's M2 chip and Super Bowl streaming](http://www.businessghana.com/site/news/technology/279857/AI-is-coming-to-your-Bing-and-Google-searches,-Apple%E2%80%99s-M2-chip-and-Super-Bowl-streaming)
+
+
+> Ahoy, all. Welcome back to the latest edition of Week in Review, the newsletter where we point you to some of the most-read TechCrunch stories from the past seven days. Want it in your inbox every Saturday morning (which, not for nothin', used to be cartoon time for this Gen Xer)? Here's the link. And now, let's get on with this week in AI — I mean, this week in tech news. most read Microsoft and AI: This week at a press event, Microsoft CEO Satya Nadella said that 'it's a new day for search.' He was referring to the company's integration of OpenAI's ChatGPT-4 into Bing, its 13-year-old search engine.
+
+
+***
+![As ChatGPT hype hits fever pitch, Neeva launches its generative AI search engine internationally](http://www.businessghana.com/site/img/logo.png "As ChatGPT hype hits fever pitch, Neeva launches its generative AI search engine internationally")
+
+
+[As ChatGPT hype hits fever pitch, Neeva launches its generative AI search engine internationally](https://www.businessghana.com/)
+
+
+> Challenger search engine Neeva wants to replace the familiar '10 blue links' in search results with something more fitting for the modern AI age. Back in December, Neeva co-founder and CEO Sridhar Ramaswamy, who previously spearheaded Google's advertising tech business, teased new 'cutting edge AI' and large language models (LLMs), positioning itself against the ChatGPT hype train. 'ChatGPT cannot give you real time data or fact verification,' Ramaswamy wrote at the time. 'In our upcoming upgrades, Neeva can.
+
+
+***
+![mPackting goes beyond wood with new low carbon luxury packaging solutions](https://www.premiumbeautynews.com/IMG/arton21537.jpg?1676351903 "mPackting goes beyond wood with new low carbon luxury packaging solutions")
+
+
+[mPackting goes beyond wood with new low carbon luxury packaging solutions](https://www.premiumbeautynews.com/en/mpackting-goes-beyond-wood-with,21537)
+
+
+> Wood has already made its way into the packaging of cosmetic products. This material – which is appreciated both for its aesthetics and for its sustainability – is used for the production of caps, among other components. Minelli however believes that it is possible to go further, by using finishing techniques to transform the appearance of wooden components and thanks to innovative materials. At Paris Packaging Week, last month, the Italian group debuted mPackting , their branch dedicated to full packaging solutions for the beauty industry.
+
+
+***
+![OnePlus 11 5G set to go on sale today in India: Here's all you need to know](https://images.livemint.com/img/2023/02/14/600x338/oneplus_11_5g_1675783233505_1676352087855_1676352087855.jpg "OnePlus 11 5G set to go on sale today in India: Here's all you need to know")
+
+
+[OnePlus 11 5G set to go on sale today in India: Here's all you need to know](https://www.livemint.com/technology/gadgets/oneplus-11-5g-set-to-go-on-sale-today-in-india-here-s-all-you-need-to-know-11676351138998.html)
+
+
+> OnePlus 11 5G is already making buzz for its Hasselblad camera sensors and finally the wait is over. The OnePlus 11 5G is set to go on sale in India on Feb 14, 2023 (today). The flagship smartphone from the Chinese manufacturer arrived in India at the OnePlus Cloud 11 event along with OnePlus Buds Pro 2 and OnePlus 11R 5G. OnePlus 115G: Price and offers in India The OnePlus 115G will go on sale in India today at 12PM onwards. The base 8GB RAM with 128GB storage variant is priced ₹ 56,999 whereas, the 16GB RAM with 256GB storage is available for ₹ 61,999.
+
+
+***
+![Ted Cruz Brags That Elon Musk Called Him to Talk About Twitter's Future](https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_360,w_640,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1676351744/hannity_tzkmd8 "Ted Cruz Brags That Elon Musk Called Him to Talk About Twitter's Future")
+
+
+[Ted Cruz Brags That Elon Musk Called Him to Talk About Twitter's Future](https://www.thedailybeast.com/ted-cruz-brags-that-elon-musk-called-him-to-talk-about-twitters-future)
+
+
+> Sen. Ted Cruz (R-TX) revealed Monday night that he spoke with Twitter owner Elon Musk about the social media company's plan for the future—calling their conversation part of the company's 'road map.' At the same time, Cruz managed to lay out his standard menu of criticisms of Democrats, 'big tech' and others who had allegedly committed some sort of 'collusion.' Appearing on Hannity , the Texas Republican was asked to give context to a letter he sent earlier in the day to Twitter, as well as Meta, Google and TikTok, announcing the investigation into these platforms' content recommendation systems.
+
+
+***
+![Ford is investing $3.5bn in EV battery plant with Chinese firm](https://www.moneyweb.co.za/wp-content/uploads/2023/02/395732415-1024x682.jpg "Ford is investing $3.5bn in EV battery plant with Chinese firm")
+
+
+[Ford is investing $3.5bn in EV battery plant with Chinese firm](https://www.moneyweb.co.za/news/tech/ford-is-investing-3-5bn-in-ev-battery-plant-with-chinese-firm/)
+
+
+> Ford is investing $3.5 billion in an electric-vehicle battery plant in southwest Michigan that it will operate with technology and support from a Chinese battery maker that has stirred political controversy. The factory near Marshall, Michigan, will employ 2 500 workers, Ford said Monday, confirming a February 10 Bloomberg report. The facility is set to open in 2026 and will produce enough batteries to power 400 000 EVs a year. The US automaker will be contracting the battery know-how from China's Contemporary Amperex nology, which will help set up the plant and have staff there.
+
+
+***
+![India's G20 Presidency a real opportunity for it to share lessons from global South with others: UN official](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_02_2023_10_51_48_9333753.jpg?width=920&format=jpeg "India's G20 Presidency a real opportunity for it to share lessons from global South with others: UN official")
+
+
+[India's G20 Presidency a real opportunity for it to share lessons from global South with others: UN official](https://www.devdiscourse.com/article/technology/2353972-indias-g20-presidency-a-real-opportunity-for-it-to-share-lessons-from-global-south-with-others-un-official)
+
+
+> India's role as the G20 chair is a 'real opportunity' for it to share lessons from the global South with the rest of the world, a top UN Women official has said, as she voiced appreciation for New Delhi placing issues of women-led development and gender equality as the centrepiece of its presidency of the grouping. India assumed the Presidency of the G20 for one year from December 1, 2022, to 30 November 2023. 'I see the G20 Presidency of India as a real opportunity for India to share lessons from the global South with the rest of the world,' Assistant Secretary-General of the United Nations and Deputy Executive Director of UN Women Anita Bhatia told PTI in an exclusive interview here Monday.
+
+
+***
+![Apple releases software updates for three mobile devices](https://m-cdn.phonearena.com/images/article/145569-wide-two_1200/Apple-releases-software-updates-for-three-mobile-devices.jpg "Apple releases software updates for three mobile devices")
+
+
+[Apple releases software updates for three mobile devices](https://www.phonearena.com/news/apple-software-updates-three-mobile-devices_id145569)
+
+
+> Apple released updates for some of its mobile devices today including iOS 16.3.1 for the iPhone, iPadOS 16.3.1 for the iPad, and watchOS 9.3.1 for the Apple Watch. Which should we start with? Let's begin with iOS 16.3.1. Apple's release notes indicate that the update will exterminate a bug that caused iCloud settings to be unresponsive. Another issue fixed by the update is one that prevented Siri users requesting the Find My app from having that app open on the screen. The iOS 16.3.1 update also adds some optimizations to Car Crash Detection on the iPhone 14 Pro and iPhone 14 Pro Max.
+
+
+***
+![Valentine's Day: Top 5 tech gifting options for your special someone](https://www.financialexpress.com/wp-content/uploads/2023/02/valentines-day.jpg "Valentine's Day: Top 5 tech gifting options for your special someone")
+
+
+[Valentine's Day: Top 5 tech gifting options for your special someone](https://www.financialexpress.com/life/technology-valentines-day-top-5-tech-gifting-options-for-your-special-someonenbsp-2980801/)
+
+
+> OnePlus 11 5G is great, but here are 5 alternatives that can give you more value | Buyer's guide Nothing Phone 1, Ear Stick receive big price cut in India ahead of Valentine's Day Government reportedly working on ChatGPT integration with WhatsApp: Details iPhone 14 Plus, iPhone 14 selling with up to Rs 43,000 discount, iPhone 13 available at Rs 30,900 online: Details
+
+
+***
+![TCL 32" HD & FHD Smart TVs launched in India starting at ₹13,490 ($163)](https://www.gizmochina.com/wp-content/uploads/2023/02/TCL-S5400-1024x683-1.jpg "TCL 32" HD & FHD Smart TVs launched in India starting at ₹13,490 ($163)")
+
+
+[TCL 32" HD & FHD Smart TVs launched in India starting at ₹13,490 ($163)](https://www.gizmochina.com/2023/02/14/tcl-32-inch-smart-tvs-launched-india)
+
+
+> TCL has been growing its presence in the Indian TV market over the last few years. The latest high end launch from the brand is the C11G smart TV which has 4K resolution, Quantum Dot Matrix technology and the super high refresh rate of 144Hz which makes it perfect for gaming. On the other side of the spectrum, the brand has introduced three budget-range smart TVs in India. These are the TCL S5400, S5400A and S5403A that feature a a bezel-less design, 24W speakers featuring Dolby Audio, up to 16 GB of storage, and the latest Android TV interface.
+
+
+***
+![Breast cancer: ‘My immediate concern was whether I'd be able to go to the GAA championship'](https://www.irishtimes.com/resizer/iGvMpsOJplVcdDby0MHVSI5HmdQ=/1200x630/filters:format(jpg):quality(70):focal(1122x1036:1132x1046)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/V67WOXVG6NH6JOER46LQGHO44A.jpeg "Breast cancer: ‘My immediate concern was whether I'd be able to go to the GAA championship'")
+
+
+[Breast cancer: ‘My immediate concern was whether I'd be able to go to the GAA championship'](https://www.irishtimes.com/health/your-wellness/2023/02/14/breast-cancer-my-immediate-concern-was-whether-id-be-able-to-go-to-the-gaa-championship/)
+
+
+> Early one morning in August, 2021, Áine Martin's 'hand was drawn instinctively' to her right breast, where she felt a lump. She knew it hadn't been there when she was fitted for a new bra a few weeks previously and, although she was hopeful that it was something minor, she called a friend – a nurse – who had been through breast cancer, and who advised her to get it checked as soon as possible. She went to her GP two days later. 'My doctor examined the lump and did a full examination of both breasts as well as under my arms and my neck,' says Áine.
+
+
+***
+![Rumors swirl about balloons, UFOs as officials stay mum](https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/2/21/221b264f-551c-59db-9d69-c96d4ecab9fe/63eb1cb0330d2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Rumors swirl about balloons, UFOs as officials stay mum")
+
+
+[Rumors swirl about balloons, UFOs as officials stay mum](https://siouxcityjournal.com/lifestyles/technology/rumors-swirl-about-balloons-ufos-as-officials-stay-mum/article_50344163-119b-5fe1-8952-011337c10e23.html)
+
+
+> By DAVID KLEPPER - Associated Press WASHINGTON (AP) — Maybe they came from China. Maybe from somewhere farther away. A lot farther away. The downing of four aerial devices by U.S. warplanes has touched off rampant misinformation about the objects, their origin and their purpose, showing how complicated world events and a lack of information can quickly create the perfect conditions for unchecked conjecture and misinformation. The presence of mysterious objects high in the sky doesn't help. 'There will be an investigation and we will learn more, but until then this story has created a playground for people interested in speculating or stirring the pot for their own reasons," said Jim Ludes, a former national defense analyst who now leads the Pell Center for International Relations at Salve Regina University.
+
+
+***
+![Garena Free Fire Max Redeem Codes for 14 February 2023: Claim Codes & Win Gifts](https://images.thequint.com/thequint%2F2023-01%2F12aa6a91-6261-4187-a668-9d34c5a6cc4f%2Fgarena.jpg?rect=0%2C0%2C1440%2C810 "Garena Free Fire Max Redeem Codes for 14 February 2023: Claim Codes & Win Gifts")
+
+
+[Garena Free Fire Max Redeem Codes for 14 February 2023: Claim Codes & Win Gifts](https://www.thequint.com/tech-and-auto/tech-news/garena-free-fire-redeem-codes-today-14-february-2023-know-how-to-claim-the-codes-win-rewards-and-gifts)
+
+
+> Garena Free Fire game has been one of the most popular games in the country recently. The regular players of the game get a chance to collect the Garena Free Fire Max Redeem Codes everyday. We are here with a new set of Garena Codes for 14 February 2023, Tuesday. The authorities release the new redeem codes on the official redemption website at reward.ff.garena.com for all the registered players on a daily basis. Players can visit the site and claim the codes from the Tuesday list. The Garena Free Fire Redeem Codes are quite useful for the registered players since it helps them win free weapons in the multiplayer battle royale game that further helps them win and survive in the game.
+
+
+***
+![Garena Free Fire Redeem Codes for Today: Check reward.ff.garena.com; Know How To Win Rewards and Weapons on 14 February 2023; Complete List of Active Codes Here](https://images.thequint.com/thequint%2F2023-01%2F12aa6a91-6261-4187-a668-9d34c5a6cc4f%2Fgarena.jpg?rect=0%2C0%2C1440%2C756&w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true "Garena Free Fire Redeem Codes for Today: Check reward.ff.garena.com; Know How To Win Rewards and Weapons on 14 February 2023; Complete List of Active Codes Here")
+
+
+[Garena Free Fire Redeem Codes for Today: Check reward.ff.garena.com; Know How To Win Rewards and Weapons on 14 February 2023; Complete List of Active Codes Here](https://www.thequint.com/tech-and-auto/tech-news/garena-free-fire-redeem-codes-today-14-february-2023-know-how-to-claim-the-codes-win-rewards-and-gifts)
+
+
+> Players in the country can download Garena Free Fire MAX which is an advanced and developed as compared to the original version. You can find the redemption codes for today and steps to claim them. Garena Free Fire Redeem Codes List for 14 February 2023 X99TK56XDJ4X FF7MUY4ME6SC WEYVGQC3CT8Q 3IBBMSL7AK8G J3ZKQ57Z2P2P FFDBGQWPNHJX TDK4JWN6RD6 4TPQRDQJHVP4 GCNVA2PDRGRZ XFW4Z6Q882WY HFNSJ6W74Z48 HHNAT6VKQ9R7 2FG94YCW9VMV 4ST1ZTBE2RP9 8F3QZKNTLWBZ V44ZZ5YY7CBS WD2ATK3ZEA55 E2F86ZREMK49 B3G7A22TWDR7X MCPW3D28VZD6 FFCMCPSGC9XZ FFCMCPSEN5MX ZZZ76NT3PDSH EYH2W3XK8UPG FFCMCPSUYUY7E NPYFATT3HGSQ MCPW2D2WKWF2 V427K98RUCHZ MCPW2D1U3XA3 FFCMCPSJ99S3 6KWMFJVMQQYG BR43FMAPYEZZ UVX9PYZV54AC XZJZE25WEFJJ HNC95435FAGJ How to Claim Garena Free Fire Redeem Codes For 14 February 2023? Visit the official website at reward.
+
+
+***
+![Garena Free Fire Max redeem codes February 14, 2023: Get weapons, diamonds, more](https://images.livemint.com/img/2023/02/14/600x338/garena_free_fire_max_wallpaper_1676350317846_1676350324621_1676350324621.jpg "Garena Free Fire Max redeem codes February 14, 2023: Get weapons, diamonds, more")
+
+
+[Garena Free Fire Max redeem codes February 14, 2023: Get weapons, diamonds, more](https://www.livemint.com/technology/garena-free-fire-max-redeem-codes-february-14-2023-get-weapons-diamonds-more-11676350163249.html)
+
+
+> Garena Free Fire Max redeem codes can be used to win in-game items like weapons, diamonds, skins and more. These 12 digit alphanumeric codes consist of capital letters and numbers. For those unaware, Garena Free Fire Max is a revamped version of Garena Free Fire. It debuted in 2021 and became popular after the ban of the former by the Indian government. Developers of the game keep updating these codes daily. There is also a dedicated microsite where players can visit to redeem the available codes.
+
+
+***
+![Patch Now: Apple's iOS, iPadOS, macOS, and Safari Under Attack with New Zero-Day Flaw](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEhwLdHZcIgISVVe_p8sRJD55e2RHR8YhadA9x6ssYx0eC4eRUBser6oxe1WDZL81TA9ZxPlmqDzoe6fKj0vNn0Ag5otjIH60CBIe1qlr8MueqAK-LkOLZ_YaWIB8UAp9Vm9lFI2eXdko8QXlG6joMeS7B_qLdt4Ci5L-dsqRTu1cfJvbsPu2pxDbQ6n/s728-e3650/apple.png "Patch Now: Apple's iOS, iPadOS, macOS, and Safari Under Attack with New Zero-Day Flaw")
+
+
+[Patch Now: Apple's iOS, iPadOS, macOS, and Safari Under Attack with New Zero-Day Flaw](https://thehackernews.com/2023/02/patch-now-apples-ios-ipados-macos-and.html)
+
+
+> Apple on Monday rolled out security updates for iOS, iPadOS , macOS , and Safari to address a zero-day flaw that it said has been actively exploited in the wild. Tracked as CVE-2023-23529 , the issue relates to a type confusion bug in the WebKit browser engine that could be activated when processing maliciously crafted web content, culminating in arbitrary code execution. The iPhone maker said the bug was addressed with improved checks, adding it's "aware of a report that this issue may have been actively exploited.
+
+
+***
+![Trust in Singapore Banks Continues to Be on the Rise, Says ABS Survey](https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/02/Trust-in-Singapore-Banks-Continues-to-Be-on-the-Rise-Since-2020-Says-ABS-Survey.png?x64868 "Trust in Singapore Banks Continues to Be on the Rise, Says ABS Survey")
+
+
+[Trust in Singapore Banks Continues to Be on the Rise, Says ABS Survey](https://fintechnews.sg/69728/fintech/trust-in-singapore-banks-continues-to-be-on-the-rise-says-abs-survey/)
+
+
+> A survey conducted by Edelman Data and Intelligence has found that trust in the Singapore banking industry has increased for a second straight year since 2020. The third annual Banking Trust Index for Singapore (BTIS) survey was commissioned by the Association of Banks in Singapore (ABS). 15 banks included in the scope of the survey include Bank of China, Bank of Singapore, Citibank, Credit Suisse, DBS, Deutsche Bank AG, HSBC, Industrial and Commercial Bank of China Limited Singapore Branch, JP Morgan, Maybank, Nomura Singapore, OCBC, Standard Chartered Bank, UBS AG, and UOB.
+
+
+***
+![Ask HN: Will Microsoft be liable for defamatory Bing statements?](https://news.ycombinator.com/favicon.ico "Ask HN: Will Microsoft be liable for defamatory Bing statements?")
+
+
+[Ask HN: Will Microsoft be liable for defamatory Bing statements?](https://news.ycombinator.com/item?id=34785392)
+
+
+> Got access to new Bing, tried some chats. It got a few things factually wrong. Then I asked it about a minor business leader I knew who had a scandal. The ai replied to the effect that: 'Yes, so and so had a scandal. They even had complaints filed with the better business bureau and the california bureau of consumer protection' First part was accurate and sourced. Second part was invented out of whole cloth. The ai admitted as such when I pressed it. But, isn't that a false statement of fact and legally actionable? And it is Microsoft saying it.
+
+
+***
+![iPhone 14 Pro Max Manufacturing Costs Increase, Apple Takes Gross Profit Hit](https://www.gizmochina.com/wp-content/uploads/2023/02/noname-1-500x500-1.png "iPhone 14 Pro Max Manufacturing Costs Increase, Apple Takes Gross Profit Hit")
+
+
+[iPhone 14 Pro Max Manufacturing Costs Increase, Apple Takes Gross Profit Hit](https://www.gizmochina.com/2023/02/14/apple-iphone-14-pro-max-manufacturing-increase)
+
+
+> The cost of building Apple's iPhone 14 Pro Max has been analyzed by research firm Counterpoint Research, and the results are interesting. The cost of making the iPhone 14 Pro Max rose by 3.4% compared to the cost of producing the iPhone 13 Pro Max. This is because of the introduction of an Always-On display and a new 48 MP Wide Camera lens. It is worth noting that Apple has priced the iPhone 14 Pro Max the same as the iPhone 13 Pro Max, which implies that the tech company is taking a cut in gross profit over its previous years.
+
+
+***
+![Maybank commits to expand business in Viet Nam](http://bizhub.vn/thumbnail/BizHub-480-2023-2-14/maybank.jpg "Maybank commits to expand business in Viet Nam")
+
+
+[Maybank commits to expand business in Viet Nam](http://bizhub.vn/corporate-news/maybank-commits-to-expand-business-in-viet-nam_341585.html)
+
+
+> No body in the article.
+
+
+***
+![Microsoft's AI-Powered Bing Refuses To Write Cover Letter For Job; Here's What It Wrote](https://imgeng.jagran.com/images/2023/feb/ChatGPT1676349689569.jpg "Microsoft's AI-Powered Bing Refuses To Write Cover Letter For Job; Here's What It Wrote")
+
+
+[Microsoft's AI-Powered Bing Refuses To Write Cover Letter For Job; Here's What It Wrote](https://english.jagran.com/technology/microsofts-aipowered-bing-refuses-to-write-cover-letter-for-job-heres-what-it-wrote-10065030)
+
+
+> By Ashish Singh Tue, 14 Feb 2023 10:04 AM (IST) THE TECH giant Microsoft, which has introduced the first-ever artificial intelligence-powered search engine is now capable of denying the unethical tasks given to it. This came after the platform denied writing a cover letter for a user and said it will not be doing any unethical task. When asked by the user to write a cover letter, Microsoft's new Bing browser said it could not do so, and said "I'm sorry, but I cannot write a cover letter for you.
+
+
+***
+![One royal loves to 'celebrate' Valentine's Day](https://iknowallnews.com/wp-content/uploads/2023/02/One-royal-loves-to-celebrate-Valentines-Day-but-its-not-Kate.jpg "One royal loves to 'celebrate' Valentine's Day")
+
+
+[One royal loves to 'celebrate' Valentine's Day](https://iknowallnews.com/lifestyle/one-royal-loves-to-celebrate-valentines-day-but-its-not-kate/)
+
+
+> Home » Lifestyle » One royal loves to ‘celebrate' Valentine's Day – but it's not Kate We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info Meghan, Duchess of Sussex once revealed she is a 'sucker' for Valentine's Day. February 14 is likely even more special for her now that she gets to spend the time with her husband, Prince Harry, and their children, Archie and Lilibet.
+
+
+***
+![Meta business chief to depart](https://images.hindustantimes.com/tech/img/2023/02/14/1600x900/Marne_Levine_1676348454421_1676348465747_1676348465747.jpg "Meta business chief to depart")
+
+
+[Meta business chief to depart](https://tech.hindustantimes.com/tech/news/meta-business-chief-to-depart-71676315834076.html)
+
+
+> Meta Platforms said on Monday Chief Business Officer Marne Levine was leaving the owner of Facebook after a 13-year stint. Fifty-two-year-old Levine, appointed as the company's first chief business officer in 2021, has served in various other executive positions at the social media company, including chief operating officer of Instagram . The company said it expanded Nicola Mendelsohn's role as head of global business group and named Justin Osofsky as head of online sales, operations and partnerships, in the wake of Levine's imminent departure.
+
+
+***
+![Sakurai shares background information on Meteos in his latest video](https://gonintendo.com/attachments/image/23202/file/medium-724166e0f8b838caaee41db3f2820476.jpg "Sakurai shares background information on Meteos in his latest video")
+
+
+[Sakurai shares background information on Meteos in his latest video](https://gonintendo.com/contents/16211-sakurai-shares-background-information-on-meteos-in-his-latest-video)
+
+
+> Learn about the origins of Sakurai's strangest game Masahiro Sakurai is widely known for his work on titles such as Super Smash Bros., Kirby and Kid Icarus: Uprising, but today he's giving us a closer look at the background of one of his stranger titles. Developed by Q Entertainment, a studio founded by former SEGA developers, Meteos is a tile-matching puzzle game released for the Nintendo DS in 2005. Working as game designer, this is a title unlike anything else we've seen Sakurai work on over the years.
+
+
+***
+![Valentine's Day: Reliance Jio Announces Special Offers](https://images.news18.com/ibnlive/uploads/2023/02/untitled-design-2023-02-14t085424.811-167634508916x9.jpg "Valentine's Day: Reliance Jio Announces Special Offers")
+
+
+[Valentine's Day: Reliance Jio Announces Special Offers](https://www.news18.com/news/tech/valentines-day-reliance-jio-announces-special-offers-extra-data-more-7075735.html)
+
+
+> Reliance Jio, the nation's largest telecom firm, has announced a new offer on its prepaid plans for Valentine's Day. The telecom major is giving additional benefits under some exciting recharge plans — Rs 349, Rs 899, and Rs 2,999 done on or after February 10 until a limited period. Jio is offering additional data benefits, as well as vouchers for different services As a part of the Valentine's Day celebrations, Reliance Jio is offering prepaid customers benefits through the MyJio app. This means customers will need to recharge their numbers using the MyJio app, not a third-party platform.
+
+
+***
+![Security fears over 'UK police use of Chinese-made drones'](https://iknowallnews.com/wp-content/uploads/2023/02/Security-fears-over-aposUK-police-use-of-Chinese-made-dronesapos.jpg "Security fears over 'UK police use of Chinese-made drones'")
+
+
+[Security fears over 'UK police use of Chinese-made drones'](https://iknowallnews.com/world-news/security-fears-over-uk-police-use-of-chinese-made-drones/)
+
+
+> Police ‘warned they may be leaving themselves vulnerable to interference' Taskforce headed by security minister asked to review the drone contracts Security fears have sparked as it emerged that two-thirds of drones used by UK police are made by a Chinese firm that is blacklisted in the US, reports have said. Police forces have reportedly been warned by Home Secretary Suella Braverman that they might be leaving themselves vulnerable to Beijing interference by using Chinese technology. Fraser Sampson, the Home Office-appointed surveillance commissioner, has asked a taskforce headed by security minister Tom Tugendhat to review the drone contracts.
+
+
+***
+![Legendary surf photographer Larry Haynes films his own final moments](https://iknowallnews.com/wp-content/uploads/2023/02/Legendary-surf-photographer-Larry-Haynes-films-his-own-final-moments.jpg "Legendary surf photographer Larry Haynes films his own final moments")
+
+
+[Legendary surf photographer Larry Haynes films his own final moments](https://iknowallnews.com/world-news/legendary-surf-photographer-larry-haynes-films-his-own-final-moments/)
+
+
+> Home » World News » Legendary surf photographer Larry Haynes films his own final moments Veteran surf filmmaker and photographer Larry Haynes died randomly last week Haynes filmed himself surfing in Hawaii moments before suffering a heart attack He had been recording surfers and surf events for around 35 years A well-known surfer and filmmaker has died of a heart attack in Hawaii just moments after recording his final moments in the ocean. Video footage of Larry Haynes, 61, was recovered soon after he collapsed in the parking lot of a surfing beach on Hawaii's North Shore last week.
+
+
+***
+![Amazon's new self-driving robotaxis may soon be hitting public roads](https://cdn.abcotvs.com/dip/images/12811548_amazon-robo-taxis-TN-img.png?w=1600 "Amazon's new self-driving robotaxis may soon be hitting public roads")
+
+
+[Amazon's new self-driving robotaxis may soon be hitting public roads](https://abc30.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/)
+
+
+> Robots already deliver us packages and pizzas. Now, Amazon is ready to take the concept to another level. Amazon's self-driving vehicle unit known as Zoox has successfully tested its robotaxi on a public road using employees as passengers. The robotaxi uses no steering wheel or pedals and its has room for four passengers. It also has four-wheel steering, enabling it to change directions without the need to reverse. Amazon said they have dozens of the fully autonomous vehicles ready to hit the road.
+
+
+***
+![Amazon's new self-driving robotaxis may soon be hitting public roads](https://cdn.abcotvs.com/dip/images/12811548_amazon-robo-taxis-TN-img.png?w=1600 "Amazon's new self-driving robotaxis may soon be hitting public roads")
+
+
+[Amazon's new self-driving robotaxis may soon be hitting public roads](https://abc7.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/)
+
+
+> Robots already deliver us packages and pizzas. Now, Amazon is ready to take the concept to another level. Amazon's self-driving vehicle unit known as Zoox has successfully tested its robotaxi on a public road using employees as passengers. The robotaxi uses no steering wheel or pedals and its has room for four passengers. It also has four-wheel steering, enabling it to change directions without the need to reverse. Amazon said they have dozens of the fully autonomous vehicles ready to hit the road.
+
+
+***
+![Twitter's plan to charge for crucial tool prompts outcry](https://images.hindustantimes.com/tech/img/2023/02/14/1600x900/Twitter-API-0_1676347272995_1676347272995_1676347308751_1676347308751.jpg "Twitter's plan to charge for crucial tool prompts outcry")
+
+
+[Twitter's plan to charge for crucial tool prompts outcry](https://tech.hindustantimes.com/tech/news/twitters-plan-to-charge-for-crucial-tool-prompts-outcry-71676315787952.html)
+
+
+> In the aftermath of the devastating earthquake in Turkey and Syria, thousands of volunteer software developers have been using a crucial Twitter tool to comb the platform for calls for help — including from people trapped in collapsed buildings — and connect people with rescue organizations. They could lose access as soon as Monday unless they pay Twitter a monthly fee of at least $100 — prohibitive for many volunteers and nonprofits on shoestring budgets. 'That's not just for rescue efforts which unfortunately we're coming to the end of, but for logistics planning too as people go to Twitter to broadcast their needs,' said Sedat Kapanoglu, the founder of Eksi Sozluk, Turkey's most popular social platform, who has been advising some of the volunteers in their efforts.
+
+
+***
+![Wrong number revenge: Man accidentally calls Google with bomb threat instead of GAIL office](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/google_sign_1-sixteen_nine.jpg "Wrong number revenge: Man accidentally calls Google with bomb threat instead of GAIL office")
+
+
+[Wrong number revenge: Man accidentally calls Google with bomb threat instead of GAIL office](https://www.businesstoday.in/technology/news/story/wrong-number-revenge-man-accidentally-calls-google-with-bomb-threat-instead-of-gail-office-370116-2023-02-14)
+
+
+> In a bizarre incident, a man was arrested on Monday for allegedly making bomb threats to a Google office. The 48-year-old, identified as Panayam Shivanand, was taken into custody from Chandanagar in Telangana by the local police. However, the irony of the situation is that he made a mistake while calling, resulting in chaos. Shivanand claimed that he was trying to seek revenge against his brother over a property dispute and wanted to call the 'GAIL office', but mistakenly dialled 'Google' instead.
+
+
+***
+![iPhone 13 to Galaxy Buds 2: Best Valentine's Day 2023 gifting options for your partner](https://images.indianexpress.com/2023/02/cropped-Apple-iPhone-13-Express-Photo-1.jpg "iPhone 13 to Galaxy Buds 2: Best Valentine's Day 2023 gifting options for your partner")
+
+
+[iPhone 13 to Galaxy Buds 2: Best Valentine's Day 2023 gifting options for your partner](https://indianexpress.com/web-stories/technology/valentines-day-2023-best-tech-gifts/)
+
+
+> Add a colourful twist to your curd rice These quick tips will help keep strawberry legs at bay How does alcohol affect your health When is Holi Festival in 2023? Click or Scan here to read the article
+
+
