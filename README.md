@@ -22891,3 +22891,560 @@
 > SUNNYVALE, Calif.--(BUSINESS WIRE)--Ooma, Inc. (NYSE: OOMA), a smart communications platform for businesses and consumers, plans to release its financial results for the fourth quarter and fiscal year ended January 31, 2023 after the market closes on Thursday, March 2, 2023. The company will host a conference call and live webcast for analysts and investors at 5:00 p.m. Eastern time on March 2, 2023. The news release with the financial results will be accessible from the company's website prior
 
 
+***
+![Memphis firefighters union defends EMTs in Tyre Nichols case, says they weren't given 'adequate information'](https://media.cnn.com/api/v1/images/stellar/prod/230130164442-memphis-fire-personnel-fired.jpg?c=16x9&q=h_270,w_480,c_fill "Memphis firefighters union defends EMTs in Tyre Nichols case, says they weren't given 'adequate information'")
+
+
+[Memphis firefighters union defends EMTs in Tyre Nichols case, says they weren't given 'adequate information'](https://newsakmi.com/../../usnews/memphis-firefighters-union-defends-emts-in-tyre-nichols-case-says-they-werent-given-adequate-information-cnn)
+
+
+> CNN — The president of the firefighters union in Memphis, Tennessee is defending the actions of EMTs involved in the Tyre Nichols case. In a letter to the Memphis City Council, Thomas Malone, president of the Memphis Fire Fighters Association, said his members 'were not given adequate information upon dispatch or upon arrival on the scene' where Nichols, a 29-year-old Black man, had been repeatedly punched and kicked by police after a traffic stop on January 7. 'Quite frankly, there was information withheld by those already on the scene which caused our members to handle things differently than they should have,' Malone suggested.
+
+
+***
+![Amber Ruffin to Play Her Own Non-Evil Twin in NBC Pilot — What Could That Mean for Her Peacock Talk Show?](https://tvline.com/wp-content/uploads/2023/02/amber-ruffin-nbc-comedy-pilot.jpg?w=620 "Amber Ruffin to Play Her Own Non-Evil Twin in NBC Pilot — What Could That Mean for Her Peacock Talk Show?")
+
+
+[Amber Ruffin to Play Her Own Non-Evil Twin in NBC Pilot — What Could That Mean for Her Peacock Talk Show?](https://newsakmi.com/../../entertainment/tv-news/amber-ruffin-to-play-her-own-non-evil-twin-in-nbc-pilot-what-could-that-mean-for-her-peacock-talk-show)
+
+
+> Amber Ruffin is finally stepping into the role she was born to play: her own twin. NBC has given a pilot order to Non-Evil Twin, a multi-cam comedy written, executive-produced and starring Ruffin as a woman 'forced to step in to her sister's role as the leader of a Fortune 500 company despite knowing little about business and even less about the way her sister has been running the corporation,' according to the official logline. Kenny Smith is also writing the Universal Television project, executive-producing alongside Jenny Hagel.
+
+
+***
+![Apple iPhone 14, iPhone 14 Pro model users should install latest iOS update right now, here's why](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/14/2572770-apple-iphone-14.png "Apple iPhone 14, iPhone 14 Pro model users should install latest iOS update right now, here's why")
+
+
+[Apple iPhone 14, iPhone 14 Pro model users should install latest iOS update right now, here's why](https://www.dnaindia.com/technology/report-apple-iphone-14-iphone-14-pro-model-users-should-install-latest-ios-update-right-now-here-s-why-3023587)
+
+
+> Apple iPhone 14 Apple iPhone 14 and Apple iPhone 14 Pro models users should instantly install the latest iOS 16.3.1 version which was rolled out by the tech giant recently. The new iOS 16.3.1 is quite a minor update that comes almost two weeks after the launch of iOS 16.3. The iOS 16.3.1 is an OTA (over the air) update and is available to all iPhone users who are eligible to run iOS 16 that was rolled out late last year. Although the Apple iOS 16.3.1 comes with a range of bug fixes and security updates for all the eligible Apple iPhone models, the Apple iPhone 14 and Apple iPhone 14 Pro models should install the update right away.
+
+
+***
+[Online Academic Conferences Power International Academic Communication, Providing Domestic Young Scholars with World Stages](http://www.businesswire.com/news/home/20230212005042/en/Online-Academic-Conferences-Power-International-Academic-Communication-Providing-Domestic-Young-Scholars-with-World-Stages/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> OXFORD, England--(BUSINESS WIRE)--In scientific research, academic communication is indispensable. With the help of new media platforms and online meeting software, conference organizers gradually accomplished the conference transformation from offline to online. These international academic conferences are providing more opportunities for Chinese scholars, especially the young to go abroad and communicate with peers from all over the world. The International Conference on Economic Management a
+
+
+***
+![Memo: Walmart plans to close its tech hubs in Austin, Portland, and Carlsbad, CA, and require staff to relocate and be in office twice a week to keep their jobs (Sarah Nassauer/Wall Street Journal)](http://www.techmeme.com/230213/i24.jpg "Memo: Walmart plans to close its tech hubs in Austin, Portland, and Carlsbad, CA, and require staff to relocate and be in office twice a week to keep their jobs (Sarah Nassauer/Wall Street Journal)")
+
+
+[Memo: Walmart plans to close its tech hubs in Austin, Portland, and Carlsbad, CA, and require staff to relocate and be in office twice a week to keep their jobs (Sarah Nassauer/Wall Street Journal)](https://newsakmi.com/news/tech-news/memo-walmart-plans-to-close-its-tech-hubs-in-austin-portland-and-carlsbad-ca-and-require-staff-to-relocate-and-be-in-office-twice-a-week-to-keep-their-jobs-sarah-nassauer-wall-street-journal/)
+
+
+> Home / News / Tech / Memo: Walmart plans to close its tech hubs in Austin, Portland, and Carlsbad, CA, and require staff to relocate and be in office twice a week to keep their jobs (Sarah Nassauer/Wall Street Journal) Tech Sierra Mitchell Send an email 5 hours ago Less than a minute
+
+
+***
+![core-js breaking point](https://external-preview.redd.it/c9J78-GJ3dtddDXJTi8GTyQDWaaNEydB55HzWFEt8Z8.jpg?auto=webp&v=enabled&s=da88554aab4df83097ff804c7e76ad38723ac889 "core-js breaking point")
+
+
+[core-js breaking point](https://www.reddit.com/r/programming/comments/111s8cg/corejs_breaking_point)
+
+
+> @zloirock, the core-js lib maintainer, has been thanklessly maintaining software that allows anything running JavaScript on a browser access to modern JS features. Which is most of the internet. He's asking for help.
+
+
+***
+![How to Negotiate Repairs after a Home Inspection](https://my.techmoran.com/wp-content/uploads/2020/09/home-inspection-1500x1000.jpg "How to Negotiate Repairs after a Home Inspection")
+
+
+[How to Negotiate Repairs after a Home Inspection](https://techmoran.com/2020/09/22/how-to-negotiate-repairs-after-a-home-inspection/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![Unlocking the Potential of Kubectl Shortcuts with PowerShell](https://miro.medium.com/max/300/1*H6leGkjCJm8QQOTrrB3Fyg.jpeg "Unlocking the Potential of Kubectl Shortcuts with PowerShell")
+
+
+[Unlocking the Potential of Kubectl Shortcuts with PowerShell](https://medium.com/@aabeing/unlocking-the-potential-of-kubectl-shortcuts-with-powershell-9ae4d15ea79b)
+
+
+> Kubectl is the command-line interface that connects us to the heart of Kubernetes: the API server. With kubectl, we can create, update, and delete resources in the cluster, manage pods and services, and even troubleshoot issues. It's the command-line companion that makes the magic of Kubernetes accessible to us. But, even the most experienced Kubernetes administrator can find themselves stuck in a tedious cycle of typing the same commands repeatedly. But what if you could break free from this monotony and elevate your kubectl game to a whole new level? This is where the power of kubectl shortcuts comes in, allowing us to streamline our workflow and unlock the full potential of our clusters.
+
+
+***
+![Your day to day guide on all things containers (Docker)](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png "Your day to day guide on all things containers (Docker)")
+
+
+[Your day to day guide on all things containers (Docker)](https://medium.com/@gboladeadeniji/your-day-to-day-guide-on-all-things-containers-docker-ed19295e8a92)
+
+
+> Adeniji, A.A. Let me begin this article by telling you a story. The first time I heard the word containers in the technical context, I was astonished and perplexed. I imagined actual containers. I kept wondering, how would that work? Would I have to order some special tech container on Amazon? Anyway I am writing this article so you don't have to do the kind of mental gymnastics i did. This article basically highlights all you need to know about Containers, both big and small, physical and virtual! What are containers? In uncomplicated terms, Containers are everything you need to run an application packaged in a compartment.
+
+
+***
+![FUJIFILM launches Apeos 2150 series entry model A3 monochrome multifunction printers](https://gadgetsmagazine.com.ph/wp-content/uploads/2023/02/03_AP2150NDA_f_en.png "FUJIFILM launches Apeos 2150 series entry model A3 monochrome multifunction printers")
+
+
+[FUJIFILM launches Apeos 2150 series entry model A3 monochrome multifunction printers](https://gadgetsmagazine.com.ph/?p=134915)
+
+
+> New product design to enhance daily productivity and user operability FUJIFILM Business Innovation Philippines Corp. will launch the Apeos 2150 series, consisting of four entry-level A3 monochrome multifunction printers catering to small and medium-sized businesses. Apeos 2150 series is a fourth-generation device that has been designed and developed to address the needs of users in the Philippines. With the One-Pass Duplex Scan function, double-sided documents can now be scanned quickly by a single-pass thus improving energy efficiency and overall productivity.
+
+
+***
+![15 吋 MacBook Air 近了？分析師推估 4 月初推出](https://img.technews.tw/wp-content/uploads/2022/06/14155611/Apple-WWDC22-MacBook-Air.jpg "15 吋 MacBook Air 近了？分析師推估 4 月初推出")
+
+
+[15 吋 MacBook Air 近了？分析師推估 4 月初推出](https://technews.tw/2023/02/14/15-inch-macbook-air-2/)
+
+
+> 先前一直有傳聞，蘋果正在規劃搭載 15 吋大螢幕的 MacBook Air；調研機構 DSCC 執行長 Ross Young 最新報告顯示，15.5 吋 MacBook Air 已於本月開始生產面板，且還暗示這款 MacBook Air 將於 4 月初發表。 Ross Young 與《彭博社》都曾表示 15 吋 MacBook Air 存在的可能性。《彭博社》之前報導，可能今年春季發表會時推出；Ross Young 則是去年 12 月表示會在 2023 年春季發表。現在 Ross Young 進一步確認 15 吋 MacBook Air 有望春季推出。 只是 15 吋 MacBook Air 還沒有太多規格細節流出，但外界多認為有可能是現在 13 吋 MacBook Air 的翻版，只是螢幕更大。 15 吋 MacBook Air 意味蘋果將提供兩種尺寸 MacBook Air（13.6 吋與 15.5 吋）；不過這並不是蘋果第一次推兩種尺寸 MacBook Air，之前也有過 11 吋與 13 吋兩種，但最終簡化成 MacBook Air 產品陣容，保留 13 吋 Mac
+
+
+***
+![Nintendo have released some Kirby's Return to Dreamland Deluxe-themed Valentine's Day cards](https://gonintendo.com/attachments/image/23200/file/medium-9d06032c67ef9a5b6b827fb7394ddc81.png "Nintendo have released some Kirby's Return to Dreamland Deluxe-themed Valentine's Day cards")
+
+
+[Nintendo have released some Kirby's Return to Dreamland Deluxe-themed Valentine's Day cards](https://gonintendo.com/contents/16210-nintendo-have-released-some-kirby-s-return-to-dreamland-deluxe-themed-valentine-s)
+
+
+> Will you Beep-Boop my Valentine? Valentine's Day is right around the corner, and, if you've yet to pick out a card to give your valentine, Nintendo has your back. To celebrate Kirby's Return to Dreamland Deluxe's imminent release, you can print these copy ability-inspired cards for free and hand them out for tomorrow's holiday. You can print them from Play Nintendo , and you can see all three pictured above. Cameron, AKA Cam, AKA Cam Critiques is a big fan of all sorts of video games, especially platformers and RPGs.
+
+
+***
+![Report: Ubisoft has no plans for The Division 3 –](https://www.gamereactor.no/media/41/_3944143b.jpg "Report: Ubisoft has no plans for The Division 3 –")
+
+
+[Report: Ubisoft has no plans for The Division 3 –](https://www.world-today-news.com/report-ubisoft-has-no-plans-for-the-division-3/)
+
+
+> The first The Division was known for its incredible graphics, but also had a rather unique concept for a live service game that was very entertaining to play. With The Division 2, Massive Entertainment pretty much improved everything and it was well received and sold quite well too, with the series reaching over 40 million players in 2021. But it still sold less than Ubisoft expected, and support has been a mixed bag. The Division 2 launched back in 2019 which is now four years ago, but so far we haven't heard any talk of The Division 3, with smartphone title The Division Resurgence and free-to-play project The Division: Heartland being the only new ones the things that are confirmed to be happening with the franchise.
+
+
+***
+![If Google Photos is broken for you on iOS, you're not alone](https://cdn.vox-cdn.com/thumbor/EaScurH_lVme4X1artA78Qh3lpo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg "If Google Photos is broken for you on iOS, you're not alone")
+
+
+[If Google Photos is broken for you on iOS, you're not alone](https://www.theverge.com/2023/2/13/23598709/google-photos-ios-16-3-1-crash-broken)
+
+
+> Google Photos appears to be broken for many users following Apple's latest iOS 16.3.1 update. Several Verge staff members, as well as people on Twitter , report that the app crashes on launch, making it impossible to access or manage your Google photo library. While the problem isn't universal — a few people , myself included, say they're able to open Google Photos just fine — the crashing does still appear to be relatively widespread. Other Google apps, such as Gmail, Google Drive, and Google Maps, all seem to be working fine.
+
+
+***
+![Aspire Closes US$100 Million Series C Led by Sequoia, Lightspeed](https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/02/Aspire-Closes-Oversubscribed-US100-Million-Series-C-Co-led-by-Sequoia-Lightspeed.png?x64868 "Aspire Closes US$100 Million Series C Led by Sequoia, Lightspeed")
+
+
+[Aspire Closes US$100 Million Series C Led by Sequoia, Lightspeed](https://fintechnews.sg/69715/virtual-banking/aspire-closes-us100-million-series-c-led-by-sequoia-lightspeed/)
+
+
+> Singaporean fintech Aspire announced today that it has closed an oversubscribed US$100 million Series C round co-led by Lightspeed and Sequoia Capital SEA. The round was also joined by Paypal Ventures, LGT Capital Partners, and existing backers Picus Capital and Mass Mutual Ventures. Aspire said that it plans to use the funding to further enhance its product offering, expand its regional presence as well as expand its team. The Y-Combinator-backed firm had announced that it had secured an oversubscribed US$158 million Series B funding round just last year in September.
+
+
+***
+![Fintech Nium Expands Payments Platform with ‘Zero-Deduction' Wire Transfers for Payroll](https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Nium-Card-.png "Fintech Nium Expands Payments Platform with ‘Zero-Deduction' Wire Transfers for Payroll")
+
+
+[Fintech Nium Expands Payments Platform with ‘Zero-Deduction' Wire Transfers for Payroll](https://www.crowdfundinsider.com/2023/02/202426-fintech-nium-expands-payments-platform-with-zero-deduction-wire-transfers-for-payroll)
+
+
+> Nium expands its payments platform with ‘zero-Deduction' wire transfers for payroll and procurement. Nium's enhanced offering includes: Zero-Deduction fee structures, allowing no-limit ‘zero-deduction' wire transfers through OUR, or shared costs through SHA structures; Payouts via wire transfers in 7 major global currencies, including USD, EUR, GBP, AUD, CAD, HKD, and SGD; Sender to beneficiary details, ability to pass through the name of the ultimate sender to the beneficiary, and; Transaction tracking via SWIFT gpi, helping improve traceability of wire transfers.
+
+
+***
+![Sony Float Run headphones specifically designed for cyclists and runners](https://gadgetsmagazine.com.ph/wp-content/uploads/2023/02/Sony-Float-Run-Main-KV.jpg "Sony Float Run headphones specifically designed for cyclists and runners")
+
+
+[Sony Float Run headphones specifically designed for cyclists and runners](https://gadgetsmagazine.com.ph/technology/audio-devices/sony-float-run)
+
+
+> Sony announces its newest innovation, the Float Run, an off-ear headphone that positions the speaker near, but without touching the ear canal, leaving the ear safely uncovered while still delivering a rich sound experience making it perfect for cyclists and runners.  The Float Run headphones focus on the cyclist's posture and runner's form, for a comfortable and stable experience without having to compromise sound quality. It offers functional features to runners, including a lightweight design with a flexible neckband that doesn't slip when in motion.
+
+
+***
+![Report: Ubisoft has no plans for The Division 3 – Gamereactor](https://www.gamereactor.cn/media/41/_3944143b.jpg "Report: Ubisoft has no plans for The Division 3 – Gamereactor")
+
+
+[Report: Ubisoft has no plans for The Division 3 – Gamereactor](https://www.world-today-news.com/report-ubisoft-has-no-plans-for-the-division-3-gamereactor/)
+
+
+> The first The Division was known for its incredible graphics, but also had a very unique real-time service game concept that was a lot of fun to play.Massive Entertainment improved in every way with The Division 2, which was critically acclaimed and sold reasonably well, with the series in Reaching over 40 million gamers in 2021. But it still sold below Ubisoft's expectations, and support was mixed. The Division 2 launched in 2019, four years ago, but so far we haven't heard any talk of The Division 3, smartphone game The Division Revival and free-to-play projects The Division: Heartland is the only new thing confirmed to be happening in the series.
+
+
+***
+![Cloudflare says it mitigated dozens of hyper-volumetric DDoS attacks hitting customers last weekend; one exceeded 71M rps, 35%+ higher than the previous record (Sergiu Gatlan/BleepingComputer)](http://www.techmeme.com/230213/i23.jpg "Cloudflare says it mitigated dozens of hyper-volumetric DDoS attacks hitting customers last weekend; one exceeded 71M rps, 35%+ higher than the previous record (Sergiu Gatlan/BleepingComputer)")
+
+
+[Cloudflare says it mitigated dozens of hyper-volumetric DDoS attacks hitting customers last weekend; one exceeded 71M rps, 35%+ higher than the previous record (Sergiu Gatlan/BleepingComputer)](https://newsakmi.com/news/tech-news/cloudflare-says-it-mitigated-dozens-of-hyper-volumetric-ddos-attacks-hitting-customers-last-weekend-one-exceeded-71m-rps-35-higher-than-the-previous-record-sergiu-gatlan-bleepingcomputer/)
+
+
+> Home / News / Tech / Cloudflare says it mitigated dozens of hyper-volumetric DDoS attacks hitting customers last weekend; one exceeded 71M rps, 35%+ higher than the previous record (Sergiu Gatlan/BleepingComputer) Tech Sierra Mitchell Send an email 6 hours ago Less than a minute
+
+
+***
+![Nvidia's AD104-250 chip pictured, presumably for the RTX 4070 non-Ti](https://content.hwigroup.net/images/news/500x300/084277.jpg "Nvidia's AD104-250 chip pictured, presumably for the RTX 4070 non-Ti")
+
+
+[Nvidia's AD104-250 chip pictured, presumably for the RTX 4070 non-Ti](https://www.world-today-news.com/nvidias-ad104-250-chip-pictured-presumably-for-the-rtx-4070-non-ti/)
+
+
+> Hardware Info uses cookies Hardware Info places functional and analytical cookies for the functioning of the website and to improve the website experience. These cookies are necessary. To show more relevant advertisements on Hardware Info and to show embedded content from third parties (for example videos), we ask your permission. Embedded content allows third parties to provide and improve services, track visitor statistics, display personalized content, display targeted advertisements and build user profiles.
+
+
+***
+![Engineering Blogs Weekly from FAANG & Others](https://external-preview.redd.it/XHM3YDfc3Ae2JTZbYk-GCDXOdaPIxaWpknG76w8_sQw.jpg?auto=webp&v=enabled&s=4b747951c7fd0810bab70d82e7c6ab252f4f4a68 "Engineering Blogs Weekly from FAANG & Others")
+
+
+[Engineering Blogs Weekly from FAANG & Others](https://www.reddit.com/r/programming/comments/111qemu/engineering_blogs_weekly_from_faang_others_2)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![A contest in the libraries of Quebec](https://mobile-img.lpcdn.ca/v2/924x/r3996/0427d1e1/eca08327abec3c869f130498e36631d5.jpg "A contest in the libraries of Quebec")
+
+
+[A contest in the libraries of Quebec](https://www.world-today-news.com/a-contest-in-the-libraries-of-quebec/)
+
+
+> Until February 25, users of all libraries in Quebec will be able to take part in a great hunt for golden tickets. This initiative, intended to remind people of the essential services offered in libraries, will also be an opportunity to win more than 200 instant prizes (iPad tablets, various gift cards). It is also possible to register for the competition online. Artists like Guylaine Guay, Mélissa Bédard, Samian, Samuel Piette, Fabien Cloutier, Louise Penny and Mariana Mazza will offer gifts drawn at random in each of the administrative regions of the province.
+
+
+***
+![Auto-battle roguelite 'CyberHeroes Arena DX' comes to Switch Feb. 22nd, 2023](https://gonintendo.com/attachments/image/23198/file/medium-d92398252fba334c44df260d27b6836f.jpg "Auto-battle roguelite 'CyberHeroes Arena DX' comes to Switch Feb. 22nd, 2023")
+
+
+[Auto-battle roguelite 'CyberHeroes Arena DX' comes to Switch Feb. 22nd, 2023](https://gonintendo.com/contents/16208-auto-battle-roguelite-cyberheroes-arena-dx-comes-to-switch-feb-22nd-2023)
+
+
+> Ratalaika Games has announced that they're bringing CyberHeroes Arena DX to the Switch on February 22nd, 2023. The game will be priced at $5 and takes up just 47 MB. CyberHeroes Arena is a mecha-themed auto battle roguelite ready for major fun! Choose your robot, create your build and destroy all cyber monsters to survive. Move around avoiding enemies while automatically shooting; Collect money to buy skills and items. Complete missions and unlock all the playable robots. And try to survive the 18 waves to win.
+
+
+***
+![Only 8 per cent of AI professionals depicted in film are women, new study finds](https://womensagenda.com.au/wp-content/uploads/2023/02/pexels-michelangelo-buonarroti-8728557.jpg "Only 8 per cent of AI professionals depicted in film are women, new study finds")
+
+
+[Only 8 per cent of AI professionals depicted in film are women, new study finds](https://womensagenda.com.au/tech/only-8-per-cent-of-ai-professionals-depicted-in-film-are-women-new-study-finds/)
+
+
+> A new study finds that only 8 per cent of AI professionals depicted in film are women– a dismal statistic that researchers worry is exacerbating existing gender inequality in the tech industry. Researchers at the University of Cambridge analysed 142 of the most influential films featuring AI from 1920 to 2020. Out of the 116 individuals playing AI researchers, only nine of them were women (8 per cent) and none of the films were solely directed by a woman.  Some of the reasons for this poor female representation on screen are theorised to be the lack of female directors, the influence of gendered narrative tropes and parallels between film and real-life gender inequality.
+
+
+***
+![Get the buzz: Nostalgic games from your childhood Game Boy are now available on Nintendo Switch too!](https://s.yimg.com/os/creatr-uploaded-images/2023-02/35dc7800-aa9a-11ed-9dfc-ede1f67d3df5 "Get the buzz: Nostalgic games from your childhood Game Boy are now available on Nintendo Switch too!")
+
+
+[Get the buzz: Nostalgic games from your childhood Game Boy are now available on Nintendo Switch too!](https://www.world-today-news.com/get-the-buzz-nostalgic-games-from-your-childhood-game-boy-are-now-available-on-nintendo-switch-too/)
+
+
+> Not long ago, Nintendo revealed a lot of exciting news at the Nintendo Direct, including the long-awaited 'Legend of Zelda: Tears of the Kingdom', 'Pikmin 4', 'Forked Road Brigade 2', and 'Spratton 3' DLC and other sequel pictures and news, as well as many new Switch games, among which players are most surprised, of course, there are retro games that have returned to the past Game Boy and GBA! This time, Nintendo revealed that many classic games of Game Boy, Game Boy Color, and Game Boy Advance will be released on Nintendo Switch Online, so that we can relive the retro pictures of childhood on the new generation console, including Super Mario, Tetris Tetris, Alone in Including the Dark series, etc.
+
+
+***
+![New wave of Hisuian plush Pokémon available through Pokémon Center website](https://gonintendo.com/attachments/image/23197/file/medium-fd9a9cf5c1cc4d494069459491b400c3.png "New wave of Hisuian plush Pokémon available through Pokémon Center website")
+
+
+[New wave of Hisuian plush Pokémon available through Pokémon Center website](https://gonintendo.com/contents/16207-new-wave-of-hisuian-plush-pokemon-available-through-pokemon-center-website)
+
+
+> If you're keeping track of Pokemon merch, you already know how things work. Our friends in Japan get wave after wave of new goodies, and then most of those eventually see release stateside a few months later. That's exactly what's going on today with the latest round of plush Pokémon up for grabs. The Pokémon Center website has just added a new grouping of Hisuian Pokémon plush dolls, and they range in price from $20 to $45 You can see the complete breakdown of what's been added below. Hisuian Arcanine: $44.
+
+
+***
+![System Design: Real-time Superbowl Voting Service](https://external-preview.redd.it/q0IpGFAG5vAwsNUBMknCOkXXXNtaOontNVGhiA3K-1w.jpg?auto=webp&v=enabled&s=7d69989e98de1784bd3c96b1980310abc5293c99 "System Design: Real-time Superbowl Voting Service")
+
+
+[System Design: Real-time Superbowl Voting Service](https://www.reddit.com/r/programming/comments/111q37k/system_design_realtime_superbowl_voting_service)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![NYC-based Via Transportation, which makes software for cities to help commuters find and use public transit, raised $110M led by 83North at a $3.5B valuation (Bloomberg)](http://www.techmeme.com/230213/i21.jpg "NYC-based Via Transportation, which makes software for cities to help commuters find and use public transit, raised $110M led by 83North at a $3.5B valuation (Bloomberg)")
+
+
+[NYC-based Via Transportation, which makes software for cities to help commuters find and use public transit, raised $110M led by 83North at a $3.5B valuation (Bloomberg)](https://newsakmi.com/news/tech-news/nyc-based-via-transportation-which-makes-software-for-cities-to-help-commuters-find-and-use-public-transit-raised-110m-led-by-83north-at-a-3-5b-valuation-bloomberg/)
+
+
+> Home / News / Tech / NYC-based Via Transportation, which makes software for cities to help commuters find and use public transit, raised $110M led by 83North at a $3.5B valuation (Bloomberg) Tech Sierra Mitchell Send an email 7 hours ago Less than a minute
+
+
+***
+![The police Tesla Model Y is said to save 1.8 million in 10 years of service, according to US police officers](https://1884403144.rsc.cdn77.org/foto/tesla-model-y-tesla-model-y/NzV4NTUvY2VudGVyL21pZGRsZS9maWx0ZXJzOnF1YWxpdHkoODUpOm5vX3Vwc2NhbGUoKS9pbWc/6621929.jpg?v=0&st=zmPbipNGzAG3zbeXkgmb6RjkY6WXQn9znKhFsFzpiB0&ts=1600812000&e=0 "The police Tesla Model Y is said to save 1.8 million in 10 years of service, according to US police officers")
+
+
+[The police Tesla Model Y is said to save 1.8 million in 10 years of service, according to US police officers](https://www.world-today-news.com/the-police-tesla-model-y-is-said-to-save-1-8-million-in-10-years-of-service-according-to-us-police-officers/)
+
+
+> All-electric police cars are starting to become quite a popular choice around the world, but there are still skeptical comments that address price as well as range. Compared to regular company cars, it tends to be significantly higher, but according to the US Police Department of Somerset in the state of Wisconsin, an electric car will pay for itself relatively quickly. After all, this was supposed to be the reason why police officers from this department decided to purchase a purely electric Tesla Model Y crossover during the last fleet change, instead of the Ford Explorer Hybrid, which is common and popular in overseas police forces.
+
+
+***
+![God of Rock 'The Borderline' soundtrack sample released](https://gonintendo.com/attachments/image/23196/file/medium-07243f41960540b52a3dc43b5388fb4d.jpg "God of Rock 'The Borderline' soundtrack sample released")
+
+
+[God of Rock 'The Borderline' soundtrack sample released](https://gonintendo.com/contents/16206-god-of-rock-the-borderline-soundtrack-sample-released)
+
+
+> Modus Games previously announced that God of Rock will open its world tour on April 18, 2023, unleashing a stacked setlist of energetic tracks that players will need to master to perform devastating combos in musical matches against other fighters. Today brings us a new soundtrack sample video showcasing the ‘The Borderland' song from Whitetail. You can give that tune a listen above. Think you have what it takes to defeat the most talented artists in the universe? Now's your chance to test your skills, as attendees of this weekend's Holiday Matsuri event can get their hands on a new playable demo.
+
+
+***
+![Pre-order Zelda: Tears of the Kingdom at GameStop, get a bonus wooden plaque](https://gonintendo.com/attachments/image/23195/file/medium-5d5ab4e47882b38f26ea3a9bbcd82d5b.jpg "Pre-order Zelda: Tears of the Kingdom at GameStop, get a bonus wooden plaque")
+
+
+[Pre-order Zelda: Tears of the Kingdom at GameStop, get a bonus wooden plaque](https://gonintendo.com/contents/16205-pre-order-zelda-tears-of-the-kingdom-at-gamestop-get-a-bonus-wooden-plaque)
+
+
+> Still trying to figure out the best place to pre-order your physical copy of The Legend of Zelda: Tears of the Kingdom? You might want to go with GameStop, as they're offering a pretty unique goodie to add to your Zelda collection. You can pre-order any edition of Legend of Zelda: Tears of the Kingdom at GameStop and receive the free exclusive wooden plaque seen above. This is a GameStop exclusive, so you won't find this wood plaque anywhere else. If this seems like a deal you want to lock in, you can secure your GameStop pre-order through this link.
+
+
+***
+![The Guilty Gear Strive DLC character reveal has been postponed to April.](https://img.4gamers.com.tw/news-image/b4344cec-ae9c-457d-8b8a-b7ca5a2131bb.jpg "The Guilty Gear Strive DLC character reveal has been postponed to April.")
+
+
+[The Guilty Gear Strive DLC character reveal has been postponed to April.](https://www.world-today-news.com/the-guilty-gear-strive-dlc-character-reveal-has-been-postponed-to-april/)
+
+
+> Tuesday, February 14, 2023, 3:00 a.m. 11 a.m. Indochina time. Arc System Works has announced that the character DLC The next one to be revealed for Guilty Gear Strive It will be postponed to the next month from the month originally announced. At the beginning of December last year, the Arc System Works have released Teaser character brief DLC The 8th to come Guilty Gear Strive which is part of Season Pass 2nd place of the game by Teaser It was shown during ArcRevo 2022 which is the developer's premiere fighting game tournament.
+
+
+***
+![Tesla Investory Day 2023: Elon Musk Announces Dates, What to Expect](https://1734811051.rsc.cdn77.org/data/images/full/420786/tesla-elon-musk.jpg "Tesla Investory Day 2023: Elon Musk Announces Dates, What to Expect")
+
+
+[Tesla Investory Day 2023: Elon Musk Announces Dates, What to Expect](https://www.techtimes.com/articles/287605/20230213/tesla-investory-day-2023-elon-musk-announces-dates-what-expect.htm)
+
+
+> Isaiah Richard , Tech Times 13 February 2023, 08:02 pm Tesla Investor Day 2023 is coming soon, and Elon Musk is already teasing what the world should expect from the upcoming showcase that will reveal the company's latest and most advanced developments. One of the most anticipated showcases of Tesla's technology for the world, including and not limited to its electric vehicle feats. There is more to Tesla than its EVs, as it also has the smart home, AI, and other power-centered creations to help life here on Earth, as per its tech CEO.
+
+
+***
+![4 out of 5 Valentine's Day emails are scams](https://www.informacija.rs/thumbs/v1_2800_dating3.jpg "4 out of 5 Valentine's Day emails are scams")
+
+
+[4 out of 5 Valentine's Day emails are scams](https://tekdeeps.com/4-out-of-5-valentines-day-emails-are-scams/)
+
+
+> When it comes to cyber security, Valentine's Day heralds one thing every year – a new wave of scams. This year, Valentine's Day was preceded by a wave of spam emails designed to lure people into giving out personal information or buying a gift for their significant other. About 83% of Valentine's Day-themed spam emails are scanned Bitdefender's filters between January 22 and February 8 was recognized as fraud, the company announced. The rate of Valentine's Day-themed spam has increased significantly over the past week, with notable spikes between February 6th and 8th.
+
+
+***
+![The Apple Watch is reportedly getting a camera](https://i0.wp.com/pcpress.rs/wp-content/uploads/2023/02/apple-watch.jpg?resize=768%2C432&ssl=1 "The Apple Watch is reportedly getting a camera")
+
+
+[The Apple Watch is reportedly getting a camera](https://tekdeeps.com/the-apple-watch-is-reportedly-getting-a-camera/)
+
+
+> Those hoping that the next Apple Watch will arrive with a built-in camera may soon be pleased – a new patent indicates that it could be in production soon a smart watch with a camera on the bottom. It is true that the position does not sound perfect, because the camera on the bottom of the device seems like something that is not very functional. The patent it is claimed that it is still useful, especially in specific scenarios, and thanks to the strap that can be easily unfastened to take a photo of something.
+
+
+***
+![USAF Collaborates with Reliable Robotics to Work on Autonomous Flights for Military Needs](https://1734811051.rsc.cdn77.org/data/images/full/421131/usaf-reliable-robotics-to-deliver-autonomous-aviation-for-its-planes.png "USAF Collaborates with Reliable Robotics to Work on Autonomous Flights for Military Needs")
+
+
+[USAF Collaborates with Reliable Robotics to Work on Autonomous Flights for Military Needs](https://www.techtimes.com/articles/287602/20230213/usaf-collaborates-reliable-robotics-work-autonomous-flights-military-needs.htm)
+
+
+> Isaiah Richard , Tech Times 13 February 2023, 07:02 pm The United States Air Force issued a significant contract to Reliable Robotics, which aims to center on the research on autonomous aviation for the future of military needs and its fleet. The focus is to have a future aircraft fleet that would do everything by itself, from taxiing, moving on and off the runway, and flying cargo to destinations.  There is a massive market for the autonomous aviation industry, primarily as it has yet to deliver a significant breakthrough that could change the game.
+
+
+***
+![New Apple Leak Reveals Stunning MacBook Air Decision](https://www.mccourier.com/wp-content/uploads/2023/02/New-Apple-Leak-Reveals-Stunning-MacBook-Air-Decision.jpg "New Apple Leak Reveals Stunning MacBook Air Decision")
+
+
+[New Apple Leak Reveals Stunning MacBook Air Decision](https://www.mccourier.com/new-apple-leak-reveals-stunning-macbook-air-decision/)
+
+
+> Apple's trustworthy have been asking for one nice new characteristic on the MacBook Air for a few years; now it seems to be prone to arrive later this 12 months. CUPERTINO, CALIFORNIA – JUNE 06: Model new redesigned MacBook Air laptops are displayed throughout the … [+] WWDC22 at Apple Park on June 06, 2022 in Cupertino, California. Apple CEO Tim Prepare dinner kicked off the annual WWDC22 developer convention. (Picture by Justin Sullivan/Getty Photographs) Getty Photographs With the present MacBook Professional laptops specializing in workstation ranges of efficiency and Apple Silicon providing a formidable bundle of efficiency within the present MacBook Air vary, there's a curious center floor that must be stuffed.
+
+
+***
+![Google employees criticize CEO for 'dumpster fire' response to ChatGPT](https://cdn.arstechnica.net/wp-content/uploads/2020/07/GettyImages-1207206237-800x534.jpg "Google employees criticize CEO for 'dumpster fire' response to ChatGPT")
+
+
+[Google employees criticize CEO for 'dumpster fire' response to ChatGPT](https://newsakmi.com/news/tech-news/product-reviews/google-employees-criticize-ceo-for-dumpster-fire-response-to-chatgpt/)
+
+
+> Enlarge / Google's corporate headquarters. When Google's ChatGPT competitor event was announced for last week, we wrote that it seemed like a rush job designed to reassure investors, and since then, that event happened and went worse than anyone could have imagined. Google's event did the opposite of what it wanted, with the stock down nearly 12 percent since the recent high just before the event. Even Google employees are starting to take notice, with CNBC's Jennifer Elias writing that, internally, employees are criticizing CEO Sundar Pichai for what they call a ‘rushed, botched' announcement of Google's new chatbot.
+
+
+***
+![The Last of Us Ep. 5 Breakdown & Easter Eggs](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2023/02/13163826/20230213_nerdistnews_lastofusep5_1920x1080_v1.jpg "The Last of Us Ep. 5 Breakdown & Easter Eggs")
+
+
+[The Last of Us Ep. 5 Breakdown & Easter Eggs](https://nerdist.com/watch/video/the-last-of-us-ep-5-breakdown-easter-eggs/)
+
+
+> Watch > Shows > Nerdist News > Video LEGEND OF VOX MACHINA Season 2 Ep. 4-6 Breakdown & Easter Eggs (Nerdist News w\/ Kyle Anderson)\u00a0<\>","video_type":"youtube","video_source":"PfdDfhWvp_I"} class=dfw-unit data-adunit=nerdist data-size-mapping=mapping3> \
+
+
+***
+![Today's Pick: H.G. Infra Engineering (₹756.40): BUY](https://bl-i.thgim.com/public/migration_catalog/article22622644.ece/alternates/LANDSCAPE_1200/infraJPG "Today's Pick: H.G. Infra Engineering (₹756.40): BUY")
+
+
+[Today's Pick: H.G. Infra Engineering (₹756.40): BUY](https://www.thehindubusinessline.com/portfolio/technical-analysis/todays-pick-hg-infra-engineering-75640-buy/article66504477.ece)
+
+
+> The short-term outlook for the stock of H.G. Infra Engineering is bullish. The 2.93 per cent rise on Monday has taken the stock well above the key resistance at ₹740. This level of ₹740 will now act as a strong resistance-turned-support. H.G. Infra Engineering's share price can rise to ₹830 in a week or two. Traders can go long at current levels. Accumulate longs on dips at ₹745. Keep the stop-loss at ₹715. Trail the stop-loss up to ₹765 as soon as the stock moves up to ₹780. Move the stop-loss further up to ₹790 when H.
+
+
+***
+![Rigetti Computing names a new CTO and CFO and cuts 28% of its staff, as the quantum computing startup aims to finish its 84-qubit machine Ankaa this quarter (Stephen Shankland/CNET)](http://www.techmeme.com/230213/i20.jpg "Rigetti Computing names a new CTO and CFO and cuts 28% of its staff, as the quantum computing startup aims to finish its 84-qubit machine Ankaa this quarter (Stephen Shankland/CNET)")
+
+
+[Rigetti Computing names a new CTO and CFO and cuts 28% of its staff, as the quantum computing startup aims to finish its 84-qubit machine Ankaa this quarter (Stephen Shankland/CNET)](https://newsakmi.com/news/tech-news/rigetti-computing-names-a-new-cto-and-cfo-and-cuts-28-of-its-staff-as-the-quantum-computing-startup-aims-to-finish-its-84-qubit-machine-ankaa-this-quarter-stephen-shankland-cnet/)
+
+
+> Home / News / Tech / Rigetti Computing names a new CTO and CFO and cuts 28% of its staff, as the quantum computing startup aims to finish its 84-qubit machine Ankaa this quarter (Stephen Shankland/CNET) Tech Sierra Mitchell Send an email 8 hours ago Less than a minute
+
+
+***
+![Apple updates macOS, watchOS, tvOS, Safari, HomePod](https://itwire.com/media/k2/items/cache/5006eee35254348a37f48b47bd3349f5_XS.jpg "Apple updates macOS, watchOS, tvOS, Safari, HomePod")
+
+
+[Apple updates macOS, watchOS, tvOS, Safari, HomePod](https://itwire.com/security/apple-updates-macos,-watchos,-tvos,-safari,-homepod.html)
+
+
+> The latest round of operating system updates from Apple deliver bug fixes and security fixes. In addition to the iOS 16.3.1 and iPadOS 16.3.1 updates already reported , Apple released updates for macOS, watchOS and tvOS overnight. macOS 16.3.1 delivers "bug fixes and security updates for your Mac," according to Apple. Three security issues have been disclosed so far. Two of them are particularly serious, involving a kernel issue that may allow an app to execute arbitrary code with kernel privileges, and a WebKit flaw that provides a way for maliciously crafted web content to execute arbitrary code.
+
+
+***
+![UNSW Researchers Say They've Smashed Another Quantum Computing Barrier](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/14/gizmodo-8.png?quality=80&resize=1280,720 "UNSW Researchers Say They've Smashed Another Quantum Computing Barrier")
+
+
+[UNSW Researchers Say They've Smashed Another Quantum Computing Barrier](https://www.gizmodo.com.au/2023/02/unsw-flip-flop-qubit-demonstration/)
+
+
+> A team of researchers from UNSW have demonstrated the operation of a new type of quantum bit, called a ‘flip-flop' qubit. Image: Shutterstock A team of researchers from UNSW have demonstrated the operation of a new type of quantum bit, called a ‘flip-flop' qubit. It's not a pair of thongs, rather a major breakthrough in the world of quantum computing. A flip-flop quantum bit (qubit) combines the 'exquisite quantum properties of single atoms, with easy controllability using electric signals', just like those used in ordinary computer chips.
+
+
+***
+![Corsair HS65 Wireless review: In a headset like cotton](https://storage.googleapis.com/pctuning-cz/media/images/r70kmaetxscn3sf63e2a904681b8200279987.jpg "Corsair HS65 Wireless review: In a headset like cotton")
+
+
+[Corsair HS65 Wireless review: In a headset like cotton](https://tekdeeps.com/corsair-hs65-wireless-review-in-a-headset-like-cotton/)
+
+
+> What are you sitting on at the computer? On a subtle office chair, or in a proper padded armchair that even Palpatine wouldn't be ashamed of? The Corsair HS65 from this review belongs to the latter caste. Their purpose is to offer comfort during long-term wear and quality sound not only for games. Did they achieve their goal? I like simple things. I have a long familiarity with the 3.5mm jack, it has always worked and until now I am missing it on my phone. I have it on my computer too, so why avoid it? Perhaps because you have Bluetooth on your laptop and you don't want to connect extra cables.
+
+
+***
+![The Witcher 3: a realistic-looking naked woman a bigger problem than a dismembered human body?](https://www.svethardware.cz/zaklinac-3-realisticky-vypadajici-naha-zena-vetsi-problem-nez-rozsekane-lidske-telo/58992/img/zaklinac-3-geralt-thumbs-up.jpeg "The Witcher 3: a realistic-looking naked woman a bigger problem than a dismembered human body?")
+
+
+[The Witcher 3: a realistic-looking naked woman a bigger problem than a dismembered human body?](https://tekdeeps.com/the-witcher-3-a-realistic-looking-naked-woman-a-bigger-problem-than-a-dismembered-human-body/)
+
+
+> We have already discussed the next-gen update of The Witcher 3 in connection with the technical side of the matter, when it comes to the visual transformation thanks to ray tracing. However, apart from their own modifications, the developers from CDPR also included some popular successful modifications in it, which they previously commented in the way that why do something again when someone else has already done it well before them, which makes sense, so I don't see anything objectionable about it ( while we do not know the conditions under which this occurred).
+
+
+***
+![Mac Pro 5.1 Only Spooling Up 3 of 4 Internal Drives.](https://images.macrumors.com/social/?t=2380697&v=6 "Mac Pro 5.1 Only Spooling Up 3 of 4 Internal Drives.")
+
+
+[Mac Pro 5.1 Only Spooling Up 3 of 4 Internal Drives.](https://forums.macrumors.com/threads/mac-pro-5-1-only-spooling-up-3-of-4-internal-drives.2380697/)
+
+
+> I have a 5.1 Mac Pro tower...running 10.13.6 on an SSD out of my broken Imac and 10.14x on a 2 TB PCI drive, Radeon RX 580 8g, internal drives are the 512 apple ssd, 2tb crucial, 2tb 7200rpm and a 6tb 7200rpm....it will only boot 3 of the 4 drives in trays...and it does this in both operating systems....and it seems random on which will get booted. I've moved them around and done restarts, one of the two bigger Non SSD drives constantly won't spool up. It's not the ports as each one will work, but only 3 at a time.
+
+
+***
+![Apple Watch Ultra and other great smartwatches are on sale right now](https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2022/09/LI-Apple-Watch-Ultra-side-and-front-display.png "Apple Watch Ultra and other great smartwatches are on sale right now")
+
+
+[Apple Watch Ultra and other great smartwatches are on sale right now](https://pocketnow.com/apple-watch-ultra-and-other-great-smartwatches-are-on-sale-right-now/)
+
+
+> We are wrapping up today's best deals with an excellent option for anyone looking to get fit in 2023, as Apple's latest smartwatches are currently on sale. First, we have the Apple Watch Ultra starting at $749 after receiving a $50 discount. This will get you a new 49mm model with cellular connectivity. The Apple Watch Ultra features a strong Rugged Titanium case and a Midnight Ocean Band, Apple's best fitness tracking sensors, precision GPS, extra-long battery life, a brighter Retina Display, and more.
+
+
+***
+![Hyperoptic's Full Fibre Broadband Covers 1.15 Million UK Homes](https://www.ispreview.co.uk/wp-content/uploads/2023/02/nggallery_import/Hyperoptic-TV-Advert-2023.jpg "Hyperoptic's Full Fibre Broadband Covers 1.15 Million UK Homes")
+
+
+[Hyperoptic's Full Fibre Broadband Covers 1.15 Million UK Homes](https://www.ispreview.co.uk/index.php/2023/02/hyperoptics-full-fibre-broadband-covers-1-15-million-uk-homes.html)
+
+
+> Tuesday, Feb 14th, 2023 (12:01 am) - Score 0 Broadband ISP Hyperoptic has today confirmed that their ' full fibre ' ( FTTP /B) network now covers 1.15 million UK homes, which will need to almost double in order to hit their goal of 2 million by the end of 2023. The provider has also launched a TV campaign to criticise ISPs that adopt ' misleading ' mid-contract price hikes. The last detailed coverage data that we had from Hyperoptic was in July 2022 ( here ), when they confirmed that their network had passed over 900,000 premises – including 250,000 customers connected – across parts of 64 UK towns (up from 750,000 in Feb 2022).
+
+
+***
+![Monash University Now Allows Students to Unlock Buildings With Their Phone](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/14/gizmodo-13.png?quality=80&resize=1280,720 "Monash University Now Allows Students to Unlock Buildings With Their Phone")
+
+
+[Monash University Now Allows Students to Unlock Buildings With Their Phone](https://www.gizmodo.com.au/2023/02/monash-phone-nfc-access/)
+
+
+> Monash students can now access buildings with their phone. Image: Apple/Gizmodo Australia As someone who doesn't carry a handbag, pocket real estate (if there are pockets at all) is very limited, that's why I put as much as I can on my phone – licence, bank cards, Medicare. I've often mused about the ability to convert the front door of my rental to something NFC-based, even the swipe pass I have for the work office. One Aussie university clearly understands this bugbear. Today, Monash announced it's allowing staff and students to add a pass to their phone that would give them access to classrooms, common rooms and the like.
+
+
+***
+![Running kube-bench as a k8s Job](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png "Running kube-bench as a k8s Job")
+
+
+[Running kube-bench as a k8s Job](https://medium.com/@varghesedavidkolath/running-kube-bench-as-a-k8s-job-777082e24034)
+
+
+> kube-bench is a tool that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark This generates an audit report with recommendations for improving the security aspect in a kubernetes cluster. This run on a running cluster and will assess the cluster as whole and provide recommendations against the CIS Kubernetes Benchmark . This job can be triggered on a frequency so that we monitor the state of the cluster as per the frequency required. This can be clubbed into a Jenkins run so that the audit report can be produced as a Jenkins artifact to be distributed to the cluster owners or management Setting up a kubernetes manifest file for resources I intentionally left the image without specifying the image name and version since I wanted to stress on the fact that IMHO docker images should never be pulled from the public repository when working within a corporate organization.
+
+
+***
+![Amazon Is Pocketing Half of Retailers' Sales](https://external-preview.redd.it/JuN1nOLeZDD64GOMDDjW1h641EOrq90BXZBSx9WV_R0.jpg?auto=webp&v=enabled&s=a6f41b36e211c864d4b6b53effc561e147f854f0 "Amazon Is Pocketing Half of Retailers' Sales")
+
+
+[Amazon Is Pocketing Half of Retailers' Sales](https://www.reddit.com/r/technology/comments/111n787/amazon_is_pocketing_half_of_retailers_sales)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Twitter is just showing everyone all of Elon's tweets now](https://cdn.vox-cdn.com/thumbor/WqbOyZQq3AdlGMhg9HKXM5CoKOg=/0x0:1816x1344/1200x628/filters:focal(908x672:909x673)/cdn.vox-cdn.com/uploads/chorus_asset/file/24430706/elon_musk_twitter_for_you.png "Twitter is just showing everyone all of Elon's tweets now")
+
+
+[Twitter is just showing everyone all of Elon's tweets now](https://www.theverge.com/2023/2/13/23598514/twitter-algorithm-elon-musk-tweets)
+
+
+> For many of us, Twitter's 'For You' is full of tweets and replies to tweets from Elon Musk. Not everyone is getting the Elon-first feed, but on Monday afternoon, more than a few people noticed something was different. Several of us here at The Verge are seeing more Musk replies than usual, and I personally counted five at the very top of my feed, with many more sprinkled in between tweets from other users. The same is true for some accounts that don't even follow Elon Musk. This comes just days after Musk complained that his tweets weren't getting enough views — and even fired an engineer over it .
+
+
+***
+![Zero-shot Image-to-Image Translation](https://pix2pixzero.github.io/resources/teaser.jpeg "Zero-shot Image-to-Image Translation")
+
+
+[Zero-shot Image-to-Image Translation](https://pix2pixzero.github.io)
+
+
+> Zero-shot Image-to-Image Translation We propose pix2pix-zero , a diffusion-based image-to-image approach that allows users to specify the edit direction on-the-fly (e.g., cat to dog). Our method can directly use pre-trained text-to-image diffusion models, such as Stable Diffusion, for editing real and synthetic images while preserving the input image's structure. Our method is training-free and prompt-free, as it requires neither manual text prompting for each input image nor costly fine-tuning for each task.
+
+
+***
+![Toba Capital on the Hunt After Slower 2022](https://images.ocbj.com/wp-content/uploads/2023/02/Tech-Vinny-Smith.jpeg "Toba Capital on the Hunt After Slower 2022")
+
+
+[Toba Capital on the Hunt After Slower 2022](https://www.ocbj.com/technology/toba-capital-on-the-hunt-after-slower-2022/)
+
+
+> Newport Beach's Toba Capital , founded by OC multibillionaire Vinny Smith , has recently increased its portfolio holdings and is hunting for more investments in the tech area, after slowing things down last year. Tech exec Smith was the CEO of Quest Software in Aliso Viejo who engineered the $2.4 billion sale of the company to Dell in 2012. He then started Toba Capital that same year, pushing it to become the largest venture capital firm based in Orange County. Toba has $1.4 billion in assets under management, according to Business Journal figures.
+
+
+***
+![Dark Web Revenue Down Dramatically After Hydra's Demise](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt95af9b6a42e1bc3c/63e6c3ad3c0a2275090771c4/darknet_dpa_picture_alliance_Alamy.jpg "Dark Web Revenue Down Dramatically After Hydra's Demise")
+
+
+[Dark Web Revenue Down Dramatically After Hydra's Demise](https://www.darkreading.com/threat-intelligence/dark-web-revenue-down-after-hydras-demise)
+
+
+> During the first few months of 2022, business was booming at Hydra Marketplace, the premiere Dark Web destination for cybercrime money laundering and selling narcotics and other illegal goods and services. In fact, until its takedown in April 2022, Hydra owned a full 93% of all illicit underground economic activities. Here's how massive Hydra's presence was on the Dark Web: In the days leading up to Hydra's takedown, the average daily revenue for all underground markets was about $4.2 million. That number fell to just $447,000 after Hydra disappeared, according to new data released by Chainalysis.
+
+
+***
+![Beats Solo 3 Headphones with Apple's W1 Headphone Chip are now available for just $130](https://static1.pocketnowimages.com/wordpress/wp-content/uploads/styles/xxlarge/public/2021-12/beats%20solo3.jpeg "Beats Solo 3 Headphones with Apple's W1 Headphone Chip are now available for just $130")
+
+
+[Beats Solo 3 Headphones with Apple's W1 Headphone Chip are now available for just $130](https://pocketnow.com/beats-solo-3-headphones-with-apples-w1-headphone-chip-are-now-available-for-just-130/)
+
+
+> We have great news for music lovers everywhere, as some fantastic deals are available on some of Apple's best headphones on the market. Savings are getting pretty aggressive, with the Beats Solo 3 Wireless On-Ear Headphones receiving a huge 35 percent discount. These headphones launched with a $200 price tag, which means you can now take a pair home for just $130. The Beats Solo 3 feature Apple's W1 Headphone Chip, up to 40 hours of non-stop listening time, and a built-in microphone, and the best part is that this offer is available in its four different color variants.
+
+
