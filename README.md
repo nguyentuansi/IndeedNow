@@ -29923,3 +29923,900 @@
 > The Department of Telecommunications has asked sector regulator TRAI to make quality of service norms stricter in order to curb call drops and improve call quality, an official source said on Tuesday. The move comes after the Department of Telecommunications (DoT) collected feedback from the public through an IVRS call around call drop, quality of calls etc. "Quality of service is very important for customer satisfaction and protection of their interests. DoT has requested TRAI for improvement in the present quality of service (QoS) through more stringent parameters," an official said.
 
 
+***
+![Cryptoverse: Punk Monkeys and a Resurgence of NFTs](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/15002426/FINTECH-CRYPTO-WEEKLY-0_1676434432048_1676434432048_1676434472735_1676434472735-800x450.jpg "Cryptoverse: Punk Monkeys and a Resurgence of NFTs")
+
+
+[Cryptoverse: Punk Monkeys and a Resurgence of NFTs](https://shepherdgazette.com/cryptoverse-punk-monkeys-and-a-resurgence-of-nfts/)
+
+
+> It lives! The NFT market is jerking out of its torpor, defying reports of its demise. Total NFT revenue on the Ethereum blockchain — where most of the trading takes place — jumped to $780.2 million in January from $546.9 million in the previous month, according to market tracker CryptoSlam. Digital art collectibles were among the big hits. For example, 'Bored Ape Yacht Club #5840' — a cartoon monkey that shoots green lasers from its eyes — went for $822,730, while 'CryptoPunks #7674' — a pixelated character smoking a pipe — fetched $433,555.
+
+
+***
+[Tebra's State of the U.S. Medical Billing Industry Report Reveals Billers Have Positive Outlook for 2023](http://www.businesswire.com/news/home/20230214005835/en/Tebra%E2%80%99s-State-of-the-U.S.-Medical-Billing-Industry-Report-Reveals-Billers-Have-Positive-Outlook-for-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEWPORT BEACH, Calif.--(BUSINESS WIRE)-- #EHR--New Survey Conducted by Tebra Confirms Medical Billing Companies Embrace Automation and Diversified Services to Meet Growing Demands
+
+
+***
+[Inseego Corp. to Report Fourth Quarter and Full Year 2022 Financial Results on March 1, 2023](http://www.businesswire.com/news/home/20230215005386/en/Inseego-Corp.-to-Report-Fourth-Quarter-and-Full-Year-2022-Financial-Results-on-March-1-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN DIEGO--(BUSINESS WIRE)---- $INSG #5G--Inseego Corp. (Nasdaq: INSG), a leader in 5G edge cloud solutions, will release financial results for the quarter and year ended December 31, 2022 after the stock market close on Wednesday, March 1, 2023. Inseego will host a webcast and conference call for analysts and investors at 5:00 p.m. Eastern Time the same day. A Q&A session with analysts will be held directly after the prepared remarks. Inseego will offer a live audio webcast of the conference ca
+
+
+***
+![Core Industrial Partners acquires GEM Manufacturing](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/gem_manufacturing.jpg "Core Industrial Partners acquires GEM Manufacturing")
+
+
+[Core Industrial Partners acquires GEM Manufacturing](https://roboticsandautomationnews.com/2023/02/15/core-industrial-partners-acquires-gem-manufacturing/60325/)
+
+
+> Core Industrial Partners , a manufacturing, industrial technology, and industrial services-focused private equity firm, has acquired GEM Manufacturing , a provider of precision deep drawn metal components and mechanical assemblies. GEM represents the fifth platform investment in Core Industrial Partners Fund II, a $465 million fund closed in February 2021. Founded in 1950, GEM utilizes vertical transfer and progressive die press technology to manufacture high-precision deep drawn components spanning from prototype through high-volume applications.
+
+
+***
+![Oligo raises $28M to secure open-source libraries at runtime](https://techcrunch.com/wp-content/uploads/2023/02/Oligo-team-photo.png?resize=1200,800 "Oligo raises $28M to secure open-source libraries at runtime")
+
+
+[Oligo raises $28M to secure open-source libraries at runtime](https://techcrunch.com/2023/02/15/oligo-raises-28m-to-secure-open-source-libraries-at-runtime/)
+
+
+> Oligo Security , a Tel Aviv-based startup that focuses on runtime application security and observability to detect and prevent open-source vulnerabilities, is coming out of stealth today and announcing that it has raised a total of $28 million in seed and Series A funding. The company's investors include Lightspeed Venture Partners, Ballistic Ventures and TLV Partners, as well as angel investors like Mallanox CEO and Founder Eyal Waldman, Cnyk CTO Adi Sharabani and former Google Cloud VP Eyal Manor.
+
+
+***
+![Israeli cybersecurity startup Oligo launches out of stealth with $28M in funding](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/oligo.png "Israeli cybersecurity startup Oligo launches out of stealth with $28M in funding")
+
+
+[Israeli cybersecurity startup Oligo launches out of stealth with $28M in funding](https://siliconangle.com/2023/02/15/israeli-cybersecurity-startup-oligo-launches-stealth-28m-funding/)
+
+
+> Israeli cybersecurity startup Oligo Security  today launched out of stealth mode and announced that it has raised $28 million for its runtime application security and observability solution. The funding was raised from investors including Lightspeed Venture Partners L.P, Ballistic Ventures LLC, TLV Partners Management Ltd. and a several well-known cybersecurity professionals. Other investors include Eyal Waldman, founder and chief executive of Nvidia Corp. subsidiary Mellanox Technologies, Snyk Inc.
+
+
+***
+[LogRhythm Partners with Trend Micro to Help Organizations Around the Globe Automate Threat Detection and Response](http://www.businesswire.com/news/home/20230215005025/en/LogRhythm-Partners-with-Trend-Micro-to-Help-Organizations-Around-the-Globe-Automate-Threat-Detection-and-Response/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BROOMFIELD, Colo.--(BUSINESS WIRE)--New integration streamlines threat detection and response with LogRhythm's centralized data collection and automation
+
+
+***
+[Identiv Enters Exclusive Strategic Manufacturing and Channel Agreement with Trace-ID](http://www.businesswire.com/news/home/20230215005146/en/Identiv-Enters-Exclusive-Strategic-Manufacturing-and-Channel-Agreement-with-Trace-ID/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> FREMONT, Calif.--(BUSINESS WIRE)--Identiv, Inc. (NASDAQ: INVE), a global leader in digital security and identification in the Internet of Things (IoT), has signed an exclusive strategic agreement with Trace-ID, a Spain-based leading provider of UHF RFID technology and solutions, to become the exclusive provider for Trace-ID's complete line of specialty and industrial UHF RFID across North America. This partnership delivers best-in-class specialty and industrial UHF RFID at the most competitive
+
+
+***
+![Threat Analysis: VMware ESXi Attacks Soared in 2022](https://assets.infosecurity-magazine.com/webpage/og/057bad0c-5ba4-4fcc-ae46-4f8f3091c7d8.png "Threat Analysis: VMware ESXi Attacks Soared in 2022")
+
+
+[Threat Analysis: VMware ESXi Attacks Soared in 2022](https://www.infosecurity-magazine.com/news/vmware-esxi-attacks-soared-in-2022/)
+
+
+> The ESXiArgs ransomware attack that started infecting servers of VMware ESXi hypervisors from February 2, 2023, is the latest of a long list of malicious campaigns exploiting ESXi vulnerabilities. Threat intelligence firm Recorded Future has tracked ESXi-focused ransomware since 2020. In a threat analysis report published on February 13, 2023, the company said it believes virtual machines (VM) orchestration tools such as ESXi will increasingly be used by malicious actors in the future 'as organizations continue virtualizing their critical infrastructure and business systems.
+
+
+***
+[Deepwatch Announces $180 Million in Investments](http://www.businesswire.com/news/home/20230215005293/en/Deepwatch-Announces-180-Million-in-Investments/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TAMPA, Fla.--(BUSINESS WIRE)--Deepwatch, the leader in advanced managed detection and response ('MDR") security, today announced a total of $180 million in equity investments and strategic financing from Springcoast Capital Partners, Splunk Ventures and Vista Credit Partners, a subsidiary of Vista Equity Partners and strategic credit and financing partner focused on the enterprise software, data and technology markets. The combined capital will enable Deepwatch to accelerate platform innovation
+
+
+***
+[Introducing Yext Chat: Conversational AI for the Enterprise](http://www.businesswire.com/news/home/20230215005288/en/Introducing-Yext-Chat-Conversational-AI-for-the-Enterprise/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)-- #ai--Yext has launched Yext Chat, a new product that empowers organizations to create conversational experiences with cutting-edge AI.
+
+
+***
+[Analog Devices Reports Record First Quarter Fiscal 2023 Results](http://www.businesswire.com/news/home/20230215005261/en/Analog-Devices-Reports-Record-First-Quarter-Fiscal-2023-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WILMINGTON, Mass.--(BUSINESS WIRE)--Analog Devices, Inc. (Nasdaq: ADI), a global semiconductor leader, today announced financial results for its first quarter fiscal year 2023, which ended January 28, 2023. 'ADI continues to execute exceptionally well with revenue growth of 21% year-over-year and record earnings per share,' said Vincent Roche, CEO and Chair. 'Encouragingly, despite the macro uncertainty, demand remains resilient in our Industrial and Automotive markets, driven by continued mome
+
+
+***
+![Researchers Use Ancient Pottery To Locate Trade Routes Throughout The Holy Land](https://emfservices.azureedge.net/news/42348.jpg "Researchers Use Ancient Pottery To Locate Trade Routes Throughout The Holy Land")
+
+
+[Researchers Use Ancient Pottery To Locate Trade Routes Throughout The Holy Land](https://www.klove.com/news/tech-science/researchers-use-ancient-pottery-to-locate-trade-routes-throughout-the-holy-land-40470)
+
+
+> Research into the chemical composition of pottery shards taken from archeological digs in the Holy Land by Mississippi College faculty and students has revealed significant social networking and trade routes that verify certain accounts contained in the Bible. Using state-of-the-art inductively coupled plasma-optical emission spectrometry (ICP-OES) equipment, students in the Department of Chemistry and Biochemistry at MC analyzed the elements contained in each of the samples from throughout Israel and Corinth, Greece.
+
+
+***
+[Private Equity Firms Recognized with BluWave 2023 Top PE Innovator Awards](http://www.businesswire.com/news/home/20230215005065/en/Private-Equity-Firms-Recognized-with-BluWave-2023-Top-PE-Innovator-Awards/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NASHVILLE, Tenn.--(BUSINESS WIRE)--BluWave, the business builders' network for private equity grade due diligence and value creation needs, announced today the recipients of its second annual 2023 Top Private Equity Innovator Awards. The awards recognize private equity firms for exemplary innovation and leadership. Recipients of the BluWave 2023 Top Private Equity Innovator Awards represent the top 2% in the private equity industry for due diligence, value creation, ESG, and PE firm operations*
+
+
+***
+[Oligo Security Exits Stealth with $28M to Catalyze Runtime Application Security and Observability](http://www.businesswire.com/news/home/20230215005192/en/Oligo-Security-Exits-Stealth-with-28M-to-Catalyze-Runtime-Application-Security-and-Observability/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TEL AVIV, Israel--(BUSINESS WIRE)--Oligo Security today announced it has exited stealth with $28 million in funding and industry-leading customers for its runtime application security and observability solution that allows enterprises to detect and prevent open source code vulnerabilities in their applications without affecting performance. Founded by CEO Nadav Czerninski, CTO Gal Elbaz (previously with Check Point) and CPO Avshalom Hilu, all former officers in the Israel Defense Force's elite
+
+
+***
+[WHYZE Health and Blackrock Health Galway Clinic Announce Pilot Study of WHYZE Health Platform](http://www.businesswire.com/news/home/20230215005267/en/WHYZE-Health-and-Blackrock-Health-Galway-Clinic-Announce-Pilot-Study-of-WHYZE-Health-Platform/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--WHYZE Health Ltd. and Blackrock Health Galway Clinic began a pilot study of WHYZE Health's platform.
+
+
+***
+[Olea Edge Analytics Partners with Sugar Land, Texas, on Pilot Program to Transform Water Management](http://www.businesswire.com/news/home/20230215005006/en/Olea-Edge-Analytics-Partners-with-Sugar-Land-Texas-on-Pilot-Program-to-Transform-Water-Management/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> AUSTIN, Texas & SUGAR LAND, Texas--(BUSINESS WIRE)-- #IIoT--Olea Edge Analytics™, a provider of intelligent solutions and services for the water utility industry, today announced a pilot program with Sugar Land, Texas, to diagnose the health of large commercial and industrial water meters. The City of Sugar Land will place Olea's Meter Health Analytics (MHA) solution on 25 large commercial meters in its systems, looking for signs of water loss, inaccurate readings and malfunctioning components.
+
+
+***
+![Elon Musk hopes to have Twitter CEO toward the end of year](https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/a/c9/ac9b9546-f51b-5496-b29c-2e7b72b3d3a3/63ec787a02e26.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Elon Musk hopes to have Twitter CEO toward the end of year")
+
+
+[Elon Musk hopes to have Twitter CEO toward the end of year](https://wcfcourier.com/lifestyles/technology/elon-musk-hopes-to-have-twitter-ceo-toward-the-end-of-year/article_6428a384-2fd9-5919-be91-662d2e4fec01.html)
+
+
+> By JON GAMBRELL - Associated Press DUBAI, United Arab Emirates (AP) — Billionaire Elon Musk said Wednesday that he anticipates finding a CEO for Twitter 'probably toward the end of this year." Speaking via a video call to the World Government Summit in Dubai, Musk said making sure the platform can function remained the most important thing for him. 'I think I need to stabilize the organization and just make sure it's in a financial healthy place,' Musk said when asked about when he'd name a CEO.
+
+
+***
+![What is .NET, and why should you choose it?](https://external-preview.redd.it/yN37_uPiNuramtxn90EYRyQvrkcYUXnhoSEqEhW3rYs.jpg?auto=webp&v=enabled&s=f55f2520c72a4aea9b3205b70547f2b134f4019e "What is .NET, and why should you choose it?")
+
+
+[What is .NET, and why should you choose it?](https://www.reddit.com/r/programming/comments/112wacv/what_is_net_and_why_should_you_choose_it)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+[Waters Corporation (NYSE: WAT) Reports Fourth Quarter and Full-Year 2022 Financial Results](http://www.businesswire.com/news/home/20230214005740/en/Waters-Corporation-NYSE-WAT-Reports-Fourth-Quarter-and-Full-Year-2022-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MILFORD, Mass.--(BUSINESS WIRE)--Waters Corporation (NYSE: WAT) today announced its financial results for the fourth quarter and full-year 2022. Sales for the fourth quarter of 2022 were $859 million, an increase of 3% as reported and 9% in constant currency, compared to sales of $836 million for the fourth quarter of 2021. On a GAAP basis, diluted earnings per share (EPS) for the fourth quarter of 2022 increased to $3.81, compared to $3.52 for the fourth quarter of 2021. On a non-GAAP basis, E
+
+
+***
+![Gamebert: a Game Boy emulator built by Robert](https://external-preview.redd.it/sbEmCDb_17OW7IlaHbtKN2rx9-uNym3tshRapp76Dao.jpg?auto=webp&v=enabled&s=9859038f278ade9796cc3b8218eff77548a89931 "Gamebert: a Game Boy emulator built by Robert")
+
+
+[Gamebert: a Game Boy emulator built by Robert](https://www.reddit.com/r/programming/comments/112w7gf/gamebert_a_game_boy_emulator_built_by_robert)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+[Waters Corporation to Acquire Wyatt Technology, Light Scattering Instrument and Software Leader](http://www.businesswire.com/news/home/20230214005863/en/Waters-Corporation-to-Acquire-Wyatt-Technology-Light-Scattering-Instrument-and-Software-Leader/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MILFORD, Mass.--(BUSINESS WIRE)--Waters Corporation (NYSE:WAT) today announced it has entered into an agreement to acquire Wyatt Technology, a pioneer in innovative light scattering and field-flow fractionation instruments, software, accessories, and services, for $1.36 billion in cash, subject to certain adjustments. The transaction is expected to close in the second quarter of 2023, subject to regulatory approvals and other customary closing conditions. Bioanalytical characterization for new
+
+
+***
+!['Dark' Disinfo Group Operates Out Of Israel, Report Claims](https://cdn.i24news.tv/uploads/26/23/8e/52/59/e9/cf/a6/62/dc/57/25/b8/dc/14/f6/26238e5259e9cfa662dc5725b8dc14f6.jpg "'Dark' Disinfo Group Operates Out Of Israel, Report Claims")
+
+
+['Dark' Disinfo Group Operates Out Of Israel, Report Claims](https://www.i24news.tv/en/news/technology/1676458888-dark-disinfo-group-operates-out-of-israel-report-claims)
+
+
+> One of the most effective clandestine black opp groups is working out of Modi'in, a Guardian exposé claims A shadowy group spreading disinformation online and influencing electoral and other outcomes is based in Israel, the Guardian claimed in an exclusive report on Wednesday, prepared in collaboration with other several other outlets.  The so-called "Team Jorge," described as an elite "private service offering to covertly meddle in elections without a trace," is headed by one Tal Hanan, understood to be a security and cybersecurity ace with a vast experience of secretive warfare, digital and otherwise.
+
+
+***
+[SumUp and Netcetera: Two European Payment Powerhouses Team Up on ACS](http://www.businesswire.com/news/home/20230215005458/en/SumUp-and-Netcetera-Two-European-Payment-Powerhouses-Team-Up-on-ACS/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON--(BUSINESS WIRE)--Netcetera and SumUp collaborate, using a state-of-the-art Access Control Server to prevent online fraud
+
+
+***
+![Team UK Overwatch World Cup head coach and general manager revealed – Overwatch 2](https://www.gamereactor.cn/media/35/teamukoverwatch_3963503b.jpg "Team UK Overwatch World Cup head coach and general manager revealed – Overwatch 2")
+
+
+[Team UK Overwatch World Cup head coach and general manager revealed – Overwatch 2](https://www.world-today-news.com/team-uk-overwatch-world-cup-head-coach-and-general-manager-revealed-overwatch-2/)
+
+
+> It's that time of year, and the committees leading up the different Overwatch World Cup teams are being announced. In that spirit, Team UK has now revealed its general manager, head coach and community leader, a trio drawn from across the UK. The team will be head coached by London Spitfire's England head coach Christopher 'ChrisTFer' Graham. The general manager role will fall to Dallas Fuel's manager Mathew 'TazMo' Taylor of Scotland. Finally, the team's social lead will be Welsh graphic designer 'Tee', who has experience working with a range of Overwatch League teams, including New York Excelsior and Florida Mayhem.
+
+
+***
+[Ault Alliance and Ecoark Holdings Invite Stockholders to Participate in the Online Tour of BITNILE.COM on February 28, 2023](http://www.businesswire.com/news/home/20230215005431/en/Ault-Alliance-and-Ecoark-Holdings-Invite-Stockholders-to-Participate-in-the-Online-Tour-of-BITNILE.COM-on-February-28-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LAS VEGAS--(BUSINESS WIRE)---- $AP #3D_immersive_games--Ault Alliance and Ecoark Holdings Invite Stockholders to Participate in the Online Tour of BITNILE.COM on February 28, 2023; First Metaverse SuperApp?
+
+
+***
+![Mastercard partners with Copal to launch Egypt's first family payments mobile application](https://africabusinesscommunities.com//Images/Key Logos/MasterCard logo.jpg "Mastercard partners with Copal to launch Egypt's first family payments mobile application")
+
+
+[Mastercard partners with Copal to launch Egypt's first family payments mobile application](https://africabusinesscommunities.com/tech/tech-news/mastercard-partners-with-copal-to-launch-egypts-first-family-payments-mobile-application)
+
+
+> Copal, Egypt's first digital payment solutions application specifically designed for families, has entered into a strategic partnership with Mastercard to introduce the first family payment and expenses management application in Egypt. This seamless solution aims to further drive financial inclusion in the country through the integration of underbanked youth into the formal economy. The introduction of Copal in the Egyptian market is designed to provide a seamless and innovative cashless experience for all family members.
+
+
+***
+[Nextdoor to present at the 2023 Morgan Stanley Technology, Media &amp; Telecom Conference](http://www.businesswire.com/news/home/20230215005388/en/Nextdoor-to-present-at-the-2023-Morgan-Stanley-Technology-Media-Telecom-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)--Nextdoor Holdings, Inc. (NYSE: KIND) today announced that Chief Executive Officer, Sarah Friar, and Chief Financial Officer, Mike Doyle, will participate in a fireside chat at the Morgan Stanley Technology, Media & Telecom Conference on Wednesday, March 8, 2023 starting at 2:40 p.m. PT. A webcast of the event can be accessed through the events and presentations section of Nextdoor's Investor Relations website, investors.nextdoor.com, and through this webcast
+
+
+***
+![Apple Watch saves life of three people involved in serious crash](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/15/2573101-apple-watch-series-8.png "Apple Watch saves life of three people involved in serious crash")
+
+
+[Apple Watch saves life of three people involved in serious crash](https://www.dnaindia.com/technology/report-apple-watch-saves-life-of-three-people-involved-in-serious-crash-3023894)
+
+
+> Apple Watch Series 8 The Crash Detection feature of the Apple Watch Series 8 has helped rescue the lives of three people in a serious car crash which fell down a 20-meter-deep embankment in Germany. According to the initial investigations, the car was driving on the Bundesautobahn 20 (a road in Germany) when it "left the lane to the right, drove through a green strip, and was catapulted over the crash barrier, reports 9to5 Mac. The three passengers were "partially trapped in the vehicle wreckage in the accident", and there were no witnesses to the accident, nor could it be seen from the highway above, according to the report.
+
+
+***
+[Pagaya Reports Fourth Quarter and Full Year 2022 Results](http://www.businesswire.com/news/home/20230215005370/en/Pagaya-Reports-Fourth-Quarter-and-Full-Year-2022-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK & TEL AVIV, Israel--(BUSINESS WIRE)--Pagaya Technologies Ltd. (NASDAQ: PGY) ('Pagaya', the 'Company' or 'we'), a global technology company delivering artificial intelligence infrastructure for the financial ecosystem, today announced financial results for the fourth quarter and full year of 20221. '2022 was a record year for Pagaya,' said Gal Krubiner, Chief Executive Officer of Pagaya. 'We reached over $7 billion in network volume and grew revenue by 58% to $749 million, approximately
+
+
+***
+![Expect bigger and better environments in Star Wars Jedi: Survivor](https://www.gamereactor.no/media/93/_3929333b.jpg "Expect bigger and better environments in Star Wars Jedi: Survivor")
+
+
+[Expect bigger and better environments in Star Wars Jedi: Survivor](https://www.world-today-news.com/expect-bigger-and-better-environments-in-star-wars-jedi-survivor/)
+
+
+> Star Wars Jedi: Survivor wants to do more than just give us another spacefaring adventure similar to its predecessor. While it wants to maintain what made Star Wars Jedi: Fallen Order great, it's also going to give us a lot more in terms of combat, and environments, enemy types, and NPCs. This comes from game director Stig Asmussen, who in a conversation with PLAY Magazine said that the team at Respawn has created ' much larger map, with more detail, greater density, wider enemy/NPC variety and overall fidelity' i Star Wars Jedi: Survivor.
+
+
+***
+![經典煙火遊戲《Fantavision 202X》睽違23 年重出江湖支援PS VR2 虛擬實境呈現](https://p2.bahamut.com.tw/B/2KU/99/4db59e031a8aac7abeada7d0f91kgpr5.WEBP "經典煙火遊戲《Fantavision 202X》睽違23 年重出江湖支援PS VR2 虛擬實境呈現")
+
+
+[經典煙火遊戲《Fantavision 202X》睽違23 年重出江湖支援PS VR2 虛擬實境呈現](https://gnn.gamer.com.tw/detail.php?sn=245362)
+
+
+> Cosmo Machia 今日（2/15）宣布，PS5 煙火題材益智遊戲《 Fantavision 202X 》將於 2 月 22 日推出，價格 3520 日圓（含稅），支援同日上市的 PS5 新一代虛擬實境裝置「PlayStation VR2（PS VR2）」。 除了在電視上遊玩之外，《 Fantavision 202X 》還會支援同日推出的 PS VR2，讓玩家在 360 度的全天球美麗煙火世界中，以 PS VR2 Sense 控制器的體感指標操作捕捉與引爆煙火，體驗壓倒性的沉浸感。 遊戲並收錄「重播模式」，讓玩家可以輕鬆鑑賞夜空煙火的演出。該模式亦支援 PS VR2。 遊戲資訊 遊戲名稱：Fantavision 202X 遊戲原名：ファンタビジョン 202X 遊戲類型：動作益智 對應平台：PlayStation 5（支援 PlayStation VR2） 發售日期：2023 年 2 月 22 日 建議售價：3520 日圓（含稅） 支援語言：日文 / 英文 遊玩人數：1 人 遊戲分級：CERO A（適合所有年齡） 開發廠商：Cosmo Machia Inc.
+
+
+***
+![The Samsung Galaxy S23 loses 120 € before its official release](https://img-4.linternaute.com/1aN1Map61pGOEbx58nSByrIv7wo=/1500x/smart/d390b62611ce40c8a6c6cecd52337bdf/ccmcms-linternaute/41914196.jpg "The Samsung Galaxy S23 loses 120 € before its official release")
+
+
+[The Samsung Galaxy S23 loses 120 € before its official release](https://www.world-today-news.com/the-samsung-galaxy-s23-loses-120-e-before-its-official-release/)
+
+
+> SAMSUNG GALAXY S23. Scheduled to be released officially this Friday, the Samsung Galaxy S23 already benefits from exclusive promotions on certain merchant sites. The phone is available for €120 less! Summary Only a few hours left before the official release of the Samsung Galaxy S23. These new phones are already acclaimed by critics, especially for the S23 Ultra which seems well on its way to winning the title of 'smartphone of the year'. Tested in our columns, the last phone top of the range from Samsung seems to correct all the faults of its predecessor.
+
+
+***
+![e-BG: Indian Overseas Bank Launches Electronic Bank Guarantee Scheme](https://st1.latestly.com/wp-content/uploads/2023/02/Indian-Overseas-Bank-784x406.jpg "e-BG: Indian Overseas Bank Launches Electronic Bank Guarantee Scheme")
+
+
+[e-BG: Indian Overseas Bank Launches Electronic Bank Guarantee Scheme](https://www.latestly.com/technology/e-bg-indian-overseas-bank-launches-electronic-bank-guarantee-scheme-4845013.html)
+
+
+> Chennai, February 15 : Public sector n Overseas Bank has launched the facility of issuance of e-BG (Electronic Bank Guarantee) scheme in association with the National e-Governance Services Ltd, the bank said on Wednesday. The e-BG is an instrument issued by the city-headquartered bank in which the bank undertakes to guarantee a specific amount against the non-fulfillment of some action/performance of the applicant.  E-Rupee To Be Piloted by Five More Banks in 9 More Cities Soon, Says RBI. The main features of the e-BG are completely paperless mode with digital stamping and digital signature.
+
+
+***
+![Security best practices in GKE — Part 3](https://miro.medium.com/max/1200/0*Ng56eUUzbRIo0yL8.png "Security best practices in GKE — Part 3")
+
+
+[Security best practices in GKE — Part 3](https://medium.com/google-cloud/security-best-practices-in-gke-part-3-47ec3126c516)
+
+
+> Google Kubernetes Engine (GKE) is a fully-managed, highly-scalable, and secure container orchestration service in Google Cloud. However, as with any system, there are certain security best practices that we should follow to ensure that our GKE deployments are as secure as possible. This article is part of a multi-part series covering below best practices around securing GKE workloads: In the first part and second part of this series, we covered network policies, RBAC and Workload Identity. In this article, we will delve deep into Binary Authorization.
+
+
+***
+![SAP's February 2023 Security Updates Patch High-Severity Vulnerabilities](https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg "SAP's February 2023 Security Updates Patch High-Severity Vulnerabilities")
+
+
+[SAP's February 2023 Security Updates Patch High-Severity Vulnerabilities](https://www.securityweek.com/saps-february-2023-security-updates-patch-high-severity-vulnerabilities/)
+
+
+> Enterprise software maker SAP this week announced the release of 26 notes on its February 2023 Security Patch Day, including 21 new and five updated notes. The most severe of these notes delivers updates to the Chromium browser in the SAP Business Client, to resolve a total of 54 vulnerabilities, including 22 high-severity issues. This month, SAP released five new and updated high-priority notes that resolve flaws in SAP Start Service, BASIS, BusinessObjects, and Business Planning and Consolidation.
+
+
+***
+[Arculix by SecureAuth Awarded 2022 TMCnet Zero Trust Security Excellence Award](http://www.businesswire.com/news/home/20230215005309/en/Arculix-by-SecureAuth-Awarded-2022-TMCnet-Zero-Trust-Security-Excellence-Award/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> IRVINE, Calif.--(BUSINESS WIRE)-- #Arculix--SecureAuth, a leader in access management and authentication, today announced that TMCnet, a global, integrated media company, has named Arculix™ by SecureAuth as a 2022 TMCnet Zero Trust Security Excellence winner. The TMCnet Zero Trust Security Excellence awards recognize leaders and pioneers in the industry with the best and the brightest providers, offering the most innovative, effective solutions. 'We are honored to receive this distinguished awar
+
+
+***
+![Accessing private GKE cluster using bastion host and service account impersonating](https://miro.medium.com/max/724/1*0aMmTWw5n5z5JGdnuBX_Ig.png "Accessing private GKE cluster using bastion host and service account impersonating")
+
+
+[Accessing private GKE cluster using bastion host and service account impersonating](https://medium.com/@truls.bugge/accessing-private-gke-cluster-using-bastion-host-and-service-account-impersonating-bac11c86deac)
+
+
+> Private cluster diagram from google Accessing a private cluster while impersonating a service account was a bit more challenging than expected. This blogpost describes the challenges and solutions with connecting kubectl from your local computer to a private GKE cluster. The GKE cluster is configured with master auth networks, and general access to the master node needs to be performed using a ssh tunnel through a bastion host. As it turns out, Google has a good description of doing just that: https://cloud.
+
+
+***
+[The Trade Desk Reports Fourth Quarter and Fiscal Year 2022 Financial Results; Announces $700 Million Share Repurchase Program](http://www.businesswire.com/news/home/20230215005363/en/The-Trade-Desk-Reports-Fourth-Quarter-and-Fiscal-Year-2022-Financial-Results-Announces-700-Million-Share-Repurchase-Program/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LOS ANGELES--(BUSINESS WIRE)--The Trade Desk, Inc. ('The Trade Desk' or the 'Company') (NASDAQ: TTD), a provider of a global technology platform for buyers of advertising, today announced financial results for its fourth quarter and fiscal year ended December 31, 2022. 'The Trade Desk outpaced nearly all areas of digital advertising in 2022, with 32% revenue growth year over year, and a record $491 million of revenue in the fourth quarter alone. This performance was underscored by significant p
+
+
+***
+![Your smart speaker may be recording you](https://iknowallnews.com/wp-content/uploads/2023/02/Your-smart-speaker-may-be-recording-you-listen-to-everything-it-has-stored.jpg "Your smart speaker may be recording you")
+
+
+[Your smart speaker may be recording you](https://iknowallnews.com/technology/your-smart-speaker-may-be-recording-you-listen-to-everything-it-has-stored/)
+
+
+> Home » Technology » Your smart speaker may be recording you – listen to everything it has stored If you use an Google Alexa or Google smart speaker, be warned: it could be gathering recordings of your conversations accidentally and storing them on file. Amazon's Echo speakers and other products are activated when someone says 'Alexa' or another wake word. That means the speaker is always listening out for the wake word, and while it doesn't usually record anything without the word being said, sometimes your gadget can make a mistake and keep snippets of audio from your conversations.
+
+
+***
+![Such an experience in VR mode is Resident Evil Village](https://www.gamechannel.hu/pictures/hirblock/ilyen-elmeny-vr-modban-a-resident-evill-village_1.jpg "Such an experience in VR mode is Resident Evil Village")
+
+
+[Such an experience in VR mode is Resident Evil Village](https://www.world-today-news.com/such-an-experience-in-vr-mode-is-resident-evil-village-news-block/)
+
+
+> In a few days, Resident Evil Village will be released for PS VR2, regarding which Capcom has just presented a fresh teaser, as part of which we have the opportunity to learn what it will be like to enjoy the experience of the game in virtual reality. In short, it's excellent and scary at the same time, but you should watch it for yourself as part of the almost two-minute video below, which turned out to be really effective and can cause surprising moments even for those who have already experienced the game a few times, because it's quite a 'wow' experience in virtual reality also see certain moments.
+
+
+***
+![Apple iPhone and Android smartphone users may soon get ChatGPT-powered Bing](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/15/2573093-microsoft.png "Apple iPhone and Android smartphone users may soon get ChatGPT-powered Bing")
+
+
+[Apple iPhone and Android smartphone users may soon get ChatGPT-powered Bing](https://www.dnaindia.com/technology/report-apple-iphone-and-android-smartphone-users-may-soon-get-chatgpt-powered-bing-3023887)
+
+
+> Microsoft ChatGPT is the most-talked about thing in the tech community right now and after investing huge bucks in AI chatbot, Microsoft has started rolling out the new ChatGPT-powered Bing on desktops to early testers worldwide. Now, accessing ChatGPT will also become easier for smartphone users soon. As per a new report by Windows Latest, Microsoft will roll out ChatGPT-powered Bing for Android and iOS users soon. A "substantial optimised interface" for Bing.com Chat UI for smartphones is under works.
+
+
+***
+[Maxar Technologies Announces Completion of 'Go-Shop' Period](http://www.businesswire.com/news/home/20230215005228/en/Maxar-Technologies-Announces-Completion-of-%E2%80%9CGo-Shop%E2%80%9D-Period/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WESTMINSTER, Colo. & BOSTON--(BUSINESS WIRE)--Maxar Technologies (NYSE:MAXR) (TSX:MAXR) ('Maxar' or the 'Company'), provider of comprehensive space solutions and secure, precise, geospatial intelligence, today announced the expiration of the 60-day 'go-shop' period pursuant to the terms of the previously announced definitive merger agreement to be acquired by Advent International ('Advent'), one of the largest and most experienced global private equity investors. As previously announced and und
+
+
+***
+[Vizient Announces Strategic Partnerships with Tiller-Hewitt and ShareMD Connect to Enhance its Rapid Impact Strategic Growth Solution for Providers](http://www.businesswire.com/news/home/20230215005252/en/Vizient-Announces-Strategic-Partnerships-with-Tiller-Hewitt-and-ShareMD-Connect-to-Enhance-its-Rapid-Impact-Strategic-Growth-Solution-for-Providers/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> IRVING, Texas--(BUSINESS WIRE)--Vizient announces strategic partnerships with Tiller-Hewitt HealthCare Strategies and ShareMD Connect for a Rapid Impact Strategic Growth Solution.
+
+
+***
+[Linde to Build New Air Separation Plant in Eastern Tennessee](http://www.businesswire.com/news/home/20230215005178/en/Linde-to-Build-New-Air-Separation-Plant-in-Eastern-Tennessee/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HOUSTON--(BUSINESS WIRE)--Linde announced today that it will build, own and operate a new facility for the supply of industrial gases along the interstate 75 corridor near Charleston, TN. The new air separation unit (ASU) will produce liquid oxygen, nitrogen and argon, serving customers in Knoxville, Chattanooga, and Nashville areas of eastern Tennessee, as well as in northern Alabama and Georgia. Permitting of the new site has already begun and the plant is expected to start up in the second h
+
+
+***
+[Former Veeva Executive Joins Red Sift as Chief Revenue Officer](http://www.businesswire.com/news/home/20230215005385/en/Former-Veeva-Executive-Joins-Red-Sift-as-Chief-Revenue-Officer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO & LONDON--(BUSINESS WIRE)--David Bennett brings 30 years of C-level software industry leadership experience to drive hyper growth as Red Sift CRO
+
+
+***
+[Americans Believe Grocery Store Profits are 14 Times Higher than Reality and Inflation Is Twice as High as Actual, dunnhumby Finds](http://www.businesswire.com/news/home/20230215005260/en/Americans-Believe-Grocery-Store-Profits-are-14-Times-Higher-than-Reality-and-Inflation-Is-Twice-as-High-as-Actual-dunnhumby-Finds/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CHICAGO--(BUSINESS WIRE)--Americans believe that grocery retailers are earning a 35.2% net profit margin, 14 times higher than grocers' actual net profit margin average of 2.5%, and that food-at-home inflation is 24.3%, double the annual rate reported by the U.S. Bureau of Labor Statistics according to the latest dunnhumby Consumer Trends Tracker (CTT) released today. The CTT is part of the dunnhumby Quarterly, a strategic market analysis of key retail themes, with the third edition being focus
+
+
+***
+[GoSecure Launches Titan Identity to Better Protect Identity and Access Systems](http://www.businesswire.com/news/home/20230215005108/en/GoSecure-Launches-Titan-Identity-to-Better-Protect-Identity-and-Access-Systems/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN DIEGO--(BUSINESS WIRE)-- #GoSecure--GoSecure Launches Titan Identity to Better Protect Identity and Access Systems
+
+
+***
+[Future Forum Winter Pulse Survey Finds Amid Spiking Burnout, Workplace Flexibility Fuels Company Culture and Productivity](http://www.businesswire.com/news/home/20230215005198/en/Future-Forum-Winter-Pulse-Survey-Finds-Amid-Spiking-Burnout-Workplace-Flexibility-Fuels-Company-Culture-and-Productivity/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)--Future Forum's Pulse survey shows flexible work plays a key role in fostering organizational culture and has a positive impact on productivity.
+
+
+***
+![‘NieR: Automata The End of YoRHa Edition' is on sale for 25% off](https://game.watch.impress.co.jp/img/gmw/list/1478/967/main.jpg "‘NieR: Automata The End of YoRHa Edition' is on sale for 25% off")
+
+
+[‘NieR: Automata The End of YoRHa Edition' is on sale for 25% off](https://www.world-today-news.com/nier-automata-the-end-of-yorha-edition-is-on-sale-for-25-off/)
+
+
+> Nintendo sells Square Enix's 'NieR: Automata The End of YoRHa Edition' at the sale price of 3,960 yen at the online store 'My Nintendo Store'. The sale period is until 23:59 on March 1st. This work is the Nintendo Switch version of 'NieR: Automata' released on PlayStation 4, and the additional content '3C3C1D119440927' is also included. The player becomes '2B' belonging to the newly organized android unit 'Yorha' and throws himself into a fierce battle to recapture the earth.
+
+
+***
+[Wireless In-Flight Entertainment Market Analysis Report 2023: A Global $6+ Billion Market by 2030](http://www.businesswire.com/news/home/20230215005465/en/Wireless-In-Flight-Entertainment-Market-Analysis-Report-2023-A-Global-6-Billion-Market-by-2030---Growing-Adoption-of-Bring-Your-Own-Device-BYOD-Elevating-Growth---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Wireless In-Flight Entertainment Market Size, Share & Trends Analysis Report By Aircraft Type, By Fitment Type, By Hardware, By Technology, By Region And Segment Forecasts, 2023 - 2030" report has been added to ResearchAndMarkets.com's offering. The global wireless in-flight entertainment market size is anticipated to reach USD 6,011.6 million by 2030, growing at a CAGR of 17.3% from 2023 to 2030. The rise of wireless connectivity and the growing adoption of Br
+
+
+***
+![Learn-to-Code Programs in Prison Train People for the Future. Many of the Officials Approving Them Are Stuck in the Past.](https://compote.slate.com/images/ce481611-9eee-4cb5-b317-6bd2d95b7137.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560 "Learn-to-Code Programs in Prison Train People for the Future. Many of the Officials Approving Them Are Stuck in the Past.")
+
+
+[Learn-to-Code Programs in Prison Train People for the Future. Many of the Officials Approving Them Are Stuck in the Past.](https://slate.com/technology/2023/02/prison-tech-training-programming-higher-education.html)
+
+
+> This story is published in partnership with Open Campus , a nonprofit newsroom focused on higher education. Subscribe to College Inside , an Open Campus newsletter on the future of postsecondary education in prison.  A slight man wearing horn-rimmed glasses and a suit with a pocket square gestures as he stands before a group of men in blue jumpsuits. They listen attentively. A guard tower and chain link fence loom in the background.  'He offered these Arizona State Prison inmates a chance to escape from the past,' the text below the photo reads.
+
+
+***
+![Strada GLS S-Limited: A special variant to celebrate 100,000 sales of the Strada nameplate](https://gadgetsmagazine.com.ph/wp-content/uploads/2023/02/Picture1-1.jpg "Strada GLS S-Limited: A special variant to celebrate 100,000 sales of the Strada nameplate")
+
+
+[Strada GLS S-Limited: A special variant to celebrate 100,000 sales of the Strada nameplate](https://gadgetsmagazine.com.ph/mobility/cars/mitsubishi-strada-gls-s-limited)
+
+
+> Mitsubishi Motors Philippines Corporation (MMPC) is releasing the Strada GLS S-Limited, a special variant celebrating more than 100,000 units sold for its tough and capable pick-up. Distinct by design and undeniably unique, the Strada GLS S-Limited will be released in a very limited quantity for the Philippine market. With just 75 units available, this special variant is set to be an iconic mark to celebrate the model's more than 100,000 unit sales milestone. The Strada GLS S-Limited is designed to stand out with its unmistakably sporty and bold stance.
+
+
+***
+![Elon Musk hopes to have Twitter CEO toward the end of year](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17vanw.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=433&y=193 "Elon Musk hopes to have Twitter CEO toward the end of year")
+
+
+[Elon Musk hopes to have Twitter CEO toward the end of year](http://www.msn.com/en-us/news/technology/elon-musk-hopes-to-have-twitter-ceo-toward-the-end-of-year/ar-AA17uN88)
+
+
+> DUBAI, United Arab Emirates (AP) — Billionaire Elon Musk said Wednesday that he anticipates finding a CEO for Twitter 'probably toward the end of this year." Speaking via a video call to the World Government Summit in Dubai, Musk said making sure the platform can function remained the most important thing for him. Load Error 'I think I need to stabilize the organization and just make sure it's in a financial healthy place,' Musk said when asked about when he'd name a CEO. 'I'm guessing probably toward the end of this year would be good timing to find someone else to run the company.
+
+
+***
+![Bangladesh IT Connect Portal-South Korea launched to explore business in IT](https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/02/15/1676459186-unb_newswire.jpg "Bangladesh IT Connect Portal-South Korea launched to explore business in IT")
+
+
+[Bangladesh IT Connect Portal-South Korea launched to explore business in IT](https://www.tbsnews.net/tech/ict/bangladesh-it-connect-portal-south-korea-launched-explore-business-it-585562)
+
+
+> The government has launched a virtual desk in Bangladesh Embassy in South Korea aimed at connecting investors and partners, exploring business, and attracting Foreign Direct Investment (FDI) in the IT sector. State Minister for Zunaid Ahmed Palak inaugurated the virtual desk titled: "Bangladesh IT Connect Portal-South Korea ( www.kr.itconnect.gov.bd )" which will play a role of a catalyst to bring business and investment from South Korea by connecting IT companies of both countries. Secretary Md Shamsul Arefin, Ambassador of Bangladesh to South Korea M Delwar Hossain, Managing Director of Startup Bangladesh Sami Ahmed, Project Director of Enhancing Digital Government and Economy (EDGE) Dr Mohammed Mehedi Hassan, Director General of Korea Trade-Investment Promotion Agency (KOTRA) Jon Won Kim, President of BASIS Russell T Ahmed and Chief Operating Officer of Ulkasemi Mizan Rahman, among others, addressed the function.
+
+
+***
+![They got the 1968 Mustang out of the wreck and onto the road](https://www.autozive.cz/wp-content/uploads/2023/02/mustang-bullit-1.jpg "They got the 1968 Mustang out of the wreck and onto the road")
+
+
+[They got the 1968 Mustang out of the wreck and onto the road](https://www.world-today-news.com/they-got-the-1968-mustang-out-of-the-wreck-and-onto-the-road/)
+
+
+> Well-restored 1968 'Bullit' Mustangs are few and far between. The Czechs are responsible for one of them, and they made an authentic video of it. In fact, I have been somewhat skeptical about our favorite saying 'golden Czech hands' in recent years. It just didn't seem to me that we are as good as we like to think we are. I was all the more in awe when I found out that there are a bunch of people in the Czech Republic who managed to get back on the road with their own help the most iconic Mustang in history: the 1968 model, the same one that Steve McQueen drove in the Bullitt case.
+
+
+***
+![Nigerian insurtech Curacel secures $3m seed funding to deepen its presence in North Africa](https://techmoran.com/wp-content/uploads/2023/02/Curacel.webp "Nigerian insurtech Curacel secures $3m seed funding to deepen its presence in North Africa")
+
+
+[Nigerian insurtech Curacel secures $3m seed funding to deepen its presence in North Africa](https://techmoran.com/2023/02/15/nigerian-insurtech-curacel-secures-3m-seed-funding-to-deepen-its-presence-in-north-africa/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![Worlds First Truely Decentralized WhatsApp Alternative Messenger For Solid Pods](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Worlds First Truely Decentralized WhatsApp Alternative Messenger For Solid Pods")
+
+
+[Worlds First Truely Decentralized WhatsApp Alternative Messenger For Solid Pods](https://www.reddit.com/r/programming/comments/112v3w2/worlds_first_truely_decentralized_whatsapp)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Online tutoring is booming: That's what central Swiss experts say](https://img.chmedia.ch/2023/02/06/475df143-5eb5-4e9f-a575-8d3a4858b3c7.jpeg?width=1200&height=675&fit=bound&quality=75&auto=webp&crop=6000,3375,x0,y71&wmark=aboplus "Online tutoring is booming: That's what central Swiss experts say")
+
+
+[Online tutoring is booming: That's what central Swiss experts say](https://www.world-today-news.com/online-tutoring-is-booming-thats-what-central-swiss-experts-say/)
+
+
+> Online tutoring is booming: That's what central Swiss experts say There is movement in the market for online tutoring: the start-up Evulpo is attracting millions of euros in investments, the Lucerne-based platform Web Learning is taking over a competitor. What was that about the exponential equation again? And what is the difference between a prokaryotic and a eukaryotic cell? High school students have to cram in an enormous number of different topics during their school career, but they don't always understand the explanations given by the teachers in class.
+
+
+***
+[Ireland Data Center Market Investment Analysis Report 2022-2023 &amp; 2027: New Opportunities with Coverage of 26 Established Facilities and 23 Upcoming Facilities](http://www.businesswire.com/news/home/20230215005460/en/Ireland-Data-Center-Market-Investment-Analysis-Report-2022-2023-2027-New-Opportunities-with-Coverage-of-26-Established-Facilities-and-23-Upcoming-Facilities---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Ireland Data Center Market - Investment Analysis & Growth Opportunities 2022-2027" report has been added to ResearchAndMarkets.com's offering. The market is forecast to reach $5.23 billion in 2027 from $3.92 billion in 2021, growing at a CAGR of 4.96% from 2022 to 2027 This report analyses the Ireland data center market share. It elaboratively analyses the existing and upcoming facilities and investments in IT, electrical, mechanical infrastructure, general con
+
+
+***
+![Post-production uncovered: MPC on Guillermo Del Toro's Pinocchio (Netflix)](https://d11p0alxbet5ud.cloudfront.net/Pictures/480x320fitpad[0]/9/2/7/1390927_0300_0120_comp_v010_0049_1100_0180_comp_v006.0180_519933.jpg "Post-production uncovered: MPC on Guillermo Del Toro's Pinocchio (Netflix)")
+
+
+[Post-production uncovered: MPC on Guillermo Del Toro's Pinocchio (Netflix)](https://www.broadcastnow.co.uk/tech/post-production-uncovered-mpc-on-guillermo-del-toros-pinocchio-netflix/5179160.article)
+
+
+> MPC provided over 650 VFX shots for Guillermo Del Toro's reimagining of Pinocchio, which released on Netflix late last year. The MPC global team's work included included CG environments, stylized FX simulations and CG crowd simulations for the film, which was directed by Del Toro and Mark Gustafson. The MPC team was lde by VFX supervisor Aaron Weintraub and VFX producer Emma Gorbey, and they had to work within the practical, stop-motion aesthetic created by teams at ShadowMachine and The Henson Company.
+
+
+***
+[Saudi Arabia Buy Now Pay Later Business Databook 2023: 75+ KPIs on Market Size, End-Use Sectors, Market Share, Product Analysis, Business Model, Demographics 2019-2028](http://www.businesswire.com/news/home/20230215005457/en/Saudi-Arabia-Buy-Now-Pay-Later-Business-Databook-2023-75-KPIs-on-Market-Size-End-Use-Sectors-Market-Share-Product-Analysis-Business-Model-Demographics-2019-2028---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Saudi Arabia Buy Now Pay Later Business and Investment Opportunities Databook - 75+ KPIs on BNPL Market Size, End-Use Sectors, Market Share, Product Analysis, Business Model, Demographics - Q1 2023 Update" report has been added to ResearchAndMarkets.com's offering. BNPL payments are expected to grow by 24.1% on an annual basis to reach US$1,400.8 million in 2023. The BNPL payment industry in Saudi Arabia has recorded strong growth over the last four quarters, suppo
+
+
+***
+![WATCH: The HUAWEI Mate50 Pro: Introducing next-generation mobile photography with XMAGE](https://image-prod.iol.co.za/resize/650x366/HUAWEI-s-Mate50-Pro-Capture-your-important-moments-with-XMAGE?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/ec02b6e4-1126-5f8d-9922-436dc00fbbef&operation=CROP&offset=0x1548&resize=3120x1755 "WATCH: The HUAWEI Mate50 Pro: Introducing next-generation mobile photography with XMAGE")
+
+
+[WATCH: The HUAWEI Mate50 Pro: Introducing next-generation mobile photography with XMAGE](https://www.iol.co.za/technology/partnered/watch-the-huawei-mate50-pro-introducing-next-generation-mobile-photography-with-xmage-7cb96e88-7c42-4f54-8942-f496746d6d99)
+
+
+> Mobile photography has taken over the world; people are constantly documenting their lives with their smartphones. And brands continue their ongoing quest to offer the widest field of view, the biggest sensor, or the strongest low-light capability. Given the extraordinary technology offerings that have already been achieved, we might think that the pinnacle of mobile photography innovation has already been reached. But has it? Story continues below Advertisement Enter XMAGE, a new in-house imaging brand representing the epitome of HUAWEI's technical expertise in mobile photography.
+
+
+***
+![Launched HONOR Magic5 Lite, a small smartphone with SD695 l 120Hz 10-bit display l 40W fast charge](https://www.iphone-droid.net/wp-content/uploads/2023/02/honor-magic5-lite-launched-0.jpg "Launched HONOR Magic5 Lite, a small smartphone with SD695 l 120Hz 10-bit display l 40W fast charge")
+
+
+[Launched HONOR Magic5 Lite, a small smartphone with SD695 l 120Hz 10-bit display l 40W fast charge](https://www.world-today-news.com/launched-honor-magic5-lite-a-small-smartphone-with-sd695-l-120hz-10-bit-display-l-40w-fast-charge/)
+
+
+> Before arriving at MWC 2023 in late February, HONOR will launch the Magic5 Series, the top-of-the-line family, and the brand has officially launched the Magic5 Lite in France. The Magic5 Lite is a rebranded HONOR X9a with a 6367-inch curved OLED display with FHD+ (2400 x 1080 pixels) resolution, 120Hz resolution, 10-bit color support, 1920Hz PWM dimming, and a fingerprint scanner. hand on screen with The inside uses a Qualcomm Snapdragon 695 processor, 6GB RAM + 128GB ROM, ready to run on Android 12 operating system, covered with MagicUI 6.
+
+
+***
+![BetConstruct boosts mobile portfolio with two new Android apps](https://resources.sbcnews.co.uk/sbcnews/2023/02/Shutterstock_224182255.jpg "BetConstruct boosts mobile portfolio with two new Android apps")
+
+
+[BetConstruct boosts mobile portfolio with two new Android apps](https://sbcnews.co.uk/technology/2023/02/15/betconstruct-android-apps)
+
+
+> Share Facebook Twitter Stumbleupon LinkedIn BetConstruct has set out its plans to 'revolutionise the mobile gambling industry' with the launch of two new Android betting apps. The two new apps, Android Casino and Android Gamble, will complement BetConstruct's existing Android Sportsbook app V3 which was launched back in September 2022. The technology and services provider explained that these two latest additions to its mobile betting portfolio will deliver the 'perfect combination of sports betting and casino gaming' whilst also providing 'a stable and seamless betting experience on the go'.
+
+
+***
+![The mind-bending dangers of Elon Musk's brain-chip revolution](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17vn6H.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "The mind-bending dangers of Elon Musk's brain-chip revolution")
+
+
+[The mind-bending dangers of Elon Musk's brain-chip revolution](http://www.msn.com/en-us/news/technology/the-mind-bending-dangers-of-elon-musk-s-brain-chip-revolution/ar-AA17vixf)
+
+
+> Studies show that Elon Musk's new tech can bend your mind in strange and troubling ways Load Error Elon Musk wants to put a computer chip in your brain. Well, maybe not in your brain, but in the brain of some human somewhere. Musk's neurotech startup, Neuralink, has been working toward implanting its skull-embedded brain chip in a human since it was founded in 2016. After years of testing on animal subjects, Musk announced in December that the company planned to initiate human trials within six months (though this wasn't the first time he'd said these trials were on the horizon).
+
+
+***
+![ViewSonic VP2768a monitor review: Excellent display for professionals on a budget](https://images.cnbctv18.com/wp-content/uploads/2023/02/ViewSonic-VP2768a-1019x573.jpg "ViewSonic VP2768a monitor review: Excellent display for professionals on a budget")
+
+
+[ViewSonic VP2768a monitor review: Excellent display for professionals on a budget](https://www.cnbctv18.com/technology/viewsonic-vp2768a-monitor-review-excellent-display-for-professionals-on-a-budget-15944621.htm)
+
+
+> ViewSonic on Wednesday announced the latest in its ColorPro lineup of professional monitors — the VP2768a. The company has built a reputation for itself as one of the leading visual technology providers in the world, and the VP2768a is another feather in its cap. Feb 15, 2023 IST 4 Min(s) Read Feb 15, 2023 IST 6 Min(s) Read Feb 14, 2023 IST 6 Min(s) Read Feb 14, 2023 IST 4 Min(s) Read I've had the chance to test the VP2768a and I have thoughts. But before we get into that, let's dispense of with the specifications — my review unit of VP2768a is a 27-inch Quad HD (2K, or 1440p) monitor that's priced at around Rs 36,000 on Amazon.
+
+
+***
+![Private healthcare app appoints Social Sense](https://www.prolificnorth.co.uk/sites/default/files/styles/hero/public/images/news/ss-myhaphoto.jpg?itok=p5ZYSCBz "Private healthcare app appoints Social Sense")
+
+
+[Private healthcare app appoints Social Sense](https://www.prolificnorth.co.uk/news/tech-news/2023/02/private-healthcare-app-appoints-social-sense)
+
+
+> MediaCityUK-based Social Sense has been chosen by Chorley's My Health Assistant to support its mission of making health treatments faster and more affordable across the UK. With rising demand for services such as counselling, physiotherapy, care, nutrition, rehabilitation, health tests and scans, MyHA is providing a vital bridge between the NHS and private healthcare to support those who need to be seen quickly, locally and affordably. For small providers in particular, MyHA supports lead generation and end-to-end customer appointment and payment management – leading to fewer no shows and positive reviews that can help generate more business.
+
+
+***
+![Jio Recharge Plans 2023: Offers, Benefits, Calling, SMS, Data, and Everything You Must Know](https://images.thequint.com/thequint%2F2016-12%2F1664f853-2451-48af-808b-7881ad18a832%2Fb182622c-f1a0-4fee-acc0-13c17005bedd.jpg?rect=0%2C0%2C1024%2C576 "Jio Recharge Plans 2023: Offers, Benefits, Calling, SMS, Data, and Everything You Must Know")
+
+
+[Jio Recharge Plans 2023: Offers, Benefits, Calling, SMS, Data, and Everything You Must Know](https://www.thequint.com/tech-and-auto/tech-news/jio-recharge-plans-2023-check-out-the-amazing-jio-prepaid-plans-and-offers)
+
+
+> Jio Recharge Plans 2023: The Indian telecommunication company Jio never fails to intrigue its users and keeps them hooked by providing amazing recharge plans, benefits, and offers. If you are a Jio prepaid user, check out the check out the following list of Jio Recharge Plans and offers 2023. The below Jio recharge plans 2023 are only applicable to eligible users. Only one of these recharge plans can be availed at a time. There will not be clubbing of more than one Jio recharge plans of same nature.
+
+
+***
+[Serbia Telecoms, Mobile and Broadband Statistics and Analyses Report 2022: Players Include Telekom Srbija, Vip Mobile, Telenor Serbia and Serbia Broadband](http://www.businesswire.com/news/home/20230215005452/en/Serbia-Telecoms-Mobile-and-Broadband-Statistics-and-Analyses-Report-2022-Players-Include-Telekom-Srbija-Vip-Mobile-Telenor-Serbia-and-Serbia-Broadband---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Serbia - Telecoms, Mobile and Broadband - Statistics and Analyses" report has been added to ResearchAndMarkets.com's offering. Serbia's telecom industry has been liberalised in line with the principles of the EU's regulatory framework for communications, focussed on encouraging competition in telecom products and services, and ensuring universal access. Considerable network investment has been undertaken in Serbia by incumbent and alternative operators in recent ye
+
+
+***
+![Which are the best Samsung soundbars?](https://images.ctfassets.net/qmmajc22qsgf/6qamYWYBZyjn4y5WDjGjx1/aa1e1b3db0117e74307a701faee12af2/Which_are_the_best_Samsung_Soundbars_Hero.jpg?fit=thumb&w=1100&h=471 "Which are the best Samsung soundbars?")
+
+
+[Which are the best Samsung soundbars?](https://www.dailymail.co.uk/best-buys/tech/best-samsung-soundbars)
+
+
+> Do you love a little Netflix and chill session?  Or maybe you love cuddling down with your family to watch a favourite film? You're not alone.  Enjoying the latest and greatest TV shows and movies from the comfort of your home is one of the UK's favourite pastimes. Especially during cold, rainy weather. But there's nothing worse than turning on the telly, only to realise you're struggling to hear muffled dialogue. Or for your favourite car chase or dramatic war scene to be rendered hollow, due to a lack of bass or surround sound.
+
+
+***
+![Amazon CEO Andy Jassy says working on AI tech similar to ChatGPT for a long time now](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/amazon-is-already-working-on-chatgpt-like-technology-according-to-its-sixteen_nine.jpg "Amazon CEO Andy Jassy says working on AI tech similar to ChatGPT for a long time now")
+
+
+[Amazon CEO Andy Jassy says working on AI tech similar to ChatGPT for a long time now](https://www.businesstoday.in/technology/story/amazon-ceo-andy-jassy-says-working-on-ai-tech-similar-to-chatgpt-for-a-long-time-now-370357-2023-02-15)
+
+
+> Amazon's chief executive Andy Jassy on Monday revealed that the e-commerce giant has been working on generative AI, similar to ChatGPT for some time now. In an interview with the British newspaper Financial Times, Jassy said, "I think it's exciting, what's possible with generative AI...and it's part of what you're seeing with models like ChatGPT. But most large, deeply technical companies like ours, have been working on these very large, generative AI models themselves for a long time." Jassy also pointed out that the company is also pursuing opportunities to partner with smaller firms to develop this area of the business.
+
+
+***
+![USA announces next steps in national EV charging network](https://www.traffictechnologytoday.com/wp-content/uploads/2023/02/AdobeStock_553378481.jpeg "USA announces next steps in national EV charging network")
+
+
+[USA announces next steps in national EV charging network](https://www.traffictechnologytoday.com/news/electric-vehicles-ev-infrastructure/usa-announces-next-steps-in-national-ev-charging-network.html)
+
+
+> The Biden-Harris Administration in the USA has announced its latest actions to advance the President's vision of building 500,000 EV chargers by 2030 and delivering a convenient, reliable, and Made-in-America electric vehicle (EV) charging network. These next steps – publishing minimum standards for federally funded EV infrastructure, finalizing the Build America, Buy America implementation plan for EV charging equipment, and announcing that cities, towns, Tribes, and states will soon be able to apply for the first round of $2.
+
+
+***
+![Special test of Chinese GPU MTT S80: eats over 250 W, but not enough for GT 1030](http://www.svethardware.cz/zvlastni-test-cinskeho-gpu-mtt-s80-zere-pres-250-w-ale-nestaci-na-gt-1030/58998/img/mtt-s80-800.jpg "Special test of Chinese GPU MTT S80: eats over 250 W, but not enough for GT 1030")
+
+
+[Special test of Chinese GPU MTT S80: eats over 250 W, but not enough for GT 1030](https://www.world-today-news.com/special-test-of-chinese-gpu-mtt-s80-eats-over-250-w-but-not-enough-for-gt-1030/)
+
+
+> A few days ago we talked about the Chinese GPU MTT S80 from the company Moore Threads. We know about it, for example, that it has a frequency of 1.8 GHz and 4096 MUSA stream processors, which gives a gross performance of 14.4 TFLOPS in FP32. The 16GB memory on the 256-bit bus is also solid, and the use of the PCIe Gen5 x16 bus is also unique. We have 3 DisplayPort 1.4 ports and one HDMI 2.1. Although it has 27% lower raw performance than the Intel A770, it was 35-61% slower in earlier tests. Another test we'll talk about today, however, shows even worse results and shows that there's still a lot of catching up to do (and also raises questions about a possible error in the test).
+
+
+***
+![Winning a lottery isn't always good news! Here's how you can avoid such scams and defraud the fraudster](https://www.financialexpress.com/wp-content/uploads/2023/02/20-2.jpg "Winning a lottery isn't always good news! Here's how you can avoid such scams and defraud the fraudster")
+
+
+[Winning a lottery isn't always good news! Here's how you can avoid such scams and defraud the fraudster](https://www.financialexpress.com/life/technology-winning-a-lottery-isnt-always-good-news-heres-how-you-can-avoid-such-scams-and-defraud-the-fraudster-2982324/)
+
+
+> OnePlus 11 5G is great, but here are 5 alternatives that can give you more value | Buyer's guide Nothing Phone 1, Ear Stick receive big price cut in India ahead of Valentine's Day Google Bard not alone, Microsoft ChatGPT AI Bing also messed up in launch demo iPhone 14 Plus, iPhone 14 selling with up to Rs 43,000 discount, iPhone 13 available at Rs 30,900 online: Details
+
+
+***
+![SAS App and Website Hit as Attacks Target Swedish Firms](https://assets.infosecurity-magazine.com/webpage/og/485a4fe3-6426-4500-8944-0d87ac8fcc4f.png "SAS App and Website Hit as Attacks Target Swedish Firms")
+
+
+[SAS App and Website Hit as Attacks Target Swedish Firms](https://www.infosecurity-magazine.com/news/sas-app-website-hit-attacks-target/)
+
+
+> Scandinavian airline SAS was hit by a cyber-attack yesterday that reportedly downed its website and app, and may have leaked customer information for a brief time. According to reports cited by Reuters , customers were urged not to use the airline's mobile app as they may be served incorrect information. Some users were apparently logged into the wrong accounts and therefore had access to the personal details of other customers. The firm's website was also reportedly downed for a time yesterday.
+
+
+***
+![Elon Musk hopes to have Twitter CEO toward the end of year](https://cdn.jagonews24.com/media/imgAllNew/BG/2019November/elonb-20230215143116.jpg "Elon Musk hopes to have Twitter CEO toward the end of year")
+
+
+[Elon Musk hopes to have Twitter CEO toward the end of year](https://www.jagonews24.com/en/tech/news/66846)
+
+
+> Billionaire Elon Musk said Wednesday that he anticipates finding a CEO for Twitter 'probably toward the end of this year.' Speaking via a video call to the World Government Summit in Dubai, Musk said making sure the platform can function remained the most important thing for him, reports The Associated Press. 'I think I need to stabilize the organization and just make sure it's in a financial healthy place,' Musk said when asked about when he'd name a CEO. 'I'm guessing probably toward the end of this year would be good timing to find someone else to run the company.
+
+
+***
+![Africa's smartphone market shrunk by 18% last year](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-14-15491601.jpg "Africa's smartphone market shrunk by 18% last year")
+
+
+[Africa's smartphone market shrunk by 18% last year](https://www.businessghana.com/)
+
+
+> Africa's smartphone market shrunk by 18% in 2022 compared to the previous year, according to the International Data Corporation (IDC). The slump was driven by a reduction in consumer spending due to inflation, and economic uncertainties, but it was not unique to Africa as smartphone shipment dipped across major markets last year. According to IDC, the global smartphone market experienced a 11.3% decline. In total, 73.4 million units were shipped into Africa, with South Korea's Samsung, and Chinese brands Tecno and Itel, accounting for 65% of the total shipments.
+
+
+***
+![HP 255 G8 Athlon Silver 3050U (2023) Price in India, Full Specs](https://static.digit.in/default/new-project-9-82492231b1.jpeg?tr=1200 "HP 255 G8 Athlon Silver 3050U (2023) Price in India, Full Specs")
+
+
+[HP 255 G8 Athlon Silver 3050U (2023) Price in India, Full Specs](https://www.digit.in/laptops/hp-255-g8-athlon-silver-3050u-2023-price-341241.html)
+
+
+> Basic Information Model name : 255 G8 Launch date (global) : 15-02-2023 operating system (with version) : Windows 11 Display display size (in inches) : 15.6 Connectivity connectivity : Bluetooth, Wi-Fi Memory ram included (in gb) : 8 GB ram type : DDR4 Physical Specifications laptop weight (in kgs) : 1 laptop dimension (in mm) : 320 x 220 x 20 Processor processor model name : AMD Athlon Silver 3050U clock speed : 3.
+
+
+***
+![Akamai reaches for the cloud](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-14-155132000.jpg "Akamai reaches for the cloud")
+
+
+[Akamai reaches for the cloud](https://www.businessghana.com/)
+
+
+> A year ago, Akamai acquired Linode for $900 million. At the time, Akamai said it wanted to combine Linode with its edge platform and security services. Unsurprisingly, that's exactly what it is doing now, with the launch of its new Akamai Connected Cloud — a massively distributed edge and cloud platform that includes Linode's existing 11 core sites, Akamai's more than 4,200 edge locations in 134 countries, Akamai's networking capabilities, as well as 50 new distributed local clouds which will roll out to just as many cities starting later this year.
+
+
+***
+![Crypto makes you more attractive, according to a new Binance survey](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-14-1548210.jpg "Crypto makes you more attractive, according to a new Binance survey")
+
+
+[Crypto makes you more attractive, according to a new Binance survey](https://www.businessghana.com/)
+
+
+> In true Valentine's Day fashion, we're diving into the theme of love…and crypto? According to a new study by Binance, the world's largest blockchain by trading volume, crypto could have a positive impact on one's attractiveness. Yes, really. Approximately 83% of participants said liking crypto was an 'attractive feature in a relationship,' while 70% said they would be more inclined to go on a date with someone if they found out they were interested in crypto. But only about 38% of those surveyed said their partner was equally as interested and passionate about crypto as they were, while 27% patted themselves on the back for introducing their significant other to the wild, wild world of web3.
+
+
+***
+![ASUS TUF Gaming A15 FA506IHRZ-HN113W Ryzen 5-4600H (2022) Price in India, Full Specs](https://static.digit.in/default/new-project-4-d3dbc5e240.jpeg?tr=1200 "ASUS TUF Gaming A15 FA506IHRZ-HN113W Ryzen 5-4600H (2022) Price in India, Full Specs")
+
+
+[ASUS TUF Gaming A15 FA506IHRZ-HN113W Ryzen 5-4600H (2022) Price in India, Full Specs](https://www.digit.in/laptops/asus-tuf-gaming-a15-fa506ihrz-hn113w-ryzen-5-4600h-2022-price-341232.html)
+
+
+> Basic Information Model name : TUF Gaming A15 Launch date (global) : 15-02-2023 operating system (with version) : Windows 11 Home laptop type : Gaming Display Resolution : 1920 x 1080 display size (in inches) : 15.6 Refresh Rate : 144 Hz Connectivity connectivity : Bluetooth, Wi-Fi Memory ram included (in gb) : 16 GB ram type : DDR4 Physical Specifications laptop weight (in kgs) : 2.
+
+
+***
+![Elon Musk's plans: New Twitter boss by the end of the year?](https://www.tagesschau.de/multimedia/bilder/elon-musk-155~_v-original.jpg "Elon Musk's plans: New Twitter boss by the end of the year?")
+
+
+[Elon Musk's plans: New Twitter boss by the end of the year?](https://www.world-today-news.com/elon-musks-plans-new-twitter-boss-by-the-end-of-the-year/)
+
+
+> Status: 02/15/2023 10:05 a.m After the takeover by Elon Musk, the billionaire himself runs the business of the short message service Twitter. The entrepreneur has now announced that this could remain the case for some time. Entrepreneur Elon Musk may take his time hiring a new CEO for Twitter. The billionaire said in a video conference at the World Government Summit in Dubai that the right time to do so would probably be towards the end of the year. 'I think I need to stabilize the company and make sure it's financially sound and the product roadmap is well defined.
+
+
+***
+![Exclusive: iQOO Neo 7 India price after bank offers](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/iqoo_neo_7-sixteen_nine-original.jpg "Exclusive: iQOO Neo 7 India price after bank offers")
+
+
+[Exclusive: iQOO Neo 7 India price after bank offers](https://www.indiatoday.in/technology/news/story/exclusive-iqoo-neo-7-india-price-after-bank-offers-2335108-2023-02-15)
+
+
+> Story highlights iQOO Neo 7 is launching in India on February 16. iQOO Neo 7 bank offers and expected price are here. The iQOO Neo 7 will be up for grabs on Amazon. iQOO Neo 7 is launching in India tomorrow, i.e on February 16. A lot of details about the smartphone have been leaked about the upcoming smartphone. Now, India Today Tech can confirm that the iQOO Neo 7 will be available for sale with fantastic discount offers when it goes on sale . The smartphone will be up for grabs on Amazon.
+
+
+***
+![WhatsApp head slams rival firm Telegram for misleading users over its security practices](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/whatsapp_vs_telegram_0-sixteen_nine-original.jpg "WhatsApp head slams rival firm Telegram for misleading users over its security practices")
+
+
+[WhatsApp head slams rival firm Telegram for misleading users over its security practices](https://www.indiatoday.in/technology/news/story/whatsapp-head-slams-telegram-for-misleading-users-over-its-security-practices-2335105-2023-02-15)
+
+
+> Story highlights WhatsApp's Will Cathcart says Telegram is secure by default. Telegram offers end-to-end encryption but it's not enabled by default. Once it is enabled, users start a Telegram "secret chat." WhatsApp chief Will Cathcart has called rival messaging platform Telegram for its security practices. Since its launch, Telegram has promised to be a privacy-focused platform that offers end-to-end encryption (E2EE) for chats and calls. However, the safety feature is not on by default, and it's not available for group messages.
+
+
+***
+![NASA announces the crew for the Axiom 2 mission](https://www.barabic.com/wp-content/uploads/2023/02/image-150.png?v=1676453733 "NASA announces the crew for the Axiom 2 mission")
+
+
+[NASA announces the crew for the Axiom 2 mission](https://www.world-today-news.com/nasa-announces-the-crew-for-the-axiom-2-mission/)
+
+
+> 13 (UPI) — The crew for NASA's next privately funded mission to space has been selected as the agency moves closer to commercializing space travel. Former NASA astronaut Peggy Whitson will lead the Axiom 2 mission, which will be led by businessman John Shoffner, NASA said in a press release Monday. Ali Al-Qarni and Rayana Barnawi, members of Saudi Arabia's first national astronaut program, will serve as mission specialists. Commercial space technology company Axiom Space is funding the mission that will send the crew to the International Space Station aboard a SpaceX Dragon spacecraft.
+
+
+***
+![Nokia and Viettel successfully complete deployment of the first DWDM network operating at 600G per wavelength in Vietnam](https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200 "Nokia and Viettel successfully complete deployment of the first DWDM network operating at 600G per wavelength in Vietnam")
+
+
+[Nokia and Viettel successfully complete deployment of the first DWDM network operating at 600G per wavelength in Vietnam](https://www.telecomtv.com/content/access-evolution/nokia-and-viettel-successfully-complete-deployment-of-the-first-dwdm-network-operating-at-600g-per-wavelength-in-vietnam-46677)
+
+
+> Espoo, Finland –  Nokia today announced the completion of the first   DWDM network  operating at 600G per wavelength  with  Viettel,  Vietnam 's  largest telecom service provider  and   one of the  world's top 20 telecom companies*. The network uses Nokia's innovative PSE-V   s uper-coherent   optical engines (PSE-Vs) , transmitting a 600Gb/s channel in the C-band to connect Viettel's main core sites. Th is  new Data Center Interconnect solution will  enable  Viettel to meet future requirements for low-latency, high-capacity, robust network  for  5G, Cloud, and growing consumer demand for online video  and  internet usage.
+
+
+***
+![Building domain-specific bots with GPT and reinforcement learning on AWS SageMaker](https://external-preview.redd.it/ug0Q6eHrqTTbPnRrbr83_JrtFdqEY1GmWiFXnrwnxGM.jpg?auto=webp&v=enabled&s=15c00984725ec5cd512ac63cc1d76c4a2e41c409 "Building domain-specific bots with GPT and reinforcement learning on AWS SageMaker")
+
+
+[Building domain-specific bots with GPT and reinforcement learning on AWS SageMaker](https://www.reddit.com/r/programming/comments/112udcb/building_domainspecific_bots_with_gpt_and)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+[The Role of Munis in the Future of United States Cities: Reassessing Infrastructure Investing Amid Global Market Volatility](http://www.businesswire.com/news/home/20230215005430/en/The-Role-of-Munis-in-the-Future-of-United-States-Cities-Reassessing-Infrastructure-Investing-Amid-Global-Market-Volatility---Recession-Fears-Rising-Rates-and-Loss-of-Revenue-are-2023-Headwinds---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "The Role of Munis in the Future of United States Cities: Reassessing Infrastructure Investing Amid Global Market Volatility" report has been added to ResearchAndMarkets.com's offering. The $1.2 trillion Infrastructure Investment and Jobs Act (IIJA) signed into law in November 2021 marked one of the largest federal investments in infrastructure in history. The law features hundreds of new discretionary programs on top of traditional formula funding, including $550 b
+
+
+***
+![Galaxy S23 Sets Pre-Order Record in Korea, Millions of Units Ordered](https://awsimages.detik.net.id/api/wm/2023/02/01/samsung-galaxy-s23-12_169.jpeg?wid=54&w=650&v=1&t=jpeg "Galaxy S23 Sets Pre-Order Record in Korea, Millions of Units Ordered")
+
+
+[Galaxy S23 Sets Pre-Order Record in Korea, Millions of Units Ordered](https://www.world-today-news.com/galaxy-s23-sets-pre-order-record-in-korea-millions-of-units-ordered/)
+
+
+> Jakarta – Samsung Galaxy S3 The series, which was recently announced, has received applause in various countries for a long time pre order. Even at home in South Korea, ordering this flagship HP has made a record. As quoted detikINET from Samnews24, Wednesday (15/2/2023) Samsung stated that the pre-orders for the Galaxy S23 Series reached the highest number compared to before, with the number of units ordered as many as 1.09 million units. The Galaxy S23 Ultra, which has a 200 megapixel camera, is the most ordered variant with a percentage of 60%.
+
+
+***
+![Meeting with leader of A Just Russia](http://www.globalsecurity.org/favicon.ico "Meeting with leader of A Just Russia")
+
+
+[Meeting with leader of A Just Russia](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230214-kremlin02.htm)
+
+
+> Vladimir Putin had a meeting with head of the A Just Russia - For the Truth political party faction in the State Duma Sergei Mironov. February 14, 2023 18:55 Novo-Ogaryovo, Moscow Region President of Russia Vladimir Putin: Mr Mironov, generally, we are in constant contact, but no one has cancelled in-person meetings, they always make sense. I suggest discussing the current situation. But I know, you have a number of issues that you would like to discuss in greater detail. Please. Leader of the A Just Russia - For the Truth party Sergei Mironov: Thank you, Mr President.
+
+
+***
+![Putin Using Special Train, Secret Railway Network, Investigative Reports Say](http://www.globalsecurity.org/favicon.ico "Putin Using Special Train, Secret Railway Network, Investigative Reports Say")
+
+
+[Putin Using Special Train, Secret Railway Network, Investigative Reports Say](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230214-rferl01.htm)
+
+
+> By RFE/RL's Russian Service February 14, 2023 Investigative reports say Russian President Vladimir Putin has been using a specially built armored train for his official travel, while a secret railway network has been built near his residences. According to a report by the Proyekt (Project) investigative outlet, one such secret railway station and several railway lines were built on the territory of Valdai national park in the country's northwestern Novgorod region, close to a presidential residence there.
+
+
+***
+![Meeting of judges of general jurisdiction, military and arbitration courts](http://www.globalsecurity.org/favicon.ico "Meeting of judges of general jurisdiction, military and arbitration courts")
+
+
+[Meeting of judges of general jurisdiction, military and arbitration courts](http://www.globalsecurity.org/wmd/library/news/russia/2023/02/russia-230214-kremlin01.htm)
+
+
+> The President took part, via videoconference, in the annual meeting of judges of Russia's general jurisdiction, military and arbitration courts to review the performance of the Russian judicial system in 2022 and priorities for the current year. February 14, 2023 17:05 Novo-Ogaryovo, Moscow Region President of Russia Vladimir Putin: Colleagues, good afternoon. Mr Lebedev, good afternoon. I welcome everyone to this traditional annual meeting. You and I met at the 10th National Congress of Judges in late November last year, when you discussed in detail the pressing issues of developing the judicial system, optimising judicial proceedings and improving the work of the judiciary and the judicial community.
+
+
+***
+![Atlanta Is the Best City for Digital Nomads, Report Shows](https://images.tech.co/wp-content/uploads/2023/02/15044628/atlanta-header2.jpg "Atlanta Is the Best City for Digital Nomads, Report Shows")
+
+
+[Atlanta Is the Best City for Digital Nomads, Report Shows](https://tech.co/news/atlanta-georgia-best-city-digital-nomads)
+
+
+> Looking to relocate your home office? Well, the results are in. Atlanta Georgia has been named the best urban area for digital nomads, thanks to its affordable rent, impressive internet speed, and close proximity to national treasures like the Great Smoky Mountains. If it's West coast living you're after, Portland, Oregon narrowly missed out on stealing the top spot due to its abundance of recreational areas, while Seattle, Washington landed in fourth position.  As remote solutions like web conferencing software make remote working easier than ever, the digital nomad scene is exploding in popularity.
+
+
+***
+![Elon Musk says Twitter should be ready for new CEO by end of year](https://cdn.vox-cdn.com/thumbor/qX6_MdWPzA482PtFM33EDVitufE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23906823/VRG_Illo_STK022_K_Radtke_Musk_Smiles.jpg "Elon Musk says Twitter should be ready for new CEO by end of year")
+
+
+[Elon Musk says Twitter should be ready for new CEO by end of year](https://www.theverge.com/2023/2/15/23600692/elon-musk-stepping-down-twitter-ceo-end-of-2023)
+
+
+> Twitter CEO Elon Musk says he might be ready to step down as head of the social media network by the end of the 2023, by which time it'll be a year since millions of Twitter users voted for him resign from the role — a poll Musk said he'd honor. 'I need to stabilize the organization and just make sure it's in a financially healthy place in that the product roadmap is clearly laid out,' Musk said via video link at the World Government Summit in Dubai, as reported by Bloomberg . 'I'm guessing probably towards the end of the year would be good timing to find someone else to run the company.
+
+
+***
+![Serbia, Montenegro Request Clarification After Moldova Warns Of Possible Russian Provocation](http://www.globalsecurity.org/favicon.ico "Serbia, Montenegro Request Clarification After Moldova Warns Of Possible Russian Provocation")
+
+
+[Serbia, Montenegro Request Clarification After Moldova Warns Of Possible Russian Provocation](http://www.globalsecurity.org/military/library/news/2023/02/mil-230214-rferl01.htm)
+
+
+> By RFE/RL's Moldovan Service, RFE/RL's Balkan Service February 14, 2023 Serbia and Montenegro have asked Moldova for a clarification of statements made by Moldovan President Maia Sandu about information she said she received from Ukraine regarding Russian plans to carry out destabilizing actions with the participation of citizens of Serbia and Montenegro. Serbian Foreign Minister Ivica Dacic on February 14 denied that any Serbian citizens would take part in subversive actions aimed at destabilizing Moldova and ordered Serbia's ambassador to Moldova to request clarification of Sandu's statement.
+
+
+***
+![Washington backs Manila as Philippines lodges laser protest with China](http://www.globalsecurity.org/favicon.ico "Washington backs Manila as Philippines lodges laser protest with China")
+
+
+[Washington backs Manila as Philippines lodges laser protest with China](http://www.globalsecurity.org/military/library/news/2023/02/mil-230214-rfa02.htm)
+
+
+> Beijing reacted to claims a beam blinded coast guard crew by saying it acted in a 'restrained' way. By RFA and BenarNews Staff 2023.02.14 -- The U.S. has expressed support for the Philippines over the laser incident in the South China Sea, condemning China's "provocative and unsafe" conduct. The Philippine Department of Foreign Affairs on Tuesday also lodged a diplomatic protest with the Chinese Embassy in Manila. On Monday, the Philippine Coast Guard (PCG) accused China of performing dangerous maneuvers and pointing a laser at one of its vessels, the BRP Malapascua, causing temporary blindness to the crew.
+
+
+***
+![US to send most troops in a decade to join Cobra Gold 2023](http://www.globalsecurity.org/favicon.ico "US to send most troops in a decade to join Cobra Gold 2023")
+
+
+[US to send most troops in a decade to join Cobra Gold 2023](http://www.globalsecurity.org/military/library/news/2023/02/mil-230214-rfa01.htm)
+
+
+> Over 6,000 U.S. troops are expected for the largest combined military exercise in the Indo-Pacific. By Wilawan Watcharasakwet for BenarNews 2023.02.14 -- The United States will deploy its largest contingent in 10 years to the Cobra Gold Exercise 2023 in Thailand as the two long-standing allies celebrate the 190th anniversary of diplomatic ties, officials from both countries said Tuesday. The 42nd iteration of the Indo-Pacific region's largest combined military exercise will include China as a partner in a humanitarian assistance mission, even though the Sino-U.
+
+
+***
+![ICS Vulnerabilities Chained for Deep Lateral Movement and Physical Damage](https://www.securityweek.com/wp-content/uploads/2023/02/Bridge_ICS_hacking.png "ICS Vulnerabilities Chained for Deep Lateral Movement and Physical Damage")
+
+
+[ICS Vulnerabilities Chained for Deep Lateral Movement and Physical Damage](https://www.securityweek.com/ics-vulnerabilities-chained-for-deep-lateral-movement-and-physical-damage/)
+
+
+> Researchers at cybersecurity firm Forescout have shown how various vulnerabilities discovered in recent years in industrial control systems (ICS) can be chained for deep lateral movement in operational technology (OT) networks, and even to cause significant physical damage. Two vulnerabilities found last year in Schneider Electric's Modicon programmable logic controllers (PLCs) are at the center of this research. The security holes can be exploited for remote code execution (CVE-2022-45788) and authentication bypass (CVE-2022-45789), and they were addressed by the industrial giant in January.
+
+
