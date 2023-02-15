@@ -27119,3 +27119,928 @@
 > From left to right: Alexis Borisy, Zach Weinberg and Christoph Lengauer (Vimeo via website) Alexis Borisy and Zach Weinberg first met when they were each leading a company that they co-founded. Foundation Medicine, where Borisy was founding CEO and later chairman, struck a partnership with Weinberg's Flatiron Health — before both companies were ultimately acquired by Roche. Almost a decade later, they are teaming up to launch a new kind of investment model that they hope will help a new generation of biotech founders build better companies — or, in their words, 'free the founders.
 
 
+***
+![Boeing-Rolls Short-Inlet Flight Tests Show Potential To Cut Big Fan Drag](https://aviationweek.com/sites/default/files/2023-02/rolls-inlet-1_rolls-royce_promo.jpg "Boeing-Rolls Short-Inlet Flight Tests Show Potential To Cut Big Fan Drag")
+
+
+[Boeing-Rolls Short-Inlet Flight Tests Show Potential To Cut Big Fan Drag](https://aviationweek.com/aerospace/aircraft-propulsion/boeing-rolls-short-inlet-flight-tests-show-potential-cut-big-fan-drag)
+
+
+> https://aviationweek.com/themes/custom/particle/dist/app-drupal/assets/awn-logo.svg The heavily instrumented inlet was tested at angles of attack in excess of 27.8 deg. The bigger the fan and bypass ratio of a turbofan, the quieter and more efficient the engine. But these benefits diminish as increased nacelle weight and drag degrade the fuel-burn advantages of the larger bypass. To help counter this conundrum, Rolls-Royce and Boeing teamed up under the second.
+
+
+***
+![Commercial released for Kirby's Return to Dream Land Deluxe](https://gonintendo.com/attachments/image/23267/file/medium-0c571cd81a2a05c2775890cd29451ba1.jpg "Commercial released for Kirby's Return to Dream Land Deluxe")
+
+
+[Commercial released for Kirby's Return to Dream Land Deluxe](https://gonintendo.com/contents/16262-commercial-released-for-kirby-s-return-to-dream-land-deluxe)
+
+
+> Teamwork makes the dream work Kirby's Return to Dream Land Deluxe is coming to Switch on February 24th, 2023, which is just 10 days away! Ahead of the game's launch, Nintendo has released the first North American commercial for the game. You can check out the 30-second spot above! The tough puff Kirby is back for a 1-4 player platforming adventure across Planet Popstar. Help Magolor rebuild his ship with newly added Mecha and Sand Copy Abilities! Float and fight along with friends on the same system as you control Kirby.
+
+
+***
+![Pokémon Scarlet/Violet Garchomp & Sylveon Tera Raid Battle Event detailed](https://gonintendo.com/attachments/image/23266/file/medium-e1c607a7b93c1b5f954a2f85d4ffc13b.jpg "Pokémon Scarlet/Violet Garchomp & Sylveon Tera Raid Battle Event detailed")
+
+
+[Pokémon Scarlet/Violet Garchomp & Sylveon Tera Raid Battle Event detailed](https://gonintendo.com/contents/16261-pokemon-scarlet-violet-garchomp-sylveon-tera-raid-battle-event-detailed)
+
+
+> The Pokémon Co. has announced details on the next Tera Raid Battle Event for Pokémon Scarlet and Violet, and it kicks off later this week. The Garchomp & Sylveon Tera Raid Battle Event starts on Feb. 17th, 2023 and runs until the end of Feb. 19th, 2023. This event will feature Garchomp & Sylveon in 4 to 5 Star Raids with various Tera Types. We aren't sure what rewards will be offered at this time. More details will be shared on this Tera Raid Battle Event in the near future, and we'll be sure to bring them to you.
+
+
+***
+[CORRECTING](http://www.businesswire.com/news/home/20230214005795/en/CORRECTING---Nu-Holdings-Ltd.-Reports-Fourth-Quarter-and-Full-Year-2022-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SÃO PAULO--(BUSINESS WIRE)--In the first bullet under Financial Highlights, the figure for Adjusted Net Income Q4´22 has been corrected to $113.8 million. The updated release reads: NU HOLDINGS LTD. REPORTS FOURTH QUARTER AND FULL YEAR 2022 FINANCIAL RESULTS Nu Holdings Ltd. (NYSE: NU | B3: NUBR33), ('Nu' or the 'Company'), one of the world's largest digital financial services platforms, released today its Fourth Quarter & Full Year 2022 financial results. Financial results are expressed in
+
+
+***
+![A Peek Inside Zendaya's Massive Car Collection](https://iknowallnews.com/wp-content/uploads/2023/02/A-Peek-Inside-Zendayas-Massive-Car-Collection.jpg "A Peek Inside Zendaya's Massive Car Collection")
+
+
+[A Peek Inside Zendaya's Massive Car Collection](https://iknowallnews.com/lifestyle/a-peek-inside-zendayas-massive-car-collection/)
+
+
+> Zendaya's rise to fame from Disney's child star to box office queen has been phenomenal. The Spiderman franchise actress is also a talented musician, an author, and a fashion designer. With multiple income streams, the Golden Globe award-winning actress owns a swanky collection of sports and luxury cars in her garage. The Lexus GS is one of the classic rides and is estimated at $51,065. The Range Rover SV Auto, worth $220,000, is one of her favorite rides, and the star has been spotted frequently driving it around the LA neighborhood while running errands.
+
+
+***
+![Watch Sony Engineers Dismantle the PlayStation VR 2 & its Controller in Official Teardown Videos](https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/PlayStation%20VR2.jpg?itok=p_I3_lV1 "Watch Sony Engineers Dismantle the PlayStation VR 2 & its Controller in Official Teardown Videos")
+
+
+[Watch Sony Engineers Dismantle the PlayStation VR 2 & its Controller in Official Teardown Videos](https://techraptor.net/gaming/news/watch-sony-engineers-dismantle-playstation-vr-2-its-controller-in-official-teardown)
+
+
+> The PlayStation VR2 headset is getting close to its release, but today we get to see its guts, together with the internals of the PS VR2 Sense Controller. Sony Interactive Entertainment released two new videos starring engineers Takamasa Araki from the Mechanical Design team and Takeshi Igarashi from the Peripheral Design team as they take apart both the headset and its included controllers to provide a close look at all the tech included.  You can watch them below.  The PlayStation VR 2 releases on February 22, 2023, with 37 games launching at launch or within the first month, including an update to Gran Turismo 7 that makes the game compatible with the new hardware .
+
+
+***
+![Scientists Have Found an Otherworldly Frog Fit for Middle-earth](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17rBsE.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Scientists Have Found an Otherworldly Frog Fit for Middle-earth")
+
+
+[Scientists Have Found an Otherworldly Frog Fit for Middle-earth](http://www.msn.com/en-us/news/technology/scientists-have-found-an-otherworldly-frog-fit-for-middle-earth/ar-AA17rwrc)
+
+
+> Deep inside Ecuador's Río Negro-Sopladora National Park, the line between fantasy and reality vanishes. At least, that's what scientists who recently discovered a new frog species say of their time exploring this multithousand-acre milieu of mountainous slopes, wispy trees, sparkling rivers and weeping ombré flowers. They even named the golden-toed frog they stumbled upon Hyloscirtus tolkieni -- after one of their favorite authors, J.R.R. Tolkien, writer of the Lord of the Rings series and the brains behind every whimsical crevice of Middle-earth.
+
+
+***
+![Magical School Rogue-Like ‘Spells & Secrets' Reveals Physical Switch Version](https://gonintendo.com/attachments/image/23265/file/medium-93443561ac0382e8a11729b2e2b27cad.png "Magical School Rogue-Like ‘Spells & Secrets' Reveals Physical Switch Version")
+
+
+[Magical School Rogue-Like ‘Spells & Secrets' Reveals Physical Switch Version](https://gonintendo.com/contents/16260-magical-school-rogue-like-spells-secrets-reveals-physical-switch-version)
+
+
+> Casting a spell on retail Today, Merge Games & developer Alchemist Interactive are pleased to reveal a physical Switch version will be available for upcoming wizard school rogue-like ‘Spells & Secrets'. Following it's hugely successful Kickstarter campaign, ‘Spells & Secrets' achieved over 400% of its funding goal and more than 2,500 backers along with a growing community on social media looking for alternative wizarding worlds to inhabit. ‘Spells & Secrets' is available to pre-order now at all good retailers, including Signature Edition Games for £29.
+
+
+***
+![Vodafone and Nokia bring 5G to Sydney Cricket Ground](https://d2bs8hqp6qvsw6.cloudfront.net/article/images/740x500/dimg/dreamstime_m_18891411.jpg "Vodafone and Nokia bring 5G to Sydney Cricket Ground")
+
+
+[Vodafone and Nokia bring 5G to Sydney Cricket Ground](https://www.arnnet.com.au/article/705605/vodafone-and-nokia-bring-5g-to-sydney-cricket-ground/)
+
+
+> Sydney Cricket Ground (SCG) Credit: Dreamstime Vodafone has deployed a high-speed 5G network to Sydney Cricket Ground in partnership with its network equipment supplier, Nokia.  The telecommunications provider claimed it delivered download speeds of close to two gigabits per second (Gbps) to a Google Pixel device over its 5G millimetre wave (mmWave) network.  Using Nokia's carrier aggregation solution, the network's download stream of 2Gbps can simultaneously stream more than 400 high-definition videos or download a full 4K movie in less than two minutes, Vodafone claimed.
+
+
+***
+![Milkrun jobs slashed, delivery hubs closed in cash crunch](https://static.ffx.io/images/$zoom_0.1282703488372093%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_78/t_crop_custom/q_86%2Cf_auto/t_theage_no_label_no_age_social_wm/be946356a670108aa4bbd514b87f64d526163ce5 "Milkrun jobs slashed, delivery hubs closed in cash crunch")
+
+
+[Milkrun jobs slashed, delivery hubs closed in cash crunch](https://www.smh.com.au/technology/milkrun-slashes-workforce-closes-delivery-hubs-in-cash-crunch-20230215-p5ckny.html)
+
+
+> A spokeswoman said the changes meant Milkrun had enough cash to last for more than 12 months. Average orders had more than doubled in value since the last reported figures to more than $50, and all hubs would be profitable or breaking even after the redundancies and closures, she added. Milkrun raised $86 million in less than a year from investors including the private offices of Atlassian founders Mike Cannon-Brookes and Scott Farquhar along with US firm Tiger Global on a series of lofty hopes. It told potential investors it planned to rapidly earn billions in revenue and expand into areas including payments, insurance and takeaway delivery.
+
+
+***
+![A Link Between Hearing Voices and Hearing Your Own Voice](https://static01.nyt.com/images/2023/02/14/science/14tb-hearing-voices/14tb-hearing-voices-facebookJumbo.jpg "A Link Between Hearing Voices and Hearing Your Own Voice")
+
+
+[A Link Between Hearing Voices and Hearing Your Own Voice](https://www.nytimes.com/2023/02/14/science/sound-own-voice-bone-conduction.html)
+
+
+> It is the rare person who likes hearing their own voice on a recording. It sounds fake, somehow — like it belongs to someone else. For neuroscientists, that quality of otherness is more than a curiosity. Many mysteries remain about the origins of hallucinations, but one hypothesis suggests that when people hear voices, they are hearing their own thoughts disguised as another person's by a quirk of the brain. Scientists would like to understand what parts of the brain allow us to recognize ourselves speaking, but studying this using recordings of people's own voices has proved tricky.
+
+
+***
+![Da Vinci's Forgotten Experiments Almost Decoded Gravity Centuries Ago](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17unzH.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Da Vinci's Forgotten Experiments Almost Decoded Gravity Centuries Ago")
+
+
+[Da Vinci's Forgotten Experiments Almost Decoded Gravity Centuries Ago](http://www.msn.com/en-us/news/technology/da-vinci-s-forgotten-experiments-almost-decoded-gravity-centuries-ago/ar-AA17unA0)
+
+
+> In 1907, Albert Einstein presented the world with a startling truth about our universe. Gravity, he realized, isn't quite as strange and mysterious as it feels. Rather, it's kind of the same thing as acceleration -- a force we're very used to thinking about on the regular. He called it the equivalence principle, and soon, this eye-opening concept would blossom into the mind-bending theory of general relativity. The rest, as they say, is history. Load Error On Monday, however, engineers with the California Institute of Technology revealed a fascinating new plot point to the story of humanity's gravitational musings -- and it has to do with none other than the renaissance genius himself, Leonardo da Vinci.
+
+
+***
+![Akamai beats expectations as cloud and security revenues grow](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/Screenshot-from-2023-02-15-06-51-01.png "Akamai beats expectations as cloud and security revenues grow")
+
+
+[Akamai beats expectations as cloud and security revenues grow](https://siliconangle.com/2023/02/14/akamai-beats-expectations-cloud-security-revenues-grow/)
+
+
+> Akamai Technologies Inc. , the content delivery network firm that's morphing into a cloud infrastructure services provider, delivered better-than-expected financial results today as it gears up to take on the likes of Amazon Web Services Inc. and Google Cloud. The company reported fourth-quarter net income of $128.7 million, down from the $160.5 million profit it delivered in the same period last year. Earnings before certain costs such as stock compensation came to $1.37 per share, beating Wall Street's forecast of $1.
+
+
+***
+![Sins of a Solar Empire II Adds Multiplayer and More in its Latest Early Access Update](https://cdn.wccftech.com/wp-content/uploads/2023/02/WCCFsinsofasolarempire21.jpg "Sins of a Solar Empire II Adds Multiplayer and More in its Latest Early Access Update")
+
+
+[Sins of a Solar Empire II Adds Multiplayer and More in its Latest Early Access Update](https://wccftech.com/sins-of-a-solar-empire-ii-technical-preview-update-3-multiplayer/)
+
+
+> Sins of a Solar Empire II, the new entry in the fan-favorite sci-fi 4X strategy franchise, launched in early access (referred to as a 'technical preview' by developer Ironclad Games) last year, and today a major update was released. This update finally adds multiplayer, with some interesting features attached, including the ability for a human to jump into a game and replace an AI opponent at any time. In addition to multiplayer, the latest update also improves various ship models, tweaks how garrisons, pirates, and other features work, and more.
+
+
+***
+![GitHub Copilot for Business is now available](https://external-preview.redd.it/V6k32Nbf5W6viY3Y94OVszHETSrhuizxB0Xw-c2Biuw.jpg?auto=webp&v=enabled&s=3b39db96bffb48b4b9c9abe8bdbe6aedb1d43d99 "GitHub Copilot for Business is now available")
+
+
+[GitHub Copilot for Business is now available](https://www.reddit.com/r/programming/comments/112jpoo/github_copilot_for_business_is_now_available_the)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Pick up Samsung's ludicrously capacious 8TB SSD for £413 after a 40% discount](https://assets2.rockpapershotgun.com/ssd.jpg/BROK/thumbnail/1200x630/ssd.jpg "Pick up Samsung's ludicrously capacious 8TB SSD for £413 after a 40% discount")
+
+
+[Pick up Samsung's ludicrously capacious 8TB SSD for £413 after a 40% discount](https://www.rockpapershotgun.com/pick-up-samsungs-ludicrously-capacious-8tb-ssd-for-413-after-a-40-discount)
+
+
+> I kind of hate mechanical hard drives these days. Yes, they're cheap per gigabyte, yes they're fairly reliable, yes they're absolutely the way to go if you need to store a lot of data and don't care how long it takes to access it. But. But. These drives are hard to go back to after you're used to SSDs, with their near-instant access times, completely silent operation, resistance to shocks, drops and magnets and of course their overall SPEED. So when I had the chance, I bought the biggest SSD I could afford, a 4TB model at the time, and copied literally every bit of data from the four or five 1TB or smaller hard drives that I'd bought over the years and stuck into my increasingly full PC tower.
+
+
+***
+![GitHub Copilot for Business is Now Available](https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/02/GitHub-Copilot-for-Business.jpg "GitHub Copilot for Business is Now Available")
+
+
+[GitHub Copilot for Business is Now Available](https://www.thurrott.com/dev/279343/github-copilot-for-business-is-now-available)
+
+
+> Microsoft announced today that GitHub Copilot for Business is now generally available, bringing the AI pair programmer to developer teams of all sizes. 'GitHub Copilot builds the power of generative AI into an editor extension that suggests code in real-time,' GitHub's Thomas Dohmke writes. 'It works with code and natural language prompts to offer multiple suggestions that can quickly be accepted or rejected—and it learns alongside developers to adapt to individual coding styles and conventions.
+
+
+***
+![Tomb Raider Reloaded Trailer Welcomes Netflix's Newest Game](https://www.comingsoon.net/wp-content/uploads/sites/3/2023/02/tomb-raider-reloaded.png?resize=1200,630 "Tomb Raider Reloaded Trailer Welcomes Netflix's Newest Game")
+
+
+[Tomb Raider Reloaded Trailer Welcomes Netflix's Newest Game](https://www.comingsoon.net/games/news/1267839-tomb-raider-reloaded-trailer-netflix-game-launch)
+
+
+> While Tomb Raider and Amazon have been quite the pairing as of late , streaming rival Netflix just put out the newest Tomb Raider game. Tomb Raider Reloaded is a top-down dungeon crawler that's out now (to coincide with Lara Croft's birthday) for iOS and Android devices, as noted by its new launch trailer. Unlike past Tomb Raider titles, Reloaded is a much more cartoonish take on Lara Croft and her adventures. All of the action takes place in a top-down setting, with players guiding Croft through various dungeons and avoiding traps, fighting enemies, and collecting loot.
+
+
+***
+![Email security: A critical concern in today's business world](https://techwireasia.com/wp-content/uploads/2023/02/Email-scaled.jpg "Email security: A critical concern in today's business world")
+
+
+[Email security: A critical concern in today's business world](https://techwireasia.com/2023/02/email-security-a-critical-concern-in-todays-business-world/)
+
+
+> According to Barracuda, 75% of organizations surveyed experienced at least one successful email attack within the past year. Downtime and business disruption were the most frequently reported consequences of email attacks. Despite being the most important means of communication in the business world, with billions of emails exchanged daily, email security is a critical concern that is frequently neglected. This can lead to a false sense of security and complacency, which makes email an attractive target for cyberattacks that exploit the trust between colleagues and organizations.
+
+
+***
+![Wirex Becomes Global Partner of Visa, Makes Moves in APAC](https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Wirex_Home.png "Wirex Becomes Global Partner of Visa, Makes Moves in APAC")
+
+
+[Wirex Becomes Global Partner of Visa, Makes Moves in APAC](https://www.crowdfundinsider.com/2023/02/202490-wirex-becomes-global-partner-of-visa-makes-moves-in-apac)
+
+
+> Wirex, a crypto payments platform, has signed a long-term strategic global partnership with payments company network, Visa. This includes 'becoming a member of Visa in APAC and the UK that will allow Wirex to directly issue crypto-enabled debit and prepaid cards themselves to over 40 countries.' The agreement between Wirex and Visa will 'support further collaboration in major markets, including APAC, UK, Europe and the USA.' Membership of Visa 'enables Wirex to offer new innovative products to utilize crypto in the everyday, improve user-experience and pilot new blockchain initiatives.
+
+
+***
+![14+ Awesome Games To Play After Cyberpunk 2077](https://www.kotaku.com.au/wp-content/uploads/sites/3/2023/02/15/5ef9275c835959cf81d44dd4da78abc9.jpg?quality=80&resize=1280,720 "14+ Awesome Games To Play After Cyberpunk 2077")
+
+
+[14+ Awesome Games To Play After Cyberpunk 2077](https://www.kotaku.com.au/2023/02/14-awesome-games-to-play-after-cyberpunk-2077/)
+
+
+> All patched up some two years post-release, Cyberpunk 2077 is actually a pretty good video game now. As a result, many players finally decided to dive in and give it a shot, and the excellent Netflix anime Edgerunners certainly helped, too. So now you've been cyberpunked and want more. But the upcoming expansion starring Idris Elba doesn't even have a firm release date. Where to turn? Cyberpunk 2077 ‘s strengths include its being an excellent adaptation of a classic tabletop RPG setting in an expansive open world, satisfying first-person shooter combat with enough speccing options to create varied builds, and a strong narrative featuring memorable characters.
+
+
+***
+![Microsoft Improves .NET Framework Updates on Windows 11 22H2](https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/02/microsoft-dotnet-classic-logo.jpg "Microsoft Improves .NET Framework Updates on Windows 11 22H2")
+
+
+[Microsoft Improves .NET Framework Updates on Windows 11 22H2](https://www.thurrott.com/wearables/apple-watch/279341/microsoft-improves-net-framework-updates-on-windows-11-22h2)
+
+
+> Microsoft announced today that it will finally make updating the .NET Framework less painful, albeit it only on Windows 11 version 22H2. 'We are excited to announce two new features that will greatly improve the .NET Framework update experience for customers on Windows 11, version 22H2,' Microsoft's Brett Lopez announced. 'Your device will experience fewer reboots, and you will have more control over optional .NET Framework updates. The key to this improvement is a technology called the Unified Update Platform (UUP), which Microsoft uses to update Windows 10 and Windows 11.
+
+
+***
+![Red Tape Review](https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Red%20Tape%20Review%20Header.jpg?itok=1mzpekQZ "Red Tape Review")
+
+
+[Red Tape Review](https://techraptor.net/gaming/reviews/red-tape-review)
+
+
+> The fire-and-brimstone portrayals of Hell have never really done it for me. There's something silly about the exaggeration; eternal torture and constant agony are difficult to imagine because they're so extreme. By contrast, waiting in line eternally only to be told you've filled in the wrong form when you arrive at the desk is a nightmare I can get behind. That's the premise behind  Red Tape , a new bureaucracy sim-style narrative adventure from Pollaris Studios and horror mainstays DreadXP. On paper (and there's a lot of paper in Hell), Red Tape  is an enticing prospect.
+
+
+***
+![Canadian grandpa misses HQ Trivia, learns to code, and makes his own version. It's LIVE everyday at 9:05 pm EST and the humble daily cash prize of $20 (from his retirement savings) is split amongst the winners. Hey, at least it's been working consistently for the past month!](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Canadian grandpa misses HQ Trivia, learns to code, and makes his own version. It's LIVE everyday at 9:05 pm EST and the humble daily cash prize of $20 (from his retirement savings) is split amongst the winners. Hey, at least it's been working consistently for the past month!")
+
+
+[Canadian grandpa misses HQ Trivia, learns to code, and makes his own version. It's LIVE everyday at 9:05 pm EST and the humble daily cash prize of $20 (from his retirement savings) is split amongst the winners. Hey, at least it's been working consistently for the past month!](https://www.reddit.com/r/programming/comments/112j41d/canadian_grandpa_misses_hq_trivia_learns_to_code)
+
+
+> Canadian grandpa misses HQ Trivia, learns to code, and makes his own version. It's LIVE everyday at 9:05 pm EST and the humble daily cash prize of $20 (from his retirement savings) is split amongst the winners. Hey, at least it's been working consistently for the past month!
+
+
+***
+![FCC Nominee Sohn Faces Third Hearing As Democrats Dawdle, The GOP Obstructs, And A Sleazy Telecom Industry Smear Campaign Continues](https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png "FCC Nominee Sohn Faces Third Hearing As Democrats Dawdle, The GOP Obstructs, And A Sleazy Telecom Industry Smear Campaign Continues")
+
+
+[FCC Nominee Sohn Faces Third Hearing As Democrats Dawdle, The GOP Obstructs, And A Sleazy Telecom Industry Smear Campaign Continues](https://www.techdirt.com/2023/02/14/fcc-nominee-sohn-faces-third-hearing-as-democrats-dawdle-the-gop-obstructs-and-a-sleazy-telecom-industry-smear-campaign-continues/)
+
+
+> Telecom and media giants have been working overtime to block Gigi Sohn from being seated at the FCC. That has involved  a sleazy smear campaign , seeded in the press by non-profits linked to companies like News Corporation, AT&T, and Comcast, falsely accusing Sohn of being a radical extremist who hates  Hispanics ,  rural Americans ,  cops , puppies, and freedom. With Sohn  freshly re-nominated  by the Biden administration, the attacks recently began anew, with industry seeding homophobic attacks in friendly press outlets, and News Corporation, one of several companies behind the attacks, feebly trying to falsely frame Sohn (genuinely popular across both sides of the aisle) as an unhinged radical in its opinion section .
+
+
+***
+![Activision Blizzard is reportedly making a change that workers despise](https://cdn1.dotesports.com/wp-content/uploads/2022/08/02074353/activision-blizzard-logo-188109-768x432.jpg "Activision Blizzard is reportedly making a change that workers despise")
+
+
+[Activision Blizzard is reportedly making a change that workers despise](https://dotesports.com/business/news/activision-blizzard-is-reportedly-making-a-change-that-workers-despise)
+
+
+> Activision Blizzard employees reportedly have more than just a potential sale to worry about, as they are being told that working full-time from home will no longer be an option and they will have to return to the office, according to a report by VGC . The move is, unsurprisingly, making employees angry. Two people that claim to be employees of the company have spoken out on social media about the move, and it seems that the majority of workers have no desire to go back to the office full or part-time.
+
+
+***
+![CSI's BaaS Capabilities Facilitate New Fintech Partnerships](https://www.crowdfundinsider.com/wp-content/uploads/2021/01/NYSE-New-York-Fintech-1024x848.jpg "CSI's BaaS Capabilities Facilitate New Fintech Partnerships")
+
+
+[CSI's BaaS Capabilities Facilitate New Fintech Partnerships](https://www.crowdfundinsider.com/2023/02/202504-csis-baas-capabilities-facilitate-new-fintech-partnerships)
+
+
+> CSI, a provider of end-to-end fintech and Regtech solutions, announced that its comprehensive suite of prebuilt open APIs 'has facilitated partnerships for ECHO Health, Inc. and MOCA Financial, Inc. with financial institutions to deploy Banking as a Service (BaaS) and payments initiatives.' CSI's advanced application programming interface (API) capabilities 'provide simple, secure and audited access to a host of solutions including account opening, deposits, savings, payments, cards, identity verification and other critical lines of financial services.
+
+
+***
+[NICE Alliance Announces New Adopters, Toyo Media Links and Headwaters, Which Accelerate the Expansion of Advanced AI based Secure Services of NICE Ecosystem Across Industries](http://www.businesswire.com/news/home/20230214005007/en/NICE-Alliance-Announces-New-Adopters-Toyo-Media-Links-and-Headwaters-Which-Accelerate-the-Expansion-of-Advanced-AI-based-Secure-Services-of-NICE-Ecosystem-Across-Industries/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TOKYO--(BUSINESS WIRE)--NICE Alliance announces new Adopters, Toyo Media Links and Headwaters, which accelerate the expansion of AI based Secure Services of NICE Ecosystem
+
+
+***
+![Berkshire Grey and Locus Robotics Announce Partnership](https://img.sdcexec.com/files/base/acbm/scn/image/2023/02/AdobeStock_341237054.63ec056001d23.png?auto=format%2Ccompress&fit=max&q=70&w=1200 "Berkshire Grey and Locus Robotics Announce Partnership")
+
+
+[Berkshire Grey and Locus Robotics Announce Partnership](https://www.sdcexec.com/software-technology/automation/news/22711051/berkshire-grey-berkshire-grey-and-locus-robotics-announce-partnership)
+
+
+> Kostiantyn/adobe.stock.com Berkshire Grey, Inc. and  Locus Robotics announced their partnership with the unveiling of their combined solution that integrates the Berkshire Grey  Robotic Shuttle Put Wall (BG RSPWi) with  Locus Origin and  Locus Vector bots. This solution deploys end to end robotic solutions for retail and customers that use ecommerce. This solution was created to address customers looking to maximize their supply chain productivity and to address growing labor shortages.  'Partnering with Berkshire Grey allows our customers to reap the benefits of enterprise-level robotic automation across some of their most business-critical supply chain processes,' said Mike Johnson, President at Locus Robotics.
+
+
+***
+![Office 365 family 15mo](https://thurrott.s3.amazonaws.com/2016/07/thurrott-premium-1024x576-1_325x392_acf_cropped.jpg "Office 365 family 15mo")
+
+
+[Office 365 family 15mo](https://www.thurrott.com/forums/microsoft/office/thread/office-365-family-15mo-70)
+
+
+> As of now, Newegg has a $70 deal for office 365 family and NordVpn 15 months. Stacks to existing subscriptions. Also doesn't take over your MS account like amazon deals. Search newegg for– Combo: 4521997
+
+
+***
+![Hogwarts Legacy walkthrough: How to complete The Hunt for the Missing Pages quest](https://staticg.sportskeeda.com/editor/2023/02/2cfbd-16763991676041-1920.jpg "Hogwarts Legacy walkthrough: How to complete The Hunt for the Missing Pages quest")
+
+
+[Hogwarts Legacy walkthrough: How to complete The Hunt for the Missing Pages quest](https://www.sportskeeda.com/esports/hogwarts-legacy-walkthrough-how-complete-the-hunt-missing-pages-quest)
+
+
+> Hogwarts Legacy offers a brand new RPG experience that fans of the Wizarding World franchise have never seen before. The latest game from Avalanche Software also has many quests to indulge in. This includes branching quests, the first of which is encountered not long into the campaign. The content and objectives change depending on one's House. For Gryffindor, the quest is known as The Hunt for the Missing Pages. It requires the protagonist to tag along with the iconic ghost Nearly Headless Nick to track down another called Richard Jackdaw.
+
+
+***
+![1080p OLED for the masses: Asus VivoBook 15X M1503QA laptop review](https://www.notebookcheck.net/fileadmin/Notebooks/Asus/VivoBook_15_X_M1503QA/PXL_20230212_185314627.jpg "1080p OLED for the masses: Asus VivoBook 15X M1503QA laptop review")
+
+
+[1080p OLED for the masses: Asus VivoBook 15X M1503QA laptop review](https://www.notebookcheck.net/1080p-OLED-for-the-masses-Asus-VivoBook-15X-M1503QA-laptop-review.692363.0.html)
+
+
+> Case — Several Exterior Changes The VivoBook 15X OLED utilizes the same metal outer lid and plastic base materials as on the regular VivoBook 15 but with several design updates. Firstly, the Harman/Kardon logo on the right palm rest has been replaced with SonicMaster. Secondly, the clickpad and keyboard deck are larger and more defined, respectively. Thirdly, the bezels on all four sides have been reduced for a slightly smaller footprint despite the faster Ryzen H-series CPU in our model. And lastly, the left edge includes new ventilation grilles alongside rearranged ports.
+
+
+***
+[Everspin to Host Fourth Quarter and Fiscal Year End 2022 Earnings Call on March 1, 2023](http://www.businesswire.com/news/home/20230214005877/en/Everspin-to-Host-Fourth-Quarter-and-Fiscal-Year-End-2022-Earnings-Call-on-March-1-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CHANDLER, Ariz.--(BUSINESS WIRE)--Everspin Technologies, Inc. (NASDAQ: MRAM), the market leader in MRAM, will release its fourth quarter and fiscal year end 2022 financial results after market close on Wednesday, March 1, 2023. Sanjeev Aggarwal, President and Chief Executive Officer and Anuj Aggarwal, Chief Financial Officer, will host a conference call on Wednesday March 1st at 5:00 p.m. Eastern Time to discuss the Company's financial results. The 10-K will be available for viewing on Thursday
+
+
+***
+![It's official, this science fiction saga is back in theaters after a 10-year wait! Fans already in a trance](https://image.jeuxvideo.com/medias-md/167636/1676362677-8211-card.png "It's official, this science fiction saga is back in theaters after a 10-year wait! Fans already in a trance")
+
+
+[It's official, this science fiction saga is back in theaters after a 10-year wait! Fans already in a trance](https://www.world-today-news.com/its-official-this-science-fiction-saga-is-back-in-theaters-after-a-10-year-wait-fans-already-in-a-trance/)
+
+
+> News culture It's official, this science fiction saga is back in theaters after a 10-year wait! Fans already in a trance Published on 02/14/2023 at 09:18 Share : Vin Diesel returns to a role he left in 2013, in a sci-fi saga that many have been waiting for. It's not not the most popular sci-fi saga in the world but the deductible Riddick and the fanbase and she has just learned good news: a new movie is in the works! Riddick: Furya, a fourth episode with the same actor and the same director It was an open secret, since Vin Diesel had repeatedly hinted that Riddick was coming back.
+
+
+***
+![Joker Malware](https://www.checkpoint.com/wp-content/themes/checkpoint-theme-v2/images/fav/apple-touch-icon.png "Joker Malware")
+
+
+[Joker Malware](https://www.checkpoint.com/cyber-hub/threat-prevention/what-is-malware/joker-malware/)
+
+
+> Joker is spyware that collects SMS messages, contact lists, and information about infected devices. Additionally, Joker has the ability to monetize the malware infection by registering the device for premium services without the owner's approval. In October 2022, Joker was the third most common mobile malware behind Anubis and Hydra. Delivered via malicious apps available from the Google Play Store, this mobile malware has been detected in a variety of different applications, including messaging, health, and translation apps.
+
+
+***
+![Lenovo Presidents Day Sale: Up to $2560 Off Laptops and More](https://www.digitaltrends.com/wp-content/uploads/2021/08/lenovo-ideapad-flex-5i-14-laptop-2.jpg?resize=1200%2C630&p=1 "Lenovo Presidents Day Sale: Up to $2560 Off Laptops and More")
+
+
+[Lenovo Presidents Day Sale: Up to $2560 Off Laptops and More](https://www.digitaltrends.com/computing/lenovo-presidents-day-sale-2023/)
+
+
+> Lenovo has a huge Presidents Day sale going on right now with some deep discounts to be enjoyed on some of the most highly sought-after laptops, gaming PCs and more. As one of the best laptop brands out there, Lenovo knows its stuff. That's why we've picked out some of the very best deals going on right now. Read on while we take you through our hand-picked selection of the best of the Lenovo Presidents Day sale. Contents Best Buy Chromebook deals don't often get cheaper than this without missing out on some key components.
+
+
+***
+![RedEyes hackers use new malware to steal data from Windows, phones](https://www.bleepstatic.com/content/hl-images/2022/05/11/hacker_sebastiaan-stam-unsplash.jpg "RedEyes hackers use new malware to steal data from Windows, phones")
+
+
+[RedEyes hackers use new malware to steal data from Windows, phones](https://www.bleepingcomputer.com/news/security/redeyes-hackers-use-new-malware-to-steal-data-from-windows-phones/)
+
+
+> The APT37 threat group uses a new evasive 'M2RAT' malware and steganography to target individuals for intelligence collection. APT37, also known as 'RedEyes' or 'ScarCruft,' is a North Korean cyber espionage hacking group believed to be state-supported. In 2022, the hacking group was seen exploiting  Internet Explorer zero-days  and distributing a wide assortment of malware against targeted entities and individuals. For example, the threat actors targeted EU-based organizations with a new version of their mobile backdoor named ' Dolphin ,' deployed a custom RAT (remote access trojan) called ' Konni ,' and targeted U.
+
+
+***
+![Hidden features in Apple's Reminders app and how to use them](https://aitnews.com/wp-content/uploads/2023/02/AVAILO-Mobile-Sizes-320-200.png "Hidden features in Apple's Reminders app and how to use them")
+
+
+[Hidden features in Apple's Reminders app and how to use them](https://www.world-today-news.com/hidden-features-in-apples-reminders-app-and-how-to-use-them/)
+
+
+> The Reminders application from Apple is a simple application available on iPhones and other Apple devices. It can be used to create task reminders, or lists of tasks you want to accomplish today or in the days ahead. You can also use Siri, the voice assistant, to add tasks to the app. But its uses are not limited to that, it has many hidden features that are worth trying, such as adding location-based task reminders, sharing reminder lists with other people, and converting them to a PDF file. Below we will mention 5 hidden features in the Apple Reminders app and how to use them: 1- Set a reminder based on the location: The Reminders application allows you to add a reminder for a specific task based on the location, for example: you can add a reminder to read a book when you arrive home, or a reminder to check emails when you arrive at the office.
+
+
+***
+[CapsuleNFT Launches 'Ordinary Oranges,' Making Ordinal Bitcoin NFTs Accessible on Ethereum](http://www.businesswire.com/news/home/20230214005876/en/CapsuleNFT-Launches-%E2%80%9COrdinary-Oranges%E2%80%9D-Making-Ordinal-Bitcoin-NFTs-Accessible-on-Ethereum/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--CapsuleNFT Launches 'Ordinary Oranges,' Making Ordinal Bitcoin NFTs Accessible on Ethereum
+
+
+***
+[Analog Devices Raises Quarterly Dividend By 13%](http://www.businesswire.com/news/home/20230214005853/en/Analog-Devices-Raises-Quarterly-Dividend-By-13/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WILMINGTON, Mass.--(BUSINESS WIRE)--Analog Devices, Inc. (NASDAQ: ADI), a global semiconductor leader, today announced that its Board of Directors has voted to increase its quarterly dividend from $0.76 per outstanding share of common stock to $0.86, which represents an increase of 13% and is the equivalent of $3.44 annually. 'Our highly profitable business model has proven resilient throughout dynamic macro environments, generating positive free cash flow for 26 consecutive years,' said Vincen
+
+
+***
+[Triton Digital Releases the Australian Podcast Ranker for January 2023](http://www.businesswire.com/news/home/20230214005685/en/Triton-Digital-Releases-the-Australian-Podcast-Ranker-for-January-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SYDNEY--(BUSINESS WIRE)--Triton Digital®, the global technology and services leader to the digital audio, podcast, and broadcast radio industries, announced today the release of the first 2023 Australian Podcast Ranker. The Ranker provides insight into the Top 150 Podcasts as well as the Top 150 Australian-Made Podcasts, the Top Publishers in Australia, and the Top Sales Representatives in Australia from 1 January through 31 January 2023, as measured by Triton's Podcast Metrics measurement serv
+
+
+***
+[FOX News Digital Kicks Off 2023 as Top News Brand With Multiplatform Views and Minutes in January](http://www.businesswire.com/news/home/20230214005858/en/FOX-News-Digital-Kicks-Off-2023-as-Top-News-Brand-With-Multiplatform-Views-and-Minutes-in-January/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--FOX News Digital finished January 2023 as the top-performing news organization in the competitive set in both multiplatform minutes and views, according to Comscore. This marks 23 straight months as the number one news brand with multiplatform minutes. FOX News Digital closed out January reaching over 3 billion total multiplatform minutes, 1.8 billion total multiplatform views and 109 million multiplatform unique visitors.* Additionally, FOX News Digital led the news
+
+
+***
+![Official trailer for Atomic Heart. Jensen Ackles clears things up before game release.](https://i.ytimg.com/vi/gO45X1-ydMk/hqdefault.jpg "Official trailer for Atomic Heart. Jensen Ackles clears things up before game release.")
+
+
+[Official trailer for Atomic Heart. Jensen Ackles clears things up before game release.](https://www.world-today-news.com/official-trailer-for-atomic-heart-jensen-ackles-clears-things-up-before-game-release/)
+
+
+> Next week the slightly odd FPS game will be released Atomic Heart and ahead of that, a new trailer for the game was released today. In the trailer, we get to see the actor Jensen Ackles, known from the TV series Supernatural and The Boys unleash various creatures to be fought in the game. Atomic Heart takes place in a retro-futuristic version of the Soviet Union in the 1950s, where the player will fight with improvised weapons against both mechanical and biological monsters of various kinds. February 21 is released Atomic Heart till PlayStation 5, PlayStation 4, Xbox Series X/S, Xbox One och PC.
+
+
+***
+![Podcast host still confused about evolution after chat with author Aron Ra](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/thenakedape.jpeg?fit=1200%2C800&ssl=1 "Podcast host still confused about evolution after chat with author Aron Ra")
+
+
+[Podcast host still confused about evolution after chat with author Aron Ra](https://boingboing.net/2023/02/14/podcast-host-still-confused-about-evolution-after-chat-with-author-aron-ra.html)
+
+
+> Author Aron Ra, a regional director of American Atheists, appeared on the Fallen Nation podcast to talk about his new book, We are All Apes . The host, who doesn't seem to have any understanding of the theory of evolution, asked Ra, "Have you ever seen an ape turn into a human being?" Ra countered by asking, an analogous question: "Have I ever seen a dog turn into a dachshund?" Unfortunately, the Fallen Nation host doesn't seem to understand analogy, either. The conversation… devolved from there.
+
+
+***
+!['It's amazing how many guys use a picture from -2-](https://www.morningstar.com/assets/img/marketwatch.dad5abb.png "'It's amazing how many guys use a picture from -2-")
+
+
+['It's amazing how many guys use a picture from -2-](https://www.morningstar.com/news/marketwatch/20230214911/its-amazing-how-many-guys-use-a-picture-from-2)
+
+
+> He turned Great Expectations into a national franchise where customers paid $595 to $1,995 a year for membership ($1 in 1975 is around $5 today). "We did not hard sell you. We did a 'heart sell.' We had all kinds of Type As -- doctors, lawyers, studio production chiefs, who all thought they were God's gift, or God's gift to womankind, but when they talked about their loneliness, they cried." People will always be searching for that perfect mate, Ullman said, whether it's through videos, words, photos, psychological compatibility, A.
+
+
+***
+![9 New Microsoft Bugs to Patch Now](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt065a93df8d5a4943/63ebfcac46d4e92d0898e712/patchtuesday_Miha_Creative_shutterstock.jpg "9 New Microsoft Bugs to Patch Now")
+
+
+[9 New Microsoft Bugs to Patch Now](https://www.darkreading.com/endpoint/nine-new-microsoft-bugs-to-patch-now)
+
+
+> Microsoft has issued fixes for three zero-day bugs that attackers currently are actively exploiting in the wild. One of them, tracked as CVE-2023-21715 , is a security feature bypass vulnerability in Microsoft Office that gives attackers a way to bypass Office macro policies for blocking untrusted files and content. The second is an elevation-of-privilege vulnerability in Windows Common Log File System Driver ( CVE-2023-23376 ), which allows an attacker to gain system-level privileges. The third is CVE-2023-21823 , a remote code execution (RCE) bug in the Windows Graphics Component which also enables an attacker to gain system-level access.
+
+
+***
+![A bad homage to the era of Xbox 360 and PS3 – action ratings Wanted: Dead](https://cdn.shazoo.ru/674101_7eCLpqi_qjk02ggnwh.jpg "A bad homage to the era of Xbox 360 and PS3 – action ratings Wanted: Dead")
+
+
+[A bad homage to the era of Xbox 360 and PS3 – action ratings Wanted: Dead](https://www.world-today-news.com/a-bad-homage-to-the-era-of-xbox-360-and-ps3-action-ratings-wanted-dead/)
+
+
+> Simultaneously with the release of the action Wanted: Dead from the former developers of Ninja Gaiden, full-fledged reviews of the title from the Western press appeared on the network. The final grades vary greatly, but the final score paints a sad picture. Many authors agreed that this is a kind of hello to the era of the Xbox 360 and PS3, but not everyone came to the conclusion that this is a good thing. Journalists criticize Wanted: Dead for the weird tone, the terrible voice acting of the characters, and the stupid plot.
+
+
+***
+![NASA Parts Designed By AI Look Like 'Bones Left by Some Alien Species'](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17lePA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "NASA Parts Designed By AI Look Like 'Bones Left by Some Alien Species'")
+
+
+[NASA Parts Designed By AI Look Like 'Bones Left by Some Alien Species'](http://www.msn.com/en-us/news/technology/nasa-parts-designed-by-ai-look-like-bones-left-by-some-alien-species/ar-AA17lePK)
+
+
+> It takes a lot of brain power to build a NASA mission, and those brains are both human and computer. NASA's been calling on artificial intelligence to come up with creative ways to build hardware for spacecraft and other missions. The resulting designs are beautiful, funky and practical. In a statement on Thursday, NASA said AI-designed parts "may resemble bones left by some alien species, but they weigh less, tolerate higher structural loads, and require a fraction of the time parts designed by humans take to develop.
+
+
+***
+![TechPrecision Corporation Reports Third Quarter Fiscal 2023 Financial Results](https://www.accesswire.com/img.ashx?id=739323 "TechPrecision Corporation Reports Third Quarter Fiscal 2023 Financial Results")
+
+
+[TechPrecision Corporation Reports Third Quarter Fiscal 2023 Financial Results](https://www.bignewsnetwork.com/news/273524429/techprecision-corporation-reports-third-quarter-fiscal-2023-financial-results)
+
+
+> Improving operating performance drives revenue growth and gross profit WESTMINSTER, MA / ACCESSWIRE / February 14, 2023 / TechPrecision Corporation (OTCQB:TPCS) ('TechPrecision' or 'the Company'), an industry-leading manufacturer of precision, large-scale fabricated and machined metal components and tested systems with customers in the defense and precision industrial sectors, today reported financial results for the third quarter of fiscal year 2023 ended December 31, 2022. 'Third quarter consolidated net sales were $8.
+
+
+***
+![Government Considers Whether AI Can Invent Something Patentable](https://cdn.nextgov.com/media/img/cd/2023/02/14/021423aiNG/open-graph.jpg "Government Considers Whether AI Can Invent Something Patentable")
+
+
+[Government Considers Whether AI Can Invent Something Patentable](https://www.nextgov.com/emerging-tech/2023/02/government-considers-whether-ai-can-invent-something-patentable/382956/)
+
+
+> As artificial intelligence is used more and more to innovate, the United States Patent and Trademark Office is looking to address the question of whether AI can be listed as an inventor on a patent, according to a Federal Register notice published on Tuesday. While the USPTO aims to incentivize and protect innovation, including those achieved with the help of AI, the agency is interested in public insight on 'the current state of AI technologies and on inventorship issues that may arise with their advancement, especially as AI plays a greater role in the innovation process.
+
+
+***
+![How to best prepare for Regirock Raid Hour on February 15 in Pokemon GO](https://staticg.sportskeeda.com/editor/2023/02/958d4-16764053589731-1920.jpg "How to best prepare for Regirock Raid Hour on February 15 in Pokemon GO")
+
+
+[How to best prepare for Regirock Raid Hour on February 15 in Pokemon GO](https://www.sportskeeda.com/pokemon/how-best-prepare-regirock-raid-hour-february-15-pokemon-go)
+
+
+> Pokemon GO's next Raid Hour will be underway on February 15, 2023, at 10:00 am local time. Trainers will be able to encounter and battle Regirock in 5-star raids until February 22, 2023, at 10:00 am. Since the Raid Hour event is quickly approaching, it's not a bad idea for trainers to get ready to battle Regirock as many times as they can. More encounters mean more chances at encountering a Regirock with great IV stats, and some lucky Pokemon GO players may even find a shiny after the raid battle.
+
+
+***
+![Japanese Switch eShop releases for the week of Feb. 23rd, 2023](https://gonintendo.com/attachments/image/23264/file/medium-5c6c15e9046c2210c8c43258fd74d7cc.webp "Japanese Switch eShop releases for the week of Feb. 23rd, 2023")
+
+
+[Japanese Switch eShop releases for the week of Feb. 23rd, 2023](https://gonintendo.com/contents/16259-japanese-switch-eshop-releases-for-the-week-of-feb-23rd-2023)
+
+
+> It's time once again to take a look at the games heading to the Switch in Japan. Here's what's slated to hit the system for the week ending Feb. 23rd, 2023. Remember, this isn't the final list, as there's always some surprises each week. Akka Arrh Tyrant's Blessing Hiyoku no Tori Horror Tale 1: Kidnapper Raiden III x Mikado Maniax Remorse: The List Grim Guardians: Demon Purge ARK: Survival Evolved Octopath Traveler II Kirby's Return to Dream Land Deluxe SpongeBob SquarePants: The Cosmic Shake The Crimson Flower that Divides: Lunar Coupling modal#open commentUpvoteInfoModal.
+
+
+***
+![Power, Solar cells](https://g.api.no/obscura/API/dynamic/r1/ece5/tr_2000_2000_s_f/1674213758000/nett/2023/1/20/12/cueres_scp-mangler_navn_geivkE5J0TE.jpg?chk=3E4456 "Power, Solar cells")
+
+
+[Power, Solar cells](https://www.world-today-news.com/power-solar-cells-how-high-must-the-electricity-price-be-for-solar-cells-to-pay-off/)
+
+
+> The power crisis has given a solid boost in the installation of solar panels. In 2022, 7,691 new solar systems came online in Norway, which is more than threefold from the previous year. – Otovo doubled the number of installations in the first three quarters of 2022 compared to 2021. The increase is unprecedented. Taken together with the fact that demand tripled, this means that waiting times also increased sharply in the past year. However, this is improving because the equipment manufacturers have adapted their production and there has been more capacity on the installer side, Otovo manager Silje Gjeraker tells Nettavisen.
+
+
+***
+![Nier: Automata Animate Café event announced](https://gonintendo.com/attachments/image/23263/file/medium-df020422268d58cea6a65c141f767fd5.webp "Nier: Automata Animate Café event announced")
+
+
+[Nier: Automata Animate Café event announced](https://gonintendo.com/contents/16258-nier-automata-animate-cafe-event-announced)
+
+
+> A new Nier: Automata event has been announced for Japan, and it's certainly an interesting collaboration. Japanese store Animate has revealed plans for the Nier: Automata Animate Café, which will run from March 8th to April 10th, 2023. To promote the event, artwork of 2B and 9S in maid and butler outfits has been shared. Those who attend the Café in person will be able to snack on some themed sweets, and also sift through various merchandise. Those looking to attend March 8th to 12th will have to get a reservation, while March 13th to April 10th will be first-come, first served.
+
+
+***
+![Apple Watch Crash Detection helped response team locate car accident in Germany](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/Crash-detection-1.jpg "Apple Watch Crash Detection helped response team locate car accident in Germany")
+
+
+[Apple Watch Crash Detection helped response team locate car accident in Germany](https://mobilesyrup.com/2023/02/14/apple-watch-crash-detection-helped-response-team-locate-car-accident-in-germany/)
+
+
+> Apple's Crash Detection feature is notorious for pushing out false negatives. Over the past few months, there have been several reports of the feature triggering emergency calls when the wearer of an Apple Watch or someone with an iPhone 14 series device is engaging in winter sports, or riding on a roller coaster. Amid the false positives, there have been several cases where the feature has actually assisted in locating someone in dire need of help. News coming out of Germany via Mittelbayerische Zeitung suggests that the Crash Detection was responsible for helping three people that were in a car crash where their vehicle fell down a deep embankment.
+
+
+***
+![Human body in creek found by father and child… wasn't that](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/shutterstock_1756912451-scaled.jpg?fit=1200%2C800&ssl=1 "Human body in creek found by father and child… wasn't that")
+
+
+[Human body in creek found by father and child… wasn't that](https://boingboing.net/2023/02/14/human-body-in-creek-found-by-father-and-child-wasnt-that.html)
+
+
+> A father and child were playing by a creek in Wyoming County, Pennsylvania when their ball rolled into the water. After climbing down to retrieve it they spotted a black plastic bag. Inside the bag, they found what appeared to be human remains. Turns out, it wasn't that. But the reality is still pretty darn creepy. From PA Homepage : At the scene, police say a black plastic bag with an "extremely lifelike" human foot sticking out of it was discovered. The foot was said to be highly detailed, complete with a French manicure.
+
+
+***
+![New photos surface of rare Smash Bros. tourney Slamfest '99](https://gonintendo.com/attachments/image/23255/file/medium-defc8f1971a447eaac3529d303373473.png "New photos surface of rare Smash Bros. tourney Slamfest '99")
+
+
+[New photos surface of rare Smash Bros. tourney Slamfest '99](https://gonintendo.com/contents/16256-new-photos-surface-from-obscure-promotional-smash-bros-tournament-slamfest-99)
+
+
+> You probably remember the classic Super Smash Bros. commercial in which Mario, Donkey Kong, and others duke it out in full costume. But did you know that those same costumes were used in a promotional event called Slamfest ‘99, in which actors actually fought in a ring, complete with a crowd and referee? If you didn't, you'd be forgiven, because the event has become lost in obscurity over time. Originally taking place in Las Vegas, it was actually livestreamed at the time, but almost no video or photographic record of the event exists today.
+
+
+***
+![what does it mean and when to use it?](https://www.santeplusmag.com/wp-content/uploads/Que-signifie-lemoji-coeur-avec-un-point-dessous-lorsque-vous-le-recevez-sur-WhatsApp001-1200x628.jpg "what does it mean and when to use it?")
+
+
+[what does it mean and when to use it?](https://www.world-today-news.com/what-does-it-mean-and-when-to-use-it/)
+
+
+> Since the advent of chats and instant messaging, emojis have been an integral part of modern communication. They are used to express feelings, convey sensations, communicate information or even to make jokes. The craze created around these small symbols has led to the creation of new emoticons. Today a wide choice of emojis is offered to users of messaging applications. The meaning of some of them is obvious, but for others the interpretation can be many and varied. Let's take the example of the heart emoji with a dot below on WhatsApp.
+
+
+***
+![The Android Privacy Sandbox Is Now In Beta](https://www.adexchanger.com/wp-content/uploads/2023/02/Android-Privacy-Sandbox_comic.jpg "The Android Privacy Sandbox Is Now In Beta")
+
+
+[The Android Privacy Sandbox Is Now In Beta](https://www.adexchanger.com/privacy/the-android-privacy-sandbox-is-now-in-beta/)
+
+
+> Third-party cookie deprecation in Chrome has been delayed so many times it's become a punchline. But progress in the Android Privacy Sandbox is proceeding apace. On Tuesday, Google announced the first beta release of Android Privacy Sandbox, which will roll out to a small percentage of Android 13 devices to start, then expand to more devices over time. Google didn't share a specific timeframe, but the beta release itself is happening on time. Google told developers in late 2022 to expect the beta to kick off early this year.
+
+
+***
+![Call of Duty Warzone 2: Season 2 Release Time and Updates](https://www.denofgeek.com/wp-content/uploads/2023/02/Warzone-2.jpg?fit=1692%2C1080 "Call of Duty Warzone 2: Season 2 Release Time and Updates")
+
+
+[Call of Duty Warzone 2: Season 2 Release Time and Updates](https://www.denofgeek.com/games/call-of-duty-warzone-2-season-2-release-time-and-updates/)
+
+
+> To keep players on their toes, Season 2 will also feature new maps, contracts, and events. For instance, once per match, players killed on Ashika will drop dog tags. If a teammate or the revived player picks it up, they will receive a small influx of cash and UAV ping. Of course, this is easier said than done because depending on how a match goes, returning to the scene of your death might be more trouble than it's worth and a surefire way to die again. Players looking for something outside of Ashika will also be able to join several new game modes.
+
+
+***
+![The Great Laptop / Backing Tracks Debate: Whose Side Are You On?](https://townsquare.media/site/366/files/2023/02/attachment-laptops_rock_metal_concerts_discussion.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89 "The Great Laptop / Backing Tracks Debate: Whose Side Are You On?")
+
+
+[The Great Laptop / Backing Tracks Debate: Whose Side Are You On?](https://loudwire.com/laptop-backing-tracks-debate-big-deal/)
+
+
+> One of the hottest and most controversial topics sparking debate on social media recently is whether or not real rock bands use laptops or backing tracks to enhance their live performances — and whether that should be considered cheating. Although it's not a new subject by any means, it caused a stir of conversation when Falling In Reverse had to cancel a festival gig because their laptops, which included some harmony vocals, had  gone missing . Some rock purists only see this in black and white and are quick to proclaim that real rock artists don't use tracks at all — but, I beg to differ.
+
+
+***
+![Become the healthiest version of yourself with the PowerFit Elite Exercise Bands and Mat bundle](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/powerfit.jpeg?fit=1200%2C800&ssl=1 "Become the healthiest version of yourself with the PowerFit Elite Exercise Bands and Mat bundle")
+
+
+[Become the healthiest version of yourself with the PowerFit Elite Exercise Bands and Mat bundle](https://boingboing.net/2023/02/14/become-the-healthiest-version-of-yourself-with-the-powerfit-elite-exercise-bands-and-mat-bundle.html)
+
+
+> We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. Getting in shape at the gym is so 2019. Since then, we've learned how to workout on our own at home, ditched the  gym rat crazies , and have become better for the experience. If you're the type of person who'd rather skip the  perils of the free weights section of your local gym  and train from the comfort of your living room, these  refurbished bands and exercise mat from PowerFit  are the perfect solution.
+
+
+***
+[Cogent Global Solutions, Inc. Announces the Global Launch of New NxLCP Medical Presentation System for Surgeons](http://www.businesswire.com/news/home/20230214005021/en/Cogent-Global-Solutions-Inc.-Announces-the-Global-Launch-of-New-NxLCP-Medical-Presentation-System-for-Surgeons/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DENVER--(BUSINESS WIRE)--Cogent Global Solutions today announces the launch of a new Next Level Clinical Presentations (NxLCP) system. The system is designed specifically to address the needs of surgeons communicating new technology revolutionizing modern medicine. Proprietary to Cogent, the NxLCP system accommodates all presentation platforms and high-resolution images and processes the complex 3D graphics used in cardiovascular and neurological magnetic resonance imaging (MRI). Our NxLCP syst
+
+
+***
+![15吋MacBook Air重磅上膛 蘋果直攻Wintel大本營](https://img.digitimes.com/newsimg/2023/0215/656868-1-e7nwq_l.jpg "15吋MacBook Air重磅上膛 蘋果直攻Wintel大本營")
+
+
+[15吋MacBook Air重磅上膛 蘋果直攻Wintel大本營](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?cnlid=1)
+
+
+> 蘋果傳將推15吋MacBook Air，搶攻Wintel長期盤踞大本營。符世旻攝 蘋果（Apple）MacBook供應鏈陸續接到客戶下修出貨訊息，然業界評估，隨著第2季新款15吋MacBook Air上市，有望帶來新動能。 此外，蘋果下半年3奈米MacBook蓄勢待發，可望讓蘋果在下半年NB復甦潮中，動能優於同業。 蘋果MacBook Air為輕薄機種代表，曾經掀起輕薄Ultrabook熱潮，其經典外型在2022年才明顯改變，搭上蘋果自研的M2處理器，掀起一波銷售熱潮，如今蘋果要推出15吋MacBook Air，亦為新突破，因為從2008年起，蘋果MacBook只有2種尺寸，一為11吋，二為13吋。 蘋果MacBook Air最早於2008年在創辦人Steve Jobs從牛皮紙袋拿出來，驚豔全球果迷後，就一直保有13吋螢幕尺寸機種，從2010年到2015年期間，曾往下出到11吋MacBook Air，在2018年以後，又回歸13吋單一螢幕大小，如今跨到15吋，預估將再度掀起市場熱議。 業界傳出，15吋的MacBook Air供應鏈已經陸續在農曆年後開始進入量產，從時間預估，發表時間將會在第2季，由於15吋為歐美消費者最常使用的NB螢幕尺寸。DIGITIMES Research統計，2023年第1季台廠出貨的NB機種，15吋佔比達33%最高，其次為14吋的31.
+
+
+***
+![BMW M3 Touring Wagon Still Listed for $80K Even After Being Wrecked](https://www.thedrive.com/uploads/2023/02/14/m3-touring-wreck-lead.jpg?auto=webp "BMW M3 Touring Wagon Still Listed for $80K Even After Being Wrecked")
+
+
+[BMW M3 Touring Wagon Still Listed for $80K Even After Being Wrecked](https://www.thedrive.com/news/bmw-m3-touring-wagon-still-listed-for-80k-even-after-being-wrecked)
+
+
+> The 2023 BMW M3 Touring may only exist in Europe , but it's still the first wagon ever to be graced with a full-fledged M badge. For that reason alone it's just awesome. But awesome enough to justify an $80,000 price tag even after being wrecked, however? One Swiss owner certainly thinks so, even after having smashed the wagon's front end to smitherines. The M3 Competition Touring is listed for sale online for 72,999 Swiss Francs, or $79,210 as of writing. It has clearly been involved in a serious front-end collision, which is definitely going to require a ton of work to repair.
+
+
+***
+![Love Doesn't Suck in Romancelvania, the Metroidvania Dating-Sim](https://cogconnected.com/wp-content/uploads/2023/02/romancelvania-metroidvania-dating-sim-2.jpg "Love Doesn't Suck in Romancelvania, the Metroidvania Dating-Sim")
+
+
+[Love Doesn't Suck in Romancelvania, the Metroidvania Dating-Sim](https://cogconnected.com/2023/02/romancelvania-metroidvania-dating-sim/)
+
+
+> Video games are unique. One of the reasons is that there are opportunities for players to love undead creatures, normally a crime in most states. In a unholy mix of Metroidvania, dating-sim, and parody, we get the surprisingly charming Romancelvania. For the past couple of years, The Deep End Games has been working on this title after getting it kickstarted. You play as Drac, a contestant on a reality dating show called Love at First Bite. Other contestants and potential monster mashers include a genie, succubus, gorgon, and werewolf, among others.
+
+
+***
+![For Hogwarts Legacy are preparing a patch that improves performance on PC and Xbox Series X / S](https://cdn.shazoo.ru/674129_PhFe3Tt_0jrfvgxlga.jpg "For Hogwarts Legacy are preparing a patch that improves performance on PC and Xbox Series X / S")
+
+
+[For Hogwarts Legacy are preparing a patch that improves performance on PC and Xbox Series X / S](https://www.world-today-news.com/for-hogwarts-legacy-are-preparing-a-patch-that-improves-performance-on-pc-and-xbox-series-x-s/)
+
+
+> Hogwarts Legacy did not turn out ideal from a technical point of view. Players on various platforms are complaining about frame drops, bugs, stuttering and other bugs. Avalanche Software Community Manager informed that the team is working on a patch that should fix many problems and improve the performance of the title. It will be released first on PC and Xbox Series. PS5 players will have to wait – the patch will be released later this week. The developers encountered additional difficulties when working with the PS5 version.
+
+
+***
+![LETSHUOER Announce Cadenza 12 Flagship IEMs](https://cdn.ecoustics.com/db0/wblob/17BA35E873D594/2EDC/441B5/yhYxBtkHNyWAujOBW_u00UlVIhPFi3IuhRg-9lM9Krw/letshuoer-cadenza-12-iem-with-logo.jpg "LETSHUOER Announce Cadenza 12 Flagship IEMs")
+
+
+[LETSHUOER Announce Cadenza 12 Flagship IEMs](https://www.ecoustics.com/products/letshuoer-cadenza-12-iem/)
+
+
+> The audiophile wired universal IEM category has become incredibly competitive over the past decade with at least 2 dozen global brands offering high-end models that can really empty your wallet. We've listened to some of the best from Audeze, Noble, Jerry Harvey Audio, Final, FiiO, and so many others worth seeking out. Spending almost $2,000 on wired universal IEMs is a huge investment and we highly doubt that anyone considering products like the LETSHUOER Cadenza 12 are not going to pair them with a quality DAP from Astell&Kern or FiiO .
+
+
+***
+![Hogwarts Legacy update should reduce problems on PC](https://i.bo3.no/image/346565/sc8kve.jpg?c=0&h=630&w=1120 "Hogwarts Legacy update should reduce problems on PC")
+
+
+[Hogwarts Legacy update should reduce problems on PC](https://www.world-today-news.com/hogwarts-legacy-update-should-reduce-problems-on-pc/)
+
+
+> Hogwarts Legacy has been a hit with critics since its launch last week, and currently has almost half a million concurrent players on Steam. Unfortunately, there are still many who report technical problems for the PC version. The developer came up with a major update that reduced some problems with performance on launch day, and announces on Tuesday evening that a new one is on its way to PC and Xbox Series X. The update for PlayStation 5 will arrive a few days later. Neither AMD nor Nvidia has created a dedicated driver for the game on PC yet, and Gamer.
+
+
+***
+![NBN Co Meets Half-Year Targets, On Track for Yearly Goals](https://cdn1.miragenews.com/tmp_cache?cdn=cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_960_720.jpg "NBN Co Meets Half-Year Targets, On Track for Yearly Goals")
+
+
+[NBN Co Meets Half-Year Targets, On Track for Yearly Goals](https://www.miragenews.com/nbn-co-meets-half-year-targets-on-track-for-947579)
+
+
+> NBN Co Performance summary for the six months to 31 December 2022: Key performance metrics on track to meet Corporate Plan 2023 guidance Total revenue of $2.6 billion for the six months to 31 December 2022, up 4 per cent on H1 FY22 Earnings Before Interest, Tax, Depreciation and Amortisation (EBITDA) 1 of $1.8 billion, up 20 per cent on H1 FY22 Residential Average Revenue Per User (ARPU) of $47 per month, up 1 per cent on H1 FY22 Raised a further $2.6 billion from bank facilities and debt capital markets during H1 FY23.
+
+
+***
+![RUMOR: Zelda: Switch OLED pre-orders could start March 10th](https://gonintendo.com/attachments/image/23253/file/medium-06820981b3e062cecb26a8eaf8808245.png "RUMOR: Zelda: Switch OLED pre-orders could start March 10th")
+
+
+[RUMOR: Zelda: Switch OLED pre-orders could start March 10th](https://gonintendo.com/contents/16253-rumor-zelda-tears-of-the-kingdom-switch-oled-pre-orders-could-start-march-10th-2023)
+
+
+> Nintendo still has yet to officially confirm the existence of a Switch OLED model based on The Legend of Zelda: Tears of the Kingdom. However, evidence has piled up which points to the new model most likely being the real deal. Now, the rumor is growing with yet another rumor, as Redditor u/Blubbpaule shared an image of a new internal SKU from retail store GameSpot. The SKU is for a brand new Switch model with a date of March 10th, 2023 (see below). With Tears of the Kingdom releasing a couple of months after that date, this seems like it would be a prime time to start accepting pre-orders for a special console tie-in.
+
+
+***
+[Absolute Software Reports Second Quarter Fiscal 2023 Financial Results](http://www.businesswire.com/news/home/20230214005711/en/Absolute-Software-Reports-Second-Quarter-Fiscal-2023-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> VANCOUVER, British Columbia & SAN JOSE, Calif.--(BUSINESS WIRE)--Absolute Software Corporation (Nasdaq: ABST) (TSX: ABST) (the 'Company'), the only provider of self-healing, intelligent security solutions, today announced its financial results for its second quarter fiscal 2023 ended December 31, 2022. All dollar figures are stated in U.S. dollars, unless otherwise indicated. 'We posted a solid performance this quarter against a challenging macro backdrop,' said Christy Wyatt, President and CEO
+
+
+***
+![NASA Parts Designed By AI Look Like 'Bones Left by Some Alien Species'](https://www.cnet.com/a/img/resize/5b4edcd1fb5a740dc9409b40645c7a1ec980cfeb/hub/2023/02/10/d4cdd93b-ce36-4a5a-b271-d5f72364c061/ainasapart-copy.jpg?auto=webp&fit=crop&height=630&width=1200 "NASA Parts Designed By AI Look Like 'Bones Left by Some Alien Species'")
+
+
+[NASA Parts Designed By AI Look Like 'Bones Left by Some Alien Species'](https://www.cnet.com/science/space/nasa-parts-designed-by-ai-look-like-bones-left-by-some-alien-species/)
+
+
+> It takes a lot of brain power to build a NASA mission, and those brains are both human and computer. NASA's been calling on artificial intelligence to come up with creative ways to build hardware for spacecraft and other missions. The resulting designs are beautiful, funky and practical. In a statement on Thursday, NASA said AI-designed parts "may resemble bones left by some alien species, but they weigh less, tolerate higher structural loads, and require a fraction of the time parts designed by humans take to develop.
+
+
+***
+![Square Enix shares THEATRHYTHM FINAL BAR LINE Valentine's Day cards](https://gonintendo.com/attachments/image/23251/file/medium-28b3affc851d06eb85eb97b2a2b8f445.jpg "Square Enix shares THEATRHYTHM FINAL BAR LINE Valentine's Day cards")
+
+
+[Square Enix shares THEATRHYTHM FINAL BAR LINE Valentine's Day cards](https://gonintendo.com/contents/16254-square-enix-shares-theatrhythm-final-bar-line-valentine-s-day-cards)
+
+
+> Fulfill your Valentine's Day fantasy As of right now, it's Valentine's Day! The festivities are still going on for a few more hours, and Square Enix is out to spread some love today with a free set of Valentine's Day cards. If your significant other is big into Final Fantasy, there's no doubt they'd appreciate one of the many THEATRHYTHM FINAL BAR LINE Valentine's Day cards that Square Enix has released. The cards feature various Final Fantasy characters along with cheesy lines that fans will get a kick out of.
+
+
+***
+![Senators talk about upping online safety for kids. This year they could do something](https://npr.brightspotcdn.com/dims4/default/368e0e5/2147483647/strip/true/crop/4000x2100+0+282/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F02%2F14%2Fgettyimages-1235603885_custom-e75840fef337263a94479aaf0eb7ec95cab5d4aa.jpg "Senators talk about upping online safety for kids. This year they could do something")
+
+
+[Senators talk about upping online safety for kids. This year they could do something](https://www.kosu.org/technology/2023-02-14/senators-talk-about-upping-online-safety-for-kids-this-year-they-could-do-something)
+
+
+> Senators from both parties are once again taking aim at big tech companies, reigniting their efforts to protect children from "toxic content" online. At a Senate Judiciary Committee hearing on Tuesday, they said they plan to "act swiftly" to get a bill passed this year that holds tech companies accountable. Last year, Sen. Richard Blumenthal, D-Conn., and Sen. Marsha Blackburn, R-Tenn., introduced the Kids Online Safety Act , which made it out of committee with unanimous support, but didn't clear the entire Senate.
+
+
+***
+![Section 230 Debate Reignited as Cruz Demands Content Moderation Transparency](https://cdn.nextgov.com/media/img/cd/2023/02/14/021423CruzNG/open-graph.jpg "Section 230 Debate Reignited as Cruz Demands Content Moderation Transparency")
+
+
+[Section 230 Debate Reignited as Cruz Demands Content Moderation Transparency](https://www.nextgov.com/policy/2023/02/section-230-debate-reignited-cruz-demands-content-moderation-transparency/382951/)
+
+
+> Sen. Ted Cruz, R-Texas, is looking for clarity from some of the biggest social media and internet companies in how they use algorithms to select content with which users engage, primarily regarding conservative voices. The former presidential candidate issued four inquiries to Google, Meta, TikTok and Twitter asking for detailed information about the design of their content moderation systems. Cruz asks for the scope of several operations integral to content management on each platform, including recommendation systems, distribution effects on users and treatment of political speech.
+
+
+***
+![The value of quantity over quality](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "The value of quantity over quality")
+
+
+[The value of quantity over quality](https://www.reddit.com/r/programming/comments/112grcg/the_value_of_quantity_over_quality)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![HBO Max vs Netflix: Who's top dog in the streaming wars?](https://www.androidauthority.com/wp-content/uploads/2022/02/Amazon-Fire-TV-55-Inch-Omni-Series-4K-UHD-Smart-TV.jpg "HBO Max vs Netflix: Who's top dog in the streaming wars?")
+
+
+[HBO Max vs Netflix: Who's top dog in the streaming wars?](https://www.androidauthority.com/hbo-max-vs-netflix-streaming-wars-3285273/)
+
+
+> With recent price hikes and a controversial move to crack down on account sharing, is still the king of streamers , but people are looking for alternatives . One of the biggest streaming success stories of the last few years has been . Both services position themselves as one-stop streamers with huge, varied catalogs of content to watch, including their slates of original shows and movies. So, vs : who comes out on top? Read on for a breakdown of the two services, with all the details you need to make an informed choice about which streamer is right for you.
+
+
+***
+![Tesla owners omitted from Netflix's new password-sharing policies](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/tesla-model-x.jpg "Tesla owners omitted from Netflix's new password-sharing policies")
+
+
+[Tesla owners omitted from Netflix's new password-sharing policies](https://mobilesyrup.com/2023/02/14/tesla-owners-omitted-netflix-password-policies/)
+
+
+> Netflix is omitting Tesla owners from its new password-sharing policies . Last week, the streaming service cracked down on the ability to share accounts with those outside of the primary household. Since Tesla vehicles are unable to abide by the new policy, Netflix is making an exception. In Canada, New Zealand, Portugal, Spain, and other regions around the world, Netflix now charges a $7.99 fee to add an extra user outside of the primary household. Tesla owners began to worry as the newly introduced notification popped up on their infotainment center within the vehicle.
+
+
+***
+![Walmart to close 3 tech hubs, asks staff to return to office](https://ia.tmgrup.com.tr/30b3ae/806/378/0/35/800/410?u=https://i.tmgrup.com.tr/anews/v1/2023/02/15/walmart-to-close-3-tech-hubs-asks-staff-to-return-to-office-1676410204712.jpg "Walmart to close 3 tech hubs, asks staff to return to office")
+
+
+[Walmart to close 3 tech hubs, asks staff to return to office](https://www.anews.com.tr/tech/2023/02/14/walmart-to-close-3-tech-hubs-asks-staff-to-return-to-office)
+
+
+> Walmart is closing three tech hubs and asking hundreds of employees to relocate to keep their jobs. The closures will affect staff working at locations in Austin, Texas; Carlsbad, California; and Portland, Oregon, Walmart spokesperson Mischa Dunton said Tuesday. Dunton declined to say how many employees will be affected. The company said in a prepared statement that it hopes to relocate or allow remote-work for employees affected by the closures. Dunton described the move as a "location strategy" and said decisions on where to move will be managed individually.
+
+
+***
+![Technology and innovation in the new normal of work](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HQ72CH3UMZAQROPBL4WRZR73LM.jpg&w=1440 "Technology and innovation in the new normal of work")
+
+
+[Technology and innovation in the new normal of work](https://www.washingtonpost.com/washington-post-live/2023/02/21/technology-innovation-new-normal-work)
+
+
+> The Washington Post is providing this news free to all readers as a public service. Follow this story and more by signing up for national breaking news email alerts.
+
+
+***
+![Techdirt Podcast Episode 343: Congress v. Twitter](https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png "Techdirt Podcast Episode 343: Congress v. Twitter")
+
+
+[Techdirt Podcast Episode 343: Congress v. Twitter](https://www.techdirt.com/2023/02/14/techdirt-podcast-episode-343-congress-v-twitter/)
+
+
+> We've got a double-header of cross-post episodes for you this week! Recently, Mike joined two different podcasts to discuss Congress's response to the Twitter Files and the dumpster fire of a hearing held by the House Oversight Committee: The New Abnormal podcast from the Daily Beast, and The Sunday Show podcast from Tech Policy Press. You can listen to both conversations back-to-back right here in today's extra-long episode . Follow the Techdirt Podcast on Soundcloud , subscribe via Apple Podcasts or Spotify , or grab the RSS feed .
+
+
+***
+[Nu Holdings Ltd. Reports Fourth Quarter and Full Year 2022 Financial Results](http://www.businesswire.com/news/home/20230214005795/en/Nu-Holdings-Ltd.-Reports-Fourth-Quarter-and-Full-Year-2022-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SÃO PAULO--(BUSINESS WIRE)--Nu Holdings Ltd. (NYSE: NU | B3: NUBR33), ('Nu' or the 'Company'), one of the world's largest digital financial services platforms, released today its Fourth Quarter & Full Year 2022 financial results. Financial results are expressed in U.S. dollars and are presented in accordance with International Financial Reporting Standards (IFRS). The full earnings release has been made available on the Company's Investor Relations website at www.investors.nu, as well as th
+
+
+***
+![A Virtual Valentine's Day Date Idea Every iPhone User Can Try](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA11RxXt.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "A Virtual Valentine's Day Date Idea Every iPhone User Can Try")
+
+
+[A Virtual Valentine's Day Date Idea Every iPhone User Can Try](http://www.msn.com/en-us/news/technology/a-virtual-valentine-s-day-date-idea-every-iphone-user-can-try/ar-AAKRbzP)
+
+
+> When Apple first unveiled SharePlay, a screen-sharing feature within the iPhone's FaceTime app, long-distance couples (and friend groups!) rejoiced. SharePlay would make virtual movie nights a cinch. This was back in the iOS 15 days -- iOS 16.3 is the current version -- but SharePlay is still a really neat part of the iPhone experience and one of FaceTime's biggest updates, making Apple a big competitor to Zoom and Teleparty (formerly known as Netflix Party). If you haven't tried it yet, tonight's the night.
+
+
+***
+[Ooma to Attend JMP Securities Technology Conference](http://www.businesswire.com/news/home/20230214005671/en/Ooma-to-Attend-JMP-Securities-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SUNNYVALE, Calif.--(BUSINESS WIRE)--Ooma, Inc. (NYSE: OOMA), a smart communications platform for businesses and consumers, today announced the following conference participation: What: JMP Securities Technology Conference, presentation and investor meetings When: Presentation (fireside chat) 11:00 a.m. until 11:25 a.m. Pacific time on March 7, 2023, with meetings throughout the day Who: Ooma CEO Eric Stang and Ooma CFO Shig Hamamatsu Where: The Ritz-Carlton, San Francisco The presentation will
+
+
+***
+[Similarweb Announces Fourth Quarter 2022 Results](http://www.businesswire.com/news/home/20230214005770/en/Similarweb-Announces-Fourth-Quarter-2022-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TEL AVIV, Israel--(BUSINESS WIRE)--Similarweb Ltd. (NYSE: SMWB) ("Similarweb" or the "Company"), a leading digital intelligence company, today announced financial results for its fourth quarter ended December 31, 2022. The Company published a letter to shareholders from management discussing these results, which can be accessed at the link: https://ir.similarweb.com/financials/quarterly-results, located on the Company's investor relations website. 'We performed well in the fourth quarter as we
+
+
+***
+[Industrial Logistics Properties Trust Announces Fourth Quarter 2022 Results](http://www.businesswire.com/news/home/20230214005793/en/Industrial-Logistics-Properties-Trust-Announces-Fourth-Quarter-2022-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEWTON, Mass.--(BUSINESS WIRE)--Industrial Logistics Properties Trust (Nasdaq: ILPT) today announced its financial results for the quarter ended December 31, 2022. Yael Duffy, President and Chief Operating Officer of ILPT, made the following statement: 'As we look ahead to 2023, we believe the strength of industrial real estate fundamentals will continue to allow us to organically grow cash flows through mark-to-market opportunities and tenant retention as evidenced by our record 2022 leasing a
+
+
+***
+![Nintendo reintroduces Spyke to Splatoon 3 players](https://gonintendo.com/attachments/image/23247/file/medium-81cf684cda2c20e601eecc6aa7d3318e.jpg "Nintendo reintroduces Spyke to Splatoon 3 players")
+
+
+[Nintendo reintroduces Spyke to Splatoon 3 players](https://gonintendo.com/contents/16249-nintendo-reintroduces-spyke-to-splatoon-3-players)
+
+
+> During last week's Nintendo Direct, we found out that Splatoon 3 is getting an Expansion Pass with two different waves. The first wave includes Inkopolis, the splat-tastic place from the original Splatoon you'll now be able to return to. Over the past several years, Inkopolis Plaza has changed with some new shopkeepers. Of course, there's some familiar faces hanging out as well. In preparation for the return of Inkopolis Plaza, Nintendo is sharing profiles for some of the characters you'll meet when you visit.
+
+
+***
+![Animal Crossing getting its own Boss Fight Books entry](https://gonintendo.com/attachments/image/23246/file/medium-3d804d4c93fe4d9c7fc89d21628d0104.png "Animal Crossing getting its own Boss Fight Books entry")
+
+
+[Animal Crossing getting its own Boss Fight Books entry](https://gonintendo.com/contents/16247-animal-crossing-getting-its-own-entry-in-the-boss-fight-books-series)
+
+
+> Boss Fight Books is a series of books all about video games, with each entry featuring a different author writing about one of their favorites. They're currently running a Kickstarter campaign for Season 6 of the collection, and they've just announced that Nintendo's own social sim Animal Crossing will be the subject of one of the new books! The aptly titled 'Animal Crossing' will focus on the GameCube version of the game and be written by Kelsey Lewin, a writer, podcaster, and video game historian.
+
+
+***
+[BuzzFeed, Inc. to Release Fourth Quarter and Full Year 2022 Financial Results on Monday, March 13, 2023](http://www.businesswire.com/news/home/20230214005790/en/BuzzFeed-Inc.-to-Release-Fourth-Quarter-and-Full-Year-2022-Financial-Results-on-Monday-March-13-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--BuzzFeed, Inc. (NASDAQ: BZFD), a premier digital media company for the most diverse, most online, and most socially engaged generations the world has ever seen, will release its fourth quarter and full year 2022 financial results on Monday, March 13, 2023, after the market closes. BuzzFeed, Inc. Founder and CEO Jonah Peretti, President Marcela Martin and CFO Felicia DellaFortuna will host a conference call to discuss the results at 5:00 PM ET. In addition to our finan
+
+
+***
+[CSG Publishes Inaugural Task Force on Climate-Related Financial Disclosures Report](http://www.businesswire.com/news/home/20230214005026/en/CSG-Publishes-Inaugural-Task-Force-on-Climate-Related-Financial-Disclosures-Report/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DENVER--(BUSINESS WIRE)--CSG® (NASDAQ: CSGS) today published its inaugural environmental disclosure in accordance with standards issued by the Task Force on Climate-Related Financial Disclosures ('TCFD'). This marks the first year that CSG reported disclosure for TCFD's framework. The report is available on CSG's Environmental, Social and Governance (ESG) webpage, which can be found here. 'CSG is a purpose-driven SaaS company that strives to envision, invent and create a better, more future-rea
+
+
+***
+![Ford to Pause F-150 Lightning Production, Deliveries Due to Battery Issue](https://www.extremetech.com/wp-content/uploads/2023/02/1660050131442_jpg-640x360.jpg "Ford to Pause F-150 Lightning Production, Deliveries Due to Battery Issue")
+
+
+[Ford to Pause F-150 Lightning Production, Deliveries Due to Battery Issue](https://www.extremetech.com/extreme/343109-ford-to-pause-f-150-lightning-production-deliveries-due-to-battery-issue)
+
+
+> As of now, it's unknown when production and new deliveries will continue. The post Ford to Pause F-150 Lightning Production, Deliveries Due to Battery Issue appeared first on ExtremeTech .
+
+
+***
+![The creator of the popular anti-hero series 'The Boys' revealed that the fourth season will not be the 'final season'](https://image-cdn.hypb.st/https://hk.hypebeast.com/files/2023/02/the-boys-season-4-not-last-erick-kripke-comments-00.jpg?w=960&cbr=1&q=90&fit=max "The creator of the popular anti-hero series 'The Boys' revealed that the fourth season will not be the 'final season'")
+
+
+[The creator of the popular anti-hero series 'The Boys' revealed that the fourth season will not be the 'final season'](https://www.world-today-news.com/the-creator-of-the-popular-anti-hero-series-the-boys-revealed-that-the-fourth-season-will-not-be-the-final-season-hypebeast/)
+
+
+> The creator of the popular anti-hero series 'The Boys' recently stated that the fourth season will not be the finale, and there are still many exciting content waiting to be staged. The third season of 'Black Robe Picket' was officially broadcast last year, leaving a lot of plot foreshadowing, and the crew rushed to officially start filming the fourth season at the end of August, and at the same time they are preparing to launch the spin-off drama 'Gen V'. Recently, the main creator Eric Kripke posted a post stating that the finale of the fourth season will be completed in Toronto, Canada, and this post also caused netizens to discuss whether the show will end in the next season, and Eric also responded that the show will not have a fourth season As long as it is over, more exciting content will be brought to fans, and it is hinted that the fourth season may be ready to be officially launched in the near future.
+
+
+***
+![A Classic the Legend of Zelda Monster Might Be Hiding Itself in Tears of the Kingdom Trailer](https://image-cdn.essentiallysports.com/wp-content/uploads/zelda-main.jpg "A Classic the Legend of Zelda Monster Might Be Hiding Itself in Tears of the Kingdom Trailer")
+
+
+[A Classic the Legend of Zelda Monster Might Be Hiding Itself in Tears of the Kingdom Trailer](https://www.essentiallysports.com/esports-news-a-classic-the-legend-of-zelda-monster-might-be-hiding-itself-in-tears-of-the-kingdom-trailer/)
+
+
+> Published 02/14/2023, 4:00 PM EST Nintendo Switch is getting an exciting new game soon.' The Legend of Zelda : Tears of the Kingdom' was announced years ago as a Switch exclusive. And over the years Nintendo has released a bunch of trailers for this game. While the game looks incredible enough and seems like a worthy sequel to its predecessor. There is very less information available on it currently. Nintendo recently tried to rectify this issue by releasing a story trailer for it during their Nintendo Switch Direct.
+
+
+***
+![Zenith Just Dropped a $128,000 Box Set Filled With 8 Different-Colored Chronographs](https://robbreport.com/wp-content/uploads/2023/02/ultracolor.jpg?w=681&h=383&crop=1 "Zenith Just Dropped a $128,000 Box Set Filled With 8 Different-Colored Chronographs")
+
+
+[Zenith Just Dropped a $128,000 Box Set Filled With 8 Different-Colored Chronographs](https://robbreport.com/style/watch-collector/zenith-ultra-color-box-set-eight-defy-21-chronographs-1234807634/)
+
+
+> Why buy just one watch when you can buy eight? That may sound like an absurd way of thinking, but Zenith believes there are more than a few horological enthusiasts out there who've had this thought. That's why the brand has just launched the Ultra Color box set, which consists of eight different-hued versions of its popular Defy 21 Ultraviolet chronograph . Zenith's colorful timepiece launched in 2020 and was the watchmaker's first model to feature the El Primera chronograph movement. The caliber beats at 50 Hz, making it accurate to within previously unheard of 1/100 th of a second.
+
+
+***
+![5 Ways to Make That Smart Plug Pay for Itself](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17qbjF.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "5 Ways to Make That Smart Plug Pay for Itself")
+
+
+[5 Ways to Make That Smart Plug Pay for Itself](http://www.msn.com/en-us/news/technology/5-ways-to-make-that-smart-plug-pay-for-itself/ar-AA17qkgt)
+
+
+> Like any smart home device, smart plugs are all about convenience, but that's not their only potential benefit. Using a smart plug can add up to some serious savings on your energy bill. How you ask? It's simple, really. Smart plugs help reduce wasted energy while consuming a negligible amount of energy themselves. Any and all of the five tips listed below can help you cut energy consumption with a smart plug, but they're not the only way to lower your electricity bill. For more ways to save energy, consider switching to Energy Star appliances, using a smart thermostat, flipping the rotation of your ceiling fan or changing up how you do laundry.
+
+
+***
+![Fintech Power Financial eyes Kenya, Zambia growth after raising Sh376m](https://www.businessdailyafrica.com/resource/blob/4123936/b2e3fd0eb26de02574b42e0a395ad48d/1000-data.jpg "Fintech Power Financial eyes Kenya, Zambia growth after raising Sh376m")
+
+
+[Fintech Power Financial eyes Kenya, Zambia growth after raising Sh376m](https://www.businessdailyafrica.com/bd/markets/capital-markets/fintech-power-financial-eyes-kenya-zambia-growth--4123930)
+
+
+> Wednesday February 15 2023 Financial services provider Power Financial Wellness has raised Sh376 million ($3 million) seed funding. FILE PHOTO | POOL Financial services provider Power Financial Wellness has raised Sh376 million ($3 million) seed funding with proceeds set to finance the platform's expansion in Kenya and Zambia. The funding round was led by DOB Equity, Bolt by QED Investors, Quona Capital, Zephyr Acorn and Norrksen Accelerator. Founded in 2020, Power has operations in Kenya and Zambia and has offices in the United States and India.
+
+
