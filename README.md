@@ -29018,3 +29018,908 @@
 > The Taiwan stock market on Tuesday wrote a finish to the three-day losing streak in which it had slipped more than 70 points or 0.5 percent. The Taiwan Stock Exchange now rests just above the 15,650-point plateau and it may tick higher again on Wednesday. The global forecast for the Asian is murky, with little movement expected as support from technology stocks will likely be offset by weakness from oil companies. The European and U.S. markets were mixed and little changed and the Asian bourses are tipped to follow suit.
 
 
+***
+![How To Make Your Twitter Account Private](https://technology.inquirer.net/files/2023/02/Twitter-private-featured-image-techmgzn.com_-620x349.png "How To Make Your Twitter Account Private")
+
+
+[How To Make Your Twitter Account Private](https://technology.inquirer.net/121428/how-to-make-your-twitter-account-private)
+
+
+> Some people want to limit social media to their loved ones. Fortunately, most of these platforms allow you to make your account private, especially Twitter. You can keep strangers from seeing what you like, tweet, or follow on the birdie site. Even better, you can toggle the feature at any time. This article will explain how to make Twitter private via PC, iOS, and Android apps. Follow these steps while reading so you can apply them immediately. How to make Twitter private via PC You make your Twitter account private by adjusting the Protect Your Tweets option.
+
+
+***
+![StarHub Launches 10 Gbps Ultraspeed Broadband](https://telecomtalk.info/wp-content/uploads/2023/02/starhub-singapore-launches-10gbps-ultraspeed-broadband-nationwide.jpg "StarHub Launches 10 Gbps Ultraspeed Broadband")
+
+
+[StarHub Launches 10 Gbps Ultraspeed Broadband](https://telecomtalk.info/starhub-singapore-launches-10gbps-ultraspeed-broadband-nationwide/676482/)
+
+
+> StarHub, one of the major players in the Singaporean telecommunications market, has announced UltraSpeed Broadband with up to 10 times the speed and bandwidth of standard broadband services in Singapore. In what StarHub claims, first in Singapore, the 10G-XGS-PON (Gigabit-capable Symmetric Passive Optical Network) standard is being trialled nationwide. StarHub invites customers to register interest and trial the 10 Gbps UltraSpeed Broadband nationwide. Also Read:  Open Fiber Tests 50G-PON Technology StarHub 10 Gbps UltraSpeed Broadband The nationwide trial of StarHub UltraSpeed 10 Gbps will significantly enhance household connectivity, providing optimal responsiveness for online gaming and lightning-fast content streaming.
+
+
+***
+![Kenya's data center market to generate over $100 million in revenue by end of 2027, report](https://africabusinesscommunities.com//Images/Key Industry Images/data center.jpg "Kenya's data center market to generate over $100 million in revenue by end of 2027, report")
+
+
+[Kenya's data center market to generate over $100 million in revenue by end of 2027, report](https://africabusinesscommunities.com/tech/tech-news/kenyas-data-center-market-to-generate-over-$100-million-in-revenue-by-end-of-2027-report)
+
+
+> Kenya's data center market is at a growing stage, being driven by the growing demand from SMEs and rising internet penetration rate. Major Data Center companies in the Kenyan market are icolo.io, IX Africa, Africa Data Centers, PAIX (Pan African IX Data Centers Kenya Ltd.) among others. Kenyans' preference for mobile commerce is expected to lead to an increase in the demand for data centers in the nation. Additionally, new entrants are significantly accelerating market expansion in the upcoming years by meeting the demands of regional businesses and cloud service providers.
+
+
+***
+![Elon Musk posts photo of new Twitter CEO, claims he is better than ex boss Parag Agrawal, check viral tweet](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/15/2573045-musk-photo.jpeg "Elon Musk posts photo of new Twitter CEO, claims he is better than ex boss Parag Agrawal, check viral tweet")
+
+
+[Elon Musk posts photo of new Twitter CEO, claims he is better than ex boss Parag Agrawal, check viral tweet](https://www.dnaindia.com/technology/report-elon-musk-posts-photo-of-new-twitter-ceo-better-than-ex-boss-parag-agrawal-viral-tweet-floki-3023842)
+
+
+> File photo Twitter owner billionaire businessman Elon Musk has found a new CEO for Twitter and it is not a human but a dog. The new CEO of Twitter is Musk's pet dog, Floki, a Shiba Inu. According to Musk, the new CEO of Twitter is better than his predecessor 'other guy' Parag Agrawal. It may be recalled that Musk had sacked Parag Agarwal and some other senior executives of Twitter days after buying the microblogging site in a USD 44 billion deal. Musk shared Floki's photo sitting on the chair of the CEO wearing a black T-shirt with CEO written on it.
+
+
+***
+![Millions of iPhone and Android fans get cheaper way to use their phones](https://cdn.images.express.co.uk/img/dynamic/59/1200x712/4566281.jpg?r=1676448108774 "Millions of iPhone and Android fans get cheaper way to use their phones")
+
+
+[Millions of iPhone and Android fans get cheaper way to use their phones](https://www.express.co.uk/life-style/science-technology/1734908/three-mobile-social-tariff-Android-iPhone-cut-price)
+
+
+> We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info Millions of UK smartphone owners are being offered a very tempting deal that could help to slash their monthly bills whilst boosting the amount of internet access they are offered. Three Mobile has just announced the launch of a new incentive that's dishing out fully unlimited data, calls and texts for just £12 per month to those who might be struggling with the current cost of living crisis.
+
+
+***
+![Israeli firm deploys robots to speed up online shopping](https://scx2.b-cdn.net/gfx/news/2023/combined-with-artifici.jpg "Israeli firm deploys robots to speed up online shopping")
+
+
+[Israeli firm deploys robots to speed up online shopping](https://techxplore.com/news/2023-02-israeli-firm-deploys-robots-online.html)
+
+
+> Combined with artificial intelligence, the Israeli-developed robots are designed to carefully grasp and pack a variety of items. Behind a dark and opaque storefront in Tel Aviv, an Israeli company is speeding up online shopping by replacing staff with robots that manoeuvre around small storerooms. Whirring along a rail between two long shelves packed with coffee capsules, a robot stopped, pivoted to the right, shone a light before grabbing an item and dropping it into a paper bag. "Shoppers want to receive their items faster and faster," said Eyal Yair, co-founder and CEO of 1MRobotics, which built the automated storeroom late last year.
+
+
+***
+![AirTag harassment victims unconvinced by Apple's fixes](https://scx2.b-cdn.net/gfx/news/2023/apples-airtag-is-a-sil.jpg "AirTag harassment victims unconvinced by Apple's fixes")
+
+
+[AirTag harassment victims unconvinced by Apple's fixes](https://techxplore.com/news/2023-02-airtag-victims-unconvinced-apple.html)
+
+
+> Apple's AirTag is a silver and white gadget about the size of a coin. Originally designed as a solution for the absent-minded, the AirTag digital tracking sensor is also sometimes employed for a more sinister function, with manufacturer Apple now finding itself the subject of anger—and lawsuits—from Americans who have been harassed with the help of the brand's product. The $29 silver and white gadget, the size of a large coin, is "an easy way to keep track of your stuff," the Apple website boasts.
+
+
+***
+![Kenya's fintech Power set to scale after $3M seed round](https://www.businessghana.com/site/img/../../cms/img/news/2023-02-14-154735000.jpg "Kenya's fintech Power set to scale after $3M seed round")
+
+
+[Kenya's fintech Power set to scale after $3M seed round](https://www.businessghana.com/site/news/technology/279922/Kenya%E2%80%99s-fintech-Power-set-to-scale-after-$3M-seed-round)
+
+
+> After working in Africa's microfinance space for seven years, including at Botswana's Letshego, Brian Dempsey took a break in 2020 to build Power Financial Wellness, operating out of Kenya. Dempsey said the launch of Power was informed by the trends he noticed in the micro-lending space, and experience garnered from his stint in the micro-finance sector. 'During my time at the micro-finance institutions I noticed that close to 65% of workers that banked with us would spend all of their money in the first five days of the month.
+
+
+***
+![Nokia X30 5G with Snapdragon 695 SoC, 90Hz AMOLED Display Launched In India: Price, Specifications](https://assets.mspimages.in/wp-content/uploads/2023/02/Nokia-X30-5G.jpg "Nokia X30 5G with Snapdragon 695 SoC, 90Hz AMOLED Display Launched In India: Price, Specifications")
+
+
+[Nokia X30 5G with Snapdragon 695 SoC, 90Hz AMOLED Display Launched In India: Price, Specifications](https://www.mysmartprice.com/gear/nokia-x30-5g-launched-india-price-specifications/)
+
+
+> Nokia has officially launched its latest X-series smartphone, the Nokia X30 5G in India today. The device was first introduced in the global market back in September 2020 at the IFA event. Speaking about the specifications, the Nokia X30 5G comes with a 6.43-inch AMOLED display with a FHD+ resolution and a 90Hz refresh rate. The smartphone is powered by an octa-core Snapdragon 695 processor. The device packs a 4,200mAh battery which offers 33W fast charging support. Let us take a look at the detailed specifications and pricing of the device ahead: Nokia X30 5G Price In India, Availability, Launch Offer, Sale Date The Nokia X30 5G comes in Ice White and Cloudy Blue colours.
+
+
+***
+![iQOO Neo 7 launching in India tomorrow: Leaked price, specifications and more](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202302/iqoo_neo_7_se-sixteen_nine.jpg?VersionId=qkYTcjG2NHiOeR0vfp4_toPnPKEPdG4V "iQOO Neo 7 launching in India tomorrow: Leaked price, specifications and more")
+
+
+[iQOO Neo 7 launching in India tomorrow: Leaked price, specifications and more](https://www.indiatoday.in/technology/news/story/iqoo-neo-7-launching-in-india-on-february-16-leaked-price-specifications-and-more-2335013-2023-02-15)
+
+
+> In the first few weeks of 2023, we have already witnessed the launch of a few mid-range 5G phones under Rs 30,000. The iQOO Neo 7 is also said to fall in the same price range. The iQOO Neo 7 is launching in India tomorrow. By Ankita Garg : The iQOO Neo 7 will officially launch in India on February 16. In the first few weeks of 2023, we have already witnessed the launch of a few mid-range 5G phones under Rs 30,000. The iQOO Neo 7 is also said to fall in the same price range. It will likely take on the recently launched Redmi Note 12 Pro+ and Realme 10 Pro+ smartphones.
+
+
+***
+![Sponsored Content: The HUAWEI Mate50 Pro: XMAGE – The Dawn of a New Era](https://www.dailymaverick.co.za/wp-content/uploads/2023/02/HUAWEI-Mate50-Pro.jpg?w=1280 "Sponsored Content: The HUAWEI Mate50 Pro: XMAGE – The Dawn of a New Era")
+
+
+[Sponsored Content: The HUAWEI Mate50 Pro: XMAGE – The Dawn of a New Era](https://www.dailymaverick.co.za/article/2023-02-15-the-huawei-mate50-pro-xmage-the-dawn-of-a-new-era/)
+
+
+> Mobile photography has taken over the world; people are constantly documenting their lives with their smartphones. And brands continue their ongoing quest to offer the widest field of view, the biggest sensor, or the strongest low-light capability. Given the extraordinary technology offerings that have already been achieved, we might think that the pinnacle of mobile photography innovation has already been reached. But has it?  Enter XMAGE, a new in-house imaging brand representing the epitome of HUAWEI's technical expertise in mobile photography.
+
+
+***
+![How to use the Flying Vine](https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/02/14/how-to-use-the-flying-vine-wild-hearts_feature.jpg "How to use the Flying Vine")
+
+
+[How to use the Flying Vine](https://www.shacknews.com/article/134184/flying-vine-wild-hearts)
+
+
+> Get around the world faster by creating and using the Flying Vine karakuri in Wild Hearts. Wild Hearts has many wonderful karakuri for players to use and one of the most useful is the Flying Vine. Acting as a zipline, this device lets you move back and forth between two locations, regardless of whether you're descending or ascending. How to build & use the Flying Vine The Flying Vine karakuri is unlocked once you begin hunting the Kingtusk as part of the main story. It can be used to reach the plateau where the Kingtusk is located or placed wherever you want on the map, provided you have enough resources from the Dragon Pits.
+
+
+***
+![Musk donates almost $2bn of Tesla shares to charity](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17vaA3.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=469&y=196 "Musk donates almost $2bn of Tesla shares to charity")
+
+
+[Musk donates almost $2bn of Tesla shares to charity](http://www.msn.com/en-us/news/technology/musk-donates-almost-2bn-of-tesla-shares-to-charity/ar-AA17v5aV)
+
+
+> Tesla chief executive Elon Musk says he donated around $1.95bn (£1.6bn) worth of shares in his electric carmaker to charity last year. The donation of 11.6 million shares was described in a filing with US regulators as "a bona fide gift". The filing did not name the recipient, or recipients, of the donation. Also on Wednesday, Mr Musk said that towards the of this year would be a "good time" to find someone to succeed him as the chief executive of Twitter. The document lodged with the US Securities and Exchange Commission showed the donation was made between August and December last year.
+
+
+***
+![Apple iPhone users under ‘high' risk, India government issues warning](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/15/2573024-apple.png "Apple iPhone users under ‘high' risk, India government issues warning")
+
+
+[Apple iPhone users under ‘high' risk, India government issues warning](https://www.dnaindia.com/technology/report-apple-iphone-users-under-high-risk-india-government-issues-warning-3023827)
+
+
+> Apple iPhone Apple iPhones are popular across the globe for their security features and durability. A huge chunk of the population rely on the Apple iPhone for day to day tasks and communications. In order to keep these users safe, Apple rolls out security updates for its devices from time to time. Apple always recommends iPhone users to run the latest version of iOS to have a feature rich and secure experience. However, a few Apple IPhone users don't upgrade their iOS version due to lack of data or ease of use.
+
+
+***
+![Orix officially announces acquisition of big shot Gonzales Major 107 shots, Dal's complete match blockage in the past](https://www.rtlnieuws.nl/sites/default/files/content/images/2019/01/02/f-16.jpg?itok=qGdwiDx_&width=2048&height=1152&impolicy=semi_dynamic "Orix officially announces acquisition of big shot Gonzales Major 107 shots, Dal's complete match blockage in the past")
+
+
+[Orix officially announces acquisition of big shot Gonzales Major 107 shots, Dal's complete match blockage in the past](https://www.world-today-news.com/orix-officially-announces-acquisition-of-big-shot-gonzales-major-107-shots-dals-complete-match-blockage-in-the-past-full-count/)
+
+
+> 303 batting average, 23 home runs, and 907 OPS in 2017… Apologizing for the sign-stealing incident Orix announced on the 15th that it has acquired infielder Merwin Gonzalez, who played for the Yankees last season. His jersey number is 8. He's a right-handed hitter and a utility player who can defend positions other than battery. [Free for 1 week now]Unlimited viewing of Hawks' original content… Camping information is also being sent on 'Taka Full' 33-year-old Gonzalez has a solid record of 888 hits and 107 home runs in 11 years in the majors.
+
+
+***
+![Modern Warfare 2 and Warzone 2 Season 2 Battle Pass revealed: New operators, free weapons, and more exciting content](https://staticg.sportskeeda.com/editor/2023/02/7be5a-16764421488335-1920.jpg "Modern Warfare 2 and Warzone 2 Season 2 Battle Pass revealed: New operators, free weapons, and more exciting content")
+
+
+[Modern Warfare 2 and Warzone 2 Season 2 Battle Pass revealed: New operators, free weapons, and more exciting content](https://www.sportskeeda.com/esports/news-modern-warfare-2-warzone-2-season-2-battle-pass-revealed-new-operators-free-weapons-exciting-content)
+
+
+> The much-awaited Season 2 of Call of Duty: Modern Warfare 2 and Warzone 2 is finally launching on February 15, 2023, after an unexpected two-week delay. With this update, many anticipated changes will be made to the two games, which will considerably improve player experience. Activision recently revealed all the items that will be available to players in the Season 2 Battle Pass. A new trailer and blog were also released highlighting the best items in the new Ronin-themed Battle Pass. Even players who don't plan on buying the Battle Pass can expect to get enticing items for free.
+
+
+***
+![Hogwarts Legacy: Neuer Patch für Xbox/PC jetzt live](https://images.cgames.de/images/gsgp/4/hogwarts-legacy-thumbnail_6217715.jpg "Hogwarts Legacy: Neuer Patch für Xbox/PC jetzt live")
+
+
+[Hogwarts Legacy: Neuer Patch für Xbox/PC jetzt live](https://www.gamepro.de/artikel/hogwarts-legacy-neuer-patch-fuer-xboxpc-jetzt-live-hier-sind-alle-patchnotes,3389993.html)
+
+
+> hat einen Patch für Xbox Series X/S und den PC erhalten, der mehrere Bugfixes im Gepäck hat. Die offiziellen Patchnotes findet ihr weiter unten im Artikel. PS5-Besitzer*innen müssen sich hingegen noch ein wenig gedulden, das versprochene Update verspätet sich nur um einige Tage. Hier erst einmal die Eckdaten des Patches: Plattformen: Xbox Series X/S und PC. Xbox Series X/S und PC. Größe des Updates: 350 MB Was bringt der Patch? Wie oben bereits erwähnt in erster Linie Bugfixes. Unter anderem werden unterschiedliche Situationen bereinigt, die das Spiel zum Crashen bringen können.
+
+
+***
+![NetSuite CEO: It's time to be optimistic about business again](https://cdn.mos.cms.futurecdn.net/7rkyLfh6usRELy5AZMc3wX-1200-80.jpg "NetSuite CEO: It's time to be optimistic about business again")
+
+
+[NetSuite CEO: It's time to be optimistic about business again](https://www.techradar.com/features/netsuite-ceo-its-time-to-be-optimistic-about-business-again)
+
+
+> As the business world continues to return to some sense of normality following the disruption caused by the pandemic, having the right tools and platforms needed to maintain and grow your business is paramount. Celebrating its 25th year in 2023, NetSuite is a common presence in companies and organizations across the world, proving that continuity can be key when it comes to success. At its recent Suite Connect London event, TechRadar Pro spoke to NetSuite founder and CEO Evan Goldberg to hear just how this longevity is possible, and what the company plans to do next.
+
+
+***
+![Carlos Slim puts his house in New York up for sale Grupo Milenio](https://cdn.milenio.com/uploads/media/2023/02/14/el-empresario-carlos-slim-foto.jpeg "Carlos Slim puts his house in New York up for sale Grupo Milenio")
+
+
+[Carlos Slim puts his house in New York up for sale Grupo Milenio](https://www.world-today-news.com/carlos-slim-puts-his-house-in-new-york-up-for-sale-grupo-milenio/)
+
+
+> Businessman Carlos Slim He put one of his properties in New York up for sale for 80 million dollars, according to the classified published by the real estate company Compass. The Benjamin N. Duke House is u located at 1009 Fifth Ave. a, in the heart of New York, 'is the rarest opportunity to own a piece of history and make a bold statement in your portfolio,' the offer reads. Among the amenities of the seven-story, 25-bedroom, 10-bathroom residence, is the Central Park view, crown molding, private roof terrace, fireplace, private entrance, elevator, curved stairs, panoramic views, high ceilings, basement and more decorative moldings.
+
+
+***
+![Revaluations in National Education: to earn more, work more](https://rapportsdeforce.fr/wp-content/uploads/2021/04/resize_manif-3.jpg "Revaluations in National Education: to earn more, work more")
+
+
+[Revaluations in National Education: to earn more, work more](https://www.world-today-news.com/revaluations-in-national-education-to-earn-more-work-more/)
+
+
+> Whether for the AED, the AESH or the teachers, the mandate of Pap Ndiaye was to be that of the salary increase. However, behind the announcements, a common reality emerges and connects the workers of the National Education: to earn more, it will be necessary to work more. In 2022 it was a great victory for Sud Education. Educational assistants (AED) and accompanying persons for students with disabilities (AESH) were finally going to be able to take advantage of the REP and REP+ bonus, to which they were, unfairly, not entitled.
+
+
+***
+![Top CV tips if you're looking for a data science job](https://www.siliconrepublic.com/wp-content/uploads/2023/02/data-science-job.jpeg "Top CV tips if you're looking for a data science job")
+
+
+[Top CV tips if you're looking for a data science job](https://www.siliconrepublic.com/advice/data-science-job-cv-tips-hays)
+
+
+> Hays' Martin Pardey breaks down the CV for budding data scientists and shares some top tips on how to get noticed by recruiters and employers. Your CV is often your first chance to show off what you'll bring to the hiring organisation. Working in data science involves taking information from a number of sources before providing insights and solutions for the organisation or its clients. Whether at entry level or in a senior role, it's vital that the person reading your CV knows you're comfortable doing this.
+
+
+***
+![Assassination of the Haitian president: four new arrests in the United States](https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jovenel-moise-haiti-floride-tribunal-arrestation-suspects-mort-assassinat.jpg "Assassination of the Haitian president: four new arrests in the United States")
+
+
+[Assassination of the Haitian president: four new arrests in the United States](https://www.world-today-news.com/assassination-of-the-haitian-president-four-new-arrests-in-the-united-states/)
+
+
+> These new arrests bring to 11 the number of suspects incarcerated in the United States as part of this investigation, whose Haitian component is at a standstill. Three of the suspects arrested on Tuesday were looking to make a profit of a change of power in Haiti, said Matthew Olsen, head of national security issues at the Department of Justice, during a press conference in Miami. Arcangel Pretel Ortiz, a 50-year-old Colombian, Antonio Intriago, a 59-year-old Venezuelan, and Walter Veintemilla, a 54-year-old Ecuadorian-American, were all owners of private security companies based in South Florida.
+
+
+***
+![The strangest hybrid dwarf cow in the Kingdom • Al Marsad Newspaper](https://al-marsd.com/almarsd/uploads/images/2023/02/15/thumbs/400x400/59515.jpg "The strangest hybrid dwarf cow in the Kingdom • Al Marsad Newspaper")
+
+
+[The strangest hybrid dwarf cow in the Kingdom • Al Marsad Newspaper](https://www.world-today-news.com/the-strangest-hybrid-dwarf-cow-in-the-kingdom-al-marsad-newspaper/)
+
+
+> Al-Marsad Newspaper: A video clip, posted by a content creator on TikTok, showed a dwarf cow in the kingdom. The content creator explained that this cow is a hybrid of a dwarf horse mating with a cow. He said in the clip, 'This is a dwarf cow, and it is considered the dwarf in the kingdom, and of course it is rare. Its father is from the horse family. We do not say Sisi, but a dwarf horse.' And he added, her mother is a cow, she appeared to her mother in the form of a cow, and she appeared to her father in the structure 'a dwarf.
+
+
+***
+![Both bureaucrats and ministers … Mr. Taro Kono remarked 'out of jurisdiction' in the Diet I looked back at past examples: Tokyo Shimbun TOKYO Web](https://static.tokyo-np.co.jp/image/article/size1/6/7/d/3/67d31852e3eff8e697a9ad1c81b7de7d_2.jpg "Both bureaucrats and ministers … Mr. Taro Kono remarked 'out of jurisdiction' in the Diet I looked back at past examples: Tokyo Shimbun TOKYO Web")
+
+
+[Both bureaucrats and ministers … Mr. Taro Kono remarked 'out of jurisdiction' in the Diet I looked back at past examples: Tokyo Shimbun TOKYO Web](https://www.world-today-news.com/both-bureaucrats-and-ministers-mr-taro-kono-remarked-out-of-jurisdiction-in-the-diet-i-looked-back-at-past-examples-tokyo-shimbun-tokyo-web/)
+
+
+> Digital Minister Kono responds at the plenary session of the House of Representatives = At ​​the Diet Digital Minister Taro Kono used the word 'out of jurisdiction' 12 times in a row in the Diet. The impression is strong that bureaucrats who avoid answering questions because of the vertically divided administration use it, but there are quite a few cases where politicians make statements in the Diet. We looked back on past cases and listened to the voices of experts. (Haruka Osugi) 'It is out of our jurisdiction.
+
+
+***
+![Wall Street Indices Fall, Growth Stocks Rise](https://static.moscowtimes.ru/image/reuters_og/aa/34110__aa68e93925a4e69aa7e3950feb5fbbda.jpg "Wall Street Indices Fall, Growth Stocks Rise")
+
+
+[Wall Street Indices Fall, Growth Stocks Rise](https://www.world-today-news.com/wall-street-indices-fall-growth-stocks-rise/)
+
+
+> Feb 14 (Reuters) – Wall Street's major indexes are lower on Tuesday as gains in Tesla and Nvidia stocks outweighed fears that the US Fed is likely to hike rates further this year after data showed a still-strong inflation. Tesla Inc shares rose 6.54% and Nvidia Corp shares rose 3.84%. Stock index futures showed marked volatility as data showed US consumer prices rose in January in line with forecasts. Markets started the year on a bullish note, thanks to renewed interest in growth stocks that suffered in 2022 when the US Federal Reserve raised rates aggressively to control the price spike.
+
+
+***
+![The new commissioning image of the Webb telescope reveals a spiral galaxy that resembles the Milky Way 1 billion light years away](https://img.technews.tw/wp-content/uploads/2023/02/15131702/LEDA-2046648.jpg "The new commissioning image of the Webb telescope reveals a spiral galaxy that resembles the Milky Way 1 billion light years away")
+
+
+[The new commissioning image of the Webb telescope reveals a spiral galaxy that resembles the Milky Way 1 billion light years away](https://www.world-today-news.com/the-new-commissioning-image-of-the-webb-telescope-reveals-a-spiral-galaxy-that-resembles-the-milky-way-1-billion-light-years-away-technews-technology-new-report/)
+
+
+> At the end of last month, the European Space Agency released a new image taken by the Webb Space Telescope, which squeezed a large number of galaxies and bright stars. Among them, there is a beautiful spiral galaxy like the Milky Way 1 billion light-years away. In a newly released Webb image (but actually one of the first commissioned images taken), we see spiral galaxy LEDA 2046648, a billion light-years away, clear enough to identify the arms, and dotted with more Many small spiral, oval and other odd-shaped light spots are impressive.
+
+
+***
+![Overwatch 2 will finally prevent lower-ranked players from getting into high-ranked lobbies](https://staticg.sportskeeda.com/editor/2023/02/47165-16764432434927-1920.jpg "Overwatch 2 will finally prevent lower-ranked players from getting into high-ranked lobbies")
+
+
+[Overwatch 2 will finally prevent lower-ranked players from getting into high-ranked lobbies](https://www.sportskeeda.com/esports/news-overwatch-2-will-finally-prevent-lower-ranked-players-getting-high-ranked-lobbies)
+
+
+> Popular competitive hero shooter Overwatch 2 hasn't been the fairest when it comes to matchmaking and ranked games, causing fans to call out Blizzard multiple times. Season 3's matchmaking improvements were targeted at satisfying the gaps in the game's Competitive Play, but they also had an unpopular effect. Ever since Season 3 launched, many players have reportedly been facing massive rank disparity in matches. Fortunately, Blizzard has managed to address the temporary issue, according to a company spokesperson.
+
+
+***
+![Are BSNL's Long-Term Mobile Prepaid Plans Worth it?](https://telecomtalk.info/wp-content/uploads/2023/02/are-bsnl-long-term-mobile-prepaid-plans.jpg "Are BSNL's Long-Term Mobile Prepaid Plans Worth it?")
+
+
+[Are BSNL's Long-Term Mobile Prepaid Plans Worth it?](https://telecomtalk.info/are-bsnl-long-term-mobile-prepaid-plans/676484/)
+
+
+> Bharat Sanchar Nigam Limited (BSNL) is not generally considered a competition for private telecom companies in India. The major reason behind this is that BSNL is still offering legacy network services while private companies have already shifted to offering 4G and 5G services to consumers. But BSNL is soon expected to launch 4G, if not 5G. The telco is still working out the finer details of the testing with Tata Consultancy Services (TCS), but once that is done, BSNL will start a phase-wise rollout of 5G in the country.
+
+
+***
+![FdI first almost everywhere, northern city at Pd-Corriere.it](https://images2.corriereobjects.it/methode_image/socialshare/2023/02/14/72d2358e-acab-11ed-90fc-0a28becedb3f.jpg "FdI first almost everywhere, northern city at Pd-Corriere.it")
+
+
+[FdI first almost everywhere, northern city at Pd-Corriere.it](https://www.world-today-news.com/fdi-first-almost-everywhere-northern-city-at-pd-corriere-it/)
+
+
+> There are not too many nuances in the new one political map of Lombardy and Lazio: il center-right is ahead almost everywhere and Brothers of Italy, the first party at the regional level, is also in the lead in most of the municipalities. In Lombardy, however, there are three exceptions: Milan, Brescia and Bergamo. Exceptions of weight: they are three of the four largest municipalities (Monza is missing). Here not only the centre-left, with Pierfrancesco Majorino He obtained more coalition votes than Attilio Fontana (in Milan 46.
+
+
+***
+![iPhone 14 user? Google Photos is crashing after iOS 16.3.1 update? Don't do THIS](https://images.hindustantimes.com/tech/img/2023/02/15/1600x900/20200626_083312_1593456904169_1593456911605_1676443517109_1676443517109.jpg "iPhone 14 user? Google Photos is crashing after iOS 16.3.1 update? Don't do THIS")
+
+
+[iPhone 14 user? Google Photos is crashing after iOS 16.3.1 update? Don't do THIS](https://tech.hindustantimes.com/tech/news/iphone-14-user-google-photos-is-crashing-after-ios-16-3-1-update-don-t-do-this-71676443486207.html)
+
+
+> On Monday, Apple released the iOS 16.3.1 update for iPhone devices. The update is a minor one and majorly focuses on bug fixes and security updates but also addresses some big issues with iCloud, Siri, Find My and crash detection. However, while it takes care of some existing issues in the OS, some users are reporting that, after the update a new and unexpected issue has popped up. The Google Photos app is apparently crashing for some iPhone users who have updated to the latest version. So whether you're using the latest iPhone 14 or the iPhone 8, you should be aware that updating your smartphone may cause some issues with the Google Photos app.
+
+
+***
+![Current corona numbers in Freiburg i.Breisgau: RKI case numbers and deaths today on February 15th, 2023](https://media.news.de/images/857573314/images/d9/5d/6c2b14a275fe6f73019765d8fc1e/nopic/no_pic/1200/675/1/1/-/4/1024/576/-/-/die-aktuellen-coronavirus-news-aus-deutschland-im-ueberblick_857573314_1200x675_461408cdff7c8956611e8fe0f958566d.jpg "Current corona numbers in Freiburg i.Breisgau: RKI case numbers and deaths today on February 15th, 2023")
+
+
+[Current corona numbers in Freiburg i.Breisgau: RKI case numbers and deaths today on February 15th, 2023](https://www.world-today-news.com/current-corona-numbers-in-freiburg-i-breisgau-rki-case-numbers-and-deaths-today-on-february-15th-2023/)
+
+
+> Daily updated corona numbers and rules for Freiburg i.Breisgau: Here you can find the latest RKI data on the corona virus from 7-day incidence to intensive care bed occupancy and new infections in your region for today, February 15th, 2023. news.de/resources/thumbs/d9/5d/857573314_736x414/die-aktuellen- coronavirus - news -aus-deutschland-im-ueberblick-1613406469.jpg?resize=736%2C414&ssl=1" layout="responsive" class="articleImage" alt="Die aktuellen Coronavirus - News aus Deutschland im Überblick.
+
+
+***
+![Fed official expects 1% GDP growth in 2023](https://www.moneyvox.fr/i/media/04i/004298i4f3.jpg "Fed official expects 1% GDP growth in 2023")
+
+
+[Fed official expects 1% GDP growth in 2023](https://www.world-today-news.com/fed-official-expects-1-gdp-growth-in-2023/)
+
+
+> A U.S. central bank (Fed) official expects U.S. GDP growth of around 1% in 2023, a higher anticipation than the institution predicted in December, when it released its latest forecast economic. I expect GDP growth to be around 1% for 2023, New York Fed President John Williams told the New York Bankers Association on Tuesday. The most recent economic forecasts from the Fed's Monetary Policy Committee (FOMC) were published following its meeting on December 13 and 14. GDP growth of 0.5% in 2023, then 1.
+
+
+***
+![Microsoft retires Explorer after decades of service, permanently disables it on most versions of Windows 10: Report](https://th-i.thgim.com/public/incoming/ak1h4j/article66511460.ece/alternates/LANDSCAPE_1200/BLSBC_5-9-2012_13-16-40_INTERNET-EXPLORER.JPG "Microsoft retires Explorer after decades of service, permanently disables it on most versions of Windows 10: Report")
+
+
+[Microsoft retires Explorer after decades of service, permanently disables it on most versions of Windows 10: Report](https://www.thehindu.com/sci-tech/technology/microsoft-retires-explorer-after-decades-of-service-permanently-disables-it-on-most-versions-of-windows-10/article66511428.ece)
+
+
+> February 15, 2023 12:16 pm | Updated 12:16 pm IST Microsoft retired its Internet Explorer browser, permanently disabling it through an Edge update. | Photo Credit: Special Arrangement Microsoft, on Tuesday, retired its Internet Explorer browser, permanently disabling it through an Edge update on most versions of Windows 10, according to a report from The Verge. With the update, Microsoft Edge will make sure users can no longer launch Internet Explorer 11 on most versions of Windows 10. However, the underlying technology that powers Internet Explorer, the MSHTML and Trident engine, will continue to remain supported.
+
+
+***
+![Samsung Galaxy A24 4G Appears on NBTC Listing Ahead of Alleged March Launch](https://www.gizmochina.com/wp-content/uploads/2023/02/Samsung-Galaxy-A24-MySmartPrice-1024x538-1.webp "Samsung Galaxy A24 4G Appears on NBTC Listing Ahead of Alleged March Launch")
+
+
+[Samsung Galaxy A24 4G Appears on NBTC Listing Ahead of Alleged March Launch](https://www.gizmochina.com/2023/02/15/samsung-galaxy-a24-4g-nbtc)
+
+
+> Samsung is rumored to debut new Galaxy A-series devices in March 2023. We expect the initial launch to include the Galaxy A54 5G and the Galaxy A34 5G, with more devices joining the lineup later. One such device is expected to be the 4G version of the Galaxy A24 which has been subject to some leaks in recent weeks. The device has now appeared on the NBTC certification website bearing model number SM-A245F/DSN. Although the listing does not confirm any specifications of the upcoming smartphone, it all but guarantees that the device will be launched in Thailand.
+
+
+***
+![Geekbench 6 launched – should provide better cross-platform comparisons](https://www.idg.se/editorial/1200/path/1.776256.1676411098!imageUploader/1836275208.jpg "Geekbench 6 launched – should provide better cross-platform comparisons")
+
+
+[Geekbench 6 launched – should provide better cross-platform comparisons](https://www.world-today-news.com/geekbench-6-launched-should-provide-better-cross-platform-comparisons/)
+
+
+> In 2019, Geekbench 5 was released and reset all comparative tests of processors, computers, mobiles and tablets. Now it's time again. Geekbench 6 is here, with redesigned tests that give completely different values ​​than the old Geekbench 5. The tests have been reworked to both provide fairer cross-platform comparisons and to be more reality-based and take full advantage of modern processors, including machine learning cores and blends of performance and efficiency cores. The program is now completely free for all but commercial use.
+
+
+***
+![Ana Mena surrounds herself with her ‘Poleito', the person who has stolen her heart](https://www.cadenadial.com/wp-content/uploads/2023/02/Ana-Mena-junto-a-su-perro-1.jpg "Ana Mena surrounds herself with her ‘Poleito', the person who has stolen her heart")
+
+
+[Ana Mena surrounds herself with her ‘Poleito', the person who has stolen her heart](https://www.world-today-news.com/ana-mena-surrounds-herself-with-her-poleito-the-person-who-has-stolen-her-heart/)
+
+
+> Filed in: Ana Mena • Ana Mena She is one of the most important national artists of the moment and with the great burden that this entails, she also needs time to rest, replenish her batteries and surround herself with those things that make her very happy. Her latest publication on social networks reflects that in recent days she has been very well accompanied by her along with her pet nicknamed ‘ Poleito ‘. Together they have posed with a beautiful image on Instagram where they seem to be enjoying a nice walk in the countryside and Mena has not hesitated to take some photos with him and share them with all her followers.
+
+
+***
+![Siemens picks Malaysia for its first APAC cybersecurity operation center](https://techwireasia.com/wp-content/uploads/2023/02/FLZ_0210-scaled.jpg "Siemens picks Malaysia for its first APAC cybersecurity operation center")
+
+
+[Siemens picks Malaysia for its first APAC cybersecurity operation center](https://techwireasia.com/2023/02/siemens-picks-malaysia-for-its-first-apac-cybersecurity-operation-center/)
+
+
+> Siemens picks Malaysia for its first APAC Cyber Security Operation CenterSource: Siemens Siemens launched the region's first MDR operational technology cybersecurity operations center (CSOC) in Cyberjaya, Malaysia. The company's only purpose-built facility is engineered to monitor, detect, and mitigate cyberthreats on critical infrastructure such as energy and utilities. The chairman of CyberSecurity Malaysia reckons the move is the first solid step in putting Malaysia on the map as a regional cybersecurity powerhouse.
+
+
+***
+![Emirates News Agency – The Emirati field hospital continues to receive those affected by the Turkish earthquake](http://assets.wam.ae/uploads/2023/02/medium-1021154485115574332.jpg "Emirates News Agency – The Emirati field hospital continues to receive those affected by the Turkish earthquake")
+
+
+[Emirates News Agency – The Emirati field hospital continues to receive those affected by the Turkish earthquake](https://www.world-today-news.com/emirates-news-agency-the-emirati-field-hospital-continues-to-receive-those-affected-by-the-turkish-earthquake/)
+
+
+> Wednesday, February 15, 2023 – 10:15 am .. From / Ahmed Gamal. Gaziantep, February 15, WAM/ The Emirati field hospital in a reformatory area in the Turkish city of Gaziantep continues to receive the injured and those affected by the recent earthquake. Residents of the region flock to the hospital, which includes several departments, including reception, emergency, surgical operations, intensive care, dental, CT, x-ray, laboratory, pharmacy and outpatient clinics. The field hospital includes 50 beds, and 4 intensive care beds for critical and dangerous cases.
+
+
+***
+!["Fireball": ten years ago, one of the largest meteorites fell on Chelyabinsk](https://mf.b37mrtl.ru/russian/images/2023.02/original/63e3b9e3ae5ac95c3178bd9f.jpeg ""Fireball": ten years ago, one of the largest meteorites fell on Chelyabinsk")
+
+
+["Fireball": ten years ago, one of the largest meteorites fell on Chelyabinsk](https://www.tellerreport.com/tech/2023-02-15-%22fireball%22--ten-years-ago--one-of-the-largest-meteorites-fell-on-chelyabinsk.HJKDTlcas.html)
+
+
+> "Fireball": ten years ago, one of the largest meteorites fell on Chelyabinsk On February 15, 2013, a large space body, known as the Chelyabinsk meteorite, fell into the territory of Russia. According to scientists, this was the first time in history that such a large fireball fell in a densely populated area, the incident led to quite serious destruction. As a result of the meteorite explosion, more than 7 thousand buildings were damaged, about 1.6 thousand people asked for medical help. Astrophysicists call the Chelyabinsk meteorite the most "noticeable" after the Tunguska.
+
+
+***
+![GPX MAD 300 MAX 2022, price 94,800 baht, naked motorcycle, size 300 cc.](https://s359.thaibuffer.com/rq/1200/630/45/pagebuilder/dc284114-eb60-4d43-8fee-908af9fc623e.jpg "GPX MAD 300 MAX 2022, price 94,800 baht, naked motorcycle, size 300 cc.")
+
+
+[GPX MAD 300 MAX 2022, price 94,800 baht, naked motorcycle, size 300 cc.](https://www.world-today-news.com/gpx-mad-300-max-2022-price-94800-baht-naked-motorcycle-size-300-cc/)
+
+
+> GPX MAD 300 MAX 2022 (GPX MAD 300 MAX 2022) motorbike cheap naked sporty decoration no fairing kit able to travel far and provides maneuverability when riding in the city. Install front disc brakes with YSS rear shock absorbers from the factory. As for the color scheme, there is only one choice. GPX MAD 300 MAX 2022 body design GPX MAD 300 MAX 2022 decorates the car in a show frame style without fairing, with various graphic patterns emphasizing black tones contrasting with the orange car frame.
+
+
+***
+![A family in Varna lived with the body of a dead child for a month](https://img.cms.bweb.bg/media/images/1200x630/Feb2023/2112960739.jpg "A family in Varna lived with the body of a dead child for a month")
+
+
+[A family in Varna lived with the body of a dead child for a month](https://www.world-today-news.com/a-family-in-varna-lived-with-the-body-of-a-dead-child-for-a-month/)
+
+
+> The prosecutor's office with terrifying revelations about a tragedy, happened in 2021 in the Varna district 'Vladislav Varnenchik'. Then, after a fire in an apartment, the bodies of two children were found. The prosecution has now revealed that the older child had died a month earlier, but the family continued to live with the girl's body without informing the authorities. The man and woman accused of the fire spent six months in custody before being released in April 2022 after reaching the maximum prison term.
+
+
+***
+![Musk: Elon Musk hopes to have Twitter CEO toward the end of year](https://static.toiimg.com/thumb/msid-97938427,width-1070,height-580,imgsize-225074,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Musk: Elon Musk hopes to have Twitter CEO toward the end of year")
+
+
+[Musk: Elon Musk hopes to have Twitter CEO toward the end of year](https://timesofindia.indiatimes.com/gadgets-news/elon-musk-hopes-to-have-twitter-ceo-toward-the-end-of-year/articleshow/97938393.cms)
+
+
+> FOLLOW US ON SOCIAL MEDIA Facebook Twitter Instagram KOO APP YOUTUBE
+
+
+***
+![⚡Roomba Vacuum Maker iRobot To Lay Off 7% of Workforce](https://st1.latestly.com/wp-content/uploads/2023/02/6-2-1.jpg "⚡Roomba Vacuum Maker iRobot To Lay Off 7% of Workforce")
+
+
+[⚡Roomba Vacuum Maker iRobot To Lay Off 7% of Workforce](https://www.latestly.com/quickly/technology/roomba-vacuum-maker-irobot-to-lay-off-7-of-workforce-4843629.html)
+
+
+> "As part of this restructuring, the company plans to reduce its workforce by approximately 7 per cent, or approximately 85 employees, primarily by streamlining certain functions across the company," said iRobot.
+
+
+***
+![Verdi wants to paralyze airports in Bremen, Hanover, Munich, Frankfurt, Hamburg, Stuttgart and Dortmund](https://imgneu.nwzonline.de/image/027e-17510969264e-57305d0447ed-1000/1200,16-9,med,50,50/nwzonline.jpg "Verdi wants to paralyze airports in Bremen, Hanover, Munich, Frankfurt, Hamburg, Stuttgart and Dortmund")
+
+
+[Verdi wants to paralyze airports in Bremen, Hanover, Munich, Frankfurt, Hamburg, Stuttgart and Dortmund](https://www.world-today-news.com/verdi-wants-to-paralyze-airports-in-bremen-hanover-munich-frankfurt-hamburg-stuttgart-and-dortmund/)
+
+
+> In the collective bargaining dispute in the public sector, the Verdi union is using one of its sharpest weapons – and wants to paralyze seven airports all day on Friday. Public servants also work at the airports. To read this article, complete one of our offers or log in as a subscriber. All content on NWZonline and in the NWZ app will then be available to you without restriction. After the end of the respective offer phase, the regular subscription price of €9.90/month applies. All offers can then be easily canceled on a monthly basis.
+
+
+***
+![Elon Musk hopes to have Twitter CEO toward the end of year](https://bloximages.chicago2.vip.townnews.com/muscatinejournal.com/content/tncms/assets/v3/editorial/9/ba/9ba600fa-368c-5da4-948b-ad13761b88ae/63ec78d135fac.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Elon Musk hopes to have Twitter CEO toward the end of year")
+
+
+[Elon Musk hopes to have Twitter CEO toward the end of year](https://muscatinejournal.com/lifestyles/technology/elon-musk-hopes-to-have-twitter-ceo-toward-the-end-of-year/article_f4615ce8-eb27-5aea-9c92-6b339e2dcddd.html)
+
+
+> By JON GAMBRELL - Associated Press DUBAI, United Arab Emirates (AP) — Billionaire Elon Musk said Wednesday that he anticipates finding a CEO for Twitter 'probably toward the end of this year." Speaking via a video call to the World Government Summit in Dubai, Musk said making sure the platform can function remained the most important thing for him. 'I think I need to stabilize the organization and just make sure it's in a financial healthy place,' Musk said when asked about when he'd name a CEO.
+
+
+***
+![PS Store will have double discount for PS Plus subscribers](https://meups.com.br/wp-content/uploads/2023/02/cats-79.jpg "PS Store will have double discount for PS Plus subscribers")
+
+
+[PS Store will have double discount for PS Plus subscribers](https://www.world-today-news.com/ps-store-will-have-double-discount-for-ps-plus-subscribers/)
+
+
+> Sony is already preparing another selection of offers on the PS Store, this time to offer double discount to PS Plus subscribers. The new promotional window will be available from this Wednesday (15). Gotham Knights, FIFA 23, The Witcher 3: Wild Hunt and The Last of Us Part II are just some of the names that will be available in the catalog until the day March 1st. Check out other titles below: Gotham Knights FIFA 23 The Witcher 3: Wild Hunt The Last of Us Part II Assassin's Creed Odyssey Assassin's Creed Origins Assassin's Creed Valhalla Control Cuphead — The Delicious Last Course Darksiders II Darkwood Deathloop Far Cry 6 Goat Simulator 3 Ghost of Tsushima Director's Cut Guilty Gear -Strive- Shadow Warrior 3 Shenmue III: Digital Deluxe Edition Do you already have an idea of ​​which games you want to buy in this new PS Store offer? Comment in the section below and stay tuned to MeuPlayStation for more updates on the sale throughout the day! Sony reveals most downloaded PS Store games in January Last Friday (10), Sony revealed what were the most downloaded titles from the PS Store in January 2023.
+
+
+***
+![Thousands of Orchids Recreate Traditional Chinese Landscapes – NBC New York (47)](https://media.telemundo47.com/2023/02/c8f096afb8cf8b15c4e0425cbcd0bc5c8ee90493.jpg?quality=85&strip=all&resize=1200,675 "Thousands of Orchids Recreate Traditional Chinese Landscapes – NBC New York (47)")
+
+
+[Thousands of Orchids Recreate Traditional Chinese Landscapes – NBC New York (47)](https://www.world-today-news.com/thousands-of-orchids-recreate-traditional-chinese-landscapes-nbc-new-york-47/)
+
+
+> NEW YORK — Thousands of orchids recreate traditional Chinese landscapes in the New York Botanical Garden's vast glass conservatory to celebrate the 20th annual orchid show opening to the public this weekend. For landscape designer Lily Kwong, who is the first non-white woman to design this exhibit, it was important to convey her Asian origins. In his design he tries to simulate 'the natural elements and traditional Chinese gardens' through small-scale organic elements: he plays with moss-covered rocks and orchids to simulate mountains; fountains to recreate waterfalls and rivers, bushes to represent trees; and the sky, for its part, is very present because it surrounds the entire exhibition through the glass greenhouse.
+
+
+***
+![Watch YouTube on smart TV – PT Industrial Management](https://www.ptindustrieelmanagement.nl/wp-content/uploads/2023/02/YouTube-kijken-op-smart-tv.jpg "Watch YouTube on smart TV – PT Industrial Management")
+
+
+[Watch YouTube on smart TV – PT Industrial Management](https://www.world-today-news.com/watch-youtube-on-smart-tv-pt-industrial-management/)
+
+
+> YouTube is one of the most popular websites in the world, but watching it on your television can sometimes be a difficult task. Fortunately, there is a way to link YouTube to your smart TV using a variety of devices. Read below how you can do this quickly and easily. Watch YouTube on your TV and connect your TV to your phone or tablet If you have a smart TV, it's very easy to watch YouTube on your TV. You can simply download and install the app on your TV. If you don't have a smart TV, but you do have a normal TV, it is also possible to watch YouTube on your TV.
+
+
+***
+![Paytm Payments Bank goes live with UPI LITE to boost small-value UPI transactions](https://kalingatv.com/wp-content/uploads/2023/02/Paytm-Payments-Bank-goes-live-with-UPI-LITE-to-boost-small-value-UPI-transactions.jpg "Paytm Payments Bank goes live with UPI LITE to boost small-value UPI transactions")
+
+
+[Paytm Payments Bank goes live with UPI LITE to boost small-value UPI transactions](https://kalingatv.com/technology/paytm-payments-bank-goes-live-with-upi-lite-to-boost-small-value-upi-transactions/)
+
+
+> By IANS On Feb 15, 2023 0 New Delhi:   Homegrown Paytm Payments Bank Limited (PPBL) on Wednesday said it has gone live with UPI LITE, a feature enabled by the National Payments Corporation of India (NPCI) for multiple small-value UPI transactions. It will enable faster real-time transactions with a single click through Paytm. With UPI LITE, the Bank aims to drive the adoption of digital payments across the country. Once loaded, a UPI LITE wallet allows a user to do instant transactions of up to Rs 200 in a seamless way.
+
+
+***
+![The Galaxy S23 series brings power savings in another key area](https://www.androidauthority.com/wp-content/uploads/2023/01/Samsung-Galaxy-S23-lockscreen.jpg "The Galaxy S23 series brings power savings in another key area")
+
+
+[The Galaxy S23 series brings power savings in another key area](https://www.androidauthority.com/samsung-galaxy-s23-series-display-battery-life-3285553/)
+
+
+> Robert Triggs / Android Authority TL;DR Samsung Display has confirmed that the S23 series screens use much less power. The company says it's cut power consumption by 13% to 16%. Together with the more efficient processor, this should make for better battery life. However, it looks like Samsung has also improved efficiency in another key area. Samsung Display published a post outlining the major display-related improvements in the Galaxy S23 series. It turns out that the screens also sip less power than last year's handsets thanks to a new organic material.
+
+
+***
+![Check Out The Wanted: Dead Early Reviews On Twitter](https://images.augustman.com/wp-content/uploads/sites/2/2023/02/14152748/Cricket-2.jpg "Check Out The Wanted: Dead Early Reviews On Twitter")
+
+
+[Check Out The Wanted: Dead Early Reviews On Twitter](https://www.augustman.com/sg/gear/tech/wanted-dead-video-game-twitter-reviews)
+
+
+> The much-anticipated action game Wanted: Dead came out on 14 February 2023. The single-player game is a fresh hybrid slasher/shooter by Soleil, the developers of games like Ninja Gaiden, Samurai Jack and Dead or Alive. In Wanted: Dead you play as a member of the zombie unit, an elite Hong Kong police squad that's out to uncover a major corporate conspiracy. Here's a look at the new hybrid slasher-shooter's story, characters, and more: https://t.co/fCGYLJ6eTS pic.twitter.com/7RHqeksnyv — IGN (@IGN) February 13, 2023 ‘Wanted: Dead' – Become part of Hong Kong's Zombie Unit Published by 110 Industries, Wanted: Dead features gory sequences and action-packed gameplay as you become a member of Hong Kong's Zombie Unit.
+
+
+***
+![Funkeys, aesthetics of understated sensibility. Launched Varmilo Minilo, a 67-key mini mechanical keyboard](https://file.bodnara.co.kr/webedit/news/2015/1676440491-5.jpg "Funkeys, aesthetics of understated sensibility. Launched Varmilo Minilo, a 67-key mini mechanical keyboard")
+
+
+[Funkeys, aesthetics of understated sensibility. Launched Varmilo Minilo, a 67-key mini mechanical keyboard](https://www.world-today-news.com/funkeys-aesthetics-of-understated-sensibility-launched-varmilo-minilo-a-67-key-mini-mechanical-keyboard/)
+
+
+> Bravotech's own brand, FUNKEYS, which handles premium mechanical keyboards and keyboard-related accessories, releases a new lineup of Barmilo, ‘Minilo'. Varmlio Minilo was deeply inspired by the works of the painter ‘Giorgio Morandi' and used subtle tones and fresh colors to convey elegance and lively sensibility to the product. This minilo series with the theme of plants is released in two colors, ‘Eucalyptus' and ‘Mendosa', and provides the optimal choice for the user's taste. It consists of a total of 6 different types of switches.
+
+
+***
+![Hyderabad Woman Temporarily Loses Eyesight: 6 Tips To Protect Your Eyes From Smartphone Vision Syndrome](https://images.news18.com/ibnlive/uploads/2023/02/untitled-design-14-167644147316x9.jpg "Hyderabad Woman Temporarily Loses Eyesight: 6 Tips To Protect Your Eyes From Smartphone Vision Syndrome")
+
+
+[Hyderabad Woman Temporarily Loses Eyesight: 6 Tips To Protect Your Eyes From Smartphone Vision Syndrome](https://www.news18.com/news/tech/hyderabad-woman-temporarily-loses-eyesight-6-tips-to-protect-your-eyes-from-smartphone-vision-syndrome-7085959.html)
+
+
+> As work shifts to a more digital format, an increasing number of individuals are relying on laptops and smartphones to complete their tasks. However, many are experiencing eye strain and general screen fatigue as a result of extended usage. In fact, a woman has reportedly temporarily lost her sight due to her smartphone, according to Dr. Sudhir Kumar, a neurologist based in Hyderabad's Apollo Hospital. Advertisement While there is a general consensus that smartphones do not have any concrete evidence of causing long-term damage to the eyes, there are increasing reports of increased fatigue.
+
+
+***
+![Techno Electric & Engineering Company consolidated net profit declines 72.66% in the December 2022 quarter](https://bsmedia.business-standard.com/_media/bs/img/article/default/1230215/full-123021500449.jpg "Techno Electric & Engineering Company consolidated net profit declines 72.66% in the December 2022 quarter")
+
+
+[Techno Electric & Engineering Company consolidated net profit declines 72.66% in the December 2022 quarter](https://www.business-standard.com/article/news-cm/techno-electric-engineering-company-consolidated-net-profit-declines-72-66-in-the-december-2022-quarter-123021500449_1.html)
+
+
+> Sales decline 37.74% to Rs 185.26 crore Net profit of Techno Electric & Engineering Company declined 72.66% to Rs 31.41 crore in the quarter ended December 2022 as against Rs 114.87 crore during the previous quarter ended December 2021. Sales declined 37.74% to Rs 185.26 crore in the quarter ended December 2022 as against Rs 297.56 crore during the previous quarter ended December 2021.185.26297.5612.6013.5941.67159.0439.74157.2431.41114.87 Powered by Capital Market - Live News (This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.
+
+
+***
+![Splatoon 3 art book and soundtrack announced for Japan](https://gonintendo.com/attachments/image/23271/file/medium-721ff86be62501a337cf59c09558ab8c.jpg "Splatoon 3 art book and soundtrack announced for Japan")
+
+
+[Splatoon 3 art book and soundtrack announced for Japan](https://gonintendo.com/contents/16266-splatoon-3-art-book-and-soundtrack-announced-for-japan)
+
+
+> The Splatoon franchise has some of the most unique and interesting designs in all of Nintendo's history, and Splatoon 3 is no different. So much work has gone into Splatoon 3 to make achieve a vibe that's overflowing with personality, and soon enough there will be a way to appreciate these artistic achievements even more. The official Splatoon 3 art book is releasing in Japan on March 31st, 2023, and it includes just about everything and anything you can expect. There's design sketches, breakdowns of gear, concept art, graffiti collections and so much more.
+
+
+***
+![Norfolk mum hopes RSV vaccine will reduce son's hospital visits](https://ichef.bbci.co.uk/news/1024/branded_news/764A/production/_128628203_microsoftteams-image-170.png "Norfolk mum hopes RSV vaccine will reduce son's hospital visits")
+
+
+[Norfolk mum hopes RSV vaccine will reduce son's hospital visits](https://www.bbc.com/news/uk-england-norfolk-64639682)
+
+
+> Image source, Mike Liggins/BBC Image caption, Charlotte Thurnell said it was frightening seeing her son, Oscar, in hospital with RSV A mother whose son has been admitted to hospital twice with respiratory syncytial virus (RSV) said she hoped a vaccine trial would reduce admissions. RSV is one of the main reasons children under five end up in hospital and is a leading cause of the chest infection bronchiolitis . Charlotte Thurnell, from Clippesby, Norfolk, has signed her three-month-old son Oscar up for the trial.
+
+
+***
+![Alphabet Chairman Reacts To Google Bard AI's Goof Up, Says 'These Models Still In Infancy'](https://imgeng.jagran.com/images/2023/feb/Google Bard Ai (1)1676441770323.jpg "Alphabet Chairman Reacts To Google Bard AI's Goof Up, Says 'These Models Still In Infancy'")
+
+
+[Alphabet Chairman Reacts To Google Bard AI's Goof Up, Says 'These Models Still In Infancy'](https://english.jagran.com/technology/alphabet-chairman-reacts-to-google-bard-ais-goof-up-says-these-models-still-in-infancy-10065199)
+
+
+> By Ashish Singh Wed, 15 Feb 2023 11:41 AM (IST) CALIFORNIA-based technology company Alphabet, which recently faced a massive $100 billion loss after introducing its ChatGPT-rival Bard AI in a demo video, has now reportedly clarified the reason for such a hastening decision. Notably, the employees also called the introduction of Bard AI ‘hurried' and ‘botched'. For those who don't know, the recently announced Bard AI made a goof up which was pointed out by several astronomers on the micro-blogging platform Twitter, after which the share prices of Google fell drastically.
+
+
+***
+![Famitsu review scores for issue 1785](https://gonintendo.com/attachments/image/23270/file/medium-9087f1559050e61dfa6ae7773e66a7d3.jpg "Famitsu review scores for issue 1785")
+
+
+[Famitsu review scores for issue 1785](https://gonintendo.com/contents/16265-famitsu-review-scores-for-issue-1785)
+
+
+> Singing the praises of this week's big game The latest issue of Famitsu has made its way to subscribers in Japan, and that means yet another round of review scores. Want to see how this week's games fared? Check out the score round-up below! Remember, each Famitsu review is handled by 4 critics. They each give a game a score of 1 to 10, and then the scores are added together. In other words, a perfect game would get a 40 out of 40. Oita Beppu Mystery Guide: The Warped Bamboo (PS4, Switch) – 7/8/8/8 [31/40] Theatrhythm: Final Bar Line (PS4, Switch) – 9/9/9/8 [35/40] Tortuga: A Pirate's Tale (PS5, Xbox Series, PS4, Xbox One) – 7/6/7/7 [27/40] modal#open commentUpvoteInfoModal.
+
+
+***
+![HAL, German firm HENSOLDT to jointly produce Obstacle Avoidance System for Indian helicopters](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_02_2023_11_39_05_3046836.jpg?width=920&format=jpeg "HAL, German firm HENSOLDT to jointly produce Obstacle Avoidance System for Indian helicopters")
+
+
+[HAL, German firm HENSOLDT to jointly produce Obstacle Avoidance System for Indian helicopters](https://www.devdiscourse.com/article/technology/2355218-hal-german-firm-hensoldt-to-jointly-produce-obstacle-avoidance-system-for-indian-helicopters)
+
+
+> German defence firm HENSOLDT is set to share full range of critical technologies with state-run aerospace major Hindustan Aeronautics Ltd (HAL) for manufacturing of Obstacle Avoidance System (OAS) for Indian helicopters. The OAS is a key equipment that helps in improving situational awareness of pilots and thereby reduces the possibility of accidents, besides enhancing mission accomplishments, according to aviation experts. The HAL is looking at production of OAS for the Advanced Light Helicopters (ALH), officials said.
+
+
+***
+![From Central Perk to the iconic fountain: ‘The Friends Experience' is coming to Belgium](https://images0.persgroep.net/rcs/46SikQeyHaD7Akxt0eKG7sYgsL8/diocontent/227524286/_focus/0.48/0.32/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7 "From Central Perk to the iconic fountain: ‘The Friends Experience' is coming to Belgium")
+
+
+[From Central Perk to the iconic fountain: ‘The Friends Experience' is coming to Belgium](https://www.world-today-news.com/from-central-perk-to-the-iconic-fountain-the-friends-experience-is-coming-to-belgium-showbiz/)
+
+
+> The ‘Friends Experience' is an interactive experience where ‘Friends' fans get the chance to relive some of their favorite scenes from the series. You can peek through the keyhole of Monica and Rachel's purple door, relax in Joey and Chandler's armchairs or take a seat in Central Perk's iconic orange sofa. Tickets are available from Wednesday 22 February 12:00 on www.FriendsTheExperience.com/Brussels. A visit for adults costs 26.50 euros and for children 22.50 euros. Access Plus is 39 euros and VIP access costs 82 euros.
+
+
+***
+![Hogwarts Legacy: Patch für PC und Xbox ist da, PS5-Patch braucht noch Zeit](https://stadt-bremerhaven.de/wp-content/uploads/2023/02/Hogwarts-Legacy-Screen-1.jpg "Hogwarts Legacy: Patch für PC und Xbox ist da, PS5-Patch braucht noch Zeit")
+
+
+[Hogwarts Legacy: Patch für PC und Xbox ist da, PS5-Patch braucht noch Zeit](https://stadt-bremerhaven.de/hogwarts-legacy-patch-fuer-pc-und-xbox-ist-da-ps5-patch-braucht-noch-zeit/)
+
+
+> Begeistert hat es viele, doch fehlerfrei kam es nicht auf den Markt. Die Rede ist von Hogwarts Legacy, dessen Test ihr unter anderem hier lesen könnt . Hogwarts Legacy hat nun seinen ersten großen Patch spendiert bekommen, der allerdings erst einmal nur die Spieler auf dem PC oder der Xbox erreicht. Aufgrund einiger zusätzlicher Probleme, die man gefunden haben, muss der PlayStation5-Patch um ein paar Tage verschoben werden. Dazu gehört auch die Behebung bei Fehlern der 'Collector's Edition'-Trophäe.
+
+
+***
+![Stock markets fall in Asia after US inflation surprise – E24](https://akamai.vgc.no/v2/images/e7a96873-a3d4-4e5c-a465-56b23ba82508?fit=crop&format=auto&h=1267&w=1900&s=ef2469525eaeeaa4bccd34313a6d3c36f7e8f51f "Stock markets fall in Asia after US inflation surprise – E24")
+
+
+[Stock markets fall in Asia after US inflation surprise – E24](https://www.world-today-news.com/stock-markets-fall-in-asia-after-us-inflation-surprise-e24/)
+
+
+> Price inflation in the US was higher than expected in January. Even with a mixed picture on Wall Street on Tuesday, the arrows are pointing down on Asian stock markets on Wednesday. There is a broad decline on the most important exchanges in Asia and the Pacific region on Wednesday morning. The Hong Kong stock exchange and the Seoul stock exchange experience the heaviest falls, while developments are more cautious in Shanghai and Tokyo. This is what it looks like around 6:00 a.m. Norwegian time: Data release from the salmon giants: – Will be a special quarter with tax adjustments The development in Asia comes after fresh US inflation figures came out on Tuesday, which are followed closely by markets worldwide.
+
+
+***
+![Yunnie joins OCTOPATH TRAVELER: Champions of the Continent](https://gonintendo.com/attachments/image/23269/file/medium-844b5b77a59ab7fa389d41ec079f2fa4.jpg "Yunnie joins OCTOPATH TRAVELER: Champions of the Continent")
+
+
+[Yunnie joins OCTOPATH TRAVELER: Champions of the Continent](https://gonintendo.com/contents/16264-yunnie-joins-octopath-traveler-champions-of-the-continent)
+
+
+> Back in July of 2022, OCTOPATH TRAVELER: Champions of the Continent was released for mobile platforms. Since then, it's been offering new stories for brand-new characters, all within the world of the mainline franchise. A new Champion has been revealed for the game, and players will be able to meet them soon. Introducing Yunnie, a cheerful and righteous hunter whose daily duties honed her skills that brought her repeated victories in the tourney. Play OCTOPATH TRAVELER: Champions of the Continent for FREE to add Yunnie to your Band of 8! modal#open commentUpvoteInfoModal.
+
+
+***
+![iPhone 15 Lineup Will Likely Sport Slimmer Bezels](https://www.gizmochina.com/wp-content/uploads/2023/02/noname-1-500x500-1.png "iPhone 15 Lineup Will Likely Sport Slimmer Bezels")
+
+
+[iPhone 15 Lineup Will Likely Sport Slimmer Bezels](https://www.gizmochina.com/2023/02/15/iphone-15-slimmer-bezels)
+
+
+> The upcoming iPhone 15 series is already making waves in the tech world, with rumors of new features and improvements gracing the news every single day. Some details are already confirmed, such as the USB Type-C port and the A16 bionic chip. Latest reports state that the upcoming iPhone 15 variants are expected to maintain the same sizes as their predecessors, however, users might get more screen space this time around. Leaker ShrimpApplePro, who has a track record of providing accurate Apple-related information, has hinted that the iPhone 15 Pro and Pro Max, possibly named the iPhone 15 Ultra, could have slimmer bezels than the 2022 models.
+
+
+***
+![Qcells investing $2.5 billion in US solar power manufacturing facility](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/hanwha-q-cells.jpg "Qcells investing $2.5 billion in US solar power manufacturing facility")
+
+
+[Qcells investing $2.5 billion in US solar power manufacturing facility](https://roboticsandautomationnews.com/2023/02/15/qcells-investing-2-5-billion-in-solar-power-manufacturing-facility/60314/)
+
+
+> Qcells is building a solar power manufacturing facility in Georgia, US, with a historic investment of $2.5 billion. This is believed to be the largest solar investment in US history and will offer significant benefits to the state and national economies. Gray Construction , a specialist builder in the manufacturing industry, and Stantec , an expert in sustainable design, were selected to provide construction, architecture, mechanical, electrical, plumbing engineering, structural, civil engineering, as well as environmental, water, and wastewater services.
+
+
+***
+![Louis Vuitton Discovery PM Blue Backpack – RAG](http://cdn.shopify.com/s/files/1/0274/3343/5213/products/image_faf9b806-2fe3-40ac-8476-64dc7e0328ba_1200x1200.jpg?v=1676306835 "Louis Vuitton Discovery PM Blue Backpack – RAG")
+
+
+[Louis Vuitton Discovery PM Blue Backpack – RAG](https://www.world-today-news.com/louis-vuitton-discovery-pm-blue-backpack-rag/)
+
+
+> Skip to content Mochila Louis Vuitton Discovery PM Azul Without details, does not include box or dust cover. Condition: Used. Use the left/right arrows to navigate the presentation or swipe left/right if you are using a mobile device
+
+
+***
+![Apple iPhone 12 available at Rs 28,999 on Flipkart after Rs 30,901 discount, check details](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/15/2573015-apple-iphone-12.png "Apple iPhone 12 available at Rs 28,999 on Flipkart after Rs 30,901 discount, check details")
+
+
+[Apple iPhone 12 available at Rs 28,999 on Flipkart after Rs 30,901 discount, check details](https://www.dnaindia.com/technology/report-apple-iphone-12-available-at-rs-28999-on-flipkart-after-rs-30901-discount-check-details-3023817)
+
+
+> Apple iPhone 12 Apple iPhone 12 marked the revival of square edged Apple iPhone models. Launched by Apple back in 2020, the Apple iPhone 12 is one of the most selling iPhone models till date. It is part of the Apple iPhone 12 series that comprises Apple iPhone 12 Pro and Apple iPhone 12 Pro Max too. The series also introduced the first ever ‘Mini' model which has now been discontinued by the tech giant. The Apple iPhone 12 comes with a 6.1-inch Super Retina XDR OLED display. Under the hood, the iPhone is powered by an A14 Bionic chip.
+
+
+***
+[Sweep Empowers Companies to Build Sustainability Across Their Supply Chains](http://www.businesswire.com/news/home/20230214005805/en/Sweep-Empowers-Companies-to-Build-Sustainability-Across-Their-Supply-Chains/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON--(BUSINESS WIRE)--Sweep, the carbon management and reduction platform has launched Sweep for Supply Chain, a solution leveraging corporate-supplier collaboration to get a complete view of indirect Scope 3 emissions and anticipate supply-chain-related risks and opportunities. According to a report from the World Economic Forum, over two-thirds of a company's global footprint comes from its supply chain. This includes a great number of suppliers and makes tracking and reducing emissions di
+
+
+***
+[Talent Sandbox Announces Launch of Online Training Platform Set to Transform Talent Acquisition](http://www.businesswire.com/news/home/20230214005550/en/Talent-Sandbox-Announces-Launch-of-Online-Training-Platform-Set-to-Transform-Talent-Acquisition/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BRISTOL, England--(BUSINESS WIRE)--Talent Sandbox today announces the launch of its online training platform for recruitment and talent acquisition professionals. Combining blended learning, real-world experiences, and intuitive technology, Talent Sandbox was built in response to the continued corporation cries for better and is a complete training solution representing a new standard within talent acquisition. Founder of Talent Sandbox, Neil Kelly said: "I have always believed that knowledge a
+
+
+***
+[Toyoda Gosei's Compact Wireless Power Supply Holder for Smart phones Used on New Prius](http://www.businesswire.com/news/home/20230214005016/en/Toyoda-Gosei%E2%80%99s-Compact-Wireless-Power-Supply-Holder-for-Smart-phones-Used-on-New-Prius/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> KIYOSU, Japan--(BUSINESS WIRE)--Toyoda Gosei Co., Ltd. (TOKYO:7282) has developed a compact wireless smart phone charging holder for automobiles. Smart phones can be charged by simply placing them in the holder. This wireless charging holder is used on the new Toyota Prius. The holder's support mechanism guides the smart phone to the optimum position for charging, and with a simplified charger structure has been made about 60% more compact than the previous product. This charging holder was rec
+
+
+***
+[BenevolentAI to Present at the Cowen 43rd Annual Health Care Conference](http://www.businesswire.com/news/home/20230214005864/en/BenevolentAI-to-Present-at-the-Cowen-43rd-Annual-Health-Care-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON--(BUSINESS WIRE)--BenevolentAI (Euronext Amsterdam: BAI), a leading clinical-stage AI drug discovery company, announces that it will present at the Cowen 43rd Annual Health Care Conference, which will be held in Boston MA, between March 6 – 8, 2023. Nick Keher, Chief Financial Officer, will present at 14.10 EST (19:10 GMT) on Wednesday 8th March 2023, and will be available throughout the conference for 1:1 meetings. A link to the webcast and slides will be made available on BenevolentAI'
+
+
+***
+[Toyoda Gosei's LED Driver Alert Lighting System Used on New Prius](http://www.businesswire.com/news/home/20230214005017/en/Toyoda-Gosei%E2%80%99s-LED-Driver-Alert-Lighting-System-Used-on-New-Prius/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> KIYOSU, Japan--(BUSINESS WIRE)--Toyoda Gosei Co., Ltd. (TOKYO:7282) has developed an LED driver alert lighting system that adds an alert function to decorative lighting. This system is used on the new Toyota Prius. Toyoda Gosei has been developing high value-added products that combine electronic components with its core rubber and plastic technology. Adding functions for communication between vehicle and occupants via LED lighting (human-machine interface system) to the steering wheel, instrum
+
+
+***
+![Samsung announces a feature to improve gaming performance and extend battery life](https://aitnews.com/wp-content/uploads/2023/02/AVAILO-Mobile-Sizes-320-200.png "Samsung announces a feature to improve gaming performance and extend battery life")
+
+
+[Samsung announces a feature to improve gaming performance and extend battery life](https://www.world-today-news.com/samsung-announces-a-feature-to-improve-gaming-performance-and-extend-battery-life/)
+
+
+> Samsung announced the support of a number of its phones with a new feature that significantly improves gaming performance and extends battery life, a feature that was available exclusively to the new Galaxy S23 series phones when it was launched at the beginning of this month, but Samsung started providing it for older phones. The new feature is an option within the GameBooster application, which is an application that is available as a sub-menu in the Game Launcher application menu that is pre-installed in Samsung devices.
+
+
+***
+![Meizu launches flagship 20 series with Snapdragon 8 Gen 2 · TechNode](https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1 "Meizu launches flagship 20 series with Snapdragon 8 Gen 2 · TechNode")
+
+
+[Meizu launches flagship 20 series with Snapdragon 8 Gen 2 · TechNode](https://technode.com/2023/02/15/meizu-launches-flagship-20-series-with-snapdragon-8-gen-2/)
+
+
+> On Tuesday, Chinese phone brand Meizu officially announced the upcoming release of the Meizu 20 series flagship on their Weibo account. The phone will be equipped with Snapdragon 8 Gen 2 and OneMind 10, Meizu's independent AI search engine. Notably, the upcoming Meizu 20 series is set to introduce a new concept of an in-vehicle data center with borderless internet connectivity. This will pave the way for the creation of an intelligent ecosystem in collaboration with Meizu's upcoming vehicle-related release.
+
+
+***
+![Meizu 20 Series Specifications Teased Online; Snapdragon 8+ Gen1 Confirmed](https://www.gizmochina.com/wp-content/uploads/2023/02/Meizu-20-Pro-Gizmochina.jpg "Meizu 20 Series Specifications Teased Online; Snapdragon 8+ Gen1 Confirmed")
+
+
+[Meizu 20 Series Specifications Teased Online; Snapdragon 8+ Gen1 Confirmed](https://www.gizmochina.com/2023/02/15/meizu-20-series-specifications-teased)
+
+
+> Meizu, a Chinese smartphone manufacturer, is gearing up to launch Meizu 20 Pro smartphone in China. The look and design of the device were leaked previously, which reveals a design which is very similar to the Samsung Galaxy S23. It has got a straight flexible display which looks really great on the device. Now, the brand has dropped some official teasers of the device ahead of the launch. The teaser reveals some key specifications of the smartphone. According to an official teaser posted by Meizu, the smartphone will feature the latest Qualcomm Snapdragon 8+ Gen1 chipset.
+
+
+***
+![Resident Evil Village shows off new capabilities and features in PlayStation VR2 trailer](https://www.gamereactor.no/media/36/_3363673_650x.jpg "Resident Evil Village shows off new capabilities and features in PlayStation VR2 trailer")
+
+
+[Resident Evil Village shows off new capabilities and features in PlayStation VR2 trailer](https://www.world-today-news.com/resident-evil-village-shows-off-new-capabilities-and-features-in-playstation-vr2-trailer/)
+
+
+> Resident Evil 7: Biohazard has been a huge success in virtual reality, so it wasn't particularly surprising when Capcom confirmed that Resident Evil Village's free PlayStation VR2 update will launch on the same day as Sony's new headset, on February 22. The new trailer for this makes it seem like we can expect another treat. Today's trailer not only shows how some of Resident Evil Village's most memorable moments will be enhanced with PS VR2, but also highlights some of the new features coming with the update.
+
+
+***
+![Google parent Alphabet's chairman says company was hesitant to launch ChatGPT AI rival; know reason why](https://www.financialexpress.com/wp-content/uploads/2023/02/google-2-final-1.jpg "Google parent Alphabet's chairman says company was hesitant to launch ChatGPT AI rival; know reason why")
+
+
+[Google parent Alphabet's chairman says company was hesitant to launch ChatGPT AI rival; know reason why](https://www.financialexpress.com/life/technology-google-parent-alphabets-chairman-says-company-was-hesitant-to-launch-chatgpt-ai-rival-know-reason-why-2981993/)
+
+
+> Google's ChatGPT-rival, Bard, met with a lukewarm reception. The experimental AI chatbot, in its demo video, made a goof up which was noticed by several astronomers on Twitter. The company's stock price for the day took a major hit due to the error and gathered criticism from its employees for being 'rushed' and 'botched' . Now Google parent company Alphabet chairman John Hennessy has come forward to talk about Bard claiming that Google's announcement of Bard was to show that company owns a ChatGPT bot-like technology, however, it's not quite ready for release as a product just yet.
+
+
+***
+![5 mistakes while charging smartphones](https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/02/15/5_mistakes_while_charging_smartphones.jpg "5 mistakes while charging smartphones")
+
+
+[5 mistakes while charging smartphones](https://www.tbsnews.net/videos/tech-talk/5-mistakes-while-charging-smartphones-585390)
+
+
+> Video of মোবাইল ফোন চার্জের ক্ষেত্রে যে ৫ টি ভুল করি। | The Business Standard While most comments will be posted if they are on-topic and not abusive, moderation decisions are subjective. Published comments are readers' own views and The Business Standard does not endorse any of the readers' comments.
+
+
+***
+![Elon Musk Introduces New, 'Amazing' CEO Of Twitter Who Is 'Better That THAT Guy'](https://imgeng.jagran.com/images/2023/feb/Twitter CEO1676439520440.jpg "Elon Musk Introduces New, 'Amazing' CEO Of Twitter Who Is 'Better That THAT Guy'")
+
+
+[Elon Musk Introduces New, 'Amazing' CEO Of Twitter Who Is 'Better That THAT Guy'](https://english.jagran.com/technology/elon-musk-introduces-new-amazing-ceo-of-twitter-who-is-better-that-that-guy-see-here-10065192)
+
+
+> By Ashish Singh Wed, 15 Feb 2023 11:04 AM (IST) THE NEW Twitter Boss Elon Musk has posted a picture of his dog Floki sitting on the CEO chair of the office. In a tweet, he mentioned that his dog is a better CEO than the ‘other guy' Parag Agrawal, months after firing him. Notably, Elon Musk fired him along with other staff as soon as he closed the high-profile $44 billion deal. Taking to Twitter, he made news once more after tweeting an image of his dog Floki wearing a branded Twitter t-shirt and CEO printed on it.
+
+
+***
+![Samsung Galaxy A24 moves a step closer to launch as it gets NBTC certified](https://fdn.gsmarena.com/imgroot/news/23/02/samsung-galaxy-a24-nbtc-certified/-952x498w6/gsmarena_002.jpg "Samsung Galaxy A24 moves a step closer to launch as it gets NBTC certified")
+
+
+[Samsung Galaxy A24 moves a step closer to launch as it gets NBTC certified](https://www.gsmarena.com/samsung_galaxy_a24_4g_nbtc_certified-news-57550.php)
+
+
+> The Samsung Galaxy A24 we've been hearing about for over half a year now has moved a step closer to its launch since it has been certified by Thailand's NBTC. The smartphone is listed on the Thai certifying authority's website with model code SM-A245F/DSN, where "DS" denotes dual-SIM support. The listing doesn't include the Galaxy A24's key specs but reveals the Galaxy A24 is a 4G smartphone. Samsung Galaxy A24 on NBTC's website Last month, the Samsung Galaxy A24 bearing model designation SM-A245F was spotted on Geekbench with the Helio G99 SoC, 4GB RAM, and Android 13.
+
+
+***
+![End of an era: Microsoft officially retires Internet Explorer](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17uQCN.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "End of an era: Microsoft officially retires Internet Explorer")
+
+
+[End of an era: Microsoft officially retires Internet Explorer](http://www.msn.com/en-us/news/technology/end-of-an-era-microsoft-officially-retires-internet-explorer/ar-AA17v1sH)
+
+
+> FORT WAYNE, Ind. (WANE) — This Valentine's Day didn't show love to those who experienced the early stages of the world wide web. As of Tuesday, Microsoft has officially disabled Internet Explorer for desktops, the tech company announced. Load Error The browser was originally launched in 1995 for Windows devices. Internet Explorer had a total of 11 versions, with the last one being released in 2013. But after nearly three decades, the web browser has grown outdated, which led to Microsoft taking action to remove it.
+
+
+***
+![Why Bing Chat is Doomed to Fail](https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/02/Bing-Chat-Is-Doomed-To-Fail-.jpg "Why Bing Chat is Doomed to Fail")
+
+
+[Why Bing Chat is Doomed to Fail](https://analyticsindiamag.com/why-bing-chat-is-doomed-to-fail/)
+
+
+> Skip to content
+
+
+***
+![Wordle Today: Hints, Clues and Answer for Wordle 606, February 15](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17sa26.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Wordle Today: Hints, Clues and Answer for Wordle 606, February 15")
+
+
+[Wordle Today: Hints, Clues and Answer for Wordle 606, February 15](http://www.msn.com/en-us/news/technology/wordle-today-hints-clues-and-answer-for-wordle-606-february-15/ar-AA179ZBN)
+
+
+> Wordle, the latest word game from The New York Times, can be both addictive and frustrating. Many of us would love a little assistance getting to the answer. Not cheating -- just a hint or two. To help you out, we're providing tips and clues to solve today's puzzle, Wordle No. 605. Heads up: You'll also find the answer to today's Wordle, in case you just can't bear to break your winning streak. For more on Wordle, check out the best Wordle strategy tips, some ideal starter words and a host of Wordle alternatives.
+
+
+***
+![FIFA reserves at USD 4BN after World Cup; more to come in 2026](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_03_2021_11_02_01_6626839.jpg?width=920&format=jpeg "FIFA reserves at USD 4BN after World Cup; more to come in 2026")
+
+
+[FIFA reserves at USD 4BN after World Cup; more to come in 2026](https://www.devdiscourse.com/article/technology/2355178-fifa-reserves-at-usd-4bn-after-world-cup-more-to-come-in-2026)
+
+
+> FIFA had reserves of almost USD 4 billion after a financially successful 2022 World Cup in Qatar, and booming hospitality and ticket sales at the 2026 tournament in North America are expected to add billions to the income of soccer's international governing body. FIFA detailed ''exceptionally robust'' finances in its 2022 annual report late Tuesday that saw the annual bonus of President Gianni Infantino rise by 620,000 Swiss francs (USD 673,000). His pre-tax base salary and bonus package totalled 3.
+
+
+***
+![A galaxy similar to the early Milky Way was found by the James Webb Space Telescope](https://infostart.hu/images/site/articles/lead/2022/01/1643061498-SBNij9UpP_md.jpg "A galaxy similar to the early Milky Way was found by the James Webb Space Telescope")
+
+
+[A galaxy similar to the early Milky Way was found by the James Webb Space Telescope](https://www.world-today-news.com/a-galaxy-similar-to-the-early-milky-way-was-found-by-the-james-webb-space-telescope/)
+
+
+> The James Webb space telescope has found an ancient galaxy that resembles the Milky Way in many ways, writes the Live Science article based on the 24.hu. The 9-billion-year-old system is called the Star Scattered Galaxy, named after the surrounding dwarf galaxies and star groups, the so-called globular clusters. The system constantly eats nearby objects, so it keeps growing. The galaxy was found in the first color image of the space telescope, the image was presented last July. As it turns out, the Scattered Galaxy is cannibalistic: it swallows nearby objects in a similar way as the young Milky Way might have done.
+
+
+***
+![A Twitter user goes viral for describing the particular struggle with his cat: 'Put the sheet on and…' – Society](https://cope-cdnmed.agilecontent.com/resources/jpg/1/8/1676347311981.jpg "A Twitter user goes viral for describing the particular struggle with his cat: 'Put the sheet on and…' – Society")
+
+
+[A Twitter user goes viral for describing the particular struggle with his cat: 'Put the sheet on and…' – Society](https://www.world-today-news.com/a-twitter-user-goes-viral-for-describing-the-particular-struggle-with-his-cat-put-the-sheet-on-and-society/)
+
+
+> If there's one thing many pet owners do, it's allow them to climb on the bed to sleep with them. Although many people reject this habit, it is true that It is a very common practice in those who have dogs or cats, since sleeping with them gives a very pleasant feeling of peace and security. However, after several scientific and veterinary investigations, specialists came to the conclusion that it is necessary to prevent animals from doing so. But it is not so easy to get it in some cases. Sometimes it is complicated in the case of cats.
+
+
+***
+![The Callisto Protocol received update 1.12 with added HDR option and bug fixes](https://i.playground.ru/e/7ACojRtoQUx53Y9WN9GwKw.png?600xauto "The Callisto Protocol received update 1.12 with added HDR option and bug fixes")
+
+
+[The Callisto Protocol received update 1.12 with added HDR option and bug fixes](https://www.world-today-news.com/the-callisto-protocol-received-update-1-12-with-added-hdr-option-and-bug-fixes/)
+
+
+> Striking Distance Studios has released update 1.12 for The Callisto Protocol on PS4, PS5, PC and Xbox consoles. According to the patch notes, the latest update added new HDR calibration settings. Other than that, the fix also includes performance improvements. Earlier in update 1.05, quality changes and fixes were added. Update 1.06 recently enabled Ray Traced Reflections on Xbox Series X. Unfortunately, players are still reporting a number of bugs and issues. Today's version of The Callisto Protocol 1.
+
+
+***
+![Rachel Weisz Plays Creepy Twins in New Thriller on Prime Video](https://www.cnet.com/a/img/resize/aa8849607a1f9727a37d35d3b9e8e0016db6e70e/hub/2023/02/15/c99ac59c-dd2d-42fd-9259-bda334962ea9/dead-ringers-brighter.jpg?auto=webp&fit=crop&height=630&precrop=2235,1255,x293,y0&width=1200 "Rachel Weisz Plays Creepy Twins in New Thriller on Prime Video")
+
+
+[Rachel Weisz Plays Creepy Twins in New Thriller on Prime Video](https://www.cnet.com/culture/entertainment/rachel-weisz-plays-creepy-twins-in-new-thriller-on-prime-video/)
+
+
+> First look images are out for Dead Ringers, a limited series coming to Prime Video based on David Cronenberg's 1988 psychological thriller. Rachel Weisz plays the double lead roles of Elliot and Beverly Mantle, "twins who share everything: drugs, lovers, and an unapologetic desire to do whatever it takes -- including pushing the boundaries of medical ethics -- in an effort to challenge antiquated practices and bring women's health care to the forefront," per Amazon's press release. Cronenberg's original starred Jeremy Irons in a dual role as identical twin gynecologists Elliot and Beverly Mantle, who specialized in treating fertility problems.
+
+
+***
+![Elon Musk introduces new Twitter CEO; Check out](https://assets.thehansindia.com/h-upload/2023/02/15/1336143-elon-musk.jpg "Elon Musk introduces new Twitter CEO; Check out")
+
+
+[Elon Musk introduces new Twitter CEO; Check out](https://www.thehansindia.com/technology/tech-news/elon-musk-introduces-new-twitter-ceo-check-out-783034)
+
+
+> Elon Musk has finally found a CEO for Twitter . Interestingly, the new CEO of Twitter is not a human but a dog. He is Musk's pet dog, Floki, a Shiba Inu. Twitter's new boss feels his dog Floki is a better CEO than the "other guy", Parag Agrawal. Notably, Musk fired Agarwal as soon as he took over the company in a $44 billion deal. Along with Agrawal, Twitter's legal chief Vijaya Gadde and chief financial officer Nel Segal were also fired. Musk shared a photo of his Shiba Inu dog, Floki, sitting in the CEO's chair.
+
+
+***
+![Indian government issues 'high' risk warning, hackers may steal your banking details](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/15/2572995-google-chrome.png "Indian government issues 'high' risk warning, hackers may steal your banking details")
+
+
+[Indian government issues 'high' risk warning, hackers may steal your banking details](https://www.dnaindia.com/technology/report-indian-government-issues-high-risk-warning-hackers-may-steal-your-banking-details-3023796)
+
+
+> Google Chrome Indian government has issued a ‘high' risk warning for Google Chrome users. If you ignore this problem, you may end up losing all your money in the bank account as hackers may easily steal your sensitive information including banking details, date of birth, address and more. Google Chrome is the most used web browser across the globe and millions of users access the app every minute for their professional or day to day work. As most of the things are moving online, at times we have to provide our sensitive information on the internet and if the browser isn't secure enough, your details end up with a hacker.
+
+
+***
+![Toshiba MG10 20TB version unpacking test: a single disk with super large capacity, meeting the needs of enterprise applications for performance, stability and cost saving at one time!](https://cdn0.techbang.com/system/excerpt_images/103568/original/b5b5eb721dbd2171e9320d7130e5d6c0.jpg?1675786053 "Toshiba MG10 20TB version unpacking test: a single disk with super large capacity, meeting the needs of enterprise applications for performance, stability and cost saving at one time!")
+
+
+[Toshiba MG10 20TB version unpacking test: a single disk with super large capacity, meeting the needs of enterprise applications for performance, stability and cost saving at one time!](https://www.world-today-news.com/toshiba-mg10-20tb-version-unpacking-test-a-single-disk-with-super-large-capacity-meeting-the-needs-of-enterprise-applications-for-performance-stability-and-cost-saving-at-one-time-t-kebang/)
+
+
+> In recent years, although high-capacity solid-state drives have been launched one after another, in the fields of cloud servers, data centers, and enterprise-level storage, mechanical hard drives with large capacity per disk and relatively low unit storage cost will be more satisfying. The choice of actual needs. With the stable development of mechanical hard disk manufacturing technology in recent years, the storage capacity of a single disk of mechanical hard disk has also increased year by year.
+
+
+***
+![DoT Said to Have Directed TRAI to Introduce Strict Service Quality Norms](https://assets.thehansindia.com/h-upload/2023/02/15/1336141-5g-services.jpg "DoT Said to Have Directed TRAI to Introduce Strict Service Quality Norms")
+
+
+[DoT Said to Have Directed TRAI to Introduce Strict Service Quality Norms](https://www.thehansindia.com/technology/tech-news/dot-said-to-have-directed-trai-to-introduce-strict-service-quality-norms-783032)
+
+
+> The Department of Telecommunications has asked sector regulator TRAI to make quality of service norms stricter in order to curb call drops and improve call quality, an official source said on Tuesday. The move comes after the Department of Telecommunications (DoT) collected feedback from the public through an IVRS call around call drop, quality of calls etc. "Quality of service is very important for customer satisfaction and protection of their interests. DoT has requested TRAI for improvement in the present quality of service (QoS) through more stringent parameters," an official said.
+
+
