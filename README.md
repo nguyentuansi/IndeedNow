@@ -28044,3 +28044,977 @@
 > Wednesday February 15 2023 Financial services provider Power Financial Wellness has raised Sh376 million ($3 million) seed funding. FILE PHOTO | POOL Financial services provider Power Financial Wellness has raised Sh376 million ($3 million) seed funding with proceeds set to finance the platform's expansion in Kenya and Zambia. The funding round was led by DOB Equity, Bolt by QED Investors, Quona Capital, Zephyr Acorn and Norrksen Accelerator. Founded in 2020, Power has operations in Kenya and Zambia and has offices in the United States and India.
 
 
+***
+![‘Joker' Sequel Reveals 1st Look At Lady Gaga As Harley Quinn: See Photo](https://hollywoodlife.com/wp-content/uploads/2023/02/lady-gaga-harley-quinn-ss-ftr.jpg?w=384&h=216&crop=1 "‘Joker' Sequel Reveals 1st Look At Lady Gaga As Harley Quinn: See Photo")
+
+
+[‘Joker' Sequel Reveals 1st Look At Lady Gaga As Harley Quinn: See Photo](https://newsakmi.com/news/entertainment/celebrity-news/joker-sequel-reveals-1st-look-at-lady-gaga-as-harley-quinn-see-photo/)
+
+
+> Image Credit: David Fisher/Shutterstock for SAG Awards The director of the upcoming Joker sequel just posted the perfect Valentine's Day gift for fans: a first look at Lady Gaga as The Crime Queen of Gotham City, Harley Quinn! In a photo posted to Todd Phillips ‘ Instagram account [SEE HERE] on February 14, Gaga is seen leaning up against a wall as she cradles Joaquin Phoenix ‘s face in her own. In the close-up screen capture, her blonde hair is pulled back as she stares wildly into his eyes.
+
+
+***
+!['This Is High Urgency': Musk Reportedly Demanded Twitter Algorithm Change After Super Bowl Tweet Got Fewer Views Than Biden's](https://www.mediaite.com/wp-content/uploads/2023/01/AP22103060393446-scaled.jpg "'This Is High Urgency': Musk Reportedly Demanded Twitter Algorithm Change After Super Bowl Tweet Got Fewer Views Than Biden's")
+
+
+['This Is High Urgency': Musk Reportedly Demanded Twitter Algorithm Change After Super Bowl Tweet Got Fewer Views Than Biden's](https://www.mediaite.com/tech/this-is-high-urgency-musk-reportedly-demanded-twitter-algorithm-change-after-super-bowl-tweet-got-fewer-views-than-bidens/)
+
+
+> Patrick Pleul/Pool Photo via AP, File Many Twitter users are noticing more of Elon Musk's tweets and replies in the default 'For You' feed on the platform. As The Verge noted on Monday, the social media platform appeared to change its algorithm to show more tweets from Musk, whether users are following him or not. Now we know why. According to a report published by the tech site Platformer, Twitter's CEO demanded engineers rejigger the algorithm to surface his tweets in the 'For You' section.
+
+
+***
+![SandboxAQ, a startup spun out of Alphabet that is developing post-quantum cryptography and simulation software for drug and material development, raised $500M (Jane Lanhee Lee/Reuters)](http://www.techmeme.com/230214/i36.jpg "SandboxAQ, a startup spun out of Alphabet that is developing post-quantum cryptography and simulation software for drug and material development, raised $500M (Jane Lanhee Lee/Reuters)")
+
+
+[SandboxAQ, a startup spun out of Alphabet that is developing post-quantum cryptography and simulation software for drug and material development, raised $500M (Jane Lanhee Lee/Reuters)](https://newsakmi.com/news/tech-news/sandboxaq-a-startup-spun-out-of-alphabet-that-is-developing-post-quantum-cryptography-and-simulation-software-for-drug-and-material-development-raised-500m-jane-lanhee-lee-reuters/)
+
+
+> Home / News / Tech / SandboxAQ, a startup spun out of Alphabet that is developing post-quantum cryptography and simulation software for drug and material development, raised $500M (Jane Lanhee Lee/Reuters) Tech Sierra Mitchell Send an email 2 hours ago Less than a minute
+
+
+***
+![Sources: Twitter's engineers built a system to boost Musk's tweets over everyone else's after Musk complained Biden's Super Bowl tweet performed better than his (Platformer)](http://www.techmeme.com/230214/i35.jpg "Sources: Twitter's engineers built a system to boost Musk's tweets over everyone else's after Musk complained Biden's Super Bowl tweet performed better than his (Platformer)")
+
+
+[Sources: Twitter's engineers built a system to boost Musk's tweets over everyone else's after Musk complained Biden's Super Bowl tweet performed better than his (Platformer)](https://newsakmi.com/news/tech-news/sources-twitters-engineers-built-a-system-to-boost-musks-tweets-over-everyone-elses-after-musk-complained-bidens-super-bowl-tweet-performed-better-than-his-platformer/)
+
+
+> Home / News / Tech / Sources: Twitter's engineers built a system to boost Musk's tweets over everyone else's after Musk complained Biden's Super Bowl tweet performed better than his (Platformer) Tech Sierra Mitchell Send an email 3 hours ago Less than a minute
+
+
+***
+![What Were Europe's Top Airports For Freight Traffic Last Year?](https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2020/11/krattenachtertransporttrekkervoortransportgroot-2-scaled.jpg "What Were Europe's Top Airports For Freight Traffic Last Year?")
+
+
+[What Were Europe's Top Airports For Freight Traffic Last Year?](https://newsakmi.com/travel-news/what-were-europes-top-airports-for-freight-traffic-last-year/)
+
+
+> Although air cargo boomed during the initial pandemic period, last year saw the supply of air cargo worldwide significantly declining from its sudden peak. In Europe, the depreciation between the previous year's levels and 2021's was approximately 5%, as the region suffered a direct result of the war in Ukraine and ongoing disruptions to the supply chain. As expected with the decline in air cargo traffic, several airports across the European region suffered severe contractions in their freight volumes, although a small handful, somewhat unexpectedly, saw significant improvements.
+
+
+***
+![Expel Tackles Cloud Threats With MDR for Kubernetes](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg "Expel Tackles Cloud Threats With MDR for Kubernetes")
+
+
+[Expel Tackles Cloud Threats With MDR for Kubernetes](https://newsakmi.com/news/tech-news/cyber-security/expel-tackles-cloud-threats-with-mdr-for-kubernetes/)
+
+
+> Expel unveiled its Managed Detection and Response for Kubernetes offering this week. With Expel MDR for Kubernetes, security teams can quickly detect and respond to security risks in their Kubernetes environments without slowing down the DevOps teams. Kubernetes is an open source orchestration system that relies on containers to automate the deployment, scaling, and management of applications in cloud environments. The overall container application market is expected to grow to $12 billion by 2028, with Kubernetes driving the majority of spending, according to KBV Research.
+
+
+***
+![Priscilla Presley Slams Bam Margera After He Claims She Gifted Him Elvis' Ring & Robe](https://hollywoodlife.com/wp-content/uploads/2023/02/Priscilla-Presley-slams-bam-margera-ftr.jpg?w=384&h=216&crop=1 "Priscilla Presley Slams Bam Margera After He Claims She Gifted Him Elvis' Ring & Robe")
+
+
+[Priscilla Presley Slams Bam Margera After He Claims She Gifted Him Elvis' Ring & Robe](https://newsakmi.com/news/entertainment/celebrity-news/priscilla-presley-slams-bam-margera-after-he-claims-she-gifted-him-elvis-ring-robe/)
+
+
+> Image Credit: Everett Collection Priscilla Presley , 77, is denying Bam Margera ‘s recent claims that she gifted him Elvis Presley ‘s ring and robe, in a new statement. The former wife of the late singer spoke to TMZ about the former Jackass star publicly saying she gave him the iconic items during a hangout , and said she feels betrayed by his lies. She also feels he betrayed her son, Navarone Garcia . Priscilla claimed that their hangout, which Bam shared Instagram photos and videos of last week, happened after Navarone asked her to have a 'new friend' over for a visit.
+
+
+***
+![ASUS ProArt Studiobook 16 3D OLED Brings Back 3D Displays](https://www.lowyat.net/wp-content/uploads/2023/02/ASUS-ProArt-Studiobook-16-3D-OLED.jpg "ASUS ProArt Studiobook 16 3D OLED Brings Back 3D Displays")
+
+
+[ASUS ProArt Studiobook 16 3D OLED Brings Back 3D Displays](https://www.lowyat.net/2023/294240/asus-proart-studiobook-16-3d-oled-brings-back-3d-displays/)
+
+
+> One of the biggest items that ASUS unveiled back in CES 2023 was the ProArt Studiobook 16 3D OLED. It looks to be the one laptop that packs all the new tech that the company has to offer across its many lines of laptops, including a unique trick of its own – a glasses-free 3D OLED screen. As the company explains it, the ASUS ProArt Studiobook 16 3D OLED uses a 3D lenticular lens layered on top of the display. This allows it to beam light from the display into directions beyond dead ahead. This is the tech that is used to essentially beam two different images to each eye of the user, creating its 3D image.
+
+
+***
+![Alanah Nichole Davis, Author at Technical.ly](https://technical.ly/wp-content/uploads/2023/02/Baltimore-skyline-at-dusk-for-Valentines-Day-2023.jpg "Alanah Nichole Davis, Author at Technical.ly")
+
+
+[Alanah Nichole Davis, Author at Technical.ly](https://technical.ly/author/anichole)
+
+
+> Alanah Nichole Davis Alanah Nichole Davis M.A. is the lead Baltimore reporter for Technical.ly. She attended Maryland Institute College of Art where she obtained her Masters of Art in Social Design. Previously, she had many years experience in content creation, community building and event organizing as a consultant for hundreds of nonprofits and entrepreneurs in Baltimore City. She's an award winning writer whose work can be seen in Maryland Matters, Baltimore Magazine, Baltimore Banner, Salon, BmoreArt and more.
+
+
+***
+![43% Of Indians Believe Aliens Will Visit Earth In 2023](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/2023-02-14_10-54-35.jpg?itok=2oPBbReY "43% Of Indians Believe Aliens Will Visit Earth In 2023")
+
+
+[43% Of Indians Believe Aliens Will Visit Earth In 2023](https://www.zerohedge.com/technology/43-indians-believe-aliens-will-visit-earth-2023)
+
+
+> When news of the  U.S. military  downing three unidentified flying objects in as many days broke on the weekend, the internet was of course having a field day. Social media, a place rife with conspiracy theories on the best of days, was full of speculation about what was really going on in the United States. As Statista's Felix Richter reports, the fact that General Glen VanHerck, commander of U.S. Northern Command and the North American Aerospace Defense Command (NORAD), refused to 'rule out anything' when asked if extraterrestrials could be involved in the latest incidents didn't exactly help stifle the budding alien hysteria .
+
+
+***
+![Netflix's Pluto anime updates Osamu Tezuka for a new era](https://cdn.vox-cdn.com/thumbor/G0h15bKd9LhOG1NMmKJ_flrlzp0=/0x0:2472x1294/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24433519/Screen_Shot_2023_02_14_at_5.33.10_PM.png "Netflix's Pluto anime updates Osamu Tezuka for a new era")
+
+
+[Netflix's Pluto anime updates Osamu Tezuka for a new era](https://newsakmi.com/news/tech-news/video-games/netflixs-pluto-anime-updates-osamu-tezuka-for-a-new-era/)
+
+
+> Pioneering writer and artist Osamu Tezuka, often called 'the godfather of manga,' is widely credited with helping give Japanese comics and animation their distinctive look and visual language. But he inspired generations of creators in highly specific ways as well as general industry-wide ones. The manga series Pluto , serialized from 2003 to 2009, is one example — based on a story arc from Tezuka's signature Astro Boy manga series, Pluto was an award-winner and bestseller, a series that re-imagined Tezuka's mid-1960s 'Greatest Robot on Earth' story arc for a new generation, as a cyber-noir story about a future detective chasing down a string of murders that might have been committed by a robot.
+
+
+***
+![Descartes Systems Group, a Canada-based logistics and supply chain software provider, acquires US-based logistics automation provider GroundCloud for ~$138M (Charlize Alcaraz/BetaKit)](http://www.techmeme.com/230214/i32.jpg "Descartes Systems Group, a Canada-based logistics and supply chain software provider, acquires US-based logistics automation provider GroundCloud for ~$138M (Charlize Alcaraz/BetaKit)")
+
+
+[Descartes Systems Group, a Canada-based logistics and supply chain software provider, acquires US-based logistics automation provider GroundCloud for ~$138M (Charlize Alcaraz/BetaKit)](https://newsakmi.com/news/tech-news/descartes-systems-group-a-canada-based-logistics-and-supply-chain-software-provider-acquires-us-based-logistics-automation-provider-groundcloud-for-138m-charlize-alcaraz-betakit/)
+
+
+> Home / News / Tech / Descartes Systems Group, a Canada-based logistics and supply chain software provider, acquires US-based logistics automation provider GroundCloud for ~$138M (Charlize Alcaraz/BetaKit) Tech Sierra Mitchell Send an email 4 hours ago Less than a minute
+
+
+***
+![Musk: 'Elon Musk forced algorithm change to help boost his tweets'](https://static.toiimg.com/thumb/msid-97934211,width-1070,height-580,imgsize-57270,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Musk: 'Elon Musk forced algorithm change to help boost his tweets'")
+
+
+[Musk: 'Elon Musk forced algorithm change to help boost his tweets'](https://timesofindia.indiatimes.com/gadgets-news/elon-musk-forced-algorithm-change-to-help-boost-his-tweets/articleshow/97934093.cms)
+
+
+> FOLLOW US ON SOCIAL MEDIA Facebook Twitter Instagram KOO APP YOUTUBE
+
+
+***
+![MarioGPT Uses AI To Generate Endless Super Mario Levels For Free](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17uGyE.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "MarioGPT Uses AI To Generate Endless Super Mario Levels For Free")
+
+
+[MarioGPT Uses AI To Generate Endless Super Mario Levels For Free](http://www.msn.com/en-us/news/technology/mariogpt-uses-ai-to-generate-endless-super-mario-levels-for-free/ar-AA17ust5)
+
+
+> Mario has featured in over 200 games since first appearing in 1981's "Donkey Kong." Some of those games, like "Super Mario Maker" and "Super Mario Maker 2," allow players to create their own challenging levels for themselves, their friends, and other players online. But despite the vast amount of Mario-based content in the wild, there are probably people out there who just can't get enough of the diminutive Italian plumber's princess-saving antics. The good is, it's possible to get an infinite number of Mario levels created just for you without putting in too much effort.
+
+
+***
+![Pet Trading Card Simulator Codes Wiki [EVENT] (February 2023)](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17uF86.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Pet Trading Card Simulator Codes Wiki [EVENT] (February 2023)")
+
+
+[Pet Trading Card Simulator Codes Wiki [EVENT] (February 2023)](http://www.msn.com/en-us/news/technology/pet-trading-card-simulator-codes-wiki-event-february-2023/ar-AA17uAdZ)
+
+
+> Roblox Pet Trading Card Simulator is an experience developed by Sauri Studios for the platform. it's a clicker game based on trading card games, where you can buy coin booster packs, collect awesome pet cards, send them to an album, and gain rewards for having the biggest collection in the world! Load Error If you're looking for freebies then you can find them with our Pet Trading Card Simulator codes list. If you aren't sure how to redeem in Pet Trading Card Simulator, you can find out how below in the FAQ! Make sure to favorite this page by pressing CTRL + D on your keyboard or use the Add to Bookmark button on mobile.
+
+
+***
+![Woman, 77, pulled from rubble of Turkey earthquake after 212 hours](https://iknowallnews.com/wp-content/uploads/2023/02/Woman-77-pulled-from-rubble-of-Turkey-earthquake-after-212-hours.jpg "Woman, 77, pulled from rubble of Turkey earthquake after 212 hours")
+
+
+[Woman, 77, pulled from rubble of Turkey earthquake after 212 hours](https://iknowallnews.com/world-news/woman-77-pulled-from-rubble-of-turkey-earthquake-after-212-hours/)
+
+
+> Fatma Gungor, 77, was freed from rubble in Adiyaman province after 212 hours  Syrian Seher Ghanam, 15, rescued from collapsed building in Hatay, Turkey READ MORE: Race against time to save three schoolgirl sisters in Turkey A 77-year-old woman pulled from the rubble of a collapsed building 212 hours after two huge earthquakes devastated Turkey and Syria was among the miracle rescues made yesterday. Fatma Gungor was pulled out from under the rubble of a collapsed building in Adiyaman province, Turkey after being trapped for nearly nine days.
+
+
+***
+![Splatoon 3 videos give a peak at music recoding sessions](https://gonintendo.com/attachments/image/23268/file/medium-d6db93c9b9d6779e1d3a750641adbf4c.jpg "Splatoon 3 videos give a peak at music recoding sessions")
+
+
+[Splatoon 3 videos give a peak at music recoding sessions](https://gonintendo.com/contents/16263-splatoon-3-videos-give-a-peak-at-music-recoding-sessions)
+
+
+> Everyone familiar with the Splatoon series knows how important music is to the experience. The soundtrack to Splatoon creates a whole atmosphere and vibe for the games, and Splatoon 3 is no different. To celebrate the soundtrack to Splatoon 3, Nintendo has shared a behind-the-scenes video showcasing a recording session for one of the game's tracks. The video above shows off the recording of Clickbait, which is performed by C-Side in the Splatoon 3 universe. modal#open commentUpvoteInfoModal.
+
+
+***
+![Why Cargo Is a Bad Idea](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Why Cargo Is a Bad Idea")
+
+
+[Why Cargo Is a Bad Idea](https://www.reddit.com/r/programming/comments/112nu2x/why_cargo_is_a_bad_idea)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Brightpick launches ‘world's first' commercially-available autonomous mobile picking robot](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/brightpick-autopicker-a.png "Brightpick launches ‘world's first' commercially-available autonomous mobile picking robot")
+
+
+[Brightpick launches ‘world's first' commercially-available autonomous mobile picking robot](https://roboticsandautomationnews.com/2023/02/15/brightpick-launches-worlds-first-commercially-available-autonomous-mobile-picking-robot/60309/)
+
+
+> Brightpick , a provider of warehouse automation solutions for order fulfillment, has launched its Brightpick Autopicker, which the company describes as 'the world's first commercially-available autonomous mobile picking robot for e-commerce and grocery order fulfillment'. Brightpick Autopicker is the only warehouse robot capable of both picking and consolidating orders in the aisles. Like humans with carts, Brightpick Autopickers move around the warehouse, retrieve product storage totes (bins) from shelving, and robotically pick items from those totes to consolidate orders directly in the aisles.
+
+
+***
+![NAND Flash 售價大跌、鎧俠 7 季來首陷虧損，續減產](https://img.technews.tw/wp-content/uploads/2020/12/04100005/Kioxia.jpg "NAND Flash 售價大跌、鎧俠 7 季來首陷虧損，續減產")
+
+
+[NAND Flash 售價大跌、鎧俠 7 季來首陷虧損，續減產](https://finance.technews.tw/2023/02/15/kioxias-first-loss-in-seven-quarters/)
+
+
+> 因 PC、智慧手機需求低迷，拖累 NAND 型快閃記憶體（Flash Memory）出貨量減少、售價大跌，NAND Flash 大廠鎧俠（Kioxia）7 季來首度陷入虧損，且季度別虧損額 3 年半來最大，今後將持續減產。 鎧俠14日公布上季（2022年10-12月） 財報 ：因PC、智慧手機需求低迷，加上資料中心客戶進行庫存調整，導致NAND Flash出貨量減少，供需平衡惡化下、售價大跌，加上受減產影響，拖累合併營收較去年同期大減31%至2,782億日圓；顯示本業獲利情況的合併營益自去年同期的盈餘722億日圓轉為虧損933億日圓，本業為7季來首度陷入虧損、且虧損額創3年半來（2019年4-6月當季以來、虧損989億日圓）新高；顯示最終獲利情況的合併純益也自去年同期的盈餘382億日圓轉為虧損846億日圓，7季來首度陷入虧損、虧損額創3年半來（2019年4-6月當季以來、虧損952億日圓）新高。 （Source： 鎧俠 ） 鎧俠自2022年10月起祭出減產三成（晶圓投入量縮減約三成）的措施。 鎧俠指出，上季NAND Flash出貨量（以記憶容量換算）較前一季（202
+
+
+***
+![Australia will tighten laws to stop leaking of military secrets](https://iknowallnews.com/wp-content/uploads/2019/11/cropped-ser7-32x32.gif "Australia will tighten laws to stop leaking of military secrets")
+
+
+[Australia will tighten laws to stop leaking of military secrets](https://iknowallnews.com/lifestyle/australia-will-tighten-laws-to-stop-leaking-of-military-secrets)
+
+
+> The federal government will develop new laws to ensure it is illegal for current and former Australian Defence Force personnel to provide military secrets to foreign powers such as China. Defence Minister Richard Marles commissioned a review last year from the Australian Federal Police and ASIO after reports emerged that China had approached former Australian and British fighter pilots to provide training to Chinese personnel. Defence Minister Richard Marles. Credit:Alex Ellinghausen Marles said on Wednesday he had received the classified ASIO-AFP report and would soon introduce legislation to ensure foreign governments cannot access Australia's military secrets.
+
+
+***
+![OT Network Security Myths Busted in a Pair of Hacks](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt55563c7920700bad/62605d1147a87d408d38d1ce/oilrefinery_noomcpk_shutterstock.jpg "OT Network Security Myths Busted in a Pair of Hacks")
+
+
+[OT Network Security Myths Busted in a Pair of Hacks](https://newsakmi.com/news/tech-news/cyber-security/ot-network-security-myths-busted-in-a-pair-of-hacks/)
+
+
+> S4x23 — Miami — As IT and operational technology (OT) network lines continue to blur in the rapidly digitalized industrial sector, new vulnerabilities and threats imperil conventional OT security measures that once isolated and guarded physical processes from cyberattacks. Two new separate sets of research released this month underscore real, hidden dangers to physical operations in today's OT networks from wireless devices, cloud-based applications, and nested networks of programmable logic controllers (PLCs) — effectively further dispelling conventional wisdom about the security of network segmentation as well as third-party connections to the network.
+
+
+***
+![The AI chatbot phenomenon is now making waves in China, too](https://images.mktw.net/im-721459/social "The AI chatbot phenomenon is now making waves in China, too")
+
+
+[The AI chatbot phenomenon is now making waves in China, too](https://newsakmi.com/news/finance/stock-market/the-ai-chatbot-phenomenon-is-now-making-waves-in-china-too/)
+
+
+> James Li is happy with his programming job in Beijing. But the offers from other companies seeking his talent to help build AI products are eating away at him. 'AI has been around a while. But I've never seen such a hiring frenzy in my circle of friends and contacts,' he told MarketWatch. ' Companies in China may have trouble pursuing their traditional approach — relying on Western firms to birth novel technologies, after which Chinese companies rapidly build atop those products using China's mass labor, funds and market size — in an area reliant on sensitive information inputs that are out of bounds for Chinese companies.
+
+
+***
+![Xiaomi 13 Lite leaked: it comes with the pill cutout similar to the iPhone 14 Pro!](https://www.knowyourmobile.com/wp-content/uploads/2023/02/Xiaomi-13-Lite.jpg "Xiaomi 13 Lite leaked: it comes with the pill cutout similar to the iPhone 14 Pro!")
+
+
+[Xiaomi 13 Lite leaked: it comes with the pill cutout similar to the iPhone 14 Pro!](https://www.world-today-news.com/xiaomi-13-lite-leaked-it-comes-with-the-pill-cutout-similar-to-the-iphone-14-pro/)
+
+
+> Images of Xiaomi's next smartphone have been leaked; Also, his unboxing video is here. Let's talk about it! Xiaomi previously teased the official launch of Xiaomi 13 Pro on February 26. But it looks like that phone would be joined by the Xiaomi 13 Lite as it has been leaked in all its glory. Xiaomi 13 Lite falls far below in terms of prices in the Xiaomi 13 series. Xiaomi 13 and Xiaomi 13 Pro are the flagships of Xiaomi, while the Lite version should sit in the budget segment like its predecessors.
+
+
+***
+![Video.. A rare sight of sharks near the shores of Yanbu • Al Marsad Newspaper](https://al-marsd.com/almarsd/uploads/images/2023/02/15/thumbs/400x400/59500.jpg "Video.. A rare sight of sharks near the shores of Yanbu • Al Marsad Newspaper")
+
+
+[Video.. A rare sight of sharks near the shores of Yanbu • Al Marsad Newspaper](https://www.world-today-news.com/video-a-rare-sight-of-sharks-near-the-shores-of-yanbu-al-marsad-newspaper/)
+
+
+> Al-Marsad Newspaper: A circulating video clip showed a rare sighting of sharks near the shores of Yanbu. And young men on a fishing boat at sea documented the well-known movements of sharks in the water, as the young men were chanting: 'Oh, cover.' They also expressed their amazement at the scene, while the publisher of the video stated that these sharks are of the type of wolf and are the most dangerous species. He explained that one of the fish was holding a thread that a person had lowered into the sea and kept playing with it in the water.
+
+
+***
+![Cyber Correspondent Joe Tidy track's down Omegle's reclusive creator who declines to talk](https://ichef.bbci.co.uk/news/1024/branded_news/4A44/production/_128621091_p0f2xld7.jpg "Cyber Correspondent Joe Tidy track's down Omegle's reclusive creator who declines to talk")
+
+
+[Cyber Correspondent Joe Tidy track's down Omegle's reclusive creator who declines to talk](https://www.bbc.com/news/av/technology-64631860)
+
+
+> BBC Cyber Correspondent Joe Tidy tracks down the reclusive creator of Omegle, Leif Brooks, hoping to talk about child safety on his website. The website has been cited in dozens of child abuse cases in the last two years. Mr Brooks never gives interviews and didn't answer questions over email so the BBC went to his home in Florida. He declined to talk but sent a statement saying that users of Omegle were "solely responsible for their behaviour" while using his website but that the site take user safety "extremely seriously".
+
+
+***
+![Omegle: I'm suing the website that matched me with my abuser](https://ichef.bbci.co.uk/news/1024/branded_news/17EDC/production/_128621089_p0f2x885.png "Omegle: I'm suing the website that matched me with my abuser")
+
+
+[Omegle: I'm suing the website that matched me with my abuser](https://www.bbc.com/news/av/technology-64631858)
+
+
+> As a young girl, Alice (not her real name) logged on to the popular live video chat website, Omegle, and was randomly paired with a paedophile, who coerced her into becoming his digital sex slave. This video contains disturbing content. From his family home in Canada, he forced the American girl to send him explicit images and videos of herself for three years. He is now being bars but Alice is suing Omegle in a landmark case that could pave the way for many more lawsuits against other social platforms.
+
+
+***
+![The most accurate details about the third season of Overwatch 2 are social media talks](https://www.matnnews.com/UploadCache/libfiles/9/8/600x338o/277.jpg "The most accurate details about the third season of Overwatch 2 are social media talks")
+
+
+[The most accurate details about the third season of Overwatch 2 are social media talks](https://www.world-today-news.com/the-most-accurate-details-about-the-third-season-of-overwatch-2-are-social-media-talks/)
+
+
+> Overwatch Season 3 has been trending on social media for the past few hours. Since Overwatch 2 was released for free on October 4 of last year, it has been met with mixed opinions, between those who enjoy it and praise that it has become free, and those who see that issuing the same game with some modifications and calling it a second part is nothing but a big joke, and to keep up with the style of service games currently. As the third season comes with the character of Asian mythology since the game began to include characters from (Japan – Korea – China), and therefore the legendary outfit in the last level of the battle pass is an outfit for Kiriko, inspired by Japanese mythology entirely.
+
+
+***
+[Singapore Budget 2023 insights and analysis: Wolters Kluwer shares market-first reports highlighting key provisions](http://www.businesswire.com/news/home/20230215005337/en/Singapore-Budget-2023-insights-and-analysis-Wolters-Kluwer-shares-market-first-reports-highlighting-key-provisions/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SINGAPORE--(BUSINESS WIRE)-- #CPA--Wolters Kluwer, a global leader in professional information, software solutions and services, today provided tax and HR professionals with access to two comprehensive reports. These analyse and highlight the key economic tax and employment reforms announced by Deputy Prime Minister and Minister for Finance Lawrence Wong on Feb. 14 in the 2023 Singapore Budget which focuses on the country's efforts to build a resilient nation post-COVID, while emphasising the im
+
+
+***
+![Technology Provider Jacobi delivers enhanced digital tooling to LGIM](https://mma.prnasia.com/media2/1899562/Logo.jpg?p=medium600 "Technology Provider Jacobi delivers enhanced digital tooling to LGIM")
+
+
+[Technology Provider Jacobi delivers enhanced digital tooling to LGIM](https://www.prnasia.com/story/archive/4012562_AE12562_0)
+
+
+> BRISBANE, Australia , Feb. 15, 2023 /PRNewswire/ -- Jacobi Strategies (Jacobi) has been selected to enhance the analytics and digital tools provided to Legal & General Investment Management's (LGIM) delegated solutions clients. Jacobi will deliver on-demand and highly-detailed analytics on portfolios enabling LGIM to integrate their own models, data and intellectual property in a private deployment of the Jacobi software. Jacobi's technology will complement a mix of LGIM's in-house systems.  Tony Mackenzie , Chief Executive Officer at Jacobi , says: "We are excited to be partnering with LGIM - the UK's largest asset manager with a rich heritage in investment management.
+
+
+***
+![DJI Mini 2 SE does not require a drone card](https://obj.fotosidan.se/obj/docpart/bf/bf94d066e7cea24a50101ffadc346d1e.jpg "DJI Mini 2 SE does not require a drone card")
+
+
+[DJI Mini 2 SE does not require a drone card](https://www.world-today-news.com/dji-mini-2-se-does-not-require-a-drone-card/)
+
+
+> Gadget news DJI has launched an updated version of the Mini 2. DJI Mini 2 SE weighs only 249 grams, which means that you do not need to have a drone license from the Swedish Transport Agency to drive it. Like the Mini 2, the new SE version has a camera with a 1/2.3-inch 12-megapixel sensor and 4K/30p video. SE stands for 'Second Edition' and means that it is a minor update of an existing model. The DJI Mini 2 SE can fly in wind speeds up to 10.7 meters per second (about 38 km/h). The Wi-Fi device is capable of sending video at a distance of up to 10 kilometers.
+
+
+***
+![Step-by-Step Guide to Installing ArgoCD on a KinD Kubernetes Cluster](https://miro.medium.com/max/728/0*LbYV_ijj_7nL82OY "Step-by-Step Guide to Installing ArgoCD on a KinD Kubernetes Cluster")
+
+
+[Step-by-Step Guide to Installing ArgoCD on a KinD Kubernetes Cluster](https://devenes.medium.com/step-by-step-guide-to-installing-argocd-on-a-kind-kubernetes-cluster-4bdfd0967b68)
+
+
+> ArgoCD is a highly regarded open-source continuous delivery tool for Kubernetes that automates deployment workflows, provides auditing capabilities, and enables rollbacks. By utilizing ArgoCD, DevOps teams can streamline their Kubernetes deployment processes and improve their overall efficiency. Ravie Lakshmanan, 2022 One of the primary benefits of ArgoCD is its automation capabilities, which can greatly reduce the time and effort required to manage Kubernetes deployments. With its declarative approach, ArgoCD allows for rapid and efficient rollouts of Kubernetes applications with minimal manual intervention.
+
+
+***
+![Hogwarts Legacy now works better on PC and Xbox Series X](https://ixbt.online/gametech/covers/2023/02/14/nova-filepond-RKDxsM.jpg "Hogwarts Legacy now works better on PC and Xbox Series X")
+
+
+[Hogwarts Legacy now works better on PC and Xbox Series X](https://www.world-today-news.com/hogwarts-legacy-now-works-better-on-pc-and-xbox-series-xs-but-not-on-ps5/)
+
+
+> Sony console update has been pushed back to the end of the week due to some 'unforeseen issues' Hogwarts Legacy received its first post-release patch that improved game performance and fixed some bugs on PC and Xbox Series X|S consoles. Owners of the PlayStation 5 version will have to wait until the end of the week for a patch. Why the patch is delayed on the Sony console did not specify, limiting itself to a simple ' due to some unforeseen issues ». Avalanche studio PR manager Chandler Wood also noted that the update will fix the Collector's Edition trophy on PS5.
+
+
+***
+![PSA: Dropbox for macOS will no longer provide support for external drives](https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/dropbox-external.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "PSA: Dropbox for macOS will no longer provide support for external drives")
+
+
+[PSA: Dropbox for macOS will no longer provide support for external drives](https://9to5mac.com/2023/02/14/dropbox-macos-external-drives/)
+
+
+> Mac users who also use have been experiencing some issues recently. That's because Apple killed an old extension used by cloud services with macOS Monterey 12.3 and replaced it with a new API. is finally working on a new version of its macOS app that works with this API, but it comes with a downside. Users will no longer be able to store their folder on external disks. macOS Monterey 12.3 was released in March 2022 . But even before the update, had been warning its users that the macOS app would lose some of its functionality due to the latest changes made to Apple's operating system.
+
+
+***
+![Vietnam's Earned Wage Access Firm GIMO Closes US$5.1 Million Series A](https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/02/Vietnams-Earned-Wage-Access-Firm-GIMO-Closes-US5.1-Million-Series-A.png?x64868 "Vietnam's Earned Wage Access Firm GIMO Closes US$5.1 Million Series A")
+
+
+[Vietnam's Earned Wage Access Firm GIMO Closes US$5.1 Million Series A](https://fintechnews.sg/69776/vietnam/vietnams-earned-wage-access-firm-gimo-closes-us5-1-million-series-a/)
+
+
+> Vietnam-based earned wage access startup GIMO raised US$5.1 million in the first close of its Series A funding round led by TNB Aura. The round was joined by returning investors Integra Partners, Resolution Ventures, Blauwpark Partners, ThinkZone Ventures, and Y Combinator. In 2021, the startup secured a US$1.9 million in a seed extension round and is currently in the process of raising debt capital. GIMO provides on demand-payroll services for blue collar workers and reported a 24x year-on-year revenue growth and an 11x year-on-year transaction volume increase.
+
+
+***
+![A quarter of Wi-Fi networks around Olympic venues in Rio are unsecure](https://techmoran.com/wp-content/uploads/2016/08/89821805_89820834.jpg "A quarter of Wi-Fi networks around Olympic venues in Rio are unsecure")
+
+
+[A quarter of Wi-Fi networks around Olympic venues in Rio are unsecure](https://techmoran.com/2016/08/01/a-quarter-of-wi-fi-networks-around-olympic-venues-in-rio-are-unsecure/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![Tom Brady Shares Message on First Valentine's Day Since Divorce: "Love Is Not a Transaction"](https://iknowallnews.com/wp-content/uploads/2023/02/Tom-Brady-Shares-Message-on-First-Valentine039s-Day-Since-Divorce-quotLove-Is-Not-a-Transactionquot.jpg "Tom Brady Shares Message on First Valentine's Day Since Divorce: "Love Is Not a Transaction"")
+
+
+[Tom Brady Shares Message on First Valentine's Day Since Divorce: "Love Is Not a Transaction"](https://iknowallnews.com/celebrities/tom-brady-shares-message-on-first-valentines-day-since-divorce-love-is-not-a-transaction/)
+
+
+> Home » Celebrities » Tom Brady Shares Message on First Valentine's Day Since Divorce: "Love Is Not a Transaction" Image Source: Getty / Gilbert Flores / Variety Tom Brady had love on the brain this Valentine's Day. On Feb. 14, the retired quarterback marked the holiday by sharing an unexpected quote to his Instagram Stories. 'Love is not a transaction. It is a certain exuberance and sweetness of your emotion,' read the quote, attributed to Indian spiritual leader Sadhguru. The words were set against a pale backdrop adorned with watercolor hearts in various shades of pink and red.
+
+
+***
+![Xiaomi 12 Lite vs Galaxy A73: which premium mid-range is the best option?](https://t2.tudocdn.net/657272?w=1920 "Xiaomi 12 Lite vs Galaxy A73: which premium mid-range is the best option?")
+
+
+[Xiaomi 12 Lite vs Galaxy A73: which premium mid-range is the best option?](https://www.world-today-news.com/xiaomi-12-lite-vs-galaxy-a73-which-premium-mid-range-is-the-best-option-comparative/)
+
+
+> Both the Chinese and the Korean come with an AMOLED-type screen, which excels at the level of brightness for viewing outside the home. They are also similar in the presence of Full HD+ resolution, so as not to disappoint in image definition, and in the 120 Hz refresh rate, which provides high fluidity in games and system animations. Although the Galaxy has the largest display, it is the Xiaomi that delivers the best frontal use, thanks to the smaller edges. The 12 Lite still has the differentials of 12-bit support, which allows it to reproduce 68 billion different color tones, and the 240 Hz touch sensor, for lower latency.
+
+
+***
+![Nothing CEO Carl Pei reviews the OnePlus 11, dislikes the Oppo-fied OxygenOS](https://soyacincau.com/wp-content/uploads/2023/02/230215-carl-pei-oneplus-11.jpeg "Nothing CEO Carl Pei reviews the OnePlus 11, dislikes the Oppo-fied OxygenOS")
+
+
+[Nothing CEO Carl Pei reviews the OnePlus 11, dislikes the Oppo-fied OxygenOS](https://soyacincau.com/2023/02/15/nothing-ceo-carl-pei-reviews-the-oneplus-11-dislikes-the-oppo-fied-oxygenos/)
+
+
+> Nothing created quite the splash when it debuted a couple of years ago with its sleek design and hyped up marketing, but you probably first heard of its founder Carl Pei due to his work with OnePlus. In fact, you might've also better known him as the co-founder of OnePlus. Pei did leave OnePlus in 2020, and since then he would go on to form Nothing, the tech company that he's currently the CEO of. Nothing's YouTube channel meanwhile does a lot more than just post up marketing material for their products; Pei previously was on there reviewing the iPhone 14.
+
+
+***
+![Xbox bets on nostalgia with 'GoldenEye 007', the historic James Bond game](https://www.rionegro.com.ar/wp-content/uploads/2023/02/95b38ccf-fec8-4e8a-ac0e-4aae687b14d5.jpg?w=1200&h=630&crop=1 "Xbox bets on nostalgia with 'GoldenEye 007', the historic James Bond game")
+
+
+[Xbox bets on nostalgia with 'GoldenEye 007', the historic James Bond game](https://www.world-today-news.com/xbox-bets-on-nostalgia-with-goldeneye-007-the-historic-james-bond-game/)
+
+
+> In another era, the world of video games seemed to belong almost exclusively to children. However, the debate is old and in recent years it is increasingly common to see gamers of all ages. And that is also noticed by the companies, which are more frequently aiming their titles at a broad audience and, on some occasions, avid for a somewhat nostalgic remake. For this audience, Xbox has a plan. And it must be said, he executes it perfectly. This is the 'Rare Replay' collection, which brings titles from the Rare company, a total reference in the gamer world of years past, and remasters them in 4K.
+
+
+***
+![Build Your Own Fast, Persistent KV Store](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Build Your Own Fast, Persistent KV Store")
+
+
+[Build Your Own Fast, Persistent KV Store](https://www.reddit.com/r/programming/comments/112mopm/build_your_own_fast_persistent_kv_store)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Loverwatch: Secret Ending, Sequel Chances and More](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17ujfj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Loverwatch: Secret Ending, Sequel Chances and More")
+
+
+[Loverwatch: Secret Ending, Sequel Chances and More](http://www.msn.com/en-us/news/technology/loverwatch-secret-ending-sequel-chances-and-more/ar-AA17uaii)
+
+
+> Overwatch 2 promised players some unexpected things in season 3, and the biggest and best surprise has been the web-based dating sim Loverwatch. In the game, you're guided by Hanzo in cupid form as he helps you navigate your way to Genji's or Mercy's heart. The path will take you to Overwatch locales like Midtown and Circuit Royale as you spend time with your date and get to know them better. It's a hilarious ride filled with Overwatch in-jokes and a surprising amount of heart. You can play Loverwatch by going to loverwatch.
+
+
+***
+[KYC the key challenge for fintechs: TDCX report](http://www.businesswire.com/news/home/20230214005430/en/KYC-the-key-challenge-for-fintechs-TDCX-report/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SINGAPORE--(BUSINESS WIRE)--Almost one in two (49 per cent) fintechs have identified KYC or Know-Your-Customer checks as their top challenge, according to the Rethinking Fintech Customer Experiences report. The report was launched by TDCX, (NYSE: TDCX), an award-winning digital customer experience (CX) solutions provider for technology and blue-chip companies. The KYC challenge affects even the most established fintechs, with nearly four in 10 (37 per cent) mature fintechs echoing the sentiment
+
+
+***
+![Hogwarts Legacy releases performance patch](https://virtus-img.cdnvideo.ru/images/og-jpg/plain/75/75cf2124-ccff-4930-b829-46f22600eb0e.jpg "Hogwarts Legacy releases performance patch")
+
+
+[Hogwarts Legacy releases performance patch](https://www.world-today-news.com/hogwarts-legacy-releases-performance-patch/)
+
+
+> Avalanche Software has released an update for Hogwarts Legacy, designed to fix a number of bugs and increase the performance of the game. The description of the patch appeared on the official website of the company. The developers fixed errors in the description of items in some localizations, eliminated the causes of crashes, and also fixed saves – now they should work correctly. The authors of the game also optimized the work of shaders and ray tracing. The update is available to users of PC and Xbox Series X consoles – the patch will be released on PlayStation 5 at a later date.
+
+
+***
+![Containerd Kubernetes NVIDIA GPU Containerisation](https://miro.medium.com/max/1200/1*5q2nonUZTqj6XY9x9NRI7Q.png "Containerd Kubernetes NVIDIA GPU Containerisation")
+
+
+[Containerd Kubernetes NVIDIA GPU Containerisation](https://medium.com/@mayzyo/containerd-kubernetes-nvidia-gpu-containerisation-a16c8519af16)
+
+
+> Modify Sources List File To install NVIDIA drivers, you need to add 'contrib' and 'non-free' to apt's sources. Because NVIDIA is not an open-source free software. Open /etc/apt/sources.list: Install driver for GeForce 600 series and newer GPUs (One or the other) If your GPU is not from early 2010s, you should be installing this. In most cases if you are looking to containerise a GPU, you probably don't have a card that old, so you should be able to install the latest driver: Install driver for GeForce 400 series and newer GPUs (One or the other) This is how you install the legacy driver for pre 2010 GPUs: Reboot the machine There is a way around replacing the default nouveau driver with Nvidia driver without reboot.
+
+
+***
+![AI-powered Bing Chat loses its mind when fed Ars Technica article — "It is a hoax that has been created by someone who wants to harm me or my service."](https://external-preview.redd.it/XquMuONkwtK-5PJjiqU62yo0RQPD2lCNv0i8wHzrGqY.jpg?auto=webp&v=enabled&s=c367c0b79769e6f7c16b58d1fd3a8bb69d12f834 "AI-powered Bing Chat loses its mind when fed Ars Technica article — "It is a hoax that has been created by someone who wants to harm me or my service."")
+
+
+[AI-powered Bing Chat loses its mind when fed Ars Technica article — "It is a hoax that has been created by someone who wants to harm me or my service."](https://www.reddit.com/r/technology/comments/112mgxh/aipowered_bing_chat_loses_its_mind_when_fed_ars)
+
+
+> AI-powered Bing Chat loses its mind when fed Ars Technica article — "It is a hoax that has been created by someone who wants to harm me or my service."
+
+
+***
+![麥可貝瑞 2022 年底持股增至 9 檔，總額多 13%、Q1 喊賣](https://img.technews.tw/wp-content/uploads/2023/01/12103331/shutterstock_252511228.jpg "麥可貝瑞 2022 年底持股增至 9 檔，總額多 13%、Q1 喊賣")
+
+
+[麥可貝瑞 2022 年底持股增至 9 檔，總額多 13%、Q1 喊賣](https://finance.technews.tw/2023/02/15/big-short-investor-michael-burry-reveals-new-bets-on-alibaba-mgm-and-jd-com/)
+
+
+> 電影《大賣空》（Big Short）主角本尊、2008 年全球金融海嘯爆發前放空不動產抵押證券的知名對沖基金經理人麥可貝瑞（Michael Burry），2022年第四季（10-12 月）買進了阿里巴巴（Alibaba）ADR、京東（JD.com）ADR等股票，之後又於今年第一季推文說「售出」。 Seeking Alpha、 Business Insider 報導，貝瑞旗下Scion Asset Management 14日向美國證券交易委員會（SEC）提交的公告顯示，截至去年Q4底，買進50,000單位阿里巴巴ADR、價值440萬美元，京東ADR也買進75,000單位、價值420萬美元。 受到北京當局對網路巨擘祭出監管措施衝擊，阿里巴巴ADR 2021年、2022年分別重挫48.96%、25.84%，京東ADR也大跌20.28%、17.87%。貝瑞於去年Q4抄底，或許是認為這兩檔個股已經跌過頭。 另一方面，貝瑞Q4底還持有100,000股美高梅國際酒店集團（MGM Resorts International）、150,000股房貸及金融行業技術整合供應商Black Knight, Inc.
+
+
+***
+![Minecraft 1.20 presented. After a long wait, players will receive news related to e.g. with archaeology](https://www.purepc.pl/image/news/2023/02/14_minecraft_1_20_zaprezentowany_po_dlugim_oczekiwaniu_gracze_otrzymaja_nowosci_zwiazane_m_in_z_archeologia_0.jpg "Minecraft 1.20 presented. After a long wait, players will receive news related to e.g. with archaeology")
+
+
+[Minecraft 1.20 presented. After a long wait, players will receive news related to e.g. with archaeology](https://www.world-today-news.com/minecraft-1-20-presented-after-a-long-wait-players-will-receive-news-related-to-e-g-with-archaeology/)
+
+
+> Tomorrow, the game update number 1.20 will be released, which will introduce many new features. The biggest novelty is the addition of archeology to the game, which is a collection of many new items and mechanics that enrich the gameplay. Also those players who expected the addition of a new mob and biome will not be disappointed. As always, in addition to the titular main novelties, several minor novelties will also be added. Almost two years ago, during Minecraft Live 2020, the planned novelties were presented, which were supposed to enrich the cult title with new functionalities related to archaeology, now in the newly released snapshot 1.
+
+
+***
+![Professional cleaner: This is how I clean a kitchen from top to bottom](https://iknowallnews.com/wp-content/uploads/2023/02/Professional-cleaner-This-is-how-I-clean-a-kitchen-from-top-to-bottom.jpg "Professional cleaner: This is how I clean a kitchen from top to bottom")
+
+
+[Professional cleaner: This is how I clean a kitchen from top to bottom](https://iknowallnews.com/lifestyle/professional-cleaner-this-is-how-i-clean-a-kitchen-from-top-to-bottom/)
+
+
+> Home » Lifestyle » Professional cleaner: This is how I clean a kitchen from top to bottom Professional cleaner Kacie shared why she always starts on the stovetop side She swears by buffing baby oil into the sink with a microfibre cloth for shine  A professional cleaner has detailed exactly how she cleans a kitchen from top to bottom, and how she gives her clients' homes the ‘wow factor' with a secret product. Kacie, from Melbourne – who runs The Big Clean Co – said the key with kitchen cleaning is to always start on the side with the stovetop as it's ‘pretty much always the dirtiest'.
+
+
+***
+![Women's World Cup playoffs to be shown on Optus Sport](https://itwire.com/media/k2/items/cache/32d274e63a983dc65050e121460fc9a6_XS.jpg "Women's World Cup playoffs to be shown on Optus Sport")
+
+
+[Women's World Cup playoffs to be shown on Optus Sport](https://itwire.com/entertainment/women-s-world-cup-playoffs-to-be-shown-on-optus-sport.html)
+
+
+> Optus Sport will broadcast the FIFA Women's World Cup 2023 play-off tournament being held in New Zealand from 18 February to 23 February. Ten national teams will play seven matches to secure one of three remaining spots in the tournament proper, which will also be shown live on Optus Sport starting 20 July 2023. The ten teams are Cameroon, Chile, Chinese Taipei, Haiti, Panama, Papua New Guinea, Paraguay, Portugal, Senegal, and Thailand. The first playoff matches – Senegal v Haiti, Cameroon v Thailand, Chinese Taipei v Paraguay, and Papua New Guinea v Panama – are scheduled for this weekend "We are delighted to announce that Optus Sport has secured the FIFA Women's World Cup 2023 Qualifying Intercontinental Play-off tournament being held in New Zealand," said Optus Sport head Howard Rees.
+
+
+***
+![Prototype of the final unreleased 3dfx GPU sells on eBay for $15,000](https://cdn.arstechnica.net/wp-content/uploads/2023/02/voodoo-5-6000-01-760x380.jpeg "Prototype of the final unreleased 3dfx GPU sells on eBay for $15,000")
+
+
+[Prototype of the final unreleased 3dfx GPU sells on eBay for $15,000](https://newsakmi.com/news/tech-news/product-reviews/prototype-of-the-final-unreleased-3dfx-gpu-sells-on-ebay-for-15000/)
+
+
+> The Voodoo 5 6000 GPU, 3dfx's unreleased swan song. The Voodoo 5 6000 would have used four VSA-100 processors, and each of them gets its own fan. A small heatsink is affixed to the back of each VSA-100 GPU. Each GPU has access to 32MB of RAM spread across four 8MB chips, for a total of 128MB of RAM spread across 16 chips. The Voodoo 5 6000 never made it to retail, and any prototypes that escaped were never meant to be sold. Graphics cards cost more than they used to, but it turns out that they can get even  more expensive when they're also a rare collector's item.
+
+
+***
+![Audio-Technica's 60 years of audio technology and exquisite wooden shell design, wireless listening touches from the outside to the inside](https://static.ctwant.com/images/cover/75/238675/lg-ce72c434b8172b8491a211a76d6225b1.png "Audio-Technica's 60 years of audio technology and exquisite wooden shell design, wireless listening touches from the outside to the inside")
+
+
+[Audio-Technica's 60 years of audio technology and exquisite wooden shell design, wireless listening touches from the outside to the inside](https://www.world-today-news.com/audio-technicas-60-years-of-audio-technology-and-exquisite-wooden-shell-design-wireless-listening-touches-from-the-outside-to-the-inside-beautiful/)
+
+
+> Audio-Technica, a major Japanese audio manufacturer, ushered in the 60th anniversary of its founding. On the occasion of the anniversary, it successively launched limited commemorative products for the 60th anniversary, including MC dual dynamic stereo cartridge 'AT-MC2022″ and earmuff headphones ' ATH-W2022″, belt drive vinyl turntable 'AT-LP2022', and Sound Burger wireless portable vinyl turntable 'AT-SB2022' were all launched in Taiwan at the end of last year. Their commemorative unique design and professional sound performance , as soon as the news was released, it attracted the attention of all parties, and achieved good sales results.
+
+
+***
+![PhonePe Bags Another US$100M, Inching Closer to US$1B Fundraise Target](https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/02/PhonePe-Bags-Another-US100M-Inching-Closer-to-US1B-Fundraise-Target.png?x64868 "PhonePe Bags Another US$100M, Inching Closer to US$1B Fundraise Target")
+
+
+[PhonePe Bags Another US$100M, Inching Closer to US$1B Fundraise Target](https://fintechnews.sg/69772/funding/phonepe-bags-another-us100m-inching-closer-to-us1b-fundraise-target/)
+
+
+> Indian digital payments company PhonePe  has raised an additional US$100 million following the recent US$350 million financing round that closed on 19 January 2023. The latest raise from Ribbit Capital, Tiger Global and TVS Capital Funds places PhonePe's pre-money valuation at US$12 billion. PhonePe started its latest fundraise with a target of raising up to US$1 billion in capital following its domicile shift from Singapore to India. PhonePe had to fork out INR 8000 crores (approximately US$18.
+
+
+***
+![GlobalFoundries reports record Q4 revenue, up 14% YoY to $2.1B, net income up 99% YoY to $668M, and full year revenue up 23% YoY to $8.1B; GFS closes up 8.44% (Dan O'Shea/Fierce Electronics)](http://www.techmeme.com/230214/i30.jpg "GlobalFoundries reports record Q4 revenue, up 14% YoY to $2.1B, net income up 99% YoY to $668M, and full year revenue up 23% YoY to $8.1B; GFS closes up 8.44% (Dan O'Shea/Fierce Electronics)")
+
+
+[GlobalFoundries reports record Q4 revenue, up 14% YoY to $2.1B, net income up 99% YoY to $668M, and full year revenue up 23% YoY to $8.1B; GFS closes up 8.44% (Dan O'Shea/Fierce Electronics)](https://newsakmi.com/news/tech-news/globalfoundries-reports-record-q4-revenue-up-14-yoy-to-2-1b-net-income-up-99-yoy-to-668m-and-full-year-revenue-up-23-yoy-to-8-1b-gfs-closes-up-8-44-dan-oshea-fierce-electronics/)
+
+
+> Home / News / Tech / GlobalFoundries reports record Q4 revenue, up 14% YoY to $2.1B, net income up 99% YoY to $668M, and full year revenue up 23% YoY to $8.1B; GFS closes up 8.44% (Dan O'Shea/Fierce Electronics) Tech Sierra Mitchell Send an email 7 hours ago Less than a minute
+
+
+***
+![Hacki: A Hacker News client made with Flutter](https://external-preview.redd.it/5itKnpikJvE6uXznnPkmSud396EzVzw8_q2dndv-d8I.jpg?auto=webp&v=enabled&s=78253e43bf78f72c17bf1ce94d6b4b293920d582 "Hacki: A Hacker News client made with Flutter")
+
+
+[Hacki: A Hacker News client made with Flutter](https://www.reddit.com/r/programming/comments/112m34s/hacki_a_hacker_news_client_made_with_flutter)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Here's How Much You'll Pay to Use Electric Car Charging Stations Around Australia](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/15/electric-car-charging-stations.png?quality=80&resize=1280,720 "Here's How Much You'll Pay to Use Electric Car Charging Stations Around Australia")
+
+
+[Here's How Much You'll Pay to Use Electric Car Charging Stations Around Australia](https://www.gizmodo.com.au/2023/02/electric-car-charging-stations/)
+
+
+> Electric car charging stations are increasing in numbers across Australia, and across two major networks, the price per kWh has gone up. Ampol's AmpCharge network and the Evie EV charging network have bumped up their prices this month. With AmpCharge chargers, which are rolling out at some Ampol service stations, charging now costs 69c per kWh (was 60c), as reported by The Driven . Meanwhile, Evie's 50kW charger prices have gone up to 45c per kWh (was 40c), as confirmed in an email sent to customers on February 7.
+
+
+***
+![Study Finds Use of Methotrexate Can Increase Risk of Skin Cancer – Latest Scientific and Practical Based Pharmacy Info](https://i0.wp.com/farmasetika.com/wp-content/uploads/2023/02/skin-gbfd7ce3ea_640.jpg?fit=640,480&ssl=1 "Study Finds Use of Methotrexate Can Increase Risk of Skin Cancer – Latest Scientific and Practical Based Pharmacy Info")
+
+
+[Study Finds Use of Methotrexate Can Increase Risk of Skin Cancer – Latest Scientific and Practical Based Pharmacy Info](https://www.world-today-news.com/study-finds-use-of-methotrexate-can-increase-risk-of-skin-cancer-latest-scientific-and-practical-based-pharmacy-info/)
+
+
+> Pharmaceutical Magazine – Methotrexate (MTX) can increase a person's risk of basal cell carcinoma (BCC), squamous cell carcinoma of the skin (cSCC), or malignant melanoma of the skin (CMM), according to a study published in the journal Nature. The current findings do not suggest that there is a dose-dependent increase in CMM risk with MTX. Conversely, when the cumulative dose is increased, MTX appears to exacerbate the risk of developing BCC and cSCC, according to the researchers. 'Use of cumulative MTX doses ≥2.
+
+
+***
+![Europe ICE Ban 2035: No More Gas, Diesel Sale in the Next Decade, as Per New EU Law](https://1734811051.rsc.cdn77.org/data/images/full/420978/electric-car-sales-are-bright-spot-amid-industrys-slump.jpg "Europe ICE Ban 2035: No More Gas, Diesel Sale in the Next Decade, as Per New EU Law")
+
+
+[Europe ICE Ban 2035: No More Gas, Diesel Sale in the Next Decade, as Per New EU Law](https://www.techtimes.com/articles/287672/20230214/europe-ice-ban-2035-no-gas-diesel-sale-next-decade.htm)
+
+
+> Isaiah Richard , Tech Times 14 February 2023, 08:02 pm The world is transitioning to electric vehicles at a steady pace. Still, the European Parliament wanted to shake things up and expedite this process to transition to clean energy earlier than the rest of the world. A new law now bans the sale of internal combustion engine cars by 2035, short of 12 years from now.  It means that gas and diesel cars and other fuel sources will no longer be available from dealers and resellers in the European Union, focusing entirely on EVs.
+
+
+***
+![Spike Lee Calls Out Grammys After Beyoncé's Album Of The Year Loss: 'It's Straight-Up Shenanigans'](https://iknowallnews.com/wp-content/uploads/2023/02/Spike-Lee-Calls-Out-Grammys-After-Beyonce8217s-Album-Of-The-Year-Loss-8220It8217s-Straight-Up-Shenanigans8221.jpg "Spike Lee Calls Out Grammys After Beyoncé's Album Of The Year Loss: 'It's Straight-Up Shenanigans'")
+
+
+[Spike Lee Calls Out Grammys After Beyoncé's Album Of The Year Loss: 'It's Straight-Up Shenanigans'](https://iknowallnews.com/celebrities/spike-lee-calls-out-grammys-after-beyonces-album-of-the-year-loss-its-straight-up-shenanigans/)
+
+
+> Home » Celebrities » Spike Lee Calls Out Grammys After Beyoncé's Album Of The Year Loss: 'It's Straight-Up Shenanigans' Spike Lee is weighing in on Beyoncé losing at the Grammys for the top award of the night, Album of the Year. 'I'm not the male president of the Bey Hive, but I love and support Beyoncé. Her album is amazing. I know she's won multiple Grammys, but four times nominated for album of the year and she's lost every time? No disrespect to those artists like Adele or Harry Styles who won.
+
+
+***
+![No club record for Vincent Kompany: Watford ends Burnley's impressive winning streak](https://akamai.vgc.no/v2/images/d987782b-b28e-4021-8327-bf712c40cb19?fit=crop&format=auto&h=1266&w=1900&s=3b4ade095b811b3898a3b756282f76a50c693331 "No club record for Vincent Kompany: Watford ends Burnley's impressive winning streak")
+
+
+[No club record for Vincent Kompany: Watford ends Burnley's impressive winning streak](https://www.world-today-news.com/no-club-record-for-vincent-kompany-watford-ends-burnleys-impressive-winning-streak-the-championship/)
+
+
+> Burnley is the proud leader in The Championship and has racked up victories in recent months. With an 11th league win in a row, coach Vincent Kompany was able to set a club record with Burnley tonight. But Watford (6th in the standings) wanted to put a stop to that. On the half hour mark, Burnley suddenly had to chase after a goal from Brazilian striker Joao Pedro. A first home defeat was in the air for Kompany and co. But in the 5th minute of extra time, Obafemi still gave Burnley the liberating 1-1 equalizer.
+
+
+***
+![Kelsea Ballerini Gets Honest & Open About Divorce with New EP & Short Film](https://iknowallnews.com/wp-content/uploads/2023/02/Kelsea-Ballerini-Gets-Honest-038-Open-About-Divorce-with-New-EP-038-Short-Film.jpg "Kelsea Ballerini Gets Honest & Open About Divorce with New EP & Short Film")
+
+
+[Kelsea Ballerini Gets Honest & Open About Divorce with New EP & Short Film](https://iknowallnews.com/celebrities/kelsea-ballerini-gets-honest-open-about-divorce-with-new-ep-short-film/)
+
+
+> Home » Celebrities » Kelsea Ballerini Gets Honest & Open About Divorce with New EP & Short Film Kelsea Ballerini is opening up about her relationship and divorce from Morgan Evans with her brand new EP and short film Rolling Up the Welcome Mat . The 29-year-old country music star debuted both accompanying projects on Valentine's Day on Tuesday (February 14). 'here's my healing journey. here's my heart. here's my truth. i've never been this open, i've never been this bold, and i've never been this proud of my art.
+
+
+***
+![The Story of a Bankrupt 90s Artist Now Selling Used Clothes, Becomes Famous Again Through TikTok](https://awsimages.detik.net.id/api/wm/2023/02/14/ryu-athit_169.jpeg?wid=54&w=650&v=1&t=jpeg "The Story of a Bankrupt 90s Artist Now Selling Used Clothes, Becomes Famous Again Through TikTok")
+
+
+[The Story of a Bankrupt 90s Artist Now Selling Used Clothes, Becomes Famous Again Through TikTok](https://www.world-today-news.com/the-story-of-a-bankrupt-90s-artist-now-selling-used-clothes-becomes-famous-again-through-tiktok/)
+
+
+> Jakarta – A man named Ryu Athit, who was known as an artist in the 90s, is in the spotlight because of his latest news. No longer living the glamorous life of a celebrity, Ryu now works as a used clothes seller. His current appearance, which contrasts with past portraits, has gone viral on TikTok. While his name is being discussed, Ryu also uses social media to grab the attention of fans. Ryu Athit is a Thai actor who popularly starred in dramas, commercials and photoshoots in the 90s. After decades of disappearing from the entertainment industry, Ryu recently appeared again with his sad story.
+
+
+***
+![Humanforce acquires Wagestream Australia](https://itwire.com/media/k2/items/cache/e1e049660f8ed07a3c2c718e4020f2f5_XS.jpg "Humanforce acquires Wagestream Australia")
+
+
+[Humanforce acquires Wagestream Australia](https://itwire.com/deals/humanforce-acquires-wagestream-australia.html)
+
+
+> Clayton Pyne, Chief Executive Officer of Humanforce Sydney-based global provider of workforce management and payroll solutions, Humanforce, has announced the acquisition of the Australian operations of Wagestream (formerly Earnd), Australia's largest provider of on-demand pay, also known as earned wage access. The acquisition is Humanforce 's second since leading technology-focused private equity firm Accel-KKR bolstered its investment in the business with its second round of funding in May, 2022.
+
+
+***
+![Airbnb reports Q4 revenue up 24% YoY to $1.9B vs. $1.86B est., $319M net income, up from $55M YoY, and says 2022 was its first profitable year; stock is up 9%+ (Levi Sumagaysay/MarketWatch)](http://www.techmeme.com/230214/i29.jpg "Airbnb reports Q4 revenue up 24% YoY to $1.9B vs. $1.86B est., $319M net income, up from $55M YoY, and says 2022 was its first profitable year; stock is up 9%+ (Levi Sumagaysay/MarketWatch)")
+
+
+[Airbnb reports Q4 revenue up 24% YoY to $1.9B vs. $1.86B est., $319M net income, up from $55M YoY, and says 2022 was its first profitable year; stock is up 9%+ (Levi Sumagaysay/MarketWatch)](https://newsakmi.com/news/tech-news/airbnb-reports-q4-revenue-up-24-yoy-to-1-9b-vs-1-86b-est-319m-net-income-up-from-55m-yoy-and-says-2022-was-its-first-profitable-year-stock-is-up-9-levi-sumagaysay-marketwatch/)
+
+
+> Home / News / Tech / Airbnb reports Q4 revenue up 24% YoY to $1.9B vs. $1.86B est., $319M net income, up from $55M YoY, and says 2022 was its first profitable year; stock is up 9%+ (Levi Sumagaysay/MarketWatch) Tech Sierra Mitchell Send an email 7 hours ago Less than a minute
+
+
+***
+![Airbnb shares straight up after fresh earnings announcement – E24](https://akamai.vgc.no/v2/images/d987782b-b28e-4021-8327-bf712c40cb19?fit=crop&format=auto&h=1266&w=1900&s=3b4ade095b811b3898a3b756282f76a50c693331 "Airbnb shares straight up after fresh earnings announcement – E24")
+
+
+[Airbnb shares straight up after fresh earnings announcement – E24](https://www.world-today-news.com/airbnb-shares-straight-up-after-fresh-earnings-announcement-e24/)
+
+
+> The rental company announces higher turnover in the first quarter of the year than what the analysts have included in their calculations. The stock is skyrocketing. Published: Published: Less than 20 minutes ago San Francisco-based rental company Airbnb opened Tuesday after hours on Wall Street the accounting books for the fourth quarter. There, the company signals that it envisages a turnover of between 1.75 and 1.82 billion dollars in the first quarter of the year. It is higher than what the analysts expected, who foresee that Airbnb will have a turnover of 1.
+
+
+***
+![macOS Safari Page Zoom Resets to "Actual Size" automatically](https://images.macrumors.com/social/?t=2380843&v=6 "macOS Safari Page Zoom Resets to "Actual Size" automatically")
+
+
+[macOS Safari Page Zoom Resets to "Actual Size" automatically](https://forums.macrumors.com/threads/macos-safari-page-zoom-resets-to-actual-size-automatically.2380843/)
+
+
+> Not sure how to explain or troubleshoot this, so here's a quick clip. When page zooming (Cmd + or Cmd -), the zoom level resets on its own to default after a couple of seconds. This is Safari 16.3 I've turned off all extensions (1Blocker and VaultWarden); no help. Rebooted... nada. Google-fu turns up nothing. The problem is not present in other browsers, just Safari. For good while now Safari has remembered zoom settings for pages previously visited. Those still work fine and load with the saved zoom setting and do not reset.
+
+
+***
+![Sony's PSVR2 teardowns reveal how the headset tracks the Sense controllers](https://cdn.vox-cdn.com/thumbor/bmmlG_PLGd_iSbURGKUdH40Q8f8=/0x0:1280x720/1200x628/filters:focal(640x360:641x361)/cdn.vox-cdn.com/uploads/chorus_asset/file/24433662/PS_VR2_Sense_Controller_Teardown___First_Look_with_Engineers_Behind_the_Next_Gen_Hardware_____PS_VR2_Sense_Controller_Teardown___First_Look_with_Engineers_Behind_the_Next_Gen_Hardware_2023_2_14_163653.434_720p_streamshot.png "Sony's PSVR2 teardowns reveal how the headset tracks the Sense controllers")
+
+
+[Sony's PSVR2 teardowns reveal how the headset tracks the Sense controllers](https://www.theverge.com/2023/2/14/23600295/sony-playstation-vr2-psvr2-teardowns-headset-sense-controller)
+
+
+> The PlayStation VR2 headset can track the accompanying Sense controllers thanks to a bunch of IR LEDs hidden in the orb-shaped controllers, according to new teardown videos Sony posted Tuesday evening. Under the Sense controller cover, the controller itself has a ring of 14 IR LEDs and three placed elsewhere for tracking, as shown in the Sense teardown video. 'These infrared lights are used by the VR headset's tracking camera to detect the controller's position and orientation,' Sony's Takeshi Igarashi, who also designed the DualSense controller, explains in the video .
+
+
+***
+![Listening to Rihanna's songs jumps 640% after her Super Bowl concert](https://images.bfmtv.com/ETFWOKEVK0v7qH2RGm3yOr-38r8=/0x106:2048x1258/2048x0/images/Rihanna-Super-Bowl-1577259.jpg "Listening to Rihanna's songs jumps 640% after her Super Bowl concert")
+
+
+[Listening to Rihanna's songs jumps 640% after her Super Bowl concert](https://www.world-today-news.com/listening-to-rihannas-songs-jumps-640-after-her-super-bowl-concert/)
+
+
+> The singer, who made her big return to the stage on Sunday for the Super Bowl, met with enormous success in streaming after her performance. After her triumphant return to the Super Bowl concert, Rihanna met with immense success in streaming, where listening to her songs jumped more than 640% in the United States on Spotify, according to a press release from the platform. Listening to the opening song, Bitch Better Have My Money increased by more than 2,600%, while those of Diamonds saw an increase of more than 1,400%, those of Rude Boy of 1.
+
+
+***
+![Yes, Elon Musk created a special system for showing you all his tweets first](https://cdn.vox-cdn.com/thumbor/6RbRw7cjixkbZugZP-Ni2K-Cphg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24145502/226378_Twitter_Risk_Elon_Musk_Spot_WJoel.png "Yes, Elon Musk created a special system for showing you all his tweets first")
+
+
+[Yes, Elon Musk created a special system for showing you all his tweets first](https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter)
+
+
+> This story is based on interviews with people familiar with the events involved and supported by documents obtained by Platformer . At 2:36 on Monday morning, James Musk sent an urgent message to Twitter engineers.  'We are debugging an issue with engagement across the platform,' wrote Musk, a cousin of the Twitter CEO, tagging '@here' in Slack to ensure that anyone online would see it. 'Any people who can make dashboards and write software please can you help solve this problem. This is high urgency.
+
+
+***
+![Finally stepped on the pain point?Qualcomm S7+ Gen 1 pass performance will be comparable to S8+ Gen 1 – Mobile phone brand news](https://timgm.eprice.com.tw/tw/mobile/img/2023-02/13/5771422/eprice_1_3f6d5cf2863073e73cd7bfd850e792c7.png "Finally stepped on the pain point?Qualcomm S7+ Gen 1 pass performance will be comparable to S8+ Gen 1 – Mobile phone brand news")
+
+
+[Finally stepped on the pain point?Qualcomm S7+ Gen 1 pass performance will be comparable to S8+ Gen 1 – Mobile phone brand news](https://www.world-today-news.com/finally-stepped-on-the-pain-pointqualcomm-s7-gen-1-pass-performance-will-be-comparable-to-s8-gen-1-mobile-phone-brand-news/)
+
+
+> Qualcomm, which has always been conservative in the specifications of the 7 series processors, last year S7 Gen 1 was not favored by the market, and was completely suppressed by MediaTek Dimensity 8000 series in the mid-to-high-end market. It seems that Qualcomm has really stepped on the pain point. Qualcomm will give the S7+ Gen 1 a big upgrade, bringing processor performance comparable to the previous generation. Qualcomm S7 Gen 1 and S8+ Gen 1 were launched simultaneously in May last year, but compared to the S8+ Gen 1 reversal, S7 Gen 1 has lost the momentum of Qualcomm 7 series.
+
+
+***
+![Vast Data backs Veeam Data Platform](https://itwire.com/media/k2/items/cache/f56bb8ba6e9b15983e7611930a94ce3d_XS.jpg "Vast Data backs Veeam Data Platform")
+
+
+[Vast Data backs Veeam Data Platform](https://itwire.com/deals/vast-data-backs-veeam-data-platform-103719.html)
+
+
+> Plan B director of product and technology Diego Nievas Data platform company Vast Data is extending its partnership with US-based information technology company Veeam by supporting the Veeam Data Platform. Vast Data said that its Universal Storage is now verified as Veeam Ready Object with Immutability, part of the Veeam Alliance Program . The verification ensures customers have a cyber-hardened platform with best-of-breed safeguards for all their critical data assets. Vast's Universal Storage delivers backups and fast restores with Veeam.
+
+
+***
+![When Gio Driver Fortuner Was Called ‘Enemy of Ukraine' Shocked the Family](https://awsimages.detik.net.id/api/wm/2023/02/13/giorgio-ramadhan-sopir-fortuner-tersangka-kasus-perusakan-mobil-brio-di-jaksel_169.jpeg?wid=54&w=650&v=1&t=jpeg "When Gio Driver Fortuner Was Called ‘Enemy of Ukraine' Shocked the Family")
+
+
+[When Gio Driver Fortuner Was Called ‘Enemy of Ukraine' Shocked the Family](https://www.world-today-news.com/when-gio-driver-fortuner-was-called-enemy-of-ukraine-shocked-the-family/)
+
+
+> Jakarta – An arrogant Fortuner driver in Senopati, South Jakarta, Giorgio Ramadhan (24), busy on social media because it is associated with the news of ‘enemies of Ukraine'. The family was shocked to hear about the issue. The issue was originally circulated through a photo that appeared to be Giorgio Ramadhan on the list of ‘Ukrainian fugitives'. The list was created by a website based in Kyiv, Ukraine. Giorgio was seen wearing Russian military clothing and standing in a row with a man carrying a Russian flag.
+
+
+***
+![BFI IMAX Showing 7 Christopher Nolan Films In IMAX 70mm](https://www.mccourier.com/wp-content/uploads/2023/02/BFI-IMAX-Showing-7-Christopher-Nolan-Films-In-IMAX-70mm.jpg "BFI IMAX Showing 7 Christopher Nolan Films In IMAX 70mm")
+
+
+[BFI IMAX Showing 7 Christopher Nolan Films In IMAX 70mm](https://www.mccourier.com/bfi-imax-showing-7-christopher-nolan-films-in-imax-70mm/)
+
+
+> Scorching off the heels of the London Science Museum presenting a sequence of 70mm IMAX showings of traditional science fiction motion pictures, the BFI IMAX at Waterloo in London can also be getting in on the 70mm IMAX movie motion. Within the run-up to Christopher Nolan's extremely anticipated new movie Oppenheimer , opening on 21 July 2023, the BFI is wheeling out its IMAX 70mm movie digicam to show a minimum of seven of Nolan's earlier movies in IMAX 70mm format, in addition to a Darkish Knight all-nighter for the bat-crazy hardcore.
+
+
+***
+![iOS 16.3.1 brings crash detection improvements to iPhone 14](https://pplware.sapo.pt/wp-content/uploads/2023/02/detecao_acidente_melhorias00-720x405.jpg "iOS 16.3.1 brings crash detection improvements to iPhone 14")
+
+
+[iOS 16.3.1 brings crash detection improvements to iPhone 14](https://tekdeeps.com/ios-16-3-1-brings-crash-detection-improvements-to-iphone-14/)
+
+
+> The iPhone 14 features an accident detection system that can call for help even with an inanimate victim. However, the sensitivity and accuracy of the system has been the subject of much criticism, with emergency services in certain places registering false positives by the dozens or hundreds, when users are on a roller coaster or skiing. In the new version iOS 16.3.1 Apple brought new features to avoid these problems. Order to end false positives Over the past few months, the iPhone 14's new Crash Detection feature has been in the spotlight for all the wrong reasons.
+
+
+***
+![My macbook pro will overheat and freeze, but only on one user account.](https://images.macrumors.com/social/?t=2380841&v=6 "My macbook pro will overheat and freeze, but only on one user account.")
+
+
+[My macbook pro will overheat and freeze, but only on one user account.](https://forums.macrumors.com/threads/my-macbook-pro-will-overheat-and-freeze-but-only-on-one-user-account.2380841/)
+
+
+> I am the only user of my 2015 macbook. Lately, it's began overheating and freezing while in use. Someone online suggested to create a test user account and see if it still happens. I did, and it seems to work fine on the test account. What could this mean? Seems like it's not a hardware issue if the problem only happens on one account. Does that make sense? I guess I could just create a new user account and move all my stuff over to that, but it's a hassle and I'm curious what the problem is. Thank you for any help.
+
+
+***
+![FLASH THEORY: How Many Versions of Batman Will We See?](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2023/02/14170038/20230214_nerdistnews_flashtheory_1920x1080_v1.jpg "FLASH THEORY: How Many Versions of Batman Will We See?")
+
+
+[FLASH THEORY: How Many Versions of Batman Will We See?](https://nerdist.com/watch/video/flash-theory-how-many-versions-of-batman-will-we-see/)
+
+
+> Watch > Shows > Nerdist News > Video
+
+
+***
+![Here are all the trophies for Atomic Heart](https://www.gamereactor.no/media/66/sykedetaljerfremheves_3416633b.jpg "Here are all the trophies for Atomic Heart")
+
+
+[Here are all the trophies for Atomic Heart](https://www.world-today-news.com/here-are-all-the-trophies-for-atomic-heart/)
+
+
+> If you are interested in Achievements and Trophies so have Exophase something interesting waiting for you. They have now revealed the full list of 42 trophies that you can earn in the upcoming title Atomic Heart. As usual, there are minor spoilers involved in the list, but being a single player game, many of them are earned by simply playing the adventure, with higher difficulties gaining extra trophies. There seem to be other challenges as well, though, like collecting weapons and crafting lots of different things.
+
+
+***
+![Adams Wins Split Decision In Battle Against Rats – NBC New York (47)](https://media.telemundo47.com/2023/01/16a16c9e3114e7cf2060e2a7960cb24700606edd.jpg?quality=85&strip=all&resize=1200,675 "Adams Wins Split Decision In Battle Against Rats – NBC New York (47)")
+
+
+[Adams Wins Split Decision In Battle Against Rats – NBC New York (47)](https://www.world-today-news.com/adams-wins-split-decision-in-battle-against-rats-nbc-new-york-47/)
+
+
+> NEW YORK — In his battle against rats, New York City Mayor Eric Adams won a split decision Tuesday when a hearing officer dismissed one subpoena and upheld another issued by a city inspector citing him. for not doing enough to keep rodents at bay in his Brooklyn home. In a city where some residents consider rats public enemy number one, the mayor's own problems with rodents have been the source of amusement among those keeping score in the city's mostly losing battle against the vermin. The hearing officer, noting the thousands of dollars Adams has invested to address his rat problems, credited the mayor with taking 'credible' steps to control the rat population at his rental property.
+
+
+***
+![Spectra Logic Archive Solution Simplifies Long-Term Digital Preservation](https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/favicon.png "Spectra Logic Archive Solution Simplifies Long-Term Digital Preservation")
+
+
+[Spectra Logic Archive Solution Simplifies Long-Term Digital Preservation](https://tvnewscheck.com/tech/article/spectra-logic-archive-solution-simplifies-long-term-digital-preservation/)
+
+
+> Spectra Logic , a provider of data management and data storage solutions, has introduced an archive solution for organizations that must manage and preserve massive amounts of data for long-term retention purposes. The new solution, called  Spectra Digital Archive , is powered by  Spectra StorCycle , an enterprise software designed to 'easily and cost-effectively archive data at scale. Spectra Digital Archive enables organizations to manage and archive terabytes to petabytes of unstructured data, digitally preserving that data on any combination of  disk ,  tape  and  cloud , without sacrificing reliability or data availability,' the company said.
+
+
+***
+![The child prince couple of the Hummelnest Linz day care center with their entourage were 'Kötten'](https://www.ak-kurier.de/akkurier/www/upload/koettenIMG_0011.JPG "The child prince couple of the Hummelnest Linz day care center with their entourage were 'Kötten'")
+
+
+[The child prince couple of the Hummelnest Linz day care center with their entourage were 'Kötten'](https://www.world-today-news.com/the-child-prince-couple-of-the-hummelnest-linz-day-care-center-with-their-entourage-were-kotten/)
+
+
+> Three years ago, the children, parents and educators from the Hummelnest day care center wished to go along with the carnival parade in Linz am Rhein. Now the time has finally come. So that there is enough throwing material in the carnival parade, the kindergarten has gone 'Kötten' with the newly elected children's prince couple from the Hummelnest daycare center and their entourage. Linz. Six children and two teachers started the fundraiser with joy. First, the hungry bellies were strengthened by a healthy breakfast prepared by the parents.
+
+
+***
+![Expel Tackles Cloud Threats With MDR for Kubernetes](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0c88bfe638e69724/615cb014f05b8c5b4ce1067e/cargocontainers_MontyRakusen-Alamy.jpg "Expel Tackles Cloud Threats With MDR for Kubernetes")
+
+
+[Expel Tackles Cloud Threats With MDR for Kubernetes](https://www.darkreading.com/dr-tech/expel-tackles-cloud-threats-with-mdr-for-kubernetes)
+
+
+> Expel unveiled its Managed Detection and Response for Kubernetes offering this week. With Expel MDR for Kubernetes, security teams can quickly detect and respond to security risks in their Kubernetes environments without slowing down the DevOps teams. Kubernetes is an open source orchestration system that relies on containers to automate the deployment, scaling, and management of applications in cloud environments. The overall container application market is expected to grow to $12 billion by 2028, with Kubernetes driving the majority of spending, according to KBV Research.
+
+
+***
+![Tech advances, drop in price will help Westfield bring closed captioning to city channel](https://www.masslive.com/resizer/Jht3XE9WlqpzhnOrVTnmrGEC8SM=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Z55YRQQG7VA73MDT2KP5KLTXNA.jfif "Tech advances, drop in price will help Westfield bring closed captioning to city channel")
+
+
+[Tech advances, drop in price will help Westfield bring closed captioning to city channel](https://www.masslive.com/westfieldnews/2023/02/tech-advances-drop-in-price-will-help-westfield-bring-closed-captioning-to-city-channel.html)
+
+
+> WESTFIELD — Deaf and hard of hearing Westfield residents may soon have an easier time keeping up with local government, as Channel 15 will adopt a live closed-captioning service for broadcasted public meetings. Mayor Michael McCabe announced Feb. 6 that captioning services would be coming to all city government meetings televised on public access Channel 15 after a hard of hearing resident, John Plata, had approached him last fall about the need for such services. Zoom meetings during the pandemic had helped Plata keep informed because Zoom had a better live captioning service, but the return to mostly in-person meetings has returned things to the way they were before.
+
+
+***
+![Twitch Bans Popular Streamer, Corrects Too Much Breasts – Gamereactor](https://www.gamereactor.cn/media/17/_3961753_650x.png "Twitch Bans Popular Streamer, Corrects Too Much Breasts – Gamereactor")
+
+
+[Twitch Bans Popular Streamer, Corrects Too Much Breasts – Gamereactor](https://www.world-today-news.com/twitch-bans-popular-streamer-corrects-too-much-breasts-gamereactor/)
+
+
+> The rules around sexual content on Twitch are very strict, which is often discussed because the ruleset seems to target female streamers. Sometimes the rules are ridiculous, and that's something the very popular drag streamer F1NN5STER can vouch for. According to Twitch itself, the ban was for 'excessive breast touching,' which was really just Finn being forced to repeatedly correct his bra and the fake breasts he was wearing. At the time of writing, the channel with over 500,000 subscribers is still unavailable, with Finn himself commenting on the incident as follows: 'While fixing my bra, this counts as ‘prolonged touching of female presentation breasts.
+
+
+***
+![Telestream CEO Dan Castles Retiring, Rhonda Bassett-Spiers To Succeed Him](https://tvnewscheck.com/wp-content/uploads/2023/02/Bassett-Spiers_Rhonda_2023.jpg "Telestream CEO Dan Castles Retiring, Rhonda Bassett-Spiers To Succeed Him")
+
+
+[Telestream CEO Dan Castles Retiring, Rhonda Bassett-Spiers To Succeed Him](https://tvnewscheck.com/tech/article/telestream-ceo-dan-castles-retiring-rhonda-bassett-spiers-to-succeed-him/)
+
+
+> Telestream , a global provider of workflow automation, media processing, video quality monitoring and test and synchronization solutions for video production and distribution, has named chief executive officer. She succeeds Dan Castles who has retired from the CEO role but will remain with the company through April to aid in the transition. Additionally, President and Chief Operating Officer Jon Wilson will remain in his current role, continuing to lead the company's operations. Castles, the company's founding CEO, returned to the CEO position in January 2020 from the board of directors to lead the company's recent phase of accelerated growth.
+
+
+***
+![Creative Connection: Gilles Fichteberg and Valérie Decamp defend responsible communication – Image](https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2023-02/photo.jpg?itok=WeyMyBF5 "Creative Connection: Gilles Fichteberg and Valérie Decamp defend responsible communication – Image")
+
+
+[Creative Connection: Gilles Fichteberg and Valérie Decamp defend responsible communication – Image](https://www.world-today-news.com/creative-connection-gilles-fichteberg-and-valerie-decamp-defend-responsible-communication-image/)
+
+
+> This Wednesday evening, at 6 p.m., will take place the Creative Connectionan appointment at the Comptoir Général in the tenth arrondissement of Paris. An event that allows students from creative schools to defend their creations 'live' with great agency talents (DC, DA, CR) and to find the internship or work-study program that suits them. This event, which will bring together between 150 and 200 people, is organized by the AACC, with the support of Mediatransports. For CB News, which has supported the Creative Connection since its creation, Gilles Fichtebergpresident of the Advertising delegation and co-founder of Rosa Paris, described the importance of this job-dating for future creatives.
+
+
+***
+![Volvo Plans to Build Electric Trucks in Australia by 2027](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/15/volvo-trucks-2027.png?quality=80&resize=1280,720 "Volvo Plans to Build Electric Trucks in Australia by 2027")
+
+
+[Volvo Plans to Build Electric Trucks in Australia by 2027](https://www.gizmodo.com.au/2023/02/volvo-trucks-2027/)
+
+
+> Image: Volvo Volvo will start building electric trucks in Australia by 2027, as reported by The Driven. According to the report , Volvo's Wacol factory in Queensland, the biggest vehicle manufacturing plant in all of Australia , will be the home of the electric truck fleet. Volvo Group Australia told Gizmodo Australia that the site employs 750 people and that the company spends $600 million on the local economy every year. Volvo Group Australia's president, Martin Merrick, spoke at a panel at the Australian National University on Electrification in Sweden and Australia, and said that the company would start to build electric trucks in the country  'within the next three to four years'.
+
+
+***
+![GitHub Copilot for Business AI Programming Assistant Goes Public for $19/Month](https://3dnews.ru/assets/external/illustrations/2023/02/14/1081978/113.jpg "GitHub Copilot for Business AI Programming Assistant Goes Public for $19/Month")
+
+
+[GitHub Copilot for Business AI Programming Assistant Goes Public for $19/Month](https://tekdeeps.com/github-copilot-for-business-ai-programming-assistant-goes-public-for-19-month/)
+
+
+> Microsoft-owned GitHub announced that Copilot for Business, the corporate version of the AI ​​coding assistant, is now available to the public for $19 a month. Compared to the standard Copilot, the corporate edition will offer a number of additional features. 'This effectively concludes our Copilot version 1 story. We announced the launch of the Insider Program in June 2021. It seems like it was many years ago. A public version appeared last summer. Now we're ready to roll it out to organizations, companies, teams, enterprises—just about anyone.
+
+
+***
+![Apex Legends' 4th anniversary heralds a new era for the globally loved Battle Royale – That's Gaming](https://i0.wp.com/thatsgaming.nl/wp-content/uploads/2023/02/apex-legends-revelry-2.jpg?fit=850,478&ssl=1 "Apex Legends' 4th anniversary heralds a new era for the globally loved Battle Royale – That's Gaming")
+
+
+[Apex Legends' 4th anniversary heralds a new era for the globally loved Battle Royale – That's Gaming](https://www.world-today-news.com/apex-legends-4th-anniversary-heralds-a-new-era-for-the-globally-loved-battle-royale-thats-gaming/)
+
+
+> A new era in the Apex Games begins today! Electronic Arts Inc. and Respawn Entertainment are celebrating the 4th anniversary of Apex Legends, the award-winning hero shooter and battle royale, with the most impactful update since launch. Respawn has met Apex Legends: Revelry made some major updates and massive gameplay tweaks. For example, extensive Onboarding Matches are being rolled out for new players, the way all Legends play will be adjusted based on a new class system, and players will be able to get started with the hugely popular Team Deathmatch mode.
+
+
+***
+![Bankruptcy of Svyaznoy and its consequences for the electronics market](https://mobile-review.com/articles/2020/image/svyaznoy-flex/pic/22.jpg "Bankruptcy of Svyaznoy and its consequences for the electronics market")
+
+
+[Bankruptcy of Svyaznoy and its consequences for the electronics market](https://tekdeeps.com/bankruptcy-of-svyaznoy-and-its-consequences-for-the-electronics-market/)
+
+
+> Hello. The history of Svyaznoy began in 1995, when Maxus appeared, created by Maxim Nogotkov, and retail was formed in 2002. A distinctive feature of the new network was bright glossy images and the slogan 'Adult toys'. An advertising campaign in Moscow involved the metro, at the entrance to the station, bright posters hung on the doors that caught the eye. A sort of European approach, which many did not know, did not understand in principle what it is. And the rapid growth in the number of retail outlets, a head-on collision with Euroset.
+
+
+***
+![I have been using iPhone 14 Pro for 6 months. Dynamic Island turned out to be almost useless](https://www.iphones.ru/wp-content/uploads/2023/02/8A9ACE15-CC52-4CDB-85FB-F199FAA8F6A5.jpeg "I have been using iPhone 14 Pro for 6 months. Dynamic Island turned out to be almost useless")
+
+
+[I have been using iPhone 14 Pro for 6 months. Dynamic Island turned out to be almost useless](https://tekdeeps.com/i-have-been-using-iphone-14-pro-for-6-months-dynamic-island-turned-out-to-be-almost-useless/)
+
+
+> It's been almost six months since the release of the iPhone 14 Pro. During this time, I had plenty of time to use my smartphone and add up some impressions. Over time, the negative became much larger, and faith in a bright future began to gradually fade away. Many things have changed during this time. No, I will not 'destroy' this iPhone today. He's still great. However, there are things that have either appeared over time, or are now becoming clearer. Go. Let's start with the main one. Is Dynamic Island needed in its current form No.
+
+
+***
+![How the iPhone can save your life](https://appleinsider.ru/wp-content/uploads/2023/02/emergency_iphone_head-750x422.jpg "How the iPhone can save your life")
+
+
+[How the iPhone can save your life](https://tekdeeps.com/how-the-iphone-can-save-your-life/)
+
+
+> In recent years, Apple has paid a lot of attention to the health and safety of its users. And if everyone talks about data protection and privacy, then health care or even life is covered a little less. Now every loyal user of the device is worth its weight in gold, and any loss means an iPhone, iPad or Apple Watch not sold and a decrease in profits. Therefore, features are gradually being added to the iPhone that can save lives. What is the cost of a satellite emergency call in the iPhone 14. It is a pity that this function does not work and will not work in Russia in the near future.
+
+
+***
+![Sony is developing 'gaming AirPods Pro' for the PlayStation 5](https://www.iguides.ru/upload/medialibrary/9b9/tvyy4dum87ctm38uvh82bj8kxukljgr7.jpg "Sony is developing 'gaming AirPods Pro' for the PlayStation 5")
+
+
+[Sony is developing 'gaming AirPods Pro' for the PlayStation 5](https://tekdeeps.com/sony-is-developing-gaming-airpods-pro-for-the-playstation-5/)
+
+
+> Insider Gaming reports that Japanese electronics manufacturer Sony is preparing to release TWS headphones for PlayStation 5 consoles. It is already known that the headphones are being developed under the code name Project Nomad. They will get a charging case and offer about 5 hours of battery life like Apple AirPods. It is noteworthy that in order to update the firmware of the device, it will have to be connected to the PS5. In addition to TWS headphones, the company is also preparing a new wireless headset for the PlayStation 5 called Voyager, which will receive the same feature set as the InZone H7.
+
+
+***
+![Motorola Edge 40 Pro runs Geekbench with 12GB of RAM on board](https://fdn.gsmarena.com/imgroot/news/23/02/motorola-edge-40-pro-geekbench/-952x498w6/gsmarena_000.jpg "Motorola Edge 40 Pro runs Geekbench with 12GB of RAM on board")
+
+
+[Motorola Edge 40 Pro runs Geekbench with 12GB of RAM on board](https://www.gsmarena.com/motorola_edge_40_pro_runs_geekbench_with_12gb_of_ram_on_board-news-57549.php)
+
+
+> Motorola's Edge 40 Pro is rumored to arrive in Western markets at some point in the near future as a rebranded version of the Moto X40 , which launched in China back in December. Today a Motorola Edge 40 Pro prototype seemingly ran Geekbench, which means it's been inducted into the benchmark's online hall of fame - or, more accurately, its database. The Edge 40 Pro managed a 1,480 single-core score and a 4,889 multi-core score in Geekbench 5. The "rtwo' motherboard could apparently be "associated with" the Snapdragon 8 Gen 2 chipset, which is completely unsurprising if the aforementioned rumors saying this will be a rebranded Moto X40 do in fact pan out.
+
+
+***
+![Home Credit will sell Sovcombank a portfolio of Svoboda installment cards](https://media.rbcdn.ru/media/news/shutterstock234272032.jpg "Home Credit will sell Sovcombank a portfolio of Svoboda installment cards")
+
+
+[Home Credit will sell Sovcombank a portfolio of Svoboda installment cards](https://tekdeeps.com/home-credit-will-sell-sovcombank-a-portfolio-of-svoboda-installment-cards/)
+
+
+> Home Credit Bank has agreed with Sovcombank on the sale of a portfolio of Svoboda installment cards. Such cards are not the main product for Home Credit and require significant operational resources to maintain, the bank's board said. Home Credit will sell Sovcombank a portfolio of Svoboda installment cards On the signing of an agreement between Sovcombank and Home Credit Bank for the sale of a portfolio of Svoboda cards informs RBC. It is noted that for Sovcombank this transaction will be the first after falling under Western sanctions.
+
+
+***
+![Who said Macs can't play games?](https://img.technews.tw/wp-content/uploads/2023/02/10180615/ilya-pavlov-wbXdGS_D17U-unsplash.jpg "Who said Macs can't play games?")
+
+
+[Who said Macs can't play games?](https://www.world-today-news.com/who-said-macs-cant-play-games-technews-technology-news/)
+
+
+> 'We don't want to boast that the Mac can become a great gaming platform overnight. We have to think about it in the long run.' Tim Millet, Apple's vice president of chip architecture, said in an interview with TechCrunch after the announcement of M2 Pro and M2 Max. Very sincere. He also said that 'Apple has never forgotten the players. Since the beginning of self-developed chips, we have paid close attention to the game market.' This is probably the first time that the chip team executives have been interviewed by the media, and it is also one of the few Macs from the M chip era to the Intel era.
+
+
+***
+![Sam Bankman-Fried Asked to Appear in New York Courtroom, for Fears of Unmonitored Communications](https://1734811051.rsc.cdn77.org/data/images/full/417995/sam-bankman-fried.jpg "Sam Bankman-Fried Asked to Appear in New York Courtroom, for Fears of Unmonitored Communications")
+
+
+[Sam Bankman-Fried Asked to Appear in New York Courtroom, for Fears of Unmonitored Communications](https://www.techtimes.com/articles/287668/20230214/sam-bankman-fried-asked-appear-new-york-courtroom-fears-unmonitored.htm)
+
+
+> Isaiah Richard , Tech Times 14 February 2023, 07:02 pm The court recently asked Sam Bankman-Fried to appear in a New York courtroom before the judge who handles the case. The federal judge assigned to his case was dubious about him communicating with others which the court cannot monitor, which is a significant factor in his case, considering he is under house arrest.  According to his bail appearance and review earlier, Bankman-Fried accessed the internet in ways that officials could not monitor and caused alarm to the court.
+
+
+***
+![Check Out Even More Indie Games Crowdfunding During Zine Month](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/20fcf7a428be01f4a55739f41eccfea3.png "Check Out Even More Indie Games Crowdfunding During Zine Month")
+
+
+[Check Out Even More Indie Games Crowdfunding During Zine Month](https://gizmodo.com/indie-ttrpg-game-crowdfunding-zine-month-zimo-quest-1850114238)
+
+
+> Zine Month —or ZiMo —is in full swing, and even more games were released this week. We've got a whole slew of new indies for you to check out. Again, you can read through our first roundup here , which goes over some of the history of ZiMo, and you can peruse both Kickstarter's Zine Quest and Crowdfundr's Tabletop Nonstop initiatives to find even more new games! A Butterfly Dies — Compatible with the Primal system, players are travelers exploring the land of Michoacan and can choose whether to engage with the local tensions or keep their distance.
+
+
+***
+![Tech Shares May Support Taiwan Stock Market](https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png "Tech Shares May Support Taiwan Stock Market")
+
+
+[Tech Shares May Support Taiwan Stock Market](https://www.rttnews.com/3344063/tech-shares-may-support-taiwan-stock-market.aspx)
+
+
+> The Taiwan stock market on Tuesday wrote a finish to the three-day losing streak in which it had slipped more than 70 points or 0.5 percent. The Taiwan Stock Exchange now rests just above the 15,650-point plateau and it may tick higher again on Wednesday. The global forecast for the Asian is murky, with little movement expected as support from technology stocks will likely be offset by weakness from oil companies. The European and U.S. markets were mixed and little changed and the Asian bourses are tipped to follow suit.
+
+
