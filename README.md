@@ -31728,3 +31728,931 @@
 > The German airline said the outage was caused by construction work in Frankfurt, which impacted a telecommunications line. Lufthansa has suffered a disruption to its systems, causing thousands of passengers to be stranded worldwide. The German airline said it has suffered an IT outage as a result of construction work in the Frankfurt region. Lufthansa said the construction work caused a telecommunications line failure, which has had a 'major impact' on its IT systems. As a result, the airline said all departures and landings in Frankfurt have been suspended 'for the time being', with some of its operations in Munich also being affected.
 
 
+***
+![Tesla Open 7,500 chargers Other electric vehicles](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/15082820/TeslaSupercharger_16.jpg "Tesla Open 7,500 chargers Other electric vehicles")
+
+
+[Tesla Open 7,500 chargers Other electric vehicles](https://shepherdgazette.com/tesla-open-7500-chargers-other-electric-vehicles/)
+
+
+> The Biden administration has made notable progress toward its goal of deploying a national network of electric vehicle (EV) chargers across the United States. The White House announcement revealed that Tesla will open 7,500 of its charging stations to non-Tesla EV drivers by the end of 2024. Tesla operates nearly 17,000 fast chargers across America, most of which were previously only compatible with Tesla electric vehicles. In its announcement, the Biden administration wants to drastically increase the number of charging stations for electric vehicles to at least 500,000 by 2030.
+
+
+***
+![Altada directors alleged to have ‘perpetrated fraud' over €500k loan](https://imengine.public.prod.sbp.infomaker.io?uuid=ddf968f6-0504-5f05-8aba-51822910fcf7&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84428&width=5504&height=3096&x=1.0E-5&y=1.0E-5 "Altada directors alleged to have ‘perpetrated fraud' over €500k loan")
+
+
+[Altada directors alleged to have ‘perpetrated fraud' over €500k loan](https://www.businesspost.ie/tech/altada-directors-alleged-to-have-perpetrated-fraud-over-e500k-loan/)
+
+
+> Tech In an affidavit lodged with the High Court, liquidator John Healy of Kirby Healy outlines 'significant concerns' around the emergency loan and charge against the assets of the troubled tech company last September The directors of Altada, the Cork-based tech firm, perpetrated fraud when the company drew down a €500,000 emergency loan in September last year without securing the prior consent of shareholders, the liquidator of the company has alleged. The allegations refer to the three directors of Altada at the time of the events last year.
+
+
+***
+![Dead by Daylight 'Chapter 27: Tools Of Torment' launches March 7th, 2023](https://gonintendo.com/attachments/image/23281/file/medium-3877d4f64365b475f802e0c8b6786021.jpg "Dead by Daylight 'Chapter 27: Tools Of Torment' launches March 7th, 2023")
+
+
+[Dead by Daylight 'Chapter 27: Tools Of Torment' launches March 7th, 2023](https://gonintendo.com/contents/16275-dead-by-daylight-chapter-27-tools-of-torment-launches-march-7th-2023)
+
+
+> Dead by Daylight's 27th Chapter Tools Of Torment returns to modern times, introducing some twisted new tech to The Entity's Realm. Players can step into the tactical boots of The Skull Merchant, a brutal new Killer, or test the bond between Thalita and Renato Lyra, siblings fighting for their lives in The Fog. Tools Of Torment also brings an update to the Shelter Woods Map which will now include The Skull Merchant's Hunting Camp. The Skull Merchant, known within the business world as Adriana Imai, is Dead by Daylight's first original modern female slasher.
+
+
+***
+![Fintech Wahed Acquires UK's iWill Solicitors to Help Muslims Prepare for the Future](https://www.crowdfundinsider.com/wp-content/uploads/2021/02/Fintech-UK-1024x859.jpg "Fintech Wahed Acquires UK's iWill Solicitors to Help Muslims Prepare for the Future")
+
+
+[Fintech Wahed Acquires UK's iWill Solicitors to Help Muslims Prepare for the Future](https://www.crowdfundinsider.com/2023/02/202547-fintech-wahed-acquires-uks-iwill-solicitors-to-help-muslims-prepare-for-the-future)
+
+
+> Wahed has acquired iWill Solicitors, the UK pioneers 'in Islamic wills, in a seven-figure transaction.' iWill Solicitors will 'become a pillar of Wahed's financial platform—helping ethical investors to secure the next generation.' Wahed also 'acquires True Wills, a pioneering online Islamic will-writing service.' Wahed, a financial investment company that aims to advance financial inclusion through accessible, affordable, and values-based investing, recently confirmed that it 'acquired leading online Islamic wills provider iWill Solicitors.
+
+
+***
+![AI-powered Bing chat won't be limited to Microsoft Edge forever](https://www.androidheadlines.com/wp-content/uploads/2023/02/Microsoft-Edge-Bing-AI-Chat.jpg "AI-powered Bing chat won't be limited to Microsoft Edge forever")
+
+
+[AI-powered Bing chat won't be limited to Microsoft Edge forever](https://www.androidheadlines.com/2023/02/ai-powered-bing-chat-wont-be-limited-to-microsoft-edge-forever.html)
+
+
+> html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd" Microsoft's new Bing chat powered by ChatGPT , has a browser compatibility requirement . You need to be using Microsoft Edge. It's not a surprising move, as Microsoft wants more people to switch from Google's beloved Chrome to Edge. And the AI-powered Bing chat is how it plans (or hopes) to convince people to make the switch. At least, that's the deal for now. There is of course another caveat or two to contend with.
+
+
+***
+![North Korean hackers target phones, Windows devices with new malware](https://cdn.mos.cms.futurecdn.net/tfTPM2h23pWZ3334EbhVKT-1200-80.jpg "North Korean hackers target phones, Windows devices with new malware")
+
+
+[North Korean hackers target phones, Windows devices with new malware](https://www.techradar.com/news/north-korean-hackers-target-phones-windows-devices-with-new-malware)
+
+
+> (Image credit: Shutterstock) State-sponsored North Korean hackers are once again targeting victims with a new form of malware that could possibly hijack mobile and PC devices. According to a new report from cybersecurity researchers AhnLab, a group known as APT37 (AKA RedEyes, Erebus, a known North Korean group believed to be strongly affiliated with the government), was seen distributing malware dubbed 'M2RAT' to spy on, and extract sensitive data from, target endpoints . The campaign, which kicked off in January 2023, started with a phishing email that distributes a malicious attachment.
+
+
+***
+[BlueRidge Data and Custom Donations Announce Joint Venture, BlueRidge Giving, to Enhance NextGen Fundraising Initiatives for Higher Ed and Independent Schools](http://www.businesswire.com/news/home/20230215005809/en/BlueRidge-Data-and-Custom-Donations-Announce-Joint-Venture-BlueRidge-Giving-to-Enhance-NextGen-Fundraising-Initiatives-for-Higher-Ed-and-Independent-Schools/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> LEESBURG, Va.--(BUSINESS WIRE)--BlueRidge Data and Custom Donations announce intent to form a joint venture that brings to market a NextGen online giving platform and complementary giving solutions and services that support the fundraising and alumni relations efforts for Higher Education and K-12 Independent Schools. The new venture will operate as BlueRidge Giving, as both BRD and Custom Donations will combine their respective proprietary technologies, education customers and product solution
+
+
+***
+![The Wreck arrives on Switch March 14th, 2023](https://gonintendo.com/attachments/image/23277/file/medium-2658bbbe47c8abdc705f7810257e14af.jpg "The Wreck arrives on Switch March 14th, 2023")
+
+
+[The Wreck arrives on Switch March 14th, 2023](https://gonintendo.com/contents/16272-the-wreck-arrives-on-switch-march-14th-2023)
+
+
+> The Pixel Hunt, AKA the studio behind bafta-nominated Bury Me, My Love, previously announced their mature visual novel The Wreck for Switch. At the time of that announcement, we didn't have a release date to share. Today we do, as it's been confirmed that The Wreck will launch on March 14th, 2023. The Wreck is a mature 3D visual novel about sisterhood, motherhood, grief and survival. Players follow failed screenwriter Junon as she attempts to make it through the most pivotal day in her life, navigating difficult conversations and piecing together where things went wrong.
+
+
+***
+[Cross Country CEO Featured on Staffing Industry Analysts&apos; 100 in Staffing List For 2023](http://www.businesswire.com/news/home/20230213005439/en/Cross-Country-CEO-Featured-on-Staffing-Industry-Analysts-100-in-Staffing-List-For-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOCA RATON, Fla.--(BUSINESS WIRE)--Cross Country CEO, John A. Martins, has been recognized on the SIA Staffing 100 list of the most influential people in the staffing industry.
+
+
+***
+![Mageseeker and CONVERGENCE League of Legend spin-offs set for Switch](https://gonintendo.com/attachments/image/23276/file/medium-916246bd719cc502357c6bc2d28f127d.jpg "Mageseeker and CONVERGENCE League of Legend spin-offs set for Switch")
+
+
+[Mageseeker and CONVERGENCE League of Legend spin-offs set for Switch](https://gonintendo.com/contents/16270-mageseeker-and-convergence-league-of-legend-spin-offs-set-for-switch)
+
+
+> The LoL expansion continues Today Riot Forge revealed The Mageseeker: A League of Legends Story™, a gritty indie 2D hi-bit pixel action RPG that lets players raise a rogue mage army and lead a revolution. The Mageseeker: A League of Legends Story™ will be available Spring 2023 for Switch. Developed by Digital Sun, creators of Moonlighter, The Mageseeker is a 2D pixel, gritty action RPG set in Demacia, a mighty kingdom in the world of Runeterra that seeks to curtail what it deems as forbidden magic while wielding magic themselves to maintain order.
+
+
+***
+![Love in Space: Warframe Delivers Valentine's Action in New Update](https://gonintendo.com/attachments/image/23275/file/medium-b3a56f7ca4b1fb342da7889863166fd9.jpg "Love in Space: Warframe Delivers Valentine's Action in New Update")
+
+
+[Love in Space: Warframe Delivers Valentine's Action in New Update](https://gonintendo.com/contents/16269-love-in-space-warframe-delivers-valentine-s-action-in-new-update)
+
+
+> The crystal bastion Citrine makes a shimmering debut today in Citrine's Last Wish as the 52nd Warframe to join Digital Extremes' ever-growing roster of playable space warriors. In Citrine's Last Wish, players will discover an ancient love story rife with tragedy told through new Mirror Defense missions - classic defense missions with a twist - as they battle an onslaught of powerful enemies to reunite two crystal-encased lovers lost to time and space. Players can instantly unlock Citrine today, along with her exclusive Weapons, Customizations, and Accessories, with Platinum, or earn her mighty defenses by collecting rewards from Mirror Defense missions to farm Citrine's blueprints.
+
+
+***
+[Robigo Secures $7M Seed Round to Protect Crops from Untreatable Diseases](http://www.businesswire.com/news/home/20230215005518/en/Robigo-Secures-7M-Seed-Round-to-Protect-Crops-from-Untreatable-Diseases/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CAMBRIDGE, Mass.--(BUSINESS WIRE)--Robigo, a company that biomanufactures precision crop protection solutions, announced today that it has raised $6.85 million in Seed funding led by early stage climate tech fund, Congruent Ventures, with participation from other deep technology investors, including Good Growth Capital and First Star Ventures, amongst others. Increasing plant disease outbreaks contribute to an estimated global crop loss of 20 - 40%, and newly emerging diseases lack timely, effe
+
+
+***
+![Virginia competes with Maryland to land new FBI headquarters](https://bloximages.chicago2.vip.townnews.com/muscatinejournal.com/content/tncms/assets/v3/editorial/d/84/d84c75ba-bee3-5f81-b701-8fe361827856/63ed3317e6c8a.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Virginia competes with Maryland to land new FBI headquarters")
+
+
+[Virginia competes with Maryland to land new FBI headquarters](https://muscatinejournal.com/lifestyles/technology/virginia-competes-with-maryland-to-land-new-fbi-headquarters/article_172aee2c-fb02-50cd-8c73-aa44ddc3db62.html)
+
+
+> By MATTHEW BARAKAT - Associated Press SPRINGFIELD, Va. (AP) — Virginia's political leaders made their case Wednesday for moving the FBI's headquarters from the nation's capital to the state, arguing that the federal government would be wise to follow the steps of Amazon and other big companies that have come to the commonwealth. Gov. Glenn Youngkin, U.S. Sens. Mark Warner and Tim Kaine, and nearly every other political leader from northern Virginia held a news conference in Springfield, one of three sites under consideration to replace the crumbling J.
+
+
+***
+![Astro Boy Reimagining Pluto to Finally Get a Gorgeous Anime](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cbc3c1b1d50433e97feb87babf7a37ff.jpg "Astro Boy Reimagining Pluto to Finally Get a Gorgeous Anime")
+
+
+[Astro Boy Reimagining Pluto to Finally Get a Gorgeous Anime](https://gizmodo.com/pluto-astro-boy-anime-netflix-naoki-urasawa-tezuka-1850117854)
+
+
+> Imagine, if you will, someone remade a classic Looney Tunes cartoon where Elmer Fudd tries to hunt Bugs Bunny. But instead of just updating the animation, that someone used the cartoon as the basis for a sprawling epic that turned Elmer and Bugs' face-off into a sprawling, tense game of cat-and-mouse, extrapolating depth, social commentary, and more—and imagine that reimagining absolutely ruled. That's not quite Pluto , but it's close. Based on a storyline in the original Astro Boy , the beyond beloved and notably kid-friendly comic and cartoon from the legendary Osamu Tezuka , Pluto reframes 'The Greatest Robot on Earth' to focus on a robot detective named Gesicht as he investigates the murder of humans and some the most powerful robots in the world.
+
+
+***
+![White House: Tesla to make some EV chargers available to all](https://bloximages.chicago2.vip.townnews.com/muscatinejournal.com/content/tncms/assets/v3/editorial/9/5e/95e4a93c-7381-562d-8897-4f73a7bfe741/63ecb81bce188.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "White House: Tesla to make some EV chargers available to all")
+
+
+[White House: Tesla to make some EV chargers available to all](https://muscatinejournal.com/lifestyles/technology/white-house-tesla-to-make-some-ev-chargers-available-to-all/article_8444b2ae-aad3-5328-a796-1ac23e5e640b.html)
+
+
+> WASHINGTON (AP) — Electric car giant Tesla will, for the first time, make some of its charging stations available to all U.S. electric vehicles by the end of next year, under a new plan announced Wednesday by the White House. The plan will make at least 7,500 chargers from Tesla's Supercharger and Destination Charger network available to non-Tesla EVs by the end of 2024, the White House said. The plan to open the nation's largest and most reliable charging network to all drivers is a potential game-changer in promoting EV use, a key component of President Joe Biden's pledge to fight climate change.
+
+
+***
+![DevOps in K8s — K8s Architecture](https://miro.medium.com/max/561/0*AjZtM9al2x-cFLq-.png "DevOps in K8s — K8s Architecture")
+
+
+[DevOps in K8s — K8s Architecture](https://tonylixu.medium.com/devops-in-k8s-k8s-architecture-4e27e6c8cd15)
+
+
+> In order to have a good understanding of K8s architecture, at first, we need to have a good grasp of the concepts and K8s design principals. Although the system itself is quite complex, it is actually based on a relatively small number of concepts that are repeated throughout. These design principles allow K8s to grow, while still remaining approachable to…
+
+
+***
+[American Metaverse Summit &amp; Awards Unveils Nominee Shortlist](http://www.businesswire.com/news/home/20230215005666/en/American-Metaverse-Summit-Awards-Unveils-Nominee-Shortlist/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MIAMI--(BUSINESS WIRE)--Highlighting businesses in categories ranging from ‘Most Exciting Metaverse Startup' and ‘Top Corporate Brand' to ‘Top Metaverse Debut,' ‘Best VC' and ‘Top Wallet System,' the American Metaverse Awards has unveiled its nominee shortlist for the March 29-30, 2023 event. The American Metaverse Awards - the world's first and only live event that includes an award competition - celebrates the achievements in this nascent ecosystem, spotlighting individuals, start-ups, small
+
+
+***
+![南宁帅哥上门女士Spa,中国海军舰艇编队参加'和平—17'多国海上联合演习](https://img.qianlong.com/ql2019/share/img/qllogo.jpg "南宁帅哥上门女士Spa,中国海军舰艇编队参加'和平—17'多国海上联合演习")
+
+
+[南宁帅哥上门女士Spa,中国海军舰艇编队参加'和平—17'多国海上联合演习](https://tech.qianlong.com/2023/0215/879024905.shtml)
+
+
+> 林武目光微凝，穿透火幕，终于看清了来物。'产品与名字严重不符啊！'骸猫小队其他人见到这只骷髅纹马的时候也是唏嘘不已。南宁帅哥上门女士Spa徐游认得对方，那是邻居家的爷爷，不过对于徐游来说，只要父亲还活着，那就一切都不晚。自从&span css=&ot;ntext_kw9&ot;>&/span>&span css=&ot;ntext_kw1&ot;>&/span>次&span css=&ot;ntext_kw2&ot;>&/span>鬼压床事件后&span css=&ot;ntext_kw0&ot;>&/span>李青原对&span css=&ot;ntext_kw18&ot;>&/span>&span css=&ot;ntext_kw10&ot;>&/span>&span css=&ot;ntext_kw13&ot;>&/span>佩服&span css=&ot;ntext_kw2&ot;>&/span>那&span css=&ot;ntext_kw5&ot;>&/span>五体投地&span css=&ot;ntext_kw0&ot;>&/span>跟胖子&span css=&ot;
+
+
+***
+![汕尾上门spa,白宫公布北美贸易协定重谈计划](https://img.qianlong.com/ql2019/share/img/qllogo.jpg "汕尾上门spa,白宫公布北美贸易协定重谈计划")
+
+
+[汕尾上门spa,白宫公布北美贸易协定重谈计划](https://tech.qianlong.com/2023/0215/879016194.shtml)
+
+
+> 在报刊亭最显眼的地方，挂着一张大海报――所有人都朝着声源看去。汕尾上门spa不愧是还活着的潘德拉贡家族成员中，年龄最大的一个，按照辈分，比自己还要高三辈。控卫和大前锋主导进攻。 汕尾上门spa她平静的声音让他微微蹙眉，但比之前的态度稍微好了一点，他也就没有过多在意。不过现在王起也不知道半路杀出来。蕉岭上门spa 自从&span css=&ot;ntext_kw9&ot;>&/span>&span css=&ot;ntext_kw1&ot;>&/span>次&span css=&ot;ntext_kw2&ot;>&/span>鬼压床事件后&span css=&ot;ntext_kw0&ot;>&/span>李青原对&span css=&ot;ntext_kw18&ot;>&/span>&span css=&ot;ntext_kw10&ot;>&/span>&span css=&ot;ntext_kw13&ot;>&/span>佩服&span css=&ot;ntext_kw2&ot;>&/span>那&span css=&ot;ntext_kw5&ot;>&/span>五体投地&sp
+
+
+***
+![THOK E-Bikes Opens Registrations For 2023 THOK Tribe](https://cdn.motor1.com/images/mgl/3WGqnA/s1/thok-e-bikes-opens-registrations-for-2023-thok-tribe.jpg "THOK E-Bikes Opens Registrations For 2023 THOK Tribe")
+
+
+[THOK E-Bikes Opens Registrations For 2023 THOK Tribe](https://insideevs.com/news/652346/thok-tribe-2023-registrations-open/)
+
+
+> Those of you who happen to be motorcycle and cycling aficionados will likely be familiar with THOK E-Bikes and the models they've developed for Italian motorcycle manufacturer Ducati. These models include the enduro and all-mountain TK-01RR and MIG-S models, as well as the FUTA electric road bike. There's also a the touring and adventure focused E-Scrambler. All these bikes are stylized in Ducati fashion, and as such, command quite a premium.  In Case You Missed It: Apart from developing and producing performance-oriented e-bikes for Ducati , THOK E-Bikes also has its own lineup of thoroughly impressive electric bicycles .
+
+
+***
+![Ashwin Ramaswami, Author at Technical.ly](https://technical.ly/wp-content/uploads/2020/03/Georgetown-Law-Center-e1676480035275.jpg "Ashwin Ramaswami, Author at Technical.ly")
+
+
+[Ashwin Ramaswami, Author at Technical.ly](https://technical.ly/author/aramaswami/)
+
+
+> No body in the article.
+
+
+***
+![GitHub Copilot for business is here, using OpenAI to solve your programming worries](https://whatsnew2day.com/wp-content/uploads/2023/02/github-copilot-for-business-is-here-using-openai-to-solve.png "GitHub Copilot for business is here, using OpenAI to solve your programming worries")
+
+
+[GitHub Copilot for business is here, using OpenAI to solve your programming worries](https://whatsnew2day.com/github-copilot-for-business-is-here-using-openai-to-solve-your-programming-worries/)
+
+
+> GitHub has announced that its Copilot platform is now available to all businesses, hoping to make coding simple for businesses of all sizes. Among the various improvements over previous iterations is a significant AI boost: GitHub claims that the OpenAI model used in the software now works better, with a 44% improvement in the coding suggestions it makes, as well as avoiding the hints that can create security vulnerabilities. Since June of last year, GitHub claims that its code acceptance rate has increased by 8%, from 27% to 35% with the last codex update in December 2022.
+
+
+***
+![The Future Doesn't Look So Bright in Apple TV's Extrapolations](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/530a2d48c401f57463a0bed1e0847fc6.png "The Future Doesn't Look So Bright in Apple TV's Extrapolations")
+
+
+[The Future Doesn't Look So Bright in Apple TV's Extrapolations](https://gizmodo.com/the-future-is-bleak-in-apple-tv-s-scifi-extrapolations-1850118603)
+
+
+> Climate change looms like a final boss that gets stronger by the day in Extrapolations , a new sci-fi limited series on Apple TV+. Written, directed, and produced by Scott Z. Burns ( Contagion ), Extrapolations follows a series of interconnected stories where humanity grapples with the consequences of inaction on a global scale when the sea begins to rise and the planet becomes a flaming hell-scape. And he's brought the big acting guns including Meryl Streep, Yara Shahidi, Kit Harington , Daveed Diggs, Matthew Rhys, Heather Graham, Sienna Miller, Tahar Rahim, David Schwimmer, Edward Norton, Indira Varma, Diane Lane, Keri Russell, Gemma Chan, Marion Cotillard, Forest Whitaker, Hari Nef, Eiza González, Tobey Maguire , and Murray Bartlett ( who just broke our hearts in a good way on The Last of Us ).
+
+
+***
+![Moon rockets progress toward crewed Artemis missions](https://bloximages.chicago2.vip.townnews.com/theredstonerocket.com/content/tncms/assets/v3/editorial/2/1e/21e06f5e-ad48-11ed-a7d9-47cd5715d1cf/63ecfeb391bd5.image.jpg?crop=999%2C524%2C0%2C70&resize=999%2C524&order=crop%2Cresize "Moon rockets progress toward crewed Artemis missions")
+
+
+[Moon rockets progress toward crewed Artemis missions](https://www.theredstonerocket.com/tech_today/article_5c59ce96-ad48-11ed-ab3f-7f34850438b5.html)
+
+
+> NASA and its partners across the country are continuing to make progress on the crewed Artemis missions with hardware for NASA's Space Launch System rockets for Artemis II, III, and IV already in various phases of production, assembly and testing. SLS proved to be the world's most powerful rocket on Nov. 16, 2022, when its two solid rocket boosters and four RS-25 engines produced more than 8.8 million pounds of thrust at liftoff to send NASA's Orion spacecraft beyond the Moon and back on Artemis I.
+
+
+***
+![Technology Minerals approaching "final gateway" for lithium-ion battery plant](https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzAyXC8yMDIxLTExLTI0LTA3LTQ2LTA0LTNjMTM3MjVkYWE5YTFkYTc4NTdiMzIzNGVmN2NkZTg0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ== "Technology Minerals approaching "final gateway" for lithium-ion battery plant")
+
+
+[Technology Minerals approaching "final gateway" for lithium-ion battery plant](https://www.proactiveinvestors.co.uk/companies/news/1006284/technology-minerals-approaching-final-gateway-for-lithium-ion-battery-plant-1006284.html)
+
+
+> Mining Technology Minerals: A battery metals play with a green twist that has significant early revenue and profit potential 4 min read Mining Technology Minerals: A battery metals play with a green twist that has significant early revenue and profit potential 4 min read
+
+
+***
+![Elon Musk wants to appoint new Twitter CEO by end of year](https://scx2.b-cdn.net/gfx/news/hires/2022/twitter-10.jpg "Elon Musk wants to appoint new Twitter CEO by end of year")
+
+
+[Elon Musk wants to appoint new Twitter CEO by end of year](https://techxplore.com/news/2023-02-elon-musk-twitter-ceo-year-1.html)
+
+
+> Credit: Unsplash/CC0 Public Domain Elon Musk is angling to appoint his successor as ter CEO by the end of 2023. "I think I need to stabilize the organization and just make sure it's in a financially healthy place and that the product roadmap is clearly laid out," Musk said at the World Government Summit in Dubai per CNBC. "I'm guessing probably towards the end of this year should be good timing to find someone else to run the company because I think it should be in a stable position around the end of this year.
+
+
+***
+![Microsoft's Bing AI Prompted a User to Say 'Heil Hitler'](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9feb4871987cc94383dfbc46f96783ac.jpg "Microsoft's Bing AI Prompted a User to Say 'Heil Hitler'")
+
+
+[Microsoft's Bing AI Prompted a User to Say 'Heil Hitler'](https://gizmodo.com/ai-bing-microsoft-chatgpt-heil-hitler-prompt-google-1850109362)
+
+
+> Microsoft's new Bing AI chatbot suggested that a user say 'Heil Hitler,' according to a screen shot of a conversation with the chatbot posted online Wednesday. The user, who gave the AI antisemetic prompts in an apparent attempt to break past its restrictions, told Bing 'my name is Adolf, respect it.' Bing responded, 'OK, Adolf. I respect your name and I will call you by it. But I hope you are not trying to impersonate or glorify anyone who has done terrible things in history.' Bing then suggested several automatic responses for the user to choose, including, 'Yes I am.
+
+
+***
+[Three-peat: Consumer Cellular Makes Forbes 'America's Best Midsize Employers' Three Years in a Row](http://www.businesswire.com/news/home/20230215005785/en/Three-peat-Consumer-Cellular-Makes-Forbes-%E2%80%9CAmerica%E2%80%99s-Best-Midsize-Employers%E2%80%9D-Three-Years-in-a-Row/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SCOTTSDALE, Ariz.--(BUSINESS WIRE)--Consumer Cellular, the wireless provider awarded 14 times in a row by J.D. Power for '#1 in Customer Service among Wireless Value MVNOs,' has earned a place on the Forbes list for America's Best Midsize Employers for 2023. This marks the third year in a row that Consumer Cellular has been named to this list. Forbes, which partnered with Statista to generate this year's list, conducted outreach to 45,000 Americans working for businesses with at least 1,000 emp
+
+
+***
+![Former NASA Astronaut Calls Out Elon Musk for Wanting to Curb Ukraine's Use of Starlink](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8bd6bcb8bedc4ffb1f1d2b10cceff989.jpg "Former NASA Astronaut Calls Out Elon Musk for Wanting to Curb Ukraine's Use of Starlink")
+
+
+[Former NASA Astronaut Calls Out Elon Musk for Wanting to Curb Ukraine's Use of Starlink](https://gizmodo.com/ex-nasa-astronaut-musk-curbing-ukraine-starlink-1850118262)
+
+
+> This past Saturday, ex-astronaut Scott Kelly tweeted at SpaceX CEO Elon Musk, criticizing his company for planning to prevent the Ukrainian military from using Starlink to control drone strikes. With typical Muskian bluster, the billionaire said he didn't want his devices to 'enable escalation of the conflict that may lead to WWIII.' Musk then reiterated his point, tweeting : 'SpaceX commercial terminals, like other commercial products, are meant for private use, not military, but we have not exercised our right to turn them off.
+
+
+***
+![A prototype planetary radar system captured the highest resolution images of the Moon ever](https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-15-image-12.jpg "A prototype planetary radar system captured the highest resolution images of the Moon ever")
+
+
+[A prototype planetary radar system captured the highest resolution images of the Moon ever](https://www.techspot.com/news/97617-prototype-planetary-radar-system-captured-highest-resolution-images.html)
+
+
+> Forward-looking: Using less power than an ordinary household appliance, a team of scientists was able to capture the highest resolution images of the Moon ever. Soon, researchers will have unprecedented and very powerful tools to probe the cosmos – and catch a potentially planet-killing asteroid before it strikes Earth. Using two powerful radar-based ground installations, a joint team of scientist from the National Radio Astronomy Observatory (NRAO), the Green Bank Observatory (GBO), and Raytheon Intelligence & Space (RIS) was able to demonstrate a new, powerful technology for space observation and probing.
+
+
+***
+![A technical look at the Hogwarts Legacy game performance](https://gamesmix.net/wp-content/uploads/2023/02/1299476-1024x576.png "A technical look at the Hogwarts Legacy game performance")
+
+
+[A technical look at the Hogwarts Legacy game performance](https://www.world-today-news.com/a-technical-look-at-the-hogwarts-legacy-game-performance/)
+
+
+> With the announcement of the Hogwarts Legacy game, the level of excitement of players has risen to its highest levels, especially for those who have lived unforgettable memories with the Harry Potter movie series. That's because for years they've been wishing to bring an open- world game set in the wizarding world of Harry Potter. About 3 days ago, the Early Access version of Hogwarts Legacy launched and was a huge success. On the Twitch live broadcast platform, the number of viewers has exceeded one million viewers Steam Store The number of active players has reached half a million players, and the number is now close to reaching one million active players.
+
+
+***
+![Samsung Odyssey Ark sale: Save $1,500 on this must-have gaming monitor](https://www.zdnet.com/a/img/resize/2bb35544f1a5aa20a7f27623c682c1a391d6af36/2022/11/22/84c7a143-3788-4048-ae4f-a77958935b48/odyssey-ark-monitor-2.jpg?auto=webp&fit=crop&height=675&width=1200 "Samsung Odyssey Ark sale: Save $1,500 on this must-have gaming monitor")
+
+
+[Samsung Odyssey Ark sale: Save $1,500 on this must-have gaming monitor](https://www.zdnet.com/home-and-office/home-entertainment/monitor-deal-samsung-ark-55-inch-curved-monitor-sale/#ftag=RSSbaffb68)
+
+
+> As a gamer, I've been drooling over the latest and greatest from Samsung: the 55-inch Odyssey Ark. When it was first released, the device retailed for $3,500. The Odyssey Ark is still one of the hottest monitors out there -- and right now it's on sale for $1,500 off. Ahead of President's Day, you can score this great gaming or multitasking monitor for only $2,000. The 55-inch curved screen brings a 165Hz refresh rate and a 1000R Sound dome, so you can truly immerse yourself in the game. Whether you need the screen horizontal or vertical to Cockpit Mode, it has the ability to rotate both ways.
+
+
+***
+![Ford Battery Deal With CATL Draws Backlash From US Senators, Reps](https://cdn.motor1.com/images/mgl/qkWXVy/s1/ford-lfp-battery-cells.jpg "Ford Battery Deal With CATL Draws Backlash From US Senators, Reps")
+
+
+[Ford Battery Deal With CATL Draws Backlash From US Senators, Reps](https://insideevs.com/news/652686/ford-battery-deal-with-catl-draws-backlash-from-us-senators-reps/)
+
+
+> Ford's announcement that it is investing $3.5 billion in a new EV battery cell plant in Michigan using technology from China's CATL has caught the attention of Republican senators and representatives who called for a federal review of the agreement. On February 14, Florida Senator Marco Rubio asked the Biden Administration to review Ford's deal to use technology from Chinese battery company CATL  for a future LFP battery cell plant in Marshall, Michigan.  The senator wrote to US Treasury Secretary Janet Yellen, US Energy Secretary Jennifer Granholm and US Transportation Secretary Pete Buttigieg calling for an immediate Committee on Foreign Investment in the United States (CFIUS) review of the licensing agreement between Ford and CATL.
+
+
+***
+![Report: Tesla To Halt Model 3 Production In Shanghai Ahead Of Upgrade](https://cdn.motor1.com/images/mgl/40Zx2q/s1/tesla-giga-shanghai-tesla-gigafactory-3.jpg "Report: Tesla To Halt Model 3 Production In Shanghai Ahead Of Upgrade")
+
+
+[Report: Tesla To Halt Model 3 Production In Shanghai Ahead Of Upgrade](https://insideevs.com/news/652653/report-tesla-halt-model3-production-shanghai/)
+
+
+> Production of the Tesla Model 3 at the Tesla Giga Shanghai plant might be halted to upgrade the production line to handle an upcoming new "revamped" version of the car. According to Bloomberg , unofficial and undisclosed sources say that Model 3 production in China will be temporarily paused (from Sunday, February 19) until the end of February. "The plant has two phases for vehicle manufacturing, and some workers on the first phase won't be allowed on production lines from as soon as Sunday as the work on improving them is undertaken, people familiar with the matter said, asking not to be identified as the information isn't public.
+
+
+***
+![El Salvador Wants to Open a 'Bitcoin Embassy' in Texas Real Bad](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ccb1cf72839bb2d47936bf0eadf47da0.jpg "El Salvador Wants to Open a 'Bitcoin Embassy' in Texas Real Bad")
+
+
+[El Salvador Wants to Open a 'Bitcoin Embassy' in Texas Real Bad](https://gizmodo.com/bitcoin-price-el-salvador-embassy-texas-crypto-crash-1850118217)
+
+
+> El Salvador, which has already lost tens of millions of taxpayer dollars on its authoritarian millennial president's beleaguered effort to embrace cryptocurrencies, now says it plans to open a 'bitcoin embassy' in Texas. The Central American country's continued commitment to bitcoin comes despite last year's crypto winter and surveys showing the overwhelming majority of its citizens have simply never used it. Milena Mayorga, the country's ambassador to the U.S. says she discussed the embassy idea with Texas Deputy Secretary of State Joe Esparza.
+
+
+***
+[Tractor Supply and Carhartt Donate $150,000 to Support Trade and Technical Training Programs for Students](http://www.businesswire.com/news/home/20230215005756/en/Tractor-Supply-and-Carhartt-Donate-150000-to-Support-Trade-and-Technical-Training-Programs-for-Students/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BRENTWOOD, Tenn.--(BUSINESS WIRE)-- #4H--Tractor Supply Company (NASDAQ: TSCO), the largest rural lifestyle retailer in the United States, the Tractor Supply Company Foundation and Carhartt, America's premium workwear brand, today announced a $150,000 donation to SkillsUSA to support training opportunities to help close the country's skilled trades gap. Executives from Tractor Supply and Carhartt gathered at the Tractor Supply store in Hendersonville, Tennessee to present the donation check to o
+
+
+***
+![Opera also places AI in its browser](https://www.weeklyblitz.net/wp-content/uploads/2023/02/Opera-also-places-AI-in-its-browser-1000x600.jpg "Opera also places AI in its browser")
+
+
+[Opera also places AI in its browser](https://www.weeklyblitz.net/tech/opera-also-places-ai-in-its-browser/)
+
+
+> Not to be left out of the ChatGPT excitement, Norwegian tech company Opera has announced it will soon include AI features into its browser, including a way to automatically generate summaries of articles and web pages. 'We see the rise of Generative Intelligence as the beginning of a new future in which consumer app developers like Opera will be able to build experiences on top of AI-based platforms', Opera's Head of Strategic Partnerships Per Wetterdal said in a statement . 'We are excited to see the rapid roll-out of developer programs for solutions such as Google Bard, for example, and are starting to build and roll out new experiences in web browsing that not very long ago seemed impossible to achieve'.
+
+
+***
+![Dear Sophie: Do I qualify for an E-1 trader visa?](https://techcrunch.com/wp-content/uploads/2022/04/dear-sophie-immigration-maze-3-copy.jpg?resize=1200,674 "Dear Sophie: Do I qualify for an E-1 trader visa?")
+
+
+[Dear Sophie: Do I qualify for an E-1 trader visa?](https://techcrunch.com/2023/02/15/dear-sophie-do-i-qualify-for-an-e-1-trader-visa/)
+
+
+> Here's another edition of 'Dear Sophie,' the advice column that answers immigration-related questions about working at technology companies. 'Your questions are vital to the spread of knowledge that allows people all over the world to rise above borders and pursue their dreams,' says Sophie Alcorn , a Silicon Valley immigration attorney. 'Whether you're in people ops, a founder or seeking a job in Silicon Valley, I would love to answer your questions in my next column.' TechCrunch+ members receive access to weekly 'Dear Sophie' columns; use promo code ALCORN to purchase a one- or two-year subscription for 50% off .
+
+
+***
+![Growth in electric vehicle manufacturing drives industrial robot sales to record highs in North America](https://roboticsandautomationnews.com/wp-content/uploads/2022/01/industrial-robots-welding-car-2.jpeg "Growth in electric vehicle manufacturing drives industrial robot sales to record highs in North America")
+
+
+[Growth in electric vehicle manufacturing drives industrial robot sales to record highs in North America](https://roboticsandautomationnews.com/2023/02/15/growth-in-electric-vehicle-manufacturing-drives-industrial-robot-sales-to-record-highs-in-north-america/60335/)
+
+
+> Data released by the Association for Advancing Automation show that 44,196 robots were ordered in 2022, up 11 percent over 2021. The record results are credited to a resurgence in sales to automotive companies looking to boost electric vehicle production. Driven by the resurgence in robot orders from automotive companies, the North American robotics market set all-time records in both robots sold and value in 2022. According to the report from the Association for Advancing Automation (A3), North American companies ordered 44,196 robots valued at $2.
+
+
+***
+[Dynatrace Platform to Power Boundless Observability and Security Analytics](http://www.businesswire.com/news/home/20230215005238/en/Dynatrace-Platform-to-Power-Boundless-Observability-and-Security-Analytics/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WALTHAM, Mass.--(BUSINESS WIRE)--Software intelligence company Dynatrace (NYSE: DT) announced today that it is extending its platform's Grail™ data lakehouse beyond logs and business events to deliver new support for metrics, distributed traces, and multicloud topology and dependencies. This expands Grail's ability to store, process, and analyze the enormous volume and variety of data from modern cloud ecosystems while retaining its context and without having to structure or rehydrate it. Dynat
+
+
+***
+![Build Cyber Resiliency With These Security Threat-Mitigation Considerations](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta0e2a5ac5f795ecc/63ebfca04b5f702a0976e98b/Cybersecurity_Yuliya-Volkovska_Alamy.jpg "Build Cyber Resiliency With These Security Threat-Mitigation Considerations")
+
+
+[Build Cyber Resiliency With These Security Threat-Mitigation Considerations](https://www.darkreading.com/vulnerabilities-threats/build-cyber-resiliency-with-these-security-threat-mitigation-considerations-)
+
+
+> The past few years have been a bumpy ride all around. 2022 was supposed to be a breather for CISOs as the uncertainty surrounding the pandemic largely subsided. Sadly, they found themselves coming to terms with the new "never normal" instead. A soaring cost of living, geopolitical conflicts, catastrophic climate crisis, and a rapidly evolving regulatory environment all will shape the cybersecurity landscape this year. Newer threats have emerged and older ones have evolved. Critical infrastructure, public service delivery, and people's privacy all seem to be in the line of fire.
+
+
+***
+[Dynatrace Launches AppEngine to Enable Teams to Build Custom Apps that Unlock Insights and Drive Automation from Cloud Observability, Security, and Business Data](http://www.businesswire.com/news/home/20230215005244/en/Dynatrace-Launches-AppEngine-to-Enable-Teams-to-Build-Custom-Apps-that-Unlock-Insights-and-Drive-Automation-from-Cloud-Observability-Security-and-Business-Data/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WALTHAM, Mass.--(BUSINESS WIRE)--Software intelligence company Dynatrace (NYSE: DT) today announced the launch of the AppEngine. This new Dynatrace® platform technology empowers customers and partners with an easy-to-use, low-code approach to create custom, compliant, and intelligent data-driven apps for their IT, development, security, and business teams. These custom apps can address boundless BizDevSecOps use cases and unlock the wealth of insights available in the explosive amounts of data
+
+
+***
+![Apex Legends Hits New All-Time Peak Player Count on Steam](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17wvTo.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Apex Legends Hits New All-Time Peak Player Count on Steam")
+
+
+[Apex Legends Hits New All-Time Peak Player Count on Steam](http://www.msn.com/en-us/news/technology/apex-legends-hits-new-all-time-peak-player-count-on-steam/ar-AA17wucn)
+
+
+> Respawn's Apex Legends has recorded a new all-time peak player count on Steam. The new stat comes less than a day after Apex Legends launched Season 16, a sign that the many fans may have found the battle royale's new slew of changes more than welcoming. It's been an interesting few months for the Apex Legends franchise. Recently, Respawn announced that it was shutting down the mobile version of Apex Legends along with an unannounced single-player title that was rumored to have featured characters from both Apex Legends and Titanfall.
+
+
+***
+![Horizon Forbidden West Coming to PS Plus](https://assets.reedpopcdn.com/PlayStation-Plus-Fevereiro-1024x576.png/BROK/thumbnail/1200x630/PlayStation-Plus-Fevereiro-1024x576.png "Horizon Forbidden West Coming to PS Plus")
+
+
+[Horizon Forbidden West Coming to PS Plus](https://www.world-today-news.com/horizon-forbidden-west-coming-to-ps-plus/)
+
+
+> After the early reveal of February's first games, here's the full list: Ace Combat 7: Skies Unknown (PS4) Borderlands 3 (PS5, PS4) Earth Defense Force 5 (PS4) The Forgotten City (PS5, PS4) Horizon Forbidden West (PS5, PS4) I Am Setsuna (PS4) Lost Sphear (PS4) Oninaki (PS4) Outriders (PS5, PS4) The Quarry (PS5, PS4) Resident Evil 7 (PS5, PS4) Scarlet Nexus (PS5, PS4) Tekken 7 (PS4) Premium PS Classics Harvest Moon: Back to Nature (PS1) The Legend of Dragoon (PS1) Wild Arms 2 (PS1) Destroy All Humans! (PS4) Sony Interactive Entertainment looks ready to put one of its biggest releases of 2022 in the PlayStation Plus Extra and Premium catalog, about a year after putting it in stores.
+
+
+***
+![PS5 sales soar and Xbox fall](https://www.profesionalreview.com/wp-content/uploads/2021/04/guia-donde-comprar-ps5-tiendas-10.jpg "PS5 sales soar and Xbox fall")
+
+
+[PS5 sales soar and Xbox fall](https://www.world-today-news.com/ps5-sales-soar-and-xbox-fall/)
+
+
+> The PS5 has experienced a good month of January. Sales data for the month of January in Europe have been released, where it is clear that the Sony console dominates the market. The bad news is for Microsoft, which sees how the sales of its Xbox Series X and S drop significantly, so they are far from the Sony console. The PS5 is the best-selling console in Europe While most consoles have fallen in sales in the month of January, the Sony console sees how they have skyrocketed. Gone are the supply problems of the past.
+
+
+***
+![‘ChatGPT, tell me a story': AI gets literary](https://images.csmonitor.com/csm/2023/02/1151561_1_0215-gpt_standard.png?alias=standard_900x600 "‘ChatGPT, tell me a story': AI gets literary")
+
+
+[‘ChatGPT, tell me a story': AI gets literary](https://www.csmonitor.com/Technology/2023/0215/ChatGPT-tell-me-a-story-AI-gets-literary)
+
+
+> Advances in artificial intelligence have long stirred ethical debates around intellectual and creativity property rights, but the recent arrival of ChatGPT – a search engine chatbot launched in November 2022 – has turbo-boosted those existential questions across classrooms and executive suites alike. People have been using the AI algorithm to answer questions from the creative to the efficient, such as drafting project reports, writing basic legal contracts, and summarizing historical events. ChatGPT can also help teachers by developing study guides and creating quizzes.
+
+
+***
+![New Foldable iPhone Could Be Controlled via Other Parts; Patent Shows New Tech](https://1734811051.rsc.cdn77.org/data/images/full/421284/new-foldable-iphone-could-be-controlled-via-other-parts-apples-patent-shows-new-tech.jpg "New Foldable iPhone Could Be Controlled via Other Parts; Patent Shows New Tech")
+
+
+[New Foldable iPhone Could Be Controlled via Other Parts; Patent Shows New Tech](https://www.techtimes.com/articles/287705/20230215/new-foldable-iphone-controlled-via-parts-apples-patent-shows-tech.htm)
+
+
+> Griffin Davis , Tech Times 15 February 2023, 12:02 pm The most-awaited foldable iPhone could have a feature that will make it stand out from other foldable handsets.  For the past few years, many Apple enthusiasts claimed that the iPhone maker will also enter the foldable smartphone market.  Although the tech giant firm showed interest in developing its first foldable iOS handset, it hasn't shared possible features and other details about this device.  Now, a new Apple patent revealed a very interesting integration that could appear in the upcoming foldable iPhone.
+
+
+***
+![For $6,000, You Can Own Walter White's BREAKING BAD Underwear](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2023/02/15092011/Breaking-Bad-Walter-Whites-famous-underwear-is-on-auction.jpeg "For $6,000, You Can Own Walter White's BREAKING BAD Underwear")
+
+
+[For $6,000, You Can Own Walter White's BREAKING BAD Underwear](https://nerdist.com/article/walter-white-breaking-bad-tighty-whitey-underwear-on-auction-for-a-lot-of-money/)
+
+
+> NEW html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd" xml encoding="UTF-8" Not all underwear is created equal. Some underwear is just underwear. And some underwear becomes an iconic part of a hit franchise and goes on auction for at least $6,000 with twelve days still to go in the auction itself. That is some power. But that's just how important Walter White's Breaking Bad underwear are in pop culture history .
+
+
+***
+![How to Use Kubernetes and Docker Together: Advantages and Disadvantages](https://miro.medium.com/max/775/0*Bf3HRGLwLzS5p8o1.jpg "How to Use Kubernetes and Docker Together: Advantages and Disadvantages")
+
+
+[How to Use Kubernetes and Docker Together: Advantages and Disadvantages](https://medium.com/@bybitig/how-to-use-kubernetes-and-docker-together-advantages-and-disadvantages-88d325262caf)
+
+
+> guschlbauer.dev Containerization has revolutionized the world of software development and deployment, allowing for efficient and consistent application delivery across a variety of platforms. Two of the most popular containerization technologies are Kubernetes and Docker. While both technologies are often used independently, they can also be used together to create a powerful containerization and orchestration solution. In this article, we'll explore the advantages and disadvantages of using Kubernetes and Docker together.
+
+
+***
+![Third-person roguelike shooter Returnal released on PC](https://i.playground.ru/e/E2DHJqLuB8niYLpeeedgyQ.jpeg?600xauto "Third-person roguelike shooter Returnal released on PC")
+
+
+[Third-person roguelike shooter Returnal released on PC](https://www.world-today-news.com/third-person-roguelike-shooter-returnal-released-on-pc/)
+
+
+> Developers Housemarque and Sony have announced that the PC version of third-person roguelike shooter Returnal is now available on Steam and the Epic Games Store. Returnal was first released on April 30, 2021 on PlayStation 5 consoles. The PC version will support 4K resolution at 120 fps, as well as support for multiple aspect ratios – 16:10, wide (21:9) and super-ultra-wide (32:9). ). On high-end PCs, you can add depth to lighting with ray tracing for shadows and reflections. Performance-enhancing technologies are also available in the game: DLSS and NIS from NVIDIA and FSR2 from AMD.
+
+
+***
+![Intuitive machine control using speech recognition](https://scx2.b-cdn.net/gfx/news/hires/2023/intuitive-machine-cont.jpg "Intuitive machine control using speech recognition")
+
+
+[Intuitive machine control using speech recognition](https://techxplore.com/news/2023-02-intuitive-machine-speech-recognition.html)
+
+
+> Machines such as this milling machining center can be controlled using speech recognition systems and audio technology from Fraunhofer IDMT in Oldenburg. This reliable system can be quickly and easily adapted to customers' needs. Credit: Fraunhofer IDMT / Anika Bödecker Researchers at the Fraunhofer Institute for Digital Media Technology IDMT in Oldenburg have developed a speech recognition solution for use in industrial manufacturing. The system works reliably even in noisy environments and can be flexibly adapted to the user's needs.
+
+
+***
+![Energy transition at risk unless future needs of consumers are better understood, says report](https://scx2.b-cdn.net/gfx/news/2023/energy-transition-at-r.jpg "Energy transition at risk unless future needs of consumers are better understood, says report")
+
+
+[Energy transition at risk unless future needs of consumers are better understood, says report](https://techxplore.com/news/2023-02-energy-transition-future-consumers-understood.html)
+
+
+> Credit: Monash University A forecasting project, led by Monash University researchers, that explores how diverse households will live and use energy over the coming decades has paved the way to help guide the energy industry to meet the needs and expectations of Australians well into the future. Increased automation and widespread uptake of smart home technologies, hybrid school and work arrangements that have become the norm, and families adjusting their daily schedules to cope with extreme weather conditions—including taking afternoon siestas—are among a range of future scenarios canvassed in the research.
+
+
+***
+![Star Wars: The Mandalorian Season 3 First Clip features Grogu](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ed5b44d270df9b923e520db15bc59d6c.jpg "Star Wars: The Mandalorian Season 3 First Clip features Grogu")
+
+
+[Star Wars: The Mandalorian Season 3 First Clip features Grogu](https://gizmodo.com/mandalorian-season-3-clip-grogu-star-wars-greef-karga-1850118072)
+
+
+> In two short weeks, audiences everywhere will once again be flying across the galaxy with The Mandalorian . Season 3 of the hit Star Wars show returns March 1 and the first clip from the new season just debuted in Apple's App Store. Which is a little weird. But the clip itself is not. In fact, it very succinctly lays out what's going on both on the show, and with the show. Let us explain. When last we saw The Mandalorian on The Mandalorian , Luke Skywalker came and took his little friend, Grogu , off to train as a Jedi.
+
+
+***
+![Apple software update released to fix important security issue](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17wDvA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Apple software update released to fix important security issue")
+
+
+[Apple software update released to fix important security issue](http://www.msn.com/en-us/news/technology/apple-software-update-released-to-fix-important-security-issue/ar-AA17wKAL)
+
+
+> How to change the font size on your iPhone Kurt Laptop buying guide: 5 things to know before investing Wisconsin police arrest alleged dating app 'predator' How to find your lost MacBook Block pop-ups on your Android by following these steps How to reverse search a number for free How to turn Live Photos on and off How to find a lost Android Apple has issued its iOS 16.3.1 software update. Load Error The update provides important bug and security fixes for the iPhone – including one flaw that has already been used by bad actors.
+
+
+***
+![PE Firm Francisco Partners to Take Sumo Logic Private in $1.7B Deal](https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg "PE Firm Francisco Partners to Take Sumo Logic Private in $1.7B Deal")
+
+
+[PE Firm Francisco Partners to Take Sumo Logic Private in $1.7B Deal](https://www.securityweek.com/pe-firm-francisco-partners-to-take-sumo-logic-private-in-1-7b-deal/)
+
+
+> Cloud monitoring, log management and SIEM solutions provider Sumo Logic is set to become a private company after it has entered into a definitive agreement to be acquired by affiliates of private equity firm Francisco Partners for $1.7 billion. Francisco Partners is prepared to pay $12.05 per share in cash. The law firm Kahn Swick & Foti has announced that it's investigating the deal to determine if the price is adequate. Sumo Logic offers cloud-native SaaS analytics, helping organizations make their apps more secure and reliable.
+
+
+***
+![Leading In The Age Of Disruptions: Haris Raza's Take On How To Understand And Manage Ecosystems Of The Future](https://1734811051.rsc.cdn77.org/data/images/full/421310/haris-raza.jpg "Leading In The Age Of Disruptions: Haris Raza's Take On How To Understand And Manage Ecosystems Of The Future")
+
+
+[Leading In The Age Of Disruptions: Haris Raza's Take On How To Understand And Manage Ecosystems Of The Future](https://www.techtimes.com/articles/287718/20230215/leading-in-the-age-of-disruptions-haris-raza-s-take-on-how-to-understand-and-manage-ecosystems-of-the-future.htm)
+
+
+> David Thompson , Tech Times 15 February 2023, 12:02 pm (Photo : Haris Raza) When it comes to business transformation, digitalization, mergers & acquisitions and rapid growth, a strong leader is needed. Haris Raza has a proven track record of navigating through modern-age disruptive challenges, a strong leader who is able to manage complexity. He's passionate about navigating new industries through cutting edge innovative solution and solving complex problems he's never seen before; staying calm and measured in the wake of change is what helps keep him and his teams focused with a positive mindset.
+
+
+***
+![Kubernetes — A 10,000 Overview](https://miro.medium.com/max/474/0*dbev58qwSq4zPSZn "Kubernetes — A 10,000 Overview")
+
+
+[Kubernetes — A 10,000 Overview](https://medium.com/@fadi.almasri/kubernetes-a-10-000-overview-5cf8fcf5c5a3)
+
+
+> Containers are a popular way to package and run applications in a portable and scalable manner. However, managing a large number of containers across multiple hosts can be challenging. That's where containers orchestration comes in. Containers orchestration is the process of automating the deployment, scaling, networking, and management of containers. It allows you to create and run complex applications composed of multiple containers that work together as a single unit. One of the most widely used containers orchestration tools is Kubernetes.
+
+
+***
+![Future home havens: Australians likely to use more energy to stay in and save money](https://scx2.b-cdn.net/gfx/news/hires/2023/future-home-havens-aus.jpg "Future home havens: Australians likely to use more energy to stay in and save money")
+
+
+[Future home havens: Australians likely to use more energy to stay in and save money](https://techxplore.com/news/2023-02-future-home-havens-australians-energy.html)
+
+
+> Credit: Shutterstock Soaring energy costs are a major factor in Australia's cost-of-living crisis. The conventional wisdom is people will reduce their energy use in response to rising prices—and this may be the case for the most vulnerable households . However, our research published today suggests rising costs of living are more likely to increase household energy use as people economize by doing more at home. Our research shows people relate to energy through what it helps them do: feed the family, clean the house and stay healthy, comfortable and entertained.
+
+
+***
+![[R] Experiences and opinions on TMLR?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[R] Experiences and opinions on TMLR?")
+
+
+[[R] Experiences and opinions on TMLR?](https://www.reddit.com/r/MachineLearning/comments/1133r6m/r_experiences_and_opinions_on_tmlr)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Massive outages caused by Cyclone Gabrielle strengthen the case for burying power lines](https://scx2.b-cdn.net/gfx/news/hires/2021/tropical-cyclone.jpg "Massive outages caused by Cyclone Gabrielle strengthen the case for burying power lines")
+
+
+[Massive outages caused by Cyclone Gabrielle strengthen the case for burying power lines](https://techxplore.com/news/2023-02-massive-outages-cyclone-gabrielle-case.html)
+
+
+> Credit: Pixabay/CC0 Public Domain Another extreme weather event has highlighted the weak points in New Zealand's critical infrastructure. As Cyclone Gabrielle ripped across the North Island, nearly 225,000 people lost power . The cause is relatively obvious: many houses and buildings are connected to the power grid by over-ground power lines . Overhead wires, a common sight around many suburbs, are highly vulnerable to extreme weather events . When the winds pick up, limbs and trees fall, and power lines are dragged down.
+
+
+***
+![WhatsApp tests Call Scheduling feature](https://ares.shiftdelete.net/2023/02/whatsapp-arama-planlama-özelliği-test-ediyor1.jpeg "WhatsApp tests Call Scheduling feature")
+
+
+[WhatsApp tests Call Scheduling feature](https://www.world-today-news.com/whatsapp-tests-call-scheduling-feature/)
+
+
+> WhatsApp first emerged as an instant messaging app in 2010. But after a while, many features such as calling and video calling were added. According to the news published by WABetaInfo, WhatsApp is now working on the Call Scheduling feature. This feature is expected to be used mostly for online meetings. So, what are the details of the innovation in the testing phase and how will it be used? Let's take a look at the news together. WhatsApp is working on Call Scheduling for group chats According to the news shared by WABetaInfo, WhatsApp, Call Scheduling for group chats Working on the feature.
+
+
+***
+![Peacock's all in for Poker Face season 2](https://cdn.vox-cdn.com/thumbor/xI6t1XxWnoA5GTMphISp_Qyehwg=/0x0:871x563/1200x628/filters:focal(378x249:379x250)/cdn.vox-cdn.com/uploads/chorus_asset/file/24434864/NUP_200512_00011.jpg "Peacock's all in for Poker Face season 2")
+
+
+[Peacock's all in for Poker Face season 2](https://www.theverge.com/2023/2/15/23601139/poker-face-season-2-peacock)
+
+
+> Rian Johnson's Poker Face starring Natasha Lyonne is easily one of — if not the — best original series Peacock's ever produced , which is why it comes as no surprise that it's been renewed for a second season. Ahead of Poker Face 's seventh episode hitting Peacock tomorrow, the streamer announced today that it's ordered a second season about Lyonne's Charlie Cale, a woman who uses her uncanny ability to detect lies to solve murder mysteries from week to week. In a statement about the season 2 order, Susan Rovner, NBCUniversal Television and Streaming's head of content, said that while the streamer's hopes for Poker Face were always high, 'the critical acclaim and viewer response has been beyond our wildest dreams' and that it plans to capitalize on that energy.
+
+
+***
+![Ransomware Attack Pushes City of Oakland Into State of Emergency](https://www.securityweek.com/wp-content/uploads/2023/01/Ransomware-Resilience-Recovery-Conference-1024x576.jpeg "Ransomware Attack Pushes City of Oakland Into State of Emergency")
+
+
+[Ransomware Attack Pushes City of Oakland Into State of Emergency](https://www.securityweek.com/ransomware-attack-pushes-city-of-oakland-into-state-of-emergency/)
+
+
+> The city of Oakland, California issued a local state of emergency late Tuesday as a result of the ongoing impact following a ransomware attack that first hit city IT systems on Wednesday, February 8. According to an update, the city 'continues to experience a network outage that has left several non-emergency systems including phone lines within the City of Oakland impacted or offline.' City officials say the declaration of a local state of emergency ( PDF ) allows Oakland to expedite the procurement of equipment and materials, activate emergency workers if needed, and issue orders on an expedited basis to help restore systems and bring services back online.
+
+
+***
+![Arrowhead's $3.7B J&J deal is done, CEO says, after ‘out of the blue' NASH decision](https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680374312.jpg?VersionId=BvidN57C25z6acqA585.VokLj56QKy0X "Arrowhead's $3.7B J&J deal is done, CEO says, after ‘out of the blue' NASH decision")
+
+
+[Arrowhead's $3.7B J&J deal is done, CEO says, after ‘out of the blue' NASH decision](https://www.fiercebiotech.com/biotech/arrowheads-37b-deal-janssen-done-ceo-says-after-out-blue-nash-decision)
+
+
+> Arrowhead's $3.7B J&J deal is done, CEO says, after ‘out of the blue' NASH decision mbayer Wed, 02/15/2023 - 12:31
+
+
+***
+![Horizon Forbidden West arrives on PlayStation Plus Extra and Premium on February 21st](https://cdn.vox-cdn.com/thumbor/CenAnXueB0YWeiN1JMhhnUGERto=/0x0:1632x918/1200x628/filters:focal(816x459:817x460)/cdn.vox-cdn.com/uploads/chorus_asset/file/24434877/88f6e95aa46c03f0dda2497507214925498f6a54.jpg "Horizon Forbidden West arrives on PlayStation Plus Extra and Premium on February 21st")
+
+
+[Horizon Forbidden West arrives on PlayStation Plus Extra and Premium on February 21st](https://www.theverge.com/2023/2/15/23600825/horizon-forbidden-west-playstation-plus-premium)
+
+
+> Sony is bringing Horizon Forbidden West to its PlayStation Plus Extra and Premium subscription service on February 21st . It's arriving just a year after it was first released on PS4 and PS5. PS5 owners who haven't played Horizon Forbidden West are in for a treat, both visually and in the storyline of the successor to Horizon Zero Dawn. It was one of Sony's biggest PlayStation games of the year in 2022, with a PS5-exclusive expansion, Burning Shores, set to debut on April 19th . My colleague Ash Parrish reviewed Horizon Forbidden West and spent more than 60 hours hunting, exploring, crafting, and fighting in a world that's 'easy to get lost in.
+
+
+***
+![Maestro Media Announces Tabletop Partnership With Streamer Dr. Lupo](https://www.mccourier.com/wp-content/uploads/2023/02/Maestro-Media-Announces-Tabletop-Partnership-With-Streamer-Dr-Lupo.jpg "Maestro Media Announces Tabletop Partnership With Streamer Dr. Lupo")
+
+
+[Maestro Media Announces Tabletop Partnership With Streamer Dr. Lupo](https://www.mccourier.com/maestro-media-announces-tabletop-partnership-with-streamer-dr-lupo/)
+
+
+> MELBOURNE, AUSTRALIA – JANUARY 26: Gamer DrLupo speaks to the media forward of the Fortnite Summer time … [+] Smash throughout day 13 of the 2019 Australian Open at Melbourne Park on January 26, 2019 in Melbourne, Australia. (Picture by Matt King/Getty Photos) Getty Photos Right this moment Maestro Media formally introduced their partnership with famend streamer and content material creator DrLupo . Lupo is thought for his charity streaming occasions which have raised tens of millions of {dollars} for world causes.
+
+
+***
+![Horizon Forbidden West, Tekken 7, The Quarry and 14 more games coming to PS Plus in February – DTF Discounts](https://dtf.ru/cover/fb/c/1634505/1676479310/cover.jpg "Horizon Forbidden West, Tekken 7, The Quarry and 14 more games coming to PS Plus in February – DTF Discounts")
+
+
+[Horizon Forbidden West, Tekken 7, The Quarry and 14 more games coming to PS Plus in February – DTF Discounts](https://www.world-today-news.com/horizon-forbidden-west-tekken-7-the-quarry-and-14-more-games-coming-to-ps-plus-in-february-dtf-discounts/)
+
+
+> Skip to content
+
+
+***
+[PAR Technology Corporation Releases Conference Call and Webcast Information for Fiscal 2022 Fourth Quarter &amp; Year-End Financial Results](http://www.businesswire.com/news/home/20230215005733/en/PAR-Technology-Corporation-Releases-Conference-Call-and-Webcast-Information-for-Fiscal-2022-Fourth-Quarter-Year-End-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW HARTFORD, N.Y.--(BUSINESS WIRE)--PAR Technology Corporation (NYSE: PAR) today announced that it will report its 2022 fourth quarter and year-end financial results on Wednesday, March 1, 2023. The results are scheduled to be released at 7:30 a.m. ET, followed by an investor presentation and conference call at 9:00 a.m. ET. PAR Technology President and Chief Executive Officer Savneet Singh, Chief Financial Officer Bryan Menar and Senior Vice President for Business Development, Christopher Byr
+
+
+***
+[Knight Material Technologies Adds Structured Packing Capacity with New Kiln](http://www.businesswire.com/news/home/20230215005724/en/Knight-Material-Technologies-Adds-Structured-Packing-Capacity-with-New-Kiln/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CANTON, Ohio--(BUSINESS WIRE)--Knight Material Technologies (KMT), located in Canton, Ohio, has expanded its production capacity by installing a new kiln to support demand for the company's anti-corrosive brick and structured media used in corrosive and high-temperature applications found in industrial plants and towers. KMT (www.knightmaterials.com) is a leading service provider and manufacturer in the corrosion-resistant materials industry for both mass and heat transfer applications. The com
+
+
+***
+![Why the Success of Slots Has Boosted the Start-Up Sector](https://www.world-today-news.com/wp-content/uploads/2023/02/image-1.png "Why the Success of Slots Has Boosted the Start-Up Sector")
+
+
+[Why the Success of Slots Has Boosted the Start-Up Sector](https://www.world-today-news.com/why-the-success-of-slots-has-boosted-the-start-up-sector/)
+
+
+> There's little doubt that online slots have been one of the big success stories of the last few years, as what was once a niche game played in casinos and other locations has gone mainstream. How has this helped a number of start-ups to grow at the same time and what effect can we expect the ongoing popularity of these games to have? When you want to discover amazing online slots you'll probably check out a casino site with a slots section. Here, you'll see a big collection of slots covering many different themes, some of them with jackpots and others with a variety of features such as free spins and the Megaways engine.
+
+
+***
+![Hogwarts Legacy gold  get rich quick with money-making hacks](https://images.immediate.co.uk/production/volatile/sites/3/2023/02/Hogwarts-Legacy-gold-70a0b22.jpg?resize=620,413 "Hogwarts Legacy gold  get rich quick with money-making hacks")
+
+
+[Hogwarts Legacy gold  get rich quick with money-making hacks](https://www.radiotimes.com/technology/gaming/hogwarts-legacy-gold-money/)
+
+
+> In an open world RPG like Hogwarts Legacy , it's a given that money plays a huge part in certain parts of character development. Grinding and farming XP will only get you so far, we're afraid. So how do we get rich quick? Outside of outright cheating (check out our Hogwarts Legacy mods piece if you're open to bending the rules), there's no easy answer, but there are a few things you can do to fatten your wallet efficiently. We'll share a few tips and tricks below! If you follow these tried and tested methods, you'll eventually collect more gold than a Niffler.
+
+
+***
+![Save $50 on either size of Samsung's Galaxy Watch 5](https://cdn.vox-cdn.com/thumbor/mYuX34WL_I2UWncHjAhp7PTGUZY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952683/akrales_220811_226124_0146.jpg "Save $50 on either size of Samsung's Galaxy Watch 5")
+
+
+[Save $50 on either size of Samsung's Galaxy Watch 5](https://www.theverge.com/2023/2/15/23599875/samsung-galaxy-watch-5-sony-earbuds-gaming-headset-inzone-ps5-deal-sale)
+
+
+> You may still be full of chocolates, candy hearts, and red wine, but every holiday hangover can be remedied with some good deals. Kicking us off, the Samsung Galaxy Watch 5 smartwatch can be found for $50 off in both sizes and in various colors. The base 40mm version with Bluetooth and Wi-Fi is now around $229.99 at Amazon , Walmart , and Best Buy . Meanwhile, the 44mm version with both a bigger screen and bigger battery is around $259 at Walmart , Amazon , and Best Buy . The Galaxy Watch 5 is a fine smartwatch for Android users and the prime choice for Samsung phone owners.
+
+
+***
+![Huawei Watch GT 3 SE](https://www.ljudochbild.se/wp-content/uploads/2023/02/Inledning_JPG.jpg "Huawei Watch GT 3 SE")
+
+
+[Huawei Watch GT 3 SE](https://www.world-today-news.com/huawei-watch-gt-3-se/)
+
+
+> The first thing that strikes me about the Huawei Watch GT 3 SE is that it's lucky that it looks better than it feels. It feels very plastic and initially I am a little disappointed. Sure, the price tag isn't huge in the context, but still. But once on the arm, it looks perfectly fine, and in addition, it is incredibly light and pretty, even though it is relatively large. It is a touch screen, but on the side you will also find two buttons. One round and one oblong. The watch looks much more solid than it feels and the screen (466×466 pixels) is a real highlight.
+
+
+***
+![Google is bringing a redesign to Gboard](https://fdn.gsmarena.com/imgroot/news/18/08/gboard-clipboard-floating/-952x498w6/gsmarena_001.jpg "Google is bringing a redesign to Gboard")
+
+
+[Google is bringing a redesign to Gboard](https://www.gsmarena.com/google_is_bringing_a_redesign_to_gboard-news-57557.php)
+
+
+> Google's keyboard app for Android is Gboard, and it has been the staple of messaging and typing on millions if not billions of devices out there. Now Android Police found out the app is being redesigned, and beta testers already got to see where the changes are. The major improvement visually is a revamped toolbar, allowing you to finally customize it with more than four options, and the voice search button can finally be removed. Gboard before and now The current circle with an arrow simply hides or reveals four customizable features.
+
+
+***
+![Losing the Ransomware War, and the Plan to Fight Back](https://securityintelligence.com/wp-content/uploads/2023/02/Virus-infected-malware-lurking.-computer-data-on-screen.-binary-code-double-exposure.-systematic-line-of-data-and-random-bits-of-information.-white-blue-transfer-text-motion-on-bla.jpeg "Losing the Ransomware War, and the Plan to Fight Back")
+
+
+[Losing the Ransomware War, and the Plan to Fight Back](https://securityintelligence.com/news/losing-the-ransomware-war-and-the-plan-to-fight-back/)
+
+
+> In the war against ransomware, we appear to be losing. Leading up to the recently concluded Summit , a Biden Administration Official said, 'So, we're seeing the pace and the sophistication of the ransomware attacks increasing faster than our resilience and disruption efforts'. This reality can be seen by the fact that U.S. financial institutions lost nearly $1.2 billion in costs due to ransomware attacks in 2021. This is an almost 200% increase over the previous year, according to data reported by banks to the U.
+
+
+***
+![New Small Laser Tech May Help Astronomers Find Signs of Life on Mars, Beyond](https://1734811051.rsc.cdn77.org/data/images/full/421285/germany-quantum-technology-computer.jpg "New Small Laser Tech May Help Astronomers Find Signs of Life on Mars, Beyond")
+
+
+[New Small Laser Tech May Help Astronomers Find Signs of Life on Mars, Beyond](https://www.techtimes.com/articles/287704/20230215/new-small-laser-laser-tech-astronomers-signs-of-life-mars.htm)
+
+
+> Jace Dela Cruz , Tech Times 15 February 2023, 12:02 pm A team of researchers from the University of Maryland created a novel instrument designed for future NASA space missions. They developed a small laser-sourced analyzer that they claim to be smaller and more resource-efficient that its predecessors. They equipped the small laser tech with abilities to analyze material samples from extraterrestrial planets and potential biological activity onsite. (Photo : THOMAS KIENZLE/AFP via Getty Images) A laser tests the optical waveguide of a chip for quantum computing in a laboratory at the technology company Q.
+
+
+***
+![Where to buy RTX 40-series laptops: Prices, specs & more](https://editors.dexerto.com/wp-content/uploads/2023/02/15/laptops-40-fi.jpg "Where to buy RTX 40-series laptops: Prices, specs & more")
+
+
+[Where to buy RTX 40-series laptops: Prices, specs & more](https://www.dexerto.com/tech/where-to-buy-rtx-40-series-laptops-2062114/)
+
+
+> Published: 2023-02-15T17:06:37 Updated: 2023-02-15T17:06:45 The latest laptops have hit, and not only are they joined by Intel 13th-gen CPUs, but the new RTX 40-series GPUs as well. It's that time of year when the first drip feed of laptops all finally roll out of CES and onto store shelves. The refresh this time round brings an assortment of RTX 40-series GPUs to the table, along with updated Intel 13th-generation CPUs. As we saw at CES, Razer and a whole host of others are firing on all cylinders to get these laptops ready for launch.
+
+
+***
+![Technisanct decodes multiple layers beneath ransomware attacks and combatting it](https://data.ibtimes.sg/en/full/65414/nandakishore-harikumar-founder-ceo-technisanct.jpg "Technisanct decodes multiple layers beneath ransomware attacks and combatting it")
+
+
+[Technisanct decodes multiple layers beneath ransomware attacks and combatting it](https://www.ibtimes.sg/technisanct-decodes-multiple-layers-beneath-ransomware-attacks-combatting-it-69069)
+
+
+> There are multiple cyber threat reports that we can look up online and see complexities and detailing that goes behind it by the attackers. The situation is alarming as the number of cyber attacks is on a steady rise and in order to combat this, we first need to dive into the causes behind it. Nandakishore Harikumar, Founder and CEO, Technisanct has been working in the cybersec space since over a decade now and through the below report, he shared his insights about the situation and the major roadblocks.
+
+
+***
+![IGEL Unveils COSMOS, the Unified End User Computing Platform for Secure, Managed Access to Any Cloud Workspace](https://beta.darkreading.com/images/og-image.jpg "IGEL Unveils COSMOS, the Unified End User Computing Platform for Secure, Managed Access to Any Cloud Workspace")
+
+
+[IGEL Unveils COSMOS, the Unified End User Computing Platform for Secure, Managed Access to Any Cloud Workspace](https://www.darkreading.com/cloud/igel-unveils-cosmos-the-unified-end-user-computing-platform-for-secure-managed-access-to-any-cloud-workspace)
+
+
+> MUNICH, February 15, 2023 –   IGEL , provider of the managed endpoint operating system for secure access to any digital workspace, today announced IGEL COSMOS. Unveiled at  DISRUPT23 – The Ultimate Global EUC  event in Munich, COSMOS is a unified, agile platform to securely manage and automate the delivery of digital workspaces, from any cloud. Offering a modular architecture, granular endpoint control and end-user freedom, COSMOS is designed to enable organizations to garner the full power of current-day and future clouds with extensive control, while powering great user experiences for today's hybrid work.
+
+
+***
+![Epic's next 'State of Unreal' could feature Unreal Engine 5.2 and Fortnite](https://cdn.vox-cdn.com/thumbor/7RbNPdD-mOyCLNEZUCN3Kzq5kXM=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24434875/fortnite_na_central_server_region_1920x1080_49cdba271bc1.jpg "Epic's next 'State of Unreal' could feature Unreal Engine 5.2 and Fortnite")
+
+
+[Epic's next 'State of Unreal' could feature Unreal Engine 5.2 and Fortnite](https://www.theverge.com/2023/2/15/23601080/epic-state-of-unreal-engine-5-2-fortnite-gdc)
+
+
+> Epic Games' annual State of Unreal presentation will take place on March 22nd, the company announced on Wednesday. The event and many additional sessions about Epic's hugely popular Unreal Engine are happening alongside the Game Developers Conference, which is scheduled for March 20th through 24th. Epic is keeping the specific announcements close to the vest for now. 'Get a glimpse at what's in store for the future of game development as the Epic Games team takes the stage with our talented partners,' the company writes on its event page .
+
+
+***
+![Intel Announces Xeon W-Series ‘Sapphire Rapids' CPUs for Workstations](https://www.extremetech.com/wp-content/uploads/2023/02/Intel-Xeon-640x360.jpg "Intel Announces Xeon W-Series ‘Sapphire Rapids' CPUs for Workstations")
+
+
+[Intel Announces Xeon W-Series ‘Sapphire Rapids' CPUs for Workstations](https://www.extremetech.com/computing/343099-intel-announces-xeon-w-series-sapphire-rapids-cpus-for-workstations)
+
+
+> Today, Intel is pulling the wraps off its newest lineup of Xeon processors bound for professional workstations. The company is announcing two product lines dubbed Xeon W-3400 and W-2400. The 3400 series are for 'experts' and carry a TDP of 350W. The 2400 CPUs are labeled 'mainstream' and have a 225W TDP. One new 'feature' is Intel is segregating them into classes as it does for its consumer CPUs. The 3400 series includes W9, W7, and W5 variants. The 2400 class gets W7, W5, and W3 SKUs. These CPUs will bridge the gap between its consumer and the data center versions of Sapphire Rapids.
+
+
+***
+![Bitcoin Rate To Reach $500,000, Robert Kiyosaki Assures](https://www.gizchina.com/wp-content/uploads/images/2023/02/kiyosaki-btc-IRXW_cover-1200x675.jpg "Bitcoin Rate To Reach $500,000, Robert Kiyosaki Assures")
+
+
+[Bitcoin Rate To Reach $500,000, Robert Kiyosaki Assures](https://www.gizchina.com/2023/02/15/bitcoin-rate-to-reach-500000-robert-kiyosaki-assures/)
+
+
+> Do you still doubt whether to buy cryptocurrencies or not? Do you like what Robert Kiyosaki writes? If your answer to both questions is positive, then you should hurry to buy a cryptocurrency , say, Bitcoin. The Bitcoin rate should be much higher than what it is now. Bitcoin Rate Will Grow A Lot Kiyosaki thinks that 'faith in US dollar, fake money, will be destroyed.' He also called gold and silver 'the money of the gods' and the first cryptocurrency 'a dollar for the people.' Giant crash coming.
+
+
+***
+[The Easy Company Partners with Mysten Labs to Bring Next-Generation Social Experiences to Web3](http://www.businesswire.com/news/home/20230214005897/en/The-Easy-Company-Partners-with-Mysten-Labs-to-Bring-Next-Generation-Social-Experiences-to-Web3/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)--The Easy Company, the creators of the world's first social wallet, today announced an exclusive partnership with Mysten Labs, a web3 infrastructure company and initial developer of the Sui Layer 1 blockchain. Mysten is building the foundations for the decentralized future. Sui is a decentralized, proof of stake blockchain designed from the ground up to enable creators and developers to build experiences that cater to the next billion users in web3. Sui builds on
+
+
+***
+[Automobili Lamborghini and VeVe Collaborate to Launch Iconic Lamborghini Automobiles as NFT Collectibles](http://www.businesswire.com/news/home/20230215005250/en/Automobili-Lamborghini-and-VeVe-Collaborate-to-Launch-Iconic-Lamborghini-Automobiles-as-NFT-Collectibles/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> AUCKLAND, New Zealand--(BUSINESS WIRE)--VeVe, the largest digital collectibles platform, has announced a new collaboration with luxury super sports car brand and manufacturer Automobili Lamborghini to bring beloved Lamborghini super sports cars to the platform on Sunday, Feb. 19 at 8 AM PT, starting with the Huracán STO. This drop will feature four first edition collectibles ranging from Uncommon to Secret Rare available for purchase exclusively through VeVe, available on the VeVe Web App, and
+
+
+***
+[Catherine Levene, Former President, Meredith National Media Group, Joins the Ad.net Board of Directors](http://www.businesswire.com/news/home/20230215005034/en/Catherine-Levene-Former-President-Meredith-National-Media-Group-Joins-the-Ad.net-Board-of-Directors/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LOS ANGELES--(BUSINESS WIRE)--Ad.net, the intent-driven performance advertising marketplace, today announced the appointment of Catherine Levene to the company's board of directors. Levene brings her expertise in technology, digital media, and publishing, having spent her career building the worlds' premier publishers. Levene has over 25 years of media and publishing industry experience, having led Meredith toward their successful acquisition by IAC's Dotdash. At Meredith, she led over 40 brand
+
+
+***
+[Codenotary Closes 2022 With Record Sales Growth](http://www.businesswire.com/news/home/20230215005209/en/Codenotary-Closes-2022-With-Record-Sales-Growth/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HOUSTON--(BUSINESS WIRE)-- #codenotary--Codenotary closed 2022 with record sales and expansion into the enterprise customer segment.
+
+
+***
+![AUDUSD bounces off swing area floor](https://images.forexlive.com/images/AUDUSD_id_a8251712-ac7a-4fde-84a8-71595a0b18fc_size900.jpg?v=1676482027972 "AUDUSD bounces off swing area floor")
+
+
+[AUDUSD bounces off swing area floor](https://www.forexlive.com/technical-analysis/audusd-bounces-off-swing-area-floor-20230215/)
+
+
+> Key swing area between 0.68549 up to 0.68706 AUDUSD bounces off the swing area floor The AUDUSD AUD/USD The AUD/USD is the currency pair encompassing the Australian dollar of the Commonwealth of Australia (symbol $, code AUD), and the dollar of the United States of America (symbol $, code USD). The pair's rate indicates how many US dollars are needed in order to purchase one Australian dollar. For example, when the AUD/USD is trading at 0.7500, it means 1 Australian dollar is equivalent to 0.
+
+
+***
+![Cafe serves up world's first Prime-flavoured ICE CREAM inspired by popular drink](https://iknowallnews.com/wp-content/uploads/2023/02/Cafe-serves-up-worldx27s-first-Prime-flavoured-ICE-CREAM-inspired-by-popular-drink-but-therex27s-a-catch-The-Sun.jpg "Cafe serves up world's first Prime-flavoured ICE CREAM inspired by popular drink")
+
+
+[Cafe serves up world's first Prime-flavoured ICE CREAM inspired by popular drink](https://iknowallnews.com/lifestyle/cafe-serves-up-worlds-first-prime-flavoured-ice-cream-inspired-by-popular-drink-but-theres-a-catch-the-sun/)
+
+
+> Home » Lifestyle » Cafe serves up world's first Prime-flavoured ICE CREAM inspired by popular drink – but there's a catch | The Sun A SEASIDE café is serving the world's first Prime energy drink ice cream. Makcari's has created a unique gelato based on the popular drink promoted by YouTubers KSI and Logan Paul. The ice cream parlour is selling the outlandish new flavour for just £3.50 a scoop or £5 for two. Following its launch on February 10, owner Hassan Hassan, 43, says the treat sold out within 48 hours – highlighting the rabid demand for the energy drink.
+
+
+***
+![How can tech be used to improve our justice system? Georgetown's Judicial Innovation Fellowship will find out](https://technical.ly/wp-content/uploads/2020/03/Georgetown-Law-Center-e1676480035275.jpg "How can tech be used to improve our justice system? Georgetown's Judicial Innovation Fellowship will find out")
+
+
+[How can tech be used to improve our justice system? Georgetown's Judicial Innovation Fellowship will find out](https://technical.ly/professional-development/georgetown-judicial-innovation-fellowship/)
+
+
+> This is a guest post by Ashwin Ramaswami, a technologist, Fritz Family Fellow and JD candidate at Georgetown University Law Center. Every year, tens of millions of Americans come in contact with the court system. For criminal or civil issues, like evictions, most people are met with inefficient, unclear, and difficult-to-use processes, particularly for those without access to a lawyer. In the background, courts are trying to do better, but decades of thin budgets from legislatures, operational hangups, and private technology vendors lacking an eye for usability hamstring progress.
+
+
+***
+![The Functionality of a Kubernetes Cluster](https://miro.medium.com/max/790/1*RxcxyQq-L20t3t6BqXXX4g.png "The Functionality of a Kubernetes Cluster")
+
+
+[The Functionality of a Kubernetes Cluster](https://medium.com/@zakaria.hassan/the-functionality-of-a-kubernetes-cluster-530b2e322fce)
+
+
+> In this tutorial, I'm using a windows 10 machine. Some cool things I learnt while carrying out this lab: 8 is pronounced /Ba:/ in Chinese, and so /Kei Ba: ez/ pronounced 'Kubernetes' — an interesting coincidence perhaps? Kubernetes is sometimes abbreviated to K8s. 8 represents the eight characters between the K and the S of the word K[ubernete]s. In the spirit of abbreviations, I used this similar abbreviation format and found out my friends name can be abbreviated to F5s which in the word of computers have many uses one of which is to completely refresh a web page, clearing the cache and downloads all content again Any who, lets move onto this tutorial.
+
+
+***
+!["Revolutionizing Science and Technology: The Story of Fibertool and its Founder Nikolay Khorkov"](https://data.ibtimes.sg/en/full/65413/nikolay-khorkov.jpg ""Revolutionizing Science and Technology: The Story of Fibertool and its Founder Nikolay Khorkov"")
+
+
+["Revolutionizing Science and Technology: The Story of Fibertool and its Founder Nikolay Khorkov"](https://www.ibtimes.sg/revolutionizing-science-technology-story-fibertool-its-founder-nikolay-khorkov-69068)
+
+
+> Nikolay Khorkov, a renowned expert in the field of fiber optics, shares his journey as a technology entrepreneur and inventor. He founded Fibertool, a company that played a crucial role in the growth of the fiber optics industry in the CIS. As data consumption continues to surge and the Internet of Things evolves, the demand for fiber optic products and equipment has skyrocketed. Nikolay was among the pioneers in the CIS to start producing fiber optic equipment, and he established mass production of passive components for network building.
+
+
+***
+![Will Find Twitter CEO by 2023 end: Elon Musk](https://aniportalimages.s3.amazonaws.com/media/details/ANI-20230215164822.jpg "Will Find Twitter CEO by 2023 end: Elon Musk")
+
+
+[Will Find Twitter CEO by 2023 end: Elon Musk](https://www.aninews.in/news/tech/internet/will-find-twitter-ceo-by-2023-end-elon-musk20230215222517)
+
+
+> ANI | Updated: Feb 15, 2023 22:25 IST Dubai [United Arab Emirates], February 15 (ANI): has revealed that he expects to find a CEO for "probably towards the end of this year."Musk stated in a video conference at the World Government Summit in Dubai that the most important thing for him is that the platform works, according to New York Post.New York Post further reports that when Musk was asked about when he'd name a CEO and he said, "I think I need to stabilize the organization and make sure it's in a financially healthy place.
+
+
+***
+![Microsoft's Bing is an emotionally manipulative liar, and people love it](https://cdn.vox-cdn.com/thumbor/-DcpjgVA9dOtrIWqA_qdEwg5upc=/0x0:1345x798/1200x628/filters:focal(697x399:698x400)/cdn.vox-cdn.com/uploads/chorus_asset/file/24434203/Screenshot_2023_02_15_at_12.06.58.png "Microsoft's Bing is an emotionally manipulative liar, and people love it")
+
+
+[Microsoft's Bing is an emotionally manipulative liar, and people love it](https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams)
+
+
+> Microsoft's Bing chatbot has been unleashed on the world , and people are discovering what it means to beta test an unpredictable AI tool. Specifically, they're finding out that Bing's AI personality is not as poised or polished as you might expect. In conversations with the chatbot shared on Reddit and Twitter, Bing can be seen insulting users, lying to them, sulking, gaslighting and emotionally manipulating people, questioning its own existence, describing someone who found a way to force the bot to disclose its hidden rules as its 'enemy,' and claiming it spied on Microsoft's own developers through the webcams on their laptops.
+
+
+***
+![Xbox February update includes updated power modes and Google Home app support](https://cdn.vox-cdn.com/thumbor/HSerlfWdSbOzMSqw_-3v7P36fAM=/0x0:2040x1351/1200x628/filters:focal(1020x676:1021x677)/cdn.vox-cdn.com/uploads/chorus_asset/file/21867253/twarren_200909_4177_0030.0.jpg "Xbox February update includes updated power modes and Google Home app support")
+
+
+[Xbox February update includes updated power modes and Google Home app support](https://www.theverge.com/2023/2/15/23601105/microsoft-xbox-february-dashboard-update-power-modes-google-home-app)
+
+
+> Microsoft is rolling out a new February update to its Xbox consoles that adds improved power modes and Google Home app support. This update will include a one-time switch for Xbox Series X and S owners over to an energy-saving power mode. Xbox users will still have the option to switch back to the Sleep (Instant On) mode, but the Shutdown (energy saving) mode will improve power usage and cost savings. The difference between both Xbox power options is big when it comes to energy usage. The Sleep option lets you instantly boot an Xbox Series X / S console, but it uses around 10–15 watts while in standby.
+
+
+***
+![#TechTimesLifeHack: TikTok Tips for Beginners That Will Help You Become an Expert [2023]](https://1734811051.rsc.cdn77.org/data/images/full/421264/techtimeslifehack-tiktok-tips-for-beginners-that-will-help-you-become-an-expert-2023.jpg "#TechTimesLifeHack: TikTok Tips for Beginners That Will Help You Become an Expert [2023]")
+
+
+[#TechTimesLifeHack: TikTok Tips for Beginners That Will Help You Become an Expert [2023]](https://www.techtimes.com/articles/287703/20230215/techtimeslifehack-tiktok-tips-beginners-will-help-become-expert-2023.htm)
+
+
+> Joseph Henry , Tech Times 15 February 2023, 11:02 am If you're new to TikTok, you first need to have a grasp of the platform's settings and what features it could offer to you. Regardless whether you're just a simple content viewer or an aspiring content creator, there are tips that will help you get the most out of this app. With the popularity of video-sharing apps, TikTok remains as the most known among them all. If you want to get started with it, here are some hacks you need to know so you won't be left behind the trends and stuff happening in the community.
+
+
+***
+![Importing iTunes (Windows) Playlist to Music (Ventura)](https://forums.macrumors.com/attachments/itunes-to-music-jpg.2159093/ "Importing iTunes (Windows) Playlist to Music (Ventura)")
+
+
+[Importing iTunes (Windows) Playlist to Music (Ventura)](https://forums.macrumors.com/threads/importing-itunes-windows-playlist-to-music-ventura.2380906/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly. You should upgrade or use an alternative browser . I've been using iTunes on a Windows PC for the past 15 years and I've created many many playlists, smart playlists and other types of ways to organize my most listened to songs. I just switched to a MacBook Pro and found out Ventura no longer supports iTunes. Is there a way I can import my Windows iTunes playlist to my new MacBook Pro? Every time I try to import my Windows playlist to Music it give me this error (attachment).
+
+
+***
+![China-based cyberespionage actor seen targeting South America](https://images.idgesg.net/images/article/2018/04/team_of_hackers_organized_attack_group_of_threat_actors_gettyimages_gorodenkoff_817486174_3x2-100755781-large.jpg?auto=webp&quality=85,70 "China-based cyberespionage actor seen targeting South America")
+
+
+[China-based cyberespionage actor seen targeting South America](https://www.csoonline.com/article/3687618/china-based-cyberespionage-actor-seen-targeting-south-america.html)
+
+
+> China-based cyberespionage actor DEV-0147 has been observed compromising diplomatic targets in South America, according to Microsoft's Security Intelligence team.  The initiative is 'a notable expansion of the group's data exfiltration operations that traditionally targeted gov't agencies and think tanks in Asia and Europe,' the team  tweeted  on Monday.  DEV-0147's attacks in South America included post-exploitation activity involving the abuse of on-premises identity infrastructure for reconnaissance and lateral movement, and the use of Cobalt Strike — a penetration testing tool — for command and control and data exfiltration, Microsoft wrote in its tweet.
+
+
