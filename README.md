@@ -30820,3 +30820,911 @@
 > Researchers at cybersecurity firm Forescout have shown how various vulnerabilities discovered in recent years in industrial control systems (ICS) can be chained for deep lateral movement in operational technology (OT) networks, and even to cause significant physical damage. Two vulnerabilities found last year in Schneider Electric's Modicon programmable logic controllers (PLCs) are at the center of this research. The security holes can be exploited for remote code execution (CVE-2022-45788) and authentication bypass (CVE-2022-45789), and they were addressed by the industrial giant in January.
 
 
+***
+![Cyber Security Today, Feb. 15, 2023 – Patches released for Microsoft Exchange, SAP, Apple and Adobe products](https://i.itworldcanada.com/wp-content/uploads/2021/03/cyber-security-today-text-middle2.png "Cyber Security Today, Feb. 15, 2023 – Patches released for Microsoft Exchange, SAP, Apple and Adobe products")
+
+
+[Cyber Security Today, Feb. 15, 2023 – Patches released for Microsoft Exchange, SAP, Apple and Adobe products](https://www.itworldcanada.com/article/cyber-security-today-feb-15-2023-patches-released-for-microsoft-exchange-sap-apple-and-adobe-products/527394)
+
+
+> Patches released for Microsoft Exchange, SAP, Apple and Adobe products, and more. Welcome to Cyber Security Today. It's Wednesday, February 15th, 2023. I'm Howard Solomon, contributing reporter on cybersecurity for ITWorldCanada.com and TechNewsday.com in the U.S. Microsoft issued a number of important security updates on Patch Tuesday. One affects all Exchange servers dating back to Exchange 2013. It closes a critical privilege escalation vulnerability, which is actively being exploited.
+
+
+***
+![Nokia's Smartphone Biz has been Dead for Years, Yet HMD Global is Persistent](https://telecomtalk.info/wp-content/uploads/2023/02/nokias-smartphone-biz-has-been-dead-for.jpg "Nokia's Smartphone Biz has been Dead for Years, Yet HMD Global is Persistent")
+
+
+[Nokia's Smartphone Biz has been Dead for Years, Yet HMD Global is Persistent](https://telecomtalk.info/nokias-smartphone-biz-has-been-dead-for/676996/)
+
+
+> Nokia would make for an interesting case study for future business leaders to study. Overall as a brand, Nokia is known for several things. Currently, the brand deals majorly in the telecom and communications technology space Nokia would make for an interesting case study for future business leaders to study. Overall as a brand, Nokia is known for several things. Currently, the brand deals majorly in the telecom and communications technology space. Nokia was also known for its mobile phones in the late 90s and the early 2000s.
+
+
+***
+![Technical Systems Specialist-Workflow – Gauteng Johannesburg](https://recruiter.careerjunction.co.za//_service/p/RecruiterSiteTypePlugin_1_0/recruiter/logpixeltrackingjobview?id=aef31b4c-ac78-11ed-be7e-0293ef58f05a "Technical Systems Specialist-Workflow – Gauteng Johannesburg")
+
+
+[Technical Systems Specialist-Workflow – Gauteng Johannesburg](https://it-online.co.za/2023/02/14/technical-systems-specialist-workflow-gauteng-johannesburg/)
+
+
+> Purpose of the role A 'Technical Systems specialist – Workflow' will be instrumental in supporting the Khulisa System / Applications landscape and the Operations and Administration user community. This aims to enable the business processes executed on the workflow, end to end. The role is key to support our strategy aimed to build an effective and efficient operations team for AlexForbes. Having/gaining an in depth knowledge of the entire workflow solution across all systems and infrastructure touchpoints and how these relates to the business processes is of vital importance.
+
+
+***
+![At 25, Backyard Bird Count shows power of 'citizen science'](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17wqjC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "At 25, Backyard Bird Count shows power of 'citizen science'")
+
+
+[At 25, Backyard Bird Count shows power of 'citizen science'](http://www.msn.com/en-us/news/technology/at-25-backyard-bird-count-shows-power-of-citizen-science/ar-AA17weag)
+
+
+> It's a given that when the Great Backyard Bird Count begins Friday, Steve and Janet Kistler of Hart County, Kentucky, will be joining in. They've done so every year since the now-global tradition began 25 years ago. For Moira Dalibor, a middle-school math teacher a couple hours away in Lexington, this will be the first count. She's leading a group of students and parents to an arboretum for an exercise in data-gathering. They're expected to be among hundreds of thousands of people around the world counting and recording over four days.
+
+
+***
+![A visit to Tokyo's largest cosplay store](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/cosplay.jpg?fit=1200%2C803&ssl=1 "A visit to Tokyo's largest cosplay store")
+
+
+[A visit to Tokyo's largest cosplay store](https://boingboing.net/2023/02/15/a-visit-to-tokyos-largest-cosplay-store.html)
+
+
+> K-Books Cosplay is Tokyo's largest cosplay store, located in Ikebukuro. An employee named Kai explained that the "concept here is becoming the other you. You can become that character you dreamed of as a child or the character you want to become now." Kai said the most popular costume right now is Uma-Musume (horse daughter), which consists of a dress, horse ears, and tail. K-Books also sells genuine swords and samurai warrior armor. When Ellie of Wao Ryu!Only in Japan visited, K-Books Cosplay had 5,000 cosplay items for sale.
+
+
+***
+![Shoichiro Toyoda, who made Toyota a global automaker, dead at 97](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bb-9.jpg?fit=1186%2C924&ssl=1 "Shoichiro Toyoda, who made Toyota a global automaker, dead at 97")
+
+
+[Shoichiro Toyoda, who made Toyota a global automaker, dead at 97](https://boingboing.net/2023/02/15/shoichiro-toyoda-who-made-toyota-a-global-automaker-dead-at-97.html)
+
+
+> Shoichiro Toyoda , grandson of Toyota founder Sikichi Toyoda and son of Kiichiro Toyoda, who transformed the tooling company into an automaker, is dead at 97. Shoichiro grew the company from a local brand into the world's largest and most successful, and formalized its legendary quality control and managerial philosophies. However many nines your consumer products have, you owe some of them to the Toyodas. After serving as president of Toyota Motor Sales Co. under the Toyota group, he became the first president of what is now Toyota Motor Corp.
+
+
+***
+![RIP Internet Explorer: Microsoft Kills Off Legacy Browser](https://www.cnet.com/a/img/resize/fd137e6bb1190c73c50140ac7ed09b8cc5476657/hub/2020/08/18/e74ceb5b-0017-4fc2-b5f5-6607db97852b/gettyimages-110118550.jpg?auto=webp&fit=crop&height=630&width=1200 "RIP Internet Explorer: Microsoft Kills Off Legacy Browser")
+
+
+[RIP Internet Explorer: Microsoft Kills Off Legacy Browser](https://www.cnet.com/tech/services-and-software/rip-internet-explorer-microsoft-kills-off-legacy-browser/)
+
+
+> Here lies the body of Internet Explorer 11. At one point, it ruled the web browser world. Now it is dead.   Microsoft permanently disabled its out-of-support legacy browser on Tuesday in a move to improve user experience and transfer organizations to its newer Edge browser , the company said. This applies to "certain versions of Windows 10," Microsoft noted. "With a growing number of websites no longer supporting Internet Explorer, Microsoft Edge offers a faster, more secure, and more modern browsing experience that can still open legacy, Internet Explorer-dependent sites when needed," Microsoft said in a statement.
+
+
+***
+![GameSir G7 wired controller for Xbox](https://eandt.theiet.org/media/20702/gamesir-g7-hero.jpg?crop=0,0.5078125,0,0&cropmode=percentage&width=1200&height=450&rnd=133208684070000000 "GameSir G7 wired controller for Xbox")
+
+
+[GameSir G7 wired controller for Xbox](https://eandt.theiet.org/content/articles/2023/02/hands-on-review-gamesir-g7-wired-controller-for-xbox/)
+
+
+> Raise your Xbox game, sir. As any hardcore gamer knows, the finest of margins can make a world of difference. In a game where milliseconds can decide between virtual life or death, any advantage should be seized upon. GameSir's officially licensed G7 wired controller for Xbox has been designed to provide high speed and ultra-low input latency to give you that competitive edge, with extreme sensitivity, faster response, additional controls, textured grips and comprehensive software customisation.
+
+
+***
+[Daon Named ForgeRock 2023 CIAM Partner of the Year](http://www.businesswire.com/news/home/20230215005154/en/Daon-Named-ForgeRock-2023-CIAM-Partner-of-the-Year/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> FAIRFAX, Va.--(BUSINESS WIRE)-- #biometrics--Daon, the Digital Identity Trust company, announced it has been named 2023 CIAM Partner of the Year by ForgeRock, a global identity leader. The award recognizes a ForgeRock Customer Identity and Access Management (CIAM) partner that offers important contributions, joint collaboration and superb technical execution. The Daon and ForgeRock partnership allows ForgeRock customers to easily add biometric authentication to any customer journeys, eliminating
+
+
+***
+[Forbes Names Pitney Bowes as One of America's Best Large Employers for 2023](http://www.businesswire.com/news/home/20230215005629/en/Forbes-Names-Pitney-Bowes-as-One-of-America%E2%80%99s-Best-Large-Employers-for-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> STAMFORD, Conn.--(BUSINESS WIRE)--Pitney Bowes (NYSE:PBI), a global shipping and mailing company that provides technology, logistics, and financial services, has been named one of America's Best Large Employers for 2023 by Forbes magazine. This is the fourth year the company has been included in the rankings. 'We are honored to be included on Forbes' list of best employers once again,' said Marc B. Lautenbach, President and CEO of Pitney Bowes. 'We have passionate and diverse employees who have
+
+
+***
+![Microsoft remedies three zero-days on February Patch Tuesday](https://cdn.ttgtmedia.com/rms/onlineimages/security_a386211215.jpg "Microsoft remedies three zero-days on February Patch Tuesday")
+
+
+[Microsoft remedies three zero-days on February Patch Tuesday](https://www.techtarget.com/searchwindowsserver/news/365531374/Microsoft-remedies-three-zero-days-on-February-Patch-Tuesday)
+
+
+> Microsoft addressed 76 security updates for February Patch Tuesday, including three zero-days. There were no revised or updated vulnerabilities this month. In total, Microsoft patched nine CVEs rated critical and 66 rated important. One CVE (CVE-2019-15126) issued by the Mitre Corporation details how to stop exploits of HoloLens 1 devices, which uses unsupported Broadcom hardware. Microsoft fixed a zero-day (CVE-2023-21823) rated important in Universal Windows Platform apps and Windows desktop and server systems.
+
+
+***
+![How can tech fight misinformation? Google tries ‘prebunking.'](https://images.csmonitor.com/csm/2023/02/1151383_1_0213-google_standard.jpg?alias=standard_900x600 "How can tech fight misinformation? Google tries ‘prebunking.'")
+
+
+[How can tech fight misinformation? Google tries ‘prebunking.'](https://www.csmonitor.com/Technology/2023/0215/How-can-tech-fight-misinformation-Google-tries-prebunking)
+
+
+> After seeing promising results in Eastern Europe, Google will initiate a new campaign in Germany that aims to make people more resilient to the corrosive effects of online misinformation. The tech giant plans to release a series of short videos highlighting the techniques common to many misleading claims. The videos will appear as advertisements on platforms like Facebook, YouTube, or TikTok in Germany. A similar campaign in India is also in the works. It's an approach called prebunking, which involves teaching people how to spot false claims before they encounter them.
+
+
+***
+![Finger ring that looks like a ring finger](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/Nadja-Buttendorf-Fingerring-3-1000.png?fit=1200%2C800&ssl=1 "Finger ring that looks like a ring finger")
+
+
+[Finger ring that looks like a ring finger](https://boingboing.net/2023/02/15/finger-ring-that-looks-like-a-ring-finger.html)
+
+
+> Just hours after Banksy's "Valentine's Day mascara" artwork appeared this morning in Margate, England, officials removed part of it. The piece, about domestic violence against women, features a 1950s-style illustration… READ THE REST
+
+
+***
+![Modern Warfare 2 & Warzone 2.0 Season 2 Battle Pass…](https://prod.assets.earlygamecdn.com/images/MWII-WZ2.0-Season-2-Battle-Pass.jpg?mtime=1676458404 "Modern Warfare 2 & Warzone 2.0 Season 2 Battle Pass…")
+
+
+[Modern Warfare 2 & Warzone 2.0 Season 2 Battle Pass…](https://earlygame.com/call-of-duty/modern-warfare-2-warzone-2-0-season-2-battle-pass-highlights)
+
+
+> The MWII and Warzone 2.0 Season 2 Battle Pass offers a bunch of nice rewards. We'll show you the coolest ones and the best way to get them on the new Battle Pass map. Everything we know about the new Modern Warfare 2 and Warzone 2.0 Season 2 Battle Pass. | © Activision Finally, Modern Warfare 2 and Warzone 2.0 Season 2 starts! It launches on February 15, and we will get a lot of new content. Besides the new Resurgence Map Ashika Island and the Ranked Play Mode for MW2 , we will of course get new operators, weapons and cosmetics.
+
+
+***
+![Oppo Flip Phone: Using the Find N2 Flip's Huge Cover Screen](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17wuFs.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Oppo Flip Phone: Using the Find N2 Flip's Huge Cover Screen")
+
+
+[Oppo Flip Phone: Using the Find N2 Flip's Huge Cover Screen](http://www.msn.com/en-us/news/technology/oppo-flip-phone-using-the-find-n2-flip-s-huge-cover-screen/ar-AA17wzxe)
+
+
+> Oppo's first flip phone has arrived. The Chinese company showed off the Find N2 Flip at its global launch event on Wednesday. Oppo's clamshell-style phone appears to be heavily inspired by Samsung's Galaxy Z Flip 4, but with a notably different cover screen and perhaps a more squarish design. Unlike the Z Flip 4, the cover display has a vertical orientation, as opposed to a horizontal layout. It's also much bigger, measuring 3.26 inches with a resolution of 720x382 pixels. By comparison, the Z Flip 4 has a 1.
+
+
+***
+![How to use your Apple Watch to control other devices](https://cdn.vox-cdn.com/thumbor/6QFr9D0Dw6xbooNdTLht-bcXtw8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952423/HT024_smartWatches_0009.jpg "How to use your Apple Watch to control other devices")
+
+
+[How to use your Apple Watch to control other devices](https://www.theverge.com/23599332/apple-watch-remote-control-how-to)
+
+
+> It is an inevitable truth that you will, at some point, lose the remote control. Perhaps it's fallen into an interdimensional hole between couch cushions. Maybe your cat is sitting on it. Or, worst-case scenario, the remote is out of batteries and the last episode of your show ended on a cliffhanger. The good news? You can use your Apple Watch to control your TV. The ability to control devices from your wrist isn't limited to TVs, either. If you're already ensconced within Apple's ecosystem, you can also use the Apple Watch to control your iPhone and iPad.
+
+
+***
+![Pope of Trash John Waters gives a tour of his wonderful apartment complete with electric chair (video)](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/screenshot-18.png?fit=990%2C634&ssl=1 "Pope of Trash John Waters gives a tour of his wonderful apartment complete with electric chair (video)")
+
+
+[Pope of Trash John Waters gives a tour of his wonderful apartment complete with electric chair (video)](https://boingboing.net/2023/02/15/pope-of-trash-john-waters-gives-a-tour-of-his-wonderful-apartment-complete-with-electric-chair-video.html)
+
+
+> When I was growing up, I never realized that some people watched Charlie and the Chocolate Factory through the lens of a horror film. On the surface, Charlie and the Chocolate Factory is a… READ THE REST
+
+
+***
+![New Mexico might become the first state with an official aroma](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/shutterstock_534355063-scaled.jpg?fit=1200%2C750&ssl=1 "New Mexico might become the first state with an official aroma")
+
+
+[New Mexico might become the first state with an official aroma](https://boingboing.net/2023/02/15/new-mexico-might-become-the-first-state-with-an-official-aroma.html)
+
+
+> From a purely detached and objective perspective, traveling is just leaving your house to look at other homes and people. However, anyone that possesses wanderlust understands that traveling is really about experiencing the unique culture—characterized by the people, cuisine, and customs—that define an area. Whenever you arrive in a new country or state, you must familiarize yourself with all of the region's elements to garner a sense of your current locale.  Even though the elements of a town or city that entice a traveler can vary from person to person, every place usually boasts a list of must-see/must-experience locations and events.
+
+
+***
+![Samsung Announces One UI 5.1 Global Rollout for Older Galaxy Phones](https://www.gizmochina.com/wp-content/uploads/2023/02/Samsung-Galaxy-S23-Series.jpg "Samsung Announces One UI 5.1 Global Rollout for Older Galaxy Phones")
+
+
+[Samsung Announces One UI 5.1 Global Rollout for Older Galaxy Phones](https://www.gizmochina.com/2023/02/15/samsung-one-ui-5-1-global-rollout-older-galaxy-phones)
+
+
+> Samsung's latest Galaxy S23 series didn't just debut with new hardware but also with brand-new software. The trio runs Android 13-based One UI 5.1 out of the box, which is an iterative update after One UI 5.0. The software brings several changes in terms of design, functionality, and performance. Luckily, the OS won't be limited to the latest S series and will also make it to the older Galaxy models. Today, Samsung officially announced the global rollout of One UI 5.1 for its existing devices. Here are the details.
+
+
+***
+![Google is testing ways to allow Android apps to track you, but not really](https://searchengineland.com/wp-content/seloads/2023/02/Shutterstock_446010916.jpg "Google is testing ways to allow Android apps to track you, but not really")
+
+
+[Google is testing ways to allow Android apps to track you, but not really](https://searchengineland.com/google-is-testing-ways-to-allow-android-apps-to-track-you-but-not-really-393134)
+
+
+> The Privacy Sandbox beta is a tool that enables businesses to monetize your data without directly accessing it, which Google says is considerably better for safeguarding user privacy. The spotlight is currently on the alterations being implemented to Google Chrome, where they pledge to eliminate third-party cookies , which have been the primary method utilized by companies (including Google) to trace your online activity for the past three decades. The new beta test rolls out first to a 'small percentage' of Android 13 devices and will expand over time.
+
+
+***
+![Multiversus Steam numbers hit new low, with daily players down 99%](https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/multiversus-steam-player-count-fighting-game-marvel-dc-rick-morty-harley-quinn.jpg "Multiversus Steam numbers hit new low, with daily players down 99%")
+
+
+[Multiversus Steam numbers hit new low, with daily players down 99%](https://www.pcgamesn.com/multiversus/steam-player-count-fighting-game)
+
+
+> Following a successful beta launch in July 2022, sadly, Multiversus Steam figures hit a record low this week, as the fighting game and one-time rival to the likes of Brawlhalla sees its daily player count down by more than 99%. Featuring a slew of Marvel and DC characters, alongside animation stalwarts like Rick and Morty and Bugs Bunny, Multiversus looked like a guaranteed hit. Disappointment with its seasonal updates however, alongside criticisms regarding microtransactions, seem to have severely impacted its popularity on Valve's PC storefront.
+
+
+***
+![Ishana Night Shyamalan, daughter of famed M., to direct movie](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/shutterstock_2247424999-scaled.jpg?fit=1200%2C750&ssl=1 "Ishana Night Shyamalan, daughter of famed M., to direct movie")
+
+
+[Ishana Night Shyamalan, daughter of famed M., to direct movie](https://boingboing.net/2023/02/15/ishana-night-shyamalan-daughter-of-famed-m-to-direct-movie.html)
+
+
+> It's not about what you know; life is about who you know. If you've been out of the loop, there's been a growing conversation around the topic of "nepo babies." Initially sparked by a  New York Times  article, which makes mention of how frequently the children of the rich and famous garner positions beyond their talent or competency, the term "nepo baby" has become a contemporary description for a concept that is as old as humanity itself. Even though it feels like "nepo babies" are worse than ever, thanks to a sea of talentless hacks  polluting our movie screens and airwaves , are modern "nepo babies" genuinely different from the monarchs of yesteryear gaining the throne from their parents? In truth, they're just a new twist on a classic idea.
+
+
+***
+![Microsoft Will Defend Its Xbox Activision Blizzard Deal In EU Court Hearing Next Week](https://images.purexbox.com/bebdd31fc65be/1280x720.jpg "Microsoft Will Defend Its Xbox Activision Blizzard Deal In EU Court Hearing Next Week")
+
+
+[Microsoft Will Defend Its Xbox Activision Blizzard Deal In EU Court Hearing Next Week](https://www.purexbox.com/news/2023/02/microsoft-will-defend-its-xbox-activision-blizzard-deal-in-eu-court-hearing-next-week)
+
+
+> Some of you may remember (unless you're as lost as we are at this point) that not too long ago, Microsoft reportedly received a 'statement of objections' from the European Commission in regards to the Xbox ActiBlizz deal. That statement basically included a bunch of things the commission wants to see altered for the deal to go ahead, and now Microsoft has revealed that it'll be attending an EU court hearing next week to discuss matters. Coming by way of Reuters, Microsoft is set to respond to those EU objections on February 21st.
+
+
+***
+![Music Is Making Your Hardest Video Games Even Harder](https://www.lifehacker.com.au/wp-content/uploads/sites/4/2023/02/16/cfde8622aa37762a8f59a1e7483c85f4.jpg?quality=80&resize=1280,720 "Music Is Making Your Hardest Video Games Even Harder")
+
+
+[Music Is Making Your Hardest Video Games Even Harder](https://www.lifehacker.com.au/2023/02/music-is-making-your-hardest-video-games-even-harder/)
+
+
+> Elden Ring (Screenshot: FromSoftware/Bandai Namco) Every part of a video game is designed to evoke specific responses from players. The user interface, the level design, and — most importantly — the soundtrack all impact your emotional state while playing. While that can be great for immersion, high-intensity music elevates the player's sense of tension, making difficult sections of a game even harder. Conversely, turning off the music can make games easier — or, at the very least, less overwhelming.
+
+
+***
+[Abacode Hires Former Amazon Web Services (AWS) Global Head of Cybersecurity Compliance, Anil Markose, as Chief Strategy Officer](http://www.businesswire.com/news/home/20230215005597/en/Abacode-Hires-Former-Amazon-Web-Services-AWS-Global-Head-of-Cybersecurity-Compliance-Anil-Markose-as-Chief-Strategy-Officer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TAMPA, Fla.--(BUSINESS WIRE)--Abacode, one of the fastest-growing Cybersecurity and Compliance firms in the United States, announced today that Anil Markose has joined the leadership team as the Chief Strategy Officer. Anil is an Air Force veteran who has held executive leadership roles in some of the largest cybersecurity and technology organizations. He is also the recipient of Constellation Research's Business Transformation 150, recognizing the top 150 business transformation executives glo
+
+
+***
+![Norfolk Southern gave $5 to Ohio East Palestinians affected by toxic train explosion](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/shutterstock_1272268018-scaled.jpg?fit=1200%2C801&ssl=1 "Norfolk Southern gave $5 to Ohio East Palestinians affected by toxic train explosion")
+
+
+[Norfolk Southern gave $5 to Ohio East Palestinians affected by toxic train explosion](https://boingboing.net/2023/02/15/norfolk-southern-gave-5-to-ohio-east-palestinians-affected-by-toxic-train-explosion.html)
+
+
+> There's a mushroom cloud of toxic chemicals hovering over East Palestine, Ohio. This has nothing to do with the recent spurt of UFO sightings-and-shootings. Rather, it's the result of the derailment of 150-car train . The company that owns and manages the trains, Norfolk Southern , had been warned by railroad worker unions — remember that railway strike last year? — that the new braking regulations were potentially disastrous. And indeed, they were: the derailed trains began leaking dangerous chemicals, including the carcinogenic vinyl chloride , which lead the company to decide that the best course of action was to burn the chemicals and turn them into a horrifyingly massive smoke plume over the 5,000-person town.
+
+
+***
+![MaaS and mobility-on-demand platforms drive impressive growth at FOD Mobility](https://www.prolificnorth.co.uk/sites/default/files/styles/hero/public/images/news/fodmobilitygroupleadershipteam.png?itok=7WAMslsj "MaaS and mobility-on-demand platforms drive impressive growth at FOD Mobility")
+
+
+[MaaS and mobility-on-demand platforms drive impressive growth at FOD Mobility](https://www.prolificnorth.co.uk/news/tech-news/2023/02/maas-and-mobility-demand-platforms-drive-impressive-growth-fod-mobility)
+
+
+> Mobility technology and services company FOD Mobility Group has seen record transactional growth across its Fleetondemand ground transportation product and it's B2B MaaS platform, Mobilleo. The growth comes as more and more businesses return to normal post-pandemic, which has resulted in an additional revenue growth of £30.1 million for the company heading into 2023. The Bradford company's Fleetondemand automotive mobility platform saw a significant increase in vehicle rental transactions, reaching over 500,000 vehicle rental days.
+
+
+***
+[Perimeter 81 Announces Integration with ConnectWise PSA™](http://www.businesswire.com/news/home/20230215005594/en/Perimeter-81-Announces-Integration-with-ConnectWise-PSA%E2%84%A2/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--Perimeter 81 integrates with ConnectWise to enable enhanced billing automation for MSPs.
+
+
+***
+![USDJPY prints new session highs](https://images.forexlive.com/images/USDJPY_id_2d58579e-917c-4184-b483-f4988128894b_size900.jpg?v=1676476541722 "USDJPY prints new session highs")
+
+
+[USDJPY prints new session highs](https://www.forexlive.com/technical-analysis/usdjpy-prints-new-session-highs-20230215/)
+
+
+> Topside trend line and swing area eyed on the topside now USDJPY trades to a new high The USDJPY is trading at a new session high and in the process is moving away from the 61.8% of the move down from the December high (see 4-hour chart above). That level comes in at 133.98. The next target on the chart comes in at the topside trend line near 134.30. Above that is a swing area between 134.49 and 134.65. Drilling to five minute chart below, the pair after dipping in the Asian session, rebounded higher and extended back above both the 200 and 100 bar moving averages (green and blue line in the chart below).
+
+
+***
+![Treepz launches in Kenya as it continues its African expansion plan](https://africabusinesscommunities.com//Images/Key Logos/TREEPZ.png "Treepz launches in Kenya as it continues its African expansion plan")
+
+
+[Treepz launches in Kenya as it continues its African expansion plan](https://africabusinesscommunities.com/tech/tech-news/treepz-launches-in-kenya-as-it-continues-its-african-expansion-plan)
+
+
+> Treepz which was founded in September 2019 in Nigeria, has announced today that it has further expanded its operations in East Africa, with a focus on Kenya, just over a year after launching in Uganda and Ghana. With the launch of Treepz Kenya, it is the company's 4th country where it operates from in 3 years. This new expansion follows  investments made in Treepz in the last couple of months led by GIIG Africa Fund along with MoAngels, Roselake VC, Unpopular VC, Goodwater Capital and BKR Capital.
+
+
+***
+![Mortgage Interest Rates Today for Feb. 15, 2023: Rates Trend Higher](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12D0w5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Mortgage Interest Rates Today for Feb. 15, 2023: Rates Trend Higher")
+
+
+[Mortgage Interest Rates Today for Feb. 15, 2023: Rates Trend Higher](http://www.msn.com/en-us/news/technology/mortgage-interest-rates-today-for-feb-15-2023-rates-trend-higher/ar-AA17wlzv)
+
+
+> A few major mortgage rates saw increases over the last seven days. The average interest rates for both 15-year fixed and 30-year fixed mortgages trended upward. For variable rates, the 5/1 adjustable-rate mortgage also moved upward. After nearly a year of rising mortgage rates, borrowers are finally starting to see some relief. Rates have been gradually declining since they hit their peak in late 2022, though current rates remain nearly double what they were during the record-low rate environment of the pandemic.
+
+
+***
+![OnePlus Nord Buds 2 pop into the FCC database ahead of launch](https://static1.pocketlintimages.com/wordpress/wp-content/uploads/160821-headphones-news-oneplus-nord-buds-specs-leak-ahead-of-launch-image1-chj4r5rizs.jpg "OnePlus Nord Buds 2 pop into the FCC database ahead of launch")
+
+
+[OnePlus Nord Buds 2 pop into the FCC database ahead of launch](https://www.pocket-lint.com/oneplus-nord-buds-2-pop-into-the-fcc-database-ahead-of-launch/)
+
+
+> The OnePlus Nord Buds 2 haven't yet been officially confirmed by the company, but they continue to pop up in various regulatory databases around the world. We saw OnePlus add the wireless earbuds to the Indian Bureau of Indian Standards database (BIS) in January , and now the same music makers have popped up in the FCC database in the United States. While the OnePlus Nord Buds 2 appearing in one regulatory database or another doesn't tell us when the earbuds will go on sale, it does at least confirm that they are real.
+
+
+***
+![Corona numbers Germany up to date today: What does the RKI say on February 15th, 2023?](https://www.swp.de/imgs/07/1/1/1/0/2/9/3/7/1/tok_0dc2f3d006ed7a86c643770ea906cb1a/w1200_h675_x750_y462_5FAC84003F74A84C.jpg-16b595cad79cc66c.jpeg "Corona numbers Germany up to date today: What does the RKI say on February 15th, 2023?")
+
+
+[Corona numbers Germany up to date today: What does the RKI say on February 15th, 2023?](https://www.world-today-news.com/corona-numbers-germany-up-to-date-today-what-does-the-rki-say-on-february-15th-2023/)
+
+
+> Die Corona situation in Germany continues to ease in February. Now the end of further corona restrictions has also been announced. The mask and test obligation for residents and employees in care facilities falls. For visits to doctor's offices, clinics and nursing homes, however, masks should continue to apply. How does she Corona situation in Germany currently off? Are the corona numbers rising or falling? on Wednesday, February 15, 2023? In our daily update, we provide an overview of all important figures in Germany.
+
+
+***
+![Six years in prison for a post about Ukraine on Instagram](https://s.lorientlejour.com/storage/attachments/1329/russie-drapeau-fb7c21-01x_725254_757431_697872_556211_867464.jpg/r/800/russie-drapeau-fb7c21-01x_725254_757431_697872_556211_867464.jpg "Six years in prison for a post about Ukraine on Instagram")
+
+
+[Six years in prison for a post about Ukraine on Instagram](https://www.world-today-news.com/six-years-in-prison-for-a-post-about-ukraine-on-instagram/)
+
+
+> A Russian court on Wednesday sentenced a journalist to six years in prison who had denounced the offensive in Ukraine on Instagram, another example of the repression of critical voices in the conflict. Maria Ponomarenko, 44, was found guilty of 'spreading false information ' about the army, said the Russian Investigative Committee, responsible for the main criminal investigations in Russia. This offense, introduced after the start of the assault on Ukraine, has already been used on several occasions to sentence people who publicly criticized the conflict to heavy prison terms.
+
+
+***
+[Russian planes intercepted by American fighter jets near Alaska](https://www.world-today-news.com/russian-planes-intercepted-by-american-fighter-jets-near-alaska-2/)
+
+
+> DEFENSE – The North American Aerospace Defense Command wanted to reassure by explaining that such Russian activity 'occurred regularly and was not considered a threat' Even if the operation is described as 'routine' by the American authorities, it was carried out in the tense context of the war in ukraine and the case of chinese balloon in usa sky. Two American fighter jets intercepted four Russian planes near Alaska, the North American Aerospace Defense Command (Norad) announced on Tuesday. This interception of Russian aircraft, including models of the Tu-95 heavy bomber and Su-35 fighter, took place on Monday, Norad said.
+
+
+***
+![Oppo's new Android phone gets an upgrade Samsung must now match](https://cdn.images.express.co.uk/img/dynamic/59/1200x712/4567437.jpg?r=1676474114622 "Oppo's new Android phone gets an upgrade Samsung must now match")
+
+
+[Oppo's new Android phone gets an upgrade Samsung must now match](https://www.express.co.uk/life-style/science-technology/1735190/Oppo-Find-N2-Flip-UK-release-price-specs-Samsung-rival-Android)
+
+
+> The new Oppo Find N2 Flip is launching in the UK (Image: OPP) Oppo is taking aim squarely at Samsung with the launch of an all-new foldable smartphone. The Chinese tech company has just lifted the lid on its Find N2 Flip which snaps in half to make it easier to pop in your pocket. Now, if you are feeling a little Déjà vu we're not surprised as the N2 Flip looks incredibly similar to Samsung's popular Z Flip4 device but Oppo reckons it has the advantage thanks to some upgrades that may just give it the edge.
+
+
+***
+[SignalFire Announces $900M+ in Funding and Launch of Executive-in-Residence Program](http://www.businesswire.com/news/home/20230213005214/en/SignalFire-Announces-900M-in-Funding-and-Launch-of-Executive-in-Residence-Program/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)--SignalFire, a tech-enabled early-stage venture capital firm harnessing data and artificial intelligence at scale to identify investments and support for the next generation of startups, has closed over $900 million in fresh capital that brings the firm to over $1.8 billion in assets under management. SignalFire is also announcing the launch of its Executive-in-Residence (XIR) program, which pairs deeply experienced tech industry leaders from the firm's Advisor Ne
+
+
+***
+![Scenes from Maison&Objet, January 2023](https://www.architecturalrecord.com/ext/resources/news/2023/February/MaisonObjet/MaisonObjet2023.jpg?height=635&t=1676393421&width=1200 "Scenes from Maison&Objet, January 2023")
+
+
+[Scenes from Maison&Objet, January 2023](https://www.architecturalrecord.com/articles/16092-scenes-from-maison-and-objet-january-2023)
+
+
+> ✕ Maison&Objet, the semi-annual Paris design fair, was held in January at the Parc des Expositions de Villepinte— as well as at galleries and showrooms throughout the city—showcasing vintage and reinvigorated furnishings of 20th century greats Jean Prouvé, Charlotte Perriand, and Le Corbusier along with the 21st century work of French architects Jean-Michel Wilmotte and Clémentine D'Aspremont-Menaya. Jean-Richard Bloch at his Bureau Boomerang Desk in 1938. Photo © Archives Charlotte Perriand ADAGP 2023 On the corner of Boulevard Saint-Germain, Italian manufacturer Cassina held a global kick-off event presenting the reissue of Perriand's 1938 Bureau Boomerang desk.
+
+
+***
+[Wolters Kluwer's LegalVIEW Insights Report reveals that legal departments can minimize substantial AmLaw rate increases](http://www.businesswire.com/news/home/20230215005087/en/Wolters-Kluwer%E2%80%99s-LegalVIEW-Insights-Report-reveals-that-legal-departments-can-minimize-substantial-AmLaw-rate-increases/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HOUSTON--(BUSINESS WIRE)-- #WoltersKluwer--A new Wolters Kluwer ELM Solutions report suggests that corporate clients hold substantial pricing negotiation power over large and small law firms.
+
+
+***
+![Alert for billions of WhatsApp users – four big changes have arrived on Android](https://www.thesun.co.uk/wp-content/uploads/2022/11/whatsapp-logo-seen-illustration-taken-769729587.jpg?strip=all&quality=100&w=1920&h=1080&crop=1 "Alert for billions of WhatsApp users – four big changes have arrived on Android")
+
+
+[Alert for billions of WhatsApp users – four big changes have arrived on Android](https://www.thesun.co.uk/tech/21396825/whatsapp-four-big-changes-arrived-on-android)
+
+
+> WHATSAPP has ushered in a set of new features - which are currently exclusive for Android users. Apple iPhone owners will unfortunately have to wait for a future update to access most of these fresh tricks. 1 Perhaps the most exciting new feature is the introduction of personalised avatars Credit: THE SUN Document caption: Users can now add captions when sending documents. Longer group info: Users can add lengthier (and funnier) descriptions of their group chats. This feature is a must-have for holiday goers and party-havers.
+
+
+***
+![My Password Manager was Hacked! How to Prevent a Catastrophe](https://www.bleepstatic.com/content/posts/2023/02/14/specops-hacker-stealing.jpg "My Password Manager was Hacked! How to Prevent a Catastrophe")
+
+
+[My Password Manager was Hacked! How to Prevent a Catastrophe](https://www.bleepingcomputer.com/news/security/my-password-manager-was-hacked-how-to-prevent-a-catastrophe/)
+
+
+> The LastPass security breach in late 2022 sent a shockwave through the security community. Password managers are typically seen as the most secure and trusted platforms because they have to be. Holding credentials to numerous services, a breach in any customer vault can have catastrophic consequences. No service is perfect, and that goes for password managers, so what can you do to protect yourself even further? From choosing strong service passwords, diligently protecting secret keys, and ensuring use of multi-factor authentication, there are steps your organization can take that will minimize vulnerabilities.
+
+
+***
+[Netgain Recognized on CRN's 2023 MSP 500 and Managed Security 100 Lists](http://www.businesswire.com/news/home/20230215005230/en/Netgain-Recognized-on-CRN%E2%80%99s-2023-MSP-500-and-Managed-Security-100-Lists/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MINNETONKA, Minn.--(BUSINESS WIRE)-- #MSP--CRN®, a brand of The Channel Company, has named Netgain to its Managed Service Provider (MSP) 500 list in the Managed Security 100 category for 2023.
+
+
+***
+![Residents in the United Arab Emirates may soon receive parcels delivered by drones and robots](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/aramex-delivery-robot.jpg "Residents in the United Arab Emirates may soon receive parcels delivered by drones and robots")
+
+
+[Residents in the United Arab Emirates may soon receive parcels delivered by drones and robots](https://roboticsandautomationnews.com/2023/02/15/residents-in-the-united-arab-emirates-may-soon-receive-parcels-delivered-by-drones-and-robots/60329/)
+
+
+> Aramex , a global provider of logistics and transportation solutions, says it has completed the testing of its drone and roadside robot deliveries in Dubai, one of the seven emirates in the UAE. This is part of the company's 'Future Delivery Program' aimed at enhancing last-mile logistics using smart shipping solutions to enable quicker, more sustainable, and cost-effective deliveries. The initial tests were conducted at the Rochester Institute of Technology (RIT) in partnership with BARQ EV, a leading commercial drone delivery service provider in the UAE, and Kiwibot, a Colombia-based company specializing in delivery robotics.
+
+
+***
+![Oppo Find N2 Flip review: is this flip phone a big flop?](https://www.digitaltrends.com/wp-content/uploads/2023/02/Oppo-Find-N2-Flip-Being-Opened.jpg?resize=1200%2C630&p=1 "Oppo Find N2 Flip review: is this flip phone a big flop?")
+
+
+[Oppo Find N2 Flip review: is this flip phone a big flop?](https://www.digitaltrends.com/mobile/oppo-find-n2-flip-review/)
+
+
+> 'The Oppo Find N2 Flip does just enough to differentiate itself from the Galaxy Z Flip 4, comes with a strong battery, a good main camera, and all the compact folding phone convenience we want.' Pros Folds up for convenience No gap between sections Large cover screen Main camera takes atmospheric photos One-hour battery recharge Cons Wide-angle camera is poor quality Cover screen lacks usefulness No wireless charging There's a lot riding on the Oppo Find N2 Flip .
+
+
+***
+![The Oppo Find N2 Flip goes global](https://fdn.gsmarena.com/imgroot/news/23/02/oppo-find-n2-flip-global/-952x498w6/gsmarena_005.jpg "The Oppo Find N2 Flip goes global")
+
+
+[The Oppo Find N2 Flip goes global](https://www.gsmarena.com/the_oppo_find_n2_flip_goes_global-news-57561.php)
+
+
+> Right on schedule, the Oppo Find N2 Flip is now a globally-available phone. It's available for pre-order from today. The starting price is £849 in the UK,€1,099 in France and Portugal, and €1,049 in Spain, but some countries and carriers will offer a special early bird discount that sees the price drop to €999. This makes the flip-folding style of foldable the most diverse across the globe with the Find N2 Flip joining the ubiquitous Samsung Galaxy Z Flip4 , the Motorola Razr 2022 , and Huawei's P50 Pocket .
+
+
+***
+![TechSee Releases Open Integration Platform to Bring Remote Video Support, Computer Vision AI, and Augmented Reality to the Customer Experience Technology Stack](https://www.wafb.com/pf/resources/images/logo-icons/wafb.svg?d=313 "TechSee Releases Open Integration Platform to Bring Remote Video Support, Computer Vision AI, and Augmented Reality to the Customer Experience Technology Stack")
+
+
+[TechSee Releases Open Integration Platform to Bring Remote Video Support, Computer Vision AI, and Augmented Reality to the Customer Experience Technology Stack](https://www.wafb.com/prnewswire/2023/02/15/techsee-releases-open-integration-platform-bring-remote-video-support-computer-vision-ai-augmented-reality-customer-experience-technology-stack/)
+
+
+> TechSee's API solution makes all features and functionality of its platform available for easy integration. , Feb. 15, 2023 /PRNewswire/ -- TechSee, the global leader in Visual Customer Assistance, announced the launch of their "Open Integration Platform," a full API platform that puts the visual customer experience front and center. The open platform makes it simple for companies with deployed solutions like CRM, IVR, Chatbots, and Mobile Apps to add augmented reality and computer vision AI to their customer experience without changing their production platforms.
+
+
+***
+[BAE Systems and Leonardo collaborate on interoperable aircraft survivability solution](http://www.businesswire.com/news/home/20230215005212/en/BAE-Systems-and-Leonardo-collaborate-on-interoperable-aircraft-survivability-solution/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NASHUA, N.H.--(BUSINESS WIRE)--BAE Systems, Inc. & Leonardo UK received U.S. government approval to develop an interoperable aircraft survivability suite.
+
+
+***
+[Dynasty Financial Partners Announces Sponsorship of Top-Ranked Pickleball Pro Anna Leigh Waters](http://www.businesswire.com/news/home/20230215005057/en/Dynasty-Financial-Partners-Announces-Sponsorship-of-Top-Ranked-Pickleball-Pro-Anna-Leigh-Waters/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ST. PETERSBURG, Fla.--(BUSINESS WIRE)--Dynasty Financial Partners Announces Sponsorship of Top-Ranked Pickleball Pro Anna Leigh Waters
+
+
+***
+[How Trusted Communications Superheroes are Winning the Battle Against Fraud and Operational Inefficiency to Protect Customers and the Bottom Line](http://www.businesswire.com/news/home/20230215005286/en/How-Trusted-Communications-Superheroes-are-Winning-the-Battle-Against-Fraud-and-Operational-Inefficiency-to-Protect-Customers-and-the-Bottom-Line/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BRIDGEWATER, N.J.--(BUSINESS WIRE)--Consumers and businesses depend on voice calls and SMS not only to communicate, but also to enable security safeguards such as two-factor authentication for bank accounts. That's why fraudsters also look to voice and SMS for illegal robocalling, smishing, account takeovers, PBX hacking, one-ring scams and other types of communication fraud. By mitigating fraud, a squadron of trusted communication superheroes are using their powers to help service providers pr
+
+
+***
+[Oort Unveils Identity Technology Ecosystem, Bringing Identity Data out of Orbit and Into View](http://www.businesswire.com/news/home/20230215005255/en/Oort-Unveils-Identity-Technology-Ecosystem-Bringing-Identity-Data-out-of-Orbit-and-Into-View/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOSTON--(BUSINESS WIRE)--Oort, the leader in Identity Threat Detection and Response, today announced the launch of its technology ecosystem. With this announcement, Oort shows how it creates an overlay for complex identity ecosystems in order to eliminate blind spots and secure identities from account takeover. As a turnkey platform, Oort provides immediate value to security teams by giving them full visibility and control on their identity attack surface across multiple sources. 'Our customers
+
+
+***
+![New WhatsApp Web feature for Google Chrome users will protect your chats, photos on office desktops](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/15/2573138-2524698-whatsapp.jpg "New WhatsApp Web feature for Google Chrome users will protect your chats, photos on office desktops")
+
+
+[New WhatsApp Web feature for Google Chrome users will protect your chats, photos on office desktops](https://www.dnaindia.com/technology/report-new-whatsapp-web-feature-for-google-chrome-users-will-protect-your-chats-photos-on-office-desktops-3023932)
+
+
+> New WhatsApp Web feature for Google Chrome users will protect your chats Many of us use WhatsApp as our main source of digital communication when it comes to personal or private conversations. During office hours, many of us conduct our business through WhatsApp chats and calls, with WhatsApp Web being open on our systems many times. Whether it is about school/college work or office work, WhatsApp is needed by everyone. In such a situation, if you also use WhatsApp on the desktop for office work, then this piece of information on a new Google feature can be useful for you.
+
+
+***
+[Clinetic Establishes Partnership with 10th Leading Academic Health System](http://www.businesswire.com/news/home/20230215005210/en/Clinetic-Establishes-Partnership-with-10th-Leading-Academic-Health-System/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DURHAM, N.C.--(BUSINESS WIRE)--Clinetic, a growing healthtech startup, is proud to announce that it is now contracted with 10 of the top academic health systems in the United States. These collaborations enable Clinetic to bring its cutting-edge technology to more than 65 hospitals and 2,300 care locations across 12 states. The Clinetic platform simplifies and accelerates patient recruitment for clinical studies by empowering health systems to harness the potential of their electronic health re
+
+
+***
+![⚡Software Company Sprinklr Cuts 4% of Global Workforce](https://st1.latestly.com/wp-content/uploads/2023/02/59-9.jpg "⚡Software Company Sprinklr Cuts 4% of Global Workforce")
+
+
+[⚡Software Company Sprinklr Cuts 4% of Global Workforce](https://www.latestly.com/quickly/technology/software-company-sprinklr-cuts-4-of-global-workforce-4845585.html)
+
+
+> Sprinklr did not disclose the exact number of employees being laid off due to the decision, the report added. According to the US Securities and Exchange Commission (SEC) filing, the firm had 3,245 employees as of January 31, 2022.
+
+
+***
+![TechSee Releases Open Integration Platform to Bring Remote Video Support, Computer Vision AI, and Augmented Reality to the Customer Experience Technology Stack](https://www.ksla.com/pf/resources/images/logo-icons/ksla.svg?d=313 "TechSee Releases Open Integration Platform to Bring Remote Video Support, Computer Vision AI, and Augmented Reality to the Customer Experience Technology Stack")
+
+
+[TechSee Releases Open Integration Platform to Bring Remote Video Support, Computer Vision AI, and Augmented Reality to the Customer Experience Technology Stack](https://www.ksla.com/prnewswire/2023/02/15/techsee-releases-open-integration-platform-bring-remote-video-support-computer-vision-ai-augmented-reality-customer-experience-technology-stack/)
+
+
+> TechSee's API solution makes all features and functionality of its platform available for easy integration. NEW YORK, Feb. 15, 2023 /PRNewswire/ -- TechSee, the global leader in Visual Customer Assistance, announced the launch of their "Open Integration Platform," a full API platform that puts the visual customer experience front and center. The open platform makes it simple for companies with deployed solutions like CRM, IVR, Chatbots, and Mobile Apps to add augmented reality and computer vision AI to their customer experience without changing their production platforms.
+
+
+***
+![TechSee Releases Open Integration Platform to Bring Remote Video Support, Computer Vision AI, and Augmented Reality to the Customer Experience Technology Stack](https://www.wbtv.com/pf/resources/images/logo-icons/wbtv.svg?d=313 "TechSee Releases Open Integration Platform to Bring Remote Video Support, Computer Vision AI, and Augmented Reality to the Customer Experience Technology Stack")
+
+
+[TechSee Releases Open Integration Platform to Bring Remote Video Support, Computer Vision AI, and Augmented Reality to the Customer Experience Technology Stack](https://www.wbtv.com/prnewswire/2023/02/15/techsee-releases-open-integration-platform-bring-remote-video-support-computer-vision-ai-augmented-reality-customer-experience-technology-stack/)
+
+
+> TechSee's API solution makes all features and functionality of its platform available for easy integration. NEW YORK, Feb. 15, 2023 /PRNewswire/ -- TechSee, the global leader in Visual Customer Assistance, announced the launch of their "Open Integration Platform," a full API platform that puts the visual customer experience front and center. The open platform makes it simple for companies with deployed solutions like CRM, IVR, Chatbots, and Mobile Apps to add augmented reality and computer vision AI to their customer experience without changing their production platforms.
+
+
+***
+![Oppo Find N2 Flip review: party crasher](https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/Oppo-Find-N2-Flip-review-lead.jpg "Oppo Find N2 Flip review: party crasher")
+
+
+[Oppo Find N2 Flip review: party crasher](https://www.stuff.tv/review/oppo-find-n2-flip-review/)
+
+
+> When it comes to flip-style foldable phones, Samsung has largely had things its own way. Motorola gave it a bash, but couldn't dislodge the Galaxy Z Flip series after three attempts. The Oppo Find N2 Flip might change all that. After all, Oppo knows a thing or two about foldables, having received enough positive feedback on the compact Find N to justify launching a second generation version late last year. So while this is its first try at a clamshell, the Find N2 Flip has plenty to draw on – including a bespoke hinge mechanism that promises a near-invisible screen crease.
+
+
+***
+[Leading U.S. Energy Provider Chooses DTEX InTERCEPT to Mitigate Insider Risk](http://www.businesswire.com/news/home/20230215005208/en/Leading-U.S.-Energy-Provider-Chooses-DTEX-InTERCEPT-to-Mitigate-Insider-Risk/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN JOSE, Calif.--(BUSINESS WIRE)--DTEX Systems, the Workforce Cyber Intelligence & Security Company™, today announced that one of the largest energy providers in the United States has selected DTEX InTERCEPT to provide visibility into insider risk amid escalating attacks against critical infrastructure providers. Sophisticated nation state attackers are increasingly targeting organization tasked with managing critical infrastructure, making trusted insiders within those organization a favo
+
+
+***
+![How Vivienne Tam Is Mixing Fashion, Culture and Web3](https://img.businessoffashion.com/resizer/GJ6EmYcZUPgdVMHRv26ROmgnp6M=/1200x630/filters:format(jpg):quality(70):focal(475x303:485x313)/cloudfront-eu-central-1.images.arcpublishing.com/businessoffashion/MDSDLHGQNNAQJG323EOZTBEYDM.jpg "How Vivienne Tam Is Mixing Fashion, Culture and Web3")
+
+
+[How Vivienne Tam Is Mixing Fashion, Culture and Web3](https://www.businessoffashion.com/articles/technology/how-vivienne-tam-is-mixing-fashion-culture-and-web3/)
+
+
+> Vivienne Tam knows ancient Chinese oracle bone script and web3 make for strange bedfellows. But the veteran designer and pioneer of 'China chic,' who first played in the emerging digital world in September when she sewed and embroidered dozens of avatars from blue-chip NFT collections like Bored Ape Yacht Club and CryptoPunks into pieces for her Spring/Summer 2023 showing, is resolute about bringing web3 assets like NFTs into the physical world. On Sunday, Tam unveiled her Fall/Winter 2023 collection, 'Weaving into the Metaverse,' in which she meshed ancient pictograms of 12 zodiac symbols in China's earliest language alongside NFTs (again from BAYC and CryptoPunks) into the garments.
+
+
+***
+[Catamaran Guru and Trippy Sailors Adventure Club Launch NFT Collection With Sailing Perks for Members](http://www.businesswire.com/news/home/20230215005048/en/Catamaran-Guru-and-Trippy-Sailors-Adventure-Club-Launch-NFT-Collection-With-Sailing-Perks-for-Members/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MIAMI--(BUSINESS WIRE)-- #CryptoNews--Catamaran Guru, the number one go-to company for catamaran owners with a global sailing community, announced today a collaboration with Trippy Sailors Adventure Club, an innovative NFT collection with travel utility. The two companies aim to promote and educate about the world of sailing and open access to high-end exclusive sailing trips through NFT gated experiences. This year, global brands like Starbucks, Alo Yoga and Amazon are expanding the utility of
+
+
+***
+![Fintech Trends For 2023 – Technology Org](https://todayheadline.co/Frank/2023/02/Fintech-Trends-For-2023-Technology-Org.jpg "Fintech Trends For 2023 – Technology Org")
+
+
+[Fintech Trends For 2023 – Technology Org](https://todayheadline.co/fintech-trends-for-2023-technology-org/)
+
+
+> Technology has been a major game-changer in the financial industry, and the world of fintech is only growing more advanced year by year. We've already seen big changes in recent years, such as online banking and cryptocurrency, but what exciting new trends can we expect for 2023? Let's look at some of the emerging trends that will likely shape the fintech landscape over the next several years. Support For Cryptocurrency Payments Cryptocurrency payments are becoming increasingly popular, and it is expected that in 2023 they will be supported by a larger number of businesses.
+
+
+***
+![North Korea's APT37 Targeting Southern Counterpart with New M2RAT Malware](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiwPXuiyZpnJjokSVfb3OnO8bTbw5Euk1UySd7TiqHXDFE1jEuVlmBn7bY5b0151RlUGo5xMGxh4uxhRbkXFdzHRtyzTe4o6uZ9qvxRubg6nRRlOE1l6Kh1NRxwP7jhz3HJlivIGCMHx5noozU4_E79qH8YTbapGH3a8wck2K3HmgGnZRBxljDgKuR6/s728-e365/key.png "North Korea's APT37 Targeting Southern Counterpart with New M2RAT Malware")
+
+
+[North Korea's APT37 Targeting Southern Counterpart with New M2RAT Malware](https://thehackernews.com/2023/02/north-koreas-apt37-targeting-southern.html)
+
+
+> The North Korea-linked threat actor tracked as APT37 has been linked to a piece of new malware dubbed M2RAT in attacks targeting its southern counterpart, suggesting continued evolution of the group's features and tactics. APT37, also tracked under the monikers Reaper, RedEyes, Ricochet Chollima, and ScarCruft, is linked to North Korea's Ministry of State Security (MSS) unlike the Lazarus and Kimsuky threat clusters that are part of the Reconnaissance General Bureau (RGB). According to Google-owned Mandiant, MSS is tasked with "domestic counterespionage and overseas counterintelligence activities," with APT37's attack campaigns reflective of the agency's priorities.
+
+
+***
+![Sequoia backs open source data-validation framework Pydantic to commercialize with cloud services](https://techcrunch.com/wp-content/uploads/2023/02/SamuelColvin-020-Edit.jpg?resize=1200,800 "Sequoia backs open source data-validation framework Pydantic to commercialize with cloud services")
+
+
+[Sequoia backs open source data-validation framework Pydantic to commercialize with cloud services](https://techcrunch.com/2023/02/15/sequoia-backs-open-source-data-validation-framework-pydantic-to-commercialize-with-cloud-services)
+
+
+> Pydantic, the popular python Python library and open source data-validation framework used by some of the world's biggest companies, has a new commercial namesake and the backing of one of Silicon Valley's most storied venture capital (VC) firms. Pydantic Services Inc. emerges from stealth today with $4.7 million in seed funding led by Sequoia, with participation from ParTech, Irregular Expressions, and a host of angel investors including Zapier co-founder Bryan Helmig, Dbt Labs founder Tristan Handy, and Sentry co-founder David Cramer.
+
+
+***
+[Algolia Report: Search Technologies Drive Revenue, Personalization Remains Integral](http://www.businesswire.com/news/home/20230215005568/en/Algolia-Report-Search-Technologies-Drive-Revenue-Personalization-Remains-Integral/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)--Algolia, the only end-to-end AI-First Search and Discovery Platform, today released its Ecommerce Site Search Trends 2023 report, compiled in partnership with B2B research specialist, Coleman Parkes Research. This third annual report reveals insights from 900 technical and business decision-makers from omnichannel and digital retailers with global revenues of $100M+, exploring the current usage, investment, and value of search, personalization, and hybrid retail
+
+
+***
+![Download GB WhatsApp Apk 13.50 Latest Version 2023 Here, try to have 2 WA accounts on one cellphone](https://fin.co.id/upload/864495e7dbba9e83fc44d4a61587a25d.jpg "Download GB WhatsApp Apk 13.50 Latest Version 2023 Here, try to have 2 WA accounts on one cellphone")
+
+
+[Download GB WhatsApp Apk 13.50 Latest Version 2023 Here, try to have 2 WA accounts on one cellphone](https://www.world-today-news.com/download-gb-whatsapp-apk-13-50-latest-version-2023-here-try-to-have-2-wa-accounts-on-one-cellphone/)
+
+
+> Download GB WhatsApp Apk 13.50 Latest Version 2023 here, try to have 2 WA accounts on one cellphone – Here is the application download link GB WhatsApp Apk 13.50 latest version 2023. The GB WhatsApp or GB WA application is an instant messaging application that is similar to WhatsApp, but with a number of modifications that make the application more indulgent for its users. READ ALSO: GB WhatsApp Pro Apk Clone and Unclone v14.10 Most Wanted Version, Find Out How to Download Here! One of the advantages of this application compared to the original version is that, on GB WhatsApp, you can have 2 accounts on one gadget or cellphone.
+
+
+***
+[Outdoorsy Renews Commitment to Power its Growing Customer Service Operations with Flexible Cloud Solutions from UJET](http://www.businesswire.com/news/home/20230215005189/en/Outdoorsy-Renews-Commitment-to-Power-its-Growing-Customer-Service-Operations-with-Flexible-Cloud-Solutions-from-UJET/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)--Outdoorsy renews commitment to power its growing customer service operations with flexible cloud solutions from UJET.
+
+
+***
+![Textual 0.11.0 adds a beautiful Markdown widget](https://external-preview.redd.it/fNjBdDWmzpI8B6JFukGd3C5OXIpgqD80VpvyLD6Fahs.jpg?auto=webp&v=enabled&s=e642e724b2ce7c64399689237e34ca56f700f7c8 "Textual 0.11.0 adds a beautiful Markdown widget")
+
+
+[Textual 0.11.0 adds a beautiful Markdown widget](https://www.reddit.com/r/programming/comments/112zukd/textual_0110_adds_a_beautiful_markdown_widget)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Celebrate Pokémon Day on February 27, 2023](https://www.pokemon.com/static-assets/content-assets/cms2/img/misc/_tiles/pokemon-day/2023/pokemon-together/pokemon-together-169-en.png "Celebrate Pokémon Day on February 27, 2023")
+
+
+[Celebrate Pokémon Day on February 27, 2023](https://www.pokemon.com/us/pokemon-news/celebrate-pokemon-day-on-february-27-2023)
+
+
+> T he first Pokémon video games, Pokémon Red and Pokémon Green , were originally released in Japan on February 27, 1996. Those games, of course, would launch an entertainment franchise loved by Trainers around the globe. Since then, February 27 has become known as Pokémon Day, a time for Trainers to come together and celebrate all things Pokémon! This year, the theme of Pokémon Day invites fans to 'Pokémon Together' throughout 2023. Celebrating this way revisits the initial concept of the franchise: connecting with others.
+
+
+***
+![Charting the feud between Alan Moore and Grant Morrison](https://i0.wp.com/boingboing.net/wp-content/uploads/2022/01/2560px-Alan_Moore_speaking_at_TAM_London_2010.jpg?fit=1200%2C900&ssl=1 "Charting the feud between Alan Moore and Grant Morrison")
+
+
+[Charting the feud between Alan Moore and Grant Morrison](https://boingboing.net/2023/02/15/charting-the-feud-between-alan-moore-and-grant-morrison.html)
+
+
+> What is it about feuds and bitter rivalries that keep us so compelled? From fast food franchises to sports teams, human beings love picking sides and bickering about the merits of their chosen cause or tribe. In the world of comics, the most famous rivalry is obviously Marvel vs. DC. However, there's another feud that has captivated comic fans for decades. Despite possessing almost parallel career paths in comics, Alan Moore and Grant Morrison have been engaged in a cold war since the late '80s.
+
+
+***
+![Canada's first zero-carbon, net-positive energy building is on track to propel Ontario's energy transition](https://scx2.b-cdn.net/gfx/news/2023/canadas-first-zero-car.jpg "Canada's first zero-carbon, net-positive energy building is on track to propel Ontario's energy transition")
+
+
+[Canada's first zero-carbon, net-positive energy building is on track to propel Ontario's energy transition](https://techxplore.com/news/2023-02-canada-zero-carbon-net-positive-energy-track.html)
+
+
+> Graphical abstract. Credit: Energy and Buildings (2022). DOI: 10.1016/j.enbuild.2022.112717 Office buildings are typically not energy efficient, and globally they contribute to nearly a third of greenhouse gas emissions from construction to end of life. A new study out of the University of Waterloo analyzes data-driven improvements in Canada's first zero-carbon, net-positive energy building showing how they play a vital role in that building generating more energy than it consumes. In the first case study of its kind in Canada, researchers found that the net-positive building used more energy than originally predicted during the first nine months of operation while the operators were still learning about building systems.
+
+
+***
+![Samsung copied Apple with this useful One UI 5.1 function](https://www.gizchina.com/wp-content/uploads/images/2023/02/maxresdefault-5-1200x675.jpg "Samsung copied Apple with this useful One UI 5.1 function")
+
+
+[Samsung copied Apple with this useful One UI 5.1 function](https://www.gizchina.com/2023/02/15/samsung-copied-apple-with-this-useful-one-ui-5-1-function/)
+
+
+> Photo souce: Simple Alpaca Samsung's latest One UI 5.1 software update has introduced a new feature that has drawn comparisons to an existing iOS feature. The new feature allows users to remove the background from an image, commonly referred to as cutting out an object, with a single tap. This results in a sticker that can be used elsewhere. The feature was first introduced in iOS 16 and has now made its way to Samsung's One UI 5.1. The feature is available on Samsung's Galaxy 23 devices.
+
+
+***
+![Obscure Types of Software](https://images.tedium.co/uploads/tedium021523.gif "Obscure Types of Software")
+
+
+[Obscure Types of Software](https://tedium.co/2023/02/15/obscure-software-glossary/)
+
+
+> Today in Tedium: As you might have caught over the last year-plus, we had a bit of a gimmick where we went through different lists of things that didn't make it . That was fun, but I think that the idea probably needs a little bit of a break to keep that strategy interesting and viable. So, what's a weird listy thing that I can do in that vein that could keep people engaged over a long period? And it hit me: Tedium does not have a glossary of terms! There are so many topics that we've covered over the years that to grasp what's in there, we need to offer a more specific guide.
+
+
+***
+![Hogwarts Legacy is practically hacked, but there is a nuance. Empress hacker statement](https://ixbt.online/gametech/covers/2023/02/15/nova-filepond-2qhPol.png "Hogwarts Legacy is practically hacked, but there is a nuance. Empress hacker statement")
+
+
+[Hogwarts Legacy is practically hacked, but there is a nuance. Empress hacker statement](https://www.world-today-news.com/hogwarts-legacy-is-practically-hacked-but-there-is-a-nuance-empress-hacker-statement/)
+
+
+> Hogwarts Legacy has attracted a lot of attention, but some people would rather not buy a licensed copy and get a free trial Hacker Empress continues to fight in Denuvo at Hogwarts Legacy. There are some successes. Empress wrote: 'To I think we've hit 30k subscribers, and as a little celebration, I'm happy to report that I'm making great progress and am in the final stages of the Hogwarts Legacy hack. the first day patch had a lot of problems and according to many posts on steam it ruined performance for many.
+
+
+***
+![Brendan Fraser talks about the time he almost played Superman](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bb-8.jpg?fit=684%2C420&ssl=1 "Brendan Fraser talks about the time he almost played Superman")
+
+
+[Brendan Fraser talks about the time he almost played Superman](https://boingboing.net/2023/02/15/brendan-fraser-talks-about-the-time-he-almost-played-superman.html)
+
+
+> One of the best and most heartwarming stories in Hollywood has been the career resurgence of Brendan Fraser. A few years ago, a noticeably matured Fraser's return to media attention became a major talking point for film fans. Paired with Fraser's lack of starring roles and stories about  his steep alimony payments , the stories painted a picture of a fallen A-lister. Cut to the present, and Fraser has rejuvenated his career with a compelling performance in Darren Aronofsky's film  The Whale . With a possible Oscar win in his future for the role, Fraser has been on the interview circuit talking about his career and the changes he's undergone as a man.
+
+
+***
+![Major US stock indices open with the declines after stronger retail sales](https://images.forexlive.com/images/Yields_id_7a9faace-cb39-46d8-abd0-09486fee8e06_size900.jpg?v=1676474313797 "Major US stock indices open with the declines after stronger retail sales")
+
+
+[Major US stock indices open with the declines after stronger retail sales](https://www.forexlive.com/technical-analysis/major-us-stock-indices-open-with-the-declines-after-stronger-retail-sales-20230215/)
+
+
+> The major US stock indices are opening with declines as strong retail sales keeps the Fed on track for more tightening. The good news is the economy remain strong which is good for future growth/earnings. The bad is that growth may be inflationary which could lead to a much tighter Fed, which could sap strength from the economy, and ultimately lead to a recession. The continued tumble in the spread between two and 10 year yields to -91 basis points at its low today, is indicative of concerns about a hard landing down the road.
+
+
+***
+![WhatsApp's has introduced some major features to its platform – Research Snipers](https://researchsnipers.com/wp-content/uploads/2022/01/Head-of-WhatsApp-on-releasing-an-iPad-app-‘Wed-love.jpg "WhatsApp's has introduced some major features to its platform – Research Snipers")
+
+
+[WhatsApp's has introduced some major features to its platform – Research Snipers](https://researchsnipers.com/whatsapps-has-introduced-some-major-features-to-its-platform)
+
+
+> In the past few years, WhatsApp has made advancements to its platform in order to improve the user experience and position itself as the best communication app for Android. The messenger platform owned by Meta is quite efficient and frequent in bringing up the latest features to its platform. The latest features were being introduced about every month. However, after its major status update, WhatsApp is launching another minor but important update that will improve the usage criteria of its Android app.
+
+
+***
+![Can You Deduct COVID-19 Expenses on Your Taxes?](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17w3V8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Can You Deduct COVID-19 Expenses on Your Taxes?")
+
+
+[Can You Deduct COVID-19 Expenses on Your Taxes?](http://www.msn.com/en-us/news/technology/can-you-deduct-covid-19-expenses-on-your-taxes/ar-AA17whFx)
+
+
+> If staying healthy burned a hole in your pocket last year, you may be able to get some of that money back. Deductions are one-off adjustments to your taxable income. When you document them on your tax return, they lower your overall tax burden. Most Americans elect to take the standard deduction, which reduces taxable income by $12,950 for single filers, $19,400 for heads of household and $25,900 for joint filers for the 2022 tax year. However, if you have unique one-time expenses, such as a large medical bill, waiving the standard deduction and itemizing your expenses instead may lead to a bigger refund.
+
+
+***
+![‘The Mageseeker' is a League of Legends RPG from the studio behind ‘Moonlighter'](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17w3Xt.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "‘The Mageseeker' is a League of Legends RPG from the studio behind ‘Moonlighter'")
+
+
+[‘The Mageseeker' is a League of Legends RPG from the studio behind ‘Moonlighter'](http://www.msn.com/en-us/news/technology/the-mageseeker-is-a-league-of-legends-rpg-from-the-studio-behind-moonlighter/ar-AA17wlC5)
+
+
+> 2023 will be another big year for fans of Riot Games and League of Legends. This morning, the studio announced it will release not one but three games from its Riot Forge publishing label before 2024. The slate opens with The Mageseeker: A League of Legends Story, a new action RPG from Digital Sun Games, the studio behind 2018's Moonlighter. TheMageseeker casts you as Sylas, everyone's favorite rogue Damacian mage, as he attempts to lead a revolution against the kingdom that imprisoned him. Riot is billing the game as a '2D hi-bit' title, meaning it features a pixel art style that takes advantage of modern rendering techniques.
+
+
+***
+![USA: 3% increase in retail sales in January – 02/15/2023 at 14:41](https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-4.jpg "USA: 3% increase in retail sales in January – 02/15/2023 at 14:41")
+
+
+[USA: 3% increase in retail sales in January – 02/15/2023 at 14:41](https://www.world-today-news.com/usa-3-increase-in-retail-sales-in-january-02-15-2023-at-1441/)
+
+
+> (CercleFinance.com) – After falling 1.1% in December, retail sales in the United States rose 3% in January to $697 billion, according to the Commerce Department. Economists had expected retail sales to rise more than 2%. Excluding the automotive sector (vehicles and equipment), US retail sales rose 2.3%.
+
+
+***
+![North-Korean group attacks Windows and mobiles with new Remote Access Trojan](https://www.ghacks.net/wp-content/uploads/2023/02/Should-You-Use-Google-Password-Manager-main.png "North-Korean group attacks Windows and mobiles with new Remote Access Trojan")
+
+
+[North-Korean group attacks Windows and mobiles with new Remote Access Trojan](https://www.ghacks.net/2023/02/15/north-korean-group-attacks-windows-and-mobiles-with-new-remote-access-trojan)
+
+
+> Infamous North-Korean threat group APT37 has upgraded its arsenal of attacks with a new Remote Access Trojan, that is attacking targets on Windows and mobile devices. The group, known for malicious attacks such as RedEyes or ScarCruft, is based in North-Korean and believed to be supported by the North-Korean state. AhnLab Security Emergency response Center published a new report today that provides information on APT37's latest activities. According to the report, which is available in Korean only, AhnLab researchers provide information on the latest malware that APT37 uses it its attacks.
+
+
+***
+![Telegram: WhatsApp has a 'security warning' for Telegram users](https://static.toiimg.com/thumb/msid-97954900,width-1070,height-580,imgsize-41556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Telegram: WhatsApp has a 'security warning' for Telegram users")
+
+
+[Telegram: WhatsApp has a 'security warning' for Telegram users](https://timesofindia.indiatimes.com/gadgets-news/whatsapp-has-a-security-warning-for-telegram-users/articleshow/97954912.cms)
+
+
+> News Gadgets News News WhatsApp has a 'security warning' for Telegram users FOLLOW US ON SOCIAL MEDIA Facebook Twitter Instagram KOO APP YOUTUBE
+
+
+***
+![It will take you far and high for little money](https://www.svetandroida.cz/media/2023/02/brightway-intelligent-technology-launched-the-electric-kick-scooter-navee-n65-on-xiaomi-youpin-772x434.jpg "It will take you far and high for little money")
+
+
+[It will take you far and high for little money](https://www.world-today-news.com/it-will-take-you-far-and-high-for-little-money/)
+
+
+> Click, rotate the handlebars, click, lock the handlebars in the rotated direction, click, fold the mainstay and click, lock the pin. This entire process takes less time than writing the previous sentence. Even with this mechanism, the NAVEE N65 scooter is suitable for riders under 110 kg incredibly strong. Even at top speeds, I didn't experience any squeaks, creaks or play in any joints or joints. The extra-large and anti-slip step, which is surprisingly not extremely high, will definitely please you.
+
+
+***
+![Save $550 on this lightweight, AMD-loaded Asus gaming laptop](https://images.idgesg.net/images/idge/imported/imageapi/2023/02/15/15/untitled-design-10-15-100937559-large.jpg?auto=webp&quality=85,70 "Save $550 on this lightweight, AMD-loaded Asus gaming laptop")
+
+
+[Save $550 on this lightweight, AMD-loaded Asus gaming laptop](https://www.techconnect.com/article/3688248/save-550-on-this-lightweight-amd-loaded-asus-gaming-laptop.html)
+
+
+> If you're on the hunt for a lightweight gaming laptop, you're in luck, as we've got a unique pick for you on tap today. Best Buy's currently selling the Asus ROG Zephyrus for $1,099.99, which is a whopping $550 off. This machine weighs just 3.64 pounds, which is considered lightweight for a gaming laptop. For context, most gaming machines weigh a beastly five or six pounds. The stark white color scheme is also eye-catching and sophisticated. However, it's more than just a pretty face. The Zephyrus comes equipped with an AMD Ryzen 9 6000 Series CPU, an AMD Radeon RX 6700S GPU, 16GB of DDR5 RAM, and 1TB of PCIe SSD storage.
+
+
+***
+![NZDUSD moves back below the midpoint of the 2022 trading range](https://images.forexlive.com/images/NZDUSD_id_1b059eb9-fad3-487d-bfaa-4d527c5fa238_size900.jpg?v=1676474352667 "NZDUSD moves back below the midpoint of the 2022 trading range")
+
+
+[NZDUSD moves back below the midpoint of the 2022 trading range](https://www.forexlive.com/technical-analysis/nzdusd-moves-back-below-the-midpoint-of-the-2022-trading-range-20230215/)
+
+
+> 50% midpoint comes in at 0.62719 NZDUSD is back below the 50% midpoint The NZDUSD has moved back below the 50% of the 2022 trading range at 0.62719 today. Recall that the high price from earlier this month moved into a swing area between 0.6529 and 0.6578. However, momentum could not be sustained and the price rotated quickly to the downside before finding support against that 50% midpoint level on February 6 and February 7. The subsequent corrective move off those lows from early February stalled within a swing area between 0.
+
+
+***
+[Gather Sciences Launches Data-Driven Solution To Address Challenges Facing Hybrid Work Models](http://www.businesswire.com/news/home/20230215005551/en/Gather-Sciences-Launches-Data-Driven-Solution-To-Address-Challenges-Facing-Hybrid-Work-Models/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ATLANTA--(BUSINESS WIRE)--Gather Sciences, a workplace experience software company specializing in helping organizations unlock the full potential of hybrid work, today announces the launch of Balanced Hybrid™, a universal framework specifically designed to address today's hybrid work challenges. Despite being the norm for almost three years, many companies still struggle to make the hybrid model work for associates and managers. A recent survey by Gallup found that some of the top-reported cha
+
+
+***
+[Newfi Lending Partners with Tavant, Integrates with Touchless Lending® Document Analysis](http://www.businesswire.com/news/home/20230215005404/en/Newfi-Lending-Partners-with-Tavant-Integrates-with-Touchless-Lending%C2%AE-Document-Analysis/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SANTA CLARA, Calif.--(BUSINESS WIRE)-- #digitallending--Tavant, a Silicon Valley-based provider of industry-leading digital lending solutions, and Newfi Lending, a technology-focused multi-channel mortgage lender, today announced the successful integration of Newfi's digital mortgage experience with Touchless Lending® Document Analysis. This partnership marks Tavant's official expansion into Non-QM Lending and a significant step in the evolution of Newfi's business and advancement in the mortgage industry.
+
+
+***
+[Lark Health and Smart Meter Collaborate on Digital Diabetes Management Program for Health Systems](http://www.businesswire.com/news/home/20230215005538/en/Lark-Health-and-Smart-Meter-Collaborate-on-Digital-Diabetes-Management-Program-for-Health-Systems/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Lark Health, a leading digital care company for the prevention and management of chronic conditions, and Smart Meter, the leading supplier of Remote Patient Monitoring ('RPM') solutions to a nationwide network of SmartPartners™, today announced a collaboration targeting the care and management of patients with type 2 diabetes across health systems. Lark's clinically proven Diabetes management program, Diabetes Care, combined with the proprietary cellular-
+
+
+***
+[Viamedia Sales Continue To Boost Partnerships, Expanding Viamedia's Footprint to New Markets Across Nation](http://www.businesswire.com/news/home/20230215005305/en/Viamedia-Sales-Continue-To-Boost-Partnerships-Expanding-Viamedia%E2%80%99s-Footprint-to-New-Markets-Across-Nation/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)-- #DigitalAdvertising--Viamedia Has Expanded Its Advertising Sales Representation And Established Partnerships With 11 New Service Providers In 2022 To Grow Local Ad Sales.
+
+
+***
+[Dalrada's Strong Revenue Generation Includes 23% Growth to $5.3 Million During the Second Quarter of Fiscal 2023](http://www.businesswire.com/news/home/20230215005409/en/Dalrada%E2%80%99s-Strong-Revenue-Generation-Includes-23-Growth-to-5.3-Million-During-the-Second-Quarter-of-Fiscal-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN DIEGO--(BUSINESS WIRE)--Dalrada reports strong revenue generation that includes 23% growth to $5.3 million, during the second quarter of fiscal year 2023.
+
+
+***
+[Indiana Wesleyan University Grads Set to Fill Healthcare Industry Jobs with New MedCerts Trainings](http://www.businesswire.com/news/home/20230215005118/en/Indiana-Wesleyan-University-Grads-Set-to-Fill-Healthcare-Industry-Jobs-with-New-MedCerts-Trainings/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MARION, Ind.--(BUSINESS WIRE)-- #StrideLearn--Indiana Wesleyan University (IWU) has partnered with MedCerts, an online certification training provider in allied healthcare and information technology, to offer MedCerts programs to its students. IWU is offering MedCerts' most in-demand programs to eligible students, including Medical Assistant, Surgical Technologist, Phlebotomy Technician, Medical Billing Specialist, Sterile Processing Technician, Pharmacy Technician, EKG Technician, and Professional Coder.
+
+
+***
+![Hogwarts Legacy will receive full Russian voice acting from GamesVoice, which raised over 1.3 million rubles for the project in five days](https://ixbt.online/gametech/covers/2023/02/15/nova-filepond-3uCYQy.jpg "Hogwarts Legacy will receive full Russian voice acting from GamesVoice, which raised over 1.3 million rubles for the project in five days")
+
+
+[Hogwarts Legacy will receive full Russian voice acting from GamesVoice, which raised over 1.3 million rubles for the project in five days](https://www.world-today-news.com/hogwarts-legacy-will-receive-full-russian-voice-acting-from-gamesvoice-which-raised-over-1-3-million-rubles-for-the-project-in-five-days/)
+
+
+> The studio promised to start work on reaching the bar of 800 thousand rubles and intends to keep its word GamesVoice was able to collect 1.3 million rubles for the Russian voice acting of Hogwarts Legacy in five days and got to work. In total, the team needs 1.9 million rubles for the project. The team has already begun to form a glossary, sort characters, and is also studying timings with lipsync and conducting the first tests of the reverse packaging of the sound. The team promises to share the first results of its work 'as fast as possible'.
+
+
+***
+![A demonstration on how to implement an observability stack based on Jaeger and OpenTelemetry in node.js services and how to debug simple issues in a microservice distributed environment.](https://external-preview.redd.it/W_3LMTPOh1sK7iVmdmrI5ts0zykeCVAp2yLGCerLNZg.jpg?auto=webp&v=enabled&s=163fb22309b54499431fa9187e1b615c6a6d65c4 "A demonstration on how to implement an observability stack based on Jaeger and OpenTelemetry in node.js services and how to debug simple issues in a microservice distributed environment.")
+
+
+[A demonstration on how to implement an observability stack based on Jaeger and OpenTelemetry in node.js services and how to debug simple issues in a microservice distributed environment.](https://www.reddit.com/r/programming/comments/112z778/a_demonstration_on_how_to_implement_an)
+
+
+> A demonstration on how to implement an observability stack based on Jaeger and OpenTelemetry in node.js services and how to debug simple issues in a microservice distributed environment.
+
+
+***
+![PowerWash Simulator free DLC ‘Midgar Special Pack' launches March 2](https://www.gematsu.com/wp-content/uploads/2023/02/PowerWash-Simulator-FF7-Pack_02-15-23_001.jpg "PowerWash Simulator free DLC ‘Midgar Special Pack' launches March 2")
+
+
+[PowerWash Simulator free DLC ‘Midgar Special Pack' launches March 2](https://www.gematsu.com/2023/02/powerwash-simulator-free-dlc-midgar-special-pack-launches-march-2)
+
+
+> The Final Fantasy VII -themed free downloadable content 'Midgar Special Pack' for will launch across all platforms on March 2, publisher Collective and developer announced . Here is an overview of the downloadable content, via Collective: Wait… what? Final Fantasy Downloadable Content in ?! Yep! are collaborating with the Final Fantasy VII team to bring the gritty city of Midgar to . You could say that Midgar is facing an Avalanche… of dirt. This new pack contains five levels set above and below the plate.
+
+
+***
+[Aura Network Raised $4M in Pre-Series A Funding Round Led by Hashed and Coin98](http://www.businesswire.com/news/home/20230215005531/en/Aura-Network-Raised-4M-in-Pre-Series-A-Funding-Round-Led-by-Hashed-and-Coin98/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HANOI, Vietnam--(BUSINESS WIRE)--Aura Network has closed the fundraising round of $4 million, with Hashed and Coin98 Ventures co-leading the round. Following the strategic advisory partnership announcement with Republic Crypto, this is the next committed milestone ahead of our Mainnet launch in Q1 2023. This is by far one of the most significant fundraises for Aura Network with the investment of Hashed, South Korea's most highest-profile crypto investment firm. In the 5 years of establishment,
+
+
+***
+![Claim now: OnePlus 11 free storage upgrade! Up to $598 off with our code!](https://m-cdn.phonearena.com/images/article/145345-wide-two_1200/Claim-now-OnePlus-11-free-storage-upgrade-Up-to-598-off-with-our-code.jpg "Claim now: OnePlus 11 free storage upgrade! Up to $598 off with our code!")
+
+
+[Claim now: OnePlus 11 free storage upgrade! Up to $598 off with our code!](https://www.phonearena.com/news/Claim-now-OnePlus-11-free-storage-upgrade-Up-to-598-off-with-our-code_id145345)
+
+
+> exclusive code With the еxclusive code, you can save: Without a trade-in, you can get a $100 coupon to use towards your next purchase at OnePlus! Why you should take the 256 GB / 16 GB RAM deal Should you get OnePlus Buds Pro 2 with the OnePlus 11 5G? Some might argue that the OnePlus Buds Pro were already excellent. The Buds Pro 2 build on that foundation by adding contemporary features, and fleshing out what made the previous model great: Upgraded to dual drivers Co-designed with Dynaudio Android Spatial Audio support Audio ID 2.
+
+
+***
+![We Are Too Busy Laughing At Needy Loser Elon Musk To Write A Proper Headline Right Now](https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMzkwODc0OC9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTczNDA2MjMxNH0.LvBsYCzDhS1kUIQ7yTK8UHsle8fn1Q2ypgweGYIXuzI/img.gif?width=1200&height=600&coordinates=0%2C16%2C0%2C16 "We Are Too Busy Laughing At Needy Loser Elon Musk To Write A Proper Headline Right Now")
+
+
+[We Are Too Busy Laughing At Needy Loser Elon Musk To Write A Proper Headline Right Now](https://www.wonkette.com/elon-musk-joe-biden-super-bowl-tweetselon-musk-joe-biden-super-bowl-tweets)
+
+
+> Good morning, it is time for you to laugh and laugh and laugh, because the most pathetic thing in human history has happened. Obviously it is about Elon Musk. That man seems hellbent on proving to Donald Trump that HE, NOT TRUMP, is the most laughed-at man in the world. And yeah, it is far more pathetic than Elon firing that engineer for telling him the hard truth that maybe he's not getting much engagement because people don't like him anymore. But it's a natural progression from that. Look at this Elon tweet.
+
+
+***
+![GB WhatsApp Pro Apk Clone and Unclone v14.10 Most Wanted Version, Find Out How to Download Here!](https://fin.co.id/upload/186a0b5b9ec252beed80fd96a77f8feb.jpg "GB WhatsApp Pro Apk Clone and Unclone v14.10 Most Wanted Version, Find Out How to Download Here!")
+
+
+[GB WhatsApp Pro Apk Clone and Unclone v14.10 Most Wanted Version, Find Out How to Download Here!](https://www.world-today-news.com/gb-whatsapp-pro-apk-clone-and-unclone-v14-10-most-wanted-version-find-out-how-to-download-here/)
+
+
+> GB WhatsApp Pro Apk Clone and Unclone v14.10 Most Wanted Version, Find Out How to Download Here – The GB WhatsApp Pro Apk Mod download link with the Clone and Unclone versions is now being sought after by instant messaging users. Of the many GB WhatsApp Apk or WA GB applications that have sprung up, the GB WhatsApp Pro Apk v14.10 Clone and Unclone Versions are now in great demand and are being hunted by their users. READ ALSO:Link Download GB WhatsApp Pro Apk Mod V19.20 Via Mediafire, Only 50MB Can Multi Accounts! READ ALSO:Only 48MB! GB WhatsApp Pro v19.
+
+
+***
+![Biogen, having 'lost its way,' looks to drug launches for Alzheimer's and depression for return to growth](https://www.statnews.com/wp-content/uploads/2021/06/AP20076538734253-1024x576.jpg "Biogen, having 'lost its way,' looks to drug launches for Alzheimer's and depression for return to growth")
+
+
+[Biogen, having 'lost its way,' looks to drug launches for Alzheimer's and depression for return to growth](https://www.statnews.com/2023/02/15/biogen-return-growth/)
+
+
+> B iogen's sales and profit will decline this year, but the commercial launches of an Alzheimer's treatment and a new medicine for depression are expected to help the company return to growth, newly appointed CEO Chris Viehbacher said Wednesday. Stelios Papadopoulos , the longtime chairman of Biogen's board, will also be stepping down this year due to the company's mandatory retirement age policy, Viehbacher said. Unlock this article by subscribing to and enjoy your first 30 days fr
+
+
+***
+![Lufthansa IT outage causes delays for thousands of passengers](https://www.siliconrepublic.com/wp-content/uploads/2023/02/AdobeStock_514759568_Editorial_Use_Only.jpeg "Lufthansa IT outage causes delays for thousands of passengers")
+
+
+[Lufthansa IT outage causes delays for thousands of passengers](https://www.siliconrepublic.com/business/lufthansa-it-outage-flight-delays)
+
+
+> The German airline said the outage was caused by construction work in Frankfurt, which impacted a telecommunications line. Lufthansa has suffered a disruption to its systems, causing thousands of passengers to be stranded worldwide. The German airline said it has suffered an IT outage as a result of construction work in the Frankfurt region. Lufthansa said the construction work caused a telecommunications line failure, which has had a 'major impact' on its IT systems. As a result, the airline said all departures and landings in Frankfurt have been suspended 'for the time being', with some of its operations in Munich also being affected.
+
+
