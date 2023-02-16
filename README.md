@@ -35158,3 +35158,916 @@
 > GoSecure has released Titan Identity, a solution combining technology with a managed service to provide a cost-effective, deployable solution that enables organizations to improve credential theft response times. Threat actors have many techniques to abuse identity services like Active Directory because they recognize identity controls access to everything. According to Microsoft's 2022 Digital Defense Report, 93% of Microsoft investigations during ransomware recovery engagements revealed insufficient privilege access and lateral movement controls.
 
 
+***
+![TD Introduces Black Entrepreneur Credit Access Program](https://www.crowdfundinsider.com/wp-content/uploads/2018/06/TD.jpg "TD Introduces Black Entrepreneur Credit Access Program")
+
+
+[TD Introduces Black Entrepreneur Credit Access Program](https://www.crowdfundinsider.com/2023/02/202485-td-introduces-black-entrepreneur-credit-access-program)
+
+
+> TD Bank Group (TD) takes another step toward positive change 'to address anti-Black racism and systemic discrimination with the launch of the Black Entrepreneur Credit Access Program.' A lending program 'founded on providing more equitable access to credit for Black entrepreneurs, who disproportionally face hurdles securing funding for their businesses, helping to foster economic inclusion.' Designed to help Black business owners drive their businesses forward, the Program also reportedly 'offers dedicated support and resources via specialized Account Managers and Black Customer Experience regional teams as part of TD's Black Customer Experience Strategy.
+
+
+***
+![HP 15s-du3047TX 11th Gen Core i5-1135G7 (2020) Price in India, Full Specs](https://static.digit.in/default/new-project-4-d29790ea0a.jpeg?tr=1200 "HP 15s-du3047TX 11th Gen Core i5-1135G7 (2020) Price in India, Full Specs")
+
+
+[HP 15s-du3047TX 11th Gen Core i5-1135G7 (2020) Price in India, Full Specs](https://www.digit.in/laptops/hp-15s-du3047tx-11th-gen-core-i5-1135g7-2020-price-341412.html)
+
+
+> Basic Information Model name : 15s Launch date (global) : 16-02-2023 operating system (with version) : Windows 10 Home Display Resolution : 1920 x 1080 display size (in inches) : 15.6 Connectivity connectivity : Bluetooth, Wi-Fi Memory ram included (in gb) : 8 GB ram type : DDR4 ram speed (in mhz) : 2666 Physical Specifications laptop weight (in kgs) : 1.
+
+
+***
+![Lutheran Life Communities Partners With DailyPay to Support Generational Workforce with Team Member Benefits](https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2.jpg "Lutheran Life Communities Partners With DailyPay to Support Generational Workforce with Team Member Benefits")
+
+
+[Lutheran Life Communities Partners With DailyPay to Support Generational Workforce with Team Member Benefits](https://www.crowdfundinsider.com/2023/02/202571-lutheran-life-communities-partners-with-dailypay-to-support-generational-workforce-with-team-member-benefits)
+
+
+> Lutheran Life Communities, a not-for-profit system of continuing care retirement communities and senior services, has partnered with DailyPay—the provider of on-demand pay—as part of its effort 'to continuously reciprocate support and care for its healthcare team members.' The decision to implement the on-demand pay benefit 'results from the organization's ongoing dedication to addressing its team member needs.' Headquartered in Arlington Heights, Illinois, Lutheran Life Communities continues to advance its mission and dedication to its team members 'through innovative changes to boost morale and retention.
+
+
+***
+![UK's Digital Bank Zopa Acquires BNPL DivideBuy in 2023 Embedded Finance Push](https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Zopa-Differently.jpg "UK's Digital Bank Zopa Acquires BNPL DivideBuy in 2023 Embedded Finance Push")
+
+
+[UK's Digital Bank Zopa Acquires BNPL DivideBuy in 2023 Embedded Finance Push](https://www.crowdfundinsider.com/2023/02/202587-uks-digital-bank-zopa-acquires-bnpl-dividebuy-in-2023-embedded-finance-push)
+
+
+> Zopa has announced the acquisition of buy now – pay later (BNPL) platform DivideBuy. Terms of the transaction were not immediately available. Zopa recently raised £75 million as it gears up for the possibility of more acquisitions. The acquisition is expected to complete in the next few months. Embedded finance is 'a $7.2 trillion opportunity globally,' according to Dealroom. The deal is expected 'to increase Zopa's revenue by at least 20% in the next few years.' This move is 'a response to the consumer need to simplify their finances.
+
+
+***
+![American Express, Microsoft to Drive Innovation in Business Travel](https://www.crowdfundinsider.com/wp-content/uploads/2016/07/American-Express-872x1024.jpg "American Express, Microsoft to Drive Innovation in Business Travel")
+
+
+[American Express, Microsoft to Drive Innovation in Business Travel](https://www.crowdfundinsider.com/2023/02/202374-american-express-microsoft-to-drive-innovation-in-business-travel)
+
+
+> American Express (NYSE: AXP) is expanding its relationship with Microsoft (NASDAQ: MSFT) to develop a suite of solutions built on Microsoft Cloud and AI technologies 'focused on reducing business travel friction for employees and businesses.' The first solution developed through this collaboration will 'enhance the expense management process by addressing some of the pain points business travelers and expense processors face.' Using AI and machine learning capabilities, the solution 'will bolster clients' existing processes and tools by simplifying and automating manual expense reporting and approvals, enhancing audit efficacy, and streamlining reconciliation and reimbursements for accounting teams.
+
+
+***
+![Bank of London Appoints Norbert Becker as Company Chair of EU Region](https://www.crowdfundinsider.com/wp-content/uploads/2022/07/Buckingham-Palace-London-UK-United-Kingdom.jpeg "Bank of London Appoints Norbert Becker as Company Chair of EU Region")
+
+
+[Bank of London Appoints Norbert Becker as Company Chair of EU Region](https://www.crowdfundinsider.com/2023/02/202569-bank-of-london-appoints-norbert-becker-as-company-chair-of-eu-region)
+
+
+> The Bank of London, the next-generation technology company and the world's first purpose-built global clearing, agency, and transaction bank, is delighted to announce 'the appointment of Norbert Becker as Chair of the European Union (EU) region for the firm.' In addition to his role as Chair of the EU region for The Bank of London, Becker 'serves as the Chairman of The Administration des Biens du Grand-Duc, which oversees the Grand Duke of Luxembourg's private assets, Chairman of PayPal Europe, having been a board member since its incorporation as a fully licensed bank in 2007, a member of the management board of Edmond de Rothschild Eres Private Equity Funds, and Group Chairman at Lombard International Assurance.
+
+
+***
+![Sam Smith's gender-neutral term for a fisherman is dividing the internet](https://static-entertainment-eus-s-msn-com.akamaized.net/sc/c6/519670.jpg "Sam Smith's gender-neutral term for a fisherman is dividing the internet")
+
+
+[Sam Smith's gender-neutral term for a fisherman is dividing the internet](http://www.msn.com/en-us/news/technology/sam-smith-s-gender-neutral-term-for-a-fisherman-is-dividing-the-internet/ar-AA17yQCI)
+
+
+> Sam Smith has invented a new gender-neutral term for a fisherman: A fisherthem. Former Tracy Beaker star Amy Hickman appears in ‘You' season 4 Dominic Raab appears uneasy meeting Starmer at Zelensky address Disney announces new 'Toy Story,' 'Frozen,' 'Zootopia' sequels coming Matt Hancock answers questions from his TikTok followers Beyoncé mispronounces Tottenham and Arsenal in resurfaced clip Madonna asks Grammy audience to cheer her during speech Derek Jeter reveals he wore a ‘gold thong' to break his slump … Paco Rabanne: The best ads of the designer's perfume Dog reacts to that pets 'judge' owners The non-binary singer appeared on the One Show where they expressed their love for the sport, changing the term to suit someone with their pronouns.
+
+
+***
+![Zorabots partners with QSS to showcase humanoid robot and plans to establish robotics joint venture in Saudi Arabia](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/zorabots-qss-humanoid-sara-b.jpeg "Zorabots partners with QSS to showcase humanoid robot and plans to establish robotics joint venture in Saudi Arabia")
+
+
+[Zorabots partners with QSS to showcase humanoid robot and plans to establish robotics joint venture in Saudi Arabia](https://roboticsandautomationnews.com/2023/02/16/zorabots-to-partner-with-qss-to-establish-robotics-joint-venture-in-saudi-arabia/60385/)
+
+
+> Robotics and software company Zorabots have started talks to create joint venture with Saudi tech company QSS . The news comes after the two companies jointly presented what is believed to be Saudia Arabia's first domestically created humanoid robot, called 'Sara' (main picture and below). Sara is being presented at the renowned tech event LEAP, being held in Riyadh, Saudi Arabia, and the sophisticated humanoid has been declared by relevant authorities as a 'Saudi tech jewel'. The robot was developed by tech company QSS with the support of Zorabots.
+
+
+***
+[novobanco Accelerates Digital-First Banking Transformation with Red Hat Hybrid Cloud Technologies](http://www.businesswire.com/news/home/20230216005155/en/novobanco-Accelerates-Digital-First-Banking-Transformation-with-Red-Hat-Hybrid-Cloud-Technologies/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> RALEIGH, N.C.--(BUSINESS WIRE)--Red Hat, Inc., the world's leading provider of open source solutions, today announced that novobanco, a leading Portuguese bank, has adopted Azure Red Hat OpenShift, a fully managed and supported application platform, as the cornerstone of a new digital business initiative. The initiative aims to establish novobanco firmly as a digital-first bank by improving developer productivity, reducing time-to-market for new products and services and driving faster expansio
+
+
+***
+[Identiv Sets Fourth Quarter and Fiscal Year 2022 Earnings Call for Thursday, March 2, 2023 at 5:00 PM EST](http://www.businesswire.com/news/home/20230216005338/en/Identiv-Sets-Fourth-Quarter-and-Fiscal-Year-2022-Earnings-Call-for-Thursday-March-2-2023-at-500-PM-EST/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> FREMONT, Calif.--(BUSINESS WIRE)--Identiv, Inc. (NASDAQ: INVE), a global leader in digital security and identification in the Internet of Things (IoT), will hold a teleconference and webcast on Thursday, March 2, 2023 at 5:00 p.m. EST to discuss its financial results for the fourth quarter and fiscal year ended December 31, 2022. Financial results will be published in a press release prior to the call and available on the investor relations section of the Company's website. Fourth Quarter and F
+
+
+***
+![How to transfer property by inheritance in the UAE, Dubai](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/last-will-and-testament.jpg "How to transfer property by inheritance in the UAE, Dubai")
+
+
+[How to transfer property by inheritance in the UAE, Dubai](https://roboticsandautomationnews.com/2023/02/16/how-to-transfer-property-by-inheritance-in-the-uae-dubai/60431/)
+
+
+> Assets that end with their owner may as well be consumed in their lifetime. Every well-meaning parent or guardian takes matters of succession seriously, especially regarding the landed property. Even if you wish to distribute your properties across various orphanages, you must know what laws are applicable and how to transfer your property by inheritance. Therefore, before foreigners Buy properties in Dubai Marina, UAE , or any other community, there is the general question of how do I transfer my title? The Inheritance Law in the UAE According to Article four (4) of the Dubai Real Property Registration Law 2006, ex-pats/Non-UAE citizens can own landed property in the UAE upon the approval of the Ruler.
+
+
+***
+![Where to Find Supplier and Buy HDPE Pipe?](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/hdpe-pipe-a.jpg "Where to Find Supplier and Buy HDPE Pipe?")
+
+
+[Where to Find Supplier and Buy HDPE Pipe?](https://roboticsandautomationnews.com/2023/02/16/where-to-find-supplier-and-buy-hdpe-pipe/60426/)
+
+
+> HDPE Pipe  is used in the construction industry, and also in different types of infrastructure projects for transferring different types of fluids.  As one of the most strategic products of the petrochemical industry, there are a lot of manufacturers in the world producing HDPE Pipe. Where To Find Supplier and Buy HDPE Pipe? In this article by Barus Golden, after the overview of the HDPE product, we will answer this question: where can you buy HDPE Pipe? HDPE Pipe Product HDPE Pipe is manufactured from High-Density Polyethylene and used in many different construction and infrastructure projects for transferring gas, water, and different types of fluids.
+
+
+***
+![Lost a Stray Pet? Mumbai Man Develops Tags With QR Code to Keep Track of Street Dogs](https://english.cdn.zeenews.com/sites/default/files/2023/02/16/1155096-screenshot-2023-02-16-162024.jpg "Lost a Stray Pet? Mumbai Man Develops Tags With QR Code to Keep Track of Street Dogs")
+
+
+[Lost a Stray Pet? Mumbai Man Develops Tags With QR Code to Keep Track of Street Dogs](https://zeenews.india.com/technology/lost-a-stray-pet-mumbai-man-develops-tags-with-qr-code-to-keep-track-of-street-dogs-2574058.html)
+
+
+> New Delhi:  An engineer and a dog lover from Mumbai claims to have developed tags with QR code technology to keep track of stray dogs. The man behind the idea, Akshay Ridlan aims to provide these tags to people at a nominal price so as to increase the reach of the technology. "It will also help the government find dogs" locations and make strategies for their sterilisation or vaccination. It can be done through the database. We want to offer this QR at a nominal price right now. ( Also Read: SBI vs HDFC vs ICICI vs PNB vs BoB: Savings Accounts Minimum Balance and Penalty Charges Compared ) People and organisations who feed or rescue animals can use this," Akshay said while talking to ANI.
+
+
+***
+![Android users get new Google Chrome features, check details](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/16/2573325-google-chrome.png "Android users get new Google Chrome features, check details")
+
+
+[Android users get new Google Chrome features, check details](https://www.dnaindia.com/technology/report-android-users-get-new-google-chrome-features-check-details-3024091)
+
+
+> Google Chrome Tech giant Google has announced that it has rolled out two new features--Partial Custom Tabs and Chrome Custom Tabs-- that will bring the best of Chrome to Android developers and users. To keep users engaged with the developer`s application, Chrome now provides developers more control over tab height with "Partial Custom Tabs," the tech giant said in an Android Developers blogpost. Developers can also customise the tab in pixels for a partial overlay, which will allow users to simultaneously interact with the native application and the web.
+
+
+***
+![iQoo 7 series gets another smartphone, iQoo Neo 7, with 64MP camera and offers on Amazon](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/16/2573326-iqoo-neo-7.png "iQoo 7 series gets another smartphone, iQoo Neo 7, with 64MP camera and offers on Amazon")
+
+
+[iQoo 7 series gets another smartphone, iQoo Neo 7, with 64MP camera and offers on Amazon](https://www.dnaindia.com/technology/report-iqoo-7-series-gets-another-smartphone-iqoo-neo-7-with-64mp-camera-and-offers-on-amazon-3024104)
+
+
+> iQoo Neo 7 iQoo has launched the new iQoo Neo 7 smartphone in India today (February 16). The new iQoo Neo 7 smartphone joins the iQoo 7 series which already has 3 smartphones. The iQoo Neo 7 is powered by a MediaTek Dimensity chipset and features a large display with 120Hz refresh rate. It sports a triple rear camera setup with a 64MP camera as well. Here's everything you need to know about the new iQoo Neo 7. iQoo Neo 7: Price and offers iQoo Neo 7 is currently available for sale via official website and Amazon in two storage and RAM configurations - 8GB RAM + 128GB storage and 12GB RAM + 256GB priced at Rs 29,999 and Rs 33,999 respectively.
+
+
+***
+![Huawei Launches Smart PV Solutions For All Scenarios Of African Residential Market](https://w5p2r8x5.stackpathcdn.com/photos/news/202302/772583006_79087.jpg "Huawei Launches Smart PV Solutions For All Scenarios Of African Residential Market")
+
+
+[Huawei Launches Smart PV Solutions For All Scenarios Of African Residential Market](https://peacefmonline.com/pages/local/tech/202302/483264.php)
+
+
+> Huawei has launched smart photovoltaic (PV) solutions for all scenarios of the African residential market at the Solar Power Africa Conference 2023 held in Cape Town, South Africa. At the press conference announcing the launch, Xia Hesheng, President of Huawei Digital Power Sub-Saharan Africa Region, said that Huawei was releasing three residential solutions: Power-M, LUNA, and the high-end luxury solution. Xia said, 'The three residential solutions will help users cope with daily challenges such as load-shedding, which are prevalent across the region.
+
+
+***
+[inTEST Reports Preliminary Unaudited Revenue and Orders for Fourth Quarter and Full Year 2022: Announces Date of Fourth Quarter and Full Year 2022 Financial Results Conference Call and Webcast](http://www.businesswire.com/news/home/20230216005125/en/inTEST-Reports-Preliminary-Unaudited-Revenue-and-Orders-for-Fourth-Quarter-and-Full-Year-2022-Announces-Date-of-Fourth-Quarter-and-Full-Year-2022-Financial-Results-Conference-Call-and-Webcast/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MT. LAUREL, N.J.--(BUSINESS WIRE)--inTEST (NYSE American: INTT) Reports Preliminary Unaudited Q4 & FY22 Revenue; Announces Date of Q4 & FY22 Financial Results Conference Call & Webcast
+
+
+***
+[Zebra Technologies Announces Fourth-Quarter and Full-Year 2022 Results](http://www.businesswire.com/news/home/20230216005104/en/Zebra-Technologies-Announces-Fourth-Quarter-and-Full-Year-2022-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LINCOLNSHIRE, Ill.--(BUSINESS WIRE)---- $ZBRA #earnings--Zebra Technologies Corporation (NASDAQ: ZBRA), an innovator at the edge of the enterprise with solutions and partners that enable businesses to gain a performance edge, today announced results for the fourth quarter and full year ended December 31, 2022. 'Our team delivered strong fourth quarter results to close a challenging year. We are recovering from supply chain challenges and achieved sales and earnings performance at the high end of
+
+
+***
+![China's games industry shrinks for the first time in years](https://www.businessghana.com/site/img/../../cms/img/news/2023-02-16-08560202.jpg "China's games industry shrinks for the first time in years")
+
+
+[China's games industry shrinks for the first time in years](https://www.businessghana.com/site/news/Technology/280027/China%E2%80%99s-games-industry-shrinks-for-the-first-time-in-years)
+
+
+> Over the past decade, China's games industry has seen explosive growth, overtaken the U.S. in market size and given rise to global publishing giants like Tencent and NetEase. The boom is in part driven by a population that was quickly coming online and gaining purchasing power. But the heyday has come to an end as the market nears saturation and consumers tighten their wallets during economic headwinds. China's video games sector posted a decline in sales for the first time since at least 2005, according to past reports (attached below) from the country's top gaming industry association.
+
+
+***
+![Critical Vulnerability Patched in Cisco Security Products](https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg "Critical Vulnerability Patched in Cisco Security Products")
+
+
+[Critical Vulnerability Patched in Cisco Security Products](https://www.securityweek.com/critical-vulnerability-patched-in-cisco-security-products/)
+
+
+> Cisco on Wednesday announced updates for endpoint, cloud, and web security products to address a critical vulnerability in third-party scanning library ClamAV. An open-source cross-platform antimalware toolkit, ClamAV can detect trojans, viruses, and other types of malware. On February 15, ClamAV's maintainers announced critical patches that address two vulnerabilities in the library, the most severe of which could lead to remote code execution. Tracked as CVE-2023-20032 (CVSS score of 9.
+
+
+***
+[Orange CEO Interview](http://www.businesswire.com/news/home/20230216005473/en/Orange-CEO-Interview---FY-2022-results-and-Capital-Markets-Day-2023-video/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> PARIS--(BUSINESS WIRE)--Orange, one of the world's leading telecommunications operators, just published its 2022 annual results and hosted its Capital Markets Day 2023. Christel Heydemann, CEO of the Orange group, comments on the Group's results and new strategic plan. Watch video interview and read transcript: https://www.eurobusinessmedia.com/video/full-year-2022-results-and-capital-markets-day-2023/ Topics covered in the interview include: Highlights of Q4 2022 Revenue trend EBITDAaL Commerc
+
+
+***
+![Intel Launches New Xeon W-3400 and Xeon W-2400 Desktop Workstation Processors for Professional Creators](https://st1.latestly.com/wp-content/uploads/2023/01/20-4-784x441.jpg "Intel Launches New Xeon W-3400 and Xeon W-2400 Desktop Workstation Processors for Professional Creators")
+
+
+[Intel Launches New Xeon W-3400 and Xeon W-2400 Desktop Workstation Processors for Professional Creators](https://www.latestly.com/technology/intel-launches-new-xeon-w-3400-and-xeon-w-2400-desktop-workstation-processors-for-professional-creators-4849711.html)
+
+
+> New Delhi, February 16 :  Chip maker Intel has launched the new Xeon W-3400 and Xeon W-2400 desktop workstation processors (code-named Sapphire Rapids), which are built for professional creators to provide massive performance for media and entertainment, engineering and data science professionals. The new workstation processors are now available for pre-order from industry partners, with system availability beginning in March, according to the company.  iPhone 15 New Design Leaks Surface; Here's All Leaked Info You Need To Know About Apple's Upcoming Offering.
+
+
+***
+![MIDI Mapping For Intuitive Sound Design](https://www.soundonsound.com/sites/default/files/favicon_0.ico "MIDI Mapping For Intuitive Sound Design")
+
+
+[MIDI Mapping For Intuitive Sound Design](https://www.soundonsound.com/techniques/midi-mapping-intuitive-sound-design)
+
+
+> Getting tactile with your MIDI controls can breathe new life into stale music. A lot of sound‑design tutorials focus on the technical aspects of the tools at our disposal — how they work and what they do. Whilst it's always an advantage to have a theoretical understanding, this article will take a less analytical approach. Instead of designing a sound from scratch by working through the basics, we'll discuss a way to design sound by working with an existing phrase or loop directly. The advantage of this technique is that it ignores the screen and relies on your ears and brain to feel the right settings.
+
+
+***
+![Classic Tracks: Plastikman ‘Consumed'](https://www.soundonsound.com/sites/default/files/favicon_0.ico "Classic Tracks: Plastikman ‘Consumed'")
+
+
+[Classic Tracks: Plastikman ‘Consumed'](https://www.soundonsound.com/techniques/classic-tracks-plastikman-consumed)
+
+
+> Richie Hawtin takes us through a seminal Plastikman album — and its unexpected sequel. As a world‑renowned electronic music producer and DJ operating for more than three decades, Richie Hawtin has assumed various identities for his releases down the years, including F.U.S.E., Circuit Breaker and Concept 1. But he is perhaps best known for being a pioneer of minimal techno under the most famous of his trading names, Plastikman. Hawtin's debut album using that pseudonym was the stripped‑back acid electro of Sheet One, released in 1993.
+
+
+***
+![What's New For Pro Tools In 2023?](https://www.soundonsound.com/sites/default/files/favicon_0.ico "What's New For Pro Tools In 2023?")
+
+
+[What's New For Pro Tools In 2023?](https://www.soundonsound.com/techniques/whats-new-pro-tools-2023)
+
+
+> What does 2023 have in store for Pro Tools users? With 2022 behind us, now seems a good time to reflect on what was an extremely positive year for Pro Tools, and also to consider what might be next. Last year saw an overhaul of the line‑up, which introduced the free Pro Tools Intro (a timely replacement for the discontinued Pro Tools First), and a new entry‑level version: Pro Tools Artist. This is a big shake‑up. A familiar grumble among Pro Tools users was that the standard Pro Tools product lacked features important to serious users, making Pro Tools Ultimate the only viable option for many.
+
+
+***
+![How I Got That Sound: Ed Stasium](https://dt7v1i9vyp3mf.cloudfront.net/styles/news_preview/s3/imagelibrary/H/HIGTS_03_23_02-h4ccUX3QV6AmtGD_CfNsLhaGHGxnVhO3.jpg "How I Got That Sound: Ed Stasium")
+
+
+[How I Got That Sound: Ed Stasium](https://www.soundonsound.com/techniques/how-got-sound-ed-stasium)
+
+
+> Since starting out in the early '70s, American producer, engineer and mixer Ed Stasium has worked with a  Who's Who of the music world, from the Ramones, Talking Heads and Mick Jagger to Soul Asylum, Julian Cope, Motörhead and many, many others. From this stellar discography, Ed nominates the drum sound on Living Colour's ‘Love Rears Its Ugly Head' as a particular favourite. 'I absolutely love the drum sound we achieved on this track because of its natural ambience, with no outboard reverb whatsoever.
+
+
+***
+![Web.com's new website design service can build you a functioning site in just a few days](https://whatsnew2day.com/wp-content/uploads/2023/02/webcoms-new-website-design-service-can-build-you-a-functioning.jpg "Web.com's new website design service can build you a functioning site in just a few days")
+
+
+[Web.com's new website design service can build you a functioning site in just a few days](https://whatsnew2day.com/web-coms-new-website-design-service-can-build-you-a-functioning-site-in-just-a-few-days/)
+
+
+> Popular Domain Registrar (opens in a new tab) and web hosting (opens in a new tab) Web.com has launched a new quick start professional website service that is said to be designed to help entrepreneurs launch their website faster. Designed for those who need help building a website, the quick start service leverages Web.com's in-house team to design, build and launch a business-ready site in just a few days, the company claims. Essentially, Web.com (opens in a new tab) He handles the building aspect of the site, then delivers the finished product to the client to then maintain and update his site as he sees fit.
+
+
+***
+![Mix Rescue: Adding Energy](https://www.soundonsound.com/sites/default/files/favicon_0.ico "Mix Rescue: Adding Energy")
+
+
+[Mix Rescue: Adding Energy](https://www.soundonsound.com/techniques/mix-rescue-adding-energy)
+
+
+> Ever thought you were nearing the end of your mix, only to realise the track needs a whole lot more impact? How do you add energy to a mix? I mean, I imagine that every DAW user has at one time or another been faced with a project where they've gone through all the usual mixdown motions, but ended up with a result that feels somehow a bit lacklustre, plodding, and generally uninspiring. In other words, it lacks energy. And in my experience, it's this malaise that most commonly leads SOS readers to approach the Mix Rescue column.
+
+
+***
+![Studio One: Get Started Recording Audio](https://dt7v1i9vyp3mf.cloudfront.net/styles/news_preview/s3/imagelibrary/S/S1_0323_02-G8bIrSc7eViWxAlg1GKtIqOTcL0D_aIT.jpg "Studio One: Get Started Recording Audio")
+
+
+[Studio One: Get Started Recording Audio](https://www.soundonsound.com/techniques/studio-one-get-started-recording-audio)
+
+
+> We show you how to get started recording audio in Studio One. In recent workshops, we've got down to the basics of recording, editing and working with MIDI. Now it's time to turn our attention to audio. Recording sound is a primary function of any DAW, and I think it's good to go back to the original concepts. You might find that you've been doing it wrong all this time, or perhaps can find more efficient ways of achieving your aims. Studio One continues to evolve, so the tools and processes we use all the time can change.
+
+
+***
+![Cubase: Verve Felt Piano](https://www.soundonsound.com/sites/default/files/favicon_0.ico "Cubase: Verve Felt Piano")
+
+
+[Cubase: Verve Felt Piano](https://www.soundonsound.com/techniques/cubase-verve-felt-piano)
+
+
+> Looking for musical inspiration? You might just find it in Cubase 12's Verve felt piano. For many Cubase Artist and Pro users, a highlight amongst the new toys in Cubase 12 was Verve, a sample‑based virtual instrument library for HALion Sonic SE (and, of course, the separately available full versions of HALion Sonic or HALion). Verve is built from a deeply sampled (nearly 9GB of samples) soft‑sounding felt piano, alongside a range of textural sounds, and it allows the user to blend these two elements.
+
+
+***
+![Logic Pro: Handling Repetition](https://www.soundonsound.com/sites/default/files/favicon_0.ico "Logic Pro: Handling Repetition")
+
+
+[Logic Pro: Handling Repetition](https://www.soundonsound.com/techniques/logic-pro-handling-repetition)
+
+
+> Logic offers a number of ways to repeat your notes and phrases. Since repetition is a major component of music, it makes sense that it would make up a large portion of what goes into creating it. Let's look at some of the ways in which we handle repetition in Logic Pro. One of the most essential functions we require in composing is the ability to repeat regions in our arrangements. By simply clicking on a region (or group of regions) and hitting Command+R, you can create a duplicate. Keep hitting this combination to continue making additional copies.
+
+
+***
+![Breaking the Security "Black Box" in DBs, Data Warehouses and Data Lakes](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiV4eq3SJl4OOpTa9q7WTntkbDIGWMB3_oVmQSGLBftDvoecLflnzXU6uyJZCfSOwrkmIQ5uzJ0ZDMK7ULjGEn9ECPBnHDy6yil0YKIv8NsAMG-JjzJT-xmKSuJ10-Yyoqr3rYU9ijgFt1Tw0vCE8DiK6gpOZVmkMvAPNdln-Ok3bv0mdvxwhbZ80qE/s728-e3650/main.png "Breaking the Security "Black Box" in DBs, Data Warehouses and Data Lakes")
+
+
+[Breaking the Security "Black Box" in DBs, Data Warehouses and Data Lakes](https://thehackernews.com/2023/02/breaking-security-black-box-in-dbs-data.html)
+
+
+> Security teams typically have great visibility over most areas, for example, the corporate network, endpoints, servers, and cloud infrastructure. They use this visibility to enforce the necessary security and compliance requirements. However, this is not the case when it comes to sensitive data sitting in production or analytic databases, data warehouses or data lakes. Security teams have to rely on data teams to locate sensitive data and enforce access controls and security policies. This is a huge headache for both the security and data teams.
+
+
+***
+![This Kawasaki-Powered Nissan Leaf Shows What The Future Of Hot Rodding Looks Like](https://cdn.motor1.com/images/mgl/nAZWpy/s1/kawasaki-powered-nissan-leaf.jpg "This Kawasaki-Powered Nissan Leaf Shows What The Future Of Hot Rodding Looks Like")
+
+
+[This Kawasaki-Powered Nissan Leaf Shows What The Future Of Hot Rodding Looks Like](https://insideevs.com/news/652798/kawasaki-powered-nissan-leaf/)
+
+
+> The first-generation Nissan Leaf isn't known for its exciting driving characteristics, but rather for being a sensible all-electric hatchback with a less-than-stellar driving range. So what do you do when you get your hands on a used first-gen Leaf that has severe battery degradation, but you're an engineer by trade and like the occasional track day? Well, the video embedded above, published on the YouTube channel SupefastMatt , offers the answer to that question, with a pretty impressive home-made, Kawasaki-powered, dual-motor hybrid Nissan Leaf.
+
+
+***
+[Ant Group Recognized as Top 100 Global Innovator 2023](http://www.businesswire.com/news/home/20230216005447/en/Ant-Group-Recognized-as-Top-100-Global-Innovator-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HANGZHOU, China--(BUSINESS WIRE)--Ant Group, a global digital technology provider, has been recognized as a Top 100 Global Innovator™ 2023 by Clarivate™, a global leader in connecting people and organizations to intelligence they can trust to transform their world. This marks the second year in a row that Ant Group has received this prestigious recognition. Clarivate's annual list identifies organizations at the pinnacle of the global innovation landscape by measuring excellence in innovativene
+
+
+***
+[Netcracker Wins Glotel Awards for BSS/OSS Transformation Excellence and Best Digital Transformation Project](http://www.businesswire.com/news/home/20230216005099/en/Netcracker-Wins-Glotel-Awards-for-BSSOSS-Transformation-Excellence-and-Best-Digital-Transformation-Project/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> WALTHAM, Mass.--(BUSINESS WIRE)--Netcracker wins two Glotel Awards recognizing successful digital transformation projects with customers around the world.
+
+
+***
+![Euronet Worldwide Business Segment epay Australia Partners with Alipay+](https://www.crowdfundinsider.com/wp-content/uploads/2017/10/Alipay-1.jpg "Euronet Worldwide Business Segment epay Australia Partners with Alipay+")
+
+
+[Euronet Worldwide Business Segment epay Australia Partners with Alipay+](https://www.crowdfundinsider.com/2023/02/202575-euronet-worldwide-business-segment-epay-australia-partners-with-alipay)
+
+
+> epay Australia Pty Ltd, a wholly-owned business segment of Euronet Worldwide, Inc. (NASDAQ: EEFT), announced that Alipay+ will be 'activated in some 8,000 epay retailers including Australian luxury department store David Jones.' epay Australia's retailers will 'have access to the Alipay+ e-wallet partners including AlipayHK (Hong Kong SAR, China), GCash (The Philippines), Kakao Pay (South Korea), TrueMoney (Thailand) and Touch ‘n Go eWallet (Malaysia) in the first quarter of 2023.' The Alipay+ marketing solution will also 'enable merchants the ability to create promotions, distribute digital coupons and discount offers directly to those e-wallet super apps users in their respective markets – all at the same time to achieve better marketing efficiency and scalability.
+
+
+***
+[New PV Installations Worldwide Will Grow by More Than 50% YoY to 351GW for 2023 Thanks to Rising Demand, Says TrendForce](http://www.businesswire.com/news/home/20230216005403/en/New-PV-Installations-Worldwide-Will-Grow-by-More-Than-50-YoY-to-351GW-for-2023-Thanks-to-Rising-Demand-Says-TrendForce/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TAIPEI, Taiwan--(BUSINESS WIRE)-- #GreenTechnology--TrendForce says new PV installations worldwide will grow by more than 50% YoY to 351GW for 2023 thanks to rising demand.
+
+
+***
+[Board Announces Strategic Partnership With Voiant](http://www.businesswire.com/news/home/20230216005456/en/Board-Announces-Strategic-Partnership-With-Voiant/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON--(BUSINESS WIRE)--Board, a leading global provider of Intelligent Planning Solutions which help organizations plan smarter, enabling actionable insights and better outcomes, today announced a strategic partnership with Voiant Group, a leader in the provision of technology solutions and professional services to improve planning, operations and performance in Sales departments. 'Voiant has been helping clients improve Sales Performance Management (SPM) for decades, by bringing a client-foc
+
+
+***
+[Vontier Reports Fourth Quarter and Full Year 2022 Results; Initiates 2023 Guidance](http://www.businesswire.com/news/home/20230216005388/en/Vontier-Reports-Fourth-Quarter-and-Full-Year-2022-Results-Initiates-2023-Guidance/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> RALEIGH, N.C.--(BUSINESS WIRE)--Vontier Reports Fourth Quarter and Full Year 2022; Initiates 2023 Guidance
+
+
+***
+![New Threat Actor WIP26 Targeting Telecom Service Providers in the Middle East](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiuczo9JHqukyt8JvJzy6NILaYLF_jyBnScNLxmMIXxrXz628-BBbUzP40ILiu4IIIMT4EAf9lOt04DkYuVV4Wk_W_KiNQobAS1SwN4QabNuDPVhv3u2e0-h9A9A_K5NdakHHeT-x_cgKD_ESGfJmS8EUL4y4HHFA9BL3ct-x3Ct_E8eZjHzwO3YSgs/s728-e3650/mappp.png "New Threat Actor WIP26 Targeting Telecom Service Providers in the Middle East")
+
+
+[New Threat Actor WIP26 Targeting Telecom Service Providers in the Middle East](https://thehackernews.com/2023/02/new-threat-actor-wip26-targeting.html)
+
+
+> Telecommunication service providers in the Middle East are being targeted by a previously undocumented threat actor as part of a suspected espionage-related campaign. Cybersecurity firms SentinelOne and QGroup are tracking the activity cluster under the former's work-in-progress moniker WIP26 . "WIP26 relies heavily on public cloud infrastructure in an attempt to evade detection by making malicious traffic look legitimate," researchers Aleksandar Milenkoski, Collin Farr, and Joey Chen said in a report shared with The Hacker News.
+
+
+***
+![苏州快跑同城配送服务电话,石家庄市区挖出巨型航弹专家称危险系数高](https://img.qianlong.com/ql2019/share/img/qllogo.jpg "苏州快跑同城配送服务电话,石家庄市区挖出巨型航弹专家称危险系数高")
+
+
+[苏州快跑同城配送服务电话,石家庄市区挖出巨型航弹专家称危险系数高](https://tech.qianlong.com/2023/0215/879033478.shtml)
+
+
+> 盛春的天，阳光温煦，清风拂面。突然，他开口道：'你打算一直待在卿家舞班吗？'苏州快跑同城配送服务电话那人纠结了下，道：'好吧好吧，麻烦事儿可真多。'这一条灵脉就是被丘明阳他给安置妥当了。 苏州快跑同城配送服务电话&span css=&otntext_kw16&ot>&/span>&span css=&otntext_kw13&ot>&/span>&span css=&otntext_kw12&ot>&/span>为每&span css=&otntext_kw7&ot>&/span>点&span css=&otntext_kw5&ot>&/span>&span css=&otntext_kw2&ot>&/span>碗拉面&span css=&otntext_kw0&ot>&/span>问&span css=&otntext_kw11&ot>&/span>&span css=&otntext_kw15&ot>&/span>&span css=&otntext_kw8&ot>&/span>&span css=&otntext_kw18&ot>&/span>&span css=&otntex
+
+
+***
+![Rwanda and Singapore to launch Annual Global Inclusive FinTech Forum](https://africabusinesscommunities.com//Images/Key Industry Images/June.png "Rwanda and Singapore to launch Annual Global Inclusive FinTech Forum")
+
+
+[Rwanda and Singapore to launch Annual Global Inclusive FinTech Forum](https://africabusinesscommunities.com/tech/tech-news/rwanda-and-singapore-to-launch-annual-global-inclusive-fintech-forum)
+
+
+> Kigali International Financial Centre (KIFC), Rwanda's financial centre facilitating international investment and cross-border transactions in Africa, and Elevandi, a company set up by the Monetary Authority of Singapore (MAS) to advance FinTech in the digital economy, announced the launch of the first annual Inclusive FinTech Forum, to be held from 20 to 22 June in Kigali, Rwanda. Global regulators, policymakers, decision-makers, founders, and investors will gather for three days of discussions on inclusive and sustainable FinTech, primarily focusing on the Global South, stretching from Africa to Latin America and Asia.
+
+
+***
+![珠海香洲区上门spa,英国研究发现左右转动眼球可提高记忆力](https://img.qianlong.com/ql2019/share/img/qllogo.jpg "珠海香洲区上门spa,英国研究发现左右转动眼球可提高记忆力")
+
+
+[珠海香洲区上门spa,英国研究发现左右转动眼球可提高记忆力](https://tech.qianlong.com/2023/0215/879026330.shtml)
+
+
+> &span css=&ot;ntext_kw16&ot;>&/span>&span css=&ot;ntext_kw13&ot;>&/span>&span css=&ot;ntext_kw12&ot;>&/span>为每&span css=&ot;ntext_kw7&ot;>&/span>点&span css=&ot;ntext_kw5&ot;>&/span>&span css=&ot;ntext_kw2&ot;>&/span>碗拉面&span css=&ot;ntext_kw0&ot;>&/span>问&span css=&ot;ntext_kw11&ot;>&/span>&span css=&ot;ntext_kw15&ot;>&/span>&span css=&ot;ntext_kw8&ot;>&/span>&span css=&ot;ntext_kw18&ot;>&/span>&span css=&ot;ntext_kw6&ot;>&/span>怎么知&span css=&ot;ntext_kw11&ot;>&/span>&span css=&ot;ntext_kw17&ot;
+
+
+***
+![重庆江津区Spa上门,乌克兰总统称实现和平依然是其目标](https://img.qianlong.com/ql2019/share/img/qllogo.jpg "重庆江津区Spa上门,乌克兰总统称实现和平依然是其目标")
+
+
+[重庆江津区Spa上门,乌克兰总统称实现和平依然是其目标](https://tech.qianlong.com/2023/0215/879025090.shtml)
+
+
+> 不过想想也释然了，虽然小狗总和他玩，但是队里的事情两个人一般也不会谈到省的更加糟心。自从&span css=&ot;ntext_kw9&ot;>&/span>&span css=&ot;ntext_kw1&ot;>&/span>次&span css=&ot;ntext_kw2&ot;>&/span>鬼压床事件后&span css=&ot;ntext_kw0&ot;>&/span>李青原对&span css=&ot;ntext_kw18&ot;>&/span>&span css=&ot;ntext_kw10&ot;>&/span>&span css=&ot;ntext_kw13&ot;>&/span>佩服&span css=&ot;ntext_kw2&ot;>&/span>那&span css=&ot;ntext_kw5&ot;>&/span>五体投地&span css=&ot;ntext_kw0&ot;>&/span>跟胖子&span css=&ot;ntext_kw1&ot;>&/span>样&span css=&ot;ntext_kw0&ot;>&/span>&span css=&
+
+
+***
+![UK SMBs are suffering more cyberattacks than ever before](https://cdn.mos.cms.futurecdn.net/ZNMUbZDsh9wtdHb9yEeRQc-1200-80.jpg "UK SMBs are suffering more cyberattacks than ever before")
+
+
+[UK SMBs are suffering more cyberattacks than ever before](https://www.techradar.com/news/uk-smbs-are-suffering-more-cyberattacks-than-ever-before)
+
+
+> (Image credit: No credit) More than half of all small and medium-sized enterprises in the United Kingdom have experienced some kind of cyberattack in the last 12 months. A report from Vodafone, polling more than 500 SME owners found that the number of victims rose by 15% compared to two years ago to reach 54%.  Consequently, the number of attempted attacks is also spiking. The report claims that a third (33%) of businesses saw more attempts last year, while just 18% said there had been a decrease in attempted hacks.
+
+
+***
+[The Worldwide VCSEL Industry to Reach $2.9 Billion by 2028: Growing Adoption of 3D Sensing Applications in Smartphones and Increasing Application of VSCELs in Data Communication Drive the Market](http://www.businesswire.com/news/home/20230216005460/en/The-Worldwide-VCSEL-Industry-to-Reach-2.9-Billion-by-2028-Growing-Adoption-of-3D-Sensing-Applications-in-Smartphones-and-Increasing-Application-of-VSCELs-in-Data-Communication-Drive-the-Market---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "VCSEL Market by Type (Single-mode and Multimode), Material (GaAs, InP, GaN), Wavelength, Application (Sensing, Data Communication, Industrial Heating & Printing, Emerging), Data Rate, Industry and Region - Global Forecast to 2028" report has been added to ResearchAndMarkets.com's offering. The global VCSEL market is projected to grow from USD 1.6 billion in 2023, to USD 2.9 billion by 2028, at a CAGR of 13.6% between 2023 and 2028. VCSEL for red wavelength is t
+
+
+***
+![Neo: iQoo Neo 7 5G first impressions: Seems promising](https://static.toiimg.com/thumb/msid-97977232,width-1070,height-580,imgsize-30168,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "Neo: iQoo Neo 7 5G first impressions: Seems promising")
+
+
+[Neo: iQoo Neo 7 5G first impressions: Seems promising](https://timesofindia.indiatimes.com/gadgets-news/iqoo-neo-7-5g-first-impressions-seems-promising/articleshow/97977020.cms)
+
+
+> iQoo Neo 7 5G: Price in India, availability iQoo Neo 7 5G: What's in the box, colour options iQoo Neo 7 5G: Design iQoo Neo 7 5G: Peek under the hood iQoo Neo 7 5G: Camera iQoo Neo 7 5G: Battery and other features iQoo Neo 7 5G is official and on paper, it seems to be a promising contender in the mid-range segment. The smartphone comes as a successor of the iQoo Neo 6, which checked most boxes as far as a mid-range gaming smartphone is concerned. The iQoo Neo 7 5G builds on an already powerful offering.
+
+
+***
+![ChatGPT created a lesson plan on the American Civil War, but educators who looked at it warned the subject might be more than AI can handle](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17ysiF.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "ChatGPT created a lesson plan on the American Civil War, but educators who looked at it warned the subject might be more than AI can handle")
+
+
+[ChatGPT created a lesson plan on the American Civil War, but educators who looked at it warned the subject might be more than AI can handle](http://www.msn.com/en-us/news/technology/chatgpt-created-a-lesson-plan-on-the-american-civil-war-but-educators-who-looked-at-it-warned-the-subject-might-be-more-than-ai-can-handle/ar-AA17yurL)
+
+
+> OpenAI's ChatGPT and similar AI tools may not replace jobs anytime soon. But they can help workers across many industries – from tech to media – do their jobs better and more quickly. "It's almost like a bit of a productivity boost that some of these occupations might get," Anu Madgavkar, a partner at economic research firm McKinsey Global Institute, told Insider. The buzzy conversational chatbot – which attracted one million users soon after its launch last November – has been used to generate real estate advice, provide tips on how to start a business, and even write music in the style of individual artists, all with varying levels of success.
+
+
+***
+[NICE Provides Dial-in Details for its Fourth Quarter 2022 Results Teleconference](http://www.businesswire.com/news/home/20230216005050/en/NICE-Provides-Dial-in-Details-for-its-Fourth-Quarter-2022-Results-Teleconference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HOBOKEN, N.J.--(BUSINESS WIRE)--NICE (Nasdaq: NICE) will announce its fourth quarter 2022 results on Thursday, February 23, 2023, before the opening of the NASDAQ Stock Exchange. Later that day, management will host a conference call to discuss the results. 8:30 AM - Eastern 1:30 PM - UK 3:30 PM - Israel To participate, please call one of the dial-in numbers approximately 15 minutes before the start time: US: +1-877-407-4018 (toll free) or +1-201-689-8471 Israel: +1-809-406-247 (toll free) UK:
+
+
+***
+![WhatsApp hack: how you could soon send an entire HD movie to friends](https://image-prod.iol.co.za/resize/650x366/On-WhatsApp-16MB-is-the-maximum-file-size-allowed-for-all-media-that-can-be-sent-or-forwarded-It-also-equates-to-between-90-seconds-and-3-minutes-of-video-File-picture-Denis-Charlet-AFP?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/1851a83a-0996-5ad4-a6c9-834629048ff8&operation=CROP&offset=0x159&resize=968x545 "WhatsApp hack: how you could soon send an entire HD movie to friends")
+
+
+[WhatsApp hack: how you could soon send an entire HD movie to friends](https://www.iol.co.za/technology/software-and-internet/whatsapp-hack-how-you-could-soon-send-an-entire-hd-movie-to-friends-5c0d3c9b-71a4-46b0-9b69-120afa4aa591)
+
+
+> It may seem unbelievable and highly impossible, but could you send an entire HD film over WhatsApp? According to speculation in an upcoming update, this could soon happen – technically. According to WhatsApp reporting blog WABetaInfo, the Meta-owned platform may soon announce that the ability to share documents up to 2GB in size is available, making it easier to share large documents. Story continues below Advertisement 'A wi-fi connection is recommended in order to share those large documents quickly.
+
+
+***
+[Global Non-Volatile Memory Market to Reach $124.1 Billion by 2027: Shift from Hard Disk Drives Toward Solid-State Drives in Enterprise Storage Fuels Growth](http://www.businesswire.com/news/home/20230216005446/en/Global-Non-Volatile-Memory-Market-to-Reach-124.1-Billion-by-2027-Shift-from-Hard-Disk-Drives-Toward-Solid-State-Drives-in-Enterprise-Storage-Fuels-Growth---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Non-Volatile Memory Market by Type (Flash, EPROM, nvSRAM, EEPROM, 3D NAND, MRAM, FRAM, NRAM, ReRAM, PMC), Wafer Size (200 mm, 300mm), End-user (Consumer Electronics, Enterprise Storage, Healthcare, Automotive) and Region - Global Forecast to 2027" report has been added to ResearchAndMarkets.com's offering. The non-volatile memory market is projected to reach USD 124.1 billion by 2027, growing at a CAGR of 10.7% from 2022 to 2027. Non-volatile memories encompass tra
+
+
+***
+![South Korea boosts its AI chip industry with $642M amid ChatGPT frenzy](https://techcrunch.com/wp-content/uploads/2016/03/shutterstock_168408272-3000.jpg?resize=1200,801 "South Korea boosts its AI chip industry with $642M amid ChatGPT frenzy")
+
+
+[South Korea boosts its AI chip industry with $642M amid ChatGPT frenzy](https://techcrunch.com/2023/02/16/south-korea-boosts-its-ai-chip-industry-with-642m-amid-chatgpt-frenzy/)
+
+
+> South Korea hopes to be a key player in fulfilling the new global demand for next-generation AI chips, and today the government put some money where its mouth is: the country's Ministry of Science and ICT said it would earmark $642.5 million (826.2 billion won) through 2030 to invest in companies working on advanced AI chips. The investment will involve building new data centers, and working with AI chip startups and cloud service providers, among other projects. The news touches on a couple of notable currents in the world of tech right now.
+
+
+***
+![nPerf: Yes 5G is Malaysia's fastest telco of 2022, Maxis best telco for YouTube](https://soyacincau.com/wp-content/uploads/2021/12/211221-yes-5g-sim-pack.jpg "nPerf: Yes 5G is Malaysia's fastest telco of 2022, Maxis best telco for YouTube")
+
+
+[nPerf: Yes 5G is Malaysia's fastest telco of 2022, Maxis best telco for YouTube](https://soyacincau.com/2023/02/16/nperf-yes-5g-is-malaysias-fastest-telco-of-2022-maxis-best-telco-for-youtube/)
+
+
+> nPerf, a French company that does telecom network crowdsource testing, has released its 2022 report on Malaysia's mobile internet connections . The biggest takeaway from its analysis is that Yes has become the new leader when it comes to mobile internet connection speeds in Malaysia. That's perhaps not too surprising, considering they were the first telco to go in on the domestic 5G network. nPerf found that Yes managed to provide users with an average download speed close to 125Mb/s, putting way ahead of Unifi Mobile and U Mobile, who came in at second and third place respectively at 39.
+
+
+***
+![ESXiArgs Ransomware Hits Over 500 New Targets in European Countries](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEi-74mCURYUmTDeZh6hGgrK3FH2_PPTQtx24TZ3Xc8WBN9U78o4AvQQmPVnqhE4fFH3_xSWzm15-ITgbCKmF2VGFcENOYRjVu46ZvpwTVjMRxVVzC-aLF7-9DqXbu1AVGPxQYNLQCR2XjInOyO0q8G7K6pCoP6hejhlE0OY6HFLVNhgRkF7k8vfnp2p/s728-e3650/ransomware-malware.png "ESXiArgs Ransomware Hits Over 500 New Targets in European Countries")
+
+
+[ESXiArgs Ransomware Hits Over 500 New Targets in European Countries](https://thehackernews.com/2023/02/esxiargs-ransomware-hits-over-500-new.html)
+
+
+> More than 500 hosts have been newly compromised en masse by the ESXiArgs ransomware strain, most of which are located in France, Germany, the Netherlands, the U.K., and Ukraine. The findings come from attack surface management firm Censys, which discovered "two hosts with strikingly similar ransom notes dating back to mid-October 2022, just after ESXi versions 6.5 and 6.7 reached end of life." The first set of infections dates back to October 12, 2022, much earlier than when the campaign began to gain traction at the start of February 2023.
+
+
+***
+![South African Insurtech Naked Secures US$17m to grow its team and expand into new markets](https://techmoran.com/wp-content/uploads/2023/02/Naked.jpg "South African Insurtech Naked Secures US$17m to grow its team and expand into new markets")
+
+
+[South African Insurtech Naked Secures US$17m to grow its team and expand into new markets](https://techmoran.com/2023/02/16/south-african-insurtech-naked-secures-us17m-to-grow-its-team-and-expand-into-new-markets/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![Introducing Tech in Your Business: Top Trends to Watch](https://media.criticalhit.net/2023/02/pexels-darlene-alderson-4384779-scaled.jpg "Introducing Tech in Your Business: Top Trends to Watch")
+
+
+[Introducing Tech in Your Business: Top Trends to Watch](https://www.criticalhit.net/technology/introducing-tech-in-your-business-top-trends-to-watch/)
+
+
+> You've probably heard a lot of tech talk on Artificial Intelligence (AI), Virtual Reality (VR), Augmented Reality (AR), and many more. These technological concepts are fascinating and will impact our lives in many ways.  Some concepts are already in place, while others will continue to expand. In addition, there has been major global instability in recent years due to inflation, the pandemic, and financial uncertainty. As a result, the landscape has become challenging, making it an ideal time to change how business works by adopting new technological solutions.
+
+
+***
+![Big Relief for Customers! TRAI Strikes on Unsolicited, Pesky Promotional Msg by Telemarketers; Orders Telcos to Take Strict Action](https://english.cdn.zeenews.com/sites/default/files/2023/02/16/1154996-mahindra-1.jpg "Big Relief for Customers! TRAI Strikes on Unsolicited, Pesky Promotional Msg by Telemarketers; Orders Telcos to Take Strict Action")
+
+
+[Big Relief for Customers! TRAI Strikes on Unsolicited, Pesky Promotional Msg by Telemarketers; Orders Telcos to Take Strict Action](https://zeenews.india.com/technology/big-relief-for-customers-trai-strikes-on-unsolicited-pesky-promotional-msg-by-telemarketers-orders-telcos-to-take-strict-action-2573973.html)
+
+
+> New Delhi:  Telecom regulator TRAI on Thursday cracked down on unauthorised, pesky promotional messages by telemarketers as it issued directions to telecom operators to act swiftly to stop the misuse of headers and message templates. To stop the misuse, the regulator has directed access service providers (telecom operators) to reverify all registered headers and message templates on Distributed Ledger Technology (DLT) platform and block all unverified headers and message templates within 30 and 60 days respectively.
+
+
+***
+[Signature Bank Announces Leadership Transition Plans](http://www.businesswire.com/news/home/20230216005317/en/Signature-Bank-Announces-Leadership-Transition-Plans/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--SIGNATURE BANK ANNOUNCES LEADERSHIP TRANSITION PLANS
+
+
+***
+![Is Malaysia getting ERP-style Multi-Lane Free Flow tolls soon?](https://soyacincau.com/wp-content/uploads/2023/02/230216-Malaysia-MLFF-testing.png "Is Malaysia getting ERP-style Multi-Lane Free Flow tolls soon?")
+
+
+[Is Malaysia getting ERP-style Multi-Lane Free Flow tolls soon?](https://soyacincau.com/2023/02/16/is-malaysia-getting-erp-style-multi-lane-free-flow-tolls-soon/)
+
+
+> For years, Malaysians have been promised Multi-Lane Free Flow (MLFF) tolls , similar to Singapore's Electronic Road Pricing (ERP) gantries. This barrier-less system is being touted as a panacea to toll plaza congestion, avoiding key problems like a lack of Touch ‘n Go balance, dead SmartTAG batteries and unreliable toll collection systems (I'm looking at you, RFID ). Last we heard, the implementation of MLFF had been pencilled in for 2025, but it seemed like there was no movement in that project.
+
+
+***
+[Investor Opportunities in Women&apos;s Digital Health Market 2023: Surging Adoption Rate of Digital and Remote Healthcare Services Offers Avenues for Investment](http://www.businesswire.com/news/home/20230216005436/en/Investor-Opportunities-in-Womens-Digital-Health-Market-2023-Surging-Adoption-Rate-of-Digital-and-Remote-Healthcare-Services-Offers-Avenues-for-Investment---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Investor Series: Opportunities in Women's Digital Health Market" report has been added to ResearchAndMarkets.com's offering. Digital health is a broad concept that encompasses telemedicine, teleconsultation, remote monitoring, connected devices, digital health platforms and health applications. The outbreak of COVID-19 pandemic has propelled the usage of digital technologies in order to receive healthcare, remotely. The revolutionary developments in digital health
+
+
+***
+![The price of the latest Samsung A53 5G cellphone for February 2023, the HP Series A, the most sought-after qualified specifications](https://cdn-2.tstatic.net/bangka/foto/bank/images/20221230-Samsung-Galaxy-A53-5G.jpg "The price of the latest Samsung A53 5G cellphone for February 2023, the HP Series A, the most sought-after qualified specifications")
+
+
+[The price of the latest Samsung A53 5G cellphone for February 2023, the HP Series A, the most sought-after qualified specifications](https://www.world-today-news.com/the-price-of-the-latest-samsung-a53-5g-cellphone-for-february-2023-the-hp-series-a-the-most-sought-after-qualified-specifications/)
+
+
+> BANGKAPOS.COM- For those of you planning to replace your cellphone in February 2023, this is the right time to upgrade ke Samsung A53 5G. The reason is that the Samsung A53 5G is a mid-range cellphone with top-class performance. The specifications are even much better than the previously idolized Samsung types, such as the Samsung M61 and A52s which are no longer being released. Even though it was released in March 2022, for one year, it's still a cell phone worth it and will not miss the trend.
+
+
+***
+![Mac Mini early 2009, no boot, no chime, and after a minute silently turns off. WTF?](https://images.macrumors.com/social/?t=2380977&v=6 "Mac Mini early 2009, no boot, no chime, and after a minute silently turns off. WTF?")
+
+
+[Mac Mini early 2009, no boot, no chime, and after a minute silently turns off. WTF?](https://forums.macrumors.com/threads/mac-mini-early-2009-no-boot-no-chime-and-after-a-minute-silently-turns-off-wtf.2380977/)
+
+
+> Hi everyone, So i managed to get a fully working Early 2009 Mac Mini 2.0 GHz Duo. It had 4 GB of RAM and the original HD. It worked well, and had El Capitan installed. Aftwer a week or so, I wanted to upgrade it a bit, due to the low cost of RAM and SSD. I disassembled the Mini without issue, installed a Crucial 128SSD I had laying around, and 8 GB of noname RAM (but with SEC chips) I got from Amazon. I had CCC cloned the drive to the ssd, and it booted with no problems, reporting the RAM and SSD correctly, and it also worked without a hitch.
+
+
+***
+![Vivo Y100 with colour changing rear panel launched in India, price starts Rs 24,900](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202302/y100-sixteen_nine.jpg?VersionId=4khPh0Nk.7ZkurFN4WKi8eD68oMsLEUF "Vivo Y100 with colour changing rear panel launched in India, price starts Rs 24,900")
+
+
+[Vivo Y100 with colour changing rear panel launched in India, price starts Rs 24,900](https://www.indiatoday.in/technology/news/story/vivo-y100-with-colour-changing-rear-panel-launched-in-india-price-starts-rs-24900-2335536-2023-02-16)
+
+
+> The Vivo Y100 among other features, comes with a colour changing panel at the rear, something that Vivo has attempted before as well with the V series. By Ankita Chakravarti : Vivo has launched its first premium phone under the Y series. The Vivo Y100 is the latest addition to the company's budget Y series. The smartphone, among other features, comes with a colour changing panel at the rear, something that Vivo has attempted before as well with the V series. Other than a fancy design, the Vivo Y100 is also equipped with MediaTek Dimensity 900 chipset, 64-megapixel camera setup and more.
+
+
+***
+![New Agco tool assesses tractor AB lines from the farm office](https://stmaaprodfwsite.blob.core.windows.net/assets/sites/1/2023/02/Fendt-tractor-c.-OM.jpg "New Agco tool assesses tractor AB lines from the farm office")
+
+
+[New Agco tool assesses tractor AB lines from the farm office](https://www.fwi.co.uk/machinery/technology/new-agco-tool-assesses-tractor-ab-lines-from-the-farm-office)
+
+
+> Farm machinery behemoth Agco has launched Geo-Bird, a new online tool that allows farmers to plan and tweak their tractor guidance AB lines from the comfort of the office. These lines are typically generated in the cab at the start of a job, but Agco says many growers expressed a desire to generate more efficient ones during the off-season. © Geo-Bird Through its global open platform for digital farming products, Fuse Smart Farming, the company has come up with a solution in the form of a free web app.
+
+
+***
+![Unprovoked Shark Attacks Declined In 2022](https://www.mccourier.com/wp-content/uploads/2023/02/Unprovoked-Shark-Attacks-Declined-In-2022.jpg "Unprovoked Shark Attacks Declined In 2022")
+
+
+[Unprovoked Shark Attacks Declined In 2022](https://www.mccourier.com/unprovoked-shark-attacks-declined-in-2022/)
+
+
+> In case you're studying the newspaper, scrolling your numerous socail media feeds, or watching the information, it looks as if shark assaults are a typical prevalence throughout the summer season months – irrespective of the hemisphere you're in! However College of Florida's Worldwide Shark Assault File (ISAF) report has come out for 2022… and it couldn't paint a extra completely different image if it tried. Seems the variety of unprovoked shark assaults worldwide decreased final 12 months, tying 2020's international numbers (that had been probably influenced by COVID-19's lockdowns)! Not solely that, however 2020 and 2022 noticed the fewest variety of reported incidents within the final decade.
+
+
+***
+![Internal documents of the town hall published on Facebook](https://www.lobservateur.fr/wp-content/uploads/2023/02/venerolles.jpeg "Internal documents of the town hall published on Facebook")
+
+
+[Internal documents of the town hall published on Facebook](https://www.world-today-news.com/internal-documents-of-the-town-hall-published-on-facebook/)
+
+
+> On the occasion of a meeting which was used to present the new secretary of town hall and especially to put the points on the 'i', after serious accusations made against the councilor of the commune, a subject was also evoked, to know the leak on Facebook of confidential documents. Recently, internal and confidential documents concerning the town hall, with the name of the first magistrate Patrick Delamour, were published on Facebook. ' The public treasury and the prefecture are aware ', says the mayor who decided to file a complaint.
+
+
+***
+![Galaxy S23 Android Auto issues are a repeat of last year](https://www.sammobile.com/wp-content/uploads/2023/01/Android-Auto-Redesign-Launched.jpg "Galaxy S23 Android Auto issues are a repeat of last year")
+
+
+[Galaxy S23 Android Auto issues are a repeat of last year](https://www.sammobile.com/news/galaxy-s23-android-auto-issues/)
+
+
+> The Galaxy S23, Galaxy S23+, and Galaxy S23 Ultra are now available for pre-order in many countries worldwide, and some buyers have already started getting their new phones. Samsung usually offers pre-order benefits such as instant cashback, free accessories, and a trade-in bonus. In Malaysia, the company is offering the Galaxy Watch 5 for free […] By Asif Iqbal Shaik 3 hours ago Samsung introduced One UI 5.1 at Unpacked 2023 when it announced the Galaxy S23 smartphone series.
+
+
+***
+![Internet Explorer has finally gone to the eternal hunting grounds!](https://racunalniske-novice.com/wp-content/uploads/2023/02/internet-explorer-2815927_1920-1024x1024.jpg "Internet Explorer has finally gone to the eternal hunting grounds!")
+
+
+[Internet Explorer has finally gone to the eternal hunting grounds!](https://tekdeeps.com/internet-explorer-has-finally-gone-to-the-eternal-hunting-grounds/)
+
+
+> Microsoft has long since discontinued the once-dominant Internet Explorer browser. This one was mostly hated by the masses of internet users, but some claim to still love it. Internet Explorer's demise isn't too much of a surprise. Some time ago, Microsoft discontinued the browser and redirected users to the Edge browser, which was introduced in 2015. Even then, the computer giant made it clear that it was time for a new chapter. Recently, however, Microsoft has completely discontinued the Internet Explorer web browser.
+
+
+***
+![Riot Forge released League of Legends 2D pixel-style action RPG spin-off game: 'League of Legends: Sniper' #迈马西亚(189491)](https://sw.cool3c.com/article/2023/43346e33-f17c-4f07-931e-e0acb9ef89dd.jpg?fit=max&w=1400&q=80 "Riot Forge released League of Legends 2D pixel-style action RPG spin-off game: 'League of Legends: Sniper' #迈马西亚(189491)")
+
+
+[Riot Forge released League of Legends 2D pixel-style action RPG spin-off game: 'League of Legends: Sniper' #迈马西亚(189491)](https://www.world-today-news.com/riot-forge-released-league-of-legends-2d-pixel-style-action-rpg-spin-off-game-league-of-legends-sniper-%e8%bf%88%e9%a9%ac%e8%a5%bf%e4%ba%9a189491/)
+
+
+> 'League of Legends: Sniper' is developed by Digital Sun, the production company that once created 'Moonlighter'. It adopts a 2D pixel-style hardcore action RPG game design. The background of the story is set in the powerful kingdom of Runeterra – Demacia, this kingdom On the one hand, they suppress the magic they regard as taboo, on the other hand, they do not hesitate to use magic to maintain order. Riot Forge today (2/16) released the first information about the hard-core, 2D high-bit pixel action RPG game 'Alliance Gaiden: Demon Sniper', which will be released on PC and home console platforms in the spring of 2023.
+
+
+***
+![New ASUS W790 motherboards for Intel Xeon](https://www.muycomputer.com/wp-content/uploads/2023/02/placas_base_ASUS_W790_2.jpg "New ASUS W790 motherboards for Intel Xeon")
+
+
+[New ASUS W790 motherboards for Intel Xeon](https://tekdeeps.com/new-asus-w790-motherboards-for-intel-xeon/)
+
+
+> ASUS has introduced two W790 motherboards to house the new generation of Intel Xeon processors announced yesterday by our colleagues. MCPRO. The new Intel Xeon are intended to motorize professional workstations desktop and reach the market in two series, W-2400 y W-3400. The new CPUs start from the same base as the Sapphire Rapids for servers and data centers, they are built on the Intel 7 node (10nm Enhanced SuperFin) and maintain the multi-chip module design with interconnected blocks. ASUS W790 Motherboards If you need to set up a workstation, pay attention to the new Intel platform because it covers all the needs, also the basic workstations for content creation, development or editing of photography, video or audio, with entry versions of the platform that are equal to or cheaper than the CPUs we use in machines for general computing or gaming.
+
+
+***
+![Conduent announces 110-camera enforcement scheme in Cyprus](https://www.traffictechnologytoday.com/wp-content/uploads/2023/02/Cyprus-Camera-System_Conduent.jpg "Conduent announces 110-camera enforcement scheme in Cyprus")
+
+
+[Conduent announces 110-camera enforcement scheme in Cyprus](https://www.traffictechnologytoday.com/news/enforcement/conduent-announces-110-camera-enforcement-scheme-in-cyprus.html)
+
+
+> Conduent Transportation is roll out speed and red-light camera program to improve traffic safety on the island nation of Cyprus. Conduent has designed and will install a total of 110 camera systems to enforce speed and red-light regulations as determined by the Republic of Cyprus government, and will also maintain and operate this solution. ') } else { console.log ('nompuad'); document.write('') } // --> ') } else if (width >= 425) { console.log ('largescreen'); document.write(' ') } else { console.
+
+
+***
+![Samsung is borrowing $16 billion to help its struggling chip division](https://www.sammobile.com/wp-content/uploads/2018/06/money-dollars-2.jpg "Samsung is borrowing $16 billion to help its struggling chip division")
+
+
+[Samsung is borrowing $16 billion to help its struggling chip division](https://www.sammobile.com/news/samsung-borrowing-16-billion-to-help-struggling-chip-division/)
+
+
+> Last updated: February 16th, 2023 at 10:32 UTC+01:00 Samsung's chip business has long been the company's cash cow. It has contributed tens of billions of dollars in profit to the company's coffers but has recently been struggling. That's largely due to both the demand and price of chips plunging significantly in the second half of 2022. The company has been investing heavily in its semiconductor business to enhance its capacity and capability for the future. It wants to keep doing that even in these challenging times which is why Samsung is now borrowing close to $16 billion.
+
+
+***
+![Apple Watch accident detection helps rescue three trapped passengers](https://ipadizate.com/hero/2023/02/apple-watch.1676533627.7502.jpg?width=768&aspect_ratio=16:9&format=nowebp "Apple Watch accident detection helps rescue three trapped passengers")
+
+
+[Apple Watch accident detection helps rescue three trapped passengers](https://tekdeeps.com/apple-watch-accident-detection-helps-rescue-three-trapped-passengers/)
+
+
+> The functionality of the Apple smartwatch led the rescue team to the location of the accident. join the conversation Apple introduced a feature known as accident detection in the new line of iPhone 14, Apple Watch Series 8, and Apple Watch Ultra. This novelty is capable –as its name suggests– of detecting when a user has suffered a car accident and alert emergency services automatically. Although its release is still very recent, the accident detection function has already saved several lives.
+
+
+***
+[2022 Autonomous Driving Simulation Industry Chain Report: Companies Forge Ahead Steadily with Localization Services](http://www.businesswire.com/news/home/20230216005433/en/2022-Autonomous-Driving-Simulation-Industry-Chain-Report-Companies-Forge-Ahead-Steadily-with-Localization-Services---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Autonomous Driving Simulation Industry Chain Report (Foreign Companies), 2022" report has been added to ResearchAndMarkets.com's offering. Simulation test research: foreign autonomous driving simulation companies forge ahead steadily with localization services. As the functions of ADAS and autonomous driving systems are developed and the expected development cycle of SOTIF functions shortens, the launch of new vehicle models in the competition among automakers is i
+
+
+***
+![Twitter down for thousands of users](https://cdn.jagonews24.com/media/imgAllNew/BG/2019November/twitter-20230216145721.jpg "Twitter down for thousands of users")
+
+
+[Twitter down for thousands of users](https://www.jagonews24.com/en/tech/news/66875)
+
+
+> Thousands of Twitter users were unable to access the social media platform on Wednesday, according to outage monitoring website Downdetector.com. More than 8,000 users reported issues with the micro-blogging site in the United States, Downdetector said. Downdetector tracks outages by collating status reports from a series of sources, including user-submitted errors on its platform. The outages could have affected a larger number of users. Twitter Inc did not immediately respond to a Reuters request for comment and the social network's status page showed that all systems were operational.
+
+
+***
+![Today's Wordle #607 Hints and Answer for Thursday, February 16 Enigma](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17ytjp.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Today's Wordle #607 Hints and Answer for Thursday, February 16 Enigma")
+
+
+[Today's Wordle #607 Hints and Answer for Thursday, February 16 Enigma](http://www.msn.com/en-us/news/technology/today-s-wordle-607-hints-and-answer-for-thursday-february-16-enigma/ar-AA17xXa1)
+
+
+> A new day means a new Wordle puzzle, and once again Newsweek is here to provide you with some hints and tips for the game. Wordle is very simple to play, doubtless helping to explain its viral popularity. Each day the player has to work out a new five-letter word, in six attempt or less. Load Error After each guess the letters light up, indicating how close to the answer you were. If a letter goes green it is both in the word, and in the position you placed it. Yellow means the letter features, but not where you put it, whilst gray tells you it isn't included at all.
+
+
+***
+![Apple to enter a new segment at WWDC 2023, working on a ‘complicated' product](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/16/2573283-apple-1.png "Apple to enter a new segment at WWDC 2023, working on a ‘complicated' product")
+
+
+[Apple to enter a new segment at WWDC 2023, working on a ‘complicated' product](https://www.dnaindia.com/technology/report-apple-to-enter-a-new-segment-at-wwdc-2023-working-on-a-complicated-product-3024073)
+
+
+> Apple (Image: Reuters) Apple has been working on its first mixed reality headset for quite a long time now. The AR/VR headset with advanced skills, multiple displays and cameras was rumoured to make its debut in January 2023 after much delays but the company had to delay the launch. Now as per a latest report, we may see the first Apple mixed reality headset at this year's Worldwide Developers Conference (WWDC). In its latest tweet, Bloomberg's Mark Gurman suggested that "Apple has postponed the planned introduction of its mixed-reality headset from around April to June at the annual WWDC conference, the latest setback for Apple's next major device.
+
+
+***
+![Microsoft Windows 11 live captions feature gets support for more languages with latest update](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/16/2573301-microsoft-windows-11.png "Microsoft Windows 11 live captions feature gets support for more languages with latest update")
+
+
+[Microsoft Windows 11 live captions feature gets support for more languages with latest update](https://www.dnaindia.com/technology/report-microsoft-windows-11-live-captions-feature-gets-support-for-more-languages-with-latest-update-3024078)
+
+
+> Microsoft Windows 11 Tech giant Microsoft has announced that it is releasing "Windows 11 Insider Preview Build 25300" to the Dev Channel, which includes more languages support for Windows 11's live captions feature. The live captions feature was first released in September last year, but only provided captions in English, with a focus on English (United States), the tech giant said in a blogpost on Wednesday. "In this build, live captions gains the ability to also provide captions in Chinese (Simplified and Traditional), French, German, Italian, Japanese, Portuguese (Brazil), Spanish and other English dialects.
+
+
+***
+![‘Not restricting my kids from social media is a mistake,' says Elon Musk](https://www.hindustantimes.com/ht-img/img/2023/02/16/1600x900/Twitter-Musk-0_1671630331976_1671630331976_1676538998692_1676538998692.jpg "‘Not restricting my kids from social media is a mistake,' says Elon Musk")
+
+
+[‘Not restricting my kids from social media is a mistake,' says Elon Musk](https://www.hindustantimes.com/technology/not-restricting-my-kids-from-social-media-is-a-mistake-says-elon-musk-101676538015369.html)
+
+
+> Published on Feb 16, 2023 02:59 PM IST Twitter CEO Elon Musk.(AP) By Lingamgunta Nirmitha Rao | Edited by Chandrashekar Srinivasan Twitter boss Elon Musk Wednesday said he had made a 'mistake' - by never restricting his children from accessing social media platforms. Addressing the World Government Summit in Dubai, the billionaire also declared his children had been 'programmed' by social news aggregator Reddit and video hosting and sharing website YouTube.
+
+
+***
+![SoftBank joins game-focused blockchain Oasys as validator](https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1220579338.jpg "SoftBank joins game-focused blockchain Oasys as validator")
+
+
+[SoftBank joins game-focused blockchain Oasys as validator](https://techcrunch.com/2023/02/16/softbank-joins-game-focused-blockchain-oasys-as-validator/)
+
+
+> As many observers question what real value blockchain can bring to video games, a conglomerate is vouching for the space. SoftBank Corp, the telecom operator arm of SoftBank Group, has joined Oasys, a blockchain designed for video games, as a validator. A validator is a node or computer that helps to verify transactions being added to a blockchain, keeping the decentralized network stable and secure. In return, it receives tokens for its work. It also gets to participate in governance decisions of the network.
+
+
+***
+![Lidl sells a car holder with Qi charging](https://www.svetandroida.cz/media/2023/02/lidl-tronic-nabijecka-qi.jpg "Lidl sells a car holder with Qi charging")
+
+
+[Lidl sells a car holder with Qi charging](https://www.world-today-news.com/lidl-sells-a-car-holder-with-qi-charging/)
+
+
+> The Lidl e-shop offers interesting discounts on its products from time to time and now it has become cheaper practical car holder with wireless charging support. This can be useful for longer routes, when you need to have your mobile in the holder, for example for navigation, but at the same time you want to charge it. An interesting discount on a car holder at the Lidl e-shop TRONIC Smartphone holder for car with Qi charging function TKHQ 10 A1 comes as standard on 499 CZK, but now for a limited time it is on sale for a very interesting 269 CZK.
+
+
+***
+![Firefox for Android gets extension for listening to articles and hiding email addresses](https://techcrunch.com/wp-content/uploads/2022/06/ff_blog_header_ff_1400x770.jpg?resize=1200,660 "Firefox for Android gets extension for listening to articles and hiding email addresses")
+
+
+[Firefox for Android gets extension for listening to articles and hiding email addresses](https://techcrunch.com/2023/02/16/firefox-for-android-gets-extension-for-listening-to-articles-and-hiding-email-addresses/)
+
+
+> Mozilla has added three new extensions for its Android web browser. Firefox only has a limit set of extensions on Android, and today's new extensions add features and improve privacy. These extensions can hide the user's email address when signing up to a website and remove tracking elements before sharing a URL. Another extension lets you listen to articles. The first extension is Mozilla's own Firefox Relay , which lets you hide your real email address and allows you to input a proxy email address that redirects incoming emails to your inbox.
+
+
+***
+![Nvidia Geforce RTX 3000 Founder's Edition leaves warehouse shelves](https://cdn.sweclockers.com/artikel/bild/108416?l=eyJyZXNvdXJjZSI6IlwvYXJ0aWtlbFwvYmlsZFwvMTA4NDE2IiwiZmlsdGVycyI6WyJ0PWFydGljbGVGdWxsIl0sInBhcmFtcyI6eyJjYWNoZUJ1c3RlciI6IjIwMjEwNTAxIn0sImtleSI6IjUwZDMzMjMyODljZDdmZTE3MTMzOWNhZWUzMGI4NzNlIn0= "Nvidia Geforce RTX 3000 Founder's Edition leaves warehouse shelves")
+
+
+[Nvidia Geforce RTX 3000 Founder's Edition leaves warehouse shelves](https://tekdeeps.com/nvidia-geforce-rtx-3000-founders-edition-leaves-warehouse-shelves/)
+
+
+> When Nvidia launched the 'Ampere' graphics architecture and the top layer of the Geforce RTX 3000 series in the fall of 2020, the praise was showered, partly as a result of proper performance improvements, partly as a result of handsome prices. Severe imbalance between supply and demand soon became a fact, which is why inflated price tags and hard-to-find products until recently eluded bargain-hunting computer builders. The first variants of the subsequent Geforce RTX 4000 series are here, but with a higher price and performance class, the predecessors of the graphics cards have not yet been relegated to the sales floor.
+
+
+***
+![The government says yes to the large wind farm Krieger's flak](https://image.nyteknik.se/1652749.webp?imageId=1652749&width=960&height=548&format=jpg "The government says yes to the large wind farm Krieger's flak")
+
+
+[The government says yes to the large wind farm Krieger's flak](https://tekdeeps.com/the-government-says-yes-to-the-large-wind-farm-kriegers-flak/)
+
+
+> The government gives the green light for Vattenfall to lay cables on the seabed for the large Krieger Flak wind farm. – Now everything that is needed in terms of permits is in place, says Climate and Environment Minister Romina Pourmokhtari (L). The project with the large wind farm out in the sea three miles south of Trelleborg was already started in 2002. Twenty years later, in 2022, the then S government gave a building permit for the park. But then there was still a lack of permission from the government for the company to lay cables along the seabed to connect the park to the main grid.
+
+
+***
+![OpenCore-Legacy-Patcher Update from BigSur to Ventura](https://images.macrumors.com/social/?t=2380976&v=6 "OpenCore-Legacy-Patcher Update from BigSur to Ventura")
+
+
+[OpenCore-Legacy-Patcher Update from BigSur to Ventura](https://forums.macrumors.com/threads/opencore-legacy-patcher-update-from-bigsur-to-ventura.2380976/)
+
+
+> Dear all Maybe I can find some help here? I am very enthusiastic about the OCLP project and my iMac Late 2013 runs perfectly on Ventura. Now I have tried to install Ventura on a MacBook Pro Early 2011 as well. This process was always aborted. So I thought I would install BigSur and then upgrade to Monterey or Ventura. BigSur runs perfectly, but no update is displayed. What is the reason for this? Have I misunderstood something? Do I have to create a new installer with e.g. Monterey or Ventura for a new version? Unfortunately, you can't ask questions on GitHub.
+
+
+***
+![WD's first 44TB My Book Duo desktop hard drive, the asking price exceeds 45,000 yuan](https://cdn0.techbang.com/system/excerpt_images/104004/original/e023be519937c63a8285a49f2994941e.jpg?1676532038 "WD's first 44TB My Book Duo desktop hard drive, the asking price exceeds 45,000 yuan")
+
+
+[WD's first 44TB My Book Duo desktop hard drive, the asking price exceeds 45,000 yuan](https://www.world-today-news.com/wds-first-44tb-my-book-duo-desktop-hard-drive-the-asking-price-exceeds-45000-yuan-t-kebang/)
+
+
+> WD announced the launch of the new My Book desktop external hard drive, divided into two models, The maximum capacity of a single disc is 22TB, and the maximum capacity of the dual-disk My Book Duo reaches an astonishing 44TB. The latter also supports flexible configuration as RAID 1 (redundant backup) or JBOD (dual independent disks) can be realized through the built-in software, and the default is RAID 0 mode. Interface includes One USB-C 3.0, two USB-A 3.0 the transmission rate is 5Gbps, and CC and CA adapter cables are included.
+
+
+***
+![Your Sky TV just lost one of its biggest and long-awaited new features](https://iknowallnews.com/wp-content/uploads/2019/11/cropped-ser7-32x32.gif "Your Sky TV just lost one of its biggest and long-awaited new features")
+
+
+[Your Sky TV just lost one of its biggest and long-awaited new features](https://iknowallnews.com/technology/your-sky-tv-just-lost-one-of-its-biggest-and-long-awaited-new-features)
+
+
+> We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info If your Sky equipment has suddenly lost one of its best new features you are definitely not alone. The television firm recently announced a blockbuster upgrade to its Sky Glass and Sky Stream gadgets which finally bought the long-awaited Personalised Playlists to these devices.
+
+
+***
+![Stanible is a Pinoy-made platform for celebrity NFT collectibles](https://www.noypigeeks.com/wp-content/uploads/2023/02/Stanible.jpg "Stanible is a Pinoy-made platform for celebrity NFT collectibles")
+
+
+[Stanible is a Pinoy-made platform for celebrity NFT collectibles](https://www.noypigeeks.com/tech-news/stanible-celebrity-nft-collectibles/)
+
+
+> Stanible is a new Pinoy-made NFT platform that's betting on the fandom culture in the Philippines by bringing fans and celebrities together through collectible NFTs. Fans can purchase collectibles in the form of NFTs for as low as Php300 up to Php10,000 in the form of photos so they can 'own a moment' of their idol's lives. For those who are not familiar, NFTs, or non-fungible tokens, are virtual items that were minted using blockchain. Such 'moments' includes never before seen moments, audition takes, and some behind the scene happenings.
+
+
+***
+[Volvo C40 Recharge EV To Be Launched in India in Late 2023](https://www.thequint.com/tech-and-auto/volvo-c40-recharge-india-launch-date-late-2023-features-specs-and-price)
+
+
+> Volvo C40 Recharge to be launched in India in the 2023 end. Here are the details you must know. (Photo: scandiavolvocars.com)
+
+
+***
+[GSR Launches Foundation with $10m Pledge Celebrating 10 years of Business](http://www.businesswire.com/news/home/20230216005100/en/GSR-Launches-Foundation-with-10m-Pledge-Celebrating-10-years-of-Business/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON--(BUSINESS WIRE)-- #OTC--GSR, the global crypto market maker and liquidity provider, has pledged an initial $10m to establish the GSR Foundation, an independent grantmaking charity that will support non-profit organisations across the world. This donation serves to formalise and grow an integral and long-standing commitment by the firm to ESG and positive social impact, alongside building a best-in-class trading business. With a pedigree of established tech and financial leaders at the he
+
+
+***
+![Scientists Recreate Largest Dinosaur Brain Using Fossils, Here's The Goal](https://www.gazettenpdc.fr/thumbs/1200×10000/articles/2023/02/page-8.jpg "Scientists Recreate Largest Dinosaur Brain Using Fossils, Here's The Goal")
+
+
+[Scientists Recreate Largest Dinosaur Brain Using Fossils, Here's The Goal](https://www.world-today-news.com/scientists-recreate-largest-dinosaur-brain-using-fossils-heres-the-goal/)
+
+
+> In findings to be published in the Journal of Anatomy, the researchers found that spinosaurus' olfactory bulbs – which process smells – were not particularly developed, while their ears were likely attuned to low-frequency sounds. The scientists found that the brain regions that kept the head steady and gazed upon prey were probably less developed than those of the more specialized spinosaurs. 'Despite their unusual ecology, it appears that the brain and senses of these early spinosaurs retained many aspects in common with other large-bodied theropods – there is no evidence that their semi-aquatic lifestyle was reflected in the way their brains were organized,' explained student Chris Barker.
+
+
+***
+![iQOO Neo 7 launched in India; brings Dimensity 8200 chip, 120W fast charging for under Rs 30,000: Details](https://www.financialexpress.com/wp-content/uploads/2023/02/iqoo-neo-7-new-main.jpg "iQOO Neo 7 launched in India; brings Dimensity 8200 chip, 120W fast charging for under Rs 30,000: Details")
+
+
+[iQOO Neo 7 launched in India; brings Dimensity 8200 chip, 120W fast charging for under Rs 30,000: Details](https://www.financialexpress.com/life/technology-iqoo-neo-7-launched-in-india-brings-dimensity-8200-chip-120w-fast-charging-for-under-rs-30000-details-2983475/)
+
+
+> iQOO Neo 7 has officially been launched in India. Follow-up to the iQOO Neo 6, the Neo 7 brings a bunch of new upgrades over its predecessor including a 4nm MediaTek Dimensity 8200 processor and 120W fast charging, at a more or less similar price point. iQOO Neo 7 price in India starts at Rs 29,999, same as the Neo 6. At its price, the iQOO Neo 7 will compete with phones like the Redmi Note 12 Pro Plus, Realme 10 Pro Plus, OnePlus Nord 2T, Nothing Phone 1 and more. iQOO Neo 7 India price, availability iQOO Neo 7 with 8GB of RAM and 128GB of storage will sell for Rs 29,999 while a version with 12GB of RAM and 256GB of storage will set buyers back by Rs 33,999.
+
+
+***
+[Goavega to bring cutting-edge product engineering, cloud enablement and digital transformation expertise to Canada](http://www.businesswire.com/news/home/20230215005424/en/Goavega-to-bring-cutting-edge-product-engineering-cloud-enablement-and-digital-transformation-expertise-to-Canada/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WATERLOO, Ontario--(BUSINESS WIRE)-- #Goavega--After a successful expansion in the USA, Goavega launched its Canadian operations out of Waterloo, Ontario, with the aim to expand its NA clientele.
+
+
+***
+![In Douai, the future headquarters of Maison & Cités marked 'CSR'](https://www.gazettenpdc.fr/thumbs/1200×10000/articles/2023/02/page-8.jpg "In Douai, the future headquarters of Maison & Cités marked 'CSR'")
+
+
+[In Douai, the future headquarters of Maison & Cités marked 'CSR'](https://www.world-today-news.com/in-douai-the-future-headquarters-of-maison-cites-marked-csr/)
+
+
+> On the Commercial Activity Zone of La Clochette in Douai, the new head office of Maison & Cités is taking shape. A modern building made of insulating plates, tiles and azures which comes to dust off the current premises of the company. Passers-by can see the immensity of the 7,088 m² building, of which the company will only be a tenant. The move is scheduled for early June…
+
+
+***
+![From 470 to 840, Air India's mega plane purchase could go up even bigger](https://egov.eletsonline.com/wp-content/uploads/2023/02/Air-India.jpg "From 470 to 840, Air India's mega plane purchase could go up even bigger")
+
+
+[From 470 to 840, Air India's mega plane purchase could go up even bigger](https://egov.eletsonline.com/2023/02/from-470-to-840-air-indias-mega-plane-purchase-could-go-up-even-bigger/)
+
+
+> Air India's mega 470-aircraft order to Boeing and Airbus could end up even bigger as the airline has an option to buy an additional 370 planes from the manufacturers, chief commercial and transformation officer Nipun Aggarwal said. The current 470-aircraft order is the largest placed by an airline in one go anywhere in the world, beating the 2011 order by American Airlines for a combined 460 aircraft. The biggest order by an Indian carrier before this was IndiGo's 300-aircraft order in 2019. In accordance with the provisions of the agreement, Airbus and Boeing will provide 470 firm aircraft, 370 options, and 370 purchase rights over the course of the next ten years.
+
+
+***
+![Sevensense Robotics to showcase its Alphasense Autonomy Evaluation Kit at ProMAT](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/sevensense-robotics-alphasense.png "Sevensense Robotics to showcase its Alphasense Autonomy Evaluation Kit at ProMAT")
+
+
+[Sevensense Robotics to showcase its Alphasense Autonomy Evaluation Kit at ProMAT](https://roboticsandautomationnews.com/2023/02/16/sevensense-robotics-to-showcase-its-alphasense-autonomy-evaluation-kit-at-promat/60381/)
+
+
+> Swiss 3D visual autonomy provider Sevensense Robotics says it is planning to present its Alphasense Autonomy Evaluation Kit at ProMAT 2023. The software would enable 'off-the-shelf prototyping solutions' for manufacturers of autonomous mobile robots, says the company. Sevensense says automation has the potential to 'exponentially increase efficiency, profitability, and safety in the logistics and manufacturing sectors'. But so far, the lack of a robust, yet flexible navigation technology has limited the scope and scale of automation in material handling operations.
+
+
+***
+![All the Easter Eggs We Spotted in STAR TREK: PICARD Season 3 Premiere](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2023/02/14102113/Riker-and-Picard-in-Picard-Season-3-Featured.jpg "All the Easter Eggs We Spotted in STAR TREK: PICARD Season 3 Premiere")
+
+
+[All the Easter Eggs We Spotted in STAR TREK: PICARD Season 3 Premiere](https://nerdist.com/article/star-trek-picard-season-3-easter-eggs-the-next-generation-star-trek-movies/)
+
+
+> The first two seasons of Star Trek: Picard had their share of Easter eggs for longtime fans to spot. But just with one episode, season three blew the previous two out of the water in this regard. With the final season a swan song for the Star Trek: The Next Generation crew , the producers stuffed these episodes full of fun winks and nods for fans. Here are a few we spotted in the first episode, appropriately titled 'The Next Generation.' Paramount+ The Opening Title Card CBS/Viacom/Paramount Pictures The opening title card says 'In the 25th Century…' This didn't just tell us when the show took place, but it's a direct homage to how the title card from Star Trek II: The Wrath of Khan appeared.
+
+
