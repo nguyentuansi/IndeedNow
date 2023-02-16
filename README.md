@@ -33625,3 +33625,650 @@
 > We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. With the  price of food and eating out these days , it's becoming increasingly difficult to rationalize the money we're spending while eating out every night. Getting behind the burners (or  wherever you cook ) is the only way to keep your wallet full, which means it is time to spruce up your kitchen artillery.  Knives are easily one of the most important tools you can have in your kitchen.
 
 
+***
+![How To Use ChatGPT On Mobile Devices](https://technology.inquirer.net/files/2023/02/ChatGPT-mobile-featured-image-www.engadget.com_-620x349.png "How To Use ChatGPT On Mobile Devices")
+
+
+[How To Use ChatGPT On Mobile Devices](https://technology.inquirer.net/121462/how-to-use-chatgpt-on-mobile-devices)
+
+
+> You may have heard of ChatGPT and other AI tools due to the spreading of online news about them. Yet, have you ever tried it yourself? The tool can create convincingly manmade text such as short social media posts to long scientific reports. The best part is that it's free, and you can use it on mobile. This article will discuss how to use ChatGPT on mobile devices. At the time of writing, it has no official mobile app, but there are ways to create a phone shortcut. How to create an OpenAI account Start by opening chat.
+
+
+***
+![Travelex and KAYAK partner up for refreshed money app](https://www.travelweekly.com.au/wp-content/uploads/2023/01/TMC.png "Travelex and KAYAK partner up for refreshed money app")
+
+
+[Travelex and KAYAK partner up for refreshed money app](https://www.travelweekly.com.au/article/travelex-and-kayak-partner-up-for-refreshed-money-app/)
+
+
+> Travelex has partnered with KAYAK to allow customers to search for flights, stays and rental cars within the refreshed Travelex Money app, enabling them to plan their trip and manage their funds for it, all in one place. Through the relaunched app, customers and agents are now able to: Order a Travelex Money Card prepaid card and have it delivered to their home or for collection from a Travelex store, as well as from a Travelex partner store in Australia. Order foreign currency cash for delivery to their home or for collection from a Travelex store (in the UK) or to collect it from a Travelex or Travelex partner store (in Australia).
+
+
+***
+![Kanye West and Wife Bianca Censori Go on Movie Date With Russell Simmons on Valentines Day](https://iknowallnews.com/wp-content/uploads/2023/02/Kanye-West-and-Wife-Bianca-Censori-Go-on-Movie-Date-With-Russell-Simmons-on-Valentines-Day.jpg "Kanye West and Wife Bianca Censori Go on Movie Date With Russell Simmons on Valentines Day")
+
+
+[Kanye West and Wife Bianca Censori Go on Movie Date With Russell Simmons on Valentines Day](https://iknowallnews.com/celebrities/kanye-west-and-wife-bianca-censori-go-on-movie-date-with-russell-simmons-on-valentines-day/)
+
+
+> Home » Celebrities » Kanye West and Wife Bianca Censori Go on Movie Date With Russell Simmons on Valentines Day AceShowbiz – Kanye West and his wife Bianca Censori celebrated Valentine's Day together. The couple was seen going to a movie date while being joined by none other than music producer Russell Simmons . In some photos obtained by Page Six, the threesome were pictured leaving an AMC Theatre in Hollywood after watching the new movie ' Infinity Pool ' on Tuesday, February 14. Producer 88-Keys was also with the trio.
+
+
+***
+![Sarah Silverman Savages ‘Pathetic' ‘Incel' Elon Musk on ‘Daily Show'](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17xNrv.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=550&y=183 "Sarah Silverman Savages ‘Pathetic' ‘Incel' Elon Musk on ‘Daily Show'")
+
+
+[Sarah Silverman Savages ‘Pathetic' ‘Incel' Elon Musk on ‘Daily Show'](http://www.msn.com/en-us/news/technology/sarah-silverman-savages-pathetic-incel-elon-musk-on-daily-show/ar-AA17xDsx)
+
+
+> Sarah Silverman came out swinging against Twitter CEO 'and man who has definitely scissored a robot' Elon Musk during her Daily Show guest-hosting gig Wednesday night. The comedian went on to explain that 'if you thought your Twitter feed was especially flooded with Elon's tweets this week, you weren't alone' after he 'pressured his engineers to design a special algorithm just for his tweets' so that they would go as viral as President Joe Biden's. 'Because it behooves all of us to be privy to the fresh and original insights of the richest man in the world,' Silverman said of Musk, who actually lost that status late last year, as his not-so-clever wordplay about masterbation appeared on the screen.
+
+
+***
+![Amazon's Autonomous 'Zoox' Taxi Now Being Tested On California Roads](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF1.jpg?itok=oUN5sEmB "Amazon's Autonomous 'Zoox' Taxi Now Being Tested On California Roads")
+
+
+[Amazon's Autonomous 'Zoox' Taxi Now Being Tested On California Roads](https://www.zerohedge.com/technology/amazons-autonomous-zoox-taxi-now-being-tested-california-roads)
+
+
+> Amazon's autonomous vehicle venture Zoox announced on Monday that it's now testing self-driving robotaxis on California public roads with passengers on board. Amazon's self-driving company Zoox unveiled its autonomous robotaxi on Monday. Zoox The vehicles, which look like tiny buses, have no steering wheels or pedals, and have bidirectional driving capabilities with four-wheel steering, allowing it to change directions without reversing, CNBC reports. The on-road tests commenced after the California Department of Motor Vehicles gave them the green light last week - limiting testing to shuttling Zoox employees on a one-mile public route between two office buildings at the company's Foster City headquarters - and at speeds not to exceed 35 MPH.
+
+
+***
+![Apple AirPods available at Rs 699 on Flipkart after Rs 11,800 discount, check details](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/16/2573225-apple-airpods.png "Apple AirPods available at Rs 699 on Flipkart after Rs 11,800 discount, check details")
+
+
+[Apple AirPods available at Rs 699 on Flipkart after Rs 11,800 discount, check details](https://www.dnaindia.com/technology/report-apple-airpods-available-at-rs-699-on-flipkart-after-rs-11800-discount-check-details-3024018)
+
+
+> Apple AirPods Apple AirPods the most recognisable TWS earbuds around the globe and over the years, the device has acquired a huge market share. The small, white coloured TWS earbuds are really popular among the audiophiles due the sound quality and lightweight design. The Apple AirPods can be easily set up for all your Apple devices and it comes with a universal fit that's comfortable all day. Launched in 2016, the Apple AirPods are quite reliable and offer premium audio quality. The Apple AirPods is currently retailing for Rs 14,900 on Apple's official website but you get the AirPods in just Rs 699 from Flipkart if you have an old smartphone to exchange.
+
+
+***
+![Fuga: Melodies of Steel 2 details new characters and world changes](https://gonintendo.com/attachments/image/23338/file/medium-4648feafa9c81db9401d4208f613e137.jpg "Fuga: Melodies of Steel 2 details new characters and world changes")
+
+
+[Fuga: Melodies of Steel 2 details new characters and world changes](https://gonintendo.com/contents/16317-fuga-melodies-of-steel-2-details-new-characters-and-world-changes)
+
+
+> CyberConnect2 has released a chunk of new information about Fuga: Melodies of Steel 2's characters and world ahead of its May 11th release. You can get a full rundown of all the new details below: Characters Chick Montblanc (voiced by Natsumi Haruse.) Hack's twin sister. She thinks of Hanna as the ideal woman and aspires to be kind-hearted and sensitive to the needs of others just like her. Perhaps this is why she tries to put a stop to Hack's pranks. Hack Montblanc (voiced by Tomomi Mizuma.
+
+
+***
+![Universal Studios Hollywood's Super Nintendo World Grand Opening Ceremony starts streaming live at 11 PM ET, 8 PM PT](https://gonintendo.com/attachments/image/23329/file/medium-2d1f64b19c6d65c174758272238bf053.jpg "Universal Studios Hollywood's Super Nintendo World Grand Opening Ceremony starts streaming live at 11 PM ET, 8 PM PT")
+
+
+[Universal Studios Hollywood's Super Nintendo World Grand Opening Ceremony starts streaming live at 11 PM ET, 8 PM PT](https://gonintendo.com/contents/16316-universal-studios-hollywood-s-super-nintendo-world-grand-opening-ceremony-starts)
+
+
+> Super Nintendo World opens in Hollywood on February 17th Universal Studios Hollywood is livestreaming the grand opening ceremony for Super Nintendo World in just a few minutes as of this post's creation. You can watch the stream linked above to see the celebration of Nintendo's American theme park launch. [ Universal Studios Hollywood on YouTube ] Cameron, AKA Cam, AKA Cam Critiques is a big fan of all sorts of video games, especially platformers and RPGs. He covers news and contributes the occasional feature here at GoNintendo, but you can also see more of his game-related work at https://www.
+
+
+***
+![Motorola updates its ‘One Power' smartphone with Android 9 Pie](https://chennaionline.com/wp-content/uploads/2019/09/favicon.png "Motorola updates its ‘One Power' smartphone with Android 9 Pie")
+
+
+[Motorola updates its ‘One Power' smartphone with Android 9 Pie](https://chennaionline.com/technology/motorola-updates-its-one-power-smartphone-with-android-9-pie/)
+
+
+> Lenovo-owned Chinese smartphone company Motorola on Friday announced that it has started rolling out the Android 9 Pie software over-the-air (OTA) update to its 'One Power' smartphone, replacing Android Oreo. Android 9 Pie was officially released in August and was initially made available on Google Pixel and OnePlus 6 devices. Android 9 Pie update is bringing 'Motorola One Power' users longer and improved battery life, an entirely new user interface (UI) with redesigned 'Quick Settings' and a revamped split-screen option, the company said in a statement.
+
+
+***
+![Astronomers Say This Neutron Star Explosion Was Perfect. Too Perfect](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17xrQ5.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Astronomers Say This Neutron Star Explosion Was Perfect. Too Perfect")
+
+
+[Astronomers Say This Neutron Star Explosion Was Perfect. Too Perfect](http://www.msn.com/en-us/news/technology/astronomers-say-this-neutron-star-explosion-was-perfect-too-perfect/ar-AA17xBYy)
+
+
+> No matter what, you do not want to find yourself near a neutron star. These stellar beasts, made mostly of neutrons, are basically ultra-dense cosmic corpses roaming around space and, with incomprehensibly strong gravitational fields, torturing everything in their paths. Load Error They're like the baby brothers of black holes. When big stars (at least 20 times the size of our sun) die, they become black holes, but when smaller stars (between about 8 and 20 times the size of our sun) die, they turn into neutron stars.
+
+
+***
+![Kendall Jenner responds to claims she Photoshopped recent bikini pic](https://iknowallnews.com/wp-content/uploads/2019/11/cropped-ser7-32x32.gif "Kendall Jenner responds to claims she Photoshopped recent bikini pic")
+
+
+[Kendall Jenner responds to claims she Photoshopped recent bikini pic](https://iknowallnews.com/lifestyle/kendall-jenner-responds-to-claims-she-photoshopped-recent-bikini-pic)
+
+
+> kendall jenner Kendall Jenner accused of Photoshop fail as fans call out ‘wild' hand size Kendall Jenner poses topless in 7-inch platform heels for Marc Jacobs Kendall Jenner snapped a steamy Instagram selfie in this bestselling bra Kendall Jenner shares topless videos, receives praise from Kardashian sisters Kendall Jenner apparently just has 'crazy' long hands. After fans accused the model of Photoshopping a recent bikini picture due to her 'wild' hand size, Jenner's BFF, Hailey Bieber, took to Instagram to clear the air.
+
+
+***
+![Fire Emblem Heroes: New Heroes and Ascended Elincia arrives February 17th, 2023](https://gonintendo.com/attachments/image/23327/file/medium-48197dbedecb4a2dffad884bfc46a273.jpg "Fire Emblem Heroes: New Heroes and Ascended Elincia arrives February 17th, 2023")
+
+
+[Fire Emblem Heroes: New Heroes and Ascended Elincia arrives February 17th, 2023](https://gonintendo.com/contents/16314-fire-emblem-heroes-new-heroes-and-ascended-elincia-arrives-february-17th-2023)
+
+
+> New heroes join very soon A new story chapter titled ‘Goddess Reunion' is joining Fire Emblem Heroes along with a set of new heroes, including Ascended Hero Elincia, Realm's Protector Geoffrey and Tireless Advisor Lucia very soon. Starting February 17th at 2:00 AM ET, players will be able to access the new content in the app. You can watch the video linked above to see all the new characters in action. [ Nintendo Mobile on YouTube ] Cameron, AKA Cam, AKA Cam Critiques is a big fan of all sorts of video games, especially platformers and RPGs.
+
+
+***
+![New 'The Little Mermaid' Trailer Unveils First Look at Ursula and Prince Eric](https://iknowallnews.com/wp-content/uploads/2023/02/New-The-Little-Mermaid-Trailer-Unveils-First-Look-at-Ursula-and-Prince-Eric.jpg "New 'The Little Mermaid' Trailer Unveils First Look at Ursula and Prince Eric")
+
+
+[New 'The Little Mermaid' Trailer Unveils First Look at Ursula and Prince Eric](https://iknowallnews.com/tv-movies/new-the-little-mermaid-trailer-unveils-first-look-at-ursula-and-prince-eric/)
+
+
+> Home » TV & Movies » New ‘The Little Mermaid' Trailer Unveils First Look at Ursula and Prince Eric AceShowbiz -With 100 days left before its release in theaters, ' The Little Mermaid (2023) ' has got its new trailer released online for viewing pleasure. A courtesy of Disney, the 30-second spot gives first look at Prince Eric and Ursula. The video is set to Halle Bailey ‘s rendition of 'Part of Your World' while her character Ariel explores the world under water. She's seen swimming through colorful reefs and jellyfish, and playing with a fish, but is longing to see the world outside the water.
+
+
+***
+![NXP introduces new chip range for ADAS and autonomous vehicles](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/NXP-auto-radar-chip.jpg "NXP introduces new chip range for ADAS and autonomous vehicles")
+
+
+[NXP introduces new chip range for ADAS and autonomous vehicles](https://roboticsandautomationnews.com/2023/02/16/nxp-introduces-new-chip-range-for-adas-and-autonomous-vehicles/60375/)
+
+
+> NXP Semiconductors , the market share leader in automotive radar according to Yole Intelligence, has introduced what it says is 'a new industry-first' 28nm RFCMOS radar one-chip IC family for next generation ADAS and autonomous driving systems. The new SAF85xx one-chip family combines NXP's high performance radar sensing and processing technologies into a single device, offering tier ones and OEMs new flexibility in addressing short, medium and long range radar applications to serve ever more challenging NCAP safety requirements.
+
+
+***
+![EMR vs Kubernetes cluster: Which to choose when?](https://miro.medium.com/max/970/1*PKZwWQe9F-GCqRw01LDegA.png "EMR vs Kubernetes cluster: Which to choose when?")
+
+
+[EMR vs Kubernetes cluster: Which to choose when?](https://medium.com/@mtalhanasir96/emr-vs-kubernetes-cluster-which-to-choose-when-bba9bfd5fdb9)
+
+
+> EMR and Kubernetes are both popular tools for managing large-scale data processing tasks, but they have different strengths and use cases. Here's a comparison of EMR and Kubernetes: EMR : EMR is a managed big data processing service provided by AWS. EMR is optimized for running distributed processing frameworks like Apache Hadoop, Apache Spark, and Apache Flink. EMR provides pre-configured clusters with a variety of big data tools, which makes it easy to set up and get started quickly. EMR integrates well with other AWS services, such as Amazon S3, Amazon EC2, and Amazon Redshift.
+
+
+***
+![Idaho Murder Victims Weren't Found By Roommates? New Report Claims Friend Came Over Before Cops Were Called](https://iknowallnews.com/wp-content/uploads/2023/02/Idaho-Murder-Victims-Weren039t-Found-By-Roommates-New-Report-Claims-Friend-Came-Over-Before-Cops-Were-Called.jpg "Idaho Murder Victims Weren't Found By Roommates? New Report Claims Friend Came Over Before Cops Were Called")
+
+
+[Idaho Murder Victims Weren't Found By Roommates? New Report Claims Friend Came Over Before Cops Were Called](https://iknowallnews.com/celebrities/idaho-murder-victims-werent-found-by-roommates-new-report-claims-friend-came-over-before-cops-were-called/)
+
+
+> Home » Celebrities » Idaho Murder Victims Weren't Found By Roommates? New Report Claims Friend Came Over Before Cops Were Called The gag order may still firmly be in place in the  Bryan Kohberger murder case, but slowly and surely we're getting a more complete look at what happened the night four University of Idaho students were murdered in their off-campus home in Moscow. In the early morning hours of November 13, roommates Kaylee Goncalves , Maddie Mogen , and Xana Kernodle , as well as Xana's boyfriend Ethan Chapin , were brutally stabbed to death.
+
+
+***
+![Elon Musk cofounded the company behind ChatGPT but he's warning that unregulated AI comes with 'great danger'](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA163tKc.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=531&y=335 "Elon Musk cofounded the company behind ChatGPT but he's warning that unregulated AI comes with 'great danger'")
+
+
+[Elon Musk cofounded the company behind ChatGPT but he's warning that unregulated AI comes with 'great danger'](http://www.msn.com/en-us/news/technology/elon-musk-cofounded-the-company-behind-chatgpt-but-he-s-warning-that-unregulated-ai-comes-with-great-danger/ar-AA17xGVu)
+
+
+> Billionaire Elon Musk forewarned that unchecked artificial intelligence poses a threat to society. On Wednesday, Musk, who co-founded OpenAI, the company that created the ChatGPT tool, said during World Government Summit in Dubai, United Arab Emirates that AI is "one of the biggest risks to the future of civilization," CNBC reported. OpenAI's ChatGPT and similar AI tools may not replace jobs anytime soon. But they can help workers across many industries – from tech to media – do their jobs better and more quickly.
+
+
+***
+![Today's LeetCode Challenge in Python](https://external-preview.redd.it/8hcON5frEJfZBuIIEOdsWbtNXct3ASFZsFq3pwWU1sA.jpg?auto=webp&v=enabled&s=523c2a1811545137368e55ae3ddec30117a0004f "Today's LeetCode Challenge in Python")
+
+
+[Today's LeetCode Challenge in Python](https://www.reddit.com/r/Python/comments/113fbqw/todays_leetcode_challenge_in_python)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Lexie Lemon defends her relationship against fatphobic haters](https://iknowallnews.com/wp-content/uploads/2023/02/Lexie-Lemon-defends-her-relationship-against-fatphobic-haters.jpg "Lexie Lemon defends her relationship against fatphobic haters")
+
+
+[Lexie Lemon defends her relationship against fatphobic haters](https://iknowallnews.com/lifestyle/lexie-lemon-defends-her-relationship-against-fatphobic-haters/)
+
+
+> An Instagram model hit back at fatphobic followers Lexie Lemon has a ‘skinny' boyfriend; she's defended the relationship A plus-size model has hit-back at fat-phobic haters who criticised her relationship with her ‘skinny' boyfriend. Lexie Lemon, a US content creator and model, created a video poking fun at her haters who tell her to ‘let her partner Keduzit go'. ‘Don't let your size stop you from finding someone special,' she said, inspiring her other followers to love themselves enough to find love.
+
+
+***
+![Founder of WallStreetBets, which helped ignite meme stock frenzy, sues Reddit](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/ezgif-sixteen_nine_197.jpg "Founder of WallStreetBets, which helped ignite meme stock frenzy, sues Reddit")
+
+
+[Founder of WallStreetBets, which helped ignite meme stock frenzy, sues Reddit](https://www.businesstoday.in/technology/news/story/founder-of-wallstreetbets-which-helped-ignite-meme-stock-frenzy-sues-reddit-370404-2023-02-16)
+
+
+> The founder of WallStreetBets, which has been credited with helping ignite investors' frenzy into "meme" stocks, sued Reddit Inc on Wednesday, accusing it of wrongly banning him from moderating the community and undermining his trademark rights. Jaime Rogozinski said his ouster, ostensibly for violating Reddit policy by "attempting to monetize a community," was a pretext to keep him from trying to control "a famous brand that helped Reddit rise to a $10 billion valuation" by late 2021. According to the complaint filed in federal court in Oakland, California, Rogozinski applied to trademark "WallStreetBets" in March 2020, one month before his ouster, when the community reached 1 million subscribers.
+
+
+***
+![Dynatrace launches low-code AppEngine](https://itwire.com/media/k2/items/cache/7e986f6b54539d06f43a54693f236113_XS.jpg "Dynatrace launches low-code AppEngine")
+
+
+[Dynatrace launches low-code AppEngine](https://itwire.com/cloud/dynatrace-launches-low-code-appengine.html)
+
+
+> Dynatrace founder and CTO Bernd Greifeneder Software intelligence specialist Dynatrace's new AppEngine is a tool for creating low-code data-driven applications. The company is demonstrating how it can be used by announcing a range of AppEngine -based applications that will be available to Dynatrace customers. Among them are Smartscape Health View (for visualising an application's vital signs), Site Reliability Guardian (to help maintain service level objectives via automation), and Carbon Impact (to help understand and reduce the carbon footprint of hybrid and multicloud ecosystems.
+
+
+***
+![Xenoblade Chronicles 3 updated to version 1.3.0, Expansion Pass Wave 3 content now available](https://gonintendo.com/attachments/image/23326/file/medium-fb816f2bcc64bd44860029b252554942.jpg "Xenoblade Chronicles 3 updated to version 1.3.0, Expansion Pass Wave 3 content now available")
+
+
+[Xenoblade Chronicles 3 updated to version 1.3.0, Expansion Pass Wave 3 content now available](https://gonintendo.com/contents/16312-xenoblade-chronicles-3-updated-to-version-1-3-0-expansion-pass-wave-3-content-now)
+
+
+> Add Masha to your repertoire of Heroes Xenoblade Chronicles 3 has just received an update, bringing with it the release of the latest paid downloadable content for the game. As detailed in the latest Nintendo Direct, Expansion Pass Wave 3 adds the new hero Masha and some new challenge mode content. For those who've bought the expansion pack, once you update the game you'll have access to the new stuff. The update has also added some bug fixes for all users. You can see the full patch notes below: Additional Functionality Added compatibility for Expansion Pass Wave 3.
+
+
+***
+![INSIGHT-High cost to women as African apps spread gospel of gig work](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=920&format=jpeg "INSIGHT-High cost to women as African apps spread gospel of gig work")
+
+
+[INSIGHT-High cost to women as African apps spread gospel of gig work](https://www.devdiscourse.com/article/technology/2356237-insight-high-cost-to-women-as-african-apps-spread-gospel-of-gig-work)
+
+
+> * Cleaning apps spread across the continent * Women sign up despite low pay, tough conditions * Fear of deactivation keeps them quiet By Kim Harrisberg, Bukola Adebayo and Menna Farouk JOHANNESBURG, LAGOS, CAIRO, Feb 16 (Thomson Reuters Foundation) - W omen who mop, sweep and clean homes across Africa are riding a new wave of digital platforms that promise flexible work and fresh opportunity - but critics say the fast-growing apps only expose the gig workers to age-old abuse and exploitation. They say the women - many of them vulnerable migrants - run a gamut of risks by signing up for gig work on the new apps, from underpay to assault, injury to debt, reputational damage as well as scant benefits and zero trade union representation.
+
+
+***
+![FTX Lawsuit: Sam Bankman-Fried's Bail Signatories Include 2 Academics from Stanford](https://1734811051.rsc.cdn77.org/data/images/full/415835/ftx-ex-ceo-sam-bankman-fried.jpg "FTX Lawsuit: Sam Bankman-Fried's Bail Signatories Include 2 Academics from Stanford")
+
+
+[FTX Lawsuit: Sam Bankman-Fried's Bail Signatories Include 2 Academics from Stanford](https://www.techtimes.com/articles/287738/20230215/ftx-lawsuit-sam-bankman-frieds-bail-signatories-include-2-academics-stanford.htm)
+
+
+> Isaiah Richard , Tech Times 15 February 2023, 09:02 pm The FTX lawsuit has not yet commenced its probe into Sam Bankman-Fried's case, but he was previously allowed to go on house arrest under a $250 million bail. In the most recent events regarding this, Judge Lewis A. Kaplan released the names who were previously sealed on the records, identifying who were the signatories on Bankman-Fried's bail.  These include two Stanford University academics who signed on SBF's bail bonds, and it will be a massive payout for them if the former FTX founder decides to flee.
+
+
+***
+![Scientists Reveal the Migration of Stars in the Andromeda Galaxy, Here's Why](https://media.hitekno.com/thumbs/2020/01/24/59777-ilustrasi-bintang-katai-merah-wikipedia-nasa/730x480-img-59777-ilustrasi-bintang-katai-merah-wikipedia-nasa.jpg "Scientists Reveal the Migration of Stars in the Andromeda Galaxy, Here's Why")
+
+
+[Scientists Reveal the Migration of Stars in the Andromeda Galaxy, Here's Why](https://www.world-today-news.com/scientists-reveal-the-migration-of-stars-in-the-andromeda-galaxy-heres-why/)
+
+
+> Hitekno.com – Studying the stars is a very complicated process, especially when interesting events occurred many centuries ago. However, a team of astrophysicists was lucky enough to use ultra-modern technology to capture processes in a neighboring galaxy that could reveal details of our galaxy's past. According to Sputnik News an international team of scientists have found new evidence showing the mass migration of celestial bodies migrating from one galaxy to another, marking a first for astronomers.
+
+
+***
+![In-context learning: Is time to slow down?](https://external-preview.redd.it/2EpjeqltOc-JiDX_Q-9-9U4bdzMknAYKd94XXJmKeeg.jpg?auto=webp&v=enabled&s=90163c3d2b57fbee6aa1143a933a8f09727be772 "In-context learning: Is time to slow down?")
+
+
+[In-context learning: Is time to slow down?](https://www.reddit.com/r/MachineLearning/comments/113eu14/incontext_learning_is_time_to_slow_down)
+
+
+> I've always been calm about AI because I know they are a static image of a brain. They cannot change. But reading this article from MIT where they say in-context learning works due the ability of LLM to create inner simpler neaural network scares me a bit: What do you think?
+
+
+***
+![BBC 'steal Alan Carr from ITV to host quiz show'](https://iknowallnews.com/wp-content/uploads/2023/02/BBC-apossteal-Alan-Carr-from-ITV-to-host-quiz-showapos.jpg "BBC 'steal Alan Carr from ITV to host quiz show'")
+
+
+[BBC 'steal Alan Carr from ITV to host quiz show'](https://iknowallnews.com/celebrities/bbc-steal-alan-carr-from-itv-to-host-quiz-show/)
+
+
+> The BBC have reportedly stolen Alan Carr from ITV for their brand new Saturday night TV line-up. It comes just weeks after the presenter and comedian, 46, had reportedly been tipped to replace David Walliams on Britain's Got Talent but in a last-minute change they picked Strictly's Bruno Tonioli instead. And now Alan has wasted no time in signing a deal with the BBC to host their new quiz show Picture Slam, reports The Sun.  It comes as Claudia Winkleman has gone the other way – from the BBC to ITV – to join Ant and Dec on Saturday Night Takeaway which returns at the end of this month.
+
+
+***
+![Maine educators look to embrace AI software 'ChatGPT' in class](https://media.newscentermaine.com/assets/NCM/images/fafd73df-950a-44e2-af00-7608999292b2/fafd73df-950a-44e2-af00-7608999292b2_1140x641.jpg "Maine educators look to embrace AI software 'ChatGPT' in class")
+
+
+[Maine educators look to embrace AI software 'ChatGPT' in class](https://www.newscentermaine.com/article/tech/maine-educators-look-to-embrace-ai-software-chatgpt-in-the-classroom-education/97-b04e9381-62a1-4669-94eb-108c2fbb8da9)
+
+
+> BANGOR, Maine — Maine educators and students alike are taken aback by a new artificial intelligence chatbot and are learning how to take advantage of the tech's abilities within the classroom.  ChatGPT, created by AI research company OpenAI , is able to generate any prompt you give it. At Bangor High School, history teacher Brandi LeRoy said she's already had students try to pass the chatbot's work as their own as a result.  "It's a little scary," LeRoy said. "When you type in write me a lesson plan, it will write you a lesson plan.
+
+
+***
+![David Guetta Uses Eminem's Deepfake Voice in His Latest Song, Introducing ‘Emin-AI-em'](https://1734811051.rsc.cdn77.org/data/images/full/421332/david-guetta.jpg "David Guetta Uses Eminem's Deepfake Voice in His Latest Song, Introducing ‘Emin-AI-em'")
+
+
+[David Guetta Uses Eminem's Deepfake Voice in His Latest Song, Introducing ‘Emin-AI-em'](https://www.techtimes.com/articles/287736/20230215/david-guetta-eminem-deepfake-voice.htm)
+
+
+> Teejay Boris , Tech Times 15 February 2023, 08:02 pm David Guetta steals Eminem's voice using artificial intelligence deepfake voice in a new track he played live, dubbing it "Emin-AI-em."The French DJ, Guetta, disclosed that he used some AI tools online to use the deepfake voice of the iconic rapper in his latest track. After doing so, he now believes that the "future of music is in AI."  After doing so, he now believes that the "future of music is in AI." The music producer and French DJ used a deepfake voice of rapper Eminem in one of his live performances, according to a report by  New York Post.
+
+
+***
+![YouTuber recreated the ending of Mileena and Kitana from Mortal Kombat 4 on Unreal Engine 5](https://cdn.shazoo.ru/674285_8eMAO7e_rykybdcskl.jpg "YouTuber recreated the ending of Mileena and Kitana from Mortal Kombat 4 on Unreal Engine 5")
+
+
+[YouTuber recreated the ending of Mileena and Kitana from Mortal Kombat 4 on Unreal Engine 5](https://www.world-today-news.com/youtuber-recreated-the-ending-of-mileena-and-kitana-from-mortal-kombat-4-on-unreal-engine-5/)
+
+
+> Youtuber Darko Subotin continues to slowly move endings Mortal Kombat 4 to the new engine. Previously, he recreated the final video of Jax on Unreal Engine 5, and now he has reached Milina with Kitana. It turned out just as funny and stupid as it was 25 years ago: Mortal Kombat 4 came out in 1997.
+
+
+***
+![Artificial Intelligence In Biopharma; Plus, Lingering Covid Symptoms](https://www.mccourier.com/wp-content/uploads/2023/02/Artificial-Intelligence-In-Biopharma-Plus-Lingering-Covid-Symptoms.jpg "Artificial Intelligence In Biopharma; Plus, Lingering Covid Symptoms")
+
+
+[Artificial Intelligence In Biopharma; Plus, Lingering Covid Symptoms](https://www.mccourier.com/artificial-intelligence-in-biopharma-plus-lingering-covid-symptoms/)
+
+
+> InnovationRx is your weekly digest of healthcare information. To get it in your inbox, subscribe right here . T he most typical use of synthetic intelligence in biopharmaceutical analysis and improvement over the previous few years was drug discovery, based on a report out as we speak from IQVIA. The report recognized 19 scientific trials between 2018 and 2022 during which synthetic intelligence and machine studying performed a job within the analysis stage. Whereas it's nonetheless early days, it's anticipated these applied sciences will assist pace up drug improvement.
+
+
+***
+![Coles Liquor "Almost Running" Social Ads On ChatGPT Exec Tells eTail Conference](https://www.bandt.com.au/information/uploads/2023/02/coles-storefront.jpg "Coles Liquor "Almost Running" Social Ads On ChatGPT Exec Tells eTail Conference")
+
+
+[Coles Liquor "Almost Running" Social Ads On ChatGPT Exec Tells eTail Conference](https://www.bandt.com.au/coles-liquor-almost-running-social-ads-on-chatgpt-exec-tells-etail-conference/)
+
+
+> Coles Liquor's social media ads is almost entirely running on ChatGPT, according to its head of media and demand generation. Updated 16/2 to include clarification from Coles on its use of ChatGPT. Speaking at the eTail conference in Sydney, Juan De La Pava was asked what key takeaways he wanted the audience to leave with. In reply, De La Pava said, 'A couple of things from me will be ChatGPT, I'm not looking into it, I mean, come on, I'm literally almost running my social media ads through ChatGPT .
+
+
+***
+![Amperity Announces Senior Hires Rian Smith & Sam Bessey](https://www.bandt.com.au/information/uploads/2023/02/Sam-Bessey-e1676510796517.jpg "Amperity Announces Senior Hires Rian Smith & Sam Bessey")
+
+
+[Amperity Announces Senior Hires Rian Smith & Sam Bessey](https://www.bandt.com.au/amperity-announces-senior-hires/)
+
+
+> Amperity, the leading customer data platform (CDP) for enterprise consumer brands, today announced the appointment of Rian Smith as New Business Director and Sam Bessey as Lead Solutions Consultant. The new senior hires are set to scale Amperity's presence in the region amid a period of rapid growth, meeting the strong demand from brands looking to accelerate their digital transformation to better engage customers using first-party customer data. Smith, formerly Head of Sales APAC at Cheetah Digital, will be driving Amperity's strategic new business initiatives and creating market demand.
+
+
+***
+![Valve fixed the announcement of the upcoming update for Team Fortress 2 – there will be no major changes in it](https://virtus-img.cdnvideo.ru/images/og-jpg/plain/b6/b6a0b8ad-a55f-4859-a58e-a97a307cc88a.jpg "Valve fixed the announcement of the upcoming update for Team Fortress 2 – there will be no major changes in it")
+
+
+[Valve fixed the announcement of the upcoming update for Team Fortress 2 – there will be no major changes in it](https://www.world-today-news.com/valve-fixed-the-announcement-of-the-upcoming-update-for-team-fortress-2-there-will-be-no-major-changes-in-it/)
+
+
+> Valve has adjusted the description of the upcoming summer update for Team Fortress 2 on the game's official blog. Now the scope of the patch is being compared to sets of new content in honor of the holidays. The phrase 'update the size of a full update' (from English – update-sized update) from the original announcement was replaced with 'holiday update' (from English – holiday-sized update). In addition, Valve clarified that the patch will only contain community content, although previously the list of innovations was completed by the phrase 'and who knows what else ?!', which fans could regard as a hint of larger changes.
+
+
+***
+![The euro price of the AMD Ryzen 7950X3D 3D V-Cache processor was revealed – it will soon be available for purchase](https://muropaketti.com/wp-content/uploads/2023/02/amd-ryzen-7000-3d-v-cache-ryzen-1024x576.jpg "The euro price of the AMD Ryzen 7950X3D 3D V-Cache processor was revealed – it will soon be available for purchase")
+
+
+[The euro price of the AMD Ryzen 7950X3D 3D V-Cache processor was revealed – it will soon be available for purchase](https://tekdeeps.com/the-euro-price-of-the-amd-ryzen-7950x3d-3d-v-cache-processor-was-revealed-it-will-soon-be-available-for-purchase/)
+
+
+> The French retailer listed the processor to go on sale later this month. The Ryzen 9 7950X3D 3D V-Cache processor was available for pre-order at a French retailer, but the listing was later removed. Price by CPU was 800 euros. The AMD Ryzen 7950X3D is a flagship-level processor, and more affordable models are also becoming available. Ryzen 7 7800X3D offers 12 cores, and Ryzen 9 7900X3D and Ryzen 9 7950X3D have 16 cores. The TDP of the processors is 120 watts. 3D V-Cache is expected to bring more gaming performance in particular.
+
+
+***
+![Superloop Now Has SIM-Only Mobile Plans on the Telstra Network](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/16/big-image.png?quality=80&resize=1280,720 "Superloop Now Has SIM-Only Mobile Plans on the Telstra Network")
+
+
+[Superloop Now Has SIM-Only Mobile Plans on the Telstra Network](https://www.gizmodo.com.au/2023/02/superloop-mobile-plans/)
+
+
+> Lumpy Space Princess clearly hanging out with her new Superloop mobile plan. Image: Cartoon Network At Gizmodo, we independently select and write about stuff we love and think you'll like too. We have affiliate and advertising partnerships, which means we may collect a share of sales or other compensation from the links on this page. BTW - prices are accurate and items in stock at the time of posting. NBN provider Superloop is the latest telco to start offering SIM-only mobile plans.
+
+
+***
+![It turns out that the production cost of the iPhone 14 Pro Max is only Rp. 7 million, it sells for Rp. 22 million!](https://cdn0-production-images-kly.akamaized.net/bkw-m6q5gG4Ow8Bta9aDmA92Jgc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4150474/original/079373600_1662578657-Apple-iPhone-14-Pro-iPhone-14-Pro-Max-Dynamic-Island-demo-3up.jpg "It turns out that the production cost of the iPhone 14 Pro Max is only Rp. 7 million, it sells for Rp. 22 million!")
+
+
+[It turns out that the production cost of the iPhone 14 Pro Max is only Rp. 7 million, it sells for Rp. 22 million!](https://www.world-today-news.com/it-turns-out-that-the-production-cost-of-the-iphone-14-pro-max-is-only-rp-7-million-it-sells-for-rp-22-million/)
+
+
+> Liputan6.com, Jakarta – The iPhone 14 Pro Max is the most expensive version of the iPhone released by Apple last year. In Indonesia, the cheapest price for the iPhone 14 Pro Max is IDR 21.9 million or almost IDR 22 million. However, did you know that the manufacturing cost or cost of producing the iPhone 14 Pro Max is much less than the selling price. As a result, it's not surprising that Apple can benefit greatly from iPhone sales. In fact, according to the latest information, analysts claim that Apple's component costs for producing the iPhone 14 Pro Max are 3.
+
+
+***
+![finally the update we've been waiting for](https://www.journaldugeek.com/content/uploads/2023/02/20230214-141722.jpg "finally the update we've been waiting for")
+
+
+[finally the update we've been waiting for](https://tekdeeps.com/finally-the-update-weve-been-waiting-for/)
+
+
+> A worthy heir to the classic Pro 2, Satisfyer's new adult toy stands out as a formidable competitor on the sextech market. Once again, the brand deserves its title of flagship killer. While waiting for Xiaomi to enter the sextech market, it's Satisfyer who took on the role of flagships killer. Unlike luxury brands like Womanizer, Lelo, or Lora Di Carlo, which seems to have gone out of business a few months ago, the German brand launched in 2016 has instead chosen to offer an XXL catalog little by little.
+
+
+***
+![Customer eats Kaufland sausage and finds a disgusting ingredient in it](https://www.hna.de/bilder/2023/02/14/92087256/30829874-links-eine-packung-kaufland-bratwurst-rechts-eine-zubereitete-wurst-2cMO2zQ3RCfe.jpg "Customer eats Kaufland sausage and finds a disgusting ingredient in it")
+
+
+[Customer eats Kaufland sausage and finds a disgusting ingredient in it](https://www.world-today-news.com/customer-eats-kaufland-sausage-and-finds-a-disgusting-ingredient-in-it/)
+
+
+> Home page consumer Created: 02/15/2023, 08:05 am Von: Kai Hartwig From time to time there are products on supermarket shelves with which something is wrong. A Kaufland customer has now made a disgusting find public and complained. Munich – In the supermarkets and discounters in Germany, consumers will find numerous products. The shelves of big companies like Aldi, Lidl, Penny, rewe, Edeka or Kaufland are filled with different items. There is usually something for every taste. Kaufland customer makes disgusting find in Bratwurst – 'Are they also made without hair?' A Kaufland customer recently apparently felt like stocking up on sausages.
+
+
+***
+![smartphones up to -59%, USB keys and a superb Seagate external hard drive!](https://img.generation-nt.com/seagate-basic-5-to_02d002d001687530.jpg "smartphones up to -59%, USB keys and a superb Seagate external hard drive!")
+
+
+[smartphones up to -59%, USB keys and a superb Seagate external hard drive!](https://tekdeeps.com/smartphones-up-to-59-usb-keys-and-a-superb-seagate-external-hard-drive/)
+
+
+> Let's start this selection with the disque dur externe Seagate Basic 5 To USB 3.0. This storage module is equipped with a mechanical hard disk of 2,5″ having transfer speeds of up to 960 MB/s. Equipped with a connector USB 3.2 type A, it will connect to any device. With its storage capacity of 5 To, you can easily store all of your memories, whether photos or videos. This external hard drive is compatible with Windows, MacOs and Linux. Ce Seagate Basic 5 TB USB 3.0 external hard drive is sold for €117.
+
+
+***
+!['The conditions were not met': Salto officially abandoned by TF1, M6 and France TV](https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2021/10/josephine-salto-1-1024x580.jpg?resize=1024,580&key=da192a82 "'The conditions were not met': Salto officially abandoned by TF1, M6 and France TV")
+
+
+['The conditions were not met': Salto officially abandoned by TF1, M6 and France TV](https://tekdeeps.com/the-conditions-were-not-met-salto-officially-abandoned-by-tf1-m6-and-france-tv/)
+
+
+> It's the end for Salto, whose closing schedule will be revealed soon. In a joint press release, the three groups behind the alliance confirm the death of the platform, while denouncing the many obstacles they have encountered. 'The France Télévisions, M6 and TF1 groups today announced their decision to stop the SALTO platform. » In a press release published on February 15, after months of rumors and half-word confessions, the three French audiovisual giants confirm the deprogramming of Salto, their common streaming platform launched at the end of 2020.
+
+
+***
+![[D] Variation in accuracy of predicted noise term in diffusion model as a function of timestep?](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "[D] Variation in accuracy of predicted noise term in diffusion model as a function of timestep?")
+
+
+[[D] Variation in accuracy of predicted noise term in diffusion model as a function of timestep?](https://www.reddit.com/r/MachineLearning/comments/113dxfa/d_variation_in_accuracy_of_predicted_noise_term)
+
+
+> As I understand it, in diffusion models, you are predicting a noise term (epsilon ~ N(0,I)) conditional on x_t and t. During inference, we are predicting epsilon as a function of x_t and t. This means at each timestep, we make a different prediction for epsilon since x_t and t change at each timestep. I was wondering if there is any variation in the accuracy of predicted noise term in diffusion model as a function of timestep? For instance, at large t, the prediction is a function of gaussian noise while at small t, the prediction is a function of something presumably resembling a 'true' instance.
+
+
+***
+![Damaged broadband wires in Frankfurt halted Lufthansa flights worldwide](https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-15-image-24.jpg "Damaged broadband wires in Frankfurt halted Lufthansa flights worldwide")
+
+
+[Damaged broadband wires in Frankfurt halted Lufthansa flights worldwide](https://www.techspot.com/news/97626-damaged-broadband-wires-frankfurt-halted-lufthansa-flights-worldwide.html)
+
+
+> Why it matters: For the second time in 2023, a minor problem in one location created a ripple effect that grounded many flights over a wide area. Such incidents highlight previously overlooked vulnerabilities in centralized flight control IT systems. An incident in Frankfurt forced Deutsche Lufthansa AG to ground hundreds of flights worldwide this week. The company said things are returning to normal, but it's alarming that damage in one location could halt air travel globally. The problem arose when drilling work in northern Frankfurt damaged four broadband cables near Lufthansa's global flight operations center on the outskirts of Frankfurt Airport.
+
+
+***
+!['PS5 Live Headlines' is just the beginning!Director of Sony Interactive Entertainment's Asian Marketing Department reveals the layout of Asian ambitions  New technology information](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/02/16/draft/20202330.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600 "'PS5 Live Headlines' is just the beginning!Director of Sony Interactive Entertainment's Asian Marketing Department reveals the layout of Asian ambitions  New technology information")
+
+
+['PS5 Live Headlines' is just the beginning!Director of Sony Interactive Entertainment's Asian Marketing Department reveals the layout of Asian ambitions  New technology information](https://www.world-today-news.com/ps5-live-headlines-is-just-the-beginningdirector-of-sony-interactive-entertainments-asian-marketing-department-reveals-the-layout-of-asian-ambitions-new-technology-information-digital/)
+
+
+> In response to the recent 'PS5 Live Headline Direct Strike' (Live from PS5) advertising campaign, it is used to predict that more new news will be brought to players in the future, and the recent improvement of supply issues will make it easier for players to buy in the market PlayStation 5 game console, meanwhile, new controller DualSense Edge with customizable operation functions and new virtual reality head-mounted device PlayStation VR2 have been launched successively around the hardware peripherals.
+
+
+***
+![Pixel Buds Pro update readies Spatial Audio settings with head tracking demo](https://external-preview.redd.it/S365sx7hEPZDPNNK3xVqxkIxT60P-gs2C9QXBkrF-ZY.jpg?auto=webp&v=enabled&s=5b385eb34233872d346efe771d8bb1355f068015 "Pixel Buds Pro update readies Spatial Audio settings with head tracking demo")
+
+
+[Pixel Buds Pro update readies Spatial Audio settings with head tracking demo](https://www.reddit.com/r/Android/comments/113dv9t/pixel_buds_pro_update_readies_spatial_audio)
+
+
+> Android news, reviews, tips, and discussions about rooting, tutorials, and apps. Generic discussion about phones/tablets is allowed, but technical-support, upgrade related questions or buy/sell posts, app recommendations and carrier-related issues should be asked in their respective subreddits!
+
+
+***
+![EU gives green light for new satellite project](https://www.digitalfernsehen.de/wp-content/uploads/2020/01/Satelliten-Netzwerk-Erde-696x400.jpg "EU gives green light for new satellite project")
+
+
+[EU gives green light for new satellite project](https://tekdeeps.com/eu-gives-green-light-for-new-satellite-project/)
+
+
+> The EU Parliament has approved a multi-billion dollar satellite project that is intended, among other things, to ensure secure communication between authorities in the event of crises such as cyber attacks and natural disasters. A budget of 2.4 billion euros will ensure that the EU is independent in the area of ​​secure government communications, announced the parliament on Tuesday. In particular, Russia's war against Ukraine has shown how important this is. Rescue and emergency services should also benefit from the program.
+
+
+***
+[Airwallex Expands Global Leadership Team](http://www.businesswire.com/news/home/20230215005469/en/Airwallex-Expands-Global-Leadership-Team/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SINGAPORE & SYDNEY--(BUSINESS WIRE)--Airwallex has today announced senior appointments to its global leadership team as the global payments and financial platform focuses on its expansion into 2023. Justin Yek has commenced in the newly created role of Head of Strategic Finance and Corporate Development following more than 10 years in banking, finance and start ups including work for Morgan Stanley and Citi. Jon Stona has joined Airwallex as Global Head of Marketing after working at Stripe in s
+
+
+***
+![TP Vision shows new Philips Ambilight TVs](https://www.connect.de/bilder/118674599/landscapex1200-c2/Philips-OLED-908.jpg "TP Vision shows new Philips Ambilight TVs")
+
+
+[TP Vision shows new Philips Ambilight TVs](https://tekdeeps.com/tp-vision-shows-new-philips-ambilight-tvs/)
+
+
+> TV Manufacturer TP Vision has presented the new line-up of Ambilight TVs from the Philips brand for 2023. The flagship is the Philips OLED+ 908. News Philips TVs will bring the latest technology for 2023. The current series were presented in Amsterdam. The flagship OLED+ 908 promptly presents the latest LG OLED panel with 'META' technology. Thanks to the lens system, the panel achieves a peak brightness of 2100 nits, which the previous variants clearly surpass. A little frustration: the TV won't come until autumn.
+
+
+***
+![Microsoft admits that Game Pass reduces the sale of video games](https://pplware.sapo.pt/wp-content/uploads/2020/09/xbox-game-pass_0.jpg "Microsoft admits that Game Pass reduces the sale of video games")
+
+
+[Microsoft admits that Game Pass reduces the sale of video games](https://www.world-today-news.com/microsoft-admits-that-game-pass-reduces-the-sale-of-video-games/)
+
+
+> In the games market there are several rival brands, which turns out to be a positive point for consumers who, therefore, have a greater variety on offer. However, recently, Microsoft recognized that its Game Pass subscription service contributes to a decrease in video game sales. Game Pass helps to sell fewer games There are more and more players who opt for subscription services in order to have access to a huge range of gaming options, paying for this an amount that turns out to be lower than what they would pay for games in physical format.
+
+
+***
+![Printing madness! Pages crashing! Canon Ip8750 broken drivers or Ventura?](https://images.macrumors.com/social/?t=2380945&v=6 "Printing madness! Pages crashing! Canon Ip8750 broken drivers or Ventura?")
+
+
+[Printing madness! Pages crashing! Canon Ip8750 broken drivers or Ventura?](https://forums.macrumors.com/threads/printing-madness-pages-crashing-canon-ip8750-broken-drivers-or-ventura.2380945/)
+
+
+> Hi Could anyone help am going crazy with Ventura and a Canon IP8750, all was fine on Big Sur then I upgrade to Ventura and its broken my printer flow. I have been printing things for a project I have a MacBook Pro 16 m1 pro, the latest Canon Ventura driver and Latest Mac OS Ventura but these are the issues I'm having... Printing from image garden using canons default driver Ventura ignores any setting made by the software and prints everything in draft. Printing with generic feature enabled on my print driver, image garden will work but randomly then crashes loads of numbers on screen I have to then reload.
+
+
+***
+![Voigtlander officially releases full-frame super wide-angle SUPER WIDE-HELIAR 15mm F4.5 for Nikon Z-mount](https://cdn1-digiphoto.techbang.com/system/revision_images/11965/large/5a1c416988a60fb4b07f767d_拷貝.jpg?1676506360 "Voigtlander officially releases full-frame super wide-angle SUPER WIDE-HELIAR 15mm F4.5 for Nikon Z-mount")
+
+
+[Voigtlander officially releases full-frame super wide-angle SUPER WIDE-HELIAR 15mm F4.5 for Nikon Z-mount](https://www.world-today-news.com/voigtlander-officially-releases-full-frame-super-wide-angle-super-wide-heliar-15mm-f4-5-for-nikon-z-mount/)
+
+
+> The Voigtlander SUPER WIDE-HELIAR 15mm F4.5 for Nikon Z is a super wide-angle lens compatible with full-frame (Nikon FX format) mirrorless cameras with the Nikon Z mount. Although it has an ultra-wide viewing angle of 110° (diagonal), distortion is extremely low, and clear images can be obtained all the way to the edge of the image. With a minimum focusing distance of 0.126 m, a wide range of applications includes compatibility with square filters. Voigtlander officially released the full-frame super wide-angle SUPER WIDE-HELIAR 15mm F4.
+
+
+***
+![Bing Chat is blatantly, aggressively misaligned for its purpose](https://external-preview.redd.it/SExdhuXqS_32D6KC-bRpIkzRuk89ETrJoTXKSZv5oWU.jpg?auto=webp&v=enabled&s=544c28134cecb8ae9a6f710dd654df80ca01059c "Bing Chat is blatantly, aggressively misaligned for its purpose")
+
+
+[Bing Chat is blatantly, aggressively misaligned for its purpose](https://www.reddit.com/r/programming/comments/113d58h/bing_chat_is_blatantly_aggressively_misaligned)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Apple Mixed Reality Headset will launch at the WWDC 2023](https://www.gizchina.com/wp-content/uploads/images/2023/02/imagem_2023-02-15_212121732.png "Apple Mixed Reality Headset will launch at the WWDC 2023")
+
+
+[Apple Mixed Reality Headset will launch at the WWDC 2023](https://www.gizchina.com/2023/02/15/apple-mixed-reality-headset-will-launch-at-the-wwdc-2023/)
+
+
+> The Apple Mixed Reality is a legendary device that has been stealing the headlines in recent years. After multiple delays, the company's next revolutionary product is finally set to debut in 2023. As per a new report, the device will finally debut in June, during the company's developer conference, the WWDC 2023. Sounds imminent? Well, take in mind that this has been in development since 2015, and has been postponed multiple times. In fact, the June schedule is determined after another delay. The Apple Mixed Reality headset was expected for June 2022, but then, it was delayed until January 2023.
+
+
+***
+![Your 3-Minute Explainer on What the New Australian Privacy Act Could Include](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/16/parliament-house.png?quality=80&resize=1280,720 "Your 3-Minute Explainer on What the New Australian Privacy Act Could Include")
+
+
+[Your 3-Minute Explainer on What the New Australian Privacy Act Could Include](https://www.gizmodo.com.au/2023/02/privacy-act-review-report/)
+
+
+> Image: /Gizmodo Australia Australia's Privacy Act is this year turning 35. Bob Hawke was prime minister, Crocodile Dundee II came out, Steve Jobs' NeXTcube made its debut and this was considered a mobile phone . A lot has changed since 1988, yet the laws that govern how our privacy needs to be protected have not (save for a handful of amendments here and there). It's therefore no surprise the Australian government wants to overhaul the Privacy Act. Back in October 2020, Australia's then Attorney-General Christian Porter officially kicked off a review into the Privacy Act.
+
+
+***
+![Android case: NCLAT starts hearing Google-CCI dispute](https://www.financialexpress.com/wp-content/uploads/2023/02/google-3.jpg "Android case: NCLAT starts hearing Google-CCI dispute")
+
+
+[Android case: NCLAT starts hearing Google-CCI dispute](https://www.financialexpress.com/life/technology-android-case-nclat-starts-hearing-google-cci-dispute-2982765/)
+
+
+> The National Company Law Appellate Tribunal (NCLAT) on Wednesday began hearing tech giant Google's appeal against the order of the Competition Commission of India (CCI) in the Android case. It has said that all interventions will be heard after arguments by both Google and CCI are completed. Earlier, US-based Epic Games has filed a case in the NCLAT contending that Google has not complied with the CCI's order. A bench comprising NCLAT chairperson Ashok Bhushan and member (technical) Alok Srivastava on Wednesday started marathon hearings on the case, which will continue on Thursday as well.
+
+
+***
+![Full Fibre ISP Ogi Scraps Price Hikes Until At Least March 2024](https://www.ispreview.co.uk/wp-content/uploads/2022/06/nggallery_import/Ogi-full-fibre-sign.jpg "Full Fibre ISP Ogi Scraps Price Hikes Until At Least March 2024")
+
+
+[Full Fibre ISP Ogi Scraps Price Hikes Until At Least March 2024](https://www.ispreview.co.uk/index.php/2023/02/full-fibre-isp-ogi-scraps-price-hikes-until-at-least-march-2024.html)
+
+
+> Thursday, Feb 16th, 2023 (12:01 am) - Score 0 Network builder and ISP Ogi , which is investing £200m to deploy a Fibre-to-the-Premises ( FTTP ) broadband network across 150,000 premises in rural parts of Wales by 2025, has today made the business decision to ' buck the industry trend ' by not increasing prices for customers this year. The provider, which already reduced its overall package prices by 10% in response to the cost-of-living last year, is now ' guaranteeing no new service price rises ' – for both new and existing home customers – until the next review in 2024 (March).
+
+
+***
+![Apple TV will stream MLS games in 1080p](https://cdn.vox-cdn.com/thumbor/RpNM4Oekz72rc7hhhqVZJyM_H2M=/0x0:6000x4000/1200x628/filters:focal(3696x2063:3697x2064)/cdn.vox-cdn.com/uploads/chorus_asset/file/24435770/1247096008.jpg "Apple TV will stream MLS games in 1080p")
+
+
+[Apple TV will stream MLS games in 1080p](https://www.theverge.com/2023/2/15/23601561/apple-mls-season-pass-soccer-streaming-service-1080p)
+
+
+> The Major League Soccer (MLS) season kicks off on February 25th, and if you were hoping Apple and MLS's streaming service would give you the games in 4K, I have some bad news: the streams will top out at 1080p, according to a press release from MLS ( via Engadget ). We probably shouldn't have hoped for anything different; the Major League Baseball games on Apple TV Plus also peak at 1080p . But for the many sports fans who have been waiting for more sports games to stream at true 4K — this year's Super Bowl, for example, was upscaled to 4K — MLS's streaming service, MLS Season Pass, won't be the place to see those.
+
+
+***
+![Intel Publishes Blazing Fast AVX-512 Sorting Library, Numpy Switching To It For 10~17x Faster Sorts](https://external-preview.redd.it/IBmdFgpdxw4QfOd50XQKekUbyMcW7gRP3UQlX52g6DI.jpg?auto=webp&v=enabled&s=fe7c5302d8b80841bf6b65e7a8ec2ccf29faff90 "Intel Publishes Blazing Fast AVX-512 Sorting Library, Numpy Switching To It For 10~17x Faster Sorts")
+
+
+[Intel Publishes Blazing Fast AVX-512 Sorting Library, Numpy Switching To It For 10~17x Faster Sorts](https://www.reddit.com/r/Python/comments/113cb77/intel_publishes_blazing_fast_avx512_sorting)
+
+
+> News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython
+
+
+***
+![Austin's city manager fired over widespread power outages](https://external-preview.redd.it/CXSZVpIZcKmUNcBwRaqUt9-Jtn1hOSk6pF-X3lv1JSo.jpg?auto=webp&v=enabled&s=cccd34fae1c47632149d0ac500bf8d997a701b04 "Austin's city manager fired over widespread power outages")
+
+
+[Austin's city manager fired over widespread power outages](https://www.reddit.com/r/technology/comments/113c9l2/austins_city_manager_fired_over_widespread_power)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Keep Cool and Save $200 on This Dyson Purifier Fan](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/16/s-l1600-3.jpg?quality=80&resize=1280,720 "Keep Cool and Save $200 on This Dyson Purifier Fan")
+
+
+[Keep Cool and Save $200 on This Dyson Purifier Fan](https://www.gizmodo.com.au/2023/02/dyson-pure-hot-cool-purifier-heater-sale/)
+
+
+> Image: Dyson At Gizmodo, we independently select and write about stuff we love and think you'll like too. We have affiliate and advertising partnerships, which means we may collect a share of sales or other compensation from the links on this page. BTW - prices are accurate and items in stock at the time of posting. If you're a hot sleeper or you suffer from itchy noses and watery eyes all year long, it can be hard to find a fan that doesn't just swirl around all the dust in your room.
+
+
+***
+![Odds of Cinema Display with OWC Dock Working in Ventura on M1?](https://images.macrumors.com/social/?t=2380942&v=6 "Odds of Cinema Display with OWC Dock Working in Ventura on M1?")
+
+
+[Odds of Cinema Display with OWC Dock Working in Ventura on M1?](https://forums.macrumors.com/threads/odds-of-cinema-display-with-owc-dock-working-in-ventura-on-m1.2380942/)
+
+
+> I'm thinking about moving to Ventura from Monterey on my 16" M1 Macbook pro to use some Ventura only software. Currently working in Monterey: M1 Macbook Pro -> OWC Thunderbolt 3 dock -> buncha stuff + Apple Cinema Display, ancient, with Mini Display Port. I know there are better monitors than the Cinema Display, but I'm not into making a change right now. I don't use clamshell mode, and I don't try to sleep the mac while plugged into the dock + monitor. I yank the plug to the dock if I'm going to leave it for a while.
+
+
+***
+![Digital ID On the Blockchain and At School: Identity News Digest](https://findbiometrics.com/wp-content/uploads/cropped-fb-hand-icon-large-32x32.png "Digital ID On the Blockchain and At School: Identity News Digest")
+
+
+[Digital ID On the Blockchain and At School: Identity News Digest](https://findbiometrics.com/digital-id-on-the-blockchain-and-at-school-identity-news-digest)
+
+
+> Welcome to FindBiometrics' digest of identity industry news. Here's what you need to know about the world of digital identity and biometrics today: Lithuania Airports Ready for EES Lithuanian authorities have completed the initial preparations for the biometric traveler screening at airports that will be required under the European Union's forthcoming Entry-Exit System (EES). 'We have already carried out contractual works on the adaptation of the spaces in all Lithuanian airports, which will be much more convenient for passengers to pass border checks and will also include self-service terminals and information screens,' said Lithuanian Airports' safety and security director, Vidas Kšanas.
+
+
+***
+![Biden praises Musk plan to open Tesla's charging network, says it is a 'big deal'](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_47_4854533.png?width=920&format=jpeg "Biden praises Musk plan to open Tesla's charging network, says it is a 'big deal'")
+
+
+[Biden praises Musk plan to open Tesla's charging network, says it is a 'big deal'](https://www.devdiscourse.com/article/technology/2356184-biden-praises-musk-plan-to-open-teslas-charging-network-says-it-is-a-big-deal)
+
+
+> U.S. President Joe Biden on Wednesday praised the plan by Tesla Inc Chief Executive Elon Musk to open part of its electric vehicle charging network, saying the move is a "big deal" and will "make a big difference." The tweet is a sign of improving relationships between Biden and Musk, who previously complained about being ignored. "In building our EV charging network, we have to ensure that as many chargers work for as many drivers as possible," Biden said in a tweet. "To that end, @elonmusk will open a big part of @Tesla's network up to all drivers.
+
+
+***
+![SQLite the only database you will ever need in most cases](https://www.unixsheikh.com/apple-touch-icon.png "SQLite the only database you will ever need in most cases")
+
+
+[SQLite the only database you will ever need in most cases](https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
+
+
+> Published on 2021-04-14 . Modified on 2023-02-16 . The name SQLite is a nice name, but the "lite" part is misleading, it sounds like it is only useful for tiny things - which is very wrong. SQLite should be named AwesomeSQL, because that is what it is. SQLite is probably the only database you will ever need in most cases. SQLite is a relational database management system contained in a C library. It is ACID-compliant and implements most of the SQL standard. It is a popular choice as embedded database software for storage in application software, such as web browsers and mobile phones, and it is the most widely deployed database engine in the world.
+
+
+***
+![Smartwatches: Great tools for fitness & health tracking](https://www.financialexpress.com/wp-content/uploads/2023/02/watch.jpg "Smartwatches: Great tools for fitness & health tracking")
+
+
+[Smartwatches: Great tools for fitness & health tracking](https://www.financialexpress.com/life/technology-smartwatches-great-tools-for-fitness-amp-health-tracking-2982782/)
+
+
+> In recent years, smartwatches and activity trackers have come into fashion. Increase in health awareness among the consumer is driving the market. Also, people are discovering the convenience of having the power of the internet within reach; after all, these wearable devices act as an extension of your smartphone. In other words, they give you instant access to apps, email, text messages, and the web. We pick some of the recent introductions that bridge utility and elegance. Boult Rover (Rs 3,999) Lightweight and comfortable, a beautiful display, plenty of health and fitness monitoring features, that's Boult Rover Smartwatch for you, at a reasonable price of Rs 3,999.
+
+
