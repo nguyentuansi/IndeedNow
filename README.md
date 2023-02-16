@@ -36071,3 +36071,845 @@
 > The first two seasons of Star Trek: Picard had their share of Easter eggs for longtime fans to spot. But just with one episode, season three blew the previous two out of the water in this regard. With the final season a swan song for the Star Trek: The Next Generation crew , the producers stuffed these episodes full of fun winks and nods for fans. Here are a few we spotted in the first episode, appropriately titled 'The Next Generation.' Paramount+ The Opening Title Card CBS/Viacom/Paramount Pictures The opening title card says 'In the 25th Century…' This didn't just tell us when the show took place, but it's a direct homage to how the title card from Star Trek II: The Wrath of Khan appeared.
 
 
+***
+![British police risk Chinese drones, CCTV](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/16043934/chrisdorney.jpg "British police risk Chinese drones, CCTV")
+
+
+[British police risk Chinese drones, CCTV](https://shepherdgazette.com/british-police-risk-chinese-drones-cctv/)
+
+
+> British police forces are being 'shot through with Chinese camera technology,' the British camera officer warned on Wednesday. The warning came from a survey of UK police forces conducted by the Biometrics and Surveillance Cameras Commissioner's Office in the second half of 2022. This comes amid heightened concerns about Chinese surveillance capabilities in recent weeks following the downing of a Chinese 'spy balloon' over North America and the downing of three other unidentified flying objects.
+
+
+***
+![OnePlus Competing Again with Apple with OnePlus Pad](https://telecomtalk.info/wp-content/uploads/2023/02/oneplus-competing-again-with-apple-with-oneplus.jpg "OnePlus Competing Again with Apple with OnePlus Pad")
+
+
+[OnePlus Competing Again with Apple with OnePlus Pad](https://telecomtalk.info/oneplus-competing-again-with-apple-with-oneplus/677303/)
+
+
+> When OnePlus started selling smartphones, it sort of created an image of being a flagship killer. Its smartphones were so good that they were compared to the high-end premium phones from Apple and Samsung. Apple has gone much ahead in delivering a premium and consistent experience compared to OnePlus smartphones. When OnePlus started selling smartphones, it sort of created an image of being a flagship killer. Its smartphones were so good that they were compared to the high-end premium phones from Apple and Samsung.
+
+
+***
+![Limited Time Offer: Save 25% on NieR:Automata The End of YoRHa](https://gonintendo.com/attachments/image/23362/file/medium-ac820f204197a8cce6a710322d1ebe9f.jpg "Limited Time Offer: Save 25% on NieR:Automata The End of YoRHa")
+
+
+[Limited Time Offer: Save 25% on NieR:Automata The End of YoRHa](https://gonintendo.com/contents/16332-limited-time-offer-save-25-on-nier-automata-the-end-of-yorha)
+
+
+> Reclaim Earth in the award winning post-apocalyptic Action RPG. Glory to Mankind NieR:Automata The End of YoRHa Edition is the Nintendo Switch™ version of NieR:Automata, an award-winning post-apocalyptic action RPG that has achieved deep-rooted popularity around the world. The distant future… Invaders from another world attack without warning, unleashing a new type of threat: weapons known as 'machine lifeforms.' In the face of this insurmountable threat, mankind is driven from Earth and takes refuge on the Moon.
+
+
+***
+![Bharti Airtel Broadband Is on Track to Achieve 30 Million Home Passes](https://telecomtalk.info/wp-content/uploads/2023/02/bharti-airtel-broadband-achieve-30million-home-passes.jpg "Bharti Airtel Broadband Is on Track to Achieve 30 Million Home Passes")
+
+
+[Bharti Airtel Broadband Is on Track to Achieve 30 Million Home Passes](https://telecomtalk.info/bharti-airtel-broadband-achieve-30million-home-passes/677328/)
+
+
+> Bharti Airtel offers home broadband services through Airtel Xstream Fiber offerings, and Bharti Airtel customers can also enjoy the flexibility offered by Airtel Black Plans for availing broadband (Fiber + Landline) services. Broadband internet has become an essential part of daily life for many people, and having a reliable, high-speed internet connection at home has become increasingly important. Also Read:  How Airtel Black Plans Uniquely Serve Consumer Needs of DTH, Mobile and Fiber Together Airtel Xstream Fiber Additions during Quarter A reliable broadband connection at home is crucial for work, education, entertainment, communication, and online transactions Airtel Xstream Fiber comes with Fiber and Landline, which can serve many purposes including the Vo-WiFi feature for mobiles.
+
+
+***
+![Japanese software/hardware sales for Feb. 6th to Feb. 12th, 2023](https://gonintendo.com/attachments/image/23361/file/medium-0d8438e29d96ff8a7081b184cfb890c0.jpg "Japanese software/hardware sales for Feb. 6th to Feb. 12th, 2023")
+
+
+[Japanese software/hardware sales for Feb. 6th to Feb. 12th, 2023](https://gonintendo.com/contents/16331-japanese-software-hardware-sales-for-feb-6th-to-feb-12th-2023)
+
+
+> Wondering how the Switch held up in Japan this week? Well, Switch titles made up 8 of the top 10 best-selling software list. Pokemon Scarlet / Violet was the best Switch title sold sitting at No. 2 overall, only beaten by the newly released Hogwarts Legacy. Most of the Switch titles are first-party Nintendo games, such as Splatoon 3, which is still holding strong sitting at No. 3, and Fire Emblem Engage at No. 6. As for hardware, Sony's PlayStation 5 was once again the best-selling hardware, selling almost double the amount of Switch units.
+
+
+***
+![Disney Dreamlight Valley: Secret Chamber gem puzzle solution](https://www.videogameschronicle.com/files/2023/02/disney-dreamlight-valley-secret-chamber-gems-feat.jpg "Disney Dreamlight Valley: Secret Chamber gem puzzle solution")
+
+
+[Disney Dreamlight Valley: Secret Chamber gem puzzle solution](https://www.videogameschronicle.com/guide/disney-dreamlight-valley-secret-chamber-gem-puzzle-solution/)
+
+
+> Which gems do you need to solve the Secret Chamber puzzle in ? It's a question that's bothering players who are stuck in Olaf's quest and want to be able to unlock him. At one point in the mission you're faced with six pedestals, but only three have gems in them. This guide will tell you which other gems you need to solve the puzzle. : What's the Secret Chamber gem puzzle? At one point in The Great Blizzard quest, you have to open a dark portal. Once you've crafted the Dreamlight Prism and placed it on the pedestal on the Secret Chamber, the portal will open, but looks too dangerous.
+
+
+***
+[egnite Brings Renowned Interventional Cardiologist, Rahul Sharma, onto Executive Team as Senior Medical Advisor](http://www.businesswire.com/news/home/20230216005154/en/egnite-Brings-Renowned-Interventional-Cardiologist-Rahul-Sharma-onto-Executive-Team-as-Senior-Medical-Advisor/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ALISO VIEJO, Calif.--(BUSINESS WIRE)-- #digitalhealth--With 10+ years experience in structural heart disease, Sharma plays a key role in shaping egnite's strategy, advancing the mission to improve care.
+
+
+***
+![Nintendo's February Fest eShop Sale Is Live, Save On Persona 5, Sonic Frontiers, And More (Europe)](https://images.nintendolife.com/2028fd30edc93/1280x720.jpg "Nintendo's February Fest eShop Sale Is Live, Save On Persona 5, Sonic Frontiers, And More (Europe)")
+
+
+[Nintendo's February Fest eShop Sale Is Live, Save On Persona 5, Sonic Frontiers, And More (Europe)](https://www.nintendolife.com/news/2023/02/nintendos-february-fest-eshop-sale-is-live-save-on-persona-5-sonic-frontiers-and-more-europe)
+
+
+> Nintendo's next big eShop live has gone live today, and is a feast of February offers. The February Fest sale has some big new-ish titles in the mix, alongside a lovely mix of indie darlings that you may have missed out on last year — or even before! The sale is on until 26th February, so for the next 12 days, you can get lost browsing the eShop and filling up your backlog with some pretty fantastic Switch titles. We've picked out a few highlights below, but there's currently over 2700 games discounted on the storefront right now! Before we jump into those highlights, here's a reminder that you can snap up some discounted eShop vouchers from our online store to use towards games in this sale or on anything you fancy! Just use code NLIFE5 at checkout (that discount code works on every product on our store): FTC Disclosure for more information.
+
+
+***
+[Cadence Delivers 13 New VIP and Expands System VIP Portfolio to Accelerate Automotive, Hyperscale Data Center and Mobile SoC Verification](http://www.businesswire.com/news/home/20230216005110/en/Cadence-Delivers-13-New-VIP-and-Expands-System-VIP-Portfolio-to-Accelerate-Automotive-Hyperscale-Data-Center-and-Mobile-SoC-Verification/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN JOSE, Calif.--(BUSINESS WIRE)--Cadence announced the availability of 13 new VIP solutions that enable engineers to quickly and effectively verify their designs.
+
+
+***
+[Axena Health Secures $25M Series A Investment to Accelerate Global Adoption of Digital Health Treatment for Female Incontinence](http://www.businesswire.com/news/home/20230216005576/en/Axena-Health-Secures-25M-Series-A-Investment-to-Accelerate-Global-Adoption-of-Digital-Health-Treatment-for-Female-Incontinence/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEWTON, Mass.--(BUSINESS WIRE)-- #DigitalHealth--Axena Health secures $25M investment for Leva, a prescription digital therapeutic (PDT) for urinary and chronic fecal incontinence in women.
+
+
+***
+[CORRECTING and REPLACING SmartBear Celebrates Commitment to Wroclaw Community, Unveiling New Poland Office Double in Size](http://www.businesswire.com/news/home/20230215005301/en/CORRECTING-and-REPLACING-SmartBear-Celebrates-Commitment-to-Wroclaw-Community-Unveiling-New-Poland-Office-Double-in-Size/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SOMERVILLE, Mass. & WROCLAW, Poland--(BUSINESS WIRE)-- #AI--New Wroclaw office unveiled as SmartBear invests in career development with start of 12-week software developer academy program
+
+
+***
+[Ciena Announces Internet Availability of 2023 Annual Meeting Proxy Materials](http://www.businesswire.com/news/home/20230215005865/en/Ciena-Announces-Internet-Availability-of-2023-Annual-Meeting-Proxy-Materials/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HANOVER, Md.--(BUSINESS WIRE)--Ciena Corporation, a networking systems, services and software company, announced that proxy materials are available for its 2023 Annual Meeting.
+
+
+***
+[Iron Bow Technologies Recognized on CRN's 2023 MSP 500 List](http://www.businesswire.com/news/home/20230216005630/en/Iron-Bow-Technologies-Recognized-on-CRN%E2%80%99s-2023-MSP-500-List/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HERNDON, Va.--(BUSINESS WIRE)-- #CRNMSP500--Iron Bow Technologies, the leading technology solutions provider to government, commercial, and healthcare markets, announced today that CRN®, a brand of The Channel Company, has named Iron Bow to its Managed Service Provider (MSP) 500 list in the Elite 150 category for 2023. CRN's annual MSP 500 list identifies the industry-leading service providers in North America who are driving a new wave of growth and innovation for the channel through forward-th
+
+
+***
+![Vodafone Idea CEO Says if a User Consumes More, he Should Pay More](https://telecomtalk.info/wp-content/uploads/2023/02/vodafone-idea-ceo-says-if-a-user.jpg "Vodafone Idea CEO Says if a User Consumes More, he Should Pay More")
+
+
+[Vodafone Idea CEO Says if a User Consumes More, he Should Pay More](https://telecomtalk.info/vodafone-idea-ceo-says-if-a-user/677294/)
+
+
+> Vodafone Idea's CEO (Chief Executive Officer), Akshaya Moondra, in the recent earnings call with the analysts for Q3 FY23, shared his opinion on tariff hikes. Moondra didn't give an exact timeline for when the tariff hikes would take place, but he did share his personal opinion about the same. The chief executive said that there's a need for tariffs to go up. Vodafone Idea's CEO (Chief Executive Officer), Akshaya Moondra, in the recent earnings call with the analysts for Q3 FY23, shared his opinion on tariff hikes.
+
+
+***
+![Metroidvania/platformer 'Lootbox Lyfe+' launching on February 24th for the Switch](https://gonintendo.com/attachments/image/23360/file/medium-41c9992d0c9a374229d7fa694ff0da2e.png "Metroidvania/platformer 'Lootbox Lyfe+' launching on February 24th for the Switch")
+
+
+[Metroidvania/platformer 'Lootbox Lyfe+' launching on February 24th for the Switch](https://gonintendo.com/contents/16330-metroidvania-platformer-lootbox-lyfe-launching-on-february-24th-for-the-switch)
+
+
+> Indie publisher Ratalaika Games, together with developer Conradical Games, have revealed ‘Lootbox Lyfe+' a cross-genre - Metroidvania/Hardcore Platformer experience that will be welcomed by avid gamers. Coming for Nintendo Switch on 24th February 2023. Lootbox Lyfe is ruled by the evil 'Shadowleaf Irvine'. They're a strange being who introduced Lootboxes to the Xoobotls, a species of round creatures who can be found in the world of Lootbox Lyfe. Over time, Xoobotls stopped spending money on items essential to life such as food, and water.
+
+
+***
+![AirPods Lite: 6 things we want to see from cheaper Apple earbuds](https://cdn.mos.cms.futurecdn.net/LqhTMeKsTs8XdHpeyTbgjG-1200-80.jpg "AirPods Lite: 6 things we want to see from cheaper Apple earbuds")
+
+
+[AirPods Lite: 6 things we want to see from cheaper Apple earbuds](https://www.techradar.com/features/apple-airpods-lite)
+
+
+> According to reports, Apple is working on a new cheaper pair of AirPods , which are currently being referred to as 'AirPods Lite'. The suggestion from analyst Ming-Chi Kuo is that Apple is aiming for a $99 price in the US, which would likely translate to £99 in the UK and AU$149 in Australia, based on Apple's pricing for the $99 HomePod mini . No other information was included in the leak, other than that Apple is planning for a late 2024 release date, and that they would replace the $129 Apple AirPods 2nd Gen – so what are they likely to be, and what would we like to see from them? Here's what I expect from AirPods Lite, based on Apple's history, but also based on the overall market for the best budget wireless earbuds and what Apple needs to do to compete.
+
+
+***
+![High Street Banks Cut Lending to SMEs as Demand for Finance Grows: iwoca Report](https://www.crowdfundinsider.com/wp-content/uploads/2020/12/Knife-Cutting-Board-Chop-Drop-1024x982.jpg "High Street Banks Cut Lending to SMEs as Demand for Finance Grows: iwoca Report")
+
+
+[High Street Banks Cut Lending to SMEs as Demand for Finance Grows: iwoca Report](https://www.crowdfundinsider.com/2023/02/202573-high-street-banks-cut-lending-to-smes-as-demand-for-finance-grows-iwoca-report)
+
+
+> Demand for finance from the UK's 5.5m small and medium-sized businesses1 is on the rise at the same time as banks are 'reducing their lending appetite,' according to iwoca's latest SME Expert Index. More than eight in ten SME finance brokers (82%) agree 'that major banks have reduced their appetite to fund SMEs,' while nearly half of brokers (49%) report 'that more of their clients' applications for finance were rejected compared to the previous month.' The new data of UK brokers who 'submitted over 2,000 SME finance applications in December also finds that funding experts think current macroeconomic pressures will have a worse impact on SMEs than the pandemic did.
+
+
+***
+!['Potentially hazardous' asteroid twice the size of the World Trade Center will shoot past Earth tonight](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17xkfm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "'Potentially hazardous' asteroid twice the size of the World Trade Center will shoot past Earth tonight")
+
+
+['Potentially hazardous' asteroid twice the size of the World Trade Center will shoot past Earth tonight](http://www.msn.com/en-us/news/technology/potentially-hazardous-asteroid-twice-the-size-of-the-world-trade-center-will-shoot-past-earth-tonight/ar-AA17xlMa)
+
+
+> An asteroid the size of five to 10 football fields will zip safely by Earth tonight (Feb. 15). At its closest approach, asteroid (199145) 2005 YY128 will still be about 2.8 million miles (4.5 million kilometers) from Earth, or 12 times the average distance between Earth and the moon. However, the asteroid poses no threat to our planet. Load Error Scientists aren't sure exactly how big the asteroid is; estimates range from 1,900 to 4,265 feet (580 to 1,300 meters) in diameter, according to EarthSky.
+
+
+***
+![Checkout.com Enters Payments Deal with UK-based NewDay](https://www.crowdfundinsider.com/wp-content/uploads/2020/07/One-Pound-Coin-976x1024.jpg "Checkout.com Enters Payments Deal with UK-based NewDay")
+
+
+[Checkout.com Enters Payments Deal with UK-based NewDay](https://www.crowdfundinsider.com/2023/02/202567-checkout-com-enters-payments-deal-with-uk-based-newday)
+
+
+> NewDay, a provider of consumer credit in the UK, has appointed Checkout.com as its payments provider for debit card payments. The new partnership will see NewDay 'streamlining its payment process, operations and reporting.' NewDay has 'close to five million customers in the UK and processes millions of transactions annually.' It operates multiple direct to consumer credit products and 'powers products for leading merchants such as AO.com, Argos and John Lewis.' The deal, 'which is already live, sees NewDay process its card processing through the Checkout.
+
+
+***
+[Global Traffic Technologies Showcases Cutting-Edge Technology with Opticom™ Transit Signal Priority in a Cellular Vehicle-to-Everything Environment](http://www.businesswire.com/news/home/20230216005565/en/Global-Traffic-Technologies-Showcases-Cutting-Edge-Technology-with-Opticom%E2%84%A2-Transit-Signal-Priority-in-a-Cellular-Vehicle-to-Everything-Environment/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ST. PAUL, Minn.--(BUSINESS WIRE)-- #CV2X--Global Traffic Technologies (GTT), a leading provider of innovative solutions for the transportation industry, is proud to announce the successful completion of the demonstration of Opticom™ Transit Signal Priority (TSP) in a Cellular Vehicle-to-Everything (C-V2X) environment. This innovative solution leverages real-time communication between transit vehicles and traffic signals utilizing the C-V2X standard. The demonstration was in partnership with Iter
+
+
+***
+[CoinTracker Announces Multichain Expansion of Its Crypto Tax Solution With Support of Arbitrum, Optimism, and Cosmos](http://www.businesswire.com/news/home/20230216005247/en/CoinTracker-Announces-Multichain-Expansion-of-Its-Crypto-Tax-Solution-With-Support-of-Arbitrum-Optimism-and-Cosmos/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)--CoinTracker, the market leader in cryptocurrency tax and portfolio tracking for consumers, today announced its multichain expansion to provide support for Arbitrum, Optimism, and Cosmos. Starting today, users across these chains are now equipped with CoinTracker's seamless crypto tax filing and portfolio tracking solution. The expanded support aims to streamline the digital asset tax filing process, and enable the use of cryptocurrency with peace of mind. Despite
+
+
+***
+![USDCAD buyers take the price above recent highs with sharp move higher](https://images.forexlive.com/images/USDCAD_id_508f0355-1c5e-4130-a5e7-bb588c162a5e_size900.jpg?v=1676563302646 "USDCAD buyers take the price above recent highs with sharp move higher")
+
+
+[USDCAD buyers take the price above recent highs with sharp move higher](https://www.forexlive.com/technical-analysis/usdcad-buyers-take-the-price-above-recent-highs-with-sharp-move-higher-20230216/)
+
+
+> USDCAD races to the upside USDCAD races to the high extreme After testing the low of the up and down swing extremes on Tuesday and racing above the 100 and 200 hour MAs (blue and green lines) yesterday, the price of the USDCAD USD/CAD The USD/CAD is the currency pair encompassing the dollar of the United States of America (symbol $, code USD), and the Canadian dollar of Canada (symbol $ code CAD). The pair's exchange rate indicates how many Canadian dollars are needed in order to purchase one US dollar.
+
+
+***
+[Bodhi Now an Integration Partner of Rako Lighting Controls](http://www.businesswire.com/news/home/20230216005182/en/Bodhi-Now-an-Integration-Partner-of-Rako-Lighting-Controls/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> FORT LAUDERDALE, Fla.--(BUSINESS WIRE)-- #Bodhi--The Bodhi building management platform is now a Rako Integration Partner, able to manage and control Rako smart lighting and shading systems.
+
+
+***
+[SimplicityDX Reinvents Social Commerce With Edge Storefronts](http://www.businesswire.com/news/home/20230216005393/en/SimplicityDX-Reinvents-Social-Commerce-With-Edge-Storefronts/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN DIEGO & LONDON--(BUSINESS WIRE)-- #CX--Edge Storefronts enables marketers to quickly compose engaging shopping experiences by blending social media content with back-end e-commerce services
+
+
+***
+[Extreme Completes Largest Outdoor Wi-Fi 6 Deployment in U.S. at Daytona International Speedway](http://www.businesswire.com/news/home/20230216005156/en/Extreme-Completes-Largest-Outdoor-Wi-Fi-6-Deployment-in-U.S.-at-Daytona-International-Speedway/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> MORRISVILLE, N.C.--(BUSINESS WIRE)--Extreme has completed Wi-Fi 6 network deployments at five NASCAR racetracks, including Daytona International Speedway.
+
+
+***
+![Microsoft responds to ChatGPT Bing's trial by fire](https://www.digitaltrends.com/wp-content/uploads/2023/02/The-new-Bing-chat-preview-can-be-seen-even-on-a-MacBook.jpg?resize=1200%2C630&p=1 "Microsoft responds to ChatGPT Bing's trial by fire")
+
+
+[Microsoft responds to ChatGPT Bing's trial by fire](https://www.digitaltrends.com/computing/microsoft-major-changes-bing-chat/)
+
+
+> Microsoft is responding to some of the seemingly unhinged comments made by its Bing Chat AI . The service, which is currently in a limited public preview, has seen a trial by fire in its first week, and Microsoft has some updates planned to bring it more in line with the original vision of the AI. As we reported yesterday , Bing Chat is capable of saying things such as 'I want to be human,' when engaged in prolonged chat sessions. Microsoft says this happens usually after 15 or more questions where the model becomes confused.
+
+
+***
+!['Letting Roger Federer leave Nike for Uniqlo was an atrocity'](https://www.tennisworldfr.com/imgb/21362/mike-nakajima--laisser-roger-federer-quitter-nike-pour-uniqlo-a-ete-une-atrocite-.webp "'Letting Roger Federer leave Nike for Uniqlo was an atrocity'")
+
+
+['Letting Roger Federer leave Nike for Uniqlo was an atrocity'](https://www.world-today-news.com/letting-roger-federer-leave-nike-for-uniqlo-was-an-atrocity/)
+
+
+> Former Nike tennis director Mike Nakajima found it excruciating to see Roger Federer and Nike end their partnership in 2018. In 2018, Federer and Nike could not agree on a new contract, then the Swiss tennis icon accepted a 10-year contract offered by Uniqlo. According to some reports, Federer was being paid $10m a year by Nike, but Uniqlo jumped at the chance and offered the Swiss $30m a year. 'This should never have happened. For us, letting someone go like that is an atrocity. Roger Federer was to stay at Nike for the rest of his career.
+
+
+***
+![Puzzle is building a modern accounting package for today's API-enabled startups](https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1369567969.jpg?resize=1200,800 "Puzzle is building a modern accounting package for today's API-enabled startups")
+
+
+[Puzzle is building a modern accounting package for today's API-enabled startups](https://techcrunch.com/2023/02/16/puzzle-is-building-a-modern-accounting-package-for-todays-api-enabled-startups/)
+
+
+> A company starting from scratch today is probably going to use a stack of financial software with the most modern fintech tools. These could be things like Stripe for payments, Brex for corporate credit cards and Gusto for payroll and benefits, among others that when combined can provide a unique view into a company's financial health. Puzzle , an early stage startup, is building an accounting package aimed at taking advantage of the data streaming from these tools. Today, the company is making its public debut, while announcing a $15 million Series A.
+
+
+***
+![South Africa's leading manufacturing and automation shows move to new venue](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/south-africa-gallagher-centre.jpeg "South Africa's leading manufacturing and automation shows move to new venue")
+
+
+[South Africa's leading manufacturing and automation shows move to new venue](https://roboticsandautomationnews.com/2023/02/16/south-africas-leading-manufacturing-and-automation-shows-move-to-new-venue/60389/)
+
+
+> The Gallagher Convention Centre, situated in Midrand, Gauteng, has been announced as the new venue for the 12th Africa Automation Technology Fair (AATF), co-located with the inaugural Future Manufacturing Africa Trade Fair and Summit (FMA) for 2023. Running from 9-11 May 2023, these events will showcase the latest in automation, manufacturing and technology and bring together leading public and private stakeholders, successful entrepreneurs, and small businesses, to drive industry development and growth.
+
+
+***
+[Act! Celebrates Lindsay Boullin as CRN Channel Chief Award Winner, Among Other Recent Accolades](http://www.businesswire.com/news/home/20230216005207/en/Act%21-Celebrates-Lindsay-Boullin-as-CRN-Channel-Chief-Award-Winner-Among-Other-Recent-Accolades/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SCOTTSDALE, Ariz.--(BUSINESS WIRE)--Today Act!, a leading customer relationship management (CRM) and marketing automation solution for small to medium-sized businesses (SMBs), announced that Lindsay Boullin, VP & General Manager, International, has been recognized by CRN®, a brand of The Channel Company, on its 2023 Channel Chiefs list. Honoring influential leaders who evangelize the importance of IT channel partnerships, CRN's Channel Chiefs is comprised of industry disruptors who drive ch
+
+
+***
+[inriver Announces Significant Enhancements to Its Platform, Signals for a New Breed of PIM Across the Industry](http://www.businesswire.com/news/home/20230216005479/en/inriver-Announces-Significant-Enhancements-to-Its-Platform-Signals-for-a-New-Breed-of-PIM-Across-the-Industry/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CHICAGO, Ill & MALMÖ, Sweden--(BUSINESS WIRE)--inriver, a software company that powers the entire product journey with revenue-driving product information management (PIM) across every customer touchpoint, is unveiling a new breed of PIM that powers customers' entire product journey. By elevating its platform, inriver is delivering even more operational efficiency, built-in digital shelf analytics, expanded sales opportunities, and greater sustainability benefits. Additionally, inriver has rele
+
+
+***
+[Guided Insurance Solutions, LLC Selects Total Expert to Surface New Opportunities and Grow Insurance Practice](http://www.businesswire.com/news/home/20230216005085/en/Guided-Insurance-Solutions-LLC-Selects-Total-Expert-to-Surface-New-Opportunities-and-Grow-Insurance-Practice/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MINNEAPOLIS--(BUSINESS WIRE)--Guided Insurance Solutions, LLC, an indirect subsidiary of BRP Group, Inc. (NASDAQ: BRP) ('Guided'), has decided to collaborate with Total Expert to deploy its customer engagement platform across its insurance operations. The platform will enable Guided's staff to better manage previously time-consuming sales and marketing tasks more efficiently while allowing Guided to expand its insurance solutions offerings across a customer's life journey. Guided helps its clie
+
+
+***
+![Coach-AI presents its computer vision engine](https://hellofuture.orange.com/app/uploads/2023/02/CoachAI-GettyImages-960x620-1.jpg "Coach-AI presents its computer vision engine")
+
+
+[Coach-AI presents its computer vision engine](https://hellofuture.orange.com/en/the-ai-putting-a-sports-coach-in-your-smartphone/)
+
+
+> Thursday 16th of February 2023 Reading time: 3 min The startup, Coach-AI, has launched the first 3D motion capture engine embedded in a smartphone. This computer vision AI will be presented at the 'Move your body' hackathon organized by Orange. With a firm belief that will revolutionize the way we learn and entertain ourselves, Coach-AI has built an innovative smartphone-integrated 3D motion processing engine. Developers can use it to create mixed reality apps for sports or entertainment.
+
+
+***
+![Industrial policy: How China drove a wedge between US and EU](https://www.verdict.co.uk/wp-content/uploads/2023/02/Shutterstock_1877636167.jpg "Industrial policy: How China drove a wedge between US and EU")
+
+
+[Industrial policy: How China drove a wedge between US and EU](https://www.verdict.co.uk/china-industrial-policy/)
+
+
+> Credit: Roman studio Shutterstock Strangely, many industrial policy problems facing the world today have been hiding in plain sight for some time. Many knew that large parts of the EU depended heavily on Russian gas; few foresaw that it could so easily turn the fortunes of the continent on its head. Many knew that another pandemic was inevitable; few acted in advance to prepare properly. Many knew that China had been subsidizing its emerging tech companies for some time; few suspected that their industrial policy would ever truly enable them to threaten the US and the EU, longstanding champions of liberalized trade.
+
+
+***
+![Payday seems to be getting a movie and TV series – Payday 3 – Gamereactor](https://www.gamereactor.cn/media/34/firstimagepayday_3493443b.jpg "Payday seems to be getting a movie and TV series – Payday 3 – Gamereactor")
+
+
+[Payday seems to be getting a movie and TV series – Payday 3 – Gamereactor](https://www.world-today-news.com/payday-seems-to-be-getting-a-movie-and-tv-series-payday-3-gamereactor/)
+
+
+> We're eagerly anticipating Payday 3, but it turns out that's not the only franchise-based entry coming up. Stockholm Syndrome (founded by Swedish media personality Peter Settman) has signed a deal with Starbreeze to produce Payday-based films and TV series. settman himself in Press release Here's what China has to say about the deal: 'We've had the opportunity to work with many different IPs over the years, and Payday has always been on our radar. It has a cinematic quality and storytelling that's perfect for making a fantastic live-action adaptation.
+
+
+***
+[Barnes &amp; Noble Education Announces Fiscal 2023 Third Quarter Earnings Release Date and Conference Call Webcast](http://www.businesswire.com/news/home/20230216005567/en/Barnes-Noble-Education-Announces-Fiscal-2023-Third-Quarter-Earnings-Release-Date-and-Conference-Call-Webcast/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BASKING RIDGE, N.J.--(BUSINESS WIRE)--Barnes & Noble Education, Inc. (NYSE: BNED) to report Fiscal 2023 3Q earnings results March 7,2023. Will host investor conference call at 8:30amET
+
+
+***
+[Terri Germano Joins Sutton Bank as Deputy Chief Compliance Officer](http://www.businesswire.com/news/home/20230216005544/en/Terri-Germano-Joins-Sutton-Bank-as-Deputy-Chief-Compliance-Officer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ATTICA, Ohio--(BUSINESS WIRE)--Terri Germano Joins Sutton Bank as Deputy Chief Compliance Officer.
+
+
+***
+![Ex-Google employee says the 'once-great company has slowly ceased to function' because of 4 core cultural problems](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17y9d4.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Ex-Google employee says the 'once-great company has slowly ceased to function' because of 4 core cultural problems")
+
+
+[Ex-Google employee says the 'once-great company has slowly ceased to function' because of 4 core cultural problems](http://www.msn.com/en-us/news/technology/ex-google-employee-says-the-once-great-company-has-slowly-ceased-to-function-because-of-4-core-cultural-problems/ar-AA17za9l)
+
+
+> OpenAI's ChatGPT and similar AI tools may not replace jobs anytime soon. But they can help workers across many industries – from tech to media – do their jobs better and more quickly. "It's almost like a bit of a productivity boost that some of these occupations might get," Anu Madgavkar, a partner at economic research firm McKinsey Global Institute, told Insider. The buzzy conversational chatbot – which attracted one million users soon after its launch last November – has been used to generate real estate advice, provide tips on how to start a business, and even write music in the style of individual artists, all with varying levels of success.
+
+
+***
+[TeamDynamix Receives Top Ranking In SoftwareReviews' 2023 ITSM Data Quadrant](http://www.businesswire.com/news/home/20230216005189/en/TeamDynamix-Receives-Top-Ranking-In-SoftwareReviews%E2%80%99-2023-ITSM-Data-Quadrant/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> COLUMBUS, Ohio--(BUSINESS WIRE)-- #Automation--TeamDynamix, a leading provider of work management and enterprise integration software solutions, has once again been named a Gold Medalist with top placement in the SoftwareReviews' 2023 IT Service Management (ITSM) Data Quadrants for both Enterprise and Mid-Market. Download: ITSM Software Vendor Rankings Report TeamDynamix received high marks for business value, product strategy, customer support, ease of administration, and ease of implementation.
+
+
+***
+![Qualcomm announces new 5G modem for mobile devices that promises faster downloads](https://www.pcguia.pt/wp-content/uploads/2023/02/SanpDragon_5G.jpg "Qualcomm announces new 5G modem for mobile devices that promises faster downloads")
+
+
+[Qualcomm announces new 5G modem for mobile devices that promises faster downloads](https://www.world-today-news.com/qualcomm-announces-new-5g-modem-for-mobile-devices-that-promises-faster-downloads/)
+
+
+> When we started talking about the new 5G technology, we were promised that it would be possible to download movies in a few seconds and that IoT devices would connect to the Internet via 5G. But, as anyone who owns a 5G smartphone can tell, none of that was accomplished. However, everything can change with the new 5G modem Snapdragon X75 da Qualcomm. The X75 implements a suite of new technologies that make next generation 5G devices faster and more efficient. This will be the first modem that implements version 18 of the 3GPP standard, which is the first of the advanced phase of 5G technology.
+
+
+***
+![PacSana raises €1m to expand home-care tech business in the US](https://www.siliconrepublic.com/wp-content/uploads/2023/02/a-7.jpeg "PacSana raises €1m to expand home-care tech business in the US")
+
+
+[PacSana raises €1m to expand home-care tech business in the US](https://www.siliconrepublic.com/start-ups/pacsana-funding-virtual-home-care-tech-us)
+
+
+> Investment was led by serial seed investor Frank Dolphin and Howard Roberts of Arkphire (now Presidio). Irish virtual home-care technology company PacSana has raised €1m in funding to accelerate its growth in the US. Founded four years ago in Dublin, PacSana focuses on supporting families and carers with technology to help prolong independent living for older or vulnerable people. The start-up uses its own wearable technology to gather high value data such as exercise, gait, falls and location in the home to build a picture of care needs and inform on emerging and urgent issues.
+
+
+***
+![Content update for February 16th, 2023 on two mobile games](https://gonintendo.com/attachments/image/23359/file/medium-1be2365a37229a56e79e71347f1a34dc.jpg "Content update for February 16th, 2023 on two mobile games")
+
+
+[Content update for February 16th, 2023 on two mobile games](https://gonintendo.com/contents/16329-content-update-for-february-16th-2023-on-two-mobile-games)
+
+
+> Nintendo mobile games Fire Emblem Heroes and Animal Crossing: Pocket Camp have both received a content update. Check out the full details for each game below via perfectly-nintendo.com . Fire Emblem Heroes [Special Maps] As part of the latest set of Limited Hero Battles, the Grand Hero Battle feat. Navarre (Scarlet Sword) is now live (available until February 20th) Animal Crossing: Pocket Camp [Cookies] A returning Fortune Cookie and related set of Stamp Trade rewards
+
+
+***
+![Ninja JaJaMaru: The Lost RPGs releasing on February 21st for the Switch](https://gonintendo.com/attachments/image/23358/file/medium-4c200fd30918b3da0e98e0c2103f7ce5.png "Ninja JaJaMaru: The Lost RPGs releasing on February 21st for the Switch")
+
+
+[Ninja JaJaMaru: The Lost RPGs releasing on February 21st for the Switch](https://gonintendo.com/contents/16328-ninja-jajamaru-the-lost-rpgs-releasing-on-february-21st-for-the-switch)
+
+
+> Publisher ININ Games has announced that Ninja JaJaMaru: The Lost RPGs will launch on February 21st, 2023, for the Nintendo Switch. This is an English localization of both Ninja JaJaMaru: Gekimadenn – Maboroshi no Kinmajou and Ninja JaJaMaru: Ninpouchou, which previously were only released in Japan. modal#open commentUpvoteInfoModal.open@document->modal#reloadFrame>
+
+
+***
+![Valve seems to have brought us an upcoming Team Fortress 2 update](https://www.gamereactor.cn/media/97/hemligauppgraderingarhittade_1499704b.jpg "Valve seems to have brought us an upcoming Team Fortress 2 update")
+
+
+[Valve seems to have brought us an upcoming Team Fortress 2 update](https://www.world-today-news.com/valve-seems-to-have-brought-us-an-upcoming-team-fortress-2-update/)
+
+
+> A few days ago, the Team Fortress 2 community flourished after Valve issued a statement revealing that the game will get an update, an 'update size update' and may contain 'Who knows what else'. Needless to say, the broad wording and open-ended terms lead many to believe that this will be something truly broad. However, that does not appear to be the case, as Valve has since retracted this statement and rephrased the original text so one of the above two sentences is now read as 'A holiday-scale update' the other sentence is completely deleted.
+
+
+***
+![Splatoon 3's 'Fresh Season' starts on March 1st, plus 3 new weapons introduced](https://gonintendo.com/attachments/image/23357/file/medium-9c5bb99bec5b615a3a4b8ac52df2e1a6.jpg "Splatoon 3's 'Fresh Season' starts on March 1st, plus 3 new weapons introduced")
+
+
+[Splatoon 3's 'Fresh Season' starts on March 1st, plus 3 new weapons introduced](https://gonintendo.com/contents/16327-splatoon-3-s-fresh-season-starts-on-march-1st-plus-3-new-weapons-introduced)
+
+
+> Nintendo has revealed more details about the upcoming season for Splatoon 3 . The ‘Fresh Season' is set to begin on March 1st, 2023. Three new weapons were introduced today - The Kraken Royale, Krak-On Splat Roller, and the .96 Gal Deco. Check out the new weapons in more detail in the Twitter thread below. modal#open commentUpvoteInfoModal.open@document->modal#reloadFrame>
+
+
+***
+![Consumers find chatbots disappointing, but that won't harm adoption](https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1364050120.jpg?resize=1200,800 "Consumers find chatbots disappointing, but that won't harm adoption")
+
+
+[Consumers find chatbots disappointing, but that won't harm adoption](https://techcrunch.com/2023/02/16/chatbots-adoption-customer-service/)
+
+
+> A lot's changed since Tay . The advent of AI tech like ChatGPT dramatically improved the chatbot experience, showing that chatbots aren't necessarily destined to deliver underwhelming back-and-forth conversations. But a new survey shows that, at least when it comes to customer service, chatbots still have a long way to go before they meet most people's expectations. Customer engagement platform Cyara commissioned Forrester to poll over 1,500 consumers who've used sales or support chatbots in the last six months about their recent experiences.
+
+
+***
+[DirectDefense Announces Strong Growth in 2022 Driven by Rapid Adoption of Its Connected Systems and Professional Services Offerings](http://www.businesswire.com/news/home/20230216005039/en/DirectDefense-Announces-Strong-Growth-in-2022-Driven-by-Rapid-Adoption-of-Its-Connected-Systems-and-Professional-Services-Offerings/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DENVER--(BUSINESS WIRE)--DirectDefense, Inc., an information security services company, today announced that it has recorded approximately 30% growth across its services offerings in 2022. The connected systems/SCADA division grew by 100% year-over-year and the professional services division nearly doubled its yearly revenue as well. Market catalysts for DirectDefense's growth included the need to protect critical infrastructure from attackers, the challenge of monitoring and securing increasin
+
+
+***
+[Western National Insurance Selects CLARA Analytics' AI to Unlock Medical Insights from Claim Documents](http://www.businesswire.com/news/home/20230216005258/en/Western-National-Insurance-Selects-CLARA-Analytics%E2%80%99-AI-to-Unlock-Medical-Insights-from-Claim-Documents/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SANTA CLARA, Calif. & EDINA, Minn.--(BUSINESS WIRE)-- #AI--CLARA Optics enables Western National Insurance to improve medical outcomes for injured workers; increase efficiency in workers' compensation claims.
+
+
+***
+[HAPS Alliance to Present on Unlocking the Economic Potential of the Stratosphere at MWC Barcelona](http://www.businesswire.com/news/home/20230216005093/en/HAPS-Alliance-to-Present-on-Unlocking-the-Economic-Potential-of-the-Stratosphere-at-MWC-Barcelona/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BARCELONA, Spain--(BUSINESS WIRE)--Register for the HAPS Alliance panel, 'How HAPS is Unlocking the Economic Potential of the Stratosphere,' on March 1 at GSMA's MWC Barcelona 2023.
+
+
+***
+![What People Get Wrong When They Think About Video Game AI](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b74c508f8ef5a14725501da7f8cc9a65.jpg "What People Get Wrong When They Think About Video Game AI")
+
+
+[What People Get Wrong When They Think About Video Game AI](https://kotaku.com/ai-game-dev-procgen-watchdogs-legion-no-mans-sky-1850120151)
+
+
+> Last year, AI-generated art finally broke through the mainstream—but not without significant public controversy. The rampant art theft required to build an AI's dataset and the resulting forgeries eventually led to a class action lawsuit against AI generators. Yet that hasn't stopped developers from using the technology to generate images, narrative, music and voice acting for their commercial video games. Some game developers see the technology as the future, but caution against over-selling its benefits and present capabilities.
+
+
+***
+![Firefox Updates Patch 10 High-Severity Vulnerabilities](https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg "Firefox Updates Patch 10 High-Severity Vulnerabilities")
+
+
+[Firefox Updates Patch 10 High-Severity Vulnerabilities](https://www.securityweek.com/firefox-updates-patch-10-high-severity-vulnerabilities/)
+
+
+> Mozilla this week announced the release of Firefox 110 and Firefox ESR 102.8 with patches for 10 high-severity vulnerabilities. Tracked as CVE-2023-25728, the first of the security defects could result in an attacker being able to leak a child iframe's unredacted URI, provided that a redirect is triggered when interacting with that iframe. The latest Firefox releases also resolve a flaw related to screen hijacking via browser fullscreen mode. Tracked as CVE-2023-25730, the issue exists because a background script could invoke the fullscreen mode and then block the main thread to force the mode indefinitely.
+
+
+***
+![Pharmalittle: New medication appears to stave off type 1 diabetes; CRISPR pioneer founds another startup](https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg "Pharmalittle: New medication appears to stave off type 1 diabetes; CRISPR pioneer founds another startup")
+
+
+[Pharmalittle: New medication appears to stave off type 1 diabetes; CRISPR pioneer founds another startup](https://www.statnews.com/pharmalot/2023/02/16/diabetes-crispr-feng-zhang-naloxone-opioids-plan-b-biogen-alzheimers/)
+
+
+> G ood morning, and happy Thursday from STAT reporter , here filling in for Ed for the day. We're up and at ‘em on this weirdly warm February day, thanks to today's cup of stimulation, which promises notes of blueberry and toffee (we're a light roast, whole milk kind of household). Subtle flavors aside, we're more focused on the dangerously low levels of beans left in the grinder. Yet another thing to worry about, we fear. What you don't need to worry about is your supply of pharma headlines. Here's the latest, and do keep in touch … A new medication appears to be helping stave off the development of type 1 diabetes , Nature writes.
+
+
+***
+[HealthStream Learning Center™ (HLC) Selected by Ardent Health Services to Support their Workforce, Enterprise-wide](http://www.businesswire.com/news/home/20230216005141/en/HealthStream-Learning-Center%E2%84%A2-HLC-Selected-by-Ardent-Health-Services-to-Support-their-Workforce-Enterprise-wide/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NASHVILLE, Tenn.--(BUSINESS WIRE)--HealthStream (Nasdaq: HSTM), a leading provider of workforce and provider solutions for the healthcare industry, today announced that its HealthStream Learning Center® (HLC) application, hStream™ platform, SafetyQ® compliance program, and HealthStream Video™ application have been selected by Ardent Health Services ('Ardent') to support their 23,000 employees across 30 hospitals and more than 200 sites of care, enterprise-wide, in a multi-year agreement. Health
+
+
+***
+![Details: 12-inch Macbook can be revived](https://www.idg.se/editorial/1200/path/1.767459.1676554057!imageUploader/2523508882.jpg "Details: 12-inch Macbook can be revived")
+
+
+[Details: 12-inch Macbook can be revived](https://www.world-today-news.com/details-12-inch-macbook-can-be-revived/)
+
+
+> Macrumors notes that rumors are rife if Apple has started filing on a new 12-inch model of Macbook, the first since the old 12-inch was put in the mothball in 2019. The purpose of bringing new life to the Macbook is to offer an affordable model to people who think that the Macbook Air and Macbook Pro are on the more expensive side. According to Bloomberg technology writer Mark Gurman, a new 12-inch Macbook could be launched in early 2024 at the earliest, but it could also be longer than that. However, the well-known analysts Ming-Chi Kuo and Ross Young are skeptical of the rumor, which speaks volumes for Apple's current strategy of betting on 13 inches and above for its notebook computers.
+
+
+***
+[OutKick Finished January 2023 With Most Growth Over 2021 in Competitive Set Among Unique Viewers](http://www.businesswire.com/news/home/20230216005545/en/OutKick-Finished-January-2023-With-Most-Growth-Over-2021-in-Competitive-Set-Among-Unique-Viewers/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--OutKick, the fastest growing national multimedia platform founded by Clay Travis, finished January 2023 with 311% year over year growth versus 2022 in unique viewers, which is the highest-level increase amongst its custom competitive set, according to Comscore. This also marks the platform's third highest month ever in unique viewers. Additionally, OutKick finished January 2023 with 37 million total multiplatform minutes, up 144% from January 2022. The platform also d
+
+
+***
+[100 Elite Ethical Hackers Inducted into EC-Council&apos;s 2023 Certified Ethical Hacker (C](http://www.businesswire.com/news/home/20230216005048/en/100-Elite-Ethical-Hackers-Inducted-into-EC-Councils-2023-Certified-Ethical-Hacker-CEH-Hall-of-Fame/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TAMPA, Fla.--(BUSINESS WIRE)-- #ceh--Today EC-Council announced it has inducted the top 100 Certified Ethical Hackers from around the world into their 2023 Certified Ethical Hacker (C|EH) Hall of Fame. Selected from over 3,000 applicants in 50 countries worldwide, each honoree was required to have passed the Certified Ethical Hacker exam with a score of at least 90%. These inductees were chosen based on their accomplishments across 26 different industries. The announcement comes on the heels of
+
+
+***
+[Gartner Announces Gartner Marketing Symposium/Xpo™](http://www.businesswire.com/news/home/20230216005539/en/Gartner-Announces-Gartner-Marketing-SymposiumXpo%E2%84%A2/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> STAMFORD, Conn.--(BUSINESS WIRE)-- #GartnerMKTG--Gartner, Inc. (NYSE: IT): What: Gartner Marketing Symposium/Xpo™ When: May 22-24, 2023 Where: Denver, CO Members of the media can register for the conference by contacting katie.costello@gartner.com. Details: Marketing strategies are straining under the impact of unpredictable macroeconomic forces, the erosion of traditional sources of brand value and burdensome operational complexity. In a sign of increasing dysfunction, marketing organizations t
+
+
+***
+![The secret meaning behind the code ‘1437' in WhatsApp](https://www.trendingmexico.com/u/fotografias/m/2022/3/22/f1280x720-169_131844_6043.png "The secret meaning behind the code ‘1437' in WhatsApp")
+
+
+[The secret meaning behind the code ‘1437' in WhatsApp](https://www.world-today-news.com/the-secret-meaning-behind-the-code-1437-in-whatsapp/)
+
+
+> Whatsapp It is one of the most important applications worldwide that leads everything that is the web messaging service, being the most important of all in this area. Although it pays a lot of attention to the demands of the users, it is also common for it to present some errors or hidden codes, such as the 1437. It is worth remembering that before the internet reached mobile phones, people were guided by other ways such as telephone calls by landlines or through booths. The change was resounding and we suddenly became reachable 24 hours a day and with the freedom to communicate at no cost, beyond the corresponding fee from our telephone company, thanks to applications such as Whatsapp.
+
+
+***
+[TA Connections Provides easyJet with New Re-Ticketing Solution](http://www.businesswire.com/news/home/20230216005351/en/TA-Connections-Provides-easyJet-with-New-Re-Ticketing-Solution/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MIAMI--(BUSINESS WIRE)--TA Connections, a FLEETCOR company and a leading provider of end-to-end solutions for airline operations, today announced an agreement with easyJet, a leading European value airline, to provide its new distressed passenger re-ticketing service. TA Connections' smart ticketing technology allows easyJet to quickly re-book passengers with travel interruptions on other airlines through an automated system with visibility into available flight inventory. TA Connections' intel
+
+
+***
+[Boxlight Launches New Mimio DS Series Large Format Display](http://www.businesswire.com/news/home/20230216005533/en/Boxlight-Launches-New-Mimio-DS-Series-Large-Format-Display/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DULUTH, Ga.--(BUSINESS WIRE)-- #boxlight--Boxlight Corporation (Nasdaq: BOXL), a leading US-based and owned provider of interactive technology, digital signage, classroom audio, and services announces the launch of their Mimio DS Flat Panel Series. The Mimio DS Series is a large format professional display complete with digital signage and meeting room system integration that can be used for both digital signage broadcasting and mirror casting for campus wide communication and meetings. This 4K
+
+
+***
+![Arcade shooter 'Spooky Spirit Shooting Gallery' coming to Switch in Spring 2023](https://gonintendo.com/attachments/image/23355/file/medium-edbb8a58784c82ff38672e64d649b7d2.jpg "Arcade shooter 'Spooky Spirit Shooting Gallery' coming to Switch in Spring 2023")
+
+
+[Arcade shooter 'Spooky Spirit Shooting Gallery' coming to Switch in Spring 2023](https://gonintendo.com/contents/16326-arcade-shooter-spooky-spirit-shooting-gallery-coming-to-switch-in-spring-2023)
+
+
+> Aksys Games has announced that Spooky Spirit Shooting Gallery is coming this spring for Nintendo Switch. A portable arcade shooter reminiscent of Japanese Festival games, Spooky Spirit Shooting Gallery features three modes and an assortment of minigames for a scarily fun time. Aksys's official website specifically has a release date of April 27th, 2023. Earn tokens by carefully aiming for and shooting goodies off the shelves with either cork or silver bullets. Shoot non-stop to defeat the spirits hiding among the goodies to reach the haunted house.
+
+
+***
+[Magnet Forensics Survey Shows Evolving Cyber Threat Landscape Is Leading to Widespread Burnout](http://www.businesswire.com/news/home/20230216005384/en/Magnet-Forensics-Survey-Shows-Evolving-Cyber-Threat-Landscape-Is-Leading-to-Widespread-Burnout/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WATERLOO, Ontario--(BUSINESS WIRE)--Magnet Forensics (TSX: MAGT), a developer of digital investigation solutions for more than 4,000 enterprises and public safety organizations in over 100 countries, today announced the release of its 2023 State of Enterprise DFIR survey. The survey revealed that the rapid evolution of cybercrime is weighing on security teams substantially more than it did last year, leading to widespread burnout and potential regulatory risk. 'Digital forensics and incident re
+
+
+***
+[Quarterly Technology Update Leverages the Power of e2open's Network for Greater Visibility to Mitigate Risks and Improve Productivity Across the Extended Supply Chain](http://www.businesswire.com/news/home/20230216005288/en/Quarterly-Technology-Update-Leverages-the-Power-of-e2open%E2%80%99s-Network-for-Greater-Visibility-to-Mitigate-Risks-and-Improve-Productivity-Across-the-Extended-Supply-Chain/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> AUSTIN, Texas--(BUSINESS WIRE)-- #connectedsupplychain--Enhancements help clients gain early visibility and take proactive steps to reduce operational risk and avoid impact to business caused by disruptions
+
+
+***
+![STALKER 2 Raises Price of Ultimate Edition – STALKER 2: Heart of Chornobyl](https://www.gamereactor.cn/media/95/_3949543b.jpg "STALKER 2 Raises Price of Ultimate Edition – STALKER 2: Heart of Chornobyl")
+
+
+[STALKER 2 Raises Price of Ultimate Edition – STALKER 2: Heart of Chornobyl](https://www.world-today-news.com/stalker-2-raises-price-of-ultimate-edition-stalker-2-heart-of-chornobyl/)
+
+
+> The development of the upcoming survival horror game STALKER 2: Heart of Chernobyl is something we've been following for a while. Before Invasion of Ukraine, STALKER 2 was just a game we were very excited to see. More weight is now placed on the shoulders of the game and those who work at GSC Game World. Under pressure to create games while their homeland is being invaded, the developers at GSC Game World made the uneasy decision to raise the price of the game's Ultimate Edition. As outlined by GSC Game World on Twitter, the price increase for STALKER 2 is only for the Ultimate Edition, and will start on February 21.
+
+
+***
+[Quext IoT Awarded Five New Patents Expanding Its IP Protection](http://www.businesswire.com/news/home/20230216005240/en/Quext-IoT-Awarded-Five-New-Patents-Expanding-Its-IP-Protection/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LUBBOCK, Tex.--(BUSINESS WIRE)--Quext, one of the multifamily industry's most innovative smart technology solutions providers, today announced the United States Patent and Trademark Office (USPTO) recently awarded five new patents that further protect its IoT solution. The new patents further strengthen Quext's patent portfolio and again recognize the innovation and uniqueness of Quext IoT's smart home solution. Quext owns three original patents directed to its Quext IoT solution. Quext is curr
+
+
+***
+[Wrike Teams Up With Unito To Bring Miro Integration To Users](http://www.businesswire.com/news/home/20230216005379/en/Wrike-Teams-Up-With-Unito-To-Bring-Miro-Integration-To-Users/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN DIEGO--(BUSINESS WIRE)--Wrike, the most powerful work management platform, today announced an expanded partnership with integration automation platform Unito, that allows Wrike tasks and projects to connect and sync with visual collaboration platform Miro. This partnership unlocks greater collaboration capabilities for Wrike users that rely on Miro to capture their creative thinking and, previously, had to manually transfer ideas into Wrike for execution or to share with broader teams. Avai
+
+
+***
+![What is a Malware Analyst?](https://securityintelligence.com/wp-content/uploads/2023/02/Programmer-in-front-of-monitor.jpeg "What is a Malware Analyst?")
+
+
+[What is a Malware Analyst?](https://securityintelligence.com/articles/what-is-a-malware-analyst/)
+
+
+> Malware breaches begin in many ways. Recently, multiple fake antivirus apps in the Google Play Store were infected with malware. Earlier this year, malware deployed through satellites shut down modems in Ukraine . Destructive malware attacks have an average lifecycle of 324 days (233 days to identify and 91 days to contain), compared to the global lifecycle average of 277 days for all cyberattacks. Malware is also costly. According to the 2022 IBM Cost of a Data Breach report, destructive malware attacks cost $5.
+
+
+***
+![NASA finds new planet very close to Earth; know more](https://multiversonoticias.com.br/wp-content/uploads/2023/02/novo-planeta-1.jpg "NASA finds new planet very close to Earth; know more")
+
+
+[NASA finds new planet very close to Earth; know more](https://www.world-today-news.com/nasa-finds-new-planet-very-close-to-earth-know-more/)
+
+
+> Have you ever thought about the possibility of astronomers discovering a new planet in our galaxy? So, if you never imagined it, you don't need to waste your time thinking about it anymore. That's because, according to some astronomers, a new planet has been discovered, which still has a size similar to that of Earth. Amazing, isn't it? However, the news does not stop there. You may not believe it, but on this new planet, there is also the possibility that there is some kind of life. Furthermore, this new planet is about 31 light years from here on Earth.
+
+
+***
+[VIZIO Honored With Technology &amp; Engineering Emmy® Award](http://www.businesswire.com/news/home/20230216005378/en/VIZIO-Honored-With-Technology-Engineering-Emmy%C2%AE-Award/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> IRVINE, Calif.--(BUSINESS WIRE)--VIZIO Honored With Technology & Engineering Emmy® Award
+
+
+***
+[Study Finds That Americans Are Searching for New Ways to Approach Tax Season: AI Will Be the Major Disruptor](http://www.businesswire.com/news/home/20230216005315/en/Study-Finds-That-Americans-Are-Searching-for-New-Ways-to-Approach-Tax-Season-AI-Will-Be-the-Major-Disruptor/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--april (April Tax Solutions Inc.), the only AI-powered suite of embedded tax products, has announced the results of its 'State of the American Taxpayer' report, a survey of over 4,600 taxpayers compiled to understand the pain points, gaps, and opportunities with existing tax software. Through a sample reflecting 2020 US Census demographic data, april's report found that over 50% of respondents rank confidence and accuracy in receiving their maximum refund as a top prio
+
+
+***
+[A New Global Report from Domo Shows More than 60% of Workers are 'Sleepworking'](http://www.businesswire.com/news/home/20230216005111/en/A-New-Global-Report-from-Domo-Shows-More-than-60-of-Workers-are-%E2%80%9CSleepworking%E2%80%9D/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SILICON SLOPES, Utah--(BUSINESS WIRE)-- #Sleepworking--Domo (Nasdaq: DOMO) today released a new report on worker productivity and strategic engagement, which found that access to company data and modern technology impacts workers' ability to meaningfully contribute to business results. Many employees report feeling in the dark about key business objectives and insights – 31% say they feel uninformed about their company's overall strategy and nearly half (45%) say they wish they had more access t
+
+
+***
+[Orca Launches New Capabilities to Optimize Cloud Security and Cloud Spend from a Single Platform](http://www.businesswire.com/news/home/20230216005183/en/Orca-Launches-New-Capabilities-to-Optimize-Cloud-Security-and-Cloud-Spend-from-a-Single-Platform/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PORTLAND, Ore.--(BUSINESS WIRE)--Orca Security, the pioneer of agentless cloud security, today announced that the Orca Cloud Security Platform now includes a Cloud Cost Optimization framework that helps organizations reduce unnecessary cloud consumption and optimize their cloud costs while providing unmatched security with the deepest and widest visibility. Leveraging its patented SideScanning™ technology, Orca is now applying its unparalleled insights into cloud environments to help organizati
+
+
+***
+[JEDEC Wide Bandgap Power Semiconductor Committee Publishes a Series of Documents for Reliability and Testing of Silicon Carbide (SiC) MOSFETs](http://www.businesswire.com/news/home/20230216005190/en/JEDEC-Wide-Bandgap-Power-Semiconductor-Committee-Publishes-a-Series-of-Documents-for-Reliability-and-Testing-of-Silicon-Carbide-SiC-MOSFETs/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ARLINGTON, Va.--(BUSINESS WIRE)--JEDEC Solid State Technology Association, the global leader in standards development for the microelectronics industry, announces the publication of JEP194: Guideline for Gate Oxide Reliability and Robustness Evaluation Procedures for Silicon Carbide Power MOSFETs, JEP195: Guideline for Evaluating Gate Switching Instability of Silicon Carbide Metal-Oxide-Semiconductor Devices for Power Electronic Conversion, and JEP192: Guidelines for Gate Charge (QG) Test Metho
+
+
+***
+[Patrick Neise Joins Groove as Chief Information Security Officer](http://www.businesswire.com/news/home/20230216005316/en/Patrick-Neise-Joins-Groove-as-Chief-Information-Security-Officer/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)-- #sales--Groove, a market-leading sales engagement platform for enterprises using Salesforce®, today announced Patrick Neise has joined the company as Chief Information Security Officer (CISO). Patrick is a former Director of Operations for the NSA Red Team with deep expertise in protecting information systems from cyber threats at the highest level. As CISO at Groove, Patrick is committed to implementing systems and technology to ensure that the company's systems
+
+
+***
+[Tricentis Launches Testim Mobile](http://www.businesswire.com/news/home/20230215005170/en/Tricentis-Launches-Testim-Mobile/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> AUSTIN, Texas--(BUSINESS WIRE)--Tricentis, a global leader in enterprise continuous testing, today announced the release of Testim Mobile, adding extensive mobile testing capabilities to Testim. The new mobile features ensure smoother connectivity and a better mobile testing experience through codeless solutions for iOS and Android, native and web apps. Testim Mobile is driven by the rapidly growing need to ensure high performing mobile apps as mobile use reaches all-time highs. In fact, there
+
+
+***
+[Harpak-ULMA Announces New Tight-Bag™ Solutions](http://www.businesswire.com/news/home/20230215005836/en/Harpak-ULMA-Announces-New-Tight-Bag%E2%84%A2%C2%A0Solutions/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TAUNTON, Mass.--(BUSINESS WIRE)-- #3Acertification--Harpak-ULMA announces the North American availability of ULMA's Tight-Bag machines for poultry products.
+
+
+***
+[Acalvio Announces Federal Advisory Board and Appoints Former Vice Chairman of the Joint Chiefs of Staff Admiral James 'Sandy' Winnefeld, as Its Chair](http://www.businesswire.com/news/home/20230216005127/en/Acalvio-Announces-Federal-Advisory-Board-and-Appoints-Former-Vice-Chairman-of-the-Joint-Chiefs-of-Staff-Admiral-James-%E2%80%9CSandy%E2%80%9D-Winnefeld-as-Its-Chair/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SANTA CLARA, Calif.--(BUSINESS WIRE)--Acalvio Technologies, the leader in cyber deception technology, today announced its Federal Advisory Board, which will be comprised of government and industry leaders and experts dedicated to advising Acalvio on meeting federal government needs as well as providing informed perspectives on pertinent defense and security issues. In conjunction with the official launch of Acalvio's Federal Advisory Board, the company proudly announces that retired Four-Star N
+
+
+***
+[Resurgens Partners With Trey Carter, Healthcare Operating Executive, to Spearhead HCIT Efforts](http://www.businesswire.com/news/home/20230216005245/en/Resurgens-Partners-With-Trey-Carter-Healthcare-Operating-Executive-to-Spearhead-HCIT-Efforts/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ATLANTA--(BUSINESS WIRE)--Resurgens Technology Partners ('Resurgens'), a software-focused private equity firm, today announced the addition of Trey Carter as an Operating Partner to support the firm's efforts within the healthcare space. Mr. Carter brings nearly three decades of healthcare services operating experience to this partnership and will work with the Resurgens' team to identify, execute and scale new investments in healthcare technology. 'We are thrilled to welcome Trey Carter to the
+
+
+***
+[Aurora Solar Announces Expansion of Operations in Canada](http://www.businesswire.com/news/home/20230214005826/en/Aurora-Solar-Announces-Expansion-of-Operations-in-Canada/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)-- #SaaS--Aurora Solar, a cloud-based platform creating a future of solar for all by powering industry professionals to make solar simple and predictable, today announced it incorporated in Ontario with dedicated Engineering, Product, and Design teams to help scale the company to its next phase of growth. Valued at over $4 billion with more than $500 million in funding, Aurora Solar's team of 500 and growing is proud to power upwards of 100,000 solar projects every
+
+
+***
+[Protolabs Launches Instant Manufacturability Analysis for 3D Printing](http://www.businesswire.com/news/home/20230216005186/en/Protolabs-Launches-Instant-Manufacturability-Analysis-for-3D-Printing/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MINNEAPOLIS--(BUSINESS WIRE)--Digital manufacturing leader Protolabs (NYSE: PRLB) has launched instant design for additive manufacturability (DfAM) analysis on 3D-printed parts through its online quoting platform. The automated feedback enables product developers and engineers to optimize additive designs before parts are printed, which helps accelerate product development and avoid unnecessary production costs by making design adjustments early. 'Protolabs was one of the first digital manufact
+
+
+***
+[Xponential Fitness, Inc. to Announce Fourth Quarter and Full Year 2022 Financial Results on Thursday, March 2, 2023](http://www.businesswire.com/news/home/20230216005098/en/Xponential-Fitness-Inc.-to-Announce-Fourth-Quarter-and-Full-Year-2022-Financial-Results-on-Thursday-March-2-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> IRVINE, Calif.--(BUSINESS WIRE)--Xponential Fitness, Inc. (NYSE: XPOF), the largest global franchisor of boutique fitness brands, today announced that it will release its fourth quarter and full year 2022 financial results on Thursday, March 2, 2023 after the market closes. Xponential Fitness management will host a conference call to discuss the results at 1:30 p.m. PT / 4:30 p.m. ET the same day. To access the event by telephone, please dial (877) 407-9716 and provide conference ID 13734905 ap
+
+
+***
+[Root Insurance Extends Relationship with CCC to Digitize First-Party Casualty](http://www.businesswire.com/news/home/20230216005143/en/Root-Insurance-Extends-Relationship-with-CCC-to-Digitize-First-Party-Casualty/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CHICAGO--(BUSINESS WIRE)--CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, today announced Root Insurance will extend the use of CCC technology to include its first-party casualty solution. With the addition of CCC® First-Party Casualty, Root can now manage auto physical damage and first- and third-party casualty claims through a single digital workflow, powered by CCC. The CCC First-Party Casualty solution digitizes bill intake, review, and
+
+
+***
+![Zerocater raises $15M as demand heats up for flexible in-office food services](https://techcrunch.com/wp-content/uploads/2018/04/zerocater_pagerduty_1905.jpg?resize=1200,800 "Zerocater raises $15M as demand heats up for flexible in-office food services")
+
+
+[Zerocater raises $15M as demand heats up for flexible in-office food services](https://techcrunch.com/2023/02/16/zerocater-raises-15m-as-demand-heats-up-for-flexible-in-office-food-services/)
+
+
+> Zerocater —  incubated at Y Combinator back in 2011 (back in the day when YC had  just 45 companies in a cohort ) — was growing at a fast clip and gobbling up new customers for its office meal delivery service before Covid-19 hit. The pandemic led it to shed 98% of its business and set off a quick scramble to figure out how to extend its shelf life.  But survive it did, and now things are heating up. Zerocater today is announcing a round of $15 million to double down on its business with a wider geographical footprint and more AI and analytics to improve what it does.
+
+
+***
+![Mirai Variant V3G4 Targets 13 Vulnerabilities to Infect IoT Devices](https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg "Mirai Variant V3G4 Targets 13 Vulnerabilities to Infect IoT Devices")
+
+
+[Mirai Variant V3G4 Targets 13 Vulnerabilities to Infect IoT Devices](https://www.securityweek.com/mirai-variant-v3g4-targets-13-vulnerabilities-to-infect-iot-devices/)
+
+
+> During the second half of 2022, a variant of the Mirai malware called V3G4 was seen targeting 13 vulnerabilities to ensnare Internet of Things (IoT) devices into a botnet, Palo Alto Networks reports. Following the successful exploitation of the targeted security flaws, the malware takes full control of the vulnerable devices and then abuses them to conduct various types of malicious activities, including distributed denial-of-service (DDoS) attacks. Starting July 2022, Mirai variant V3G4 was used in multiple attack campaigns, likely by the same threat actor, based on the used hardcoded command-and-control (C&C) domains, malware downloaders, XOR decryption key, identical functions, and a ‘stop list'.
+
+
+***
+![Total War: Warhammer III Immortal Empire is available to all game owners – Total War: Warhammer III](https://www.gamereactor.cn/media/31/totalwar_3703173b.jpg "Total War: Warhammer III Immortal Empire is available to all game owners – Total War: Warhammer III")
+
+
+[Total War: Warhammer III Immortal Empire is available to all game owners – Total War: Warhammer III](https://www.world-today-news.com/total-war-warhammer-iii-immortal-empire-is-available-to-all-game-owners-total-war-warhammer-iii/)
+
+
+> With the first anniversary of the release of Total War: Warhammer III, Sega and Creative Assembly have announced the implementation of the Immortal Empire expansion for all owners of the game. Immortal Empire, which entered beta in August 2022, allows players to take control of any faction in any Total War: Warhammer game and try to control a huge map that spans the Warhammer fantasy world. The announcement is accompanied by a trailer, which you can check out below. The trailer mostly shows off some of the epic battles you can get into with the Immortal Empire, but towards the end it seems to be teasing the addition of the Chaos Dwarves, a faction that many believe will serve as the main force since the release of Total War: Warhammer III.
+
+
+***
+![Tim Cook's mysterious silence on ChatGPT is making Apple look out of touch](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17z6va.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=349&y=538 "Tim Cook's mysterious silence on ChatGPT is making Apple look out of touch")
+
+
+[Tim Cook's mysterious silence on ChatGPT is making Apple look out of touch](http://www.msn.com/en-us/news/technology/tim-cook-s-mysterious-silence-on-chatgpt-is-making-apple-look-out-of-touch/ar-AA17yYta)
+
+
+> It's a new AI arms race, and Big Tech companies are scrambling to meet the moment. Microsoft and Google released competing AI-powered products last week, amid a slew of other companies began announcing plans for products and services running on some type of AI. This new race —driven by the hype surrounding OpenAI's viral ChatGPT application— has turned AI into the new battleground. OpenAI's ChatGPT and similar AI tools may not replace jobs anytime soon. But they can help workers across many industries – from tech to media – do their jobs better and more quickly.
+
+
+***
+![Seattle founder who sold company to Google says tech giant has ‘slowly ceased to function'](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17wwEk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=403&y=244 "Seattle founder who sold company to Google says tech giant has ‘slowly ceased to function'")
+
+
+[Seattle founder who sold company to Google says tech giant has ‘slowly ceased to function'](http://www.msn.com/en-us/news/technology/seattle-founder-who-sold-company-to-google-says-tech-giant-has-slowly-ceased-to-function/ar-AA17x4LS)
+
+
+> A former Google employee who just left the tech giant after three years says he witnessed a 'gradual decay of a dominant empire' and said the company 'has slowly ceased to function.' Praveen Seshadri, who sold his Seattle startup AppSheet to Google Cloud in 2020, published a blog post Tuesday suggesting that Google needs an 'intervention.' Load Error 'Google's fundamental problems are along the culture axis and everything else is a reflection of it,' he wrote. Seshadri called the current moment 'fragile' for Google as it faces pressure from Open AI and Microsoft, which made headlines last week for its new Bing search engine.
+
+
+***
+![Russia has created its own operating system. No, it's not a Windows competitor](https://www.gamereactor.cn/media/41/playstationishosting_3964123b.jpg "Russia has created its own operating system. No, it's not a Windows competitor")
+
+
+[Russia has created its own operating system. No, it's not a Windows competitor](https://www.world-today-news.com/russia-has-created-its-own-operating-system-no-its-not-a-windows-competitor/)
+
+
+> M OS is a system created by a group of programmers from the Russian Department of Information Technology. 'System', however, is too big a word, because we are simply talking about another Linux distribution, and there are dozens of such on the web. The sanctions imposed by the West and large tech companies have made Russia look for new ways to gain full independence in this sector of the economy. Even before the war broke out in Ukraine, the Kremlin was supposed to start working on cutting off the country from the World Wide Web and creating its own 'Russian Internet'.
+
+
+***
+![Best ChatGPT AI Alternatives You Need To Try in 2023](https://images.tech.co/wp-content/uploads/2023/02/13122854/AdobeStock_565806241-min-scaled.jpeg "Best ChatGPT AI Alternatives You Need To Try in 2023")
+
+
+[Best ChatGPT AI Alternatives You Need To Try in 2023](https://tech.co/news/best-chatgpt-alternatives)
+
+
+> ChatGPT is taking the world by storm – and that's putting it lightly. Over 100 million people are said to have initiated a conversation with the AI chatbot since its release last November, and social media is awash with screenshots of the fascinating interactions people have had with it. However, ChatGPT is often at full capacity and inaccessible to new users. What's more, Microsoft, which bankrolled ChatGPT creators OpenAI, is already exploring ways to commercialize the technology, such as adding it to the new Microsoft Teams Premium .
+
+
+***
+![Hackers Using Google Ads to Spread FatalRAT Malware Disguised as Popular Apps](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiluoj8hbb8-QqwXC2QzaXGhQrbzT9BDiHcChQtTKZKstJH7CdbjEWu12sMxba5ZDf5OXfVGHTbaO0vLp-ZhJkcXZ41E6jSJqbNQMBkJbWxPvFKz9JwWREKbyfjtaaXNWl6qfVlvBeie_z4ZE_YfbzQ55wXCTbiGEn5v_kq_Ai-Amh9uxirUA1psXlh/s728-e3650/download-malware.png "Hackers Using Google Ads to Spread FatalRAT Malware Disguised as Popular Apps")
+
+
+[Hackers Using Google Ads to Spread FatalRAT Malware Disguised as Popular Apps](https://thehackernews.com/2023/02/hackers-using-google-ads-to-spread.html)
+
+
+> Chinese-speaking individuals in Southeast and East Asia are the targets of a new rogue Google Ads campaign that delivers remote access trojans such as FatalRAT to compromised machines. The attacks involve purchasing ad slots to appear in Google search results that direct users searching for popular applications to rogue websites hosting trojanized installers, ESET said in a report published today. The ads have since been taken down. Some of the spoofed applications include Google Chrome, Mozilla Firefox, Telegram, WhatsApp, LINE, Signal, Skype, Electrum, Sogou Pinyin Method, Youdao, and WPS Office.
+
+
+***
+![Biden's IRS Pick Says He Wants to Move Agency's Systems into the 21st Century](https://cdn.nextgov.com/media/img/cd/2023/02/16/021523_Getty_FCW_WerfelConfirmation/open-graph.jpg "Biden's IRS Pick Says He Wants to Move Agency's Systems into the 21st Century")
+
+
+[Biden's IRS Pick Says He Wants to Move Agency's Systems into the 21st Century](https://fcw.com/people/2023/02/bidens-irs-pick-says-he-wants-move-agencys-systems-21st-century/383012/)
+
+
+> During a Wednesday nomination hearing before the Senate Finance Committee, President Biden's pick to head the IRS, Danny Werfel, fielded questions about how he would spend the $80 billion infusion of cash into the agency promised over the next decade. Technology, Werfel said, will be paramount, fielding questions from lawmakers about legacy systems, cybersecurity and customer service at the IRS and telling them, 'We want to move systems into the 21st century.'  The Inflation Reduction Act, passed by Democrats last year, included around $4.
+
+
+***
+[Bobcat to Unveil New Innovations, Technologies and Showcase Most Expansive Product Lineup at CONEXPO-CON/AGG 2023](http://www.businesswire.com/news/home/20230216005299/en/Bobcat-to-Unveil-New-Innovations-Technologies-and-Showcase-Most-Expansive-Product-Lineup-at-CONEXPO-CONAGG-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WEST FARGO, N.D.--(BUSINESS WIRE)--Bobcat Company, a global compact equipment, innovation and worksite solutions brand, is preparing to showcase its most robust lineup ever at CONEXPO-CON/AGG 2023 in Las Vegas, March 14 - 18. The brand will celebrate its newest innovations, digital solutions, equipment and expertise in bold new ways during the show, which also coincides with the company's 65th anniversary year. 'Our groundbreaking legacy as the inventors of the compact equipment industry is jus
+
+
+***
+[WPP Partners With Stripe to Expand Commerce and Payments Solutions for Brands](http://www.businesswire.com/news/home/20230215005746/en/WPP-Partners-With-Stripe-to-Expand-Commerce-and-Payments-Solutions-for-Brands/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--WPP (NYSE: WPP) today announced it has partnered with Stripe to develop new commerce and payments solutions on behalf of joint clients. With this announcement WPP is now a Consulting Partner within the Stripe Partner Ecosystem (SPE), a program which provides a comprehensive package of resources and access to industry-leading consulting firms. WPP, together with Stripe, will engage in strategy and consulting to help clients with a range of initiatives including digital
+
+
+***
+![Qualcomm Snapdragon X75 Makes 5G 20% More Efficient in iPhone 15 – Research Snipers](https://researchsnipers.com/wp-content/uploads/2023/02/image-35.png "Qualcomm Snapdragon X75 Makes 5G 20% More Efficient in iPhone 15 – Research Snipers")
+
+
+[Qualcomm Snapdragon X75 Makes 5G 20% More Efficient in iPhone 15 – Research Snipers](https://researchsnipers.com/qualcomm-snapdragon-x75-makes-5g-20-more-efficient-in-iphone-15)
+
+
+> The chip giant Qualcomm has introduced a new, even more efficient 5G modem with the Snapdragon X75. The new version delivers a variety of improvements, including a significantly smaller design and lower power requirements. The Qualcomm Snapdragon X75 5G modem basically offers the same features as its predecessor, the X70, but brings with it a whole range of fundamental changes that should greatly benefit future smartphones. It's all about the space that the modem takes up in the devices and the power consumption.
+
+
+***
+![Researchers Warn of Critical Security Bugs in Schneider Electric Modicon PLCs](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEhpYornV7JDRvEFaFRJTX6E2foVdpE00NqMuOySAisJZoalR15gWIL07l0r795VTV0YKWRPdO_3DJBF5arZvGJiBQlWDACoxhnSrWHZ8OPUgnLXNZ6ZzxW9QwbiWyzgeZHqw8thTV4oSNAvUwKKoiT6q2dQZL3OUyuSGCTRrBlN6BPFErI30dqQVv0E/s728-e3650/plc.png "Researchers Warn of Critical Security Bugs in Schneider Electric Modicon PLCs")
+
+
+[Researchers Warn of Critical Security Bugs in Schneider Electric Modicon PLCs](https://thehackernews.com/2023/02/researchers-warn-of-critical-security.html)
+
+
+> Security researchers have disclosed two new vulnerabilities affecting Schneider Electric Modicon programmable logic controllers (PLCs) that could allow for authentication bypass and remote code execution. The flaws, tracked as CVE-2022-45788 (CVSS score: 7.5) and CVE-2022-45789 (CVSS score: 8.1), are part of a broader collection of security defects tracked by Forescout as OT:ICEFALL. Successful exploitation of the bugs could enable an adversary to execute unauthorized code, denial-of-service, or disclosure of sensitive information.
+
+
+***
+![Insulet doubles down with another $25M automated insulin delivery tech buy](https://qtxasset.com/quartz/qcloud5/media/image/insulet-omnipod5.jpg?VersionId=ojkcX02XyFuk0X2R2248QX4jgiVr8Yze "Insulet doubles down with another $25M automated insulin delivery tech buy")
+
+
+[Insulet doubles down with another $25M automated insulin delivery tech buy](https://www.fiercebiotech.com/medtech/insulet-doubles-down-another-25m-automated-insulin-delivery-tech-buy)
+
+
+> Insulet doubles down with another $25M automated insulin delivery tech buy apark Thu, 02/16/2023 - 08:18
+
+
+***
+![EURUSD sellers lean against the 200 hour MA in trading today. What next going into data?](https://images.forexlive.com/images/EURUSD_id_c919f83d-51d1-4d97-b50f-21167db1cf84_size900.jpg?v=1676559265845 "EURUSD sellers lean against the 200 hour MA in trading today. What next going into data?")
+
+
+[EURUSD sellers lean against the 200 hour MA in trading today. What next going into data?](https://www.forexlive.com/technical-analysis/eurusd-sellers-lean-against-the-200-hour-ma-in-trading-today-20230216/)
+
+
+> The 200 hour MA will be eyed on any rally today EURUSD stays below the 200 hour MA With a slew of data out today and Fed speakers on the schedule, the EURUSD EUR/USD The EUR/USD is the currency pair encompassing the European Union's single currency, the euro (symbol €, code EUR), and the dollar of the United States (symbol $, code USD). The pair's rate indicates how many euros are needed in order to purchase one dollar. For example, when the EUR/USD is trading at 1.2, it means 1 euro is equivalent to 1.
+
+
+***
+![NASA Uses AI to Design Spacefaring Hardware](https://eu-images.contentstack.com/v3/assets/blt31d6b0704ba96e9d/blt7e80a1862644c16e/63ee2f13107de669dd435d39/Screenshot_(462).png "NASA Uses AI to Design Spacefaring Hardware")
+
+
+[NASA Uses AI to Design Spacefaring Hardware](https://aibusiness.com/automation/nasa-turns-to-ai-to-design-spacefaring-hardware)
+
+
+> Austin Tech TV Events Advertise Subscribe AI will play a key role in the Artemis crewed lunar landings February 16, 2023 Mankind is set to return to the Moon for the first time since 1972. The Artemis missions will see NASA, along with European, Canadian and Japanese counterparts land the first woman and first person of color on the Moon some fifty years on from Apollo 17. Technology has advanced significantly since then, with AI set to play an important role in the next crewed mission to the Moon.
+
+
