@@ -36913,3 +36913,955 @@
 > Austin Tech TV Events Advertise Subscribe AI will play a key role in the Artemis crewed lunar landings February 16, 2023 Mankind is set to return to the Moon for the first time since 1972. The Artemis missions will see NASA, along with European, Canadian and Japanese counterparts land the first woman and first person of color on the Moon some fifty years on from Apollo 17. Technology has advanced significantly since then, with AI set to play an important role in the next crewed mission to the Moon.
 
 
+***
+![Brie Larson shares pictures of her Super Nintendo World trip](https://gonintendo.com/attachments/image/23395/file/medium-d7d40f15c5ca5763d25c73bfc1e8bf23.jpg "Brie Larson shares pictures of her Super Nintendo World trip")
+
+
+[Brie Larson shares pictures of her Super Nintendo World trip](https://gonintendo.com/contents/16367-brie-larson-shares-pictures-of-her-super-nintendo-world-trip)
+
+
+> Looks like she had a MARVELous time Super Nintendo World at Universal Studios Hollywood has officially opened its doors, and things kicked off last night with a special grand opening celebration. Plenty of fans, press and VIPs were in attendance for the event, and it turns out some Hollywood heavyweights were mingling as well! Brie Larson has shared some pictures on Twitter of her time at Super Nintendo World last night, and it looks like she had a blast. She was apparently there on Nintendo's dime, which shouldn't surprise anyone.
+
+
+***
+![CPE Webinar May 23, 2023: Tax Workflow Automation: Make Your Tech Investment Count](https://www.cpapracticeadvisor.com/wp-content/uploads/sites/2/2022/07/SafeSend_Horz-Color-RGB.jpg "CPE Webinar May 23, 2023: Tax Workflow Automation: Make Your Tech Investment Count")
+
+
+[CPE Webinar May 23, 2023: Tax Workflow Automation: Make Your Tech Investment Count](https://www.cpapracticeadvisor.com/2023/02/16/cpe-webinar-may-23-2023-tax-workflow-automation-make-your-tech-investment-count/76831/)
+
+
+> Date:  Tuesday, May 23, 2023 Time: 2:00 PM ET / 1:00 PM CT / 11:00 AM PT / 6:00 PM GMT Sponsor:  SafeSend Duration:  1 Hour Already registered for this webinar? Please click here to log in. The height of tax season is often the time when firms feel the impact of inefficiency. Don't settle for clunky solutions and processes filled with manual tasks that cause anxiety and burnout among staff. You deserve more! Make it easy is the key to retain both valuable clients and staff and reduce the strain of busy season.
+
+
+***
+![Tesla recalls 362,000 vehicles over self-driving software flaws that risk crashes](https://i.guim.co.uk/img/media/6872dbfb2108083b1d593c09bd11d484cd445cea/0_245_8000_4802/master/8000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c64a185bba9452f875c6b22589027503 "Tesla recalls 362,000 vehicles over self-driving software flaws that risk crashes")
+
+
+[Tesla recalls 362,000 vehicles over self-driving software flaws that risk crashes](https://www.theguardian.com/technology/2023/feb/16/tesla-recall-full-self-driving-cars)
+
+
+> Tesla said it would recall 362,000 US vehicles to update its Full Self-Driving (FSD) Beta software after regulators said on Thursday the driver assistance system did not adequately adhere to traffic safety laws and could cause crashes. The National Highway Traffic Safety Administration (NHTSA) said the Tesla software allows a vehicle to 'exceed speed limits or travel through intersections in an unlawful or unpredictable manner increases the risk of a crash'. Tesla will release an over-the-air (OTA) software update free of charge, and the electric vehicle maker said is not aware of any injuries or deaths that may be related to the recall issue.
+
+
+***
+![Autonomation](https://techcrunch.com/wp-content/uploads/2023/02/CMC_6235.jpg?resize=1200,800 "Autonomation")
+
+
+[Autonomation](https://techcrunch.com/2023/02/16/autonomation/)
+
+
+> 'Jidoka' is a new one to me. TRI (Toyota Research Institute) CEO Gill Pratt described the concept as 'Automation with a Human Touch.' The anglicized version of the notion is 'Autonomation' — both are modified forms of ' automation,' in their respective languages. The word was originally applied to Toyota's Production System, highlighting the need for human participation in the process. Quoting from Toyota here: Employing Jidoka principles throughout the production process is a vital element of the Toyota Production System, forcing imperfections to be immediately addressed by self-inspecting workers and thereby reducing the amount of work added to a defective product.
+
+
+***
+![GBPUSD back above swing area after low from last week attracts buyers](https://images.forexlive.com/images/GBPUSD_id_92231715-9467-4c5a-a929-11ec2d2a972f_size900.jpg?v=1676577771891 "GBPUSD back above swing area after low from last week attracts buyers")
+
+
+[GBPUSD back above swing area after low from last week attracts buyers](https://www.forexlive.com/technical-analysis/gbpusd-back-above-swing-area-after-low-from-last-week-attracts-buyers-20230216/)
+
+
+> GBPUSD bounces off the low from last week The GBPUSD moved down to test the swing low from last week at 1.19601. The low price they reach 1.1964 and stalled. The subsequent bounce has taken the price back above the swing area between 1.1991 and 1.2010 (or 1.2000 if you spilt the difference). That area is now back as support. On the top side, the Monday low at 1.20300 is the next target to get to and through. The close price from yesterday was at 1.20329. Move back into positive territory would
+
+
+***
+![Square Enix hosting Theatrhythm Final Bar Line 'Moogle Guitar' contest in Japan](https://gonintendo.com/attachments/image/23389/file/medium-6578ae9138a8f8b8490b8022ee10be31.jpg "Square Enix hosting Theatrhythm Final Bar Line 'Moogle Guitar' contest in Japan")
+
+
+[Square Enix hosting Theatrhythm Final Bar Line 'Moogle Guitar' contest in Japan](https://gonintendo.com/contents/16361-square-enix-hosting-theatrhythm-final-bar-line-moogle-guitar-contest-in-japan)
+
+
+> Want yet another reason to be jealous of the gaming scene in Japan? Square Enix is celebrating the release of Theatrhythm Final Bar Line worldwide, but over in Japan, they're hosting a promotional contest with one hell of a grand prize. Japanese audiences who are interested in Theatrhythm Final Bar Line can hop on Twitter to take part in a new contest. Square Enix is asking fans to share screens or videos of their two favorite songs in Theatrhythm Final Bar Line. Those who share content and then follow the Theatrhythm Final Bar Line Twitter account will be entered into the contest.
+
+
+***
+![Group: Tesla workers fired after union push at NY plant](https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/9/eb/9eb5b37e-f55a-5a77-9e18-8c777ffe10c8/63ee4c433c52a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize "Group: Tesla workers fired after union push at NY plant")
+
+
+[Group: Tesla workers fired after union push at NY plant](https://siouxcityjournal.com/lifestyles/technology/group-tesla-workers-fired-after-union-push-at-ny-plant/article_922e6ed0-5e2a-5bbc-87c2-1e9fd681c5b0.html)
+
+
+> By MICHELLE CHAPMAN - AP Business Writer Several employees at a Tesla factory in New York have been fired a day after launching union organizing efforts, according to Tesla Workers United. The workers at the Buffalo plant received an email Wednesday evening updating them on a new policy that prohibits them from recording workplace meetings without all participants' permission, the group said in a release Thursday. It said that such restrictions violate federal labor law and flouts New York's one-party consent law to record conversations.
+
+
+***
+![Technique transforms metals microscopic structure](https://www.aerospacemanufacturinganddesign.com/fileuploads/image/2023/02/15/mit-printingblades_0123_1ll.jpg "Technique transforms metals microscopic structure")
+
+
+[Technique transforms metals microscopic structure](https://www.aerospacemanufacturinganddesign.com/article/technique-transforms-metals-microscopic-structure/)
+
+
+> A thin rod of 3D-printed superalloy is drawn from a water bath and through an induction coil, where it is heated to transform its microstructure, making the material more resilient. Photo credit: Dominic David Peachey An MIT-developed heat treatment transforms the microscopic structure of 3D-printed metals, making the materials stronger and more resilient in extreme thermal environments. The technique could allow 3D printing of high-performance blades and vanes for jet engines, which would enable new designs with improved fuel consumption and energy efficiency.
+
+
+***
+![Tech giants fear SCOTUS cases could wreak havoc on the internet](https://www.abajournal.com/images/main_images/shutterstock_gavel_on_laptop.jpg "Tech giants fear SCOTUS cases could wreak havoc on the internet")
+
+
+[Tech giants fear SCOTUS cases could wreak havoc on the internet](https://www.abajournal.com/web/article/tech-giants-fear-scotus-case-could-wreak-havoc-on-the-internet)
+
+
+> Home Web First Tech giants fear SCOTUS cases could wreak… Supreme Court Report Tech giants fear SCOTUS cases could wreak havoc on the internet Image from Shutterstock. The New Yorker magazine calls them the 'cases that could break the internet.' Reddit Inc., the moderated platform of online communities of shared interests, says in an amicus brief that 'a sweeping ruling narrowing' the protections of Section 230 of the Communications Decency Act 'would risk devastating the Internet.' And Google, the giant search engine and parent of YouTube, the video-sharing website at the center of one of the cases, uses only slightly less dire language: A U.
+
+
+***
+![New neural network method improves microscopic distance measurements between colored points in three dimensions](https://scx2.b-cdn.net/gfx/news/2023/new-neural-network-met.jpg "New neural network method improves microscopic distance measurements between colored points in three dimensions")
+
+
+[New neural network method improves microscopic distance measurements between colored points in three dimensions](https://techxplore.com/news/2023-02-neural-network-method-microscopic-distance.html)
+
+
+> Optical system and end-to-end learning of the PSF. (A) Training scheme: 2 differently colored emitters at random positions in 3D are fed into the physical layer to generate an image. The phase at the mask plane is modified by a chromatically dependent mask, affecting the PSF of each color differently, as function of the SLM voltage. The resulting image is fed into the reconstruction network that outputs a scalar distance. The loss between the output and the true distance is used for joint optimization of the network parameters and the SLM voltage pattern.
+
+
+***
+![Piers Morgan brands police's Nicola Bulley comments 'outrageous'](https://iknowallnews.com/wp-content/uploads/2023/02/Piers-Morgan-brands-polices-Nicola-Bulley-comments-outrageous.jpg "Piers Morgan brands police's Nicola Bulley comments 'outrageous'")
+
+
+[Piers Morgan brands police's Nicola Bulley comments 'outrageous'](https://iknowallnews.com/celebrities/piers-morgan-brands-polices-nicola-bulley-comments-outrageous/)
+
+
+> Home » Celebrities » Piers Morgan brands police's Nicola Bulley comments ‘outrageous' We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info Piers Morgan, 57, spoke out on his outrage earlier today after Lancashire Police disclosed Nicola Bulley's struggles with alcohol that were brought on by the menopause. The 45-year-old went missing while walking her dog on January 27 and despite ongoing search efforts, is still yet to be found.
+
+
+***
+![Maya Jama prepares Love Islanders for elimination in eye-popping dress](https://iknowallnews.com/wp-content/uploads/2023/02/Maya-Jama-prepares-Love-Islanders-for-elimination-in-eye-popping-dress.jpg "Maya Jama prepares Love Islanders for elimination in eye-popping dress")
+
+
+[Maya Jama prepares Love Islanders for elimination in eye-popping dress](https://iknowallnews.com/celebrities/maya-jama-prepares-love-islanders-for-elimination-in-eye-popping-dress/)
+
+
+> Home » Celebrities » Maya Jama prepares Love Islanders for elimination in eye-popping dress Maya Jama made her momentous return to South Africa for the next installment of Love Island Maya Jama might not be popular with all the Love Islanders, as her arrival means an enormous shake-up, which is tipped to see nine of the contestants packing their bags and getting ready to leave their lives of luxury at the villa.  We use your sign-up to provide content in ways you've consented to and to improve our understanding of you.
+
+
+***
+![The power of footfall: Harvesting energy from human traffic](https://scx2.b-cdn.net/gfx/news/hires/2023/walking-feet.jpg "The power of footfall: Harvesting energy from human traffic")
+
+
+[The power of footfall: Harvesting energy from human traffic](https://techxplore.com/news/2023-02-power-footfall-harvesting-energy-human.html)
+
+
+> Credit: Pixabay/CC0 Public Domain For many years wind power, solar power, tidal power and many other sustainable solutions to electricity generation have been in place. But, what about harvesting the energy of human traffic on city streets and other environments? Research published in the International Journal of Biomechatronics and Biomedical Robotics demonstrates how the energy of footfall from people simply going about their business on the streets, in shopping malls , the workplace, and elsewhere might be harvested to generate electricity without affecting how people walk on the surface nor being too costly to implement or maintain.
+
+
+***
+![It's Time to Finally Get Our Ass to Uranus](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/41a587cb8168f4810bdf4ffbc6c9ffbb.png "It's Time to Finally Get Our Ass to Uranus")
+
+
+[It's Time to Finally Get Our Ass to Uranus](https://gizmodo.com/first-mission-to-uranus-orbiter-probe-nasa-1850122336)
+
+
+> With its strange rings and tilt, surprising seasonal variations, and 27 moons, Uranus is the solar system's weirdo planet. The enigmatic ice giant has a lot to teach us, which is why astronomers are clamoring for a mission to explore the planet up close. The first dedicated mission to Uranus is long overdue, argues Kathleen Mandt, a planetary scientist from Johns Hopkins Applied Physics Laboratory, in a Science Perspectives essay published today. Indeed, it's been a minute since our only, brief visit to the distant ice giant.
+
+
+***
+![Meta's cold war with Apple over privacy is coming to a critical moment](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17zTl8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Meta's cold war with Apple over privacy is coming to a critical moment")
+
+
+[Meta's cold war with Apple over privacy is coming to a critical moment](http://www.msn.com/en-us/news/technology/meta-s-cold-war-with-apple-over-privacy-is-coming-to-a-critical-moment/ar-AA17zPol)
+
+
+> Meta CEO Mark Zuckerberg has declared 2023 a "year of efficiency," as the social networking giant reels from brutal layoffs and shrinking revenue. Load Error Many of the problems at the company are also affecting its peers in the tech industry, especially Google. Inflation, higher interest rates, and an uncertain global political situation have all led companies to slash their online advertising budgets as they hunker down for the possibility of recession. But Meta has a much bigger problem: Its so-called family of apps, including Facebook, Instagram, and WhatsApp, are "at the whim of Apple," in the words of a top Meta exec in a recent internal posting reported by Recode.
+
+
+***
+![Hasbro Admits Missteps With Wizards of the Coast](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e3cab9818294b0e29024844a62c79695.jpg "Hasbro Admits Missteps With Wizards of the Coast")
+
+
+[Hasbro Admits Missteps With Wizards of the Coast](https://gizmodo.com/hasbro-dnd-wotc-investor-call-minor-ogl-magic-the-gathe-1850122792)
+
+
+> Early in today's Hasbro earnings call, Chris Cocks—the CEO of Hasbro and former president of Wizards of the Coast (2016-2022)—spoke about the Dungeons & Dragons   Open Gaming License , though he focused more on talking around the issues rather than directly engaging with them. No specifics were given; instead of delays, there were 'challenges.' There's been progress, excellence, and creativity driving growth, but no explanation of what those things are—typical business word mush for a call like this.
+
+
+***
+![Check out the latest trailer for The Settlers: New Allies](https://gonintendo.com/attachments/image/23385/file/medium-462f18f7104aecde00070f282828c009.jpg "Check out the latest trailer for The Settlers: New Allies")
+
+
+[Check out the latest trailer for The Settlers: New Allies](https://gonintendo.com/contents/16357-check-out-the-latest-trailer-for-the-settlers-new-allies)
+
+
+> Ubisoft previously announced that they're bringing The Settlers: New Allies to the Switch sometime after February 2023. While we wait for more information on the Switch release date, a new trailer has been shared. You can take a look at what the game has to offer in the video above. The Settlers: New Allies is a strategy game with an in-depth build-up experience and real-time strategic battles. The game combines a fresh take on the popular gameplay mechanics of the series with a new spin. It offers a deep infrastructure and economy gameplay, used to create and employ armies, to ultimately defeat opponents.
+
+
+***
+![Installing and Using Helm](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png "Installing and Using Helm")
+
+
+[Installing and Using Helm](https://medium.com/@wmosman1999/installing-and-using-helm-88607b207251)
+
+
+> Helm is used to streamline installing and managing Kubernetes applications. Helm consists of the helm tool, which needs to be installed. In helm, we add repositories that consist of many helm charts that can be installed. A Helm chart is a package that contains all the necessary resources and configuration information for deploying and managing an application on a Kubernetes cluster. How to install the helm tool and use it 1.) Go to https://github.com/helm/helm/releases and download the latest version of the helm, I'm using a Linux operating system so I downloaded the amd64 Linux version.
+
+
+***
+![Knockout City Season 9: Legend of Gearbeard Sets Sail Feb. 28th!](https://gonintendo.com/attachments/image/23384/file/medium-77c65dfe5881a00f2ce225e66a8e6bd4.jpg "Knockout City Season 9: Legend of Gearbeard Sets Sail Feb. 28th!")
+
+
+[Knockout City Season 9: Legend of Gearbeard Sets Sail Feb. 28th!](https://gonintendo.com/contents/16356-knockout-city-season-9-legend-of-gearbeard-sets-sail-feb-28th)
+
+
+> Look alive, matey, because there's an all-new adventure waiting for you! Join Captain Madeline 'Mads' Ortiz on her quest for Gearbeard's legendary treasure and prepare for high-seas surprises in Knockout City Season 9: Legend of Gearbeard, setting sail on February 28th, 2023! Season 9 is the final season of Knockout City, and it's packed to the gills with content! Legend of Gearbeard is a fully-realized final Season featuring the all-new Dueling Docks map, new cosmetics, a new Premium Brawl Pass for only 50 Holobux, new Deep Space Dispatches, back-to-back special Events, and plenty of surprises to celebrate until public servers close on June 6th, 2023.
+
+
+***
+![Tax season is here. New small biz owners, heed these fundamental filing tips](https://technical.ly/wp-content/uploads/2023/02/estate-planning-forms-taxes-business-documents-Pexels.jpg "Tax season is here. New small biz owners, heed these fundamental filing tips")
+
+
+[Tax season is here. New small biz owners, heed these fundamental filing tips](https://technical.ly/professional-development/tax-advice-small-businesses/)
+
+
+> Are you ready for April 18, 2023 ? If you're behind one of the 5.1 million new businesses formed in 2022 — a near-record, behind only 2021 — you might have some questions ahead of Tax Day. The CASH Campaign of Maryland , located in Baltimore, offers tax expertise to underserved people in the state. The nonprofit specifically works for the economic advancement of low- to moderate-income Marylanders, especially at tax time. Rob Bader, its director of tax operations, sat down with Technical.
+
+
+***
+![Secretive Israeli Company Says It Manipulated 30+ Elections Worldwide](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/65c284b1b4f6497b7c6bffa86fa669aa.jpg "Secretive Israeli Company Says It Manipulated 30+ Elections Worldwide")
+
+
+[Secretive Israeli Company Says It Manipulated 30+ Elections Worldwide](https://gizmodo.com/team-jorge-election-meddling-tal-hanan-misinformation-1850120328)
+
+
+> A secretive Israeli cyber company is engineering ongoing influence operations directed at elections all over the world, a consortium of more than 30 news organizations reports . The CEO of the company, a former Israeli special forces agent named Tal Hanan, boasted to undercover journalists that his team of psychological warfare operators had been involved in '33 presidential-level [political] campaigns, 27 of which were successful,' according to the consortium's stories. Reporters from a cadre of well respected news outlets including The Guardian , Der Spiegel , Haaretz , Le Monde , and dozens of others, worked together to investigate the activities of 'Team Jorge'—a shadowy cyber firm that claims to do contract work for intelligence agencies, corporations, and political parties.
+
+
+***
+![Get an early look at Minecraft's sniffer mob](https://gonintendo.com/attachments/image/23383/file/medium-6f8cd6a0c9e0de79b709716a627d0d50.jpg "Get an early look at Minecraft's sniffer mob")
+
+
+[Get an early look at Minecraft's sniffer mob](https://gonintendo.com/contents/16355-get-an-early-look-at-minecraft-s-sniffer-mob)
+
+
+> The winner of the Minecraft Live 2022 Mob Vote is making its debut in Minecraft 1.20! The sniffer is an ancient mob that was extinct… until now! Well, if you decide to help it thrive, that is. To bring the sniffer back to Minecraft, you will need to find its eggs and help them hatch, which you can try out for the first time in a Bedrock beta and preview and Java snapshot that will be coming soon! When getting to know the final form of the sniffer, the first step is to ready yourself for an adventure.
+
+
+***
+![Researchers Observe Large Cracks Throughout Antarctica's 'Doomsday Glacier'](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/36ebb749caefcc0cb34b5b92a79ee478.jpg "Researchers Observe Large Cracks Throughout Antarctica's 'Doomsday Glacier'")
+
+
+[Researchers Observe Large Cracks Throughout Antarctica's 'Doomsday Glacier'](https://gizmodo.com/thwaites-doomsday-glacier-cracks-antarctica-robot-1850123035)
+
+
+> Thanks to a skinny, torpedo-shaped robot, scientists have been able to better observe the forces eroding Antarctica's Thwaites glacier, aka the ‘ doomsday glacier ' that could rapidly raise sea levels if it melts. A research team sent the remotely operated Icefin underwater robot underneath the glacier in western Antarctica. They found that the ice was overall melting slower than previously predicted by computer models, but they also observed where the melting was more likely to occur. Their findings are published in two separate papers in the journal Nature this week .
+
+
+***
+![Justice Sucks 'Vacuum of Space Update' now live](https://gonintendo.com/attachments/image/23381/file/medium-49133565d68932148680ed1150a162ee.png "Justice Sucks 'Vacuum of Space Update' now live")
+
+
+[Justice Sucks 'Vacuum of Space Update' now live](https://gonintendo.com/contents/16353-justice-sucks-vacuum-of-space-update-now-live)
+
+
+> You thought it was all over. The corporation beaten and your family rescued, but Samurai Punk and publisher tinyBuild are dragging you in for one last job, and it's sure to get messy. Justice Sucks: Tactical Vacuum Action returns this month in Vacuum of Space, a FREE content update of stellar proportions. Releasing February 16th for Switch, tackle Dusty McClean's most daring and dangerous mission yet; a clean sweep of FamilyCorp's final orbital stronghold. Continuing shortly after Justice Sucks ends, Vacuum of Space sees Dusty's family once again menaced by their corporate captors.
+
+
+***
+![Tesla recalls 'Full Self-Driving' to fix flaws in behavior](https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/2/20/220db984-b2c2-55a3-96ae-7845a1c68545/63ee79ecaaf42.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Tesla recalls 'Full Self-Driving' to fix flaws in behavior")
+
+
+[Tesla recalls 'Full Self-Driving' to fix flaws in behavior](https://siouxcityjournal.com/lifestyles/technology/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/article_cf8a0601-fedc-5e92-b962-73cd8c6ef05a.html)
+
+
+> DETROIT (AP) — Tesla is recalling nearly 363,000 vehicles with its 'Full Self-Driving' system to fix problems with the way it behaves around intersections and following posted speed limits. The recall, part of a larger investigation by U.S. safety regulators into Tesla's automated driving systems, came after regulators expressed concerns about the way Tesla's system responds in four areas along roads. The National Highway Traffic Safety Administration says in documents posted Thursday that Tesla will fix the concerns with an online software update in the coming weeks.
+
+
+***
+![Tesla 'Recalls' Over 360,000 Full-Self-Driving Vehicles, Plans OTA Update Fix](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/maxresdefault%20%281%29.jpg?itok=fTtUbeBp "Tesla 'Recalls' Over 360,000 Full-Self-Driving Vehicles, Plans OTA Update Fix")
+
+
+[Tesla 'Recalls' Over 360,000 Full-Self-Driving Vehicles, Plans OTA Update Fix](https://www.zerohedge.com/technology/tesla-recalls-over-360000-full-self-driving-vehicles-plans-ota-update-fix)
+
+
+> Tesla is recalling nearly 363,000 vehicles with its 'Full Self-Driving' system to fix problems with the way it behaves around intersections and following posted speed limits, according to a NHTSA filing Thursday . The 'recall' includes certain 2016-2023 Model S, Model X, 2017-2023 Model 3, and 2020-2023 Model Y vehicles The FSD Beta system may allow the vehicle to act unsafe around intersections , such as traveling straight through an intersection while in a turn-only lane, entering a stop sign-controlled intersection without coming to a complete stop, or proceeding into an intersection during a steady yellow traffic signal without due caution.
+
+
+***
+![This Massive Dinosaur Footprint Set a Record in One English County](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17zFTO.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "This Massive Dinosaur Footprint Set a Record in One English County")
+
+
+[This Massive Dinosaur Footprint Set a Record in One English County](http://www.msn.com/en-us/news/technology/this-massive-dinosaur-footprint-set-a-record-in-one-english-county/ar-AA17zPeh)
+
+
+> A single footprint can tell a story. A long time ago in the Jurassic era, around 166 million years ago, a jumbo meat-eating dinosaur strolled across what is now modern-day Yorkshire in England. At one point, it perhaps squatted down and then stood back up, leaving behind a truly epic footprint. A team of researchers published a paper on the footprint in the Proceedings of the Yorkshire Geological Society on Thursday. The three-toed print measures in at 31 inches (80 centimeters) long. It's the largest of its kind ever found in Yorkshire.
+
+
+***
+![Nintendo Power Podcast #56: Nintendo Switch 2023 Preview Special](https://gonintendo.com/attachments/image/23380/file/medium-2df86dbc1ee420097c4f633f696ca577.jpg "Nintendo Power Podcast #56: Nintendo Switch 2023 Preview Special")
+
+
+[Nintendo Power Podcast #56: Nintendo Switch 2023 Preview Special](https://gonintendo.com/contents/16352-nintendo-power-podcast-56-nintendo-switch-2023-preview-special)
+
+
+> Switch in 2023 is looking great! From Kirby's Return to Dream Land Deluxe and Advance Wars 1+2: Re-Boot Camp to The Legend of Zelda: Tears of the Kingdom, Pikmin 4 and beyond, 2023 is shaping up to be something special! Chris and guests Jayson and Anthony from Nintendo of America discuss their most anticipated titles and DLC in this special episode. 00:30 – Intro 01:59 – Xenoblade Chronicles Expansion Pass Vol. 3 04:28 – Kirby's Return to Dream Land Deluxe 06:36 – OCTOPATH TRAVELER II 09:49 – Bayonetta Origins: Cereza and the Lost Demo 12:37 – Advance Wars 1+2: Re-Boot Camp 15:52 – The Legend of Zelda: Tears of the Kingdom 21:56 – Mario Kart 8 Deluxe – Booster Course Pass Wave 4 24:10 – Splatoon 3 Expansion Pass paid DLC 28:12 – Pikmin 4 31:12 – Sea of Stars 35:08 – Samba de Amigo: Party Central modal#open commentUpvoteInfoModal.
+
+
+***
+![Kirby's Return to Dream Land Deluxe 'Overview' Trailer](https://gonintendo.com/attachments/image/23379/file/medium-0ef8cd6d15f01b514e2a4b5f0700c411.jpg "Kirby's Return to Dream Land Deluxe 'Overview' Trailer")
+
+
+[Kirby's Return to Dream Land Deluxe 'Overview' Trailer](https://gonintendo.com/contents/16351-kirby-s-return-to-dream-land-deluxe-overview-trailer)
+
+
+> All you need to know about this revamped Wii classic An adventure of deluxe proportions awaits in Kirby's Return to Dream Land Deluxe! Learn about new Copy Abilities and powerful Super Abilities, the delightful theme park Merry Magoland, a mysterious new epilogue story, and much more! Pre-orders and a free demo are available now on Nintendo eShop. The tough puff Kirby is back for a 1-4 player platforming adventure across Planet Popstar. Help Magolor rebuild his ship with newly added Mecha and Sand Copy Abilities! Float and fight along with friends on the same system as you control Kirby.
+
+
+***
+![iOS 16 adoption rate higher than iOS 15, but iPadOS 16 lags](https://photos5.appleinsider.com/gallery/53051-106218-iOS-16-xl.jpg "iOS 16 adoption rate higher than iOS 15, but iPadOS 16 lags")
+
+
+[iOS 16 adoption rate higher than iOS 15, but iPadOS 16 lags](https://appleinsider.com/articles/23/02/16/ios-16-adoption-rate-higher-than-ios-15-but-ipados-16-lags-behind-ipados-15)
+
+
+> AppleInsider may earn an affiliate commission on purchases made through links on our site. Apple has released adoption rates for and iPadOS 16, revealing that 81% of all iPhones from 2019 onwards are running it. It's the first time Apple has shared such numbers since it launched in September. It measured the rates by devices transacting in the App Store on February 14. They reveal that 81% of all iPhones released in the past four years run a version of while 15% still use iOS 15. There are 4% of iPhones that use unnamed earlier iOS versions.
+
+
+***
+![Spike Chunsoft Running European eShop Winter Sale 2023](https://gonintendo.com/attachments/image/23378/file/medium-108c3f44913b18fb6adb513958919361.jpg "Spike Chunsoft Running European eShop Winter Sale 2023")
+
+
+[Spike Chunsoft Running European eShop Winter Sale 2023](https://gonintendo.com/contents/16350-spike-chunsoft-running-european-eshop-winter-sale-2023)
+
+
+> Players in Europe can save up to 85% on these Spike Chunsoft, Inc. titles during the Nintendo eShop Winter Sale taking place from February 16, 2023, to February 26, 2023. CHAOS;HEAD NOAH - 50% Off CHAOS;CHILD - 50% Off CHAOS;HEAD NOAH / CHAOS;CHILD DOUBLE PACK - 40% Off Made in Abyss: Binary Star Falling into Darkness - 50% Off AI: THE SOMNIUM FILES – nirvanA Initiative - 30% Off AI: THE SOMNIUM FILES - 80% Off Danganronpa: Trigger Happy Havoc Anniversary Edition - 50% Off Danganronpa 2: Goodbye Despair Anniversary Edition - 50% Off Danganronpa V3: Killing Harmony Anniversary Edition - 50% Off Danganronpa S: Ultimate Summer Camp - 30% Off KATANA KAMI: A Way of the Samurai Story - 60% Off Wanderer Set DLC - Up to 50% Five Famous Swords Set DLC - Up to 50% PixelJunk™ Monsters 2 - 85% Off PixelJunk™ Monsters 2 Danganronpa Pack - Up to 85% Off PixelJunk™ Monsters 2 Encore Pack - Up to 85% Off RESEARCH and DESTROY - 55% Off RESEARCH and DESTROY - Zero Escape: Virtue's Last Reward Costume Pack - 55% Off RESEARCH and DESTROY - AI: The Somnium Files Costume Pack- 55% Off RESEARCH and DESTROY - Danganronpa 2 Costume Pack- 55% Off RESEARCH and DESTROY - STEINS;GATE Costume Pack- 55% Off Re:ZERO -Starting Life in Another World- The Prophecy of the Throne - 80% Off ROBOTICS;NOTES ELITE - 60% Off ROBOTICS;NOTES DaSH - 60% Off Shiren The Wanderer: The Tower of Fortune and the Dice of Fate - 50% Off STEINS;GATE 0 - 60% Off STEINS;GATE: My Darling's Embrace - 60% Off STEINS;GATE ELITE - 60% Off YU-NO: A girl who chants love at the bound of this world.
+
+
+***
+![Researchers Hijack Popular NPM Package with Millions of Downloads](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgrpUTdAxuYym2X7U9P7i51yplVFxB2x35Ng1TFBZV0fuwcqE2DoUoktBTnyzNZKV7gAGXNWy4mccjamKqeAQVzsyqwt13M1POW2bPDkkUo4y99QtMuqIzvzzXveWbplcT-Lbkoq0ZHij5qxqAAEQgqIhxSbXvSWBmhlfONa4VbVL068gZrFIYsAV4w/s728-e3650/npm.png "Researchers Hijack Popular NPM Package with Millions of Downloads")
+
+
+[Researchers Hijack Popular NPM Package with Millions of Downloads](https://thehackernews.com/2023/02/researchers-hijack-popular-npm-package.html)
+
+
+> A popular npm package with more than 3.5 million weekly downloads has been found vulnerable to an account takeover attack. "The package can be taken over by recovering an expired domain name for one of its maintainers and resetting the password," software supply chain security company Illustria said in a report. While npm's security protections limit users to have only one active email address per account, the Israeli firm said it was able to reset the GitHub password using the recovered domain.
+
+
+***
+![Tetris Trailer Turns Video Game Drama Into Cold War Spycraft](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/288f2b7df0edce9931c7e7e0a8b69012.png "Tetris Trailer Turns Video Game Drama Into Cold War Spycraft")
+
+
+[Tetris Trailer Turns Video Game Drama Into Cold War Spycraft](https://gizmodo.com/tetris-film-apple-tv-taron-egerton-video-game-cold-war-1850122566)
+
+
+> With an earnest, can-do attitude, Taron Egerton stars as Henk Rogers, the video game designer and producer who helped bring the ‘80s video game Tetris out of the Soviet Union and into the hands of the world via the GameBoy. Following the beats of a heist thriller, Apple's Tetris recreates a historic series of events with a kind of flair and drama usually reserved for a spy films. Look, I'm sold. Egerton delivers his lines with a kind of manic sincerity, the subtle video game touches are light and funny, and the friendship between inventor Alexey Pajitnov (Nikita Efremov) and Rogers is the kind of 'dudes rock' underdog story that I'm here for.
+
+
+***
+![Sherlock Holmes: The Awakened delayed to late March/early April 2023 due to war in Ukraine](https://gonintendo.com/attachments/image/23377/file/medium-467e2514e6108a9090ad2cb5af74d21e.jpg "Sherlock Holmes: The Awakened delayed to late March/early April 2023 due to war in Ukraine")
+
+
+[Sherlock Holmes: The Awakened delayed to late March/early April 2023 due to war in Ukraine](https://gonintendo.com/contents/16349-sherlock-holmes-the-awakened-delayed-to-late-march-early-april-2023-due-to-war-in)
+
+
+> Ukrainian developer Frogwares has made the decision to delay their upcoming game, Sherlock Holmes The Awakened by a few weeks. While development of the game since April 2022 had always been challenging due to the war, the last 5 months starting in October 2022 have been extremely difficult on the team. Initially Frogwares was aiming for a late February / early March release window but the relentless strikes on civilian infrastructure in Ukraine have forced the team to work around continual blackouts and redo their entire production pipeline.
+
+
+***
+![I've Kept This For Four Decades! It Means So Much To Me!!](https://iknowallnews.com/wp-content/uploads/2023/02/I039ve-Kept-This-For-Four-Decades-It-Means-So-Much-To-Me.jpg "I've Kept This For Four Decades! It Means So Much To Me!!")
+
+
+[I've Kept This For Four Decades! It Means So Much To Me!!](https://iknowallnews.com/celebrities/ive-kept-this-for-four-decades-it-means-so-much-to-me/)
+
+
+> Perez feels so fortunate that he's been able to tell Gloria Estefan in person how much she means to him. And she knows it's true! Source: Read Full Article
+
+
+***
+![Tower defense title 'Sacred Zodongga Defense' coming to Switch early Q2 2023](https://gonintendo.com/attachments/image/23376/file/medium-7b040da704564e4bbf5dd752323dc5a5.jpg "Tower defense title 'Sacred Zodongga Defense' coming to Switch early Q2 2023")
+
+
+[Tower defense title 'Sacred Zodongga Defense' coming to Switch early Q2 2023](https://gonintendo.com/contents/16348-tower-defense-title-sacred-zodongga-defense-coming-to-switch-early-q2-2023)
+
+
+> Singaporean publisher CRX Entertainment Pte Ltd. has announced that they're bringing Sacred Zodongga Defense to the Switch sometime in early Q2 2023. Sacred Zodongga Defense is a 3D tower defence game set on the island paradise of Zodongga, The island was untouched for thousands of years until greedy explorers got wind of the fabulous banana trees growing there in abundance. Since countries have been invaded for far less this is a pretext for war and you need to mobilize the primitive yet potent defenses of Zodongga to slow down and hopefully stop the devious invasion force which literally consists of soldiers from every known nation on earth.
+
+
+***
+![Framework's Latest Upgrade Shows a Promising Future for the Self-Repairable Laptop Brand](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8997360c9bed0d975e28796e797f7e7c.png "Framework's Latest Upgrade Shows a Promising Future for the Self-Repairable Laptop Brand")
+
+
+[Framework's Latest Upgrade Shows a Promising Future for the Self-Repairable Laptop Brand](https://gizmodo.com/framework-laptop-intel-12th-gen-upgrade-repair-modular-1850119608)
+
+
+> We may earn a commission from links on this page. Tech waste is a real thing, and while the majority of tech companies are focussed on making the next thinnest, fastest, or most powerful laptop, Framework is doing things a little differently. The San Francisco based company is shunning the throwaway culture we've all become used to and instead have released a laptop that allows users to upgrade, repair, and customize all they want whilst remaining ultra-portable and affordable. This isn't the first Framework laptop , but it is the first time Framework's upgraded a model with new chips.
+
+
+***
+![One UI 5.1 feature focus: The smallest of Easter eggs](https://www.sammobile.com/wp-content/uploads/2023/02/Galaxy-S23-Ultra-review-9.jpg "One UI 5.1 feature focus: The smallest of Easter eggs")
+
+
+[One UI 5.1 feature focus: The smallest of Easter eggs](https://www.sammobile.com/news/one-ui-5-1-feature-focus-smallest-easter-eggs/)
+
+
+> Last updated: February 16th, 2023 at 19:16 UTC+01:00 Millions of Galaxy smartphone users around the world can now enjoy One UI 5.1 , regardless of whether or not they own the Galaxy S23 . One UI 5.1 debuted with the Galaxy S23, but it is now available for older phones. And the update is full of surprises. Among many other things, such as improved multi-window and pop-up view , a shared family album, and better integration between the Camera and Expert RAW apps, Samsung's One UI 5.1 may have brought one of the smallest of UI changes to date.
+
+
+***
+![Researchers Link SideWinder Group to Dozens of Targeted Attacks in Multiple Countries](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEhGqVRA_swx-rn4BNCkJNmxt53MkreP6h97KlfACuE2eR5No1jMTfx9ZXFPzuTIlg1PKgx4_2uzUmqwkCl3RYZZisaPisYq1zLzHMbqHiOBmbiGbDu8wRsO8SO9jvEHUVfRMRlynAnUgNLQkwahD0VdaiUz7p_-r46kF8AucHaVAH2Trv-_2bg0tyLI/s728-e3650/hacker.jpg "Researchers Link SideWinder Group to Dozens of Targeted Attacks in Multiple Countries")
+
+
+[Researchers Link SideWinder Group to Dozens of Targeted Attacks in Multiple Countries](https://thehackernews.com/2023/02/researchers-link-sidewinder-group-to.html)
+
+
+> The prolific SideWinder group has been attributed as the nation-state actor behind attempted attacks against 61 entities in Afghanistan, Bhutan, Myanmar, Nepal, and Sri Lanka between June and November 2021. Targets included government, military, law enforcement, banks, and other organizations, according to an exhaustive report published by Group-IB, which also found links between the adversary and two other intrusion sets tracked as Baby Elephant and DoNot Team . SideWinder is also referred to as APT-C-17, Hardcore Nationalist (HN2), Rattlesnake, Razor Tiger, and T-APT4.
+
+
+***
+![Caverns of Mars: Recharged comes to Switch March 9th, 2023, new trailer released](https://gonintendo.com/attachments/image/23375/file/medium-894d6141542b51c044df9ac74bd52030.png "Caverns of Mars: Recharged comes to Switch March 9th, 2023, new trailer released")
+
+
+[Caverns of Mars: Recharged comes to Switch March 9th, 2023, new trailer released](https://gonintendo.com/contents/16347-caverns-of-mars-recharged-comes-to-switch-march-9th-2023-new-trailer-released)
+
+
+> Atari is pleased to announce today that Caverns of Mars: Recharged, the latest entry in the Atari Recharged series, blasts straight through enemy fire and onto Switch March 9, 2023. To celebrate the news, Atari has revealed a new gameplay trailer showing off the game's slick visuals, carefully crafted levels, and all of the possibilities that await within the game's fully destructible environments. Based on the classic vertical-scrolling shooter, Caverns of Mars: Recharged retains its retro charm and once again sees players descend through the destructible subterranean landscape of Mars where enemies are plentiful and ammo is limited.
+
+
+***
+!['Lock Your Doors': US Lawmakers React to UFO Sightings](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/064faff9fd84370af2415a58aef8d1cf.jpg "'Lock Your Doors': US Lawmakers React to UFO Sightings")
+
+
+['Lock Your Doors': US Lawmakers React to UFO Sightings](https://gizmodo.com/ufo-sightings-us-senate-balloon-china-security-1850121948)
+
+
+> Four unidentified flying objects have made their way across North American airspace since the end of January, and were subsequently shot down . While the first object was identified as a Chinese-owned surveillance balloon , U.S. lawmakers say they are no closer to discovering the truth behind the other three. China claimed the first balloon discovered flying into Montana was a weather sensory   device that had flown off course , but the debris recovered after it was shot down told a different story.
+
+
+***
+![Apple releases first developer betas for iOS 16.4, iPadOS 16.4, tvOS 16.4, and watchOS 9.4](https://photos5.appleinsider.com/gallery/52639-105192-Custom-Lock-Screen-xl.jpg "Apple releases first developer betas for iOS 16.4, iPadOS 16.4, tvOS 16.4, and watchOS 9.4")
+
+
+[Apple releases first developer betas for iOS 16.4, iPadOS 16.4, tvOS 16.4, and watchOS 9.4](https://appleinsider.com/articles/23/02/16/apple-releases-first-developer-betas-for-ios-164-and-ipados-164)
+
+
+> A new cycle of betas has begun AppleInsider may earn an affiliate commission on purchases made through links on our site. Apple has seeded the first betas of iOS 16.4, iPadOS 16.4, tvOS 16.4, and watchOS 9.4 to developers, restarting the beta cycle. Developers can download the latest builds by taking part in the beta testing program via the Apple Developer Center . Public beta versions of the releases generally arrive a short while after their developer counterparts, available through the Apple Beta Software Program .
+
+
+***
+![Tetris movie to hit Apple TV+ on March 31, 2023, new trailer shared](https://gonintendo.com/attachments/image/23374/file/medium-3d7b59cede5c2333bd539b56a74f999d.jpg "Tetris movie to hit Apple TV+ on March 31, 2023, new trailer shared")
+
+
+[Tetris movie to hit Apple TV+ on March 31, 2023, new trailer shared](https://gonintendo.com/contents/16346-tetris-movie-to-hit-apple-tv-on-march-31-2023-new-trailer-shared)
+
+
+> Today Apple Original Films unveiled the trailer for the highly anticipated thriller, 'Tetris,' starring Taron Egerton. 'Tetris' tells the unbelievable story of how one of the world's most popular video games found its way to avid players around the globe. Henk Rogers (Taron Egerton) discovers Tetris in 1988, and then risks everything by traveling to the Soviet Union, where he joins forces with inventor Alexey Pajitnov (Nikita Efremov) to bring the game to the masses. Based on a true story, 'Tetris' is a Cold War–era thriller on steroids, with double-crossing villains, unlikely heroes, and a nail-biting race to the finish.
+
+
+***
+![Microsoft to support Windows 11 on Apple M1 and M2 Macs through Parallels partnership](https://cdn.vox-cdn.com/thumbor/ufqZjeHJYvn2P81JJfH_CZgEYRg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22046476/vpavic_4291_20201113_0366.0.jpg "Microsoft to support Windows 11 on Apple M1 and M2 Macs through Parallels partnership")
+
+
+[Microsoft to support Windows 11 on Apple M1 and M2 Macs through Parallels partnership](https://www.theverge.com/2023/2/16/23602718/microsoft-windows-11-apple-mac-m1-m2-support-parallels-virtual-machines)
+
+
+> Microsoft is officially supporting Windows 11 on Apple's M1 and M2 Macs thanks to a partnership with Parallels to allow the operating system to run in a virtual environment. Parallels Desktop version 18 is 'an authorized solution' to run Arm versions of Windows 11 on Apple's latest M1 and M2 Macs, according to a new Microsoft support article published today. While Microsoft has limitations on which CPUs are supported to run Windows 11 natively, the company is happy for Apple M1 and M2 users to run the OS in a virtual machine.
+
+
+***
+![Apple releases first iOS 16.4 and iPadOS 16.4 betas to developers](https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/ios-16-hero-16.4-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "Apple releases first iOS 16.4 and iPadOS 16.4 betas to developers")
+
+
+[Apple releases first iOS 16.4 and iPadOS 16.4 betas to developers](https://9to5mac.com/2023/02/16/ios-16-4-beta-1-now-available/)
+
+
+> iOS 16.4 beta 1 is here, coming three weeks after the release of iOS 16.3 to the general public. We're still waiting to dive into iOS 16.4 to find out what's new, but there are a few possibilities based on features Apple has already announced but not released. iOS 16.4 beta 1 iOS 16.4 beta 1 will be available today to registered developer beta testers. As the update rolls out over the air, you'll be able to install it by going to the Settings app, choosing General, then choosing Software Update.
+
+
+***
+![EURUSD now up on the day. Above the close from yesterday at 1.0686](https://images.forexlive.com/images/EURUSD_id_13b5bc54-d948-4403-9e61-fa004c7a52e4_size900.jpg?v=1676578032345 "EURUSD now up on the day. Above the close from yesterday at 1.0686")
+
+
+[EURUSD now up on the day. Above the close from yesterday at 1.0686](https://www.forexlive.com/technical-analysis/eurusd-now-up-on-the-day-20230216/)
+
+
+> Looks toward the 100 hour MA and 200 hour MA above that level EURUSD back in positive territory for the day After barely taking out the low from Monday at 1.06547 earlier today (the low reached 1.06536), the EURUSD EUR/USD The EUR/USD is the currency pair encompassing the European Union's single currency, the euro (symbol €, code EUR), and the dollar of the United States (symbol $, code USD). The pair's rate indicates how many euros are needed in order to purchase one dollar. For example, when the EUR/USD is trading at 1.
+
+
+***
+![Colossal Cave's 2023 roadmap detailed, new trailer shared](https://gonintendo.com/attachments/image/23373/file/medium-8dc9dde36a6c2a2e6ec46fcb06af435e.png "Colossal Cave's 2023 roadmap detailed, new trailer shared")
+
+
+[Colossal Cave's 2023 roadmap detailed, new trailer shared](https://gonintendo.com/contents/16345-colossal-cave-s-2023-roadmap-detailed-new-trailer-shared)
+
+
+> Spelunking deeper into 2023 Sierra On-Line founders Ken and Roberta Williams(King's Quest, Space Quest, Phantasmagoria, etc.) proudly delivered Colossal Cave to the world on January 19th, 2023, and they've just unveiled a robust roadmap outlining the exciting updates to come in 2023 and beyond. The ultimate 3D interpretation of the original text adventure game has released multiple patches since launch thanks to the welcomed feedback of their loyal community. Cygnus Entertainment plan to continue this support through 2023 with additional quality of life additions throughout the year.
+
+
+***
+![Susan Wojcicki stepping down as YouTube CEO after nine years, Neal Mohan to take over](https://www.hindustantimes.com/ht-img/img/2023/02/16/1600x900/YouTube-CEO-_1676569854068_1676569854309_1676569854309.jpg "Susan Wojcicki stepping down as YouTube CEO after nine years, Neal Mohan to take over")
+
+
+[Susan Wojcicki stepping down as YouTube CEO after nine years, Neal Mohan to take over](https://www.hindustantimes.com/technology/susan-wojcicki-stepping-down-as-youtube-ceo-after-nine-years-neal-mohan-to-take-over-101676569776800.html)
+
+
+> Susan Wojcicki is stepping down as CEO at YouTube after spending nine years as the head of the social media platform. In a blog post Thursday, Wojcicki said that she was now going to spend time 'focused on my family, health, and personal projects I'm passionate about.' Neal Mohan will become the new CEO. Wojcicki said Thursday that she would help with the CEO transition process, but that longer term, she would take on an advisory role across Google and Alphabet. Also Read: ‘Not restricting my kids from social media is a mistake,' says Elon Musk Wojcicki detailed how earlier in her career she joined Google, the owner of YouTube, when the search engine was being built by 'a couple of Stanford graduate students,' Larry Page and Sergey Brin.
+
+
+***
+![Massive 58-Mile Indoor Cycling Path Envisioned In Dubai](https://cdn.motor1.com/images/mgl/xqoy26/s1/lffxpduzqdc.jpg "Massive 58-Mile Indoor Cycling Path Envisioned In Dubai")
+
+
+[Massive 58-Mile Indoor Cycling Path Envisioned In Dubai](https://insideevs.com/news/652554/the-loop-dubai-93-kilometer-indoor-bike-path/)
+
+
+> Cycling has been gaining quite a lot of traction in multiple countries across Europe, as well as in the U.S. More and more, people a seeing this two-wheeled activity as a viable alternative to taking their cars out of the garage. The recent boom in the electric bicycle industry has strengthened this even further, with some cities in certain European countries rolling out enticing subsidies for folks who make the two-wheeled shift.  Of course, along with growing consumer options, infrastructure promoting the adoption of cycling is also a must.
+
+
+***
+![Microsoft announces full support for virtualization of Windows on ARM through Parallels Desktop 18](https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/parallels.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "Microsoft announces full support for virtualization of Windows on ARM through Parallels Desktop 18")
+
+
+[Microsoft announces full support for virtualization of Windows on ARM through Parallels Desktop 18](https://9to5mac.com/2023/02/16/microsoft-announces-full-support-for-windows-on-arm/)
+
+
+> While there have been various workarounds, there's always been a bit of tension in building workflows and enterprise activities around running Windows through Virtualization software on Apple Silicon powered Macs. Today, Alludo (parent company of ) has announced full support from Microsoft on virtualized versions of Windows on ARM platforms. IT administrators can now easily enable their users to run Windows 11 on ARM on the platform with the assurance that Microsoft has authorized this solution from a licensing perspective.
+
+
+***
+![League of Legends announces pricing update for champions](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17zpkJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "League of Legends announces pricing update for champions")
+
+
+[League of Legends announces pricing update for champions](http://www.msn.com/en-us/news/technology/league-of-legends-announces-pricing-update-for-champions/ar-AA17zQrN)
+
+
+> Riot Games restructures the pricing model. Riot Games has announced plans to improve the pricing model for champions in League of Legends. Whereas every playable character in fellow free-to-play MOBA title Dota 2 is freely accessible to everyone, players have to purchase champions in League of Legends. Load Error The pricing of these is primarily based on how long they've been in the game, which is a model Riot Games is no longer happy with – 'a bit archaic', the studio called it. Age still plays a role in the new pricing system, but is no longer defined by how many champions have come out since a certain character was released.
+
+
+***
+[TuneIn Revs Its Engines for the Daytona 500, Start of NASCAR's 75th Anniversary](http://www.businesswire.com/news/home/20230216005732/en/TuneIn-Revs-Its-Engines-for-the-Daytona-500-Start-of-NASCAR%E2%80%99s-75th-Anniversary/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)--TuneIn, the world's leading live-streaming audio service, announced today the start of the racing season beginning with the live audio stream of the Daytona 500. Comprehensive NASCAR season coverage is made available through partnerships with Motor Racing Network (MRN) and Performance Racing Network (PRN). All ears will be focused on the race track on February 19th with the official start of the NASCAR season in Daytona being broadcast on the Motor Racing Network
+
+
+***
+![Remorse: The List launching Feb. 23rd, 2023, as confirmed by new trailer](https://gonintendo.com/attachments/image/23372/file/medium-08e69ca5819d5c48a5cc93c7f0e50de7.jpg "Remorse: The List launching Feb. 23rd, 2023, as confirmed by new trailer")
+
+
+[Remorse: The List launching Feb. 23rd, 2023, as confirmed by new trailer](https://gonintendo.com/contents/16344-remorse-the-list-launching-feb-23rd-2023-as-confirmed-by-new-trailer)
+
+
+> A mysterious list, a small Hungarian town, and unimaginable horror. The classical-style survival horror, Remorse: The List is bringing the action to Xbox and Nintendo Switch on February 23rd. There ain't no rest for the wicked in Hidegpuszta nor for Feardemic as they're already back with a new announcement after just releasing Perseverance: Complete Edition last week. This time they've revealed that Remorse: The List, the survival mystery horror game inspired by the classics of the genre is coming to Xbox and Nintendo Switch in 10 days, on February 23rd.
+
+
+***
+![Creating Presentations With iPhone](https://images.hindustantimes.com/tech/img/2023/02/16/1600x900/hqdefault_1676569895898_1676569895898_1676570063287_1676570063287.jpg "Creating Presentations With iPhone")
+
+
+[Creating Presentations With iPhone](https://tech.hindustantimes.com/videos/creating-presentations-with-iphone-tech-101-ht-tech-71676569898296.html)
+
+
+> videos First Published Date: 16 Feb, 23:25 IST Tags: iphone guide iphone apple 71676569898296 NEXT ARTICLE BEGINS
+
+
+***
+![Mountain Climbing Fitness King PS VR2 "Call of the Horizon Mountain" Quick Test, Competent Family's First Game](https://img.4gamers.com.tw/news-image/fadc9677-be31-46f5-91c5-17e0a49815d8.jpg "Mountain Climbing Fitness King PS VR2 "Call of the Horizon Mountain" Quick Test, Competent Family's First Game")
+
+
+[Mountain Climbing Fitness King PS VR2 "Call of the Horizon Mountain" Quick Test, Competent Family's First Game](https://www.world-today-news.com/mountain-climbing-fitness-king-ps-vr2-call-of-the-horizon-mountain-quick-test-competent-familys-first-game-4gamers/)
+
+
+> Aloy is here again! But this time it's a supporting role. Sony's latest VR virtual reality device PS VR2 debut game 'Horizon Call of the Mountain' (Horizon Call of the Mountain) is expected to be launched simultaneously on February 22. This is a quick and thunder-free sharing before listing. Change the platform, change the protagonist. The player takes on the role of the new protagonist 'Lias'; he was a Calgar soldier in the past, and had various conflicts with Aloy's shortcomings. This time, he has to bear the shameful past and go deep into the territory of Calgar and Nora to embark on a journey of redemption.
+
+
+***
+![YouTube CEO Steps Down After 9 Years Of Leading Most Popular Social Network For Kids](https://www.mccourier.com/wp-content/uploads/2023/02/YouTube-CEO-Steps-Down-After-9-Years-Of-Leading-Most.jpg "YouTube CEO Steps Down After 9 Years Of Leading Most Popular Social Network For Kids")
+
+
+[YouTube CEO Steps Down After 9 Years Of Leading Most Popular Social Network For Kids](https://www.mccourier.com/youtube-ceo-steps-down-after-9-years-of-leading-most-popular-social-network-for-kids/)
+
+
+> You Tube CEO Susan Wojcicki gestures throughout a session on the World Financial Discussion board annual assembly in … [+] Davos on Could 24, 2022. (Photograph by Fabrice COFFRINI / AFP) (Photograph by FABRICE COFFRINI/AFP through Getty Pictures) AFP through Getty Pictures YouTube CEO Susan Wojcicki is stepping down from her function after 9 years, in accordance with a notice despatched to YouTube staff Thursday morning and printed on-line. YouTube is the most well-liked social media platform for American children 13-17, with a surprising 95% utilizing the positioning, in accordance with the newest figures from the Pew Analysis Middle.
+
+
+***
+![Metroidvania 'Zapling Bygone' comes to Switch on March 9th, 2023](https://gonintendo.com/attachments/image/23371/file/medium-f016a67fa02ed68122a49736112eacb5.png "Metroidvania 'Zapling Bygone' comes to Switch on March 9th, 2023")
+
+
+[Metroidvania 'Zapling Bygone' comes to Switch on March 9th, 2023](https://gonintendo.com/contents/16343-metroidvania-zapling-bygone-comes-to-switch-on-march-9th-2023)
+
+
+> JanduSoft is thrilled to announce the upcoming release of Zapling Bygone, an amazing metroidvania developed by the solodev 9FingerGames. The game is set to release on March 9th for Switch. Zapling Bygone is a twisted metroidvania where you murder your foes and steal their abilities by wearing their skulls and absorbing their consciousness into your hive-mind. Every ability is gained by killing a boss and stealing their skull. These abilities allow you to transverse the world in new and exciting ways as well as help you destroy your opponents.
+
+
+***
+![Samsung Galaxy S23 200MP Night Camera better than DSLR?](https://images.hindustantimes.com/tech/img/2023/02/16/1600x900/hqdefault_1676569476245_1676569476245_1676569593435_1676569593435.jpg "Samsung Galaxy S23 200MP Night Camera better than DSLR?")
+
+
+[Samsung Galaxy S23 200MP Night Camera better than DSLR?](https://tech.hindustantimes.com/videos/samsung-galaxy-s23-200mp-night-camera-better-than-dslr-71676569478098.html)
+
+
+> videos First Published Date: 16 Feb, 23:19 IST 71676569478098 NEXT ARTICLE BEGINS
+
+
+***
+![Co-op 2D adventure 'Mari & Bayu: the Road Home' hits Switch March 9th, 2023](https://gonintendo.com/attachments/image/23370/file/medium-84a76323afebb1c58659ca5e16e97ef2.png "Co-op 2D adventure 'Mari & Bayu: the Road Home' hits Switch March 9th, 2023")
+
+
+[Co-op 2D adventure 'Mari & Bayu: the Road Home' hits Switch March 9th, 2023](https://gonintendo.com/contents/16342-co-op-2d-adventure-mari-bayu-the-road-home-hits-switch-march-9th-2023)
+
+
+> PID Games and Skinny Bandit worked super hard to bring Mari & Bayu: the Road Home to new horizons. Find your road home on the 9th of March from your Switch! There's no word on pricing or file size at this time. Jump into this cooperative adventure in 2D and discover a new world from your ant size. Help Mari to save their brother Tom, and Bayu to save their whole family. While you're trying to complete that request, help Mari to get more confidence in themselves. Solve puzzles, surf the wind on feathers, ride grasshoppers, interact with fellow insects and use your environment to your advantage by using Bayu's wind powers.
+
+
+***
+![Disney Dreamlight Valley's "A Festival of Friendship" Content Update, Available Now, Welcomes Mirabel, Olaf and the Frosted Heights Storyline!](https://gonintendo.com/attachments/image/23369/file/medium-801e22b2ef846e34fb9446f3d00b78e2.jpg "Disney Dreamlight Valley's "A Festival of Friendship" Content Update, Available Now, Welcomes Mirabel, Olaf and the Frosted Heights Storyline!")
+
+
+[Disney Dreamlight Valley's "A Festival of Friendship" Content Update, Available Now, Welcomes Mirabel, Olaf and the Frosted Heights Storyline!](https://gonintendo.com/contents/16341-disney-dreamlight-valley-s-a-festival-of-friendship-content-update-available-now)
+
+
+> Gameloft, a leader in the creation and publishing of games, today announced the release of Disney Dreamlight Valley's next free major content update, 'A Festival of Friendship.' In honor of the 100 year anniversary of Disney, the Wonder of Encanto, and the magical memories and friendships Disney has provided fans throughout the years, today's update also features a few special additions to thank and celebrate fans during this momentous moment, including the launch of the brand-new Disney Centennial Star Path and the arrival of another Village newcomer, Mirabel from Disney's Encanto.
+
+
+***
+![7 key takeaways about the Dutch tech startup ecosystem you need to know](https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F02%2FUntitled-design-2023-02-16T175314.542.jpg&signature=b274deb27e7790050d583ded812455c8 "7 key takeaways about the Dutch tech startup ecosystem you need to know")
+
+
+[7 key takeaways about the Dutch tech startup ecosystem you need to know](https://thenextweb.com/news/7-key-takeaways-dutch-tech-startup-ecosystem)
+
+
+> The Dutch tech startup ecosystem has been steadily flourishing over the past five years, establishing itself as one of Europe's most vibrant hubs. Yet, there are still hurdles the Netherlands needs to overcome in order to reach its full potential and successfully compete on a global scale. That's according to the annual State of Dutch Tech report by TechLeap , a non-profit organisation which helps quantify and accelerate the ecosystem in the Netherlands. Here are seven key takeaways from the report you need to know about: The Netherlands houses the EU's most successful ecosystem In 2022, the Amsterdam-Delta region was the leading ecosystem in the EU, overtaking Paris and Berlin.
+
+
+***
+![Clear evidence: The Xiaomi Smart Band 8 bracelet is already on its way](https://www.svetandroida.cz/media/2023/02/xiaomi-smart-band-8-xiaomi-mi-band-8-certifikace.jpg "Clear evidence: The Xiaomi Smart Band 8 bracelet is already on its way")
+
+
+[Clear evidence: The Xiaomi Smart Band 8 bracelet is already on its way](https://www.world-today-news.com/clear-evidence-the-xiaomi-smart-band-8-bracelet-is-already-on-its-way/)
+
+
+> It would understandably be very surprising if Xiaomi were to cut one of its most popular product lines, but what appears to be the first clear confirmation that it will look at the market smart bracelet Xiaomi Mi Band 8 (probably eventually named as Xiaomi Smart Band 8). The continuation of the highly successful series was registered and thus revealed at the IMDA certification. The product carries a code designation M2239B1 and in the documents it is marked as 'smart band'. The eighth generation of the popular bracelet could be officially shown for the first time sometime in the spring, probably again in May.
+
+
+***
+![Theatrhythm Final Bar Line Out Now on Switch](https://gonintendo.com/attachments/image/23368/file/medium-b265eec3db0a9dae3869438338b5e6ce.png "Theatrhythm Final Bar Line Out Now on Switch")
+
+
+[Theatrhythm Final Bar Line Out Now on Switch](https://gonintendo.com/contents/16339-theatrhythm-final-bar-line-out-now-on-switch)
+
+
+> SQUARE ENIX today launched THEATRHYTHM FINAL BAR LINE™, the next entry in the fan-favorite rhythm action series, for the Switch. Featuring 385 FINAL FANTASY tracks in the base game, three game modes, local and online multiplayer and over 100 FINAL FANTASY characters to create your dream party, fans can celebrate the legendary music of the FINAL FANTASY series like never before. In addition to the Standard Edition of the game, which includes 385 tracks, players can also purchase the Digital Deluxe Edition or Premium Digital Deluxe Edition to get access to even more music from several legendary SQUARE ENIX titles.
+
+
+***
+![Dust & Neon now available on Switch](https://gonintendo.com/attachments/image/23367/file/medium-ef1cc538f335f8d97e7669489bca31e8.png "Dust & Neon now available on Switch")
+
+
+[Dust & Neon now available on Switch](https://gonintendo.com/contents/16338-dust-neon-now-available-on-switch)
+
+
+> The future is bright...and hard to see Rogue Games and David Marquardt Studios invite you to test your trigger finger against an award-winning twitch shooter that shoots back. Dust & Neon, a best-in-class rogue-lite complemented by a robust single-player campaign designed to test your mettle, is now available on Switch. Pull-up your boots, pack plenty of ammo, and begin your 15-plus-hour journey as the mysterious cyborg gunslinger with no name. Make your mark in this Wild West robot apocalypse by firing your revolver, shotgun or rifle with perfect timing through armies of metal-headed vermin.
+
+
+***
+![Apple reveals iOS 16 and iPadOS 16 usage stats for the first time](https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/iOS-16-rising.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1 "Apple reveals iOS 16 and iPadOS 16 usage stats for the first time")
+
+
+[Apple reveals iOS 16 and iPadOS 16 usage stats for the first time](https://9to5mac.com/2023/02/16/ios-16-usage-stats-apple-iphone/)
+
+
+> For the first time since and iPadOS 16 were released last fall, Apple has shared data on the adoption rates of these updates. Apple says that 81% of all iPhones introduced in the past four years are now running , while 72% of all iPhones are running . The and iPadOS 16 usage data published today is based on devices that 'transacted on the App Store' on February 14, 2023. Here's the full rundown: iOS devices introduced in the last four years 81% 15% iOS 15 4% earlier All iOS devices 72% 20% iOS 15 8% earlier iPadOS introduced in the last four years 53% iPadOS 16 39% iPadOS 15 8% earlier All iPadOS devices 50% iPadOS 16 37% iPadOS 15 13% earlier Apple publishes this data via its Developer website .
+
+
+***
+![Whatsapp: New function to convert voice messages into text](https://cdn.unitycms.io/images/Ax-FVd9a4xM8pPJqM0grv0.jpg?op=focus&val=1200,675,1000,1000,0,0,307,337&sum=GcbNfweD-_Q "Whatsapp: New function to convert voice messages into text")
+
+
+[Whatsapp: New function to convert voice messages into text](https://www.world-today-news.com/whatsapp-new-function-to-convert-voice-messages-into-text/)
+
+
+> publishedFebruary 16, 2023 at 9:40 am update announced: New Whatsapp function pleases people who annoy voice messages Whatsapp may soon introduce a feature that converts voice messages to text. Fans of voice messages could then continue to record them, but haters would no longer have to listen to them. 1 / 3 That's what it's about A new update has been announced for the beta version of Whatsapp. This should include a function that converts voice messages to text. It's not yet clear when the feature will be available to everyone.
+
+
+***
+![TETRIS Movie Trailer Tells Wild True Story of 'The Perfect Game'](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2023/02/16092430/Taron-Egerton-stars-in-the-Tetris-movie.jpeg "TETRIS Movie Trailer Tells Wild True Story of 'The Perfect Game'")
+
+
+[TETRIS Movie Trailer Tells Wild True Story of 'The Perfect Game'](https://nerdist.com/article/tetris-movie-trailer-tells-wild-true-story-of-video-game-origins-taron-egerton-apple-tv-plus/)
+
+
+> NEW html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd" xml encoding="UTF-8" Tetris . We all know it. We've all played it. It's as ubiquitous as breathing at this point in our lives. But where did this game come from? It turns out, Tetris has an incredible tale of intrigue, espionage, violence, and the Soviet Union. And the Tetris movie is here to bring its story to light.
+
+
+***
+![Brutal Metroidvania Elderand Launches on Switch today](https://gonintendo.com/attachments/image/23366/file/medium-6bbaa757a1c097f39e4e592ac3795887.jpg "Brutal Metroidvania Elderand Launches on Switch today")
+
+
+[Brutal Metroidvania Elderand Launches on Switch today](https://gonintendo.com/contents/16337-brutal-metroidvania-elderand-launches-on-switch-today)
+
+
+> Elderand, a gory and brutal action platformer with RPG elements from video game publisher Graffiti Games and indie developer Mantra, is now available for purchase on Switch for $19.99 USD. To celebrate, Graffiti Games is offering a 15% discount for those who purchase the game within the next week. Heads will literally roll in this gruesome, action platformer where only the strong will survive in brutal, skill-based combat against terrifying creatures. Wield a variety of killing instruments and abilities against towering, bone-chilling bosses.
+
+
+***
+!["Team Jorge" Is A Warning: The Internet Could Kill Democracy — And Quicker Than You Think](https://worldcrunch.com/media-library/photo-of-someone-taking-a-video-of-melania-trump-at-a-rally.jpg?id=33041116&width=1200&height=600&coordinates=0%2C464%2C0%2C464 ""Team Jorge" Is A Warning: The Internet Could Kill Democracy — And Quicker Than You Think")
+
+
+["Team Jorge" Is A Warning: The Internet Could Kill Democracy — And Quicker Than You Think](https://worldcrunch.com/tech-science/team-jorge-democracy)
+
+
+> Ukrainian troops wraping Pion artillery shells. BAKHMUT — Amid ruins in the eastern Ukrainian frontline town of Chasiv Yar, in front of the shattered window of a high-rise building, Ukrainian soldiers search for Russians on a Monday afternoon. Bogdan Borodai, 25, part of the 24th Battalion "Aidar", operates a gamepad with buttons and stares at a screen. On it, he sees what their small drone is currently filming from the air. "That right there," Borodai says, tapping the screen, "is a tank. Every few hours, we spot a bunch of Russian soldiers here.
+
+
+***
+![Metro Exodus' sequel is playable from start to finish](https://www.gamereactor.cn/media/89/metroexodus_2748933_650x.png "Metro Exodus' sequel is playable from start to finish")
+
+
+[Metro Exodus' sequel is playable from start to finish](https://www.world-today-news.com/metro-exodus-sequel-is-playable-from-start-to-finish/)
+
+
+> The Metro games are popular both because of the success of Dmitry Glukhovsky's book, but also stand on their own and have actually introduced a bunch of newcomers to the franchise as a whole. It's no secret that many people are excited to see what's next for the subway game. With the last entry in the series, Metro Exodus, released in 2019, it seems almost time we're getting a sequel to it. according to Insider Gaming That being said, a Metro Exodus sequel is in the works, and it's even playable from start to finish.
+
+
+***
+![Season 2 of DRAGON BALL: THE BREAKERS is Available Now](https://gonintendo.com/attachments/image/23365/file/medium-b7a1a608125b889a8383cbf268416aaa.jpg "Season 2 of DRAGON BALL: THE BREAKERS is Available Now")
+
+
+[Season 2 of DRAGON BALL: THE BREAKERS is Available Now](https://gonintendo.com/contents/16336-season-2-of-dragon-ball-the-breakers-is-available-now)
+
+
+> Discover Season 2 of DRAGON BALL: THE BREAKERS and all its new content and characters, available now. DRAGON BALL: THE BREAKERS Season 2 includes a new Raider, one new map, as well as additional transpheres and customiSation possibilities. New Survivor Skins are also available and you can now play as Yajirobe, Chi-Chi and King Furry. Season 2 also comes with a new Dragon Tier, with rewards upon playing and unlocking ranks including King Furry skin. Get to play Vegeta, The Saiyan Prince, as the new Raider roaming the Temporal Seams of season 2! First Form: Saibaman At the beginning of the match, you are playing a Saibaman.
+
+
+***
+![Tonight, journey into the magical world of Shadow & Bone on Netflix](https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2021/04/shadowandbone-inej-1024x576.jpg?resize=1024,576&key=ad51b723 "Tonight, journey into the magical world of Shadow & Bone on Netflix")
+
+
+[Tonight, journey into the magical world of Shadow & Bone on Netflix](https://tekdeeps.com/tonight-journey-into-the-magical-world-of-shadow-bone-on-netflix/)
+
+
+> Every evening, Numerama recommends a film or series to watch in streaming. On this Thursday, February 16, 2023, we recommend that you (re)watch without further delay season 1 of Shadow & Bone available on Netflix, and whose season 2 arrives next month. You never know what to choose to spend the best evening on your couch? That's good, Numerama is there to guide you through the catalogs of SVOD platforms. Every day, we recommend a film or series to you, to discover on Netflix, Canal+ or Prime Video.
+
+
+***
+[Artera Announces Positive Results Around Its Multimodal Artificial Intelligence (MMAI) Prognostic Biomarker](http://www.businesswire.com/news/home/20230216005640/en/Artera-Announces-Positive-Results-Around-Its-Multimodal-Artificial-Intelligence-MMAI-Prognostic-Biomarker/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN FRANCISCO--(BUSINESS WIRE)--Artera, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced new data today at ASCO GU 2023 demonstrating that its multimodal artificial intelligence (MMAI) prognostic biomarker can help bring more personalized treatment to men with localized prostate cancer. The biomarker was successfully validated across six phase III randomized trials with long-term follow-up to be independently prognostic over standard cl
+
+
+***
+[Dynatrace Delivers Real-Time Insights into the Carbon Footprint of Hybrid and Multicloud Ecosystems](http://www.businesswire.com/news/home/20230216005126/en/Dynatrace-Delivers-Real-Time-Insights-into-the-Carbon-Footprint-of-Hybrid-and-Multicloud-Ecosystems/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WALTHAM, Mass.--(BUSINESS WIRE)--Software intelligence company Dynatrace (NYSE: DT) announced today the launch of the Carbon Impact app to deliver real-time insights into the carbon footprint of an organization's Dynatrace-monitored hybrid and multicloud ecosystem and precise answers detailing how to reduce its environmental impact. The company developed Carbon Impact using the Dynatrace® AppEngine, a new Dynatrace® platform technology that empowers teams with an easy-to-use, low-code approach
+
+
+***
+![Marvel Disney+ Release Dates: Echo, Ironheart Might Move to 2024](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7af9a3c66604b1ac777d78173c1c6ec7.jpg "Marvel Disney+ Release Dates: Echo, Ironheart Might Move to 2024")
+
+
+[Marvel Disney+ Release Dates: Echo, Ironheart Might Move to 2024](https://gizmodo.com/marvel-disney-plus-release-dates-echo-ironheart-loki-mc-1850122800)
+
+
+> In 2021 and 2022, Marvel Studios released 10 brand-new projects on Disney+ : eight shows and two specials. This year was looking like it might follow suit with plans for What If  season two , Secret Invasion , Loki season two, Echo, Ironheart , and Agatha: Coven of Chaos all potentially set for release. However, with Bob Iger now back as the CEO of Disney, those plans might be changing. Days after Marvel Studios president Kevin Feige was quoted as saying 'The pace at which we're putting out the Disney+ shows will change so they can each get a chance to shine,' the Hollywood Reporter has revealed that it's already begun.
+
+
+***
+[Dynatrace and Snyk Unify Security Insights Across the Entire Software Lifecycle](http://www.businesswire.com/news/home/20230216005124/en/Dynatrace-and-Snyk-Unify-Security-Insights-Across-the-Entire-Software-Lifecycle/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> WALTHAM, Mass.--(BUSINESS WIRE)--Software intelligence company Dynatrace (NYSE: DT) announced a strategic technology alliance with Snyk to make software delivery more secure. The alliance will leverage the DevSecOps Lifecycle Coverage with Snyk app, built using the new Dynatrace® AppEngine. This app is designed to connect Snyk container scans in pre-production with Dynatrace production-runtime insights. It will also enable security and development teams to use the Dynatrace® platform to unlock
+
+
+***
+![European Switch eShop releases for the week of Feb. 16th, 2023](https://gonintendo.com/attachments/image/23364/file/medium-0b33db6fe898af6ceeb075db7e026bfe.jpg "European Switch eShop releases for the week of Feb. 16th, 2023")
+
+
+[European Switch eShop releases for the week of Feb. 16th, 2023](https://gonintendo.com/contents/16334-european-switch-eshop-releases-for-the-week-of-feb-16th-2023)
+
+
+> The next batch of weekly releases for the Switch eShop is here! As usual, there's a huge list of titles coming to the platform, with both small and large releases to pique your interest. Take a look at the full list for Europe for the week of Feb. 16th, 2023 below. Big Adventure: Trip to Europe 2 Collector's Edition Blanc Chess Maiden Dust & Neon Ein's Sword Elderand Geometric Sniper: Blood in Paris Go! Go! PogoGirl Hopping Girl Kohane EX Legion of Doom Little Red Riding Hood: Interactive Book Looking for Aliens Lucie's Porager Montezuma's Revenge: 8-Bit Edition My Lovely Pets: Collector's Edition nPaint OverShoot Battle Race Pocket Witch Prizma Puzzle Prime Psychophonies: What Ghosts Say Ragdoll Rage: Heroes Arena Silver Falls: Ghoul Busters Souls of Chronos Speedgunner Ultra Spy Bros.
+
+
+***
+![New crime series starts this Thursday at Arte](https://www.digitalfernsehen.de/wp-content/uploads/2023/02/df-das-maedchen-aus-kiew-696x400.jpg "New crime series starts this Thursday at Arte")
+
+
+[New crime series starts this Thursday at Arte](https://tekdeeps.com/new-crime-series-starts-this-thursday-at-arte/)
+
+
+> Crime, drama, thriller: 'The Girl from Kiev' is a bit of everything. Above all, the Croatian-Ukrainian series is well-made television – but also heavy fare. It was filmed in 2021 and thus before the outbreak of the Russian war of aggression against Ukraine. This criminal case begins with the death of a young woman and leads the police into the heart of the unscrupulous business of a human trafficking ring from Croatia and Ukraine. In their attempt to solve the brutal exploitation of girls, the investigators are also in danger.
+
+
+***
+![Bat drone orients itself by sound](https://www.com-magazin.de/img/1/6/9/9/7/0/2/Drohne_Echo-fd1d302e5e0cddee_w300_h250.jpg "Bat drone orients itself by sound")
+
+
+[Bat drone orients itself by sound](https://tekdeeps.com/bat-drone-orients-itself-by-sound/)
+
+
+> EPFL's new 'Crazyflie' drone emits ultrasonic pulses to detect obstacles and thus does not need a camera, LiDAR or radar. The new drone 'Crazyflie' by researchers at the Swiss Federal Institute of Technology in Lausanne (EPFL) has no camera, LiDAR, or radar. Nevertheless, even at night it flies without touching obstacles. The model is the bat, which has the same abilities. It emits ultrasonic pulses and uses the reflected signals to detect obstacles in a flash, which it avoids, or prey objects which it greedily pounces on.
+
+
+***
+![North American Switch eShop releases for the week of Feb. 16th, 2023](https://gonintendo.com/attachments/image/23363/file/medium-3befb1b5d1256d130f356b2b3d7e8e8f.jpg "North American Switch eShop releases for the week of Feb. 16th, 2023")
+
+
+[North American Switch eShop releases for the week of Feb. 16th, 2023](https://gonintendo.com/contents/16333-north-american-switch-eshop-releases-for-the-week-of-feb-16th-2023)
+
+
+> Plenty to choose from this week The next batch of weekly releases for the Switch eShop is here! As usual, there's a huge list of titles coming to the platform, with both small and large releases to pique your interest. Take a look at the full list for North America for the week of Feb. 16th, 2023 below. THEATRHYTHM FINAL BAR LINE Tales of Symphonia Remastered Digimon World: Next Order 4x4 Offroad Driver 2 – Available Feb. 17 Akka Arrh – Available Feb. 21 Animal Puzzle World Arcade Archives MAGICAL SPEED Axis Football 2023 Big Adventure: Trip To Europe Chess Maiden CyberHeroes Arena DX – Available Feb.
+
+
+***
+![Download the latest GB WhatsApp 2023, this is how to avoid blocked accounts](https://static.republika.co.id/uploads/member/images/news/thumbnail400/jg20deg0rg.jpg "Download the latest GB WhatsApp 2023, this is how to avoid blocked accounts")
+
+
+[Download the latest GB WhatsApp 2023, this is how to avoid blocked accounts](https://www.world-today-news.com/download-the-latest-gb-whatsapp-2023-this-is-how-to-avoid-blocked-accounts-mlipir/)
+
+
+> GB WhatsApp v9.52 developers claim their application has been updated to make it safer to use and avoid being blocked by the official WhatsApp. For those of you who want to use GB WhatsApp, you can try ways to avoid blocked WA accounts. Even though it has many interesting and unique features, many people are reluctant to use GB WhatsApp because they are worried that their account will be blocked. Indeed, a blocked account is a frightening specter for GB WhatsApp users. This is because not a few GB WhatsApp users have temporarily or even permanently blocked accounts.
+
+
+***
+![YouTube CEO Susan Wojcicki is stepping down](https://external-preview.redd.it/2zU5YqQMvWrnsWvrLhQDk8cRgWMxi_DuJ69Rm8NEEwk.jpg?auto=webp&v=enabled&s=db04faa0ac40d68dd9e002ea49e6f491437f1d59 "YouTube CEO Susan Wojcicki is stepping down")
+
+
+[YouTube CEO Susan Wojcicki is stepping down](https://www.reddit.com/r/technology/comments/113vs6r/youtube_ceo_susan_wojcicki_is_stepping_down)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Samsung One UI 5.1 is coming to Galaxy devices with the new Galaxy S23 series](https://www.digitallife.gr/wp-content/uploads/2023/02/samsung_02.jpg "Samsung One UI 5.1 is coming to Galaxy devices with the new Galaxy S23 series")
+
+
+[Samsung One UI 5.1 is coming to Galaxy devices with the new Galaxy S23 series](https://tekdeeps.com/samsung-one-ui-5-1-is-coming-to-galaxy-devices-with-the-new-galaxy-s23-series/)
+
+
+> THE Samsung Electronics Co., Ltd. announced that One UI 5.1, which was recently introduced with the series Galaxy S23 in Galaxy Unpacked 2023, it will start rolling out globally for other Galaxy devices starting with the Galaxy S221 series, Z Fold4, Z Flip4, S212 series, and S203 series. With One UI 5.1, Galaxy devices will offer a more visually appealing interface, incorporating new features that allow greater creativity and personalization for an even more comfortable experience. 'One UI 5.1 is the latest example of Samsung's commitment to providing Galaxy users with the latest innovations as quickly as possible,' noted Janghyun Yoon, EVP and Senior Executive at Software Office.
+
+
+***
+![Streamlining DevOps and MLOps Projects: How to Pass a Configuration File to a Kubernetes Pod with ConfigMaps and Secrets](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png "Streamlining DevOps and MLOps Projects: How to Pass a Configuration File to a Kubernetes Pod with ConfigMaps and Secrets")
+
+
+[Streamlining DevOps and MLOps Projects: How to Pass a Configuration File to a Kubernetes Pod with ConfigMaps and Secrets](https://praveendandu24.medium.com/streamlining-devops-and-mlops-projects-how-to-pass-a-configuration-file-to-a-kubernetes-pod-with-31df73bda2c7)
+
+
+> Are you struggling to pass a configuration file to a Kubernetes pod? With the increasing complexity of DevOps and MLOps projects, efficient management of configuration files is becoming more critical. Kubernetes ConfigMaps and Secrets can be used to store an entire configuration file and pass it to a pod at runtime, simplifying the process and ensuring a smooth execution. In this blog post, we'll explore how to use ConfigMaps and Secrets to pass a configuration file to a Kubernetes pod. ConfigMaps are a powerful tool in Kubernetes that allow you to store configuration data as key-value pairs.
+
+
+***
+![Wild Hearts Review – Gamereactor](https://www.gamereactor.cn/media/36/wildhearts_3963643b.png "Wild Hearts Review – Gamereactor")
+
+
+[Wild Hearts Review – Gamereactor](https://www.world-today-news.com/wild-hearts-review-gamereactor/)
+
+
+> Picture this: you're walking in a lovely woodland when suddenly a wild boar the size of your local supermarket starts charging at you. In a normal world, you would just pray to your gods before being crushed, but in the world of Heart of the Wild, you are more than capable of taking on these beasts, as your weapons not only carve them with ease, And you can conjure huge walls to block their attacks, and smash their heads with giant mallets. Here's the gist of Wild Hearts, Koei Tecmo, and EA's response to the Monster Hunter series.
+
+
+***
+![Lightware opens new offices in France and Central Europe](https://www.installation-international.com/wp-content/uploads/2023/02/Lightware_25_logo_color.png "Lightware opens new offices in France and Central Europe")
+
+
+[Lightware opens new offices in France and Central Europe](https://www.installation-international.com/technology/connectivity/lightware-opens-new-offices-in-france-and-central-europe)
+
+
+> Company's latest regional hubs will serve France, Central Europe and all overseas French territories Lightware Visual Engineering has announced the opening of its new French and CEU business hubs, covering countries such as France and the French overseas territories, Bulgaria, Latvia, Lithuania, Moldova, Poland, Czech Republic, Slovakia and Romania. In line with Lightware's wider corporate strategy to expand across Europe and further meet the needs of new and existing customers, Lightware France, located in 13 Avenue Morane Saulnier, in Vélizy-Villacoublay, right outside Paris, will be a meeting point for partners, consultants and end users.
+
+
+***
+![Will Hogwarts Legacy have New Game Plus? Post-game options explained](https://images.immediate.co.uk/production/volatile/sites/3/2023/02/HogLeg2-d20d57f.jpg?resize=620,413 "Will Hogwarts Legacy have New Game Plus? Post-game options explained")
+
+
+[Will Hogwarts Legacy have New Game Plus? Post-game options explained](https://www.radiotimes.com/technology/gaming/hogwarts-legacy-new-game-plus/)
+
+
+> Will Hogwarts Legacy have New Game Plus? Fans of the new Wizarding World game will certainly be hoping so. After all, New Game Plus is a mechanic that sprinkles novelty into replaying a game. Once we've reached the conclusion, and finished every little side quest, many players want to do it all again. And with New Game Plus, we often get to carry over a few things from our original playthrough. So what about Hogwarts Legacy? It's a vast game with lots of spells and skills to learn, so it would be nice to go through the story once again without having to relearn it all.
+
+
+***
+![URBAN Launches Next-Gen Premium Fit Z AMOLED Smartwatch with Bluetooth Calling](https://www.patrika.com/_next/image/?url=https://new-img.patrika.com/cdn-cgi/image/width=400,fit=cover,gravity=auto,format=webp,quality=100/https://new-img.patrika.com/upload/2023/02/16/urban.jpg&w=828&q=75 "URBAN Launches Next-Gen Premium Fit Z AMOLED Smartwatch with Bluetooth Calling")
+
+
+[URBAN Launches Next-Gen Premium Fit Z AMOLED Smartwatch with Bluetooth Calling](https://tekdeeps.com/urban-launches-next-gen-premium-fit-z-amoled-smartwatch-with-bluetooth-calling-this-next-generation-smartwatch-will-keep-an-eye-on-your-health-for-24-hours-will-run-for-10-days-non-stop-know-the/)
+
+
+> Published: Feb 16, 2023 11:17:12 am URBAN Smart wearable brand has launched its premium next-generation smartwatch in India. The company has priced the URBAN Fit Z at Rs 5,999. Urban Fit Z Smartwatch: If you are looking to buy an affordable smartwatch, then the URBAN smart wearable brand has launched its premium next-generation smartwatch in India. The company has priced the URBAN Fit Z at Rs 5,999. Now many models are already present in the price in which it comes, but what is special and new in this watch, you will get to know all this in this report.
+
+
+***
+[T-Mobile Customers Score MLS Season Pass on the Apple TV App On Us](http://www.businesswire.com/news/home/20230215005970/en/T-Mobile-Customers-Score-MLS-Season-Pass-on-the-Apple-TV-App-On-Us/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BELLEVUE, Wash.--(BUSINESS WIRE)--Please view launch video here: https://www.youtube.com/watch?v=O14rfDkyBmM What's the news: Soccer fans, let's go! T-Mobile customers can soon experience MLS Season Pass on the Apple TV App on Us — the unprecedented subscription service bringing the action and excitement of Major League Soccer to the Apple TV app. MLS Season Pass ($99 annual value) features every live regular-season match, all MLS Cup playoff matches, and the Leagues Cup – all with no blackouts
+
+
+***
+![iPhone shortcuts app usage](https://images.hindustantimes.com/tech/img/2023/02/16/1600x900/hqdefault_1676566266266_1676566266266_1676566978716_1676566978716.jpg "iPhone shortcuts app usage")
+
+
+[iPhone shortcuts app usage](https://tech.hindustantimes.com/videos/iphone-shortcuts-app-usage-tech-101-ht-tech-71676566269232.html)
+
+
+> videos First Published Date: 16 Feb, 22:35 IST 71676566269232 NEXT ARTICLE BEGINS
+
+
+***
+[Nicolet College Selects YuJa Enterprise Video Platform to Replace its Former Video Learning Product with a Comprehensive, All-in-One Solution](http://www.businesswire.com/news/home/20230216005693/en/Nicolet-College-Selects-YuJa-Enterprise-Video-Platform-to-Replace-its-Former-Video-Learning-Product-with-a-Comprehensive-All-in-One-Solution/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN JOSE, Calif.--(BUSINESS WIRE)--One of 16 colleges in the Wisconsin Technical College System, Nicolet College has selected the YuJa Enterprise Video Platform to replace its former Video Learning Platform, Techsmith Knowmia. Techsmith Knowmia was acquired and the company has phased out enterprise education video hosting. The institution was seeking an ed-tech solution that provided lecture capture capabilities, along with student engagement, sharing, collaboration with both internal and exter
+
+
+***
+![A huge generational leap. PlayStation VR2 delivers a more faithful experience](https://de.web.img2.acsta.net/img/10/39/1039bcc8caceb273762ed6d182bbbe58.jpg "A huge generational leap. PlayStation VR2 delivers a more faithful experience")
+
+
+[A huge generational leap. PlayStation VR2 delivers a more faithful experience](https://www.world-today-news.com/a-huge-generational-leap-playstation-vr2-delivers-a-more-faithful-experience/)
+
+
+> Oculus Quest 2 or HTC Vive Pro 2. There are a number of interesting headsets for virtual reality on the market. The first mentioned model, which is behind the Meta company, can be purchased in stores for as little as CZK 12,490. The more advanced HTC Vive Pro 2 set offers a significantly higher resolution, can better capture a person in space and offers a number of other improvements. However, the price tag has already jumped to CZK 31,990. Neither of the mentioned sets will be of interest to PlayStation owners at all, only the original PlayStation set works with it.
+
+
+***
+![A personal update from Susan](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-logo_-_Lyors_newslette.max-1440x810.format-webp.webp "A personal update from Susan")
+
+
+[A personal update from Susan](https://blog.youtube/inside-youtube/a-personal-update-from-susan/)
+
+
+> Editor's note: This note was sent to YouTube employees earlier this morning. Hi YouTubers, Twenty-five years ago I made the decision to join a couple of Stanford graduate students who were building a new search engine. Their names were Larry and Sergey. I saw the potential of what they were building, which was incredibly exciting, and although the company had only a few users and no revenue, I decided to join the team. It would be one of the best decisions of my life. Over the years, I've worn many hats and done so many things: managed marketing, co-created Google Image Search, led Google's first Video and Book search, as well as early parts of AdSense's creation, worked on the YouTube and DoubleClick acquisitions, served as SVP of Ads, and for the last nine years, the CEO of YouTube.
+
+
+***
+![Flagship's Pioneering Medicines to carve a new drug discovery path with Charles River's AI](https://qtxasset.com/quartz/qcloud5/media/image/Machine.jpg?VersionId=5tFKYbWZf8xjC8EN.yrzzEC.EYmJQAsm "Flagship's Pioneering Medicines to carve a new drug discovery path with Charles River's AI")
+
+
+[Flagship's Pioneering Medicines to carve a new drug discovery path with Charles River's AI](https://www.fiercebiotech.com/medtech/flagships-pioneering-medicines-carve-new-drug-discovery-path-charles-rivers-ai)
+
+
+> Flagship's Pioneering Medicines to carve a new drug discovery path with Charles River's AI apark Thu, 02/16/2023 - 12:00
+
+
+***
+![Health reform: vices for voting in Congress – El Primer Café – Podcast](https://www.eltiempo.com/files/og_paste_img/uploads/2023/02/14/63ec1895b97e1.jpeg "Health reform: vices for voting in Congress – El Primer Café – Podcast")
+
+
+[Health reform: vices for voting in Congress – El Primer Café – Podcast](https://www.world-today-news.com/health-reform-vices-for-voting-in-congress-el-primer-cafe-podcast/)
+
+
+> Listen here to our program ‘The first coffee' on February 15, 2023: Doubts about the legislative process of the controversial health reform project and the discrepancies that it continues to arouse in the cabinet. Also, in this episode: balance of the marches called by the Government: What were the axes of President Gustavo Petro's speech from a window of the Casa de Nariño? At the end, listen to the section ‘La greca'. Find a new episode from Monday to Friday, starting at 6 am, available through www.
+
+
+***
+![Majority of Texans back shift to solar energy](https://external-preview.redd.it/8D_DACOuutXm7ac_wx47rEG-HyUs1x3cchtaD47NDls.jpg?auto=webp&v=enabled&s=dc5c610bc9abcffb5530d4a54145045a0205ce70 "Majority of Texans back shift to solar energy")
+
+
+[Majority of Texans back shift to solar energy](https://www.reddit.com/r/technology/comments/113v9ty/majority_of_texans_back_shift_to_solar_energy)
+
+
+> Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+
+***
+![Python Developer](https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png "Python Developer")
+
+
+[Python Developer](https://www.reddit.com/r/Python/comments/113v8pj/python_developer_100_remote_must_be_us_citizen)
+
+
+> I'm working with Maxar https://www.maxar.com/ They need a Python Developer with 5+ years of experience. The position is fully remote but you must be a US citizen. If you have FastAPI I can get you $90/hr. Contact me here: https://www.linkedin.com/in/tommy7phillips/ Or here: tommy@bridgeviewit.com
+
+
