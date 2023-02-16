@@ -34272,3 +34272,889 @@
 > In recent years, smartwatches and activity trackers have come into fashion. Increase in health awareness among the consumer is driving the market. Also, people are discovering the convenience of having the power of the internet within reach; after all, these wearable devices act as an extension of your smartphone. In other words, they give you instant access to apps, email, text messages, and the web. We pick some of the recent introductions that bridge utility and elegance. Boult Rover (Rs 3,999) Lightweight and comfortable, a beautiful display, plenty of health and fitness monitoring features, that's Boult Rover Smartwatch for you, at a reasonable price of Rs 3,999.
 
 
+***
+![MediaTek Announces Dimensity 7200 Built on 4nm Process](https://telecomtalk.info/wp-content/uploads/2023/02/mediatek-announces-dimensity-7200-built-on-4nm.jpg "MediaTek Announces Dimensity 7200 Built on 4nm Process")
+
+
+[MediaTek Announces Dimensity 7200 Built on 4nm Process](https://telecomtalk.info/mediatek-announces-dimensity-7200-built-on-4nm/677268/)
+
+
+> MediaTek, one of the largest semiconductor manufacturers globally, has announced the Dimensity 7200 platform for smartphones. There's an octa-core CPU that integrates two Arm Cortex-A715 cores, with operating speeds that go up to 2.8 GHz and six Cortex-A510 cores, so that users can easily multitask. The Dimensity 7200 uses MediaTek's Imagiq 765 and a 14-bit HDR ISP. MediaTek, one of the largest semiconductor manufacturers globally, has announced the Dimensity 7200 platform for smartphones.
+
+
+***
+![Optus Expands 5G Coverage Using 900 MHz Spectrum](https://telecomtalk.info/wp-content/uploads/2023/02/optus-expands-5g-coverage-using-900mhz-spectrum.jpg "Optus Expands 5G Coverage Using 900 MHz Spectrum")
+
+
+[Optus Expands 5G Coverage Using 900 MHz Spectrum](https://telecomtalk.info/optus-expands-5g-coverage-using-900mhz-spectrum/677236/)
+
+
+> Optus, an Australian telecommunications company that provides a wide range of services to consumers and businesses, showcased three live and 15 digital demonstrations of how Ericsson and the company are driving 5G technology innovation at Tech Day. Optus has announced that it has expanded its 5G coverage as the Telco has got early access to some of the spectrum to deploy the 5G Network. Also Read:  5G Network on Sub GHz Spectrum Optus has switched on its 900 MHz low band spectrum, increasing Optus' 5G coverage by 20% per-site basis.
+
+
+***
+[European Environmental Bureau: German Green Tech Company STIEBEL ELTRON is &quot;Leader&quot; of Energy Transition 2023](http://www.businesswire.com/news/home/20230215005989/en/European-Environmental-Bureau-German-Green-Tech-Company-STIEBEL-ELTRON-is-Leader-of-Energy-Transition-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HOLZMINDEN, Germany--(BUSINESS WIRE)--German Green tech company Stiebel Eltron is one of the leading manufacturers of climate-friendly heating technology in Europe: the entire product range of the company headquartered in Holzminden, Lower Saxony, is compatible with climate targets. According to the market analysis by the European Environmental Bureau (EEB), companies in this "Leaders" group are spearheading the energy transition in boiler rooms - they are already setting stricter standards for
+
+
+***
+![Solve the problem of slow computer](https://www.ammonnews.net/image.php?token=d8dcb7f903a3e1e0b0c2d4d28b1edd26&size= "Solve the problem of slow computer")
+
+
+[Solve the problem of slow computer](https://www.world-today-news.com/solve-the-problem-of-slow-computer-technology-and-cars/)
+
+
+> Ammon – Solve the problem of slow computer Restart the computer The first option in the process of solving a computer slow problem is to restart the device, especially if the device has not been restarted recently, and the following steps explain how to restart the Windows 10 computer: Click on the Start button. Click on the power button icon shown in the start button menu. Choose the Restart option. Stop programs running in the background Programs running in the background of the computer are one of the most common causes of slow device work.
+
+
+***
+[Shibuya chooses ADVA to deliver encrypted services to Nordic banks](http://www.businesswire.com/news/home/20230215005611/en/Shibuya-chooses-ADVA-to-deliver-encrypted-services-to-Nordic-banks/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==)
+
+
+> STOCKHOLM, Sweden--(BUSINESS WIRE)-- #100G--ADVA (FSE: ADV) today announced that Shibuya is deploying its open optical technology to deliver secure managed services to leading banks across the Nordics and Baltics. The new network features robust optical encryption cards from Adva Network Security for critical data protection. Shibuya, a leading Swedish IT service provider and ADVA's long-term Select partner, is using the solution to offer highly available connectivity with end-to-end data protection.
+
+
+***
+![Why isn't Pluto considered a planet anymore? This seems to be the reason](https://fotografias.larazon.es/clipping/cmsimages02/2023/02/15/D287468C-BAD8-404B-B00D-2F34E676DF53/aurora-canero-artista_69.jpg?crop=4410,2481,x0,y1745&width=1280&height=720&optimize=low&format=jpg "Why isn't Pluto considered a planet anymore? This seems to be the reason")
+
+
+[Why isn't Pluto considered a planet anymore? This seems to be the reason](https://www.world-today-news.com/why-isnt-pluto-considered-a-planet-anymore-this-seems-to-be-the-reason/)
+
+
+> ZONABANTEN.com – Why isn't Pluto considered a planet anymore? This turned out to be the reason. Since our school days, we know that there are 9 planets in the Solar System. The names of the 9 planets include Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto. The smallest planet is Pluto. Reporting from the Peekaboo Kidz YouTube channel, Pluto was discovered by Clyde Tombaugh, an astronomer from the United States. This discovery by Tombaugh occurred in 1930. Since then, Pluto is known as the 9th planet in the Solar System.
+
+
+***
+![Realme GT3 240W design revealed ahead of MWC debut, point to rebadged GT Neo 5 Comments](https://fdn.gsmarena.com/imgroot/static/favicon.ico "Realme GT3 240W design revealed ahead of MWC debut, point to rebadged GT Neo 5 Comments")
+
+
+[Realme GT3 240W design revealed ahead of MWC debut, point to rebadged GT Neo 5 Comments](https://www.gsmarena.com/newscomm-57570.php)
+
+
+> No body in the article.
+
+
+***
+![MTN Group affirms its confidence in the future of Ghana's economy](https://africabusinesscommunities.com//Images/Key Logos/MTN rebrands.png "MTN Group affirms its confidence in the future of Ghana's economy")
+
+
+[MTN Group affirms its confidence in the future of Ghana's economy](https://africabusinesscommunities.com/tech/tech-news/mtn-group-affirms-its-confidence-in-the-future-of-ghanas-economy)
+
+
+> MTN Group has reaffirmed its commitment to Ghana, a market it has been invested in for over 25 years. Since beginning operations in the market, the business has been integral to the economy of Ghana, focusing on enabling connectivity, inclusivity and socio-economic transformation through digital technologies. Speaking from the MTN Headquarters in Johannesburg, Group President and CEO Ralph Mupita said: "MTN remains excited and highly committed to Ghana as a market. To be sure, macro-economic conditions are very challenging in the near term.
+
+
+***
+![Telkom South Africa to lay off 15% of its staff](https://africabusinesscommunities.com//Images/Key Logos/Telkom_sa office.jpg "Telkom South Africa to lay off 15% of its staff")
+
+
+[Telkom South Africa to lay off 15% of its staff](https://africabusinesscommunities.com/tech/tech-news/telkom-south-africa-to-lay-off-15-of-its-staff)
+
+
+> Telkom South Africa, the largest mobile network provider in the county has announced it will lay off more than 11,000 people, or about 15% of its workforce in a restructuring process. This was revealed in a statement to shareholders released on Tuesday as the company released results for Q3 2022, which ended in December. 'As the group manages the delicate migration of revenue between old to new technologies, it is challenged with managing the costs associated with the different technologies, the competitiveness, and sustainability of the group,' Telkom said.
+
+
+***
+![McLaren is developing a supercar with a triple electric motor propulsion](https://korii.slate.fr/sites/default/files/styles/1440x600/public/mclaren_artura_brevet_3_moteurs_electriques.jpg "McLaren is developing a supercar with a triple electric motor propulsion")
+
+
+[McLaren is developing a supercar with a triple electric motor propulsion](https://www.world-today-news.com/mclaren-is-developing-a-supercar-with-a-triple-electric-motor-propulsion/)
+
+
+> Rimac, Porsche, General Motors and now McLaren: more and more car manufacturers are positioning themselves in the 100% electric sports car niche. While already making the hybrid supercar McLaren Artura (as an illustration of this article), the British manufacturer unveiled in January a patent relating to a fully electric triple motor, intended to be installed in the back of a sports vehicle. What would make the future car rear-wheel drive, or rear-wheel drive, quite rare these days. «[Le système] consists of a differential [avec] a motor [électrique primaire] at the entrance and one motor at each exit, where the axle shafts exit, for a total of three.
+
+
+***
+![Scientists reconstruct the brain of the largest carnivorous dinosaur that ever lived](https://www.caritas.es/main-files/uploads/2022/03/Pantallas-1-03-22-CopyrightCaritas-3-scaled.jpg "Scientists reconstruct the brain of the largest carnivorous dinosaur that ever lived")
+
+
+[Scientists reconstruct the brain of the largest carnivorous dinosaur that ever lived](https://www.world-today-news.com/scientists-reconstruct-the-brain-of-the-largest-carnivorous-dinosaur-that-ever-lived/)
+
+
+> 16.02.2023 Using modern techniques, British scientists have succeeded in reconstructing the brain of the largest carnivorous dinosaur that lived 125 million years ago. The terrifying dinosaur had a very strong jaw that could easily cut other dinosaurs in two! Scientists have recreated the brain of the largest carnivorous dinosaur believed to have ever lived on Earth, using fossils unearthed from the huge dinosaur on the Isle of Wight off the south coast of England. Scientists at the University of Southampton sought to digitally recreate the brain of Spinosaurus, which was covered by a skull up to six feet long, helping to discover how these large, predatory dinosaurs interacted with their environment.
+
+
+***
+[SmartBear Celebrates Commitment to Wroclaw Community, Unveiling New Poland Office Double in Size](http://www.businesswire.com/news/home/20230215005301/en/SmartBear-Celebrates-Commitment-to-Wroclaw-Community-Unveiling-New-Poland-Office-Double-in-Size/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SOMERVILLE, Mass. & WROCLAW, Poland--(BUSINESS WIRE)-- #AI--New Wroclaw office unveiled as SmartBear invests in career development with start of 12-week software developer academy program
+
+
+***
+!['You are rude & lie', Users have complaints against Microsoft's AI-powered Bing](https://images.livemint.com/img/2023/02/16/600x338/Bing_1676391619631_1676528945255_1676528945255.jpg "'You are rude & lie', Users have complaints against Microsoft's AI-powered Bing")
+
+
+['You are rude & lie', Users have complaints against Microsoft's AI-powered Bing](https://www.livemint.com/technology/you-are-rude-lie-users-have-complaints-against-microsoft-s-ai-powered-bing-11676528488882.html)
+
+
+> Microsoft has recently introduced an AI-powered version of its Bing and it is taking the world by storm. However, Bing's AI personality does not seem to be much liked by the netizens. Several users shared on Twitter and Reddit that Bing chatbot was emotionally manipulating, sulking, and probably insulting them. Moreover, a user reportedly claimed that the chatbot spied on Microsoft's own developers through their webcams on their laptops. Recently, a user reportedly asked the Bing chatbot for show timings of the new James Cameron movie, Avatar.
+
+
+***
+[Cardano Foundation Expands Executive Team with New COO and CLO](http://www.businesswire.com/news/home/20230215005120/en/Cardano-Foundation-Expands-Executive-Team-with-New-COO-and-CLO/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> ZURICH--(BUSINESS WIRE)--The Cardano Foundation has announced today the appointment of Andreas Pletscher as its Chief Operating Officer (COO) and Nicolas Jacquemart as its Chief Legal Officer (CLO). Pletscher joins the Foundation from PwC while Jacquemart joins from FINMA, the Swiss financial market supervisory authority. Commenting on the appointments, Frederik Gregaard, CEO of the Cardano Foundation, stated: 'I am thrilled to welcome Andreas and Nicolas to the Cardano Foundation team. They ad
+
+
+***
+![There won't be another clam in the Czech Republic yet. You can get the Oppo Find N2 Flip with a large external display at least from your neighbors – MobilMania.cz](https://mobilmania.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=187116960 "There won't be another clam in the Czech Republic yet. You can get the Oppo Find N2 Flip with a large external display at least from your neighbors – MobilMania.cz")
+
+
+[There won't be another clam in the Czech Republic yet. You can get the Oppo Find N2 Flip with a large external display at least from your neighbors – MobilMania.cz](https://www.world-today-news.com/there-wont-be-another-clam-in-the-czech-republic-yet-you-can-get-the-oppo-find-n2-flip-with-a-large-external-display-at-least-from-your-neighbors-mobilmania-cz/)
+
+
+> Oppo launched a new foldable smartphone for the European market today at an event in London. It is one of the novelties originally introduced at the end of last year in China. Even then, the manufacturer announced that only clams would be released outside the homeland Oppo Find N2 Flip. On the other hand, the foldable 'pocket book' Oppo Find N2 will keep as an exclusive for Chinese customers only. Even within Europe, at least in the first wave, it will not reach all countries. The novelty was launched in Great Britain, where it will go on sale in the 8 + 256 GB memory variant and in two colors (purple, black) for 850 pounds, equivalent to 22,600 CZK.
+
+
+***
+![Named the full list of PS Plus Premium and Extra games for February](https://ixbt.online/gametech/covers/2023/02/16/nova-filepond-fh8sBH.jpg "Named the full list of PS Plus Premium and Extra games for February")
+
+
+[Named the full list of PS Plus Premium and Extra games for February](https://www.world-today-news.com/named-the-full-list-of-ps-plus-premium-and-extra-games-for-february/)
+
+
+> Sony has published an offer for PS Plus Premium and PS Plus Extra users. The PlayStation manufacturer has taken care of a wide selection of games, many of which will delight owners of Sony consoles. Horizon Forbidden West is a particularly interesting situation, since the game was released last year on February 18, and Sony has already announced its inclusion in the catalog. Thus, the company is increasing interest in the upcoming Burning Shores expansion, which will be released on April 19th. The expansion will only be available on PlayStation 5.
+
+
+***
+[Top 5 Robot Trends 2023 – International Federation of Robotics Reports](http://www.businesswire.com/news/home/20230215005645/en/Top-5-Robot-Trends-2023-%E2%80%93-International-Federation-of-Robotics-Reports/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> FRANKFURT, Germany--(BUSINESS WIRE)-- #IEEE--The stock of operational robots around the globe hit a new record of about 3.5 million units – the value of installations reached an estimated 15.7 billion USD. The International Federation of Robotics analyzes the top 5 trends shaping robotics and automation in 2023. 'Robots play a fundamental role in securing the changing demands of manufacturers around the world,' says Marina Bill, President of the International Federation of Robotics. 'New trends
+
+
+***
+![‘It's kind of stupid:' ImperialHal is convinced one Apex weapon is ‘broken' after season 16 update](https://cdn1.dotesports.com/wp-content/uploads/2023/02/15225610/New-Project-41-768x432.jpg "‘It's kind of stupid:' ImperialHal is convinced one Apex weapon is ‘broken' after season 16 update")
+
+
+[‘It's kind of stupid:' ImperialHal is convinced one Apex weapon is ‘broken' after season 16 update](https://dotesports.com/apex-legends/news/imperialhal-is-convinced-one-apex-weapon-is-broken-after-season-16-update)
+
+
+> Image via TSM and Respawn As one of the most seasoned Apex Legends pros in the scene, ImperialHal's opinions and insights on the meta bear a lot of weight, especially when it's right after the launch of a new season . The TSM star has been busy grinding games on his Twitch stream to see what the season 16 changes are all about. That includes trying the new weapon, the Nemesis AR , which is already proving to be effective . It's a little too effective for ImperialHal's liking, though.
+
+
+***
+![Top 5 free open-world games like GTA 5 in 2023 (PS4, PS5, PC, Xbox Series X/S, One)](https://staticg.sportskeeda.com/editor/2023/02/ec004-16765287503210-1920.jpg "Top 5 free open-world games like GTA 5 in 2023 (PS4, PS5, PC, Xbox Series X/S, One)")
+
+
+[Top 5 free open-world games like GTA 5 in 2023 (PS4, PS5, PC, Xbox Series X/S, One)](https://www.sportskeeda.com/gta/top-5-free-open-world-games-like-gta-5-2023-ps4-ps5-pc-xbox-series-x-s-one)
+
+
+> GTA games are the pioneers of open-world gaming, and GTA 5 is the pinnacle of it. Rockstar Games has created a massive and intricately detailed living and breathing virtual world that only a few other modern video games can compete with. While the 2013 title is a paid game with a number of best-selling records, there are other open-world games that are free to play. Although many feel that these free games pale in comparison to the offerings of GTA 5, players still enjoy them for what they provide.
+
+
+***
+![New generative AI YouChat bot takes on Google Bard, OpenAI ChatGPT](https://www.deccanherald.com/sites/dh/files/articleimages/2023/02/16/youchat-cs-1-1191754-1676531652.jpg "New generative AI YouChat bot takes on Google Bard, OpenAI ChatGPT")
+
+
+[New generative AI YouChat bot takes on Google Bard, OpenAI ChatGPT](https://www.deccanherald.com/business/technology/new-generative-ai-youchat-bot-takes-on-google-bard-openai-chatgpt-1191754.html)
+
+
+> Soon after OpenAI introduced ChatGPT to the public in late November 2022, another San Francisco-based startup You.com too launched its own Artificial Intelligence (AI) conversational bot YouChat, but could not traction like the former. But, as ChatGPT-based Bing and Google Bard, face flak for churning inaccuracy-riddled search results, You.com have announced a new version of the chatbot YouChat 2.0 that offers more dynamic, reliable solutions to long complex queries. The company says YouChat 2.0 combines its C-A-L, a large language model that blends critical data from apps, web links, and citations-- to deliver real-time results in multiple rich-media contents in terms of charts, images, videos, tables, graphs, text, and code.
+
+
+***
+![Prices and specifications for Oppo Find N2 Flip & Galaxy Z Flip 4, which one is better?](https://awsimages.detik.net.id/visual/2023/02/16/oppo-find-n2-flip_169.png?w=650?w=650 "Prices and specifications for Oppo Find N2 Flip & Galaxy Z Flip 4, which one is better?")
+
+
+[Prices and specifications for Oppo Find N2 Flip & Galaxy Z Flip 4, which one is better?](https://www.world-today-news.com/prices-and-specifications-for-oppo-find-n2-flip-galaxy-z-flip-4-which-one-is-better/)
+
+
+> Editor CNBC Indonesia Tech Jakarta, CNBC Indonesia – The Oppo Find N2 Flip folding screen cellphone has finally been launched globally after it was first introduced in China last December. It is also strongly suspected that this cellphone will soon visit the Indonesian market, because it has been registered on the Ministry of Industry website. Presumably the Oppo Find N2 Flip will be the main competitor for the Samsung Galaxy Z Flip 4, which was launched at the end of 2022. Both of them carry folding screens which are predicted to be increasingly popular this year.
+
+
+***
+![A new Pokémon Mystery Dungeon game might be on the menu for Pokémon Day, according to a leak](https://cdn1.dotesports.com/wp-content/uploads/2023/02/16011619/Pokemon-Mystery-Dungeon-768x432.jpg "A new Pokémon Mystery Dungeon game might be on the menu for Pokémon Day, according to a leak")
+
+
+[A new Pokémon Mystery Dungeon game might be on the menu for Pokémon Day, according to a leak](https://dotesports.com/pokemon/news/a-new-pokemon-mystery-dungeon-game-might-be-on-the-menu-for-pokemon-day)
+
+
+> Image via The Pokemon Company It is usually rare to see an announcement leak early around Pokémon Day, but it looks like a new Pokémon Mystery Dungeon title could be announced at some point during the festivities on February 27.  While the usual Pokémon Day Presents showcase has yet to be shared, The Pokémon Company has already unveiled part of the special event's content with the '#PokémonTogether' celebration .  While the hashtag is meant to be just a small part of the event, acting as a way for players to share images of themselves and friends playing or interacting with the Pokémon IP through games and other methods, it unintentionally may have also leaked one of the new announcements for Pokémon Day.
+
+
+***
+![Urgent Windows 10 alert issued to millions of users, check your PC now](https://cdn.images.express.co.uk/img/dynamic/59/1200x712/4568531.jpg?r=1676531160321 "Urgent Windows 10 alert issued to millions of users, check your PC now")
+
+
+[Urgent Windows 10 alert issued to millions of users, check your PC now](https://www.express.co.uk/life-style/science-technology/1735414/Microsoft-Windows-10-update-warning-zero-day)
+
+
+> Microsoft Windows 10 warning (Image: GETTY) If you use Windows 10 or Windows 11 then you'd be wise to check that your PC is fully up to date and running the version of these popular operating systems. Microsoft has just released a critical update which fixes a number of security issues including some that have been given the dreaded "Zero-day" rating. For those not aware, Zero-day means the glitch has been spotted and is being actively exploited by cyber criminals. That's why it's vital to make sure any PCs you own are running the latest versions of Windows 10 and Windows 11 as, once downloaded, these patches will stop any future attacks.
+
+
+***
+![iQOO Neo7 unveiled with Dimensity 8200 chipset, 6.78" 120Hz display](https://fdn.gsmarena.com/imgroot/news/23/02/iqoo-neo7-announcement/-952x498w6/gsmarena_0000.jpg "iQOO Neo7 unveiled with Dimensity 8200 chipset, 6.78" 120Hz display")
+
+
+[iQOO Neo7 unveiled with Dimensity 8200 chipset, 6.78" 120Hz display](https://www.gsmarena.com/iqoo_neo7_unveiled_with_dimensity_8200_chipset_678_120hz_display-news-57562.php)
+
+
+> The iQOO Neo7 family has three members already, now comes a fourth. Well, sort of, the new models is virtually identical to the iQOO Neo7 SE , which was unveiled in early December last year. The iQOO Neo7 combines a Dimensity 8200, a large 6.78' 120Hz display and a fast-charging 5,000mAh battery. Its design goes retro and draws inspiration from the 8-bit gaming era and Polaroid cameras, though it is more of a gaming phone than a camera phone. To that end the Dimensity 8200 , a 4nm chipset, brings a Mali-G610 MC6 GPU and support for high refresh rate displays.
+
+
+***
+!['A big challenge for the transport industry has been regaining passenger numbers post-Covid'](https://www.siliconrepublic.com/wp-content/uploads/2023/02/Alan_Farrelly__Brian_O_Rourke_of_CitySwift_edited.jpg "'A big challenge for the transport industry has been regaining passenger numbers post-Covid'")
+
+
+['A big challenge for the transport industry has been regaining passenger numbers post-Covid'](https://www.siliconrepublic.com/business/cityswift-brian-o-rourke)
+
+
+> Brian O'Rourke speaks to SiliconRepublic.com about his role as CEO and co-founder of public transport tech company CitySwift, and the digitalisation of the transport industry. Brian O'Rourke is the CEO and co-founder of CitySwift, an Irish-based big data technology company that gives public transport networks the intelligence to deliver dynamic services. This is achieved by using data analytics and machine learning to improve public transport with predictions on journey times and passenger demand, and responsive timetables.
+
+
+***
+![3 independent proofs that quantum fields carry energy](https://bigthink.com/wp-content/uploads/2021/05/origin-56.jpg?resize=1200,630 "3 independent proofs that quantum fields carry energy")
+
+
+[3 independent proofs that quantum fields carry energy](https://bigthink.com/starts-with-a-bang/quantum-fields-energy/)
+
+
+> xml encoding="utf-8" ? One of the biggest questions that appears right at the intersection of physics and philosophy is as simple as it is puzzling: what is real? Is reality simply described by the particles that exist, atop a background of spacetime described by General Relativity? Is it fundamentally wrong to describe these entities as particles, and must we consider them as some sort of hybrid wave/particle/probability function: a more complete description of each 'quantum' in our reality? Or are there fields, fundamentally, that underpin all of existence, where the 'quanta' that we typically interact with are simply examples of excitations of those fields? When quantum mechanics arrived on the scene, it brought with it the realization that quantities that had previously thought to be well-defined, like: the position and momentum of a particle, its energy and location in time, and its angular momentum in each of the three spatial dimensions that we have, could no longer be assigned values, only a probability distribution for what values they could take on.
+
+
+***
+[Sustainability Ai Tech Start-Up QiO Technologies Secures $10m to Help Energy-Intensive Businesses Reduce Greenhouse Gas Emissions and Energy Costs](http://www.businesswire.com/news/home/20230215005172/en/Sustainability-Ai-Tech-Start-Up-QiO-Technologies-Secures-10m-to-Help-Energy-Intensive-Businesses-Reduce-Greenhouse-Gas-Emissions-and-Energy-Costs/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SURREY, England--(BUSINESS WIRE)--QiO Technologies, an AI sustainability tech start-up which supports energy-intensive businesses to deliver rapid reductions in greenhouse gas emissions (GHG) and energy costs, has closed a $10m Series B funding round from WAVE Equity Partners, a leading impact investment firm based in Boston, USA. QiO will use this funding to expand its operations in USA and Europe, enhance the capabilities of its Foresight Sustainability Suite™, and accelerate customer acquisi
+
+
+***
+![Naira redesign: Buhari approves the use of old N200 notes for 60 days](https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/tc/2022/02/download-7.jpg "Naira redesign: Buhari approves the use of old N200 notes for 60 days")
+
+
+[Naira redesign: Buhari approves the use of old N200 notes for 60 days](https://techcabal.com/2023/02/16/buhari-extends-the-use-of-old-n200-notes/)
+
+
+> Nigeria's President Muhammadu Buhari in a national broadcast on Thursday morning directed the Central Bank of Nigeria to release old N200 notes into circulation. 'To further ease the supply pressure, particularly on citizens, I have given approval to the CBN that the old N200 bank notes be released back into circulation and it should also be allowed to circulate as legal tender with the new N200, N500 and N1,000 bank notes for 60 days from February 10, 2023 to April 10, 2023 when the old N200 note ceases to be legal tender,' the President said.
+
+
+***
+![Processor sales fell the most in 30 years. But AMD has already sucked almost a third of the market from Intel – Živě.cz](https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=807890938 "Processor sales fell the most in 30 years. But AMD has already sucked almost a third of the market from Intel – Živě.cz")
+
+
+[Processor sales fell the most in 30 years. But AMD has already sucked almost a third of the market from Intel – Živě.cz](https://www.world-today-news.com/processor-sales-fell-the-most-in-30-years-but-amd-has-already-sucked-almost-a-third-of-the-market-from-intel-zive-cz/)
+
+
+> Shipments of x86 processors during the last quarter of 2022 fell by 19% quarter-on-quarter and by 34% year-on-year. In both cases, these are the biggest drops in the history of Mercury Research measurements going back to the 1980s. According to this agency, 374 million x86 chips were sold during the whole of last year for about 65 billion dollars, sales fell by 20% year-on-year. At least AMD can have a little joy. The company also did not avoid absolute declines, but Intel was worse off. Lisa Su's team is thus cutting off market share from its rival.
+
+
+***
+![Qualcomm's Snapdragon X75 could solve a lot of 5G phone problems](https://whatsnew2day.com/wp-content/uploads/2023/02/qualcomms-snapdragon-x75-could-solve-a-lot-of-5g-phone.jpg "Qualcomm's Snapdragon X75 could solve a lot of 5G phone problems")
+
+
+[Qualcomm's Snapdragon X75 could solve a lot of 5G phone problems](https://whatsnew2day.com/qualcomms-snapdragon-x75-could-solve-a-lot-of-5g-phone-problems/)
+
+
+> The next generation of 5G connectivity it's here. This week Qualcomm introduced its new Snapdragon X75 chipset; which it proclaimed to be the world's first smartphone modem to support the 5G Advanced standard. Don't blame yourself if you haven't heard of 5G Advanced before, as it's a completely new technology that won't even be out until 2024 (opens in a new tab) . All you really need to know at this point is that the new standard aims to improve (opens in a new tab) latency, coverage, mobility, and power efficiency of 5G, resulting in better overall mobile performance.
+
+
+***
+!['Minecraft' version 1.20 has added 'Sakura Ecosystem', 23w07a beta service is the first to enjoy cherry blossoms!](https://img.4gamers.com.tw/news-image/12481999-4669-427b-a67f-9a876847b93b.jpg "'Minecraft' version 1.20 has added 'Sakura Ecosystem', 23w07a beta service is the first to enjoy cherry blossoms!")
+
+
+['Minecraft' version 1.20 has added 'Sakura Ecosystem', 23w07a beta service is the first to enjoy cherry blossoms!](https://www.world-today-news.com/minecraft-version-1-20-has-added-sakura-ecosystem-23w07a-beta-service-is-the-first-to-enjoy-cherry-blossoms-4gamers/)
+
+
+> Mojang has announced the new information about the highly anticipated 1.20 revision of the next 'Minecraft' Java version, which will bring pink surprises and cherry blossom ecosystems to global wheat block players, and this new content has already appeared in the '23w07a' beta version. Yes, this pink cherry blossom tree is a new plant that will be added in version 1.20 after the previously announced 'Bamboo Forest'. In addition to the beautiful pink color of the cherry blossom forest blooming on the ground, the petals of the cherry blossoms will also be green grass Embellishment, and cherry blossom wood will be a brand-new building material, which can be said to be a dream come true version for players who love pink.
+
+
+***
+![REVIEW: Fire Emblem Engage weaponizes nostalgia](https://gonintendo.com/attachments/image/23317/file/medium-082425f2ae38b1d79b87ee958cde3427.jpg "REVIEW: Fire Emblem Engage weaponizes nostalgia")
+
+
+[REVIEW: Fire Emblem Engage weaponizes nostalgia](https://gonintendo.com/contents/16303-review-fire-emblem-engage-weaponizes-nostalgia)
+
+
+> Us Fire Emblem fans are a hardy bunch. Much like the innumerable factions within the medieval strategy series, cutthroat rhetoric and fanbase politics are what forge sturdy allegiances that stew about in our fortified Reddit garrisons. Some hail the Game Boy Advance iterations that pioneered Fire Emblem 's western debut as the series' pinnacle, while those who started with newer titles like Fates and Three Houses have no use for the older games' emphasis on permadeath. Why, in the right forums, a world-weary netizen might regale you with tales of how even the beloved GBA games were trivial follies compared to the Super Famicom games of yore.
+
+
+***
+![realme Confirms Global Launch realme GT3 with 240W Charging](https://cdn.kursors.lv/2023/02/Screenshot-2023-02-15-at-12.31.47-min.png "realme Confirms Global Launch realme GT3 with 240W Charging")
+
+
+[realme Confirms Global Launch realme GT3 with 240W Charging](https://www.world-today-news.com/realme-confirms-global-launch-realme-gt3-with-240w-charging/)
+
+
+> realme is ready to bring a new standard to the world smartphone market through the global launch of realme GT3 with the fastest 240W charging technology. realme, the fastest growing smartphone brand in the world, has confirmed the presence of the latest flagship series realme GT3. Yes! realme announced that the smartphone will be launched in the global market during the annual Mobile World Congress 2023 (MWC 2023). realme will introduce the realme GT3 through a global launch event that will be held in Barcelona, ​​Spain, and can be watched online by young people around the world including Indonesia on February 28, 2023, at 22:00 WIB.
+
+
+***
+![Apple's Mixed-Reality Headset to Now Debut at WWDC](https://cdn.iphoneincanada.ca/wp-content/uploads/2017/09/iic-logo-1.svg "Apple's Mixed-Reality Headset to Now Debut at WWDC")
+
+
+[Apple's Mixed-Reality Headset to Now Debut at WWDC](https://www.iphoneincanada.ca/news/apples-mixed-reality-headset-to-now-debut-at-wwdc-report/)
+
+
+> Image: Marcus Kane If you have been following the developments of Apple's rumoured mixed-reality headset, the latter's spring debut has now been apparently delayed to the company's Worldwide Developer Conference (WWDC), according to Bloomberg's Mark Gurman. According to unnamed sources, the headset was said to debut in April, but that has been pushed to June. The delay is reportedly due to hardware and software kinks that still exist, with Apple deciding earlier this month to delay the product.
+
+
+***
+![Sundar Pichai's request to Google employees: Spend time on improving Bard AI](https://images.moneycontrol.com/static-mcnews/2018/09/Sundar-Pichai-770x433.jpg "Sundar Pichai's request to Google employees: Spend time on improving Bard AI")
+
+
+[Sundar Pichai's request to Google employees: Spend time on improving Bard AI](https://www.moneycontrol.com/news/trends/sundar-pichais-request-to-google-employees-spend-time-on-improving-bard-ai-10095881.html)
+
+
+> In an internal memo on February 15, Google CEO Sundar Pichai asked employees to spend 2 to 4 hours this week on improving Bard, its recently-released AI chatbot. The leaked company-wide email was reviewed by Business Insider. 'I know this moment is uncomfortably exciting, and that's to be expected: the underlying technology is evolving rapidly with so much potential,' Sundar Pichai wrote in his email to Googlers. 'The most important thing we can do right now is to focus on building a great product and developing it responsibly.
+
+
+***
+![The Importance of Web Design for Your Business](https://researchsnipers.com/wp-content/uploads/2022/05/The-best-7-websites-to-delete-objects-from-photos-for.jpg "The Importance of Web Design for Your Business")
+
+
+[The Importance of Web Design for Your Business](https://researchsnipers.com/the-importance-of-web-design-for-your-business/)
+
+
+> In today's digital age, having an online presence is essential for any business. A website is often the first point of contact between a company and potential customers. Therefore, it is crucial that your website is not only visually appealing but also user-friendly and functional. In this article, we will discuss the importance of web design for your business and how it can help you outrank your competitors in search engines. The First Impression is Everything  Your website is a reflection of your business.
+
+
+***
+![Egypt's Hybrid National Airline-Air Cairo chooses AirGain to Increase Market Share and Optimize Pricing Strategies](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_02_16_4468374.jpg?width=920&format=jpeg "Egypt's Hybrid National Airline-Air Cairo chooses AirGain to Increase Market Share and Optimize Pricing Strategies")
+
+
+[Egypt's Hybrid National Airline-Air Cairo chooses AirGain to Increase Market Share and Optimize Pricing Strategies](https://www.devdiscourse.com/article/technology/2356436-egypts-hybrid-national-airline-air-cairo-chooses-airgain-to-increase-market-share-and-optimize-pricing-strategies)
+
+
+> RateGain Travel Technologies Limited (RateGain), a global provider of SaaS solutions for travel and hospitality, announced today that Air Cairo, Egypt's second-largest carrier has selected AirGain to gather essential pricing insights and competitive intelligence data to speed up growth in a constantly evolving market. Air Cairo, partly owned by the national carrier Egypt Air is a hybrid national airline with operations in over 40 cities worldwide, providing more than 300 weekly flights to 50 international and domestic destinations carrying over 20 million passengers in the last twenty years.
+
+
+***
+![Octopath Traveler II '8 days to launch' artwork shared](https://gonintendo.com/attachments/image/23351/file/medium-a30a76a9ce78fd765e6c1261ae72baf8.png "Octopath Traveler II '8 days to launch' artwork shared")
+
+
+[Octopath Traveler II '8 days to launch' artwork shared](https://gonintendo.com/contents/16321-octopath-traveler-ii-8-days-to-launch-artwork-shared)
+
+
+> On the hunt for release date Square Enix has been sharing artwork counting down the days until Octopath Traveler II's launch, which arrives on February 24th, 2023. Today, Square Enix has released the artwork signifying that 11 days are left until the game sees release. You can see that artwork above. The artwork for today showcases H'aanit from Octopath Traveler hanging out with Ochette from the sequel. These two are standing together as they are both hunters. You'll obviously learn a lot more about Ochette's hunter path when Octopath Traveler II launches.
+
+
+***
+![Tablets: 5 models that rival portable PCs and Macbooks](https://www.itespresso.fr/wp-content/uploads/2023/02/Lenovo-Tab-P11-Pro.jpg "Tablets: 5 models that rival portable PCs and Macbooks")
+
+
+[Tablets: 5 models that rival portable PCs and Macbooks](https://www.world-today-news.com/tablets-5-models-that-rival-portable-pcs-and-macbooks/)
+
+
+> Very well motorized with graphics cards up to professional needs, the new generation of tablets are largely at the level of laptops. Small selection that might tip you over. # Specifications Processor: Qualcomm 865+. RAM memory: 6 Go. Screen: 12.4″ (2800 x 1752) WQXGA+. Camera: 8 MP front | 13 MP rear. Disk storage: 128 Go. OS: Android. Weight: 575 g. # Prix: from 800 euros (image credit: Samsung) # Specifications Processor: Intel Core i7-8650U. Graphic card: Integrated Intel UHD Graphics 620. Memory: up to 16 GB LPDDR3.
+
+
+***
+![UST Recognized as a 'Great Place to Work' and 'Top Employer 2023' in Spain](https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_47_4854533.png?width=920&format=jpeg "UST Recognized as a 'Great Place to Work' and 'Top Employer 2023' in Spain")
+
+
+[UST Recognized as a 'Great Place to Work' and 'Top Employer 2023' in Spain](https://www.devdiscourse.com/article/technology/2356428-ust-recognized-as-a-great-place-to-work-and-top-employer-2023-in-spain)
+
+
+> UST, a leading digital transformation solutions company, announced that it has been certified as a Great Place to Work™ in Spain for the first time. UST was also recently recognized as a 'Top Employer' in Spain. These prestigious recognitions highlight UST's commitment to operating at the highest levels and setting the bar for employee satisfaction, workplace culture and career development in the IT and technology industry. The company is also Great Place to Work certified in the United States, Mexico, India, the United Kingdom and Malaysia, demonstrating that UST is recognized globally as an organization with a culture of trust that can attract and retain talent.
+
+
+***
+![This time, the development of city construction 'Beyond These Stars' on the back of a space whale that travels faster than the speed of light is released-Hong Kong mobile game network GameApps.hk](https://image.gameapps.hk/images/202302/16/0c41acec1a28db7e.jpg "This time, the development of city construction 'Beyond These Stars' on the back of a space whale that travels faster than the speed of light is released-Hong Kong mobile game network GameApps.hk")
+
+
+[This time, the development of city construction 'Beyond These Stars' on the back of a space whale that travels faster than the speed of light is released-Hong Kong mobile game network GameApps.hk](https://www.world-today-news.com/this-time-the-development-of-city-construction-beyond-these-stars-on-the-back-of-a-space-whale-that-travels-faster-than-the-speed-of-light-is-released-hong-kong-mobile-game-network-gameapps-hk/)
+
+
+> 'Beyond These Stars' is a city-building game with space whales as the background, develop your city civilization and establish a relationship with space whale Kewa, travel together in the vast galaxy, meet other species in the banking system, and explore about their ancestors and the truth about space whales. Beyond These Stars is more than a city building game, you have to develop on Kewa with the limited space and resources available, will you sacrifice your relationship with Kewa to build a huge industry, or make Kewa your home? Kewa is an intelligent and ancient being who travels at will in a randomly generated universe.
+
+
+***
+![Soft Robotics using Nvidia simulation technology to develop its gripping system](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/soft-robotics-nvidia-food.png "Soft Robotics using Nvidia simulation technology to develop its gripping system")
+
+
+[Soft Robotics using Nvidia simulation technology to develop its gripping system](https://roboticsandautomationnews.com/2023/02/16/soft-robotics-using-nvidia-simulation-technology-to-develop-its-gripping-system/60406/)
+
+
+> Soft Robotics has applied Nvidia Isaac Sim 's synthetic data to food processing automation in efforts to improve safety and increase production. Developers have been striving to close the gap on robotic gripping for the past several years, pursuing applications for multibillion-dollar industries. Securely gripping and transferring fast-moving items on conveyor belts holds vast promise for businesses. Soft Robotics, a Bedford, Massachusetts startup, is harnessing Nvidia Isaac Sim to help close the sim to real gap for a handful of robotic gripping applications.
+
+
+***
+![RUMOR: Pokémon website source code may hint at a new Pokémon Mystery Dungeon game](https://gonintendo.com/attachments/image/23350/file/medium-67a5539971a3715d3034edd92cc56aa8.webp "RUMOR: Pokémon website source code may hint at a new Pokémon Mystery Dungeon game")
+
+
+[RUMOR: Pokémon website source code may hint at a new Pokémon Mystery Dungeon game](https://gonintendo.com/contents/16320-rumor-pokemon-website-source-code-may-hint-at-a-new-pokemon-mystery-dungeon-game)
+
+
+> On February 27, 1996, the first Pokémon video games, Pokémon Red and Pokémon Green, launched in Japan and introduced players to the concept of battling and trading Pokémon by connecting their Game Boy devices. Since then, Trainers around the world come together to celebrate their love for the brand on February 27, better known as Pokémon Day. This year, The Pokémon Company International is celebrating the original and enduring spirit of connectivity which began with those first games by inviting Trainers to 'Pokémon Together' throughout 2023.
+
+
+***
+![Apex Legends cheats and hacks with skycheats which are most perfect](https://researchsnipers.com/wp-content/uploads/2022/10/Windows-11-Gaming-performance-can-be-increased-at-the.jpg "Apex Legends cheats and hacks with skycheats which are most perfect")
+
+
+[Apex Legends cheats and hacks with skycheats which are most perfect](https://researchsnipers.com/apex-legends-cheats-and-hacks-with-skycheats-which-are-most-perfect/)
+
+
+> SkyCheats is a provider of the greatest for Apex Legends cheats and hacks, the popular battle royale game developed by Respawn Entertainment. With its innovative features and gameplay, Apex Legends has captured the attention of gamers worldwide. However, not everyone is happy with the level of difficulty and competitiveness of the game. That's where SkyCheats comes in. With its unparalleled cheats and hacks, SkyCheats makes it easier for players to dominate the game and achieve their goals. Aimbot One of the standout features of SkyCheats is its advanced aimbot system.
+
+
+***
+![Samsung updates SSD 990 PRO firmware. It is supposed to slow down too fast indicated wear – Živě.cz](https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=446203549 "Samsung updates SSD 990 PRO firmware. It is supposed to slow down too fast indicated wear – Živě.cz")
+
+
+[Samsung updates SSD 990 PRO firmware. It is supposed to slow down too fast indicated wear – Živě.cz](https://www.world-today-news.com/samsung-updates-ssd-990-pro-firmware-it-is-supposed-to-slow-down-too-fast-indicated-wear-zive-cz/)
+
+
+> At the end of January, we reported on the inconvenience faced by new Samsung 990 Pro SSD owners. Various disk diagnostic tools have indicated a drop in ' health ' detected through SMART technology of up to tens of percent within a few weeks. To the problem pointed out the editor of NeoWin magazine Robbie Khan and almost immediately other users who were unpleasantly surprised by the results of the test tools started to speak up. In one case, for example, CrystalDiskInfo software declared only 64% disk ' health ' after writing only two terabytes of data.
+
+
+***
+![Ninjala hits 10 million download, Attack On Titan collab revealed](https://gonintendo.com/attachments/image/23349/file/medium-d2f3b3e4df6fa0c40c20ed93b4c7d169.png "Ninjala hits 10 million download, Attack On Titan collab revealed")
+
+
+[Ninjala hits 10 million download, Attack On Titan collab revealed](https://gonintendo.com/contents/16319-ninjala-hits-10-million-download-attack-on-titan-collab-revealed)
+
+
+> A titan-sized achievement Gungho Online has two big reasons to celebrate, and both are tied to Ninjala. First up, the team has announced that Ninjala has officially achieved 10 million downloads worldwide. That's a lot of ninja action and bubble gum chewing! Along with that, Gungho Online has announced the next collab for Ninjala, and it's a big one. The Ninjala universe will be colliding with the mega-popular Attack on Titan anime brand! This collaboration kicks off on March 5th, 2023, and more details on what it includes will be shared in the near future.
+
+
+***
+![ChatGPT Bing is becoming an unhinged AI nightmare](https://external-preview.redd.it/uOWwrUehNrkehFq_nN7XZUilM5hI-M_jRuF8ykIXwwo.jpg?auto=webp&v=enabled&s=a8c89e5993806dd31e1bc9e7935078fc8290187b "ChatGPT Bing is becoming an unhinged AI nightmare")
+
+
+[ChatGPT Bing is becoming an unhinged AI nightmare](https://www.reddit.com/r/programming/comments/113jmzh/chatgpt_bing_is_becoming_an_unhinged_ai_nightmare)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![I am an Air Traffic Controller 4 Sapporo New Chitose DLC Released](https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/I%20am%20an%20Air%20Traffic%20Controller%204%20Airport%20NEW%20CHITOSE.jpg?itok=0jBhZWBJ "I am an Air Traffic Controller 4 Sapporo New Chitose DLC Released")
+
+
+[I am an Air Traffic Controller 4 Sapporo New Chitose DLC Released](https://techraptor.net/gaming/news/i-am-air-traffic-controller-4-sapporo-new-chitose-dlc-released)
+
+
+> Following the announcement from a few weeks ago , Japanese developer Technobrain released the new DLC for the Steam version of its ATC simulator  I am an Air Traffic Controller 4 . The new DLC adds an entirely new airport and it's a big one, New Chitose (RJCC) serving the capital city of Hokkaido prefecture, Sapporo.  The DLC comes with interesting challenges including the fact that New Chitose shares the grounds with Chitose Airbase of the Japan Air Self Defense Force, so you'll have to handle its F-15 Eagle fighters and even the famous "Japanese Air Force One" Boeing 777.
+
+
+***
+![Zoox says its robotaxi is ‘first in the world to operate on public roads'](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/zoox-open-roads-robotaxi.jpg "Zoox says its robotaxi is ‘first in the world to operate on public roads'")
+
+
+[Zoox says its robotaxi is ‘first in the world to operate on public roads'](https://roboticsandautomationnews.com/2023/02/16/zoox-says-its-robotaxi-is-first-in-the-world-to-operate-on-public-roads/60378/)
+
+
+> Autonomous mobility-as-a-service company, Zoox , has completed what it describes as 'a key milestone' – deploying 'the world's first purpose-built robotaxi on open public roads with passengers'. On February 11, 2023, Zoox conducted the first run of its employee shuttle service in Foster City, California, marking 'the first time in history' a purpose-built autonomous robotaxi without traditional driving controls carried passengers on open public roads. To reach this milestone, Zoox completed rigorous testing on private roads and received approval from the California Department of Motor Vehicles (DMV) to operate its robotaxi on the state's public roads.
+
+
+***
+![MediaTek Dimensity 7200 chipset for gaming, camera focused mid-range smartphones launched](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/16/2573240-mediatek-dimensity-7200.png "MediaTek Dimensity 7200 chipset for gaming, camera focused mid-range smartphones launched")
+
+
+[MediaTek Dimensity 7200 chipset for gaming, camera focused mid-range smartphones launched](https://www.dnaindia.com/technology/report-mediatek-dimensity-7200-chipset-for-gaming-camera-focused-mid-range-smartphones-launched-3024032)
+
+
+> MediaTek Dimensity 7200 MediaTek has announced the new Dimensity 7200, its inaugural chipset in the new Dimensity 7000 series. As per MediaTek, the Dimensity 7200 boasts cutting-edge AI imaging features, powerful gaming optimizations, and impressive 5G speeds, all with power savings for extended battery life. The Dimensity 7200 delivers the same TSMC 4nm second-generation process found in the Dimensity 9200, and is ideal for ultra-slim designs in a variety of form factors. The octa-core CPU integrates two Arm Cortex-A715 cores, featuring operating speeds of up to 2.
+
+
+***
+[Tigo Energy to Unveil Integrated Solar-Plus-Storage Solution for Iberian Market at Genera Energy and Environment Fair](http://www.businesswire.com/news/home/20230215005912/en/Tigo-Energy-to-Unveil-Integrated-Solar-Plus-Storage-Solution-for-Iberian-Market-at-Genera-Energy-and-Environment-Fair/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MONTEVARCHI, Italy--(BUSINESS WIRE)--Tigo Energy, Inc. ('Tigo' or the 'Company'), a leading provider of intelligent solar and energy storage solutions, will showcase and launch the Tigo EI Residential Solar Solution to the Iberian market at the Genera Energy and Environment Fair in Madrid on Wednesday, February 22, 2023. Tigo business and engineering representatives will attend the conference to meet with Spanish PV professionals and to show them the peculiarities of the new Tigo all-in-one sys
+
+
+***
+[BenevolentAI: Notice of Preliminary Results](http://www.businesswire.com/news/home/20230215005920/en/BenevolentAI-Notice-of-Preliminary-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> LONDON--(BUSINESS WIRE)--BenevolentAI ('BenevolentAI' or the 'Company') (Euronext Amsterdam: BAI), a leading, clinical-stage AI-enabled drug discovery company, will announce its preliminary results for the year ended 31 December 2022 on Thursday, 16 March 2023. Management will host an in-person briefing for analysts at 09:30 GMT on the day of the results at the offices of FTI Consulting (200 Aldersgate, Aldersgate Street, London EC1A 4HD). The event will also be accessible via webcast and a rec
+
+
+***
+![Apple iPhone users can use two WhatsApp accounts easily with this simple trick](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/16/2573249-apple.png "Apple iPhone users can use two WhatsApp accounts easily with this simple trick")
+
+
+[Apple iPhone users can use two WhatsApp accounts easily with this simple trick](https://www.dnaindia.com/technology/report-apple-iphone-users-can-use-two-whatsapp-accounts-easily-with-this-simple-trick-3024041)
+
+
+> Apple Apple iPhone is a preferred choice for smartphone buyers who give priority to security. The Apple iPhones do not allow users to install third party apps which makes them much safer devices than other smartphones in the market. However, that safety comes at cost as Apple iPhone users can not install modified WhatApp apps such as WhatsApp Plus, GB WhatsApp and others that allow users to use multiple accounts on a single device. WhatsApp is the most used messaging platform across the globe and as most smartphones support dual-SIM cards, users also wish to use two WhatsApp accounts simultaneously.
+
+
+***
+![Elon Musk feels not restricting his children's social media use have been a mistake, here is what he said](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/elon-musk-reuters_1-sixteen_nine-original.jpg "Elon Musk feels not restricting his children's social media use have been a mistake, here is what he said")
+
+
+[Elon Musk feels not restricting his children's social media use have been a mistake, here is what he said](https://www.indiatoday.in/technology/news/story/elon-musk-feels-not-restricting-his-childrens-social-media-use-have-been-a-mistake-here-is-what-he-said-2335414-2023-02-16)
+
+
+> Story highlights Elon Musk says that he has never restricted his kids' social media use. However, the billionaire feels that it might have been a mistake. Musk was speaking at the World Government Summit (WGS) in Dubai Twitter-owner Elon Musk has time and again made headlines for his bizarre comments and tweets. The billionaire, who is father to nine kids, recently said at an event that he has never limited his children's social media use. However, he feels that it might have been a mistake.
+
+
+***
+![Twitter becomes first social media platform to allow cannabis ads in US](https://images.cnbctv18.com/wp-content/uploads/2023/02/RTS9GTUD-1019x573.jpg "Twitter becomes first social media platform to allow cannabis ads in US")
+
+
+[Twitter becomes first social media platform to allow cannabis ads in US](https://www.cnbctv18.com/technology/twitter-becomes-first-social-media-platform-to-allow-cannabis-ads-in-us-15951841.htm)
+
+
+> Twitter will allow cannabis companies to advertise on the platform in the United States. Twitter updated its ad policy on Wednesday becoming the first social media platform in the US to allow cannabis advertising. Feb 16, 2023 IST 5 Min(s) Read Feb 15, 2023 IST 4 Min(s) Read Feb 15, 2023 IST 6 Min(s) Read Feb 14, 2023 IST 6 Min(s) Read The company said it will permit cannabis companies to advertise as long as they have a proper licence, pass through its multi-stage approval process, target only jurisdictions where they are licenced to operate, and don't target people aged below 21 years.
+
+
+***
+![3 Recommended Cellphones Priced at 2 Million with 8GB of RAM, There is the Tecno POVA 4 Pro Gaming Cellphone](https://ichef.bbci.co.uk/news/1024/branded_arabic/A126/production/_128645214_a43187f183710b79f97af1ee10cac615aaae669c0_0_3500_24151000x690.jpg "3 Recommended Cellphones Priced at 2 Million with 8GB of RAM, There is the Tecno POVA 4 Pro Gaming Cellphone")
+
+
+[3 Recommended Cellphones Priced at 2 Million with 8GB of RAM, There is the Tecno POVA 4 Pro Gaming Cellphone](https://www.world-today-news.com/3-recommended-cellphones-priced-at-2-million-with-8gb-of-ram-there-is-the-tecno-pova-4-pro-gaming-cellphone/)
+
+
+> AYOINDONESIA.COM — 3 recommendations for cellphones priced at 2 million with 8GB of RAM will be reviewed in this article. Smartphones with 8GB of RAM certainly have a big role in supporting cellphone performance. To have a cellphone with 8GB of RAM, now you don't need to spend too much money. This is because many smartphone vendors offer large RAM phones at low prices. Like the 3 cellphones that will be reviewed in this article, namely 2 million cellphones with 8GB of RAM. 3 HP recommendations priced at 2 million with 8GB of RAM Infinix Note 12 2023 Infinix Note 12 2023 has dimensions of 164.
+
+
+***
+![An incredible promotion, it goes under the 700€ mark at this merchant!](https://www.lesmobiles.com/img/actus/iPhone-13-Promotion-incroyable-il-passe-sous-la-barre-des-700-chez-ce-marchand-1676467833-large.jpg "An incredible promotion, it goes under the 700€ mark at this merchant!")
+
+
+[An incredible promotion, it goes under the 700€ mark at this merchant!](https://www.world-today-news.com/an-incredible-promotion-it-goes-under-the-700e-mark-at-this-merchant/)
+
+
+> Enjoy the lowest price on the iPhone 13 thanks to this crazy offer from Rakuten. This high-end smartphone released in 2021 still has very good qualities and is one of Apple's most recent smartphones. The iPhone 13 has a very good technical sheet quite close to the latest iPhone 14, for 300€ less. Her 6.1-inch Super Retina display its good performance with its chip A15 Bionic and its very good photo capabilities will make it a perfect smartphone for many years to come! Today, it is its price that makes people talk about it, and for good! Released at a price of 909€ he is currently at €699.
+
+
+***
+![NASA's Webb Space Telescope Reveals Never-Before-Seen Details of Pandora's Cluster](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17wLpz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "NASA's Webb Space Telescope Reveals Never-Before-Seen Details of Pandora's Cluster")
+
+
+[NASA's Webb Space Telescope Reveals Never-Before-Seen Details of Pandora's Cluster](http://www.msn.com/en-us/news/technology/nasa-s-webb-space-telescope-reveals-never-before-seen-details-of-pandora-s-cluster/ar-AA17wGgD)
+
+
+> There are galaxies. Then there are galaxy clusters, which are made up of hundreds to thousands of galaxies held together by gravity. Then there are galaxy megaclusters -- a cluster of clusters, if you will. A new James Webb Space Telescope image reveals never-before-seen details of Pandora's Cluster, a megacluster where three galaxy clusters are merging. Pandora's Cluster is already a cosmic superstar because of gravitational lensing, a phenomenon that allows astronomers to use a galaxy cluster like a giant magnifying glass to view more distant objects behind it.
+
+
+***
+![Watch the iQOO Neo 7 announcement live](https://fdn.gsmarena.com/imgroot/news/23/02/watch-iqoo-neo-7-launch-event/-952x498w6/gsmarena_00.jpg "Watch the iQOO Neo 7 announcement live")
+
+
+[Watch the iQOO Neo 7 announcement live](https://www.gsmarena.com/watch_the_iqoo_neo_7_announcement_live-news-57564.php)
+
+
+> Following a lengthy teaser campaign, the iQOO Neo 7 is finally set to arrive today and we've saved you a spot for the launch event. The stream starts at 12PM IST time. Open sales for the device are expected to start at 1PM via Amazon India. Based on the most up-to-date rumors, iQOO Neo 7 5G will bring a 6.78-inch AMOLED screen with FHD+ resolution and a 120Hz refresh rate. The device will be equipped with MediaTek's Dimensity 8200 chipset, 12GB LPDDR5 RAM and 128GB UFS 3.1 storage. We're also expecting a 120W FlashCharge capable of delivering a 0-50% charge in 10 minutes.
+
+
+***
+![Biden praises Tesla's charging network, says it is a 'big deal'](https://i.tribune.com.pk/media/images/Tesla221629456872-0/Tesla221629456872-0.jpg "Biden praises Tesla's charging network, says it is a 'big deal'")
+
+
+[Biden praises Tesla's charging network, says it is a 'big deal'](https://tribune.com.pk/story/2401502/biden-praises-musk-plan-to-open-teslas-charging-network-says-it-is-a-big-deal)
+
+
+> US President Joe Biden on Wednesday praised the plan by Tesla Inc Chief Executive Elon Musk to open part of its electric vehicle charging network, saying the move is a "big deal" and will "make a big difference." The tweet is a sign of improving relationships between Biden and Musk, who previously complained about being ignored. "In building our EV charging network, we have to ensure that as many chargers work for as many drivers as possible," Biden said in a tweet. "To that end, @elonmusk will open a big part of @Tesla's network up to all drivers.
+
+
+***
+![5 ways how wearable technology can benefit your heart health](https://images.healthshots.com/healthshots/en/uploads/2023/02/16105526/Wearable-technology.jpg "5 ways how wearable technology can benefit your heart health")
+
+
+[5 ways how wearable technology can benefit your heart health](https://www.healthshots.com/preventive-care/self-care/5-benefits-of-wearable-technology-for-heart-health/)
+
+
+> In recent years, problems related to heart health have become a growing concern among different age groups. According to the World Health Organization (WHO), almost 17.9 million people die every year due to cardiovascular disease. Therefore, there is a need to constantly keep a check on heart conditions, which has become very important. With the advancement of technology in the medical field, a lot of new trends have emerged to promote the use of wearable technology to monitor heart health. If you have an unhealthy heart , you must look at these devices which from an electrocardiogram (ECG) monitor that records the signals from the heart to glucometers, thermometers, and pulse oximeters.
+
+
+***
+![How To Use ChatGPT: A Step-By-Step Guide To Using OpenAI's Human-Like Language Model](https://images.news18.com/ibnlive/uploads/2023/02/untitled-design-2023-01-19t081545.275-1-1-167594818216x9.jpg "How To Use ChatGPT: A Step-By-Step Guide To Using OpenAI's Human-Like Language Model")
+
+
+[How To Use ChatGPT: A Step-By-Step Guide To Using OpenAI's Human-Like Language Model](https://www.news18.com/news/tech/how-to-use-chatgpt-a-step-by-step-guide-to-using-openais-human-like-language-model-7094881.html)
+
+
+> ChatGPT is an AI chatbot operated by OpenAI. (Image: Representational) ChatGPT has gained worldwide attention due to its human-like responses and impressive ability to perform a variety of day-to-day tasks, such as coding, answering questions, and writing on a broad range of topics. Backed by Microsoft, ChatGPT has become a quintessential tool for many-streamlining tasks and showcasing the tech industry's overall direction. Nevertheless, using ChatGPT for the first time can be perplexing due to various clones and bots available.
+
+
+***
+![Twitter becomes first social platform to allow cannabis ads in US](https://i.tribune.com.pk/media/images/1165781-reut-1471590116/1165781-reut-1471590116.jpg "Twitter becomes first social platform to allow cannabis ads in US")
+
+
+[Twitter becomes first social platform to allow cannabis ads in US](https://tribune.com.pk/story/2401499/twitter-becomes-first-social-media-platform-to-allow-cannabis-ads-in-us)
+
+
+> Twitter on Wednesday became the first social media platform to allow cannabis companies to market their brands and products in the United States. The company had earlier only allowed advertising for hemp-derived CBD topical products, while other social media platforms including Facebook, Instagram and TikTok follow a "no cannabis advertising policy" as pot remains illegal at the federal level. However, more states in the United States are moving towards allowing the sale of recreational cannabis, with 21 already on board.
+
+
+***
+![Mavenir deal with Cohere seeks to ‘turbocharge' 4G, 5G](https://qtxasset.com/quartz/qcloud4/media/image/mav.JPG?VersionId=h4cbNaybvLbsZnA7e1Njsq7pjXUFYUL0 "Mavenir deal with Cohere seeks to ‘turbocharge' 4G, 5G")
+
+
+[Mavenir deal with Cohere seeks to ‘turbocharge' 4G, 5G](https://www.fiercewireless.com/tech/mavenir-deal-cohere-seeks-turbocharge-4g-5g)
+
+
+> What are you searching for? Enclose phrases in quotes. Use a + to require a term in results and - to exclude terms. Example: +water -Europe
+
+
+***
+![Dutch chip firm ASML says former China employee stole data](https://media.cnn.com/api/v1/images/stellar/prod/230216093953-asml-dutch-chip-maker-file.jpg?c=16x9&q=w_800,c_fill "Dutch chip firm ASML says former China employee stole data")
+
+
+[Dutch chip firm ASML says former China employee stole data](https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html)
+
+
+> Hong Kong CNN — ASML, the Dutch chip equipment maker, has accused a former employee in China of stealing data related to its proprietary technology, in a case that highlights its importance in the global semiconductor supply chain as tension grows between the United States and China. The breach may have violated certain export control regulations, the company said Wednesday in its annual report, adding that it did not believe the incident was material to its business. The firm has reported the infraction to authorities and is now adding new 'remedial measures in light of this incident,' it added.
+
+
+***
+![Wordle February 16: Clues and Answer for Wordle 607](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17y030.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Wordle February 16: Clues and Answer for Wordle 607")
+
+
+[Wordle February 16: Clues and Answer for Wordle 607](http://www.msn.com/en-us/news/technology/wordle-february-16-clues-and-answer-for-wordle-607/ar-AA179ZBN)
+
+
+> Wordle can be both addictive and frustrating to the roughly 3 million people who play it. Many of us would love a little assistance getting to the answer. Not cheating -- just a hint or two. To help you out, we're providing tips to playing Wordle and clues to solve today's puzzle, Wordle No. 607. Heads up: You'll also find the answer to today's Wordle, in case you just can't bear to break your winning streak. For more on Wordle, check out the best Wordle strategy tips, some ideal starter words and a host of Wordle alternatives.
+
+
+***
+![Twitter down for thousands of users](https://i.tribune.com.pk/media/images/Twitter1672296112-0/Twitter1672296112-0.jpg "Twitter down for thousands of users")
+
+
+[Twitter down for thousands of users](https://tribune.com.pk/story/2401496/twitter-down-for-thousands-of-users-1)
+
+
+> Thousands of Twitter users were unable to access the social media platform on Wednesday, according to outage monitoring website Downdetector.com. More than 8,000 users reported issues with the micro-blogging site in the United States, Downdetector said. Downdetector tracks outages by collating status reports from a series of sources, including user-submitted errors on its platform. The outages could have affected a larger number of users. Twitter Inc did not immediately respond to a Reuters request for comment and the social network's status page showed that all systems were operational.
+
+
+***
+![TechTarget Launching New Website to Help Business & IT Leaders Understand the Critical Role of Sustainability & ESG in their Decision-Making, Purchasing and Operations](https://mms.businesswire.com/media/20230215005783/en/1670045/21/TechTarget_RGB.jpg "TechTarget Launching New Website to Help Business & IT Leaders Understand the Critical Role of Sustainability & ESG in their Decision-Making, Purchasing and Operations")
+
+
+[TechTarget Launching New Website to Help Business & IT Leaders Understand the Critical Role of Sustainability & ESG in their Decision-Making, Purchasing and Operations](https://www.01net.it/techtarget-launching-new-website-to-help-business-it-leaders-understand-the-critical-role-of-sustainability-esg-in-their-decision-making-purchasing-and-operations/)
+
+
+> NEWTON, Mass.–(BUSINESS WIRE)–Global technology media and purchase intent-driven marketing and sales services company TechTarget, Inc. (Nasdaq: TTGT) today announced they will be launching TechTarget Sustainability and ESG TM on April 21, 2023, one day before Earth Day is celebrated around the world. This new website is designed to serve executives and their IT, business and compliance leaders, looking to understand the evolving role environmental, sustainability and governance (ESG) initiatives fit into their IT and business decision-making and operations.
+
+
+***
+![Twitter Back After Brief Outage, Second Disruption In Two Weeks](https://imgeng.jagran.com/images/2023/feb/Twitter Outage1676522773434.jpg "Twitter Back After Brief Outage, Second Disruption In Two Weeks")
+
+
+[Twitter Back After Brief Outage, Second Disruption In Two Weeks](https://english.jagran.com/technology/twitter-back-after-brief-outage-second-disruption-in-two-weeks-details-10065332)
+
+
+> By Ashish Singh Thu, 16 Feb 2023 10:12 AM (IST) TWITTER. a popular microblogging service, announced on Thursday that it had resolved the "problem" that many iOS users had earlier and hoped that things had returned to normal. iOS users were not able to access the platform's news feed and were facing an error displaying 'Tweets are not loading right now'. The company's TwitterSupport account, company tweeted: "Pardon the interruption! iOS users may have experienced some trouble using Twitter earlier.
+
+
+***
+![Tesla to open US charging network to rivals in $7.5 bln federal program](https://www.bworldonline.com/wp-content/uploads/2023/01/tesla-5505194_1920.jpg "Tesla to open US charging network to rivals in $7.5 bln federal program")
+
+
+[Tesla to open US charging network to rivals in $7.5 bln federal program](https://www.bworldonline.com/technology/2023/02/16/505215/tesla-to-open-us-charging-network-to-rivals-in-7-5-bln-federal-program/)
+
+
+> STOCK PHOTO | Image by ElasticComputeFarm from Pixabay SAN FRANCISCO  –  Tesla  Inc. will  open  part of its US  charging  network  to electric vehicles (EVs) made by  rivals  as part of a $7.5 billion  federal  program  to expand the use of EVs  and cut  carbon emissions. The  move could help turn  Tesla  into the universal 'filling station' of the EV era – and risk eroding a competitive edge for vehicles made by the company, which has exclusive access to the biggest  network  of high-speed Superchargers in the United States.
+
+
+***
+![Elon Musk's two personalities fighting for Twitter control](https://static.ffx.io/images/$zoom_0.32482537037037035%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_211%2C$y_36/t_crop_custom/q_86%2Cf_auto/t_theage_analysis_no_age_social_wm/dd179df117af7c999c2ccae470bbd9be9a5946e8 "Elon Musk's two personalities fighting for Twitter control")
+
+
+[Elon Musk's two personalities fighting for Twitter control](https://www.smh.com.au/technology/two-faces-of-musk-are-fighting-to-control-twitter-20230215-p5ckp2.html)
+
+
+> In the early hours of Monday morning, Elon Musk's cousin and fixer, James Musk, contacted Twitter staff to request help with a 'high urgency' problem: the chief executive's missives were not being seen by enough people. The bizarre incident, reported by technology industry newsletter Platformer , showed one face of Elon Musk. Here was the billionaire at his egotistical peak, making the social media network's engineers boost how many people see his thought bubbles or face being fired. Elon Musk's tweets were failing to reach a large enough audience.
+
+
+***
+![Apple promotes a useful iPhone feature by releasing a new support video](https://m-cdn.phonearena.com/images/article/145618-wide-two_1200/Apple-promotes-a-useful-iPhone-feature-by-releasing-a-new-support-video.jpg "Apple promotes a useful iPhone feature by releasing a new support video")
+
+
+[Apple promotes a useful iPhone feature by releasing a new support video](https://www.phonearena.com/news/visual-look-up-for-the-iphone-ipad._id145618)
+
+
+> Hey iPhone users, Apple wants you to know that you have a feature on your device called Virtual Look Up. Today, the company even posted a video in the Apple Support channel on YouTube to explain what it does and how you can use it. There is also a support page covering the topic that you can read by tapping on this link . The feature can recognize certain things from the images found on certain Apple apps on your handset including pets, art, and landmarks, and delivers more information to you about the subject matter.
+
+
+***
+![Cloud usage: Debunking skepticism and exploring benefits and cost savings](https://techwireasia.com/wp-content/uploads/2023/02/AWS-Cloud-scaled.jpg "Cloud usage: Debunking skepticism and exploring benefits and cost savings")
+
+
+[Cloud usage: Debunking skepticism and exploring benefits and cost savings](https://techwireasia.com/2023/02/cloud-usage-debunking-skepticism-and-exploring-benefits-and-cost-savings/)
+
+
+> People who utilize cloud technology demonstrate double productivity, resulting in a 2.3 to 2.5-fold improvement in business outcomes. AWS is working to bring greater performance, lower costs, better integrations, simplicity of use, and security. Advancing organizational data capabilities in the Asia Pacific (APAC) region presents various benefits and challenges, including gaining insights from vast amounts of data and improving decision-making. However, this also requires significant investment in infrastructure, skills, and security.
+
+
+***
+![Garena Free Fire MAX Redeem Codes for February 16, 2023: Stunning rewards to be won](https://images.hindustantimes.com/tech/img/2023/02/16/1600x900/ffcec573399b9bd11dbdf12b4ac726a8_1672979009382_1676519739003_1676519739003.jpg "Garena Free Fire MAX Redeem Codes for February 16, 2023: Stunning rewards to be won")
+
+
+[Garena Free Fire MAX Redeem Codes for February 16, 2023: Stunning rewards to be won](https://tech.hindustantimes.com/how-to/garena-free-fire-max-redeem-codes-for-february-16-2023-stunning-rewards-to-be-won-71676519697656.html)
+
+
+> Garena Free Fire MAX Redeem Codes for February 16: One of the few remaining online multiplayer battlegrounds game in India, Free Fire Max is gaining popularity due to its high-end graphics and animation. The game is essentially a smoother version of the original title and the only difference is that it is optimized to give a much nicer looking environment and some exclusive elements (that do not affect the competitiveness). And just like the original title, getting premium bundles is almost impossible unless the player is willing to real money in the game.
+
+
+***
+![Electric Air Taxi Takes Test Flight Over NYC Area](https://media.nbcnewyork.com/2023/02/Blade-air-taxi.jpg?quality=85&strip=all&resize=1200%2C675 "Electric Air Taxi Takes Test Flight Over NYC Area")
+
+
+[Electric Air Taxi Takes Test Flight Over NYC Area](https://www.nbcnewyork.com/news/tech/electric-air-taxi-takes-test-flight-over-nyc-area/4107013/)
+
+
+> It's a bird, it's a plane, it's...a taxi? Next time you need to hail a cab, maybe look to the skies. OK, that may be a bit premature. While flying cars aren't quite available yet, electric air taxis may be moving closer to a reality in the tri-state. Blade Air Mobility and Beta Technologies have successfully completed the first test flight over the greater New York City area. The ALIA-250 trial run took place Tuesday at Westchester County Airport. Developers say that the electric aircraft can carry up to six people.
+
+
+***
+![Dokapon Kingdom: Connect's online play has been detailed](https://gonintendo.com/attachments/image/23344/file/medium-52df3b24e26879de17eb61559849158c.jpg "Dokapon Kingdom: Connect's online play has been detailed")
+
+
+[Dokapon Kingdom: Connect's online play has been detailed](https://gonintendo.com/contents/16318-dokapon-kingdom-connect-s-online-play-has-been-detailed)
+
+
+> Dokapon Kingdom: Connect, a remaster of the PS2 and Wii classic that combines the party game and JRPG genres, is out on April 13th in Japan and some time this spring in the West, and, ahead of its upcoming launch, publisher Compile Hearts and developer Sting have released a new trailer and new details about its newly added online mode. You can watch the trailer above, and get the full rundown of the newly released details below. Save in the Middle of a Game Online games will auto-save as you play, but they can also be manually saved or suspended just like you would when playing offline, so you can play through Story Mode or weeks-long games together without worry.
+
+
+***
+![Bitcoin Extending Higher in Impulsive Elliott Wave Structure](https://www.actionforex.com/wp-content/uploads/2022/06/f-bitcoin33.jpg "Bitcoin Extending Higher in Impulsive Elliott Wave Structure")
+
+
+[Bitcoin Extending Higher in Impulsive Elliott Wave Structure](https://www.actionforex.com/contributors/technical-analysis/486618-bitcoin-extending-higher-in-impulsive-elliott-wave-structure/)
+
+
+> Cycle from 11.22.2022 low is in progress as a 5 waves impulse Elliott Wave Structure. Up from 11.22.2022 low, wave 1 ended at 18373 and pullback in wave 2 ended at 16293. The crypto-currency then extends higher in wave 3 towards 24258 and pullback in wave 4 ended at 21396.16. Internal subdivision of wave 4 unfolded as an expanded flat as the chart below shows. Down from wave 3, wave ((a)) ended at 22504 in 3 swing. Rally in wave ((b)) ended at 24258 also in 3 swing. Wave ((c)) lower ended at 21396.
+
+
+***
+![Scientist Palchikov: accelerated rotation will rejuvenate the Earth by one second in 2028](https://russian.rt.com/static/blocks/og-img/pl-17.jpg "Scientist Palchikov: accelerated rotation will rejuvenate the Earth by one second in 2028")
+
+
+[Scientist Palchikov: accelerated rotation will rejuvenate the Earth by one second in 2028](https://www.tellerreport.com/tech/2023-02-16-scientist-palchikov--accelerated-rotation-will-rejuvenate-the-earth-by-one-second-in-2028.BJgjaiQsao.html)
+
+
+> The speed of the Earth's rotation has been anomalously increasing in recent years, to compensate for this effect, one second will have to be subtracted by 2028, said Vitaly Palchikov, chief researcher at the Department of Advanced Research and Time and Frequency Measurements of the All-Russian Research Institute of Physical, Technical and Radio Engineering Measurements. 'The hypothesis associated with changes in the moment of inertia of the nucleus is one of the possible hypotheses that explain the effects of accelerating the speed of the Earth's rotation .
+
+
+***
+![Apple likes to mess with my feelings](https://images.macrumors.com/social/?t=2380957&v=6 "Apple likes to mess with my feelings")
+
+
+[Apple likes to mess with my feelings](https://forums.macrumors.com/threads/apple-likes-to-mess-with-my-feelings.2380957/)
+
+
+> I completely forgot you could connect the iPad via usb-c to a monitor, i got a new monitor a week ago that has a usb-c slot for video and I wanted to charge my iPad Pro since I was working on something and just forgot about the second monitor feature, to my surprise the monitor turned on and all of a sudden stage manager was enhanced even more. I Used the feature for two days, updated to ios 16.3.1 and when I was about to continue using the feature a little while ago, it stopped working. Plugging in the USB-c to the ipad/monitor does nothing but charge the ipad now.
+
+
+***
+![MediaTek Launches Dimensity 7200 Chipset For Better Gaming And Photography: All Details Here](https://images.news18.com/ibnlive/uploads/2023/02/untitled-design-2023-02-16t092148.921-167651964216x9.jpg "MediaTek Launches Dimensity 7200 Chipset For Better Gaming And Photography: All Details Here")
+
+
+[MediaTek Launches Dimensity 7200 Chipset For Better Gaming And Photography: All Details Here](https://www.news18.com/news/tech/mediatek-launches-dimensity-7200-chipset-for-better-gaming-and-photography-all-details-here-7094131.html)
+
+
+> MediaTek on Thursday announced the launch of its new mid-range Dimensity 7200 processor, in the new Dimensity 7000 series. The new chipset from MediaTek has cutting-edge AI imaging features, powerful gaming optimizations, and impressive 5G speed, the company said. As per the brand, the Dimensity 7200 processor delivers the same TSMC 4nm second-generation process found in the Dimensity 9200, and is ideal for ultra-slim designs in a variety of form factors. Advertisement The octa-core CPU integrates two Arm Cortex-A715 cores, featuring operating speeds of up to 2.
+
+
+***
+![Here's how much Meta pays for CEO Mark Zuckerberg's security](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/2023-02-15t202049z_1305497762_rc2vbz9ij9l6_rtrmadp_3_usa-congress-tech-sixteen_nine.jpg "Here's how much Meta pays for CEO Mark Zuckerberg's security")
+
+
+[Here's how much Meta pays for CEO Mark Zuckerberg's security](https://www.businesstoday.in/technology/news/story/heres-how-much-meta-pays-for-ceo-mark-zuckerbergs-security-370423-2023-02-16)
+
+
+> Meta Platforms Inc has increased the security allowance given to CEO and co-founder Mark Zuckerberg and his family, calling it 'appropriate and necessary'. The company increased Zuckerberg's security allowance on Wednesday by $4 million to $14 million.  "This increased allowance, together with the costs of Zuckerberg's existing overall security program, are appropriate and necessary under the circumstances," Meta said in a filing. Zuckerberg is currently number 16 on the Forbes Live Billionaire list with a net worth of over $63 billion.
+
+
+***
+![Karely Ruiz and these celebrities would be part of the MasterChef Celebrity 2023 reality show](https://www.debate.com.mx/__export/1676518965207/sites/debate/img/2023/02/15/karely_ruiz_fotos_instagram.jpg_242310155.jpg "Karely Ruiz and these celebrities would be part of the MasterChef Celebrity 2023 reality show")
+
+
+[Karely Ruiz and these celebrities would be part of the MasterChef Celebrity 2023 reality show](https://pledgetimes.com/karely-ruiz-and-these-celebrities-would-be-part-of-the-masterchef-celebrity-2023-reality-show/)
+
+
+> Mexico.- The names of the possible participants in the new season of the reality show MasterChef Celebrity 2023 and Karely Ruiz could be one of them. In several news portals it is shared that Televisión Azteca is working 'at forced marches' in the preparations for the realization of the third season of MasterChef Celebrity. Karely Ruiz, Poncho de Nigris and Heber Gallegos are the names that are mentioned on this day and would be among the participants of the expected reality show that people have liked so much.
+
+
+***
+![Garena Free Fire Redeem codes for February 16, 2023: Chance to win Darkrose Lurker Bundle](https://images.hindustantimes.com/tech/img/2023/02/16/1600x900/4553917dbe5df8481215371fbf2fbef2jpg_1655169131350_1676518715749_1676518715749.jpg "Garena Free Fire Redeem codes for February 16, 2023: Chance to win Darkrose Lurker Bundle")
+
+
+[Garena Free Fire Redeem codes for February 16, 2023: Chance to win Darkrose Lurker Bundle](https://tech.hindustantimes.com/how-to/garena-free-fire-redeem-codes-for-february-16-2023-chance-to-win-darkrose-lurker-bundle-71676518308291.html)
+
+
+> Garena Free Fire Redeem codes for February 16: The Garena Free Fire redeem codes for today have already already released bringing in new and exciting bunch of rewards like diamond hack, royale vouchers, and other. Free Fire players can get the redeem codes here and unlock the offered rewards by today only. FF redeem codes are the cheapest and easiest way to grab these rewards for free. These codes are issued by the game itself on a daily basis. These codes come with a validity of one day and can be redeemed only once.
+
+
+***
+![OpenAI-powered GitHub Copilot now available for public use for $19 per month](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/ezgif-2-09ea8ca5af-sixteen_nine.jpg "OpenAI-powered GitHub Copilot now available for public use for $19 per month")
+
+
+[OpenAI-powered GitHub Copilot now available for public use for $19 per month](https://www.businesstoday.in/technology/news/story/openai-powered-github-copilot-now-available-for-public-use-for-19-per-month-370421-2023-02-16)
+
+
+> Microsoft's AI-based coding assistant ‘Github Copilot for Business' is now available for public use following its testing phase that started in December last year. The tool is available at $19 per month.  'GitHub Copilot for Business is now available, as we bring the world's first at-scale AI developer tool to any organization,' said Microsoft CEO Satya Nadella. According to GitHub data, the AI tool generated around 27 per cent of developers' code files when it was introduced last year. Currently, for Java, it generates about 61 per cent of the code with an average of 46 per cent across all programming languages that are supported.
+
+
+***
+![WhatsApp Android Update Introduces New Features](https://www.gizmochina.com/wp-content/uploads/2023/02/WhatsApp-Featured-Gizmochina.png "WhatsApp Android Update Introduces New Features")
+
+
+[WhatsApp Android Update Introduces New Features](https://www.gizmochina.com/2023/02/16/whatsapp-android-update-introduces-new-features)
+
+
+> Recently, a new update for Android users was made available for WhatsApp, one of the most widely used messaging platforms worldwide. A number of new improvements that improve the app's usability and functionality are included in the update. The business has been putting a lot of effort into making the features accessible to users everywhere. Some features are now undergoing beta testing and will shortly be released. Let's look in detail at which features have been added by WhatsApp. The latest update of the WhatsApp application for Android comes under version 2.
+
+
+***
+![Google to bring redesigned Gboard soon with better customisations, privacy settings](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/gboard-sixteen_nine.jpg "Google to bring redesigned Gboard soon with better customisations, privacy settings")
+
+
+[Google to bring redesigned Gboard soon with better customisations, privacy settings](https://www.businesstoday.in/technology/news/story/google-to-bring-redesigned-gboard-soon-with-better-customisations-privacy-settings-370419-2023-02-16)
+
+
+> Google is busy redesigning its official keyboard app Gboard. One of the major visual changes is a revamped toolbar, allowing customisation with more than four options, and the voice search button can finally be removed. A new Privacy menu is also present in the settings of the app. The update with the new features and redesign is part of version 12.6.06.491625702, according to Android Police. The keyboard app is available for both Android and iOS devices. It is one of the most popular keyboard apps on both platforms.
+
+
+***
+![Today's Wordle #607 Hint, Clues And Answer For Thursday, February 16th](https://www.mccourier.com/wp-content/uploads/2022/11/Todays-Wordle-509-Thursday-November-10th-Hints-Clues-And-Answer.jpg "Today's Wordle #607 Hint, Clues And Answer For Thursday, February 16th")
+
+
+[Today's Wordle #607 Hint, Clues And Answer For Thursday, February 16th](https://www.mccourier.com/todays-wordle-607-hint-clues-and-answer-for-thursday-february-16th/)
+
+
+> resolve immediately's Wordle. NurPhoto through Getty Photos Effectively it snowed a bunch Tuesday into Wednesday which meant that I needed to do the thankless work of shoveling my driveway. Once more. The snow is so excessive on both aspect of my driveway and alongside the road, it's simply loopy. We acquired a lot of the stuff in January and it's been so chilly that little or no has melted. So one other foot or so (12 to fifteen inches) actually stacks. The chilly has returned additionally.
+
+
+***
+![Can 16" Intel MBP with 8GB 5500m not send HDR signal to TV?](https://images.macrumors.com/social/?t=2380955&v=6 "Can 16" Intel MBP with 8GB 5500m not send HDR signal to TV?")
+
+
+[Can 16" Intel MBP with 8GB 5500m not send HDR signal to TV?](https://forums.macrumors.com/threads/can-16-intel-mbp-with-8gb-5500m-not-send-hdr-signal-to-tv.2380955/)
+
+
+> I'm running a 2019 Macbook Pro 16", Core i9, 8gb 5500m. It's connected to a 2017 Vizio e65-e0 which supports HDR10 input on HDMI1, through my eGPU, an 8GB RX 580. When I connect a PC with an RTX 3070 and enable HDR mode in Windows 11, the Vizio switches into the much brighter HDR mode. When I connect my MBP and switch to HDR mode, the TV doesn't notice, and everything just gets washed out. Is this expected behavior? Is the HDR mode effectively just non-functional? I'm running a 2019 Macbook Pro 16", Core i9, 8gb 5500m.
+
+
+***
+![White House: Tesla to make some EV chargers available to all](https://images.hindustantimes.com/tech/img/2023/02/16/1600x900/US-TESLA-WILL-OPEN-UP-ITS-CHARGERS-TO-OTHER-BRANDS_1676518164993_1676518165156_1676518165156.jpg "White House: Tesla to make some EV chargers available to all")
+
+
+[White House: Tesla to make some EV chargers available to all](https://tech.hindustantimes.com/tech/news/white-house-tesla-to-make-some-ev-chargers-available-to-all-71676487080468.html)
+
+
+> Electric car giant Tesla will, for the first time, make some of its charging stations available to all U.S. electric vehicles by the end of next year, under a new plan announced Wednesday by the White House. The plan will make at least 7,500 chargers from Tesla's Supercharger and Destination Charger network available to non-Tesla EVs by the end of 2024, the White House said. The plan to open the nation's largest and most reliable charging network to all drivers is a potential game-changer in promoting EV use, a key component of President Joe Biden's goal to fight climate change.
+
+
+***
+![WhatsApp Update: iPhone Users May Soon Be Able To Share Documents Up To 2GB In Size](https://images.news18.com/ibnlive/uploads/2023/02/whatsapp-4-167651830016x9.jpg "WhatsApp Update: iPhone Users May Soon Be Able To Share Documents Up To 2GB In Size")
+
+
+[WhatsApp Update: iPhone Users May Soon Be Able To Share Documents Up To 2GB In Size](https://www.news18.com/news/tech/whatsapp-update-iphone-users-may-soon-be-able-to-share-documents-up-to-2gb-in-size-7093987.html)
+
+
+> After releasing four new features recently, the Meta-owned instant messaging application WhatsApp is reportedly working on a presentation sheet to announce the ability to share documents up to 2GB in size. This feature is planned to be released in a future update of the iOS app. 'WhatsApp wants to announce that the ability to share documents up to 2GB in size is available, making it easier to share large documents," WABetaInfo, a website that tracks WhatsApp, reported 'This feature is not new as WhatsApp has already released it last year along with the ability to add up to 512 people to groups.
+
+
+***
+![GoSecure Titan Identity detects attacks against enterprise identity systems](https://img.helpnetsecurity.com/wp-content/uploads/2021/10/20092552/security_platforma_1200.jpg "GoSecure Titan Identity detects attacks against enterprise identity systems")
+
+
+[GoSecure Titan Identity detects attacks against enterprise identity systems](https://www.helpnetsecurity.com/2023/02/16/gosecure-titan-identity/)
+
+
+> GoSecure has released Titan Identity, a solution combining technology with a managed service to provide a cost-effective, deployable solution that enables organizations to improve credential theft response times. Threat actors have many techniques to abuse identity services like Active Directory because they recognize identity controls access to everything. According to Microsoft's 2022 Digital Defense Report, 93% of Microsoft investigations during ransomware recovery engagements revealed insufficient privilege access and lateral movement controls.
+
+
