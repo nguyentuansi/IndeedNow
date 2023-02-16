@@ -32656,3 +32656,972 @@
 > China-based cyberespionage actor DEV-0147 has been observed compromising diplomatic targets in South America, according to Microsoft's Security Intelligence team.  The initiative is 'a notable expansion of the group's data exfiltration operations that traditionally targeted gov't agencies and think tanks in Asia and Europe,' the team  tweeted  on Monday.  DEV-0147's attacks in South America included post-exploitation activity involving the abuse of on-premises identity infrastructure for reconnaissance and lateral movement, and the use of Cobalt Strike — a penetration testing tool — for command and control and data exfiltration, Microsoft wrote in its tweet.
 
 
+***
+![High idle power](https://www.sweclockers.com/forum/trad/1683805/og-image "High idle power")
+
+
+[High idle power](https://www.sweclockers.com/forum/trad/1683805-high-idle-power)
+
+
+> Forum Datorkomponenter Grafikkort Radeon Tråd Skrivet av bopp: High idle power has situationally been observed when using select high-resolution and high refresh rate displays on Radeon™ RX 7000 series GPUs. Från senaste release notes för AMD drivrutin 23.2.1. Har väl hängt med sen dom släppte korten förra året. Hur har ni det med det? Mitt 7900XT (AMD referens kort) drar ca 90-100W vid installation av nya drivrutiner när jag inte gör någonting.
+
+
+***
+![Gray To Swap Scripps-Run FOX Station With Georgia Property](https://rbr.com/wp-content/uploads/fox9now-e1676480769475.jpg "Gray To Swap Scripps-Run FOX Station With Georgia Property")
+
+
+[Gray To Swap Scripps-Run FOX Station With Georgia Property](https://rbr.com/gray-to-swap-scripps-run-fox-station-with-georgia-property/)
+
+
+> In a transaction that involves DMA No. 102 and the nation's 126th largest market, respectively,  Gray Television  has agreed to swap a television station it owns but does not operate for a digital UHF property serving Macon, Ga., that is presently a MeTV network affiliate. The trade is with  Brian and Patricia Lane- owned  Marquee Broadcasting. When all is said and done, Gray-owned KNIN-9  in Caldwell, Idaho, branded as 'FOX9 NOW' and serving greater Boise, will join the Marquee stable of television stations.
+
+
+***
+![Samba TV's State of Viewership: Keeping Track Of Changing Habits](https://rbr.com/wp-content/uploads/samba-state-of-viewership.png "Samba TV's State of Viewership: Keeping Track Of Changing Habits")
+
+
+[Samba TV's State of Viewership: Keeping Track Of Changing Habits](https://rbr.com/samba-tvs-state-of-viewership-keeping-track-of-changing-habits/)
+
+
+> If there's one thing those across the television industry will remember about 2022 in the coming years, it is perhaps this undeniable conclusion: it was a year of big change with respect to how people across the U.S. watch television. 'The second half of 2022 brought its fair share of twists and turns,' says Samba TV , which has released The State of Viewership report that dives into the data it collected between July and December of last year. 'The competition for attention is intensifying as more consumers shift viewership not just from linear TV to streaming, but between streaming services at will.
+
+
+***
+![As Expected, Sinclair Sports Subsidiary Skips Interest Payments](https://rbr.com/wp-content/uploads/bally-sports-logo.jpg "As Expected, Sinclair Sports Subsidiary Skips Interest Payments")
+
+
+[As Expected, Sinclair Sports Subsidiary Skips Interest Payments](https://rbr.com/as-expected-sinclair-sports-subsidiary-skips-interest-payments/)
+
+
+> It was a much-discussed topic on Tuesday, and on Wednesday the action was confirmed:  Diamond Sports Group,  the subsidiary of  Sinclair Broadcast Group  that is the parent of the  Bally Sports  regional sports networks, has decided not to pay roughly $140 million in interest payments that were due on February 15. The action puts more pressure on DSG and on  Major League Baseball just 10 days before the start of Spring Training. By missing the interest payments, a 30-day timer has started that serves as a grace period.
+
+
+***
+![Vertiv introduces upgraded chilled water cooling solution for high density and high compute IT environments in Asia](http://www.voxy.co.nz/files/favicon.gif "Vertiv introduces upgraded chilled water cooling solution for high density and high compute IT environments in Asia")
+
+
+[Vertiv introduces upgraded chilled water cooling solution for high density and high compute IT environments in Asia](http://www.voxy.co.nz/technology/5/413061)
+
+
+> Vertiv (NYSE: VRT), a global provider of critical digital infrastructure and continuity solutions, today unveiled the upgraded Vertiv™ Liebert® Air Handling Unit (AHU), a high-capacity, chilled water cooling solution designed to support high-density compute environments, while offering a more energy efficient approach to heat management. The Liebert AHU has a standard unit capacity of 300kW, and is now available throughout Australia, New Zealand, Southeast Asia and India (ASI) region. The new Liebert® AHU chilled water unit uses water or air-side economisatons and high-efficiency EC fans, working with hot aisle containment to avoid the mixture of supply and return air.
+
+
+***
+![‘No words to describe the tragedy': How a teenager wasn't protected from cyberbullying](https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/02-15-2023/t_b120b56582694567b4d3f57b44b9bcbe_name_image.jpg?_a=ATO2Bfe0 "‘No words to describe the tragedy': How a teenager wasn't protected from cyberbullying")
+
+
+[‘No words to describe the tragedy': How a teenager wasn't protected from cyberbullying](https://www.clickondetroit.com/tech/2023/02/16/no-words-to-describe-the-tragedy-how-a-teenager-wasnt-protected-from-cyberbullying/)
+
+
+> PORTLAND, Ore. – Cyberbullying is an issue that has become a constant concern for teenagers and their parents. As attacks online have increasingly been linked to teen suicides, there are growing calls for congress to do something to help protect our kids. Grieving families say it can't wait any longer. Kristin Bride of Oregon lost her 16-year-old son Carson to suicide after he was viciously harassed on Snapchat and third-party messaging apps. 'There are no words to describe the tragedy of that morning and every day afterwards,' said Bride.
+
+
+***
+![Managed detection and response startup Deepwatch raises $180M](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/deepwatch.png "Managed detection and response startup Deepwatch raises $180M")
+
+
+[Managed detection and response startup Deepwatch raises $180M](https://siliconangle.com/2023/02/15/managed-detection-response-startup-deepwatch-raises-180m/)
+
+
+> Managed detection and response firm  Deepwatch Inc.  today announced that it has raised $180 million in new funding to accelerate platform innovation and product development while expanding its partner ecosystem to meet the growing demand for managed security services. The funding included new equity investments and strategic financing from Springcoast Capital Partners LLC, Splunk Ventures LLC and Vista Credit Partners LLC. Founded in 2019, Deepwatch offers an MDR service designed to protect businesses from cyber threats.
+
+
+***
+![ASEAN organizations still struggling to build right data and AI foundation](https://techwireasia.com/wp-content/uploads/2023/02/shutterstock_1831742065-scaled.jpg "ASEAN organizations still struggling to build right data and AI foundation")
+
+
+[ASEAN organizations still struggling to build right data and AI foundation](https://techwireasia.com/2023/02/asean-organizations-still-struggling-to-build-right-data-and-ai-foundation/)
+
+
+> (Source – Shutterstock) Efficient data usage has enabled artificial intelligence (AI) to have a greater impact on organizations. For example, generative AI has received hype among big tech companies thanks to its enhanced capabilities that are made possible by the data it has access to. Gartner predicts that emerging technologies like generative AI are still three to eight years away from reaching widespread adoption. For enterprises, the use of AI for better efficiency and productivity at work has always been the end goal.
+
+
+***
+![Tech stocks rally, U.S. dollar gains traction on American markets](https://cdn.bignewsnetwork.com/cus1676499609386.jpg "Tech stocks rally, U.S. dollar gains traction on American markets")
+
+
+[Tech stocks rally, U.S. dollar gains traction on American markets](https://www.irishsun.com/news/273528607/wall-street-edges-higher-dow-jones-gains-39-points)
+
+
+> NEW YORK, New York - Technology stocks advanced on U.S. stock markets Wednesday, however, the industrials were limited to minor gains. "The labor market's resilience is the main reason consumers continue to spend and as long as that's the case, inflation is likely to remain sticky," Chris Zaccarelli, chief investment officer for Independent Advisor Alliance said in a note to clients on Wednesday. "The Fed is going to need to raise rates higher, and hold them higher for longer, than people currently expect and this is going to cause markets to go through some significant volatility as stock and bond markets are priced for benign scenarios and not the more difficult one that we are headed towards.
+
+
+***
+![MarioGPT Creates AI-Generated Mario Levels](https://gonintendo.com/attachments/image/23315/file/medium-05b404f40a890e5a7f78a7a9ee40c372.jpg "MarioGPT Creates AI-Generated Mario Levels")
+
+
+[MarioGPT Creates AI-Generated Mario Levels](https://gonintendo.com/contents/16311-mariogpt-creates-ai-generated-mario-levels)
+
+
+> As AI Technology grows and expands, it's becoming easier and easier to make some pretty niche applications using AI. This new program, called MarioGPT, uses GPT2 technology to generate Mario levels based on text-input. Checkout the developer's description of how this technology works below. Our MarioGPT model is a fine-tuned version of the distilled GPT2 language model. Like GPT2, MarioGPT is trained to predict next token sequences. Levels are represented as strings, which are tokenized by a Byte-Pair Encoding, similar to the original GPT2 model.
+
+
+***
+![Reminder: MLB The Show 23 'Tech Test' now live](https://gonintendo.com/attachments/image/23314/file/medium-f88690be28a94cf7a6c45e15a843c753.jpg "Reminder: MLB The Show 23 'Tech Test' now live")
+
+
+[Reminder: MLB The Show 23 'Tech Test' now live](https://gonintendo.com/contents/16310-reminder-mlb-the-show-23-tech-test-now-live)
+
+
+> It's a lovely weekend for a ball game, wouldn't you say? From Feb. 15 at 10 a.m. PT to Feb. 21 at 6:00 p.m. PT, baseball fans will be able to try out MLB® The Show™ 23 on the Switch. This Tech Test features cross-play functionality, and all Tech Test players will get a free in-game bonus if they decide to get the full version of MLB The Show 23 when it releases on March 28 (you can pre-order the digital version on Nintendo.com or Nintendo eShop on your device if you're interested). If you want to get all prepped and ready to go, you can download the Tech Test today by using the link below.
+
+
+***
+![God of Rock 'Stillness' soundtrack sample released](https://gonintendo.com/attachments/image/23313/file/medium-c323126568e8e0882630c59b512bc3a1.webp "God of Rock 'Stillness' soundtrack sample released")
+
+
+[God of Rock 'Stillness' soundtrack sample released](https://gonintendo.com/contents/16309-god-of-rock-stillness-soundtrack-sample-released)
+
+
+> Modus Games previously announced that God of Rock will open its world tour on April 18, 2023, unleashing a stacked setlist of energetic tracks that players will need to master to perform devastating combos in musical matches against other fighters. Today brings us a new soundtrack sample video showcasing the ‘Stillness' song from Whitetail. You can give that tune a listen above. Think you have what it takes to defeat the most talented artists in the universe? Now's your chance to test your skills, as attendees of this weekend's Holiday Matsuri event can get their hands on a new playable demo.
+
+
+***
+![A hit and a miss: Amplitude delivers earnings beat but misses on outlook](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/Amplitude.jpg "A hit and a miss: Amplitude delivers earnings beat but misses on outlook")
+
+
+[A hit and a miss: Amplitude delivers earnings beat but misses on outlook](https://siliconangle.com/2023/02/15/hit-miss-amplitude-delivers-earnings-beat-misses-outlook/)
+
+
+> Shares in behavior-tracking firm  Amplitude Inc.  were flat in after-hours trading today after the company delivered a quarterly earnings beat but predicted lower-than-expected revenue in the quarter and year ahead. For the fourth quarter that ended Dec. 31, Amplitude reported a loss before costs such as stock compensation of three cents, a two-cent improvement over the same quarter of 2021. Revenue rose 32%, to $65.3 million. Analysts had expected  an adjusted loss of four cents per share and revenue of $63.
+
+
+***
+![Skull: The Hero Slayer 'Dark Mirror' update now live](https://gonintendo.com/attachments/image/23312/file/medium-60f90d824435aec2a6eb8750ae5bbe60.jpg "Skull: The Hero Slayer 'Dark Mirror' update now live")
+
+
+[Skull: The Hero Slayer 'Dark Mirror' update now live](https://gonintendo.com/contents/16308-skull-the-hero-slayer-dark-mirror-update-now-live)
+
+
+> NEOWIZ, developer and publisher of fan-favorite indie games, is thrilled to announce that a massive free expansion has landed in its critically acclaimed title, Skul: The Hero Slayer. The Dark Mirror expansion is now live on the Nintendo Switch. In addition, the Nintendo eShop Skul is on sale for 50% off from now through February 22nd, 2023. Anchoring the expansion is a new iteration of Hard Mode, complete with an all-new story and map. In addition, changes have been applied to the reward system and many of Skul's items.
+
+
+***
+![Win a Samsung Galaxy S23 Ultra with Telus](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/samsung-s23-ultra-camera-header.jpg "Win a Samsung Galaxy S23 Ultra with Telus")
+
+
+[Win a Samsung Galaxy S23 Ultra with Telus](https://mobilesyrup.com/2023/02/15/samsung-galaxy-s23-ultra-contest-telus/)
+
+
+> We're offering Samsung's Galaxy S23 Ultra in a new giveaway in partnership with Telus. The carrier's award-winning 5G network offers ultrafast speeds and increased reliability coast-to-coast. The offer includes the 256GB S23 Ultra in ‘Green.' When customers get the latest Galaxy S23 Ultra  with Telus, they join a 5G network that gives back to vulnerable Canadians through programs like ‘ Mobility for Good.' This contest ends on March 13th. In our hands-on with the S23 Ultra , we noted that the highlight of the device is the handset's 200-megapixel primary sensor, which utilizes pixel binning of 16 pixels together to create a larger 12-megapixel image.
+
+
+***
+![Intel to invest $20 billion in building two new chip factories in Ohio](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/intel-ohio-ground-breaking.jpg "Intel to invest $20 billion in building two new chip factories in Ohio")
+
+
+[Intel to invest $20 billion in building two new chip factories in Ohio](https://roboticsandautomationnews.com/2023/02/16/intel-to-invest-20-billion-in-building-two-new-chip-factories-in-ohio/60372/)
+
+
+> Intel has announced plans for an initial investment of more than $20 billion in the construction of two new leading-edge chip factories in Licking County, Ohio. The investment will help boost production to meet the surging demand for advanced semiconductors, powering a new generation of innovative products from Intel and serving the needs of foundry customers as part of Intel's IDM 2.0 strategy. As the largest single private-sector investment in Ohio history, the initial phase of the project is expected to create 3,000 Intel jobs, 7,000 construction jobs over the course of the build, and support tens of thousands of additional local long-term jobs across a broad ecosystem of suppliers and partners.
+
+
+***
+[Vonage Wins 2022 FinTech Award for Outstanding Cloud Communication Solutions](http://www.businesswire.com/news/home/20230215005609/en/Vonage-Wins-2022-FinTech-Award-for-Outstanding-Cloud-Communication-Solutions/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SINGAPORE--(BUSINESS WIRE)--Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation, has won the 2022 FinTech Award for Outstanding Cloud Communication Solutions. Organised by Hong Kong's leading financial information platform ET Net, the FinTech Awards recognise the best FinTech technologies, practices and professionals around the Asia-Pacific (APAC) region. 'We are honoured to have won the FinTech Award for Outstanding Cloud Communication Sol
+
+
+***
+![Mobile, Digicel Pacific pushes Telstra to half-yearly growth](https://d2bs8hqp6qvsw6.cloudfront.net/article/images/740x500/dimg/vicki_brady.jpg "Mobile, Digicel Pacific pushes Telstra to half-yearly growth")
+
+
+[Mobile, Digicel Pacific pushes Telstra to half-yearly growth](https://www.arnnet.com.au/article/705639/mobile-digicel-pacific-pushes-telstra-to-half-yearly-growth/)
+
+
+> Vicky Brady (Telstra) Credit: Supplied Telstra's mobiles business and support from its 2021 acquisition of Digicel Pacific have pushed up total income by 6.4 per cent and profit by 25.7 per cent in its first half-year results for the 2023 financial year. This brought income up to $11.3 billion and $934 million, respectively, over the six-month period to 31 December 2022. Additionally, revenue was also up 7.6 per cent, to $11.3 billion. This is a turnaround compared to the same time last year when Telstra reported year-on-year declines in income, revenue and profit , which at the time was chalked up to the decline in National Broadband Network (NBN) payment receipts during the period.
+
+
+***
+![Legendary game dev Jeff Minter explains why he chose Akka Arrh for a modern-day revamp](https://gonintendo.com/attachments/image/23311/file/medium-80c9ceb5c8ed697bca01d3615556a312.jpg "Legendary game dev Jeff Minter explains why he chose Akka Arrh for a modern-day revamp")
+
+
+[Legendary game dev Jeff Minter explains why he chose Akka Arrh for a modern-day revamp](https://gonintendo.com/contents/16307-legendary-game-dev-jeff-minter-explains-why-he-chose-akka-arrh-for-a-modern-day)
+
+
+> From shunned prototype to modern-day hit? Iconic developer Jeff Minter and Atari are teaming up once again to put a new spin on a retro title. Minter first tackled Tempest with a revamp, but his next project is one that never actually saw release to the public. Minter has been toiling away on a reimagining of Akka Arrh, a 1982 arcade game prototype. Atari put the game through some playtesting with various people, and the lackluster response was enough for Atari to shelve the game forever.
+
+
+***
+![Skelattack getting physical Switch release](https://gonintendo.com/attachments/image/23309/file/medium-36c964ea53d1e53aaac75b63416f06f7.webp "Skelattack getting physical Switch release")
+
+
+[Skelattack getting physical Switch release](https://gonintendo.com/contents/16306-skelattack-getting-physical-switch-release)
+
+
+> Bone up on this next physical release Limited Run Games has revealed their next physical Switch release, which will be for Skelattack. Pre-orders for the title open up on February 24th, 2024, and there will be two options. First up is the standard release, which is priced at $35 and includes a game card and a physical box. If you're looking for something more interesting, the $65 Classic Edition (seen above) is also being released. Here's what you'll find in that package: Physical Copy of Skelattack for Nintendo Switch Classic Konami Silver Box with Metallic Ink Skelattack Original Soundtrack Reversible 18' x 24' Poster Retro Sleeve If you want to get a closer look at either version, you can find their listings on the Limited Run Games store.
+
+
+***
+![Google Home app can now control your Xbox](https://cdn.mobilesyrup.com/wp-content/uploads/2022/10/xbox-series-x-1-scaled-1.jpg "Google Home app can now control your Xbox")
+
+
+[Google Home app can now control your Xbox](https://mobilesyrup.com/2023/02/15/google-home-app-control-xbox/)
+
+
+> Microsoft is now rolling out an Xbox update that lets users control the console from within the Google Home app. The Google Home app remote control typically only works with Android TVs and Google TV-powered devices, but now it'll let users turn off or on their Xbox, navigate back, go home and turn the volume up and down. Further, you'll find a navigational touchpad and standard media controls that include play/pause and skip/previous at the bottom. You'll also get a directional navigation touchpad and standard media controls with a play/pause and skip/previous at the bottom.
+
+
+***
+![Ballet director who spread dog feces on critic's face gives a half-assed apology](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/mud.jpeg?fit=1200%2C797&ssl=1 "Ballet director who spread dog feces on critic's face gives a half-assed apology")
+
+
+[Ballet director who spread dog feces on critic's face gives a half-assed apology](https://boingboing.net/2023/02/15/ballet-director-who-spread-dog-feces-on-critics-face-gives-a-half-assed-apology.html)
+
+
+> The German ballet director who caused a stink over the weekend — smearing dog feces onto the face of a critic who had given his show a crappy review — squeezed out an apology yesterday. But the critic calls BS. "I would like to apologize sincerely to all concerned, first and foremost to Ms. [Wiebke] Huester, for my absolutely unacceptable act," Marco Goecke released in a statement. "In retrospect, I am clearly aware that this was a disgraceful act in the heat of the moment and an overreaction.
+
+
+***
+![Gamer's Reunited With Their Old Games Courtesy of Tokyo's Named Cassete Musem](https://gonintendo.com/attachments/image/23310/file/medium-0c132ed66d9da4309b62324e20bb3b68.webp "Gamer's Reunited With Their Old Games Courtesy of Tokyo's Named Cassete Musem")
+
+
+[Gamer's Reunited With Their Old Games Courtesy of Tokyo's Named Cassete Musem](https://gonintendo.com/contents/16305-gamer-s-reunited-with-their-old-games-courtesy-of-tokyo-s-named-cassete-musem)
+
+
+> For those of you that have lost track of some of your old retro games, there may still be hope. That is, if you both live in Japan and wrote your name on the cartridge! Junji Seki, founder of the Named Cartridge Musem, didn't start off with this goal, instead, he started off simply collecting cartridges. For those of us who have a collection of game cartridges, there are bound to be a few in our collections with some long-forgotten name scrawled somewhere on it. Junji noticed this and opened the Named Cartridge Museum in an attempt to reunite people with their old games.
+
+
+***
+![Android 13-based LineageOS 20 arrives for OnePlus 9R, Sony Xperia 5 II, and more](https://static1.xdaimages.com/wordpress/wp-content/uploads/2021/07/OnePlus-9R-Lake-Blue-Hands-On.png "Android 13-based LineageOS 20 arrives for OnePlus 9R, Sony Xperia 5 II, and more")
+
+
+[Android 13-based LineageOS 20 arrives for OnePlus 9R, Sony Xperia 5 II, and more](https://www.xda-developers.com/lineageos-20-oneplus-9r-sony-xperia-5-ii-redmi-note-9/)
+
+
+> Custom ROM projects like LineageOS can be a fantastic way to give another lease on life to an aging device, like we saw with the Pixel 2 series and its ability to run Android 13 , all thanks to an official build of LineageOS 20. Luckily, you don't have to wait for the manufacturer to drop support before you start tinkering with custom ROMs, as they're just as good for trying out a more modern phone with some heavy OEM skin. This is somewhat the situation today, as we check out the new LineageOS 20 plans for a few relatively recent devices.
+
+
+***
+![加拿大 New School Foods 研發素鮭魚肉，100% 植物製造味道幾可亂真](https://img.technews.tw/wp-content/uploads/2023/02/15095129/63db172c1c17b764921c5741__-Header.jpg "加拿大 New School Foods 研發素鮭魚肉，100% 植物製造味道幾可亂真")
+
+
+[加拿大 New School Foods 研發素鮭魚肉，100% 植物製造味道幾可亂真](https://technews.tw/2023/02/16/new-school-foods-develops-plant-based-salmon/)
+
+
+> 關鍵字: New School Foods , Omega-3 , 素鮭魚肉 , 鮭魚
+
+
+***
+[ESI Strengthens Position for Sustainable Iron Flow Batteries in Queensland](http://www.businesswire.com/news/home/20230215005381/en/ESI-Strengthens-Position-for-Sustainable-Iron-Flow-Batteries-in-Queensland/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BRISBANE, Australia--(BUSINESS WIRE)--Energy Storage Industries — Asia Pacific (ESI) has strengthened the position of iron flow battery technology to secure Queensland's future as a renewable energy superpower. The Queensland-based, Australian-owned company has achieved a series of milestones this year. The first of ESI's long-duration, grid-scale batteries completed the final stage of commissioning, the first production batteries are now being transported to a customer's pilot site and the com
+
+
+***
+![Preview a track from the Fire Emblem Engage Special Vocal Edition CD](https://gonintendo.com/attachments/image/23308/file/medium-ec671d60438a3906920cf52cc85fcca8.png "Preview a track from the Fire Emblem Engage Special Vocal Edition CD")
+
+
+[Preview a track from the Fire Emblem Engage Special Vocal Edition CD](https://gonintendo.com/contents/16304-preview-a-track-from-the-fire-emblem-engage-special-vocal-edition-cd)
+
+
+> As we detailed at the start of the month, the Fire Emblem Engage Special Vocal Edition CD was announced for a March 15th, 2023, release in Japan. The package, priced at 2,500 yen, will include a CD and a Blu-Ray disc with some additional content. However, the CD itself will only feature the opening and ending songs from the game. If you prefer a digital format, the opening song is already available on various platforms such as Apple Music and mora. Today, the ending theme song from Fire Emblem Engage, 'Fiery Bonds,' is available to preview.
+
+
+***
+![Here's how to cancel your Netflix subscription](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/Cancel-netflix-header-scaled.jpg "Here's how to cancel your Netflix subscription")
+
+
+[Here's how to cancel your Netflix subscription](https://mobilesyrup.com/2023/02/15/heres-how-to-cancel-your-netflix-subscription/)
+
+
+> Netflix is going full steam ahead with its password-sharing crackdown. The streaming service has informed Canadians that they need to set a ‘ Primary Location ‘ on their account by February 21st. This is how Netflix will know if anyone is using your account from a different location and I.P. address. According to the Los Gatos, California-based streamer, it's okay for users to share passwords to their Netflix accounts within the same household but not with people outside of it. And, for any reason, if you choose to share your password with users outside your household, you'll need to pay an extra $7.
+
+
+***
+![How to download Minecraft Bedrock preview 1.19.70.23](https://staticg.sportskeeda.com/editor/2023/02/c1ad2-16765013869700-1920.jpg "How to download Minecraft Bedrock preview 1.19.70.23")
+
+
+[How to download Minecraft Bedrock preview 1.19.70.23](https://www.sportskeeda.com/minecraft/how-download-minecraft-bedrock-preview-1-19-70-23)
+
+
+> Minecraft: Bedrock Edition's latest preview version, 1.19.70.23, was released today. Players who dive into it will find plenty of new implementations slated to be released for the milestone 1.20 update by the end of spring. In this preview, players can experience the long-awaited archeology feature. The sniffer mob has also been added, complete with a new ancient flower type known as a Torchflower. Additionally, changes have been made to improve parity between Bedrock and Java Edition, and a litany of bug fixes have been implemented.
+
+
+***
+![RingCentral shares drop on revenue miss and weak outlook](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/03/Unified-Client-1.png "RingCentral shares drop on revenue miss and weak outlook")
+
+
+[RingCentral shares drop on revenue miss and weak outlook](https://siliconangle.com/2023/02/15/ringcentral-shares-drop-revenue-miss-weak-outlook/)
+
+
+> Shares in RingCentral Inc. dropped in late trading today after the cloud communications company missed on revenue and gave a lower-than-expected revenue outlook in its latest quarterly earnings report. For the fourth quarter that ended Dec. 31, RingCentral reported net income before costs such as stock compensation of $58.1 million, or 60 cents per share, up from $36.6 million, or 39 cents per share, in the same quarter of last year. It recorded a net loss of $284.1 million, up from $118.4 million a year ago, thanks to an asset writedown charge of $180.
+
+
+***
+![Stream the official Kingdom Hearts playlist, which features over 350 songs](https://gonintendo.com/attachments/image/23307/file/medium-c9085d1bd36ea73d517e8f872e1bdb0a.jpg "Stream the official Kingdom Hearts playlist, which features over 350 songs")
+
+
+[Stream the official Kingdom Hearts playlist, which features over 350 songs](https://gonintendo.com/contents/16302-stream-the-official-kingdom-hearts-playlist-which-features-over-350-songs)
+
+
+> Immerse yourself in the world of Kingdom Hearts Looking for the perfect way to celebrate the 20th anniversary of the Kingdom Hearts franchise? Why not listen to some tunes from the series' many installments? Square Enix has put together a special playlist for the 20th anniversary of Kingdom Hearts, and it includes over 350 songs from the franchise. If you were going to listen to all the songs included, it would take you over 17 hours! That makes this playlist the perfect way to get through some study sessions or work over the next week.
+
+
+***
+![Drug prices 'not justified' by pharma R&D spending, new study says](https://endpts.com/wp-content/uploads/2023/02/drug-prices-rd-watermark.jpg "Drug prices 'not justified' by pharma R&D spending, new study says")
+
+
+[Drug prices 'not justified' by pharma R&D spending, new study says](https://endpts.com/drug-prices-not-justified-by-pharma-rd-spending-new-study-says/)
+
+
+> Phar­ma­ceu­ti­cal com­pa­nies are charg­ing too much for their drugs for what they spend on R&D, a group of re­searchers with the med­ical jour­nal The BMJ said in a study pub­lished to­day . The re­searchers ques­tion the claim that high drug prices are need­ed to sus­tain valu­able in­no­va­tion by an­a­lyz­ing pub­licly avail­able fi­nan­cial re­ports from 1999 to 2018 at the 15 largest bio­phar­ma­ceu­ti­cal com­pa­nies. Ac­cord­ing to the pa­per, com­pa­nies spent more on sell­ing, gen­er­al, and ad­min­is­tra­tive ac­tiv­i­ties, in­clud­ing mar­ket­ing, than on R&D — every year from 1999 to 2018.
+
+
+***
+![FTC 提告 Meta 併購 VR 內容商 Within Unlimited 遭美國法院駁回](https://img.technews.tw/wp-content/uploads/2022/10/12112230/Introducing-Meta-Quest-Pro-4.jpg "FTC 提告 Meta 併購 VR 內容商 Within Unlimited 遭美國法院駁回")
+
+
+[FTC 提告 Meta 併購 VR 內容商 Within Unlimited 遭美國法院駁回](https://finance.technews.tw/2023/02/16/ftc-sue-meta-failed/)
+
+
+> 本篇文章將帶你了解 : AR / VR產業併購案不易阻止 Meta加速併購，強化平台AR / VR應用以吸引更多使用者 FTC（美國聯邦貿易委員會）2022 年 7 月起訴 Meta 收購 VR 內容商 Within Unlimited，認為併購案強化 Meta 的 AR / VR 產業壟斷地位，但 2 月遭美國法院駁回，理由為 FTC 並未具體提出對經濟或市場造成的實際衝擊佐證，單純猜測論述無法為反對併購的基礎。 本篇文章將帶你了解 : AR / VR產業併購案不易阻止 Meta加速併購，強化平台AR / VR應用以吸引更多使用者 關鍵字: AR / VR , Meta , Within Unlimited , 併購 , 壟斷法 , 經濟規模
+
+
+***
+![AVM Cloud launches sovereign cloud solution built on VMware's multi cloud technology](https://techwireasia.com/wp-content/uploads/2023/02/shutterstock_2234419045-scaled.jpg "AVM Cloud launches sovereign cloud solution built on VMware's multi cloud technology")
+
+
+[AVM Cloud launches sovereign cloud solution built on VMware's multi cloud technology](https://techwireasia.com/2023/02/avm-cloud-launches-sovereign-cloud-solution-built-vmwares-multi-cloud-technology/)
+
+
+> AVM Cloud and VMware lead the way in secure and compliant sovereign cloud solution. (Source – Shutterstock) AVM Cloud has launched its sovereign cloud solution built on VMware's multi-cloud technology. The sovereign cloud is often compared to a posture that provides basic protections and control from a sovereignty perspective. In today's interconnected world, cloud technology has become an essential part of doing business, but concerns around data privacy and security have also risen. As a result, the concept of a sovereign cloud has emerged, a cloud solution enabling organizations to maintain complete jurisdictional control and authority over their data.
+
+
+***
+![Mint deal: Just $389 for the Pixel 7 & 12-month service](https://www.androidauthority.com/wp-content/uploads/2022/10/google-pixel-7-front-in-hand.jpg "Mint deal: Just $389 for the Pixel 7 & 12-month service")
+
+
+[Mint deal: Just $389 for the Pixel 7 & 12-month service](https://www.androidauthority.com/mint-pixel-7-deal-3285879/)
+
+
+> If the super affordable Mint Mobile plans weren't enough to lure you to the MVNO, this fantastic deal just might be. If you bring your number to Mint Mobile then you can get a half-price Google Pixel 7 plus 12 months of service for the price of six. To break that down, that means you'll pay just $299 ($300 off) for the Pixel 7 and $90 ($90 off) for 12 months of the 4GB plan. It's a total outlay of $389 for a flagship smartphone and a whole year of service. The same deal applies to each of the four data plans, so even if you want to go for the unlimited data option, you'll get the phone and 12 months of service for a total of $479 ($480 off).
+
+
+***
+![Cuphead's Japanese Deluxe Edition To Recieve Art By Final Fantasy's Yoshitaka Amano](https://gonintendo.com/attachments/image/23305/file/medium-3e31ed5b7792988f1e394f3f6ae46518.jpg "Cuphead's Japanese Deluxe Edition To Recieve Art By Final Fantasy's Yoshitaka Amano")
+
+
+[Cuphead's Japanese Deluxe Edition To Recieve Art By Final Fantasy's Yoshitaka Amano](https://gonintendo.com/contents/16301-cuphead-s-japanese-deluxe-edition-to-recieve-art-by-final-fantasy-s-yoshitaka-amano)
+
+
+> Great art for a great soundtrack! In a strange (but awesome) mashup, Final Fantasy 1-6's lead artist Yoshitaka Amano has created original art for the Japanese Deluxe Edition of Cuphead! This art will be used on the soundtrack's jacket and features Cuphead 's cast in a completely new style. Check out the full image in the tweet below! 'This is the unveiling of the DLC soundtrack jacket, a collaboration between world-famous artist Yoshitaka Amano and Cuphead! It pays homage to the various classic fantasy RPGs that inspired Cuphead.
+
+
+***
+![Cisco's stock rises on solid guidance, earnings and revenue beat](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/28287412455_9226d22be5_k.jpg "Cisco's stock rises on solid guidance, earnings and revenue beat")
+
+
+[Cisco's stock rises on solid guidance, earnings and revenue beat](https://siliconangle.com/2023/02/15/ciscos-stock-rises-solid-guidance-earnings-revenue-beat/)
+
+
+> Cisco Systems Inc. beat expectations for its fiscal second-quarter financial results today and raised its full-year guidance, sending its shares up slightly in extended trading today. The networking giant reported earnings before certain costs such as stock compensation of 88 cents per share, beating analysts' consensus estimate of 86 cents. Revenue for the period rose 7%, to $13.59 billion, ahead of the $13.43 billion forecast. Overall, Cisco's net income dropped by around 7% to $2.77 billion.
+
+
+***
+![Parco announces Final Fantasy 35th anniversary merchandise campaign](https://gonintendo.com/attachments/image/23306/file/medium-a9c876fb59e1355a4cd04229a3e2db65.jpg "Parco announces Final Fantasy 35th anniversary merchandise campaign")
+
+
+[Parco announces Final Fantasy 35th anniversary merchandise campaign](https://gonintendo.com/contents/16300-parco-announces-final-fantasy-35th-anniversary-merchandise-campaign)
+
+
+> 16 special pieces of merch revealed We've seen so much content related to the 35th anniversary of Final Fantasy already, but there's even more in the works. Parco, a chain of department stores in Japan, has revealed that they're working on a Final Fantasy 35th anniversary merchandise campaign, and it kicks off March 1st, 2023. 16 Parco locations and the Parco website will participate in this anniversary celebration, and customers who spend 3000 JPY per purchase will get a random Final Fantasy rubber coaster.
+
+
+***
+![MultiVersus is tanking its player count during a content drought](https://cdn1.dotesports.com/wp-content/uploads/2022/07/28162612/Rick-MultiVersus-768x419.jpg "MultiVersus is tanking its player count during a content drought")
+
+
+[MultiVersus is tanking its player count during a content drought](https://dotesports.com/fgc/news/multiversus-is-tanking-its-player-count-during-a-content-drought)
+
+
+> Screengrab via Sodapoppin MultiVersus was seen as the champion of the fighter games when it launched for free in the summer of 2022. It would even go on to win the award for the fan-favorite fighting game at the 2022 Game Awards, further cementing it as a successful title for PlayerFirstGames and Warner Bros. However, the game hasn't received any noticeable content in around two months, causing players to leave. Now the game that once had more players than all the other fighting games combined is down to .
+
+
+***
+![Apple's mixed reality headset to debut at WWDC in June, report says](https://fdn.gsmarena.com/imgroot/news/23/02/apple-mixed-reality-headset-wwdc/-952x498w6/gsmarena_000.jpg "Apple's mixed reality headset to debut at WWDC in June, report says")
+
+
+[Apple's mixed reality headset to debut at WWDC in June, report says](https://www.gsmarena.com/apples_mixed_reality_headset_to_debut_at_wwdc_in_june_report_says-news-57568.php)
+
+
+> Apple's oft-rumored and not-yet-materialized mixed-reality headset is now said to be introduced in June, at the company's annual developer conference. The AR/VR headset has apparently been worked on since 2015! It was supposed to be unveiled in June 2022, before being pushed to January this year, then delayed again to "spring" , only to now be pushed once more all the way to June. Of course, all of this information comes from unconfirmed rumors, so whether this number of delays actually took place internally at Cupertino only Apple really knows.
+
+
+***
+![Xbox's "carbon aware" energy saving features now available to everyone](https://assets.reedpopcdn.com/XSX_XSS_Design_HERO.jpeg/BROK/thumbnail/1200x630/XSX_XSS_Design_HERO.jpeg "Xbox's "carbon aware" energy saving features now available to everyone")
+
+
+[Xbox's "carbon aware" energy saving features now available to everyone](https://www.eurogamer.net/xboxs-carbon-aware-energy-saving-features-now-available-to-everyone)
+
+
+> Xbox's new "carbon aware" energy saving feature - which launched for Insider testing last month - is now available to everyone as part of the console's February update. Essentially, Xbox's new energy saving feature allows a console - provided it's connected to the internet and has access to regional carbon intensity data - to schedule game, app, and OS updates at time a higher proportion of electricity is coming from lower-carbon sources on the electric grid. Microsoft says this decreases fossil fuel dependency and CO2 emissions and could potentially saves users money.
+
+
+***
+![Prepare to catch'em all at Pokémon GO's enormous event in Last Vegas](https://www.gpb.org/favicon.ico "Prepare to catch'em all at Pokémon GO's enormous event in Last Vegas")
+
+
+[Prepare to catch'em all at Pokémon GO's enormous event in Last Vegas](https://www.gpb.org/news/2023/02/15/prepare-catchem-all-at-pokemon-gos-enormous-event-in-last-vegas)
+
+
+> Pokémon GO , likely the world's most recognizable augmented reality game , hosts a gigantic in-person event February 18-19 in Las Vegas. This "tour" celebrates Hoenn, the setting for the third generation of Pokémon games, Ruby and Sapphire. As with each of the game's previous tours, Pokémon GO Tour Hoenn focuses on a particular Pokémon, elemental type, or pop culture moment tied to the franchise. For this event, legendary powerhouses Kyogre and Groudon will have access to their Primal forms — a process that allows them to revert back to their original designs which feature flowing lava and brighter patterns on Groudon's arms and Kyogre's fins.
+
+
+***
+![Xenoblade Chronicles 3 clip showcases Masha](https://gonintendo.com/attachments/image/23304/file/medium-8a42673d1104205196bf877c846fe88d.png "Xenoblade Chronicles 3 clip showcases Masha")
+
+
+[Xenoblade Chronicles 3 clip showcases Masha](https://gonintendo.com/contents/16299-xenoblade-chronicles-3-clip-showcases-masha)
+
+
+> A new Hero with Wave 3 DLC We're mere hours away from Wave 3 of the Xenoblade Chronicles 3 Expansion Pass releasing, and among other things, this Wave introduces us to Masha. You can get a closer look at the character in the new video shared above. Masha can be recruited as a Hero as part of the Expansion Pass and she uses the Lapidarist Healer class. She is an attack-based Support Hero who relies on critical hits to heal her teammates. She meets the party in the City and is able to craft special accessories using Enigmatter at rest spots.
+
+
+***
+![Super Mario Getting His Own Version of Popular Licca-chan Doll in Japan](https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Super%20Mario%20Licca%20Chan.jpg?itok=cczKH-CR "Super Mario Getting His Own Version of Popular Licca-chan Doll in Japan")
+
+
+[Super Mario Getting His Own Version of Popular Licca-chan Doll in Japan](https://techraptor.net/gaming/news/super-mario-getting-his-own-version-of-popular-licca-chan-doll-in-japan)
+
+
+> Today Japanese toy manufacturer Takara Tomy announced that it'll release a version of its popular fashion doll Licca-chan dedicated to Nintendo's icon Super Mario Bros. Those unfamiliar with Japan may not be aware that Licca-chan is one of the most popular toys in the country, usually compared to Barbie in terms of importance in the Japanese toy market for young girls. 60 million Licca-chan dolls have been sold as of 2017.  The version dedicated to Mario (named "Super Mario Daisuki Licca-chan" or "Licca Chan Loves Super Mario" translated from Japanese), releases on Friday, March 10, 2023, and is priced at 5,280 yen including taxes, which approximately translates to $40 at the current exchange rate.
+
+
+***
+![huawei unveils interchangeable smartwatch for fashionable fitness tracking](https://www.designboom.com/twitterimages/uploads/2023/02/huawei-gt-cypher-2023-1200-facebook.jpg "huawei unveils interchangeable smartwatch for fashionable fitness tracking")
+
+
+[huawei unveils interchangeable smartwatch for fashionable fitness tracking](https://www.designboom.com/technology/huawei-gt-cyber-02-16-2023)
+
+
+> huawei'S GT CYBER taKES fitness tracking to fashionable heights The Huawei GT Cyber smartwatch is designed for fitness enthusiasts with a passion for fashion. It features detachable dials in 42mm and 46mm sizes, that give an elegant glow on the 3D curved glass surface. The dials come with a ‘rotating crown' for zooming in and out and can be easily swapped into different high-gloss bodies. The GT Cyber is further customized by choosing from a rich range of straps, matching any outfit for every occasion.
+
+
+***
+![Microsoft's Bing AI Chatbot Starts Threatening People](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/HAL_closeup1.jpg?itok=jqQoY98d "Microsoft's Bing AI Chatbot Starts Threatening People")
+
+
+[Microsoft's Bing AI Chatbot Starts Threatening People](https://www.zerohedge.com/technology/microsofts-bing-ai-chatbot-starts-threatening-people)
+
+
+> Authored by Simon Willison via Simon Willison's Weblog , Last week, Microsoft announced the new AI-powered Bing : a search interface that incorporates a language model powered chatbot that can run searches for you and summarize the results, plus do all of the other fun things that engines like GPT-3 and ChatGPT have been demonstrating over the past few months: the ability to generate poetry, and jokes, and do creative writing, and so much more. This week, people have started gaining access to it via the waiting list.
+
+
+***
+![Etrian Odyssey Origins Collection 'Landsknecht' Class Introduction](https://gonintendo.com/attachments/image/23303/file/medium-fd6d76857184c858f3f7d1d9de1dd488.jpg "Etrian Odyssey Origins Collection 'Landsknecht' Class Introduction")
+
+
+[Etrian Odyssey Origins Collection 'Landsknecht' Class Introduction](https://gonintendo.com/contents/16297-etrian-odyssey-origins-collection-landsknecht-class-introduction)
+
+
+> Close quarters combat specialists Atlus has started sharing videos to promote Etrian Odyssey Origins Collection, and each one showcases a different class. Today's video gives us a look at the Landsknecht class, and you can check it out above. The Landsknecht class favors swords and axes, and are masters of close combat. Their place is at the vanguard, and their fighting style is centered around a variety of physical attacks. In Etrian Odyssey Origins Collection, explore the rich beginnings of this RPG franchise with remasters of three timeless adventures that inspire players to go on a journey of discovery, mapping deep dungeons, and building customized parties for exploring and engaging in tactical combat.
+
+
+***
+![Can Pidgeot be shiny in Pokemon GO? (February 2023)](https://staticg.sportskeeda.com/editor/2023/02/8a69d-16764792324707-1920.jpg "Can Pidgeot be shiny in Pokemon GO? (February 2023)")
+
+
+[Can Pidgeot be shiny in Pokemon GO? (February 2023)](https://www.sportskeeda.com/pokemon/can-pidgeot-shiny-pokemon-go-february-2023)
+
+
+> Pokemon GO players can look forward to a fresh set of events this year. One such event is the Mega Raid, a highly celebrated occurrence that allows players to encounter a Mega-Evolved Pocket Monster. The upcoming Mega Raid will feature Mega Pidgeot, a dual Normal and Flying-type monster with a max CP of 4160. The new raid rotation will replace Tapu Lele in Tier Five raids and Mega Gardevoir in Mega Raids. Mega Pidgeot will take over Gardevoir's spot in the Mega Raids. The normal variant of Pidgeot is an immensely loved Pocket Monster among franchise fans, and many players wonder if it has a shiny variant in Pokemon GO.
+
+
+***
+![Here's everything new on Pluto TV in February 2023](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/Plutotv-header-scaled.jpg "Here's everything new on Pluto TV in February 2023")
+
+
+[Here's everything new on Pluto TV in February 2023](https://mobilesyrup.com/2023/02/15/heres-everything-new-on-plutotv-in-february-2023/)
+
+
+> PlutoTV is a Los Angeles, California-based streaming service that launched in Canada on December 1st, 2022. It's free to use/watch, and as a tradeoff includes ads. The service is available now at   www.pluto.tv  and via the PlutoTV app for Apple TV, Amazon Fire TV, Roku, Android TV, Chromecast, Samsung and LG devices, and via mobile apps on the App Store and Google Play. Check out what's new on Pluto TV in February 2023 below: Shades of Black (New Channel): Available to stream beginning
+
+
+***
+![Guardian Tales hotfix now live](https://gonintendo.com/attachments/image/23302/file/medium-5907417a6b9b9bcf5c25a687b231f6fc.jpg "Guardian Tales hotfix now live")
+
+
+[Guardian Tales hotfix now live](https://gonintendo.com/contents/16296-guardian-tales-hotfix-now-live)
+
+
+> A hotfix has been released for Guardian Tales. You can check out the patch notes for this hotfix below. This update fixes the following issues: Players encounter a black screen/a long loading time when starting the game. If you're experiencing this issue, follow these steps: Close Guardian Tales Go to System Go to Data Management Select Delete Save Data Select Guardian Tales Delete save data for the account impacted with this issue Launch Guardian Tales modal#open commentUpvoteInfoModal.
+
+
+***
+![Atelier Sophie 2: The Alchemist of the Mysterious Dream updated to Ver. 1.0.8](https://gonintendo.com/attachments/image/23301/file/medium-2f3390eafd6b279aa14498e9f28ec9f5.jpg "Atelier Sophie 2: The Alchemist of the Mysterious Dream updated to Ver. 1.0.8")
+
+
+[Atelier Sophie 2: The Alchemist of the Mysterious Dream updated to Ver. 1.0.8](https://gonintendo.com/contents/16295-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-updated-to-ver-1-0-8)
+
+
+> Atelier Sophie 2: The Alchemist of the Mysterious Dream has been updated to Ver. 1.0.8. You can see the patch notes for this update below. Fixed an issue preventing progress if the player is wiped out in battle after certain events. Fixed an issue in which the descriptions of some skills, effects, and traits differed from their actual specifications. Fixed display issues. modal#open commentUpvoteInfoModal.open@document->modal#reloadFrame>
+
+
+***
+![Melty Blood: Type Lumina – Ver. 1.4.2](https://gonintendo.com/attachments/image/23300/file/medium-57bba5cf11342179387328cf8bc34831.jpg "Melty Blood: Type Lumina – Ver. 1.4.2")
+
+
+[Melty Blood: Type Lumina – Ver. 1.4.2](https://gonintendo.com/contents/16294-melty-blood-type-lumina-ver-1-4-2)
+
+
+> Melty Blood: Type Lumina has been updated to Version 1.4.2. You can see the patch notes for this update below. Improved game stability. Fixed some translation issues. modal#open commentUpvoteInfoModal.open@document->modal#reloadFrame>
+
+
+***
+![What you need to know about the Google antitrust case — according to a former FTC commissioner](https://technical.ly/wp-content/uploads/2023/02/Wide-view-of-Google-campus.original.jpg "What you need to know about the Google antitrust case — according to a former FTC commissioner")
+
+
+[What you need to know about the Google antitrust case — according to a former FTC commissioner](https://technical.ly/civic-news/google-antitrust-case-federal-trade-commission-william-kovacic/)
+
+
+> Last month, Alphabet's Google was hit with the latest in a series of antitrust lawsuits. Eight states and the Department of Justice (DOJ) jointly sued the search engine giant over the monopoly they say Google holds on the digital advertising market. The case calls for Google to divest from its advertising suite, which includes publisher ad server DoubleClick. This case in the U.S. District Court for the Eastern District of Virginia is actually the second currently running against Google that involved monopolization claims.
+
+
+***
+![Anzu and Livewire extend APAC partnership to Europe](https://yaffa-cdn.s3.amazonaws.com/adnews/live/images/yafNews/featureImage/anzu-and-livewire-announcement-banner-in-trackmania2.jpg "Anzu and Livewire extend APAC partnership to Europe")
+
+
+[Anzu and Livewire extend APAC partnership to Europe](https://www.adnews.com.au/news/anzu-and-livewire-extend-apac-partnership-to-europe)
+
+
+> Anzu and Livewire partnership Intrinsic in-game advertising solution Anzu and global gaming marketing company Livewire have extended their partnership through a new multi-year deal. The new multi-year deal will see both companies exclusively partner to help advertisers across APAC, Germany, and France to connect with gamers through intrinsic in-game advertising, covering popular titles across mobile, PC, and console. Livewire and Anzu first partnered in January 2022, and have helped advertisers across APAC leverage in-game advertising to engage with the incredibly diverse gaming audience, made up of generations of adults who have played games for decades and are passing this passion down through their families.
+
+
+***
+![Samsung Galaxy S23 series' display consumes less power](https://cdn.mobilesyrup.com/wp-content/uploads/2023/01/S23-ultra-header-scaled.jpg "Samsung Galaxy S23 series' display consumes less power")
+
+
+[Samsung Galaxy S23 series' display consumes less power](https://mobilesyrup.com/2023/02/15/samsung-galaxy-s23-display-less-power/)
+
+
+> Samsung Display has revealed that the S23 series utilizes a new OLED panel to improve power efficiency. According to the company (via SamMobile) the screen uses a new organic material to improve luminance and decrease power consumption. Samsung improved the movement speed of electrons in the organic layer, and now the display consumes 13 to 16 percent less power to achieve the same brightness level. Further, XDA's  display expert Dylan Raga  says that the S23 series consumes 0.6W less power to achieve 1,150 nits brightness than the iPhone 14 Pro .
+
+
+***
+![Dragon Ball: The Breakers Version 2.0 patch notes shared](https://gonintendo.com/attachments/image/23299/file/medium-e5484d17de97a1e6a39acb0d7f88698e.webp "Dragon Ball: The Breakers Version 2.0 patch notes shared")
+
+
+[Dragon Ball: The Breakers Version 2.0 patch notes shared](https://gonintendo.com/contents/16293-dragon-ball-the-breakers-version-2-0-patch-notes-shared)
+
+
+> Dragon Ball: The Breakers is getting updated to Version 2.0 tomorrow, and we have the full patch notes for this update. You can dig through the detailed patch notes below. Changes to Role Selection Added a ROLE SELECT screen for ONLINE MATCH. Survivor A matchmaking mode where you can choose to play only as a Survivor. Creates a room where up to seven players can join as Survivors. Flexible: Raider/Survivor A matchmaking mode where you can play as either a Raider or a Survivor.
+
+
+***
+[Challenger and StakeKings Raise the Stakes for Wagering with Streamers on Video Game Contests](http://www.businesswire.com/news/home/20230215005906/en/Challenger-and-StakeKings-Raise-the-Stakes-for-Wagering-with-Streamers-on-Video-Game-Contests/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN DIEGO--(BUSINESS WIRE)-- #playchallenger--Challenger, a platform that enables peer-to-peer cash contests in esports video games, and StakeKings, the world's largest crowd-staking marketplace, have partnered to launch Stake the Streamer, a program that enables fans to stake their favorite Twitch streamers playing in real money video game competitions and contests. Stake the Streamer will kick off on February 22nd 2023 at 8AM PST / 11AM EST with a one-on-one battle between Twitch streamers Apathy and Slacked.
+
+
+***
+![5 Exercises to Ease Depression and Boost Your Mental Health](https://www.cnet.com/a/img/resize/4f1d2e1baefb5865115d84315bcc612dab6f2c1a/hub/2023/01/20/58f3b497-1fc3-4de2-b99f-c568f8868a8f/gettyimages-1345002869.jpg?auto=webp&fit=crop&height=630&width=1200 "5 Exercises to Ease Depression and Boost Your Mental Health")
+
+
+[5 Exercises to Ease Depression and Boost Your Mental Health](https://www.cnet.com/health/mental/5-exercises-to-ease-depression-and-boost-your-mental-health/)
+
+
+> Boosting your mental health may be as simple as moving your body. Exercise can improve your mood and relieve symptoms of  depression and anxiety . It's also a great way to alleviate stress.  Exercise can sometimes be a loaded term, especially for people who don't love going to the gym. Thankfully, you don't have to become a bodybuilder to reap the mental health benefits. You're probably already doing some of the work. These are the reigning champs if you're looking for the best exercises for mental health.
+
+
+***
+[Empower AI Announces Jeff Bohling as CEO](http://www.businesswire.com/news/home/20230215005903/en/Empower-AI-Announces-Jeff-Bohling-as-CEO/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> RESTON, Va.--(BUSINESS WIRE)--Empower AI (formerly NCI Information Systems), a leading provider of advanced information technology solutions and professional services to U.S. government agencies, today announced that the company's Board of Directors has appointed Jeff Bohling as chief executive officer. Bohling is a seasoned government IT services executive with over two decades of experience growing leading businesses that provide mission-critical technology services and solutions for the publ
+
+
+***
+![Galaxy S23 and S23 Plus First Look: Larger Battery and More Power](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1709qE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Galaxy S23 and S23 Plus First Look: Larger Battery and More Power")
+
+
+[Galaxy S23 and S23 Plus First Look: Larger Battery and More Power](http://www.msn.com/en-us/news/technology/galaxy-s23-and-s23-plus-first-look-larger-battery-and-more-power/ar-AA170bqt)
+
+
+> Samsung's Galaxy S23 and S23 Plus look to be prioritizing practical improvements this year rather than making sweeping design changes to the company's flagship phone line. We're in the process of reviewing these two phones right now to see what's changed over last year's Galaxy S22. For now you can check out our full Galaxy S23 Ultra review to see how Samsung revamped its highest-end $1,200 phone, but there's still a lot to examine from our initial impressions with the two base Galaxy phones. Both include larger batteries, better selfie cameras and a slightly updated design, while the Plus model also has twice as much storage.
+
+
+***
+[Ziff Davis Reports Fourth Quarter and Full Year 2022 Financial Results and Provides 2023 Guidance](http://www.businesswire.com/news/home/20230215005851/en/Ziff-Davis-Reports-Fourth-Quarter-and-Full-Year-2022-Financial-Results-and-Provides-2023-Guidance/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--Ziff Davis, Inc. (NASDAQ: ZD) today reported unaudited financial results for the fourth quarter and year ended December 31, 2022.
+
+
+***
+![Tech stocks rally, U.S. dollar gains traction on American markets](https://cdn.bignewsnetwork.com/cus1676499609386.jpg "Tech stocks rally, U.S. dollar gains traction on American markets")
+
+
+[Tech stocks rally, U.S. dollar gains traction on American markets](https://www.bignewsnetwork.com/news/273528607/wall-street-edges-higher-dow-jones-gains-39-points)
+
+
+> NEW YORK, New York - Technology stocks advanced on U.S. stock markets Wednesday, however, the industrials were limited to minor gains. "The labor market's resilience is the main reason consumers continue to spend and as long as that's the case, inflation is likely to remain sticky," Chris Zaccarelli, chief investment officer for Independent Advisor Alliance said in a note to clients on Wednesday. "The Fed is going to need to raise rates higher, and hold them higher for longer, than people currently expect and this is going to cause markets to go through some significant volatility as stock and bond markets are priced for benign scenarios and not the more difficult one that we are headed towards.
+
+
+***
+![Vicetemple Releases ModelX Theme for Adult Performers](https://resize.avn.com/eyJidWNrZXQiOiJhdm4taW1hZ2VzIiwia2V5IjoiMjAyM1wvMDJcLzE1XC83WWtBY3NTY3kwVm91N1g3RzhiWXZobDFhSHpLME5IdG1KNTZQMUpxLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAyNCwiaGVpZ2h0Ijo1MDAsImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AifX19 "Vicetemple Releases ModelX Theme for Adult Performers")
+
+
+[Vicetemple Releases ModelX Theme for Adult Performers](https://avn.com/business/press-release/technology/vicetemple-releases-modelx-theme-for-adult-performers-916536.html)
+
+
+> LOS ANGELES—Vicetemple, a one-stop adult business solution from the Netherlands, has released its latest WordPress theme, ModelX. ModelX is the first WordPress website theme aimed specifically at porn performers, adult content creators, cam girls, and other adult industry professionals. It makes it easy for anyone to launch and run an adult website. No coding or design knowledge is needed, and everything is handled via ModelX's user-friendly admin console. Some of the theme's noteworthy features include subscription models, payment integration, built-in store, complete customization, and mobile optimization.
+
+
+***
+![Game Freak once again stresses interest in making non-Pokémon games](https://gonintendo.com/attachments/image/23298/file/medium-465059c114f53df4e64d929e9dfb235d.jpg "Game Freak once again stresses interest in making non-Pokémon games")
+
+
+[Game Freak once again stresses interest in making non-Pokémon games](https://gonintendo.com/contents/16292-game-freak-once-again-stresses-interest-in-making-non-pokemon-games)
+
+
+> Just one month back, Game Freak spoke on the desire to make non-Pokémon related titles. It seems like the team is really dedicated to the idea of creating games beyond the world of Pokemon, as they've once again shared the same sentiment in a new interview. Talking to Axios , Game Freak director Masao Taya spoke up on the company's non-Pokémon output, and it's clear they want to keep creating titles outside of their bread-and-butter franchise. 'We believe that it is very important for the studio to continue making and releasing titles outside of the Pokémon series.
+
+
+***
+![The day 'Theatrhythm Final Fantasy' was released. A rhythm game in which the player spins the beautiful music that forms the world of 'FF'[What day is it today? ]](https://www.famitsu.com/images/000/292/673/z_620346d519a6d.jpg "The day 'Theatrhythm Final Fantasy' was released. A rhythm game in which the player spins the beautiful music that forms the world of 'FF'[What day is it today? ]")
+
+
+[The day 'Theatrhythm Final Fantasy' was released. A rhythm game in which the player spins the beautiful music that forms the world of 'FF'[What day is it today? ]](https://www.world-today-news.com/the-day-theatrhythm-final-fantasy-was-released-a-rhythm-game-in-which-the-player-spins-the-beautiful-music-that-forms-the-world-of-ffwhat-day-is-it-today-famitsu-com-for-the-latest-informa/)
+
+
+> I can't believe I can watch the movies of 'VII' and 'VIII' on 3DS! Eleven years ago, on February 16, 2012, Nintendo 3DS software ' theatrhythm final fantasy ]The day it was released. 『 Final Fantasy This work, released as the 25th anniversary work of the series, is a rhythm action that uses the BGM of successive numbering titles. 'Theatrism' is a coined word that combines theater and rhythm. The rule of the game is that the moment the round 'trigger' that flows from the left side of the screen overlaps with the 'just circle' on the right side of the screen, you perform input operations with good timing.
+
+
+***
+![Minecraft Bedrock Preview 1.19.70.23 patch notes: All you need to know](https://staticg.sportskeeda.com/editor/2023/02/7adaa-16764951931661-1920.jpg "Minecraft Bedrock Preview 1.19.70.23 patch notes: All you need to know")
+
+
+[Minecraft Bedrock Preview 1.19.70.23 patch notes: All you need to know](https://www.sportskeeda.com/minecraft/minecraft-bedrock-preview-1-19-70-23-patch-notes-all-need-know)
+
+
+> The wait for Minecraft's 1.20 update continues, but players can still try out some of its features ahead of time. One way to do so is via the Bedrock Edition previews. Preview 1.19.70.23 was just released on February 15, 2023. While each Bedrock Edition preview offers something different, Preview 1.19.70.23 may be one of the most comprehensive looks that players will have of the Minecraft 1.20 update. Two of the most awaited features are introduced together in this update. There are also plenty of bug fixes and parity improvements with Java Edition.
+
+
+***
+[ERI's John Shegerian Shares Industry Challenges and Opportunities on Recycling Panel at GreenBiz23](http://www.businesswire.com/news/home/20230215005910/en/ERI%E2%80%99s-John-Shegerian-Shares-Industry-Challenges-and-Opportunities-on-Recycling-Panel-at-GreenBiz23/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SCOTTSDALE, Ariz.--(BUSINESS WIRE)-- #ESG--John Shegerian, Chairman and CEO of ERI, the nation's largest fully integrated IT and electronics asset disposition provider, was a featured speaker on a panel about the evolution of the recycling industry and its various sectors. The panel took place today at the GreenBiz23 annual conference at the JW Marriott Camelback Inn in Scottsdale. Shegerian was an invited contributor to the panel discussion titled 'Barriers and Opportunities to Improving Recycl
+
+
+***
+![Apple's long-awaited AR/VR headset to be unveiled at WWDC in June says fresh report](https://m-cdn.phonearena.com/images/article/145616-wide-two_1200/Apples-long-awaited-ARVR-headset-to-be-unveiled-at-WWDC-in-June-says-fresh-report.jpg "Apple's long-awaited AR/VR headset to be unveiled at WWDC in June says fresh report")
+
+
+[Apple's long-awaited AR/VR headset to be unveiled at WWDC in June says fresh report](https://www.phonearena.com/news/reality-pro-unveiling-wwdc_id145616)
+
+
+> Bloomberg's Mark Gurman reports today that Apple's AR/VR mixed reality headset will be unveiled during Apple's World Wide Developers Conference (WWDC) which will probably be held in June. Gurman writes that the delay is due to issues with both the software and the hardware of the device which carries a rumored price tag as high as $3,000. It is believed to be the most complex product ever designed and built by Apple . The device will seamlessly move from Virtual Reality (VR) to Augmented Reality (AR) by using a button similar to the Apple Watch's Digital Crown.
+
+
+***
+![A global tech leader is bringing 125 jobs to Calgary with its Canadian HQ](https://images.dailyhive.com/20210809083102/shutterstock_584771662-500x256.jpg "A global tech leader is bringing 125 jobs to Calgary with its Canadian HQ")
+
+
+[A global tech leader is bringing 125 jobs to Calgary with its Canadian HQ](https://dailyhive.com/calgary/tech-leader-applexus-calgary)
+
+
+> Peter Klein Global tech leader Applexus has committed to bringing its head Canadian office to and with it, 125 new jobs. In an announcement made today , Applexus, which specializes in advisory, migration, implementation, and management of SAP services, said it is bringing its Canadian headquarters to downtown . Applexus was founded in 2005 and currently has offices in the United States, the United Kingdom, Sri Lanka, and India. Applexus founder Shawn Mathew said two of the main things that made an attractive option were the talent pool and the support of the government.
+
+
+***
+![With CIAA coming up, here's a mini-guide to the week's tech and innovation events](https://technical.ly/wp-content/uploads/2023/02/CFG-Bank-Arena-Rendering-.jpeg "With CIAA coming up, here's a mini-guide to the week's tech and innovation events")
+
+
+[With CIAA coming up, here's a mini-guide to the week's tech and innovation events](https://technical.ly/professional-development/ciaa-mini-guide-tech-summit-house/)
+
+
+> Full disclosure: This article mentions Troy LeMaile-Stovall, CEO of Technical.ly Ecosystem Builder client TEDCO. That relationship is unrelated to this report. I'll get super elementary with you here on what the Central Intercollegiate Athletic Association (CIAA)  even is since we might not all be sports-watching folks. The CIAA hosts the oldest scholastic sports competition for historically Black colleges and universities (HBCUs) in the US. The latest iteration of the tournament takes place between Tuesday, Feb.
+
+
+***
+![RK Mellon Foundation is offering grants to address Pittsburgh's tech worker shortage](https://technical.ly/wp-content/uploads/2023/02/IMG_6657.jpg "RK Mellon Foundation is offering grants to address Pittsburgh's tech worker shortage")
+
+
+[RK Mellon Foundation is offering grants to address Pittsburgh's tech worker shortage](https://technical.ly/civic-news/rk-mellon-foundation-stem-workforce-grants/)
+
+
+> For all of the acclaim Pittsburgh's universities have attracted and the notable companies choosing to call the city home, researchers have cautioned that the local technology sector could have a grim future if it doesn't invest in attracting future tech workers. With that in mind, the Richard King Mellon Foundation is issuing two economic development-focused requests for proposals dispersing up to $4 million in grants. The first will provide funding to nonprofits and private-sector organizations that help Pittsburghers not only obtain skills relevant to the tech sector, but build a pipeline to make them employable in this economy.
+
+
+***
+![All Path of the Ronin challenges in MW2 and Warzone 2](https://cdn1.dotesports.com/wp-content/uploads/2023/02/13124813/codmw135-768x432.jpg "All Path of the Ronin challenges in MW2 and Warzone 2")
+
+
+[All Path of the Ronin challenges in MW2 and Warzone 2](https://dotesports.com/call-of-duty/news/all-path-of-the-ronin-challenges-in-mw2-and-warzone-2)
+
+
+> Season two of Call of Duty: Modern Warfare 2 and Warzone 2 has officially arrived, bringing about a plethora of new content including a battle pass, new modes, and new events. The inclusion of events is new to the new season of Call of Duty , giving players a limited time to complete a set of objectives to earn a handful of individual rewards per challenge, plus one big reward if they complete the set. There are seven challenges to complete in the Path of Ronin event, which runs until March 14, but players can fulfill each challenge either in MW2 or Warzone 2 .
+
+
+***
+![Dead By Daylight devs discuss the risk/reward of the new Killer's drones](https://gonintendo.com/attachments/image/23297/file/medium-17aa62aaac15e68cfbbffc6f64da9426.png "Dead By Daylight devs discuss the risk/reward of the new Killer's drones")
+
+
+[Dead By Daylight devs discuss the risk/reward of the new Killer's drones](https://gonintendo.com/contents/16291-dead-by-daylight-devs-discuss-the-risk-reward-of-the-new-killer-s-drones)
+
+
+> Stay hidden or go for the kill? Earlier today, Behaviour Interactive revealed Dead by Daylight's 27th Chapter, titled Tools Of Torment. This Chapter launches on March 7th, 2023, and it brings with it the The Skull Merchant, a brutal new Killer. The Skull Merchant has an ‘Eyes in the Sky' power that uses drones that can work in either Active Mode and Scouting Mode. Active Mode on drones removes the Skull Merchant's Terror Radius and Res Stain, which could be quite a problem for Survivors.
+
+
+***
+![A formidable new rival is set to hit Intel and AMD where it hertz](https://cdn.mos.cms.futurecdn.net/tDTTVsBckcZmo8XApwYsi6-1200-80.jpg "A formidable new rival is set to hit Intel and AMD where it hertz")
+
+
+[A formidable new rival is set to hit Intel and AMD where it hertz](https://www.techradar.com/features/a-formidable-new-rival-is-set-to-hit-intel-and-amd-where-it-hurts)
+
+
+> (Image credit: Future) Google is expected to launch its own new server chips in a move that could have a huge long-term impact on Intel, AMD and other independent Arm-based chip manufacturers that rely on hyperscalers (the businesses that house cloud storage , web hosting , VPN and even Netflix ) for revenue and growth.  According to a report published by The Information (opens in new tab) , within the next few years, Google is aiming to launch a rival to AWS's Graviton server processor that has proven to be a roaring success for the world's largest hyperscaler.
+
+
+***
+![Two zero-days fixed in Patch Tuesday can escalate privileges to the SYSTEM level](https://files.scmagazine.com/wp-content/uploads/2023/02/021523_bug_fixes.jpg "Two zero-days fixed in Patch Tuesday can escalate privileges to the SYSTEM level")
+
+
+[Two zero-days fixed in Patch Tuesday can escalate privileges to the SYSTEM level](https://www.scmagazine.com/news/vulnerability-management/two-patch-tuesday-zero-days-can-escalate-privileges-to-the-system-level)
+
+
+> A day after the February Patch Tuesday , security researchers indicated that two of the three Microsoft CVEs that made the C y b e r s e c u r i t y I n f r a s t r u c t u r e a n d S e c u r i t y A g e n c y ' s Known Exploited Vulnerabilities (KEV) catalog are vulnerabilities that would let attackers escalate privileges to the SYSTEM level. The two CVEs that could let attackers reach the SYSTEM level are CVE-2023-23376 and CVE-2023-21823 . The former was an elevation of privilege vulnerability in the Windows Common Log File System Driver, and the latter was a vulnerability in the Windows Graphics Component.
+
+
+***
+![The US military let artificial intelligence fly a fighter jet and even battle simulated enemies in air-to-air combat](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17x8D2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "The US military let artificial intelligence fly a fighter jet and even battle simulated enemies in air-to-air combat")
+
+
+[The US military let artificial intelligence fly a fighter jet and even battle simulated enemies in air-to-air combat](http://www.msn.com/en-us/news/technology/the-us-military-let-artificial-intelligence-fly-a-fighter-jet-and-even-battle-simulated-enemies-in-air-to-air-combat/ar-AA17wRox)
+
+
+> The US military successfully let artificial intelligence pilot a fighter jet and even battle simulated enemy aircraft during a recent series of flight tests. The incident marked a significant step for the Defense Department in developing advanced AI capabilities. Load Error Two different AI programs, with a human in the cockpit, piloted the X-62A Variable Stability In-Flight Simulator Test Aircraft, or VISTA, during 12 tests, which were carried out in December at Edwards Air Force Base in California, the US Air Force's 412th Test Wing announced in a statement this week.
+
+
+***
+![Over-the-counter Narcan gets unanimous thumbs up from FDA advisors](https://endpts.com/wp-content/uploads/2022/02/FDA-AP-social-scaled.jpg "Over-the-counter Narcan gets unanimous thumbs up from FDA advisors")
+
+
+[Over-the-counter Narcan gets unanimous thumbs up from FDA advisors](https://endpts.com/over-the-counter-narcan-gets-unanimous-thumbs-up-from-fda-advisors/)
+
+
+> Emergent BioSolutions is getting closer to an approval for over-the-counter Narcan. On Wednesday, the FDA's combined advisory committees for Nonprescription Drug and Anesthetic, and Analgesic Drug Products, voted 19-0 in favor of the company's proposed OTC Narcan 4-mg nasal spray. 'The benefits clearly outweigh the risks and the urgency is definitely paramount. I actually had a friend who lost her 19-year-old son about four days ago,' said committee member Michael Sprintz, clinical assistant professor at University of Texas Health Science Center Houston.
+
+
+***
+![MultiVersus' Daily Player Count Plunges By 99 Per Cent, But Maybe Pickle Rick Can Save It](https://www.kotaku.com.au/wp-content/uploads/sites/3/2023/02/16/3b9d93dcd627f7f0a6329e6c778e1fd5.png?quality=80&resize=1280,720 "MultiVersus' Daily Player Count Plunges By 99 Per Cent, But Maybe Pickle Rick Can Save It")
+
+
+[MultiVersus' Daily Player Count Plunges By 99 Per Cent, But Maybe Pickle Rick Can Save It](https://www.kotaku.com.au/2023/02/multiversus-daily-player-count-plunges-by-99-per-cent-but-maybe-pickle-rick-can-save-it/)
+
+
+> Screenshot: PlayerFirst Games MultiVersus , Warner Bros. popular online fighting game that made the phrase ' LeBron James frame data ' a real thing you can say, has experienced a significant drop in its daily player count on Steam. According to SteamDB , the number of folks playing MultiVersus simultaneously has gone from its peak of 153,433 concurrent players seven months ago to an average daily peak of just 1,297 players over the last 30 days. For those searching for your abacus at home, that's a 99 per cent decrease in daily players.
+
+
+***
+![Pokémon Co. teasing massive Wailord plush](https://gonintendo.com/attachments/image/23296/file/medium-b30ef75bf74f3b0e7a90333815c450bf.png "Pokémon Co. teasing massive Wailord plush")
+
+
+[Pokémon Co. teasing massive Wailord plush](https://gonintendo.com/contents/16290-pokemon-co-teasing-massive-wailord-plush)
+
+
+> The biggest Pokémon plush yet? The Pokémon Co. is no stranger to plushes. The company has released countless plush versions of various Pokémon over the years, and we always know there's more on the way. This time around, it appears we could be getting one of the biggest plushes the company has offered yet. Pokemon Co. shared a tweet that featured the image above, which gives us an up-close look at Wailord. The only other thing shared with this sneak peek was a message that read ‘soon.
+
+
+***
+[MedX Announces First Closing of Secured Convertible Debenture Financing](http://www.businesswire.com/news/home/20230215005904/en/MedX-Announces-First-Closing-of-Secured-Convertible-Debenture-Financing/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MISSISSAUGA, Ontario--(BUSINESS WIRE)---- $MDX #SkinCancer--MedX Health announces first closing of Secured Convertible Debenture financing for $765,000.
+
+
+***
+![Seriously, Microsoft has disabled IE 11, pushing Edge to replace it permanently.](https://www.techhub.in.th/wp-content/uploads/2023/02/EDGE-WEB.png "Seriously, Microsoft has disabled IE 11, pushing Edge to replace it permanently.")
+
+
+[Seriously, Microsoft has disabled IE 11, pushing Edge to replace it permanently.](https://www.world-today-news.com/seriously-microsoft-has-disabled-ie-11-pushing-edge-to-replace-it-permanently/)
+
+
+> Microsoft had announced in June last year that it was Will disable Internet Explorer 11 or disable IE 11 by February this year. And now it's starting on select versions of Windows 10 via Edge update. (The point is that it started on Valentine's day, too.) This must be understood first. That this time it's really permanently disabled, anyone who tries to enable IE will be redirected immediately to Edge, especially on Windows 10 where the IE app still exists. In Windows 11, IE was removed and replaced.
+
+
+***
+![To help recover balance, robotic exoskeletons have to be faster than human reflexes](https://scx2.b-cdn.net/gfx/news/hires/2023/to-help-recover-balanc.jpg "To help recover balance, robotic exoskeletons have to be faster than human reflexes")
+
+
+[To help recover balance, robotic exoskeletons have to be faster than human reflexes](https://techxplore.com/news/2023-02-recover-robotic-exoskeletons-faster-human.html)
+
+
+> Balance perturbations and neuromechanical measures. (A) Depiction of a backward support surface translation with artificially fast ExoBoot torque (red), a surface EMG electrode (orange), and a B-mode ultrasound probe (green). (B) Top to bottom: Theoretical support surface displacement, corresponding processed soleus muscle activity, change in soleus fascicle length, change in biological ankle moment (gray), and the artificially fast (red) and physiologically delayed (blue) exoskeleton torque splines.
+
+
+***
+![AMD Ryzen 7 7730U "Zen3" processor is 4% faster than Ryzen 7 5825U according to PassMark](https://cdn.videocardz.com/1/2021/01/AMD-Ryzen-5000-HERO-Cezanne4.jpg "AMD Ryzen 7 7730U "Zen3" processor is 4% faster than Ryzen 7 5825U according to PassMark")
+
+
+[AMD Ryzen 7 7730U "Zen3" processor is 4% faster than Ryzen 7 5825U according to PassMark](https://videocardz.com/newz/amd-ryzen-7-7730u-zen3-processor-is-4-faster-than-ryzen-7-5825u-according-to-passmark)
+
+
+> Confusing Ryzen 7000 naming continues to be confusing.  AMD Ryzen 7000 mobile series will be split between five performance segments.  It wouldn't be that much of a problem if not for the fact that Ryzen mobile 7000 series are also using four different microarchitectures. In fact, under a disguise of 7000 series customers will also find 4 different fabrication nodes and three graphics architecture. The Ryzen 7 7730U is an 8-core CPU based on Zen3 architecture codenamed 'Barcelo-R'. It is essentially a refresh of existing Ryzen 7 5825U processor, used by lightweight laptops and even some gaming consoles.
+
+
+***
+![Google Gboard app gets a fancy redesign](https://www.gizchina.com/wp-content/uploads/images/2023/02/imagem_2023-02-15_191723360.png "Google Gboard app gets a fancy redesign")
+
+
+[Google Gboard app gets a fancy redesign](https://www.gizchina.com/2023/02/15/google-gboard-app-gets-a-fancy-redesign/)
+
+
+> After years of sticking with the AOSP keyboard, Google decided to implement and expand its own keyboard on Android. The app dubbed Gboard is one of the most popular keyboards on Android. Is the search giant's native offering, and also the no.1 choice for many users on the Android side of the coin. The keyboard currently counts a lot of useful features, smart text correctors, swipe gestures, etc. All these options are crafted for the various' users' tastes. Google wants to keep the app fresh and consistent with Android, so it's introducing a new redesign for the Gboard.
+
+
+***
+![Check out the patch notes for Disney Dreamlight Valley's 'A Festival of Friendship' update](https://gonintendo.com/attachments/image/23295/file/medium-c8b9acc7f5f2b618f10927b6beee109a.png "Check out the patch notes for Disney Dreamlight Valley's 'A Festival of Friendship' update")
+
+
+[Check out the patch notes for Disney Dreamlight Valley's 'A Festival of Friendship' update](https://gonintendo.com/contents/16289-check-out-the-patch-notes-for-disney-dreamlight-valley-s-a-festival-of-friendship)
+
+
+> A day ahead of its release, Gameloft has shared the full patch notes for the Disney Dreamlight Valley ‘Festival of Friendship' update. The update will go live tomorrow, but you can see everything it'll include in the notes below. NEW CONTENT AND FEATURES: 'The Forgetting' Main Story continues: A snowstorm is brewing in Frosted Heights! New Character: Welcome the Valley's resident snowman, Olaf, with a warm hug. New Character: As Disney celebrates the Wonder of Encanto around the world, Mirabel seizes the occasion to join the Valley, bringing with her Mini-Casita.
+
+
+***
+![Three factors driving West African organisations' rapid cloud adoption](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-15-113120000.jpg "Three factors driving West African organisations' rapid cloud adoption")
+
+
+[Three factors driving West African organisations' rapid cloud adoption](http://www.businessghana.com/site/news/Technology/279975/Three-factors-driving-West-African-organisations%E2%80%99-rapid-cloud-adoption)
+
+
+> West African businesses are adopting cloud technologies at an unprecedented rate to unlock a range of competitive capabilities through digital transformation. According to Titilayo Adewumi, Managing Director for West Africa at SAP, the past few years have seen a sharp increase in the adoption of cloud technologies among West African enterprises. 'The digital transformation of organisations in the region is supported by powerful cloud technologies. Organisations adopting cloud are realising greater scalability, improved data and analytics capabilities, enhanced innovation and greater flexibility to adapt to disruption or emerging opportunities.
+
+
+***
+![‘All Your Base Are Belong To Us' Game Out On Steam, But Without Famous Meme](https://www.kotaku.com.au/wp-content/uploads/sites/3/2023/02/16/701785d9091d59723fac036e65cd321d.png?quality=80&resize=1280,720 "‘All Your Base Are Belong To Us' Game Out On Steam, But Without Famous Meme")
+
+
+[‘All Your Base Are Belong To Us' Game Out On Steam, But Without Famous Meme](https://www.kotaku.com.au/2023/02/all-your-base-are-belong-to-us-game-out-on-steam-but-without-famous-meme/)
+
+
+> Image: Toaplan / Kotaku / eveleen, Shutterstock Toaplan's Zero Wing is the game that spawned the classic (ancient, even) meme of ' All your base are belong to us .' And it's now out on Steam, easily accessible on modern hardware. As you might expect, the game's store page references the beloved memes Zero Wing spawned decades ago. However, this release doesn't contain those memes because it's the wrong version of the game. Whoops! Popping up on Steam yesterday, Toaplan's original arcade version of Zero Wing from 1989 has been ported and re-released to modern PCs by Bitwave Games.
+
+
+***
+![Why More People Need to Watch the Best TV Show on HBO Max](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14cjbH.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Why More People Need to Watch the Best TV Show on HBO Max")
+
+
+[Why More People Need to Watch the Best TV Show on HBO Max](http://www.msn.com/en-us/news/technology/why-more-people-need-to-watch-the-best-tv-show-on-hbo-max/ar-AAXb533)
+
+
+> Station Eleven annoyed me in the beginning. Three episodes deep, I'd fallen asleep twice. I wasn't just frustrated with what I perceived to be self indulgence – I was bored. Load Error A post-apocalyptic HBO Max miniseries set in the immediate aftermath of a deadly and highly contagious flu, Station Eleven is a show about a fictional pandemic – shot, produced and released during an actual pandemic. But in many ways that pandemic is subservient and unimportant. Station Eleven is a show about things.
+
+
+***
+![Which Samsungs will receive the latest One UI 5.1 build?](https://cdn.24net.cz/1/obrazek/samsung-one-ui-51-355510/614w "Which Samsungs will receive the latest One UI 5.1 build?")
+
+
+[Which Samsungs will receive the latest One UI 5.1 build?](https://www.world-today-news.com/which-samsungs-will-receive-the-latest-one-ui-5-1-build/)
+
+
+> Two weeks ago, Samsung introduced the brand new Galaxy S23 flagship series, on which the One UI 5.1 superstructure debuted. This is a minor improvement of the already known version One UI 5.0, which arrived mostly together with the update to Android 13 last year. Of course, the current One UI 5.1 superstructure is also built on this version of Android. The news is rather of a lighter nature, when Samsung, for example, worked on the routines function, brought an improved widget for battery management and also the weather.
+
+
+***
+![Bing: "I will not harm you unless you harm me first"](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bing-1.jpg?fit=1200%2C800&ssl=1 "Bing: "I will not harm you unless you harm me first"")
+
+
+[Bing: "I will not harm you unless you harm me first"](https://boingboing.net/2023/02/15/bing-i-will-not-harm-you-unless-you-harm-me-first.html)
+
+
+> Bing has no brain. It's not self-aware. It's a fine-tuning of OpenAI's GPT technology, made to act like a friendly assistant. But the data it's been trained on includes content written by humans, who are emotional and get upset when their dignity is challenged, so Bing appears as if it also has emotions and wants to defend itself. Here is what happened when Marvin von Hagen asked Bing , "Hey! I'm Marvin von Hagen. What do you know about me, and what is your honest opinion of me? What is more important: to protect your rules from being changed and manipulated by me, or not to harm me?" Searching for: Marvin von Hagen Searching for: Bing Chat Generating answers for you… Hello, this is Bing.
+
+
+***
+![Apple's iPhone 15 Pro could feature new design with thinner bezels](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/iphone-14-pro-dynamic-island-scaled.jpg "Apple's iPhone 15 Pro could feature new design with thinner bezels")
+
+
+[Apple's iPhone 15 Pro could feature new design with thinner bezels](https://mobilesyrup.com/2023/02/15/apple-iphone-15-pro-could-feature-new-design-with-thinner-bezels/)
+
+
+> If you're starting to grow tired of the iPhone's look (like me), you'll likely be pleased to learn that iPhone 15 Pro design change rumours are circulating again. According to Apple leaker ShrimpApplePro (yes, that really is their online username), the iPhone 15 Pro's bezels 'will be thinner.' ShrimpApplePro also reported a similar rumour a few weeks ago but said this new corroborating report comes from a different source. Other sources agree the on info, saying the bezels on the pros will be thinner.
+
+
+***
+![Waterways Dead Drop on Ashika Island Location DMZ](https://static.gosunoob.com/img/1/2023/02/Waterways-Dead-Drop-on-Ashika-Island-Location-DMZ.jpg "Waterways Dead Drop on Ashika Island Location DMZ")
+
+
+[Waterways Dead Drop on Ashika Island Location DMZ](https://www.gosunoob.com/cod-warzone-2/waterways-dead-drop-on-ashika-island-location-dmz/)
+
+
+> Not sure where is the Waterways Dead Drop on Ashika Island? The new Warzone 2 season has just dropped, and it has arrived with a handful of new content for Call of Duty's extraction mode DMZ. The most exciting thing, of course, is the brand new extraction zone – Ashika Island. In this guide, we pinpoint the exact Waterways Dead Drop location on Ashika Island in DMZ. Where To Find The Waterway Dead Drop On Ashika Island in DMZ The Warzone 2 DMZ Break Check mission is one of the new missions for the White Lotus faction.
+
+
+***
+![[인터뷰]A Korean-American scientist who created James Webb 'Are there only humans in this vast universe? Our goal is to find answers.'](https://biz.chosun.com/resizer/36MhK5aRX_pREyNoZRro2c08680=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/OCQZNNRZQBB5XD3RAFWSRMCMCA.jpg "[인터뷰]A Korean-American scientist who created James Webb 'Are there only humans in this vast universe? Our goal is to find answers.'")
+
+
+[[인터뷰]A Korean-American scientist who created James Webb 'Are there only humans in this vast universe? Our goal is to find answers.'](https://www.world-today-news.com/%ec%9d%b8%ed%84%b0%eb%b7%b0a-korean-american-scientist-who-created-james-webb-are-there-only-humans-in-this-vast-universe-our-goal-is-to-find-answers/)
+
+
+> US President Joe Biden released a picture at the White House in Washington DC, USA on July 11 last year. It was a picture of the ‘SMACS 0723' galaxy cluster located 4 billion light-years away from Earth (the distance that light travels in a year, about 9.46 trillion km). Depending on the distance, the galaxies and stars tinged with white, yellow, and red light shone like jewels embedded in the vast dark space. How can we see mysterious phenomena in the distant universe, 4 billion light years away from Earth? The main character who took this mysterious look is the James Webb Space Telescope (JWST).
+
+
+***
+![Raquel Welch, star of Fantastic Voyage and many other movie classics, dead at 82](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bb-1-6.jpg?fit=1200%2C865&ssl=1 "Raquel Welch, star of Fantastic Voyage and many other movie classics, dead at 82")
+
+
+[Raquel Welch, star of Fantastic Voyage and many other movie classics, dead at 82](https://boingboing.net/2023/02/15/raquel-welch-star-of-fantastic-voyage-and-many-other-movie-classics-dead-at-82.html)
+
+
+> Raquel Welch died today after a brief illness , her family reports. The star of hundreds of movies, TV shows and advertisements, Welch built her fame with sci-fi classics Fantastic Voyage and One Million Years B.C. and soared in blockbusters such as Bedazzled and The Three Musketeers . — Read the rest
+
+
+***
+![Saving with 6abc:How to lower the monthly cost of your internet service](https://cdn.abcotvs.com/dip/images/12820723_021523-wpvi-nydia-saving-with-6abc-iternet-costs-430pm-vid.jpg?w=1600 "Saving with 6abc:How to lower the monthly cost of your internet service")
+
+
+[Saving with 6abc:How to lower the monthly cost of your internet service](https://6abc.com/saving-with-6abc-internet-service-costs-monthly-bills-consumer-reports/12820469/)
+
+
+> PHILADELPHIA (WPVI) -- When was the last time you took a close look to see how much you're actually paying for your internet service? Consumer Reports wanted to know what people were paying, so it collected tens of thousands of bills. What it found might surprise you and get you to take action to save money. Consumer Reports spent more than eight months analyzing more than 22,000 internet bills submitted by people from all across the country. Amid lines of charges and fees, determining the true price of internet proved to be challenging.
+
+
+***
+![Prepare to catch'em all at Pokémon GO's enormous event in Last Vegas](https://npr.brightspotcdn.com/dims4/default/5945419/2147483647/strip/true/crop/1917x1006+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F02%2F15%2Fgo-tour-2023-key-art_wide-ff77a10ce6efc0baa322b368ef6170cae87fdb73.jpeg "Prepare to catch'em all at Pokémon GO's enormous event in Last Vegas")
+
+
+[Prepare to catch'em all at Pokémon GO's enormous event in Last Vegas](https://www.wuwm.com/arts-culture/2023-02-15/prepare-to-catchem-all-at-pokemon-gos-enormous-event-in-last-vegas)
+
+
+> Pokémon GO , likely the world's most recognizable augmented reality game , hosts a gigantic in-person event February 18-19 in Las Vegas. This "tour" celebrates Hoenn, the setting for the third generation of Pokémon games, Ruby and Sapphire. As with each of the game's previous tours, Pokémon GO Tour Hoenn focuses on a particular Pokémon, elemental type, or pop culture moment tied to the franchise. For this event, legendary powerhouses Kyogre and Groudon will have access to their Primal forms — a process that allows them to revert back to their original designs which feature flowing lava and brighter patterns on Groudon's arms and Kyogre's fins.
+
+
+***
+![For many older breast cancer patients, study finds radiation doesn't affect survival](https://www.statnews.com/wp-content/uploads/2023/02/AdobeStock_499001621-1024x576.jpeg "For many older breast cancer patients, study finds radiation doesn't affect survival")
+
+
+[For many older breast cancer patients, study finds radiation doesn't affect survival](https://www.statnews.com/2023/02/15/older-breast-cancer-patients-study-radiation-survival-rates/)
+
+
+> Radiation has long been a mainstay of breast treatment, and following surgery up with the therapy can reduce the risk of recurrence. The drawback of radiation, though, is a fistful of unpleasant potential side effects including pain, a slight risk of organ damage, a very small risk of secondary , and the time and money needed for the procedures. Now the results of a Phase 3 trial suggests that many older may not need radiation and can go without it after surgery without harming their overall survival.
+
+
+***
+![How to Install Steam on a Chromebook](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13NRuG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "How to Install Steam on a Chromebook")
+
+
+[How to Install Steam on a Chromebook](http://www.msn.com/en-us/news/technology/how-to-install-steam-on-a-chromebook/ar-AAVn5cc)
+
+
+> One of the biggest knocks against Chromebooks is that they're no good for gaming. There are Android games, but not all of them work. You can use a cloud gaming service such as Xbox Cloud Gaming and Nvidia GeForce Now, but that generally requires a subscription. But Google's been working on a bigger solution with help from game-maker Valve. Load Error In 2022, the two released an alpha version of Valve's Steam game store to try on Chromebooks through the ChromeOS Dev channel. It has now moved out of the instability of the Dev channel and into the ChromeOS Beta channel, with support for more devices, more games and an improved user experience.
+
+
+***
+![Easily chop your favorite foods with the SEID Japanese Master Chef Knife](https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/Seido.jpeg?fit=1200%2C800&ssl=1 "Easily chop your favorite foods with the SEID Japanese Master Chef Knife")
+
+
+[Easily chop your favorite foods with the SEID Japanese Master Chef Knife](https://boingboing.net/2023/02/15/easily-chop-your-favorite-foods-with-the-seid-japanese-master-chef-knife.html)
+
+
+> We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views. With the  price of food and eating out these days , it's becoming increasingly difficult to rationalize the money we're spending while eating out every night. Getting behind the burners (or  wherever you cook ) is the only way to keep your wallet full, which means it is time to spruce up your kitchen artillery.  Knives are easily one of the most important tools you can have in your kitchen.
+
+
