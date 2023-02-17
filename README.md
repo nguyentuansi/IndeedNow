@@ -40566,3 +40566,941 @@
 > Ebooks have come a long way in recent years and can now mimic the experience of reading a physical book in many ways. E-readers, or electronic readers, have become increasingly popular in recent years for reading books, magazines, and other forms of literature. They offer a number of benefits over traditional physical books, making them a better choice for many readers. One of the main advantages of e-readers is their portability. A typical e-reader is about the size of a small tablet and weighs only a few ounces, making it easy to carry around in a purse, backpack, or briefcase.
 
 
+***
+![The iOS 16.4 Update Improves Apps And Shortcuts](https://technology.inquirer.net/files/2023/02/iOS-16.4-featured-image-www.macrumors.com_-620x349.png "The iOS 16.4 Update Improves Apps And Shortcuts")
+
+
+[The iOS 16.4 Update Improves Apps And Shortcuts](https://technology.inquirer.net/121503/the-ios-16-4-update-improves-apps-and-shortcuts)
+
+
+> Apple just released the iOS 16.4 beta update. The beta version implies that it has limited upgrades, but they are more than enough! It lets you set notifications for website shortcuts to act more like apps. Moreover, it brings improvements to Apple TV and iMessage. Even better, the new iOS lets you express yourself further in DMs by providing new emojis. How iOS 16.4 web apps work Perhaps one of its most significant upgrades is enabling more web app features. In case you don't know, you could make home screen shortcuts for websites.
+
+
+***
+![Exclusive: Tencent scraps VR hardware plans as Metaverse bet falters](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/17005836/UNURYJJ3CJOZDPUTJFT6WSCGF4-800x419.jpg "Exclusive: Tencent scraps VR hardware plans as Metaverse bet falters")
+
+
+[Exclusive: Tencent scraps VR hardware plans as Metaverse bet falters](https://shepherdgazette.com/exclusive-tencent-scraps-vr-hardware-plans-as-metaverse-bet-falters/)
+
+
+> HONG KONG, Feb 17 (Reuters) – Tencent Holdings (0700.HK) is abandoning plans to venture into virtual reality hardware as a sobering economic outlook prompts the Chinese tech giant to scale back costs and headcount at its Metaverse unit to lower, as three sources are known to say the thing. The world's largest video game publisher had ambitious plans to build both virtual reality software and hardware in an 'extended reality' XR unit, which it launched last June and has hired nearly 300 people. It had developed a concept for a ring-shaped handheld game controller, but difficulties in achieving a quick return on investment and the large investments required to produce a competitive product were among the factors that led to a departure from this strategy, two of the sources called.
+
+
+***
+![Apple and Meta's cold war over privacy is coming to a head](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17zTl8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Apple and Meta's cold war over privacy is coming to a head")
+
+
+[Apple and Meta's cold war over privacy is coming to a head](http://www.msn.com/en-us/news/technology/apple-and-meta-s-cold-war-over-privacy-is-coming-to-a-head/ar-AA17BKAX)
+
+
+> Do you live with your parents, reader? I don't. I'm Diamond Naga Siu, and maybe I've made all the wrong life decisions. OpenAI's ChatGPT and similar AI tools may not replace jobs anytime soon. But they can help workers across many industries – from tech to media – do their jobs better and more quickly. "It's almost like a bit of a productivity boost that some of these occupations might get," Anu Madgavkar, a partner at economic research firm McKinsey Global Institute, told Insider. The buzzy conversational chatbot – which attracted one million users soon after its launch last November – has been used to generate real estate advice, provide tips on how to start a business, and even write music in the style of individual artists, all with varying levels of success.
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/homenewshere.com/content/tncms/assets/v3/editorial/0/a6/0a6593c4-c096-500c-9d15-5d0f5b46ff31/63ef2def69a36.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](http://homenewshere.com/online_features/tech_talk_and_innovation/article_4dd9f9f9-4cfd-5c52-9fee-243f8c9d8784.html)
+
+
+> (StatePoint) Smartphones are our lifeline – we use them to connect us to just about everything and everyone in our world. Americans check their phones an average of 344 times a day — once every four minutes — according to a 2022 Review.org survey . But when was the last time you upgraded your phone? If it's been more than two years, you may be missing out on some of the latest tech upgrades. Here are five must-have features to consider when shopping for a new smartphone: •  Battery Life: When it comes to battery life, you may not realize what you've been missing out on until you start using your new phone.
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/rheaheraldnews.com/content/tncms/assets/v3/editorial/3/8d/38d2eb52-2e6b-5f76-86e5-a5e4289c5544/63ef2dad31236.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](https://www.rheaheraldnews.com/online_features/tech_talk_and_innovation/article_1d87ae58-9dd7-53b0-bb17-96c1a17cd0c8.html)
+
+
+> No body in the article.
+
+
+***
+![Samsung Announces Global Availability of Galaxy S23 Smartphones](https://english.cdn.zeenews.com/sites/default/files/2023/02/17/1155597-untitled-design-2023-02-17t153710.086.jpg "Samsung Announces Global Availability of Galaxy S23 Smartphones")
+
+
+[Samsung Announces Global Availability of Galaxy S23 Smartphones](https://zeenews.india.com/technology/samsung-announces-global-availability-of-galaxy-s23-smartphones-2574377.html)
+
+
+> New Delhi:  Samsung Electronics on Friday announced the global availability of its industry-leading Galaxy S23 Series smartphones following impressive pre-order results. The Galaxy S23 Ultra, Galaxy S23+, and Galaxy S23 will be widely available through carriers and retailers and on Samsung's official website in four nature-inspired matte hues -- Phantom Black, Cream, Green, and Lavender. Moreover, the company said that this year, the pre-order results were even higher than those of the Galaxy S22 series, with 60 percent of consumers opting for the most premium Galaxy S23 Ultra.
+
+
+***
+![I bought the same outfits the mannequins were dressed in at Primark](https://iknowallnews.com/wp-content/uploads/2023/02/I-bought-the-same-outfits-the-mannequins-were-dressed-in-at-Primark-I-thought-theyx27d-be-hideous-but-I-was-surprised-The-Sun.jpg "I bought the same outfits the mannequins were dressed in at Primark")
+
+
+[I bought the same outfits the mannequins were dressed in at Primark](https://iknowallnews.com/fashion/i-bought-the-same-outfits-the-mannequins-were-dressed-in-at-primark-i-thought-theyd-be-hideous-but-i-was-surprised-the-sun/)
+
+
+> Home » Fashion » I bought the same outfits the mannequins were dressed in at Primark – I thought they'd be hideous but I was surprised | The Sun A PRIMARK fan decided to see if the outfits the mannequins wear actually look any good. Ann-Marie bought four different trendy looks from her local Primark store and the results shocked her. Posting the haul on YouTube, Ann-Marie explained she wanted to try on the exact same outfits as the mannequins because she thought no one would ever actually wear some of the looks.
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/thearabtribune.com/content/tncms/assets/v3/editorial/8/01/8013126a-9308-58b7-8a4c-6a18e2aa9b0a/63ef3d58aa5a2.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](http://www.thearabtribune.com/online_features/tech_talk_and_innovation/top-5-smartphone-features-you-can-t-live-without/image_8013126a-9308-58b7-8a4c-6a18e2aa9b0a.html)
+
+
+> No body in the article.
+
+
+***
+![BEL Inks Pact With Globals For Developing Cyberwarfare And Cyber Defence Systems](https://gumlet.assettype.com/swarajya%2F2021-09%2Fe9f1474a-77da-4b70-8a6e-4aa43e7d94bc%2FBEL.jpg?w=1200&auto=format%2Ccompress&ogImage=true "BEL Inks Pact With Globals For Developing Cyberwarfare And Cyber Defence Systems")
+
+
+[BEL Inks Pact With Globals For Developing Cyberwarfare And Cyber Defence Systems](https://swarajyamag.com/tech/bel-inks-pact-with-globals-for-developing-cyberwarfare-and-cyber-defence-systems)
+
+
+> Defence PSU Bharat Electronics Limited (BEL) and has signed an MoU with Globals ITES Private Ltd for co-operation in technology development, co-creation and co-innovation, joint marketing and sales, in the fields of cyberwarfare and cyber defence systems, the company said on Friday (17 February). The MoU was signed during the Aero India 2023, which is being held at Yelahanka Air Force Station in Bengaluru. The MoU aims at leveraging the complementary strengths and capabilities of BEL and Globals.
+
+
+***
+![Ghost of Our Love quest in Hogwarts Legacy locations](https://static-entertainment-eus-s-msn-com.akamaized.net/sc/c6/519670.jpg "Ghost of Our Love quest in Hogwarts Legacy locations")
+
+
+[Ghost of Our Love quest in Hogwarts Legacy locations](http://www.msn.com/en-nz/news/techandscience/ghost-of-our-love-quest-in-hogwarts-legacy-locations/ar-AA17Bj1H)
+
+
+> The house you choose in Hogwarts Legacy has an impact on your gameplay. Some quests are only available for certain houses, while others will have different paths. One of the side quests that are different based on your house in Hogwarts Legacy is Ghost of Our Love. Ghost of Our Love in Hogwarts Legacy is […] The post Ghost of Our Love quest in Hogwarts Legacy locations appeared first on WIN.gg. Like us on Facebook to see similar stories Please give an overall site rating:
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/stlamerican.com/content/tncms/assets/v3/editorial/9/79/9796cd39-721f-5d43-a755-b969829b63fe/63ef3d08c7f1d.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](http://www.stlamerican.com/online_features/tech_talk_and_innovation/top-5-smartphone-features-you-can-t-live-without/article_cafc8071-71b8-5b00-94b5-5b80c8cfb2b3.html)
+
+
+> (StatePoint) Smartphones are our lifeline – we use them to connect us to just about everything and everyone in our world. Americans check their phones an average of 344 times a day — once every four minutes — according to a 2022 Review.org survey . But when was the last time you upgraded your phone? If it's been more than two years, you may be missing out on some of the latest tech upgrades. Here are five must-have features to consider when shopping for a new smartphone: •  Battery Life: When it comes to battery life, you may not realize what you've been missing out on until you start using your new phone.
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/shipnc.com/content/tncms/assets/v3/editorial/7/26/726b91ce-b812-5930-89fb-ff5b203f884f/63ef2fb965214.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](https://www.shipnc.com/online_features/tech_talk_and_innovation/article_c74a6eeb-3be8-53c2-991f-c7d355cda921.html)
+
+
+> (StatePoint) Smartphones are our lifeline – we use them to connect us to just about everything and everyone in our world. Americans check their phones an average of 344 times a day — once every four minutes — according to a 2022 Review.org survey . But when was the last time you upgraded your phone? If it's been more than two years, you may be missing out on some of the latest tech upgrades. Here are five must-have features to consider when shopping for a new smartphone: •  Battery Life: When it comes to battery life, you may not realize what you've been missing out on until you start using your new phone.
+
+
+***
+![Techcombank triển khai gói 30.000 tỷ ưu đãi lãi suất 2% cho doanh nghiệp](https://cafefcdn.com/zoom/600_315/pr/2023/photo1676620534798-1676620534927793020674-63812249939417.jpg "Techcombank triển khai gói 30.000 tỷ ưu đãi lãi suất 2% cho doanh nghiệp")
+
+
+[Techcombank triển khai gói 30.000 tỷ ưu đãi lãi suất 2% cho doanh nghiệp](https://cafef.vn/techcombank-trien-khai-goi-30000-ty-uu-dai-lai-suat-2-cho-doanh-nghiep-20230217165859281.chn)
+
+
+> Vượt thách thức cùng doanh nghiệp Trong tháng đầu tiên của năm 2023, ​​lĩnh vực sản xuất tại Việt Nam vẫn phải đối mặt với tình hình kinh tế khó khăn. Mặc dù PMI tháng 1 đạt 47.4 - tăng nhẹ so với 46.4 của tháng 12 năm ngoái - nhưng đây vẫn là tháng thứ 3 liên tiếp PMI dưới mốc 50. Đáng chú ý, kể từ năm 2014, đây là lần thứ ba PMI sản xuất của Việt Nam xuống dưới 50 trong 3 tháng liên tiếp. Theo S&P Global, tình trạng sản xuất, số lượng đơn đặt hàng mới và nhân viên tiếp tục giảm, trong khi ở khía cạnh tích cực, các đơn hàng xuất khẩu mới đã dần dần quay trở lại sau ba tháng.
+
+
+***
+![Hackers Earn $180,000 for ICS Exploits at Pwn2Own Miami 2023](https://www.securityweek.com/wp-content/uploads/2023/02/ICS_Pwn2Own-1024x576.jpg "Hackers Earn $180,000 for ICS Exploits at Pwn2Own Miami 2023")
+
+
+[Hackers Earn $180,000 for ICS Exploits at Pwn2Own Miami 2023](https://www.securityweek.com/hackers-earn-180000-for-ics-exploits-at-pwn2own-miami-2023/)
+
+
+> White hat hackers received a total of $180,000 at the Pwn2Own Miami 2023 hacking contest this week for exploits targeting widely used industrial control system (ICS) products. At the ICS edition of Pwn2Own , hackers have been invited to demonstrate exploits against OPC UA, data gateway and edge products made by Aveva, Inductive Automation, ProSys, PTC, Softing Industrial Automation, Triangle MicroWorks, and Unified Automation. Prizes ranged between $5,000 and $40,000 per exploit chain, but none of the participants has earned more than $20,000 for a single exploit.
+
+
+***
+[Israel Buy Now Pay Later Market Report 2023: BNPL Payments are Expected to Grow by 55% to Reach $1,090.7 Million in 2023](http://www.businesswire.com/news/home/20230217005177/en/Israel-Buy-Now-Pay-Later-Market-Report-2023-BNPL-Payments-are-Expected-to-Grow-by-55-to-Reach-1090.7-Million-in-2023---Forecasts-to-2028-Featurng-Splitit-Jifiti-Sunbit-Charge-After-Fundbox---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Israel Buy Now Pay Later Business and Investment Opportunities Databook - 75+ KPIs on BNPL Market Size, End-Use Sectors, Market Share, Product Analysis, Business Model, Demographics - Q1 2023 Update" report has been added to ResearchAndMarkets.com's offering. BNPL payments in the country are expected to grow by 55.0% on an annual basis to reach US$1,090.7 million in 2023. The BNPL payment industry in Israel has recorded strong growth over the last four quarters, su
+
+
+***
+[Indonesia Buy Now Pay Later Market Report 2023: A $7.74 Billion Market by 2028 Featuring Kredivo, Atome, Akulaku, Splitit, Shopee, Home Credit, GoJek PayLater, Indodana PayLater, AfterPay, GoPayLater](http://www.businesswire.com/news/home/20230217005176/en/Indonesia-Buy-Now-Pay-Later-Market-Report-2023-A-7.74-Billion-Market-by-2028-Featuring-Kredivo-Atome-Akulaku-Splitit-Shopee-Home-Credit-GoJek-PayLater-Indodana-PayLater-AfterPay-GoPayLater---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Indonesia Buy Now Pay Later Business and Investment Opportunities Databook - 75+ KPIs on BNPL Market Size, End-Use Sectors, Market Share, Product Analysis, Business Model, Demographics - Q1 2023 Update" report has been added to ResearchAndMarkets.com's offering. BNPL payments are expected to grow by 22.9% on an annual basis to reach US$4,282.3 million in 2023. The BNPL payment industry in Indonesia has recorded strong growth over the last four quarters, supported b
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/fontanaheraldnews.com/content/tncms/assets/v3/editorial/b/6e/b6eb9495-64bb-5ee5-b7d7-19a20f4fc0dc/63ef3c135ff85.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](https://www.fontanaheraldnews.com/online_features/tech_talk_and_innovation/top-5-smartphone-features-you-can-t-live-without/article_1e44aa7a-5fe0-5973-a6cf-67757c3976b8.html)
+
+
+> (StatePoint) Smartphones are our lifeline – we use them to connect us to just about everything and everyone in our world. Americans check their phones an average of 344 times a day — once every four minutes — according to a 2022 Review.org survey . But when was the last time you upgraded your phone? If it's been more than two years, you may be missing out on some of the latest tech upgrades. Here are five must-have features to consider when shopping for a new smartphone: •  Battery Life: When it comes to battery life, you may not realize what you've been missing out on until you start using your new phone.
+
+
+***
+![曲靖同城上门服务微信,300万人参与网络投票近六成支持双长假方案](https://img.qianlong.com/ql2019/share/img/qllogo.jpg "曲靖同城上门服务微信,300万人参与网络投票近六成支持双长假方案")
+
+
+[曲靖同城上门服务微信,300万人参与网络投票近六成支持双长假方案](https://tech.qianlong.com/2023/0215/879061539.shtml)
+
+
+> '魍魉白了魑鬼一眼，提醒地说：'我们还没碰上南越山庄的庄主南宫越，那个人的武功不在你我之下，最好小心。西门龙霆深沉地盯着她：'你认得出他是男主？'曲靖同城上门服务微信顿时院子里多了几个很喜感的雪娃娃。他们已经在北戴河的影视基地将其抓获。 曲靖同城上门服务微信我没有理会苗大志，而是看了看鬼道人，又看了看一旁的迪塞尔。至少也不想站在高小冬的对立面。同城送猫好还是上门好 随后用力一扯，强行将自己拽了过去。自从&span css=&ot;ntext_kw9&ot;>&/span>&span css=&ot;ntext_kw1&ot;>&/span>次&span css=&ot;ntext_kw2&ot;>&/span>鬼压床事件后&span css=&ot;ntext_kw0&ot;>&/span>李青原对&span css=&ot;ntext_kw18&ot;>&/span>&span css=&ot;ntext_kw10&ot;>&/span>&span css=&ot;ntext_kw13&ot;>&/span>佩服&span css=&ot;ntext_kw2&ot;>&/span
+
+
+***
+![同城上门采购电话,国开行成功发行首期铁路信贷资产支持证券](https://img.qianlong.com/ql2019/share/img/qllogo.jpg "同城上门采购电话,国开行成功发行首期铁路信贷资产支持证券")
+
+
+[同城上门采购电话,国开行成功发行首期铁路信贷资产支持证券](https://tech.qianlong.com/2023/0215/879055087.shtml)
+
+
+> 根本不听钟暮山的指挥，就像是脱了缰绳的野马，在房间里肆意地奔跑。只怕有朝日老夫不在。同城上门采购电话爵士的攻击虽然有些力道但充其量不过2t上下，简直不疼不痒。段燕忍不住的闭上了眼睛，以免被那强烈的光芒闪到眼睛， 同城上门采购电话将上面的眼泪轻轻拭去。'唔，对了，艾莎小姐你的高跟鞋声音有点吵，能不能麻烦你，走路的时候脚步放轻一些呢？'同城上门剪发杭州 这时，一个人匆匆跑了过来，道：'大掌柜，魔鬼城来了三个硬茬，给我们上供的那一支摸金手全被人废了。'湾湾依旧逃不过被欺负的命运。常熟同城异性上门 然而下一瞬，他的意识就被一股无法抗拒的力量直接绞碎。 有些不知道应该说什么。''迦尔纳停顿了一下, 说道, '御主, 很抱歉, 我听不懂兽语。'身材魁梧，一头白发，魔气凛然，不是孔璘是谁？常熟同城异性上门自从&span css=&ot;ntext_kw9&ot;>&/span>&span css=&ot;ntext_kw1&ot;>&/span>次&span css=&ot;ntext_kw2&ot;>&/span>鬼压床事件后&span css=&ot;ntext_kw0&ot;>&/sp
+
+
+***
+![女生单身加微信,民警爱心接力开启7岁白血病男童希望之门(图)](https://img.qianlong.com/ql2019/share/img/qllogo.jpg "女生单身加微信,民警爱心接力开启7岁白血病男童希望之门(图)")
+
+
+[女生单身加微信,民警爱心接力开启7岁白血病男童希望之门(图)](https://tech.qianlong.com/2023/0215/879062717.shtml)
+
+
+> 没人乐意在这个时候挑起欧罗巴各神系之间的内战。。常乐也是双眸微眯的看着大殿中央的张赤和岳仇二人。女生单身加微信王轩心底思索间，不知不觉已到了山谷的入口。'当然，我们并不会坐等时机，饿鬼冲击幕府，一方面削弱幕府的防线，消耗其力量。' 女生单身加微信这次大显身手的正是此刻坐在我旁边趾高气扬翘着下巴用餐的铂金小少爷。。这个让自己刻骨铭心的女子。单身微信昵称女生 波斯萨珊王朝比奥斯曼土耳其帝国还腐朽落后，所以对奥斯曼土耳其帝国的军事威胁极其低下。'要是你爸爸出了一点事儿，我绝不离开你。'她说。单身女生微信名字 钟暮山走到了爷爷的房间。 他不是怕自己的父亲。这些雕像哥哥都有三四米高。虽然后来兰斯洛顾虑名誉勉强交还了格妮薇儿。单身女生微信名字&span css=&ot;ntext_kw16&ot;>&/span>&span css=&ot;ntext_kw13&ot;>&/span>&span css=&ot;ntext_kw12&ot;>&/span>为每&span css=&ot;ntext_kw7&ot;>&/span>点&span css=&ot;ntext_kw5&ot;>&/s
+
+
+***
+![同城修理工上门,叙总统会见伊朗议员称叙不惧任何外部侵略(图)](https://img.qianlong.com/ql2019/share/img/qllogo.jpg "同城修理工上门,叙总统会见伊朗议员称叙不惧任何外部侵略(图)")
+
+
+[同城修理工上门,叙总统会见伊朗议员称叙不惧任何外部侵略(图)](https://tech.qianlong.com/2023/0215/879057479.shtml)
+
+
+> 而高陵那边的情况，只怕也并不会比这里好太多。病房里凤祥霖和陆展鹏商量完两家之间瞒着当事人的事后便接着开始商量怎么救陆岐山。同城修理工上门已经不能令他产生惊艳的感觉。要用刀架着小弟，刀剑无眼呀，大哥！！！！！！！。 同城修理工上门叶凡暗中翘起了大拇指。猛然的睁眼，难以置信的望着眼前的人。常熟市同城上门 '你今天怎么突然这样了？'夏尔虽然心虚。第五百五十六章 回北汉同城怎么上门修手机 '你们是什么人？' 请记住本书首发域名：.。笔趣阁手机版更新最快网址：m.接下来要如何弥补？思量间。那肯定会作为移民的行政星存在。同城怎么上门修手机&span css=&ot;ntext_kw16&ot;>&/span>&span css=&ot;ntext_kw13&ot;>&/span>&span css=&ot;ntext_kw12&ot;>&/span>为每&span css=&ot;ntext_kw7&ot;>&/span>点&span css=&ot;ntext_kw5&ot;>&/span>&span css=&ot;ntext_kw2&ot;>&/span>碗拉面&span css=&
+
+
+***
+![单身70后女生微信群,巴西圣保罗城铁列车相撞33人受伤事故原因不明](https://img.qianlong.com/ql2019/share/img/qllogo.jpg "单身70后女生微信群,巴西圣保罗城铁列车相撞33人受伤事故原因不明")
+
+
+[单身70后女生微信群,巴西圣保罗城铁列车相撞33人受伤事故原因不明](https://tech.qianlong.com/2023/0215/879063551.shtml)
+
+
+> 门派里边如今就只剩下糯米一个副掌教在。明楠星看着桌子上面的菜。单身70后女生微信群'好，到时候电话联系吧，回头见。'艾玛跟高小冬摆摆手，迈着轻盈的步子离开了。角罗的熔岩剑法更是猛烈急攻。 单身70后女生微信群被他抱住的那一刻，我的身体略微一僵。眼睛直勾勾的望着台上的那个男模。单身微信签名大全女生霸气 一声惊喜的叫声：'啊。自从&span css=&ot;ntext_kw9&ot;>&/span>&span css=&ot;ntext_kw1&ot;>&/span>次&span css=&ot;ntext_kw2&ot;>&/span>鬼压床事件后&span css=&ot;ntext_kw0&ot;>&/span>李青原对&span css=&ot;ntext_kw18&ot;>&/span>&span css=&ot;ntext_kw10&ot;>&/span>&span css=&ot;ntext_kw13&ot;>&/span>佩服&span css=&ot;ntext_kw2&ot;>&/span>那&span css=&ot;ntext_kw5&ot;>&/span>五体
+
+
+***
+![Super Smash Bros. Ultimate Tourney Event for February 17th, 2023](https://gonintendo.com/attachments/image/23444/file/medium-737e68c11dd08753a8b1eefd04ff9201.jpg "Super Smash Bros. Ultimate Tourney Event for February 17th, 2023")
+
+
+[Super Smash Bros. Ultimate Tourney Event for February 17th, 2023](https://gonintendo.com/contents/16403-super-smash-bros-ultimate-tourney-event-for-february-17th-2023)
+
+
+> The 33rd Tourney Event re-run is here; these events are weekly events that started all the way back when the game was first launched, and in November 2021, Nintendo announced that new weekly events would end, and starting from November 19th, 2021; they will start a re-run of past events. Today's event details are shown below via Perfectly-Nintendo . The 33rd Tourney Event re-run is Fungi Fever!. This one features 3 types of mushrooms (available until February 20th) modal#open commentUpvoteInfoModal.
+
+
+***
+![Voting is now open for Rhapsody: Marl Kingdom Chronicles double-sided poster designs](https://gonintendo.com/attachments/image/23438/file/medium-30c95cc017f019a415246bb0f865eb87.jpg "Voting is now open for Rhapsody: Marl Kingdom Chronicles double-sided poster designs")
+
+
+[Voting is now open for Rhapsody: Marl Kingdom Chronicles double-sided poster designs](https://gonintendo.com/contents/16402-voting-is-now-open-for-rhapsody-marl-kingdom-chronicles-double-sided-poster-designs)
+
+
+> NIS America is giving fans the opportunity to have a say in the design of the double-sided poster for Rhapsody: Marl Kingdom Chronicles. You can vote for two posters, with one being for Rhapsody II and the other for Rhapsody III; you can check the posters above. The winning designs will be printed on the double-sided poster that comes with the game. Voting is open until March 1st, 2023; you can cast your vote here . Rhapsody: Marl Kingdom Chronicles is set to launch this summer for the Nintendo Switch.
+
+
+***
+![Data Security Startup CommandK Raises $3 Million in Seed Funding](https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg "Data Security Startup CommandK Raises $3 Million in Seed Funding")
+
+
+[Data Security Startup CommandK Raises $3 Million in Seed Funding](https://www.securityweek.com/data-security-startup-commandk-raises-3-million-in-seed-funding/)
+
+
+> Early-stage cybersecurity startup CommandK has raised $3 million in seed funding for a solution designed to help organizations protect their sensitive data.  The investment round was led by Lightspeed and received additional participation from various angel investors. Founded in 2022, the San Francisco, California-based company provides organizations with an all-in-one sensitive data manager that can help them build secure applications with few changes to existing infrastructure. A combination of software development kits and APIs and currently in private beta, the solution scans the tools organizations use to identify and help remediate any data leaks, helping organizations remain compliant with existing policies and regulations.
+
+
+***
+![Norway: TechnipFMC awarded significant subsea project by Equinor for the Verdande field](https://images.energy365dino.co.uk/standard/203336_8d0eb6a6b0584678b12d.jpg "Norway: TechnipFMC awarded significant subsea project by Equinor for the Verdande field")
+
+
+[Norway: TechnipFMC awarded significant subsea project by Equinor for the Verdande field](https://www.energy-pedia.com/news/norway/technipfmc-awarded-significant-subsea-project-by-equinor-for-the-verdande-field-190588)
+
+
+> TechnipFMC has been awarded a signifcant (1) contract for the subsea production system for Equinor's Verdande project on the Norwegian Continetal Shelf. The contract – awarded under TechnipFMC's framework agreement with Equinor – covers the complete subsea production system including subsea trees and structures, control systems, connections, tooling, and installation support. Jonathan Landes, President, Subsea at TechnipFMC, commented: 'This latest contract highlights the close relationship we have with Equinor under the framework agreement.
+
+
+***
+![Vodafone Ghana Introduces Shortcode To Help Customers Manage Content Subscriptions](https://w5p2r8x5.stackpathcdn.com/photos/news/202301/777721576_887052.jpg "Vodafone Ghana Introduces Shortcode To Help Customers Manage Content Subscriptions")
+
+
+[Vodafone Ghana Introduces Shortcode To Help Customers Manage Content Subscriptions](https://www.peacefmonline.com/pages/local/tech/202302/483316.php)
+
+
+> Vodafone Ghana has launched a subscription management portal to help its customers easily view and manage their subscriptions to value-added services (VAS). Customers can access this portal by dialling *463# or visiting the Value-Added Service section of the My Vodafone App. This latest development is part of Vodafone Ghana's ongoing efforts to enhance customer experience.David Umoh, the Consumer Business Unit Director at Vodafone Ghana, said, 'We are committed to delivering exceptional solutions to our customers, and the introduction of this portal is one of the many ways we are fulfilling that promise.
+
+
+***
+![Norway: TechnipFMC awarded significant subsea contract for Equinor's Irpa development](https://www.energy-pedia.com/favicon.png "Norway: TechnipFMC awarded significant subsea contract for Equinor's Irpa development")
+
+
+[Norway: TechnipFMC awarded significant subsea contract for Equinor's Irpa development](https://www.energy-pedia.com/news/norway/technipfmc-awarded-significant-subsea-contract-for-equinor%E2%80%99s-irpa-development-190589)
+
+
+> TechnipFMC has been awarded a significant(1) contract for subsea production systems by Equinor for its Irpa oil and gas development on the Norwegian Continental Shelf. Awarded under the companies' framework agreement, the contract covers the supply and installation of subsea trees, control systems, structures, and connections, as well as tooling. Jonathan Landes, President, Subsea at TechnipFMC, commented: 'This project will utilize our standardized production system, which was designed to meet the specific demands of the Norwegian Continental Shelf.
+
+
+***
+[Largo to Release Fourth Quarter and Annual 2022 Financial Results on March 9, 2023](http://www.businesswire.com/news/home/20230217005060/en/Largo-to-Release-Fourth-Quarter-and-Annual-2022-Financial-Results-on-March-9-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TORONTO--(BUSINESS WIRE)---- $LGO #cleanenergy--Largo to Release Fourth Quarter and Annual 2022 Financial Results on March 9, 2023
+
+
+***
+![The Feds Are Launching a Hack Back Squad](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7e99c29803654fad71507b18bcb8c34e.jpg "The Feds Are Launching a Hack Back Squad")
+
+
+[The Feds Are Launching a Hack Back Squad](https://gizmodo.com/hack-disruptive-technology-strike-force-justice-dept-1850123260)
+
+
+> The U.S. says it's punching back in the digital cold war over emerging technologies with a new 'Disruptive Technology Strike Force.' 'Our goal is simple but essential—to strike back against adversaries trying to siphon off our best technology,' a deputy attorney general said. The strike force , a joint initiative created by the Department of Justice and the Commerce Department reportedly, will focus on combating 'adversaries' attempting to steal crucial U.S. tech secrets and attack supply chains.
+
+
+***
+![One.network to provide work zone data to truckers via Drivewyze](https://www.traffictechnologytoday.com/wp-content/uploads/2023/02/large-WorkZone-Generic-Device74-copy.jpeg "One.network to provide work zone data to truckers via Drivewyze")
+
+
+[One.network to provide work zone data to truckers via Drivewyze](https://www.traffictechnologytoday.com/news/connected-vehicles-infrastructure/one-network-to-provide-work-zone-data-to-truckers-via-drivewyze.html)
+
+
+> One.network has announced it is partnering with Drivewyze to provide work zone and lane closure information to truckers via in-cab alerts, thereby improving road safety. One.network's platform will now provide drivers with a 'heads up' to upcoming lane closures and work zones allowing time to slow down or take an alternative route. With this platform, state transportation agencies can also manage their work zone and lane closure information directly through one.network's Live Link application. ') } else { console.
+
+
+***
+[Human Resource Technology Global Market Report 2023: Aging Conventional Resources Drive Adoption](http://www.businesswire.com/news/home/20230217005150/en/Human-Resource-Technology-Global-Market-Report-2023-Aging-Conventional-Resources-Drive-Adoption---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Human Resource Technology Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023-2028" report has been added to ResearchAndMarkets.com's offering. The global human resource (HR) technology market size reached US$ 31.5 Billion in 2022. Looking forward, the publisher expects the market to reach US$ 53.3 Billion by 2028, exhibiting a CAGR of 9.16% during 2022-2028. Human resource technology is a significant part of the human resource indust
+
+
+***
+![One-stop shop for shipments data](https://d245ovzhixo1a2.cloudfront.net/Pictures/1024x536/3/9/8/272398_gdcfullscreenshot20230208153958_994866_crop.jpg "One-stop shop for shipments data")
+
+
+[One-stop shop for shipments data](https://www.portstrategy.com/technology/one-stop-shop-for-shipments-data/1480994.article)
+
+
+> Want to read more before deciding on a  subscription ? It only takes a minute to sign up for a free account and you'll get to enjoy: Weekly newsletters providing valuable news and information on the ports and terminals sector Full access to our news archive Live and archived webinars, podcasts and videos Articles on innovations and current trends in the ports and terminals industry Our extensive archive of data, research and intelligence Get more free content  sign up today
+
+
+***
+[Philippines Data Center Market Investment Report 2023-2028: Opportunities in IT, Electrical, Mechanical Infrastructure, General Construction, and Tier Standards](http://www.businesswire.com/news/home/20230217005159/en/Philippines-Data-Center-Market-Investment-Report-2023-2028-Opportunities-in-IT-Electrical-Mechanical-Infrastructure-General-Construction-and-Tier-Standards---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Philippines Data Center Market - Investment Analysis & Growth Opportunities 2023-2028" report has been added to ResearchAndMarkets.com's offering. The Philippines data center market size is projected to witness investments of USD 1,016 million by 2028, growing at a CAGR of 11.01% from 2022-2028 This report analyses the Philippines data center market share. It elaboratively analyses the existing and upcoming facilities and investments in IT, electrical, mechanic
+
+
+***
+[Hybrid Fiber Optic Connectors Market Size, Trends &amp; Analysis Report 2023: A Global $1.4 Billion Market by 2030](http://www.businesswire.com/news/home/20230217005155/en/Hybrid-Fiber-Optic-Connectors-Market-Size-Trends-Analysis-Report-2023-A-Global-1.4-Billion-Market-by-2030---Growing-Demand-for-a-Safer-Spark-free-Medium-for-Implementation-in-Hazardous-Areas---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Hybrid Fiber Optic Connectors Market Size, Share & Trends Analysis Report By Application (Telecom, Oil & Gas, Military & Aerospace), By Region (North America, Europe), And Segment Forecasts, 2023 - 2030" report has been added to ResearchAndMarkets.com's offering The global hybrid fiber optic connectors market size is expected to reach USD 1,400.3 million by 2030. The market is anticipated to expand at a CAGR of 6.8% from 2023 to 2030. The growing demand
+
+
+***
+[Diagnostix Expands into Motorsports with Revolutionary Biometric Measurement Device for Performance Analytics](http://www.businesswire.com/news/home/20230217005111/en/Diagnostix-Expands-into-Motorsports-with-Revolutionary-Biometric-Measurement-Device-for-Performance-Analytics/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--Diagnostix, a medtech company specializing in AI-powered radiology imaging for hospitals, is now expanding its reach into the world of motorsports and Formula One racing. The company has developed a biometric measurement device for performance analytics, which provides real-time data on the physical and mental state of drivers during races. The founders of Diagnostix, Giuliano Senese and Peter Velthuis, bring a wealth of experience to the table. Both have extensive tr
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/floydct.com/content/tncms/assets/v3/editorial/d/c6/dc6c0d7f-a3c5-5474-a5a3-e2aeb65c5b06/63ef2e1419fb1.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](https://www.floydct.com/online_features/tech_talk_and_innovation/top-5-smartphone-features-you-can-t-live-without/article_da81dbe1-82e8-5dac-a72f-952a13adb890.html)
+
+
+> No body in the article.
+
+
+***
+![Mastercard Trust Centre partners with Nigerian fintech startup NowNow to improve cybersecurity for SMEs](https://africabusinesscommunities.com//Images/Key Logos/MasterCard logo.jpg "Mastercard Trust Centre partners with Nigerian fintech startup NowNow to improve cybersecurity for SMEs")
+
+
+[Mastercard Trust Centre partners with Nigerian fintech startup NowNow to improve cybersecurity for SMEs](https://africabusinesscommunities.com/tech/tech-news/mastercard-trust-centre-partners-with-nigerian-fintech-startup-nownow-to-improve-cybersecurity-for-smes)
+
+
+> Mastercard has partnered with Nigerian digital payment startup NowNow, to help SMEs reduce the risk of cyberattacks. There has been a significant increase in cybercrime in recent years. According to the Nigerian Communications Commission, Nigeria loses an estimated USD500, 000, 000 (Five Hundred Million United States Dollars) yearly due to cybercrime. SMEs are a huge target for cybercriminals as they typically do not have the resources to defend themselves or to act accordingly once they have been breached.
+
+
+***
+![ETH/USD Technical Analysis](https://images.forexlive.com/images/Ethereum%20technical%20analysis_id_0261dfe6-0b7f-4004-9de6-2b94e4c29cc2_size900.jpg?v=1676635489927 "ETH/USD Technical Analysis")
+
+
+[ETH/USD Technical Analysis](https://www.forexlive.com/technical-analysis/ethusd-technical-analysis-20230217/)
+
+
+> Textbook divergence trading and king's crown pattern setup for ETH/USD. On the daily chart below, we can see that the price has failed at the resistance at 1681 as Fed's Bullard (hawkish, non-voter) signalled a possible 50 bps at the March meeting and a higher terminal rate needed than the one projected in December 2022. We can also see that the price has been diverging with the RSI at the resistance, so the momentum was not there and since the fundamentals are now against further upside, it's unlikely to see higher highs.
+
+
+***
+[Global Superconductor Market Report 2023-2027: Market is Poised to Grow by $4,4472 Million](http://www.businesswire.com/news/home/20230217005152/en/Global-Superconductor-Market-Report-2023-2027-Market-is-Poised-to-Grow-by-44472-Million---Increased-Adoption-of-Maglev-Trains-and-Development-of-Smart-Grids-Bolsters-Growth---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Global Superconductor Market 2023-2027" report has been added to ResearchAndMarkets.com's offering. The superconductor market is forecasted to grow by $4472.26 mn during 2022-2027, accelerating at a CAGR of 8.7% The market is driven by the development of smart grids, increased adoption of maglev trains, and increased adoption of superconductor devices in medical applications. This study identifies the emergence of SMEs systems as one of the prime reasons driving th
+
+
+***
+![Relax, those objects in the sky are probably just from one of the 90 countries and 10,000 companies that make up the nearly $1 trillion space economy](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17BsCc.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Relax, those objects in the sky are probably just from one of the 90 countries and 10,000 companies that make up the nearly $1 trillion space economy")
+
+
+[Relax, those objects in the sky are probably just from one of the 90 countries and 10,000 companies that make up the nearly $1 trillion space economy](http://www.msn.com/en-us/news/technology/relax-those-objects-in-the-sky-are-probably-just-from-one-of-the-90-countries-and-10-000-companies-that-make-up-the-nearly-1-trillion-space-economy/ar-AA17BwMu)
+
+
+> It's not impossible that the three objects the US shot down last weekend have ties to aliens. But it's much more likely they're simply connected to the growing space economy. Load Error Over the weekend, the US shot down three unidentified objects over Alaska, Canada, and Lake Huron. On Tuesday, White House National Security Council spokesman John Kirby said there's no evidence any of them were connected to Chinese intelligence collection, unlike the spy balloon shot down earlier this month. Though the government has yet to analyze the wreckage, Kirby said a "leading explanation" in the US intelligence community is that the objects "could be balloons that were simply tied to commercial or research entities and therefore benign," comments President Biden echoed Thursday.
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/chathamstartribune.com/content/tncms/assets/v3/editorial/d/99/d9985347-c154-5854-972d-0a55f3a8b137/63ef2d9c2089f.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](https://www.chathamstartribune.com/online_features/tech_talk_and_innovation/article_d7d7b518-9885-5766-829d-aa58d07ae1a5.html)
+
+
+> (StatePoint) Smartphones are our lifeline – we use them to connect us to just about everything and everyone in our world. Americans check their phones an average of 344 times a day — once every four minutes — according to a 2022 Review.org survey . But when was the last time you upgraded your phone? If it's been more than two years, you may be missing out on some of the latest tech upgrades. Here are five must-have features to consider when shopping for a new smartphone: •  Battery Life: When it comes to battery life, you may not realize what you've been missing out on until you start using your new phone.
+
+
+***
+![Gigantosaurus Dino Kart races onto the Nintendo Switch today](https://gonintendo.com/attachments/image/23433/file/medium-68f05dad759d82ac26faa69a0bded857.jpg "Gigantosaurus Dino Kart races onto the Nintendo Switch today")
+
+
+[Gigantosaurus Dino Kart races onto the Nintendo Switch today](https://gonintendo.com/contents/16399-gigantosaurus-dino-kart-races-onto-the-nintendo-switch-today)
+
+
+> Bandai Namco's latest racing game, Gigantosaurus Dino Kart, has just been released for the Nintendo Switch, priced at $39.99. A launch trailer was shared to celebrate the game's release. A physical version of the game is also available for purchase . About the game: Race around Cretacia as your favorite dino in a prehistoric kart championship almost as big as Gigantosaurus's appetite! Race around Cretacia in a prehistoric kart championship for up to 4 players of all ages, where you can play as your favorite dino friends and even bump into the mysterious Gigantosaurus himself! This racing adventure is full of awesome obstacles and power-ups found only in the world of dinosaurs.
+
+
+***
+![£5million drugs death innovation challenge](https://www.prolificnorth.co.uk/sites/default/files/styles/hero/public/images/news/drugsenvato.jpg?itok=LDXWYgTF "£5million drugs death innovation challenge")
+
+
+[£5million drugs death innovation challenge](https://www.prolificnorth.co.uk/news/tech-news/2023/02/ps5million-drugs-death-innovation-challenge)
+
+
+> Innovative healthcare companies in Lancashire and South Cumbria are being urged to take part in a new initiative to cut drug deaths. The Reducing Drug Deaths Innovation Challenge is a £5m fund focused on using digital, tech and innovation to prevent fatal drug overdoses. The Addiction Healthcare Mission, led by the UK government Office for Life Sciences and the Scottish Health Industry hip, is funding the challenge. Applicants can secure up to £100k of funding to develop a product prototype, which if successful could lead to a further £500k for product demonstration and patient testing.
+
+
+***
+![Toyota bZ4X Price Cut By More Than $4,000 In China To Boost Sales](https://cdn.motor1.com/images/mgl/6ZpnyE/s1/2023-toyota-bz4x-limited-awd-in-supersonic-red-paint-front-three-quarter-view.jpg "Toyota bZ4X Price Cut By More Than $4,000 In China To Boost Sales")
+
+
+[Toyota bZ4X Price Cut By More Than $4,000 In China To Boost Sales](https://insideevs.com/news/652976/toyota-bz4x-price-cut-by-more-than-4000-usd-in-china-to-boost-sales/)
+
+
+> Toyota is the latest automaker to drop prices by a significant amount on its electric vehicles in China, after Tesla started this trend early in the year. The Japanese automaker has reduced the price of its bZ4X electric SUV in China by 30,000 RMB, which amounts to approximately $4,350 at the current exchange rate.  After the 15 percent price cut, the Toyota bZ4X now starts at 169,800 RMB ($24,660), making it way more affordable than in the US, where it carries a $42,000 starting MSRP . The price reduction has been operated simultaneously by the two joint ventures that sell the Toyota bZ4X – FAW-Toyota and GAC-Toyota.
+
+
+***
+![Tourism fairs and BPVNY aperitifs in Lyon and Paris in March 2023](https://www.bons-plans-voyage-new-york.com/wordpress/wp-content/uploads/2023/02/salon-tourisme-voyage-en-francais-6.jpg "Tourism fairs and BPVNY aperitifs in Lyon and Paris in March 2023")
+
+
+[Tourism fairs and BPVNY aperitifs in Lyon and Paris in March 2023](https://www.world-today-news.com/tourism-fairs-and-bpvny-aperitifs-in-lyon-and-paris-in-march-2023/)
+
+
+> Next March, I will be taking part with my team in the Lyon and Paris tourism fairs, respectively called Salon Mahana et World Tourism Fair for the 7th year in a row. In Lyon, I will be there with Marlène, commercial director of Voyage en français, then in Paris, I will be there with Marlène, but also Steph and Mika, that is to say part of the blogging team. And like every year, we will have a BPVNY aperitif in Lyon and a BPVNY aperitif in Paris. Where to find us in the living room? In Lyon, we will be at the US Tourist Office stand.
+
+
+***
+![Action-platformer 'Rooftop Renegade' out now on Switch](https://gonintendo.com/attachments/image/23432/file/medium-6bf7fb7cba5e1132023fac4f5f2c201e.png "Action-platformer 'Rooftop Renegade' out now on Switch")
+
+
+[Action-platformer 'Rooftop Renegade' out now on Switch](https://gonintendo.com/contents/16398-action-platformer-rooftop-renegade-out-now-on-switch)
+
+
+> Melonhead Games's fast-paced platforming, Rooftop Renegade, is now available for the Nintendo Switch, priced at $17.99. ROOFTOP RENEGADE is an action-platformer all about speed & flow. Evade capture through futuristic skyscrapers channelling powerful abilities from your hoverblades. Boost through levels under constant bombardment, avoid dangerous hazards, and make split-second decisions that mean the difference between a new personal best or total wipeout. About Rooftop Renegade: Pixel-perfect platforming Momentum-driven racing Dynamic soundtrack FAST AND FLUID GAMEPLAY Master precise controls and smooth physics to get into the zone.
+
+
+***
+![Is it true that a rainbow is a half circle? Here's a Scientist's Explanation](https://cdn.portalfruticola.com/2022/07/agronomo-scaled.jpg "Is it true that a rainbow is a half circle? Here's a Scientist's Explanation")
+
+
+[Is it true that a rainbow is a half circle? Here's a Scientist's Explanation](https://www.world-today-news.com/is-it-true-that-a-rainbow-is-a-half-circle-heres-a-scientists-explanation/)
+
+
+> TiNewss.Com – Friends of TiNewss.Com, I hope you are all well. On this occasion, we will discuss questions that children have often asked about rainbows. The question is why the rainbow is only a half circle with seven beautiful colors that blend together. Friends of TiNewss.Com, you need to know first the process of forming a rainbow, which is the result of the refraction of light when the rain subsides and then the sun shines brightly from behind the clouds. Also Read: Isra Miraj: Breaking the Boundary Towards the 7th Heaven, A Spiritual Journey That Is Difficult for the Intellect to Digest The shape of the rainbow is very interesting, especially for children, if it is only a half circle, then where is the end of the rainbow? It's possible that the rainbow is not semi-circular in shape.
+
+
+***
+![TikTok planning 2 more data centers in Europe amid data security concerns](https://gumlet.assettype.com/bdnews24-english%2F2023-02%2Fcd60f684-6912-428b-b8d1-339e66ba181d%2F2023_02_17T060027Z_996156125_RC2TCZ980MVJ_RTRMADP_3_EU_TECH_TIKTOK.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fgumlet.assettype.com%2Fbdnews24-english%2F2023-02%2Fe58073c4-66e8-4fd5-85a8-da312ecac7b1%2FGPI_2_1024X65__1_.jpg&overlay_position=bottom&overlay_width_pct=1 "TikTok planning 2 more data centers in Europe amid data security concerns")
+
+
+[TikTok planning 2 more data centers in Europe amid data security concerns](https://bdnews24.com/technology/0btjvu8qi4)
+
+
+> Chinese social media company TikTok plans to open two more data centers in Europe, a senior executive said on Friday, a move that could mitigate concerns over the security of users' data and ease regulatory pressure on the company. TikTok has been seeking to assure governments and regulators that users' personal data cannot be accessed and its content cannot be manipulated by China's Communist Party or anyone else under Beijing's influence. The short video-sharing app, owned by China's ByteDance, aims to expand its European data storage, TikTok's general manager for operations in Europe Rich Waterworth said in a blog post.
+
+
+***
+![Google, Twitter, Meta, Apple face tougher EU online content rules](https://gumlet.assettype.com/bdnews24-english%2F2022-09%2F5126f718-9257-4df3-a273-e4ac20deed52%2Fus_big_tech_170922_01.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fgumlet.assettype.com%2Fbdnews24-english%2F2023-02%2Fe58073c4-66e8-4fd5-85a8-da312ecac7b1%2FGPI_2_1024X65__1_.jpg&overlay_position=bottom&overlay_width_pct=1 "Google, Twitter, Meta, Apple face tougher EU online content rules")
+
+
+[Google, Twitter, Meta, Apple face tougher EU online content rules](https://bdnews24.com/technology/pqhg2mgnyu)
+
+
+> Twitter said it has 100.9 million average monthly users in the EU, based on an estimation of the last 45 days. Alphabet provided one set of numbers based on users' accounts and another set based on signed-out recipients, saying users can access its services whether they sign in to an account or are signed out. It said the average monthly number of signed-in users totalled 278.6 million at Google Maps, 274.6 million at Google Play, 332 million at Google Search, 74.9 million at Shopping and 401.7 million at YouTube.
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/mesabitribune.com/content/tncms/assets/v3/editorial/d/33/d3357654-c8fe-5c75-a787-5ec883eff2e4/63ef3d455fdf9.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](https://www.mesabitribune.com/online_features/tech_talk_and_innovation/top-5-smartphone-features-you-can-t-live-without/article_3f8d19fe-5eb2-5bdb-a5b6-08a57be42bfc.html)
+
+
+> No body in the article.
+
+
+***
+![WhatsApp Working to Bring Communities to its Business App](https://english.cdn.zeenews.com/sites/default/files/2023/02/17/1155503-untitled-design-2023-02-17t133842.889.jpg "WhatsApp Working to Bring Communities to its Business App")
+
+
+[WhatsApp Working to Bring Communities to its Business App](https://zeenews.india.com/technology/whatsapp-working-to-bring-communities-to-its-business-app-2574322.html)
+
+
+> New Delhi:  Meta-owned messaging platform WhatsApp is reportedly working to bring communities to its WhatsApp Business application on Android. The platform is not likely to remove the business tab which was introduced last year, reports WABetaInfo. Instead, it might add a new entry point for the new feature right within the application menu. When users will open 'Communities' right within the menu, they will see the list of all the communities they created and joined in the past, including all their subgroups and community announcement groups.
+
+
+***
+![iPhone 15 Pro Leaks Reveals Design, Charging Port, and More Ahead of Launch: Here's What We Know So Far](https://english.cdn.zeenews.com/sites/default/files/2023/02/17/1155561-untitled-design-2023-02-17t144211.073.jpg "iPhone 15 Pro Leaks Reveals Design, Charging Port, and More Ahead of Launch: Here's What We Know So Far")
+
+
+[iPhone 15 Pro Leaks Reveals Design, Charging Port, and More Ahead of Launch: Here's What We Know So Far](https://zeenews.india.com/technology/iphone-15-pro-leaks-reveals-design-charging-port-and-more-ahead-of-launch-heres-what-we-know-so-far-from-price-release-date-2574359.html)
+
+
+> New Delhi: In September 2022, Apple unveiled the newest iPhone 14 series. The Cupertino-based tech company is anticipated to unveil the iPhone 15 series, the next generation of its handsets, in the second half of 2023, just like last year. Yet, the rumour concerning the iPhone 15 lineup is already active and has been consistently producing fresh rumours. The most recent rumour is in the shape of a leaked photograph that is predicted to provide the first look at the next iPhone 15 Pro model. Exclusive renders of the next iPhone 15 Pro that are based on a CAD model have reportedly been posted online, according to a 9to5Mac story.
+
+
+***
+!['Bones fractured forever, I wonder what it's like to fight'](https://cdn.portalfruticola.com/2022/07/agronomo-scaled.jpg "'Bones fractured forever, I wonder what it's like to fight'")
+
+
+['Bones fractured forever, I wonder what it's like to fight'](https://www.world-today-news.com/bones-fractured-forever-i-wonder-what-its-like-to-fight/)
+
+
+> Giovanni Allevi has returned to update fans on his illness, a multiple myeloma that he was diagnosed with last June. In recent months, the 53-year-old composer has recounted his illness without filters, between hope and pain, and in his last social outburst he let all his despondency shine through: ''Myeloma has left me with bone fractures in different parts of my body. I wonder what it's like to fight.' Giovanni Allevi: 'I'm not well' In all these months, the composer has kept his followers constantly informed, who have been with him since the beginning of the battle e with their words of affection they gave him the strength to carry on.
+
+
+***
+![Facebook ran ads in Moldova for oligarch sanctioned by US](https://bloximages.chicago2.vip.townnews.com/muscatinejournal.com/content/tncms/assets/v3/editorial/f/28/f28dc182-811f-5c22-9e47-7666c9d3e38a/63ef186d42efb.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Facebook ran ads in Moldova for oligarch sanctioned by US")
+
+
+[Facebook ran ads in Moldova for oligarch sanctioned by US](https://muscatinejournal.com/lifestyles/technology/facebook-ran-ads-in-moldova-for-oligarch-sanctioned-by-us/article_f409fbf4-4f37-58ed-93c9-6c148cdb3a0d.html)
+
+
+> By DAVID KLEPPER and STEPHEN McGRATH - Associated Press WASHINGTON (AP) — Facebook allowed an exiled Moldovan oligarch with ties to the Kremlin to run ads calling for protests and uprisings against the pro-Western government, even though he and his political party were on U.S. sanctions lists. The ads featuring politician and convicted fraudster Ilan Shor were ultimately removed by Facebook but not before they were seen millions of times in Moldova, a small nation of about 2.6 million sandwiched between Romania and war-torn Ukraine.
+
+
+***
+![Facebook ran ads in Moldova for oligarch sanctioned by US](https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/b/ce/bcef9d55-a59f-50c4-b224-811529f2f0f7/63ef16d4923aa.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Facebook ran ads in Moldova for oligarch sanctioned by US")
+
+
+[Facebook ran ads in Moldova for oligarch sanctioned by US](https://lacrossetribune.com/lifestyles/technology/facebook-ran-ads-in-moldova-for-oligarch-sanctioned-by-us/article_904a4ea1-32cd-5556-b7bb-dbff95c20c89.html)
+
+
+> By DAVID KLEPPER and STEPHEN McGRATH - Associated Press WASHINGTON (AP) — Facebook allowed an exiled Moldovan oligarch with ties to the Kremlin to run ads calling for protests and uprisings against the pro-Western government, even though he and his political party were on U.S. sanctions lists. The ads featuring politician and convicted fraudster Ilan Shor were ultimately removed by Facebook but not before they were seen millions of times in Moldova, a small nation of about 2.6 million sandwiched between Romania and war-torn Ukraine.
+
+
+***
+![Facebook ran ads in Moldova for oligarch sanctioned by US](https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/4/07/407a955b-eab1-53cd-9507-4622f1a37a33/63ef18384f59a.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Facebook ran ads in Moldova for oligarch sanctioned by US")
+
+
+[Facebook ran ads in Moldova for oligarch sanctioned by US](https://siouxcityjournal.com/lifestyles/technology/facebook-ran-ads-in-moldova-for-oligarch-sanctioned-by-us/article_d1d6006b-226e-5eeb-88aa-9f9739f23a14.html)
+
+
+> By DAVID KLEPPER and STEPHEN McGRATH - Associated Press WASHINGTON (AP) — Facebook allowed an exiled Moldovan oligarch with ties to the Kremlin to run ads calling for protests and uprisings against the pro-Western government, even though he and his political party were on U.S. sanctions lists. The ads featuring politician and convicted fraudster Ilan Shor were ultimately removed by Facebook but not before they were seen millions of times in Moldova, a small nation of about 2.6 million sandwiched between Romania and war-torn Ukraine.
+
+
+***
+![If the US was a stock…](https://img.iex.nl/uploads/2023/VS_WhiteHouse_2b710a0f-88c3-4998-bee8-f1a15192d3a0.jpg "If the US was a stock…")
+
+
+[If the US was a stock…](https://www.world-today-news.com/if-the-us-was-a-stock/)
+
+
+> News Then investors should ignore it. Plus: profits of the majority of S&P companies are considerably lower, crypto fans are idiots and Chinese population decline is fueling inflation. Doctor Fed is still allowing interest rates to rise If an X-ray of the US economy were to be made, we would see that the labor market remains overheated, economic growth does not cool much and inflation shows a mixed picture, says Edin Mujagic. So interest rates have to go up. Small caps perform better in recessions Large caps do better in boom periods.
+
+
+***
+![Multiplayer Is Headed To ‘Hogwarts Legacy' But There's A Catch](https://www.mccourier.com/wp-content/uploads/2023/02/Multiplayer-Is-Headed-To-‘Hogwarts-Legacy-But-Theres-A-Catch.jpg "Multiplayer Is Headed To ‘Hogwarts Legacy' But There's A Catch")
+
+
+[Multiplayer Is Headed To ‘Hogwarts Legacy' But There's A Catch](https://www.mccourier.com/multiplayer-is-headed-to-hogwarts-legacy-but-theres-a-catch/)
+
+
+> Hogwarts Legacy Credit score: Warner Bros Hogwarts Legacy is an excellent new roleplaying recreation set within the Harry Potter universe that allows you to discover the wizarding faculty, Hogwarts, and the encircling villages and grounds. The Forbidden Forest, Hogsmeade and far more are all obtainable to journey in. However you'll largely do all that adventuring alone. As my colleague Paul Tassi identified just lately, it could have been good to at the very least have some sort of celebration mechanic much like Mass Impact or Dragon Age that allowed you to deliver companions with you on quests.
+
+
+***
+![Here's the $13K Nvidia GPU that makes ChatGPT come alive](https://cdn.mos.cms.futurecdn.net/gnSFwwzzF5RHZSAvkwVNDc-1200-80.jpg "Here's the $13K Nvidia GPU that makes ChatGPT come alive")
+
+
+[Here's the $13K Nvidia GPU that makes ChatGPT come alive](https://www.techradar.com/best/heres-the-dollar13k-nvidia-gpu-that-makes-chatgpt-come-alive)
+
+
+> (Image credit: Nvidia) Behind the headlines of how ChatGPT is changing the world is a company that is mostly known for its graphics cards .  Nvidia is the biggest winner when it comes to hardware; its share price has almost doubled since mid-October 2022 as chatter around OpenAI and ChatGPT picked up; this fueled a massive growth in demand to access ChatGPT and in the specialized hardware that makes the technology tick and that doesn't come cheap.  This partly explains why, with a market capitalization of $556 billion at the time of writing, the company that made Geforce a household name is more valuable than Arm, Intel, IBM and AMD put together.
+
+
+***
+![After Bing… Microsoft wants to bring artificial intelligence to Windows 11](https://3jil.net/temp/resized/medium_2023-02-17-6a28d97849.jpg "After Bing… Microsoft wants to bring artificial intelligence to Windows 11")
+
+
+[After Bing… Microsoft wants to bring artificial intelligence to Windows 11](https://www.world-today-news.com/after-bing-microsoft-wants-to-bring-artificial-intelligence-to-windows-11/)
+
+
+> A new report stated that Microsoft is striving to integrate artificial intelligence into all its products, and it seems that Windows will get some improvements in this field in the coming years. Among the features that Microsoft believes can be improved using artificial intelligence is the function (group windows and programs) to make the most of the display space. This function shows arrangement and grouping suggestions when clicking on the zoom icon located in the upper right corner of the window, and when the user selects the desired layout, all windows are displayed on the screen accordingly, and here it creates a Snap group that can be easily minimized and enlarged.
+
+
+***
+![Improving patient safety shouldn't be a financial calculation](https://www.statnews.com/wp-content/uploads/2023/02/GettyImages-1213071575-1024x576.jpg "Improving patient safety shouldn't be a financial calculation")
+
+
+[Improving patient safety shouldn't be a financial calculation](https://www.statnews.com/2023/02/17/improving-patient-safety-shouldnt-be-a-financial-calculation/)
+
+
+> A recent study of medical error published in The New England Journal of Medicine reached a shocking conclusion about patient safety: Nearly a quarter century after a highly publicized Institute of Medicine report on the prevalence of patient harm sparked vows to cut the rate by half in five years , 'in-hospital adverse events' remain so common that they affect roughly one in four . At larger institutions, the rate can be 40% or higher . 'The safety movement has, at best, stalled,' an accompanying editorial acknowledged , while urging hospital leaders to hold themselves accountable to a 'sacred obligation.
+
+
+***
+![TECH BYTE: Hyundai, Kia Offer Theft Software Fix](https://wpcdn.us-east-1.vip.tn-cloud.net/www.wdef.com/content/uploads/2022/02/p/v/techbyte-epikos-1280x720-1.jpg "TECH BYTE: Hyundai, Kia Offer Theft Software Fix")
+
+
+[TECH BYTE: Hyundai, Kia Offer Theft Software Fix](https://www.wdef.com/tech-byte-hyundai-kia-offer-theft-software-fix/)
+
+
+> CHATTANOOGA, Tenn. (WDEF) — Some Hyundais and Kias are getting a free anti-theft software upgrade. This comes after too many of them were getting stolen. After some insurance companies like State Farm said they would stop offering coverage for certain Hyundais and Kias, the car companies are now stepping in. They're now upgrading the anti-theft software on certain models made between 2015 and 2019. More than eight million vehicles are impacted. They have turn-key ignitions, making them easier to steal than those with push button starts.
+
+
+***
+![Microsoft is looking to cut short conversation lengths on Bing after it started giving unexpected, creepy, and emotional responses: NYT](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17Buyl.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=365&y=283 "Microsoft is looking to cut short conversation lengths on Bing after it started giving unexpected, creepy, and emotional responses: NYT")
+
+
+[Microsoft is looking to cut short conversation lengths on Bing after it started giving unexpected, creepy, and emotional responses: NYT](http://www.msn.com/en-us/news/technology/microsoft-is-looking-to-cut-short-conversation-lengths-on-bing-after-it-started-giving-unexpected-creepy-and-emotional-responses-nyt/ar-AA17BrWv)
+
+
+> Microsoft is considering imposing certain restrictions on its new AI-powered Bing, the New York Times reported on Thursday, after reports emerged of shocking responses from the chatbot. Load Error Among the restrictions, the tech giant is looking to cut down Bing's conversation length, the Times reported, citing Kevin Scott, Microsoft's chief technology officer. Just a day prior, Microsoft acknowledged in a blog post that its souped-up Bing search engine — unveiled only last Tuesday — could be "provoked" into responses that can appear human-like and emotional if you talk to it for too long.
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/journalgazette.net/content/tncms/assets/v3/editorial/4/90/490d9e28-ecb7-5bbb-a92e-9f8f6f70ea1e/63ef2d970d264.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](https://www.journalgazette.net/online_features/tech_talk_and_innovation/top-5-smartphone-features-you-can-t-live-without/article_38ad3011-0f31-5e2a-8eaa-83cc98311889.html)
+
+
+> (StatePoint) Smartphones are our lifeline – we use them to connect us to just about everything and everyone in our world. Americans check their phones an average of 344 times a day — once every four minutes — according to a 2022 Review.org survey . But when was the last time you upgraded your phone? If it's been more than two years, you may be missing out on some of the latest tech upgrades. Here are five must-have features to consider when shopping for a new smartphone: •  Battery Life: When it comes to battery life, you may not realize what you've been missing out on until you start using your new phone.
+
+
+***
+![Guardian Tales patch 22 detailed](https://gonintendo.com/attachments/image/23431/file/medium-7fa30e2e80778b75eeb11f3340df26fb.jpg "Guardian Tales patch 22 detailed")
+
+
+[Guardian Tales patch 22 detailed](https://gonintendo.com/contents/16397-guardian-tales-patch-22-detailed)
+
+
+> A new patch has been announced for Guardian Tales. The patch will be available on February 20th, 2023, and will include new content and events. Check out the full patch notes below. 1. Contents The Short Story ‘The Travels of Ice Mountain' will open. (2/20 17:00 PST) Arena Season 10 will progress for the following period. (3 times per day) 02/20 12:00 ~02/26 11:59 (PST) Guardian Pass Season 6 will begin: Event Period: Feb.20th 17:00 ~ Mar.20th 16:59 (PST) Kama-ZONE season 3 will open from Feb.
+
+
+***
+![Musk's Neuralink is under investigation due to illegal transportation of contaminated hardware – VTM.cz](https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=730568783 "Musk's Neuralink is under investigation due to illegal transportation of contaminated hardware – VTM.cz")
+
+
+[Musk's Neuralink is under investigation due to illegal transportation of contaminated hardware – VTM.cz](https://www.world-today-news.com/musks-neuralink-is-under-investigation-due-to-illegal-transportation-of-contaminated-hardware-vtm-cz/)
+
+
+> The US Department of Transportation (DOT) began investigating Neuralink for illegally transporting contaminated hardware. She pointed it out CNBC television station. According to documents obtained by an animal rights group called the Physicians Committee of Responsible Medicine, that particular hardware was implants taken from monkey brains. These could contain infectious pathogens, including some dangerous viruses (e.g. Herpes B). The main evidence is leaked emails between Musk's company and one of its former partner institutions, the University of California-Davis.
+
+
+***
+![BMW 740i and i7 Series review – Out with the golf clubs and in with black-tie and bikinis](https://stuff.co.za/wp-content/uploads/2023/02/P90491687-highRes-scaled.jpg "BMW 740i and i7 Series review – Out with the golf clubs and in with black-tie and bikinis")
+
+
+[BMW 740i and i7 Series review – Out with the golf clubs and in with black-tie and bikinis](https://stuff.co.za/2023/02/17/bmw-740i-and-i7-series-review/)
+
+
+> Like a bottle of Napoleon, a BMW 7 Series should never be conspicuous but always present. The 7 Series is the center of all R&D and innovation for the rest of the Bavarian manufacturers' lines including its EVs. While the new 7s are all of that, the most dramatic upgrades range from unpretentious to sublimely ostentatious. Led by a vastly divergent and aggressive new monolithic front end, the car tapers down bullish RR Phantom lines to finish with a perfectly proportioned rear that at worst is a tiny nod to the frumpy sandwich of yore.
+
+
+***
+![The Mate SUV electric cargo bike is coming to replace your expensive car](https://cdn.vox-cdn.com/thumbor/LO_wmSTAwkz5Olpw_41_cGlrp5w=/0x0:2234x1068/1200x628/filters:focal(1336x664:1337x665)/cdn.vox-cdn.com/uploads/chorus_asset/file/24439772/car_vs_bike.webp.jpeg "The Mate SUV electric cargo bike is coming to replace your expensive car")
+
+
+[The Mate SUV electric cargo bike is coming to replace your expensive car](https://www.theverge.com/2023/2/17/23603896/mate-suv-electric-cargo-bike-price-date-specs)
+
+
+> Mate, the Indiegogo darling that burst onto the scene in 2018 with an  inexpensive and fun folding e-bike , has just shown off a working prototype of its first electric cargo bike. The Mate SUV, as it's called, targets families looking to replace a car — something that's not only possible, but preferred in bicycle-friendly cities like Copenhagen, where Mate was founded. Electric cargo bikes aren't cheap, unless you compare the price to that of a car. AAA now pegs the  average  annual cost to own and operate a car at over  $10,000 each year in the US.
+
+
+***
+[Global Cloud Robotics Market Report 2023 to 2028: Featuring Automation IG, Calvary Robotics, CloudMinds and Ecovacs Robotics Among Others](http://www.businesswire.com/news/home/20230217005139/en/Global-Cloud-Robotics-Market-Report-2023-to-2028-Featuring-Automation-IG-Calvary-Robotics-CloudMinds-and-Ecovacs-Robotics-Among-Others---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "Cloud Robotics Market by Technology, Robot Type, Hardware, Software, Services, Infrastructure and Cloud Deployment Types, and Industry Verticals 2023 - 2028" report has been added to ResearchAndMarkets.com's offering. This report assesses the cloud robotics market including technologies, companies, strategies, use cases, and solutions. The report provides global and regional forecasts for cloud robotics apps, services, and components from 2023 to 2028. Forecasts in
+
+
+***
+[TINT, a Virtual Makeup Try-On Tool by Banuba, Upgrades Its Personalized Recommendations System](http://www.businesswire.com/news/home/20230216005776/en/TINT-a-Virtual-Makeup-Try-On-Tool-by-Banuba-Upgrades-Its-Personalized-Recommendations-System/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HONG KONG--(BUSINESS WIRE)-- #AIMakeup--Tint, a virtual makeup try-on solution from Banuba, improves its personalized recommendations AI. It has a higher impact on sales, returns, and AOV.
+
+
+***
+![iQOO Neo 7: Powerful Performance in a Beautiful Design and Enhanced Gaming Capabilities, All for Less than 30K](https://future-news.net/wp-content/uploads/2023/02/iQOO-Neo-7-قوة-الأداء-بتصميم-رائع-وقدرات-ألعاب-محسّنة،.png "iQOO Neo 7: Powerful Performance in a Beautiful Design and Enhanced Gaming Capabilities, All for Less than 30K")
+
+
+[iQOO Neo 7: Powerful Performance in a Beautiful Design and Enhanced Gaming Capabilities, All for Less than 30K](https://www.world-today-news.com/iqoo-neo-7-powerful-performance-in-a-beautiful-design-and-enhanced-gaming-capabilities-all-for-less-than-30k/)
+
+
+> As far as gaming smartphones are concerned, you can count on iQOO to continue pushing the boundaries of innovation. The same is true of the newly launched iQOO Neo 7, which follows in the company's tradition of offering high-end gaming features at great prices. In this case, the Neo 7 is priced under Rs 30,000, which is a great price for a device with such advanced components. More than anything else, its list of specifications ensures a truly satisfying gaming experience for the buyers. Let us walk you through everything they bring to the table.
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/4/0c/40cab810-d783-5df6-a4b5-7c853dd15b68/63ef2de51f299.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](https://www.thedailytimes.com/online_features/tech_talk_and_innovation/top-5-smartphone-features-you-can-t-live-without/article_173ac852-15e5-5713-bca6-db0cee237862.html)
+
+
+> No body in the article.
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/thedailyreview.com/content/tncms/assets/v3/editorial/4/68/468e333c-00af-5b15-a8b6-54e368c9a88c/63ef2f0025254.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](https://www.thedailyreview.com/online_features/tech_talk_and_innovation/top-5-smartphone-features-you-can-t-live-without/article_622afe4c-297a-5d01-b051-36803e1305c0.html)
+
+
+> (StatePoint) Smartphones are our lifeline – we use them to connect us to just about everything and everyone in our world. Americans check their phones an average of 344 times a day — once every four minutes — according to a 2022 Review.org survey . But when was the last time you upgraded your phone? If it's been more than two years, you may be missing out on some of the latest tech upgrades. Here are five must-have features to consider when shopping for a new smartphone: •  Battery Life: When it comes to battery life, you may not realize what you've been missing out on until you start using your new phone.
+
+
+***
+[France Buy Now Pay Later Markets Databook Report 2023: Payments are Expected to Grow by 20.1% to Reach $11,583.2 Million in 2023](http://www.businesswire.com/news/home/20230217005135/en/France-Buy-Now-Pay-Later-Markets-Databook-Report-2023-Payments-are-Expected-to-Grow-by-20.1-to-Reach-11583.2-Million-in-2023---Forecast-to-2028---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "France Buy Now Pay Later Business and Investment Opportunities Databook - 75+ KPIs on BNPL Market Size, End-Use Sectors, Market Share, Product Analysis, Business Model, Demographics - Q1 2023 Update" report has been added to ResearchAndMarkets.com's offering. BNPL payments are expected to grow by 20.1% on an annual basis to reach US$11,583.2 million in 2023. The BNPL payment industry in France has recorded strong growth over the last four quarters, supported by inc
+
+
+***
+![Top 5 Smartphone Features You Can't Live Without](https://bloximages.chicago2.vip.townnews.com/muscatinejournal.com/content/tncms/assets/v3/editorial/7/17/71785993-be9a-5a32-b8de-c209b2818c60/63ef3c6f985fe.image.jpg?crop=600%2C315%2C0%2C39&resize=600%2C315&order=crop%2Cresize "Top 5 Smartphone Features You Can't Live Without")
+
+
+[Top 5 Smartphone Features You Can't Live Without](https://muscatinejournal.com/online_features/tech_talk_and_innovation/top-5-smartphone-features-you-can-t-live-without/article_9607162e-01d9-541d-aa21-206be0b71541.html)
+
+
+> (StatePoint) Smartphones are our lifeline – we use them to connect us to just about everything and everyone in our world. Americans check their phones an average of 344 times a day — once every four minutes — according to a 2022 Review.org survey. But when was the last time you upgraded your phone? If it's been more than two years, you may be missing out on some of the latest tech upgrades. Here are five must-have features to consider when shopping for a new smartphone: • Battery Life: When it comes to battery life, you may not realize what you've been missing out on until you start using your new phone.
+
+
+***
+![German Court Declares Police Use of Data Tech Unlawful](https://cdn.thewire.in/wp-content/uploads/2019/04/09160322/dwlogo-print.gif "German Court Declares Police Use of Data Tech Unlawful")
+
+
+[German Court Declares Police Use of Data Tech Unlawful](https://thewire.in/tech/german-court-declares-police-use-of-data-tech-unlawful)
+
+
+> Germany's Federal Constitutional Court on Thursday declared as unconstitutional regulations in the states of Hesse and Hamburg that allow police to automatically process personal data using special software to prevent crime. Both German states must now make improvements in how the software, which helped police probe an underground network charged with plotting to overthrow the German government, is allowed to be used. What did the court say about the rules? The Karlsruhe-based court criticised state laws for not regulating circumstances in which data could be processed precisely enough, and demanded that the legislation be rewritten.
+
+
+***
+![The Western Cape has a R1.1 billion plan to reduce load shedding (in the Western Cape)](https://stuff.co.za/wp-content/uploads/2023/02/Untitled-design-27-1.png "The Western Cape has a R1.1 billion plan to reduce load shedding (in the Western Cape)")
+
+
+[The Western Cape has a R1.1 billion plan to reduce load shedding (in the Western Cape)](https://stuff.co.za/2023/02/17/the-western-cape-has-a-r1-1-billion-plan/)
+
+
+> The Western Cape, speaking at the recent State of the Province Address ( SOPA 2023 ), reiterated its plans to become more independent, pulling further away from Eskom's national grid, in the hopes of providing more power to its residents. The province's premier, Alan Winde, said that the Western Cape was one of the few bright spots in the country's future – at least where the electricity sector is concerned. The province's main and eventual goals point towards energy security, supplying more power to the essentials – water, connectivity, and education — to better assist businesses to maintain their standards of operations.
+
+
+***
+![Oppo Find N2 Flip: Specs and price in India](https://images.indianexpress.com/2023/02/cropped-OPPO-Find-N2-Flip_Moonlit-Purple_2-1.jpg "Oppo Find N2 Flip: Specs and price in India")
+
+
+[Oppo Find N2 Flip: Specs and price in India](https://indianexpress.com/web-stories/technology/oppo-find-n2-flip-specs-availability-price-in-india/)
+
+
+> Add a colourful twist to your curd rice These quick tips will help keep strawberry legs at bay How does alcohol affect your health When is Holi Festival in 2023? Click or Scan here to read the article
+
+
+***
+![the Juventus coach carefully assigned the expert](https://cdn.magyarnemzet.hu/2022/10/zzREfx_yTuzhvmd6gbpjtCiEBjfOJrtHj9mf2MWyjRI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzcyNTFkMWU3NmE5ZTRhYTlhMjM4YTdmYjhmZjBjM2I1.jpg "the Juventus coach carefully assigned the expert")
+
+
+[the Juventus coach carefully assigned the expert](https://tekdeeps.com/the-juventus-coach-carefully-assigned-the-expert/)
+
+
+> 'Look at my statistics, you're talking a lot about nothing here' – these are the words Juventus coach Massimiliano Allegri told the Sky Sport Italia reporter after his team drew 1-1 at home against Nantes in the Europa League in the first match of the straight knockout phase. Juve took the lead with a goal from Dusan Vlahovic, then after the French equaliser, they had incredible bad luck, Federico Chiesa scored a double goal post, but the Italian team attacked more in vain, but was unable to win the match.
+
+
+***
+![Current treatments for cramps aren't cutting it. Why aren't there better options?](https://www.statnews.com/wp-content/uploads/2023/02/PeriodCramps_Illustration_MollyFerguson_021623-1024x576.jpg "Current treatments for cramps aren't cutting it. Why aren't there better options?")
+
+
+[Current treatments for cramps aren't cutting it. Why aren't there better options?](https://www.statnews.com/2023/02/17/cramps-menstrual-period-pain-treatment/)
+
+
+> O ne day last fall, Kiran's period cramps became so painful they woke her up from a nap. The 19-year-old took some ibuprofen, but found little relief. 'The pain was so bad, it felt like someone was punching me,' said Kiran, who asked to be referred to by only her first name for privacy. It felt 'like I was giving birth.' The standard treatment for menstrual cramps — non-steroidal anti-inflammatory drugs (NSAIDs) like Midol, Motrin, and Aleve — provide Kiran with a few hours of relief at most, if they even work at all.
+
+
+***
+[China Buy Now Pay Later Business Report 2023 Featuring Tencent, JD Finance, Alipay, Huabei, Baitiao, Happay, AsiaPay, Atome, Splitit, UnionPay, LexinFintech, Afterpay, &amp; Fen Fu](http://www.businesswire.com/news/home/20230217005132/en/China-Buy-Now-Pay-Later-Business-Report-2023-Featuring-Tencent-JD-Finance-Alipay-Huabei-Baitiao-Happay-AsiaPay-Atome-Splitit-UnionPay-LexinFintech-Afterpay-Fen-Fu---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> DUBLIN--(BUSINESS WIRE)--The "China Buy Now Pay Later Business and Investment Opportunities Databook - 75+ KPIs on BNPL Market Size, End-Use Sectors, Market Share, Product Analysis, Business Model, Demographics - Q1 2023 Update" report has been added to ResearchAndMarkets.com's offering. BNPL payments are expected to grow by 19.2% on an annual basis to reach US$116,110.2 million in 2023. The BNPL payment industry in China has recorded strong growth over the last four quarters, supported by incr
+
+
+***
+![Ginkgo chief Jason Kelly is chairing a federal biotech advisory group. Is that a conflict of interest?](https://www.statnews.com/wp-content/uploads/2023/02/52507424044_4d8a126c65_o-1024x576.jpg "Ginkgo chief Jason Kelly is chairing a federal biotech advisory group. Is that a conflict of interest?")
+
+
+[Ginkgo chief Jason Kelly is chairing a federal biotech advisory group. Is that a conflict of interest?](https://www.statnews.com/2023/02/17/jason-kelly-biotech-commission/)
+
+
+> G inkgo Bioworks CEO Jason Kelly has spent much of the last decade talking to almost anyone who will listen — investors, journalists, TV presenters, congressional committees  — about the importance of to the future of, well, just about everything . This year, Kelly will have a chance to advocate more formally. In December, he was named chairman of a new 12-person congressional commission tasked with issuing a set of policy recommendations for how the U.S. government can keep the country's biotech industry competitive and capable of serving national security needs.
+
+
+***
+![Google, Twitter, Meta face tougher EU online content rules](https://ia.tmgrup.com.tr/643f9f/806/378/0/81/800/456?u=https://i.tmgrup.com.tr/anews/v1/2023/02/17/google-twitter-meta-face-tougher-eu-online-content-rules-1676625662608.jpeg "Google, Twitter, Meta face tougher EU online content rules")
+
+
+[Google, Twitter, Meta face tougher EU online content rules](https://www.anews.com.tr/tech/2023/02/17/google-twitter-meta-face-tougher-eu-online-content-rules)
+
+
+> Alphabet Inc's Google , Facebook parent Meta Platforms Inc and Twitter face stricter EU online content rules according to monthly user numbers published by the companies on Thursday which exceeded the EU threshold. The new rules known as the Digital Services Act (DSA) labels companies with more than 45 million users as very large online platforms and subject to obligations such as risk management and external and independent auditing. They are also required to share data with authorities and researchers and adopt a code of conduct.
+
+
+***
+![Prices for the iPhone 11 and 12 are really cheap in 2023, is it worth buying?](https://awsimages.detik.net.id/visual/2019/12/06/32cf2ddd-c2e3-44dd-b337-bec089e4ab17_169.jpeg?w=650?w=650 "Prices for the iPhone 11 and 12 are really cheap in 2023, is it worth buying?")
+
+
+[Prices for the iPhone 11 and 12 are really cheap in 2023, is it worth buying?](https://www.world-today-news.com/prices-for-the-iphone-11-and-12-are-really-cheap-in-2023-is-it-worth-buying/)
+
+
+> Editor CNBC Indonesia Tech Friday, 17/02/2023 16:05 WIB Jakarta, CNBC Indonesia – The iPhone 11 can be considered as one of Apple's HP series that is equipped with significant design innovations. Starting from this line, people recognize the term ‘iPhone Boba'. This cellphone was launched in 2019. 4 years old, now the iPhone 11 is still being sold on the market at low prices. Monitoring by CNBC Indonesia on the sites of the official distributors iBox and Digimap, the price for the new iPhone 11 unit starts at IDR 7 million.
+
+
+***
+![Atlassian Investigating Security Breach After Hackers Leak Data](https://www.securityweek.com/wp-content/uploads/2023/02/Atlassian_leak.png "Atlassian Investigating Security Breach After Hackers Leak Data")
+
+
+[Atlassian Investigating Security Breach After Hackers Leak Data](https://www.securityweek.com/atlassian-investigating-security-breach-after-hackers-leak-data/)
+
+
+> Enterprise software giant Atlassian has launched an investigation after a hacker group leaked information belonging to the company.  A threat actor named SiegedSec, whose members have claimed to be hacktivists, announced on its Telegram channel and hacking forums that it 'hacked the software company Atlassian'.  They made 35 Mb of files public. This includes two image files apparently storing floor plans of Atlassian buildings in San Francisco and Sydney, and one file allegedly containing the information of 13,000 Atlassian employees, including names, email addresses, and phone numbers.
+
+
+***
+![Medicare Advantage membership grows 7% for 2023](https://www.statnews.com/wp-content/uploads/2023/02/AdobeStock_91479477-1024x576.jpeg "Medicare Advantage membership grows 7% for 2023")
+
+
+[Medicare Advantage membership grows 7% for 2023](https://www.statnews.com/2023/02/17/medicare-advantage-membership-grows-7-for-2023/)
+
+
+> You've been selected! Subscribe to for less than $2 per day Unlimited access to essential biotech, medicine, and life sciences journalism
+
+
+***
+![Central Bank of Nigeria renews Cellulant's payment service solution provider license](https://africabusinesscommunities.com//Images/Key Logos/Cellulant image.jpg "Central Bank of Nigeria renews Cellulant's payment service solution provider license")
+
+
+[Central Bank of Nigeria renews Cellulant's payment service solution provider license](https://africabusinesscommunities.com/tech/tech-news/central-bank-of-nigeria-renews-cellulants-payment-service-solution-provider-license)
+
+
+> The Central Bank of Nigeria (CBN) has renewed Cellulant's Payment Service Solution Provider License in Nigeria. This license enables Cellulant to continue providing online and offline payment solutions, including collections, check-out, biller aggregation, and payout services securely to thousands of businesses across Nigeria. Cellulant's digital payments platform, Tingg (www.Tingg.Africa)- enables businesses to seamlessly accept and make payments offline and online. A single integrated digital payments solution, Tingg addresses the complex needs of managing payments by simplifying the payment experience for the end-user and providing tools and processes for a merchant to manage their collections from a single dashboard.
+
+
+***
+![Micheille Soifer happy after reaching the top of Spotify with 'Ay mi moreno'  music  Peruvian singers](https://peru21.pe/resizer/u7C5lf1GezobRkUzE587m86S52I=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/QCDIZKHICFHFLDJ57RXK7TDTPE.jpg "Micheille Soifer happy after reaching the top of Spotify with 'Ay mi moreno'  music  Peruvian singers")
+
+
+[Micheille Soifer happy after reaching the top of Spotify with 'Ay mi moreno'  music  Peruvian singers](https://www.world-today-news.com/micheille-soifer-happy-after-reaching-the-top-of-spotify-with-ay-mi-moreno-music-peruvian-singers-shows/)
+
+
+> Michelle Soifer He has been gaining ground in the music industry with his new song 'Ay mi moreno', which managed to rank in the top three playlists on Spotify, one of the most important platforms in the world. In this way, the Soifer theme is located in ‘the new tropical', ‘ news on Friday Andes', ‘ news on Friday Colombia' alongside artists of international stature: Marc Anthony, Maluma, Rauw Alejandro, Carlos Vives, among others . ' The public's acceptance of Ay mi moreno is incredible. They have loved it because I receive good comments on social networks and they ask me a lot.
+
+
+***
+![Tesla denies union-busting claims in Buffalo](https://cdn.vox-cdn.com/thumbor/ws9_eiSLh4oaVI7n2rZy1HTAS9Y=/0x0:5000x3332/1200x628/filters:focal(3796x1891:3797x1892)/cdn.vox-cdn.com/uploads/chorus_asset/file/24439767/1075382558.jpg "Tesla denies union-busting claims in Buffalo")
+
+
+[Tesla denies union-busting claims in Buffalo](https://www.theverge.com/2023/2/17/23603897/tesla-responds-buffalo-new-york-facility-layoffs-union)
+
+
+> Tesla says recent layoffs at its Buffalo, New York facility were part of a routine performance review cycle and that it is 'false' that it fired employees in response to a new union campaign. The Workers United union previously alleged in a complaint filed with the US National Labor Relations Board (NLRB) that the company fired dozens of employees at the plant 'in retaliation for union activity' just one day after workers announced plans to organize . In a statement posted to its website titled ' In Response to False Allegations ,' Tesla said it identified impacted employees 10 days before the unionization plans were announced, and that it only learned 'in hindsight' that one of the 27 employees identified as part of the union.
+
+
+***
+![Ultra-wide monitor with a high image refresh rate with the name of YEYIAN Gaming](https://cdn.rios.hu/dl/cnt/2023-02/181522s.jpg/100 "Ultra-wide monitor with a high image refresh rate with the name of YEYIAN Gaming")
+
+
+[Ultra-wide monitor with a high image refresh rate with the name of YEYIAN Gaming](https://tekdeeps.com/ultra-wide-monitor-with-a-high-image-refresh-rate-with-the-name-of-yeyian-gaming/)
+
+
+> The 165 Hz product only brings the mandatory, but it has both HDMI and DisplayPort. YEYIAN Gaming introduced the Sigurd 4000 named, 21:9 aspect ratio monitor, which comes to the market with a 34-inch, 1500R curved VA panel. [+] The Adaptive Synces type, which promises a resolution of 3440×1440 pixels, works with an image refresh rate of 165 Hz, and for its static contrast ratio of 3000:1, which can be said to be common in the category, a luminance of 350 cd/m² (in the specification list, the note 'HDR 400' blooms in parentheses, although this a detail that is more of a sound rather than an actual advantage), 16.
+
+
+***
+![Will the Reno10 come with a periscope camera?](https://cdn.rios.hu/dl/cnt/2023-02/181834s.jpg/100 "Will the Reno10 come with a periscope camera?")
+
+
+[Will the Reno10 come with a periscope camera?](https://tekdeeps.com/will-the-reno10-come-with-a-periscope-camera/)
+
+
+> A regular ultra-wide-angle sensor is also rare in the mid-range category, even more serious cameras, so we have our doubts. The Reno9 series introduced in November will be followed by the Reno10, probably around April. So far, not much has been revealed about the devices, but it is certain that this year we are also expecting three models named Oppo Reno10, Reno10 Pro and Reno10 Pro+, of which the latter will represent the top of the series. In principle, the basic model will receive a 6.7-inch OLED panel with FHD+ resolution and a 32-megapixel selfie unit, and we will also find a 2x portrait camera on the back.
+
+
+***
+[Gigaphoton將在SPIE Advanced Lithography + Patterning 2023大會發布技術解決方案](http://www.businesswire.com/news/home/20230216005004/zh-HK/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> 日本小山市--(BUSINESS WIRE)--(美國商業資訊)--半導體微影光源製造商Gigaphoton株式會社（總部：栃木縣小山市，董事總經理兼執行長：Katsumi Uranaka）將參加於太平洋標準時間2023年2月26日（星期日）至3月2日（星期四）在加州聖荷西舉行的SPIE Advanced Lithography + Patterning 2023大會。 Gigaphoton將介紹有助於提高產能的尖端技術，以及採用DUV光源技術永續性解決方案。此外，Gigaphoton還將介紹EUV光源的研發進展。 * 如果您希望在您的材料中引用這些論文，請聯絡我們。 口頭演講： 1) 透過領先的浸潤式光源同時改善邊緣放置誤差(EPE)和可用性 [論文編號：12494-44] 2) 半導體製造的電漿動力學和LPP-EUV光源的前景 [論文編號： 12494-45] 論文： 3) LPP-EUV光源關鍵組件的開發進展 [論文編號：12494-51] 4) 工程維護決策用的機器學習準分子雷射性能模擬器的開發 [論文編號： 12496-101] 5) 利用ArF浸潤式微影的最新光源GT66
+
+
+***
+![These companies can count on stricter controls in the EU](https://www.hwsw.hu/kepek/hirek/2023/02/dsa_cubes.jpg?1676625509454 "These companies can count on stricter controls in the EU")
+
+
+[These companies can count on stricter controls in the EU](https://tekdeeps.com/these-companies-can-count-on-stricter-controls-in-the-eu/)
+
+
+> Alphabet's Google, as well as Meta and Twitter, can expect that their services operating within the European Union will be treated on the basis of a stricter assessment, according to the new Digital Services Act (DSA) adopted by the commonwealth at the end of last year, which regulates the operation of online services. Among other things, this will result in a new supervisory structure, faster action in case of potential violations and more frequent sanctions. The main basis for the creation of the DSA was the fact that the European Commission, which proposed the legislation, saw that some, particularly large, market players had become a quasi-public arena for information sharing and online commerce, and this also entailed certain risks, including user rights and the flow of information.
+
+
+***
+[Gigaphoton将在SPIE Advanced Lithography + Patterning 2023大会发布技术解决方案](http://www.businesswire.com/news/home/20230216005003/zh-CN/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> 日本小山市--(BUSINESS WIRE)--(美国商业资讯)--半导体光刻光源制造商Gigaphoton株式会社（总部：栃木县小山市，董事总经理兼首席执行官：Katsumi Uranaka）将参加于太平洋标准时间2023年2月26日（星期日）至3月2日（星期四）在加州圣何塞举行的SPIE Advanced Lithography + Patterning 2023大会。 Gigaphoton将介绍助力提高产能的前沿技术，以及基于DUV光源技术可持续性解决方案。此外，Gigaphoton还将介绍EUV光源的研发进展。 * 如果您希望在您的材料中引用这些论文，请联系我们。 口头演讲： 1) 通过领先的浸入式光源同时改善边缘放置误差(EPE)和可用性 [论文编号：12494-44] 2) 面向半导体制造的等离子体动力学和LPP-EUV光源的前景 [论文编号： 12494-45] 论文： 3) LPP-EUV光源关键部件的开发进展 [论文编号：12494-51] 4) 面向工程维护决策的基于机器学习的准分子激光性能模拟器的开发 [论文编号： 12496-101] 5) 利用面向ArF浸入
+
+
+***
+![Microsoft cures the completely confused, neurotic Bing, we also get new features](https://i.cdn29.hu/apix_collect_c/ngg_images/2302/15/bing_microsoft_154825_1_original_760x760.jpg "Microsoft cures the completely confused, neurotic Bing, we also get new features")
+
+
+[Microsoft cures the completely confused, neurotic Bing, we also get new features](https://tekdeeps.com/microsoft-cures-the-completely-confused-neurotic-bing-we-also-get-new-features/)
+
+
+> The people of Redmond are taking advantage of the test period to sharpen the wild drives of the Bing chatbot based on the GPT language model. As we reported, Microsoft did not speculate much and rode the popularity of ChatGPT, which exploded in the fall, in an accelerated procedure, already incorporating the technology behind the versatile chatbot into the Bing search engine. This way, the first testers can already have wide-ranging conversations with Google's rival, but based on early experiences, the smartened-up Bing is not really at the top of the game yet: in recent days, the service has become a meme by giving answers to certain questions reminiscent of a mental breakdown, or by completely losing it.
+
+
+***
+![Samsung One UI 5.1 software update released – technocrat](https://www.technokrata.hu/uploads/2023/02/image006.png "Samsung One UI 5.1 software update released – technocrat")
+
+
+[Samsung One UI 5.1 software update released – technocrat](https://tekdeeps.com/samsung-one-ui-5-1-software-update-released-technocrat/)
+
+
+> Thanks to the One UI 5.1 update, users can experience an even more visually appealing interface and a number of new features that provide more opportunities to express creativity while making devices even more customizable for a more comfortable user experience. 'One UI 5.1 is the latest proof of Samsung's commitment that it is important to our company that Galaxy users can access innovations in the shortest possible time' – said Janghyun Yoon, head and vice president of the Samsung Software team.
+
+
+***
+![Indian-origin Neal Mohan To Be New YouTube CEO](https://english.sakshi.com/sites/default/files/article_images/2023/02/17/NealMohanCEOYouTube-1676625726.jpg "Indian-origin Neal Mohan To Be New YouTube CEO")
+
+
+[Indian-origin Neal Mohan To Be New YouTube CEO](https://english.sakshi.com/news/technology/indian-origin-neal-mohan-be-new-youtube-ceo-169146)
+
+
+> In the latest tech development, Indian-American Neal Mohan is slated to be the next Chief Executive Officer (CEO) of YouTube after Susan Wojcicki announced her resignation citing personal reasons.Neal Mohan joins the list of Indian-origin CEOs who are leading other global tech giants, including Microsoft CEO Satya Nadella, Adobe CEO Shantanu Narayen, and Alphabet CEO Sundar Pichai among others. Taking to Twitter, YouTube Creators informed about Wojcicki's resignation and thanked her for contributing to the online video-sharing platform.
+
+
