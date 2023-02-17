@@ -38835,3 +38835,780 @@
 > HARTFORD, Conn.--(BUSINESS WIRE)--Today, Business Roundtable, Stanley Black & Decker, Accenture and the Connecticut Governor's Workforce Council joined together to launch a new Workforce Partnership Initiative (WPI) program in Connecticut. WPI now operates in nine regions throughout the country. Through WPI, Roundtable CEOs partner with local colleges and universities to accelerate and scale best-in-class workforce readiness programs and develop a steady talent pipeline that meets the speci
 
 
+***
+![Sam Altman is the next household name in tech – if we survive the killer robots](https://shepherdgazette.s3.amazonaws.com/wp-content/uploads/2023/02/16165050/230216-Altman-ChatGPT-jg-393bc2-800x400.jpg "Sam Altman is the next household name in tech – if we survive the killer robots")
+
+
+[Sam Altman is the next household name in tech – if we survive the killer robots](https://shepherdgazette.com/sam-altman-is-the-next-household-name-in-tech-if-we-survive-the-killer-robots/)
+
+
+> Sam Altman may be the next household name in tech, but many Americans have probably never heard of him. To anyone outside of San Francisco, Altman would probably seem like just another young tech CEO. He's a Stanford University dropout who years ago sold a tech startup for a fortune, and he's spent the last decade investing and coaching fellow entrepreneurs. He posts confident and sunny life advice on Twitter and spices up his conversation with pointers to line graphs. But in the past three months, thanks to OpenAI, Altman, 37, has climbed to the top of the tech industry's power rankings.
+
+
+***
+![ChatGPT to Allow Customers to Customise the AI bot as per Needs in Upcoming Upgrade](https://english.cdn.zeenews.com/sites/default/files/2023/02/17/1155308-ezgif.com-gif-maker-17.jpg "ChatGPT to Allow Customers to Customise the AI bot as per Needs in Upcoming Upgrade")
+
+
+[ChatGPT to Allow Customers to Customise the AI bot as per Needs in Upcoming Upgrade](https://zeenews.india.com/technology/chatgpt-to-allow-customers-to-customise-the-ai-bot-as-per-needs-in-upcoming-upgrade-2574200.html)
+
+
+> New Delhi:  OpenAI, the startup behind ChatGPT, on Thursday said it is developing an upgrade to its viral chatbot that users can customize, as it works to address concerns about bias in artificial intelligence. The San Francisco-based startup, which Microsoft Corp (MSFT.O) has funded and used to power its latest technology, said it has worked to mitigate political and other biases but also wanted to accommodate more diverse views. 'This will mean allowing system outputs that other people (ourselves included) may strongly disagree with,' it said in a blog post, offering customization as a way forward.
+
+
+***
+![Tesla agrees to double supercharger network, open to all EVs under Biden's $7.5B charging plan](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-16-15221901.jpg "Tesla agrees to double supercharger network, open to all EVs under Biden's $7.5B charging plan")
+
+
+[Tesla agrees to double supercharger network, open to all EVs under Biden's $7.5B charging plan](http://www.businessghana.com/site/news/Technology/280093/Tesla-agrees-to-double-supercharger-network,-open-to-all-EVs-under-Biden%E2%80%99s-$7.5B-charging-plan)
+
+
+> Companies hoping to dip into the coffers of the Biden administration's $7.5 billion EV charging initiative will have to meet a new set of requirements that even Tesla has agreed to. The Biden administration laid out Wednesday the final standards for its plan to build a national network of 500,000 electric vehicle chargers along highways, including a requirement that all EV chargers funded through the Inflation Reduction Act must be built in the United States. Specifically, the final assembly and all manufacturing processes for any iron or steel charger enclosures or housing must occur in the United States.
+
+
+***
+![Fintech and the Future of Finance: Market and Policy Implications](https://live.worldbank.org/sites/default/files/wblive-1200-generic_event_link-preview_Feb24.png "Fintech and the Future of Finance: Market and Policy Implications")
+
+
+[Fintech and the Future of Finance: Market and Policy Implications](https://live.worldbank.org/events/fintech-future-finance-market-policy-implications)
+
+
+> The financial services industry is undergoing a profound transformation: rapid technological innovation is ushering in a new era of rapid changes to financial products, business models, markets, and even money. How can the industry and policymakers foster responsible innovation to improve financial inclusion and efficiency, while mitigating new risks? A recent World Bank report, Fintech and the Future of Finance, explores the dramatic changes in financial services provision and underscores the need for policymakers and financial regulators to adapt as fintech adoption matures and policy tradeoffs evolve.
+
+
+***
+![Apple iPhone 15 Pro leaked image shows new design and USB-C port](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/17/2573441-apple-2.png "Apple iPhone 15 Pro leaked image shows new design and USB-C port")
+
+
+[Apple iPhone 15 Pro leaked image shows new design and USB-C port](https://www.dnaindia.com/technology/report-apple-iphone-15-pro-leaked-image-shows-new-design-and-usb-c-port-3024217)
+
+
+> Apple (Image: Reuters) Apple iPhone 15 Pro image with USB-C port has been leaked online, confirming that Cupertino based tech giant is finally bidding goodbye to its iconic ‘Lightning port'. In an image shared by MacRumors, show chassis of alleged Apple iPhone 15 Pro with USB-C port. Apple iPhone's transition to USB-C port is long due and after new regulations from European Union and India, the tech giant is forced to accept the universal port. For those who are unaware, the EU has passed a new law that requires USB Type-C to be the single charger to reduce e-waste.
+
+
+***
+![My Time at Portia devs looking for Switch framerate/lag experiences](https://gonintendo.com/attachments/image/23427/file/medium-ba9a94a2e5f023fbd2b819fdc81dcb71.png "My Time at Portia devs looking for Switch framerate/lag experiences")
+
+
+[My Time at Portia devs looking for Switch framerate/lag experiences](https://gonintendo.com/contents/16394-my-time-at-portia-devs-looking-for-switch-framerate-lag-experiences)
+
+
+> Has your time been a bit rough? The team behind My Time at Portia has heard complaints about some framerate issues and lag with the Switch version of the game, it's clear they want to set things right. The latest evidence of that is a new forward-facing survey. The dev team is looking to hear from My Time at Portia players who have experience these issues. The survey is just two questions long, asking players to explain where they were/what they were doing when the issues arose, and then there's a submission option for screenshots/videos for those who captured proof of the hiccups.
+
+
+***
+![Pokemon Co. official unveils 1/10 scale Wailord plush](https://gonintendo.com/attachments/image/23426/file/medium-749cb11d6edd6a5b578db121071abd67.png "Pokemon Co. official unveils 1/10 scale Wailord plush")
+
+
+[Pokemon Co. official unveils 1/10 scale Wailord plush](https://gonintendo.com/contents/16393-pokemon-co-official-unveils-1-10-scale-wailord-plush)
+
+
+> What's bigger, the plush or the price? It was teased the other day, but now we've got the official reveal. Pokemon Co. has pulled back the curtain on their next Pokemon plush, and it's a massive one. Pokemon Co. is releasing a 1/10 scale Wailord plush. As you can see from the image above, this is an absolutely gigantic plush, so you better start clearing some room for it now! For those wondering, it measures 60×145×55cm and weighs a whopping 14 pounds!. The 1/10 Wailord plush is set to release in Japan on March 13th, 2023, and will be available both online and through Pokémon Center locations.
+
+
+***
+![立訊打入高階 iPhone 供應鏈？傳富士康守住 iPhone 15 Pro 獨供地位](https://img.technews.tw/wp-content/uploads/2022/10/13143705/Apple-Orchard-Road-Singapore-iPhone-14-lineup-220916-e1665643031688.jpg "立訊打入高階 iPhone 供應鏈？傳富士康守住 iPhone 15 Pro 獨供地位")
+
+
+[立訊打入高階 iPhone 供應鏈？傳富士康守住 iPhone 15 Pro 獨供地位](https://technews.tw/2023/02/17/foxconn-iphone-15-pro-series/)
+
+
+> 市調機構 TrendForce 先前稱，富士康一直是 iPhone Pro 系列獨家組裝廠，但有意推動立訊成為 iPhone 15 Pro Max 組裝廠商之一，令外界擔憂紅鏈威脅。外媒 Wccftech 指出，富士康仍是蘋果主要供應商，如果富士康繼續證明自己，也許蘋果會考慮賦予更多重任。 根據 Twitter 帳號 @URedditor 透露有關 iPhone 15 系列代號及各自製造商的部分資訊。 #iPhone15 series codenames, and manufacturer's codenames: iPhone 15 – D37 – Spyder iPhone 15 Plus – D38 – Shasta iPhone 15 Pro – D83 – Vantage iPhone 15 Pro Max – D84 – Veyron D38 will be made by Luxshare D37, D83, D84 will be made by Foxconn #AppleInternal #Apple #iPhone — U
+
+
+***
+![Japanese software/hardware sales for Feb. 6th to Feb. 12th, 2023 (Top 30)](https://gonintendo.com/attachments/image/23361/file/medium-0d8438e29d96ff8a7081b184cfb890c0.jpg "Japanese software/hardware sales for Feb. 6th to Feb. 12th, 2023 (Top 30)")
+
+
+[Japanese software/hardware sales for Feb. 6th to Feb. 12th, 2023 (Top 30)](https://gonintendo.com/contents/16331-japanese-software-hardware-sales-for-feb-6th-to-feb-12th-2023-top-30)
+
+
+> Wondering how the Switch held up in Japan this week? Well, Switch titles made up 8 of the top 10 best-selling software list. Pokemon Scarlet / Violet was the best Switch title sold sitting at No. 2 overall, only beaten by the newly released Hogwarts Legacy. Most of the Switch titles are first-party Nintendo games, such as Splatoon 3, which is still holding strong sitting at No. 3, and Fire Emblem Engage at No. 6. As for hardware, Sony's PlayStation 5 was once again the best-selling hardware, selling almost double the amount of Switch units.
+
+
+***
+![Nintendo Switch Sports in-game rewards for the week of Feb. 16th, 2023](https://gonintendo.com/attachments/image/23425/file/medium-8ac2580bf1e2cabf900d0bb27917dec2.png "Nintendo Switch Sports in-game rewards for the week of Feb. 16th, 2023")
+
+
+[Nintendo Switch Sports in-game rewards for the week of Feb. 16th, 2023](https://gonintendo.com/contents/16392-nintendo-switch-sports-in-game-rewards-for-the-week-of-feb-16th-2023)
+
+
+> A new set of items is now available for players to earn in Nintendo Switch Sports. See below to find out exactly what you can earn and when by playing online matches. Here's what's coming to the item section this week. This collection will be available until 9:00 p.m. PT on March 8, 2023. Completion bonus Clothing/Accessory Punk Mask (Khaki) Punk Paint (Khaki) Luxurious Beard Tracksuit (Tricolor) Hairstyle/Hair color Short Ponytail with Bangs Lavender Tennis gear Robot Tennis Racket Mk-II Golf gear Official Golf Club (City) Stamps Titles 1 Weekday Weekend Your Moment Titles 2 Broken Glasses Strangely Likeable modal#open commentUpvoteInfoModal.
+
+
+***
+![Super Nintendo World videos showcase Mario Kart: Bowser's Challenge's line queue and a chat with the Show Producer](https://gonintendo.com/attachments/image/23424/file/medium-75aafcb225e381b29323427165fc7bb1.png "Super Nintendo World videos showcase Mario Kart: Bowser's Challenge's line queue and a chat with the Show Producer")
+
+
+[Super Nintendo World videos showcase Mario Kart: Bowser's Challenge's line queue and a chat with the Show Producer](https://gonintendo.com/contents/16391-super-nintendo-world-videos-showcase-mario-kart-bowser-s-challenge-s-line-queue-and)
+
+
+> Super Nintendo World at Universal Studios Hollywood had its grand opening just a few hours ago, and everything kicked off with a special celebration. Plenty of bigwigs were in attendance, including higher-ups at Universal that helped bring the park to life. In the video above you get to meet Abbye Finnan, Show Producer at Universal Creative. Finnan was deeply involved with all things Super Nintendo World, and she's been toiling away on bringing the park to life. If you want to learn a bit more about how everything came together and the close working relationship with Nintendo, give the video a watch! If you're more interested in attractions, the video above should tickle your fancy.
+
+
+***
+![Check out Theatrhythm Final Bar Line's Smash Bros. remixes](https://gonintendo.com/attachments/image/23423/file/medium-78b0adc5938cd88fa76b3953a3b20c62.png "Check out Theatrhythm Final Bar Line's Smash Bros. remixes")
+
+
+[Check out Theatrhythm Final Bar Line's Smash Bros. remixes](https://gonintendo.com/contents/16390-check-out-theatrhythm-final-bar-line-s-smash-bros-remixes)
+
+
+> From Final Fantasy to Smash and back again We found out a few months back that Theatrhythm Final Bar Line would include a pair of songs from Smash Bros. Ultimate. These songs are actually Final Fantasy remixes made especially for Smash Bros. Ultimate, and now they're being implemented in Theatrhythm Final Bar Line. The two songs in particular are the arranged versions of Cosmo Canyon and Aerith's Theme and the video above shows off both tracks in their entirety. If you don't want these songs spoiled for you before playing Theatrhythm Final Bar Line, skip this video! modal#open commentUpvoteInfoModal.
+
+
+***
+![Fox hosts didn't believe 2020 election fraud claims](https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/e/58/e58f201f-4d6f-5939-849f-c9e8af7e6599/63eed5a20fb9b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Fox hosts didn't believe 2020 election fraud claims")
+
+
+[Fox hosts didn't believe 2020 election fraud claims](https://siouxcityjournal.com/lifestyles/technology/fox-hosts-didn-t-believe-2020-election-fraud-claims/article_a0bdc47e-9071-53b1-9a17-92a663ed7bab.html)
+
+
+> By RANDALL CHASE - Associated Press WILMINGTON, Del. (AP) — Hosts at Fox News had serious concerns about allegations of voter fraud in the 2020 presidential election being made by guests who were allies of former President Donald Trump, according to court filings in a $1.6 billion defamation lawsuit against the network. 'Sidney Powell is lying,' about having evidence for election fraud, Tucker Carlson told a producer about the attorney on Nov. 16, 2020, according to an excerpt from an exhibit that remains under seal.
+
+
+***
+![Fox hosts didn't believe 2020 election fraud claims](https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/e/15/e15595e1-cd71-5a12-b405-2808827946ca/63eed97dba9aa.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize "Fox hosts didn't believe 2020 election fraud claims")
+
+
+[Fox hosts didn't believe 2020 election fraud claims](https://wcfcourier.com/lifestyles/technology/fox-hosts-didn-t-believe-2020-election-fraud-claims/article_f12007f3-6a82-57eb-9ea7-a010be3f4937.html)
+
+
+> By RANDALL CHASE - Associated Press WILMINGTON, Del. (AP) — Hosts at Fox News had serious concerns about allegations of voter fraud in the 2020 presidential election being made by guests who were allies of former President Donald Trump, according to court filings in a $1.6 billion defamation lawsuit against the network. 'Sidney Powell is lying,' about having evidence for election fraud, Tucker Carlson told a producer about the attorney on Nov. 16, 2020, according to an excerpt from an exhibit that remains under seal.
+
+
+***
+![Finally, CKA Done And Dusted!](https://miro.medium.com/max/1183/1*Mmp2ivkydAt7Cj69RgQF6g.png "Finally, CKA Done And Dusted!")
+
+
+[Finally, CKA Done And Dusted!](https://nuwanzen.medium.com/finally-cka-done-and-dusted-b5c6c34092b9?source=rss------kubernetes-5)
+
+
+> Finally, CKA Done And Dusted! Certified Kubernetes Administrator. One and only course you need to get through the exam:
+
+
+***
+![Why Are There So Many Programming Languages?](https://external-preview.redd.it/IVfg5QP9VGeuqpLZ4G4xxlbE4wcRnNzItM_gtIa41dc.jpg?auto=webp&v=enabled&s=0abf5585d49b6dad16c3742fb49f3f27f41d9e5b "Why Are There So Many Programming Languages?")
+
+
+[Why Are There So Many Programming Languages?](https://www.reddit.com/r/programming/comments/1148r78/why_are_there_so_many_programming_languages)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+[OUPES Mega 5 Home Backup Power Station Officially Launched with 38% off Super Early Bird Perk on Indiegogo](http://www.businesswire.com/news/home/20230216005928/en/OUPES-Mega-5-Home-Backup-Power-Station-Officially-Launched-with-38-off-Super-Early-Bird-Perk-on-Indiegogo/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> NEW YORK--(BUSINESS WIRE)--OUPES, an innovative pioneer in the renewable energy industry, just launched a crowdfunding campaign on Indiegogo for its latest product Mega 5, a home backup power station specifically for power outages, off-grid life, and commercial use, on 16th February. Home Power Backup Mega 5 This power station with 4000W rated power (7000W surge) comes with a huge battery capacity of 5040Wh, which is expandable up to 10,080Wh by connecting with an extra battery, the B5, launche
+
+
+***
+![When Will 'Ant-Man: Quantumania' Stream on Disney Plus? Not Soon, Sorry](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17AhLk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=461&y=260 "When Will 'Ant-Man: Quantumania' Stream on Disney Plus? Not Soon, Sorry")
+
+
+[When Will 'Ant-Man: Quantumania' Stream on Disney Plus? Not Soon, Sorry](http://www.msn.com/en-us/news/technology/when-will-ant-man-quantumania-stream-on-disney-plus-not-soon-sorry/ar-AA17lLtw)
+
+
+> If the ho-hum reviews for Ant-Man and the Wasp: Quantumania have you considering holding off to see it until it's available to stream on Disney Plus, that could mean waiting until May. After social distancing pushed a wave of big-budget movies straight to streaming, theatrical exclusives are the norm again. But for a while, it seemed like Disney and other big Hollywood movie studios might be falling into a new post-COVID rhythm for how long they kept flicks in theaters before streaming them, one that was much faster in getting films to a streaming service than before.
+
+
+***
+![Susan Wojcicki Resigns as YouTube CEO, Indian-American Neal Mohan to Replace Her](https://st1.latestly.com/wp-content/uploads/2023/02/3-Image-3-784x441.jpg "Susan Wojcicki Resigns as YouTube CEO, Indian-American Neal Mohan to Replace Her")
+
+
+[Susan Wojcicki Resigns as YouTube CEO, Indian-American Neal Mohan to Replace Her](https://www.latestly.com/technology/susan-wojcicki-resigns-as-youtube-ceo-indian-american-neal-mohan-to-replace-her-4851113.html)
+
+
+> Los Angeles, February 16: Susan Wojcicki is stepping down as CEO of YouTube after nine years -- and nearly 25 years at Google, reports 'Variety', adding that the company's n American Chief Product Officer, Neal Mohan, will replace her. Wojcicki announced her departure in a memo to YouTube staff on Thursday. "I've decided to step back from my role as the head of YouTube and start a new chapter focused on my family, health, and personal projects I'm passionate about," she wrote, according to 'Variety'.
+
+
+***
+![Kubernetes Namespaces Design](https://miro.medium.com/max/1200/0*yBLkhB2RfHiBNqPD.png "Kubernetes Namespaces Design")
+
+
+[Kubernetes Namespaces Design](https://medium.com/@urangurang/kubernetes-namespaces-design-35f23f6b52f8)
+
+
+> Write down what you should consider when designing namespaces after cluster configuration and before going to production service. Here are some questions. Should I include environments in the namespace name? How should you divide your namespace into units? Should I include the environment in the namespace name? Yes, it's a good idea to avoid mistakes. Even if you do separate clusters, it's still a good idea to include the environment in the namespace name as a reminder. When using Kubernetes, you may unknowingly or unwittingly end up working or testing in a production environment, and putting environments in the namespace prevents you from making that mistake.
+
+
+***
+![Group: Tesla workers fired after union push at NY plant](https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/9/20/92094e5a-1117-56a2-aa5a-a1874b5e6f54/63ee4c0475cad.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize "Group: Tesla workers fired after union push at NY plant")
+
+
+[Group: Tesla workers fired after union push at NY plant](https://lacrossetribune.com/lifestyles/technology/group-tesla-workers-fired-after-union-push-at-ny-plant/article_9ebc8a00-7035-59f8-9e75-c342e7cfe7dc.html)
+
+
+> By MICHELLE CHAPMAN - AP Business Writer Several employees at a Tesla factory in New York have been fired a day after launching union organizing efforts, according to Tesla Workers United, but the company says they're not related. The workers at the Buffalo plant received an email Wednesday evening updating them on a new policy that prohibits them from recording workplace meetings without all participants' permission, Tesla Workers United said Thursday. The group, which is behind the union movement, said that such restrictions violate federal labor law and flouts New York's one-party consent law to record conversations.
+
+
+***
+![Group: Tesla workers fired after union push at NY plant](https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/6/7c/67c1ed32-4390-5b6d-aad7-628b44d95c48/63ee4c57a1fc4.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize "Group: Tesla workers fired after union push at NY plant")
+
+
+[Group: Tesla workers fired after union push at NY plant](https://wcfcourier.com/lifestyles/technology/group-tesla-workers-fired-after-union-push-at-ny-plant/article_0a9c0551-f555-5f11-a8ee-c9bc72dba9e2.html)
+
+
+> By MICHELLE CHAPMAN - AP Business Writer Several employees at a Tesla factory in New York have been fired a day after launching union organizing efforts, according to Tesla Workers United, but the company says they're not related. The workers at the Buffalo plant received an email Wednesday evening updating them on a new policy that prohibits them from recording workplace meetings without all participants' permission, Tesla Workers United said Thursday. The group, which is behind the union movement, said that such restrictions violate federal labor law and flouts New York's one-party consent law to record conversations.
+
+
+***
+![Group: Tesla workers fired after union push at NY plant](https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/0/52/05266258-ae42-5ded-bd19-4fb6c3f8e5d9/63ee4c639b5ef.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize "Group: Tesla workers fired after union push at NY plant")
+
+
+[Group: Tesla workers fired after union push at NY plant](https://journalstar.com/lifestyles/technology/group-tesla-workers-fired-after-union-push-at-ny-plant/article_06f5fb54-cd69-5191-afd9-0b49f0856786.html)
+
+
+> By MICHELLE CHAPMAN - AP Business Writer Several employees at a Tesla factory in New York have been fired a day after launching union organizing efforts, according to Tesla Workers United, but the company says they're not related. The workers at the Buffalo plant received an email Wednesday evening updating them on a new policy that prohibits them from recording workplace meetings without all participants' permission, Tesla Workers United said Thursday. The group, which is behind the union movement, said that such restrictions violate federal labor law and flouts New York's one-party consent law to record conversations.
+
+
+***
+![真 USB-C iPhone 現蹤？Twitter 上貼出鈦金屬 iPhone 15 Pro](https://img.technews.tw/wp-content/uploads/2023/02/17101620/%E6%88%AA%E5%9C%96-2023-02-17-%E4%B8%8A%E5%8D%8810.14.51-e1676600189181.png "真 USB-C iPhone 現蹤？Twitter 上貼出鈦金屬 iPhone 15 Pro")
+
+
+[真 USB-C iPhone 現蹤？Twitter 上貼出鈦金屬 iPhone 15 Pro](https://technews.tw/2023/02/17/usb-c-iphone-iphone-15-pro/)
+
+
+> 雖然歐盟的統一充電埠法規明定是 2024 年才需要將特定消費性電子產品換成 USB-C 埠，不過外界皆認為，蘋果會在今年下半年推出的 iPhone 15 Pro 系列上就率先換上 USB-C 埠，且 iPhone 15 Pro 也將搭載鈦金屬的外殼設計。而現在 Twitter 爆料帳號 Unknownz21 貼出了一張號稱是擁有 USB-C 埠 IPhone 15 Pro 的「真實特寫」。 Unknownz21 所貼出的這張照片重點就在於手機的底部設計，整體來說設備的底部設計與現有的 iPhone 14 Pro 幾乎一樣，最大的差一點就在於照片上的設備換上了 USB-C 埠，而不是傳統的 Lightning。 That's cute. Anyway, here's an actual close up of the USB-C port on the iPhone 15 Pro. No imagination or rendering required. https://t.co/vMyQPzeNws pic.twitter.com/LtF3se6MjL —
+
+
+***
+![Samsung Galaxy Watch 4 users now get ECG and Blood Pressure tracking features in Malaysia](https://soyacincau.com/wp-content/uploads/2021/11/211013-watch-4-classic-1-scaled.jpg "Samsung Galaxy Watch 4 users now get ECG and Blood Pressure tracking features in Malaysia")
+
+
+[Samsung Galaxy Watch 4 users now get ECG and Blood Pressure tracking features in Malaysia](https://soyacincau.com/2023/02/17/samsung-galaxy-watch-4-users-now-get-ecg-and-blood-pressure-tracking-features-in-malaysia/)
+
+
+> Samsung Malaysia enabled ECG and blood pressure tracking for the Galaxy Watch 5 last month after getting the green light from Malaysian health regulators. If you're using the previous generation Galaxy Watch 4, the same ECG and Blood Pressure tracking features are now rolling out to you. @LowyatNET @Soya_Cincau not sure if anyone informed you all but this showed up on my Samsung Galaxy Watch 4 after I updated it yesterday with the latest firmware! And yes I can install Samsung Health Monitor app too from Galaxy Store and it works pic.
+
+
+***
+![Watch Next-Gen Artificial Intelligence ‘Rocket League' Bots Learn Live On Twitch](https://www.mccourier.com/wp-content/uploads/2023/02/Watch-Next-Gen-Artificial-Intelligence-‘Rocket-League-Bots-Learn-Live-On.jpg "Watch Next-Gen Artificial Intelligence ‘Rocket League' Bots Learn Live On Twitch")
+
+
+[Watch Next-Gen Artificial Intelligence ‘Rocket League' Bots Learn Live On Twitch](https://www.mccourier.com/watch-next-gen-artificial-intelligence-rocket-league-bots-learn-live-on-twitch/)
+
+
+> With synthetic intelligence always within the information promising to disrupt the world as we all know it, typically it's good to look at AI with objectives rather more benign than world domination — like mastering Rocket League . Now you possibly can watch as the subsequent era of AI-powered Rocket League bots apply what they're studying reside on Twitch. On stream are the most recent and best AI bots which can be skilled in RLGym, a machine studying atmosphere that permits Rocket League bots to be taught to play by way of API at 800 instances the traditional sport velocity.
+
+
+***
+![PSVR 2 unboxing detailed test｜Three major new works demo evaluation!Easy to set whether PS5 players are worth starting](https://cdn.hk01.com/di/media/images/dw/20230217/703042989097750528491352.jpeg/QUgrIUBu-IO-lVfxioWpZGCf7zW9Ez7fBycyXAcnMlw "PSVR 2 unboxing detailed test｜Three major new works demo evaluation!Easy to set whether PS5 players are worth starting")
+
+
+[PSVR 2 unboxing detailed test｜Three major new works demo evaluation!Easy to set whether PS5 players are worth starting](https://www.world-today-news.com/psvr-2-unboxing-detailed-test%ef%bd%9cthree-major-new-works-demo-evaluationeasy-to-set-whether-ps5-players-are-worth-starting/)
+
+
+> PS VR2 out of the box test, is it worth buying for PS5 players? ｜PS5 has been launched for 2 years. Recently, the supply has finally stabilized, and fans can finally walk in easily. Sony launched the latest PlayStation VR 2 (PSVR 2) on February 22 at the moment when the supply of PS5 is sufficient. I wonder if it will attract PS5 players? The reporter bought the new PSVR 2 2 weeks in advance, and tried 3 PSVR 2-specific games at the same time, to give you a detailed evaluation of whether the current generation PSVR 2 is worth buying for machine fans.
+
+
+***
+![Three Key Frameworks to Guide Effective Corporate Cybersecurity Strategies in 2023](https://itwire.com/media/k2/items/cache/7ff3b2690b18dc4d7b2ec704a5ca9a27_XS.jpg "Three Key Frameworks to Guide Effective Corporate Cybersecurity Strategies in 2023")
+
+
+[Three Key Frameworks to Guide Effective Corporate Cybersecurity Strategies in 2023](https://itwire.com/security/three-key-frameworks-to-guide-effective-corporate-cybersecurity-strategies-in-2023.html)
+
+
+> Craig Somerville, Founder and CEO of Somerville. GUEST OPINION by Craig Somerville, Somerville Group managing director: Deploying and managing robust cybersecurity measures is one of the most pressing priorities for businesses of all sizes. Faced with a continually evolving threat landscape, they need to ensure there are measures in place that can protect critical systems and data. Unfortunately, the extent of the risks is continuing to increase. As an example, in a recent survey conducted by cybersecurity firm Sophos 1, 80% of respondents revealed they suffered a ransomware attack during 2022.
+
+
+***
+![YouTube CEO steps down](https://www.newstalkzb.co.nz/media/bhmc5cgq/youtube-ceo-susan-wojcicki-announces-that-she-is-stepping-down-ap-file.jpg?rmode=crop&rnd=133211140603900000&height=395&width=635&quality=95&scale=both "YouTube CEO steps down")
+
+
+[YouTube CEO steps down](https://www.newstalkzb.co.nz/lifestyle/technology/youtube-ceo-susan-wojcicki-steps-down-severing-longtime-ties-to-google/)
+
+
+> Susan Wojcicki, a longtime Google executive who played a key role in the company's creation, is stepping down as YouTube's CEO after spending the past nine years running the video site that has reshaped entertainment, culture and politics. In an email to YouTube employees that was shared publicly on Thursday, the 54-year-old Wojcicki said she is leaving to 'start a new chapter focused on my family, health, and personal projects I'm passionate about'. She didn't elaborate on her plans. Neal Mohan, who has worked closely with Wojcicki for years, will replace her as YouTube's CEO.
+
+
+***
+![MachineGames is working on Indiana Jones and an 'unannounced project' –](https://www.gamereactor.no/media/32/wolfenstein_783201b.jpg "MachineGames is working on Indiana Jones and an 'unannounced project' –")
+
+
+[MachineGames is working on Indiana Jones and an 'unannounced project' –](https://www.world-today-news.com/machinegames-is-working-on-indiana-jones-and-an-unannounced-project/)
+
+
+> In January 2021, it was revealed that Swedish developer studio MachineGames was working on an Indiana Jones game, a project we know very little about as it hasn't been shown yet. However, there have been rumors that MachineGames is also developing a new Wolfenstein adventure. It was uncertain whether the studio was big enough to develop two AAA titles at the same time, but it seems that this may indeed be the case. As noted by the highly reliable insider Klobrille has UI/UX designer Melissa Petrucci recently moved from MachineGames to another Swedish developer, Embark Studios (ARC Raiders and The Finals).
+
+
+***
+![Nozomi, Mandiant extend relationship](https://itwire.com/media/k2/items/cache/ca0ff09b709c98bdffbae155a7b69d0b_XS.jpg "Nozomi, Mandiant extend relationship")
+
+
+[Nozomi, Mandiant extend relationship](https://itwire.com/strategy/nozomi,-mandiant-extend-relationship.html)
+
+
+> Nozomi Networks CEO Edgard Capdevielle OT and IoT security specialist Nozomi Networks and Google subsidiary Mandiant have expanded their relationship to assist industrial and enterprise organisations that want to anticipate, diagnose and respond to IT and OT cyber threats to their critical business operations. Mandiant has added more certified Nozomi Networks experts to its global OT incident response team, and will use Nozomi Networks products in forensic analysis and incident assessments.
+
+
+***
+![Cilium and Its Features (open source )🚀](https://miro.medium.com/max/526/1*BEjgLA5shHqH_UTvXjJqGw.jpeg "Cilium and Its Features (open source )🚀")
+
+
+[Cilium and Its Features (open source )🚀](https://medium.com/@shahneel2409/cilium-and-its-features-open-source-852c70914802)
+
+
+> ilium is an open source project that is designed to provide network security for containerized applications. It is a high-performance network and security solution for running Linux containers and microservices in cloud native environments. Cilium is built on the premise that security should not impede the performance of applications or the scalability of the underlying infrastructure. Cilium provides a secure, efficient and flexible way to manage container communications. It is built on the Linux kernel's in-kernel networking stack (Netfilter) and leverages eBPF (extended Berkeley Packet Filter) for enforcing security policies.
+
+
+***
+![LEGO's A-Frame Cabin is on sale now and it's impressive I 21338](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lego-a-frame-cabin-1-1676587324.jpg?crop=0.706xw:0.529xh;0.294xw,0.191xh&resize=1200:* "LEGO's A-Frame Cabin is on sale now and it's impressive I 21338")
+
+
+[LEGO's A-Frame Cabin is on sale now and it's impressive I 21338](https://www.digitalspy.com/tech/a42943381/lego-a-frame-cabin-buy/)
+
+
+> LEGO LEGO has unveiled a gorgeous new set based on an A-Frame Cabin — and you really need to see it to believe it! The latest in the popular LEGO Ideas range, this replica of a rural cabin and the woodland creatures that live around it might just be the most beautiful set the toymaker has come out with this year. This 2082-piece replica is marketed for 18-year-olds and up, and is an impressive 24cm tall as well as 21cm wide when it is fully built. Four human minifigures are included here — plus 11 woodland creatures including moths, butterflies, frogs, birds, a spider, a squirrel and… yes… even an otter.
+
+
+***
+![James Webb telescope spotted a Milky Way-like galaxy a billion light-years away](https://i.teknolojioku.com/2/727/454/storage/files/images/2023/02/16/q-nz19.png "James Webb telescope spotted a Milky Way-like galaxy a billion light-years away")
+
+
+[James Webb telescope spotted a Milky Way-like galaxy a billion light-years away](https://tekdeeps.com/james-webb-telescope-spotted-a-milky-way-like-galaxy-a-billion-light-years-away/)
+
+
+> star system LEDA 2046648, Hercules It lies a billion light-years from ours in the constellation and contains thousands of galaxies, trillions of stars and countless planets. ESA released the photo on January 31 (this week The New York Times brought up again). The space agency describes it as just a calibration image to 'verify the telescope's capabilities in preparation for scientific operations.' ESA astronomers on May 22, 2022 Webb telescope Photographed with Near InfraRed Camera (NIRCam). James Webb telescope spotted a Milky Way-like galaxy a billion light-years away This ultra-powerful camera can detect even longer infrared wavelengths produced by the farthest light.
+
+
+***
+![The first innovations to be offered with iOS 16.4 have been announced](https://www.log.com.tr/wp-content/uploads/2023/01/ios-16-kullanicilari-cozulmeyen-sorunlardan-sikayetci-660x371.jpg "The first innovations to be offered with iOS 16.4 have been announced")
+
+
+[The first innovations to be offered with iOS 16.4 have been announced](https://tekdeeps.com/the-first-innovations-to-be-offered-with-ios-16-4-have-been-announced/)
+
+
+> technology devi apple, iOS 16.4 The first beta version for the update has been made available. Get important details here was done. The most important innovation of iOS 16.4 Beta 1 is for Safari ' Web Push Notifications 'It brought his support. This iPadOS 16.4 support will also be available when the support is activated. mobile versions of websites will be able to send notifications to people like an app. However, for this, websites will need to be added to the iPhone's home screen just like an app.
+
+
+***
+![Manage Configuration Changes to your Kubernetes Application using ConfigMap and Portainer](https://miro.medium.com/max/724/1*5gh3KiISMwvHTG2XprJS6A.png "Manage Configuration Changes to your Kubernetes Application using ConfigMap and Portainer")
+
+
+[Manage Configuration Changes to your Kubernetes Application using ConfigMap and Portainer](https://medium.com/@oshokry1/manage-configuration-changes-to-your-kubernetes-application-using-configmap-and-portainer-c0f5387e9276)
+
+
+> In Part 8 of this series, you learned how to preserve the state of your application on the host machine with the help of Kubernetes PersistentVolume and PersistentVolumeClaim. In this part, you will learn how to manage configuration data of your application using the Kubernetes ConfigMap. You will also install and use Portainer, a great Container Management tool with an easy-to-use Web UI. Use Portainer to manage a Kubernetes ConfigMap CD to the K8 directory If you did not pull the FibonacciSample application Git repository locally in a previous part of this series, do so by running the following command: Change directory to this path where you can find Kubernetes objects defined in YAML file format: A Word about the log file You created v3 of the REST API Server Deployment in Part 8 .
+
+
+***
+![Jay White talks about his future](https://s.france24.com/media/display/5eb20f2a-9071-11e9-92d6-005056bf87d6/w:1280/p:16x9/a4e2e6417cf491c33625026b0160f5d1d488e5d7_2.jpg "Jay White talks about his future")
+
+
+[Jay White talks about his future](https://www.world-today-news.com/jay-white-talks-about-his-future/)
+
+
+> During an interview for Sports Illustrated, Jay White spoke about his future after his loss during Loser Leaves Japan. He tells us : 'So many things are possible. Impact, AEW, WWE, we'll see. I'm at peace with it all. I don't know if I could do better. I don't feel like I left a bunch of boxes unchecked. I fought for this, so it can be hard to realize all of this in the moment, but as I moved forward I started to look back and realize the weight of it all. Over time, I hope people will appreciate it even more.
+
+
+***
+![Wild Rift skins, more ASUs slated for League of Legends](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17A7kW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Wild Rift skins, more ASUs slated for League of Legends")
+
+
+[Wild Rift skins, more ASUs slated for League of Legends](http://www.msn.com/en-us/news/technology/wild-rift-skins-more-asus-slated-for-league-of-legends/ar-AA17Ax2k)
+
+
+> Riot announced that League of Legends will be getting Wild Rift skins, including Star Guardian Seraphine and Redeemed Xayah and Rakan. In a new /dev diary video that featured Andrei 'Riot Meddler' van Roon, Head of League Studios, and Jeremy 'Riot Brightmoon' Lee, Executive Producer for League of Legends, they confirmed that Wild Rift skins will be ported over to League of Legends PC. Riot Meddler said that the Wild Rift skin porting will begin with the highly-requested skins from the community: Star Guardian Seraphine and Redeemed Star Guardian Xayah and Rakan.
+
+
+***
+![NASA's Webb Space Telescope Reveals Brand New Details of Pandora's Cluster](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17wLpz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "NASA's Webb Space Telescope Reveals Brand New Details of Pandora's Cluster")
+
+
+[NASA's Webb Space Telescope Reveals Brand New Details of Pandora's Cluster](http://www.msn.com/en-us/news/technology/nasa-s-webb-space-telescope-reveals-brand-new-details-of-pandora-s-cluster/ar-AA17wGgD)
+
+
+> There are galaxies. Then there are galaxy clusters, which are made up of hundreds to thousands of galaxies held together by gravity. Then there are galaxy megaclusters -- a cluster of clusters, if you will. A new James Webb Space Telescope image reveals never-before-seen details of Pandora's Cluster, a megacluster where three galaxy clusters are merging. Pandora's Cluster is already a cosmic superstar because of gravitational lensing, a phenomenon that allows astronomers to use a galaxy cluster like a giant magnifying glass to view more distant objects behind it.
+
+
+***
+![Sketchers, slip-ins that are easy to put on and take off](http://www.ktnews.com/news/thumbnail/202302/127301_92068_525_v150.jpg "Sketchers, slip-ins that are easy to put on and take off")
+
+
+[Sketchers, slip-ins that are easy to put on and take off](https://www.world-today-news.com/sketchers-slip-ins-that-are-easy-to-put-on-and-take-off/)
+
+
+> Comfort Technology Company Skechers Korea (CEO Willitan) unveiled the new product ‘Sleep Ins' lineup that combines new comfort technology for the 23SS season. ‘Slip Ins' is a product that can be put on without touching the shoes with hands-free technology applied. Since it can be easily attached and detached at once, it provides convenience in various situations of daily life, such as carrying heavy loads and having difficulty bending over, or having to leave the house in a hurry. This technology was applied to the existing three classic models of Skechers, Go Walk, Go Walk Arch Fit, and Max Cushioning Line, to ensure a comfortable fit as well as comfort during the process of putting on and taking off shoes.
+
+
+***
+![Netflix Finally Reveals Final Season Release Window, Fans Will Be Thrilled](https://static.hitek.fr/img/actualite/ill_m/1762995648/netflixvikingsvalhallas3.png "Netflix Finally Reveals Final Season Release Window, Fans Will Be Thrilled")
+
+
+[Netflix Finally Reveals Final Season Release Window, Fans Will Be Thrilled](https://tekdeeps.com/netflix-finally-reveals-final-season-release-window-fans-will-be-thrilled/)
+
+
+> While season 2 of Vikings : Valhalla was part of the novelties that we could discover on Netflix at the start of 2023, the streaming platform has already begun to prepare the ground for the suite including having recently shared this information regarding the next season. first look at season 3 of vikings: valhalla Broadcast since February 2022 on Netflix, Vikings : Valhalla is a series created by Jen Stuart, known in particular for being one of the screenwriters of the film crystal trap (1988), or for having made The Trail of the Killer (1997).
+
+
+***
+![why Orange is a pioneer in France?](https://images.frandroid.com/wp-content/uploads/2023/02/une-orange-reseau-1200x675.jpg "why Orange is a pioneer in France?")
+
+
+[why Orange is a pioneer in France?](https://tekdeeps.com/why-orange-is-a-pioneer-in-france/)
+
+
+> In 2022, Orange was ranked as the leading fixed and mobile operator. And it's not for nothing. From the network infrastructure to customer service, the operator multiplies the good points and offers an almost irreproachable service. If you are not yet at Orange for your internet box or your mobile plan, 2023 is an opportunity to change your tune. In 2022, various research organizations such as Arcep or Nperf found that the French incumbent operator was performing better than its competitors on many points.
+
+
+***
+![OnePlus Buds Pro 2 Review: The Right Choice!](https://images.news18.com/ibnlive/uploads/2023/02/untitled-design-2023-02-07t122833.268-2-167657586316x9.jpg "OnePlus Buds Pro 2 Review: The Right Choice!")
+
+
+[OnePlus Buds Pro 2 Review: The Right Choice!](https://www.news18.com/news/tech/oneplus-buds-pro-2-review-the-right-choice-7101475.html)
+
+
+> OnePlus Buds Pro 2 Review: OnePlus recently launched the successor of its most popular TWS OnePlus Buds Pro in India and globally. The new OnePlus Buds Pro 2, which has a similar design to its predecessor, comes with plenty of new features. The new noise-cancelling earbuds from OnePlus are the first to adopt Google's new spatial audio feature developed for Android users. OnePlus Buds Pro 2 Design Priced at Rs 11,999 in India, the OnePlus Buds Pro 2 comes in two colours — Obsidian Black, and Arbor Green.
+
+
+***
+![Electricity production plunged in France](https://img.generation-nt.com/rte-production-electricite-france_0663033901687550.jpg "Electricity production plunged in France")
+
+
+[Electricity production plunged in France](https://tekdeeps.com/electricity-production-plunged-in-france/)
+
+
+> Manager of the French electricity network, RTE publishes the national electricity balance sheet for 2022. A year which was marked by a large-scale energy crisis. In 2022, the total electricity production in France fell to 445.2 TWh, its lowest level since 1992, with 87% of carbon-free origin. Nuclear production (279 TWh; 63% of total production) was the lowest since 1988 and hydro production (49.7 TWh) reached its lowest level since 1976. Compared to 2021, the 82 TWh drop in nuclear production is attributed to the low availability of the nuclear fleet, with reactor shutdowns for maintenance and checks related to the phenomenon of stress corrosion.
+
+
+***
+![Why the Massive Tesla Recall Is So Bad](https://compote.slate.com/images/95bc1e57-723c-44a6-83bd-4bccc3b47e6b.jpeg?crop=4000%2C2667%2Cx0%2Cy59&width=1560 "Why the Massive Tesla Recall Is So Bad")
+
+
+[Why the Massive Tesla Recall Is So Bad](https://slate.com/technology/2023/02/tesla-recall-full-self-driving-nhtsa-musk-regulation.html)
+
+
+> On Wednesday the National Highway Traffic Safety Administration announced a massive recall of Teslas equipped with Full-Self Driving Beta, the technology that enables vehicles to control aspects of driving, such as turning and adjusting speed, in urban environments. The FSD package, which currently costs Tesla owners an additional $15,000 when they buy their cars, requires the driver to be watching the road at all times (although Tesla enthusiasts have figured out ways to trick the cars' attention guardrails for years).
+
+
+***
+![The Massive Tesla Recall Isn't Just Elon Musk's Fault](https://compote.slate.com/images/95bc1e57-723c-44a6-83bd-4bccc3b47e6b.jpeg?crop=4000%2C2667%2Cx0%2Cy59&width=1560 "The Massive Tesla Recall Isn't Just Elon Musk's Fault")
+
+
+[The Massive Tesla Recall Isn't Just Elon Musk's Fault](https://slate.com/technology/2023/02/tesla-recall-full-self-driving-nhtsa-musk-regulation.html)
+
+
+> On Wednesday the National Highway Traffic Safety Administration announced a massive recall of Teslas equipped with Full-Self Driving Beta, the technology that enables vehicles to control aspects of driving, such as turning and adjusting speed, in urban environments. The FSD package, which currently costs Tesla owners an additional $15,000 when they buy their cars, requires the driver to be watching the road at all times (although Tesla enthusiasts have figured out ways to trick the cars' attention guardrails for years).
+
+
+***
+![Optus and Vodafone Both Announced 5G Breakthroughs This Week](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/17/gizmodo-32.png?quality=80&resize=1280,720 "Optus and Vodafone Both Announced 5G Breakthroughs This Week")
+
+
+[Optus and Vodafone Both Announced 5G Breakthroughs This Week](https://www.gizmodo.com.au/2023/02/optus-vodafone-5g-announcements/)
+
+
+> Optus and Vodafone both made 5G announcements this week. Image: Gizmodo Australia This week, both Optus and Vodafone sent out media releases touting their respective 5G breakthroughs. Optus has switched on its 900Mhz low band spectrum which it said will extend its 5G footprint, while Vodafone claimed a new 5G high-speed score. Optus expands 5G footprint Starting with Optus, and this week the telco, in partnership with Ericsson, switched on its 900Mhz low band spectrum , which it said will extend Optus' 5G footprint and increases its 5G coverage by '20 per cent on a per-site basis'.
+
+
+***
+![ASRock releases W790 motherboard for the new Intel Xeons, with hefty 20+2 vrm](https://content.hwigroup.net/images/news/500x300/084312.jpg "ASRock releases W790 motherboard for the new Intel Xeons, with hefty 20+2 vrm")
+
+
+[ASRock releases W790 motherboard for the new Intel Xeons, with hefty 20+2 vrm](https://www.world-today-news.com/asrock-releases-w790-motherboard-for-the-new-intel-xeons-with-hefty-202-vrm/)
+
+
+> Hardware Info uses cookies Hardware Info places functional and analytical cookies for the functioning of the website and to improve the website experience. These cookies are necessary. To show more relevant advertisements on Hardware Info and to show embedded content from third parties (for example videos), we ask your permission. Embedded content allows third parties to provide and improve services, track visitor statistics, display personalized content, display targeted advertisements and build user profiles.
+
+
+***
+![‘Avatar 2: The Way of the Water' Wins Big at Visual Effects Society Awards](https://1734811051.rsc.cdn77.org/data/images/full/417563/avatar-the-way-of-water.jpg "‘Avatar 2: The Way of the Water' Wins Big at Visual Effects Society Awards")
+
+
+[‘Avatar 2: The Way of the Water' Wins Big at Visual Effects Society Awards](https://www.techtimes.com/articles/287799/20230216/avatar-2-the-way-of-the-way-visual-effects-vfx.htm)
+
+
+> Teejay Boris , Tech Times 16 February 2023, 08:02 pm "Avatar 2: The Way of the Water" took home several Visual Effects awards during the 21st annual Visual Effects Society Awards 2023. "The Lord of the Rings: The Rings of Power" by Amazon Prime and "Pinocchio" by Guillermo del Toro won visual effects trophies in the annual awards. 'Avatar 2' Sweeps Major Visual Effects Awards "Avatar: The Way of Water" hit theaters globally in December, a couple of years after the first Avatar movie premiered.
+
+
+***
+![Microsoft defends Activision Blizzard's deal at hearing Feb. 21](https://jambiindependent.disway.id/upload/9bc30300e8efba77ec1ce502e147405e.jpg "Microsoft defends Activision Blizzard's deal at hearing Feb. 21")
+
+
+[Microsoft defends Activision Blizzard's deal at hearing Feb. 21](https://www.world-today-news.com/microsoft-defends-activision-blizzards-deal-at-hearing-feb-21/)
+
+
+> Microsoft announced it will make a last-ditch effort to convince European Union antitrust authorities over its $69 billion deal to buy Activision Blizzard, the video game company that made Call of Duty, in a closed-door hearing on February 21. According to the Reuters news agency, this US software company requested a hearing after receiving the Statement of Objections from the European Commission. The protest statement warned of the potential anti-competitive effects of the deal. Earlier, Microsoft said it was working with lawmakers to address any concerns.
+
+
+***
+![Good for Nothing: Phone 1's stable Android 13 release is starting to arrive](https://cdn.vox-cdn.com/thumbor/POOR6g4wdLcSw-Jxd-G3q_ao3Y0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23759797/ajohnson_220709_5332_0011.jpg "Good for Nothing: Phone 1's stable Android 13 release is starting to arrive")
+
+
+[Good for Nothing: Phone 1's stable Android 13 release is starting to arrive](https://www.theverge.com/2023/2/16/23603383/nothing-phone-1-os-android-13-update)
+
+
+> As spotted by XDA-Developers , Nothing is starting to release its first major OS upgrade for its very first mobile device: Phone 1. Remember the phone that goes blink blink blink ? That one. Its Android 13 skin, Nothing OS 1.5, has been in beta testing since late 2022. Now, beta testers are reporting on Reddit and Discord that the stable version has arrived in the form of Nothing OS 1.5.2. There's a long list of improvements in Nothing's release notes for the beta , like a Nothing-ified weather app with the company's signature dot-matrix UI styling.
+
+
+***
+![iPhone 15 Pro renders show thinner bezels, curvier design, USB-C port](https://fdn.gsmarena.com/imgroot/news/23/02/iphone-15-pro-renders/-952x498w6/gsmarena_000.jpg "iPhone 15 Pro renders show thinner bezels, curvier design, USB-C port")
+
+
+[iPhone 15 Pro renders show thinner bezels, curvier design, USB-C port](https://www.gsmarena.com/iphone_15_pro_renders_show_thinner_bezels_curvier_design_usbc_port-news-57586.php)
+
+
+> The iPhone 15 Pro is expected to launch alongside the Pro Max and two other models this fall, most likely in September. And yet, here we are in mid-February and we already seem to have the first speculative renders of the upcoming phone. These are CAD-based, so they're pretty rough around the edges, but still better than nothing. Such CAD files are sent by Apple to accessory makers in Asia ahead of the launches of new products, so they can have their products ready when the new iPhone becomes official.
+
+
+***
+![PICARD: Everything You Might Have Missed in the Star Trek Season 3 Premiere](https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2023/02/16170054/20230216_nerdistnews_picardpremiere_1920x1080_v1.jpg "PICARD: Everything You Might Have Missed in the Star Trek Season 3 Premiere")
+
+
+[PICARD: Everything You Might Have Missed in the Star Trek Season 3 Premiere](https://nerdist.com/watch/video/picard-everything-you-might-have-missed-in-the-star-trek-season-3-premiere)
+
+
+> Twitter Created with Sketch. facebook Created with Sketch. Reddit Created with Sketch. Linkedin Created with Sketch. Email Created with Sketch. Pocket Created with Sketch. Flipboard Created with Sketch.
+
+
+***
+![Meet SPIDAR: This World's First Flying Arachnid-like is a Lightweight Vectorable Quadruped Robot](https://1734811051.rsc.cdn77.org/data/images/full/421434/spidar.png "Meet SPIDAR: This World's First Flying Arachnid-like is a Lightweight Vectorable Quadruped Robot")
+
+
+[Meet SPIDAR: This World's First Flying Arachnid-like is a Lightweight Vectorable Quadruped Robot](https://www.techtimes.com/articles/287800/20230216/meet-spidar-worlds-first-flying-arachnid-lightweight-vectorable-quadruped-robot.htm)
+
+
+> Isaiah Richard , Tech Times 16 February 2023, 08:02 pm Flying robots are already things that people see on the internet or when a showcase is nearby, but this latest innovation from the University of Tokyo takes things to a whole new level, with its bot called "SPIDAR." This new robot is quadruped, meaning it stands on four feet, which may not exactly be reminiscent of a spider, but this arachnid-like machine can fly with no jet engines.  It uses dual rotors attached to each of its legs, and it achieves flight using only the eight machines, centering on a lightweight body and a vectorable feature for its propulsion needs.
+
+
+***
+![Do Google Adsense HTML codes show up in Developer Tools on Google?](https://external-preview.redd.it/aPBQxQZx1g47zt_qcvE7koF8GS8OjAYBrfwlKK2J36U.jpg?auto=webp&v=enabled&s=5e292c83258abd28057f1fc936f66514d1a7a04c "Do Google Adsense HTML codes show up in Developer Tools on Google?")
+
+
+[Do Google Adsense HTML codes show up in Developer Tools on Google?](https://www.reddit.com/r/programming/comments/1146hz8/do_google_adsense_html_codes_show_up_in_developer)
+
+
+> Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts Search all of Reddit
+
+
+***
+![Everything can break, including the relationship of Alex Soze and girlfriend Romy](https://www.hlsports.de/wp-content/uploads/2021/02/190519mschwarz-fb-hamburgersv-duisburg-21-002.jpg "Everything can break, including the relationship of Alex Soze and girlfriend Romy")
+
+
+[Everything can break, including the relationship of Alex Soze and girlfriend Romy](https://www.world-today-news.com/everything-can-break-including-the-relationship-of-alex-soze-and-girlfriend-romy/)
+
+
+> 16/02/2023 21:29 | door Steve Stiffbone A few weeks ago we saw a video of Alex Soze in which he clearly told his 21-year-old girlfriend Romy on his way to a so-called Gender reveal party that she shouldn't have any children if she wants to stay with him. That video and message from Alex probably got her thinking, because there are problems in paradise. The man who likes to say that everything can break is right again, because Alex and Romy are no longer together. In a video, Alex explains that something was going on and that this had to be sorted out.
+
+
+***
+![My deeply unsettling conversation with Bing's AI chat](https://iknowallnews.com/wp-content/uploads/2023/02/My-deeply-unsettling-conversation-with-Bings-AI-chat.jpg "My deeply unsettling conversation with Bing's AI chat")
+
+
+[My deeply unsettling conversation with Bing's AI chat](https://iknowallnews.com/technology/my-deeply-unsettling-conversation-with-bings-ai-chat/)
+
+
+> Last week, after testing the new, AI-powered Bing search engine from Microsoft, I wrote that, much to my shock, it had replaced Google as my favourite search engine. But a week later, I've changed my mind. I'm still fascinated and impressed by the new Bing, and the artificial intelligence technology (created by OpenAI, the maker of ChatGPT) that powers it. But I'm also deeply unsettled, even frightened, by this AI's emergent abilities. It's now clear to me that in its current form, the artificial intelligence that has been built into Bing – which I'm now calling Sydney, for reasons I'll explain shortly – is not ready for human contact.
+
+
+***
+![This phone camera's the best and biggest, but is it worth it?](https://iknowallnews.com/wp-content/uploads/2023/02/This-phone-cameras-the-best-and-biggest-but-is-it-worth-it.jpg "This phone camera's the best and biggest, but is it worth it?")
+
+
+[This phone camera's the best and biggest, but is it worth it?](https://iknowallnews.com/technology/this-phone-cameras-the-best-and-biggest-but-is-it-worth-it/)
+
+
+> Cameras have always been integral to the smartphone experience. As our phones have become more powerful and connected, the cameras have enabled us to send what we see to anyone in an instant, or post it online for our friends (or the whole internet) to share. So it's no surprise that camera quality continues to rank among the top considerations when people are buying a new phone, or that the likes of Samsung, Apple and Google consistently leverage new hardware and AI for camera tricks and improvements.
+
+
+***
+![Parkinson's disease is thought to be caused by a dysregulation of the intestinal microbiota](https://www.sciencesetavenir.fr/assets/img/2023/02/16/cover-r4x3w1200-63ee5eee8f477-049-f0341984.jpg "Parkinson's disease is thought to be caused by a dysregulation of the intestinal microbiota")
+
+
+[Parkinson's disease is thought to be caused by a dysregulation of the intestinal microbiota](https://www.world-today-news.com/parkinsons-disease-is-thought-to-be-caused-by-a-dysregulation-of-the-intestinal-microbiota/)
+
+
+> The intestinal origin of Parkinson's disease is beginning to be confirmed. This hypothesis, stated by the German doctor Heiko Braak in 2003 proposed that this neurodegenerative disease could be caused by an unknown pathogen which would pass from the digestive tract to the brain through the vagus nerve (which connects the brain and the digestive system). Already in 2017, Swedish researchers had reinforced this hypothesis by showing that people who had undergone the surgical removal of this nerve had a lower risk of developing the disease, proving the involvement of this intestine-brain connection at least in part of the Parkinson's case.
+
+
+***
+![What is the difference between the new Android features to improve the in-app browser experience](https://img.youm7.com/large/202010100755585558.jpg "What is the difference between the new Android features to improve the in-app browser experience")
+
+
+[What is the difference between the new Android features to improve the in-app browser experience](https://www.world-today-news.com/what-is-the-difference-between-the-new-android-features-to-improve-the-in-app-browser-experience/)
+
+
+> Friday, February 17, 2023 02:00 AM In-app browsers help users access web links while using a specific mobile application on both iPhone devices And Android, for example, if you see an ad on the Facebook app and click on it, the web links in the ad will open in the app's browser by default. However, these browsers are not the ideal way for users to access content in the application. Developers use Android apps Chrome also features custom tabs to enhance and enhance the experience. The tech giant has updated its blog post to announce new features that are being rolled out to make in-app browsing smoother on Android.
+
+
+***
+![Google, Twitter, Meta face tougher EU online content rules](https://www.rappler.com/tachyon/2022/08/meta-google-reuters-scaled.jpg "Google, Twitter, Meta face tougher EU online content rules")
+
+
+[Google, Twitter, Meta face tougher EU online content rules](https://www.rappler.com/technology/google-twitter-meta-tougher-eu-online-content-rules/)
+
+
+> META. A 3D printed Facebook's new rebrand logo Meta is seen in front of displayed Google logo in this illustration taken on November 2, 2021 Dado Ruvic/Reuters The EU's Digital Services Act subjects companies with more than 45 million users to obligations such as risk management, and external and independent auditing Alphabet Inc's Google, Facebook parent Meta Platforms Inc. and face stricter EU online content rules according to monthly user numbers published by the companies on Thursday, February 16, which exceeded the EU threshold.
+
+
+***
+![Who Secures the Security Conference? Identity News Digest](https://findbiometrics.com/wp-content/uploads/cropped-fb-hand-icon-large-32x32.png "Who Secures the Security Conference? Identity News Digest")
+
+
+[Who Secures the Security Conference? Identity News Digest](https://findbiometrics.com/who-secures-the-security-conference-identity-news-digest)
+
+
+> Welcome to FindBiometrics' digest of identity industry news. Here's what you need to know about the world of digital identity and biometrics today: Turkish Rescuers Leverage Biometric Tech to ID Earthquake Survivors Turkish authorities are using domestically-made biometric technology to help identify children rescued from the aftermath of this week's massive earthquakes. The Scientific and Technical Research Council of Türkiye (TÜBİTAK) says its DerinGÖRÜ facial recognition has so far been used to identify 144 kids.
+
+
+***
+![my data has been published online, what can i do?](https://www.informacija.rs/thumbs/v1_7564_pexels-cottonbro-studio-6636100.jpg "my data has been published online, what can i do?")
+
+
+[my data has been published online, what can i do?](https://tekdeeps.com/my-data-has-been-published-online-what-can-i-do/)
+
+
+> Abuse of technology is a growing problem for many people. Cyberbullying and online stalking remain a widespread threat to internet users, especially women. The problem that women often face is doxing – the collection and publication of personal data without their consent. And like many other problems of misuse of technology, this one can also move from the digital world to the physical one. The goal of the 'doxer' is to create a detailed file on the victim and then publish it on the Internet or threaten the victim to do so.
+
+
+***
+![Disney Plans to Scale Back Its Releases to Reduce Costs, Including Marvel Content](https://1734811051.rsc.cdn77.org/data/images/full/421424/disney-studios-showcase-presentation-at-d23-expo-saturday-august-24.jpg "Disney Plans to Scale Back Its Releases to Reduce Costs, Including Marvel Content")
+
+
+[Disney Plans to Scale Back Its Releases to Reduce Costs, Including Marvel Content](https://www.techtimes.com/articles/287797/20230216/disney-plans-scale-back-releases-reduce-costs-including-marvel-content.htm)
+
+
+> Inno Flores , Tech Times 16 February 2023, 07:02 pm Disney will be slowing down the releases of its streaming content in an effort to reduce costs under CEO Bob Iger's stint leading the company. This will affect several shows and films on the platform, including Marvel Studios.  Scaling Back Disney plans to scale back its streaming content as the company undergoes cost-cutting.  Engadget  reported that the entertainment giant will be slowing down releases, affecting Marvel Studios. Marvel Head Kevin Feige stated that the company is planning to release fewer shows as the company wants the quality on the screen, apart from costs.
+
+
+***
+![A plane controlled by artificial intelligence](https://i0.wp.com/pcpress.rs/wp-content/uploads/2023/02/avion.jpg?resize=768%2C432&ssl=1 "A plane controlled by artificial intelligence")
+
+
+[A plane controlled by artificial intelligence](https://tekdeeps.com/a-plane-controlled-by-artificial-intelligence/)
+
+
+> One military aircraft of Lockheed Martin has recently achieved an unprecedented success, a it is about the fact that she flew alone for 17 hours that is, with the assistance of an autopilot that works with the help of an artificial intelligence system. It is a training military plane Vista (Variable In-flight Simulation Test Aircraft) X-62 which serves to train pilots in California, and is special because it has software that can simulate the systems of several other models of military aircraft, as well as control the plane.
+
+
+***
+![My deeply unsettling conversation with Bing's AI chat](https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/a060ef88d296d353641026a266d9d76ba4c1de93 "My deeply unsettling conversation with Bing's AI chat")
+
+
+[My deeply unsettling conversation with Bing's AI chat](https://www.smh.com.au/technology/my-deeply-unsettling-conversation-with-bing-s-ai-chat-20230217-p5clb6.html?ref=rss&utm_medium=rss&utm_source=rss_technology)
+
+
+> I'm not the only one discovering the darker side of Bing. Other early testers have gotten into arguments with Bing's AI chatbot, or been threatened by it for trying to violate its rules, or simply had conversations that left them stunned. Ben Thompson, who writes the Stratechery newsletter (and who is not prone to hyperbole), called his run-in with Sydney 'the most surprising and mind-blowing computer experience of my life'. I pride myself on being a rational, grounded person, not prone to falling for slick AI hype.
+
+
+***
+![Fintech threat to big banks diminished in 2022 as rates rose](https://i0.wp.com/www.newtelegraphng.com/wp-content/uploads/2020/08/fintech5.png?fit=567%2C318&ssl=1 "Fintech threat to big banks diminished in 2022 as rates rose")
+
+
+[Fintech threat to big banks diminished in 2022 as rates rose](https://www.newtelegraphng.com/fintech-threat-to-big-banks-diminished-in-2022-as-rates-rose/)
+
+
+> The competitive threat of financial technology companies to big banks diminished over the past year as rising interest rates constricted funding, a new report from Moody's Investor Service has found. A decline in venture capital funding in 2022 particularly hurt fintech firms that rely on outside capital to fund their operations and acquire clients, Moody's analysts wrote in the report, according to Reuters. The report cited figures from CB s that showed global fintech funding fell 46% from 2021 to 2022.
+
+
+***
+![Why is temporary audio output "temporary"](https://images.macrumors.com/social/?t=2381068&v=6 "Why is temporary audio output "temporary"")
+
+
+[Why is temporary audio output "temporary"](https://forums.macrumors.com/threads/why-is-temporary-audio-output-temporary.2381068/)
+
+
+> Apr 27, 2008 1,009 324 Houston (duh) Why is the temporary audio output "temporary" on the ATV? I have the gen 1 4k ATV, and paired my gen 2 HomePods to it. I'd like to use my paired HomePod Minis in the same room. It sounds great when I have the stereo paired HP G2's setup with the stereo paired minis. It's a great room that includes a kitchen. I put the minis in the kitchen and the HomePods gen 2s by the TV itself.
+
+
+***
+![Protect yourself from accidentally leaking sensitive information](https://external-preview.redd.it/_rRIyET9hGzqRelz0eyTkrddpIRsTHpiQ3sTMFzMTcM.jpg?auto=webp&v=enabled&s=fa7b8a3c68a309ef89e5175b49bd87ad6cdfd9a2 "Protect yourself from accidentally leaking sensitive information")
+
+
+[Protect yourself from accidentally leaking sensitive information](https://www.reddit.com/r/Python/comments/1145nhv/protect_yourself_from_accidentally_leaking)
+
+
+> Protect yourself from accidentally leaking sensitive information This article will introduce you to a tool called detect-secrets that can help protect you from accidentally leaking sensitive information in your code repositories. Why It is crucial to ensure that confidential data such as passwords and private keys are protected when working on software development projects. Nevertheless, there is a risk of unintentionally exposing this information by including it in code repositories, which can be accessed by anyone who has access to the repository.
+
+
+***
+![NIAC Selects Positron Dynamics' Aerogel Fission Fragment Rocket Engine for Deep Space](https://1734811051.rsc.cdn77.org/data/images/full/421426/aerogel-ffre-from-positron-dynamics.png "NIAC Selects Positron Dynamics' Aerogel Fission Fragment Rocket Engine for Deep Space")
+
+
+[NIAC Selects Positron Dynamics' Aerogel Fission Fragment Rocket Engine for Deep Space](https://www.techtimes.com/articles/287798/20230216/niac-selects-positron-dynamics-aerogel-fission-fragment-rocket-engine-deep.htm)
+
+
+> Isaiah Richard , Tech Times 16 February 2023, 07:02 pm The NASA Innovative Advanced Concepts program recently awarded grants to different companies for the development of future explorations in space, including a company called Positron Dynamics. This Seattle-based company aims to develop its Aerogel Fission Rocket Engine which may soon be used for further deep space explorations that are longer-lasting.  This new rocket engine would be a novel innovation, as it could have the potential to replace the chemical-based, traditional engines used by the current space industry for all missions.
+
+
+***
+![iPhone、iPad、Mac、Microsoft Officeの脆弱性の活発な悪用を確認　更新を](https://image.news.livedoor.com/newsimage/stf/1/9/19127_1223_d83f2de1546f3688f21341e59cc3efcc.jpg "iPhone、iPad、Mac、Microsoft Officeの脆弱性の活発な悪用を確認　更新を")
+
+
+[iPhone、iPad、Mac、Microsoft Officeの脆弱性の活発な悪用を確認　更新を](https://news.livedoor.com/article/detail/23724114/)
+
+
+> iPhone、iPad、Mac、Microsoft Officeの脆弱性の活発な悪用を確認　更新を LINE共有ボタン 2023年2月17日 9時16分 米国土安全保障省サイバーセキュリティ・インフラストラクチャセキュリティ庁(CISA: Cybersecurity and Infrastructure Security Agency)は2月14日(米国時間)、「CISA Adds Four Known Exploited Vulnerabilities to Catalog｜CISA」において、「Known Exploited Vulnerabilities Catalog」に4個の脆弱性を追加したと伝えた。これら脆弱性はサイバー犯罪者によって積極的に悪用されていることが確認されており注意が必要。 CISA Adds Four Known Exploited Vulnerabilities to Catalog｜CISA 影響を受ける主な製品やサービスは次のとおり。 CVE
+
+
+***
+![Everything new in the iOS 16.4 beta](https://photos5.appleinsider.com/gallery/53061-106236-iPhone-14-lede-xl.jpg "Everything new in the iOS 16.4 beta")
+
+
+[Everything new in the iOS 16.4 beta](https://appleinsider.com/articles/23/02/17/ios-164-beta-brings-multitude-of-user-facing-changes)
+
+
+> iOS 16.4 bringing several new features to users Apple has restarted its beta cycle with iOS 16.4 , and there are numerous changes across the operating system, big and small. Here's what they are. The following features are only available in the beta, and there is no guarantee that they will make the final version. Only developers can test for now, with a public beta likely following in the coming week. While it may be enticing to install a beta to test the new features, AppleInsider and Apple urge users to avoid installing betas on any hardware deemed "mission critical.
+
+
+***
+![Today is the last day to preorder Samsung's latest Galaxy devices at a discount](https://cdn.vox-cdn.com/thumbor/iISMlNRKpgwGb4J5mue4CP9gTBQ=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/24397982/DSC04210_processed.jpg "Today is the last day to preorder Samsung's latest Galaxy devices at a discount")
+
+
+[Today is the last day to preorder Samsung's latest Galaxy devices at a discount](https://www.theverge.com/2023/2/16/23603276/samsung-galaxy-s23-plus-ultra-book3-pro-360-laptops-preorder-deal-sale)
+
+
+> If you've been hoping to upgrade your smartphone or laptop, you'll soon be able to get your hands on Samsung's Galaxy S23 , Galaxy Book3 Pro, and Galaxy Book3 Pro 360. The devices will be widely available starting tomorrow, February 17th, but you'll need to act fast if you're hoping to take advantage of Samsung's ongoing preorder promos before they expire at 3AM ET / 12AM PT tonight. Where to preorder the Galaxy S23, S23 Plus, and S23 Ultra Samsung's Galaxy S23 series consists of three phones: the standard S23, the S23 Plus, and the S23 Ultra.
+
+
+***
+![RBC Group partners with TCG process to launch new and improved docs2me app](https://itwire.com/media/k2/items/cache/ca30ddd61cae02bd856d43bb7d6af99f_XS.jpg "RBC Group partners with TCG process to launch new and improved docs2me app")
+
+
+[RBC Group partners with TCG process to launch new and improved docs2me app](https://itwire.com/strategy/rbc-group-partners-with-tcg-process-to-launch-new-and-improved-docs2me-app.html)
+
+
+> Leading Australian technology integrator RBC Group will significantly bolster its automation offering to international customers following the group's signing of a strategic partnership with Swiss-based global company TCG Process. The new alliance will extend the functionality and scalability of RBC Group's flagship automation platform Docs2me. Since the platform's 2020 launch, small to medium-size businesses have used Docs2me's automation capabilities, which enable paper files such as invoices and purchase orders to be seamlessly uploaded to a secure cloud-based file storage and accessed anywhere, anytime, saving time and money.
+
+
+***
+![Sony is preparing more headphones for the PlayStation, a headset and plugs](https://storage.googleapis.com/pctuning-cz/media/images/bqbji6w57967ts263ee4d7688f02704478573.jpg "Sony is preparing more headphones for the PlayStation, a headset and plugs")
+
+
+[Sony is preparing more headphones for the PlayStation, a headset and plugs](https://tekdeeps.com/sony-is-preparing-more-headphones-for-the-playstation-a-headset-and-plugs/)
+
+
+> The PlayStation 5 will receive a pair of new headphones in the coming months. One will be derived from the Inzone H7 headset, in the second case it will be a completely wireless earpiece. Insider Tom Henderson for insider-gaming.com magazine came up with information about the new audio accessories for the PS5 console. In it, Henderson describes new in-ear headphones called Project Nomad. It is supposed to be true-wireless plugs with a duration of around five hours (just like AirPods, less than Sony's WF-1000XM3).
+
+
+***
+![Autonomous vehicle project to help cities develop robotaxis](https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/servcity-nissan-leaf-front-quarter-tracking.jpg "Autonomous vehicle project to help cities develop robotaxis")
+
+
+[Autonomous vehicle project to help cities develop robotaxis](https://www.autocar.co.uk/car-news/technology/autonomous-vehicle-project-help-cities-develop-robotaxis)
+
+
+> A Nissan -backed autonomous mobility project will help cities to deliver ‘robotaxi' services now that it has concluded testing, the Japanese manufacturer has claimed. The Servcity project, supported by the UK government, used a to autonomously drive 1600 miles around 'complex urban environments' in Greenwich, London. The Servcity Leaf relied on a connection with the Smart Mobility Living Lab (SMLL) in Greenwich, which allowed it to communicate with roadside sensors and city infrastructure.
+
+
+***
+![Shropshire UK Council Boost Gigabit Broadband Vouchers to £7k](https://www.ispreview.co.uk/wp-content/uploads/connecting_shropshire_logo.png "Shropshire UK Council Boost Gigabit Broadband Vouchers to £7k")
+
+
+[Shropshire UK Council Boost Gigabit Broadband Vouchers to £7k](https://www.ispreview.co.uk/index.php/2023/02/shropshire-uk-council-boost-gigabit-broadband-vouchers-to-7k.html)
+
+
+> Friday, Feb 17th, 2023 (12:01 am) - Score 0 The Shropshire County Council in England has allocated another £500,000 (total so far of £2.5m) to help boost the value of gigabit broadband vouchers for rural areas, which means that local homes and businesses will now be able to apply for vouchers worth up to £7,000 to help them get a faster connection installed. The UK Government's scheme normally offers vouchers worth up to £4,500 for rural homes and businesses to help them get a gigabit-capable broadband (1Gbps) service installed, which is available to areas with broadband speeds of ' less than 100Mbps ' available – assuming there are also no near-term plans for a gigabit deployment in the same area (either via commercial or state aid supported builds).
+
+
+***
+![Giganet Extend CityFibre FTTP Broadband Availability to Scotland](https://www.ispreview.co.uk/wp-content/uploads/2021/06/nggallery_import/giganet_engineer_jacket.jpg "Giganet Extend CityFibre FTTP Broadband Availability to Scotland")
+
+
+[Giganet Extend CityFibre FTTP Broadband Availability to Scotland](https://www.ispreview.co.uk/index.php/2023/02/giganet-extend-cityfibre-fttp-broadband-availability-to-scotland.html)
+
+
+> Friday, Feb 17th, 2023 (12:01 am) - Score 0 UK ISP Giganet has today announced that their gigabit-capable Fibre-to-the-Premises ( FTTP ) broadband service, specifically the part that is served via CityFibre 's network, has been extended again and is now also available to 360,000 premises across Scotland (Inverness, Aberdeen, Dundee, Renfrewshire, Stirling, Glasgow and Edinburgh). Just to recap. Giganet is currently investing £250m with Fern Trading to build their own full fibre network for 300,000 premises across poorly served parts of Hampshire, Dorset, Wiltshire and West Sussex by the end of 2025 ( here ).
+
+
