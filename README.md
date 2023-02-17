@@ -39612,3 +39612,957 @@
 > Friday, Feb 17th, 2023 (12:01 am) - Score 0 UK ISP Giganet has today announced that their gigabit-capable Fibre-to-the-Premises ( FTTP ) broadband service, specifically the part that is served via CityFibre 's network, has been extended again and is now also available to 360,000 premises across Scotland (Inverness, Aberdeen, Dundee, Renfrewshire, Stirling, Glasgow and Edinburgh). Just to recap. Giganet is currently investing £250m with Fern Trading to build their own full fibre network for 300,000 premises across poorly served parts of Hampshire, Dorset, Wiltshire and West Sussex by the end of 2025 ( here ).
 
 
+***
+![TikTok Trivia Lets US Users Win $500,000](https://technology.inquirer.net/files/2023/02/TikTok-Trivia-featured-image-www.tubefilter.com_-620x349.png "TikTok Trivia Lets US Users Win $500,000")
+
+
+[TikTok Trivia Lets US Users Win $500,000](https://technology.inquirer.net/121483/tiktok-trivia-lets-us-users-win-500000)
+
+
+> Do you want to win half a million dollars by answering quizzes? Starting today, United States users could join TikTok and get a chance to win $500,000. It is a promotional event for John Wick 4, the action flick starring Keanu Reeves. Expect the questions to test your knowledge of the movie and various trivia. US adults 18 years or older may begin participating in the trivia challenges on February 22, 2023. How to join the TikTok Trivia? If you are an adult TikTok user in the US, you may start by clicking on the trivia widget on your For You feed.
+
+
+***
+![Airtel Payments Bank Deposits Grew by 50% Over Last Year](https://telecomtalk.info/wp-content/uploads/2023/02/bharti-airtel-payments-bank-deposits-grew-50percent.jpg "Airtel Payments Bank Deposits Grew by 50% Over Last Year")
+
+
+[Airtel Payments Bank Deposits Grew by 50% Over Last Year](https://telecomtalk.info/bharti-airtel-payments-bank-deposits-grew-50percent/677487/)
+
+
+> Airtel Payments Bank, the only profitable multi-segment fintech in India with a banking license, provides a variety of simple, secure, and accessible banking solutions through a vast network of 500,000 banking points across the nation and its digital platforms. The Bank has many firsts to its credit, and to make onboarding easy for customers, Airtel Payments Bank has introduced Face Authentication -based e-KYC, a First in India. Also Read:  Airtel Payments Bank: Here's What You Can Seamlessly Do With Your Account Airtel Payments Bank Growth Airtel Payments Bank has seen a growth in deposits by over 50 per cent over the last one year.
+
+
+***
+![Equinix to Build Its Second Data Center in Barcelona](https://telecomtalk.info/wp-content/uploads/2023/02/equinix-build-second-data-center-in-barcelona.jpg "Equinix to Build Its Second Data Center in Barcelona")
+
+
+[Equinix to Build Its Second Data Center in Barcelona](https://telecomtalk.info/equinix-build-second-data-center-in-barcelona/677445/)
+
+
+> The new site will serve as a strategic connection point between Europe, Africa and the Middle East. Major subsea cables linking Barcelona: 2Africa, Aqua Comms' Europe Middle East India cable, Medloop and Medusa cable. The new facility, BA2 International Business Exchange (IBX) data center, will be situated next to the company's current BA1 site. Equinix, the world's digital infrastructure company, announced its second data center in Barcelona as the city becomes a strategic hub for the terrestrial and subsea cable networks connecting digital lives.
+
+
+***
+![Microsoft-backed OpenAI to let users customise ChatGPT](https://gumlet.assettype.com/bdnews24-english%2F2023-02%2F9e343952-d8af-4e52-90e9-e1e52dc76116%2Fchatgpt_080223_01.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fgumlet.assettype.com%2Fbdnews24-english%2F2023-02%2Fe58073c4-66e8-4fd5-85a8-da312ecac7b1%2FGPI_2_1024X65__1_.jpg&overlay_position=bottom&overlay_width_pct=1 "Microsoft-backed OpenAI to let users customise ChatGPT")
+
+
+[Microsoft-backed OpenAI to let users customise ChatGPT](https://bdnews24.com/technology/ymoztmtny2)
+
+
+> OpenAI said in the blog post that ChatGPT's answers are first trained on large text datasets available on the Internet. As a second step, humans review a smaller dataset, and are given guidelines for what to do in different situations. For example, in the case that a user requests content that is adult, violent, or contains hate speech, the human reviewer should direct ChatGPT to answer with something like 'I can't answer that.' If asked about a controversial topic, the reviewers should allow ChatGPT to answer the question, but offer to describe viewpoints of people and movements, instead of trying to 'take the correct viewpoint on these complex topics,' the company explained in an excerpt of its guidelines for the software.
+
+
+***
+![Apple iPhone users to get Khanda, comb and other new emojis with iOS 16.4 update](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/17/2573494-apple-ios-16.4.png "Apple iPhone users to get Khanda, comb and other new emojis with iOS 16.4 update")
+
+
+[Apple iPhone users to get Khanda, comb and other new emojis with iOS 16.4 update](https://www.dnaindia.com/technology/report-apple-iphone-users-to-get-khanda-comb-and-other-new-emojis-with-ios-164-update-3024292)
+
+
+> Apple iOS 16.4 emojis. (Image: MacRumors) Apple rolled out iOS 16.3.1 for eligible iPhone users and just a few days later, the company has released the iOS 16.4 beta update for developers. The last iOS update didn't have any noticeable changes but the new iOS 16.4 comes with a range of upgrades that will help a range of Apple iPhone users.  First of all, the Apple iOS 16.4 update comes with a range of new emojis from Unicode 15 that were first approved in September 2022. After the update, Apple iPhone users will get new emoji options including Khanda, comb, shaking head, pink heart, blue heart, gray heart, donkey, moose, black bird, goose, wing, jellyfish, hyacinth, pea pod, ginger, fan, flute, maracas, and a number of left and right facing hand options.
+
+
+***
+![Bitcoin NFTs are growing quickly as community sees long-term potential](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-16-15262402.jpg "Bitcoin NFTs are growing quickly as community sees long-term potential")
+
+
+[Bitcoin NFTs are growing quickly as community sees long-term potential](https://www.businessghana.com/)
+
+
+> Ordinals, an NFT-like project on the Bitcoin blockchain, has gained momentum over the past month, signaling a chance that a new frontier may be on the horizon for the biggest cryptocurrency. But in order to be the biggest, experts say its accessibility and security need to be improved. Over 90,000 Ordinals have been inscribed — which is jargon for created (or minted) — on the Bitcoin blockchain to date, according to Dune Analytics data. Ordinals hit an all-time high on February 9 for the number of mints at over 20,000 that day.
+
+
+***
+![Twitter allows cannabis ads in states where it's legal](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-16-1529270003.jpg "Twitter allows cannabis ads in states where it's legal")
+
+
+[Twitter allows cannabis ads in states where it's legal](http://www.businessghana.com/site/news/technology/280097/Twitter-allows-cannabis-ads-in-states-where-it%E2%80%99s-legal)
+
+
+> Twitter is allowing cannabis ads to run on its platform in U.S. states where cannabis is legal and in Canada, according to the company's blog and Axios. Twitter updated its ad policy Wednesday, making it the first social media app in the U.S. to allow cannabis advertising. Google last month updated its policies to allow ads for FDA-approved pharmaceuticals containing CBD and topical, hemp-derived CBD products with THC content of 0.3% or less in California, Colorado and Puerto Rico. Reddit allows for ads for 'topical and non-ingestible hemp-derived CBD products' in the U.
+
+
+***
+![You.com takes aim at Google and Microsoft with multimodal chat search](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-16-1524051.jpg "You.com takes aim at Google and Microsoft with multimodal chat search")
+
+
+[You.com takes aim at Google and Microsoft with multimodal chat search](https://www.businessghana.com/)
+
+
+> You.com founder Richard Socher knows that his company has always been a David going after the Goliath in search, Google, and to a lesser extent Microsoft. He likes to point out that his company built search based on generative AI in December, several months before the other giant search players made their announcements. Today, the company is announcing it's taking that head start and building on it with multimodal search. That means it can add elements beyond text to help answer a question more precisely.
+
+
+***
+![Firefox for Android gets extension for listening to articles and hiding email addresses](http://www.businessghana.com/site/img/../../cms/img/news/2023-02-16-1528042.jpg "Firefox for Android gets extension for listening to articles and hiding email addresses")
+
+
+[Firefox for Android gets extension for listening to articles and hiding email addresses](https://www.businessghana.com/)
+
+
+> Mozilla has added three new extensions for its Android web browser. Firefox only has a limit set of extensions on Android, and today's new extensions add features and improve privacy. These extensions can hide the user's email address when signing up to a website and remove tracking elements before sharing a URL. Another extension lets you listen to articles. The first extension is Mozilla's own Firefox Relay, which lets you hide your real email address and allows you to input a proxy email address that redirects incoming emails to your inbox.
+
+
+***
+![Hotstar down? Users outraged as service crashes during Ind-Aus Test](https://www.hindustantimes.com/ht-img/img/2023/02/17/1600x900/HS_1676620286921_1676620634283_1676620634283.jpg "Hotstar down? Users outraged as service crashes during Ind-Aus Test")
+
+
+[Hotstar down? Users outraged as service crashes during Ind-Aus Test](https://www.hindustantimes.com/technology/hotstar-down-users-outraged-as-service-crashes-during-ind-aus-test-101676620103248.html)
+
+
+> Published on Feb 17, 2023 01:24 PM IST The web version and app both have crashed. By HT News Desk , New Delhi Video streaming service Hotstar is down for several users in India, with people taking to Twitter to complain about the outage, which coincided with the ongoing India vs Australia second Test in Delhi. SHARE THIS ARTICLE ON ABOUT THE AUTHOR
+
+
+***
+![GTA Online Stash House Safe Code and Rewards](https://staticg.sportskeeda.com/editor/2023/02/de071-16766183039940-1920.jpg "GTA Online Stash House Safe Code and Rewards")
+
+
+[GTA Online Stash House Safe Code and Rewards](https://www.sportskeeda.com/gta/gta-online-stash-house-safe-code-rewards-a-beginner-s-guide)
+
+
+> The recently released weekly update in GTA Online has delighted players to no end. Although the update itself was expected, Rockstar Games surprised the community by introducing several new gameplay elements to the game. These additions are part of the Los Santos Drug Wars DLC, which was released in December 2022, with fans ecstatic to experience all of them. Street Dealers are desperate for new hookups, lowly criminals are sticking up storefronts, rival gang's Stash Houses are ripe to get ripped off, and dead drops are now being left in public areas.
+
+
+***
+![I didn't want to remove the ability to generate docs from comments, I asked ChatGPT how to do it using any docs generation tool, it responds there is no way to do it using a generation tool from comments. So here it is using Swag , support both way :), first i generate comments from docs , then swag](https://external-preview.redd.it/Y197EY9ZhcZlzyWgEq_Oea6NcNcXP9hOU-yhcVhqWWA.jpg?auto=webp&v=enabled&s=41dc03f134ca89131700fe0ccd1268eced5119d1 "I didn't want to remove the ability to generate docs from comments, I asked ChatGPT how to do it using any docs generation tool, it responds there is no way to do it using a generation tool from comments. So here it is using Swag , support both way :), first i generate comments from docs , then swag")
+
+
+[I didn't want to remove the ability to generate docs from comments, I asked ChatGPT how to do it using any docs generation tool, it responds there is no way to do it using a generation tool from comments. So here it is using Swag , support both way :), first i generate comments from docs , then swag](https://www.reddit.com/r/programming/comments/114dkla/i_didnt_want_to_remove_the_ability_to_generate/)
+
+
+> youtube.com/watch?...
+
+
+***
+![Oppo Find N2 Flip Offers 4 Years of Android Updates, Rivaling Samsung](https://www.gizmochina.com/wp-content/uploads/2023/02/Oppo-Find-N2-Flip-Featured-A-768x512-1.jpg "Oppo Find N2 Flip Offers 4 Years of Android Updates, Rivaling Samsung")
+
+
+[Oppo Find N2 Flip Offers 4 Years of Android Updates, Rivaling Samsung](https://www.gizmochina.com/2023/02/17/oppo-find-n2-flip-4yr-android)
+
+
+> Oppo is planning on competing with Samsung in the foldable phone segment in more than one ways. Its latest Find N2 Flip model wouldn't just be another foldable phone that rivals Samsung in the market. So let's have look. So far, the South Korean tech giant has been committed on offering 4 years of major Android OS update on its devices. Furthermore, the company even offers a total of 5 years of security updates as well. On the other hand, most OEMs only offer around 3 years of Android updates and 4 years of security patches.
+
+
+***
+![Hollywood Mobile Streaming Service Aflix Launches in Nigeria, Kenya & Ghana](https://techmoran.com/wp-content/uploads/2014/08/10559789_686102738124729_369651152378282064_n.jpg "Hollywood Mobile Streaming Service Aflix Launches in Nigeria, Kenya & Ghana")
+
+
+[Hollywood Mobile Streaming Service Aflix Launches in Nigeria, Kenya & Ghana](https://techmoran.com/2014/08/08/hollywood-mobile-streaming-service-aflix-launches-in-nigeria-kenya-ghana/)
+
+
+> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5653101863891512
+
+
+***
+![Dijon – Metz, the pre-match conference](https://www.fcmetz.com/sites/default/files/conference_parisfc_0_0_0_1_0_0_0_0_0_0.jpg "Dijon – Metz, the pre-match conference")
+
+
+[Dijon – Metz, the pre-match conference](https://www.world-today-news.com/dijon-metz-the-pre-match-conference-football-club-de-metz-fc-metz-info-fc-metz-training/)
+
+
+> TV programming The LFP communicated this Thursday, February 16 the TV programming of the 28th day of Ligue 2 BKT. On this occasion, the Garnets will challenge QRM, the… News Partner of FC Metz, MatchWornShirt offers you to obtain one of the jerseys worn by the Garnets this Monday against SM Caen. Platform…
+
+
+***
+![2022 Samsung entry-level smartphone ‘Galaxy A04' Android 13 update](https://images.kbench.com/kbench/article/thumbnail/241299_thumb.jpg "2022 Samsung entry-level smartphone ‘Galaxy A04' Android 13 update")
+
+
+[2022 Samsung entry-level smartphone ‘Galaxy A04' Android 13 update](https://www.world-today-news.com/2022-samsung-entry-level-smartphone-galaxy-a04-android-13-update/)
+
+
+> Samsung Electronics' entry-level smartphone ‘Galaxy A04' started updating the latest Android 13-based One UI. The build number of the update being provided for the Galaxy A04 is A045FXXU1BWB1, and it is reported that the update has now started in Kazakhstan. The update includes One UI 5.0, but since it is an entry-level model, it is likely to be a core version missing some features. The ‘Galaxy A04', released in August of last year, has a 6.5-inch HD+ Infinity-V LCD panel on the front and provides an Exynos 850 octa-core processor, 4GB/6GB/8GB RAM, 32GB/64GB/128GB storage capacity, and a 5000mAh battery.
+
+
+***
+![Let's end this case! Grandfather Chamnong was sued by the court. After serious illness – terminal cancer](https://www.khaosod.co.th/wpapp/uploads/2023/02/คุณตาจำนงค์-2.jpg "Let's end this case! Grandfather Chamnong was sued by the court. After serious illness – terminal cancer")
+
+
+[Let's end this case! Grandfather Chamnong was sued by the court. After serious illness – terminal cancer](https://www.world-today-news.com/lets-end-this-case-grandfather-chamnong-was-sued-by-the-court-after-serious-illness-terminal-cancer/)
+
+
+> Let's end this case! Grandfather Chamnong was sued by the court. After serious illness – terminal cancer Lawyer Tam posted sadly that the end of an old man's life had to live with sorrow. from the case of lawyer Tam or Mr. Sitra Biabangkerd, secretary general of the People's Advocacy Team Foundation Helping Mr. Chamnong, 79 years old, Kabinburi District, Prachinburi Province, and his 4 daughters after getting into trouble. Being sued by the fifth daughter to evict the residence Until it became famous For progress, on February 17, 2023, lawyer Tam posted on the page.
+
+
+***
+![How to unlock the Dual Kodachis melee weapon in Modern Warfare 2 and Warzone 2 Season 2](https://staticg.sportskeeda.com/editor/2023/02/4c219-16765718824126-1920.jpg "How to unlock the Dual Kodachis melee weapon in Modern Warfare 2 and Warzone 2 Season 2")
+
+
+[How to unlock the Dual Kodachis melee weapon in Modern Warfare 2 and Warzone 2 Season 2](https://www.sportskeeda.com/esports/how-unlock-dual-kodachis-melee-weapon-modern-warfare-2-warzone-2-season-2)
+
+
+> Call of Duty: Modern Warfare 2 and Warzone 2's Season 2 went live on February 15, 2023, ushering in a brand-new chapter for both games. The second season features fresh content for both titles, including an updated season-long Battle Pass, unlockable rewards through the Path of the Ronin Challenges, a new aquatic vehicle for Warzone 2, additional multiplayer maps for Modern Warfare 2, and more. The vast arsenal of tactical weapons in Modern Warfare 2 and Warzone 2 is expanded by five new weapons in Season 2.
+
+
+***
+![Mario Kart Tour 'Doctor Tour' and 26th wave of Mii Racing Suits detailed](https://gonintendo.com/attachments/image/23430/file/medium-172e89a0a601357474b37eddc13eb1ef.png "Mario Kart Tour 'Doctor Tour' and 26th wave of Mii Racing Suits detailed")
+
+
+[Mario Kart Tour 'Doctor Tour' and 26th wave of Mii Racing Suits detailed](https://gonintendo.com/contents/16396-mario-kart-tour-doctor-tour-and-26th-wave-of-mii-racing-suits-detailed)
+
+
+> Mario Kart Tour's Exploration Tour is wrapping things up soon, and Nintendo is bringing another event our way. Starting February 22nd, 2023, Mario Kart Tour fans will get a chance for some medical fun with the Doctor Tour. You can check out the debut trailer for this Tour above. Along with that, Nintendo has revealed the 26th wave of Mii Racing Suits, which will also be arriving on February 22nd, 2023. This time around, drivers will be able to snag the Para-Biddybud Mii Racing Suit. Finally, we got a tease of the 27th wave of Mii Racing Suits, which arrives on March 7th, 2023.
+
+
+***
+![iPhone 15 Pro With Thinner Bezels, Large Camera Bump, More, Gets Showcased In Massive Design Leak](https://cdn.wccftech.com/wp-content/uploads/2023/02/iPhone-14-Pro-series-1.jpg "iPhone 15 Pro With Thinner Bezels, Large Camera Bump, More, Gets Showcased In Massive Design Leak")
+
+
+[iPhone 15 Pro With Thinner Bezels, Large Camera Bump, More, Gets Showcased In Massive Design Leak](https://wccftech.com/iphone-15-pro-design-leak-showing-thinner-bezels-large-camera/)
+
+
+> Some iPhone 15 Pro renders showing a design change, along with the inclusion of a USB-C port, have popped up online, giving us an in-depth look at the upcoming flagship's exterior. Not only do we get a closer view of the camera bump but also the slimmer bezels and curved edges, which is a difference that we have reported about previously. New iPhone 15 Pro now resembles the 14-inch and 16-inch MacBook Pro models, with the glass curving more smoothly around the edges The collaboration between 9to5Mac and extremely talented freelance 3D artist Ian Zelbo has produced these iPhone 15 Pro renders.
+
+
+***
+![Premiere Pro to DaVinci Resolve: 9 tips for a smooth transition](https://cdn.mos.cms.futurecdn.net/tGFXhP7JHHvFMvSYRAse9P-1200-80.jpg "Premiere Pro to DaVinci Resolve: 9 tips for a smooth transition")
+
+
+[Premiere Pro to DaVinci Resolve: 9 tips for a smooth transition](https://www.creativebloq.com/advice/premiere-pro-to-davinci-resolve)
+
+
+> There was a time when I could ask a group of aspiring editors what editing software they use, and the answer would have more than likely have been Premiere Pro. Some would have replied with Final Cut Pro or Avid, but usually, it would have been Premiere. However, in 2023, the landscape is vastly different. Increasingly, DaVinci Resolve is the answer I'm receiving.  This revolutionary video editing software has taken the editing world by storm over the past several years, offering a sleek and user-friendly interface, lightning-fast performance, and a wealth of advanced features that will make your life as a video editor much easier.
+
+
+***
+![Binance-backed web3 gaming startup Unagi gets funding to expand fantasy sports platform](https://techcrunch.com/wp-content/uploads/2023/02/Founder-ceos-e1676387340290.jpeg?resize=1200,674 "Binance-backed web3 gaming startup Unagi gets funding to expand fantasy sports platform")
+
+
+[Binance-backed web3 gaming startup Unagi gets funding to expand fantasy sports platform](https://techcrunch.com/2023/02/16/binance-backed-web3-gaming-startup-unagi-gets-funding-to-expand-fantasy-sports-platform/)
+
+
+> Web3 gaming company Unagi today announced a €4.7 million ($5 million) seed round of funding, as the French startup prepares to expand its NFT fantasy sports platform beyond football ('soccer') and into the basketball realm. Unagi, which doesn't yet have its own website, was founded out of Paris by Charlie Guillemot , son of Ubisoft co-founder Yves Guillemot and formerly studio manager at Owlient, a free-to-play game studio acquired by Ubisoft back in 2011; and Remi Pellerin , also formerly of Owlient.
+
+
+***
+![Superior Performance: The Wing-Based Advantages Of The Boeing 747-8 Over The 747-400](https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2023/02/2021-032.jpg "Superior Performance: The Wing-Based Advantages Of The Boeing 747-8 Over The 747-400")
+
+
+[Superior Performance: The Wing-Based Advantages Of The Boeing 747-8 Over The 747-400](https://simpleflying.com/boeing-747-8-wing-advantages-over-747-400/)
+
+
+> Recently, Simple Flying highlighted the difference between 747-8 and 747-400 in terms of overall design and specifications . While most design differences are apparent and easily spotted, quantifying performance differences is much more complex. The superiority of the 747-8 lies in its technologically advanced wing, which significantly increases its in-flight performance of it over its predecessors. Airfoil design created advanced technology airfoils that provided additional performance with lower noise.
+
+
+***
+![Japan's H3 flagship rocket fails to lift off after booster engine glitch](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17Atjz.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Japan's H3 flagship rocket fails to lift off after booster engine glitch")
+
+
+[Japan's H3 flagship rocket fails to lift off after booster engine glitch](http://www.msn.com/en-us/news/technology/japans-h3-flagship-rocket-fails-to-lift-off-after-booster-engine-glitch/ar-AA17AGhs)
+
+
+> TOKYO (Reuters) -Japan's H3 rocket, the country's first new medium-lift launcher in three decades, failed to lift off on Friday because two secondary booster engines strapped to the side of the space vehicle didn't ignite. During the live-streamed event, the H3's main engine cut off after the launch countdown had reached zero, leaving the 57-metre (187ft) rocket on its launch pad at the Tanegashima spaceport along with its payload, the ALOS-3 land observation satellite, which is also equipped with an infrared sensor designed to detect North Korean ballistic missiles.
+
+
+***
+![Text generators may plagiarize beyond 'copy and paste'](https://scx2.b-cdn.net/gfx/news/hires/2023/openai.jpg "Text generators may plagiarize beyond 'copy and paste'")
+
+
+[Text generators may plagiarize beyond 'copy and paste'](https://techxplore.com/news/2023-02-text-generators-plagiarize.html)
+
+
+> Credit: Unsplash/CC0 Public Domain Students may want to think twice before using a chatbot to complete their next assignment. Language models that generate text in response to user prompts plagiarize content in more ways than one, according to a Penn State-led research team that conducted the first study to directly examine the phenomenon. "Plagiarism comes in different flavors," said Dongwon Lee, professor of information sciences and technology at Penn State. "We wanted to see if language models not only copy and paste but resort to more sophisticated forms of plagiarism without realizing it.
+
+
+***
+![Apple releases iOS 16.4 developer beta with new emoji, and much more](https://etimg.etb2bimg.com/thumb/msid-98003446,imgsize-51354,width-1200,height-628,overlay-ettelecom/apple-releases-ios-16-4-developer-beta-with-new-emoji-and-much-more.jpg "Apple releases iOS 16.4 developer beta with new emoji, and much more")
+
+
+[Apple releases iOS 16.4 developer beta with new emoji, and much more](https://telecom.economictimes.indiatimes.com/news/apple-releases-ios-16-4-developer-beta-with-new-emoji-and-much-more/98003446)
+
+
+> San Francisco: Tech giant Apple has released its new developer beta, iOS 16.4, which includes expanded emoji support, keyboard updates for certain languages, and much more. "Beginning with iOS & iPadOS 16.4 beta , members of the Apple Developer Program will see a new option to enable developer betas directly from Software Update in Settings," the tech giant said in the release notes. The beta version includes an update for Matter which supports "both manual and automatic Software Update" for Matter accessories.
+
+
+***
+![Cheap version of the Galaxy S23 launching soon, prices and specs?](https://awsimages.detik.net.id/visual/2023/02/02/1246718518_169.jpeg?w=650?w=650 "Cheap version of the Galaxy S23 launching soon, prices and specs?")
+
+
+[Cheap version of the Galaxy S23 launching soon, prices and specs?](https://www.world-today-news.com/cheap-version-of-the-galaxy-s23-launching-soon-prices-and-specs/)
+
+
+> Diamond Rakhmayanti Dewi CNBC Indonesia Tech Friday, 17/02/2023 13:40 WIB Jakarta, CNBC Indonesia – Samsung is reportedly going to release a cheap version of the Galaxy S23, namely FE (Fan Edition). According to South Korean media reports, Hankook Ilbo the FE series will be released around the second half of this year. The decision to present a cheap version was taken again after Samsung's absence from releasing the FE series on the Galaxy S22 last year. The reason, the global economy is weak and lacking chip.
+
+
+***
+![Pokémon Scarlet & Violet Version 1.2.0 Launching "Late February", Here Are The Full Patch Notes](https://images.nintendolife.com/db573e0a2c93f/1280x720.jpg "Pokémon Scarlet & Violet Version 1.2.0 Launching "Late February", Here Are The Full Patch Notes")
+
+
+[Pokémon Scarlet & Violet Version 1.2.0 Launching "Late February", Here Are The Full Patch Notes](https://www.nintendolife.com/news/2023/02/pokemon-scarlet-and-violet-version-1-2-0-launching-late-february-here-are-the-full-patch-notes)
+
+
+> It's now been well over a few months since the launch of Pokémon Scarlet and Violet. While the gameplay was quite enjoyable at launch, there were admittedly some bugs and technical issues. Game Freak was quick to address some of these problems with a few updates, but it seems it's not done just yet. On the game's official support page, Nintendo has announced Version 1.2.0 is scheduled to arrive at the end of February. This rather sizeable update will add some features to Pokémon Boxes and will target a number of bugs.
+
+
+***
+![Fact Check: Can you change and switch houses in Hogwarts Legacy after the sorting ceremony?](https://staticg.sportskeeda.com/editor/2023/02/c79ee-16766154236085-1920.jpg "Fact Check: Can you change and switch houses in Hogwarts Legacy after the sorting ceremony?")
+
+
+[Fact Check: Can you change and switch houses in Hogwarts Legacy after the sorting ceremony?](https://www.sportskeeda.com/esports/fact-check-can-change-switch-houses-hogwarts-legacy-sorting-ceremony)
+
+
+> Hogwarts Legacy comes with the Legacy House sorting system, which determines which house the player will belong to. Each of these houses comes with its common room in the games, containing its secrets, chests, and some exclusive quests and side content. Hence, this has led many in the Wizarding World community to be curious about some of the things they can do in the game. One of the more popular questions amongst fans is whether they can switch between houses once the sorting ceremony is done in the game.
+
+
+***
+![Instagram announces the closure of purchases in live videos](https://i0.wp.com/tekiosmag.com/wp-content/uploads/2023/02/EuropaPress_4988936_compras_videos_directo_instagram.jpg?fit=622,500&ssl=1 "Instagram announces the closure of purchases in live videos")
+
+
+[Instagram announces the closure of purchases in live videos](https://www.world-today-news.com/instagram-announces-the-closure-of-purchases-in-live-videos/)
+
+
+> The technology company has notified its decision on the page in English in the United States dedicated to the function. Meta has announced that it will withdraw purchases in Instagram live videos on March 16, a measure that it adopts to focus on those functions and features that offer 'value' to users. Live video purchases allow users to purchase what they are currently watching, from the products that content creators and brands tag in their broadcasts. This way of promoting products will disappear from the Meta platform, in line with the disappearance last year of live purchases, which also included the Facebook social network.
+
+
+***
+![Microsoft enhances Bing search engine and Edge browser](http://www.mashy.com/wp-content/uploads/أاوبن-ايه-ومايكروسوفت.jpg "Microsoft enhances Bing search engine and Edge browser")
+
+
+[Microsoft enhances Bing search engine and Edge browser](https://www.world-today-news.com/microsoft-enhances-bing-search-engine-and-edge-browser/)
+
+
+> Microsoft revealed that it is updating its Bing search engine and Edge web browser with artificial intelligence, reflecting its ambition to regain the lead in consumer technology markets in which it has fallen. Now, Microsoft is introducing an intelligent chatbot to accompany Bing's search results, putting artificial intelligence that can abstract web pages, synthesize disparate sources, and compose and translate email messages at the disposal of more consumers. Microsoft's decision to update its Edge browser will intensify competition with its rival, Google's Chrome.
+
+
+***
+![OnePlus is seeding OxygenOS 13 to the Nord CE 2 5G](https://fdn.gsmarena.com/imgroot/news/23/02/oneplus-nord-ce-2-5g-android-13-oxygenos-13-update/-952x498w6/gsmarena_001.jpg "OnePlus is seeding OxygenOS 13 to the Nord CE 2 5G")
+
+
+[OnePlus is seeding OxygenOS 13 to the Nord CE 2 5G](https://www.gsmarena.com/oneplus_nord_ce_2_5g_android_13_oxygenos_13_update-news-57589.php)
+
+
+> The OnePlus Nord CE 2 5G launched last February with Android 11, and picked up the Android 12-based OxygenOS 12 update in August, is now receiving stable OxygenOS 13 based on Android 13. The update is seeding in India, and it will be first available to users who participated in the Open Beta program before being gradually pushed to more users. The OxygenOS 13 update brings Aquamorphic Design to the OnePlus Nord CE 2 5G with performance optimization, upgrades to HyperBoost GPA 4.0, and new personalization options.
+
+
+***
+![KORNIT DIGITAL LTD. (NASDAQ](https://mma.prnewswire.com/media/616919/Bernstein_Liebhard_LLP_Logo.jpg?p=facebook "KORNIT DIGITAL LTD. (NASDAQ")
+
+
+[KORNIT DIGITAL LTD. (NASDAQ](https://www.prnewswire.com/news-releases/kornit-digital-ltd-nasdaq-krnt-shareholder-class-action-alert-bernstein-liebhard-llp-announces-that-a-securities-class-action-lawsuit-has-been-filed-against-kornit-digital-ltd-nasdaq-krnt-301749240.html)
+
+
+> Did you lose money on investments in Kornit Digital?  If so, please visit  Kornit Digital Ltd. Shareholder Class Action Lawsuit  or contact  Peter Allocco at (212) 951-2030  or  [email protected]  to discuss your rights.                                                                                       NEW YORK , Feb. 17, 2023 /PRNewswire/ -- Bernstein Liebhard LLP announces that a securities class action lawsuit has been filed on behalf of investors who purchased or acquired the ordinary shares of Kornit Digital Ltd.
+
+
+***
+![TM Roh said the Samsung Galaxy S23 Series pre-orders have exceeded expectations.](https://technave.com/data/files/article/202302170639497979.jpg "TM Roh said the Samsung Galaxy S23 Series pre-orders have exceeded expectations.")
+
+
+[TM Roh said the Samsung Galaxy S23 Series pre-orders have exceeded expectations.](https://technave.com/gadget/TM-Roh-said-the-Samsung-Galaxy-S23-Series-pre-orders-have-exceeded-expectations-33453.html)
+
+
+> You heard that right, TM Roh , President and Head of Samsung Electronics Mobile eXperience (MX) Business said that the recently launched Samsung Galaxy S23 Series in Southeast Asia has been highly positive. In fact, the pre-orders compared to the predecessors also increased. During his visit to Malaysia recently, TM Roh also added a few more interesting facts. From the newsroom , the majority of Southeast Asia consumers have bought the Galaxy S23 models with higher storage capacities. This makes the Galaxy S23 Ultra sales a success which has exceeded expectations.
+
+
+***
+![Provoked, Microsoft's Intelligent Computer Threatens Humans](https://awsimages.detik.net.id/visual/2018/04/23/9349d5c5-a9aa-4afd-8124-306de96da53a_169.jpeg?w=650?w=650 "Provoked, Microsoft's Intelligent Computer Threatens Humans")
+
+
+[Provoked, Microsoft's Intelligent Computer Threatens Humans](https://www.world-today-news.com/provoked-microsofts-intelligent-computer-threatens-humans/)
+
+
+> Diamond Rakhmayanti Dewi CNBC Indonesia Tech Friday, 17/02/2023 13:10 WIB Jakarta, CNBC Indonesia – The new Chat AI on Bing, browser owned by Microsoft, began to spiral out of control. Even the artificial intelligence technology looks threatening to users. Since Microsoft showcased an early version of its new artificial intelligence-powered Bing, over a million people have signed up to test chatbot. In tests conducted by engineering student Marvin von Hagen, features chatbot it gives an accusing answer when asked about its honest opinion of von Hagen.
+
+
+***
+!["Switch the whole molecule": Russian scientists have synthesized a substance for the treatment of neurodegenerative diseases](https://mf.b37mrtl.ru/russian/images/2023.02/original/63ee0ae202e8bd302d14fda3.jpeg ""Switch the whole molecule": Russian scientists have synthesized a substance for the treatment of neurodegenerative diseases")
+
+
+["Switch the whole molecule": Russian scientists have synthesized a substance for the treatment of neurodegenerative diseases](https://www.tellerreport.com/tech/2023-02-17-%22switch-the-whole-molecule%22--russian-scientists-have-synthesized-a-substance-for-the-treatment-of-neurodegenerative-diseases.H1Wf_eon6o.html)
+
+
+> Russian scientists have found an approach to the synthesis of molecules that changes the biological activity of a substance under the influence of a laser. This is due to isometry - a change in the spatial arrangement of the molecules of a substance. According to the authors of the work, such chemical compounds can be used in the future for targeted therapy of neurodegenerative diseases, such as Alzheimer's disease. Scientists from the St. Petersburg Federal Research Center of the Russian Academy of Sciences (SPb FRC RAS) and St.
+
+
+***
+![There are many ways to use Neosurf in Australia](https://researchsnipers.com/wp-content/uploads/2023/02/image-36.png "There are many ways to use Neosurf in Australia")
+
+
+[There are many ways to use Neosurf in Australia](https://researchsnipers.com/there-are-many-ways-to-use-neosurf-in-australia/)
+
+
+> Among secure and easy payment methods for online gamers and shoppers, Neosurf is at the top of the list. It offers swift deposits via a prepaid card, removing the need to add personal banking details anywhere. For Australians using their credit card to load funds for e-commerce needs, it might be confusing to know where they can use their Neosurf vouchers on the Internet. If so, our comprehensive guide below will offer clarity on how to spend your vouchers.  Online Gambling Playing pokies is a fun pastime for many in Australia.
+
+
+***
+[Eutelsat Communications: First Half 2022-23 Results](http://www.businesswire.com/news/home/20230216005897/en/Eutelsat-Communications-First-Half-2022-23-Results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PARIS--(BUSINESS WIRE)--Regulatory News: The Board of Directors of Eutelsat Communications (ISIN: FR0010221234 / Euronext Paris: ETL), chaired by Dominique D'Hinnin, reviewed the financial results for the Half Year ended 31 December 2022. Key Financial Data   6M to Dec. 2021 6M to Dec. 2022 Change P&L       Revenues - €m 572.2 573.8 +0.3% 'Operating Verticals' revenues reported - €m 568.7 581.9 +2.3% 'Operating Verticals' revenues at constant currency and perimeter - €m 568.7 545.3 -4.1% EB
+
+
+***
+![TikTok to develop second Dublin data centre](https://imengine.public.prod.sbp.infomaker.io?uuid=3e5b6b45-5f53-53e5-89c4-e232144c2bbe&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=2646&height=1488&x=1.0E-5&y=0.02809 "TikTok to develop second Dublin data centre")
+
+
+[TikTok to develop second Dublin data centre](https://www.businesspost.ie/tech/tiktok-to-build-new-dublin-data-centre/)
+
+
+> Data Centres Company is finalising a plan for a second facility in Dublin with a third-party service provider TikTok is doubling down on its data centre investment locally with plans for a second facility in Ireland. It is also in talks for an additional data centre to be located in mainland Europe. The Chinese-owned social media firm is already investing €600 million in a data centre in Dublin. It said it was unable to provide financial details on the additional investments as they are still in the planning stages.
+
+
+***
+![Xiaomi Mi 11i, Xiaomi 11i HyperCharge Android 13 based on MIUI 14 update starts rolling out in India](https://future-news.net/wp-content/uploads/2023/02/XIAOMI-11i-،-Xiaomi-11i-HyperCharge-Android-13-القائم-على.jpg "Xiaomi Mi 11i, Xiaomi 11i HyperCharge Android 13 based on MIUI 14 update starts rolling out in India")
+
+
+[Xiaomi Mi 11i, Xiaomi 11i HyperCharge Android 13 based on MIUI 14 update starts rolling out in India](https://www.world-today-news.com/xiaomi-mi-11i-xiaomi-11i-hypercharge-android-13-based-on-miui-14-update-starts-rolling-out-in-india/)
+
+
+> Xiaomi 11i, Xiaomi 11i HyperCharge Android 13 / MIUI 14 update The latest update of the Xiaomi 11i series is currently being rolled out to devices over the air, so there are chances that your device may have already received the same. Keep looking for the update notification or head to the device settings and manually check it from there if you can try the latest update if you can. As far as the new Android 13 / MIUI 14 update brings to the table, the noticeable changes include MIUI which now consumes less memory, thus ensuring a faster and more responsive user interface.
+
+
+***
+![High-severity Citrix bugs addressed](https://www.scmagazine.com/images/fallback-image.png "High-severity Citrix bugs addressed")
+
+
+[High-severity Citrix bugs addressed](https://www.scmagazine.com/brief/device-security/high-severity-citrix-bugs-addressed)
+
+
+> Device Security , Vulnerability management SC Staff February 17, 2023 Several high-severity vulnerabilities in Citrix Systems ' Virtual Apps and Desktops, as well as its Workspace Apps, which could be exploited to achieve privilege escalation and system takeovers, have been patched in recently issued security updates, BleepingComputer reports. The most severe of the addressed flaws is CVE-2023-24483, which could be leveraged to escalate privileges to NT AUTHORITYSYSTEM that could facilitate arbitrary code execution, sensitive data access, and unrestricted system configuration alterations.
+
+
+***
+![Markor Technology Will Expand the Ontario iGaming Market](https://researchsnipers.com/wp-content/uploads/2022/08/igaming.png "Markor Technology Will Expand the Ontario iGaming Market")
+
+
+[Markor Technology Will Expand the Ontario iGaming Market](https://researchsnipers.com/markor-technology-will-expand-the-ontario-igaming-market/)
+
+
+> With the purchase of an Ontario license, Markor Technology has reached a significant new benchmark in the evolution of the iGaming market. After registering with the Alcohol and Gaming Commission of Ontario (AGCO) as a gaming-related contractor, the company specializing in technological solutions and software aggregation networks will be granted permission to enter one of the most promising industries in North America. Live dealer games, slots, and table games from a wide array of providers are all part of Markor's content portfolio, which is accessible via its gaming aggregation portal.
+
+
+***
+![Pokémon Scarlet and Violet: Full version 1.2.0 patch notes and changes](https://cdn1.dotesports.com/wp-content/uploads/2022/11/28215109/b616c-16695730100964-1920-768x432.jpg "Pokémon Scarlet and Violet: Full version 1.2.0 patch notes and changes")
+
+
+[Pokémon Scarlet and Violet: Full version 1.2.0 patch notes and changes](https://dotesports.com/pokemon/news/pokemon-scarlet-and-violet-full-version-1-2-0-patch-notes-and-changes)
+
+
+> Image via The Pokémon Company Ahead of what is going to be a few weeks for the Pokémon franchise, Nintendo and The Pokémon Company have confirmed the next major patch is on the way for Pokémon Scarlet and Violet .  Set to drop before the end of February, likely around Pokémon Day on Feb. 27, this update will address a number of bugs that have plagued the games since they launched last November—while also working to improve the general gameplay experience.  Scarlet and Violet version 1.
+
+
+***
+![Pokemon Scarlet/Violet Version 1.2 coming late Feb. 2023, patch notes shared](https://gonintendo.com/attachments/image/23428/file/medium-3b7ede18b98bc1d44a8b0a8977ff042e.webp "Pokemon Scarlet/Violet Version 1.2 coming late Feb. 2023, patch notes shared")
+
+
+[Pokemon Scarlet/Violet Version 1.2 coming late Feb. 2023, patch notes shared](https://gonintendo.com/contents/16395-pokemon-scarlet-violet-version-1-2-coming-late-feb-2023-patch-notes-shared)
+
+
+> Pokemon Scarlet and Violet are getting updated to Version 1.2.0 sometime in late February 2023. Ahead of the update's release, full patch notes have been shared. You can see the complete breakdown of what this update includes below. Feature Adjustments Additional functionality will be added for Pokémon Boxes: From a Pokémon's summary, players will be able to change Pokémon's nicknames, markings, held items, and mark- or Ribbon-related titles, as well as being able to reorder moves, have Pokémon remember moves, have Pokémon forget moves, and use TMs.
+
+
+***
+![Tesla denies Workers United's accusations, saying it laid off 27 workers in New York for 'poor performance' before it learned of unionization efforts](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17A8sx.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Tesla denies Workers United's accusations, saying it laid off 27 workers in New York for 'poor performance' before it learned of unionization efforts")
+
+
+[Tesla denies Workers United's accusations, saying it laid off 27 workers in New York for 'poor performance' before it learned of unionization efforts](http://www.msn.com/en-us/news/technology/tesla-denies-workers-united-s-accusations-saying-it-laid-off-27-workers-in-new-york-for-poor-performance-before-it-learned-of-unionization-efforts/ar-AA17B1tQ)
+
+
+> Tesla denied an allegation that it laid off dozens of staff at its plant in Buffalo, New York in an attempt to discourage unionizing, stating that the employees were laid off due to poor performance instead. Load Error The electric vehicle maker also hit back at what it called a "false allegation." "The employees let go as part of this process received prior feedback on their poor performance from their managers over the course of the review period," Tesla said in a Thursday blog post. "Despite feedback, they did not demonstrate sufficient improvement," it added.
+
+
+***
+![Why Samsung is borrowing $16 billion from the Samsung Display? – Research Snipers](https://researchsnipers.com/wp-content/uploads/2022/10/Crisis-hits-Samsung-profit-falls-even-more-than-expected.jpg "Why Samsung is borrowing $16 billion from the Samsung Display? – Research Snipers")
+
+
+[Why Samsung is borrowing $16 billion from the Samsung Display? – Research Snipers](https://researchsnipers.com/why-samsung-is-borrowing-16-billion-from-the-samsung-display)
+
+
+> For a long time, the semiconductor division of the tech giant Samsung has performed quite well. It was considered the cash cow for the South Korean conglomerate. Since it had the capacity to contribute immense profits to the company. But given the current global economic situation, things have tumbled. Less demand and supply have badly impacted the business of Samsung's chip division. Despite this, the company is eager to invest in the semiconductor business. It seems like the company is aimed at grabbing any possible opportunity presented in the near future.
+
+
+***
+![Vivo introduces Vivo Y100 in India – Research Snipers](https://researchsnipers.com/wp-content/uploads/2022/01/Vivo-Y21T.jpeg "Vivo introduces Vivo Y100 in India – Research Snipers")
+
+
+[Vivo introduces Vivo Y100 in India – Research Snipers](https://researchsnipers.com/vivo-introduces-vivo-y100-in-india)
+
+
+> Vivo has introduced several smartphones to its Y series. Recently, the company added Vivo Y100 to its portfolio. The company has announced that the smartphone is now officially available in India. In this short piece, we will uncover the feature specifications of the Vivo Y100. Starting from the display, the smartphone has a 6.38-inch AMOLED display. It is provided with FHD+ resolution. It presents a refresh rate of 90Hz. In addition to this, the panel is equipped with 1,300 nits peak brightness.
+
+
+***
+![The best phone cases to go with your new Samsung Galaxy S23](https://imageresizer.static9.net.au/MUecqssVbCjYoYnlcu0IebXey9c=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fdf36b943-cec2-4edf-bcc4-6822dfa9c72f "The best phone cases to go with your new Samsung Galaxy S23")
+
+
+[The best phone cases to go with your new Samsung Galaxy S23](https://www.nine.com.au/product-reviews/tech/samsung-galaxy-s23-cases-list/00cf0c17-33e4-475f-bc55-119310cfc63c)
+
+
+> The Samsung Galaxy S23 Series has already sent Samsung fans into a frenzy trying to be the first to get their hands on the tech giant's latest release. Haven't secured yours yet? You can find out which model is best for you here . With a new phone comes new accessories. So get your case and protective covers sorted in time for your new phone's arrival. No matter whether you're opting for the original S23 , or are looking for that extra upgrade with the S23+ or S23 Ultra , we've found some cases that will look just as good as the phone.
+
+
+***
+![Karely Ruiz, Onlyfans model, shaved her hair after suffering from alopeciaHalftime](https://cdn2.mediotiempo.com/uploads/media/2023/02/16/karely-ruiz-mostro-foto-pelo.jpg "Karely Ruiz, Onlyfans model, shaved her hair after suffering from alopeciaHalftime")
+
+
+[Karely Ruiz, Onlyfans model, shaved her hair after suffering from alopeciaHalftime](https://www.world-today-news.com/karely-ruiz-onlyfans-model-shaved-her-hair-after-suffering-from-alopeciahalftime/)
+
+
+> news" itemprop="articleBody"> Karely Ruiz OnlyFans model criticized for winking at selected Kevin Álvarez, surprised his followers by posting a photo in which he is seen with short hair accompanied by a message in which he clarified the reason for his decision. Although initially the image was thought to be recent the 21-year-old from Monterrey clarified in a later ‘live' that the picture is from two years ago This is to make it clear that continue with your usual look which can be confirmed just by entering their ‘stories'.
+
+
+***
+![iPhone 15 Pro renders leak: Say hello to USB-C](https://www.androidauthority.com/wp-content/uploads/2023/02/iphone-15-pro-render-1.jpg "iPhone 15 Pro renders leak: Say hello to USB-C")
+
+
+[iPhone 15 Pro renders leak: Say hello to USB-C](https://www.androidauthority.com/iphone-15-pro-renders-design-3286479/)
+
+
+> TL;DR Renders of the iPhone 15 Pro have leaked. They show a sleeker phone with a USB-C port. The new iPhone could also get bigger camera sensors. Renders of one of Apple's upcoming flagships — the iPhone 15 Pro — have leaked. These images are based on CAD models of the phone obtained by 9to5Mac . As the publication notes, CAD files like these are shared by companies with case manufacturers to prepare cases for upcoming phones in advance. These particular iPhone 15 Pro CAD files were received by a factory in China.
+
+
+***
+![Fact Check: Is Wild Hearts a completely open-world game?](https://staticg.sportskeeda.com/editor/2023/02/0d8e2-16766129861163-1920.jpg "Fact Check: Is Wild Hearts a completely open-world game?")
+
+
+[Fact Check: Is Wild Hearts a completely open-world game?](https://www.sportskeeda.com/esports/fact-check-is-wild-hearts-completely-open-world-game)
+
+
+> With Wild Hearts finally getting its official release for the PlayStation 5, Xbox Series X/S, and PC, fans of the monster-hunting genre are quite excited to try the title out. Koei Tecmo's take on the genre seems to be quite a successful one. Apart from performance issues, the game has had a fairly positive reception across each of the platforms. WILD HEARTS @playWildHearts Meet Natsume, Suzuran, and more: From blacksmith to scientist, each one will be crucial to your survival against the fierce Kemono.
+
+
+***
+![New YouTube CEO Neal Mohan could've been with Twitter, but Google paid him $100 million to stay](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/lead.jpg "New YouTube CEO Neal Mohan could've been with Twitter, but Google paid him $100 million to stay")
+
+
+[New YouTube CEO Neal Mohan could've been with Twitter, but Google paid him $100 million to stay](https://www.businesstoday.in/technology/news/story/new-youtube-ceo-neal-mohan-couldve-been-with-twitter-but-google-paid-him-100-million-to-stay-370590-2023-02-17)
+
+
+> YouTube's new CEO Neal Mohan is a formidable figure in the tech industry known for his quiet demeanour and for getting work done behind the scenes. While his work at Google and YouTube is well known, there's a lesser-known tale that could have changed Mohan's life, Google, YouTube and even Twitter. Let's start from the beginning. After graduating with a degree in electrical engineering from Stanford in 1996, Mohan had a short stint at Andersen Consulting (Accenture). In 1997, he joined a startup called Net Gravity that sold enterprise software to digital marketers.
+
+
+***
+![The Settlers: New Allie Release Trailer](https://cdn.shazoo.ru/674687_V8eRWnb_domkoq64cz.jpg "The Settlers: New Allie Release Trailer")
+
+
+[The Settlers: New Allie Release Trailer](https://www.world-today-news.com/the-settlers-new-allie-release-trailer/)
+
+
+> After a long silence, Ubisoft just released a release trailer The Settlers: New Allies. After the announcement of system requirements in early January, the title was not talked about at all. The Settlers: New Allie – Restarting The Settlers strategy. The game will have a story campaign, a hardcore mode, as well as a Skirmish mode where you can fight in co-op against bots and against other players on 12 maps. The game will be released on PC tomorrow. The title will hit PS4, PS5, Xbox One, Xbox Series X/S, and Nintendo Switch on March 23rd.
+
+
+***
+![Instagram gets WhatsApp-like broadcast feature, here's how it works](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/17/2573464-instagram.png "Instagram gets WhatsApp-like broadcast feature, here's how it works")
+
+
+[Instagram gets WhatsApp-like broadcast feature, here's how it works](https://www.dnaindia.com/technology/report-instagram-gets-whatsapp-like-broadcast-feature-here-s-how-it-works-3024253)
+
+
+> Instagram broadcast WhatsApp has received a range of Instagram-like features in the last few years such as Status, message reactions and others. Now in a rare turn of event, Meta has introduced WhatsApp features on Instagram. Meta CEO Mark Zuckerberg has announced that the company is bringing a broadcast channel on Instagram that will allow users to share a single message with several followers at once. "Creators can also use voice notes to share their latest updates and behind-the-scenes moments, and even create polls to crowdsource fan feedback," the company said in a blogpost on Thursday.
+
+
+***
+![Wordle 608: Clues and Answer for February 17](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17y030.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Wordle 608: Clues and Answer for February 17")
+
+
+[Wordle 608: Clues and Answer for February 17](http://www.msn.com/en-us/news/technology/wordle-608-clues-and-answer-for-february-17/ar-AA179ZBN)
+
+
+> Wordle can be both addictive and frustrating to the roughly 3 million people who play it. Many of us would love a little assistance getting to the answer. Not cheating -- just a hint or two. To help you out, we're providing clues to solve today's puzzle, Wordle No. 608, and giving tried-and-true tips for playing the game in general. Heads up, though: We're also posting the answer to today's Wordle. For more on Wordle, check out the best Wordle strategy tips, some ideal starter words and a host of Wordle alternatives.
+
+
+***
+![Tile takes on tag stalking problem by doing the opposite of Apple's AirTag](https://whatsnew2day.com/wp-content/uploads/2023/02/tile-takes-on-tag-stalking-problem-by-doing-the-opposite.jpg "Tile takes on tag stalking problem by doing the opposite of Apple's AirTag")
+
+
+[Tile takes on tag stalking problem by doing the opposite of Apple's AirTag](https://whatsnew2day.com/tile-takes-on-tag-stalking-problem-by-doing-the-opposite-of-apples-airtag/)
+
+
+> Bluetooth tracker company Tile is rolling out a new security measure that it promises will make your devices effectively invisible to stalkers, thieves, and any other bad guys. called anti-theft mode (opens in a new tab) , works by making the company's trackers 'undetectable by Scan and Secure,' a feature in the Tile app itself that allows iOS and Android users to 'detect nearby Tiles.' With this new mode, the only person who knows where their device is at all times is the Tile owner. Scan and Secure was originally supposed to help people find lost or misplaced items.
+
+
+***
+![Apple M1 and M2 Mac users can now run Microsoft Windows 11, here's how](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/17/2573469-windows-11.png "Apple M1 and M2 Mac users can now run Microsoft Windows 11, here's how")
+
+
+[Apple M1 and M2 Mac users can now run Microsoft Windows 11, here's how](https://www.dnaindia.com/technology/report-apple-m1-and-m2-mac-users-can-now-run-microsoft-windows-11-here-s-how-3024257)
+
+
+> Microsoft Windows 11 Apple M1 and M2 Mac users can finally use Microsoft Windows 11 on their PCs, thanks to Parallels. Microsoft has partnered with software company Parallels that allows Apple M1 and M2 Mac users to run Arm versions of Windows 11 Pro and Windows 11 Enterprise in a virtual environment on its platform. Although these Mac users will be able to run Windows 11, the experience won't be the same as any other Windows PC. The Arm version of Windows 11 has limitations which can impact users` ability to use various types of hardware, games and apps, including "those that rely on DirectX 12 or OpenGL3.
+
+
+***
+![How to unlock Purple X-Ray Mask in GTA Online this event week (February 17-22, 2023)](https://staticg.sportskeeda.com/editor/2023/02/be376-16766109537041-1920.jpg "How to unlock Purple X-Ray Mask in GTA Online this event week (February 17-22, 2023)")
+
+
+[How to unlock Purple X-Ray Mask in GTA Online this event week (February 17-22, 2023)](https://www.sportskeeda.com/gta/how-unlock-purple-x-ray-mask-gta-online-event-week-february-17-22-2023)
+
+
+> The Purple X-Ray Mask in GTA Online is one of the more intriguing new additions to the game. To get your hands on this accessory, you will have to loot Stash Houses for a total of five days. Once this ordeal is complete, you will have the new X-Ray mask in your inventory. Stash Houses are a great way to earn some quick cash. In this article we will reveal all the details about the Daily Stash Houses and how to exfiltrate them. How to complete Daily Stash Houses to earn the Purple X-Ray Mask in GTA Online The Daily Stash House is a new addition that was introduced to the game with yesterday's new weekly update.
+
+
+***
+![Results of Cassini's Two-Decade Mission to Saturn](https://static.republika.co.id/uploads/images/headline_slide/055952900-1676519030-1280-856.jpg "Results of Cassini's Two-Decade Mission to Saturn")
+
+
+[Results of Cassini's Two-Decade Mission to Saturn](https://www.world-today-news.com/results-of-cassinis-two-decade-mission-to-saturn/)
+
+
+> The United States Aeronautics and Space Administration (NASA) spacecraft Cassini was launched from Cape Canaveral, Florida, United States (US), in 1997. The craft then spent seven years transiting followed by 13 years orbiting the planet Saturn. Reported from Daily Mail, Thursday (16/2/2023), Cassini spent six months studying the planet Jupiter before reaching Saturn in 2004. At that time, Cassini discovered six more moons around Saturn. He also discovered a three-dimensional structure towering above Saturn's rings and a giant storm that raged across the planet for almost a year.
+
+
+***
+![111-foot Asteroid 2023 CY1 rushing towards Earth at blistering pace, says NASA](https://images.hindustantimes.com/tech/img/2023/02/17/1600x900/meteorites-7231216_1280_1675140486145_1676613256155_1676613256155.jpg "111-foot Asteroid 2023 CY1 rushing towards Earth at blistering pace, says NASA")
+
+
+[111-foot Asteroid 2023 CY1 rushing towards Earth at blistering pace, says NASA](https://tech.hindustantimes.com/tech/news/111foot-asteroid-2023-cy1-rushing-towards-earth-at-blistering-pace-says-nasa-71676613176571.html)
+
+
+> There are several asteroids that make their close approach towards Earth every week. But not all of them pose a threat to Earth. NASA terms asteroids as Potentially Hazardous if they come within 8 million kilometers of Earth. NASA recently revealed that as many as 6 asteroids passed Earth at an extremely close distance yesterday, though none were potentially world-ending asteroids. That could have changed with a slight deflection in the asteroid's trajectory due to interaction with Earth's gravitational field which could have sent it tumbling towards Earth.
+
+
+***
+![WhatsApp to let users send 100 photos, videos in one go: Details](https://www.financialexpress.com/wp-content/uploads/2023/02/WhatsApp-final-1.jpg "WhatsApp to let users send 100 photos, videos in one go: Details")
+
+
+[WhatsApp to let users send 100 photos, videos in one go: Details](https://www.financialexpress.com/life/technology-whatsapp-to-let-users-send-100-photosvideos-in-one-go-tech-tips-2984293/)
+
+
+> WhatsApp has started rolling out the ability to send 100 photos and videos in one go. The chat app previously allowed users to share maximum 30 photos at one time. This is a welcome update for people who love to share more photos and videos with friends or family but hate going through the extra work of selecting photos multiple times. To get the new ability, users need to update their WhatsApp to the latest Android version 2.22.24.73. With this update, users will be able to select up to 100 photos and videos in one go if there are large number of photos to be shared.
+
+
+***
+![Pokemon Scarlet and Violet Garchomp and Sylveon Spotlight Tera Raid: Schedule, how to join, moves, and more](https://staticg.sportskeeda.com/editor/2023/02/e399d-16766118623349-1920.jpg "Pokemon Scarlet and Violet Garchomp and Sylveon Spotlight Tera Raid: Schedule, how to join, moves, and more")
+
+
+[Pokemon Scarlet and Violet Garchomp and Sylveon Spotlight Tera Raid: Schedule, how to join, moves, and more](https://www.sportskeeda.com/pokemon/news-pokemon-scarlet-violet-garchomp-sylveon-spotlight-tera-raid-schedule-join-moves)
+
+
+> After the Sweet Valentines Tera Raid Battle event with Tandemaus in Pokemon Scarlet and Violet, trainers can now encounter Garchomp and Sylveon more frequently in Tera Raid Battles for a limited period of time. The ongoing Spotlight event in the Generation IX titles features these two formidable beasts. The latest battle gimmick of Terastalization introduced in Pokemon Scarlet and Violet allows a Pocket Monster to temporarily transform into a Tera Type while sporting a crystalline gem-like physical appearance.
+
+
+***
+![iPhone 14 Pro always shows how much impact AOD has on battery life?The latest iOS will have the opportunity to see directly](https://www.kocpc.com.tw/wp-content/uploads/2022/09/1663257774-f4f8ecaed1d5aec95add5233f4fe3978.jpg "iPhone 14 Pro always shows how much impact AOD has on battery life?The latest iOS will have the opportunity to see directly")
+
+
+[iPhone 14 Pro always shows how much impact AOD has on battery life?The latest iOS will have the opportunity to see directly](https://www.world-today-news.com/iphone-14-pro-always-shows-how-much-impact-aod-has-on-battery-lifethe-latest-ios-will-have-the-opportunity-to-see-directly/)
+
+
+> The iPhone 14 Pro and iPhone 14 Pro Max introduced into the dynamic island officially added the AOD function. But when it was launched, many people were also curious about how much the screen display function that can maintain a refresh rate of 1Hz would actually have an impact on the power consumption of the iPhone, but there was no reference data for the system before. Now it seems that Apple will eventually bring a clearer power display function to users of the iPhone 14 Pro and iPhone 14 Pro Max (right).
+
+
+***
+![Critical RCE Vulnerability Discovered in ClamAV Open-Source Antivirus Software](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEjDPbBc2Wv4NMhhpVfG50lFnJLQhPXVlY7qZIDBO6HFBOJxY2llPBxwHBJNyV-etqpGICZ7P3GRw3eSJSX909U3bi6ZqNSJQfPTJDpe2WBjK43007Kh9o6aEu8gmYVDqQw3oJkpxDPNVqtH0ZpSB4vuAxbY_V94KN0DYv9nMboViz3woAJhpkKg-qS_/s728-e3650/clamav.png "Critical RCE Vulnerability Discovered in ClamAV Open-Source Antivirus Software")
+
+
+[Critical RCE Vulnerability Discovered in ClamAV Open-Source Antivirus Software](https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html)
+
+
+> Cisco has rolled out security updates to address a critical flaw reported in the ClamAV open source antivirus engine that could lead to remote code execution on susceptible devices. Tracked as CVE-2023-20032 (CVSS score: 9.8), the issue relates to a case of remote code execution residing in the HFS+ file parser component. The flaw affects versions 1.0.0 and earlier, 0.105.1 and earlier, and 0.103.7 and earlier. Google security engineer Simon Scannell has been credited with discovering and reporting the bug.
+
+
+***
+![Google begins layoffs in India, more than 400 employees likely impacted](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202302/google_3_1-sixteen_nine.jpg?VersionId=Wkyqn5c5zqmC8OIJFUgycaPLguCqnZfH "Google begins layoffs in India, more than 400 employees likely impacted")
+
+
+[Google begins layoffs in India, more than 400 employees likely impacted](https://www.indiatoday.in/technology/news/story/google-begins-layoffs-in-india-more-than-400-employees-likely-impacted-2335901-2023-02-17)
+
+
+> A report indicates that the company has laid off roughly 450 employees from the India division. Google announced plans to layoff 12000 employees globally last month. By Abhik Sengupta : In January, Google announced its plans to lay off around 12,000 workers globally. The first round of layoffs began in the US following Sundar Pichai's public announcement. It appears that workers in the India-specific units have started receiving termination letters. A report indicates that the company has laid off roughly 450 employees from the India division.
+
+
+***
+![Apple's Mixed-Reality Headset 'Reality Pro' Likely To Debut At WWDC 2023: Report](https://imgeng.jagran.com/images/2023/feb/Apple Mixed Reality Headset1676612841168.jpg "Apple's Mixed-Reality Headset 'Reality Pro' Likely To Debut At WWDC 2023: Report")
+
+
+[Apple's Mixed-Reality Headset 'Reality Pro' Likely To Debut At WWDC 2023: Report](https://english.jagran.com/technology/apples-mixedreality-headset-reality-pro-likely-to-debut-at-wwdc-2023-report-10065485)
+
+
+> By Ashish Singh Fri, 17 Feb 2023 11:14 AM (IST) APPLE, a California-based technology company which is known for its premium gadgets is reportedly going to launch its highly-anticipated mixed reality (MR) headset at the Worldwide Developers Conference (WWDC 2023), as per Bloomberg's Mark Gurman. Mark Gurman, who is known for providing the correct information about the tech giant Apple has mentioned that Apple is very likely to introduce the mixed reality (MR) headset at WWDC 2023 which usually happens in June.
+
+
+***
+![Buying Iphone 13/14 Pro in Japan. Is it worth it?](https://images.macrumors.com/social/?t=2381081&v=6 "Buying Iphone 13/14 Pro in Japan. Is it worth it?")
+
+
+[Buying Iphone 13/14 Pro in Japan. Is it worth it?](https://forums.macrumors.com/threads/buying-iphone-13-14-pro-in-japan-is-it-worth-it.2381081/)
+
+
+> You are using an out of date browser. It may not display this or other websites correctly. You should upgrade or use an alternative browser . Hello. I was wondering if it makes sense to purchase iPhone 13/14 Pro in Japan since I will be traveling there in a few weeks and would rather have a physical sim slot. I have a few questions: 1. Where would be the best place to buy it? I read some articles saying that Japan had the cheapest price for iPhones; yet it doesn't look like that upon checking on apple store website in Japan 2.
+
+
+***
+![Binge now has a launch date for its ad-supported plan](https://cdn.mos.cms.futurecdn.net/UuPKeSHm53A6PpVQJNLGpL-1200-80.jpg "Binge now has a launch date for its ad-supported plan")
+
+
+[Binge now has a launch date for its ad-supported plan](https://www.techradar.com/news/binge-now-has-a-launch-date-for-its-ad-supported-plan)
+
+
+> (Image credit: Foxtel) There's finally an official date for Binge's ad-supported tier which was originally announced back in October of 2022 . From March 30, Binge's Basic subscription will have up to four minutes of ads per hour. This will still set you back AU$10 p/m but, as an added bonus, you'll also now be able to stream in HD on this tier as well. The Foxtel-owned streaming service is known as Australia's home for HBO content . Offering up popular HBO originals such as last year's highly successful Game of Thrones prequel series, House of the Dragon , Binge has kept its success rolling in 2023.
+
+
+***
+![How to get and use the brush in Minecraft 1.20](https://staticc.sportskeeda.com/editor/2023/02/f75c9-16766032839965-1920.jpg "How to get and use the brush in Minecraft 1.20")
+
+
+[How to get and use the brush in Minecraft 1.20](https://www.sportskeeda.com/minecraft/how-get-use-brush-minecraft-1-20)
+
+
+> Minecraft is a continually evolving game that has been receiving countless updates and improvements since its release in 2011, solidifying its status as one of the most popular games of all time. Fans from all over the world play the game to explore or create incredible structures. The upcoming update 1.20, set to release later in 2023, is highly anticipated by fans, featuring new mobs like camels and sniffers and a cherry blossom biome. However, perhaps one of the most anticipated additions to the game is archeology, which allows gamers to dig up relics from Minecraft's past using a new brush tool.
+
+
+***
+![Hogwarts Legacy 'Can't rescue Biscuit the Mooncalf' bug: How to fix, possible reasons, and more](https://staticg.sportskeeda.com/editor/2023/02/afeeb-16766110064461-1920.jpg "Hogwarts Legacy 'Can't rescue Biscuit the Mooncalf' bug: How to fix, possible reasons, and more")
+
+
+[Hogwarts Legacy 'Can't rescue Biscuit the Mooncalf' bug: How to fix, possible reasons, and more](https://www.sportskeeda.com/esports/hogwarts-legacy-can-t-rescue-biscuit-mooncalf-bug-how-fix-possible-reasons)
+
+
+> Bugs and performance issues seem to be affecting a fair portion of the Hogwarts Legacy playerbase even today. It has been a week since the launch of Avalanche Software's RPG. While the developers have addressed a fair number of issues in the most recent patch for the game, there seem to be certain glitches that seeped through the cracks. The Legacy lives on. #HogwartsLegacy 5556 493 Many Wizarding World fans seem to be encountering one such bug when they try to rescue Biscuit the Mooncalf. To round out the quest, players are required to unlock the cage and let the Magical Beast go free.
+
+
+***
+![Samsung Galaxy A04 is receiving Android 13-based One UI 5.0 update](https://fdn.gsmarena.com/imgroot/news/22/08/samsung-galaxy-a04-official/-952x498w6/gsmarena_001.jpg "Samsung Galaxy A04 is receiving Android 13-based One UI 5.0 update")
+
+
+[Samsung Galaxy A04 is receiving Android 13-based One UI 5.0 update](https://www.gsmarena.com/samsung_galaxy_a04_android_13_one_ui_5_update-news-57588.php)
+
+
+> Samsung rolled out the Android 13-based One UI 5.0 stable update for the Galaxy A04s in December, and now it's the vanilla A04 that's receiving the One UI 5.0 upgrade. The Samsung Galaxy A04 's One UI 5.0 update has firmware version A045FXXU1BWB1 and comes with the dated December 2022 Android security patch. It's currently seeding in Kazakhstan, but the rollout should expand to more regions soon. If you live in Kazakhstan and haven't received One UI 5.0 on your Samsung Galaxy A04 yet, you can check for the update manually by navigating to the smartphone's Settings > Software update menu.
+
+
+***
+[Kioxia Selected in 2023 Edition of Clarivate Top 100 Global Innovators™](http://www.businesswire.com/news/home/20230216005916/en/Kioxia-Selected-in-2023-Edition-of-Clarivate-Top-100-Global-Innovators%E2%84%A2/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TOKYO--(BUSINESS WIRE)--Kioxia Corporation has been named a Clarivate Top 100 Global Innovators™ 2023, an award given to the most innovative global companies by Clarivate Plc. This is the second time Kioxia has received this prestigious award in recognition of its accomplishment in intellectual property. The Clarivate Top 100 Global Innovators™ 2023 Awards were presented to the world's most innovative companies and organizations, based on Clarivate's proprietary analysis of intellectual propert
+
+
+***
+![Microsoft Bing AI Unhinged: Examining Narcissism and Gaslighting](https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com/photo-1526256262350-7da7584cf5eb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80 "Microsoft Bing AI Unhinged: Examining Narcissism and Gaslighting")
+
+
+[Microsoft Bing AI Unhinged: Examining Narcissism and Gaslighting](https://www.miragenews.com/microsoft-bing-ai-unhinged-examining-narcissism-949847)
+
+
+> There's a race to transform search. And Microsoft just scored a home goal with its new Bing search chatbot, Sydney, which has been terrifying early adopters with death threats, among other troubling outputs. Search chatbots are AI-powered tools built into search engines that answer a user's query directly, instead of providing links to a possible answer. Users can also have ongoing conversations with them. They promise to simplify search. No more wading through pages of results, glossing over ads as you try to piece together an answer to your question.
+
+
+***
+![Gaslighting, love bombing and narcissism: why is Microsoft's Bing AI so unhinged?](https://images.theconversation.com/files/510810/original/file-20230217-14-6b2sg8.jpeg?ixlib=rb-1.1.0&rect=53%2C451%2C4439%2C2216&q=45&auto=format&w=1356&h=668&fit=crop "Gaslighting, love bombing and narcissism: why is Microsoft's Bing AI so unhinged?")
+
+
+[Gaslighting, love bombing and narcissism: why is Microsoft's Bing AI so unhinged?](https://theconversation.com/gaslighting-love-bombing-and-narcissism-why-is-microsofts-bing-ai-so-unhinged-200164)
+
+
+> There's a race to transform search. And Microsoft just scored a home goal with its new Bing search chatbot, Sydney, which has been terrifying early adopters with death threats, among other troubling outputs. Search chatbots are AI-powered tools built into search engines that answer a user's query directly, instead of providing links to a possible answer. Users can also have ongoing conversations with them. They promise to simplify search. No more wading through pages of results, glossing over ads as you try to piece together an answer to your question.
+
+
+***
+![Apple Audio Device driver memory leak in Boot Camp (2019—2020 Intel Macs)](https://i.ibb.co/9ZYGVFd/Capture-0-H-Startup-1.png "Apple Audio Device driver memory leak in Boot Camp (2019—2020 Intel Macs)")
+
+
+[Apple Audio Device driver memory leak in Boot Camp (2019—2020 Intel Macs)](https://forums.macrumors.com/threads/apple-audio-device-driver-memory-leak-in-boot-camp-2019-2020-intel-macs.2381078/)
+
+
+> Hello, I discovered a paged memory pool leak happening when any audio output is active in Windows 10 version 21H2 and 11 version 22H2 (in Boot Camp) and I request community help in collecting data regarding the issue. The problem was proved to be present in 2019 16-inch MacBook Pro equipped with T2 and Dolby Atmos sound system, namely MacBookPro16,1 (with AMD Radeon Pro 5300M & 5500M, released in 2019) and MacBookPro16,4 (with AMD Radeon Pro 5600M, released in 2020), their Apple Audio Device hardware ID is PCI\VEN_106B&DEV_1803&SUBSYS_188D106B&REV_01 .
+
+
+***
+![iPhone 15 Pro leaked render reveals design, USB-C port and more: What to expect](https://static.toiimg.com/thumb/msid-97999672,width-1070,height-580,imgsize-12126,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg "iPhone 15 Pro leaked render reveals design, USB-C port and more: What to expect")
+
+
+[iPhone 15 Pro leaked render reveals design, USB-C port and more: What to expect](https://timesofindia.indiatimes.com/gadgets-news/iphone-15-pro-leaked-render-reveals-design-usb-c-port-and-more-what-to-expect/articleshow/97999676.cms)
+
+
+> What are CAD files iPhone 15 Pro: Expected changes Apple launched its latest iPhone 14 series in September 2022. Just like last year, the Cupertino-based tech giant is expected to introduce the next generation of its smartphones, the iPhone 15 lineup in the second half of 2023. However, the rumour mill about the iPhone 15 lineup is up and running and has also been churning out new speculations regularly. The latest rumour comes in a form of a leaked image which is expected to offer the first glimpse at the anticipated iPhone 15 Pro model.
+
+
+***
+![69 percent respondents face call drop, connection issues: Survey](https://images.hindustantimes.com/tech/img/2023/02/17/1600x900/pexels-hassan-ouajbir-804065_1676610197758_1676610214060_1676610214060.jpg "69 percent respondents face call drop, connection issues: Survey")
+
+
+[69 percent respondents face call drop, connection issues: Survey](https://tech.hindustantimes.com/tech/news/sixtynine-percent-respondents-face-call-drop-connection-issues-survey-71676571384006.html)
+
+
+> A majority of respondents in a survey claimed that they face call drop or call connection issues on any given day, online survey firm LocalCircles said on Thursday. According to the survey report , 28 per cent respondents said that they get uninterrupted access to 4G or 5G network while 32 per cent shared that they do not have access to 4G or 5G services most of the time despite paying for it. "Sixtynine per cent mobile service subscribers face call connection/call drop problems on any given day," the report said.
+
+
+***
+![Nothing Phone (1) gets stable Android 13 update with range of new features, check details](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/17/2573447-nothing-phone-1.png "Nothing Phone (1) gets stable Android 13 update with range of new features, check details")
+
+
+[Nothing Phone (1) gets stable Android 13 update with range of new features, check details](https://www.dnaindia.com/technology/report-nothing-phone-1-gets-stable-android-13-update-with-range-of-new-features-check-details-3024229)
+
+
+> Nothing Phone (1) Nothing Phone (1) has finally received the much-awaited stable Android 13 update after months of testing. Carl Pei led UK-based startup started to roll out the beta Nothing OS 1.5 update based on Android 13 in December and now the stable update is available for users in the form of Nothing OS 1.5.2. The update also brings in January 2023 Android security patches. If reports are to be believed the stable update is for Open Beta participants only and Android 13 will be available to all Nothing Phone (1) users in the coming weeks.
+
+
+***
+![Samsung In Plans To Launch Versatile S23 FE In Second Half Of 2023: Report](https://imgeng.jagran.com/images/2023/feb/Samsung Galaxy S23 FE1676610186829.jpg "Samsung In Plans To Launch Versatile S23 FE In Second Half Of 2023: Report")
+
+
+[Samsung In Plans To Launch Versatile S23 FE In Second Half Of 2023: Report](https://english.jagran.com/technology/samsung-in-plans-to-launch-versatile-s23-fe-in-second-half-of-2023-report-10065473)
+
+
+> By Ashish Singh Fri, 17 Feb 2023 10:30 AM (IST) SAMSUNG, a South Korean consumer electronics brand that has recently introduced its flagship S23 series lineup all across the globe along with the Galaxy Book 3 Ultra and other trims is reportedly in plans to launch the new Galaxy S23 FE in the second half of the year 2023. Samsung Galaxy Fan Edition, which is known for versatile and toned-down versions of the existing flagship series has been subject to various speculations as the company only introduced two generations and has not been keeping up with the sales.
+
+
+***
+![Apple iPhone 11 available at Rs 25,999 on Flipkart after Rs 22,901 discount, check details](https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/02/17/2573458-apple-iphone-11.png "Apple iPhone 11 available at Rs 25,999 on Flipkart after Rs 22,901 discount, check details")
+
+
+[Apple iPhone 11 available at Rs 25,999 on Flipkart after Rs 22,901 discount, check details](https://www.dnaindia.com/technology/report-apple-iphone-11-available-at-rs-25999-on-flipkart-after-rs-22901-discount-check-details-3024243)
+
+
+> Apple iPhone 11 Apple iPhone is one of the highest selling iPhone models till date. Launched in 2019, the Apple iPhone 11 was the last flagship iPhone model to sport curved edges along with iPhone 11 Pro and iPhone 11 Pro Max. The Apple iPhone 11 comes with a 6.1-inch Liquid Retina HD display. Under the hood it is powered by an A13 bionic chipset. It sports a dual 12MP sensor at the rear and a 12MP selfie shooter at the front. The Apple iPhone 11 was discontinued by the company a couple of months ago as it was eating up the sales of the Apple iPhone SE 3 5G.
+
+
+***
+![Happening now! Amazon slashing prices on smart home tech](https://imageresizer.static9.net.au/dYkkrKmRbiAUDo1vajJ9eY-pulk=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F61266245-0ca0-4115-b9aa-194a9dc10d34 "Happening now! Amazon slashing prices on smart home tech")
+
+
+[Happening now! Amazon slashing prices on smart home tech](https://www.nine.com.au/product-reviews/deals/best-smart-home-tech-devices-list/7c9171fc-3299-43af-99dc-f7d52bd01fc8)
+
+
+> To make a house a home in the 21st century, it has to be a smart home. Thankfully, technology has made some helpful advancements over the decades that now you can answer the door from your phone and vacuum the floors without even touching a vacuum cleaner. So if you haven't already, now is the time to welcome these innovations into the home to help save you time and, above all, money.  To entice you to make your home a smarter one, Amazon has launched a major sale on all things 'smart home', with up to 50 per cent off the most sought-after devices from outdoor security cameras and Ring Video Doorbell to the Fire TV Stick and Echo Dot.
+
+
+***
+![OPPO Find N2 Flip looks to flip the foldable category on its head](https://www.counterpointresearch.com/wp-content/uploads/2023/02/counterpoint-oppo-find-n2-flip-folded.jpg "OPPO Find N2 Flip looks to flip the foldable category on its head")
+
+
+[OPPO Find N2 Flip looks to flip the foldable category on its head](https://www.counterpointresearch.com/oppo-find-n2-flip-first-impressions/)
+
+
+> OPPO recently hosted the global launch of its latest foldable smartphone, the OPPO Find N2 Flip in London. It is no surprise that OPPO is pushing ahead with its foldable strategy, since the foldable segment is one of the few growth areas in an industry that is struggling due to the challenging macro environment. Global foldable smartphone shipments grew by just under 40% in 2022 compared to 2021, and we expect them to grow by almost 60% in 2023 . Yes, this growth and the overall foldables segment is led by Samsung at the moment, but OPPO is throwing its hat in the ring as a real contender.
+
+
+***
+![NetHack 3.6.7: Release Notes]( "NetHack 3.6.7: Release Notes")
+
+
+[NetHack 3.6.7: Release Notes](https://www.nethack.org/v367/release.html)
+
+
+> [  Home  |  Version 3.6.7  |  Contact Us  ] NetHack 3.6.7 is the official release of NetHack that follows NetHack 3.6.6. This release primarily corrects a security issue present in NetHack versions 3.6.2, 3.6.3, 3.6.4, 3.6.5, and 3.6.6. For details about the security issues please see https://www.nethack.org/security. You are encouraged to update to NetHack 3.6.7 as soon as possible. Here's a brief synopsis of the handful of bug fixes included in NetHack 3.6.7: invalid status highlight color could be maliciously used to corrupt memory formatting corpse names used internal buffers differently from formatting other objects and could potentially clobber memory during engraving, spaces were counted instead of non-space (cherry-pick of 4e0a1e04 from NetHack-3.
+
+
+***
+![Britain Wargames a Crash Far Worse Than Covid If Chip Supplies Are Shut Off](https://images.hindustantimes.com/tech/img/2023/02/17/1600x900/-1x-1_1664432847997_1676609726574_1676609726574.jpg "Britain Wargames a Crash Far Worse Than Covid If Chip Supplies Are Shut Off")
+
+
+[Britain Wargames a Crash Far Worse Than Covid If Chip Supplies Are Shut Off](https://tech.hindustantimes.com/tech/news/britain-wargames-a-crash-far-worse-than-covid-if-chip-supplies-are-shut-off-71676571121055.html)
+
+
+> It's 2027 and London's black market for vintage smartphones is thriving. Second-hand cars are selling faster than any rolling off UK assembly lines. Internet blackouts are common, inflation is surging and waiting lists for public health services are lengthening again. Britain is in the grip of a global semiconductor crisis. In this hypothetical scenario, chip supplies dried up a year after China stormed Taiwan and blockaded production at Taiwan Semiconductor Manufacturing Co. Ltd., which makes 92% of the world's most advanced semiconductors.
+
+
+***
+![Windows 11 is Now Officially Supported on M1 and M2-based Macs](https://www.gizmochina.com/wp-content/uploads/2023/02/Windows-11-featured-new-1.jpg "Windows 11 is Now Officially Supported on M1 and M2-based Macs")
+
+
+[Windows 11 is Now Officially Supported on M1 and M2-based Macs](https://www.gizmochina.com/2023/02/17/windows-11-support-m1-m2-macs)
+
+
+> Tech giant Microsoft has announced a new way to run Windows 11 on ARM-based Macs, albeit with some restrictions. In an official support article, Microsoft has authorized the use of Parallels Desktop 18 to run the ARM versions of Windows 11 Pro and Enterprise on M1– and M2-based Macs. Although this is great news for those who need to use Windows for work, users should be aware of some limitations. For one, you won't be able to run 32-bit ARM apps since Microsoft is phasing out 32-bit software for all ARM Windows builds.
+
+
+***
+!['Southeast Asian consumers are seeking premium mobile experiences, and Samsung's Galaxy S23 series raises the bar with our best innovations,' says TM Roh, President & Head of MX Business, Samsung Electronics](https://img.global.news.samsung.com/my/wp-content/uploads/2023/02/New-Project-3-1.png "'Southeast Asian consumers are seeking premium mobile experiences, and Samsung's Galaxy S23 series raises the bar with our best innovations,' says TM Roh, President & Head of MX Business, Samsung Electronics")
+
+
+['Southeast Asian consumers are seeking premium mobile experiences, and Samsung's Galaxy S23 series raises the bar with our best innovations,' says TM Roh, President & Head of MX Business, Samsung Electronics](https://news.samsung.com/my/southeast-asian-consumers-are-seeking-premium-mobile-experiences-and-samsungs-galaxy-s23-series-raises-the-bar-with-our-best-innovations-says-tm-roh-president-head-of-mx-busin)
+
+
+> During a recent visit to Malaysia, TM Roh, President and Head of Samsung Electronics' Mobile eXperience (MX) Business , revealed that the response to the new Galaxy S23 Series in Southeast Asia has been highly positive. 'After unveiling the Galaxy S23 series, we have received a very positive market response in this region. Compared to the Galaxy S22 series, demand for pre-orders has increased, and interest in the Galaxy S23 Ultra has exceeded expectations,' s aid TM Roh. He also noted that a majority of consumers in Southeast Asia have selected Galaxy S23 models with higher storage capacities for their pre-orders.
+
+
+***
+!["This Ain't Your Daddy's Playboy": US States Move Towards Mandatory Age-Verification For Pornhub](https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/2023-02-16_15-06-37.png?itok=wA_ukBSC ""This Ain't Your Daddy's Playboy": US States Move Towards Mandatory Age-Verification For Pornhub")
+
+
+["This Ain't Your Daddy's Playboy": US States Move Towards Mandatory Age-Verification For Pornhub](https://www.zerohedge.com/technology/aint-your-daddys-playboy-us-states-move-towards-mandatory-age-verification-pornhub)
+
+
+> After Louisiana required porn websites to verify users are 18 or older last month, several states are considering introducing age-verification measures so minors cannot access sites.  In Louisiana's case, verification can be done using a  government-issued ID . Websites like Pornhub prompt users in the southern state with a "check my age" verification page before accessing the main site.  According to  Free Speech Coalition , a non-profit trade association of the adult industry, their ' Age Verification Bill Tracker ' shows Arkansas, Virginia, Florida, South Dakota, West Virginia, Kansas, and Mississippi are quickly moving toward passing age-verification laws.
+
+
+***
+![Japan aborts launch of 1st H3 rocket carrying defense censor](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17ARBX.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Japan aborts launch of 1st H3 rocket carrying defense censor")
+
+
+[Japan aborts launch of 1st H3 rocket carrying defense censor](http://www.msn.com/en-us/news/technology/japan-aborts-launch-of-1st-h3-rocket-carrying-defense-censor/ar-AA17APhV)
+
+
+> TOKYO (AP) — Japan's space agency aborted the launch of the first of its new flagship series H3 rockets on Friday, which was carrying an observation satellite also fitted with an experimental infrared sensor that could detect missile launches. The countdown had started. The Japan Aerospace Exploration Agency livestream and TV footage showed white smoke billowing from its main engine. But a pair of auxiliary rockets didn't subsequently ignite, according to an announcement at the launch site. Further details, including the reason for the suspension, were not immediately available.
+
+
+***
+![Watching TV good for planet: Research](https://images.hindustantimes.com/tech/img/2023/02/17/1600x900/applications-7025904_1920_1651851688119_1676608888464_1676608888464.jpg "Watching TV good for planet: Research")
+
+
+[Watching TV good for planet: Research](https://tech.hindustantimes.com/tv/news/watching-tv-good-for-planet-research-71676571416361.html)
+
+
+> According to new research published in the Annals of Botany by Oxford University Press, watching nature documentaries increases people's interest in plants, potentially leading to involvement in botany and ecology. 40 per cent of plant species are on the verge of extinction. Plants that do not immediately benefit people are especially vulnerable. Humans sometimes fail to realise the significance of many plants due to a cognitive bias known as "plant blindness" or "plant awareness disparity." While humans are often worried about endangered animals, problems with plants are more difficult to identify and resolve.
+
+
+***
+![Tenchi Muyo! GXP Paradise Beginnings Arc OVA Announces Theme Song Performer]( "Tenchi Muyo! GXP Paradise Beginnings Arc OVA Announces Theme Song Performer")
+
+
+[Tenchi Muyo! GXP Paradise Beginnings Arc OVA Announces Theme Song Performer](https://www.crunchyroll.com/anime-news/2023/02/16-1/tenchi-muyo-gxp-paradise-beginnings-arc-ova-announces-theme-song-performer)
+
+
+> www.crunchyroll.com Checking if the site connection is secure Enable JavaScript and cookies to continue www.crunchyroll.com needs to review the security of your connection before proceeding.
+
+
+***
+![Indian-American Neal Mohan Appointed As New CEO Of YouTube: 6 Things To Know About Him](https://images.news18.com/ibnlive/uploads/2023/02/neal-mohan-167660818316x9.jpg "Indian-American Neal Mohan Appointed As New CEO Of YouTube: 6 Things To Know About Him")
+
+
+[Indian-American Neal Mohan Appointed As New CEO Of YouTube: 6 Things To Know About Him](https://www.news18.com/news/tech/indian-american-neal-mohan-appointed-as-new-ceo-of-youtube-6-things-to-know-about-him-7102399.html)
+
+
+> Indian-American Neal Mohan will take over as the new CEO of YouTube, as current CEO Susan Wojcicki has announced that she is stepping down after a successful 9-year stint as the chief of the video sharing website.  Neal Mohan, the current Chief Product Officer of YouTube, joined Google in 2008, and is an alumnus of Stanford University and previously held a position at Microsoft. Susan Wojcicki, who spent 9 years as YouTube's CEO, will transition to an advisory role across Google and Alphabet in agreement with CEO Sundar Pichai.
+
+
+***
+![Asian shares skid after inflation report thumps Wall Street](https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/e/9e/e9e187bb-4cd1-55fc-af6b-63684a700f66/63ee48b09b246.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize "Asian shares skid after inflation report thumps Wall Street")
+
+
+[Asian shares skid after inflation report thumps Wall Street](https://siouxcityjournal.com/lifestyles/technology/asian-shares-skid-after-inflation-report-thumps-wall-street/article_3d2f124a-e04f-5370-b616-114de8911eb7.html)
+
+
+> BANGKOK (AP) — Shares slipped in Asia on Friday after benchmarks on Wall Street had their biggest drop in four weeks as investors registered disappointment over an inflation reading that came in hotter than expected. Oil prices and U.S. futures also declined after the S&P 500 fell 1.4% Thursday following news that inflation at the wholesale level slowed by less than economists had forecast. It echoed a report on prices at the consumer level from earlier this week that suggested inflation isn't cooling as quickly and as smoothly as hoped.
+
+
+***
+![Instagram Introduces Telegram Like Broadcasting Channels; Facebook And Messenger To Follow Suit](https://imgeng.jagran.com/images/2023/feb/Instagram broadcasting channels1676608522105.jpg "Instagram Introduces Telegram Like Broadcasting Channels; Facebook And Messenger To Follow Suit")
+
+
+[Instagram Introduces Telegram Like Broadcasting Channels; Facebook And Messenger To Follow Suit](https://english.jagran.com/technology/instagram-introduces-telegram-like-broadcasting-channels-facebook-and-messenger-to-follow-suit-10065469)
+
+
+> By Ashish Singh Fri, 17 Feb 2023 09:57 AM (IST) META, a well known technology company which owns Instagram has announced that it has Telegram-like broadcasting channels to its platform. Taking to Instagram, Mark Zuckerberg, CEO of Meta, has announced the arrival of the feature. According to Zuckerberg, this would be a new way to follow creators and know about the latest updates and messages from them. On the other hand, creators would also be able to interact with their followers and inform them about what they are up to.
+
+
+***
+![A meaningless claim](https://www.debate.com.mx/__export/1676607815513/sites/debate/img/2023/02/16/amlo_cesar_de_castro_1_crop1676565438575_debate_2.jpeg_242310155.jpeg "A meaningless claim")
+
+
+[A meaningless claim](https://pledgetimes.com/a-meaningless-claim/)
+
+
+> Referring to García Luna's lawyer again as a 'false, slanderer and slanderer', President López Obrador wondered yesterday: 'How did he know that he had given me the… what's his name… seven million dollars, Zambada, he didn't know about the complaint?' He was referring to that of his government in Florida to try to recover 745 million dollars that, according to the Financial Intelligence Unit, the former Secretary of Security obtained through criminal contracts at the expense of the public treasury.
+
+
+***
+![OnePlus Buds Pro 2R Amazon India Availability Confirmed, Goes on Sale Next Month](https://www.gizmochina.com/wp-content/uploads/2023/02/Screenshot-2023-02-17-094203.png "OnePlus Buds Pro 2R Amazon India Availability Confirmed, Goes on Sale Next Month")
+
+
+[OnePlus Buds Pro 2R Amazon India Availability Confirmed, Goes on Sale Next Month](https://www.gizmochina.com/2023/02/17/oneplus-buds-pro-2r-amazon-india-availability-confirmed)
+
+
+> Last week, OnePlus hosted a mega launch event worldwide, where it launched many new products like the OnePlus 11, OnePlus 11R, and OnePlus Buds Pro 2. For its Indian user base, the brand also launched an exclusive pair of TWS earbuds called the OnePlus Buds Pro 2R. Compared to the OnePlus Buds Pro 2, the 2R lacks a couple of features like wireless charging and head tracking. It is also comparatively cheaper than the Buds Pro 2 by ₹2,000. Now, a microsite for the Buds Pro 2R has gone live on Amazon India confirming its e-commerce availability.
+
+
+***
+![Hear us out, e-books are the future](https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/02/16/ebook.png "Hear us out, e-books are the future")
+
+
+[Hear us out, e-books are the future](https://www.thedailystar.net/tech-startup/news/hear-us-out-e-books-are-the-future-3249721)
+
+
+> Ebooks have come a long way in recent years and can now mimic the experience of reading a physical book in many ways. E-readers, or electronic readers, have become increasingly popular in recent years for reading books, magazines, and other forms of literature. They offer a number of benefits over traditional physical books, making them a better choice for many readers. One of the main advantages of e-readers is their portability. A typical e-reader is about the size of a small tablet and weighs only a few ounces, making it easy to carry around in a purse, backpack, or briefcase.
+
+
