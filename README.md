@@ -37865,3 +37865,973 @@
 > I'm working with Maxar https://www.maxar.com/ They need a Python Developer with 5+ years of experience. The position is fully remote but you must be a US citizen. If you have FastAPI I can get you $90/hr. Contact me here: https://www.linkedin.com/in/tommy7phillips/ Or here: tommy@bridgeviewit.com
 
 
+***
+![Thune Named Ranking Member of Key Senate Subcommittee](https://rbr.com/wp-content/uploads/Thune-sect-230.jpg "Thune Named Ranking Member of Key Senate Subcommittee")
+
+
+[Thune Named Ranking Member of Key Senate Subcommittee](https://rbr.com/thune-named-ranking-member-of-key-senate-subcommittee/)
+
+
+> WASHINGTON, D.C. — The Ranking Member of the Senate Committee on Commerce, Science and Transportation, Texas Republican  Ted Cruz,  has finalized his list of Ranking Members for the seven subcommittees within the powerful legislative body, which has oversight of the FCC in the upper chamber of Congress. The man appointed as Ranking Member of the Subcommittee on Communications, Media and Broadband? An individual many are familiar with, and who, like Cruz, is outspoken in his opposition to the White House's nominee for the fifth seat on the FCC, Gigi Sohn.
+
+
+***
+![Fifth wave of Fire Emblem Engage icons available for Switch Online members](https://gonintendo.com/attachments/image/23421/file/medium-55514ce59c6d9bb5ed1d1ab93dbbc38f.png "Fifth wave of Fire Emblem Engage icons available for Switch Online members")
+
+
+[Fifth wave of Fire Emblem Engage icons available for Switch Online members](https://gonintendo.com/contents/16388-fifth-wave-of-fire-emblem-engage-icons-available-for-switch-online-members)
+
+
+> For the past few weeks now, Nintendo Switch Online members have been able to redeem their saved-up Platinum points for icon elements themed around the recently released Fire Emblem Engage. With the fourth wave coming to an end, the fifth wave of icon elements is now available. You can see some of the available elements above, featuring characters and backgrounds centered around Fire Emblem Engage. The characters will each cost 10 Platinum Points, with background and frames costing 5 Platinum Points each.
+
+
+***
+![Two Scripps Board Members Plan To Retire](https://rbr.com/wp-content/uploads/Scripps.jpg "Two Scripps Board Members Plan To Retire")
+
+
+[Two Scripps Board Members Plan To Retire](https://rbr.com/two-scripps-board-members-plan-to-retire/)
+
+
+> A pair of board members of  The E.W. Scripps Co.  will not stand for re-election at the annual meeting of shareholders in May, the company announced in a SEC filing made on Thursday. Please to view this premium content . (Not a member? Join Today! ) TAGS The E.W. Scripps Co. tv2
+
+
+***
+![Tech-Enabled Outsourcing Solutions Provider Accario committed to climbing higher](http://island.lk/wp-content/uploads/2023/02/Accario-Photo-1-The-Accario-Management-team.jpg "Tech-Enabled Outsourcing Solutions Provider Accario committed to climbing higher")
+
+
+[Tech-Enabled Outsourcing Solutions Provider Accario committed to climbing higher](http://island.lk/tech-enabled-outsourcing-solutions-provider-accario-committed-to-climbing-higher/)
+
+
+> Australian based tech-enabled outsourcing solutions provider Accario held its annual Accario Galaxy Night recently bringing together its 190 strong team from Colombo and Kandy reaffirming its commitment to build on an impressive 2022 performance and climb higher in 2023. With a client base that spans Australia, New Zealand, United Kingdom, Rwanda, Singapore, Canada and USA and a team of over one thousand employees across the globe, Accario has embedded its values of customer satisfaction to build a team that is best in class.
+
+
+***
+![New YouTube CEO Neal Mohan ‘excited' for his ‘awesome and important mission'](https://www.hindustantimes.com/ht-img/img/2023/02/17/1600x900/Neal_Mohan_1676595333809_1676595334110_1676595334110.jpg "New YouTube CEO Neal Mohan ‘excited' for his ‘awesome and important mission'")
+
+
+[New YouTube CEO Neal Mohan ‘excited' for his ‘awesome and important mission'](https://www.hindustantimes.com/technology/new-youtube-ceo-neal-mohan-excited-for-his-awesome-and-important-mission-101676594690047.html)
+
+
+> Neal Mohan , an Indian American who is all set to become the next Chief Executive Officer (CEO) of YouTube, on Thursday said that he is excited to continue this "awesome and important mission" and looking forward to a new future. After Susan Wojcicki announced her resignation, Mohan became the new CEO of the online video-sharing platform. Also read: Who is Indian-American Neal Mohan — the new CEO of YouTube? 5 facts Taking to Twitter, Mohan said, "Thank you, @SusanWojcicki. It's been amazing to work with you over the years.
+
+
+***
+![Mastercard, Copal team up on first family payments App](https://newsghana.com.gh/wp-content/uploads/2022/07/mastercard.jpg "Mastercard, Copal team up on first family payments App")
+
+
+[Mastercard, Copal team up on first family payments App](https://newsghana.com.gh/mastercard-copal-team-up-on-first-family-payments-app/)
+
+
+> Mastercard Mastercard and Copal, Egypt's first digital payment solutions App specifically designed for families, have enters a strategic partnership to introduce the first family payment and expenses management application in Egypt. The seamless solution aims to further drive financial inclusion in the country through the integration of underbanked youth into the formal economy. The introduction of Copal in the Egyptian market is designed to provide a seamless and innovative cashless experience for all family members.
+
+
+***
+![City of Oakland declares state of emergency after ransomware attack](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/29040523244_4023790bc3_c.jpg "City of Oakland declares state of emergency after ransomware attack")
+
+
+[City of Oakland declares state of emergency after ransomware attack](https://siliconangle.com/2023/02/16/city-oakland-declares-state-emergency-ransomware-attack/)
+
+
+> The City of Oakland, California, has declared a state of emergency after a ransomware attack on Feb. 8 knocked some of its IT systems offline. The state of emergency was declared 'due to the ongoing impacts of the network outages resulting from the ransomware attack' and allows the city to 'expedite the procurement of equipment and materials, activate emergency workers if needed, and issue orders on an expedited basis.' The form of ransomware used in the attack has not been disclosed. The attack did not affect 911 services, including fire resources, but certain non-emergency systems have been taken offline while the city works to secure and restore services.
+
+
+***
+![Appian beats expectations but stock falls as it racks up increased losses](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/compatible_matt_calkins_landscape1.png "Appian beats expectations but stock falls as it racks up increased losses")
+
+
+[Appian beats expectations but stock falls as it racks up increased losses](https://siliconangle.com/2023/02/16/appian-beats-expectations-stock-falls-racks-increased-losses/)
+
+
+> Automation software provider Appian Corp. beat Wall Street's expectations as it delivered its fourth-quarter financial results today, but its stock fell in extended trading as its losses widened. The company reported a loss before certain costs such as stock compensation of 28 cents per share on revenue of $125.8 million, up 20% from a year earlier. The results were good, with Wall Street analysts targeting a bigger loss of 40 cents per share on lower revenue of $122.4 million. Even so, the overall picture for Appian looks worse, as the company delivered a net loss of $34.
+
+
+***
+![Pokémon Scarlet/Violet Garchomp & Sylveon Tera Raid Battle has begun](https://gonintendo.com/attachments/image/23420/file/medium-d40df94177098ddad582e971734b894a.png "Pokémon Scarlet/Violet Garchomp & Sylveon Tera Raid Battle has begun")
+
+
+[Pokémon Scarlet/Violet Garchomp & Sylveon Tera Raid Battle has begun](https://gonintendo.com/contents/16387-pokemon-scarlet-violet-garchomp-sylveon-tera-raid-battle-has-begun)
+
+
+> The next Tera Raid Battle Event for Pokémon Scarlet and Violet has now begun, and this time you'll face off against Garchomp & Sylveon! This event is live until Feb. 19th featuring 4 and 5 Star level Raids. There will be various Tera types and as for rewards, you'll be able to get different items like Hondew Berries, Muscle Feathers, and more. Visit Serebii here for the full breakdown! modal#open commentUpvoteInfoModal.open@document->modal#reloadFrame>
+
+
+***
+![Alice Gear Aegis CS Gets Western Release Date for PS5, PS4, and Nintendo Switch](https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Alice%20Gear%20Aegis%20CS%20Concerto%20of%20Simulatrix.jpg?itok=L9b-zxQk "Alice Gear Aegis CS Gets Western Release Date for PS5, PS4, and Nintendo Switch")
+
+
+[Alice Gear Aegis CS Gets Western Release Date for PS5, PS4, and Nintendo Switch](https://techraptor.net/gaming/news/alice-gear-aegis-cs-gets-western-release-date-for-ps5-ps4-and-nintendo-switch)
+
+
+> Today publisher Pqube announced the western release date of Mages' waifu 3D battle arena action game Alice Gear Aegis CS: Concerto of Simulatrix. The game will launch in North America and Europe on March 16, 2023, for PS5, PS4, and Nintendo Switch. Advertisement The announcement was accompanied by a trailer, which you can enjoy below. The game is based on a popular mobile franchise, Alice Gear Aegis. The original game was released in Japan in 2017 for iOS and Android with a PC version launched in 2019.
+
+
+***
+![Artificial intelligence: A deeply disturbing conversation with Bing's AI chat](https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/t_brisbanetimes_no_label_no_age_social_wm/a060ef88d296d353641026a266d9d76ba4c1de93 "Artificial intelligence: A deeply disturbing conversation with Bing's AI chat")
+
+
+[Artificial intelligence: A deeply disturbing conversation with Bing's AI chat](https://www.smh.com.au/technology/my-deeply-unsettling-conversation-with-bing-s-ai-chat-20230217-p5clb6.html)
+
+
+> I'm not the only one discovering the darker side of Bing. Other early testers have gotten into arguments with Bing's AI chatbot, or been threatened by it for trying to violate its rules, or simply had conversations that left them stunned. Ben Thompson, who writes the Stratechery newsletter (and who is not prone to hyperbole), called his run-in with Sydney 'the most surprising and mind-blowing computer experience of my life'. I pride myself on being a rational, grounded person, not prone to falling for slick AI hype.
+
+
+***
+![NAB Offers Input, Insight On Possible FCC ATSC 3.0 Task Force](https://rbr.com/wp-content/uploads/rosenworcel-mwc22.png "NAB Offers Input, Insight On Possible FCC ATSC 3.0 Task Force")
+
+
+[NAB Offers Input, Insight On Possible FCC ATSC 3.0 Task Force](https://rbr.com/nab-offers-input-insight-on-possible-fcc-atsc-3-0-task-force/)
+
+
+> WASHINGTON, D.C. — The NAB on Thursday filed an ex parte brief with the FCC that outlined details of a meeting with Chairwoman Jessica Rosenworcel in which the broadcast media industry's biggest advocacy group requested the Commission launch an internal task force focused on accelerating the broadcast TV industry's transition to the ATSC 3.0 standard. There's more. Please to view this premium content . (Not a member? Join Today! ) TAGS ATSC 3.0 Task Force FCC Jessica Rose
+
+
+***
+![This phone camera's the best and biggest, but is it worth it?](https://static.ffx.io/images/$zoom_0.3531%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_analysis_no_age_social_wm/86d7d04dc2f08fe4680e8bf2713b283ba1d9334e "This phone camera's the best and biggest, but is it worth it?")
+
+
+[This phone camera's the best and biggest, but is it worth it?](https://www.smh.com.au/technology/this-phone-camera-s-the-best-and-biggest-but-is-it-worth-it-20230213-p5ck49.html)
+
+
+> But that's only one of the four cameras on the back of the phone. What about the others, which are hardware-wise the same as last year's S22 Ultra, and that purported 100x zoom? The bottom-most shooter is a 10MP, 230 millimetre telescope camera, meaning it sits vertically inside the body of the phone using an angled mirror to see out, and produces a native 10x optical zoom. If you keep zooming beyond that point, the phone will essentially be taking a crop of that image, and after you hit the shutter it will use AI and a lot of sharpening in an attempt to produce an intelligible picture, which is tough at 30x and even harder at the maximum 100x.
+
+
+***
+![iPhone 15 Pro USB-C port allegedly shown in photo](https://photos5.appleinsider.com/gallery/53066-106240-iPhone-15-Ultra-4-xl.jpg "iPhone 15 Pro USB-C port allegedly shown in photo")
+
+
+[iPhone 15 Pro USB-C port allegedly shown in photo](https://appleinsider.com/articles/23/02/17/iphone-15-pro-usb-c-port-allegedly-shown-in-photo)
+
+
+> 10 seconds ago 16 minutes ago 2 hours ago 3 hours ago 3 hours ago 4 hours ago 4 hours ago
+
+
+***
+![Is Bing very rude? Microsoft promises to tame AI chatbot](https://images.livemint.com/img/2023/02/17/600x338/Microsoft-Artificial-Intelligence_1676592698464_1676592699054_1676592699054.jpg "Is Bing very rude? Microsoft promises to tame AI chatbot")
+
+
+[Is Bing very rude? Microsoft promises to tame AI chatbot](https://www.livemint.com/technology/tech-news/is-bing-very-rude-microsoft-promises-to-tame-ai-chatbot-11676585822426.html)
+
+
+> Microsoft's new AI-powered search engine has received mixed reactions since its launch. The chatbot has been unleashed on the world. People are discovering that Bing's AI personality is not as poised as one might expect. Several cases have occurred on social media where Bing users have faced bitter remarks. Microsoft's AI chatbox is seen gaslighting, sulking, and manipulating people. People have shared screenshots on social media of Bing's hostile and bizarre answers in which it claims it is human, voices strong feelings, and is quick to defend itself.
+
+
+***
+![The Smile Alchemist coming to Switch on March 3rd](https://gonintendo.com/attachments/image/23419/file/medium-fccd98e24e96f2cd90bab4cc49343437.png "The Smile Alchemist coming to Switch on March 3rd")
+
+
+[The Smile Alchemist coming to Switch on March 3rd](https://gonintendo.com/contents/16386-the-smile-alchemist-coming-to-switch-on-march-3rd)
+
+
+> KEMCO is bringing us yet another game, this time in the form of The Smile Alchemist, a heart-warming alchemy simulator. If you'd like to know more about the game, read ahead for the full description or visit their official website here . Follow the growth of a young alchemist aiming to become the best in the world! In Polta Kolta, a town where humans and beasts live together, the young Nayc becomes an apprentice and is training hard under the famous alchemist. His aim is to become the best alchemist in the world for a promise made with his precious friend, but a matter of great concern is worrying him… The Smile Alchemist is an alchemist simulator containing the fun elements of character development, collection and above all not to forget alchemy! You can pre-order the game now through this link currently on sale for $17.
+
+
+***
+![The Father Brown cast welcomes a Harry Potter star](https://iknowallnews.com/wp-content/uploads/2023/02/The-Father-Brown-cast-welcomes-a-Harry-Potter-star.jpg "The Father Brown cast welcomes a Harry Potter star")
+
+
+[The Father Brown cast welcomes a Harry Potter star](https://iknowallnews.com/tv-movies/the-father-brown-cast-welcomes-a-harry-potter-star/)
+
+
+> We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info Father Brown continues this afternoon (February 17) on BBC One at 1.45pm. The episode titled The Show Must Go On follows the Kembleford Players as they stage their latest production. The group will be performing Shakespeare's Much Ado About Nothing in honour of two villagers' late baby daughter.
+
+
+***
+![Dinosaur Footprint Sets Record: 'Couldn't Believe What I Was Looking At'](https://www.cnet.com/a/img/resize/1eac0fed53e94e9986b78bb4e99837810d23eb75/hub/2023/02/16/9b2bcd80-c3ad-4487-9bc4-567da7d21691/footprintmakercjamesmckay.jpg?auto=webp&fit=crop&height=630&width=1200 "Dinosaur Footprint Sets Record: 'Couldn't Believe What I Was Looking At'")
+
+
+[Dinosaur Footprint Sets Record: 'Couldn't Believe What I Was Looking At'](https://www.cnet.com/science/biology/dinosaur-footprint-sets-record-couldnt-believe-what-i-was-looking-at/)
+
+
+> A single footprint can tell a story. A long time ago in the Jurassic era, around 166 million years ago, a jumbo meat-eating dinosaur strolled across what is now modern-day Yorkshire in England. At one point, it perhaps squatted down and then stood back up, leaving behind a truly epic footprint. A team of researchers published a paper on the footprint in the Proceedings of the Yorkshire Geological Society  on Thursday. The three-toed print measures in at 31 inches (80 centimeters) long. It's the largest of its kind ever found in Yorkshire.
+
+
+***
+![RPG Heirs of the Kings now available for Switch](https://gonintendo.com/attachments/image/23418/file/medium-47877713dd0d4a4e03a2033e77ae7367.png "RPG Heirs of the Kings now available for Switch")
+
+
+[RPG Heirs of the Kings now available for Switch](https://gonintendo.com/contents/16385-rpg-heirs-of-the-kings-now-available-for-switch)
+
+
+> For fans of the classic genre KEMCO is here with their newest RPG adventure game: Heir of the Kings. Strengthen your abilities with unique Soul Maps and become the ruler of your destiny in a fantasy RPG! When Laura, a girl who has lost her memory, is being pursued by unknown soldiers, Grant enters in action to protect her only to find out about the danger the world is in from the Forces of Darkness, and sets off on a journey. How can Laura use such high-level magic? This is a story of destiny, and encounters between those with the blood of the rulers in them! Strengthen character abilities as you desire with unique Soul Maps, and customize weapons to be prepared for turn-based battles.
+
+
+***
+![Snap passes 750M active monthly users, predicts 1B in 2-3 years](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/snapchat.png "Snap passes 750M active monthly users, predicts 1B in 2-3 years")
+
+
+[Snap passes 750M active monthly users, predicts 1B in 2-3 years](https://siliconangle.com/2023/02/16/snap-passes-750m-active-monthly-users-predicts-1b-2-3-years/)
+
+
+> Snap Inc. revealed today that it has surpassed over 750 million monthly active users and is on track to be only the fourth social networking tool to surpass 1 billion users. The user figures were released at the company's annual investor day, with Snap walking through a variety of growth statistics. The 750 million MAU milestone represents strong growth for Snap, which hit 500 million monthly active users in April 2021 and 600 million in April 2022, so in nine months Snap added an additional 150 million monthly users.
+
+
+***
+![Oldest Hebrew Bible Could Be Most Expensive Historical Document Ever Auctioned](https://www.cnet.com/a/img/resize/1b4fbd0030f819ed84d1c385c3ae359f745ff938/hub/2023/02/16/9747d720-ea21-47d0-98f1-f42eac3a7f58/1466421806.jpg?auto=webp&fit=crop&height=630&width=1200 "Oldest Hebrew Bible Could Be Most Expensive Historical Document Ever Auctioned")
+
+
+[Oldest Hebrew Bible Could Be Most Expensive Historical Document Ever Auctioned](https://www.cnet.com/culture/oldest-hebrew-bible-could-be-most-expensive-historical-document-ever-auctioned/)
+
+
+> A Hebrew Bible considered to be the earliest nearly complete version of the pivotal book could end up being the most expensive historical document ever to land on the auction block, according to Sotheby's.  That bible, known as the Codex Sassoon , dates back more than a thousand years but is in remarkable shape for its age and missing only 12 leaves. Sotheby's will auction off the 400-page manuscript for between $30 million and $50 million on May 16, after it's been displayed in a number of major cities following decades away from the public eye.
+
+
+***
+[Shareholder Alert: Robbins LLP Informs Investors of Class Action Against Kornit Digital Ltd. (KRNT)](http://www.businesswire.com/news/home/20230216005900/en/Shareholder-Alert-Robbins-LLP-Informs-Investors-of-Class-Action-Against-Kornit-Digital-Ltd.-KRNT/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> SAN DIEGO--(BUSINESS WIRE)---- $KRNT #KRNT--Kornit Digital Ltd. (KRNT) Misrepresented its Business Prospects to Investors
+
+
+***
+![Anker recalls 535 Power Banks after overheating defect](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/anker-535.jpg "Anker recalls 535 Power Banks after overheating defect")
+
+
+[Anker recalls 535 Power Banks after overheating defect](https://mobilesyrup.com/2023/02/16/anker-recalls-535-power-bank-overheating/)
+
+
+> Anker has issued a recall for its 535 Power Banks after a defect was discovered that could result in the device overheating, which could potentially cause a fire. The notice indicates that a small amount of Anker 535 Power Bank (PowerCore 20K) batteries, model A1366 are affected. Anker says it is working closely with local government agencies to ensure a safe recall process. The company urges all customers with the Anker 535 Power Bank A1366 to follow the steps. If you own the device, stop using it, store it in a safe location, don't throw it in the trash, and dispose of it at a facility that accepts Lithium batteries.
+
+
+***
+![Swedish online pharmacy Apotea installs ‘world's first' piece-picking solution integrated with AutoStore](https://roboticsandautomationnews.com/wp-content/uploads/2023/02/apotea-element-logic-eOperator_2.jpg "Swedish online pharmacy Apotea installs ‘world's first' piece-picking solution integrated with AutoStore")
+
+
+[Swedish online pharmacy Apotea installs ‘world's first' piece-picking solution integrated with AutoStore](https://roboticsandautomationnews.com/2023/02/17/swedish-online-pharmacy-apotea-installs-worlds-first-piece-picking-solution-integrated-with-autostore/60417/)
+
+
+> Sweden's leading online pharmacy Apotea  has automated its logistics centre to 'quickly, easily, and smoothly deliver approximately 50,000 orders a day' to its customers. Following international cooperation between Element Logic , AutoStore , RightHand Robotics and Apotea, the centre fully integrated eOperator piece-picking robots with an AutoStore solution, a world first. Pharmacy products are one of the fastest-growing segments of both Swedish and European e-commerce. Apotea.se is Sweden's largest online pharmacy, with the country's most comprehensive range of over-the-counter products and prescription drugs.
+
+
+***
+![Siciliano Officially Gets SVP Nod In NAB Communications](https://rbr.com/wp-content/uploads/Alex_Siciliano_hi-1.png "Siciliano Officially Gets SVP Nod In NAB Communications")
+
+
+[Siciliano Officially Gets SVP Nod In NAB Communications](https://rbr.com/siciliano-officially-gets-svp-nod-in-nab-communications/)
+
+
+> On Monday , the SVP of Communications at the National Association of Broadcasters (NAB) announced that she's departing for a role at the Congressional Club Museum and Foundation. With  Ann Marie Cumming ‘s exit,  Alex Siciliano  was given interim oversight of the key NAB department. He's now officially been given Cumming's soon-to-be former role. Please to view this premium content . (Not a member? Join Today! )
+
+
+***
+![Dropbox's stock falls as it struggles to squeeze more revenue from existing customers](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/48981810116_dc1741eddb_k-800x533-768x512.jpg "Dropbox's stock falls as it struggles to squeeze more revenue from existing customers")
+
+
+[Dropbox's stock falls as it struggles to squeeze more revenue from existing customers](https://siliconangle.com/2023/02/16/dropboxs-stock-falls-struggles-squeeze-revenue-existing-customers/)
+
+
+> Shares of Dropbox Inc. were trending down in the after-hours trading session today after the company reported pedestrian growth and a decline in its average revenue per paying user. The company did at least beat expectations with its fourth-quarter financial results. It reported earnings before certain costs such as stock compensation of 40 cents per share, just ahead of Wall Street's target of a profit of 39 cents. Revenue for the period came to $598.8 million, up 6% from a year earlier and above the analyst estimate of $593.
+
+
+***
+![Collaboration Will be Crucial to Unveil the Potential of Big Data](https://mexicobusiness.news/sites/default/files/styles/crop_16_9/public/2023-02/MHS23-art-2023-02-BigDatas.jpg?h=920929c4&itok=Aqe5EYEt "Collaboration Will be Crucial to Unveil the Potential of Big Data")
+
+
+[Collaboration Will be Crucial to Unveil the Potential of Big Data](https://mexicobusiness.news/health/news/collaboration-will-be-crucial-unveil-potential-big-data)
+
+
+> The integration of big data in healthcare has the potential to revolutionize the way medical care is provided, but it requires collaboration among providers and regulatory frameworks to maximize its impact, agree experts. 'Big data has the potential to transform the healthcare sector in numerous ways, from improving patient outcomes to driving down costs. The abundance of health-related data generated by electronic medical records, wearable devices and health apps can provide valuable information on disease trends, treatment effectiveness and patient behavior,' says Eunice Vargas, Professor and Researcher, Department of Engineering, Architecture and Design, UABC.
+
+
+***
+![Metroid Prime Remastered Physical Edition pre-orders open](https://gonintendo.com/attachments/image/23417/file/medium-393d92d606ad805a823d66a00acfefab.png "Metroid Prime Remastered Physical Edition pre-orders open")
+
+
+[Metroid Prime Remastered Physical Edition pre-orders open](https://gonintendo.com/contents/16384-metroid-prime-remastered-physical-edition-pre-orders-open-now)
+
+
+> Metroid Prime Remastered was released digitally last week, right after the Nintendo Direct ended. As detailed during the event, the physical version of the game would come out on February 22nd. The pre orders for the physical version of the game have opened now through the Nintendo store so if you were expecting to get a copy of the game via them, this is your chance to get it. Here's a direct link for the Nintendo Store and for GameStop . [ Wario64 ] modal#open commentUpvoteInfoModal.
+
+
+***
+![Need For Continued Growth Key MIW Gender Analysis Finding](https://rbr.com/wp-content/uploads/miwlogo.jpg "Need For Continued Growth Key MIW Gender Analysis Finding")
+
+
+[Need For Continued Growth Key MIW Gender Analysis Finding](https://rbr.com/need-for-continued-growth-key-miw-gender-analysis-finding)
+
+
+> The annual Gender Analysis Study from the Mentoring and Inspiring Women in Radio non-profit corporation dedicated to the advancement of female leadership in radio broadcasting has been released. Data for the annual report, which compiles and analyzes the number of women in radio broadcasting who are rising to the ranks of management, shows progress in the ranks of female General Managers and Sales Managers. But, the MIWs say, the greatest challenge for women lies in Program Director/Brand Manager positions.
+
+
+***
+![FCC Reportedly Investigating if Internet Providers Exaggerated Coverage](https://www.cnet.com/a/img/resize/956fd8cec8b97e52d0520aca6c77a695f81563a1/hub/2022/01/14/0a8ed124-9849-454a-a89c-e446862093fd/gettyimages-fcc.jpg?auto=webp&fit=crop&height=630&width=1200 "FCC Reportedly Investigating if Internet Providers Exaggerated Coverage")
+
+
+[FCC Reportedly Investigating if Internet Providers Exaggerated Coverage](https://www.cnet.com/home/internet/fcc-reportedly-investigating-if-internet-providers-exaggerated-coverage/)
+
+
+> The Federal Communications Commission is reportedly investigating whether broadband internet providers have misled the public about their coverage areas. The agency declined to name the multiple service providers it's investigating for potentially exaggerating where they provide high-speed internet service, Bloomberg reported  on Thursday. This comes as the government prepares to hand out $42.5 billion in subsidies for increasing internet access in rural and underserved areas, allocated from the $1.
+
+
+***
+![Toyota Research Institute's robots leave home](https://techcrunch.com/wp-content/uploads/2023/02/CMC_6260.jpg?resize=1200,800 "Toyota Research Institute's robots leave home")
+
+
+[Toyota Research Institute's robots leave home](https://techcrunch.com/2023/02/16/toyota-research-institutes-robots-leave-home/)
+
+
+> 'I think I'm probably just as guilty as everybody else,' Toyota Research Institute's (TRI) senior vice president of robotics, Max Bajracharya, admits. 'It's like, now our GPUs are better. Oh, we got machine learning and now you know we can do this. Oh, okay, maybe that was harder than we thought.' Ambition is, of course, an important aspect of this work. But there's also a grand, inevitable tradition of relearning mistakes. The smartest people in the room can tell you a million times over why a specific issue hasn't been solved, but it's still easy to convince yourself that this time — with the right people and the right tools — things will just be different.
+
+
+***
+![What is the best team for Master League in Pokemon GO? (February 2023)](https://staticg.sportskeeda.com/editor/2023/02/a7400-16765872396601-1920.jpg "What is the best team for Master League in Pokemon GO? (February 2023)")
+
+
+[What is the best team for Master League in Pokemon GO? (February 2023)](https://www.sportskeeda.com/pokemon/what-best-team-master-league-pokemon-go-february-2023)
+
+
+> Pokemon GO's Master League is considered the highest level of competitive PvP combat the title has to offer by many trainers. CP (Combat Power) limits are removed, and Legendary/Mythical entities can be used without any restrictions. The Mythical Wishes season has been around for months now, and the Master League meta has shifted as it often does every time Pokemon Go gets a new major update. Fresh creatures and moves added to the title tend to shake things up somewhat, even if some of this game's top entities still sit atop the rankings for Master League.
+
+
+***
+![PlanetSide 2 Adds Support for Nvidia DLSS and AMD FSR, Updates API, and Lots More](https://images.mmorpg.com/images/heroes/posts/127329.jpg "PlanetSide 2 Adds Support for Nvidia DLSS and AMD FSR, Updates API, and Lots More")
+
+
+[PlanetSide 2 Adds Support for Nvidia DLSS and AMD FSR, Updates API, and Lots More](https://www.mmorpg.com/news/planetside-2-adds-support-for-nvidia-dlss-and-amd-fsr-updates-api-and-lots-more-2000127329)
+
+
+> PlanetSide 2 has launched a series of improvements after marking 10 years , adding support for Nvidia DLSS and AMD FSR to boost framerates, opening better API access, and also better server performance. When it comes to giving the community options to help their games look better while in the heat of combat, Nvidia Deep Learning Super Sampling (DLSS) support has been added to a growing number of games to offer a way to make things a bit shinier without impacting performance.  AMD FidelityFX Super Resolution works to do something similar and improve the experience.
+
+
+***
+![CommandK raises $3M to assist companies achieve higher security standards](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/commandk.png "CommandK raises $3M to assist companies achieve higher security standards")
+
+
+[CommandK raises $3M to assist companies achieve higher security standards](https://siliconangle.com/2023/02/16/commandk-raises-3m-assist-companies-achieve-higher-security-standards/)
+
+
+> Enterprises security startup CommandK Inc. today announced that it has raised $3 million in new funding to assist companies in achieving higher security standards with little to no change management at their end. Lightspeed Ventures Partners LLC led the round, with several angel investors also participating. Founded in 2022, CommandK is building tools that bridge the gap between achieving the highest security and the fastest shipping feature velocity through the end-to-end lifecycle of sensitive data.
+
+
+***
+![Amid US TikTok bans, a few balk at writing its name into law](https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/b/28/b285363c-beee-55f8-ad52-741d728cd78e/63eebcc85d25f.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize "Amid US TikTok bans, a few balk at writing its name into law")
+
+
+[Amid US TikTok bans, a few balk at writing its name into law](https://siouxcityjournal.com/lifestyles/technology/amid-us-tiktok-bans-a-few-balk-at-writing-its-name-into-law/article_75dbeb6f-845b-57bf-b7ed-1069654c3588.html)
+
+
+> By JOHN HANNA - AP Political Writer TOPEKA, Kan. (AP) — Banning TikTok from government devices enjoys bipartsan support across the U.S., but a few Democratic legislators in Kansas object to expanding one imposed by their party's governor because they don't want a state law to target a company by name. The Republican-controlled Kansas House voted 109-12 on Thursday to pass a bill to prohibit any electronic device owned or issued to a state employee from accessing TikTok. The measure appears to have bipartisan support in the GOP-dominated state Senate.
+
+
+***
+![Fox: Dominion defamation suit is assault on First Amendment](https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/e99b3a88-c54c-11ea-8bc7-c382f0c7a0d6.jpg?resize=600%2C315 "Fox: Dominion defamation suit is assault on First Amendment")
+
+
+[Fox: Dominion defamation suit is assault on First Amendment](https://siouxcityjournal.com/lifestyles/technology/fox-dominion-defamation-suit-is-assault-on-first-amendment/article_a0bdc47e-9071-53b1-9a17-92a663ed7bab.html)
+
+
+> WILMINGTON, Del. (AP) — A $1.6 billion defamation lawsuit against Fox News by Dominion Voting Systems over the network's coverage of the 2020 presidential election is an assault on the First Amendment, attorneys for the cable news giant argued in a counterclaim unsealed Thursday. Denver-based Dominion, which sells electronic voting hardware and software, is suing both Fox News and parent company Fox Corporation. Dominion said that some Fox News employees deliberately amplified false claims by allies of former President Donald Trump that Dominion had changed votes in the 2020 election, and that Fox provided a platform for guests to make false and defamatory statements.
+
+
+***
+![Just Dance 2023 Edition, new songs for February 16th](https://gonintendo.com/attachments/image/23415/file/medium-152ef18e3b336ebd75399215ad2c8253.png "Just Dance 2023 Edition, new songs for February 16th")
+
+
+[Just Dance 2023 Edition, new songs for February 16th](https://gonintendo.com/contents/16383-just-dance-2023-edition-songs-added-for-the-week-of-february-16th)
+
+
+> A little dance never hurt nobody Ready for a new round? Here are the latest songs added to Just Dance+ for Just Dance 2023 Edition! Classic Songs added to Just Dance+: Title - Artist (Original Appearance) Funkytown - Sweat Invaders (Just Dance 2) Rock N Roll - Avril Lavigne (Just Dance 2014) You're The One That I Want - From The Movie Grease (Just Dance 2016) A Little Party Never Killed Nobody (All We Got) - Fergie ft. Q-Tip & GoonRock (Just Dance 2019) A Little Party Never Killed Nobody (All We Got) ALT - Fergie ft.
+
+
+***
+![The sad story of Bruce Willis' cognitive decline on movie sets](https://iknowallnews.com/wp-content/uploads/2023/02/The-sad-story-of-Bruce-Willis-cognitive-decline-on-movie-sets.jpg "The sad story of Bruce Willis' cognitive decline on movie sets")
+
+
+[The sad story of Bruce Willis' cognitive decline on movie sets](https://iknowallnews.com/world-news/the-sad-story-of-bruce-willis-cognitive-decline-on-movie-sets/)
+
+
+> Bruce Willis' frontotemporal dementia diagnosis has shocked the film industry There were tell-tale signs on set that Willis, 67, was cognitively suffering  READ MORE: Bruce Willis' family announce he has dementia  Bruce Willis' tragic cognitive decline played out on movie sets for years before he finally stepped back from acting and was diagnosed with aphasia. The Hollywood icon has now been diagnosed with frontotemporal dementia at the age of 67.  In a three-year period leading up to his retirement, Willis made twenty-two ‘Geezer-Teaser' movies but witnesses on set slowly started to recognize he was becoming an increasing liability and have now spoken out.
+
+
+***
+![AT&T ‘Unlimited' Customers Still Awaiting Their $12 Payout More Than A Decade After Being Throttled And Lied To](https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png "AT&T ‘Unlimited' Customers Still Awaiting Their $12 Payout More Than A Decade After Being Throttled And Lied To")
+
+
+[AT&T ‘Unlimited' Customers Still Awaiting Their $12 Payout More Than A Decade After Being Throttled And Lied To](https://www.techdirt.com/2023/02/16/att-unlimited-customers-still-awaiting-their-12-payout-more-than-a-decade-after-being-throttled-and-lied-to/)
+
+
+> In 2014 the FTC  sued AT&T  for selling 'unlimited' wireless data plans with very real and annoying limits. The lawsuit noted that, starting in 2011, AT&T began selling 'unlimited' plans that actually throttled upwards of 90 percent of your downstream speeds after using just two or three gigabytes of data. AT&T spent years trying to wiggle out of the lawsuit via a variety of legal gymnastics. In late 2019, AT&T finally agreed to a  $60 million settlement with the FTC  without actually admitting any wrongdoing.
+
+
+***
+![MacOS Big Sur 11.7.4 Released with Bug Fixes](https://cdn.osxdaily.com/wp-content/uploads/2020/11/macos-big-sur-s.jpg "MacOS Big Sur 11.7.4 Released with Bug Fixes")
+
+
+[MacOS Big Sur 11.7.4 Released with Bug Fixes](https://osxdaily.com/2023/02/16/macos-big-sur-11-7-4-released-with-bug-fixes/)
+
+
+> Apple has released MacOS Big Sur 11.7.4 with bug fixes for Mac users who are continuing to run the MacOS Big Sur operating system. MacOS Big Sur 11.7.4 fixes an issue with Safari where favorite icons would not load, and apparently also includes some security updates. No concurrent update is available for MacOS Monterey users, however MacOS Ventura 13.2.1 is available for Ventura users. Additionally, Safari 16.3 is available for both MacOS Big Sur and MacOS Monterey. How to Download macOS Big Sur 11.
+
+
+***
+![Ubisoft ‘Cancelled A Few Games' Because They Were Making Too Many](https://www.kotaku.com.au/wp-content/uploads/sites/3/2023/02/17/assassins-creed-codename-jade-beta-leak.png?quality=80&resize=1280,720 "Ubisoft ‘Cancelled A Few Games' Because They Were Making Too Many")
+
+
+[Ubisoft ‘Cancelled A Few Games' Because They Were Making Too Many](https://www.kotaku.com.au/2023/02/ubisoft-cancelled-a-few-games-because-they-were-making-too-many/)
+
+
+> Image: Ubisoft Ubisoft seems to be attempting to pull themselves out of the trenches of investor doubt after a rocky start to the year . January saw the cancellation of three unannounced games to go along with the four cancelled games from 2022 , as well as another delay for Ubisoft's long-awaited pirate game   Skull And Bones . On top of that, reports revealed that cuts were occurring internally , and more recently we saw the departure of veteran  Assassin's Creed developer Jean Guesdon from the company.
+
+
+***
+![Monster Hunter Rise DLC Pack 9 Available now](https://gonintendo.com/attachments/image/23413/file/medium-ca0de0e01ab9edf6055779aa5c523614.png "Monster Hunter Rise DLC Pack 9 Available now")
+
+
+[Monster Hunter Rise DLC Pack 9 Available now](https://gonintendo.com/contents/16382-monster-hunter-rise-dlc-pack-9-available-now)
+
+
+> (Trust me, they do.)
+
+
+***
+![Dash board temporarily suspends CEO as company investigates financial impropriety](https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1256225658.jpg?resize=1200,800 "Dash board temporarily suspends CEO as company investigates financial impropriety")
+
+
+[Dash board temporarily suspends CEO as company investigates financial impropriety](https://techcrunch.com/2023/02/16/daily-crunch-dash-board-temporarily-suspends-ceo-as-company-investigates-financial-impropriety/)
+
+
+> To get a roundup of TechCrunch's biggest and most important stories delivered to your inbox every day at 3 p.m. PST, subscribe here . It's Fridayyyy . . . Tomorrow. We had you there for a moment, though, didn't we? The most interesting story for the VC and startup nerds among us comes from Connie today. A class-action lawsuit just dropped that accuses Sequoia Capital, Paradigm and Thoma Bravo of promoting FTX to the detriment of its users. A trial — even a settlement — could have widespread ramifications .
+
+
+***
+![Samsung Announces Global Launch of the Galaxy S23 Series](https://img.global.news.samsung.com/global/wp-content/uploads/2023/02/S23-Global-Launch_Thumb728.jpg "Samsung Announces Global Launch of the Galaxy S23 Series")
+
+
+[Samsung Announces Global Launch of the Galaxy S23 Series](https://news.samsung.com/global/samsung-announces-global-launch-of-the-galaxy-s23-series)
+
+
+> Samsung Electronics today announced the global availability of its industry-leading Galaxy S23 smartphones following impressive pre-order results. Pre-orders for the previous year's Galaxy S22 series had already been a great success, with numbers more than double that of the Galaxy S21 series within the first week. This year, pre-order results were even higher than those of the Galaxy S22 series, with 60% of consumers opting for the most premium Galaxy S23 Ultra. 'The great momentum we're witnessing speaks to customers' excitement about products that push the envelope and give them the freedom to express themselves creatively,' said TM Roh, President and Head of Mobile eXperience Business at Samsung Electronics.
+
+
+***
+![Most of us are still worried about AI — but will corporate America listen?](https://npr.brightspotcdn.com/dims4/default/dec0d31/2147483647/strip/true/crop/2831x1486+0+317/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F02%2F16%2Fgettyimages-640351099-edit-5cdc6e96ded81e048b9a499678a9f79f9ed1f3be.jpg "Most of us are still worried about AI — but will corporate America listen?")
+
+
+[Most of us are still worried about AI — but will corporate America listen?](https://www.kosu.org/technology/2023-02-16/most-of-us-are-still-worried-about-ai-but-will-corporate-america-listen)
+
+
+> On Air Now Playing KOSU Radio On Air Now Playing The Spy FM Bots can mean big bucks for companies. Is everyone benefiting? Do we need a mandatory screening of the Terminator series in corporate boardrooms? Because new research shows that Americans are concerned about the pace that artificial intelligence is evolving these days. Alexa, play Terminator 2: Judgment Day . Who are they? AI bots.
+
+
+***
+![Seattle tech company Applexus to open Calgary office](https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/2/16/applexus-ced-feb--15--2023-1-6277318-1676586842880.jpg "Seattle tech company Applexus to open Calgary office")
+
+
+[Seattle tech company Applexus to open Calgary office](https://calgary.ctvnews.ca/tech-company-applexus-opening-office-in-calgary-1.6277303)
+
+
+> Another tech company announced it's setting up shop in Calgary Wednesday. Applexus founder and CEO Sam Mathew made the announcement downtown yesterday with Rajan Sawhney, Alberta's provincial trade, immigration and multiculturalism minister Seattle-based Applexus offers consulting services for fashion and retail businesses that operate with SAP software. The company says it anticipates creating 125 jobs over the next five years. The province said in a release that it will invest $1.
+
+
+***
+[Gigaphoton unveils technology solutions at SPIE Advanced Lithography + Patterning 2023](http://www.businesswire.com/news/home/20230216005001/en/Gigaphoton-unveils-technology-solutions-at-SPIE-Advanced-Lithography-Patterning-2023/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> OYAMA, Japan--(BUSINESS WIRE)--Gigaphoton participates in SPIE Advanced Litho & Patterning 2023 to introduce the latest technology on yield improvement and sustainability solution.
+
+
+***
+![League of Legends champions Lee Sin and Teemo scheduled to receive ASU: Riot Games developers provide insight](https://staticg.sportskeeda.com/editor/2023/02/15302-16765799164123-1920.jpg "League of Legends champions Lee Sin and Teemo scheduled to receive ASU: Riot Games developers provide insight")
+
+
+[League of Legends champions Lee Sin and Teemo scheduled to receive ASU: Riot Games developers provide insight](https://www.sportskeeda.com/esports/news-league-legends-champions-lee-sin-teemo-scheduled-receive-asu-riot-games-developers-provide-insight)
+
+
+> League of Legends champions Lee Sin and Teemo are set to be the next beneficiaries of ASU (Art and Sustainable Update). Riot Brightmoon and Meddler unveiled the relevant details. In addition, they offered information on forthcoming champions, champion price adjustments, League of Legends backstory, game modes, Wild Rift Debut Skins & Updated Splash, Clash, and Regional & Global Tech Improvements in their latest Dev Diaries video. Riot Games developers offer insight on League of Legends champions Lee Sin and Teemo Riot Games developers Brightmoon (Executive Producer of League of Legends) and Meddler (Head of League Studios) astonished everyone by announcing that Lee Sin and Teemo are the next champions to receive an ASU.
+
+
+***
+![Apple blocks beta profile sharing with iOS 16.4](https://iphonesoft.fr/images/2023/02/ios-16-4-beta-update.jpg "Apple blocks beta profile sharing with iOS 16.4")
+
+
+[Apple blocks beta profile sharing with iOS 16.4](https://www.world-today-news.com/apple-blocks-beta-profile-sharing-with-ios-16-4/)
+
+
+> With the release of iOS 16.4 beta 1 tonight, Apple announced a major change in how it will now distribute test builds to developers. While installing a beta of iOS previously required a special profile to be installed, this process will now be tied to the developer's Apple ID. Simpler but restrictive. Clearly, non-developers will not be able to test iOS 17 next June. Apple is changing the way it installs iOS betas Indeed, from iOS 16.4, developers and users will find a special menu to enroll an iPhone or iPad in the program.
+
+
+***
+![Beta 1 release for Apple macOS 13.3 developers!Add new features and fix bugs  Kamiap](https://www.appps.jp/wp-content/uploads/2022/07/ci-1.jpg "Beta 1 release for Apple macOS 13.3 developers!Add new features and fix bugs  Kamiap")
+
+
+[Beta 1 release for Apple macOS 13.3 developers!Add new features and fix bugs  Kamiap](https://www.world-today-news.com/beta-1-release-for-apple-macos-13-3-developersadd-new-features-and-fix-bugs-kamiap-deliver-apple-news-and-it-information/)
+
+
+> Three days after the release of macOS 13.2.1, Apple has released macOS 13.3 Beta 1 for developers. Beta 1 release for Apple macOS 13.3 developers The release notes for macOS 13.3 Developer Beta 1 contain details of the addition of two new features and bug fixes for developers. The new features described in the release notes of Beta 1 for macOS 13.3 developers are as follows. Accessory Security: On Apple Silicon Portables, SD or SD Extended Capacity cards require user approval before the card can communicate with macOS.
+
+
+***
+![Carol Vorderman got ‘busted' sneaking off with Denise Welch at retreat](https://cdn.images.express.co.uk/img/dynamic/79/590x/Carol-Vorderman-1735886.jpg?r=1676586350249 "Carol Vorderman got ‘busted' sneaking off with Denise Welch at retreat")
+
+
+[Carol Vorderman got ‘busted' sneaking off with Denise Welch at retreat](https://iknowallnews.com/celebrities/carol-vorderman-got-busted-sneaking-off-with-denise-welch-at-retreat/)
+
+
+> Home » Celebrities » Carol Vorderman got ‘busted' sneaking off with Denise Welch at retreat We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info Age-defying Carol Vorderman, 62, enjoyed a fun-filled detox at a luxury retreat in Portugal last month. The week-long trip turned into quite the celebrity affair and Carol was joined by Loose Woman Denise Welch, This Morning's Alison Hammond, Alex Scott, Judge Rob Rinder and Dragons' Den star Sarah Willingham.
+
+
+***
+![Warzone 2 strategist reveals best settings for Ashika Island](https://editors.dexerto.com/wp-content/uploads/2023/01/31/Fn0dF1-WQAASi82.jpg "Warzone 2 strategist reveals best settings for Ashika Island")
+
+
+[Warzone 2 strategist reveals best settings for Ashika Island](https://www.dexerto.com/call-of-duty/warzone-2-strategist-reveals-best-settings-for-ashika-island-2063811/)
+
+
+> Ashika Island's Beach Club POI in Warzone 2. Warzone 2 introduced a new Resurgence map as part of the Season 2 update, and the LA Guerillas revealed the best settings to dominate Ashika Island. Ashika Island provides Warzone 2 players with a new environment to explore, and it's a much different experience than Al Mazrah . The Japanese-inspired island emphasizes fast-paced gameplay and close-range engagements. In comparison, Al Mazrah's sprawling desert landscape plays right into the hands of long-range weapons and tactical positioning.
+
+
+***
+[IRI and Boston Consulting Group Announce 2022 U.S. CPG Growth Leaders](http://www.businesswire.com/news/home/20230216005863/en/IRI-and-Boston-Consulting-Group-Announce-2022-U.S.-CPG-Growth-Leaders/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> CHICAGO--(BUSINESS WIRE)--IRI®, which recently merged with The NPD Group to create a leading global technology, analytics and data provider, and Boston Consulting Group (BCG), a leading global consulting firm, released their 11th annual Growth Leaders report today. The report analyzes the growth performance of hundreds of large, medium and small public and private consumer packaged goods (CPG) companies and highlights drivers of success in today's market. 'The leading CPGs in 2022 won by delive
+
+
+***
+[Terran Orbital's Marc Bell to Present at Citi's 2023 Global Industrial Tech and Mobility Conference](http://www.businesswire.com/news/home/20230216005861/en/Terran-Orbital%E2%80%99s-Marc-Bell-to-Present-at-Citi%E2%80%99s-2023-Global-Industrial-Tech-and-Mobility-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> BOCA RATON, Fla.--(BUSINESS WIRE)---- $LLAP #TerranOrbital--Terran Orbital Corporation (NYSE: LLAP), a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced Co-Founder, Chairman, and Chief Executive Officer Marc Bell will present at Citi's 2023 Global Industrial Tech and Mobility Conference. The conference will take place in Miami at the Ritz Carlton South Beach. Bell will participate in a fireside chat alongside Planet Labs Vice Presi
+
+
+***
+![Microsoft's New AI Is Attacking Users](https://www.giantfreakinrobot.com/wp-content/uploads/2023/02/agent-smith-hugo-weaving-gun.jpg "Microsoft's New AI Is Attacking Users")
+
+
+[Microsoft's New AI Is Attacking Users](https://www.giantfreakinrobot.com/tech/microsoft-bing-chat-ai-threat.html)
+
+
+> The new Microsoft Bing Chat AI is acting weird, including doling out what some interpret as a death threat to engineering student Marvin von Hagen. By Michileen Martin | Published 6 mins ago Well, it looks like some attempts at artificial intelligence are a little too Agent Smith and not enough Data. Engineering student Marvin von Hagen recently shared screenshots of an interaction with Microsoft ‘s Bing Chat AI, aka Sydney, during which the chatbot took a hostile stance right away toward Von Hagen.
+
+
+***
+![Watch Tetris' first official trailer](https://www.gamereactor.no/media/46/watchtetrisfirst_3964633b.jpg "Watch Tetris' first official trailer")
+
+
+[Watch Tetris' first official trailer](https://www.world-today-news.com/watch-tetris-first-official-trailer/)
+
+
+> It's been nearly a decade since we first heard talk of a Tetris movie, so it's understandable if you'd given up hope that it would ever become a reality. That's what makes today's trailer even better. Apple has finally given us the first official trailer for Jon S. Baird's Tetris, the film inspired by the true story behind how the game became the global phenomenon we know today. Inspired is definitely a key word here, as Taron Egerton's version of Henk Rodgers seems to be in more car chases and fights than I at least hope the real guy had to go through to give us one of the best games in the world.
+
+
+***
+![ESXi Ransomware Update Outfoxes CISA Recovery Script](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8720fd47c513cb3f/6374042e814c1a2f27bf305f/Ransomware_Wavebreakmedia_Ltd_IFE-210813_Alamy.jpg "ESXi Ransomware Update Outfoxes CISA Recovery Script")
+
+
+[ESXi Ransomware Update Outfoxes CISA Recovery Script](https://www.darkreading.com/endpoint/esxi-malware-update-outfoxes-cisa-recovery-script)
+
+
+> 1 MIN READ Quick Hits Just a week after the Cybersecurity and Infrastructure Security Agency (CISA) released its recovery script against ransomware targeting VMWare ESXi virtual machines, a modified version of the malware is already in circulation that renders the decryptor script useless. So far, around 3,800 servers across the globe have already fallen victim to EXSiArgs ransomware , CISA and the FBI warn. "Where the old encryption routine skipped large chunks of data based on the size of the file, the new encryption routine only skips small (1MB) pieces and then encrypts the next 1MB," researchers at Malwarebytes said in a new report on the ESXi vulnerability .
+
+
+***
+![[사이언스샷] Plant evolution unknown even to Darwin, finding answers in worm-eaten fossils](https://biz.chosun.com/resizer/jh7Dj1HV1KQFqnzKqLCcrHR5waY=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/TSS6DPRFEVAURJFF25EITV4I5Y.jpg "[사이언스샷] Plant evolution unknown even to Darwin, finding answers in worm-eaten fossils")
+
+
+[[사이언스샷] Plant evolution unknown even to Darwin, finding answers in worm-eaten fossils](https://www.world-today-news.com/%ec%82%ac%ec%9d%b4%ec%96%b8%ec%8a%a4%ec%83%b7-plant-evolution-unknown-even-to-darwin-finding-answers-in-worm-eaten-fossils/)
+
+
+> Plants also sleep at night. Shamrock opens its leaves during the day and folds them at night centering on the leaf veins. Since when did plants do this? Scientists have found an answer in fossilized leaves eaten by worms. On the 16th, a research team led by Professor Zuo Peng of Yunnan University in China published in the international journal ‘Current Biology', 'Based on fossils from 250 million years ago, it is possible that even in the Paleozoic Era, plants fold their leaves every night during sleep (nyctinasty).
+
+
+***
+![Hogwarts Legacy The Hippogriff Marks The Spot Quest Guide](https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Screenshot%20%282491%29.jpg?itok=NqBBgEni "Hogwarts Legacy The Hippogriff Marks The Spot Quest Guide")
+
+
+[Hogwarts Legacy The Hippogriff Marks The Spot Quest Guide](https://techraptor.net/gaming/guides/hogwarts-legacy-hippogriff-marks-spot-quest-guide-map-and-treasure-location)
+
+
+> There are a few quests in  Hogwarts Legacy  that use a map with clues to lead you to treasure, and  The Hippogriff Marks The Spot  is one of them. While the quest itself isn't too difficult, locating the map to start the quest as well as understanding the map can be a bit tricky. In this "The Hippogriff Marks The Spot" quest guide, we will discuss where to find the map to start the quest, where the map tells you to go, and what treasure awaits you at the end.  How To Complete The Hippogriff Marks The Spot Quest in  Hogwarts Legacy First, you will need to find the map to start the quest.
+
+
+***
+![Tesla Recalling 'Full Self-Driving' Vehicles For Safety Concerns](https://emfservices.azureedge.net/news/42363.jpg "Tesla Recalling 'Full Self-Driving' Vehicles For Safety Concerns")
+
+
+[Tesla Recalling 'Full Self-Driving' Vehicles For Safety Concerns](https://www.klove.com/news/tech-science/tesla-recalling-full-self-driving-vehicles-for-safety-concerns-40545)
+
+
+> DETROIT (AP) — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its 'Full Self-Driving' system because it misbehaves around intersections and doesn't always follow speed limits. The recall, part of part of a larger investigation by the National Highway Traffic Safety Administration into Tesla's automated driving systems, is the most serious action taken yet against the electric vehicle maker. It raises questions about CEO Elon Musk's claims that he can prove to regulators that cars equipped with 'Full Self-Driving' are safer than humans, and that humans almost never have to touch the controls.
+
+
+***
+![Sam Altman is tech's next household name — if we survive the killer robots](https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-02/230216-Altman-ChatGPT-jg-393bc2.jpg "Sam Altman is tech's next household name — if we survive the killer robots")
+
+
+[Sam Altman is tech's next household name — if we survive the killer robots](https://www.nbcnews.com/tech/innovation/chatgpt-sam-altman-openai-ai-chat-ceo-rcna70371)
+
+
+> Sam Altman may be tech's next household name, but many Americans probably haven't heard of him.  To anyone outside San Francisco, Altman would probably seem like just another young tech CEO. He's a Stanford University dropout who sold a tech startup years ago for a fortune , and he's spent the past decade investing and coaching other entrepreneurs. He posts confident and sunny life advice on Twitter and peppers his conversation with references to line graphs.  But in the past three months, Altman, 37, has rocketed to the top of the tech industry's power rankings on the back of OpenAI.
+
+
+***
+[Western State College of Law Associate Professor Eunice Park Named Future of Privacy Forum's 'Privacy Papers for Policymakers' Award-Winner](http://www.businesswire.com/news/home/20230216005365/en/Western-State-College-of-Law-Associate-Professor-Eunice-Park-Named-Future-of-Privacy-Forum%E2%80%99s-%E2%80%9CPrivacy-Papers-for-Policymakers%E2%80%9D-Award-Winner/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> IRVINE, Calif.--(BUSINESS WIRE)-- #law--Western State College of Law at Westcliff University's Associate Professor Eunice Park was named a Privacy Papers for Policymakers (PPPM) award-winner by the Future of Privacy Forum (FPF) — a global non-profit focused on data protection headquartered in Washington, D.C. Her paper, 'Reproductive Health Care Data Free or For Sale: Post-Roe Surveillance and the ‘Three Corners' of Privacy Legislation Needed' was showcased today at the 13th Annual Privacy Paper
+
+
+***
+![Sword of the Necromancer Physical Edition out soon on Amazon](https://gonintendo.com/attachments/image/23411/file/medium-bbc14ecf972a8657e02044409931a3fc.png "Sword of the Necromancer Physical Edition out soon on Amazon")
+
+
+[Sword of the Necromancer Physical Edition out soon on Amazon](https://gonintendo.com/contents/16380-sword-of-the-necromancer-physical-edition-available-soon-on-amazon)
+
+
+> Limited Run Games has announced via their Twitter account that Sword of the Necromancer physical edition will get a re-release, this time through Amazon. While the post mentions it will be available Spring 2023, the Amazon listing mentions the specific date of March 23th and it will cost $34.99. Here's a direct link to the Amazon listing, so make sure to pre-order the game now if you are interested! [ Twitter ] modal#open commentUpvoteInfoModal.open@document->modal#reloadFrame>
+
+
+***
+![MojoHost Introduces Cold Storage Solution MojoIce AVN](https://resize.avn.com/eyJidWNrZXQiOiJhdm4taW1hZ2VzIiwia2V5IjoiMjAyM1wvMDJcLzE2XC8wdnkwOWQ2dVFmUlFwYks0d3JVU0RzcWlWakJaa0tvcUpWeXBGS0NELnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAyNCwiaGVpZ2h0Ijo1MDAsImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AifX19 "MojoHost Introduces Cold Storage Solution MojoIce AVN")
+
+
+[MojoHost Introduces Cold Storage Solution MojoIce AVN](https://avn.com/business/articles/technology/mojohost-introduces-cold-storage-solution-mojoice-916595.html)
+
+
+> SOUTHFIELD, Mich. —Web hosting firm MohoHost has announced the launch of MojoIce, a new object storage solution designed for active backups, internal content management, and other colder storage needs, which the company touts as "a more cost-effective and reliable alternative to popular solutions like Wasabi, AWS Glacier and Backblaze." "While Wasabi and Backblaze imply heat in their names, they are in fact cold storage solutions based on IOPS and throughput limitations with a high cost of egress bandwidth when it exceeds the amount stored and unfavorable data retention policies," MojoHost president Brad Mitchell explained.
+
+
+***
+![Apple's patent reveals messages that read out in your own voice](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/6a0120a5580826970c02b6852891cc200d.jpg "Apple's patent reveals messages that read out in your own voice")
+
+
+[Apple's patent reveals messages that read out in your own voice](https://mobilesyrup.com/2023/02/16/apples-patent-reveals-messages-that-read-out-in-your-own-voice/)
+
+
+> A recently uncovered Apple patent suggests that you might soon be able to hear an iMessage in the sender's voice, rather than Siri's voice. Users can already ask Siri to read incoming messages, but the new patent filed with the US Patent & Trademark Office is an extension of this feature, allowing users to hear a message in the sender's voice, as first shared by PatentlyApple . The patent, filed back in October 2022, went live today with D. Winarsky, Director Siri Text-to-Speech, listed as the lead inventor.
+
+
+***
+[For example, an NSFW mod has crept into The Witcher 3 next-gen version](https://www.world-today-news.com/for-example-an-nsfw-mod-has-crept-into-the-witcher-3-next-gen-version/)
+
+
+> The Witcher 3 has always been a game with adult elements. The world is dark and full of murder, racism and exposed genitals. The latter only went a lot further in the next-gen version of the game. Developer CD Projekt RED found out about this last week and quickly resolved the problem. The next-gen version of The Witcher 3 does not only have improvements from the developer itself, the Polish studio has also used mods to make adjustments – with approval and compensation for the modders in question.
+
+
+***
+![How to change your House skins in Disney Dreamlight Valley](https://cdn1.dotesports.com/wp-content/uploads/2023/02/16163833/disney-dreamlight-1200-768x431.jpg "How to change your House skins in Disney Dreamlight Valley")
+
+
+[How to change your House skins in Disney Dreamlight Valley](https://dotesports.com/general/news/how-to-change-your-house-skins-in-disney-dreamlight-valley)
+
+
+> Personalization is what makes Disney Dreamlight Valley the magical world that it is. From unlocking new characters to crafting new items with materials , there's lots to explore in the game, and Gameloft has added even more recently. The Festival of Friendship update granted players the ability to change their House skins. Between paint colors, wallpapers, interior doors, and home skins, you can customize all of them with a few simple clicks. In addition to changing the exterior paint of your house, players will also be able to change all the doors inside their homes.
+
+
+***
+![I Found A Way To Save Hundreds On IPhone – Why Apple Fans Are Paying Top Price](https://media.techtribune.net/uploads/2023/02/TP-GOLDEN-APPLE-OFF-PLATFORM.jpg "I Found A Way To Save Hundreds On IPhone – Why Apple Fans Are Paying Top Price")
+
+
+[I Found A Way To Save Hundreds On IPhone – Why Apple Fans Are Paying Top Price](https://www.world-today-news.com/i-found-a-way-to-save-hundreds-on-iphone-why-apple-fans-are-paying-top-price/)
+
+
+> APPLE users have been told about a clever way to save money when buying an iPhone. If you are a fan of iPhone devices, then you probably already know that they are not cheap. The average iPhone price can cost you between $429 and $1,599. As such, saving even a few hundred dollars on an iPhone can go a long way. And also useful TikToker Steph Gordon (@steph.and.den) pointed out that there is a way to do this. In 35 seconds clip Steph shared that users can actually request a 'refurbished' iPhone when shopping online.
+
+
+***
+![HubSpot Pops On Earnings Beat, Web Marketing Software Maker's Guidance](https://www.investors.com/wp-content/uploads/2019/07/stock-Hubspot-07-company.jpg "HubSpot Pops On Earnings Beat, Web Marketing Software Maker's Guidance")
+
+
+[HubSpot Pops On Earnings Beat, Web Marketing Software Maker's Guidance](https://www.investors.com/news/technology/hubs-stock-hubspot-earnings-q42022/)
+
+
+> HubSpot earnings and revenue for the December quarter handily beat analyst estimates while the company's outlook also came in above expectations. HUBS stock soared on the news. Cambridge, Mass.-based HubSpot (HUBS) said adjusted fourth-quarter earnings came in at $1.11 a share, up 91% from a year earlier. Revenue climbed 27% to $469.7 million, the maker of web marketing software said. A year earlier, HubSpot's earnings were 58 cents a share on sales of $369 million. Analysts expected HubSpot earnings of 83 cents on sales of $445.
+
+
+***
+![How to get cherry trees in Minecraft snapshot](https://staticg.sportskeeda.com/editor/2023/02/344af-16765800543385-1920.jpg "How to get cherry trees in Minecraft snapshot")
+
+
+[How to get cherry trees in Minecraft snapshot](https://www.sportskeeda.com/minecraft/how-get-cherry-trees-minecraft-snapshot)
+
+
+> Debuting in Minecraft: Java Edition's latest snapshot, cherry trees are the game's latest type of harvestable wood. Like the wood types before it, cherry trees can be crafted into many different blocks and other objects like boats. Cherry trees only generate naturally in their respective cherry grove biome, a new addition also introduced in the latest previews. These features will be fully-added to Minecraft's 1.20 update. However, if one is currently playing in the latest snapshot, they can find cherry groves and experiment with harvesting, planting, and growing cherry trees.
+
+
+***
+![Is Bing too belligerent? Microsoft looks to tame AI chatbot](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17Amzb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "Is Bing too belligerent? Microsoft looks to tame AI chatbot")
+
+
+[Is Bing too belligerent? Microsoft looks to tame AI chatbot](http://www.msn.com/en-us/news/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/ar-AA17Aaxi)
+
+
+> Microsoft's newly revamped Bing search engine can write recipes and songs and quickly explain just about anything it can find on the internet. But if you cross its artificially intelligent chatbot, it might also insult your looks, threaten your reputation or compare you to Adolf Hitler. Load Error The tech company said this week it is promising to make improvements to its AI-enhanced search engine after a growing number of people are reporting being disparaged by Bing. In racing the breakthrough AI technology to consumers last week ahead of rival search giant Google, Microsoft acknowledged the new product would get some facts wrong.
+
+
+***
+![New on Disney+ Canada: March 2023](https://cdn.mobilesyrup.com/wp-content/uploads/2023/02/Mandalorian-S3-header.jpg "New on Disney+ Canada: March 2023")
+
+
+[New on Disney+ Canada: March 2023](https://mobilesyrup.com/2023/02/16/new-on-disney-canada-march-2023/)
+
+
+> Disney has revealed the full list of movies and shows that are hitting Disney+ Canada in March 2023. Newsworthy releases for the month include season three of Star Wars: The Mandalorian,  new Star Wars: The Bad Batch S2 episodes, and Bono and the Edge: A Sort of Homecoming With Dave Letterman. See below for the full list: March 1st Call It Love S1 (New Episodes) Wild Crime S2 (All Episodes Available) Wu-Tang: An American Saga S3 (New Episode) Still Missing Morgan S1 (All Episodes Available) Virgin: The Series S1 (All Episodes Available) Star Wars: The Bad Batch S2 (New Episode) March 3rd Finding Michael (documentary) Soul of a Nation Presents: Black in Vegas Yilbasi Gecesi (New Year's Eve) Schoolhouse Rock! 50th Anniversary Singalong March 4th Tokyo Revengers S2 (New Episode) March 5th Bob's Burgers S13 (New Episode) The Simpsons S34 (New Episode) The Great North S3 (New Episode) March 6th History of the World Part II (series) March 7th How I Met Your Father S2 (New Episode) History of the World Part II (New Episodes) March 8th Call It Love S1 (New Episodes) Wu-Tang: An American Saga S3 (New Episode) History of the World Part II (New Episodes) Grails: When Sneakers Change the Game S1 (All Episodes Available) El Grito De Las Mariposas (The Cry of the Butterflies) S1 (All Episodes Available) Star Wars: The Mandalorian S3 (New Episode) Star Wars: The Bad Batch S2 (New Episode) MPower (series) March 9th History of the World Part II (New Episodes) March 10th Chang Can Dunk (film) Killer Under the Bed UnPrisoned S1 (All Episodes Available) Bursa Bulbulu (The Nightingale of Bursa) March 11th Tokyo Revengers S2 (New Episode) March 12th Family Guy S21 (New Episode) Bob's Burgers S13 (New Episode) The Great North S3 (New Episode) The Simpsons S34 (New Episode) March 14th How I Met Your Father (New Episode) March 15th Turning the Tables With Robin Roberts S2 Call It Love S1 (New Episode) Wu-Tang: An American Saga S3 (New Episode) My Family S1 (New Episode) Wedding Agreement the Series S1 (All Episodes Available) Where is Private Dulaney? S1 (All Episodes Available) Doogie Howser, M.
+
+
+***
+![Samsung Galaxy M13 price and specifications .. the price crusher with miraculous features](https://aabbir.com/wp-content/uploads/2023/02/Samsung-Galaxy-M13.jpg "Samsung Galaxy M13 price and specifications .. the price crusher with miraculous features")
+
+
+[Samsung Galaxy M13 price and specifications .. the price crusher with miraculous features](https://www.world-today-news.com/samsung-galaxy-m13-price-and-specifications-the-price-crusher-with-miraculous-features-2/)
+
+
+> a company Samsung It presented its Samsung Galaxy M13 smartphone with a set of features, the most important of which is an excellent LCD screen in displaying vibrant colors, excellent quality, supported by a battery that lasts for a long time, as well as a main camera of great quality. The Samsung Galaxy M13 is available in the market for about 2000 Moroccan dirhams.. in the memory and storage version, 4 GB RAM and 64 GB ROM. Full specifications of the Samsung Galaxy M13 mobile According to the technical website gsmarena, the Galaxy 13 comes with a 6.
+
+
+***
+![New Mirai malware variant infects Linux devices to build DDoS botnet](https://www.bleepstatic.com/content/hl-images/2022/11/30/botnet.jpg "New Mirai malware variant infects Linux devices to build DDoS botnet")
+
+
+[New Mirai malware variant infects Linux devices to build DDoS botnet](https://www.bleepingcomputer.com/news/security/new-mirai-malware-variant-infects-linux-devices-to-build-ddos-botnet/)
+
+
+> A new Mirai botnet variant tracked as ‘V3G4' targets 13 vulnerabilities in Linux-based servers and IoT devices to use in DDoS (distributed denial of service) attacks. The malware spreads by brute-forcing weak or default telnet/SSH credentials and exploiting hardcoded flaws to perform remote code execution on the target devices. Once a device is breached, the malware infects the device and recruits it into its botnet swarm. The particular malware was spotted in three distinct campaigns by researchers at Palo Alto Networks ( Unit 42 ), who reported monitoring the malicious activity between July 2022 and December 2022.
+
+
+***
+![Atlassian: Leaked Data Stolen via Third-Party App](https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf993f8dc32e67332/63eea706f9cd3607d1cfa0e7/atlassian_Igor_Golovnov_Alamy.jpg "Atlassian: Leaked Data Stolen via Third-Party App")
+
+
+[Atlassian: Leaked Data Stolen via Third-Party App](https://www.darkreading.com/endpoint/leaked-atlassian-data-stolen-from-third-party-app-company-says-)
+
+
+> A threat group called SiegedSec recently posted a cache of employee and operations information allegedly stolen from software workforce collaboration tool provider Atlassian. Now Atlassian, best known for its Trello, Jira, and Confluence brands, is reassuring its customers their data is secure, and according to reports, explained that a third-party app was breached , compromising employee data including names, emails, departments, and floor plans of segments of Atlassian offices located in San Francisco, Calif.
+
+
+***
+![UNFI partners with ECRS to enhance retail automation](https://www.supermarketnews.com/sites/supermarketnews.com/files/Grocery_checkout_image.jpg "UNFI partners with ECRS to enhance retail automation")
+
+
+[UNFI partners with ECRS to enhance retail automation](https://www.supermarketnews.com/technology/unfi-partners-ecrs-enhance-retail-automation)
+
+
+> Grocery wholesaler United Natural Foods Inc. (UNFI) has forged an arrangement with retail transactions solutions provider ECRS that will enable users of ECRS' CATAPULT point-of-sale platform to leverage UNFI's Professional Services suite that includes digital coupons, third-party delivery services and electronic payments. The agreement provides for a direct and formal working relationship, particularly around electronic data interchange (EDI) capabilities, and empowers UNFI field associates through ECRS retail automation technology training, the companies said.
+
+
+***
+![Fintech at Cornell Welcomes Ripple as Newest Sponsor](https://www.wcax.com/pf/resources/images/logo-icons/wcax.svg?d=314 "Fintech at Cornell Welcomes Ripple as Newest Sponsor")
+
+
+[Fintech at Cornell Welcomes Ripple as Newest Sponsor](https://www.wcax.com/prnewswire/2023/02/16/fintech-cornell-welcomes-ripple-newest-sponsor/)
+
+
+> , Feb. 16, 2023 /PRNewswire/ -- The Cornell SC Johnson College of Business is pleased to announce Ripple, the leading provider of enterprise blockchain and crypto solutions, as the newest sponsor of the Fintech at Cornell initiative. Fintech at Cornell serves industry and research by facilitating access and engagement among academics, industry practitioners, the legal community, and former regulators to encourage innovations in data science and the digital economy. The initiative prepares students for the digital age by engaging them with faculty members, thought leaders, entrepreneurs, industry leaders, and policymakers in discussion and debate on the socioeconomic implications and applications of AI, big data, blockchains, digital assets, digitization, and more.
+
+
+***
+![Fintech at Cornell Welcomes Ripple as Newest Sponsor](https://www.ksla.com/pf/resources/images/logo-icons/ksla.svg?d=314 "Fintech at Cornell Welcomes Ripple as Newest Sponsor")
+
+
+[Fintech at Cornell Welcomes Ripple as Newest Sponsor](https://www.ksla.com/prnewswire/2023/02/16/fintech-cornell-welcomes-ripple-newest-sponsor/)
+
+
+> , Feb. 16, 2023 /PRNewswire/ -- The Cornell SC Johnson College of Business is pleased to announce Ripple, the leading provider of enterprise blockchain and crypto solutions, as the newest sponsor of the Fintech at Cornell initiative. Fintech at Cornell serves industry and research by facilitating access and engagement among academics, industry practitioners, the legal community, and former regulators to encourage innovations in data science and the digital economy. The initiative prepares students for the digital age by engaging them with faculty members, thought leaders, entrepreneurs, industry leaders, and policymakers in discussion and debate on the socioeconomic implications and applications of AI, big data, blockchains, digital assets, digitization, and more.
+
+
+***
+![Fintech at Cornell Welcomes Ripple as Newest Sponsor](https://www.wafb.com/pf/resources/images/logo-icons/wafb.svg?d=314 "Fintech at Cornell Welcomes Ripple as Newest Sponsor")
+
+
+[Fintech at Cornell Welcomes Ripple as Newest Sponsor](https://www.wafb.com/prnewswire/2023/02/16/fintech-cornell-welcomes-ripple-newest-sponsor/)
+
+
+> , Feb. 16, 2023 /PRNewswire/ -- The Cornell SC Johnson College of Business is pleased to announce Ripple, the leading provider of enterprise blockchain and crypto solutions, as the newest sponsor of the Fintech at Cornell initiative. Fintech at Cornell serves industry and research by facilitating access and engagement among academics, industry practitioners, the legal community, and former regulators to encourage innovations in data science and the digital economy. The initiative prepares students for the digital age by engaging them with faculty members, thought leaders, entrepreneurs, industry leaders, and policymakers in discussion and debate on the socioeconomic implications and applications of AI, big data, blockchains, digital assets, digitization, and more.
+
+
+***
+![Fintech at Cornell Welcomes Ripple as Newest Sponsor](https://www.wbtv.com/pf/resources/images/logo-icons/wbtv.svg?d=314 "Fintech at Cornell Welcomes Ripple as Newest Sponsor")
+
+
+[Fintech at Cornell Welcomes Ripple as Newest Sponsor](https://www.wbtv.com/prnewswire/2023/02/16/fintech-cornell-welcomes-ripple-newest-sponsor/)
+
+
+> , Feb. 16, 2023 /PRNewswire/ -- The Cornell SC Johnson College of Business is pleased to announce Ripple, the leading provider of enterprise blockchain and crypto solutions, as the newest sponsor of the Fintech at Cornell initiative. Fintech at Cornell serves industry and research by facilitating access and engagement among academics, industry practitioners, the legal community, and former regulators to encourage innovations in data science and the digital economy. The initiative prepares students for the digital age by engaging them with faculty members, thought leaders, entrepreneurs, industry leaders, and policymakers in discussion and debate on the socioeconomic implications and applications of AI, big data, blockchains, digital assets, digitization, and more.
+
+
+***
+![SteelSeries Arctis Nova 7X wireless headset review – Walking in daddy's footsteps](https://gamingtrend.com/wp-content/uploads/2023/02/PXL_20230216_153807102-scaled-e1676584845921.jpg "SteelSeries Arctis Nova 7X wireless headset review – Walking in daddy's footsteps")
+
+
+[SteelSeries Arctis Nova 7X wireless headset review – Walking in daddy's footsteps](https://gamingtrend.com/feature/reviews/steelseries-arctis-nova-7x-wireless-headset-review-walking-in-daddys-footsteps/)
+
+
+> It's been a crazy start to the year, and I remember toward the first part of 2022 having a similar opening. Because of all the video games coming through so quickly, I dealt with a little bit of burnout and pivoted to gear, and was able to review some truly astounding devices. Our best of last year award went to the Arctis Nova Pros (review here), a headset I use for everything. SteelSeries somewhat quietly moved this design forward as the preferred line, and now you can buy a Nova in every shape and size.
+
+
+***
+![Indebted Premiot is looking for a savior. He hired elite lawyers to do it](https://d39-a.sdn.cz/d_39/c_img_QK_s/cIJM4/premiot-sidlo.png?fl=cro,0,433,4624,2601|res,1200,,1 "Indebted Premiot is looking for a savior. He hired elite lawyers to do it")
+
+
+[Indebted Premiot is looking for a savior. He hired elite lawyers to do it](https://www.world-today-news.com/indebted-premiot-is-looking-for-a-savior-he-hired-elite-lawyers-to-do-it/)
+
+
+> Beset by financial problems, the Premiot Group of businessman Ondrej Spodniak is intensively solving how to save itself. For this, she hired the leading law firm Havel & Partners. The office managed by the elite lawyer Jaroslav Havel is supposed to help Premiot deal with debts and find investors for projects. Around 3,300 people invested in Premiot, mainly through bonds. The company's liabilities are in units of billions of crowns. There is no information about the value of the holding's property.
+
+
+***
+![AMD Ryzen 9 7900X3D's first benchmark scores are great, but leave me wanting more](https://cdn.mos.cms.futurecdn.net/EfjweHx6yAEW4EDwJeh8wE-1200-80.jpg "AMD Ryzen 9 7900X3D's first benchmark scores are great, but leave me wanting more")
+
+
+[AMD Ryzen 9 7900X3D's first benchmark scores are great, but leave me wanting more](https://www.techradar.com/news/amd-ryzen-9-7900x3ds-first-benchmark-scores-are-great-but-leave-me-wanting-more)
+
+
+> (Image credit: AMD) It seems that the 12-core Ryzen 9 7900X3D is already out in the wild, or at least in the hands of reviewers according to recently published benchmark results for the CPU. According to VideoCardz , the processor had been found in the Ashes of the Singularity benchmark database , where it was tested with the GeForce RTX 4090 GPU using the Crazy 1080p preset. That particular configuration scored 8900, 9000, and 9100 points over three iterations of the benchmark test. While these numbers do give us a good idea as to how powerful the CPU is, Ashes of the Singularity itself isn't a great benchmark test, unfortunately, as there is too much variation in its scoring.
+
+
+***
+![Buttons Are Bougie Now](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17zUDy.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg "Buttons Are Bougie Now")
+
+
+[Buttons Are Bougie Now](http://www.msn.com/en-us/news/technology/buttons-are-bougie-now/ar-AA17A2SU)
+
+
+> The 2022 Ford Bronco Raptor, among the most expensive offering in the car manufacturer's line of tough-guy throwback SUVs, features 418 horsepower, a 10-speed transmission, axles borrowed from off-road-racing vehicles, and 37-inch tires meant for driving off sand dunes at unnecessarily high speeds. But when the automotive site Jalopnik got its hands on a Bronco Raptor for testing, the writer José Rodríguez Jr. singled out something else entirely to praise about the $70,000 SUV: its buttons. The Bronco Raptor features an array of buttons, switches, and knobs controlling everything from its off-road lights to its four-wheel-drive mode to whatever a 'sway bar disconnect' is.
+
+
+***
+![Datadog tops growth expectations but stock drops](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/108218718_3342592535784651_5409350903553710017_o.png "Datadog tops growth expectations but stock drops")
+
+
+[Datadog tops growth expectations but stock drops](https://siliconangle.com/2023/02/16/datadog-tops-fourth-quarter-growth-expectations/)
+
+
+> Datadog Inc. once again topped growth expectations in the fourth quarter after logging a 44% year-over-year revenue increase.  The New York-based observability provider reported today that its sales reached $469 million in the last three months of 2022, surpassing the Zacks consensus estimate by about 5%. Datadog also topped analyst projections in the previous quarter. Nevertheless, Datadog's shares over 7% of their value in today's trading session. One likely contributor to the decline was that the company's first-quarter guidance fell short of expectations.
+
+
+***
+![Windows 11 will make it easier to close blocked apps](https://www.bestmovie.it/wp-content/uploads/2023/02/bruce-willis.jpg "Windows 11 will make it easier to close blocked apps")
+
+
+[Windows 11 will make it easier to close blocked apps](https://www.world-today-news.com/windows-11-will-make-it-easier-to-close-blocked-apps/)
+
+
+> Windows 11 will soon allow users to complete a task without opening the dedicated manager. In fact, a new shortcut will be presented much easier in the context menu of the taskbar. Much simpler processing than before. In Windows 11, when an application stops responding, we use the traditional task manager (control + alt + supp) to close it. Something we often do when we're a little annoyed, as a last resort when faced with a computer that finds itself locked out. Soon it will no longer be necessary to perform this manipulation, it is enough to right-click on the taskbar.
+
+
+***
+![‘Stray Blade' is Coming Soon to PC and Modern Consoles](https://i0.wp.com/technostalls.com/wp-content/uploads/2023/02/stray-blade.jpg?resize=600%2C337&ssl=1 "‘Stray Blade' is Coming Soon to PC and Modern Consoles")
+
+
+[‘Stray Blade' is Coming Soon to PC and Modern Consoles](https://technostalls.com/stray-blade-is-coming-soon-to-pc-and-modern-consoles/)
+
+
+> Credit: Steam Stray Blade is an action-packed adventure that immerses you in the shoes of a daring Adventurer as you journey through the mystical Valley of Acrea, accompanied by none other than your trusty Xhinnon wolf, Boji. You'll be tasked with uncovering the forgotten secrets of this ancient land and wielding the unique and powerful Acrean Metals to bring harmony back to a world plagued by endless conflict. As you traverse through the enchanting landscapes of the valley, you'll engage in intense combat, fend off challenging foes, and overcome various obstacles that will test your skills to the limit.
+
+
+***
+![God of Rock 'Of Storms Above' soundtrack sample released](https://gonintendo.com/attachments/image/23410/file/medium-6360922c2401eda57934a708b2ba72ef.png "God of Rock 'Of Storms Above' soundtrack sample released")
+
+
+[God of Rock 'Of Storms Above' soundtrack sample released](https://gonintendo.com/contents/16379-god-of-rock-of-storms-above-soundtrack-sample-released)
+
+
+> Modus Games previously announced that God of Rock will open its world tour on April 18, 2023, unleashing a stacked setlist of energetic tracks that players will need to master to perform devastating combos in musical matches against other fighters. Today brings us a new soundtrack sample video showcasing the ‘Of Storms Above' song from Marina Ryan. You can give that tune a listen above. Think you have what it takes to defeat the most talented artists in the universe? Now's your chance to test your skills, as attendees of this weekend's Holiday Matsuri event can get their hands on a new playable demo.
+
+
+***
+![TikTok is facing bans across the U.S. over ties to China, but experts say the real issue is privacy](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17A6ze.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg "TikTok is facing bans across the U.S. over ties to China, but experts say the real issue is privacy")
+
+
+[TikTok is facing bans across the U.S. over ties to China, but experts say the real issue is privacy](http://www.msn.com/en-us/news/technology/tiktok-is-facing-bans-across-the-u-s-over-ties-to-china-but-experts-say-the-real-issue-is-privacy/ar-AA17A510)
+
+
+> The social media app TikTok, a platform with over 1 billion users nationwide, is facing bans across the United States because of the app's strong ties with ByteDance and the Chinese Communist Party. But experts say that those who are seeking to prohibit use of the app are focusing on the wrong problem. In 2020, the Trump administration attempted to ban the platform and failed. Now, dozens of institutions, state governments and federal lawmakers across the country have taken action to ban the app.
+
+
+***
+[Heliogen Provides Strategic Update in Letter to Shareholders](http://www.businesswire.com/news/home/20230216005853/en/Heliogen-Provides-Strategic-Update-in-Letter-to-Shareholders/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> PASADENA, Calif.--(BUSINESS WIRE)--Heliogen, Inc. ('Heliogen') (NYSE: HLGN), a leading provider of AI-enabled concentrating solar energy technology, today published a letter to shareholders signaling a renewed strategic focus to capitalize on evolving customer demand, emerging market conditions and enhanced operational efficiency. The full text of the letter below can also be found at investors.heliogen.com. Dear Fellow Shareholders, I am honored to serve as Heliogen's new CEO and to have the o
+
+
+***
+![How will Netflix stop password sharing? What you need to know](https://www.androidauthority.com/wp-content/uploads/2020/02/Netflix-with-popcorn-stock-photo-3.jpg "How will Netflix stop password sharing? What you need to know")
+
+
+[How will Netflix stop password sharing? What you need to know](https://www.androidauthority.com/how-will-netflix-stop-password-sharing-3286170/)
+
+
+> Edgar Cervantes / Android Authority Global streaming giant Netflix has announced its intentions to crack down on password sharing , making it harder to log into a friend's account to save money. But some are wondering what that means exactly. Wasn't password sharing always against Netflix's rules? Does this mean you can split the cost of a subscription with your roommate? How will Netflix stop password sharing if you're allowed to use your account on different devices and in different places? This is all a lot simpler than it sounds, but there are a lot of moving parts, so we've gone ahead and broken down how this all works, and more importantly, how it will affect you and your Netflix experience.
+
+
+***
+![Leak Shows MSI's ‘Affordable' Mag X670E Board Will Offer High-End Features](https://www.extremetech.com/wp-content/uploads/2023/02/Fo_jwM3X0AETy5A-copy-640x360.jpg "Leak Shows MSI's ‘Affordable' Mag X670E Board Will Offer High-End Features")
+
+
+[Leak Shows MSI's ‘Affordable' Mag X670E Board Will Offer High-End Features](https://www.extremetech.com/computing/343171-leak-shows-msis-affordable-mag-x670e-board-will-offer-high-end-features)
+
+
+> Since AMD launched its Zen 4 CPU family last year, potential upgraders have been waiting for more affordable hardware to arrive. AMD launched with only the most expensive CPUs and motherboard chipsets first, knowing hardcore enthusiasts don't have the patience to hold off for several months. Now that it's been a minute, we're starting to see more affordable gear arrive. Motherboards are a big ticket item in this equation. Upgraders are already paying a lot for a Zen 4 CPU and DDR5 memory. Tacking on another $500 for a motherboard is a bridge too far for some.
+
+
+***
+![Biden Says Objects Shot Down Over Weekend Likely Not Chinese Spy Craft](https://cdn.defenseone.com/media/img/cd/2023/02/16/GettyImages_1247196310/open-graph.jpg "Biden Says Objects Shot Down Over Weekend Likely Not Chinese Spy Craft")
+
+
+[Biden Says Objects Shot Down Over Weekend Likely Not Chinese Spy Craft](https://www.defenseone.com/technology/2023/02/biden-says-objects-shot-down-over-weekend-likely-not-chinese-spy-craft/383069/)
+
+
+> The three objects that U.S. fighter jets downed over the United States and Canada last weekend were 'most likely balloons tied to private companies, recreation, or research institutions, studying weather, or conducting other scientific research,' U.S. President Joe Biden said on Thursday.  'We're now just seeing more…partially because of the steps we've taken to increase our radars…and we have to keep adapting our approach…to dealing with these challenges,' Biden told reporters at the White House.
+
+
+***
+![New Classic Lear Jet Foundation To Restore Lear 23-003](https://aviationweek.com/sites/default/files/2023-02/learjet_23-003_chris_marshall_credit_classic_lear_jet_foundation.jpg "New Classic Lear Jet Foundation To Restore Lear 23-003")
+
+
+[New Classic Lear Jet Foundation To Restore Lear 23-003](https://aviationweek.com/business-aviation/aircraft-propulsion/new-classic-lear-jet-foundation-restore-lear-23-003)
+
+
+> https://aviationweek.com/themes/custom/particle/dist/app-drupal/assets/awn-logo.svg Skip to main content Credit: Classic Lear Jet Foundation WICHITA—A group of former Learjet employees have formed a new nonprofit organization called the Classic Lear Jet Foundation with big plans to restore the first Learjet to be delivered to a customer. The group was founded by former Learjet employees in Wichita with the goal to keep the legacy of the... New Classic Lear Jet Foundation To Restore Lear 23-003 is published in The Weekly of Business Aviation, an Aviation Week Intelligence Network (AWIN) Market Briefing and is included with your AWIN membership.
+
+
+***
+![This could be our first look at the iPhone 15 Pro](https://cdn.mos.cms.futurecdn.net/tb7zkXeP8mbW5yi3z8rfJ6-1200-80.jpg "This could be our first look at the iPhone 15 Pro")
+
+
+[This could be our first look at the iPhone 15 Pro](https://www.imore.com/iphone/this-could-be-our-first-look-at-the-iphone-15-pro)
+
+
+> (Image credit: 9to5Mac) Could this be our first look at the iPhone 15 Pro? 9to5Mac seems to think so. As reported by 9to5Mac , the outlet claims it has "obtained exclusive renders of the upcoming iPhone 15 Pro, based on a CAD model provided to 9to5Mac by a reliable case manufacturer and 3D Artist Respective Render Man Ian Zelbo." The outlet says that this particular CAD model "comes from a factory out of China that is seemingly the first to get these files."  Taking a look at the CAD render, you can notice a few things about what might be expected with the iPhone 15 Pro.
+
+
+***
+![Another disappointing inflation report thumps Wall Street](https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/e/9e/e9e187bb-4cd1-55fc-af6b-63684a700f66/63ee48b09b246.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize "Another disappointing inflation report thumps Wall Street")
+
+
+[Another disappointing inflation report thumps Wall Street](https://siouxcityjournal.com/lifestyles/technology/us-stocks-drop-as-inflation-remains-stubbornly-hot/article_3d2f124a-e04f-5370-b616-114de8911eb7.html)
+
+
+> NEW YORK (AP) — Wall Street tumbled Thursday, and stocks fell by the most in four weeks following more evidence that high inflation is staying stickier than expected. The S&P 500 dropped 1.4% after a report said inflation at the wholesale level slowed by less last month than economists forecast. It echoed a report on prices at the consumer level from earlier this week that suggested inflation isn't cooling as quickly and as smoothly as hoped. The Dow Jones Industrial Average lost 431 points, or 1.
+
+
+***
+[Ether Capital Corporation Allocates an Additional $18 Million to Ethereum Staking and Announces Changes to its Technical Team](http://www.businesswire.com/news/home/20230216005847/en/Ether-Capital-Corporation-Allocates-an-Additional-18-Million-to-Ethereum-Staking-and-Announces-Changes-to-its-Technical-Team/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> TORONTO--(BUSINESS WIRE)---- $ETHC--Ether Capital is pleased to announce it has committed an additional 8,000 Ether (C$18.1 million equivalent) to Ethereum Staking.
+
+
+***
+![A patent showcases future Samsung smartwatch... with built-in projector](https://m-cdn.phonearena.com/images/article/145644-wide-two_1200/A-patent-showcases-future-Samsung-smartwatch...-with-built-in-projector.jpg "A patent showcases future Samsung smartwatch... with built-in projector")
+
+
+[A patent showcases future Samsung smartwatch... with built-in projector](https://www.phonearena.com/news/A-patent-showcases-future-Samsung-smartwatch...-with-built-in-projector_id145644)
+
+
+> One of the main limitations of modern-day wearables is the fact that they simply cannot function properly without the smartphone they have been paired with. This is largely (pun intended) because of the smaller screen real estate, which in turn prevents smartwatches from properly executing a wide range of tasks efficiently. We have seen companies pushing the size limits of wearables in the past couple of years with devices like the Apple Watch Ultra and the Galaxy Watch 5 Pro (which are some of the best smartwatches  in 2023), but there is only so much one can fit on their hand.
+
+
+***
+[Schneider Electric closes 2022 with strong Sustainability Impact results](http://www.businesswire.com/news/home/20230216005832/en/Schneider-Electric-closes-2022-with-strong-Sustainability-Impact-results/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> MISSISSAUGA, Ontario--(BUSINESS WIRE)--Schneider Electric, announced today strong annual sustainability impact results alongside its 2022 financial performance.
+
+
+***
+[Business Roundtable Joins Business, Government and Higher Education Officials to Announce the Connecticut Workforce Partnership Initiative](http://www.businesswire.com/news/home/20230216005198/en/Business-Roundtable-Joins-Business-Government-and-Higher-Education-Officials-to-Announce-the-Connecticut-Workforce-Partnership-Initiative/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==)
+
+
+> HARTFORD, Conn.--(BUSINESS WIRE)--Today, Business Roundtable, Stanley Black & Decker, Accenture and the Connecticut Governor's Workforce Council joined together to launch a new Workforce Partnership Initiative (WPI) program in Connecticut. WPI now operates in nine regions throughout the country. Through WPI, Roundtable CEOs partner with local colleges and universities to accelerate and scale best-in-class workforce readiness programs and develop a steady talent pipeline that meets the speci
+
+
